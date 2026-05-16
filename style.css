@@ -24,7 +24,7 @@ body{
 .logo{
   font-size:28px;
   font-weight:bold;
-  color:#00ff99;
+  color:#e50914;
 }
 
 .nav-links{
@@ -40,13 +40,13 @@ body{
 }
 
 .nav-links a:hover{
-  color:#00ff99;
+  color:#e50914;
 }
 
 .ticker-wrap{
   overflow:hidden;
   white-space:nowrap;
-  background:#00ff99;
+  background:#e50914;
   color:black;
   padding:12px 0;
   font-weight:bold;
@@ -89,7 +89,7 @@ body{
   margin-top:30px;
   padding:15px 35px;
   border:none;
-  background:#00ff99;
+  background:#e50914;
   color:black;
   font-weight:bold;
   border-radius:8px;
@@ -129,7 +129,7 @@ body{
 .newsletter button{
   padding:15px 25px;
   border:none;
-  background:#00ff99;
+  background:#e50914;
   font-weight:bold;
   border-radius:8px;
   cursor:pointer;
