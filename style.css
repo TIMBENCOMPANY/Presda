@@ -1,0 +1,161 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family:Arial, sans-serif;
+  background:#0f0f0f;
+  color:white;
+}
+
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px 40px;
+  border-bottom:1px solid #222;
+  background:#111;
+  position:sticky;
+  top:0;
+}
+
+.logo{
+  font-size:28px;
+  font-weight:bold;
+  color:#00ff99;
+}
+
+.nav-links{
+  display:flex;
+  list-style:none;
+  gap:20px;
+}
+
+.nav-links a{
+  text-decoration:none;
+  color:white;
+  transition:0.3s;
+}
+
+.nav-links a:hover{
+  color:#00ff99;
+}
+
+.ticker-wrap{
+  overflow:hidden;
+  white-space:nowrap;
+  background:#00ff99;
+  color:black;
+  padding:12px 0;
+  font-weight:bold;
+}
+
+.ticker{
+  display:inline-block;
+  padding-left:100%;
+  animation:ticker 18s linear infinite;
+}
+
+@keyframes ticker{
+  0%{transform:translateX(0);}
+  100%{transform:translateX(-100%);}
+}
+
+.hero{
+  text-align:center;
+  padding:100px 20px;
+}
+
+.hero-logo{
+  width:150px;
+  margin-bottom:20px;
+}
+
+.hero h1{
+  font-size:60px;
+  margin-bottom:20px;
+}
+
+.hero p{
+  max-width:700px;
+  margin:auto;
+  font-size:20px;
+  color:#ccc;
+}
+
+.hero button{
+  margin-top:30px;
+  padding:15px 35px;
+  border:none;
+  background:#00ff99;
+  color:black;
+  font-weight:bold;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+.newsletter{
+  text-align:center;
+  padding:80px 20px;
+  background:#151515;
+}
+
+.newsletter h2{
+  font-size:40px;
+  margin-bottom:15px;
+}
+
+.newsletter p{
+  color:#aaa;
+  margin-bottom:30px;
+}
+
+.newsletter form{
+  display:flex;
+  justify-content:center;
+  gap:10px;
+  flex-wrap:wrap;
+}
+
+.newsletter input{
+  padding:15px;
+  width:300px;
+  border:none;
+  border-radius:8px;
+}
+
+.newsletter button{
+  padding:15px 25px;
+  border:none;
+  background:#00ff99;
+  font-weight:bold;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+footer{
+  text-align:center;
+  padding:30px;
+  border-top:1px solid #222;
+  color:#888;
+}
+
+@media(max-width:768px){
+
+  .navbar{
+    flex-direction:column;
+    gap:20px;
+  }
+
+  .nav-links{
+    flex-wrap:wrap;
+    justify-content:center;
+  }
+
+  .hero h1{
+    font-size:40px;
+  }
+
+}
