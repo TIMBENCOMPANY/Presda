@@ -1,4 +1,176 @@
 <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PRESDA | Your Daily Press</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css?v=presda-reference-2" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="topbar" aria-label="Primary navigation">
+        <a class="brand" href="#" aria-label="PRESDA home">
+          <img src="logo.png" alt="PRESDA official logo" />
+          <span>Your Daily Press</span>
+        </a>
+
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <div class="nav-menu" id="nav-menu">
+          <a class="is-active" href="#world">World</a>
+          <a href="#middle-east">Middle East</a>
+          <a href="#politics">Politics</a>
+          <a href="#business">Business</a>
+          <a href="#tech">Tech</a>
+          <a href="#sport">Sport</a>
+          <a href="#entertainment">Entertainment</a>
+        </div>
+
+        <a class="breaking-button" href="#breaking">Breaking News</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="breaking" aria-label="Breaking lead story">
+        <div class="hero-scene" aria-hidden="true">
+          <div class="smoke smoke-one"></div>
+          <div class="smoke smoke-two"></div>
+          <div class="flag-beam"></div>
+          <div class="flag-mast"></div>
+          <div class="city-line"></div>
+          <div class="ember-field"></div>
+        </div>
+
+        <div class="hero-copy">
+          <span class="red-tag">Breaking News</span>
+          <h1>
+            <span>World</span>
+            Under Watch
+          </h1>
+          <p>Civilians, markets, leaders, and cities move through a volatile news cycle as PRESDA tracks the stories defining the day.</p>
+
+          <div class="story-metrics" aria-label="Lead story metrics">
+            <div>
+              <span>Live Desk</span>
+              <strong>24/7</strong>
+              <small>Continuous coverage</small>
+            </div>
+            <div>
+              <span>Reports</span>
+              <strong>80+</strong>
+              <small>Verified updates</small>
+            </div>
+            <div>
+              <span>Regions</span>
+              <strong>12</strong>
+              <small>Global bureaus</small>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="headline-strip" aria-label="Breaking news ticker">
+        <strong>Breaking News</strong>
+        <div class="ticker">
+          <div class="ticker-track">
+            <span>Global leaders prepare emergency briefings as markets open under pressure</span>
+            <span>AI labs face fresh scrutiny over model safety and infrastructure scale</span>
+            <span>Championship fixtures draw record global broadcast demand</span>
+            <span>Entertainment giants race to secure next-generation creator deals</span>
+            <span>Global leaders prepare emergency briefings as markets open under pressure</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="visual-stories" aria-label="Featured stories">
+        <article class="photo-card photo-city" id="world">
+          <div>
+            <h2>Homes destroyed. Lives shattered.</h2>
+          </div>
+        </article>
+        <article class="photo-card photo-people" id="middle-east">
+          <div>
+            <h2>Innocent lives caught in a relentless news cycle.</h2>
+          </div>
+        </article>
+        <article class="photo-card photo-smoke" id="politics">
+          <div>
+            <h2>A humanitarian crisis the world cannot ignore.</h2>
+          </div>
+        </article>
+      </section>
+
+      <section class="analysis-section">
+        <div class="map-panel" aria-hidden="true">
+          <div class="world-map"></div>
+          <div class="radar"></div>
+        </div>
+        <article class="analysis-copy">
+          <span class="outline-tag">Analysis</span>
+          <h2>A conflict with no easy end</h2>
+          <p>Decades of diplomacy, broken ceasefires, economic pressure, and rising extremism continue to shape the global security map.</p>
+          <a href="#newsletter" class="outline-button">Read Full Analysis</a>
+        </article>
+      </section>
+
+      <section class="desk-grid" aria-label="PRESDA desks">
+        <article id="business">
+          <span>Business</span>
+          <h2>Markets price risk into a new week of policy shocks.</h2>
+        </article>
+        <article id="tech">
+          <span>Tech</span>
+          <h2>AI infrastructure becomes the next geopolitical flashpoint.</h2>
+        </article>
+        <article id="sport">
+          <span>Sport</span>
+          <h2>Clubs turn stadium data into a premium broadcast weapon.</h2>
+        </article>
+        <article id="entertainment">
+          <span>Entertainment</span>
+          <h2>Studios rebuild celebrity coverage around live social signals.</h2>
+        </article>
+      </section>
+
+      <section class="newsletter" id="newsletter">
+        <div>
+          <span class="red-tag">Presda Dispatch</span>
+          <h2>Stay informed. Stay aware.</h2>
+          <p>Trust PRESDA for a sharp daily briefing across world affairs, business, tech, sport, and culture.</p>
+        </div>
+        <form class="newsletter-form">
+          <label class="sr-only" for="email">Email address</label>
+          <input id="email" type="email" placeholder="you@domain.com" required />
+          <button type="submit">Subscribe</button>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <a class="footer-brand" href="#" aria-label="PRESDA home">
+        <img src="logo.png" alt="PRESDA official logo" />
+        <span>Your Daily Press</span>
+      </a>
+      <p>Stay informed. Stay aware. <strong>Trust PRESDA.</strong></p>
+      <div class="socials" aria-label="Social links">
+        <a href="#" aria-label="X">X</a>
+        <a href="#" aria-label="Instagram">IG</a>
+        <a href="#" aria-label="Facebook">F</a>
+        <a href="#" aria-label="YouTube">YT</a>
+      </div>
+    </footer>
+
+    <script src="script.js?v=presda-reference-2"></script>
+  </body>
+</html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
