@@ -1,1 +1,0 @@
-# Presda - Daily Press
