@@ -3,244 +3,162 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="PRESDA - Your Daily Press. A premium dark digital newsroom for cinematic global news, AI, business, sport, tech, world, politics, and entertainment coverage." />
+    <meta name="description" content="PRESDA - Your Daily Press. A premium futuristic news platform with dark and light modes." />
     <title>PRESDA - Your Daily Press</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;600;700;800;900&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="style.css?v=presda-premium-20260517" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css?v=presda-mode-20260518" />
   </head>
   <body>
-    <header class="site-header">
-      <nav class="topbar" aria-label="Primary navigation">
+    <main class="site-shell">
+      <header class="app-header">
         <a class="brand" href="index.html" aria-label="PRESDA home">
           <img src="logo.png" alt="PRESDA official logo" />
           <span>Your Daily Press</span>
         </a>
 
-        <div class="nav-menu" id="nav-menu">
-          <a href="#ai">AI</a>
-          <a href="#business">Business</a>
-          <a href="#sport">Sport</a>
-          <a href="#world">World</a>
-          <a href="#paparazzi">Paparazzi</a>
-          <a href="#lifestyle">Lifestyle</a>
-        </div>
+        <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
+          <a class="active" href="#">Home</a>
+          <a href="#categories">Categories</a>
+          <a href="#trending">Trending</a>
+          <a href="#latest">Latest</a>
+          <a href="#topics">Topics</a>
+        </nav>
 
-        <div class="nav-actions">
-          <button class="search-button" type="button" aria-label="Search"></button>
-          <a class="subscribe-button" href="#newsletter">Subscribe</a>
-          <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-menu">
+        <div class="header-actions">
+          <button class="icon-button search-button" type="button" aria-label="Search"></button>
+          <button class="mode-toggle" type="button" aria-label="Switch color mode" aria-pressed="false">
+            <span class="moon-icon" aria-hidden="true"></span>
+            <span class="sun-icon" aria-hidden="true"></span>
+          </button>
+          <button class="menu-button" type="button" aria-expanded="false" aria-controls="main-nav">
             <span></span>
             <span></span>
             <span></span>
           </button>
         </div>
-      </nav>
-    </header>
+      </header>
 
-    <main>
-      <section class="breaking-strip" aria-label="Breaking news ticker">
-        <strong>Breaking News</strong>
-        <div class="ticker">
+      <section class="ticker-section" id="trending" aria-label="Trending news">
+        <strong>Trending</strong>
+        <div class="ticker-window">
           <div class="ticker-track">
-            <span>Global desks track market shock as policy pressure rises</span>
-            <span>AI infrastructure race turns compute into a strategic asset</span>
-            <span>Clubs transform stadiums into premium data arenas</span>
-            <span>Culture desks monitor the celebrity signal economy</span>
-            <span>Tech cities prepare emergency systems for a hotter summer</span>
-            <span>Global desks track market shock as policy pressure rises</span>
+            <span>OpenAI Unveils Next-Gen Model</span>
+            <span>Elon Musk On Mars Mission</span>
+            <span>UFC 305 Results</span>
+            <span>Apple Vision Pro 2</span>
+            <span>SpaceX Starship Launch</span>
+            <span>OpenAI Unveils Next-Gen Model</span>
           </div>
         </div>
       </section>
 
-      <section class="hero" id="world">
-        <div class="hero-visual" aria-hidden="true">
-          <div class="orbital orbital-one"></div>
-          <div class="orbital orbital-two"></div>
-          <div class="red-scan"></div>
+      <section class="hero-card">
+        <div class="hero-copy">
+          <span class="article-kicker">AI</span>
+          <h1>OpenAI Unveils Next-Gen Model GPT-5</h1>
+          <p>OpenAI has officially launched GPT-5, its most advanced AI model to date, with major improvements in speed, reasoning, and multimodal intelligence.</p>
+          <a class="read-more" href="article.html">
+            Read More
+            <span aria-hidden="true">-></span>
+          </a>
         </div>
-        <div class="hero-content">
-          <span class="eyebrow">PRESDA Live Desk</span>
-          <h1>World Under Watch</h1>
-          <p>Civilians, markets, leaders, and cities move through a volatile news cycle as PRESDA tracks the stories defining the day.</p>
-          <div class="hero-actions">
-            <a class="primary-cta" href="article.html">Read Full Story</a>
-            <span>May 17, 2026 / Global Desk / 6 min read</span>
-          </div>
+        <div class="hero-art" aria-label="Futuristic AI robot cover image" role="img">
+          <div class="robot-head"></div>
+          <div class="robot-neck"></div>
+          <div class="ai-core"></div>
         </div>
-        <aside class="latest-panel" aria-label="Latest headlines">
-          <h2>Latest Headlines</h2>
-          <a href="article.html">
-            <span>AI</span>
-            <strong>Inside the AI infrastructure race</strong>
-          </a>
-          <a href="article.html">
-            <span>Business</span>
-            <strong>Markets price risk into the opening bell</strong>
-          </a>
-          <a href="article.html">
-            <span>Sport</span>
-            <strong>Stadiums become premium data arenas</strong>
-          </a>
-        </aside>
+        <div class="hero-dots" aria-hidden="true">
+          <span class="active"></span>
+          <span></span>
+          <span></span>
+        </div>
       </section>
 
-      <section class="section-wrap">
+      <section class="section-block" id="categories">
         <div class="section-heading">
-          <span>Front Page</span>
-          <h2>Featured Grid</h2>
+          <h2>Top Categories</h2>
+          <a href="#latest">View All <span aria-hidden="true">></span></a>
         </div>
-        <div class="featured-grid">
-          <a class="poster-card poster-large visual-ai" href="article.html" id="ai">
-            <span class="category">AI</span>
-            <div>
-              <time>May 17, 2026</time>
-              <h3>Inside The AI Infrastructure Race</h3>
-              <p>Compute, energy, chips, and regulation converge into the business story of the decade.</p>
-            </div>
+        <div class="category-grid">
+          <a class="category-card" href="#ai">
+            <span class="line-icon icon-ai"></span>
+            <strong>AI</strong>
           </a>
-          <a class="poster-card visual-business" href="article.html" id="business">
-            <span class="category">Business</span>
-            <div>
-              <time>May 17, 2026</time>
-              <h3>Markets Price The Shock</h3>
-              <p>Investors move defensively as policy risk and AI valuations collide.</p>
-            </div>
+          <a class="category-card" href="#gaming">
+            <span class="line-icon icon-game"></span>
+            <strong>Gaming</strong>
           </a>
-          <a class="poster-card visual-sport" href="article.html" id="sport">
-            <span class="category">Sport</span>
-            <div>
-              <time>May 17, 2026</time>
-              <h3>Stadiums Become Data Arenas</h3>
-              <p>Elite clubs turn match day into a biometric, broadcast, and commerce engine.</p>
-            </div>
+          <a class="category-card" href="#sport">
+            <span class="line-icon icon-sport"></span>
+            <strong>Sport</strong>
           </a>
-          <a class="poster-card visual-politics" href="article.html">
-            <span class="category">Politics</span>
-            <div>
-              <time>May 17, 2026</time>
-              <h3>Politics In The Red Zone</h3>
-              <p>Campaigns are redesigned for fragmented attention and crisis-speed response.</p>
-            </div>
+          <a class="category-card" href="#business">
+            <span class="line-icon icon-briefcase"></span>
+            <strong>Business</strong>
           </a>
-          <a class="poster-card visual-culture" href="article.html" id="paparazzi">
-            <span class="category">Paparazzi</span>
-            <div>
-              <time>May 17, 2026</time>
-              <h3>The Celebrity Signal Economy</h3>
-              <p>Every public appearance becomes a data-rich media asset.</p>
-            </div>
+          <a class="category-card" href="#world">
+            <span class="line-icon icon-world"></span>
+            <strong>World</strong>
+          </a>
+          <a class="category-card" href="#lifestyle">
+            <span class="line-icon icon-heart"></span>
+            <strong>Lifestyle</strong>
+          </a>
+          <a class="category-card" href="#paparazzi">
+            <span class="line-icon icon-camera"></span>
+            <strong>Paparazzi</strong>
           </a>
         </div>
       </section>
 
-      <section class="trending-section" aria-label="Trending stories">
-        <div class="section-wrap">
-          <div class="section-heading">
-            <span>Signal</span>
-            <h2>Trending Now</h2>
-          </div>
-          <div class="trending-rail">
-            <a class="trend-card visual-world" href="article.html">
-              <span>01 / World</span>
-              <h3>Global Briefings Move Into Emergency Mode</h3>
-            </a>
-            <a class="trend-card visual-ai" href="article.html">
-              <span>02 / AI</span>
-              <h3>Compute Access Becomes Strategic Power</h3>
-            </a>
-            <a class="trend-card visual-business" href="article.html">
-              <span>03 / Business</span>
-              <h3>Defensive Capital Searches For Shelter</h3>
-            </a>
-            <a class="trend-card visual-lifestyle" href="article.html">
-              <span>04 / Lifestyle</span>
-              <h3>Luxury Wellness Brands Turn To Data</h3>
-            </a>
-          </div>
+      <section class="section-block latest-section" id="latest">
+        <div class="section-heading">
+          <h2>Latest News</h2>
+          <button class="filter-button" type="button">Filter <span aria-hidden="true">=</span></button>
+        </div>
+        <div class="latest-grid">
+          <article class="news-card" id="world">
+            <div class="thumb rocket-thumb" aria-hidden="true"></div>
+            <div>
+              <span>Space</span>
+              <h3>SpaceX Successfully Launches Starship on 5th Test Flight</h3>
+              <p>2h ago <span>12.5K views</span></p>
+            </div>
+          </article>
+          <article class="news-card" id="sport">
+            <div class="thumb fighter-thumb" aria-hidden="true"></div>
+            <div>
+              <span>UFC</span>
+              <h3>UFC 305: Adesanya Returns with a Stunning Victory</h3>
+              <p>3h ago <span>8.7K views</span></p>
+            </div>
+          </article>
         </div>
       </section>
 
-      <section class="category-stack section-wrap">
-        <article class="category-row" id="lifestyle">
-          <div>
-            <span class="eyebrow">Lifestyle</span>
-            <h2>Luxury Wellness Turns Into A Precision Market</h2>
-            <p>Premium health, travel, and daily performance brands are redesigning the modern lifestyle economy around data and trust.</p>
-            <a class="outline-link" href="article.html">View More</a>
-          </div>
-          <a class="mini-story visual-lifestyle" href="article.html">
-            <span>Design</span>
-            <strong>Homes become cinematic personal studios</strong>
-          </a>
-          <a class="mini-story visual-culture" href="article.html">
-            <span>Culture</span>
-            <strong>Creators shape a new premium attention market</strong>
-          </a>
-        </article>
-
-        <article class="category-row">
-          <div>
-            <span class="eyebrow">Tech</span>
-            <h2>Cities Prepare For The New Climate Tech Cycle</h2>
-            <p>Urban systems are being upgraded with sensors, predictive models, emergency mapping, and faster public response loops.</p>
-            <a class="outline-link" href="article.html">View More</a>
-          </div>
-          <a class="mini-story visual-tech" href="article.html">
-            <span>Systems</span>
-            <strong>Heat alerts become a public infrastructure layer</strong>
-          </a>
-          <a class="mini-story visual-ai" href="article.html">
-            <span>AI</span>
-            <strong>Model operators race to reduce energy load</strong>
-          </a>
-        </article>
-      </section>
-
-      <section class="newsletter" id="newsletter">
+      <section class="newsletter-bar" id="topics">
         <div>
-          <span class="eyebrow">PRESDA Dispatch</span>
-          <h2>Stay Informed. Stay Aware.</h2>
-          <p>A sharp daily briefing across world affairs, AI, business, sport, culture, and future technology.</p>
+          <h2>Stay Updated</h2>
+          <p>Get the latest news delivered to your inbox.</p>
         </div>
         <form class="newsletter-form">
           <label class="sr-only" for="email">Email address</label>
-          <input id="email" type="email" placeholder="you@domain.com" required />
+          <input id="email" type="email" placeholder="Enter your email" required />
           <button type="submit">Subscribe</button>
         </form>
+        <div class="social-panel">
+          <span>Follow Us</span>
+          <a href="#" aria-label="Instagram">◎</a>
+          <a href="#" aria-label="X">X</a>
+          <a href="#" aria-label="YouTube">▶</a>
+          <a href="#" aria-label="Facebook">f</a>
+          <a href="#" aria-label="Telegram">↗</a>
+        </div>
       </section>
     </main>
 
-    <footer class="site-footer">
-      <div>
-        <a class="footer-brand" href="index.html">
-          <img src="logo.png" alt="PRESDA official logo" />
-          <span>Your Daily Press</span>
-        </a>
-        <p>PRESDA is a cinematic digital newsroom built for visual storytelling, trusted context, and fast-moving global signal.</p>
-      </div>
-      <nav aria-label="Footer categories">
-        <a href="#ai">AI</a>
-        <a href="#business">Business</a>
-        <a href="#sport">Sport</a>
-        <a href="#world">World</a>
-        <a href="#paparazzi">Paparazzi</a>
-        <a href="#lifestyle">Lifestyle</a>
-      </nav>
-      <div class="footer-contact">
-        <strong>Contact</strong>
-        <span>newsroom@presda.com</span>
-        <span>press@presda.com</span>
-        <div class="socials">
-          <a href="#" aria-label="X">X</a>
-          <a href="#" aria-label="Instagram">IG</a>
-          <a href="#" aria-label="Facebook">F</a>
-          <a href="#" aria-label="YouTube">YT</a>
-        </div>
-      </div>
-    </footer>
-
-    <script src="script.js?v=presda-premium-20260517"></script>
+    <script src="script.js?v=presda-mode-20260518"></script>
   </body>
 </html>
