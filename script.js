@@ -1,53 +1,42 @@
-const menuToggle = document.querySelector(".menu-toggle");
-const navMenu = document.querySelector(".nav-menu");
-const tiltCards = document.querySelectorAll(".poster-card, .trend-card, .mini-story");
+const body = document.body;
+const menuButton = document.querySelector(".menu-button");
+const nav = document.querySelector(".main-nav");
+const modeToggle = document.querySelector(".mode-toggle");
 const newsletterForm = document.querySelector(".newsletter-form");
-const progressBar = document.querySelector(".reading-progress span");
 
-menuToggle?.addEventListener("click", () => {
-  const isOpen = navMenu.classList.toggle("is-open");
-  menuToggle.setAttribute("aria-expanded", String(isOpen));
+const savedMode = localStorage.getItem("presda-mode");
+const prefersLight = window.matchMedia("(prefers-color-scheme: light)").matches;
+
+if (savedMode === "light" || (!savedMode && prefersLight)) {
+  body.classList.add("light-mode");
+  modeToggle?.setAttribute("aria-pressed", "true");
+}
+
+menuButton?.addEventListener("click", () => {
+  const isOpen = nav.classList.toggle("is-open");
+  menuButton.setAttribute("aria-expanded", String(isOpen));
 });
 
-navMenu?.addEventListener("click", (event) => {
+nav?.addEventListener("click", (event) => {
   if (event.target instanceof HTMLAnchorElement) {
-    navMenu.classList.remove("is-open");
-    menuToggle?.setAttribute("aria-expanded", "false");
+    nav.classList.remove("is-open");
+    menuButton?.setAttribute("aria-expanded", "false");
   }
 });
 
-tiltCards.forEach((card) => {
-  card.addEventListener("pointermove", (event) => {
-    const rect = card.getBoundingClientRect();
-    const x = event.clientX - rect.left;
-    const y = event.clientY - rect.top;
-    const rotateY = (x / rect.width - 0.5) * 8;
-    const rotateX = (y / rect.height - 0.5) * -8;
-    card.style.transform = `translateY(-8px) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
-  });
-
-  card.addEventListener("pointerleave", () => {
-    card.style.transform = "";
-  });
+modeToggle?.addEventListener("click", () => {
+  const isLight = body.classList.toggle("light-mode");
+  localStorage.setItem("presda-mode", isLight ? "light" : "dark");
+  modeToggle.setAttribute("aria-pressed", String(isLight));
 });
 
 newsletterForm?.addEventListener("submit", (event) => {
   event.preventDefault();
-  const button = event.currentTarget.querySelector("button");
+  const button = newsletterForm.querySelector("button");
   if (!button) return;
   const original = button.textContent;
-  button.textContent = "Signal Locked";
+  button.textContent = "Subscribed";
   setTimeout(() => {
     button.textContent = original;
-  }, 1800);
+  }, 1700);
 });
-
-function updateProgress() {
-  if (!progressBar) return;
-  const max = document.documentElement.scrollHeight - window.innerHeight;
-  const progress = max > 0 ? Math.min(100, (window.scrollY / max) * 100) : 0;
-  progressBar.style.width = `${progress}%`;
-}
-
-window.addEventListener("scroll", updateProgress, { passive: true });
-updateProgress();
