@@ -1,3 +1,3 @@
-PRESDA - Your Daily Press
+Presda - Your Daily Press
 
 
