@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="PRESDA - Your Daily Press. A premium futuristic news platform with dark and light modes." />
     <title>PRESDA - Your Daily Press</title>
+    <link rel="icon" href="favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="icon" data-theme-favicon href="favicon-dark.png" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" data-theme-favicon href="favicon-light.png" media="(prefers-color-scheme: light)" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="apple-touch-icon" href="favicon-light.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@600;700;800;900&display=swap" rel="stylesheet" />
@@ -14,8 +20,8 @@
     <main class="site-shell">
       <header class="app-header">
         <a class="brand" href="index.html" aria-label="PRESDA home">
-          <img src="logo.png" alt="PRESDA official logo" />
-          <span>Your Daily Press</span>
+          <img class="brand-logo logo-dark" data-logo-dark src="logo-dark.png" alt="PRESDA official logo for dark mode" />
+          <img class="brand-logo logo-light" data-logo-light src="logo-light.png" alt="PRESDA official logo for light mode" />
         </a>
 
         <nav class="main-nav" id="main-nav" aria-label="Primary navigation">

@@ -108,20 +108,31 @@ button {
   min-width: 190px;
 }
 
-.brand img {
-  width: 176px;
-  height: auto;
+.brand-logo {
+  width: 184px;
+  height: 44px;
   object-fit: contain;
   filter: drop-shadow(0 0 10px rgba(255, 26, 26, 0.28));
 }
 
-.brand span {
-  margin-left: 48px;
-  margin-top: 3px;
-  color: var(--muted);
-  font-family: Orbitron, sans-serif;
-  font-size: 8px;
-  letter-spacing: 0.34em;
+.logo-light {
+  display: none !important;
+}
+
+body.light-mode .logo-dark {
+  display: none !important;
+}
+
+body.light-mode .logo-light {
+  display: block !important;
+}
+
+body:not(.light-mode) .logo-dark {
+  display: block !important;
+}
+
+body:not(.light-mode) .logo-light {
+  display: none !important;
 }
 
 .main-nav {
@@ -935,13 +946,9 @@ body.light-mode .newsletter-form input {
     padding-right: 18px;
   }
 
-  .brand img {
+  .brand-logo {
     width: 145px;
-  }
-
-  .brand span {
-    margin-left: 38px;
-    font-size: 7px;
+    height: 38px;
   }
 
   .ticker-section {
