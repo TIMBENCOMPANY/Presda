@@ -641,6 +641,27 @@ body.light-mode .hero-robot-light {
   border-radius: 50%;
 }
 
+.icon-cup::before {
+  inset: 10px 9px 18px;
+  border-radius: 0 0 10px 10px;
+}
+
+.icon-cup::after {
+  inset: 26px 19px 7px;
+  border-width: 0 0 2px 0;
+}
+
+.icon-science::before {
+  inset: 8px 18px 28px;
+  border-radius: 999px 999px 0 0;
+}
+
+.icon-science::after {
+  inset: 24px 10px 8px;
+  border-radius: 50% 50% 10px 10px;
+  border-color: var(--accent);
+}
+
 .latest-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -667,10 +688,31 @@ body.light-mode .hero-robot-light {
 }
 
 .thumb {
+  position: relative;
   height: 98px;
   overflow: hidden;
   border-radius: 7px;
   background: #111;
+}
+
+.image-thumb img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.thumb-light {
+  display: none;
+}
+
+body.light-mode .thumb-dark {
+  display: none;
+}
+
+body.light-mode .thumb-light {
+  display: block;
 }
 
 .rocket-thumb {
@@ -686,10 +728,39 @@ body.light-mode .hero-robot-light {
     linear-gradient(145deg, #35170f, #070707 72%);
 }
 
+.ai-thumb {
+  background:
+    radial-gradient(circle at 72% 36%, rgba(255, 26, 26, 0.9), transparent 12px),
+    radial-gradient(circle at 62% 42%, rgba(255, 26, 26, 0.24), transparent 42px),
+    linear-gradient(110deg, #080808 0 42%, #1a1a1a 43% 55%, #050505 56%);
+}
+
+.paparazzi-thumb {
+  background:
+    radial-gradient(circle at 30% 38%, #ffffff 0 4px, transparent 5px),
+    radial-gradient(circle at 64% 36%, #ffffff 0 5px, transparent 6px),
+    radial-gradient(circle at 50% 58%, rgba(255, 26, 26, 0.4), transparent 36px),
+    linear-gradient(135deg, #2b1010, #060606 68%);
+}
+
+.cup-thumb {
+  background:
+    radial-gradient(circle at 50% 46%, transparent 0 18px, #ffffff 19px 21px, transparent 22px),
+    radial-gradient(circle at 50% 46%, rgba(255, 26, 26, 0.72), transparent 44px),
+    linear-gradient(135deg, #101820, #040404 68%);
+}
+
+.science-thumb {
+  background:
+    radial-gradient(circle at 50% 42%, rgba(255, 26, 26, 0.9), transparent 7px),
+    repeating-radial-gradient(circle at 50% 42%, transparent 0 18px, rgba(255, 255, 255, 0.28) 19px 20px),
+    linear-gradient(145deg, #060b14, #050505 72%);
+}
+
 .kindness-thumb {
   background-image:
     linear-gradient(90deg, rgba(0, 0, 0, 0.58), transparent 58%),
-    url("articles/kindness-powerful-dark.png");
+    url("kindness-powerful-dark.png");
   background-position: center;
   background-size: cover;
 }
@@ -697,7 +768,7 @@ body.light-mode .hero-robot-light {
 body.light-mode .kindness-thumb {
   background-image:
     linear-gradient(90deg, rgba(255, 255, 255, 0.38), transparent 58%),
-    url("articles/kindness-powerful-light.png");
+    url("kindness-powerful-light.png");
 }
 
 .news-card span {
@@ -814,10 +885,8 @@ body.light-mode .newsletter-form input {
 }
 
 .social-panel .email-link {
-  font-family: Orbitron, sans-serif;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 900;
-  text-transform: uppercase;
 }
 
 .social-panel a:hover {
@@ -1186,6 +1255,117 @@ body.light-mode .keanu-image-panel .theme-cover-light {
   display: block;
 }
 
+.brief-article {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(360px, 0.72fr);
+  gap: 42px;
+  padding: 48px;
+  border-top: 1px solid var(--border);
+}
+
+.brief-copy {
+  max-width: 840px;
+}
+
+.brief-kicker {
+  color: var(--accent);
+  font-family: Orbitron, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.brief-copy h1 {
+  margin: 18px 0 22px;
+  font-family: Orbitron, sans-serif;
+  font-size: clamp(2.7rem, 5vw, 5.5rem);
+  line-height: 0.98;
+  text-transform: uppercase;
+}
+
+.brief-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 30px;
+  color: var(--muted);
+  font-family: Orbitron, sans-serif;
+  font-size: 0.74rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.brief-copy p {
+  margin: 0 0 22px;
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1.85;
+}
+
+.brief-copy blockquote {
+  margin: 32px 0;
+  padding: 22px 26px;
+  border-left: 3px solid var(--accent);
+  background: color-mix(in srgb, var(--card) 88%, transparent);
+  color: var(--text);
+  font-family: Orbitron, sans-serif;
+  font-size: clamp(1.1rem, 1.7vw, 1.6rem);
+  font-weight: 900;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.brief-visual {
+  min-height: 520px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--visual-bg, linear-gradient(145deg, #101010, #050505));
+  box-shadow: var(--soft-shadow);
+}
+
+.visual-ai-card {
+  --visual-bg:
+    radial-gradient(circle at 60% 40%, rgba(255, 26, 26, 0.72), transparent 18px),
+    repeating-radial-gradient(circle at 60% 40%, transparent 0 46px, rgba(255, 255, 255, 0.12) 47px 49px),
+    linear-gradient(135deg, #101010, #050505 72%);
+}
+
+.visual-paparazzi-card {
+  --visual-bg:
+    radial-gradient(circle at 34% 34%, #ffffff 0 7px, transparent 8px),
+    radial-gradient(circle at 70% 42%, #ffffff 0 9px, transparent 10px),
+    radial-gradient(circle at 50% 52%, rgba(255, 26, 26, 0.44), transparent 84px),
+    linear-gradient(135deg, #2a0f13, #050505 70%);
+}
+
+.visual-sport-card {
+  --visual-bg:
+    linear-gradient(90deg, transparent 0 48%, rgba(255, 255, 255, 0.36) 49% 51%, transparent 52%),
+    radial-gradient(circle at 50% 52%, rgba(255, 26, 26, 0.58), transparent 68px),
+    linear-gradient(135deg, #111c12, #030303 72%);
+}
+
+.visual-cup-card {
+  --visual-bg:
+    radial-gradient(circle at 50% 45%, transparent 0 44px, #ffffff 45px 48px, transparent 49px),
+    radial-gradient(circle at 50% 45%, rgba(255, 26, 26, 0.7), transparent 92px),
+    linear-gradient(145deg, #091827, #040404 72%);
+}
+
+.visual-science-card {
+  --visual-bg:
+    radial-gradient(circle at 48% 45%, rgba(255, 26, 26, 0.92), transparent 10px),
+    repeating-radial-gradient(circle at 48% 45%, transparent 0 52px, rgba(255, 255, 255, 0.15) 53px 55px),
+    linear-gradient(145deg, #071122, #050505 70%);
+}
+
+.visual-world-card {
+  --visual-bg:
+    radial-gradient(circle at 55% 48%, rgba(255, 26, 26, 0.5), transparent 90px),
+    linear-gradient(25deg, rgba(255, 255, 255, 0.14) 0 2px, transparent 2px 22px),
+    linear-gradient(145deg, #181818, #050505 72%);
+}
+
 @keyframes ticker {
   to {
     transform: translateX(-50%);
@@ -1256,6 +1436,11 @@ body.light-mode .keanu-image-panel .theme-cover-light {
   .keanu-poster {
     grid-template-columns: 1fr;
     min-height: 0;
+  }
+
+  .brief-article {
+    grid-template-columns: 1fr;
+    padding: 34px;
   }
 
   .keanu-poster::before {
@@ -1392,5 +1577,13 @@ body.light-mode .keanu-image-panel .theme-cover-light {
   .poster-lede,
   .poster-body-copy {
     max-width: none;
+  }
+
+  .brief-article {
+    padding: 24px 18px 30px;
+  }
+
+  .brief-visual {
+    min-height: 300px;
   }
 }
