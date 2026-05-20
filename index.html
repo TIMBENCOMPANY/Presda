@@ -5,16 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="PRESDA - Your Daily Press. A premium futuristic news platform with dark and light modes." />
     <title>PRESDA - Your Daily Press</title>
-    <link rel="icon" href="favicon.ico" sizes="any" />
-    <link rel="icon" type="image/png" href="favicon.png" />
-    <link rel="icon" data-theme-favicon href="favicon-dark.png" media="(prefers-color-scheme: dark)" />
-    <link rel="icon" data-theme-favicon href="favicon-light.png" media="(prefers-color-scheme: light)" />
-    <link rel="shortcut icon" href="favicon.ico" />
-    <link rel="apple-touch-icon" href="favicon-light.png" />
+    <link rel="icon" data-dynamic-favicon type="image/png" href="favicon-dark.png?v=presda-favicon-20260520-dark" />
+    <link rel="shortcut icon" data-dynamic-favicon href="favicon-dark.png?v=presda-favicon-20260520-dark" />
+    <link rel="apple-touch-icon" href="favicon-light.png?v=presda-favicon-20260520" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@600;700;800;900&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="style.css?v=presda-mode-20260518" />
+    <link rel="stylesheet" href="style.css?v=presda-contact-20260520" />
+    <link rel="stylesheet" href="contact.css?v=presda-contact-20260520" />
   </head>
   <body>
     <main class="site-shell">
@@ -30,6 +28,7 @@
           <a href="#trending">Trending</a>
           <a href="#latest">Latest</a>
           <a href="#topics">Topics</a>
+          <a href="#contact">Contact</a>
         </nav>
 
         <div class="header-actions">
@@ -212,9 +211,43 @@
           <a class="email-link" href="mailto:contact@presda.com" aria-label="Email PRESDA">@</a>
         </div>
       </section>
+
+      <section class="contact-section" id="contact" aria-labelledby="contact-title">
+        <div class="contact-orbit" aria-hidden="true">
+          <span></span>
+          <span></span>
+        </div>
+        <div class="contact-copy">
+          <span class="section-eyebrow">Contact PRESDA</span>
+          <h2 id="contact-title">Send us news, stories, and press inquiries.</h2>
+          <p>PRESDA is open for editorial leads, media partnerships, corrections, and audience messages. Reach the newsroom directly or follow our official channels.</p>
+        </div>
+        <div class="contact-grid">
+          <a class="contact-card contact-email" href="mailto:contact@presda.com">
+            <span>Email</span>
+            <strong>contact@presda.com</strong>
+            <em>Newsroom inbox</em>
+          </a>
+          <a class="contact-card" href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer">
+            <span>X</span>
+            <strong>@PresdaOfficial</strong>
+            <em>Breaking updates</em>
+          </a>
+          <a class="contact-card" href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer">
+            <span>Instagram</span>
+            <strong>@presdaofficial</strong>
+            <em>Visual stories</em>
+          </a>
+          <a class="contact-card" href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer">
+            <span>Facebook</span>
+            <strong>PRESDA</strong>
+            <em>Community page</em>
+          </a>
+        </div>
+      </section>
     </main>
 
-    <script src="script.js?v=presda-mode-20260518"></script>
+    <script src="script.js?v=presda-favicon-20260520"></script>
   </body>
 </html>
 

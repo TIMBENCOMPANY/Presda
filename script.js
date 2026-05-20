@@ -3,7 +3,6 @@ const menuButton = document.querySelector(".menu-button");
 const nav = document.querySelector(".main-nav");
 const modeToggle = document.querySelector(".mode-toggle");
 const newsletterForm = document.querySelector(".newsletter-form");
-const themedFaviconLinks = document.querySelectorAll("link[data-theme-favicon]");
 const darkLogos = document.querySelectorAll("[data-logo-dark]");
 const lightLogos = document.querySelectorAll("[data-logo-light]");
 
@@ -16,9 +15,14 @@ if (savedMode === "light" || (!savedMode && prefersLight)) {
 }
 
 function updateFavicon() {
-  const icon = body.classList.contains("light-mode") ? "favicon-light.png" : "favicon-dark.png";
-  themedFaviconLinks.forEach((link) => {
+  const mode = body.classList.contains("light-mode") ? "light" : "dark";
+  const icon = `favicon-${mode}.png?v=presda-favicon-20260520-${mode}`;
+
+  document.querySelectorAll("link[data-dynamic-favicon]").forEach((link) => {
     link.setAttribute("href", icon);
+
+    // Replacing the node forces Chromium/Safari to refresh cached tab icons after the mode switch.
+    link.replaceWith(link.cloneNode(true));
   });
 }
 
