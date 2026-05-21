@@ -6,6 +6,14 @@ const newsletterForm = document.querySelector(".newsletter-form");
 const darkLogos = document.querySelectorAll("[data-logo-dark]");
 const lightLogos = document.querySelectorAll("[data-logo-light]");
 
+const logoBackgroundFix = document.createElement("style");
+logoBackgroundFix.textContent = `
+  .brand-logo { background: transparent !important; }
+  body:not(.light-mode) .logo-dark { mix-blend-mode: screen; }
+  body.light-mode .logo-light { mix-blend-mode: multiply; }
+`;
+document.head.appendChild(logoBackgroundFix);
+
 const savedMode = localStorage.getItem("presda-mode");
 const prefersLight = window.matchMedia("(prefers-color-scheme: light)").matches;
 
