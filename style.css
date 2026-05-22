@@ -314,8 +314,9 @@ body.light-mode .mode-toggle::before {
   text-transform: uppercase;
 }
 
-.ticker-window {
+  .ticker-window {
   overflow: hidden;
+  mask-image: linear-gradient(90deg, transparent 0, #000 8%, #000 92%, transparent 100%);
 }
 
 .ticker-track {
@@ -1793,6 +1794,10 @@ body.light-mode .keanu-image-panel .theme-cover-light {
       linear-gradient(180deg, #ffffff 0%, var(--bg) 100%);
   }
 
+  body.light-mode::before {
+    opacity: 0.18;
+  }
+
   body::before {
     background-size: 44px 44px;
     opacity: 0.28;
@@ -1805,6 +1810,10 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     border-radius: 0;
     box-shadow: none;
     background: color-mix(in srgb, var(--panel) 94%, transparent);
+  }
+
+  body.light-mode .site-shell {
+    background: #ffffff;
   }
 
   .app-header {
@@ -1820,6 +1829,12 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     backdrop-filter: blur(18px);
   }
 
+  body.light-mode .app-header {
+    background: rgba(255, 255, 255, 0.94);
+    border-bottom-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  }
+
   .brand {
     min-width: 0;
     flex: 1 1 auto;
@@ -1828,6 +1843,10 @@ body.light-mode .keanu-image-panel .theme-cover-light {
   .brand-logo {
     width: clamp(122px, 42vw, 156px);
     height: 42px;
+  }
+
+  body.light-mode .brand-logo {
+    filter: drop-shadow(0 10px 22px rgba(255, 26, 26, 0.13));
   }
 
   .header-actions {
@@ -1862,6 +1881,19 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     background: color-mix(in srgb, var(--card) 82%, transparent);
   }
 
+  body.light-mode .search-button,
+  body.light-mode .menu-button,
+  body.light-mode .mode-toggle {
+    color: #080808;
+  }
+
+  body.light-mode .menu-button,
+  body.light-mode .mode-toggle {
+    background: rgba(255, 255, 255, 0.9);
+    border-color: rgba(0, 0, 0, 0.12);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+  }
+
   .main-nav {
     position: fixed;
     top: 66px;
@@ -1876,6 +1908,12 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     box-shadow: 0 24px 60px rgba(0, 0, 0, 0.46);
   }
 
+  body.light-mode .main-nav {
+    background: rgba(255, 255, 255, 0.96);
+    border-color: rgba(0, 0, 0, 0.12);
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.14);
+  }
+
   .main-nav a {
     padding: 17px 18px;
     font-size: 12px;
@@ -1886,6 +1924,11 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     grid-template-columns: 96px minmax(0, 1fr);
     gap: 12px;
     padding: 12px 14px;
+  }
+
+  body.light-mode .ticker-section {
+    background: #ffffff;
+    border-bottom-color: rgba(0, 0, 0, 0.09);
   }
 
   .ticker-section strong {
@@ -1902,6 +1945,10 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     font-size: 11px;
   }
 
+  body.light-mode .ticker-track span {
+    color: #171717;
+  }
+
   .hero-card {
     margin: 16px 14px 28px;
     min-height: 0;
@@ -1910,6 +1957,14 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     background:
       radial-gradient(circle at 72% 18%, rgba(255, 26, 26, 0.18), transparent 14rem),
       linear-gradient(180deg, color-mix(in srgb, var(--card) 94%, transparent), color-mix(in srgb, var(--bg) 94%, transparent));
+  }
+
+  body.light-mode .hero-card {
+    border-color: rgba(0, 0, 0, 0.1);
+    background:
+      radial-gradient(circle at 72% 12%, rgba(255, 26, 26, 0.09), transparent 14rem),
+      linear-gradient(180deg, #ffffff 0%, #fbfbfb 100%);
+    box-shadow: 0 22px 52px rgba(0, 0, 0, 0.08);
   }
 
   .hero-copy {
@@ -1923,10 +1978,18 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     line-height: 1.05;
   }
 
+  body.light-mode .hero-copy h1 {
+    color: #050505;
+  }
+
   .hero-copy p {
     max-width: 100%;
     font-size: 0.92rem;
     line-height: 1.65;
+  }
+
+  body.light-mode .hero-copy p {
+    color: #4b4b4b;
   }
 
   .read-more {
@@ -1942,10 +2005,21 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     border-bottom: 1px solid var(--border);
   }
 
+  body.light-mode .hero-art {
+    border-bottom-color: rgba(0, 0, 0, 0.09);
+    background: #ffffff;
+  }
+
   .hero-art::before {
     background:
       linear-gradient(180deg, transparent 42%, color-mix(in srgb, var(--card) 58%, transparent)),
       radial-gradient(circle at 70% 36%, rgba(255, 26, 26, 0.14), transparent 9rem);
+  }
+
+  body.light-mode .hero-art::before {
+    background:
+      linear-gradient(180deg, transparent 54%, rgba(255, 255, 255, 0.52)),
+      radial-gradient(circle at 70% 36%, rgba(255, 26, 26, 0.08), transparent 9rem);
   }
 
   .hero-robot-image {
@@ -1995,6 +2069,14 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     min-height: 96px;
     padding: 12px 6px;
     gap: 8px;
+  }
+
+  body.light-mode .category-card,
+  body.light-mode .news-card,
+  body.light-mode .newsletter-bar {
+    background: #ffffff;
+    border-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.06);
   }
 
   .line-icon {

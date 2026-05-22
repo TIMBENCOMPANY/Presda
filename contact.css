@@ -181,3 +181,55 @@ body.light-mode .contact-card {
     font-size: 2.25rem;
   }
 }
+
+@media (max-width: 600px) {
+  .contact-section {
+    margin: 18px 14px 24px;
+    padding: 22px;
+    border-radius: 12px;
+    gap: 22px;
+  }
+
+  .contact-section::before {
+    background:
+      linear-gradient(90deg, rgba(255, 26, 26, 0.2), transparent 24%, transparent 76%, rgba(255, 26, 26, 0.12)),
+      repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 54px);
+  }
+
+  .section-eyebrow {
+    margin-bottom: 14px;
+    font-size: 10px;
+  }
+
+  .contact-copy h2 {
+    font-size: clamp(2rem, 10vw, 2.8rem);
+    line-height: 1;
+  }
+
+  .contact-copy p {
+    margin-top: 16px;
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .contact-card {
+    min-height: 118px;
+    padding: 18px;
+  }
+
+  .contact-card strong {
+    margin-top: 18px;
+    font-size: 1rem;
+  }
+
+  .contact-orbit {
+    right: -160px;
+    bottom: -190px;
+    opacity: 0.22;
+  }
+}
