@@ -2279,6 +2279,154 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     line-height: 1.72;
   }
 
+  body.light-mode {
+    --bg: #ffffff;
+    --card: #ffffff;
+    --text: #111111;
+    --muted: #555555;
+    --border: #e5e5e5;
+    --accent: #ff1a1a;
+    background: #ffffff;
+    color: #111111;
+  }
+
+  html.light-mode,
+  html.light-mode body,
+  html:has(> body.light-mode),
+  html:has(> body.light-mode) body {
+    background: #ffffff !important;
+    color: #111111 !important;
+  }
+
+  body.light-mode::before {
+    opacity: 0.08;
+  }
+
+  body.light-mode .site-shell,
+  body.light-mode .article-shell {
+    background: #ffffff;
+    color: #111111;
+  }
+
+  body.light-mode .app-header {
+    background: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+    color: #111111;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+  }
+
+  body.light-mode .main-nav {
+    background: #ffffff;
+    border-color: #e5e5e5;
+    color: #111111;
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.12);
+  }
+
+  body.light-mode .main-nav a {
+    color: #111111;
+    border-bottom-color: #e5e5e5;
+  }
+
+  body.light-mode .search-button,
+  body.light-mode .menu-button,
+  body.light-mode .mode-toggle {
+    color: #111111;
+    border-color: #e5e5e5;
+    background: #ffffff;
+  }
+
+  body.light-mode .ticker-section {
+    background: #ffffff;
+    border-top-color: #e5e5e5;
+    border-bottom-color: #e5e5e5;
+    color: #111111;
+  }
+
+  body.light-mode .ticker-window {
+    background: #ffffff;
+  }
+
+  body.light-mode .ticker-track span {
+    color: #111111;
+  }
+
+  body.light-mode .hero-card,
+  body.light-mode .openai-story,
+  body.light-mode .story-template,
+  body.light-mode .brief-article,
+  body.light-mode .category-card,
+  body.light-mode .news-card,
+  body.light-mode .newsletter-bar,
+  body.light-mode .contact-section,
+  body.light-mode .contact-card {
+    background: #ffffff;
+    border-color: #e5e5e5;
+    color: #111111;
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.06);
+  }
+
+  body.light-mode .hero-art,
+  body.light-mode .story-cover-frame,
+  body.light-mode .openai-story .story-cover-frame,
+  body.light-mode .thumb,
+  body.light-mode .brief-visual {
+    background: #f7f7f7;
+    border-color: #e5e5e5;
+  }
+
+  body.light-mode .hero-copy h1,
+  body.light-mode .section-heading h2,
+  body.light-mode .category-card strong,
+  body.light-mode .news-card h3,
+  body.light-mode .newsletter-copy h2,
+  body.light-mode .story-intro h1,
+  body.light-mode .story-sidebar strong,
+  body.light-mode .story-copy,
+  body.light-mode .brief-copy h1,
+  body.light-mode .contact-copy h2,
+  body.light-mode .contact-card strong {
+    color: #111111;
+  }
+
+  body.light-mode .hero-copy p,
+  body.light-mode .news-card p,
+  body.light-mode .news-card p span,
+  body.light-mode .newsletter-copy p,
+  body.light-mode .story-deck,
+  body.light-mode .story-meta-line,
+  body.light-mode .story-sidebar,
+  body.light-mode .story-copy p,
+  body.light-mode .brief-copy p,
+  body.light-mode .contact-copy p,
+  body.light-mode .contact-card em {
+    color: #555555;
+  }
+
+  body.light-mode .story-copy blockquote,
+  body.light-mode .brief-copy blockquote {
+    background: #f7f7f7;
+    color: #111111;
+    box-shadow: inset 0 0 0 1px #e5e5e5;
+  }
+
+  body.light-mode .newsletter-form input {
+    background: #ffffff;
+    border-color: #e5e5e5;
+    color: #111111;
+  }
+
+  body.light-mode .newsletter-form input::placeholder {
+    color: #777777;
+  }
+
+  body.light-mode .logo-dark {
+    display: none;
+  }
+
+  body.light-mode .logo-light {
+    display: block;
+  }
+
   .keanu-poster {
     min-height: 0;
     grid-template-columns: 1fr;
@@ -2317,6 +2465,34 @@ body.light-mode .keanu-image-panel .theme-cover-light {
 }
 
 @media (max-width: 390px) {
+  html.light-mode,
+  html.light-mode body,
+  html:has(> body.light-mode),
+  html:has(> body.light-mode) body {
+    background: #ffffff !important;
+    color: #111111 !important;
+  }
+
+  body.light-mode {
+    background: #ffffff !important;
+    color: #111111 !important;
+  }
+
+  body.light-mode .site-shell,
+  body.light-mode .article-shell,
+  body.light-mode .app-header,
+  body.light-mode .ticker-section,
+  body.light-mode .hero-card,
+  body.light-mode .openai-story,
+  body.light-mode .category-card,
+  body.light-mode .news-card,
+  body.light-mode .newsletter-bar,
+  body.light-mode .contact-section {
+    background: #ffffff;
+    color: #111111;
+    border-color: #e5e5e5;
+  }
+
   .app-header {
     padding-left: 10px;
     padding-right: 10px;

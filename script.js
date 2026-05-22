@@ -1,4 +1,5 @@
 const body = document.body;
+const root = document.documentElement;
 const menuButton = document.querySelector(".menu-button");
 const nav = document.querySelector(".main-nav");
 const modeToggle = document.querySelector(".mode-toggle");
@@ -19,6 +20,7 @@ const prefersLight = window.matchMedia("(prefers-color-scheme: light)").matches;
 
 if (savedMode === "light" || (!savedMode && prefersLight)) {
   body.classList.add("light-mode");
+  root.classList.add("light-mode");
   modeToggle?.setAttribute("aria-pressed", "true");
 }
 
@@ -61,6 +63,7 @@ nav?.addEventListener("click", (event) => {
 
 modeToggle?.addEventListener("click", () => {
   const isLight = body.classList.toggle("light-mode");
+  root.classList.toggle("light-mode", isLight);
   localStorage.setItem("presda-mode", isLight ? "light" : "dark");
   modeToggle.setAttribute("aria-pressed", String(isLight));
   updateBrandAssets();
