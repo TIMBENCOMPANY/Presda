@@ -2195,6 +2195,77 @@ body.light-mode .keanu-image-panel .theme-cover-light {
     aspect-ratio: 4 / 3;
   }
 
+  .openai-story {
+    width: auto;
+    margin: 16px 14px 28px;
+    padding: 0 0 30px;
+    overflow: hidden;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 22px 52px rgba(0, 0, 0, 0.08);
+  }
+
+  .openai-story .story-hero {
+    gap: 0;
+  }
+
+  .openai-story .story-cover-frame {
+    margin: 0;
+    border: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .openai-story .story-intro {
+    padding: 34px 36px 0;
+  }
+
+  .openai-story .back-link {
+    display: none;
+  }
+
+  .openai-story .story-meta-line {
+    gap: 18px;
+    margin-bottom: 24px;
+    color: #555555;
+    font-size: 0.78rem;
+  }
+
+  .openai-story .story-meta-line span:nth-child(n + 3) {
+    display: none;
+  }
+
+  .openai-story .story-meta-line span:first-child {
+    font-size: 1rem;
+  }
+
+  .openai-story .story-intro h1 {
+    margin: 0 0 24px;
+    color: var(--text);
+    font-family: Inter, Arial, sans-serif;
+    font-size: clamp(2.18rem, 9vw, 2.55rem);
+    font-weight: 900;
+    line-height: 1.05;
+    text-transform: none;
+  }
+
+  .openai-story .story-intro h1 span {
+    display: block;
+  }
+
+  .openai-story .story-deck {
+    color: var(--muted);
+    font-size: 1.18rem;
+    line-height: 1.65;
+  }
+
+  .openai-story .story-body-grid {
+    margin-top: 34px;
+    padding: 30px 36px 0;
+  }
+
   .story-sidebar {
     grid-template-columns: 1fr;
   }
