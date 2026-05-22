@@ -1158,6 +1158,17 @@ body.light-mode .theme-cover-light {
   display: block;
 }
 
+.openai-cover-frame {
+  aspect-ratio: 16 / 10;
+}
+
+.openai-cover-frame .story-cover {
+  height: 100%;
+  aspect-ratio: auto;
+  object-fit: cover;
+  object-position: center 62%;
+}
+
 .story-body-grid {
   display: grid;
   grid-template-columns: 220px minmax(0, 820px);
@@ -2177,6 +2188,10 @@ body.light-mode .keanu-image-panel .theme-cover-light {
   .story-cover-frame,
   .brief-visual {
     min-height: 0;
+    aspect-ratio: 4 / 3;
+  }
+
+  .openai-cover-frame {
     aspect-ratio: 4 / 3;
   }
 
