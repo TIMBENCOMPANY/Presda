@@ -1,41 +1,41 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="PRESDA - Your Daily Press. A premium futuristic news platform with dark and light modes." />
+    <meta name="description" content="PRESDA - Your Daily Press. A premium futuristic digital news magazine." />
     <title>PRESDA - Your Daily Press</title>
-    <link rel="icon" data-dynamic-favicon type="image/png" href="favicon-dark.png?v=presda-favicon-20260520-dark" />
-    <link rel="shortcut icon" data-dynamic-favicon href="favicon-dark.png?v=presda-favicon-20260520-dark" />
-    <link rel="apple-touch-icon" href="favicon-light.png?v=presda-favicon-20260520" />
+    <link rel="icon" data-dynamic-favicon type="image/png" href="favicon-dark.png?v=presda-20260523-dark" />
+    <link rel="shortcut icon" data-dynamic-favicon href="favicon-dark.png?v=presda-20260523-dark" />
+    <link rel="apple-touch-icon" href="favicon-light.png?v=presda-20260523" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@600;700;800;900&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="style.css?v=presda-mobile-light-theme-20260522" />
-    <link rel="stylesheet" href="contact.css?v=presda-mobile-20260520" />
+    <link rel="stylesheet" href="style.css?v=presda-premium-20260523" />
   </head>
-  <body>
-    <main class="site-shell">
-      <header class="app-header">
+  <body data-home>
+    <header class="site-header">
+      <div class="nav-shell">
         <a class="brand" href="index.html" aria-label="PRESDA home">
           <img class="brand-logo logo-dark" data-logo-dark src="logo-dark.png" alt="PRESDA official logo for dark mode" />
           <img class="brand-logo logo-light" data-logo-light src="logo-light.png" alt="PRESDA official logo for light mode" />
         </a>
 
         <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
-          <a class="active" href="#">Home</a>
-          <a href="#categories">Categories</a>
-          <a href="#trending">Trending</a>
-          <a href="#latest">Latest</a>
-          <a href="#topics">Topics</a>
-          <a href="#contact">Contact</a>
+          <a href="#ai">AI</a>
+          <a href="#business">Business</a>
+          <a href="#sport">Sport</a>
+          <a href="#world">World</a>
+          <a href="#paparazzi">Paparazzi</a>
+          <a href="#lifestyle">Lifestyle</a>
         </nav>
 
-        <div class="header-actions">
-          <button class="icon-button search-button" type="button" aria-label="Search"></button>
-          <button class="mode-toggle" type="button" aria-label="Switch color mode" aria-pressed="false">
-            <span class="moon-icon" aria-hidden="true"></span>
-            <span class="sun-icon" aria-hidden="true"></span>
+        <div class="nav-actions">
+          <button class="search-button" type="button" aria-label="Search"></button>
+          <button class="theme-toggle" type="button" aria-label="Switch color mode" aria-pressed="false">
+            <span class="toggle-dot" aria-hidden="true"></span>
+            <span class="moon-mark" aria-hidden="true"></span>
+            <span class="sun-mark" aria-hidden="true"></span>
           </button>
           <button class="menu-button" type="button" aria-expanded="false" aria-controls="main-nav">
             <span></span>
@@ -43,211 +43,87 @@
             <span></span>
           </button>
         </div>
-      </header>
+      </div>
+    </header>
 
-      <section class="ticker-section" id="trending" aria-label="Trending news">
-        <strong>Trending</strong>
-        <div class="ticker-window">
-          <div class="ticker-track">
-            <span>OpenAI Unveils Next-Gen Model</span>
-            <span>Elon Musk On Mars Mission</span>
-            <span>UFC 305 Results</span>
-            <span>Apple Vision Pro 2</span>
-            <span>SpaceX Starship Launch</span>
-            <span>OpenAI Unveils Next-Gen Model</span>
+    <main>
+      <section class="ticker" aria-label="Breaking news">
+        <div class="ticker-inner">
+          <strong>Breaking News</strong>
+          <div class="ticker-window">
+            <div class="ticker-track" data-ticker-track></div>
           </div>
         </div>
       </section>
 
-      <section class="hero-card">
-        <div class="hero-copy">
-          <span class="article-kicker">AI</span>
-          <h1>OpenAI Unveils Next-Gen Model GPT-5</h1>
-          <p>OpenAI has officially launched GPT-5, its most advanced AI model to date, with major improvements in speed, reasoning, and multimodal intelligence.</p>
-          <a class="read-more" href="article.html">
-            Read More
-            <span aria-hidden="true">-></span>
-          </a>
-        </div>
-        <figure class="hero-art" aria-label="Futuristic AI robot cover image">
-          <img class="hero-robot-image hero-robot-dark" src="openai-robot-dark.png" alt="Black futuristic AI robot with red neural core" />
-          <img class="hero-robot-image hero-robot-light" src="openai-robot-light.png" alt="White futuristic AI robot with red neural core" />
-          <div class="hero-dots" aria-hidden="true">
-            <span class="active"></span>
-            <span></span>
-            <span></span>
+      <section class="hero-section" aria-label="Featured story">
+        <div class="hero-shell">
+          <div class="hero-copy">
+            <div class="hero-meta">
+              <span data-hero-category>AI</span>
+              <time data-hero-date datetime="2026-05-23">May 23, 2026</time>
+            </div>
+            <h1 data-hero-title>Loading PRESDA</h1>
+            <p data-hero-excerpt></p>
+            <div class="hero-actions">
+              <a class="primary-link" data-hero-link href="article.html">Read Full Story</a>
+              <span data-hero-reading>4 min read</span>
+            </div>
           </div>
-        </figure>
-      </section>
-
-      <section class="section-block" id="categories">
-        <div class="section-heading">
-          <h2>Top Categories</h2>
-          <a href="#latest">View All <span aria-hidden="true">></span></a>
-        </div>
-        <div class="category-grid">
-          <a class="category-card" href="#ai">
-            <span class="line-icon icon-ai"></span>
-            <strong>AI</strong>
-          </a>
-          <a class="category-card" href="#gaming">
-            <span class="line-icon icon-game"></span>
-            <strong>Gaming</strong>
-          </a>
-          <a class="category-card" href="#sport">
-            <span class="line-icon icon-sport"></span>
-            <strong>Sport</strong>
-          </a>
-          <a class="category-card" href="#business">
-            <span class="line-icon icon-briefcase"></span>
-            <strong>Business</strong>
-          </a>
-          <a class="category-card" href="#world">
-            <span class="line-icon icon-world"></span>
-            <strong>World</strong>
-          </a>
-          <a class="category-card" href="#lifestyle">
-            <span class="line-icon icon-heart"></span>
-            <strong>Lifestyle</strong>
-          </a>
-          <a class="category-card" href="#paparazzi">
-            <span class="line-icon icon-camera"></span>
-            <strong>Paparazzi</strong>
-          </a>
-          <a class="category-card" href="#world-cup">
-            <span class="line-icon icon-cup"></span>
-            <strong>World Cup</strong>
-          </a>
-          <a class="category-card" href="#science">
-            <span class="line-icon icon-science"></span>
-            <strong>Science</strong>
-          </a>
+          <figure class="hero-media">
+            <img data-hero-image src="/images/articles/ai.jpg" alt="" />
+            <figcaption data-hero-source>Source: PRESDA</figcaption>
+          </figure>
+          <div class="hero-progress" data-hero-progress aria-label="Featured article selector"></div>
         </div>
       </section>
 
-      <section class="section-block latest-section" id="latest">
-        <div class="section-heading">
-          <h2>Latest News</h2>
-          <button class="filter-button" type="button">Filter <span aria-hidden="true">=</span></button>
+      <section class="content-section">
+        <div class="section-title">
+          <span>Featured Desk</span>
+          <h2>Stories With Signal</h2>
         </div>
-        <div class="latest-grid">
-          <a class="news-card" id="society" href="kindness-is-powerful.html">
-            <div class="thumb image-thumb">
-              <img class="thumb-dark" src="kindness-powerful-dark.png" alt="Keanu Reeves comforting a child in a hospital room" />
-              <img class="thumb-light" src="kindness-powerful-light.png" alt="Keanu Reeves comforting a child in a hospital room" />
-            </div>
-            <div>
-              <span>Society</span>
-              <h3>Keanu Reeves Does It Again</h3>
-              <p>May 16, 2026 <span>Los Angeles</span></p>
-            </div>
-          </a>
-          <a class="news-card" id="ai" href="ai-robot-economy.html">
-            <div class="thumb ai-thumb" aria-hidden="true"></div>
-            <div>
-              <span>AI</span>
-              <h3>AI Assistants Move From Chat To Real Work</h3>
-              <p>May 19, 2026 <span>Technology</span></p>
-            </div>
-          </a>
-          <a class="news-card" id="paparazzi" href="paparazzi-red-carpet.html">
-            <div class="thumb paparazzi-thumb" aria-hidden="true"></div>
-            <div>
-              <span>Paparazzi</span>
-              <h3>Hollywood's New Red Carpet Runs On Viral Moments</h3>
-              <p>May 19, 2026 <span>Culture</span></p>
-            </div>
-          </a>
-          <a class="news-card" id="sport" href="sport-final-whistle.html">
-            <div class="thumb fighter-thumb" aria-hidden="true"></div>
-            <div>
-              <span>Sport</span>
-              <h3>The Final Whistle Becomes A Global Media Event</h3>
-              <p>May 19, 2026 <span>Matchday</span></p>
-            </div>
-          </a>
-          <a class="news-card" id="world-cup" href="world-cup-2026-countdown.html">
-            <div class="thumb cup-thumb" aria-hidden="true"></div>
-            <div>
-              <span>World Cup</span>
-              <h3>World Cup 2026 Countdown Enters Full Speed</h3>
-              <p>May 19, 2026 <span>Football</span></p>
-            </div>
-          </a>
-          <a class="news-card" id="science" href="science-deep-space-signal.html">
-            <div class="thumb science-thumb" aria-hidden="true"></div>
-            <div>
-              <span>Science</span>
-              <h3>Scientists Track A Strange Signal From Deep Space</h3>
-              <p>May 19, 2026 <span>Discovery</span></p>
-            </div>
-          </a>
-          <a class="news-card" id="world" href="world-cities-climate-front.html">
-            <div class="thumb rocket-thumb" aria-hidden="true"></div>
-            <div>
-              <span>World</span>
-              <h3>Cities Watch A Fast-Moving Climate Front</h3>
-              <p>May 19, 2026 <span>Global</span></p>
-            </div>
-          </a>
-        </div>
+        <div class="featured-grid" data-featured-grid></div>
       </section>
 
-      <section class="newsletter-bar" id="topics">
+      <section class="content-section category-overview">
+        <div class="section-title">
+          <span>Categories</span>
+          <h2>Explore The Newsroom</h2>
+        </div>
+        <div class="category-grid" data-category-grid></div>
+      </section>
+
+      <section class="content-section category-sections" data-category-sections></section>
+
+      <section class="newsletter-section">
         <div>
-          <h2>Stay Updated</h2>
-          <p>Get the latest news delivered to your inbox.</p>
+          <span>Newsletter</span>
+          <h2>Stay ahead of the story.</h2>
+          <p>Get PRESDA's sharpest headlines, cinematic explainers, and editorial briefings delivered to your inbox.</p>
         </div>
         <form class="newsletter-form">
           <label class="sr-only" for="email">Email address</label>
-          <input id="email" type="email" placeholder="Enter your email" required />
+          <input id="email" name="email" type="email" placeholder="your@email.com" required />
           <button type="submit">Subscribe</button>
         </form>
-        <div class="social-panel">
-          <span>Follow Us</span>
-          <a href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer" aria-label="PRESDA on Instagram">&#9678;</a>
-          <a href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer" aria-label="PRESDA on X">X</a>
-          <a href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer" aria-label="PRESDA on Facebook">f</a>
-          <a class="email-link" href="mailto:contact@presda.com" aria-label="Email PRESDA">@</a>
-        </div>
-      </section>
-
-      <section class="contact-section" id="contact" aria-labelledby="contact-title">
-        <div class="contact-orbit" aria-hidden="true">
-          <span></span>
-          <span></span>
-        </div>
-        <div class="contact-copy">
-          <span class="section-eyebrow">Contact PRESDA</span>
-          <h2 id="contact-title">Send us news, stories, and press inquiries.</h2>
-          <p>PRESDA is open for editorial leads, media partnerships, corrections, and audience messages. Reach the newsroom directly or follow our official channels.</p>
-        </div>
-        <div class="contact-grid">
-          <a class="contact-card contact-email" href="mailto:contact@presda.com">
-            <span>Email</span>
-            <strong>contact@presda.com</strong>
-            <em>Newsroom inbox</em>
-          </a>
-          <a class="contact-card" href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer">
-            <span>X</span>
-            <strong>@PresdaOfficial</strong>
-            <em>Breaking updates</em>
-          </a>
-          <a class="contact-card" href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer">
-            <span>Instagram</span>
-            <strong>@presdaofficial</strong>
-            <em>Visual stories</em>
-          </a>
-          <a class="contact-card" href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer">
-            <span>Facebook</span>
-            <strong>PRESDA</strong>
-            <em>Community page</em>
-          </a>
-        </div>
       </section>
     </main>
 
-    <script src="script.js?v=presda-mobile-light-theme-20260522"></script>
+    <footer class="site-footer">
+      <div>
+        <img class="footer-logo logo-dark" data-logo-dark src="logo-dark.png" alt="PRESDA official logo for dark mode" />
+        <img class="footer-logo logo-light" data-logo-light src="logo-light.png" alt="PRESDA official logo for light mode" />
+        <p>Your Daily Press</p>
+      </div>
+      <nav aria-label="Footer links">
+        <a href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer">X</a>
+        <a href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer">Instagram</a>
+        <a href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a href="mailto:contact@presda.com">Contact</a>
+      </nav>
+    </footer>
+
+    <script src="script.js?v=presda-premium-20260523"></script>
   </body>
 </html>
-
