@@ -1,0 +1,18 @@
+{
+  "name": "presda",
+  "version": "1.0.0",
+  "description": "PRESDA - Your Daily Press. A premium futuristic digital news magazine.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build:analytics": "node build-analytics.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["news", "magazine", "presda"],
+  "author": "PRESDA",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
