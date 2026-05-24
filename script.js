@@ -8,14 +8,18 @@ const articles = [
     author: "PRESDA Editorial",
     source: "PRESDA Tech Desk",
     excerpt: "A new generation of artificial intelligence is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.",
+    highlightTerms: ["OpenAI", "artificial intelligence", "AI"],
     content: [
       "OpenAI's newest model signals a sharper phase for artificial intelligence, where speed, context, and multimodal understanding are no longer experimental luxuries but expected parts of the modern workflow.",
       "The shift is especially important for creators, developers, researchers, and media teams. AI systems are moving from passive chat windows into active editorial, analytical, and operational tools.",
       "For PRESDA, the story is not only about model performance. It is about how intelligent systems change the rhythm of culture, business, creativity, and public information.",
       "The next era of digital news will be faster, more visual, and more personalized, while still depending on trust, clarity, and human editorial judgment."
     ],
-    image: "/images/articles/ai.jpg",
-    imageAlt: "Futuristic AI interface with red PRESDA lighting",
+    image: "/openai-robot-dark.png",
+    imageDark: "/openai-robot-dark.png",
+    imageLight: "/openai-robot-light.png",
+    imageAlt: "Black futuristic OpenAI robot with red neural core",
+    imageLightAlt: "White futuristic OpenAI robot with red neural core",
     readingTime: "4 min read"
   },
   {
@@ -27,6 +31,7 @@ const articles = [
     author: "Mikael Stone",
     source: "PRESDA Sport",
     excerpt: "The world's most watched football icon enters another decisive season with legacy, pressure, and global attention all colliding.",
+    highlightTerms: ["Ronaldo", "Final Season", "football"],
     content: [
       "Every season around Cristiano Ronaldo now feels like a global media event. The goals still matter, but the story has become larger than the pitch.",
       "Sponsors, broadcasters, supporters, and rivals all understand the same thing: a final chapter can be as powerful as a beginning when the entire world is watching.",
@@ -46,6 +51,7 @@ const articles = [
     author: "Lina Reyes",
     source: "PRESDA Culture",
     excerpt: "The next major gaming release is already behaving less like a product and more like a global entertainment event.",
+    highlightTerms: ["GTA 6", "gaming", "global entertainment"],
     content: [
       "Major game releases now sit beside film premieres, fashion launches, and live sport in the cultural calendar. GTA 6 is one of the clearest examples.",
       "Fans are not only waiting to play. They are decoding trailers, building theories, debating visuals, and turning every detail into social media momentum.",
@@ -65,6 +71,7 @@ const articles = [
     author: "Noah Vance",
     source: "PRESDA Business",
     excerpt: "Space ambition, investor attention, and spectacle continue to merge as Mars becomes a brand, a mission, and a market narrative.",
+    highlightTerms: ["Elon Musk", "Mars", "space"],
     content: [
       "The Mars story is no longer only a scientific ambition. It is a media signal, a capital magnet, and a symbol of how technology companies sell the future.",
       "Every launch, prototype, and public statement becomes part of a larger narrative about risk, acceleration, and human expansion.",
@@ -84,6 +91,7 @@ const articles = [
     author: "PRESDA Sport Desk",
     source: "PRESDA Football",
     excerpt: "Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.",
+    highlightTerms: ["World Cup 2026", "World Cup", "football"],
     content: [
       "The World Cup countdown is now a full media operation. Host cities are preparing infrastructure, broadcasters are building narratives, and brands are planning global campaigns.",
       "Football remains the core, but the modern tournament is also tourism, technology, fashion, music, and national identity compressed into one month.",
@@ -103,6 +111,7 @@ const articles = [
     author: "Dara Collins",
     source: "PRESDA Markets",
     excerpt: "AI infrastructure is becoming a central force in market expectations, boardroom strategy, and investor attention.",
+    highlightTerms: ["AI Economy", "AI", "artificial intelligence"],
     content: [
       "The AI economy is now being priced into hardware, cloud infrastructure, software platforms, and media businesses at the same time.",
       "Companies are under pressure to show practical adoption rather than vague ambition. Investors want margins, productivity, and defensible products.",
@@ -122,6 +131,7 @@ const articles = [
     author: "Amal Haddad",
     source: "PRESDA World",
     excerpt: "Urban leaders are using data, emergency planning, and public communication to respond to climate pressure in real time.",
+    highlightTerms: ["Climate Front", "climate", "cities"],
     content: [
       "Cities are increasingly on the front line of climate pressure. Heat, flooding, air quality, and infrastructure strain are now everyday planning concerns.",
       "The most advanced urban centers are combining satellite data, sensors, public alerts, and emergency logistics to react faster.",
@@ -141,6 +151,7 @@ const articles = [
     author: "Sofia Lane",
     source: "PRESDA Paparazzi",
     excerpt: "Celebrity appearances now travel through cameras, clips, stylists, fan accounts, and brand analytics within seconds.",
+    highlightTerms: ["Red Carpet", "Paparazzi", "celebrity"],
     content: [
       "The red carpet has become a real-time media market. A single look can move through fashion accounts, entertainment desks, fan communities, and brand dashboards almost instantly.",
       "Paparazzi culture is no longer only about access. It is about timing, framing, distribution, and the emotional economy of celebrity attention.",
@@ -167,7 +178,52 @@ const formatDate = (value) =>
     year: "numeric"
   });
 
+const escapeHtml = (value) =>
+  String(value).replace(/[&<>"']/g, (char) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  })[char]);
+
+const escapeRegExp = (value) => String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+function highlightText(text, terms = []) {
+  const cleanTerms = [...new Set(terms.filter(Boolean))].sort((a, b) => b.length - a.length);
+  if (!cleanTerms.length) return escapeHtml(text);
+
+  const pattern = new RegExp(`(${cleanTerms.map(escapeRegExp).join("|")})`, "gi");
+  return String(text)
+    .split(pattern)
+    .map((part) => {
+      const isHighlight = cleanTerms.some((term) => term.toLowerCase() === part.toLowerCase());
+      return isHighlight ? `<mark class="title-red">${escapeHtml(part)}</mark>` : escapeHtml(part);
+    })
+    .join("");
+}
+
+const articleTitleHtml = (article) => highlightText(article.title, article.highlightTerms);
+const articleTextHtml = (article, text) => highlightText(text, article.highlightTerms);
+
+function selectedImage(article) {
+  const isLight = root.classList.contains("light-mode");
+  return isLight && article.imageLight ? article.imageLight : article.imageDark || article.image;
+}
+
+const imageSrc = (article) => `${selectedImage(article)}?v=presda-robot-highlight-20260524`;
+const imageAlt = (article) =>
+  root.classList.contains("light-mode") && article.imageLightAlt ? article.imageLightAlt : article.imageAlt;
 const articleUrl = (article) => `article.html?slug=${encodeURIComponent(article.slug)}`;
+
+function refreshThemeImages() {
+  document.querySelectorAll("[data-article-image-slug]").forEach((image) => {
+    const article = articles.find((item) => item.slug === image.dataset.articleImageSlug);
+    if (!article) return;
+    image.src = imageSrc(article);
+    image.alt = imageAlt(article);
+  });
+}
 
 function setTheme(mode) {
   const isLight = mode === "light";
@@ -180,6 +236,8 @@ function setTheme(mode) {
     const icon = isLight ? "favicon-light.png?v=presda-20260523-light" : "favicon-dark.png?v=presda-20260523-dark";
     link.setAttribute("href", icon);
   });
+
+  refreshThemeImages();
 }
 
 setTheme(localStorage.getItem("presda-mode") === "light" ? "light" : "dark");
@@ -209,12 +267,12 @@ function articleCard(article, size = "standard") {
   return `
     <a class="article-card ${size}" href="${articleUrl(article)}">
       <figure>
-        <img src="${article.image}" alt="${article.imageAlt}" loading="lazy" />
+        <img src="${imageSrc(article)}" alt="${imageAlt(article)}" loading="lazy" data-article-image-slug="${article.slug}" />
       </figure>
       <div>
         <span>${article.category}</span>
-        <h3>${article.title}</h3>
-        <p>${article.excerpt}</p>
+        <h3>${articleTitleHtml(article)}</h3>
+        <p>${articleTextHtml(article, article.excerpt)}</p>
         <small>${formatDate(article.date)} / ${article.readingTime}</small>
       </div>
     </a>
@@ -241,10 +299,11 @@ function renderHome() {
   function setHero(index) {
     currentHero = index;
     const article = heroArticles[index];
-    heroImage.src = article.image;
-    heroImage.alt = article.imageAlt;
-    heroTitle.textContent = article.title;
-    heroExcerpt.textContent = article.excerpt;
+    heroImage.src = imageSrc(article);
+    heroImage.alt = imageAlt(article);
+    heroImage.dataset.articleImageSlug = article.slug;
+    heroTitle.innerHTML = articleTitleHtml(article);
+    heroExcerpt.innerHTML = articleTextHtml(article, article.excerpt);
     heroCategory.textContent = article.category;
     heroDate.textContent = formatDate(article.date);
     heroDate.dateTime = article.date;
@@ -318,8 +377,8 @@ function renderArticlePage() {
   document.title = `${article.title} | PRESDA`;
   document.querySelector('meta[name="description"]')?.setAttribute("content", article.excerpt);
   document.querySelector("[data-article-category]").textContent = article.category;
-  document.querySelector("[data-article-title]").textContent = article.title;
-  document.querySelector("[data-article-excerpt]").textContent = article.excerpt;
+  document.querySelector("[data-article-title]").innerHTML = articleTitleHtml(article);
+  document.querySelector("[data-article-excerpt]").innerHTML = articleTextHtml(article, article.excerpt);
   document.querySelector("[data-article-date]").textContent = formatDate(article.date);
   document.querySelector("[data-article-date]").dateTime = article.date;
   document.querySelector("[data-article-author]").textContent = article.author;
@@ -329,12 +388,14 @@ function renderArticlePage() {
   document.querySelector("[data-article-sidebar-category]").textContent = article.category;
 
   const image = document.querySelector("[data-article-image]");
-  image.src = article.image;
-  image.alt = article.imageAlt;
+  image.src = imageSrc(article);
+  image.alt = imageAlt(article);
+  image.dataset.articleImageSlug = article.slug;
 
   document.querySelector("[data-article-content]").innerHTML = article.content.map((paragraph, index) => {
-    if (index === 1) return `<blockquote>${paragraph}</blockquote>`;
-    return `<p>${paragraph}</p>`;
+    const paragraphHtml = articleTextHtml(article, paragraph);
+    if (index === 1) return `<blockquote>${paragraphHtml}</blockquote>`;
+    return `<p>${paragraphHtml}</p>`;
   }).join("");
 
   const related = articles.filter((item) => item.category === article.category && item.id !== article.id).concat(articles.filter((item) => item.id !== article.id)).slice(0, 3);
