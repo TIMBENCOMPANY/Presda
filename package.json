@@ -1,0 +1,21 @@
+{
+  "name": "presda",
+  "version": "1.0.0",
+  "description": "PRESDA - Your Daily Press. A premium futuristic digital news magazine.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'Static HTML project - no build required'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "keywords": [
+    "news",
+    "magazine",
+    "presda"
+  ],
+  "author": "PRESDA",
+  "license": "MIT"
+}
