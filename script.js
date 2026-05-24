@@ -15,31 +15,34 @@ const articles = [
       "For PRESDA, the story is not only about model performance. It is about how intelligent systems change the rhythm of culture, business, creativity, and public information.",
       "The next era of digital news will be faster, more visual, and more personalized, while still depending on trust, clarity, and human editorial judgment."
     ],
-    image: "/openai-robot-dark.png",
-    imageDark: "/openai-robot-dark.png",
-    imageLight: "/openai-robot-light.png",
-    imageAlt: "Black futuristic OpenAI robot with red neural core",
-    imageLightAlt: "White futuristic OpenAI robot with red neural core",
+    image: "/images/articles/openai-sam-dark.png",
+    imageDark: "/images/articles/openai-sam-dark.png",
+    imageLight: "/images/articles/openai-sam-light.png",
+    imageAlt: "Sam Altman and OpenAI cinematic PRESDA poster on a dark background",
+    imageLightAlt: "Sam Altman and OpenAI cinematic PRESDA poster on a white background",
     readingTime: "4 min read"
   },
   {
     id: "002",
-    slug: "ronaldo-final-season-pressure",
-    title: "Ronaldo Faces The Final Season Pressure",
+    slug: "xabi-alonso-chelsea-pressure",
+    title: "Xabi Alonso Steps Into The Chelsea Spotlight",
     category: "Sport",
     date: "2026-05-22",
     author: "Mikael Stone",
     source: "PRESDA Sport",
-    excerpt: "The world's most watched football icon enters another decisive season with legacy, pressure, and global attention all colliding.",
-    highlightTerms: ["Ronaldo", "Final Season", "football"],
+    excerpt: "A new tactical era takes shape as Xabi Alonso becomes the face of pressure, expectation, and elite football control.",
+    highlightTerms: ["Xabi Alonso", "Chelsea", "football"],
     content: [
-      "Every season around Cristiano Ronaldo now feels like a global media event. The goals still matter, but the story has become larger than the pitch.",
-      "Sponsors, broadcasters, supporters, and rivals all understand the same thing: a final chapter can be as powerful as a beginning when the entire world is watching.",
-      "The modern sports economy turns every match into content, every celebration into a headline, and every quiet moment into analysis.",
-      "PRESDA will follow the season through performance, culture, and the business machine surrounding football's biggest names."
+      "Xabi Alonso's rise as a modern coach has become one of football's sharpest leadership stories, built on control, calm decisions, and a clear tactical identity.",
+      "Chelsea's global spotlight makes every detail bigger. Training ideas, squad chemistry, transfers, and early results all become part of the public conversation.",
+      "For supporters, the question is whether a new manager can turn potential into rhythm fast enough for a demanding club culture.",
+      "PRESDA will follow the season through tactics, dressing-room pressure, and the business machine surrounding elite European football."
     ],
-    image: "/images/articles/ronaldo.jpg",
-    imageAlt: "Cinematic football stadium under red lights",
+    image: "/images/articles/xabi-alonso-dark.png",
+    imageDark: "/images/articles/xabi-alonso-dark.png",
+    imageLight: "/images/articles/xabi-alonso-light.png",
+    imageAlt: "Xabi Alonso cinematic football poster with Chelsea flag",
+    imageLightAlt: "Xabi Alonso cinematic football poster on a white background",
     readingTime: "5 min read"
   },
   {
@@ -58,8 +61,11 @@ const articles = [
       "The business impact stretches across streaming, hardware, advertising, music, and digital fashion. One game can move an entire entertainment ecosystem.",
       "PRESDA will track how gaming continues to shape taste, youth culture, celebrity influence, and the future of interactive storytelling."
     ],
-    image: "/images/articles/gta6.jpg",
-    imageAlt: "Neon city street inspired by a premium gaming release",
+    image: "/images/articles/gta6-poster-dark.png",
+    imageDark: "/images/articles/gta6-poster-dark.png",
+    imageLight: "/images/articles/gta6-poster-light.png",
+    imageAlt: "GTA 6 neon Vice City cinematic poster",
+    imageLightAlt: "GTA 6 neon Vice City cinematic poster on a white background",
     readingTime: "4 min read"
   },
   {
@@ -78,8 +84,11 @@ const articles = [
       "Investors watch the engineering, but audiences watch the mythology. That combination gives space companies unusual cultural power.",
       "The PRESDA business desk will continue following the money, the engineering milestones, and the public imagination around the new space economy."
     ],
-    image: "/images/articles/elon.jpg",
-    imageAlt: "Mars mission control room with deep red cinematic lighting",
+    image: "/images/articles/elon-mars-dark.png",
+    imageDark: "/images/articles/elon-mars-dark.png",
+    imageLight: "/images/articles/elon-mars-light.png",
+    imageAlt: "Elon Musk above a futuristic city with SpaceX and Tesla branding",
+    imageLightAlt: "Elon Musk futuristic city poster on a white background",
     readingTime: "6 min read"
   },
   {
@@ -98,69 +107,104 @@ const articles = [
       "For players, the pressure is immense. For supporters, the tournament becomes a shared calendar of emotion and expectation.",
       "PRESDA will cover the road to the tournament through performance, culture, and the worldwide business of football."
     ],
-    image: "/images/articles/worldcup.jpg",
-    imageAlt: "Premium football stadium prepared for the World Cup",
+    image: "/images/articles/fifa-world-cup-dark.png",
+    imageDark: "/images/articles/fifa-world-cup-dark.png",
+    imageLight: "/images/articles/fifa-world-cup-light.png",
+    imageAlt: "FIFA football official in a stadium cinematic poster",
+    imageLightAlt: "FIFA football official poster on a white background",
     readingTime: "5 min read"
   },
   {
     id: "006",
-    slug: "markets-watch-ai-economy",
-    title: "Markets Watch The AI Economy",
+    slug: "bill-gates-foundation-impact",
+    title: "Bill Gates Foundation Turns Innovation Into Impact",
     category: "Business",
     date: "2026-05-18",
     author: "Dara Collins",
-    source: "PRESDA Markets",
-    excerpt: "AI infrastructure is becoming a central force in market expectations, boardroom strategy, and investor attention.",
-    highlightTerms: ["AI Economy", "AI", "artificial intelligence"],
+    source: "PRESDA Business",
+    excerpt: "Global health, climate innovation, education, and science remain the pillars of one of the world's most watched philanthropic machines.",
+    highlightTerms: ["Bill Gates", "Foundation", "innovation", "impact"],
     content: [
-      "The AI economy is now being priced into hardware, cloud infrastructure, software platforms, and media businesses at the same time.",
-      "Companies are under pressure to show practical adoption rather than vague ambition. Investors want margins, productivity, and defensible products.",
-      "The result is a market cycle where technical progress and corporate storytelling move together.",
-      "PRESDA will continue watching how artificial intelligence reshapes capital flows, jobs, and the companies defining the next decade."
+      "The Bill and Melinda Gates Foundation continues to sit at the center of global conversations about health, education, climate innovation, and scientific progress.",
+      "Its influence is measured not only in funding, but in the way large-scale philanthropy can direct attention toward urgent problems that markets often move too slowly to solve.",
+      "From vaccines and disease prevention to clean technology and learning access, the foundation has built a model where innovation is expected to create measurable impact.",
+      "PRESDA will keep tracking how philanthropic capital shapes policy, technology, and the future of global development."
     ],
-    image: "/images/articles/business.jpg",
-    imageAlt: "Premium financial dashboard with red market data",
+    image: "/images/articles/bill-gates-dark.png",
+    imageDark: "/images/articles/bill-gates-dark.png",
+    imageLight: "/images/articles/bill-gates-light.png",
+    imageAlt: "Bill Gates foundation cinematic poster with global health and innovation panels",
+    imageLightAlt: "Bill Gates foundation cinematic poster on a white background",
     readingTime: "4 min read"
   },
   {
     id: "007",
-    slug: "world-cities-climate-front",
-    title: "Cities Watch A Fast-Moving Climate Front",
+    slug: "japan-enters-ai-care-era",
+    title: "Japan Enters The AI Care Era",
     category: "World",
     date: "2026-05-17",
     author: "Amal Haddad",
     source: "PRESDA World",
-    excerpt: "Urban leaders are using data, emergency planning, and public communication to respond to climate pressure in real time.",
-    highlightTerms: ["Climate Front", "climate", "cities"],
+    excerpt: "Facing an aging population and caregiver shortages, Japan is turning to AI-powered robots to support daily care.",
+    highlightTerms: ["Japan", "AI Care", "robots", "care"],
     content: [
-      "Cities are increasingly on the front line of climate pressure. Heat, flooding, air quality, and infrastructure strain are now everyday planning concerns.",
-      "The most advanced urban centers are combining satellite data, sensors, public alerts, and emergency logistics to react faster.",
-      "The question is not only whether cities can adapt, but whether they can communicate risk clearly enough for citizens to act.",
-      "PRESDA will follow the global cities reshaping policy, design, and public safety under a changing climate."
+      "Japan is entering a new AI care era as hospitals, nursing homes, and families look for support in a country facing severe demographic pressure.",
+      "Robots are beginning to assist with medication reminders, conversation, mobility support, and emotional comfort for elderly citizens.",
+      "The technology raises practical questions about trust, privacy, cost, and the balance between human warmth and machine assistance.",
+      "PRESDA will follow how Japan's experiment with care robotics influences the future of aging societies worldwide."
     ],
-    image: "/images/articles/climate.jpg",
-    imageAlt: "Cinematic city skyline under a dramatic climate front",
+    image: "/images/articles/japan-ai-care-dark.png",
+    imageDark: "/images/articles/japan-ai-care-dark.png",
+    imageLight: "/images/articles/japan-ai-care-light.png",
+    imageAlt: "Japanese elder holding hands with a care robot in a cinematic poster",
+    imageLightAlt: "Japanese elder holding hands with a care robot poster on a white background",
     readingTime: "5 min read"
   },
   {
     id: "008",
-    slug: "paparazzi-red-carpet-economy",
-    title: "The Red Carpet Becomes A Real-Time Economy",
+    slug: "keanu-reeves-kindness-powerful",
+    title: "Keanu Reeves Shows Kindness Is Powerful",
     category: "Paparazzi",
     date: "2026-05-16",
     author: "Sofia Lane",
-    source: "PRESDA Paparazzi",
-    excerpt: "Celebrity appearances now travel through cameras, clips, stylists, fan accounts, and brand analytics within seconds.",
-    highlightTerms: ["Red Carpet", "Paparazzi", "celebrity"],
+    source: "PRESDA Society",
+    excerpt: "The actor's quiet generosity becomes a reminder that compassion can travel further than performance.",
+    highlightTerms: ["Keanu Reeves", "Kindness", "compassion", "humanity"],
     content: [
-      "The red carpet has become a real-time media market. A single look can move through fashion accounts, entertainment desks, fan communities, and brand dashboards almost instantly.",
-      "Paparazzi culture is no longer only about access. It is about timing, framing, distribution, and the emotional economy of celebrity attention.",
-      "For stars and brands, the moment is designed before it is photographed. For audiences, the reaction becomes part of the story.",
-      "PRESDA will keep tracking fame as a visual business, where image, speed, and narrative control matter more than ever."
+      "Keanu Reeves has long been treated as a rare Hollywood figure because his public image is built less on spectacle and more on quiet humanity.",
+      "Reports of private generosity continue to resonate because they point to a kind of celebrity influence that does not need cameras to feel powerful.",
+      "In a culture that rewards attention, a private act of compassion can still become the story people remember.",
+      "PRESDA will keep tracking the human stories behind fame, where character can matter as much as visibility."
     ],
-    image: "/images/articles/paparazzi.jpg",
-    imageAlt: "Red carpet camera flashes in a premium cinematic scene",
+    image: "/images/articles/keanu-kindness-dark.png",
+    imageDark: "/images/articles/keanu-kindness-dark.png",
+    imageLight: "/images/articles/keanu-kindness-light.png",
+    imageAlt: "Keanu Reeves comforting a child in a hospital room with kindness overlays",
+    imageLightAlt: "Keanu Reeves hospital kindness poster on a white background",
     readingTime: "3 min read"
+  },
+  {
+    id: "009",
+    slug: "mourinho-real-madrid-return-signal",
+    title: "Mourinho Return Talk Shakes Madrid Again",
+    category: "Sport",
+    date: "2026-05-15",
+    author: "PRESDA Sport Desk",
+    source: "PRESDA Football",
+    excerpt: "Real Madrid nostalgia, tactical identity, and elite football pressure collide whenever Mourinho's name returns to the conversation.",
+    highlightTerms: ["Mourinho", "Real Madrid", "football"],
+    content: [
+      "Jose Mourinho remains one of football's most cinematic figures, a manager whose name still carries memory, conflict, trophies, and theatre.",
+      "Whenever Real Madrid enters the conversation, the story becomes bigger than a coaching rumor. It becomes a debate about identity, power, and the emotional pull of past eras.",
+      "Modern football moves fast, but legendary managers keep shaping how supporters imagine the future of their clubs.",
+      "PRESDA will follow the signals, the politics, and the tactical questions behind one of football's most durable narratives."
+    ],
+    image: "/images/articles/mourinho-real-madrid-dark.png",
+    imageDark: "/images/articles/mourinho-real-madrid-dark.png",
+    imageLight: "/images/articles/mourinho-real-madrid-light.png",
+    imageAlt: "Jose Mourinho with Real Madrid crest and Santiago Bernabeu stadium",
+    imageLightAlt: "Jose Mourinho Real Madrid poster on a white background",
+    readingTime: "4 min read"
   }
 ];
 
@@ -193,14 +237,22 @@ function highlightText(text, terms = []) {
   const cleanTerms = [...new Set(terms.filter(Boolean))].sort((a, b) => b.length - a.length);
   if (!cleanTerms.length) return escapeHtml(text);
 
-  const pattern = new RegExp(`(${cleanTerms.map(escapeRegExp).join("|")})`, "gi");
-  return String(text)
-    .split(pattern)
-    .map((part) => {
-      const isHighlight = cleanTerms.some((term) => term.toLowerCase() === part.toLowerCase());
-      return isHighlight ? `<mark class="title-red">${escapeHtml(part)}</mark>` : escapeHtml(part);
-    })
-    .join("");
+  const value = String(text);
+  const pattern = new RegExp(`(^|[^A-Za-z0-9])(${cleanTerms.map(escapeRegExp).join("|")})(?=$|[^A-Za-z0-9])`, "gi");
+  let output = "";
+  let lastIndex = 0;
+
+  value.replace(pattern, (match, prefix, term, offset) => {
+    const termStart = offset + prefix.length;
+    const termEnd = termStart + term.length;
+    output += escapeHtml(value.slice(lastIndex, termStart));
+    output += `<mark class="title-red">${escapeHtml(value.slice(termStart, termEnd))}</mark>`;
+    lastIndex = termEnd;
+    return match;
+  });
+
+  output += escapeHtml(value.slice(lastIndex));
+  return output;
 }
 
 const articleTitleHtml = (article) => highlightText(article.title, article.highlightTerms);
@@ -211,7 +263,7 @@ function selectedImage(article) {
   return isLight && article.imageLight ? article.imageLight : article.imageDark || article.image;
 }
 
-const imageSrc = (article) => `${selectedImage(article)}?v=presda-robot-highlight-20260524`;
+const imageSrc = (article) => `${selectedImage(article)}?v=presda-posters-20260524`;
 const imageAlt = (article) =>
   root.classList.contains("light-mode") && article.imageLightAlt ? article.imageLightAlt : article.imageAlt;
 const articleUrl = (article) => `article.html?slug=${encodeURIComponent(article.slug)}`;
