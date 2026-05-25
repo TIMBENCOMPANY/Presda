@@ -452,9 +452,9 @@ html.light-mode .toggle-dot {
   margin: 0;
   overflow: hidden;
   border: 1px solid var(--border);
-  border-radius: 28px;
-  aspect-ratio: 9 / 13;
-  max-height: 860px;
+  border-radius: 24px;
+  aspect-ratio: 16 / 9;
+  max-height: none;
   background: var(--card);
   box-shadow: var(--shadow);
 }
@@ -482,7 +482,7 @@ html.light-mode .article-card figure::after {
   height: 100%;
   display: block;
   object-fit: cover;
-  object-position: center top;
+  object-position: center center;
   transition: transform 0.7s ease;
 }
 
@@ -586,23 +586,24 @@ html.light-mode .article-card:hover {
 
 .article-card figure {
   position: relative;
-  min-height: 320px;
+  min-height: 0;
   margin: 0;
   overflow: hidden;
-  aspect-ratio: 4 / 5;
+  border-radius: 24px;
+  aspect-ratio: 16 / 9;
   background: var(--surface);
 }
 
 .article-card.large figure {
-  min-height: 560px;
+  min-height: 0;
 }
 
 .article-card.wide figure {
-  min-height: 480px;
+  min-height: 0;
 }
 
 .article-card.mini figure {
-  min-height: 280px;
+  min-height: 0;
 }
 
 .article-card div {
@@ -652,7 +653,7 @@ html.light-mode .article-card:hover {
   justify-content: space-between;
   padding: 22px;
   border: 1px solid var(--border);
-  border-radius: 22px;
+  border-radius: 24px;
   background:
     radial-gradient(circle at 82% 20%, rgba(255, 26, 26, 0.18), transparent 30%),
     var(--card);
@@ -694,7 +695,7 @@ html.light-mode .article-card:hover {
 }
 
 .article-card.wide figure {
-  min-height: 340px;
+  min-height: 0;
 }
 
 .side-list {
@@ -707,7 +708,7 @@ html.light-mode .article-card:hover {
 }
 
 .article-card.mini figure {
-  min-height: 170px;
+  min-height: 0;
 }
 
 .article-card.mini h3 {
@@ -1024,7 +1025,7 @@ html.light-mode .article-card:hover {
 
   .hero-media {
     border-radius: 24px;
-    aspect-ratio: 9 / 13;
+    aspect-ratio: 16 / 9;
     max-height: none;
   }
 
@@ -1061,13 +1062,13 @@ html.light-mode .article-card:hover {
   .article-card figure,
   .article-card.large figure,
   .article-card.wide figure {
-    min-height: 430px;
-    aspect-ratio: 9 / 13;
+    min-height: 0;
+    aspect-ratio: 16 / 9;
   }
 
   .article-card.mini figure {
-    min-height: 360px;
-    aspect-ratio: 9 / 13;
+    min-height: 0;
+    aspect-ratio: 16 / 9;
   }
 
   .category-story-grid {
@@ -1151,15 +1152,15 @@ html.light-mode .article-card:hover {
 
   .hero-media,
   .article-image-frame {
-    aspect-ratio: 9 / 14;
+    aspect-ratio: 16 / 9;
   }
 
   .article-card figure,
   .article-card.large figure,
   .article-card.wide figure,
   .article-card.mini figure {
-    min-height: 410px;
-    aspect-ratio: 9 / 13.5;
+    min-height: 0;
+    aspect-ratio: 16 / 9;
   }
 
   .hero-actions {
