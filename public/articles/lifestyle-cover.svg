@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Minimal luxury wellness space with red accent lighting">
+  <rect width="1200" height="800" fill="#050505"/>
+  <path d="M145 620h910M250 620V250h700v370" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="3"/>
+  <path d="M320 515h560M375 425h450M450 335h300" stroke="#ff1a1a" stroke-opacity=".7" stroke-width="3"/>
+  <circle cx="600" cy="305" r="76" fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="3"/>
+  <circle cx="600" cy="305" r="38" fill="#ff1a1a" fill-opacity=".42"/>
+  <path d="M250 250 600 110l350 140" fill="none" stroke="#ff1a1a" stroke-width="3"/>
+</svg>

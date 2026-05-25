@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Futuristic AI interface with red PRESDA lighting">
+  <rect width="1200" height="800" fill="#050505"/>
+  <path d="M0 520h1200M0 390h1200M0 260h1200M210 0v800M430 0v800M650 0v800M870 0v800M1090 0v800" stroke="#fff" stroke-opacity=".08"/>
+  <circle cx="610" cy="365" r="178" fill="none" stroke="#ff1a1a" stroke-width="3"/>
+  <circle cx="610" cy="365" r="110" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M424 365h372M610 179v372M500 255l220 220M720 255 500 475" stroke="#ff1a1a" stroke-opacity=".7" stroke-width="2"/>
+  <circle cx="610" cy="365" r="42" fill="#ff1a1a" fill-opacity=".5"/>
+  <path d="M170 620h860" stroke="#ff1a1a" stroke-width="4"/>
+</svg>

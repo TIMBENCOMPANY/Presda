@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Minimal futuristic gaming arena in black and red">
+  <rect width="1200" height="800" fill="#050505"/>
+  <path d="M130 610 330 250h540l200 360z" fill="#101010" stroke="#fff" stroke-opacity=".16" stroke-width="3"/>
+  <path d="M310 610h580M380 500h440M455 390h290" stroke="#ff1a1a" stroke-width="3"/>
+  <path d="M515 310h170v95H515z" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3"/>
+  <circle cx="990" cy="210" r="90" fill="none" stroke="#ff1a1a" stroke-opacity=".45" stroke-width="2"/>
+  <circle cx="210" cy="210" r="90" fill="none" stroke="#fff" stroke-opacity=".16" stroke-width="2"/>
+</svg>

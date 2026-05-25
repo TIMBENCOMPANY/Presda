@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Futuristic stadium line art with red data rings">
+  <rect width="1200" height="800" fill="#050505"/>
+  <ellipse cx="600" cy="475" rx="430" ry="190" fill="#101010" stroke="#fff" stroke-opacity=".16" stroke-width="3"/>
+  <ellipse cx="600" cy="475" rx="270" ry="115" fill="none" stroke="#ff1a1a" stroke-width="3"/>
+  <path d="M245 420c90-140 620-140 710 0M190 520c130 190 690 190 820 0" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="3"/>
+  <path d="M600 285v380M300 475h600" stroke="#ff1a1a" stroke-opacity=".6" stroke-width="2"/>
+  <circle cx="600" cy="475" r="28" fill="#ff1a1a" fill-opacity=".7"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Abstract global map with red radar signal">
+  <rect width="1200" height="800" fill="#050505"/>
+  <path d="M175 390c60-130 210-205 360-175 72 15 112 58 180 74 88 21 160-5 245 56 80 58 105 150 68 245-57 145-253 184-423 138-110-30-165-91-252-112-80-19-150 14-202-51-42-53-15-121 24-175Z" fill="#fff" fill-opacity=".09"/>
+  <circle cx="705" cy="382" r="90" fill="none" stroke="#ff1a1a" stroke-width="3"/>
+  <circle cx="705" cy="382" r="170" fill="none" stroke="#ff1a1a" stroke-opacity=".45" stroke-width="2"/>
+  <circle cx="705" cy="382" r="260" fill="none" stroke="#ff1a1a" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M705 122v520M445 382h520" stroke="#ff1a1a" stroke-opacity=".5" stroke-width="2"/>
+</svg>

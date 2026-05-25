@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Red carpet camera flashes drawn in minimal red and white lines">
+  <rect width="1200" height="800" fill="#050505"/>
+  <path d="M225 640 440 210h320l215 430z" fill="#101010" stroke="#fff" stroke-opacity=".15" stroke-width="3"/>
+  <path d="M470 640 545 210h110l75 430z" fill="#ff1a1a" fill-opacity=".35"/>
+  <circle cx="255" cy="250" r="52" fill="none" stroke="#fff" stroke-opacity=".3" stroke-width="3"/>
+  <circle cx="945" cy="250" r="52" fill="none" stroke="#fff" stroke-opacity=".3" stroke-width="3"/>
+  <path d="M255 110v80M255 310v80M115 250h80M315 250h80M945 110v80M945 310v80M805 250h80M1005 250h80" stroke="#ff1a1a" stroke-width="3"/>
+</svg>

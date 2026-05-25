@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Black trading dashboard with thin red market lines">
+  <rect width="1200" height="800" fill="#050505"/>
+  <path d="M0 160h1200M0 320h1200M0 480h1200M0 640h1200M200 0v800M400 0v800M600 0v800M800 0v800M1000 0v800" stroke="#fff" stroke-opacity=".08"/>
+  <path d="M120 560 260 455l125 40 155-205 170 85 160-165 210 60" fill="none" stroke="#ff1a1a" stroke-width="6"/>
+  <path d="M120 620h960" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="710" cy="375" r="12" fill="#fff"/>
+  <circle cx="870" cy="210" r="12" fill="#ff1a1a"/>
+</svg>
