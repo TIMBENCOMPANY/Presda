@@ -266,7 +266,7 @@ function selectedImage(article) {
 const imageSrc = (article) => `${selectedImage(article)}?v=presda-posters-20260524`;
 const imageAlt = (article) =>
   root.classList.contains("light-mode") && article.imageLightAlt ? article.imageLightAlt : article.imageAlt;
-const articleUrl = (article) => `article.html?slug=${encodeURIComponent(article.slug)}`;
+const articleUrl = (article) => `/articles/${encodeURIComponent(article.slug)}/`;
 
 function refreshThemeImages() {
   document.querySelectorAll("[data-article-image-slug]").forEach((image) => {
@@ -424,7 +424,9 @@ function renderHome() {
 function renderArticlePage() {
   renderTicker();
   const params = new URLSearchParams(window.location.search);
-  const article = articles.find((item) => item.slug === params.get("slug")) || articles[0];
+  const pathSlug = window.location.pathname.match(/\/articles\/([^/]+)/)?.[1];
+  const requestedSlug = params.get("slug") || (pathSlug ? decodeURIComponent(pathSlug) : "");
+  const article = articles.find((item) => item.slug === requestedSlug) || articles[0];
 
   document.title = `${article.title} | PRESDA`;
   document.querySelector('meta[name="description"]')?.setAttribute("content", article.excerpt);
