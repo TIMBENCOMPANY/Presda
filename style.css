@@ -482,7 +482,7 @@ html.light-mode .article-card figure::after {
   height: 100%;
   display: block;
   object-fit: cover;
-  object-position: center center;
+  ;
   transition: transform 0.7s ease;
 }
 
@@ -1195,3 +1195,7 @@ html.light-mode .article-card:hover {
 
 /* PRESDA stable media sizing */
 .hero-media,.article-card figure{width:100%!important;min-height:260px!important;overflow:hidden!important;border-radius:24px!important;aspect-ratio:16/9!important;flex-shrink:0!important}.hero-media,.article-card.large figure,.article-card.wide figure{min-height:420px!important}.hero-media img,.article-image-frame img,.article-card img{width:100%!important;height:100%!important;object-fit:cover!important;display:block!important}@media(max-width:720px){.hero-media{min-height:280px!important}.article-card figure{min-height:260px!important}.article-card.large figure,.article-card.wide figure{min-height:280px!important}}@media(max-width:430px){.hero-media{min-height:280px!important}.article-card figure{min-height:260px!important}}
+
+
+/* PRESDA face-safe media cropping */
+.hero-media,.article-card.large figure,.article-card.wide figure{min-height:420px!important;aspect-ratio:16/9!important;overflow:hidden!important}.article-card figure{width:100%!important;min-height:260px!important;overflow:hidden!important;border-radius:24px!important;aspect-ratio:16/9!important;flex-shrink:0!important}.article-card.mini figure{aspect-ratio:4/3!important;min-height:260px!important}.hero-media img,.article-image-frame img,.article-card img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:center 18%!important;display:block!important}.article-card.mini img{object-position:center top!important}@media(max-width:720px){.hero-media,.article-card.large figure,.article-card.wide figure{min-height:280px!important}.article-card figure,.article-card.mini figure{min-height:260px!important}}@media(max-width:430px){.hero-media{min-height:280px!important}.article-card figure,.article-card.large figure,.article-card.wide figure,.article-card.mini figure{min-height:260px!important}}
