@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-home-layout-20260525";
+const cacheVersion = "presda-contact-light-20260527";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articles = ([\s\S]*?\n\];)/);
@@ -186,10 +186,11 @@ function socialSection() {
         <div class="social-contact-shell">
           <div class="social-copy">
             <span>Network</span>
-            <h2 id="connect-title">CONNECT WITH PRESDA</h2>
+            <h2 id="connect-title"><span class="connect-word">CONNECT</span> WITH PRESDA</h2>
             <p>Follow the signal across every platform.</p>
             <div class="social-badge" aria-label="PRESDA location Berlin, Germany">
-              <img src="/images/brand/ptransparent.png?v=${cacheVersion}" alt="PRESDA P transparent badge" loading="lazy" />
+              <img class="badge-logo-dark" src="/images/brand/ptransparent.png?v=${cacheVersion}" alt="PRESDA P transparent badge" loading="lazy" />
+              <img class="badge-logo-light" src="/favicon-light.png?v=${cacheVersion}" alt="PRESDA P light mode badge" loading="lazy" />
               <div>
                 <strong>PRESDA SIGNAL</strong>
                 <small>Berlin, Germany</small>

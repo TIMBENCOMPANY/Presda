@@ -773,7 +773,7 @@ html.light-mode .article-card:hover {
   z-index: 1;
 }
 
-.social-copy span {
+.social-copy > span {
   color: var(--accent);
   display: inline-flex;
   align-items: center;
@@ -785,7 +785,7 @@ html.light-mode .article-card:hover {
   text-transform: uppercase;
 }
 
-.social-copy span::before {
+.social-copy > span::before {
   content: "";
   width: 32px;
   height: 2px;
@@ -803,6 +803,10 @@ html.light-mode .article-card:hover {
   font-size: clamp(2.1rem, 4.6vw, 5rem);
   line-height: 0.96;
   text-transform: uppercase;
+}
+
+.connect-word {
+  color: var(--accent);
 }
 
 .contact-page-section {
@@ -869,6 +873,10 @@ html.light-mode .article-card:hover {
   filter:
     drop-shadow(0 0 8px rgba(255, 26, 26, 0.78))
     drop-shadow(0 0 20px rgba(255, 26, 26, 0.24));
+}
+
+.badge-logo-light {
+  display: none;
 }
 
 .badge-gps {
@@ -1051,9 +1059,107 @@ html.light-mode .article-card:hover {
 
 html.light-mode .social-contact-shell {
   background:
-    linear-gradient(135deg, rgba(255, 26, 26, 0.09), transparent 42%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.02)),
-    #050505;
+    linear-gradient(135deg, rgba(255, 26, 26, 0.075), transparent 42%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(247, 247, 247, 0.9)),
+    #ffffff;
+  border-color: rgba(255, 26, 26, 0.22);
+  box-shadow:
+    0 28px 76px rgba(20, 20, 20, 0.09),
+    inset 0 1px 0 rgba(255, 255, 255, 0.95),
+    0 0 30px rgba(255, 26, 26, 0.08);
+}
+
+html.light-mode .social-contact-shell::before {
+  border-color: rgba(255, 26, 26, 0.16);
+}
+
+html.light-mode .social-copy h1,
+html.light-mode .social-copy h2 {
+  color: #101010;
+}
+
+html.light-mode .social-copy p {
+  color: #555555;
+}
+
+html.light-mode .social-badge {
+  border-color: rgba(255, 26, 26, 0.24);
+  background:
+    linear-gradient(135deg, rgba(255, 26, 26, 0.075), transparent 52%),
+    rgba(255, 255, 255, 0.86);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.96),
+    0 16px 34px rgba(20, 20, 20, 0.08),
+    0 0 20px rgba(255, 26, 26, 0.08);
+}
+
+html.light-mode .badge-logo-dark {
+  display: none;
+}
+
+html.light-mode .badge-logo-light {
+  display: block;
+}
+
+html.light-mode .social-badge img {
+  filter: drop-shadow(0 0 10px rgba(255, 26, 26, 0.22));
+}
+
+html.light-mode .social-badge strong {
+  color: #101010;
+}
+
+html.light-mode .social-badge small {
+  color: #555555;
+}
+
+html.light-mode .badge-gps {
+  background: rgba(255, 26, 26, 0.065);
+  border-color: rgba(255, 26, 26, 0.24);
+  box-shadow: 0 0 16px rgba(255, 26, 26, 0.12), inset 0 0 16px rgba(255, 26, 26, 0.06);
+}
+
+html.light-mode .social-card {
+  border-color: rgba(255, 26, 26, 0.16);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(248, 248, 248, 0.92)),
+    #ffffff;
+  color: #101010;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.95),
+    0 18px 38px rgba(20, 20, 20, 0.08),
+    0 0 18px rgba(255, 26, 26, 0.045);
+}
+
+html.light-mode .social-card:hover,
+html.light-mode .social-card:focus-visible {
+  border-color: rgba(255, 26, 26, 0.54);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.98),
+    0 22px 46px rgba(20, 20, 20, 0.11),
+    0 0 28px rgba(255, 26, 26, 0.14);
+}
+
+html.light-mode .social-card::after {
+  background: linear-gradient(135deg, rgba(255, 26, 26, 0.08), transparent 48%);
+}
+
+html.light-mode .social-icon {
+  background: rgba(255, 26, 26, 0.045);
+  border-color: rgba(255, 26, 26, 0.22);
+  box-shadow:
+    0 0 16px rgba(255, 26, 26, 0.1),
+    inset 0 0 18px rgba(255, 26, 26, 0.05);
+}
+
+html.light-mode .social-icon svg {
+  filter:
+    drop-shadow(0 0 3px rgba(255, 26, 26, 0.34))
+    drop-shadow(0 0 9px rgba(255, 26, 26, 0.18));
+}
+
+html.light-mode .social-label {
+  color: #101010;
 }
 
 .newsletter-section {
@@ -1556,3 +1662,6 @@ tio:auto!important;border-radius:28px!important;align-self:center}.hero-media im
 }
 /* PRESDA parse-safe final hero override */
 .hero-section{min-height:70vh;display:flex;align-items:center}.hero-shell{width:100%;min-height:70vh;grid-template-columns:minmax(0,45%) minmax(0,55%)!important;align-items:center;gap:clamp(28px,4.5vw,72px)}.hero-copy{max-width:900px}.hero-copy h1{max-width:900px;font-size:clamp(48px,6vw,96px);overflow-wrap:anywhere}.hero-copy p{max-width:680px}.hero-media{width:100%!important;height:clamp(420px,62vh,720px)!important;min-height:420px!important;max-height:720px!important;aspect-ratio:auto!important;border-radius:28px!important;align-self:center}.hero-media img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:center 18%!important;border-radius:28px!important}@media(max-width:960px){.hero-section{min-height:auto}.hero-shell{min-height:auto;grid-template-columns:1fr!important}.hero-copy{order:1}.hero-media{order:2;width:100%!important;height:max(320px,48vh)!important;min-height:320px!important;max-height:none!important;aspect-ratio:auto!important}.hero-copy h1{font-size:clamp(40px,9vw,72px)}}@media(max-width:430px){.hero-media{height:320px!important;min-height:320px!important}.hero-copy h1{font-size:clamp(34px,10vw,48px);line-height:1}}
+
+/* PRESDA contact light-mode final polish */
+.social-badge .badge-logo-light{display:none!important}html.light-mode .social-badge .badge-logo-dark{display:none!important}html.light-mode .social-badge .badge-logo-light{display:block!important}
