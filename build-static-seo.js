@@ -105,12 +105,12 @@ function header() {
         </a>
 
         <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
-          <a href="/#ai">AI</a>
-          <a href="/#business">Business</a>
-          <a href="/#sport">Sport</a>
-          <a href="/#world">World</a>
-          <a href="/#paparazzi">Paparazzi</a>
-          <a href="/#lifestyle">Lifestyle</a>
+          <a href="/category/ai/">AI</a>
+          <a href="/category/business/">Business</a>
+          <a href="/category/sport/">Sport</a>
+          <a href="/category/world/">World</a>
+          <a href="/category/paparazzi/">Paparazzi</a>
+          <a href="/category/lifestyle/">Lifestyle</a>
         </nav>
 
         <div class="nav-actions">
@@ -131,19 +131,9 @@ function header() {
 }
 
 function footer() {
-  return `    <footer class="site-footer">
-      <div>
-        <img class="footer-logo logo-dark" data-logo-dark src="/logo-dark.png" alt="PRESDA official logo for dark mode" />
-        <img class="footer-logo logo-light" data-logo-light src="/logo-light.png" alt="PRESDA official logo for light mode" />
-        <p>Your Daily Press</p>
-      </div>
-      <nav aria-label="Footer links">
-        <a href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer">X</a>
-        <a href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer">Instagram</a>
-        <a href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer">Facebook</a>
-        <a href="mailto:contact@presda.com">Contact</a>
-      </nav>
-    </footer>`;
+  return socialSection()
+    .replace('<section class="social-contact-section"', '<footer class="social-contact-section presda-footer-contact"')
+    .replace('</section>', '</footer>');
 }
 
 function ticker() {
@@ -177,8 +167,8 @@ function socialIcon(type) {
   const icons = {
     instagram: `<svg ${attrs}><rect x="12" y="12" width="40" height="40" rx="12"></rect><circle cx="32" cy="32" r="10"></circle><circle cx="44" cy="20" r="2.5"></circle></svg>`,
     x: `<svg ${attrs}><path d="M16 14l33 36"></path><path d="M48 14L15 50"></path><path d="M20 14h9l15 36h-9z"></path></svg>`,
-    tiktok: `<svg ${attrs}><path d="M36 12v27.5a10.5 10.5 0 1 1-9.5-10.45"></path><path d="M36 12c2.7 8.2 7.4 12.5 15 13.2"></path><path d="M36 21c3.2 3.5 7.2 5.6 12 6.2"></path></svg>`,
     facebook: `<svg ${attrs}><path d="M38 14h-6a9 9 0 0 0-9 9v7h-6v9h6v13h10V39h7l2-9h-9v-6a2.5 2.5 0 0 1 2.5-2.5H42V14z"></path></svg>`,
+    gps: `<svg ${attrs}><path d="M32 56s18-17 18-31a18 18 0 0 0-36 0c0 14 18 31 18 31z"></path><circle cx="32" cy="25" r="6"></circle></svg>`,
     email: `<svg ${attrs}><rect x="10" y="16" width="44" height="32" rx="7"></rect><path d="M12 20l20 16 20-16"></path><path d="M12 46l14-13"></path><path d="M52 46L38 33"></path></svg>`
   };
   return icons[type] || icons.email;
@@ -186,11 +176,10 @@ function socialIcon(type) {
 
 function socialSection() {
   const socials = [
-    { type: "instagram", label: "Instagram", href: "https://www.instagram.com/presdaofficial" },
     { type: "x", label: "X / Twitter", href: "https://x.com/PresdaOfficial" },
-    { type: "tiktok", label: "TikTok", href: "https://tiktok.com/@presda" },
+    { type: "instagram", label: "Instagram", href: "https://www.instagram.com/presdaofficial" },
     { type: "facebook", label: "Facebook", href: "https://www.facebook.com/profile.php?id=61589635535583" },
-    { type: "email", label: "Email", href: "mailto:contact@presda.com" }
+    { type: "email", label: "Contact", href: "mailto:contact@presda.com" }
   ];
 
   return `      <section class="social-contact-section" aria-labelledby="connect-title">
@@ -205,6 +194,7 @@ function socialSection() {
                 <strong>PRESDA SIGNAL</strong>
                 <small>Berlin, Germany</small>
               </div>
+              <span class="badge-gps" aria-hidden="true">${socialIcon("gps")}</span>
             </div>
           </div>
           <div class="social-grid">
@@ -310,8 +300,6 @@ ${ticker()}
 
       <section class="content-section category-sections" data-category-sections>${categorySections}</section>
 
-${socialSection()}
-
       <section class="newsletter-section">
         <div>
           <span>Newsletter</span>
@@ -325,6 +313,8 @@ ${socialSection()}
         </form>
       </section>
     </main>
+
+${footer()}
 
 ${analytics()}
   </body>

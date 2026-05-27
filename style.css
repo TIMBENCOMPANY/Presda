@@ -325,7 +325,6 @@ html.light-mode .toggle-dot {
 .content-section,
 .social-contact-section,
 .newsletter-section,
-.site-footer,
 .article-layout {
   width: min(1480px, calc(100% - 40px));
   margin-left: auto;
@@ -377,6 +376,7 @@ html.light-mode .toggle-dot {
 
 .hero-copy h1,
 .article-heading h1,
+.section-title h1,
 .section-title h2,
 .newsletter-section h2 {
   margin: 0;
@@ -538,6 +538,7 @@ html.light-mode .hero-media figcaption {
   margin-bottom: clamp(24px, 4vw, 44px);
 }
 
+.section-title h1,
 .section-title h2 {
   font-size: clamp(2rem, 4.2vw, 4.7rem);
   line-height: 0.98;
@@ -810,6 +811,18 @@ html.light-mode .article-card:hover {
   align-items: center;
 }
 
+.presda-footer-contact {
+  margin-top: clamp(44px, 7vw, 96px);
+}
+
+.contact-page-section.presda-footer-contact {
+  margin-top: 0;
+}
+
+.presda-footer-contact .social-contact-shell {
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+}
+
 .social-copy p {
   margin: 20px 0 0;
   max-width: 520px;
@@ -821,7 +834,7 @@ html.light-mode .article-card:hover {
 .social-badge {
   position: relative;
   display: inline-grid;
-  grid-template-columns: 58px minmax(0, 1fr);
+  grid-template-columns: 58px minmax(0, 1fr) auto;
   gap: 14px;
   align-items: center;
   width: min(100%, 360px);
@@ -856,6 +869,29 @@ html.light-mode .article-card:hover {
   filter:
     drop-shadow(0 0 8px rgba(255, 26, 26, 0.78))
     drop-shadow(0 0 20px rgba(255, 26, 26, 0.24));
+}
+
+.badge-gps {
+  display: grid;
+  width: 36px;
+  height: 36px;
+  place-items: center;
+  border: 1px solid rgba(255, 26, 26, 0.34);
+  border-radius: 12px;
+  color: var(--accent);
+  background: rgba(255, 26, 26, 0.08);
+  box-shadow: 0 0 18px rgba(255, 26, 26, 0.2), inset 0 0 18px rgba(255, 26, 26, 0.08);
+}
+
+.badge-gps svg {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  filter: drop-shadow(0 0 8px rgba(255, 26, 26, 0.7));
 }
 
 .social-badge strong,
@@ -1064,41 +1100,6 @@ html.light-mode .social-contact-shell {
   outline: 0;
 }
 
-.site-footer {
-  min-height: 160px;
-  display: flex;
-  justify-content: space-between;
-  gap: 28px;
-  align-items: center;
-  padding: 34px 0 48px;
-  border-top: 1px solid var(--border);
-}
-
-.footer-logo {
-  width: 170px;
-  height: 44px;
-  object-fit: contain;
-}
-
-.site-footer p {
-  margin: 6px 0 0;
-  color: var(--muted);
-  font-family: Orbitron, sans-serif;
-  font-size: 0.72rem;
-  text-transform: uppercase;
-}
-
-.site-footer nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 18px;
-  color: var(--muted);
-  font-family: Orbitron, sans-serif;
-  font-size: 0.74rem;
-  font-weight: 800;
-  text-transform: uppercase;
-}
-
 .article-layout {
   padding: clamp(40px, 7vw, 96px) 0 30px;
 }
@@ -1276,7 +1277,6 @@ html.light-mode .social-contact-shell {
   .content-section,
   .social-contact-section,
   .newsletter-section,
-  .site-footer,
   .article-layout {
     width: min(100% - 28px, 1480px);
   }
@@ -1410,7 +1410,7 @@ html.light-mode .social-contact-shell {
   }
 
   .social-badge {
-    grid-template-columns: 52px minmax(0, 1fr);
+    grid-template-columns: 52px minmax(0, 1fr) auto;
     padding: 10px 12px 10px 10px;
   }
 
@@ -1426,11 +1426,6 @@ html.light-mode .social-contact-shell {
 
   .newsletter-form {
     grid-template-columns: 1fr;
-  }
-
-  .site-footer {
-    align-items: flex-start;
-    flex-direction: column;
   }
 
   .article-layout {
@@ -1472,7 +1467,6 @@ html.light-mode .social-contact-shell {
   .hero-section,
   .content-section,
   .newsletter-section,
-  .site-footer,
   .article-layout {
     width: calc(100% - 24px);
   }
