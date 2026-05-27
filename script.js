@@ -1,6 +1,226 @@
 const root = document.documentElement;
 const body = document.body;
 
+const articles = [
+  {
+    id: "001",
+    slug: "openai-next-gen-model",
+    title: "OpenAI Unveils Next-Gen Model",
+    category: "AI",
+    date: "2026-05-23",
+    author: "PRESDA Editorial",
+    readingTime: "4 min read",
+    source: "PRESDA Tech Desk",
+    imageDark: "/images/articles/openai-sam-dark.png",
+    imageLight: "/images/articles/openai-sam-light.png",
+    imageAlt: "Sam Altman and OpenAI cinematic PRESDA poster on a dark background",
+    excerpt: "A new generation of artificial intelligence is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.",
+    content: [
+      "OpenAI's newest model signals a sharper phase for artificial intelligence, where speed, context, and multimodal understanding are no longer experimental luxuries but expected parts of the modern workflow.",
+      "The shift is especially important for creators, developers, researchers, and media teams. AI systems are moving from passive chat windows into active editorial, analytical, and operational tools.",
+      "For PRESDA, the story is not only about model performance. It is about how intelligent systems change the rhythm of culture, business, creativity, and public information.",
+      "The next era of digital news will be faster, more visual, and more personalized, while still depending on trust, clarity, and human editorial judgment."
+    ],
+    tags: ["AI", "OpenAI", "Technology"],
+    highlightTerms: ["OpenAI", "artificial intelligence", "AI"],
+    featured: true,
+    trending: true,
+    editorPick: true,
+    mostRead: true
+  },
+  {
+    id: "002",
+    slug: "xabi-alonso-chelsea-pressure",
+    title: "Xabi Alonso Steps Into The Chelsea Spotlight",
+    category: "Sport",
+    date: "2026-05-22",
+    author: "PRESDA Editorial",
+    readingTime: "5 min read",
+    source: "PRESDA Sport Desk",
+    imageDark: "/images/articles/xabi-alonso-dark.png",
+    imageLight: "/images/articles/xabi-alonso-light.png",
+    imageAlt: "Xabi Alonso cinematic football poster with Chelsea flag",
+    excerpt: "A new tactical era takes shape as Xabi Alonso becomes the face of pressure, expectation, and elite football control.",
+    content: [
+      "Xabi Alonso's rise as a modern coach has become one of football's sharpest leadership stories, built on control, calm decisions, and a clear tactical identity.",
+      "Chelsea's global spotlight makes every detail bigger. Training ideas, squad chemistry, transfers, and early results all become part of the public conversation.",
+      "For supporters, the question is whether a new manager can turn potential into rhythm fast enough for a demanding club culture.",
+      "PRESDA will follow the season through tactics, dressing-room pressure, and the business machine surrounding elite European football."
+    ],
+    tags: ["Sport", "Football", "Chelsea"],
+    highlightTerms: ["Xabi Alonso", "Chelsea", "football"],
+    featured: true,
+    trending: true,
+    editorPick: true
+  },
+  {
+    id: "003",
+    slug: "gta6-trailer-culture-shift",
+    title: "GTA 6 Becomes A Culture Moment",
+    category: "Lifestyle",
+    date: "2026-05-21",
+    author: "PRESDA Editorial",
+    readingTime: "4 min read",
+    source: "PRESDA Culture Desk",
+    imageDark: "/images/articles/gta6-poster-dark.png",
+    imageLight: "/images/articles/gta6-poster-light.png",
+    imageAlt: "GTA 6 neon Vice City cinematic poster",
+    excerpt: "The next major gaming release is already behaving less like a product and more like a global entertainment event.",
+    content: [
+      "Major game releases now sit beside film premieres, fashion launches, and live sport in the cultural calendar. GTA 6 is one of the clearest examples.",
+      "Fans are not only waiting to play. They are decoding trailers, building theories, debating visuals, and turning every detail into social media momentum.",
+      "The business impact stretches across streaming, hardware, advertising, music, and digital fashion. One game can move an entire entertainment ecosystem.",
+      "PRESDA will track how gaming continues to shape taste, youth culture, celebrity influence, and the future of interactive storytelling."
+    ],
+    tags: ["Gaming", "Lifestyle", "Culture"],
+    highlightTerms: ["GTA 6", "gaming", "global entertainment"],
+    featured: true,
+    trending: true,
+    mostRead: true
+  },
+  {
+    id: "004",
+    slug: "elon-mars-signal",
+    title: "Elon Musk Turns Mars Into A Media Signal",
+    category: "Business",
+    date: "2026-05-20",
+    author: "PRESDA Editorial",
+    readingTime: "6 min read",
+    source: "PRESDA Business Desk",
+    imageDark: "/images/articles/elon-mars-dark.png",
+    imageLight: "/images/articles/elon-mars-light.png",
+    imageAlt: "Elon Musk above a futuristic city with SpaceX and Tesla branding",
+    excerpt: "Space ambition, investor attention, and spectacle continue to merge as Mars becomes a brand, a mission, and a market narrative.",
+    content: [
+      "The Mars story is no longer only a scientific ambition. It is a media signal, a capital magnet, and a symbol of how technology companies sell the future.",
+      "Every launch, prototype, and public statement becomes part of a larger narrative about risk, acceleration, and human expansion.",
+      "Investors watch the engineering, but audiences watch the mythology. That combination gives space companies unusual cultural power.",
+      "The PRESDA business desk will continue following the money, the engineering milestones, and the public imagination around the new space economy."
+    ],
+    tags: ["Business", "Space", "Tesla"],
+    highlightTerms: ["Elon Musk", "Mars", "Space"],
+    featured: true,
+    trending: true,
+    editorPick: true
+  },
+  {
+    id: "005",
+    slug: "world-cup-2026-countdown",
+    title: "World Cup 2026 Countdown Enters Full Speed",
+    category: "Sport",
+    date: "2026-05-19",
+    author: "PRESDA Editorial",
+    readingTime: "5 min read",
+    source: "PRESDA Sport Desk",
+    imageDark: "/images/articles/fifa-world-cup-dark.png",
+    imageLight: "/images/articles/fifa-world-cup-light.png",
+    imageAlt: "FIFA football official in a stadium cinematic poster",
+    excerpt: "Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.",
+    content: [
+      "The World Cup countdown is now a full media operation. Host cities are preparing infrastructure, broadcasters are building narratives, and brands are planning global campaigns.",
+      "Football remains the core, but the modern tournament is also tourism, technology, fashion, music, and national identity compressed into one month.",
+      "For players, the pressure is immense. For supporters, the tournament becomes a shared calendar of emotion and expectation.",
+      "PRESDA will cover the road to the tournament through performance, culture, and the worldwide business of football."
+    ],
+    tags: ["Sport", "World Cup", "Football"],
+    highlightTerms: ["World Cup 2026", "football"],
+    featured: true,
+    trending: true,
+    mostRead: true
+  },
+  {
+    id: "006",
+    slug: "bill-gates-foundation-impact",
+    title: "Bill Gates Foundation Turns Innovation Into Impact",
+    category: "Business",
+    date: "2026-05-18",
+    author: "PRESDA Editorial",
+    readingTime: "4 min read",
+    source: "PRESDA Business Desk",
+    imageDark: "/images/articles/bill-gates-dark.png",
+    imageLight: "/images/articles/bill-gates-light.png",
+    imageAlt: "Bill Gates foundation cinematic poster with global health and innovation panels",
+    excerpt: "Global health, climate innovation, education, and science remain the pillars of one of the world's most watched philanthropic machines.",
+    content: [
+      "The Bill and Melinda Gates Foundation continues to sit at the center of global conversations about health, education, climate innovation, and scientific progress.",
+      "Its influence is measured not only in funding, but in the way large-scale philanthropy can direct attention toward urgent problems that markets often move too slowly to solve.",
+      "From vaccines and disease prevention to clean technology and learning access, the foundation has built a model where innovation is expected to create measurable impact.",
+      "PRESDA will keep tracking how philanthropic capital shapes policy, technology, and the future of global development."
+    ],
+    tags: ["Business", "Innovation", "Health"],
+    highlightTerms: ["Bill Gates", "Foundation", "Innovation", "Impact"],
+    editorPick: true
+  },
+  {
+    id: "007",
+    slug: "japan-enters-ai-care-era",
+    title: "Japan Enters The AI Care Era",
+    category: "World",
+    date: "2026-05-17",
+    author: "PRESDA Editorial",
+    readingTime: "5 min read",
+    source: "PRESDA World Desk",
+    imageDark: "/images/articles/japan-ai-care-dark.png",
+    imageLight: "/images/articles/japan-ai-care-light.png",
+    imageAlt: "Japanese elder holding hands with a care robot in a cinematic poster",
+    excerpt: "Facing an aging population and caregiver shortages, Japan is turning to AI-powered robots to support daily care.",
+    content: [
+      "Japan is entering a new AI care era as hospitals, nursing homes, and families look for support in a country facing severe demographic pressure.",
+      "Robots are beginning to assist with medication reminders, conversation, mobility support, and emotional comfort for elderly citizens.",
+      "The technology raises practical questions about trust, privacy, cost, and the balance between human warmth and machine assistance.",
+      "PRESDA will follow how Japan's experiment with care robotics influences the future of aging societies worldwide."
+    ],
+    tags: ["World", "AI", "Japan"],
+    highlightTerms: ["Japan", "AI Care", "robots", "care"],
+    editorPick: true
+  },
+  {
+    id: "008",
+    slug: "keanu-reeves-kindness-powerful",
+    title: "Keanu Reeves Shows Kindness Is Powerful",
+    category: "Paparazzi",
+    date: "2026-05-16",
+    author: "PRESDA Editorial",
+    readingTime: "3 min read",
+    source: "PRESDA Culture Desk",
+    imageDark: "/images/articles/keanu-kindness-dark.png",
+    imageLight: "/images/articles/keanu-kindness-light.png",
+    imageAlt: "Keanu Reeves comforting a child in a hospital room with kindness overlays",
+    excerpt: "The actor's quiet generosity becomes a reminder that compassion can travel further than performance.",
+    content: [
+      "Keanu Reeves has long been treated as a rare Hollywood figure because his public image is built less on spectacle and more on quiet humanity.",
+      "Reports of private generosity continue to resonate because they point to a kind of celebrity influence that does not need cameras to feel powerful.",
+      "In a culture that rewards attention, a private act of compassion can still become the story people remember.",
+      "PRESDA will keep tracking the human stories behind fame, where character can matter as much as visibility."
+    ],
+    tags: ["Paparazzi", "Hollywood", "Culture"],
+    highlightTerms: ["Keanu Reeves", "Kindness", "compassion", "humanity"],
+    mostRead: true
+  },
+  {
+    id: "009",
+    slug: "mourinho-real-madrid-return-signal",
+    title: "Mourinho Return Talk Shakes Madrid Again",
+    category: "Sport",
+    date: "2026-05-15",
+    author: "PRESDA Editorial",
+    readingTime: "4 min read",
+    source: "PRESDA Sport Desk",
+    imageDark: "/images/articles/mourinho-real-madrid-dark.png",
+    imageLight: "/images/articles/mourinho-real-madrid-light.png",
+    imageAlt: "Jose Mourinho with Real Madrid crest and Santiago Bernabeu stadium",
+    excerpt: "Real Madrid nostalgia, tactical identity, and elite football pressure collide whenever Mourinho's name returns to the conversation.",
+    content: [
+      "Jose Mourinho remains one of football's most cinematic figures, a manager whose name still carries memory, conflict, trophies, and theatre.",
+      "Whenever Real Madrid enters the conversation, the story becomes bigger than a coaching rumor. It becomes a debate about identity, power, and the emotional pull of past eras.",
+      "Modern football moves fast, but legendary managers keep shaping how supporters imagine the future of their clubs.",
+      "PRESDA will follow the signals, the politics, and the tactical questions behind one of football's most durable narratives."
+    ],
+    tags: ["Sport", "Real Madrid", "Football"],
+    highlightTerms: ["Mourinho", "Real Madrid", "football"]
+  }
+];
+
 const imagePairs = {
   "openai-next-gen-model": {
     dark: "/images/articles/openai-sam-dark.png",
@@ -103,4 +323,138 @@ document.querySelector(".newsletter-form")?.addEventListener("submit", (event) =
 });
 
 /* PRESDA rotating hero progressive enhancement */
-;(()=>{if(window.__presdaHeroRotator)return;window.__presdaHeroRotator=1;const S=[["openai-next-gen-model","AI","May 23, 2026","2026-05-23",'<mark class="title-red">OpenAI</mark> Unveils Next-Gen Model','A new generation of <mark class="title-red">artificial intelligence</mark> is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.',"/articles/openai-next-gen-model/","4 min read","Sam Altman and OpenAI cinematic PRESDA poster on a dark background","Source: PRESDA Tech Desk"],["xabi-alonso-chelsea-pressure","Sport","May 22, 2026","2026-05-22",'<mark class="title-red">Xabi Alonso</mark> Steps Into The <mark class="title-red">Chelsea</mark> Spotlight','A new tactical era takes shape as <mark class="title-red">Xabi Alonso</mark> becomes the face of pressure, expectation, and elite <mark class="title-red">football</mark> control.',"/articles/xabi-alonso-chelsea-pressure/","5 min read","Xabi Alonso cinematic football poster with Chelsea flag","Source: PRESDA Sport Desk"],["gta6-trailer-culture-shift","Lifestyle","May 21, 2026","2026-05-21",'<mark class="title-red">GTA 6</mark> Becomes A Culture Moment','The next major <mark class="title-red">gaming</mark> release is already behaving less like a product and more like a <mark class="title-red">global entertainment</mark> event.',"/articles/gta6-trailer-culture-shift/","4 min read","GTA 6 neon Vice City cinematic poster","Source: PRESDA Culture Desk"],["elon-mars-signal","Business","May 20, 2026","2026-05-20",'<mark class="title-red">Elon Musk</mark> Turns <mark class="title-red">Mars</mark> Into A Media Signal','<mark class="title-red">Space</mark> ambition, investor attention, and spectacle continue to merge as <mark class="title-red">Mars</mark> becomes a brand, a mission, and a market narrative.',"/articles/elon-mars-signal/","6 min read","Elon Musk above a futuristic city with SpaceX and Tesla branding","Source: PRESDA Business Desk"],["world-cup-2026-countdown","Sport","May 19, 2026","2026-05-19",'<mark class="title-red">World Cup 2026</mark> Countdown Enters Full Speed',"Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.","/articles/world-cup-2026-countdown/","5 min read","FIFA football official in a stadium cinematic poster","Source: PRESDA Sport Desk"]],q=s=>document.querySelector(s),sh=q(".hero-shell"),cat=q(".hero-meta span"),dt=q(".hero-meta time"),h=q(".hero-copy h1"),p=q(".hero-copy p"),ln=q(".hero-actions .primary-link"),rd=q(".hero-actions span"),im=q(".hero-media img"),cap=q(".hero-media figcaption"),prog=q(".hero-progress");if(!sh||!h||!p||!im||!prog)return;let a=0,t;const src=s=>versioned((imagePairs[s]||{})[document.documentElement.classList.contains("light-mode")?"light":"dark"]||im.src),draw=(n,m=1)=>{const x=S[n%S.length];if(m)sh.classList.add("is-transitioning");setTimeout(()=>{a=n%S.length;if(cat)cat.textContent=x[1];if(dt){dt.textContent=x[2];dt.setAttribute("datetime",x[3])}h.innerHTML=x[4];p.innerHTML=x[5];if(ln)ln.href=x[6];if(rd)rd.textContent=x[7];im.dataset.articleImageSlug=x[0];im.src=src(x[0]);im.alt=x[8];if(cap)cap.textContent=x[9];prog.querySelectorAll("button").forEach((b,i)=>{const on=i===a;b.classList.toggle("is-active",on);b.setAttribute("aria-current",on?"true":"false")});if(m)requestAnimationFrame(()=>sh.classList.remove("is-transitioning"))},m?180:0)},play=()=>{clearInterval(t);t=setInterval(()=>draw(a+1),5000)};prog.innerHTML="";S.forEach((x,i)=>{const b=document.createElement("button");b.type="button";b.setAttribute("aria-label","Show featured story: "+x[1]);b.addEventListener("click",()=>{draw(i);play()});prog.appendChild(b)});["mouseenter","focusin"].forEach(e=>sh.addEventListener(e,()=>clearInterval(t)));["mouseleave","focusout"].forEach(e=>sh.addEventListener(e,play));draw(0,0);play()})();
+(() => {
+  if (window.__presdaHeroRotator) return;
+  window.__presdaHeroRotator = true;
+
+  const shell = document.querySelector(".hero-shell");
+  const category = document.querySelector(".hero-meta span");
+  const date = document.querySelector(".hero-meta time");
+  const title = document.querySelector(".hero-copy h1");
+  const excerpt = document.querySelector(".hero-copy p");
+  const link = document.querySelector(".hero-actions .primary-link");
+  const reading = document.querySelector(".hero-actions span");
+  const image = document.querySelector(".hero-media img");
+  const caption = document.querySelector(".hero-media figcaption");
+  const progress = document.querySelector(".hero-progress");
+
+  if (!shell || !title || !excerpt || !image || !progress || !Array.isArray(articles)) return;
+
+  const featuredStories = articles.filter((article) => article.featured).slice(0, 5);
+  if (!featuredStories.length) return;
+
+  const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  })[char]);
+
+  const highlight = (value, terms = []) => {
+    let output = escapeHtml(value);
+    [...new Set(terms.filter(Boolean))]
+      .sort((a, b) => b.length - a.length)
+      .forEach((term) => {
+        const safe = escapeHtml(term).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+        output = output.replace(new RegExp(`(^|[^A-Za-z0-9])(${safe})(?=$|[^A-Za-z0-9])`, "gi"), `$1<mark class="title-red">$2</mark>`);
+      });
+    return output;
+  };
+
+  const formatDate = (value) => new Date(`${value}T12:00:00`).toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric"
+  });
+
+  const articleImage = (article) => {
+    const themeKey = document.documentElement.classList.contains("light-mode") ? "imageLight" : "imageDark";
+    return versioned(article[themeKey] || article.imageDark || article.imageLight || article.image);
+  };
+
+  let active = 0;
+  let timer;
+
+  const draw = (index, animate = true) => {
+    const article = featuredStories[index % featuredStories.length];
+    if (!article) return;
+    if (animate) shell.classList.add("is-transitioning");
+
+    window.setTimeout(() => {
+      active = index % featuredStories.length;
+      if (category) category.textContent = article.category;
+      if (date) {
+        date.textContent = formatDate(article.date);
+        date.setAttribute("datetime", article.date);
+      }
+      title.innerHTML = highlight(article.title, article.highlightTerms);
+      excerpt.innerHTML = highlight(article.excerpt, article.highlightTerms);
+      if (link) link.href = `/articles/${article.slug}/`;
+      if (reading) reading.textContent = article.readingTime;
+      image.dataset.articleImageSlug = article.slug;
+      image.src = articleImage(article);
+      image.alt = article.imageAlt;
+      if (caption) caption.textContent = `Source: ${article.source}`;
+      progress.querySelectorAll("button").forEach((button, buttonIndex) => {
+        const isActive = buttonIndex === active;
+        button.classList.toggle("is-active", isActive);
+        button.setAttribute("aria-current", isActive ? "true" : "false");
+      });
+      if (animate) requestAnimationFrame(() => shell.classList.remove("is-transitioning"));
+    }, animate ? 180 : 0);
+  };
+
+  const play = () => {
+    window.clearInterval(timer);
+    timer = window.setInterval(() => draw(active + 1), 5000);
+  };
+
+  progress.innerHTML = "";
+  featuredStories.forEach((article, index) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.setAttribute("aria-label", `Show featured story: ${article.title}`);
+    button.addEventListener("click", () => {
+      draw(index);
+      play();
+    });
+    progress.appendChild(button);
+  });
+
+  ["mouseenter", "focusin"].forEach((eventName) => shell.addEventListener(eventName, () => window.clearInterval(timer)));
+  ["mouseleave", "focusout"].forEach((eventName) => shell.addEventListener(eventName, play));
+  draw(0, false);
+  play();
+})();
+
+/* PRESDA navigation and section motion */
+(() => {
+  const path = window.location.pathname;
+  document.querySelectorAll(".main-nav a").forEach((link) => {
+    const href = link.getAttribute("href") || "";
+    const isHome = href === "/" && path === "/";
+    const isSection = href !== "/" && !href.startsWith("/#") && path.startsWith(href);
+    link.classList.toggle("is-active", isHome || isSection);
+  });
+
+  const revealItems = document.querySelectorAll(".content-section, .newsletter-section, .social-contact-section, .article-layout");
+  if (!("IntersectionObserver" in window)) {
+    revealItems.forEach((item) => item.classList.add("is-visible"));
+    return;
+  }
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("is-visible");
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.14 });
+
+  revealItems.forEach((item) => {
+    item.classList.add("reveal-section");
+    observer.observe(item);
+  });
+})();

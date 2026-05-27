@@ -2,9 +2,9 @@ const fs = require("fs");
 const path = require("path");
 const vm = require("vm");
 
-const root = path.resolve(__dirname, "..");
+const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-contact-light-20260527";
+const cacheVersion = "presda-ui-nav-sections-20260528";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articles = ([\s\S]*?\n\];)/);
@@ -105,12 +105,15 @@ function header() {
         </a>
 
         <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
+          <a href="/">Home</a>
           <a href="/category/ai/">AI</a>
           <a href="/category/business/">Business</a>
           <a href="/category/sport/">Sport</a>
           <a href="/category/world/">World</a>
           <a href="/category/paparazzi/">Paparazzi</a>
           <a href="/category/lifestyle/">Lifestyle</a>
+          <a href="/contact.html">Contact</a>
+          <a href="/#newsletter">Newsletter</a>
         </nav>
 
         <div class="nav-actions">
@@ -154,12 +157,25 @@ function articleCard(article, size = "standard") {
         <img src="${imageWithVersion(article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" loading="lazy" data-article-image-slug="${esc(article.slug)}" />
       </figure>
       <div>
-        <span>${esc(article.category)}</span>
+        <span class="category-tag category-${esc(article.category).toLowerCase()}">${esc(article.category)}</span>
         <h3>${titleHtml(article)}</h3>
         <p>${textHtml(article, article.excerpt)}</p>
-        <small>${formatDate(article.date)} / ${esc(article.readingTime)}</small>
+        <small><time datetime="${esc(article.date)}">${formatDate(article.date)}</time><span class="read-time-badge">${esc(article.readingTime)}</span></small>
       </div>
     </a>`;
+}
+
+function categoryIcon(category) {
+  const attrs = `viewBox="0 0 64 64" aria-hidden="true" focusable="false"`;
+  const icons = {
+    AI: `<svg ${attrs}><rect x="16" y="16" width="32" height="32" rx="6"></rect><path d="M24 10v8M32 10v8M40 10v8M24 46v8M32 46v8M40 46v8M10 24h8M10 32h8M10 40h8M46 24h8M46 32h8M46 40h8"></path><path d="M25 39l3-14h8l3 14M27 34h10"></path></svg>`,
+    Business: `<svg ${attrs}><rect x="14" y="24" width="36" height="24" rx="4"></rect><path d="M24 24v-6h16v6M14 34h36M24 40h16"></path></svg>`,
+    Sport: `<svg ${attrs}><circle cx="32" cy="32" r="20"></circle><path d="M32 12v40M12 32h40M19 19c8 6 18 6 26 0M19 45c8-6 18-6 26 0"></path></svg>`,
+    World: `<svg ${attrs}><circle cx="32" cy="32" r="21"></circle><path d="M11 32h42M32 11c7 7 10 14 10 21s-3 14-10 21M32 11c-7 7-10 14-10 21s3 14 10 21"></path></svg>`,
+    Paparazzi: `<svg ${attrs}><rect x="14" y="22" width="36" height="28" rx="5"></rect><path d="M24 22l4-7h8l4 7M25 36a7 7 0 1 0 14 0a7 7 0 0 0-14 0M45 28h1"></path></svg>`,
+    Lifestyle: `<svg ${attrs}><path d="M32 51s-18-10-18-25a10 10 0 0 1 18-6a10 10 0 0 1 18 6c0 15-18 25-18 25z"></path><path d="M23 32h6l3-7l4 13l3-6h4"></path></svg>`
+  };
+  return icons[category] || icons.World;
 }
 
 function socialIcon(type) {
@@ -209,9 +225,18 @@ function socialSection() {
 }
 
 function homePage() {
-  const featured = articles[0];
-  const featuredGrid = articles.slice(1, 6).map((article, index) => articleCard(article, index === 0 ? "large" : "standard")).join("");
-  const categoryGrid = categories.map((category) => `<a class="category-tile" href="#${category.toLowerCase()}"><span>${category}</span><strong>${articles.filter((article) => article.category === category).length}</strong></a>`).join("");
+  const featured = articles.find((article) => article.featured) || articles[0];
+  const featuredArticles = articles.filter((article) => article.featured);
+  const trendingArticles = articles.filter((article) => article.trending).slice(0, 6);
+  const latestArticles = [...articles].sort((a, b) => new Date(b.date) - new Date(a.date));
+  const mostReadArticles = articles.filter((article) => article.mostRead).concat(articles).filter((article, index, arr) => arr.findIndex((item) => item.slug === article.slug) === index).slice(0, 4);
+  const editorPickArticles = articles.filter((article) => article.editorPick).concat(articles).filter((article, index, arr) => arr.findIndex((item) => item.slug === article.slug) === index).slice(0, 4);
+  const featuredGrid = featuredArticles.filter((article) => article.slug !== featured.slug).slice(0, 5).map((article, index) => articleCard(article, index === 0 ? "large" : "standard")).join("");
+  const categoryGrid = categories.map((category) => `<a class="category-tile" href="/category/${category.toLowerCase()}/">
+          <span class="category-icon">${categoryIcon(category)}</span>
+          <span class="category-name">${category}</span>
+          <strong>${articles.filter((article) => article.category === category).length}</strong>
+        </a>`).join("");
   const categorySections = categories.map((category) => {
     const categoryArticles = articles.filter((article) => article.category === category);
     if (!categoryArticles.length) return "";
@@ -283,12 +308,34 @@ ${ticker()}
         </div>
       </section>
 
-      <section class="content-section">
+      <section class="content-section featured-desk" aria-labelledby="featured-desk-title">
         <div class="section-title">
           <span>Featured Desk</span>
-          <h2>Stories With Signal</h2>
+          <h2 id="featured-desk-title">Stories With Signal</h2>
         </div>
         <div class="featured-grid" data-featured-grid>${featuredGrid}</div>
+      </section>
+
+      <section class="content-section trending-now" aria-labelledby="trending-title">
+        <div class="section-title section-row">
+          <div>
+            <span>Trending Now</span>
+            <h2 id="trending-title">Fast Signals</h2>
+          </div>
+          <a class="section-link" href="/#latest">View Latest</a>
+        </div>
+        <div class="story-row">${trendingArticles.map((article) => articleCard(article, "compact")).join("")}</div>
+      </section>
+
+      <section class="content-section latest-stories" id="latest" aria-labelledby="latest-title">
+        <div class="section-title section-row">
+          <div>
+            <span>Latest News</span>
+            <h2 id="latest-title">The PRESDA Wire</h2>
+          </div>
+          <a class="section-link" href="/#newsletter">Get Briefings</a>
+        </div>
+        <div class="latest-grid">${latestArticles.slice(0, 6).map((article, index) => articleCard(article, index === 0 ? "wide" : "standard")).join("")}</div>
       </section>
 
       <section class="content-section category-overview">
@@ -301,7 +348,24 @@ ${ticker()}
 
       <section class="content-section category-sections" data-category-sections>${categorySections}</section>
 
-      <section class="newsletter-section">
+      <section class="content-section insight-rails" aria-label="Most read and editor picks">
+        <div class="insight-column">
+          <div class="section-title compact">
+            <span>Most Read</span>
+            <h2>Audience Heat</h2>
+          </div>
+          <div class="ranked-list">${mostReadArticles.map((article, index) => `<a class="ranked-item" href="${articleUrl(article)}"><strong>${String(index + 1).padStart(2, "0")}</strong><span>${titleHtml(article)}</span><small>${esc(article.readingTime)}</small></a>`).join("")}</div>
+        </div>
+        <div class="insight-column">
+          <div class="section-title compact">
+            <span>Editor Picks</span>
+            <h2>Chosen Signal</h2>
+          </div>
+          <div class="story-row editorial-row">${editorPickArticles.map((article) => articleCard(article, "compact")).join("")}</div>
+        </div>
+      </section>
+
+      <section class="newsletter-section" id="newsletter">
         <div>
           <span>Newsletter</span>
           <h2>Stay ahead of the story.</h2>
@@ -424,6 +488,57 @@ ${analytics()}
 `;
 }
 
+function categoryPage(category) {
+  const items = articles.filter((article) => article.category === category);
+  const featured = items[0] || articles[0];
+  const canonical = `${siteUrl}/category/${category.toLowerCase()}/`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `${category} News | PRESDA`,
+    description: `Premium PRESDA coverage from the ${category} desk.`,
+    url: canonical
+  };
+
+  return `<!DOCTYPE html>
+<html lang="en">
+  <head>
+${commonHead({
+  title: `${category} News | PRESDA`,
+  description: `Premium futuristic ${category.toLowerCase()} stories from PRESDA, with cinematic reporting and clean editorial context.`,
+  canonical,
+  image: featured.imageDark || featured.image
+})}
+    <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+  </head>
+  <body data-category-page>
+${header()}
+
+    <main>
+${ticker()}
+
+      <section class="content-section category-page-hero">
+        <div class="section-title">
+          <span class="category-icon page-icon">${categoryIcon(category)}</span>
+          <span>${esc(category)} Desk</span>
+          <h1>${esc(category)} News</h1>
+        </div>
+        <p>Premium PRESDA coverage, organized for fast reading and cinematic scanning.</p>
+      </section>
+
+      <section class="content-section">
+        <div class="latest-grid">${items.map((article, index) => articleCard(article, index === 0 ? "wide" : "standard")).join("")}</div>
+      </section>
+    </main>
+
+${footer()}
+
+${analytics()}
+  </body>
+</html>
+`;
+}
+
 fs.writeFileSync(path.join(root, "index.html"), homePage());
 fs.writeFileSync(path.join(root, "article.html"), articlePage(articles[0]));
 
@@ -433,6 +548,14 @@ for (const article of articles) {
   const dir = path.join(articlesDir, article.slug);
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, "index.html"), articlePage(article));
+}
+
+const categoryDir = path.join(root, "category");
+fs.mkdirSync(categoryDir, { recursive: true });
+for (const category of categories) {
+  const dir = path.join(categoryDir, category.toLowerCase());
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, "index.html"), categoryPage(category));
 }
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
@@ -454,6 +577,12 @@ ${articles.map((article) => `  <url>
     <lastmod>${article.date}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>`).join("\n")}
+${categories.map((category) => `  <url>
+    <loc>${siteUrl}/category/${category.toLowerCase()}/</loc>
+    <lastmod>${articles[0].date}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>`).join("\n")}
 </urlset>
 `;

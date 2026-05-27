@@ -3,18 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="PRESDA delivers futuristic coverage of sports, artificial intelligence, business, culture, and global stories through cinematic visual storytelling." />
-    <title>PRESDA — Futuristic News, Sports & AI Media</title>
+    <meta name="description" content="PRESDA is a premium futuristic news magazine covering AI, business, sport, world, paparazzi, and lifestyle stories." />
+    <title>PRESDA - Your Daily Press</title>
     <link rel="canonical" href="https://presda.com/" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="PRESDA" />
-    <meta property="og:title" content="PRESDA — Futuristic News, Sports & AI Media" />
-    <meta property="og:description" content="PRESDA delivers futuristic coverage of sports, artificial intelligence, business, culture, and global stories through cinematic visual storytelling." />
+    <meta property="og:title" content="PRESDA - Your Daily Press" />
+    <meta property="og:description" content="PRESDA is a premium futuristic news magazine covering AI, business, sport, world, paparazzi, and lifestyle stories." />
     <meta property="og:url" content="https://presda.com/" />
     <meta property="og:image" content="https://presda.com/images/articles/openai-sam-dark.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="PRESDA — Futuristic News, Sports & AI Media" />
-    <meta name="twitter:description" content="PRESDA delivers futuristic coverage of sports, artificial intelligence, business, culture, and global stories through cinematic visual storytelling." />
+    <meta name="twitter:title" content="PRESDA - Your Daily Press" />
+    <meta name="twitter:description" content="PRESDA is a premium futuristic news magazine covering AI, business, sport, world, paparazzi, and lifestyle stories." />
     <meta name="twitter:image" content="https://presda.com/images/articles/openai-sam-dark.png" />
     <link rel="icon" data-dynamic-favicon type="image/png" href="/favicon-dark.png?v=presda-20260523-dark" />
     <link rel="shortcut icon" data-dynamic-favicon href="/favicon-dark.png?v=presda-20260523-dark" />
@@ -22,10 +22,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@600;700;800;900&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="/style.css?v=presda-contact-light-20260527" />
+    <link rel="stylesheet" href="/style.css?v=presda-ui-nav-sections-20260528" />
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"PRESDA","alternateName":"Your Daily Press","url":"https://presda.com","potentialAction":{"@type":"SearchAction","target":"https://presda.com/articles/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
   </head>
-  <body>
+  <body data-home>
     <header class="site-header">
       <div class="nav-shell">
         <a class="brand" href="/" aria-label="PRESDA home">
@@ -33,13 +33,16 @@
           <img class="brand-logo logo-light" data-logo-light src="/logo-light.png" alt="PRESDA official logo for light mode" />
         </a>
 
-                <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
+        <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
+          <a href="/">Home</a>
           <a href="/category/ai/">AI</a>
           <a href="/category/business/">Business</a>
           <a href="/category/sport/">Sport</a>
           <a href="/category/world/">World</a>
           <a href="/category/paparazzi/">Paparazzi</a>
           <a href="/category/lifestyle/">Lifestyle</a>
+          <a href="/contact.html">Contact</a>
+          <a href="/#newsletter">Newsletter</a>
         </nav>
 
         <div class="nav-actions">
@@ -72,78 +75,200 @@
         <div class="hero-shell">
           <div class="hero-copy">
             <div class="hero-meta">
-              <span>AI</span>
-              <time datetime="2026-05-23">May 23, 2026</time>
+              <span data-hero-category>AI</span>
+              <time data-hero-date datetime="2026-05-23">May 23, 2026</time>
             </div>
-            <h1><mark class="title-red">OpenAI</mark> Unveils Next-Gen Model</h1>
-            <p>A new generation of <mark class="title-red">artificial intelligence</mark> is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.</p>
+            <h1 data-hero-title><mark class="title-red">OpenAI</mark> Unveils Next-Gen Model</h1>
+            <p data-hero-excerpt>A new generation of <mark class="title-red">artificial intelligence</mark> is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.</p>
             <div class="hero-actions">
-              <a class="primary-link" href="/articles/openai-next-gen-model/">Read Full Story</a>
-              <span>4 min read</span>
+              <a class="primary-link" data-hero-link href="/articles/openai-next-gen-model/">Read Full Story</a>
+              <span data-hero-reading>4 min read</span>
             </div>
           </div>
           <figure class="hero-media">
-            <img data-article-image-slug="openai-next-gen-model" src="/images/articles/openai-sam-dark.png?v=presda-posters-20260524" alt="Sam Altman and OpenAI cinematic PRESDA poster on a dark background" />
-            <figcaption>Source: PRESDA Tech Desk</figcaption>
+            <img data-hero-image data-article-image-slug="openai-next-gen-model" src="/images/articles/openai-sam-dark.png?v=presda-posters-20260524" alt="Sam Altman and OpenAI cinematic PRESDA poster on a dark background" />
+            <figcaption data-hero-source>Source: PRESDA Tech Desk</figcaption>
           </figure>
-          <div class="hero-progress" aria-label="Featured article selector"></div>
+          <div class="hero-progress" data-hero-progress aria-label="Featured article selector"></div>
         </div>
       </section>
 
-      <section class="content-section">
+      <section class="content-section featured-desk" aria-labelledby="featured-desk-title">
         <div class="section-title">
           <span>Featured Desk</span>
-          <h2>Stories With Signal</h2>
+          <h2 id="featured-desk-title">Stories With Signal</h2>
         </div>
-        <div class="featured-grid"><a class="article-card large" href="/articles/xabi-alonso-chelsea-pressure/">
+        <div class="featured-grid" data-featured-grid><a class="article-card large" href="/articles/xabi-alonso-chelsea-pressure/">
       <figure>
         <img src="/images/articles/xabi-alonso-dark.png?v=presda-posters-20260524" alt="Xabi Alonso cinematic football poster with Chelsea flag" loading="lazy" data-article-image-slug="xabi-alonso-chelsea-pressure" />
       </figure>
       <div>
-        <span>Sport</span>
+        <span class="category-tag category-sport">Sport</span>
         <h3><mark class="title-red">Xabi Alonso</mark> Steps Into The <mark class="title-red">Chelsea</mark> Spotlight</h3>
         <p>A new tactical era takes shape as <mark class="title-red">Xabi Alonso</mark> becomes the face of pressure, expectation, and elite <mark class="title-red">football</mark> control.</p>
-        <small>May 22, 2026 / 5 min read</small>
+        <small><time datetime="2026-05-22">May 22, 2026</time><span class="read-time-badge">5 min read</span></small>
       </div>
     </a><a class="article-card standard" href="/articles/gta6-trailer-culture-shift/">
       <figure>
         <img src="/images/articles/gta6-poster-dark.png?v=presda-posters-20260524" alt="GTA 6 neon Vice City cinematic poster" loading="lazy" data-article-image-slug="gta6-trailer-culture-shift" />
       </figure>
       <div>
-        <span>Lifestyle</span>
+        <span class="category-tag category-lifestyle">Lifestyle</span>
         <h3><mark class="title-red">GTA 6</mark> Becomes A Culture Moment</h3>
         <p>The next major <mark class="title-red">gaming</mark> release is already behaving less like a product and more like a <mark class="title-red">global entertainment</mark> event.</p>
-        <small>May 21, 2026 / 4 min read</small>
+        <small><time datetime="2026-05-21">May 21, 2026</time><span class="read-time-badge">4 min read</span></small>
       </div>
     </a><a class="article-card standard" href="/articles/elon-mars-signal/">
       <figure>
         <img src="/images/articles/elon-mars-dark.png?v=presda-posters-20260524" alt="Elon Musk above a futuristic city with SpaceX and Tesla branding" loading="lazy" data-article-image-slug="elon-mars-signal" />
       </figure>
       <div>
-        <span>Business</span>
+        <span class="category-tag category-business">Business</span>
         <h3><mark class="title-red">Elon Musk</mark> Turns <mark class="title-red">Mars</mark> Into A Media Signal</h3>
         <p><mark class="title-red">Space</mark> ambition, investor attention, and spectacle continue to merge as <mark class="title-red">Mars</mark> becomes a brand, a mission, and a market narrative.</p>
-        <small>May 20, 2026 / 6 min read</small>
+        <small><time datetime="2026-05-20">May 20, 2026</time><span class="read-time-badge">6 min read</span></small>
       </div>
     </a><a class="article-card standard" href="/articles/world-cup-2026-countdown/">
       <figure>
         <img src="/images/articles/fifa-world-cup-dark.png?v=presda-posters-20260524" alt="FIFA football official in a stadium cinematic poster" loading="lazy" data-article-image-slug="world-cup-2026-countdown" />
       </figure>
       <div>
-        <span>Sport</span>
+        <span class="category-tag category-sport">Sport</span>
         <h3><mark class="title-red">World Cup 2026</mark> Countdown Enters Full Speed</h3>
         <p>Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.</p>
-        <small>May 19, 2026 / 5 min read</small>
+        <small><time datetime="2026-05-19">May 19, 2026</time><span class="read-time-badge">5 min read</span></small>
+      </div>
+    </a></div>
+      </section>
+
+      <section class="content-section trending-now" aria-labelledby="trending-title">
+        <div class="section-title section-row">
+          <div>
+            <span>Trending Now</span>
+            <h2 id="trending-title">Fast Signals</h2>
+          </div>
+          <a class="section-link" href="/#latest">View Latest</a>
+        </div>
+        <div class="story-row"><a class="article-card compact" href="/articles/openai-next-gen-model/">
+      <figure>
+        <img src="/images/articles/openai-sam-dark.png?v=presda-posters-20260524" alt="Sam Altman and OpenAI cinematic PRESDA poster on a dark background" loading="lazy" data-article-image-slug="openai-next-gen-model" />
+      </figure>
+      <div>
+        <span class="category-tag category-ai">AI</span>
+        <h3><mark class="title-red">OpenAI</mark> Unveils Next-Gen Model</h3>
+        <p>A new generation of <mark class="title-red">artificial intelligence</mark> is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.</p>
+        <small><time datetime="2026-05-23">May 23, 2026</time><span class="read-time-badge">4 min read</span></small>
+      </div>
+    </a><a class="article-card compact" href="/articles/xabi-alonso-chelsea-pressure/">
+      <figure>
+        <img src="/images/articles/xabi-alonso-dark.png?v=presda-posters-20260524" alt="Xabi Alonso cinematic football poster with Chelsea flag" loading="lazy" data-article-image-slug="xabi-alonso-chelsea-pressure" />
+      </figure>
+      <div>
+        <span class="category-tag category-sport">Sport</span>
+        <h3><mark class="title-red">Xabi Alonso</mark> Steps Into The <mark class="title-red">Chelsea</mark> Spotlight</h3>
+        <p>A new tactical era takes shape as <mark class="title-red">Xabi Alonso</mark> becomes the face of pressure, expectation, and elite <mark class="title-red">football</mark> control.</p>
+        <small><time datetime="2026-05-22">May 22, 2026</time><span class="read-time-badge">5 min read</span></small>
+      </div>
+    </a><a class="article-card compact" href="/articles/gta6-trailer-culture-shift/">
+      <figure>
+        <img src="/images/articles/gta6-poster-dark.png?v=presda-posters-20260524" alt="GTA 6 neon Vice City cinematic poster" loading="lazy" data-article-image-slug="gta6-trailer-culture-shift" />
+      </figure>
+      <div>
+        <span class="category-tag category-lifestyle">Lifestyle</span>
+        <h3><mark class="title-red">GTA 6</mark> Becomes A Culture Moment</h3>
+        <p>The next major <mark class="title-red">gaming</mark> release is already behaving less like a product and more like a <mark class="title-red">global entertainment</mark> event.</p>
+        <small><time datetime="2026-05-21">May 21, 2026</time><span class="read-time-badge">4 min read</span></small>
+      </div>
+    </a><a class="article-card compact" href="/articles/elon-mars-signal/">
+      <figure>
+        <img src="/images/articles/elon-mars-dark.png?v=presda-posters-20260524" alt="Elon Musk above a futuristic city with SpaceX and Tesla branding" loading="lazy" data-article-image-slug="elon-mars-signal" />
+      </figure>
+      <div>
+        <span class="category-tag category-business">Business</span>
+        <h3><mark class="title-red">Elon Musk</mark> Turns <mark class="title-red">Mars</mark> Into A Media Signal</h3>
+        <p><mark class="title-red">Space</mark> ambition, investor attention, and spectacle continue to merge as <mark class="title-red">Mars</mark> becomes a brand, a mission, and a market narrative.</p>
+        <small><time datetime="2026-05-20">May 20, 2026</time><span class="read-time-badge">6 min read</span></small>
+      </div>
+    </a><a class="article-card compact" href="/articles/world-cup-2026-countdown/">
+      <figure>
+        <img src="/images/articles/fifa-world-cup-dark.png?v=presda-posters-20260524" alt="FIFA football official in a stadium cinematic poster" loading="lazy" data-article-image-slug="world-cup-2026-countdown" />
+      </figure>
+      <div>
+        <span class="category-tag category-sport">Sport</span>
+        <h3><mark class="title-red">World Cup 2026</mark> Countdown Enters Full Speed</h3>
+        <p>Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.</p>
+        <small><time datetime="2026-05-19">May 19, 2026</time><span class="read-time-badge">5 min read</span></small>
+      </div>
+    </a></div>
+      </section>
+
+      <section class="content-section latest-stories" id="latest" aria-labelledby="latest-title">
+        <div class="section-title section-row">
+          <div>
+            <span>Latest News</span>
+            <h2 id="latest-title">The PRESDA Wire</h2>
+          </div>
+          <a class="section-link" href="/#newsletter">Get Briefings</a>
+        </div>
+        <div class="latest-grid"><a class="article-card wide" href="/articles/openai-next-gen-model/">
+      <figure>
+        <img src="/images/articles/openai-sam-dark.png?v=presda-posters-20260524" alt="Sam Altman and OpenAI cinematic PRESDA poster on a dark background" loading="lazy" data-article-image-slug="openai-next-gen-model" />
+      </figure>
+      <div>
+        <span class="category-tag category-ai">AI</span>
+        <h3><mark class="title-red">OpenAI</mark> Unveils Next-Gen Model</h3>
+        <p>A new generation of <mark class="title-red">artificial intelligence</mark> is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.</p>
+        <small><time datetime="2026-05-23">May 23, 2026</time><span class="read-time-badge">4 min read</span></small>
+      </div>
+    </a><a class="article-card standard" href="/articles/xabi-alonso-chelsea-pressure/">
+      <figure>
+        <img src="/images/articles/xabi-alonso-dark.png?v=presda-posters-20260524" alt="Xabi Alonso cinematic football poster with Chelsea flag" loading="lazy" data-article-image-slug="xabi-alonso-chelsea-pressure" />
+      </figure>
+      <div>
+        <span class="category-tag category-sport">Sport</span>
+        <h3><mark class="title-red">Xabi Alonso</mark> Steps Into The <mark class="title-red">Chelsea</mark> Spotlight</h3>
+        <p>A new tactical era takes shape as <mark class="title-red">Xabi Alonso</mark> becomes the face of pressure, expectation, and elite <mark class="title-red">football</mark> control.</p>
+        <small><time datetime="2026-05-22">May 22, 2026</time><span class="read-time-badge">5 min read</span></small>
+      </div>
+    </a><a class="article-card standard" href="/articles/gta6-trailer-culture-shift/">
+      <figure>
+        <img src="/images/articles/gta6-poster-dark.png?v=presda-posters-20260524" alt="GTA 6 neon Vice City cinematic poster" loading="lazy" data-article-image-slug="gta6-trailer-culture-shift" />
+      </figure>
+      <div>
+        <span class="category-tag category-lifestyle">Lifestyle</span>
+        <h3><mark class="title-red">GTA 6</mark> Becomes A Culture Moment</h3>
+        <p>The next major <mark class="title-red">gaming</mark> release is already behaving less like a product and more like a <mark class="title-red">global entertainment</mark> event.</p>
+        <small><time datetime="2026-05-21">May 21, 2026</time><span class="read-time-badge">4 min read</span></small>
+      </div>
+    </a><a class="article-card standard" href="/articles/elon-mars-signal/">
+      <figure>
+        <img src="/images/articles/elon-mars-dark.png?v=presda-posters-20260524" alt="Elon Musk above a futuristic city with SpaceX and Tesla branding" loading="lazy" data-article-image-slug="elon-mars-signal" />
+      </figure>
+      <div>
+        <span class="category-tag category-business">Business</span>
+        <h3><mark class="title-red">Elon Musk</mark> Turns <mark class="title-red">Mars</mark> Into A Media Signal</h3>
+        <p><mark class="title-red">Space</mark> ambition, investor attention, and spectacle continue to merge as <mark class="title-red">Mars</mark> becomes a brand, a mission, and a market narrative.</p>
+        <small><time datetime="2026-05-20">May 20, 2026</time><span class="read-time-badge">6 min read</span></small>
+      </div>
+    </a><a class="article-card standard" href="/articles/world-cup-2026-countdown/">
+      <figure>
+        <img src="/images/articles/fifa-world-cup-dark.png?v=presda-posters-20260524" alt="FIFA football official in a stadium cinematic poster" loading="lazy" data-article-image-slug="world-cup-2026-countdown" />
+      </figure>
+      <div>
+        <span class="category-tag category-sport">Sport</span>
+        <h3><mark class="title-red">World Cup 2026</mark> Countdown Enters Full Speed</h3>
+        <p>Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.</p>
+        <small><time datetime="2026-05-19">May 19, 2026</time><span class="read-time-badge">5 min read</span></small>
       </div>
     </a><a class="article-card standard" href="/articles/bill-gates-foundation-impact/">
       <figure>
         <img src="/images/articles/bill-gates-dark.png?v=presda-posters-20260524" alt="Bill Gates foundation cinematic poster with global health and innovation panels" loading="lazy" data-article-image-slug="bill-gates-foundation-impact" />
       </figure>
       <div>
-        <span>Business</span>
+        <span class="category-tag category-business">Business</span>
         <h3><mark class="title-red">Bill Gates</mark> <mark class="title-red">Foundation</mark> Turns <mark class="title-red">Innovation</mark> Into <mark class="title-red">Impact</mark></h3>
         <p>Global health, climate <mark class="title-red">innovation</mark>, education, and science remain the pillars of one of the world&#39;s most watched philanthropic machines.</p>
-        <small>May 18, 2026 / 4 min read</small>
+        <small><time datetime="2026-05-18">May 18, 2026</time><span class="read-time-badge">4 min read</span></small>
       </div>
     </a></div>
       </section>
@@ -153,10 +278,34 @@
           <span>Categories</span>
           <h2>Explore The Newsroom</h2>
         </div>
-        <div class="category-grid"><a class="category-tile" href="#ai"><span>AI</span><strong>1</strong></a><a class="category-tile" href="#business"><span>Business</span><strong>2</strong></a><a class="category-tile" href="#sport"><span>Sport</span><strong>3</strong></a><a class="category-tile" href="#world"><span>World</span><strong>1</strong></a><a class="category-tile" href="#paparazzi"><span>Paparazzi</span><strong>1</strong></a><a class="category-tile" href="#lifestyle"><span>Lifestyle</span><strong>1</strong></a></div>
+        <div class="category-grid" data-category-grid><a class="category-tile" href="/category/ai/">
+          <span class="category-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><rect x="16" y="16" width="32" height="32" rx="6"></rect><path d="M24 10v8M32 10v8M40 10v8M24 46v8M32 46v8M40 46v8M10 24h8M10 32h8M10 40h8M46 24h8M46 32h8M46 40h8"></path><path d="M25 39l3-14h8l3 14M27 34h10"></path></svg></span>
+          <span class="category-name">AI</span>
+          <strong>1</strong>
+        </a><a class="category-tile" href="/category/business/">
+          <span class="category-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><rect x="14" y="24" width="36" height="24" rx="4"></rect><path d="M24 24v-6h16v6M14 34h36M24 40h16"></path></svg></span>
+          <span class="category-name">Business</span>
+          <strong>2</strong>
+        </a><a class="category-tile" href="/category/sport/">
+          <span class="category-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><circle cx="32" cy="32" r="20"></circle><path d="M32 12v40M12 32h40M19 19c8 6 18 6 26 0M19 45c8-6 18-6 26 0"></path></svg></span>
+          <span class="category-name">Sport</span>
+          <strong>3</strong>
+        </a><a class="category-tile" href="/category/world/">
+          <span class="category-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><circle cx="32" cy="32" r="21"></circle><path d="M11 32h42M32 11c7 7 10 14 10 21s-3 14-10 21M32 11c-7 7-10 14-10 21s3 14 10 21"></path></svg></span>
+          <span class="category-name">World</span>
+          <strong>1</strong>
+        </a><a class="category-tile" href="/category/paparazzi/">
+          <span class="category-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><rect x="14" y="22" width="36" height="28" rx="5"></rect><path d="M24 22l4-7h8l4 7M25 36a7 7 0 1 0 14 0a7 7 0 0 0-14 0M45 28h1"></path></svg></span>
+          <span class="category-name">Paparazzi</span>
+          <strong>1</strong>
+        </a><a class="category-tile" href="/category/lifestyle/">
+          <span class="category-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M32 51s-18-10-18-25a10 10 0 0 1 18-6a10 10 0 0 1 18 6c0 15-18 25-18 25z"></path><path d="M23 32h6l3-7l4 13l3-6h4"></path></svg></span>
+          <span class="category-name">Lifestyle</span>
+          <strong>1</strong>
+        </a></div>
       </section>
 
-      <section class="content-section category-sections"><section class="category-block" id="ai">
+      <section class="content-section category-sections" data-category-sections><section class="category-block" id="ai">
             <div class="section-title compact">
               <span>AI</span>
               <h2>AI Desk</h2>
@@ -167,10 +316,10 @@
         <img src="/images/articles/openai-sam-dark.png?v=presda-posters-20260524" alt="Sam Altman and OpenAI cinematic PRESDA poster on a dark background" loading="lazy" data-article-image-slug="openai-next-gen-model" />
       </figure>
       <div>
-        <span>AI</span>
+        <span class="category-tag category-ai">AI</span>
         <h3><mark class="title-red">OpenAI</mark> Unveils Next-Gen Model</h3>
         <p>A new generation of <mark class="title-red">artificial intelligence</mark> is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.</p>
-        <small>May 23, 2026 / 4 min read</small>
+        <small><time datetime="2026-05-23">May 23, 2026</time><span class="read-time-badge">4 min read</span></small>
       </div>
     </a>
               <div class="side-list">
@@ -179,10 +328,10 @@
         <img src="/images/articles/xabi-alonso-dark.png?v=presda-posters-20260524" alt="Xabi Alonso cinematic football poster with Chelsea flag" loading="lazy" data-article-image-slug="xabi-alonso-chelsea-pressure" />
       </figure>
       <div>
-        <span>Sport</span>
+        <span class="category-tag category-sport">Sport</span>
         <h3><mark class="title-red">Xabi Alonso</mark> Steps Into The <mark class="title-red">Chelsea</mark> Spotlight</h3>
         <p>A new tactical era takes shape as <mark class="title-red">Xabi Alonso</mark> becomes the face of pressure, expectation, and elite <mark class="title-red">football</mark> control.</p>
-        <small>May 22, 2026 / 5 min read</small>
+        <small><time datetime="2026-05-22">May 22, 2026</time><span class="read-time-badge">5 min read</span></small>
       </div>
     </a>
               </div>
@@ -194,13 +343,14 @@
             </div>
             <div class="category-story-grid">
               <a class="article-card wide" href="/articles/elon-mars-signal/">
-      <figure>       <img src="/images/articles/elon-mars-dark.png?v=presda-posters-20260524" alt="Elon Musk above a futuristic city with SpaceX and Tesla branding" loading="lazy" data-article-image-slug="elon-mars-signal" />
+      <figure>
+        <img src="/images/articles/elon-mars-dark.png?v=presda-posters-20260524" alt="Elon Musk above a futuristic city with SpaceX and Tesla branding" loading="lazy" data-article-image-slug="elon-mars-signal" />
       </figure>
       <div>
-        <span>Business</span>
+        <span class="category-tag category-business">Business</span>
         <h3><mark class="title-red">Elon Musk</mark> Turns <mark class="title-red">Mars</mark> Into A Media Signal</h3>
         <p><mark class="title-red">Space</mark> ambition, investor attention, and spectacle continue to merge as <mark class="title-red">Mars</mark> becomes a brand, a mission, and a market narrative.</p>
-        <small>May 20, 2026 / 6 min read</small>
+        <small><time datetime="2026-05-20">May 20, 2026</time><span class="read-time-badge">6 min read</span></small>
       </div>
     </a>
               <div class="side-list">
@@ -209,10 +359,10 @@
         <img src="/images/articles/bill-gates-dark.png?v=presda-posters-20260524" alt="Bill Gates foundation cinematic poster with global health and innovation panels" loading="lazy" data-article-image-slug="bill-gates-foundation-impact" />
       </figure>
       <div>
-        <span>Business</span>
+        <span class="category-tag category-business">Business</span>
         <h3><mark class="title-red">Bill Gates</mark> <mark class="title-red">Foundation</mark> Turns <mark class="title-red">Innovation</mark> Into <mark class="title-red">Impact</mark></h3>
         <p>Global health, climate <mark class="title-red">innovation</mark>, education, and science remain the pillars of one of the world&#39;s most watched philanthropic machines.</p>
-        <small>May 18, 2026 / 4 min read</small>
+        <small><time datetime="2026-05-18">May 18, 2026</time><span class="read-time-badge">4 min read</span></small>
       </div>
     </a>
               </div>
@@ -228,10 +378,10 @@
         <img src="/images/articles/xabi-alonso-dark.png?v=presda-posters-20260524" alt="Xabi Alonso cinematic football poster with Chelsea flag" loading="lazy" data-article-image-slug="xabi-alonso-chelsea-pressure" />
       </figure>
       <div>
-        <span>Sport</span>
+        <span class="category-tag category-sport">Sport</span>
         <h3><mark class="title-red">Xabi Alonso</mark> Steps Into The <mark class="title-red">Chelsea</mark> Spotlight</h3>
         <p>A new tactical era takes shape as <mark class="title-red">Xabi Alonso</mark> becomes the face of pressure, expectation, and elite <mark class="title-red">football</mark> control.</p>
-        <small>May 22, 2026 / 5 min read</small>
+        <small><time datetime="2026-05-22">May 22, 2026</time><span class="read-time-badge">5 min read</span></small>
       </div>
     </a>
               <div class="side-list">
@@ -240,20 +390,20 @@
         <img src="/images/articles/fifa-world-cup-dark.png?v=presda-posters-20260524" alt="FIFA football official in a stadium cinematic poster" loading="lazy" data-article-image-slug="world-cup-2026-countdown" />
       </figure>
       <div>
-        <span>Sport</span>
+        <span class="category-tag category-sport">Sport</span>
         <h3><mark class="title-red">World Cup 2026</mark> Countdown Enters Full Speed</h3>
         <p>Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.</p>
-        <small>May 19, 2026 / 5 min read</small>
+        <small><time datetime="2026-05-19">May 19, 2026</time><span class="read-time-badge">5 min read</span></small>
       </div>
     </a><a class="article-card mini" href="/articles/mourinho-real-madrid-return-signal/">
       <figure>
         <img src="/images/articles/mourinho-real-madrid-dark.png?v=presda-posters-20260524" alt="Jose Mourinho with Real Madrid crest and Santiago Bernabeu stadium" loading="lazy" data-article-image-slug="mourinho-real-madrid-return-signal" />
       </figure>
       <div>
-        <span>Sport</span>
+        <span class="category-tag category-sport">Sport</span>
         <h3><mark class="title-red">Mourinho</mark> Return Talk Shakes Madrid Again</h3>
         <p><mark class="title-red">Real Madrid</mark> nostalgia, tactical identity, and elite <mark class="title-red">football</mark> pressure collide whenever <mark class="title-red">Mourinho</mark>&#39;s name returns to the conversation.</p>
-        <small>May 15, 2026 / 4 min read</small>
+        <small><time datetime="2026-05-15">May 15, 2026</time><span class="read-time-badge">4 min read</span></small>
       </div>
     </a>
               </div>
@@ -269,10 +419,10 @@
         <img src="/images/articles/japan-ai-care-dark.png?v=presda-posters-20260524" alt="Japanese elder holding hands with a care robot in a cinematic poster" loading="lazy" data-article-image-slug="japan-enters-ai-care-era" />
       </figure>
       <div>
-        <span>World</span>
+        <span class="category-tag category-world">World</span>
         <h3><mark class="title-red">Japan</mark> Enters The <mark class="title-red">AI Care</mark> Era</h3>
         <p>Facing an aging population and caregiver shortages, <mark class="title-red">Japan</mark> is turning to AI-powered <mark class="title-red">robots</mark> to support daily <mark class="title-red">care</mark>.</p>
-        <small>May 17, 2026 / 5 min read</small>
+        <small><time datetime="2026-05-17">May 17, 2026</time><span class="read-time-badge">5 min read</span></small>
       </div>
     </a>
               <div class="side-list">
@@ -281,10 +431,10 @@
         <img src="/images/articles/keanu-kindness-dark.png?v=presda-posters-20260524" alt="Keanu Reeves comforting a child in a hospital room with kindness overlays" loading="lazy" data-article-image-slug="keanu-reeves-kindness-powerful" />
       </figure>
       <div>
-        <span>Paparazzi</span>
+        <span class="category-tag category-paparazzi">Paparazzi</span>
         <h3><mark class="title-red">Keanu Reeves</mark> Shows <mark class="title-red">Kindness</mark> Is Powerful</h3>
         <p>The actor&#39;s quiet generosity becomes a reminder that <mark class="title-red">compassion</mark> can travel further than performance.</p>
-        <small>May 16, 2026 / 3 min read</small>
+        <small><time datetime="2026-05-16">May 16, 2026</time><span class="read-time-badge">3 min read</span></small>
       </div>
     </a>
               </div>
@@ -300,10 +450,10 @@
         <img src="/images/articles/keanu-kindness-dark.png?v=presda-posters-20260524" alt="Keanu Reeves comforting a child in a hospital room with kindness overlays" loading="lazy" data-article-image-slug="keanu-reeves-kindness-powerful" />
       </figure>
       <div>
-        <span>Paparazzi</span>
+        <span class="category-tag category-paparazzi">Paparazzi</span>
         <h3><mark class="title-red">Keanu Reeves</mark> Shows <mark class="title-red">Kindness</mark> Is Powerful</h3>
         <p>The actor&#39;s quiet generosity becomes a reminder that <mark class="title-red">compassion</mark> can travel further than performance.</p>
-        <small>May 16, 2026 / 3 min read</small>
+        <small><time datetime="2026-05-16">May 16, 2026</time><span class="read-time-badge">3 min read</span></small>
       </div>
     </a>
               <div class="side-list">
@@ -312,10 +462,10 @@
         <img src="/images/articles/mourinho-real-madrid-dark.png?v=presda-posters-20260524" alt="Jose Mourinho with Real Madrid crest and Santiago Bernabeu stadium" loading="lazy" data-article-image-slug="mourinho-real-madrid-return-signal" />
       </figure>
       <div>
-        <span>Sport</span>
+        <span class="category-tag category-sport">Sport</span>
         <h3><mark class="title-red">Mourinho</mark> Return Talk Shakes Madrid Again</h3>
         <p><mark class="title-red">Real Madrid</mark> nostalgia, tactical identity, and elite <mark class="title-red">football</mark> pressure collide whenever <mark class="title-red">Mourinho</mark>&#39;s name returns to the conversation.</p>
-        <small>May 15, 2026 / 4 min read</small>
+        <small><time datetime="2026-05-15">May 15, 2026</time><span class="read-time-badge">4 min read</span></small>
       </div>
     </a>
               </div>
@@ -331,10 +481,10 @@
         <img src="/images/articles/gta6-poster-dark.png?v=presda-posters-20260524" alt="GTA 6 neon Vice City cinematic poster" loading="lazy" data-article-image-slug="gta6-trailer-culture-shift" />
       </figure>
       <div>
-        <span>Lifestyle</span>
+        <span class="category-tag category-lifestyle">Lifestyle</span>
         <h3><mark class="title-red">GTA 6</mark> Becomes A Culture Moment</h3>
         <p>The next major <mark class="title-red">gaming</mark> release is already behaving less like a product and more like a <mark class="title-red">global entertainment</mark> event.</p>
-        <small>May 21, 2026 / 4 min read</small>
+        <small><time datetime="2026-05-21">May 21, 2026</time><span class="read-time-badge">4 min read</span></small>
       </div>
     </a>
               <div class="side-list">
@@ -343,16 +493,74 @@
         <img src="/images/articles/elon-mars-dark.png?v=presda-posters-20260524" alt="Elon Musk above a futuristic city with SpaceX and Tesla branding" loading="lazy" data-article-image-slug="elon-mars-signal" />
       </figure>
       <div>
-        <span>Business</span>
+        <span class="category-tag category-business">Business</span>
         <h3><mark class="title-red">Elon Musk</mark> Turns <mark class="title-red">Mars</mark> Into A Media Signal</h3>
         <p><mark class="title-red">Space</mark> ambition, investor attention, and spectacle continue to merge as <mark class="title-red">Mars</mark> becomes a brand, a mission, and a market narrative.</p>
-        <small>May 20, 2026 / 6 min read</small>
+        <small><time datetime="2026-05-20">May 20, 2026</time><span class="read-time-badge">6 min read</span></small>
       </div>
     </a>
               </div>
             </div>
           </section></section>
-<section class="newsletter-section">
+
+      <section class="content-section insight-rails" aria-label="Most read and editor picks">
+        <div class="insight-column">
+          <div class="section-title compact">
+            <span>Most Read</span>
+            <h2>Audience Heat</h2>
+          </div>
+          <div class="ranked-list"><a class="ranked-item" href="/articles/openai-next-gen-model/"><strong>01</strong><span><mark class="title-red">OpenAI</mark> Unveils Next-Gen Model</span><small>4 min read</small></a><a class="ranked-item" href="/articles/gta6-trailer-culture-shift/"><strong>02</strong><span><mark class="title-red">GTA 6</mark> Becomes A Culture Moment</span><small>4 min read</small></a><a class="ranked-item" href="/articles/world-cup-2026-countdown/"><strong>03</strong><span><mark class="title-red">World Cup 2026</mark> Countdown Enters Full Speed</span><small>5 min read</small></a><a class="ranked-item" href="/articles/keanu-reeves-kindness-powerful/"><strong>04</strong><span><mark class="title-red">Keanu Reeves</mark> Shows <mark class="title-red">Kindness</mark> Is Powerful</span><small>3 min read</small></a></div>
+        </div>
+        <div class="insight-column">
+          <div class="section-title compact">
+            <span>Editor Picks</span>
+            <h2>Chosen Signal</h2>
+          </div>
+          <div class="story-row editorial-row"><a class="article-card compact" href="/articles/openai-next-gen-model/">
+      <figure>
+        <img src="/images/articles/openai-sam-dark.png?v=presda-posters-20260524" alt="Sam Altman and OpenAI cinematic PRESDA poster on a dark background" loading="lazy" data-article-image-slug="openai-next-gen-model" />
+      </figure>
+      <div>
+        <span class="category-tag category-ai">AI</span>
+        <h3><mark class="title-red">OpenAI</mark> Unveils Next-Gen Model</h3>
+        <p>A new generation of <mark class="title-red">artificial intelligence</mark> is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.</p>
+        <small><time datetime="2026-05-23">May 23, 2026</time><span class="read-time-badge">4 min read</span></small>
+      </div>
+    </a><a class="article-card compact" href="/articles/xabi-alonso-chelsea-pressure/">
+      <figure>
+        <img src="/images/articles/xabi-alonso-dark.png?v=presda-posters-20260524" alt="Xabi Alonso cinematic football poster with Chelsea flag" loading="lazy" data-article-image-slug="xabi-alonso-chelsea-pressure" />
+      </figure>
+      <div>
+        <span class="category-tag category-sport">Sport</span>
+        <h3><mark class="title-red">Xabi Alonso</mark> Steps Into The <mark class="title-red">Chelsea</mark> Spotlight</h3>
+        <p>A new tactical era takes shape as <mark class="title-red">Xabi Alonso</mark> becomes the face of pressure, expectation, and elite <mark class="title-red">football</mark> control.</p>
+        <small><time datetime="2026-05-22">May 22, 2026</time><span class="read-time-badge">5 min read</span></small>
+      </div>
+    </a><a class="article-card compact" href="/articles/elon-mars-signal/">
+      <figure>
+        <img src="/images/articles/elon-mars-dark.png?v=presda-posters-20260524" alt="Elon Musk above a futuristic city with SpaceX and Tesla branding" loading="lazy" data-article-image-slug="elon-mars-signal" />
+      </figure>
+      <div>
+        <span class="category-tag category-business">Business</span>
+        <h3><mark class="title-red">Elon Musk</mark> Turns <mark class="title-red">Mars</mark> Into A Media Signal</h3>
+        <p><mark class="title-red">Space</mark> ambition, investor attention, and spectacle continue to merge as <mark class="title-red">Mars</mark> becomes a brand, a mission, and a market narrative.</p>
+        <small><time datetime="2026-05-20">May 20, 2026</time><span class="read-time-badge">6 min read</span></small>
+      </div>
+    </a><a class="article-card compact" href="/articles/bill-gates-foundation-impact/">
+      <figure>
+        <img src="/images/articles/bill-gates-dark.png?v=presda-posters-20260524" alt="Bill Gates foundation cinematic poster with global health and innovation panels" loading="lazy" data-article-image-slug="bill-gates-foundation-impact" />
+      </figure>
+      <div>
+        <span class="category-tag category-business">Business</span>
+        <h3><mark class="title-red">Bill Gates</mark> <mark class="title-red">Foundation</mark> Turns <mark class="title-red">Innovation</mark> Into <mark class="title-red">Impact</mark></h3>
+        <p>Global health, climate <mark class="title-red">innovation</mark>, education, and science remain the pillars of one of the world&#39;s most watched philanthropic machines.</p>
+        <small><time datetime="2026-05-18">May 18, 2026</time><span class="read-time-badge">4 min read</span></small>
+      </div>
+    </a></div>
+        </div>
+      </section>
+
+      <section class="newsletter-section" id="newsletter">
         <div>
           <span>Newsletter</span>
           <h2>Stay ahead of the story.</h2>
@@ -366,45 +574,41 @@
       </section>
     </main>
 
-    <footer class="social-contact-section presda-footer-contact" aria-labelledby="connect-title">
-      <div class="social-contact-shell">
-        <div class="social-copy">
-          <span>Network</span>
-          <h2 id="connect-title"><span class="connect-word">CONNECT</span> WITH PRESDA</h2>
-          <p>Follow the signal across every platform.</p>
-          <div class="social-badge" aria-label="PRESDA location Berlin, Germany">
-            <img class="badge-logo-dark" src="/images/brand/ptransparent.png?v=presda-contact-light-20260527" alt="PRESDA P transparent badge" loading="lazy" />
-            <img class="badge-logo-light" src="/favicon-light.png?v=presda-contact-light-20260527" alt="PRESDA P light mode badge" loading="lazy" />
-            <div>
-              <strong>PRESDA SIGNAL</strong>
-              <small>Berlin, Germany</small>
+      <footer class="social-contact-section presda-footer-contact" aria-labelledby="connect-title">
+        <div class="social-contact-shell">
+          <div class="social-copy">
+            <span>Network</span>
+            <h2 id="connect-title"><span class="connect-word">CONNECT</span> WITH PRESDA</h2>
+            <p>Follow the signal across every platform.</p>
+            <div class="social-badge" aria-label="PRESDA location Berlin, Germany">
+              <img class="badge-logo-dark" src="/images/brand/ptransparent.png?v=presda-ui-nav-sections-20260528" alt="PRESDA P transparent badge" loading="lazy" />
+              <img class="badge-logo-light" src="/favicon-light.png?v=presda-ui-nav-sections-20260528" alt="PRESDA P light mode badge" loading="lazy" />
+              <div>
+                <strong>PRESDA SIGNAL</strong>
+                <small>Berlin, Germany</small>
+              </div>
+              <span class="badge-gps" aria-hidden="true"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M32 56s18-17 18-31a18 18 0 0 0-36 0c0 14 18 31 18 31z"></path><circle cx="32" cy="25" r="6"></circle></svg></span>
             </div>
-            <span class="badge-gps" aria-hidden="true"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M32 56s18-17 18-31a18 18 0 0 0-36 0c0 14 18 31 18 31z"></path><circle cx="32" cy="25" r="6"></circle></svg></span>
+          </div>
+          <div class="social-grid">
+            <a class="social-card social-x" href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer" aria-label="X / Twitter">
+              <span class="social-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M16 14l33 36"></path><path d="M48 14L15 50"></path><path d="M20 14h9l15 36h-9z"></path></svg></span>
+              <span class="social-label">X / Twitter</span>
+            </a><a class="social-card social-instagram" href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+              <span class="social-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><rect x="12" y="12" width="40" height="40" rx="12"></rect><circle cx="32" cy="32" r="10"></circle><circle cx="44" cy="20" r="2.5"></circle></svg></span>
+              <span class="social-label">Instagram</span>
+            </a><a class="social-card social-facebook" href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+              <span class="social-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M38 14h-6a9 9 0 0 0-9 9v7h-6v9h6v13h10V39h7l2-9h-9v-6a2.5 2.5 0 0 1 2.5-2.5H42V14z"></path></svg></span>
+              <span class="social-label">Facebook</span>
+            </a><a class="social-card social-email" href="mailto:contact@presda.com" aria-label="Contact">
+              <span class="social-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><rect x="10" y="16" width="44" height="32" rx="7"></rect><path d="M12 20l20 16 20-16"></path><path d="M12 46l14-13"></path><path d="M52 46L38 33"></path></svg></span>
+              <span class="social-label">Contact</span>
+            </a>
           </div>
         </div>
-        <div class="social-grid">
-          <a class="social-card social-x" href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer" aria-label="X">
-            <span class="social-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M16 14l33 36"></path><path d="M48 14L15 50"></path><path d="M20 14h9l15 36h-9z"></path></svg></span>
-            <span class="social-label">X</span>
-          </a>
-          <a class="social-card social-instagram" href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-            <span class="social-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><rect x="12" y="12" width="40" height="40" rx="12"></rect><circle cx="32" cy="32" r="10"></circle><circle cx="44" cy="20" r="2.5"></circle></svg></span>
-            <span class="social-label">Instagram</span>
-          </a>
-          <a class="social-card social-facebook" href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-            <span class="social-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M38 14h-6a9 9 0 0 0-9 9v7h-6v9h6v13h10V39h7l2-9h-9v-6a2.5 2.5 0 0 1 2.5-2.5H42V14z"></path></svg></span>
-            <span class="social-label">Facebook</span>
-          </a>
-          <a class="social-card social-email" href="mailto:contact@presda.com" aria-label="Contact">
-            <span class="social-icon"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><rect x="10" y="16" width="44" height="32" rx="7"></rect><path d="M12 20l20 16 20-16"></path><path d="M12 46l14-13"></path><path d="M52 46L38 33"></path></svg></span>
-            <span class="social-label">Contact</span>
-          </a>
-        </div>
-      </div>
-    </footer>
+      </footer>
 
-
-    <script src="/script.js?v=presda-contact-light-20260527"></script>
+    <script src="/script.js?v=presda-ui-nav-sections-20260528"></script>
     <script>
       window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
     </script>
