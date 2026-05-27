@@ -8,7 +8,7 @@
   --surface: #0a0a0a;
   --soft: rgba(255, 255, 255, 0.055);
   --shadow: 0 28px 80px rgba(0, 0, 0, 0.5);
-  --editorial-font: "The Seasons", "Cormorant Garamond", "Inter", sans-serif;
+  --editorial-font: "The Seasons", "Cormorant Garamond", "Playfair Display", Georgia, serif;
 }
 
 html.light-mode {
@@ -1994,5 +1994,154 @@ html.light-mode body[data-article-page] .related-section .article-card{
   body[data-article-page] .article-meta>*{
     min-height:30px;
     font-size:.64rem;
+  }
+}
+
+/* PRESDA visual fix: theme-identical cards, bigger posters, faster hero motion */
+.hero-copy,.hero-media{
+  transition:opacity .5s ease,transform .5s ease!important;
+}
+.hero-shell.is-transitioning .hero-copy,
+.hero-shell.is-transitioning .hero-media{
+  opacity:0;
+  transform:translateY(18px);
+}
+.hero-media{
+  background:#050505!important;
+}
+html.light-mode .hero-media{
+  background:transparent!important;
+}
+.article-card{
+  min-height:460px!important;
+}
+.article-card.large{
+  min-height:680px!important;
+}
+.article-card.wide{
+  min-height:560px!important;
+}
+.article-card.compact{
+  min-height:390px!important;
+}
+.article-card figure{
+  width:100%!important;
+  height:auto!important;
+  min-height:280px!important;
+  aspect-ratio:16/9!important;
+  overflow:hidden!important;
+  border:0!important;
+  border-radius:24px 24px 18px 18px!important;
+  background:#050505!important;
+  box-shadow:none!important;
+}
+.article-card.large figure,
+.article-card.wide figure{
+  min-height:420px!important;
+}
+.article-card.compact figure{
+  min-height:280px!important;
+  aspect-ratio:16/9!important;
+}
+html.light-mode .article-card figure,
+html.light-mode .article-card.large figure,
+html.light-mode .article-card.wide figure,
+html.light-mode .article-card.compact figure,
+html.light-mode .article-card.mini figure{
+  background:transparent!important;
+}
+.article-card figure::after{
+  background:linear-gradient(180deg,transparent 56%,rgba(0,0,0,.46))!important;
+}
+html.light-mode .article-card figure::after{
+  background:linear-gradient(180deg,transparent 68%,rgba(0,0,0,.08))!important;
+}
+.article-card img,
+.hero-media img{
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  object-position:center 18%!important;
+  display:block!important;
+}
+.article-card p,
+.hero-copy p,
+.newsletter-section p{
+  font-family:var(--editorial-font);
+  font-size:clamp(1.04rem,1.28vw,1.22rem);
+  font-weight:500;
+  line-height:1.52;
+}
+.article-card p{
+  color:color-mix(in srgb,var(--text) 76%,var(--muted));
+}
+html.light-mode .article-card p{
+  color:#34302b;
+}
+body[data-article-page] .article-hero{
+  align-items:start!important;
+}
+body[data-article-page] .article-heading{
+  padding-top:0!important;
+}
+body[data-article-page] .article-heading h1{
+  margin-top:clamp(18px,2.5vw,34px)!important;
+}
+body[data-article-page] .article-image-frame{
+  margin-top:clamp(42px,4.6vw,68px)!important;
+  min-height:clamp(680px,82vh,1040px)!important;
+  background:transparent!important;
+  border:0!important;
+  box-shadow:0 34px 95px rgba(0,0,0,.42),0 0 42px rgba(255,26,26,.08)!important;
+}
+html.light-mode body[data-article-page] .article-image-frame{
+  background:transparent!important;
+  box-shadow:0 24px 62px rgba(48,38,28,.12)!important;
+}
+body[data-article-page] .article-image-frame img{
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  object-position:center top!important;
+  background:transparent!important;
+}
+body[data-article-page] .article-image-frame img[data-image-fit="contain"]{
+  object-fit:contain!important;
+}
+body[data-article-page] .article-heading p,
+body[data-article-page] .article-content{
+  font-family:var(--editorial-font);
+}
+@media(max-width:760px){
+  .article-card,
+  .article-card.large,
+  .article-card.wide,
+  .article-card.compact,
+  .article-card.mini{
+    min-height:0!important;
+  }
+  .article-card figure,
+  .article-card.large figure,
+  .article-card.wide figure,
+  .article-card.compact figure,
+  .article-card.mini figure{
+    min-height:240px!important;
+    aspect-ratio:16/9!important;
+  }
+  body[data-article-page] .article-image-frame{
+    margin-top:0!important;
+    min-height:min(74vh,680px)!important;
+  }
+}
+@media(max-width:430px){
+  .article-card figure,
+  .article-card.large figure,
+  .article-card.wide figure,
+  .article-card.compact figure,
+  .article-card.mini figure{
+    min-height:240px!important;
+  }
+  body[data-article-page] .article-image-frame{
+    min-height:560px!important;
   }
 }
