@@ -172,6 +172,53 @@ function articleCard(article, size = "standard") {
     </a>`;
 }
 
+function socialIcon(type) {
+  const attrs = `viewBox="0 0 64 64" aria-hidden="true" focusable="false"`;
+  const icons = {
+    instagram: `<svg ${attrs}><rect x="12" y="12" width="40" height="40" rx="12"></rect><circle cx="32" cy="32" r="10"></circle><circle cx="44" cy="20" r="2.5"></circle></svg>`,
+    x: `<svg ${attrs}><path d="M16 14l33 36"></path><path d="M48 14L15 50"></path><path d="M20 14h9l15 36h-9z"></path></svg>`,
+    tiktok: `<svg ${attrs}><path d="M36 12v27.5a10.5 10.5 0 1 1-9.5-10.45"></path><path d="M36 12c2.7 8.2 7.4 12.5 15 13.2"></path><path d="M36 21c3.2 3.5 7.2 5.6 12 6.2"></path></svg>`,
+    youtube: `<svg ${attrs}><rect x="10" y="18" width="44" height="28" rx="9"></rect><path d="M29 26l12 6-12 6z"></path></svg>`,
+    linkedin: `<svg ${attrs}><rect x="12" y="12" width="40" height="40" rx="6"></rect><path d="M22 29v15"></path><path d="M22 21.5v.5"></path><path d="M31 44V29"></path><path d="M31 35c0-3.8 2.8-6.5 6.5-6.5S44 31.2 44 36v8"></path></svg>`,
+    email: `<svg ${attrs}><rect x="10" y="16" width="44" height="32" rx="7"></rect><path d="M12 20l20 16 20-16"></path><path d="M12 46l14-13"></path><path d="M52 46L38 33"></path></svg>`
+  };
+  return icons[type] || icons.email;
+}
+
+function socialSection() {
+  const socials = [
+    { type: "instagram", label: "Instagram", href: "https://www.instagram.com/presdaofficial" },
+    { type: "x", label: "X / Twitter", href: "https://x.com/PresdaOfficial" },
+    { type: "tiktok", label: "TikTok", href: "https://tiktok.com/@presda" },
+    { type: "youtube", label: "YouTube", href: "https://youtube.com/@presda" },
+    { type: "linkedin", label: "LinkedIn", href: "https://linkedin.com/company/presda" },
+    { type: "email", label: "Email", href: "mailto:contact@presda.com" }
+  ];
+
+  return `      <section class="social-contact-section" aria-labelledby="connect-title">
+        <div class="social-contact-shell">
+          <div class="social-copy">
+            <span>Network</span>
+            <h2 id="connect-title">CONNECT WITH PRESDA</h2>
+            <p>Follow the signal across every platform.</p>
+            <div class="social-badge" aria-label="PRESDA location Berlin, Germany">
+              <img src="/images/brand/ptransparent.png?v=${cacheVersion}" alt="PRESDA P transparent badge" loading="lazy" />
+              <div>
+                <strong>PRESDA SIGNAL</strong>
+                <small>Berlin, Germany</small>
+              </div>
+            </div>
+          </div>
+          <div class="social-grid">
+            ${socials.map((item) => `<a class="social-card social-${esc(item.type)}" href="${esc(item.href)}"${item.href.startsWith("mailto:") ? "" : ` target="_blank" rel="noopener noreferrer"`} aria-label="${esc(item.label)}">
+              <span class="social-icon">${socialIcon(item.type)}</span>
+              <span class="social-label">${esc(item.label)}</span>
+            </a>`).join("")}
+          </div>
+        </div>
+      </section>`;
+}
+
 function homePage() {
   const featured = articles[0];
   const featuredGrid = articles.slice(1, 6).map((article, index) => articleCard(article, index === 0 ? "large" : "standard")).join("");
@@ -264,6 +311,8 @@ ${ticker()}
       </section>
 
       <section class="content-section category-sections" data-category-sections>${categorySections}</section>
+
+${socialSection()}
 
       <section class="newsletter-section">
         <div>

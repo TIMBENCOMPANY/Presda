@@ -323,6 +323,7 @@ html.light-mode .toggle-dot {
 
 .hero-section,
 .content-section,
+.social-contact-section,
 .newsletter-section,
 .site-footer,
 .article-layout {
@@ -719,6 +720,299 @@ html.light-mode .article-card:hover {
   display: none;
 }
 
+.social-contact-section {
+  padding: clamp(52px, 8vw, 108px) 0;
+}
+
+.social-contact-shell {
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: clamp(28px, 5vw, 72px);
+  align-items: center;
+  padding: clamp(28px, 5vw, 72px);
+  border: 1px solid rgba(255, 26, 26, 0.22);
+  border-radius: 32px;
+  background:
+    linear-gradient(135deg, rgba(255, 26, 26, 0.08), transparent 42%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.055), rgba(255, 255, 255, 0.018)),
+    #050505;
+  box-shadow:
+    0 28px 90px rgba(0, 0, 0, 0.48),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08),
+    0 0 46px rgba(255, 26, 26, 0.08);
+  isolation: isolate;
+}
+
+.social-contact-shell::before {
+  content: "";
+  position: absolute;
+  inset: 22px;
+  pointer-events: none;
+  border: 1px solid rgba(255, 26, 26, 0.13);
+  border-radius: 24px;
+}
+
+.social-contact-shell::after {
+  content: "";
+  position: absolute;
+  right: clamp(30px, 7vw, 110px);
+  bottom: 18px;
+  width: min(420px, 44%);
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255, 26, 26, 0.68), transparent);
+  box-shadow: 0 0 28px rgba(255, 26, 26, 0.5);
+  opacity: 0.7;
+}
+
+.social-copy,
+.social-grid {
+  position: relative;
+  z-index: 1;
+}
+
+.social-copy span {
+  color: var(--accent);
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: Orbitron, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.social-copy span::before {
+  content: "";
+  width: 32px;
+  height: 2px;
+  border-radius: 999px;
+  background: var(--accent);
+  box-shadow: 0 0 14px rgba(255, 26, 26, 0.76);
+}
+
+.social-copy h2 {
+  margin: 18px 0 0;
+  max-width: 650px;
+  color: #fff;
+  font-family: Orbitron, sans-serif;
+  font-size: clamp(2.1rem, 4.6vw, 5rem);
+  line-height: 0.96;
+  text-transform: uppercase;
+}
+
+.social-copy p {
+  margin: 20px 0 0;
+  max-width: 520px;
+  color: rgba(255, 255, 255, 0.68);
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  line-height: 1.75;
+}
+
+.social-badge {
+  position: relative;
+  display: inline-grid;
+  grid-template-columns: 58px minmax(0, 1fr);
+  gap: 14px;
+  align-items: center;
+  width: min(100%, 360px);
+  margin-top: 30px;
+  padding: 12px 16px 12px 12px;
+  border: 1px solid rgba(255, 26, 26, 0.28);
+  border-radius: 22px;
+  background:
+    linear-gradient(135deg, rgba(255, 26, 26, 0.12), transparent 50%),
+    rgba(0, 0, 0, 0.28);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.08),
+    0 16px 36px rgba(0, 0, 0, 0.32),
+    0 0 28px rgba(255, 26, 26, 0.12);
+}
+
+.social-badge::after {
+  content: "";
+  position: absolute;
+  inset: auto 20px -1px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255, 26, 26, 0.95), transparent);
+  box-shadow: 0 0 18px rgba(255, 26, 26, 0.72);
+}
+
+.social-badge img {
+  width: 58px;
+  height: 58px;
+  object-fit: contain;
+  display: block;
+  border-radius: 16px;
+  filter:
+    drop-shadow(0 0 8px rgba(255, 26, 26, 0.78))
+    drop-shadow(0 0 20px rgba(255, 26, 26, 0.24));
+}
+
+.social-badge strong,
+.social-badge small {
+  display: block;
+  font-family: Orbitron, sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.social-badge strong {
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 900;
+}
+
+.social-badge small {
+  margin-top: 6px;
+  color: rgba(255, 255, 255, 0.58);
+  font-size: 0.66rem;
+  font-weight: 700;
+}
+
+.social-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(12px, 1.8vw, 18px);
+}
+
+.social-card {
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  min-height: 158px;
+  place-items: center;
+  gap: 14px;
+  padding: 24px 18px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 24px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.025)),
+    rgba(10, 10, 10, 0.78);
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.1),
+    0 18px 42px rgba(0, 0, 0, 0.42);
+  transform: translateZ(0);
+  transition: transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease, background 220ms ease;
+}
+
+.social-card::before {
+  content: "";
+  position: absolute;
+  inset: auto 18px 12px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255, 26, 26, 0.85), transparent);
+  box-shadow: 0 0 18px rgba(255, 26, 26, 0.68);
+  opacity: 0.46;
+  transition: opacity 220ms ease, transform 220ms ease;
+}
+
+.social-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(135deg, rgba(255, 26, 26, 0.14), transparent 45%);
+  opacity: 0;
+  transition: opacity 220ms ease;
+}
+
+.social-card:hover,
+.social-card:focus-visible {
+  border-color: rgba(255, 26, 26, 0.76);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.12),
+    0 24px 54px rgba(0, 0, 0, 0.58),
+    0 0 34px rgba(255, 26, 26, 0.26);
+  transform: translateY(-6px) scale(1.025);
+  outline: none;
+}
+
+.social-card:hover::before,
+.social-card:focus-visible::before {
+  opacity: 1;
+  transform: scaleX(1.08);
+}
+
+.social-card:hover::after,
+.social-card:focus-visible::after {
+  opacity: 1;
+}
+
+.social-icon {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  width: 74px;
+  height: 74px;
+  place-items: center;
+  border: 1px solid rgba(255, 26, 26, 0.34);
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.34);
+  color: var(--accent);
+  box-shadow:
+    0 0 20px rgba(255, 26, 26, 0.18),
+    inset 0 0 20px rgba(255, 26, 26, 0.08);
+  transition: box-shadow 220ms ease, transform 220ms ease, border-color 220ms ease;
+}
+
+.social-icon svg {
+  width: 42px;
+  height: 42px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  filter:
+    drop-shadow(0 0 4px rgba(255, 26, 26, 0.85))
+    drop-shadow(0 0 14px rgba(255, 26, 26, 0.48));
+}
+
+.social-card:hover .social-icon,
+.social-card:focus-visible .social-icon {
+  border-color: rgba(255, 26, 26, 0.9);
+  box-shadow:
+    0 0 22px rgba(255, 26, 26, 0.42),
+    0 0 54px rgba(255, 26, 26, 0.18),
+    inset 0 0 24px rgba(255, 26, 26, 0.12);
+  transform: scale(1.06);
+  animation: socialPulse 1.45s ease-in-out infinite;
+}
+
+.social-label {
+  position: relative;
+  z-index: 1;
+  color: rgba(255, 255, 255, 0.88);
+  font-family: Orbitron, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+@keyframes socialPulse {
+  0%,
+  100% {
+    filter: drop-shadow(0 0 0 rgba(255, 26, 26, 0));
+  }
+  50% {
+    filter: drop-shadow(0 0 16px rgba(255, 26, 26, 0.58));
+  }
+}
+
+html.light-mode .social-contact-shell {
+  background:
+    linear-gradient(135deg, rgba(255, 26, 26, 0.09), transparent 42%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.02)),
+    #050505;
+}
+
 .newsletter-section {
   margin-top: clamp(36px, 6vw, 70px);
   margin-bottom: clamp(52px, 8vw, 110px);
@@ -941,6 +1235,7 @@ html.light-mode .article-card:hover {
 
   .hero-shell,
   .article-hero,
+  .social-contact-shell,
   .newsletter-section {
     grid-template-columns: 1fr;
   }
@@ -957,6 +1252,10 @@ html.light-mode .article-card:hover {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .social-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .category-story-grid,
   .article-body-grid {
     grid-template-columns: 1fr;
@@ -968,6 +1267,7 @@ html.light-mode .article-card:hover {
   .ticker-inner,
   .hero-section,
   .content-section,
+  .social-contact-section,
   .newsletter-section,
   .site-footer,
   .article-layout {
@@ -1078,6 +1378,42 @@ html.light-mode .article-card:hover {
   .newsletter-section {
     padding: 28px;
     border-radius: 24px;
+  }
+
+  .social-contact-section {
+    width: calc(100% - 24px);
+  }
+
+  .social-contact-shell {
+    padding: 28px 16px;
+    border-radius: 26px;
+  }
+
+  .social-contact-shell::before {
+    inset: 12px;
+    border-radius: 20px;
+  }
+
+  .social-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .social-card {
+    min-height: 132px;
+  }
+
+  .social-badge {
+    grid-template-columns: 52px minmax(0, 1fr);
+    padding: 10px 12px 10px 10px;
+  }
+
+  .social-badge img {
+    width: 52px;
+    height: 52px;
+  }
+
+  .social-copy h2 {
+    font-size: clamp(2rem, 11vw, 3rem);
   }
 
   .newsletter-form {
