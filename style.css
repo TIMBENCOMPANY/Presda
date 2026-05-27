@@ -793,6 +793,7 @@ html.light-mode .article-card:hover {
   box-shadow: 0 0 14px rgba(255, 26, 26, 0.76);
 }
 
+.social-copy h1,
 .social-copy h2 {
   margin: 18px 0 0;
   max-width: 650px;
@@ -801,6 +802,12 @@ html.light-mode .article-card:hover {
   font-size: clamp(2.1rem, 4.6vw, 5rem);
   line-height: 0.96;
   text-transform: uppercase;
+}
+
+.contact-page-section {
+  min-height: calc(100vh - 92px);
+  display: grid;
+  align-items: center;
 }
 
 .social-copy p {
@@ -1412,6 +1419,7 @@ html.light-mode .social-contact-shell {
     height: 52px;
   }
 
+  .social-copy h1,
   .social-copy h2 {
     font-size: clamp(2rem, 11vw, 3rem);
   }

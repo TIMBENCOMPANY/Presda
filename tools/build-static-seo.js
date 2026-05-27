@@ -178,8 +178,7 @@ function socialIcon(type) {
     instagram: `<svg ${attrs}><rect x="12" y="12" width="40" height="40" rx="12"></rect><circle cx="32" cy="32" r="10"></circle><circle cx="44" cy="20" r="2.5"></circle></svg>`,
     x: `<svg ${attrs}><path d="M16 14l33 36"></path><path d="M48 14L15 50"></path><path d="M20 14h9l15 36h-9z"></path></svg>`,
     tiktok: `<svg ${attrs}><path d="M36 12v27.5a10.5 10.5 0 1 1-9.5-10.45"></path><path d="M36 12c2.7 8.2 7.4 12.5 15 13.2"></path><path d="M36 21c3.2 3.5 7.2 5.6 12 6.2"></path></svg>`,
-    youtube: `<svg ${attrs}><rect x="10" y="18" width="44" height="28" rx="9"></rect><path d="M29 26l12 6-12 6z"></path></svg>`,
-    linkedin: `<svg ${attrs}><rect x="12" y="12" width="40" height="40" rx="6"></rect><path d="M22 29v15"></path><path d="M22 21.5v.5"></path><path d="M31 44V29"></path><path d="M31 35c0-3.8 2.8-6.5 6.5-6.5S44 31.2 44 36v8"></path></svg>`,
+    facebook: `<svg ${attrs}><path d="M38 14h-6a9 9 0 0 0-9 9v7h-6v9h6v13h10V39h7l2-9h-9v-6a2.5 2.5 0 0 1 2.5-2.5H42V14z"></path></svg>`,
     email: `<svg ${attrs}><rect x="10" y="16" width="44" height="32" rx="7"></rect><path d="M12 20l20 16 20-16"></path><path d="M12 46l14-13"></path><path d="M52 46L38 33"></path></svg>`
   };
   return icons[type] || icons.email;
@@ -190,8 +189,7 @@ function socialSection() {
     { type: "instagram", label: "Instagram", href: "https://www.instagram.com/presdaofficial" },
     { type: "x", label: "X / Twitter", href: "https://x.com/PresdaOfficial" },
     { type: "tiktok", label: "TikTok", href: "https://tiktok.com/@presda" },
-    { type: "youtube", label: "YouTube", href: "https://youtube.com/@presda" },
-    { type: "linkedin", label: "LinkedIn", href: "https://linkedin.com/company/presda" },
+    { type: "facebook", label: "Facebook", href: "https://www.facebook.com/profile.php?id=61589635535583" },
     { type: "email", label: "Email", href: "mailto:contact@presda.com" }
   ];
 
@@ -328,8 +326,6 @@ ${socialSection()}
       </section>
     </main>
 
-${footer()}
-
 ${analytics()}
   </body>
 </html>
@@ -455,6 +451,12 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
     <lastmod>${articles[0].date}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>${siteUrl}/contact.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 ${articles.map((article) => `  <url>
     <loc>${absoluteArticleUrl(article)}</loc>
