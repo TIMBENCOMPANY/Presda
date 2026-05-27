@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-ui-nav-sections-20260528";
+const cacheVersion = "presda-article-refine-20260528";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articles = ([\s\S]*?\n\];)/);
@@ -84,7 +84,7 @@ function commonHead({ title, description, canonical, image, type = "website", pu
     <link rel="apple-touch-icon" href="/favicon-light.png?v=presda-20260523" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@600;700;800;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@600;700;800;900&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="/style.css?v=${cacheVersion}" />`;
 }
 
