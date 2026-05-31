@@ -278,7 +278,7 @@ const imagePairs = {
   }
 };
 
-const versioned = (src) => `${src}?v=presda-media-system-20260531`;
+const versioned = (src) => `${src}?v=presda-contact-mobile-20260531`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";

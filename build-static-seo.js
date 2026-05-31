@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-media-system-20260531";
+const cacheVersion = "presda-contact-mobile-20260531";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articles = ([\s\S]*?\n\];)/);
