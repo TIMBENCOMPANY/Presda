@@ -13,7 +13,8 @@ const articles = [
     source: "PRESDA Tech Desk",
     imageDark: "/images/articles/openai-sam-dark.png",
     imageLight: "/images/articles/openai-sam-light.png",
-    imageFit: "contain",
+    imageFit: "cover",
+    imagePosition: "50% 18%",
     imageAlt: "Sam Altman and OpenAI cinematic PRESDA poster on a dark background",
     excerpt: "A new generation of artificial intelligence is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.",
     content: [
@@ -40,7 +41,8 @@ const articles = [
     source: "PRESDA Sport Desk",
     imageDark: "/images/articles/xabi-alonso-dark.png",
     imageLight: "/images/articles/xabi-alonso-light.png",
-    imageFit: "contain",
+    imageFit: "cover",
+    imagePosition: "50% 18%",
     imageAlt: "Xabi Alonso cinematic football poster with Chelsea flag",
     excerpt: "A new tactical era takes shape as Xabi Alonso becomes the face of pressure, expectation, and elite football control.",
     content: [
@@ -67,6 +69,7 @@ const articles = [
     imageDark: "/images/articles/gta6-poster-dark.png",
     imageLight: "/images/articles/gta6-poster-light.png",
     imageFit: "contain",
+    imagePosition: "center center",
     imageAlt: "GTA 6 neon Vice City cinematic poster",
     excerpt: "The next major gaming release is already behaving less like a product and more like a global entertainment event.",
     content: [
@@ -92,7 +95,8 @@ const articles = [
     source: "PRESDA Business Desk",
     imageDark: "/images/articles/elon-mars-dark.png",
     imageLight: "/images/articles/elon-mars-light.png",
-    imageFit: "contain",
+    imageFit: "cover",
+    imagePosition: "50% 18%",
     imageAlt: "Elon Musk above a futuristic city with SpaceX and Tesla branding",
     excerpt: "Space ambition, investor attention, and spectacle continue to merge as Mars becomes a brand, a mission, and a market narrative.",
     content: [
@@ -118,7 +122,8 @@ const articles = [
     source: "PRESDA Sport Desk",
     imageDark: "/images/articles/fifa-world-cup-dark.png",
     imageLight: "/images/articles/fifa-world-cup-light.png",
-    imageFit: "contain",
+    imageFit: "cover",
+    imagePosition: "50% 18%",
     imageAlt: "FIFA football official in a stadium cinematic poster",
     excerpt: "Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.",
     content: [
@@ -144,7 +149,8 @@ const articles = [
     source: "PRESDA Business Desk",
     imageDark: "/images/articles/bill-gates-dark.png",
     imageLight: "/images/articles/bill-gates-light.png",
-    imageFit: "contain",
+    imageFit: "cover",
+    imagePosition: "50% 18%",
     imageAlt: "Bill Gates foundation cinematic poster with global health and innovation panels",
     excerpt: "Global health, climate innovation, education, and science remain the pillars of one of the world's most watched philanthropic machines.",
     content: [
@@ -168,7 +174,8 @@ const articles = [
     source: "PRESDA World Desk",
     imageDark: "/images/articles/japan-ai-care-dark.png",
     imageLight: "/images/articles/japan-ai-care-light.png",
-    imageFit: "contain",
+    imageFit: "cover",
+    imagePosition: "50% 18%",
     imageAlt: "Japanese elder holding hands with a care robot in a cinematic poster",
     excerpt: "Facing an aging population and caregiver shortages, Japan is turning to AI-powered robots to support daily care.",
     content: [
@@ -192,7 +199,8 @@ const articles = [
     source: "PRESDA Culture Desk",
     imageDark: "/images/articles/keanu-kindness-dark.png",
     imageLight: "/images/articles/keanu-kindness-light.png",
-    imageFit: "contain",
+    imageFit: "cover",
+    imagePosition: "50% 18%",
     imageAlt: "Keanu Reeves comforting a child in a hospital room with kindness overlays",
     excerpt: "The actor's quiet generosity becomes a reminder that compassion can travel further than performance.",
     content: [
@@ -216,7 +224,8 @@ const articles = [
     source: "PRESDA Sport Desk",
     imageDark: "/images/articles/mourinho-real-madrid-dark.png",
     imageLight: "/images/articles/mourinho-real-madrid-light.png",
-    imageFit: "contain",
+    imageFit: "cover",
+    imagePosition: "50% 18%",
     imageAlt: "Jose Mourinho with Real Madrid crest and Santiago Bernabeu stadium",
     excerpt: "Real Madrid nostalgia, tactical identity, and elite football pressure collide whenever Mourinho's name returns to the conversation.",
     content: [
@@ -269,7 +278,7 @@ const imagePairs = {
   }
 };
 
-const versioned = (src) => `${src}?v=presda-static-source-20260525`;
+const versioned = (src) => `${src}?v=presda-media-system-20260531`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
@@ -402,6 +411,10 @@ document.querySelector(".newsletter-form")?.addEventListener("submit", (event) =
       if (link) link.href = `/articles/${article.slug}/`;
       if (reading) reading.textContent = article.readingTime;
       image.dataset.articleImageSlug = article.slug;
+      image.dataset.imageFit = article.imageFit || "cover";
+      image.dataset.imagePosition = article.imagePosition || (image.dataset.imageFit === "contain" ? "center center" : "50% 18%");
+      image.style.objectFit = image.dataset.imageFit;
+      image.style.objectPosition = image.dataset.imagePosition;
       image.src = articleImage(article);
       image.alt = article.imageAlt;
       if (caption) caption.textContent = `Source: ${article.source}`;

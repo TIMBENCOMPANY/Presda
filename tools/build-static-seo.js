@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-layout-correction-20260528";
+const cacheVersion = "presda-media-system-20260531";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articles = ([\s\S]*?\n\];)/);
@@ -151,10 +151,16 @@ function ticker() {
       </section>`;
 }
 
+function mediaAttrs(article) {
+  const fit = article.imageFit || "cover";
+  const position = article.imagePosition || (fit === "contain" ? "center center" : "50% 18%");
+  return `data-image-fit="${esc(fit)}" data-image-position="${esc(position)}" style="object-fit:${esc(fit)};object-position:${esc(position)};"`;
+}
+
 function articleCard(article, size = "standard") {
   return `<a class="article-card ${size}" href="${articleUrl(article)}">
-      <figure>
-        <img src="${imageWithVersion(article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" loading="lazy" data-article-image-slug="${esc(article.slug)}" />
+      <figure class="media-poster-frame media-card-frame">
+        <img src="${imageWithVersion(article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" loading="lazy" data-article-image-slug="${esc(article.slug)}" ${mediaAttrs(article)} />
       </figure>
       <div>
         <span class="category-tag category-${esc(article.category).toLowerCase()}">${esc(article.category)}</span>
@@ -195,7 +201,7 @@ function socialSection() {
     { type: "x", label: "X / Twitter", href: "https://x.com/PresdaOfficial" },
     { type: "instagram", label: "Instagram", href: "https://www.instagram.com/presdaofficial" },
     { type: "facebook", label: "Facebook", href: "https://www.facebook.com/profile.php?id=61589635535583" },
-    { type: "email", label: "Contact", href: "mailto:contact@presda.com" }
+    { type: "email", label: "contact@presda.com", href: "mailto:contact@presda.com" }
   ];
 
   return `      <section class="social-contact-section" aria-labelledby="connect-title">
@@ -300,8 +306,8 @@ ${ticker()}
               <span data-hero-reading>${esc(featured.readingTime)}</span>
             </div>
           </div>
-          <figure class="hero-media">
-            <img data-hero-image data-article-image-slug="${esc(featured.slug)}" src="${imageWithVersion(featured.imageDark || featured.image)}" alt="${esc(featured.imageAlt)}" />
+          <figure class="hero-media media-poster-frame">
+            <img data-hero-image data-article-image-slug="${esc(featured.slug)}" ${mediaAttrs(featured)} src="${imageWithVersion(featured.imageDark || featured.image)}" alt="${esc(featured.imageAlt)}" />
             <figcaption data-hero-source>Source: ${esc(featured.source)}</figcaption>
           </figure>
           <div class="hero-progress" data-hero-progress aria-label="Featured article selector"></div>
@@ -456,8 +462,8 @@ ${ticker()}
               <span data-article-source>${esc(article.source)}</span>
             </div>
           </div>
-          <figure class="article-image-frame">
-            <img data-article-image data-article-image-slug="${esc(article.slug)}" data-image-fit="${esc(article.imageFit || "cover")}" src="${imageWithVersion(article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" />
+          <figure class="article-image-frame media-poster-frame">
+            <img data-article-image data-article-image-slug="${esc(article.slug)}" ${mediaAttrs(article)} src="${imageWithVersion(article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" />
           </figure>
         </header>
 
