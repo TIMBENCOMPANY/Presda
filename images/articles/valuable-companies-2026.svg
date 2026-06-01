@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1700" role="img" aria-labelledby="title desc">
+  <title id="title">World's Most Valuable Companies In 2026</title>
+  <desc id="desc">A premium business skyline poster with red market data rings and company value signals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#050505"/><stop offset=".7" stop-color="#101010"/><stop offset="1" stop-color="#360707"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1400" height="1700" fill="url(#bg)"/>
+  <g opacity=".22" stroke="#ff1a1a" fill="none" filter="url(#glow)">
+    <circle cx="700" cy="520" r="330"/><circle cx="700" cy="520" r="250"/><circle cx="700" cy="520" r="170"/>
+  </g>
+  <text x="90" y="210" fill="#ff1a1a" font-family="Orbitron, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="5">BUSINESS / MARKETS</text>
+  <text x="90" y="330" fill="#fff" font-family="Orbitron, Arial, sans-serif" font-size="86" font-weight="900">WORLD'S</text>
+  <text x="90" y="420" fill="#fff" font-family="Orbitron, Arial, sans-serif" font-size="76" font-weight="900">MOST VALUABLE</text>
+  <text x="90" y="516" fill="#ff1a1a" font-family="Orbitron, Arial, sans-serif" font-size="92" font-weight="900">COMPANIES</text>
+  <text x="90" y="585" fill="#f4f4f4" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">IN 2026</text>
+  <g transform="translate(110 720)">
+    <rect x="0" y="320" width="1180" height="420" fill="#080808"/>
+    <g fill="#171717" stroke="#ff1a1a" stroke-opacity=".4">
+      <rect x="35" y="180" width="90" height="560"/><rect x="155" y="60" width="120" height="680"/><rect x="310" y="230" width="100" height="510"/><rect x="450" y="0" width="150" height="740"/><rect x="650" y="145" width="120" height="595"/><rect x="820" y="85" width="110" height="655"/><rect x="975" y="250" width="130" height="490"/>
+    </g>
+    <path d="M0 500C170 410 260 450 382 340S620 165 795 230s235 26 385-100" fill="none" stroke="#ff1a1a" stroke-width="8" filter="url(#glow)"/>
+    <g fill="#fff" font-family="Orbitron, Arial, sans-serif" font-size="22" font-weight="800">
+      <text x="40" y="795">AI</text><text x="190" y="795">CLOUD</text><text x="350" y="795">CHIPS</text><text x="500" y="795">SOFTWARE</text><text x="690" y="795">ENERGY</text><text x="850" y="795">PLATFORMS</text>
+    </g>
+  </g>
+  <text x="90" y="1540" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">Compute, chips, cloud, consumer ecosystems and energy define the leaderboard.</text>
+  <path d="M90 1594h520" stroke="#ff1a1a" stroke-width="4"/>
+</svg>

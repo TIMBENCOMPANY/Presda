@@ -1,20 +1,120 @@
 const root = document.documentElement;
 const body = document.body;
 
-const articles = [
+const articleRecords = [
+  {
+    title: "Top 10 Hidden Gems To Visit In 2026",
+    category: "Travel",
+    date: "2026-06-01",
+    author: "PRESDA Editorial",
+    readingTime: "7 min read",
+    source: "PRESDA Travel Desk",
+    imageDark: "/images/articles/travel-hidden-gems.svg",
+    imageLight: "/images/articles/travel-hidden-gems.svg",
+    imageFit: "cover",
+    imagePosition: "center center",
+    imageAlt: "Futuristic travel collage of hidden destinations for PRESDA",
+    excerpt: "A cinematic guide to ten under-the-radar destinations where culture, nature, architecture, and quiet luxury meet in 2026.",
+    content: [
+      "The best travel stories in 2026 are not only happening in the cities everyone already knows. They are unfolding in smaller islands, mountain towns, desert edges, creative districts, and coastal places where the experience still feels personal.",
+      "PRESDA's hidden-gems list focuses on places that reward curiosity: the Albanian Riviera, the Azores, Matera, Georgia's Kakheti wine region, Oman beyond Muscat, Slovenia's Soča Valley, Japan's Setouchi islands, Colombia's coffee triangle, Namibia's Skeleton Coast, and the Faroe Islands.",
+      "What connects these destinations is not hype. It is atmosphere. Each offers a different kind of escape, from cinematic landscapes and local food scenes to slow architecture, boutique stays, and routes that still feel discovered rather than consumed.",
+      "For travelers, the new luxury is space, authenticity, and a story worth remembering. In 2026, the smartest itinerary may be the one that avoids the obvious headline."
+    ],
+    tags: ["Travel", "Hidden Gems", "2026"],
+    highlightTerms: ["Top 10", "Hidden Gems", "2026", "Travel"],
+    featured: true,
+    trending: true,
+    editorPick: true,
+    mostRead: true
+  },
+  {
+    title: "World's Most Valuable Companies In 2026",
+    category: "Business",
+    date: "2026-05-31",
+    author: "PRESDA Editorial",
+    readingTime: "6 min read",
+    source: "PRESDA Business Desk",
+    imageDark: "/images/articles/valuable-companies-2026.svg",
+    imageLight: "/images/articles/valuable-companies-2026.svg",
+    imageFit: "cover",
+    imagePosition: "center center",
+    imageAlt: "Premium skyline showing the world's most valuable companies in 2026",
+    excerpt: "Artificial intelligence, chips, cloud platforms, software, energy, and consumer ecosystems continue to define the top of global market value.",
+    content: [
+      "The world's most valuable companies in 2026 reflect a clear market signal: artificial intelligence infrastructure, cloud computing, semiconductors, software ecosystems, and global consumer platforms are still commanding investor attention.",
+      "Nvidia, Microsoft, Apple, Alphabet, Amazon, Meta, Saudi Aramco, Broadcom, TSMC, and Tesla remain central names in the conversation, though their exact order can shift quickly with market prices, earnings, regulation, and currency movement.",
+      "The deeper story is how value is being created. Companies that control compute power, operating systems, distribution networks, chips, advertising platforms, and energy capacity are shaping the next decade of business.",
+      "For PRESDA, market capitalization is not only a scoreboard. It is a map of where the world expects growth, influence, and technological leverage to concentrate next."
+    ],
+    tags: ["Business", "Markets", "Technology"],
+    highlightTerms: ["Most Valuable", "Companies", "2026", "AI", "Nvidia", "Microsoft", "Apple"],
+    featured: true,
+    trending: true,
+    editorPick: true
+  },
+  {
+    title: "Katy Perry & Justin Trudeau Spark Global Speculation",
+    category: "Paparazzi",
+    date: "2026-05-30",
+    author: "PRESDA Editorial",
+    readingTime: "4 min read",
+    source: "PRESDA Culture Desk",
+    imageDark: "/images/articles/katy-trudeau-speculation.svg",
+    imageLight: "/images/articles/katy-trudeau-speculation.svg",
+    imageFit: "cover",
+    imagePosition: "center center",
+    imageAlt: "Red carpet media lights representing global celebrity speculation",
+    excerpt: "A wave of online attention shows how quickly celebrity culture, politics, and social media can turn public appearances into a worldwide conversation.",
+    content: [
+      "Katy Perry and Justin Trudeau have become the center of global speculation after online audiences began connecting public moments, social posts, and media chatter into a larger celebrity narrative.",
+      "PRESDA is treating the story carefully: speculation is not confirmation. What is confirmed is the speed at which attention now moves when entertainment culture and political celebrity intersect.",
+      "The reaction says as much about the internet as it does about the people involved. Fans, commentators, and tabloids can transform a small signal into a worldwide conversation within hours.",
+      "In the modern attention economy, the line between public image, private life, and viral interpretation keeps getting thinner."
+    ],
+    tags: ["Paparazzi", "Celebrity", "Culture"],
+    highlightTerms: ["Katy Perry", "Justin Trudeau", "Speculation", "Global"],
+    featured: true,
+    trending: true
+  },
+  {
+    title: "Palestine: A Humanitarian Crisis The World Cannot Ignore",
+    category: "World",
+    date: "2026-05-29",
+    author: "PRESDA Editorial",
+    readingTime: "7 min read",
+    source: "PRESDA World Desk",
+    imageDark: "/images/articles/palestine-humanitarian-crisis.svg",
+    imageLight: "/images/articles/palestine-humanitarian-crisis.svg",
+    imageFit: "cover",
+    imagePosition: "center center",
+    imageAlt: "Respectful PRESDA visual representing Palestine humanitarian crisis and urgent aid",
+    excerpt: "Beyond politics and headlines, the humanitarian emergency in Palestine remains a human story of displacement, hunger, medical pressure, and survival.",
+    content: [
+      "The crisis in Palestine remains one of the world's most urgent humanitarian emergencies, with civilians facing displacement, insecurity, damaged infrastructure, and severe pressure on access to food, water, healthcare, and shelter.",
+      "Behind every statistic is a family trying to survive. Hospitals, aid workers, journalists, and local communities continue to operate under conditions that make ordinary life almost impossible.",
+      "International agencies and humanitarian organizations have repeatedly warned that sustained access, protection of civilians, and reliable aid delivery are essential to preventing deeper catastrophe.",
+      "PRESDA's focus is the human dimension: the people living through the crisis, the systems under strain, and the responsibility of the world to keep watching, documenting, and responding."
+    ],
+    tags: ["World", "Palestine", "Humanitarian Crisis"],
+    highlightTerms: ["Palestine", "Humanitarian Crisis", "World", "civilians"],
+    featured: true,
+    trending: true,
+    mostRead: true
+  },
   {
     id: "001",
     slug: "openai-next-gen-model",
     title: "OpenAI Unveils Next-Gen Model",
     category: "AI",
-    date: "2026-05-23",
+    date: "2026-05-27",
     author: "PRESDA Editorial",
     readingTime: "4 min read",
     source: "PRESDA Tech Desk",
     imageDark: "/images/articles/openai-sam-dark.png",
     imageLight: "/images/articles/openai-sam-light.png",
     imageFit: "cover",
-    imagePosition: "50% 18%",
+    imagePosition: "center center",
     imageAlt: "Sam Altman and OpenAI cinematic PRESDA poster on a dark background",
     excerpt: "A new generation of artificial intelligence is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.",
     content: [
@@ -42,7 +142,7 @@ const articles = [
     imageDark: "/images/articles/xabi-alonso-dark.png",
     imageLight: "/images/articles/xabi-alonso-light.png",
     imageFit: "cover",
-    imagePosition: "50% 18%",
+    imagePosition: "center center",
     imageAlt: "Xabi Alonso cinematic football poster with Chelsea flag",
     excerpt: "A new tactical era takes shape as Xabi Alonso becomes the face of pressure, expectation, and elite football control.",
     content: [
@@ -68,7 +168,7 @@ const articles = [
     source: "PRESDA Culture Desk",
     imageDark: "/images/articles/gta6-poster-dark.png",
     imageLight: "/images/articles/gta6-poster-light.png",
-    imageFit: "contain",
+    imageFit: "cover",
     imagePosition: "center center",
     imageAlt: "GTA 6 neon Vice City cinematic poster",
     excerpt: "The next major gaming release is already behaving less like a product and more like a global entertainment event.",
@@ -96,7 +196,7 @@ const articles = [
     imageDark: "/images/articles/elon-mars-dark.png",
     imageLight: "/images/articles/elon-mars-light.png",
     imageFit: "cover",
-    imagePosition: "50% 18%",
+    imagePosition: "center center",
     imageAlt: "Elon Musk above a futuristic city with SpaceX and Tesla branding",
     excerpt: "Space ambition, investor attention, and spectacle continue to merge as Mars becomes a brand, a mission, and a market narrative.",
     content: [
@@ -116,14 +216,14 @@ const articles = [
     slug: "world-cup-2026-countdown",
     title: "World Cup 2026 Countdown Enters Full Speed",
     category: "Sport",
-    date: "2026-05-19",
+    date: "2026-05-28",
     author: "PRESDA Editorial",
     readingTime: "5 min read",
     source: "PRESDA Sport Desk",
     imageDark: "/images/articles/fifa-world-cup-dark.png",
     imageLight: "/images/articles/fifa-world-cup-light.png",
     imageFit: "cover",
-    imagePosition: "50% 18%",
+    imagePosition: "center center",
     imageAlt: "FIFA football official in a stadium cinematic poster",
     excerpt: "Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.",
     content: [
@@ -150,7 +250,7 @@ const articles = [
     imageDark: "/images/articles/bill-gates-dark.png",
     imageLight: "/images/articles/bill-gates-light.png",
     imageFit: "cover",
-    imagePosition: "50% 18%",
+    imagePosition: "center center",
     imageAlt: "Bill Gates foundation cinematic poster with global health and innovation panels",
     excerpt: "Global health, climate innovation, education, and science remain the pillars of one of the world's most watched philanthropic machines.",
     content: [
@@ -175,7 +275,7 @@ const articles = [
     imageDark: "/images/articles/japan-ai-care-dark.png",
     imageLight: "/images/articles/japan-ai-care-light.png",
     imageFit: "cover",
-    imagePosition: "50% 18%",
+    imagePosition: "center center",
     imageAlt: "Japanese elder holding hands with a care robot in a cinematic poster",
     excerpt: "Facing an aging population and caregiver shortages, Japan is turning to AI-powered robots to support daily care.",
     content: [
@@ -200,7 +300,7 @@ const articles = [
     imageDark: "/images/articles/keanu-kindness-dark.png",
     imageLight: "/images/articles/keanu-kindness-light.png",
     imageFit: "cover",
-    imagePosition: "50% 18%",
+    imagePosition: "center center",
     imageAlt: "Keanu Reeves comforting a child in a hospital room with kindness overlays",
     excerpt: "The actor's quiet generosity becomes a reminder that compassion can travel further than performance.",
     content: [
@@ -225,7 +325,7 @@ const articles = [
     imageDark: "/images/articles/mourinho-real-madrid-dark.png",
     imageLight: "/images/articles/mourinho-real-madrid-light.png",
     imageFit: "cover",
-    imagePosition: "50% 18%",
+    imagePosition: "center center",
     imageAlt: "Jose Mourinho with Real Madrid crest and Santiago Bernabeu stadium",
     excerpt: "Real Madrid nostalgia, tactical identity, and elite football pressure collide whenever Mourinho's name returns to the conversation.",
     content: [
@@ -239,46 +339,39 @@ const articles = [
   }
 ];
 
-const imagePairs = {
-  "openai-next-gen-model": {
-    dark: "/images/articles/openai-sam-dark.png",
-    light: "/images/articles/openai-sam-light.png"
-  },
-  "xabi-alonso-chelsea-pressure": {
-    dark: "/images/articles/xabi-alonso-dark.png",
-    light: "/images/articles/xabi-alonso-light.png"
-  },
-  "gta6-trailer-culture-shift": {
-    dark: "/images/articles/gta6-poster-dark.png",
-    light: "/images/articles/gta6-poster-light.png"
-  },
-  "elon-mars-signal": {
-    dark: "/images/articles/elon-mars-dark.png",
-    light: "/images/articles/elon-mars-light.png"
-  },
-  "world-cup-2026-countdown": {
-    dark: "/images/articles/fifa-world-cup-dark.png",
-    light: "/images/articles/fifa-world-cup-light.png"
-  },
-  "bill-gates-foundation-impact": {
-    dark: "/images/articles/bill-gates-dark.png",
-    light: "/images/articles/bill-gates-light.png"
-  },
-  "japan-enters-ai-care-era": {
-    dark: "/images/articles/japan-ai-care-dark.png",
-    light: "/images/articles/japan-ai-care-light.png"
-  },
-  "keanu-reeves-kindness-powerful": {
-    dark: "/images/articles/keanu-kindness-dark.png",
-    light: "/images/articles/keanu-kindness-light.png"
-  },
-  "mourinho-real-madrid-return-signal": {
-    dark: "/images/articles/mourinho-real-madrid-dark.png",
-    light: "/images/articles/mourinho-real-madrid-light.png"
-  }
-};
+const slugify = (value = "") =>
+  String(value)
+    .toLowerCase()
+    .trim()
+    .replace(/&/g, "and")
+    .replace(/['’]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 
-const versioned = (src) => `${src}?v=presda-contact-mobile-20260531`;
+const articles = articleRecords
+  .map((article, index) => {
+    const imageFit = article.imageFit || "cover";
+    return {
+      ...article,
+      id: article.id || String(index + 1).padStart(3, "0"),
+      slug: article.slug || slugify(article.title),
+      imageFit,
+      imagePosition: article.imagePosition || (imageFit === "contain" ? "center center" : "center center")
+    };
+  })
+  .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+const imagePairs = Object.fromEntries(
+  articles.map((article) => [
+    article.slug,
+    {
+      dark: article.imageDark || article.image,
+      light: article.imageLight || article.imageDark || article.image
+    }
+  ])
+);
+
+const versioned = (src) => `${src}?v=presda-content-20260601`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
@@ -358,7 +451,10 @@ document.querySelector(".newsletter-form")?.addEventListener("submit", (event) =
 
   if (!shell || !title || !excerpt || !image || !progress || !Array.isArray(articles)) return;
 
-  const featuredStories = articles.filter((article) => article.featured).slice(0, 5);
+  const featuredStories = articles
+    .filter((article) => article.featured)
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, 6);
   if (!featuredStories.length) return;
 
   const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
@@ -429,7 +525,7 @@ document.querySelector(".newsletter-form")?.addEventListener("submit", (event) =
 
   const play = () => {
     window.clearInterval(timer);
-    timer = window.setInterval(() => draw(active + 1), 3500);
+    timer = window.setInterval(() => draw(active + 1), 2800);
   };
 
   progress.innerHTML = "";

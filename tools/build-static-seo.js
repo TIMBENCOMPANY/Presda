@@ -4,14 +4,14 @@ const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-contact-mobile-20260531";
+const cacheVersion = "presda-content-20260601";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
-const match = script.match(/const articles = ([\s\S]*?\n\];)/);
-if (!match) throw new Error("Could not find articles array in script.js");
+const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
+if (!match) throw new Error("Could not find articleRecords array in script.js");
 
-const articles = vm.runInNewContext(match[1]);
-const categories = ["AI", "Business", "Sport", "World", "Paparazzi", "Lifestyle"];
+const articleRecords = vm.runInNewContext(match[1]);
+const categories = ["AI", "Business", "Sport", "World", "Paparazzi", "Lifestyle", "Travel"];
 
 const esc = (value = "") =>
   String(value).replace(/[&<>"']/g, (char) => ({
@@ -23,6 +23,27 @@ const esc = (value = "") =>
   })[char]);
 
 const escapeRegExp = (value) => String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+const slugify = (value = "") =>
+  String(value)
+    .toLowerCase()
+    .trim()
+    .replace(/&/g, "and")
+    .replace(/['’]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+
+const articles = articleRecords
+  .map((article, index) => {
+    const imageFit = article.imageFit || "cover";
+    return {
+      ...article,
+      id: article.id || String(index + 1).padStart(3, "0"),
+      slug: article.slug || slugify(article.title),
+      imageFit,
+      imagePosition: article.imagePosition || "center center"
+    };
+  })
+  .sort((a, b) => new Date(b.date) - new Date(a.date));
 
 function highlightText(text, terms = []) {
   const cleanTerms = [...new Set(terms.filter(Boolean))].sort((a, b) => b.length - a.length);
@@ -55,7 +76,7 @@ const formatDate = (value) =>
 
 const articleUrl = (article) => `/articles/${encodeURIComponent(article.slug)}/`;
 const absoluteArticleUrl = (article) => `${siteUrl}${articleUrl(article)}`;
-const imageWithVersion = (image) => `${image}?v=presda-posters-20260524`;
+const imageWithVersion = (image) => `${image}?v=${cacheVersion}`;
 const absoluteImage = (image) => `${siteUrl}${image}`;
 const titleHtml = (article) => highlightText(article.title, article.highlightTerms);
 const textHtml = (article, text) => highlightText(text, article.highlightTerms);
@@ -112,6 +133,7 @@ function header() {
           <a href="/category/world/">World</a>
           <a href="/category/paparazzi/">Paparazzi</a>
           <a href="/category/lifestyle/">Lifestyle</a>
+          <a href="/category/travel/">Travel</a>
           <a href="/contact.html">Contact</a>
           <a href="/#newsletter">Newsletter</a>
         </nav>
@@ -179,7 +201,8 @@ function categoryIcon(category) {
     Sport: `<svg ${attrs}><circle cx="32" cy="32" r="20"></circle><path d="M32 12v40M12 32h40M19 19c8 6 18 6 26 0M19 45c8-6 18-6 26 0"></path></svg>`,
     World: `<svg ${attrs}><circle cx="32" cy="32" r="21"></circle><path d="M11 32h42M32 11c7 7 10 14 10 21s-3 14-10 21M32 11c-7 7-10 14-10 21s3 14 10 21"></path></svg>`,
     Paparazzi: `<svg ${attrs}><rect x="14" y="22" width="36" height="28" rx="5"></rect><path d="M24 22l4-7h8l4 7M25 36a7 7 0 1 0 14 0a7 7 0 0 0-14 0M45 28h1"></path></svg>`,
-    Lifestyle: `<svg ${attrs}><path d="M32 51s-18-10-18-25a10 10 0 0 1 18-6a10 10 0 0 1 18 6c0 15-18 25-18 25z"></path><path d="M23 32h6l3-7l4 13l3-6h4"></path></svg>`
+    Lifestyle: `<svg ${attrs}><path d="M32 51s-18-10-18-25a10 10 0 0 1 18-6a10 10 0 0 1 18 6c0 15-18 25-18 25z"></path><path d="M23 32h6l3-7l4 13l3-6h4"></path></svg>`,
+    Travel: `<svg ${attrs}><path d="M12 44l13-24l12 16l7-10l8 18H12z"></path><path d="M18 50h28M32 14l3 8l8 2l-8 2l-3 8l-3-8l-8-2l8-2z"></path></svg>`
   };
   return icons[category] || icons.World;
 }
