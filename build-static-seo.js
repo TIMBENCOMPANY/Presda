@@ -134,7 +134,7 @@ function header() {
           <a href="/category/paparazzi/">Paparazzi</a>
           <a href="/category/lifestyle/">Lifestyle</a>
           <a href="/category/travel/">Travel</a>
-          <a href="/contact.html">Contact</a>
+          <a href="/contact/">Contact</a>
           <a href="/#newsletter">Newsletter</a>
         </nav>
 
@@ -596,8 +596,8 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>${siteUrl}/contact.html</loc>
-    <lastmod>2026-05-27</lastmod>
+    <loc>${siteUrl}/contact/</loc>
+    <lastmod>${articles[0].date}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
