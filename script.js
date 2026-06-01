@@ -395,7 +395,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-real-images-20260601`;
+const versioned = (src) => `${src}?v=presda-search-20260601`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
@@ -445,6 +445,104 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
     menuButton?.setAttribute("aria-expanded", "false");
   });
 });
+
+/* PRESDA article search */
+(() => {
+  if (window.__presdaSearchReady) return;
+  window.__presdaSearchReady = true;
+
+  const searchButton = document.querySelector(".search-button");
+  if (!searchButton || !Array.isArray(articles)) return;
+
+  const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  })[char]);
+
+  const normalize = (value = "") => String(value).toLowerCase().trim();
+  const articleUrl = (article) => `/articles/${article.slug}/`;
+  const searchable = articles.map((article) => ({
+    ...article,
+    searchText: normalize(`${article.title} ${article.excerpt} ${article.category}`)
+  }));
+
+  const overlay = document.createElement("div");
+  overlay.className = "search-panel";
+  overlay.setAttribute("aria-hidden", "true");
+  overlay.innerHTML = `
+    <div class="search-backdrop" data-search-close></div>
+    <section class="search-dialog" role="dialog" aria-modal="true" aria-labelledby="presda-search-title">
+      <div class="search-dialog-head">
+        <div>
+          <span>Presda Search</span>
+          <h2 id="presda-search-title">Find the signal</h2>
+        </div>
+        <button class="search-close" type="button" aria-label="Close search" data-search-close></button>
+      </div>
+      <label class="search-field">
+        <span class="sr-only">Search articles</span>
+        <input type="search" placeholder="Search AI, Sport, World..." autocomplete="off" />
+      </label>
+      <div class="search-results" role="listbox" aria-label="Search results"></div>
+    </section>
+  `;
+  document.body.appendChild(overlay);
+
+  const input = overlay.querySelector("input");
+  const results = overlay.querySelector(".search-results");
+  const closeButtons = overlay.querySelectorAll("[data-search-close]");
+
+  const resultCard = (article) => `
+    <a class="search-result-card" href="${articleUrl(article)}" role="option">
+      <span>${escapeHtml(article.category)}</span>
+      <strong>${escapeHtml(article.title)}</strong>
+      <small>${escapeHtml(article.excerpt)}</small>
+    </a>
+  `;
+
+  const render = () => {
+    const query = normalize(input.value);
+    const matches = query
+      ? searchable.filter((article) => article.searchText.includes(query)).slice(0, 8)
+      : searchable.slice(0, 6);
+
+    if (!matches.length) {
+      results.innerHTML = `<div class="search-empty">No results found</div>`;
+      return;
+    }
+
+    results.innerHTML = matches.map(resultCard).join("");
+  };
+
+  const open = () => {
+    overlay.classList.add("is-open");
+    overlay.setAttribute("aria-hidden", "false");
+    document.body.classList.add("search-is-open");
+    render();
+    window.setTimeout(() => input.focus(), 80);
+  };
+
+  const close = () => {
+    overlay.classList.remove("is-open");
+    overlay.setAttribute("aria-hidden", "true");
+    document.body.classList.remove("search-is-open");
+    input.value = "";
+    searchButton.focus();
+  };
+
+  searchButton.addEventListener("click", open);
+  input.addEventListener("input", render);
+  closeButtons.forEach((button) => button.addEventListener("click", close));
+  overlay.addEventListener("click", (event) => {
+    if (event.target.closest(".search-result-card")) close();
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && overlay.classList.contains("is-open")) close();
+  });
+})();
 
 document.querySelector(".newsletter-form")?.addEventListener("submit", (event) => {
   event.preventDefault();
