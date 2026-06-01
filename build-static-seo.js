@@ -421,8 +421,14 @@ function articlePage(article) {
     .concat(articles.filter((item) => item.id !== article.id))
     .slice(0, 3);
   const canonical = absoluteArticleUrl(article);
-  const articleContent = article.content.map((paragraph, index) => {
-    const html = textHtml(article, paragraph);
+  const articleContent = article.content.map((block, index) => {
+    if (String(block).startsWith("## ")) {
+      return `<h2>${textHtml(article, String(block).slice(3))}</h2>`;
+    }
+    if (String(block).startsWith("> ")) {
+      return `<blockquote>${textHtml(article, String(block).slice(2))}</blockquote>`;
+    }
+    const html = textHtml(article, block);
     return index === 1 ? `<blockquote>${html}</blockquote>` : `<p>${html}</p>`;
   }).join("");
   const jsonLd = {
