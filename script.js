@@ -9,8 +9,8 @@ const articleRecords = [
     author: "PRESDA Editorial",
     readingTime: "7 min read",
     source: "PRESDA Travel Desk",
-    imageDark: "/images/articles/travel-hidden-gems.svg",
-    imageLight: "/images/articles/travel-hidden-gems.svg",
+    imageDark: "/images/articles/travel-hidden-gems-2026.png",
+    imageLight: "/images/articles/travel-hidden-gems-2026.png",
     imageFit: "cover",
     imagePosition: "center center",
     imageAlt: "Futuristic travel collage of hidden destinations for PRESDA",
@@ -35,8 +35,8 @@ const articleRecords = [
     author: "PRESDA Editorial",
     readingTime: "6 min read",
     source: "PRESDA Business Desk",
-    imageDark: "/images/articles/valuable-companies-2026.svg",
-    imageLight: "/images/articles/valuable-companies-2026.svg",
+    imageDark: "/images/articles/valuable-companies-2026.png",
+    imageLight: "/images/articles/valuable-companies-2026.png",
     imageFit: "cover",
     imagePosition: "center center",
     imageAlt: "Premium skyline showing the world's most valuable companies in 2026",
@@ -60,8 +60,8 @@ const articleRecords = [
     author: "PRESDA Editorial",
     readingTime: "4 min read",
     source: "PRESDA Culture Desk",
-    imageDark: "/images/articles/katy-trudeau-speculation.svg",
-    imageLight: "/images/articles/katy-trudeau-speculation.svg",
+    imageDark: "/images/articles/katy-trudeau-speculation.png",
+    imageLight: "/images/articles/katy-trudeau-speculation.png",
     imageFit: "cover",
     imagePosition: "center center",
     imageAlt: "Red carpet media lights representing global celebrity speculation",
@@ -84,8 +84,8 @@ const articleRecords = [
     author: "PRESDA Editorial",
     readingTime: "7 min read",
     source: "PRESDA World Desk",
-    imageDark: "/images/articles/palestine-humanitarian-crisis.svg",
-    imageLight: "/images/articles/palestine-humanitarian-crisis.svg",
+    imageDark: "/images/articles/palestine-humanitarian-crisis.png",
+    imageLight: "/images/articles/palestine-humanitarian-crisis.png",
     imageFit: "cover",
     imagePosition: "center center",
     imageAlt: "Respectful PRESDA visual representing Palestine humanitarian crisis and urgent aid",
@@ -101,6 +101,30 @@ const articleRecords = [
     featured: true,
     trending: true,
     mostRead: true
+  },
+  {
+    title: "Dubai Future Cities Rise Above The Desert",
+    category: "World",
+    date: "2026-05-28",
+    author: "PRESDA Editorial",
+    readingTime: "5 min read",
+    source: "PRESDA World Desk",
+    imageDark: "/images/articles/dubai-future-cities.png",
+    imageLight: "/images/articles/dubai-future-cities.png",
+    imageFit: "cover",
+    imagePosition: "center center",
+    imageAlt: "Futuristic Dubai skyline with flying vehicles and sunset light",
+    excerpt: "Dubai's next city vision blends vertical architecture, mobility experiments, luxury infrastructure, and cinematic urban ambition.",
+    content: [
+      "Dubai has become a symbol of how fast a city can turn ambition into architecture. In 2026, the conversation is moving beyond towers and into a larger question: what should a future city feel like?",
+      "The next phase is built around mobility, climate-aware design, smart infrastructure, cultural tourism, and premium urban experiences that make the skyline feel like a living system.",
+      "From drone concepts and autonomous transport to waterfront districts and hyper-connected public spaces, Dubai continues to frame the city itself as a global media object.",
+      "For PRESDA, the story is not only about spectacle. It is about how cities compete for attention, talent, investment, and imagination in a world where urban identity has become a brand."
+    ],
+    tags: ["World", "Dubai", "Future Cities"],
+    highlightTerms: ["Dubai", "Future Cities", "skyline", "urban"],
+    featured: true,
+    editorPick: true
   },
   {
     id: "001",
@@ -371,7 +395,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-content-20260601`;
+const versioned = (src) => `${src}?v=presda-real-images-20260601`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
