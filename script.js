@@ -16,10 +16,13 @@ const articleRecords = [
     imageAlt: "Futuristic travel collage of hidden destinations for PRESDA",
     excerpt: "A cinematic guide to ten under-the-radar destinations where culture, nature, architecture, and quiet luxury meet in 2026.",
     content: [
-      "The best travel stories in 2026 are not only happening in the cities everyone already knows. They are unfolding in smaller islands, mountain towns, desert edges, creative districts, and coastal places where the experience still feels personal.",
-      "PRESDA's hidden-gems list focuses on places that reward curiosity: the Albanian Riviera, the Azores, Matera, Georgia's Kakheti wine region, Oman beyond Muscat, Slovenia's Soča Valley, Japan's Setouchi islands, Colombia's coffee triangle, Namibia's Skeleton Coast, and the Faroe Islands.",
-      "What connects these destinations is not hype. It is atmosphere. Each offers a different kind of escape, from cinematic landscapes and local food scenes to slow architecture, boutique stays, and routes that still feel discovered rather than consumed.",
-      "For travelers, the new luxury is space, authenticity, and a story worth remembering. In 2026, the smartest itinerary may be the one that avoids the obvious headline."
+      "As global tourism evolves, travelers are increasingly seeking destinations that offer authenticity, natural beauty, and unique cultural experiences. While famous cities continue to attract millions, a growing number of explorers are choosing lesser-known destinations that provide unforgettable memories without overwhelming crowds.",
+      "Chefchaouen, Morocco, remains one of the most visually striking cities in the world. Known for its blue-painted streets and mountain scenery, the city offers a peaceful atmosphere that feels completely different from major tourist hubs.",
+      "Zanzibar, Tanzania, continues to attract visitors with its crystal-clear waters, white beaches, and rich cultural heritage. The island offers a perfect combination of relaxation, history, and adventure.",
+      "Cappadocia, Türkiye, provides one of the most extraordinary landscapes on Earth. Hot-air balloons floating above unique rock formations have transformed the region into one of the world's most recognizable travel experiences.",
+      "Banff, Canada, remains a paradise for nature lovers. Surrounded by mountains, forests, and turquoise lakes, the region delivers breathtaking scenery throughout every season.",
+      "Cancún, Mexico, combines luxury resorts, Caribbean waters, and access to ancient Mayan history, creating a destination that appeals to both adventure seekers and leisure travelers.",
+      "Other destinations making the 2026 list include Raja Ampat, El Nido, Madeira, Sossusvlei, and Kotor, each offering remarkable landscapes and unforgettable experiences."
     ],
     tags: ["Travel", "Hidden Gems", "2026"],
     highlightTerms: ["Top 10", "Hidden Gems", "2026", "Travel"],
@@ -42,10 +45,13 @@ const articleRecords = [
     imageAlt: "Premium skyline showing the world's most valuable companies in 2026",
     excerpt: "Artificial intelligence, chips, cloud platforms, software, energy, and consumer ecosystems continue to define the top of global market value.",
     content: [
-      "The world's most valuable companies in 2026 reflect a clear market signal: artificial intelligence infrastructure, cloud computing, semiconductors, software ecosystems, and global consumer platforms are still commanding investor attention.",
-      "Nvidia, Microsoft, Apple, Alphabet, Amazon, Meta, Saudi Aramco, Broadcom, TSMC, and Tesla remain central names in the conversation, though their exact order can shift quickly with market prices, earnings, regulation, and currency movement.",
-      "The deeper story is how value is being created. Companies that control compute power, operating systems, distribution networks, chips, advertising platforms, and energy capacity are shaping the next decade of business.",
-      "For PRESDA, market capitalization is not only a scoreboard. It is a map of where the world expects growth, influence, and technological leverage to concentrate next."
+      "Technology continues to dominate the global economy, with a small group of corporations generating unprecedented levels of revenue, profit, and influence.",
+      "Microsoft remains one of the most valuable companies in the world thanks to its cloud infrastructure, software ecosystem, and investments in artificial intelligence.",
+      "NVIDIA has become a central player in the AI revolution, supplying the hardware powering many of today's most advanced systems and data centers.",
+      "Alphabet, the parent company of Google, continues to lead digital advertising, search, and AI development while maintaining a strong presence across multiple technology sectors.",
+      "Apple remains one of the world's most recognized brands, supported by a powerful ecosystem of devices and services that continue to attract loyal customers.",
+      "Meta, Amazon, and other technology giants continue to shape the future of communication, commerce, and digital experiences worldwide.",
+      "As artificial intelligence accelerates global innovation, competition among these corporations is expected to intensify throughout the coming decade."
     ],
     tags: ["Business", "Markets", "Technology"],
     highlightTerms: ["Most Valuable", "Companies", "2026", "AI", "Nvidia", "Microsoft", "Apple"],
@@ -67,10 +73,11 @@ const articleRecords = [
     imageAlt: "Red carpet media lights representing global celebrity speculation",
     excerpt: "A wave of online attention shows how quickly celebrity culture, politics, and social media can turn public appearances into a worldwide conversation.",
     content: [
-      "Katy Perry and Justin Trudeau have become the center of global speculation after online audiences began connecting public moments, social posts, and media chatter into a larger celebrity narrative.",
-      "PRESDA is treating the story carefully: speculation is not confirmation. What is confirmed is the speed at which attention now moves when entertainment culture and political celebrity intersect.",
-      "The reaction says as much about the internet as it does about the people involved. Fans, commentators, and tabloids can transform a small signal into a worldwide conversation within hours.",
-      "In the modern attention economy, the line between public image, private life, and viral interpretation keeps getting thinner."
+      "Recent public appearances involving global music star Katy Perry and former Canadian Prime Minister Justin Trudeau have generated significant attention across social media and entertainment platforms.",
+      "Photos and reports quickly fueled speculation among fans and media outlets, creating one of the most discussed celebrity stories of the moment.",
+      "While no official confirmation has been provided regarding the nature of their relationship, public interest continues to grow as new reports emerge.",
+      "The unexpected combination of a global entertainment icon and a prominent political figure has transformed a routine public appearance into an international conversation.",
+      "As public curiosity remains high, the story continues to generate discussion across celebrity, entertainment, and lifestyle media."
     ],
     tags: ["Paparazzi", "Celebrity", "Culture"],
     highlightTerms: ["Katy Perry", "Justin Trudeau", "Speculation", "Global"],
@@ -91,10 +98,11 @@ const articleRecords = [
     imageAlt: "Respectful PRESDA visual representing Palestine humanitarian crisis and urgent aid",
     excerpt: "Beyond politics and headlines, the humanitarian emergency in Palestine remains a human story of displacement, hunger, medical pressure, and survival.",
     content: [
-      "The crisis in Palestine remains one of the world's most urgent humanitarian emergencies, with civilians facing displacement, insecurity, damaged infrastructure, and severe pressure on access to food, water, healthcare, and shelter.",
-      "Behind every statistic is a family trying to survive. Hospitals, aid workers, journalists, and local communities continue to operate under conditions that make ordinary life almost impossible.",
-      "International agencies and humanitarian organizations have repeatedly warned that sustained access, protection of civilians, and reliable aid delivery are essential to preventing deeper catastrophe.",
-      "PRESDA's focus is the human dimension: the people living through the crisis, the systems under strain, and the responsibility of the world to keep watching, documenting, and responding."
+      "The Palestinian issue continues to attract worldwide attention as diplomatic discussions, humanitarian concerns, and international debates remain active across the global stage.",
+      "Governments, international organizations, and humanitarian groups continue to monitor developments closely while advocating for stability, security, and long-term solutions.",
+      "The issue remains one of the most widely discussed international topics, generating extensive coverage across media platforms and social networks around the world.",
+      "Observers note that the discussion extends beyond politics, encompassing humanitarian challenges, regional stability, and the future of peace efforts in the Middle East.",
+      "As developments continue to evolve, the situation remains an important topic for policymakers, journalists, and citizens worldwide."
     ],
     tags: ["World", "Palestine", "Humanitarian Crisis"],
     highlightTerms: ["Palestine", "Humanitarian Crisis", "World", "civilians"],
@@ -116,10 +124,11 @@ const articleRecords = [
     imageAlt: "Futuristic Dubai skyline with flying vehicles and sunset light",
     excerpt: "Dubai's next city vision blends vertical architecture, mobility experiments, luxury infrastructure, and cinematic urban ambition.",
     content: [
-      "Dubai has become a symbol of how fast a city can turn ambition into architecture. In 2026, the conversation is moving beyond towers and into a larger question: what should a future city feel like?",
-      "The next phase is built around mobility, climate-aware design, smart infrastructure, cultural tourism, and premium urban experiences that make the skyline feel like a living system.",
-      "From drone concepts and autonomous transport to waterfront districts and hyper-connected public spaces, Dubai continues to frame the city itself as a global media object.",
-      "For PRESDA, the story is not only about spectacle. It is about how cities compete for attention, talent, investment, and imagination in a world where urban identity has become a brand."
+      "Dubai continues to position itself among the world's most innovative cities through ambitious infrastructure projects, advanced technology initiatives, and a strong commitment to economic growth.",
+      "The city has become a global destination for entrepreneurs, investors, tourists, and technology companies seeking opportunities in one of the fastest-growing regions in the world.",
+      "From artificial intelligence initiatives to smart-city developments, Dubai continues to demonstrate how innovation can transform urban environments.",
+      "Its combination of luxury tourism, modern architecture, and business-friendly policies has helped establish the city as a leading international hub.",
+      "As competition among global cities increases, Dubai remains focused on building a future centered on technology, sustainability, and world-class experiences."
     ],
     tags: ["World", "Dubai", "Future Cities"],
     highlightTerms: ["Dubai", "Future Cities", "skyline", "urban"],
@@ -197,10 +206,11 @@ const articleRecords = [
     imageAlt: "GTA 6 neon Vice City cinematic poster",
     excerpt: "The next major gaming release is already behaving less like a product and more like a global entertainment event.",
     content: [
-      "Major game releases now sit beside film premieres, fashion launches, and live sport in the cultural calendar. GTA 6 is one of the clearest examples.",
-      "Fans are not only waiting to play. They are decoding trailers, building theories, debating visuals, and turning every detail into social media momentum.",
-      "The business impact stretches across streaming, hardware, advertising, music, and digital fashion. One game can move an entire entertainment ecosystem.",
-      "PRESDA will track how gaming continues to shape taste, youth culture, celebrity influence, and the future of interactive storytelling."
+      "Few entertainment releases have generated as much anticipation as Grand Theft Auto VI.",
+      "Years after the success of GTA V, millions of players around the world are preparing for what is expected to be one of the largest launches in gaming history.",
+      "Beyond gaming, GTA 6 has evolved into a cultural phenomenon, influencing social media discussions, online communities, and digital entertainment trends.",
+      "Industry analysts expect the game to redefine expectations for open-world experiences through advanced technology, immersive storytelling, and unprecedented levels of detail.",
+      "As excitement continues to build, GTA 6 has become far more than a video game release. It has become one of the defining entertainment events of the decade."
     ],
     tags: ["Gaming", "Lifestyle", "Culture"],
     highlightTerms: ["GTA 6", "gaming", "global entertainment"],
