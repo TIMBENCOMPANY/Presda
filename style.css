@@ -2853,3 +2853,115 @@ body[data-article-page] .article-image-frame.media-poster-frame img{
     min-height:340px!important;
   }
 }
+
+/* PRESDA mobile header control order */
+@media(max-width:720px){
+  .nav-shell{
+    display:flex!important;
+    align-items:center!important;
+    justify-content:space-between!important;
+    gap:8px!important;
+    width:calc(100% - 20px)!important;
+    min-height:72px!important;
+  }
+
+  .brand{
+    flex:1 1 auto!important;
+    min-width:0!important;
+    max-width:calc(100% - 158px)!important;
+  }
+
+  .main-nav{
+    left:12px!important;
+    right:12px!important;
+    top:78px!important;
+  }
+
+  .nav-actions{
+    flex:0 0 auto!important;
+    margin-left:auto!important;
+    display:flex!important;
+    align-items:center!important;
+    justify-content:flex-end!important;
+    gap:6px!important;
+    flex-wrap:nowrap!important;
+  }
+
+  .search-button{
+    order:1!important;
+  }
+
+  .menu-button{
+    order:2!important;
+  }
+
+  .theme-toggle{
+    order:3!important;
+    width:58px!important;
+    height:36px!important;
+  }
+
+  .search-button,
+  .menu-button{
+    width:38px!important;
+    height:38px!important;
+  }
+
+  .search-button,
+  .menu-button,
+  .theme-toggle{
+    flex:0 0 auto!important;
+    align-self:center!important;
+  }
+
+  html.light-mode .toggle-dot{
+    transform:translateX(21px)!important;
+  }
+}
+
+@media(max-width:480px){
+  .nav-shell{
+    width:calc(100% - 20px)!important;
+    gap:6px!important;
+  }
+
+  .brand-logo{
+    width:clamp(100px,30vw,126px)!important;
+    height:40px!important;
+  }
+
+  .theme-toggle{
+    width:54px!important;
+    height:34px!important;
+  }
+
+  .search-button,
+  .menu-button{
+    width:36px!important;
+    height:36px!important;
+  }
+
+  html.light-mode .toggle-dot{
+    transform:translateX(18px)!important;
+  }
+}
+
+@media(max-width:380px){
+  .brand-logo{
+    width:96px!important;
+  }
+
+  .nav-actions{
+    gap:5px!important;
+  }
+
+  .theme-toggle{
+    width:50px!important;
+  }
+
+  .search-button,
+  .menu-button{
+    width:34px!important;
+    height:34px!important;
+  }
+}
