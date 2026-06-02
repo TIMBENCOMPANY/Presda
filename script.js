@@ -704,7 +704,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-market-ticker-20260602`;
+const versioned = (src) => `${src}?v=presda-all-hero-rotation-20260602`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
@@ -1019,9 +1019,8 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
   if (!shell || !title || !excerpt || !image || !progress || !Array.isArray(articles)) return;
 
   const featuredStories = articles
-    .filter((article) => article.featured)
     .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .slice(0, 6);
+    .filter((article, index, list) => list.findIndex((item) => item.slug === article.slug) === index);
   if (!featuredStories.length) return;
 
   const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({

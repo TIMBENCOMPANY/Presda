@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-market-ticker-20260602";
+const cacheVersion = "presda-all-hero-rotation-20260602";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -288,7 +288,7 @@ ${breakingTicker()}`;
 }
 
 function homePage() {
-  const featured = articles.find((article) => article.featured) || articles[0];
+  const featured = articles[0];
   const featuredArticles = articles.filter((article) => article.featured);
   const trendingArticles = articles.filter((article) => article.trending).slice(0, 6);
   const latestArticles = [...articles].sort((a, b) => new Date(b.date) - new Date(a.date));
