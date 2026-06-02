@@ -4,13 +4,16 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-phase3-20260602";
+const cacheVersion = "presda-market-ticker-20260602";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
 if (!match) throw new Error("Could not find articleRecords array in script.js");
+const marketMatch = script.match(/const marketTickerRecords = ([\s\S]*?\n\];)/);
+if (!marketMatch) throw new Error("Could not find marketTickerRecords array in script.js");
 
 const articleRecords = vm.runInNewContext(match[1]);
+const marketTickerRecords = vm.runInNewContext(marketMatch[1]);
 const categories = ["AI", "Business", "Sport", "World", "Paparazzi", "Lifestyle", "Travel"];
 
 const esc = (value = "") =>
@@ -168,7 +171,26 @@ function footer() {
     .replace('</section>', '</footer>');
 }
 
-function ticker() {
+function marketTicker() {
+  const marketItems = [...marketTickerRecords, ...marketTickerRecords];
+  return `      <section class="market-ticker" aria-label="Market ticker">
+        <div class="market-ticker-inner">
+          <strong>Markets</strong>
+          <div class="market-ticker-window">
+            <div class="market-ticker-track" data-market-ticker-track>
+              ${marketItems.map((item) => `<span class="market-ticker-item trend-${esc(item.trend)}">
+                <span class="market-logo" aria-hidden="true">${esc(item.logo)}</span>
+                <span class="market-name">${esc(item.name)}</span>
+                <span class="market-price">${esc(item.price)}</span>
+                <span class="market-change">${esc(item.changePercent)}</span>
+              </span>`).join("")}
+            </div>
+          </div>
+        </div>
+      </section>`;
+}
+
+function breakingTicker() {
   const headlines = [...articles.slice(0, 6), ...articles.slice(0, 6)];
   return `      <section class="ticker" aria-label="Breaking news">
         <div class="ticker-inner">
@@ -258,6 +280,11 @@ function socialSection() {
           </div>
         </div>
       </section>`;
+}
+
+function ticker() {
+  return `${marketTicker()}
+${breakingTicker()}`;
 }
 
 function homePage() {

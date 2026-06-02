@@ -1,6 +1,20 @@
 const root = document.documentElement;
 const body = document.body;
 
+const marketTickerRecords = [
+  { symbol: "NVDA", name: "NVIDIA", logo: "NV", price: "$1,142.80", changePercent: "+2.14%", trend: "gain" },
+  { symbol: "AAPL", name: "Apple", logo: "A", price: "$214.35", changePercent: "-0.42%", trend: "loss" },
+  { symbol: "MSFT", name: "Microsoft", logo: "M", price: "$486.21", changePercent: "+0.88%", trend: "gain" },
+  { symbol: "GOOGL", name: "Google", logo: "G", price: "$196.70", changePercent: "+1.12%", trend: "gain" },
+  { symbol: "AMZN", name: "Amazon", logo: "a", price: "$221.18", changePercent: "-0.31%", trend: "loss" },
+  { symbol: "META", name: "Meta", logo: "∞", price: "$681.44", changePercent: "+1.47%", trend: "gain" },
+  { symbol: "BTC", name: "Bitcoin", logo: "₿", price: "$109,420", changePercent: "+3.06%", trend: "gain" },
+  { symbol: "XAU", name: "Gold", logo: "Au", price: "$3,342.10", changePercent: "+0.36%", trend: "gain" },
+  { symbol: "WTI", name: "Oil", logo: "Oil", price: "$78.64", changePercent: "-1.18%", trend: "loss" },
+  { symbol: "EURUSD", name: "EUR/USD", logo: "€/$", price: "1.0874", changePercent: "+0.09%", trend: "gain" },
+  { symbol: "USDMAD", name: "USD/MAD", logo: "$/د", price: "9.92", changePercent: "-0.12%", trend: "loss" }
+];
+
 const articleRecords = [
   {
     title: "Top 10 Hidden Gems To Visit In 2026",
@@ -690,7 +704,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-phase3-20260602`;
+const versioned = (src) => `${src}?v=presda-market-ticker-20260602`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
