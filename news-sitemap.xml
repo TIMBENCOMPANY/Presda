@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://presda.com/articles/the-last-dance-footballs-greatest-generation/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PRESDA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03</news:publication_date>
+      <news:title>The Last Dance: Football&#39;s Greatest Generation Approaches The Final Chapter</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://presda.com/articles/top-10-hidden-gems-to-visit-in-2026/</loc>
     <news:news>
       <news:publication>

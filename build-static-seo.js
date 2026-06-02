@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-all-hero-rotation-20260602";
+const cacheVersion = "presda-last-dance-20260603";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -15,6 +15,8 @@ if (!marketMatch) throw new Error("Could not find marketTickerRecords array in s
 const articleRecords = vm.runInNewContext(match[1]);
 const marketTickerRecords = vm.runInNewContext(marketMatch[1]);
 const categories = ["AI", "Business", "Sport", "World", "Paparazzi", "Lifestyle", "Travel"];
+const hubCategories = ["World Cup 2026"];
+const contentCategories = [...categories, ...hubCategories];
 
 const esc = (value = "") =>
   String(value).replace(/[&<>"']/g, (char) => ({
@@ -34,6 +36,9 @@ const slugify = (value = "") =>
     .replace(/['’]/g, "")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
+const categorySlug = (category) => slugify(category);
+const articleCategories = (article) =>
+  [...new Set([article.category, article.secondaryCategory, ...(article.secondaryCategories || [])].filter(Boolean))];
 
 const articles = articleRecords
   .map((article, index) => {
@@ -214,7 +219,7 @@ function articleCard(article, size = "standard") {
         <img src="${imageWithVersion(article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" loading="lazy" data-article-image-slug="${esc(article.slug)}" ${mediaAttrs(article)} />
       </figure>
       <div>
-        <span class="category-tag category-${esc(article.category).toLowerCase()}">${esc(article.category)}</span>
+        <span class="category-tag category-${esc(categorySlug(article.category))}">${esc(article.category)}</span>
         <h3>${titleHtml(article)}</h3>
         <p>${textHtml(article, article.excerpt)}</p>
         <small><time datetime="${esc(article.date)}">${formatDate(article.date)}</time><span class="read-time-badge">${esc(article.readingTime)}</span></small>
@@ -295,13 +300,13 @@ function homePage() {
   const mostReadArticles = articles.filter((article) => article.mostRead).concat(articles).filter((article, index, arr) => arr.findIndex((item) => item.slug === article.slug) === index).slice(0, 4);
   const editorPickArticles = articles.filter((article) => article.editorPick).concat(articles).filter((article, index, arr) => arr.findIndex((item) => item.slug === article.slug) === index).slice(0, 4);
   const featuredGrid = featuredArticles.filter((article) => article.slug !== featured.slug).slice(0, 5).map((article, index) => articleCard(article, index === 0 ? "large" : "standard")).join("");
-  const categoryGrid = categories.map((category) => `<a class="category-tile" href="/category/${category.toLowerCase()}/">
+  const categoryGrid = categories.map((category) => `<a class="category-tile" href="/category/${categorySlug(category)}/">
           <span class="category-icon">${categoryIcon(category)}</span>
           <span class="category-name">${category}</span>
-          <strong>${articles.filter((article) => article.category === category).length}</strong>
+          <strong>${articles.filter((article) => articleCategories(article).includes(category)).length}</strong>
         </a>`).join("");
   const categorySections = categories.map((category) => {
-    const categoryArticles = articles.filter((article) => article.category === category);
+    const categoryArticles = articles.filter((article) => articleCategories(article).includes(category));
     if (!categoryArticles.length) return "";
     const [lead, ...rest] = categoryArticles;
     const fallback = articles[(articles.indexOf(lead) + 1) % articles.length];
@@ -451,13 +456,17 @@ ${analytics()}
 }
 
 function articlePage(article) {
-  const related = articles.filter((item) => item.category === article.category && item.id !== article.id)
+  const currentCategories = articleCategories(article);
+  const related = articles.filter((item) => item.id !== article.id && articleCategories(item).some((category) => currentCategories.includes(category)))
     .concat(articles.filter((item) => item.id !== article.id))
+    .filter((item, index, list) => list.findIndex((candidate) => candidate.slug === item.slug) === index)
     .slice(0, 3);
   const articleIndex = articles.findIndex((item) => item.id === article.id);
   const previousArticle = articles[(articleIndex + 1) % articles.length];
   const nextArticle = articles[(articleIndex - 1 + articles.length) % articles.length];
   const canonical = absoluteArticleUrl(article);
+  const seoTitle = article.seoTitle || `${article.title} | PRESDA`;
+  const seoDescription = article.metaDescription || article.excerpt;
   const articleContent = article.content.map((block, index) => {
     if (String(block).startsWith("## ")) {
       return `<h2>${textHtml(article, String(block).slice(3))}</h2>`;
@@ -472,7 +481,7 @@ function articlePage(article) {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     headline: article.title,
-    description: article.excerpt,
+    description: seoDescription,
     image: [absoluteImage(article.imageDark || article.image)],
     datePublished: article.date,
     dateModified: article.date,
@@ -498,8 +507,8 @@ function articlePage(article) {
 <html lang="en">
   <head>
 ${commonHead({
-  title: `${article.title} | PRESDA`,
-  description: article.excerpt,
+  title: seoTitle,
+  description: seoDescription,
   canonical,
   image: article.imageDark || article.image,
   type: "article",
@@ -573,9 +582,9 @@ ${analytics()}
 }
 
 function categoryPage(category) {
-  const items = articles.filter((article) => article.category === category);
+  const items = articles.filter((article) => articleCategories(article).includes(category));
   const featured = items[0] || articles[0];
-  const canonical = `${siteUrl}/category/${category.toLowerCase()}/`;
+  const canonical = `${siteUrl}/category/${categorySlug(category)}/`;
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -970,8 +979,8 @@ for (const article of articles) {
 
 const categoryDir = path.join(root, "category");
 fs.mkdirSync(categoryDir, { recursive: true });
-for (const category of categories) {
-  const dir = path.join(categoryDir, category.toLowerCase());
+for (const category of contentCategories) {
+  const dir = path.join(categoryDir, categorySlug(category));
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, "index.html"), categoryPage(category));
 }
@@ -1032,8 +1041,8 @@ ${articles.map((article) => `  <url>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>`).join("\n")}
-${categories.map((category) => `  <url>
-    <loc>${siteUrl}/category/${category.toLowerCase()}/</loc>
+${contentCategories.map((category) => `  <url>
+    <loc>${siteUrl}/category/${categorySlug(category)}/</loc>
     <lastmod>${articles[0].date}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

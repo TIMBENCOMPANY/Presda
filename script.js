@@ -669,6 +669,58 @@ const articleRecords = [
     ],
     tags: ["Sport", "Real Madrid", "Football"],
     highlightTerms: ["Mourinho", "Real Madrid", "football"]
+  },
+  {
+    id: "010",
+    slug: "the-last-dance-footballs-greatest-generation",
+    title: "The Last Dance: Football's Greatest Generation Approaches The Final Chapter",
+    seoTitle: "The Last Dance: Messi, Ronaldo And Neymar Approach The Final Chapter",
+    metaDescription: "Lionel Messi, Cristiano Ronaldo, and Neymar defined modern football for nearly two decades. As the 2026 World Cup approaches, PRESDA looks at the possible final chapter of a legendary generation.",
+    category: "World Cup 2026",
+    secondaryCategory: "Sport",
+    date: "2026-06-03",
+    author: "PRESDA Editorial",
+    readingTime: "7 MIN READ",
+    source: "PRESDA Sport Desk",
+    imageDark: "/images/articles/the-last-dance-football-2026.png",
+    imageLight: "/images/articles/the-last-dance-football-2026.png",
+    imageFit: "cover",
+    imagePosition: "center center",
+    imageAlt: "Lionel Messi, Cristiano Ronaldo, and Neymar walking toward a stadium for the 2026 World Cup final chapter",
+    excerpt: "As the 2026 World Cup approaches, Lionel Messi, Cristiano Ronaldo, and Neymar stand near the final chapter of an era that shaped modern football.",
+    content: [
+      "For nearly two decades, world football has been defined by three names that transcended the sport itself: Lionel Messi, Cristiano Ronaldo, and Neymar Jr. Their goals, trophies, rivalries, and unforgettable moments shaped an entire era, creating memories that millions of fans will carry for a lifetime. As the countdown to the 2026 FIFA World Cup continues, football supporters around the globe are beginning to realize that they may be witnessing the final international chapter of a generation unlike any other.",
+      "The story began long before social media transformed athletes into global icons. Cristiano Ronaldo emerged from Portugal with extraordinary ambition and unmatched dedication. Lionel Messi arrived from Argentina with a level of natural talent rarely seen in football history. Years later, Neymar brought creativity, flair, and entertainment to a new generation of fans. Together, they transformed football into a truly global spectacle.",
+      "## A rivalry that defined modern football",
+      "The rivalry between Messi and Ronaldo became the defining sporting debate of the 21st century. Every season seemed to produce a new record, a new trophy, or a new unforgettable performance. Their battle pushed both players to levels many experts once believed were impossible. Goalscoring records were shattered, Ballon d'Or awards were exchanged, and Champions League nights became stages for football history.",
+      "While Messi and Ronaldo often dominated headlines, Neymar carved his own unique path. From Santos to Barcelona, Paris Saint-Germain, and beyond, the Brazilian superstar became one of the most recognizable athletes on the planet. His creativity, dribbling ability, and fearless style made him a symbol of football's artistic side. At his peak, Neymar was capable of changing an entire match with a single moment of brilliance.",
+      "## Three different journeys, one global era",
+      "The numbers behind this generation are extraordinary. Between them, Messi, Ronaldo, and Neymar have scored thousands of professional goals, won countless domestic and international trophies, and generated billions of interactions across digital platforms. Their influence has extended far beyond football stadiums. They became cultural figures, marketing powerhouses, and inspirations for young athletes worldwide.",
+      "Perhaps the most remarkable aspect of their era is how long it lasted. Football is a sport where careers can rise and fall quickly, yet these three stars remained at the highest level for well over a decade. Fans who watched them as teenagers are now adults. Children who grew up wearing their jerseys are now introducing them to a new generation. Few sporting eras have maintained such relevance for so many years.",
+      "## The World Cup stage adds emotion",
+      "The 2026 World Cup adds a special emotional dimension to their stories. The tournament begins on June 11, 2026, and ends with the final on July 19, 2026, giving football fans another opportunity to witness the biggest stage in the sport.",
+      "For Messi, the tournament represents an opportunity to enjoy football on the global stage after already completing his greatest dream by winning the World Cup with Argentina in 2022. His legacy is secure, yet his presence alone continues to inspire millions around the world.",
+      "Cristiano Ronaldo approaches the tournament with the same determination that has defined his entire career. Even after breaking countless records, he continues to pursue new challenges and push the limits of longevity in professional sports. Whether on the international stage or at club level, Ronaldo remains one of the most competitive athletes football has ever seen.",
+      "For Neymar, the World Cup carries a different significance. Injuries have interrupted several key moments in his career, but his talent has never been questioned. Many supporters hope that 2026 will provide one final opportunity for Neymar to showcase his brilliance on football's grandest stage. When healthy and confident, few players have ever produced football as entertaining as Neymar.",
+      "## Beyond trophies and statistics",
+      "The impact of these three legends extends beyond trophies and statistics. They helped transform football into a truly global entertainment industry. Television audiences expanded dramatically during their era. Social media platforms became essential parts of football culture. Young players from every continent found role models in their achievements, work ethic, personality, and style.",
+      "Football itself also changed. Tactical systems evolved, sports science advanced, and clubs became global brands. Through all these transformations, Messi, Ronaldo, and Neymar remained at the center of the conversation. Their ability to adapt, reinvent themselves, and remain relevant through changing eras is one of the reasons their generation is so highly respected.",
+      "## The next generation is waiting",
+      "As new stars such as Kylian Mbappé, Jude Bellingham, Lamine Yamal, Vinicius Jr., Erling Haaland, and others prepare to lead football into the future, the sport finds itself at an important crossroads. The next generation possesses extraordinary talent, but replacing the cultural impact of Messi, Ronaldo, and Neymar will not be easy.",
+      "Their influence extends beyond goals and assists. They became symbols of excellence, ambition, creativity, and passion. Messi represented genius and control. Ronaldo represented discipline and obsession. Neymar represented joy, flair, and imagination. Together, they offered football three different versions of greatness.",
+      "## Why fans call it The Last Dance",
+      "Fans understand that every sporting era eventually comes to an end. Legends retire, records are broken, and new heroes emerge. Yet some generations leave a permanent mark on history. The era of Messi, Ronaldo, and Neymar belongs in that category. Their careers inspired debates, emotions, celebrations, rivalries, and memories that will remain part of football culture forever.",
+      "That is why the phrase \"The Last Dance\" resonates so strongly with supporters today. It is not simply about one tournament or one final appearance. It is about recognizing the closing chapter of an extraordinary period in football history. A generation that elevated the sport to new heights is gradually approaching its final act.",
+      "Whether the 2026 World Cup becomes their final international tournament or not, one thing is certain: football will never forget what these three icons achieved. The stadiums may change, the champions may change, and the stars of tomorrow will eventually take center stage. But the era of Lionel Messi, Cristiano Ronaldo, and Neymar will forever remain one of the greatest chapters ever written in the history of football.",
+      "Three legends. Three different journeys. One unforgettable era.",
+      "Perhaps that is why the world is already calling it The Last Dance."
+    ],
+    tags: ["Sport", "World Cup 2026", "Football", "Messi", "Ronaldo", "Neymar"],
+    highlightTerms: ["The Last Dance", "Messi", "Ronaldo", "Neymar", "World Cup 2026"],
+    featured: true,
+    trending: true,
+    editorPick: true,
+    mostRead: true
   }
 ];
 
@@ -680,6 +732,9 @@ const slugify = (value = "") =>
     .replace(/['’]/g, "")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
+const categorySlug = (category) => slugify(category);
+const articleCategories = (article) =>
+  [...new Set([article.category, article.secondaryCategory, ...(article.secondaryCategories || [])].filter(Boolean))];
 
 const articles = articleRecords
   .map((article, index) => {
@@ -704,7 +759,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-all-hero-rotation-20260602`;
+const versioned = (src) => `${src}?v=presda-last-dance-20260603`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
@@ -775,9 +830,9 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
   const articleUrl = (article) => `/articles/${article.slug}/`;
   const searchable = articles.map((article) => ({
     ...article,
-    searchText: normalize(`${article.title} ${article.excerpt} ${article.category} ${(article.content || []).join(" ")} ${(article.tags || []).join(" ")}`)
+    searchText: normalize(`${article.title} ${article.excerpt} ${articleCategories(article).join(" ")} ${(article.content || []).join(" ")} ${(article.tags || []).join(" ")}`)
   }));
-  const allCategories = [...new Set(articles.map((article) => article.category))].sort();
+  const allCategories = [...new Set(articles.flatMap((article) => articleCategories(article)))].sort();
   let activeIndex = -1;
   let loadingTimer;
 
@@ -823,10 +878,10 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
   `;
 
   const categoryCard = (category) => `
-    <a class="search-category-card" href="/category/${category.toLowerCase()}/" role="option" tabindex="-1">
+    <a class="search-category-card" href="/category/${categorySlug(category)}/" role="option" tabindex="-1">
       <span>Category</span>
       <strong>${escapeHtml(category)}</strong>
-      <small>${articles.filter((article) => article.category === category).length} PRESDA articles</small>
+      <small>${articles.filter((article) => articleCategories(article).includes(category)).length} PRESDA articles</small>
     </a>
   `;
 
@@ -861,7 +916,7 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
     }
 
     const matchingArticles = searchable.filter((article) => article.searchText.includes(query)).slice(0, 8);
-    const matchingCategories = allCategories.filter((category) => normalize(category).includes(query) || searchable.some((article) => article.category === category && article.searchText.includes(query))).slice(0, 6);
+    const matchingCategories = allCategories.filter((category) => normalize(category).includes(query) || searchable.some((article) => articleCategories(article).includes(category) && article.searchText.includes(query))).slice(0, 6);
 
     if (!matchingArticles.length && !matchingCategories.length) {
       results.innerHTML = `<div class="search-empty">No results found</div>${section("Latest Articles", articles.slice(0, 3).map((article) => resultCard(article)).join(""))}`;
