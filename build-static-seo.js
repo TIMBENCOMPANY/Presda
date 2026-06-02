@@ -420,6 +420,9 @@ function articlePage(article) {
   const related = articles.filter((item) => item.category === article.category && item.id !== article.id)
     .concat(articles.filter((item) => item.id !== article.id))
     .slice(0, 3);
+  const articleIndex = articles.findIndex((item) => item.id === article.id);
+  const previousArticle = articles[(articleIndex + 1) % articles.length];
+  const nextArticle = articles[(articleIndex - 1 + articles.length) % articles.length];
   const canonical = absoluteArticleUrl(article);
   const articleContent = article.content.map((block, index) => {
     if (String(block).startsWith("## ")) {
@@ -472,6 +475,7 @@ ${commonHead({
     <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
   </head>
   <body data-article-page>
+    <div class="reading-progress" aria-hidden="true"><span></span></div>
 ${header()}
 
     <main>
@@ -504,12 +508,23 @@ ${ticker()}
           </aside>
           <div class="article-content" data-article-content>${articleContent}</div>
         </div>
+
+        <nav class="article-pagination" aria-label="Previous and next articles">
+          <a href="${articleUrl(previousArticle)}" rel="prev">
+            <span>Previous Article</span>
+            <strong>${titleHtml(previousArticle)}</strong>
+          </a>
+          <a href="${articleUrl(nextArticle)}" rel="next">
+            <span>Next Article</span>
+            <strong>${titleHtml(nextArticle)}</strong>
+          </a>
+        </nav>
       </article>
 
       <section class="content-section related-section">
         <div class="section-title">
-          <span>Related</span>
-          <h2>Continue Reading</h2>
+          <span>Related Articles</span>
+          <h2>RELATED ARTICLES</h2>
         </div>
         <div class="featured-grid related-grid" data-related-grid>${related.map((item) => articleCard(item)).join("")}</div>
       </section>
@@ -574,8 +589,130 @@ ${analytics()}
 `;
 }
 
+function staticInfoPage({ slug, title, description, eyebrow, heading, sections }) {
+  const canonical = `${siteUrl}/${slug}/`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: title,
+    description,
+    url: canonical,
+    publisher: {
+      "@type": "Organization",
+      name: "PRESDA",
+      logo: {
+        "@type": "ImageObject",
+        url: `${siteUrl}/logo-light.png`
+      }
+    }
+  };
+
+  return `<!DOCTYPE html>
+<html lang="en">
+  <head>
+${commonHead({
+  title,
+  description,
+  canonical,
+  image: "/logo-light.png"
+})}
+    <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+  </head>
+  <body data-info-page>
+${header()}
+
+    <main>
+${ticker()}
+
+      <section class="content-section info-page-hero">
+        <div class="section-title">
+          <span>${esc(eyebrow)}</span>
+          <h1>${esc(heading)}</h1>
+        </div>
+        <p>${esc(description)}</p>
+      </section>
+
+      <section class="content-section info-page-content">
+        ${sections.map((section) => `<article class="info-block">
+          <h2>${esc(section.title)}</h2>
+          ${section.body.map((paragraph) => `<p>${esc(paragraph)}</p>`).join("")}
+        </article>`).join("")}
+      </section>
+    </main>
+
+${footer()}
+
+${analytics()}
+  </body>
+</html>
+`;
+}
+
+function aboutPage() {
+  return staticInfoPage({
+    slug: "about",
+    title: "About PRESDA | Futuristic News & Digital Media",
+    description: "Learn about PRESDA, a futuristic digital media platform covering AI, business, sport, world affairs, paparazzi, travel, and culture with premium editorial standards.",
+    eyebrow: "About",
+    heading: "About PRESDA",
+    sections: [
+      { title: "About PRESDA", body: ["PRESDA is a modern digital news magazine built for readers who want fast, visual, and trustworthy coverage without losing editorial depth. The brand combines cinematic presentation with clear reporting across technology, sport, business, world affairs, travel, and culture."] },
+      { title: "Our Mission", body: ["Our mission is to make complex stories easier to understand through premium visual storytelling, disciplined writing, and a clean editorial experience. PRESDA is designed for readers who want context, not noise."] },
+      { title: "What We Cover", body: ["PRESDA covers AI, business, sport, world news, paparazzi, lifestyle, and travel. Each desk is organized around clarity, relevance, and strong presentation so readers can move quickly from headline to meaning."] },
+      { title: "AI", body: ["Our AI coverage follows model releases, robotics, automation, business adoption, ethics, creative tools, and the cultural impact of intelligent systems."] },
+      { title: "Business", body: ["Our business desk tracks global companies, markets, founders, technology platforms, investment signals, and the economic forces shaping modern life."] },
+      { title: "Sport", body: ["PRESDA sport coverage focuses on football, major tournaments, elite managers, fan culture, sports business, and the global spectacle around competition."] },
+      { title: "World", body: ["The world desk covers international developments, humanitarian issues, cities, diplomacy, infrastructure, and stories that reveal how global life is changing."] },
+      { title: "Paparazzi", body: ["Our paparazzi and culture coverage follows celebrity stories, public image, entertainment media, online speculation, and the human side of fame."] },
+      { title: "Travel", body: ["The travel desk highlights destinations, hidden gems, future cities, cultural experiences, and premium journeys for readers who value authenticity."] },
+      { title: "Editorial Standards", body: ["PRESDA aims to publish accurate, readable, and respectful stories. We avoid unnecessary sensationalism, separate verified facts from speculation, and keep article text accessible for readers, search engines, translation, and mobile reading."] },
+      { title: "Contact", body: ["For editorial, partnership, or general inquiries, contact PRESDA at contact@presda.com or visit the contact page."] }
+    ]
+  });
+}
+
+function privacyPage() {
+  return staticInfoPage({
+    slug: "privacy",
+    title: "Privacy Policy | PRESDA",
+    description: "Read the PRESDA Privacy Policy covering cookies, analytics, newsletter data, contact forms, user rights, and responsible data handling.",
+    eyebrow: "Policy",
+    heading: "Privacy Policy",
+    sections: [
+      { title: "Cookies", body: ["PRESDA may use cookies or similar technologies to improve site performance, remember basic preferences such as display mode, and understand how visitors interact with the website."] },
+      { title: "Analytics", body: ["PRESDA uses privacy-conscious analytics tools, including Vercel Web Analytics, to understand traffic patterns, page performance, and general audience engagement. Analytics data is used to improve the website experience."] },
+      { title: "Newsletter", body: ["If you subscribe to a PRESDA newsletter, we may collect your email address for the purpose of sending editorial updates. You should only submit an email address you are authorized to use."] },
+      { title: "Contact Forms", body: ["When you contact PRESDA, we may receive your email address and message content. This information is used to respond to your inquiry and manage communication."] },
+      { title: "User Rights", body: ["Depending on your location, you may have rights to request access, correction, or deletion of personal information you have provided. You can contact PRESDA at contact@presda.com for privacy-related requests."] },
+      { title: "Data Handling", body: ["PRESDA aims to handle user data responsibly and limit collection to information needed for site functionality, communication, analytics, and editorial service improvement."] }
+    ]
+  });
+}
+
+function termsPage() {
+  return staticInfoPage({
+    slug: "terms",
+    title: "Terms & Conditions | PRESDA",
+    description: "Read the PRESDA Terms and Conditions covering copyright, content usage, user responsibilities, and liability disclaimers.",
+    eyebrow: "Terms",
+    heading: "Terms & Conditions",
+    sections: [
+      { title: "Copyright", body: ["All PRESDA text, design, branding, layout, and original editorial material are protected by copyright unless otherwise stated. Article images and visual assets may be subject to their own rights and usage restrictions."] },
+      { title: "Content Usage", body: ["You may share links to PRESDA articles for personal and editorial reference. Copying, republishing, selling, or redistributing PRESDA content without permission is not allowed."] },
+      { title: "User Responsibilities", body: ["Visitors are expected to use PRESDA responsibly, avoid misuse of site features, and respect intellectual property, privacy, and applicable laws."] },
+      { title: "Liability Disclaimer", body: ["PRESDA provides news, commentary, and editorial information for general reading purposes. While we aim for accuracy, content may change over time and should not be treated as professional legal, financial, medical, or investment advice."] }
+    ]
+  });
+}
+
 fs.writeFileSync(path.join(root, "index.html"), homePage());
 fs.writeFileSync(path.join(root, "article.html"), articlePage(articles[0]));
+
+for (const [slug, html] of [["about", aboutPage()], ["privacy", privacyPage()], ["terms", termsPage()]]) {
+  const dir = path.join(root, slug);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, "index.html"), html);
+}
 
 const articlesDir = path.join(root, "articles");
 fs.mkdirSync(articlesDir, { recursive: true });
@@ -606,6 +743,24 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
     <lastmod>${articles[0].date}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>${siteUrl}/about/</loc>
+    <lastmod>${articles[0].date}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>${siteUrl}/privacy/</loc>
+    <lastmod>${articles[0].date}</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>${siteUrl}/terms/</loc>
+    <lastmod>${articles[0].date}</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 ${articles.map((article) => `  <url>
     <loc>${absoluteArticleUrl(article)}</loc>

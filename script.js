@@ -757,12 +757,15 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
     "'": "&#39;"
   })[char]);
 
-  const normalize = (value = "") => String(value).toLowerCase().trim();
+  const normalize = (value = "") => String(value).toLowerCase().replace(/\s+/g, " ").trim();
   const articleUrl = (article) => `/articles/${article.slug}/`;
   const searchable = articles.map((article) => ({
     ...article,
-    searchText: normalize(`${article.title} ${article.excerpt} ${article.category}`)
+    searchText: normalize(`${article.title} ${article.excerpt} ${article.category} ${(article.content || []).join(" ")} ${(article.tags || []).join(" ")}`)
   }));
+  const allCategories = [...new Set(articles.map((article) => article.category))].sort();
+  let activeIndex = -1;
+  let loadingTimer;
 
   const overlay = document.createElement("div");
   overlay.className = "search-panel";
@@ -779,9 +782,9 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
       </div>
       <label class="search-field">
         <span class="sr-only">Search articles</span>
-        <input type="search" placeholder="Search AI, Sport, World..." autocomplete="off" />
+        <input type="search" placeholder="Search PRESDA..." autocomplete="off" aria-controls="presda-search-results" />
       </label>
-      <div class="search-results" role="listbox" aria-label="Search results"></div>
+      <div class="search-results" id="presda-search-results" role="listbox" aria-label="Search results"></div>
     </section>
   `;
   document.body.appendChild(overlay);
@@ -790,26 +793,79 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
   const results = overlay.querySelector(".search-results");
   const closeButtons = overlay.querySelectorAll("[data-search-close]");
 
-  const resultCard = (article) => `
-    <a class="search-result-card" href="${articleUrl(article)}" role="option">
+  const highlightMatch = (value, query) => {
+    const safeValue = escapeHtml(value);
+    if (!query) return safeValue;
+    const safeQuery = escapeHtml(query).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    return safeValue.replace(new RegExp(`(${safeQuery})`, "ig"), "<mark>$1</mark>");
+  };
+
+  const resultCard = (article, query = "") => `
+    <a class="search-result-card" href="${articleUrl(article)}" role="option" tabindex="-1">
       <span>${escapeHtml(article.category)}</span>
-      <strong>${escapeHtml(article.title)}</strong>
+      <strong>${highlightMatch(article.title, query)}</strong>
       <small>${escapeHtml(article.excerpt)}</small>
     </a>
   `;
 
-  const render = () => {
-    const query = normalize(input.value);
-    const matches = query
-      ? searchable.filter((article) => article.searchText.includes(query)).slice(0, 8)
-      : searchable.slice(0, 6);
+  const categoryCard = (category) => `
+    <a class="search-category-card" href="/category/${category.toLowerCase()}/" role="option" tabindex="-1">
+      <span>Category</span>
+      <strong>${escapeHtml(category)}</strong>
+      <small>${articles.filter((article) => article.category === category).length} PRESDA articles</small>
+    </a>
+  `;
 
-    if (!matches.length) {
-      results.innerHTML = `<div class="search-empty">No results found</div>`;
+  const section = (title, body) => body ? `<div class="search-group"><h3>${escapeHtml(title)}</h3><div class="search-group-grid">${body}</div></div>` : "";
+
+  const setActive = (index) => {
+    const options = [...results.querySelectorAll("[role='option']")];
+    if (!options.length) {
+      activeIndex = -1;
+      return;
+    }
+    activeIndex = (index + options.length) % options.length;
+    options.forEach((option, optionIndex) => {
+      const isActive = optionIndex === activeIndex;
+      option.classList.toggle("is-active", isActive);
+      option.setAttribute("aria-selected", String(isActive));
+      if (isActive) option.scrollIntoView({ block: "nearest" });
+    });
+  };
+
+  const renderResults = () => {
+    const rawQuery = input.value.trim();
+    const query = normalize(rawQuery);
+    activeIndex = -1;
+
+    if (!query) {
+      const latest = articles.slice(0, 4).map((article) => resultCard(article)).join("");
+      const trending = articles.filter((article) => article.trending).slice(0, 4).map((article) => resultCard(article)).join("");
+      const categories = allCategories.slice(0, 8).map(categoryCard).join("");
+      results.innerHTML = `<div class="search-empty search-empty-soft">Start typing to search titles, categories, and full article text.</div>${section("Latest Articles", latest)}${section("Trending Articles", trending)}${section("Matching Categories", categories)}`;
       return;
     }
 
-    results.innerHTML = matches.map(resultCard).join("");
+    const matchingArticles = searchable.filter((article) => article.searchText.includes(query)).slice(0, 8);
+    const matchingCategories = allCategories.filter((category) => normalize(category).includes(query) || searchable.some((article) => article.category === category && article.searchText.includes(query))).slice(0, 6);
+
+    if (!matchingArticles.length && !matchingCategories.length) {
+      results.innerHTML = `<div class="search-empty">No results found</div>${section("Latest Articles", articles.slice(0, 3).map((article) => resultCard(article)).join(""))}`;
+      return;
+    }
+
+    results.innerHTML = [
+      section("Matching Articles", matchingArticles.map((article) => resultCard(article, rawQuery)).join("")),
+      section("Matching Categories", matchingCategories.map(categoryCard).join("")),
+      section("Latest Articles", articles.slice(0, 3).map((article) => resultCard(article)).join("")),
+      section("Trending Articles", articles.filter((article) => article.trending).slice(0, 3).map((article) => resultCard(article)).join(""))
+    ].join("");
+  };
+
+  const render = () => {
+    results.innerHTML = `<div class="search-empty">Loading...</div>`;
+    window.clearTimeout(loadingTimer);
+    loadingTimer = window.setTimeout(renderResults, 120);
   };
 
   const open = () => {
@@ -825,30 +881,110 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
     overlay.setAttribute("aria-hidden", "true");
     document.body.classList.remove("search-is-open");
     input.value = "";
+    activeIndex = -1;
     searchButton.focus();
   };
 
   searchButton.addEventListener("click", open);
   input.addEventListener("input", render);
+  input.addEventListener("keydown", (event) => {
+    const options = [...results.querySelectorAll("[role='option']")];
+    if (event.key === "ArrowDown") {
+      event.preventDefault();
+      setActive(activeIndex + 1);
+    }
+    if (event.key === "ArrowUp") {
+      event.preventDefault();
+      setActive(activeIndex - 1);
+    }
+    if (event.key === "Enter" && activeIndex >= 0 && options[activeIndex]) {
+      event.preventDefault();
+      options[activeIndex].click();
+    }
+  });
   closeButtons.forEach((button) => button.addEventListener("click", close));
   overlay.addEventListener("click", (event) => {
     if (event.target.closest(".search-result-card")) close();
   });
   document.addEventListener("keydown", (event) => {
+    const target = event.target;
+    const isTyping = target instanceof HTMLInputElement || target instanceof HTMLTextAreaElement || target?.isContentEditable;
+    if (!overlay.classList.contains("is-open") && ((event.key === "k" && (event.ctrlKey || event.metaKey)) || (event.key === "/" && !isTyping))) {
+      event.preventDefault();
+      open();
+      return;
+    }
     if (event.key === "Escape" && overlay.classList.contains("is-open")) close();
   });
 })();
 
-document.querySelector(".newsletter-form")?.addEventListener("submit", (event) => {
-  event.preventDefault();
-  const button = event.currentTarget.querySelector("button");
-  if (!button) return;
-  const original = button.textContent;
-  button.textContent = "Subscribed";
-  window.setTimeout(() => {
-    button.textContent = original;
-  }, 1600);
+document.querySelectorAll(".newsletter-form").forEach((form) => {
+  form.noValidate = true;
+  const input = form.querySelector("input[type='email']");
+  const button = form.querySelector("button");
+  const status = document.createElement("p");
+  status.className = "newsletter-status";
+  status.setAttribute("role", "status");
+  status.setAttribute("aria-live", "polite");
+  form.appendChild(status);
+
+  const setStatus = (message, type) => {
+    status.textContent = message;
+    status.dataset.state = type;
+  };
+
+  input?.addEventListener("input", () => {
+    if (status.textContent) setStatus("", "");
+    input.removeAttribute("aria-invalid");
+  });
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    if (!input || !button) return;
+    const email = input.value.trim();
+    const isValid = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email);
+    if (!email) {
+      input.setAttribute("aria-invalid", "true");
+      setStatus("Enter your email to join the PRESDA briefing.", "error");
+      input.focus();
+      return;
+    }
+    if (!isValid) {
+      input.setAttribute("aria-invalid", "true");
+      setStatus("Please enter a valid email address.", "error");
+      input.focus();
+      return;
+    }
+    input.removeAttribute("aria-invalid");
+    const original = button.textContent;
+    button.disabled = true;
+    button.textContent = "Joining...";
+    window.setTimeout(() => {
+      button.disabled = false;
+      button.textContent = original;
+      input.value = "";
+      setStatus("Success. You are on the PRESDA signal list.", "success");
+    }, 650);
+  });
 });
+
+/* PRESDA reading progress */
+(() => {
+  const progress = document.querySelector(".reading-progress span");
+  const article = document.querySelector("[data-article-page] .article-layout");
+  if (!progress || !article) return;
+
+  const update = () => {
+    const rect = article.getBoundingClientRect();
+    const total = Math.max(1, article.offsetHeight - window.innerHeight);
+    const read = Math.min(Math.max(-rect.top, 0), total);
+    progress.style.transform = `scaleX(${read / total})`;
+  };
+
+  update();
+  window.addEventListener("scroll", update, { passive: true });
+  window.addEventListener("resize", update);
+})();
 
 /* PRESDA rotating hero progressive enhancement */
 (() => {
