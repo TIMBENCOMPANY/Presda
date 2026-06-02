@@ -690,7 +690,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-search-20260601`;
+const versioned = (src) => `${src}?v=presda-phase3-20260602`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
