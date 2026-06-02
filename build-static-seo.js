@@ -80,6 +80,12 @@ const imageWithVersion = (image) => `${image}?v=${cacheVersion}`;
 const absoluteImage = (image) => `${siteUrl}${image}`;
 const titleHtml = (article) => highlightText(article.title, article.highlightTerms);
 const textHtml = (article, text) => highlightText(text, article.highlightTerms);
+const authorSlug = (author = "PRESDA Editorial") => slugify(author || "PRESDA Editorial");
+const authorUrl = (author) => `/author/${authorSlug(author)}/`;
+const absoluteAuthorUrl = (author) => `${siteUrl}${authorUrl(author)}`;
+const cleanText = (value = "") => String(value).replace(/^##\s+/gm, "").replace(/^>\s+/gm, "").trim();
+const articlePlainText = (article) => article.content.map(cleanText).filter(Boolean).join(" ");
+const rfc822Date = (value) => new Date(`${value}T12:00:00Z`).toUTCString();
 
 function commonHead({ title, description, canonical, image, type = "website", published, modified }) {
   const imageUrl = image ? absoluteImage(image) : `${siteUrl}/favicon-light.png`;
@@ -100,6 +106,7 @@ function commonHead({ title, description, canonical, image, type = "website", pu
     <meta name="twitter:image" content="${esc(imageUrl)}" />${published ? `
     <meta property="article:published_time" content="${esc(published)}" />
     <meta property="article:modified_time" content="${esc(modified || published)}" />` : ""}
+    <link rel="alternate" type="application/rss+xml" title="PRESDA RSS Feed" href="${siteUrl}/rss.xml" />
     <link rel="icon" data-dynamic-favicon type="image/png" href="/favicon-dark.png?v=presda-20260523-dark" />
     <link rel="shortcut icon" data-dynamic-favicon href="/favicon-dark.png?v=presda-20260523-dark" />
     <link rel="apple-touch-icon" href="/favicon-light.png?v=presda-20260523" />
@@ -135,7 +142,7 @@ function header() {
           <a href="/category/lifestyle/">Lifestyle</a>
           <a href="/category/travel/">Travel</a>
           <a href="/contact/">Contact</a>
-          <a href="/#newsletter">Newsletter</a>
+          <a href="/newsletter/">Newsletter</a>
         </nav>
 
         <div class="nav-actions">
@@ -589,6 +596,149 @@ ${analytics()}
 `;
 }
 
+function listingPage({ slug, title, description, eyebrow, heading, intro, items, pageType = "CollectionPage" }) {
+  const canonical = `${siteUrl}/${slug}/`;
+  const featured = items[0] || articles[0];
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": pageType,
+    name: title,
+    description,
+    url: canonical,
+    publisher: {
+      "@type": "Organization",
+      name: "PRESDA",
+      logo: {
+        "@type": "ImageObject",
+        url: `${siteUrl}/logo-light.png`
+      }
+    }
+  };
+
+  return `<!DOCTYPE html>
+<html lang="en">
+  <head>
+${commonHead({
+  title,
+  description,
+  canonical,
+  image: featured.imageDark || featured.image
+})}
+    <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+  </head>
+  <body data-listing-page>
+${header()}
+
+    <main>
+${ticker()}
+
+      <section class="content-section category-page-hero">
+        <div class="section-title">
+          <span>${esc(eyebrow)}</span>
+          <h1>${esc(heading)}</h1>
+        </div>
+        <p>${esc(intro)}</p>
+      </section>
+
+      <section class="content-section">
+        <div class="latest-grid">${items.map((article, index) => articleCard(article, index === 0 ? "wide" : "standard")).join("")}</div>
+      </section>
+    </main>
+
+${footer()}
+
+${analytics()}
+  </body>
+</html>
+`;
+}
+
+function trendingPage() {
+  const trendingItems = articles.filter((article) => article.trending)
+    .concat(articles)
+    .filter((article, index, arr) => arr.findIndex((item) => item.slug === article.slug) === index)
+    .slice(0, 12);
+
+  return listingPage({
+    slug: "trending",
+    title: "Trending Articles | PRESDA",
+    description: "Explore the PRESDA trending articles archive, featuring the most watched stories across AI, sport, business, world, travel, and culture.",
+    eyebrow: "Trending",
+    heading: "Trending Articles",
+    intro: "The stories moving fastest through the PRESDA signal, organized for quick scanning and deeper reading.",
+    items: trendingItems
+  });
+}
+
+function newsletterPage() {
+  const latestItems = articles.slice(0, 12);
+
+  return listingPage({
+    slug: "newsletter",
+    title: "Newsletter Archive | PRESDA",
+    description: "Read the PRESDA newsletter archive with the latest editorial briefings, trending stories, and premium news features.",
+    eyebrow: "Newsletter",
+    heading: "Newsletter Archive",
+    intro: "A clean archive of PRESDA briefings, latest stories, and editorial signals for readers who want the full newsroom flow.",
+    items: latestItems
+  });
+}
+
+function authorPage(author) {
+  const authorArticles = articles.filter((article) => article.author === author);
+  const slug = `author/${authorSlug(author)}`;
+  const canonical = absoluteAuthorUrl(author);
+  const featured = authorArticles[0] || articles[0];
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    name: `${author} | PRESDA`,
+    description: `Articles by ${author} on PRESDA.`,
+    url: canonical,
+    mainEntity: {
+      "@type": "Person",
+      name: author
+    }
+  };
+
+  return `<!DOCTYPE html>
+<html lang="en">
+  <head>
+${commonHead({
+  title: `${author} | PRESDA`,
+  description: `Read the latest PRESDA stories by ${author}, including AI, sport, business, world, travel, and culture coverage.`,
+  canonical,
+  image: featured.imageDark || featured.image
+})}
+    <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+  </head>
+  <body data-author-page>
+${header()}
+
+    <main>
+${ticker()}
+
+      <section class="content-section category-page-hero">
+        <div class="section-title">
+          <span>Author</span>
+          <h1>${esc(author)}</h1>
+        </div>
+        <p>PRESDA editorial coverage with cinematic reporting, clean context, and premium newsroom structure.</p>
+      </section>
+
+      <section class="content-section">
+        <div class="latest-grid">${authorArticles.map((article, index) => articleCard(article, index === 0 ? "wide" : "standard")).join("")}</div>
+      </section>
+    </main>
+
+${footer()}
+
+${analytics()}
+  </body>
+</html>
+`;
+}
+
 function staticInfoPage({ slug, title, description, eyebrow, heading, sections }) {
   const canonical = `${siteUrl}/${slug}/`;
   const jsonLd = {
@@ -705,13 +855,82 @@ function termsPage() {
   });
 }
 
+function newsSitemapXml() {
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+${articles.map((article) => `  <url>
+    <loc>${absoluteArticleUrl(article)}</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PRESDA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>${esc(article.date)}</news:publication_date>
+      <news:title>${esc(article.title)}</news:title>
+    </news:news>
+  </url>`).join("\n")}
+</urlset>
+`;
+}
+
+function rssXml() {
+  const items = articles.map((article) => `    <item>
+      <title>${esc(article.title)}</title>
+      <link>${absoluteArticleUrl(article)}</link>
+      <guid isPermaLink="true">${absoluteArticleUrl(article)}</guid>
+      <description>${esc(article.excerpt)}</description>
+      <pubDate>${rfc822Date(article.date)}</pubDate>
+      <author>contact@presda.com (${esc(article.author)})</author>
+      <category>${esc(article.category)}</category>
+      <enclosure url="${esc(absoluteImage(article.imageDark || article.image))}" type="image/png" />
+      <content:encoded><![CDATA[
+        ${article.content.map((block) => {
+          const value = String(block);
+          if (value.startsWith("## ")) return `<h2>${esc(value.slice(3))}</h2>`;
+          if (value.startsWith("> ")) return `<blockquote>${esc(value.slice(2))}</blockquote>`;
+          return `<p>${esc(value)}</p>`;
+        }).join("\n        ")}
+      ]]></content:encoded>
+    </item>`).join("\n");
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PRESDA - Your Daily Press</title>
+    <link>${siteUrl}/</link>
+    <atom:link href="${siteUrl}/rss.xml" rel="self" type="application/rss+xml" />
+    <description>PRESDA delivers futuristic coverage of AI, sport, business, world, travel, and culture through cinematic editorial storytelling.</description>
+    <language>en</language>
+    <lastBuildDate>${rfc822Date(articles[0].date)}</lastBuildDate>
+    <image>
+      <url>${siteUrl}/favicon-light.png</url>
+      <title>PRESDA</title>
+      <link>${siteUrl}/</link>
+    </image>
+${items}
+  </channel>
+</rss>
+`;
+}
+
 fs.writeFileSync(path.join(root, "index.html"), homePage());
 fs.writeFileSync(path.join(root, "article.html"), articlePage(articles[0]));
 
-for (const [slug, html] of [["about", aboutPage()], ["privacy", privacyPage()], ["terms", termsPage()]]) {
+for (const [slug, html] of [["about", aboutPage()], ["privacy", privacyPage()], ["terms", termsPage()], ["trending", trendingPage()], ["newsletter", newsletterPage()]]) {
   const dir = path.join(root, slug);
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, "index.html"), html);
+}
+
+const authorDir = path.join(root, "author");
+fs.mkdirSync(authorDir, { recursive: true });
+for (const author of [...new Set(articles.map((article) => article.author || "PRESDA Editorial"))]) {
+  const dir = path.join(authorDir, authorSlug(author));
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, "index.html"), authorPage(author));
 }
 
 const articlesDir = path.join(root, "articles");
@@ -762,6 +981,24 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>${siteUrl}/trending/</loc>
+    <lastmod>${articles[0].date}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>${siteUrl}/newsletter/</loc>
+    <lastmod>${articles[0].date}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+${[...new Set(articles.map((article) => article.author || "PRESDA Editorial"))].map((author) => `  <url>
+    <loc>${absoluteAuthorUrl(author)}</loc>
+    <lastmod>${articles[0].date}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>`).join("\n")}
 ${articles.map((article) => `  <url>
     <loc>${absoluteArticleUrl(article)}</loc>
     <lastmod>${article.date}</lastmod>
@@ -777,12 +1014,16 @@ ${categories.map((category) => `  <url>
 </urlset>
 `;
 fs.writeFileSync(path.join(root, "sitemap.xml"), sitemap);
+fs.writeFileSync(path.join(root, "news-sitemap.xml"), newsSitemapXml());
+fs.writeFileSync(path.join(root, "rss.xml"), rssXml());
+fs.writeFileSync(path.join(root, "feed.xml"), rssXml());
 
 const robots = `User-agent: *
 Allow: /
 
 Sitemap: ${siteUrl}/sitemap.xml
+Sitemap: ${siteUrl}/news-sitemap.xml
 `;
 fs.writeFileSync(path.join(root, "robots.txt"), robots);
 
-console.log(`Generated homepage, ${articles.length} article pages, sitemap.xml, and robots.txt.`);
+console.log(`Generated homepage, ${articles.length} article pages, author pages, feeds, sitemaps, and robots.txt.`);
