@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-search-20260601";
+const cacheVersion = "presda-contact-compact-20260603";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -213,7 +213,7 @@ function socialIcon(type) {
     instagram: `<svg ${attrs}><rect x="12" y="12" width="40" height="40" rx="12"></rect><circle cx="32" cy="32" r="10"></circle><circle cx="44" cy="20" r="2.5"></circle></svg>`,
     x: `<svg ${attrs}><path d="M16 14l33 36"></path><path d="M48 14L15 50"></path><path d="M20 14h9l15 36h-9z"></path></svg>`,
     facebook: `<svg ${attrs}><path d="M38 14h-6a9 9 0 0 0-9 9v7h-6v9h6v13h10V39h7l2-9h-9v-6a2.5 2.5 0 0 1 2.5-2.5H42V14z"></path></svg>`,
-    gps: `<svg ${attrs}><path d="M32 56s18-17 18-31a18 18 0 0 0-36 0c0 14 18 31 18 31z"></path><circle cx="32" cy="25" r="6"></circle></svg>`,
+    linkedin: `<svg ${attrs}><path d="M18 27v23"></path><path d="M18 18v.2"></path><path d="M30 50V27"></path><path d="M30 37c0-6 4-10 10-10s9 4 9 11v12"></path></svg>`,
     email: `<svg ${attrs}><rect x="10" y="16" width="44" height="32" rx="7"></rect><path d="M12 20l20 16 20-16"></path><path d="M12 46l14-13"></path><path d="M52 46L38 33"></path></svg>`
   };
   return icons[type] || icons.email;
@@ -221,9 +221,10 @@ function socialIcon(type) {
 
 function socialSection() {
   const socials = [
-    { type: "x", label: "X / Twitter", href: "https://x.com/PresdaOfficial" },
+    { type: "x", label: "X", href: "https://x.com/PresdaOfficial" },
     { type: "instagram", label: "Instagram", href: "https://www.instagram.com/presdaofficial" },
     { type: "facebook", label: "Facebook", href: "https://www.facebook.com/profile.php?id=61589635535583" },
+    { type: "linkedin", label: "LinkedIn", href: "https://www.linkedin.com/company/presda" },
     { type: "email", label: "contact@presda.com", href: "mailto:contact@presda.com" }
   ];
 
@@ -233,14 +234,13 @@ function socialSection() {
             <span>Network</span>
             <h2 id="connect-title"><span class="connect-word">CONNECT</span> WITH PRESDA</h2>
             <p>Follow the signal across every platform.</p>
-            <div class="social-badge" aria-label="PRESDA location Berlin, Germany">
+            <div class="social-badge" aria-label="PRESDA official network">
               <img class="badge-logo-dark" src="/images/brand/ptransparent.png?v=${cacheVersion}" alt="PRESDA P transparent badge" loading="lazy" />
               <img class="badge-logo-light" src="/favicon-light.png?v=${cacheVersion}" alt="PRESDA P light mode badge" loading="lazy" />
               <div>
-                <strong>PRESDA SIGNAL</strong>
-                <small>Berlin, Germany</small>
+                <strong>PRESDA Official Network</strong>
+                <small>@PresdaOfficial</small>
               </div>
-              <span class="badge-gps" aria-hidden="true">${socialIcon("gps")}</span>
             </div>
           </div>
           <div class="social-grid">
