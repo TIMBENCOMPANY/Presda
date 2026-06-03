@@ -1024,6 +1024,12 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>${siteUrl}/world-cup-2026/</loc>
+    <lastmod>${articles[0].date}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>${siteUrl}/newsletter/</loc>
     <lastmod>${articles[0].date}</lastmod>
     <changefreq>daily</changefreq>
