@@ -721,6 +721,39 @@ const articleRecords = [
     trending: true,
     editorPick: true,
     mostRead: true
+  },
+  {
+    id: "011",
+    slug: "david-beckhams-unexpected-passion-beyond-football",
+    title: "David Beckham's Unexpected Passion Beyond Football",
+    seoTitle: "David Beckham's Passion for Beekeeping and Life Beyond Football",
+    metaDescription: "Discover how David Beckham developed a passion for beekeeping after football and why sustainability, nature, and personal growth have become central to his lifestyle.",
+    category: "Lifestyle",
+    date: "2026-06-02",
+    author: "PRESDA Editorial",
+    readingTime: "6 MIN READ",
+    source: "PRESDA Lifestyle Desk",
+    imageDark: "/images/articles/david-beckham-beekeeping.png",
+    imageLight: "/images/articles/david-beckham-beekeeping.png",
+    imageFit: "cover",
+    imagePosition: "center center",
+    imageAlt: "David Beckham standing beside beehives at sunset with bees flying around him",
+    excerpt: "While millions still remember David Beckham for his football career and business empire, one of his most surprising passions today is beekeeping.",
+    content: [
+      "David Beckham has spent decades building one of the most recognizable personal brands in the world. From football stadiums packed with fans to global business ventures and fashion campaigns, his name has become synonymous with success. Yet away from the spotlight, Beckham has developed a passion that few would have predicted: beekeeping.",
+      "Over recent years, the former football star has embraced a quieter lifestyle whenever he spends time with his family. Among his favorite activities is caring for beehives and learning more about the vital role bees play in the natural world. What began as a personal interest has evolved into a genuine hobby that reflects a different side of Beckham's personality.",
+      "Beekeeping requires patience, consistency, and attention to detail. These are qualities that Beckham displayed throughout his football career and continues to apply in business today. Observers close to the former athlete often describe his fascination with the process of producing honey and maintaining healthy colonies.",
+      "The importance of bees extends far beyond honey production. They are essential pollinators responsible for supporting ecosystems and global food production. Beckham has frequently expressed admiration for nature and sustainable living, making beekeeping a natural extension of those values.",
+      "His interest in the subject also highlights a broader trend among successful entrepreneurs and public figures who are seeking meaningful connections with nature. In a world increasingly dominated by technology and constant connectivity, activities such as beekeeping offer a rare opportunity for focus and balance.",
+      "For Beckham, the hobby represents more than a simple pastime. It serves as a reminder that success is not always measured by headlines, trophies, or business deals. Sometimes it can be found in slowing down, learning new skills, and appreciating the natural world.",
+      "As his post-football journey continues, Beckham remains a symbol of reinvention. Whether through business, philanthropy, family life, or beekeeping, he continues to demonstrate that personal growth never truly stops.",
+      "> \"Success is not only about building an empire. It is also about finding purpose in the simple things.\""
+    ],
+    tags: ["Lifestyle", "David Beckham", "Beekeeping", "Sustainability"],
+    highlightTerms: ["David Beckham", "beekeeping", "nature", "sustainability"],
+    featured: true,
+    trending: true,
+    editorPick: true
   }
 ];
 
@@ -759,7 +792,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-last-dance-20260603`;
+const versioned = (src) => `${src}?v=presda-beckham-20260603`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
