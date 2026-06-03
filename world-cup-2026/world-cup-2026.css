@@ -53,9 +53,9 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(90deg, rgba(5, 5, 5, 0.8), rgba(5, 5, 5, 0.2)),
-    url("/images/world-cup/world-cup-hero-neon.svg") center / cover no-repeat;
-  opacity: 0.82;
+    linear-gradient(90deg, rgba(5, 5, 5, 0.82), rgba(5, 5, 5, 0.18) 46%, rgba(5, 5, 5, 0.5)),
+    url("/images/world-cup/world-cup-command-center.webp") center / cover no-repeat;
+  opacity: 0.9;
   z-index: -2;
 }
 
@@ -241,13 +241,15 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 }
 
 .flag {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 1.45em;
-  margin-right: 8px;
-  font-size: 1rem;
-  line-height: 1;
+  display: inline-block;
+  flex: 0 0 auto;
+  width: 24px;
+  height: 16px;
+  margin-right: 9px;
+  border-radius: 2px;
+  object-fit: cover;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.18), 0 0 10px rgba(255, 26, 26, 0.12);
+  vertical-align: -3px;
 }
 
 .market-logo img {
@@ -469,14 +471,14 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 
 .wc-road-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 14px;
 }
 
 .wc-road-grid article {
   display: grid;
   gap: 10px;
-  min-height: 170px;
+  min-height: 220px;
   padding: 22px;
   border: 1px solid var(--border);
   border-radius: 24px;
@@ -504,6 +506,35 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 
 .wc-road-grid small {
   color: var(--muted);
+}
+
+.wc-road-grid b,
+.wc-road-grid em,
+.wc-road-grid p {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-style: normal;
+}
+
+.wc-road-grid p {
+  margin: 0;
+  line-height: 1.45;
+}
+
+.wc-progress {
+  height: 8px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 26, 26, 0.25);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.wc-progress i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, rgba(255, 26, 26, 0.7), #ff1a1a);
+  box-shadow: 0 0 18px rgba(255, 26, 26, 0.22);
 }
 
 .wc-board {
@@ -539,6 +570,9 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 
 .wc-player-list small {
   align-self: start;
+  display: flex;
+  align-items: center;
+  gap: 0;
   text-transform: uppercase;
 }
 
@@ -662,6 +696,12 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   padding: 0 8px;
 }
 
+.wc-stadium-grid span {
+  display: flex;
+  align-items: center;
+  line-height: 1.35;
+}
+
 .wc-stadium-grid strong {
   font-family: Orbitron, Inter, sans-serif;
   text-transform: uppercase;
@@ -669,7 +709,7 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 
 .wc-record-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 14px;
 }
 
@@ -694,6 +734,16 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   color: var(--accent);
   font-style: normal;
   box-shadow: 0 0 18px rgba(255, 26, 26, 0.12);
+}
+
+.wc-record-grid i svg {
+  width: 22px;
+  height: 22px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 .wc-record-grid strong {
@@ -752,9 +802,9 @@ html.light-mode .wc-match-card {
 
 html.light-mode .wc-hero::before {
   background:
-    linear-gradient(90deg, rgba(255, 255, 255, 0.78), rgba(255, 255, 255, 0.24)),
-    url("/images/world-cup/world-cup-hero-neon.svg") center / cover no-repeat;
-  opacity: 0.7;
+    linear-gradient(90deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.16) 48%, rgba(255, 255, 255, 0.5)),
+    url("/images/world-cup/world-cup-command-center.webp") center / cover no-repeat;
+  opacity: 0.78;
 }
 
 html.light-mode .wc-logo-lockup,
@@ -774,6 +824,10 @@ html.light-mode .wc-avatar {
 
 html.light-mode .market-logo img {
   filter: drop-shadow(0 0 4px rgba(255, 26, 26, 0.12));
+}
+
+html.light-mode .flag {
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08), 0 0 6px rgba(255, 26, 26, 0.08);
 }
 
 html.light-mode .wc-stadium-grid article em {
@@ -800,9 +854,12 @@ html.light-mode .wc-footer img {
   }
 
   .wc-news-grid,
-  .wc-road-grid,
   .wc-stadium-grid,
   .wc-record-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .wc-road-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
