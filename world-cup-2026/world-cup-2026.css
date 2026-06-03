@@ -40,8 +40,8 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 .wc-hero {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 1.05fr) minmax(360px, 0.95fr);
-  gap: clamp(28px, 4vw, 70px);
+  grid-template-columns: minmax(0, 0.92fr) minmax(360px, 1.08fr);
+  gap: clamp(34px, 5vw, 96px);
   min-height: clamp(520px, 70vh, 820px);
   overflow: hidden;
   border-radius: 30px;
@@ -53,18 +53,20 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(90deg, rgba(5, 5, 5, 0.82), rgba(5, 5, 5, 0.18) 46%, rgba(5, 5, 5, 0.5)),
+    linear-gradient(90deg, rgba(5, 5, 5, 0.82), rgba(5, 5, 5, 0.12) 48%, rgba(5, 5, 5, 0.34)),
     url("/images/world-cup/world-cup-command-center.webp") center / cover no-repeat;
-  opacity: 0.9;
+  opacity: 0.96;
   z-index: -2;
 }
 
 .wc-hero::after {
   content: "";
   position: absolute;
-  inset: auto -10% -35% -10%;
-  height: 52%;
-  background: radial-gradient(ellipse at center, rgba(255, 26, 26, 0.2), transparent 65%);
+  inset: 0;
+  background:
+    radial-gradient(circle at 52% 42%, rgba(255, 26, 26, 0.08), transparent 18rem),
+    linear-gradient(to bottom, transparent 0 50%, rgba(5, 5, 5, 0.68) 76%, rgba(5, 5, 5, 0.86) 100%),
+    linear-gradient(90deg, rgba(5, 5, 5, 0.08), transparent 34%, rgba(5, 5, 5, 0.12));
   z-index: -1;
 }
 
@@ -140,7 +142,7 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 }
 
 .wc-countdown {
-  width: min(440px, 100%);
+  width: min(390px, 100%);
   margin: 0 0 24px;
   padding: 14px;
   border: 1px solid rgba(255, 26, 26, 0.36);
@@ -174,33 +176,38 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 }
 
 .wc-countdown-grid strong {
-  padding: 10px 5px 1px;
+  padding: 11px 5px 2px;
   border: 1px solid var(--border);
   border-bottom: 0;
   border-radius: 13px 13px 0 0;
   color: var(--text);
   font-family: Orbitron, Inter, sans-serif;
-  font-size: clamp(1.25rem, 2.25vw, 2.15rem);
+  font-size: clamp(1.35rem, 2.35vw, 2.25rem);
 }
 
 .wc-countdown-grid small {
-  padding: 3px 4px 9px;
+  padding: 3px 4px 10px;
   border: 1px solid var(--border);
   border-top: 0;
   border-radius: 0 0 13px 13px;
   color: var(--muted);
-  font-size: 0.58rem;
+  font-family: Orbitron, Inter, sans-serif;
+  font-size: 0.56rem;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
 .wc-hero-panel {
   position: relative;
   align-self: center;
+  justify-self: end;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px;
-  min-height: 320px;
-  opacity: 0.72;
+  gap: 10px;
+  width: min(390px, 100%);
+  min-height: 252px;
+  opacity: 0.54;
+  transform: translateX(clamp(0px, 2.4vw, 28px));
 }
 
 .wc-hero-panel article,
@@ -222,17 +229,17 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  min-height: 132px;
-  padding: 16px;
+  min-height: 100px;
+  padding: 12px;
   background:
     linear-gradient(135deg, rgba(255, 26, 26, 0.06), transparent 42%),
     rgba(5, 5, 5, 0.36);
 }
 
 .wc-hero-panel strong {
-  margin-top: 8px;
+  margin-top: 6px;
   font-family: Orbitron, Inter, sans-serif;
-  font-size: clamp(1.65rem, 3.6vw, 3.75rem);
+  font-size: clamp(1.2rem, 2.75vw, 2.8rem);
   line-height: 0.9;
 }
 
@@ -721,7 +728,7 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 .wc-stadium-grid .stadium-country {
   color: var(--text);
   font-family: Orbitron, Inter, sans-serif;
-  font-size: 0.68rem;
+  font-size: 0.66rem;
   font-weight: 900;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -729,9 +736,11 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 
 .wc-stadium-grid .stadium-country .flag {
   width: 20px;
-  height: 13px;
-  margin-right: 7px;
-  border-radius: 2px;
+  height: 20px;
+  margin-right: 8px;
+  border: 1px solid rgba(255, 26, 26, 0.28);
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px rgba(5, 5, 5, 0.72), 0 0 10px rgba(255, 26, 26, 0.14);
 }
 
 .wc-stadium-grid strong {
@@ -740,7 +749,7 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 }
 
 .wc-stadium-grid small {
-  font-size: 0.84rem;
+  font-size: 0.8rem;
   line-height: 1.35;
 }
 
@@ -839,9 +848,9 @@ html.light-mode .wc-match-card {
 
 html.light-mode .wc-hero::before {
   background:
-    linear-gradient(90deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.16) 48%, rgba(255, 255, 255, 0.5)),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.14) 48%, rgba(255, 255, 255, 0.42)),
     url("/images/world-cup/world-cup-command-center.webp") center / cover no-repeat;
-  opacity: 0.78;
+  opacity: 0.84;
 }
 
 html.light-mode .wc-logo-lockup,
@@ -873,6 +882,10 @@ html.light-mode .flag {
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08), 0 0 6px rgba(255, 26, 26, 0.08);
 }
 
+html.light-mode .wc-stadium-grid .stadium-country .flag {
+  box-shadow: 0 0 0 2px #ffffff, 0 0 8px rgba(255, 26, 26, 0.12);
+}
+
 html.light-mode .wc-stadium-grid article em {
   background: rgba(255, 255, 255, 0.84);
   color: #111111;
@@ -890,6 +903,7 @@ html.light-mode .wc-footer img {
 
   .wc-hero-panel {
     min-height: auto;
+    transform: none;
   }
 
   .wc-standings-grid {
@@ -966,12 +980,18 @@ html.light-mode .wc-footer img {
   .wc-hero-panel {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 10px;
-    opacity: 0.68;
+    width: 100%;
+    opacity: 0.58;
+    transform: none;
   }
 
   .wc-hero-panel article {
-    min-height: 110px;
-    padding: 14px;
+    min-height: 92px;
+    padding: 12px;
+  }
+
+  .wc-hero-panel strong {
+    font-size: clamp(1.25rem, 8vw, 2.4rem);
   }
 
   .wc-stadium-grid article.featured-stadium {
