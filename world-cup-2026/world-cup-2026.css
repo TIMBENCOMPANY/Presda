@@ -131,37 +131,40 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 }
 
 .wc-lede {
-  max-width: 760px;
-  margin: 26px 0 0;
+  max-width: 560px;
+  margin: 22px 0 0;
   color: var(--muted);
   font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
-  font-size: clamp(1.3rem, 2vw, 2.05rem);
+  font-size: clamp(1.35rem, 2vw, 2rem);
   line-height: 1.2;
 }
 
 .wc-countdown {
-  width: min(680px, 100%);
-  margin-top: 34px;
-  padding: 18px;
-  border: 1px solid rgba(255, 26, 26, 0.28);
-  border-radius: 22px;
-  background: rgba(0, 0, 0, 0.36);
+  width: min(440px, 100%);
+  margin: 0 0 24px;
+  padding: 14px;
+  border: 1px solid rgba(255, 26, 26, 0.36);
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.48);
+  box-shadow: 0 0 34px rgba(255, 26, 26, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(16px);
 }
 
 .wc-countdown > span {
   display: block;
-  margin-bottom: 12px;
-  color: var(--muted);
-  font-size: 0.78rem;
+  margin-bottom: 10px;
+  color: var(--accent);
+  font-family: Orbitron, Inter, sans-serif;
+  font-size: 0.68rem;
   font-weight: 800;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 
 .wc-countdown-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
+  gap: 7px;
 }
 
 .wc-countdown-grid strong,
@@ -171,22 +174,22 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 }
 
 .wc-countdown-grid strong {
-  padding: 13px 6px 2px;
+  padding: 10px 5px 1px;
   border: 1px solid var(--border);
   border-bottom: 0;
-  border-radius: 16px 16px 0 0;
+  border-radius: 13px 13px 0 0;
   color: var(--text);
   font-family: Orbitron, Inter, sans-serif;
-  font-size: clamp(1.5rem, 3vw, 3rem);
+  font-size: clamp(1.25rem, 2.25vw, 2.15rem);
 }
 
 .wc-countdown-grid small {
-  padding: 4px 4px 11px;
+  padding: 3px 4px 9px;
   border: 1px solid var(--border);
   border-top: 0;
-  border-radius: 0 0 16px 16px;
+  border-radius: 0 0 13px 13px;
   color: var(--muted);
-  font-size: 0.68rem;
+  font-size: 0.58rem;
   text-transform: uppercase;
 }
 
@@ -195,8 +198,9 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   align-self: center;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px;
-  min-height: 420px;
+  gap: 12px;
+  min-height: 320px;
+  opacity: 0.72;
 }
 
 .wc-hero-panel article,
@@ -218,14 +222,17 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  min-height: 188px;
-  padding: 22px;
+  min-height: 132px;
+  padding: 16px;
+  background:
+    linear-gradient(135deg, rgba(255, 26, 26, 0.06), transparent 42%),
+    rgba(5, 5, 5, 0.36);
 }
 
 .wc-hero-panel strong {
-  margin-top: 10px;
+  margin-top: 8px;
   font-family: Orbitron, Inter, sans-serif;
-  font-size: clamp(2.4rem, 5vw, 5.4rem);
+  font-size: clamp(1.65rem, 3.6vw, 3.75rem);
   line-height: 0.9;
 }
 
@@ -665,6 +672,10 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
     0 0 34px rgba(255, 26, 26, 0.12);
 }
 
+.wc-stadium-grid article.opening-stadium {
+  border-color: rgba(255, 26, 26, 0.42);
+}
+
 .wc-stadium-grid article.featured-stadium img {
   min-height: 340px;
 }
@@ -686,6 +697,11 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   letter-spacing: 0.08em;
 }
 
+.wc-stadium-grid article.opening-stadium em {
+  border-color: rgba(255, 255, 255, 0.24);
+  background: rgba(255, 26, 26, 0.82);
+}
+
 .wc-stadium-grid img {
   min-height: 210px;
 }
@@ -702,9 +718,30 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   line-height: 1.35;
 }
 
+.wc-stadium-grid .stadium-country {
+  color: var(--text);
+  font-family: Orbitron, Inter, sans-serif;
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.wc-stadium-grid .stadium-country .flag {
+  width: 20px;
+  height: 13px;
+  margin-right: 7px;
+  border-radius: 2px;
+}
+
 .wc-stadium-grid strong {
   font-family: Orbitron, Inter, sans-serif;
   text-transform: uppercase;
+}
+
+.wc-stadium-grid small {
+  font-size: 0.84rem;
+  line-height: 1.35;
 }
 
 .wc-record-grid {
@@ -812,6 +849,12 @@ html.light-mode .wc-countdown {
   background: rgba(255, 255, 255, 0.7);
 }
 
+html.light-mode .wc-hero-panel article {
+  background:
+    linear-gradient(135deg, rgba(255, 26, 26, 0.045), transparent 42%),
+    rgba(255, 255, 255, 0.54);
+}
+
 html.light-mode .wc-group-card th,
 html.light-mode .wc-group-card td,
 html.light-mode .wc-player-list li {
@@ -888,8 +931,25 @@ html.light-mode .wc-footer img {
     font-size: 1.2rem;
   }
 
+  .wc-countdown {
+    width: 100%;
+    margin-bottom: 18px;
+    padding: 12px;
+  }
+
   .wc-countdown-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 6px;
+  }
+
+  .wc-countdown-grid strong {
+    font-size: clamp(1rem, 6vw, 1.55rem);
+    padding-top: 9px;
+  }
+
+  .wc-countdown-grid small {
+    font-size: 0.5rem;
+    padding-inline: 2px;
   }
 
   .wc-hero-panel,
@@ -901,6 +961,17 @@ html.light-mode .wc-footer img {
   .wc-stadium-grid,
   .wc-record-grid {
     grid-template-columns: 1fr;
+  }
+
+  .wc-hero-panel {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+    opacity: 0.68;
+  }
+
+  .wc-hero-panel article {
+    min-height: 110px;
+    padding: 14px;
   }
 
   .wc-stadium-grid article.featured-stadium {
