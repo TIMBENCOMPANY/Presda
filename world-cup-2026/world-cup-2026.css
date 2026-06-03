@@ -54,8 +54,8 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   inset: 0;
   background:
     linear-gradient(90deg, rgba(5, 5, 5, 0.8), rgba(5, 5, 5, 0.2)),
-    url("/images/articles/fifa-world-cup-dark.png") center 28% / cover no-repeat;
-  opacity: 0.62;
+    url("/images/world-cup/world-cup-hero-neon.svg") center / cover no-repeat;
+  opacity: 0.82;
   z-index: -2;
 }
 
@@ -238,6 +238,24 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 .wc-next-match small,
 .wc-news-card strong + small {
   color: var(--muted);
+}
+
+.flag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.45em;
+  margin-right: 8px;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.market-logo img {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  display: block;
+  filter: drop-shadow(0 0 6px rgba(255, 26, 26, 0.2));
 }
 
 .wc-orbit {
@@ -429,6 +447,13 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   text-align: left;
 }
 
+.wc-group-card td:first-child {
+  display: flex;
+  align-items: center;
+  min-width: 175px;
+  font-weight: 800;
+}
+
 .wc-group-card th {
   color: var(--muted);
   font-family: Orbitron, Inter, sans-serif;
@@ -440,6 +465,45 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 18px;
+}
+
+.wc-road-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.wc-road-grid article {
+  display: grid;
+  gap: 10px;
+  min-height: 170px;
+  padding: 22px;
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  background:
+    linear-gradient(135deg, rgba(255, 26, 26, 0.1), transparent 40%),
+    rgba(5, 5, 5, 0.58);
+}
+
+.wc-road-grid span {
+  color: var(--accent);
+  font-family: Orbitron, Inter, sans-serif;
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.wc-road-grid strong {
+  align-self: end;
+  font-family: Orbitron, Inter, sans-serif;
+  font-size: clamp(1.6rem, 3vw, 3rem);
+  line-height: 0.96;
+  text-transform: uppercase;
+}
+
+.wc-road-grid small {
+  color: var(--muted);
 }
 
 .wc-board {
@@ -487,17 +551,13 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 
 .wc-avatar {
   grid-row: 1 / span 2;
-  display: inline-grid;
-  place-items: center;
   width: 44px;
   height: 44px;
   border: 1px solid rgba(255, 26, 26, 0.38);
   border-radius: 50%;
-  background: radial-gradient(circle at 50% 32%, rgba(255, 26, 26, 0.36), rgba(255, 26, 26, 0.08));
-  color: var(--text);
-  font-family: Orbitron, Inter, sans-serif;
-  font-size: 0.7rem;
-  font-weight: 900;
+  object-fit: cover;
+  object-position: center 18%;
+  display: block;
   box-shadow: 0 0 18px rgba(255, 26, 26, 0.16);
 }
 
@@ -556,10 +616,40 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 }
 
 .wc-stadium-grid article {
+  position: relative;
   display: grid;
   gap: 10px;
   overflow: hidden;
   padding: 12px;
+}
+
+.wc-stadium-grid article.featured-stadium {
+  grid-column: span 2;
+  border-color: rgba(255, 26, 26, 0.58);
+  box-shadow:
+    0 24px 70px rgba(0, 0, 0, 0.34),
+    0 0 34px rgba(255, 26, 26, 0.12);
+}
+
+.wc-stadium-grid article.featured-stadium img {
+  min-height: 340px;
+}
+
+.wc-stadium-grid article em {
+  position: absolute;
+  z-index: 2;
+  top: 20px;
+  left: 20px;
+  padding: 9px 12px;
+  border: 1px solid rgba(255, 26, 26, 0.55);
+  border-radius: 999px;
+  background: rgba(5, 5, 5, 0.72);
+  color: #fff;
+  font-family: Orbitron, Inter, sans-serif;
+  font-size: 0.66rem;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0.08em;
 }
 
 .wc-stadium-grid img {
@@ -584,10 +674,26 @@ body[data-world-cup-hub] .main-nav a[aria-current="page"]::after {
 }
 
 .wc-record-grid article {
+  position: relative;
   display: grid;
   gap: 10px;
   min-height: 160px;
   padding: 22px;
+}
+
+.wc-record-grid i {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border: 1px solid rgba(255, 26, 26, 0.36);
+  border-radius: 50%;
+  color: var(--accent);
+  font-style: normal;
+  box-shadow: 0 0 18px rgba(255, 26, 26, 0.12);
 }
 
 .wc-record-grid strong {
@@ -630,6 +736,7 @@ html.light-mode .wc-section,
 html.light-mode .wc-command-strip,
 html.light-mode .wc-footer,
 html.light-mode .wc-hero-panel article,
+html.light-mode .wc-road-grid article,
 html.light-mode .wc-board,
 html.light-mode .wc-group-card,
 html.light-mode .wc-next-match,
@@ -645,9 +752,9 @@ html.light-mode .wc-match-card {
 
 html.light-mode .wc-hero::before {
   background:
-    linear-gradient(90deg, rgba(255, 255, 255, 0.82), rgba(255, 255, 255, 0.34)),
-    url("/images/articles/fifa-world-cup-light.png") center 28% / cover no-repeat;
-  opacity: 0.72;
+    linear-gradient(90deg, rgba(255, 255, 255, 0.78), rgba(255, 255, 255, 0.24)),
+    url("/images/world-cup/world-cup-hero-neon.svg") center / cover no-repeat;
+  opacity: 0.7;
 }
 
 html.light-mode .wc-logo-lockup,
@@ -662,8 +769,16 @@ html.light-mode .wc-player-list li {
 }
 
 html.light-mode .wc-avatar {
-  color: #111111;
   box-shadow: 0 0 10px rgba(255, 26, 26, 0.1);
+}
+
+html.light-mode .market-logo img {
+  filter: drop-shadow(0 0 4px rgba(255, 26, 26, 0.12));
+}
+
+html.light-mode .wc-stadium-grid article em {
+  background: rgba(255, 255, 255, 0.84);
+  color: #111111;
 }
 
 html.light-mode .wc-footer img {
@@ -685,9 +800,14 @@ html.light-mode .wc-footer img {
   }
 
   .wc-news-grid,
+  .wc-road-grid,
   .wc-stadium-grid,
   .wc-record-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .wc-stadium-grid article.featured-stadium {
+    grid-column: span 2;
   }
 }
 
@@ -720,9 +840,18 @@ html.light-mode .wc-footer img {
   .wc-match-list,
   .wc-leaderboards,
   .wc-news-grid,
+  .wc-road-grid,
   .wc-stadium-grid,
   .wc-record-grid {
     grid-template-columns: 1fr;
+  }
+
+  .wc-stadium-grid article.featured-stadium {
+    grid-column: auto;
+  }
+
+  .wc-stadium-grid article.featured-stadium img {
+    min-height: 260px;
   }
 
   .wc-news-card.feature img,

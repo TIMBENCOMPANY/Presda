@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1000" role="img" aria-label="Futuristic red neon World Cup trophy with dark world map and stadium lights">
+  <defs>
+    <radialGradient id="redGlow" cx="54%" cy="46%" r="55%">
+      <stop offset="0" stop-color="#ff3a3a" stop-opacity=".42"/>
+      <stop offset=".48" stop-color="#ff1a1a" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#050505" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="horizon" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset=".48" stop-color="#141010"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="84" height="84" patternUnits="userSpaceOnUse">
+      <path d="M84 0H0v84" fill="none" stroke="#ff1a1a" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1800" height="1000" fill="url(#horizon)"/>
+  <rect width="1800" height="1000" fill="url(#grid)" opacity=".55"/>
+  <rect width="1800" height="1000" fill="url(#redGlow)"/>
+  <g opacity=".28" fill="none" stroke="#ffffff" stroke-width="2">
+    <path d="M120 430c170-70 330-72 510-18 180 55 305 36 468-30 145-59 295-53 462 20"/>
+    <path d="M205 505c160-30 300 12 454 24 170 13 282-47 430-82 184-43 332 8 486 66"/>
+    <path d="M264 596c212 42 405 24 583-44 210-80 423-48 670 52"/>
+  </g>
+  <g opacity=".5" stroke="#ff1a1a" stroke-width="3" fill="none">
+    <ellipse cx="476" cy="504" rx="82" ry="28"/>
+    <ellipse cx="520" cy="532" rx="118" ry="38"/>
+    <ellipse cx="604" cy="478" rx="58" ry="24"/>
+    <ellipse cx="1258" cy="472" rx="72" ry="26"/>
+    <ellipse cx="1332" cy="504" rx="94" ry="30"/>
+    <ellipse cx="1424" cy="542" rx="54" ry="22"/>
+  </g>
+  <g filter="url(#glow)">
+    <path d="M925 190c100 20 168 93 168 189 0 70-36 132-92 168 7 70 38 121 92 154H707c54-33 85-84 92-154-56-36-92-98-92-168 0-96 68-169 168-189" fill="none" stroke="#ff1a1a" stroke-width="10" stroke-linecap="round"/>
+    <path d="M784 277c-72 24-116 71-130 142-9 46 3 89 34 128 36 45 91 68 164 68" fill="none" stroke="#ff1a1a" stroke-width="7" stroke-linecap="round" opacity=".85"/>
+    <path d="M1016 277c72 24 116 71 130 142 9 46-3 89-34 128-36 45-91 68-164 68" fill="none" stroke="#ff1a1a" stroke-width="7" stroke-linecap="round" opacity=".85"/>
+    <path d="M809 701h182M766 762h268M722 833h356" stroke="#ff1a1a" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <g opacity=".72">
+    <path d="M140 140c210-58 364-58 545 0" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".22"/>
+    <path d="M1116 140c210-58 364-58 545 0" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".22"/>
+    <circle cx="344" cy="137" r="5" fill="#fff"/>
+    <circle cx="1468" cy="137" r="5" fill="#fff"/>
+    <circle cx="430" cy="124" r="4" fill="#fff"/>
+    <circle cx="1380" cy="124" r="4" fill="#fff"/>
+  </g>
+  <g opacity=".55" stroke="#ff1a1a" stroke-width="2">
+    <path d="M0 790c250-48 496-70 738-66s483 38 724 102 353 82 338 54" fill="none"/>
+    <path d="M0 858c318-66 640-78 965-36s603 76 835 58" fill="none"/>
+  </g>
+</svg>

@@ -55,3 +55,40 @@ const worldCupHubData = {
     });
   });
 })();
+
+(() => {
+  const grid = document.querySelector("[data-wc-news-grid]");
+  if (!grid || typeof articles === "undefined" || !Array.isArray(articles)) return;
+
+  const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  })[char]);
+
+  const categoriesFor = (article) => {
+    if (typeof articleCategories === "function") return articleCategories(article);
+    return [article.category, article.secondaryCategory, ...(article.secondaryCategories || [])].filter(Boolean);
+  };
+
+  const imageFor = (article) => {
+    const light = document.documentElement.classList.contains("light-mode");
+    return light ? article.imageLight || article.imageDark || article.image : article.imageDark || article.imageLight || article.image;
+  };
+
+  const worldCupArticles = articles
+    .filter((article) => categoriesFor(article).includes("World Cup 2026"))
+    .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  if (!worldCupArticles.length) return;
+
+  grid.innerHTML = worldCupArticles.map((article, index) => `
+    <a class="wc-news-card ${index === 0 ? "feature" : ""}" href="/articles/${article.slug}/">
+      <img src="${imageFor(article)}?v=presda-wc-polish-20260603" alt="${escapeHtml(article.imageAlt || article.title)}" loading="lazy" />
+      <span>${escapeHtml(article.category)}</span>
+      <strong>${escapeHtml(article.title)}</strong>
+    </a>
+  `).join("");
+})();
