@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-worldcup-nav-20260604";
+const cacheVersion = "presda-new-articles-20260604";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -466,6 +466,8 @@ function articlePage(article) {
   const canonical = absoluteArticleUrl(article);
   const seoTitle = article.seoTitle || `${article.title} | PRESDA`;
   const seoDescription = article.metaDescription || article.excerpt;
+  const encodedCanonical = encodeURIComponent(canonical);
+  const encodedTitle = encodeURIComponent(article.title);
   const articleContent = article.content.map((block, index) => {
     if (String(block).startsWith("## ")) {
       return `<h2>${textHtml(article, String(block).slice(3))}</h2>`;
@@ -547,6 +549,11 @@ ${ticker()}
             <span>Filed Under</span>
             <strong data-article-sidebar-category>${esc(article.category)}</strong>
             <span data-article-source-small>${esc(article.source)}</span>
+            <div class="article-share-buttons" aria-label="Share this article">
+              <a href="https://x.com/intent/tweet?url=${encodedCanonical}&text=${encodedTitle}" target="_blank" rel="noopener noreferrer">X</a>
+              <a href="https://www.facebook.com/sharer/sharer.php?u=${encodedCanonical}" target="_blank" rel="noopener noreferrer">Facebook</a>
+              <a href="https://www.linkedin.com/sharing/share-offsite/?url=${encodedCanonical}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            </div>
           </aside>
           <div class="article-content" data-article-content>${articleContent}</div>
         </div>

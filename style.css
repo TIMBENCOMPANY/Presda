@@ -2012,6 +2012,45 @@ body[data-article-page] .article-sidebar{
 body[data-article-page] .article-sidebar strong{
   color:var(--accent);
 }
+
+.article-share-buttons{
+  display:grid;
+  gap:10px;
+  margin-top:24px;
+}
+
+.article-share-buttons a{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:42px;
+  padding:10px 12px;
+  border:1px solid color-mix(in srgb,var(--accent) 56%,var(--border));
+  border-radius:999px;
+  color:var(--text);
+  font-family:Orbitron,sans-serif;
+  font-size:.68rem;
+  font-weight:900;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+  background:color-mix(in srgb,var(--card) 78%,transparent);
+  transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease,color .22s ease;
+}
+
+.article-share-buttons a:hover,
+.article-share-buttons a:focus-visible{
+  color:var(--accent);
+  border-color:var(--accent);
+  box-shadow:0 0 22px rgba(255,26,26,.22);
+  transform:translateY(-2px);
+  outline:none;
+}
+
+html.light-mode .article-share-buttons a{
+  background:#fff;
+  box-shadow:0 12px 32px rgba(20,16,14,.06);
+}
+
 body[data-article-page] .article-content{
   color:color-mix(in srgb,var(--text) 88%,var(--muted));
   font-family:var(--editorial-font);
