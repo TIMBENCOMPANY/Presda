@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-contact-compact-20260603";
+const cacheVersion = "presda-worldcup-nav-20260604";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -130,6 +130,7 @@ function header() {
           <a href="/category/ai/">AI</a>
           <a href="/category/business/">Business</a>
           <a href="/category/sport/">Sport</a>
+          <a href="/world-cup-2026/">World Cup 2026</a>
           <a href="/category/world/">World</a>
           <a href="/category/paparazzi/">Paparazzi</a>
           <a href="/category/lifestyle/">Lifestyle</a>

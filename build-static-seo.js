@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-contact-compact-20260603";
+const cacheVersion = "presda-worldcup-nav-20260604";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -15,8 +15,6 @@ if (!marketMatch) throw new Error("Could not find marketTickerRecords array in s
 const articleRecords = vm.runInNewContext(match[1]);
 const marketTickerRecords = vm.runInNewContext(marketMatch[1]);
 const categories = ["AI", "Business", "Sport", "World", "Paparazzi", "Lifestyle", "Travel"];
-const hubCategories = ["World Cup 2026"];
-const contentCategories = [...categories, ...hubCategories];
 
 const esc = (value = "") =>
   String(value).replace(/[&<>"']/g, (char) => ({
@@ -145,6 +143,7 @@ function header() {
           <a href="/category/ai/">AI</a>
           <a href="/category/business/">Business</a>
           <a href="/category/sport/">Sport</a>
+          <a href="/world-cup-2026/">World Cup 2026</a>
           <a href="/category/world/">World</a>
           <a href="/category/paparazzi/">Paparazzi</a>
           <a href="/category/lifestyle/">Lifestyle</a>
@@ -979,7 +978,7 @@ for (const article of articles) {
 
 const categoryDir = path.join(root, "category");
 fs.mkdirSync(categoryDir, { recursive: true });
-for (const category of contentCategories) {
+for (const category of categories) {
   const dir = path.join(categoryDir, categorySlug(category));
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, "index.html"), categoryPage(category));
@@ -1047,7 +1046,7 @@ ${articles.map((article) => `  <url>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>`).join("\n")}
-${contentCategories.map((category) => `  <url>
+${categories.map((category) => `  <url>
     <loc>${siteUrl}/category/${categorySlug(category)}/</loc>
     <lastmod>${articles[0].date}</lastmod>
     <changefreq>weekly</changefreq>

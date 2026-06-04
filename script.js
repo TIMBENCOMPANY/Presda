@@ -766,6 +766,7 @@ const slugify = (value = "") =>
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
 const categorySlug = (category) => slugify(category);
+const categoryUrl = (category) => category === "World Cup 2026" ? "/world-cup-2026/" : `/category/${categorySlug(category)}/`;
 const articleCategories = (article) =>
   [...new Set([article.category, article.secondaryCategory, ...(article.secondaryCategories || [])].filter(Boolean))];
 
@@ -911,7 +912,7 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
   `;
 
   const categoryCard = (category) => `
-    <a class="search-category-card" href="/category/${categorySlug(category)}/" role="option" tabindex="-1">
+    <a class="search-category-card" href="${categoryUrl(category)}" role="option" tabindex="-1">
       <span>Category</span>
       <strong>${escapeHtml(category)}</strong>
       <small>${articles.filter((article) => articleCategories(article).includes(category)).length} PRESDA articles</small>
@@ -1202,11 +1203,13 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
 
 /* PRESDA navigation and section motion */
 (() => {
-  const path = window.location.pathname;
+  const normalizePath = (value) => value.endsWith("/") ? value : `${value}/`;
+  const path = normalizePath(window.location.pathname);
   document.querySelectorAll(".main-nav a").forEach((link) => {
     const href = link.getAttribute("href") || "";
+    const normalizedHref = href.startsWith("/#") ? href : normalizePath(href);
     const isHome = href === "/" && path === "/";
-    const isSection = href !== "/" && !href.startsWith("/#") && path.startsWith(href);
+    const isSection = href !== "/" && !href.startsWith("/#") && path.startsWith(normalizedHref);
     link.classList.toggle("is-active", isHome || isSection);
   });
 

@@ -10,10 +10,15 @@ import { ThemeToggle } from "@/components/ThemeToggle";
 
 const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/#categories", label: "Categories" },
-  { href: "/#trending", label: "Trending" },
-  { href: "/articles", label: "Latest" },
-  { href: "/#topics", label: "Topics" }
+  { href: "/category/ai/", label: "AI" },
+  { href: "/category/business/", label: "Business" },
+  { href: "/category/sport/", label: "Sport" },
+  { href: "/world-cup-2026/", label: "World Cup 2026" },
+  { href: "/category/world/", label: "World" },
+  { href: "/category/paparazzi/", label: "Paparazzi" },
+  { href: "/category/lifestyle/", label: "Lifestyle" },
+  { href: "/contact/", label: "Contact" },
+  { href: "/newsletter/", label: "Newsletter" }
 ];
 
 export function Header() {
