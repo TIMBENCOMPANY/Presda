@@ -3665,3 +3665,394 @@ html.light-mode .info-block{
 @media(max-width:1180px){.social-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important}}
 @media(max-width:768px){.social-contact-section,.presda-footer-contact,.contact-page-section.presda-footer-contact{padding:30px 14px!important}.social-contact-shell,.presda-footer-contact .social-contact-shell{grid-template-columns:1fr!important;gap:18px!important;padding:22px 14px!important}.social-copy h1,.social-copy h2{font-size:clamp(2rem,10.5vw,3.35rem)!important;line-height:.98!important}.social-badge{grid-template-columns:38px minmax(0,1fr)!important;padding:9px 11px 9px 9px!important}.social-badge img{width:38px!important;height:38px!important}.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:10px!important}.social-card{min-height:92px!important;max-height:110px!important;padding:13px 10px!important;gap:7px!important}.social-icon{width:36px!important;height:36px!important;border-radius:12px!important}.social-icon svg{width:20px!important;height:20px!important;stroke-width:2!important}.social-label{font-size:.62rem!important}.social-email .social-label{font-size:clamp(.55rem,2.8vw,.62rem)!important}}
 @media(max-width:380px){.social-card{padding:12px 8px!important}.social-email .social-label{font-size:.53rem!important}}
+
+/* PRESDA premium contact section redesign */
+.presda-contact-section,
+.presda-footer-contact.presda-contact-section,
+.contact-page-section.presda-contact-section{
+  position:relative!important;
+  overflow:hidden!important;
+  width:min(1500px,calc(100% - 32px))!important;
+  margin:clamp(56px,8vw,110px) auto 0!important;
+  padding:0!important;
+  border:0!important;
+  border-radius:0!important;
+  background:transparent!important;
+  box-shadow:none!important;
+}
+
+.presda-contact-section::before{
+  content:"";
+  position:absolute;
+  inset:8% -8% auto auto;
+  width:420px;
+  height:420px;
+  border-radius:999px;
+  background:radial-gradient(circle,rgba(255,31,45,.18),transparent 68%);
+  filter:blur(26px);
+  pointer-events:none;
+}
+
+.presda-contact-shell{
+  position:relative;
+  display:grid!important;
+  grid-template-columns:minmax(0,1fr) minmax(360px,.86fr)!important;
+  gap:clamp(28px,4.6vw,76px)!important;
+  align-items:stretch!important;
+  padding:clamp(28px,4.6vw,70px)!important;
+  border:1px solid color-mix(in srgb,var(--accent) 24%,var(--border))!important;
+  border-radius:30px!important;
+  background:
+    linear-gradient(135deg,rgba(255,31,45,.08),transparent 34%),
+    linear-gradient(180deg,color-mix(in srgb,var(--card) 92%,transparent),color-mix(in srgb,var(--bg) 96%,transparent))!important;
+  box-shadow:0 34px 100px rgba(0,0,0,.34),0 0 42px rgba(255,31,45,.08)!important;
+}
+
+.presda-contact-form-panel{
+  position:relative;
+  z-index:2;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  min-width:0;
+}
+
+.contact-kicker,
+.contact-map-header span{
+  color:var(--accent);
+  font-family:Orbitron,sans-serif;
+  font-size:.74rem;
+  font-weight:900;
+  letter-spacing:.16em;
+  text-transform:uppercase;
+}
+
+.presda-contact-form-panel h2{
+  max-width:760px;
+  margin:14px 0 14px;
+  color:var(--text);
+  font-family:Orbitron,sans-serif;
+  font-size:clamp(2.65rem,6.2vw,6.25rem);
+  font-weight:900;
+  line-height:.9;
+  letter-spacing:0;
+  text-transform:uppercase;
+}
+
+.presda-contact-form-panel p{
+  max-width:520px;
+  margin:0 0 clamp(26px,3vw,42px);
+  color:var(--muted);
+  font-family:var(--editorial-font);
+  font-size:clamp(1.05rem,1.4vw,1.35rem);
+  line-height:1.55;
+}
+
+.presda-contact-form{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:16px;
+  max-width:760px;
+}
+
+.presda-contact-form label{
+  display:grid;
+  gap:8px;
+  min-width:0;
+}
+
+.presda-contact-form .full-field{
+  grid-column:1 / -1;
+}
+
+.presda-contact-form span{
+  color:color-mix(in srgb,var(--text) 72%,var(--muted));
+  font-family:Orbitron,sans-serif;
+  font-size:.68rem;
+  font-weight:900;
+  letter-spacing:.11em;
+  text-transform:uppercase;
+}
+
+.presda-contact-form input,
+.presda-contact-form textarea{
+  width:100%;
+  border:1px solid color-mix(in srgb,var(--border) 78%,var(--accent));
+  border-radius:16px;
+  padding:15px 16px;
+  color:var(--text);
+  font:500 1rem/1.4 Inter,sans-serif;
+  background:color-mix(in srgb,var(--bg) 56%,transparent);
+  outline:none;
+  transition:border-color .22s ease,box-shadow .22s ease,background .22s ease;
+}
+
+.presda-contact-form textarea{
+  resize:vertical;
+  min-height:150px;
+}
+
+.presda-contact-form input:focus,
+.presda-contact-form textarea:focus{
+  border-color:var(--accent);
+  background:color-mix(in srgb,var(--card) 82%,transparent);
+  box-shadow:0 0 0 4px rgba(255,31,45,.1),0 0 24px rgba(255,31,45,.1);
+}
+
+.presda-contact-form button{
+  grid-column:1 / -1;
+  justify-self:start;
+  min-width:min(100%,240px);
+  border:1px solid var(--accent);
+  border-radius:999px;
+  padding:16px 28px;
+  color:#fff;
+  font-family:Orbitron,sans-serif;
+  font-size:.76rem;
+  font-weight:900;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  background:linear-gradient(135deg,#ff1f2d,#b80012);
+  box-shadow:0 18px 42px rgba(255,31,45,.18);
+  cursor:pointer;
+  transition:transform .22s ease,box-shadow .22s ease,filter .22s ease;
+}
+
+.presda-contact-form button:hover,
+.presda-contact-form button:focus-visible{
+  transform:translateY(-2px);
+  box-shadow:0 24px 58px rgba(255,31,45,.28);
+  filter:saturate(1.08);
+  outline:none;
+}
+
+.presda-contact-map-panel{
+  position:relative;
+  isolation:isolate;
+  min-height:520px;
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  gap:28px;
+  padding:clamp(22px,3vw,36px);
+  border:1px solid color-mix(in srgb,var(--accent) 22%,var(--border));
+  border-radius:26px;
+  background:
+    radial-gradient(circle at 74% 26%,rgba(255,31,45,.16),transparent 24%),
+    linear-gradient(135deg,rgba(255,255,255,.035),transparent 46%),
+    color-mix(in srgb,var(--card) 82%,#050505);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.05),0 24px 80px rgba(0,0,0,.22);
+}
+
+.presda-contact-map-panel::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  z-index:-2;
+  opacity:.2;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 520'%3E%3Cg fill='none' stroke='%23ffffff' stroke-width='1.6' opacity='.9'%3E%3Cpath d='M72 206c33-32 91-45 151-38 53 6 88 37 132 37 42 0 67-41 115-43 54-2 90 44 140 48 58 5 108-42 173-29 34 7 57 28 75 55'/%3E%3Cpath d='M116 298c58-30 112-25 160-7 52 20 93 55 150 42 58-13 83-65 144-68 57-3 91 39 143 45 44 5 77-14 107-36'/%3E%3Cpath d='M214 126c-20 50-8 95 42 112M348 186c34 36 42 78 14 124M512 146c-35 42-30 92 16 139M664 192c42 44 47 86 16 126M760 138c-10 58 12 99 64 126'/%3E%3Cpath d='M80 382c110-38 210-41 298-9 81 30 154 32 233 0 72-29 141-22 222 18'/%3E%3C/g%3E%3Cg fill='%23ff1f2d'%3E%3Ccircle cx='222' cy='207' r='4'/%3E%3Ccircle cx='475' cy='164' r='4'/%3E%3Ccircle cx='642' cy='211' r='4'/%3E%3Ccircle cx='734' cy='310' r='4'/%3E%3Ccircle cx='392' cy='337' r='4'/%3E%3C/g%3E%3C/svg%3E");
+  background-size:cover;
+  background-position:center;
+}
+
+.presda-contact-map-panel::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  z-index:-1;
+  background:
+    linear-gradient(90deg,rgba(255,31,45,.07) 1px,transparent 1px),
+    linear-gradient(0deg,rgba(255,31,45,.05) 1px,transparent 1px);
+  background-size:44px 44px;
+  mask-image:radial-gradient(circle at 62% 44%,#000,transparent 72%);
+  opacity:.45;
+}
+
+.contact-map-glow{
+  position:absolute;
+  inset:auto -18% -18% auto;
+  width:260px;
+  height:260px;
+  border-radius:999px;
+  background:radial-gradient(circle,rgba(255,31,45,.25),transparent 68%);
+  filter:blur(12px);
+  pointer-events:none;
+}
+
+.contact-map-header{
+  display:grid;
+  gap:10px;
+}
+
+.contact-map-header strong{
+  max-width:420px;
+  color:var(--text);
+  font-family:Orbitron,sans-serif;
+  font-size:clamp(1.5rem,2.6vw,2.4rem);
+  line-height:1;
+  text-transform:uppercase;
+}
+
+.contact-info-grid{
+  display:grid;
+  gap:12px;
+}
+
+.contact-info-card{
+  display:grid;
+  grid-template-columns:42px minmax(0,1fr);
+  align-items:center;
+  gap:14px;
+  min-height:72px;
+  padding:14px;
+  border:1px solid color-mix(in srgb,var(--accent) 20%,var(--border));
+  border-radius:18px;
+  color:var(--text);
+  background:rgba(5,5,5,.34);
+  backdrop-filter:blur(16px);
+  transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease,background .22s ease;
+}
+
+.contact-info-card:hover,
+.contact-info-card:focus-visible{
+  transform:translateY(-2px);
+  border-color:var(--accent);
+  box-shadow:0 16px 42px rgba(255,31,45,.14);
+  outline:none;
+}
+
+.contact-info-icon{
+  display:grid;
+  place-items:center;
+  width:42px;
+  height:42px;
+  border:1px solid rgba(255,31,45,.38);
+  border-radius:14px;
+  color:var(--accent);
+  background:rgba(255,31,45,.07);
+}
+
+.contact-info-icon svg{
+  width:22px;
+  height:22px;
+  fill:none;
+  stroke:currentColor;
+  stroke-width:1.7;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+}
+
+.contact-info-card strong{
+  display:block;
+  overflow-wrap:anywhere;
+  color:var(--text);
+  font-family:Orbitron,sans-serif;
+  font-size:.82rem;
+  line-height:1.15;
+  text-transform:uppercase;
+}
+
+.contact-info-card small{
+  display:block;
+  margin-top:4px;
+  overflow-wrap:anywhere;
+  color:var(--muted);
+  font:600 .82rem/1.25 Inter,sans-serif;
+}
+
+html.light-mode .presda-contact-shell{
+  background:
+    linear-gradient(135deg,rgba(255,31,45,.055),transparent 36%),
+    #fff!important;
+  box-shadow:0 30px 80px rgba(20,16,14,.1),0 0 30px rgba(255,31,45,.06)!important;
+}
+
+html.light-mode .presda-contact-form input,
+html.light-mode .presda-contact-form textarea{
+  background:#f7f4ed;
+  border-color:rgba(20,16,14,.12);
+}
+
+html.light-mode .presda-contact-form input:focus,
+html.light-mode .presda-contact-form textarea:focus{
+  background:#fff;
+}
+
+html.light-mode .presda-contact-map-panel{
+  background:
+    radial-gradient(circle at 74% 26%,rgba(255,31,45,.1),transparent 24%),
+    #f7f4ed;
+  box-shadow:0 24px 60px rgba(20,16,14,.08);
+}
+
+html.light-mode .presda-contact-map-panel::before{
+  filter:invert(1);
+  opacity:.13;
+}
+
+html.light-mode .contact-info-card{
+  background:rgba(255,255,255,.74);
+  box-shadow:0 14px 34px rgba(20,16,14,.06);
+}
+
+@media(max-width:980px){
+  .presda-contact-shell{
+    grid-template-columns:1fr!important;
+  }
+
+  .presda-contact-map-panel{
+    min-height:auto;
+  }
+}
+
+@media(max-width:720px){
+  .presda-contact-section,
+  .presda-footer-contact.presda-contact-section,
+  .contact-page-section.presda-contact-section{
+    width:calc(100% - 24px)!important;
+    margin-top:42px!important;
+  }
+
+  .presda-contact-shell{
+    padding:24px 16px!important;
+    border-radius:24px!important;
+    gap:28px!important;
+  }
+
+  .presda-contact-form-panel h2{
+    font-size:clamp(2.35rem,12vw,4.5rem);
+  }
+
+  .presda-contact-form{
+    grid-template-columns:1fr;
+    gap:14px;
+  }
+
+  .presda-contact-form button{
+    width:100%;
+    justify-self:stretch;
+  }
+
+  .presda-contact-map-panel{
+    padding:18px;
+    border-radius:22px;
+  }
+
+  .contact-info-card{
+    grid-template-columns:38px minmax(0,1fr);
+    min-height:66px;
+    padding:12px;
+  }
+
+  .contact-info-icon{
+    width:38px;
+    height:38px;
+    border-radius:12px;
+  }
+
+  .contact-info-icon svg{
+    width:20px;
+    height:20px;
+  }
+}

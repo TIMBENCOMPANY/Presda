@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-new-articles-20260604";
+const cacheVersion = "presda-contact-redesign-20260604";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -171,7 +171,7 @@ function header() {
 
 function footer() {
   return socialSection()
-    .replace('<section class="social-contact-section"', '<footer class="social-contact-section presda-footer-contact"')
+    .replace('<section class="social-contact-section presda-contact-section"', '<footer class="social-contact-section presda-contact-section presda-footer-contact"')
     .replace('</section>', '</footer>');
 }
 
@@ -247,40 +247,63 @@ function socialIcon(type) {
     x: `<svg ${attrs}><path d="M16 14l33 36"></path><path d="M48 14L15 50"></path><path d="M20 14h9l15 36h-9z"></path></svg>`,
     facebook: `<svg ${attrs}><path d="M38 14h-6a9 9 0 0 0-9 9v7h-6v9h6v13h10V39h7l2-9h-9v-6a2.5 2.5 0 0 1 2.5-2.5H42V14z"></path></svg>`,
     linkedin: `<svg ${attrs}><path d="M18 27v23"></path><path d="M18 18v.2"></path><path d="M30 50V27"></path><path d="M30 37c0-6 4-10 10-10s9 4 9 11v12"></path></svg>`,
-    email: `<svg ${attrs}><rect x="10" y="16" width="44" height="32" rx="7"></rect><path d="M12 20l20 16 20-16"></path><path d="M12 46l14-13"></path><path d="M52 46L38 33"></path></svg>`
+    email: `<svg ${attrs}><rect x="10" y="16" width="44" height="32" rx="7"></rect><path d="M12 20l20 16 20-16"></path><path d="M12 46l14-13"></path><path d="M52 46L38 33"></path></svg>`,
+    world: `<svg ${attrs}><path d="M32 54s17-15 17-29a17 17 0 0 0-34 0c0 14 17 29 17 29z"></path><circle cx="32" cy="25" r="6"></circle><path d="M24 25h16M32 17c3 4 4 7 4 8s-1 4-4 8M32 17c-3 4-4 7-4 8s1 4 4 8"></path></svg>`
   };
   return icons[type] || icons.email;
 }
 
 function socialSection() {
   const socials = [
-    { type: "x", label: "X", href: "https://x.com/PresdaOfficial" },
-    { type: "instagram", label: "Instagram", href: "https://www.instagram.com/presdaofficial" },
-    { type: "facebook", label: "Facebook", href: "https://www.facebook.com/profile.php?id=61589635535583" },
-    { type: "linkedin", label: "LinkedIn", href: "https://www.linkedin.com/company/presda" },
-    { type: "email", label: "contact@presda.com", href: "mailto:contact@presda.com" }
+    { type: "email", label: "contact@presda.com", detail: "Newsroom email", href: "mailto:contact@presda.com" },
+    { type: "world", label: "Amsterdam, Netherlands", detail: "Editorial base", href: "https://maps.google.com/?q=Amsterdam%2C%20Netherlands" },
+    { type: "x", label: "X", detail: "@PresdaOfficial", href: "https://x.com/PresdaOfficial" },
+    { type: "instagram", label: "Instagram", detail: "@presdaofficial", href: "https://www.instagram.com/presdaofficial" },
+    { type: "facebook", label: "Facebook", detail: "PRESDA Official", href: "https://www.facebook.com/profile.php?id=61589635535583" },
+    { type: "linkedin", label: "LinkedIn", detail: "PRESDA Network", href: "https://www.linkedin.com/company/presda" }
   ];
 
-  return `      <section class="social-contact-section" aria-labelledby="connect-title">
-        <div class="social-contact-shell">
-          <div class="social-copy">
-            <span>Network</span>
-            <h2 id="connect-title"><span class="connect-word">CONNECT</span> WITH PRESDA</h2>
-            <p>Follow the signal across every platform.</p>
-            <div class="social-badge" aria-label="PRESDA official network">
-              <img class="badge-logo-dark" src="/images/brand/ptransparent.png?v=${cacheVersion}" alt="PRESDA P transparent badge" loading="lazy" />
-              <img class="badge-logo-light" src="/favicon-light.png?v=${cacheVersion}" alt="PRESDA P light mode badge" loading="lazy" />
-              <div>
-                <strong>PRESDA Official Network</strong>
-                <small>@PresdaOfficial</small>
-              </div>
-            </div>
+  return `      <section class="social-contact-section presda-contact-section" aria-labelledby="connect-title">
+        <div class="presda-contact-shell">
+          <div class="presda-contact-form-panel">
+            <span class="contact-kicker">Newsroom Signal</span>
+            <h2 id="connect-title">CONTACT PRESDA</h2>
+            <p>Follow the signal. Reach our newsroom.</p>
+            <form class="presda-contact-form" action="mailto:contact@presda.com" method="post" enctype="text/plain">
+              <label>
+                <span>Name</span>
+                <input type="text" name="name" autocomplete="name" required />
+              </label>
+              <label>
+                <span>Email</span>
+                <input type="email" name="email" autocomplete="email" required />
+              </label>
+              <label class="full-field">
+                <span>Subject</span>
+                <input type="text" name="subject" required />
+              </label>
+              <label class="full-field">
+                <span>Message</span>
+                <textarea name="message" rows="6" required></textarea>
+              </label>
+              <button type="submit">SEND MESSAGE</button>
+            </form>
           </div>
-          <div class="social-grid">
-            ${socials.map((item) => `<a class="social-card social-${esc(item.type)}" href="${esc(item.href)}"${item.href.startsWith("mailto:") ? "" : ` target="_blank" rel="noopener noreferrer"`} aria-label="${esc(item.label)}">
-              <span class="social-icon">${socialIcon(item.type)}</span>
-              <span class="social-label">${esc(item.label)}</span>
-            </a>`).join("")}
+          <div class="presda-contact-map-panel" aria-label="PRESDA contact information">
+            <div class="contact-map-glow" aria-hidden="true"></div>
+            <div class="contact-map-header">
+              <span>Global Desk</span>
+              <strong>PRESDA Official Network</strong>
+            </div>
+            <div class="contact-info-grid">
+              ${socials.map((item) => `<a class="contact-info-card contact-${esc(item.type)}" href="${esc(item.href)}"${item.href.startsWith("mailto:") ? "" : ` target="_blank" rel="noopener noreferrer"`} aria-label="${esc(item.label)}">
+                <span class="contact-info-icon">${socialIcon(item.type)}</span>
+                <span>
+                  <strong>${esc(item.label)}</strong>
+                  <small>${esc(item.detail)}</small>
+                </span>
+              </a>`).join("")}
+            </div>
           </div>
         </div>
       </section>`;
