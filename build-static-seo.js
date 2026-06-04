@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-contact-reference-20260604";
+const cacheVersion = "presda-contact-final-polish-20260604";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -265,10 +265,6 @@ function socialSection() {
 
   return `      <section class="social-contact-section presda-contact-section" aria-labelledby="connect-title">
         <div class="presda-contact-shell">
-          <span class="contact-signal-rail" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>
-          <span class="contact-hud-mark contact-hud-mark-one" aria-hidden="true"></span>
-          <span class="contact-hud-mark contact-hud-mark-two" aria-hidden="true"></span>
-          <span class="contact-hud-mark contact-hud-mark-three" aria-hidden="true"></span>
           <div class="presda-contact-form-panel">
             <span class="contact-kicker">Newsroom Signal</span>
             <h2 id="connect-title">CONTACT PRESDA</h2>

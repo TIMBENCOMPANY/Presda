@@ -118,6 +118,11 @@ const fanVoteData = {
   const seconds = countdown.querySelector("[data-seconds]");
 
   const pad = (value) => String(value).padStart(2, "0");
+  const renderDigits = (node, value) => {
+    if (!node) return;
+    node.innerHTML = pad(value).slice(-2).split("").map((digit) => `<span class="wc-flip-digit">${digit}</span>`).join("");
+  };
+
   const draw = () => {
     const distance = Math.max(0, target - Date.now());
     const totalSeconds = Math.floor(distance / 1000);
@@ -125,10 +130,10 @@ const fanVoteData = {
     const h = Math.floor((totalSeconds % 86400) / 3600);
     const m = Math.floor((totalSeconds % 3600) / 60);
     const s = totalSeconds % 60;
-    if (days) days.textContent = pad(d);
-    if (hours) hours.textContent = pad(h);
-    if (minutes) minutes.textContent = pad(m);
-    if (seconds) seconds.textContent = pad(s);
+    renderDigits(days, d);
+    renderDigits(hours, h);
+    renderDigits(minutes, m);
+    renderDigits(seconds, s);
   };
 
   draw();
@@ -145,7 +150,7 @@ const fanVoteData = {
   const rows = Array.from(document.querySelectorAll(".wc-group-card tbody tr"));
   const seen = new Set();
   const favoriteOrder = new Map(fanVoteData.favorites.map((team, index) => [team, index]));
-  let expanded = false;
+  let expanded = true;
 
   const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
     "&": "&amp;",
@@ -196,7 +201,7 @@ const fanVoteData = {
       }
       return votesFor(b) - votesFor(a);
     });
-    const visible = expanded || voted ? sorted : sorted.slice(0, fanVoteData.favorites.length);
+    const visible = sorted;
 
     if (totalNode) totalNode.textContent = `${total.toLocaleString()} votes`;
     if (stateNode) {
@@ -205,8 +210,8 @@ const fanVoteData = {
         : "Choose one team to unlock results.";
     }
     if (toggle) {
-      toggle.hidden = !!voted || teams.length <= fanVoteData.favorites.length;
-      toggle.textContent = expanded ? "Show favorites" : "View all teams";
+      toggle.hidden = true;
+      toggle.textContent = "View all teams";
     }
 
     list.innerHTML = visible.map((team) => {
@@ -216,14 +221,20 @@ const fanVoteData = {
       const [a, b, c] = team.colors;
       const ranking = team.ranking ? `FIFA ranking ${team.ranking}` : team.group;
       const buttonText = voted ? `${team.name} fan vote result ${exact}%` : `Vote for ${team.name}`;
-      return `<button class="wc-fan-vote-row ${voted === team.name ? "is-selected" : ""}" type="button" data-vote-team="${escapeHtml(team.name)}" style="--vote-a:${a};--vote-b:${b};--vote-c:${c};--vote-width:${exact}%;" aria-label="${escapeHtml(buttonText)}">
+      const action = voted === team.name
+        ? `<span class="wc-vote-counted">✓ Your vote has been counted</span>`
+        : voted
+          ? `<span class="wc-vote-counted">Results live</span>`
+          : `<button class="wc-vote-action" type="button" data-vote-team="${escapeHtml(team.name)}" aria-label="${escapeHtml(buttonText)}">Vote</button>`;
+      return `<article class="wc-fan-vote-row ${voted === team.name ? "is-selected" : ""}" style="--vote-a:${a};--vote-b:${b};--vote-c:${c};--vote-width:${exact}%;" aria-label="${escapeHtml(buttonText)}">
         <span class="wc-fan-team">
           <img src="${escapeHtml(team.flag)}" alt="${escapeHtml(team.name)} flag" loading="lazy" />
           <span><strong>${escapeHtml(team.name)}</strong><small>${escapeHtml(ranking)}</small></span>
         </span>
         <span class="wc-fan-progress" aria-hidden="true"><i></i></span>
         <span class="wc-fan-percent">${percent}%<small>${count.toLocaleString()} votes</small></span>
-      </button>`;
+        ${action}
+      </article>`;
     }).join("");
   };
 
