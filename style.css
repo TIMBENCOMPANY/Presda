@@ -4236,9 +4236,16 @@ html.light-mode .contact-info-card{
     max-width:100%!important;
     height:auto!important;
     min-height:0!important;
-    aspect-ratio:16/9!important;
+    aspect-ratio:4/3!important;
     border-radius:22px 22px 16px 16px!important;
     overflow:hidden!important;
+  }
+
+  body[data-home] .article-card picture{
+    display:block!important;
+    width:100%!important;
+    height:100%!important;
+    max-width:100%!important;
   }
 
   body[data-home] .article-card img{

@@ -25,6 +25,8 @@ const articleRecords = [
     source: "PRESDA Travel Desk",
     imageDark: "/images/articles/travel-hidden-gems-2026.png",
     imageLight: "/images/articles/travel-hidden-gems-2026.png",
+    imageDesktop: "/images/articles/travel-hidden-gems-2026.png",
+    imageMobile: "/images/articles/travel-hidden-gems-2026-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
@@ -81,6 +83,8 @@ const articleRecords = [
     source: "PRESDA Business Desk",
     imageDark: "/images/articles/valuable-companies-2026.png",
     imageLight: "/images/articles/valuable-companies-2026.png",
+    imageDesktop: "/images/articles/valuable-companies-2026.png",
+    imageMobile: "/images/articles/valuable-companies-2026-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
@@ -133,6 +137,8 @@ const articleRecords = [
     source: "PRESDA Culture Desk",
     imageDark: "/images/articles/katy-trudeau-speculation.png",
     imageLight: "/images/articles/katy-trudeau-speculation.png",
+    imageDesktop: "/images/articles/katy-trudeau-speculation.png",
+    imageMobile: "/images/articles/katy-trudeau-speculation-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center 18%",
@@ -177,6 +183,8 @@ const articleRecords = [
     source: "PRESDA World Desk",
     imageDark: "/images/articles/palestine-humanitarian-crisis.png",
     imageLight: "/images/articles/palestine-humanitarian-crisis.png",
+    imageDesktop: "/images/articles/palestine-humanitarian-crisis.png",
+    imageMobile: "/images/articles/palestine-humanitarian-crisis-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
@@ -224,6 +232,8 @@ const articleRecords = [
     source: "PRESDA World Desk",
     imageDark: "/images/articles/dubai-future-cities.png",
     imageLight: "/images/articles/dubai-future-cities.png",
+    imageDesktop: "/images/articles/dubai-future-cities.png",
+    imageMobile: "/images/articles/dubai-future-cities-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
@@ -273,6 +283,8 @@ const articleRecords = [
     source: "PRESDA Tech Desk",
     imageDark: "/images/articles/openai-sam-dark.png",
     imageLight: "/images/articles/openai-sam-light.png",
+    imageDesktop: "/images/articles/openai-sam-dark.png",
+    imageMobile: "/images/articles/openai-sam-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center 18%",
@@ -322,6 +334,8 @@ const articleRecords = [
     source: "PRESDA Sport Desk",
     imageDark: "/images/articles/xabi-alonso-dark.png",
     imageLight: "/images/articles/xabi-alonso-light.png",
+    imageDesktop: "/images/articles/xabi-alonso-dark.png",
+    imageMobile: "/images/articles/xabi-alonso-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center 18%",
@@ -368,6 +382,8 @@ const articleRecords = [
     source: "PRESDA Culture Desk",
     imageDark: "/images/articles/gta6-poster-dark.png",
     imageLight: "/images/articles/gta6-poster-light.png",
+    imageDesktop: "/images/articles/gta6-poster-dark.png",
+    imageMobile: "/images/articles/gta6-poster-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
@@ -419,6 +435,8 @@ const articleRecords = [
     source: "PRESDA Business Desk",
     imageDark: "/images/articles/elon-mars-dark.png",
     imageLight: "/images/articles/elon-mars-light.png",
+    imageDesktop: "/images/articles/elon-mars-dark.png",
+    imageMobile: "/images/articles/elon-mars-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center 18%",
@@ -466,6 +484,8 @@ const articleRecords = [
     source: "PRESDA Sport Desk",
     imageDark: "/images/articles/fifa-world-cup-dark.png",
     imageLight: "/images/articles/fifa-world-cup-light.png",
+    imageDesktop: "/images/articles/fifa-world-cup-dark.png",
+    imageMobile: "/images/articles/fifa-world-cup-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center 18%",
@@ -517,6 +537,8 @@ const articleRecords = [
     source: "PRESDA Business Desk",
     imageDark: "/images/articles/bill-gates-dark.png",
     imageLight: "/images/articles/bill-gates-light.png",
+    imageDesktop: "/images/articles/bill-gates-dark.png",
+    imageMobile: "/images/articles/bill-gates-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center 18%",
@@ -563,6 +585,8 @@ const articleRecords = [
     source: "PRESDA World Desk",
     imageDark: "/images/articles/japan-ai-care-dark.png",
     imageLight: "/images/articles/japan-ai-care-light.png",
+    imageDesktop: "/images/articles/japan-ai-care-dark.png",
+    imageMobile: "/images/articles/japan-ai-care-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center 20%",
@@ -610,6 +634,8 @@ const articleRecords = [
     source: "PRESDA Culture Desk",
     imageDark: "/images/articles/keanu-kindness-dark.png",
     imageLight: "/images/articles/keanu-kindness-light.png",
+    imageDesktop: "/images/articles/keanu-kindness-dark.png",
+    imageMobile: "/images/articles/keanu-kindness-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center 18%",
@@ -658,6 +684,8 @@ const articleRecords = [
     source: "PRESDA Sport Desk",
     imageDark: "/images/articles/mourinho-real-madrid-dark.png",
     imageLight: "/images/articles/mourinho-real-madrid-light.png",
+    imageDesktop: "/images/articles/mourinho-real-madrid-dark.png",
+    imageMobile: "/images/articles/mourinho-real-madrid-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center 18%",
@@ -712,6 +740,8 @@ const articleRecords = [
     source: "PRESDA Sport Desk",
     imageDark: "/images/articles/the-last-dance-football-2026.png",
     imageLight: "/images/articles/the-last-dance-football-2026.png",
+    imageDesktop: "/images/articles/the-last-dance-football-2026.png",
+    imageMobile: "/images/articles/the-last-dance-football-2026-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
@@ -765,6 +795,8 @@ const articleRecords = [
     source: "PRESDA World Cup Desk",
     imageDark: "/images/articles/world-cup-2026-brands-kits.png",
     imageLight: "/images/articles/world-cup-2026-brands-kits.png",
+    imageDesktop: "/images/articles/world-cup-2026-brands-kits.png",
+    imageMobile: "/images/articles/world-cup-2026-brands-kits-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
@@ -799,6 +831,8 @@ const articleRecords = [
     source: "PRESDA World Desk",
     imageDark: "/images/articles/trump-world-cup-2026.png",
     imageLight: "/images/articles/trump-world-cup-2026.png",
+    imageDesktop: "/images/articles/trump-world-cup-2026.png",
+    imageMobile: "/images/articles/trump-world-cup-2026-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
@@ -832,6 +866,8 @@ const articleRecords = [
     source: "PRESDA Lifestyle Desk",
     imageDark: "/images/articles/david-beckham-beekeeping.png",
     imageLight: "/images/articles/david-beckham-beekeeping.png",
+    imageDesktop: "/images/articles/david-beckham-beekeeping.png",
+    imageMobile: "/images/articles/david-beckham-beekeeping-mobile.png",
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "38% 20%",
@@ -875,10 +911,14 @@ const articles = articleRecords
     const imagePosition = article.imagePosition || (imageFit === "contain" ? "center center" : "center center");
     const imagePositionDesktop = article.imagePositionDesktop || imagePosition;
     const imagePositionMobile = article.imagePositionMobile || imagePositionDesktop;
+    const imageDesktop = article.imageDesktop || article.imageDark || article.image;
+    const imageMobile = article.imageMobile || imageDesktop;
     return {
       ...article,
       id: article.id || String(index + 1).padStart(3, "0"),
       slug: article.slug || slugify(article.title),
+      imageDesktop,
+      imageMobile,
       imageFit,
       imagePosition,
       imagePositionDesktop,
@@ -891,13 +931,13 @@ const imagePairs = Object.fromEntries(
   articles.map((article) => [
     article.slug,
     {
-      dark: article.imageDark || article.image,
+      dark: article.imageDesktop || article.imageDark || article.image,
       light: article.imageLight || article.imageDark || article.image
     }
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-mobile-focal-20260605`;
+const versioned = (src) => `${src}?v=presda-mobile-responsive-images-20260605`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
@@ -1243,7 +1283,7 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
 
   const articleImage = (article) => {
     const themeKey = document.documentElement.classList.contains("light-mode") ? "imageLight" : "imageDark";
-    return versioned(article[themeKey] || article.imageDark || article.imageLight || article.image);
+    return versioned(article[themeKey] || article.imageDesktop || article.imageDark || article.imageLight || article.image);
   };
 
   let active = 0;

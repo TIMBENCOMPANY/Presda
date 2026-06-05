@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-mobile-focal-20260605";
+const cacheVersion = "presda-mobile-responsive-images-20260605";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -44,10 +44,14 @@ const articles = articleRecords
     const imagePosition = article.imagePosition || (imageFit === "contain" ? "center center" : "center center");
     const imagePositionDesktop = article.imagePositionDesktop || imagePosition;
     const imagePositionMobile = article.imagePositionMobile || imagePositionDesktop;
+    const imageDesktop = article.imageDesktop || article.imageDark || article.image;
+    const imageMobile = article.imageMobile || imageDesktop;
     return {
       ...article,
       id: article.id || String(index + 1).padStart(3, "0"),
       slug: article.slug || slugify(article.title),
+      imageDesktop,
+      imageMobile,
       imageFit,
       imagePosition,
       imagePositionDesktop,
@@ -219,10 +223,18 @@ function mediaAttrs(article) {
   return `data-image-fit="${esc(fit)}" data-image-position="${esc(position)}" data-image-position-desktop="${esc(desktopPosition)}" data-image-position-mobile="${esc(mobilePosition)}" style="object-fit:${esc(fit)};object-position:${esc(desktopPosition)};--article-image-position-desktop:${esc(desktopPosition)};--article-image-position-mobile:${esc(mobilePosition)};"`;
 }
 
-function articleCard(article, size = "standard") {
+function articleCard(article, size = "standard", options = {}) {
+  const desktopImage = article.imageDesktop || article.imageDark || article.image;
+  const mobileImage = article.imageMobile || desktopImage;
+  const imageMarkup = options.mobileImage
+    ? `<picture>
+          <source media="(max-width: 760px)" srcset="${imageWithVersion(mobileImage)}" />
+          <img src="${imageWithVersion(desktopImage)}" alt="${esc(article.imageAlt)}" loading="lazy" data-article-image-slug="${esc(article.slug)}" data-image-desktop="${esc(desktopImage)}" data-image-mobile="${esc(mobileImage)}" ${mediaAttrs(article)} />
+        </picture>`
+    : `<img src="${imageWithVersion(desktopImage)}" alt="${esc(article.imageAlt)}" loading="lazy" data-article-image-slug="${esc(article.slug)}" data-image-desktop="${esc(desktopImage)}" data-image-mobile="${esc(mobileImage)}" ${mediaAttrs(article)} />`;
   return `<a class="article-card ${size}" href="${articleUrl(article)}">
       <figure class="media-poster-frame media-card-frame">
-        <img src="${imageWithVersion(article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" loading="lazy" data-article-image-slug="${esc(article.slug)}" ${mediaAttrs(article)} />
+        ${imageMarkup}
       </figure>
       <div>
         <span class="category-tag category-${esc(categorySlug(article.category))}">${esc(article.category)}</span>
@@ -328,7 +340,7 @@ function homePage() {
   const latestArticles = [...articles].sort((a, b) => new Date(b.date) - new Date(a.date));
   const mostReadArticles = articles.filter((article) => article.mostRead).concat(articles).filter((article, index, arr) => arr.findIndex((item) => item.slug === article.slug) === index).slice(0, 4);
   const editorPickArticles = articles.filter((article) => article.editorPick).concat(articles).filter((article, index, arr) => arr.findIndex((item) => item.slug === article.slug) === index).slice(0, 4);
-  const featuredGrid = featuredArticles.filter((article) => article.slug !== featured.slug).slice(0, 5).map((article, index) => articleCard(article, index === 0 ? "large" : "standard")).join("");
+  const featuredGrid = featuredArticles.filter((article) => article.slug !== featured.slug).slice(0, 5).map((article, index) => articleCard(article, index === 0 ? "large" : "standard", { mobileImage: true })).join("");
   const categoryGrid = categories.map((category) => `<a class="category-tile" href="/category/${categorySlug(category)}/">
           <span class="category-icon">${categoryIcon(category)}</span>
           <span class="category-name">${category}</span>
@@ -345,9 +357,9 @@ function homePage() {
               <h2>${category} Desk</h2>
             </div>
             <div class="category-story-grid">
-              ${articleCard(lead, "wide")}
+              ${articleCard(lead, "wide", { mobileImage: true })}
               <div class="side-list">
-                ${rest.slice(0, 2).map((article) => articleCard(article, "mini")).join("") || articleCard(fallback, "mini")}
+                ${rest.slice(0, 2).map((article) => articleCard(article, "mini", { mobileImage: true })).join("") || articleCard(fallback, "mini", { mobileImage: true })}
               </div>
             </div>
           </section>`;
@@ -373,7 +385,7 @@ ${commonHead({
   title: "PRESDA - Your Daily Press",
   description: "PRESDA is a premium futuristic news magazine covering AI, business, sport, world, paparazzi, and lifestyle stories.",
   canonical: `${siteUrl}/`,
-  image: featured.imageDark || featured.image
+  image: featured.imageDesktop || featured.imageDark || featured.image
 })}
     <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
   </head>
@@ -398,7 +410,7 @@ ${ticker()}
             </div>
           </div>
           <figure class="hero-media media-poster-frame">
-            <img data-hero-image data-article-image-slug="${esc(featured.slug)}" ${mediaAttrs(featured)} src="${imageWithVersion(featured.imageDark || featured.image)}" alt="${esc(featured.imageAlt)}" />
+            <img data-hero-image data-article-image-slug="${esc(featured.slug)}" ${mediaAttrs(featured)} src="${imageWithVersion(featured.imageDesktop || featured.imageDark || featured.image)}" alt="${esc(featured.imageAlt)}" />
             <figcaption data-hero-source>Source: ${esc(featured.source)}</figcaption>
           </figure>
           <div class="hero-progress" data-hero-progress aria-label="Featured article selector"></div>
@@ -421,7 +433,7 @@ ${ticker()}
           </div>
           <a class="section-link" href="/#latest">View Latest</a>
         </div>
-        <div class="story-row">${trendingArticles.map((article) => articleCard(article, "compact")).join("")}</div>
+        <div class="story-row">${trendingArticles.map((article) => articleCard(article, "compact", { mobileImage: true })).join("")}</div>
       </section>
 
       <section class="content-section latest-stories" id="latest" aria-labelledby="latest-title">
@@ -432,7 +444,7 @@ ${ticker()}
           </div>
           <a class="section-link" href="/#newsletter">Get Briefings</a>
         </div>
-        <div class="latest-grid">${latestArticles.slice(0, 6).map((article, index) => articleCard(article, index === 0 ? "wide" : "standard")).join("")}</div>
+        <div class="latest-grid">${latestArticles.slice(0, 6).map((article, index) => articleCard(article, index === 0 ? "wide" : "standard", { mobileImage: true })).join("")}</div>
       </section>
 
       <section class="content-section category-overview">
@@ -458,7 +470,7 @@ ${ticker()}
             <span>Editor Picks</span>
             <h2>Chosen Signal</h2>
           </div>
-          <div class="story-row editorial-row">${editorPickArticles.map((article) => articleCard(article, "compact")).join("")}</div>
+          <div class="story-row editorial-row">${editorPickArticles.map((article) => articleCard(article, "compact", { mobileImage: true })).join("")}</div>
         </div>
       </section>
 
@@ -513,7 +525,7 @@ function articlePage(article) {
     "@type": "NewsArticle",
     headline: article.title,
     description: seoDescription,
-    image: [absoluteImage(article.imageDark || article.image)],
+    image: [absoluteImage(article.imageDesktop || article.imageDark || article.image)],
     datePublished: article.date,
     dateModified: article.date,
     author: {
@@ -541,7 +553,7 @@ ${commonHead({
   title: seoTitle,
   description: seoDescription,
   canonical,
-  image: article.imageDark || article.image,
+  image: article.imageDesktop || article.imageDark || article.image,
   type: "article",
   published: article.date,
   modified: article.date
@@ -570,7 +582,7 @@ ${ticker()}
             </div>
           </div>
           <figure class="article-image-frame media-poster-frame">
-            <img data-article-image data-article-image-slug="${esc(article.slug)}" ${mediaAttrs(article)} src="${imageWithVersion(article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" />
+            <img data-article-image data-article-image-slug="${esc(article.slug)}" ${mediaAttrs(article)} src="${imageWithVersion(article.imageDesktop || article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" />
           </figure>
         </header>
 
@@ -636,7 +648,7 @@ ${commonHead({
   title: `${category} News | PRESDA`,
   description: `Premium futuristic ${category.toLowerCase()} stories from PRESDA, with cinematic reporting and clean editorial context.`,
   canonical,
-  image: featured.imageDark || featured.image
+  image: featured.imageDesktop || featured.imageDark || featured.image
 })}
     <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
   </head>
@@ -694,7 +706,7 @@ ${commonHead({
   title,
   description,
   canonical,
-  image: featured.imageDark || featured.image
+  image: featured.imageDesktop || featured.imageDark || featured.image
 })}
     <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
   </head>
@@ -780,7 +792,7 @@ ${commonHead({
   title: `${author} | PRESDA`,
   description: `Read the latest PRESDA stories by ${author}, including AI, sport, business, world, travel, and culture coverage.`,
   canonical,
-  image: featured.imageDark || featured.image
+  image: featured.imageDesktop || featured.imageDark || featured.image
 })}
     <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
   </head>
@@ -955,7 +967,7 @@ function rssXml() {
       <pubDate>${rfc822Date(article.date)}</pubDate>
       <author>contact@presda.com (${esc(article.author)})</author>
       <category>${esc(article.category)}</category>
-      <enclosure url="${esc(absoluteImage(article.imageDark || article.image))}" type="image/png" />
+      <enclosure url="${esc(absoluteImage(article.imageDesktop || article.imageDark || article.image))}" type="image/png" />
       <content:encoded><![CDATA[
         ${article.content.map((block) => {
           const value = String(block);
