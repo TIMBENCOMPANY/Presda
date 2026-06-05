@@ -4315,3 +4315,28 @@ html.light-mode .contact-info-card{
     font-size:clamp(.96rem,4.7vw,1.28rem)!important;
   }
 }
+
+/* Article focal-point system: keep card layout stable, tune only image framing. */
+img[data-article-image-slug]{
+  object-position:var(--article-image-position-desktop,var(--article-image-position,center center))!important;
+}
+
+img[data-image-position-desktop="center center"]{object-position:center center!important;}
+img[data-image-position-desktop="center 18%"]{object-position:center 18%!important;}
+img[data-image-position-desktop="center 20%"]{object-position:center 20%!important;}
+img[data-image-position-desktop="38% 20%"]{object-position:38% 20%!important;}
+
+@media(max-width:760px){
+  img[data-article-image-slug]{
+    object-position:var(--article-image-position-mobile,var(--article-image-position-desktop,var(--article-image-position,center center)))!important;
+  }
+
+  img[data-image-position-mobile="center center"]{object-position:center center!important;}
+  img[data-image-position-mobile="center top"]{object-position:center top!important;}
+  img[data-image-position-mobile="center 18%"]{object-position:center 18%!important;}
+  img[data-image-position-mobile="38% top"]{object-position:38% top!important;}
+  body[data-home] img[data-image-position-mobile="center center"]{object-position:center center!important;}
+  body[data-home] img[data-image-position-mobile="center top"]{object-position:center top!important;}
+  body[data-home] img[data-image-position-mobile="center 18%"]{object-position:center 18%!important;}
+  body[data-home] img[data-image-position-mobile="38% top"]{object-position:38% top!important;}
+}

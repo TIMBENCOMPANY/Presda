@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-mobile-home-cards-20260605";
+const cacheVersion = "presda-mobile-focal-20260605";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -41,12 +41,17 @@ const articleCategories = (article) =>
 const articles = articleRecords
   .map((article, index) => {
     const imageFit = article.imageFit || "cover";
+    const imagePosition = article.imagePosition || (imageFit === "contain" ? "center center" : "center center");
+    const imagePositionDesktop = article.imagePositionDesktop || imagePosition;
+    const imagePositionMobile = article.imagePositionMobile || imagePositionDesktop;
     return {
       ...article,
       id: article.id || String(index + 1).padStart(3, "0"),
       slug: article.slug || slugify(article.title),
       imageFit,
-      imagePosition: article.imagePosition || "center center"
+      imagePosition,
+      imagePositionDesktop,
+      imagePositionMobile
     };
   })
   .sort((a, b) => new Date(b.date) - new Date(a.date));
@@ -208,8 +213,10 @@ function breakingTicker() {
 
 function mediaAttrs(article) {
   const fit = article.imageFit || "cover";
-  const position = article.imagePosition || (fit === "contain" ? "center center" : "50% 18%");
-  return `data-image-fit="${esc(fit)}" data-image-position="${esc(position)}" style="object-fit:${esc(fit)};object-position:${esc(position)};"`;
+  const position = article.imagePosition || (fit === "contain" ? "center center" : "center center");
+  const desktopPosition = article.imagePositionDesktop || position;
+  const mobilePosition = article.imagePositionMobile || desktopPosition;
+  return `data-image-fit="${esc(fit)}" data-image-position="${esc(position)}" data-image-position-desktop="${esc(desktopPosition)}" data-image-position-mobile="${esc(mobilePosition)}" style="object-fit:${esc(fit)};object-position:${esc(desktopPosition)};--article-image-position-desktop:${esc(desktopPosition)};--article-image-position-mobile:${esc(mobilePosition)};"`;
 }
 
 function articleCard(article, size = "standard") {

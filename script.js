@@ -27,6 +27,8 @@ const articleRecords = [
     imageLight: "/images/articles/travel-hidden-gems-2026.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center center",
+    imagePositionMobile: "center center",
     imageAlt: "Futuristic travel collage of hidden destinations for PRESDA",
     excerpt: "A cinematic guide to ten under-the-radar destinations where culture, nature, architecture, and quiet luxury meet in 2026.",
     content: [
@@ -81,6 +83,8 @@ const articleRecords = [
     imageLight: "/images/articles/valuable-companies-2026.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center center",
+    imagePositionMobile: "center center",
     imageAlt: "Premium skyline showing the world's most valuable companies in 2026",
     excerpt: "Artificial intelligence, chips, cloud platforms, software, energy, and consumer ecosystems continue to define the top of global market value.",
     content: [
@@ -131,6 +135,8 @@ const articleRecords = [
     imageLight: "/images/articles/katy-trudeau-speculation.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center 18%",
+    imagePositionMobile: "center top",
     imageAlt: "Red carpet media lights representing global celebrity speculation",
     excerpt: "A wave of online attention shows how quickly celebrity culture, politics, and social media can turn public appearances into a worldwide conversation.",
     content: [
@@ -173,6 +179,8 @@ const articleRecords = [
     imageLight: "/images/articles/palestine-humanitarian-crisis.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center center",
+    imagePositionMobile: "center center",
     imageAlt: "Respectful PRESDA visual representing Palestine humanitarian crisis and urgent aid",
     excerpt: "Beyond politics and headlines, the humanitarian emergency in Palestine remains a human story of displacement, hunger, medical pressure, and survival.",
     content: [
@@ -218,6 +226,8 @@ const articleRecords = [
     imageLight: "/images/articles/dubai-future-cities.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center center",
+    imagePositionMobile: "center center",
     imageAlt: "Futuristic Dubai skyline with flying vehicles and sunset light",
     excerpt: "Dubai's next city vision blends vertical architecture, mobility experiments, luxury infrastructure, and cinematic urban ambition.",
     content: [
@@ -265,6 +275,8 @@ const articleRecords = [
     imageLight: "/images/articles/openai-sam-light.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center 18%",
+    imagePositionMobile: "center top",
     imageAlt: "Sam Altman and OpenAI cinematic PRESDA poster on a dark background",
     excerpt: "A new generation of artificial intelligence is pushing faster reasoning, sharper multimodal work, and a more cinematic future for digital assistants.",
     content: [
@@ -312,6 +324,8 @@ const articleRecords = [
     imageLight: "/images/articles/xabi-alonso-light.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center 18%",
+    imagePositionMobile: "center top",
     imageAlt: "Xabi Alonso cinematic football poster with Chelsea flag",
     excerpt: "A new tactical era takes shape as Xabi Alonso becomes the face of pressure, expectation, and elite football control.",
     content: [
@@ -356,6 +370,8 @@ const articleRecords = [
     imageLight: "/images/articles/gta6-poster-light.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center center",
+    imagePositionMobile: "center center",
     imageAlt: "GTA 6 neon Vice City cinematic poster",
     excerpt: "The next major gaming release is already behaving less like a product and more like a global entertainment event.",
     content: [
@@ -405,6 +421,8 @@ const articleRecords = [
     imageLight: "/images/articles/elon-mars-light.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center 18%",
+    imagePositionMobile: "center top",
     imageAlt: "Elon Musk above a futuristic city with SpaceX and Tesla branding",
     excerpt: "Space ambition, investor attention, and spectacle continue to merge as Mars becomes a brand, a mission, and a market narrative.",
     content: [
@@ -450,6 +468,8 @@ const articleRecords = [
     imageLight: "/images/articles/fifa-world-cup-light.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center 18%",
+    imagePositionMobile: "center top",
     imageAlt: "FIFA football official in a stadium cinematic poster",
     excerpt: "Cities, sponsors, broadcasters, and fans are preparing for one of the largest sports spectacles of the decade.",
     content: [
@@ -499,6 +519,8 @@ const articleRecords = [
     imageLight: "/images/articles/bill-gates-light.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center 18%",
+    imagePositionMobile: "center top",
     imageAlt: "Bill Gates foundation cinematic poster with global health and innovation panels",
     excerpt: "Global health, climate innovation, education, and science remain the pillars of one of the world's most watched philanthropic machines.",
     content: [
@@ -543,6 +565,8 @@ const articleRecords = [
     imageLight: "/images/articles/japan-ai-care-light.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center 20%",
+    imagePositionMobile: "center 18%",
     imageAlt: "Japanese elder holding hands with a care robot in a cinematic poster",
     excerpt: "Facing an aging population and caregiver shortages, Japan is turning to AI-powered robots to support daily care.",
     content: [
@@ -588,6 +612,8 @@ const articleRecords = [
     imageLight: "/images/articles/keanu-kindness-light.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center 18%",
+    imagePositionMobile: "center top",
     imageAlt: "Keanu Reeves comforting a child in a hospital room with kindness overlays",
     excerpt: "The actor's quiet generosity becomes a reminder that compassion can travel further than performance.",
     content: [
@@ -634,6 +660,8 @@ const articleRecords = [
     imageLight: "/images/articles/mourinho-real-madrid-light.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center 18%",
+    imagePositionMobile: "center top",
     imageAlt: "Jose Mourinho with Real Madrid crest and Santiago Bernabeu stadium",
     excerpt: "Real Madrid nostalgia, tactical identity, and elite football pressure collide whenever Mourinho's name returns to the conversation.",
     content: [
@@ -686,6 +714,8 @@ const articleRecords = [
     imageLight: "/images/articles/the-last-dance-football-2026.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center center",
+    imagePositionMobile: "center center",
     imageAlt: "Lionel Messi, Cristiano Ronaldo, and Neymar walking toward a stadium for the 2026 World Cup final chapter",
     excerpt: "As the 2026 World Cup approaches, Lionel Messi, Cristiano Ronaldo, and Neymar stand near the final chapter of an era that shaped modern football.",
     content: [
@@ -737,6 +767,8 @@ const articleRecords = [
     imageLight: "/images/articles/world-cup-2026-brands-kits.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center center",
+    imagePositionMobile: "center center",
     imageAlt: "World Cup 2026 football kits with Brazil, Argentina and Morocco shirts under red stadium lights",
     excerpt: "Nike, Adidas, Puma and the global battle for football dominance.",
     content: [
@@ -769,6 +801,8 @@ const articleRecords = [
     imageLight: "/images/articles/trump-world-cup-2026.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "center center",
+    imagePositionMobile: "center center",
     imageAlt: "Donald Trump with World Cup 2026 trophy and United States flag in a cinematic PRESDA poster",
     excerpt: "Security, infrastructure and global attention place the tournament at the center of American politics.",
     content: [
@@ -800,6 +834,8 @@ const articleRecords = [
     imageLight: "/images/articles/david-beckham-beekeeping.png",
     imageFit: "cover",
     imagePosition: "center center",
+    imagePositionDesktop: "38% 20%",
+    imagePositionMobile: "38% top",
     imageAlt: "David Beckham standing beside beehives at sunset with bees flying around him",
     excerpt: "While millions still remember David Beckham for his football career and business empire, one of his most surprising passions today is beekeeping.",
     content: [
@@ -836,12 +872,17 @@ const articleCategories = (article) =>
 const articles = articleRecords
   .map((article, index) => {
     const imageFit = article.imageFit || "cover";
+    const imagePosition = article.imagePosition || (imageFit === "contain" ? "center center" : "center center");
+    const imagePositionDesktop = article.imagePositionDesktop || imagePosition;
+    const imagePositionMobile = article.imagePositionMobile || imagePositionDesktop;
     return {
       ...article,
       id: article.id || String(index + 1).padStart(3, "0"),
       slug: article.slug || slugify(article.title),
       imageFit,
-      imagePosition: article.imagePosition || (imageFit === "contain" ? "center center" : "center center")
+      imagePosition,
+      imagePositionDesktop,
+      imagePositionMobile
     };
   })
   .sort((a, b) => new Date(b.date) - new Date(a.date));
@@ -856,7 +897,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-beckham-20260603`;
+const versioned = (src) => `${src}?v=presda-mobile-focal-20260605`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
@@ -1224,11 +1265,19 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
       excerpt.innerHTML = highlight(article.excerpt, article.highlightTerms);
       if (link) link.href = `/articles/${article.slug}/`;
       if (reading) reading.textContent = article.readingTime;
+      const imageFit = article.imageFit || "cover";
+      const imagePosition = article.imagePosition || (imageFit === "contain" ? "center center" : "center center");
+      const imagePositionDesktop = article.imagePositionDesktop || imagePosition;
+      const imagePositionMobile = article.imagePositionMobile || imagePositionDesktop;
       image.dataset.articleImageSlug = article.slug;
-      image.dataset.imageFit = article.imageFit || "cover";
-      image.dataset.imagePosition = article.imagePosition || (image.dataset.imageFit === "contain" ? "center center" : "50% 18%");
-      image.style.objectFit = image.dataset.imageFit;
-      image.style.objectPosition = image.dataset.imagePosition;
+      image.dataset.imageFit = imageFit;
+      image.dataset.imagePosition = imagePosition;
+      image.dataset.imagePositionDesktop = imagePositionDesktop;
+      image.dataset.imagePositionMobile = imagePositionMobile;
+      image.style.objectFit = imageFit;
+      image.style.objectPosition = imagePositionDesktop;
+      image.style.setProperty("--article-image-position-desktop", imagePositionDesktop);
+      image.style.setProperty("--article-image-position-mobile", imagePositionMobile);
       image.src = articleImage(article);
       image.alt = article.imageAlt;
       if (caption) caption.textContent = `Source: ${article.source}`;
