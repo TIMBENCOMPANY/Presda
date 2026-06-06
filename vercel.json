@@ -31,6 +31,11 @@
     { "source": "/articles/japan-enters-ai-care-era", "destination": "/articles/japan-enters-ai-care-era/", "permanent": true },
     { "source": "/articles/keanu-reeves-kindness-powerful", "destination": "/articles/keanu-reeves-kindness-powerful/", "permanent": true },
     { "source": "/articles/mourinho-real-madrid-return-signal", "destination": "/articles/mourinho-real-madrid-return-signal/", "permanent": true },
+    { "source": "/articles/the-last-dance-footballs-greatest-generation", "destination": "/articles/the-last-dance-footballs-greatest-generation/", "permanent": true },
+    { "source": "/articles/the-brands-behind-world-cup-2026", "destination": "/articles/the-brands-behind-world-cup-2026/", "permanent": true },
+    { "source": "/articles/how-donald-trump-could-shape-world-cup-2026", "destination": "/articles/how-donald-trump-could-shape-world-cup-2026/", "permanent": true },
+    { "source": "/articles/david-beckhams-unexpected-passion-beyond-football", "destination": "/articles/david-beckhams-unexpected-passion-beyond-football/", "permanent": true },
+    { "source": "/articles/we-are-all-moroccans-jebel-irhoud", "destination": "/articles/we-are-all-moroccans-jebel-irhoud/", "permanent": true },
     { "source": "/category/ai", "destination": "/category/ai/", "permanent": true },
     { "source": "/category/business", "destination": "/category/business/", "permanent": true },
     { "source": "/category/sport", "destination": "/category/sport/", "permanent": true },
@@ -38,6 +43,7 @@
     { "source": "/category/paparazzi", "destination": "/category/paparazzi/", "permanent": true },
     { "source": "/category/lifestyle", "destination": "/category/lifestyle/", "permanent": true },
     { "source": "/category/travel", "destination": "/category/travel/", "permanent": true },
+    { "source": "/category/science", "destination": "/category/science/", "permanent": true },
     { "source": "/articles/:slug/index.html", "destination": "/articles/:slug/", "permanent": true },
     { "source": "/category/:slug/index.html", "destination": "/category/:slug/", "permanent": true }
   ]

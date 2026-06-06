@@ -8,12 +8,30 @@
     <atom:link href="https://presda.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>PRESDA delivers futuristic coverage of AI, sport, business, world, travel, and culture through cinematic editorial storytelling.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 12:00:00 GMT</lastBuildDate>
     <image>
       <url>https://presda.com/favicon-light.png</url>
       <title>PRESDA</title>
       <link>https://presda.com/</link>
     </image>
+    <item>
+      <title>WE ARE ALL MOROCCANS</title>
+      <link>https://presda.com/articles/we-are-all-moroccans-jebel-irhoud/</link>
+      <guid isPermaLink="true">https://presda.com/articles/we-are-all-moroccans-jebel-irhoud/</guid>
+      <description>The oldest known Homo sapiens ever discovered was found in Morocco.</description>
+      <pubDate>Sat, 06 Jun 2026 12:00:00 GMT</pubDate>
+      <author>contact@presda.com (PRESDA Editorial)</author>
+      <category>Science</category>
+      <enclosure url="https://presda.com/images/articles/jebel-irhoud-morocco-science.png" type="image/png" />
+      <content:encoded><![CDATA[
+        <p>At Jebel Irhoud, Morocco, scientists uncovered fossils that pushed the story of Homo sapiens much further back than previously believed.</p>
+        <p>The remains, dated to around 315,000 years ago, are widely considered among the oldest known Homo sapiens fossils ever discovered.</p>
+        <p>The discovery challenged the old idea that modern humans emerged from one single region of East Africa. Instead, it suggests that early Homo sapiens evolved across different parts of Africa, with Morocco playing a central role in that story.</p>
+        <p>Found alongside stone tools and evidence of early human activity, Jebel Irhoud became one of the most important archaeological sites in the world.</p>
+        <p>For Morocco, this is more than a scientific discovery. It is a reminder that the country holds one of the deepest chapters in the human story.</p>
+        <p>In a way, the headline says it all: we are all Moroccans.</p>
+      ]]></content:encoded>
+    </item>
     <item>
       <title>The Brands Behind World Cup 2026</title>
       <link>https://presda.com/articles/the-brands-behind-world-cup-2026/</link>
@@ -41,7 +59,7 @@
       <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
       <author>contact@presda.com (PRESDA Editorial)</author>
       <category>World</category>
-      <enclosure url="https://presda.com/images/articles/trump-world-cup-2026.png" type="image/png" />
+      <enclosure url="https://presda.com/images/articles/donald-trump-world-cup-2026.png" type="image/png" />
       <content:encoded><![CDATA[
         <p>With the United States serving as a major host of the FIFA World Cup 2026, President Donald Trump is expected to play an important role in preparations surrounding the tournament.</p>
         <p>From security coordination and border management to transportation infrastructure and international diplomacy, several government decisions could directly influence the experience of millions of visitors.</p>
@@ -201,7 +219,7 @@
       <pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
       <author>contact@presda.com (PRESDA Editorial)</author>
       <category>Paparazzi</category>
-      <enclosure url="https://presda.com/images/articles/katy-trudeau-speculation.png" type="image/png" />
+      <enclosure url="https://presda.com/images/articles/katy-perry-justin-trudeau-2026.png" type="image/png" />
       <content:encoded><![CDATA[
         <p>The unexpected pairing of Katy Perry and Justin Trudeau in public conversation has become a perfect example of how modern celebrity stories travel. A few images, a handful of reports, and a wave of social media interpretation were enough to turn curiosity into an international entertainment headline.</p>
         <p>The story attracted attention because it sits at the intersection of music, politics, fame, glamour, and public imagination. Perry is a global pop figure whose career has been shaped by performance, reinvention, and visual spectacle. Trudeau, as a former Canadian prime minister, belongs to a different arena of public life. Together, even as a subject of speculation, they create a narrative the internet immediately wants to decode.</p>
@@ -308,7 +326,7 @@
       <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
       <author>contact@presda.com (PRESDA Editorial)</author>
       <category>Sport</category>
-      <enclosure url="https://presda.com/images/articles/fifa-world-cup-dark.png" type="image/png" />
+      <enclosure url="https://presda.com/images/articles/fifa-ai-world-cup-2026.png" type="image/png" />
       <content:encoded><![CDATA[
         <p>The countdown to World Cup 2026 has entered a new phase, and the tournament is already bigger than football alone. Host cities are preparing infrastructure, broadcasters are building storylines, sponsors are shaping global campaigns, and supporters are beginning to imagine the journey that will define one of the most visible sporting events of the decade.</p>
         <p>Every World Cup is a competition, but it is also a calendar of emotion. It brings together national identity, tourism, television, digital culture, security planning, transportation, and the business of global sport. The closer the tournament gets, the more every detail begins to matter.</p>
@@ -346,7 +364,7 @@
       <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
       <author>contact@presda.com (PRESDA Editorial)</author>
       <category>AI</category>
-      <enclosure url="https://presda.com/images/articles/openai-sam-dark.png" type="image/png" />
+      <enclosure url="https://presda.com/images/articles/sam-altman-openai-next-gen-2026.png" type="image/png" />
       <content:encoded><![CDATA[
         <p>OpenAI&#39;s newest model arrives at a moment when artificial intelligence is no longer judged only by novelty. The industry is moving into a more demanding phase, where users expect systems to reason clearly, work across media, understand context, and support real tasks without turning every interaction into an experiment.</p>
         <p>For companies, creators, developers, educators, and newsrooms, the question is not whether AI can produce impressive demonstrations. The question is whether it can become dependable infrastructure. That is why each major model release now matters beyond Silicon Valley. It influences business planning, product design, creative workflows, and the way millions of people understand the future of digital work.</p>
@@ -381,7 +399,7 @@
       <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
       <author>contact@presda.com (PRESDA Editorial)</author>
       <category>Sport</category>
-      <enclosure url="https://presda.com/images/articles/xabi-alonso-dark.png" type="image/png" />
+      <enclosure url="https://presda.com/images/articles/xabi-alonso-chelsea-spotlight-2026.png" type="image/png" />
       <content:encoded><![CDATA[
         <p>Xabi Alonso&#39;s name carries a particular kind of weight in modern football. As a player, he represented control, intelligence, timing, and calm under pressure. As a coach, those same qualities have turned him into one of the most watched tactical figures in Europe, a manager associated with structure, patience, and a clear understanding of how elite teams should move.</p>
         <p>Chelsea&#39;s spotlight makes that profile even more dramatic. The club is global, ambitious, restless, and intensely scrutinized. Any coach linked with Stamford Bridge is immediately judged not only by results, but by identity. Supporters want wins, but they also want a recognizable idea of football. Alonso&#39;s appeal is that he seems to offer both vision and discipline.</p>
@@ -414,7 +432,7 @@
       <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
       <author>contact@presda.com (PRESDA Editorial)</author>
       <category>Lifestyle</category>
-      <enclosure url="https://presda.com/images/articles/gta6-poster-dark.png" type="image/png" />
+      <enclosure url="https://presda.com/images/articles/gta6-culture-moment-2026.png" type="image/png" />
       <content:encoded><![CDATA[
         <p>Grand Theft Auto VI is not arriving like an ordinary video game. It is moving through culture like a major film franchise, a music event, a fashion signal, and a technology showcase at the same time. Few entertainment releases can command attention across gaming communities, social media platforms, financial markets, streaming channels, and mainstream news before the product is even in players&#39; hands.</p>
         <p>The reason is simple: GTA is no longer just a game series. It is a cultural language. It has shaped how audiences think about open worlds, satire, crime fiction, radio soundtracks, digital cities, and the freedom to move through a fictional society with cinematic scale. GTA 6 matters because expectations are not limited to gameplay. People are expecting a world.</p>
@@ -452,7 +470,7 @@
       <pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
       <author>contact@presda.com (PRESDA Editorial)</author>
       <category>Business</category>
-      <enclosure url="https://presda.com/images/articles/elon-mars-dark.png" type="image/png" />
+      <enclosure url="https://presda.com/images/articles/elon-musk-mars-signal-2026.png" type="image/png" />
       <content:encoded><![CDATA[
         <p>Elon Musk&#39;s Mars narrative has become one of the most recognizable business stories of the technology age. It combines engineering ambition, investor psychology, media spectacle, and a powerful idea: that the future can be marketed before it fully exists. Mars is not only a destination in this story. It is a signal.</p>
         <p>The signal works because it reaches several audiences at once. Engineers see technical challenge. Investors see optionality. Fans see adventure. Critics see risk. Competitors see a brand that has made space feel culturally alive again. Whatever position one takes, the Mars ambition has become central to how SpaceX and Musk communicate scale.</p>
@@ -486,7 +504,7 @@
       <pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate>
       <author>contact@presda.com (PRESDA Editorial)</author>
       <category>Business</category>
-      <enclosure url="https://presda.com/images/articles/bill-gates-dark.png" type="image/png" />
+      <enclosure url="https://presda.com/images/articles/bill-gates-foundation-impact-2026.png" type="image/png" />
       <content:encoded><![CDATA[
         <p>The Bill and Melinda Gates Foundation remains one of the most influential philanthropic organizations in the world, not only because of the scale of its funding, but because of the way it connects science, policy, technology, and long-term development goals. Its work sits at the intersection of public health, education, innovation, and global inequality.</p>
         <p>The foundation&#39;s central idea is that measurable progress is possible when capital, research, partnerships, and political attention are directed toward problems that markets often neglect. That approach has made it powerful, closely watched, and sometimes debated. But its influence on global development is impossible to ignore.</p>
@@ -594,7 +612,7 @@
       <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
       <author>contact@presda.com (PRESDA Editorial)</author>
       <category>Sport</category>
-      <enclosure url="https://presda.com/images/articles/mourinho-real-madrid-dark.png" type="image/png" />
+      <enclosure url="https://presda.com/images/articles/jose-mourinho-madrid-return-2026.png" type="image/png" />
       <content:encoded><![CDATA[
         <p>Jose Mourinho&#39;s name still changes the temperature of a football conversation. Few managers in the modern game carry the same mixture of trophies, conflict, charisma, tactical identity, and emotional memory. When his name is connected with Real Madrid, even loosely, the story immediately becomes bigger than a rumor.</p>
         <p>A possible Mourinho return is not only about whether a club needs a coach. It is about what kind of football Real Madrid wants to project, how supporters remember his first era, and whether modern football still has room for one of its most forceful managerial personalities.</p>

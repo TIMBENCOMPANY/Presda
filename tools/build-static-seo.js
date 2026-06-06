@@ -4,14 +4,14 @@ const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-home-mobile-cards-20260606";
+const cacheVersion = "presda-new-posters-science-focal-20260606";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
 if (!match) throw new Error("Could not find articleRecords array in script.js");
 
 const articleRecords = vm.runInNewContext(match[1]);
-const categories = ["AI", "Business", "Sport", "World", "Paparazzi", "Lifestyle", "Travel"];
+const categories = ["AI", "Business", "Sport", "World", "Paparazzi", "Lifestyle", "Travel", "Science"];
 
 const esc = (value = "") =>
   String(value).replace(/[&<>"']/g, (char) => ({
@@ -227,7 +227,8 @@ function categoryIcon(category) {
     World: `<svg ${attrs}><circle cx="32" cy="32" r="21"></circle><path d="M11 32h42M32 11c7 7 10 14 10 21s-3 14-10 21M32 11c-7 7-10 14-10 21s3 14 10 21"></path></svg>`,
     Paparazzi: `<svg ${attrs}><rect x="14" y="22" width="36" height="28" rx="5"></rect><path d="M24 22l4-7h8l4 7M25 36a7 7 0 1 0 14 0a7 7 0 0 0-14 0M45 28h1"></path></svg>`,
     Lifestyle: `<svg ${attrs}><path d="M32 51s-18-10-18-25a10 10 0 0 1 18-6a10 10 0 0 1 18 6c0 15-18 25-18 25z"></path><path d="M23 32h6l3-7l4 13l3-6h4"></path></svg>`,
-    Travel: `<svg ${attrs}><path d="M12 44l13-24l12 16l7-10l8 18H12z"></path><path d="M18 50h28M32 14l3 8l8 2l-8 2l-3 8l-3-8l-8-2l8-2z"></path></svg>`
+    Travel: `<svg ${attrs}><path d="M12 44l13-24l12 16l7-10l8 18H12z"></path><path d="M18 50h28M32 14l3 8l8 2l-8 2l-3 8l-3-8l-8-2l8-2z"></path></svg>`,
+    Science: `<svg ${attrs}><circle cx="32" cy="20" r="5"></circle><path d="M24 24v8L14 50h36L40 32v-8"></path><path d="M22 40h20M20 46h24M28 14h8"></path></svg>`
   };
   return icons[category] || icons.World;
 }
@@ -309,7 +310,7 @@ function homePage() {
   const mostReadArticles = articles.filter((article) => article.mostRead).concat(articles).filter((article, index, arr) => arr.findIndex((item) => item.slug === article.slug) === index).slice(0, 4);
   const editorPickArticles = articles.filter((article) => article.editorPick).concat(articles).filter((article, index, arr) => arr.findIndex((item) => item.slug === article.slug) === index).slice(0, 4);
   const featuredGrid = featuredArticles.filter((article) => article.slug !== featured.slug).slice(0, 5).map((article, index) => articleCard(article, index === 0 ? "large" : "standard", { mobileImage: true })).join("");
-  const categoryGrid = categories.map((category) => `<a class="category-tile" href="/category/${category.toLowerCase()}/">
+  const categoryGrid = categories.map((category) => `<a class="category-tile" href="/category/${categorySlug(category)}/">
           <span class="category-icon">${categoryIcon(category)}</span>
           <span class="category-name">${category}</span>
           <strong>${articles.filter((article) => article.category === category).length}</strong>
@@ -319,7 +320,7 @@ function homePage() {
     if (!categoryArticles.length) return "";
     const [lead, ...rest] = categoryArticles;
     const fallback = articles[(articles.indexOf(lead) + 1) % articles.length];
-    return `<section class="category-block" id="${category.toLowerCase()}">
+    return `<section class="category-block" id="${categorySlug(category)}">
             <div class="section-title compact">
               <span>${category}</span>
               <h2>${category} Desk</h2>
@@ -574,7 +575,7 @@ ${analytics()}
 function categoryPage(category) {
   const items = articles.filter((article) => article.category === category);
   const featured = items[0] || articles[0];
-  const canonical = `${siteUrl}/category/${category.toLowerCase()}/`;
+  const canonical = `${siteUrl}/category/${categorySlug(category)}/`;
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -623,7 +624,6 @@ ${analytics()}
 }
 
 fs.writeFileSync(path.join(root, "index.html"), homePage());
-fs.writeFileSync(path.join(root, "article.html"), articlePage(articles[0]));
 
 const articlesDir = path.join(root, "articles");
 fs.mkdirSync(articlesDir, { recursive: true });
@@ -636,7 +636,7 @@ for (const article of articles) {
 const categoryDir = path.join(root, "category");
 fs.mkdirSync(categoryDir, { recursive: true });
 for (const category of categories) {
-  const dir = path.join(categoryDir, category.toLowerCase());
+  const dir = path.join(categoryDir, categorySlug(category));
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, "index.html"), categoryPage(category));
 }
@@ -662,7 +662,7 @@ ${articles.map((article) => `  <url>
     <priority>0.8</priority>
   </url>`).join("\n")}
 ${categories.map((category) => `  <url>
-    <loc>${siteUrl}/category/${category.toLowerCase()}/</loc>
+    <loc>${siteUrl}/category/${categorySlug(category)}/</loc>
     <lastmod>${articles[0].date}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

@@ -4569,3 +4569,23 @@ img[data-image-position-desktop="38% 20%"]{object-position:38% 20%!important;}
     transform:none!important;
   }
 }
+
+img[data-article-image-slug]{
+  object-position:var(--article-image-position-desktop,var(--article-image-position,center center))!important;
+}
+
+@media(max-width:760px){
+  img[data-article-image-slug]{
+    object-position:var(--article-image-position-mobile,var(--article-image-position-desktop,var(--article-image-position,center top)))!important;
+  }
+
+  img[data-image-position-mobile="center center"]{object-position:center center!important;}
+  img[data-image-position-mobile="center top"]{object-position:center top!important;}
+  img[data-image-position-mobile="center 18%"]{object-position:center 18%!important;}
+  img[data-image-position-mobile="30% top"]{object-position:30% top!important;}
+  img[data-image-position-mobile="32% center"]{object-position:32% center!important;}
+  img[data-image-position-mobile="38% top"]{object-position:38% top!important;}
+  img[data-image-position-mobile="40% top"]{object-position:40% top!important;}
+  img[data-image-position-mobile="42% top"]{object-position:42% top!important;}
+  img[data-image-position-mobile="70% top"]{object-position:70% top!important;}
+}
