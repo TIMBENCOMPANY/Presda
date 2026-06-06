@@ -932,18 +932,23 @@ const imagePairs = Object.fromEntries(
     article.slug,
     {
       dark: article.imageDesktop || article.imageDark || article.image,
-      light: article.imageLight || article.imageDark || article.image
+      light: article.imageLight || article.imageDesktop || article.imageDark || article.image,
+      mobile: article.imageMobile || article.imageDesktop || article.imageDark || article.image
     }
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-mobile-responsive-images-20260605`;
+const versioned = (src) => `${src}?v=presda-quality-audit-20260606`;
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
   document.querySelectorAll("[data-article-image-slug]").forEach((image) => {
     const pair = imagePairs[image.dataset.articleImageSlug];
-    if (pair) image.src = versioned(pair[key]);
+    if (!pair) return;
+    const picture = image.closest("picture");
+    const source = picture?.querySelector("source[media*='max-width']");
+    if (source) source.srcset = versioned(pair.mobile || pair[key]);
+    image.src = versioned(pair[key]);
   });
 }
 
@@ -958,7 +963,9 @@ function setTheme(mode) {
   const isLight = mode === "light";
   root.classList.toggle("light-mode", isLight);
   body.classList.toggle("light-mode", isLight);
-  document.querySelector(".theme-toggle")?.setAttribute("aria-pressed", String(isLight));
+  const toggle = document.querySelector(".theme-toggle");
+  toggle?.setAttribute("aria-pressed", String(isLight));
+  toggle?.setAttribute("aria-label", isLight ? "Switch to dark mode" : "Switch to light mode");
   updateFavicons(mode);
   updateThemeImages(mode);
 }
@@ -979,6 +986,7 @@ const nav = document.querySelector(".main-nav");
 menuButton?.addEventListener("click", () => {
   const isOpen = nav?.classList.toggle("is-open") || false;
   menuButton.setAttribute("aria-expanded", String(isOpen));
+  menuButton.setAttribute("aria-label", isOpen ? "Close navigation menu" : "Open navigation menu");
 });
 
 document.querySelectorAll(".main-nav a").forEach((link) => {
@@ -1118,6 +1126,7 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
   const open = () => {
     overlay.classList.add("is-open");
     overlay.setAttribute("aria-hidden", "false");
+    searchButton.setAttribute("aria-expanded", "true");
     document.body.classList.add("search-is-open");
     render();
     window.setTimeout(() => input.focus(), 80);
@@ -1126,6 +1135,7 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
   const close = () => {
     overlay.classList.remove("is-open");
     overlay.setAttribute("aria-hidden", "true");
+    searchButton.setAttribute("aria-expanded", "false");
     document.body.classList.remove("search-is-open");
     input.value = "";
     activeIndex = -1;
@@ -1147,6 +1157,21 @@ document.querySelectorAll(".main-nav a").forEach((link) => {
     if (event.key === "Enter" && activeIndex >= 0 && options[activeIndex]) {
       event.preventDefault();
       options[activeIndex].click();
+    }
+  });
+  overlay.addEventListener("keydown", (event) => {
+    if (event.key !== "Tab") return;
+    const focusable = [...overlay.querySelectorAll("a[href], button, input, [tabindex]:not([tabindex='-1'])")]
+      .filter((node) => !node.disabled && node.offsetParent !== null);
+    if (!focusable.length) return;
+    const first = focusable[0];
+    const last = focusable[focusable.length - 1];
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
     }
   });
   closeButtons.forEach((button) => button.addEventListener("click", close));
@@ -1255,6 +1280,7 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
     .sort((a, b) => new Date(b.date) - new Date(a.date))
     .filter((article, index, list) => list.findIndex((item) => item.slug === article.slug) === index);
   if (!featuredStories.length) return;
+  const reduceMotionQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
 
   const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
     "&": "&amp;",
@@ -1332,6 +1358,7 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
 
   const play = () => {
     window.clearInterval(timer);
+    if (reduceMotionQuery.matches) return;
     timer = window.setInterval(() => draw(active + 1), 2800);
   };
 
@@ -1349,6 +1376,7 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
 
   ["mouseenter", "focusin"].forEach((eventName) => shell.addEventListener(eventName, () => window.clearInterval(timer)));
   ["mouseleave", "focusout"].forEach((eventName) => shell.addEventListener(eventName, play));
+  reduceMotionQuery.addEventListener?.("change", play);
   draw(0, false);
   play();
 })();
@@ -1366,6 +1394,10 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
   });
 
   const revealItems = document.querySelectorAll(".content-section, .newsletter-section, .social-contact-section, .article-layout");
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    revealItems.forEach((item) => item.classList.add("is-visible"));
+    return;
+  }
   if (!("IntersectionObserver" in window)) {
     revealItems.forEach((item) => item.classList.add("is-visible"));
     return;

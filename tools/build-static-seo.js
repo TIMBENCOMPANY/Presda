@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-mobile-responsive-images-20260605";
+const cacheVersion = "presda-quality-audit-20260606";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -128,10 +128,11 @@ function analytics() {
 
 function header() {
   return `    <header class="site-header">
+      <a class="skip-link" href="#main-content">Skip to content</a>
       <div class="nav-shell">
         <a class="brand" href="/" aria-label="PRESDA home">
-          <img class="brand-logo logo-dark" data-logo-dark src="/logo-dark.png" alt="PRESDA official logo for dark mode" />
-          <img class="brand-logo logo-light" data-logo-light src="/logo-light.png" alt="PRESDA official logo for light mode" />
+          <img class="brand-logo logo-dark" data-logo-dark src="/logo-dark.png" alt="PRESDA official logo for dark mode" width="180" height="48" decoding="async" />
+          <img class="brand-logo logo-light" data-logo-light src="/logo-light.png" alt="PRESDA official logo for light mode" width="180" height="48" decoding="async" />
         </a>
 
         <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
@@ -149,13 +150,13 @@ function header() {
         </nav>
 
         <div class="nav-actions">
-          <button class="search-button" type="button" aria-label="Search"></button>
+          <button class="search-button" type="button" aria-label="Search PRESDA" aria-haspopup="dialog" aria-expanded="false"></button>
           <button class="theme-toggle" type="button" aria-label="Switch color mode" aria-pressed="false">
             <span class="toggle-dot" aria-hidden="true"></span>
             <span class="moon-mark" aria-hidden="true"></span>
             <span class="sun-mark" aria-hidden="true"></span>
           </button>
-          <button class="menu-button" type="button" aria-expanded="false" aria-controls="main-nav">
+          <button class="menu-button" type="button" aria-label="Open navigation menu" aria-expanded="false" aria-controls="main-nav">
             <span></span>
             <span></span>
             <span></span>
@@ -194,12 +195,13 @@ function mediaAttrs(article) {
 function articleCard(article, size = "standard", options = {}) {
   const desktopImage = article.imageDesktop || article.imageDark || article.image;
   const mobileImage = article.imageMobile || desktopImage;
-  const imageMarkup = options.mobileImage
+  const useMobileImage = options.mobileImage !== false;
+  const imageMarkup = useMobileImage
     ? `<picture>
           <source media="(max-width: 760px)" srcset="${imageWithVersion(mobileImage)}" />
-          <img src="${imageWithVersion(desktopImage)}" alt="${esc(article.imageAlt)}" loading="lazy" data-article-image-slug="${esc(article.slug)}" data-image-desktop="${esc(desktopImage)}" data-image-mobile="${esc(mobileImage)}" ${mediaAttrs(article)} />
+          <img src="${imageWithVersion(desktopImage)}" alt="${esc(article.imageAlt)}" loading="lazy" decoding="async" data-article-image-slug="${esc(article.slug)}" data-image-desktop="${esc(desktopImage)}" data-image-mobile="${esc(mobileImage)}" ${mediaAttrs(article)} />
         </picture>`
-    : `<img src="${imageWithVersion(desktopImage)}" alt="${esc(article.imageAlt)}" loading="lazy" data-article-image-slug="${esc(article.slug)}" data-image-desktop="${esc(desktopImage)}" data-image-mobile="${esc(mobileImage)}" ${mediaAttrs(article)} />`;
+    : `<img src="${imageWithVersion(desktopImage)}" alt="${esc(article.imageAlt)}" loading="lazy" decoding="async" data-article-image-slug="${esc(article.slug)}" data-image-desktop="${esc(desktopImage)}" data-image-mobile="${esc(mobileImage)}" ${mediaAttrs(article)} />`;
   return `<a class="article-card ${size}" href="${articleUrl(article)}">
       <figure class="media-poster-frame media-card-frame">
         ${imageMarkup}
@@ -355,7 +357,7 @@ ${commonHead({
   <body data-home>
 ${header()}
 
-    <main>
+    <main id="main-content">
 ${ticker()}
 
       <section class="hero-section" aria-label="Featured story">
@@ -373,7 +375,7 @@ ${ticker()}
             </div>
           </div>
           <figure class="hero-media media-poster-frame">
-            <img data-hero-image data-article-image-slug="${esc(featured.slug)}" ${mediaAttrs(featured)} src="${imageWithVersion(featured.imageDesktop || featured.imageDark || featured.image)}" alt="${esc(featured.imageAlt)}" />
+            <img data-hero-image data-article-image-slug="${esc(featured.slug)}" ${mediaAttrs(featured)} src="${imageWithVersion(featured.imageDesktop || featured.imageDark || featured.image)}" alt="${esc(featured.imageAlt)}" fetchpriority="high" decoding="async" />
             <figcaption data-hero-source>Source: ${esc(featured.source)}</figcaption>
           </figure>
           <div class="hero-progress" data-hero-progress aria-label="Featured article selector"></div>
@@ -517,7 +519,7 @@ ${commonHead({
   <body data-article-page>
 ${header()}
 
-    <main>
+    <main id="main-content">
 ${ticker()}
 
       <article class="article-layout">
@@ -535,7 +537,7 @@ ${ticker()}
             </div>
           </div>
           <figure class="article-image-frame media-poster-frame">
-            <img data-article-image data-article-image-slug="${esc(article.slug)}" ${mediaAttrs(article)} src="${imageWithVersion(article.imageDesktop || article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" />
+            <img data-article-image data-article-image-slug="${esc(article.slug)}" ${mediaAttrs(article)} src="${imageWithVersion(article.imageDesktop || article.imageDark || article.image)}" alt="${esc(article.imageAlt)}" fetchpriority="high" decoding="async" />
           </figure>
         </header>
 
@@ -592,7 +594,7 @@ ${commonHead({
   <body data-category-page>
 ${header()}
 
-    <main>
+    <main id="main-content">
 ${ticker()}
 
       <section class="content-section category-page-hero">
