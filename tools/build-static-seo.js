@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-quality-audit-20260606";
+const cacheVersion = "presda-home-mobile-cards-20260606";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -31,6 +31,8 @@ const slugify = (value = "") =>
     .replace(/['’]/g, "")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
+
+const categorySlug = (category) => slugify(category);
 
 const articles = articleRecords
   .map((article, index) => {
@@ -189,7 +191,7 @@ function mediaAttrs(article) {
   const position = article.imagePosition || (fit === "contain" ? "center center" : "center center");
   const desktopPosition = article.imagePositionDesktop || position;
   const mobilePosition = article.imagePositionMobile || desktopPosition;
-  return `data-image-fit="${esc(fit)}" data-image-position="${esc(position)}" data-image-position-desktop="${esc(desktopPosition)}" data-image-position-mobile="${esc(mobilePosition)}" style="object-fit:${esc(fit)};object-position:${esc(desktopPosition)};--article-image-position-desktop:${esc(desktopPosition)};--article-image-position-mobile:${esc(mobilePosition)};"`;
+  return `data-image-fit="${esc(fit)}" data-image-position="${esc(position)}" data-image-position-desktop="${esc(desktopPosition)}" data-image-position-mobile="${esc(mobilePosition)}" style="object-fit:${esc(fit)};--article-image-position-desktop:${esc(desktopPosition)};--article-image-position-mobile:${esc(mobilePosition)};"`;
 }
 
 function articleCard(article, size = "standard", options = {}) {
@@ -207,10 +209,11 @@ function articleCard(article, size = "standard", options = {}) {
         ${imageMarkup}
       </figure>
       <div>
-        <span class="category-tag category-${esc(article.category).toLowerCase()}">${esc(article.category)}</span>
+        <small class="card-meta"><span class="category-tag category-${esc(categorySlug(article.category))}">${esc(article.category)}</span><time datetime="${esc(article.date)}">${formatDate(article.date)}</time></small>
         <h3>${titleHtml(article)}</h3>
         <p>${textHtml(article, article.excerpt)}</p>
-        <small><time datetime="${esc(article.date)}">${formatDate(article.date)}</time><span class="read-time-badge">${esc(article.readingTime)}</span></small>
+        <span class="card-cta">Read Full Story</span>
+        <small class="card-footer-meta"><span class="read-time-badge">${esc(article.readingTime)}</span></small>
       </div>
     </a>`;
 }

@@ -4400,6 +4400,155 @@ img[data-image-position-desktop="38% 20%"]{object-position:38% 20%!important;}
   max-width:72ch;
 }
 
+/* Home mobile cards: article-page focal logic with compact editorial CTAs. */
+.article-card .card-meta,
+.article-card .card-footer-meta{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:10px;
+}
+
+.article-card .card-meta time{
+  color:var(--muted);
+}
+
+.card-cta{
+  display:inline-flex;
+  width:max-content;
+  max-width:100%;
+  min-height:38px;
+  align-items:center;
+  justify-content:center;
+  margin-top:2px;
+  padding:0 16px;
+  border:1px solid color-mix(in srgb,var(--accent) 72%,var(--border));
+  border-radius:999px;
+  color:var(--text);
+  font-family:Orbitron,sans-serif;
+  font-size:.68rem;
+  font-weight:900;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  background:linear-gradient(135deg,rgba(255,26,26,.15),rgba(255,26,26,.035));
+  transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease;
+}
+
+.article-card:hover .card-cta{
+  transform:translateX(3px);
+  border-color:var(--accent);
+  box-shadow:0 0 20px rgba(255,26,26,.16);
+}
+
+@media(max-width:760px){
+  body[data-home] .article-card,
+  body[data-home] .article-card.large,
+  body[data-home] .article-card.wide,
+  body[data-home] .article-card.compact,
+  body[data-home] .article-card.mini{
+    max-width:100%!important;
+    min-height:0!important;
+  }
+
+  body[data-home] .article-card .media-card-frame,
+  body[data-home] .article-card figure,
+  body[data-home] .article-card.large figure,
+  body[data-home] .article-card.wide figure,
+  body[data-home] .article-card.compact figure,
+  body[data-home] .article-card.mini figure{
+    aspect-ratio:1/1!important;
+    min-height:clamp(300px,82vw,390px)!important;
+    height:auto!important;
+    padding:0!important;
+    border-radius:22px 22px 16px 16px!important;
+    background:#050505!important;
+  }
+
+  html.light-mode body[data-home] .article-card .media-card-frame,
+  html.light-mode body[data-home] .article-card figure{
+    background:transparent!important;
+  }
+
+  body[data-home] .article-card picture,
+  body[data-home] .article-card img{
+    width:100%!important;
+    height:100%!important;
+    max-width:100%!important;
+    display:block!important;
+  }
+
+  body[data-home] .article-card img{
+    object-fit:cover!important;
+    object-position:var(--article-image-position-mobile,var(--article-image-position-desktop,var(--article-image-position,center top)))!important;
+  }
+
+  body[data-home] .article-card div{
+    gap:8px!important;
+    padding:14px 16px 16px!important;
+  }
+
+  body[data-home] .article-card .card-meta{
+    gap:7px!important;
+    order:1;
+    font-size:.58rem!important;
+    line-height:1.2!important;
+  }
+
+  body[data-home] .article-card h3{
+    order:2;
+    font-size:clamp(1.05rem,5.05vw,1.38rem)!important;
+    line-height:1.08!important;
+  }
+
+  body[data-home] .article-card p{
+    order:3;
+    display:-webkit-box;
+    max-width:100%!important;
+    margin:0!important;
+    overflow:hidden;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+    font-size:clamp(.9rem,3.7vw,1rem)!important;
+    line-height:1.38!important;
+  }
+
+  body[data-home] .article-card .card-cta{
+    order:4;
+    min-height:36px;
+    margin-top:2px;
+    padding:0 14px;
+    font-size:.62rem;
+  }
+
+  body[data-home] .article-card .card-footer-meta{
+    order:5;
+    margin-top:0!important;
+    font-size:.55rem!important;
+    opacity:.78;
+  }
+
+  body[data-home] img[data-image-position-mobile="center center"]{object-position:center center!important;}
+  body[data-home] img[data-image-position-mobile="center top"]{object-position:center top!important;}
+  body[data-home] img[data-image-position-mobile="center 18%"]{object-position:center 18%!important;}
+  body[data-home] img[data-image-position-mobile="center 35%"]{object-position:center 35%!important;}
+  body[data-home] img[data-image-position-mobile="38% top"]{object-position:38% top!important;}
+}
+
+@media(max-width:430px){
+  body[data-home] .article-card .media-card-frame,
+  body[data-home] .article-card figure,
+  body[data-home] .article-card.large figure,
+  body[data-home] .article-card.wide figure,
+  body[data-home] .article-card.compact figure,
+  body[data-home] .article-card.mini figure{
+    min-height:clamp(288px,84vw,360px)!important;
+  }
+
+  body[data-home] .article-card div{
+    padding:13px 14px 15px!important;
+  }
+}
+
 @media(prefers-reduced-motion:reduce){
   html{
     scroll-behavior:auto;

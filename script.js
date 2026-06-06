@@ -88,7 +88,7 @@ const articleRecords = [
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
-    imagePositionMobile: "center center",
+    imagePositionMobile: "center top",
     imageAlt: "Premium skyline showing the world's most valuable companies in 2026",
     excerpt: "Artificial intelligence, chips, cloud platforms, software, energy, and consumer ecosystems continue to define the top of global market value.",
     content: [
@@ -836,7 +836,7 @@ const articleRecords = [
     imageFit: "cover",
     imagePosition: "center center",
     imagePositionDesktop: "center center",
-    imagePositionMobile: "center center",
+    imagePositionMobile: "center top",
     imageAlt: "Donald Trump with World Cup 2026 trophy and United States flag in a cinematic PRESDA poster",
     excerpt: "Security, infrastructure and global attention place the tournament at the center of American politics.",
     content: [
@@ -938,7 +938,16 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-quality-audit-20260606`;
+const versioned = (src) => `${src}?v=presda-home-mobile-cards-20260606`;
+
+function applyArticleImageFocalPoints() {
+  const isMobile = window.matchMedia("(max-width: 760px)").matches;
+  document.querySelectorAll("[data-article-image-slug]").forEach((image) => {
+    const desktopPosition = image.dataset.imagePositionDesktop || image.dataset.imagePosition || "center center";
+    const mobilePosition = image.dataset.imagePositionMobile || desktopPosition;
+    image.style.objectPosition = isMobile ? mobilePosition : desktopPosition;
+  });
+}
 
 function updateThemeImages(mode) {
   const key = mode === "light" ? "light" : "dark";
@@ -950,6 +959,7 @@ function updateThemeImages(mode) {
     if (source) source.srcset = versioned(pair.mobile || pair[key]);
     image.src = versioned(pair[key]);
   });
+  applyArticleImageFocalPoints();
 }
 
 function updateFavicons(mode) {
@@ -973,6 +983,7 @@ function setTheme(mode) {
 const savedMode = localStorage.getItem("presda-mode");
 const preferredMode = savedMode || (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
 setTheme(preferredMode);
+window.addEventListener("resize", applyArticleImageFocalPoints);
 
 document.querySelector(".theme-toggle")?.addEventListener("click", () => {
   const nextMode = root.classList.contains("light-mode") ? "dark" : "light";
@@ -1341,11 +1352,11 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
       image.dataset.imagePositionDesktop = imagePositionDesktop;
       image.dataset.imagePositionMobile = imagePositionMobile;
       image.style.objectFit = imageFit;
-      image.style.objectPosition = imagePositionDesktop;
       image.style.setProperty("--article-image-position-desktop", imagePositionDesktop);
       image.style.setProperty("--article-image-position-mobile", imagePositionMobile);
       image.src = articleImage(article);
       image.alt = article.imageAlt;
+      applyArticleImageFocalPoints();
       if (caption) caption.textContent = `Source: ${article.source}`;
       progress.querySelectorAll("button").forEach((button, buttonIndex) => {
         const isActive = buttonIndex === active;
