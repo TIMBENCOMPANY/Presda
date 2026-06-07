@@ -93,7 +93,30 @@ const articleUrl = (article) => `/articles/${encodeURIComponent(article.slug)}/`
 const absoluteArticleUrl = (article) => `${siteUrl}${articleUrl(article)}`;
 const imageWithVersion = (image) => `${image}?v=${cacheVersion}`;
 const absoluteImage = (image) => `${siteUrl}${image}`;
+const cardTitleOverrides = {
+  "top-10-hidden-gems-to-visit-in-2026": "Hidden Gems 2026",
+  "worlds-most-valuable-companies-in-2026": "The Trillion-Dollar Race",
+  "katy-perry-and-justin-trudeau-spark-global-speculation": "Katy & Trudeau Spark Buzz",
+  "palestine-a-humanitarian-crisis-the-world-cannot-ignore": "Palestine Cannot Be Ignored",
+  "dubai-future-cities-rise-above-the-desert": "Dubai Builds Tomorrow",
+  "openai-next-gen-model": "OpenAI's Next Leap",
+  "xabi-alonso-chelsea-pressure": "London Just Got Smarter",
+  "gta6-trailer-culture-shift": "GTA 6 Becomes A Culture Moment",
+  "elon-mars-signal": "Mars Becomes The Signal",
+  "world-cup-2026-countdown": "World Cup Countdown",
+  "bill-gates-foundation-impact": "Innovation Into Impact",
+  "japan-enters-ai-care-era": "AI Care Arrives In Japan",
+  "keanu-reeves-kindness-powerful": "Kindness Still Wins",
+  "mourinho-real-madrid-return-signal": "Madrid Hears Mourinho Again",
+  "the-last-dance-footballs-greatest-generation": "Football's Last Dance",
+  "the-brands-behind-world-cup-2026": "The Brands Behind 2026",
+  "how-donald-trump-could-shape-world-cup-2026": "Trump And World Cup 2026",
+  "david-beckhams-unexpected-passion-beyond-football": "Beckham's Quiet Passion",
+  "we-are-all-moroccans-jebel-irhoud": "We Are All Moroccans"
+};
+const cardTitle = (article) => article.cardTitle || cardTitleOverrides[article.slug] || article.title;
 const titleHtml = (article) => highlightText(article.title, article.highlightTerms);
+const cardTitleHtml = (article) => highlightText(cardTitle(article), article.highlightTerms);
 const textHtml = (article, text) => highlightText(text, article.highlightTerms);
 const authorSlug = (author = "PRESDA Editorial") => slugify(author || "PRESDA Editorial");
 const authorUrl = (author) => `/author/${authorSlug(author)}/`;
@@ -241,7 +264,7 @@ function articleCard(article, size = "standard", options = {}) {
       </figure>
       <div>
         <small class="card-meta"><span class="category-tag category-${esc(categorySlug(article.category))}">${esc(article.category)}</span><time datetime="${esc(article.date)}">${formatDate(article.date)}</time></small>
-        <h3>${titleHtml(article)}</h3>
+        <h3>${cardTitleHtml(article)}</h3>
         <p>${textHtml(article, article.excerpt)}</p>
         <span class="card-cta">Read Full Story</span>
         <small class="card-footer-meta"><span class="read-time-badge">${esc(article.readingTime)}</span></small>
@@ -280,7 +303,6 @@ function socialIcon(type) {
 function socialSection() {
   const socials = [
     { type: "email", label: "contact@presda.com", detail: "Newsroom email", href: "mailto:contact@presda.com" },
-    { type: "world", label: "Amsterdam, Netherlands", detail: "Editorial base", href: "https://maps.google.com/?q=Amsterdam%2C%20Netherlands" },
     { type: "x", label: "X", detail: "@PresdaOfficial", href: "https://x.com/PresdaOfficial" },
     { type: "instagram", label: "Instagram", detail: "@presdaofficial", href: "https://www.instagram.com/presdaofficial" },
     { type: "facebook", label: "Facebook", detail: "PRESDA Official", href: "https://www.facebook.com/profile.php?id=61589635535583" },
@@ -288,38 +310,15 @@ function socialSection() {
   ];
 
   return `      <section class="social-contact-section presda-contact-section" aria-labelledby="connect-title">
-        <div class="presda-contact-shell">
-          <div class="presda-contact-form-panel">
+        <div class="presda-network-shell">
+          <div class="presda-network-copy">
             <span class="contact-kicker">Newsroom Signal</span>
-            <h2 id="connect-title">CONTACT PRESDA</h2>
-            <p>Follow the signal. Reach our newsroom.</p>
-            <form class="presda-contact-form" action="mailto:contact@presda.com" method="post" enctype="text/plain">
-              <label>
-                <span>Name</span>
-                <input type="text" name="name" autocomplete="name" required />
-              </label>
-              <label>
-                <span>Email</span>
-                <input type="email" name="email" autocomplete="email" required />
-              </label>
-              <label class="full-field">
-                <span>Subject</span>
-                <input type="text" name="subject" required />
-              </label>
-              <label class="full-field">
-                <span>Message</span>
-                <textarea name="message" rows="6" required></textarea>
-              </label>
-              <button type="submit">SEND MESSAGE</button>
-            </form>
+            <h2 id="connect-title">CONNECT WITH PRESDA</h2>
+            <p>Follow the signal across every platform.</p>
+            <strong>PRESDA Official Network</strong>
+            <small>@PresdaOfficial</small>
           </div>
-          <div class="presda-contact-map-panel" aria-label="PRESDA contact information">
-            <div class="contact-map-glow" aria-hidden="true"></div>
-            <div class="contact-map-header">
-              <span>Global Desk</span>
-              <strong>PRESDA Official Network</strong>
-            </div>
-            <div class="contact-info-grid">
+          <div class="presda-network-links" aria-label="PRESDA social links">
               ${socials.map((item) => `<a class="contact-info-card contact-${esc(item.type)}" href="${esc(item.href)}"${item.href.startsWith("mailto:") ? "" : ` target="_blank" rel="noopener noreferrer"`} aria-label="${esc(item.label)}">
                 <span class="contact-info-icon">${socialIcon(item.type)}</span>
                 <span>
@@ -327,7 +326,6 @@ function socialSection() {
                   <small>${esc(item.detail)}</small>
                 </span>
               </a>`).join("")}
-            </div>
           </div>
         </div>
       </section>`;
@@ -407,7 +405,7 @@ ${ticker()}
               <span data-hero-category>${esc(featured.category)}</span>
               <time data-hero-date datetime="${esc(featured.date)}">${formatDate(featured.date)}</time>
             </div>
-            <h1 data-hero-title>${titleHtml(featured)}</h1>
+            <h1 data-hero-title>${cardTitleHtml(featured)}</h1>
             <p data-hero-excerpt>${textHtml(featured, featured.excerpt)}</p>
             <div class="hero-actions">
               <a class="primary-link" data-hero-link href="${articleUrl(featured)}">Read Full Story</a>
@@ -468,7 +466,7 @@ ${ticker()}
             <span>Most Read</span>
             <h2>Audience Heat</h2>
           </div>
-          <div class="ranked-list">${mostReadArticles.map((article, index) => `<a class="ranked-item" href="${articleUrl(article)}"><strong>${String(index + 1).padStart(2, "0")}</strong><span>${titleHtml(article)}</span><small>${esc(article.readingTime)}</small></a>`).join("")}</div>
+          <div class="ranked-list">${mostReadArticles.map((article, index) => `<a class="ranked-item" href="${articleUrl(article)}"><strong>${String(index + 1).padStart(2, "0")}</strong><span>${cardTitleHtml(article)}</span><small>${esc(article.readingTime)}</small></a>`).join("")}</div>
         </div>
         <div class="insight-column">
           <div class="section-title compact">

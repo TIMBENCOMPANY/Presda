@@ -961,6 +961,28 @@ const categorySlug = (category) => slugify(category);
 const categoryUrl = (category) => category === "World Cup 2026" ? "/world-cup-2026/" : `/category/${categorySlug(category)}/`;
 const articleCategories = (article) =>
   [...new Set([article.category, article.secondaryCategory, ...(article.secondaryCategories || [])].filter(Boolean))];
+const cardTitleOverrides = {
+  "top-10-hidden-gems-to-visit-in-2026": "Hidden Gems 2026",
+  "worlds-most-valuable-companies-in-2026": "The Trillion-Dollar Race",
+  "katy-perry-and-justin-trudeau-spark-global-speculation": "Katy & Trudeau Spark Buzz",
+  "palestine-a-humanitarian-crisis-the-world-cannot-ignore": "Palestine Cannot Be Ignored",
+  "dubai-future-cities-rise-above-the-desert": "Dubai Builds Tomorrow",
+  "openai-next-gen-model": "OpenAI's Next Leap",
+  "xabi-alonso-chelsea-pressure": "London Just Got Smarter",
+  "gta6-trailer-culture-shift": "GTA 6 Becomes A Culture Moment",
+  "elon-mars-signal": "Mars Becomes The Signal",
+  "world-cup-2026-countdown": "World Cup Countdown",
+  "bill-gates-foundation-impact": "Innovation Into Impact",
+  "japan-enters-ai-care-era": "AI Care Arrives In Japan",
+  "keanu-reeves-kindness-powerful": "Kindness Still Wins",
+  "mourinho-real-madrid-return-signal": "Madrid Hears Mourinho Again",
+  "the-last-dance-footballs-greatest-generation": "Football's Last Dance",
+  "the-brands-behind-world-cup-2026": "The Brands Behind 2026",
+  "how-donald-trump-could-shape-world-cup-2026": "Trump And World Cup 2026",
+  "david-beckhams-unexpected-passion-beyond-football": "Beckham's Quiet Passion",
+  "we-are-all-moroccans-jebel-irhoud": "We Are All Moroccans"
+};
+const displayTitle = (article) => article.cardTitle || cardTitleOverrides[article.slug] || article.title;
 
 const articles = articleRecords
   .map((article, index) => {
@@ -1395,7 +1417,7 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
         date.textContent = formatDate(article.date);
         date.setAttribute("datetime", article.date);
       }
-      title.innerHTML = highlight(article.title, article.highlightTerms);
+      title.innerHTML = highlight(displayTitle(article), article.highlightTerms);
       excerpt.innerHTML = highlight(article.excerpt, article.highlightTerms);
       if (link) link.href = `/articles/${article.slug}/`;
       if (reading) reading.textContent = article.readingTime;
@@ -1434,7 +1456,7 @@ document.querySelectorAll(".newsletter-form").forEach((form) => {
   featuredStories.forEach((article, index) => {
     const button = document.createElement("button");
     button.type = "button";
-    button.setAttribute("aria-label", `Show featured story: ${article.title}`);
+    button.setAttribute("aria-label", `Show featured story: ${displayTitle(article)}`);
     button.addEventListener("click", () => {
       draw(index);
       play();

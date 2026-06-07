@@ -150,7 +150,7 @@ const fanVoteData = {
   const rows = Array.from(document.querySelectorAll(".wc-group-card tbody tr"));
   const seen = new Set();
   const favoriteOrder = new Map(fanVoteData.favorites.map((team, index) => [team, index]));
-  let expanded = true;
+  let expanded = false;
 
   const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
     "&": "&amp;",
@@ -201,7 +201,7 @@ const fanVoteData = {
       }
       return votesFor(b) - votesFor(a);
     });
-    const visible = sorted;
+    const visible = expanded ? sorted : sorted.slice(0, 5);
 
     if (totalNode) totalNode.textContent = `${total.toLocaleString()} votes`;
     if (stateNode) {
@@ -210,8 +210,9 @@ const fanVoteData = {
         : "Choose one team to unlock results.";
     }
     if (toggle) {
-      toggle.hidden = true;
-      toggle.textContent = "View all teams";
+      toggle.hidden = teams.length <= 5;
+      toggle.textContent = expanded ? "Show top 5" : "View all teams";
+      toggle.setAttribute("aria-expanded", String(expanded));
     }
 
     list.innerHTML = visible.map((team) => {
@@ -242,7 +243,6 @@ const fanVoteData = {
     const row = event.target.closest("[data-vote-team]");
     if (!row || selectedTeam()) return;
     localStorage.setItem(fanVoteData.storageKey, row.dataset.voteTeam || "");
-    expanded = true;
     render();
   });
 
