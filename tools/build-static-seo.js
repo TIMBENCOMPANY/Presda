@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-new-posters-science-focal-20260606";
+const cacheVersion = "presda-science-xabi-poster-refresh-20260607";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -147,6 +147,7 @@ function header() {
           <a href="/category/paparazzi/">Paparazzi</a>
           <a href="/category/lifestyle/">Lifestyle</a>
           <a href="/category/travel/">Travel</a>
+          <a href="/category/science/">Science</a>
           <a href="/contact/">Contact</a>
           <a href="/#newsletter">Newsletter</a>
         </nav>
@@ -328,7 +329,7 @@ function homePage() {
             <div class="category-story-grid">
               ${articleCard(lead, "wide", { mobileImage: true })}
               <div class="side-list">
-                ${rest.slice(0, 2).map((article) => articleCard(article, "mini", { mobileImage: true })).join("") || articleCard(fallback, "mini", { mobileImage: true })}
+                ${rest.slice(0, 3).map((article) => articleCard(article, "mini", { mobileImage: true })).join("") || articleCard(fallback, "mini", { mobileImage: true })}
               </div>
             </div>
           </section>`;

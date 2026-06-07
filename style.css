@@ -4589,3 +4589,43 @@ img[data-article-image-slug]{
   img[data-image-position-mobile="42% top"]{object-position:42% top!important;}
   img[data-image-position-mobile="70% top"]{object-position:70% top!important;}
 }
+
+/* PRESDA poster standard: consistent editorial media ratio with focal-safe crops. */
+:is(.article-card figure, body[data-article-page] .article-image-frame.media-poster-frame){
+  aspect-ratio:4/5!important;
+  overflow:hidden!important;
+}
+
+body[data-home] .hero-media.media-poster-frame{
+  aspect-ratio:4/5!important;
+  height:clamp(500px,68vh,780px)!important;
+  min-height:500px!important;
+}
+
+:is(.article-card figure, .hero-media.media-poster-frame, body[data-article-page] .article-image-frame.media-poster-frame) img[data-image-fit="cover"]{
+  object-fit:cover!important;
+}
+
+@media(max-width:760px){
+  body[data-home] .hero-media.media-poster-frame{
+    height:auto!important;
+    min-height:0!important;
+    aspect-ratio:4/5!important;
+  }
+
+  body[data-home] .article-card figure,
+  body[data-home] .article-card.compact figure,
+  body[data-home] .article-card.large figure,
+  body[data-home] .article-card.wide figure{
+    aspect-ratio:4/5!important;
+    min-height:0!important;
+    max-height:none!important;
+  }
+
+  body[data-home] .article-card figure img{
+    width:100%!important;
+    height:100%!important;
+    object-fit:cover!important;
+    object-position:var(--article-image-position-mobile,var(--article-image-position-desktop,var(--article-image-position,center top)))!important;
+  }
+}
