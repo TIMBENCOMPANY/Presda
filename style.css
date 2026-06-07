@@ -2110,6 +2110,76 @@ html.light-mode body[data-article-page] .article-content h2{
   color:#111;
 }
 
+body[data-article-page] .article-content h3{
+  max-width:880px;
+  margin:clamp(22px,3vw,34px) 0 clamp(10px,1.5vw,16px);
+  color:var(--accent);
+  font-family:Orbitron,sans-serif;
+  font-size:clamp(1rem,1.45vw,1.34rem);
+  line-height:1.16;
+  text-transform:uppercase;
+}
+
+body[data-article-page] .article-table-wrap{
+  max-width:960px;
+  margin:clamp(26px,4vw,52px) 0;
+  overflow-x:auto;
+  border:1px solid rgba(255,26,26,.24);
+  border-radius:24px;
+  background:linear-gradient(135deg,rgba(255,26,26,.07),color-mix(in srgb,var(--card) 88%,transparent));
+  box-shadow:0 20px 48px rgba(0,0,0,.18);
+}
+
+html.light-mode body[data-article-page] .article-table-wrap{
+  background:rgba(255,255,255,.76);
+  border-color:rgba(220,38,38,.2);
+  box-shadow:0 18px 42px rgba(48,38,28,.09);
+}
+
+body[data-article-page] .article-table{
+  width:100%;
+  min-width:720px;
+  border-collapse:collapse;
+  color:var(--text);
+  font-family:var(--body-font);
+  font-size:clamp(.9rem,1vw,1rem);
+  line-height:1.55;
+}
+
+body[data-article-page] .article-table caption{
+  padding:18px 22px 6px;
+  color:var(--accent);
+  font-family:Orbitron,sans-serif;
+  font-size:.92rem;
+  font-weight:800;
+  text-align:left;
+  text-transform:uppercase;
+}
+
+body[data-article-page] .article-table th,
+body[data-article-page] .article-table td{
+  padding:18px 22px;
+  border-top:1px solid rgba(255,255,255,.1);
+  text-align:left;
+  vertical-align:top;
+}
+
+body[data-article-page] .article-table th{
+  color:var(--accent);
+  font-family:Orbitron,sans-serif;
+  font-size:.78rem;
+  text-transform:uppercase;
+}
+
+html.light-mode body[data-article-page] .article-table{
+  color:#151515;
+}
+
+html.light-mode body[data-article-page] .article-table th,
+html.light-mode body[data-article-page] .article-table td{
+  border-top-color:rgba(0,0,0,.09);
+}
+
 body[data-article-page] .article-content p:first-child::first-letter{
   float:left;
   margin:.04em .16em 0 0;

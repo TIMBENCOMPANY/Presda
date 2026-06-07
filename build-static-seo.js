@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-science-xabi-poster-refresh-20260607";
+const cacheVersion = "presda-zodiac-science-20260607";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -112,16 +112,31 @@ const cardTitleOverrides = {
   "the-brands-behind-world-cup-2026": "The Brands Behind 2026",
   "how-donald-trump-could-shape-world-cup-2026": "Trump And World Cup 2026",
   "david-beckhams-unexpected-passion-beyond-football": "Beckham's Quiet Passion",
-  "we-are-all-moroccans-jebel-irhoud": "We Are All Moroccans"
+  "we-are-all-moroccans-jebel-irhoud": "We Are All Moroccans",
+  "are-zodiac-signs-real-science-has-a-different-answer": "Zodiac Signs vs Science"
 };
 const cardTitle = (article) => article.cardTitle || cardTitleOverrides[article.slug] || article.title;
 const titleHtml = (article) => highlightText(article.title, article.highlightTerms);
 const cardTitleHtml = (article) => highlightText(cardTitle(article), article.highlightTerms);
 const textHtml = (article, text) => highlightText(text, article.highlightTerms);
+function articleTableHtml(article, table) {
+  if (!table || !Array.isArray(table.headers) || !Array.isArray(table.rows)) return "";
+  return `<div class="article-table-wrap" role="region" aria-label="${esc(table.caption || "Article comparison table")}">
+        <table class="article-table">
+          ${table.caption ? `<caption>${textHtml(article, table.caption)}</caption>` : ""}
+          <thead>
+            <tr>${table.headers.map((header) => `<th scope="col">${textHtml(article, header)}</th>`).join("")}</tr>
+          </thead>
+          <tbody>
+            ${table.rows.map((row) => `<tr>${row.map((cell) => `<td>${textHtml(article, cell)}</td>`).join("")}</tr>`).join("")}
+          </tbody>
+        </table>
+      </div>`;
+}
 const authorSlug = (author = "PRESDA Editorial") => slugify(author || "PRESDA Editorial");
 const authorUrl = (author) => `/author/${authorSlug(author)}/`;
 const absoluteAuthorUrl = (author) => `${siteUrl}${authorUrl(author)}`;
-const cleanText = (value = "") => String(value).replace(/^##\s+/gm, "").replace(/^>\s+/gm, "").trim();
+const cleanText = (value = "") => String(value).replace(/^#{2,3}\s+/gm, "").replace(/^>\s+/gm, "").replace(/\[\[[^\]]+\]\]/g, "").trim();
 const articlePlainText = (article) => article.content.map(cleanText).filter(Boolean).join(" ");
 const rfc822Date = (value) => new Date(`${value}T12:00:00Z`).toUTCString();
 
@@ -514,6 +529,12 @@ function articlePage(article) {
   const encodedCanonical = encodeURIComponent(canonical);
   const encodedTitle = encodeURIComponent(article.title);
   const articleContent = article.content.map((block, index) => {
+    if (String(block) === "[[ASTROLOGY_SCIENCE_TABLE]]") {
+      return articleTableHtml(article, article.comparisonTable);
+    }
+    if (String(block).startsWith("### ")) {
+      return `<h3>${textHtml(article, String(block).slice(4))}</h3>`;
+    }
     if (String(block).startsWith("## ")) {
       return `<h2>${textHtml(article, String(block).slice(3))}</h2>`;
     }
@@ -974,6 +995,8 @@ function rssXml() {
       <content:encoded><![CDATA[
         ${article.content.map((block) => {
           const value = String(block);
+          if (value === "[[ASTROLOGY_SCIENCE_TABLE]]") return article.comparisonTable ? `<table><caption>${esc(article.comparisonTable.caption || "Comparison")}</caption><thead><tr>${article.comparisonTable.headers.map((header) => `<th>${esc(header)}</th>`).join("")}</tr></thead><tbody>${article.comparisonTable.rows.map((row) => `<tr>${row.map((cell) => `<td>${esc(cell)}</td>`).join("")}</tr>`).join("")}</tbody></table>` : "";
+          if (value.startsWith("### ")) return `<h3>${esc(value.slice(4))}</h3>`;
           if (value.startsWith("## ")) return `<h2>${esc(value.slice(3))}</h2>`;
           if (value.startsWith("> ")) return `<blockquote>${esc(value.slice(2))}</blockquote>`;
           return `<p>${esc(value)}</p>`;
