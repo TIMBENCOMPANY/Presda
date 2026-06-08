@@ -211,7 +211,7 @@ const fanVoteData = {
     }
     if (toggle) {
       toggle.hidden = teams.length <= 5;
-      toggle.textContent = expanded ? "Show top 5" : "View all teams";
+      toggle.textContent = expanded ? "Show top 5" : "View Full Rankings";
       toggle.setAttribute("aria-expanded", String(expanded));
     }
 
@@ -278,7 +278,46 @@ const fanVoteData = {
 
   toggle.addEventListener("click", () => {
     const expanded = grid.classList.toggle("is-expanded");
-    toggle.textContent = expanded ? "Show fewer stadiums" : "Show all stadiums";
+    grid.closest(".wc-carousel-viewport")?.classList.toggle("is-expanded", expanded);
+    toggle.textContent = expanded ? "Show fewer stadiums" : "View All Stadiums";
+    toggle.setAttribute("aria-expanded", String(expanded));
+  });
+})();
+
+(() => {
+  const controls = document.querySelectorAll("[data-carousel-prev], [data-carousel-next]");
+  if (!controls.length) return;
+
+  controls.forEach((button) => {
+    button.addEventListener("click", () => {
+      const key = button.dataset.carouselPrev || button.dataset.carouselNext;
+      const viewport = document.querySelector(`[data-carousel="${key}"]`);
+      const track = viewport?.firstElementChild;
+      if (!viewport || !track) return;
+
+      const firstItem = track.children[0];
+      const itemWidth = firstItem?.getBoundingClientRect().width || viewport.clientWidth;
+      const styles = window.getComputedStyle(track);
+      const gap = parseFloat(styles.columnGap || styles.gap || "0") || 0;
+      const visible = key === "groups" ? 4 : key === "broadcasters" ? 5 : 3;
+      const direction = button.dataset.carouselNext ? 1 : -1;
+      viewport.scrollBy({
+        left: direction * (itemWidth + gap) * visible,
+        behavior: "smooth"
+      });
+    });
+  });
+})();
+
+(() => {
+  const toggle = document.querySelector("[data-broadcaster-toggle]");
+  const grid = document.querySelector(".wc-broadcaster-grid");
+  if (!toggle || !grid) return;
+
+  toggle.addEventListener("click", () => {
+    const expanded = grid.classList.toggle("is-expanded");
+    grid.closest(".wc-carousel-viewport")?.classList.toggle("is-expanded", expanded);
+    toggle.textContent = expanded ? "Show fewer broadcasters" : "View All Broadcasters";
     toggle.setAttribute("aria-expanded", String(expanded));
   });
 })();
