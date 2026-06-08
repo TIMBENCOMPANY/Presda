@@ -16,13 +16,13 @@ const fanVoteData = {
   readyForDatabase: true,
   futureProvider: "supabase",
   favorites: [
-    "Argentina",
+    "Morocco",
     "Brazil",
+    "Argentina",
     "France",
     "Spain",
     "England",
     "Portugal",
-    "Morocco",
     "Netherlands",
     "Belgium",
     "Germany",
@@ -268,6 +268,18 @@ const fanVoteData = {
         card.hidden = !show;
       });
     });
+  });
+})();
+
+(() => {
+  const grid = document.querySelector(".wc-stadium-grid");
+  const toggle = document.querySelector("[data-stadium-toggle]");
+  if (!grid || !toggle) return;
+
+  toggle.addEventListener("click", () => {
+    const expanded = grid.classList.toggle("is-expanded");
+    toggle.textContent = expanded ? "Show fewer stadiums" : "Show all stadiums";
+    toggle.setAttribute("aria-expanded", String(expanded));
   });
 })();
 
