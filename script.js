@@ -802,7 +802,7 @@ const articleRecords = [
     imagePosition: "center center",
     imagePositionDesktop: "center center",
     imagePositionMobile: "center center",
-    imageAlt: "World Cup 2026 football kits with Brazil, Argentina and Morocco shirts under red stadium lights",
+    imageAlt: "World Cup 2026 football jerseys from Morocco, Brazil, Argentina, and Tunisia on a black premium sportswear background",
     excerpt: "Nike, Adidas, Puma and the global battle for football dominance.",
     content: [
       "As the FIFA World Cup 2026 approaches, another competition is already underway away from the pitch: the battle between the world's biggest sportswear brands.",
@@ -814,7 +814,7 @@ const articleRecords = [
       "> \"The World Cup is more than football. It is the biggest global showcase for sport's most powerful brands.\""
     ],
     tags: ["World Cup 2026", "Football", "Nike", "Adidas", "Puma", "Sport"],
-    highlightTerms: ["World Cup 2026", "Nike", "Adidas", "Puma", "football"],
+    highlightTerms: ["Brands", "World Cup", "World Cup 2026", "Nike", "Adidas", "Puma", "football"],
     featured: true,
     trending: true,
     editorPick: true
@@ -1068,7 +1068,7 @@ const cardTitleOverrides = {
   "keanu-reeves-kindness-powerful": "Kindness Still Wins",
   "mourinho-real-madrid-return-signal": "Madrid Hears Mourinho Again",
   "the-last-dance-footballs-greatest-generation": "Football's Last Dance",
-  "the-brands-behind-world-cup-2026": "The Brands Behind 2026",
+  "the-brands-behind-world-cup-2026": "The Brands Behind World Cup 2026",
   "how-donald-trump-could-shape-world-cup-2026": "Trump And World Cup 2026",
   "david-beckhams-unexpected-passion-beyond-football": "Beckham's Quiet Passion",
   "we-are-all-moroccans-jebel-irhoud": "We Are All Moroccans",
@@ -1109,7 +1109,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-science-xabi-poster-refresh-20260607`;
+const versioned = (src) => `${src}?v=presda-mobile-wc-polish-20260611`;
 
 function applyArticleImageFocalPoints() {
   const isMobile = window.matchMedia("(max-width: 760px)").matches;

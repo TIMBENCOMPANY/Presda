@@ -2184,10 +2184,7 @@ body[data-world-cup-hub] .wc-hero-visual img{
 }
 
 body[data-world-cup-hub] .wc-hero-stats{
-  display:grid!important;
-  grid-template-columns:repeat(4,minmax(0,1fr))!important;
-  gap:8px!important;
-  max-width:560px!important;
+  display:none!important;
 }
 
 body[data-world-cup-hub] .wc-hero-stats article{
@@ -2232,14 +2229,14 @@ body[data-world-cup-hub] .wc-countdown-minimal .wc-countdown-grid{
   flex-wrap:wrap!important;
   gap:0!important;
   border:1px solid rgba(255,255,255,.12)!important;
-  border-radius:16px!important;
+  border-radius:14px!important;
   overflow:hidden!important;
   background:rgba(0,0,0,.34)!important;
 }
 
 body[data-world-cup-hub] .wc-countdown-minimal .wc-time-unit{
-  min-width:88px!important;
-  padding:10px 13px!important;
+  min-width:76px!important;
+  padding:8px 11px!important;
   border-right:1px solid rgba(255,255,255,.1)!important;
 }
 
@@ -2254,14 +2251,14 @@ body[data-world-cup-hub] .wc-countdown-minimal .wc-flip-digit{
   border:0!important;
   background:transparent!important;
   box-shadow:none!important;
-  font-size:clamp(1.25rem,2.3vw,1.9rem)!important;
+  font-size:clamp(1.05rem,2vw,1.55rem)!important;
   color:#fff!important;
 }
 
 body[data-world-cup-hub] .wc-countdown-minimal small{
-  margin-top:4px!important;
+  margin-top:3px!important;
   color:var(--accent)!important;
-  font-size:.56rem!important;
+  font-size:.52rem!important;
 }
 
 body[data-world-cup-hub] .wc-dashboard-actions{
@@ -2729,12 +2726,22 @@ html.light-mode body[data-world-cup-hub] .wc-hero-stats span{
     border-radius:22px!important;
   }
 
+  body[data-world-cup-hub] .wc-dashboard-hero .wc-hero-visual{
+    order:-1!important;
+  }
+
   body[data-world-cup-hub] .wc-dashboard-hero h1{
-    font-size:clamp(34px,12vw,54px)!important;
+    font-size:clamp(31px,11vw,48px)!important;
+    text-wrap:balance!important;
+  }
+
+  body[data-world-cup-hub] .wc-dashboard-hero .wc-lede{
+    font-size:.92rem!important;
+    line-height:1.45!important;
   }
 
   body[data-world-cup-hub] .wc-hero-stats{
-    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+    display:none!important;
   }
 
   body[data-world-cup-hub] .wc-countdown-minimal{
@@ -2749,11 +2756,11 @@ html.light-mode body[data-world-cup-hub] .wc-hero-stats span{
 
   body[data-world-cup-hub] .wc-countdown-minimal .wc-time-unit{
     min-width:0!important;
-    padding:9px 5px!important;
+    padding:8px 4px!important;
   }
 
   body[data-world-cup-hub] .wc-hero-visual{
-    height:220px!important;
+    height:clamp(175px,49vw,225px)!important;
     border-radius:18px!important;
   }
 

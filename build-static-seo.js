@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-zodiac-science-20260607";
+const cacheVersion = "presda-mobile-wc-polish-20260611";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -109,7 +109,7 @@ const cardTitleOverrides = {
   "keanu-reeves-kindness-powerful": "Kindness Still Wins",
   "mourinho-real-madrid-return-signal": "Madrid Hears Mourinho Again",
   "the-last-dance-footballs-greatest-generation": "Football's Last Dance",
-  "the-brands-behind-world-cup-2026": "The Brands Behind 2026",
+  "the-brands-behind-world-cup-2026": "The Brands Behind World Cup 2026",
   "how-donald-trump-could-shape-world-cup-2026": "Trump And World Cup 2026",
   "david-beckhams-unexpected-passion-beyond-football": "Beckham's Quiet Passion",
   "we-are-all-moroccans-jebel-irhoud": "We Are All Moroccans",

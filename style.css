@@ -5048,17 +5048,19 @@ html.light-mode .presda-footer-contact .contact-info-card{
   body[data-home] .article-card.wide figure,
   body[data-home] .article-card.compact figure,
   body[data-home] .article-card.mini figure{
-    aspect-ratio:4/3!important;
+    aspect-ratio:16/10!important;
     min-height:0!important;
+    height:auto!important;
     max-height:none!important;
   }
 
   body[data-home] .article-card{
-    padding:9px!important;
+    padding:8px!important;
   }
 
   body[data-home] .article-card div{
-    padding:10px 8px 8px!important;
+    gap:7px!important;
+    padding:9px 8px 8px!important;
   }
 
   body[data-home] .article-card .card-meta{
@@ -5068,4 +5070,51 @@ html.light-mode .presda-footer-contact .contact-info-card{
   body[data-home] .article-card .card-footer-meta{
     display:none!important;
   }
+
+  body[data-home] .article-card h3,
+  body[data-home] .article-card.large h3,
+  body[data-home] .article-card.wide h3,
+  body[data-home] .article-card.compact h3,
+  body[data-home] .article-card.mini h3{
+    font-size:clamp(.94rem,4.25vw,1.18rem)!important;
+    line-height:1.08!important;
+    letter-spacing:.015em!important;
+    overflow-wrap:normal!important;
+    word-break:normal!important;
+    text-wrap:balance!important;
+  }
+
+  body[data-home] .article-card p{
+    -webkit-line-clamp:2!important;
+    font-size:clamp(.84rem,3.45vw,.95rem)!important;
+    line-height:1.34!important;
+  }
+
+  body[data-home] .article-card .card-cta{
+    margin-top:1px!important;
+    min-height:34px!important;
+  }
+}
+
+body[data-home] .article-card h3,
+body[data-home] .article-card.large h3,
+body[data-home] .article-card.wide h3,
+body[data-home] .article-card.compact h3,
+body[data-home] .article-card.mini h3{
+  font-size:clamp(1.05rem,1.55vw,1.45rem)!important;
+  letter-spacing:.015em!important;
+  overflow-wrap:normal!important;
+  word-break:normal!important;
+  text-wrap:balance!important;
+  max-width:100%!important;
+}
+
+body[data-home] .article-card.large h3{
+  font-size:clamp(1.25rem,2vw,1.95rem)!important;
+}
+
+body[data-home] .article-card h3 .title-red,
+body[data-home] .hero-copy h1 .title-red{
+  color:var(--accent)!important;
+  background:transparent!important;
 }
