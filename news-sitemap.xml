@@ -221,4 +221,37 @@
       <news:title>Mourinho Return Talk Shakes Madrid Again</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://presda.com/articles/achraf-hakimi-king-of-africa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PRESDA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24</news:publication_date>
+      <news:title>King Of Africa: Achraf Hakimi Reaches 19 Major Trophies</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://presda.com/articles/yassine-bounou-africas-safest-hands/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PRESDA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24</news:publication_date>
+      <news:title>Yassine Bounou - Africa's Safest Hands</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://presda.com/articles/jon-snow-backs-morocco/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PRESDA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24</news:publication_date>
+      <news:title>From Winterfell To The World Cup: Jon Snow Backs Morocco</news:title>
+    </news:news>
+  </url>
 </urlset>

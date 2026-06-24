@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="PRESDA is a cinematic digital news platform covering World Cup 2026, sport, AI, culture, lifestyle and global stories with a premium red-black editorial identity."
+      content="PRESDA is a cinematic digital magazine covering World Cup 2026, sport, AI, culture, lifestyle and global stories through premium editorial storytelling."
     />
     <title>PRESDA - Your Daily Press</title>
     <link rel="canonical" href="https://presda.com/" />
@@ -14,28 +14,28 @@
     <meta property="og:title" content="PRESDA - Your Daily Press" />
     <meta
       property="og:description"
-      content="A cinematic PRESDA news experience for World Cup 2026, sport, AI, culture and global stories."
+      content="A cinematic PRESDA editorial slider for World Cup 2026, sport, AI, culture and global stories."
     />
     <meta property="og:url" content="https://presda.com/" />
-    <meta property="og:image" content="https://presda.com/images/articles/presda-world-cup-cover.png" />
+    <meta property="og:image" content="https://presda.com/images/editorial/world-cup-presda-logo.png" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="PRESDA - Your Daily Press" />
     <meta
       name="twitter:description"
-      content="A cinematic PRESDA news experience for World Cup 2026, sport, AI, culture and global stories."
+      content="A cinematic PRESDA editorial slider for World Cup 2026, sport, AI, culture and global stories."
     />
-    <meta name="twitter:image" content="https://presda.com/images/articles/presda-world-cup-cover.png" />
+    <meta name="twitter:image" content="https://presda.com/images/editorial/world-cup-presda-logo.png" />
     <link rel="alternate" type="application/rss+xml" title="PRESDA RSS Feed" href="https://presda.com/rss.xml" />
-    <link rel="icon" data-dynamic-favicon type="image/png" href="/favicon-dark.png?v=presda-20260523-dark" />
-    <link rel="shortcut icon" data-dynamic-favicon href="/favicon-dark.png?v=presda-20260523-dark" />
-    <link rel="apple-touch-icon" href="/favicon-light.png?v=presda-20260523" />
+    <link rel="icon" data-dynamic-favicon type="image/png" href="/favicon-dark.png?v=presda-story-slider" />
+    <link rel="shortcut icon" data-dynamic-favicon href="/favicon-dark.png?v=presda-story-slider" />
+    <link rel="apple-touch-icon" href="/favicon-light.png?v=presda-story-slider" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Inter:wght@400;600;800;900&family=Orbitron:wght@700;800;900&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&family=Orbitron:wght@700;800;900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="/style.css?v=presda-reference-rebuild-20260623" />
+    <link rel="stylesheet" href="/style.css?v=presda-story-slider-20260624" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -51,205 +51,269 @@
       }
     </script>
   </head>
-  <body class="presda-rebuild-home">
-    <header class="ref-topbar" aria-label="PRESDA navigation">
-      <button class="ref-pill ref-menu" type="button" aria-label="Open menu">Menu</button>
-      <a class="ref-p-logo" href="/" aria-label="PRESDA home">
-        <img src="/favicon-dark.png" alt="PRESDA P logo" width="92" height="64" />
+  <body class="presda-story-home">
+    <header class="story-header" aria-label="PRESDA navigation">
+      <button class="story-pill story-menu-button" type="button" aria-label="Open menu" aria-controls="story-menu" aria-expanded="false">
+        Menu
+      </button>
+      <a class="story-logo" href="/" aria-label="PRESDA home">
+        <img src="/images/brand/ptransparent.png" alt="PRESDA P logo" width="78" height="78" />
       </a>
-      <nav class="ref-nav" aria-label="Featured navigation">
-        <a href="/">Home</a>
-        <a href="/world-cup-2026/">World Cup 2026</a>
-        <a href="/category/sport/">Sport</a>
-        <a href="/category/ai/">AI</a>
-        <a href="/category/paparazzi/">Paparazzi</a>
-        <a href="/category/lifestyle/">Lifestyle</a>
-      </nav>
-      <a class="ref-pill ref-login" href="/contact/">Login</a>
+      <div class="story-header-actions">
+        <button class="story-mode-toggle" type="button" aria-label="Switch color mode" aria-pressed="false">
+          <span></span>
+        </button>
+        <a class="story-pill story-login" href="/contact/">Login</a>
+      </div>
     </header>
 
-    <main id="main-content" class="ref-home">
-      <section class="ref-hero ref-screen" aria-labelledby="hero-title">
-        <div class="ref-copy">
-          <p class="ref-kicker">World Cup</p>
-          <h1 id="hero-title">
-            <span class="red">World Cup</span>
-            <span>2026</span>
-            <span class="gold">Is Coming</span>
-          </h1>
-          <p class="ref-deck">
-            Your complete destination for World Cup 2026 coverage, stories, stadiums and football culture.
-          </p>
-          <a class="ref-cta" href="/world-cup-2026/">See More</a>
-        </div>
-        <figure class="ref-hero-art">
-          <img
-            src="/images/articles/presda-world-cup-cover.png"
-            alt="World Cup 2026 trophy in PRESDA red and black style"
-            fetchpriority="high"
-          />
-        </figure>
-      </section>
+    <aside class="story-menu-panel" id="story-menu" aria-label="PRESDA category menu" aria-hidden="true">
+      <div class="story-menu-card">
+        <button class="story-menu-close" type="button" aria-label="Close menu">Close</button>
+        <p>Choose Your Signal</p>
+        <nav>
+          <a href="/">Home</a>
+          <a href="/category/ai/">AI</a>
+          <a href="/category/business/">Business</a>
+          <a href="/category/sport/">Sport</a>
+          <a href="/world-cup-2026/">World Cup 2026</a>
+          <a href="/category/world/">World</a>
+          <a href="/category/paparazzi/">Paparazzi</a>
+          <a href="/category/lifestyle/">Lifestyle</a>
+          <a href="/category/travel/">Travel</a>
+          <a href="/category/science/">Science</a>
+          <a href="/contact/">Contact</a>
+          <a href="/newsletter/">Newsletter</a>
+        </nav>
+      </div>
+    </aside>
 
-      <section class="ref-category-screen ref-screen" aria-labelledby="category-title">
-        <div class="ref-section-label">
-          <p class="ref-kicker">Home</p>
-          <h2 id="category-title">Choose Your Signal</h2>
-        </div>
-        <div class="ref-category-grid">
-          <a class="ref-category-tile" href="/category/paparazzi/">
-            <img src="/images/articles/katy-perry-justin-trudeau-2026.png" alt="Paparazzi story visual" loading="lazy" />
-            <span>Paparazzi</span>
-          </a>
-          <a class="ref-category-tile" href="/world-cup-2026/">
-            <img src="/images/articles/presda-world-cup-cover.png" alt="World Cup trophy visual" loading="lazy" />
-            <span>World Cup</span>
-          </a>
-          <a class="ref-category-tile" href="/category/lifestyle/">
-            <img src="/images/articles/gta6-culture-moment-2026.png" alt="Gaming lifestyle visual" loading="lazy" />
-            <span>Gaming</span>
-          </a>
-          <a class="ref-category-tile" href="/category/sport/">
-            <img src="/images/articles/xabi-alonso-chelsea-spotlight-2026.png" alt="Sport story visual" loading="lazy" />
-            <span>Sport</span>
-          </a>
-          <a class="ref-category-tile" href="/category/ai/">
-            <img src="/images/articles/sam-altman-openai-next-gen-2026.png" alt="Artificial intelligence story visual" loading="lazy" />
-            <span>Artificial Intelligence</span>
-          </a>
-          <a class="ref-category-tile" href="/category/business/">
-            <img src="/images/articles/david-beckham-beekeeping.png" alt="Business and lifestyle story visual" loading="lazy" />
-            <span>Business</span>
-          </a>
-        </div>
-      </section>
+    <main id="main-content" class="story-app" aria-live="polite">
+      <section class="story-slider" aria-label="PRESDA animated editorial story slider">
+        <div class="story-wave" aria-hidden="true"></div>
 
-      <section class="ref-story ref-screen" aria-labelledby="katy-title">
-        <div class="ref-copy">
-          <p class="ref-kicker">Paparazzi</p>
-          <h2 id="katy-title">
-            <span>Katy Perry &</span>
-            <span>Justin Trudeau</span>
-            <span class="red">Capture The World's Attention</span>
-          </h2>
-          <p class="ref-deck">
-            From politics to pop culture, the unexpected public appearance became one of the most talked-about stories of the week.
-          </p>
-          <a class="ref-cta" href="/articles/katy-perry-and-justin-trudeau-spark-global-speculation/">Read Full Story</a>
-        </div>
-        <figure class="ref-story-art">
-          <img
-            src="/images/articles/katy-perry-justin-trudeau-2026.png"
-            alt="Katy Perry and Justin Trudeau paparazzi style story visual"
-            loading="lazy"
-          />
-        </figure>
-      </section>
+        <article class="story-slide is-active" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">Football</p>
+            <h1><span class="story-red">King Of Africa:</span> Achraf Hakimi Reaches <span class="story-gold">19</span> Major Trophies</h1>
+            <p class="story-deck">
+              With a third UEFA Champions League title, Hakimi becomes one of Africa's most decorated modern footballers.
+            </p>
+            <a class="story-cta" href="/articles/achraf-hakimi-king-of-africa/">Read Full Story</a>
+          </div>
+          <figure class="story-art story-art-portrait">
+            <img src="/images/editorial/achraf-hakimi-trophies.jpg" alt="Achraf Hakimi with a major football trophy" fetchpriority="high" />
+          </figure>
+        </article>
 
-      <section class="ref-story ref-screen ref-story-alt" aria-labelledby="beckham-title">
-        <div class="ref-copy">
-          <p class="ref-kicker">Lifestyle</p>
-          <h2 id="beckham-title">
-            <span>From Free Kicks</span>
-            <span>To <span class="gold">Bees</span>:</span>
-            <span class="red">Beckham's Quiet Passion</span>
-          </h2>
-          <p class="ref-deck">
-            Away from football, fashion and global fame, David Beckham has found peace in one of his most unexpected hobbies.
-          </p>
-          <a class="ref-cta" href="/articles/david-beckhams-unexpected-passion-beyond-football/">Read Full Story</a>
-        </div>
-        <figure class="ref-story-art">
-          <img
-            src="/images/articles/david-beckham-beekeeping.png"
-            alt="David Beckham beside beehives at sunset"
-            loading="lazy"
-          />
-        </figure>
-      </section>
+        <article class="story-slide" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">Paparazzi</p>
+            <h2><span class="story-red">Katy Perry</span> & Justin Trudeau Capture The World's Attention</h2>
+            <p class="story-deck">
+              From politics to pop culture, a single public appearance became one of the week's most watched stories.
+            </p>
+            <a class="story-cta" href="/articles/katy-perry-and-justin-trudeau-spark-global-speculation/">Read Full Story</a>
+          </div>
+          <figure class="story-art">
+            <img src="/images/articles/katy-perry-justin-trudeau-2026.png" alt="Katy Perry and Justin Trudeau photographed at night" loading="lazy" />
+          </figure>
+        </article>
 
-      <section class="ref-story ref-screen" aria-labelledby="elon-title">
-        <div class="ref-copy">
-          <p class="ref-kicker">Artificial Intelligence</p>
-          <h2 id="elon-title">
-            <span>Elon Musk</span>
-            <span>The Man</span>
-            <span class="red">Building Tomorrow</span>
-          </h2>
-          <p class="ref-deck">
-            From Tesla to rockets and robotics, the world's most ambitious entrepreneur keeps reshaping the future.
-          </p>
-          <a class="ref-cta" href="/articles/elon-musk-turns-mars-into-a-media-signal/">Read Full Story</a>
-        </div>
-        <figure class="ref-story-art">
-          <img src="/images/articles/elon-musk-mars-signal-2026.png" alt="Elon Musk futuristic Mars signal story visual" loading="lazy" />
-        </figure>
-      </section>
+        <article class="story-slide" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">Football</p>
+            <h2><span class="story-red">Yassine Bounou</span> - Africa's Safest Hands</h2>
+            <p class="story-deck">
+              With decisive saves, major trophies and global respect, Bono has become a symbol of Moroccan football's modern era.
+            </p>
+            <a class="story-cta" href="/articles/yassine-bounou-africas-safest-hands/">Read Full Story</a>
+          </div>
+          <figure class="story-art story-art-portrait">
+            <img src="/images/editorial/yassine-bounou.jpg" alt="Yassine Bounou in Morocco goalkeeper shirt" loading="lazy" />
+          </figure>
+        </article>
 
-      <section class="ref-worldcup-board ref-screen" aria-labelledby="board-title">
-        <div class="ref-copy">
-          <p class="ref-kicker">World Cup</p>
-          <h2 id="board-title">
-            <span>Groups &</span>
-            <span class="red">Standings</span>
-          </h2>
-          <p class="ref-deck">
-            Follow the latest standings, fixtures, live results and qualification race across all World Cup groups.
-          </p>
-          <a class="ref-cta" href="/world-cup-2026/">See More</a>
-        </div>
-        <div class="ref-group-board" aria-label="World Cup group preview">
-          <article>
-            <strong>Group A</strong>
-            <span>Mexico</span>
-            <span>USA</span>
-            <span>Canada</span>
-            <span>Japan</span>
-          </article>
-          <article>
-            <strong>Group B</strong>
-            <span>Morocco</span>
-            <span>Portugal</span>
-            <span>South Korea</span>
-            <span>Nigeria</span>
-          </article>
-          <article>
-            <strong>Group C</strong>
-            <span>Brazil</span>
-            <span>France</span>
-            <span>Iran</span>
-            <span>Egypt</span>
-          </article>
-          <article>
-            <strong>Group D</strong>
-            <span>England</span>
-            <span>Netherlands</span>
-            <span>USA</span>
-            <span>Play-off 1</span>
-          </article>
-        </div>
-      </section>
+        <article class="story-slide story-world-cup" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">World Cup</p>
+            <h2><span class="story-red">World Cup</span> <span class="story-gold">2026</span></h2>
+            <p class="story-deck">
+              Your complete destination for fixtures, stadiums, group stories and the road to North America.
+            </p>
+            <a class="story-cta" href="/world-cup-2026/">See More</a>
+          </div>
+          <figure class="story-art story-art-contain">
+            <img src="/images/editorial/world-cup-presda-logo.png" alt="PRESDA World Cup 2026 section logo with trophy" loading="lazy" />
+          </figure>
+        </article>
 
-      <section class="ref-contact ref-screen" aria-labelledby="contact-title">
-        <div>
-          <p class="ref-kicker">Contact Us</p>
-          <h2 id="contact-title">Connect With Presda</h2>
-        </div>
-        <div class="ref-social-grid" aria-label="PRESDA social links">
-          <a href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer">X</a>
-          <a href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer">Instagram</a>
-          <a href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer">Facebook</a>
-          <a href="mailto:contact@presda.com">Email</a>
-        </div>
-        <form class="ref-newsletter" action="/newsletter/">
-          <label for="ref-email">Join Us:</label>
-          <input id="ref-email" type="email" name="email" placeholder="Your email" />
-          <button type="submit">Newsletter</button>
-        </form>
+        <article class="story-slide story-vote" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">World Cup</p>
+            <h2>Vote For <span class="story-red">Your Nation</span></h2>
+            <p class="story-deck">
+              Fan energy is already building. Choose a nation and follow the pulse of World Cup 2026.
+            </p>
+            <a class="story-cta" href="/world-cup-2026/#fan-vote">Vote Now</a>
+          </div>
+          <div class="vote-collage" aria-label="World Cup fan vote nations">
+            <img src="/images/editorial/vote-argentina.png" alt="Argentina World Cup team visual" loading="lazy" />
+            <img src="/images/editorial/vote-brazil.png" alt="Brazil World Cup team visual" loading="lazy" />
+            <img src="/images/editorial/vote-france.png" alt="France World Cup team visual" loading="lazy" />
+            <img src="/images/editorial/vote-netherlands.png" alt="Netherlands World Cup team visual" loading="lazy" />
+            <img src="/images/editorial/vote-portugal.png" alt="Portugal World Cup team visual" loading="lazy" />
+          </div>
+        </article>
+
+        <article class="story-slide story-groups" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">World Cup</p>
+            <h2><span class="story-red">Groups</span> & Standings</h2>
+            <p class="story-deck">
+              Twelve groups, forty-eight teams and one long road toward football's biggest stage.
+            </p>
+            <a class="story-cta" href="/world-cup-2026/#groups">See More</a>
+          </div>
+          <div class="story-groups-board" aria-label="World Cup groups preview">
+            <div><strong>Group A</strong><span>Mexico</span><span>USA</span><span>Canada</span><span>Japan</span></div>
+            <div><strong>Group B</strong><span>Morocco</span><span>Portugal</span><span>South Korea</span><span>Nigeria</span></div>
+            <div><strong>Group C</strong><span>Brazil</span><span>France</span><span>Iran</span><span>Egypt</span></div>
+            <div><strong>Group D</strong><span>England</span><span>Netherlands</span><span>USA</span><span>Play-off 1</span></div>
+          </div>
+        </article>
+
+        <article class="story-slide story-stadiums" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">World Cup</p>
+            <h2><span class="story-red">16</span> Stadiums</h2>
+            <p class="story-deck">
+              From Mexico City to Kansas City, North America's biggest arenas are preparing for the world.
+            </p>
+            <a class="story-cta" href="/world-cup-2026/#stadiums">See More</a>
+          </div>
+          <div class="stadium-pair" aria-label="World Cup stadium preview">
+            <figure>
+              <img src="/images/editorial/stadium-mexico-city.jpg" alt="Mexico City Stadium aerial view" loading="lazy" />
+              <figcaption>Mexico City Stadium <b>80,824</b></figcaption>
+            </figure>
+            <figure>
+              <img src="/images/editorial/stadium-kansas-city.jpg" alt="Kansas City Stadium seating bowl" loading="lazy" />
+              <figcaption>Kansas City Stadium <b>69,045</b></figcaption>
+            </figure>
+          </div>
+        </article>
+
+        <article class="story-slide" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">Artificial Intelligence</p>
+            <h2><span class="story-red">Elon Musk</span> The Man Building Tomorrow</h2>
+            <p class="story-deck">
+              From Tesla to rockets and robotics, the world's most watched entrepreneur keeps turning ambition into headlines.
+            </p>
+            <a class="story-cta" href="/articles/elon-mars-signal/">Read Full Story</a>
+          </div>
+          <figure class="story-art">
+            <img src="/images/articles/elon-musk-mars-signal-2026.png" alt="Elon Musk with futuristic rocket city visual" loading="lazy" />
+          </figure>
+        </article>
+
+        <article class="story-slide" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">World Cup</p>
+            <h2>From Winterfell To The <span class="story-red">World Cup</span></h2>
+            <p class="story-deck">
+              Game of Thrones star Kit Harington shows support for Morocco ahead of the Atlas Lions' World Cup opener.
+            </p>
+            <a class="story-cta" href="/articles/jon-snow-backs-morocco/">Read Full Story</a>
+          </div>
+          <figure class="story-art story-art-portrait">
+            <img src="/images/editorial/jon-snow-morocco.jpg" alt="Kit Harington wearing a Morocco shirt in a stadium" loading="lazy" />
+          </figure>
+        </article>
+
+        <article class="story-slide story-contact-slide" data-story-slide>
+          <div class="story-copy">
+            <p class="story-kicker">Contact Us</p>
+            <h2><span class="story-red">Connect</span> With Presda</h2>
+            <p class="story-deck">Follow the signal across every platform.</p>
+            <form class="story-newsletter" action="/newsletter/">
+              <input type="email" name="email" placeholder="Your email" aria-label="Email address" />
+              <button type="submit">Newsletter</button>
+            </form>
+          </div>
+          <figure class="story-art story-art-contain social-cubes">
+            <img src="/images/editorial/social-cubes.png" alt="PRESDA social media cube icons" loading="lazy" />
+          </figure>
+        </article>
+
+        <button class="story-arrow story-prev" type="button" aria-label="Previous story">‹</button>
+        <button class="story-arrow story-next" type="button" aria-label="Next story">›</button>
+        <div class="story-progress" aria-hidden="true"></div>
       </section>
     </main>
 
     <script src="/script.js?v=presda-mobile-wc-polish-20260611"></script>
+    <script>
+      (() => {
+        const slides = Array.from(document.querySelectorAll("[data-story-slide]"));
+        const next = document.querySelector(".story-next");
+        const prev = document.querySelector(".story-prev");
+        const progress = document.querySelector(".story-progress");
+        const menuButton = document.querySelector(".story-menu-button");
+        const menuPanel = document.querySelector(".story-menu-panel");
+        const menuClose = document.querySelector(".story-menu-close");
+        const modeButton = document.querySelector(".story-mode-toggle");
+        let index = 0;
+        let timer;
+
+        const setTheme = (theme) => {
+          document.documentElement.classList.toggle("light-mode", theme === "light");
+          document.body.classList.toggle("light-mode", theme === "light");
+          modeButton?.setAttribute("aria-pressed", theme === "light" ? "true" : "false");
+          try { localStorage.setItem("presda-theme", theme); } catch (error) {}
+        };
+
+        const savedTheme = (() => {
+          try { return localStorage.getItem("presda-theme"); } catch (error) { return null; }
+        })();
+        setTheme(savedTheme || "dark");
+
+        const showSlide = (nextIndex) => {
+          slides[index].classList.remove("is-active");
+          index = (nextIndex + slides.length) % slides.length;
+          slides[index].classList.add("is-active");
+          if (progress) progress.style.setProperty("--story-index", `${index + 1}`);
+        };
+
+        const restart = () => {
+          window.clearInterval(timer);
+          timer = window.setInterval(() => showSlide(index + 1), 6500);
+        };
+
+        next?.addEventListener("click", () => { showSlide(index + 1); restart(); });
+        prev?.addEventListener("click", () => { showSlide(index - 1); restart(); });
+        modeButton?.addEventListener("click", () => {
+          const isLight = document.documentElement.classList.contains("light-mode");
+          setTheme(isLight ? "dark" : "light");
+        });
+        menuButton?.addEventListener("click", () => {
+          menuPanel?.classList.add("is-open");
+          menuPanel?.setAttribute("aria-hidden", "false");
+          menuButton.setAttribute("aria-expanded", "true");
+        });
+        menuClose?.addEventListener("click", () => {
+          menuPanel?.classList.remove("is-open");
+          menuPanel?.setAttribute("aria-hidden", "true");
+          menuButton?.setAttribute("aria-expanded", "false");
+        });
+        menuPanel?.addEventListener("click", (event) => {
+          if (event.target === menuPanel) menuClose?.click();
+        });
+
+        restart();
+      })();
+    </script>
     <script>
       window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
     </script>
