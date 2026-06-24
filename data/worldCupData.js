@@ -13,7 +13,7 @@
 
   const dashboardStatus = {
     fixtures: "Awaiting official confirmation",
-    liveScores: "No live matches",
+    liveScores: "Awaiting official live data",
     results: "Awaiting official confirmation",
     standings: "Awaiting official group draw",
     lineups: "Lineups appear on matchday",
@@ -30,15 +30,34 @@
   const matchEvents = [];
   const lineups = [];
 
-  const groupTables = Array.from({ length: 12 }, (_, index) => ({
-    name: `Group ${String.fromCharCode(65 + index)}`,
-    status: "Awaiting official draw",
-    teams: [
-      { name: "Team 1", flag: "", played: 0, wins: 0, draws: 0, losses: 0, points: 0, status: "To be confirmed" },
-      { name: "Team 2", flag: "", played: 0, wins: 0, draws: 0, losses: 0, points: 0, status: "To be confirmed" },
-      { name: "Team 3", flag: "", played: 0, wins: 0, draws: 0, losses: 0, points: 0, status: "To be confirmed" },
-      { name: "Team 4", flag: "", played: 0, wins: 0, draws: 0, losses: 0, points: 0, status: "To be confirmed" }
-    ]
+  const seededGroupPreview = [
+    ["Group A", [["Mexico", "mx"], ["United States", "us"], ["Canada", "ca"], ["Japan", "jp"]]],
+    ["Group B", [["Morocco", "ma"], ["Portugal", "pt"], ["South Korea", "kr"], ["Nigeria", "ng"]]],
+    ["Group C", [["Brazil", "br"], ["France", "fr"], ["Iran", "ir"], ["Egypt", "eg"]]],
+    ["Group D", [["England", "gb-eng"], ["Netherlands", "nl"], ["Croatia", "hr"], ["Ghana", "gh"]]],
+    ["Group E", [["Spain", "es"], ["Belgium", "be"], ["Uruguay", "uy"], ["Senegal", "sn"]]],
+    ["Group F", [["Germany", "de"], ["Switzerland", "ch"], ["Colombia", "co"], ["Australia", "au"]]],
+    ["Group G", [["Argentina", "ar"], ["Ecuador", "ec"], ["Algeria", "dz"], ["Norway", "no"]]],
+    ["Group H", [["Portugal", "pt"], ["Tunisia", "tn"], ["Saudi Arabia", "sa"], ["South Africa", "za"]]],
+    ["Group I", [["Denmark", "dk"], ["Austria", "at"], ["Chile", "cl"], ["Qatar", "qa"]]],
+    ["Group J", [["Poland", "pl"], ["Serbia", "rs"], ["Ukraine", "ua"], ["New Zealand", "nz"]]],
+    ["Group K", [["Japan", "jp"], ["Paraguay", "py"], ["Costa Rica", "cr"], ["Cameroon", "cm"]]],
+    ["Group L", [["United States", "us"], ["Mexico", "mx"], ["Morocco", "ma"], ["Brazil", "br"]]]
+  ];
+
+  const groupTables = seededGroupPreview.map(([name, teams]) => ({
+    name,
+    status: "Static preview",
+    teams: teams.map(([teamName, code]) => ({
+      name: teamName,
+      flag: `https://flagcdn.com/${code}.svg`,
+      played: 0,
+      wins: 0,
+      draws: 0,
+      losses: 0,
+      points: 0,
+      status: "Awaiting official match data"
+    }))
   }));
 
   const fanVote = {

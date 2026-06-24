@@ -269,7 +269,7 @@
     const dashboard = service ? await service.getWorldCupDashboard() : data;
     renderQuickLinks();
     renderMatchRows("[data-wc-today]", dashboard.todayMatches, "Upcoming");
-    renderMatchRows("[data-wc-live]", dashboard.liveScores, "No live matches");
+    renderMatchRows("[data-wc-live]", dashboard.liveScores, "Awaiting official live data");
     renderMatchRows("[data-wc-fixtures]", dashboard.fixtures, "Awaiting official confirmation");
     renderMatchRows("[data-wc-results]", dashboard.results, "Awaiting official confirmation");
     renderGroups(dashboard.groupTables);
