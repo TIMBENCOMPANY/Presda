@@ -71,7 +71,7 @@
           <span>${panel.eyebrow}</span>
           <h2>${panel.title}</h2>
           <p>${panel.description}</p>
-          <a href="${panel.href}">Open Section</a>
+          <a href="${panel.href}">Open</a>
         </div>
         <figure>
           <img src="${panel.image}" alt="${panel.title}" loading="lazy">
@@ -232,7 +232,7 @@
               <div>
                 <span class="wc-mini-status">${stadium.label}</span>
                 <h3>${stadium.name}</h3>
-                <p>${stadium.flag ? `<img class="wc-country-flag" src="${stadium.flag}" alt="">` : ""}${stadium.country}</p>
+                <p>${stadium.country}</p>
                 <p>${stadium.city}</p>
                 <small>Capacity ${stadium.capacity}</small>
               </div>
@@ -304,12 +304,15 @@
               .map((match, matchIndex) => `
                 <article class="wc-bracket-match">
                   ${match
-                    .map((team) => `
-                      <button type="button" data-round="${roundIndex}" data-match="${matchIndex}" data-team="${encodeURIComponent(JSON.stringify(team))}">
+                    .map((team) => {
+                      const isWinner = selected[`r${roundIndex}m${matchIndex}`] === JSON.stringify(team);
+                      return `
+                      <button class="wc-bracket-team${isWinner ? " is-winner" : ""}" type="button" data-round="${roundIndex}" data-match="${matchIndex}" data-team="${encodeURIComponent(JSON.stringify(team))}">
                         ${team.flag ? `<img src="${team.flag}" alt="">` : ""}
                         <span>${team.name}</span>
                       </button>
-                    `)
+                    `;
+                    })
                     .join("")}
                 </article>
               `)
@@ -354,6 +357,29 @@
     target.innerHTML = worldCupArticles.map(articleCard).join("");
   }
 
+  function prioritizeWorldCupLayout() {
+    const main = qs(".wc-dashboard");
+    const slider = qs(".wc-panel-slider");
+    const grid = qs(".wc-grid");
+    const fanVote = qs("#fan-vote");
+    const standings = qs("#standings");
+    const road = qs("#road-to-final");
+    const stadiums = qs("#stadiums");
+    const ball = qs("#official-ball");
+    const fixtures = qs("#fixtures");
+    const news = qs("#world-cup-news");
+    if (!main || !slider) return;
+
+    let anchor = slider;
+    [fanVote, standings, road, stadiums, ball, fixtures, news].forEach((node) => {
+      if (!node) return;
+      main.insertBefore(node, anchor.nextSibling);
+      anchor = node;
+    });
+
+    if (grid && grid.children.length) main.insertBefore(grid, anchor.nextSibling);
+  }
+
   async function renderDashboard() {
     const dashboard = service ? await service.getWorldCupDashboard() : data;
     renderQuickLinks();
@@ -371,6 +397,7 @@
     renderStadiums(dashboard.stadiums);
     renderBracket(dashboard.knockoutSeeds || data.knockoutSeeds || []);
     renderNews();
+    prioritizeWorldCupLayout();
   }
 
   renderDashboard();

@@ -92,7 +92,7 @@
       <section class="story-slider" aria-label="PRESDA animated editorial story slider">
         <div class="story-wave" aria-hidden="true"></div>
 
-        <article class="story-slide is-active" data-story-slide data-article-slug="achraf-hakimi-king-of-africa">
+        <article class="story-slide" data-story-slide data-article-slug="achraf-hakimi-king-of-africa">
           <div class="story-copy">
             <p class="story-kicker">World Cup <span>Jun 24, 2026</span></p>
             <h1>King Of Africa: <span class="story-red">Achraf Hakimi</span> Reaches 19 Major Trophies</h1>
@@ -128,7 +128,7 @@
           </figure>
         </article>
 
-        <article class="story-slide" data-story-slide data-article-slug="world-cup-2026-countdown">
+        <article class="story-slide is-active" data-story-slide data-article-slug="world-cup-2026-countdown">
           <div class="story-copy">
             <p class="story-kicker">World Cup <span>May 28, 2026</span></p>
             <h2><span class="story-red">World Cup</span> 2026 Countdown Enters Full Speed</h2>
@@ -444,7 +444,7 @@
         const menuPanel = document.querySelector(".story-menu-panel");
         const menuClose = document.querySelector(".story-menu-close");
         const modeButton = document.querySelector(".story-mode-toggle");
-        let index = 0;
+        let index = Math.max(0, slides.findIndex((slide) => slide.classList.contains("is-active")));
         let timer;
         const setProgress = () => {
           if (!progress || !slides.length) return;

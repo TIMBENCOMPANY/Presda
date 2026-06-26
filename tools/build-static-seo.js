@@ -1,4 +1,4 @@
-const fs = require("fs");
+﻿const fs = require("fs");
 const path = require("path");
 const vm = require("vm");
 
@@ -28,7 +28,7 @@ const slugify = (value = "") =>
     .toLowerCase()
     .trim()
     .replace(/&/g, "and")
-    .replace(/['’]/g, "")
+    .replace(/['â€™]/g, "")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
 
@@ -286,7 +286,7 @@ function socialSection() {
           <div class="presda-contact-map-panel" aria-label="PRESDA contact information">
             <div class="contact-map-glow" aria-hidden="true"></div>
             <div class="contact-map-header">
-              <span>Global Desk</span>
+              <span>Global Coverage</span>
               <strong>PRESDA Official Network</strong>
             </div>
             <div class="contact-info-grid">
@@ -324,7 +324,7 @@ function homePage() {
     return `<section class="category-block" id="${categorySlug(category)}">
             <div class="section-title compact">
               <span>${category}</span>
-              <h2>${category} Desk</h2>
+              <h2>${category} Coverage</h2>
             </div>
             <div class="category-story-grid">
               ${articleCard(lead, "wide", { mobileImage: true })}
@@ -389,7 +389,7 @@ ${ticker()}
 
       <section class="content-section featured-desk" aria-labelledby="featured-desk-title">
         <div class="section-title">
-          <span>Featured Desk</span>
+          <span>Featured Coverage</span>
           <h2 id="featured-desk-title">Stories With Signal</h2>
         </div>
         <div class="featured-grid" data-featured-grid>${featuredGrid}</div>
@@ -581,7 +581,7 @@ function categoryPage(category) {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     name: `${category} News | PRESDA`,
-    description: `Premium PRESDA coverage from the ${category} desk.`,
+    description: `Premium PRESDA coverage from the ${category} Coverage.`,
     url: canonical
   };
 
@@ -605,7 +605,7 @@ ${ticker()}
       <section class="content-section category-page-hero">
         <div class="section-title">
           <span class="category-icon page-icon">${categoryIcon(category)}</span>
-          <span>${esc(category)} Desk</span>
+          <span>${esc(category)} Coverage</span>
           <h1>${esc(category)} News</h1>
         </div>
         <p>Premium PRESDA coverage, organized for fast reading and cinematic scanning.</p>

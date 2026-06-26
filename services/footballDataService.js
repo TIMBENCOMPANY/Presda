@@ -62,7 +62,10 @@
       fanVote: staticData.fanVote || { totalVotes: 0, teams: [] },
       tvChannels: staticData.tvChannels || [],
       stadiums: staticData.stadiums || [],
-      matchCenterPages: staticData.matchCenterPages || []
+      matchCenterPages: staticData.matchCenterPages || [],
+      quickLinks: staticData.quickLinks || [],
+      worldCupPanels: staticData.worldCupPanels || [],
+      knockoutSeeds: staticData.knockoutSeeds || []
     };
   }
 

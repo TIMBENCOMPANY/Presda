@@ -1,4 +1,4 @@
-const fs = require("fs");
+﻿const fs = require("fs");
 const path = require("path");
 const vm = require("vm");
 
@@ -31,7 +31,7 @@ const slugify = (value = "") =>
     .toLowerCase()
     .trim()
     .replace(/&/g, "and")
-    .replace(/['’]/g, "")
+    .replace(/['â€™]/g, "")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
 const categorySlug = (category) => slugify(category);
@@ -372,7 +372,7 @@ function homePage() {
     return `<section class="category-block" id="${category.toLowerCase()}">
             <div class="section-title compact">
               <span>${category}</span>
-              <h2>${category} Desk</h2>
+              <h2>${category} Coverage</h2>
             </div>
             <div class="category-story-grid">
               ${articleCard(lead, "wide", { mobileImage: true })}
@@ -437,7 +437,7 @@ ${ticker()}
 
       <section class="content-section featured-desk" aria-labelledby="featured-desk-title">
         <div class="section-title">
-          <span>Featured Desk</span>
+          <span>Featured Coverage</span>
           <h2 id="featured-desk-title">Stories With Signal</h2>
         </div>
         <div class="featured-grid" data-featured-grid>${featuredGrid}</div>
@@ -661,7 +661,7 @@ function categoryPage(category) {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     name: `${category} News | PRESDA`,
-    description: `Premium PRESDA coverage from the ${category} desk.`,
+    description: `Premium PRESDA coverage from the ${category} Coverage.`,
     url: canonical
   };
 
@@ -685,7 +685,7 @@ ${ticker()}
       <section class="content-section category-page-hero">
         <div class="section-title">
           <span class="category-icon page-icon">${categoryIcon(category)}</span>
-          <span>${esc(category)} Desk</span>
+          <span>${esc(category)} Coverage</span>
           <h1>${esc(category)} News</h1>
         </div>
         <p>Premium PRESDA coverage, organized for fast reading and cinematic scanning.</p>
@@ -916,13 +916,13 @@ function aboutPage() {
     sections: [
       { title: "About PRESDA", body: ["PRESDA is a modern digital news magazine built for readers who want fast, visual, and trustworthy coverage without losing editorial depth. The brand combines cinematic presentation with clear reporting across technology, sport, business, world affairs, travel, and culture."] },
       { title: "Our Mission", body: ["Our mission is to make complex stories easier to understand through premium visual storytelling, disciplined writing, and a clean editorial experience. PRESDA is designed for readers who want context, not noise."] },
-      { title: "What We Cover", body: ["PRESDA covers AI, business, sport, world news, paparazzi, lifestyle, and travel. Each desk is organized around clarity, relevance, and strong presentation so readers can move quickly from headline to meaning."] },
+      { title: "What We Cover", body: ["PRESDA covers AI, business, sport, world news, paparazzi, lifestyle, and travel. Each Coverage is organized around clarity, relevance, and strong presentation so readers can move quickly from headline to meaning."] },
       { title: "AI", body: ["Our AI coverage follows model releases, robotics, automation, business adoption, ethics, creative tools, and the cultural impact of intelligent systems."] },
-      { title: "Business", body: ["Our business desk tracks global companies, markets, founders, technology platforms, investment signals, and the economic forces shaping modern life."] },
+      { title: "Business", body: ["Our business Coverage tracks global companies, markets, founders, technology platforms, investment signals, and the economic forces shaping modern life."] },
       { title: "Sport", body: ["PRESDA sport coverage focuses on football, major tournaments, elite managers, fan culture, sports business, and the global spectacle around competition."] },
-      { title: "World", body: ["The world desk covers international developments, humanitarian issues, cities, diplomacy, infrastructure, and stories that reveal how global life is changing."] },
+      { title: "World", body: ["The world Coverage covers international developments, humanitarian issues, cities, diplomacy, infrastructure, and stories that reveal how global life is changing."] },
       { title: "Paparazzi", body: ["Our paparazzi and culture coverage follows celebrity stories, public image, entertainment media, online speculation, and the human side of fame."] },
-      { title: "Travel", body: ["The travel desk highlights destinations, hidden gems, future cities, cultural experiences, and premium journeys for readers who value authenticity."] },
+      { title: "Travel", body: ["The travel Coverage highlights destinations, hidden gems, future cities, cultural experiences, and premium journeys for readers who value authenticity."] },
       { title: "Editorial Standards", body: ["PRESDA aims to publish accurate, readable, and respectful stories. We avoid unnecessary sensationalism, separate verified facts from speculation, and keep article text accessible for readers, search engines, translation, and mobile reading."] },
       { title: "Contact", body: ["For editorial, partnership, or general inquiries, contact PRESDA at contact@presda.com or visit the contact page."] }
     ]

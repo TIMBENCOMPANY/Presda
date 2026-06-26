@@ -5764,6 +5764,325 @@ mark.title-red,
   }
 }
 
+/* Focused premium unification for all category pages */
+body[data-category-page] {
+  min-height: 100vh;
+  overflow-x: hidden;
+  color: var(--ref-white, #fff);
+  background:
+    radial-gradient(circle at 76% 14%, rgba(255, 26, 26, 0.22), transparent 34%),
+    linear-gradient(135deg, #030303 0%, #0a0505 48%, #130707 100%);
+}
+
+body[data-category-page]::before {
+  content: "";
+  position: fixed;
+  inset: auto -8vw 0 -8vw;
+  height: min(42vw, 430px);
+  z-index: 0;
+  opacity: 0.78;
+  background: repeating-radial-gradient(ellipse at 50% 100%, transparent 0 18px, rgba(255, 26, 26, 0.72) 19px 23px, transparent 24px 38px);
+  mask-image: linear-gradient(to top, #000 0%, transparent 78%);
+  pointer-events: none;
+}
+
+body[data-category-page] .site-header,
+body[data-category-page] main,
+body[data-category-page] .site-footer {
+  position: relative;
+  z-index: 1;
+}
+
+body[data-category-page] .site-header {
+  min-height: 88px;
+  border: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0));
+  backdrop-filter: none;
+}
+
+body[data-category-page] .nav-shell {
+  width: min(100% - 40px, 1520px);
+  min-height: 88px;
+}
+
+body[data-category-page] .brand {
+  position: absolute;
+  left: 50%;
+  top: 12px;
+  transform: translateX(-50%);
+  width: clamp(72px, 7vw, 116px);
+  height: clamp(56px, 6vw, 88px);
+  z-index: 6;
+}
+
+body[data-category-page] .brand-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+body[data-category-page] .logo-light {
+  display: none;
+}
+
+body[data-category-page] .main-nav {
+  gap: 18px;
+}
+
+body[data-category-page] .main-nav a {
+  color: rgba(255, 255, 255, 0.78);
+  font: 900 0.72rem/1 "Orbitron", sans-serif;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+body[data-category-page] .main-nav a:hover,
+body[data-category-page] .main-nav a.is-active {
+  color: #fff;
+}
+
+body[data-category-page] .search-button,
+body[data-category-page] .theme-toggle,
+body[data-category-page] .menu-button {
+  border-color: rgba(255, 255, 255, 0.12);
+  background: rgba(0, 0, 0, 0.42);
+}
+
+body[data-category-page] .market-ticker,
+body[data-category-page] .ticker {
+  display: none;
+}
+
+body[data-category-page] .category-page-hero {
+  width: min(100% - 52px, 1520px);
+  min-height: clamp(340px, 42vw, 620px);
+  margin: 0 auto;
+  padding: clamp(84px, 10vw, 148px) 0 clamp(36px, 5vw, 76px);
+  display: grid;
+  align-content: center;
+}
+
+body[data-category-page] .category-page-hero::after {
+  content: "";
+  position: absolute;
+  right: clamp(0px, 5vw, 80px);
+  top: 52%;
+  width: clamp(220px, 34vw, 560px);
+  aspect-ratio: 1;
+  transform: translateY(-50%);
+  background: url("/images/brand/ptransparent.png") center / contain no-repeat;
+  opacity: 0.11;
+  filter: drop-shadow(0 0 50px rgba(255, 26, 26, 0.34));
+  pointer-events: none;
+}
+
+body[data-category-page] .category-page-hero .section-title {
+  max-width: 880px;
+  margin: 0;
+}
+
+body[data-category-page] .category-page-hero .category-icon {
+  display: none;
+}
+
+body[data-category-page] .category-page-hero .section-title span {
+  display: inline-flex;
+  margin-bottom: 24px;
+  color: #fff;
+  font: 900 0.86rem/1 "Orbitron", sans-serif;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-color: #ff1a1a;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 10px;
+}
+
+body[data-category-page] .category-page-hero h1 {
+  max-width: 980px;
+  margin: 0;
+  color: #fff;
+  font-family: var(--ref-serif, "Montserrat", sans-serif);
+  font-size: clamp(4rem, 11vw, 12rem);
+  font-weight: 900;
+  line-height: 0.82;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  text-wrap: balance;
+  text-shadow: 0 22px 70px rgba(0, 0, 0, 0.74);
+}
+
+body[data-category-page] .category-page-hero p {
+  max-width: 620px;
+  margin-top: 26px;
+  color: rgba(247, 243, 237, 0.78);
+  font: 700 clamp(0.94rem, 1.1vw, 1.12rem)/1.7 "Inter", sans-serif;
+  text-transform: uppercase;
+}
+
+body[data-category-page] main > .content-section:not(.category-page-hero) {
+  width: min(100% - 52px, 1520px);
+  margin-inline: auto;
+  padding: clamp(28px, 4vw, 64px) 0 clamp(72px, 8vw, 126px);
+}
+
+body[data-category-page] .latest-grid {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(340px, 31vw);
+  grid-template-columns: none;
+  gap: clamp(18px, 2vw, 30px);
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 8px 8px 28px;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: thin;
+}
+
+body[data-category-page] .article-card {
+  min-height: 100%;
+  border-radius: 28px;
+  border-color: rgba(255, 255, 255, 0.12);
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.075), rgba(255, 255, 255, 0.025)),
+    rgba(0, 0, 0, 0.72);
+  box-shadow: 0 28px 80px rgba(0, 0, 0, 0.5), inset 0 1px rgba(255, 255, 255, 0.08);
+  scroll-snap-align: start;
+}
+
+body[data-category-page] .article-card.wide {
+  grid-column: auto;
+}
+
+body[data-category-page] .article-card figure {
+  min-height: clamp(260px, 24vw, 390px);
+  border-radius: 24px;
+}
+
+body[data-category-page] .article-card h3 {
+  font-size: clamp(1.75rem, 2.6vw, 3.8rem);
+  line-height: 0.92;
+  letter-spacing: 0;
+}
+
+body[data-category-page] .article-card p {
+  color: rgba(247, 243, 237, 0.72);
+  text-transform: none;
+}
+
+body[data-category-page] .card-cta,
+body[data-category-page] .article-card small {
+  border-radius: 999px;
+  color: #fff;
+  background: #ff1a1a;
+}
+
+/* World Cup fast polish: compact cards, honest tables, mobile bracket */
+body[data-world-cup-hub] .wc-group-card header span {
+  color: rgba(247, 243, 237, 0.62);
+}
+
+body[data-world-cup-hub] .wc-stadium-card {
+  flex: 0 0 clamp(230px, 24vw, 320px);
+  border-radius: 20px;
+}
+
+body[data-world-cup-hub] .wc-stadium-card figure {
+  aspect-ratio: 16 / 10;
+  min-height: 0;
+}
+
+body[data-world-cup-hub] .wc-stadium-card h3 {
+  font-size: clamp(1rem, 1.35vw, 1.35rem);
+  line-height: 1.05;
+}
+
+body[data-world-cup-hub] .wc-stadium-card p,
+body[data-world-cup-hub] .wc-stadium-card small {
+  margin: 4px 0 0;
+  color: rgba(247, 243, 237, 0.72);
+}
+
+body[data-world-cup-hub] .wc-country-flag {
+  display: none !important;
+}
+
+body[data-world-cup-hub] .wc-bracket-shell {
+  border: 1px solid rgba(255, 26, 26, 0.22);
+  border-radius: 28px;
+  background: rgba(0, 0, 0, 0.36);
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.08);
+}
+
+body[data-world-cup-hub] .wc-bracket {
+  min-width: 1080px;
+  gap: 12px;
+  padding: 12px;
+}
+
+body[data-world-cup-hub] .wc-bracket-round {
+  align-content: start;
+}
+
+body[data-world-cup-hub] .wc-bracket-match {
+  padding: 8px;
+  border-radius: 14px;
+}
+
+body[data-world-cup-hub] .wc-bracket-team {
+  min-height: 34px;
+  padding: 7px 8px;
+  border-radius: 10px;
+  font-size: 0.78rem;
+}
+
+body[data-world-cup-hub] .wc-bracket-team img,
+body[data-world-cup-hub] .wc-champion-card img {
+  width: 20px;
+  height: 14px;
+  object-fit: cover;
+  border-radius: 3px;
+}
+
+@media (max-width: 760px) {
+  body[data-category-page] .nav-shell,
+  body[data-category-page] .category-page-hero,
+  body[data-category-page] main > .content-section:not(.category-page-hero) {
+    width: min(100% - 24px, 100%);
+  }
+
+  body[data-category-page] .category-page-hero {
+    min-height: 320px;
+    padding-top: 62px;
+  }
+
+  body[data-category-page] .category-page-hero h1 {
+    font-size: clamp(3.2rem, 16vw, 5.4rem);
+    line-height: 0.88;
+  }
+
+  body[data-category-page] .latest-grid {
+    grid-auto-flow: row;
+    grid-auto-columns: auto;
+    grid-template-columns: 1fr;
+    overflow: visible;
+    padding-inline: 0;
+  }
+
+  body[data-category-page] .article-card figure {
+    min-height: 250px;
+  }
+
+  body[data-world-cup-hub] .wc-bracket {
+    min-width: 860px;
+    grid-template-columns: repeat(6, 136px);
+  }
+
+  body[data-world-cup-hub] .wc-bracket-shell {
+    margin-inline: -4px;
+  }
+}
+
 /* PRESDA homepage rebuild from supplied reference screenshots */
 body.presda-rebuild-home,
 html.light-mode body.presda-rebuild-home,

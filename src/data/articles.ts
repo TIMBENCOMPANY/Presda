@@ -1,4 +1,4 @@
-export type ArticleCategory =
+﻿export type ArticleCategory =
   | "AI"
   | "GAMING"
   | "SPORT"
@@ -61,7 +61,7 @@ export const articles: Article[] = [
       "Major publishers are rebuilding game launches around seasons, creator clips, esports events, and always-on community feedback.",
     category: "GAMING",
     date: "2026-05-17",
-    author: "PRESDA Gaming Desk",
+    author: "PRESDA Gaming Coverage",
     coverImage: "/articles/gaming-cover.svg",
     coverAlt: "Minimal futuristic gaming arena in black and red",
     content: [
@@ -107,17 +107,17 @@ export const articles: Article[] = [
       "Investors move defensively as policy risk, energy exposure, and AI valuations collide across global markets.",
     category: "BUSINESS",
     date: "2026-05-15",
-    author: "PRESDA Markets Desk",
+    author: "PRESDA Markets Coverage",
     coverImage: "/articles/business-cover.svg",
     coverAlt: "Black trading dashboard with thin red market lines",
     content: [
       "The opening session reflected a market that wants growth but is pricing risk with unusual discipline. Defensive sectors held firm while high-beta names moved unevenly.",
       "Analysts are watching whether AI capital expenditure becomes a durable productivity story or a pressure point for margins.",
-      "PRESDA's business desk is tracking both the numbers and the narrative shaping investor conviction."
+      "PRESDA's business Coverage is tracking both the numbers and the narrative shaping investor conviction."
     ],
     quote: "Markets are reacting not only to news, but to the velocity of uncertainty.",
     source: {
-      name: "PRESDA Markets Desk"
+      name: "PRESDA Markets Coverage"
     },
     tags: ["Business", "Markets", "Policy", "AI"],
     readingTime: "5 min read"
@@ -130,7 +130,7 @@ export const articles: Article[] = [
       "Civilians, markets, leaders, and cities move through a volatile news cycle as PRESDA tracks the stories defining the day.",
     category: "WORLD",
     date: "2026-05-14",
-    author: "PRESDA Global Desk",
+    author: "PRESDA Global Coverage",
     coverImage: "/articles/world-cover.svg",
     coverAlt: "Abstract global map with red radar signal",
     content: [
@@ -140,7 +140,7 @@ export const articles: Article[] = [
     ],
     quote: "The new media front page has to feel alive, but it still has to earn trust line by line.",
     source: {
-      name: "PRESDA Global Desk"
+      name: "PRESDA Global Coverage"
     },
     tags: ["World", "Politics", "Security", "Global"],
     readingTime: "6 min read"
@@ -153,7 +153,7 @@ export const articles: Article[] = [
       "Studios and creators are treating every public appearance as a data-rich media asset in the premium attention market.",
     category: "PAPARAZZI",
     date: "2026-05-13",
-    author: "PRESDA Culture Desk",
+    author: "PRESDA Culture Coverage",
     coverImage: "/articles/paparazzi-cover.svg",
     coverAlt: "Red carpet camera flashes drawn in minimal red and white lines",
     content: [
@@ -163,7 +163,7 @@ export const articles: Article[] = [
     ],
     quote: "The modern celebrity launch is part premiere, part market signal, part social experiment.",
     source: {
-      name: "PRESDA Culture Desk"
+      name: "PRESDA Culture Coverage"
     },
     tags: ["Paparazzi", "Culture", "Entertainment", "Creators"],
     readingTime: "5 min read"
@@ -176,7 +176,7 @@ export const articles: Article[] = [
       "Premium health, travel, and daily performance brands are redesigning modern lifestyle around data and trust.",
     category: "LIFESTYLE",
     date: "2026-05-12",
-    author: "PRESDA Lifestyle Desk",
+    author: "PRESDA Lifestyle Coverage",
     coverImage: "/articles/lifestyle-cover.svg",
     coverAlt: "Minimal luxury wellness space with red accent lighting",
     content: [
@@ -186,7 +186,7 @@ export const articles: Article[] = [
     ],
     quote: "Luxury is becoming less about noise and more about intelligent calm.",
     source: {
-      name: "PRESDA Lifestyle Desk"
+      name: "PRESDA Lifestyle Coverage"
     },
     tags: ["Lifestyle", "Wellness", "Luxury", "Design"],
     readingTime: "4 min read"
