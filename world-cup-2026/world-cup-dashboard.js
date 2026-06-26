@@ -2,9 +2,9 @@
   const data = window.PRESDA_WORLD_CUP_DATA || {};
   const service = window.PresdaFootballDataService;
   const articles = window.PRESDA_ARTICLES || [];
-
   const qs = (selector) => document.querySelector(selector);
   let activeGroupPage = 0;
+  let activePanelIndex = 0;
 
   function renderQuickLinks() {
     const target = qs("[data-wc-quick-links]");
@@ -46,7 +46,7 @@
               hour: "2-digit",
               minute: "2-digit"
             })
-          : "Awaiting official confirmation";
+          : "Kickoff time to be listed";
         return `
           <li>
             <div>
@@ -59,6 +59,33 @@
         `;
       })
       .join("")}</ul>`;
+  }
+
+  function renderPanelSlider(panels) {
+    const stage = qs("[data-wc-panel-stage]");
+    if (!stage || !panels?.length) return;
+    const panel = panels[activePanelIndex % panels.length];
+    stage.innerHTML = `
+      <article class="wc-feature-panel">
+        <div>
+          <span>${panel.eyebrow}</span>
+          <h2>${panel.title}</h2>
+          <p>${panel.description}</p>
+          <a href="${panel.href}">Open Section</a>
+        </div>
+        <figure>
+          <img src="${panel.image}" alt="${panel.title}" loading="lazy">
+        </figure>
+      </article>
+    `;
+    qs("[data-wc-panel-prev]")?.addEventListener("click", () => {
+      activePanelIndex = (activePanelIndex - 1 + panels.length) % panels.length;
+      renderPanelSlider(panels);
+    }, { once: true });
+    qs("[data-wc-panel-next]")?.addEventListener("click", () => {
+      activePanelIndex = (activePanelIndex + 1) % panels.length;
+      renderPanelSlider(panels);
+    }, { once: true });
   }
 
   function renderMatchCenterLinks(items) {
@@ -94,7 +121,7 @@
     const target = qs("[data-wc-groups]");
     if (!target) return;
     if (!items?.length) {
-      target.innerHTML = `<div class="wc-empty">Awaiting official group draw</div>`;
+      target.innerHTML = `<div class="wc-empty">Group tables</div>`;
       return;
     }
     const pages = Math.ceil(items.length / 4);
@@ -110,32 +137,32 @@
       </div>
       <div class="wc-group-page">
         ${visibleGroups
-      .map((group) => `
-        <article class="wc-group-card">
-          <header>
-            <strong>${group.name}</strong>
-            <span>${group.status}</span>
-          </header>
-          <table>
-            <thead><tr><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
-            <tbody>
-              ${group.teams
-                .map((team) => `
-                  <tr>
-                    <td>${team.flag ? `<img src="${team.flag}" alt="">` : ""}<span>${team.name}</span></td>
-                    <td>${team.played}</td>
-                    <td>${team.wins}</td>
-                    <td>${team.draws}</td>
-                    <td>${team.losses}</td>
-                    <td>${team.points}</td>
-                  </tr>
-                `)
-                .join("")}
-            </tbody>
-          </table>
-        </article>
-      `)
-      .join("")}
+          .map((group) => `
+            <article class="wc-group-card">
+              <header>
+                <strong>${group.name}</strong>
+                <span>Group table</span>
+              </header>
+              <table>
+                <thead><tr><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+                <tbody>
+                  ${group.teams
+                    .map((team) => `
+                      <tr>
+                        <td>${team.flag ? `<img src="${team.flag}" alt="">` : ""}<span>${team.name}</span></td>
+                        <td>${team.played}</td>
+                        <td>${team.wins}</td>
+                        <td>${team.draws}</td>
+                        <td>${team.losses}</td>
+                        <td>${team.points}</td>
+                      </tr>
+                    `)
+                    .join("")}
+                </tbody>
+              </table>
+            </article>
+          `)
+          .join("")}
       </div>
     `;
     target.querySelectorAll("[data-group-page]").forEach((button) => {
@@ -199,18 +226,19 @@
       </div>
       <div class="wc-stadium-track" data-stadium-track>
         ${(items || [])
-      .map((stadium) => `
-        <article class="wc-stadium-card">
-          <figure><img src="${stadium.image}" alt="${stadium.name} in ${stadium.city}" loading="lazy"></figure>
-          <div>
-            <span class="wc-mini-status">${stadium.label}</span>
-            <h3>${stadium.name}</h3>
-            <p>${stadium.city} / ${stadium.country}</p>
-            <small>Capacity ${stadium.capacity}</small>
-          </div>
-        </article>
-      `)
-      .join("")}
+          .map((stadium) => `
+            <article class="wc-stadium-card">
+              <figure><img src="${stadium.image}" alt="${stadium.name} in ${stadium.city}" loading="lazy"></figure>
+              <div>
+                <span class="wc-mini-status">${stadium.label}</span>
+                <h3>${stadium.name}</h3>
+                <p>${stadium.flag ? `<img class="wc-country-flag" src="${stadium.flag}" alt="">` : ""}${stadium.country}</p>
+                <p>${stadium.city}</p>
+                <small>Capacity ${stadium.capacity}</small>
+              </div>
+            </article>
+          `)
+          .join("")}
       </div>
     `;
     const track = target.querySelector("[data-stadium-track]");
@@ -220,6 +248,86 @@
     });
     target.querySelector("[data-stadium-next]")?.addEventListener("click", () => {
       track?.scrollBy({ left: step(), behavior: "smooth" });
+    });
+  }
+
+  function renderBracket(seedTeams) {
+    const target = qs("[data-wc-bracket]");
+    if (!target || !seedTeams?.length) return;
+    const storageKey = "presda-road-to-final";
+    const selected = JSON.parse(localStorage.getItem(storageKey) || "{}");
+    const rounds = ["Round of 32", "Round of 16", "Quarter Finals", "Semi Finals", "Final", "Champion"];
+
+    function getRoundTeams(roundIndex) {
+      if (roundIndex === 0) return seedTeams;
+      const previous = getRoundTeams(roundIndex - 1);
+      const teams = [];
+      for (let i = 0; i < previous.length; i += 2) {
+        const key = `r${roundIndex - 1}m${i / 2}`;
+        teams.push(selected[key] ? JSON.parse(selected[key]) : { name: "TBD", flag: "" });
+      }
+      return teams;
+    }
+
+    function selectWinner(roundIndex, matchIndex, team) {
+      if (!team || team.name === "TBD") return;
+      selected[`r${roundIndex}m${matchIndex}`] = JSON.stringify(team);
+      Object.keys(selected).forEach((key) => {
+        const round = Number(key.match(/^r(\d+)m/)?.[1] || 0);
+        if (round > roundIndex) delete selected[key];
+      });
+      localStorage.setItem(storageKey, JSON.stringify(selected));
+      renderBracket(seedTeams);
+    }
+
+    const html = rounds
+      .map((roundName, roundIndex) => {
+        if (roundIndex === rounds.length - 1) {
+          const finalWinner = selected.r4m0 ? JSON.parse(selected.r4m0) : { name: "Choose finalists", flag: "" };
+          return `
+            <section class="wc-bracket-round is-champion">
+              <h3>${roundName}</h3>
+              <div class="wc-champion-card">
+                ${finalWinner.flag ? `<img src="${finalWinner.flag}" alt="">` : ""}
+                <strong>${finalWinner.name}</strong>
+              </div>
+            </section>
+          `;
+        }
+        const roundTeams = getRoundTeams(roundIndex);
+        const matches = [];
+        for (let i = 0; i < roundTeams.length; i += 2) matches.push([roundTeams[i], roundTeams[i + 1]]);
+        return `
+          <section class="wc-bracket-round">
+            <h3>${roundName}</h3>
+            ${matches
+              .map((match, matchIndex) => `
+                <article class="wc-bracket-match">
+                  ${match
+                    .map((team) => `
+                      <button type="button" data-round="${roundIndex}" data-match="${matchIndex}" data-team="${encodeURIComponent(JSON.stringify(team))}">
+                        ${team.flag ? `<img src="${team.flag}" alt="">` : ""}
+                        <span>${team.name}</span>
+                      </button>
+                    `)
+                    .join("")}
+                </article>
+              `)
+              .join("")}
+          </section>
+        `;
+      })
+      .join("");
+
+    target.innerHTML = `<div class="wc-bracket">${html}</div>`;
+    target.querySelectorAll("[data-team]").forEach((button) => {
+      button.addEventListener("click", () => {
+        selectWinner(
+          Number(button.dataset.round),
+          Number(button.dataset.match),
+          JSON.parse(decodeURIComponent(button.dataset.team))
+        );
+      });
     });
   }
 
@@ -246,44 +354,23 @@
     target.innerHTML = worldCupArticles.map(articleCard).join("");
   }
 
-  function updateCountdown() {
-    const target = qs("[data-wc-countdown]");
-    if (!target) return;
-    const opening = new Date(data.worldCupConfig?.openingMatchUtc || "2026-06-11T20:00:00Z").getTime();
-    const distance = Math.max(0, opening - Date.now());
-    const day = 24 * 60 * 60 * 1000;
-    const hour = 60 * 60 * 1000;
-    const minute = 60 * 1000;
-    const values = [
-      Math.floor(distance / day),
-      Math.floor((distance % day) / hour),
-      Math.floor((distance % hour) / minute),
-      Math.floor((distance % minute) / 1000)
-    ];
-    [...target.querySelectorAll("strong")].forEach((node, index) => {
-      node.textContent = String(values[index]).padStart(2, "0");
-    });
-  }
-
   async function renderDashboard() {
     const dashboard = service ? await service.getWorldCupDashboard() : data;
     renderQuickLinks();
-    renderMatchRows("[data-wc-today]", dashboard.todayMatches, "Upcoming");
-    renderMatchRows("[data-wc-live]", dashboard.liveScores, "Awaiting official live data");
-    renderMatchRows("[data-wc-fixtures]", dashboard.fixtures, "Awaiting official confirmation");
-    renderMatchRows("[data-wc-results]", dashboard.results, "Awaiting official confirmation");
+    renderPanelSlider(dashboard.worldCupPanels || data.worldCupPanels || []);
+    renderMatchRows("[data-wc-today]", dashboard.todayMatches, "No matches listed today");
+    renderMatchRows("[data-wc-live]", dashboard.liveScores, "No live matches right now");
+    renderMatchRows("[data-wc-fixtures]", dashboard.fixtures, "Schedule updates will appear here");
+    renderMatchRows("[data-wc-results]", dashboard.results, "Results update after full time");
     renderGroups(dashboard.groupTables);
-    renderList("[data-wc-events]", dashboard.matchEvents, "Match events appear live");
-    renderList("[data-wc-lineups]", dashboard.lineups, "Lineups appear on matchday");
-    renderList("[data-wc-scorers]", dashboard.topScorers, "Stats begin when matches start");
-    renderList("[data-wc-assists]", dashboard.topAssists, "Stats begin when matches start");
+    renderList("[data-wc-scorers]", dashboard.topScorers, "Tournament stats");
+    renderList("[data-wc-assists]", dashboard.topAssists, "Tournament stats");
     renderMatchCenterLinks(dashboard.matchCenterPages);
     renderFanVote(dashboard.fanVote);
     renderTv(dashboard.tvChannels);
     renderStadiums(dashboard.stadiums);
+    renderBracket(dashboard.knockoutSeeds || data.knockoutSeeds || []);
     renderNews();
-    updateCountdown();
-    window.setInterval(updateCountdown, 1000);
   }
 
   renderDashboard();

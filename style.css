@@ -10,6 +10,447 @@
   --shadow: 0 28px 80px rgba(0, 0, 0, 0.5);
 }
 
+/* PRESDA World Cup live hub polish */
+body[data-world-cup-hub] {
+  overflow-x: hidden;
+}
+
+body[data-world-cup-hub] .site-header .nav-shell {
+  position: relative;
+  min-height: 86px;
+}
+
+body[data-world-cup-hub] .brand.p-brand {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 8;
+  transform: translate(-50%, -50%);
+}
+
+body[data-world-cup-hub] .brand.p-brand img {
+  width: clamp(78px, 7vw, 140px);
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+body[data-world-cup-hub] .wc-hero,
+body[data-world-cup-hub] .wc-panel,
+body[data-world-cup-hub] .content-section {
+  position: relative;
+  isolation: isolate;
+}
+
+body[data-world-cup-hub] .wc-hero::before,
+body[data-world-cup-hub] .wc-panel::before,
+body[data-world-cup-hub] .content-section::before {
+  content: "";
+  position: absolute;
+  inset: 18px auto auto 50%;
+  width: 76px;
+  height: 54px;
+  transform: translateX(-50%);
+  background: url("/images/brand/ptransparent.png") center / contain no-repeat;
+  opacity: 0.09;
+  pointer-events: none;
+  z-index: -1;
+}
+
+body[data-world-cup-hub] .wc-countdown {
+  display: none !important;
+}
+
+body[data-world-cup-hub] .wc-hero {
+  align-items: center;
+  gap: clamp(28px, 5vw, 84px);
+}
+
+body[data-world-cup-hub] .wc-hero-media {
+  min-height: clamp(360px, 47vw, 680px);
+}
+
+body[data-world-cup-hub] .wc-hero-media img {
+  object-fit: contain;
+  padding: clamp(8px, 1.2vw, 18px);
+}
+
+.wc-panel-slider {
+  position: relative;
+  width: min(1440px, calc(100% - 36px));
+  margin: 26px auto 34px;
+  min-height: clamp(320px, 38vw, 520px);
+}
+
+.wc-panel-stage {
+  height: 100%;
+}
+
+.wc-feature-panel {
+  min-height: clamp(320px, 38vw, 520px);
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(320px, 1.08fr);
+  gap: clamp(22px, 4vw, 60px);
+  align-items: center;
+  padding: clamp(24px, 4vw, 58px);
+  border: 1px solid rgba(255, 26, 26, 0.28);
+  border-radius: 34px;
+  background:
+    radial-gradient(circle at 82% 20%, rgba(255, 26, 26, 0.22), transparent 36%),
+    linear-gradient(145deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.025));
+  box-shadow: 0 28px 80px rgba(0, 0, 0, 0.36), inset 0 1px rgba(255, 255, 255, 0.1);
+  overflow: hidden;
+  animation: presdaPanelIn 0.46s ease both;
+}
+
+.wc-feature-panel h2 {
+  margin: 12px 0 16px;
+  font: 900 clamp(2.4rem, 6vw, 6.8rem) / 0.9 "Orbitron", sans-serif;
+  text-transform: uppercase;
+  text-wrap: balance;
+}
+
+.wc-feature-panel p {
+  max-width: 620px;
+  color: var(--muted);
+  font-size: clamp(1rem, 1.35vw, 1.24rem);
+  line-height: 1.65;
+}
+
+.wc-feature-panel img {
+  width: 100%;
+  height: clamp(250px, 33vw, 440px);
+  object-fit: contain;
+  display: block;
+  filter: drop-shadow(0 22px 36px rgba(255, 26, 26, 0.2));
+}
+
+.wc-feature-panel .wc-panel-label {
+  color: var(--accent);
+  letter-spacing: 0.18em;
+}
+
+.wc-glass-arrow {
+  position: absolute;
+  top: 50%;
+  z-index: 3;
+  width: clamp(56px, 6vw, 86px);
+  height: clamp(76px, 8vw, 112px);
+  border: 1px solid rgba(211, 255, 255, 0.68);
+  border-radius: 28px;
+  color: #dfffff;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.035));
+  box-shadow: 0 0 28px rgba(115, 246, 255, 0.4), inset 0 1px rgba(255, 255, 255, 0.28);
+  backdrop-filter: blur(14px);
+  transform: translateY(-50%);
+  font-size: clamp(3rem, 6vw, 5.4rem);
+  line-height: 1;
+  cursor: pointer;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.wc-glass-arrow:hover {
+  transform: translateY(-50%) scale(1.06);
+  box-shadow: 0 0 42px rgba(115, 246, 255, 0.62), 0 0 26px rgba(255, 26, 26, 0.26);
+}
+
+.wc-glass-arrow.is-prev {
+  left: -10px;
+}
+
+.wc-glass-arrow.is-next {
+  right: -10px;
+}
+
+.wc-match-row,
+.wc-standing-row,
+.wc-team-row {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 12px;
+}
+
+.wc-match-row img,
+.wc-standing-row img,
+.wc-team-row img,
+.wc-fan-row img {
+  width: 24px;
+  height: 16px;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.16);
+}
+
+.wc-bracket-shell {
+  overflow-x: auto;
+  padding: 10px 0 20px;
+  scrollbar-width: thin;
+}
+
+.wc-bracket {
+  min-width: 1180px;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(160px, 1fr));
+  gap: 18px;
+}
+
+.wc-bracket-round {
+  display: grid;
+  align-content: center;
+  gap: 14px;
+}
+
+.wc-bracket-round h3,
+.wc-champion-card h3 {
+  color: var(--accent);
+  font-family: "Orbitron", sans-serif;
+  font-size: 0.82rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.wc-bracket-match,
+.wc-champion-card {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+  border: 1px solid rgba(255, 26, 26, 0.24);
+  border-radius: 16px;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.025));
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.08);
+}
+
+.wc-bracket-team {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  min-height: 38px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.04);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.wc-bracket-team.is-winner {
+  border-color: rgba(255, 26, 26, 0.7);
+  box-shadow: 0 0 18px rgba(255, 26, 26, 0.24);
+}
+
+.wc-bracket-team img {
+  width: 22px;
+  height: 15px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.wc-champion-card {
+  min-height: 150px;
+  place-content: center;
+  text-align: center;
+}
+
+.wc-ball-card {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.7fr) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(22px, 5vw, 64px);
+  padding: clamp(24px, 4vw, 56px);
+  border: 1px solid rgba(255, 26, 26, 0.25);
+  border-radius: 30px;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.075), rgba(255, 255, 255, 0.02));
+}
+
+.wc-ball-card img {
+  width: 100%;
+  max-height: 360px;
+  object-fit: contain;
+}
+
+.wc-ball-card p {
+  margin: 0;
+  color: var(--text);
+  font-size: clamp(1.2rem, 2.2vw, 2.4rem);
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+.presda-compact-footer {
+  display: grid;
+  justify-items: center;
+  gap: 18px;
+  padding: 44px 18px;
+  text-align: center;
+}
+
+.footer-p-logo,
+.section-p-logo {
+  width: clamp(68px, 7vw, 124px);
+  height: auto;
+  object-fit: contain;
+}
+
+.presda-social-strip {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.presda-social-strip a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-width: 46px;
+  min-height: 46px;
+  color: var(--text);
+  text-decoration: none;
+  font: 800 0.78rem/1 "Orbitron", sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: transform 0.22s ease, filter 0.22s ease;
+}
+
+.presda-social-strip a:hover {
+  transform: translateY(-3px) scale(1.04);
+  filter: drop-shadow(0 0 12px rgba(255, 26, 26, 0.55));
+}
+
+.presda-social-strip img {
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+}
+
+.presda-contact-minimal {
+  width: min(1120px, calc(100% - 36px));
+  min-height: calc(100vh - 120px);
+  margin: 0 auto;
+  padding: clamp(74px, 10vw, 142px) 0;
+  display: grid;
+  justify-items: center;
+  gap: 26px;
+  text-align: center;
+}
+
+.presda-contact-copy h1 {
+  margin: 12px 0;
+  font: 900 clamp(3.2rem, 8vw, 8rem) / 0.88 "Orbitron", sans-serif;
+  text-transform: uppercase;
+  text-wrap: balance;
+}
+
+.presda-contact-copy p {
+  margin: 0;
+  color: var(--muted);
+  font-size: clamp(1rem, 1.3vw, 1.25rem);
+}
+
+.presda-contact-email {
+  display: inline-flex;
+  margin-top: 18px;
+  color: var(--accent);
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.presda-social-strip--contact {
+  margin-top: 10px;
+  gap: 22px;
+}
+
+.presda-social-strip--contact a {
+  min-width: 96px;
+  flex-direction: column;
+}
+
+html[data-theme="light"] .wc-feature-panel,
+html[data-theme="light"] .wc-panel,
+html[data-theme="light"] .wc-bracket-match,
+html[data-theme="light"] .wc-champion-card,
+html[data-theme="light"] .wc-ball-card {
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.94), rgba(247, 244, 237, 0.82));
+  box-shadow: 0 18px 50px rgba(30, 20, 20, 0.08);
+}
+
+@keyframes presdaPanelIn {
+  from {
+    opacity: 0;
+    transform: translateY(14px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@media (max-width: 900px) {
+  body[data-world-cup-hub] .site-header .nav-shell {
+    min-height: 76px;
+  }
+
+  body[data-world-cup-hub] .brand.p-brand img {
+    width: 82px;
+  }
+
+  .wc-feature-panel,
+  .wc-ball-card {
+    grid-template-columns: 1fr;
+  }
+
+  .wc-feature-panel {
+    padding: 22px;
+    border-radius: 26px;
+  }
+
+  .wc-feature-panel h2 {
+    font-size: clamp(2.2rem, 13vw, 4.2rem);
+  }
+
+  .wc-feature-panel img {
+    height: clamp(220px, 58vw, 360px);
+  }
+
+  .wc-glass-arrow {
+    width: 46px;
+    height: 66px;
+    border-radius: 18px;
+    font-size: 3.2rem;
+  }
+
+  .wc-glass-arrow.is-prev {
+    left: 4px;
+  }
+
+  .wc-glass-arrow.is-next {
+    right: 4px;
+  }
+
+  .wc-panel-slider {
+    width: min(100% - 22px, 760px);
+  }
+
+  .presda-social-strip img {
+    width: 28px;
+    height: 28px;
+  }
+
+  .presda-social-strip--contact {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: 100%;
+  }
+
+  .presda-social-strip--contact a:last-child {
+    grid-column: 1 / -1;
+  }
+}
+
 /* PRESDA animated editorial story slider - 2026 rebuild */
 @font-face {
   font-family: "Brixton Sans";

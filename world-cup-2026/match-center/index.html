@@ -15,12 +15,11 @@
     <link rel="icon" data-dynamic-favicon type="image/png" href="/favicon-dark.png?v=presda-20260523-dark" />
     <link rel="stylesheet" href="/style.css?v=presda-worldcup-live-20260622" />
   </head>
-  <body>
+  <body data-world-cup-hub>
     <header class="site-header">
       <div class="nav-shell">
-        <a class="brand" href="/" aria-label="PRESDA home">
-          <img class="brand-logo logo-dark" data-logo-dark src="/logo-dark.png" alt="PRESDA official logo for dark mode" />
-          <img class="brand-logo logo-light" data-logo-light src="/logo-light.png" alt="PRESDA official logo for light mode" />
+        <a class="brand p-brand" href="/" aria-label="PRESDA home">
+          <img class="brand-logo" src="/images/brand/ptransparent.png" alt="PRESDA P logo" />
         </a>
         <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
           <a href="/">Home</a>
@@ -36,9 +35,9 @@
     <main class="wc-dashboard">
       <section class="wc-hero">
         <div>
-          <span class="wc-kicker">PRESDA Match Center</span>
+          <span class="wc-kicker">World Cup 2026</span>
           <h1><mark class="title-red">Match</mark> Center</h1>
-          <p>Fixtures, live scores, results, lineups and match events appear here when official World Cup 2026 data becomes available.</p>
+          <p>Fixtures, scores and result updates for the tournament in one place.</p>
           <div class="wc-quick-links">
             <a href="/world-cup-2026/#fixtures">Fixtures</a>
             <a href="/world-cup-2026/#live-scores">Live Scores</a>
@@ -47,31 +46,28 @@
           </div>
         </div>
         <figure class="wc-hero-media">
-          <img src="/images/articles/fifa-world-cup-dark.png" alt="World Cup trophy in PRESDA red and black style" />
+          <img src="/images/world-cup/presda-wc26-logo.png" alt="PRESDA World Cup 2026 trophy logo artwork" />
         </figure>
       </section>
       <section class="wc-grid">
-        <article class="wc-panel" id="todays-matches"><span class="wc-panel-label">Today's Matches</span><h2>Matchday Signal</h2><div data-wc-today><div class="wc-empty">Upcoming</div></div></article>
-        <article class="wc-panel" id="live-scores"><span class="wc-panel-label">Live Scores</span><h2>Live Now</h2><div data-wc-live><div class="wc-empty">No live matches</div></div></article>
-        <article class="wc-panel" id="fixtures"><span class="wc-panel-label">Fixtures</span><h2>Upcoming</h2><div data-wc-fixtures><div class="wc-empty">Awaiting official confirmation</div></div></article>
-        <article class="wc-panel" id="results"><span class="wc-panel-label">Results</span><h2>Final Whistles</h2><div data-wc-results><div class="wc-empty">Awaiting official confirmation</div></div></article>
-        <article class="wc-panel" id="match-events"><span class="wc-panel-label">Match Events</span><h2>Timeline</h2><div data-wc-events><div class="wc-empty">Match events appear live</div></div></article>
-        <article class="wc-panel" id="lineups"><span class="wc-panel-label">Lineups</span><h2>Team Sheets</h2><div data-wc-lineups><div class="wc-empty">Lineups appear on matchday</div></div></article>
+        <article class="wc-panel" id="todays-matches"><span class="wc-panel-label">Today's Matches</span><h2>Today</h2><div data-wc-today><div class="wc-empty">No matches listed today</div></div></article>
+        <article class="wc-panel" id="live-scores"><span class="wc-panel-label">Live Scores</span><h2>Live Now</h2><div data-wc-live><div class="wc-empty">No live matches right now</div></div></article>
+        <article class="wc-panel" id="fixtures"><span class="wc-panel-label">Fixtures</span><h2>Upcoming</h2><div data-wc-fixtures><div class="wc-empty">Schedule updates will appear here</div></div></article>
+        <article class="wc-panel" id="results"><span class="wc-panel-label">Results</span><h2>Full Time</h2><div data-wc-results><div class="wc-empty">Results update after full time</div></div></article>
+        <article class="wc-panel" id="match-events"><span class="wc-panel-label">Match Events</span><h2>Timeline</h2><div data-wc-events><div class="wc-empty">Match timeline</div></div></article>
+        <article class="wc-panel" id="lineups"><span class="wc-panel-label">Lineups</span><h2>Team Sheets</h2><div data-wc-lineups><div class="wc-empty">Team sheets</div></div></article>
       </section>
     </main>
-    <footer class="site-footer">
-      <div>
-        <img class="footer-logo logo-dark" data-logo-dark src="/logo-dark.png" alt="PRESDA official logo for dark mode" />
-        <img class="footer-logo logo-light" data-logo-light src="/logo-light.png" alt="PRESDA official logo for light mode" />
-        <p>Your Daily Press</p>
-      </div>
-      <nav aria-label="Footer links">
-        <a href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer">X</a>
-        <a href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer">Instagram</a>
-        <a href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer">Facebook</a>
-        <a href="https://youtube.com/@presda" target="_blank" rel="noopener noreferrer">YouTube</a>
-        <a href="mailto:contact@presda.com">Contact</a>
+    <footer class="site-footer presda-compact-footer">
+      <img class="footer-p-logo" src="/images/brand/ptransparent.png" alt="PRESDA P logo" />
+      <nav class="presda-social-strip" aria-label="PRESDA social links">
+        <a href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer" aria-label="PRESDA Instagram"><img src="/images/social/instagram.png" alt="" /></a>
+        <a href="https://x.com/PresdaOfficial" target="_blank" rel="noopener noreferrer" aria-label="PRESDA X"><img src="/images/social/x.png" alt="" /></a>
+        <a href="https://www.facebook.com/profile.php?id=61589635535583" target="_blank" rel="noopener noreferrer" aria-label="PRESDA Facebook"><img src="/images/social/facebook.png" alt="" /></a>
+        <a href="https://www.tiktok.com/@presdaofficial" target="_blank" rel="noopener noreferrer" aria-label="PRESDA TikTok"><img src="/images/social/tiktok.png" alt="" /></a>
+        <a href="mailto:contact@presda.com" aria-label="Email PRESDA"><img src="/images/social/email.png" alt="" /></a>
       </nav>
+      <p>&copy; 2026 PRESDA. All rights reserved.</p>
     </footer>
     <script src="/data/worldCupData.js?v=presda-worldcup-live-20260622"></script>
     <script src="/services/footballDataService.js?v=presda-worldcup-live-20260622"></script>
