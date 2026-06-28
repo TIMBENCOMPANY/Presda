@@ -254,84 +254,200 @@
   function renderBracket(seedTeams) {
     const target = qs("[data-wc-bracket]");
     if (!target || !seedTeams?.length) return;
-    const storageKey = "presda-road-to-final";
-    const selected = JSON.parse(localStorage.getItem(storageKey) || "{}");
-    const rounds = ["Round of 32", "Round of 16", "Quarter Finals", "Semi Finals", "Final", "Champion"];
+    const storageKey = "presda-road-to-final-v2";
+    const roundKeys = ["r32", "r16", "qf", "sf", "final"];
+    const roundLabels = { r32: "Round of 32", r16: "Round of 16", qf: "Quarter Finals", sf: "Semi Finals" };
+    const matchNumbers = {
+      r32: [74, 77, 73, 75, 83, 84, 81, 82, 76, 78, 79, 80, 86, 88, 85, 87],
+      r16: [89, 90, 93, 94, 91, 92, 95, 96],
+      qf: [97, 98, 99, 100],
+      sf: [101, 102],
+      final: [104]
+    };
+    const emptyTeam = { name: "To be decided", flag: "" };
 
-    function getRoundTeams(roundIndex) {
-      if (roundIndex === 0) return seedTeams;
-      const previous = getRoundTeams(roundIndex - 1);
-      const teams = [];
-      for (let i = 0; i < previous.length; i += 2) {
-        const key = `r${roundIndex - 1}m${i / 2}`;
-        teams.push(selected[key] ? JSON.parse(selected[key]) : { name: "TBD", flag: "" });
+    function blankState() {
+      return { r32: Array(16).fill(null), r16: Array(8).fill(null), qf: Array(4).fill(null), sf: Array(2).fill(null), final: [null] };
+    }
+
+    function readState() {
+      const base = blankState();
+      let saved = null;
+      const shared = new URLSearchParams(window.location.search).get("bracket");
+      try {
+        saved = shared
+          ? JSON.parse(atob(shared.replace(/-/g, "+").replace(/_/g, "/")))
+          : JSON.parse(localStorage.getItem(storageKey) || "null");
+      } catch (_) {
+        saved = null;
       }
-      return teams;
-    }
-
-    function selectWinner(roundIndex, matchIndex, team) {
-      if (!team || team.name === "TBD") return;
-      selected[`r${roundIndex}m${matchIndex}`] = JSON.stringify(team);
-      Object.keys(selected).forEach((key) => {
-        const round = Number(key.match(/^r(\d+)m/)?.[1] || 0);
-        if (round > roundIndex) delete selected[key];
+      roundKeys.forEach((key) => {
+        if (Array.isArray(saved?.[key])) base[key] = base[key].map((_, index) => saved[key][index] || null);
       });
-      localStorage.setItem(storageKey, JSON.stringify(selected));
-      renderBracket(seedTeams);
+      return base;
     }
 
-    const html = rounds
-      .map((roundName, roundIndex) => {
-        if (roundIndex === rounds.length - 1) {
-          const finalWinner = selected.r4m0 ? JSON.parse(selected.r4m0) : { name: "Choose finalists", flag: "" };
-          return `
-            <section class="wc-bracket-round is-champion">
-              <h3>${roundName}</h3>
-              <div class="wc-champion-card">
-                ${finalWinner.flag ? `<img src="${finalWinner.flag}" alt="">` : ""}
-                <strong>${finalWinner.name}</strong>
-              </div>
-            </section>
-          `;
-        }
-        const roundTeams = getRoundTeams(roundIndex);
-        const matches = [];
-        for (let i = 0; i < roundTeams.length; i += 2) matches.push([roundTeams[i], roundTeams[i + 1]]);
-        return `
-          <section class="wc-bracket-round">
-            <h3>${roundName}</h3>
-            ${matches
-              .map((match, matchIndex) => `
-                <article class="wc-bracket-match">
-                  ${match
-                    .map((team) => {
-                      const isWinner = selected[`r${roundIndex}m${matchIndex}`] === JSON.stringify(team);
-                      return `
-                      <button class="wc-bracket-team${isWinner ? " is-winner" : ""}" type="button" data-round="${roundIndex}" data-match="${matchIndex}" data-team="${encodeURIComponent(JSON.stringify(team))}">
-                        ${team.flag ? `<img src="${team.flag}" alt="">` : ""}
-                        <span>${team.name}</span>
-                      </button>
-                    `;
-                    })
-                    .join("")}
-                </article>
-              `)
-              .join("")}
-          </section>
-        `;
-      })
-      .join("");
+    const selected = readState();
+    const findTeam = (name) => seedTeams.find((team) => team.name === name) || emptyTeam;
 
-    target.innerHTML = `<div class="wc-bracket">${html}</div>`;
-    target.querySelectorAll("[data-team]").forEach((button) => {
-      button.addEventListener("click", () => {
-        selectWinner(
-          Number(button.dataset.round),
-          Number(button.dataset.match),
-          JSON.parse(decodeURIComponent(button.dataset.team))
+    function matchesFor(key) {
+      if (key === "r32") {
+        return Array.from({ length: 16 }, (_, index) => [seedTeams[index * 2], seedTeams[index * 2 + 1]]);
+      }
+      const previousKey = roundKeys[roundKeys.indexOf(key) - 1];
+      return Array.from({ length: selected[key].length }, (_, index) => [
+        selected[previousKey][index * 2] ? findTeam(selected[previousKey][index * 2]) : emptyTeam,
+        selected[previousKey][index * 2 + 1] ? findTeam(selected[previousKey][index * 2 + 1]) : emptyTeam
+      ]);
+    }
+
+    function sanitizeState() {
+      roundKeys.forEach((key) => {
+        const matches = matchesFor(key);
+        selected[key] = selected[key].map((winner, index) =>
+          matches[index].some((team) => team.name === winner) ? winner : null
         );
       });
+    }
+
+    function saveState() {
+      localStorage.setItem(storageKey, JSON.stringify(selected));
+    }
+
+    function chooseWinner(key, matchIndex, teamName) {
+      if (!teamName || teamName === emptyTeam.name) return;
+      selected[key][matchIndex] = teamName;
+      sanitizeState();
+      saveState();
+      render();
+    }
+
+    function teamButton(team, key, matchIndex) {
+      const unavailable = team.name === emptyTeam.name;
+      const isWinner = selected[key][matchIndex] === team.name;
+      return `
+        <button class="wc-bracket-team${isWinner ? " is-winner" : ""}" type="button"
+          data-round-key="${key}" data-match="${matchIndex}" data-team-name="${team.name}"
+          aria-pressed="${isWinner}"${unavailable ? " disabled" : ""}>
+          ${team.flag ? `<img src="${team.flag}" alt="" loading="lazy">` : `<span class="wc-team-seed" aria-hidden="true">?</span>`}
+          <span>${team.name}</span>
+        </button>`;
+    }
+
+    function matchCard(key, matchIndex) {
+      const match = matchesFor(key)[matchIndex];
+      return `
+        <article class="wc-bracket-match" data-node="${key}-${matchIndex}">
+          <small>M${matchNumbers[key][matchIndex]}</small>
+          ${teamButton(match[0], key, matchIndex)}
+          ${teamButton(match[1], key, matchIndex)}
+        </article>`;
+    }
+
+    function roundColumn(key, indices, side) {
+      return `
+        <section class="wc-bracket-round is-${side} is-${key}">
+          <h3>${roundLabels[key]}</h3>
+          <div class="wc-round-matches">${indices.map((index) => matchCard(key, index)).join("")}</div>
+        </section>`;
+    }
+
+    function drawConnections() {
+      const canvas = target.querySelector(".wc-bracket");
+      const svg = target.querySelector(".wc-bracket-lines");
+      if (!canvas || !svg) return;
+      const canvasRect = canvas.getBoundingClientRect();
+      svg.setAttribute("viewBox", `0 0 ${canvasRect.width} ${canvasRect.height}`);
+      svg.innerHTML = "";
+
+      const connect = (fromSelector, toSelector) => {
+        const from = canvas.querySelector(`[data-node="${fromSelector}"]`);
+        const to = canvas.querySelector(`[data-node="${toSelector}"]`);
+        if (!from || !to) return;
+        const a = from.getBoundingClientRect();
+        const b = to.getBoundingClientRect();
+        const leftToRight = a.left < b.left;
+        const x1 = (leftToRight ? a.right : a.left) - canvasRect.left;
+        const y1 = a.top + a.height / 2 - canvasRect.top;
+        const x2 = (leftToRight ? b.left : b.right) - canvasRect.left;
+        const y2 = b.top + b.height / 2 - canvasRect.top;
+        const mid = (x1 + x2) / 2;
+        const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        path.setAttribute("d", `M ${x1} ${y1} C ${mid} ${y1}, ${mid} ${y2}, ${x2} ${y2}`);
+        svg.appendChild(path);
+      };
+
+      [["r32", "r16", 16], ["r16", "qf", 8], ["qf", "sf", 4]].forEach(([from, to, count]) => {
+        for (let index = 0; index < count; index += 1) connect(`${from}-${index}`, `${to}-${Math.floor(index / 2)}`);
+      });
+      connect("sf-0", "final-0");
+      connect("sf-1", "final-0");
+      connect("final-0", "champion-0");
+    }
+
+    function render() {
+      sanitizeState();
+      const champion = selected.final[0] ? findTeam(selected.final[0]) : null;
+      target.innerHTML = `
+        <div class="wc-bracket" data-bracket-canvas>
+          <svg class="wc-bracket-lines" aria-hidden="true"></svg>
+          ${roundColumn("r32", [0, 1, 2, 3, 4, 5, 6, 7], "left")}
+          ${roundColumn("r16", [0, 1, 2, 3], "left")}
+          ${roundColumn("qf", [0, 1], "left")}
+          ${roundColumn("sf", [0], "left")}
+          <section class="wc-bracket-center">
+            <span>World Cup 2026</span>
+            <h3>Final</h3>
+            ${matchCard("final", 0)}
+            <div class="wc-champion-card${champion ? " is-complete" : ""}" data-node="champion-0">
+              <small>Champion</small>
+              ${champion?.flag ? `<img src="${champion.flag}" alt="">` : `<span class="wc-trophy-mark" aria-hidden="true">26</span>`}
+              <strong>${champion?.name || "Your Champion"}</strong>
+            </div>
+          </section>
+          ${roundColumn("sf", [1], "right")}
+          ${roundColumn("qf", [2, 3], "right")}
+          ${roundColumn("r16", [4, 5, 6, 7], "right")}
+          ${roundColumn("r32", [8, 9, 10, 11, 12, 13, 14, 15], "right")}
+        </div>`;
+
+      target.querySelectorAll("[data-round-key]").forEach((button) => {
+        button.addEventListener("click", () => chooseWinner(button.dataset.roundKey, Number(button.dataset.match), button.dataset.teamName));
+      });
+      requestAnimationFrame(drawConnections);
+    }
+
+    qs("[data-bracket-reset]")?.addEventListener("click", () => {
+      roundKeys.forEach((key) => selected[key].fill(null));
+      localStorage.removeItem(storageKey);
+      history.replaceState(null, "", window.location.pathname + "#road-to-final");
+      qs("[data-bracket-status]").textContent = "Bracket reset.";
+      render();
     });
+
+    qs("[data-bracket-share]")?.addEventListener("click", async () => {
+      saveState();
+      const encoded = btoa(JSON.stringify(selected)).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+      const shareUrl = `${window.location.origin}${window.location.pathname}?bracket=${encoded}#road-to-final`;
+      const status = qs("[data-bracket-status]");
+      try {
+        if (navigator.share) {
+          await navigator.share({ title: "My PRESDA World Cup prediction", text: "My road to the World Cup 2026 final", url: shareUrl });
+          status.textContent = "Prediction shared.";
+        } else {
+          await navigator.clipboard.writeText(shareUrl);
+          status.textContent = "Prediction link copied.";
+        }
+      } catch (error) {
+        if (error?.name !== "AbortError") {
+          window.prompt("Copy your prediction link", shareUrl);
+          status.textContent = "Prediction link ready.";
+        }
+      }
+    });
+
+    window.addEventListener("resize", () => requestAnimationFrame(drawConnections), { passive: true });
+    render();
   }
 
   function articleCard(article) {

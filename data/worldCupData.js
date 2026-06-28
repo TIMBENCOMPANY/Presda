@@ -203,15 +203,17 @@
     { label: "News", href: "#world-cup-news" }
   ];
 
+  // Official FIFA knockout path: ordered by bracket branch rather than kickoff time.
   const knockoutSeeds = [
-    "Mexico", "South Africa", "Switzerland", "Canada", "Brazil", "Morocco", "United States", "Turkiye",
-    "Germany", "Cote d'Ivoire", "Netherlands", "Tunisia", "Belgium", "Egypt", "Spain", "Uruguay",
-    "France", "Norway", "Argentina", "Jordan", "Portugal", "Colombia", "England", "Croatia",
-    "South Korea", "Bosnia and Herzegovina", "Scotland", "Paraguay", "Ecuador", "Sweden", "Senegal", "Ghana"
-  ].map((name) => {
-    const team = groupTables.flatMap((group) => group.teams).find((entry) => entry.name === name);
-    return team || { name, flag: "" };
-  });
+    ["Germany", "de"], ["Paraguay", "py"], ["France", "fr"], ["Sweden", "se"],
+    ["South Africa", "za"], ["Canada", "ca"], ["Netherlands", "nl"], ["Morocco", "ma"],
+    ["Portugal", "pt"], ["Croatia", "hr"], ["Spain", "es"], ["Austria", "at"],
+    ["United States", "us"], ["Bosnia and Herzegovina", "ba"], ["Belgium", "be"], ["Senegal", "sn"],
+    ["Brazil", "br"], ["Japan", "jp"], ["Cote d'Ivoire", "ci"], ["Norway", "no"],
+    ["Mexico", "mx"], ["Ecuador", "ec"], ["England", "gb-eng"], ["Congo DR", "cd"],
+    ["Argentina", "ar"], ["Cabo Verde", "cv"], ["Australia", "au"], ["Egypt", "eg"],
+    ["Switzerland", "ch"], ["Algeria", "dz"], ["Colombia", "co"], ["Ghana", "gh"]
+  ].map(([name, code]) => ({ name, flag: `/images/world-cup/flags/${code}.svg` }));
 
   global.PRESDA_WORLD_CUP_DATA = {
     worldCupConfig,

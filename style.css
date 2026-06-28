@@ -6083,6 +6083,412 @@ body[data-world-cup-hub] .wc-champion-card img {
   }
 }
 
+/* PRESDA World Cup flagship knockout predictor */
+body[data-world-cup-hub] .wc-road-final {
+  position: relative;
+  isolation: isolate;
+  width: min(calc(100% - 32px), 1560px);
+  max-width: none;
+  margin-inline: auto;
+  padding: clamp(22px, 3vw, 42px);
+  overflow: hidden;
+  border: 1px solid rgba(255, 38, 47, 0.34);
+  border-radius: 28px;
+  background:
+    linear-gradient(115deg, rgba(0, 0, 0, 0.98) 0 46%, rgba(29, 0, 1, 0.96) 72%, rgba(0, 0, 0, 0.98) 100%),
+    #000;
+  box-shadow: 0 30px 90px rgba(0, 0, 0, 0.58), inset 0 1px rgba(255, 255, 255, 0.08);
+}
+
+body[data-world-cup-hub] .wc-road-final::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  opacity: 0.32;
+  background:
+    repeating-linear-gradient(166deg, transparent 0 26px, rgba(255, 26, 26, 0.13) 27px 29px, transparent 30px 46px),
+    linear-gradient(90deg, transparent 0 55%, rgba(255, 26, 26, 0.14));
+  pointer-events: none;
+}
+
+body[data-world-cup-hub] .wc-road-header {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 16px;
+}
+
+body[data-world-cup-hub] .wc-road-kicker {
+  display: block;
+  margin-bottom: 7px;
+  color: #e9c36a;
+  font-family: "Orbitron", sans-serif;
+  font-size: 0.68rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+body[data-world-cup-hub] .wc-road-header h2 {
+  margin: 0;
+  color: #fff;
+  font-family: "Orbitron", sans-serif;
+  font-size: clamp(2rem, 4vw, 4.6rem);
+  line-height: 0.92;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+body[data-world-cup-hub] .wc-road-header h2 mark {
+  color: #ff1a1a;
+  background: none;
+}
+
+body[data-world-cup-hub] .wc-road-header p {
+  margin: 9px 0 0;
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 0.88rem;
+}
+
+body[data-world-cup-hub] .wc-bracket-actions {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+}
+
+body[data-world-cup-hub] .wc-bracket-action {
+  min-height: 40px;
+  padding: 0 16px;
+  border: 1px solid #ff242b;
+  border-radius: 8px;
+  color: #fff;
+  background: #e9111a;
+  box-shadow: 0 10px 28px rgba(233, 17, 26, 0.24);
+  font: 800 0.7rem/1 "Orbitron", sans-serif;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: transform 180ms ease, box-shadow 180ms ease, background 180ms ease;
+}
+
+body[data-world-cup-hub] .wc-bracket-action:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 34px rgba(255, 26, 26, 0.38);
+}
+
+body[data-world-cup-hub] .wc-bracket-action.is-secondary {
+  color: rgba(255, 255, 255, 0.82);
+  border-color: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.06);
+  box-shadow: none;
+}
+
+body[data-world-cup-hub] .wc-bracket-status {
+  min-height: 18px;
+  color: #e9c36a;
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-align: right;
+}
+
+body[data-world-cup-hub] .wc-bracket-shell {
+  position: relative;
+  margin: 0;
+  padding: 10px;
+  overflow-x: auto;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 18px;
+  background: rgba(2, 2, 2, 0.72);
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.06), 0 24px 65px rgba(0, 0, 0, 0.4);
+  scrollbar-color: #e9111a rgba(255, 255, 255, 0.06);
+}
+
+body[data-world-cup-hub] .wc-bracket {
+  position: relative;
+  display: grid;
+  grid-template-columns: 132px 124px 116px 108px 174px 108px 116px 124px 132px;
+  gap: 9px;
+  width: 100%;
+  min-width: 1220px;
+  height: 640px;
+  padding: 8px;
+}
+
+body[data-world-cup-hub] .wc-bracket-lines {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  pointer-events: none;
+}
+
+body[data-world-cup-hub] .wc-bracket-lines path {
+  fill: none;
+  stroke: rgba(239, 28, 36, 0.66);
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  filter: drop-shadow(0 0 4px rgba(255, 26, 26, 0.72));
+  stroke-dasharray: 7 6;
+  animation: wc-route-flow 2.6s linear infinite;
+}
+
+@keyframes wc-route-flow {
+  to { stroke-dashoffset: -26; }
+}
+
+body[data-world-cup-hub] .wc-bracket-round,
+body[data-world-cup-hub] .wc-bracket-center {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-rows: 24px minmax(0, 1fr);
+  min-width: 0;
+  height: 100%;
+}
+
+body[data-world-cup-hub] .wc-bracket-round h3,
+body[data-world-cup-hub] .wc-bracket-center h3 {
+  align-self: start;
+  margin: 0;
+  color: #e9c36a;
+  font-family: "Orbitron", sans-serif;
+  font-size: 0.55rem;
+  line-height: 1.2;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+body[data-world-cup-hub] .wc-round-matches {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 0;
+}
+
+body[data-world-cup-hub] .wc-bracket-match {
+  position: relative;
+  display: grid;
+  gap: 3px;
+  width: 100%;
+  padding: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  border-radius: 8px;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.095), rgba(255, 255, 255, 0.025));
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.32), inset 0 1px rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+}
+
+body[data-world-cup-hub] .wc-bracket-match > small {
+  position: absolute;
+  top: -9px;
+  right: 5px;
+  color: rgba(255, 255, 255, 0.42);
+  font: 700 0.46rem/1 "Orbitron", sans-serif;
+}
+
+body[data-world-cup-hub] .wc-bracket-team {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: 100%;
+  min-width: 0;
+  min-height: 25px;
+  padding: 3px 5px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  color: rgba(255, 255, 255, 0.88);
+  background: rgba(0, 0, 0, 0.38);
+  font-size: 0.58rem;
+  font-weight: 800;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color 160ms ease, background 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+body[data-world-cup-hub] .wc-bracket-team:hover:not(:disabled) {
+  transform: translateX(1px);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+body[data-world-cup-hub] .wc-bracket-team.is-winner {
+  color: #fff;
+  border-color: #ff343b;
+  background: linear-gradient(90deg, rgba(226, 10, 20, 0.9), rgba(119, 0, 6, 0.82));
+  box-shadow: 0 0 14px rgba(255, 26, 26, 0.52), inset 0 1px rgba(255, 255, 255, 0.16);
+}
+
+body[data-world-cup-hub] .wc-bracket-team:disabled {
+  color: rgba(255, 255, 255, 0.34);
+  cursor: default;
+}
+
+body[data-world-cup-hub] .wc-bracket-team span:last-child {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+body[data-world-cup-hub] .wc-bracket-team img,
+body[data-world-cup-hub] .wc-champion-card img {
+  flex: 0 0 auto;
+  width: 18px;
+  height: 12px;
+  object-fit: cover;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.18);
+}
+
+body[data-world-cup-hub] .wc-team-seed {
+  display: grid;
+  flex: 0 0 18px;
+  width: 18px;
+  height: 12px;
+  place-items: center;
+  border-radius: 2px;
+  color: rgba(255, 255, 255, 0.34);
+  background: rgba(255, 255, 255, 0.08);
+  font-size: 0.5rem;
+}
+
+body[data-world-cup-hub] .wc-bracket-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding-inline: 4px;
+}
+
+body[data-world-cup-hub] .wc-bracket-center > span {
+  color: #ff242b;
+  font: 800 0.5rem/1 "Orbitron", sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+body[data-world-cup-hub] .wc-bracket-center .wc-bracket-match {
+  margin-bottom: 8px;
+}
+
+body[data-world-cup-hub] .wc-champion-card {
+  position: relative;
+  display: grid;
+  width: 100%;
+  min-height: 158px;
+  place-content: center;
+  justify-items: center;
+  gap: 9px;
+  padding: 18px 10px;
+  overflow: hidden;
+  border: 1px solid rgba(233, 195, 106, 0.42);
+  border-radius: 12px;
+  background: linear-gradient(145deg, rgba(233, 195, 106, 0.13), rgba(255, 26, 26, 0.08) 55%, rgba(255, 255, 255, 0.025));
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.44), inset 0 1px rgba(255, 255, 255, 0.1);
+  text-align: center;
+}
+
+body[data-world-cup-hub] .wc-champion-card small {
+  color: #e9c36a;
+  font: 800 0.52rem/1 "Orbitron", sans-serif;
+  text-transform: uppercase;
+}
+
+body[data-world-cup-hub] .wc-champion-card img {
+  width: 34px;
+  height: 23px;
+}
+
+body[data-world-cup-hub] .wc-champion-card strong {
+  color: #fff;
+  font-family: "Orbitron", sans-serif;
+  font-size: 0.76rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+body[data-world-cup-hub] .wc-trophy-mark {
+  color: #e9c36a;
+  font-family: "Orbitron", sans-serif;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1;
+  text-shadow: 0 0 22px rgba(233, 195, 106, 0.42);
+}
+
+body[data-world-cup-hub] .wc-champion-card.is-complete {
+  border-color: #e9c36a;
+  animation: wc-champion-reveal 900ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+@keyframes wc-champion-reveal {
+  0% { transform: scale(0.88); opacity: 0.2; box-shadow: 0 0 0 rgba(233, 195, 106, 0); }
+  55% { transform: scale(1.04); opacity: 1; box-shadow: 0 0 42px rgba(233, 195, 106, 0.42); }
+  100% { transform: scale(1); box-shadow: 0 18px 45px rgba(0, 0, 0, 0.44), 0 0 24px rgba(233, 195, 106, 0.2); }
+}
+
+@media (max-width: 760px) {
+  body[data-world-cup-hub] .wc-road-final {
+    width: calc(100% - 16px);
+    padding: 18px 10px;
+    border-radius: 18px;
+  }
+
+  body[data-world-cup-hub] .wc-road-header {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  body[data-world-cup-hub] .wc-road-header h2 {
+    font-size: clamp(2.1rem, 11vw, 3.5rem);
+  }
+
+  body[data-world-cup-hub] .wc-bracket-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  body[data-world-cup-hub] .wc-bracket-action {
+    min-width: 0;
+    padding-inline: 8px;
+    font-size: 0.58rem;
+  }
+
+  body[data-world-cup-hub] .wc-bracket-status {
+    text-align: left;
+  }
+
+  body[data-world-cup-hub] .wc-bracket-shell {
+    margin-inline: 0;
+    padding: 6px;
+    border-radius: 12px;
+    scroll-snap-type: x proximity;
+  }
+
+  body[data-world-cup-hub] .wc-bracket {
+    grid-template-columns: 132px 124px 116px 108px 174px 108px 116px 124px 132px;
+    min-width: 1220px;
+    height: 640px;
+  }
+
+  body[data-world-cup-hub] .wc-bracket-round,
+  body[data-world-cup-hub] .wc-bracket-center {
+    scroll-snap-align: center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body[data-world-cup-hub] .wc-bracket-lines path,
+  body[data-world-cup-hub] .wc-champion-card.is-complete {
+    animation: none;
+  }
+}
+
 /* PRESDA homepage rebuild from supplied reference screenshots */
 body.presda-rebuild-home,
 html.light-mode body.presda-rebuild-home,
