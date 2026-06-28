@@ -8,21 +8,26 @@
     <link rel="canonical" href="https://presda.com/world-cup-2026/" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="PRESDA" />
-    <meta property="og:title" content="World Cup 2026 Live Dashboard | PRESDA" />
-    <meta property="og:description" content="Fixtures, live scores, results, standings, TV channels, stadiums and PRESDA World Cup news in one compact dashboard." />
+    <meta property="og:title" content="My PRESDA World Cup 2026 Prediction" />
+    <meta property="og:description" content="Build your Road To The Final and choose your World Champion." />
     <meta property="og:url" content="https://presda.com/world-cup-2026/" />
-    <meta property="og:image" content="https://presda.com/images/articles/fifa-world-cup-dark.png" />
+    <meta property="og:image" content="https://presda.com/assets/share/road-to-final-og.jpg" />
+    <meta property="og:image:secure_url" content="https://presda.com/assets/share/road-to-final-og.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="PRESDA World Cup 2026 Road To The Final predictor" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="World Cup 2026 Live Dashboard | PRESDA" />
-    <meta name="twitter:description" content="A compact PRESDA control room for World Cup 2026 fixtures, scores, standings and news." />
-    <meta name="twitter:image" content="https://presda.com/images/articles/fifa-world-cup-dark.png" />
+    <meta name="twitter:title" content="My PRESDA World Cup 2026 Prediction" />
+    <meta name="twitter:description" content="Build your Road To The Final and choose your World Champion." />
+    <meta name="twitter:image" content="https://presda.com/assets/share/road-to-final-og.jpg" />
     <link rel="icon" data-dynamic-favicon type="image/png" href="/favicon-dark.png?v=presda-20260523-dark" />
     <link rel="shortcut icon" data-dynamic-favicon href="/favicon-dark.png?v=presda-20260523-dark" />
     <link rel="apple-touch-icon" href="/favicon-light.png?v=presda-20260523" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@600;700;800;900&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="/style.css?v=presda-worldcup-live-20260622" />
+    <link rel="stylesheet" href="/style.css?v=presda-worldcup-share-20260629" />
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"World Cup 2026 Live Dashboard","url":"https://presda.com/world-cup-2026/","description":"PRESDA World Cup 2026 dashboard for fixtures, live scores, results, standings, TV channels, stadiums and latest news."}</script>
   </head>
   <body data-world-cup-hub>
@@ -162,6 +167,34 @@
         <div class="wc-bracket-shell" data-wc-bracket></div>
       </section>
 
+      <dialog class="wc-share-modal" data-share-modal aria-labelledby="wc-share-title">
+        <div class="wc-share-dialog">
+          <header>
+            <div>
+              <span>Share Your Bracket</span>
+              <h2 id="wc-share-title">Road To The Final</h2>
+            </div>
+            <button type="button" class="wc-share-close" data-share-close aria-label="Close share options">&times;</button>
+          </header>
+          <canvas class="wc-share-preview" data-share-canvas width="1200" height="630" aria-label="Prediction image preview"></canvas>
+          <p class="wc-share-copy">My FIFA World Cup 2026 Road To The Final prediction is ready 🏆<br />Who beats my bracket?<br />Build yours on PRESDA.</p>
+          <div class="wc-share-actions">
+            <button type="button" data-share-channel="facebook"><img src="/images/social/facebook.png" alt="" /><span>Facebook</span></button>
+            <button type="button" data-share-channel="whatsapp"><span class="wc-share-monogram">WA</span><span>WhatsApp</span></button>
+            <button type="button" data-share-channel="x"><img src="/images/social/x.png" alt="" /><span>X / Twitter</span></button>
+            <button type="button" data-share-channel="instagram"><img src="/images/social/instagram.png" alt="" /><span>Instagram</span></button>
+            <button type="button" data-share-channel="copy"><span class="wc-share-monogram">↗</span><span>Copy Link</span></button>
+            <button type="button" data-share-channel="download"><span class="wc-share-monogram">↓</span><span>Download Image</span></button>
+            <button type="button" data-share-channel="native" hidden><span class="wc-share-monogram">+</span><span>Share Image</span></button>
+          </div>
+          <div class="wc-share-link-fallback" data-share-link-fallback hidden>
+            <input type="text" data-share-link-value readonly aria-label="Short prediction link" />
+            <button type="button" data-share-link-select>Select Link</button>
+          </div>
+          <p class="wc-share-feedback" data-share-feedback aria-live="polite"></p>
+        </div>
+      </dialog>
+
       <section class="content-section" id="stadiums">
         <div class="section-title compact">
           <span>Stadiums Diaporama</span>
@@ -192,10 +225,10 @@
     </footer>
 
     <script src="/data/articles.js?v=presda-worldcup-live-20260622"></script>
-    <script src="/data/worldCupData.js?v=presda-worldcup-bracket-20260628"></script>
+    <script src="/data/worldCupData.js?v=presda-worldcup-share-20260629"></script>
     <script src="/services/footballDataService.js?v=presda-worldcup-live-20260622"></script>
     <script src="/script.js?v=presda-worldcup-live-20260622"></script>
-    <script src="/world-cup-2026/world-cup-dashboard.js?v=presda-worldcup-bracket-20260628"></script>
+    <script src="/world-cup-2026/world-cup-dashboard.js?v=presda-worldcup-share-20260629"></script>
     <script>
       window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
     </script>
