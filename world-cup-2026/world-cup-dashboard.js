@@ -274,7 +274,28 @@
     const shareFeedback = qs("[data-share-feedback]");
     let capturedBracket = null;
     let capturedBracketId = "";
+    let capturedBracketFile = null;
     let capturePromise = null;
+    let mobileShareObjectUrl = "";
+
+    const mobileSaveMessage = "Image is ready. Tap and hold to save, or open in Chrome/Safari.";
+
+    function mobileShareContext(userAgent = navigator.userAgent, touchPoints = navigator.maxTouchPoints, viewportWidth = window.innerWidth) {
+      const mobile = /Android|iPhone|iPad|iPod|IEMobile|Opera Mini/i.test(userAgent)
+        || (touchPoints > 1 && viewportWidth <= 1024);
+      const inApp = /Instagram|FBAN|FBAV|FB_IAB|FB4A|FBIOS|MessengerForiOS/i.test(userAgent);
+      return { mobile, inApp };
+    }
+
+    function supportsFileShare(file) {
+      try {
+        return typeof navigator.share === "function"
+          && typeof navigator.canShare === "function"
+          && navigator.canShare({ files: [file] });
+      } catch (error) {
+        return false;
+      }
+    }
 
     function blankState() {
       return { r32: Array(16).fill(null), r16: Array(8).fill(null), qf: Array(4).fill(null), sf: Array(2).fill(null), final: [null] };
@@ -449,6 +470,9 @@
     function invalidateBracketCapture() {
       capturedBracket = null;
       capturedBracketId = "";
+      capturedBracketFile = null;
+      if (mobileShareObjectUrl) URL.revokeObjectURL(mobileShareObjectUrl);
+      mobileShareObjectUrl = "";
       if (sharePreview) sharePreview.removeAttribute("src");
     }
 
@@ -519,14 +543,57 @@
     }
 
     async function predictionFile() {
+      if (capturedBracketFile) return capturedBracketFile;
       const canvas = await captureFullBracket();
       const blob = await canvasBlob(canvas);
-      return blob ? new File([blob], `presda-world-cup-prediction-${encodePrediction(selected)}.png`, { type: "image/png" }) : null;
+      capturedBracketFile = blob ? new File([blob], "presda-world-cup-prediction.png", { type: "image/png" }) : null;
+      return capturedBracketFile;
     }
 
     async function downloadPredictionImage() {
+      const context = mobileShareContext();
+      const shareProbe = new File([], "presda-world-cup-prediction.png", { type: "image/png" });
+      let fallbackWindow = null;
+
+      if (context.mobile && !supportsFileShare(shareProbe)) {
+        fallbackWindow = window.open("about:blank", "_blank");
+      }
+
       const file = await predictionFile();
-      if (!file) return false;
+      if (!file) {
+        fallbackWindow?.close();
+        return false;
+      }
+
+      if (context.mobile) {
+        if (context.inApp) setShareFeedback(mobileSaveMessage);
+
+        if (supportsFileShare(file)) {
+          fallbackWindow?.close();
+          try {
+            await navigator.share({
+              files: [file],
+              title: "My PRESDA World Cup 2026 Prediction",
+              text: shareText
+            });
+            return "shared";
+          } catch (error) {
+            if (error?.name === "AbortError") throw error;
+          }
+        }
+
+        if (mobileShareObjectUrl) URL.revokeObjectURL(mobileShareObjectUrl);
+        mobileShareObjectUrl = URL.createObjectURL(file);
+        if (fallbackWindow) {
+          fallbackWindow.location.href = mobileShareObjectUrl;
+        } else {
+          window.open(mobileShareObjectUrl, "_blank", "noopener,noreferrer");
+        }
+        if (sharePreview) sharePreview.src = mobileShareObjectUrl;
+        setShareFeedback(context.inApp ? mobileSaveMessage : "Image opened. Tap and hold it to save.");
+        return "opened";
+      }
+
       const url = URL.createObjectURL(file);
       const anchor = document.createElement("a");
       anchor.href = url;
@@ -535,7 +602,7 @@
       anchor.click();
       anchor.remove();
       setTimeout(() => URL.revokeObjectURL(url), 1000);
-      return true;
+      return "downloaded";
     }
 
     function setShareFeedback(message) {
@@ -621,18 +688,20 @@
         return;
       }
       if (channel === "download") {
-        await downloadPredictionImage();
-        setShareFeedback("Prediction PNG downloaded.");
+        const result = await downloadPredictionImage();
+        if (result === "downloaded") setShareFeedback("Prediction PNG downloaded.");
+        if (result === "shared") setShareFeedback("Prediction image shared.");
         return;
       }
       if (channel === "instagram") {
-        await downloadPredictionImage();
-        setShareFeedback("Download your prediction image and post it to Instagram Story.");
+        const result = await downloadPredictionImage();
+        if (result === "downloaded") setShareFeedback("Download your prediction image and post it to Instagram Story.");
+        if (result === "shared") setShareFeedback("Prediction image is ready to post to Instagram Story.");
         return;
       }
       if (channel === "native") {
         const file = await predictionFile();
-        if (file && navigator.canShare?.({ files: [file] })) {
+        if (file && supportsFileShare(file)) {
           await navigator.share({ title: "My PRESDA World Cup 2026 Prediction", text: shareText, files: [file] });
           setShareFeedback("Prediction image shared.");
         } else {
