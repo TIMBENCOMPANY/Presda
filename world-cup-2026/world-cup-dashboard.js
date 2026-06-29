@@ -477,13 +477,18 @@
     }
 
     function waitForCaptureImages(root) {
-      return Promise.all(Array.from(root.querySelectorAll("img")).map((image) => {
+      const imagesReady = Promise.all(Array.from(root.querySelectorAll("img")).map((image) => {
+        image.loading = "eager";
         if (image.complete) return Promise.resolve();
         return new Promise((resolve) => {
           image.addEventListener("load", resolve, { once: true });
           image.addEventListener("error", resolve, { once: true });
         });
       }));
+      return Promise.race([
+        imagesReady,
+        new Promise((resolve) => setTimeout(resolve, 10000))
+      ]);
     }
 
     function canvasBlob(canvas) {
