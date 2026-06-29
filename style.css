@@ -6574,15 +6574,71 @@ body[data-world-cup-hub] .wc-share-close {
   cursor: pointer;
 }
 
-body[data-world-cup-hub] .wc-share-preview {
-  display: block;
-  width: 100%;
-  height: auto;
-  aspect-ratio: 1200 / 630;
+body[data-world-cup-hub] .wc-share-preview-frame {
+  position: relative;
+  max-height: 380px;
+  overflow: auto;
   border: 1px solid rgba(232, 195, 107, 0.3);
   border-radius: 10px;
   background: #030303;
   box-shadow: 0 18px 48px rgba(0, 0, 0, 0.48);
+}
+
+body[data-world-cup-hub] .wc-share-preview-frame > span {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  min-height: 210px;
+  place-items: center;
+  color: rgba(255, 255, 255, 0.62);
+  font: 800 0.66rem/1 "Orbitron", sans-serif;
+  text-transform: uppercase;
+}
+
+body[data-world-cup-hub] .wc-share-preview-frame[aria-busy="false"] > span {
+  display: none;
+}
+
+body[data-world-cup-hub] .wc-share-preview {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+body[data-world-cup-hub] .wc-road-final.is-share-capture {
+  position: fixed;
+  top: 0;
+  left: -10000px;
+  width: 1380px;
+  max-width: none;
+  margin: 0;
+  padding: 30px;
+  overflow: visible;
+}
+
+body[data-world-cup-hub] .is-share-capture .wc-capture-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 18px;
+  color: #fff;
+  font: 900 0.78rem/1 "Orbitron", sans-serif;
+}
+
+body[data-world-cup-hub] .is-share-capture .wc-capture-brand img {
+  width: 58px;
+  height: 58px;
+  object-fit: contain;
+}
+
+body[data-world-cup-hub] .is-share-capture .wc-bracket-shell {
+  padding: 10px;
+  overflow: visible;
+}
+
+body[data-world-cup-hub] .is-share-capture .wc-bracket {
+  width: 1300px;
+  min-width: 1300px;
 }
 
 body[data-world-cup-hub] .wc-share-copy {
@@ -6700,6 +6756,10 @@ body[data-world-cup-hub] .wc-share-link-fallback button {
 
   body[data-world-cup-hub] .wc-share-actions button {
     font-size: 0.58rem;
+  }
+
+  body[data-world-cup-hub] .wc-share-preview-frame {
+    max-height: 280px;
   }
 }
 

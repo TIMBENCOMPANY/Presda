@@ -176,7 +176,10 @@
             </div>
             <button type="button" class="wc-share-close" data-share-close aria-label="Close share options">&times;</button>
           </header>
-          <canvas class="wc-share-preview" data-share-canvas width="1200" height="630" aria-label="Prediction image preview"></canvas>
+          <div class="wc-share-preview-frame" data-share-preview-frame aria-busy="true">
+            <img class="wc-share-preview" data-share-preview alt="Full Road To The Final bracket preview" />
+            <span data-share-preview-status>Capturing your full bracket...</span>
+          </div>
           <p class="wc-share-copy">My FIFA World Cup 2026 Road To The Final prediction is ready 🏆<br />Who beats my bracket?<br />Build yours on PRESDA.</p>
           <div class="wc-share-actions">
             <button type="button" data-share-channel="facebook"><img src="/images/social/facebook.png" alt="" /><span>Facebook</span></button>
@@ -228,7 +231,8 @@
     <script src="/data/worldCupData.js?v=presda-worldcup-share-20260629"></script>
     <script src="/services/footballDataService.js?v=presda-worldcup-live-20260622"></script>
     <script src="/script.js?v=presda-worldcup-live-20260622"></script>
-    <script src="/world-cup-2026/world-cup-dashboard.js?v=presda-worldcup-share-20260629"></script>
+    <script src="/assets/vendor/html2canvas-1.4.1.min.js"></script>
+    <script src="/world-cup-2026/world-cup-dashboard.js?v=presda-worldcup-capture-20260629"></script>
     <script>
       window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
     </script>

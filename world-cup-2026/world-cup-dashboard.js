@@ -268,8 +268,13 @@
     const emptyTeam = { name: "To be decided", flag: "" };
     const shareText = "My FIFA World Cup 2026 Road To The Final prediction is ready 🏆\nWho beats my bracket?\nBuild yours on PRESDA.";
     const shareModal = qs("[data-share-modal]");
-    const shareCanvas = qs("[data-share-canvas]");
+    const sharePreview = qs("[data-share-preview]");
+    const sharePreviewFrame = qs("[data-share-preview-frame]");
+    const sharePreviewStatus = qs("[data-share-preview-status]");
     const shareFeedback = qs("[data-share-feedback]");
+    let capturedBracket = null;
+    let capturedBracketId = "";
+    let capturePromise = null;
 
     function blankState() {
       return { r32: Array(16).fill(null), r16: Array(8).fill(null), qf: Array(4).fill(null), sf: Array(2).fill(null), final: [null] };
@@ -372,6 +377,7 @@
       selected[key][matchIndex] = teamName;
       sanitizeState();
       saveState();
+      invalidateBracketCapture();
       history.replaceState(null, "", `${window.location.pathname}#road-to-final`);
       render();
     }
@@ -406,9 +412,10 @@
         </section>`;
     }
 
-    function drawConnections() {
-      const canvas = target.querySelector(".wc-bracket");
-      const svg = target.querySelector(".wc-bracket-lines");
+    function drawConnections(bracketRoot = target) {
+      if (!bracketRoot?.querySelector) bracketRoot = target;
+      const canvas = bracketRoot.querySelector(".wc-bracket");
+      const svg = bracketRoot.querySelector(".wc-bracket-lines");
       if (!canvas || !svg) return;
       const canvasRect = canvas.getBoundingClientRect();
       svg.setAttribute("viewBox", `0 0 ${canvasRect.width} ${canvasRect.height}`);
@@ -439,161 +446,81 @@
       connect("final-0", "champion-0");
     }
 
-    function loadCanvasImage(source) {
-      return new Promise((resolve) => {
-        if (!source) return resolve(null);
-        const image = new Image();
-        image.onload = () => resolve(image);
-        image.onerror = () => resolve(null);
-        image.src = source;
-      });
+    function invalidateBracketCapture() {
+      capturedBracket = null;
+      capturedBracketId = "";
+      if (sharePreview) sharePreview.removeAttribute("src");
     }
 
-    function roundedRect(context, x, y, width, height, radius) {
-      context.beginPath();
-      context.roundRect(x, y, width, height, radius);
-    }
-
-    function drawShareTeam(context, x, y, width, label, active = false) {
-      roundedRect(context, x, y, width, 28, 7);
-      context.fillStyle = active ? "rgba(232, 18, 27, 0.92)" : "rgba(255, 255, 255, 0.065)";
-      context.fill();
-      context.strokeStyle = active ? "rgba(255, 72, 78, 0.95)" : "rgba(255, 255, 255, 0.13)";
-      context.lineWidth = 1;
-      context.stroke();
-      context.fillStyle = active ? "#ffffff" : "rgba(255, 255, 255, 0.78)";
-      context.font = "700 13px Arial, sans-serif";
-      const cleanLabel = label || "Open";
-      const visibleLabel = cleanLabel.length > 18 ? `${cleanLabel.slice(0, 16)}…` : cleanLabel;
-      context.fillText(visibleLabel, x + 11, y + 19);
-    }
-
-    async function drawPredictionCard() {
-      if (!shareCanvas) return null;
-      const context = shareCanvas.getContext("2d");
-      const champion = selected.final[0] ? findTeam(selected.final[0]) : null;
-      const finalTeams = matchesFor("final")[0];
-      const [logo, championFlag, finalistOneFlag, finalistTwoFlag] = await Promise.all([
-        loadCanvasImage("/images/brand/ptransparent.png"),
-        loadCanvasImage(champion?.flag),
-        loadCanvasImage(finalTeams[0]?.flag),
-        loadCanvasImage(finalTeams[1]?.flag)
-      ]);
-
-      context.clearRect(0, 0, 1200, 630);
-      context.fillStyle = "#030303";
-      context.fillRect(0, 0, 1200, 630);
-
-      const glow = context.createRadialGradient(955, 300, 20, 955, 300, 430);
-      glow.addColorStop(0, "rgba(151, 0, 9, 0.58)");
-      glow.addColorStop(0.55, "rgba(70, 0, 4, 0.24)");
-      glow.addColorStop(1, "rgba(0, 0, 0, 0)");
-      context.fillStyle = glow;
-      context.fillRect(540, 0, 660, 630);
-
-      context.strokeStyle = "rgba(230, 18, 28, 0.25)";
-      context.lineWidth = 2;
-      for (let index = 0; index < 8; index += 1) {
-        context.beginPath();
-        context.moveTo(-80, 95 + index * 18);
-        context.bezierCurveTo(250, 8 + index * 18, 420, 165 + index * 13, 720, 74 + index * 17);
-        context.stroke();
-      }
-
-      context.fillStyle = "#e9121b";
-      context.fillRect(0, 0, 1200, 8);
-      context.fillStyle = "#e8c36b";
-      context.fillRect(54, 47, 4, 86);
-
-      if (logo) context.drawImage(logo, 73, 45, 82, 82);
-      context.fillStyle = "#e8c36b";
-      context.font = "700 16px Arial, sans-serif";
-      context.fillText("PRESDA WORLD CUP 2026", 175, 66);
-      context.fillStyle = "#ffffff";
-      context.font = "900 52px Arial, sans-serif";
-      context.fillText("ROAD TO THE FINAL", 175, 120);
-      context.fillStyle = "#e9121b";
-      context.fillRect(175, 134, 210, 5);
-
-      context.fillStyle = "rgba(255, 255, 255, 0.55)";
-      context.font = "700 12px Arial, sans-serif";
-      context.fillText("YOUR PREDICTED FINAL", 570, 174);
-      roundedRect(context, 552, 188, 275, 88, 12);
-      context.fillStyle = "rgba(255, 255, 255, 0.055)";
-      context.fill();
-      context.strokeStyle = "rgba(232, 195, 107, 0.32)";
-      context.stroke();
-      if (finalistOneFlag) context.drawImage(finalistOneFlag, 570, 210, 30, 20);
-      if (finalistTwoFlag) context.drawImage(finalistTwoFlag, 570, 241, 30, 20);
-      context.fillStyle = "#ffffff";
-      context.font = "800 17px Arial, sans-serif";
-      context.fillText(finalTeams[0]?.name === emptyTeam.name ? "Finalist one" : finalTeams[0].name, 612, 226);
-      context.fillText(finalTeams[1]?.name === emptyTeam.name ? "Finalist two" : finalTeams[1].name, 612, 257);
-
-      roundedRect(context, 865, 92, 286, 438, 18);
-      context.fillStyle = "rgba(12, 12, 12, 0.78)";
-      context.fill();
-      context.strokeStyle = "rgba(232, 195, 107, 0.52)";
-      context.lineWidth = 2;
-      context.stroke();
-      context.fillStyle = "#e8c36b";
-      context.font = "800 15px Arial, sans-serif";
-      context.textAlign = "center";
-      context.fillText("WORLD CHAMPION", 1008, 145);
-      context.fillStyle = "#e9121b";
-      context.font = "900 118px Arial, sans-serif";
-      context.fillText("26", 1008, 280);
-      if (championFlag) context.drawImage(championFlag, 970, 315, 76, 50);
-      context.fillStyle = "#ffffff";
-      context.font = "900 26px Arial, sans-serif";
-      context.fillText(champion?.name || "YOUR CHAMPION", 1008, 410);
-      context.fillStyle = "rgba(255, 255, 255, 0.55)";
-      context.font = "600 13px Arial, sans-serif";
-      context.fillText(champion ? "PREDICTED BY YOU" : "COMPLETE YOUR BRACKET", 1008, 444);
-      context.textAlign = "left";
-
-      const previewColumns = [
-        { label: "QUARTER FINALS", values: selected.r16, x: 55, y: 313, gap: 32, width: 190 },
-        { label: "SEMI FINALS", values: selected.qf, x: 270, y: 377, gap: 64, width: 180 },
-        { label: "FINAL", values: selected.sf, x: 475, y: 409, gap: 128, width: 155 }
-      ];
-      previewColumns.forEach((column) => {
-        context.fillStyle = "rgba(255, 255, 255, 0.46)";
-        context.font = "700 10px Arial, sans-serif";
-        context.fillText(column.label, column.x, 300);
-        column.values.forEach((teamName, index) => {
-          drawShareTeam(context, column.x, column.y + index * column.gap, column.width, teamName, Boolean(teamName));
+    function waitForCaptureImages(root) {
+      return Promise.all(Array.from(root.querySelectorAll("img")).map((image) => {
+        if (image.complete) return Promise.resolve();
+        return new Promise((resolve) => {
+          image.addEventListener("load", resolve, { once: true });
+          image.addEventListener("error", resolve, { once: true });
         });
-      });
-
-      context.strokeStyle = "rgba(232, 18, 27, 0.42)";
-      context.setLineDash([6, 6]);
-      [[245, 423, 270, 423], [450, 441, 475, 441], [630, 441, 820, 335]].forEach(([x1, y1, x2, y2]) => {
-        context.beginPath();
-        context.moveTo(x1, y1);
-        context.lineTo(x2, y2);
-        context.stroke();
-      });
-      context.setLineDash([]);
-
-      context.fillStyle = "rgba(255, 255, 255, 0.34)";
-      context.font = "700 13px Arial, sans-serif";
-      context.fillText("MY FIFA WORLD CUP 2026 PREDICTION", 55, 598);
-      context.fillStyle = "#ffffff";
-      context.font = "900 18px Arial, sans-serif";
-      context.textAlign = "right";
-      context.fillText("PRESDA.COM", 1147, 598);
-      context.textAlign = "left";
-      return shareCanvas;
+      }));
     }
 
-    function canvasBlob() {
-      return new Promise((resolve) => shareCanvas?.toBlob(resolve, "image/png", 1));
+    function canvasBlob(canvas) {
+      return new Promise((resolve) => canvas?.toBlob(resolve, "image/png", 1));
+    }
+
+    async function captureFullBracket() {
+      const predictionId = encodePrediction(selected);
+      if (capturedBracket && capturedBracketId === predictionId) return capturedBracket;
+      if (capturePromise) return capturePromise;
+      if (typeof window.html2canvas !== "function") throw new Error("Bracket capture library is unavailable");
+
+      capturePromise = (async () => {
+        const source = qs("#road-to-final");
+        if (!source) throw new Error("Road To The Final section is unavailable");
+        const capture = source.cloneNode(true);
+        capture.removeAttribute("id");
+        capture.classList.add("is-share-capture");
+        capture.querySelector(".wc-bracket-actions")?.remove();
+        capture.querySelector(".wc-bracket-status")?.remove();
+
+        const brand = document.createElement("div");
+        brand.className = "wc-capture-brand";
+        brand.innerHTML = '<img src="/images/brand/ptransparent.png" alt=""><strong>PRESDA.COM</strong>';
+        capture.prepend(brand);
+        document.body.appendChild(capture);
+
+        try {
+          await document.fonts?.ready;
+          await waitForCaptureImages(capture);
+          drawConnections(capture.querySelector("[data-wc-bracket]"));
+          await new Promise((resolve) => requestAnimationFrame(() => requestAnimationFrame(resolve)));
+          const canvas = await window.html2canvas(capture, {
+            backgroundColor: "#000000",
+            scale: 2,
+            useCORS: true,
+            allowTaint: false,
+            logging: false,
+            imageTimeout: 15000,
+            scrollX: 0,
+            scrollY: 0
+          });
+          capturedBracket = canvas;
+          capturedBracketId = predictionId;
+          if (sharePreview) sharePreview.src = canvas.toDataURL("image/png");
+          return canvas;
+        } finally {
+          capture.remove();
+        }
+      })();
+
+      try {
+        return await capturePromise;
+      } finally {
+        capturePromise = null;
+      }
     }
 
     async function predictionFile() {
-      await drawPredictionCard();
-      const blob = await canvasBlob();
+      const canvas = await captureFullBracket();
+      const blob = await canvasBlob(canvas);
       return blob ? new File([blob], `presda-world-cup-prediction-${encodePrediction(selected)}.png`, { type: "image/png" }) : null;
     }
 
@@ -666,14 +593,18 @@
       setShareFeedback("");
       const fallback = shareModal?.querySelector("[data-share-link-fallback]");
       if (fallback) fallback.hidden = true;
-      await drawPredictionCard();
+      if (sharePreviewFrame) sharePreviewFrame.setAttribute("aria-busy", "true");
+      if (sharePreviewStatus) sharePreviewStatus.textContent = "Capturing your full bracket...";
+      if (shareModal?.showModal && !shareModal.open) shareModal.showModal();
+      else if (!shareModal?.open) shareModal?.setAttribute("open", "");
+      await captureFullBracket();
+      if (sharePreviewFrame) sharePreviewFrame.setAttribute("aria-busy", "false");
+      if (sharePreviewStatus) sharePreviewStatus.textContent = "Full bracket ready";
       const nativeButton = shareModal?.querySelector('[data-share-channel="native"]');
       if (nativeButton) {
         const file = await predictionFile();
         nativeButton.hidden = !(file && navigator.canShare?.({ files: [file] }));
       }
-      if (shareModal?.showModal) shareModal.showModal();
-      else shareModal?.setAttribute("open", "");
     }
 
     async function handleShareAction(button) {
@@ -748,6 +679,7 @@
       roundKeys.forEach((key) => selected[key].fill(null));
       localStorage.removeItem(storageKey);
       localStorage.removeItem(`presda-prediction-${currentId}`);
+      invalidateBracketCapture();
       history.replaceState(null, "", window.location.pathname + "#road-to-final");
       qs("[data-bracket-status]").textContent = "Bracket reset.";
       shareModal?.close?.();
