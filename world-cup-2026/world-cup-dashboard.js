@@ -278,7 +278,8 @@
     let capturePromise = null;
     let mobileShareObjectUrl = "";
 
-    const mobileSaveMessage = "Image is ready. Tap and hold to save, or open in Chrome/Safari.";
+    const mobileSaveMessage = "Tap and hold the image, then Save Image.";
+    const inAppDownloadMessage = "Instagram browser may block downloads. Open in Chrome to save directly.";
 
     function mobileShareContext(userAgent = navigator.userAgent, touchPoints = navigator.maxTouchPoints, viewportWidth = window.innerWidth) {
       const mobile = /Android|iPhone|iPad|iPod|IEMobile|Opera Mini/i.test(userAgent)
@@ -557,12 +558,7 @@
 
     async function downloadPredictionImage() {
       const context = mobileShareContext();
-      const shareProbe = new File([], "presda-world-cup-prediction.png", { type: "image/png" });
-      let fallbackWindow = null;
-
-      if (context.mobile && !supportsFileShare(shareProbe)) {
-        fallbackWindow = window.open("about:blank", "_blank");
-      }
+      const fallbackWindow = context.inApp ? window.open("about:blank", "_blank") : null;
 
       const file = await predictionFile();
       if (!file) {
@@ -570,23 +566,7 @@
         return false;
       }
 
-      if (context.mobile) {
-        if (context.inApp) setShareFeedback(mobileSaveMessage);
-
-        if (supportsFileShare(file)) {
-          fallbackWindow?.close();
-          try {
-            await navigator.share({
-              files: [file],
-              title: "My PRESDA World Cup 2026 Prediction",
-              text: shareText
-            });
-            return "shared";
-          } catch (error) {
-            if (error?.name === "AbortError") throw error;
-          }
-        }
-
+      const openImageFallback = (message) => {
         if (mobileShareObjectUrl) URL.revokeObjectURL(mobileShareObjectUrl);
         mobileShareObjectUrl = URL.createObjectURL(file);
         if (fallbackWindow) {
@@ -595,18 +575,27 @@
           window.open(mobileShareObjectUrl, "_blank", "noopener,noreferrer");
         }
         if (sharePreview) sharePreview.src = mobileShareObjectUrl;
-        setShareFeedback(context.inApp ? mobileSaveMessage : "Image opened. Tap and hold it to save.");
+        setShareFeedback(message);
         return "opened";
+      };
+
+      if (context.inApp) {
+        return openImageFallback(inAppDownloadMessage);
       }
 
       const url = URL.createObjectURL(file);
       const anchor = document.createElement("a");
+      if (!("download" in anchor)) {
+        URL.revokeObjectURL(url);
+        return openImageFallback(mobileSaveMessage);
+      }
       anchor.href = url;
-      anchor.download = file.name;
+      anchor.download = "presda-world-cup-prediction.png";
+      anchor.hidden = true;
       document.body.appendChild(anchor);
       anchor.click();
       anchor.remove();
-      setTimeout(() => URL.revokeObjectURL(url), 1000);
+      setTimeout(() => URL.revokeObjectURL(url), 30000);
       return "downloaded";
     }
 
@@ -695,13 +684,11 @@
       if (channel === "download") {
         const result = await downloadPredictionImage();
         if (result === "downloaded") setShareFeedback("Prediction PNG downloaded.");
-        if (result === "shared") setShareFeedback("Prediction image shared.");
         return;
       }
       if (channel === "instagram") {
         const result = await downloadPredictionImage();
         if (result === "downloaded") setShareFeedback("Download your prediction image and post it to Instagram Story.");
-        if (result === "shared") setShareFeedback("Prediction image is ready to post to Instagram Story.");
         return;
       }
       if (channel === "native") {
