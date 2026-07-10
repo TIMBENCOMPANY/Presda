@@ -45,38 +45,25 @@
 
   const flagUrl = (code) => (code ? `/images/world-cup/flags/${code}.svg` : "");
 
-  // Final group tables calculated from FIFA's 72 official group-stage results.
-  const officialGroupStandings = {
-    "Group A": [["Mexico", "mx", 3, 3, 0, 0, 6, 0, 9, true], ["South Africa", "za", 3, 1, 1, 1, 2, 3, 4, true], ["South Korea", "kr", 3, 1, 0, 2, 2, 3, 3, false], ["Czechia", "cz", 3, 0, 1, 2, 2, 6, 1, false]],
-    "Group B": [["Switzerland", "ch", 3, 2, 1, 0, 7, 3, 7, true], ["Canada", "ca", 3, 1, 1, 1, 8, 3, 4, true], ["Bosnia and Herzegovina", "ba", 3, 1, 1, 1, 5, 6, 4, true], ["Qatar", "qa", 3, 0, 1, 2, 2, 10, 1, false]],
-    "Group C": [["Brazil", "br", 3, 2, 1, 0, 7, 1, 7, true], ["Morocco", "ma", 3, 2, 1, 0, 6, 3, 7, true], ["Scotland", "gb-sct", 3, 1, 0, 2, 1, 4, 3, false], ["Haiti", "ht", 3, 0, 0, 3, 2, 8, 0, false]],
-    "Group D": [["United States", "us", 3, 2, 0, 1, 8, 4, 6, true], ["Australia", "au", 3, 1, 1, 1, 2, 2, 4, true], ["Paraguay", "py", 3, 1, 1, 1, 2, 4, 4, true], ["Turkiye", "tr", 3, 1, 0, 2, 3, 5, 3, false]],
-    "Group E": [["Germany", "de", 3, 2, 0, 1, 10, 4, 6, true], ["Cote d'Ivoire", "ci", 3, 2, 0, 1, 4, 2, 6, true], ["Ecuador", "ec", 3, 1, 1, 1, 2, 2, 4, true], ["Curacao", "cw", 3, 0, 1, 2, 1, 9, 1, false]],
-    "Group F": [["Netherlands", "nl", 3, 2, 1, 0, 10, 4, 7, true], ["Japan", "jp", 3, 1, 2, 0, 7, 3, 5, true], ["Sweden", "se", 3, 1, 1, 1, 7, 7, 4, true], ["Tunisia", "tn", 3, 0, 0, 3, 2, 12, 0, false]],
-    "Group G": [["Belgium", "be", 3, 1, 2, 0, 6, 2, 5, true], ["Egypt", "eg", 3, 1, 2, 0, 5, 3, 5, true], ["IR Iran", "ir", 3, 0, 3, 0, 3, 3, 3, false], ["New Zealand", "nz", 3, 0, 1, 2, 4, 10, 1, false]],
-    "Group H": [["Spain", "es", 3, 2, 1, 0, 5, 0, 7, true], ["Cabo Verde", "cv", 3, 0, 3, 0, 2, 2, 3, true], ["Uruguay", "uy", 3, 0, 2, 1, 3, 4, 2, false], ["Saudi Arabia", "sa", 3, 0, 2, 1, 1, 5, 2, false]],
-    "Group I": [["France", "fr", 3, 3, 0, 0, 10, 2, 9, true], ["Norway", "no", 3, 2, 0, 1, 8, 7, 6, true], ["Senegal", "sn", 3, 1, 0, 2, 8, 6, 3, true], ["Iraq", "iq", 3, 0, 0, 3, 1, 12, 0, false]],
-    "Group J": [["Argentina", "ar", 3, 3, 0, 0, 8, 1, 9, true], ["Austria", "at", 3, 1, 1, 1, 6, 6, 4, true], ["Algeria", "dz", 3, 1, 1, 1, 5, 7, 4, true], ["Jordan", "jo", 3, 0, 0, 3, 3, 8, 0, false]],
-    "Group K": [["Colombia", "co", 3, 2, 1, 0, 4, 1, 7, true], ["Portugal", "pt", 3, 1, 2, 0, 6, 1, 5, true], ["Congo DR", "cd", 3, 1, 1, 1, 4, 3, 4, true], ["Uzbekistan", "uz", 3, 0, 0, 3, 2, 11, 0, false]],
-    "Group L": [["England", "gb-eng", 3, 2, 1, 0, 6, 2, 7, true], ["Croatia", "hr", 3, 2, 0, 1, 5, 5, 6, true], ["Ghana", "gh", 3, 1, 1, 1, 2, 2, 4, true], ["Panama", "pa", 3, 0, 0, 3, 0, 4, 0, false]]
-  };
+  // Static fallback: show official group order only. Live standings can replace this
+  // when a trusted API is available; do not invent scores, points, or qualifiers.
 
-  const groupTables = Object.entries(officialGroupStandings).map(([name, teams]) => ({
+  const groupTables = groups.map(([name, teams]) => ({
     name,
-    status: "Final table",
-    teams: teams.map(([teamName, code, played, wins, draws, losses, goalsFor, goalsAgainst, points, qualified], index) => ({
+    status: "Official group order",
+    teams: teams.map(([teamName, code], index) => ({
       rank: index + 1,
       name: teamName,
       flag: flagUrl(code),
-      played,
-      wins,
-      draws,
-      losses,
-      goalsFor,
-      goalsAgainst,
-      goalDifference: goalsFor - goalsAgainst,
-      points,
-      qualified
+      played: "-",
+      wins: "-",
+      draws: "-",
+      losses: "-",
+      goalsFor: "-",
+      goalsAgainst: "-",
+      goalDifference: "-",
+      points: "-",
+      qualified: false
     }))
   }));
 

@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-mobile-wc-polish-20260611";
+const cacheVersion = "presda-category-unify-20260710";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -182,8 +182,7 @@ function header() {
       <a class="skip-link" href="#main-content">Skip to content</a>
       <div class="nav-shell">
         <a class="brand" href="/" aria-label="PRESDA home">
-          <img class="brand-logo logo-dark" data-logo-dark src="/logo-dark.png" alt="PRESDA official logo for dark mode" width="180" height="48" decoding="async" />
-          <img class="brand-logo logo-light" data-logo-light src="/logo-light.png" alt="PRESDA official logo for light mode" width="180" height="48" decoding="async" />
+          <img class="brand-logo" src="/images/brand/ptransparent.png" alt="PRESDA P logo" width="90" height="70" decoding="async" />
         </a>
 
         <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
@@ -561,7 +560,7 @@ function articlePage(article) {
       name: "PRESDA",
       logo: {
         "@type": "ImageObject",
-        url: `${siteUrl}/logo-light.png`
+        url: `${siteUrl}/images/brand/ptransparent.png`
       }
     },
     mainEntityOfPage: {
@@ -718,7 +717,7 @@ function listingPage({ slug, title, description, eyebrow, heading, intro, items,
       name: "PRESDA",
       logo: {
         "@type": "ImageObject",
-        url: `${siteUrl}/logo-light.png`
+        url: `${siteUrl}/images/brand/ptransparent.png`
       }
     }
   };
@@ -860,7 +859,7 @@ function staticInfoPage({ slug, title, description, eyebrow, heading, sections }
       name: "PRESDA",
       logo: {
         "@type": "ImageObject",
-        url: `${siteUrl}/logo-light.png`
+        url: `${siteUrl}/images/brand/ptransparent.png`
       }
     }
   };
@@ -872,7 +871,7 @@ ${commonHead({
   title,
   description,
   canonical,
-  image: "/logo-light.png"
+  image: "/images/brand/ptransparent.png"
 })}
     <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
   </head>
