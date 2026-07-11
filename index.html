@@ -26,16 +26,16 @@
     />
     <meta name="twitter:image" content="https://presda.com/images/editorial/world-cup-presda-logo.png" />
     <link rel="alternate" type="application/rss+xml" title="PRESDA RSS Feed" href="https://presda.com/rss.xml" />
-    <link rel="icon" data-dynamic-favicon type="image/png" href="/favicon-dark.png?v=presda-story-slider" />
-    <link rel="shortcut icon" data-dynamic-favicon href="/favicon-dark.png?v=presda-story-slider" />
-    <link rel="apple-touch-icon" href="/favicon-light.png?v=presda-story-slider" />
+    <link rel="icon" data-dynamic-favicon type="image/png" href="/favicon-dark.png?v=presda-luxury-system-20260711" />
+    <link rel="shortcut icon" data-dynamic-favicon href="/favicon-dark.png?v=presda-luxury-system-20260711" />
+    <link rel="apple-touch-icon" href="/favicon-light.png?v=presda-luxury-system-20260711" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&family=Orbitron:wght@700;800;900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="/style.css?v=presda-story-slider-20260624" />
+    <link rel="stylesheet" href="/style.css?v=presda-luxury-system-20260711" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -54,7 +54,7 @@
   <body class="presda-story-home">
     <header class="story-header" aria-label="PRESDA navigation">
       <button class="story-pill story-menu-button" type="button" aria-label="Open menu" aria-controls="story-menu" aria-expanded="false">
-        Menu
+        <img src="/images/brand/ptransparent.png" alt="" aria-hidden="true" />
       </button>
       <a class="story-logo" href="/" aria-label="PRESDA home">
         <img src="/images/brand/ptransparent.png" alt="PRESDA P logo" width="78" height="78" />
@@ -66,6 +66,56 @@
         <a class="story-pill story-login" href="/contact/">Login</a>
       </div>
     </header>
+
+    <nav class="story-category-nav" aria-label="PRESDA category navigation">
+      <a href="/category/ai/">AI</a>
+      <a href="/category/business/">Business</a>
+      <a href="/category/sport/">Sport</a>
+      <a href="/world-cup-2026/">World Cup 2026</a>
+      <a href="/category/world/">World</a>
+      <a href="/category/paparazzi/">Paparazzi</a>
+      <a href="/category/lifestyle/">Lifestyle</a>
+      <a href="/category/travel/">Travel</a>
+      <a href="/category/science/">Science</a>
+    </nav>
+
+    <section class="market-ticker story-live-ticker" aria-label="Live market and news ticker">
+      <div class="market-ticker-inner">
+        <p>Live Market Pulse</p>
+        <div class="market-ticker-window">
+          <div class="market-ticker-track" data-market-ticker-track>
+            <article class="market-ticker-item up" aria-label="Amazon market movement">
+              <span class="market-logo">AMZ</span>
+              <span class="market-name">Amazon</span>
+              <span class="market-symbol">AMZN</span>
+              <strong>$221.18</strong>
+              <span class="market-change">▲ +0.31%</span>
+            </article>
+            <article class="market-ticker-item up" aria-label="OpenAI market movement">
+              <span class="market-logo">OAI</span>
+              <span class="market-name">OpenAI</span>
+              <span class="market-symbol">OPENAI</span>
+              <strong>Index</strong>
+              <span class="market-change">▲ +3.20%</span>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="ticker story-breaking-ticker" aria-label="Breaking news ticker">
+      <div class="ticker-inner">
+        <strong>Breaking News</strong>
+        <div class="ticker-window">
+          <div class="ticker-track">
+            <span>World Cup coverage expands with verified tournament data.</span>
+            <span>Markets watch AI infrastructure, chips, cloud and mobility.</span>
+            <span>PRESDA follows sport, business, science and culture in one premium feed.</span>
+            <span>Live newsroom updates continue across every category.</span>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <aside class="story-menu-panel" id="story-menu" aria-label="PRESDA category menu" aria-hidden="true">
       <div class="story-menu-card">
@@ -433,7 +483,7 @@
       </section>
     </main>
 
-    <script src="/script.js?v=presda-mobile-wc-polish-20260611"></script>
+    <script src="/script.js?v=presda-luxury-system-20260711"></script>
     <script>
       (() => {
         const slides = Array.from(document.querySelectorAll("[data-story-slide]"));
@@ -494,6 +544,12 @@
         });
         menuPanel?.addEventListener("click", (event) => {
           if (event.target === menuPanel) menuClose?.click();
+        });
+        document.querySelector(".story-logo")?.addEventListener("click", (event) => {
+          event.preventDefault();
+          menuPanel?.classList.add("is-open");
+          menuPanel?.setAttribute("aria-hidden", "false");
+          menuButton?.setAttribute("aria-expanded", "true");
         });
 
         restart();

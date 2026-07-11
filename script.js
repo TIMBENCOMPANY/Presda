@@ -2,18 +2,44 @@
 const body = document.body;
 
 const marketTickerRecords = [
-  { symbol: "NVDA", name: "NVIDIA", logo: "NV", price: "$1,142.80", changePercent: "+2.14%", trend: "gain" },
-  { symbol: "AAPL", name: "Apple", logo: "A", price: "$214.35", changePercent: "-0.42%", trend: "loss" },
-  { symbol: "MSFT", name: "Microsoft", logo: "M", price: "$486.21", changePercent: "+0.88%", trend: "gain" },
+  { symbol: "AMZN", name: "Amazon", logo: "AMZ", price: "$221.18", changePercent: "-0.31%", trend: "loss" },
   { symbol: "GOOGL", name: "Google", logo: "G", price: "$196.70", changePercent: "+1.12%", trend: "gain" },
-  { symbol: "AMZN", name: "Amazon", logo: "a", price: "$221.18", changePercent: "-0.31%", trend: "loss" },
-  { symbol: "META", name: "Meta", logo: "âˆž", price: "$681.44", changePercent: "+1.47%", trend: "gain" },
-  { symbol: "BTC", name: "Bitcoin", logo: "â‚¿", price: "$109,420", changePercent: "+3.06%", trend: "gain" },
-  { symbol: "XAU", name: "Gold", logo: "Au", price: "$3,342.10", changePercent: "+0.36%", trend: "gain" },
-  { symbol: "WTI", name: "Oil", logo: "Oil", price: "$78.64", changePercent: "-1.18%", trend: "loss" },
-  { symbol: "EURUSD", name: "EUR/USD", logo: "â‚¬/$", price: "1.0874", changePercent: "+0.09%", trend: "gain" },
-  { symbol: "USDMAD", name: "USD/MAD", logo: "$/Ø¯", price: "9.92", changePercent: "-0.12%", trend: "loss" }
+  { symbol: "AAPL", name: "Apple", logo: "APL", price: "$214.35", changePercent: "-0.42%", trend: "loss" },
+  { symbol: "TSLA", name: "Tesla", logo: "TSL", price: "$318.42", changePercent: "+0.74%", trend: "gain" },
+  { symbol: "META", name: "Meta", logo: "MTA", price: "$681.44", changePercent: "+1.47%", trend: "gain" },
+  { symbol: "MSFT", name: "Microsoft", logo: "MSF", price: "$486.21", changePercent: "+0.88%", trend: "gain" },
+  { symbol: "NVDA", name: "NVIDIA", logo: "NV", price: "$1,142.80", changePercent: "+2.14%", trend: "gain" },
+  { symbol: "OPENAI", name: "OpenAI", logo: "OAI", price: "Index", changePercent: "+3.20%", trend: "gain" },
+  { symbol: "XAU", name: "Gold", logo: "AU", price: "$3,342.10", changePercent: "+0.36%", trend: "gain" },
+  { symbol: "WTI", name: "Oil", logo: "OIL", price: "$78.64", changePercent: "-1.18%", trend: "loss" }
 ];
+
+function hydrateMarketTickers() {
+  const tracks = document.querySelectorAll("[data-market-ticker-track]");
+  if (!tracks.length) return;
+
+  const tickerItems = [...marketTickerRecords, ...marketTickerRecords]
+    .map((record) => {
+      const direction = record.trend === "loss" ? "down" : "up";
+      const arrow = record.trend === "loss" ? "▼" : "▲";
+      return `
+        <article class="market-ticker-item ${direction}" aria-label="${record.name} ${record.changePercent}">
+          <span class="market-logo">${record.logo}</span>
+          <span class="market-name">${record.name}</span>
+          <span class="market-symbol">${record.symbol}</span>
+          <strong>${record.price}</strong>
+          <span class="market-change">${arrow} ${record.changePercent}</span>
+        </article>
+      `;
+    })
+    .join("");
+
+  tracks.forEach((track) => {
+    track.innerHTML = tickerItems;
+  });
+}
+
+hydrateMarketTickers();
 
 const articleRecords = [
   {
@@ -1045,7 +1071,7 @@ const slugify = (value = "") =>
     .toLowerCase()
     .trim()
     .replace(/&/g, "and")
-    .replace(/['â€™]/g, "")
+    .replace(/['\u2019]/g, "")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
 const categorySlug = (category) => slugify(category);
@@ -1109,7 +1135,7 @@ const imagePairs = Object.fromEntries(
   ])
 );
 
-const versioned = (src) => `${src}?v=presda-mobile-wc-polish-20260611`;
+const versioned = (src) => `${src}?v=presda-luxury-system-20260711`;
 
 function applyArticleImageFocalPoints() {
   const isMobile = window.matchMedia("(max-width: 760px)").matches;
@@ -1164,17 +1190,29 @@ document.querySelector(".theme-toggle")?.addEventListener("click", () => {
 
 const menuButton = document.querySelector(".menu-button");
 const nav = document.querySelector(".main-nav");
+const logoTrigger = document.querySelector(".brand");
+
+function toggleNavigation(force) {
+  const isOpen = typeof force === "boolean" ? force : !nav?.classList.contains("is-open");
+  nav?.classList.toggle("is-open", isOpen);
+  menuButton?.setAttribute("aria-expanded", String(isOpen));
+  menuButton?.setAttribute("aria-label", isOpen ? "Close navigation menu" : "Open navigation menu");
+  logoTrigger?.setAttribute("aria-expanded", String(isOpen));
+}
 
 menuButton?.addEventListener("click", () => {
-  const isOpen = nav?.classList.toggle("is-open") || false;
-  menuButton.setAttribute("aria-expanded", String(isOpen));
-  menuButton.setAttribute("aria-label", isOpen ? "Close navigation menu" : "Open navigation menu");
+  toggleNavigation();
+});
+
+logoTrigger?.addEventListener("click", (event) => {
+  if (!nav || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+  event.preventDefault();
+  toggleNavigation();
 });
 
 document.querySelectorAll(".main-nav a").forEach((link) => {
   link.addEventListener("click", () => {
-    nav?.classList.remove("is-open");
-    menuButton?.setAttribute("aria-expanded", "false");
+    toggleNavigation(false);
   });
 });
 

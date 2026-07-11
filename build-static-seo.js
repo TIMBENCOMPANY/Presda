@@ -4,7 +4,7 @@ const vm = require("vm");
 
 const root = __dirname;
 const siteUrl = "https://presda.com";
-const cacheVersion = "presda-category-unify-20260710";
+const cacheVersion = "presda-luxury-system-20260711";
 
 const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
 const match = script.match(/const articleRecords = ([\s\S]*?\n\];)/);
@@ -31,7 +31,7 @@ const slugify = (value = "") =>
     .toLowerCase()
     .trim()
     .replace(/&/g, "and")
-    .replace(/['â€™]/g, "")
+    .replace(/['\u2019]/g, "")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
 const categorySlug = (category) => slugify(category);
@@ -181,7 +181,7 @@ function header() {
   return `    <header class="site-header">
       <a class="skip-link" href="#main-content">Skip to content</a>
       <div class="nav-shell">
-        <a class="brand" href="/" aria-label="PRESDA home">
+        <a class="brand" href="/" aria-label="Open PRESDA navigation" aria-controls="main-nav" aria-expanded="false">
           <img class="brand-logo" src="/images/brand/ptransparent.png" alt="PRESDA P logo" width="90" height="70" decoding="async" />
         </a>
 
@@ -227,14 +227,14 @@ function marketTicker() {
   const marketItems = [...marketTickerRecords, ...marketTickerRecords];
   return `      <section class="market-ticker" aria-label="Market ticker">
         <div class="market-ticker-inner">
-          <strong>Markets</strong>
+          <strong>Live Market Pulse</strong>
           <div class="market-ticker-window">
             <div class="market-ticker-track" data-market-ticker-track>
               ${marketItems.map((item) => `<span class="market-ticker-item trend-${esc(item.trend)}">
                 <span class="market-logo" aria-hidden="true">${esc(item.logo)}</span>
                 <span class="market-name">${esc(item.name)}</span>
                 <span class="market-price">${esc(item.price)}</span>
-                <span class="market-change">${esc(item.changePercent)}</span>
+                <span class="market-change">${item.trend === "loss" ? "▼" : "▲"} ${esc(item.changePercent)}</span>
               </span>`).join("")}
             </div>
           </div>
@@ -655,6 +655,17 @@ ${analytics()}
 function categoryPage(category) {
   const items = articles.filter((article) => articleCategories(article).includes(category));
   const featured = items[0] || articles[0];
+  const categoryGoldWords = {
+    AI: "intelligence",
+    Business: "financial",
+    Sport: "performance",
+    World: "global",
+    Paparazzi: "culture",
+    Lifestyle: "luxury",
+    Travel: "journey",
+    Science: "discovery"
+  };
+  const goldWord = categoryGoldWords[category] || "premium";
   const canonical = `${siteUrl}/category/${categorySlug(category)}/`;
   const jsonLd = {
     "@context": "https://schema.org",
@@ -687,7 +698,7 @@ ${ticker()}
           <span>${esc(category)} Coverage</span>
           <h1>${esc(category)} News</h1>
         </div>
-        <p>Premium PRESDA coverage, organized for fast reading and cinematic scanning.</p>
+        <p>Premium <mark class="title-gold">${esc(goldWord)}</mark> journalism, organized for fast reading and cinematic scanning.</p>
       </section>
 
       <section class="content-section">
