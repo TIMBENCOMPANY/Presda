@@ -8165,3 +8165,570 @@ html.light-mode .ticker-track span {
     transition-duration: 0.001ms !important;
   }
 }
+
+/* PRESDA reference poster feed - matches supplied black/red wave mockups */
+body.presda-story-home {
+  background: #000 !important;
+  overflow-x: hidden;
+}
+
+body.presda-story-home .story-category-nav,
+body.presda-story-home .story-live-ticker,
+body.presda-story-home .story-breaking-ticker {
+  display: none !important;
+}
+
+body.presda-story-home .story-header {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: 1000;
+  height: 76px;
+  display: grid;
+  grid-template-columns: 140px 1fr 140px;
+  align-items: center;
+  padding: 14px clamp(18px, 3vw, 42px);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.88), rgba(0, 0, 0, 0));
+  pointer-events: none;
+}
+
+body.presda-story-home .story-header > * {
+  pointer-events: auto;
+}
+
+body.presda-story-home .story-pill,
+body.presda-story-home .story-login {
+  min-width: 86px;
+  height: 40px;
+  border: 0;
+  border-radius: 10px;
+  color: #fff !important;
+  background: #ff171f !important;
+  box-shadow: 0 14px 38px rgba(255, 23, 31, 0.28);
+  font: 800 0.86rem/1 "Montserrat", sans-serif;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+body.presda-story-home .story-menu-button {
+  justify-self: start;
+  width: auto !important;
+  min-width: 86px !important;
+  padding: 0 20px !important;
+}
+
+body.presda-story-home .story-logo {
+  justify-self: center;
+  width: 74px;
+  height: 54px;
+  display: grid;
+  place-items: center;
+}
+
+body.presda-story-home .story-logo img {
+  width: 72px !important;
+  height: 54px !important;
+}
+
+body.presda-story-home .story-header-actions {
+  justify-self: end;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+body.presda-story-home .story-mode-toggle {
+  width: 48px !important;
+  height: 28px !important;
+}
+
+body.presda-story-home .story-mode-toggle span {
+  width: 20px !important;
+  height: 20px !important;
+}
+
+html.light-mode body.presda-story-home .story-mode-toggle span,
+body.presda-story-home.light-mode .story-mode-toggle span {
+  transform: translateX(20px) !important;
+}
+
+body.presda-story-home .story-app {
+  overflow: visible;
+  background: #000;
+}
+
+body.presda-story-home .story-category-board,
+body.presda-story-home .story-slide {
+  position: relative;
+  isolation: isolate;
+  min-height: 100svh;
+  padding: clamp(86px, 8vw, 116px) clamp(18px, 5vw, 76px) clamp(48px, 6vw, 84px);
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 80% 36%, rgba(255, 23, 31, 0.12), transparent 28rem),
+    #000;
+}
+
+body.presda-story-home .story-category-board::before,
+body.presda-story-home .story-slide::before {
+  content: "";
+  position: absolute;
+  left: -10vw;
+  right: -10vw;
+  bottom: -7vw;
+  height: min(48vw, 560px);
+  z-index: -1;
+  opacity: 0.95;
+  background:
+    repeating-radial-gradient(ellipse at 45% 100%, transparent 0 15px, rgba(175, 0, 18, 0.9) 16px 22px, transparent 23px 38px);
+  mask-image: linear-gradient(to top, #000 0%, transparent 88%);
+}
+
+body.presda-story-home .story-category-board::after,
+body.presda-story-home .story-slide::after {
+  content: "";
+  position: absolute;
+  top: 22px;
+  left: 50%;
+  z-index: 1;
+  width: clamp(50px, 5vw, 74px);
+  height: clamp(38px, 4vw, 56px);
+  transform: translateX(-50%);
+  background: url("/images/brand/ptransparent.png") center / contain no-repeat;
+  filter: drop-shadow(0 0 22px rgba(255, 23, 31, 0.74));
+  pointer-events: none;
+}
+
+body.presda-story-home .story-category-board {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.45fr) minmax(0, 1fr);
+  gap: clamp(22px, 4vw, 64px);
+  align-items: center;
+}
+
+body.presda-story-home .story-board-heading {
+  align-self: start;
+  padding-top: clamp(52px, 7vw, 90px);
+}
+
+body.presda-story-home .story-board-heading p,
+body.presda-story-home .story-kicker {
+  width: fit-content;
+  margin: 0 0 18px;
+  padding-left: 18px;
+  color: #fff;
+  font-family: "Ahsing", "Orbitron", "Montserrat", sans-serif;
+  font-size: clamp(0.92rem, 1.5vw, 1.3rem);
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  text-decoration-color: #ff171f;
+  text-underline-offset: 8px;
+}
+
+body.presda-story-home .story-board-heading p::before,
+body.presda-story-home .story-kicker::before {
+  content: "\2022";
+  margin-left: -18px;
+  margin-right: 10px;
+  color: #fff;
+}
+
+body.presda-story-home .story-board-heading h1 {
+  margin: 0;
+  color: #fff;
+  font-family: "Brixton Sans", "Ahsing", "Montserrat", sans-serif;
+  font-size: clamp(2.3rem, 5vw, 6rem);
+  line-height: 0.9;
+  text-transform: uppercase;
+}
+
+body.presda-story-home .story-board-heading h1 span,
+body.presda-story-home .story-gold {
+  color: #e8c97a;
+}
+
+body.presda-story-home .story-category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(10px, 1.25vw, 16px);
+  align-self: center;
+}
+
+body.presda-story-home .story-category-tile {
+  position: relative;
+  min-height: clamp(170px, 19vw, 270px);
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0;
+  background: #070707;
+  box-shadow: 0 28px 84px rgba(0, 0, 0, 0.42);
+}
+
+body.presda-story-home .story-category-tile img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  filter: saturate(1.08) contrast(1.08);
+  transition: transform 0.45s ease;
+}
+
+body.presda-story-home .story-category-tile:hover img {
+  transform: scale(1.055);
+}
+
+body.presda-story-home .story-category-tile::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 48%, rgba(0, 0, 0, 0.78));
+}
+
+body.presda-story-home .story-category-tile span {
+  position: absolute;
+  left: 18px;
+  right: 14px;
+  bottom: 16px;
+  z-index: 1;
+  color: #e8c97a;
+  font-family: "Ahsing", "Orbitron", "Montserrat", sans-serif;
+  font-size: clamp(1rem, 1.8vw, 1.55rem);
+  font-weight: 900;
+  line-height: 1;
+  text-transform: uppercase;
+  text-shadow: 0 7px 20px rgba(0, 0, 0, 0.9);
+}
+
+body.presda-story-home .story-slider {
+  min-height: 0;
+  overflow: visible;
+  background: #000;
+}
+
+body.presda-story-home .story-wave,
+body.presda-story-home .story-arrow,
+body.presda-story-home .story-progress {
+  display: none !important;
+}
+
+body.presda-story-home .story-slide,
+body.presda-story-home .story-slide.is-active {
+  position: relative !important;
+  inset: auto !important;
+  display: grid !important;
+  grid-template-columns: minmax(0, 0.95fr) minmax(340px, 0.9fr);
+  gap: clamp(20px, 4vw, 58px);
+  align-items: center;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+body.presda-story-home .story-slide:nth-of-type(even) .story-copy {
+  order: 2;
+}
+
+body.presda-story-home .story-slide:nth-of-type(even) .story-art,
+body.presda-story-home .story-slide:nth-of-type(even) .vote-collage,
+body.presda-story-home .story-slide:nth-of-type(even) .story-groups-board,
+body.presda-story-home .story-slide:nth-of-type(even) .stadium-pair {
+  order: 1;
+}
+
+body.presda-story-home .story-copy {
+  max-width: 740px;
+  z-index: 2;
+}
+
+body.presda-story-home .story-copy h1,
+body.presda-story-home .story-copy h2 {
+  color: #fff;
+  font-family: "Brixton Sans", "Ahsing", "Montserrat", sans-serif !important;
+  font-size: clamp(3rem, 6.35vw, 6.85rem) !important;
+  line-height: 0.84 !important;
+  letter-spacing: 0 !important;
+  text-transform: uppercase;
+  text-shadow: 0 20px 52px rgba(0, 0, 0, 0.74);
+}
+
+body.presda-story-home .story-red {
+  color: #ff171f !important;
+}
+
+body.presda-story-home .story-deck {
+  max-width: 560px;
+  color: rgba(255, 255, 255, 0.78);
+  font-size: clamp(0.8rem, 1.2vw, 1.06rem);
+  line-height: 1.42;
+  text-transform: uppercase;
+}
+
+body.presda-story-home .story-cta {
+  min-width: 190px;
+  min-height: 42px;
+  border-radius: 999px;
+  background: #ff171f !important;
+  box-shadow: 0 18px 44px rgba(255, 23, 31, 0.34) !important;
+}
+
+body.presda-story-home .story-cta::after {
+  content: " +";
+}
+
+body.presda-story-home .story-art,
+body.presda-story-home .vote-collage,
+body.presda-story-home .story-groups-board,
+body.presda-story-home .stadium-pair {
+  width: min(100%, 660px);
+  justify-self: center;
+  border-radius: 32px 32px 32px 86px !important;
+  border: 0;
+  background: transparent !important;
+  box-shadow: 0 34px 90px rgba(0, 0, 0, 0.56), 0 0 22px rgba(179, 249, 255, 0.24) !important;
+}
+
+body.presda-story-home .story-art {
+  aspect-ratio: 1.2 / 0.9;
+  padding: 0;
+}
+
+body.presda-story-home .story-art img {
+  border-radius: inherit !important;
+  object-fit: cover;
+  background: #070707;
+}
+
+body.presda-story-home .story-art::after,
+body.presda-story-home .vote-collage::after,
+body.presda-story-home .story-groups-board::after,
+body.presda-story-home .stadium-pair::after {
+  content: "\203A";
+  position: absolute;
+  top: 50%;
+  right: -34px;
+  width: clamp(48px, 5vw, 76px);
+  height: clamp(72px, 7vw, 104px);
+  display: grid;
+  place-items: center;
+  transform: translateY(-50%);
+  color: #fff;
+  border: 2px solid rgba(213, 255, 255, 0.74);
+  border-left-color: transparent;
+  border-radius: 18px;
+  background: rgba(0, 0, 0, 0.18);
+  box-shadow: 0 0 22px rgba(178, 252, 255, 0.78);
+  font: 300 clamp(3rem, 5vw, 5rem)/1 "Montserrat", sans-serif;
+}
+
+body.presda-story-home .vote-collage {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0;
+  padding: 0;
+  aspect-ratio: 1.8 / 0.75;
+}
+
+body.presda-story-home .vote-collage img {
+  height: 100%;
+  border-radius: 0;
+}
+
+body.presda-story-home .story-groups-board {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  padding: clamp(14px, 2vw, 24px);
+  border: 1px solid rgba(255, 23, 31, 0.22);
+  background: rgba(5, 5, 5, 0.72) !important;
+}
+
+body.presda-story-home .story-groups-board div {
+  min-height: 0;
+  padding: 14px;
+  border-radius: 10px;
+}
+
+body.presda-story-home .stadium-pair {
+  padding: 0;
+  gap: 8px;
+}
+
+body.presda-story-home .stadium-pair figure {
+  min-height: clamp(250px, 31vw, 440px);
+}
+
+body[data-category-page],
+body[data-listing-page] {
+  background: #000 !important;
+}
+
+body[data-category-page] .category-page-hero,
+body[data-listing-page] .category-page-hero {
+  min-height: clamp(220px, 26vw, 360px) !important;
+  margin-top: 0 !important;
+  padding-top: clamp(96px, 9vw, 126px) !important;
+  padding-bottom: clamp(18px, 3vw, 36px) !important;
+}
+
+body[data-category-page] main > .content-section:not(.category-page-hero),
+body[data-listing-page] main > .content-section:not(.category-page-hero) {
+  padding-top: 10px !important;
+}
+
+body[data-category-page] .latest-grid,
+body[data-listing-page] .latest-grid {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  width: 100% !important;
+  gap: clamp(14px, 2vw, 26px);
+}
+
+body[data-category-page] .article-card,
+body[data-listing-page] .article-card {
+  width: 100% !important;
+  max-width: none !important;
+  grid-column: 1 / -1 !important;
+  min-height: clamp(300px, 36vw, 510px);
+  display: grid !important;
+  grid-template-columns: minmax(0, 0.95fr) minmax(320px, 0.82fr);
+  align-items: center;
+  gap: clamp(18px, 3vw, 42px);
+  padding: clamp(18px, 3vw, 38px) !important;
+  border-radius: 0 !important;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 82% 40%, rgba(255, 23, 31, 0.1), transparent 22rem),
+    #000 !important;
+}
+
+body[data-category-page] .article-card::before,
+body[data-listing-page] .article-card::before {
+  opacity: 0.82 !important;
+}
+
+body[data-category-page] .article-card:nth-child(even) figure,
+body[data-listing-page] .article-card:nth-child(even) figure {
+  order: 1;
+}
+
+body[data-category-page] .article-card:nth-child(even) div,
+body[data-listing-page] .article-card:nth-child(even) div {
+  order: 2;
+}
+
+body[data-category-page] .article-card figure,
+body[data-listing-page] .article-card figure {
+  min-height: clamp(230px, 28vw, 410px);
+  border-radius: 30px 30px 30px 82px !important;
+}
+
+body[data-category-page] .article-card h3,
+body[data-listing-page] .article-card h3 {
+  font-family: "Brixton Sans", "Ahsing", "Montserrat", sans-serif !important;
+  font-size: clamp(2.6rem, 5.6vw, 6.8rem) !important;
+  line-height: 0.84 !important;
+  letter-spacing: 0 !important;
+}
+
+body[data-category-page] .article-card p,
+body[data-listing-page] .article-card p {
+  max-width: 560px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 920px) {
+  body.presda-story-home .story-header {
+    grid-template-columns: 92px 1fr 92px;
+    height: 68px;
+    padding: 10px 12px;
+  }
+
+  body.presda-story-home .story-pill,
+  body.presda-story-home .story-login,
+  body.presda-story-home .story-menu-button {
+    min-width: 64px !important;
+    height: 34px !important;
+    padding: 0 12px !important;
+    border-radius: 8px;
+    font-size: 0.72rem;
+  }
+
+  body.presda-story-home .story-mode-toggle {
+    display: none !important;
+  }
+
+  body.presda-story-home .story-category-board,
+  body.presda-story-home .story-slide,
+  body.presda-story-home .story-slide.is-active {
+    min-height: auto;
+    grid-template-columns: 1fr;
+    padding: 78px 16px 42px;
+  }
+
+  body.presda-story-home .story-category-board {
+    padding-top: 86px;
+  }
+
+  body.presda-story-home .story-board-heading {
+    padding-top: 0;
+  }
+
+  body.presda-story-home .story-category-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  body.presda-story-home .story-category-tile {
+    min-height: 164px;
+  }
+
+  body.presda-story-home .story-slide:nth-of-type(even) .story-copy,
+  body.presda-story-home .story-slide:nth-of-type(even) .story-art,
+  body.presda-story-home .story-slide:nth-of-type(even) .vote-collage,
+  body.presda-story-home .story-slide:nth-of-type(even) .story-groups-board,
+  body.presda-story-home .story-slide:nth-of-type(even) .stadium-pair {
+    order: initial;
+  }
+
+  body.presda-story-home .story-copy h1,
+  body.presda-story-home .story-copy h2 {
+    font-size: clamp(2.45rem, 13.5vw, 4.8rem) !important;
+  }
+
+  body.presda-story-home .story-art,
+  body.presda-story-home .vote-collage,
+  body.presda-story-home .story-groups-board,
+  body.presda-story-home .stadium-pair {
+    width: calc(100% - 20px);
+    justify-self: start;
+  }
+
+  body.presda-story-home .story-art::after,
+  body.presda-story-home .vote-collage::after,
+  body.presda-story-home .story-groups-board::after,
+  body.presda-story-home .stadium-pair::after {
+    right: -20px;
+  }
+
+  body[data-category-page] .article-card,
+  body[data-listing-page] .article-card {
+    min-height: auto;
+    grid-template-columns: 1fr;
+    padding: 18px !important;
+  }
+
+  body[data-category-page] .article-card figure,
+  body[data-listing-page] .article-card figure,
+  body[data-category-page] .article-card:nth-child(even) figure,
+  body[data-listing-page] .article-card:nth-child(even) figure,
+  body[data-category-page] .article-card:nth-child(even) div,
+  body[data-listing-page] .article-card:nth-child(even) div {
+    order: initial;
+  }
+
+  body[data-category-page] .article-card h3,
+  body[data-listing-page] .article-card h3 {
+    font-size: clamp(2.25rem, 12vw, 4.3rem) !important;
+  }
+}
