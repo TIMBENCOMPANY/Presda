@@ -36,8 +36,8 @@ export function ArticleBrowser({ articles, initialCategory = "ALL" }: ArticleBro
 
   return (
     <section>
-      <div className="mb-8 grid gap-3 rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] p-4 lg:grid-cols-[1fr_auto_auto]">
-        <label className="relative">
+      <div className="mb-8 grid min-w-0 gap-3 rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] p-3 sm:p-4 lg:grid-cols-[1fr_auto_auto]">
+        <label className="relative min-w-0">
           <Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-[color:var(--muted)]" strokeWidth={1.5} />
           <input
             value={query}
@@ -49,7 +49,7 @@ export function ArticleBrowser({ articles, initialCategory = "ALL" }: ArticleBro
         <select
           value={category}
           onChange={(event) => setCategory(event.target.value as ArticleCategory | "ALL")}
-          className="min-h-12 rounded-lg border border-[color:var(--border)] bg-[color:var(--bg)] px-4 text-sm outline-none transition focus:border-[#FF1A1A]"
+          className="min-h-12 w-full min-w-0 rounded-lg border border-[color:var(--border)] bg-[color:var(--bg)] px-4 text-sm outline-none transition focus:border-[#FF1A1A] lg:w-auto"
           aria-label="Filter by category"
         >
           <option value="ALL">All Categories</option>
@@ -62,7 +62,7 @@ export function ArticleBrowser({ articles, initialCategory = "ALL" }: ArticleBro
         <select
           value={sort}
           onChange={(event) => setSort(event.target.value)}
-          className="min-h-12 rounded-lg border border-[color:var(--border)] bg-[color:var(--bg)] px-4 text-sm outline-none transition focus:border-[#FF1A1A]"
+          className="min-h-12 w-full min-w-0 rounded-lg border border-[color:var(--border)] bg-[color:var(--bg)] px-4 text-sm outline-none transition focus:border-[#FF1A1A] lg:w-auto"
           aria-label="Sort articles"
         >
           <option value="latest">Latest First</option>

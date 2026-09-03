@@ -19,7 +19,7 @@ const config: Config = {
         }
       },
       fontFamily: {
-        display: ["var(--font-orbitron)", "Orbitron", "sans-serif"],
+        display: ["var(--font-article-display)", "var(--font-inter)", "Arial", "sans-serif"],
         body: ["var(--font-inter)", "Inter", "Arial", "sans-serif"]
       },
       boxShadow: {

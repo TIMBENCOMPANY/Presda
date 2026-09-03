@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
-import { Inter, Orbitron } from "next/font/google";
+import { Barlow_Condensed, Inter, Orbitron } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import type { ReactNode } from "react";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
+import { organizationJsonLd } from "@/lib/seo";
 import "./globals.css";
 
 const orbitron = Orbitron({
@@ -15,6 +16,13 @@ const orbitron = Orbitron({
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-inter",
+  display: "swap"
+});
+
+const articleDisplay = Barlow_Condensed({
+  subsets: ["latin"],
+  variable: "--font-article-display",
+  weight: ["600", "700", "800"],
   display: "swap"
 });
 
@@ -53,8 +61,12 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
   return (
-    <html lang="en" className={`${orbitron.variable} ${inter.variable}`} suppressHydrationWarning>
+    <html lang="en" className={`${orbitron.variable} ${inter.variable} ${articleDisplay.variable}`} suppressHydrationWarning>
       <body>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
+        />
         <Header />
         {children}
         <Analytics />

@@ -6,7 +6,7 @@ export function TrendingTicker() {
   return (
     <section className="border-b border-[color:var(--border)] bg-[color:var(--card)]/70">
       <div className="mx-auto grid min-h-14 w-[min(1500px,calc(100%-32px))] grid-cols-[auto_1fr] items-center overflow-hidden">
-        <strong className="mr-5 rounded-lg bg-[#FF1A1A] px-4 py-3 font-display text-xs font-black uppercase tracking-wide text-white">
+        <strong className="mr-5 rounded-lg bg-[#FF1A1A] px-4 py-3 font-display text-xs font-extrabold uppercase tracking-wide text-white">
           Trending
         </strong>
         <div className="overflow-hidden">

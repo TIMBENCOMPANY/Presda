@@ -2,8 +2,9 @@ import {
   Bot,
   BriefcaseBusiness,
   Camera,
-  Gamepad2,
+  FlaskConical,
   Globe2,
+  Plane,
   Sparkles,
   Trophy
 } from "lucide-react";
@@ -24,17 +25,21 @@ export function CategoryIcon({ category, className = "h-6 w-6" }: CategoryIconPr
   switch (category) {
     case "AI":
       return <Bot {...iconProps} />;
-    case "GAMING":
-      return <Gamepad2 {...iconProps} />;
-    case "SPORT":
-      return <Trophy {...iconProps} />;
-    case "BUSINESS":
+    case "Business":
       return <BriefcaseBusiness {...iconProps} />;
-    case "WORLD":
+    case "Sport":
+      return <Trophy {...iconProps} />;
+    case "World":
       return <Globe2 {...iconProps} />;
-    case "PAPARAZZI":
+    case "Paparazzi":
       return <Camera {...iconProps} />;
-    case "LIFESTYLE":
+    case "Lifestyle":
       return <Sparkles {...iconProps} />;
+    case "Travel":
+      return <Plane {...iconProps} />;
+    case "Science":
+      return <FlaskConical {...iconProps} />;
+    case "World Cup 2026":
+      return <Trophy {...iconProps} />;
   }
 }

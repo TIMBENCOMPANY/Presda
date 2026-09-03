@@ -2,14 +2,15 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleLayout } from "@/components/ArticleLayout";
 import { articles, getArticleBySlug, getRelatedArticles } from "@/data/articles";
+import { articleJsonLd, authorJsonLd, faqJsonLd, getArticleFaqs, getArticleLastUpdated } from "@/lib/articleSeo";
+import { toAuthorSlug } from "@/lib/authors";
+import { breadcrumbJsonLd, siteUrl } from "@/lib/seo";
 
 type ArticlePageProps = {
   params: {
     slug: string;
   };
 };
-
-const siteUrl = "https://presda.com";
 
 export function generateStaticParams() {
   return articles.map((article) => ({ slug: article.slug }));
@@ -24,12 +25,16 @@ export function generateMetadata({ params }: ArticlePageProps): Metadata {
     };
   }
 
-  const url = `${siteUrl}/articles/${article.slug}`;
+  const url = `${siteUrl}/articles/${article.slug}/`;
   const image = `${siteUrl}${article.coverImage}`;
+  const authorUrl = `${siteUrl}/authors/${toAuthorSlug(article.author)}/`;
 
   return {
-    title: article.title,
-    description: article.excerpt,
+    title: article.seoTitle ?? article.title,
+    description: article.metaDescription ?? article.excerpt,
+    authors: [{ name: article.author, url: authorUrl }],
+    category: article.category,
+    keywords: article.tags,
     alternates: {
       canonical: url
     },
@@ -40,7 +45,7 @@ export function generateMetadata({ params }: ArticlePageProps): Metadata {
       siteName: "PRESDA",
       type: "article",
       publishedTime: article.date,
-      modifiedTime: article.date,
+      modifiedTime: getArticleLastUpdated(article),
       images: [
         {
           url: image,
@@ -64,40 +69,35 @@ export default function ArticlePage({ params }: ArticlePageProps) {
     notFound();
   }
 
-  const url = `${siteUrl}/articles/${article.slug}`;
-  const image = `${siteUrl}${article.coverImage}`;
-  const related = getRelatedArticles(article);
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "NewsArticle",
-    headline: article.title,
-    description: article.excerpt,
-    image,
-    datePublished: article.date,
-    dateModified: article.date,
-    author: {
-      "@type": "Person",
-      name: article.author
-    },
-    publisher: {
-      "@type": "Organization",
-      name: "PRESDA",
-      logo: {
-        "@type": "ImageObject",
-        url: `${siteUrl}/logo-light.png`
-      }
-    },
-    mainEntityOfPage: {
-      "@type": "WebPage",
-      "@id": url
-    }
-  };
+  const related = getRelatedArticles(article, 5);
+  const faqs = getArticleFaqs(article);
+  const breadcrumbs = breadcrumbJsonLd([
+    { name: "Home", url: "/" },
+    { name: "Articles", url: "/articles/" },
+    { name: article.title, url: `/articles/${article.slug}/` }
+  ]);
 
   return (
     <>
       <script
+        id="article-news-json-ld"
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd(article)) }}
+      />
+      <script
+        id="article-author-json-ld"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(authorJsonLd(article)) }}
+      />
+      <script
+        id="article-faq-json-ld"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd(faqs)) }}
+      />
+      <script
+        id="article-breadcrumb-json-ld"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbs) }}
       />
       <ArticleLayout article={article} relatedArticles={related} />
     </>

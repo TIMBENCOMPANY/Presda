@@ -3,6 +3,7 @@
 import { Menu, Search, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { categories } from "@/data/articles";
 import { categoryLabels, toCategorySlug } from "@/lib/categories";
@@ -10,75 +11,90 @@ import { ThemeToggle } from "@/components/ThemeToggle";
 
 const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/category/ai/", label: "AI" },
-  { href: "/category/business/", label: "Business" },
-  { href: "/category/sport/", label: "Sport" },
+  { href: "/articles/", label: "Articles" },
+  { href: "/trending/", label: "Trending" },
   { href: "/world-cup-2026/", label: "World Cup 2026" },
-  { href: "/category/world/", label: "World" },
-  { href: "/category/paparazzi/", label: "Paparazzi" },
-  { href: "/category/lifestyle/", label: "Lifestyle" },
   { href: "/contact/", label: "Contact" },
   { href: "/newsletter/", label: "Newsletter" }
 ];
 
+const categoryMenuLinks = categories.map((category) => ({
+  href: category === "World Cup 2026" ? "/world-cup-2026/" : `/category/${toCategorySlug(category)}/`,
+  label: categoryLabels[category]
+}));
+
+function isActivePath(pathname: string | null, href: string) {
+  if (!pathname) {
+    return false;
+  }
+
+  return pathname === href || (href !== "/" && pathname.startsWith(href));
+}
+
 export function Header() {
   const [open, setOpen] = useState(false);
+  const pathname = usePathname();
 
   return (
-    <header className="sticky top-0 z-50 border-b border-[color:var(--border)] bg-[color:var(--bg)]/85 backdrop-blur-xl">
-      <nav className="mx-auto grid min-h-20 w-[min(1500px,calc(100%-32px))] grid-cols-[auto_1fr_auto] items-center gap-5">
-        <Link href="/" className="flex flex-col" aria-label="PRESDA home">
-          <Image src="/logo-dark.png" alt="PRESDA official logo for dark mode" width={188} height={58} priority className="theme-logo-dark h-auto w-40 sm:w-44" />
-          <Image src="/logo-light.png" alt="PRESDA official logo for light mode" width={188} height={58} priority className="theme-logo-light h-auto w-40 sm:w-44" />
+    <header className="home-header sticky top-0 z-50 overflow-visible border-b backdrop-blur-xl">
+      <nav className="relative mx-3 grid min-h-[72px] max-w-[1510px] grid-cols-[auto_1fr_auto] items-center sm:mx-6 sm:min-h-[86px] 2xl:mx-auto">
+        <button
+          type="button"
+          onClick={() => setOpen((value) => !value)}
+          className="home-glass-control col-start-1 grid h-11 w-11 place-items-center rounded-full transition sm:h-14 sm:w-14"
+          aria-label={open ? "Close categories menu" : "Open categories menu"}
+          aria-expanded={open}
+          aria-controls="presda-category-menu"
+        >
+          {open ? <X className="h-5 w-5" strokeWidth={1.6} /> : <Menu className="h-5 w-5" strokeWidth={1.6} />}
+        </button>
+
+        <Link href="/" aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-14 w-20 -translate-x-1/2 -translate-y-1/2 place-items-center sm:h-16 sm:w-24">
+          <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-9 w-auto object-contain drop-shadow-[0_0_18px_rgba(255,26,26,0.45)] sm:h-12" />
         </Link>
 
-        <div className="hidden items-center justify-center gap-7 lg:flex">
-          {navLinks.map((link) => (
-            <Link key={link.href} href={link.href} className="font-display text-xs font-black uppercase tracking-wide text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
-              {link.label}
-            </Link>
-          ))}
-        </div>
-
-        <div className="flex items-center justify-end gap-3">
+        <div className="absolute right-0 top-1/2 flex -translate-y-1/2 items-center justify-end gap-1.5 sm:gap-3">
           <Link
-            href="/articles"
-            className="hidden h-11 w-11 place-items-center rounded-full border border-[color:var(--border)] bg-[color:var(--card)] transition hover:border-[#FF1A1A] hover:text-[#FF1A1A] sm:grid"
+            href="/articles/"
+            className="home-glass-control hidden h-11 w-11 place-items-center rounded-full transition min-[460px]:grid sm:h-14 sm:w-14"
             aria-label="Search articles"
           >
-            <Search className="h-5 w-5" strokeWidth={1.5} />
+            <Search className="h-5 w-5 sm:h-6 sm:w-6" strokeWidth={1.5} />
           </Link>
-          <ThemeToggle />
+          <ThemeToggle variant="home" />
           <Link
-            href="/#newsletter"
-            className="hidden rounded-lg bg-[#FF1A1A] px-5 py-3 font-display text-xs font-black uppercase tracking-wide text-white transition hover:bg-red-500 md:inline-flex"
+            href="/contact/"
+            className="hidden rounded-lg border border-[#ff1a1a]/35 bg-gradient-to-b from-[#ff1a1a] to-[#8f0012] px-4 py-3 font-display text-[10px] font-extrabold uppercase tracking-wide text-white shadow-[0_18px_42px_rgba(196,0,25,0.28)] transition hover:brightness-110 min-[540px]:inline-flex sm:px-7 sm:py-4 sm:text-xs"
           >
-            Subscribe
+            Login
           </Link>
-          <button
-            type="button"
-            onClick={() => setOpen((value) => !value)}
-            className="grid h-11 w-11 place-items-center rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] transition hover:border-[#FF1A1A] hover:text-[#FF1A1A] lg:hidden"
-            aria-label="Open menu"
-            aria-expanded={open}
-          >
-            {open ? <X className="h-5 w-5" strokeWidth={1.5} /> : <Menu className="h-5 w-5" strokeWidth={1.5} />}
-          </button>
         </div>
       </nav>
 
       {open ? (
-        <div className="border-t border-[color:var(--border)] bg-[color:var(--bg)] p-4 lg:hidden">
-          <div className="mx-auto grid w-[min(1500px,100%)] gap-2">
-            {navLinks.map((link) => (
-              <Link key={link.href} href={link.href} onClick={() => setOpen(false)} className="rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] px-4 py-4 font-display text-xs font-black uppercase tracking-wide text-[color:var(--muted)]">
-                {link.label}
-              </Link>
-            ))}
-            <div className="mt-2 grid grid-cols-2 gap-2">
-              {categories.map((category) => (
-                <Link key={category} href={`/category/${toCategorySlug(category)}`} onClick={() => setOpen(false)} className="rounded-lg border border-[color:var(--border)] px-4 py-3 text-xs font-bold uppercase text-[color:var(--muted)]">
-                  {categoryLabels[category]}
+        <div id="presda-category-menu" className="absolute left-3 right-3 top-full z-50 pt-3 sm:left-6 sm:right-6">
+          <div className="home-menu-panel mx-auto max-w-[1510px] rounded-2xl p-3 sm:p-4">
+            <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-6">
+              {navLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  onClick={() => setOpen(false)}
+                  className={`home-menu-card rounded-xl px-4 py-3.5 font-display text-[11px] font-extrabold uppercase tracking-wide transition ${isActivePath(pathname, link.href) ? "home-menu-card-active" : ""}`}
+                >
+                  <span>{link.label}</span>
+                </Link>
+              ))}
+            </div>
+            <div className="mt-3 grid gap-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
+              {categoryMenuLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  onClick={() => setOpen(false)}
+                  className={`home-menu-link rounded-xl px-4 py-3 font-display text-[10px] font-extrabold uppercase tracking-wide transition sm:text-[11px] ${isActivePath(pathname, link.href) ? "home-menu-link-active" : ""}`}
+                >
+                  {link.label}
                 </Link>
               ))}
             </div>

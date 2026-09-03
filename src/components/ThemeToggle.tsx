@@ -12,8 +12,12 @@ function getInitialTheme(): Theme {
   return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
 }
 
-export function ThemeToggle() {
+export function ThemeToggle({ variant = "default" }: { variant?: "default" | "home" }) {
   const [theme, setTheme] = useState<Theme>("dark");
+  const className =
+    variant === "home"
+      ? "home-glass-control grid h-11 w-11 place-items-center rounded-full transition sm:h-14 sm:w-14"
+      : "grid h-11 w-11 place-items-center rounded-full border border-[color:var(--border)] bg-[color:var(--card)] text-[color:var(--text)] transition hover:border-[#FF1A1A] hover:text-[#FF1A1A]";
 
   useEffect(() => {
     const initial = getInitialTheme();
@@ -32,7 +36,7 @@ export function ThemeToggle() {
     <button
       type="button"
       onClick={toggleTheme}
-      className="grid h-11 w-11 place-items-center rounded-full border border-[color:var(--border)] bg-[color:var(--card)] text-[color:var(--text)] transition hover:border-[#FF1A1A] hover:text-[#FF1A1A]"
+      className={className}
       aria-label={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
     >
       {theme === "dark" ? <Moon className="h-5 w-5" strokeWidth={1.5} /> : <Sun className="h-5 w-5" strokeWidth={1.5} />}
