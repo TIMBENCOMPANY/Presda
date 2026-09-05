@@ -19,7 +19,9 @@ const featuredSlugs = [
   "the-brands-behind-world-cup-2026",
   "japan-enters-ai-care-era",
   "achraf-hakimi-king-of-africa",
-  "yassine-bounou-africas-safest-hands"
+  "yassine-bounou-africas-safest-hands",
+  "gta6-trailer-culture-shift",
+  "anti-aging-can-we-slow-down-human-aging"
 ];
 
 export default function HomePage() {
