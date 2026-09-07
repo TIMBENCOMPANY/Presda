@@ -387,12 +387,7 @@ function homePage() {
     "@type": "WebSite",
     name: "PRESDA",
     alternateName: "Your Daily Press",
-    url: siteUrl,
-    potentialAction: {
-      "@type": "SearchAction",
-      target: `${siteUrl}/articles/?q={search_term_string}`,
-      "query-input": "required name=search_term_string"
-    }
+    url: siteUrl
   };
 
   return `<!DOCTYPE html>
