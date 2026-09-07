@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { ArticleCard } from "@/components/ArticleCard";
-import { articles } from "@/data/articles";
+import { getPublishedArticles } from "@/data/articles";
 import { createPageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = createPageMetadata({
@@ -11,6 +11,7 @@ export const metadata: Metadata = createPageMetadata({
 });
 
 export default function PresdaEditorialAuthorPage() {
+  const articles = getPublishedArticles();
   const editorialArticles = articles.filter((article) => article.author === "PRESDA Editorial");
 
   return (

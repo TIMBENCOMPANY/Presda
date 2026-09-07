@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleBrowser } from "@/components/ArticleBrowser";
 import { CategoryIcon } from "@/components/CategoryIcon";
-import { articles, categories } from "@/data/articles";
+import { categories, getPublishedArticles } from "@/data/articles";
 import {
   categoryDescriptions,
   categoryLabels,
@@ -64,6 +64,8 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   if (!category) {
     notFound();
   }
+
+  const articles = getPublishedArticles();
 
   return (
     <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-8 sm:w-[min(1500px,calc(100%-32px))] sm:py-12">

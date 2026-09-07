@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
-import { articles, categories } from "@/data/articles";
+import { categories, getPublishedArticles } from "@/data/articles";
 import { getArticleLastUpdated } from "@/lib/articleSeo";
+import { getArticleCanonicalUrl } from "@/lib/articleValidation";
 import { getAuthorProfiles } from "@/lib/authors";
 import { toCategorySlug } from "@/lib/categories";
 import { siteUrl } from "@/lib/seo";
@@ -30,8 +31,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: route === "/" || route === "/articles/" || route === "/trending/" ? "daily" as const : "monthly" as const,
       priority: route === "/" ? 1 : route === "/articles/" || route === "/trending/" ? 0.85 : 0.65
     })),
-    ...articles.map((article) => ({
-      url: `${siteUrl}/articles/${article.slug}/`,
+    ...getPublishedArticles().map((article) => ({
+      url: getArticleCanonicalUrl(article.slug),
       lastModified: new Date(getArticleLastUpdated(article)),
       changeFrequency: "weekly" as const,
       priority: 0.8

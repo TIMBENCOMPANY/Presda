@@ -1,4 +1,4 @@
-import { articles } from "@/data/articles";
+import { getPublishedArticles } from "@/data/articles";
 
 export type AuthorProfile = {
   name: string;
@@ -16,6 +16,7 @@ export function toAuthorSlug(name: string) {
 }
 
 export function getAuthorProfiles(): AuthorProfile[] {
+  const articles = getPublishedArticles();
   const names = Array.from(new Set(articles.map((article) => article.author))).sort();
 
   return names.map((name) => ({

@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleLayout } from "@/components/ArticleLayout";
-import { articles, getArticleBySlug, getRelatedArticles } from "@/data/articles";
+import { getArticleBySlug, getPublishedArticles, getRelatedArticles } from "@/data/articles";
 import { articleJsonLd, authorJsonLd, faqJsonLd, getArticleFaqs, getArticleLastUpdated } from "@/lib/articleSeo";
 import { toAuthorSlug } from "@/lib/authors";
+import { getArticleCanonicalUrl } from "@/lib/articleValidation";
 import { breadcrumbJsonLd, siteUrl } from "@/lib/seo";
 
 type ArticlePageProps = {
@@ -13,7 +14,7 @@ type ArticlePageProps = {
 };
 
 export function generateStaticParams() {
-  return articles.map((article) => ({ slug: article.slug }));
+  return getPublishedArticles().map((article) => ({ slug: article.slug }));
 }
 
 export function generateMetadata({ params }: ArticlePageProps): Metadata {
@@ -25,7 +26,7 @@ export function generateMetadata({ params }: ArticlePageProps): Metadata {
     };
   }
 
-  const url = `${siteUrl}/articles/${article.slug}/`;
+  const url = getArticleCanonicalUrl(article.slug);
   const image = `${siteUrl}${article.coverImage}`;
   const authorUrl = `${siteUrl}/authors/${toAuthorSlug(article.author)}/`;
 

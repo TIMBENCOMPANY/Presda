@@ -1,3 +1,5 @@
+import { isPublishedArticle, validatePublishedArticles } from "@/lib/articleValidation";
+
 export type ArticleCategory =
   | "Travel"
   | "Business"
@@ -40,6 +42,8 @@ export type Article = {
   tags: string[];
   readingTime?: string;
   lastUpdated?: string;
+  status?: "published" | "draft";
+  draft?: boolean;
   faq?: Array<{
     question: string;
     answer: string;
@@ -47,6 +51,575 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  {
+    id: "030",
+    slug: "why-do-we-dream",
+    title: "Why Do We Dream? The Science Behind the Sleeping Mind",
+    seoTitle: "Why Do We Dream? What Science Knows About Dreams",
+    metaDescription:
+      "Why do we dream? Explore what neuroscience knows about dreams, REM sleep, memory, emotions, nightmares and the theories behind the dreaming mind.",
+    headlineHighlights: {
+      red: "Dream",
+      gold: "Sleeping Mind"
+    },
+    excerpt:
+      "Why do we dream? Explore what neuroscience knows about dreams, REM sleep, memory, emotions, nightmares and the theories behind the dreaming mind.",
+    category: "Science",
+    date: "2026-09-07",
+    lastUpdated: "2026-09-07",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/why-do-we-dream.jpg",
+    coverAlt: "Sleeping person with a glowing brain visualization showing REM sleep and dream science",
+    homepageImagePosition: "50% 46%",
+    content: [
+      "Every night, the human brain creates worlds that do not exist.",
+      "We see people who may be thousands of kilometers away. We return to places from childhood. We run, fall, fly, argue, escape and sometimes experience events that would be impossible while awake.",
+      "Then we wake up, and much of it disappears within minutes.",
+      "Dreaming is one of the most familiar yet mysterious experiences of human life. Science can now observe what happens in the sleeping brain with remarkable detail, but one fundamental question remains surprisingly difficult: why do we dream?",
+      "For more PRESDA science coverage, read our guides to [anti-aging and longevity science](/articles/anti-aging-can-we-slow-down-human-aging/) and [whether zodiac signs are scientifically proven](/articles/are-zodiac-signs-real-science-has-a-different-answer/).",
+      "## What Is A Dream?",
+      "A dream is a sequence of thoughts, images, emotions and sensations experienced during sleep.",
+      "Dreams can occur during different stages of sleep, but vivid and elaborate dreaming is strongly associated with rapid eye movement, or REM, sleep.",
+      "During a normal night, the brain cycles repeatedly through REM and non-REM sleep.",
+      "These stages are not periods in which the brain simply switches off. Sleep involves complex and changing patterns of brain activity.",
+      "## What Happens During REM Sleep?",
+      "REM sleep is named after the rapid movements of the eyes that occur during this stage.",
+      "Brain activity becomes relatively intense, while most skeletal muscles are temporarily inhibited, a mechanism known as REM atonia.",
+      "This helps prevent people from physically acting out most dreams.",
+      "REM periods generally become longer later in the night, which is one reason vivid dreams are often remembered when a person wakes in the morning.",
+      "But REM sleep and dreaming are not identical. Research shows that dreams can also occur during non-REM sleep.",
+      "## So Why Do We Dream?",
+      "There is no single scientifically proven explanation.",
+      "Instead, researchers have developed several overlapping theories.",
+      "Dreaming may not have one purpose at all. It could emerge from multiple processes occurring while the brain sleeps.",
+      "Among the most studied possibilities are memory processing, emotional regulation, simulation and the brain's attempt to organize internally generated activity.",
+      "## Dreams And Memory",
+      "Sleep plays an important role in memory.",
+      "During sleep, the brain processes information acquired during waking life and contributes to the consolidation and reorganization of memories.",
+      "Dreams frequently contain fragments of recent experiences mixed with older memories.",
+      "But dreams are rarely perfect replays.",
+      "A person from yesterday might appear inside a childhood home. A recent conversation may combine with an event from years earlier.",
+      "This strange mixture may reflect the sleeping brain reactivating and reorganizing information rather than deliberately producing a coherent story.",
+      "Scientists continue to investigate whether dreaming itself performs an essential memory function or whether dreams are partly a subjective experience accompanying broader memory processes during sleep.",
+      "## Dreams And Emotion",
+      "Dreams can be intensely emotional.",
+      "Fear, anxiety, happiness, embarrassment and grief may feel completely real while dreaming.",
+      "Brain regions involved in emotion and memory remain active during sleep, leading researchers to investigate whether dreaming contributes to emotional processing.",
+      "Experiences from waking life can reappear in altered forms during dreams, particularly when they carry emotional importance.",
+      "However, the idea that every dream contains a hidden psychological message is not established scientific fact.",
+      "## Why Are Dreams So Strange?",
+      "While dreaming, the brain does not operate exactly as it does during waking consciousness.",
+      "Areas and networks involved in emotion, imagery and memory can be highly active, while aspects of executive control and critical reasoning function differently.",
+      "That may help explain one of the strangest features of dreams: we often accept impossible events without questioning them.",
+      "A dead relative may suddenly be alive.",
+      "A city may transform into a school.",
+      "One moment we are at home, and seconds later we are in another country.",
+      "The dreaming brain can build a convincing reality without obeying the normal rules of waking life.",
+      "## Why Do We Forget Dreams?",
+      "People dream far more than they remember.",
+      "Dream memories can disappear extremely quickly after waking.",
+      "One reason may be that the neurochemical and cognitive conditions involved in forming durable memories differ during sleep.",
+      "Waking during or close to a dream also increases the chance of remembering it.",
+      "This is why someone may vividly remember a dream immediately after opening their eyes but struggle to reconstruct it later that morning.",
+      "## What Causes Nightmares?",
+      "Nightmares are vivid disturbing dreams associated with emotions such as fear, anxiety or distress.",
+      "Occasional nightmares are common.",
+      "Stress, traumatic experiences, sleep disruption and some medications can influence nightmare frequency.",
+      "Recurrent severe nightmares can also occur alongside certain sleep or mental-health conditions and may require professional assessment.",
+      "Researchers have studied nightmares particularly closely in relation to post-traumatic stress disorder, where distressing dreams can become persistent.",
+      "## What Are Lucid Dreams?",
+      "Sometimes a person realizes that they are dreaming while the dream is still happening.",
+      "This is known as lucid dreaming.",
+      "In some lucid dreams, people can influence parts of the experience.",
+      "Laboratory experiments have provided evidence that some lucid dreamers can communicate with researchers during REM sleep using predetermined eye movements and, in certain experiments, respond to simple questions while remaining asleep.",
+      "Lucid dreaming therefore provides scientists with an unusual window into consciousness during sleep.",
+      "## Can Dreams Predict The Future?",
+      "There is no reliable scientific evidence that dreams can predict future events through paranormal means.",
+      "Humans experience enormous numbers of dreams, most of which are forgotten.",
+      "Occasionally, a later event may resemble something from a remembered dream.",
+      "Coincidence, selective memory and the human tendency to notice meaningful patterns can make such experiences feel extraordinary.",
+      "That does not demonstrate that information traveled from the future into a sleeping brain.",
+      "## Freud And The Meaning Of Dreams",
+      "Sigmund Freud helped make dreams a major subject of popular psychology.",
+      "In The Interpretation of Dreams, published around the turn of the 20th century, Freud proposed that dreams could reveal disguised wishes and unconscious conflicts.",
+      "His ideas had enormous cultural influence.",
+      "Modern neuroscience, however, does not treat Freud's universal dream interpretations as established scientific explanations.",
+      "Dream research today relies increasingly on sleep laboratories, neuroimaging, electrophysiology, cognitive experiments and clinical studies.",
+      "## The Mystery Is Not Solved",
+      "Science has learned an extraordinary amount about sleep.",
+      "Researchers can identify sleep stages, measure brain activity, study memory consolidation and even interact experimentally with some lucid dreamers.",
+      "Yet the ultimate function of dreaming remains debated.",
+      "Dreams may participate in memory processing.",
+      "They may interact with emotional regulation.",
+      "They may simulate experiences.",
+      "Or they may partly emerge as the conscious experience of a brain performing several processes simultaneously during sleep.",
+      "The answer may eventually turn out to be a combination of these ideas.",
+      "Every night, billions of human brains disconnect from the external world and begin generating experiences of their own.",
+      "We understand more about that process than ever before.",
+      "But the simple question, why do we dream, remains one of neuroscience's most fascinating mysteries."
+    ],
+    references: [
+      {
+        name: "NIH / NINDS: Brain Basics, Understanding Sleep",
+        url: "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep"
+      },
+      {
+        name: "PubMed Central: Sleep and memory consolidation",
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3768102/"
+      },
+      {
+        name: "PubMed Central: Dreaming and the brain",
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2814941/"
+      },
+      {
+        name: "Current Biology / PubMed Central: Real-time dialogue between experimenters and dreamers",
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/"
+      },
+      {
+        name: "Sleep Foundation: Dreams",
+        url: "https://www.sleepfoundation.org/dreams"
+      },
+      {
+        name: "Sleep Foundation: Nightmares",
+        url: "https://www.sleepfoundation.org/nightmares"
+      }
+    ],
+    tags: [
+      "why do we dream",
+      "why we dream",
+      "science of dreams",
+      "REM sleep",
+      "what causes dreams",
+      "dreams and memory",
+      "nightmares",
+      "lucid dreams",
+      "sleep science"
+    ],
+    readingTime: "7 min read",
+    faq: [
+      {
+        question: "Why do we dream?",
+        answer:
+          "There is no single proven answer. Scientists study several overlapping ideas, including memory processing, emotional regulation, simulation and the brain's organization of internally generated activity during sleep."
+      },
+      {
+        question: "Do dreams only happen during REM sleep?",
+        answer:
+          "No. Vivid and elaborate dreams are strongly associated with REM sleep, but research shows that dreaming can also occur during non-REM sleep."
+      },
+      {
+        question: "Why do we forget dreams so quickly?",
+        answer:
+          "Dream memories may fade quickly because sleep has different neurochemical and cognitive conditions from waking memory formation. Waking during or near a dream makes recall more likely."
+      },
+      {
+        question: "Are nightmares normal?",
+        answer:
+          "Occasional nightmares are common. Recurrent or highly distressing nightmares can be linked to stress, trauma, disrupted sleep or health conditions and may require professional assessment."
+      },
+      {
+        question: "What is lucid dreaming?",
+        answer:
+          "Lucid dreaming happens when a person realizes they are dreaming while the dream is still taking place. Some laboratory studies have shown communication with lucid dreamers during REM sleep."
+      },
+      {
+        question: "Can dreams predict the future?",
+        answer:
+          "There is no reliable scientific evidence that dreams predict future events through paranormal means. Coincidence, selective memory and pattern recognition can make some dreams feel predictive."
+      }
+    ]
+  },
+  {
+    id: "029",
+    slug: "saad-lamjarred-french-court-cases",
+    title: "Saad Lamjarred and the French Courts: The Cases Explained",
+    seoTitle: "Saad Lamjarred Court Cases in France: What Happened?",
+    metaDescription:
+      "A factual timeline of Saad Lamjarred's major French court cases, the 2023 Paris conviction, the 2026 Saint-Tropez case, his appeals and current legal status.",
+    headlineHighlights: {
+      red: "Saad Lamjarred",
+      gold: "French Courts"
+    },
+    excerpt:
+      "A factual timeline of Saad Lamjarred's major French court cases, the 2023 Paris conviction, the 2026 Saint-Tropez case, his appeals and current legal status.",
+    category: "Paparazzi",
+    date: "2026-09-07",
+    lastUpdated: "2026-09-07",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/saad-lamjarred-french-court-cases.jpg",
+    coverAlt: "Saad Lamjarred outside a Paris courthouse during French legal proceedings",
+    homepageImagePosition: "50% 38%",
+    content: [
+      "Saad Lamjarred is one of Morocco's most internationally known pop singers, but during the past decade his career has also been closely followed because of several serious legal cases in France.",
+      "The legal history can be confusing because it involves separate allegations, different courts and ongoing appeals.",
+      "This is what the French court record and major court reporting show. For related PRESDA coverage of public figures under intense media attention, read our [Paparazzi coverage](/category/paparazzi/) and our factual profile of [Katy Perry and Justin Trudeau](/articles/katy-perry-and-justin-trudeau-spark-global-speculation/).",
+      "## The 2016 Paris Case",
+      "The first major French case began in October 2016.",
+      "A French woman, Laura P., accused Lamjarred of raping and assaulting her after they met at a nightclub in Paris and later went to a hotel.",
+      "Lamjarred denied the accusations.",
+      "After years of investigation and legal proceedings, the case eventually reached the Paris Assize Court.",
+      "## The 2023 Paris Verdict",
+      "On February 24, 2023, the Paris Assize Court found Lamjarred guilty of rape and violence in connection with the 2016 incident.",
+      "He was sentenced to six years in prison.",
+      "The court issued an immediate detention order.",
+      "Lamjarred continued to deny the allegations and appealed the verdict shortly afterward.",
+      "Because of the appeal, the case entered a new stage of proceedings rather than ending with the first verdict.",
+      "## Release Pending Appeal",
+      "In April 2023, a Paris appeals court granted Lamjarred release under judicial supervision while he waited for his appeal trial.",
+      "His 2023 conviction was not erased by that decision.",
+      "It remained the first-instance judgment while the appeal process continued.",
+      "As of September 2026, available reporting indicated that the appeal trial in the Paris case was still pending.",
+      "## The Separate Saint-Tropez Case",
+      "Lamjarred also faced a separate case involving events in Saint-Tropez in August 2018.",
+      "A woman said she had met him at a nightclub and later went with him to his hotel.",
+      "She accused him of rape.",
+      "Lamjarred maintained that the sexual encounter was consensual.",
+      "The case proceeded separately from the Paris case.",
+      "## The 2026 Draguignan Verdict",
+      "On May 15, 2026, the Assize Court in Draguignan convicted Lamjarred of rape in the Saint-Tropez case and sentenced him to five years in prison.",
+      "The prosecution had requested a ten-year sentence.",
+      "The court also ordered him to pay EUR30,000 in damages and EUR5,000 in legal costs to the complainant, according to French court reporting.",
+      "Lamjarred had appeared at the trial as a free man.",
+      "The court did not issue an immediate detention warrant after the verdict, according to reports of the judgment.",
+      "## Lamjarred Appeals Again",
+      "Lamjarred appealed the five-year sentence on May 21, 2026.",
+      "That means the Saint-Tropez case also remains subject to further judicial proceedings.",
+      "He continues to deny committing rape.",
+      "## Two Separate French Cases",
+      "The most important point is that the Paris and Saint-Tropez cases are separate.",
+      "Paris: alleged events in October 2016, verdict in February 2023, six-year sentence, Lamjarred appealed, and appeal proceedings remained pending in 2026.",
+      "Saint-Tropez: alleged events in August 2018, verdict on May 15, 2026, five-year sentence, and Lamjarred appealed on May 21, 2026.",
+      "An appeal means a judgment can be reviewed by another court. It should not be described as an acquittal or as a final confirmation unless a later court has actually issued such a decision.",
+      "## The 2026 Extortion Case",
+      "A separate legal development also emerged around the Paris case.",
+      "In April 2026, a Paris criminal court convicted five people in connection with an attempted EUR3 million extortion scheme targeting Lamjarred.",
+      "Laura P., the complainant in the 2016 rape case, was acquitted in that separate extortion proceeding.",
+      "That case does not itself cancel or overturn Lamjarred's 2023 conviction.",
+      "The rape appeal and the extortion case are legally distinct proceedings.",
+      "## Where The Cases Stand",
+      "As of September 2026, the clearest description is this: Saad Lamjarred has been convicted in two separate French rape cases at trial-court level.",
+      "He has appealed both judgments.",
+      "The 2023 Paris conviction carried a six-year sentence.",
+      "The 2026 Saint-Tropez conviction carried a five-year sentence.",
+      "Because appeals remain part of the judicial process, PRESDA should not describe either case as finally resolved unless a later authoritative court decision confirms that status.",
+      "The cases remain among the most closely watched legal controversies involving a major Arab music star."
+    ],
+    references: [
+      {
+        name: "Associated Press: Moroccan singer Saad Lamjarred convicted in Paris rape case",
+        url: "https://apnews.com/article/bc0974916d25a3035acbe2c2f8dd2afa"
+      },
+      {
+        name: "Le Parisien: Saad Lamjarred appeals his 2023 conviction",
+        url: "https://www.leparisien.fr/faits-divers/le-chanteur-marocain-saad-lamjarred-fait-appel-de-sa-condamnation-pour-viol-28-02-2023-WLH75CG3AZFBTIIPBQSLWX4BPE.php"
+      },
+      {
+        name: "Le Parisien: Saad Lamjarred released pending appeal",
+        url: "https://www.leparisien.fr/faits-divers/accuse-de-viol-le-chanteur-saad-lamjarred-remis-en-liberte-avant-son-proces-en-appel-21-04-2023-GYWFEB5XTNEJNDQJPTCLS2V2ZQ.php"
+      },
+      {
+        name: "TF1 Info: Saint-Tropez case and 2026 Draguignan verdict",
+        url: "https://www.tf1info.fr/justice-faits-divers/saint-tropez-le-chanteur-marocain-saad-lamjarred-condamne-a-5-ans-de-prison-pour-un-viol-en-2018-2441781.html"
+      },
+      {
+        name: "RTL: Saad Lamjarred sentenced to five years in Saint-Tropez case",
+        url: "https://www.rtl.fr/actu/justice-faits-divers/le-chanteur-marocain-saad-lamjarred-condamne-a-5-ans-de-prison-pour-le-viol-d-une-femme-en-2018-7900635398"
+      }
+    ],
+    tags: [
+      "Saad Lamjarred court case",
+      "Saad Lamjarred France",
+      "Saad Lamjarred trial",
+      "Saad Lamjarred Paris case",
+      "Saad Lamjarred Saint-Tropez",
+      "Saad Lamjarred appeal",
+      "Paparazzi"
+    ],
+    readingTime: "5 min read",
+    faq: [
+      {
+        question: "What was the 2023 Saad Lamjarred verdict in Paris?",
+        answer:
+          "In February 2023, the Paris Assize Court found Saad Lamjarred guilty of rape and violence in connection with the 2016 Paris case and sentenced him to six years in prison. He appealed the verdict."
+      },
+      {
+        question: "What is the Saint-Tropez case?",
+        answer:
+          "The Saint-Tropez case is a separate French case involving alleged events in August 2018. In May 2026, a court in Draguignan convicted Lamjarred and sentenced him to five years in prison. He appealed."
+      },
+      {
+        question: "Are the Paris and Saint-Tropez cases the same case?",
+        answer:
+          "No. They are separate proceedings involving different alleged events, different dates and separate court judgments."
+      },
+      {
+        question: "Did Saad Lamjarred appeal the French verdicts?",
+        answer:
+          "Yes. He appealed the 2023 Paris conviction and also appealed the 2026 Saint-Tropez conviction."
+      },
+      {
+        question: "Does an appeal mean Saad Lamjarred was acquitted?",
+        answer:
+          "No. An appeal means a judgment can be reviewed by another court. It should not be described as an acquittal unless a court later issues that decision."
+      },
+      {
+        question: "What was the 2026 extortion case?",
+        answer:
+          "French reporting described a separate attempted extortion case linked to the Paris matter. Five people were convicted, while Laura P. was acquitted in that separate proceeding. It did not overturn the rape conviction."
+      }
+    ]
+  },
+  {
+    id: "028",
+    slug: "avicii-life-music-death-tim-bergling",
+    title: "Avicii: The Life, Music and Tragic Death of an EDM Legend",
+    seoTitle: "Avicii: Life, Music, Death and the Story of Tim Bergling",
+    metaDescription:
+      "The story of Avicii: from Levels and Wake Me Up to Tim Bergling's struggles with touring and health, his death in Oman at 28, and the legacy he left behind.",
+    headlineHighlights: {
+      red: "Avicii",
+      gold: "Tim Bergling"
+    },
+    excerpt:
+      "The story of Avicii: from Levels and Wake Me Up to Tim Bergling's struggles with touring and health, his death in Oman at 28, and the legacy he left behind.",
+    category: "Paparazzi",
+    date: "2026-09-07",
+    lastUpdated: "2026-09-07",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/avicii-life-music-death-tim-bergling.jpg",
+    coverAlt: "Avicii performing at dusk before festival lights and a large crowd",
+    homepageImagePosition: "42% 38%",
+    content: [
+      "Avicii became one of the defining artists of electronic dance music, turning festival sounds into songs heard around the world. Behind the global success, however, was Tim Bergling, a young Swedish musician whose rapid rise to fame came with intense pressure, health problems and a growing discomfort with life on tour.",
+      "The Avicii story is not only about hit songs. It is about how modern fame can amplify talent, pressure and vulnerability at the same time. For more PRESDA coverage of fame and public life, read our profiles of [Keanu Reeves and kindness](/articles/keanu-reeves-kindness-powerful/) and [David Beckham's interests beyond football](/articles/david-beckhams-unexpected-passion-beyond-football/).",
+      "## From Tim Bergling To Avicii",
+      "Tim Bergling was born in Stockholm, Sweden, in 1989. He began producing music as a teenager and gradually attracted attention online before breaking into the international electronic music scene.",
+      "Early releases including Seek Bromance helped establish him, but his breakthrough reached another level with Levels.",
+      "Released in 2011, the track became one of the defining EDM records of its era and transformed Avicii into an international star.",
+      "## Wake Me Up Changed The Formula",
+      "Avicii was willing to move beyond the conventions of electronic music.",
+      "His 2013 album True blended electronic production with influences from folk, country and pop.",
+      "Its biggest song, Wake Me Up, featuring vocals from Aloe Blacc, became a worldwide hit.",
+      "The combination initially surprised parts of the EDM audience, but ultimately helped expand the possibilities of mainstream dance music.",
+      "## The Cost Of Constant Touring",
+      "Behind the success, Bergling experienced serious health problems.",
+      "Years of intense touring, stress and lifestyle pressures took a physical and emotional toll.",
+      "He suffered from acute pancreatitis and underwent surgery in 2014 to remove his gallbladder and appendix, according to widely reported contemporary accounts.",
+      "By 2016, he had decided to stop touring.",
+      "The decision did not mean that Avicii had abandoned music. He continued producing and released the EP AVICI (01) in 2017.",
+      "But stepping away from live performances showed how unsustainable his previous schedule had become.",
+      "## His Final Days In Oman",
+      "In April 2018, Bergling was visiting Oman.",
+      "On April 20, he was found dead in Muscat. He was 28 years old.",
+      "His death shocked the music industry and millions of fans around the world.",
+      "His family later released a statement describing a deeply sensitive person who struggled with questions about meaning, happiness and life.",
+      "Subsequent authoritative accounts identified his death as suicide. PRESDA is not including graphic details because the public significance of the story is about mental health, pressure and the human cost that can sit behind extraordinary success.",
+      "The tragedy also intensified discussion about mental health, pressure and burnout within the entertainment industry.",
+      "## The Music He Left Behind",
+      "Avicii had already created an extraordinary catalogue before his death.",
+      "Songs such as Levels, Wake Me Up, Hey Brother, The Nights and Waiting for Love became closely associated with a generation that experienced EDM's explosion into mainstream culture.",
+      "His music often combined uplifting melodies with lyrics about life, youth, uncertainty and making the most of limited time.",
+      "After his death, collaborators completed music Bergling had been working on.",
+      "The posthumous album TIM was released in 2019.",
+      "## The Tim Bergling Foundation",
+      "His family later established the Tim Bergling Foundation in his memory.",
+      "Its work has included mental-health and suicide-prevention initiatives, particularly involving young people.",
+      "His name has also remained visible in Sweden through projects including Avicii Arena and the Avicii Experience in Stockholm.",
+      "## More Than An EDM Star",
+      "Avicii helped transform electronic dance music from a club and festival phenomenon into a central part of global pop culture.",
+      "But his story also represents the human cost that can exist behind extraordinary success.",
+      "Tim Bergling achieved worldwide fame before turning 30, yet fame did not protect him from physical illness, pressure or emotional suffering.",
+      "His career was short.",
+      "His influence was not.",
+      "Years after his death, Avicii's melodies continue to fill festivals, playlists and stadiums around the world, while the story of the person behind them remains an important reminder that success and wellbeing are not the same thing."
+    ],
+    references: [
+      {
+        name: "Avicii official site",
+        url: "https://avicii.com/"
+      },
+      {
+        name: "Tim Bergling Foundation",
+        url: "https://www.timberglingfoundation.org/"
+      },
+      {
+        name: "Associated Press: Autopsies show nothing suspicious in Avicii's death",
+        url: "https://apnews.com/general-news-music-120e2fbc9a0b45b0ad379a1667a2d1f5"
+      },
+      {
+        name: "BBC: Avicii death and family statement coverage",
+        url: "https://www.bbc.com/news/world-europe-43841194"
+      },
+      {
+        name: "Billboard: Avicii health and touring timeline",
+        url: "https://www.billboard.com/music/music-news/avicii-health-timeline-8347781/"
+      },
+      {
+        name: "Billboard: Avicii posthumous album TIM",
+        url: "https://www.billboard.com/music/music-news/posthumous-avicii-album-tim-8505809/"
+      }
+    ],
+    tags: [
+      "Avicii",
+      "Avicii death",
+      "Tim Bergling",
+      "Avicii Oman",
+      "Avicii Muscat",
+      "Avicii cause of death",
+      "Avicii songs",
+      "Avicii retirement",
+      "Tim Bergling Foundation",
+      "EDM"
+    ],
+    readingTime: "5 min read",
+    faq: [
+      {
+        question: "Who was Avicii?",
+        answer:
+          "Avicii was the stage name of Tim Bergling, a Swedish electronic music producer and DJ who became one of the defining artists of the global EDM era."
+      },
+      {
+        question: "When did Avicii die?",
+        answer:
+          "Avicii died on April 20, 2018, in Muscat, Oman. He was 28 years old."
+      },
+      {
+        question: "What was Avicii's cause of death?",
+        answer:
+          "Authoritative subsequent accounts identified his death as suicide. PRESDA avoids graphic details and focuses on the verified facts, his life, his music and the mental-health conversation that followed."
+      },
+      {
+        question: "Why did Avicii stop touring?",
+        answer:
+          "Avicii stopped touring in 2016 after years of intense travel, stress and health problems. He continued making music after stepping away from live performances."
+      },
+      {
+        question: "What are Avicii's most famous songs?",
+        answer:
+          "His best-known songs include Levels, Wake Me Up, Hey Brother, The Nights and Waiting for Love."
+      },
+      {
+        question: "What is the Tim Bergling Foundation?",
+        answer:
+          "The Tim Bergling Foundation was established by his family after his death and supports mental-health and suicide-prevention work, especially for young people."
+      }
+    ]
+  },
+  {
+    id: "027",
+    slug: "galileo-and-the-church",
+    title: "Galileo and the Church: The Trial That Changed Science",
+    seoTitle: "Galileo and the Church: Why Was He Accused of Heresy?",
+    metaDescription:
+      "The true story of Galileo Galilei's conflict with the Catholic Church, his 1633 trial, heliocentrism, house arrest, and the Church's later reassessment.",
+    headlineHighlights: {
+      red: "Galileo",
+      gold: "The Church"
+    },
+    excerpt:
+      "The true story of Galileo Galilei's conflict with the Catholic Church, his 1633 trial, heliocentrism, house arrest, and the Church's later reassessment.",
+    category: "Science",
+    date: "2026-09-07",
+    lastUpdated: "2026-09-07",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/galileo-and-the-church.jpg",
+    coverAlt: "Galileo Galilei before the Roman Inquisition during his 1633 trial over heliocentrism",
+    homepageImagePosition: "46% 38%",
+    content: [
+      "Galileo Galilei is remembered as one of the central figures of the Scientific Revolution. But his observations of the heavens eventually placed him at the center of one of history's most famous conflicts between scientific inquiry, religious authority and the interpretation of evidence.",
+      "The Galileo and the Church story still matters because it shows how evidence, institutions and inherited worldviews can collide. For more PRESDA science context, read our guides to [Jebel Irhoud and human origins](/articles/we-are-all-moroccans-jebel-irhoud/) and [whether zodiac signs are scientifically proven](/articles/are-zodiac-signs-real-science-has-a-different-answer/).",
+      "## A Universe With Earth At The Center",
+      "For centuries, European astronomy was dominated by a geocentric model in which Earth remained stationary while the heavens moved around it.",
+      "Nicolaus Copernicus challenged that picture in the 16th century by proposing a heliocentric system in which Earth and the other planets orbit the Sun.",
+      "Galileo did not invent heliocentrism, but his astronomical observations gave powerful support to a universe that could not easily be explained by the traditional model.",
+      "## What Galileo Saw",
+      "Using improved telescopes beginning in 1609, Galileo observed mountains and irregularities on the Moon, moons orbiting Jupiter, the phases of Venus and other phenomena that challenged traditional ideas about the heavens.",
+      "The moons of Jupiter were particularly important: they demonstrated that not every celestial object revolved around Earth.",
+      "## The Church And Heliocentrism",
+      "The controversy was more complicated than a simple battle between science and religion.",
+      "Some biblical passages were commonly interpreted at the time as consistent with a stationary Earth. Galileo argued that Scripture and the study of nature should not be treated as contradictory when biblical language was being interpreted outside its intended purpose.",
+      "In 1616, Church authorities rejected the physical interpretation of Copernican heliocentrism and Galileo was warned against defending it as established reality.",
+      "## The Book That Triggered The Trial",
+      "In 1632 Galileo published Dialogue Concerning the Two Chief World Systems.",
+      "The book compared the traditional Ptolemaic system with the Copernican system and, despite its dialogue format, strongly favored the latter.",
+      "The Inquisition subsequently ordered Galileo to Rome.",
+      "## The Trial Of 1633",
+      "Galileo appeared before the Roman Inquisition in 1633.",
+      "The central issue was not simply that he had discussed astronomy. Authorities believed he had defended the motion of Earth after the earlier restrictions placed on Copernican teaching.",
+      "On June 22, 1633, Galileo was found vehemently suspect of heresy.",
+      "He was required to formally renounce the condemned propositions.",
+      "His sentence of imprisonment was commuted to house arrest, under which he spent the remainder of his life.",
+      "## Did Galileo Say And Yet It Moves?",
+      "One of the most famous stories claims that after renouncing heliocentrism Galileo whispered: And yet it moves.",
+      "The phrase became a symbol of scientific resistance to authority.",
+      "However, historians do not have reliable contemporary evidence that Galileo actually said it. Treat it as a later legend, not established fact.",
+      "## Science Continued Under House Arrest",
+      "The trial did not end Galileo's intellectual work.",
+      "While under house arrest he completed Discourses and Mathematical Demonstrations Relating to Two New Sciences, published in 1638.",
+      "The work examined motion and mechanics and became an important contribution to the development of modern physics.",
+      "Galileo died in 1642.",
+      "## What Happened Centuries Later?",
+      "The Church's treatment of Galileo was reassessed over time.",
+      "In 1992 Pope John Paul II addressed the Galileo case after years of study by a papal commission.",
+      "He acknowledged errors surrounding the historical controversy and discussed how theologians of Galileo's era had failed to adequately distinguish questions of physical science from particular interpretations of Scripture.",
+      "The episode had become one of history's most enduring examples of what can happen when institutions treat questions about the natural world as already settled.",
+      "## The Trial That Changed Science",
+      "Galileo's story is more complicated than the popular image of one scientist fighting an entire religion.",
+      "It involved science, theology, institutional authority, personalities, politics and the standards of evidence available in the 17th century.",
+      "But its legacy remains powerful.",
+      "Scientific claims ultimately have to survive observation, measurement and evidence.",
+      "Authority can delay an idea.",
+      "It cannot determine how nature works."
+    ],
+    references: [
+      {
+        name: "Stanford Encyclopedia of Philosophy: Galileo Galilei",
+        url: "https://plato.stanford.edu/entries/galileo/"
+      },
+      {
+        name: "Vatican: John Paul II address to the Pontifical Academy of Sciences, 31 October 1992",
+        url: "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/october/documents/hf_jp-ii_spe_19921031_accademia-scienze.html"
+      }
+    ],
+    tags: [
+      "Galileo and the Church",
+      "Galileo Galilei",
+      "Galileo trial",
+      "Galileo heresy",
+      "Catholic Church Galileo",
+      "Galileo heliocentrism",
+      "Galileo Inquisition",
+      "Science"
+    ],
+    readingTime: "5 min read",
+    faq: [
+      {
+        question: "Why was Galileo accused of heresy?",
+        answer:
+          "Galileo was judged by Church authorities to have defended the motion of Earth after earlier restrictions on presenting Copernican heliocentrism as physical reality. In 1633 he was found vehemently suspect of heresy."
+      },
+      {
+        question: "Did Galileo invent heliocentrism?",
+        answer:
+          "No. Nicolaus Copernicus had proposed a heliocentric model in the 16th century. Galileo's telescope observations gave important support to ideas that challenged the traditional geocentric system."
+      },
+      {
+        question: "What happened to Galileo after the trial?",
+        answer:
+          "Galileo formally renounced the condemned propositions, and his sentence was commuted to house arrest. He spent the rest of his life under restrictions and continued important scientific work."
+      },
+      {
+        question: "Did Galileo really say And yet it moves?",
+        answer:
+          "Historians do not have reliable contemporary evidence that Galileo said the phrase after his renunciation. It is best treated as a later legend rather than established fact."
+      },
+      {
+        question: "How did the Church later reassess Galileo?",
+        answer:
+          "In 1992 Pope John Paul II addressed the Galileo case after a papal commission studied the controversy, acknowledging errors in how the historical conflict had been handled."
+      }
+    ]
+  },
   {
     id: "026",
     slug: "anti-aging-can-we-slow-down-human-aging",
@@ -3726,21 +4299,27 @@ export const categories: ArticleCategory[] = [
   "Science"
 ];
 
+validatePublishedArticles(articles, categories);
+
 export function getArticleBySlug(slug: string) {
-  return articles.find((article) => article.slug === slug);
+  return articles.find((article) => article.slug === slug && isPublishedArticle(article));
 }
 
 export function getArticlesByCategory(category: ArticleCategory) {
-  return articles.filter((article) => article.category === category);
+  return articles.filter((article) => article.category === category && isPublishedArticle(article));
 }
 
 export function getRelatedArticles(article: Article, limit = 5) {
   const sameCategory = articles.filter(
-    (item) => item.category === article.category && item.slug !== article.slug
+    (item) => isPublishedArticle(item) && item.category === article.category && item.slug !== article.slug
   );
   const fallback = articles.filter(
-    (item) => item.category !== article.category && item.slug !== article.slug
+    (item) => isPublishedArticle(item) && item.category !== article.category && item.slug !== article.slug
   );
 
   return [...sameCategory, ...fallback].slice(0, limit);
+}
+
+export function getPublishedArticles() {
+  return articles.filter(isPublishedArticle);
 }

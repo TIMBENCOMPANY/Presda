@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { ArticleCard } from "@/components/ArticleCard";
-import { articles } from "@/data/articles";
+import { getPublishedArticles } from "@/data/articles";
 import { breadcrumbJsonLd, createPageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = createPageMetadata({
@@ -12,6 +12,7 @@ export const metadata: Metadata = createPageMetadata({
 });
 
 export default function WorldCup2026Page() {
+  const articles = getPublishedArticles();
   const worldCupArticles = articles.filter(
     (article) => article.category === "World Cup 2026" || article.tags.some((tag) => tag.toLowerCase().includes("world cup"))
   );

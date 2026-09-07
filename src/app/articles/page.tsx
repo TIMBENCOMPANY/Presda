@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { ArticleBrowser } from "@/components/ArticleBrowser";
-import { articles } from "@/data/articles";
+import { getPublishedArticles } from "@/data/articles";
 import { breadcrumbJsonLd, createPageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = createPageMetadata({
@@ -10,6 +10,8 @@ export const metadata: Metadata = createPageMetadata({
 });
 
 export default function ArticlesPage() {
+  const articles = getPublishedArticles();
+
   return (
     <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-8 sm:w-[min(1500px,calc(100%-32px))] sm:py-12">
       <script

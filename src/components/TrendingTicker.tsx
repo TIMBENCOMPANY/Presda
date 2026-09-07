@@ -1,7 +1,7 @@
-import { articles } from "@/data/articles";
+import { getPublishedArticles } from "@/data/articles";
 
 export function TrendingTicker() {
-  const headlines = articles.slice(0, 5).map((article) => article.title);
+  const headlines = getPublishedArticles().slice(0, 5).map((article) => article.title);
 
   return (
     <section className="border-b border-[color:var(--border)] bg-[color:var(--card)]/70">

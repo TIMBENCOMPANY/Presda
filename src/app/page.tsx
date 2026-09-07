@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { HomeReferenceExperience } from "@/components/HomeReferenceExperience";
-import { articles } from "@/data/articles";
+import { getPublishedArticles } from "@/data/articles";
 import { createPageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = createPageMetadata({
@@ -25,6 +25,7 @@ const featuredSlugs = [
 ];
 
 export default function HomePage() {
+  const articles = getPublishedArticles();
   const featured = featuredSlugs
     .map((slug) => articles.find((article) => article.slug === slug))
     .filter((article): article is NonNullable<typeof article> => Boolean(article));

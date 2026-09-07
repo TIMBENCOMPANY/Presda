@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleCard } from "@/components/ArticleCard";
-import { articles } from "@/data/articles";
+import { getPublishedArticles } from "@/data/articles";
 import { getAuthorProfile, getAuthorProfiles, toAuthorSlug } from "@/lib/authors";
 import { absoluteUrl, breadcrumbJsonLd, createPageMetadata } from "@/lib/seo";
 
@@ -39,7 +39,7 @@ export default function AuthorProfilePage({ params }: AuthorPageProps) {
     notFound();
   }
 
-  const authorArticles = articles.filter((article) => toAuthorSlug(article.author) === author.slug);
+  const authorArticles = getPublishedArticles().filter((article) => toAuthorSlug(article.author) === author.slug);
   const personJsonLd = {
     "@context": "https://schema.org",
     "@type": "Person",
