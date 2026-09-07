@@ -32,6 +32,7 @@ export default function HomePage() {
     ...featured.slice(1),
     ...articles.filter((article) => !featuredSlugs.includes(article.slug))
   ].slice(0, 4);
+  const moreStories = articles.filter((article) => !latest.some((latestArticle) => latestArticle.slug === article.slug));
 
-  return <HomeReferenceExperience slides={featured} latest={latest} />;
+  return <HomeReferenceExperience slides={featured} latest={latest} moreStories={moreStories} />;
 }

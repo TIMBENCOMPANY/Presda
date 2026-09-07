@@ -3,24 +3,28 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowLeft, ArrowRight } from "lucide-react";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type { Article } from "@/data/articles";
+import { ArticleCard } from "@/components/ArticleCard";
 import { HeadlineText } from "@/components/HeadlineText";
 import { categoryLabels } from "@/lib/categories";
 
 type HomeStory = Pick<
   Article,
-  "slug" | "title" | "headlineAccent" | "headlineHighlights" | "excerpt" | "category" | "coverImage" | "coverAlt" | "readingTime"
+  "slug" | "title" | "headlineAccent" | "headlineHighlights" | "excerpt" | "category" | "coverImage" | "coverAlt" | "homepageImagePosition" | "readingTime"
 >;
 
 type HomeReferenceExperienceProps = {
   slides: HomeStory[];
   latest: HomeStory[];
+  moreStories: Article[];
 };
 
-export function HomeReferenceExperience({ slides, latest }: HomeReferenceExperienceProps) {
+export function HomeReferenceExperience({ slides, latest, moreStories }: HomeReferenceExperienceProps) {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isPaused, setIsPaused] = useState(false);
+  const touchStartX = useRef<number | null>(null);
+  const resumeTimer = useRef<number | null>(null);
   const active = slides[activeIndex] ?? slides[0];
   const isLongHeroTitle = (active?.title.length ?? 0) > 48;
 
@@ -33,14 +37,50 @@ export function HomeReferenceExperience({ slides, latest }: HomeReferenceExperie
     return () => window.clearInterval(timer);
   }, [isPaused, slides.length]);
 
+  useEffect(() => {
+    return () => {
+      if (resumeTimer.current) window.clearTimeout(resumeTimer.current);
+    };
+  }, []);
+
   const progress = useMemo(() => ((activeIndex + 1) / slides.length) * 100, [activeIndex, slides.length]);
 
   function goNext() {
+    pauseBriefly();
     setActiveIndex((index) => (index + 1) % slides.length);
   }
 
   function goPrevious() {
+    pauseBriefly();
     setActiveIndex((index) => (index - 1 + slides.length) % slides.length);
+  }
+
+  function pauseBriefly() {
+    setIsPaused(true);
+    if (resumeTimer.current) window.clearTimeout(resumeTimer.current);
+    resumeTimer.current = window.setTimeout(() => setIsPaused(false), 9000);
+  }
+
+  function handleTouchStart(event: React.TouchEvent<HTMLElement>) {
+    touchStartX.current = event.touches[0]?.clientX ?? null;
+    setIsPaused(true);
+  }
+
+  function handleTouchEnd(event: React.TouchEvent<HTMLElement>) {
+    const startX = touchStartX.current;
+    touchStartX.current = null;
+    if (startX === null) {
+      pauseBriefly();
+      return;
+    }
+
+    const distance = startX - (event.changedTouches[0]?.clientX ?? startX);
+    if (Math.abs(distance) > 42) {
+      distance > 0 ? goNext() : goPrevious();
+      return;
+    }
+
+    pauseBriefly();
   }
 
   if (!active) return null;
@@ -51,6 +91,8 @@ export function HomeReferenceExperience({ slides, latest }: HomeReferenceExperie
         className="home-hero-section relative isolate overflow-hidden border-b"
         onMouseEnter={() => setIsPaused(true)}
         onMouseLeave={() => setIsPaused(false)}
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
       >
         <div className="home-hero-bg absolute inset-0 -z-10" />
         <div className="absolute inset-y-0 right-0 -z-10 w-[62%] opacity-80">
@@ -101,6 +143,7 @@ export function HomeReferenceExperience({ slides, latest }: HomeReferenceExperie
                     className={`object-cover object-center transition duration-700 lg:object-[center_42%] ${
                       index === activeIndex ? "scale-100 opacity-100" : "scale-[1.03] opacity-0"
                     }`}
+                    style={{ objectPosition: slide.homepageImagePosition ?? "50% 42%" }}
                   />
                 ))}
               </div>
@@ -111,18 +154,18 @@ export function HomeReferenceExperience({ slides, latest }: HomeReferenceExperie
             <button
               type="button"
               onClick={goPrevious}
-              className="home-glass-control absolute left-1 top-1/2 z-20 hidden h-14 w-14 -translate-y-1/2 place-items-center rounded-full transition lg:grid"
+              className="home-glass-control absolute left-2 top-[62%] z-20 grid h-11 w-11 -translate-y-1/2 place-items-center rounded-full transition sm:left-4 lg:left-1 lg:top-1/2 lg:h-14 lg:w-14"
               aria-label="Previous featured story"
             >
-              <ArrowLeft className="h-6 w-6" strokeWidth={2} />
+              <ArrowLeft className="h-5 w-5 lg:h-6 lg:w-6" strokeWidth={2} />
             </button>
             <button
               type="button"
               onClick={goNext}
-              className="home-glass-control absolute right-1 top-1/2 z-20 hidden h-14 w-14 -translate-y-1/2 place-items-center rounded-full transition lg:grid"
+              className="home-glass-control absolute right-2 top-[62%] z-20 grid h-11 w-11 -translate-y-1/2 place-items-center rounded-full transition sm:right-4 lg:right-1 lg:top-1/2 lg:h-14 lg:w-14"
               aria-label="Next featured story"
             >
-              <ArrowRight className="h-6 w-6" strokeWidth={2} />
+              <ArrowRight className="h-5 w-5 lg:h-6 lg:w-6" strokeWidth={2} />
             </button>
           </div>
 
@@ -136,6 +179,26 @@ export function HomeReferenceExperience({ slides, latest }: HomeReferenceExperie
               </div>
             </div>
           </div>
+        </div>
+      </section>
+
+      <section className="mx-auto w-[min(1500px,calc(100%-24px))] py-10 sm:w-[min(1500px,calc(100%-48px))] sm:py-14 lg:py-16">
+        <div className="mb-6 flex flex-wrap items-end justify-between gap-4 sm:mb-8">
+          <div>
+            <p className="font-display text-[10px] font-extrabold uppercase tracking-[0.18em] text-[color:var(--home-red)] sm:text-xs">PRESDA</p>
+            <h2 className="mt-2 font-display text-2xl font-extrabold uppercase leading-none tracking-normal text-[color:var(--home-text)] sm:text-4xl">
+              More Stories
+            </h2>
+          </div>
+          <Link href="/articles/" className="inline-flex items-center gap-2 font-display text-xs font-extrabold uppercase tracking-wide text-[color:var(--home-red)] transition hover:text-[color:var(--home-gold)]">
+            View All
+            <ArrowRight className="h-4 w-4" strokeWidth={1.6} />
+          </Link>
+        </div>
+        <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+          {moreStories.map((article) => (
+            <ArticleCard key={article.slug} article={article} />
+          ))}
         </div>
       </section>
     </main>

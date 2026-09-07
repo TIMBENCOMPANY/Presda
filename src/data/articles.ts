@@ -26,6 +26,7 @@ export type Article = {
   author: string;
   coverImage: string;
   coverAlt: string;
+  homepageImagePosition?: string;
   content: string[];
   quote?: string;
   source?: {
@@ -64,6 +65,7 @@ export const articles: Article[] = [
     author: "PRESDA Editorial",
     coverImage: "/images/articles/anti-aging-human-longevity-2026.jpg",
     coverAlt: "Anti-aging and human longevity concept showing biological aging, DNA and the passage of time",
+    homepageImagePosition: "50% 42%",
     content: [
       "Anti-aging used to sound like a promise from the beauty industry: fewer wrinkles, better skin, a younger-looking face. Longevity science has pushed the conversation somewhere deeper. Researchers are now asking whether the biological processes that make people frailer with age can be measured, delayed, or someday targeted safely.",
       "The answer is careful, not magical. Scientists have identified mechanisms linked to aging, including DNA damage, epigenetic changes, cellular senescence, inflammation, mitochondrial dysfunction and altered nutrient sensing. Some interventions slow aging-related decline in animals. A smaller number are being tested in humans. But no pill, supplement or procedure has been proven to broadly reverse human aging.",
@@ -213,6 +215,7 @@ export const articles: Article[] = [
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/travel-hidden-gems-2026.png",
     "coverAlt": "Futuristic travel collage of hidden destinations for PRESDA",
+    "homepageImagePosition": "50% 48%",
     "content": [
       "The best hidden gems to visit in 2026 are not simply places with fewer crowds. They are destinations where the journey still feels textured: old streets that reward slow walking, islands where the landscape leads the itinerary, mountain towns with strong local identity, and natural places that ask travelers to move with care.",
       "This guide is written for travelers searching for hidden travel destinations in 2026 with practical value, not just beautiful names. Each destination below explains why it belongs on the list, the best time to go, what makes it unique, and one useful travel tip to make the trip easier or more responsible.",
@@ -371,6 +374,7 @@ export const articles: Article[] = [
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/valuable-companies-2026.png",
     "coverAlt": "Premium skyline showing the world's most valuable companies in 2026",
+    "homepageImagePosition": "50% 50%",
     "content": [
       "The most valuable companies in the world in 2026 are led by artificial intelligence infrastructure, consumer ecosystems, cloud platforms, semiconductor manufacturing, digital advertising, energy and electric vehicles.",
       "This PRESDA ranking is a market-cap snapshot dated September 1, 2026. Market capitalization changes every trading day as share prices move, so the figures below should be read as a reference point, not a permanent ranking. The list focuses on publicly traded companies and excludes private-company valuations because private valuations are not the same as public market capitalization.",
@@ -523,6 +527,7 @@ export const articles: Article[] = [
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/katy-perry-justin-trudeau-2026.png",
     "coverAlt": "Red carpet media lights representing global celebrity speculation",
+    "homepageImagePosition": "50% 34%",
     "content": [
       "Katy Perry and Justin Trudeau became one of the most unexpected public pairings of the post-pandemic celebrity era because the story crossed two usually separate worlds. One is pop entertainment: stadium tours, red carpets, fan culture and global music media. The other is political celebrity: a former prime minister moving from office into private/public life while remaining instantly recognizable.",
       "As of September 2, 2026, the careful way to describe the Katy Perry Justin Trudeau relationship is this: they were first publicly linked in reliable reporting after a Montreal dinner in July 2025, were later seen together at major public events, and by 2026 were being described by established outlets as a public couple. Trudeau should not be described as Canada's current prime minister. He left office in March 2025, when Mark Carney became prime minister.",
@@ -1048,6 +1053,7 @@ export const articles: Article[] = [
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/ai-agents-jobs-2026.png",
     "coverAlt": "Worker seated beside a humanoid robot in a modern office, representing AI agents and the future of work",
+    "homepageImagePosition": "50% 48%",
     "content": [
       "Will AI agents replace jobs in 2026? The honest answer is more precise than a yes or no. AI agents are already changing how people research, write, code, analyze documents, handle customer requests and manage routine digital work. But the strongest evidence points first to task disruption, not the instant disappearance of entire occupations.",
       "That distinction matters for workers, employers and policymakers. A job is usually a bundle of tasks: communication, judgment, routine administration, analysis, coordination, ethics, accountability and relationship-building. AI agents can now handle some of those tasks with impressive speed, but they still need clear goals, good data, human review and responsible deployment.",
@@ -1181,6 +1187,7 @@ export const articles: Article[] = [
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/ai-friendship-chatbot-2026.png",
     "coverAlt": "Person talking with a friendly AI chatbot on a laptop at night, representing AI friendship and emotional support",
+    "homepageImagePosition": "55% 50%",
     "content": [
       "Millions of conversations with AI no longer end when the task is finished. People return after the email is written, the itinerary is planned, or the code error is solved. They talk about relationships, work, fears, decisions, loneliness, money, family tension, ambition, and the things they may hesitate to tell another person.",
       "That shift is one of the most important human stories in technology right now. The question is no longer only what AI can do. It is why people trust AI enough to keep talking when there is no practical task left to complete.",
@@ -1483,6 +1490,7 @@ export const articles: Article[] = [
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/gta6-culture-moment-2026.png",
     "coverAlt": "GTA 6 neon Vice City cinematic poster",
+    "homepageImagePosition": "50% 50%",
     "content": [
       "GTA 6 is not arriving like a normal video game. It is moving through culture like a blockbuster film, a financial event, a music moment, a meme engine and a technology benchmark at the same time. Before players have touched the final release, Grand Theft Auto VI has already become one of the most closely watched entertainment launches of the decade.",
       "The confirmed facts explain part of the scale. Rockstar Games lists Grand Theft Auto VI as coming on November 19, 2026 for PlayStation 5 and Xbox Series X|S. The game returns to Vice City and expands across Leonida, Rockstar's fictional Florida-inspired state. Its story centers on Jason Duval and Lucia Caminos, a criminal pair forced deeper into trouble after an easy score goes wrong.",
@@ -2190,6 +2198,7 @@ export const articles: Article[] = [
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/japan-ai-care-era-2026.png",
     "coverAlt": "Japanese elder holding hands with a care robot in a cinematic poster",
+    "homepageImagePosition": "50% 45%",
     "content": [
       "AI elderly care in Japan is not one single technology. It includes software that helps organize care, sensors that monitor movement or risk, assistive devices that reduce physical strain, and care robots that support mobility, communication or daily routines.",
       "That distinction matters. Calling every device an AI robot makes Japan's care-technology strategy sound more futuristic than it really is. In practice, Japan AI care is a practical response to an aging society, long-term care pressure and the need to support workers without removing the human relationship at the center of care.",
@@ -2401,7 +2410,7 @@ export const articles: Article[] = [
     "slug": "jon-snow-backs-morocco",
     "title": "Jon Snow Morocco: Kit Harington's World Cup 2026 Support Explained",
     "seoTitle": "Jon Snow Morocco: Kit Harington's World Cup 2026 Support Explained",
-    "metaDescription": "Why Jon Snow Morocco searches surged: Kit Harington, Morocco's Atlas Lions, World Cup 2026 attention, and what the viral support moment really means.",
+    "metaDescription": "Kit Harington, known to fans as Jon Snow, drew World Cup attention after appearing at Morocco vs Brazil in Morocco's national-team jersey.",
     "headlineHighlights": {
       "red": "Morocco",
       "gold": "World Cup 2026"
@@ -2412,11 +2421,12 @@ export const articles: Article[] = [
     "author": "PRESDA Editorial",
     "coverImage": "/images/editorial/jon-snow-morocco.jpg",
     "coverAlt": "Kit Harington wearing a Morocco football shirt in a stadium setting",
+    "homepageImagePosition": "50% 34%",
     "content": [
-      "Searches for Jon Snow Morocco and Jon Snow World Cup rose because the story sits at an unusual intersection: television fame, football culture, Morocco's global fanbase, and the emotional build-up around FIFA World Cup 2026.",
-      "In this context, Jon Snow does not refer to a real football figure. It refers to Kit Harington, the British actor best known for playing Jon Snow in HBO's Game of Thrones. The Morocco connection came through images and reports showing Harington at Morocco vs Brazil wearing Morocco's national-team jersey.",
-      "There is no verified public quote from Harington in the current PRESDA record, and this article does not invent one. The images clearly document attendance and the jersey. They do not prove his private motivation, his favorite team, or a formal connection to Morocco's national team.",
-      "For more context on Morocco beyond football, read PRESDA's feature [We Are All Moroccans](/articles/we-are-all-moroccans-jebel-irhoud/). For tournament context, see [World Cup 2026 Countdown Enters Full Speed](/articles/world-cup-2026-countdown/) and PRESDA's broader [Sport coverage](/category/sport/).",
+      "Kit Harington gave Morocco fans an unexpected World Cup talking point when images showed the Game of Thrones actor at Morocco vs Brazil wearing Morocco's national-team jersey. For many supporters, the moment was simple and instantly shareable: the actor millions know as Jon Snow standing inside the World Cup atmosphere in Atlas Lions colors.",
+      "That is why Jon Snow Morocco, Kit Harington Morocco and Jon Snow World Cup became natural search phrases around the story. The connection is not a football transfer, a federation role or an official campaign. It is a cultural moment built from a visible public appearance, a famous face and Morocco's growing place in global football conversation.",
+      "The clearest documented fact is Harington's attendance in the Morocco shirt. The images do not prove his private motivation, his favorite team or any formal relationship with Morocco's national side, but they do show how quickly football identity can travel through entertainment culture during a World Cup.",
+      "For more context on Morocco beyond football, read PRESDA's feature [We Are All Moroccans](/articles/we-are-all-moroccans-jebel-irhoud/). For Morocco World Cup 2026 context, see [World Cup 2026 Countdown Enters Full Speed](/articles/world-cup-2026-countdown/) and PRESDA's broader [Sport coverage](/category/sport/).",
       "## Who Is Jon Snow In This Story?",
       "Jon Snow is the fictional Game of Thrones character played by Kit Harington. Because the character became one of the most recognizable figures in modern television, many fans search for Harington by the character name rather than the actor's name. That is why searches such as jon snow morocco, john snow morocco, and jon snow world cup all point toward the same entertainment-football story.",
       "The common misspelling John Snow also appears in search behavior, but the correct character name is Jon Snow. The person connected to the Morocco story is Kit Harington, not a footballer named Jon Snow.",
@@ -2430,15 +2440,15 @@ export const articles: Article[] = [
       "The Jon Snow Morocco story spread because it was instantly readable. Fans did not need a complicated explanation: a Game of Thrones star, a Morocco shirt, a World Cup moment, and a fanbase already primed for global attention. The combination created an easy social-media headline.",
       "Football culture often moves through symbols. A shirt, a flag, a stadium image, or a celebrity appearance can become shorthand for belonging. In this case, the Morocco connection gave fans a playful bridge between television culture and World Cup emotion.",
       "## What He Said Or Did",
-      "Based on the material available in the existing PRESDA story and supporting coverage, the clear reported action is that Harington attended Morocco vs Brazil wearing Morocco's national-team jersey. PRESDA is not attributing any direct quote to him because no verified quote is included in the record.",
+      "The clear reported action is that Harington attended Morocco vs Brazil wearing Morocco's national-team jersey. No direct quote from Harington is cited here, so the story stays focused on what was visible and reported rather than guessing what he meant.",
       "That distinction matters. A celebrity can generate attention through appearance, imagery, or association without making a formal public statement. Responsible coverage should separate what is visible from what is assumed.",
-      "## Jon Snow World Cup Search Intent",
+      "## Why Fans Searched Jon Snow World Cup",
       "People searching jon snow world cup are usually trying to understand whether the Game of Thrones actor has a real football connection, whether he supports Morocco, and why Morocco fans were discussing him. The short answer is cultural rather than institutional: Harington is not part of the Morocco team or FIFA World Cup organization, and the visible fact is his attendance in a Morocco jersey.",
       "That is also why the phrase john snow morocco appears in search data. It reflects a spelling mistake, not a separate story.",
       "## Why It Matters For Morocco Fans",
       "Morocco's football story has become bigger than results alone. It now carries identity, diaspora pride, continental symbolism, and global curiosity. When a recognizable entertainment figure appears linked to that story, fans read it as recognition.",
       "The moment also shows how modern World Cup coverage works. Tournament narratives now live across match reports, player profiles, fashion, celebrity posts, fan edits, and social platforms. A football shirt can become a media object before a ball is kicked.",
-      "## The PRESDA View",
+      "## What The Moment Means",
       "The Jon Snow Morocco story should be understood as a cultural football moment, not a claim of official involvement or private motivation. Kit Harington's fame gave the image its spark. Morocco's recent football rise gave it meaning. Together, they created a story fans wanted to share.",
       "The strongest version of the story is simple: Morocco's Atlas Lions have built enough global magnetism that even a brief celebrity-linked moment can become part of the World Cup conversation."
     ],
@@ -2465,7 +2475,7 @@ export const articles: Article[] = [
       },
       {
         "question": "Did Kit Harington make an official World Cup statement about Morocco?",
-        "answer": "The existing PRESDA record does not include a verified direct quote from Kit Harington. The story is based on images and reports showing him at Morocco vs Brazil wearing Morocco's national-team jersey."
+        "answer": "The public story centers on images and reports showing Kit Harington at Morocco vs Brazil wearing Morocco's national-team jersey, rather than on an official statement from the actor."
       },
       {
         "question": "Why did Morocco fans react strongly?",
@@ -2883,6 +2893,7 @@ export const articles: Article[] = [
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/world-cup-2026-brands-kits.png",
     "coverAlt": "World Cup 2026 football jerseys from Morocco, Brazil, Argentina, and Tunisia on a black premium sportswear background",
+    "homepageImagePosition": "50% 46%",
     "content": [
       "The FIFA World Cup 2026 sponsors story is bigger than logos on boards. The tournament in Canada, Mexico and the United States is a commercial platform for mobility, payments, travel, consumer goods, technology, media, hospitality, finance, food, beverage, logistics and fan experience.",
       "Search interest around World Cup 2026 sponsors, FIFA World Cup 2026 sponsors and World Cup 2026 brands usually has one question underneath it: which companies are officially connected to the tournament, and what do those partnerships actually mean?",
@@ -3491,6 +3502,7 @@ export const articles: Article[] = [
     author: "PRESDA Editorial",
     coverImage: "/images/editorial/achraf-hakimi-trophies.jpg",
     coverAlt: "Achraf Hakimi smiling with a major football trophy",
+    homepageImagePosition: "50% 30%",
     content: [
       "Achraf Hakimi has built one of the most visible Moroccan football careers of the modern era. His story runs from the Real Madrid academy to Borussia Dortmund, Inter Milan and Paris Saint-Germain, but it also belongs to Morocco: the country he chose to represent, the team he helped carry into history, and the supporters who now see him as a symbol of elite African football.",
       "Searches for Achraf Hakimi trophies, Achraf Hakimi career and Achraf Hakimi Morocco often point to the same question: how did a right-back become one of the defining players of his generation? The short answer is that Hakimi has combined rare athletic speed with tactical intelligence, attacking output and a habit of appearing in decisive matches.",
@@ -3599,6 +3611,7 @@ export const articles: Article[] = [
     author: "PRESDA Editorial",
     coverImage: "/images/editorial/yassine-bounou.jpg",
     coverAlt: "Yassine Bounou in Morocco goalkeeper shirt",
+    homepageImagePosition: "50% 22%",
     content: [
       "Yassine Bounou's career has been built on calm authority. While modern football often celebrates speed, noise and instant reaction, Morocco's goalkeeper has earned global respect through timing, penalty-box control and a habit of staying clear when the match becomes emotional.",
       "For many supporters searching for Yassine Bounou Morocco, Bono Morocco goalkeeper or Yassine Bounou achievements, the story starts with Qatar 2022. But Bounou's rise is deeper than one tournament. It includes years in Spain, defining UEFA Europa League performances with Sevilla, a move to Al Hilal, and repeated recognition from CAF as one of Africa's elite goalkeepers.",
