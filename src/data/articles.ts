@@ -53,6 +53,277 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "043",
+    slug: "history-of-slavery",
+    title: "THE HISTORY OF SLAVERY: HOW HUMANS BECAME A COMMODITY",
+    seoTitle: "The History of Slavery: Ancient Worlds to Modern Trafficking",
+    metaDescription:
+      "Explore the history of slavery from ancient Mesopotamia, Egypt, Greece and Rome to the Atlantic slave trade, abolition, the U.S. Civil War, Brazil and modern slavery.",
+    headlineHighlights: {
+      red: "SLAVERY",
+      gold: "HUMANS BECAME A COMMODITY"
+    },
+    excerpt:
+      "Slavery was never one system in one place. Across history, societies turned human beings into property, labor, status and profit, while enslaved people resisted, survived and changed the world.",
+    category: "History",
+    date: "2026-09-09",
+    lastUpdated: "2026-09-09",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/history-of-slavery.png",
+    coverAlt:
+      "Colonial port scene showing the Atlantic slave trade, ships, chains, maps and forced human commerce",
+    homepageImagePosition: "50% 45%",
+    content: [
+      "The history of slavery is not the story of one country, one religion, one empire or one race.",
+      "It is a long human history in which societies turned people into property, labor, status, debt, punishment, inheritance, military service and profit.",
+      "Slavery differed across time and place. A captive in ancient Mesopotamia, an enslaved worker in a Roman mine, a concubine in a medieval court, a plantation laborer in the Caribbean, a trafficked worker in the modern economy and a person held in forced marriage did not live under identical systems.",
+      "But the core violence was shared: one human being or institution claimed coercive control over another person's body, labor, movement and future.",
+      "A serious slavery history must hold several truths together. Slavery existed in many civilizations. The transatlantic slave trade was uniquely racialized, industrial in scale and central to the making of the modern Atlantic economy. Enslaved people were brutalized, but they were not passive. They resisted, escaped, organized families, preserved cultures, rebelled, negotiated and created new worlds under impossible pressure.",
+      "For more PRESDA history context, read [the real history of coffee](/articles/real-history-of-coffee/) and [the Ottoman Empire](/articles/ottoman-empire-rise-and-fall/).",
+      "## What Slavery Means",
+      "Slavery generally refers to a condition in which a person is treated as property or is controlled so severely that they cannot freely leave, refuse labor or determine the basic direction of their life.",
+      "Historical slavery could involve legal ownership. It could also involve hereditary status, debt bondage, captivity, forced domestic work, sexual exploitation, military service or agricultural labor.",
+      "Some systems allowed enslaved people to own property, buy freedom or enter household structures with limited protections. Other systems were built on plantation terror, racial caste and lifelong hereditary enslavement.",
+      "Differences matter because history becomes distorted when every system is described as identical.",
+      "Similarity matters because all slavery rests on coercion.",
+      "## Ancient Mesopotamia and Egypt",
+      "In ancient Mesopotamia, slavery was connected to war, debt, punishment and household labor. People could become enslaved through capture, sale, birth into enslaved status or inability to pay debts.",
+      "Debt bondage was especially important in many early societies. A person or family might pledge labor because of debt, famine or legal obligation. The boundary between slavery, servitude and dependent labor could vary by law and custom.",
+      "Ancient Egypt also used forms of forced and enslaved labor. Captives from war, household servants and laborers appear in Egyptian records and art, although the famous image of enormous pyramids built purely by enslaved masses is not supported as a complete explanation of pyramid construction. PRESDA covers that distinction in [the history of the Egyptian pyramids](/articles/history-of-egyptian-pyramids/).",
+      "In these early societies, slavery was one part of wider systems of hierarchy. It was not yet the same as the later Atlantic plantation world, but the basic idea had already appeared: people could be legally and socially reduced to labor controlled by others.",
+      "## Greece and Rome",
+      "Ancient Greece and Rome expanded slavery into major social and economic systems.",
+      "In Greek city-states, enslaved people worked in households, workshops, agriculture and mines. Some performed skilled labor. Others endured brutal conditions, especially in mining and large-scale labor.",
+      "Rome built one of the largest slave societies of the ancient world. Roman slavery drew on warfare, piracy, trade, birth and exposure of children. Enslaved people worked as domestic servants, tutors, accountants, farm laborers, artisans, sex workers, gladiators and miners.",
+      "Roman law treated enslaved people as property, although their lives varied sharply depending on work, location and owner. Some could be manumitted and become freedpeople. Others died in conditions of extreme violence.",
+      "Large Roman estates, called latifundia, depended heavily on enslaved labor. Slave rebellions, including the revolt associated with Spartacus in the first century BCE, showed that Roman slavery also produced organized resistance.",
+      "Ancient slavery was not primarily based on modern racial categories. That does not make it humane. It means the logic of enslavement was organized differently from later Atlantic racial slavery.",
+      "## Debt, War and Captivity",
+      "Across history, several pathways repeatedly produced enslavement.",
+      "War was one of the most common. Victorious armies captured people and turned them into laborers, servants, soldiers, concubines or commodities.",
+      "Debt was another. Families under economic pressure could lose freedom through obligations they could not repay.",
+      "Crime and punishment also mattered. Some legal systems sentenced people to forced labor or enslavement.",
+      "Birth was decisive in many systems. Children born to enslaved mothers could inherit enslaved status, making slavery self-reproducing across generations.",
+      "Captivity and trade connected these sources. Once people could be bought and sold, slavery became not only a local institution but also a market.",
+      "## Slavery in Africa Before Atlantic Expansion",
+      "Slavery existed in parts of Africa before European Atlantic expansion, but it did not take one single form.",
+      "Different African societies used captives, dependents and enslaved labor in households, agriculture, political service, military roles and trade. In some settings, enslaved people could be incorporated into kinship systems over generations. In others, exploitation and sale were severe.",
+      "It is historically false to pretend slavery began in Africa only because Europeans arrived.",
+      "It is equally false to use the existence of earlier African slavery to minimize the Atlantic system.",
+      "European demand, firearms, coastal trade networks and plantation economies transformed the scale, direction and racial ideology of enslavement. African rulers, merchants and intermediaries participated in slave trading in varied ways, but European empires and American plantation markets drove the Atlantic demand that turned millions of African lives into export commodities.",
+      "Good history does not need a single villain to be morally clear.",
+      "It needs accuracy.",
+      "## Medieval Islamic, Mediterranean and Indian Ocean Worlds",
+      "Slavery also existed across the medieval Islamic world, the Mediterranean and Indian Ocean trading systems.",
+      "Enslaved people moved through North Africa, the Middle East, the Sahara, the Red Sea, the Persian Gulf, the Indian Ocean and Mediterranean ports. They could be used in domestic labor, agriculture, administration, military service, concubinage and court life.",
+      "Some enslaved soldiers rose to major political power in specific Islamic societies. Some enslaved or formerly enslaved people gained status or freedom. But these exceptional paths should not obscure the coercion at the heart of the system.",
+      "Religious traditions sometimes placed limits on enslavement or encouraged manumission, but slavery remained a legal and economic institution across many societies.",
+      "The Mediterranean was also a zone of captivity involving Christians, Muslims and others, including piracy, ransom and galley labor.",
+      "The point is not to single out one civilization. The point is that slavery was woven into many premodern economies and political systems before Atlantic plantation slavery became dominant.",
+      "## European Expansion and the Atlantic Slave Trade",
+      "European maritime expansion changed slavery on a world scale.",
+      "Portuguese voyages along the West African coast in the 15th century helped connect European commercial demand with African slave-trading networks. Spain, Britain, France, the Netherlands, Portugal and other European powers later built Atlantic empires that depended on coerced African labor.",
+      "The Americas created a brutal demand for labor. Indigenous populations had been devastated by conquest, disease, warfare and forced labor. European colonizers then expanded plantations producing sugar, tobacco, coffee, cotton and other commodities for global markets.",
+      "The Atlantic slave trade became a system for forcibly moving Africans to the Americas and using them to generate wealth for plantation owners, merchants, insurers, shipbuilders, financiers and empires.",
+      "## Triangular Trade and Plantation Economies",
+      "The triangular trade is a simplified model, but it helps explain the Atlantic economy.",
+      "European goods could be shipped to Africa and exchanged in slave-trading networks. Captive Africans were transported across the Atlantic in the Middle Passage. Plantation products such as sugar, tobacco, cotton, coffee and rum then moved to Europe and other markets.",
+      "Real routes were more complicated than a neat triangle. Ships, finance and cargo patterns varied.",
+      "But the basic engine was clear: human beings were commodified so that plantation economies could produce goods for profit.",
+      "Sugar plantations in the Caribbean and Brazil were among the deadliest labor regimes. Cotton later became central to slavery in the United States. Coffee, tobacco and other crops also depended on enslaved labor in different regions.",
+      "The modern world was not built only by free markets and invention. It was also built by coerced labor.",
+      "## Capture, Sale and Forced Transportation",
+      "Most enslaved Africans transported across the Atlantic were not captured directly by Europeans in raids deep inland.",
+      "Many were captured through African wars, raids, kidnapping, judicial processes or local conflicts, then moved through inland trading networks toward coastal forts and markets.",
+      "European traders purchased captives from African suppliers and brokers, often exchanging goods including textiles, metalwares, alcohol, guns and other commodities.",
+      "This does not make the system less violent. It shows how wide the machinery became.",
+      "An enslaved person might be seized far from the coast, marched in chains, held in barracoons or forts, sold multiple times, branded or inspected, then loaded onto a ship without knowing where they were being taken.",
+      "The trade was not an abstract economic system to the people inside it.",
+      "It was terror, separation and forced movement.",
+      "## The Middle Passage",
+      "The Middle Passage was the Atlantic crossing endured by captive Africans forced onto slave ships.",
+      "Conditions were horrific. Ships were crowded, disease spread easily, food and water were limited, sanitation was poor and violence was constant.",
+      "People were chained, packed below decks and subjected to physical and psychological trauma. Families and communities had already been torn apart before the crossing began.",
+      "Mortality varied by period, route, ship and conditions, but death was a major feature of the system.",
+      "According to the Trans-Atlantic Slave Trade Database, about 12.5 million Africans were embarked on slave ships for the Americas, and about 10.7 million survived the voyage and disembarked. That means roughly 1.8 million people died during the Atlantic crossing itself, not counting those killed during capture, forced marches, coastal confinement or the plantation regimes that followed.",
+      "Numbers help show scale.",
+      "They cannot measure the full human loss.",
+      "## Scale of the Transatlantic Trade",
+      "The transatlantic slave trade lasted for more than three centuries.",
+      "SlaveVoyages, the major scholarly database of the trade, documents voyages, embarkation regions, disembarkation regions, ship names, owners, mortality and estimates where records are incomplete.",
+      "The scale was enormous: roughly 12.5 million Africans forced onto Atlantic slave ships, with about 10.7 million landing alive in the Americas.",
+      "Brazil received the largest share of enslaved Africans transported across the Atlantic. The Caribbean also received millions. British North America and later the United States received a smaller share of direct Atlantic arrivals, but slavery there expanded dramatically through natural increase and domestic slave trading.",
+      "The Atlantic system therefore cannot be understood only through the United States. It was hemispheric, with Brazil and the Caribbean at its center for much of the trade.",
+      "## Resistance and Maroon Communities",
+      "Enslaved people resisted slavery from the beginning.",
+      "Resistance took many forms.",
+      "Some slowed work, broke tools, preserved banned cultural practices, learned to read against the law, maintained family ties, negotiated small freedoms or used legal systems where available.",
+      "Others escaped, formed maroon communities, organized revolts or fought in wars.",
+      "Maroon communities emerged in places including Jamaica, Suriname, Brazil, Colombia and elsewhere. They were societies built by people who escaped slavery and defended freedom in difficult terrain.",
+      "Resistance was not always successful, and punishment could be severe. But enslaved people continually challenged the system that claimed to own them.",
+      "This matters because history that shows only suffering can accidentally erase agency.",
+      "Enslaved people were victims of a brutal system.",
+      "They were also historical actors.",
+      "## Haiti and the Haitian Revolution",
+      "The Haitian Revolution was one of the most important events in world history.",
+      "Beginning in 1791 in the French colony of Saint-Domingue, enslaved and free people of color challenged one of the richest plantation colonies in the world.",
+      "The conflict became a revolution against slavery, racial hierarchy and colonial rule.",
+      "In 1804, Haiti declared independence. It became the first Black republic and the first modern state born from a successful slave revolt.",
+      "The revolution terrified slaveholding societies across the Atlantic. It also inspired abolitionists and enslaved people because it proved that the plantation order could be overthrown.",
+      "Haiti paid a terrible price afterward, including diplomatic isolation and the burden of a massive French indemnity imposed in the 19th century.",
+      "Even so, the Haitian Revolution remains a defining example of enslaved people's struggle for freedom on a national scale.",
+      "## Abolition Movements",
+      "Abolition did not happen because slaveholding powers suddenly became enlightened.",
+      "It was forced by enslaved resistance, Black abolitionists, religious activists, political organizers, economic change, revolutionary pressure and public campaigns.",
+      "In Britain, abolitionists exposed the violence of the slave trade through petitions, pamphlets, testimony and organizing. Formerly enslaved writers and speakers played a crucial role by forcing the public to confront slavery's reality.",
+      "Britain banned its slave trade in 1807. The British Slavery Abolition Act was passed in 1833, with emancipation beginning in 1834 in most British colonies.",
+      "The distinction matters: banning the trade did not immediately abolish slavery itself.",
+      "Other countries abolished the trade and slavery at different moments, often with long delays, loopholes and compensation schemes that favored former slaveholders rather than formerly enslaved people.",
+      "## Abolition Across the Americas",
+      "Abolition across the Americas was uneven.",
+      "Some northern U.S. states abolished slavery gradually after the American Revolution. Haiti abolished slavery through revolution. Spanish American republics moved through gradual emancipation, free-womb laws, military service promises and post-independence reforms.",
+      "The British Caribbean formally moved toward emancipation in the 1830s. French colonies abolished slavery permanently in 1848 after an earlier revolutionary abolition had been reversed under Napoleon.",
+      "Cuba abolished slavery in 1886.",
+      "Brazil abolished slavery in 1888 with the Lei Aurea, often identified as the last abolition of slavery in the Americas.",
+      "Abolition was not one event. It was a long, contested process, and freedom often arrived without land, compensation, protection or equality for the people who had been enslaved.",
+      "## Slavery and the U.S. Civil War",
+      "In the United States, slavery became the central conflict of the republic.",
+      "The U.S. Constitution protected slavery in indirect ways even while avoiding the word. Cotton slavery expanded across the South, and the domestic slave trade tore apart families as enslaved people were sold from the Upper South to the Deep South.",
+      "The Civil War began in 1861 after Southern states seceded to protect slavery and slaveholding power.",
+      "President Abraham Lincoln's Emancipation Proclamation took effect on January 1, 1863, declaring freedom for enslaved people in areas under Confederate rebellion. It did not instantly free every enslaved person, but it transformed the war into a direct struggle against slavery.",
+      "The Thirteenth Amendment, ratified in December 1865, abolished slavery in the United States except as punishment for crime.",
+      "Black soldiers, enslaved people who fled to Union lines, abolitionists and communities across the country helped make emancipation possible.",
+      "## Brazil and the End of American Slavery",
+      "Brazil received more enslaved Africans through the Atlantic trade than any other destination in the Americas.",
+      "Its plantation economy included sugar, coffee and other forms of labor across a vast territory.",
+      "Brazil did not abolish slavery until May 13, 1888, when Princess Isabel signed the Lei Aurea, or Golden Law.",
+      "The law was short, but its history was long. Enslaved people escaped, resisted, negotiated freedom, built communities and pressured the institution from within. Abolitionists, free Black communities, political reformers and international pressure also mattered.",
+      "Brazil's late abolition meant that slavery remained part of the modern Atlantic world deep into the age of railways, photography and industrial capitalism.",
+      "## Economic Legacy and Racism After Abolition",
+      "Ending slavery did not erase its consequences.",
+      "Formerly enslaved people often received no land, no compensation, limited legal protection and little political power. Former slaveholders, by contrast, frequently kept land, wealth and influence.",
+      "Racial slavery created racial ideologies designed to justify exploitation. Those ideas did not disappear when laws changed.",
+      "In the United States, Reconstruction was followed by Jim Crow segregation, racial terror, disenfranchisement and economic exclusion. In the Caribbean and Latin America, racial hierarchies, land inequality and labor exploitation also persisted in different forms.",
+      "The legacy of slavery can be seen in wealth gaps, land ownership, policing, education, health, political power and cultural memory.",
+      "History does not mean every present inequality has one cause.",
+      "It means the past built structures that lasted beyond the moment of formal abolition.",
+      "## Modern Slavery Today",
+      "Slavery is illegal in every country, but severe exploitation continues.",
+      "Modern slavery is an umbrella term often used for forced labor, forced marriage, human trafficking, debt bondage, forced commercial sexual exploitation and other forms of coercion.",
+      "The 2022 Global Estimates of Modern Slavery from the International Labour Organization, Walk Free and the International Organization for Migration estimated that 50 million people were living in modern slavery on any given day in 2021. The estimate included 28 million people in forced labor and 22 million in forced marriage.",
+      "Modern slavery does not always look like old plantation slavery. It may appear in domestic work, agriculture, construction, manufacturing, fishing, mining, sex trafficking or forced marriage.",
+      "The legal forms have changed.",
+      "The coercion remains.",
+      "## Why This History Still Matters",
+      "The history of slavery matters because it shows how ordinary institutions can normalize extraordinary cruelty.",
+      "Courts enforced slavery.",
+      "Ships carried it.",
+      "Banks financed it.",
+      "Churches debated it.",
+      "Governments regulated it.",
+      "Families inherited wealth from it.",
+      "Consumers bought products made by it.",
+      "That is why slavery cannot be dismissed as a distant moral failure by people unlike us.",
+      "It was built by systems that made exploitation profitable and respectable.",
+      "Remembering slavery accurately means refusing both denial and simplification. It means recognizing African, European, Middle Eastern, Mediterranean, American and global histories without using one to excuse another.",
+      "It means seeing enslaved people not only as labor, but as parents, children, artisans, farmers, musicians, sailors, rebels, thinkers and survivors.",
+      "The central fact remains devastatingly simple.",
+      "Human beings were turned into commodities.",
+      "The work of history is to make sure they are never reduced to commodities again."
+    ],
+    references: [
+      {
+        name: "UNESCO - Routes of Enslaved Peoples",
+        url: "https://www.unesco.org/en/routes-enslaved-peoples"
+      },
+      {
+        name: "SlaveVoyages - Trans-Atlantic Slave Trade Database",
+        url: "https://www.slavevoyages.org/"
+      },
+      {
+        name: "National Endowment for the Humanities - The Trans-Atlantic Slave Trade Database",
+        url: "https://www.neh.gov/project/transatlantic-slave-trade-database"
+      },
+      {
+        name: "Smithsonian National Museum of African American History and Culture - Slavery and Freedom",
+        url: "https://nmaahc.si.edu/explore/exhibitions/slavery-and-freedom"
+      },
+      {
+        name: "Library of Congress - Brazil: Slavery and Abolition",
+        url: "https://guides.loc.gov/brazil-us-relations/slavery-and-abolition"
+      },
+      {
+        name: "The National Archives - Slavery and Abolition",
+        url: "https://www.nationalarchives.gov.uk/education/resources/slavery/"
+      },
+      {
+        name: "International Labour Organization - Global Estimates of Modern Slavery",
+        url: "https://www.ilo.org/publications/major-publications/global-estimates-modern-slavery-forced-labour-and-forced-marriage"
+      },
+      {
+        name: "United Nations - Human Trafficking and Modern Slavery",
+        url: "https://www.unodc.org/unodc/en/human-trafficking/index.html"
+      },
+      {
+        name: "Encyclopaedia Britannica - Haitian Revolution",
+        url: "https://www.britannica.com/event/Haitian-Revolution"
+      }
+    ],
+    tags: [
+      "Slavery",
+      "History",
+      "Atlantic Slave Trade",
+      "Abolition",
+      "Haiti",
+      "Brazil",
+      "Modern Slavery",
+      "Human Rights"
+    ],
+    readingTime: "17 min read",
+    faq: [
+      {
+        question: "When did slavery begin?",
+        answer:
+          "Slavery is documented in some of the earliest civilizations, including ancient Mesopotamia and Egypt, although systems of slavery differed greatly across time and place."
+      },
+      {
+        question: "Was slavery only an Atlantic or American system?",
+        answer:
+          "No. Slavery existed in many societies, including ancient, African, Mediterranean, Islamic, Indian Ocean, European and American systems. Atlantic racial plantation slavery was one especially large and consequential form."
+      },
+      {
+        question: "How many Africans were transported in the transatlantic slave trade?",
+        answer:
+          "SlaveVoyages estimates that about 12.5 million Africans were embarked on Atlantic slave ships and about 10.7 million survived to disembark in the Americas."
+      },
+      {
+        question: "What was the Middle Passage?",
+        answer:
+          "The Middle Passage was the forced Atlantic crossing endured by enslaved Africans transported to the Americas under violent, crowded and deadly conditions."
+      },
+      {
+        question: "What was the Haitian Revolution?",
+        answer:
+          "The Haitian Revolution began in 1791 in Saint-Domingue and led to Haitian independence in 1804, creating the first modern state born from a successful slave revolt."
+      },
+      {
+        question: "When did Britain abolish the slave trade?",
+        answer:
+          "Britain banned its transatlantic slave trade in 1807. Slavery itself was abolished in most British colonies after the Slavery Abolition Act of 1833, with emancipation beginning in 1834."
+      },
+      {
+        question: "Which country was the last in the Americas to abolish slavery?",
+        answer:
+          "Brazil is commonly identified as the last country in the Americas to abolish slavery, doing so with the Lei Aurea in 1888."
+      },
+      {
+        question: "Does slavery still exist today?",
+        answer:
+          "Legal slavery has been abolished, but modern slavery persists through forced labor, forced marriage, trafficking, debt bondage and other forms of coercive exploitation."
+      }
+    ]
+  },
+  {
     id: "042",
     slug: "depression-what-happens-in-the-brain",
     title: "DEPRESSION: WHAT REALLY HAPPENS INSIDE THE BRAIN?",
