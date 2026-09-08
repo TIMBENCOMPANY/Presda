@@ -69,7 +69,7 @@ export const articles: Article[] = [
     date: "2026-09-08",
     lastUpdated: "2026-09-08",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/charles-darwin-theory-of-evolution.jpg",
+    coverImage: "/images/articles/charles-darwin-theory-of-evolution.png",
     coverAlt:
       "Charles Darwin studying natural history specimens in a Victorian study with the HMS Beagle visible near a coastal landscape",
     homepageImagePosition: "52% 45%",
