@@ -53,6 +53,219 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "041",
+    slug: "mark-zuckerberg-facebook-meta-story",
+    title: "MARK ZUCKERBERG: FROM A HARVARD DORM ROOM TO A GLOBAL TECH EMPIRE",
+    seoTitle: "Mark Zuckerberg: Facebook, Meta and the Tech Empire",
+    metaDescription:
+      "The story of Mark Zuckerberg, from Facebook's 2004 launch and Meta's rise to Instagram, WhatsApp, privacy controversies, AI, smart glasses and the metaverse.",
+    headlineHighlights: {
+      red: "MARK ZUCKERBERG",
+      gold: "GLOBAL TECH EMPIRE"
+    },
+    excerpt:
+      "Mark Zuckerberg built Facebook from a Harvard project into Meta, one of the world's most powerful technology companies, reshaping communication, advertising, privacy and AI.",
+    category: "Business",
+    date: "2026-09-08",
+    lastUpdated: "2026-09-08",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/mark-zuckerberg-facebook-meta-story.png",
+    coverAlt:
+      "Mark Zuckerberg wearing smart glasses outside a Meta campus with augmented reality interface concepts",
+    homepageImagePosition: "58% 45%",
+    content: [
+      "Mark Zuckerberg is one of the defining business figures of the internet age.",
+      "He did not invent social networking. He did not create online advertising. He did not begin with a public company, a global platform or a metaverse strategy.",
+      "He began with a website built at Harvard in 2004.",
+      "Two decades later, Facebook had become part of Meta, a company whose apps connect billions of people, whose advertising systems shape digital commerce, and whose decisions influence media, politics, privacy, artificial intelligence and the future of personal computing.",
+      "The Mark Zuckerberg story is therefore not only a founder biography. It is a history of how social media became global infrastructure.",
+      "For more PRESDA technology and business analysis, read [GTA VI and the economics of entertainment](/articles/gta6-trailer-culture-shift/) and [Elon Musk's Mars plan](/articles/elon-mars-signal/).",
+      "## Childhood, Programming and Harvard",
+      "Mark Elliot Zuckerberg was born on May 14, 1984, in White Plains, New York, and grew up in Dobbs Ferry.",
+      "He showed an early interest in computers and programming. As a teenager, he built software projects and developed the kind of technical fluency that later helped him move quickly when social networking began to take shape on college campuses.",
+      "Zuckerberg enrolled at Harvard University, where he studied computer science and psychology. In the early 2000s, university life was becoming increasingly connected through email, personal websites, instant messaging and early social platforms.",
+      "That environment mattered. Facebook did not emerge in a vacuum. It arrived at a moment when identity, friendship and campus status were moving online.",
+      "## Facebook Launches in 2004",
+      "In February 2004, Zuckerberg launched Thefacebook with fellow Harvard students.",
+      "The site began as a social network for Harvard students. It soon expanded to other universities, then high schools, then the general public.",
+      "Its early appeal was simple: real names, profiles, photos, relationship status, school networks and a cleaner interface than many earlier online communities.",
+      "Facebook grew because it translated offline social identity into a digital product people checked repeatedly.",
+      "The company moved to Silicon Valley, attracted venture backing and became one of the fastest-growing internet companies of its era.",
+      "## Rapid Global Expansion",
+      "Facebook opened beyond colleges and universities in 2006.",
+      "From there, growth accelerated around the world. The News Feed made the platform more dynamic. The Like button gave users a simple way to interact. Mobile apps turned Facebook from a website into something people carried all day.",
+      "The company expanded through product development and acquisitions. It became a platform for friends, families, publishers, businesses, political campaigns, creators and advertisers.",
+      "That growth made Facebook powerful, but it also created problems. A platform designed to connect people became a system for distributing information at enormous speed.",
+      "The same architecture that helped families share photos could also amplify misinformation, harassment, political manipulation and low-quality viral content.",
+      "## How Meta Makes Money",
+      "Meta's business model is primarily advertising.",
+      "Advertisers pay to reach people across Facebook, Instagram, Messenger, WhatsApp and related services. Meta's systems use signals from user activity, content engagement, advertiser goals and machine-learning models to place ads.",
+      "In its 2025 Form 10-K, Meta reported $164.50 billion in total revenue for 2024, with advertising making up the overwhelming majority of that revenue. Its Family of Apps segment generated nearly all company revenue, while Reality Labs remained a much smaller revenue source with large operating losses tied to long-term metaverse and device investments.",
+      "Those figures matter because they explain why Meta's strategic debates are so intense. Privacy rules, ad targeting, platform safety, creator products, AI recommendations and competition from TikTok, Apple, Google and others all affect the core economic engine.",
+      "Meta is not simply a social app company. It is one of the world's largest advertising businesses.",
+      "## Facebook IPO",
+      "Facebook went public in May 2012.",
+      "The IPO turned the company into a public-market giant and placed Zuckerberg under a new kind of pressure. Public companies must answer to investors, regulators, employees, advertisers and users at the same time.",
+      "The IPO also highlighted a central feature of Zuckerberg's power: control.",
+      "Meta has a dual-class share structure. Zuckerberg's Class B shares carry greater voting power than Class A shares, allowing him to maintain significant control over corporate decisions even as the company trades publicly.",
+      "That structure gives Meta long-term strategic flexibility. It also raises governance questions because public shareholders have less influence than they would in a one-share, one-vote structure.",
+      "## Instagram and WhatsApp",
+      "Two acquisitions became central to Meta's empire.",
+      "Facebook agreed to acquire Instagram in 2012 in a deal initially valued at about $1 billion. At the time, Instagram was a fast-growing photo-sharing app with a small team and no business model comparable to Facebook's scale.",
+      "The acquisition later became one of the most important deals in technology history. Instagram grew into a global social and advertising platform, shaping celebrity culture, influencer marketing, visual communication and short-form video competition.",
+      "In 2014, Facebook completed its acquisition of WhatsApp. The deal was valued at about $19 billion in cash and stock at announcement, making it one of the largest consumer internet acquisitions ever.",
+      "WhatsApp gave Facebook a dominant messaging service with deep reach outside the United States, especially across Europe, Latin America, Africa and Asia.",
+      "Together, Instagram and WhatsApp made Meta less dependent on the original Facebook app and more central to global communication.",
+      "## Privacy Challenges and Cambridge Analytica",
+      "Facebook's rise brought repeated privacy controversies.",
+      "The most famous was Cambridge Analytica. Reports in 2018 described how data connected to millions of Facebook users had been obtained through a third-party app and used by the political consulting firm Cambridge Analytica.",
+      "The scandal intensified global scrutiny of Facebook's data practices, platform permissions and political advertising.",
+      "In 2019, the Federal Trade Commission announced a $5 billion settlement with Facebook over privacy violations. The FTC described it as a record-setting penalty and imposed new privacy oversight requirements.",
+      "The Securities and Exchange Commission also announced a 2019 settlement over Facebook's risk disclosures related to the misuse of user data.",
+      "These cases did not end the debate. They became part of a wider discussion about how much power large platforms should have over personal data, public speech and democratic information systems.",
+      "## Leadership and Public Criticism",
+      "Zuckerberg's leadership style has often been described as product-driven, engineering-focused and unusually long-term.",
+      "Supporters argue that he has repeatedly adapted Meta through major platform shifts: desktop to mobile, feed to stories and video, Facebook to Instagram, social networking to messaging, and now AI and mixed reality.",
+      "Critics argue that the company moved too fast, treated privacy too loosely, underestimated harms and concentrated too much power in one founder.",
+      "Both facts can be true at the same time.",
+      "Zuckerberg built an extraordinary company. He also became the public face of many of the internet's hardest problems.",
+      "## Facebook Becomes Meta",
+      "In October 2021, Facebook changed its corporate name to Meta Platforms.",
+      "The rebrand signaled Zuckerberg's belief that the next major computing platform would involve immersive digital spaces, virtual reality, augmented reality and what the company called the metaverse.",
+      "The apps did not disappear. Facebook, Instagram, WhatsApp and Messenger remained core products. The corporate identity changed because Zuckerberg wanted investors, employees and users to understand the company as more than Facebook.",
+      "The timing was risky. Meta was already facing regulatory pressure, competition and public distrust. A dramatic rebrand did not erase those problems, and many observers questioned whether the metaverse vision was too expensive and too early.",
+      "## Reality Labs and the Metaverse Bet",
+      "Meta has invested tens of billions of dollars in Reality Labs, the division responsible for virtual reality, augmented reality, Quest headsets, smart glasses and related platform work.",
+      "The spending is real and heavily disclosed in Meta's financial reporting. Reality Labs has produced revenue from hardware and software, but it has also generated large operating losses.",
+      "Zuckerberg has framed those losses as long-term investment in a future computing platform. Investors have often been more cautious, especially when advertising growth slowed or macroeconomic conditions tightened.",
+      "The metaverse bet remains unresolved. Virtual and mixed-reality products have improved, but mainstream adoption is still far from replacing smartphones or traditional social media.",
+      "That is why Meta's future is now shaped by two ambitions at once: build the next computing interface while defending and expanding the current advertising business.",
+      "## Meta AI, Llama and Smart Glasses",
+      "Meta's strategy shifted strongly toward artificial intelligence in the 2020s.",
+      "The company released Llama large language models and positioned open model development as part of its AI strategy. Meta also integrated AI into recommendation systems, advertising tools, content ranking, creator products and consumer assistants.",
+      "AI is not separate from Meta's business. Better recommendation models can affect engagement. Better ad tools can affect advertiser performance. AI assistants may become a new interface for search, messaging and commerce.",
+      "Smart glasses are another important part of the strategy. Meta's Ray-Ban smart glasses partnership with EssilorLuxottica showed that wearable devices could become more practical when they looked like ordinary glasses rather than bulky headsets.",
+      "The long-term question is whether Meta can combine AI, glasses and augmented reality into a consumer platform that people use every day.",
+      "That remains a business thesis, not a guaranteed outcome.",
+      "## Current Role, Wealth and Control",
+      "Zuckerberg remains Meta's founder, chairman and chief executive officer.",
+      "His personal wealth is usually estimated from the market value of his Meta shares and can move dramatically with the company's stock price. Any net worth number should therefore be treated as an estimate tied to a specific date, not a permanent fact.",
+      "More important than wealth is control. Because of Meta's share structure and Zuckerberg's ownership of high-vote stock, he retains unusually strong influence over the company's direction.",
+      "That control has allowed Meta to make long-term bets that many companies might struggle to sustain, including Reality Labs and AI infrastructure.",
+      "It also means accountability questions often return to one person.",
+      "## Philanthropy and the Chan Zuckerberg Initiative",
+      "In 2015, Mark Zuckerberg and Priscilla Chan announced the Chan Zuckerberg Initiative, often called CZI.",
+      "CZI works across areas including science, education and community-related programs. Its structure is not the same as a traditional private foundation; it is organized as a limited liability company, which gives it flexibility in grants, investments and advocacy.",
+      "The initiative has supported biomedical research, education technology and other long-term projects.",
+      "As with Zuckerberg's business power, his philanthropy has attracted both praise and scrutiny. Large-scale giving can fund ambitious work, but it also raises questions about private influence over public priorities.",
+      "## Influence on Technology, Media and Communication",
+      "Meta changed how people communicate.",
+      "Facebook normalized real-name social networking. Instagram reshaped visual culture. WhatsApp became essential infrastructure for messaging in many countries. Meta's ad systems helped small businesses reach customers and helped large brands target audiences at scale.",
+      "But the same influence created major social questions.",
+      "What happens when private platforms govern public conversation?",
+      "How should societies handle misinformation without giving companies unlimited power over speech?",
+      "How should privacy work when social apps are funded by advertising?",
+      "How much control should one company have over social identity, messaging, media distribution and emerging AI interfaces?",
+      "Zuckerberg's legacy will be judged partly by products and financial results, but also by these unresolved questions.",
+      "## What Comes Next for Meta",
+      "Meta's next era is likely to be shaped by three connected battles.",
+      "The first is advertising. Meta must keep its ad business strong while privacy changes, regulation and competition reshape digital marketing.",
+      "The second is AI. Meta is investing heavily in model development, infrastructure and AI features across its apps. The company wants AI to improve recommendations, ads, content tools and consumer assistants.",
+      "The third is computing hardware. Reality Labs, Quest devices and smart glasses represent Zuckerberg's effort to reduce dependence on platforms controlled by other companies.",
+      "None of these futures is guaranteed.",
+      "Meta could remain dominant because its scale, engineering resources and app ecosystem are enormous. It could also face pressure from regulation, user fatigue, younger competitors, hardware uncertainty and the difficulty of turning costly future bets into mass-market products.",
+      "That tension makes Zuckerberg one of the most consequential business leaders of the modern era.",
+      "He built a company that changed friendship, advertising, news, politics, entertainment and private life.",
+      "The next question is whether Meta can shape the future as powerfully as Facebook shaped the past."
+    ],
+    references: [
+      {
+        name: "Meta Investor Relations - Annual Reports and SEC Filings",
+        url: "https://investor.atmeta.com/financials/sec-filings/default.aspx"
+      },
+      {
+        name: "Meta - Company Information",
+        url: "https://about.meta.com/company-info/"
+      },
+      {
+        name: "Meta Newsroom - Facebook to Acquire Instagram",
+        url: "https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/"
+      },
+      {
+        name: "Meta Newsroom - Facebook to Acquire WhatsApp",
+        url: "https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/"
+      },
+      {
+        name: "Meta Newsroom - Facebook Company Is Now Meta",
+        url: "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/"
+      },
+      {
+        name: "Federal Trade Commission - FTC Imposes $5 Billion Penalty and Sweeping New Privacy Restrictions on Facebook",
+        url: "https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook"
+      },
+      {
+        name: "U.S. Securities and Exchange Commission - Facebook to Pay $100 Million for Misleading Investors About the Risks It Faced From Misuse of User Data",
+        url: "https://www.sec.gov/newsroom/press-releases/2019-140"
+      },
+      {
+        name: "Meta AI - Llama",
+        url: "https://ai.meta.com/llama/"
+      },
+      {
+        name: "Chan Zuckerberg Initiative - About CZI",
+        url: "https://chanzuckerberg.com/about/"
+      }
+    ],
+    tags: [
+      "Mark Zuckerberg",
+      "Meta",
+      "Facebook",
+      "Instagram",
+      "WhatsApp",
+      "Technology",
+      "AI",
+      "Business"
+    ],
+    readingTime: "14 min read",
+    faq: [
+      {
+        question: "Who is Mark Zuckerberg?",
+        answer:
+          "Mark Zuckerberg is the founder, chairman and CEO of Meta Platforms, the parent company of Facebook, Instagram, WhatsApp and Messenger."
+      },
+      {
+        question: "When did Mark Zuckerberg launch Facebook?",
+        answer:
+          "Zuckerberg launched Thefacebook at Harvard in February 2004 with fellow students before the service expanded to other universities and eventually the public."
+      },
+      {
+        question: "When did Facebook become Meta?",
+        answer:
+          "Facebook changed its corporate name to Meta Platforms in October 2021 to reflect its focus on social apps, virtual reality, augmented reality and future computing platforms."
+      },
+      {
+        question: "How does Meta make money?",
+        answer:
+          "Meta earns most of its revenue from advertising across its Family of Apps, including Facebook and Instagram. Reality Labs remains a much smaller revenue source with heavy investment costs."
+      },
+      {
+        question: "What were the Instagram and WhatsApp acquisitions?",
+        answer:
+          "Facebook agreed to acquire Instagram in 2012 in a deal initially valued at about $1 billion and announced the WhatsApp acquisition in 2014 in a deal valued at about $19 billion."
+      },
+      {
+        question: "What was Cambridge Analytica?",
+        answer:
+          "Cambridge Analytica was a political consulting firm involved in a major 2018 data controversy over Facebook user information obtained through a third-party app."
+      },
+      {
+        question: "What is Meta's AI strategy?",
+        answer:
+          "Meta is investing in AI models such as Llama, AI assistants, recommendation systems, advertising tools and smart glasses as part of its next platform strategy."
+      }
+    ]
+  },
+  {
     id: "040",
     slug: "carl-sagan-journey-through-our-universe",
     title: "CARL SAGAN: A JOURNEY THROUGH OUR UNIVERSE",
