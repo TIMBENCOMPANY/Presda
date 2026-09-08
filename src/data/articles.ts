@@ -53,6 +53,229 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "042",
+    slug: "depression-what-happens-in-the-brain",
+    title: "DEPRESSION: WHAT REALLY HAPPENS INSIDE THE BRAIN?",
+    seoTitle: "Depression and the Brain: What Science Really Shows",
+    metaDescription:
+      "What happens in the brain during depression? Explore symptoms, brain networks, serotonin, dopamine, stress hormones, neuroplasticity and evidence-based treatment.",
+    headlineHighlights: {
+      red: "DEPRESSION",
+      gold: "INSIDE THE BRAIN"
+    },
+    excerpt:
+      "Depression is not ordinary sadness and not simply a chemical imbalance. It involves mood, reward, stress, sleep, memory, motivation and brain networks that vary from person to person.",
+    category: "Science",
+    date: "2026-09-08",
+    lastUpdated: "2026-09-08",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/depression-what-happens-in-the-brain.png",
+    coverAlt:
+      "Split brain depression concept comparing mood, stress and connection patterns in an accessible neuroscience illustration",
+    homepageImagePosition: "50% 45%",
+    content: [
+      "Depression changes how life feels from the inside.",
+      "It can make ordinary tasks feel heavy. It can flatten pleasure, disturb sleep, slow thinking, sharpen guilt, drain motivation and make the future feel closed off.",
+      "But depression is not weakness, laziness or ordinary sadness stretched over a longer period.",
+      "Clinically, depression is a mental-health disorder involving persistent changes in mood, interest, energy, sleep, appetite, concentration, movement, self-worth and sometimes thoughts of death. A diagnosis depends on patterns of symptoms, duration, impairment and clinical assessment, not on a single emotion or a single brain scan.",
+      "The phrase depression and the brain is useful because depression is biological as well as psychological and social. But it can also mislead if it makes the condition sound like one broken switch.",
+      "Depression is not simply a chemical imbalance. It is not identical in every person. And even when brain imaging finds group-level differences, those images cannot diagnose one individual on their own.",
+      "The supplied hero image is a simplified visual metaphor. Its healthy-versus-depressed labels should not be read as literal diagnostic facts. Real depression varies substantially between people, and clinical diagnosis cannot be made from one picture of the brain.",
+      "For more PRESDA science explainers, read [why do we dream?](/articles/why-do-we-dream/) and [Charles Darwin and the theory of evolution](/articles/charles-darwin-theory-of-evolution/).",
+      "## What Depression Is Clinically",
+      "Major depression is more than having a bad week.",
+      "Medical references such as the World Health Organization and the National Institute of Mental Health describe depression as a disorder that can affect mood, thinking, behavior and physical functioning.",
+      "Common depression symptoms include persistent low mood, loss of interest or pleasure, fatigue, changes in sleep or appetite, difficulty concentrating, feelings of worthlessness or excessive guilt, slowed or agitated movement, and recurrent thoughts about death or self-harm.",
+      "Not every person has every symptom. Some people sleep too much; others cannot sleep. Some lose appetite; others eat more. Some appear visibly slowed; others keep functioning outwardly while struggling internally.",
+      "That variation is one reason depression should not be reduced to a single cartoon of the brain.",
+      "## Sadness vs Depression",
+      "Sadness is a normal human emotion.",
+      "People feel sad after loss, conflict, disappointment or exhaustion. Sadness can be painful without being a disorder.",
+      "Clinical depression differs because symptoms persist, cluster together and interfere with daily life. It can appear without one obvious external cause, or it can develop after stress, grief, illness, trauma or major life changes.",
+      "A clinician looks at duration, severity, impairment, medical history, medications, substance use, other mental-health conditions and safety concerns.",
+      "The point is not to turn every sad feeling into a diagnosis. The point is to recognize when a pattern has become more than ordinary sadness and deserves care.",
+      "## What Brain Imaging Actually Shows",
+      "Brain imaging has helped researchers study depression, but it has limits.",
+      "MRI, fMRI and PET studies can show differences in structure, activity, connectivity and metabolism between groups of people with depression and control groups.",
+      "Researchers have studied areas and circuits involving emotion, reward, memory, attention and stress regulation. These include the prefrontal cortex, anterior cingulate cortex, amygdala, hippocampus, striatum and networks that coordinate attention and internal thought.",
+      "But group averages are not the same as individual diagnosis.",
+      "Two people with depression may have different symptom patterns and different biological profiles. A person without depression may share some imaging features seen in research samples. Imaging is therefore powerful for research but not a simple clinical test that says depressed or not depressed.",
+      "Responsible neuroscience keeps that distinction clear.",
+      "## Brain Networks Involved in Mood and Stress",
+      "The brain does not run mood from one tiny depression center.",
+      "Mood depends on interacting networks.",
+      "Reward circuits help determine whether activities feel motivating or pleasurable. These circuits involve dopamine-related pathways and regions such as the striatum.",
+      "Memory and emotion circuits connect current experience with past learning, fear, grief, threat and meaning. The amygdala and hippocampus are often studied in this context.",
+      "Prefrontal regions help with planning, decision-making, attention, emotion regulation and flexible thinking.",
+      "Large-scale networks such as the default mode network, salience network and executive-control networks help coordinate self-focused thought, attention to important signals and goal-directed control.",
+      "In depression, researchers often find altered activity or connectivity in some of these systems. But the pattern is not identical for everyone.",
+      "## Serotonin, Dopamine and Norepinephrine",
+      "Depression is often explained as a lack of serotonin.",
+      "That is too simple.",
+      "Serotonin, dopamine and norepinephrine are neurotransmitters involved in mood, reward, alertness, sleep, appetite, learning and many other functions. Many antidepressants affect these systems, especially serotonin and norepinephrine signaling.",
+      "But depression cannot be fully explained as one chemical being low in the same way blood sugar can be measured as low.",
+      "The older chemical-imbalance story helped reduce stigma by showing that depression is not a moral failure. But modern neuroscience treats depression as a complex disorder involving circuits, stress biology, genetics, environment, inflammation hypotheses, cognition, sleep, neuroplasticity and social context.",
+      "Antidepressants can help many people, but that does not prove depression is caused only by a shortage of one neurotransmitter.",
+      "## Stress Hormones and the Body",
+      "Depression is connected to the body's stress systems.",
+      "The hypothalamic-pituitary-adrenal axis, often shortened to HPA axis, helps regulate stress responses. Cortisol is one important stress hormone in this system.",
+      "Chronic stress can affect sleep, immune signaling, metabolism, memory and emotional regulation. Research has found HPA-axis changes in some people with depression, although not in every case.",
+      "This helps explain why depression can feel physical.",
+      "It is not just a sad thought. It can involve fatigue, pain, appetite changes, sleep disruption, slowed movement and a body that feels stuck in threat or shutdown.",
+      "## Genetics, Environment and Life Experience",
+      "Depression usually arises from interacting factors.",
+      "Genetics can influence vulnerability, but there is no single depression gene that determines destiny.",
+      "Environment matters. Trauma, chronic stress, isolation, poverty, discrimination, illness, bereavement, family history and major life transitions can all contribute to risk.",
+      "Life experience shapes the brain, and the brain shapes how life experience is processed.",
+      "That circular relationship is one reason depression is not purely biological or purely psychological. It is both, and more.",
+      "## Sleep and Depression",
+      "Sleep and depression are tightly connected.",
+      "Some people with depression have insomnia. Others sleep much more than usual and still feel exhausted. Sleep timing, REM sleep patterns and circadian rhythms can all be disrupted.",
+      "Poor sleep can worsen mood, concentration and emotional regulation. Depression can also make healthy sleep harder to maintain.",
+      "This two-way relationship matters clinically because improving sleep is often part of recovery, even when sleep alone does not explain the whole illness.",
+      "## Neuroplasticity",
+      "Neuroplasticity means the brain can change through experience, learning, stress and treatment.",
+      "Depression research increasingly studies how chronic stress and mood disorders may affect plasticity in circuits related to emotion, reward and cognition.",
+      "This does not mean people can simply think their way out of depression.",
+      "It means the depressed brain is not frozen forever. Psychotherapy, medication, sleep improvement, exercise, social connection, brain-stimulation treatments and time can all interact with the brain's capacity to adapt.",
+      "Recovery is possible, but the path is not identical for everyone.",
+      "## Motivation, Concentration and Pleasure",
+      "One of depression's cruelest features is that it can attack the tools needed for recovery.",
+      "When reward circuits and stress systems are disrupted, enjoyable activities may stop feeling rewarding. This is called anhedonia.",
+      "When attention and executive-control systems are strained, reading, working, planning or making decisions can feel unusually difficult.",
+      "When sleep is disturbed, concentration worsens further.",
+      "When self-critical thinking becomes repetitive, the mind can become trapped in loops of guilt or hopelessness.",
+      "This is why telling a depressed person to just try harder misunderstands the condition. Depression can directly affect the systems involved in effort, pleasure and planning.",
+      "## Psychotherapy",
+      "Psychotherapy is an evidence-based treatment for depression.",
+      "Different approaches can help in different ways. Cognitive behavioral therapy works with patterns of thought and behavior. Interpersonal therapy focuses on relationships and life roles. Behavioral activation helps people rebuild activity patterns that can restore reward and structure.",
+      "Therapy does not mean depression is imaginary.",
+      "Talking, learning, practicing new behaviors and processing experience can change how the brain predicts, responds and regulates emotion.",
+      "For mild to moderate depression, psychotherapy may be used on its own. For more severe depression, it may be combined with medication or other treatments.",
+      "## Antidepressants",
+      "Antidepressants can reduce symptoms for many people, especially in moderate to severe depression.",
+      "Common classes include selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors and other medications with different mechanisms.",
+      "The exact way antidepressants produce clinical improvement is still studied. Their early chemical effects can begin quickly, but mood improvement often takes weeks. This suggests that downstream changes in neural adaptation, stress systems and plasticity may matter.",
+      "Antidepressants are not magic and not personality replacements. Some people respond well. Some respond partially. Some do not respond to a first medication. Side effects can occur.",
+      "Medication decisions should be made with qualified clinicians, especially when symptoms are severe, complex or accompanied by safety concerns.",
+      "## Exercise, Sleep and Social Support",
+      "Supportive factors can matter.",
+      "Regular physical activity has evidence for improving depressive symptoms in many people, though it should not be framed as a cure-all.",
+      "Sleep routines can support emotional regulation. Social connection can reduce isolation and help people stay anchored during recovery. Nutrition, daylight exposure, reduced alcohol misuse and treatment of medical conditions can also matter.",
+      "These factors are supportive, not moral tests.",
+      "A person with depression may know that exercise or connection could help and still find them extremely difficult. That difficulty is part of the illness.",
+      "## Treatment-Resistant Depression",
+      "Some depression does not respond adequately to first-line treatments.",
+      "Treatment-resistant depression usually means symptoms persist despite adequate trials of treatment, though definitions vary.",
+      "Options can include changing medication, combining medications, adding psychotherapy, addressing sleep or medical conditions, and considering specialist treatments.",
+      "Transcranial magnetic stimulation, or TMS, uses magnetic pulses to stimulate targeted brain regions and is used for some forms of depression.",
+      "Electroconvulsive therapy, or ECT, is one of the most effective treatments for severe depression, especially when symptoms are life-threatening, psychotic or resistant to other treatments. Modern ECT is performed under medical supervision with anesthesia, not like the frightening images often shown in old films.",
+      "Other treatments, including ketamine or esketamine in approved clinical contexts, are also part of modern depression care for selected patients.",
+      "These treatments should be discussed with qualified professionals because benefits, risks and suitability vary.",
+      "## What Science Still Does Not Understand",
+      "Depression research has advanced enormously, but major questions remain.",
+      "Scientists still do not have one biological test that diagnoses depression in all people. They do not fully understand why one person responds to one treatment while another does not. They do not yet have a complete map linking every symptom pattern to a specific brain mechanism.",
+      "Depression may ultimately be better understood as a group of related conditions rather than one single disease with one cause.",
+      "That uncertainty is not a failure. It is the frontier.",
+      "Good science can say both things at once: depression is real and biologically meaningful, and the biology is still more complex than any simple slogan.",
+      "## Recovery",
+      "The depressed brain is not a ruined brain.",
+      "Symptoms can improve. Function can return. Pleasure can come back. Concentration can recover. Sleep can stabilize. People can rebuild lives after severe episodes.",
+      "Recovery may involve therapy, medication, social support, lifestyle changes, medical care, crisis support or advanced treatments. It may be fast for some people and slow for others.",
+      "The most important scientific message is also the most human one.",
+      "Depression is not a character flaw.",
+      "It is a serious, treatable condition involving the brain, body, mind and world around a person.",
+      "Understanding that complexity does not make depression less real.",
+      "It makes recovery easier to imagine."
+    ],
+    references: [
+      {
+        name: "World Health Organization - Depressive disorder",
+        url: "https://www.who.int/news-room/fact-sheets/detail/depression"
+      },
+      {
+        name: "National Institute of Mental Health - Depression",
+        url: "https://www.nimh.nih.gov/health/topics/depression"
+      },
+      {
+        name: "National Institute of Mental Health - Mental Health Medications",
+        url: "https://www.nimh.nih.gov/health/topics/mental-health-medications"
+      },
+      {
+        name: "National Institute of Mental Health - Brain Stimulation Therapies",
+        url: "https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies"
+      },
+      {
+        name: "Mayo Clinic - Depression",
+        url: "https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007"
+      },
+      {
+        name: "Harvard Health Publishing - What causes depression?",
+        url: "https://www.health.harvard.edu/mind-and-mood/what-causes-depression"
+      },
+      {
+        name: "Molecular Psychiatry - The serotonin theory of depression: a systematic umbrella review of the evidence",
+        url: "https://www.nature.com/articles/s41380-022-01661-0"
+      },
+      {
+        name: "Nature Reviews Neuroscience - Neurobiology of depression",
+        url: "https://www.nature.com/articles/nrn.2016.69"
+      },
+      {
+        name: "JAMA Psychiatry - Association of exercise with depression",
+        url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2790780"
+      }
+    ],
+    tags: [
+      "Depression",
+      "Brain",
+      "Neuroscience",
+      "Mental Health",
+      "Serotonin",
+      "Neuroplasticity",
+      "Treatment",
+      "Science"
+    ],
+    readingTime: "12 min read",
+    faq: [
+      {
+        question: "Can depression be diagnosed from a brain scan?",
+        answer:
+          "No. Brain imaging is valuable for research, but depression is diagnosed through clinical assessment of symptoms, duration, impairment, history and safety factors."
+      },
+      {
+        question: "Is depression just a chemical imbalance?",
+        answer:
+          "No. Neurotransmitters such as serotonin, dopamine and norepinephrine matter, but depression involves complex interactions among brain circuits, stress biology, genetics, environment, sleep and life experience."
+      },
+      {
+        question: "What brain areas are involved in depression?",
+        answer:
+          "Research often studies the prefrontal cortex, anterior cingulate cortex, amygdala, hippocampus, striatum and large-scale networks involved in reward, memory, emotion, attention and stress."
+      },
+      {
+        question: "Why does depression reduce motivation and pleasure?",
+        answer:
+          "Depression can affect reward and stress systems, making normally meaningful activities feel less rewarding and making planning, effort and concentration more difficult."
+      },
+      {
+        question: "Do antidepressants work immediately?",
+        answer:
+          "Their early chemical effects can begin quickly, but symptom improvement often takes weeks, suggesting downstream brain adaptation and plasticity are involved."
+      },
+      {
+        question: "What is treatment-resistant depression?",
+        answer:
+          "Treatment-resistant depression generally refers to depression that does not improve adequately after sufficient treatment attempts, though definitions vary and specialist care may be needed."
+      },
+      {
+        question: "Can people recover from depression?",
+        answer:
+          "Yes. Depression is treatable, and many people improve with psychotherapy, medication, supportive changes, brain-stimulation treatments or combinations of care."
+      }
+    ]
+  },
+  {
     id: "041",
     slug: "mark-zuckerberg-facebook-meta-story",
     title: "MARK ZUCKERBERG: FROM A HARVARD DORM ROOM TO A GLOBAL TECH EMPIRE",
