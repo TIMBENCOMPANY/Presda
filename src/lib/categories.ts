@@ -9,6 +9,7 @@ export const categoryLabels: Record<ArticleCategory, string> = {
   Lifestyle: "Lifestyle",
   Travel: "Travel",
   Science: "Science",
+  History: "History",
   "World Cup 2026": "World Cup 2026"
 };
 
@@ -21,6 +22,7 @@ export const categoryDescriptions: Record<ArticleCategory, string> = {
   Lifestyle: "Luxury, wellness, design, travel, daily performance, and modern living with intelligent restraint.",
   Travel: "Destinations, hidden gems, future cities, cultural experiences, and premium journeys.",
   Science: "Research, discovery, space, archaeology, health, and evidence-led explanations.",
+  History: "Civilizations, ideas, discoveries, cultural memory, and the forces that shaped human life.",
   "World Cup 2026": "Tournament coverage, football culture, fixtures, stadiums, fans, and World Cup analysis."
 };
 
@@ -37,6 +39,7 @@ const categoriesBySlug: Record<string, ArticleCategory> = {
   lifestyle: "Lifestyle",
   travel: "Travel",
   science: "Science",
+  history: "History",
   "world-cup-2026": "World Cup 2026"
 };
 

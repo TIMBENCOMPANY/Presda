@@ -4,6 +4,7 @@ import {
   Camera,
   FlaskConical,
   Globe2,
+  Landmark,
   Plane,
   Sparkles,
   Trophy
@@ -39,6 +40,8 @@ export function CategoryIcon({ category, className = "h-6 w-6" }: CategoryIconPr
       return <Plane {...iconProps} />;
     case "Science":
       return <FlaskConical {...iconProps} />;
+    case "History":
+      return <Landmark {...iconProps} />;
     case "World Cup 2026":
       return <Trophy {...iconProps} />;
   }
