@@ -53,6 +53,227 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "039",
+    slug: "charles-darwin-theory-of-evolution",
+    title: "CHARLES DARWIN: THE THEORY THAT CHANGED HOW WE UNDERSTAND LIFE",
+    seoTitle: "Charles Darwin and the Theory of Evolution Explained",
+    metaDescription:
+      "Explore Charles Darwin's theory of evolution, the HMS Beagle voyage, natural selection, Alfred Russel Wallace, human evolution and Darwin's scientific legacy.",
+    headlineHighlights: {
+      red: "CHARLES DARWIN",
+      gold: "THEORY THAT CHANGED LIFE"
+    },
+    excerpt:
+      "Charles Darwin did not discover evolution in a single moment. His theory emerged from travel, evidence, doubt, Alfred Russel Wallace's parallel insight and decades of scientific work.",
+    category: "Science",
+    date: "2026-09-08",
+    lastUpdated: "2026-09-08",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/charles-darwin-theory-of-evolution.jpg",
+    coverAlt:
+      "Charles Darwin studying natural history specimens in a Victorian study with the HMS Beagle visible near a coastal landscape",
+    homepageImagePosition: "52% 45%",
+    content: [
+      "Charles Darwin changed the way humans understand life on Earth.",
+      "Before Darwin, many people accepted that species were fixed: created in their present form and largely unchanged through time. Naturalists could describe animals and plants in extraordinary detail, but the deeper question remained difficult.",
+      "Why did living things fit their environments so well?",
+      "Why did extinct species resemble living ones?",
+      "Why did islands contain animals that looked related to nearby mainland species, yet were not quite the same?",
+      "Darwin's answer became one of the most important ideas in modern science: populations change over generations, and natural selection can explain how adaptation arises without a designer individually shaping each trait.",
+      "The Charles Darwin theory of evolution did not appear from nowhere. It grew out of older debates, a five-year voyage, careful notebooks, correspondence with other scientists, the parallel work of Alfred Russel Wallace and the slow accumulation of evidence.",
+      "For more PRESDA science history, read [Galileo and the Church](/articles/galileo-and-the-church/) and [why do we dream?](/articles/why-do-we-dream/).",
+      "## Who Was Charles Darwin?",
+      "Charles Robert Darwin was born on February 12, 1809, in Shrewsbury, England. He grew up in a prosperous family connected to medicine, industry and intellectual life. His grandfather Erasmus Darwin had written speculative evolutionary ideas decades earlier, although Charles Darwin would later develop a much more evidence-based theory.",
+      "Darwin initially studied medicine at the University of Edinburgh, but he disliked surgery and did not become a physician. He later studied at Cambridge, where he was expected to prepare for a clerical career.",
+      "At Cambridge, Darwin became deeply interested in natural history. He collected beetles, read scientific works and formed relationships with mentors who encouraged his observational skills.",
+      "One of those mentors, botanist John Stevens Henslow, helped make possible the opportunity that changed Darwin's life: a place aboard HMS Beagle.",
+      "## The HMS Beagle Voyage",
+      "In 1831, Darwin joined HMS Beagle as a young naturalist on a surveying voyage commanded by Robert FitzRoy.",
+      "The voyage lasted nearly five years, from 1831 to 1836. It took Darwin across the Atlantic, around South America, through the Galapagos Islands, across the Pacific and eventually back to Britain.",
+      "Darwin collected specimens, studied geology, observed animals and plants, and recorded patterns that would later become central to his thinking.",
+      "The voyage did not instantly turn Darwin into the author of evolutionary theory. That is a common myth. Many of his most important interpretations developed after he returned home, while organizing specimens and comparing observations with specialists.",
+      "But the Beagle voyage gave Darwin something essential: a vast, firsthand encounter with the diversity, distribution and history of life.",
+      "## What Darwin Saw in the Galapagos",
+      "The Galapagos Islands occupy a special place in popular accounts of Darwin's life.",
+      "Darwin visited the islands in 1835. He observed animals including tortoises, mockingbirds and finches, and collected specimens from different islands.",
+      "The popular story sometimes suggests that Darwin looked at finches on the islands and immediately understood evolution. The historical record is more complicated.",
+      "Darwin did not fully recognize the evolutionary significance of the finches while he was still in the Galapagos. Later analysis by ornithologist John Gould helped show that the birds Darwin had collected belonged to a group of closely related species.",
+      "The Galapagos mattered because they sharpened a larger pattern: island species often resembled species from the nearest mainland, while also showing distinctive local differences.",
+      "That pattern made sense if species could change after colonizing new environments.",
+      "## Development of Natural Selection",
+      "After returning to Britain, Darwin began developing ideas about species change.",
+      "He studied breeding, artificial selection, geology, fossils, biogeography and the variation found in domestic and wild populations.",
+      "A key insight came from thinking about population pressure. Organisms produce more offspring than can usually survive. Individuals vary. Some variations affect survival and reproduction. If those differences are heritable, they can become more common over generations.",
+      "Darwin called this process natural selection.",
+      "Natural selection did not require individual animals to consciously improve themselves. It did not mean evolution had a plan. It meant that inherited traits affecting survival and reproduction could shift the composition of populations over time.",
+      "Darwin worked on these ideas privately for more than two decades before publishing his major book.",
+      "## Alfred Russel Wallace",
+      "Darwin was not alone.",
+      "Alfred Russel Wallace, a British naturalist working in Southeast Asia, independently developed a theory of evolution by natural selection.",
+      "In 1858, Wallace sent Darwin an essay outlining his idea. Darwin recognized how closely Wallace's theory resembled his own unpublished work.",
+      "The result was a joint presentation of Darwin and Wallace's ideas to the Linnean Society of London in 1858.",
+      "Wallace's role matters. The theory of natural selection is often associated mainly with Darwin because Darwin developed an unusually broad body of supporting evidence and published the major synthesis in 1859. But Wallace independently reached the central insight and deserves a permanent place in the history of evolutionary biology.",
+      "## On the Origin of Species",
+      "Darwin published On the Origin of Species in 1859.",
+      "The book argued that species were not fixed. Instead, Darwin proposed descent with modification: living forms are connected through branching lines of ancestry, and natural selection is a major mechanism by which adaptation evolves.",
+      "Darwin did not know about genes, DNA or modern molecular biology. Gregor Mendel's work on inheritance was not yet part of mainstream biological science.",
+      "That limitation matters. Darwin explained evolution powerfully, but he lacked the later genetic mechanism needed to show exactly how inherited variation is transmitted.",
+      "Even so, On the Origin of Species assembled evidence from domestic breeding, fossils, embryology, geographical distribution and classification. Its force came from the way many separate lines of evidence pointed toward the same conclusion.",
+      "Life had a history.",
+      "Species had changed.",
+      "And natural processes could explain adaptation.",
+      "## Evolution vs Natural Selection",
+      "Evolution and natural selection are related, but they are not identical.",
+      "Evolution means change in heritable characteristics of populations over generations. It includes the branching history of life and the shared ancestry of organisms.",
+      "Natural selection is one mechanism of evolution. It occurs when heritable traits affect survival or reproduction in a particular environment.",
+      "Modern evolutionary biology also includes mechanisms Darwin did not fully understand or did not know at all, including mutation, genetic drift, gene flow, recombination and genetic inheritance through DNA.",
+      "That distinction helps avoid a common error: Darwin did not personally explain every part of evolution as science understands it today. He provided a foundational theory that later biology expanded, tested and refined.",
+      "## Evidence for Evolution",
+      "Evidence for evolution comes from many independent fields.",
+      "Fossils show that life has changed through deep time. Transitional forms and sequences in the fossil record help document major evolutionary changes, although the fossil record is naturally incomplete because fossilization is rare.",
+      "Comparative anatomy shows that organisms can share underlying structures even when those structures serve different functions. The forelimbs of humans, bats, whales and other mammals differ dramatically in use, but they reflect shared anatomical ancestry.",
+      "Biogeography shows that the distribution of species often follows patterns of common descent, dispersal and isolation. Islands are especially revealing because their species often resemble those from nearby continental regions while evolving distinctive forms.",
+      "Embryology and developmental biology reveal shared patterns in related organisms.",
+      "Modern genetics added some of the strongest evidence of all. DNA comparisons allow scientists to reconstruct relationships among species, track mutations and test evolutionary hypotheses with molecular data.",
+      "Evolution is therefore not supported by one fragile argument. It is supported by converging evidence from multiple sciences.",
+      "## Human Evolution and The Descent of Man",
+      "Darwin was cautious in On the Origin of Species about directly discussing human evolution. He famously suggested that light would be thrown on human origins, but he did not make humans the central subject of that book.",
+      "In 1871, Darwin published The Descent of Man, in which he argued that humans also belong within the evolutionary history of life.",
+      "This idea became one of the most controversial parts of Darwin's legacy.",
+      "A crucial clarification is necessary: evolution does not say humans evolved from modern monkeys or modern apes.",
+      "Humans and other living primates share common ancestors. Modern humans, chimpanzees, gorillas and monkeys are not arranged as a ladder in which one living species turns into another. They are branches on a much larger evolutionary tree.",
+      "Human evolution is studied today through fossils, archaeology, comparative anatomy, genetics and paleoenvironmental evidence. Much of that evidence was unavailable to Darwin.",
+      "Modern science has therefore gone far beyond Darwin while preserving the central insight that humans are part of nature's history, not separate from it.",
+      "## Scientific Reaction and Religious Controversy",
+      "The reaction to Darwin was complex.",
+      "Some scientists accepted aspects of evolution quickly while debating natural selection's importance. Others resisted the theory or proposed alternative mechanisms.",
+      "Religious responses were also varied. Some religious thinkers rejected Darwin's ideas as a challenge to traditional interpretations of creation. Others sought ways to reconcile evolution with belief in divine purpose.",
+      "The historical controversy should not be flattened into a simple story of science versus religion. It involved theology, biblical interpretation, Victorian society, scientific evidence, human origins and institutional authority.",
+      "Darwin himself was cautious about public controversy and often suffered from poor health. The public defense of evolutionary ideas was taken up by figures such as Thomas Henry Huxley, while many scientists debated the details for decades.",
+      "Over time, evolutionary biology became central to modern science, especially after genetics and population biology strengthened the theory in the 20th century.",
+      "## Common Darwin and Evolution Myths",
+      "Several myths still distort Darwin's work.",
+      "Myth one: Darwin discovered evolution completely alone. In reality, evolutionary ideas existed before him, and Alfred Russel Wallace independently developed natural selection.",
+      "Myth two: Darwin had a sudden revelation in the Galapagos. The islands were important, but Darwin's theory developed over years of study after the voyage.",
+      "Myth three: humans evolved from modern monkeys. The accurate statement is common ancestry: humans and other primates share ancestors in the past.",
+      "Myth four: natural selection means only the strongest survive. Evolutionary fitness is about reproductive success in a specific environment, not brute strength.",
+      "Myth five: evolution is purely random. Mutations and variation include random elements, but natural selection is non-random in the sense that some heritable traits consistently affect survival and reproduction under particular conditions.",
+      "Myth six: Darwin's theory has not changed. Modern evolutionary biology includes genetics, molecular biology, developmental biology and population-level mechanisms Darwin did not know.",
+      "## What Modern Genetics Added",
+      "Darwin understood that variation and inheritance were essential, but he did not know the physical basis of heredity.",
+      "Modern genetics transformed evolutionary biology.",
+      "Genes, DNA, mutation, recombination and population genetics explained how variation arises and how it can be inherited. The modern synthesis of the 20th century connected Darwinian natural selection with Mendelian genetics.",
+      "Later discoveries in molecular biology allowed scientists to compare genomes across species. Those comparisons revealed deep relationships among organisms and provided powerful evidence for common ancestry.",
+      "Genetics also showed that evolution is not only about visible traits. It operates at molecular levels, shaping proteins, regulatory systems and genetic variation within populations.",
+      "Darwin gave biology its historical framework. Genetics supplied mechanisms and measurement tools that Darwin could not have possessed.",
+      "## Darwin's Scientific Legacy Today",
+      "Darwin's legacy is not that every sentence he wrote remains unchanged.",
+      "Science does not work that way.",
+      "His legacy is that he helped make the diversity of life explainable through natural processes that could be observed, tested and refined.",
+      "Evolutionary thinking now informs medicine, genetics, agriculture, conservation, ecology, epidemiology and the study of biodiversity.",
+      "Antibiotic resistance is evolutionary change in real time. Conservation biology uses evolutionary relationships to understand endangered species. Genomics maps ancestry across life. Public-health researchers study pathogen evolution to track emerging diseases.",
+      "Darwin's theory also changed humanity's self-image. It placed humans inside the same natural history as other organisms.",
+      "That remains intellectually unsettling for some people. It is also one reason the theory has endured. It does not merely describe life. It changes the frame through which life is understood.",
+      "## The Theory That Changed Life",
+      "Charles Darwin did not answer every question about evolution.",
+      "He did not know DNA.",
+      "He did not know modern genetics.",
+      "He did not solve every problem in inheritance, speciation or human origins.",
+      "But he saw something extraordinary: the living world could be understood as a branching history shaped by natural causes.",
+      "Species were not isolated objects placed into nature without ancestry.",
+      "They were related.",
+      "They changed.",
+      "They adapted.",
+      "They carried traces of the past inside their bodies.",
+      "That idea transformed biology from a catalog of living things into a historical science.",
+      "Darwin's work changed how we understand birds on islands, fossils in rocks, bacteria in hospitals, genes in cells and humans themselves.",
+      "The theory was not the end of biology.",
+      "It was the beginning of a deeper explanation of life."
+    ],
+    references: [
+      {
+        name: "Darwin Correspondence Project - Charles Darwin: a biography",
+        url: "https://www.darwinproject.ac.uk/charles-darwin-a-biography"
+      },
+      {
+        name: "Darwin Correspondence Project - The Beagle voyage",
+        url: "https://www.darwinproject.ac.uk/commentary/life-sciences/beagle-voyage"
+      },
+      {
+        name: "Natural History Museum - Charles Darwin and evolution",
+        url: "https://www.nhm.ac.uk/discover/charles-darwin-theory-evolution-natural-selection.html"
+      },
+      {
+        name: "The Royal Society - Darwin and Wallace",
+        url: "https://royalsociety.org/news-resources/projects/evolution/darwin-wallace/"
+      },
+      {
+        name: "Smithsonian National Museum of Natural History - Introduction to Human Evolution",
+        url: "https://humanorigins.si.edu/education/introduction-human-evolution"
+      },
+      {
+        name: "Darwin Online - On the Origin of Species, 1859",
+        url: "https://darwin-online.org.uk/contents.html#origin"
+      },
+      {
+        name: "Darwin Online - The Descent of Man, 1871",
+        url: "https://darwin-online.org.uk/contents.html#descent"
+      },
+      {
+        name: "Nature Education - Evolutionary theory and the modern synthesis",
+        url: "https://www.nature.com/scitable/knowledge/library/the-modern-synthesis-64206508/"
+      }
+    ],
+    tags: [
+      "Charles Darwin",
+      "Evolution",
+      "Natural Selection",
+      "Science",
+      "HMS Beagle",
+      "Galapagos",
+      "Alfred Russel Wallace",
+      "Biology"
+    ],
+    readingTime: "11 min read",
+    faq: [
+      {
+        question: "What is Charles Darwin best known for?",
+        answer:
+          "Charles Darwin is best known for developing the theory of evolution by natural selection, especially through his 1859 book On the Origin of Species."
+      },
+      {
+        question: "Did Darwin invent the idea of evolution?",
+        answer:
+          "No. Evolutionary ideas existed before Darwin. Darwin's major contribution was a powerful evidence-based explanation for adaptation through natural selection."
+      },
+      {
+        question: "Who was Alfred Russel Wallace?",
+        answer:
+          "Alfred Russel Wallace was a naturalist who independently developed a theory of evolution by natural selection. His 1858 essay prompted a joint presentation with Darwin's work."
+      },
+      {
+        question: "Did humans evolve from modern monkeys?",
+        answer:
+          "No. Humans did not evolve from modern monkeys. Humans and other primates share common ancestors in the past and belong to different branches of the evolutionary tree."
+      },
+      {
+        question: "What is the difference between evolution and natural selection?",
+        answer:
+          "Evolution is change in heritable traits of populations over generations. Natural selection is one mechanism that can drive evolutionary change."
+      },
+      {
+        question: "What did modern genetics add to Darwin's theory?",
+        answer:
+          "Modern genetics explained how inherited variation is transmitted through genes and DNA, helping connect Darwin's natural selection with molecular and population-level mechanisms."
+      },
+      {
+        question: "Why was Darwin's theory controversial?",
+        answer:
+          "Darwin's theory challenged fixed-species views and raised difficult questions about human origins, biblical interpretation and humanity's place in nature."
+      }
+    ]
+  },
+  {
     id: "038",
     slug: "history-of-the-vikings",
     title: "THE VIKINGS: RAIDERS, EXPLORERS AND THE WORLD BEYOND THE LEGEND",
