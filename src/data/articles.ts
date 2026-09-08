@@ -53,6 +53,279 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "040",
+    slug: "carl-sagan-journey-through-our-universe",
+    title: "CARL SAGAN: A JOURNEY THROUGH OUR UNIVERSE",
+    seoTitle: "Carl Sagan: A Journey Through Our Universe",
+    metaDescription:
+      "Explore Carl Sagan's life, Cosmos, Voyager, the Pale Blue Dot, SETI and a beginner-friendly journey from Earth to the observable universe.",
+    headlineHighlights: {
+      red: "CARL SAGAN",
+      gold: "OUR UNIVERSE"
+    },
+    excerpt:
+      "Through Carl Sagan's life and ideas, travel from Earth to the Moon, Sun, Solar System, Milky Way, Andromeda and the observable universe.",
+    category: "Science",
+    date: "2026-09-08",
+    lastUpdated: "2026-09-08",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/carl-sagan-journey-through-our-universe.png",
+    coverAlt:
+      "Carl Sagan beside Earth, planets, galaxies and the Voyager Golden Record in a cinematic universe scene",
+    homepageImagePosition: "58% 45%",
+    content: [
+      "Carl Sagan taught millions of people to look up and feel both smaller and more responsible.",
+      "He was a scientist, a teacher, a planetary researcher, a skeptic, a writer and one of the most influential science communicators of the 20th century. Through books, television and spacecraft messages sent beyond Earth, Sagan helped turn astronomy into a human story.",
+      "This article uses Carl Sagan as a guide through our universe: from one planet, to one moon, to one star, to one galaxy, and then outward toward the edge of what humans can observe.",
+      "A light-year is a distance, not a time. It is how far light travels in one year: about 9.46 trillion kilometers. When astronomers say a star is four light-years away, they mean its light takes roughly four years to reach us.",
+      "That fact gives astronomy its strange power. Looking into space also means looking into the past.",
+      "For more PRESDA science features, read [Charles Darwin and the theory of evolution](/articles/charles-darwin-theory-of-evolution/) and [why do we dream?](/articles/why-do-we-dream/).",
+      "## A Child Who Looked Up",
+      "Carl Edward Sagan was born in Brooklyn, New York, on November 9, 1934.",
+      "As a child, he became fascinated by stars, planets, books and science fiction. The 1939 New York World's Fair made a deep impression on him because it presented science and technology as forces that could transform everyday life.",
+      "Sagan studied at the University of Chicago, earning degrees in science and eventually a doctorate. His early scientific work focused on planetary atmospheres, especially Venus and Mars, and on the possibility of life beyond Earth.",
+      "He later became a professor at Cornell University, where he helped build a major career in planetary science while also becoming unusually visible to the public.",
+      "Many scientists do excellent work without becoming famous. Sagan became famous because he could explain difficult ideas without making them feel small.",
+      "## Cornell and a Scientific Career",
+      "At Cornell, Sagan was associated with the Laboratory for Planetary Studies and taught astronomy and space sciences.",
+      "His scientific interests were broad. He worked on planetary atmospheres, the greenhouse effect on Venus, the surface and atmosphere of Mars, organic molecules, extraterrestrial life and the design of messages that could travel aboard spacecraft.",
+      "Sagan was not merely a television presenter who liked science. He was a working scientist involved with major NASA missions, including Mariner, Viking, Voyager and Galileo.",
+      "His career sat at a rare intersection: laboratory science, spacecraft exploration, public education and philosophical reflection on humanity's place in the cosmos.",
+      "## Earth: The Starting Point",
+      "Every journey through the universe begins here.",
+      "Earth is not the center of the universe. It is not the largest planet in the Solar System. It is not even the largest rocky world known to science. But it is the only place where life is known to exist.",
+      "That sentence matters: known to exist.",
+      "As of this publication, no confirmed extraterrestrial life has been discovered. Scientists can identify planets around other stars, study organic chemistry in space, search Mars for signs of past habitability and listen for possible signals from technological civilizations. But evidence of life beyond Earth has not yet been confirmed.",
+      "Sagan cared deeply about that distinction. Wonder was not an excuse to abandon evidence. The possibility of life elsewhere made the universe more interesting, not less demanding.",
+      "Earth is also the planet that gave us the tools to understand it: mathematics, telescopes, spacecraft, spectroscopy, geology, biology and the habit of testing claims against reality.",
+      "## The Moon: Our Nearby World",
+      "The Moon is Earth's natural satellite and the closest large world beyond our planet.",
+      "Its average distance from Earth is about 384,400 kilometers. That is close in astronomical terms, but still enormous by human scale. Apollo astronauts took about three days to reach it.",
+      "The Moon helped humans learn that other worlds are physical places. It has mountains, plains, craters, dust, rocks and a history written by impacts and volcanism.",
+      "For Sagan's generation, the Moon also became a cultural turning point. Humans saw Earth from space and began to understand the planet as a single fragile world.",
+      "That perspective shaped Sagan's later writing. Space exploration was not only about leaving Earth. It was also about seeing Earth clearly.",
+      "## The Sun: One Star Among Many",
+      "The Sun is about 150 million kilometers from Earth on average. Astronomers call this distance one astronomical unit, or AU.",
+      "The Sun contains the overwhelming majority of the mass in the Solar System. Its gravity holds the planets in orbit. Its light powers Earth's climate and supports photosynthesis, the foundation of most life on the planet.",
+      "Yet the Sun is also ordinary in a profound way.",
+      "It is one star among hundreds of billions in the Milky Way. It is not the biggest star, the hottest star or the oldest star. It is a middle-aged star in a galaxy filled with stars.",
+      "Sagan often used that ordinary status to make a larger point: humans live beside a normal star in a vast universe. The scale is humbling, but not meaningless.",
+      "## The Solar System",
+      "Beyond Earth and the Moon lies the wider Solar System.",
+      "Mercury orbits closest to the Sun. Venus is a hot world with a thick carbon dioxide atmosphere and a runaway greenhouse effect. Earth is temperate and ocean-covered. Mars is cold, dry and scarred by evidence that liquid water once shaped its surface.",
+      "Farther out are the giant planets: Jupiter, Saturn, Uranus and Neptune. Their moons include some of the most intriguing places in planetary science. Europa and Enceladus may contain subsurface oceans. Titan has a thick atmosphere and hydrocarbon lakes. Mars remains a major target in the search for evidence of past life.",
+      "Sagan's scientific work helped shape the modern planetary imagination. He argued that planets should be studied as worlds with atmospheres, climates, surfaces and histories, not merely points of light.",
+      "## Mariner, Viking, Voyager and Galileo",
+      "Sagan contributed to or advised several major NASA planetary missions.",
+      "Mariner missions helped explore Venus and Mars. Sagan's work on Venus was important in understanding the planet's extreme greenhouse conditions. Venus became an example of how atmosphere can transform a world.",
+      "The Viking missions landed on Mars in 1976. They carried experiments designed to search for signs of life in Martian soil. The results did not establish life, but Viking transformed Mars from a telescopic object into a world studied directly from its surface.",
+      "Voyager 1 and Voyager 2 launched in 1977 and explored the outer planets. They revealed Jupiter, Saturn, Uranus, Neptune and their moons in unprecedented detail.",
+      "The Galileo mission later studied Jupiter and its moons. Sagan's planetary perspective helped build the public and scientific culture in which such missions made sense: if worlds are knowable, we should go look.",
+      "## Voyager and the Golden Record",
+      "The Voyager spacecraft carried something more than instruments.",
+      "They carried the Golden Record: a phonograph record containing sounds and images selected to represent life and culture on Earth.",
+      "Sagan chaired the committee that helped choose its contents. The record included greetings, music, natural sounds and information about Earth.",
+      "The Golden Record was not designed as a realistic short-term communication device. Space is too vast. The odds of another civilization finding and playing it are extremely small.",
+      "But symbolically, it matters enormously. It is a message from one planet to an unknown future: we were here, we wondered, and we tried to speak.",
+      "Voyager 1 and Voyager 2 later entered interstellar space, meaning they moved beyond the Sun's heliosphere into the region between stars. They remain among humanity's most distant spacecraft.",
+      "## The Pale Blue Dot",
+      "In 1990, at Sagan's urging, Voyager 1 turned its camera back toward Earth from beyond Neptune's orbit.",
+      "The resulting image showed Earth as a tiny point suspended in a beam of sunlight.",
+      "Sagan later made the image famous through Pale Blue Dot, his reflection on human pride, conflict, responsibility and planetary fragility.",
+      "The point was not that Earth is unimportant because it is small.",
+      "The point was that Earth matters because it is where everyone we know has lived. Astronomy can expand the mind and intensify responsibility at the same time.",
+      "## Interstellar Space",
+      "The Solar System does not end with a wall.",
+      "The Sun produces a flow of charged particles called the solar wind. The region dominated by that solar wind is called the heliosphere. Beyond its outer boundary lies interstellar space, the space between stars.",
+      "Voyager 1 crossed into interstellar space in 2012. Voyager 2 followed in 2018, according to NASA.",
+      "That does not mean the spacecraft left the Sun's gravity behind entirely, and it does not mean they are near another star. Spacecraft can enter interstellar space while still being unimaginably far from the nearest star system.",
+      "This is one of the first lessons of cosmic scale: leaving the neighborhood of the Sun is not the same thing as reaching another home.",
+      "## The Milky Way",
+      "The Sun is part of the Milky Way galaxy.",
+      "The Milky Way is a vast spiral galaxy containing hundreds of billions of stars, along with gas, dust, planets, stellar remnants and dark matter.",
+      "Our Solar System sits far from the galactic center, in one of the galaxy's spiral-arm regions. From Earth, the Milky Way appears as a pale band across dark skies because we are looking through the crowded disk of our own galaxy.",
+      "The galaxy is not static. Stars orbit the galactic center. Gas clouds collapse. New stars form. Old stars die. Supernovae enrich space with elements that later become part of planets and living bodies.",
+      "Sagan's famous phrase that humans are made of star-stuff expressed a scientific truth: many elements in our bodies were forged in earlier generations of stars.",
+      "## Sagittarius A*",
+      "At the center of the Milky Way lies Sagittarius A*, a supermassive black hole.",
+      "In 2022, the Event Horizon Telescope collaboration released an image of the region around Sagittarius A*. The image did not show the black hole itself as a solid object. Black holes do not emit light from within the event horizon. Instead, the image revealed glowing material shaped by extreme gravity around the black hole's shadow.",
+      "For readers new to astronomy, a black hole is a region where gravity is so strong that beyond a boundary called the event horizon, even light cannot escape.",
+      "Sagittarius A* is powerful, but it is not a cosmic vacuum cleaner swallowing the entire galaxy. Stars orbit it, but the Milky Way is held together by the gravity of all its matter, including stars, gas and dark matter.",
+      "## Andromeda",
+      "The nearest major spiral galaxy to the Milky Way is Andromeda, also known as M31.",
+      "It is about 2.5 million light-years away. That means the light we see from Andromeda began traveling toward us roughly 2.5 million years ago.",
+      "Andromeda and the Milky Way are moving toward each other and are expected to merge billions of years in the future. That future merger is a prediction based on present observations and models, not an event humans will witness on ordinary historical timescales.",
+      "Seeing Andromeda with the unaided eye under dark skies is one of the simplest ways to feel cosmic distance. A faint smudge in the sky is an entire galaxy.",
+      "## Galaxies and the Cosmic Web",
+      "The universe contains galaxies in many forms: spirals, ellipticals, irregular galaxies and dwarf galaxies.",
+      "Galaxies do not float evenly through space like dots sprinkled at random. On the largest scales, they form clusters, filaments and immense structures sometimes described as the cosmic web.",
+      "Between those structures are great cosmic voids. Matter is not distributed uniformly at every scale, even though the universe appears broadly uniform when averaged over the largest distances.",
+      "This structure grew over billions of years under gravity from tiny early density differences. Observing galaxies is therefore also a way of studying cosmic history.",
+      "## Dark Matter",
+      "The visible matter in stars, gas, dust and planets is not enough to explain how galaxies and galaxy clusters behave.",
+      "Astronomers infer the existence of dark matter from gravitational evidence, including galaxy rotation, gravitational lensing and the large-scale structure of the universe.",
+      "Dark matter is called dark because it does not emit, absorb or reflect light in the ordinary way. Scientists know it through gravity, but its exact particle nature remains unknown.",
+      "That is an important distinction: dark matter is not simply a guess used to hide ignorance. It is a hypothesis supported by multiple lines of gravitational evidence, while its underlying identity remains one of the great open problems in physics.",
+      "## Dark Energy",
+      "Dark energy is the name given to whatever is driving the observed accelerated expansion of the universe.",
+      "In the late 1990s, observations of distant supernovae showed that cosmic expansion is speeding up rather than slowing down as expected.",
+      "Dark energy is even more mysterious than dark matter. It may relate to the energy of space itself, or it may point toward deeper physics not yet fully understood.",
+      "Scientists can measure effects associated with dark energy in cosmology, but its nature remains unknown.",
+      "This is where astronomy becomes wonderfully honest. The best science does not pretend every major question has already been answered.",
+      "## The Big Bang",
+      "The Big Bang is often misunderstood.",
+      "It was not an explosion at one point in empty space.",
+      "The Big Bang model describes the early universe expanding from a hotter, denser state. Space itself has expanded over time. Galaxies are not flying away from a central blast site through pre-existing emptiness.",
+      "Evidence for the Big Bang includes the expansion of the universe, the abundance of light elements and the cosmic microwave background, or CMB.",
+      "The CMB is ancient radiation from the early universe, released when the universe had cooled enough for light to travel freely. Today it appears as a faint microwave glow coming from all directions.",
+      "The Big Bang model is one of the strongest frameworks in modern cosmology, but it does not answer every question. It does not by itself explain why there is something rather than nothing, and it does not necessarily describe the entire universe beyond what we can observe.",
+      "## The Observable Universe",
+      "The observable universe is the part of the universe from which light has had time to reach us since the early universe became transparent.",
+      "Because the universe has expanded while light has traveled, the observable universe is much larger than simply 13.8 billion light-years across. Astronomers estimate that the observable universe is about 93 billion light-years in diameter.",
+      "Observable does not mean entire.",
+      "There may be far more universe beyond what we can see. It may be finite or much larger than the observable region. Some models allow for an infinite universe, but science has not confirmed that the whole universe is definitely infinite.",
+      "The honest answer is that the observable universe is our evidence horizon.",
+      "Beyond it, we must be careful.",
+      "## SETI and the Drake Equation",
+      "Sagan was one of the most famous advocates for the scientific search for extraterrestrial intelligence, often called SETI.",
+      "SETI does not begin by assuming aliens have been found. It asks whether technological civilizations might produce signals that could be detected across interstellar distances.",
+      "Sagan also helped popularize the Drake Equation, formulated by astronomer Frank Drake. The equation organizes unknown factors relevant to estimating the possible number of communicative civilizations in the Milky Way.",
+      "The Drake Equation is not a machine that produces a confirmed answer. Many of its terms remain uncertain. Its value lies in turning a vague question into a structured scientific discussion.",
+      "No confirmed extraterrestrial civilization has been detected as of this publication.",
+      "But the search continues because the question is too important to ignore and too scientific to leave only to speculation.",
+      "## Cosmos and Science Communication",
+      "In 1980, Cosmos: A Personal Voyage brought Sagan's voice and imagination to a mass audience.",
+      "The series combined astronomy, biology, history, philosophy and storytelling. It did something rare: it respected viewers enough to give them big ideas without burying them in jargon.",
+      "Sagan did not make science feel colder. He made it feel more alive.",
+      "He explained that skepticism and wonder are not enemies. Wonder asks the question. Skepticism protects the answer from wishful thinking.",
+      "That balance helped define his public legacy.",
+      "## Skepticism and Evidence",
+      "Sagan argued that extraordinary claims require strong evidence. The exact phrasing is most famously associated with him in modern popular science.",
+      "That principle matters because humans are pattern-seeking creatures. We notice coincidences. We remember stories. We feel certainty before evidence is complete.",
+      "Sagan did not think skepticism meant cynicism. A skeptic is not someone who refuses to believe anything. A good skeptic asks what evidence would distinguish a true claim from a false one.",
+      "This is why Sagan cared about pseudoscience, superstition and claims of alien visitation. He thought the possibility of extraterrestrial life was fascinating, but he also insisted that fascination is not proof.",
+      "PRESDA explored the same evidence question in [Magic and the Paranormal](/articles/magic-paranormal-james-randi/).",
+      "## Sagan's Death",
+      "Carl Sagan died on December 20, 1996, at age 62.",
+      "His death came after complications related to myelodysplasia, a bone marrow disease, following treatment including bone marrow transplants.",
+      "His scientific and cultural influence continued after his death through his books, students, colleagues, television work and the spacecraft that still carry human-made messages into deep space.",
+      "Sagan did not live to see the Event Horizon Telescope image a black hole, the discovery of thousands of exoplanets, or the James Webb Space Telescope's early observations of the distant universe.",
+      "But he helped build the public imagination that made those discoveries feel like part of a shared human adventure.",
+      "## Returning to Earth",
+      "A journey through our universe can make Earth seem tiny.",
+      "It is tiny.",
+      "The Moon is far. The Sun is enormous. The Solar System is vast. The nearest stars are remote. The Milky Way contains hundreds of billions of suns. Andromeda is millions of light-years away. The observable universe spans tens of billions of light-years.",
+      "But scale does not erase meaning.",
+      "Sagan's deepest lesson was not simply that the universe is large. It was that understanding the universe should change how we behave on Earth.",
+      "There is no confirmed second home for humanity.",
+      "There is no evidence that help is waiting among the stars.",
+      "There is, however, one planet where humans know air, oceans, forests, cities, music, language, memory and life.",
+      "That is where the cosmic journey returns.",
+      "Back to Earth.",
+      "Back to evidence.",
+      "Back to responsibility.",
+      "Carl Sagan made the universe feel immense. He also made one small planet feel irreplaceable."
+    ],
+    references: [
+      {
+        name: "NASA - Carl Sagan and the Pale Blue Dot",
+        url: "https://science.nasa.gov/resource/voyager-1s-pale-blue-dot/"
+      },
+      {
+        name: "NASA/JPL - Voyager Golden Record",
+        url: "https://voyager.jpl.nasa.gov/golden-record/"
+      },
+      {
+        name: "NASA - Voyager Mission Status",
+        url: "https://voyager.jpl.nasa.gov/mission/status/"
+      },
+      {
+        name: "Cornell University - Carl Sagan Institute",
+        url: "https://carlsaganinstitute.cornell.edu/"
+      },
+      {
+        name: "NASA Solar System Exploration - Overview",
+        url: "https://science.nasa.gov/solar-system/"
+      },
+      {
+        name: "NASA - Moon Facts",
+        url: "https://science.nasa.gov/moon/facts/"
+      },
+      {
+        name: "NASA - What Is a Light-Year?",
+        url: "https://spaceplace.nasa.gov/light-year/en/"
+      },
+      {
+        name: "NASA - What Is the Big Bang?",
+        url: "https://science.nasa.gov/universe/the-big-bang/"
+      },
+      {
+        name: "ESA - Planck and the Cosmic Microwave Background",
+        url: "https://www.esa.int/Science_Exploration/Space_Science/Planck"
+      },
+      {
+        name: "Event Horizon Telescope - First Sagittarius A* Results",
+        url: "https://eventhorizontelescope.org/press-release/astronomers-reveal-first-image-black-hole-heart-our-galaxy"
+      },
+      {
+        name: "NASA - Dark Matter",
+        url: "https://science.nasa.gov/universe/dark-matter-dark-energy/dark-matter/"
+      },
+      {
+        name: "NASA - Dark Energy",
+        url: "https://science.nasa.gov/universe/dark-matter-dark-energy/dark-energy/"
+      }
+    ],
+    tags: [
+      "Carl Sagan",
+      "Cosmos",
+      "Universe",
+      "Astronomy",
+      "NASA",
+      "Voyager",
+      "SETI",
+      "Pale Blue Dot"
+    ],
+    readingTime: "16 min read",
+    faq: [
+      {
+        question: "Who was Carl Sagan?",
+        answer:
+          "Carl Sagan was an American astronomer, planetary scientist, Cornell professor, author and science communicator best known for Cosmos, Pale Blue Dot and his work connected to NASA planetary missions."
+      },
+      {
+        question: "What did Carl Sagan work on at NASA?",
+        answer:
+          "Sagan contributed to or advised NASA planetary missions including Mariner, Viking, Voyager and Galileo, and helped lead the team that created the Voyager Golden Record."
+      },
+      {
+        question: "What is a light-year?",
+        answer:
+          "A light-year is a unit of distance. It is the distance light travels in one year, about 9.46 trillion kilometers."
+      },
+      {
+        question: "Is the observable universe the entire universe?",
+        answer:
+          "Not necessarily. The observable universe is the region from which light has had time to reach us. The whole universe may extend far beyond it."
+      },
+      {
+        question: "Was the Big Bang an explosion in empty space?",
+        answer:
+          "No. The Big Bang model describes the universe expanding from a hotter, denser early state. It was not a conventional explosion from one point into empty space."
+      },
+      {
+        question: "Has extraterrestrial life been confirmed?",
+        answer:
+          "No confirmed extraterrestrial life has been discovered as of this publication, although scientists continue to search for biosignatures, habitable worlds and possible technological signals."
+      },
+      {
+        question: "What is Carl Sagan's scientific legacy?",
+        answer:
+          "Sagan's legacy includes planetary science, public understanding of astronomy, SETI advocacy, skepticism, the Voyager Golden Record and a powerful cultural vision of Earth in cosmic perspective."
+      }
+    ]
+  },
+  {
     id: "039",
     slug: "charles-darwin-theory-of-evolution",
     title: "CHARLES DARWIN: THE THEORY THAT CHANGED HOW WE UNDERSTAND LIFE",
