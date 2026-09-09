@@ -86,7 +86,11 @@ async function validate() {
     assert(/property="og:title"/.test(html), `${path} missing Open Graph title`, errors);
     assert(/property="og:image"/.test(html), `${path} missing Open Graph image`, errors);
     assert(/name="twitter:card"/.test(html), `${path} missing Twitter card`, errors);
-    assert(jsonLdTypes.includes("NewsArticle"), `${path} missing NewsArticle schema`, errors);
+    assert(
+      jsonLdTypes.some((type) => ["Article", "BlogPosting", "NewsArticle"].includes(type)),
+      `${path} missing Article/BlogPosting/NewsArticle schema`,
+      errors
+    );
     assert(jsonLdTypes.includes("BreadcrumbList"), `${path} missing BreadcrumbList schema`, errors);
     assert(!jsonLdTypes.includes("INVALID_JSON_LD"), `${path} contains invalid JSON-LD`, errors);
     assert(/<h1\b/i.test(html), `${path} missing H1`, errors);

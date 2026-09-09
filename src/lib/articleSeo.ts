@@ -56,7 +56,7 @@ export function getArticleSections(article: Article): ArticleSection[] {
 }
 
 export function getArticleFaqs(article: Article): ArticleFaq[] {
-  if (article.faq?.length) {
+  if (hasArticleSpecificFaqs(article)) {
     return article.faq;
   }
 
@@ -106,6 +106,18 @@ export function getArticleFaqs(article: Article): ArticleFaq[] {
   ];
 }
 
+export function hasArticleSpecificFaqs(article: Article): article is Article & { faq: ArticleFaq[] } {
+  return Boolean(article.faq?.length);
+}
+
+export function getArticleSchemaType(article: Article) {
+  if (article.category === "World" || article.category === "Paparazzi" || article.category === "Sport" || article.category === "World Cup 2026") {
+    return "NewsArticle";
+  }
+
+  return "Article";
+}
+
 export function getArticleReferences(article: Article): ArticleReference[] {
   if (article.references?.length) {
     return article.references;
@@ -142,7 +154,7 @@ export function articleJsonLd(article: Article) {
 
   return {
     "@context": "https://schema.org",
-    "@type": "NewsArticle",
+    "@type": getArticleSchemaType(article),
     headline: article.title,
     description: article.excerpt,
     image,

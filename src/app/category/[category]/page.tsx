@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBrowser } from "@/components/ArticleBrowser";
 import { CategoryIcon } from "@/components/CategoryIcon";
-import { categories, getPublishedArticles } from "@/data/articles";
+import { categories, getPublishedArticles, type ArticleCategory } from "@/data/articles";
 import {
   categoryDescriptions,
   categoryLabels,
@@ -15,6 +16,32 @@ type CategoryPageProps = {
   params: {
     category: string;
   };
+};
+
+const categoryHubCopy: Partial<Record<ArticleCategory, string>> = {
+  Science:
+    "Explore evidence-led explainers on evolution, space, the brain, sleep, language, extinction and the methods scientists use to separate evidence from uncertainty.",
+  History:
+    "Follow connected histories of civilizations, empires, archaeology, migration, conflict and cultural memory through PRESDA's long-form History archive."
+};
+
+const categoryHubLinks: Partial<Record<ArticleCategory, Array<{ href: string; label: string }>>> = {
+  Science: [
+    { href: "/articles/dinosaurs-rise-fall-fossils-extinction/", label: "Dinosaurs" },
+    { href: "/articles/charles-darwin-theory-of-evolution/", label: "Evolution" },
+    { href: "/articles/how-humans-learned-to-speak/", label: "Language" },
+    { href: "/articles/carl-sagan-journey-through-our-universe/", label: "Universe" },
+    { href: "/articles/depression-what-happens-in-the-brain/", label: "Brain" },
+    { href: "/articles/why-do-we-dream/", label: "Dreams" }
+  ],
+  History: [
+    { href: "/articles/ancient-greece-civilization-history/", label: "Ancient Greece" },
+    { href: "/articles/history-of-egyptian-pyramids/", label: "Egyptian Pyramids" },
+    { href: "/articles/ottoman-empire-rise-and-fall/", label: "Ottoman Empire" },
+    { href: "/articles/history-of-the-vikings/", label: "Vikings" },
+    { href: "/articles/titanic-what-really-happened/", label: "Titanic" },
+    { href: "/articles/history-of-slavery/", label: "Slavery" }
+  ]
 };
 
 export function generateStaticParams() {
@@ -90,6 +117,22 @@ export default function CategoryPage({ params }: CategoryPageProps) {
           {categoryLabels[category]}
         </h1>
         <p className="mt-4 max-w-3xl text-sm leading-7 text-[color:var(--muted)] sm:mt-5 sm:text-base">{categoryDescriptions[category]}</p>
+        {categoryHubCopy[category] ? (
+          <div className="mt-5 border-t border-[color:var(--border)] pt-5">
+            <p className="max-w-3xl text-sm leading-7 text-[color:var(--muted)]">{categoryHubCopy[category]}</p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              {categoryHubLinks[category]?.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="rounded-lg border border-[#FF1A1A]/30 px-3 py-2 font-display text-[10px] font-extrabold uppercase tracking-wide text-[#FF1A1A] transition hover:border-[#FF1A1A]"
+                >
+                  {link.label}
+                </Link>
+              ))}
+            </div>
+          </div>
+        ) : null}
       </header>
       <ArticleBrowser articles={articles} initialCategory={category} />
     </main>

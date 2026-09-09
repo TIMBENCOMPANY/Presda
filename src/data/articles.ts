@@ -58,7 +58,7 @@ export const articles: Article[] = [
     title: "DINOSAURS: THE RISE AND FALL OF THE GIANTS THAT RULED EARTH",
     seoTitle: "Dinosaurs: Fossils, Evolution and the Asteroid That Changed Earth",
     metaDescription:
-      "Explore the science of dinosaurs: their origins, fossils, T. rex, giant sauropods, feathers, dinosaur eggs, the Chicxulub asteroid extinction and why birds are living dinosaurs.",
+      "Explore dinosaur history through fossils, T. rex, giant sauropods, feathers, eggs, Chicxulub extinction and why birds are living dinosaurs today.",
     headlineHighlights: {
       red: "DINOSAURS",
       gold: "RISE AND FALL"
@@ -76,7 +76,7 @@ export const articles: Article[] = [
     content: [
       "The history of dinosaurs is not a short story about monsters that appeared, roared and vanished.",
       "It is one of the longest and most successful chapters in the history of life on land.",
-      "Dinosaurs first appeared during the Triassic Period, more than 230 million years ago. Non-avian dinosaurs disappeared at the end of the Cretaceous, about 66 million years ago. That means dinosaurs existed for more than 160 million years before the catastrophe that transformed Earth.",
+      "Dinosaurs first appeared during the Triassic Period, more than 230 million years ago. Non-avian dinosaurs disappeared at the end of the Cretaceous, about 66 million years ago, a boundary tied to the [Chicxulub impact evidence](https://www.usgs.gov/centers/geology-geophysics-and-geochemistry-science-center/science/chicxulub-impact-event). That means dinosaurs existed for more than 160 million years before the catastrophe that transformed Earth.",
       "Humans have existed for only a tiny fraction of that time.",
       "We never lived with non-avian dinosaurs.",
       "Everything we know about them comes from evidence left behind: bones, teeth, eggs, nests, footprints, skin impressions, feathers, stomach contents, coprolites, microscopic bone structure, rock layers and chemical traces in the Earth itself.",
@@ -370,7 +370,7 @@ export const articles: Article[] = [
     title: "LANGUAGE: HOW DID HUMANS LEARN TO SPEAK?",
     seoTitle: "How Did Humans Learn to Speak? The Evolution of Language",
     metaDescription:
-      "How did human language begin? Explore the evolution of speech, the human brain, early Homo sapiens, ancient languages, writing and the thousands of languages spoken today.",
+      "Explore the evolution of human language, from speech, brains and Homo sapiens to ancient writing, language families and thousands of languages today.",
     headlineHighlights: {
       red: "LANGUAGE",
       gold: "HUMANS LEARN TO SPEAK"
@@ -392,7 +392,7 @@ export const articles: Article[] = [
       "There is no fossil of a sentence.",
       "There is no recording of the first story.",
       "There is no ancient inscription from the beginning of speech because spoken language almost certainly existed for a very long time before writing.",
-      "What scientists can study is indirect evidence: human fossils, brain evolution, vocal anatomy, genetics, archaeology, child development, sign languages, comparative animal communication, historical linguistics and the oldest writing systems.",
+      "What scientists can study is indirect evidence: human fossils, brain evolution, vocal anatomy, genetics, archaeology, child development, sign languages, comparative animal communication, [historical linguistics](https://www.eva.mpg.de/linguistic-and-cultural-evolution/) and the oldest writing systems.",
       "The result is not one simple answer.",
       "It is a careful reconstruction of how humans became animals who could share ideas across minds.",
       "For more PRESDA science context, read [why we dream](/articles/why-do-we-dream/), [Charles Darwin and evolution](/articles/charles-darwin-theory-of-evolution/) and [depression and the brain](/articles/depression-what-happens-in-the-brain/).",
@@ -1372,7 +1372,7 @@ export const articles: Article[] = [
     title: "THE HISTORY OF SLAVERY: HOW HUMANS BECAME A COMMODITY",
     seoTitle: "The History of Slavery: Ancient Worlds to Modern Trafficking",
     metaDescription:
-      "Explore the history of slavery from ancient Mesopotamia, Egypt, Greece and Rome to the Atlantic slave trade, abolition, the U.S. Civil War, Brazil and modern slavery.",
+      "Explore the history of slavery, from ancient societies and Atlantic plantations to abolition, the U.S. Civil War, Brazil and modern forced labor.",
     headlineHighlights: {
       red: "SLAVERY",
       gold: "HUMANS BECAME A COMMODITY"
@@ -1459,7 +1459,7 @@ export const articles: Article[] = [
       "Conditions were horrific. Ships were crowded, disease spread easily, food and water were limited, sanitation was poor and violence was constant.",
       "People were chained, packed below decks and subjected to physical and psychological trauma. Families and communities had already been torn apart before the crossing began.",
       "Mortality varied by period, route, ship and conditions, but death was a major feature of the system.",
-      "According to the Trans-Atlantic Slave Trade Database, about 12.5 million Africans were embarked on slave ships for the Americas, and about 10.7 million survived the voyage and disembarked. That means roughly 1.8 million people died during the Atlantic crossing itself, not counting those killed during capture, forced marches, coastal confinement or the plantation regimes that followed.",
+      "According to the [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/), about 12.5 million Africans were embarked on slave ships for the Americas, and about 10.7 million survived the voyage and disembarked. That means roughly 1.8 million people died during the Atlantic crossing itself, not counting those killed during capture, forced marches, coastal confinement or the plantation regimes that followed.",
       "Numbers help show scale.",
       "They cannot measure the full human loss.",
       "## Scale of the Transatlantic Trade",
@@ -1643,7 +1643,7 @@ export const articles: Article[] = [
     title: "DEPRESSION: WHAT REALLY HAPPENS INSIDE THE BRAIN?",
     seoTitle: "Depression and the Brain: What Science Really Shows",
     metaDescription:
-      "What happens in the brain during depression? Explore symptoms, brain networks, serotonin, dopamine, stress hormones, neuroplasticity and evidence-based treatment.",
+      "Learn what depression does in the brain, from symptoms and mood networks to serotonin, stress hormones, sleep, neuroplasticity and treatment.",
     headlineHighlights: {
       red: "DEPRESSION",
       gold: "INSIDE THE BRAIN"
@@ -1662,7 +1662,7 @@ export const articles: Article[] = [
       "Depression changes how life feels from the inside.",
       "It can make ordinary tasks feel heavy. It can flatten pleasure, disturb sleep, slow thinking, sharpen guilt, drain motivation and make the future feel closed off.",
       "But depression is not weakness, laziness or ordinary sadness stretched over a longer period.",
-      "Clinically, depression is a mental-health disorder involving persistent changes in mood, interest, energy, sleep, appetite, concentration, movement, self-worth and sometimes thoughts of death. A diagnosis depends on patterns of symptoms, duration, impairment and clinical assessment, not on a single emotion or a single brain scan.",
+      "Clinically, [depression](https://www.who.int/news-room/fact-sheets/detail/depression) is a mental-health disorder involving persistent changes in mood, interest, energy, sleep, appetite, concentration, movement, self-worth and sometimes thoughts of death. A diagnosis depends on patterns of symptoms, duration, impairment and clinical assessment, not on a single emotion or a single brain scan.",
       "The phrase depression and the brain is useful because depression is biological as well as psychological and social. But it can also mislead if it makes the condition sound like one broken switch.",
       "Depression is not simply a chemical imbalance. It is not identical in every person. And even when brain imaging finds group-level differences, those images cannot diagnose one individual on their own.",
       "The supplied hero image is a simplified visual metaphor. Its healthy-versus-depressed labels should not be read as literal diagnostic facts. Real depression varies substantially between people, and clinical diagnosis cannot be made from one picture of the brain.",
@@ -2158,7 +2158,7 @@ export const articles: Article[] = [
       "## Interstellar Space",
       "The Solar System does not end with a wall.",
       "The Sun produces a flow of charged particles called the solar wind. The region dominated by that solar wind is called the heliosphere. Beyond its outer boundary lies interstellar space, the space between stars.",
-      "Voyager 1 crossed into interstellar space in 2012. Voyager 2 followed in 2018, according to NASA.",
+      "Voyager 1 crossed into interstellar space in 2012. Voyager 2 followed in 2018, according to [NASA mission status](https://voyager.jpl.nasa.gov/mission/status/).",
       "That does not mean the spacecraft left the Sun's gravity behind entirely, and it does not mean they are near another star. Spacecraft can enter interstellar space while still being unimaginably far from the nearest star system.",
       "This is one of the first lessons of cosmic scale: leaving the neighborhood of the Sun is not the same thing as reaching another home.",
       "## The Milky Way",
@@ -2573,7 +2573,7 @@ export const articles: Article[] = [
     title: "THE VIKINGS: RAIDERS, EXPLORERS AND THE WORLD BEYOND THE LEGEND",
     seoTitle: "The Vikings: History, Explorers, Warriors and Myths",
     metaDescription:
-      "Discover the real history of the Vikings - from Scandinavia and Lindisfarne to England, Constantinople, Greenland and North America, and separate Viking fact from legend.",
+      "Discover Viking history from Scandinavia, Lindisfarne and longships to England, Constantinople, Greenland, North America and Norse myth.",
     headlineHighlights: {
       red: "VIKINGS",
       gold: "WORLD BEYOND THE LEGEND"
@@ -2971,7 +2971,7 @@ export const articles: Article[] = [
     title: "THE HAPPIEST COUNTRIES IN THE WORLD - AND WHY THEY KEEP WINNING",
     seoTitle: "Happiest Countries in the World 2026 - And Why",
     metaDescription:
-      "Discover the happiest countries in the world in 2026, why Finland ranks No. 1 for the ninth year, and what wealth, trust, health, freedom and social support reveal about happiness.",
+      "Explore the happiest countries in the world in 2026, why Finland ranks No. 1 and what trust, health, freedom and support reveal.",
     headlineHighlights: {
       red: "HAPPIEST COUNTRIES",
       gold: "WHY THEY KEEP WINNING"
@@ -3257,7 +3257,7 @@ export const articles: Article[] = [
     title: "MAGIC AND THE PARANORMAL: CAN SUPERNATURAL POWERS BE PROVEN?",
     seoTitle: "Magic & Paranormal Powers: What Does Science Say?",
     metaDescription:
-      "Can magic, psychic powers or supernatural abilities be scientifically proven? Explore witchcraft, paranormal claims, psychology and James Randi's famous $1 million challenge.",
+      "Explore paranormal powers, witchcraft claims, psychology, controlled testing and James Randi's famous $1 million challenge with a skeptical lens.",
     headlineHighlights: {
       red: "PARANORMAL",
       gold: "SUPERNATURAL POWERS"
@@ -3644,7 +3644,7 @@ export const articles: Article[] = [
     title: "THE OTTOMAN EMPIRE: 600 YEARS THAT CHANGED THE WORLD",
     seoTitle: "Ottoman Empire: Rise, Conquests, Janissaries and Fall",
     metaDescription:
-      "From a small Anatolian principality to a three-continent empire: the story of the Ottoman rise, Constantinople, the Janissaries, Suleiman and the empire's fall.",
+      "Trace the Ottoman Empire from an Anatolian frontier principality to Constantinople, the Janissaries, Suleiman, reforms, World War I and 1922.",
     headlineHighlights: {
       red: "OTTOMAN EMPIRE",
       gold: "600 YEARS"
@@ -3946,7 +3946,7 @@ export const articles: Article[] = [
     title: "THE HISTORY OF CHESS: HOW A GAME OF WAR CONQUERED THE WORLD",
     seoTitle: "The History of Chess: Origins, Legends and Evolution",
     metaDescription:
-      "Discover the history of chess, from ancient Indian Chaturanga and Persian Shatranj to Bobby Fischer, Garry Kasparov, Magnus Carlsen, computers and modern chess.",
+      "Discover chess history from Indian Chaturanga and Persian Shatranj to Bobby Fischer, computers and modern champions.",
     headlineHighlights: {
       red: "CHESS",
       gold: "CONQUERED THE WORLD"
@@ -4409,7 +4409,7 @@ export const articles: Article[] = [
     title: "THE PYRAMIDS: HOW ANCIENT EGYPT BUILT THE IMPOSSIBLE",
     seoTitle: "History of the Egyptian Pyramids: How Were They Built?",
     metaDescription:
-      "Explore the history of the Egyptian pyramids, from Djoser and Sneferu to the Great Pyramid of Giza, how they were built, who built them and what mysteries remain.",
+      "Explore Egyptian pyramid history, from Djoser and Sneferu to Giza, Khufu, pyramid workers, construction evidence and mysteries that remain.",
     headlineHighlights: {
       red: "PYRAMIDS",
       gold: "ANCIENT EGYPT"
@@ -4588,8 +4588,7 @@ export const articles: Article[] = [
       "The ScanPyramids project applied this technology to the Great Pyramid.",
       "And in 2017, researchers announced something extraordinary.",
       "## THE BIG VOID",
-      "Muon measurements revealed a previously unknown large void above the Grand Gallery.",
-      "The discovery was published in Nature.",
+      "[Nature reported](https://www.nature.com/articles/nature24647) that muon measurements revealed a previously unknown large void above the Grand Gallery.",
       "The space became known as the ScanPyramids Big Void.",
       "Its existence was detected using multiple independent muon techniques.",
       "But an important question remains unanswered: what is it?",
@@ -4799,7 +4798,7 @@ export const articles: Article[] = [
     title: "THE HORSE: THE ANIMAL THAT CHANGED HUMAN HISTORY",
     seoTitle: "The History of Horses: How They Changed Human Civilization",
     metaDescription:
-      "Discover how horses transformed human history - from domestication around 4,200 years ago to warfare, agriculture, empires, the Americas and the origin of horsepower.",
+      "Discover horse history, from domestication about 4,200 years ago to warfare, farming, empires, the Americas and the origin of horsepower.",
     headlineHighlights: {
       red: "HORSE",
       gold: "HUMAN HISTORY"
@@ -4844,7 +4843,7 @@ export const articles: Article[] = [
       "Then something extraordinary happened.",
       "Beginning around 2200 BCE, this horse lineage expanded rapidly across Eurasia.",
       "Within centuries, it replaced many existing local horse populations.",
-      "Further genomic research published in Nature in 2024 reinforced the picture of a major expansion of domestic horses roughly 4,200 years ago.",
+      "Further [Nature genomic research](https://www.nature.com/articles/s41586-024-07597-5) published in 2024 reinforced the picture of a major expansion of domestic horses roughly 4,200 years ago.",
       "This was not simply another domesticated animal spreading.",
       "It was a new form of mobility.",
       "And mobility changes civilizations.",
@@ -5144,7 +5143,7 @@ export const articles: Article[] = [
     title: "THE REAL HISTORY OF COFFEE: FROM ETHIOPIA TO THE WORLD",
     seoTitle: "The Real History of Coffee: From Ethiopia to the World",
     metaDescription:
-      "Discover the real history of coffee, from its Ethiopian origins and Yemen's early coffee culture to the Ottoman Empire, European coffeehouses, Brazil and the modern world.",
+      "Discover the history of coffee, from Ethiopia and Yemen to Ottoman coffee culture, European coffeehouses, Brazil and the modern world.",
     headlineHighlights: {
       red: "COFFEE",
       gold: "ETHIOPIA"

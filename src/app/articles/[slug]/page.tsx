@@ -2,7 +2,14 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleLayout } from "@/components/ArticleLayout";
 import { getArticleBySlug, getPublishedArticles, getRelatedArticles } from "@/data/articles";
-import { articleJsonLd, authorJsonLd, faqJsonLd, getArticleFaqs, getArticleLastUpdated } from "@/lib/articleSeo";
+import {
+  articleJsonLd,
+  authorJsonLd,
+  faqJsonLd,
+  getArticleFaqs,
+  getArticleLastUpdated,
+  hasArticleSpecificFaqs
+} from "@/lib/articleSeo";
 import { toAuthorSlug } from "@/lib/authors";
 import { getArticleCanonicalUrl } from "@/lib/articleValidation";
 import { breadcrumbJsonLd, siteUrl } from "@/lib/seo";
@@ -29,10 +36,12 @@ export function generateMetadata({ params }: ArticlePageProps): Metadata {
   const url = getArticleCanonicalUrl(article.slug);
   const image = `${siteUrl}${article.coverImage}`;
   const authorUrl = `${siteUrl}/authors/${toAuthorSlug(article.author)}/`;
+  const metadataTitle = article.seoTitle ?? article.title;
+  const metadataDescription = article.metaDescription ?? article.excerpt;
 
   return {
-    title: article.seoTitle ?? article.title,
-    description: article.metaDescription ?? article.excerpt,
+    title: metadataTitle,
+    description: metadataDescription,
     authors: [{ name: article.author, url: authorUrl }],
     category: article.category,
     keywords: article.tags,
@@ -40,8 +49,8 @@ export function generateMetadata({ params }: ArticlePageProps): Metadata {
       canonical: url
     },
     openGraph: {
-      title: article.title,
-      description: article.excerpt,
+      title: metadataTitle,
+      description: metadataDescription,
       url,
       siteName: "PRESDA",
       type: "article",
@@ -56,8 +65,8 @@ export function generateMetadata({ params }: ArticlePageProps): Metadata {
     },
     twitter: {
       card: "summary_large_image",
-      title: article.title,
-      description: article.excerpt,
+      title: metadataTitle,
+      description: metadataDescription,
       images: [image]
     }
   };
@@ -90,11 +99,13 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(authorJsonLd(article)) }}
       />
-      <script
-        id="article-faq-json-ld"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd(faqs)) }}
-      />
+      {hasArticleSpecificFaqs(article) ? (
+        <script
+          id="article-faq-json-ld"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd(faqs)) }}
+        />
+      ) : null}
       <script
         id="article-breadcrumb-json-ld"
         type="application/ld+json"
