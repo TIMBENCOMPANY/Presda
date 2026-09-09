@@ -53,6 +53,182 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "048",
+    slug: "adidas-israel-single-shoe-boycott-2026",
+    title: "ADIDAS FACES BOYCOTT CALLS AFTER ISRAEL \"SINGLE SHOE\" CAMPAIGN",
+    seoTitle: "Adidas Israel Campaign: Why #BoycottAdidas Is Trending | PRESDA",
+    metaDescription:
+      "Why is Adidas facing boycott calls? The facts behind its Single Shoe campaign featuring former Israeli soldier Shalev Biton, the Gaza controversy and Adidas' apology.",
+    headlineHighlights: {
+      red: "ADIDAS",
+      gold: "BOYCOTT CALLS"
+    },
+    excerpt:
+      "An Adidas accessibility campaign featuring an Israeli military veteran who lost a leg in 2021 has triggered international boycott calls, criticism from pro-Palestinian activists and an apology from the sportswear giant.",
+    category: "Business",
+    date: "2026-09-10",
+    lastUpdated: "2026-09-10",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/adidas-israel-single-shoe-boycott-2026.webp",
+    coverAlt:
+      "Cinematic Adidas Single Shoe billboard beside a war-damaged urban scene, symbolizing boycott controversy and global brand risk",
+    homepageImagePosition: "50% 45%",
+    content: [
+      "Adidas built the idea around accessibility.",
+      "The reaction became political almost immediately.",
+      "A local Adidas Israel promotion for the brand's Single Shoe service featured Shalev Biton, an Israeli athlete and former soldier who lost his left leg after being wounded during military service in May 2021.",
+      "The campaign was intended to highlight a service that lets eligible customers with limb differences or other relevant needs buy one shoe instead of a full pair.",
+      "But once the promotion circulated online, pro-Palestinian activists and other critics framed it against the ongoing Gaza war, the humanitarian crisis in Gaza and the large number of Palestinians living with traumatic injuries.",
+      "The result was a familiar modern business problem: a campaign created for one market became a global reputational crisis within hours.",
+      "This is what is known, what is disputed and what social media often got wrong.",
+      "## A Campaign Built Around Inclusion Became a Global Controversy",
+      "The controversy centered on Adidas Israel's local Single Shoe activation, not a worldwide Adidas campaign.",
+      "The promotion featured Biton as an amputee athlete and former Israeli military veteran. Reporting from [Anadolu Agency](https://www.aa.com.tr/en/world/adidas-apologizes-after-campaign-featuring-former-israeli-soldier-sparks-boycott-calls/4049606) and [The Jerusalem Post](https://www.jpost.com/diaspora/antisemitism/article-907991) described the campaign as an Israeli-market activation that spread far beyond its original audience after criticism circulated online.",
+      "For supporters of the campaign, the message was about disability inclusion.",
+      "For critics, the timing and subject were inseparable from the war in Gaza and the suffering of Palestinian civilians.",
+      "That tension is why the story traveled so quickly.",
+      "A brand message about accessibility collided with a global political and humanitarian argument.",
+      "## What Is Adidas' Single Shoe Service?",
+      "Adidas' Single Shoe service is designed for people who need only one shoe, including people with limb differences, amputations or other qualifying accessibility needs.",
+      "The important point is simple: the service was not created specifically for Israeli soldiers.",
+      "It belongs to a broader accessibility idea. For some customers, buying a complete pair can mean paying for a product they cannot use. A single-shoe option attempts to remove that barrier.",
+      "The controversy was therefore not about whether accessibility services should exist.",
+      "It was about the choice of campaign subject, market context and political symbolism.",
+      "## Who Is Shalev Biton?",
+      "Shalev Biton is an Israeli athlete and former IDF soldier.",
+      "According to reporting on the campaign, Biton lost his left leg after being wounded during military service in May 2021.",
+      "That date matters.",
+      "May 2021 was not part of the Gaza war that began after the Hamas-led attacks on Israel on October 7, 2023 and Israel's subsequent military campaign in Gaza.",
+      "Biton's disability is real. His athletic story is real. But the timing of his injury has been misstated in some online discussions.",
+      "## The Detail Social Media Often Got Wrong",
+      "Two claims need correction.",
+      "First, Biton did not lose his leg during the post-October 7, 2023 Gaza war.",
+      "Second, Adidas' Single Shoe service was not created specifically for Israeli soldiers.",
+      "Those distinctions do not make the controversy disappear.",
+      "They do make the reporting more accurate.",
+      "Boycott campaigns can be built around moral, political and humanitarian arguments. But if they rely on the wrong dates or the wrong description of a product, they become easier for companies to dismiss and harder for readers to understand.",
+      "## Why Did the Campaign Cause So Much Anger?",
+      "The anger came from context.",
+      "The Gaza war has produced catastrophic civilian suffering, including traumatic injuries, disabilities and long-term rehabilitation needs.",
+      "A [World Health Organization analysis](https://www.who.int/news/item/12-09-2024-who-analysis-highlights-vast-unmet-rehabilitation-needs-in-gaza) published in September 2024 estimated that at least 22,500 people injured in Gaza by late July 2024 had life-changing injuries requiring rehabilitation. The WHO said many involved severe limb injuries, amputations, spinal cord injury, traumatic brain injury and major burns.",
+      "A [UN News report](https://news.un.org/en/story/2024/10/1155761) also highlighted the scale of amputations and rehabilitation needs among people injured in Gaza.",
+      "Against that background, critics argued that featuring a former Israeli soldier in an amputee accessibility campaign showed poor judgment.",
+      "Supporters and critics were often talking past each other.",
+      "One side emphasized disability inclusion.",
+      "The other emphasized war, occupation, civilian casualties and the way corporate imagery can appear to humanize one population's suffering while ignoring another's.",
+      "## #BoycottAdidas Spreads",
+      "The hashtag #BoycottAdidas spread internationally as users criticized the campaign, shared screenshots and called for consumers to stop buying the brand.",
+      "Some posts focused on the verified details: the Adidas Israel activation, Biton's military background and Adidas' subsequent apology.",
+      "Other posts went further, suggesting that the service was built for Israeli soldiers or that Adidas directly supports the Israeli military.",
+      "Those stronger claims require evidence.",
+      "At the time of publication, PRESDA found no reliable evidence establishing that Adidas directly funds or equips the IDF through this campaign.",
+      "Commercial activity in Israel is not the same as direct military support.",
+      "A careful account has to keep those categories separate.",
+      "## Adidas Apologizes",
+      "Adidas apologized after the promotion drew criticism.",
+      "Anadolu Agency reported that the company apologized for offense caused and said the campaign was not intended as a political statement.",
+      "Reporting also described the promotion as a local Israeli campaign rather than a global Adidas rollout.",
+      "That distinction matters for corporate accountability.",
+      "Local marketing teams often understand their domestic audience better than headquarters does. But global brands do not stay local online. A post, billboard or campaign image can be screenshotted, translated, reframed and judged by audiences who were never part of the original target market.",
+      "Adidas' apology did not end the disagreement.",
+      "But it did acknowledge that the campaign had landed badly with many people outside its intended context.",
+      "## Does Adidas Support the Israeli Military?",
+      "There is a difference between three things:",
+      "Selling products in a country.",
+      "Running a local campaign featuring a former soldier.",
+      "Directly funding or equipping a military.",
+      "The Adidas controversy involves the first two categories.",
+      "The third category requires evidence that has not been established in the reporting PRESDA reviewed.",
+      "That does not prevent consumers from boycotting a company for political reasons. Boycotts are often based on association, market presence, symbolism, sponsorship history or perceived moral responsibility.",
+      "But journalism should not convert activist claims into verified facts.",
+      "## This Is Not Adidas' First Israel-Related Boycott Controversy",
+      "Adidas has faced Israel-related boycott pressure before.",
+      "In 2018, more than 130 Palestinian sports clubs and campaign groups urged Adidas to end its sponsorship of the Israel Football Association. The campaign argued that the IFA included clubs based in Israeli settlements in the occupied West Bank.",
+      "Business & Human Rights Resource Centre archived the 2018 campaign materials and Adidas' response in its coverage of [Palestinian sports clubs urging Adidas to end IFA sponsorship](https://www.business-humanrights.org/en/latest-news/more-than-130-palestinian-sports-clubs-urge-adidas-to-end-sponsorship-of-israel-football-association-over-settlement-teams/).",
+      "Adidas' position at the time was that the matter belonged with football governing bodies rather than the sponsor alone.",
+      "The company's IFA sponsorship later ended, though Adidas did not present the end of the sponsorship simply as an endorsement of the campaign's claims.",
+      "The point is not that the 2018 dispute and the 2026 Single Shoe backlash are identical.",
+      "They are not.",
+      "The point is that global sportswear brands can become entangled in geopolitical disputes through sponsorships, athletes, national teams, retail markets and local campaigns.",
+      "## A Business Lesson in Global Branding",
+      "The Adidas Single Shoe controversy shows how fast brand meaning can escape a marketing brief.",
+      "A campaign can be technically about accessibility and still be judged through war, identity, human rights and symbolism.",
+      "A local market can approve a message that becomes explosive when seen by a global audience.",
+      "A company can apologize and still face distrust from consumers who see the apology as too late or too narrow.",
+      "For multinational brands, the lesson is not to avoid inclusion campaigns.",
+      "It is to pressure-test them across the political realities in which the brand operates.",
+      "Who is centered?",
+      "Who is invisible?",
+      "What timing will audiences notice?",
+      "What claims might people infer that the company did not intend to make?",
+      "And what factual errors might spread once the campaign leaves the controlled environment of a marketing launch?",
+      "## The Bigger Question",
+      "The Adidas story does not have to flatten into a slogan.",
+      "Accessibility matters.",
+      "Biton's disability and athletic identity should not be mocked or denied.",
+      "Gaza's humanitarian catastrophe and the experiences of Palestinians living with traumatic injuries also matter.",
+      "Boycott criticism can be discussed as political speech.",
+      "Company responses can be evaluated.",
+      "And misinformation can still be corrected.",
+      "That is the harder version of the conversation.",
+      "But it is also the more useful one.",
+      "The question for Adidas is not only whether one campaign should have been pulled back or apologized for.",
+      "It is whether a global brand can understand that accessibility, war, nationalism, disability and consumer activism do not exist in separate boxes once a campaign reaches the internet."
+    ],
+    references: [
+      {
+        name: "Anadolu Agency: Adidas apologizes after campaign featuring former Israeli soldier sparks boycott calls",
+        url: "https://www.aa.com.tr/en/world/adidas-apologizes-after-campaign-featuring-former-israeli-soldier-sparks-boycott-calls/4049606"
+      },
+      {
+        name: "The Jerusalem Post: Adidas campaign featuring wounded former IDF soldier sparks backlash",
+        url: "https://www.jpost.com/diaspora/antisemitism/article-907991"
+      },
+      {
+        name: "World Health Organization: WHO analysis highlights vast unmet rehabilitation needs in Gaza",
+        url: "https://www.who.int/news/item/12-09-2024-who-analysis-highlights-vast-unmet-rehabilitation-needs-in-gaza"
+      },
+      {
+        name: "UN News: Gaza amputations and rehabilitation needs",
+        url: "https://news.un.org/en/story/2024/10/1155761"
+      },
+      {
+        name: "Business & Human Rights Resource Centre: Palestinian sports clubs urge Adidas to end IFA sponsorship",
+        url: "https://www.business-humanrights.org/en/latest-news/more-than-130-palestinian-sports-clubs-urge-adidas-to-end-sponsorship-of-israel-football-association-over-settlement-teams/"
+      }
+    ],
+    tags: [
+      "Adidas boycott Israel",
+      "Adidas",
+      "BoycottAdidas",
+      "Israel",
+      "Palestine",
+      "Gaza",
+      "Single Shoe",
+      "Shalev Biton",
+      "Business",
+      "Branding"
+    ],
+    readingTime: "8 min read",
+    faq: [
+      {
+        question: "Why is Adidas facing boycott calls?",
+        answer:
+          "Adidas faced boycott calls after a local Israeli Single Shoe campaign featured Shalev Biton, an Israeli athlete and former IDF soldier who lost his leg in 2021. Critics objected to the campaign in the context of the Gaza war and Palestinian traumatic injuries."
+      },
+      {
+        question: "Was Adidas' Single Shoe service created for Israeli soldiers?",
+        answer:
+          "No. The Single Shoe service is an accessibility option for eligible customers who need only one shoe, including people with limb differences or amputations. The controversy concerned a local campaign subject, not the creation of the service itself."
+      },
+      {
+        question: "Did Shalev Biton lose his leg during the post-October 7 Gaza war?",
+        answer:
+          "No. Reporting on the campaign says Biton lost his left leg after being wounded during military service in May 2021, before the war that began after October 7, 2023."
+      }
+    ]
+  },
+  {
     id: "047",
     slug: "dinosaurs-rise-fall-fossils-extinction",
     title: "DINOSAURS: THE RISE AND FALL OF THE GIANTS THAT RULED EARTH",
