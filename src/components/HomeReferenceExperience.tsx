@@ -29,6 +29,7 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
   const moreStoriesRef = useRef<HTMLElement | null>(null);
   const resumeTimer = useRef<number | null>(null);
   const active = slides[activeIndex] ?? slides[0];
+  const next = slides.length > 1 ? slides[(activeIndex + 1) % slides.length] : null;
   const isLongHeroTitle = (active?.title.length ?? 0) > 48;
 
   useEffect(() => {
@@ -165,6 +166,20 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
                   className="object-cover object-center transition duration-700 lg:object-[center_42%]"
                   style={{ objectPosition: active.homepageImagePosition ?? "50% 42%" }}
                 />
+                {next && next.slug !== active.slug ? (
+                  <Image
+                    key={`${next.slug}-queued`}
+                    src={next.coverImage}
+                    alt=""
+                    fill
+                    loading="eager"
+                    quality={72}
+                    sizes="(max-width: 1024px) calc(100vw - 24px), 860px"
+                    className="pointer-events-none object-cover object-center opacity-0"
+                    style={{ objectPosition: next.homepageImagePosition ?? "50% 42%" }}
+                    aria-hidden="true"
+                  />
+                ) : null}
               </div>
               <div className="home-media-bottom absolute inset-x-0 bottom-0 h-36" />
               <div className="home-media-left absolute inset-y-0 left-0 w-1/3" />

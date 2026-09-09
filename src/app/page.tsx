@@ -9,12 +9,28 @@ export const metadata: Metadata = createPageMetadata({
   path: "/"
 });
 
-const featuredArticleCount = 8;
+const featuredHeroSlugs = [
+  "dinosaurs-rise-fall-fossils-extinction",
+  "how-humans-learned-to-speak",
+  "titanic-what-really-happened",
+  "ancient-greece-civilization-history",
+  "history-of-slavery",
+  "depression-what-happens-in-the-brain",
+  "mark-zuckerberg-facebook-meta-story",
+  "carl-sagan-journey-through-our-universe",
+  "charles-darwin-theory-of-evolution",
+  "history-of-the-vikings",
+  "ottoman-empire-rise-and-fall",
+  "history-of-egyptian-pyramids"
+];
 const moreStoriesCount = 12;
 
 export default function HomePage() {
   const articles = getPublishedArticles();
-  const featured = articles.slice(0, featuredArticleCount);
+  const articlesBySlug = new Map(articles.map((article) => [article.slug, article]));
+  const featured = featuredHeroSlugs
+    .map((slug) => articlesBySlug.get(slug))
+    .filter((article): article is NonNullable<typeof article> => Boolean(article));
   const latest = articles
     .filter((article) => !featured.some((featuredArticle) => featuredArticle.slug === article.slug))
     .slice(0, 4);
