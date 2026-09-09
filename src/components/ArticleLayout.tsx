@@ -519,7 +519,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
             alt={article.coverAlt}
             fill
             priority
-            sizes="100vw"
+            quality={82}
+            sizes="(max-width: 1500px) 100vw, 1500px"
             className="object-cover object-center"
           />
           <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />

@@ -69,7 +69,7 @@ export const articles: Article[] = [
     date: "2026-09-09",
     lastUpdated: "2026-09-09",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/dinosaurs-rise-fall-fossils-extinction.png",
+    coverImage: "/images/articles/dinosaurs-rise-fall-fossils-extinction.webp",
     coverAlt:
       "Prehistoric valley at sunrise with T. rex, sauropods, flying reptiles and an asteroid streaking across the sky",
     homepageImagePosition: "50% 45%",
@@ -381,7 +381,7 @@ export const articles: Article[] = [
     date: "2026-09-09",
     lastUpdated: "2026-09-09",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/how-humans-learned-to-speak.png",
+    coverImage: "/images/articles/how-humans-learned-to-speak.webp",
     coverAlt:
       "Early humans communicating near cave paintings with symbols, ancient scripts and alphabets showing the evolution of language",
     homepageImagePosition: "50% 46%",
@@ -744,7 +744,7 @@ export const articles: Article[] = [
     date: "2026-09-09",
     lastUpdated: "2026-09-09",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/titanic-what-really-happened.png",
+    coverImage: "/images/articles/titanic-what-really-happened.webp",
     coverAlt:
       "RMS Titanic sailing at night near a moonlit iceberg in the North Atlantic before the 1912 disaster",
     homepageImagePosition: "50% 45%",
@@ -1062,7 +1062,7 @@ export const articles: Article[] = [
     date: "2026-09-09",
     lastUpdated: "2026-09-09",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/ancient-greece-civilization-history.png",
+    coverImage: "/images/articles/ancient-greece-civilization-history.webp",
     coverAlt:
       "Ancient Greek philosophers, soldiers, temples and the Acropolis in a cinematic historical scene",
     homepageImagePosition: "50% 45%",
@@ -1383,7 +1383,7 @@ export const articles: Article[] = [
     date: "2026-09-09",
     lastUpdated: "2026-09-09",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/history-of-slavery.png",
+    coverImage: "/images/articles/history-of-slavery.webp",
     coverAlt:
       "Colonial port scene showing the Atlantic slave trade, ships, chains, maps and forced human commerce",
     homepageImagePosition: "50% 45%",
@@ -1654,7 +1654,7 @@ export const articles: Article[] = [
     date: "2026-09-08",
     lastUpdated: "2026-09-08",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/depression-what-happens-in-the-brain.png",
+    coverImage: "/images/articles/depression-what-happens-in-the-brain.webp",
     coverAlt:
       "Split brain depression concept comparing mood, stress and connection patterns in an accessible neuroscience illustration",
     homepageImagePosition: "50% 45%",
@@ -1877,7 +1877,7 @@ export const articles: Article[] = [
     date: "2026-09-08",
     lastUpdated: "2026-09-08",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/mark-zuckerberg-facebook-meta-story.png",
+    coverImage: "/images/articles/mark-zuckerberg-facebook-meta-story.webp",
     coverAlt:
       "Mark Zuckerberg wearing smart glasses outside a Meta campus with augmented reality interface concepts",
     homepageImagePosition: "58% 45%",
@@ -2090,7 +2090,7 @@ export const articles: Article[] = [
     date: "2026-09-08",
     lastUpdated: "2026-09-08",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/carl-sagan-journey-through-our-universe.png",
+    coverImage: "/images/articles/carl-sagan-journey-through-our-universe.webp",
     coverAlt:
       "Carl Sagan beside Earth, planets, galaxies and the Voyager Golden Record in a cinematic universe scene",
     homepageImagePosition: "58% 45%",
@@ -2363,7 +2363,7 @@ export const articles: Article[] = [
     date: "2026-09-08",
     lastUpdated: "2026-09-08",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/charles-darwin-theory-of-evolution.png",
+    coverImage: "/images/articles/charles-darwin-theory-of-evolution.webp",
     coverAlt:
       "Charles Darwin studying natural history specimens in a Victorian study with the HMS Beagle visible near a coastal landscape",
     homepageImagePosition: "52% 45%",
@@ -6185,7 +6185,7 @@ export const articles: Article[] = [
     "category": "Travel",
     "date": "2026-06-01",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/travel-hidden-gems-2026.png",
+    "coverImage": "/images/articles/travel-hidden-gems-2026.webp",
     "coverAlt": "Futuristic travel collage of hidden destinations for PRESDA",
     "homepageImagePosition": "50% 48%",
     "content": [
@@ -6344,7 +6344,7 @@ export const articles: Article[] = [
     "category": "Business",
     "date": "2026-05-31",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/valuable-companies-2026.png",
+    "coverImage": "/images/articles/valuable-companies-2026.webp",
     "coverAlt": "Premium skyline showing the world's most valuable companies in 2026",
     "homepageImagePosition": "50% 50%",
     "content": [
@@ -6497,7 +6497,7 @@ export const articles: Article[] = [
     "date": "2026-05-30",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/katy-perry-justin-trudeau-2026.png",
+    "coverImage": "/images/articles/katy-perry-justin-trudeau-2026.webp",
     "coverAlt": "Red carpet media lights representing global celebrity speculation",
     "homepageImagePosition": "50% 34%",
     "content": [
@@ -6645,7 +6645,7 @@ export const articles: Article[] = [
     "date": "2026-05-29",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/palestine-humanitarian-crisis.png",
+    "coverImage": "/images/articles/palestine-humanitarian-crisis.webp",
     "coverAlt": "Respectful editorial visual representing the Palestine humanitarian crisis and urgent aid needs in Gaza",
     "content": [
       "The Palestine humanitarian crisis in 2026 is, first of all, a civilian emergency. In Gaza, families continue to face overlapping pressures: unsafe shelter, damaged infrastructure, restricted movement, food insecurity, water and sanitation risks, and a health system operating under severe strain.",
@@ -6766,7 +6766,7 @@ export const articles: Article[] = [
     "date": "2026-05-28",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/dubai-future-cities-2026.png",
+    "coverImage": "/images/articles/dubai-future-cities-2026.webp",
     "coverAlt": "Futuristic Dubai skyline with flying vehicles and sunset light",
     "content": [
       "Dubai's future city story is often told through towers, islands and cinematic skyline images. But in 2026, the more useful way to understand Dubai urban development is through the official plans underneath the spectacle: Dubai 2040 Urban Master Plan, Dubai Economic Agenda D33, Digital Dubai, Metro Blue Line, clean energy targets, autonomous transport strategy and artificial intelligence policy.",
@@ -6904,7 +6904,7 @@ export const articles: Article[] = [
     "date": "2026-05-27",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/sam-altman-openai-next-gen-2026.png",
+    "coverImage": "/images/articles/sam-altman-openai-next-gen-2026.webp",
     "coverAlt": "Sam Altman and OpenAI cinematic PRESDA poster on a dark background",
     "content": [
       "OpenAI's next generation model story in 2026 should be read carefully. The original version of this article spoke broadly about a new model arriving, but did not name a verified release or separate confirmed information from expectation. That is not enough for readers searching for OpenAI next generation model, OpenAI next model or new OpenAI model 2026.",
@@ -7023,7 +7023,7 @@ export const articles: Article[] = [
     "category": "AI",
     "date": "2026-09-01",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/ai-agents-jobs-2026.png",
+    "coverImage": "/images/articles/ai-agents-jobs-2026.webp",
     "coverAlt": "Worker seated beside a humanoid robot in a modern office, representing AI agents and the future of work",
     "homepageImagePosition": "50% 48%",
     "content": [
@@ -7157,7 +7157,7 @@ export const articles: Article[] = [
     "category": "AI",
     "date": "2026-09-01",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/ai-friendship-chatbot-2026.png",
+    "coverImage": "/images/articles/ai-friendship-chatbot-2026.webp",
     "coverAlt": "Person talking with a friendly AI chatbot on a laptop at night, representing AI friendship and emotional support",
     "homepageImagePosition": "55% 50%",
     "content": [
@@ -7291,7 +7291,7 @@ export const articles: Article[] = [
     "date": "2026-05-22",
     "lastUpdated": "2026-09-03",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/xabi-alonso-chelsea-spotlight-2026.png",
+    "coverImage": "/images/articles/xabi-alonso-chelsea-spotlight-2026.webp",
     "coverAlt": "Xabi Alonso cinematic football poster with Chelsea flag",
     "content": [
       "Xabi Alonso at Chelsea is no longer a hypothetical. As of September 3, 2026, Chelsea list Alonso as head coach after appointing him on a four-year contract beginning July 1, 2026. The move places one of Europe's most studied tactical managers inside one of the Premier League's most demanding football environments.",
@@ -7460,7 +7460,7 @@ export const articles: Article[] = [
     "date": "2026-05-21",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/gta6-culture-moment-2026.png",
+    "coverImage": "/images/articles/gta6-culture-moment-2026.webp",
     "coverAlt": "GTA 6 neon Vice City cinematic poster",
     "homepageImagePosition": "50% 50%",
     "content": [
@@ -7628,7 +7628,7 @@ export const articles: Article[] = [
     "date": "2026-05-20",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/elon-musk-mars-signal-2026.png",
+    "coverImage": "/images/articles/elon-musk-mars-signal-2026.webp",
     "coverAlt": "Elon Musk above a futuristic city with SpaceX and Tesla branding",
     "content": [
       "Elon Musk Mars plans are among the most ambitious technology stories of the 21st century. The simple version is famous: SpaceX wants to make humanity multiplanetary by building a transportation system that can eventually carry people and cargo to Mars. The real version is harder, stranger and more interesting.",
@@ -8002,7 +8002,7 @@ export const articles: Article[] = [
     "date": "2026-05-18",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/bill-gates-foundation-impact-2026.png",
+    "coverImage": "/images/articles/bill-gates-foundation-impact-2026.webp",
     "coverAlt": "Bill Gates foundation cinematic poster with global health and innovation panels",
     "content": [
       "The Gates Foundation is one of the largest private philanthropic institutions in modern history. Since 2000, it has helped reshape how governments, research groups, vaccine alliances, health agencies and development organizations talk about measurable progress. Its scale is unusual. Its influence is unusual. So is the scrutiny around it.",
@@ -8168,7 +8168,7 @@ export const articles: Article[] = [
     "category": "World",
     "date": "2026-05-17",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/japan-ai-care-era-2026.png",
+    "coverImage": "/images/articles/japan-ai-care-era-2026.webp",
     "coverAlt": "Japanese elder holding hands with a care robot in a cinematic poster",
     "homepageImagePosition": "50% 45%",
     "content": [
@@ -8275,7 +8275,7 @@ export const articles: Article[] = [
     "date": "2026-05-16",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/keanu-reeves-kindness-2026.png",
+    "coverImage": "/images/articles/keanu-reeves-kindness-2026.webp",
     "coverAlt": "Keanu Reeves comforting a child in a hospital room with kindness overlays",
     "content": [
       "Keanu Reeves has become one of Hollywood's most loved figures for a reason that goes beyond box office success. Search interest around Keanu Reeves kindness, Keanu Reeves generosity and why Keanu Reeves is loved points to a public fascination with something quieter than fame: the idea that a global movie star can remain grounded, careful and generous without turning every good deed into a campaign.",
@@ -8500,7 +8500,7 @@ export const articles: Article[] = [
     "date": "2026-05-15",
     "lastUpdated": "2026-09-03",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/jose-mourinho-madrid-return-2026.png",
+    "coverImage": "/images/articles/jose-mourinho-madrid-return-2026.webp",
     "coverAlt": "Jose Mourinho with Real Madrid crest and Santiago Bernabeu stadium",
     "content": [
       "José Mourinho has returned to Real Madrid. On June 11, 2026, the club announced Mourinho as first-team coach on a contract running from July 1, 2026 to June 30, 2029, with preseason scheduled to begin on July 13. That makes this more than nostalgia. It is an official second era for one of the most polarizing and successful managers in modern football.",
@@ -9112,7 +9112,7 @@ export const articles: Article[] = [
     "date": "2026-06-02",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/david-beckham-beekeeping.png",
+    "coverImage": "/images/articles/david-beckham-beekeeping.webp",
     "coverAlt": "David Beckham standing beside beehives at sunset with bees flying around him",
     "content": [
       "David Beckham has spent decades as one of the world's most recognizable football figures. Yet search interest around David Beckham hobbies, David Beckham interests and David Beckham beekeeping points to something more intimate than celebrity: people want to know what his life looks like when the stadium noise fades.",
@@ -9227,7 +9227,7 @@ export const articles: Article[] = [
     "date": "2026-06-06",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/jebel-irhoud-morocco-science.png",
+    "coverImage": "/images/articles/jebel-irhoud-morocco-science.webp",
     "coverAlt": "Jebel Irhoud archaeological discovery in Morocco with fossils, excavation site, and map marker",
     "content": [
       "Jebel Irhoud is an archaeological and fossil site in Morocco that changed the way scientists talk about human origins. The site is best known for fossil remains assigned to early Homo sapiens and dated to about 315,000 years ago, far older than the simplified timelines that once placed modern human origins mostly around 200,000 years ago in East Africa.",
@@ -9354,7 +9354,7 @@ export const articles: Article[] = [
     "date": "2026-06-07",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/zodiac-signs-science.png",
+    "coverImage": "/images/articles/zodiac-signs-science.webp",
     "coverAlt": "Astrology zodiac wheel compared with telescope, laboratory glassware, and science books",
     "content": [
       "Are zodiac signs real? In a cultural sense, yes: zodiac signs are real symbols that many people use to talk about identity, relationships and meaning. In a scientific sense, no reliable evidence shows that zodiac signs or birth charts can predict personality, behavior or future events better than chance.",

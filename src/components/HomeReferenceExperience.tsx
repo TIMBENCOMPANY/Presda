@@ -139,7 +139,8 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
                     alt={slide.coverAlt}
                     fill
                     priority={index === 0}
-                    sizes="(max-width: 1024px) 100vw, 57vw"
+                    quality={82}
+                    sizes="(max-width: 1024px) calc(100vw - 24px), 860px"
                     className={`object-cover object-center transition duration-700 lg:object-[center_42%] ${
                       index === activeIndex ? "scale-100 opacity-100" : "scale-[1.03] opacity-0"
                     }`}
@@ -214,6 +215,7 @@ function LatestCard({ article, priority = false }: { article: HomeStory; priorit
           alt={article.coverAlt}
           fill
           priority={priority}
+          quality={70}
           sizes="(max-width: 640px) 96px, 116px"
           className="object-cover object-center transition duration-500 group-hover:scale-105"
         />

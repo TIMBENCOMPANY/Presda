@@ -9,31 +9,17 @@ export const metadata: Metadata = createPageMetadata({
   path: "/"
 });
 
-const featuredSlugs = [
-  "jon-snow-backs-morocco",
-  "why-people-trust-ai-like-a-friend",
-  "will-ai-agents-replace-jobs",
-  "katy-perry-and-justin-trudeau-spark-global-speculation",
-  "worlds-most-valuable-companies-in-2026",
-  "top-10-hidden-gems-to-visit-in-2026",
-  "the-brands-behind-world-cup-2026",
-  "japan-enters-ai-care-era",
-  "achraf-hakimi-king-of-africa",
-  "yassine-bounou-africas-safest-hands",
-  "gta6-trailer-culture-shift",
-  "anti-aging-can-we-slow-down-human-aging"
-];
+const featuredArticleCount = 8;
+const moreStoriesCount = 12;
 
 export default function HomePage() {
   const articles = getPublishedArticles();
-  const featured = featuredSlugs
-    .map((slug) => articles.find((article) => article.slug === slug))
-    .filter((article): article is NonNullable<typeof article> => Boolean(article));
-  const latest = [
-    ...featured.slice(1),
-    ...articles.filter((article) => !featuredSlugs.includes(article.slug))
-  ].slice(0, 4);
-  const moreStories = articles.filter((article) => !latest.some((latestArticle) => latestArticle.slug === article.slug));
+  const featured = articles.slice(0, featuredArticleCount);
+  const latest = articles
+    .filter((article) => !featured.some((featuredArticle) => featuredArticle.slug === article.slug))
+    .slice(0, 4);
+  const visibleSlugs = new Set([...featured, ...latest].map((article) => article.slug));
+  const moreStories = articles.filter((article) => !visibleSlugs.has(article.slug)).slice(0, moreStoriesCount);
 
   return <HomeReferenceExperience slides={featured} latest={latest} moreStories={moreStories} />;
 }

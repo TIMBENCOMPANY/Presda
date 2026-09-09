@@ -22,7 +22,8 @@ export function ArticleCard({ article, priority = false }: ArticleCardProps) {
           alt={article.coverAlt}
           fill
           priority={priority}
-          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          quality={76}
+          sizes="(max-width: 768px) calc(100vw - 24px), (max-width: 1200px) calc(50vw - 32px), 480px"
           className="object-cover object-center transition duration-500 group-hover:scale-105"
         />
         <span className="absolute left-4 top-4 rounded-lg bg-[#FF1A1A] px-3 py-1 font-display text-[10px] font-extrabold uppercase text-white">
