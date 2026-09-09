@@ -15,6 +15,7 @@ import {
   getArticleLastUpdated,
   getArticleSections
 } from "@/lib/articleSeo";
+import { getArticleHeroImagePosition } from "@/lib/articleImages";
 import { toAuthorSlug } from "@/lib/authors";
 import { categoryLabels, formatDate, toCategorySlug } from "@/lib/categories";
 
@@ -522,6 +523,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
             quality={82}
             sizes="(max-width: 1500px) 100vw, 1500px"
             className="object-cover object-center"
+            style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 50%" }}
           />
           <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
           <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />

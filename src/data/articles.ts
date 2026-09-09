@@ -9885,14 +9885,21 @@ export function getArticlesByCategory(category: ArticleCategory) {
 }
 
 export function getRelatedArticles(article: Article, limit = 5) {
-  const sameCategory = articles.filter(
-    (item) => isPublishedArticle(item) && item.category === article.category && item.slug !== article.slug
-  );
-  const fallback = articles.filter(
-    (item) => isPublishedArticle(item) && item.category !== article.category && item.slug !== article.slug
-  );
+  const currentTags = new Set(article.tags.map((tag) => tag.toLowerCase()));
+  const candidates = articles.filter((item) => isPublishedArticle(item) && item.slug !== article.slug);
+  const scoreByTopic = (item: Article) => item.tags.reduce((score, tag) => score + (currentTags.has(tag.toLowerCase()) ? 1 : 0), 0);
+  const sortByRelevance = (items: Article[]) =>
+    [...items].sort((a, b) => {
+      const topicDelta = scoreByTopic(b) - scoreByTopic(a);
+      if (topicDelta !== 0) return topicDelta;
+      return new Date(b.date).getTime() - new Date(a.date).getTime();
+    });
 
-  return [...sameCategory, ...fallback].slice(0, limit);
+  const sameCategory = sortByRelevance(candidates.filter((item) => item.category === article.category));
+  const relatedTopics = sortByRelevance(candidates.filter((item) => item.category !== article.category && scoreByTopic(item) > 0));
+  const fallback = sortByRelevance(candidates.filter((item) => item.category !== article.category && scoreByTopic(item) === 0));
+
+  return [...sameCategory, ...relatedTopics, ...fallback].slice(0, limit);
 }
 
 export function getPublishedArticles() {

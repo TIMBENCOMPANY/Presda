@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import type { Article } from "@/data/articles";
 import { HeadlineText } from "@/components/HeadlineText";
-import { getArticleCardImage } from "@/lib/articleImages";
+import { getArticleCardImage, getArticleCardImagePosition } from "@/lib/articleImages";
 import { categoryLabels, formatDate } from "@/lib/categories";
 
 type ArticleCardProps = {
@@ -28,6 +28,7 @@ export function ArticleCard({ article, priority = false, showImage = true }: Art
             quality={72}
             sizes="(max-width: 768px) calc(100vw - 24px), (max-width: 1200px) calc(50vw - 32px), 480px"
             className="object-cover object-center transition duration-500 group-hover:scale-105"
+            style={{ objectPosition: getArticleCardImagePosition(article) }}
           />
         ) : (
           <div className="absolute inset-0 bg-[color:var(--home-panel-strong)]" aria-hidden="true" />

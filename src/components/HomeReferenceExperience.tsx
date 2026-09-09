@@ -8,20 +8,20 @@ import type { Article } from "@/data/articles";
 import { ArticleCard } from "@/components/ArticleCard";
 import { HeadlineText } from "@/components/HeadlineText";
 import { getArticleCardImage } from "@/lib/articleImages";
-import { categoryLabels } from "@/lib/categories";
+import { categoryLabels, formatDate } from "@/lib/categories";
 
 type HomeStory = Pick<
   Article,
-  "slug" | "title" | "headlineAccent" | "headlineHighlights" | "excerpt" | "category" | "coverImage" | "coverAlt" | "homepageImagePosition" | "readingTime"
+  "slug" | "title" | "headlineAccent" | "headlineHighlights" | "excerpt" | "category" | "date" | "coverImage" | "coverAlt" | "homepageImagePosition" | "readingTime"
 >;
 
 type HomeReferenceExperienceProps = {
   slides: HomeStory[];
-  latest: HomeStory[];
+  editorialPicks: HomeStory[];
   moreStories: Article[];
 };
 
-export function HomeReferenceExperience({ slides, latest, moreStories }: HomeReferenceExperienceProps) {
+export function HomeReferenceExperience({ slides, editorialPicks, moreStories }: HomeReferenceExperienceProps) {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isPaused, setIsPaused] = useState(false);
   const [showMoreStoryImages, setShowMoreStoryImages] = useState(false);
@@ -30,6 +30,7 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
   const resumeTimer = useRef<number | null>(null);
   const active = slides[activeIndex] ?? slides[0];
   const next = slides.length > 1 ? slides[(activeIndex + 1) % slides.length] : null;
+  const sidebarStories = editorialPicks.slice(0, 3);
   const isLongHeroTitle = (active?.title.length ?? 0) > 48;
 
   useEffect(() => {
@@ -118,43 +119,11 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
         onTouchEnd={handleTouchEnd}
       >
         <div className="home-hero-bg absolute inset-0 -z-10" />
-        <div className="absolute inset-y-0 right-0 -z-10 w-[62%] opacity-80">
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_72%_42%,rgba(255,28,28,0.26),transparent_18rem)]" />
-          <div className="home-orbital absolute right-[7%] top-[24%] hidden h-80 w-80 rounded-full border blur-[0.2px] lg:block" />
-        </div>
 
-        <div className="mx-3 max-w-[1510px] pt-1 sm:mx-6 2xl:mx-auto">
-          <div className="relative grid min-h-[auto] items-center gap-4 py-4 sm:min-h-[612px] sm:gap-6 sm:py-5 lg:h-[626px] lg:grid-cols-[0.42fr_0.58fr] lg:gap-8 lg:py-0">
-            <div className="relative z-10 w-full min-w-0 max-w-[24rem] overflow-hidden sm:max-w-[38rem] lg:pl-28">
-              <p className="flex items-center gap-3 font-display text-xs font-extrabold uppercase tracking-[0.14em] text-[color:var(--home-red)]">
-                <span className="h-2 w-2 rounded-full bg-[color:var(--home-red)] shadow-[0_0_18px_rgba(255,26,26,0.8)]" />
-                {categoryLabels[active.category]}
-              </p>
-              <h1 className={`mt-4 line-clamp-4 max-w-full text-balance font-display font-extrabold uppercase leading-[1.04] tracking-normal text-[color:var(--home-text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:mt-5 sm:line-clamp-4 sm:text-[clamp(2.25rem,3.9vw,4.15rem)] sm:leading-[1] lg:min-h-[15.4rem] xl:text-[clamp(2.55rem,4.05vw,4.55rem)] ${
-                isLongHeroTitle ? "text-[clamp(1.42rem,7vw,1.78rem)]" : "text-[clamp(1.58rem,7.7vw,1.98rem)]"
-              }`}>
-                <HeadlineText title={active.title} highlights={active.headlineHighlights} legacyRed={active.headlineAccent} />
-              </h1>
-              <p className="editorial-deck home-hero-deck">{active.excerpt}</p>
-              <Link
-                href={`/articles/${active.slug}/`}
-                className="mt-4 inline-flex items-center gap-3 rounded-md border border-[#c40019]/80 bg-[color:var(--home-panel)] px-5 py-3 font-display text-[11px] font-extrabold uppercase tracking-wide text-[color:var(--home-red)] shadow-[0_0_30px_rgba(196,0,25,0.14)] backdrop-blur-xl transition hover:bg-[#c40019] hover:text-white sm:mt-7 sm:px-7 sm:py-4 sm:text-xs"
-              >
-                Read Full Story
-                <ArrowRight className="h-4 w-4" strokeWidth={1.7} />
-              </Link>
-
-              <div className="mt-5 flex w-full max-w-[21rem] items-center gap-3 sm:mt-8 sm:max-w-[24rem] sm:gap-4">
-                <span className="font-display text-sm font-extrabold text-[color:var(--home-red)]">{String(activeIndex + 1).padStart(2, "0")}</span>
-                <div className="h-1 flex-1 overflow-hidden rounded-full bg-[color:var(--home-border)]">
-                  <div className="h-full rounded-full bg-[color:var(--home-red)] shadow-[0_0_18px_rgba(255,26,26,0.9)] transition-all duration-500" style={{ width: `${progress}%` }} />
-                </div>
-                <span className="font-display text-sm font-extrabold text-[color:var(--home-soft)]">{String(slides.length).padStart(2, "0")}</span>
-              </div>
-            </div>
-
-            <div className="home-media-frame relative h-[clamp(220px,64vw,276px)] overflow-hidden rounded-[14px] sm:h-[410px] md:h-[470px] lg:h-[548px] lg:rounded-[18px]">
-              <div className="absolute inset-y-0 left-0 right-0">
+        <div className="mx-auto w-full max-w-[1510px] px-3 py-4 sm:px-6 sm:py-5 lg:py-6 2xl:px-0">
+          <div className="grid gap-4 lg:grid-cols-[minmax(0,2.2fr)_minmax(300px,0.8fr)] xl:grid-cols-[minmax(0,2.35fr)_minmax(330px,0.82fr)]">
+            <article className="home-editorial-hero relative min-h-[590px] overflow-hidden rounded-2xl border sm:min-h-[590px] lg:min-h-[620px]">
+              <div className="absolute inset-0">
                 <Image
                   key={active.slug}
                   src={active.coverImage}
@@ -181,51 +150,89 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
                   />
                 ) : null}
               </div>
-              <div className="home-media-bottom absolute inset-x-0 bottom-0 h-36" />
-              <div className="home-media-left absolute inset-y-0 left-0 w-1/3" />
-            </div>
+              <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.88)_0%,rgba(0,0,0,0.62)_38%,rgba(0,0,0,0.18)_72%,rgba(0,0,0,0.48)_100%)]" />
+              <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.82)_0%,transparent_54%)]" />
 
-            <button
-              type="button"
-              onClick={goPrevious}
-              className="home-glass-control absolute left-2 top-[62%] z-20 grid h-11 w-11 -translate-y-1/2 place-items-center rounded-full transition sm:left-4 lg:left-1 lg:top-1/2 lg:h-14 lg:w-14"
-              aria-label="Previous featured story"
-            >
-              <ArrowLeft className="h-5 w-5 lg:h-6 lg:w-6" strokeWidth={2} />
-            </button>
-            <button
-              type="button"
-              onClick={goNext}
-              className="home-glass-control absolute right-2 top-[62%] z-20 grid h-11 w-11 -translate-y-1/2 place-items-center rounded-full transition sm:right-4 lg:right-1 lg:top-1/2 lg:h-14 lg:w-14"
-              aria-label="Next featured story"
-            >
-              <ArrowRight className="h-5 w-5 lg:h-6 lg:w-6" strokeWidth={2} />
-            </button>
-          </div>
+              <div className="relative z-10 flex min-h-[590px] max-w-3xl flex-col justify-end px-5 pb-6 pt-12 sm:min-h-[590px] sm:px-7 sm:pb-8 lg:min-h-[620px] lg:px-10 lg:pb-10">
+                <p className="font-display text-xs font-extrabold uppercase tracking-wide text-[color:var(--home-red)]">
+                  {categoryLabels[active.category]}
+                </p>
+                <h1 className={`mt-4 max-w-[15ch] text-balance font-display font-extrabold uppercase leading-[0.98] tracking-normal text-white [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:mt-5 sm:line-clamp-4 sm:max-w-[15ch] sm:leading-[0.96] lg:max-w-[15.5ch] ${
+                  isLongHeroTitle ? "text-[clamp(1.82rem,7.35vw,4.45rem)]" : "text-[clamp(2.12rem,8vw,5.35rem)]"
+                }`}>
+                  <HeadlineText title={active.title} highlights={active.headlineHighlights} legacyRed={active.headlineAccent} />
+                </h1>
+                <p className="editorial-deck home-hero-deck max-w-[20rem] text-white/75 sm:max-w-[34rem]">{active.excerpt}</p>
+                <Link
+                  href={`/articles/${active.slug}/`}
+                  className="mt-5 inline-flex w-fit items-center gap-3 rounded-md border border-[#ff1a1a]/85 bg-black/35 px-5 py-3 font-display text-[11px] font-extrabold uppercase tracking-wide text-white backdrop-blur-md transition hover:bg-[#c40019] sm:mt-7 sm:px-7 sm:py-4 sm:text-xs"
+                >
+                  Read Full Story
+                  <ArrowRight className="h-4 w-4" strokeWidth={1.7} />
+                </Link>
 
-          <div className="pb-5">
-            <div className="grid gap-4 border-t border-[color:var(--home-border)] pt-5 xl:grid-cols-[120px_1fr] xl:items-center">
-              <h2 className="font-display text-xl font-extrabold uppercase leading-none tracking-normal text-[color:var(--home-red)]">Latest News</h2>
-              <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
-                {latest.slice(0, 4).map((article, index) => (
-                  <LatestCard key={article.slug} article={article} priority={index === 0} />
-                ))}
+                <div className="mt-5 flex w-full max-w-[28rem] items-center gap-3 sm:mt-7 sm:gap-4">
+                  <span className="font-display text-sm font-extrabold text-[color:var(--home-red)]">{String(activeIndex + 1).padStart(2, "0")}</span>
+                  <div className="h-1 flex-1 overflow-hidden rounded-full bg-white/20">
+                    <div className="h-full rounded-full bg-[color:var(--home-red)] transition-all duration-500" style={{ width: `${progress}%` }} />
+                  </div>
+                  <span className="font-display text-sm font-extrabold text-white/50">{String(slides.length).padStart(2, "0")}</span>
+                </div>
+
+                <div className="mt-4 flex flex-wrap gap-2" aria-label="Featured story slides">
+                  {slides.map((slide, index) => (
+                    <button
+                      key={slide.slug}
+                      type="button"
+                      onClick={() => {
+                        pauseBriefly();
+                        setActiveIndex(index);
+                      }}
+                      className={`h-2.5 w-2.5 rounded-full border transition ${index === activeIndex ? "border-[color:var(--home-red)] bg-[color:var(--home-red)]" : "border-white/25 bg-white/20 hover:border-[color:var(--home-red)]"}`}
+                      aria-label={`Show featured story ${index + 1}`}
+                      aria-current={index === activeIndex ? "true" : undefined}
+                    />
+                  ))}
+                </div>
               </div>
-            </div>
+
+              <button
+                type="button"
+                onClick={goPrevious}
+                className="home-glass-control absolute left-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:left-5 lg:top-1/2 lg:h-12 lg:w-12 lg:-translate-y-1/2"
+                aria-label="Previous featured story"
+              >
+                <ArrowLeft className="h-5 w-5" strokeWidth={2} />
+              </button>
+              <button
+                type="button"
+                onClick={goNext}
+                className="home-glass-control absolute right-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:right-5 lg:top-1/2 lg:h-12 lg:w-12 lg:-translate-y-1/2"
+                aria-label="Next featured story"
+              >
+                <ArrowRight className="h-5 w-5" strokeWidth={2} />
+              </button>
+            </article>
+
+            <aside className="grid gap-4 lg:grid-rows-3" aria-label="Editorial highlights">
+              {sidebarStories.map((article, index) => (
+                <SidebarStoryCard key={article.slug} article={article} priority={index === 0} />
+              ))}
+            </aside>
           </div>
         </div>
       </section>
 
-      <section ref={moreStoriesRef} className="mx-auto w-[min(1500px,calc(100%-24px))] py-10 sm:w-[min(1500px,calc(100%-48px))] sm:py-14 lg:py-16">
-        <div className="mb-6 flex flex-wrap items-end justify-between gap-4 sm:mb-8">
+      <section ref={moreStoriesRef} className="mx-auto w-full max-w-[1510px] px-3 py-8 sm:px-6 sm:py-12 lg:py-14 2xl:px-0">
+        <div className="mb-6 flex flex-wrap items-end justify-between gap-4 border-l-4 border-[color:var(--home-red)] pl-4 sm:mb-8">
           <div>
-            <p className="font-display text-[10px] font-extrabold uppercase tracking-[0.18em] text-[color:var(--home-red)] sm:text-xs">PRESDA</p>
-            <h2 className="mt-2 font-display text-2xl font-extrabold uppercase leading-none tracking-normal text-[color:var(--home-text)] sm:text-4xl">
-              More Stories
+            <h2 className="font-display text-2xl font-extrabold uppercase leading-none tracking-normal text-[color:var(--home-text)] sm:text-4xl">
+              Latest Stories
             </h2>
+            <p className="mt-2 text-sm text-[color:var(--home-muted)]">Fresh perspectives. Deeper understanding.</p>
           </div>
           <Link href="/articles/" className="inline-flex items-center gap-2 font-display text-xs font-extrabold uppercase tracking-wide text-[color:var(--home-red)] transition hover:text-[color:var(--home-gold)]">
-            View All
+            View All Articles
             <ArrowRight className="h-4 w-4" strokeWidth={1.6} />
           </Link>
         </div>
@@ -239,26 +246,27 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
   );
 }
 
-function LatestCard({ article, priority = false }: { article: HomeStory; priority?: boolean }) {
+function SidebarStoryCard({ article, priority = false }: { article: HomeStory; priority?: boolean }) {
   return (
-    <Link href={`/articles/${article.slug}/`} className="home-latest-card group grid min-h-[112px] grid-cols-[96px_1fr] items-stretch gap-3 rounded-lg p-3 backdrop-blur-xl transition hover:-translate-y-0.5 sm:min-h-[118px] sm:grid-cols-[116px_1fr] sm:gap-4">
-      <div className="relative h-full min-h-[88px] overflow-hidden rounded-lg bg-black sm:min-h-[92px]">
+    <Link href={`/articles/${article.slug}/`} className="home-side-card group relative grid min-h-[142px] w-full min-w-0 grid-cols-[112px_1fr] items-stretch gap-3 overflow-hidden rounded-2xl border p-3 transition hover:-translate-y-0.5 sm:min-h-[156px] sm:grid-cols-[150px_1fr] lg:min-h-0 lg:block lg:p-0">
+      <div className="relative min-h-[116px] overflow-hidden rounded-xl bg-black lg:absolute lg:inset-0 lg:min-h-0 lg:rounded-2xl">
         <Image
           src={getArticleCardImage(article)}
           alt={article.coverAlt}
           fill
           priority={priority}
           quality={72}
-          sizes="(max-width: 640px) 96px, 116px"
+          sizes="(max-width: 640px) 112px, (max-width: 1024px) 150px, 420px"
           className="object-cover object-center transition duration-500 group-hover:scale-105"
         />
+        <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.54),rgba(0,0,0,0.12)_48%,transparent_72%)] lg:bg-[linear-gradient(0deg,rgba(0,0,0,0.66)_0%,rgba(0,0,0,0.18)_38%,transparent_70%)]" />
       </div>
-      <div className="flex min-w-0 flex-col py-1">
+      <div className="relative z-10 flex min-w-0 flex-col justify-end py-1 lg:h-full lg:p-4">
         <p className="font-display text-[10px] font-extrabold uppercase tracking-wide text-[color:var(--home-red)]">{categoryLabels[article.category]}</p>
-        <h3 className="mt-2 line-clamp-2 font-display text-[1.05rem] font-bold uppercase leading-[1.08] tracking-normal text-[color:var(--home-text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-[1.18rem]">
+        <h3 className="mt-2 line-clamp-3 font-display text-[1rem] font-bold uppercase leading-[1.08] tracking-normal text-[color:var(--home-text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-[1.18rem] lg:line-clamp-2">
           <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
         </h3>
-        <p className="mt-auto pt-3 font-display text-[10px] uppercase tracking-[0.14em] text-[color:var(--home-soft)]">{article.readingTime ?? "3 min read"}</p>
+        <p className="mt-auto pt-3 font-display text-[10px] uppercase tracking-wide text-[color:var(--home-soft)]">{formatDate(article.date)} {article.readingTime ? ` / ${article.readingTime}` : ""}</p>
       </div>
     </Link>
   );

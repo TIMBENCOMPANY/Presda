@@ -95,7 +95,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const articles = getPublishedArticles();
 
   return (
-    <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-8 sm:w-[min(1500px,calc(100%-32px))] sm:py-12">
+    <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-3 sm:w-[min(1500px,calc(100%-32px))] sm:py-4">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -108,19 +108,23 @@ export default function CategoryPage({ params }: CategoryPageProps) {
           )
         }}
       />
-      <header className="mb-7 rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] p-5 shadow-[var(--shadow)] sm:mb-9 sm:p-7">
-        <div className="mb-5 flex h-12 w-12 items-center justify-center rounded-lg border border-[color:var(--border)] text-[#FF1A1A] sm:mb-6 sm:h-14 sm:w-14">
-          <CategoryIcon category={category} className="h-6 w-6 sm:h-7 sm:w-7" />
+      <header className="mb-3 rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] p-4 shadow-[var(--shadow)] sm:mb-4">
+        <div className="flex items-start gap-3 sm:gap-4">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-[color:var(--border)] text-[#FF1A1A] sm:h-11 sm:w-11">
+            <CategoryIcon category={category} className="h-5 w-5 sm:h-6 sm:w-6" />
+          </div>
+          <div className="min-w-0">
+            <p className="font-display text-[10px] font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A]">Category</p>
+            <h1 className="mt-1 text-balance font-display text-[clamp(1.85rem,8vw,2.5rem)] font-extrabold uppercase leading-[1] text-[color:var(--text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-5xl sm:leading-none">
+              {categoryLabels[category]}
+            </h1>
+            <p className="mt-2 max-w-3xl text-sm leading-6 text-[color:var(--muted)] sm:text-[15px]">{categoryDescriptions[category]}</p>
+          </div>
         </div>
-        <p className="font-display text-[10px] font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A] sm:text-xs">Category</p>
-        <h1 className="mt-3 text-balance font-display text-[clamp(2rem,11vw,2.75rem)] font-extrabold uppercase leading-[1] text-[color:var(--text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-7xl sm:leading-none">
-          {categoryLabels[category]}
-        </h1>
-        <p className="mt-4 max-w-3xl text-sm leading-7 text-[color:var(--muted)] sm:mt-5 sm:text-base">{categoryDescriptions[category]}</p>
         {categoryHubCopy[category] ? (
-          <div className="mt-5 border-t border-[color:var(--border)] pt-5">
-            <p className="max-w-3xl text-sm leading-7 text-[color:var(--muted)]">{categoryHubCopy[category]}</p>
-            <div className="mt-4 flex flex-wrap gap-2">
+          <div className="mt-3 border-t border-[color:var(--border)] pt-3">
+            <p className="max-w-3xl text-sm leading-6 text-[color:var(--muted)]">{categoryHubCopy[category]}</p>
+            <div className="mt-2 flex flex-wrap gap-2">
               {categoryHubLinks[category]?.map((link) => (
                 <Link
                   key={link.href}
@@ -134,7 +138,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
           </div>
         ) : null}
       </header>
-      <ArticleBrowser articles={articles} initialCategory={category} />
+      <ArticleBrowser articles={articles} initialCategory={category} compact />
     </main>
   );
 }

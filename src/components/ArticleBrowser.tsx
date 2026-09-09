@@ -10,9 +10,10 @@ import { categoryLabels } from "@/lib/categories";
 type ArticleBrowserProps = {
   articles: Article[];
   initialCategory?: ArticleCategory | "ALL";
+  compact?: boolean;
 };
 
-export function ArticleBrowser({ articles, initialCategory = "ALL" }: ArticleBrowserProps) {
+export function ArticleBrowser({ articles, initialCategory = "ALL", compact = false }: ArticleBrowserProps) {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState<ArticleCategory | "ALL">(initialCategory);
   const [sort, setSort] = useState("latest");
@@ -36,7 +37,7 @@ export function ArticleBrowser({ articles, initialCategory = "ALL" }: ArticleBro
 
   return (
     <section>
-      <div className="mb-8 grid min-w-0 gap-3 rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] p-3 sm:p-4 lg:grid-cols-[1fr_auto_auto]">
+      <div className={`${compact ? "mb-3 p-3" : "mb-8 p-3 sm:p-4"} grid min-w-0 gap-3 rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] lg:grid-cols-[1fr_auto_auto]`}>
         <label className="relative min-w-0">
           <Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-[color:var(--muted)]" strokeWidth={1.5} />
           <input

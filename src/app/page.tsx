@@ -23,6 +23,11 @@ const featuredHeroSlugs = [
   "ottoman-empire-rise-and-fall",
   "history-of-egyptian-pyramids"
 ];
+const editorialPickSlugs = [
+  "avicii-life-music-death-tim-bergling",
+  "galileo-and-the-church",
+  "anti-aging-can-we-slow-down-human-aging"
+];
 const moreStoriesCount = 12;
 
 export default function HomePage() {
@@ -31,11 +36,11 @@ export default function HomePage() {
   const featured = featuredHeroSlugs
     .map((slug) => articlesBySlug.get(slug))
     .filter((article): article is NonNullable<typeof article> => Boolean(article));
-  const latest = articles
-    .filter((article) => !featured.some((featuredArticle) => featuredArticle.slug === article.slug))
-    .slice(0, 4);
-  const visibleSlugs = new Set([...featured, ...latest].map((article) => article.slug));
+  const editorialPicks = editorialPickSlugs
+    .map((slug) => articlesBySlug.get(slug))
+    .filter((article): article is NonNullable<typeof article> => Boolean(article));
+  const visibleSlugs = new Set([...featured, ...editorialPicks].map((article) => article.slug));
   const moreStories = articles.filter((article) => !visibleSlugs.has(article.slug)).slice(0, moreStoriesCount);
 
-  return <HomeReferenceExperience slides={featured} latest={latest} moreStories={moreStories} />;
+  return <HomeReferenceExperience slides={featured} editorialPicks={editorialPicks} moreStories={moreStories} />;
 }
