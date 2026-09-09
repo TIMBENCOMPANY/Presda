@@ -7,6 +7,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { Article } from "@/data/articles";
 import { ArticleCard } from "@/components/ArticleCard";
 import { HeadlineText } from "@/components/HeadlineText";
+import { getArticleCardImage } from "@/lib/articleImages";
 import { categoryLabels } from "@/lib/categories";
 
 type HomeStory = Pick<
@@ -23,7 +24,9 @@ type HomeReferenceExperienceProps = {
 export function HomeReferenceExperience({ slides, latest, moreStories }: HomeReferenceExperienceProps) {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isPaused, setIsPaused] = useState(false);
+  const [showMoreStoryImages, setShowMoreStoryImages] = useState(false);
   const touchStartX = useRef<number | null>(null);
+  const moreStoriesRef = useRef<HTMLElement | null>(null);
   const resumeTimer = useRef<number | null>(null);
   const active = slides[activeIndex] ?? slides[0];
   const isLongHeroTitle = (active?.title.length ?? 0) > 48;
@@ -42,6 +45,25 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
       if (resumeTimer.current) window.clearTimeout(resumeTimer.current);
     };
   }, []);
+
+  useEffect(() => {
+    const element = moreStoriesRef.current;
+    if (!element || showMoreStoryImages) return;
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry?.isIntersecting) {
+          setShowMoreStoryImages(true);
+          observer.disconnect();
+        }
+      },
+      { rootMargin: "480px 0px" }
+    );
+
+    observer.observe(element);
+
+    return () => observer.disconnect();
+  }, [showMoreStoryImages]);
 
   const progress = useMemo(() => ((activeIndex + 1) / slides.length) * 100, [activeIndex, slides.length]);
 
@@ -132,21 +154,17 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
 
             <div className="home-media-frame relative h-[clamp(220px,64vw,276px)] overflow-hidden rounded-[14px] sm:h-[410px] md:h-[470px] lg:h-[548px] lg:rounded-[18px]">
               <div className="absolute inset-y-0 left-0 right-0">
-                {slides.map((slide, index) => (
-                  <Image
-                    key={slide.slug}
-                    src={slide.coverImage}
-                    alt={slide.coverAlt}
-                    fill
-                    priority={index === 0}
-                    quality={82}
-                    sizes="(max-width: 1024px) calc(100vw - 24px), 860px"
-                    className={`object-cover object-center transition duration-700 lg:object-[center_42%] ${
-                      index === activeIndex ? "scale-100 opacity-100" : "scale-[1.03] opacity-0"
-                    }`}
-                    style={{ objectPosition: slide.homepageImagePosition ?? "50% 42%" }}
-                  />
-                ))}
+                <Image
+                  key={active.slug}
+                  src={active.coverImage}
+                  alt={active.coverAlt}
+                  fill
+                  priority
+                  quality={82}
+                  sizes="(max-width: 1024px) calc(100vw - 24px), 860px"
+                  className="object-cover object-center transition duration-700 lg:object-[center_42%]"
+                  style={{ objectPosition: active.homepageImagePosition ?? "50% 42%" }}
+                />
               </div>
               <div className="home-media-bottom absolute inset-x-0 bottom-0 h-36" />
               <div className="home-media-left absolute inset-y-0 left-0 w-1/3" />
@@ -183,7 +201,7 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
         </div>
       </section>
 
-      <section className="mx-auto w-[min(1500px,calc(100%-24px))] py-10 sm:w-[min(1500px,calc(100%-48px))] sm:py-14 lg:py-16">
+      <section ref={moreStoriesRef} className="mx-auto w-[min(1500px,calc(100%-24px))] py-10 sm:w-[min(1500px,calc(100%-48px))] sm:py-14 lg:py-16">
         <div className="mb-6 flex flex-wrap items-end justify-between gap-4 sm:mb-8">
           <div>
             <p className="font-display text-[10px] font-extrabold uppercase tracking-[0.18em] text-[color:var(--home-red)] sm:text-xs">PRESDA</p>
@@ -198,7 +216,7 @@ export function HomeReferenceExperience({ slides, latest, moreStories }: HomeRef
         </div>
         <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
           {moreStories.map((article) => (
-            <ArticleCard key={article.slug} article={article} />
+            <ArticleCard key={article.slug} article={article} showImage={showMoreStoryImages} />
           ))}
         </div>
       </section>
@@ -211,11 +229,11 @@ function LatestCard({ article, priority = false }: { article: HomeStory; priorit
     <Link href={`/articles/${article.slug}/`} className="home-latest-card group grid min-h-[112px] grid-cols-[96px_1fr] items-stretch gap-3 rounded-lg p-3 backdrop-blur-xl transition hover:-translate-y-0.5 sm:min-h-[118px] sm:grid-cols-[116px_1fr] sm:gap-4">
       <div className="relative h-full min-h-[88px] overflow-hidden rounded-lg bg-black sm:min-h-[92px]">
         <Image
-          src={article.coverImage}
+          src={getArticleCardImage(article)}
           alt={article.coverAlt}
           fill
           priority={priority}
-          quality={70}
+          quality={72}
           sizes="(max-width: 640px) 96px, 116px"
           className="object-cover object-center transition duration-500 group-hover:scale-105"
         />
