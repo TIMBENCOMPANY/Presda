@@ -9758,7 +9758,7 @@ export const articles: Article[] = [
       "gold": "World Cup 2026"
     },
     "excerpt": "Kit Harington, known worldwide as Jon Snow, drew attention from Moroccan football fans after images showed him at Morocco vs Brazil wearing Morocco's national-team jersey.",
-    "category": "World Cup 2026",
+    "category": "Paparazzi",
     "date": "2026-06-24",
     "author": "PRESDA Editorial",
     "coverImage": "/images/editorial/jon-snow-morocco.jpg",
@@ -10037,7 +10037,7 @@ export const articles: Article[] = [
       "gold": "GREATEST GENERATION"
     },
     "excerpt": "Messi, Ronaldo, Neymar, Modric, Benzema, Suarez, Lewandowski, Kroos, Neuer and Ramos defined a football generation shaped by records, rivalries, tactics, trophies and global media.",
-    "category": "World Cup 2026",
+    "category": "Sport",
     "date": "2026-06-03",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
@@ -10230,7 +10230,7 @@ export const articles: Article[] = [
       "gold": "World Cup 2026"
     },
     "excerpt": "A clear guide to the official FIFA World Cup 2026 sponsors, global partners, supporters, suppliers, and the commercial ecosystem around the tournament.",
-    "category": "World Cup 2026",
+    "category": "Business",
     "date": "2026-06-04",
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/world-cup-2026-brands-kits.png",
@@ -10394,7 +10394,7 @@ export const articles: Article[] = [
       "> World Cup 2026 was a football tournament, but it also became a test of hosting power.",
       "## Final Word",
       "Donald Trump's World Cup 2026 role was not about tactics, goals or the champion. It was about the state machinery around a global sports event: task forces, agencies, border systems, security coordination, city readiness and diplomatic ceremony.",
-      "For more PRESDA context, read our guide to [World Cup 2026 sponsors](/articles/the-brands-behind-world-cup-2026/), the [World Cup 2026 category](/category/world-cup-2026/) and wider [World coverage](/category/world/)."
+      "For more PRESDA context, read our guide to [World Cup 2026 sponsors](/articles/the-brands-behind-world-cup-2026/), the [World Cup 2026 hub](/world-cup-2026/) and wider [World coverage](/category/world/)."
     ],
     "source": {
       "name": "PRESDA World Coverage"
@@ -11064,7 +11064,6 @@ export const categories: ArticleCategory[] = [
   "AI",
   "Sport",
   "Lifestyle",
-  "World Cup 2026",
   "Science",
   "History"
 ];

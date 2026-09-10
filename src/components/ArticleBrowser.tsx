@@ -5,30 +5,25 @@ import { useMemo, useState } from "react";
 import type { Article, ArticleCategory } from "@/data/articles";
 import { categories } from "@/data/articles";
 import { ArticleCard } from "@/components/ArticleCard";
+import { articleMatchesSearch } from "@/lib/articleSearch";
 import { categoryLabels } from "@/lib/categories";
 
 type ArticleBrowserProps = {
   articles: Article[];
   initialCategory?: ArticleCategory | "ALL";
+  initialQuery?: string;
   compact?: boolean;
 };
 
-export function ArticleBrowser({ articles, initialCategory = "ALL", compact = false }: ArticleBrowserProps) {
-  const [query, setQuery] = useState("");
+export function ArticleBrowser({ articles, initialCategory = "ALL", initialQuery = "", compact = false }: ArticleBrowserProps) {
+  const [query, setQuery] = useState(initialQuery);
   const [category, setCategory] = useState<ArticleCategory | "ALL">(initialCategory);
   const [sort, setSort] = useState("latest");
 
   const filtered = useMemo(() => {
     return articles
       .filter((article) => category === "ALL" || article.category === category)
-      .filter((article) => {
-        const search = query.trim().toLowerCase();
-        if (!search) return true;
-        return [article.title, article.excerpt, article.category, article.author, ...article.tags]
-          .join(" ")
-          .toLowerCase()
-          .includes(search);
-      })
+      .filter((article) => articleMatchesSearch(article, query))
       .sort((a, b) => {
         if (sort === "oldest") return new Date(a.date).getTime() - new Date(b.date).getTime();
         return new Date(b.date).getTime() - new Date(a.date).getTime();

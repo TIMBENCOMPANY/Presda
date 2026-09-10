@@ -39,8 +39,7 @@ const categoriesBySlug: Record<string, ArticleCategory> = {
   lifestyle: "Lifestyle",
   travel: "Travel",
   science: "Science",
-  history: "History",
-  "world-cup-2026": "World Cup 2026"
+  history: "History"
 };
 
 export function fromCategorySlug(slug: string): ArticleCategory | undefined {

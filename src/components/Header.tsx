@@ -3,9 +3,12 @@
 import { Info, Mail, Menu, Newspaper, Search, UserPlus, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
-import { useEffect, useRef, useState } from "react";
-import { categoryLabels, toCategorySlug } from "@/lib/categories";
+import { usePathname, useRouter } from "next/navigation";
+import type { FormEvent } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import type { ArticleSearchRecord } from "@/lib/articleSearch";
+import { searchArticles } from "@/lib/articleSearch";
+import { categoryLabels, formatDate, toCategorySlug } from "@/lib/categories";
 import { ThemeToggle } from "@/components/ThemeToggle";
 
 const navLinks = [
@@ -16,6 +19,12 @@ const navLinks = [
 ];
 
 const homepageCategoryLinks = ["World", "Sport", "Business", "AI", "Science", "History", "Lifestyle", "Paparazzi"] as const;
+const minimumSearchLength = 2;
+const maxSearchResults = 6;
+
+type HeaderProps = {
+  articles: ArticleSearchRecord[];
+};
 
 function isActivePath(pathname: string | null, href: string) {
   if (!pathname) {
@@ -25,12 +34,27 @@ function isActivePath(pathname: string | null, href: string) {
   return pathname === href || (href !== "/" && pathname.startsWith(href));
 }
 
-export function Header() {
+export function Header({ articles }: HeaderProps) {
   const [open, setOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [searchFocused, setSearchFocused] = useState(false);
+  const [query, setQuery] = useState("");
   const headerRef = useRef<HTMLElement | null>(null);
+  const desktopSearchRef = useRef<HTMLDivElement | null>(null);
+  const mobileSearchRef = useRef<HTMLDivElement | null>(null);
+  const mobileInputRef = useRef<HTMLInputElement | null>(null);
   const closeTimer = useRef<number | null>(null);
   const pathname = usePathname();
+  const router = useRouter();
   const isHome = pathname === "/";
+  const trimmedQuery = query.trim();
+  const showSearchResults = (searchFocused || searchOpen) && trimmedQuery.length >= minimumSearchLength;
+  const matchingArticles = useMemo(() => {
+    if (trimmedQuery.length < minimumSearchLength) return [];
+    return searchArticles(articles, trimmedQuery)
+      .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+      .slice(0, maxSearchResults);
+  }, [articles, trimmedQuery]);
 
   useEffect(() => {
     if (!open) return;
@@ -44,6 +68,24 @@ export function Header() {
 
     return () => document.removeEventListener("pointerdown", handlePointerDown);
   }, [open]);
+
+  useEffect(() => {
+    function handlePointerDown(event: PointerEvent) {
+      const target = event.target as Node;
+      if (desktopSearchRef.current?.contains(target) || mobileSearchRef.current?.contains(target)) return;
+      setSearchFocused(false);
+      setSearchOpen(false);
+    }
+
+    document.addEventListener("pointerdown", handlePointerDown);
+
+    return () => document.removeEventListener("pointerdown", handlePointerDown);
+  }, []);
+
+  useEffect(() => {
+    if (!searchOpen) return;
+    mobileInputRef.current?.focus();
+  }, [searchOpen]);
 
   useEffect(() => {
     return () => {
@@ -79,9 +121,73 @@ export function Header() {
     setOpen((value) => !value);
   }
 
+  function submitSearch(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    if (!trimmedQuery) return;
+    setSearchFocused(false);
+    setSearchOpen(false);
+    router.push(`/articles/?q=${encodeURIComponent(trimmedQuery)}`);
+  }
+
+  function closeSearch() {
+    setSearchFocused(false);
+    setSearchOpen(false);
+  }
+
+  function renderSearchResults({ mobile = false }: { mobile?: boolean } = {}) {
+    if (!showSearchResults) return null;
+
+    return (
+      <div className={`home-search-results absolute top-[calc(100%+10px)] z-50 w-[min(420px,calc(100vw-24px))] overflow-hidden rounded-xl border border-[color:var(--home-border)] bg-[color:var(--home-panel-strong)] p-2 shadow-[0_24px_80px_rgba(0,0,0,0.42)] backdrop-blur-xl ${mobile ? "left-0" : "right-0"}`}>
+        {matchingArticles.length > 0 ? (
+          <div className="grid gap-1">
+            {matchingArticles.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/articles/${article.slug}/`}
+                onClick={closeSearch}
+                className="block rounded-lg px-3 py-2.5 transition hover:bg-[color:var(--home-control-bg)]"
+              >
+                <span className="font-display text-[10px] font-extrabold uppercase tracking-wide text-[#FF1A1A]">{categoryLabels[article.category]}</span>
+                <span className="mt-1 line-clamp-2 block font-display text-sm font-extrabold uppercase leading-tight text-[color:var(--home-text)]">
+                  {article.title}
+                </span>
+                <span className="mt-1 block text-xs text-[color:var(--home-soft)]">{formatDate(article.date)}</span>
+              </Link>
+            ))}
+          </div>
+        ) : (
+          <div className="px-3 py-3 text-sm text-[color:var(--home-soft)]">No articles found</div>
+        )}
+      </div>
+    );
+  }
+
+  function renderSearchInput({ mobile = false }: { mobile?: boolean } = {}) {
+    return (
+      <form
+        role="search"
+        onSubmit={submitSearch}
+        className={`home-search-box h-11 items-center gap-3 rounded-lg px-3 transition ${mobile ? "flex w-full" : "hidden md:flex md:w-[240px] lg:w-[292px]"}`}
+      >
+        <Search className="h-5 w-5 shrink-0" strokeWidth={1.6} />
+        <input
+          ref={mobile ? mobileInputRef : undefined}
+          value={query}
+          onChange={(event) => setQuery(event.target.value)}
+          onFocus={() => setSearchFocused(true)}
+          placeholder="Search articles..."
+          className="h-full min-w-0 flex-1 bg-transparent text-sm text-[color:var(--home-text)] outline-none placeholder:text-[color:var(--home-soft)]"
+          aria-label="Search articles"
+          autoComplete="off"
+        />
+      </form>
+    );
+  }
+
   return (
     <header ref={headerRef} className="home-header sticky top-0 z-50 overflow-visible border-b backdrop-blur-xl" onMouseEnter={clearCloseTimer} onMouseLeave={closeMenuAfterLeave}>
-      <nav className="relative mx-3 grid min-h-[72px] max-w-[1510px] grid-cols-[auto_1fr_auto] items-center sm:mx-6 sm:min-h-[80px] 2xl:mx-auto">
+      <nav className="relative z-[80] mx-3 grid min-h-[72px] max-w-[1510px] grid-cols-[auto_1fr_auto] items-center sm:mx-6 sm:min-h-[80px] 2xl:mx-auto">
         <button
           type="button"
           onClick={toggleMenu}
@@ -99,14 +205,19 @@ export function Header() {
         </Link>
 
         <div className="absolute right-0 top-1/2 flex -translate-y-1/2 items-center justify-end gap-1.5 sm:gap-3">
-          <Link
-            href="/articles/"
-            className="home-search-box hidden h-11 items-center gap-3 rounded-lg px-3 transition md:flex md:w-[240px] lg:w-[292px]"
-            aria-label="Search articles"
+          <div ref={desktopSearchRef} className="relative z-[70] hidden md:block">
+            {renderSearchInput()}
+            {renderSearchResults()}
+          </div>
+          <button
+            type="button"
+            onClick={() => setSearchOpen((value) => !value)}
+            className="home-glass-control grid h-11 w-11 place-items-center rounded-full transition md:hidden"
+            aria-label={searchOpen ? "Close article search" : "Open article search"}
+            aria-expanded={searchOpen}
           >
-            <Search className="h-5 w-5 shrink-0" strokeWidth={1.6} />
-            <span className="truncate text-sm text-[color:var(--home-soft)]">Search articles...</span>
-          </Link>
+            {searchOpen ? <X className="h-5 w-5" strokeWidth={1.6} /> : <Search className="h-5 w-5" strokeWidth={1.6} />}
+          </button>
           <ThemeToggle variant="home" />
           <Link
             href="/newsletter/"
@@ -116,6 +227,15 @@ export function Header() {
           </Link>
         </div>
       </nav>
+
+      {searchOpen ? (
+        <div ref={mobileSearchRef} className="absolute left-3 right-3 top-full z-[70] pt-3 md:hidden">
+          <div className="relative">
+            {renderSearchInput({ mobile: true })}
+            {renderSearchResults({ mobile: true })}
+          </div>
+        </div>
+      ) : null}
 
       {isHome ? (
         <div className="home-category-rail border-t">

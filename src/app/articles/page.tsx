@@ -9,8 +9,9 @@ export const metadata: Metadata = createPageMetadata({
   path: "/articles/"
 });
 
-export default function ArticlesPage() {
+export default function ArticlesPage({ searchParams }: { searchParams?: { q?: string } }) {
   const articles = getPublishedArticles();
+  const initialQuery = typeof searchParams?.q === "string" ? searchParams.q : "";
 
   return (
     <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-8 sm:w-[min(1500px,calc(100%-32px))] sm:py-12">
@@ -32,7 +33,7 @@ export default function ArticlesPage() {
           Browse PRESDA stories by category, search for topics, and sort the newsroom feed by date.
         </p>
       </header>
-      <ArticleBrowser articles={articles} />
+      <ArticleBrowser articles={articles} initialQuery={initialQuery} />
     </main>
   );
 }

@@ -4,6 +4,8 @@ import { Analytics } from "@vercel/analytics/next";
 import type { ReactNode } from "react";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
+import { getPublishedArticles } from "@/data/articles";
+import { toArticleSearchRecord } from "@/lib/articleSearch";
 import { organizationJsonLd } from "@/lib/seo";
 import "./globals.css";
 
@@ -60,6 +62,8 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
+  const searchArticles = getPublishedArticles().map(toArticleSearchRecord);
+
   return (
     <html lang="en" className={`${orbitron.variable} ${inter.variable} ${articleDisplay.variable}`} suppressHydrationWarning>
       <body>
@@ -67,7 +71,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
         />
-        <Header />
+        <Header articles={searchArticles} />
         {children}
         <Analytics />
         <Footer />
