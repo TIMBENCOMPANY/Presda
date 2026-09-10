@@ -562,8 +562,46 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
           </div>
         </header>
 
-        <div className="mt-10 grid gap-10 lg:grid-cols-[minmax(0,760px)_minmax(280px,1fr)] lg:items-start">
-          <div className="min-w-0 space-y-7 rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] sm:p-8 lg:p-10">
+        <div className="mt-10">
+          <div className="flow-root min-w-0 space-y-7 rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] sm:p-8 lg:p-10">
+            <aside className="mb-7 grid gap-4 lg:float-right lg:mb-6 lg:ml-8 lg:w-[23%] lg:min-w-[260px] lg:max-w-[340px] lg:gap-4">
+              {sections.length ? (
+                <>
+                  <details className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-4 shadow-[var(--home-card-shadow)] lg:hidden">
+                    <summary className="cursor-pointer list-none font-display text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#FF1A1A] marker:hidden">
+                      Table Of Contents
+                    </summary>
+                    <ol className="mt-3 max-h-[18rem] space-y-2 overflow-y-auto pr-2">
+                      {sections.map((section) => (
+                        <li key={section.id} className={section.level === 3 ? "pl-4" : undefined}>
+                          <a href={`#${section.id}`} className="block text-[13px] font-semibold leading-[1.25rem] text-[color:var(--home-muted)] transition hover:text-[#FF1A1A]">
+                            {section.title}
+                          </a>
+                        </li>
+                      ))}
+                    </ol>
+                  </details>
+                  <div className="hidden rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-3.5 shadow-[var(--home-card-shadow)] lg:block">
+                    <p className="mb-2.5 font-display text-[10px] font-extrabold uppercase tracking-[0.15em] text-[#FF1A1A]">Table Of Contents</p>
+                    <ol className="max-h-none space-y-1.5 pr-1">
+                      {sections.map((section) => (
+                        <li key={section.id} className={section.level === 3 ? "pl-3" : undefined}>
+                          <a href={`#${section.id}`} className="block text-[12px] font-semibold leading-[1.1rem] text-[color:var(--home-muted)] transition hover:text-[#FF1A1A]">
+                            {section.title}
+                          </a>
+                        </li>
+                      ))}
+                    </ol>
+                  </div>
+                </>
+              ) : null}
+              <SourceBox article={article} />
+              <div className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-4 shadow-[var(--home-card-shadow)]">
+                <p className="mb-3 font-display text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#FF1A1A]">Share</p>
+                <ShareButtons title={article.title} url={canonicalUrl} />
+              </div>
+            </aside>
+
             {articleContent.map(({ block, originalIndex }) => (
               <ArticleContentBlock key={`${article.slug}-${originalIndex}`} block={block} index={originalIndex} />
             ))}
@@ -592,49 +630,13 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
                 ))}
               </div>
             </section>
+            <div className="clear-both grid gap-5 border-t border-[color:var(--home-border)] pt-7 sm:grid-cols-2">
+              <div className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)]">
+                <TagList tags={article.tags} />
+              </div>
+              <NewsletterBox compact />
+            </div>
           </div>
-
-          <aside className="grid gap-5">
-            {sections.length ? (
-              <>
-                <details className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] lg:hidden">
-                  <summary className="cursor-pointer list-none font-display text-xs font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A] marker:hidden">
-                    Table Of Contents
-                  </summary>
-                  <ol className="mt-4 max-h-[18rem] space-y-3 overflow-y-auto pr-2">
-                    {sections.map((section) => (
-                      <li key={section.id} className={section.level === 3 ? "pl-4" : undefined}>
-                        <a href={`#${section.id}`} className="block text-sm font-semibold leading-5 text-[color:var(--home-muted)] transition hover:text-[#FF1A1A]">
-                          {section.title}
-                        </a>
-                      </li>
-                    ))}
-                  </ol>
-                </details>
-                <div className="hidden rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-4 shadow-[var(--home-card-shadow)] lg:sticky lg:top-28 lg:block">
-                  <p className="mb-3 font-display text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#FF1A1A]">Table Of Contents</p>
-                  <ol className="max-h-[min(62vh,34rem)] space-y-2 overflow-y-auto pr-2">
-                  {sections.map((section) => (
-                    <li key={section.id} className={section.level === 3 ? "pl-4" : undefined}>
-                      <a href={`#${section.id}`} className="block text-[13px] font-semibold leading-[1.25rem] text-[color:var(--home-muted)] transition hover:text-[#FF1A1A]">
-                        {section.title}
-                      </a>
-                    </li>
-                  ))}
-                  </ol>
-                </div>
-              </>
-            ) : null}
-            <SourceBox article={article} />
-            <div className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)]">
-              <p className="mb-4 font-display text-xs font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A]">Share</p>
-              <ShareButtons title={article.title} url={canonicalUrl} />
-            </div>
-            <div className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)]">
-              <TagList tags={article.tags} />
-            </div>
-            <NewsletterBox compact />
-          </aside>
         </div>
 
         <div className="mt-14">
