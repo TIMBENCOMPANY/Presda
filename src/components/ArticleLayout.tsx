@@ -594,7 +594,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
             </section>
           </div>
 
-          <aside className="grid gap-5 lg:sticky lg:top-28">
+          <aside className="grid gap-5">
             {sections.length ? (
               <>
                 <details className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] lg:hidden">
@@ -611,12 +611,12 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
                     ))}
                   </ol>
                 </details>
-                <div className="hidden rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] lg:block">
-                  <p className="mb-4 font-display text-xs font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A]">Table Of Contents</p>
-                  <ol className="max-h-[min(62vh,34rem)] space-y-3 overflow-y-auto pr-2">
+                <div className="hidden rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-4 shadow-[var(--home-card-shadow)] lg:sticky lg:top-28 lg:block">
+                  <p className="mb-3 font-display text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#FF1A1A]">Table Of Contents</p>
+                  <ol className="max-h-[min(62vh,34rem)] space-y-2 overflow-y-auto pr-2">
                   {sections.map((section) => (
                     <li key={section.id} className={section.level === 3 ? "pl-4" : undefined}>
-                      <a href={`#${section.id}`} className="block text-sm font-semibold leading-5 text-[color:var(--home-muted)] transition hover:text-[#FF1A1A]">
+                      <a href={`#${section.id}`} className="block text-[13px] font-semibold leading-[1.25rem] text-[color:var(--home-muted)] transition hover:text-[#FF1A1A]">
                         {section.title}
                       </a>
                     </li>
