@@ -200,19 +200,19 @@ export function Header({ articles }: HeaderProps) {
           {open ? <X className="h-5 w-5" strokeWidth={1.6} /> : <Menu className="h-5 w-5" strokeWidth={1.6} />}
         </button>
 
-        <Link href="/" aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-14 w-20 -translate-x-1/2 -translate-y-1/2 place-items-center sm:h-16 sm:w-24">
-          <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-9 w-auto object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] sm:h-11" />
+        <Link href="/" aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
+          <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-12 w-auto object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-16" />
         </Link>
 
         <div className="absolute right-0 top-1/2 flex -translate-y-1/2 items-center justify-end gap-1.5 sm:gap-3">
-          <div ref={desktopSearchRef} className="relative z-[70] hidden md:block">
+          <div ref={desktopSearchRef} className="relative z-[70] hidden lg:block">
             {renderSearchInput()}
             {renderSearchResults()}
           </div>
           <button
             type="button"
             onClick={() => setSearchOpen((value) => !value)}
-            className="home-glass-control grid h-11 w-11 place-items-center rounded-full transition md:hidden"
+            className="home-glass-control grid h-11 w-11 place-items-center rounded-full transition lg:hidden"
             aria-label={searchOpen ? "Close article search" : "Open article search"}
             aria-expanded={searchOpen}
           >
@@ -229,7 +229,7 @@ export function Header({ articles }: HeaderProps) {
       </nav>
 
       {searchOpen ? (
-        <div ref={mobileSearchRef} className="absolute left-3 right-3 top-full z-[70] pt-3 md:hidden">
+        <div ref={mobileSearchRef} className="absolute left-3 right-3 top-full z-[70] pt-3 lg:hidden">
           <div className="relative">
             {renderSearchInput({ mobile: true })}
             {renderSearchResults({ mobile: true })}
