@@ -12,6 +12,11 @@ type SubscriberRecord = {
   unsubscribed_at: string | null;
 };
 
+type SubscribeEmailResult = {
+  subscriber: SubscriberRecord;
+  shouldSendConfirmation: boolean;
+};
+
 type TokenPurpose = "confirm" | "unsubscribe";
 
 type NewsletterTokenPayload = {
@@ -148,13 +153,13 @@ async function supabaseRequest<T>(path: string, init: RequestInit = {}) {
   return (await response.json()) as T;
 }
 
-export async function subscribeEmail(email: string, source: string) {
+export async function subscribeEmail(email: string, source: string): Promise<SubscribeEmailResult> {
   const existing = await supabaseRequest<SubscriberRecord[]>(
     `?email=eq.${encodeURIComponent(email)}&select=id,email,status,source,created_at,confirmed_at,unsubscribed_at`
   );
 
   if (existing[0]?.status === "confirmed" || existing[0]?.status === "pending") {
-    return existing[0];
+    return { subscriber: existing[0], shouldSendConfirmation: false };
   }
 
   if (existing[0]?.status === "unsubscribed") {
@@ -168,7 +173,7 @@ export async function subscribeEmail(email: string, source: string) {
       })
     });
 
-    return updated[0];
+    return { subscriber: updated[0], shouldSendConfirmation: true };
   }
 
   const inserted = await supabaseRequest<SubscriberRecord[]>("", {
@@ -180,18 +185,21 @@ export async function subscribeEmail(email: string, source: string) {
     })
   });
 
-  return inserted[0];
+  return { subscriber: inserted[0], shouldSendConfirmation: true };
 }
 
 export async function confirmEmail(email: string) {
-  const updated = await supabaseRequest<SubscriberRecord[]>(`?email=eq.${encodeURIComponent(email)}`, {
+  const updated = await supabaseRequest<SubscriberRecord[]>(
+    `?email=eq.${encodeURIComponent(email)}&status=eq.pending`,
+    {
     method: "PATCH",
     body: JSON.stringify({
       status: "confirmed",
       confirmed_at: new Date().toISOString(),
       unsubscribed_at: null
     })
-  });
+    }
+  );
 
   return updated[0] ?? null;
 }

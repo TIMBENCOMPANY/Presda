@@ -3,6 +3,26 @@ import { confirmEmail, verifyNewsletterToken } from "@/lib/newsletter";
 
 export const dynamic = "force-dynamic";
 
+function renderResult(message: string, status = 200) {
+  return new NextResponse(`<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PRESDA Newsletter</title>
+  </head>
+  <body style="margin:0;min-height:100vh;display:grid;place-items:center;background:#080808;color:#ffffff;font-family:Arial,Helvetica,sans-serif;">
+    <main style="width:min(560px,calc(100% - 32px));border:1px solid #242424;background:#111111;padding:32px;">
+      <p style="margin:0 0 12px;color:#ff1a1a;font-size:12px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;">PRESDA</p>
+      <h1 style="margin:0;font-size:28px;line-height:1.2;">${message}</h1>
+    </main>
+  </body>
+</html>`, {
+    status,
+    headers: { "Content-Type": "text/html; charset=utf-8" }
+  });
+}
+
 export async function GET(request: Request) {
   try {
     const url = new URL(request.url);
@@ -12,9 +32,13 @@ export async function GET(request: Request) {
       return NextResponse.json({ ok: false, message: "This confirmation link is invalid or expired." }, { status: 400 });
     }
 
-    await confirmEmail(email);
+    const subscriber = await confirmEmail(email);
 
-    return NextResponse.json({ ok: true, message: "Your PRESDA newsletter subscription is confirmed." });
+    if (!subscriber) {
+      return renderResult("This confirmation link is invalid or expired.", 400);
+    }
+
+    return renderResult("Subscription confirmed. Welcome to PRESDA — Your Daily Press.");
   } catch {
     return NextResponse.json({ ok: false, message: "We could not confirm that subscription right now." }, { status: 500 });
   }
