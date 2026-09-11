@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowLeft, ArrowRight } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { Article } from "@/data/articles";
 import { ArticleCard } from "@/components/ArticleCard";
@@ -225,18 +225,18 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               <button
                 type="button"
                 onClick={goPrevious}
-                className="home-glass-control home-hero-arrow absolute left-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:left-5 lg:left-6 lg:top-[58%] lg:-translate-y-1/2"
+                className="home-hero-arrow home-hero-arrow-left absolute left-3 top-5 z-20 grid h-11 w-8 place-items-center transition sm:left-5 lg:left-6 lg:top-[58%] lg:-translate-y-1/2"
                 aria-label="Previous featured story"
               >
-                <ArrowLeft className="h-5 w-5" strokeWidth={2} />
+                <span className="home-hero-chevron" aria-hidden="true" />
               </button>
               <button
                 type="button"
                 onClick={goNext}
-                className="home-glass-control home-hero-arrow absolute right-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:right-5 lg:right-6 lg:top-[58%] lg:-translate-y-1/2"
+                className="home-hero-arrow home-hero-arrow-right absolute right-3 top-5 z-20 grid h-11 w-8 place-items-center transition sm:right-5 lg:right-6 lg:top-[58%] lg:-translate-y-1/2"
                 aria-label="Next featured story"
               >
-                <ArrowRight className="h-5 w-5" strokeWidth={2} />
+                <span className="home-hero-chevron" aria-hidden="true" />
               </button>
             </article>
 

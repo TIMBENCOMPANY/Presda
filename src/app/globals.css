@@ -248,21 +248,94 @@ select {
 }
 
 .home-hero-arrow {
-  border-color: color-mix(in srgb, var(--home-border) 60%, transparent);
-  background: rgba(5, 5, 5, 0.2);
-  color: rgba(255, 255, 255, 0.9);
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.06),
-    0 10px 22px rgba(0, 0, 0, 0.14);
+  min-width: 32px;
+  min-height: 44px;
+  border: 0;
+  background: transparent;
+  color: rgba(245, 245, 245, 0.64);
+  opacity: 1;
+  filter: drop-shadow(0 2px 9px rgba(0, 0, 0, 0.62));
+  box-shadow: none;
+  outline: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  transition:
+    color 180ms ease,
+    filter 180ms ease,
+    transform 180ms ease;
 }
 
-.home-hero-arrow:hover {
-  border-color: color-mix(in srgb, var(--home-red) 58%, transparent);
-  background: rgba(5, 5, 5, 0.46);
+.home-hero-arrow:hover,
+.home-hero-arrow:focus-visible {
   color: var(--home-red);
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.12),
-    0 0 24px rgba(196, 0, 25, 0.2);
+  filter: drop-shadow(0 0 12px rgba(255, 26, 26, 0.36));
+}
+
+.home-hero-arrow:active {
+  color: var(--home-red-deep);
+  filter: drop-shadow(0 0 14px rgba(255, 26, 26, 0.48));
+}
+
+.home-hero-chevron {
+  position: relative;
+  display: block;
+  width: 20px;
+  height: 32px;
+}
+
+.home-hero-chevron::before,
+.home-hero-chevron::after,
+.home-hero-arrow::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 2px;
+  border-radius: 999px;
+  background: currentColor;
+}
+
+.home-hero-chevron::before,
+.home-hero-chevron::after {
+  left: 9px;
+  height: 18px;
+}
+
+.home-hero-arrow::before {
+  top: 10px;
+  height: 24px;
+  opacity: 0.44;
+}
+
+.home-hero-arrow-left::before {
+  left: 9px;
+}
+
+.home-hero-arrow-right::before {
+  right: 9px;
+}
+
+.home-hero-arrow-left .home-hero-chevron::before {
+  top: 0;
+  transform: rotate(38deg);
+  transform-origin: bottom center;
+}
+
+.home-hero-arrow-left .home-hero-chevron::after {
+  bottom: 0;
+  transform: rotate(-38deg);
+  transform-origin: top center;
+}
+
+.home-hero-arrow-right .home-hero-chevron::before {
+  top: 0;
+  transform: rotate(-38deg);
+  transform-origin: bottom center;
+}
+
+.home-hero-arrow-right .home-hero-chevron::after {
+  bottom: 0;
+  transform: rotate(38deg);
+  transform-origin: top center;
 }
 
 .home-icon-control {
