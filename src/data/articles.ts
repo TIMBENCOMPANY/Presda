@@ -53,6 +53,241 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "054",
+    slug: "cats-humans-domestication-history",
+    title: "CATS AND HUMANS: HOW A WILD HUNTER BECAME PART OF THE FAMILY",
+    seoTitle: "Cats and Humans: How Wildcats Became Part of the Family | PRESDA",
+    metaDescription:
+      "How did wildcats become our companions? Explore the history and science of cat domestication, from early farming settlements and ancient Egypt to the cats living in our homes today.",
+    headlineHighlights: {
+      red: "CATS AND HUMANS",
+      gold: "WILD HUNTER"
+    },
+    excerpt:
+      "Cats were never domesticated quite like dogs. Thousands of years ago, wildcats began moving closer to human settlements, beginning a relationship that would eventually bring them into our homes and families.",
+    category: "Science",
+    date: "2026-09-11",
+    lastUpdated: "2026-09-11",
+    author: "PRESDA Editorial",
+    coverImage: "/images/articles/cats-humans-domestication-history.webp",
+    coverAlt:
+      "Black domestic cat resting on a person's shoulder at golden sunset, evoking the long history of cats living near human settlements",
+    homepageImagePosition: "62% 44%",
+    content: [
+      "A cat asleep beside a human looks ordinary because it happens in millions of homes every day.",
+      "But the quiet scene is historically strange.",
+      "The animal curled against a blanket is descended from a small wild hunter built for solitude, stealth and sudden movement. Its ancestors did not pull sleds, guard herds, carry loads or follow commands in packs. They hunted rodents. They watched. They approached human life on their own terms.",
+      "That is what makes the history of cats and humans so different from the story of many other domestic animals.",
+      "The main question is not simply when people domesticated cats. It is how a wild hunter became part of the human family without fully surrendering the habits that made it wild.",
+      "The answer begins with farms, grain, rodents and opportunity.",
+      "## The Wildcat Behind The House Cat",
+      "Modern domestic cats belong to the species Felis catus. Their key wild ancestor was the Near Eastern or North African wildcat, commonly identified in domestication research as Felis silvestris lybica or Felis lybica depending on the taxonomy used by a given source.",
+      "This matters because domestic cats did not descend from every wildcat everywhere. Genetic research has pointed strongly toward the lybica lineage, especially populations associated with the Near East and North Africa.",
+      "A major Science study led by Carlos Driscoll and colleagues compared DNA from domestic cats and wildcat subspecies. It found that domestic cats clustered with Near Eastern wildcats rather than with European, Central Asian or southern African wildcat groups.",
+      "That evidence supports a domestication story rooted in the farming landscapes of the ancient Near East and surrounding regions, not a single moment in which one ancient person decided to invent the pet cat.",
+      "The wildcat was already well suited for the role. It was small enough to live near people, skilled enough to hunt rodents, and independent enough to survive without constant human care. Humans did not need to redesign the cat from scratch. They created an ecological opportunity, and the cat stepped into it.",
+      "## Grain, Rodents And A New Kind Of Neighbor",
+      "Early farming changed the landscape for both people and animals.",
+      "When human communities began growing and storing grain, they unintentionally created a new food chain. Stored crops attracted rodents. Rodents attracted small predators. Among those predators were wildcats.",
+      "For humans, a cat near the grain store was useful. For a wildcat, a settlement full of rodents was a reliable hunting ground. Neither side needed a formal contract. The relationship could begin as commensalism: one species benefiting from proximity to another without being deliberately bred or controlled at first.",
+      "This is why cat domestication is often described as a form of self-domestication. The phrase should be used carefully. It does not mean cats domesticated themselves with conscious intention. It means that natural selection may have favored wildcats that tolerated people well enough to hunt near settlements. Over time, the less fearful, more human-tolerant cats had better access to food and safer places to reproduce.",
+      "Humans probably encouraged that process once the advantages were obvious. A cat that protected stored food was worth tolerating, feeding or transporting. But the earliest relationship did not require the same direct selection for obedience, herding ability or cooperative work that shaped many dog lineages.",
+      "The cat came close because human settlements became good places for a cat to live.",
+      "## The Cyprus Burial: Older Than The Egypt Myth",
+      "One of the most important archaeological clues comes from Cyprus.",
+      "In 2004, researchers reported a roughly 9,500-year-old Neolithic burial at Shillourokambos in which a young cat was found deliberately buried near a human. Cyprus had no native wildcats, so the animal or its ancestors had to be brought there by people.",
+      "The find does not prove that cats were fully domesticated in the modern pet sense. It does show that humans and cats had a close relationship thousands of years earlier than the classic Egyptian images that many people associate with cat domestication.",
+      "That distinction corrects a popular myth.",
+      "Cats were not first domesticated only in Egypt. Egypt became a major center of cat culture, religion, art and later cat dispersal, but the human-cat relationship was already old by the time Egyptian cat imagery became famous.",
+      "The Cyprus burial is powerful because it captures an early intimacy. People transported cats across water, lived near them and, in at least this case, placed one close to a human in death. That is more than pest control, even if pest control helped start the relationship.",
+      "## Ancient Egypt Made Cats Visible To History",
+      "If the Near East helps explain how cats came close to farming communities, ancient Egypt helps explain why cats became so culturally visible.",
+      "Egyptian households valued cats as hunters of rodents and, in some contexts, snakes. Tomb art and domestic scenes show cats near people, under chairs, beside food, and in hunting settings. These images made cats part of a visual language of home, protection and status.",
+      "Religion deepened that presence. Bastet, one of Egypt's best-known feline-associated deities, became linked with protection, fertility, household life and maternal power. Cat figures, amulets and votive objects became part of religious practice. In later periods, large-scale cat mummification developed around temple economies and devotional offerings.",
+      "This does not mean every Egyptian cat was a pampered modern pet. Some were working animals. Some were symbolic. Some were raised for religious systems that modern readers may find unsettling. Ancient cat mummies tell us about devotion and ritual, but also about organized animal economies.",
+      "Egypt's importance is still enormous. Ancient DNA research has suggested that cats associated with Egypt spread widely through Mediterranean and Old World networks. Egypt did not invent the whole relationship, but it helped make cats famous, portable and culturally powerful.",
+      "## Ships, Trade And The Traveling Cat",
+      "Once people understood that cats reduced rodents, cats became useful travelers.",
+      "Grain stores were not the only places with rodent problems. Ships carried food, cargo and small hiding places. Rodents threatened provisions and goods. A cat on board could be more than company; it could protect supplies.",
+      "Palaeogenetic research on ancient cat remains has linked cat dispersal to human land and maritime routes. In simple terms, as farmers, traders, sailors and migrants moved, cats moved with them.",
+      "The spread was not one straight line. Cats likely traveled through repeated waves of contact: Near Eastern farming communities, Egyptian trade networks, Mediterranean ports, Roman and later routes, and ordinary household movement. Some cats followed people because people carried them. Others followed the food webs people created.",
+      "By the time cats became common companions in many parts of the world, they had already spent thousands of years as settlement animals, ship animals, granary animals and household neighbors.",
+      "## Dogs Vs Cats: Two Different Paths To Human Friendship",
+      "Dogs and cats both became close to humans, but they arrived by different routes.",
+      "Dogs descended from wolves and were shaped by social cooperation. Their ancestors already lived in groups, hunted cooperatively and read social cues inside a pack. Over long periods, humans selected dogs for work that required attention to human signals: guarding, herding, hunting, hauling, retrieving and companionship.",
+      "Cats came from a different social and ecological starting point. The wildcat ancestor was a solitary hunter of small prey. Its usefulness did not depend on taking commands. A good settlement cat could work by doing what a cat already did well: patrol, stalk, wait and catch.",
+      "That difference helps explain why cats can seem both affectionate and independent. The domestic cat did adapt to human life, but the job humans originally valued did not require the same degree of obedience or cooperative task performance expected from many dogs.",
+      "A dog often looks to a human for direction. A cat often studies the environment first.",
+      "Both can bond with people. The pathways were simply different.",
+      "## What Domestication Changed",
+      "Domestication did change cats, but not as dramatically as it changed some other animals.",
+      "Compared with their wild ancestors, domestic cats are generally more tolerant of people, more able to live in dense human environments and more likely to use communication that gets human attention. Coat colors and patterns also diversified under human-associated breeding and population movement. The blotched tabby pattern, for example, appears to have increased relatively late in the history of domestic cats rather than at the very beginning.",
+      "But cats retained much of the original hunter's toolkit. They still stalk, pounce, scratch, scent mark, climb, hide, patrol territory and respond strongly to movement. Many can reproduce and survive outside direct human care. Feral and free-roaming populations show how thin the line can be between household companion and independent predator.",
+      "This is why the domestic cat is sometimes described as only lightly domesticated compared with livestock or many dog breeds. The phrase is not an insult. It is a clue to the relationship. Humans did not need to remove the cat's wildness to benefit from it.",
+      "## Why Cats Meow At Humans",
+      "Adult cats use many signals with one another: scent, posture, touch, facial expression, tail position and vocal sounds. Meowing is especially interesting because adult domestic cats often use it heavily with humans.",
+      "Research and feline-behavior reviews suggest that meows function as attention-getting signals in human-cat interaction. They can be shaped by context: food, greeting, isolation, complaint, invitation or request. Human listeners are not perfect translators, but many owners learn the rough meaning of their own cat's sounds because the sounds are tied to repeated routines.",
+      "A careful explanation is better than the myth that cats are trying to speak human language. They are not forming sentences in English or Arabic or French. They are using flexible vocal signals that humans notice.",
+      "The meow works because humans respond.",
+      "## Purring Is Not Always Happiness",
+      "Purring is one of the most comforting sounds in a home, but it should not be reduced to one meaning.",
+      "Many cats purr when relaxed, warm, fed or socially content. Kittens purr while nursing, and purring can help maintain contact between mother and young. Adult cats may purr during friendly contact with humans.",
+      "But cats may also purr when stressed, injured, sick or in pain. Veterinary and behavior sources often warn that purring must be read with the whole body and situation: posture, appetite, hiding, breathing, vocal distress, injury and changes in normal behavior.",
+      "So the safe rule is simple. Purring can signal contentment. It can also be self-soothing or communication in a difficult state. Context decides.",
+      "## Slow Blinking, Head Rubbing And The Language Of Trust",
+      "Some feline signals are quiet enough that humans miss them.",
+      "Slow blinking is one. A 2020 Scientific Reports study found that cats were more likely to narrow their eyes in response to human slow-blink sequences, and unfamiliar cats were more likely to approach an experimenter after that person slow-blinked. This does not mean a slow blink is a magical statement of love. It does support the idea that eye narrowing can function as a positive cat-human signal.",
+      "Head rubbing, often called bunting, is another familiar behavior. Cats have scent glands around the face. Rubbing transfers scent and helps mark people, objects and spaces as familiar. In a home, a cat rubbing its head against a human is part greeting, part scent communication and often part social comfort.",
+      "A tail-up greeting is also meaningful. In cat social behavior, a raised tail commonly appears in friendly approach. When a cat walks toward a person with tail upright, relaxed body and soft face, it is often signaling affiliation rather than threat.",
+      "These signals are not human words. They are feline social tools that humans can learn to read.",
+      "## Kneading, Sleeping Nearby And Following People",
+      "Kneading begins early in life when kittens press against the mother during nursing. Many adult cats continue kneading soft surfaces, blankets or trusted people. It can be associated with comfort, settling, scent marking through the paws and remembered kitten behavior.",
+      "Sleeping beside humans also makes sense without turning cats into little people. Sleep is vulnerable. A cat that chooses to rest near a person may be using warmth, routine, safety, familiarity and social attachment. That does not mean every cat wants constant contact. Some prefer the foot of the bed, a nearby chair or a high perch where the human is visible but not too close.",
+      "Following owners can have several explanations: anticipation of food, curiosity, routine, play, social contact or access to a favored room. The meaning depends on the cat and the situation.",
+      "The common thread is that cats build maps of household life. They learn when people wake, cook, sit, leave, return and go quiet. The bond is lived through rhythm as much as touch.",
+      "## Bringing Prey Home",
+      "Few cat behaviors produce more confident internet myths than bringing prey home.",
+      "The safest explanation is cautious. Cats are hunters. Some cats bring prey to places they treat as familiar or secure. The behavior may relate to hunting instinct, food handling, play, teaching-related patterns seen in feline behavior, or returning with prey to a core area.",
+      "What should be avoided is the unsupported claim that every cat is definitely bringing a gift, paying rent, insulting its human's hunting ability or trying to train a helpless owner. Those ideas can be charming, but they are not established as universal scientific facts.",
+      "A cat with prey is showing that the hunter is still present inside the companion animal.",
+      "## Do Cats Recognize Their Names?",
+      "Yes, evidence suggests many cats can discriminate their own names from other words.",
+      "A 2019 Scientific Reports study tested domestic cats using a habituation-dishabituation method. In ordinary household cats, responses rebounded when the cat's own name followed other similar words. The researchers concluded that cats can discriminate their names from other human utterances.",
+      "That does not mean cats understand names exactly as humans do. It means the sound pattern has become meaningful through repeated association with attention, food, handling or interaction.",
+      "A cat may recognize its name and still decide not to come.",
+      "## Do Cats Recognize Their Owner's Voice?",
+      "Evidence also supports owner-voice recognition.",
+      "A 2013 study in Animal Cognition tested whether cats could distinguish their owners' voices from unfamiliar voices. The cats often showed subtle responses such as ear, head or tail movement rather than dramatic approach. The conclusion was that domestic cats can use vocal cues alone to distinguish familiar humans.",
+      "That subtlety matters. Cats may recognize more than they reveal through obvious behavior. A dog might run across the room. A cat may rotate one ear and continue resting. Both can be responses; they are just different styles of response.",
+      "## Do Cats Form Attachment Bonds With Humans?",
+      "Research suggests many cats form attachment bonds with human caregivers.",
+      "A 2019 Current Biology study adapted secure-base testing to cats and found that many kittens, and a sample of adult cats, showed secure attachment patterns with their caregivers. Oregon State University, whose researchers were involved, described the findings as evidence that cats can use humans as a source of security in a way broadly comparable to patterns studied in children and dogs.",
+      "This does not mean every cat behaves the same way. Attachment can vary by individual, early life, environment, stress, socialization and household routine. It also does not mean cats express attachment like dogs.",
+      "The evidence is enough to reject the claim that cats cannot bond with humans.",
+      "## Do Cats Love Humans?",
+      "Science cannot measure love exactly the way a person feels it from the inside.",
+      "What science can study is behavior: proximity seeking, greeting, rubbing, relaxed body language, slow blinking, social play, distress during separation, secure-base behavior, preference for familiar humans, and response to voices and routines.",
+      "On that evidence, many cats show durable social bonds with humans. If people use the word love for that relationship, they should understand it as a human word for a real pattern of attachment, trust, familiarity and social preference.",
+      "The cat does not need to love like a human to belong in a human family.",
+      "## What Does A Cat Experience When Its Human Leaves?",
+      "When a familiar human leaves, a cat may experience a change in routine, scent, sound and expected social contact.",
+      "Some cats appear relaxed. Others show stress-related behavior, especially when routine changes suddenly or the cat has a strong attachment to a caregiver. Signs can include vocalizing, searching, hiding, reduced appetite, over-grooming, destructive behavior or litter-box changes, though medical causes should always be considered when behavior changes sharply.",
+      "It is safest to describe the experience without unsupported anthropomorphism. A cat may not think, 'My person has abandoned me' in human language. But it can recognize absence, notice disrupted routine, respond to missing scent and sound cues, and react emotionally to separation.",
+      "Scent is especially important. A human's clothing, bedding and home smell can help define familiar territory. Routine matters too: feeding time, play time, sleep patterns and arrival sounds all become part of the cat's world.",
+      "For a cat, a human is not only a food source. A familiar human can be a landmark, a social partner and part of the emotional predictability of home.",
+      "## The Giant Cats Myth",
+      "One popular myth says cats think humans are giant cats.",
+      "That is too literal.",
+      "Cats do use some behaviors toward humans that also appear in cat-cat relationships: rubbing, tail-up greeting, kneading, close resting and social grooming-like contact. But using feline social behavior with humans does not prove that cats classify humans as oversized cats.",
+      "A more accurate statement is that cats interact with humans through the behavioral tools cats possess. They adapt those tools to a different species that feeds them, speaks to them, opens doors and shares territory.",
+      "Humans are not giant cats. We are strange, useful, familiar social partners inside a cat-shaped understanding of the world.",
+      "## From Pest Control To Family Member",
+      "For much of history, the cat's value was practical.",
+      "Cats protected grain stores, homes, shops, farms and ships from rodents. They lived in the overlap between utility and companionship. A person might appreciate a cat's work before calling it family.",
+      "Modern life changed that balance. In many homes, cats no longer need to guard a granary or ship's hold. They share beds, sofas, windowsills, apartments and daily routines. Veterinary care, indoor housing, commercial food and companion-animal culture transformed the cat from useful neighbor into household member.",
+      "Yet the old role has not vanished. The same animal that sleeps beside a laptop may stare at a moving shadow with total predatory focus. The same cat that responds to a name may ignore a command. The same companion that trusts a human may still need hiding places, scratching surfaces, scent control and choice.",
+      "A good human-cat relationship respects both histories: the working hunter and the family companion.",
+      "## Myth Vs Reality",
+      "MYTH: Cats were first domesticated in Egypt.",
+      "REALITY: Egypt was central to cat culture and spread, but archaeological and genetic evidence points to an older Near Eastern/North African domestication story, including the roughly 9,500-year-old Cyprus burial.",
+      "MYTH: Cats are completely solitary.",
+      "REALITY: The wildcat ancestor was more solitary than wolves, but domestic cats can form flexible social relationships with cats and humans, especially when resources and early socialization support it.",
+      "MYTH: Purring always means happiness.",
+      "REALITY: Purring often appears in contentment, but cats may also purr during stress, illness or pain. Context matters.",
+      "MYTH: Cats cannot bond with humans.",
+      "REALITY: Attachment research, voice-recognition studies and everyday affiliative behavior all support the existence of cat-human bonds.",
+      "MYTH: Cats literally see humans as giant cats.",
+      "REALITY: Cats use feline social behaviors with humans, but that does not prove they mistake humans for cats.",
+      "MYTH: Cats do not recognize their names.",
+      "REALITY: Research indicates that many cats can discriminate their names from other words, even if they do not always respond dramatically.",
+      "MYTH: Black cats have a different personality because of coat color.",
+      "REALITY: Coat color alone is not a reliable scientific basis for assigning personality. Individual temperament, genetics, socialization, health and environment matter far more than superstition.",
+      "## Why The Relationship Survived",
+      "The cat-human relationship survived because it did not require cats to become something entirely different.",
+      "Humans gained a skilled hunter, then a companion. Cats gained food-rich environments, shelter, protection and new social opportunities. Over time, practical tolerance became familiarity. Familiarity became affection. Affection became family.",
+      "That history should make people humbler about cats. They are not failed dogs. They are not emotionless machines. They are not little humans. They are domestic animals with a wild ancestry still visible in their bodies and choices.",
+      "To live well with a cat is to understand that closeness and independence are not opposites. In the cat, they are the relationship.",
+      "The cat did not abandon its wild nature to live with humans. Perhaps that is precisely why the relationship survived. For thousands of years, cats have lived beside us, close enough to become family, independent enough to remain unmistakably themselves."
+    ],
+    references: [
+      {
+        name: "Science: The Near Eastern Origin of Cat Domestication",
+        url: "https://www.science.org/doi/10.1126/science.1139518"
+      },
+      {
+        name: "Science: Early Taming of the Cat in Cyprus",
+        url: "https://www.science.org/doi/10.1126/science.1095335"
+      },
+      {
+        name: "PNAS: Earliest evidence for commensal processes of cat domestication",
+        url: "https://www.pnas.org/doi/10.1073/pnas.1311439110"
+      },
+      {
+        name: "Nature Ecology & Evolution: The palaeogenetics of cat dispersal in the ancient world",
+        url: "https://www.nature.com/articles/s41559-017-0139"
+      },
+      {
+        name: "Scientific Reports: Domestic cats discriminate their names from other words",
+        url: "https://www.nature.com/articles/s41598-019-40616-4"
+      },
+      {
+        name: "Animal Cognition: Vocal recognition of owners by domestic cats",
+        url: "https://pubmed.ncbi.nlm.nih.gov/23239602/"
+      },
+      {
+        name: "Current Biology: Attachment bonds between domestic cats and humans",
+        url: "https://www.cell.com/current-biology/fulltext/S0960-9822(19)31086-3"
+      },
+      {
+        name: "Scientific Reports: The role of cat eye narrowing movements in cat-human communication",
+        url: "https://www.nature.com/articles/s41598-020-73426-0"
+      },
+      {
+        name: "Smithsonian Magazine: A Brief History of House Cats",
+        url: "https://www.smithsonianmag.com/history/a-brief-history-of-house-cats-158390681/"
+      },
+      {
+        name: "International Cat Care: Why do cats?",
+        url: "https://icatcare.org/advice/why-do-cats/"
+      }
+    ],
+    tags: [
+      "cat domestication",
+      "history of cats",
+      "cats and humans",
+      "cat-human relationship",
+      "cat behavior",
+      "domestic cat evolution",
+      "why cats meow",
+      "do cats recognize their owners",
+      "do cats love humans",
+      "Felis silvestris lybica"
+    ],
+    readingTime: "14 min read",
+    faq: [
+      {
+        question: "When did humans first live closely with cats?",
+        answer:
+          "Archaeological evidence from Cyprus shows a human and cat burial from roughly 9,500 years ago, indicating a close human-cat relationship long before the most famous Egyptian cat imagery."
+      },
+      {
+        question: "Were cats first domesticated in ancient Egypt?",
+        answer:
+          "No. Egypt was crucial to cat culture and later dispersal, but genetic and archaeological evidence points to an older Near Eastern and North African wildcat ancestry and early farming-settlement relationship."
+      },
+      {
+        question: "Do cats recognize their names and owners?",
+        answer:
+          "Research suggests many cats can discriminate their own names from other words and can use vocal cues to distinguish familiar humans, including their owners, from unfamiliar voices."
+      },
+      {
+        question: "Do cats form bonds with humans?",
+        answer:
+          "Yes. Attachment research and everyday affiliative behaviors such as proximity, rubbing, slow blinking and greeting support the view that many cats form real social bonds with human caregivers."
+      }
+    ]
+  },
+  {
     id: "053",
     slug: "peter-margaret-dolphin-experiment",
     title: "PETER AND MARGARET: THE DOLPHIN EXPERIMENT THAT SHOCKED THE WORLD",
