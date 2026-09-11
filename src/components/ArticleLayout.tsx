@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { Article } from "@/data/articles";
 import { ArticleReadingProgress } from "@/components/ArticleReadingProgress";
 import { HeadlineText } from "@/components/HeadlineText";
+import type { HeadlineHighlights } from "@/components/HeadlineText";
 import { NewsletterBox } from "@/components/NewsletterBox";
 import { RelatedArticles } from "@/components/RelatedArticles";
 import { ShareButtons } from "@/components/ShareButtons";
@@ -31,6 +32,13 @@ type ArticleTableConfig = {
   minWidthClass: string;
   boldColumnIndex: number;
   rowKeyIndex: number;
+};
+
+const articleHeroHighlightOverrides: Record<string, HeadlineHighlights> = {
+  "avicii-life-music-death-tim-bergling": {
+    red: "Avicii",
+    gold: "EDM Legend"
+  }
 };
 
 const articleTables: Record<string, ArticleTableConfig> = {
@@ -499,6 +507,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   const faqs = getArticleFaqs(article);
   const articleContent = getArticleContentWithoutInlineFaq(article);
   const lastUpdated = getArticleLastUpdated(article);
+  const articleHeroHighlights = articleHeroHighlightOverrides[article.slug] ?? article.headlineHighlights;
 
   return (
     <main className="home-page">
@@ -539,7 +548,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
 
             <div className="max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8">
               <h1 className="article-hero-title text-white">
-                <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
+                <HeadlineText title={article.title} highlights={articleHeroHighlights} legacyRed={article.headlineAccent} />
               </h1>
               <div className="mt-5 max-w-[29rem] border-l-[5px] border-[#FF1A1A] pl-4 sm:mt-6 sm:pl-5">
                 <p className="editorial-deck article-hero-deck">
