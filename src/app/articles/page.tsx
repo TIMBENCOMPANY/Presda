@@ -9,9 +9,10 @@ export const metadata: Metadata = createPageMetadata({
   path: "/articles/"
 });
 
-export default function ArticlesPage({ searchParams }: { searchParams?: { q?: string } }) {
+export default async function ArticlesPage({ searchParams }: { searchParams?: Promise<{ q?: string }> }) {
   const articles = getPublishedArticles();
-  const initialQuery = typeof searchParams?.q === "string" ? searchParams.q : "";
+  const resolvedSearchParams = await searchParams;
+  const initialQuery = typeof resolvedSearchParams?.q === "string" ? resolvedSearchParams.q : "";
 
   return (
     <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-8 sm:w-[min(1500px,calc(100%-32px))] sm:py-12">

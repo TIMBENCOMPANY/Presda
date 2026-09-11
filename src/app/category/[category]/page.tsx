@@ -13,9 +13,9 @@ import {
 import { absoluteUrl, breadcrumbJsonLd } from "@/lib/seo";
 
 type CategoryPageProps = {
-  params: {
+  params: Promise<{
     category: string;
-  };
+  }>;
 };
 
 const categoryHubCopy: Partial<Record<ArticleCategory, string>> = {
@@ -48,8 +48,9 @@ export function generateStaticParams() {
   return categories.map((category) => ({ category: toCategorySlug(category) }));
 }
 
-export function generateMetadata({ params }: CategoryPageProps): Metadata {
-  const category = fromCategorySlug(params.category);
+export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
+  const { category: categorySlug } = await params;
+  const category = fromCategorySlug(categorySlug);
 
   if (!category) {
     return {
@@ -85,8 +86,9 @@ export function generateMetadata({ params }: CategoryPageProps): Metadata {
   };
 }
 
-export default function CategoryPage({ params }: CategoryPageProps) {
-  const category = fromCategorySlug(params.category);
+export default async function CategoryPage({ params }: CategoryPageProps) {
+  const { category: categorySlug } = await params;
+  const category = fromCategorySlug(categorySlug);
 
   if (!category) {
     notFound();

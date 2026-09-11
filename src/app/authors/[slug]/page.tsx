@@ -6,17 +6,18 @@ import { getAuthorProfile, getAuthorProfiles, toAuthorSlug } from "@/lib/authors
 import { absoluteUrl, breadcrumbJsonLd, createPageMetadata } from "@/lib/seo";
 
 type AuthorPageProps = {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 };
 
 export function generateStaticParams() {
   return getAuthorProfiles().map((author) => ({ slug: author.slug }));
 }
 
-export function generateMetadata({ params }: AuthorPageProps): Metadata {
-  const author = getAuthorProfile(params.slug);
+export async function generateMetadata({ params }: AuthorPageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const author = getAuthorProfile(slug);
 
   if (!author) {
     return {
@@ -32,8 +33,9 @@ export function generateMetadata({ params }: AuthorPageProps): Metadata {
   });
 }
 
-export default function AuthorProfilePage({ params }: AuthorPageProps) {
-  const author = getAuthorProfile(params.slug);
+export default async function AuthorProfilePage({ params }: AuthorPageProps) {
+  const { slug } = await params;
+  const author = getAuthorProfile(slug);
 
   if (!author) {
     notFound();
