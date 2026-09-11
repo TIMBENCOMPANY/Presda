@@ -20,9 +20,9 @@ type CategoryPageProps = {
 
 const categoryHubCopy: Partial<Record<ArticleCategory, string>> = {
   Science:
-    "Explore evidence-led explainers on evolution, space, the brain, sleep, language, extinction and the methods scientists use to separate evidence from uncertainty.",
+    "Explore evidence-led explainers on evolution, space, the brain, sleep, language, extinction and the methods scientists use to separate evidence from uncertainty. Start with deep science stories, then move through the wider Science archive for connected context.",
   History:
-    "Follow connected histories of civilizations, empires, archaeology, migration, conflict and cultural memory through PRESDA's long-form History archive."
+    "Follow connected histories of civilizations, empires, archaeology, migration, conflict and cultural memory through PRESDA's long-form History archive. These pieces connect single events to the larger systems that shaped them."
 };
 
 const categoryHubLinks: Partial<Record<ArticleCategory, Array<{ href: string; label: string }>>> = {
@@ -131,7 +131,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
                 <Link
                   key={link.href}
                   href={link.href}
-                  className="rounded-lg border border-[#FF1A1A]/30 px-3 py-2 font-display text-[10px] font-extrabold uppercase tracking-wide text-[#FF1A1A] transition hover:border-[#FF1A1A]"
+                  className="inline-flex min-h-11 items-center rounded-lg border border-[#FF1A1A]/30 px-3 py-2 font-display text-[10px] font-extrabold uppercase tracking-wide text-[#FF1A1A] transition hover:border-[#FF1A1A]"
                 >
                   {link.label}
                 </Link>

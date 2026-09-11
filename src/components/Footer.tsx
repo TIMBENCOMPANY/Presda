@@ -33,7 +33,7 @@ export function Footer() {
           <h3 className="font-display text-sm font-extrabold uppercase tracking-[0.18em]">Categories</h3>
           <div className="mt-5 grid grid-cols-2 gap-3">
             {categories.map((category) => (
-              <Link key={category} href={`/category/${toCategorySlug(category)}/`} className="text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
+              <Link key={category} href={`/category/${toCategorySlug(category)}/`} className="inline-flex min-h-11 items-center text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
                 {categoryLabels[category]}
               </Link>
             ))}
@@ -43,7 +43,7 @@ export function Footer() {
           <h3 className="font-display text-sm font-extrabold uppercase tracking-[0.18em]">Editorial</h3>
           <div className="mt-5 grid gap-3">
             {editorialLinks.map((link) => (
-              <Link key={link.href} href={link.href} className="text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
+              <Link key={link.href} href={link.href} className="inline-flex min-h-11 items-center text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
                 {link.label}
               </Link>
             ))}
@@ -51,7 +51,7 @@ export function Footer() {
           <h3 className="mt-8 font-display text-sm font-extrabold uppercase tracking-[0.18em]">Legal</h3>
           <div className="mt-5 grid gap-3">
             {legalLinks.map((link) => (
-              <Link key={link.href} href={link.href} className="text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
+              <Link key={link.href} href={link.href} className="inline-flex min-h-11 items-center text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
                 {link.label}
               </Link>
             ))}

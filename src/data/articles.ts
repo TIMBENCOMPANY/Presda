@@ -231,7 +231,7 @@ export const articles: Article[] = [
       "The method was flawed.",
       "The human-dolphin relationship was extraordinary.",
       "The popular retelling became sensational.",
-      "Modern dolphin science moved in a better direction by asking what dolphin signals mean inside dolphin life.",
+      "Modern dolphin science moved in a better direction by asking what dolphin signals mean inside dolphin life. PRESDA's wider Science coverage also looks at [how humans learned to speak](/articles/how-humans-learned-to-speak/) and [why dreams happen](/articles/why-do-we-dream/), two questions that show how communication and consciousness remain difficult to explain.",
       "Today, scientists are less interested in asking whether dolphins can learn to speak like humans and more interested in understanding what dolphins may already be communicating to one another.",
       "Perhaps the biggest mistake of Dolphin House was not believing dolphins could communicate.",
       "It was assuming that, to prove it, they needed to communicate like us."
@@ -505,7 +505,7 @@ export const articles: Article[] = [
       "Machines that turn intelligence into practical help.",
       "That future is not guaranteed.",
       "But it is possible.",
-      "And if it arrives carefully, the robot revolution may be less about cold machines taking over the world and more about giving human beings more time, safety and ability to do what humans do best."
+      "And if it arrives carefully, the robot revolution may be less about cold machines taking over the world and more about giving human beings more time, safety and ability to do what humans do best. For more context on the same AI transition, read PRESDA's explainers on [AI agents and jobs](/articles/will-ai-agents-replace-jobs/), [AI friendship and trust](/articles/why-people-trust-ai-like-a-friend/) and [Japan's AI care era](/articles/japan-enters-ai-care-era/)."
     ],
     references: [
       {
@@ -733,7 +733,7 @@ export const articles: Article[] = [
       "It includes setbacks, recalls, controversies, intense competition and the complexity of family-controlled corporate power.",
       "But as a business transformation, it is extraordinary.",
       "Samsung started by selling everyday goods in Korea.",
-      "It became one of the companies building the technological infrastructure of the world."
+      "It became one of the companies building the technological infrastructure of the world. PRESDA's Business archive follows that same technology economy through [Apple's iPhone and foldable strategy](/articles/apple-iphone-18-foldable-future-products/), [the world's most valuable companies](/articles/worlds-most-valuable-companies-in-2026/) and [Mark Zuckerberg's Meta story](/articles/mark-zuckerberg-facebook-meta-story/)."
     ],
     references: [
       {
@@ -898,7 +898,7 @@ export const articles: Article[] = [
       "The question is whether customers will see that system as useful enough to justify premium prices, slower category entry and deeper dependence on Apple's world.",
       "For now, the strategy is clear.",
       "Apple is not betting on one device to replace the iPhone.",
-      "It is betting that the iPhone, foldables, wearables, AI and services can become one increasingly unified product empire."
+      "It is betting that the iPhone, foldables, wearables, AI and services can become one increasingly unified product empire. For more on the companies shaping that market, read PRESDA's features on [Samsung's rise from food trading to tech](/articles/samsung-from-food-to-tech-empire/), [the world's most valuable companies](/articles/worlds-most-valuable-companies-in-2026/) and [Sam Altman's next OpenAI chapter](/articles/openai-next-gen-model/)."
     ],
     references: [
       {
@@ -1189,7 +1189,7 @@ export const articles: Article[] = [
       "It is a metal formed in cosmic violence, concentrated by geology, extracted by human labor and turned into a promise by culture.",
       "After thousands of years and multiple monetary systems, people still trust gold because it feels older than any government and more solid than any paper claim.",
       "That feeling is not the whole truth.",
-      "But history shows why it has been so hard to replace."
+      "But history shows why it has been so hard to replace. PRESDA's History archive follows other systems of power and exchange through [ancient Greece](/articles/ancient-greece-civilization-history/), [the history of slavery](/articles/history-of-slavery/) and [the real history of coffee](/articles/real-history-of-coffee/)."
     ],
     references: [
       {
@@ -1368,7 +1368,7 @@ export const articles: Article[] = [
       "That is the harder version of the conversation.",
       "But it is also the more useful one.",
       "The question for Adidas is not only whether one campaign should have been pulled back or apologized for.",
-      "It is whether a global brand can understand that accessibility, war, nationalism, disability and consumer activism do not exist in separate boxes once a campaign reaches the internet."
+      "It is whether a global brand can understand that accessibility, war, nationalism, disability and consumer activism do not exist in separate boxes once a campaign reaches the internet. For more PRESDA context, read our humanitarian overview of [Palestine and Gaza](/articles/palestine-a-humanitarian-crisis-the-world-cannot-ignore/), our Business coverage of [World Cup brands and sponsors](/articles/the-brands-behind-world-cup-2026/) and the wider [Business archive](/category/business/)."
     ],
     references: [
       {
@@ -7627,7 +7627,7 @@ export const articles: Article[] = [
       "Travel tip: Walk the old town early, then climb toward the fortress before the day becomes hot. If cruise ships are in port, use that time for nearby villages or bay views.",
       "## Final Takeaway: The Best Hidden Gems 2026 Travelers Should Watch",
       "The most rewarding hidden gems to visit in 2026 are not necessarily secret. Some are already known, but they become more meaningful when travelers approach them with timing, respect, and curiosity. Chefchaouen, Zanzibar, Cappadocia, Banff, Cancún, Raja Ampat, El Nido, Madeira, Sossusvlei, and Kotor all offer a different version of discovery.",
-      "The smartest travel choice is not always the least visited place. It is the destination that gives you a reason to slow down, understand where you are, and leave with more than a photograph."
+      "The smartest travel choice is not always the least visited place. It is the destination that gives you a reason to slow down, understand where you are, and leave with more than a photograph. For more place-led PRESDA stories, read about [Dubai's future cities](/articles/dubai-future-cities-rise-above-the-desert/), [Jebel Irhoud and Morocco's human story](/articles/we-are-all-moroccans-jebel-irhoud/) and the wider [Travel archive](/category/travel/)."
     ],
     "source": {
       "name": "PRESDA Travel Coverage"
@@ -8053,7 +8053,7 @@ export const articles: Article[] = [
       "The most useful public sources are OCHA situation reports and snapshots, UNRWA operational updates, WHO health emergency reporting, UNICEF child-focused updates, ICRC humanitarian statements, IPC food security analysis, and WFP hunger reporting. When numbers differ, it is often because the source, date, geography and methodology differ.",
       "## A Factual Humanitarian Lens",
       "The humanitarian crisis in Palestine should not be treated as background noise or as a contest of slogans. Civilians need food, clean water, medical care, shelter, protection, safe access for aid workers and reliable information. Those needs remain urgent regardless of political debate.",
-      "A responsible account does not flatten the story into one statistic. It documents the source of each number, names uncertainty where it exists, and keeps attention on the civilians whose lives are shaped by systems under pressure. That is the standard this story requires."
+      "A responsible account does not flatten the story into one statistic. It documents the source of each number, names uncertainty where it exists, and keeps attention on the civilians whose lives are shaped by systems under pressure. That is the standard this story requires. For related PRESDA context, read our coverage of [the Adidas boycott controversy](/articles/adidas-israel-single-shoe-boycott-2026/), [how major events intersect with politics](/articles/how-donald-trump-could-shape-world-cup-2026/) and the wider [World archive](/category/world/)."
     ],
     "source": {
       "name": "UN OCHA oPt Humanitarian Updates",
@@ -8573,7 +8573,7 @@ export const articles: Article[] = [
       "## The PRESDA View",
       "AI is becoming a friend, but not in the simple sense. It is becoming a conversational presence that some people use like a friend: to confess, rehearse, vent, reflect and feel less alone for a moment. That does not make it human. It makes it socially powerful.",
       "The next phase of AI trust will depend on whether companies and users can hold two truths at once. AI companions can offer real practical comfort. They are also commercial, technical systems with limits, incentives and privacy questions.",
-      "The most honest answer sits between fear and fantasy. AI can help people talk. It can help people think. It can even help people feel heard. But the deepest forms of care, accountability and belonging still require humans who can know us, remember us, challenge us, forgive us and show up beyond the screen."
+      "The most honest answer sits between fear and fantasy. AI can help people talk. It can help people think. It can even help people feel heard. But the deepest forms of care, accountability and belonging still require humans who can know us, remember us, challenge us, forgive us and show up beyond the screen. For more PRESDA AI context, read about [AI agents and jobs](/articles/will-ai-agents-replace-jobs/), [the robot revolution by 2030](/articles/robot-revolution-ai-future-2030/) and the wider [AI archive](/category/ai/)."
     ],
     "source": {
       "name": "PRESDA AI Coverage"

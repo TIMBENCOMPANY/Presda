@@ -165,7 +165,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
                 <p className="editorial-deck home-hero-deck max-w-[20rem] text-white/75 sm:max-w-[34rem]">{active.excerpt}</p>
                 <Link
                   href={`/articles/${active.slug}/`}
-                  className="mt-5 inline-flex w-fit items-center gap-3 rounded-md border border-[#ff1a1a]/85 bg-black/35 px-5 py-3 font-display text-[11px] font-extrabold uppercase tracking-wide text-white backdrop-blur-md transition hover:bg-[#c40019] sm:mt-7 sm:px-7 sm:py-4 sm:text-xs"
+                  className="mt-5 inline-flex min-h-11 w-fit items-center gap-3 rounded-md border border-[#ff1a1a]/85 bg-black/35 px-5 py-3 font-display text-[11px] font-extrabold uppercase tracking-wide text-white backdrop-blur-md transition hover:bg-[#c40019] sm:mt-7 sm:px-7 sm:py-4 sm:text-xs"
                 >
                   Read Full Story
                   <ArrowRight className="h-4 w-4" strokeWidth={1.7} />
@@ -181,17 +181,19 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
 
                 <div className="mt-4 flex flex-wrap gap-2" aria-label="Featured story slides">
                   {slides.map((slide, index) => (
-                    <button
+                  <button
                       key={slide.slug}
                       type="button"
                       onClick={() => {
                         pauseBriefly();
                         setActiveIndex(index);
                       }}
-                      className={`h-2.5 w-2.5 rounded-full border transition ${index === activeIndex ? "border-[color:var(--home-red)] bg-[color:var(--home-red)]" : "border-white/25 bg-white/20 hover:border-[color:var(--home-red)]"}`}
+                      className="grid h-11 w-11 place-items-center rounded-full transition"
                       aria-label={`Show featured story ${index + 1}`}
                       aria-current={index === activeIndex ? "true" : undefined}
-                    />
+                    >
+                      <span className={`h-2.5 w-2.5 rounded-full border transition ${index === activeIndex ? "border-[color:var(--home-red)] bg-[color:var(--home-red)]" : "border-white/25 bg-white/20 hover:border-[color:var(--home-red)]"}`} />
+                    </button>
                   ))}
                 </div>
               </div>
@@ -231,7 +233,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
             </h2>
             <p className="mt-2 text-sm text-[color:var(--home-muted)]">Fresh perspectives. Deeper understanding.</p>
           </div>
-          <Link href="/articles/" className="inline-flex items-center gap-2 font-display text-xs font-extrabold uppercase tracking-wide text-[color:var(--home-red)] transition hover:text-[color:var(--home-gold)]">
+          <Link href="/articles/" className="inline-flex min-h-11 items-center gap-2 font-display text-xs font-extrabold uppercase tracking-wide text-[color:var(--home-red)] transition hover:text-[color:var(--home-gold)]">
             View All Articles
             <ArrowRight className="h-4 w-4" strokeWidth={1.6} />
           </Link>
