@@ -3961,7 +3961,7 @@ export const articles: Article[] = [
       "Explore Charles Darwin's theory of evolution, the HMS Beagle voyage, natural selection, Alfred Russel Wallace, human evolution and Darwin's scientific legacy.",
     headlineHighlights: {
       red: "CHARLES DARWIN",
-      gold: "THEORY THAT CHANGED LIFE"
+      gold: "UNDERSTAND LIFE"
     },
     excerpt:
       "Charles Darwin did not discover evolution in a single moment. His theory emerged from travel, evidence, doubt, Alfred Russel Wallace's parallel insight and decades of scientific work.",
@@ -7382,7 +7382,7 @@ export const articles: Article[] = [
       "The story of Avicii: from Levels and Wake Me Up to Tim Bergling's struggles with touring and health, his death in Oman at 28, and the legacy he left behind.",
     headlineHighlights: {
       red: "Avicii",
-      gold: "Tim Bergling"
+      gold: "EDM Legend"
     },
     excerpt:
       "The story of Avicii: from Levels and Wake Me Up to Tim Bergling's struggles with touring and health, his death in Oman at 28, and the legacy he left behind.",
