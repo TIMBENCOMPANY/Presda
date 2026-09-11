@@ -52,7 +52,276 @@ export type Article = {
 };
 
 export const articles: Article[] = [
-  {
+    {
+    id: "055",
+    slug: "guinness-world-records-strangest-hardest-records",
+    title: "INSIDE GUINNESS WORLD RECORDS: THE STRANGEST, HARDEST AND MOST EXTREME RECORDS EVER",
+    seoTitle: "Guinness World Records: Strangest, Hardest & Most Extreme Records | PRESDA",
+    metaDescription:
+      "Explore the strangest, hardest and most extreme Guinness World Records, how records are verified, what record holders win and whether Guinness actually pays prize money.",
+    headlineHighlights: {
+      red: "GUINNESS WORLD RECORDS",
+      gold: "MOST EXTREME RECORDS"
+    },
+    excerpt:
+      "From extraordinary physical achievements to bizarre records that took decades to complete, Guinness World Records has documented human obsession for generations. But what does it really take to become a record holder - and do winners actually get paid?",
+    category: "Lifestyle",
+    date: "2026-09-11",
+    lastUpdated: "2026-09-11",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/guinness-world-records-strangest-hardest-records.png",
+    coverAlt:
+      "Cinematic museum-style Guinness World Records exhibit with a visitor looking at strange record objects and a large Guinness World Records wall emblem",
+    homepageImagePosition: "50% 46%",
+    content: [
+      "Humans have always wanted to know who is fastest, who is strongest, who is tallest, what is largest, what lasts the longest and what seems almost impossible.",
+      "That curiosity is older than modern sport. It lives in playground races, pub arguments, Olympic timing systems, scientific measurement, fan debates and the private urge to prove that a limit can move.",
+      "Guinness World Records turned that instinct into a global institution. It gave the world a common reference point for achievement, oddity and human persistence. It also created a strange tension: the people who break records may receive fame, a certificate and a permanent line in a database, but they usually do not receive money from Guinness simply for doing it.",
+      "That is why the story is more interesting than a list of strange facts. Guinness World Records is history, publishing, entertainment, verification, human performance, branding and psychology all at once.",
+      "## The Human Obsession With Being Number One",
+      "A world record is a clean idea in a messy world.",
+      "Fastest. Tallest. Oldest. Longest. Heaviest. Most.",
+      "Those words are simple enough for a child to understand, but they can pull adults into years of training, risk, discomfort, obsession and reinvention. Some records reward elite athletic ability. Others reward patience. Others reward a willingness to live differently from almost everyone else.",
+      "The appeal is not only winning. It is proof.",
+      "A Guinness World Records title says that a claim survived rules, measurement and comparison. It says someone did not merely announce an achievement online; they submitted it to a system that exists to ask, can this be measured, can someone else challenge it, and can the evidence stand up?",
+      "That verification layer is what separates Guinness from ordinary viral spectacle.",
+      "## How Guinness World Records Began",
+      "The origin story begins not with a stunt, but with an argument.",
+      "According to Guinness World Records' official history, Sir Hugh Beaver, managing director of the Guinness Brewery, attended a shooting party in County Wexford in the early 1950s. The group argued about the fastest game bird in Europe and could not settle the question from the reference books available at the time.",
+      "That failure became the spark.",
+      "In 1954, Beaver developed the idea of a Guinness promotion built around settling arguments in pubs. He brought in Norris and Ross McWhirter, twin brothers and Fleet Street fact researchers, to compile a book of facts and figures.",
+      "Guinness Superlatives was incorporated on November 30, 1954, and the first Guinness Book of Records followed in 1955. Guinness World Records later described the first book as the beginning of a brand built around record-breaking achievement, public curiosity and factual reference.",
+      "The book eventually evolved from the Guinness Book of Records into Guinness World Records. Its link to the brewery is historical; Guinness World Records states that there is now no affiliation with Guinness Brewery.",
+      "## How Big Is Guinness World Records Today?",
+      "Guinness World Records is no longer just an annual book.",
+      "It is a global media and entertainment business with books, online records, social video, television and content licensing, official adjudication, branded record attempts, live events and corporate record-breaking campaigns.",
+      "Guinness says applicants can choose from more than 50,000 pre-existing titles or suggest a new one. Its FAQ also says the organization receives more than 50,000 record applications a year, which is almost 1,000 applications every week.",
+      "The printed book remains selective. Guinness says space constraints mean only around 4,000 records can be published in the annual book each year. That point matters: being a verified record holder is not the same thing as automatically appearing in the printed annual.",
+      "This is one of the biggest myths around Guinness World Records. The database is much larger than the book.",
+      "## What Actually Counts As A World Record?",
+      "Guinness does not accept every strange activity someone invents.",
+      "Its official criteria say a record title must be measurable, breakable, standardisable, verifiable and based on one variable. Guinness also says it only recognizes world records, not national or country-specific achievements.",
+      "Those rules sound technical because they are. They are the difference between a measurable title and a personal dare.",
+      "Measurable means there is a clear quantity: time, distance, weight, count, length or another objective unit.",
+      "Breakable means someone else can challenge the record later.",
+      "Standardisable means the attempt can be repeated under comparable rules anywhere in the world.",
+      "Verifiable means the evidence can prove the claim.",
+      "One variable means the title cannot mix too many conditions at once. Guinness gives the example that it could verify the largest painting, but would not consider the largest painting by the most people.",
+      "That is why a bizarre idea may still be rejected. Weird is allowed. Unmeasurable is not.",
+      "## What Are The Strangest Guinness World Records?",
+      "The strangest Guinness World Records are not always the silliest. Often, they are records that force the reader to ask: what kind of life does this require?",
+      "Diana Armstrong's fingernails are one example. Guinness records the longest fingernails on a pair of hands by a female at 1,306.58 cm, verified in Minneapolis, Minnesota, on March 13, 2022. The number is astonishing, but the human story is the reason it stays with people. Armstrong told Guinness she stopped cutting her nails after the death of her daughter Latisha, who used to help with her manicure.",
+      "Rolf Buchholz is another. Guinness lists the German record holder with 516 body modifications, verified in Dortmund on December 16, 2012. The title is visually startling, but the story is also about identity, self-expression and a decision to treat the body as a lifelong art project.",
+      "Then there are collectors. Martyn Tovey holds the record for the largest collection of Guinness World Records annuals, with 816 books achieved in Radstock, Somerset, on February 1, 2024. That is a record about Guinness itself becoming an object of collecting.",
+      "There are mouth-gape records, nail records, body-modification records, food records, memory records, endurance records and highly specific skill records. The best examples are not random because they reveal something about commitment.",
+      "A strange record is rarely just one strange day. It is often years of repetition, care, habit and public misunderstanding.",
+      "## Records That Took Decades",
+      "Some records are not broken in an afternoon. They are grown.",
+      "Shridhar Chillal of India remains one of the clearest examples. Guinness reported that his left-hand fingernails reached a combined length of 909.6 cm, after decades of growth, before they were cut and preserved. The record became famous not only because of the measurement, but because of the cost of living with it.",
+      "Long fingernails change ordinary life. They affect clothing, sleep, movement, travel, hygiene, work and how strangers react. Guinness has covered similar daily challenges in later fingernail record stories, including Armstrong's difficulty with driving, public bathrooms and clothing fasteners.",
+      "Lee Redmond, another iconic fingernail record holder, carefully grew her nails for about 30 years. Guinness says her nails reached 8.65 metres at their peak in 2008 before they were broken in a car accident the following year.",
+      "These records test a different human capacity from sprinting or lifting. They test whether a person can organize a life around an unusual commitment for years.",
+      "## The Most Extreme Human Records",
+      "No one should claim there is one objectively hardest Guinness World Record in the world.",
+      "Hardest depends on the body, the skill, the risk, the rules, the environment and the person attempting it. A record that is nearly impossible for one person may be trainable for another. A record that looks absurd may require serious athletic preparation.",
+      "Consider extreme cold records. Wim Hof, known as the Iceman, built a public identity around cold exposure and breath control. Guinness credits him with past ice-related records, including earlier longest swim under ice achievements and multiple full-body ice-contact attempts.",
+      "Freediver Peter Colat broke two under-ice breath-hold swim records in 2024, swimming 106.25 m under a frozen lake in swim shorts and 114.2 m with a monofin. Guinness described the attempt as requiring safety divers, exit holes through the ice and months of cold adaptation.",
+      "Those details matter because extreme records are not only about courage. They are about systems: training, safety, measurement, witnesses, emergency planning and rules.",
+      "The most extreme records are difficult because they compress several limits at once: physiology, fear, concentration, pain tolerance, logistics and public pressure.",
+      "## The Man Who Survived Seven Lightning Strikes",
+      "Roy Sullivan's story sits somewhere between record, folklore and statistical astonishment.",
+      "Sullivan was a U.S. park ranger in Virginia's Shenandoah National Park. Guinness recognizes him for surviving seven lightning strikes. Guinness coverage places those incidents between 1942 and 1977.",
+      "That record is easy to sensationalize, so it needs careful handling. The documented point is the Guinness-recognized title and the seven strikes. The legend around Sullivan grew because the premise sounds impossible: one man repeatedly hit by one of nature's most feared forces.",
+      "His story is not an instruction, a challenge or a goal. It is an example of how Guinness records can preserve events that are not chosen in the way a sprint or collection is chosen.",
+      "Some records are achieved. Some are endured.",
+      "## The People Who Cannot Stop Breaking Records",
+      "For some people, record breaking becomes a lifestyle.",
+      "Guinness says it no longer monitors an overall leaderboard for most records broken because the titles are so different, but it names prolific record breakers including Silvio Sabba, Ashrita Furman, David Rush and Andre Ortolf.",
+      "David Rush is one of the clearest modern examples. Guinness coverage has described him as holding around 200 records in late 2025, while Guinness Kids described him in 2026 as a record-breaking figure with more than 350 Guinness World Records titles. The difference is a useful warning: totals change fast and depend on whether someone is counting current titles, lifetime titles or titles broken over time.",
+      "Serial record breakers often look playful from the outside. But the routine can involve repeated failures, video review, precise rules, witnesses, strength training, balance work, memory training and a willingness to lose publicly.",
+      "Their real talent may be recovery. A failed attempt becomes data.",
+      "## How Do You Break A Guinness World Record?",
+      "The official process is more structured than many people imagine.",
+      "First, an applicant searches for an existing record or proposes a new title. Guinness says applicants can apply for one of its pre-existing titles or suggest a brand-new one.",
+      "Second, Guinness assesses the proposal. If the title is accepted, or if the applicant is attempting an existing title, the applicant receives guidelines and an evidence checklist.",
+      "Third, the participant prepares the attempt according to those rules. Depending on the record, evidence can include witness statements, timekeeper statements, steward logs, photographs, video and other proof.",
+      "Fourth, the attempt is performed.",
+      "Fifth, evidence is uploaded through the Guinness account system. Guinness says physical evidence sent by post is not accepted because of the volume of attempts and storage limits.",
+      "Finally, the records management team reviews the evidence and decides whether the record has been achieved.",
+      "That process explains why many unofficial online claims never become Guinness World Records. The attempt is only part of the work. The evidence is the other part.",
+      "## Do You Have To Pay To Break A Record?",
+      "The short answer is: not always, but some services cost money.",
+      "Guinness distinguishes between self-service applications, priority services and consultancy or official adjudication services. Its FAQ says self-service applications can take up to 20 weeks for a response, and that evidence review can also take up to 20 weeks after evidence is received.",
+      "At the time checked for this article, Guinness says it is temporarily unable to expedite self-service applications and hopes to reintroduce priority service soon. It also says official adjudicator access is available through fee-based consultancy services.",
+      "So the practical picture is this: a person may be able to pursue a standard route without buying an adjudicator, but faster review, consultancy, business campaigns and official adjudicator attendance can cost money.",
+      "Attempt expenses usually belong to the participant or organizer. Venue, equipment, travel, safety support, witnesses, filming and preparation are not automatically paid for by Guinness.",
+      "## How Much Money Do Guinness Record Holders Win?",
+      "> GUINNESS WORLD RECORDS DOES NOT PAY PRIZE MONEY SIMPLY FOR BREAKING A RECORD.",
+      "This is the article's simplest answer, and it is the one people often miss.",
+      "Guinness' official FAQ says it does not pay record-breakers for their achievements or for carrying out a record title attempt. It also says it is unable to cover expenses, offer sponsorship or provide equipment for anyone attempting a record.",
+      "That means there is no standard Guinness cash prize, no automatic salary, no guaranteed sponsorship and no automatic payment for being verified.",
+      "A record holder may receive recognition, a listing, a certificate route, publicity and a title. Those can be valuable, but they are not the same as prize money.",
+      "For anyone searching do Guinness World Record holders get paid, the accurate answer is: Guinness does not generally pay people simply because they broke a record.",
+      "## So How Can Record Holders Make Money?",
+      "Record holders can sometimes make money indirectly.",
+      "A record may help someone get sponsorships, brand deals, television appearances, social media attention, YouTube revenue, speaking engagements, books, paid events, advertising, coaching work or business opportunities.",
+      "But there is no standard income for a Guinness record holder.",
+      "One holder might earn nothing. Another might turn a title into a media career. A third might use the record to promote a charity, a product, a personal brand or a live event. The money depends on audience, marketability, timing, negotiation and whether anyone wants to pay for the story.",
+      "The record is a credential. It is not a paycheck.",
+      "## The Business Behind Guinness World Records",
+      "If record breakers usually receive no prize money, how does Guinness World Records itself make money?",
+      "The answer is that Guinness World Records is a commercial media and entertainment business.",
+      "Its revenue-facing activities include annual books, merchandise, certificates, licensing, television and content partnerships, digital publishing, live entertainment, corporate campaigns, official adjudicator services, branded record attempts and business consulting.",
+      "Guinness' own business pages promote record breaking as a way for brands to create campaigns, employee engagement, live experiences and content. That is a different market from a private individual trying to balance a guitar on their chin or build the largest collection of annuals.",
+      "This does not make the records fake. It means the institution is both an authority and a business.",
+      "Understanding both halves is essential.",
+      "## What Records Does Guinness Refuse?",
+      "Guinness refuses or rejects categories for several reasons.",
+      "Its FAQ says it does not accept subjective measures such as beauty, kindness or loyalty. It also excludes activities that are not sufficiently challenging, too specific to one person or unbreakable.",
+      "Guinness says it does not endorse unsuitable activities or those that could cause harm or danger to spectators or animals. It also restricts some categories for minors, especially where records are highly physical, dangerous or endurance-based.",
+      "The food rules are a good example of how ethics shape record categories. Guinness says large food records must either be consumed or distributed for consumption after measurement.",
+      "The basic principle is that a record has to be measurable and comparable, but also acceptable to monitor.",
+      "## Records That Were Retired Or Changed",
+      "Some records disappear from active monitoring.",
+      "Guinness has noted that the heaviest cat category was discontinued in the 1990s to prevent owners from overfeeding pets. That is a simple example of a record category creating the wrong incentive.",
+      "Other records can be rested because judging becomes unreliable. Guinness has previously explained that some fastest musician categories became too difficult to assess because quality of performance could not be judged consistently even when recordings were slowed down.",
+      "Retiring a category is not an admission that record keeping failed. It is part of maintaining standards as safety, technology, ethics and evidence expectations change.",
+      "A record system has to evolve or it becomes a museum of bad incentives.",
+      "## Can A World Record Be Taken Away?",
+      "Records are meant to be broken.",
+      "That means a verified holder can lose the title when someone else surpasses the achievement under the rules. A person may still be a former record holder, but the current title moves.",
+      "Guinness can also revise or invalidate records if evidence, rules or category standards require it. That is part of why guidelines and documentation matter.",
+      "There is also a difference between breaking a record, holding a record and appearing in the book. Guinness says there are more than 50,000 current records in its database, but only around 4,000 appear in the annual book each year because of space constraints.",
+      "So a person can be officially verified and still not appear in the printed annual.",
+      "## Why Would Someone Do This For Zero Prize Money?",
+      "Because money is not the only currency humans chase.",
+      "Record breakers may be motivated by achievement, recognition, competition, identity, personal challenge, legacy, publicity, community or the desire to prove that something previously considered impossible can be done.",
+      "Some records are deeply personal. Diana Armstrong's nails are tied to grief and memory. Some records are technical. Some are athletic. Some are promotional. Some are playful. Some are almost philosophical: the person wants to know where a limit is, then stand slightly beyond it.",
+      "Guinness World Records works because it turns private effort into public proof.",
+      "That proof can matter even when no prize check arrives.",
+      "## The Science Of Human Limits",
+      "Record breaking sits at the edge of several sciences.",
+      "Physiology explains speed, strength, oxygen use, fatigue, cold tolerance and recovery.",
+      "Biomechanics explains how bodies move efficiently.",
+      "Psychology explains focus, fear, pain tolerance, repetition and resilience.",
+      "Nutrition, equipment, coaching and technology can also shift the boundary of what is possible.",
+      "Some records improve because humans improve. Others improve because measurement improves, materials improve, shoes improve, training improves or strategy improves. A modern record is often a partnership between body, method and evidence.",
+      "That is why Guinness World Records can include both elite athletic achievements and apparently absurd skills. They share a logic: define a limit, measure it, compare it and invite someone else to try.",
+      "## Myth Vs Reality",
+      "MYTH: Guinness gives every record holder prize money.",
+      "REALITY: No general prize money is awarded simply for breaking a record.",
+      "MYTH: Every Guinness record holder appears in the book.",
+      "REALITY: The annual book contains only a selection of records.",
+      "MYTH: Anyone can invent any bizarre record.",
+      "REALITY: Proposed records must satisfy Guinness criteria.",
+      "MYTH: A record lasts forever.",
+      "REALITY: Most records are designed to be challenged and broken.",
+      "MYTH: Guinness pays all expenses for an official attempt.",
+      "REALITY: Participants generally fund their own attempts unless another sponsor or arrangement exists.",
+      "## The Big Question: What Is The Ultimate World Record?",
+      "There may never be one greatest Guinness World Record.",
+      "A 100-metre sprint, decades of physical commitment, an enormous collection, a dangerous cold-water swim, an engineering achievement or an apparently absurd balancing skill cannot be measured against one another fairly.",
+      "That is the whole point.",
+      "Guinness World Records is not one contest. It is a map of thousands of limits, each with its own rules and meaning.",
+      "What connects them is the human desire to find an edge and move it.",
+      "Guinness World Records does not promise wealth to the people who enter its pages. What it offers is something humans have chased for much longer than money: the chance to say that, for at least one moment, nobody in the recorded world had ever done it better."
+    ],
+    references: [
+      {
+        name: "Guinness World Records: Our Story",
+        url: "https://www.guinnessworldrecords.com/about-us/our-story"
+      },
+      {
+        name: "Guinness World Records: Why was the Guinness World Records book first published?",
+        url: "https://www.guinnessworldrecords.com/news/2022/9/why-was-the-guinness-world-records-book-first-published-714607"
+      },
+      {
+        name: "Guinness World Records: Frequently asked questions",
+        url: "https://www.guinnessworldrecords.com/records/faqs"
+      },
+      {
+        name: "Guinness World Records: What makes a Guinness World Records title?",
+        url: "https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title"
+      },
+      {
+        name: "Guinness World Records: How to collect and submit evidence",
+        url: "https://www.guinnessworldrecords.com/records/how-to-collect-and-submit-evidence"
+      },
+      {
+        name: "Guinness World Records: Longest fingernails on a pair of hands (female)",
+        url: "https://www.guinnessworldrecords.com/world-records/longest-fingernails-on-a-pair-of-hands-female-"
+      },
+      {
+        name: "Guinness World Records: Diana Armstrong - The longest fingernails ever",
+        url: "https://www.guinnessworldrecords.com/news/icons/diana-armstrong-longest-fingernails"
+      },
+      {
+        name: "Guinness World Records: Lee Redmond longest fingernails Hall of Fame",
+        url: "https://www.guinnessworldrecords.com/records/hall-of-fame/lee-redmond-longest-fingernails-on-a-pair-of-hands"
+      },
+      {
+        name: "Guinness World Records: Most body modifications (male)",
+        url: "https://www.guinnessworldrecords.com/world-records/210946-most-body-modifications-male"
+      },
+      {
+        name: "Guinness World Records: Largest collection of Guinness World Records annuals",
+        url: "https://dev-micro.guinnessworldrecords.com/world-records/100197-largest-collection-of-guinness-world-records%E2%84%A2-annuals"
+      },
+      {
+        name: "Guinness World Records: Wim Hof - The Iceman",
+        url: "https://www.guinnessworldrecords.com/records/hall-of-fame/wim-hof-the-iceman"
+      },
+      {
+        name: "Guinness World Records: Man swims record-breaking distance in one breath under frozen lake",
+        url: "https://www.guinnessworldrecords.com/news/2024/7/man-swims-record-breaking-distance-in-one-breath-under-frozen-lake"
+      },
+      {
+        name: "Guinness World Records: Records you think will never be broken",
+        url: "https://dev-micro.guinnessworldrecords.com/news/2025/2/records-you-think-will-never-be-broken-from-fastest-speed-in-a-car-to-most-lightning-strikes-survived"
+      },
+      {
+        name: "Guinness World Records Kids: David Rush record-breaking legend",
+        url: "https://kids.guinnessworldrecords.com/news/2026/5/legend-david-rush-whos-broken-350-world-records"
+      }
+    ],
+    tags: [
+      "Guinness World Records",
+      "Guinness World Records records",
+      "weirdest Guinness World Records",
+      "strangest world records",
+      "hardest Guinness World Records",
+      "Guinness World Record prize money",
+      "do Guinness World Record holders get paid",
+      "how to get a Guinness World Record",
+      "most extreme world records",
+      "Guinness record holders",
+      "Guinness World Records history"
+    ],
+    readingTime: "15 min read",
+    faq: [
+      {
+        question: "Do Guinness World Record holders get paid?",
+        answer:
+          "Guinness World Records says it does not pay record-breakers for their achievements or for carrying out a record attempt, and it does not cover expenses, offer sponsorship or provide equipment for anyone attempting a record."
+      },
+      {
+        question: "How do you break a Guinness World Record?",
+        answer:
+          "You apply through Guinness World Records, choose an existing title or propose a new one, receive official guidelines if accepted, perform the attempt under the rules, collect required evidence and submit that evidence for review."
+      },
+      {
+        question: "Does every Guinness record holder appear in the book?",
+        answer:
+          "No. Guinness says its database contains more than 50,000 current records, but only around 4,000 records can be published in the annual book each year because of space constraints."
+      },
+      {
+        question: "What makes a Guinness World Records title valid?",
+        answer:
+          "Guinness says titles must be measurable, breakable, standardisable, verifiable and based on one variable. Records also need to be world records, not national or local achievements."
+      }
+    ]
+  },
+{
     id: "054",
     slug: "cats-humans-domestication-history",
     title: "CATS AND HUMANS: HOW A WILD HUNTER BECAME PART OF THE FAMILY",

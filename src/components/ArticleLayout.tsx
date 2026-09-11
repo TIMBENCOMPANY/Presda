@@ -512,7 +512,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   return (
     <main className="home-page">
       <ArticleReadingProgress />
-      <article className="mx-auto w-[min(1500px,calc(100%-24px))] py-5 sm:w-[min(1500px,calc(100%-32px))] sm:py-8 lg:pb-10 lg:pt-5" data-article-progress-root>
+      <article className="mx-auto w-[min(1500px,calc(100%_-_24px))] py-5 sm:w-[min(1500px,calc(100%_-_32px))] sm:py-8 lg:pb-10 lg:pt-5" data-article-progress-root>
         <nav className="mb-4 flex flex-wrap items-center gap-2 px-1 font-display text-[11px] font-extrabold uppercase tracking-wide text-[color:var(--home-muted)] sm:mb-5" aria-label="Breadcrumb">
           <Link href="/" className="transition hover:text-[#FF1A1A]">Home</Link>
           <span className="text-[#FF1A1A]/70">/</span>
