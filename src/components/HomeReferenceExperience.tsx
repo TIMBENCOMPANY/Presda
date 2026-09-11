@@ -225,7 +225,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               <button
                 type="button"
                 onClick={goPrevious}
-                className="home-glass-control home-hero-arrow absolute left-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:left-5 lg:-left-1 lg:top-1/2 lg:-translate-y-1/2"
+                className="home-glass-control home-hero-arrow absolute left-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:left-5 lg:left-6 lg:top-[58%] lg:-translate-y-1/2"
                 aria-label="Previous featured story"
               >
                 <ArrowLeft className="h-5 w-5" strokeWidth={2} />
@@ -233,7 +233,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               <button
                 type="button"
                 onClick={goNext}
-                className="home-glass-control home-hero-arrow absolute right-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:right-5 lg:-right-1 lg:top-1/2 lg:-translate-y-1/2"
+                className="home-glass-control home-hero-arrow absolute right-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:right-5 lg:right-6 lg:top-[58%] lg:-translate-y-1/2"
                 aria-label="Next featured story"
               >
                 <ArrowRight className="h-5 w-5" strokeWidth={2} />
