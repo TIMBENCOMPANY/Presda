@@ -146,7 +146,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
       >
         <div className="home-hero-bg absolute inset-0 -z-10" />
 
-        <div className="mx-auto w-full max-w-[1510px] px-3 py-4 sm:px-6 sm:py-5 lg:py-6 2xl:px-0">
+        <div className="mx-auto w-full max-w-[1510px] px-3 py-4 sm:px-6 sm:py-5 lg:pb-6 lg:pt-3 2xl:px-0">
           <div className="grid gap-4 lg:grid-cols-[minmax(0,2.2fr)_minmax(300px,0.8fr)] xl:grid-cols-[minmax(0,2.35fr)_minmax(330px,0.82fr)]">
             <article className="home-editorial-hero relative min-h-[590px] overflow-hidden rounded-2xl border sm:min-h-[590px] lg:min-h-[clamp(720px,calc(100vh-11rem),820px)]">
               <div className="absolute inset-0">
