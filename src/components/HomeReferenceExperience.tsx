@@ -52,12 +52,12 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
   const heroTitleLength = active?.title.length ?? 0;
   const heroTitleSize =
     heroTitleLength > 70
-      ? "text-[clamp(1.55rem,4.65vw,2.9rem)]"
+      ? "text-[clamp(1.62rem,4.35vw,2.85rem)]"
       : heroTitleLength > 56
-        ? "text-[clamp(1.58rem,4.9vw,3rem)]"
+        ? "text-[clamp(1.68rem,4.55vw,3rem)]"
         : heroTitleLength > 44
-          ? "text-[clamp(1.72rem,5.55vw,3.35rem)]"
-          : "text-[clamp(2.12rem,8vw,5.35rem)]";
+          ? "text-[clamp(1.76rem,4.8vw,3.12rem)]"
+          : "text-[clamp(1.96rem,5.25vw,3.35rem)]";
 
   useEffect(() => {
     if (isPaused || slides.length < 2) return;
@@ -183,7 +183,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
                 <p className="font-display text-xs font-extrabold uppercase tracking-wide text-[color:var(--home-red)]">
                   {categoryLabels[active.category]}
                 </p>
-                <h1 className={`mt-4 max-w-[15ch] text-balance font-display font-extrabold uppercase leading-[1.02] tracking-normal text-white [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:mt-5 sm:max-w-[15ch] sm:leading-[0.99] lg:max-w-[15.5ch] ${heroTitleSize}`}>
+                <h1 className={`mt-4 max-w-[17ch] text-balance font-display font-extrabold uppercase leading-[1.02] tracking-normal text-white [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:mt-5 sm:max-w-[18ch] sm:leading-[0.99] lg:max-w-[18.5ch] ${heroTitleSize}`}>
                   <HeadlineText title={active.title} highlights={heroHighlights} legacyRed={active.headlineAccent} />
                 </h1>
                 <p className="editorial-deck home-hero-deck max-w-[20rem] text-white/75 sm:max-w-[34rem]">{active.excerpt}</p>
@@ -225,7 +225,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               <button
                 type="button"
                 onClick={goPrevious}
-                className="home-glass-control absolute left-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:left-5 lg:left-auto lg:right-20 lg:h-12 lg:w-12"
+                className="home-glass-control absolute left-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:left-5 lg:-left-2 lg:top-1/2 lg:h-12 lg:w-12 lg:-translate-y-1/2"
                 aria-label="Previous featured story"
               >
                 <ArrowLeft className="h-5 w-5" strokeWidth={2} />
@@ -233,7 +233,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               <button
                 type="button"
                 onClick={goNext}
-                className="home-glass-control absolute right-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:right-5 lg:h-12 lg:w-12"
+                className="home-glass-control absolute right-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:right-5 lg:top-1/2 lg:h-12 lg:w-12 lg:-translate-y-1/2"
                 aria-label="Next featured story"
               >
                 <ArrowRight className="h-5 w-5" strokeWidth={2} />
@@ -273,6 +273,8 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
 }
 
 function SidebarStoryCard({ article, priority = false }: { article: HomeStory; priority?: boolean }) {
+  const highlights = heroHighlightOverrides[article.slug] ?? article.headlineHighlights;
+
   return (
     <Link href={`/articles/${article.slug}/`} className="home-side-card group relative flex min-h-[142px] w-full min-w-0 flex-col overflow-hidden rounded-2xl border transition hover:-translate-y-0.5 sm:min-h-[156px] lg:min-h-0 lg:block">
       <div className="relative aspect-[16/10] w-full shrink-0 overflow-hidden bg-black lg:absolute lg:inset-0 lg:aspect-auto">
@@ -296,7 +298,7 @@ function SidebarStoryCard({ article, priority = false }: { article: HomeStory; p
       </div>
       <div className="flex min-w-0 flex-1 flex-col p-3 lg:absolute lg:inset-x-0 lg:bottom-0 lg:z-10 lg:p-4">
         <h3 className="line-clamp-3 font-display text-[1rem] font-bold uppercase leading-[1.08] tracking-normal text-[color:var(--home-text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-[1.18rem] lg:line-clamp-3 lg:text-white">
-          <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
+          <HeadlineText title={article.title} highlights={highlights} legacyRed={article.headlineAccent} />
         </h3>
       </div>
     </Link>
