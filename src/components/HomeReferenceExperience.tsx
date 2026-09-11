@@ -7,6 +7,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { Article } from "@/data/articles";
 import { ArticleCard } from "@/components/ArticleCard";
 import { HeadlineText } from "@/components/HeadlineText";
+import type { HeadlineHighlights } from "@/components/HeadlineText";
 import { getArticleCardImage, getArticleCardImagePosition } from "@/lib/articleImages";
 import { categoryLabels, formatDate } from "@/lib/categories";
 
@@ -21,6 +22,22 @@ type HomeReferenceExperienceProps = {
   moreStories: Article[];
 };
 
+const heroHighlightOverrides: Record<string, HeadlineHighlights> = {
+  "dinosaurs-rise-fall-fossils-extinction": { red: "DINOSAURS", gold: "RISE AND FALL" },
+  "how-humans-learned-to-speak": { red: "LANGUAGE", gold: "HUMANS LEARN TO SPEAK" },
+  "titanic-what-really-happened": { red: "TITANIC", gold: "WHAT REALLY HAPPENED" },
+  "ancient-greece-civilization-history": { red: "ANCIENT GREECE", gold: "CHANGED HOW WE THINK" },
+  "history-of-slavery": { red: "SLAVERY", gold: "HUMANS BECAME A COMMODITY" },
+  "depression-what-happens-in-the-brain": { red: "DEPRESSION", gold: "INSIDE THE BRAIN" },
+  "mark-zuckerberg-facebook-meta-story": { red: "MARK ZUCKERBERG", gold: "GLOBAL TECH EMPIRE" },
+  "carl-sagan-journey-through-our-universe": { red: "CARL SAGAN", gold: "OUR UNIVERSE" },
+  "charles-darwin-theory-of-evolution": { red: "CHARLES DARWIN", gold: "THEORY THAT CHANGED" },
+  "history-of-the-vikings": { red: "VIKINGS", gold: "WORLD BEYOND THE LEGEND" },
+  "ottoman-empire-rise-and-fall": { red: "OTTOMAN EMPIRE", gold: "600 YEARS" },
+  "history-of-egyptian-pyramids": { red: "PYRAMIDS", gold: "ANCIENT EGYPT" },
+  "avicii-life-music-death-tim-bergling": { red: "Avicii", gold: "EDM Legend" }
+};
+
 export function HomeReferenceExperience({ slides, editorialPicks, moreStories }: HomeReferenceExperienceProps) {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isPaused, setIsPaused] = useState(false);
@@ -31,7 +48,16 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
   const active = slides[activeIndex] ?? slides[0];
   const next = slides.length > 1 ? slides[(activeIndex + 1) % slides.length] : null;
   const sidebarStories = editorialPicks.slice(0, 3);
-  const isLongHeroTitle = (active?.title.length ?? 0) > 48;
+  const heroHighlights = active ? heroHighlightOverrides[active.slug] ?? active.headlineHighlights : undefined;
+  const heroTitleLength = active?.title.length ?? 0;
+  const heroTitleSize =
+    heroTitleLength > 70
+      ? "text-[clamp(1.55rem,4.65vw,2.9rem)]"
+      : heroTitleLength > 56
+        ? "text-[clamp(1.58rem,4.9vw,3rem)]"
+        : heroTitleLength > 44
+          ? "text-[clamp(1.72rem,5.55vw,3.35rem)]"
+          : "text-[clamp(2.12rem,8vw,5.35rem)]";
 
   useEffect(() => {
     if (isPaused || slides.length < 2) return;
@@ -157,10 +183,8 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
                 <p className="font-display text-xs font-extrabold uppercase tracking-wide text-[color:var(--home-red)]">
                   {categoryLabels[active.category]}
                 </p>
-                <h1 className={`mt-4 max-w-[15ch] text-balance font-display font-extrabold uppercase leading-[0.98] tracking-normal text-white [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:mt-5 sm:line-clamp-4 sm:max-w-[15ch] sm:leading-[0.96] lg:max-w-[15.5ch] ${
-                  isLongHeroTitle ? "text-[clamp(1.82rem,7.35vw,4.45rem)]" : "text-[clamp(2.12rem,8vw,5.35rem)]"
-                }`}>
-                  <HeadlineText title={active.title} highlights={active.headlineHighlights} legacyRed={active.headlineAccent} />
+                <h1 className={`mt-4 max-w-[15ch] text-balance font-display font-extrabold uppercase leading-[1.02] tracking-normal text-white [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:mt-5 sm:max-w-[15ch] sm:leading-[0.99] lg:max-w-[15.5ch] ${heroTitleSize}`}>
+                  <HeadlineText title={active.title} highlights={heroHighlights} legacyRed={active.headlineAccent} />
                 </h1>
                 <p className="editorial-deck home-hero-deck max-w-[20rem] text-white/75 sm:max-w-[34rem]">{active.excerpt}</p>
                 <Link
@@ -201,7 +225,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               <button
                 type="button"
                 onClick={goPrevious}
-                className="home-glass-control absolute left-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:left-5 lg:top-1/2 lg:h-12 lg:w-12 lg:-translate-y-1/2"
+                className="home-glass-control absolute left-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:left-5 lg:left-auto lg:right-20 lg:h-12 lg:w-12"
                 aria-label="Previous featured story"
               >
                 <ArrowLeft className="h-5 w-5" strokeWidth={2} />
@@ -209,7 +233,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               <button
                 type="button"
                 onClick={goNext}
-                className="home-glass-control absolute right-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:right-5 lg:top-1/2 lg:h-12 lg:w-12 lg:-translate-y-1/2"
+                className="home-glass-control absolute right-3 top-5 z-20 grid h-11 w-11 place-items-center rounded-full transition sm:right-5 lg:h-12 lg:w-12"
                 aria-label="Next featured story"
               >
                 <ArrowRight className="h-5 w-5" strokeWidth={2} />
