@@ -225,18 +225,22 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               <button
                 type="button"
                 onClick={goPrevious}
-                className="home-hero-arrow home-hero-arrow-left absolute left-3 top-5 z-20 grid h-11 w-8 place-items-center transition sm:left-5 lg:left-6 lg:top-[58%] lg:-translate-y-1/2"
+                className="home-hero-arrow home-hero-arrow-left absolute left-1 top-[55.75%] z-20 grid h-[18px] w-4 -translate-y-1/2 place-items-center transition sm:left-5 sm:w-6 lg:left-6"
                 aria-label="Previous featured story"
               >
-                <span className="home-hero-chevron" aria-hidden="true" />
+                <svg className="home-hero-chevron" viewBox="0 0 32 40" aria-hidden="true" focusable="false">
+                  <path d="M4 4H17.5L28 20L17.5 36H4L12.5 20Z" />
+                </svg>
               </button>
               <button
                 type="button"
                 onClick={goNext}
-                className="home-hero-arrow home-hero-arrow-right absolute right-3 top-5 z-20 grid h-11 w-8 place-items-center transition sm:right-5 lg:right-6 lg:top-[58%] lg:-translate-y-1/2"
+                className="home-hero-arrow home-hero-arrow-right absolute right-1 top-[55.75%] z-20 grid h-[18px] w-4 -translate-y-1/2 place-items-center transition sm:right-5 sm:w-6 lg:right-6"
                 aria-label="Next featured story"
               >
-                <span className="home-hero-chevron" aria-hidden="true" />
+                <svg className="home-hero-chevron" viewBox="0 0 32 40" aria-hidden="true" focusable="false">
+                  <path d="M4 4H17.5L28 20L17.5 36H4L12.5 20Z" />
+                </svg>
               </button>
             </article>
 

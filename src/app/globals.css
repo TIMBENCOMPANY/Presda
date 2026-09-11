@@ -248,13 +248,13 @@ select {
 }
 
 .home-hero-arrow {
-  min-width: 32px;
-  min-height: 44px;
+  min-width: 16px;
+  min-height: 18px;
   border: 0;
   background: transparent;
-  color: rgba(245, 245, 245, 0.64);
+  color: rgba(245, 245, 245, 0.62);
   opacity: 1;
-  filter: drop-shadow(0 2px 9px rgba(0, 0, 0, 0.62));
+  filter: drop-shadow(0 1px 7px rgba(0, 0, 0, 0.72));
   box-shadow: none;
   outline: none;
   backdrop-filter: none;
@@ -268,7 +268,7 @@ select {
 .home-hero-arrow:hover,
 .home-hero-arrow:focus-visible {
   color: var(--home-red);
-  filter: drop-shadow(0 0 12px rgba(255, 26, 26, 0.36));
+  filter: drop-shadow(0 0 10px rgba(255, 26, 26, 0.42));
 }
 
 .home-hero-arrow:active {
@@ -277,65 +277,23 @@ select {
 }
 
 .home-hero-chevron {
-  position: relative;
   display: block;
-  width: 20px;
-  height: 32px;
-}
-
-.home-hero-chevron::before,
-.home-hero-chevron::after,
-.home-hero-arrow::before {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 2px;
-  border-radius: 999px;
-  background: currentColor;
-}
-
-.home-hero-chevron::before,
-.home-hero-chevron::after {
-  left: 9px;
+  width: 14px;
   height: 18px;
+  overflow: visible;
 }
 
-.home-hero-arrow::before {
-  top: 10px;
-  height: 24px;
-  opacity: 0.44;
+.home-hero-chevron path {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
 }
 
-.home-hero-arrow-left::before {
-  left: 9px;
-}
-
-.home-hero-arrow-right::before {
-  right: 9px;
-}
-
-.home-hero-arrow-left .home-hero-chevron::before {
-  top: 0;
-  transform: rotate(38deg);
-  transform-origin: bottom center;
-}
-
-.home-hero-arrow-left .home-hero-chevron::after {
-  bottom: 0;
-  transform: rotate(-38deg);
-  transform-origin: top center;
-}
-
-.home-hero-arrow-right .home-hero-chevron::before {
-  top: 0;
-  transform: rotate(-38deg);
-  transform-origin: bottom center;
-}
-
-.home-hero-arrow-right .home-hero-chevron::after {
-  bottom: 0;
-  transform: rotate(38deg);
-  transform-origin: top center;
+.home-hero-arrow-left .home-hero-chevron {
+  transform: scaleX(-1);
 }
 
 .home-icon-control {
