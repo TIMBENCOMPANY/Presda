@@ -250,8 +250,8 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
 
 function SidebarStoryCard({ article, priority = false }: { article: HomeStory; priority?: boolean }) {
   return (
-    <Link href={`/articles/${article.slug}/`} className="home-side-card group flex min-h-[142px] w-full min-w-0 flex-col overflow-hidden rounded-2xl border transition hover:-translate-y-0.5 sm:min-h-[156px] lg:min-h-0">
-      <div className="relative aspect-[16/10] w-full shrink-0 overflow-hidden bg-black">
+    <Link href={`/articles/${article.slug}/`} className="home-side-card group relative flex min-h-[142px] w-full min-w-0 flex-col overflow-hidden rounded-2xl border transition hover:-translate-y-0.5 sm:min-h-[156px] lg:min-h-0 lg:block">
+      <div className="relative aspect-[16/10] w-full shrink-0 overflow-hidden bg-black lg:absolute lg:inset-0 lg:aspect-auto">
         <Image
           src={getArticleCardImage(article)}
           alt={article.coverAlt}
@@ -260,8 +260,9 @@ function SidebarStoryCard({ article, priority = false }: { article: HomeStory; p
           quality={72}
           sizes="(max-width: 640px) 112px, (max-width: 1024px) 150px, 420px"
           className="object-cover object-center transition duration-500 group-hover:scale-105"
-          style={{ objectPosition: getArticleCardImagePosition(article) }}
+          style={{ objectPosition: getArticleCardImagePosition(article) ?? article.homepageImagePosition }}
         />
+        <div className="absolute inset-0 hidden bg-[linear-gradient(0deg,rgba(0,0,0,0.78)_0%,rgba(0,0,0,0.32)_48%,rgba(0,0,0,0.08)_72%)] lg:block" />
         <span className="absolute left-3 top-3 rounded-lg bg-[#FF1A1A] px-2.5 py-1 font-display text-[9px] font-extrabold uppercase text-white shadow-[0_8px_20px_rgba(0,0,0,0.18)]">
           {categoryLabels[article.category]}
         </span>
@@ -269,14 +270,10 @@ function SidebarStoryCard({ article, priority = false }: { article: HomeStory; p
           {formatDate(article.date)}
         </time>
       </div>
-      <div className="flex min-w-0 flex-1 flex-col p-3 lg:p-4">
-        <h3 className="line-clamp-3 font-display text-[1rem] font-bold uppercase leading-[1.08] tracking-normal text-[color:var(--home-text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-[1.18rem] lg:line-clamp-2">
+      <div className="flex min-w-0 flex-1 flex-col p-3 lg:absolute lg:inset-x-0 lg:bottom-0 lg:z-10 lg:p-4">
+        <h3 className="line-clamp-3 font-display text-[1rem] font-bold uppercase leading-[1.08] tracking-normal text-[color:var(--home-text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-[1.18rem] lg:line-clamp-3 lg:text-white">
           <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
         </h3>
-        <p className="editorial-deck mt-2 line-clamp-2 text-xs leading-[1.55] text-[color:var(--home-muted)]">{article.excerpt}</p>
-        <span className="mt-auto pt-3 font-display text-[10px] font-extrabold uppercase tracking-wide text-[color:var(--home-red)]">
-          Read More
-        </span>
       </div>
     </Link>
   );
