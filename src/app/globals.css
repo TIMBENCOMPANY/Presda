@@ -247,6 +247,24 @@ select {
     0 0 28px rgba(196, 0, 25, 0.22);
 }
 
+.home-hero-arrow {
+  border-color: color-mix(in srgb, var(--home-border) 60%, transparent);
+  background: rgba(5, 5, 5, 0.2);
+  color: rgba(255, 255, 255, 0.9);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.06),
+    0 10px 22px rgba(0, 0, 0, 0.14);
+}
+
+.home-hero-arrow:hover {
+  border-color: color-mix(in srgb, var(--home-red) 58%, transparent);
+  background: rgba(5, 5, 5, 0.46);
+  color: var(--home-red);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.12),
+    0 0 24px rgba(196, 0, 25, 0.2);
+}
+
 .home-icon-control {
   min-width: 44px;
   min-height: 44px;
