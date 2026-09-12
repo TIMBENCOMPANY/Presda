@@ -33,7 +33,7 @@ export function ArticleCard({ article, priority = false, showImage = true }: Art
         ) : (
           <div className="absolute inset-0 bg-[color:var(--home-panel-strong)]" aria-hidden="true" />
         )}
-        <span className="absolute left-4 top-4 rounded-lg bg-[#FF1A1A] px-3 py-1 font-display text-[10px] font-extrabold uppercase text-white">
+        <span className="absolute left-4 top-4 rounded-lg bg-[color:var(--home-red-deep)] px-3 py-1 font-display text-[10px] font-extrabold uppercase text-white">
           {categoryLabels[article.category]}
         </span>
       </div>

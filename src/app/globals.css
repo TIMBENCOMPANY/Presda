@@ -19,7 +19,7 @@
   --home-muted: rgba(255, 255, 255, 0.7);
   --home-soft: rgba(255, 255, 255, 0.42);
   --home-border: rgba(255, 255, 255, 0.11);
-  --home-red: #ff1a1a;
+  --home-red: #ff3333;
   --home-red-deep: #c40019;
   --home-gold: #e8c97a;
   --home-card-shadow: 0 28px 90px rgba(0, 0, 0, 0.42);
@@ -47,6 +47,8 @@
   --home-muted: rgba(8, 8, 8, 0.72);
   --home-soft: rgba(8, 8, 8, 0.48);
   --home-border: rgba(8, 8, 8, 0.13);
+  --home-red: #b00016;
+  --home-gold: #7a5200;
   --home-card-shadow: 0 24px 70px rgba(20, 16, 12, 0.12);
   --home-hero-bg:
     radial-gradient(circle at 82% 40%, rgba(196, 0, 25, 0.16), transparent 25rem),
@@ -146,7 +148,7 @@ select {
 }
 
 .headline-accent-red {
-  color: #ff1a1a;
+  color: var(--home-red);
 }
 
 .headline-accent-gold {

@@ -46,7 +46,6 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
   const moreStoriesRef = useRef<HTMLElement | null>(null);
   const resumeTimer = useRef<number | null>(null);
   const active = slides[activeIndex] ?? slides[0];
-  const next = slides.length > 1 ? slides[(activeIndex + 1) % slides.length] : null;
   const sidebarStories = editorialPicks.slice(0, 3);
   const heroHighlights = active ? heroHighlightOverrides[active.slug] ?? active.headlineHighlights : undefined;
   const heroTitleLength = active?.title.length ?? 0;
@@ -161,20 +160,6 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
                   className="object-cover object-center transition duration-700 lg:object-[center_42%]"
                   style={{ objectPosition: active.homepageImagePosition ?? "50% 42%" }}
                 />
-                {next && next.slug !== active.slug ? (
-                  <Image
-                    key={`${next.slug}-queued`}
-                    src={next.coverImage}
-                    alt=""
-                    fill
-                    loading="eager"
-                    quality={72}
-                    sizes="(max-width: 1024px) calc(100vw - 24px), 860px"
-                    className="pointer-events-none object-cover object-center opacity-0"
-                    style={{ objectPosition: next.homepageImagePosition ?? "50% 42%" }}
-                    aria-hidden="true"
-                  />
-                ) : null}
               </div>
               <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.88)_0%,rgba(0,0,0,0.62)_38%,rgba(0,0,0,0.18)_72%,rgba(0,0,0,0.48)_100%)]" />
               <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.82)_0%,transparent_54%)]" />
@@ -245,8 +230,8 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
             </article>
 
             <aside className="grid gap-4 lg:grid-rows-3" aria-label="Editorial highlights">
-              {sidebarStories.map((article, index) => (
-                <SidebarStoryCard key={article.slug} article={article} priority={index === 0} />
+              {sidebarStories.map((article) => (
+                <SidebarStoryCard key={article.slug} article={article} />
               ))}
             </aside>
           </div>
@@ -293,7 +278,7 @@ function SidebarStoryCard({ article, priority = false }: { article: HomeStory; p
           style={{ objectPosition: getArticleCardImagePosition(article) ?? article.homepageImagePosition }}
         />
         <div className="absolute inset-0 hidden bg-[linear-gradient(0deg,rgba(0,0,0,0.78)_0%,rgba(0,0,0,0.32)_48%,rgba(0,0,0,0.08)_72%)] lg:block" />
-        <span className="absolute left-3 top-3 rounded-lg bg-[#FF1A1A] px-2.5 py-1 font-display text-[9px] font-extrabold uppercase text-white shadow-[0_8px_20px_rgba(0,0,0,0.18)]">
+        <span className="absolute left-3 top-3 rounded-lg bg-[color:var(--home-red-deep)] px-2.5 py-1 font-display text-[9px] font-extrabold uppercase text-white shadow-[0_8px_20px_rgba(0,0,0,0.18)]">
           {categoryLabels[article.category]}
         </span>
         <time dateTime={article.date} className="absolute right-3 top-3 font-display text-[9px] font-extrabold uppercase text-white/80 drop-shadow">
