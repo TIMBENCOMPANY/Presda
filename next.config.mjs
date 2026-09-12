@@ -58,6 +58,15 @@ const nextConfig = {
         headers: securityHeaders
       }
     ];
+  },
+  async redirects() {
+    return [
+      {
+        source: "/privacy",
+        destination: "/privacy-policy/",
+        statusCode: 301
+      }
+    ];
   }
 };
 
