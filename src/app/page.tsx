@@ -15,7 +15,7 @@ const featuredHeroSlugs = [
   "titanic-what-really-happened",
   "ancient-greece-civilization-history",
   "history-of-slavery",
-  "depression-what-happens-in-the-brain",
+  "al-andalus-rise-glory-fall-muslim-iberia",
   "mark-zuckerberg-facebook-meta-story",
   "carl-sagan-journey-through-our-universe",
   "charles-darwin-theory-of-evolution",

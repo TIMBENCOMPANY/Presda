@@ -53,6 +53,237 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "061",
+    slug: "al-andalus-rise-glory-fall-muslim-iberia",
+    title: "AL-ANDALUS: THE RISE, GLORY AND FALL OF MUSLIM IBERIA",
+    seoTitle: "Al-Andalus: The Rise, Glory and Fall of Muslim Iberia | PRESDA",
+    metaDescription:
+      "Explore the history of Al-Andalus from the Muslim conquest of Iberia in 711 to Cordoba's golden age, its scholars and architecture, the kingdoms that followed and Granada's fall in 1492.",
+    headlineHighlights: {
+      red: "AL-ANDALUS",
+      gold: "MUSLIM IBERIA"
+    },
+    excerpt:
+      "For centuries, Al-Andalus shaped Iberia through cities, scholarship, gardens, palaces, trade and war. Its story stretches from the crossing of 711 to the fall of Granada in 1492.",
+    category: "History",
+    date: "2026-09-13",
+    lastUpdated: "2026-09-13",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/al-andalus-rise-glory-fall-muslim-iberia.png",
+    coverAlt:
+      "Cinematic editorial reconstruction of scholars overlooking a flourishing city in medieval Al-Andalus.",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "Imagine entering Cordoba roughly a thousand years ago. The city is not a fantasy of perfect light and marble. It is a working capital: crowded, loud, political and alive.",
+      "Markets press against workshops. Courtyards cool the air. Water moves through gardens and channels. Religious buildings mark the skyline. Books are copied and collected. Physicians study medicine. Astronomers observe the sky. Philosophers debate ancient texts. Merchants connect Iberia with North Africa, the Mediterranean and the wider Islamic world.",
+      "But Al-Andalus should not be flattened into a myth of a futuristic utopia surrounded by a completely primitive Europe. Medieval Europe contained many centers of learning, power and artistic production. Al-Andalus was exceptional in important ways, but it was also human: unequal, violent, brilliant, fragile and constantly changing.",
+      "Al-Andalus was a changing collection of Muslim-ruled territories in the Iberian Peninsula between 711 and 1492. It was never one unchanged civilization for eight centuries. Its borders, rulers, population and political structure changed dramatically.",
+      "The central question is simple: how did Muslim-ruled Iberia become one of the most fascinating civilizations of medieval Europe, and why did it eventually disappear?",
+      "## What Was Al-Andalus?",
+      "Al-Andalus was the Arabic name used for Muslim-ruled Iberia. At different moments it referred to very different political realities: a province tied to the early Islamic empire, an independent emirate, a caliphate centered on Cordoba, fragmented taifa kingdoms, North African-led regimes and finally the Nasrid Kingdom of Granada.",
+      "That changing meaning matters. A person living in eighth-century Cordoba, a tenth-century official at Madinat al-Zahra, an eleventh-century poet at a taifa court and a fifteenth-century artisan in Granada all lived in worlds that can be called Andalusian, but they did not live in the same political order.",
+      "Al-Andalus was also not a single ethnic society. It included Arabs, Amazigh or Berber communities from North Africa, local converts to Islam, Christians, Jews, slaves, soldiers, merchants, farmers, scholars and migrants. Its civilization emerged from contact, conquest, adaptation and conflict over generations.",
+      "## Before Al-Andalus",
+      "Iberia before 711 was not empty, backward or waiting passively for history to begin. The peninsula had been shaped by Roman Hispania for centuries. Roman roads, cities, legal traditions, Latin language, Christianity, agriculture and administrative habits left deep marks.",
+      "After the western Roman imperial order weakened, the Visigothic kingdom became the dominant political power in much of Iberia. Its rulers governed a Christian kingdom with inherited Roman structures, aristocratic rivalries and regional tensions.",
+      "By the early eighth century, the Visigothic kingdom faced political instability, including disputed succession and elite division. That weakness mattered. The Muslim conquest did not succeed only because armies crossed the Strait of Gibraltar. It also unfolded inside a peninsula whose ruling order was vulnerable.",
+      "## How Did Muslims Conquer Iberia?",
+      "In 711, an army crossed from North Africa into Iberia under Tariq ibn Ziyad. Later tradition connected the crossing to the rock that became known as Gibraltar, from Jabal Tariq, the mountain of Tariq.",
+      "The decisive early confrontation is usually identified as the Battle of Guadalete, where Visigothic royal resistance collapsed. King Roderic disappeared from the political record, and Muslim-led forces advanced rapidly through much of the peninsula.",
+      "Musa ibn Nusayr, the Umayyad governor in North Africa, later entered Iberia and helped consolidate the conquest. Within a few years, the old Visigothic royal order had been broken, though control on the ground varied by region and local arrangements.",
+      "Many famous details of the conquest come from later chronicles and must be treated critically. Speeches attributed to Tariq, especially dramatic lines about burning ships, should not be repeated as established historical quotation unless a source can support them. The conquest was real; some of its most cinematic anecdotes are less secure.",
+      "## Who Were The Conquerors?",
+      "The conquering forces included substantial numbers of Amazigh, often called Berber, troops from North Africa alongside Arab leadership and Arab forces. That mixture shaped the early politics of Al-Andalus.",
+      "The social order that developed after 711 included Arab elites, Amazigh settlers, local Iberians who converted to Islam, Arabic-speaking Christians, Jewish communities and Christians who remained under Muslim rule. Over time, language, law, status and religion created a layered society.",
+      "Conversion did not happen instantly. Many people remained Christian or Jewish for generations. Others converted for reasons that could include belief, social mobility, tax status, local patronage or family strategy. Iberian society became increasingly complex rather than simply changing overnight.",
+      "## Why Was It Called Al-Andalus?",
+      "The origin of the name Al-Andalus remains debated. A popular explanation links it to the Vandals, but that is not a settled scholarly fact and should not be presented as one.",
+      "Historians and linguists have offered different theories, and the evidence is not simple enough for a neat answer. What matters for readers is the caution: Al-Andalus is a historical name with uncertain origins, not a slogan with one universally accepted derivation.",
+      "## Abd Al-Rahman I And The Umayyad Emirate Of Cordoba",
+      "One of the most dramatic turning points came far from Iberia. In 750, the Abbasids overthrew the Umayyad caliphate in the east. Members of the Umayyad ruling family were hunted down, and the center of Islamic imperial power shifted.",
+      "Abd al-Rahman ibn Mu'awiya, later known as Abd al-Rahman I, survived. His escape became one of the great political stories of the medieval Mediterranean: a fugitive prince moving across dangerous territory, drawing on family connections, tribal alliances and opportunity.",
+      "He eventually reached Iberia and, in 756, established himself in Cordoba as an independent Umayyad emir. He did not recreate the old empire. He built a new western Umayyad state at the edge of the Islamic world.",
+      "His survival mattered because it gave Al-Andalus a dynastic center. The Emirate of Cordoba linked Iberia to Umayyad prestige while operating independently from Abbasid Baghdad. It also gave later rulers a political inheritance they could expand into a caliphate.",
+      "## Cordoba Rises",
+      "Cordoba became the political capital of Umayyad Al-Andalus. Its growth reflected administration, trade, crafts, agricultural wealth, religious institutions and the ability of rulers to attract talent and resources.",
+      "The city connected Iberia to Mediterranean and Islamic trade networks. Artisans worked in leather, textiles, metal and ceramics. Officials managed taxation, diplomacy and military organization. Scholars, jurists, poets and physicians moved through elite circles.",
+      "Medieval population estimates are difficult, and spectacular claims about hundreds of thousands of houses, precise numbers of libraries, lamps or baths often circulate without secure support. Cordoba was large and important by medieval standards, but responsible history should admit uncertainty where evidence is uncertain.",
+      "Its reputation came from accumulated reality rather than inflated arithmetic: political authority, urban scale, manuscript culture, architecture, agriculture, trade and court patronage made Cordoba one of medieval Europe's most remarkable cities.",
+      "## The Great Mosque Of Cordoba",
+      "The Great Mosque of Cordoba began under Abd al-Rahman I and was expanded by later Umayyad rulers. Its famous horseshoe arches and red-and-white arcades created one of the most recognizable architectural spaces in Islamic art.",
+      "The building drew on local, late antique, Visigothic, Syrian and Islamic architectural traditions. Its power lies partly in repetition: columns, arches and light forming a space that feels rhythmic rather than static.",
+      "After Christian conquest, the mosque was converted into a cathedral, and later architectural layers were inserted into the structure. Today the Mosque-Cathedral of Cordoba represents multiple layers of Iberian history: Islamic power, Christian transformation, artistic continuity and historical tension in the same building.",
+      "## Abd Al-Rahman III And The Caliphate Of Cordoba",
+      "In 929, Abd al-Rahman III proclaimed himself caliph. This was not only a religious title. It was a declaration of supreme political authority, meant to elevate Cordoba against rival powers.",
+      "The claim mattered because the Islamic world already contained competing centers of legitimacy, including the Abbasids in Baghdad and the Fatimids in North Africa. The Caliphate of Cordoba placed Al-Andalus in that wider contest.",
+      "The tenth century became one of Cordoba's political high points. The caliphate projected military power, managed diplomacy with Christian kingdoms, received embassies and sponsored monumental building. Its rulers presented Cordoba not merely as a regional capital, but as a center of civilization and authority.",
+      "## Madinat Al-Zahra",
+      "Madinat al-Zahra, built outside Cordoba under Abd al-Rahman III, was a palace-city designed to express caliphal power. It combined residence, administration, ceremony, gardens and architecture into a political statement.",
+      "Visitors and diplomats encountered a designed landscape of hierarchy and splendor. The architecture communicated authority before anyone spoke. Gardens, halls and controlled movement made politics visible.",
+      "The city did not survive the collapse of the caliphate. During the civil conflict that began in the early eleventh century, Madinat al-Zahra was damaged and abandoned. Its ruins now help historians understand both the height of caliphal ambition and the violence of its fall.",
+      "## Water, Gardens And Engineering",
+      "Water was practical before it was poetic. Irrigation supported agriculture. Channels, wells, cisterns, waterwheels, fountains and courtyards shaped settlement, comfort and production.",
+      "Many irrigation traditions in Iberia had earlier Roman and local roots. Under Islamic rule, water systems were further developed, reorganized and connected to wider Mediterranean and Islamic agricultural knowledge. The point is not that Muslims simply invented irrigation in Spain. The point is that Andalusian society made water management central to rural and urban life.",
+      "Gardens used water for cooling, sound, reflection and display. In elite settings, water could mark status and order. In ordinary settings, water meant survival, crops and labor.",
+      "## What Did Daily Life Look Like?",
+      "Most people in Al-Andalus were not caliphs, philosophers or palace architects. They farmed, made goods, carried water, cooked, traded, served, fought, taught, copied, prayed and raised families.",
+      "Cities had markets, workshops, bathhouses, mosques, churches, synagogues, homes and courtyards. Craftsmen produced textiles, ceramics, leatherwork, metal objects and tools. Merchants moved food, cloth, paper, spices, books and luxury goods.",
+      "Daily life differed sharply by class, gender, legal status and location. Elite households could enjoy learning, music, gardens and imported objects. Ordinary families faced taxes, harvest risk, disease and political insecurity. Slaves were part of the social order, and soldiers lived close to violence.",
+      "Women appear in the record unevenly because elite male writers preserved much of the surviving evidence. Some women were patrons, poets, transmitters of knowledge or managers of households. Others lived under constraints that left little written trace.",
+      "## The Libraries And Book Culture Of Cordoba",
+      "Cordoba became associated with books because manuscript culture mattered deeply to Andalusian elites. Books moved through copying, collecting, travel and scholarly correspondence.",
+      "Al-Hakam II is especially linked with learning and book collecting. Medieval sources describe his interest in manuscripts and scholarship, though exact claims about library size should be treated cautiously. The safer conclusion is strong enough: Cordoba was connected to Arabic manuscript networks that stretched across the Islamic world.",
+      "Book culture allowed ideas to travel. Medicine, philosophy, law, poetry, astronomy and mathematics moved through texts, teachers and translators. Al-Andalus was both a receiver and producer of knowledge.",
+      "## Science And Medicine In Al-Andalus",
+      "Medicine in Al-Andalus combined inherited Greek, Roman, Islamic and local traditions. It was not modern healthcare, and medieval treatment could be limited or wrong by modern standards. But the intellectual ambition was serious.",
+      "The most famous Andalusian medical figure was al-Zahrawi, known in Latin as Abulcasis. He lived near Cordoba and became influential through his medical encyclopedia, especially its surgical sections and illustrations of instruments.",
+      "His work circulated far beyond Iberia in Latin translation and helped shape later European medical learning. For broader context on how medical knowledge changed across civilizations, read PRESDA's [history of medicine](/articles/history-future-of-medicine/).",
+      "Astronomy and mathematics also flourished in Andalusian contexts. Figures such as Maslama al-Majriti and al-Zarqali, known in Latin as Arzachel, were associated with astronomical tables, instruments, observation and calculation. These traditions mattered not because they were isolated miracles, but because they formed part of a wider scientific network linking Iberia, North Africa and the eastern Mediterranean.",
+      "## Ibn Rushd, Maimonides And Intellectual Networks",
+      "Ibn Rushd, known in Latin as Averroes, was born in Cordoba in the twelfth century. He was a philosopher, physician and jurist whose commentaries on Aristotle became deeply influential after translation into Latin.",
+      "It would be too simple to say Europe discovered Aristotle only because of Averroes. Greek-Arabic-Latin transmission involved many places, translators and scholars. But Ibn Rushd's commentaries became an important part of medieval European philosophical debate.",
+      "Moses Maimonides was also born in Cordoba. A Jewish thinker, physician and legal scholar, he later lived outside Iberia, including in North Africa and Egypt. His life shows how intellectual networks connected Al-Andalus with the wider Mediterranean rather than stopping at political borders.",
+      "These figures remind us that Al-Andalus was not only a place of buildings. It was also a node in the movement of texts, arguments, medical learning and religious thought.",
+      "## Muslims, Christians And Jews In Al-Andalus",
+      "The word convivencia is often used to describe coexistence among Muslims, Christians and Jews in medieval Iberia. It can be useful, but only if handled carefully.",
+      "There were periods of cooperation, cultural exchange, shared intellectual life, economic interaction and neighborly contact. Jews and Christians could serve in important roles in some periods. Translation, trade and administration crossed religious boundaries.",
+      "But Al-Andalus was not a perfect multicultural paradise. Non-Muslim communities lived under legal inequality. Restrictions, taxation, political violence, persecution, rebellion and forced displacement occurred in some periods. Conditions changed by century, ruler and region.",
+      "The opposite myth is also wrong. Al-Andalus was not eight centuries of constant religious war. The reality was more complicated: coexistence and hierarchy, exchange and conflict, patronage and pressure, peace and violence.",
+      "## Why Did The Caliphate Collapse?",
+      "The Caliphate of Cordoba began to fracture in the early eleventh century. Civil war, often called the fitna, broke out in 1009. Rival claimants, military factions, court politics and regional powers tore apart centralized authority.",
+      "In 1031, the caliphate was abolished. Cordoba lost its central political role. The collapse did not end Muslim Iberia, but it changed its structure permanently.",
+      "The old caliphal order gave way to taifa kingdoms: smaller, competing Muslim-ruled states such as Seville, Zaragoza, Toledo, Badajoz and Granada. The fragmentation created both danger and brilliance.",
+      "## The Taifa Kingdoms",
+      "The taifa period produced vibrant court culture. Poets, musicians, scholars and administrators found patrons in rival courts. Competition could encourage display, learning and artistic ambition.",
+      "But fragmentation weakened collective military power. Taifa rulers competed against each other, formed alliances, paid tribute and sometimes relied on Christian kingdoms against Muslim rivals. Political survival mattered more than simple religious solidarity.",
+      "The tribute payments known as parias strengthened Christian kingdoms financially and militarily. The paradox is sharp: the taifa courts could be culturally brilliant while strategically vulnerable.",
+      "## The Christian Kingdoms Expand",
+      "The expansion of Christian kingdoms such as Castile, Leon, Aragon, Navarre and Portugal was gradual and uneven. The term Reconquista can be useful if used carefully, but it should not be presented as one uninterrupted 781-year master plan.",
+      "Medieval politics were more tangled. Muslim rulers could ally with Christians against Muslims. Christian rulers could ally with Muslims against Christians. Tribute, marriage, diplomacy, mercenary service and trade often crossed religious lines.",
+      "In 1085, Alfonso VI captured Toledo. The city's fall was a major turning point because Toledo had deep symbolic, strategic and intellectual importance. It shifted the balance of power and alarmed taifa rulers.",
+      "## The Almoravids And Almohads",
+      "After Toledo's fall, some taifa rulers sought help from North Africa. The Almoravids, an Amazigh movement from the western Sahara and Morocco, entered Iberian politics under Yusuf ibn Tashfin.",
+      "At the Battle of Sagrajas, also known as Zallaqa, in 1086, Almoravid forces helped defeat Alfonso VI. Over time, however, the Almoravids absorbed the taifa states rather than merely protecting them.",
+      "The Almohads later replaced the Almoravids as the dominant North African power in much of Muslim Iberia. They brought a different religious and political ideology and made Seville an important center. Their rule included major architectural legacies, but also periods of increased pressure on Jewish and Christian communities.",
+      "In 1212, the Battle of Las Navas de Tolosa marked a major defeat for Almohad power. Muslim Iberia did not instantly collapse that year, but the battle accelerated a shift in the balance of power.",
+      "## The Nasrid Kingdom Of Granada",
+      "By the thirteenth century, many Muslim territories in Iberia had fallen to Christian kingdoms. The Nasrid Kingdom of Granada survived in the south from the 1230s until 1492.",
+      "Granada endured through geography, diplomacy, tribute, trade, internal calculation and the difficulty larger powers faced in absorbing it quickly. It existed between stronger neighbors and had to maneuver carefully.",
+      "Its survival for roughly two and a half centuries after many other Muslim states had disappeared is one of the most remarkable facts of late medieval Iberian history.",
+      "## The Alhambra",
+      "The Alhambra is the most famous monument of Nasrid Granada. It is not one simple building, but a palace complex shaped by courtyards, halls, water, geometry, calligraphy, gardens, light and carefully controlled views.",
+      "The Court of the Lions, reflecting pools, channels and carved decoration show how architecture could make water, shadow and inscription part of political experience. The decorative program is not empty ornament. It turns surface into language, rhythm and status.",
+      "Water was essential in Andalusian architecture because it did several jobs at once. It cooled spaces, irrigated gardens, created sound, reflected buildings, marked movement and helped courtyards function in a warm climate.",
+      "The Alhambra's power comes partly from restraint. Its spaces are intimate compared with many imperial monuments, but the detail is dense. It is architecture meant to be read, heard and felt.",
+      "## Why Did Granada Fall In 1492?",
+      "The final war for Granada lasted from 1482 to 1492. Isabella I of Castile and Ferdinand II of Aragon directed the campaign from the Christian side. Nasrid Granada faced internal divisions, including conflicts involving Boabdil, or Muhammad XII.",
+      "Granada's diplomacy could no longer preserve the kingdom against coordinated military pressure, internal weakness and the resources of the Catholic Monarchs. After years of war, the city surrendered.",
+      "On January 2, 1492, Granada passed to the Catholic Monarchs. Surrender agreements included initial guarantees for Muslims, but the future would not preserve those promises in a stable way.",
+      "Legendary scenes around the surrender should be labeled as legend when used. The historical reality is powerful enough without invented dialogue.",
+      "## What Happened After The Fall Of Granada?",
+      "After 1492, Muslims did not instantly vanish from Iberia. Communities remained under changing conditions. Some were known as Mudejars, Muslims living under Christian rule. Later, after forced conversions, many became known as Moriscos.",
+      "Pressure increased over time. Conversion campaigns, rebellion, forced conversions, restrictions and surveillance reshaped Muslim life. In the early seventeenth century, the Spanish monarchy expelled the Moriscos, a traumatic end to centuries of Muslim presence in Iberia.",
+      "The year 1492 also brought the expulsion of Jews from the Spanish kingdoms. That decision transformed Jewish life across the Mediterranean and beyond, sending Sephardic communities into exile.",
+      "These events should be described factually and respectfully. They were not footnotes. They were human catastrophes tied to state power, religion and identity.",
+      "## Did Al-Andalus Create The Renaissance?",
+      "Al-Andalus did not single-handedly create the Renaissance. No serious history needs that exaggeration.",
+      "What it did do was help transmit knowledge. Translation movements in Iberia, especially associated with Toledo, helped move Arabic scholarship, Greek works preserved and commented on in Arabic, medicine, philosophy, astronomy and mathematics into Latin intellectual networks.",
+      "This was part of a wider Mediterranean story that also involved Sicily, Italy, Byzantium, North Africa, the eastern Islamic world and Latin Christian schools. Al-Andalus was important precisely because it was connected, not because it alone explains European intellectual change.",
+      "For more PRESDA context on science and authority, read [Galileo and the Church](/articles/galileo-and-the-church/) and PRESDA's wider [History coverage](/category/history/).",
+      "## The Legacy Of Al-Andalus",
+      "Al-Andalus left traces in architecture, vocabulary, place names, agriculture, irrigation, craft traditions, manuscript culture, philosophy, medicine and memory.",
+      "Some claims about Arabic influence on Spanish words are solid; others circulate in exaggerated lists. The careful approach is to verify examples rather than treating every resemblance as proof.",
+      "What can still be seen today includes the Mosque-Cathedral of Cordoba, Madinat al-Zahra, the Alhambra, the Generalife, the Giralda and other Almohad heritage in Seville, and the Aljaferia in Zaragoza. Each site has later layers, modifications and interpretations.",
+      "The legacy is not only physical. Al-Andalus remains a symbol people argue over. It can be romanticized, weaponized, mourned or studied. The best history resists turning it into a political slogan.",
+      "## Al-Andalus: Myth Vs Reality",
+      "Myth: Al-Andalus was one united kingdom for almost 800 years. Reality: it passed through conquest, emirates, caliphate, taifa kingdoms, North African dynasties and Nasrid Granada.",
+      "Myth: Muslims, Christians and Jews always lived in perfect harmony. Reality: there were extraordinary periods of coexistence and exchange, but also inequality, conflict and persecution.",
+      "Myth: medieval Christian Europe had no learning while Cordoba had everything. Reality: Cordoba was an exceptional intellectual center, but medieval Europe contained many other evolving centers of scholarship.",
+      "Myth: the Reconquista was one continuous war beginning in 711. Reality: the political history was far more complicated, including long periods of peace, tribute, trade and cross-religious alliances.",
+      "Myth: 1492 instantly erased Islamic culture from Iberia. Reality: Muslim communities remained for generations, while Andalusian architecture, language, agriculture and cultural influences continued long afterward.",
+      "## Why Al-Andalus Still Matters",
+      "Al-Andalus should not be remembered simply as Muslim Spain or as a lost paradise. It was a complex civilization created by people of different origins across centuries.",
+      "It produced power, war, beauty, knowledge, religious devotion, political rivalry, architecture, science, philosophy and tragedy. Its achievements were real. Its inequalities were real. Its collapse was not inevitable from the beginning, but it became the result of changing power, internal division and conquest.",
+      "More than five centuries after Granada fell, Al-Andalus has not disappeared. It survives in stone arches and quiet courtyards, in irrigation channels and Spanish words, in manuscripts, philosophy and the silhouette of the Alhambra above Granada.",
+      "Its history is neither a fairy tale of perfect coexistence nor simply a story of conquest. It is the story of a civilization that rose, fractured, transformed and left marks on Europe and the Mediterranean that can still be seen today."
+    ],
+    quote:
+      "Al-Andalus was not one unchanged civilization for eight centuries. It was a shifting world of conquest, courts, cities, scholarship, coexistence, rivalry and loss.",
+    source: {
+      name: "UNESCO World Heritage Centre: Caliphate City of Medina Azahara",
+      url: "https://whc.unesco.org/en/list/1560/"
+    },
+    references: [
+      {
+        name: "UNESCO World Heritage Centre: Alhambra, Generalife and Albayzin, Granada",
+        url: "https://whc.unesco.org/en/list/314/"
+      },
+      {
+        name: "Metropolitan Museum of Art: Al-Andalus and Islamic Spain",
+        url: "https://www.metmuseum.org/art/metpublications/Al_Andalus_The_Art_of_Islamic_Spain"
+      },
+      {
+        name: "Stanford Encyclopedia of Philosophy: Ibn Rushd / Averroes",
+        url: "https://plato.stanford.edu/entries/ibn-rushd/"
+      },
+      {
+        name: "Encyclopaedia Britannica: Abd al-Rahman III and the Caliphate of Cordoba",
+        url: "https://www.britannica.com/biography/Abd-al-Rahman-III"
+      },
+      {
+        name: "Encyclopaedia Britannica: Averroes",
+        url: "https://www.britannica.com/biography/Averroes"
+      },
+      {
+        name: "Encyclopaedia Britannica: Maimonides",
+        url: "https://www.britannica.com/biography/Maimonides"
+      },
+      {
+        name: "Encyclopaedia Britannica: Abulcasis / al-Zahrawi",
+        url: "https://www.britannica.com/biography/Abu-al-Qasim"
+      },
+      {
+        name: "Mosque-Cathedral of Cordoba: historical information",
+        url: "https://mezquita-catedraldecordoba.es/en/"
+      }
+    ],
+    tags: [
+      "Al-Andalus",
+      "Muslim Spain",
+      "Islamic Spain",
+      "Umayyad Cordoba",
+      "Caliphate of Cordoba",
+      "Granada",
+      "Alhambra",
+      "Reconquista",
+      "Nasrid Granada",
+      "History"
+    ],
+    readingTime: "20 min read",
+    faq: [
+      {
+        question: "What was Al-Andalus?",
+        answer:
+          "Al-Andalus was the name used for Muslim-ruled territories in the Iberian Peninsula between 711 and 1492. Its borders and political forms changed across emirates, a caliphate, taifa kingdoms, North African dynasties and Nasrid Granada."
+      },
+      {
+        question: "When did Al-Andalus begin and end?",
+        answer:
+          "It began with the Muslim conquest of Iberia in 711 and ended politically with the surrender of Granada to the Catholic Monarchs on January 2, 1492."
+      },
+      {
+        question: "Was Al-Andalus a land of perfect tolerance?",
+        answer:
+          "No. Al-Andalus included periods of coexistence, exchange and shared intellectual life, but also legal inequality, conflict, persecution and displacement depending on ruler, century and region."
+      },
+      {
+        question: "Why is the Alhambra important?",
+        answer:
+          "The Alhambra is the most famous surviving monument of Nasrid Granada, combining palaces, courtyards, water systems, gardens, calligraphy, geometry and light into one of the great architectural achievements of medieval Iberia."
+      }
+    ]
+  },
+  {
     id: "060",
     slug: "natural-disasters-earthquakes-volcanoes-tsunamis",
     title: "NATURAL DISASTERS: WHY EARTHQUAKES, VOLCANOES AND TSUNAMIS HAPPEN",
