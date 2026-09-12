@@ -59,15 +59,6 @@ const nextConfig = {
       }
     ];
   },
-  async redirects() {
-    return [
-      {
-        source: "/privacy",
-        destination: "/privacy-policy/",
-        statusCode: 301
-      }
-    ];
-  }
 };
 
 export default nextConfig;
