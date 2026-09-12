@@ -155,7 +155,8 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
                   alt={active.coverAlt}
                   fill
                   priority
-                  quality={82}
+                  fetchPriority="high"
+                  quality={76}
                   sizes="(max-width: 1024px) calc(100vw - 24px), 860px"
                   className="object-cover object-center transition duration-700 lg:object-[center_42%]"
                   style={{ objectPosition: active.homepageImagePosition ?? "50% 42%" }}
@@ -188,7 +189,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
                   <span className="font-display text-sm font-extrabold text-white/50">{String(slides.length).padStart(2, "0")}</span>
                 </div>
 
-                <div className="mt-4 flex flex-wrap gap-2" aria-label="Featured story slides">
+                <div className="mt-4 flex flex-wrap gap-x-1 gap-y-1.5 sm:gap-2" aria-label="Featured story slides">
                   {slides.map((slide, index) => (
                   <button
                       key={slide.slug}
@@ -197,11 +198,11 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
                         pauseBriefly();
                         setActiveIndex(index);
                       }}
-                      className="grid h-11 w-11 place-items-center rounded-full transition"
+                      className="grid h-5 w-5 place-items-center rounded-full transition sm:h-11 sm:w-11"
                       aria-label={`Show featured story ${index + 1}`}
                       aria-current={index === activeIndex ? "true" : undefined}
                     >
-                      <span className={`h-2.5 w-2.5 rounded-full border transition ${index === activeIndex ? "border-[color:var(--home-red)] bg-[color:var(--home-red)]" : "border-white/25 bg-white/20 hover:border-[color:var(--home-red)]"}`} />
+                      <span className={`rounded-full border transition sm:h-2.5 sm:w-2.5 ${index === activeIndex ? "h-[10px] w-[10px] border-[color:var(--home-red)] bg-[color:var(--home-red)]" : "h-2 w-2 border-white/25 bg-white/20 hover:border-[color:var(--home-red)]"}`} />
                     </button>
                   ))}
                 </div>
