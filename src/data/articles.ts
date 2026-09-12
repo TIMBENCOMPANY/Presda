@@ -53,6 +53,313 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "060",
+    slug: "natural-disasters-earthquakes-volcanoes-tsunamis",
+    title: "NATURAL DISASTERS: WHY EARTHQUAKES, VOLCANOES AND TSUNAMIS HAPPEN",
+    seoTitle: "Natural Disasters: Why Earthquakes, Volcanoes and Tsunamis Happen | PRESDA",
+    metaDescription:
+      "Why do earthquakes, volcanoes and tsunamis happen? Explore plate tectonics, the world's biggest disasters, earthquake prediction, volcano monitoring and how science is helping humans prepare.",
+    headlineHighlights: {
+      red: "NATURAL DISASTERS",
+      gold: "EARTHQUAKES, VOLCANOES AND TSUNAMIS"
+    },
+    excerpt:
+      "Earth's surface may look stable, but beneath it enormous forces are constantly moving. From earthquakes and volcanic eruptions to tsunamis capable of crossing oceans, understanding these disasters begins deep inside our planet.",
+    category: "Science",
+    date: "2026-09-12",
+    lastUpdated: "2026-09-12",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/natural-disasters-earthquakes-volcanoes-tsunamis.png",
+    coverAlt:
+      "Cinematic PRESDA illustration showing earthquake damage, a tsunami and an erupting volcano.",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "A city can appear completely normal until the ground decides to remind everyone that normal is temporary.",
+      "Traffic lights change. Elevators climb. People unlock shops, wait for buses, open laptops and pour coffee. Then, within seconds, roads split, buildings shake, electricity fails and coastal sirens may begin telling people to move before the sea arrives.",
+      "Natural disasters feel sudden because human life is short. Earth works on a slower clock. The forces that build mountains, open oceans and recycle crust operate for millions of years, but their stored energy can enter a human afternoon all at once.",
+      "This article is about that hidden machinery: why earthquakes happen, how volcanoes erupt, why some earthquakes create tsunamis, why magnitude alone does not explain death tolls, and what science can and cannot predict.",
+      "It also begins with a distinction that matters. A hazard is a potentially dangerous natural process. A disaster happens when that hazard meets exposed, vulnerable people, buildings, systems and economies. The earthquake is natural. The collapse of unsafe housing, failed planning or absent warning systems is partly human.",
+      "## The Planet Beneath Our Feet Is Moving",
+      "Earth is not a solid, motionless sphere. Its outer structure includes the crust and the uppermost rigid part of the mantle, together called the lithosphere. Beneath that, the mantle behaves as hot solid rock over geological time: not a simple ocean of liquid magma, but material that can slowly deform and flow under heat and pressure.",
+      "Below the mantle sit the outer core and inner core. The outer core is liquid metal; the inner core is solid. Those deep layers help drive Earth's magnetic field and internal heat system, but earthquakes, most volcanoes and tsunamis begin their public story higher up, where the lithosphere is broken into tectonic plates.",
+      "Tectonic plates move at rates commonly measured in centimeters per year. That sounds gentle. It is not. A plate moving at the speed fingernails grow can carry continents, close oceans and build mountain ranges if it keeps moving for tens of millions of years.",
+      "## Plate Tectonics: The Engine Behind The Story",
+      "Plate boundaries come in several major forms.",
+      "At divergent boundaries, plates move apart. New crust can form as magma rises and cools, as along mid-ocean ridges. At convergent boundaries, plates move toward each other. One plate may descend beneath another in a subduction zone, or continental crust may collide and thicken into mountains. At transform boundaries, plates slide past each other sideways, storing stress along faults.",
+      "Those boundaries explain why hazards cluster. Subduction zones can generate some of Earth's largest earthquakes, feed volcanic arcs and displace the seafloor enough to launch tsunamis. Transform faults can produce destructive shaking without volcanoes. Divergent settings can build new crust and feed volcanic systems.",
+      "The same planet-building process is therefore also a hazard engine. Plate tectonics makes ocean basins, island arcs and mountain belts. It also gives Tokyo, Istanbul, Mexico City, Naples, San Francisco and many other places a serious reason to plan carefully.",
+      "## What Actually Causes An Earthquake?",
+      "An earthquake happens when stress that has built up in rock is released suddenly.",
+      "Along a fault, blocks of crust may be locked by friction even while plates continue moving. Rock can bend and store elastic strain. Eventually the fault slips. The stored energy moves outward as seismic waves.",
+      "The focus, or hypocenter, is the point inside Earth where rupture begins. The epicenter is the point on the surface directly above it. The fault is the fracture or zone of fractures along which movement occurs.",
+      "Seismic waves do not all behave the same way. P waves are compressional waves and usually arrive first. S waves move material side to side or up and down and cannot travel through liquid. Surface waves move along Earth's surface and often cause much of the damaging shaking people feel.",
+      "## Why Seconds Can Destroy A City",
+      "A destructive earthquake is not just a number on a magnitude scale.",
+      "Human impact depends on ground acceleration, shaking duration, distance from the fault, earthquake depth, local geology, building design, population density, infrastructure, preparedness and emergency response.",
+      "Soft sediments can amplify shaking. Water-saturated soils can lose strength through liquefaction, making streets, foundations and buried pipes behave as if the ground has partially turned fluid. Hillsides can fail. Bridges can lose support. Fires can begin after gas lines break.",
+      "This is why a strong earthquake in a sparsely populated region may kill few people, while a smaller event beneath vulnerable buildings can become catastrophic. Magnitude matters, but vulnerability decides much of the human cost.",
+      "## Magnitude 7 Vs Magnitude 8",
+      "Earthquake magnitude is logarithmic, not linear.",
+      "A one-unit increase in magnitude corresponds to roughly ten times greater measured wave amplitude in traditional magnitude concepts and about 32 times more energy release. A magnitude 8 earthquake is not a slightly bigger magnitude 7. It is a much larger physical event.",
+      "Modern science commonly uses moment magnitude, written Mw, especially for large earthquakes. It is based on seismic moment: the area of fault that slipped, the amount of slip and the rigidity of the rocks. News reports still often say 'Richter scale,' but the original Richter scale was developed for particular instruments and regional earthquakes in California. It is not the universal modern tool for measuring all major earthquakes.",
+      "## The Largest Earthquake Ever Instrumentally Recorded",
+      "The largest earthquake ever instrumentally recorded was the 1960 Valdivia, or Great Chilean, earthquake.",
+      "USGS lists it as magnitude Mw 9.5. It occurred along the subduction boundary where the Nazca Plate dives beneath the South American Plate. The rupture was enormous, and the earthquake generated a Pacific-wide tsunami that affected distant coastlines.",
+      "The phrase 'largest recorded' has a precise meaning. It does not prove that no larger earthquake ever occurred in Earth's geological history. It means the largest measured by modern instruments during the instrumental record.",
+      "Valdivia shows why subduction zones deserve respect. When a locked plate boundary releases centuries of accumulated strain, the result can be larger than almost any city planning scenario people instinctively imagine.",
+      "## The 2004 Indian Ocean Earthquake And Tsunami",
+      "On December 26, 2004, a massive Sumatra-Andaman megathrust earthquake ruptured off Indonesia.",
+      "The earthquake displaced the seafloor over a vast area. That movement shifted the water column and created tsunami waves that crossed the Indian Ocean. Indonesia, Sri Lanka, India, Thailand and several other countries suffered terrible losses. Authoritative estimates vary, but more than 200,000 people were killed or missing.",
+      "The disaster was not only a geophysical event. It was also a warning-system failure. Many coastlines around the Indian Ocean did not yet have the kind of regional tsunami-warning infrastructure that the Pacific had developed over decades.",
+      "After 2004, the Indian Ocean warning system expanded dramatically through international cooperation, sea-level monitoring, seismic detection, communication networks and public education. The ocean did not become safer by changing its physics. People became safer by changing the systems around it.",
+      "## Japan 2011: When Three Disasters Collided",
+      "On March 11, 2011, the Tohoku earthquake struck off northeastern Japan.",
+      "USGS lists the event as magnitude 9.1. The earthquake produced severe shaking and a devastating tsunami. The tsunami then flooded parts of the Fukushima Daiichi nuclear power plant, disabling critical systems and leading to a major nuclear accident.",
+      "That sequence matters. The earthquake did not directly create the nuclear crisis by itself. Tsunami flooding overwhelmed defenses and disabled power and cooling systems. The disaster was earthquake, tsunami and technological vulnerability colliding.",
+      "Japan's engineering and warning systems saved many lives, but the event also showed that modern defenses can be exceeded when assumptions about maximum hazard prove too low. Preparedness is not a single achievement. It is a continuing argument with evidence.",
+      "## How Earthquakes Create Tsunamis",
+      "Not every undersea earthquake creates a dangerous tsunami.",
+      "For a major earthquake-generated tsunami, the seafloor usually must move significantly, especially vertically. When the seafloor lifts or drops, it can displace the water above it. Gravity then spreads that disturbance outward as long waves.",
+      "In deep ocean, a tsunami may not look like a giant breaking wall. Its wave height can be modest offshore, while its wavelength may stretch across many kilometers. Ships may pass over it without dramatic notice.",
+      "Near shore, the water becomes shallower. The wave slows, its wavelength shortens and its height can increase dramatically. Depending on coastline shape and bathymetry, a tsunami may arrive as surges, rapid flooding, strong currents or multiple waves rather than one cinematic wall.",
+      "## How Fast Can A Tsunami Travel?",
+      "Tsunami speed depends strongly on ocean depth.",
+      "NOAA explains that in deep ocean, tsunami waves can travel at speeds comparable to a commercial jet aircraft. That does not mean every tsunami moves at one fixed speed. The deeper the water, the faster long tsunami waves can propagate.",
+      "This is why distant coastlines can be struck hours after the source earthquake. A local tsunami may leave only minutes. A distant tsunami may leave time for warnings, evacuation and harbor closures, but only if detection, communication and public trust work.",
+      "## What Causes A Volcano To Erupt?",
+      "Volcanoes erupt when magma reaches conditions that allow it to move toward the surface.",
+      "Magma forms where rock melts because of pressure changes, added water and volatiles, or heat transfer. It is less dense than surrounding rock, so it can rise. Gases dissolved in magma expand as pressure drops. Fractures open pathways. A magma storage system can pressurize until rock fails.",
+      "Magma is molten rock beneath the surface. Lava is molten rock that has erupted onto the surface. The distinction is simple, but it keeps the language clean.",
+      "Eruptions differ because magmas differ. Low-viscosity basaltic magma can flow relatively easily and often produces more effusive eruptions, as in many Hawaiian settings. Silica-rich, gas-charged magma can be viscous, trap pressure and erupt explosively, as at many stratovolcanoes.",
+      "## Not All Volcanoes Are The Same",
+      "Volcanoes do not fit perfectly into simple boxes, but common forms help readers see patterns.",
+      "Shield volcanoes are broad and gently sloping, often associated with fluid basaltic lava. Stratovolcanoes, such as Mount Fuji or Vesuvius, are steeper and can produce explosive eruptions. Cinder cones are smaller volcanic cones built from erupted fragments. Calderas form when large eruptions or magma withdrawal cause collapse of the ground above a magma system.",
+      "Yellowstone is a volcanic caldera system, not a single cone waiting on a cartoon fuse. Vesuvius is a dangerous stratovolcano near a dense population. Hawaiian volcanoes show how lava can build islands over time. The category matters because hazard style differs from place to place.",
+      "## The Pacific Ring Of Fire",
+      "The Pacific Ring of Fire is a geographic description of a broad horseshoe-shaped zone around the Pacific where many earthquakes and volcanoes occur.",
+      "It is not one underground ring of connected magma. It reflects plate boundaries, especially subduction zones, around the Pacific Basin. Oceanic plates descend beneath other plates, generating earthquakes and melting processes that feed volcanic arcs.",
+      "The Ring of Fire is therefore a map of tectonic relationships, not a single machine. Chile, Japan, Indonesia, Alaska and the Pacific Northwest share some hazard logic, but each region has its own faults, volcanoes, histories and vulnerabilities.",
+      "## Vesuvius And Pompeii",
+      "The AD 79 eruption of Vesuvius buried Pompeii and Herculaneum and became one of history's most famous volcanic disasters.",
+      "Pliny the Younger described the eruption from a distance, giving later scientists one of the classic eyewitness accounts of a large explosive eruption. The eruption produced ash fall and deadly pyroclastic flows and surges: hot mixtures of gas, ash and rock fragments that can move rapidly and kill almost instantly.",
+      "Hollywood often turns Pompeii into a simple image of people turned to stone. The real process was different. Bodies decayed inside hardened ash deposits, leaving voids. In the nineteenth century, archaeologists poured plaster into some of those voids to make casts.",
+      "The casts are powerful because they preserve absence. They are not people transformed into statues; they are traces of people caught in a disaster.",
+      "## Tambora: The Volcano That Changed The Climate",
+      "The 1815 eruption of Tambora in present-day Indonesia was one of the largest eruptions in recorded history.",
+      "It injected enormous amounts of sulfur-rich material into the atmosphere. Stratospheric aerosols reflected sunlight and contributed to global cooling. The following year, 1816, became known in parts of the Northern Hemisphere as the Year Without a Summer.",
+      "Cold, crop failures and unusual weather affected communities already living with fragile food systems. But careful history should not make Tambora the single cause of every social event associated with 1816. Climate shocks interact with politics, poverty, trade, disease, agriculture and local weather.",
+      "Tambora matters because it shows that volcanoes can be global without being visually global. A mountain in Indonesia changed skies far away.",
+      "## Krakatoa: The Eruption Heard Across The World",
+      "The 1883 eruption of Krakatau, often called Krakatoa in English, produced explosive eruptions, caldera collapse and deadly tsunamis in the Sunda Strait.",
+      "Pressure waves from the eruption traveled around the planet, and reports of the sound being heard at great distances became part of volcanic legend. The safe version of the claim is that it was one of the loudest historically documented eruptions, with extraordinary atmospheric effects, not that every exaggerated internet distance should be repeated without context.",
+      "Krakatoa also reminds us that volcanic disasters can become tsunami disasters. A collapsing volcanic system, landslide or explosive displacement of water can create waves even without a classic megathrust earthquake.",
+      "## Mount St. Helens And Pinatubo",
+      "Modern volcanology is partly a story of disasters studied in real time.",
+      "Mount St. Helens erupted catastrophically in 1980 after swelling, earthquakes and visible unrest. A massive landslide uncorked the system and triggered a lateral blast. The eruption killed dozens of people and transformed how many people understood volcanic hazards in the United States.",
+      "Mount Pinatubo in the Philippines erupted in 1991 after signs of unrest were monitored and interpreted by scientists working with authorities. Large evacuations before the climactic eruption saved many lives. The eruption also injected aerosols into the stratosphere and produced measurable global cooling.",
+      "Pinatubo is not a story that forecasting made volcanoes harmless. It is a story that monitoring, communication and evacuation can turn a potential mass-casualty disaster into a survivable crisis for many people.",
+      "## What Is A Supervolcano?",
+      "Supervolcano is an informal popular term, not a neat scientific category like stratovolcano.",
+      "It usually refers to volcanic systems capable of extremely large caldera-forming eruptions. Scientists often use the Volcanic Explosivity Index, or VEI, to compare explosive eruptions by erupted volume and plume characteristics. VEI 8 eruptions are extraordinarily large and rare.",
+      "Yellowstone, Toba and Taupo are often discussed in this context. The term can be useful if it helps explain scale. It becomes harmful when it turns into entertainment built around doom.",
+      "## Is Yellowstone About To Erupt?",
+      "Yellowstone is volcanically active. It has earthquakes, hydrothermal features, ground deformation and a long volcanic history. It is also closely monitored by the Yellowstone Volcano Observatory and partner institutions.",
+      "There is no credible scientific evidence that a catastrophic Yellowstone super-eruption is imminent.",
+      "USGS has repeatedly emphasized that volcanoes do not run on simple schedules and that Yellowstone's more likely future activity includes smaller eruptions or hydrothermal explosions rather than an imminent continent-scale catastrophe. Even those possibilities require careful monitoring and official communication, not countdown language.",
+      "The honest version is less viral and more useful: Yellowstone is real, active and monitored. That is not the same as being about to explode.",
+      "## Can Scientists Predict Earthquakes?",
+      "No reliable scientific method currently predicts a specific major earthquake by giving a meaningful time, location and magnitude before it happens.",
+      "That answer should be blunt because false prediction is dangerous. It can create panic, complacency or mistrust.",
+      "Scientists can identify faults, estimate long-term probabilities, map seismic hazard, monitor earthquake sequences and model aftershock probabilities. They can say some regions are more hazardous than others. They can say a major earthquake is possible or likely over a long period. They cannot say with validated precision that a named city will have a magnitude 7.8 next Tuesday.",
+      "Prediction is not the same as forecasting. Forecasting deals with probabilities and uncertainty. Prediction implies a specific event call. Earthquake science is powerful, but it is not prophecy.",
+      "## Early Warning Is Not Prediction",
+      "Earthquake early warning is one of the most important distinctions in public science.",
+      "An early-warning system detects an earthquake after rupture has already begun. Electronic signals travel faster than damaging seismic waves, so alerts may arrive before the strongest shaking in places some distance from the source.",
+      "That warning may be seconds or, in favorable cases, tens of seconds. It may be enough to stop trains, open fire-station doors, pause industrial systems, alert phones, protect surgeries or give people time to Drop, Cover and Hold On. It is not a promise of long notice, and people very close to the epicenter may receive little or none.",
+      "Japan's warning system and ShakeAlert in the western United States show what early warning can do: reduce harm after the earthquake has started, not predict the earthquake before it exists.",
+      "## Can Animals Predict Earthquakes?",
+      "Stories about animals behaving strangely before earthquakes are old and widespread.",
+      "Some observations may involve animals reacting to small initial seismic waves, sounds, vibrations or environmental changes humans do not notice. But anecdotes are not the same as a validated prediction system.",
+      "USGS says there is no reproducible, reliable method showing animals can predict earthquakes in the specific scientific sense. The practical conclusion is clear: emergency planning should rely on building safety, hazard maps, alerts and official guidance, not animal behavior as a warning network.",
+      "## Can We Predict Volcanic Eruptions?",
+      "Volcano forecasting can sometimes be more informative than earthquake prediction because moving magma can create measurable precursors.",
+      "Scientists monitor earthquake swarms, ground deformation, volcanic gases, heat, surface changes and satellite observations. These signals can indicate unrest and help forecast possible eruptions.",
+      "But volcanoes remain complex. Some unrest does not lead to eruption. Some eruptions happen with limited warning. Forecasts are probabilistic and must be updated as conditions change.",
+      "The strongest volcanic forecast is not a fortune-telling sentence. It is a chain of observations, uncertainty ranges, hazard maps, exclusion zones and clear public decisions.",
+      "## Could AI Predict The Next Big Disaster?",
+      "AI and machine learning are already useful in hazard science, but not in the magical way headlines sometimes imply.",
+      "Machine learning can help detect tiny earthquakes, classify seismic signals, identify aftershock patterns, analyze satellite deformation, recognize volcanic unrest signals, map damage rapidly after a disaster and support emergency planning.",
+      "Those are valuable uses. They are not the same as predicting the exact next major earthquake. Detection, forecasting, risk estimation and prediction are different tasks.",
+      "The realistic future is not an oracle. It is better sensors, better models, faster pattern recognition and quicker decisions, with humans still responsible for interpretation and public safety.",
+      "## Why Some Earthquakes Kill Thousands And Others Do Not",
+      "A natural hazard does not automatically become a human disaster.",
+      "Death tolls depend on building codes, construction quality, enforcement, population density, time of day, earthquake depth, distance from the fault, soil, preparedness, poverty, hospitals, roads, communications and rescue capacity.",
+      "Two cities can experience similar shaking and suffer very different outcomes. Wealth, governance and construction quality are part of the disaster equation. That does not make the ground less dangerous. It means vulnerability is built long before the earthquake.",
+      "This is why disaster risk reduction often looks less dramatic than the disaster itself: code enforcement, retrofitting, evacuation routes, drills, land-use planning and public trust.",
+      "## Buildings That Survive Earthquakes",
+      "No building can be made completely earthquake-proof.",
+      "Earthquake-resistant design tries to prevent collapse, protect life and allow repair where possible. Engineers use ductile structures that can bend without brittle failure, reinforcement, base isolation, tuned dampers, flexible connections and careful foundation design.",
+      "Japan and other seismic regions have shown that strong codes and engineering can save lives. But technology must be maintained, enforced and made accessible. A brilliant standard on paper does not protect a family living in an unreinforced building.",
+      "The safest city is not the city that pretends hazards do not exist. It is the city that designs as if memory matters.",
+      "## The Deadliest Natural Disasters In History",
+      "Lists of the deadliest natural disasters must be handled carefully because historical death estimates can be uncertain, especially before modern records.",
+      "Some of the largest reported disasters include major floods in China, the 1970 Bhola cyclone, large drought and famine interactions, the 1556 Shaanxi earthquake, the 2004 Indian Ocean tsunami and major twentieth-century earthquakes such as Tangshan in 1976 and Haiti in 2010.",
+      "Comparing them is difficult. Some disasters are sudden events. Others are prolonged crises involving drought, crop failure, disease, war, displacement and governance. Records vary by century and region. Precise-looking numbers can hide uncertainty.",
+      "The lesson is not a scoreboard. It is that hazard, exposure and vulnerability can combine at terrifying scale.",
+      "## Beyond Earthquakes, Volcanoes And Tsunamis",
+      "Natural disasters include many hazard systems, and they do not all share the same causes.",
+      "Geological hazards include earthquakes, volcanic eruptions and many tsunamis. Weather and climate-related hazards include heatwaves, heavy rainfall and flooding, drought, wildfire-conducive conditions and tropical cyclones.",
+      "A hurricane is not caused by plate tectonics. A megathrust earthquake is not caused by ordinary weather. Treating all disasters as one category can blur the science. The better question is always: what system is producing this hazard, and how are people exposed to it?",
+      "## Is Climate Change Causing More Earthquakes And Volcanoes?",
+      "Modern climate change is not the primary driver of ordinary global earthquake or volcanic activity. Plate tectonics is driven by geological processes operating over enormous timescales.",
+      "Scientists can study localized interactions involving ice loss, water loading, erosion, landslides and crustal stress. In some settings, changing surface loads may influence stress conditions. But that is not the same as saying climate change causes normal plate tectonics.",
+      "Climate change is much more directly connected to several weather and climate extremes, including heat, heavy rainfall, coastal flooding risks and some wildfire-conducive conditions. The hazard type matters.",
+      "## Is Earth Becoming More Dangerous?",
+      "The answer depends on what dangerous means.",
+      "For geological hazards, better instruments and instant global communication mean we detect and hear about more events than past generations did. That does not automatically mean Earth is producing more major earthquakes.",
+      "For climate-related hazards, human-caused climate change is altering the probability or intensity of multiple extremes, though the details vary by region and hazard.",
+      "For human exposure, more people, buildings, roads, ports and power systems now sit in vulnerable locations. A coastal megacity creates more potential loss than an empty coastline. A weak building turns shaking into collapse.",
+      "Hazard is the physical event. Exposure is what lies in its path. Vulnerability is how badly it can be harmed. Risk lives where those three meet.",
+      "## Cities Built On Dangerous Ground",
+      "People live near faults and volcanoes for reasons that are not foolish.",
+      "Volcanic soils can be fertile. Coasts provide trade, food and transport. River plains support agriculture. Historic settlements become cities because jobs, families, ports, roads and institutions concentrate there.",
+      "Tokyo, Istanbul, Mexico City, Naples, San Francisco and Jakarta all illustrate different versions of this problem. Risk is not only a map of danger. It is also a map of human history.",
+      "The goal is not to name the next city to be destroyed. That would be fake prediction. The goal is to understand why known hazards require building codes, retrofits, land-use choices, public education and honest communication.",
+      "## Could Istanbul Experience A Major Earthquake?",
+      "Istanbul sits near the North Anatolian Fault system, one of the world's important strike-slip fault zones.",
+      "The region has a serious seismic hazard. Scientific work has long focused on the Marmara Sea segment and the possibility of a future damaging earthquake affecting Istanbul. Responsible wording does not predict a date, and it should not turn hazard research into doom theater.",
+      "The useful public question is not 'when exactly will it happen?' It is 'what can be strengthened before it happens?' Buildings, schools, hospitals, bridges, utilities, emergency routes and public drills matter more than rumors.",
+      "Preparedness is the only honest answer to a hazard that cannot be scheduled.",
+      "## The Most Important Seconds",
+      "Safety guidance should come from official emergency agencies, not improvised internet advice.",
+      "During earthquake shaking, agencies such as FEMA and USGS commonly teach Drop, Cover and Hold On where that guidance applies. Drop to hands and knees, cover head and neck under sturdy furniture if possible, and hold on until shaking stops.",
+      "For tsunamis, strong or long coastal shaking can be a natural warning. Follow local evacuation guidance and move to appropriate higher ground or inland when instructed. Do not go to the shore to watch the water.",
+      "For volcanoes, obey exclusion zones and official evacuation orders. Volcanic hazards can include ash, pyroclastic flows, lahars, gases, lava flows and roof-loading from ash fall. The right action depends on the volcano and official warnings.",
+      "## Myth Vs Reality",
+      "Myth: Scientists can predict exactly when the next major earthquake will happen. Reality: They can assess hazard and probability, but exact earthquake prediction is not currently possible.",
+      "Myth: Magnitude 8 is only slightly stronger than magnitude 7. Reality: Magnitude scales are logarithmic, and each whole number increase represents far more energy release.",
+      "Myth: Every undersea earthquake creates a tsunami. Reality: Significant displacement of water is generally required.",
+      "Myth: A tsunami is always one giant breaking wave. Reality: Tsunamis can arrive as multiple surges and behave differently depending on coastline and seafloor shape.",
+      "Myth: Yellowstone is overdue and about to explode. Reality: Volcanoes do not operate on simple schedules, and official monitoring does not support an imminent super-eruption claim.",
+      "Myth: Animals can reliably predict earthquakes. Reality: No scientifically validated animal earthquake-prediction system exists.",
+      "Myth: Climate change is causing ordinary plate tectonics. Reality: Earth's tectonic system is driven primarily by geological processes operating over enormous timescales.",
+      "## The Planet That Created Us Can Also Destroy",
+      "The same tectonic system responsible for continents, mountains, volcanic islands, nutrient cycles and much of Earth's geological diversity also creates destructive hazards.",
+      "Humans cannot stop plate tectonics. We cannot order a subduction zone to relax or tell magma to stay underground.",
+      "But science can understand hazards, build safer cities, monitor volcanoes, detect earthquakes rapidly, warn coastlines and reduce casualties. That is not control over Earth. It is humility turned into preparation.",
+      "Earthquakes, volcanoes and tsunamis remind us that the ground beneath our feet is not permanent. We cannot switch off the forces that shape our planet. But every sensor, stronger building and early-warning system gives humanity something previous generations rarely had: a chance to understand what is happening - and sometimes enough time to survive it."
+    ],
+    quote:
+      "A natural hazard does not automatically become a human disaster. Vulnerability decides how much damage the planet's power can do.",
+    source: {
+      name: "USGS Earthquake Hazards Program",
+      url: "https://www.usgs.gov/programs/earthquake-hazards"
+    },
+    references: [
+      {
+        name: "USGS: This Dynamic Earth - the story of plate tectonics",
+        url: "https://pubs.usgs.gov/gip/dynamic/dynamic.html"
+      },
+      {
+        name: "USGS: Magnitude types",
+        url: "https://www.usgs.gov/programs/earthquake-hazards/magnitude-types"
+      },
+      {
+        name: "USGS: 20 largest earthquakes in the world",
+        url: "https://www.usgs.gov/programs/earthquake-hazards/science/20-largest-earthquakes-world"
+      },
+      {
+        name: "USGS: Can you predict earthquakes?",
+        url: "https://www.usgs.gov/faqs/can-you-predict-earthquakes"
+      },
+      {
+        name: "USGS: Can animals predict earthquakes?",
+        url: "https://www.usgs.gov/faqs/can-animals-predict-earthquakes"
+      },
+      {
+        name: "ShakeAlert: Earthquake early warning system",
+        url: "https://www.shakealert.org/"
+      },
+      {
+        name: "NOAA JetStream: Tsunami propagation",
+        url: "https://www.noaa.gov/jetstream/tsunamis/tsunami-propagation"
+      },
+      {
+        name: "NOAA/NWS: U.S. Tsunami Warning System",
+        url: "https://www.tsunami.gov/"
+      },
+      {
+        name: "USGS: M 9.1 Tohoku earthquake event page",
+        url: "https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30/executive"
+      },
+      {
+        name: "IAEA: Fukushima Daiichi accident focus page",
+        url: "https://www.iaea.org/newscenter/focus/fukushima"
+      },
+      {
+        name: "Smithsonian Institution: Global Volcanism Program",
+        url: "https://volcano.si.edu/"
+      },
+      {
+        name: "USGS: Yellowstone Volcano Observatory",
+        url: "https://www.usgs.gov/volcanoes/yellowstone"
+      },
+      {
+        name: "Ready.gov: Earthquakes",
+        url: "https://www.ready.gov/earthquakes"
+      },
+      {
+        name: "Ready.gov: Tsunamis",
+        url: "https://www.ready.gov/tsunamis"
+      },
+      {
+        name: "Ready.gov: Volcanoes",
+        url: "https://www.ready.gov/volcanoes"
+      }
+    ],
+    tags: [
+      "natural disasters",
+      "earthquakes",
+      "volcanoes",
+      "tsunamis",
+      "tectonic plates",
+      "Ring of Fire",
+      "earthquake prediction",
+      "earthquake early warning",
+      "Yellowstone volcano",
+      "natural disaster science"
+    ],
+    readingTime: "18 min read",
+    faq: [
+      {
+        question: "Why do earthquakes happen?",
+        answer:
+          "Earthquakes happen when stress builds up along faults and is suddenly released as blocks of rock slip. The released energy travels through Earth as seismic waves."
+      },
+      {
+        question: "Can scientists predict earthquakes?",
+        answer:
+          "No reliable scientific method currently predicts a specific major earthquake by giving a meaningful time, location and magnitude. Scientists can map hazards, estimate probabilities and provide early warning after rupture begins."
+      },
+      {
+        question: "How does an earthquake create a tsunami?",
+        answer:
+          "A dangerous earthquake-generated tsunami usually requires significant displacement of the seafloor, which moves the water column above it and sends long waves across the ocean."
+      },
+      {
+        question: "Is Yellowstone about to erupt?",
+        answer:
+          "Yellowstone is volcanically active and closely monitored, but official USGS monitoring does not support claims that a catastrophic super-eruption is imminent."
+      },
+      {
+        question: "Are natural disasters becoming more common?",
+        answer:
+          "It depends on the hazard. Better instruments and communication mean more events are detected and reported. Climate change affects many weather and climate extremes, while plate tectonics remains driven by geological processes. Human exposure and vulnerability also strongly shape disaster losses."
+      }
+    ],
+    status: "published"
+  },
+  {
     id: "059",
     slug: "highest-paid-athletes-2026",
     title: "THE WORLD'S HIGHEST-PAID ATHLETES IN 2026 - AND WHY THEY EARN SO MUCH",
