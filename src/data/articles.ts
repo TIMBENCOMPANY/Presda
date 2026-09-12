@@ -11330,8 +11330,12 @@ export const articles: Article[] = [
     "title": "AI Elderly Care In Japan: Robots, Monitoring And Human Care",
     "seoTitle": "AI Elderly Care Japan: Robots, Nursing Homes and Care Technology",
     "metaDescription": "How Japan is using AI, care robots, sensors and assistive technology in elderly care, plus real examples, limits and human-care concerns.",
+    "headlineHighlights": {
+      "red": "AI Elderly Care",
+      "gold": "Robots, Monitoring"
+    },
     "excerpt": "Japan is testing AI software, care robots, sensors and assistive technologies to support older adults, nursing homes and long-term care workers.",
-    "category": "World",
+    "category": "AI",
     "date": "2026-05-17",
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/japan-ai-care-era-2026.webp",
