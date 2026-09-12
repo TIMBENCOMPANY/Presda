@@ -11166,8 +11166,8 @@ export const articles: Article[] = [
     "date": "2026-05-16",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/keanu-reeves-kindness-2026.webp",
-    "coverAlt": "Keanu Reeves comforting a child in a hospital room with kindness overlays",
+    "coverImage": "/articles/keanu-reeves-kindness-and-generosity-hospital.png",
+    "coverAlt": "Editorial illustration of Keanu Reeves visiting a smiling child in a hospital room, representing kindness and generosity",
     "content": [
       "Keanu Reeves has become one of Hollywood's most loved figures for a reason that goes beyond box office success. Search interest around Keanu Reeves kindness, Keanu Reeves generosity and why Keanu Reeves is loved points to a public fascination with something quieter than fame: the idea that a global movie star can remain grounded, careful and generous without turning every good deed into a campaign.",
       "That reputation is powerful, but it also requires care. Reeves is the subject of countless viral stories, and not all of them are equally verified. The most honest way to understand his kindness is to separate documented charitable actions and well-sourced gestures from internet myths that have grown around his image.",
