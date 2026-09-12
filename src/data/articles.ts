@@ -10630,9 +10630,9 @@ export const articles: Article[] = [
     "category": "AI",
     "date": "2026-09-01",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/ai-friendship-chatbot-2026.webp",
-    "coverAlt": "Person talking with a friendly AI chatbot on a laptop at night, representing AI friendship and emotional support",
-    "homepageImagePosition": "55% 50%",
+    "coverImage": "/articles/ai-becoming-a-friend-not-just-a-tool.png",
+    "coverAlt": "A person and a friendly robot embracing at sunset, representing AI companionship and emotional support",
+    "homepageImagePosition": "38% 50%",
     "content": [
       "Millions of conversations with AI no longer end when the task is finished. People return after the email is written, the itinerary is planned, or the code error is solved. They talk about relationships, work, fears, decisions, loneliness, money, family tension, ambition, and the things they may hesitate to tell another person.",
       "That shift is one of the most important human stories in technology right now. The question is no longer only what AI can do. It is why people trust AI enough to keep talking when there is no practical task left to complete.",
