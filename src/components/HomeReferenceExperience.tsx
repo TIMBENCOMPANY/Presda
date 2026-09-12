@@ -45,6 +45,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
   const touchStartX = useRef<number | null>(null);
   const moreStoriesRef = useRef<HTMLElement | null>(null);
   const resumeTimer = useRef<number | null>(null);
+  const autoplayStarted = useRef(false);
   const active = slides[activeIndex] ?? slides[0];
   const sidebarStories = editorialPicks.slice(0, 3);
   const heroHighlights = active ? heroHighlightOverrides[active.slug] ?? active.headlineHighlights : undefined;
@@ -60,11 +61,21 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
 
   useEffect(() => {
     if (isPaused || slides.length < 2) return;
-    const timer = window.setInterval(() => {
+    let interval: number | null = null;
+    const isMobileViewport = window.matchMedia("(max-width: 639px)").matches;
+    const firstDelay = !autoplayStarted.current && isMobileViewport ? 30000 : 6000;
+    const timer = window.setTimeout(() => {
+      autoplayStarted.current = true;
       setActiveIndex((index) => (index + 1) % slides.length);
-    }, 6000);
+      interval = window.setInterval(() => {
+        setActiveIndex((index) => (index + 1) % slides.length);
+      }, 6000);
+    }, firstDelay);
 
-    return () => window.clearInterval(timer);
+    return () => {
+      window.clearTimeout(timer);
+      if (interval) window.clearInterval(interval);
+    };
   }, [isPaused, slides.length]);
 
   useEffect(() => {
