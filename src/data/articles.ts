@@ -53,6 +53,270 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "064",
+    slug: "sarco-capsule-assisted-dying-switzerland",
+    title: "SARCO: THE CAPSULE THAT CHANGED THE DEBATE OVER ASSISTED DYING IN SWITZERLAND",
+    seoTitle: "Sarco Capsule: Assisted Dying and the Switzerland Debate | PRESDA",
+    metaDescription:
+      "What is the Sarco capsule, what happened when it was first used in Switzerland, and why did it trigger arrests, legal questions and a new debate over assisted dying?",
+    headlineHighlights: {
+      red: "SARCO",
+      gold: "ASSISTED DYING"
+    },
+    excerpt:
+      "After the Sarco capsule was used in Switzerland for the first known time in 2024, one death triggered arrests, a criminal investigation and a wider question about choice, law and protection.",
+    category: "World",
+    date: "2026-09-14",
+    lastUpdated: "2026-09-14",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/sarco-capsule-assisted-dying-switzerland.png",
+    coverAlt:
+      "Editorial reconstruction of an elderly woman resting inside a Sarco-style capsule in Switzerland while two attendants stand nearby.",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "In September 2024, an unusual capsule in northern Switzerland became the center of an international controversy.",
+      "A 64-year-old American woman died using the Sarco capsule near Merishausen in the canton of Schaffhausen. The event was described in major reporting as the first known use of the device.",
+      "Police arrived. People connected to the event were arrested. Prosecutors opened a criminal investigation.",
+      "Within hours, a device presented by its advocates as a new expression of personal autonomy had become a legal and ethical test case.",
+      "The question was not only what happened inside one capsule. It was larger and harder: what is Sarco, and why did one death create such a large debate?",
+      "This article is not an instruction manual and does not describe how to obtain, construct, activate or operate any assisted-death device. It examines the public record, the law and the ethical arguments around the case.",
+      "For wider PRESDA context on technology, law and human vulnerability, read [AI elderly care in Japan](/articles/japan-enters-ai-care-era/), [the history of medicine](/articles/history-future-of-medicine/) and PRESDA's [World coverage](/category/world/).",
+      "## What Is The Sarco Capsule?",
+      "Sarco is a capsule concept associated with assisted-dying campaigner Philip Nitschke and Exit International. It was designed as a self-operated assisted-death device and promoted by supporters as a way to shift the final act away from conventional medical settings.",
+      "Its appearance is part of why it became famous. Sarco looks less like a hospital instrument and more like a futuristic pod. That design made it instantly media-friendly and deeply unsettling to critics.",
+      "At the highest level, publicly described accounts say the concept involves changing the atmosphere inside an enclosed capsule by using nitrogen so that oxygen is displaced. PRESDA is not publishing operational details, quantities, timing or procedural steps.",
+      "The controversy begins with that design choice. Sarco turns an end-of-life decision into a technological object, and that makes society ask whether changing the form of death changes how we understand death itself.",
+      "## Why Does Sarco Look So Different?",
+      "Traditional assisted suicide usually involves medical assessment, safeguards, medication and organizations or professionals working within a legal framework.",
+      "Sarco attracted attention because its creators tried to rethink the final act as a technology-mediated process. That shift matters. A capsule can make the process appear clean, private and controlled. To supporters, that can symbolize autonomy. To critics, it can look like dangerous normalization.",
+      "Design is never neutral in a subject like this. A device can make an act seem clinical, futuristic or detached from the emotional reality around it.",
+      "The social question is uncomfortable: does changing the design of death change how society thinks about death?",
+      "## What Happened In Switzerland In 2024?",
+      "On September 23, 2024, the Sarco capsule was used near Merishausen in the canton of Schaffhausen. Major reporting identified the person who died as a 64-year-old American woman.",
+      "Authorities were notified, and prosecutors opened a criminal investigation. Several people connected to the event were detained or arrested as Swiss authorities examined the circumstances surrounding the death.",
+      "The case quickly became international because it sat at the intersection of Swiss assisted-suicide law, device regulation, end-of-life ethics and the public shock of a machine designed for death.",
+      "The most important point is precision: the investigation did not mean that assisted suicide is categorically illegal in Switzerland. It meant authorities were examining whether the conduct surrounding this specific death, device and event complied with Swiss law.",
+      "## Why Were People Arrested?",
+      "It would be misleading to write that people were arrested simply because assisted suicide is illegal. Switzerland is known for permitting assisted suicide under particular legal conditions.",
+      "The arrests related to the circumstances of the Sarco case. Swiss prosecutors investigated possible violations of law, including questions around assistance, oversight, the device and the circumstances of the death.",
+      "Later reporting said suspicion of intentional homicide had been ruled out, while the investigation into alleged inciting and aiding or abetting suicide continued. Allegations and investigative steps should not be treated as convictions.",
+      "That distinction is essential. A controversial death can trigger a criminal investigation even in a country whose legal framework allows some forms of assisted suicide.",
+      "## Assisted Suicide Is Not The Same As Euthanasia",
+      "Swiss law draws a sharp distinction between direct active euthanasia and assisted suicide.",
+      "Direct active euthanasia means another person deliberately performs the act that directly causes death. Swiss official guidance describes this as punishable under criminal law.",
+      "Assisted suicide is different: the person performs the final act themselves. Swiss Penal Code Article 115 focuses on assistance to suicide when it is carried out for selfish or self-serving motives.",
+      "That is why the words matter. Euthanasia Switzerland, assisted dying Switzerland and assisted suicide Switzerland are often mixed together in public debate, but they are not legally identical concepts.",
+      "## Why Switzerland Is Different",
+      "Switzerland's assisted-suicide framework is unusual because it does not operate through the same model as many countries with physician-assisted-dying statutes.",
+      "The legal focus under Article 115 is not simply whether assistance occurred. It is especially whether the assistance was motivated by selfish interests. In practice, Swiss assisted-suicide organizations operate within a framework that emphasizes capacity, voluntariness and absence of improper motive.",
+      "That does not mean anything goes. Capacity, informed consent, documentation, medical context, organizational procedures and criminal law all matter.",
+      "It is also too simple to say suicide tourism is just legal in Switzerland. The reality is a narrower and more complex legal structure that has made Switzerland a focal point for international end-of-life debates.",
+      "## Is Sarco Legal In Switzerland?",
+      "There is no responsible simple sentence saying Switzerland approved Sarco.",
+      "Swissmedic said in August 2024 that Sarco did not fall under therapeutic-products legislation as a medicinal product or medical device. According to Swissmedic, its purpose fundamentally conflicted with the medical purpose required for classification as a therapeutic product.",
+      "That finding was not the same thing as approving Sarco. It also was not a simple Swissmedic ban. It meant Sarco was outside Swissmedic's therapeutic-products classification framework, while other legal questions remained.",
+      "Swiss authorities also raised separate questions about the device and the use of nitrogen. The legal debate therefore sits across several areas: assisted-suicide law, product/device regulation, public safety and criminal investigation.",
+      "## The Nitrogen Question",
+      "Swissmedic described the publicly presented concept as one in which nitrogen changes the composition of air inside the closed capsule by displacing oxygen.",
+      "That high-level description is enough to understand the legal and regulatory debate. This article does not provide concentrations, flow rates, timings, equipment lists, activation steps or any reproduction guidance.",
+      "The nitrogen question matters because it changes the case from a familiar assisted-suicide model into a dispute about a device, a gas, oversight and accountability.",
+      "When technology becomes part of the final act, regulators must ask not only whether the individual had capacity, but also whether the device, process and surrounding assistance met legal standards.",
+      "## Why Is Sarco So Controversial?",
+      "Sarco caused more controversy than ordinary assisted suicide because it concentrates several fears in one object.",
+      "It is technological. It looks automated. It appears to reduce visible medical involvement. It is portable in concept. It was promoted publicly before the legal status was settled. It also produced striking images that traveled quickly across global media.",
+      "For supporters, those features can represent control, privacy and autonomy. For critics, they raise alarms about normalization, insufficient oversight and the possibility that a machine could obscure human vulnerability.",
+      "Technology can change not only what people can do, but how an act feels to society.",
+      "## The Argument For Personal Choice",
+      "Supporters of assisted dying often begin with autonomy. They argue that competent adults facing terminal illness, irreversible decline or unbearable suffering should have meaningful control over end-of-life decisions under safeguards.",
+      "For some right-to-die advocates, dignity means not being forced through a final period of suffering that the person finds intolerable. Control, timing, privacy and the ability to say goodbye can matter deeply.",
+      "Supporters also argue that criminalizing assistance can drive desperate decisions into secrecy, while regulated systems can create transparency and safeguards.",
+      "Those arguments do not answer every concern, but they explain why assisted-dying debates are not simply abstract legal disputes. They are about fear, pain, dignity and control.",
+      "## The Argument Against",
+      "Critics focus on vulnerability. They worry about coercion, depression, temporary despair, family pressure, financial pressure, disability discrimination and mistakes in capacity assessment.",
+      "Opponents argue that a person can appear to choose death while being shaped by loneliness, inadequate care, untreated mental illness, poverty or a feeling of being a burden.",
+      "They also fear normalization: if assisted death becomes easier, more technological or more socially accepted, vulnerable people may receive the message that their lives are less worth protecting.",
+      "The strongest critics are not only asking whether a decision is voluntary. They are asking what conditions made the decision feel necessary.",
+      "## Who Decides Whether Someone Can Make The Decision?",
+      "Decision-making capacity is one of the hardest questions in assisted-dying law.",
+      "A person may have a severe illness and still possess full decision-making capacity. They may understand their situation, weigh options, communicate a consistent decision and act without coercion.",
+      "Conversely, a desire to die can sometimes be influenced by treatable psychiatric illness, temporary crisis, fear, pain, social isolation or pressure from others.",
+      "That is why safeguards matter. Capacity is not a slogan; it is an assessment of understanding, voluntariness, consistency and context. The Sarco debate intensified because critics asked whether a technology-centered process could ever assess those human realities adequately.",
+      "## Terminal Illness Vs Unbearable Suffering",
+      "One major policy question is whether assisted dying should be limited to people expected to die soon.",
+      "Some jurisdictions require terminal illness or a prognosis of limited life expectancy. Others focus more broadly on unbearable suffering, incurability or medical conditions that may not lead to imminent death.",
+      "The difference matters. A terminal-illness model narrows eligibility but can exclude people with severe long-term suffering. A suffering-based model may feel more humane to supporters but raises harder questions about capacity, prognosis and social vulnerability.",
+      "There is no single international model. Laws differ sharply, even among countries that permit some form of assisted dying.",
+      "## What About People With Mental Illness?",
+      "Psychiatric cases create some of the most difficult ethical questions.",
+      "Mental illness can involve suffering that is profound and persistent. At the same time, suicidal desire can be a symptom of treatable illness or temporary crisis. Distinguishing durable, informed refusal from treatable despair is extremely hard.",
+      "No responsible framework should present assisted dying as a solution to depression or temporary crisis. Mental health, capacity, prognosis and treatment options require extraordinary care.",
+      "The Sarco debate matters here because critics fear that a device-centered model could make an irreversible decision feel too detached from ongoing care.",
+      "## Disability Rights And The Fear Of Pressure",
+      "Many disability-rights critics argue that assisted-dying systems can become dangerous when people lack adequate support.",
+      "Poor access to care, loneliness, inaccessible housing, financial hardship and social prejudice can make life feel unbearable in ways that are not caused by disability itself, but by society's failure to support disabled people.",
+      "Supporters of assisted dying respond that disabled people should not be treated as incapable of autonomy. They argue that respect includes taking disabled people's decisions seriously.",
+      "Both concerns are real: autonomy matters, and so does the social pressure created when care is inadequate.",
+      "## The Role Of Palliative Care",
+      "Palliative care is not the same as giving up. It focuses on relieving pain, managing symptoms, supporting mental and social needs, helping families and planning for the end of life.",
+      "In many assisted-dying debates, palliative care is raised as a safeguard: before someone asks for death, have they had real access to pain relief, counseling, social support and practical care?",
+      "But palliative care and assisted dying are not identical policy questions. Some people who support strong palliative care still support assisted dying under strict conditions. Some opponents argue that better palliative care would reduce requests for assisted death.",
+      "The shared point is that end-of-life decisions should not be made in abandonment.",
+      "## What Do Doctors Think?",
+      "There is no single medical opinion on assisted dying.",
+      "Some doctors emphasize preserving life and worry that participation in assisted death changes the role of medicine. Others emphasize relieving suffering and respecting patient autonomy under strict safeguards.",
+      "Professional conscience also matters. Even in jurisdictions where assisted dying is legal, individual clinicians may object to participation, while others may see it as part of compassionate end-of-life care.",
+      "The medical debate is not only technical. It asks what medicine is for when cure is no longer possible.",
+      "## Where Is Assisted Dying Legal?",
+      "Assisted-dying laws vary widely across the world, and the categories are not interchangeable.",
+      "Switzerland permits assisted suicide under its distinctive criminal-law framework. The Netherlands, Belgium and Luxembourg allow regulated euthanasia and assisted suicide under defined conditions. Spain permits euthanasia and assisted dying under a statutory framework. Austria permits assisted suicide under specific conditions following constitutional litigation and legislation.",
+      "Canada has a system known as medical assistance in dying, or MAID, with eligibility rules that have been politically and ethically contested, especially around mental illness.",
+      "New Zealand and parts of Australia permit assisted dying under statutory frameworks. In the United States, only certain jurisdictions have physician-assisted-dying laws, generally built around terminal illness and self-administration.",
+      "The legal map should never be reduced to legal or illegal. Eligibility, safeguards, medical roles, waiting periods, reporting rules and terminology differ enormously.",
+      "## The Netherlands And Belgium",
+      "The Netherlands and Belgium are often discussed because their systems permit euthanasia under defined legal conditions.",
+      "That makes them different from Switzerland, where the legal distinction between direct active euthanasia and assisted suicide is central.",
+      "Dutch and Belgian frameworks require due-care criteria, reporting and oversight. They have also generated debate over psychiatric suffering, dementia, minors and the boundaries of unbearable suffering.",
+      "Those countries show that legalizing one form of assisted dying does not end the debate. It moves the debate into safeguards, eligibility and oversight.",
+      "## Canada And Medical Assistance In Dying",
+      "Canada's MAID framework has become one of the world's most debated assisted-dying systems.",
+      "At a high level, MAID permits medical assistance in dying for eligible people under federal law, but the details have changed and remain politically contested.",
+      "One major controversy involves eligibility where mental illness is the sole underlying medical condition. Canada delayed that expansion, with the federal government setting a later date for eligibility rather than allowing it immediately.",
+      "The Canadian debate shows how quickly assisted-dying law can move from end-stage physical illness to much harder questions about disability, mental illness, suffering and social support.",
+      "## The United States: A Different Model",
+      "The United States does not have one national assisted-dying law.",
+      "Several jurisdictions permit physician-assisted dying, generally for terminally ill adults who meet specific eligibility conditions. Oregon's Death with Dignity Act became the best-known early model, and other jurisdictions adopted related approaches.",
+      "These laws differ from Switzerland's framework. They usually involve physicians, prognosis requirements, formal requests, waiting periods or reporting rules, and self-administration by the patient.",
+      "This article does not provide instructions for obtaining medication. The relevant point is legal structure: US laws are narrower and more medicalized than the Swiss assisted-suicide model.",
+      "## Technology Is Changing The Right-To-Die Debate",
+      "Historically, assisted-dying debates centered on doctors, medication, hospitals, law, capacity and patient autonomy.",
+      "Sarco introduced another question: what happens when technology enters the final decision?",
+      "A device can concentrate authority in design. It can make an act look standardized. It can also create unclear accountability: who is responsible for screening, oversight, technical reliability and emergency intervention?",
+      "Future debates may involve remote oversight, software prompts, automated checks or other technologies. Those possibilities should be approached cautiously. The more technology enters end-of-life decisions, the more important human safeguards become.",
+      "## Can A Machine Ever Replace A Doctor At The End Of Life?",
+      "A machine can execute a process. It cannot truly understand suffering.",
+      "It cannot assess family pressure in the way a careful human process can. It cannot know whether fear is temporary, whether depression is treatable, whether a person feels like a burden or whether someone has been subtly pressured.",
+      "That does not prove doctors always get the decision right. Human systems fail too. But Sarco forces a stark question: can a technological process ever carry the moral weight of a final human decision?",
+      "This is where the Sarco debate becomes larger than Sarco itself.",
+      "## What Happened After The First Sarco Death?",
+      "After the September 2024 death, Swiss authorities continued investigating the circumstances of the case. People connected with the event were questioned, and reporting focused heavily on the role of Florian Willet, then associated with The Last Resort, a Swiss group linked to the case.",
+      "AP later reported that suspicion of intentional homicide had been ruled out, while investigation into alleged inciting and aiding or abetting suicide continued. The same reporting said applications to use Sarco had been suspended after the case.",
+      "Reporting in 2025 said Willet had died, based on statements from assisted-dying advocates. That later development did not resolve the legal questions raised by the 2024 Sarco case.",
+      "As of publication, the public record does not support describing Sarco as routinely used in Switzerland. The 2024 event remains the first publicly known use and the case that triggered major legal scrutiny.",
+      "## Is Sarco Still Being Used?",
+      "There is no evidence that Sarco is being routinely used across Switzerland.",
+      "The first publicly known use in 2024 triggered arrests, legal scrutiny and an investigation. Major reporting later said applications had been suspended.",
+      "That status matters because some headlines made Sarco sound like an available Swiss service or an officially approved device. The verified picture is different: a contested device, one publicly known use, regulatory uncertainty and continuing debate.",
+      "Sarco became globally famous before it became legally settled.",
+      "## Sarco: Myth Vs Reality",
+      "MYTH: Switzerland officially approved the Sarco capsule.",
+      "REALITY: The legal and regulatory situation has been contested, and Swiss authorities raised serious legal questions.",
+      "MYTH: Euthanasia and assisted suicide are the same thing.",
+      "REALITY: Swiss law treats direct active euthanasia and assisted suicide very differently.",
+      "MYTH: Sarco is routinely used across Switzerland.",
+      "REALITY: The first publicly known use in 2024 triggered a criminal investigation rather than widespread adoption.",
+      "MYTH: Swissmedic officially approved Sarco as a medical device.",
+      "REALITY: Swissmedic concluded that Sarco does not qualify as a therapeutic product under therapeutic-products legislation.",
+      "MYTH: The Sarco debate is only about technology.",
+      "REALITY: It touches law, medicine, autonomy, disability rights, mental health, palliative care and the state's responsibility to protect vulnerable people.",
+      "## The Question Sarco Did Not Answer",
+      "Technology can change the mechanics surrounding assisted death. It can change the setting, the image, the language and the public reaction.",
+      "But technology cannot answer the moral question.",
+      "When does protecting life become restricting autonomy?",
+      "And when does respecting autonomy risk abandoning someone who could have been helped?",
+      "There is no simple technical solution to that conflict.",
+      "## The Debate Remains Unresolved",
+      "Sarco became famous because it looked like something from the future. But the argument it exposed is ancient: who owns the final decision over a human life?",
+      "Switzerland's experience shows why the answer cannot be reduced to a machine, a law or a slogan.",
+      "For supporters, assisted dying can represent autonomy and relief from unbearable suffering. For critics, expanding access risks placing vulnerable people in danger at precisely the moment they most need protection.",
+      "Sarco may be a new machine.",
+      "The question behind it is much older, and remains unresolved."
+    ],
+    source: {
+      name: "Reuters - First known Sarco capsule use in Switzerland",
+      url: "https://www.reuters.com/world/europe/several-detained-switzerland-over-death-us-woman-suicide-capsule-2024-09-24/"
+    },
+    references: [
+      {
+        name: "Swiss Federal Office of Justice - Assisted suicide and euthanasia",
+        url: "https://www.bj.admin.ch/bj/en/home/gesellschaft/gesetzgebung/archiv/sterbehilfe.html"
+      },
+      {
+        name: "Swissmedic - Sarco suicide capsule classification assessment",
+        url: "https://www.swissmedic.ch/swissmedic/en/home.html"
+      },
+      {
+        name: "Associated Press - Sarco capsule case update and suspended applications",
+        url: "https://apnews.com/article/switzerland-suicide-capsule-sarco-5e244c0fe0c1adfe6580f2f260f1357b"
+      },
+      {
+        name: "BBC - Sarco capsule first use in Switzerland",
+        url: "https://www.bbc.com/news/articles/cly3j0j1j2do"
+      },
+      {
+        name: "Government of Canada - Medical assistance in dying",
+        url: "https://www.canada.ca/en/health-canada/services/health-services-benefits/medical-assistance-dying.html"
+      },
+      {
+        name: "Oregon Health Authority - Death with Dignity Act",
+        url: "https://www.oregon.gov/oha/ph/providerpartnerresources/evaluationresearch/deathwithdignityact/pages/index.aspx"
+      },
+      {
+        name: "Government of the Netherlands - Euthanasia, assisted suicide and non-resuscitation",
+        url: "https://www.government.nl/topics/euthanasia"
+      },
+      {
+        name: "Belgium Federal Public Service Health - Euthanasia",
+        url: "https://www.health.belgium.be/en/health/taking-care-yourself/end-life/euthanasia"
+      },
+      {
+        name: "World Health Organization - Palliative care",
+        url: "https://www.who.int/news-room/fact-sheets/detail/palliative-care"
+      }
+    ],
+    tags: [
+      "Sarco capsule",
+      "Sarco",
+      "Sarco Switzerland",
+      "assisted dying Switzerland",
+      "assisted suicide Switzerland",
+      "Swiss suicide capsule",
+      "right to die",
+      "euthanasia Switzerland",
+      "assisted suicide law Switzerland",
+      "end of life Switzerland",
+      "right to die debate",
+      "World"
+    ],
+    readingTime: "16 min read",
+    faq: [
+      {
+        question: "What is the Sarco capsule?",
+        answer:
+          "Sarco is a self-operated assisted-death capsule concept associated with Philip Nitschke and Exit International. It became internationally controversial after its first known use in Switzerland in 2024."
+      },
+      {
+        question: "Was Sarco approved by Switzerland?",
+        answer:
+          "No simple approval statement is accurate. Swissmedic said Sarco did not qualify as a therapeutic product under therapeutic-products legislation, while separate legal questions remained around its use."
+      },
+      {
+        question: "Is assisted suicide legal in Switzerland?",
+        answer:
+          "Swiss law treats assisted suicide differently from direct active euthanasia. Article 115 focuses particularly on assistance motivated by selfish interests, but specific cases can still trigger criminal investigation."
+      },
+      {
+        question: "Is euthanasia the same as assisted suicide in Switzerland?",
+        answer:
+          "No. Direct active euthanasia involves another person performing the act that directly causes death and remains punishable. Assisted suicide involves the individual performing the final act themselves."
+      },
+      {
+        question: "Is Sarco routinely used in Switzerland?",
+        answer:
+          "No. The public record does not support describing Sarco as routinely used. The first publicly known use in 2024 triggered arrests, legal scrutiny and a criminal investigation."
+      }
+    ]
+  },
+  {
     id: "063",
     slug: "history-of-money-gold-paper-digital",
     title: "MONEY: HOW PAPER, GOLD AND NUMBERS CAME TO RULE THE WORLD",
