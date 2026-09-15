@@ -553,7 +553,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
               <time className="text-right text-white/86" dateTime={article.date}>{formatHeroDate(article.date)}</time>
             </div>
 
-            <div className="max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8">
+            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""}`}>
               <h1 className="article-hero-title text-white">
                 <HeadlineText title={article.title} highlights={articleHeroHighlights} legacyRed={article.headlineAccent} />
               </h1>
