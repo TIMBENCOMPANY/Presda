@@ -4,8 +4,8 @@ import { Info, Mail, Menu, Newspaper, Search, UserPlus, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import type { FormEvent } from "react";
-import { useEffect, useMemo, useRef, useState } from "react";
+import type { FocusEvent, FormEvent } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { ArticleSearchRecord } from "@/lib/articleSearch";
 import { searchArticles } from "@/lib/articleSearch";
 import { categoryLabels, formatDate, toCategorySlug } from "@/lib/categories";
@@ -43,6 +43,7 @@ export function Header({ articles }: HeaderProps) {
   const desktopSearchRef = useRef<HTMLDivElement | null>(null);
   const mobileSearchRef = useRef<HTMLDivElement | null>(null);
   const mobileInputRef = useRef<HTMLInputElement | null>(null);
+  const searchToggleRef = useRef<HTMLButtonElement | null>(null);
   const closeTimer = useRef<number | null>(null);
   const pathname = usePathname();
   const router = useRouter();
@@ -55,6 +56,16 @@ export function Header({ articles }: HeaderProps) {
       .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
       .slice(0, maxSearchResults);
   }, [articles, trimmedQuery]);
+
+  const closeSearch = useCallback(() => {
+    setQuery("");
+    setSearchFocused(false);
+    setSearchOpen(false);
+  }, []);
+
+  useEffect(() => {
+    closeSearch();
+  }, [pathname, closeSearch]);
 
   useEffect(() => {
     if (!open) return;
@@ -72,15 +83,14 @@ export function Header({ articles }: HeaderProps) {
   useEffect(() => {
     function handlePointerDown(event: PointerEvent) {
       const target = event.target as Node;
-      if (desktopSearchRef.current?.contains(target) || mobileSearchRef.current?.contains(target)) return;
-      setSearchFocused(false);
-      setSearchOpen(false);
+      if (desktopSearchRef.current?.contains(target) || mobileSearchRef.current?.contains(target) || searchToggleRef.current?.contains(target)) return;
+      closeSearch();
     }
 
     document.addEventListener("pointerdown", handlePointerDown);
 
     return () => document.removeEventListener("pointerdown", handlePointerDown);
-  }, []);
+  }, [closeSearch]);
 
   useEffect(() => {
     if (!searchOpen) return;
@@ -124,14 +134,14 @@ export function Header({ articles }: HeaderProps) {
   function submitSearch(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     if (!trimmedQuery) return;
-    setSearchFocused(false);
-    setSearchOpen(false);
+    closeSearch();
     router.push(`/articles/?q=${encodeURIComponent(trimmedQuery)}`);
   }
 
-  function closeSearch() {
-    setSearchFocused(false);
-    setSearchOpen(false);
+  function handleSearchBlur(event: FocusEvent<HTMLDivElement>) {
+    const nextTarget = event.relatedTarget as Node | null;
+    if (nextTarget && (desktopSearchRef.current?.contains(nextTarget) || mobileSearchRef.current?.contains(nextTarget) || searchToggleRef.current?.contains(nextTarget))) return;
+    closeSearch();
   }
 
   function renderSearchResults({ mobile = false }: { mobile?: boolean } = {}) {
@@ -174,8 +184,20 @@ export function Header({ articles }: HeaderProps) {
         <input
           ref={mobile ? mobileInputRef : undefined}
           value={query}
-          onChange={(event) => setQuery(event.target.value)}
-          onFocus={() => setSearchFocused(true)}
+          onChange={(event) => {
+            setQuery(event.target.value);
+            setSearchFocused(true);
+          }}
+          onFocus={() => {
+            if (!searchFocused && !searchOpen) setQuery("");
+            setSearchFocused(true);
+          }}
+          onKeyDown={(event) => {
+            if (event.key === "Escape") {
+              closeSearch();
+              event.currentTarget.blur();
+            }
+          }}
           placeholder="Search articles..."
           className="h-full min-w-0 flex-1 bg-transparent text-sm text-[color:var(--home-text)] outline-none placeholder:text-[color:var(--home-soft)]"
           aria-label="Search articles"
@@ -201,17 +223,22 @@ export function Header({ articles }: HeaderProps) {
         </button>
 
         <Link href="/" aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
-          <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-12 w-auto object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-16" />
+          <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-14 w-auto object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-[72px]" />
         </Link>
 
         <div className="absolute right-0 top-1/2 flex -translate-y-1/2 items-center justify-end gap-1.5 sm:gap-3">
-          <div ref={desktopSearchRef} className="relative z-[70] hidden lg:block">
+          <div ref={desktopSearchRef} onBlur={handleSearchBlur} className="relative z-[70] hidden lg:block">
             {renderSearchInput()}
             {renderSearchResults()}
           </div>
           <button
+            ref={searchToggleRef}
             type="button"
-            onClick={() => setSearchOpen((value) => !value)}
+            onClick={() => {
+              setQuery("");
+              setSearchFocused(false);
+              setSearchOpen((value) => !value);
+            }}
             className="home-glass-control grid h-11 w-11 place-items-center rounded-full transition lg:hidden"
             aria-label={searchOpen ? "Close article search" : "Open article search"}
             aria-expanded={searchOpen}
@@ -229,7 +256,7 @@ export function Header({ articles }: HeaderProps) {
       </nav>
 
       {searchOpen ? (
-        <div ref={mobileSearchRef} className="absolute left-3 right-3 top-full z-[70] pt-3 lg:hidden">
+        <div ref={mobileSearchRef} onBlur={handleSearchBlur} className="absolute left-3 right-3 top-full z-[70] pt-3 lg:hidden">
           <div className="relative">
             {renderSearchInput({ mobile: true })}
             {renderSearchResults({ mobile: true })}
