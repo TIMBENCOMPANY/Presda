@@ -538,11 +538,14 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
             priority
             quality={82}
             sizes="(max-width: 1500px) 100vw, 1500px"
-            className="article-hero-image object-cover"
+            className={`article-hero-image object-cover ${article.slug === "alzheimers-disease-brain-memory-loss" ? "max-lg:!h-[360px]" : ""}`}
             style={heroImageStyle}
           />
           <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
           <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
+          {article.slug === "alzheimers-disease-brain-memory-loss" ? (
+            <div className="absolute inset-x-0 top-[220px] h-[140px] bg-gradient-to-b from-transparent to-[#050505] lg:hidden" />
+          ) : null}
 
           <div className="relative z-10 flex min-h-[590px] flex-col justify-between p-5 sm:min-h-[650px] sm:p-8 lg:min-h-[720px] lg:p-12 xl:p-14">
             <div className="flex items-start justify-between gap-4 font-display text-[11px] font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
@@ -553,7 +556,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
               <time className="text-right text-white/86" dateTime={article.date}>{formatHeroDate(article.date)}</time>
             </div>
 
-            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""}`}>
+            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""} ${article.slug === "alzheimers-disease-brain-memory-loss" ? "max-lg:!pt-[280px]" : ""}`}>
               <h1 className="article-hero-title text-white">
                 <HeadlineText title={article.title} highlights={articleHeroHighlights} legacyRed={article.headlineAccent} />
               </h1>

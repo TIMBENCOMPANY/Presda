@@ -54,6 +54,230 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "078",
+    "slug": "alzheimers-disease-brain-memory-loss",
+    "title": "ALZHEIMER’S: WHAT HAPPENS WHEN THE BRAIN BEGINS TO FORGET YOU?",
+    "seoTitle": "Alzheimer’s Disease: Memory, Symptoms & Treatment | PRESDA",
+    "metaDescription": "Explore Alzheimer’s symptoms, amyloid, tau and memory loss, how diagnosis and treatments are changing, and what the disease means for patients and families.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "ALZHEIMER’S",
+      "gold": "FORGET YOU?"
+    },
+    "excerpt": "Alzheimer’s changes the brain long before daily life begins to unravel. Inside the science of memory loss, the limits of new treatments and the human connections that still matter.",
+    "category": "Science",
+    "date": "2026-09-15",
+    "lastUpdated": "2026-09-15",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/alzheimers-disease-brain-memory-loss.webp",
+    "coverAlt": "Conceptual editorial illustration of an older man holding a family photograph, with fading scenes of a lifetime behind him; an illustration of memory loss, not a documentary patient portrait",
+    "homepageImagePosition": "72% 20%",
+    "content": [
+      "An ordinary question can become a family’s first warning. What time are we leaving? An answer is given, understood and apparently forgotten. Minutes later, the question returns. The repetition alone cannot establish a diagnosis. But when familiar conversations, routes and responsibilities become steadily harder to hold together, something more than everyday distraction may be happening.",
+      "Alzheimer’s disease threatens abilities that help us recognize our lives as our own. That makes it frightening to discuss and easy to misrepresent. It is neither inevitable aging nor a simple emptying of a mental filing cabinet. It is a progressive disease of living brain cells, their connections and the systems that allow people to remember, interpret and act.",
+      "The title’s image of a brain forgetting its owner is a metaphor. A person with Alzheimer’s does not become less human as their abilities change. Understanding the biology matters; so does understanding the person who must live with it.",
+      "This article reflects evidence and regulatory information checked on September 15, 2026. Treatment approvals described below refer to the United States; availability and eligibility vary internationally. The supplied hero is a conceptual editorial illustration of memory loss, not a documentary portrait or a representation of every patient’s experience.",
+      "## Alzheimer’s, Dementia and Normal Aging Are Different",
+      "Dementia describes a syndrome: deterioration in thinking abilities severe enough to interfere with independent everyday life. Alzheimer’s is a disease that can cause that syndrome. Other causes include vascular disease, Lewy body disease and frontotemporal degeneration. More than one underlying disease can be present in the same brain.",
+      "The World Health Organization identifies Alzheimer’s as the most common form of dementia, potentially contributing to 60–70% of cases. The distinction matters because an explanation for memory loss should guide treatment, rather than every case being assumed to be Alzheimer’s. [WHO’s dementia overview](https://www.who.int/news-room/fact-sheets/detail/dementia) also emphasizes that dementia is not an inevitable consequence of aging.",
+      "Normal aging can mean slower recall, occasionally misplacing something or needing more time to learn unfamiliar information. More concerning patterns include repeatedly forgetting recent exchanges, becoming lost on familiar journeys or losing the ability to manage tasks that were previously routine. The issue is a change from that individual’s usual abilities, its persistence and its effect on daily life.",
+      "Memory problems also have other explanations, including depression, medication effects, sleep problems and certain medical conditions. Some are treatable. Neither an internet checklist nor a single forgotten name can determine the cause. [NIA’s guide to memory and aging](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/do-memory-problems-always-mean-alzheimers-disease) explains why assessment is more useful than assuming the worst.",
+      "## What Happens Inside the Brain?",
+      "### Memory Is a Network, Not a Box",
+      "A remembered birthday combines people, place, language, emotion and the sequence of an event. These elements depend on interacting brain systems. The hippocampus and nearby entorhinal cortex are especially important for forming and organizing new memories of experiences. They are often affected early in typical Alzheimer’s disease.",
+      "That helps explain why someone may describe an old event yet struggle to retain a conversation from this morning. It does not mean all older memories are permanently protected, or that every person follows the same sequence of losses. Different memory abilities rely on partly different circuits. Research increasingly examines how those circuits function, not just how much abnormal protein appears on a scan. A [2026 review of episodic memory in Alzheimer’s](https://www.nature.com/articles/s41582-026-01189-9) explores this circuit-based approach; proposed ways to repair or support those circuits remain a research direction, not a promise of recovered memories.",
+      "### Amyloid Plaques: A Hallmark, Not the Entire Explanation",
+      "Amyloid-beta is a protein fragment produced when a larger protein is broken down. In Alzheimer’s, abnormal accumulation includes plaques outside neurons. Smaller soluble assemblies are also under investigation for their effects on cell function. The disease cannot be explained simply as large lumps physically blocking thoughts.",
+      "Amyloid is biologically important, but a plaque measurement does not capture everything happening in a brain or tell us exactly how a person will function. The [National Institute on Aging’s explanation of brain changes](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-happens-brain-alzheimers-disease) describes interacting abnormalities rather than a single mechanical obstruction.",
+      "### Tau Tangles: Trouble Inside Neurons",
+      "Tau normally helps support structures called microtubules, part of a cell’s internal organization and transport system. In Alzheimer’s, abnormal changes in tau are associated with its detachment, misfolding and accumulation. Tangled aggregates develop inside neurons.",
+      "These changes disrupt much more than the storage of a particular name. They affect cellular transport, signaling and survival. Tau pathology also occurs in other diseases, so the word “tau” alone is not an Alzheimer’s diagnosis. Researchers are investigating different forms of tau, how abnormal tau spreads between connected regions and which processes might be interrupted safely. [A review of tau’s normal and pathological functions](https://www.nature.com/articles/s41580-024-00753-9) explains why this protein is both a biological necessity and a therapeutic challenge.",
+      "### When Connections and Support Systems Fail",
+      "Neurons communicate across junctions called synapses. Learning depends partly on adjusting the strength and organization of these connections. Alzheimer’s damages synaptic function and eventually destroys connections and neurons. Brain regions lose volume as degeneration advances. [Research on synaptic degeneration](https://www.nature.com/articles/s41582-022-00749-z) places the failure of communication networks at the center of cognitive decline.",
+      "Neurons are not acting alone. Microglia and other support cells help maintain brain tissue and respond to injury. Immune activity that is protective in one setting can become harmful when persistently altered. Blood-vessel problems and disrupted cellular metabolism can add further stress. A [major review of neuroinflammation](https://www.nature.com/articles/s41577-024-01104-7) describes these interacting processes and the experimental treatments targeting them.",
+      "This complexity explains why removing one abnormal protein does not automatically rebuild a damaged brain. Preserving a network, restoring its operation and reconstructing connections that have already been lost are different scientific problems.",
+      "## Can Alzheimer’s Begin Years Before Symptoms?",
+      "Yes. Measurable biological changes can begin a decade or more before obvious symptoms. This symptom-free period is often called preclinical Alzheimer’s. Biological disease and the clinical syndrome of dementia are therefore not interchangeable milestones.",
+      "Someone can have evidence of amyloid accumulation while continuing to function independently. A positive biomarker does not provide a reliable personal countdown to dementia. Age, other brain conditions and individual resilience influence the relationship between pathology and symptoms.",
+      "The Alzheimer’s Association’s [2024 diagnostic and staging criteria](https://www.alz.org/research/for_researchers/diagnostic-criteria-guidelines) recognize biological changes before symptoms, but do not support routine clinical testing of asymptomatic people outside research. Those criteria are also explicitly different from clinical practice guidelines. Being able to detect a process earlier does not, by itself, establish that screening everyone improves their lives.",
+      "## Early Warning Signs and the Stages of Disease",
+      "Memory difficulty is common early, especially difficulty retaining recent information. Other possible warning signs include increasing trouble with words, planning, judgment or understanding spatial relationships. Some people have atypical presentations in which language or visual processing is more prominent initially. A change should be evaluated in context, not diagnosed from one symptom.",
+      "Mild cognitive impairment, or MCI, means measurable difficulty beyond what is expected for the person while everyday independence is largely retained. It has several possible causes. Some people with MCI progress to dementia, while others remain stable or improve; MCI is not automatically Alzheimer’s.",
+      "When Alzheimer’s causes mild dementia, tasks such as managing finances, organizing medicines or navigating unfamiliar situations may require help. At a moderate stage, assistance increasingly extends to personal routines, communication and safety. Severe disease can bring profound dependence, limited communication and difficulty with basic activities, including eating and swallowing.",
+      "These stages describe broad patterns, not a timetable. People can have strengths and difficulties that cross stage boundaries, and the pace varies. [NIA’s symptom guide](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/what-are-signs-alzheimers-disease) explains the progression without assigning every person an identical course.",
+      "Alzheimer’s usually develops gradually. Sudden confusion, a rapid change in alertness or new neurological symptoms need prompt medical assessment. Delirium, stroke, infection or another acute problem can occur, including in someone who already has dementia. A sudden deterioration should not simply be accepted as the next stage of Alzheimer’s. [NIA’s dementia overview](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-dementia-symptoms-types-and-diagnosis) distinguishes these possibilities.",
+      "## Genetics, APOE and the Factors That Shape Risk",
+      "Increasing age is the strongest known risk factor, but younger adults can develop Alzheimer’s too. A family history raises concern without making the outcome inevitable. Most cases do not follow a simple pattern in which one inherited mutation determines the illness.",
+      "APOE helps produce a protein involved in transporting fats. Its common forms are called ε2, ε3 and ε4. APOE ε4 is associated with higher Alzheimer’s risk; two copies generally confer greater risk than one. APOE ε2 can be relatively protective. Neither a consumer genetic result nor the absence of ε4 can establish that a person will, or will not, develop dementia. Effects also vary across populations and ancestry backgrounds. [NIA’s genetics fact sheet](https://www.nia.nih.gov/health/alzheimers-disease-genetics-fact-sheet) explains those limits.",
+      "Research on people with two ε4 copies has identified a strong, relatively predictable association with Alzheimer’s biological abnormalities. A [2024 NIH summary of that research](https://www.nih.gov/news-events/nih-research-matters/study-defines-major-genetic-form-alzheimers-disease) describes evidence for a distinct genetic form, while noting that the study population was predominantly of European ancestry. Biological risk must still be distinguished from certainty about an individual’s symptoms and future.",
+      "Rare disease-causing variants in APP, PSEN1 or PSEN2 can produce inherited Alzheimer’s, often with symptoms before age 65. These uncommon families are different from the much broader group with a relative who developed dementia late in life. Specialist genetic counseling can clarify what testing would mean for the person and their relatives. [NIA’s overview of causes](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) also explains the increased risk associated with Down syndrome.",
+      "Vascular and metabolic health matter as well. High blood pressure, diabetes and smoking can damage the conditions on which a healthy brain depends. Hearing loss, social isolation and other potentially modifiable exposures also feature in dementia research. Risk emerges across a lifetime; it is not a moral scorecard, and a diagnosis is not evidence that someone failed to live correctly.",
+      "## How Alzheimer’s Is Diagnosed Today",
+      "### The Person’s History Still Comes First",
+      "An assessment begins with what changed, when it changed and how it affects daily life. Clinicians combine the person’s account with information from someone who knows them well, when appropriate, and review medicines, physical health, mood, sleep and functional abilities. Cognitive tests examine several abilities rather than memory alone.",
+      "Blood tests can identify contributors such as thyroid dysfunction or vitamin deficiency. A neurological examination and brain imaging help investigate other explanations. Test performance must be interpreted with attention to language, education and sensory difficulties. The [Alzheimer’s Association diagnostic guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC11772716/) treats diagnosis as an integrated clinical process, not a score on a short quiz.",
+      "### MRI, PET and Cerebrospinal Fluid Answer Different Questions",
+      "MRI or CT can reveal structural changes, strokes or other abnormalities. Atrophy can support an assessment but is not, by itself, specific proof of Alzheimer’s. Amyloid PET uses a tracer to detect amyloid deposits; tau PET examines a different disease marker. Cerebrospinal fluid, obtained through a lumbar puncture, can be tested for characteristic amyloid and tau patterns.",
+      "These are different windows onto the disease. A structural scan does not perform the same job as a molecular scan, and detecting a protein is different from assessing someone’s ability to cook, work or communicate. [NIA’s biomarker guide](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-biomarkers-help-diagnose-dementia) explains the distinction.",
+      "### Blood Biomarkers Are Changing Access, With Important Limits",
+      "In May 2025, the FDA cleared the first blood test to help diagnose Alzheimer’s: the Lumipulse G pTau217/β-Amyloid 1-42 Plasma Ratio. Its intended population includes adults aged 55 and older with signs and symptoms of the disease. It helps assess amyloid pathology; it does not directly measure a person’s memories.",
+      "The [FDA’s announcement](https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease) explicitly says it is not intended for screening or as a standalone diagnostic test. False results and uncertain findings can have consequences, so clinical evaluation remains essential.",
+      "The Alzheimer’s Association’s [2025 blood-biomarker guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC12306682/) applies to people with objective cognitive impairment in specialized care. Depending on validated performance, a test may help decide who needs further testing, or serve a confirmatory role in the appropriate setting. Commercial tests are not interchangeable simply because they measure a similarly named protein. The meaningful advance is a more accessible diagnostic tool used correctly, not a universal home test for destiny.",
+      "## Current Treatments: What They Can and Cannot Achieve",
+      "### Medicines That Help Symptoms",
+      "Donepezil, rivastigmine and galantamine are established cholinesterase inhibitors. They influence a chemical signaling system important for cognition and can provide symptomatic benefit for some people. Benzgalantamine is another approved option that is converted to galantamine in the body. Memantine works through a different signaling pathway and is used for moderate to severe Alzheimer’s.",
+      "These medicines do not remove the underlying disease or reliably halt its progression. Benefits and side effects vary, so clinicians review whether a treatment is helping and remains appropriate. [NIA’s treatment guide](https://www.nia.nih.gov/health/how-alzheimers-disease-treated) distinguishes symptomatic medicines from disease-modifying therapies. Neither category currently provides a cure.",
+      "Care also includes treating other illnesses, adapting daily routines and addressing distress. A [September 2026 review](https://www.nature.com/articles/s41582-026-01260-5) emphasizes that symptomatic treatment and personalized non-drug support remain important even as newer biological treatments arrive. An advance in one area does not make ordinary, attentive care obsolete.",
+      "### Anti-Amyloid Drugs: Slowing Decline Is Not Reversing It",
+      "Lecanemab, marketed as Leqembi, and donanemab, marketed as Kisunla, are antibodies directed against amyloid. In the United States, treatment is initiated in the early symptomatic stages studied in trials: MCI or mild dementia due to Alzheimer’s, with amyloid pathology confirmed. They are not established treatments for advanced dementia or general-purpose prevention for healthy people.",
+      "In the 18-month Clarity AD trial, the average worsening on the Clinical Dementia Rating–Sum of Boxes scale was 1.21 points with lecanemab and 1.66 with placebo. That is a 0.45-point difference on an 18-point scale, commonly expressed as approximately 27% less decline relative to placebo. Both groups worsened on average. It does not mean memories improved by 27%, or that every treated individual gained the same amount of time. [Clarity AD, New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2212948).",
+      "In the 76-week TRAILBLAZER-ALZ 2 trial, donanemab produced a 0.70-point smaller worsening on the same scale in the combined study population, about 29% relative slowing. Other outcomes and the subgroup with lower tau burden produced different percentages. Those numbers should not be mixed together or used as a head-to-head comparison with lecanemab: the trials enrolled different populations and used different designs. [TRAILBLAZER-ALZ 2, JAMA](https://jamanetwork.com/journals/jama/fullarticle/2807533).",
+      "For a family, the hope is to preserve useful functioning longer. Average trial differences cannot promise that a particular milestone will be delayed for a particular patient. The practical value must be weighed alongside medical risk, treatment burden, access and the person’s priorities.",
+      "### Brain Swelling, Bleeding and the Need for Monitoring",
+      "Both drugs can cause amyloid-related imaging abnormalities, or ARIA. These include swelling and bleeding-related changes in the brain. Some are found on MRI without symptoms; others can be serious or fatal. People with two APOE ε4 copies have higher ARIA risk. Existing brain bleeding, suspected cerebral amyloid angiopathy and anticoagulant use require particular attention during specialist assessment. The [FDA prescribing information for Kisunla](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761248s004lbl.pdf) describes these risks and the need to confirm eligibility and monitor treatment.",
+      "For lecanemab, the FDA strengthened early MRI monitoring in 2025 after reviewing serious ARIA cases. New headache, confusion, visual changes, difficulty walking, seizures or other neurological symptoms during treatment require urgent medical advice. Scheduled imaging remains important even when a patient feels well. [FDA’s lecanemab safety communication](https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab).",
+      "Treatment delivery is evolving. On July 13, 2026, the FDA announced approval of an under-the-skin starting regimen for Leqembi, allowing eligible patients to begin treatment at home with administration by themselves or a caregiver. Earlier approval had limited this route to maintenance after intravenous treatment. This [2026 FDA update](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-home-starting-dose-alzheimers-disease-treatment) changes administration options; it does not remove the need for clinical selection, training and monitoring, or turn the medicine into a cure.",
+      "## Can Lifestyle Changes Reduce Risk?",
+      "Risk reduction is a credible public-health goal. Guaranteed prevention is a different claim, and the evidence does not support it. WHO’s [second-edition risk-reduction guidelines, published in July 2026](https://www.who.int/publications/i/item/9789240123557), address healthy behaviors, relevant medical conditions, environmental exposures and tailored combinations of interventions.",
+      "The practical direction is to support cardiovascular health, stay physically active within one’s abilities, avoid smoking, maintain social participation and address treatable health problems. Access to hearing and vision care also matters. These measures have broader benefits even when an individual’s future Alzheimer’s risk cannot be precisely calculated.",
+      "The 2024 Lancet Commission estimated that 14 potentially modifiable factors together account for approximately 45% of dementia cases at a population level. This is a modeled estimate of potentially preventable or delayable dementia, not proof that an individual can cut their Alzheimer’s risk by 45%, and not a claim that all dementia can be prevented. The factors include less education, hearing loss, high LDL cholesterol, depression, head injury, physical inactivity, diabetes, smoking, hypertension, obesity, excessive alcohol use, social isolation, air pollution and untreated vision loss. [The Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0).",
+      "Randomized evidence is also developing. The 2025 US POINTER trial compared structured and self-guided multidomain lifestyle programs in older adults at increased risk. Both groups improved on a cognitive composite over two years; the structured group improved modestly more. The difference in annual change was 0.029 standard deviations. This supports a cognitive benefit from the structured program, but does not establish that it prevents Alzheimer’s dementia. [US POINTER, JAMA](https://jamanetwork.com/journals/jama/fullarticle/2837046).",
+      "No supplement, brain-training app or “detox” should be presented as a proven cure. A healthier life can support the brain without granting immunity from disease. PRESDA’s examination of [whether human aging can be slowed](/articles/anti-aging-can-we-slow-down-human-aging/) explores the wider challenge of distinguishing promising biology from commercial promises.",
+      "## Do People Know They Are Forgetting?",
+      "Sometimes, very clearly. A person may notice mistakes, fear losing independence and experience grief about abilities that once felt effortless. At other times, awareness is incomplete or substantially impaired. The experience varies across people and over the course of illness.",
+      "Anosognosia is a neurological difficulty recognizing one’s own impairment. It is not simply refusing to admit an uncomfortable fact. Someone may sincerely believe they are managing well because the systems needed to assess their performance are themselves affected. The [Alzheimer’s Association’s explanation of anosognosia](https://www.alz.org/alzheimers-dementia/what-is-dementia/related_conditions/anosognosia) describes why confrontation often fails to resolve this problem.",
+      "This creates a painful mismatch: relatives may see danger while the person sees an unnecessary loss of freedom. Care needs to take both safety and dignity seriously. A professional assessment can help families support decisions and manage risk without turning every interaction into an argument about who remembers correctly.",
+      "## Personality, Language and Recognition",
+      "Alzheimer’s can alter motivation, emotional regulation and social behavior. A previously outgoing person may withdraw; another may become anxious, suspicious or easily overwhelmed. These changes are not a revelation of a hidden “true character.” Brain disease, environmental demands and unmet needs can all shape behavior.",
+      "Difficulty finding words may progress to problems following conversation or expressing needs. Losing the ability to identify a familiar face can be especially distressing for families. Recognition, naming, emotional response and the ability to explain a relationship are related but distinct abilities; a failed answer does not tell us everything about an interaction.",
+      "Communication can adapt. Speak directly to the person, allow time, reduce competing noise and use manageable sentences. Gestures, facial expression and a calm tone can help when words become difficult. Avoid treating a visit as an examination of names and dates. The [Alzheimer’s Association’s communication guidance](https://www.alz.org/help-support/caregiving/daily-care/communications) emphasizes listening and including the person throughout the illness.",
+      "New distress also deserves investigation. Pain, illness, fatigue or an overstimulating setting may be contributing. Calling every difficult moment “the dementia” risks overlooking needs that can still be addressed. [NIA’s resources on behavior and communication](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication) provide further guidance.",
+      "## Caregivers and Families Need Care Too",
+      "The practical work expands quietly: appointments, meals, transport, medication checks, supervision and interrupted nights. Emotional work accompanies it. Families can grieve changes in a relationship while still sharing meaningful moments within it. Exhaustion and affection can exist at the same time.",
+      "Care should be organized around more than the endurance of one relative. Shared responsibilities, respite services, support groups and professional help can protect both the person with dementia and those supporting them. [NIA’s caregiver guidance](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) treats the caregiver’s health as part of sustainable care, rather than an optional extra.",
+      "Planning early allows the person to express preferences about daily life, future care and who should help with decisions. A diagnosis does not automatically remove the ability to make all decisions; support and capacity need to be considered in context. [Planning after a dementia diagnosis](https://www.nia.nih.gov/health/legal-and-financial-planning-people-alzheimers) can make later choices less uncertain.",
+      "Families also need systems that make good care possible: understandable information, accessible services and realistic support. Technology may assist some tasks, as explored in PRESDA’s coverage of [AI and elder care in Japan](/articles/japan-enters-ai-care-era/), but human attention cannot be reduced to a monitoring device.",
+      "## The Research Frontier—and Why There Is Still No Cure",
+      "The clearest established advance is that certain anti-amyloid treatments can alter the rate of decline in selected patients, while biomarkers can improve detection of the underlying biology. The unsettled questions include how much benefit persists over longer periods, which people benefit most and how to reduce treatment risks and unequal access.",
+      "The [2026 Alzheimer’s drug-development pipeline review](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70251) describes research extending beyond amyloid to tau, inflammation, metabolism and other biological targets. Combination approaches and treatment earlier in the disease process are important directions. A drug’s presence in a trial means its value is being tested, not that it is effective.",
+      "Prevention research faces a particular difficulty: an intervention may need to be studied for years in people who are currently functioning well. A lower biomarker level is encouraging only if it ultimately connects to outcomes that matter, with acceptable harms. Animal experiments, early human safety studies, randomized clinical results and regulatory approval are different levels of evidence.",
+      "There is still no cure because Alzheimer’s is not one isolated malfunction that can simply be switched off. Protein abnormalities interact with cell damage, immune responses, vascular health and aging. By the time symptoms are evident, substantial changes may already exist. Clearing a target does not necessarily restore lost circuitry, and coexisting diseases can continue to impair function.",
+      "This does not mean research has achieved nothing. It means progress must be described at its actual scale: earlier detection, measurable but limited treatment effects, better support and new hypotheses that still need rigorous testing. The [history of medical progress](/articles/history-future-of-medicine/) contains many advances built through such incomplete steps.",
+      "## Alzheimer’s: Myths vs Reality",
+      "### “Dementia Is Just Getting Old”",
+      "Age raises risk, but disabling cognitive decline is not an inevitable or normal requirement of aging. Alzheimer’s is one cause of dementia, not another word for every memory complaint.",
+      "### “If I Carry APOE ε4, My Future Is Decided”",
+      "APOE affects risk and can inform treatment-safety discussions. It cannot give every individual a certain clinical future. Rare inherited disease-causing variants require a different genetic discussion.",
+      "### “A Blood Test Can Diagnose Anyone on Its Own”",
+      "Validated biomarkers can strengthen a diagnosis in appropriate patients. They must be interpreted alongside symptoms and clinical findings; a general screening promise goes beyond the intended use of the first FDA-cleared test.",
+      "### “New Drugs Bring Back Lost Memories”",
+      "Anti-amyloid trial results show less average worsening in selected people with early disease. They do not demonstrate restored memory, universal benefit or a cure, and their risks require careful assessment.",
+      "### “A Healthy Lifestyle Guarantees Prevention”",
+      "Risk reduction can help populations and support individual health. It does not eliminate uncertainty, and illness must not become a basis for blaming patients or their families.",
+      "### “If Someone Cannot Recognize Me, My Visit No Longer Matters”",
+      "A person’s ability to name a visitor is not a complete measure of what they can feel or experience. Respectful company, reassurance and comfort can still matter even when later recall is limited.",
+      "## If Memory Disappears, Does the Person Disappear Too?",
+      "Science can examine particular abilities and the networks supporting them. It cannot turn a memory-test score into a measure of human worth. Autobiographical memory is central to how many of us understand ourselves, but dignity does not depend on accurately recounting a life.",
+      "There is also a narrower scientific reason to avoid equating forgotten events with an absence of feeling. In a small 2014 study, 17 people with probable Alzheimer’s watched emotionally evocative film clips. Feelings could persist even when their memory for the clips was severely impaired. [“Feelings Without Memory in Alzheimer Disease”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4175156/) does not prove that emotion remains untouched at every stage; it shows why recall and emotional experience should not be treated as identical.",
+      "A familiar song may invite engagement. A gentle interaction may bring comfort. A difficult encounter may leave distress that the person cannot explain. No single response is guaranteed, and families should not feel they have failed when a hoped-for moment of recognition does not arrive.",
+      "Alzheimer’s can profoundly change a life and a relationship. Being honest about those losses is compatible with continuing to address, include and care for the person who is present. The ethical answer is not that nothing changes. It is that change does not cancel the responsibility to treat someone as a person.",
+      "The work of science is to understand what can be preserved, treated and eventually prevented. The work of care is already here: to make life safer, more comfortable and more connected while that research continues. When memory becomes unreliable, another person’s patience should not have to be."
+    ],
+    "references": [
+      {
+        "name": "NIH/NIA: Alzheimer’s disease overview",
+        "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet"
+      },
+      {
+        "name": "NIH/NIA: brain changes, amyloid and tau",
+        "url": "https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-happens-brain-alzheimers-disease"
+      },
+      {
+        "name": "NIH/NIA: genetics and APOE",
+        "url": "https://www.nia.nih.gov/health/alzheimers-disease-genetics-fact-sheet"
+      },
+      {
+        "name": "Alzheimer’s Association: diagnostic evaluation guideline",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11772716/"
+      },
+      {
+        "name": "FDA: first cleared Alzheimer’s blood test, 2025",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease"
+      },
+      {
+        "name": "Alzheimer’s Association: blood-biomarker clinical guideline, 2025",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12306682/"
+      },
+      {
+        "name": "NEJM: Clarity AD lecanemab trial",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2212948"
+      },
+      {
+        "name": "JAMA: TRAILBLAZER-ALZ 2 donanemab trial",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2807533"
+      },
+      {
+        "name": "FDA: Kisunla prescribing information and ARIA warnings",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761248s004lbl.pdf"
+      },
+      {
+        "name": "FDA: strengthened lecanemab MRI monitoring",
+        "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab"
+      },
+      {
+        "name": "FDA: at-home starting regimen for Leqembi, July 2026",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-home-starting-dose-alzheimers-disease-treatment"
+      },
+      {
+        "name": "WHO: dementia risk-reduction guidelines, second edition, 2026",
+        "url": "https://www.who.int/publications/i/item/9789240123557"
+      },
+      {
+        "name": "The Lancet: 2024 dementia prevention, intervention and care Commission",
+        "url": "https://doi.org/10.1016/S0140-6736(24)01296-0"
+      },
+      {
+        "name": "JAMA: US POINTER lifestyle trial, 2025",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2837046"
+      },
+      {
+        "name": "Alzheimer’s & Dementia: 2026 drug-development pipeline",
+        "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70251"
+      },
+      {
+        "name": "Nature Reviews Neurology: symptomatic treatment, September 2026",
+        "url": "https://www.nature.com/articles/s41582-026-01260-5"
+      },
+      {
+        "name": "Alzheimer’s Association: anosognosia",
+        "url": "https://www.alz.org/alzheimers-dementia/what-is-dementia/related_conditions/anosognosia"
+      },
+      {
+        "name": "Cognitive and Behavioral Neurology: Feelings Without Memory, 2014",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4175156/"
+      },
+      {
+        "name": "NIH/NIA: support for caregivers",
+        "url": "https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself"
+      }
+    ],
+    "tags": [
+      "Alzheimer’s disease",
+      "Alzheimer’s symptoms",
+      "Alzheimer’s causes",
+      "memory loss",
+      "dementia",
+      "Alzheimer’s treatment",
+      "amyloid",
+      "tau",
+      "brain health",
+      "caregiving",
+      "Science"
+    ],
+    "readingTime": "20 min read",
+    "status": "published"
+  },
+  {
     "id": "077",
     "slug": "muhammad-ali-fighter-bigger-than-boxing",
     "title": "MUHAMMAD ALI: THE FIGHTER WHO BECAME BIGGER THAN BOXING",
