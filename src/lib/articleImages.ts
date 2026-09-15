@@ -40,3 +40,12 @@ export function getArticleHeroImagePosition(article: Pick<Article, "slug" | "hom
       return article.homepageImagePosition;
   }
 }
+
+export function getArticleDesktopHeroImagePosition(article: Pick<Article, "slug">) {
+  switch (article.slug) {
+    case "epstein-island-little-st-james-investigation":
+      return "50% 68%";
+    default:
+      return undefined;
+  }
+}

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import type { CSSProperties } from "react";
 import type { Article } from "@/data/articles";
 import { ArticleReadingProgress } from "@/components/ArticleReadingProgress";
 import { HeadlineText } from "@/components/HeadlineText";
@@ -16,7 +17,7 @@ import {
   getArticleLastUpdated,
   getArticleSections
 } from "@/lib/articleSeo";
-import { getArticleHeroImagePosition } from "@/lib/articleImages";
+import { getArticleDesktopHeroImagePosition, getArticleHeroImagePosition } from "@/lib/articleImages";
 import { toAuthorSlug } from "@/lib/authors";
 import { categoryLabels, formatDate, toCategorySlug } from "@/lib/categories";
 
@@ -508,6 +509,12 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   const articleContent = getArticleContentWithoutInlineFaq(article);
   const lastUpdated = getArticleLastUpdated(article);
   const articleHeroHighlights = articleHeroHighlightOverrides[article.slug] ?? article.headlineHighlights;
+  const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
+  const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
+  const heroImageStyle = {
+    "--article-hero-image-position": heroImagePosition,
+    "--article-hero-image-position-desktop": desktopHeroImagePosition
+  } as CSSProperties;
 
   return (
     <main className="home-page">
@@ -531,8 +538,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
             priority
             quality={82}
             sizes="(max-width: 1500px) 100vw, 1500px"
-            className="object-cover object-center"
-            style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 50%" }}
+            className="article-hero-image object-cover"
+            style={heroImageStyle}
           />
           <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
           <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
