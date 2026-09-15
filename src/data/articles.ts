@@ -54,6 +54,344 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "081",
+    "slug": "diego-maradona-genius-napoli-life-death-legacy",
+    "title": "DIEGO MARADONA: THE GENIUS, THE MADNESS AND THE TRAGIC END OF A FOOTBALL GOD",
+    "seoTitle": "Diego Maradona: Biography, Napoli, 1986 & His Death | PRESDA",
+    "metaDescription": "Diego Maradona’s life from Villa Fiorito to Napoli and 1986: genius, addiction, Ferrari myths, his death and the medical trial’s September 2026 status.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "DIEGO MARADONA",
+      "gold": "A FOOTBALL GOD"
+    },
+    "excerpt": "From Villa Fiorito to the summit of world football, Diego Maradona became the soul of Argentina and Naples. His life joined extraordinary skill with addiction, dangerous fame and a death whose medical care remains under legal scrutiny.",
+    "category": "Sport",
+    "date": "2026-09-16",
+    "lastUpdated": "2026-09-16",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/diego-maradona-genius-napoli-life-death-legacy.webp",
+    "coverAlt": "Cinematic editorial reconstruction of Diego Maradona in an Argentina shirt with Naples and scenes from his football career; not a documentary photograph of one moment",
+    "homepageImagePosition": "70% 15%",
+    "content": [
+      "On a football field, Diego Maradona could make a crowded space look briefly empty. A defender leaned one way; his left foot took the ball the other. For a moment, the limits that governed everyone else seemed negotiable.",
+      "Away from the field, those limits returned. Talent did not protect him from addiction. Money did not guarantee independence. Adoration could fill a stadium without providing the quieter things a vulnerable person needed.",
+      "His biography moves between those realities: a boy from Villa Fiorito, a world champion in Mexico, a symbol of Naples, a celebrity surrounded by expensive possessions and dangerous company, and an increasingly fragile man whose death became the subject of a criminal investigation. Understanding Diego Maradona means allowing all of those lives into the same story.",
+      "**Editorial note:** The supplied hero is a cinematic editorial reconstruction combining Maradona and scenes associated with his career. It is not a documentary photograph of one moment. Legal developments below were checked on September 16, 2026, against reporting through September 15; the proceedings remain unresolved in those reports.",
+      "## VILLA FIORITO: A CHILDHOOD BEFORE THE MYTH",
+      "Diego Armando Maradona was born on October 30, 1960, at the Evita hospital in Lanús, in the Buenos Aires metropolitan area. He grew up in Villa Fiorito. The distinction matters: the neighborhood that shaped him was not the hospital location on his birth record. The Argentine Football Association commemorates both his origins and the extraordinary career that followed. [AFA: remembering Maradona’s birth](https://www.afa.com.ar/app/posts/el-recuerdo-eterno-del-futbol-argentino-para-el-diego).",
+      "His family lived with severe material constraints. His father worked to support a large household; football offered the young Diego pleasure, recognition and eventually a route into a different economic world. Reuters’s obituary places those humble beginnings alongside the wealth and instability that came later. [Reuters: a life between triumph and turmoil](https://www.investing.com/news/general/obituary-argentine-soccer-genius-maradona-saw-heaven-and-hell-2356074).",
+      "Poverty should not become decorative scenery in a story about genius. Villa Fiorito was a community where people worked, raised children and negotiated deprivation, not simply a picturesque starting line for a future millionaire. Nor does hardship automatically produce exceptional talent. Maradona’s ability was unusual; the limited opportunities around him were not.",
+      "The boy who emerged from that environment never entirely stopped representing it in the public imagination. Supporters could see his rise as evidence that someone from the margins might enter the most exclusive rooms without accepting their judgment of where he belonged. That identification would travel with him to southern Italy.",
+      "## ARGENTINOS JUNIORS, ARGENTINA AND BOCA",
+      "Maradona’s development at Argentinos Juniors brought his skill into organized football. On October 20, 1976, still 15, he made his first-team debut against Talleres. The date places his professional arrival ten days before his sixteenth birthday. His emergence was rapid, but it was a process of training and competition, not a fully formed adult career appearing from nowhere. [AFA: the early rise of Diego Maradona](https://www.afa.com.ar/5470/posts/nacimiento-maradon).",
+      "Argentina gave him his senior international debut against Hungary in February 1977, when he was 16. He was left out of the squad for the 1978 World Cup, then became a central figure in Argentina’s victory at the 1979 World Youth Championship in Japan. The disappointment and the youth title belong together: even this prodigy encountered a national team that did not immediately organize itself around him. [FIFA: Maradona at 60](https://inside.fifa.com/news/happy-60th-maradona), [FIFA: Maradona’s youth World Cup](https://www.fifa.com/es/articles/maradona-mundial-juvenil).",
+      "In 1981 he joined Boca Juniors and helped win the Metropolitano championship. Boca’s own retrospective records 17 goals in 28 appearances during that title campaign. At La Bombonera, his gifts acquired another powerful setting: a club where football, neighborhood identity and intense emotional allegiance were already inseparable. [Boca Juniors: Diego becomes a champion](https://www.bocajuniors.com.ar/noticias/diego-campeon).",
+      "The move did not erase Argentinos Juniors from his story. One club developed him; another became a lasting public expression of his loyalties. The familiar image of Maradona as simply a Boca product skips the years that made that transfer possible.",
+      "## BARCELONA: BRILLIANCE INTERRUPTED",
+      "Barcelona signed him in June 1982. His two seasons in Spain contained trophies and remarkable performances, but also long interruptions. Hepatitis sidelined him; a challenge by Athletic Bilbao’s Andoni Goikoetxea broke his ankle in 1983. His Barcelona farewell was further damaged by the mass brawl after the 1984 Copa del Rey final against Athletic. [FC Barcelona: the Maradona years](https://www.fcbarcelona.com/en/football/first-team/news/1615168/the-big-read-maradona-the-fc-barcelona-years/featured).",
+      "The club’s player archive records 38 goals in 58 official matches. Those figures complicate the simple idea that his Barcelona spell was a footballing failure. He could be productive and mesmerizing while the broader relationship deteriorated. Health, violent challenges, disciplinary trouble and institutional tension all interrupted the possibility of continuity. [FC Barcelona: official player record](https://players.fcbarcelona.com/en/player/501-maradona-diego-armando-maradona-franco).",
+      "His departure illustrates an important distinction in his biography: a player could be extraordinary without making every environment work. Barcelona had acquired a superstar; it did not become the place most closely identified with his emotional or sporting peak.",
+      "That place was waiting farther south.",
+      "## NAPOLI: WHEN A CITY RECOGNIZED ITSELF",
+      "Maradona arrived at Napoli in 1984 and remained until 1991. The transformation associated with those years was concrete: the club won its first Serie A championship in 1987, another in 1990 and the UEFA Cup in 1989. These were achievements against established powers, not ceremonial victories granted to a beloved celebrity. [UEFA: Naples remembers Maradona](https://www.uefa.com/news-media/news/0263-10f1fecd826a-620d5ad4272d-1000--naples-remembers-maradona/).",
+      "Naples’s attachment to him cannot be explained through a league table alone. Southern Italian identity carried the weight of economic inequality and contempt from elsewhere in the country. Beating wealthy northern clubs could therefore feel like a public answer to social humiliation. Maradona’s own background made that identification unusually persuasive: he could be celebrated as a world star and still seem to belong to people who felt looked down upon.",
+      "That reading should not turn every Italian match into a single political allegory. Supporters had different motives, and Napoli’s opponents were football teams rather than interchangeable symbols. Nevertheless, the rivalry with Milan became one of the defining contests of the era. UEFA’s historical account places their competing teams at the center of Italian football’s late-1980s power struggle. [UEFA: when Milan and Napoli ruled Italy](https://www.uefa.com/news/0253-0d7bc9881aaf-ce043045587c-1000--when-milan-and-napoli-ruled-italy/).",
+      "### How he changed the team",
+      "Maradona gave Napoli a player who could advance the ball, draw defenders and deliver the decisive pass within the same move. Opponents could not treat him solely as a scorer or solely as a creator. Concentrating on him opened room for teammates; leaving him room risked something worse.",
+      "But the idea that he won championships alone diminishes the football around him. Napoli assembled a serious side, with players such as Ciro Ferrara, Fernando De Napoli, Careca and Alemão contributing across the successful period. The 1989 UEFA Cup winners were a collective, even if one individual gave their story its most recognizable face. [UEFA: Napoli’s 1989 European triumph](https://www.uefa.com/uefaeuropaleague/news/0220-0e900e20b899-617d991b0678-1000--snap-shot-maradona-s-napoli-reign-supreme/).",
+      "Napoli’s own season history records the second league championship in 1989–90. That repeat mattered: it made the first title part of a sustained challenge rather than an isolated miracle. The bond between player and city survived his departure and his scandals; after his death, the stadium took his name. [SSC Napoli: the 1989–90 season](https://sscnapoli.it/storia/stagione-1989-1990/), [SSC Napoli: stadium history](https://sscnapoli.it/en/history-of-the-stadium/).",
+      "## MEXICO 1986: TWO GOALS, TWO TRUTHS",
+      "On June 22, 1986, Argentina met England in a World Cup quarter-final at the Azteca Stadium. Maradona scored both goals in a 2–1 victory. The first became the Hand of God; the second became the Goal of the Century. Their proximity is essential to the story: the same match contained an illegal act that officials missed and a passage of skill that opponents could not stop. [AFA: the Hand of God and the Goal of the Century](https://www.afa.com.ar/8425/posts/el-gol-del-siglo-y-la-mano-de-dios).",
+      "The first goal was a handball. Its enduring nickname does not alter that fact. Admiration for Maradona does not require pretending the decision was correct, just as acknowledging the offense does not make the second goal less remarkable.",
+      "For that second goal, he received the ball in his own half and drove through England’s defense before beating goalkeeper Peter Shilton. What makes the footage so compelling is the sequence of decisions: each touch solved the next problem while preserving speed and balance. The run looks spontaneous because the adjustments happen too quickly to announce themselves. FIFA’s archive preserves it as a central image of his career. [FIFA: images of a unique career](https://inside.fifa.com/tournaments/mens/worldcup/1986mexico/news/diego-maradona-images-of-a-unique-career).",
+      "### Why that World Cup defined him",
+      "Maradona finished the tournament with five goals and five assists and received the Golden Ball as its outstanding player. He scored both goals against Belgium in the semi-final and supplied the pass for Jorge Burruchaga’s winner in the final against West Germany. Argentina won that final 3–2. His influence extended from carrying possession to deciding matches, with teammates converting the openings he created. [FIFA: Maradona’s Mexican masterpiece](https://inside.fifa.com/tournaments/mens/worldcup/1986mexico/news/watch-maradona-s-mexican-masterpiece).",
+      "The tournament gave later generations a compact argument for his greatness. There were individual goals, creative responsibility, captaincy and the ultimate team trophy, all concentrated into a few weeks. Yet reducing 1986 to a one-man victory removes the defensive work, tactical structure and finishing of an entire squad. His exceptional influence is more convincing when it does not depend on making everyone else disappear.",
+      "That distinction also explains why the tournament remains open to interpretation. Some remember the handball first; others remember the dribble. A balanced account has to hold both images without editing either out.",
+      "## WHY DEFENDERS STRUGGLED TO STOP HIM",
+      "Maradona combined close control with the strength to protect possession. His low center of gravity helped him change direction, while repeated small touches kept the ball available for the next action. He could invite a challenge without surrendering control of what followed. FIFA’s collection of his World Cup dribbles shows variations on that problem across different opponents and tournaments. [FIFA: Maradona’s World Cup dribbles](https://www.fifa.com/en/articles/dribbles-diego-maradona-1982-1986-1990-1994).",
+      "His vision made the problem larger. A defender moving toward him could expose a passing lane; one holding position could allow him to advance. The dribble was not always an end in itself. It could change the geometry of a move so that a teammate received the ball with more time or a clearer route to goal.",
+      "There was also a physical cost. FIFA records 53 fouls suffered by Maradona at the 1986 World Cup. That statistic is a useful corrective to the idea that his highlights happened in a space free of resistance. Opponents repeatedly interrupted him, sometimes because a legal challenge was difficult to execute before the ball had moved again. [FIFA: Maradona and the fouls record](https://www.fifa.com/en/tournaments/mens/worldcup/articles/diego-maradona-argentina-most-fouled-player-record).",
+      "Leadership, in his case, was not simply a matter of giving instructions. Taking responsibility for possession under pressure could itself change teammates’ expectations. It offered the reassurance that someone wanted the ball when the game became frightening.",
+      "## ITALIA 1990: ARGENTINA, NAPLES AND DIVIDED LOYALTIES",
+      "Four years later, Argentina reached another World Cup final. The semi-final against Italy took place in Naples, placing Maradona at the center of an unusually personal conflict: the hero of the local club was now trying to eliminate the host nation. Argentina advanced on penalties after a 1–1 draw. [FIFA: the day Naples belonged to Argentina](https://ipt.fifa.com/news/dia-que-napoles-fue-argentina-2278635).",
+      "The occasion made visible a tension that had always been present. Club devotion, national belonging and regional identity did not necessarily point in the same direction. It would be misleading to say that all Naples supported Argentina. The significance was that the question could be asked at all.",
+      "In the final, West Germany beat Argentina 1–0. The defeated captain’s tears became another enduring image: the player who had seemed to command a tournament in 1986 could not bend this ending to his will. His Argentina relationship contained that loss as well as victory. Across his senior international career, AFA records 91 appearances and 34 goals. [FIFA: Maradona’s World Cup journey](https://inside.fifa.com/news/happy-60th-maradona), [AFA: Maradona’s international record](https://www.afa.com.ar/Futbol/posts/recordado-triplete-de-maradona).",
+      "## THE BLACK FERRARI: LEGEND VS REALITY",
+      "Maradona’s celebrity generated stories almost as quickly as football generated headlines. Few are more persistent than the demand for a black Ferrari while he was at Napoli.",
+      "The defensible core is that Maradona had a black Ferrari Testarossa. In agent Guillermo Coppola’s retellings, arranging the car became an exercise in satisfying an exceptional client; Napoli president Corrado Ferlaino was persuaded to fund it as a gift. La Gazzetta dello Sport recounts the story through Coppola and gives a million-dollar total. That is a reported anecdote, not a publicly reproduced purchase invoice. [La Gazzetta dello Sport: Coppola’s black Testarossa story](https://www.gazzetta.it/motori/la-mia-auto/06-05-2022/maradona-ferrari-testarossa-nera-racconto.shtml).",
+      "Other accounts describe a $430,000 car and a $130,000 amount associated with the special color. Those figures cannot responsibly be fused into one supposedly verified transaction. The price varies with the telling, and contemporary accounting documentation has not been established by the sources cited here. It is more accurate to explain the disagreement than to select whichever number sounds most extravagant. [GQ: the Napoli Testarossa account](https://www.revistagq.com/la-buena-vida/articulo/maradona-napoles-ferrari-testarossa-historia).",
+      "The model itself is less mysterious. The original Testarossa appeared in 1984 and used a roughly 4.9-liter, 180-degree twelve-cylinder engine. Ferrari’s own history identifies its debut; contemporary model documentation distinguishes its engineering from the later F40. These are model specifications, not proof of special mechanical changes to Maradona’s individual car. [Ferrari: the Testarossa’s 1984 debut](https://www.ferrari.com/en-LU/history/moments/1984/masterpiece-of-style/more), [SEC-filed Testarossa model documentation](https://www.sec.gov/Archives/edgar/data/1688804/000168880418000027/253g2.htm).",
+      "### The red F40 that entered the same story",
+      "Maradona’s later Ferrari F40 was red. El Motor’s examination points to photographs and video, while noting that popular versions move details between the F40 and the black Testarossa. One chronological warning is decisive: the F40 was introduced in 1987, so an account placing its delivery around the 1986 World Cup has a problem. [El Motor: separating the two Ferraris](https://motor.elpais.com/supercoches/ferrari-negro-de-maradona-mito-o-realidad/amp/).",
+      "Ferrari’s F40 archive identifies a different machine, with a 2.9-liter engine rather than the Testarossa’s twelve-cylinder unit. Treating the two names as interchangeable turns an already embellished celebrity anecdote into a technical error. [Ferrari: the 1987 F40](https://www.ferrari.com/en-EC/history/garage/1987/f40).",
+      "There is no sound basis here for calling Maradona’s car the first black Ferrari ever made, or definitively the first black Testarossa. Its significance does not need that claim. In the story, even a Ferrari could become insufficient unless it expressed its owner’s singular status. The car represents the distance between a childhood of scarcity and an adult world organized around extraordinary demands. It does not provide a reliable calculation of his total wealth.",
+      "## ADDICTION, DANGEROUS COMPANY AND THE LIMITS OF ADORATION",
+      "Maradona later described his cocaine use as beginning during his Barcelona period. That was his retrospective account, rather than evidence that addiction started only after he encountered Naples. The distinction matters because the convenient story of an innocent player corrupted entirely by one city shifts responsibility into a simplistic geographical explanation. [AS: Maradona discusses his drug use](https://as.com/futbol/2017/01/27/internacional/1485504944_368234.html).",
+      "His associations with members of the Giuliano clan were not invented by later dramatizations. Contemporary reporting described photographs of him with figures from the Camorra, the organized-crime networks of the Naples region. A 1989 newspaper archive documents the controversy while it was unfolding. [L’Unità: contemporary reporting on the Giuliano photographs](https://archivio.unita.news/assets/derived/1989/08/25/issue_full.pdf).",
+      "What those images establish is contact and social association. They do not, by themselves, establish that he belonged to a criminal organization, participated in all its activities or controlled its decisions. Later accounts of the police inquiry illuminate why investigators were interested, but the distinction between association, allegation and proven conduct must remain visible. [La Repubblica: photographs and the prosecutors’ inquiry](https://www.repubblica.it/sport/calcio/2010/01/22/news/maradona_giuliano_procura-2040831/).",
+      "The mythology works in opposite directions. One version turns gangsters into colorful companions of a football prince. Another makes every difficulty in his life the product of a single criminal conspiracy. Neither is adequate. Organized crime inflicts harm beyond the celebrity story, and addiction is not a glamorous accessory to creative genius. For the wider historical context, see PRESDA’s [history of organized crime](/articles/mafia-history-organized-crime-empire/).",
+      "Maradona’s gifts and his drug use should therefore be kept in the same biography without making one the explanation for the other. The skill was not produced by cocaine. The damage was not redeemed by the skill.",
+      "## TWO DRUG CASES THAT SHOULD NOT BE CONFUSED",
+      "In 1991, a positive cocaine test brought a 15-month suspension and ended his Napoli playing chapter. After serving the ban, he joined Sevilla for the 1992–93 season. The Spanish club’s retrospective remembers both the scale of his arrival and the brevity of his stay. He then returned to Argentine football with Newell’s Old Boys. [UPI: the two suspensions distinguished](https://www.upi.com/Archives/1994/08/24/Maradona-banned-for-15-months/3217777700800/), [Sevilla FC: remembering Maradona](https://sevillafc.es/actualidad/noticias/fallece-diego-armando-maradona).",
+      "At the 1994 World Cup in the United States, a different positive test ended his tournament after two matches. That case involved ephedrine-related banned stimulants, not a repeat positive cocaine test. FIFA subsequently imposed another 15-month suspension. Keeping the substances and dates separate is essential to an accurate account of his decline. [UPI: FIFA’s August 1994 decision](https://www.upi.com/Archives/1994/08/24/Maradona-banned-for-15-months/3217777700800/).",
+      "The camera image of a revitalized Maradona at that World Cup encouraged the idea of one more great return. The expulsion broke that possibility almost immediately. It was a sporting and disciplinary event, not proof that every earlier achievement had been fraudulent.",
+      "He eventually returned to Boca and played his final professional match against River Plate on October 25, 1997. Retirement followed that year. AFA’s account of the last appearance provides a quieter ending to the playing career than the mythology usually allows: a final match, a substitution, and the realization that the footballer could no longer be recovered indefinitely through another comeback. [AFA: Maradona’s final performance](https://www.afa.com.ar/admin/posts/la-ultima-funcion-del-diez).",
+      "## AFTER PLAYING: HEALTH, POLITICS AND THE COACH",
+      "Retirement did not make his life calm. Serious health crises, fluctuating weight and treatment for addiction became recurrent public subjects. He spent time in Cuba during his recovery and developed a highly visible relationship with Fidel Castro. Political allegiance became another part of a public identity that extended far beyond sport. [Reuters: Maradona’s life after his playing peak](https://www.investing.com/news/general/obituary-argentine-soccer-genius-maradona-saw-heaven-and-hell-2356074).",
+      "It is possible to acknowledge those choices without presenting every endorsement as the inevitable politics of poverty. His supporters were not politically uniform, and admiration for his football did not require agreement with his friends or opinions.",
+      "Nor should changes in his body become an invitation to humiliation. Weight, illness and addiction were frequently made into spectacle around a man whose earlier athletic body had been treated as public property. A responsible biography can describe deterioration without turning it into a joke or a moral verdict.",
+      "Coaching offered another connection to the game. As Argentina’s national coach at the 2010 World Cup, he worked with Lionel Messi and a generation asked to carry the expectations attached to his own playing career. Germany eliminated Argentina 4–0 in the quarter-finals. The match record makes the distinction plain: genius as a player did not guarantee equivalent achievement as a coach. [DFB: Argentina–Germany, 2010 quarter-final](https://datencenter.dfb.de/datencenter/weltmeisterschaft/2010-in-suedafrika/viertelfinale/argentinien-deutschland-116189).",
+      "His later coaching work included clubs abroad and, finally, Gimnasia y Esgrima La Plata in Argentina. The profession kept him in dressing rooms and stadiums, where his presence still carried extraordinary emotional force. Coaching success and the reception he received were different measures of his continuing place in football. [Reuters: Maradona’s final coaching chapter](https://www.investing.com/news/general/argentina-soccer-legend-maradona-dies-of-heart-attack--lawyer-2356063).",
+      "The relationship with Messi is often flattened into a competition conducted by other people. They were also a coach and player, two Argentines who knew what it meant to be asked to solve a nation’s footballing disappointments. After Argentina’s 2021 Copa América victory, Messi included Maradona in his dedication. [AFA: Messi dedicates the Copa América to Maradona](https://www.afa.com.ar/e/posts/lionel-messi-le-dedico-la-copa-america-a-diego-maradona-y-agradecio-a-dios-por-haberme-hecho-argentino-).",
+      "## NOVEMBER 2020: SURGERY, HOME RECOVERY AND DEATH",
+      "On November 3, 2020, Maradona underwent surgery for a subdural hematoma, a collection of blood beneath one of the membranes surrounding the brain. The operation was reported as successful. He was discharged on November 11 to recover at a rented home in the Tigre area outside Buenos Aires. The arrangement for that home care later became central to the investigation. [Reuters: November 3 brain surgery](https://www.jornada.com.mx/noticia/2020/11/03/deportes/operan-con-exito-a-maradona-de-un-hematoma-en-la-cabeza-5435), [RTVE: discharge to home recovery](https://www.rtve.es/deportes/20201111/maradona-recibe-alta-hematoma-cerebral/2055289.shtml).",
+      "He died there on November 25, 2020, aged 60.",
+      "### How Diego Maradona died: the autopsy findings",
+      "The official autopsy findings, reported by Reuters, identified acute pulmonary edema associated with an exacerbation of chronic heart failure and dilated cardiomyopathy. In accessible terms, he had a diseased, enlarged heart, and fluid accumulated in his lungs as his heart failure worsened. The findings should not be casually replaced with the more familiar phrase “heart attack,” which usually refers to a different process involving interrupted blood supply to heart muscle. [Reuters: official autopsy and toxicology findings](https://www.infobae.com/america/agencias/2020/12/23/autopsia-oficial-concluye-que-maradona-no-consumio-drogas-ni-alcohol-en-dias-previos-a-su-muerte-2/).",
+      "Toxicology did not identify alcohol or illicit drugs in the reported postmortem testing. Prescription medicines were detected. His history of cocaine addiction is therefore not evidence that he died from a cocaine overdose in 2020. Equally, the presence of a prescribed medicine alone does not establish that it caused a death. Those are questions requiring medical evidence, not inferences from reputation.",
+      "## DID MARADONA HAVE TO DIE?",
+      "This is the emotional question at the center of the case, but it contains several distinct questions: Was the home-care plan appropriate? Were warning signs missed? Who had responsibility for monitoring him? Would different care have changed the outcome? And, separately, could criminal responsibility be proved against particular people?",
+      "Investigators assembled medical records, communications and expert assessments. A 2021 medical board criticized the care as inadequate and reckless; prosecutors used that assessment in arguing that Maradona was left without the supervision his condition required. Those conclusions became evidence for the prosecution, not an automatic verdict. [AP: the medical investigation and prosecution case](https://apnews.com/article/fa75d5af559411da0809f8ad21de2974).",
+      "Defense experts have challenged the reconstruction of his final deterioration. A report commissioned by one defendant argued in 2024 for a much more sudden fatal event, disputing the earlier account of a prolonged decline. The disagreement concerns mechanism, timing and what could reasonably have been anticipated. It must be attributed to the competing experts rather than settled by a biography. [AP: a defense expert challenges the earlier medical assessment](https://apnews.com/article/48d67441eb69a0fd367d3534d61c3666).",
+      "### The verified legal position in September 2026",
+      "The first trial began in 2025 but was annulled after controversy over judge Julieta Makintach’s involvement in a documentary connected to the proceedings. A new trial of seven health professionals began on April 14, 2026. That restart is essential context: testimony from the abandoned trial is not a completed criminal judgment. [AP: the retrial begins in April 2026](https://apnews.com/article/f89775668926225a61fc7c13c303f7c2).",
+      "The charge is described in Argentine proceedings as homicide with *dolo eventual*: broadly, an allegation that a person recognized a potentially fatal risk and accepted it. It is not interchangeable with a finding that every medical mistake constitutes intentional killing. The prosecution has to establish the charge against each defendant; the defendants deny criminal responsibility.",
+      "By September 9, the trial was hearing defense witnesses. Specialists discussed patient autonomy and when treatment against a person’s wishes could be justified. EFE’s account makes an important limitation explicit: witnesses discussing those general principles did not necessarily have detailed knowledge of Maradona’s individual clinical situation. General evidence about autonomy is not itself proof that his particular home-care arrangement was adequate. [EFE: the defense-witness phase, September 9, 2026](https://www.swissinfo.ch/spa/el-juicio-por-la-muerte-de-maradona-inicia-una-nueva-etapa-con-testigos-de-la-defensa/92031926).",
+      "On September 15, forensic physician and psychiatrist Damián Chebar defended the psychiatric medication plan and doses prescribed by Agustina Cosachov. He also acknowledged that the patient needed clinical monitoring. His testimony supported a defense position on psychiatric treatment; it did not resolve the entire question of medical supervision or the responsibility of all defendants. [EFE: Chebar’s testimony, September 15, 2026](https://www.swissinfo.ch/spa/otro-perito-defiende-el-tratamiento-psiqui%C3%A1trico-que-recibi%C3%B3-maradona-poco-antes-de-morir/92063827).",
+      "Reporting dated September 10 said closing arguments were scheduled to begin September 29. That was a future court schedule, not an outcome. As of this article’s September 16, 2026 check, the latest verified reporting described an ongoing trial, with no final verdict reported in that proceeding. [Río Negro: defense evidence and the scheduled closing arguments](https://www.rionegro.com.ar/justicia/ultima-etapa-del-juicio-por-maradona-la-defensa-de-cosachov-sumo-un-testimonio-clave-4717127/).",
+      "An eighth accused professional, nurse Dahiana Madrid, has a separate jury-trial track. September reporting said that process was delayed by a challenge involving the assigned judge. Her position should not be silently folded into the seven-defendant trial. [Noticias Argentinas: the separate proceedings, September 9, 2026](https://noticiasargentinas.com/sociedad/continuan-los-testigos-de-las-defensas-en-el-caso-maradona--este-jueves-declaran-tres-psiquiatras_a6aa1d05ec762f75a931e1961).",
+      "The honest answer to “Did Maradona have to die?” is therefore not a headline verdict. His death was real, his underlying disease was documented, and the adequacy of his care has been fiercely disputed. Whether particular acts or omissions meet the criminal charge remains a matter for the court. Compassion for his family and scrutiny of his treatment do not require declaring guilt before that process is complete.",
+      "## MARADONA: MYTH VS REALITY",
+      "**Myth: he was born in Villa Fiorito.** He grew up there; his birth took place in Lanús. Keeping those places distinct respects both the record and the neighborhood’s importance.",
+      "**Myth: Napoli won because he did everything himself.** He transformed the side’s possibilities, but league titles and a European trophy required teammates, coaching and a competitive squad. Calling him decisive is stronger history than calling everyone else irrelevant.",
+      "**Myth: the 1986 legend requires defending the Hand of God.** The handball was illegal. The later solo goal was extraordinary. Both statements can be true without diminishing the factual record.",
+      "**Myth: photographs with Camorra figures prove every crime attributed to him.** They document association. More specific allegations need their own evidence; neither affection for him nor hostility toward him supplies it.",
+      "**Myth: the 1991 and 1994 drug cases were identical.** The first involved cocaine; the World Cup case involved ephedrine-related stimulants. Addiction and anti-doping rules overlap in his story without becoming the same subject.",
+      "**Myth: a million-dollar Ferrari story establishes his fortune.** Conflicting anecdotes about one car cannot establish net worth. Nor does a black Testarossa justify a “first black Ferrari” claim. His later F40 was red, and its 1987 introduction exposes chronology errors in popular retellings.",
+      "**Myth: his past addiction explains his death without further evidence.** The reported autopsy identified heart disease and pulmonary edema; postmortem findings did not establish an illicit-drug overdose. The separate question of care remains the subject of legal proceedings.",
+      "**Myth: a charge or an expert’s testimony is a conviction.** It is not. The September 2026 reporting describes a contested, continuing trial.",
+      "## MARADONA, PELÉ AND MESSI: WHY THERE IS NO SINGLE MEASUREMENT",
+      "The argument over football’s greatest player often disguises several different questions. Is greatness the highest peak in one tournament, sustained production over many seasons, international success, technical range, or the ability to transform what a club and its supporters believe possible?",
+      "Different answers produce different cases for Pelé, Maradona and Messi. They also played in different competitive environments, with different calendars, pitches, medical support and protections from foul play. Raw totals can illuminate those careers without making their conditions identical.",
+      "Maradona’s argument is especially bound to the intensity of particular achievements: Mexico in 1986, Napoli’s ascent, and a style that seemed to make a small area of grass belong to him. AFA’s reflection on the connection between Maradona and Messi presents their histories as a continuing Argentine story, not merely a contest for one vacant throne. [AFA: the connection between Maradona and Messi](https://www.afa.com.ar/selecciones/posts/de-maradona-a-messi-el-hilo-eterno-de-la-historia-argentina).",
+      "No winner needs to be declared here. The comparisons become more useful when they explain what people value in football rather than pretending there is an uncontested formula for measuring it.",
+      "## THE MAN BENEATH THE FOOTBALL GOD",
+      "After his death, crowds gathered to mourn in Argentina, and his body lay in state at the Casa Rosada. The scale of public grief demonstrated how far his significance extended beyond the people who had watched him play live. [Reuters: Argentina’s farewell to Maradona](https://www.investing.com/news/general/argentines-bid-final-farewell-to-maradona-as-national-mourning-begins-2356574).",
+      "The language of divinity expressed the intensity of that love. Taken literally, it also concealed something important. Maradona was not beyond human need, error or accountability. He could inspire people and behave destructively. He could come from poverty and inhabit extravagant wealth. He could be harmed by the machinery of fame while remaining responsible for choices within it.",
+      "For readers of PRESDA’s biographies of [Muhammad Ali](/articles/muhammad-ali-fighter-bigger-than-boxing/) and [Kobe Bryant](/articles/kobe-bryant-mamba-mentality-life-legacy/), there is a familiar challenge: allowing sporting achievement to remain extraordinary without using it to erase the rest of a life.",
+      "Maradona’s story is especially resistant to a tidy moral. Addiction is not the price that greatness must pay. Humble origins do not guarantee humility. Public love does not ensure private safety. And tragedy does not make every earlier controversy disappear.",
+      "What remains is larger and more difficult than a trophy count: football, class, Argentina, Naples, political belonging, dangerous fame and the vulnerability of a man asked to embody more than any person could safely contain.",
+      "Maradona spent his life carrying a ball as if it belonged to him. Eventually, the world began treating him as if football belonged to him too."
+    ],
+    "references": [
+      {
+        "name": "AFA: remembering Maradona’s birth",
+        "url": "https://www.afa.com.ar/app/posts/el-recuerdo-eterno-del-futbol-argentino-para-el-diego"
+      },
+      {
+        "name": "Reuters: Maradona’s life after his playing peak",
+        "url": "https://www.investing.com/news/general/obituary-argentine-soccer-genius-maradona-saw-heaven-and-hell-2356074"
+      },
+      {
+        "name": "AFA: the early rise of Diego Maradona",
+        "url": "https://www.afa.com.ar/5470/posts/nacimiento-maradon"
+      },
+      {
+        "name": "FIFA: Maradona’s World Cup journey",
+        "url": "https://inside.fifa.com/news/happy-60th-maradona"
+      },
+      {
+        "name": "FIFA: Maradona’s youth World Cup",
+        "url": "https://www.fifa.com/es/articles/maradona-mundial-juvenil"
+      },
+      {
+        "name": "Boca Juniors: Diego becomes a champion",
+        "url": "https://www.bocajuniors.com.ar/noticias/diego-campeon"
+      },
+      {
+        "name": "FC Barcelona: the Maradona years",
+        "url": "https://www.fcbarcelona.com/en/football/first-team/news/1615168/the-big-read-maradona-the-fc-barcelona-years/featured"
+      },
+      {
+        "name": "FC Barcelona: official player record",
+        "url": "https://players.fcbarcelona.com/en/player/501-maradona-diego-armando-maradona-franco"
+      },
+      {
+        "name": "UEFA: Naples remembers Maradona",
+        "url": "https://www.uefa.com/news-media/news/0263-10f1fecd826a-620d5ad4272d-1000--naples-remembers-maradona/"
+      },
+      {
+        "name": "UEFA: when Milan and Napoli ruled Italy",
+        "url": "https://www.uefa.com/news/0253-0d7bc9881aaf-ce043045587c-1000--when-milan-and-napoli-ruled-italy/"
+      },
+      {
+        "name": "UEFA: Napoli’s 1989 European triumph",
+        "url": "https://www.uefa.com/uefaeuropaleague/news/0220-0e900e20b899-617d991b0678-1000--snap-shot-maradona-s-napoli-reign-supreme/"
+      },
+      {
+        "name": "SSC Napoli: the 1989–90 season",
+        "url": "https://sscnapoli.it/storia/stagione-1989-1990/"
+      },
+      {
+        "name": "SSC Napoli: stadium history",
+        "url": "https://sscnapoli.it/en/history-of-the-stadium/"
+      },
+      {
+        "name": "AFA: the Hand of God and the Goal of the Century",
+        "url": "https://www.afa.com.ar/8425/posts/el-gol-del-siglo-y-la-mano-de-dios"
+      },
+      {
+        "name": "FIFA: images of a unique career",
+        "url": "https://inside.fifa.com/tournaments/mens/worldcup/1986mexico/news/diego-maradona-images-of-a-unique-career"
+      },
+      {
+        "name": "FIFA: Maradona’s Mexican masterpiece",
+        "url": "https://inside.fifa.com/tournaments/mens/worldcup/1986mexico/news/watch-maradona-s-mexican-masterpiece"
+      },
+      {
+        "name": "FIFA: Maradona’s World Cup dribbles",
+        "url": "https://www.fifa.com/en/articles/dribbles-diego-maradona-1982-1986-1990-1994"
+      },
+      {
+        "name": "FIFA: Maradona and the fouls record",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/diego-maradona-argentina-most-fouled-player-record"
+      },
+      {
+        "name": "FIFA: the day Naples belonged to Argentina",
+        "url": "https://ipt.fifa.com/news/dia-que-napoles-fue-argentina-2278635"
+      },
+      {
+        "name": "AFA: Maradona’s international record",
+        "url": "https://www.afa.com.ar/Futbol/posts/recordado-triplete-de-maradona"
+      },
+      {
+        "name": "La Gazzetta dello Sport: Coppola’s black Testarossa story",
+        "url": "https://www.gazzetta.it/motori/la-mia-auto/06-05-2022/maradona-ferrari-testarossa-nera-racconto.shtml"
+      },
+      {
+        "name": "GQ: the Napoli Testarossa account",
+        "url": "https://www.revistagq.com/la-buena-vida/articulo/maradona-napoles-ferrari-testarossa-historia"
+      },
+      {
+        "name": "Ferrari: the Testarossa’s 1984 debut",
+        "url": "https://www.ferrari.com/en-LU/history/moments/1984/masterpiece-of-style/more"
+      },
+      {
+        "name": "SEC-filed Testarossa model documentation",
+        "url": "https://www.sec.gov/Archives/edgar/data/1688804/000168880418000027/253g2.htm"
+      },
+      {
+        "name": "El Motor: separating the two Ferraris",
+        "url": "https://motor.elpais.com/supercoches/ferrari-negro-de-maradona-mito-o-realidad/amp/"
+      },
+      {
+        "name": "Ferrari: the 1987 F40",
+        "url": "https://www.ferrari.com/en-EC/history/garage/1987/f40"
+      },
+      {
+        "name": "AS: Maradona discusses his drug use",
+        "url": "https://as.com/futbol/2017/01/27/internacional/1485504944_368234.html"
+      },
+      {
+        "name": "L’Unità: contemporary reporting on the Giuliano photographs",
+        "url": "https://archivio.unita.news/assets/derived/1989/08/25/issue_full.pdf"
+      },
+      {
+        "name": "La Repubblica: photographs and the prosecutors’ inquiry",
+        "url": "https://www.repubblica.it/sport/calcio/2010/01/22/news/maradona_giuliano_procura-2040831/"
+      },
+      {
+        "name": "UPI: FIFA’s August 1994 decision",
+        "url": "https://www.upi.com/Archives/1994/08/24/Maradona-banned-for-15-months/3217777700800/"
+      },
+      {
+        "name": "Sevilla FC: remembering Maradona",
+        "url": "https://sevillafc.es/actualidad/noticias/fallece-diego-armando-maradona"
+      },
+      {
+        "name": "AFA: Maradona’s final performance",
+        "url": "https://www.afa.com.ar/admin/posts/la-ultima-funcion-del-diez"
+      },
+      {
+        "name": "DFB: Argentina–Germany, 2010 quarter-final",
+        "url": "https://datencenter.dfb.de/datencenter/weltmeisterschaft/2010-in-suedafrika/viertelfinale/argentinien-deutschland-116189"
+      },
+      {
+        "name": "Reuters: Maradona’s final coaching chapter",
+        "url": "https://www.investing.com/news/general/argentina-soccer-legend-maradona-dies-of-heart-attack--lawyer-2356063"
+      },
+      {
+        "name": "AFA: Messi dedicates the Copa América to Maradona",
+        "url": "https://www.afa.com.ar/e/posts/lionel-messi-le-dedico-la-copa-america-a-diego-maradona-y-agradecio-a-dios-por-haberme-hecho-argentino-"
+      },
+      {
+        "name": "Reuters: November 3 brain surgery",
+        "url": "https://www.jornada.com.mx/noticia/2020/11/03/deportes/operan-con-exito-a-maradona-de-un-hematoma-en-la-cabeza-5435"
+      },
+      {
+        "name": "RTVE: discharge to home recovery",
+        "url": "https://www.rtve.es/deportes/20201111/maradona-recibe-alta-hematoma-cerebral/2055289.shtml"
+      },
+      {
+        "name": "Reuters: official autopsy and toxicology findings",
+        "url": "https://www.infobae.com/america/agencias/2020/12/23/autopsia-oficial-concluye-que-maradona-no-consumio-drogas-ni-alcohol-en-dias-previos-a-su-muerte-2/"
+      },
+      {
+        "name": "AP: the medical investigation and prosecution case",
+        "url": "https://apnews.com/article/fa75d5af559411da0809f8ad21de2974"
+      },
+      {
+        "name": "AP: a defense expert challenges the earlier medical assessment",
+        "url": "https://apnews.com/article/48d67441eb69a0fd367d3534d61c3666"
+      },
+      {
+        "name": "AP: the retrial begins in April 2026",
+        "url": "https://apnews.com/article/f89775668926225a61fc7c13c303f7c2"
+      },
+      {
+        "name": "EFE: the defense-witness phase, September 9, 2026",
+        "url": "https://www.swissinfo.ch/spa/el-juicio-por-la-muerte-de-maradona-inicia-una-nueva-etapa-con-testigos-de-la-defensa/92031926"
+      },
+      {
+        "name": "EFE: Chebar’s testimony, September 15, 2026",
+        "url": "https://www.swissinfo.ch/spa/otro-perito-defiende-el-tratamiento-psiqui%C3%A1trico-que-recibi%C3%B3-maradona-poco-antes-de-morir/92063827"
+      },
+      {
+        "name": "Río Negro: defense evidence and the scheduled closing arguments",
+        "url": "https://www.rionegro.com.ar/justicia/ultima-etapa-del-juicio-por-maradona-la-defensa-de-cosachov-sumo-un-testimonio-clave-4717127/"
+      },
+      {
+        "name": "Noticias Argentinas: the separate proceedings, September 9, 2026",
+        "url": "https://noticiasargentinas.com/sociedad/continuan-los-testigos-de-las-defensas-en-el-caso-maradona--este-jueves-declaran-tres-psiquiatras_a6aa1d05ec762f75a931e1961"
+      },
+      {
+        "name": "AFA: the connection between Maradona and Messi",
+        "url": "https://www.afa.com.ar/selecciones/posts/de-maradona-a-messi-el-hilo-eterno-de-la-historia-argentina"
+      },
+      {
+        "name": "Reuters: Argentina’s farewell to Maradona",
+        "url": "https://www.investing.com/news/general/argentines-bid-final-farewell-to-maradona-as-national-mourning-begins-2356574"
+      }
+    ],
+    "tags": [
+      "Diego Maradona",
+      "Diego Maradona biography",
+      "Maradona Napoli",
+      "Maradona 1986 World Cup",
+      "Hand of God",
+      "Goal of the Century",
+      "Maradona cocaine",
+      "Maradona Ferrari",
+      "Maradona death",
+      "how Diego Maradona died",
+      "Maradona Messi",
+      "Sport"
+    ],
+    "readingTime": "22 min read",
+    "status": "published"
+  },
+  {
     "id": "080",
     "slug": "pablo-escobar-medellin-cartel-wealth-rise-fall",
     "title": "PABLO ESCOBAR: HOW A DRUG EMPIRE MADE ONE MAN RICH ENOUGH TO CHALLENGE A STATE",

@@ -513,7 +513,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const hasMobilePortrait = article.slug === "alzheimers-disease-brain-memory-loss"
     || article.slug === "history-of-perfume-scent-beauty-power-luxury"
-    || article.slug === "pablo-escobar-medellin-cartel-wealth-rise-fall";
+    || article.slug === "pablo-escobar-medellin-cartel-wealth-rise-fall"
+    || article.slug === "diego-maradona-genius-napoli-life-death-legacy";
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
