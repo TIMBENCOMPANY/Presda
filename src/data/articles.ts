@@ -53,6 +53,261 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    id: "073",
+    slug: "domain-investing-premium-domain-sales",
+    title: "DOMAIN INVESTING: WHY CAN A $10 NAME SELL FOR MILLIONS?",
+    seoTitle: "Domain Investing: Why Can a $10 Domain Sell for Millions? | PRESDA",
+    metaDescription:
+      "A practical guide to domain investing, premium domain sales, AI.com, Voice.com, Chat.com, valuation, auctions, brokers, trademarks and the risks of digital real estate.",
+    headlineHighlights: {
+      red: "DOMAIN INVESTING",
+      gold: "SELL FOR MILLIONS"
+    },
+    excerpt:
+      "Domains can cost almost nothing to register, yet the best names have sold for tens of millions of dollars. What makes a few words on the internet become valuable digital real estate?",
+    category: "Business",
+    date: "2026-09-15",
+    lastUpdated: "2026-09-15",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/domain-investing-premium-domain-sales.png",
+    coverAlt:
+      "Conceptual editorial image showing premium domain sales for AI.com, Voice.com and Chat.com on a digital trading screen.",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "In April 2025, AI.com was reported sold for $70 million. The reported buyer was Kris Marszalek, CEO of Crypto.com. The reported seller was domain investor Arsyan Ismail.",
+      "If accurate, the sale captured the strange economics of domain investing perfectly: two letters, one dot, one extension, and a price higher than many companies ever reach.",
+      "AI.com became extraordinarily valuable because the artificial-intelligence boom turned two letters into a global category. AI was no longer only a technical abbreviation. It became the word investors, founders, customers, journalists and governments used every day.",
+      "A viral origin story says Ismail originally chose AI.com because A.I. matched his initials, and some versions claim he registered it cheaply in the early internet era. That story is repeated often, but public versions conflict and are not independently documented enough to treat as settled fact. The safe version is this: AI.com was owned early, held for decades, and became uniquely powerful when AI became the defining technology category of the 2020s.",
+      "The lesson is not that every domain investor is one lucky registration away from $70 million. The lesson is harsher and more useful: a domain is not valuable because registration costs money. It is valuable because the supply of a specific name is exactly one.",
+      "For related PRESDA context on digital markets, read [Money: How Paper, Gold and Numbers Came to Rule the World](/articles/history-of-money-gold-paper-digital/) and [AI Race: China vs America](/articles/us-china-ai-race-control-powerful-technology/).",
+      "## What Is Domain Investing?",
+      "Domain investing is the practice of buying, holding and selling internet domain names as digital assets.",
+      "A domain investor may register available names, buy expired names, bid at auctions, negotiate privately with owners, or acquire names through marketplaces and brokers.",
+      "The business looks simple from outside: buy a name for a few dollars, sell it for much more.",
+      "In reality, most registered domains never sell. Renewal fees compound. Buyer demand is unpredictable. Liquidity can be low. A portfolio can sit for years producing expenses before one sale arrives.",
+      "Domain investing is therefore closer to illiquid asset speculation than easy internet arbitrage.",
+      "## AI.com: The AI Boom In Two Letters",
+      "AI.com is valuable because it is short, category-defining, globally understandable and sits on .com.",
+      "Two-letter .com domains are extremely scarce. AI is also one of the most commercially powerful abbreviations in the world. During the AI boom, companies spent billions building models, chips, data centers, agents and applications around the term.",
+      "A category name like AI.com can signal authority before a visitor reads a single sentence.",
+      "That does not mean the domain alone creates a business. A great domain without product, trust, execution and capital is only an address. But a great address can make every marketing dollar work harder.",
+      "## Voice.com: Why One Word Sold For $30 Million",
+      "In 2019, MicroStrategy sold Voice.com for $30 million in cash. The transaction is documented in MicroStrategy filings and became one of the clearest landmark domain-only sales.",
+      "Voice.com shows why universal one-word .com domains can command enormous strategic value.",
+      "Voice is a dictionary word, easy to say, easy to spell, emotionally broad and commercially flexible. It could mean social media, audio, identity, speech technology, creator tools, AI voice interfaces or communications.",
+      "A buyer was not only buying letters. It was buying instant memorability and category authority.",
+      "## Chat.com: The Perfect Word At The Perfect Moment",
+      "Dharmesh Shah acquired Chat.com for $15.5 million in 2023. He originally intended to build an AI chat product around it.",
+      "He later sold the domain to OpenAI. OpenAI's acquisition price was not publicly disclosed, so it would be incorrect to claim OpenAI paid $15.5 million.",
+      "Chat.com became strategically perfect during the ChatGPT boom because chat became the human interface for AI.",
+      "The word is short, universal, conversational, technology-native and instantly understood. It does not need explanation in English-speaking markets, and it travels well globally.",
+      "The image accompanying this article lists Chat.com at $15.5 million to refer to Shah's 2023 acquisition, not OpenAI's later undisclosed purchase price.",
+      "## What Makes A Domain Valuable?",
+      "A valuable domain usually combines scarcity and usefulness.",
+      "Scarcity comes from uniqueness. There is only one AI.com, one Voice.com and one Chat.com.",
+      "Usefulness comes from what the name can do for a buyer: signal a category, reduce friction, increase trust, improve recall, capture direct navigation traffic, support advertising and become a brand.",
+      "The most valuable domains tend to be short, clear, memorable, commercially relevant, easy to spell, easy to pronounce and tied to a market with money.",
+      "A domain can be rare and still worthless if nobody wants it.",
+      "## Why .com Still Matters",
+      ".com remains the strongest global commercial extension.",
+      "There are successful brands on .ai, .io, .co, .net, country-code domains and many newer extensions. But .com still carries default trust for many users and buyers.",
+      "That default behavior matters. If a customer hears a brand name, many will try the .com first. If a company owns the exact .com, it reduces leakage and confusion.",
+      "For the very best names, .com can be the difference between a good domain and a once-in-a-generation asset.",
+      "## One-Word And Two-Letter Domains",
+      "One-word .com domains are powerful because they can define a brand without explanation: voice, chat, cars, hotels, loans, gold, health.",
+      "Two-letter .com domains are even scarcer. There are only 676 possible combinations from the English alphabet, and many were registered early.",
+      "But scarcity alone is not enough. QZ.com may be short, but AI.com carries a global meaning. Meaning plus scarcity is the magic.",
+      "The best domains are not only short. They are short and useful.",
+      "## Brandability And Memorability",
+      "A domain should pass the radio test: if someone hears it once, can they spell it?",
+      "Good domains avoid awkward hyphens, confusing plurals, obscure spellings and unnecessary numbers. They sound credible aloud. They look clean in a logo. They survive being typed quickly on a phone.",
+      "Brandable names do not always need dictionary words. Google and Spotify were not generic dictionary category terms in the way Voice.com is. But they became memorable because they were distinctive.",
+      "Domain investing therefore has two broad lanes: exact-match category names and invented brandable names.",
+      "## Commercial Intent",
+      "A domain connected to money-making activity is usually more valuable than a beautiful word with no buyer base.",
+      "Insurance, loans, hotels, cloud, AI, chat, voice, crypto, health, law, homes, travel and finance can carry high commercial intent because companies in those sectors spend heavily to acquire customers.",
+      "A domain with buyer demand from venture-backed startups, public companies or competitive advertisers is more likely to sell at a premium.",
+      "A poetic phrase may be lovely. A buyer with a budget must still need it.",
+      "## Direct Navigation Traffic",
+      "Some domains receive type-in traffic: people enter the name directly because it is obvious or generic.",
+      "This was more important in the early web, but it still matters for elite names.",
+      "Direct navigation can reduce paid-ad dependence and signal user intent. A person typing Chat.com is probably interested in chat. A person typing Voice.com expects something related to voice.",
+      "The cleaner the name, the less explanation the buyer needs to purchase attention.",
+      "## Comparable Sales",
+      "Domain investors value names partly by comparing past sales.",
+      "If similar one-word .com domains sold in a range, that range becomes evidence. Tools and historical databases such as NameBio-style data can help, though not every private sale is reported and not every reported sale is fully verified.",
+      "Comparable sales are useful but imperfect. One buyer's strategic need can make a domain worth far more to that buyer than to the general market.",
+      "AI.com did not become a $70 million story because every two-letter .com is worth that. It became one because AI became the category of the decade.",
+      "## How Domain Investors Buy Names",
+      "Domain investors can buy in several ways.",
+      "Registration means buying an available domain through a registrar. Aftermarket purchases involve names already owned by someone else. Expired-domain auctions happen when previous owners fail to renew or domains move through deletion and auction systems. Private negotiation can happen directly with the owner. Brokers can represent buyers or sellers.",
+      "Marketplaces provide listing, discovery and sometimes payment flows. Escrow services help protect both sides by holding funds until the domain transfer is complete.",
+      "The mechanics are simple compared with the judgment required.",
+      "## Holding Costs And Sell-Through Rate",
+      "A domain portfolio has carrying costs.",
+      "Every domain must be renewed. Ten dollars per year sounds small until an investor holds thousands of names for years.",
+      "Sell-through rate is the percentage of a portfolio that sells in a given period. Many portfolios sell only a small percentage annually. One strong sale can cover many renewals, but no sale can turn a portfolio into a slow leak.",
+      "This is why domain investing is not free. Time is part of the cost.",
+      "## Domain Investing Vs Domain Flipping Vs Cybersquatting",
+      "Domain investing usually means acquiring potentially valuable generic, descriptive, acronym, brandable or category names for resale or development.",
+      "Domain flipping often implies faster buying and selling, sometimes around trends, expired names or undervalued assets.",
+      "Cybersquatting is different. It involves registering or using domains that target someone else's trademark, brand, typo or identity in bad faith.",
+      "Never register famous trademarks, confusing typos of established brands or domains intended to mislead users. That is not smart investing. It is legal risk.",
+      "## UDRP And Trademark Risk",
+      "The Uniform Domain-Name Dispute-Resolution Policy, or UDRP, allows trademark owners to challenge domain names registered and used in bad faith.",
+      "Panels consider factors such as confusing similarity to a trademark, whether the registrant has rights or legitimate interests, and bad-faith registration and use.",
+      "A generic word can be legitimate in one context and infringing in another if used to target a trademark owner.",
+      "Domain investors should understand trademark law, avoid brand confusion and use qualified legal advice for serious questions.",
+      "This article is educational, not legal advice.",
+      "## Why Would A Company Pay $30 Million For A Word?",
+      "A premium domain can provide brand authority, memorability, scarcity, credibility, marketing efficiency and global positioning.",
+      "A company spending millions on advertising may decide that the right domain lowers friction forever. A short category domain can make television, podcast, billboard, search and word-of-mouth marketing cleaner.",
+      "The buyer may also be blocking competitors from owning the definitive name.",
+      "A great domain is not only an address. It is a strategic asset attached to every future customer interaction.",
+      "## The $10 Lottery Myth",
+      "The dream is simple: register a name for $10 and sell it for millions.",
+      "It almost never happens.",
+      "Most registered domains never sell. Automated valuations are imperfect. Asking price is not sale price. Reported sale is not always verified sale. Renewal costs compound. Liquidity can be very low.",
+      "One spectacular sale does not represent typical returns.",
+      "Domain investing rewards judgment, patience, negotiation and risk tolerance. It also punishes wishful thinking.",
+      "## How Domain Investors Value A Name",
+      "Investors look at comparable sales, extension, length, spelling, pronunciation, commercial relevance, search intent, buyer universe, trend strength, brandability, age, existing traffic and legal risk.",
+      "They ask: who would buy this, why would they need it, how much money is in that market, and how many alternatives exist?",
+      "A domain with one obvious buyer is risky. A domain with many possible buyers has stronger liquidity.",
+      "The best names feel inevitable. The worst names require a long explanation.",
+      "## Most Expensive Domains: Be Careful With Lists",
+      "Lists of the most expensive domains are often misleading.",
+      "Some include entire businesses, websites, customer bases, intellectual property or revenue streams, not pure domain-only transactions. Cars.com, Insurance.com and similar headline names are often cited in ways that mix domain value with business acquisitions unless the domain-only value is independently documented.",
+      "For domain investing, the cleanest comparisons are verified domain-only sales.",
+      "Voice.com at $30 million is unusually clean because it appears in MicroStrategy's reporting as a cash sale of the domain name. Chat.com at $15.5 million is public through Dharmesh Shah's disclosure for his 2023 acquisition. AI.com is reported as a $70 million sale, though private domain deals can involve fewer public documents than SEC-filed transactions.",
+      "## Domain Investing: Myth Vs Reality",
+      "MYTH: Any short domain is valuable.",
+      "REALITY: Short helps, but meaning and buyer demand matter.",
+      "MYTH: Automated appraisals tell you the real price.",
+      "REALITY: They are rough signals, not market truth.",
+      "MYTH: Asking for $1 million means a domain is worth $1 million.",
+      "REALITY: Asking price is not sale price.",
+      "MYTH: Registering trademarks is clever.",
+      "REALITY: It can trigger legal disputes and UDRP loss.",
+      "MYTH: A huge sale means domain investing is easy.",
+      "REALITY: Most names never sell.",
+      "MYTH: All expensive domain lists are domain-only sales.",
+      "REALITY: Many include businesses or assets beyond the name.",
+      "MYTH: New trends guarantee profits.",
+      "REALITY: Trends create demand and bubbles.",
+      "## A Practical Checklist Before Buying A Domain",
+      "Can you spell it after hearing it once?",
+      "Is the extension credible for the intended buyer?",
+      "Does it avoid trademark problems?",
+      "Are there multiple possible end users?",
+      "Is the market large enough to support a premium sale?",
+      "Are comparable sales real and relevant?",
+      "Would a company put this name on a billboard?",
+      "Can you afford to renew it for years if no buyer appears?",
+      "Would you still want the name if the current trend cools?",
+      "Good domain investing begins when the investor can say no to almost everything.",
+      "## What AI Changed",
+      "AI changed domain markets because it created a new wave of startups, products, funds, tools and consulting businesses looking for names.",
+      ".ai domains surged in visibility, and AI-related .com domains became more strategically attractive.",
+      "But trend investing is dangerous. For every AI.com, thousands of awkward AI names will never sell.",
+      "The trend creates demand for the best names and noise around the rest.",
+      "## The Future Of Premium Domains",
+      "Search engines, social platforms, apps and AI assistants changed how people find information. That led some people to predict domain names would become irrelevant.",
+      "They did not.",
+      "A domain remains a portable, ownable identity layer on the open web. Companies may rent attention from platforms, but they still want a home address they control.",
+      "As long as businesses need trust, memory and direct access, premium domains will matter.",
+      "## Why A Name Can Be Worth Millions",
+      "A domain can cost almost nothing to register because registration is a technical service.",
+      "A domain can sell for millions because ownership of the exact name is scarce.",
+      "AI.com, Voice.com and Chat.com are extreme examples, not normal outcomes. But they reveal the logic of the market: the right word at the right time can become strategic digital real estate.",
+      "The internet can create unlimited websites. It cannot create a second AI.com."
+    ],
+    source: {
+      name: "DNJournal - domain sales reporting",
+      url: "https://www.dnjournal.com/"
+    },
+    references: [
+      {
+        name: "Domain Name Wire - domain industry news and sale reporting",
+        url: "https://domainnamewire.com/"
+      },
+      {
+        name: "NameBio - historical domain sales database",
+        url: "https://namebio.com/"
+      },
+      {
+        name: "MicroStrategy SEC filings - Voice.com domain sale reporting",
+        url: "https://www.sec.gov/Archives/edgar/data/1050446/000119312519208674/d783325d10q.htm"
+      },
+      {
+        name: "ICANN - Uniform Domain Name Dispute Resolution Policy",
+        url: "https://www.icann.org/resources/pages/policy-2012-02-25-en"
+      },
+      {
+        name: "WIPO - domain name disputes and cybersquatting",
+        url: "https://www.wipo.int/amc/en/domains/"
+      },
+      {
+        name: "Dharmesh Shah - public discussion of Chat.com acquisition and sale",
+        url: "https://www.linkedin.com/in/dharmesh/"
+      },
+      {
+        name: "OpenAI - ChatGPT and product announcements",
+        url: "https://openai.com/news/"
+      },
+      {
+        name: "Reuters - technology and internet business coverage",
+        url: "https://www.reuters.com/technology/"
+      },
+      {
+        name: "TechCrunch - technology startup transaction coverage",
+        url: "https://techcrunch.com/"
+      }
+    ],
+    tags: [
+      "domain investing",
+      "domain investment",
+      "domain flipping",
+      "most expensive domains",
+      "AI.com sale",
+      "Voice.com sale",
+      "Chat.com sale",
+      "premium domains",
+      "domain valuation",
+      "how to invest in domain names",
+      "digital real estate",
+      "Business"
+    ],
+    readingTime: "16 min read",
+    faq: [
+      {
+        question: "What is domain investing?",
+        answer:
+          "Domain investing is buying, holding and selling domain names as digital assets, usually through registrations, auctions, marketplaces, brokers or private negotiation."
+      },
+      {
+        question: "Why can a cheap domain sell for millions?",
+        answer:
+          "A domain can sell for millions when the exact name is scarce, memorable, commercially useful and strategically valuable to a buyer. The registration cost does not determine market value."
+      },
+      {
+        question: "Did OpenAI pay $15.5 million for Chat.com?",
+        answer:
+          "No public source confirms OpenAI's purchase price. The $15.5 million figure refers to Dharmesh Shah's 2023 acquisition of Chat.com before he later sold it to OpenAI."
+      },
+      {
+        question: "Is domain flipping the same as cybersquatting?",
+        answer:
+          "No. Domain flipping involves buying and selling domain names. Cybersquatting targets trademarks or confusing brand typos in bad faith and can lead to legal disputes."
+      },
+      {
+        question: "Do most registered domains sell?",
+        answer:
+          "No. Most registered domains never sell, and renewal costs can compound for years. Premium sales are exceptional, not typical."
+      }
+    ]
+  },
+  {
     id: "072",
     slug: "good-vs-evil-human-nature-morality",
     title: "GOOD VS EVIL: WHAT MAKES A HUMAN CROSS THE LINE?",
