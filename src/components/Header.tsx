@@ -223,7 +223,7 @@ export function Header({ articles }: HeaderProps) {
         </button>
 
         <Link href="/" aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
-          <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-14 w-auto object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-[72px]" />
+          <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-14 w-auto origin-center scale-[1.2] object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-[72px] lg:scale-[1.3]" />
         </Link>
 
         <div className="absolute right-0 top-1/2 flex -translate-y-1/2 items-center justify-end gap-1.5 sm:gap-3">
