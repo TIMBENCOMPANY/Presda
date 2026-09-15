@@ -111,6 +111,8 @@ export function hasArticleSpecificFaqs(article: Article): article is Article & {
 }
 
 export function getArticleSchemaType(article: Article) {
+  if (article.schemaType) return article.schemaType;
+
   if (article.category === "World" || article.category === "Paparazzi" || article.category === "Sport" || article.category === "World Cup 2026") {
     return "NewsArticle";
   }
