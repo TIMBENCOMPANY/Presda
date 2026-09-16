@@ -54,6 +54,184 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "094",
+    "slug": "umayyad-caliphate-damascus-expansion-rise-fall",
+    "title": "UMAYYAD CALIPHATE: HOW ONE DYNASTY BUILT AN EMPIRE FROM SPAIN TO CENTRAL ASIA",
+    "seoTitle": "Umayyad Caliphate: Damascus, Expansion and Fall (661–750)",
+    "metaDescription": "Explore the Umayyad Caliphate, from Muawiya and Damascus to al-Andalus and Central Asia: its rulers, reforms, diverse societies and fall in 750.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "UMAYYAD CALIPHATE",
+      "gold": "SPAIN TO CENTRAL ASIA"
+    },
+    "excerpt": "From Damascus to Iberia and Central Asia, the Umayyads expanded an empire through armies, alliances and administration—before civil war and revolution broke their rule.",
+    "category": "History",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/umayyad-caliphate-damascus.webp",
+    "coverAlt": "Editorial historical reconstruction of an imagined Umayyad ruler overlooking Damascus; not a documented portrait or period skyline",
+    "homepageImagePosition": "78% 0%",
+    "content": [
+      "From Damascus, a ruler could issue orders for provinces separated by deserts, seas and mountain ranges. Making those orders matter was another problem. The Umayyad Caliphate’s story is the distance between a claim to universal authority and the daily work of soldiers, tax collectors, scribes and local communities.",
+      "Between 661 and 750, the dynasty governed an expanding empire that eventually reached from much of Iberia and North Africa to territories in Central Asia and the Indus region. It inherited earlier Muslim conquests, extended them and developed institutions that outlasted its rule. Its achievements were inseparable from civil war, unequal status and resistance.",
+      "Image note: the hero is an editorial historical reconstruction. Its ruler, banners, clothing and skyline are imaginative, not a documented portrait or an exact reconstruction of eighth-century Damascus.",
+      "## FROM THE FIRST FITNA TO A DYNASTY",
+      "The First Fitna, the civil war of 656–661, fractured the early Muslim community over leadership and the aftermath of Caliph Uthman’s killing. Muawiya, the powerful governor of Syria and a relative of Uthman, opposed Caliph Ali. After Ali’s assassination in 661, his son Hasan relinquished his claim through a settlement with Muawiya. The terms are transmitted in differing accounts; the transfer of power is firmer ground than every reported promise. [Hasan and the settlement of 661](https://www.iranicaonline.org/articles/hasan-b-ali/)",
+      "Muawiya I made Damascus the political center of his caliphate. Syria supplied an established military base and experienced administrators. His authority depended on negotiation with leading families and tribal networks as well as force. This was not a modern nation-state governed uniformly from a single office.",
+      "Naming his son Yazid as successor pushed the caliphate toward dynastic inheritance. Earlier successions had also involved selection, pressure and conflict, but the father-to-son arrangement sharpened opposition: who could legitimately lead the community, and on what grounds? Yazid succeeded in 680; the dispute did not disappear with the change of ruler. [Crone on Umayyad political authority](https://www.cambridge.org/core/books/abs/medieval-islamic-political-thought/umayyads/55B34CEAF821D5F50F5C1F13AA4667EA)",
+      "## KARBALA AND THE COST OF SUCCESSION",
+      "Husayn ibn Ali, the Prophet Muhammad’s grandson, refused allegiance to Yazid. In 680, forces serving the Umayyad authorities intercepted him and his small following in Iraq. Husayn was killed at Karbala on 10 October 680, together with members of his family and companions.",
+      "Karbala became central to Shi‘i remembrance, mourning and reflection on injustice. Husayn is also revered beyond Shi‘i communities. A historical account can explain the political confrontation and its enduring significance without adopting a sectarian verdict. Later devotional narratives preserve meanings and memories, but their speeches, numbers and dramatic details cannot all be treated as eyewitness transcripts. [Iranica: Karbala](https://www.iranicaonline.org/articles/karbala/)",
+      "## ABD AL-MALIK: REBUILDING THE CENTER",
+      "Further civil war nearly broke the dynasty. Abd al-Malik, who ruled from 685 to 705, overcame rival centers of power; the defeat of Abd Allah ibn al-Zubayr in 692 was decisive. Consolidation meant more than winning a throne. It meant making the government’s language, payments and public authority more coherent.",
+      "Arabic increasingly replaced Greek and Persian in major administrative bureaux, although implementation differed by region and continued under subsequent rulers. This was an administrative transformation, not an overnight replacement of the languages people spoke at home. [The Met: Abd al-Malik’s reforms](https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam/blog/characters/posts/abd-al-malik)",
+      "Coinage made authority tangible. Earlier issues had adapted Byzantine and Sasanian models; Abd al-Malik’s reforms introduced a distinctively Islamic inscriptional currency. A surviving gold dinar dated AH 77, or 696–697 CE, carries Arabic religious text rather than a ruler’s portrait. Coins therefore provide material evidence alongside narratives written later. [British Museum: the reformed gold dinar](https://www.britishmuseum.org/collection/object/C_1874-0706-1)",
+      "## STONE, MOSAIC AND IMPERIAL PRESENCE",
+      "The Dome of the Rock, completed in Jerusalem in 691–692 under Abd al-Malik, expressed the new state’s religious confidence through architecture and inscriptions. It is the domed shrine on the sacred platform, not another name for the separate al-Aqsa congregational mosque. Its form and decoration drew on the skills and visual traditions of the late antique world. [The Met: Umayyad architecture](https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750)",
+      "Under al-Walid I (705–715), the Great Mosque of Damascus transformed a site with earlier temple and church histories. Its great courtyard, prayer hall and mosaics made the capital’s status visible. The building also reveals continuity: early Islamic patrons worked within landscapes, craft traditions and monumental spaces inherited from earlier societies. Present-day structures include later rebuilding, so not every feature visible now belongs to al-Walid. [The Met: Great Mosque of Damascus](https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam/blog/where-in-the-world/posts/damascus)",
+      "## HOW DID THE UMAYYADS EXPAND SO FAST?",
+      "They did not begin from nothing. Earlier caliphs had already conquered major territories from the Byzantine and Sasanian empires. The Umayyads inherited troops, garrison settlements, revenue and routes. Their expansion built on that base through provincial commanders, recruitment, local agreements and repeated campaigns.",
+      "Military success could open a province, but retaining it required food, pay, cooperation and credible authority. Conquest included sieges, coercion and enslavement; negotiated submission and agreements with local elites also mattered. Neither effortless liberation nor an uninterrupted advance describes every region.",
+      "Nor were imperial borders permanent lines. Authority could mean direct administration in one area and unstable tribute relationships in another. The surviving [Byzantine Empire](/articles/byzantine-empire-eastern-rome-constantinople-1453/) remained a major opponent. Expansion and resistance coexisted; the size of an empire on a map is not a measure of how securely it governed every valley. [Marsham: provinces and government](https://www.cambridge.org/core/books/abs/umayyad-empire/provinces-government-and-taxation/F1CA054B96E65A9226DB80CF1B378B14)",
+      "## HOW WAS AN EMPIRE THIS LARGE GOVERNED FROM DAMASCUS?",
+      "Governors and fiscal officials connected the court to provincial centers. Military registers and stipends helped sustain armies; local officials and landholders mediated access to rural revenue. Existing administrative practices survived alongside reform. Decisions made in Damascus still depended on people elsewhere collecting taxes and supplying troops.",
+      "Land revenue and personal taxation were central, but terms such as kharaj and jizya did not describe one perfectly uniform system throughout the period. Later legal categories should not be projected mechanically onto every early tax receipt. Provincial circumstances and changing policies mattered. [Government and taxation](https://www.cambridge.org/core/books/abs/umayyad-empire/provinces-government-and-taxation/F1CA054B96E65A9226DB80CF1B378B14)",
+      "Roads, relay arrangements and the official courier system, or barid, moved instructions and information. These networks adapted older infrastructure rather than inventing long-distance government. Documentary research on Egypt’s postal arrangements shows how administrative continuity and change can be traced through papyri. A courier service helped the center communicate; it did not eliminate the power of distant governors. [Research on the early Islamic postal system](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/developments-in-egypts-early-islamic-postal-system-with-an-edition-of-pkhalili-ii-5/269AFEB066C8AC0BDAC9434372028C4B)",
+      "## FROM NORTH AFRICA TO AL-ANDALUS",
+      "Expansion across North Africa involved prolonged conflict, accommodation and resistance among Byzantine authorities and diverse Amazigh communities. Amazigh people, often called Berbers in the sources, were not merely spectators: many became soldiers and participants in the new order, while others opposed it.",
+      "In 711, Tariq ibn Ziyad crossed into Iberia with a force largely composed of Amazigh troops, under the authority of North African governor Musa ibn Nusayr. The defeat of the Visigothic king Roderic opened the way to further conquest. Musa subsequently crossed as well. Local divisions, military defeats and negotiated settlements all contributed to the rapid loss of Visigothic royal power. [Cambridge History of Islam: Iberia](https://www.cambridge.org/core/books/abs/cambridge-history-of-islam/iberian-peninsula-and-sicily/BE2CB856085CACB43BB28E903EE0736C)",
+      "The familiar story of Tariq burning his ships and delivering a perfectly preserved battle speech belongs to later storytelling, not secure contemporary documentation. Scholarship on the attributed oration examines its literary transmission. It should not be reproduced as a verified quotation. [The speech attributed to Tariq](https://doi.org/10.1163/9789004395800_009)",
+      "Muslim-ruled Iberia became known as al-Andalus. Its territory and rulers changed repeatedly; it was neither identical to modern Spain nor wholly under one government for the following centuries. Our [history of al-Andalus](/articles/al-andalus-rise-glory-fall-muslim-iberia/) follows that longer story.",
+      "## EASTWARD: TRANSOXIANA AND SINDH",
+      "In the east, Qutayba ibn Muslim’s campaigns in the early eighth century extended Umayyad power beyond the Oxus, or Amu Darya, into Transoxiana. Cities such as Bukhara and Samarkand entered relationships of conquest, tribute and contested control. Local rulers, competing armies and repeated revolts made consolidation harder than a map’s colored boundary suggests. [Iranica: Khorasan and the eastern campaigns](https://www.iranicaonline.org/articles/khorasan-iv-the-arab-conquest-and-omayyad-period/)",
+      "At roughly the same time, Muhammad ibn Qasim’s campaigns of 711–715 brought parts of Sindh and the lower Indus region under Arab rule. This was not the conquest of the whole Indian subcontinent. The much later Chachnama, an important account of these events, must be compared with other sources rather than read as an unmediated contemporary report. [The Chachnama and its source traditions](https://www.iranicaonline.org/articles/cac-nama/)",
+      "## ARAB ELITES, MAWALI AND RELIGIOUS DIVERSITY",
+      "Arab military and political elites held privileged positions, while non-Arab converts often entered Muslim society through client relationships. These converts are commonly discussed as mawali, although the term had a wider range of meanings. Conversion did not automatically deliver equal access to stipends, office or social standing.",
+      "Tax grievances were especially combustible. In some regions, converts continued to face demands they believed conversion should have ended; policies and attempts at reform varied. This was not a single empire-wide story of all Arabs against all non-Arabs. Alliances crossed those categories, and religious commitment did not erase fiscal or political interests. [Iranica: conversion and changing status](https://www.iranicaonline.org/articles/conversion-ii/)",
+      "Christians, Jews, Zoroastrians and other communities remained part of the empire’s population. Conquest and conversion proceeded at different speeds. Religious institutions and local languages survived, while inequalities, restrictions and episodes of pressure also existed. “Diversity” describes the population; it does not mean modern equal citizenship. [The Umayyad world’s inherited cultures](https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750)",
+      "## EVERYDAY LIFE BEYOND THE COURT",
+      "Most lives were shaped less by palaces than by land, water, harvests and obligations. Agricultural communities supported cities and armies. Merchants, craftspeople, laborers and officials connected provincial economies; access to wealth and protection was profoundly unequal.",
+      "The political connection of former Roman and Sasanian economic zones, along with the spread of Arabic, encouraged new commercial relationships without erasing older networks. Cities were markets and administrative centers as well as symbols of power. Rural estates and water management underpinned the wealth that paid for monuments. Archaeology therefore matters as much as chronicles of rulers when asking how the empire actually worked. [Marsham: resources, settlement and commerce](https://www.cambridge.org/core/books/abs/umayyad-empire/resources-settlement-patterns-and-commerce/E2530196D73570E0509B6F8A36D98931)",
+      "## WHY DID THE UMAYYAD CALIPHATE COLLAPSE?",
+      "By the 740s, several pressures reinforced one another: succession conflicts, regional opposition, fiscal disputes and competition among military and tribal coalitions. The labels Qays and Yaman became important in political alignments, but they should not be treated as explanations for timeless, automatic hatred. Court choices and provincial rivalries gave those affiliations new stakes.",
+      "Civil war after the death of Hisham in 743 damaged the dynasty’s Syrian power base. The last caliph, Marwan II, faced more than an external challenger: he inherited a governing coalition that was coming apart. [Marsham: the collapse of Umayyad power](https://www.cambridge.org/core/books/abs/umayyad-empire/collapse-of-umayyad-power/B369E7382BC1C03C409E1B7A85D4A2BE)",
+      "The Abbasid movement mobilized in Khurasan, where Abu Muslim became a crucial organizer. Its supporters included people with different grievances and expectations, including Arabs and non-Arabs. Appeals to leadership associated with the Prophet’s family helped build a coalition; that does not mean everyone who joined it wanted the same settlement.",
+      "In 750, Abbasid forces defeated Marwan II at the Battle of the Great Zab. He fled and was killed later that year. The Damascus caliphate fell, but its administrative practices, cities and populations did not disappear. The [Abbasid Caliphate](/articles/abbasid-caliphate-baghdad-islamic-golden-age/) inherited an imperial world as well as the problems of ruling it. [Iranica: Abu Muslim and the revolution](https://www.iranicaonline.org/articles/abu-moslem-abd-al-rahman-b/)",
+      "## UMAYYADS: MYTH VS REALITY",
+      "Myth: one dynasty conquered the entire empire from scratch. Reality: the Umayyads inherited major earlier conquests and expanded an existing state.",
+      "Myth: conquest meant immediate conversion and Arabization. Reality: political submission, religious change and language change followed different timelines.",
+      "Myth: the armies were exclusively Arab. Reality: Amazigh troops were central in Iberia, and non-Arab participation mattered elsewhere.",
+      "Myth: all provinces were governed identically. Reality: local institutions, fiscal arrangements and degrees of control varied.",
+      "Myth: the revolution was simply a Persian revolt against Arabs. Reality: the Abbasid coalition crossed ethnic boundaries and drew on multiple political and social grievances.",
+      "Myth: Córdoba was simply Damascus relocated. Reality: the later western Umayyad state had a different territorial base and began as an emirate, not a restored universal caliphate.",
+      "## AFTER DAMASCUS: A NEW BEGINNING IN CÓRDOBA",
+      "Abd al-Rahman, a surviving Umayyad prince, escaped the dynasty’s overthrow and eventually reached al-Andalus. In 756, he established the Umayyad Emirate of Córdoba. He ruled as emir; the separate Córdoba caliphate was proclaimed much later, in 929, by Abd al-Rahman III. [The Met: the Umayyads in Spain](https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031)",
+      "The distinction matters. The state governing from Damascus between 661 and 750 had ended. What survived was a family, a claim to legitimacy and the capacity to build another political order. The Umayyads’ lasting influence lay not only in how far their armies traveled, but in the institutions, monuments and contested memories that remained after their empire fractured."
+    ],
+    "references": [
+      {
+        "name": "Cambridge: Patricia Crone, The Umayyads, in Medieval Islamic Political Thought",
+        "url": "https://www.cambridge.org/core/books/abs/medieval-islamic-political-thought/umayyads/55B34CEAF821D5F50F5C1F13AA4667EA"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Hasan ibn Ali and the settlement of 661",
+        "url": "https://www.iranicaonline.org/articles/hasan-b-ali/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Karbala",
+        "url": "https://www.iranicaonline.org/articles/karbala/"
+      },
+      {
+        "name": "The Metropolitan Museum of Art: Abd al-Malik ibn Marwan",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam/blog/characters/posts/abd-al-malik"
+      },
+      {
+        "name": "British Museum: gold dinar of Abd al-Malik, AH 77 (696–697)",
+        "url": "https://www.britishmuseum.org/collection/object/C_1874-0706-1"
+      },
+      {
+        "name": "The Metropolitan Museum of Art: The Art of the Umayyad Period (661–750)",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+      },
+      {
+        "name": "The Metropolitan Museum of Art: Great Mosque of Damascus",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam/blog/where-in-the-world/posts/damascus"
+      },
+      {
+        "name": "Cambridge: Andrew Marsham, The Provinces, Government and Taxation",
+        "url": "https://www.cambridge.org/core/books/abs/umayyad-empire/provinces-government-and-taxation/F1CA054B96E65A9226DB80CF1B378B14"
+      },
+      {
+        "name": "Bulletin of SOAS: Developments in Egypt’s early Islamic postal system",
+        "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/developments-in-egypts-early-islamic-postal-system-with-an-edition-of-pkhalili-ii-5/269AFEB066C8AC0BDAC9434372028C4B"
+      },
+      {
+        "name": "Cambridge History of Islam: The Iberian Peninsula and Sicily",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-islam/iberian-peninsula-and-sicily/BE2CB856085CACB43BB28E903EE0736C"
+      },
+      {
+        "name": "Brill: Arabic Oration, The Battle Oration and the speech attributed to Tariq",
+        "url": "https://doi.org/10.1163/9789004395800_009"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Khorasan, the Arab conquest and Umayyad period",
+        "url": "https://www.iranicaonline.org/articles/khorasan-iv-the-arab-conquest-and-omayyad-period/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Chachnama and traditions of the conquest of Sindh",
+        "url": "https://www.iranicaonline.org/articles/cac-nama/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Conversion of Iranians to Islam",
+        "url": "https://www.iranicaonline.org/articles/conversion-ii/"
+      },
+      {
+        "name": "Cambridge: Andrew Marsham, Resources, Settlement Patterns and Commerce",
+        "url": "https://www.cambridge.org/core/books/abs/umayyad-empire/resources-settlement-patterns-and-commerce/E2530196D73570E0509B6F8A36D98931"
+      },
+      {
+        "name": "Cambridge: Andrew Marsham, The Collapse of Umayyad Power",
+        "url": "https://www.cambridge.org/core/books/abs/umayyad-empire/collapse-of-umayyad-power/B369E7382BC1C03C409E1B7A85D4A2BE"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Abu Muslim Khurasani",
+        "url": "https://www.iranicaonline.org/articles/abu-moslem-abd-al-rahman-b/"
+      },
+      {
+        "name": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031"
+      }
+    ],
+    "tags": [
+      "Umayyad Caliphate",
+      "Damascus",
+      "Islamic history",
+      "al-Andalus",
+      "Abbasid Revolution",
+      "History"
+    ],
+    "readingTime": "10 min read",
+    "faq": [
+      {
+        "question": "When did the Umayyad Caliphate rule?",
+        "answer": "The Damascus-based Umayyad Caliphate ruled from 661 to 750. The later Umayyad Emirate of Córdoba began in 756 and was a separate state."
+      },
+      {
+        "question": "What was the capital of the Umayyad Caliphate?",
+        "answer": "Damascus in Syria was its political capital. Provincial governors, fiscal officials and local networks were essential to governing its distant territories."
+      },
+      {
+        "question": "Did everyone in the Umayyad Empire immediately become Muslim?",
+        "answer": "No. Political conquest, conversion and language change followed different timelines. The empire contained diverse religious and linguistic communities."
+      },
+      {
+        "question": "Why did the Umayyad Caliphate fall in 750?",
+        "answer": "Succession conflicts, regional rivalries and social and fiscal grievances weakened the dynasty. The Abbasid Revolution culminated in Marwan II’s defeat at the Great Zab in 750."
+      }
+    ]
+  },
+  {
     "id": "093",
     "slug": "endless-scrolling-phone-attention-sleep-science",
     "title": "YOUR PHONE IS STEALING YOUR ATTENTION: THE SCIENCE OF ENDLESS SCROLLING",
