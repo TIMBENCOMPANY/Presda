@@ -12555,7 +12555,7 @@ export const articles: Article[] = [
       "Gold helped connect West Africa to the Mediterranean and the wider Islamic world.",
       "But West African societies were not simply gold mines serving outsiders. They were political, cultural and commercial centers with their own rulers, institutions and strategies.",
       "## Mansa Musa And The Gold Of Mali",
-      "Mansa Musa, ruler of Mali in the fourteenth century, became one of history's most famous gold-linked figures.",
+      "[Mansa Musa, ruler of Mali](/articles/mali-empire-mansa-musa-gold-pilgrimage-history/) in the fourteenth century, became one of history's most famous gold-linked figures.",
       "His pilgrimage to Mecca in 1324 is widely recorded in historical accounts. [Encyclopaedia Britannica](https://www.britannica.com/biography/Musa-I-of-Mali) notes the famous tradition that his distribution and spending of gold in Cairo affected local prices.",
       "The broad point is reliable: Mansa Musa's journey displayed Mali's wealth to the Islamic world and helped cement his reputation.",
       "The modern claim that he was 'the richest person ever' is much less precise.",
@@ -12571,7 +12571,7 @@ export const articles: Article[] = [
       "That shift changed the world.",
       "## Gold, Conquest And Colonialism In The Americas",
       "In the Americas, European conquest connected gold to violence on a continental scale.",
-      "Spanish expansion in the Caribbean, Mexico and the Andes was driven by a mix of religious mission, imperial ambition, private greed and the search for precious metals.",
+      "[Spanish expansion](/articles/spanish-empire-columbus-conquest-silver-global-history/) in the Caribbean, Mexico and the Andes was driven by a mix of religious mission, imperial ambition, private greed and the search for precious metals.",
       "Silver eventually became even more important than gold in parts of Spain's American empire, especially through major mining centers such as Potosi. But gold remained central to European imagination and colonial extraction.",
       "This history should not be oversimplified into a story of Europeans finding treasure in an empty world.",
       "The Americas were home to complex societies with their own economies, technologies, religions and political systems.",
@@ -14374,7 +14374,7 @@ export const articles: Article[] = [
       "Abolition did not happen because slaveholding powers suddenly became enlightened.",
       "It was forced by enslaved resistance, Black abolitionists, religious activists, political organizers, economic change, revolutionary pressure and public campaigns.",
       "In Britain, abolitionists exposed the violence of the slave trade through petitions, pamphlets, testimony and organizing. Formerly enslaved writers and speakers played a crucial role by forcing the public to confront slavery's reality.",
-      "Britain banned its slave trade in 1807. The British Slavery Abolition Act was passed in 1833, with emancipation beginning in 1834 in most British colonies.",
+      "[Britain](/articles/british-empire-history-rise-fall-global-legacy/) banned its slave trade in 1807. The British Slavery Abolition Act was passed in 1833, with emancipation beginning in 1834 in most British colonies.",
       "The distinction matters: banning the trade did not immediately abolish slavery itself.",
       "Other countries abolished the trade and slavery at different moments, often with long delays, loopholes and compensation schemes that favored former slaveholders rather than formerly enslaved people.",
       "## Abolition Across the Americas",
@@ -18805,7 +18805,7 @@ export const articles: Article[] = [
       "The true story of Galileo Galilei's conflict with the Catholic Church, his 1633 trial, heliocentrism, house arrest, and the Church's later reassessment.",
     category: "Science",
     date: "2026-09-07",
-    lastUpdated: "2026-09-07",
+    lastUpdated: "2026-09-17",
     author: "PRESDA Editorial",
     coverImage: "/images/articles/galileo-and-the-church.jpg",
     coverAlt: "Galileo Galilei before the Roman Inquisition during his 1633 trial over heliocentrism",
@@ -18820,6 +18820,7 @@ export const articles: Article[] = [
       "## What Galileo Saw",
       "Using improved telescopes beginning in 1609, Galileo observed mountains and irregularities on the Moon, moons orbiting Jupiter, the phases of Venus and other phenomena that challenged traditional ideas about the heavens.",
       "The moons of Jupiter were particularly important: they demonstrated that not every celestial object revolved around Earth.",
+      "Venus supplied another crucial test. Its full sequence of phases contradicted the traditional Ptolemaic arrangement, in which Venus remained between Earth and the Sun. But this did not, by itself, prove that Earth moved: Tycho Brahe's alternative system also allowed Venus to orbit the Sun while the Sun orbited a stationary Earth. [Museo Galileo's account of the observations](https://catalogue.museogalileo.it/indepth/PhasesVenus.html) explains why evidence against one model was not automatically proof of every part of another.",
       "## The Church And Heliocentrism",
       "The controversy was more complicated than a simple battle between science and religion.",
       "Some biblical passages were commonly interpreted at the time as consistent with a stationary Earth. Galileo argued that Scripture and the study of nature should not be treated as contradictory when biblical language was being interpreted outside its intended purpose.",
@@ -18831,6 +18832,7 @@ export const articles: Article[] = [
       "## The Trial Of 1633",
       "Galileo appeared before the Roman Inquisition in 1633.",
       "The central issue was not simply that he had discussed astronomy. Authorities believed he had defended the motion of Earth after the earlier restrictions placed on Copernican teaching.",
+      "The earlier restriction itself needs care. Cardinal Bellarmine had warned Galileo in 1616 not to hold or defend the Copernican doctrine. A record of a broader injunction became important at the 1633 trial, but historians debate its status and the proceedings surrounding it. The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/galileo/) distinguishes those disputed procedural details from the documented verdict. This helps explain why the affair cannot be reduced to a single forbidden observation.",
       "On June 22, 1633, Galileo was found vehemently suspect of heresy.",
       "He was required to formally renounce the condemned propositions.",
       "His sentence of imprisonment was commuted to house arrest, under which he spent the remainder of his life.",
@@ -18857,6 +18859,7 @@ export const articles: Article[] = [
       "It cannot determine how nature works."
     ],
     references: [
+      { name: "Museo Galileo: The phases of Venus and competing astronomical models", url: "https://catalogue.museogalileo.it/indepth/PhasesVenus.html" },
       {
         name: "Stanford Encyclopedia of Philosophy: Galileo Galilei",
         url: "https://plato.stanford.edu/entries/galileo/"
@@ -19529,13 +19532,14 @@ export const articles: Article[] = [
     "excerpt": "The Palestine humanitarian crisis in 2026 is defined by civilian protection, aid access, food insecurity, water and sanitation risks, and intense pressure on Gaza's health system.",
     "category": "World",
     "date": "2026-05-29",
-    "lastUpdated": "2026-09-02",
+    "lastUpdated": "2026-09-17",
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/palestine-humanitarian-crisis.webp",
     "coverAlt": "Respectful editorial visual representing the Palestine humanitarian crisis and urgent aid needs in Gaza",
     "content": [
       "The Palestine humanitarian crisis in 2026 is, first of all, a civilian emergency. In Gaza, families continue to face overlapping pressures: unsafe shelter, damaged infrastructure, restricted movement, food insecurity, water and sanitation risks, and a health system operating under severe strain.",
       "This article focuses on the Gaza humanitarian situation through a factual, non-partisan humanitarian lens. Figures in Gaza change frequently and some casualty data is reported by local authorities before it can be independently verified. For that reason, the most responsible way to read the crisis is to check who reported a number, when it was reported, and whether a UN agency has verified it or is citing another source.",
+      "Reporting period: this article uses the August 2026 snapshots and the [OCHA situation report dated 28 August](https://www.ochaopt.org/content/humanitarian-situation-report-28-august-2026), published on 29 August. Its figures are dated observations, not live totals; reporting periods differ between sectors. Readers should consult the linked agency updates for subsequent changes.",
       "For wider context, follow PRESDA's [World coverage](/category/world/) and our reporting on how major global events intersect with diplomacy, public institutions and civilian life.",
       "## Gaza Humanitarian Crisis In 2026: What The Emergency Means",
       "A humanitarian crisis is not one shortage. It is a chain reaction across food, water, medicine, shelter, protection, electricity, sanitation, roads and communications. When several of those systems fail at once, daily life becomes fragile even before new violence or displacement occurs.",
@@ -19552,13 +19556,13 @@ export const articles: Article[] = [
       "In its 28 August 2026 report, OCHA said UNICEF had brought pipes and fittings into Gaza in anticipation of repairs to the damaged Mekorot network, which supplies water from Israel. OCHA also reported WASH partners distributing hygiene supplies including 65 tons of laundry detergent, 46,000 bars of soap, 4,100 adult diapers, 12,000 bottles of shampoo, 1,760 hygiene kits and 77 baby kits to 10,500 people during the reporting period.",
       "## Healthcare Under Severe Pressure",
       "Healthcare is where the wider humanitarian crisis becomes immediate. Patients need functioning hospitals, health centers, ambulances, medicines, fuel, electricity, clean water, laboratory capacity, surgical supplies and safe referral routes. When those elements are interrupted, emergency care and routine care both suffer.",
-      "OCHA reported that between 10 and 23 August 2026, health partners provided 611,000 consultations across 219 sites for which information was available. During 18 to 24 August, OCHA reported that UNRWA operated 11 health centres and 24 medical points in Gaza, providing about 72,000 health consultations, including about 17,000 consultations for non-communicable diseases.",
+      "OCHA reported that between 10 and 23 August 2026, health partners provided 611,000 consultations across 219 sites for which information was available. During 10 to 16 August, OCHA reported that UNRWA operated 11 health centres and 24 medical points in Gaza, providing about 72,000 health consultations, including about 17,000 consultations for non-communicable diseases.",
       "Those figures show both the scale of need and the limits of the system. A high consultation number does not mean the health system is stable; it can also reflect extraordinary demand, delayed care, disease risk and the absence of normal medical access.",
       "## Children, Families And Civilian Protection",
       "Children are affected by the crisis in several overlapping ways: disrupted schooling, repeated displacement, malnutrition risk, exposure to traumatic events, lack of safe play spaces, limited vaccination and healthcare access, and pressure on caregivers. UNICEF and child protection partners consistently emphasize that children require more than emergency food. They need protection, clean water, health care, psychosocial support and the possibility of learning.",
       "OCHA's 28 August 2026 reporting also noted that, since the beginning of 2026, child protection partners in the West Bank had provided mental health and psychosocial support to more than 57,000 children, including over 2,200 children with disabilities, and nearly 25,700 caregivers. Gaza's needs are tracked separately through humanitarian clusters, but the wider point is the same: protection work is part of humanitarian response, not an optional addition.",
       "## Shelter, Access And Winter Preparedness",
-      "Shelter is not only a roof. It includes bedding, privacy, protection from weather, sanitation access, lighting, safety and enough space to reduce disease risk. OCHA reported in late August 2026 that 58 percent of Gaza's population was facing severe deficiencies in shelter conditions or access to essential services and non-food items, creating serious health, safety and dignity risks.",
+      "Shelter is not only a roof. It includes bedding, privacy, protection from weather, sanitation access, lighting, safety and enough space to reduce disease risk. OCHA reported in late August 2026, drawing on surveys conducted from 14 to 28 June, that 58 percent of Gaza's population was facing severe deficiencies in shelter conditions or access to essential services and non-food items, creating serious health, safety and dignity risks.",
       "The same report warned that winter preparedness was being held back by access restrictions, depleted shelter and non-food item stocks, and low funding. This is why the phrase Gaza aid crisis is not just about the number of trucks entering. It is about whether the right supplies reach the right people before seasonal risks increase.",
       "## Why Aid Delivery Remains Difficult",
       "Humanitarian delivery depends on crossings, permissions, security guarantees, functioning roads, warehouses, fuel, telecommunications, staff safety and coordination among agencies. OCHA reported that, during the late August 2026 period, Kerem Shalom remained the only operational crossing point for cargo tracked through the UN 2720 mechanism.",
@@ -19569,7 +19573,7 @@ export const articles: Article[] = [
       "The most useful public sources are OCHA situation reports and snapshots, UNRWA operational updates, WHO health emergency reporting, UNICEF child-focused updates, ICRC humanitarian statements, IPC food security analysis, and WFP hunger reporting. When numbers differ, it is often because the source, date, geography and methodology differ.",
       "## A Factual Humanitarian Lens",
       "The humanitarian crisis in Palestine should not be treated as background noise or as a contest of slogans. Civilians need food, clean water, medical care, shelter, protection, safe access for aid workers and reliable information. Those needs remain urgent regardless of political debate.",
-      "A responsible account does not flatten the story into one statistic. It documents the source of each number, names uncertainty where it exists, and keeps attention on the civilians whose lives are shaped by systems under pressure. That is the standard this story requires. For related PRESDA context, read our coverage of [the Adidas boycott controversy](/articles/adidas-israel-single-shoe-boycott-2026/), [how major events intersect with politics](/articles/how-donald-trump-could-shape-world-cup-2026/) and the wider [World archive](/category/world/)."
+      "A responsible account does not flatten the story into one statistic. It documents the source of each number, names uncertainty where it exists, and keeps attention on civilians. Follow the [World archive](/category/world/) for wider coverage, and use the humanitarian agencies listed below for operational updates."
     ],
     "source": {
       "name": "UN OCHA oPt Humanitarian Updates",
@@ -19650,7 +19654,7 @@ export const articles: Article[] = [
     "excerpt": "Dubai's future city strategy is not only skyline spectacle. It is a coordinated push around Dubai 2040, D33, smart services, transport, AI, clean energy and livability.",
     "category": "World",
     "date": "2026-05-28",
-    "lastUpdated": "2026-09-02",
+    "lastUpdated": "2026-09-17",
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/dubai-future-cities-2026.webp",
     "coverAlt": "Futuristic Dubai skyline with flying vehicles and sunset light",
@@ -19679,7 +19683,7 @@ export const articles: Article[] = [
       "Dubai's Autonomous Transportation Strategy adds another layer. The UAE government portal says the strategy aims to transform 25 percent of total transportation in Dubai to autonomous mode by 2030. Dubai Future Foundation's summary also connects the strategy to potential economic savings and smart mobility.",
       "This should not be confused with a completed driverless city. It is a target and policy direction. The practical challenge is integration: autonomous systems must work with existing roads, public transport, safety rules, weather conditions, insurance, cybersecurity and public confidence.",
       "## Sustainability, Clean Energy And Climate Pressure",
-      "Dubai's future-city credibility depends heavily on sustainability. The UAE government portal describes the Dubai Clean Energy Strategy 2050 as aiming to make Dubai a global center of clean energy and green economy, with a target for clean energy to provide 75 percent of Dubai's total power capacity by 2050.",
+      "Dubai's future-city credibility depends heavily on sustainability. The original Clean Energy Strategy used a 75 percent target for 2050; [DEWA's subsequent strategy statement](https://www.dewa.gov.ae/en/about-us/media-publications/latest-news/2024/03/dubai-is-steadily-moving-towards-net-zero-by-2050) sets a target of 100 percent clean energy production capacity by 2050. This is a long-term capacity goal, not a claim that today's electricity supply is already entirely clean or that all transport and industrial energy use has been decarbonized.",
       "For Dubai architecture and urban planning, this matters because growth is energy-intensive. Towers, cooling, transport, water systems, airports and hospitality all demand resources. The city can build quickly, but the stronger test is whether growth can become more efficient, resilient and climate-aware.",
       "## Architecture, Megaprojects And The Risk Of Overstatement",
       "Dubai megaprojects attract attention because the city understands visual impact. Waterfront districts, cultural venues, towers, branded residences, transport stations and mixed-use developments all become signals to investors and visitors.",
@@ -19696,6 +19700,7 @@ export const articles: Article[] = [
       "name": "PRESDA World Coverage"
     },
     "references": [
+      { name: "DEWA: Dubai’s 100% clean energy production-capacity target for 2050", url: "https://www.dewa.gov.ae/en/about-us/media-publications/latest-news/2024/03/dubai-is-steadily-moving-towards-net-zero-by-2050" },
       {
         "name": "UAE Government Portal: Dubai 2040 Urban Master Plan",
         "url": "https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/transport-and-infrastructure/dubai-2040-urban-master-plan"
@@ -19788,18 +19793,18 @@ export const articles: Article[] = [
     "excerpt": "OpenAI's next generation model story is no longer about one vague launch. In 2026, it is about confirmed progress in reasoning, multimodal systems, agents, safety and real-world usefulness.",
     "category": "AI",
     "date": "2026-05-27",
-    "lastUpdated": "2026-09-02",
+    "lastUpdated": "2026-09-17",
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/sam-altman-openai-next-gen-2026.webp",
     "coverAlt": "Sam Altman and OpenAI cinematic PRESDA poster on a dark background",
     "content": [
-      "OpenAI's next generation model story in 2026 should be read carefully. The original version of this article spoke broadly about a new model arriving, but did not name a verified release or separate confirmed information from expectation. That is not enough for readers searching for OpenAI next generation model, OpenAI next model or new OpenAI model 2026.",
+      "What has OpenAI actually announced, and what remains a prediction? Its model releases and safety publications offer firmer evidence than rumored launch dates. This guide explains the confirmed direction of its reasoning, multimodal and agentic systems, the limits of those claims, and what readers should check before choosing a model.",
       "The confirmed picture is more specific. OpenAI's public materials show a model roadmap centered on stronger reasoning, multimodal capability, agentic work, safety evaluations and practical usefulness. The company has described GPT-5 as a major public model generation, while its deployment safety materials describe GPT-5.6 as a newer model family with stronger capability and tailored safeguards. Anything beyond OpenAI's own announcements should be treated as speculation.",
       "## What OpenAI Has Confirmed In 2026",
       "OpenAI's official GPT-5 page describes GPT-5 as a major step in intelligence and usefulness, with thinking built in and broader support across subjects such as math, science, finance, law and writing. That matters because the next generation of AI models is not only about producing fluent text. It is about whether a system can reason, follow instructions, use tools, handle context and help people complete real work.",
       "OpenAI's Deployment Safety Hub also describes GPT-5.6 as a family of models with different performance and cost profiles. The safety card frames the launch around capability, safeguards and risk evaluation rather than hype. That distinction is important: a frontier model is not just a product upgrade. It is a system that must be evaluated for what it can do, where it can fail and how it should be deployed.",
       "## OpenAI Next Model: Confirmed Facts Versus Speculation",
-      "Readers often search for the OpenAI next model because they want a release date, a model name or a list of future capabilities. PRESDA should not invent those details. If OpenAI has not officially announced a model, a date, a benchmark or a feature, it should not be presented as fact.",
+      "A model announcement, a ChatGPT feature and an API rollout are different things. Before treating a capability as available, check the named model, the product in which it is offered and any access restrictions. An announced research result does not by itself establish that every user has the same feature, tools or limits.",
       "What can be said responsibly is that OpenAI's current direction is visible through official releases, research pages, model documentation and safety publications. The company is investing in reasoning models, multimodal systems, real-world task performance, coding agents, education tools, enterprise deployment and infrastructure for large-scale AI workloads.",
       "## Why Reasoning Is Central To Next Generation AI Models",
       "Reasoning has become one of the defining themes of next generation AI models. OpenAI's 2024 research post on learning to reason with large language models introduced the idea of models spending more compute on difficult problems, while later product and safety materials continued to emphasize stronger problem-solving.",
@@ -19821,7 +19826,7 @@ export const articles: Article[] = [
       "Useful questions include: has OpenAI named the model? Has it published a system card or safety evaluation? Is the model available in ChatGPT, the API or both? Are capabilities described with benchmarks, examples or limits? Has OpenAI explained how the model should and should not be used?",
       "> The next generation of AI will be defined by usefulness, but also by proof.",
       "## Final Word",
-      "The phrase OpenAI next generation model can tempt writers into vague future language. A stronger article should be more disciplined. In 2026, confirmed OpenAI information points toward stronger reasoning, multimodal systems, agentic workflows, infrastructure scale and more formal safety evaluation.",
+      "For anyone deciding whether a new model is useful, the practical test is the work it can reliably complete. Compare its documented capabilities, limitations, availability and cost with the task in front of you. Stronger reasoning or a better benchmark result can matter, but neither removes the need to check important outputs.",
       "What remains uncertain should stay uncertain. Model names, exact launch dates, benchmark scores and future capabilities should come from OpenAI or clearly identified reporting before being stated as fact. For more PRESDA context, read [Why people trust AI like a friend](/articles/why-people-trust-ai-like-a-friend/), [Will AI agents replace jobs?](/articles/will-ai-agents-replace-jobs/) and the wider [AI coverage](/category/ai/)."
     ],
     "source": {
@@ -21388,17 +21393,17 @@ export const articles: Article[] = [
     "excerpt": "José Mourinho is back at Real Madrid, turning old rivalry, tactical memory and modern pressure into one of football's most dramatic second acts.",
     "category": "Sport",
     "date": "2026-05-15",
-    "lastUpdated": "2026-09-03",
+    "lastUpdated": "2026-09-17",
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/jose-mourinho-madrid-return-2026.webp",
     "coverAlt": "Jose Mourinho with Real Madrid crest and Santiago Bernabeu stadium",
     "content": [
-      "José Mourinho has returned to Real Madrid. On June 11, 2026, the club announced Mourinho as first-team coach on a contract running from July 1, 2026 to June 30, 2029, with preseason scheduled to begin on July 13. That makes this more than nostalgia. It is an official second era for one of the most polarizing and successful managers in modern football.",
+      "José Mourinho has returned to Real Madrid. On June 11, 2026, the club announced Mourinho as first-team coach for three seasons through June 30, 2029, with Mourinho joining on July 13 for the start of preseason. That makes this more than nostalgia. It is an official second era for one of the most polarizing and successful managers in modern football.",
       "The old Mourinho return-rumor framing is finished. The question now is sharper: can the coach who gave Real Madrid a record-breaking 2011/12 league season, broke into three consecutive Champions League semi-finals and fought Guardiola's Barcelona at peak intensity still build an elite Madrid side in 2026?",
       "This article separates verified history from interpretation. The contract, first-era trophies, 2011/12 record and early 2026/27 start are sourced from Real Madrid, UEFA, LaLiga-era records and reputable reporting. Tactical views are analysis, not invented dressing-room facts. No private transfer rumors, quotes or unsupported internal claims are treated as fact.",
       "For more PRESDA football context, read [Football's Greatest Generation](/articles/the-last-dance-footballs-greatest-generation/), [Xabi Alonso at Chelsea](/articles/xabi-alonso-chelsea-pressure/) and our wider [Sport coverage](/category/sport/).",
       "## The Official 2026 Real Madrid Return",
-      "Real Madrid's official announcement framed Mourinho's return as a three-season appointment through June 2029. The club said he had agreed to take charge from July 1, 2026, returning thirteen years after the end of his first Madrid spell.",
+      "[Real Madrid's official announcement](https://www.realmadrid.com/en-US/news/club/latest-news/comunicado-oficial-mourinho-11-06-2026) specifies a three-season appointment through June 30, 2029 and a July 13 arrival for preseason. The announcement does not give July 1 as a contract-start date. He returns thirteen years after the end of his first Madrid spell.",
       "The timing matters. Madrid entered the 2026/27 season after a difficult 2025/26 managerial cycle and renewed pressure to respond to Barcelona's domestic strength. Mourinho's appointment was not only a coaching decision. It was a signal: Madrid wanted authority, experience and a manager who understands the Bernabéu's emotional temperature.",
       "A second Mourinho era is also a test of memory. Supporters remember the 100-point title, the intensity, the counter-attacks and the feeling that Madrid could confront Barcelona directly. They also remember the conflict, the fatigue and the fact that the Champions League did not arrive under him. Both memories are part of the job he has inherited.",
       "## Mourinho's First Real Madrid Era: 2010-2013",
@@ -21518,7 +21523,7 @@ export const articles: Article[] = [
     "faq": [
       {
         "question": "Has José Mourinho returned to Real Madrid?",
-        "answer": "Yes. Real Madrid officially announced José Mourinho's return as first-team coach on June 11, 2026, with a contract from July 1, 2026 to June 30, 2029."
+        "answer": "Yes. Real Madrid officially announced José Mourinho's return as first-team coach on June 11, 2026, for three seasons through June 30, 2029. The club said he would join on July 13 for preseason."
       },
       {
         "question": "When was Mourinho first Real Madrid manager?",
@@ -21599,7 +21604,7 @@ export const articles: Article[] = [
       "Assists are even more difficult to compare across eras and databases. Some competitions did not track assists consistently. Some sources include deflections, won penalties or secondary assists; others do not. That is why this article treats assists as context, not a single definitive leaderboard.",
       "The real lesson is that Messi and Ronaldo made statistical comparison mainstream. Before them, fans debated greatness mostly through memory, trophies and style. During their era, every league weekend became a spreadsheet argument: goals per game, non-penalty goals, expected goals, assists, dribbles, chances created, knockout goals, free-kicks, weak foot, headers and longevity.",
       "## Guardiola, Mourinho And The Coaches Who Shaped The Era",
-      "Players made the era visible, but coaches gave it shape. Pep Guardiola's Barcelona changed how elite teams thought about space, pressing, midfield overloads and controlled possession. Jose Mourinho's Inter and Real Madrid pushed the opposite emotional register: transition, defensive organization, confrontation, speed and psychological intensity.",
+      "Players made the era visible, but coaches gave it shape. Pep Guardiola's Barcelona changed how elite teams thought about space, pressing, midfield overloads and controlled possession. [Jose Mourinho's Inter and Real Madrid](/articles/mourinho-real-madrid-return-signal/) pushed the opposite emotional register: transition, defensive organization, confrontation, speed and psychological intensity.",
       "Their rivalry mirrored Messi and Ronaldo. Guardiola's Barcelona gave Messi the perfect technical ecosystem. Mourinho's Madrid hardened Ronaldo's counter-attacking dominance and turned Clasico into a strategic and cultural battle. Later, Carlo Ancelotti, Zinedine Zidane, Jurgen Klopp, Luis Enrique, Diego Simeone, Hansi Flick and others added their own versions of structure, pressing and emotional management.",
       "The tactical changes were enormous. Full-backs became playmakers. Goalkeepers became passers. Wingers became inverted scorers. Forwards became press triggers. Midfielders had to defend, create and control tempo. The greatest football era argument is not only about players; it is about how those players survived repeated tactical revolutions.",
       "## Real Madrid Vs Barcelona And El Clasico's Global Peak",
@@ -21611,7 +21616,7 @@ export const articles: Article[] = [
       "The commercial effect was huge. Superstar players drove shirt sales, sponsor campaigns, preseason tours, streaming subscriptions, social followings and club valuations. A transfer was no longer only a sporting decision; it could shift attention across continents.",
       "That globalization changed pressure too. A bad performance could become worldwide content within minutes. A teenager could be turned into the next great hope before completing a full season. The Messi-Ronaldo generation created the scale that the next generation now has to survive.",
       "## How This Generation Compares With Pele And Maradona Era Legends",
-      "Comparing eras is necessary and unfair. Pele played in a different world: fewer global broadcasts, different pitches, different travel, different defensive rules and different club structures. Maradona carried teams through a more physical era with less protection and less sports-science support. Cruyff changed the game's ideas as much as its highlights.",
+      "Comparing eras is necessary and unfair. Pele played in a different world: fewer global broadcasts, different pitches, different travel, different defensive rules and different club structures. [Maradona](/articles/diego-maradona-genius-napoli-life-death-legacy/) carried teams through a more physical era with less protection and less sports-science support. Cruyff changed the game's ideas as much as its highlights.",
       "The modern generation had advantages: better medicine, nutrition, data, training, pitches and commercial support. It also faced new pressures: relentless schedules, global scrutiny, tactical analysis, defensive athleticism and the expectation to produce for club and country across multiple competitions every year.",
       "So the strongest claim is not that this generation is objectively greater than every previous one. It is that no generation before it combined verified statistical scale, individual awards, Champions League repetition, international drama, tactical transformation and global digital reach at the same time.",
       "## The Transition To Mbappe, Haaland And Lamine Yamal",
@@ -22106,7 +22111,7 @@ export const articles: Article[] = [
     "id": "019",
     "slug": "we-are-all-moroccans-jebel-irhoud",
     "title": "Jebel Irhoud Morocco: The Fossils Behind 'We Are All Moroccans'",
-    "seoTitle": "Jebel Irhoud Morocco: Oldest Homo sapiens Fossils Explained",
+    "seoTitle": "Jebel Irhoud: 315,000-Year-Old Fossils and Human Origins",
     "metaDescription": "Jebel Irhoud in Morocco reshaped human origins science. Learn what fossils were found, how they were dated, and what scientists can and cannot conclude.",
     "headlineHighlights": {
       "red": "Jebel Irhoud",
@@ -22122,7 +22127,7 @@ export const articles: Article[] = [
     "content": [
       "Jebel Irhoud is an archaeological and fossil site in Morocco that changed the way scientists talk about human origins. The site is best known for fossil remains assigned to early Homo sapiens and dated to about 315,000 years ago, far older than the simplified timelines that once placed modern human origins mostly around 200,000 years ago in East Africa.",
       "The PRESDA hook, \"We Are All Moroccans,\" is intentionally editorial, not literal. Jebel Irhoud does not prove that every modern human came only from Morocco. What it does show is more interesting: by roughly 300,000 years ago, early Homo sapiens features existed in North Africa, supporting a broader pan-African picture of human evolution.",
-      "For related science context, explore PRESDA's [Science coverage](/category/science/) and our guide to [whether zodiac signs are real](/articles/are-zodiac-signs-real-science-has-a-different-answer/), which also looks at how evidence changes popular beliefs.",
+      "For the broader scientific framework, read our guide to [Darwin and the theory of evolution](/articles/charles-darwin-theory-of-evolution/), alongside PRESDA's [Science coverage](/category/science/).",
       "## What Is Jebel Irhoud?",
       "Jebel Irhoud is a prehistoric site in Morocco, in the northwest of Africa. It is commonly described as being in the Marrakesh-Safi region, near the town of Tlet Ighoud and southeast of Safi. Long before it became a global headline, it was a mining area where fossil remains were first recognized in the 1960s.",
       "The site matters because it combines human fossils with Middle Stone Age archaeology. That means researchers were not looking only at isolated bones. They were studying fossil remains, stone tools, sediments and evidence of fire in the same broader archaeological context.",
@@ -22284,7 +22289,7 @@ export const articles: Article[] = [
       "## Final Verdict",
       "So, are zodiac signs real? They are real cultural symbols, but they are not scientifically proven tools for predicting personality or the future. Astrology's power comes from history, language, identity, confirmation bias, the Barnum effect and the human desire for meaning.",
       "The night sky can still inspire wonder without becoming a map of destiny. Science does not make the universe less beautiful. It simply asks a different question: what can be tested, measured and shown to be true?",
-      "For more PRESDA science coverage, read [We Are All Moroccans](/articles/we-are-all-moroccans-jebel-irhoud/), [AI elderly care in Japan](/articles/japan-enters-ai-care-era/) and the wider [Science coverage](/category/science/)."
+      "For related questions about evidence, read [Galileo's observations and the Church controversy](/articles/galileo-and-the-church/), [James Randi and the testing of paranormal claims](/articles/magic-paranormal-james-randi/) and the wider [Science coverage](/category/science/)."
     ],
     "source": {
       "name": "PRESDA Science Coverage"
