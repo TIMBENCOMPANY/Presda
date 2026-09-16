@@ -54,6 +54,264 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "087",
+    "slug": "house-music-brain-rhythm-128-bpm-science-dancing",
+    "title": "HOUSE MUSIC: WHY DOES A BEAT MAKE YOUR BODY MOVE?",
+    "seoTitle": "House Music: Why Beats Make Us Dance & the 128 BPM Myth",
+    "metaDescription": "Explore house music’s Chicago roots and the neuroscience of rhythm, bass and dancing. Discover why 128 BPM feels danceable—and why it is not a magic number.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "HOUSE MUSIC",
+      "gold": "BODY MOVE"
+    },
+    "excerpt": "From Frankie Knuckles and Chicago’s dance floors to the brain’s timing and reward systems: why a beat makes us move, and what the famous 128 BPM claim gets wrong.",
+    "category": "Science",
+    "date": "2026-09-16",
+    "lastUpdated": "2026-09-16",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/house-music-brain-rhythm-128-bpm-science-dancing.webp",
+    "coverAlt": "Editorial illustration of a DJ at a sunset pool party beside a conceptual brain display labeled BPM 128",
+    "homepageImagePosition": "75% 25%",
+    "content": [
+      "In the 2015 film *We Are Your Friends*, Zac Efron’s aspiring DJ explains a dance floor as if it were a machine waiting for the correct setting. Raise the tempo, bring the crowd with you, and arrive at the celebrated 128 BPM zone. The sequence links musical speed with the audience’s heart rate, turning the DJ’s craft into something resembling physiological engineering. It is a memorable piece of cinema. It is also an invitation to ask a better question: is that actually scientifically true? [TheWrap’s contemporary coverage of the film’s trailer](https://www.thewrap.com/zac-efron-is-a-rising-edm-dj-falling-for-emily-ratajkowski-in-first-we-are-your-friends-trailer-video/)",
+      "The short answer is that there is no established, universal 128 BPM switch that makes humans dance. The longer answer is more fascinating. Hearing and movement interact; the brain predicts musical events; rhythmic surprises can be pleasurable; and bass can influence how much people move. A DJ works with those tendencies, but also with musical taste, culture, attention and a room full of people who remain individuals.",
+      "To understand why a beat can feel almost irresistible, we need to travel between two places: the Chicago clubs where house music developed and the laboratories investigating what happens when sound becomes movement.",
+      "*Hero image: an editorial illustration of a DJ and a conceptual BPM display. The brain graphic and waveform are artistic devices, not measurements of a listener’s brain or heartbeat.*",
+      "## CHICAGO: BEFORE HOUSE WAS A GLOBAL SOUND",
+      "House music did not begin as a neuroscience experiment or a festival business plan. It grew from people gathering to dance. Chicago’s Warehouse opened in 1977 under Robert Williams, with New York–born Frankie Knuckles as its defining early DJ. Its history is inseparable from Black, Latino and LGBTQ communities, including Black gay dancers for whom the club offered a valued social space. The building’s landmark documentation recognizes both that cultural importance and Knuckles’s role in the emergence of house. [Chicago landmark designation record](https://chicago.councilmatic.org/legislation/o2023-0001746/)",
+      "Knuckles brought experience from New York’s dance culture. At the Warehouse, records became parts of a longer musical journey: disco, soul and other dance sounds could be extended, juxtaposed and transformed through selection and mixing. His oral history traces the move to Chicago in 1977 and his subsequent club and production career. Calling him the godfather of house recognizes his enormous influence; it should not erase the dancers, fellow DJs and producers who made a scene possible. [Frankie Knuckles oral-history finding aid](https://www.thehistorymakers.org/sites/default/files/A2013_235_EAD.pdf)",
+      "The name “house” is closely associated with the Warehouse and the music its audience sought out. But genres emerge gradually. There was no single night when disco ended and a fully formed replacement began. Ron Hardy, Chicago’s radio mixers and a widening community of record makers helped turn club practices into a recognizable sound. Preserving the Warehouse matters because it anchors a global genre in a particular city and community. [Preservation Chicago’s Warehouse history](https://www.preservationchicago.org/wp-content/uploads/2023/12/Warehouse-Chi-7-2023-Final.pdf)",
+      "### Machines gave the groove another life",
+      "A four-on-the-floor pattern places a kick drum on each of the four main beats of a typical 4/4 bar. Other sounds can move around that foundation: a clap, an offbeat hi-hat, a bass line that arrives between kicks. Repetition supplies continuity while small changes supply motion. Drum machines and synthesizers let producers build and sustain these patterns without recording an entire live rhythm section. Roland’s TR-909 became particularly influential in house and techno; its synthetic kick and crisp percussion helped define a durable dance vocabulary. [Roland TR-909 history and producer interviews](https://djmag.com/content/rolands-iconic-tr-909-we-chart-history-influential-drum-machine)",
+      "The TB-303 tells a related story of creative repurposing. Its distinctive bass synthesis became central to acid house, with DJ Pierre and Phuture among the crucial pioneers. The machine did not contain a genre by itself. Musicians found an expressive language in its controls and sound. Technology expanded what a small group of people could make; the scene decided what those sounds meant. [Roland’s 303 history and DJ Pierre material](https://www.roland.com/uk/promos/303day/)",
+      "## FROM LOCAL DANCE FLOORS TO A WORLDWIDE CULTURE",
+      "The history is a network, not a straight arrow from Chicago to every other city. New York was already an essential source of disco and DJ culture. Larry Levan’s Paradise Garage, active from 1977 to 1987, cultivated an influential relationship between sound system, DJ and a largely gay Black audience. Chicago and New York shared people, records and ideas; New York was not simply a later recipient of Chicago’s invention. [NYC LGBTQ Historic Sites Project: Paradise Garage](https://www.nyclgbtsites.org/site/paradise-garage/)",
+      "Detroit’s techno developed alongside house, with Juan Atkins, Derrick May and Kevin Saunderson—the musicians known as the Belleville Three—central to its early history. House and techno exchanged influences and dance floors, but techno has its own musical lineage and relationship with Detroit. Collapsing the two into one genre obscures the creativity of both cities. [Detroit Historical Society’s musical legacy resource](https://www.detroithistorical.org/sites/default/files/lessonPlans/Detroit.Musical.LegacyFINAL.pdf)",
+      "Across the Atlantic, imported records and specialist shops connected American dance music with existing British club cultures. Ibiza added another route: the eclectic Balearic approach encountered there influenced British DJs and parties. By 1988, acid house had expanded through clubs, warehouses and temporary venues. London’s Shoom and Manchester’s Haçienda were important, but no single club explains the whole transformation. [British Culture Archive: acid house](https://britishculturearchive.co.uk/acid-house/)",
+      "The London Museum’s acid-house badge captures how music became a wider youth identity: the smiley face, parties and the “Second Summer of Love.” Its account connects Chicago house, Detroit techno and music brought from Ibiza. European scenes helped amplify those sounds internationally, while subsequent local scenes reshaped them again. House became a shared musical language without acquiring one fixed accent. [London Museum: acid-house badge](https://www.londonmuseum.org.uk/collections/v/object-465796/badge-lapel-badge/)",
+      "The later world of internationally touring dance artists belongs to that expanded story. PRESDA’s biography of [Avicii and his musical legacy](/articles/avicii-life-music-death-tim-bergling/) explores a different chapter in electronic music’s passage from local scenes to global celebrity.",
+      "## WHAT DOES BPM ACTUALLY MEAN?",
+      "BPM means **beats per minute**: a measure of the speed of the musical pulse. It does not count every sound in a recording. A track can have a steady beat while a hi-hat plays several subdivisions between beats, a singer stretches a note across them, or a bass line skips one altogether.",
+      "At 120 BPM, beats are half a second apart. At 128 BPM, they are approximately 0.469 seconds apart: 60 divided by 128. A four-beat bar at that tempo lasts 1.875 seconds. These are arithmetic relationships, not biological prescriptions. A dancer might mark every beat, sway once every two beats or move different body parts at different rhythmic levels.",
+      "Many house tracks sit roughly in the 120–130 BPM neighborhood, though house styles also extend outside it. That range is a convention, not a definition. Research reviewing dance-music tempo distributions has noted a concentration around 120–130 BPM, but the same literature reports different preferred speeds for different musical and movement tasks. [Kawase and Eguchi: optimal tempo for groove](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00462/full)",
+      "### Why did 128 become so familiar?",
+      "It sits within a well-established dance-music range and became a familiar working tempo in parts of house and commercial electronic dance music. A shared tempo makes records easier to combine without large speed changes. Producers and audiences also learn conventions from the music around them. These are practical and cultural explanations, not evidence that one person discovered the body’s ideal frequency.",
+      "There is no securely established single origin story for the exact number’s prominence, and no scientific reason to treat 128 as superior to all its neighbors. A track at 124 can feel more urgent than one at 128 because density, percussion, harmony and phrasing change its character. The BPM display measures one property of the music. It cannot measure the whole experience.",
+      "## WHY DOES 128 BPM FEEL SO DANCEABLE?",
+      "One plausible part of the explanation is compatibility with movement. A little over two beats per second gives many listeners a manageable pulse for repeated actions. Yet bodies have different preferred speeds, and walking, finger tapping and dancing are not interchangeable tasks. Research on spontaneous motor tempo finds relationships between a person’s preferred tapping speed and preferred musical tempo, with considerable variation between people. [Spontaneous motor tempo and musical preference](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.952488/full)",
+      "A useful corrective comes from a 2018 experiment using drum breaks at several tempos. Groove ratings were generally highest around 100–120 BPM, rather than revealing a unique 128 BPM optimum. The tested patterns, listeners and rating task all matter. This does not replace one magic number with 110; it demonstrates why results from a particular experiment cannot establish a universal dance-floor law. [Kawase and Eguchi’s tempo experiment](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00462/full)",
+      "House also makes the pulse unusually easy to locate. A recurring kick provides a stable reference, allowing other parts to become playful without making the structure disappear. A useful interpretation is that this balances confidence with interest: the listener can anticipate where the beat belongs while enjoying how sounds move around it. Tempo is one ingredient in that balance, not its master control.",
+      "## YOUR BRAIN DOES MORE THAN HEAR THE BEAT",
+      "Sound is converted into neural signals in the ear and processed through an interconnected auditory system. The auditory cortex helps analyze patterns over time, but music listening does not stop at a boundary marked “hearing.” Studies separating rhythm’s meter, tempo and pattern show overlapping and distinct contributions across a broader brain network. There is no solitary house-music center waiting to switch on. [Research on the brain basis of musical rhythm perception](https://pmc.ncbi.nlm.nih.gov/articles/PMC4101486/)",
+      "### Motor regions can participate before you move",
+      "In a 2008 imaging study, listening to musical rhythms recruited regions involved in movement, including premotor areas. Some listening conditions involved anticipating a later action; the findings nevertheless helped demonstrate a close auditory–motor relationship. Hearing temporal structure and preparing movements draw on connected systems. [Chen, Penhune and Zatorre: listening to musical rhythms](https://pubmed.ncbi.nlm.nih.gov/18388350/)",
+      "A later meta-analysis of brain-imaging studies supported motor-system involvement during music listening. Importantly, it did not find that every motor region activates uniformly in every listening situation. Premotor and supplementary motor areas help plan and organize actions; the primary motor cortex is especially associated with executing movement. Describing all of this as the brain “dancing” is an appealing metaphor, but neural activity is not the same as an involuntary instruction to move. [Meta-analysis of motor-system recruitment during music listening](https://pmc.ncbi.nlm.nih.gov/articles/PMC6242316/)",
+      "### Basal ganglia and cerebellum: different contributions to timing",
+      "The basal ganglia are deep brain structures involved in movement and other functions. Beat-based timing research implicates circuits connecting the striatum, thalamus and cortex. The cerebellum also contributes to timing and coordination. Experiments comparing timing against a regular beat with judging isolated durations have found different emphases across these systems, including greater cerebellar involvement in duration-based judgments. This is a distinction between interacting networks, not two perfectly separate clocks. [Teki and colleagues: duration-based and beat-based auditory timing](https://pmc.ncbi.nlm.nih.gov/articles/PMC3074096/)",
+      "For the listener, the practical consequence is prediction. To tap along accurately, you cannot wait until each kick has finished before deciding to act. You estimate when the next event will arrive and adjust when your estimate is slightly wrong. Music gives that otherwise invisible timing process something you can feel.",
+      "## NEURAL ENTRAINMENT: FOLLOWING A PATTERN, NOT LOSING CONTROL",
+      "Entrainment broadly describes alignment between rhythmic processes. In musical behavior, it can mean coordinating a movement with an external pulse. In neuroscience, researchers examine how brain responses align with rhythmic stimulation and perceived musical structure. These related uses should not be confused with an entire person being forced into one frequency.",
+      "In a 2011 EEG experiment, participants heard a beat and imagined grouping it in twos or threes. Their recorded brain responses included frequencies associated with the imagined grouping, as well as the beat. That matters because the listener’s interpretation helped shape the measured response. [Nozaradan and colleagues: beat and meter entrainment](https://pubmed.ncbi.nlm.nih.gov/21753000/)",
+      "A subsequent experiment found selective enhancement of neural responses at beat- and meter-related frequencies embedded in more complex rhythms. Such findings support active organization of sound. They do not show that a DJ can override judgment, personality or consent. Nor does the musical pulse specify the firing rate of every neuron: researchers measure particular patterns in population-level electrical activity. [Selective neuronal entrainment to musical rhythm](https://pmc.ncbi.nlm.nih.gov/articles/PMC6621650/)",
+      "## GROOVE: THE PLEASURE OF AN EXPECTATION THAT BENDS",
+      "Groove is commonly studied as a pleasurable urge to move with music. Syncopation helps explain why an utterly predictable sequence is not always the most compelling. A syncopated event emphasizes an unexpected part of the rhythmic structure, or leaves a gap where an accent might be expected. The underlying pulse can remain clear even while the surface pushes against it.",
+      "In a 2014 study, intermediate levels of syncopation were associated with stronger pleasure and desire-to-move ratings than very low or very high levels. The relationship resembled an inverted U: enough complexity to engage, but not so much that the beat became difficult to follow. That result concerns the tested drum patterns and participants, not every musical tradition. [Witek and colleagues: syncopation, movement and pleasure](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446)",
+      "Experiments with synthesized musical examples also found that adding syncopation could increase groove. Together, these studies suggest why a steady house kick can coexist with a restless bass line. The listener does not have to choose between certainty and surprise; different layers provide both. A completely flat pattern may offer too little to negotiate, while an overwhelmingly complex one may weaken the reference that makes the surprises intelligible. [Sioros and colleagues: syncopation in synthesized music](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01036/full)",
+      "## WHY BASS CAN MAKE MOVEMENT FEEL MORE COMPELLING",
+      "Bass supplies more than weight. In a 2014 experiment, listeners were more sensitive to timing deviations in lower-pitched than higher-pitched tones presented together; tapping adjustments also reflected that difference. The researchers proposed an auditory explanation for the common musical practice of assigning rhythmic foundations to bass instruments. This was a controlled timing experiment, not proof that every bass-heavy track produces better dancing. [Hove and colleagues: lower pitch and timing perception](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104866/)",
+      "More direct evidence came from a 2022 live electronic-music concert experiment. Researchers switched very-low-frequency speakers on and off and tracked audience movement. Movement increased when those frequencies were present. A follow-up detection experiment suggested the added sound was not consciously detectable in the tested conditions. The authors proposed possible vestibular or tactile involvement—the systems associated with balance and bodily vibration—without establishing one definitive pathway. [Cameron and colleagues: very-low-frequency sound and dancing](https://experts.mcmaster.ca/scholarly-works/2473079)",
+      "That result is intriguing precisely because it connects controlled manipulation with a real audience. It is not a recommendation to keep increasing a sound system’s volume. Frequency content, loudness, distortion and personal preference are different variables. Excessive sound exposure can damage hearing; risk depends on both level and duration. More bass is not automatically more musical pleasure, and louder is not automatically better. [WHO: safe listening](https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-safe-listening)",
+      "## ANTICIPATION, DOPAMINE AND THE DROP",
+      "Musical pleasure has measurable biological correlates. In a landmark 2011 study, researchers used PET imaging to investigate dopamine release while people heard music that elicited intense pleasure and chills. Related fMRI measurements distinguished activity associated with anticipation from activity around peak emotional experience. The work involved selected listeners and music, not a representative sample of every nightclub audience. [Salimpoor and colleagues: dopamine and musical emotion](https://pubmed.ncbi.nlm.nih.gov/21217764/)",
+      "This helps frame, rather than fully explain, a familiar dance-music sequence. During a build-up, a producer may increase rhythmic density, alter timbre or remove the bass. The listener expects a return. When the drop restores the low end and rhythmic weight, the contrast can feel enormous even if the track’s BPM never changed. Analysis of build-ups and drops has connected those production choices with musical expectancy and heightened emotional experience. [Solberg: “Waiting for the Bass to Drop”](https://dj.dancecult.net/index.php/dancecult/article/view/451)",
+      "The cautious interpretation is that expectation and reward research offers a plausible framework for the drop’s appeal. It would be an overstatement to claim that every drop produces a measured dopamine surge in everyone. Familiarity, taste and context matter; a predictable climax can be exhilarating for one listener and tiresome for another. Older house traditions also remind us that dancing need not revolve around spectacular drops: a sustained groove can carry a floor for much longer than a single moment of release.",
+      "## WHAT HAPPENS TO YOUR HEART WHEN YOU DANCE?",
+      "When dancing becomes physical exertion, working muscles need more oxygen and energy. The cardiovascular and respiratory systems respond: the heart generally beats faster and breathing increases as activity becomes more demanding. Gentle swaying and vigorous jumping impose very different demands, even when the same track accompanies both. Public-health guidance therefore classifies activity by its intensity, not by the BPM displayed on a DJ deck. [NHLBI: types of physical activity](https://www.nhlbi.nih.gov/health/heart/physical-activity/types)",
+      "Excitement and sympathetic nervous-system activity, including adrenaline-related arousal, can also contribute to the body’s response. [Research on autonomic responses during exercise](https://pubmed.ncbi.nlm.nih.gov/1565926/) But a person’s heart rate reflects many influences: exertion, fitness, temperature, emotional state and individual physiology. A 128 BPM track does not compel the sinoatrial node—the heart’s natural pacemaker—to produce exactly 128 beats each minute. [NHLBI: how the heart beats](https://www.nhlbi.nih.gov/health/heart/heart-beats)",
+      "A small laboratory study published in *Heart* measured cardiovascular and breathing responses while 12 musicians and 12 non-musicians listened to different music. Faster tempos were associated with greater arousal, while a pause reduced several measures. That is evidence that musical structure can affect physiology. It is not evidence of automatic one-to-one matching between heartbeats and musical beats, and passive listening is not equivalent to dancing. [Bernardi and colleagues: music, breathing and cardiovascular responses](https://pubmed.ncbi.nlm.nih.gov/16199412/)",
+      "The distinction resolves the movie’s central shortcut. **Your movements can synchronize with a song while your heart responds to the work those movements require.** Those are different processes. You can step on every other beat, pause to rest or dance more vigorously without the DJ changing the tempo at all. Regular physical activity can support cardiovascular health, but a specific track speed cannot guarantee a particular exercise intensity or calorie expenditure. [NHLBI: physical activity and heart health](https://www.nhlbi.nih.gov/health/heart/physical-activity/benefits)",
+      "## WHY CAN SOME PEOPLE DANCE NATURALLY WHILE OTHERS STRUGGLE?",
+      "“Having rhythm” bundles several abilities together: detecting the pulse, remembering a pattern, predicting timing, coordinating limbs and adjusting to another person. Someone may hear the beat accurately but find a new sequence of steps difficult. Another person may move confidently while interpreting the musical pulse at a different level. A crowded floor is not a standardized diagnostic test.",
+      "Research comparing instrumentalists and non-musicians shows that musical experience is associated with differences in rhythm perception and production, and that the kind of training matters. However, such group comparisons cannot attribute every difference solely to lessons: people also bring different starting abilities and experiences to music. What appears effortless can include years of informal listening and practice, as well as formal instruction. [Instrument-specific training and rhythm skills](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00069/full)",
+      "Beat deafness is a more specific difficulty than feeling awkward at a party. A 2011 case study described a man called Mathieu who struggled to synchronize body movement with most musical excerpts and to recognize when a model dancer was out of time. His near-normal synchronization with a metronome suggested a problem finding the beat within music rather than a blanket inability to make timed movements. One striking case does not establish how common the condition is. [Phillips-Silver and colleagues: beat deafness](https://pubmed.ncbi.nlm.nih.gov/21316375/)",
+      "Even among people without that difficulty, preferred timing differs. Research on musicians and non-musicians interacting rhythmically shows that their own spontaneous rates can influence coordination with a partner. Synchronization is an ongoing adjustment between people, not evidence that one group possesses rhythm and everyone else lacks it. [Endogenous rhythms and interpersonal synchrony](https://pmc.ncbi.nlm.nih.gov/articles/PMC9334298/)",
+      "## WHY DANCING TOGETHER CAN FEEL DIFFERENT",
+      "A room of people sharing a pulse supplies information beyond the speakers. You see shoulders rise, anticipate another person’s gesture and adjust your own timing. Music provides a common reference, but the dancers help create the experience for one another. That is one reason a recording heard alone and the same recording played in a meaningful social space can feel so different.",
+      "In a 2015 dance experiment, synchrony and exertion independently contributed to increased pain thresholds and feelings of social bonding. The researchers discussed endorphin-system involvement, but pain threshold was an indirect proxy, not a direct measurement of endorphin release. The finding supports a connection between coordinated movement and social closeness; it does not mean everyone at a synchronized event forms a lasting friendship. [Tarr and colleagues: dance, synchrony and bonding](https://pmc.ncbi.nlm.nih.gov/articles/PMC4650190/)",
+      "That distinction brings us back to the Warehouse. Biology can help explain capacities for moving together. History explains why particular people built particular spaces in which doing so mattered. The meaning of a dance floor cannot be read from a brain scan alone.",
+      "For another perspective on how the brain shapes lived experience, read PRESDA’s [explanation of memory and Alzheimer’s disease](/articles/alzheimers-disease-brain-memory-loss/). The subject is different, but the same caution applies: a person is more than a diagram of neural activity.",
+      "## HOUSE MUSIC: MYTH VS REALITY",
+      "### “128 BPM is a magic number”",
+      "It is a familiar tempo within a broader dance-music range. Experiments find preferences that vary with listeners, musical patterns and tasks. They do not establish an automatic human dance threshold at 128.",
+      "### “Your heartbeat synchronizes exactly with the song”",
+      "Music can influence arousal, and exertion can raise heart rate. Neither means a song’s tempo dictates the exact number of heartbeats. Keeping your feet on the beat is not the same physiological process as regulating circulation.",
+      "### “Louder bass automatically makes music better”",
+      "Low-frequency content can affect timing perception and movement. That does not make loudness a quality scale. Musical balance and listening conditions matter, and excessive exposure can harm hearing.",
+      "### “DJs literally control people’s brains”",
+      "A DJ shapes the sounds and expectations available to a crowd. Listeners interpret those signals through their own histories, preferences and choices. Entrainment is not mind control.",
+      "### “Everyone perceives rhythm identically”",
+      "Musical experience, preferred timing and perceptual or motor differences all affect responses. A shared beat creates opportunities for coordination without making the people following it identical.",
+      "### “House began as generic festival music”",
+      "Its global reach grew from specific dance communities, especially Chicago’s Black and queer club culture. The history is richer when those origins remain visible.",
+      "## A BEAT IS AN INVITATION",
+      "The most convincing part of the film’s scene is its faith in a DJ’s ability to change a room. Its mistake is reducing that change to a numerical command. The research points toward several interacting processes, not one switch: prediction, movement planning, rhythmic complexity, low-frequency sensation, reward and social coordination.",
+      "A good DJ hears more than the tempo. A dancer contributes more than a pulse. Between them sit memories of other songs, expectations of what comes next, and the small pleasure of landing a movement where a sound arrives.",
+      "House music turned repeated beats into a remarkably flexible form of human expression. Its power does not depend on every heart reaching the same number. A DJ cannot set the human body to 128 BPM like a machine. But a well-built beat can give the brain so much to anticipate—and the body such a clear invitation—that staying still becomes surprisingly difficult."
+    ],
+    "references": [
+      {
+        "name": "TheWrap’s contemporary coverage of the film’s trailer",
+        "url": "https://www.thewrap.com/zac-efron-is-a-rising-edm-dj-falling-for-emily-ratajkowski-in-first-we-are-your-friends-trailer-video/"
+      },
+      {
+        "name": "Chicago landmark designation record",
+        "url": "https://chicago.councilmatic.org/legislation/o2023-0001746/"
+      },
+      {
+        "name": "Frankie Knuckles oral-history finding aid",
+        "url": "https://www.thehistorymakers.org/sites/default/files/A2013_235_EAD.pdf"
+      },
+      {
+        "name": "Preservation Chicago’s Warehouse history",
+        "url": "https://www.preservationchicago.org/wp-content/uploads/2023/12/Warehouse-Chi-7-2023-Final.pdf"
+      },
+      {
+        "name": "Roland TR-909 history and producer interviews",
+        "url": "https://djmag.com/content/rolands-iconic-tr-909-we-chart-history-influential-drum-machine"
+      },
+      {
+        "name": "Roland’s 303 history and DJ Pierre material",
+        "url": "https://www.roland.com/uk/promos/303day/"
+      },
+      {
+        "name": "NYC LGBTQ Historic Sites Project: Paradise Garage",
+        "url": "https://www.nyclgbtsites.org/site/paradise-garage/"
+      },
+      {
+        "name": "Detroit Historical Society’s musical legacy resource",
+        "url": "https://www.detroithistorical.org/sites/default/files/lessonPlans/Detroit.Musical.LegacyFINAL.pdf"
+      },
+      {
+        "name": "British Culture Archive: acid house",
+        "url": "https://britishculturearchive.co.uk/acid-house/"
+      },
+      {
+        "name": "London Museum: acid-house badge",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-465796/badge-lapel-badge/"
+      },
+      {
+        "name": "Kawase and Eguchi’s tempo experiment",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00462/full"
+      },
+      {
+        "name": "Spontaneous motor tempo and musical preference",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.952488/full"
+      },
+      {
+        "name": "Research on the brain basis of musical rhythm perception",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4101486/"
+      },
+      {
+        "name": "Chen, Penhune and Zatorre: listening to musical rhythms",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18388350/"
+      },
+      {
+        "name": "Meta-analysis of motor-system recruitment during music listening",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6242316/"
+      },
+      {
+        "name": "Teki and colleagues: duration-based and beat-based auditory timing",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3074096/"
+      },
+      {
+        "name": "Nozaradan and colleagues: beat and meter entrainment",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21753000/"
+      },
+      {
+        "name": "Selective neuronal entrainment to musical rhythm",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6621650/"
+      },
+      {
+        "name": "Witek and colleagues: syncopation, movement and pleasure",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446"
+      },
+      {
+        "name": "Sioros and colleagues: syncopation in synthesized music",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01036/full"
+      },
+      {
+        "name": "Hove and colleagues: lower pitch and timing perception",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4104866/"
+      },
+      {
+        "name": "Cameron and colleagues: very-low-frequency sound and dancing",
+        "url": "https://experts.mcmaster.ca/scholarly-works/2473079"
+      },
+      {
+        "name": "WHO: safe listening",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-safe-listening"
+      },
+      {
+        "name": "Salimpoor and colleagues: dopamine and musical emotion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21217764/"
+      },
+      {
+        "name": "Solberg: “Waiting for the Bass to Drop”",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/451"
+      },
+      {
+        "name": "NHLBI: types of physical activity",
+        "url": "https://www.nhlbi.nih.gov/health/heart/physical-activity/types"
+      },
+      {
+        "name": "Research on autonomic responses during exercise",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1565926/"
+      },
+      {
+        "name": "NHLBI: how the heart beats",
+        "url": "https://www.nhlbi.nih.gov/health/heart/heart-beats"
+      },
+      {
+        "name": "Bernardi and colleagues: music, breathing and cardiovascular responses",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16199412/"
+      },
+      {
+        "name": "NHLBI: physical activity and heart health",
+        "url": "https://www.nhlbi.nih.gov/health/heart/physical-activity/benefits"
+      },
+      {
+        "name": "Instrument-specific training and rhythm skills",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00069/full"
+      },
+      {
+        "name": "Phillips-Silver and colleagues: beat deafness",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21316375/"
+      },
+      {
+        "name": "Endogenous rhythms and interpersonal synchrony",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9334298/"
+      },
+      {
+        "name": "Tarr and colleagues: dance, synchrony and bonding",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4650190/"
+      }
+    ],
+    "tags": [
+      "house music",
+      "history of house music",
+      "why music makes us dance",
+      "128 BPM",
+      "BPM music",
+      "science of dancing",
+      "brain and rhythm",
+      "Frankie Knuckles",
+      "neuroscience of music",
+      "Science"
+    ],
+    "readingTime": "18 min read",
+    "status": "published"
+  },
+  {
     "id": "086",
     "slug": "british-empire-history-rise-fall-global-legacy",
     "title": "BRITISH EMPIRE: HOW A SMALL ISLAND BUILT THE LARGEST EMPIRE IN HISTORY",
