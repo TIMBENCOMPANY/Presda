@@ -518,7 +518,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
     || article.slug === "mongol-empire-genghis-khan-conquests-legacy"
     || article.slug === "byzantine-empire-eastern-rome-constantinople-1453"
     || article.slug === "persian-empire-cyrus-great-achaemenid-history"
-    || article.slug === "abbasid-caliphate-baghdad-islamic-golden-age";
+    || article.slug === "abbasid-caliphate-baghdad-islamic-golden-age"
+    || article.slug === "british-empire-history-rise-fall-global-legacy";
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
