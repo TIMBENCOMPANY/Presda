@@ -54,6 +54,231 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "093",
+    "slug": "endless-scrolling-phone-attention-sleep-science",
+    "title": "YOUR PHONE IS STEALING YOUR ATTENTION: THE SCIENCE OF ENDLESS SCROLLING",
+    "seoTitle": "Endless Scrolling: How Your Phone Affects Attention and Sleep",
+    "metaDescription": "Explore the science of endless scrolling, dopamine, attention, sleep and mood—and what screen-time experiments reveal about taking back your attention.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "YOUR PHONE",
+      "gold": "ENDLESS SCROLLING"
+    },
+    "excerpt": "One notification becomes an hour. Discover what research reveals about scrolling, sleep, attention and relationships—and try seven days of more intentional phone use.",
+    "category": "Science",
+    "date": "2026-09-16",
+    "lastUpdated": "2026-09-16",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/endless-scrolling-family-phone-addiction.webp",
+    "coverAlt": "Editorial illustration of a family sitting together while separately absorbed in phones and a tablet",
+    "homepageImagePosition": "50% 0%",
+    "content": [
+      "You check one notification before bed. One video becomes twenty. Suddenly an hour is gone. The room is quiet, tomorrow’s alarm has not moved, and the phone is still offering something new.",
+      "Endless scrolling can feel like a small failure of willpower. A more useful explanation starts with the interaction between a person and a design: a feed without an obvious ending, content of unpredictable interest, familiar checking habits and a device that follows us into almost every setting. Attention becomes available to the next interruption before we have decided where to put it.",
+      "But the science does not support the idea that smartphones are permanently destroying everyone’s brain. Research distinguishes immediate distraction, patterns associated with poorer sleep or mood, and effects demonstrated in experiments. Those are different kinds of evidence. Understanding the differences makes it easier to change what is actually getting in the way.",
+      "*Image note: the hero is an editorial illustration of a family using screens, not a clinical assessment or evidence that the people depicted have an addiction.*",
+      "## WHY CAN’T YOU STOP AFTER ONE VIDEO?",
+      "A chapter ends. A newspaper has a final page. An infinite feed loads more material as you move through it. Autoplay can remove even the decision to start the next clip. Stopping remains possible, but the interface supplies fewer moments at which stopping becomes the obvious next action.",
+      "Researchers studying interface “friction” have tested ways of interrupting that smooth progression. A small study comparing infinite scrolling with a design that required a reaction before continuing found trade-offs between less mindless use and user satisfaction. It does not establish that every feed is harmful; it demonstrates why interface design belongs in the discussion alongside individual self-control. [Design Frictions on Social Media: research from Aarhus University](https://pure.au.dk/portal/en/publications/design-frictions-on-social-media-balancing-reduced-mindless-scrol/)",
+      "### The next item might be better",
+      "Not every post is interesting. That uncertainty can itself help sustain checking: perhaps the next video will be funny, useful, reassuring or surprising. “Variable rewards” describes this uneven payoff. It is a plausible learning mechanism, not proof that scrolling is neurologically identical to gambling or that every platform uses the same reinforcement schedule.",
+      "A study in *Nature Communications* combined social-media datasets with an experiment manipulating the likes people received. Posting behavior responded to social rewards in ways consistent with reward-learning models. Its experiments concerned posting and feedback, however—not a measurement of dopamine during every swipe through an endless video feed. [A computational reward learning account of social media engagement](https://www.nature.com/articles/s41467-020-19607-x)",
+      "### When a choice becomes a checking habit",
+      "A pause in conversation, a difficult paragraph or the sight of the phone can become a cue. Unlocking it provides an immediate activity. Repetition can make the sequence familiar enough that the original intention—checking the weather, for example—gets lost after the app opens.",
+      "Research comparing recorded smartphone use with people’s estimates found that awareness of checking frequency can be poor. This is one reason a device’s usage log can reveal something that memory misses. The log still needs interpretation: navigation, work, video calls and unwanted late-night scrolling are not interchangeable activities. [Beyond Self-Report: Tools to Compare Estimated and Real-World Smartphone Use](https://pmc.ncbi.nlm.nih.gov/articles/PMC4625000/)",
+      "## IS DOPAMINE REALLY THE PROBLEM?",
+      "Dopamine is a signaling chemical involved in several functions, including movement, motivation and learning. In reward research, an important finding is that some dopamine signals reflect the difference between an expected outcome and what actually occurs. An unexpectedly good result can help update what the brain learns to seek.",
+      "That is subtler than calling dopamine a pleasure substance that the phone dispenses. A signal involved in learning is not itself an addiction diagnosis. Nor can researchers infer the size or timing of someone’s dopamine response simply by counting videos watched. [Wolfram Schultz: dopamine reward prediction-error signaling](https://pmc.ncbi.nlm.nih.gov/articles/PMC5549862/)",
+      "Reward also includes distinguishable processes: enjoying an experience, wanting to pursue it and learning the cues that predict it. These processes can interact without being identical. That distinction helps explain why continuing to check something need not mean that every moment is enjoyable. [Berridge, Robinson and Aldridge: liking, wanting and learning](https://www.sciencedirect.com/science/article/pii/S1471489208002129)",
+      "The practical target is therefore a pattern of behavior, not the elimination of normal dopamine activity. A weekend away from social media does not prove that a depleted chemical reservoir has refilled. “Dopamine detox” is a popular label, not a precise description of the neuroscience. The more useful question is what cues keep pulling you back—and whether the activity still serves the purpose you opened it for.",
+      "Reward systems also participate in experiences people value, including music. Our exploration of [music, rhythm and the brain](/articles/house-music-brain-rhythm-128-bpm-science-dancing/) shows why invoking reward biology alone cannot tell us whether an activity is beneficial or harmful.",
+      "## IS YOUR PHONE ACTUALLY DESTROYING YOUR ATTENTION?",
+      "**A distraction today is not evidence of permanent brain damage.** Attention research asks several separate questions: does an interruption interfere with the task in front of you, is heavier use associated with weaker performance, and does changing use improve performance? Those questions require different studies.",
+      "### A notification can interrupt without being opened",
+      "In a laboratory experiment published in 2015, receiving phone notifications disrupted performance on an attention-demanding task even when participants did not interact with the device. A vibration can start a competing train of thought: who was that, is it urgent, should I reply? [Stothart and colleagues: the attentional cost of receiving a cell phone notification](https://pubmed.ncbi.nlm.nih.gov/26121498/)",
+      "Switching from a paragraph to a message and back also means recovering what the paragraph was doing. The relevant loss is not always the few seconds spent looking at the screen. It can include the effort of reconstructing the interrupted goal. Muting unnecessary alerts is a way to reduce invitations to switch, rather than demanding uninterrupted resistance to them.",
+      "### Short-form video: concerning associations, unfinished causal evidence",
+      "A 2025 systematic review and meta-analysis combined **71 studies involving 98,299 participants**. Greater short-form video use was associated with poorer cognitive outcomes, with attention and inhibitory control among the strongest relationships. The review is evidence that the concern deserves serious study, not evidence that a particular number of clips irreversibly shortens a person’s attention span. [Feeds, feelings, and focus: short-form video research synthesis](https://pubmed.ncbi.nlm.nih.gov/41231585/)",
+      "People who already find sustained concentration difficult may be more drawn to rapidly changing content. Poor sleep, stress or other factors may contribute to both heavier use and difficulty concentrating. “Associated with” does not identify which direction the relationship runs, and a pooled correlation does not become a brain-damage measurement merely because the sample is large.",
+      "A separate randomized experiment in 2025 blocked mobile internet on participants’ smartphones for two weeks, while allowing calls, texts and internet access on other devices. It found improvements in an objective sustained-attention task as well as mental-health and well-being measures. This supports the possibility of improvement when constant access changes; it does not isolate short videos as the cause or establish lasting effects for everyone. Adherence and the short intervention also limit generalization. [PNAS Nexus: blocking mobile internet and sustained attention](https://doi.org/10.1093/pnasnexus/pgaf017)",
+      "## WHAT DOES SCROLLING DO TO YOUR SLEEP?",
+      "The simplest pathway requires no elaborate neuroscience: time spent awake with a phone may replace time available for sleep. If the alarm stays fixed while bedtime moves later, the opportunity to sleep shrinks. An argument, suspenseful video or alarming news story can also make settling down harder.",
+      "Screen light is another pathway, but its effect depends on brightness, timing, duration and viewing conditions. A controlled experiment comparing evening reading on a light-emitting device with a printed book found changes in melatonin, circadian timing and next-morning alertness. Its prolonged laboratory exposure should not be treated as a precise prediction of what any brief glance at any phone will do. [Chang and colleagues: evening light-emitting eReaders and sleep](https://pubmed.ncbi.nlm.nih.gov/25535358/)",
+      "Changing a display’s color does not return an hour spent watching videos. Light, emotional arousal and delayed bedtime are distinct mechanisms; addressing only one may leave the others intact.",
+      "### What the large cohort review found",
+      "A systematic review and meta-analysis included **21 cohort studies and 548,338 participants**. Greater screen exposure was associated with shorter sleep duration and higher odds of short sleep. The review covered different ages and screen activities, not exclusively smartphone scrolling. Different analyses used different subsets of the studies. [The association of screen time and the risk of sleep outcomes](https://pmc.ncbi.nlm.nih.gov/articles/PMC12754674/)",
+      "Cohort studies follow people over time, which can help clarify the order of events. They still do not randomly assign a person’s habits. Self-reported use, different definitions of short sleep and factors such as stress or family routines complicate interpretation. People having trouble sleeping may also use screens because they are already awake. The association is useful evidence; it is not proof that screen time caused every observed sleep difference.",
+      "### What the small bedtime experiment found",
+      "A randomized pilot trial assigned **38 participants**, 19 per group, either to avoid their mobile phones for **30 minutes before bedtime for four weeks** or to receive no such restriction. The intervention group improved on reported sleep-related outcomes and aspects of a working-memory task. [He and colleagues: restricting bedtime mobile phone use](https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/)",
+      "The limitations are important: the sample was small, sleep was assessed with diaries and questionnaires, and participants were motivated to reduce bedtime use. This was encouraging preliminary evidence, not proof that a 30-minute boundary cures insomnia, restores everyone’s memory or works identically for every age group.",
+      "## WHY DO WE SCROLL WHEN WE ARE ALREADY TIRED?",
+      "Being tired does not necessarily mean being ready to surrender the last unclaimed part of the day. After work, study or caregiving, a person may want entertainment that asks little of them. A feed is immediately available; getting ready for bed requires ending that activity.",
+      "Researchers use **bedtime procrastination** for going to bed later than intended when external circumstances are not preventing it. Early studies connected the pattern with insufficient sleep, while subsequent work examined the role of chronotype—the tendency toward earlier or later timing—as well as self-regulation. It is not simply a measure of laziness. [Kroese and colleagues: introducing bedtime procrastination](https://pubmed.ncbi.nlm.nih.gov/24994989/) [A daily-diary study of chronotype and bedtime procrastination](https://pubmed.ncbi.nlm.nih.gov/29456519/)",
+      "“Revenge bedtime procrastination” is the popular phrase for trying to reclaim personal time by postponing sleep. It is a description, not a separate clinical diagnosis or an explanation that fits every late night. Shift work, caring for a baby and lying awake with insomnia are not the same as freely postponing bedtime to finish a feed.",
+      "For someone who recognizes the reclaiming-time pattern, a useful experiment is to schedule a little chosen leisure earlier, rather than leaving all relaxation until the moment sleep is due. The aim is to understand what the scrolling is providing. Removing the phone without replacing the relief may leave the original need untouched.",
+      "## PROBLEMATIC USE IS NOT THE SAME AS A CLINICAL ADDICTION",
+      "“I’m addicted to my phone” can express a real loss of control. In research, however, **problematic smartphone use** and addiction are not interchangeable labels. Studies use different questionnaires, definitions and cutoffs. A systematic review of measurement scales highlighted the lack of a gold-standard definition and disagreement over applying an addiction framework. [Problematic Mobile Phone and Smartphone Use Scales: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC7214716/)",
+      "Hours alone cannot establish a diagnosis. A person using a phone for essential work may accumulate substantial time without the same pattern as someone repeatedly missing sleep or obligations despite wanting to stop. Questions about distress, interference and control are more informative than a dramatic label attached to a screen-time total.",
+      "Persistent sleep problems, low mood or difficulties functioning deserve attention in their own right. A phone-free evening can be worth trying without becoming a substitute for professional assessment when those problems continue.",
+      "## SOCIAL MEDIA, ANXIETY AND DEPRESSION: WHICH WAY DOES THE ARROW POINT?",
+      "An association between heavier use and poorer mental health can fit several stories. Online harassment or distressing comparison might worsen someone’s mood. Someone already feeling anxious or isolated might seek reassurance online. A stressful life event might increase both distress and time on a feed. More than one pathway can operate in the same person.",
+      "The content matters too. A supportive conversation, an educational video and a hostile comment thread may take the same number of minutes while producing very different experiences. Social media can offer connection as well as expose users to bullying, hate or misinformation. [American Psychological Association: social media’s benefits and risks](https://www.apa.org/topics/social-media-internet)",
+      "It is therefore a mistake to treat a phone as the sole explanation for [depression](/articles/depression-what-happens-in-the-brain/). Changing a harmful pattern can help without explaining the whole condition. This is why experiments are especially valuable: they test what happens after use changes, rather than only comparing people who already use their devices differently.",
+      "## WHAT HAPPENS WHEN PEOPLE ACTUALLY CUT THEIR SCREEN TIME?",
+      "### The 2025 student trial",
+      "In a randomized trial published in *BMC Medicine*, **111 students** were assigned to an intervention or control group. Their baseline smartphone use averaged **276 minutes a day**—about four hours and 36 minutes. The intervention asked participants to reduce use to **no more than two hours daily for three weeks**.",
+      "Compared with the control group, the intervention produced improvements in measures of well-being, stress, depressive symptoms and sleep-related difficulties. The reported effects were small to medium. But smartphone use rose rapidly once the restriction ended and approached its starting level at follow-up. [Pieh and colleagues: smartphone screen-time reduction trial](https://doi.org/10.1186/s12916-025-03944-z)",
+      "This was an unblinded trial in healthy students, with questionnaire outcomes and a short intervention. Randomization strengthens causal inference about that intervention in that sample; it does not make two hours a universal medical limit. It also does not show that every participant felt better, that diagnosed depression was cured, or that the gains would persist indefinitely.",
+      "### A week away helped in one experiment",
+      "A 2022 randomized trial assigned **154 adults** either to take a one-week break from selected social-media platforms or continue as usual. The break group reported better well-being and lower depression and anxiety scores at the one-week assessment. That provides experimental support for a short break helping some outcomes under those conditions. It does not establish a permanent benefit or imply that useful online relationships should be abandoned. [Lambert and colleagues: a one-week social-media break](https://pubmed.ncbi.nlm.nih.gov/35512731/)",
+      "### Other experiments found little clear benefit",
+      "Three preregistered field experiments, reported together in 2021, compared normal-use and abstinence days in randomized order. They found no consistent improvement in daily well-being from abstaining. The short duration and incomplete adherence matter, just as they matter when interpreting positive trials. [Przybylski and colleagues: three randomized social-media break experiments](https://link.springer.com/article/10.1007/s41347-020-00189-w)",
+      "A 2025 meta-analysis of **10 studies involving 4,674 participants** likewise found no statistically significant overall effects of temporary abstinence on positive affect, negative affect or life satisfaction. Those specific outcomes are not identical to every depression, anxiety or sleep measure used elsewhere. [Social-media abstinence, affective well-being and life satisfaction: meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40038410/)",
+      "The fair conclusion is that the intervention, person, outcome and context all matter. Reducing unwanted late-night use is not the same experiment as banning every social platform for a day. A null result does not prove nobody benefits; a positive result does not prove everyone must quit.",
+      "## TOGETHER IN THE ROOM, ELSEWHERE IN ATTENTION",
+      "The family in the hero illustrates a familiar possibility: people sharing a sofa while attending to separate worlds. The issue is not that every quiet moment must become a conversation. It is whether checking repeatedly interrupts moments when somebody else is asking to be heard.",
+      "A field experiment involving meals with friends or family found that having phones available increased distraction and reduced enjoyment of the interaction compared with putting them away. Related experience-sampling results supported that pattern. The study concerns immediate experience, not proof that every phone at dinner destroys a relationship. [Dwyer, Kushlev and Dunn: smartphones and face-to-face enjoyment](https://www.sciencedirect.com/science/article/pii/S0022103117301737)",
+      "An agreed phone-free meal can remove ambiguity: everyone knows that attention is available. Exceptions can be stated plainly—someone awaiting an urgent call, for example. The useful unit is a shared moment people want to protect, not a contest over who has the lowest weekly total.",
+      "## ARE CHILDREN MORE VULNERABLE?",
+      "Children and teenagers are still developing ways of managing impulses, relationships and emotionally charged information. Peer feedback, appearance comparison and bullying can be especially important in adolescence. But young people differ, and social platforms can also provide friendship, creativity and support.",
+      "The American Psychological Association’s advisory emphasizes developmental readiness, personal circumstances and what users actually encounter. It recommends protecting sleep and physical activity rather than treating all social-media use as inherently harmful. Findings in university students cannot simply be transferred to a much younger child. [APA health advisory on social media use in adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use)",
+      "Adults are part of the environment too. A rule about listening during meals is more credible when parents follow it. The American Academy of Pediatrics recommends a family media plan that includes adults, shared screen-free settings, appropriate content and revisiting the plan as children develop. [American Academy of Pediatrics: making a family media plan](https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx)",
+      "The conversation can begin with concrete observations: bedtime keeps slipping; homework is interrupted; a particular account leaves someone upset. These are easier to address than telling a child that their brain has been ruined. Ask what they enjoy online as well as what feels difficult to leave.",
+      "## PHONE & SCROLLING: MYTH VS REALITY",
+      "### Myth: smartphones permanently destroy the brain",
+      "Distraction, reported symptoms and correlations with cognitive performance do not establish permanent brain damage. Experimental improvements after changes in access also challenge a simplistic story of inevitable, irreversible decline.",
+      "### Myth: dopamine is a toxin that must be detoxed",
+      "Dopamine supports normal functions. Changing a habit is not the same as removing a harmful substance from the body or proving a chemical “reset.”",
+      "### Myth: a large correlation proves what caused the problem",
+      "Sample size can improve statistical precision. It cannot remove every confounding influence, solve reverse causation or turn an observational study into a randomized experiment.",
+      "### Myth: every hour of screen time is equivalent",
+      "Purpose, content, timing and what the activity replaces all matter. A call to a distant friend and an unwanted hour of bedtime scrolling should not be assumed to have identical effects.",
+      "### Myth: cutting social media makes everybody happier",
+      "Randomized studies have produced mixed results. Some interventions improve measured outcomes; others find little clear change. Supportive contact and practical uses can be lost as well as unwanted habits reduced.",
+      "### Myth: two hours is a diagnostic boundary",
+      "The student trial tested a particular target. It did not establish that crossing that number means addiction, illness or harm for every person.",
+      "## 7 DAYS TO TAKE BACK YOUR ATTENTION",
+      "Treat the next week as a **personal experiment, not medical treatment**. The combined plan below has not been validated as a seven-day therapy, and its time boundaries are practical choices rather than biological thresholds. The aim is to find out whether a few changes improve the parts of your day you care about.",
+      "### Before day one: record a baseline",
+      "Save your phone’s previous seven-day screen-time report. Note which apps take the most time and when unwanted sessions happen. Also write down a few observations: usual bedtime, morning tiredness, interruptions during a chosen task and whether meals feel distracted. Compare similar days where possible; a holiday and an examination week are not equivalent baselines.",
+      "### Protect the first 30 minutes after waking",
+      "Keep the phone aside while getting dressed, eating or deciding what the morning needs. Preserve essential access for health, accessibility, caregiving or work. This boundary is a test of starting the day intentionally, not a claim that morning checking is uniquely toxic.",
+      "### Protect the last 30–60 minutes before sleep",
+      "Choose a realistic stopping time and a replacement: a printed book, a shower, quiet music or a conversation. Put the phone somewhere that requires a deliberate choice to retrieve it. Maintain urgent-contact access where needed. The bedtime pilot supports testing a short buffer, but neither its results nor this experiment guarantee better sleep.",
+      "### Remove unnecessary invitations to check",
+      "Disable non-essential notifications while retaining the people and alerts that genuinely need to reach you. Move social apps off the home screen. That extra step is a small prompt to ask why you are opening the app; it is not a proven treatment on its own. Turn off autoplay where available and choose an ending before beginning a session.",
+      "### Make meals and conversations available to each other",
+      "Agree to put phones away during a meal or a defined conversation. If a check is necessary, explain it and return. Choose a shared rule that includes adults. The aim is reliable attention, not policing every glance.",
+      "### After seven days: measure what changed",
+      "Compare the two usage reports, but also ask whether bedtime moved, interruptions fell or time together felt different. Check whether scrolling simply migrated to another device. Look for a pattern rather than judging one difficult day. A personal before-and-after comparison cannot establish causation: workload, expectations and other changes may influence how you feel.",
+      "Keep the boundaries that were useful and adjust the ones that were impractical. If nothing improved, that is information—not evidence that you failed or that your brain is beyond repair. If significant sleep or mood difficulties persist, seek help for those difficulties rather than escalating into ever-stricter rules.",
+      "The point is not to make the phone disappear. It is to make the decision to use it visible again. A feed can always offer another video. It does not have to decide when your evening ends."
+    ],
+    "references": [
+      {
+        "name": "Design Frictions on Social Media: research from Aarhus University",
+        "url": "https://pure.au.dk/portal/en/publications/design-frictions-on-social-media-balancing-reduced-mindless-scrol/"
+      },
+      {
+        "name": "A computational reward learning account of social media engagement",
+        "url": "https://www.nature.com/articles/s41467-020-19607-x"
+      },
+      {
+        "name": "Beyond Self-Report: Tools to Compare Estimated and Real-World Smartphone Use",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4625000/"
+      },
+      {
+        "name": "Wolfram Schultz: dopamine reward prediction-error signaling",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549862/"
+      },
+      {
+        "name": "Berridge, Robinson and Aldridge: liking, wanting and learning",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1471489208002129"
+      },
+      {
+        "name": "Stothart and colleagues: the attentional cost of receiving a cell phone notification",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26121498/"
+      },
+      {
+        "name": "Feeds, feelings, and focus: short-form video research synthesis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41231585/"
+      },
+      {
+        "name": "PNAS Nexus: blocking mobile internet and sustained attention",
+        "url": "https://doi.org/10.1093/pnasnexus/pgaf017"
+      },
+      {
+        "name": "Chang and colleagues: evening light-emitting eReaders and sleep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25535358/"
+      },
+      {
+        "name": "The association of screen time and the risk of sleep outcomes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12754674/"
+      },
+      {
+        "name": "He and colleagues: restricting bedtime mobile phone use",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/"
+      },
+      {
+        "name": "Kroese and colleagues: introducing bedtime procrastination",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24994989/"
+      },
+      {
+        "name": "A daily-diary study of chronotype and bedtime procrastination",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29456519/"
+      },
+      {
+        "name": "Problematic Mobile Phone and Smartphone Use Scales: a systematic review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7214716/"
+      },
+      {
+        "name": "American Psychological Association: social media’s benefits and risks",
+        "url": "https://www.apa.org/topics/social-media-internet"
+      },
+      {
+        "name": "Pieh and colleagues: smartphone screen-time reduction trial",
+        "url": "https://doi.org/10.1186/s12916-025-03944-z"
+      },
+      {
+        "name": "Lambert and colleagues: a one-week social-media break",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35512731/"
+      },
+      {
+        "name": "Przybylski and colleagues: three randomized social-media break experiments",
+        "url": "https://link.springer.com/article/10.1007/s41347-020-00189-w"
+      },
+      {
+        "name": "Social-media abstinence, affective well-being and life satisfaction: meta-analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40038410/"
+      },
+      {
+        "name": "Dwyer, Kushlev and Dunn: smartphones and face-to-face enjoyment",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022103117301737"
+      },
+      {
+        "name": "APA health advisory on social media use in adolescence",
+        "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use"
+      },
+      {
+        "name": "American Academy of Pediatrics: making a family media plan",
+        "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx"
+      }
+    ],
+    "tags": [
+      "Endless scrolling",
+      "Smartphone use",
+      "Attention",
+      "Screen time",
+      "Dopamine",
+      "Sleep",
+      "Social media",
+      "Mental health",
+      "Science"
+    ],
+    "readingTime": "17 min read",
+    "status": "published"
+  },
+  {
     "id": "092",
     "slug": "han-dynasty-china-silk-road-history-legacy",
     "title": "HAN DYNASTY: HOW AN EMPIRE SHAPED CHINA FOR 2,000 YEARS",

@@ -525,7 +525,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
     || article.slug === "mali-empire-mansa-musa-gold-pilgrimage-history"
     || article.slug === "inca-empire-andes-machu-picchu-rise-fall"
     || article.slug === "spanish-empire-columbus-conquest-silver-global-history"
-    || article.slug === "han-dynasty-china-silk-road-history-legacy";
+    || article.slug === "han-dynasty-china-silk-road-history-legacy"
+    || article.slug === "endless-scrolling-phone-attention-sleep-science";
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
@@ -553,7 +554,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
             priority
             quality={82}
             sizes="(max-width: 1500px) 100vw, 1500px"
-            className={`article-hero-image object-cover ${hasMobilePortrait ? "max-lg:!h-[360px]" : ""}`}
+            className={`article-hero-image object-cover ${article.slug === "endless-scrolling-phone-attention-sleep-science" ? "max-sm:!object-contain" : ""} ${hasMobilePortrait ? "max-lg:!h-[360px]" : ""}`}
             style={heroImageStyle}
           />
           <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
@@ -571,7 +572,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
               <time className="text-right text-white/86" dateTime={article.date}>{formatHeroDate(article.date)}</time>
             </div>
 
-            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""} ${hasMobilePortrait ? "max-lg:!pt-[280px]" : ""}`}>
+            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""} ${hasMobilePortrait ? (article.slug === "endless-scrolling-phone-attention-sleep-science" ? "max-sm:!pt-[160px] sm:max-lg:!pt-[280px]" : "max-lg:!pt-[280px]") : ""}`}>
               <h1 className="article-hero-title text-white">
                 <HeadlineText title={article.title} highlights={articleHeroHighlights} legacyRed={article.headlineAccent} />
               </h1>
