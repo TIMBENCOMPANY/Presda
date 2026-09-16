@@ -523,7 +523,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
     || article.slug === "house-music-brain-rhythm-128-bpm-science-dancing"
     || article.slug === "morocco-history-dynasties-kingdom-independence"
     || article.slug === "mali-empire-mansa-musa-gold-pilgrimage-history"
-    || article.slug === "inca-empire-andes-machu-picchu-rise-fall";
+    || article.slug === "inca-empire-andes-machu-picchu-rise-fall"
+    || article.slug === "spanish-empire-columbus-conquest-silver-global-history";
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition

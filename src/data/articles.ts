@@ -54,6 +54,321 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "091",
+    "slug": "spanish-empire-columbus-conquest-silver-global-history",
+    "title": "SPANISH EMPIRE: HOW COLUMBUS OPENED THE DOOR TO THE FIRST GLOBAL EMPIRE",
+    "seoTitle": "Spanish Empire: Columbus, Conquest, Silver and Global Power",
+    "metaDescription": "Explore the Spanish Empire from Columbus and Indigenous alliances to Potosí silver, Manila trade, colonial exploitation, independence and its global legacy.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "SPANISH EMPIRE",
+      "gold": "FIRST GLOBAL EMPIRE"
+    },
+    "excerpt": "Columbus opened an Atlantic route. Conquest, Indigenous alliances and silver connected two oceans—at an immense human cost. Discover how Spain built and lost a global empire.",
+    "category": "History",
+    "date": "2026-09-16",
+    "lastUpdated": "2026-09-16",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/spanish-empire-conquest-americas.webp",
+    "coverAlt": "Editorial historical reconstruction of Spanish conquistadors arriving on a Caribbean shore beside sailing ships; not a documentary depiction of Columbus’s landing",
+    "homepageImagePosition": "65% 0%",
+    "content": [
+      "Before the Spanish Empire became a chain of cities, mines and ocean crossings, it was an uncertain voyage toward Asia. Columbus sailed west in 1492 looking for a route to established markets. What followed instead was a lasting collision between societies on opposite sides of the Atlantic—and eventually a commercial system reaching across the Pacific as well.",
+      "Spain became one of history’s first truly global imperial powers. Calling it **the first global empire** is a convention, not an uncontested finish line: Portugal’s earlier maritime expansion also connected continents, and historians define “global” differently. Spain’s distinctive achievement was to join extensive American possessions to European power and an Asian trading base. The connections carried opportunity and knowledge, but also conquest, slavery and devastating disease. [Scholarship on the early modern Iberian empires](https://www.cambridge.org/core/journals/journal-of-global-history/article/early-modern-iberian-empires-global-history-and-the-history-of-early-globalization/0FBF8F69B038939B1C3A070C0DBA3C99)",
+      "*Image note: the hero is an editorial historical reconstruction evoking the era of Spanish overseas conquest. It is not a documentary depiction of Columbus’s landing or a literal portrait of a particular participant.*",
+      "## 1492: GRANADA, THE MONARCHS AND AN ATLANTIC GAMBLE",
+      "Ferdinand of Aragon and Isabella of Castile brought their dynasties together without immediately creating a single, uniform Spanish state. Their realms retained different institutions and traditions. Overseas expansion emerged from this composite monarchy, with the American enterprise principally attached to Castile.",
+      "In January 1492, Granada surrendered, ending the last Muslim-ruled kingdom on the Iberian Peninsula. The event concluded a long history of shifting Christian–Muslim warfare, alliance and territorial expansion commonly called the Reconquista. It did not erase the peninsula’s mixed past. That same year, the monarchs ordered Jews who would not convert to Christianity to leave their kingdoms: imperial expansion and the drive for religious conformity developed together. [Library of Congress: the Alhambra Decree](https://blogs.loc.gov/law/2013/03/alhambra-decree-521-years-later/)",
+      "Christopher Columbus, a Genoese navigator, proposed reaching Asian markets by sailing west. His geographical expectations were badly mistaken, but royal sponsorship gave him the chance to test them. The promised rewards included offices and privileges, revealing that this was also an enterprise in wealth, jurisdiction and personal advancement. Columbus did not set out to found a continent-spanning American empire. [Library of Congress: Columbus, the man and the myth](https://www.loc.gov/exhibits/1492/columbus.html)",
+      "## DID COLUMBUS “DISCOVER” AMERICA?",
+      "On October 12, 1492, Columbus reached an island in the Bahamas. The people he encountered already had societies, political relationships, agriculture, navigation and names for their world. Calling this the discovery of an empty continent removes those people from their own history. The Caribbean was a populated, connected region, not a blank space awaiting European action. [Smithsonian: Mesoamerica and the Caribbean](https://americanindian.si.edu/exhibitions/infinityofnations/mesoamerica-caribbean.html)",
+      "Nor was Columbus the first European known to reach North America. Archaeological work at the Norse settlement of L’Anse aux Meadows, Newfoundland, has identified wood cut with metal tools in **1021**. That dates an episode of Norse activity; it does not establish the first day Europeans arrived in the Americas. [Nature: evidence for European presence in the Americas in AD 1021](https://www.nature.com/articles/s41586-021-03972-8)",
+      "What made 1492 different was the sustained connection that followed. Columbus’s reports presented the encounter through European expectations of possession, conversion and valuable resources. Taíno communities experienced the same events from the other side: strangers arrived making claims over lands and lives they did not own. “Columbus’s first Atlantic crossing” is more precise than treating “discovery” as a description everyone shared. [Library of Congress: Columbus and the Taíno](https://www.loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino.html)",
+      "## THE CARIBBEAN: THE FIRST COLONIAL FRONTIER",
+      "Subsequent voyages carried settlers, animals, supplies and plans for permanent occupation. Hispaniola became an early center of Spanish colonization, with Santo Domingo developing into an administrative and commercial base. Settlements were places where the monarchy’s claims had to become practical arrangements for food, labor, defense and revenue. [Library of Congress: the colonial history of Santo Domingo](https://blogs.loc.gov/maps/2025/12/colonial-contestations-for-the-first-city-of-america-the-history-of-santo-domingo-in-maps/)",
+      "For Indigenous Caribbean populations, the consequences were catastrophic. Warfare, enslavement, forced work, hunger and introduced diseases reinforced one another. Yet catastrophe should not be rewritten as total disappearance. Indigenous ancestry, knowledge and cultural practices survived, and Taíno identities remain part of the living Caribbean. [Smithsonian: celebrating Taíno culture and Indigenous legacies](https://global.si.edu/success-stories/caribbean-indigenous-legacies-project-celebrating-taino-culture)",
+      "European rulers also tried to organize expansion on paper. The Treaty of Tordesillas in **1494** divided prospective overseas spheres between the Castilian and Portuguese crowns. It was a diplomatic settlement between European powers, not consent from the peoples whose lands appeared within those claims. Maps made empire look tidier than conquest and government ever were. [UNESCO: the Treaty of Tordesillas](https://media.unesco.org/sites/default/files/webform/mtd001/spain_portugal_treaty_tordesillas.pdf)",
+      "## CORTÉS AND THE FALL OF TENOCHTITLAN",
+      "The conquest of central Mexico was not an encounter between a small European force and an undifferentiated Indigenous population. The Mexica-led empire exercised power over communities with different interests, grievances and political choices. Hernán Cortés entered a world of existing rivalries when his expedition arrived in 1519.",
+      "Tlaxcalan participation became crucial. Their alliance with the Spaniards involved their own objectives, not simply obedience to European leadership. Indigenous representations such as the Lienzo de Tlaxcala record a conquest in which Tlaxcalans acted, fought and claimed rewards. Without Indigenous forces, supplies and local knowledge, the familiar story of Cortés’s victory makes little sense. [Mexico’s Ministry of Culture: the Tlaxcalan role in conquest](https://www.gob.mx/cultura/es/articulos/el-lienzo-de-tlaxcala-los-tlaxcaltecas-y-su-labor-en-la-conquista?idiom=es)",
+      "Tenochtitlan was a formidable urban capital, joined to the surrounding land by causeways and organized around waterways and monumental ceremonial spaces. Its fall required a destructive siege, not a single display of superior weapons. The Spaniards subsequently built their capital, Mexico City, over the defeated city. [Metropolitan Museum of Art: Tenochtitlan](https://www.metmuseum.org/essays/tenochtitlan)",
+      "The siege ended on **August 13, 1521**, with the capture of Cuauhtémoc. An earlier smallpox epidemic had already struck the city during the conflict. Even this decisive political defeat did not end Indigenous resistance or instantly establish effective Spanish control across all the territories later claimed as New Spain. [Mexico’s National Archives: 1521 and continuing Indigenous resistance](https://www.gob.mx/agn/articulos/1521-500-anos-del-inicio-de-la-resistencia-de-los-pueblos-indigenas-de-mexico-ante-el-colonialismo-espanol?state=published)",
+      "## PIZARRO, ATAHUALPA AND A FRACTURED ANDEAN EMPIRE",
+      "Francisco Pizarro reached the Andes after a succession conflict had divided the Inca ruling family. Atahualpa had defeated his brother Huáscar, but victory in civil war did not produce a securely reunited empire. The encounter at Cajamarca on **November 16, 1532**, allowed a Spanish force in the low hundreds to seize the ruler during a surprise attack on his entourage.",
+      "Capturing Atahualpa created leverage far beyond the Spaniards’ numbers. It was nevertheless a political seizure, not the battlefield defeat of every Inca army. Accounts of the encounter were also shaped by the conquerors’ efforts to justify their actions and claim rewards; historians must read them critically. [R. Alan Covey: reading between the lines at Cajamarca](https://sites.utexas.edu/llilas-benson-magazine/2019/08/20/reading-between-the-lines-at-cajamarca/)",
+      "Atahualpa was executed in 1533 despite the collection of an extraordinary ransom. Resistance continued under Manco Inca and later rulers at Vilcabamba, which fell in 1572. The distinction between a captured emperor and a conquered society is central to the fuller [history of the Inca Empire](/articles/inca-empire-andes-machu-picchu-rise-fall/). [Pontifical Catholic University of Peru: Manco Inca and Vilcabamba](https://repositorio.pucp.edu.pe/items/7a9b8339-ff6a-4704-97bd-32b5b7601e5b)",
+      "## DID A FEW HUNDRED SPANIARDS CONQUER MILLIONS?",
+      "**Not by themselves.** Small initial Spanish contingents mattered, but their size is often used to make everyone else disappear. Indigenous allies fought, transported supplies, interpreted, negotiated and pursued political aims. Some communities resisted imperial rulers; others resisted the new conquerors. Allegiances could change.",
+      "Horses, steel weapons and armor could provide advantages in particular encounters. Firearms were intimidating but limited, and neither guns nor horses explain how outsiders maintained power over large territories. Civil war, leadership capture, local alliances, subsequent reinforcements and the reorganization of government all mattered. Comparing a landing party with an empire’s total population is not a meaningful calculation of battlefield odds.",
+      "Conquest was therefore a process rather than a moment. The fall of Tenochtitlan or capture of Atahualpa opened possibilities for Spanish domination; they did not automatically deliver uncontested sovereignty. Treating Indigenous people as active participants also avoids the opposite mistake of pretending every alliance was freely chosen or equally beneficial.",
+      "## DISEASE AND DEMOGRAPHIC CATASTROPHE",
+      "Introduced infections devastated communities with no prior exposure to particular pathogens. But historians reject explanations in which biology does all the work and colonial conditions become irrelevant. Displacement, disrupted food production, forced labor and violence affected vulnerability, survival and recovery.",
+      "Population estimates before European arrival remain uncertain, and losses varied by region and period. An exact continent-wide death toll would imply evidence historians do not possess. The scale of suffering is not in doubt; assigning every death to disease alone is. David S. Jones’s influential reassessment of “virgin soil” explanations shows why immunity must be considered alongside social and political conditions. [William and Mary Quarterly: Virgin Soils Revisited](https://historycooperative.org/journal/virgin-soils/)",
+      "## ENCOMIENDA, SLAVERY AND THE STRUGGLE OVER LABOR",
+      "Conquest had to pay, and colonial wealth depended on work. **Encomienda** granted colonists claims to tribute and, in important contexts, labor from designated Indigenous communities, alongside nominal obligations of protection and Christian instruction. It was not simply a deed transferring ownership of land or people. That legal distinction did little to prevent severe exploitation.",
+      "Arrangements changed across time and place. Local leaders could become intermediaries, negotiating or enforcing obligations under unequal conditions. Research on Chile’s Copiapó Valley illustrates how frontier rule developed through personal service, coercion and relationships between encomenderos and Indigenous authorities. [Latin American Research Review: establishing rule in a frontier encomienda](https://www.cambridge.org/core/journals/latin-american-research-review/article/establishing-colonial-rule-in-a-frontier-encomienda-chiles-copiapo-valley-under-francisco-de-aguirre-and-his-kin-15491580/D155526D98A3F8DE4766C82AAA79BFC0)",
+      "African slavery became another foundation of the colonial Americas. Enslaved people were forced across the Atlantic and into agricultural, domestic, urban and other labor systems. Neither African nor Indigenous people were merely economic inputs: escape, rebellion, family formation and cultural survival shaped colonial society from within. [Smithsonian: unsettling a continent, 1492–1776](https://americanhistory.si.edu/explore/exhibitions/many-voices/online/unsettling-continent-1492-1776)",
+      "### Las Casas and the limits of imperial reform",
+      "Bartolomé de las Casas became a prominent critic of Indigenous enslavement and colonial abuses. His interventions formed part of a wider struggle over the legitimacy of conquest and the obligations of Christian rulers. The New Laws of 1542 sought to restrict abuses and curb the power of encomenderos, but legislation did not guarantee enforcement. [Library of Congress: interpreting the conquest](https://wwws.loc.gov/exhibits/exploring-the-early-americas/interpreting-the-conquest.html)",
+      "The Valladolid controversy of **1550–1551**, associated with Las Casas and Juan Ginés de Sepúlveda, concerned questions of just war, conversion and legitimate dominion. Reducing it to a vote on whether Indigenous people were human misrepresents a complex legal and theological dispute. It also exaggerates how directly learned arguments could protect people living under colonial power. [Cambridge scholarship: natural law at Valladolid](https://www.cambridge.org/core/books/abs/infidels-and-empires-in-a-new-world-order/politics-of-natural-law-at-valladolid-15501551/A49F8ADAE3D205271060D9BEEA3A05CA)",
+      "## HOW WAS SUCH A DISTANT EMPIRE GOVERNED?",
+      "The monarchy governed through institutions as well as soldiers. The Council of the Indies handled American affairs, while viceroys, courts known as audiencias, municipal bodies and church institutions exercised overlapping authority. Orders crossed oceans slowly. Reports, petitions and lawsuits were essential instruments of imperial rule, and distance left room for negotiation, evasion and local initiative. [Cambridge research: lawmaking and the Council of the Indies](https://www.cambridge.org/core/product/011AAFA51E750F31556081F5F3FAD424)",
+      "Indigenous communities sometimes used those institutions to contest demands and defend property. Documents such as the Huejotzingo Codex show Indigenous evidence entering colonial litigation. Such cases do not turn colonial courts into institutions of equality; they reveal how people operated within, challenged and sometimes secured protection from an unequal legal order. [Library of Congress: conflict and accommodation](https://wwws.loc.gov/exhibits/exploring-the-early-americas/conflict-and-accommodation.html)",
+      "Missions likewise combined different purposes. Religious instruction could accompany agricultural change, confinement and labor discipline. Indigenous participation ranged from selective adoption to resistance, and Christianity developed local forms that missionaries did not fully control. [National Park Service: life in the missions](https://www.nps.gov/subjects/travelspanishmissions/life-in-the-missions-between-reality-romance-and-revolt.htm)",
+      "## THE SILVER THAT CONNECTED THE WORLD",
+      "Gold shaped European expectations, but **silver** became fundamental to the imperial economy. Potosí, in present-day Bolivia, grew after mining began in 1545 into an extraordinary industrial landscape: mines, waterworks, processing mills and a city whose demands reached deep into the surrounding countryside. [UNESCO: City of Potosí](https://whc.unesco.org/en/list/420)",
+      "The metal’s brilliance concealed a labor system. The colonial mining mita required rotating service from designated Indigenous communities. Under Viceroy Francisco de Toledo, recruitment was reorganized in the sixteenth century to support the mining economy. Colonial officials adapted an older Andean institution to new extractive purposes; that continuity of terminology should not obscure the changed scale, conditions and beneficiaries. [UNESCO: documentary records of the colonial mita](https://media.unesco.org/sites/default/files/webform/mtd001/238_2024_bolivia.pdf)",
+      "### From American mines to Seville",
+      "Treasure fleets helped protect shipping between Spanish America and the Atlantic ports of the monarchy. Seville served as a central hub of regulated trade. Cargoes carried precious metals toward Europe, while ships moving in the other direction supplied colonial markets with goods, people and official instructions. Convoys reduced some dangers but could not eliminate storms, war or privateering. [Library of Congress: competition for empire and treasure fleets](https://www.loc.gov/exhibits/exploring-the-early-americas/competition-for-empire.html)",
+      "Silver did not simply enter a royal vault and stay there. Merchants, creditors, soldiers and trading partners drew it into wider circulation. Enormous revenues could coexist with financial strain: research on Philip II’s borrowing and payment suspensions demonstrates the importance of war costs, credit arrangements and negotiation with lenders. Treasure was not the same thing as unlimited disposable wealth. [Economic Journal: lending to the borrower from hell](https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0297.2011.02442.x)",
+      "### Manila, Mexico and China",
+      "The Pacific made the system genuinely interoceanic. Spanish settlement in the Philippines began at Cebu in 1565; Manila became the principal colonial trading center after its establishment under Spanish rule in 1571. Chinese merchants were indispensable to the exchange that developed there. [Cambridge scholarship: Asian goods in the Spanish Pacific](https://www.cambridge.org/core/books/abs/philippine-confluence/asian-manufactured-goods-in-the-spanish-pacific-late-sixteenth-and-early-seventeenth-centuries/CE2196A27B55659665CD2C933A90AD6E)",
+      "The **Manila Galleon trade, 1565–1815**, linked the Philippines with Acapulco. American silver helped purchase Asian silk, porcelain and other goods. Some remained in American markets; others continued through Mexico toward Atlantic destinations. This was not one simple shipment traveling untouched around the planet, but interconnected exchanges involving many commercial communities. [Metropolitan Museum of Art: the Manila Galleon trade](https://www.metmuseum.org/essays/the-manila-galleon-trade-1565-1815)",
+      "Chinese demand for silver was a major force in this system. Economic historians Dennis Flynn and Arturo Giráldez emphasize that Asian markets helped shape the movement and value of American metal. Spain participated in a world economy it could influence but never fully control. The distinction matters: imperial flags did not make every merchant or market a Spanish instrument. [Economic history research: China and the Spanish Empire](https://www.cambridge.org/core/journals/revista-de-historia-economica-journal-of-iberian-and-latin-american-economic-history/article/abs/china-and-the-spanish-empire/8DF66DFEBDF490DE4DEB6904DBCE310C)",
+      "## THE COLUMBIAN EXCHANGE",
+      "The Atlantic connection moved much more than treasure. Crops from the Americas—including maize, potatoes, tomatoes and cacao—traveled outward. Wheat, sugarcane and animals including horses, cattle and pigs entered the Americas. People moved voluntarily and under coercion; pathogens crossed with them.",
+      "Historians call this vast biological and cultural transformation the **Columbian Exchange**. The term describes movement, not fairness. New foods could support population growth while plantation crops expanded systems of enslavement. Introduced animals changed land use; epidemics devastated communities. The benefits and costs were distributed profoundly unequally. [Nathan Nunn and Nancy Qian: the Columbian Exchange](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163)",
+      "The potato offers one example of consequences far beyond the original encounter. Economic research links its adoption outside the Americas to increased population and urbanization. That later contribution depended on generations of Indigenous Andean cultivation before Europeans crossed the Atlantic. Global circulation did not erase where the knowledge began. [Nunn and Qian: the potato’s contribution to population and urbanization](https://www.nber.org/papers/w15157)",
+      "## GLOBAL POWER AND GLOBAL RIVALS",
+      "Under Charles V and Philip II, the Spanish monarchy joined American possessions to extensive European commitments. It remained a collection of territories and jurisdictions rather than a modern nation-state enlarged across a map. Its power rested on administration, dynastic connections, military resources and credit as well as overseas extraction. [Cambridge: Spain as the first global empire](https://www.cambridge.org/core/books/abs/concise-history-of-spain/spain-as-the-first-global-empire/F7B8F313785D9617BA12636F41696996)",
+      "Navigation extended the horizon. The expedition begun under Ferdinand Magellan in 1519 and completed under Juan Sebastián Elcano in 1522 achieved the first circumnavigation. Magellan himself died before the return. The voyage demonstrated a connected globe, but crossing an ocean did not mean mastering the societies and markets beyond it. [UNESCO: the Magellan–Elcano circumnavigation](https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522)",
+      "Portugal, France, England and the Dutch competed with Spanish interests in different regions and periods. Competition involved commerce and settlement, but also warfare, raids and challenges to restricted trade. Spain’s later struggles with Britain belong to the wider story of the [British Empire’s rise](/articles/british-empire-history-rise-fall-global-legacy/).",
+      "### The Armada did not end the empire",
+      "In **1588**, Philip II’s Armada attempted to support an invasion of England in conjunction with forces in the Netherlands. English attacks, coordination failures and difficult weather contributed to its defeat. The return route around Scotland and Ireland brought further losses.",
+      "The campaign was a serious failure, not the overnight destruction of Spanish sea power or the end of the empire. American government and transoceanic commerce continued for centuries. A memorable naval disaster should not be made to explain every later change in the balance of power. [Royal Museums Greenwich: Elizabeth I and the Spanish Armada](https://www.rmg.co.uk/stories/royal-history/elizabeth-i-spanish-armada)",
+      "## BOURBON REFORMS: A STRONGER STATE, NEW TENSIONS",
+      "The eighteenth-century Bourbon monarchy tried to make imperial government more effective and profitable. Reforms altered administration, fiscal demands, military organization and commercial regulations. Their implementation differed across territories; there was no single reform that transformed the whole empire at once. [Oxford scholarship: the Bourbon reforms](https://academic.oup.com/reference/62379/reference-article-abstract/554978998)",
+      "Reorganization could strengthen revenue collection while disrupting established relationships. Greater demands on local societies and changes in access to office or trade created winners and losers. The reforms should not be treated simply as either enlightened modernization or an automatic countdown to independence. They were attempts to sustain a competitive imperial state in changing circumstances. [Cambridge: the Spanish Atlantic world in the eighteenth century](https://assets.cambridge.org/97811070/43572/excerpt/9781107043572_excerpt.pdf)",
+      "Resistance also had a much longer history. The Pueblo Revolt of **1680**, for example, drove Spanish authorities from New Mexico for a time; Spanish reoccupation followed in the next decade. Colonial domination had always faced practical limits, rather than becoming contested only when nineteenth-century independence movements appeared. [National Park Service: Spanish encounters and Pueblo resistance](https://www.nps.gov/peco/learn/historyculture/spanish-encounters.htm)",
+      "## INDEPENDENCE: THE MONARCHY’S CRISIS BECOMES AN AMERICAN REVOLUTION",
+      "Napoleon’s intervention in Spain in **1808** destabilized the legitimacy of royal government. Across Spanish America, people argued about who could exercise authority in the king’s absence. The resulting conflicts cannot be reduced to already-formed nations collectively deciding to leave. Local rivalries, constitutional projects, social demands and loyalties to the monarchy intersected. [Jaime E. Rodríguez O.: the independence of Spanish America](https://www.cambridge.org/core/books/abs/independence-of-spanish-america/introduction/4281FE6D3637B5EE18223F5BD1563218)",
+      "Simón Bolívar and José de San Martín became central figures in South American liberation, but armies and political coalitions depended on many participants whose ambitions did not necessarily match those of elite leaders. These were also civil wars within American societies, with American-born people fighting on different sides. [Cambridge History of Latin America: independence of Spanish South America](https://www.cambridge.org/core/books/abs/cambridge-history-of-latin-america/independence-of-spanish-south-america/DEB989C528570333266711ADE39D441E)",
+      "Mexico achieved independence in **1821** through a political and military realignment associated with Agustín de Iturbide and Vicente Guerrero. Its path differed from the southern campaigns, illustrating why “Latin American independence” names several connected histories rather than one identical revolution. [Mexico’s National Archives: the final days of New Spain](https://www.gob.mx/agn/articulos/aspectos-de-los-dias-finales-de-la-nueva-espana-ante-la-consumacion-de-la-independencia-de-mexico?idiom=es)",
+      "At Ayacucho in **1824**, forces commanded by Antonio José de Sucre defeated a major royalist army in Peru. The battle was decisive for Spanish rule in South America, although remaining garrisons did not all surrender immediately. Political independence also did not automatically dismantle inherited inequalities of land, status and labor. [Peruvian Army: the Battle of Ayacucho](https://www.gob.pe/institucion/ejercito/noticias/568685-197-aniversario-de-la-batalla-de-ayacucho-y-dia-del-ejercito-del-peru)",
+      "## 1898: THE END OF ONE EMPIRE, THE EXPANSION OF ANOTHER",
+      "Spain retained important overseas territories after the mainland independence wars. Cuban and Philippine struggles for independence were therefore essential to the background of **1898**, not footnotes to a war between Spain and the United States.",
+      "The Spanish–American War ended with Spain relinquishing sovereignty over Cuba and ceding Puerto Rico, Guam and the Philippines to the United States. Those were different legal outcomes: Cuba was not simply ceded in the same way as Puerto Rico. Nor did the treaty give every affected population the independence it sought. [US Office of the Historian: the Spanish–American War](https://history.state.gov/milestones/1866-1898/spanish-american-war)",
+      "In the Philippines, the struggle against Spanish rule was followed by war against American rule beginning in 1899. Imperial transfer could replace one outside sovereign with another. Ending the story at the Spanish surrender would miss that continuation of coercion and resistance. [US Office of the Historian: the Philippine–American War](https://history.state.gov/milestones/1899-1913/war)",
+      "Even 1898 was not the end of all Spanish colonial possessions. Equatorial Guinea became independent from Spain in **1968**. Spain ended its presence in Western Sahara in **1976**, but that territory’s unresolved status remains on the United Nations decolonization agenda. The empire ended through different processes in different places. [Office of the Historian: Equatorial Guinea](https://history.state.gov/countries/equatorial-guinea), [United Nations: Western Sahara](https://www.un.org/dppa/decolonization/en/nsgt/western-sahara)",
+      "## SPANISH EMPIRE: MYTH VS REALITY",
+      "### Myth: Columbus discovered an uninhabited world",
+      "The Americas contained diverse societies with long histories. Norse visitors also preceded Columbus. The lasting importance of 1492 lies in the sustained connections and colonial expansion that followed.",
+      "### Myth: a few conquistadors defeated entire civilizations alone",
+      "Indigenous alliances, political divisions, epidemics, reinforcements and the capture of rulers were crucial. Small Spanish expeditionary forces were never the whole story.",
+      "### Myth: Indigenous civilizations offered nothing but resources",
+      "Conquerors encountered sophisticated cities, agriculture, political institutions and knowledge. Colonial economies depended heavily on Indigenous labor, expertise and existing systems.",
+      "### Myth: the empire ran entirely on gold",
+      "Silver was central to its mature transoceanic economy, and farming, manufacturing, commerce, taxation and credit mattered too. The wider [history of gold](/articles/history-of-gold/) helps explain the difference between a metal’s symbolism and its actual economic role.",
+      "### Myth: disease explains conquest without politics",
+      "Pathogens caused immense losses, but war, hunger, displacement and exploitation shaped the catastrophe. Disease should not become a way of removing human decisions from the account.",
+      "### Myth: the Armada’s defeat ended Spanish power",
+      "The failed 1588 invasion was consequential. It did not terminate Spain’s American possessions, Pacific connections or capacity to remain a major power.",
+      "### Myth: the empire collapsed in one final event",
+      "Mainland American independence, the territorial losses of 1898 and twentieth-century African decolonization occurred through different conflicts and settlements.",
+      "## WHAT THE SPANISH EMPIRE LEFT BEHIND",
+      "The empire’s legacy is visible in languages, cities, churches, legal traditions, foodways and trade connections. It is also visible in landholding patterns, racial hierarchies and struggles over historical memory. Shared cultural forms emerged through unequal encounters, but colonized peoples continually reshaped them rather than passively receiving an imported world.",
+      "Sources must be read with that complexity in mind. Conquerors’ reports sought rewards and justification; imperial laws describe aspirations as well as practice. Indigenous records, archaeology, community histories and economic research help reveal experiences official narratives can obscure. Neither a triumphant national legend nor a story of entirely passive victims can explain the evidence.",
+      "Columbus opened a route whose consequences exceeded his intentions. Spain used that opening to construct an extraordinary global system, connecting Atlantic conquest to Pacific commerce and European power. Yet the ships carried more than the ambitions of kings: they carried merchants, enslaved people, missionaries, soldiers, crops, pathogens and ideas that no monarchy could fully command.",
+      "The Spanish Empire helped connect the world. Understanding how it did so requires remembering both the connections it created and the people who paid for them."
+    ],
+    "references": [
+      {
+        "name": "Scholarship on the early modern Iberian empires",
+        "url": "https://www.cambridge.org/core/journals/journal-of-global-history/article/early-modern-iberian-empires-global-history-and-the-history-of-early-globalization/0FBF8F69B038939B1C3A070C0DBA3C99"
+      },
+      {
+        "name": "Library of Congress: the Alhambra Decree",
+        "url": "https://blogs.loc.gov/law/2013/03/alhambra-decree-521-years-later/"
+      },
+      {
+        "name": "Library of Congress: Columbus, the man and the myth",
+        "url": "https://www.loc.gov/exhibits/1492/columbus.html"
+      },
+      {
+        "name": "Smithsonian: Mesoamerica and the Caribbean",
+        "url": "https://americanindian.si.edu/exhibitions/infinityofnations/mesoamerica-caribbean.html"
+      },
+      {
+        "name": "Nature: evidence for European presence in the Americas in AD 1021",
+        "url": "https://www.nature.com/articles/s41586-021-03972-8"
+      },
+      {
+        "name": "Library of Congress: Columbus and the Taíno",
+        "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino.html"
+      },
+      {
+        "name": "Library of Congress: the colonial history of Santo Domingo",
+        "url": "https://blogs.loc.gov/maps/2025/12/colonial-contestations-for-the-first-city-of-america-the-history-of-santo-domingo-in-maps/"
+      },
+      {
+        "name": "Smithsonian: celebrating Taíno culture and Indigenous legacies",
+        "url": "https://global.si.edu/success-stories/caribbean-indigenous-legacies-project-celebrating-taino-culture"
+      },
+      {
+        "name": "UNESCO: the Treaty of Tordesillas",
+        "url": "https://media.unesco.org/sites/default/files/webform/mtd001/spain_portugal_treaty_tordesillas.pdf"
+      },
+      {
+        "name": "Mexico’s Ministry of Culture: the Tlaxcalan role in conquest",
+        "url": "https://www.gob.mx/cultura/es/articulos/el-lienzo-de-tlaxcala-los-tlaxcaltecas-y-su-labor-en-la-conquista?idiom=es"
+      },
+      {
+        "name": "Metropolitan Museum of Art: Tenochtitlan",
+        "url": "https://www.metmuseum.org/essays/tenochtitlan"
+      },
+      {
+        "name": "Mexico’s National Archives: 1521 and continuing Indigenous resistance",
+        "url": "https://www.gob.mx/agn/articulos/1521-500-anos-del-inicio-de-la-resistencia-de-los-pueblos-indigenas-de-mexico-ante-el-colonialismo-espanol?state=published"
+      },
+      {
+        "name": "R. Alan Covey: reading between the lines at Cajamarca",
+        "url": "https://sites.utexas.edu/llilas-benson-magazine/2019/08/20/reading-between-the-lines-at-cajamarca/"
+      },
+      {
+        "name": "Pontifical Catholic University of Peru: Manco Inca and Vilcabamba",
+        "url": "https://repositorio.pucp.edu.pe/items/7a9b8339-ff6a-4704-97bd-32b5b7601e5b"
+      },
+      {
+        "name": "William and Mary Quarterly: Virgin Soils Revisited",
+        "url": "https://historycooperative.org/journal/virgin-soils/"
+      },
+      {
+        "name": "Latin American Research Review: establishing rule in a frontier encomienda",
+        "url": "https://www.cambridge.org/core/journals/latin-american-research-review/article/establishing-colonial-rule-in-a-frontier-encomienda-chiles-copiapo-valley-under-francisco-de-aguirre-and-his-kin-15491580/D155526D98A3F8DE4766C82AAA79BFC0"
+      },
+      {
+        "name": "Smithsonian: unsettling a continent, 1492–1776",
+        "url": "https://americanhistory.si.edu/explore/exhibitions/many-voices/online/unsettling-continent-1492-1776"
+      },
+      {
+        "name": "Library of Congress: interpreting the conquest",
+        "url": "https://wwws.loc.gov/exhibits/exploring-the-early-americas/interpreting-the-conquest.html"
+      },
+      {
+        "name": "Cambridge scholarship: natural law at Valladolid",
+        "url": "https://www.cambridge.org/core/books/abs/infidels-and-empires-in-a-new-world-order/politics-of-natural-law-at-valladolid-15501551/A49F8ADAE3D205271060D9BEEA3A05CA"
+      },
+      {
+        "name": "Cambridge research: lawmaking and the Council of the Indies",
+        "url": "https://www.cambridge.org/core/product/011AAFA51E750F31556081F5F3FAD424"
+      },
+      {
+        "name": "Library of Congress: conflict and accommodation",
+        "url": "https://wwws.loc.gov/exhibits/exploring-the-early-americas/conflict-and-accommodation.html"
+      },
+      {
+        "name": "National Park Service: life in the missions",
+        "url": "https://www.nps.gov/subjects/travelspanishmissions/life-in-the-missions-between-reality-romance-and-revolt.htm"
+      },
+      {
+        "name": "UNESCO: City of Potosí",
+        "url": "https://whc.unesco.org/en/list/420"
+      },
+      {
+        "name": "UNESCO: documentary records of the colonial mita",
+        "url": "https://media.unesco.org/sites/default/files/webform/mtd001/238_2024_bolivia.pdf"
+      },
+      {
+        "name": "Library of Congress: competition for empire and treasure fleets",
+        "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/competition-for-empire.html"
+      },
+      {
+        "name": "Economic Journal: lending to the borrower from hell",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0297.2011.02442.x"
+      },
+      {
+        "name": "Cambridge scholarship: Asian goods in the Spanish Pacific",
+        "url": "https://www.cambridge.org/core/books/abs/philippine-confluence/asian-manufactured-goods-in-the-spanish-pacific-late-sixteenth-and-early-seventeenth-centuries/CE2196A27B55659665CD2C933A90AD6E"
+      },
+      {
+        "name": "Metropolitan Museum of Art: the Manila Galleon trade",
+        "url": "https://www.metmuseum.org/essays/the-manila-galleon-trade-1565-1815"
+      },
+      {
+        "name": "Economic history research: China and the Spanish Empire",
+        "url": "https://www.cambridge.org/core/journals/revista-de-historia-economica-journal-of-iberian-and-latin-american-economic-history/article/abs/china-and-the-spanish-empire/8DF66DFEBDF490DE4DEB6904DBCE310C"
+      },
+      {
+        "name": "Nathan Nunn and Nancy Qian: the Columbian Exchange",
+        "url": "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163"
+      },
+      {
+        "name": "Nunn and Qian: the potato’s contribution to population and urbanization",
+        "url": "https://www.nber.org/papers/w15157"
+      },
+      {
+        "name": "Cambridge: Spain as the first global empire",
+        "url": "https://www.cambridge.org/core/books/abs/concise-history-of-spain/spain-as-the-first-global-empire/F7B8F313785D9617BA12636F41696996"
+      },
+      {
+        "name": "UNESCO: the Magellan–Elcano circumnavigation",
+        "url": "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522"
+      },
+      {
+        "name": "Royal Museums Greenwich: Elizabeth I and the Spanish Armada",
+        "url": "https://www.rmg.co.uk/stories/royal-history/elizabeth-i-spanish-armada"
+      },
+      {
+        "name": "Oxford scholarship: the Bourbon reforms",
+        "url": "https://academic.oup.com/reference/62379/reference-article-abstract/554978998"
+      },
+      {
+        "name": "Cambridge: the Spanish Atlantic world in the eighteenth century",
+        "url": "https://assets.cambridge.org/97811070/43572/excerpt/9781107043572_excerpt.pdf"
+      },
+      {
+        "name": "National Park Service: Spanish encounters and Pueblo resistance",
+        "url": "https://www.nps.gov/peco/learn/historyculture/spanish-encounters.htm"
+      },
+      {
+        "name": "Jaime E. Rodríguez O.: the independence of Spanish America",
+        "url": "https://www.cambridge.org/core/books/abs/independence-of-spanish-america/introduction/4281FE6D3637B5EE18223F5BD1563218"
+      },
+      {
+        "name": "Cambridge History of Latin America: independence of Spanish South America",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-latin-america/independence-of-spanish-south-america/DEB989C528570333266711ADE39D441E"
+      },
+      {
+        "name": "Mexico’s National Archives: the final days of New Spain",
+        "url": "https://www.gob.mx/agn/articulos/aspectos-de-los-dias-finales-de-la-nueva-espana-ante-la-consumacion-de-la-independencia-de-mexico?idiom=es"
+      },
+      {
+        "name": "Peruvian Army: the Battle of Ayacucho",
+        "url": "https://www.gob.pe/institucion/ejercito/noticias/568685-197-aniversario-de-la-batalla-de-ayacucho-y-dia-del-ejercito-del-peru"
+      },
+      {
+        "name": "US Office of the Historian: the Spanish–American War",
+        "url": "https://history.state.gov/milestones/1866-1898/spanish-american-war"
+      },
+      {
+        "name": "US Office of the Historian: the Philippine–American War",
+        "url": "https://history.state.gov/milestones/1899-1913/war"
+      },
+      {
+        "name": "Office of the Historian: Equatorial Guinea",
+        "url": "https://history.state.gov/countries/equatorial-guinea"
+      },
+      {
+        "name": "United Nations: Western Sahara",
+        "url": "https://www.un.org/dppa/decolonization/en/nsgt/western-sahara"
+      }
+    ],
+    "tags": [
+      "Spanish Empire",
+      "Spanish Empire history",
+      "Christopher Columbus",
+      "Indigenous alliances",
+      "Potosí",
+      "Manila Galleons",
+      "Columbian Exchange",
+      "Spanish Armada",
+      "Latin American independence",
+      "History"
+    ],
+    "readingTime": "18 min read",
+    "status": "published"
+  },
+  {
     "id": "090",
     "slug": "inca-empire-andes-machu-picchu-rise-fall",
     "title": "INCA EMPIRE: HOW A CIVILIZATION IN THE ANDES BUILT A WORLD ABOVE THE CLOUDS",
