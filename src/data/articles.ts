@@ -54,6 +54,281 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "085",
+    "slug": "abbasid-caliphate-baghdad-islamic-golden-age",
+    "title": "ABBASID CALIPHATE: WHEN BAGHDAD BECAME THE CENTER OF THE WORLD",
+    "seoTitle": "Abbasid Caliphate: Baghdad & the Islamic Golden Age | PRESDA",
+    "metaDescription": "Explore Abbasid Baghdad, the House of Wisdom, al-Khwarizmi and the Islamic Golden Age—and separate the Mongol sack of 1258 from enduring legends.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "ABBASID CALIPHATE",
+      "gold": "CENTER OF THE WORLD"
+    },
+    "excerpt": "A city of caliphs, merchants, translators and scholars brought distant traditions into conversation. How Abbasid Baghdad reshaped knowledge—and why its legacy survived 1258.",
+    "category": "History",
+    "date": "2026-09-16",
+    "lastUpdated": "2026-09-16",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/abbasid-caliphate-baghdad-islamic-golden-age.webp",
+    "coverAlt": "Editorial historical reconstruction of scholars sharing an illustrated manuscript above an imagined Abbasid Baghdad skyline",
+    "homepageImagePosition": "79% 30%",
+    "content": [
+      "Baghdad's intellectual history can be approached through a simple object: a book that had crossed a language boundary. A Greek medical text might reach a reader through Syriac and Arabic. An astronomical table could carry Indian methods into a new setting. The result was not just another copy. Someone had chosen terms, compared interpretations and decided what the work could help explain.",
+      "The city made those encounters possible on an extraordinary scale. Founded as an Abbasid capital in 762, Baghdad drew political power, money and people toward the Tigris. It became one of the medieval world's great cultural centers. Calling it the center of the world describes that remarkable concentration of influence, not a claim that other societies had stopped creating knowledge. [Hugh Kennedy, Encyclopaedia Iranica: Baghdad before the Mongols](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-i-pr-mongol/)",
+      "Its story contains both intellectual generosity and political violence. Caliphs sponsored learning and punished opponents. Merchants connected distant regions while armies fought over the resources that sustained the capital. The city was neither a permanent paradise of tolerance nor merely the setting for a catastrophe in 1258.",
+      "*The hero is an editorial historical reconstruction: an imagined Abbasid-era scholarly scene, not a documented meeting, an authenticated portrait or an exact reconstruction of Baghdad's skyline. Dates below use the Common Era unless otherwise indicated.*",
+      "## 750: A REVOLUTION CHANGES THE CALIPHATE",
+      "The Abbasid movement gathered decisive strength in Khurasan, in the eastern Islamic world. Its supporters included Arabs settled there and non-Arab Muslims, brought together by political grievances and allegiance to a movement invoking the Prophet Muhammad's family. Reducing the revolution to a simple Persian uprising against Arabs misses this mixed coalition. The Abbasids themselves claimed descent from al-Abbas, the Prophet's uncle. [Encyclopaedia Iranica: the Abbasid Caliphate](https://www.iranicaonline.org/articles/abbasid-caliphate/)",
+      "In 750, the Umayyads lost their caliphate. Abbasid victory moved the center of imperial politics away from Syria toward Iraq and the east. Al-Saffah became the first Abbasid caliph; his brother al-Mansur succeeded him in 754 and ruled until 775. The change did not extinguish every Umayyad branch: Abd al-Rahman established an Umayyad emirate in Spain in 756. [Tayeb El-Hibri, Cambridge University Press: Abbasid chronology](https://assets.cambridge.org/97811071/83247/frontmatter/9781107183247_frontmatter.pdf)",
+      "Building the new dynasty required the suppression of rivals as well as the rewarding of supporters. Abu Muslim, instrumental in the revolution's eastern success, was killed on al-Mansur's orders in 755. The dynasty's beginnings were therefore no uncomplicated liberation story. A coalition that could overthrow a government did not automatically agree on who should control its successor. [Encyclopaedia Iranica: Abu Muslim Khurasani](https://www.iranicaonline.org/articles/abu-moslem-abd-al-rahman-b/)",
+      "## AL-MANSUR'S ROUND CITY: BAGHDAD, 762",
+      "Al-Mansur founded his new capital in 762, giving it the official name Madinat al-Salam, the City of Peace. Its original circular core placed the palace and mosque at the center of a planned seat of authority. The Round City expressed a political ambition: government organized around the caliph. Baghdad soon became much more than this initial enclosure, expanding into an extensive urban landscape. [Kennedy: Baghdad's foundation and growth](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-i-pr-mongol/)",
+      "The choice of Iraq mattered. This was a region with long-established agriculture, waterways and urban traditions, near the heartlands of earlier empires. Baghdad's position brought the court closer to the eastern constituencies on which Abbasid power depended. A capital could attract talent because government and money were there; as talent and commerce gathered, they gave the capital further reasons to grow.",
+      "Almost nothing of early Abbasid Baghdad survives above ground. Its famous circular plan is reconstructed largely through historical descriptions rather than an intact excavated city. Samarra, the later Abbasid capital farther up the Tigris, provides much richer surviving evidence for the dynasty's monumental architecture. Modern images of Baghdad should therefore be treated as interpretations, not visual records. [The Metropolitan Museum of Art: art of the Abbasid period](https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258)",
+      "## WHY BAGHDAD BECAME SO WEALTHY",
+      "Baghdad stood within networks that joined land routes to river transport and the Persian Gulf. Connections through Basra linked Iraq with maritime commerce reaching India, China and eastern Africa; routes through Iran, Anatolia and the Mediterranean connected it with other markets, including Europe. Goods did not need to travel the whole distance in one merchant's hands for Baghdad to benefit from the exchange. [Encyclopaedia Iranica: Commerce before the Mongol conquest](https://www.iranicaonline.org/articles/commerce-iv/)",
+      "The markets served both distant luxury demand and the everyday needs of a very large city. Food, textiles and manufactured goods mattered alongside prestigious imports. Baghdad received products, consumed them, redistributed them and generated demand for more. Its prosperity depended on surrounding producers and transport workers as well as the merchants whose journeys attracted literary attention.",
+      "The title “center of the world” makes sense as a description of this connectedness. It should not be turned into an exact ranking of medieval cities by population or income. Surviving evidence does not support the confident modern-looking league tables sometimes attached to Baghdad's fame. Its exceptional importance is clearer than its precise peak population.",
+      "### The revenue behind the splendor",
+      "Court wealth also came from taxation. Land revenue and provincial fiscal arrangements supported government, military expenditure and elite consumption. Assessments and collection practices varied across regions and periods; this was not a single uniform tax system operating unchanged for five centuries. Agricultural production remained fundamental even when the capital's most visible symbols were palaces and books. [Encyclopaedia Iranica: the Islamic fiscal system](https://www.iranicaonline.org/articles/fiscal-system-iii-islamic-period/)",
+      "Administration required trained secretaries, provincial officials, accounts and reliable payment of troops. The court's brilliance rested on those less glamorous operations. Where resources were withheld, cultivation damaged or soldiers left unpaid, the relationship between provincial society and imperial ambition could become explosive. Baghdad's intellectual life existed within that political economy, not outside it.",
+      "## HARUN AL-RASHID: THE RULER BEHIND THE LEGEND",
+      "Harun al-Rashid ruled from 786 to 809. His reign became an enduring image of caliphal magnificence, but the historical ruler faced rebellions, frontier war and court struggles. For much of his reign, the Barmakid family exercised exceptional influence; their abrupt fall in 803 exposed the insecurity behind proximity to the throne. [Encyclopaedia Iranica: Harun al-Rashid](https://www.iranicaonline.org/articles/harun-al-rasid/)",
+      "Harun's later literary life is different evidence. In tales associated with *One Thousand and One Nights*, the caliph can wander through the city, encounter surprising subjects and administer dramatic justice. Such stories reveal ideals and anxieties about power. They do not provide an authenticated itinerary of his evenings.",
+      "The *Nights* developed over centuries through different languages, places, manuscripts and acts of retelling. Its Persian connections, Arabic development and later additions resist attribution to a single author or Abbasid moment. It preserves literary worlds, not a documentary portrait of ninth-century Baghdad. Its magic is diminished, rather than strengthened, when mistaken for a chronicle. [Encyclopaedia Iranica: Alf Layla wa Layla](https://www.iranicaonline.org/articles/alf-layla-wa-layla/)",
+      "## AL-MA'MUN: SCHOLARSHIP AFTER CIVIL WAR",
+      "Harun's succession arrangements did not prevent conflict between his sons al-Amin and al-Ma'mun. Civil war culminated in the siege of Baghdad and al-Amin's death in 813. Al-Ma'mun emerged as caliph, but remained in the east before entering Baghdad in 819. The reign associated with intellectual ambition was built across a landscape already scarred by Abbasid violence. [Encyclopaedia Iranica: al-Ma'mun](https://www.iranicaonline.org/articles/mamun-abul-abbas-abd-allah/)",
+      "His patronage helped mathematical and astronomical activity flourish. Yet enthusiasm for learning should not be confused with modern academic freedom. In 833 he initiated the *mihna*, a doctrinal examination through which the government sought conformity on the createdness of the Qur'an. His reign brought questions about reason, revelation and the caliph's authority into direct political conflict. [Iranica: al-Ma'mun's religious and intellectual policies](https://www.iranicaonline.org/articles/mamun-abul-abbas-abd-allah/)",
+      "This contradiction is essential to the history. A ruler could value demanding intellectual work and also insist on answers that opponents rejected. “Golden Age” is useful shorthand for remarkable achievement, but it cannot make every court enlightened or every scholar secure.",
+      "## WHY DID BAGHDAD BECOME THE CENTER OF KNOWLEDGE?",
+      "### Patronage made difficult work possible",
+      "Translation took time, expertise and money. Rulers were important patrons, but officials, wealthy families and scholars also commissioned work. The circle around the philosopher al-Kindi, for example, brought Greek philosophical and scientific writings into Arabic. This was a network of people and projects, not simply a government office producing standardized translations. [Stanford Encyclopedia of Philosophy: al-Kindi](https://plato.stanford.edu/entries/al-kindi/)",
+      "Patronage could serve practical needs, prestige and genuine curiosity at once. Medicine interested people who needed physicians; mathematics helped calculation; philosophical argument mattered to readers asking difficult questions. Once texts became available, scholars could pursue problems that exceeded the immediate purposes of whoever financed them.",
+      "### Several traditions met in Arabic",
+      "Greek learning often reached Arabic readers through Syriac-speaking Christian scholarship, although routes and methods varied. Persian and Indian traditions also contributed to the intellectual environment. Arabic became a major shared language of scholarship without making every participant ethnically Arab or every source Greek. The National Library of Medicine describes Baghdad's medical learning as an interaction among Persian-Mesopotamian, Byzantine-Greek and Indian traditions, involving Muslim, Jewish and Christian scholars. [National Library of Medicine: Arabic legacies](https://www.nlm.nih.gov/hmd/topics/medieval/index_alla.html)",
+      "These categories overlap rather than divide scholars neatly into separate camps. A person could be Christian, write in Arabic and translate a Greek work through Syriac. “Persian,” “Arab,” “Muslim” and “Christian” do not all describe the same aspect of identity. Modern national labels can obscure the actual routes by which knowledge moved.",
+      "### Paper increased what could circulate",
+      "Paper was a Chinese invention that spread through Central Asia before becoming established in Islamic lands. It was manufactured in Baghdad by the end of the eighth century. Historian Jonathan Bloom cautions against the familiar story that captured Chinese papermakers at the Battle of Talas in 751 single-handedly introduced the craft: paper's movement was a longer process, not securely explained by that one episode. [Encyclopaedia Iranica: paper before printing](https://www.iranicaonline.org/articles/paper-iran-prior-printing/)",
+      "Paper helped sustain copying, correspondence, administration and collections. It did not make manuscripts effortless or universally affordable: skilled labor still went into writing and preparing books. But an expanding supply of writing material supported more opportunities to preserve, revise and circulate texts. The material history of scholarship matters alongside the biographies of famous thinkers.",
+      "## WAS THE HOUSE OF WISDOM REALLY THE WORLD'S GREATEST LIBRARY?",
+      "The name *Bayt al-Hikma*, usually translated as House of Wisdom, is associated with a caliphal library. What it did, how its functions changed and how much scholarship occurred specifically within it are harder questions. The evidence is much thinner than popular pictures of an enormous public university with every famous scholar working under one roof suggest. [Jeffrey Oaks, University of Indianapolis: the House of Wisdom and its modern myths](https://uindy.edu/cas/mathematics/oaks/articles/mhmc)",
+      "Drawing on Dimitri Gutas and George Makdisi, Oaks distinguishes the palace library from the much wider translation movement. References linking it to Persian materials do not establish it as the headquarters of all Greek-to-Arabic translation. Nor can a modern university curriculum or universal public access be inferred from its name. The spectacular institution of popular imagination combines activities that the evidence locates across a scholarly community.",
+      "There are genuine associations to discuss: medieval testimony connects al-Khwarizmi with the caliphal library, for example. But specialists still debate what such an attachment meant. That is a reason to qualify the institutional story, not to deny Baghdad's securely documented intellectual achievements. [Biographical Encyclopedia of Astronomers: al-Khwarizmi](https://mathshistory.st-andrews.ac.uk/BEA/al_khwarizmi_bea.pdf)",
+      "“The world's greatest library” is not a verifiable ranking. No dependable comparative catalogue establishes that claim. Baghdad's importance survives the removal of a superlative; the case for it rests on works, scholars and networks that can actually be studied.",
+      "## THE PEOPLE WHO TURNED TRANSLATION INTO DISCOVERY",
+      "### Al-Khwarizmi: algebra, calculation and geography",
+      "Working in the ninth century under al-Ma'mun's patronage, al-Khwarizmi produced a systematic treatment of equations in his book on *al-jabr* and *al-muqabala*. The title supplied the word algebra. His methods were expressed in words and supported by geometric reasoning, not written in the familiar symbolic notation of a modern school textbook. [MacTutor, University of St Andrews: al-Khwarizmi's mathematics](https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/)",
+      "His work matters without claiming that he invented every form of algebraic reasoning. Earlier mathematical cultures had solved related problems. Al-Khwarizmi organized methods into a powerful, teachable treatment whose influence continued through later scholarship and translation. His writings on calculation with Indian numerals also contributed to a tradition from which the word algorithm emerged through the Latinized form of his name.",
+      "He worked in astronomy and geography as well. Astronomical tables and geographical writing adapted inherited knowledge for new readers and purposes. Indian and Greek materials were not simply trophies on a shelf; they could be rearranged, calculated with and corrected. The boundaries between modern academic subjects do not map neatly onto his career. [Biographical Encyclopedia of Astronomers: al-Khwarizmi's scientific work](https://mathshistory.st-andrews.ac.uk/BEA/al_khwarizmi_bea.pdf)",
+      "### Hunayn ibn Ishaq: the intellectual labor of translation",
+      "Hunayn ibn Ishaq, a ninth-century Christian physician, was central to the translation of Greek medical and philosophical works into Syriac and Arabic. His son Ishaq and other associates extended this activity. Their output included writings connected with Galen and Aristotle, but the division of labor differed from one text to another. It was not one man mechanically converting an entire ancient library. [Stanford Encyclopedia of Philosophy: Hunayn and the Greek sources in Arabic](https://plato.stanford.edu/entries/arabic-islamic-greek/)",
+      "Translation required technical judgment. A medical argument could fail if its vocabulary became misleading; a philosophical distinction could disappear if two different concepts received the same word. The translators helped make new research possible by constructing usable intellectual tools. Recognizing that work is different from treating translation as passive storage.",
+      "### Medicine: synthesis, observation and criticism",
+      "Physicians in the Islamic world developed a substantial medical literature that brought inherited theory into new teaching and clinical contexts. Al-Razi, associated with Rayy and Baghdad, became particularly important for clinical observation and medical writing. Later Ibn Sina's *Canon* organized medicine into an influential synthesis. These authors should not be mistaken for practitioners of modern medicine, but neither were they merely librarians guarding Greek books. [National Library of Medicine: medicine in medieval Islam](https://www.nlm.nih.gov/hmd/arabic/med_islam.html)",
+      "Their world included different kinds of texts and approaches. Manuals could discuss particular conditions and treatments rather than repeat a general philosophical system. Some works considered the needs of specific groups, including people unable to afford expensive care. The range of questions and audiences demonstrates a working medical culture rather than a frozen inheritance. [National Library of Medicine: catalogue notes on medical literature](https://www.nlm.nih.gov/hmd/arabic/notes.html)",
+      "### Philosophy: al-Kindi and new arguments",
+      "Al-Kindi did more than arrange translations. He explored philosophical problems within an Arabic intellectual setting and engaged questions about the relationship between philosophy and religious belief. The texts produced around his circle shaped later discussion, even when their attributions or interpretations of ancient authors were imperfect. Creative appropriation could involve both remarkable insight and historical misunderstanding. [Stanford Encyclopedia of Philosophy: al-Kindi's project and legacy](https://plato.stanford.edu/entries/al-kindi/)",
+      "### Engineering: the Banu Musa brothers",
+      "The Banu Musa brothers—Muhammad, Ahmad and al-Hasan—worked in ninth-century Baghdad. Their *Book of Ingenious Devices*, dated to around 850, described roughly one hundred devices. Mechanisms involving water, air and controlled movement turned theoretical understanding into designed effects. Their work also extended to mathematical and astronomical questions. [Smithsonian Lemelson Center: ingenious devices](https://invention.si.edu/invention-stories/ingenious-devices)",
+      "Such devices deserve attention on their own terms. Calling every mechanism a modern robot or computer exaggerates the evidence and can obscure what its makers actually accomplished. Their designs reveal technical imagination within an older mechanical tradition, developed through experiment, adaptation and skill.",
+      "### Optics: a wider world than Baghdad",
+      "Ibn al-Haytham's work on vision and light belongs in the wider history of Islamic science, but not as an achievement automatically assigned to an early Abbasid library. Born in Basra and active in Egypt, he combined mathematical analysis and investigations of light in his *Book of Optics*. His account of vision emphasized light entering the eye, rather than visual rays emitted by it. [MacTutor: Ibn al-Haytham](https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/)",
+      "His example helps keep the geography honest. Baghdad was an exceptional center, not the only center. Scholars working in other cities, sometimes under rival dynasties, participated in traditions that cannot be contained inside a map of direct Abbasid government.",
+      "## DID MUSLIM SCHOLARS ONLY “PRESERVE” GREEK KNOWLEDGE?",
+      "No. Preservation was consequential, but the surviving record also shows criticism, new problems, methods and arguments. Mathematics offers a particularly clear example: developments after al-Khwarizmi extended algebra and connected it with other fields. Translation could respond to ongoing research, rather than existing as a separate preliminary stage that ended before original thought began. [MacTutor: the development of Arabic mathematics](https://mathshistory.st-andrews.ac.uk/HistTopics/Arabic_mathematics/)",
+      "The opposite claim—that Baghdad invented everything independently—is equally misleading. Acknowledging Greek, Persian, Syriac and Indian contributions does not diminish later creativity. Intellectual originality often emerges through an encounter with something inherited: a calculation that does not fit, a passage needing clarification, or a problem an earlier author never considered.",
+      "Nor was the purpose of this scholarship to wait for Europe to receive it. Its authors addressed their own readers and institutions. Later translations into Latin and other languages were important consequences, but they are not the only measure of the work's value. The story belongs to the societies in which those questions were being asked as well as the places the answers subsequently reached.",
+      "## A CITY OF BOOKS WAS ALSO A CITY OF UNEQUAL POWER",
+      "Religious diversity helped sustain Baghdad's intellectual life, but diversity was not equivalent to modern equal citizenship. Non-Muslim communities operated within legal and fiscal distinctions, including the poll tax usually called *jizya*. Rates, exemptions and enforcement varied, and periods of cooperation existed alongside restrictions and abuse. [Encyclopaedia Iranica: jizya](https://www.iranicaonline.org/articles/jezya/)",
+      "The scholar favored by a patron and the laborer supporting an elite household did not experience the same city. Courtly magnificence should not make ordinary insecurity disappear from the narrative. A “Golden Age” can describe outstanding cultural production while concealing how unevenly its benefits were shared.",
+      "Books themselves can reveal that culture without requiring extravagant statistics. A manuscript of Dioscorides copied and illustrated in Baghdad in 1224, shortly before the Mongol conquest, demonstrates the continuing life of translated medical material in a new artistic setting. Baghdad's book culture was not confined to one ninth-century moment. [The Met: Abbasid manuscripts and artistic vitality](https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258)",
+      "## WHEN CALIPHS LOST CONTROL OF THEIR ARMIES AND PROVINCES",
+      "### Turkish military influence and Samarra",
+      "The Abbasid military changed substantially over time. Under al-Mu'tasim, Turkish troops became especially influential, including soldiers obtained through systems of military slavery. Their recruitment helped rulers seek forces personally attached to the court, but commanders acquired power of their own. These men were political actors, not a single interchangeable ethnic bloc. [Encyclopaedia Iranica: armies before the Mongol period](https://www.iranicaonline.org/articles/army-ii/)",
+      "Al-Mu'tasim established the court at Samarra in 836; it remained the caliphal capital until 892. The move is a reminder that even the Abbasid dynasty's political geography was not permanently centered on Baghdad. Samarra's great buildings expressed the resources of the court, while military competition increasingly threatened the authority those monuments advertised. [UNESCO: Samarra Archaeological City](https://whc.unesco.org/en/list/276)",
+      "### Regional dynasties and divided sovereignty",
+      "Provincial rulers could acknowledge a caliph while exercising extensive local autonomy. The Tahirids in Khurasan illustrate how blurred that relationship could become: they collected taxes as agents of the caliphate, yet the amount retained locally and the practical balance of power were matters of political negotiation. Recognizing a ruler's prestige was not the same as obeying every command. [Encyclopaedia Iranica: the Tahirids](https://www.iranicaonline.org/articles/taherid-dynasty/)",
+      "In 945 the Buyids took Baghdad; the Seljuks entered in 1055. Abbasid caliphs continued to matter as sources of legitimacy and religious authority even when military power rested elsewhere. Their position changed with circumstances, however. It is too simple to describe every later caliph as an entirely powerless puppet. [Cambridge University Press: chronology of Abbasid rule](https://assets.cambridge.org/97811071/83247/frontmatter/9781107183247_frontmatter.pdf)",
+      "Political fragmentation also changed the geography of opportunity. A weakened Baghdad court did not imply that every provincial center lost its patrons at the same moment. Local dynasties could become sponsors of learning in their own right. The history of intellectual production and the history of caliphal territorial control are related, but their rises and falls do not match exactly.",
+      "Economic strains accumulated unevenly. Warfare, poor administration and insufficient investment damaged parts of Iraq's agricultural landscape. This longer history matters: the city's difficulties did not begin with the first Mongol soldier, and no single cause explains five centuries of political change. [The New Cambridge History of Islam: the late Abbasid pattern](https://www.cambridge.org/core/books/abs/new-cambridge-history-of-islam/late-abbasid-pattern-9451050/5847292CE9EBC0FC1F39723E55A59E86)",
+      "## WHAT REALLY HAPPENED WHEN THE MONGOLS DESTROYED BAGHDAD?",
+      "### Hülegü's advance",
+      "Mongol expansion had transformed the political world east of Iraq. Hülegü Khan, a grandson of Genghis Khan and brother of the Great Khan Möngke, led a major campaign westward. After the fall of the Nizari Ismaili stronghold of Alamut in 1256, Baghdad faced a power far beyond the resources its caliph could command. Negotiations did not produce a settlement. [Encyclopaedia Iranica: Hülegü Khan](https://www.iranicaonline.org/articles/hulagu-khan/)",
+      "The final Abbasid caliph in Baghdad, al-Musta'sim, possessed an exalted title, but his military position was much weaker than that of the early dynasty. Stories blaming the disaster entirely on one treacherous adviser flatten a complex failure into a convenient villain. Hostile and sectarian traditions surrounding the conquest need to be read critically rather than adopted as settled explanations.",
+      "### Siege, surrender and massacre",
+      "Mongol forces converged on Baghdad and attacked in early 1258. The city's defenses failed; its surrender and the subsequent sack unfolded in February. The conquerors looted and killed on a devastating scale. Al-Musta'sim was executed, ending the Abbasid caliphate's rule in Baghdad. This was a real catastrophe, not a myth invented because later generations preferred a tragic ending. [Iranica: the campaign against Baghdad](https://www.iranicaonline.org/articles/hulagu-khan/)",
+      "Accounts disagree over aspects of the caliph's death. The execution is secure; dramatic versions of the method and his final exchanges are not equally reliable. This article does not reconstruct a final conversation or present a later moral tale as an eyewitness scene. The central political fact is stark enough: the dynasty that had made Baghdad an imperial capital could no longer protect it. [Encyclopaedia Iranica: Baghdad under Mongol conquest](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/)",
+      "### How many people died?",
+      "There is no dependable exact body count. Medieval reports include enormous totals, but their numbers were not produced by a modern census followed by an audited register of deaths. Authors wrote at different distances from events and sometimes copied earlier accounts. Repeated figures can therefore represent the transmission of a narrative rather than independent confirmation.",
+      "Modern work comparing Arabic, Persian and Syriac accounts demonstrates how much interpretation depends on wording, context and the relationship between chronicles. Even the nature of disease reported after the sack is debated. Claims that Baghdad's aftermath can be confidently identified with the Black Death are contested in current scholarship. Uncertainty about a total does not reduce the seriousness of the massacre; it limits the precision with which it can be described. [Brack, Biran and Amitai: reevaluating the sources on Baghdad in 1258](https://doi.org/10.1017/mdh.2023.38)",
+      "### Did books turn the Tigris black with ink?",
+      "The famous image expresses cultural loss with unforgettable economy. It should be labeled a literary tradition, not repeated as an independently verified observation. The evidence does not allow a reliable calculation of books destroyed, much less a measurement of the river's color. Nor does it establish the familiar picture of one intact, all-encompassing House of Wisdom containing centuries of science until the moment it was thrown into the water.",
+      "Books and institutions suffered in warfare, but destruction was not their only possible fate. Collections could be dispersed, transferred or reassembled; surviving copies could exist elsewhere. Michal Biran's research reconstructs libraries and knowledge transmission in Baghdad under Mongol rule, challenging the assumption that the sack erased the city's intellectual community. [Michal Biran: libraries, books and knowledge in Ilkhanid Baghdad](https://cris.huji.ac.il/en/publications/libraries-books-and-transmission-of-knowledge-in-ilkhanid-baghdad/)",
+      "## WHAT SURVIVED AFTER 1258?",
+      "Baghdad continued under the Ilkhanids, the Mongol dynasty ruling Iran and neighboring territories. Government had to function, revenues had to be collected and urban life continued, despite the losses. The historian and administrator Ata-Malik Juvayni became an important figure in the city's post-conquest administration. Survival did not mean an immediate return to former conditions, but neither was Baghdad simply absent from history after the sack. [Iranica: Baghdad's post-conquest administration](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/)",
+      "The strongest rebuttal to an overnight end of Islamic science is what scholars actually did afterward. Nasir al-Din al-Tusi worked with Hülegü's support at Maragha, where an observatory and scholarly center developed. His relationship with the conqueror is uncomfortable for a story divided into pure destruction on one side and pure learning on the other. Political violence and patronage could coexist in the same regime. [Encyclopaedia Iranica: Nasir al-Din al-Tusi](https://www.iranicaonline.org/articles/%E1%B9%ADusi-na%E1%B9%A3ir-al-din-i-biography/)",
+      "Biran's study likewise identifies active scholarly networks and libraries in Ilkhanid Baghdad itself. This does not prove that every collection survived, or that nothing irreplaceable was lost. It demonstrates that the evidence supports continued intellectual work, not the familiar full stop. [Biran: scholarship in Ilkhanid Baghdad](https://cris.huji.ac.il/en/publications/libraries-books-and-transmission-of-knowledge-in-ilkhanid-baghdad/)",
+      "The Abbasid name also continued through titular caliphs in Mamluk Egypt, with a very different political role from their early predecessors. More broadly, knowledge associated with the Abbasid centuries was already dispersed through manuscripts, teachers, translations and other centers of learning. The fate of one capital could not determine the fate of every copy or every argument. [The Met: the Abbasids after Baghdad](https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258)",
+      "## ABBASID CALIPHATE: MYTH VS REALITY",
+      "**“The Golden Age was five centuries of uninterrupted peace.”** The period included civil war, rebellion, military struggles and changing patronage. Intellectual achievement did not require every decade to be prosperous or safe.",
+      "**“Baghdad invented everything it studied.”** Its scholars inherited material from many traditions. Their achievement included selecting, translating, criticizing and extending it, alongside original work.",
+      "**“All these scholars were Arab.”** Arabic was a shared scholarly language across communities. Language of publication does not establish ancestry or erase regional identities.",
+      "**“All these scholars were Muslim.”** Christian translators and physicians were central, and Jewish scholars participated in the wider intellectual environment. Religious diversity existed alongside unequal legal arrangements.",
+      "**“Every great thinker worked in the House of Wisdom.”** A caliphal library is attested; the universal research campus of popular imagination is not securely documented. The scholarly network was larger than any one institution.",
+      "**“Harun al-Rashid's adventures in the Arabian Nights are biography.”** They belong to a changing literary tradition. The historical caliph must be studied through critically examined historical evidence.",
+      "**“Science in the Islamic world ended in 1258.”** Baghdad's fall was devastating. Surviving institutions and later scholarly production show that it was not the end of intellectual history.",
+      "## A CAPITAL COULD FALL; ITS IDEAS HAD ALREADY TRAVELED",
+      "The history of Abbasid Baghdad is most compelling when its achievements are allowed to be human in scale: difficult work by people who needed patrons, collaborators, materials and time. A translator's vocabulary, a mathematician's proof, a physician's discussion and an engineer's drawing mattered because others could read them, test them and continue the work.",
+      "For the broader political setting, explore [the Mongol Empire's conquests and connections](/articles/mongol-empire-genghis-khan-conquests-legacy/) and [the Byzantine Empire's long survival](/articles/byzantine-empire-eastern-rome-constantinople-1453/). Baghdad's world interacted with both; its story cannot be understood in isolation from neighboring powers and inherited traditions.",
+      "Its greatness did not come from one civilization creating knowledge alone. It came from becoming a meeting point where languages, cultures, commerce and intellectual traditions interacted. Those encounters were sometimes unequal, sometimes contentious and sometimes extraordinarily productive.",
+      "The Mongols could destroy Baghdad's political center. But the knowledge created and transmitted through the Abbasid world had already traveled far beyond the city."
+    ],
+    "references": [
+      {
+        "name": "Kennedy: Baghdad's foundation and growth",
+        "url": "https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-i-pr-mongol/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: the Abbasid Caliphate",
+        "url": "https://www.iranicaonline.org/articles/abbasid-caliphate/"
+      },
+      {
+        "name": "Cambridge University Press: chronology of Abbasid rule",
+        "url": "https://assets.cambridge.org/97811071/83247/frontmatter/9781107183247_frontmatter.pdf"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Abu Muslim Khurasani",
+        "url": "https://www.iranicaonline.org/articles/abu-moslem-abd-al-rahman-b/"
+      },
+      {
+        "name": "The Met: the Abbasids after Baghdad",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Commerce before the Mongol conquest",
+        "url": "https://www.iranicaonline.org/articles/commerce-iv/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: the Islamic fiscal system",
+        "url": "https://www.iranicaonline.org/articles/fiscal-system-iii-islamic-period/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Harun al-Rashid",
+        "url": "https://www.iranicaonline.org/articles/harun-al-rasid/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Alf Layla wa Layla",
+        "url": "https://www.iranicaonline.org/articles/alf-layla-wa-layla/"
+      },
+      {
+        "name": "Iranica: al-Ma'mun's religious and intellectual policies",
+        "url": "https://www.iranicaonline.org/articles/mamun-abul-abbas-abd-allah/"
+      },
+      {
+        "name": "Stanford Encyclopedia of Philosophy: al-Kindi's project and legacy",
+        "url": "https://plato.stanford.edu/entries/al-kindi/"
+      },
+      {
+        "name": "National Library of Medicine: Arabic legacies",
+        "url": "https://www.nlm.nih.gov/hmd/topics/medieval/index_alla.html"
+      },
+      {
+        "name": "Encyclopaedia Iranica: paper before printing",
+        "url": "https://www.iranicaonline.org/articles/paper-iran-prior-printing/"
+      },
+      {
+        "name": "Jeffrey Oaks, University of Indianapolis: the House of Wisdom and its modern myths",
+        "url": "https://uindy.edu/cas/mathematics/oaks/articles/mhmc"
+      },
+      {
+        "name": "Biographical Encyclopedia of Astronomers: al-Khwarizmi's scientific work",
+        "url": "https://mathshistory.st-andrews.ac.uk/BEA/al_khwarizmi_bea.pdf"
+      },
+      {
+        "name": "MacTutor, University of St Andrews: al-Khwarizmi's mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/"
+      },
+      {
+        "name": "Stanford Encyclopedia of Philosophy: Hunayn and the Greek sources in Arabic",
+        "url": "https://plato.stanford.edu/entries/arabic-islamic-greek/"
+      },
+      {
+        "name": "National Library of Medicine: medicine in medieval Islam",
+        "url": "https://www.nlm.nih.gov/hmd/arabic/med_islam.html"
+      },
+      {
+        "name": "National Library of Medicine: catalogue notes on medical literature",
+        "url": "https://www.nlm.nih.gov/hmd/arabic/notes.html"
+      },
+      {
+        "name": "Smithsonian Lemelson Center: ingenious devices",
+        "url": "https://invention.si.edu/invention-stories/ingenious-devices"
+      },
+      {
+        "name": "MacTutor: Ibn al-Haytham",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/"
+      },
+      {
+        "name": "MacTutor: the development of Arabic mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Arabic_mathematics/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: jizya",
+        "url": "https://www.iranicaonline.org/articles/jezya/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: armies before the Mongol period",
+        "url": "https://www.iranicaonline.org/articles/army-ii/"
+      },
+      {
+        "name": "UNESCO: Samarra Archaeological City",
+        "url": "https://whc.unesco.org/en/list/276"
+      },
+      {
+        "name": "Encyclopaedia Iranica: the Tahirids",
+        "url": "https://www.iranicaonline.org/articles/taherid-dynasty/"
+      },
+      {
+        "name": "The New Cambridge History of Islam: the late Abbasid pattern",
+        "url": "https://www.cambridge.org/core/books/abs/new-cambridge-history-of-islam/late-abbasid-pattern-9451050/5847292CE9EBC0FC1F39723E55A59E86"
+      },
+      {
+        "name": "Iranica: the campaign against Baghdad",
+        "url": "https://www.iranicaonline.org/articles/hulagu-khan/"
+      },
+      {
+        "name": "Iranica: Baghdad's post-conquest administration",
+        "url": "https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/"
+      },
+      {
+        "name": "Brack, Biran and Amitai: reevaluating the sources on Baghdad in 1258",
+        "url": "https://doi.org/10.1017/mdh.2023.38"
+      },
+      {
+        "name": "Biran: scholarship in Ilkhanid Baghdad",
+        "url": "https://cris.huji.ac.il/en/publications/libraries-books-and-transmission-of-knowledge-in-ilkhanid-baghdad/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Nasir al-Din al-Tusi",
+        "url": "https://www.iranicaonline.org/articles/%E1%B9%ADusi-na%E1%B9%A3ir-al-din-i-biography/"
+      }
+    ],
+    "tags": [
+      "Abbasid Caliphate",
+      "Islamic Golden Age",
+      "history of Baghdad",
+      "House of Wisdom",
+      "Harun al-Rashid",
+      "Al-Khwarizmi",
+      "Baghdad 1258",
+      "Mongol sack of Baghdad",
+      "Islamic science",
+      "History"
+    ],
+    "readingTime": "21 min read",
+    "status": "published"
+  },
+  {
     "id": "084",
     "slug": "persian-empire-cyrus-great-achaemenid-history",
     "title": "PERSIAN EMPIRE: HOW CYRUS THE GREAT BUILT THE FIRST GREAT SUPERPOWER",
