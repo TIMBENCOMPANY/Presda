@@ -522,7 +522,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
     || article.slug === "british-empire-history-rise-fall-global-legacy"
     || article.slug === "house-music-brain-rhythm-128-bpm-science-dancing"
     || article.slug === "morocco-history-dynasties-kingdom-independence"
-    || article.slug === "mali-empire-mansa-musa-gold-pilgrimage-history";
+    || article.slug === "mali-empire-mansa-musa-gold-pilgrimage-history"
+    || article.slug === "inca-empire-andes-machu-picchu-rise-fall";
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
