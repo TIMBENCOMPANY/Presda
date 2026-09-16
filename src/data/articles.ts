@@ -54,6 +54,205 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "095",
+    "slug": "aztec-empire-tenochtitlan-mexica-rise-fall",
+    "title": "AZTEC EMPIRE: HOW TENOCHTITLAN BECAME THE HEART OF A POWERFUL CIVILIZATION",
+    "seoTitle": "Aztec Empire: Tenochtitlan, Mexica History and the Conquest",
+    "metaDescription": "Explore the Aztec Empire: Tenochtitlan’s lake city, tribute, religion and daily life—and how Indigenous alliances, smallpox and siege shaped its fall.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "AZTEC EMPIRE",
+      "gold": "TENOCHTITLAN"
+    },
+    "excerpt": "A city built on water became the heart of an empire. Its rise—and its fall—depended on farming, tribute, alliances and the rivalries of a complex Indigenous world.",
+    "category": "History",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/aztec-empire-tenochtitlan.webp",
+    "coverAlt": "Editorial historical reconstruction of an imagined Mexica ruler overlooking the lake city of Tenochtitlan; not a documented portrait",
+    "homepageImagePosition": "82% 0%",
+    "content": [
+      "The roads into Tenochtitlan crossed water. Canoes moved goods through canals; causeways carried people toward temples and crowded markets. The capital’s power depended on something less visible than its skyline: farmers, merchants, tributary communities and political bargains extending far beyond the lake.",
+      "This was an imperial city, both an achievement of urban engineering and the center of a demanding system of conquest. Understanding its destruction in 1521 requires understanding the world it had built—and the communities that resisted its rule.",
+      "Image note: the hero is an editorial historical reconstruction. The ruler, buildings, clothing and landscape are imaginative, not a documented portrait or an exact reconstruction of Tenochtitlan.",
+      "## MEXICA OR AZTEC? START WITH THE PEOPLE",
+      "“Aztec” is a useful but broad modern label, often applied to the empire and the cultural world of central Mexico. “Mexica” more specifically identifies the people associated with Tenochtitlan and neighboring Tlatelolco. Their language, Nahuatl, was also spoken by other communities, including enemies of Mexica imperial power. Shared language did not mean shared political loyalty. [The Met: names and Mexica culture](https://www.metmuseum.org/art/collection/search/312583)",
+      "Mexica migration traditions describe a departure from Aztlan and a search for a homeland under the guidance of Huitzilopochtli. The eagle and cactus belong to this powerful foundation story. They are evidence of how a people understood its origins, not a literal archaeological travel diary. Tenochtitlan’s foundation is conventionally dated to 1325, although the sources and their interpretation are debated. [INAH: migration and foundation traditions](https://www.templomayor.inah.gob.mx/historia/mito-de-la-peregrinacion)",
+      "The newcomers entered a region already filled with established cities, competing dynasties and long traditions of farming, commerce and religious life. They did not invent Mesoamerican civilization. For a time they lived under stronger neighbors, especially the Tepanec power centered at Azcapotzalco; their later supremacy was neither ancient nor inevitable.",
+      "## HOW DID THE AZTECS BUILD A CITY ON A LAKE?",
+      "Tenochtitlan grew from an island settlement in Lake Texcoco. Reclaimed ground extended its usable space. Causeways connected it to the shores, canals served as transport routes, and aqueducts brought fresh water from outside the island. Water was infrastructure, a defensive advantage and a persistent danger: flooding and the management of fresh and saline water demanded collective work. [The Met: the island capital](https://www.metmuseum.org/essays/tenochtitlan)",
+      "Chinampas were raised agricultural plots built in shallow wetland environments with layers of sediment and organic material, separated by channels. They were not floating rafts. Particularly important in the southern lake districts around Xochimilco and Chalco, these cultivated landscapes supported intensive food production. The technique preceded Mexica imperial dominance; the empire drew on an existing regional achievement.",
+      "Maize, beans, squash and other crops connected city life to skilled farming. Canoe transport helped move heavy loads toward urban markets. Chinampas were one part of a larger food supply that also depended on dryland agriculture, exchange and tribute. Calling Tenochtitlan self-sufficient would erase the surrounding countryside. [FAO: how chinampa agriculture works](https://www.fao.org/giahs/giahs-around-the-world/mexico-chinampas-agricultural-system/en)",
+      "## THE TRIPLE ALLIANCE AND TWO MOCTEZUMAS",
+      "In 1428, the defeat of Azcapotzalco opened the way for the Triple Alliance of Tenochtitlan, Texcoco and Tlacopan. These were three political centers, not three names for one city. Their partnership became the foundation of the empire, with Tenochtitlan increasingly dominant as conquest expanded its reach. [The Met: imperial expansion](https://82nd-and-fifth.metmuseum.org/toah/ht/08/canm.html)",
+      "Moctezuma I, who ruled from 1440 to 1469, helped expand imperial power and the institutions supporting it. Military success enlarged the flow of tribute and the demands placed on subject communities. His much later namesake, Moctezuma II, ruled from 1502 to 1520 and faced Cortés. Confusing the two compresses generations of state-building into the final encounter with Spain. [National Gallery of Art: rulers and imperial history](https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/research/publications/pdfs/art-of-aztec-mexico.pdf)",
+      "## HOW DID THE TRIBUTE EMPIRE WORK?",
+      "The empire usually sought submission and revenue rather than replacing every local government. Conquered communities could retain rulers while supplying goods and services demanded by the victors. Tribute included food, cotton textiles, military equipment and valued materials. Obligations differed by region; the empire was not a uniformly administered nation-state.",
+      "Officials and painted records helped organize these demands. Military pressure enforced them, but negotiation and local intermediaries also mattered. A subject ruler might retain authority by cooperating, while households supplied the labor behind the payments. Imperial wealth therefore represented other people’s production as much as a capital’s prosperity. [Archaeological research on imperial and provincial economies](https://www.cambridge.org/core/journals/ancient-mesoamerica/article/aztec-studies/694725A6E1B943E0C2B737A1982689B5)",
+      "The arrangement could sustain a large political system without direct occupation everywhere. It also created vulnerabilities: communities weighing the cost of tribute could reconsider their allegiance when a rival coalition appeared. That does not mean every subject hated Tenochtitlan, or that all opposition had the same cause.",
+      "## MARKETS, HOUSEHOLDS AND EVERYDAY LIFE",
+      "The famous market at Tlatelolco belonged to a much wider commercial network. Farmers and craftspeople sold everyday necessities; specialized merchants, including pochteca, moved valuable goods over longer distances. Tribute and markets coexisted. The economy cannot be reduced to either royal command or unrestricted trade.",
+      "Household labor sustained the system. Women’s food preparation and textile production fed and clothed families, soldiers and elites. Potters, stoneworkers, featherworkers and other specialists made objects for different levels of society. Men’s agricultural and military obligations intersected with community life. Status shaped opportunity: nobles, commoners and enslaved people did not experience the same city. [Cambridge: labor, production and trade](https://www.cambridge.org/core/books/abs/concise-history-of-the-aztecs/creating-value/2044309D6963E76DF8915DB1A33F7CC1)",
+      "Warriors could gain distinction through military service, but armies depended on farmers and supply networks. Looking only at temples and battles misses the repeated work of grinding maize, repairing houses, raising children and carrying goods that made an imperial capital possible.",
+      "## RELIGION AND THE TEMPLO MAYOR",
+      "The Templo Mayor stood at the center of the sacred precinct. Its paired shrines honored Huitzilopochtli, closely associated with Mexica identity, war and the sun, and Tlaloc, associated with rain and agricultural fertility. The pairing made political and environmental concerns monumental: military power mattered, but so did water and the next harvest.",
+      "Successive rulers enlarged the temple, covering earlier stages. Excavations reveal architecture, offerings and sculpture that can be compared with written accounts. Religion extended beyond public sacrifice into household practice, festivals, offerings, music and the interpretation of a sacred landscape. [INAH: Templo Mayor and its archaeology](https://lugares.inah.gob.mx/en/node/4463)",
+      "## DID THE AZTECS REALLY SACRIFICE THOUSANDS OF PEOPLE?",
+      "Human sacrifice was real. Archaeological evidence includes human remains with signs of ritual processing and the Huei Tzompantli, a skull-display complex associated with the sacred precinct. It cannot be dismissed as entirely a Spanish invention. [INAH: the Huei Tzompantli](https://lugares.inah.gob.mx/en/node/5907)",
+      "But evidence that sacrifice occurred does not validate every spectacular total in colonial narratives. Accounts of temple dedications and annual deaths differ sharply; some were written long afterward and served religious or political arguments. Surviving deposits are incomplete and accumulated over time. They cannot simply be multiplied into an empire-wide annual death toll.",
+      "A 2023 INAH report described 655 skulls identified in the excavated Huei Tzompantli remains, including men, women and children. That is a dated archaeological finding, not the total sacrificed by the civilization or a count from one ceremony. Claims of thousands require a specified place, period and source; precise mass-event figures remain disputed. [INAH’s 2023 research report](https://www.inah.gob.mx/images/boletines/2023/98/Boletin%2098.pdf)",
+      "Ritual killing was understood within ideas about obligations to deities and the renewal of life, and it also expressed political power. Explaining those meanings does not excuse the violence. Nor does documenting the violence justify portraying an entire society as nothing more than its most disturbing practices.",
+      "## EDUCATION, CALENDARS AND NAHUATL KNOWLEDGE",
+      "Education began in households and continued through institutions such as the telpochcalli and calmecac. Training included service, discipline, warfare, ritual and leadership, with differences shaped by social position and gender. These were not modern schools with equal access and identical curricula. [UNAM: Mexica education](https://e1.portalacademico.cch.unam.mx/alumno/historiademexico1/unidad2/culturamexica/educacion)",
+      "Calendrical knowledge combined a 260-day ritual count with a 365-day year. These interlocking cycles organized ceremonies and understandings of time; they belonged to older Mesoamerican traditions rather than a uniquely Mexica invention. [INAH: the calendar cycles](https://www.inah.gob.mx/boletines/daran-la-bienvenida-al-ano-mesoamericano-en-la-zona-arqueologica-de-teotihuacan)",
+      "Painted manuscripts recorded tribute, genealogies, histories and sacred knowledge through images and signs, often read alongside oral explanation. Much of the surviving record comes through colonial-era copies or new compilations. The Florentine Codex, created with Nahua scholars, artists and informants working with Bernardino de Sahagún, preserves extraordinary knowledge, but it also reflects the conditions of Christian colonial rule. Its Nahuatl and Spanish texts are not always equivalent. [Explore the Digital Florentine Codex](https://florentinecodex.getty.edu/)",
+      "## CORTÉS ARRIVES: AN ENCOUNTER, NOT AN INEVITABLE END",
+      "Hernán Cortés arrived on the Mexican mainland in 1519 from the Spanish Caribbean. His expedition entered a political landscape it did not control or fully understand. Interpreters, especially Malintzin, also known as Doña Marina, were essential to communication and negotiation. The wider background is explored in our history of the [Spanish Empire](/articles/spanish-empire-columbus-conquest-silver-global-history/).",
+      "Cortés and his allies entered Tenochtitlan in November 1519. Moctezuma II received them, and the Spaniards subsequently held him captive. Diplomatic speeches transmitted through interpreters and later histories should not be treated as transparent proof that he believed Cortés was a returning god. The encounter involved calculation, pressure and uncertainty.",
+      "In 1520, Pedro de Alvarado’s forces attacked participants in the Toxcatl festival while Cortés was away. Fighting escalated. Moctezuma died that June, but accounts differ over whether Spaniards killed him or whether injuries inflicted by people opposing the occupation caused his death. Certainty about one version exceeds the surviving evidence. [UNAM: comparing accounts of Moctezuma’s death](https://e1.portalacademico.cch.unam.mx/alumno/historiademexico1/unidad1/investigacionHistorica/ejercicio4)",
+      "## WHY DID SO MANY INDIGENOUS GROUPS JOIN CORTÉS?",
+      "The Tlaxcalans were independent rivals of the Mexica, not simply a conquered province waiting for rescue. They initially fought the newcomers before negotiating an alliance. Their leaders had their own interests and disagreements. Cooperation offered a way to confront regional enemies; it did not require foreseeing or consenting to the full colonial order that followed.",
+      "Other communities joined, resisted, changed sides or pursued local disputes. Political divisions within Texcoco also mattered. Indigenous forces provided soldiers, food, intelligence, transport and routes of retreat. Calling them minor “helpers” reverses the scale of their contribution. [Tlaxcalan political and military alliances](https://arqueologiamexicana.mx/node/5581)",
+      "Calling these allies traitors is also misleading: there was no single Indigenous nation to which all owed loyalty. Their decisions were made in a world of competing polities. Recognizing that agency does not turn the conquest into a harmless liberation story; alliances were followed by colonial demands and unequal power. [University of Texas: Tlaxcala and the conquest](https://utw10890.utweb.utexas.edu/wp-content/uploads/2019/11/llilas_benson_tlaxcala.pdf)",
+      "## FROM NOCHE TRISTE TO THE SIEGE OF 1521",
+      "On the night of 30 June–1 July 1520, Spanish forces and their allies suffered a devastating retreat from Tenochtitlan, remembered in Spanish tradition as Noche Triste. The name describes the invaders’ loss, not a universal perspective. The defeat demonstrated that Spanish weapons did not guarantee victory.",
+      "Smallpox struck the capital later in 1520, killing people and disrupting care, food production and leadership; Moctezuma’s successor Cuitlahuac died during the epidemic. Disease also affected communities outside the capital. It was not a weapon that distinguished neatly between Spanish allies and enemies.",
+      "In 1521, a rebuilt coalition besieged the city by land and water. Brigantines challenged canoe movement, attackers pressed along the causeways, and the cutting of supplies turned resistance into a struggle against hunger and thirst as well as assault. Cuauhtemoc’s capture on 13 August 1521 marked the fall of the capital. [AHA: the conquest chronology](https://www.historians.org/resource/the-conquest-of-mexico-timeline/)",
+      "## DID A FEW HUNDRED SPANIARDS REALLY DESTROY THE EMPIRE?",
+      "Not by themselves. A small initial European expedition became part of a much larger, changing coalition. Reinforcements, Indigenous armies, existing rivalries, epidemic disease and a destructive siege all mattered. Horses, steel and firearms offered advantages in particular encounters, but guns did not supply armies, build alliances or automatically overcome the city’s defenses.",
+      "Nahua accounts describe fighting, hunger and suffering that disappear from a simple tale of individual Spanish genius. They also require careful reading: memories differed between communities, and surviving texts were produced after the defeat. Comparing these voices with archaeology and Spanish claims is stronger than choosing a single victorious narrator. [Getty: competing narratives of conquest](https://www.getty.edu/news/competing-narratives-about-the-conquest-of-mexico-and-the-fall-of-the-aztec-empire/)",
+      "Exact army and casualty totals vary among sources and later reconstructions. This account avoids presenting disputed numbers as a census. The demographic catastrophe also continued after the siege through further epidemics and colonial disruption. As with the [fall of the Inca Empire](/articles/inca-empire-andes-machu-picchu-rise-fall/), one battle or one technology cannot explain the whole transformation.",
+      "## MEXICO CITY ABOVE TENOCHTITLAN",
+      "Colonial Mexico City was built over the defeated capital. Spanish churches, administrative buildings and residences reshaped an existing urban center, incorporating and replacing Indigenous spaces. Conquest changed the city’s institutions and sacred geography, while Indigenous labor and communities remained essential to its life.",
+      "The lake environment changed over centuries rather than vanishing at once. Xochimilco’s surviving canals and chinampas preserve part of that much older relationship between settlement and water. The remains of the Templo Mayor beside the colonial center make these overlapping histories physically visible. [UNESCO: Mexico City and Xochimilco](https://whc.unesco.org/en/list/412/)",
+      "## AZTEC EMPIRE: MYTH VS REALITY",
+      "Myth: “Aztec” names one people with one political identity. Reality: the term covers a wider historical world; Mexica, Texcocan and Tlaxcalan identities and interests were distinct.",
+      "Myth: chinampas floated freely on the lake. Reality: they were raised fields constructed in wetland settings.",
+      "Myth: sacrifice was either entirely invented or precisely counted. Reality: archaeology confirms ritual killing, while many large numerical claims remain contested.",
+      "Myth: Moctezuma simply surrendered because he thought Cortés was a god. Reality: this familiar explanation oversimplifies disputed accounts of diplomacy and coercion.",
+      "Myth: a few hundred Europeans defeated everyone alone. Reality: Indigenous allies were fundamental, and the attackers needed a prolonged campaign after an earlier defeat.",
+      "Myth: all Indigenous communities welcomed the fall. Reality: interests differed, resistance was fierce, and victory brought neither equal outcomes nor freedom from colonial domination.",
+      "Myth: the Nahua disappeared in 1521. Reality: an imperial state fell; its peoples and their cultural lives continued.",
+      "## WHAT SURVIVED THE EMPIRE?",
+      "Nahuatl remains a living language, with regional varieties and communities working to transmit and revitalize it. Nahua people are not merely descendants appearing at the end of someone else’s history: they continue to create knowledge, art and political lives in the present. [Getty: Nahuatl educators and language revitalization](https://www.getty.edu/news/revitalizing-an-endangered-indigenous-language/)",
+      "Tenochtitlan’s story survives in archaeology, foodways, place names, manuscripts and the city built above it. Its achievement was a dense urban world sustained by water engineering, farming, exchange and political organization. Its empire also depended on coercion and unequal obligations. Its fall resulted from Spanish forces interacting with Indigenous alliances, existing rivalries, epidemic disease and a devastating siege—not from a civilization effortlessly swept aside by a handful of strangers."
+    ],
+    "references": [
+      {
+        "name": "The Met: Tenochtitlan",
+        "url": "https://www.metmuseum.org/essays/tenochtitlan"
+      },
+      {
+        "name": "INAH: Mexica migration traditions",
+        "url": "https://www.templomayor.inah.gob.mx/historia/mito-de-la-peregrinacion"
+      },
+      {
+        "name": "FAO: Chinampas agricultural system",
+        "url": "https://www.fao.org/giahs/giahs-around-the-world/mexico-chinampas-agricultural-system/en"
+      },
+      {
+        "name": "The Met: Mexico, 1400–1600 chronology",
+        "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/08/canm.html"
+      },
+      {
+        "name": "Cambridge: Creating Value, A Concise History of the Aztecs",
+        "url": "https://www.cambridge.org/core/books/abs/concise-history-of-the-aztecs/creating-value/2044309D6963E76DF8915DB1A33F7CC1"
+      },
+      {
+        "name": "Cambridge: Aztec Studies, Ancient Mesoamerica",
+        "url": "https://www.cambridge.org/core/journals/ancient-mesoamerica/article/aztec-studies/694725A6E1B943E0C2B737A1982689B5"
+      },
+      {
+        "name": "INAH: Templo Mayor archaeology",
+        "url": "https://lugares.inah.gob.mx/en/node/4463"
+      },
+      {
+        "name": "INAH: Huei Tzompantli excavations",
+        "url": "https://lugares.inah.gob.mx/en/node/5907"
+      },
+      {
+        "name": "INAH: research on the Huei Tzompantli, 2023",
+        "url": "https://www.inah.gob.mx/images/boletines/2023/98/Boletin%2098.pdf"
+      },
+      {
+        "name": "UNAM: Mexica education",
+        "url": "https://e1.portalacademico.cch.unam.mx/alumno/historiademexico1/unidad2/culturamexica/educacion"
+      },
+      {
+        "name": "INAH: Mesoamerican calendar cycles",
+        "url": "https://www.inah.gob.mx/boletines/daran-la-bienvenida-al-ano-mesoamericano-en-la-zona-arqueologica-de-teotihuacan"
+      },
+      {
+        "name": "Getty: Digital Florentine Codex",
+        "url": "https://florentinecodex.getty.edu/"
+      },
+      {
+        "name": "American Historical Association: conquest timeline",
+        "url": "https://www.historians.org/resource/the-conquest-of-mexico-timeline/"
+      },
+      {
+        "name": "UNAM: comparing accounts of Moctezuma’s death",
+        "url": "https://e1.portalacademico.cch.unam.mx/alumno/historiademexico1/unidad1/investigacionHistorica/ejercicio4"
+      },
+      {
+        "name": "Arqueología Mexicana: Tlaxcalan allies of the Spanish Crown",
+        "url": "https://arqueologiamexicana.mx/node/5581"
+      },
+      {
+        "name": "University of Texas: Tlaxcala’s reception of the conquistadors",
+        "url": "https://utw10890.utweb.utexas.edu/wp-content/uploads/2019/11/llilas_benson_tlaxcala.pdf"
+      },
+      {
+        "name": "Getty: competing narratives of the conquest",
+        "url": "https://www.getty.edu/news/competing-narratives-about-the-conquest-of-mexico-and-the-fall-of-the-aztec-empire/"
+      },
+      {
+        "name": "UNESCO: Historic Centre of Mexico City and Xochimilco",
+        "url": "https://whc.unesco.org/en/list/412/"
+      },
+      {
+        "name": "Getty: revitalizing Nahuatl",
+        "url": "https://www.getty.edu/news/revitalizing-an-endangered-indigenous-language/"
+      },
+      {
+        "name": "The Met: Mexica drum and the term Aztec",
+        "url": "https://www.metmuseum.org/art/collection/search/312583"
+      },
+      {
+        "name": "National Gallery of Art: Art of Aztec Mexico",
+        "url": "https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/research/publications/pdfs/art-of-aztec-mexico.pdf"
+      }
+    ],
+    "tags": [
+      "Aztec Empire",
+      "Tenochtitlan",
+      "Mexica",
+      "Moctezuma",
+      "Indigenous history",
+      "History"
+    ],
+    "readingTime": "11 min read",
+    "faq": [
+      {
+        "question": "Were the Mexica and the Aztecs the same?",
+        "answer": "Mexica identifies the people associated with Tenochtitlan and Tlatelolco more specifically. Aztec is a broader label commonly used for their empire and the cultural world of central Mexico."
+      },
+      {
+        "question": "When did Tenochtitlan fall?",
+        "answer": "Cuauhtemoc was captured on 13 August 1521 after a devastating siege by Spanish forces and Indigenous allies."
+      },
+      {
+        "question": "Were chinampas floating gardens?",
+        "answer": "Chinampas were raised agricultural fields constructed in shallow wetland environments, not freely floating rafts."
+      },
+      {
+        "question": "Did a few hundred Spaniards conquer the Aztec Empire alone?",
+        "answer": "No. Indigenous armies and political alliances were essential. Disease, reinforcements, existing rivalries and a prolonged siege also shaped the outcome."
+      }
+    ]
+  },
+  {
     "id": "094",
     "slug": "umayyad-caliphate-damascus-expansion-rise-fall",
     "title": "UMAYYAD CALIPHATE: HOW ONE DYNASTY BUILT AN EMPIRE FROM SPAIN TO CENTRAL ASIA",
