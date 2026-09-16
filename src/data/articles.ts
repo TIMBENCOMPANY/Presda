@@ -6644,7 +6644,7 @@ export const articles: Article[] = [
     id: "070",
     slug: "designer-babies-ivf-embryo-selection-genetics",
     title: "DESIGNER BABIES: CAN PARENTS REALLY CHOOSE THEIR FUTURE CHILD?",
-    seoTitle: "Designer Babies: Can Parents Really Choose Their Future Child? | PRESDA",
+    seoTitle: "Designer Babies: Can Parents Really Choose Their Future Child?",
     metaDescription:
       "IVF can already help select embryos based on some genetic information. But can parents choose sex, health, height or intelligence? Discover what science really allows.",
     headlineHighlights: {
@@ -6974,7 +6974,7 @@ export const articles: Article[] = [
     id: "069",
     slug: "hachiko-why-dogs-loyal-to-humans",
     title: "HACHIKŌ'S STORY MAKES US WONDER: WHY DO DOGS STAY LOYAL TO HUMANS?",
-    seoTitle: "Hachikō: Why Do Dogs Stay Loyal to Humans? | PRESDA",
+    seoTitle: "Hachikō: Why Do Dogs Stay Loyal to Humans?",
     metaDescription:
       "Hachikō waited for years after his owner died. Discover his true story and the science behind why dogs form such powerful bonds with humans.",
     headlineHighlights: {
@@ -12477,7 +12477,7 @@ export const articles: Article[] = [
     id: "049",
     slug: "history-of-gold",
     title: "GOLD: HOW ONE METAL BECAME THE WORLD'S SYMBOL OF WEALTH",
-    seoTitle: "The History of Gold: How It Became the Symbol of Wealth | PRESDA",
+    seoTitle: "The History of Gold: How It Became the Symbol of Wealth",
     metaDescription:
       "Explore the history of gold from ancient Egypt and early coins to Mansa Musa, global trade, the Gold Rush, the gold standard and modern central banks.",
     headlineHighlights: {
