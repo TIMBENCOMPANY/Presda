@@ -54,6 +54,294 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "084",
+    "slug": "persian-empire-cyrus-great-achaemenid-history",
+    "title": "PERSIAN EMPIRE: HOW CYRUS THE GREAT BUILT THE FIRST GREAT SUPERPOWER",
+    "seoTitle": "Persian Empire: Cyrus, Darius & Achaemenid History | PRESDA",
+    "metaDescription": "Explore the Persian Empire from Cyrus and the Cyrus Cylinder to Darius, Xerxes, Persepolis and Alexander—with history separated from popular myth.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "PERSIAN EMPIRE",
+      "gold": "FIRST GREAT SUPERPOWER"
+    },
+    "excerpt": "Cyrus conquered kingdoms. His successors faced the greater challenge of governing them. Inside the power, complexity and enduring legacy of the Achaemenid Persian Empire.",
+    "category": "History",
+    "date": "2026-09-16",
+    "lastUpdated": "2026-09-16",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/persian-empire-cyrus-great-achaemenid-history.webp",
+    "coverAlt": "Editorial historical reconstruction of a Persian king on a throne above an imagined imperial city; not a literal portrait of Cyrus",
+    "homepageImagePosition": "79% 10%",
+    "content": [
+      "In 539 BCE, Babylon acquired a new king. Cyrus came from the Iranian plateau, but the account celebrating his arrival spoke in a language Babylon understood: its god had chosen him, its sanctuaries would be protected, and its previous ruler had failed. Conquest arrived wearing the clothes of restoration. That political imagination helps explain how a Persian kingdom became an empire.",
+      "The Achaemenid Persian Empire eventually linked the eastern Mediterranean and Egypt with western Asia, parts of Central Asia and the Indus region. Calling it the first great superpower is a modern comparison with its extraordinary reach, not a literal ancient title. Assyria and Babylonia had built powerful empires before it. Persia inherited their experience and governed on a still greater geographical scale. [The Metropolitan Museum of Art: the Achaemenid Persian Empire](https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c)",
+      "Its history is often reduced to the battles it lost against Greeks. Yet Marathon and Salamis cannot explain how its officials collected resources, how its kings negotiated different religious traditions, or why its institutions remained useful to the conqueror who ultimately overthrew it. The deeper question is how Persia made so much difference governable.",
+      "*The hero is an editorial historical reconstruction, not a literal portrait of Cyrus or an archaeological reconstruction of a particular throne room. All dates below are BCE unless otherwise stated.*",
+      "## BEFORE CYRUS: PERSIA WAS NOT AN EMPTY STAGE",
+      "The landscape from which Cyrus emerged already had a long political history. Anshan, associated with the archaeological site of Tall-e Malyan in modern Fars, had been an important Elamite center. The title king of Anshan linked Cyrus to a region where Iranian-speaking peoples encountered older traditions of settlement, kingship and administration. Persian power grew through this environment; it did not suddenly create civilization where none had existed. [Encyclopaedia Iranica: Anshan](https://www.iranicaonline.org/articles/anshan-elamite-region/)",
+      "To the north stood the Medes; farther west lay Lydia in Anatolia and the Neo-Babylonian kingdom. These were interconnected political worlds, with established courts, armies and wealthy cities. A successful conqueror could inherit their resources, but also their obligations and rivalries. Cyrus's achievement was to assemble these worlds under his authority without requiring them all to become culturally Persian.",
+      "His early biography is harder to recover than his conquests. Ancient authors offered contradictory stories of miraculous survival and royal destiny. His kingship is conventionally dated from 559, but picturesque childhood narratives should not be treated as eyewitness biography. Even the familiar dynastic label needs care: the relationship between Cyrus's lineage and Darius's claims to Achaemenid ancestry has generated scholarly debate. [Encyclopaedia Iranica: Cyrus II the Great](https://www.iranicaonline.org/articles/cyrus-iii/)",
+      "## CYRUS THE GREAT: FROM THE MEDES TO BABYLON",
+      "### The fall of Media and Lydia",
+      "Cyrus defeated the Median king Astyages around 550. That victory gave his expanding monarchy a much larger political base. It also established a recurring pattern: Persian success could incorporate an older ruling tradition instead of erasing every trace of it. The new empire was Persian-led, but its people and institutions would never be exclusively Persian. [The Met: the empire's foundation](https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c)",
+      "Lydia followed. Its king, Croesus, became proverbial for wealth, but the date of his defeat is less secure than many timelines suggest. The conquest is traditionally placed in 547 or 546; attempts to connect it precisely with a damaged passage of the Nabonidus Chronicle remain disputed. Mid-sixth-century conquest is certain; a confidently narrated exact year is not. Stories about Croesus's oracle and fiery death or rescue belong to competing ancient traditions, not a verified transcript of events. [Encyclopaedia Iranica: Croesus](https://www.iranicaonline.org/articles/croesus/)",
+      "### Babylon, 539 BCE",
+      "The capture of Babylon was a different kind of prize: an imperial capital, an agricultural heartland and a center of religious authority. The Nabonidus Chronicle records the campaign and Babylon's occupation. Its account of entry without battle should not be expanded into a claim that the entire conquest involved no violence; fighting preceded the city's fall. [British Museum: the Nabonidus Chronicle](https://www.britishmuseum.org/collection/object/W_Sp-II-964)",
+      "Cyrus's public message in Babylon emphasized continuity. He presented himself as the rightful ruler favored by Marduk, Babylon's principal god, rather than an outsider abolishing the city's sacred order. This was a claim to legitimacy in local terms. For a ruler acquiring territories with distinct histories, speaking through their institutions could be as important as defeating their armies.",
+      "## THE CYRUS CYLINDER: HUMAN RIGHTS OR IMPERIAL PROPAGANDA?",
+      "The Cyrus Cylinder is a clay foundation document written in Babylonian cuneiform after the conquest. It denounces Nabonidus, celebrates Cyrus's acceptance by Marduk, describes the restoration of cult images and communities, and records work on Babylon's defenses. Its form belongs to Mesopotamian royal traditions. It was not a constitution granting equal rights to every inhabitant of a world empire. [British Museum: the Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941)",
+      "In Irving Finkel's translation, Cyrus claims to have relieved burdens, restored sanctuaries and returned people to their settlements. Those statements matter. But the text also proclaims universal kingship and describes other rulers bringing tribute and submitting. It does not declare the abolition of slavery, democratic government or a universal freedom of conscience. Modern paraphrases inserting those promises change the document rather than explain it. [Irving Finkel: translation of the Cyrus Cylinder](https://fezana.org/wp-content/uploads/FEZANA-Lesson-2-Translation-of-the-Text-on-the-Cyrus-Cylinder.pdf)",
+      "Calling it the world's first declaration of human rights therefore imports a modern legal category into a very different setting. Calling it propaganda does not make every claim false, either. Royal publicity could describe real acts of restoration while selecting them to justify conquest. The cylinder is powerful evidence for how Cyrus wanted his rule understood; it is not an independent audit of his conduct. [British Museum account at Smarthistory: Cyrus Cylinder](https://smarthistory.org/cyrus-cylinder/)",
+      "## CYRUS THE GREAT: CONQUEROR OR TOLERANT KING?",
+      "Both descriptions capture something, provided neither becomes a complete moral portrait. Supporting local cults and established elites could spare a conquered society some disruption. It could also secure cooperation, revenue and political stability for the new ruler. Respect and calculation need not be mutually exclusive.",
+      "Imperial tolerance meant that many communities could retain important practices under a king's supremacy. It did not mean that they had consented to conquest or possessed an enforceable right to leave the empire. The favorable image in the cylinder must be read alongside the fact that Cyrus was expanding his authority through war. His achievement was a formidable model of kingship, not the creation of a modern liberal state. [Smarthistory: interpreting Cyrus's royal message](https://smarthistory.org/cyrus-cylinder/)",
+      "Cyrus died in 530. The exact circumstances remain uncertain. Herodotus placed his death in war against the Massagetae and made Queen Tomyris central to the story; Ctesias supplied a different battlefield account, while Xenophon's idealized biography described a peaceful death. These versions cannot all be reconciled into one cinematic final scene. The honest ending is an unresolved death followed by a very real succession. [Iranica: competing accounts of Cyrus's death](https://www.iranicaonline.org/articles/cyrus-iii/)",
+      "## CAMBYSES II: EGYPT JOINS THE EMPIRE",
+      "Cyrus's son Cambyses II conquered Egypt in 525, defeating Psammetichus III. The empire now controlled another ancient kingdom whose temples, bureaucracy and ideas of sacred kingship were older than Persian rule. Egypt offered immense resources, but governing it required more than installing soldiers. [Encyclopaedia Iranica: Persians in Egypt](https://www.iranicaonline.org/articles/egypt-i/)",
+      "Greek accounts often turned Cambyses into a model of madness and sacrilege. Egyptian evidence complicates that portrait: records associated with the burial of an Apis bull do not fit a simple picture of a ruler uniformly destroying local religion. That does not establish a harmless occupation. It means hostile literary traditions must be tested against documents and monuments rather than repeated as psychological diagnoses. [Encyclopaedia Iranica: Cambyses](https://www.iranicaonline.org/articles/cambyses-opers/)",
+      "## DARIUS I: AN EMPIRE REBUILT AFTER A DISPUTED SUCCESSION",
+      "The transition of 522 was a crisis. Darius claimed that a usurper named Gaumata had impersonated Cyrus's son Bardiya and that he had rescued legitimate kingship. Whether the man he overthrew was really an impostor remains debated. Darius's own explanation is indispensable evidence, but it was also written by the beneficiary of the coup. [Encyclopaedia Iranica: Gaumata](https://www.iranicaonline.org/articles/gaumata/)",
+      "At Bisitun, Darius had his victory and the suppression of revolts monumentalized in Old Persian, Elamite and Babylonian. The inscription presents rebellion through a moral opposition between truth and falsehood, with divine favor supporting the king. It reveals how hard authority had to be fought for—and how carefully the result was advertised. [Encyclopaedia Iranica: the Bisitun inscription](https://www.iranicaonline.org/articles/bisotun-iii/)",
+      "Darius I, who ruled from 522 to 486, helped consolidate a state whose resources stretched far beyond its Persian homeland. His historical importance is not that he invented government from nothing. He organized and developed institutions inherited from predecessors and conquered territories. The empire's durability depended on turning military possession into recurring administration.",
+      "## HOW DID PERSIA RULE SO MANY DIFFERENT PEOPLES?",
+      "### Satrapies and local elites",
+      "Satrapies were provincial jurisdictions governed under royal authority. Their officials collected and forwarded resources, recruited troops, supervised administration and managed security. Their organization changed over time, and the famous tribute districts described by Greek writers should not be mistaken for an unchanging map of twenty identical provinces. [Encyclopaedia Iranica: Achaemenid satrapies](https://www.iranicaonline.org/articles/achaemenid-satrapies/)",
+      "The king could work through regional aristocrats, civic institutions and established bureaucracies. Provincial government thus combined Persian supremacy with local expertise. Negotiation and patronage mattered alongside commands; the same arrangement could become unstable when a governor or local dynasty accumulated ambitions of its own. Diversity was manageable, but never free of political cost. [Iranica: provincial responsibilities and structures](https://www.iranicaonline.org/articles/achaemenid-satrapies/)",
+      "### Roads, messages and the distance problem",
+      "An order that arrived too late could be almost useless. The Royal Road connecting Susa and Sardis was part of a wider network linking imperial centers and provinces. Routes and stations supported movement by officials, messengers and other travelers. The Persians improved and integrated communication across conquered territories rather than inventing roads themselves. [Encyclopaedia Iranica: imperial roads and communications](https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-ii-the-empire/)",
+      "Relay arrangements allowed state messages to move through successive riders and stations. Their purpose was political as much as practical: information helped a distant king remain present in provincial affairs. Later administrations would also face this problem of governing faster than news could travel. Persia's answer belongs to a long history of organized official communication. [Encyclopaedia Iranica: the antecedents of the official postal service](https://www.iranicaonline.org/articles/barid-the-official-postal-and-intelligence-service-of-the-early-islamic-caliphate-and-its-successor-states/)",
+      "### Languages and the ordinary paperwork of power",
+      "At Persepolis, surviving records show an information system operating in several forms. Elamite and Aramaic texts appear alongside seal impressions and occasional documents in other languages. Much of the archive concerns the storage and distribution of food. Its reach extends from workers to members of the royal family: empire appears here as accounting, authorization and supplies. [University of Chicago: Persepolis Fortification Archive](https://isac.uchicago.edu/research/projects/persepolis-fortification-archive)",
+      "These tablets offer an essential counterweight to battle narratives. Governing many peoples did not require one language to replace every other. It required officials able to make obligations legible and to track what moved between institutions. Translators, scribes and administrators were part of the machinery that kept the monarchy functioning.",
+      "### Taxation, trade and the gold daric",
+      "Darius introduced the gold daric, a royal coin of approximately 8.4 grams. Its exact introduction date and the origin of its name are debated. It became an important expression of royal monetary authority, but its existence does not mean that every transaction across the empire took place in gold coins. [Encyclopaedia Iranica: the daric](https://www.iranicaonline.org/articles/daric/)",
+      "Coinage coexisted with other forms of payment and exchange. Regional practices differed; weighed metal and payments in goods remained important. Imperial wealth was therefore larger than any treasury's pile of coins: it included agricultural production, labor obligations, trade and the capacity to mobilize resources. A modern dollar valuation would give a misleading appearance of precision. [Encyclopaedia Iranica: coins and coinage](https://www.iranicaonline.org/articles/coins-and-coinage/)",
+      "## PERSEPOLIS: A VISION OF ORDER IN STONE",
+      "Begun under Darius and developed by his successors, Persepolis brought royal magnificence onto a monumental terrace. Palaces, audience spaces, residential buildings and treasuries made it more than a decorative stage. Its reliefs presented different peoples within an ordered imperial world, recognizable through dress and offerings yet gathered around the authority of the king. [Encyclopaedia Iranica: Persepolis](https://www.iranicaonline.org/articles/persepolis/)",
+      "Calling it a ceremonial center is appropriate; calling it only a ceremonial center is not. Administrative evidence demonstrates practical activity behind the royal display. The popular description of Persepolis as a palace built specifically for Nowruz celebrations is a debated interpretation, not an established fact. Nor was it a capital built by Cyrus: its great Achaemenid construction program belongs to later reigns. [Iranica: the site's buildings and disputed functions](https://www.iranicaonline.org/articles/persepolis/)",
+      "Susa was another major royal center. The court's geography was plural, not a modern national system with every function concentrated in one permanent capital. That arrangement reflected both inherited urban importance and the scale of the territories the king claimed. [Encyclopaedia Iranica: Achaemenid Susa](https://www.iranicaonline.org/articles/susa-iii-the-achaemenid-period/)",
+      "## RELIGION, TOLERANCE AND THE LIMITS OF AUTONOMY",
+      "Darius's inscriptions repeatedly invoke Ahuramazda. That is secure evidence of royal devotion. The harder question is what label best describes the kings' full religious world. Scholars have disagreed over how closely Achaemenid practices corresponded to Zoroastrianism as reconstructed from later texts. It is unsafe to project a complete, uniform later orthodoxy backward onto every Achaemenid ruler. [Encyclopaedia Iranica: Achaemenid culture and religion](https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-iii-culture/)",
+      "The debate includes strong arguments for identifying important royal beliefs as Zoroastrian. Those arguments should be distinguished from certainty about Cyrus's personal creed or a claim that all imperial subjects followed it. An empire containing Babylonian, Egyptian, Iranian and Greek traditions cannot be described through the king's invocations alone. [Encyclopaedia Iranica: Achaemenid religion](https://www.iranicaonline.org/articles/achaemenid-religion/)",
+      "Nor was Persia a slavery-free empire. Documents from Achaemenid Babylonia attest enslaved people and transactions involving them. Other dependent workers occupied different legal and economic positions; categories should not be collapsed into one. But neither payments nor rations recorded for some laborers prove universal freedom. [Encyclopaedia Iranica: slavery in the Achaemenid period](https://www.iranicaonline.org/articles/barda-i/)",
+      "Accommodation also existed beside coercion. Royal punishment of rebellion could be brutal, and Darius's own inscription describes violence against defeated opponents. Recognizing administrative sophistication does not require overlooking the force that upheld it. Imperial order looked different from the throne than from a community resisting its demands. [Encyclopaedia Iranica: punishment in the Achaemenid period](https://www.iranicaonline.org/articles/torture-achaemenid-period/)",
+      "## THE ARMY AND THE “IMMORTALS”",
+      "Persia drew military resources from a large and varied population. Cavalry, infantry and archers served alongside contingents with different regional equipment and experience. Its military power cannot be reduced to an anonymous crowd charging disciplined Greeks. Mobilizing forces from distant provinces was itself an organizational achievement, even when particular campaigns ended in defeat. [Encyclopaedia Iranica: the Achaemenid army](https://www.iranicaonline.org/articles/army-i/)",
+      "Herodotus describes an elite force of 10,000 that he calls the Immortals: losses were supposedly replaced so its establishment remained constant. The Iranian designation behind that Greek name is uncertain. Scholars have proposed explanations, including a possible linguistic misunderstanding, but none licenses treating the film image of masked, supernatural killers as historical evidence. [Encyclopaedia Iranica: Immortals](https://www.iranicaonline.org/articles/immortals/)",
+      "Ancient troop totals require similar caution. The immense numbers attached to Xerxes's invasion are not reliable census returns. Modern estimates differ substantially because the evidence does not permit an exact reconstruction. Replacing an ancient figure of millions with a confident modern number can conceal rather than solve that problem. [Iranica: military organization and disputed numbers](https://www.iranicaonline.org/articles/army-i/)",
+      "## THE PERSIAN WARS: TWO SIDES OF AN IMPERIAL FRONTIER",
+      "### The Ionian Revolt and Marathon",
+      "The Ionian Revolt of 499–494 challenged Persian authority among Greek cities in western Anatolia. Athenian and Eretrian assistance connected it to politics across the Aegean. Darius's subsequent campaign reached mainland Greece, where the Athenians and their Plataean allies defeated a Persian force at Marathon in 490. The victory was momentous for Athens, but it did not destroy the Persian Empire. [Encyclopaedia Iranica: Greco-Persian relations](https://www.iranicaonline.org/articles/greece-i/)",
+      "### Xerxes, Thermopylae and Athens",
+      "After succeeding Darius in 486, Xerxes prepared a much larger invasion. In 480, his forces broke through the defense at Thermopylae and advanced into Attica. Athens was captured and its Acropolis burned. For communities opposing him, the invasion threatened political independence and sacred places. From the Persian court's perspective, it was also an attempt to secure an imperial frontier and punish resistance. [Encyclopaedia Iranica: chronology of Iranian history](https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/)",
+      "### Salamis and the failure of the invasion",
+      "The Greek naval victory at Salamis in 480 transformed the campaign. Xerxes withdrew, while a force under Mardonius remained. In 479, the defeat of that army at Plataea and the Greek success at Mycale further broke the invasion's momentum. These were genuine Persian defeats; acknowledging the empire's sophistication should not explain them away. Yet Persia remained a major power for generations afterward. [Encyclopaedia Iranica: Salamis](https://www.iranicaonline.org/articles/salamis/)",
+      "## 300 VS REALITY",
+      "The 300 Spartans were part of a larger Greek coalition at Thermopylae, not the entire force. Herodotus lists contingents from numerous communities and describes Thespians and Thebans remaining with the Spartans in the final phase. The battle ended in a Persian victory at the pass. Its later symbolic force should not reverse that military outcome. [Herodotus, Histories 7: Thermopylae](https://www.livius.org/sources/content/herodotus/herodotus-on-thermopylae/)",
+      "Even the composition of the last stand needs qualification. Herodotus gives 700 Thespians and 400 Thebans in his contingent list, but casualties, departures and the place of helots complicate any exact final headcount. Recent scholarship examines those uncertainties rather than treating a neat cinematic roster as settled. Remembering the non-Spartans restores people whom the title “300” pushes outside the frame. [The Classical Quarterly: helots at Thermopylae](https://www.cambridge.org/core/journals/classical-quarterly/article/helots-at-thermopylae-the-greek-dead-at-herodotus-825/A5DF91D575046DA4CF4D00A917C0A97D)",
+      "The larger distortion is moral simplicity. Persia was not a civilization of faceless monsters, and the Greek world was not a united bloc defending identical political values. Greek communities made different choices, including accommodation with Persia. Military courage on one side does not require denying humanity to the other. [Iranica: the changing Greek-Persian relationship](https://www.iranicaonline.org/articles/greece-i/)",
+      "### Why Greek voices dominate the familiar story",
+      "Greek narrative histories provide exceptionally rich accounts of the wars, but their authors had literary aims, political interests and limited access. Herodotus can preserve valuable traditions while also arranging events into stories about power, reversal and excess. His speeches and private royal scenes cannot simply be read as verbatim records. [Encyclopaedia Iranica: Herodotus's portrayal of Persia](https://www.iranicaonline.org/articles/herodotus-vii/)",
+      "Persian inscriptions, Babylonian documents, excavated buildings and administrative archives make it possible to change the viewpoint. They have biases and limits of their own, but they prevent Greek battlefield narratives from becoming the empire's entire biography. The British Museum's work on Persian luxury likewise challenges the old equation of magnificence with weakness: splendor could communicate authority and shape diplomatic relationships. [British Museum: Luxury and power—Persia to Greece](https://www.britishmuseum.org/exhibitions/luxury-and-power-persia-greece)",
+      "## AFTER XERXES: MORE THAN A CENTURY OF CONTINUED POWER",
+      "Later Achaemenid history included succession struggles, rebellion and competition among powerful figures, but it was not a straight slide into helplessness. Under Artaxerxes II, Persian resources remained decisive in Greek affairs. The naval victory at Cnidus in 394, achieved by a Persian fleet under the Athenian Conon, demonstrates how inadequate a permanent Greece-versus-Persia division becomes. [Encyclopaedia Iranica: Artaxerxes II](https://www.iranicaonline.org/articles/artaxerxes-ii-achaemenid-king/)",
+      "Egypt escaped Persian control for a period before Artaxerxes III reconquered it in 343. That recovery does not erase earlier losses, but it shows a monarchy still able to undertake major expansion shortly before Alexander. Accounts of the reconquest's harshness must also be read critically, without assuming that either imperial success or hostile reporting tells the whole story. [University College London: the second Persian period in Egypt](https://www.ucl.ac.uk/museums-static/digitalegypt/lp/persian2.html)",
+      "## ALEXANDER: THE EMPIRE DID NOT FALL IN ONE BATTLE",
+      "Philip II of Macedon prepared the challenge that his son inherited. After Philip's assassination in 336, Alexander took up the projected invasion and crossed into Asia in 334. The war would require years, not one miraculous confrontation. [Encyclopaedia Iranica: Alexander the Great](https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/)",
+      "At the Granicus in 334, Alexander defeated a Persian force commanded by regional leaders; Darius III was not personally commanding that battle. Its outcome opened opportunities in Anatolia, but the empire's king and central resources remained intact. Even here, the surviving accounts disagree on details and exaggerate numbers. [Encyclopaedia Iranica: Granicus](https://www.iranicaonline.org/articles/granicus/)",
+      "Darius III faced Alexander at Issus in 333 and suffered defeat. The subsequent struggle extended through the eastern Mediterranean before the armies met again at Gaugamela on October 1, 331. That decisive Macedonian victory opened the way to major imperial centers and their treasuries. [Encyclopaedia Iranica: Darius III](https://www.iranicaonline.org/articles/darius-v/), [Encyclopaedia Iranica: Gaugamela](https://www.iranicaonline.org/articles/gaugamela/)",
+      "Alexander reached Persepolis in 330. Its palatial destruction became one of conquest's most enduring images. Ancient explanations differ over intention and circumstance; a dramatic banquet story should not be presented as an independently verified account of why the fire began. The destruction of royal buildings and the end of the dynasty are firmer ground than certainty about the conqueror's private motives. [Iranica: Alexander's conquest and its sources](https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/)",
+      "Darius fled east and was killed in 330 by conspirators from his own side. His death marks the conventional end of the Achaemenid monarchy, not the disappearance of Persian people, institutions or resistance. Alexander's campaigns farther east continued. He also adopted elements of the kingship he had defeated and sought cooperation from Iranian elites. Conquering an empire left him with its governing problems. [Iranica: Darius III's last campaigns](https://www.iranicaonline.org/articles/darius-v/)",
+      "## PERSIAN EMPIRE: MYTH VS REALITY",
+      "**“The Cyrus Cylinder abolished slavery.”** It did not. Restoration claims in a royal document are not a universal emancipation law; evidence for slavery survives from territories under Persian rule.",
+      "**“The Immortals were supernatural or literally indestructible.”** The name comes through Greek testimony about an elite force and replacement of losses. Its original Iranian designation is uncertain.",
+      "**“Xerxes was the gigantic, exotic villain of modern cinema.”** That is an artistic invention. Historical Xerxes was an Achaemenid monarch whose reign must be reconstructed from inscriptions, material evidence and critically read narratives.",
+      "**“Exactly 300 Greeks faced a securely counted Persian army.”** Several Greek communities supplied the defense. Persian totals and the final Greek headcount are disputed; precision in popular retellings exceeds the evidence.",
+      "**“Persepolis was Cyrus's palace and only hosted New Year festivities.”** Darius and his successors developed the monumental complex. It combined royal display with practical functions; a specific Nowruz interpretation remains debated.",
+      "**“Every Persian king and subject practiced one uniform religion.”** Royal invocations of Ahuramazda do not establish religious uniformity. The empire contained many traditions, and the precise relationship of royal belief to later Zoroastrianism remains a scholarly question.",
+      "**“Alexander destroyed Persia in one battle.”** Granicus, Issus and Gaugamela were stages in a longer conquest. Achaemenid dynastic rule ended; Persian societies and political traditions did not.",
+      "## THE ACHIEVEMENT THAT OUTLIVED THE KINGS",
+      "Persia's extraordinary wealth cannot be understood only as gold behind palace doors. Its power rested in the connection between productive regions, provincial officials, transport, political bargaining and royal authority. Its boundaries changed, and its control was not equally intense everywhere. Describing that geography is more defensible than repeating an exact percentage of the world's population for which ancient censuses cannot provide a secure denominator.",
+      "The empire left models of provincial administration, imperial communication and monumental kingship for later rulers to adapt. Its art brought different traditions into a distinctive royal language. Its history also exposes a recurring tension: an administration can accommodate cultural diversity while denying political equality. Sophistication and coercion are not historical opposites.",
+      "For another perspective on how states held different populations together, explore [the Roman Empire's power and daily life](/articles/roman-empire-power-luxury-life-ancient-rome/) and [the Mongol Empire's conquests and connections](/articles/mongol-empire-genghis-khan-conquests-legacy/). These were different worlds, but each faced the gap between winning territory and governing it.",
+      "Cyrus built his reputation by conquering kingdoms and learning how to speak to their traditions. Darius and later kings turned that expanding inheritance into systems that could operate across distance. Their empire ultimately fell, but the problem they had confronted remained fundamental to every successor.",
+      "Persia's power did not come only from conquering territory. Its greatest achievement was finding ways to govern an empire stretching across different peoples, languages, religions and landscapes."
+    ],
+    "references": [
+      {
+        "name": "The Met: the empire's foundation",
+        "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Anshan",
+        "url": "https://www.iranicaonline.org/articles/anshan-elamite-region/"
+      },
+      {
+        "name": "Iranica: competing accounts of Cyrus's death",
+        "url": "https://www.iranicaonline.org/articles/cyrus-iii/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Croesus",
+        "url": "https://www.iranicaonline.org/articles/croesus/"
+      },
+      {
+        "name": "British Museum: the Nabonidus Chronicle",
+        "url": "https://www.britishmuseum.org/collection/object/W_Sp-II-964"
+      },
+      {
+        "name": "British Museum: the Cyrus Cylinder",
+        "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+      },
+      {
+        "name": "Irving Finkel: translation of the Cyrus Cylinder",
+        "url": "https://fezana.org/wp-content/uploads/FEZANA-Lesson-2-Translation-of-the-Text-on-the-Cyrus-Cylinder.pdf"
+      },
+      {
+        "name": "Smarthistory: interpreting Cyrus's royal message",
+        "url": "https://smarthistory.org/cyrus-cylinder/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Persians in Egypt",
+        "url": "https://www.iranicaonline.org/articles/egypt-i/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Cambyses",
+        "url": "https://www.iranicaonline.org/articles/cambyses-opers/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Gaumata",
+        "url": "https://www.iranicaonline.org/articles/gaumata/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: the Bisitun inscription",
+        "url": "https://www.iranicaonline.org/articles/bisotun-iii/"
+      },
+      {
+        "name": "Iranica: provincial responsibilities and structures",
+        "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: imperial roads and communications",
+        "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-ii-the-empire/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: the antecedents of the official postal service",
+        "url": "https://www.iranicaonline.org/articles/barid-the-official-postal-and-intelligence-service-of-the-early-islamic-caliphate-and-its-successor-states/"
+      },
+      {
+        "name": "University of Chicago: Persepolis Fortification Archive",
+        "url": "https://isac.uchicago.edu/research/projects/persepolis-fortification-archive"
+      },
+      {
+        "name": "Encyclopaedia Iranica: the daric",
+        "url": "https://www.iranicaonline.org/articles/daric/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: coins and coinage",
+        "url": "https://www.iranicaonline.org/articles/coins-and-coinage/"
+      },
+      {
+        "name": "Iranica: the site's buildings and disputed functions",
+        "url": "https://www.iranicaonline.org/articles/persepolis/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Achaemenid Susa",
+        "url": "https://www.iranicaonline.org/articles/susa-iii-the-achaemenid-period/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Achaemenid culture and religion",
+        "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-iii-culture/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Achaemenid religion",
+        "url": "https://www.iranicaonline.org/articles/achaemenid-religion/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: slavery in the Achaemenid period",
+        "url": "https://www.iranicaonline.org/articles/barda-i/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: punishment in the Achaemenid period",
+        "url": "https://www.iranicaonline.org/articles/torture-achaemenid-period/"
+      },
+      {
+        "name": "Iranica: military organization and disputed numbers",
+        "url": "https://www.iranicaonline.org/articles/army-i/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Immortals",
+        "url": "https://www.iranicaonline.org/articles/immortals/"
+      },
+      {
+        "name": "Iranica: the changing Greek-Persian relationship",
+        "url": "https://www.iranicaonline.org/articles/greece-i/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: chronology of Iranian history",
+        "url": "https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Salamis",
+        "url": "https://www.iranicaonline.org/articles/salamis/"
+      },
+      {
+        "name": "Herodotus, Histories 7: Thermopylae",
+        "url": "https://www.livius.org/sources/content/herodotus/herodotus-on-thermopylae/"
+      },
+      {
+        "name": "The Classical Quarterly: helots at Thermopylae",
+        "url": "https://www.cambridge.org/core/journals/classical-quarterly/article/helots-at-thermopylae-the-greek-dead-at-herodotus-825/A5DF91D575046DA4CF4D00A917C0A97D"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Herodotus's portrayal of Persia",
+        "url": "https://www.iranicaonline.org/articles/herodotus-vii/"
+      },
+      {
+        "name": "British Museum: Luxury and power—Persia to Greece",
+        "url": "https://www.britishmuseum.org/exhibitions/luxury-and-power-persia-greece"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Artaxerxes II",
+        "url": "https://www.iranicaonline.org/articles/artaxerxes-ii-achaemenid-king/"
+      },
+      {
+        "name": "University College London: the second Persian period in Egypt",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/lp/persian2.html"
+      },
+      {
+        "name": "Iranica: Alexander's conquest and its sources",
+        "url": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Granicus",
+        "url": "https://www.iranicaonline.org/articles/granicus/"
+      },
+      {
+        "name": "Iranica: Darius III's last campaigns",
+        "url": "https://www.iranicaonline.org/articles/darius-v/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Gaugamela",
+        "url": "https://www.iranicaonline.org/articles/gaugamela/"
+      }
+    ],
+    "tags": [
+      "Persian Empire",
+      "Achaemenid Empire",
+      "Cyrus the Great",
+      "Darius the Great",
+      "Xerxes",
+      "Persepolis",
+      "Cyrus Cylinder",
+      "Persian Wars",
+      "Thermopylae",
+      "Alexander the Great Persia",
+      "History"
+    ],
+    "readingTime": "18 min read",
+    "status": "published"
+  },
+  {
     "id": "083",
     "slug": "byzantine-empire-eastern-rome-constantinople-1453",
     "title": "BYZANTINE EMPIRE: THE ROME THAT SURVIVED FOR ANOTHER 1,000 YEARS",

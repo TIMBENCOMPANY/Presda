@@ -516,7 +516,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
     || article.slug === "pablo-escobar-medellin-cartel-wealth-rise-fall"
     || article.slug === "diego-maradona-genius-napoli-life-death-legacy"
     || article.slug === "mongol-empire-genghis-khan-conquests-legacy"
-    || article.slug === "byzantine-empire-eastern-rome-constantinople-1453";
+    || article.slug === "byzantine-empire-eastern-rome-constantinople-1453"
+    || article.slug === "persian-empire-cyrus-great-achaemenid-history";
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
