@@ -520,7 +520,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
     || article.slug === "persian-empire-cyrus-great-achaemenid-history"
     || article.slug === "abbasid-caliphate-baghdad-islamic-golden-age"
     || article.slug === "british-empire-history-rise-fall-global-legacy"
-    || article.slug === "house-music-brain-rhythm-128-bpm-science-dancing";
+    || article.slug === "house-music-brain-rhythm-128-bpm-science-dancing"
+    || article.slug === "morocco-history-dynasties-kingdom-independence";
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition

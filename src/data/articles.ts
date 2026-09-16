@@ -54,6 +54,340 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "088",
+    "slug": "morocco-history-dynasties-kingdom-independence",
+    "title": "MOROCCO: HOW A KINGDOM SURVIVED DYNASTIES, EMPIRES AND COLONIAL POWERS",
+    "seoTitle": "History of Morocco: Dynasties, Empire and Independence",
+    "metaDescription": "Explore Morocco’s history from Amazigh roots and imperial dynasties to colonial rule and independence, with the Rif War and the nuanced 1777 U.S. story.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "MOROCCO",
+      "gold": "SURVIVED"
+    },
+    "excerpt": "From Amazigh roots and the imperial cities of Fez and Marrakech to the Rif War and independence: how Morocco repeatedly rebuilt royal authority through conquest, diplomacy and adaptation.",
+    "category": "History",
+    "date": "2026-09-16",
+    "lastUpdated": "2026-09-16",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/morocco-history-dynasties-kingdom-independence.webp",
+    "coverAlt": "Editorial historical reconstruction of a Moroccan ruler on horseback beneath a red royal parasol, with artistic banners; not a documented bay’a ceremony",
+    "homepageImagePosition": "100% 25%",
+    "content": [
+      "Morocco's history can be read in the distance between two cities. Fez turns inward through lanes, workshops and courtyards, its authority accumulated in learning and commerce. Marrakech opens toward the Atlas and the routes beyond it, a capital built by a movement that came out of the Sahara. Neither city tells the whole story. Together, they suggest why the kingdom cannot be understood as a single dynasty stretching unchanged across twelve centuries.",
+      "Power repeatedly moved, broke apart and returned in another form. Rulers crossed the Strait of Gibraltar, competed for caravan routes, negotiated with European courts and fought other Muslim powers. Foreign armies eventually imposed protectorates. Yet a Moroccan monarchy and a recognizable center of political authority survived those transformations.",
+      "**The central distinction is continuity without sameness.** Today's Kingdom of Morocco did not exist with today's borders, institutions or national identity in the eighth century. Its history nevertheless contains enduring connections between religious legitimacy, cities, rural communities, commerce and the institutions through which rulers governed.",
+      "**About the hero:** the royal-parasol scene is an editorial historical reconstruction, not a portrait of a named sultan or a documented bay'a ceremony. Its costumes, architecture and banners are artistic combinations. The banners must not be read as an authenticated chart of medieval Moroccan national flags.",
+      "## BEFORE THE DYNASTIES: AMAZIGH SOCIETIES AND ANCIENT MOROCCO",
+      "Long before Arabic became a language of government and scholarship, the far western Maghreb contained diverse Amazigh-speaking communities. Farmers, pastoralists, traders and urban populations inhabited different ecological worlds: Mediterranean shores, Atlantic plains, mountain valleys and the approaches to the Sahara. “Amazigh” does not describe one timeless political unit. Nor were settled life and mobility opposite stages on a ladder of civilization. They were often connected ways of living and exchanging resources. [Cambridge: settlement and state formation in the ancient Sahara](https://www.cambridge.org/core/books/urbanisation-and-state-formation-in-the-ancient-sahara-and-beyond/introduction-to-the-themes-of-sedentarisation-urbanisation-and-state-formation-in-the-ancient-sahara-and-beyond/988C4A897F684F0E207C55BB7FAC130F)",
+      "The remains of Volubilis make that layered past unusually visible. An important settlement of the ancient kingdom of Mauretania, it developed into a Roman town while retaining connections to its surrounding population. Its ruins belong to a history larger than Rome: occupation and cultural exchange continued across political transitions. UNESCO identifies both its ancient urban significance and its later association with Idris I. [UNESCO: Archaeological Site of Volubilis](https://whc.unesco.org/en/list/836/)",
+      "Roman-era Mauretania Tingitana, organized in the first century CE, covered part of northern present-day Morocco. Its name should not be confused with the modern state of Mauritania. Roman roads, garrisons and towns did not mean that all the territory of today's Morocco had become uniformly Roman. Frontier studies instead reveal particular corridors of control and interaction, especially around Tingis, modern Tangier, and the northern interior. [Académie des Inscriptions: the southern frontier of Mauretania Tingitana](https://www.persee.fr/doc/crai_0065-0536_1990_num_134_2_14875)",
+      "## ISLAM, IDRIS I AND THE RISE OF FEZ",
+      "Arab-Islamic expansion reached the far west of North Africa in the late seventh and early eighth centuries. Conquest did not instantly produce either a uniformly Arabic-speaking population or permanent obedience to distant caliphs. Islamization, linguistic change and political allegiance followed different rhythms. Amazigh communities became central participants in new Islamic states, including movements that challenged the authority of the eastern caliphates. [Amira Bennison: Morocco's medieval empires](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118455074.wbeoe209)",
+      "Idris I arrived as a refugee from the eastern Islamic world and established a base among local supporters around Walili, near Volubilis, in the late eighth century. His position combined alliances with Amazigh groups and descent from the Prophet Muhammad's family. The Idrisid state conventionally begins in 788 or 789; choosing one of those dates does not establish an unchanged modern nation-state from that moment onward. His successors ruled a realm that fragmented among branches of the family. [Larousse: the Idrisids](https://www.larousse.fr/encyclopedie/groupe-personnage/Idrisides/124712)",
+      "Fez grew under the Idrisids and their successors into a political and intellectual center. Its importance outlasted any one ruling house. Mosques, learning, crafts and commercial networks made the city valuable to later dynasties, which could claim legitimacy by patronizing institutions already respected by its inhabitants. Its particularly rich surviving medieval fabric owes much to the Marinid period of the thirteenth and fourteenth centuries. [UNESCO: Medina of Fez](https://whc.unesco.org/en/list/170/)",
+      "That is one recurring pattern in Moroccan history: a dynasty might lose its throne while a city retained its capacity to confer prestige on the next dynasty.",
+      "## THE ALMORAVIDS: FROM THE SAHARA TO AL-ANDALUS",
+      "The Almoravid movement emerged among Sanhaja Amazigh groups connected to the western Sahara in the eleventh century. Religious reform and political expansion developed together. Control of routes joining the desert, the plains and the cities helped support a power whose horizons extended far beyond present-day Morocco. The Sahara was a difficult environment, but it was also a space of communication and opportunity. [Cambridge: Morocco and the medieval Islamic far west](https://www.cambridge.org/core/books/abs/medieval-africa-12501800/islamic-far-west-morocco/7429FBD1D723495FFD4C5D7234A89957)",
+      "Marrakech became the Almoravid capital. Foundation dates vary in historical summaries; UNESCO dates its establishment to 1070–1072. What matters more than forcing a disputed founding moment into a single day is its function: a new political center near the Atlas, positioned between productive plains and routes leading south. [UNESCO: Medina of Marrakesh](https://whc.unesco.org/en/list/331/)",
+      "Under Yusuf ibn Tashfin, Almoravid power crossed into al-Andalus, the Muslim-ruled territories of Iberia. At Zallaqa, also called Sagrajas, in 1086, his forces and their Andalusi allies defeated Alfonso VI of Castile-León. Intervention was followed by the absorption of much of the fragmented Muslim political landscape of Iberia into Almoravid rule. This was not a modern Moroccan nation annexing a modern Spanish nation: it was a medieval imperial struggle across a strait that connected as well as divided. [Museum With No Frontiers: Almoravid chronology](https://islamicart.museumwnf.org/dynasties-api//events?d=10&ef=html&langId=en)",
+      "## THE ALMOHADS: A GREATER EMPIRE, THEN A FRACTURED ONE",
+      "The Almohads challenged the Almoravids through another religious and political movement, rooted among Masmuda Amazigh populations of the Atlas. Their capture of Marrakech in 1147 marked a decisive transfer of power. They extended their authority across much of the Maghreb and Muslim Iberia, making the far western Maghreb the center of an enormous imperial project.",
+      "Buildings and objects from the Almoravid and Almohad periods testify to movement across these territories: architectural ideas, artisans and forms of patronage connected North Africa and al-Andalus. Political competition did not prevent shared artistic languages. [Metropolitan Museum: Almoravid and Almohad art](https://www.metmuseum.org/essays/the-art-of-the-almoravid-and-almohad-periods-ca-1062-1269)",
+      "The Almohad defeat at Las Navas de Tolosa in 1212 was a major turning point in Iberia. It did not instantly erase the empire. Succession struggles, regional challenges and rival dynasties gradually dismantled its authority. The lesson is important: even a spectacular battlefield defeat explains little unless it is placed beside the longer problem of holding together distant populations and competing centers of power. [Bennison: the formation and fragmentation of medieval Moroccan empires](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118455074.wbeoe209)",
+      "## MARINIDS, WATTASIDS AND THE STRUGGLE FOR THE COAST",
+      "The Marinids rose from a Zanata Amazigh background and took Marrakech in 1269, ending the remaining Almohad regime there. They gave Fez renewed prominence and developed Fez al-Jadid, the new royal city, from 1276. Their patronage of madrasas connected government to religious education and urban prestige. Morocco's political center had shifted again; the larger tradition of ruling through important cities endured. [Larousse: Morocco's dynastic history](https://www.larousse.fr/encyclopedie/divers/Maroc_histoire/185554)",
+      "The Wattasids, initially powerful within the Marinid political system, established their own rule at Fez in 1472. Their authority was neither uncontested nor geographically uniform. By the middle of the sixteenth century, the Saadians had displaced them; Fez changed hands during that struggle, making a single neat dynasty boundary an imperfect description of events. [Larousse: the Wattasids](https://www.larousse.fr/encyclopedie/divers/Wattasides/181884)",
+      "Meanwhile, European expansion had begun changing the coast. Portugal captured Ceuta in 1415; Spain occupied Melilla in 1497. Coastal strongholds were footholds for commerce, warfare and strategic pressure, not evidence that Europeans already controlled the whole interior. Resistance to these enclaves also offered ambitious Moroccan leaders a way to present military success as religious and political legitimacy. [Museum With No Frontiers: Morocco and Iberian expansion](https://baroqueart.museumwnf.org/hcr.php?begin=0&country=ma&id=object%3BBAR%3Bpt%3BMus11_A%3B23%3Bpt&start_date=1400)",
+      "## THE SAADIANS AND THE BATTLE OF THE THREE KINGS",
+      "The Saadians rose in southern Morocco in the sixteenth century, claiming Sharifian descent: descent from the Prophet's family. Their capture of Portuguese-held Agadir in 1541 strengthened their standing. Their struggle with the Wattasids and rival Saadian claimants shows how dynastic legitimacy still required military victory and workable alliances. [Larousse: the sixteenth-century struggle for Morocco](https://www.larousse.fr/encyclopedie/divers/Maroc_histoire/185554)",
+      "On August 4, 1578, the Battle of Wadi al-Makhazin, also known as Alcácer Quibir or the Battle of the Three Kings, reshaped the western Mediterranean. Portugal's King Sebastian intervened in a Moroccan succession struggle on behalf of the deposed Muhammad al-Mutawakkil. They faced the reigning sultan, Abd al-Malik. All three rulers died during the battle and its associated events, although not all were killed in combat.",
+      "The defeat wrecked Sebastian's expedition and helped precipitate Portugal's dynastic crisis. In Morocco, Ahmad al-Mansur emerged as sultan. The outcome reinforced Moroccan power, but the battle was not an uncomplicated clash between two self-contained civilizations: rival Moroccan claimants, Portuguese ambitions and Ottoman involvement in the preceding struggle all formed part of its background. [Stanford History: the battle that claimed three kings](https://history.stanford.edu/news/swashbuckling-tudor-mercenary-who-was-killed-battle-claimed-lives-three-16th-century-kings)",
+      "### Ahmad al-Mansur, wealth and the invasion of Songhai",
+      "Al-Mansur, who ruled from 1578 to 1603, cultivated an ambitious court and relations with European powers. Diplomacy with England, France, Spain and other states gave him room to maneuver. Wealth and display were political instruments: they announced that the Moroccan sultan could negotiate as a sovereign ruler rather than merely react to his neighbors. [Larousse: Ahmad al-Mansur](https://www.larousse.fr/encyclopedie/personnage/Ahmad_al-Mansur/104298)",
+      "His ambitions also crossed the Sahara. The Saadian invasion of the Songhai Empire in 1591 brought Moroccan forces into the Niger region, including Timbuktu. It disrupted an existing African imperial order; it did not carry government or intellectual life into an empty landscape. Timbuktu already belonged to commercial and scholarly networks linking the Sahara and the Sahel. [UNESCO: Timbuktu](https://whc.unesco.org/en/list/119/)",
+      "Victory did not create an easily administered extension of Morocco. Distance, resistance and the practical limits of occupation constrained the project. Scholarship on the invasion follows Songhai resistance well beyond 1591, undermining the image of one battle effortlessly transferring a whole region into permanent centralized control. Trans-Saharan commerce mattered, but so did the costs and violence of trying to command it. [Lansiné Kaba: the Moroccan invasion and Songhay resistance, 1591–1612](https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/archers-musketeers-and-mosquitoes-the-moroccan-invasion-of-the-sudan-and-the-songhay-resistance-15911612/7BE695BFE53648CF3324ED70F40512D6)",
+      "## WHY MOROCCO DID NOT BECOME AN OTTOMAN PROVINCE",
+      "Morocco's position differed from that of the Ottoman-controlled central and eastern Maghreb. Its rulers maintained a separate center of sovereignty. Established dynasties, their own religious claims, distance from the Ottoman imperial center, local military resistance and diplomacy helped prevent lasting incorporation into the Ottoman provincial system.",
+      "But “never incorporated” must not become “never involved.” Ottoman forces and Ottoman-backed actors intervened in Moroccan affairs, including during the sixteenth-century succession struggles. Abd al-Malik's restoration in 1576 depended on Ottoman support. Historians have examined his brief relationship with Istanbul in terms of Ottoman suzerainty or vassalage—a superior power's claimed authority over a ruler—rather than treating it as simple, absolute independence in the modern sense.",
+      "The defensible conclusion is narrower and more interesting than the slogan: Morocco did not become a durable Ottoman province, but war, assistance, rivalry and negotiated dependency connected it to the Ottoman world. [Güneş Işıksel: Ottoman suzerainty and Abd al-Malik, 1576–1578](https://makale.isam.org.tr/items/390086c6-7319-4bd8-ae45-9d799bac9636)",
+      "## THE ALAOUITES, MOULAY ISMAIL AND THE MAKHZEN",
+      "After Saadian power fragmented, the Alaouites emerged from Tafilalt in the seventeenth century. They too claimed Sharifian descent. Moulay Rashid's capture of Fez in 1666 was a decisive step in consolidation. His brother Moulay Ismail ruled from 1672 to 1727. The dynasty remains Morocco's ruling house, but its institutions and political circumstances have changed profoundly over that period. [Larousse: the Alaouite dynasty](https://www.larousse.fr/encyclopedie/divers/Alawites/104540)",
+      "Ismail made Meknes an imperial capital, constructing a monumental setting for royal power. Walls, palaces and ceremonial spaces did political work: they made authority visible and concentrated resources around the ruler. UNESCO's account of Meknes identifies his reign as the city's great period of imperial transformation. [UNESCO: Historic City of Meknes](https://whc.unesco.org/en/list/793/)",
+      "Consolidation also involved coercion. Ismail's army included a major force recruited through enslavement and compulsory incorporation of Black populations. Chouki El Hamel's research on slave registers shows that officials used documentation to justify the enslavement of Haratin, including people whose free status made those claims contested. The grandeur of the capital cannot be separated from the human costs of building royal power. [Chouki El Hamel: Ismail's slave registers](https://asu.elsevierpure.com/en/publications/the-register-of-the-slaves-of-sultan-mawlay-ismail-of-morocco-at-/)",
+      "### What was the makhzen?",
+      "The makhzen is best understood historically as the governing apparatus and networks surrounding the ruler: officials, military forces, tax collection, intermediaries and relationships with provincial authorities. Its reach varied. Negotiation and patronage could be as important as commands issued from a palace.",
+      "It is therefore misleading to imagine either an all-powerful state controlling every valley continuously or a permanent, clean division between government and a wholly separate tribal world. Modern scholarship questions those rigid categories and investigates how authority was produced through changing social relationships. [Annales: What is the makhzen?](https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/article/abs/questce-que-le-makhzen/99ACA3F8ABBA1AF876B27071862C74E9)",
+      "Sharifian descent and the bay'a, a pledge of allegiance, formed part of this political language. Allegiance was not equivalent to a modern democratic election, but neither was legitimacy only a matter of possessing troops. Recognition by religious scholars, notables and communities helped make a ruler's claims effective. In the contemporary constitution, religious and state authority remain connected but are set out through specific offices and powers, rather than simply inherited unchanged from medieval practice. [Morocco's 2011 Constitution](https://www.constituteproject.org/constitution/Morocco_2011)",
+      "## MOROCCO AND THE UNITED STATES: WHAT REALLY HAPPENED?",
+      "The familiar statement that Morocco was the first country to recognize the United States in 1777 compresses several different diplomatic events.",
+      "In 1777, Sultan Sidi Mohammed III included American shipping among the vessels welcome in Moroccan ports. This opening is commonly described as early recognition of American independence. It was an important gesture, but a proclamation about shipping was not the same document as a bilateral treaty establishing agreed obligations. Archival annotations trace the subsequent effort to establish that formal relationship. [U.S. National Archives: the Morocco–United States treaty negotiations](https://founders.archives.gov/documents/Adams/06-18-02-0196)",
+      "The Treaty of Peace and Friendship was negotiated in Morocco in 1786 by the American representative Thomas Barclay. The U.S. Office of the Historian's country guide dates formal recognition to June 23, 1786, in connection with the treaty. That official framing exists alongside other American accounts emphasizing 1777. They should be explained together, not forced into an apparently precise “first” without defining recognition. [U.S. Office of the Historian: Morocco](https://history.state.gov/countries/morocco)",
+      "The Confederation Congress ratified the agreement in July 1787. Negotiation took place in a world of vulnerable commerce and maritime coercion, not abstract friendship alone: Morocco had seized the American vessel Betsey in 1784 before relations were settled. [U.S. National Archives: an early diplomatic test](https://prologue.blogs.archives.gov/2015/07/12/pirates-an-early-test-for-the-new-country/)",
+      "The relationship's longevity is remarkable without embellishment. In 1821, the sultan provided the United States with the Tangier building that became its first diplomatic property abroad. The Old Legation survives as a physical reminder that Morocco was dealing with the young republic long before modern American global power emerged. [National Museum of American Diplomacy: the Tangier Old Legation](https://diplomacy.state.gov/tangier-old-legation-americas-first-diplomatic-property/)",
+      "## EUROPEAN PRESSURE AND THE ROAD TO THE PROTECTORATES",
+      "In the nineteenth century, the balance of power became increasingly unfavorable to Morocco. European military strength, commercial influence and financial pressure narrowed the monarchy's choices. Reform was difficult precisely because strengthening the state required resources while foreign demands and domestic resistance constrained how those resources could be raised. Susan Gilson Miller's history presents this as a struggle over adaptation, not an inevitable march toward conquest. [Susan Gilson Miller: A History of Modern Morocco](https://www.cambridge.org/core/books/history-of-modern-morocco/88606965E80CAC57471F2636CAFA885F)",
+      "France's victory at Isly in 1844 demonstrated the military imbalance as conflict in neighboring Algeria drew Morocco into confrontation. The defeat weakened Morocco's bargaining position. [Museum With No Frontiers: Isly and nineteenth-century Morocco](https://sharinghistory.museumwnf.org/hcr_result.php?endPeriod=1850&nccountry=ma&startPeriod=1820&theme=none)",
+      "The Spanish-Moroccan War of 1859–1860 brought another major defeat. The peace settlement of April 1860 imposed burdens that intensified external pressure. These wars mattered beyond their battlefields: the cost of defeat could deepen financial dependence and make later demands harder to resist. [Museum With No Frontiers: the peace of 1860](https://sharinghistory.museumwnf.org/database_item.php?id=object%3BAWE%3Bes%3B41%3Ben)",
+      "At the Algeciras Conference in 1906, foreign powers negotiated arrangements concerning Morocco while formally invoking its sovereignty and commercial equality. The language of independence coexisted with growing international control over practical matters such as policing and finance. Sovereignty could be eroded through agreements before it was openly subordinated by a protectorate. [U.S. diplomatic records: the Algeciras negotiations](https://history.state.gov/historicaldocuments/frus1906p2/d559)",
+      "### 1912–1956: a surviving sultan, constrained sovereignty",
+      "The Treaty of Fez of March 30, 1912, established the French protectorate. The sultan and the Moroccan state were not simply abolished. Yet the preservation of legal forms did not mean that Moroccans retained effective independence: French authorities acquired decisive influence over government and policy. This was colonial rule operating through a protectorate structure. [Treaty of Fez: contemporary published text](https://digitalhistories.kennesaw.edu/items/show/34)",
+      "Spanish protectorate zones followed a separate arrangement, including the northern zone associated with Tetouan and the Rif. Tangier developed an international regime under a convention signed in 1923 and implemented thereafter. Its multinational administration made it different from both the French and Spanish zones, even while formal links to the sultan remained. [U.S. diplomatic records: the Tangier convention](https://history.state.gov/historicaldocuments/frus1924v02/ch34)",
+      "Morocco therefore did not experience one uniform colonial administration. Legal continuity was real; so were foreign domination and the violence used to establish it. Keeping both facts in view explains why the sultanate could later become an institutional focus for recovering independence.",
+      "## THE RIF WAR AND ABD EL-KRIM",
+      "In northern Morocco, Spanish expansion met resistance that became internationally significant. Abd el-Krim al-Khattabi helped organize a movement capable of defeating a European army and attempting to build an alternative political order.",
+      "The Spanish catastrophe at Annual in 1921 was its defining early victory. The resulting Rif Republic sought recognition and institutions, not merely the expulsion of one garrison. Its appeals connected local resistance to a wider post-First World War language of self-determination. That ambition should not be flattened into either an isolated tribal revolt or a modern state identical to today's Morocco. [Cambridge: Rif self-determination in the post-Versailles world](https://www.cambridge.org/core/journals/contemporary-european-history/article/catalans-and-rifis-during-the-wilsonian-moment-the-quest-for-selfdetermination-in-the-postversailles-world/A651CE91DF9FDE52565EDDD897020309)",
+      "France and Spain eventually combined their power against the Rif movement. The conflict culminated in Abd el-Krim's surrender in 1926. Its history includes severe violence against populations and difficult questions about humanitarian protection in colonial war. Defeat did not erase its international significance: a resistance movement had exposed the vulnerabilities of imperial armies and drawn attention far beyond North Africa. [International Review of the Red Cross: The Rif War](https://www.cambridge.org/core/journals/international-review-of-the-red-cross/article/abs/rif-war-a-forgotten-war/AD863E0FB0C9F63CC6AF1E4308EF31BD)",
+      "Contemporary efforts to involve humanitarian organizations also reveal how colonial conflicts challenged claims of universal protection. The Rif War belongs to both Moroccan history and the wider history of anticolonial politics. [Cambridge: humanitarian appeals in imperial wars](https://www.cambridge.org/core/journals/contemporary-european-history/article/transnational-appeals-for-humanitarian-intervention-in-europes-civil-and-imperial-wars/44DC34184888363E6D1CC2D59BDA2B65)",
+      "## MOHAMMED V, NATIONALISM AND INDEPENDENCE",
+      "Moroccan nationalism developed through political organizations, publications, urban activism, labor movements and resistance beyond the cities. The Istiqlal movement's 1944 independence manifesto was a major milestone. Sultan Mohammed V increasingly became associated with the demand to end the protectorate, although nationalism was broader than the palace. [U.S. State Department archival collection: King and People in Morocco, 1950–1959](https://www.gale.com/binaries/content/assets/gale-us-en/primary-sources/archives-unbound/primary-sources_archives-unbound_king-and-people-in-morocco-1950-1959_-u.s.-state-department-records-on-the-internal-affairs-of-morocco.pdf)",
+      "French authorities deposed and exiled Mohammed V in 1953. The attempt to weaken him helped turn him into a more powerful symbol of national sovereignty. His return in November 1955 opened the decisive phase of negotiations. Scholarship on the exile emphasizes this reversal: removing a ruler could strengthen the political meaning of his absence. [Cambridge: Mohammed V and exile from French North Africa](https://www.cambridge.org/core/books/abs/banished-potentates/from-conquest-to-decolonisation-exile-from-french-north-africa/BEA59065559D8DC741A6F71AD95A24D8)",
+      "France recognized Moroccan independence on March 2, 1956. Spain's agreement of April 7 ended its northern protectorate. The broad protectorate period is consequently described as 1912–1956, but that shorthand should not imply that every Spanish-held territory was transferred on the same day. [U.S. congressional report: Moroccan independence agreements](https://www.govinfo.gov/content/pkg/CPRT-84HPRT80680/pdf/CPRT-84HPRT80680.pdf)",
+      "Tangier was reintegrated later in 1956. The recovery of independence was a sequence of political and territorial arrangements, not a single switch that settled every boundary question. [Office of the Historian: Morocco and the Tangier regime](https://history.state.gov/countries/morocco)",
+      "Mohammed V adopted the title of king in 1957. After his death in 1961, Hassan II succeeded him. The restored independent state now had to build national institutions, negotiate competing visions of government and address inequalities inherited from both the precolonial and colonial past. [Larousse: the modern Alaouite succession](https://www.larousse.fr/encyclopedie/divers/Alawites/104540)",
+      "## HASSAN II, MOHAMMED VI AND THE MODERN KINGDOM",
+      "Hassan II's reign, from 1961 to 1999, combined state consolidation and social transformation with intense political conflict and repression. The period remembered as the Years of Lead involved disappearances, arbitrary detention and torture. Morocco's later truth commission acknowledged important aspects of that history, while human-rights assessments have criticized limits on accountability. A balanced account cannot reduce these decades either to development alone or to an absence of social change. [Human Rights Watch: Morocco's truth commission](https://www.hrw.org/report/2005/11/27/moroccos-truth-commission/honoring-past-victims-during-uncertain-present)",
+      "Mohammed VI succeeded his father in 1999. His reign has included reforms and major development projects, alongside continuing debate over inequality, political freedoms and the extent of royal authority. The 2004 family-law reform and the 2011 constitutional changes were significant; neither made the monarchy a merely ceremonial institution. [Le Monde: Mohammed VI and unfinished reforms](https://www.lemonde.fr/en/summer-reads/article/2025/08/26/mohammed-vi-the-king-of-unfinished-reforms_6744736_183.html)",
+      "The 2011 Constitution recognizes Arabic and Amazigh as official languages and describes Morocco through multiple cultural inheritances. It also preserves substantial royal powers. This combination illustrates adaptation: the state articulates a more explicit cultural plurality while retaining a powerful monarchical center. [Morocco's constitutional text](https://www.constituteproject.org/constitution/Morocco_2011)",
+      "Economic transformation has linked Morocco more closely to global production and transport networks, but opportunity remains uneven across regions and social groups. Infrastructure is one part of modern state-building; employment, education and inclusion determine how widely its benefits are experienced. [World Bank: Morocco overview](https://www.worldbank.org/ext/en/country/morocco)",
+      "Borders also require care. Morocco claims sovereignty over Western Sahara and controls most of it; the Polisario Front seeks independence. The territory remains on the United Nations list of Non-Self-Governing Territories. This unresolved issue cannot be treated as proof that modern boundaries have existed unchanged since the Idrisids. [United Nations: Western Sahara](https://www.un.org/dppa/decolonization/en/nsgt/western-sahara), [Associated Press: the Western Sahara dispute](https://apnews.com/article/ca8345164fdfc69cf9696635aa481bcb)",
+      "## WHY DID MOROCCO SURVIVE WHEN SO MANY NEIGHBORING STATES CHANGED FORM?",
+      "The question needs a qualification: Morocco changed form too. Neighboring societies also possess long histories of political authority and cultural continuity. Morocco's distinctive outcome was the persistence and repeated reconstruction of a monarchical center, not immunity from historical change.",
+      "Geography offered both obstacles and connections. Mountains made uniform control difficult, while Atlantic, Mediterranean and Saharan routes created several directions for diplomacy and exchange. Religious legitimacy could help rulers gather support beyond an immediate military following. Cities provided revenue, scholarship and administrative personnel. The makhzen linked the court to local intermediaries, although those relationships could fail or require force.",
+      "Diplomacy helped rulers exploit rivalries among stronger powers. Military strength mattered, but it never guaranteed permanence: ruling houses fell, imperial territories contracted and colonialism sharply curtailed sovereignty. The protectorates' retention of the sultanate then created an institutional bridge between the colonial period and independence. These are interacting explanations, not a formula proving that survival was inevitable. [Miller: monarchy, pragmatism and historical change](https://www.cambridge.org/core/books/history-of-modern-morocco/88606965E80CAC57471F2636CAFA885F)",
+      "For comparison, the [Byzantine Empire's survival](/articles/byzantine-empire-eastern-rome-constantinople-1453/) also involved adaptation rather than unchanging institutions. The [Abbasid Caliphate](/articles/abbasid-caliphate-baghdad-islamic-golden-age/) illustrates a different relationship between religious prestige and effective political power. Comparisons clarify questions; they do not make these histories interchangeable.",
+      "## THE RED ROYAL PARASOL: A SYMBOL OF THE MAKHZEN",
+      "A ruler on horseback beneath a parasol makes hierarchy visible before a word is spoken. In Moroccan royal ceremony, the parasol belongs to a repertoire of sovereign distinction associated with the court and public manifestations of allegiance. Its meaning comes from the whole setting: the ruler, attendants, movement, dress and the people assembled around them.",
+      "Historian Jocelyne Dakhlia's work examines the Moroccan monarchy through precisely this relationship between visible majesty and religious ideals of humility. Nineteenth-century representations, including Delacroix's image of the sultan, are valuable evidence for the imagery of power—but paintings are composed interpretations, not transparent recordings. [Jocelyne Dakhlia: royal power and the parasol](https://journals.openedition.org/crcv/233), [Le Desk: Dakhlia on Delacroix and the image of the throne](https://ledesk.ma/grandangle/quand-delacroix-reinventait-le-symbole-du-trone/)",
+      "The red royal parasol is therefore meaningful without assigning every feature of today's ceremony to an ancient dynasty. A bay'a tradition can have a long history while particular colors, arrangements and public presentations change. The supplied illustration evokes that ceremonial world; it cannot establish when a particular banner or ritual detail first appeared.",
+      "## MOROCCO'S DYNASTIES — WHAT CHANGED AND WHAT SURVIVED?",
+      "**Idrisids:** from the late eighth century, a ruling lineage joined Sharifian legitimacy to local alliances and helped establish Fez's political significance. Their fragmented domains were not identical to modern Morocco.",
+      "**Almoravids:** an eleventh-century Saharan movement built an empire across the strait, with Marrakech as a new center. Geography and political scale changed dramatically.",
+      "**Almohads:** a rival reform movement created a still wider Maghrebi empire. Imperial reach expanded, then fractured; religious language did not eliminate military and succession struggles.",
+      "**Marinids:** royal authority again centered strongly on Fez, with enduring investment in urban and educational institutions.",
+      "**Wattasids:** rule from Fez continued amid limited territorial control, coastal pressure and southern rivals. The transfer to Saadian rule was contested rather than instantaneous.",
+      "**Saadians:** Sharifian claims, resistance to Iberian expansion, international diplomacy and trans-Saharan ambition reshaped the monarchy.",
+      "**Alaouites:** a new Sharifian house rebuilt authority from the seventeenth century and survived the protectorates into the contemporary kingdom, while the form and reach of government changed.",
+      "These are historical orientations, not seven identical states passing the same map and flag to one another. Medieval banners identified rulers, armies, religious claims or particular contexts; the tidy dynasty flags circulated in modern graphics are often reconstructions. This article does not certify those designs as documented modern-style national flags.",
+      "## MOROCCO: MYTH VS REALITY",
+      "**“Morocco is one unchanged state exactly twelve centuries old.”** The Idrisids are a major starting point in dynastic memory, but earlier societies mattered and later institutions repeatedly changed. Long continuity does not require an uninterrupted modern state.",
+      "**“Every dynasty ruled the same territory.”** Almoravid and Almohad empires extended beyond today's Morocco; other rulers controlled much less. Modern borders cannot be projected backward.",
+      "**“Morocco never fought or depended on the Ottomans.”** It escaped lasting provincial incorporation, not Ottoman military intervention or complex relations of support and claimed suzerainty.",
+      "**“The protectorate meant either complete independence or the disappearance of the Moroccan state.”** Both extremes miss its structure. The sultanate continued legally while foreign authorities severely constrained sovereignty.",
+      "**“1777 and the American treaty are the same event.”** The shipping proclamation belongs to 1777; the negotiated treaty belongs to 1786, followed by American ratification in 1787. Diplomatic “firsts” depend on definitions.",
+      "**“The Rif War was a minor local disturbance.”** It involved a major Spanish defeat, a state-building experiment and a combined imperial campaign with international repercussions.",
+      "**“The banners in historical illustrations prove each dynasty's national flag.”** Artistic reconstructions require their own evidence. A convincing image is not an archive.",
+      "**“Independence in 1956 settled every territorial question.”** It ended the main protectorate arrangements; other territorial transfers and disputes followed. The [British Empire's decolonization](/articles/british-empire-history-rise-fall-global-legacy/) likewise shows why independence rarely followed one universal timetable.",
+      "## WHAT SURVIVED WAS THE ABILITY TO REBUILD",
+      "There is no need to choose between imagining Morocco as an unbroken monument and imagining its history as a series of unrelated ruins. Fez and Marrakech, the monarchy and its critics, mountains and ports, scholarship and coercion all belong to the same long account.",
+      "The institutions that endured did so because people renewed them, contested them and changed their purposes. Dynastic legitimacy could support an empire, a sultan negotiating with foreigners, a symbol of anticolonial resistance or a modern king exercising constitutional powers. Those roles were connected without being identical.",
+      "Morocco's history is not the story of one dynasty surviving unchanged for twelve centuries. It is the story of successive states, cities and communities repeatedly rebuilding political authority in the far western Maghreb—and, through conquest, negotiation, resistance and adaptation, preserving a distinctive Moroccan center of power."
+    ],
+    "references": [
+      {
+        "name": "Cambridge: settlement and state formation in the ancient Sahara",
+        "url": "https://www.cambridge.org/core/books/urbanisation-and-state-formation-in-the-ancient-sahara-and-beyond/introduction-to-the-themes-of-sedentarisation-urbanisation-and-state-formation-in-the-ancient-sahara-and-beyond/988C4A897F684F0E207C55BB7FAC130F"
+      },
+      {
+        "name": "UNESCO: Archaeological Site of Volubilis",
+        "url": "https://whc.unesco.org/en/list/836/"
+      },
+      {
+        "name": "Académie des Inscriptions: the southern frontier of Mauretania Tingitana",
+        "url": "https://www.persee.fr/doc/crai_0065-0536_1990_num_134_2_14875"
+      },
+      {
+        "name": "Bennison: the formation and fragmentation of medieval Moroccan empires",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/9781118455074.wbeoe209"
+      },
+      {
+        "name": "Larousse: the Idrisids",
+        "url": "https://www.larousse.fr/encyclopedie/groupe-personnage/Idrisides/124712"
+      },
+      {
+        "name": "UNESCO: Medina of Fez",
+        "url": "https://whc.unesco.org/en/list/170/"
+      },
+      {
+        "name": "Cambridge: Morocco and the medieval Islamic far west",
+        "url": "https://www.cambridge.org/core/books/abs/medieval-africa-12501800/islamic-far-west-morocco/7429FBD1D723495FFD4C5D7234A89957"
+      },
+      {
+        "name": "UNESCO: Medina of Marrakesh",
+        "url": "https://whc.unesco.org/en/list/331/"
+      },
+      {
+        "name": "Museum With No Frontiers: Almoravid chronology",
+        "url": "https://islamicart.museumwnf.org/dynasties-api//events?d=10&ef=html&langId=en"
+      },
+      {
+        "name": "Metropolitan Museum: Almoravid and Almohad art",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-almoravid-and-almohad-periods-ca-1062-1269"
+      },
+      {
+        "name": "Larousse: the sixteenth-century struggle for Morocco",
+        "url": "https://www.larousse.fr/encyclopedie/divers/Maroc_histoire/185554"
+      },
+      {
+        "name": "Larousse: the Wattasids",
+        "url": "https://www.larousse.fr/encyclopedie/divers/Wattasides/181884"
+      },
+      {
+        "name": "Museum With No Frontiers: Morocco and Iberian expansion",
+        "url": "https://baroqueart.museumwnf.org/hcr.php?begin=0&country=ma&id=object%3BBAR%3Bpt%3BMus11_A%3B23%3Bpt&start_date=1400"
+      },
+      {
+        "name": "Stanford History: the battle that claimed three kings",
+        "url": "https://history.stanford.edu/news/swashbuckling-tudor-mercenary-who-was-killed-battle-claimed-lives-three-16th-century-kings"
+      },
+      {
+        "name": "Larousse: Ahmad al-Mansur",
+        "url": "https://www.larousse.fr/encyclopedie/personnage/Ahmad_al-Mansur/104298"
+      },
+      {
+        "name": "UNESCO: Timbuktu",
+        "url": "https://whc.unesco.org/en/list/119/"
+      },
+      {
+        "name": "Lansiné Kaba: the Moroccan invasion and Songhay resistance, 1591–1612",
+        "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/archers-musketeers-and-mosquitoes-the-moroccan-invasion-of-the-sudan-and-the-songhay-resistance-15911612/7BE695BFE53648CF3324ED70F40512D6"
+      },
+      {
+        "name": "Güneş Işıksel: Ottoman suzerainty and Abd al-Malik, 1576–1578",
+        "url": "https://makale.isam.org.tr/items/390086c6-7319-4bd8-ae45-9d799bac9636"
+      },
+      {
+        "name": "Larousse: the modern Alaouite succession",
+        "url": "https://www.larousse.fr/encyclopedie/divers/Alawites/104540"
+      },
+      {
+        "name": "UNESCO: Historic City of Meknes",
+        "url": "https://whc.unesco.org/en/list/793/"
+      },
+      {
+        "name": "Chouki El Hamel: Ismail's slave registers",
+        "url": "https://asu.elsevierpure.com/en/publications/the-register-of-the-slaves-of-sultan-mawlay-ismail-of-morocco-at-/"
+      },
+      {
+        "name": "Annales: What is the makhzen?",
+        "url": "https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/article/abs/questce-que-le-makhzen/99ACA3F8ABBA1AF876B27071862C74E9"
+      },
+      {
+        "name": "Morocco's constitutional text",
+        "url": "https://www.constituteproject.org/constitution/Morocco_2011"
+      },
+      {
+        "name": "U.S. National Archives: the Morocco–United States treaty negotiations",
+        "url": "https://founders.archives.gov/documents/Adams/06-18-02-0196"
+      },
+      {
+        "name": "Office of the Historian: Morocco and the Tangier regime",
+        "url": "https://history.state.gov/countries/morocco"
+      },
+      {
+        "name": "U.S. National Archives: an early diplomatic test",
+        "url": "https://prologue.blogs.archives.gov/2015/07/12/pirates-an-early-test-for-the-new-country/"
+      },
+      {
+        "name": "National Museum of American Diplomacy: the Tangier Old Legation",
+        "url": "https://diplomacy.state.gov/tangier-old-legation-americas-first-diplomatic-property/"
+      },
+      {
+        "name": "Miller: monarchy, pragmatism and historical change",
+        "url": "https://www.cambridge.org/core/books/history-of-modern-morocco/88606965E80CAC57471F2636CAFA885F"
+      },
+      {
+        "name": "Museum With No Frontiers: Isly and nineteenth-century Morocco",
+        "url": "https://sharinghistory.museumwnf.org/hcr_result.php?endPeriod=1850&nccountry=ma&startPeriod=1820&theme=none"
+      },
+      {
+        "name": "Museum With No Frontiers: the peace of 1860",
+        "url": "https://sharinghistory.museumwnf.org/database_item.php?id=object%3BAWE%3Bes%3B41%3Ben"
+      },
+      {
+        "name": "U.S. diplomatic records: the Algeciras negotiations",
+        "url": "https://history.state.gov/historicaldocuments/frus1906p2/d559"
+      },
+      {
+        "name": "Treaty of Fez: contemporary published text",
+        "url": "https://digitalhistories.kennesaw.edu/items/show/34"
+      },
+      {
+        "name": "U.S. diplomatic records: the Tangier convention",
+        "url": "https://history.state.gov/historicaldocuments/frus1924v02/ch34"
+      },
+      {
+        "name": "Cambridge: Rif self-determination in the post-Versailles world",
+        "url": "https://www.cambridge.org/core/journals/contemporary-european-history/article/catalans-and-rifis-during-the-wilsonian-moment-the-quest-for-selfdetermination-in-the-postversailles-world/A651CE91DF9FDE52565EDDD897020309"
+      },
+      {
+        "name": "International Review of the Red Cross: The Rif War",
+        "url": "https://www.cambridge.org/core/journals/international-review-of-the-red-cross/article/abs/rif-war-a-forgotten-war/AD863E0FB0C9F63CC6AF1E4308EF31BD"
+      },
+      {
+        "name": "Cambridge: humanitarian appeals in imperial wars",
+        "url": "https://www.cambridge.org/core/journals/contemporary-european-history/article/transnational-appeals-for-humanitarian-intervention-in-europes-civil-and-imperial-wars/44DC34184888363E6D1CC2D59BDA2B65"
+      },
+      {
+        "name": "U.S. State Department archival collection: King and People in Morocco, 1950–1959",
+        "url": "https://www.gale.com/binaries/content/assets/gale-us-en/primary-sources/archives-unbound/primary-sources_archives-unbound_king-and-people-in-morocco-1950-1959_-u.s.-state-department-records-on-the-internal-affairs-of-morocco.pdf"
+      },
+      {
+        "name": "Cambridge: Mohammed V and exile from French North Africa",
+        "url": "https://www.cambridge.org/core/books/abs/banished-potentates/from-conquest-to-decolonisation-exile-from-french-north-africa/BEA59065559D8DC741A6F71AD95A24D8"
+      },
+      {
+        "name": "U.S. congressional report: Moroccan independence agreements",
+        "url": "https://www.govinfo.gov/content/pkg/CPRT-84HPRT80680/pdf/CPRT-84HPRT80680.pdf"
+      },
+      {
+        "name": "Human Rights Watch: Morocco's truth commission",
+        "url": "https://www.hrw.org/report/2005/11/27/moroccos-truth-commission/honoring-past-victims-during-uncertain-present"
+      },
+      {
+        "name": "Le Monde: Mohammed VI and unfinished reforms",
+        "url": "https://www.lemonde.fr/en/summer-reads/article/2025/08/26/mohammed-vi-the-king-of-unfinished-reforms_6744736_183.html"
+      },
+      {
+        "name": "World Bank: Morocco overview",
+        "url": "https://www.worldbank.org/ext/en/country/morocco"
+      },
+      {
+        "name": "United Nations: Western Sahara",
+        "url": "https://www.un.org/dppa/decolonization/en/nsgt/western-sahara"
+      },
+      {
+        "name": "Associated Press: the Western Sahara dispute",
+        "url": "https://apnews.com/article/ca8345164fdfc69cf9696635aa481bcb"
+      },
+      {
+        "name": "Jocelyne Dakhlia: royal power and the parasol",
+        "url": "https://journals.openedition.org/crcv/233"
+      },
+      {
+        "name": "Le Desk: Dakhlia on Delacroix and the image of the throne",
+        "url": "https://ledesk.ma/grandangle/quand-delacroix-reinventait-le-symbole-du-trone/"
+      }
+    ],
+    "tags": [
+      "history of Morocco",
+      "Moroccan history",
+      "Moroccan dynasties",
+      "Kingdom of Morocco history",
+      "Idrisid dynasty",
+      "Almoravid Empire",
+      "Almohad Empire",
+      "Saadian dynasty",
+      "Alaouite dynasty",
+      "Battle of Three Kings",
+      "Abd el-Krim",
+      "Morocco independence",
+      "Morocco United States 1777",
+      "History"
+    ],
+    "readingTime": "21 min read",
+    "status": "published"
+  },
+  {
     "id": "087",
     "slug": "house-music-brain-rhythm-128-bpm-science-dancing",
     "title": "HOUSE MUSIC: WHY DOES A BEAT MAKE YOUR BODY MOVE?",
