@@ -54,6 +54,243 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "096",
+    "slug": "japan-samurai-meiji-restoration-modern-empire-history",
+    "title": "JAPAN: HOW A LAND OF SAMURAI BECAME A MODERN EMPIRE",
+    "seoTitle": "Japan: Samurai, Meiji Restoration and the Modern Empire",
+    "metaDescription": "Trace Japan from Tokugawa samurai rule through the Meiji Restoration, industrialization and imperial expansion to wartime defeat and postwar reform.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "JAPAN",
+      "gold": "MODERN EMPIRE"
+    },
+    "excerpt": "From shoguns and hereditary warriors to railways, factories and empire: how Japan rebuilt its state, expanded abroad and transformed again after 1945.",
+    "category": "History",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/japan-samurai-meiji-empire.webp",
+    "coverAlt": "Editorial historical reconstruction combining a samurai figure, castle town and steamships; not a documented person or exact historical setting",
+    "homepageImagePosition": "80% 0%",
+    "content": [
+      "A sword and a steamship can appear to belong to different worlds. In nineteenth-century Japan, their histories overlapped. Men born into a hereditary warrior order helped build ministries, railways and a conscript army—and dismantled the privileges that had made them samurai.",
+      "Japan’s transformation was neither an overnight escape from medieval stagnation nor a simple triumph of national character. It grew from existing commercial and educational strengths, foreign pressure, political struggle and deliberate institutional change. The resulting power protected Japan from colonization while enabling it to impose colonial rule on others.",
+      "Image note: the hero is an editorial historical reconstruction combining symbols of different periods. It is not a documented ruler, battle, harbor or exact historical skyline.",
+      "## FROM WARRIOR HOUSEHOLDS TO SHOGUNATES",
+      "Samurai emerged from the armed service and landed power of medieval Japan. Warrior governments developed from the late twelfth century, beginning with the Kamakura shogunate; the later Ashikaga shogunate and the conflicts of the Sengoku era produced changing relationships among military families, provincial lords and the imperial court.",
+      "There was no single samurai lifestyle across these centuries. Warriors fought, governed estates, negotiated alliances and cultivated literature and the arts. Loyalty was an ideal, but real politics also involved shifting allegiance and struggles for land and office. Treating every samurai as an identical sword-wielding moral hero obscures the social history. [The Met: samurai across changing periods](https://www.metmuseum.org/essays/samurai)",
+      "Tokugawa Ieyasu’s victory at Sekigahara in 1600 helped establish his supremacy. Appointed shogun in 1603, he founded the Tokugawa government at Edo, today’s Tokyo. The defeat of the Toyotomi at Osaka in 1615 consolidated the new order. The Edo period is conventionally dated 1603–1868, though art histories sometimes use 1615 as their starting point. [National Gallery of Art: the Edo world](https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/education/learning-resources/teaching-packets/pdfs/edo-teach.pdf)",
+      "## WHO REALLY RULED JAPAN: EMPEROR OR SHOGUN?",
+      "Under the Tokugawa, the emperor and court in Kyoto retained religious, ceremonial and legitimating importance. The shogun’s government exercised the central military and political authority, while daimyo governed their own domains within an order supervised by the Tokugawa. Power was distributed and negotiated, not held by a modern national bureaucracy.",
+      "The court was therefore neither the everyday executive government nor irrelevant decoration. Imperial authority remained a resource that opponents of the shogunate could invoke. In 1868, the restoration of government in the emperor’s name transformed that relationship, but it did not mean the young Meiji emperor personally designed and administered every reform. Senior statesmen, officials and military leaders exercised enormous practical power.",
+      "## WAS JAPAN REALLY CLOSED FOR 200 YEARS?",
+      "“Sakoku,” commonly translated as closed country, can mislead when taken literally. Tokugawa restrictions limited overseas travel, excluded most European traders and suppressed Christianity. The 1635 edict illustrates a government trying to control movement and foreign influence, not a society with no knowledge of the outside world. [Read the Tokugawa restrictions in context](https://afe.easia.columbia.edu/main_pop/ps/ps_japan-tokugawa-edicts-foreigners.htm)",
+      "Chinese and Dutch trade continued at Nagasaki. Connections with Korea through Tsushima, with the Ryukyu kingdom through Satsuma, and with Ainu communities in the north also persisted. These relationships were unequal and regulated; they were not all equivalent to open diplomatic relations between modern states. [Cambridge: regulated regional connections](https://www.cambridge.org/core/books/abs/new-cambridge-history-of-japan/foreign-relations-and-coastal-defense-under-the-mature-tokugawa-regime/8D6643AFEB9D44B7E0D82D00D6C0FEB8)",
+      "Dutch learning brought access to European medicine and scientific knowledge through translation. A surviving Nagasaki print of Dutch visitors is a small reminder that foreign people and goods remained visible within this controlled system. “Selective engagement” is more accurate than complete isolation. [British Museum: Dutch trade and its visual record](https://www.britishmuseum.org/collection/object/A_1946-0413-0-2)",
+      "## THE SOCIETY THAT MADE MODERNIZATION POSSIBLE",
+      "Edo, Osaka and Kyoto supported commercial and cultural life. Merchants, transport networks, publishers, craft producers and farmers linked regions together. Temple schools and other forms of instruction spread practical learning, although education varied by gender, place and social position. National literacy percentages are difficult to reconstruct and should not be turned into effortless proof that everyone could read.",
+      "During the long peace, many samurai served as administrators rather than full-time battlefield fighters. Hereditary status did not guarantee comfort: stipends, debt and dependence on merchant credit could make prestigious rank financially insecure. Farmers and townspeople bore obligations of their own, and the official social hierarchy was neither equal nor a complete description of how the economy worked.",
+      "These developments matter because Meiji Japan did not start with an empty toolkit. It inherited commerce, skilled production and administrative experience, even as reformers changed their scale and purposes.",
+      "## PERRY AND THE CRISIS OF TOKUGAWA RULE",
+      "Commodore Matthew Perry arrived in 1853 with American warships and returned in 1854. The Convention of Kanagawa opened specified ports to American ships for provisions and assistance and allowed a consular presence. Broader commercial opening followed through later treaties, including the 1858 treaty negotiated by Townsend Harris. These were related steps, not one moment when all of Japan suddenly opened.",
+      "The threat of foreign force exposed the shogunate’s difficulties. Treaty concessions, including extraterritorial rights, became politically explosive. Foreign pressure interacted with domestic fiscal strains and struggles among domains and court factions; Perry alone did not cause the regime’s fall. [Office of the Historian: the opening to Japan](https://history.state.gov/milestones/1830-1860/opening-to-japan)",
+      "The last shogun, Tokugawa Yoshinobu, relinquished governing authority in 1867. The declaration of restoration in 1868 and the Boshin War of 1868–1869 then settled the conflict by force. The new leadership, strongly associated with Satsuma and Choshu, governed in the emperor’s name. Edo became Tokyo, and the imperial center moved there.",
+      "## HOW DID JAPAN MODERNIZE SO FAST?",
+      "Speed came from combining inherited resources with a state determined to reorganize them. In 1871 the domains were abolished and replaced by prefectures. A centralized government could collect revenue, direct policy and mobilize people across former domain boundaries. A national school system and conscription followed in the early 1870s. Implementation was uneven and could provoke resistance rather than universal enthusiasm. [Columbia: the Meiji transformation](https://afe.easia.columbia.edu/special/japan_1750_meiji.htm)",
+      "The Iwakura Mission traveled abroad from 1871 to 1873. Its leaders studied institutions and industrial development in the United States and Europe while seeking changes to Japan’s treaty position. Immediate treaty revision did not succeed, but the journey informed reform. Learning from abroad meant comparison and adaptation, not importing one complete Western model. [National Diet Library: the Iwakura Mission](https://www.ndl.go.jp/modern/e/cha1/description07.html)",
+      "The railway between Shimbashi and Yokohama opened in 1872. Rail, steam shipping and telegraph networks reduced the practical distances between government, markets and production. The infrastructure also served strategic and military purposes. [National Diet Library: the first railway](https://www.ndl.go.jp/kaleido/entry/32/)",
+      "Industrialization involved state investment, foreign advisers, imported equipment, Japanese entrepreneurs and expanding financial institutions. Textiles were especially important before the familiar image of heavy industry became dominant. The Tomioka Silk Mill, established in 1872, exemplified the effort to combine overseas machinery and expertise with Japanese production. [UNESCO: Tomioka’s industrial significance](https://whc.unesco.org/en/list/1449/)",
+      "Women were central to this history. Silk-reeling workers and instructors helped operate and spread new techniques. The national success story depended on labor that could be poorly rewarded and tightly disciplined. Technology mattered, but so did the people who learned, maintained and worked it. [Cambridge: female silk-reeling instructors](https://www.cambridge.org/core/books/abs/accessing-technical-education-in-modern-japan/training-and-education-of-female-silkreeling-instructors-in-meiji-japan/19E4E7FDA00863441050602D501C9A19)",
+      "Modernization also required revenue, supplied substantially through agriculture and taxation. Its costs fell unevenly. New schools, military service and factories could create opportunities while increasing the state’s demands on households. Rapid growth was an institutional and social process, not a cultural miracle.",
+      "## WHAT HAPPENED TO THE SAMURAI?",
+      "The Meiji government dismantled hereditary warrior privileges in stages. Samurai stipends were ultimately converted into government bonds in 1876, and restrictions on wearing swords in public removed a conspicuous status marker that year, with exceptions for specified official roles. A national conscript army undermined the samurai monopoly on military service. [Columbia: the fiscal transformation of stipends](https://www.columbia.edu/~dew35/PDF/SlidesF03/W4325C05%20Prewar%20Industrial%20Development.pdf)",
+      "Former samurai became officials, officers, teachers, professionals and businesspeople; others struggled. Some resisted, most famously in the Satsuma Rebellion of 1877 associated with Saigo Takamori. It was not simply swords against modern weapons: rebels also used firearms, and the imperial leadership itself included men of samurai background.",
+      "Bushidō requires similar care. Historical warriors had ethical traditions, but no single unchanged code governed every warrior in every century. Edo-era writing idealized service and conduct; later thinkers and nationalists reshaped samurai ethics for modern audiences. Popular images often project those later formulations backward. [Modern Asian Studies: the modern image of bushidō](https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/bushido-and-the-samurai-images-in-british-public-opinion-18941914/8EDCFF65364FB1408534608017FF57D8)",
+      "## A CONSTITUTION, A DIET AND THE LIMITS OF REPRESENTATION",
+      "The Meiji Constitution was promulgated in 1889, and the Imperial Diet first met in 1890. Ito Hirobumi and other leaders studied European constitutional systems while constructing institutions that preserved strong imperial authority. The constitution created a framework for representative politics without making the cabinet responsible to an elected majority in the way a modern parliamentary system does. [National Diet Library: drafting the constitution](https://www.ndl.go.jp/modern/e/cha2/description07.html)",
+      "The emperor held sovereignty in the constitutional text. A narrow male electorate initially chose the lower house, while an upper House of Peers represented hereditary and appointed elites. Rights were recognized within legal limits, and the armed forces possessed a special relationship to imperial authority. Those arrangements would matter in later conflicts over military control. [Read the Meiji Constitution](https://afe.easia.columbia.edu/main_pop/ps/ps_japan-meiji-constitution.htm)",
+      "## HOW DID JAPAN BECOME AN EMPIRE?",
+      "Meiji leaders sought security and equal standing in an international order dominated by imperial powers. But protection against foreign domination did not require every subsequent conquest. Strategic competition, domestic ambitions and the pursuit of territory turned Japan into a colonial power in its own right. Comparison with the [British Empire](/articles/british-empire-history-rise-fall-global-legacy/) helps show how modern industry and coercive expansion could reinforce each other without making their histories identical.",
+      "Japan defeated Qing China in the First Sino-Japanese War of 1894–1895. The Treaty of Shimonoseki transferred Taiwan and the Penghu Islands to Japanese control, among other provisions. Taiwan became a colony; resistance continued after the treaty. Victory shifted the regional balance but did not make the consequences benign for the people governed. [National Diet Library: the Sino-Japanese War](https://www.ndl.go.jp/modern/e/cha2/description23.html)",
+      "The Russo-Japanese War of 1904–1905 arose from rival ambitions in Korea and Manchuria. Japan’s victory challenged assumptions about European military supremacy, while both states had pursued imperial interests. It was not a general liberation of Asia. [Library of Congress: Russia and Japan in the Far East](https://www.loc.gov/collections/meeting-of-frontiers/articles-and-essays/mutual-perceptions/russo-japanese-relations-in-the-far-east/)",
+      "Korea became a Japanese protectorate in 1905 and was annexed in 1910. Colonial rule brought infrastructure and economic reorganization alongside political repression and unequal control. Colonized people did not freely choose the terms. Modernization under empire cannot be assessed by counting railways while ignoring sovereignty, coercion and resistance. [British Museum: the road to annexation](https://www.britishmuseum.org/exhibitions/samurai/samurai-large-print-guide)",
+      "## FROM PARTY POLITICS TO MILITARISM",
+      "The decades after Meiji included expanding political participation, labor activism and party government, not an uninterrupted march toward war. Yet repression, institutional limits, economic crisis and political violence weakened civilian authority. Military and civilian supporters of expansion could cooperate as well as compete; “the army took over” is too simple for the changing coalition of interests.",
+      "The 1930s brought sharper pressure on parties and opponents. The assassination of Prime Minister Inukai Tsuyoshi in 1932 and the attempted coup of February 1936 marked the force of political violence. Some politicians resisted military demands, while others adapted to or endorsed them. [National Diet Library: political realignment](https://www.ndl.go.jp/modern/e/cha4/description09.html)",
+      "Japanese forces seized Manchuria after the Mukden Incident in 1931; the Japanese-sponsored state of Manchukuo followed in 1932. Full-scale war with China developed in 1937. Expansion produced deeper conflict and greater demands for resources, rather than the secure settlement its advocates promised. [Office of the Historian: Manchuria](https://history.state.gov/milestones/1921-1936/mukden-incident)",
+      "## EMPIRE’S HUMAN COST: COLONIALISM AND WAR CRIMES",
+      "The war in China involved documented atrocities, including the Nanjing Massacre after Japanese troops captured the city in December 1937. Civilians and disarmed prisoners were killed, and widespread sexual violence occurred. Estimates depend on geographical scope, period and sources; disagreement over totals does not erase the established crimes. [US National Archives: Japanese war crimes records](https://www.archives.gov/iwg/japanese-war-crimes)",
+      "Forced labor harmed colonized civilians, other Asian laborers and Allied prisoners of war. The Thailand–Burma railway is one documented example of deadly working conditions, disease, malnutrition and abuse. Colonial and military systems differed across places and periods, but exploitation was not incidental to wartime mobilization. [National Army Museum: the Far East campaign](https://www.nam.ac.uk/explore/far-east-campaign)",
+      "The military “comfort women” system subjected women to sexual exploitation and coercion. Japan’s 1993 Kono Statement acknowledged military involvement and recruitment against women’s wishes in many cases. The euphemistic name should not conceal the harm or replace the voices of survivors. [The official investigation and statements](https://www.mofa.go.jp/a_o/rp/page24e_000275.html)",
+      "Unit 731 and related programs carried out human experimentation and biological warfare. Archival research also documents how some perpetrators escaped full accountability after the war. These crimes should be described accurately, without graphic spectacle—and without assigning inherited guilt to later generations of Japanese people. [National Archives: documentary evidence and scholarship](https://www.archives.gov/iwg/japanese-war-crimes/introductory-essays.pdf)",
+      "## THE PACIFIC WAR AND THE DESTRUCTION OF 1945",
+      "In December 1941, Japan attacked Pearl Harbor and launched operations against Western-held territories across Asia and the Pacific. Early advances were followed by a prolonged war against an increasingly powerful Allied coalition. Occupation brought suffering to many Asian communities despite Japanese claims to regional liberation.",
+      "By 1945, blockade, military defeats and bombing had devastated Japan. The United States dropped atomic bombs on Hiroshima on 6 August and Nagasaki on 9 August. The Soviet Union declared war on Japan on 8 August and attacked Japanese-held territory in Manchuria from 9 August. These events converged with a deep crisis in Japanese decision-making.",
+      "Historians debate the relative weight of the atomic bombings, Soviet entry and other pressures in securing surrender. Presenting one cause as uncontested simplifies that debate. The bombings killed civilians on a massive scale and inflicted lasting injuries; precise totals depend on the period counted. [National Park Service: August 1945](https://www.nps.gov/wwii/learn/historyculture/august-1945.htm)",
+      "Emperor Hirohito’s surrender broadcast was heard on 15 August. The formal instrument of surrender was signed on 2 September 1945 aboard USS Missouri. Those are distinct milestones, both essential to an accurate chronology. [National Army Museum: the formal surrender](https://www.nam.ac.uk/explore/september-1945)",
+      "## OCCUPATION AND A DIFFERENT MODERN JAPAN",
+      "The Allied occupation, led by the United States, lasted from 1945 to 1952. Demilitarization, war-crimes proceedings, land reform and political reform accompanied reconstruction. The 1947 Constitution established popular sovereignty and an emperor defined as a symbol, broadened rights and included Article 9’s renunciation of war. Women gained national voting rights during the occupation.",
+      "Reform was neither an exclusively American gift nor an effortless democratic conversion. Japanese officials, activists, workers and voters shaped its operation. Cold War priorities also redirected occupation policy, strengthening the emphasis on economic recovery and political stability. [Office of the Historian: occupation and reconstruction](https://history.state.gov/milestones/1945-1952/japan-reconstruction)",
+      "Sovereignty was restored in 1952, though Okinawa remained under US administration until 1972. Postwar growth built on industrial capabilities, education, institutional changes and international conditions, including the US security relationship. The society that emerged was profoundly different from the wartime empire, while still facing questions about memory and responsibility. [National Archives: occupation and Okinawa records](https://www.archives.gov/research/guide-fed-records/groups/260.html)",
+      "## JAPAN: MYTH VS REALITY",
+      "Myth: the emperor always directly governed Japan. Reality: practical power shifted among courts, shogunates, domain lords, ministers and modern institutions.",
+      "Myth: sakoku meant total isolation. Reality: regulated foreign trade, diplomacy and intellectual exchange continued.",
+      "Myth: samurai all lived by one ancient, unchanging bushidō code. Reality: warrior practice varied, and later generations remade its ideals.",
+      "Myth: modernization began from nothing in 1868. Reality: Edo-era commerce, skills and learning supplied important foundations.",
+      "Myth: former samurai only fought modernization. Reality: many helped lead and administer it, even as others resisted.",
+      "Myth: Japan’s victories made it the liberator of all Asia. Reality: Japan also imposed colonial rule and committed documented atrocities.",
+      "Myth: surrender had one simple cause. Reality: military defeat, economic devastation, atomic bombing, Soviet entry and leadership decisions interacted.",
+      "## A TRANSFORMATION, NOT A SINGLE DESTINY",
+      "Japan’s modern history contains extraordinary institutional creativity and industrial achievement. It also contains coercion at home, colonial domination abroad and catastrophic war. Neither side cancels the other.",
+      "The samurai order did not simply become the modern empire, and that empire did not make postwar Japan inevitable. People made choices under pressure, borrowed ideas, resisted reforms and rebuilt institutions. The deepest transformation was not from sword to machine. It was in how power was organized—and in what that power demanded from the people living under it."
+    ],
+    "references": [
+      {
+        "name": "The Met: Samurai",
+        "url": "https://www.metmuseum.org/essays/samurai"
+      },
+      {
+        "name": "National Gallery of Art: Edo, Art in Japan",
+        "url": "https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/education/learning-resources/teaching-packets/pdfs/edo-teach.pdf"
+      },
+      {
+        "name": "Columbia University: the Tokugawa edict of 1635",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_japan-tokugawa-edicts-foreigners.htm"
+      },
+      {
+        "name": "British Museum: Dutch traders in Nagasaki",
+        "url": "https://www.britishmuseum.org/collection/object/A_1946-0413-0-2"
+      },
+      {
+        "name": "Office of the Historian: the opening to Japan",
+        "url": "https://history.state.gov/milestones/1830-1860/opening-to-japan"
+      },
+      {
+        "name": "Columbia University: the Meiji Restoration and modernization",
+        "url": "https://afe.easia.columbia.edu/special/japan_1750_meiji.htm"
+      },
+      {
+        "name": "National Diet Library: Iwakura Mission",
+        "url": "https://www.ndl.go.jp/modern/e/cha1/description07.html"
+      },
+      {
+        "name": "National Diet Library: 150 years of railways",
+        "url": "https://www.ndl.go.jp/kaleido/entry/32/"
+      },
+      {
+        "name": "UNESCO: Tomioka Silk Mill and Related Sites",
+        "url": "https://whc.unesco.org/en/list/1449/"
+      },
+      {
+        "name": "Cambridge: training female silk-reeling instructors",
+        "url": "https://www.cambridge.org/core/books/abs/accessing-technical-education-in-modern-japan/training-and-education-of-female-silkreeling-instructors-in-meiji-japan/19E4E7FDA00863441050602D501C9A19"
+      },
+      {
+        "name": "Columbia University: prewar industrial development and stipends",
+        "url": "https://www.columbia.edu/~dew35/PDF/SlidesF03/W4325C05%20Prewar%20Industrial%20Development.pdf"
+      },
+      {
+        "name": "Cambridge, Modern Asian Studies: Bushidō and the Samurai",
+        "url": "https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/bushido-and-the-samurai-images-in-british-public-opinion-18941914/8EDCFF65364FB1408534608017FF57D8"
+      },
+      {
+        "name": "National Diet Library: drafting the Meiji Constitution",
+        "url": "https://www.ndl.go.jp/modern/e/cha2/description07.html"
+      },
+      {
+        "name": "Columbia University: the Meiji Constitution, primary text",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_japan-meiji-constitution.htm"
+      },
+      {
+        "name": "National Diet Library: Sino-Japanese War",
+        "url": "https://www.ndl.go.jp/modern/e/cha2/description23.html"
+      },
+      {
+        "name": "Library of Congress: Russo-Japanese relations",
+        "url": "https://www.loc.gov/collections/meeting-of-frontiers/articles-and-essays/mutual-perceptions/russo-japanese-relations-in-the-far-east/"
+      },
+      {
+        "name": "British Museum: Samurai exhibition historical guide",
+        "url": "https://www.britishmuseum.org/exhibitions/samurai/samurai-large-print-guide"
+      },
+      {
+        "name": "National Diet Library: transformation of political parties",
+        "url": "https://www.ndl.go.jp/modern/e/cha4/description09.html"
+      },
+      {
+        "name": "Office of the Historian: Mukden and Manchuria",
+        "url": "https://history.state.gov/milestones/1921-1936/mukden-incident"
+      },
+      {
+        "name": "US National Archives: Japanese war crimes records",
+        "url": "https://www.archives.gov/iwg/japanese-war-crimes"
+      },
+      {
+        "name": "National Army Museum: the Far East campaign",
+        "url": "https://www.nam.ac.uk/explore/far-east-campaign"
+      },
+      {
+        "name": "Japan Ministry of Foreign Affairs: study and statements on the comfort women system",
+        "url": "https://www.mofa.go.jp/a_o/rp/page24e_000275.html"
+      },
+      {
+        "name": "US National Archives: Japanese war crimes introductory essays",
+        "url": "https://www.archives.gov/iwg/japanese-war-crimes/introductory-essays.pdf"
+      },
+      {
+        "name": "National Park Service: August 1945",
+        "url": "https://www.nps.gov/wwii/learn/historyculture/august-1945.htm"
+      },
+      {
+        "name": "National Army Museum: formal surrender, September 1945",
+        "url": "https://www.nam.ac.uk/explore/september-1945"
+      },
+      {
+        "name": "Office of the Historian: occupation and reconstruction",
+        "url": "https://history.state.gov/milestones/1945-1952/japan-reconstruction"
+      },
+      {
+        "name": "Truman Presidential Library: the occupation of Japan",
+        "url": "https://www.trumanlibrary.gov/library/online-collections/japan-occupation"
+      },
+      {
+        "name": "Cambridge: Tokugawa foreign relations",
+        "url": "https://www.cambridge.org/core/books/abs/new-cambridge-history-of-japan/foreign-relations-and-coastal-defense-under-the-mature-tokugawa-regime/8D6643AFEB9D44B7E0D82D00D6C0FEB8"
+      },
+      {
+        "name": "US National Archives: occupation records and Okinawa reversion",
+        "url": "https://www.archives.gov/research/guide-fed-records/groups/260.html"
+      }
+    ],
+    "tags": [
+      "Japan history",
+      "Samurai",
+      "Meiji Restoration",
+      "Tokugawa",
+      "Imperial Japan",
+      "History"
+    ],
+    "readingTime": "13 min read",
+    "faq": [
+      {
+        "question": "When was the Meiji Restoration?",
+        "answer": "The restoration was proclaimed in 1868. The Boshin War of 1868–1869 helped settle the conflict, and major institutional reforms followed over subsequent decades."
+      },
+      {
+        "question": "Was Tokugawa Japan completely isolated?",
+        "answer": "No. Strict restrictions coexisted with regulated trade and foreign connections, including Chinese and Dutch trade at Nagasaki."
+      },
+      {
+        "question": "What happened to the samurai?",
+        "answer": "The Meiji government dismantled their hereditary privileges. Many former samurai entered government, military or civilian professions; others resisted, including in the 1877 Satsuma Rebellion."
+      },
+      {
+        "question": "When did Japan surrender in World War II?",
+        "answer": "The surrender broadcast was heard on 15 August 1945. The formal surrender instrument was signed on 2 September 1945."
+      }
+    ]
+  },
+  {
     "id": "095",
     "slug": "aztec-empire-tenochtitlan-mexica-rise-fall",
     "title": "AZTEC EMPIRE: HOW TENOCHTITLAN BECAME THE HEART OF A POWERFUL CIVILIZATION",
