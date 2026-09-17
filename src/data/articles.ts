@@ -54,6 +54,348 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "101",
+    "slug": "world-most-underrated-countries-to-visit",
+    "title": "THE WORLD’S MOST UNDERRATED COUNTRIES TO VISIT",
+    "seoTitle": "15 Underrated Countries to Visit: Costs and Best Seasons",
+    "metaDescription": "Explore 15 underrated countries with standout experiences, best seasons, realistic daily budget estimates, entry guidance and honest travel trade-offs.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "UNDERRATED",
+      "gold": "COUNTRIES"
+    },
+    "excerpt": "Fifteen countries worth a closer look, with memorable experiences, realistic budgets, the right seasons and the practical details that make a trip work.",
+    "category": "Travel",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/world-most-underrated-countries-travel.webp",
+    "coverAlt": "Editorial travel composite of mountains, lakes, coastal towns and a traveler beside a destination signpost",
+    "homepageImagePosition": "65% 50%",
+    "readingTime": "18 min read",
+    "tags": [
+      "Underrated countries",
+      "Travel guide",
+      "Travel budgets",
+      "Adventure travel",
+      "Cultural travel",
+      "Road trips"
+    ],
+    "content": [
+      "A mountain guesthouse, a railway platform beside a Silk Road city, a small restaurant where the menu makes you ask questions. Some of the most rewarding journeys begin when you look beyond the destinations you already recognize. But choosing somewhere less familiar should not mean arriving less prepared.",
+      "These 15 countries offer different kinds of reward: architecture, wildlife, food, coastal walks, difficult mountain journeys and time in places often reduced to a single postcard. They are not ranked from best to worst. The right choice depends on your season, budget, passport, mobility and appetite for logistical work.",
+      "Hero image: an editorial travel concept combining several destinations and a signpost. It does not depict one real viewpoint or a route connecting all the places shown.",
+      "## WHAT MAKES A DESTINATION “UNDERRATED”?",
+      "“Underrated” is an editorial judgment, not a measurable national characteristic. Our selection favors the depth of a trip, distinctive experiences, practical access and geographic variety. Some countries receive substantial regional tourism; others have famous attractions surrounded by less visited areas. Albania’s beaches, Kotor and Lake Bled are emphatically not undiscovered.",
+      "We have not manufactured a popularity score or ranked incompatible arrivals statistics. Border crossings, overnight tourists and same-day visitors are different measures. This guide instead explains what each destination offers beyond its best-known image and where the trade-offs lie. Malaysia, for example, earns its place for journeys beyond a capital-city stopover, not because it lacks international visitors.",
+      "### How to use the budgets and travel advice",
+      "Research checked on September 17, 2026. Unless marked EUR, all budgets below are US dollars per person per day. They are rounded PRESDA planning estimates for two adults sharing a modest private room, local meals, ordinary transport and a few paid sights. They exclude international flights, visas, insurance, shopping and expensive specialist excursions. Solo rooms, private drivers, peak dates and luxury lodges can change the total substantially.",
+      "The linked cost sources are benchmarks, not quotations for your dates. Budget Your Trip uses reported traveler spending and hotel data; those samples are not representative national price surveys. We use broader allowances where transfers or activities make a headline average misleading. Where suitable daily data are weak, we identify the component-based estimate or operator benchmark instead. Get actual accommodation and transport quotes before booking.",
+      "Entry rules depend on nationality, residence status and route. Each country includes links to current entry guidance and travel warnings. The UK Foreign, Commonwealth & Development Office pages describe British-passport requirements; other travelers must confirm eligibility with the destination’s immigration authority or consulate. Read the full regional warning map, not just a country headline. An evergreen destination guide cannot guarantee that conditions will remain unchanged.",
+      "## GEORGIA: MOUNTAINS, WINE AND A CAPITAL WORTH LINGERING IN",
+      "Georgia rewards a trip that connects city life with the countryside. Tbilisi’s courtyards and bath district, Kakheti’s wine-growing landscapes and the Greater Caucasus belong to very different journeys. It is worth giving each time rather than attempting every region in a rushed driving loop.",
+      "Three experiences: explore Tbilisi’s old neighborhoods; visit a winery in Kakheti and ask about qvevri wine-making; base yourself in Stepantsminda for mountain walks and the setting of Gergeti Trinity Church.",
+      "### Plan the trip",
+      "When: May, June, September and October suit cities and wine country; higher mountain walks are generally a summer to early-autumn proposition. Style: budget to mid-range. Allow approximately $45–80 daily, with mountain transfers and guides extra. Best for food, wine, culture and hiking.",
+      "Know before going: the FCDO advises against travel to Abkhazia and South Ossetia and restricts advice around their boundary lines. Georgia also requires visitors to carry qualifying health and accident insurance. Do not confuse easy entry for some passports with no entry conditions.",
+      "[Destination background](https://georgia.travel/regions/kakheti) · [Budget benchmark](https://www.budgetyourtrip.com/georgia) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/georgia)",
+      "## ALBANIA: LOOK BEYOND THE BEACH HEADLINES",
+      "Albania’s strongest itinerary is not simply a cheaper version of a Mediterranean resort holiday. Its historic towns and northern mountain valleys justify a trip in their own right. The coast can be busy and expensive in high summer, so the promise of empty beaches needs considerable qualification.",
+      "Three experiences: explore Berat’s hillside neighborhoods and castle; spend time in Gjirokastër’s stone-built old town; walk in the Albanian Alps around Theth with a route appropriate to your fitness and conditions.",
+      "### Plan the trip",
+      "When: May, June and September for towns and coast; July through September is usually more practical for high mountain routes, subject to snow and weather. Style: budget to mid-range. Allow roughly $80–130 daily for a comfortable independent trip, less with simple rooms and buses. Best for history, hiking and a mixed coast-and-mountain holiday.",
+      "Know before going: mountain transfers and bus connections can dictate the itinerary. Confirm the next connection locally and do not plan a demanding pass crossing on the same day as a flight. Albania is outside Schengen, but entering a neighboring Schengen country brings separate requirements.",
+      "[Destination background](https://albania.al/wp-content/uploads/2019/08/DISCOVER-ALBANIA-compressed.pdf) · [Budget benchmark](https://albaniatravel.org/plan-your-trip/how-much-does-albania-cost/) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/albania/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/albania)",
+      "## UZBEKISTAN: GIVE THE SILK ROAD CITIES TIME",
+      "Uzbekistan offers a concentration of monumental architecture that deserves more than a string of quick photographs. Samarkand’s vast spaces, Bukhara’s walkable historic core and Khiva’s enclosed old city feel different on foot. Markets and ordinary neighborhoods help balance the polished monuments.",
+      "Three experiences: visit the Registan in Samarkand; walk Bukhara’s old center at different times of day; explore the lanes and walls of Khiva’s Itchan Kala. For the wider historical setting, read our account of the [Mongol Empire and Central Asia](/articles/mongol-empire-genghis-khan-conquests-legacy/).",
+      "### Plan the trip",
+      "When: April and May or September and October generally avoid the strongest summer heat. Style: budget to mid-range. Allow approximately $40–75 daily using guesthouses and trains, with a separate allowance for private guides. Best for architecture, history, textiles and rail-based travel.",
+      "Know before going: accommodation registration matters. Hotels normally handle it, but independent stays require checking the process and keeping records. Reserve the train journeys that anchor your route before committing to a tight schedule.",
+      "[Destination background](https://uzbekistan.travel/en/architecture/) · [Budget benchmark](https://www.lonelyplanet.com/articles/uzbekistan-on-a-budget) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/uzbekistan/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/uzbekistan)",
+      "## OMAN: AN EXCEPTIONAL LANDSCAPE WITH A CURRENT TRAVEL CAVEAT",
+      "Oman’s appeal lies in the contrast between maritime towns, inland forts and mountain settlements. A rewarding route can focus on a small part of the country instead of covering enormous distances. It is included for its long-term travel merits, with an important distinction between inspiration and an immediate booking recommendation.",
+      "Three experiences: explore Muscat’s Mutrah waterfront and souq; visit Nizwa’s fort and market; spend time in the mountain villages and terraces of Jabal Akhdar with suitable transport.",
+      "### Plan the trip",
+      "When: October through March is generally more comfortable for northern Oman. Dhofar has a different summer monsoon season and requires a separate plan. Style: mid-range to luxury. Allow roughly $170–260 daily with shared transport costs; private guiding and mountain resorts cost more. Best for landscapes, architecture and carefully planned road trips.",
+      "Know before going: at our September 2026 check, the FCDO warned of regional attacks, possible escalation, airspace closures and flight disruption affecting Oman. Reassess the full advice before booking. Check visa eligibility through the Royal Oman Police, and confirm vehicle requirements for mountain access with your accommodation.",
+      "[Destination background](https://experienceoman.om/en/destinations/muscat) · [Budget benchmark](https://www.roughguides.com/oman/how-to-plan-a-trip/) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/oman/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/oman)",
+      "## SLOVENIA: SMALL DISTANCES, MANY LANDSCAPES",
+      "Slovenia is hardly a secret, but it works unusually well for travelers who want several types of scenery without repeated domestic flights. The mistake is to treat Lake Bled as the entire country. A slower route links a sociable capital with lakes, valleys and countryside.",
+      "Three experiences: walk and eat your way through Ljubljana; spend a few days around Lake Bohinj; explore the Soča Valley, choosing walks or a qualified river operator suited to your experience.",
+      "### Plan the trip",
+      "When: May, June and September for a varied itinerary; July and August for many higher trails, with weather checks essential. Style: mid-range, with budget hostels and luxury options. Allow approximately $110–170 daily. Best for nature, manageable road trips and travelers mixing a city stay with outdoor days.",
+      "Know before going: Alpine weather changes quickly, and a famous hike is not automatically an easy one. Popular lake accommodation fills in summer. Slovenia is in Schengen, so eligible short stays count toward the shared regional allowance, not a fresh country-specific allocation.",
+      "[Destination background](https://www.slovenia.info/en/places-to-go/regions/alpine-slovenia/bohinj) · [Budget benchmark](https://www.budgetyourtrip.com/slovenia) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/slovenia/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/slovenia)",
+      "## NAMIBIA: PLAN FOR DISTANCE, NOT JUST DESERT PHOTOGRAPHS",
+      "Namibia is an established safari destination, yet its variety is easily underestimated. Desert landscapes, Atlantic weather and wildlife country can form a remarkable journey. The experience is not cheap simply because the map looks empty: distance is one of its biggest expenses.",
+      "Three experiences: reach the dunes and pans around Sossusvlei early in the day; spend several wildlife-viewing days in Etosha; use Swakopmund as a coastal base rather than racing straight through.",
+      "### Plan the trip",
+      "When: May through October generally suits a dry-season wildlife and road itinerary; nights can be cold. Style: mid-range to luxury, or experienced self-drive camping. For an arranged self-drive trip, budget approximately EUR 225–350 per person daily, using a local operator’s camping and lodge benchmarks. This includes a shared vehicle and much of the accommodation and meal cost, rather than assuming transport is almost free. Best for nature, photography and longer road trips.",
+      "Know before going: allow daylight driving time and a generous fuel and water margin; do not treat gravel-road distances like motorway distances. Visa rules changed in 2025 for several nationalities, including British visitors. Check Namibia’s official application system and your intended entry point.",
+      "[Destination background](https://visitnamibia.com.na/national-parks/) · [Budget benchmark](https://www.staysinnamibia.com/namibia-trip-cost) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/namibia)",
+      "## URUGUAY: A SLOWER SOUTH AMERICAN JOURNEY",
+      "Uruguay is well known to its neighbors, so calling it undiscovered would miss the point. Its appeal for a longer-distance visitor is a trip built around waterfront life, food, historic streets and the Atlantic coast, rather than a checklist of giant landmarks.",
+      "Three experiences: walk Montevideo’s rambla and explore its markets; stay overnight in Colonia del Sacramento instead of making only a quick excursion; spend time on the Rocha coast, selecting a beach base with the services you need.",
+      "### Plan the trip",
+      "When: November and March offer a useful balance for coastal travel; December through February is summer, with holiday crowds and higher prices. Style: mid-range, with hostels and upscale beach stays. Allow approximately $85–140 daily; premium coastal resorts can exceed this substantially. Best for relaxed road trips, food, beaches and unhurried city stays.",
+      "Know before going: Uruguay is not uniformly inexpensive by South American standards. Book coastal accommodation early around the summer holidays, and check seasonal bus connections before choosing a remote beach base.",
+      "[Destination background](https://uruguaynatural.com/en/experiencias/) · [Budget benchmark](https://www.budgetyourtrip.com/uruguay) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/uruguay/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/uruguay)",
+      "## MONTENEGRO: LEAVE TIME FOR THE INTERIOR",
+      "Montenegro’s coastline already receives plenty of attention. The more rewarding argument for visiting is the combination of the Bay of Kotor, mountain country and lake landscapes. Staying inland for part of the journey changes both the rhythm and the impression of the country.",
+      "Three experiences: explore Kotor early or after the busiest excursion hours; base yourself near Durmitor for walking; visit Lake Skadar with a responsible local boat or birdwatching operator.",
+      "### Plan the trip",
+      "When: May, June and September for coast and lake; summer for higher mountain walking. Style: mid-range to luxury on the coast, with simpler inland options. Allow roughly $110–180 daily. Best for scenery, active holidays and compact road trips.",
+      "Know before going: short distances do not mean quick journeys. Coastal congestion and winding mountain roads make overfilled itineraries frustrating. Kotor is not a crowd-free alternative to every better-known Adriatic town, particularly in cruise season.",
+      "[Destination background](https://www.montenegro.travel/en/unique-montenegro/national-parks-of-montenegro) · [Budget benchmark](https://www.budgetyourtrip.com/montenegro) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/montenegro/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/montenegro)",
+      "## KYRGYZSTAN: ADVENTURE WITH ROOM FOR FLEXIBILITY",
+      "Kyrgyzstan suits travelers who see the journey between places as part of the holiday. Lakes, high pastures and mountain communities offer a different kind of trip from Central Asia’s monumental cities. The price of a room may be modest, but reaching a remote valley is another matter.",
+      "Three experiences: use Karakol as a gateway for guided mountain walks; stay in a seasonal yurt camp around Song-Köl; spend time beside Issyk-Kul rather than attempting to circle it in a hurry.",
+      "### Plan the trip",
+      "When: July through September is the main window for many high-pasture and trekking trips, with snow possible outside reliable summer access. Style: budget to mid-range adventure. Allow approximately $50–85 daily for guesthouses and shared transport; multi-day guiding, horses and remote transfers need a separate quote. Best for hiking, horse trekking and flexible travelers.",
+      "Know before going: route difficulty, altitude and evacuation arrangements matter more than an appealing photograph. Choose guides and insurance for the actual activity. Ask whether a route needs a border-zone permit, and confirm current visa eligibility rather than relying on an old country list.",
+      "[Destination background](https://www.visitkyrgyzstan.org/plan-your-trip/) · [Budget benchmark](https://kgnomad.com/blog/kyrgyzstan-budget-breakdown/) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/kyrgyzstan/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/kyrgyzstan)",
+      "## ARMENIA: MONASTERIES, FOOD AND MOUNTAIN DAYS",
+      "Armenia makes a strong choice for travelers who want cultural depth without changing hotels every night. Yerevan provides an accessible starting point, but monasteries, forest walks and village food give the journey its range. The country’s history is better approached through several places than one sweeping origin story.",
+      "Three experiences: explore Yerevan’s museums and food scene; combine Garni and Geghard on a considered day trip; stay around Dilijan for forest walks and nearby monasteries.",
+      "### Plan the trip",
+      "When: May, June, September and October for a varied cultural itinerary; summer can be hot in Yerevan. Style: budget to mid-range. Allow approximately $55–90 daily, increasing the allowance for repeated private-driver days. Best for history, food, photography and shorter walking trips.",
+      "Know before going: do not improvise an eastern-border road trip. Current FCDO advice warns against travel within 5km of the eastern Azerbaijan border and on the M16/H26 between Ijevan and Noyemberyan. Check the actual route with your driver, not just the destination name.",
+      "[Destination background](https://armenia.travel/articles/the-perfect-7-day-itinerary-for-first-time-visitors/) · [Budget benchmark](https://armeniaguidebook.com/planning/armenia-travel-budget/) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/armenia/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/armenia)",
+      "## LAOS: MAKE SLOW TRAVEL A CHOICE",
+      "Laos rewards time by rivers, in historic towns and in rural landscapes. It is not merely a gap between neighboring countries. Nor should slow travel be mistaken for effortless transport: the railway has changed some journeys, while roads and last-mile transfers still shape others.",
+      "Three experiences: spend several days in Luang Prabang, respecting temples and religious activities; walk around Nong Khiaw with local route advice; explore Wat Phou and the countryside near Champasak.",
+      "### Plan the trip",
+      "When: November through February is usually a useful dry-season window. Later dry-season heat and smoke can affect northern travel; the rainy season brings different transport conditions. Style: budget to mid-range. Allow approximately $30–55 daily in simple accommodation, adding major rail journeys and guided excursions separately. Best for culture, river landscapes and travelers comfortable with a slower pace.",
+      "Know before going: unexploded ordnance makes leaving established paths dangerous in affected areas. Current guidance also flags Xaisomboun Province and complications around some southern border routes. Check which crossing accepts your visa or e-visa; not all entry points operate identically.",
+      "[Destination background](https://www.tourismlaos.org/northern-provinces/louangphabang-province/) · [Budget benchmark](https://www.budgetyourtrip.com/laos) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/laos/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/laos)",
+      "## GUATEMALA: LIVING MAYA CULTURES AND DRAMATIC LANDSCAPES",
+      "Guatemala offers more than ruins or volcano photographs. Its strongest journeys connect historic cities, living Maya communities and the forested north while recognizing that these are distinct regions. Ask before photographing people and choose locally led visits that respect community life.",
+      "Three experiences: explore Antigua’s streets and architecture; choose a Lake Atitlán base and visit surrounding communities thoughtfully; give Tikal a full visit with a knowledgeable guide rather than treating it as a quick photo stop.",
+      "### Plan the trip",
+      "When: November through April is broadly the drier season, although conditions vary by elevation and region. Style: budget to mid-range. Allow approximately $55–90 daily, with internal flights, specialist hikes and private transfers extra. Best for culture, archaeology, language study and active travel.",
+      "Know before going: use reputable transport and check the security situation for your exact route. FCDO warnings cover specified areas near the Mexican border. Travel between the highlands and Tikal takes real time, so a short holiday may be better with fewer bases. Complete the required immigration declaration through the official system.",
+      "[Destination background](https://whc.unesco.org/en/list/64/) · [Budget benchmark](https://www.budgetyourtrip.com/guatemala) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/guatemala/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/guatemala)",
+      "## TUNISIA: MUCH MORE THAN A RESORT HOLIDAY",
+      "Tunisia has a substantial tourism industry, but its city life and archaeological depth deserve attention beyond the beach-package image. A northern and eastern cultural route can connect Punic, Roman and later urban histories without pretending they belong to one unchanged civilization.",
+      "Three experiences: explore Tunis’s medina; visit the dispersed remains of Carthage with enough time to understand their different periods; stand inside El Jem’s amphitheater. Our [history of Carthage](/articles/carthage-hannibal-punic-wars-tunisia-history/) provides useful context before visiting.",
+      "### Plan the trip",
+      "When: April, May, September and October generally suit sightseeing better than the hottest summer weeks. Style: budget to mid-range, with luxury resort options. Allow approximately $75–125 daily for a shared-room cultural itinerary. This is a component-based allowance informed by hotel-price data, with room for meals, local transport and admissions; private archaeological tours cost extra. Best for history, food and combining culture with the coast.",
+      "Know before going: do not extend a cultural itinerary into restricted border or military areas without checking the warning map. Current advice excludes parts of western and southern Tunisia. Keep accommodation evidence for entry and budget for the applicable hotel tax.",
+      "[Destination background](https://www.discovertunisia.com/uk/en/node/305) · [Budget benchmark](https://www.budgetyourtrip.com/hotels/tunisia-TN) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/tunisia/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/tunisia)",
+      "## NORTH MACEDONIA: A LAKE HOLIDAY WITH HISTORICAL DEPTH",
+      "North Macedonia works especially well for travelers who want a smaller, less hurried Balkan itinerary. Lake Ohrid is the obvious anchor, but the capital and surrounding landscapes make a worthwhile contrast. The appeal is time to explore, not a promise that every attraction is empty.",
+      "Three experiences: walk Ohrid’s old town and lakeshore; explore Skopje’s Old Bazaar; take a carefully planned day trip to Matka Canyon, checking boat and walking options locally.",
+      "### Plan the trip",
+      "When: May, June and September offer a useful balance for towns and lake travel. July and August suit swimming but bring heat and more visitors. Style: budget to mid-range. Allow approximately $75–130 daily; simple guesthouses and buses can bring costs below that range. Best for history, lakes, food and a relaxed first Balkan trip.",
+      "Know before going: confirm that your accommodation registers your stay. The country is outside Schengen, so its entry rules are separate. Ohrid’s old streets and steps can be difficult with limited mobility; check the actual approach to a hotel rather than its distance from the waterfront.",
+      "[Destination background](https://whc.unesco.org/en/list/99/) · [Budget benchmark](https://www.budgetyourtrip.com/north-macedonia) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/north-macedonia/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/north-macedonia)",
+      "## MALAYSIA: LOOK BEYOND THE STOPOVER",
+      "Malaysia is a major destination, not an obscure discovery. Its place here is about underappreciated variety: food-focused city stays, smaller heritage centers and journeys into Borneo deserve more than an airport connection and one skyline photograph.",
+      "Three experiences: explore George Town in Penang through its streets and food; spend time in Ipoh’s old town and cave-temple surroundings; use Kuching as a base for a separately planned Sarawak nature and culture trip.",
+      "### Plan the trip",
+      "When: December through February can work well for Penang and the west coast; Sarawak often suits a different, broadly drier April-to-September window. There is no single ideal season for the whole country. Style: budget through luxury. Allow approximately $70–120 daily for an independent city itinerary; Borneo flights, park excursions and guides require extra money. Best for food, cultural variety and travelers combining urban comfort with nature.",
+      "Know before going: check Malaysia Digital Arrival Card requirements and exemptions. Sarawak and Sabah have immigration procedures even on journeys from Peninsular Malaysia. Current warnings also cover certain eastern Sabah islands and dive sites, so a general recommendation for Malaysia is not an endorsement of every offshore excursion.",
+      "[Destination background](https://ebrochures.malaysia.travel/destination-guide/) · [Budget benchmark](https://www.budgetyourtrip.com/malaysia) · [Entry requirements](https://www.gov.uk/foreign-travel-advice/malaysia/entry-requirements) · [Current travel guidance](https://www.gov.uk/foreign-travel-advice/malaysia)",
+      "## BEST FOR NATURE",
+      "Choose Namibia for desert landscapes and wildlife if you have the time and budget for long distances. Choose Slovenia for a more compact combination of lakes and Alpine valleys. Montenegro rewards travelers who leave the coast for Durmitor and Lake Skadar. Nature travel is not automatically low-impact: stay on permitted routes, use established camps and choose wildlife operators that keep their distance.",
+      "## BEST FOR HISTORY AND CULTURE",
+      "Uzbekistan is a strong choice for monumental architecture connected by rail. Armenia suits travelers interested in monasteries, museums and the relationship between landscape and historical memory. Tunisia brings exceptional archaeological depth, while Guatemala combines major Maya sites with living communities. A local guide can add more value here than an additional hotel star.",
+      "## BEST VALUE",
+      "Laos, Georgia and Uzbekistan can offer good value when you use ordinary accommodation and shared transport. Value changes once private transfers, remote excursions or frequent hotel changes enter the plan. Compare the complete route, not just the cheapest advertised bed. North Macedonia can also reward a slower stay, while Uruguay and Namibia should not be chosen on an assumption that being less familiar means being cheaper.",
+      "## BEST FOR ADVENTURE",
+      "Kyrgyzstan is the clearest fit for a mountain-focused journey with flexibility built in. Georgia and Albania offer routes ranging from accessible day walks to demanding multi-day travel. Pick the activity before buying insurance, then check the policy covers its altitude, remoteness and equipment requirements. A trail being popular on social media says nothing about your ability to complete it safely.",
+      "## BEST FOR ROAD TRIPS",
+      "Slovenia suits shorter distances and varied bases; Uruguay suits a slower city-and-coast itinerary; Namibia rewards a longer, carefully supplied self-drive journey. Montenegro’s scenery comes with winding roads and seasonal congestion. Oman has strong long-term road-trip appeal, but current regional conditions must take priority over any route recommendation. Do not use these very different destinations as interchangeable versions of the same holiday.",
+      "## CHOOSE A JOURNEY, NOT JUST A COUNTRY",
+      "Start with one anchor experience, then choose the season and work outward. A week based around Ohrid is a different proposition from a week trying to combine every Balkan country. A city-and-rail holiday in Uzbekistan needs a different budget from a guided mountain crossing in Kyrgyzstan. If access needs matter, ask hotels and operators for specific photographs, step counts and transfer details.",
+      "For more destination inspiration, see our [hidden-gems travel guide](/articles/top-10-hidden-gems-to-visit-in-2026/). Then return to the practical questions: what does your passport allow, what does the full route cost, and how much time will you actually spend enjoying it?",
+      "The most underrated destination is not necessarily the one with the fewest visitors. It may be the place where your interests, the season and a realistic plan meet. Travel slowly enough to notice what is there, spend with local businesses where possible, and leave room for experiences that were never on a list."
+    ],
+    "references": [
+      {
+        "name": "Georgia: destination background",
+        "url": "https://georgia.travel/regions/kakheti"
+      },
+      {
+        "name": "Georgia: cost benchmark",
+        "url": "https://www.budgetyourtrip.com/georgia"
+      },
+      {
+        "name": "FCDO: Georgia travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/georgia"
+      },
+      {
+        "name": "Albania: destination background",
+        "url": "https://albania.al/wp-content/uploads/2019/08/DISCOVER-ALBANIA-compressed.pdf"
+      },
+      {
+        "name": "Albania: cost benchmark",
+        "url": "https://albaniatravel.org/plan-your-trip/how-much-does-albania-cost/"
+      },
+      {
+        "name": "FCDO: Albania travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/albania"
+      },
+      {
+        "name": "Uzbekistan: destination background",
+        "url": "https://uzbekistan.travel/en/architecture/"
+      },
+      {
+        "name": "Uzbekistan: cost benchmark",
+        "url": "https://www.lonelyplanet.com/articles/uzbekistan-on-a-budget"
+      },
+      {
+        "name": "FCDO: Uzbekistan travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/uzbekistan"
+      },
+      {
+        "name": "Oman: destination background",
+        "url": "https://experienceoman.om/en/destinations/muscat"
+      },
+      {
+        "name": "Oman: cost benchmark",
+        "url": "https://www.roughguides.com/oman/how-to-plan-a-trip/"
+      },
+      {
+        "name": "FCDO: Oman travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/oman"
+      },
+      {
+        "name": "Slovenia: destination background",
+        "url": "https://www.slovenia.info/en/places-to-go/regions/alpine-slovenia/bohinj"
+      },
+      {
+        "name": "Slovenia: cost benchmark",
+        "url": "https://www.budgetyourtrip.com/slovenia"
+      },
+      {
+        "name": "FCDO: Slovenia travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/slovenia"
+      },
+      {
+        "name": "Namibia: destination background",
+        "url": "https://visitnamibia.com.na/national-parks/"
+      },
+      {
+        "name": "Namibia: cost benchmark",
+        "url": "https://www.staysinnamibia.com/namibia-trip-cost"
+      },
+      {
+        "name": "FCDO: Namibia travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/namibia"
+      },
+      {
+        "name": "Uruguay: destination background",
+        "url": "https://uruguaynatural.com/en/experiencias/"
+      },
+      {
+        "name": "Uruguay: cost benchmark",
+        "url": "https://www.budgetyourtrip.com/uruguay"
+      },
+      {
+        "name": "FCDO: Uruguay travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/uruguay"
+      },
+      {
+        "name": "Montenegro: destination background",
+        "url": "https://www.montenegro.travel/en/unique-montenegro/national-parks-of-montenegro"
+      },
+      {
+        "name": "Montenegro: cost benchmark",
+        "url": "https://www.budgetyourtrip.com/montenegro"
+      },
+      {
+        "name": "FCDO: Montenegro travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/montenegro"
+      },
+      {
+        "name": "Kyrgyzstan: destination background",
+        "url": "https://www.visitkyrgyzstan.org/plan-your-trip/"
+      },
+      {
+        "name": "Kyrgyzstan: cost benchmark",
+        "url": "https://kgnomad.com/blog/kyrgyzstan-budget-breakdown/"
+      },
+      {
+        "name": "FCDO: Kyrgyzstan travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan"
+      },
+      {
+        "name": "Armenia: destination background",
+        "url": "https://armenia.travel/articles/the-perfect-7-day-itinerary-for-first-time-visitors/"
+      },
+      {
+        "name": "Armenia: cost benchmark",
+        "url": "https://armeniaguidebook.com/planning/armenia-travel-budget/"
+      },
+      {
+        "name": "FCDO: Armenia travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/armenia"
+      },
+      {
+        "name": "Laos: destination background",
+        "url": "https://www.tourismlaos.org/northern-provinces/louangphabang-province/"
+      },
+      {
+        "name": "Laos: cost benchmark",
+        "url": "https://www.budgetyourtrip.com/laos"
+      },
+      {
+        "name": "FCDO: Laos travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/laos"
+      },
+      {
+        "name": "Guatemala: destination background",
+        "url": "https://whc.unesco.org/en/list/64/"
+      },
+      {
+        "name": "Guatemala: cost benchmark",
+        "url": "https://www.budgetyourtrip.com/guatemala"
+      },
+      {
+        "name": "FCDO: Guatemala travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/guatemala"
+      },
+      {
+        "name": "Tunisia: destination background",
+        "url": "https://www.discovertunisia.com/uk/en/node/305"
+      },
+      {
+        "name": "Tunisia: cost benchmark",
+        "url": "https://www.budgetyourtrip.com/hotels/tunisia-TN"
+      },
+      {
+        "name": "FCDO: Tunisia travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/tunisia"
+      },
+      {
+        "name": "North Macedonia: destination background",
+        "url": "https://whc.unesco.org/en/list/99/"
+      },
+      {
+        "name": "North Macedonia: cost benchmark",
+        "url": "https://www.budgetyourtrip.com/north-macedonia"
+      },
+      {
+        "name": "FCDO: North Macedonia travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/north-macedonia"
+      },
+      {
+        "name": "Malaysia: destination background",
+        "url": "https://ebrochures.malaysia.travel/destination-guide/"
+      },
+      {
+        "name": "Malaysia: cost benchmark",
+        "url": "https://www.budgetyourtrip.com/malaysia"
+      },
+      {
+        "name": "FCDO: Malaysia travel and entry guidance",
+        "url": "https://www.gov.uk/foreign-travel-advice/malaysia"
+      }
+    ]
+  },
+  {
     "id": "100",
     "slug": "carthage-hannibal-punic-wars-tunisia-history",
     "title": "CARTHAGE: THE EMPIRE THAT ALMOST BROUGHT ROME TO ITS KNEES",
