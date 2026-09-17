@@ -1,7 +1,11 @@
 import type { Article } from "@/data/articles";
 
+// Developing lead also appears in Latest Stories while prominently featured.
+export const developingLeadSlug = "naza-documentary-israel-filmmakers-citizenship-controversy";
+
 // Editorial selections, separate from article metadata and publication dates.
 export const featuredHeroSlugs = [
+  developingLeadSlug,
   "ancient-egypt-pharaohs-nile-3000-years-history",
   "house-music-brain-rhythm-128-bpm-science-dancing",
   "muhammad-ali-fighter-bigger-than-boxing",
@@ -10,7 +14,6 @@ export const featuredHeroSlugs = [
   "history-of-perfume-scent-beauty-power-luxury",
   "mali-empire-mansa-musa-gold-pilgrimage-history",
   "alzheimers-disease-brain-memory-loss",
-  "dubai-future-cities-rise-above-the-desert",
   "diego-maradona-genius-napoli-life-death-legacy",
   "keanu-reeves-kindness-powerful",
   "top-10-hidden-gems-to-visit-in-2026"

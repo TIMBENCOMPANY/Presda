@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { HomeReferenceExperience } from "@/components/HomeReferenceExperience";
 import { getPublishedArticles } from "@/data/articles";
 import { createPageMetadata } from "@/lib/seo";
-import { curateLatestStories, featuredHeroSlugs } from "@/lib/homeCuration";
+import { curateLatestStories, developingLeadSlug, featuredHeroSlugs } from "@/lib/homeCuration";
 
 // Keep the homepage cached; refresh its daily edition without a deployment.
 export const revalidate = 3600;
@@ -29,7 +29,9 @@ export default function HomePage() {
   const editorialPicks = editorialPickSlugs
     .map((slug) => articlesBySlug.get(slug))
     .filter((article): article is NonNullable<typeof article> => Boolean(article));
-  const visibleSlugs = new Set([...featured, ...editorialPicks].map((article) => article.slug));
+  const visibleSlugs = new Set([...featured, ...editorialPicks]
+    .filter((article) => article.slug !== developingLeadSlug)
+    .map((article) => article.slug));
   const moreStories = curateLatestStories(articles, visibleSlugs, new Date(), moreStoriesCount);
 
   return <HomeReferenceExperience slides={featured} editorialPicks={editorialPicks} moreStories={moreStories} />;

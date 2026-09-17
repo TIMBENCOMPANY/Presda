@@ -9,7 +9,7 @@ const compiled = ts.transpileModule(source, {
 }).outputText;
 const context = { exports: {} };
 vm.runInNewContext(compiled, context);
-const { curateLatestStories, featuredHeroSlugs, evergreenStorySlugs } = context.exports;
+const { curateLatestStories, developingLeadSlug, featuredHeroSlugs, evergreenStorySlugs } = context.exports;
 // The catalogue is a static object array. No application runtime is needed.
 const data = fs.readFileSync('src/data/articles.ts', 'utf8');
 const articles = vm.runInNewContext(data.split('export const articles: Article[] = ')[1]
@@ -17,6 +17,8 @@ const articles = vm.runInNewContext(data.split('export const articles: Article[]
 const bySlug = new Map(articles.map(a => [a.slug, a]));
 assert.equal(featuredHeroSlugs.length, 12);
 assert.equal(new Set(featuredHeroSlugs).size, 12);
+assert.equal(featuredHeroSlugs[0], developingLeadSlug);
+assert(!featuredHeroSlugs.includes('dubai-future-cities-rise-above-the-desert'));
 for (const slug of [...featuredHeroSlugs, ...evergreenStorySlugs]) assert(bySlug.has(slug), `Missing curation target: ${slug}`);
 const featured = featuredHeroSlugs.map(slug => bySlug.get(slug));
 const featuredCounts = Object.fromEntries([...new Set(featured.map(a => a.category))]
@@ -24,6 +26,7 @@ const featuredCounts = Object.fromEntries([...new Set(featured.map(a => a.catego
 assert.equal(Object.keys(featuredCounts).length, 9);
 assert(Math.max(...Object.values(featuredCounts)) <= 2);
 const excluded = new Set([...featuredHeroSlugs, 'avicii-life-music-death-tim-bergling', 'galileo-and-the-church', 'anti-aging-can-we-slow-down-human-aging']);
+excluded.delete(developingLeadSlug);
 const eligible = articles.filter(a => !excluded.has(a.slug)).sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
 const recent = new Set(eligible.slice(0, 24).map(a => a.slug));
 const evergreen = new Set(evergreenStorySlugs);

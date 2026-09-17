@@ -54,6 +54,161 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "099",
+    "slug": "naza-documentary-israel-filmmakers-citizenship-controversy",
+    "title": "NAZA: WHY ISRAELI LEADERS WANT TO PUNISH THE FILMMAKERS BEHIND THE GAZA DOCUMENTARY",
+    "seoTitle": "NAZA Controversy: Gaza Film, IDF Response and Citizenship Threats",
+    "metaDescription": "What NAZA alleges, why Israeli leaders want action against its filmmakers, and what Netanyahu’s proposed citizenship laws would mean. Facts and responses.",
+    "schemaType": "NewsArticle",
+    "headlineHighlights": {
+      "red": "NAZA",
+      "gold": "GAZA DOCUMENTARY"
+    },
+    "excerpt": "A Venice-winning Gaza documentary has become a dispute over military accountability, free expression and citizenship. What is confirmed, what is alleged and what Israeli leaders are proposing.",
+    "category": "World",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/naza-israel-film-documentary-war-palestine.webp",
+    "coverAlt": "Editorial mural illustration of NAZA filmmakers Yuval Abraham and Rachel Szor with hostile graffiti; not an arrest photograph or a verified documentary scene",
+    "homepageImagePosition": "50% 45%",
+    "readingTime": "9 min read",
+    "tags": [
+      "NAZA",
+      "Gaza documentary",
+      "Yuval Abraham",
+      "Rachel Szor",
+      "Venice Film Festival 2026",
+      "Israel citizenship",
+      "IDF response",
+      "Benjamin Netanyahu"
+    ],
+    "content": [
+      "Developing story. Reporting checked on September 17, 2026. This article distinguishes verified events, testimony, official responses and proposals. Yuval Abraham and Rachel Szor’s Israeli citizenship has NOT been revoked in the reporting reviewed for this publication.",
+      "NAZA arrived in Venice as a documentary about the conduct of Israel’s war in Gaza. Within days, the argument had expanded to whether the Israeli filmmakers behind it should face legal action or lose their citizenship. On September 16, Prime Minister Benjamin Netanyahu promised legislation targeting people who defame Israeli soldiers. [Reuters: Netanyahu’s proposed measures](https://www.marketscreener.com/news/netanyahu-steps-up-threats-against-directors-of-gaza-documentary-naza-ce785bd2d18ef221)",
+      "There are two questions here, and neither answers the other. Are the film’s allegations supported by evidence? And what limits should a state place on citizens who publish allegations against its armed forces? A festival prize does not establish a legal finding. An official condemnation does not, by itself, disprove testimony.",
+      "Image note: the hero is an editorial illustration/reconstruction of hostile mural imagery. The painted accusations, targeting symbols and placards are not PRESDA’s characterization of the filmmakers, evidence of criminal guilt, or documentation of their arrest. It is not presented as an authenticated photograph of a particular mural.",
+      "## THE CONTROVERSY AT A GLANCE",
+      "FACT: NAZA is an 80-minute film directed by Yuval Abraham and Rachel Szor, with production credited to The Guardian and JW Films. Venice lists it as a UK production in Hebrew and English. Its Special Jury Prize is confirmed by the festival’s official awards record. [Venice: film credits](https://www.labiennale.org/en/cinema/2026/venezia-83-competition/naza); [Venice: official awards](https://www.labiennale.org/en/news/official-awards-83rd-venice-international-film-festival)",
+      "ALLEGATION: anonymous interviewees describe targeting practices in Gaza that they say knowingly exposed civilians to lethal harm. PRESDA has not independently verified their identities, operational accounts or the film’s underlying evidence.",
+      "OFFICIAL RESPONSE: the Israel Defense Forces rejects the allegations, disputes the sources’ authority and says people, rather than artificial intelligence, select and approve strikes.",
+      "PROPOSED ACTION: political leaders have called for punishment and changes to the law. Those calls must not be confused with a conviction, enacted legislation or a completed citizenship-revocation process.",
+      "## WHAT DOES “NAZA” MEAN?",
+      "The title refers to the Hebrew military shorthand derived from nezek agavi, meaning collateral damage. In reporting about the documentary, the term describes estimates of civilians expected to be killed in an attack. The filmmakers use this bureaucratic vocabulary to focus attention on the people represented by a targeting calculation. [Euronews: the title and controversy](https://www.euronews.com/culture/2026/09/14/israeli-minister-threatens-to-strip-israeli-directors-of-citizenship-over-venice-winning-g)",
+      "The name alone tells us nothing about whether a particular strike was lawful or how accurately a civilian-harm estimate was calculated. Those questions require evidence about the target, the information available to decision-makers and the action actually taken. Treating a technical term as proof of a crime would skip that investigation.",
+      "## WHO ARE YUVAL ABRAHAM AND RACHEL SZOR?",
+      "Abraham and Szor are Israeli journalists and filmmakers. They were two of the four co-directors of No Other Land, which won the documentary Oscar in 2025. Venice announced NAZA’s addition to its main competition on August 24 and scheduled its public premiere for September 10, 2026. The earlier film’s recognition explains part of the attention surrounding their new work, but does not independently validate it. [Venice: announcement and filmmakers’ background](https://www.labiennale.org/en/news/new-film-has-been-added-program-83rd-venice-film-festival)",
+      "The directors’ statement published by Venice describes a responsibility to examine their own country’s actions. It also says material developed during the investigation had already appeared through The Guardian, +972 Magazine and Local Call. This is the filmmakers’ account of their purpose and reporting process, not a neutral festival adjudication of every allegation. [Venice: directors’ statement](https://www.labiennale.org/en/cinema/2026/venezia-83-competition/naza)",
+      "At their September 10 press conference, recorded by Reuters, Abraham said their Israeli identities helped them obtain insider accounts. Szor emphasized that Palestinian journalists had already documented much of the suffering; she argued that hearing people describe systems they had operated added another perspective. Their stated aim was to make denial harder and prompt scrutiny, not simply to collect dramatic quotations. [Reuters: the filmmakers explain their purpose](https://www.reutersconnect.com/item/israeli-directors-hope-venice-film-on-gaza-civilian-toll-will-make-denial-harder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBMTcxNzEwMDkyMDI2UlAx)",
+      "## WHAT DOES THE FILM ACTUALLY ALLEGE?",
+      "According to AP’s premiere reporting, the film draws on 24 Israeli military insiders, including intelligence personnel and soldiers. It was filmed secretly on Tel Aviv rooftops, with voices and appearances altered to conceal identities. Interviewees describe surveillance and AI-assisted identification of potential Hamas targets, alleging that homes were attacked despite knowledge that families were inside. These are accounts attributed to participants, not findings independently established by PRESDA. [AP: reporting from the premiere](https://apnews.com/article/0bfc5f6b2ac5e6cb31728c4a9e776995)",
+      "### Targeting, civilian harm and responsibility",
+      "Reuters summarizes the central allegation as civilian deaths being routinely anticipated within targeting decisions, a characterization Netanyahu and the military reject. The dispute therefore concerns policy and decision-making, not only whether civilians died. [Reuters: the central dispute](https://www.marketscreener.com/news/netanyahu-steps-up-threats-against-directors-of-gaza-documentary-naza-ce785bd2d18ef221)",
+      "At Venice, Abraham described the film as an examination of the relationship between surveillance and killing. He said interviewees were asked to explain their own actions and describe how systems worked. That emphasis matters: an account of personal participation can be valuable evidence, while a speaker’s conclusions about the entire military require additional corroboration. [Reuters: questions put to the interviewees](https://www.reutersconnect.com/item/israeli-directors-hope-venice-film-on-gaza-civilian-toll-will-make-denial-harder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBMTcxNzEwMDkyMDI2UlAx)",
+      "### What anonymity does and does not establish",
+      "Confidentiality can protect sources discussing sensitive conduct. It also prevents audiences from independently checking a speaker’s role, access and first-hand knowledge. Neither anonymity nor disclosure automatically settles credibility. Relevant checks include records, dates, corroborating witnesses and whether testimony distinguishes direct observation from inference.",
+      "PRESDA has not reviewed the complete film or its confidential source files. This account reports the documentary’s stated claims and the responses to them. It does not certify each incident, casualty estimate or characterization of intent. We are not using an aggregate Gaza death toll as proof of any individual targeting allegation. For separate humanitarian context, see our coverage of [Gaza’s aid, food, water and healthcare crisis](/articles/palestine-a-humanitarian-crisis-the-world-cannot-ignore/).",
+      "## WHAT DOES THE IDF SAY?",
+      "In its September 11 statement, the IDF rejected the allegations. It questioned whether the anonymous sources’ identities, service histories and involvement could be verified, and argued that some claims about national strategy exceeded the knowledge of junior personnel. It also challenged the film’s use of legal terminology. [IDF: official response](https://www.idf.il/en/mini-sites/israel-hamas-war-gaza/articles-israel-hamas-war-gaza/distributions-swords-of-iron-war-gaza/the-idf-spokesperson-s-response-following-the-publication-of-the-movie-naza/)",
+      "The military says its operations target armed organizations, principally Hamas, under the laws of armed conflict, and that it takes measures to reduce civilian harm. On AI, it says human personnel make targeting and strike-approval decisions. This is the IDF’s position, not an independent resolution of the dispute. Human approval and AI assistance are not mutually exclusive concepts; the contested issue includes how information is generated, checked and acted upon. [IDF: civilian-harm and AI statements](https://www.idf.il/en/mini-sites/israel-hamas-war-gaza/articles-israel-hamas-war-gaza/distributions-swords-of-iron-war-gaza/the-idf-spokesperson-s-response-following-the-publication-of-the-movie-naza/)",
+      "On September 14, spokesperson Brigadier General Effie Defrin asked the filmmakers to let IDF representatives watch the full documentary so they could respond to its claims substantively. His remarks acknowledged that his criticism was based on material then available, including the trailer. The Times of Israel also reported Chief of Staff Eyal Zamir saying he had not watched the film. [The Times of Israel: request to view the complete film](https://www.timesofisrael.com/idf-chief-floats-legal-action-against-naza-film-orders-probe-of-leaked-material/)",
+      "A request for access is not the same as a completed point-by-point rebuttal. Conversely, an initial response based on excerpts does not establish that the film’s claims are correct. The relevant next evidence would be a full response tied to specific allegations, together with whatever corroboration the filmmakers can responsibly publish.",
+      "## FROM CONDEMNATION TO PROPOSED PUNISHMENT",
+      "Culture Minister Miki Zohar called on September 13 for the directors to lose their citizenship, portraying the film as a betrayal. Netanyahu subsequently condemned it; Reuters recorded his September 14 description of it as “shocking incitement.” These are political accusations attributed to their speakers, not PRESDA’s findings about the filmmakers. [Euronews: Zohar’s intervention](https://www.euronews.com/culture/2026/09/14/israeli-minister-threatens-to-strip-israeli-directors-of-citizenship-over-venice-winning-g); [Reuters: Netanyahu’s condemnation](https://www.reutersconnect.com/collection/netanyahu-says-gaza-documentary-naza-is-shocking-incitement/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBMjcwMTE0MDkyMDI2UlAx)",
+      "Zamir instructed the military’s legal leadership to examine possible action concerning the film and those involved. He separately ordered examination of suspected disclosure of classified material. The distinction matters: a proposed defamation action and an inquiry into a possible leak concern different questions. An instruction to examine a case is not a finding of guilt. [The Times of Israel: legal and information-security inquiries](https://www.timesofisrael.com/idf-chief-floats-legal-action-against-naza-film-orders-probe-of-leaked-material/)",
+      "On September 16, Netanyahu said he would advance two bills: one concerning citizenship withdrawal for defaming soldiers, and another multiplying statutory defamation damages by 20. Reuters reported these as promised measures. Their eventual text, legislative progress and application cannot be assumed from the announcement. [Reuters: two proposed bills](https://www.marketscreener.com/news/netanyahu-steps-up-threats-against-directors-of-gaza-documentary-naza-ce785bd2d18ef221)",
+      "## CAN ISRAEL ACTUALLY STRIP THEIR CITIZENSHIP?",
+      "As of this article’s reporting check, Abraham and Szor have not been stripped of citizenship. A minister’s demand does not itself alter their nationality. Nor should the existence of a citizenship-revocation power be confused with a general power to remove citizenship for criticizing the military.",
+      "Israel already has legislation allowing revocation in specified circumstances. In its account of the 2022 Supreme Court ruling, Adalah, a legal-rights organization involved in the litigation, explains that Article 11(b)(2) permits an interior-minister application to the judiciary over a legally defined breach of loyalty. The court described its use as exceptional. Adalah opposed the power and should be read as a participant in that legal dispute. [Adalah: explanation of the 2022 ruling](https://www.adalah.org/en/content/view/10693)",
+      "That background is narrower than the claim that a culture minister can cancel someone’s passport because of a documentary. Whether any existing provision could lawfully apply to these filmmakers would require a specific legal basis, evidence and the relevant process. The new measures Netanyahu described must also be distinguished from existing law. This article does not predict how a court would rule on a bill that has not been examined here in final enacted form.",
+      "President Isaac Herzog rejected the citizenship idea as having no prospect while also criticizing the film, according to The Times of Israel. His position illustrates that opposition to NAZA and opposition to stripping its directors’ nationality can coexist. [The Times of Israel: Herzog and the citizenship proposal](https://www.timesofisrael.com/pm-pledges-bill-to-strip-citizenship-from-those-who-smear-idf-abroad-amid-naza-outcry/)",
+      "## WHY THIS FILM HAS BECOME A POLITICAL BATTLE",
+      "Reactions within Israel are not uniform. Euronews reported support from Hadash chair Yousef Jabareen and a supportive Haaretz editorial, alongside ministerial denunciations. These examples demonstrate disagreement, not a survey of Israeli public opinion. [Euronews: contrasting Israeli reactions](https://www.euronews.com/culture/2026/09/14/israeli-minister-threatens-to-strip-israeli-directors-of-citizenship-over-venice-winning-g)",
+      "The Times of Israel reported a protest outside Szor’s parents’ home and, citing Channel 12, concern among Israeli diplomats that the aggressive response was amplifying attention and shifting the debate toward freedom of expression. Those diplomatic assessments are reported views, not a proven account of every official’s motives. [The Times of Israel: domestic backlash and diplomatic concern](https://www.timesofisrael.com/pm-pledges-bill-to-strip-citizenship-from-those-who-smear-idf-abroad-amid-naza-outcry/)",
+      "The Guardian pledged to defend the film and its team. It is a producer, not an independent observer of its own production. [The Guardian: producer statement](https://www.theguardian.com/gnm-press-office/2026/sep/14/a-guardian-statement-on-naza)",
+      "Filmmaker Laura Poitras, a consultant on NAZA, publicly supported the directors. Her involvement is relevant when weighing that endorsement. [The Guardian: film-industry response](https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support)",
+      "Internationally, the Special Jury Prize has given the documentary a prominent platform. But artistic recognition, source verification and legal accountability remain different processes. Neither applause abroad nor anger at home can substitute for examining the underlying evidence.",
+      "The free-expression question is wider than this production. If criticism of soldiers becomes grounds for threatening nationality, journalists, witnesses and audiences need to know what conduct the law covers and what safeguards exist. Defending space for investigation does not mean accepting every allegation. Challenging an allegation does not require treating a filmmaker’s citizenship as conditional on official approval.",
+      "## WHAT TO WATCH NEXT",
+      "The next significant developments would be the publication and legislative status of the proposed bills, any actual court filings, a full military response and additional evidence supporting or contradicting particular testimony. These should be reported separately. A new threat is not a new law; an investigation is not a conviction; a documentary is not a court judgment.",
+      "NAZA’s controversy has become larger than the film because it now concerns who may scrutinize military power, what evidence the public can assess and what consequences governments may seek for that scrutiny. The responsible task is to keep those questions open to evidence, while keeping facts, allegations, official responses and proposed punishment clearly apart.",
+      "## SOURCES AND REPORTING METHOD",
+      "This is a source-based news analysis, not an on-the-ground investigation or a review based on a complete screening. Festival credits and awards were checked against Venice’s records. The military response is linked directly. Reuters and Israeli reporting establish the public statements and proposals; filmmakers’ and producers’ accounts are identified as their own. No new interviews with the parties were conducted by PRESDA. Sources below were reviewed on September 17, 2026."
+    ],
+    "references": [
+      {
+        "name": "Reuters, September 16: proposed citizenship and defamation measures (republished by MarketScreener)",
+        "url": "https://www.marketscreener.com/news/netanyahu-steps-up-threats-against-directors-of-gaza-documentary-naza-ce785bd2d18ef221"
+      },
+      {
+        "name": "La Biennale di Venezia: NAZA credits and directors’ statement",
+        "url": "https://www.labiennale.org/en/cinema/2026/venezia-83-competition/naza"
+      },
+      {
+        "name": "La Biennale di Venezia: competition announcement and premiere",
+        "url": "https://www.labiennale.org/en/news/new-film-has-been-added-program-83rd-venice-film-festival"
+      },
+      {
+        "name": "La Biennale di Venezia: official 2026 awards",
+        "url": "https://www.labiennale.org/en/news/official-awards-83rd-venice-international-film-festival"
+      },
+      {
+        "name": "Reuters, September 10: filmmakers’ Venice press conference",
+        "url": "https://www.reutersconnect.com/item/israeli-directors-hope-venice-film-on-gaza-civilian-toll-will-make-denial-harder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBMTcxNzEwMDkyMDI2UlAx"
+      },
+      {
+        "name": "Reuters, September 14: Netanyahu condemns the documentary",
+        "url": "https://www.reutersconnect.com/collection/netanyahu-says-gaza-documentary-naza-is-shocking-incitement/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBMjcwMTE0MDkyMDI2UlAx"
+      },
+      {
+        "name": "Associated Press, September 10: premiere reporting and anonymous testimony",
+        "url": "https://apnews.com/article/0bfc5f6b2ac5e6cb31728c4a9e776995"
+      },
+      {
+        "name": "IDF, September 11: official response to NAZA",
+        "url": "https://www.idf.il/en/mini-sites/israel-hamas-war-gaza/articles-israel-hamas-war-gaza/distributions-swords-of-iron-war-gaza/the-idf-spokesperson-s-response-following-the-publication-of-the-movie-naza/"
+      },
+      {
+        "name": "The Times of Israel, September 14: military response, full-film request and legal inquiries",
+        "url": "https://www.timesofisrael.com/idf-chief-floats-legal-action-against-naza-film-orders-probe-of-leaked-material/"
+      },
+      {
+        "name": "The Times of Israel, September 17: proposed bills, Herzog and diplomatic reaction",
+        "url": "https://www.timesofisrael.com/pm-pledges-bill-to-strip-citizenship-from-those-who-smear-idf-abroad-amid-naza-outcry/"
+      },
+      {
+        "name": "Euronews, September 14: title meaning and contrasting reactions",
+        "url": "https://www.euronews.com/culture/2026/09/14/israeli-minister-threatens-to-strip-israeli-directors-of-citizenship-over-venice-winning-g"
+      },
+      {
+        "name": "Adalah: participant account of the 2022 citizenship ruling",
+        "url": "https://www.adalah.org/en/content/view/10693"
+      },
+      {
+        "name": "The Guardian, September 14: producer’s statement",
+        "url": "https://www.theguardian.com/gnm-press-office/2026/sep/14/a-guardian-statement-on-naza"
+      },
+      {
+        "name": "The Guardian, September 15: film-industry response",
+        "url": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Have the NAZA filmmakers lost their Israeli citizenship?",
+        "answer": "No. As of the reporting reviewed on September 17, 2026, their citizenship has not been revoked. Political threats and proposed laws are not completed legal action."
+      },
+      {
+        "question": "What prize did NAZA win at Venice?",
+        "answer": "The festival’s official September 12, 2026 awards list gives NAZA the Special Jury Prize. It did not win the Golden Lion."
+      },
+      {
+        "question": "Are the documentary’s claims independently proven here?",
+        "answer": "No. PRESDA reports the film’s allegations with attribution and includes the IDF’s response. We have not independently verified the anonymous interviewees or underlying operational evidence."
+      }
+    ]
+  },
+  {
     "id": "098",
     "slug": "france-history-kings-revolution-empire-republic",
     "title": "FRANCE: FROM KINGS AND REVOLUTION TO EMPIRE AND REPUBLIC",
