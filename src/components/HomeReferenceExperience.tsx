@@ -63,13 +63,13 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
     if (isPaused || slides.length < 2) return;
     let interval: number | null = null;
     const isMobileViewport = window.matchMedia("(max-width: 639px)").matches;
-    const firstDelay = !autoplayStarted.current && isMobileViewport ? 30000 : 6000;
+    const firstDelay = !autoplayStarted.current && isMobileViewport ? 30000 : 4500;
     const timer = window.setTimeout(() => {
       autoplayStarted.current = true;
       setActiveIndex((index) => (index + 1) % slides.length);
       interval = window.setInterval(() => {
         setActiveIndex((index) => (index + 1) % slides.length);
-      }, 6000);
+      }, 4500);
     }, firstDelay);
 
     return () => {

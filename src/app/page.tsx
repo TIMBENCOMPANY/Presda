@@ -2,6 +2,10 @@ import type { Metadata } from "next";
 import { HomeReferenceExperience } from "@/components/HomeReferenceExperience";
 import { getPublishedArticles } from "@/data/articles";
 import { createPageMetadata } from "@/lib/seo";
+import { curateLatestStories, featuredHeroSlugs } from "@/lib/homeCuration";
+
+// Keep the homepage cached; refresh its daily edition without a deployment.
+export const revalidate = 3600;
 
 export const metadata: Metadata = createPageMetadata({
   title: "PRESDA - Your Daily Press",
@@ -9,20 +13,6 @@ export const metadata: Metadata = createPageMetadata({
   path: "/"
 });
 
-const featuredHeroSlugs = [
-  "dinosaurs-rise-fall-fossils-extinction",
-  "how-humans-learned-to-speak",
-  "titanic-what-really-happened",
-  "ancient-greece-civilization-history",
-  "history-of-slavery",
-  "al-andalus-rise-glory-fall-muslim-iberia",
-  "mark-zuckerberg-facebook-meta-story",
-  "carl-sagan-journey-through-our-universe",
-  "charles-darwin-theory-of-evolution",
-  "history-of-the-vikings",
-  "ottoman-empire-rise-and-fall",
-  "history-of-egyptian-pyramids"
-];
 const editorialPickSlugs = [
   "avicii-life-music-death-tim-bergling",
   "galileo-and-the-church",
@@ -40,7 +30,7 @@ export default function HomePage() {
     .map((slug) => articlesBySlug.get(slug))
     .filter((article): article is NonNullable<typeof article> => Boolean(article));
   const visibleSlugs = new Set([...featured, ...editorialPicks].map((article) => article.slug));
-  const moreStories = articles.filter((article) => !visibleSlugs.has(article.slug)).slice(0, moreStoriesCount);
+  const moreStories = curateLatestStories(articles, visibleSlugs, new Date(), moreStoriesCount);
 
   return <HomeReferenceExperience slides={featured} editorialPicks={editorialPicks} moreStories={moreStories} />;
 }
