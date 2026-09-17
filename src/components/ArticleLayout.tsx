@@ -530,7 +530,8 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
     || article.slug === "umayyad-caliphate-damascus-expansion-rise-fall"
     || article.slug === "aztec-empire-tenochtitlan-mexica-rise-fall"
     || article.slug === "japan-samurai-meiji-restoration-modern-empire-history"
-    || article.slug === "ancient-egypt-pharaohs-nile-3000-years-history";
+    || article.slug === "ancient-egypt-pharaohs-nile-3000-years-history"
+    || article.slug === "france-history-kings-revolution-empire-republic";
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition

@@ -54,6 +54,301 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "098",
+    "slug": "france-history-kings-revolution-empire-republic",
+    "title": "FRANCE: FROM KINGS AND REVOLUTION TO EMPIRE AND REPUBLIC",
+    "seoTitle": "History of France: Kings, Revolution, Empire and Republic",
+    "metaDescription": "Explore France from the Franks and Versailles to revolution, Napoleon, colonial empire, world wars and the five republics that shaped the modern state.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "FRANCE",
+      "gold": "EMPIRE AND REPUBLIC"
+    },
+    "excerpt": "How royal power, revolution, Napoleon, colonial expansion and five republics transformed France, and why its history was never one uninterrupted political order.",
+    "category": "History",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/french-empire-versailles-royal-court.webp",
+    "coverAlt": "Editorial historical reconstruction of royal France at Versailles, showing a symbolic court gathering rather than a documented ceremony or specific rulers",
+    "homepageImagePosition": "80% 0%",
+    "content": [
+      "At Versailles, power could be measured in distance: who stood close to the king, who entered a room, who waited outside. A century after Louis XIV made the palace his seat of government, representatives meeting nearby would challenge the foundations of royal authority. The setting endured. The meaning of sovereignty changed.",
+      "France’s history is a succession of such transformations. Roman provinces became Frankish kingdoms; a relatively weak medieval monarchy became a formidable European state; revolution produced a republic and then an emperor. More monarchies, another empire and further republics followed. Modern France inherited institutions from these different orders without being identical to any of them.",
+      "Image note: the supplied hero is an editorial historical reconstruction of royal France. Its figures, architecture, uniforms and banners form a symbolic composition, not a documented court ceremony or a portrait of specific rulers.",
+      "## HOW DID FRANCE BECOME A KINGDOM?",
+      "### Roman Gaul and the Franks",
+      "Before France, there were the diverse peoples and territories that Romans called Gaul. Roman expansion, including Julius Caesar’s campaigns from 58 BCE, brought much of this region into an imperial system of cities, roads, taxation and provincial government. Conquest was violent, and later cultural integration did not turn the inhabitants into the citizens of an already existing French nation. [Ministry of Culture: Caesar and Gaul](https://archeologie.culture.gouv.fr/villa/fr/glossary/jules-cesar)",
+      "As western Roman imperial authority weakened, Frankish rulers expanded their power while working with surviving Roman elites and Christian institutions. Clovis, who died in 511, consolidated a powerful Merovingian kingdom and adopted Catholic Christianity. His baptism became central to later royal memory, but its precise date is debated; the familiar date of 496 should not be treated as certain.",
+      "Merovingian lands were repeatedly divided and reunited among royal heirs. The kingdom was a changing political arrangement, not modern France with different clothing. Relationships among warriors, aristocrats, bishops and kings mattered more than a uniform national administration. [The Met: the Merovingian and early Carolingian world](https://resources.metmuseum.org/resources/metpublications/pdf/Migration_Art_AD_300_800.pdf)",
+      "### Charlemagne and the Carolingian inheritance",
+      "The Carolingians displaced the Merovingians in the eighth century. Charlemagne expanded Frankish rule across much of western and central Europe and was crowned emperor in Rome in 800. His court supported learning, religious reform and administrative coordination, alongside sustained warfare and coercion. His empire belongs to the histories of several European countries, not exclusively to France.",
+      "The partition at Verdun in 843 helped establish a western Frankish kingdom, but it did not instantly create France’s modern borders or national identity. Carolingian institutions and claims to legitimacy survived even as practical power became increasingly regional. [The Met: Charlemagne’s imperial culture](https://www.metmuseum.org/essays/carolingian-art)",
+      "### The Capetians build royal France",
+      "Hugh Capet became king in 987. His early successors controlled only a limited royal domain directly and faced powerful territorial lords. Over generations, the dynasty strengthened hereditary succession, enlarged its resources and made royal justice and administration more effective. [BnF: Hugh Capet](https://catalogue.bnf.fr/ark:/12148/cb12049595b)",
+      "War, marriage, inheritance and negotiated relationships all helped expand royal authority. Philip II Augustus was particularly important in the early thirteenth century. The result was not immediate absolutism: provinces, towns, churches and nobles retained distinct rights. France became a stronger kingdom through a long accumulation of power, not one founding moment. [Cambridge: the growth of Capetian government](https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/crown-and-government/584AF3E2325ECA85DBA4A5F3692E823A)",
+      "## THE HUNDRED YEARS’ WAR AND JOAN OF ARC",
+      "The conflicts conventionally called the Hundred Years’ War lasted from 1337 to 1453, with substantial truces. Rival dynastic claims, English possessions in France and competing aristocratic interests helped sustain them. Warfare devastated communities and repeatedly challenged the French monarchy’s survival.",
+      "Joan of Arc helped lift the siege of Orléans in 1429 and supported Charles VII’s coronation at Reims. Captured the following year, she was tried and executed in 1431. She did not personally finish the war, but her intervention helped restore momentum and legitimacy to Charles’s cause. Later military and fiscal reforms also mattered to French recovery. [BnF: the war and Joan of Arc](https://essentiels.bnf.fr/fr/article/6e6e48ab-6af5-4e58-8167-e2914a0b0098-guerre-cent-ans)",
+      "## RENAISSANCE SPLENDOR AND RELIGIOUS CIVIL WAR",
+      "Renaissance France participated in a European world of print, scholarship, court art and competing monarchies. Royal patronage and the Italian wars helped circulate artists and ideas. Yet cultural brilliance coexisted with religious conflict as Protestant communities grew in a predominantly Catholic kingdom.",
+      "The Wars of Religion, conventionally dated 1562–1598, mixed confessional conviction with dynastic and political rivalry. The Saint Bartholomew’s Day massacres of 1572 became an enduring symbol of the violence. Henry IV’s Edict of Nantes in 1598 granted limited protections to Protestants; it was a political settlement, not modern religious equality. [Musée protestant: eight wars and a fragile settlement](https://museeprotestant.org/notice/les-huit-guerres-de-religion-1562-1598/)",
+      "## WHY WAS VERSAILLES SO IMPORTANT?",
+      "Louis XIV, king from 1643 to 1715, made Versailles the principal seat of court and government in 1682. Its galleries, gardens and ceremonies projected a monarchy capable of organizing extraordinary resources. The palace was both a working political center and a carefully managed image of power. [Versailles: government moves to the palace](https://en.chateauversailles.fr/discover/history/key-dates/versailles-capital-kingdom-1682)",
+      "Court life encouraged nobles to seek royal favor, offices and access. Ritual made hierarchy visible, while ministers and councils conducted government. Versailles helped Louis organize relationships with elites, but it did not turn every noble into a powerless prisoner or remove the need for negotiation throughout the kingdom.",
+      "“Absolute monarchy” described powerful claims to sovereign authority, not a government free of laws, customs, practical limits or resistance. Royal officials still depended on cooperation and credit. The king’s ambitions required money that the state could struggle to obtain. [Versailles: how royal government operated](https://en.chateauversailles.fr/discover/history/key-dates/places-power)",
+      "France became a major European military and cultural power. Its armies, diplomacy, manufacturing and court fashions influenced rivals as well as allies. But repeated wars brought taxation, destruction and debt. Louis XIV’s revocation of the Edict of Nantes in 1685 also intensified persecution of Protestants. Royal grandeur had costs that a palace’s polished surfaces can conceal. [Versailles: Louis XIV’s reign](https://www.chateauversailles.fr/decouvrir/histoire/grands-personnages/louis-xiv)",
+      "## ENLIGHTENMENT: WHO HAD THE RIGHT TO RULE?",
+      "Eighteenth-century writers challenged inherited authority in different ways. Montesquieu examined political institutions; Voltaire attacked intolerance; Rousseau explored sovereignty and inequality. Diderot and d’Alembert’s Encyclopédie treated knowledge and practical skills as subjects for systematic inquiry. Print, salons and other networks helped ideas circulate. [BnF: reason and the Encyclopédie](https://www.bnf.fr/fr/mediatheque/dalembert-les-lumieres-et-les-ondes)",
+      "The Enlightenment was not a single revolutionary party with an agreed program. Thinkers disagreed about religion, representation and social hierarchy. Nor did books alone overturn the monarchy. Their arguments supplied languages of criticism that became especially powerful when fiscal crisis and political conflict opened opportunities for action.",
+      "## WHY DID THE FRENCH REVOLUTION EXPLODE?",
+      "Under Louis XVI, the monarchy faced a severe financial problem sharpened by costly wars, including support for American independence. Attempts to reform taxation encountered resistance. A society divided into legal orders and privileges made arguments about who should pay inseparable from arguments about who should decide.",
+      "The Third Estate was not one uniform class of impoverished peasants. It included wealthy professionals and merchants as well as urban workers and rural households. Bad harvests and high bread prices deepened distress, while elite conflict weakened the crown’s capacity to respond. In May 1789, Louis summoned the Estates General at Versailles. [Versailles: the political and financial crisis](https://en.chateauversailles.fr/discover/history/key-dates/summoning-estates-general-1789)",
+      "### From reform to revolution",
+      "Deputies of the Third Estate declared a National Assembly in June. The storming of the Bastille on 14 July became a symbol of popular intervention and resistance to royal force. Rural unrest, the dismantling of privileges and the Declaration of the Rights of Man and of the Citizen transformed the debate from repairing government to redefining authority. [Versailles: the events of 1789](https://en.chateauversailles.fr/discover/history/key-dates/versailles-heart-french-revolution)",
+      "The Revolution initially tried constitutional monarchy. Distrust of the king, foreign war and political mobilization radicalized the situation. The monarchy was abolished on 21 September 1792, and the Republic dated its beginning from the following day. The change was a rupture, not the automatic intention of everyone who had demanded reform in 1789. [National Assembly: revolutionary institutions](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise)",
+      "Louis XVI was executed on 21 January 1793 after trial by the Convention. During the Terror of 1793–1794, emergency government, political repression and executions accompanied foreign war and civil conflict. Defending the Revolution became a justification for coercion, with devastating consequences for people classified as enemies. [National Assembly: the king’s trial](https://www.assemblee-nationale.fr/histoire/proces-de-louis-XVI/index.htm); [Cambridge: the context of the Terror](https://www.cambridge.org/core/books/abs/cambridge-history-of-the-age-of-atlantic-revolutions/jacobins-and-terror-in-the-french-revolution/4EF77F6C3E13E456C1D009A6058D989A)",
+      "The fall of Robespierre in 1794 did not restore stability at once. The Directory, established in 1795, faced war and political crises. Rights proclaimed as universal had also remained unequally applied: women lacked equal political citizenship, and emancipation in the colonies depended on struggles that went far beyond metropolitan declarations.",
+      "## HOW DID NAPOLEON CHANGE FRANCE?",
+      "Napoleon Bonaparte took power in the coup of November 1799 and became emperor in 1804. He consolidated parts of the revolutionary settlement while narrowing political freedom. Prefects, educational institutions and stronger central administration helped make the state more effective; censorship and police surveillance helped protect his authority. [Musée de l’Armée: administering the empire](https://www.musee-armee.fr/ExpoNapoleonEurope/administrer-l-empire-administrer-l-europe.html)",
+      "The Civil Code of 1804 protected property and formal civil equality for men while reinforcing a patriarchal family order and married women’s legal dependence. Its influence spread beyond France. It was neither simply a gift of universal freedom nor merely a return to the Old Regime. [Fondation Napoléon: principles and limits of the Civil Code](https://www.napoleon.org/enseignants/documents/le-code-civil-21-mars-1804-naissance-principes-et-posterite/)",
+      "Napoleon’s empire depended on military conquest and alliances across Europe. Reform traveled with occupation, taxation and demands for soldiers. Resistance, coalition warfare and the disastrous Russian campaign of 1812 weakened the system. He abdicated in 1814, returned during the Hundred Days, and was finally defeated after Waterloo in 1815. [Fondation Napoléon: the imperial chronology](https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/)",
+      "His colonial record also complicates the heroic image. In 1802, his government maintained or re-established slavery in parts of the French colonial world, reversing revolutionary emancipation where it could. Resistance in Saint-Domingue defeated French attempts to restore control and culminated in Haitian independence in 1804. [Foundation for the Memory of Slavery: abolition and reversal](https://memoire-esclavage.org/abolitions)",
+      "## RESTORATION, REVOLUTION AND A SECOND EMPEROR",
+      "The Bourbon Restoration returned a monarchy after Napoleon, but not an exact copy of pre-1789 France. A constitutional charter and revolutionary changes in property and society constrained what could be restored. The July Revolution of 1830 displaced Charles X and brought Louis-Philippe to power under another constitutional monarchy. [National Assembly: monarchy and representative institutions](https://secure2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly/history-and-heritage)",
+      "Revolution in February 1848 created the Second Republic and introduced universal male suffrage. Hopes for social reform collided with conservative resistance and the violent repression of the June uprising. Louis-Napoléon Bonaparte was elected president, then seized power in a coup on 2 December 1851. The Second Empire followed in 1852. [National Assembly: the Second Republic](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-republique)",
+      "As Napoleon III, he presided over economic development, railway growth and the reconstruction of Paris, alongside authoritarian government that later became more liberal. His regime fell after military defeat by Prussia in 1870. The First and Second Empires were distinct political regimes, and neither should be confused with the whole history of France’s overseas colonies. [National Assembly: the Second Empire](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-republique-et-le-suffrage-universel/1852-1870-le-second-empire-ou-le-devoiement-du-suffrage-universel)",
+      "## HOW LARGE WAS THE FRENCH COLONIAL EMPIRE?",
+      "France developed an earlier overseas empire in the Americas and Indian Ocean, then a larger nineteenth- and twentieth-century empire concentrated in Africa and Asia. The Palais de la Porte Dorée gives approximately twelve million square kilometers for the empire in 1931. Totals vary with date and whether different territories and metropolitan France are included; a map must specify what it counts. [Palais de la Porte Dorée: the empire in 1931](https://monument.palais-portedoree.fr/le-contexte-colonial/l-empire-colonial-francais-en-1931)",
+      "This vast system included colonies, protectorates and mandates with different legal arrangements. Its reach extended across North and West Africa, equatorial Africa, Madagascar, Indochina, Caribbean territories and Pacific possessions. Protectorates such as [Morocco](/articles/morocco-history-dynasties-kingdom-independence/) retained local institutions while sovereignty was severely constrained.",
+      "### Slavery, exploitation and resistance",
+      "Atlantic plantation wealth depended heavily on enslaved African labor. Resistance by enslaved people, especially the Haitian Revolution, was central to emancipation. France abolished colonial slavery in 1794, reversed that policy under Napoleon in 1802, and abolished slavery definitively in its colonies in 1848. Implementation and experiences differed across territories. [Foundation for the Memory of Slavery: the history of abolition](https://memoire-esclavage.org/abolitions)",
+      "Later colonial rule involved land seizure, unequal legal status, forced labor and repression, alongside commercial networks and infrastructure. Roads, ports and schools could transform lives while serving extraction and imperial control. Their existence does not cancel coercion. Colonized people negotiated, adapted and resisted; they were never merely passive recipients of French policy.",
+      "### Algeria: conquest and unequal incorporation",
+      "The invasion of Algeria began in 1830. Conquest continued through prolonged warfare, and settler expansion reshaped land ownership and political power. Although northern Algeria was organized as French departments, most Muslim Algerians did not enjoy equal political citizenship on the same terms as European settlers. Administrative incorporation did not mean equality. [Musée de l’Armée: governing conquered Algeria](https://www.musee-armee.fr/ExpositionAlgerie/l-appropriation-du-territoire-maitriser-le-territoire-connaitre-et-administrer-la-population.html); [The Third Republic and colonial consolidation](https://www.musee-armee.fr/ExpositionAlgerie/pdf/pdf-the-third-republic-consolidating-colonisation-and-expanding-into-the-sahara.pdf)",
+      "France’s republican language of rights thus coexisted with an empire structured by hierarchy. This contradiction helped animate anticolonial arguments. The broader competition with the [British Empire](/articles/british-empire-history-rise-fall-global-legacy/) also shows how European power overseas rested on rival networks rather than one uniform colonial experience.",
+      "## THE THIRD REPUBLIC AND THE FIRST WORLD WAR",
+      "Proclaimed in 1870, the Third Republic survived early instability and acquired durable constitutional foundations in 1875. Its history included the Paris Commune and its suppression, struggles over church and state, and the Dreyfus Affair. Parliamentary politics, secular education and mass political participation helped establish republican habits, although women remained excluded from national voting rights. [National Assembly: the parliamentary republic](https://secure2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly/history-and-heritage)",
+      "The First World War brought invasion, trench warfare and enormous losses. Verdun became a symbol of endurance and destruction. France’s war effort drew on metropolitan society, colonial soldiers and colonial workers. Victory in 1918 did not undo bereavement or the devastation of occupied regions. [Ministry of the Armed Forces: the First World War](https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/premiere-guerre-mondiale)",
+      "## OCCUPATION, VICHY AND RESISTANCE",
+      "Defeat in 1940 shattered the Third Republic. German occupation and the authoritarian Vichy regime under Philippe Pétain created overlapping systems of domination. Vichy pursued its own antisemitic policies and collaborated in persecution and deportation. Treating it only as a powerless German puppet obscures documented French responsibility.",
+      "Resistance took many forms, including intelligence, sabotage, clandestine publications and rescue. It was politically diverse and developed over time. Neither “everyone resisted” nor “everyone collaborated” describes the population. Many people lived under constraint, while others made consequential choices to assist persecution or oppose it. [US Holocaust Memorial Museum: occupation and collaboration](https://encyclopedia.ushmm.org/content/en/article/france)",
+      "Charles de Gaulle organized Free France from 1940 and worked to establish a legitimate alternative to Vichy. Liberation in 1944 depended on Allied campaigns, French forces and internal resistance, including fighters from France’s colonies. Paris was liberated in August. De Gaulle’s provisional government helped restore republican institutions, but no single individual liberated France alone. [Chemins de mémoire: the liberation](https://www.cheminsdememoire.gouv.fr/fr/revue/liberer-la-france)",
+      "## DECOLONIZATION AND THE COST OF HOLDING EMPIRE",
+      "The Fourth Republic, established in 1946, oversaw reconstruction and major social and economic change. It also fought to preserve imperial power against increasingly organized independence movements. In Indochina, renewed French military control after the Second World War met determined resistance. The French defeat at Dien Bien Phu and the Geneva agreements in 1954 ended the Indochina War. [Chemins de mémoire: Dien Bien Phu](https://www.cheminsdememoire.gouv.fr/fr/la-bataille-de-dien-bien-phu); [Musée de l’Armée: Indochina’s longer colonial history](https://www.musee-armee.fr/ExpoIndochine/presentation.html)",
+      "In Algeria, the war of 1954–1962 brought insurgency, counterinsurgency, torture, attacks on civilians and profound political division. Independence in 1962 followed the Évian agreements, amid violence and displacement affecting different communities. The experiences of Algerian civilians, European settlers and Algerians who had served France cannot be reduced to a single story of departure. [National Archives: the Algerian War](https://www.archives-nationales.culture.gouv.fr/guerre-dalgerie); [CNRS: colonial violence and its historical study](https://lejournal.cnrs.fr/articles/guerre-dalgerie-lalbum-photo-de-la-recherche)",
+      "Decolonization elsewhere followed different paths and timetables. Independence changed formal sovereignty without immediately dissolving commercial, military, linguistic or personal connections. Contemporary migration and disputes over historical responsibility remain part of that unfinished inheritance.",
+      "## WHY DID FRANCE HAVE FIVE REPUBLICS?",
+      "The numbering refers to successive republican constitutional orders, not five different countries. War, revolution, coups and arguments over executive and parliamentary power repeatedly changed the rules of government. Monarchical and imperial regimes interrupted the earlier republics. [Élysée: the founding texts](https://www.elysee.fr/en/french-presidency/founding-texts)",
+      "### First Republic, 1792–1804",
+      "Born after the monarchy’s abolition, it included the Convention, Directory and Consulate before Napoleon became emperor.",
+      "### Second Republic, 1848–1852",
+      "Created by revolution, it was undermined by Louis-Napoléon’s 1851 coup and replaced by his empire in 1852.",
+      "### Third Republic, 1870–1940",
+      "It developed into a durable parliamentary order before military defeat and Vichy’s seizure of authority in 1940. The postwar restoration treated Vichy as illegitimate rather than a lawful republican successor.",
+      "### Fourth Republic, 1946–1958",
+      "A parliamentary system established after liberation, it combined reconstruction with unstable coalitions and severe colonial crises.",
+      "### Fifth Republic, from 1958",
+      "The Algerian crisis helped bring de Gaulle back to power. The Constitution promulgated on 4 October 1958 strengthened the executive, including the presidency, within a system that retained parliamentary government. Its institutions have since been amended; continuity does not mean constitutional immobility. [National Assembly: the foundation of the Fifth Republic](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/cinquieme-republique/la-constitution-de-1958-et-l-instauration-de-la-ve-republique)",
+      "## CITIZENSHIP AND A DIFFERENT PLACE IN EUROPE",
+      "Women obtained voting and electoral eligibility rights in 1944 and first voted in 1945. This belated change is a reminder that republican institutions and equal participation are not synonyms. Citizenship expanded through political struggle, and the history of the republic includes those who challenged its exclusions. [National Assembly: women become voters](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/l-accession-des-femmes-au-droit-de-vote)",
+      "Postwar France also helped build European integration, including the communities founded through the treaties of the 1950s. Cooperation with former enemies, especially West Germany, offered an alternative to recurring continental conflict. European institutions did not erase national politics, but they changed the setting in which French sovereignty operated. [Council of the EU: the founding treaties](https://www.consilium.europa.eu/en/policies/how-eu-treaties-shaped-the-council-of-the-eu-and-the-european-council/)",
+      "## FRANCE: MYTH VS REALITY",
+      "### Myth: Clovis founded the modern French nation in one act",
+      "Reality: Frankish kingdoms were part of a long transformation. Modern borders, institutions and national identity developed much later.",
+      "### Myth: Versailles gave Louis XIV unlimited control",
+      "Reality: royal authority was formidable but depended on institutions, credit, negotiation and cooperation. Ceremony was one instrument of power.",
+      "### Myth: the Revolution immediately created a stable democracy",
+      "Reality: constitutional monarchy, republic, emergency government, Directory, Consulate and empire followed one another. Political inclusion remained unequal.",
+      "### Myth: Napoleon only liberated Europe",
+      "Reality: reform accompanied conquest, occupation and authoritarian rule. His restoration of colonial slavery is also part of his record.",
+      "### Myth: a republic could not be a colonial empire",
+      "Reality: republican France expanded and governed overseas possessions while denying many colonial subjects equal rights.",
+      "### Myth: all French people resisted during the Second World War",
+      "Reality: resistance, collaboration, persecution and constrained daily survival coexisted. Evidence must replace reassuring collective myths.",
+      "## WHAT HOLDS THIS HISTORY TOGETHER?",
+      "Modern France carries several inheritances at once: royal centralization, revolutionary citizenship, Napoleonic administration, republican institutions and the consequences of empire. These legacies shaped public life through schools, law, political participation and arguments over who belongs. They also shaped relationships far beyond Europe.",
+      "The republic did not emerge fully formed from a single storming of a prison. It was built, interrupted, contested and rebuilt. To follow France from kings to revolution, empire and republic is to see that institutions can outlast their founders while their purposes change, and that every generation inherits both the achievements and the unresolved conflicts of those before it."
+    ],
+    "references": [
+      {
+        "name": "French Ministry of Culture: Caesar and the conquest of Gaul",
+        "url": "https://archeologie.culture.gouv.fr/villa/fr/glossary/jules-cesar"
+      },
+      {
+        "name": "The Met: Migration Art, AD 300–800",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Migration_Art_AD_300_800.pdf"
+      },
+      {
+        "name": "The Met: Carolingian Art",
+        "url": "https://www.metmuseum.org/essays/carolingian-art"
+      },
+      {
+        "name": "Cambridge: crown and government in medieval France",
+        "url": "https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/crown-and-government/584AF3E2325ECA85DBA4A5F3692E823A"
+      },
+      {
+        "name": "BnF: the Hundred Years’ War",
+        "url": "https://essentiels.bnf.fr/fr/article/6e6e48ab-6af5-4e58-8167-e2914a0b0098-guerre-cent-ans"
+      },
+      {
+        "name": "Musée protestant: the Wars of Religion",
+        "url": "https://museeprotestant.org/notice/les-huit-guerres-de-religion-1562-1598/"
+      },
+      {
+        "name": "Palace of Versailles: the court and government in 1682",
+        "url": "https://en.chateauversailles.fr/discover/history/key-dates/versailles-capital-kingdom-1682"
+      },
+      {
+        "name": "Palace of Versailles: places of power",
+        "url": "https://en.chateauversailles.fr/discover/history/key-dates/places-power"
+      },
+      {
+        "name": "BnF: d’Alembert and the Enlightenment",
+        "url": "https://www.bnf.fr/fr/mediatheque/dalembert-les-lumieres-et-les-ondes"
+      },
+      {
+        "name": "Palace of Versailles: summoning the Estates General",
+        "url": "https://en.chateauversailles.fr/discover/history/key-dates/summoning-estates-general-1789"
+      },
+      {
+        "name": "Palace of Versailles: the Revolution",
+        "url": "https://en.chateauversailles.fr/discover/history/key-dates/versailles-heart-french-revolution"
+      },
+      {
+        "name": "National Assembly: the French Revolution",
+        "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise"
+      },
+      {
+        "name": "National Assembly: trial of Louis XVI",
+        "url": "https://www.assemblee-nationale.fr/histoire/proces-de-louis-XVI/index.htm"
+      },
+      {
+        "name": "Fondation Napoléon: the Civil Code",
+        "url": "https://www.napoleon.org/enseignants/documents/le-code-civil-21-mars-1804-naissance-principes-et-posterite/"
+      },
+      {
+        "name": "Musée de l’Armée: administering Napoleon’s empire",
+        "url": "https://www.musee-armee.fr/ExpoNapoleonEurope/administrer-l-empire-administrer-l-europe.html"
+      },
+      {
+        "name": "National Assembly: parliamentary history",
+        "url": "https://secure2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly/history-and-heritage"
+      },
+      {
+        "name": "National Assembly: the Second Republic",
+        "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-republique"
+      },
+      {
+        "name": "National Assembly: the Second Empire",
+        "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-republique-et-le-suffrage-universel/1852-1870-le-second-empire-ou-le-devoiement-du-suffrage-universel"
+      },
+      {
+        "name": "Palais de la Porte Dorée: the colonial empire in 1931",
+        "url": "https://monument.palais-portedoree.fr/le-contexte-colonial/l-empire-colonial-francais-en-1931"
+      },
+      {
+        "name": "Foundation for the Memory of Slavery: abolitions",
+        "url": "https://memoire-esclavage.org/abolitions"
+      },
+      {
+        "name": "Musée de l’Armée: colonial appropriation in Algeria",
+        "url": "https://www.musee-armee.fr/ExpositionAlgerie/l-appropriation-du-territoire-maitriser-le-territoire-connaitre-et-administrer-la-population.html"
+      },
+      {
+        "name": "Musée de l’Armée: the Third Republic and Algeria",
+        "url": "https://www.musee-armee.fr/ExpositionAlgerie/pdf/pdf-the-third-republic-consolidating-colonisation-and-expanding-into-the-sahara.pdf"
+      },
+      {
+        "name": "French Ministry of the Armed Forces: the First World War",
+        "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/premiere-guerre-mondiale"
+      },
+      {
+        "name": "US Holocaust Memorial Museum: France",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/france"
+      },
+      {
+        "name": "Chemins de mémoire: liberation of France",
+        "url": "https://www.cheminsdememoire.gouv.fr/fr/revue/liberer-la-france"
+      },
+      {
+        "name": "Chemins de mémoire: Dien Bien Phu and the end of the Indochina War",
+        "url": "https://www.cheminsdememoire.gouv.fr/fr/la-bataille-de-dien-bien-phu"
+      },
+      {
+        "name": "French National Archives: the Algerian War",
+        "url": "https://www.archives-nationales.culture.gouv.fr/guerre-dalgerie"
+      },
+      {
+        "name": "National Assembly: the Constitution of 1958",
+        "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/cinquieme-republique/la-constitution-de-1958-et-l-instauration-de-la-ve-republique"
+      },
+      {
+        "name": "Élysée: founding constitutional texts",
+        "url": "https://www.elysee.fr/en/french-presidency/founding-texts"
+      },
+      {
+        "name": "BnF: Hugh Capet, 987–996",
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb12049595b"
+      },
+      {
+        "name": "Musée de l’Armée: Indochina, conquest to decolonization",
+        "url": "https://www.musee-armee.fr/ExpoIndochine/presentation.html"
+      },
+      {
+        "name": "Fondation Napoléon: Consulate and First Empire timeline",
+        "url": "https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/"
+      },
+      {
+        "name": "Palace of Versailles: Louis XIV",
+        "url": "https://www.chateauversailles.fr/decouvrir/histoire/grands-personnages/louis-xiv"
+      },
+      {
+        "name": "CNRS: research on the Algerian War",
+        "url": "https://lejournal.cnrs.fr/articles/guerre-dalgerie-lalbum-photo-de-la-recherche"
+      },
+      {
+        "name": "Cambridge: Jacobins and Terror in the French Revolution",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-age-of-atlantic-revolutions/jacobins-and-terror-in-the-french-revolution/4EF77F6C3E13E456C1D009A6058D989A"
+      },
+      {
+        "name": "National Assembly: women’s voting rights",
+        "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/l-accession-des-femmes-au-droit-de-vote"
+      },
+      {
+        "name": "Council of the European Union: treaties and European institutions",
+        "url": "https://www.consilium.europa.eu/en/policies/how-eu-treaties-shaped-the-council-of-the-eu-and-the-european-council/"
+      }
+    ],
+    "tags": [
+      "History of France",
+      "French Revolution",
+      "Versailles",
+      "Napoleon",
+      "French colonial empire",
+      "French Republic"
+    ],
+    "readingTime": "15 min read",
+    "faq": [
+      {
+        "question": "When did France become a kingdom?",
+        "answer": "There is no single foundation date for modern France. Clovis consolidated a Frankish kingdom around the turn of the sixth century, while Hugh Capet’s accession in 987 began the Capetian dynasty. Territory and royal authority continued to evolve."
+      },
+      {
+        "question": "Why was Versailles important?",
+        "answer": "Louis XIV made it the principal seat of court and government in 1682. It organized royal administration, access and patronage while projecting monarchical power."
+      },
+      {
+        "question": "How large was the French colonial empire?",
+        "answer": "The Palais de la Porte Dorée gives approximately twelve million square kilometers for 1931. Estimates vary with date and the territories included; colonies, protectorates and mandates were not governed identically."
+      },
+      {
+        "question": "Why has France had five republics?",
+        "answer": "The numbering distinguishes successive republican constitutional orders, beginning in 1792, 1848, 1870, 1946 and 1958. Revolutions, coups, wars and constitutional crises changed the systems of government."
+      }
+    ]
+  },
+  {
     "id": "097",
     "slug": "ancient-egypt-pharaohs-nile-3000-years-history",
     "title": "ANCIENT EGYPT: HOW THE PHARAOHS BUILT A CIVILIZATION THAT LASTED 3,000 YEARS",
