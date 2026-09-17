@@ -54,6 +54,179 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "100",
+    "slug": "carthage-hannibal-punic-wars-tunisia-history",
+    "title": "CARTHAGE: THE EMPIRE THAT ALMOST BROUGHT ROME TO ITS KNEES",
+    "seoTitle": "Carthage: Hannibal, the Punic Wars and Ancient Tunisia",
+    "metaDescription": "Explore Carthage’s rise in ancient Tunisia, its trade and navy, Hannibal’s wars with Rome, and the evidence behind child sacrifice and the salting myth.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "CARTHAGE",
+      "gold": "ROME"
+    },
+    "excerpt": "A North African maritime power, a general who shook Rome and a civilization larger than its wars. Discover Carthage’s wealth, people, destruction and contested legacy.",
+    "category": "History",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/carthage-hannibal-punic-empire.webp",
+    "coverAlt": "Editorial reconstruction of a Carthaginian commander overlooking a moonlit harbor in ancient Tunisia",
+    "homepageImagePosition": "65% 45%",
+    "tags": [
+      "Carthage",
+      "Hannibal",
+      "Punic Wars",
+      "Ancient Tunisia",
+      "North Africa",
+      "Ancient history",
+      "Rome"
+    ],
+    "readingTime": "12 min read",
+    "content": [
+      "Long before Rome ruled the Mediterranean, ships were entering the harbours of a North African city whose connections reached far beyond the horizon. Carthage faced the sea from the Gulf of Tunis, in present-day Tunisia. Its strength came from sailors and merchants, but also from farmers, workshops, political bargaining and the resources of communities drawn into its orbit.",
+      "Hannibal would make that city unforgettable to Rome. Yet to begin and end with his elephants is to miss the civilization that made his armies possible. Carthage was a place where people traded, worshipped, argued, raised families and worked for centuries before its final siege. Its destruction became a Roman victory story. Recovering its history requires looking beyond the victors.",
+      "Hero image: editorial historical reconstruction inspired by Carthage. It is not a documented portrait of Hannibal or an exact reconstruction of the ancient city, its buildings or banners.",
+      "## FROM TYRE TO THE GULF OF TUNIS",
+      "Carthage grew out of Phoenician settlement from the eastern Mediterranean, traditionally linked to Tyre in present-day Lebanon. Phoenician cities were distinct communities, not provinces of a single permanent Phoenician nation-state. Seaborne exchange carried their language, objects and religious practices westward. Carthage eventually became a major center in its own right. [The Met: Phoenician networks](https://www.metmuseum.org/fr/essays/the-phoenicians-1500-300-b-c)",
+      "The conventional foundation date is 814 BCE. That is a date transmitted through ancient chronological traditions, not a surviving municipal foundation record. Archaeology supports settlement in the late ninth century BCE, giving the tradition a plausible broad setting without confirming every detail of its story.",
+      "In the foundation legend, Elissa, also called Dido, escapes Tyre and establishes a new city in Africa. The famous oxhide episode explains how she obtains land through ingenuity. These are literary traditions preserved in much later accounts. Virgil’s encounter between Dido and Aeneas belongs to Roman epic, not independently verified biography. Archaeology can establish occupation and material connections; it cannot authenticate their conversation or romance. [The foundation tradition](https://www.livius.org/sources/content/the-founding-of-carthage/); [Early archaeological evidence](https://www.livius.org/articles/place/carthage/)",
+      "## HOW DID CARTHAGE BECOME SO RICH?",
+      "Carthage occupied an advantageous position between the eastern and western Mediterranean, close to the passage between North Africa and Sicily. Maritime routes brought access to goods, markets and information. Phoenician and Punic exchange included metals, pottery, textiles and other manufactured products, while the city’s connections linked communities with different resources.",
+      "But a trading city still had to eat. The productive lands of North Africa supported grain cultivation, orchards, livestock and rural estates. Agriculture sustained urban life and campaigning, while taxes and obligations imposed on dependent communities helped finance the state. Maritime wealth and the countryside were complementary foundations, not competing explanations.",
+      "Punic agricultural expertise also outlived the independent city. Pliny reports that Rome ordered a Latin translation of the Carthaginian writer Mago’s agricultural work after the conquest. The surviving testimony is Roman, but it preserves recognition of knowledge produced in North Africa. [Society for Classical Studies: Mago and the transmission of agricultural knowledge](https://classicalstudies.org/translation-conquest-mago-mithridates-and-origins-roman-science-pliny%E2%80%99s-natural-history)",
+      "Prosperity was not shared equally. Landowners and influential families possessed opportunities unavailable to poorer workers or enslaved people. Sailors, potters, builders, traders and agricultural laborers supported the visible power of the city. A harbor full of cargo tells us about economic activity; it does not tell us that everyone living beside it was rich.",
+      "### An empire with uneven edges",
+      "Carthaginian power extended through parts of North Africa and across western Mediterranean islands and coasts. Sicily, Sardinia and later Iberia mattered enormously, but not in identical ways or at every period. A settlement exchanging Punic pottery was not automatically a directly administered possession. Alliances, tribute, garrisons, dependent cities and commercial influence formed different kinds of connection.",
+      "In Sicily, Carthage repeatedly competed and negotiated with Greek cities, especially Syracuse. This was not an endless racial war between two sealed civilizations. Conflict coexisted with commerce and cultural exchange. Maps that color the whole western Mediterranean as a single uniform Carthaginian territory obscure how power actually worked.",
+      "## PUNIC LIFE, RELIGION AND GOVERNMENT",
+      "“Punic” conventionally describes the Phoenician-derived cultures of the western Mediterranean, particularly those associated with Carthage. Punic was a Semitic language related to Phoenician. North African surroundings and contacts with other Mediterranean peoples shaped the city’s society; its inhabitants cannot be reduced to either foreign newcomers or a modern national identity.",
+      "Tanit and Baal Hammon were prominent deities. Dedications, burial grounds and religious objects provide evidence for worship, while houses, pottery and workshops reveal parts of everyday life. These remains are invaluable because surviving literary narratives devote far more space to generals than to ordinary households.",
+      "Carthage was not simply a kingdom governed by Hannibal’s family. Its institutions included magistrates conventionally called suffetes, councils and a citizen assembly. Aristotle admired aspects of its constitution while identifying the influence of wealth. His account is an outsider’s comparison, not a complete constitutional handbook, and institutions changed over time. [Aristotle on Carthaginian government](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D2%3Asection%3D1272b)",
+      "Modern scholarship also warns against imagining one unchanging relationship between generals and civilian authorities. Commanders had to secure resources, negotiate political support and answer to institutions. Carthage’s military decisions emerged from a state with competing priorities, not from a single merchant mentality supposedly incapable of understanding war. [Research on command and government](https://www.cambridge.org/core/journals/libyan-studies/article/generals-and-judges-command-constitution-and-the-fate-of-carthage/757F46BAE0CA1A08373A15D1E497198F)",
+      "## WHY WAS ITS NAVY SO POWERFUL?",
+      "Carthage could draw on a long seafaring tradition, trained crews, shipbuilding skills and coastal bases. Warships required timber, equipment, maintenance and organized labor as well as commanders. Merchant vessels moved supplies, while fighting fleets helped protect access and contest routes. Naval power was a continuing institutional effort, not just a collection of impressive ships.",
+      "Its famous port complex included a commercial basin and a circular military harbor with an island and shipsheds. Excavations support the identification of naval installations, but the complex developed over time. The monumental late Punic harbor should not be projected unchanged back to the city’s foundation. Nor should an ancient author’s claimed capacity be treated as a modern audited fleet register. [Harbor excavations and their chronology](https://www.cambridge.org/core/journals/antiquaries-journal/article/abs/excavations-at-carthage-19778-fourth-interim-report1/0CE50F90B3D6B5382B01A8D76A55DB63)",
+      "Rome eventually showed that maritime experience did not guarantee permanent supremacy. Fleets could be rebuilt, crews trained and tactics adapted. Carthage’s naval advantage was formidable; it was never an immunity from defeat.",
+      "## THE FIRST PUNIC WAR: ROME REACHES THE SEA",
+      "The First Punic War, fought from 264 to 241 BCE, grew from intervention around Messana in Sicily into a prolonged contest for the island and surrounding seas. Rome committed to large-scale naval warfare. Both powers endured costly campaigning, and Roman fleets also suffered disastrous losses at sea. The struggle ended after Rome’s naval victory near the Aegates Islands in 241. Carthage relinquished Sicily and accepted an indemnity. [Cambridge: Rome and Carthage](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-roman-republic/rome-and-carthage/0514C56C063DF92157C7681A57512B39)",
+      "An ensuing war involving unpaid troops and North African rebels exposed the strains of defeat. Rome exploited Carthage’s difficulties to take Sardinia. These events narrowed Carthage’s options but did not make its later destruction inevitable. The city could still reorganize and seek resources elsewhere.",
+      "## HAMILCAR, IBERIA AND THE RISE OF HANNIBAL",
+      "Hamilcar Barca began building a new Carthaginian power base in Iberia in 237 BCE. Campaigning, local alliances and access to resources strengthened this western position. Hasdrubal the Fair continued the project, and Hannibal later took command. Iberia was not empty land awaiting conquest: its communities participated, negotiated and resisted.",
+      "Hannibal’s attack on Saguntum in 219 BCE helped precipitate renewed conflict with Rome. Ancient authors themselves debated responsibility and the implications of earlier agreements. The Second Punic War began in 218 and ended with the peace of 201 BCE, after Hannibal’s defeat at Zama the previous year. [Polybius on treaties and the outbreak of war](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0234%3Abook%3D3&force=y)",
+      "## HANNIBAL: HOW CLOSE DID HE COME TO DEFEATING ROME?",
+      "In 218 BCE, Hannibal marched from Iberia into Italy across the Alps, bringing a mixed army and elephants. The crossing was an extraordinary logistical achievement, but the exact route remains disputed. Ancient troop totals and losses should not be presented as precise modern counts. The army that emerged into Italy also depended on recruiting and maintaining allies there.",
+      "At the Trebia in 218 BCE, Hannibal defeated Roman forces through a combination of preparation, coordinated attacks and an ambush. At Lake Trasimene in 217, he exploited terrain and surprise to inflict another major defeat. These victories showed his ability to make Roman forces fight in conditions favorable to him.",
+      "At Cannae in 216 BCE, his army enveloped a much larger Roman force. Ancient casualty accounts describe a catastrophe but disagree in detail. There is no need to select the largest surviving figure to appreciate the scale of the defeat. Cannae threatened Rome’s authority throughout Italy and encouraged defections, including that of Capua.",
+      "These episodes are known principally through Greek and Roman writers such as Polybius and Livy. Their battle narratives are indispensable but composed accounts, shaped by sources, hindsight and literary purpose. Reconstructed speeches are not transcripts, and celebrated battlefield anecdotes are not automatically independently corroborated facts. [Polybius, Book 3: the Italian campaign](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0234%3Abook%3D3&force=y)",
+      "### Winning battles was not the same as breaking Rome",
+      "Hannibal sought to weaken Rome by detaching its allies. He achieved important defections, but Rome’s alliance system did not collapse. The Romans continued mobilizing forces, holding fortified positions and fighting in several theaters. They also learned to avoid giving Hannibal the decisive encounter he wanted on his terms.",
+      "Taking Rome itself was a different challenge from destroying an army in the field. Supply, siege operations, reinforcement and political endurance all mattered. Meanwhile, Roman successes in Iberia undermined the Barcid base. Hannibal’s brother Hasdrubal was defeated at the Metaurus in 207 BCE while attempting to reinforce him. Hannibal remained dangerous, but battlefield brilliance could not by itself solve these wider strategic problems. [Hannibal’s campaign and its limits](https://www.livius.org/articles/person/hannibal-3-barca/)",
+      "## SCIPIO, ZAMA AND A CHANGED NORTH AFRICA",
+      "Publius Cornelius Scipio transferred the war to Africa. His alliance with the Numidian ruler Masinissa was crucial, demonstrating that North African powers were participants with their own objectives. Hannibal returned from Italy and was defeated at Zama in 202 BCE. Scipio became known as Africanus. The settlement restricted Carthage’s military freedom, removed its overseas empire and imposed payments. [The wars and African alliances](https://www.livius.org/articles/place/carthage/roman-wars/)",
+      "This was a severe political defeat, not the immediate disappearance of Carthaginian society. The city survived and recovered economically. Its relationship with Rome and with an expanding Numidian kingdom, however, left it vulnerable to conflicts in which its freedom to respond was sharply constrained.",
+      "## WHY DID CARTHAGE LOSE THE PUNIC WARS?",
+      "There is no single explanation covering three wars separated by decades. In the first, naval mobilization, endurance and the struggle to supply armies in Sicily mattered. In the second, Roman manpower, alliance resilience and success outside Italy countered Hannibal’s victories. In the third, a heavily constrained Carthage faced a Roman decision to eliminate it.",
+      "Nor is the outcome adequately explained as brave Roman citizens defeating unreliable foreign mercenaries. Carthaginian armies combined different forms of service and communities, while Rome relied heavily on allies. Loyalty, payment, coercion and political advantage affected both systems. Explaining victory requires institutions and circumstances as well as individual commanders.",
+      "## THE SIEGE AND DESTRUCTION OF 146 BCE",
+      "The Third Punic War began in 149 BCE. Disputes involving Numidia and Carthage’s restricted right to wage war gave Rome grounds for intervention. Roman demands escalated beyond disarmament toward abandoning the city itself. Carthaginians resisted rather than accept the destruction of their urban community.",
+      "After a prolonged siege, Roman forces commanded by Scipio Aemilianus captured Carthage in 146 BCE. This Scipio was not the commander who had defeated Hannibal at Zama. The city was devastated and surviving inhabitants were enslaved. Ancient totals for those killed or captured are not secure population statistics, and exact figures would imply a certainty the evidence does not provide. Appian’s much later account is an important source for the siege, but its speeches and dramatic scenes require critical reading. [Appian: The Punic Wars](https://www.livius.org/sources/content/appian/appian-the-punic-wars/)",
+      "## DID ROME REALLY SALT CARTHAGE?",
+      "There is no surviving ancient evidence establishing that Rome systematically salted Carthage’s soil after destroying it. The familiar story should not be repeated as a documented act in 146 BCE. Scholarship traces salt traditions through much later storytelling, including medieval accounts associated with North Africa. The legend has its own history, but that is not proof of the Roman deed. [Research on the later salt tradition](https://classicalstudies.org/annual-meeting/154/abstract/salty-reception-situating-legend-carthage%E2%80%99s-destruction-folklore)",
+      "The correction does not soften the reality of conquest. Destruction, enslavement and the end of the independent Punic state are serious enough without an unsupported flourish. A dramatic detail can make a story memorable while making its history less reliable.",
+      "## DID CARTHAGE REALLY SACRIFICE CHILDREN?",
+      "The Tophet is an archaeological precinct containing urns with cremated remains of very young humans and animals, alongside commemorative or votive monuments. Inscriptions and Greek and Roman accounts form part of the evidence. Scholars who interpret it as a sacrificial sanctuary stress the combination of animal offerings, dedications and literary testimony, rather than relying on hostile authors alone. [The sacrificial interpretation](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)",
+      "Patricia Smith and colleagues argue that reconstructed infant ages support sacrifice. Jeffrey Schwartz and colleagues dispute aspects of those age assessments and emphasize the possibility of natural deaths, including deaths around birth. Cremation complicates the analysis: heat alters bone, samples are incomplete, and identifying an age profile is not the same as observing a cause of death. [Smith and colleagues](https://www.cambridge.org/core/journals/antiquity/article/abs/cemetery-or-sacrifice-infant-burials-at-the-carthage-tophet/EA2F96A8FD7229800391B766C95ECBE1); [Schwartz and colleagues](https://www.cambridge.org/core/journals/antiquity/article/two-tales-of-one-city-data-inference-and-carthaginian-infant-sacrifice/5006E240CB75A1E324B3230F6DA17389)",
+      "The fairest conclusion distinguishes evidence from its interpretation. Infant sacrifice has substantial scholarly support, but the meaning of every burial, the frequency of killing and the proportion of natural deaths remain contested. The existence of a sanctuary does not establish a reliable annual death toll. Conversely, possible natural deaths do not automatically disprove all sacrifice. Neither a sensational certainty nor a blanket dismissal as Roman propaganda adequately represents the debate.",
+      "## CARTHAGE AFTER CARTHAGE",
+      "Roman settlement followed later, with an early colonial attempt associated with Gaius Gracchus and a lasting refoundation developed under Julius Caesar’s plans and Augustus. Roman Carthage became a major center of the province of Africa and, later, of Christianity. The location’s advantages had survived the destruction of its independent state. [Roman rebuilding and urban importance](https://www.livius.org/articles/place/carthage/roman-carthage/)",
+      "The archaeological site in modern Tunisia contains layers from different eras, including Punic harbors and burial grounds, Roman baths and residential remains, and later religious buildings. UNESCO inscribed it on the World Heritage List in 1979. These layers must be distinguished: a visitor looking at Roman monumental architecture is not automatically seeing the city Hannibal knew. [UNESCO: the site and its layers](https://whc.unesco.org/en/list/37/)",
+      "## CARTHAGE: MYTH VS REALITY",
+      "### Myth: Carthage was only Hannibal’s military headquarters",
+      "Reality: Its urban, agricultural, commercial and religious history stretched far beyond his lifetime. Hannibal depended on an existing civilization; he did not create it.",
+      "### Myth: Dido’s entire biography is established history",
+      "Reality: Foundation traditions connect Carthage with Tyre, but their speeches, romances and dramatic episodes cannot simply be verified through archaeology.",
+      "### Myth: Carthage directly governed everywhere its traders visited",
+      "Reality: Commerce, cultural influence, alliances and territorial rule were different relationships. They also changed over time.",
+      "### Myth: Cannae meant Rome was one inevitable step from surrender",
+      "Reality: It was a devastating defeat, but Rome retained armies, allies and the capacity to keep fighting. A counterfactual Roman collapse is not a historical fact.",
+      "### Myth: Every Tophet urn proves a child was killed",
+      "Reality: Cremated remains establish burial, while cause of death and the character of the precinct require interpretation. Scholars disagree over important parts of that interpretation.",
+      "### Myth: Rome salted the land and Carthage never returned",
+      "Reality: The salting story lacks ancient corroboration, and a substantial Roman city later occupied the site. Political destruction and permanent geographical abandonment are different things.",
+      "## A NORTH AFRICAN CIVILIZATION, NOT JUST ROME’S ENEMY",
+      "Carthage belongs in Mediterranean history alongside the other societies that made the sea a place of exchange and conflict. Our histories of [ancient Egypt](/articles/ancient-egypt-pharaohs-nile-3000-years-history/) and the [Persian Empire](/articles/persian-empire-cyrus-great-achaemenid-history/) explore different political worlds connected to that wider region. For Rome’s much later eastern continuation, see the [Byzantine Empire](/articles/byzantine-empire-eastern-rome-constantinople-1453/). These are comparisons across distinct periods, not one continuous imperial story.",
+      "Carthage almost brought Rome to its knees because it could sustain a challenge far beyond its own shores. But its deeper significance lies on the Tunisian coast: in the city, fields, workshops and networks that made that challenge possible. Rome destroyed an independent state in 146 BCE. It did not erase North Africa’s place at the center of the ancient Mediterranean."
+    ],
+    "references": [
+      {"name":"Society for Classical Studies: Mago and agricultural knowledge","url":"https://classicalstudies.org/translation-conquest-mago-mithridates-and-origins-roman-science-pliny%E2%80%99s-natural-history"},
+      {"name":"Appian: The Punic Wars, translated at Livius","url":"https://www.livius.org/sources/content/appian/appian-the-punic-wars/"},
+      {
+        "name": "UNESCO: Archaeological Site of Carthage",
+        "url": "https://whc.unesco.org/en/list/37/"
+      },
+      {
+        "name": "The Metropolitan Museum of Art: The Phoenicians",
+        "url": "https://www.metmuseum.org/fr/essays/the-phoenicians-1500-300-b-c"
+      },
+      {
+        "name": "Justin, epitome of Pompeius Trogus: the foundation tradition, translated at Livius",
+        "url": "https://www.livius.org/sources/content/the-founding-of-carthage/"
+      },
+      {
+        "name": "Livius: Punic Carthage and early archaeology",
+        "url": "https://www.livius.org/articles/place/carthage/"
+      },
+      {
+        "name": "Aristotle, Politics 2: Carthage’s constitution, Perseus Digital Library",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D2%3Asection%3D1272b"
+      },
+      {
+        "name": "Dexter Hoyos: Generals and judges, Libyan Studies",
+        "url": "https://www.cambridge.org/core/journals/libyan-studies/article/generals-and-judges-command-constitution-and-the-fate-of-carthage/757F46BAE0CA1A08373A15D1E497198F"
+      },
+      {
+        "name": "British excavations at Carthage, 1977–8: circular harbour and shipsheds",
+        "url": "https://www.cambridge.org/core/journals/antiquaries-journal/article/abs/excavations-at-carthage-19778-fourth-interim-report1/0CE50F90B3D6B5382B01A8D76A55DB63"
+      },
+      {
+        "name": "Cambridge Companion to the Roman Republic: Rome and Carthage",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-roman-republic/rome-and-carthage/0514C56C063DF92157C7681A57512B39"
+      },
+      {
+        "name": "Polybius, Histories, Book 3: the Second Punic War, Perseus Digital Library",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0234%3Abook%3D3&force=y"
+      },
+      {
+        "name": "Livius: Hannibal Barca",
+        "url": "https://www.livius.org/articles/person/hannibal-3-barca/"
+      },
+      {
+        "name": "Livius: Carthage’s Roman wars",
+        "url": "https://www.livius.org/articles/place/carthage/roman-wars/"
+      },
+      {
+        "name": "Oxford University: the case for interpreting tophets as sacrificial sanctuaries",
+        "url": "https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children"
+      },
+      {
+        "name": "Smith and colleagues: Cemetery or sacrifice?, Antiquity",
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/cemetery-or-sacrifice-infant-burials-at-the-carthage-tophet/EA2F96A8FD7229800391B766C95ECBE1"
+      },
+      {
+        "name": "Schwartz and colleagues: Two tales of one city, Antiquity",
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/two-tales-of-one-city-data-inference-and-carthaginian-infant-sacrifice/5006E240CB75A1E324B3230F6DA17389"
+      },
+      {
+        "name": "Society for Classical Studies: the salt legend in medieval Maghrebi folklore",
+        "url": "https://classicalstudies.org/annual-meeting/154/abstract/salty-reception-situating-legend-carthage%E2%80%99s-destruction-folklore"
+      },
+      {
+        "name": "Livius: Roman Carthage",
+        "url": "https://www.livius.org/articles/place/carthage/roman-carthage/"
+      }
+    ]
+  },
+  {
     "id": "099",
     "slug": "naza-documentary-israel-filmmakers-citizenship-controversy",
     "title": "NAZA: WHY ISRAELI LEADERS WANT TO PUNISH THE FILMMAKERS BEHIND THE GAZA DOCUMENTARY",
