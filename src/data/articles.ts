@@ -54,6 +54,259 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "103",
+    "slug": "places-that-dont-look-real-surreal-landscapes-travel",
+    "title": "20 PLACES THAT DON’T LOOK REAL, BUT ACTUALLY EXIST",
+    "seoTitle": "20 Places That Don’t Look Real, But Actually Exist",
+    "metaDescription": "Explore 20 surreal places on Earth with the science behind their landscapes, best seasons, access advice, verified ticket examples and essential safety context.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "20 PLACES",
+      "gold": "ACTUALLY EXIST"
+    },
+    "excerpt": "From Bolivia’s mirrored salt flats to New Zealand’s living cave lights, discover 20 extraordinary real landscapes, why they look that way and what visiting actually involves.",
+    "category": "Travel",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/places-that-dont-look-real-travel.webp",
+    "coverAlt": "Editorial night composite combining dragon’s blood trees, white mineral terraces, sandstone pillars, a pink lake and sky effects; not one real location",
+    "homepageImagePosition": "60% 50%",
+    "readingTime": "24 min read",
+    "tags": [
+      "Surreal places on Earth",
+      "Unusual landscapes",
+      "Nature travel",
+      "Geology",
+      "Responsible travel"
+    ],
+    "content": [
+      "A lake seems to borrow its color from a paint box. A desert briefly becomes a mirror. Stone towers rise through cloud, and a dark cave fills with points of living light. None of these landscapes requires an invented planet. But seeing them well requires something a photograph rarely explains: the right conditions, the right viewpoint and sometimes considerable patience.",
+      "These 20 places exist. This is an editorial selection of unusual landscapes, chosen for geographic variety, explainable natural processes and distinctive visitor experiences, not an objective ranking of beauty. Some are straightforward additions to a holiday. Others belong on a reading list rather than a current itinerary because of serious security risks. Inclusion is not a recommendation to travel against official advice.",
+      "Hero image: the supplied night scene is an editorial composite combining several extraordinary destinations and sky effects. It does not depict one real location, a possible single viewpoint or conditions that occur together. The destination descriptions below distinguish actual landscapes from photographic expectations.",
+      "### Before you book",
+      "Visitor information, selected published prices and official advisories were checked on September 17, 2026. Seasons describe typical conditions, not guarantees. Suggested visit lengths are PRESDA planning estimates, excluding international travel. Prices are adult admission or activity benchmarks in local currency, not complete trip budgets; transport, accommodation, permits and equipment can cost much more. Where no dependable current tariff was verified, we identify the costs to obtain in a dated quote instead of inventing an estimate.",
+      "Check the official visitor link for your date and your government’s travel advice for the entire route. A visa, an advertised tour and an open attraction do not establish that a journey is safe or covered by insurance. In particular, Socotra and the usual Venezuelan approach to Mount Roraima require the serious qualifications below.",
+      "## WHY DO SOME REAL LANDSCAPES LOOK IMPOSSIBLE?",
+      "Much of the surprise comes from processes operating at unfamiliar scales. Water dissolves limestone and later deposits calcium carbonate somewhere else. Cooling lava fractures into columns. Wind sorts and piles sand; rain briefly occupies the spaces between dunes. A nearly level salt crust becomes reflective when covered by a thin, calm layer of water.",
+      "Color needs equally careful explanation. Some colors come from minerals, others from organisms or the way light travels through water and ice. Dallol’s colored brines are not explained by the same mechanism as Yellowstone’s microbial margins. Nor is a pink lake a fixed shade throughout its history. Weather, water levels and viewing angle can change the scene without making either the landscape or an honest photograph false.",
+      "Photography adds another layer. A drone can show a pattern invisible from the ground; a long exposure gathers more light than your eyes; increased saturation can misrepresent a subtle color. Treat images as a starting point for questions. Our guide to [earthquakes, volcanoes and tsunamis](/articles/natural-disasters-earthquakes-volcanoes-tsunamis/) explains more about the forces shaping active landscapes.",
+      "## 1. SALAR DE UYUNI, BOLIVIA: A SKY UNDER YOUR FEET",
+      "On Bolivia’s high Altiplano, evaporated ancient lakes left an immense salt flat. In dry conditions, visitors see a white plain patterned by salt crust. After rain, shallow, still water can reflect the sky so completely that the horizon becomes difficult to read. Wind, cloud and water depth determine the effect; the mirror is not a permanent surface.",
+      "When and how: the wet season, broadly December to March, offers reflection opportunities, while the drier middle of the year favors exposed salt patterns. Allow one day for the salar itself or several days for a wider guided circuit. A reputable local driver is much more useful here than an ambitious self-drive plan: flooding can change routes and prevent access to particular islands.",
+      "Difficulty and costs: little walking can still mean substantial altitude exposure, cold nights and long vehicle journeys. Acclimatize before strenuous activity. Obtain a quote specifying vehicle occupancy, meals, accommodation and reserve charges; a one-day excursion and a multi-day high-altitude circuit are different products. [Visitor information and source](https://science.nasa.gov/earth/earth-observatory/lithium-harvesting-at-salar-de-uyuni-144976/).",
+      "## 2. SOCOTRA, YEMEN: TREES FROM ANOTHER WORLD",
+      "Socotra’s umbrella-shaped dragon’s blood trees look designed for a fantasy landscape. They are real organisms within an island ecosystem whose isolation helped produce exceptional endemism. Rocky uplands, limestone caves, dunes and coasts make the archipelago much more varied than the famous tree photographs suggest.",
+      "Travel status: the UK Foreign, Commonwealth & Development Office advises against all travel to Yemen, including Socotra. Limited assistance and disrupted transport matter even when an operator advertises departures. We include the island for its natural significance, not as a current holiday recommendation. See the [current Yemen advisory](https://www.gov.uk/foreign-travel-advice/yemen/).",
+      "Season and practical context: the summer monsoon brings strong winds, so the cooler part of the year has traditionally been favored for visits. A meaningful island journey would need several days and specialist local arrangements, not a quick tree-viewpoint stop. Security conditions override seasonal preferences. We do not quote bookable packages or suggest an access route while the all-travel warning remains. [Visitor information and source](https://whc.unesco.org/en/list/1263/).",
+      "## 3. WULINGYUAN, CHINA: SANDSTONE ABOVE THE CLOUDS",
+      "In Hunan, the Wulingyuan scenic area includes the pillar landscapes associated with Zhangjiajie. Weathering and erosion along fractures have separated quartz-rich sandstone into steep towers. Forest fills their ledges and the valleys below. Mist can hide the bases and make the pillars appear suspended, but they are connected to the ground.",
+      "When and how: spring and autumn are useful starting points for planning, with rain or fog possible in either. Allow two or three days for different viewpoints and valley walks. Use the managed trail and transport network, checking which shuttle, lift or cable-car journeys your ticket actually includes. Nearby Tianmen Mountain is a separate excursion, not another entrance to the same pillar park.",
+      "Difficulty and costs: transport can reduce climbing, but stairs, crowds and walking remain. Do not assume every viewpoint is step-free. Major Chinese holiday periods can mean long queues, and heavy cloud can hide the entire panorama. Budget separately for accommodation, admission and optional mechanized transport. [Visitor information and source](https://whc.unesco.org/en/list/640/).",
+      "## 4. LENÇÓIS MARANHENSES, BRAZIL: LAGOONS BETWEEN DUNES",
+      "In Maranhão, pale dunes wrap around freshwater lagoons like folds of fabric. Wind moves the sand, while seasonal rainfall and the water table fill depressions between the dunes. This is not a permanently dry desert interrupted by inexplicable pools. Water is essential to the landscape’s annual rhythm.",
+      "When and how: the months following the main rains, often June to September, are a useful lagoon-viewing window, but ask about that year’s water levels. Base a two- or three-day visit around Barreirinhas or Santo Amaro, with authorized transport and local guides. The aerial patchwork becomes a more intimate sequence of dune climbs and individual lagoons on foot.",
+      "Difficulty and costs: exposed sand walking is tiring and shade scarce. Swimming is appropriate only where permitted and conditions allow; never dive into an unfamiliar lagoon. Obtain separate details for transfers and excursions. Check [ICMBio’s visitor guidance](https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-dos-lencois-maranhenses/paginas-site-parna-dos-lencois-maranhenses-ma/orientacoes-ao-visitante) rather than following vehicle tracks into protected areas. [Visitor information and source](https://whc.unesco.org/en/list/1611/).",
+      "## 5. PAMUKKALE, TÜRKİYE: A HILLSIDE BUILT BY WATER",
+      "Near Denizli, mineral-rich thermal water has deposited calcium carbonate into white travertine terraces. The stepped basins can look like snow surrounding blue pools. They are neither ice nor a permanent arrangement of full swimming pools: water management, conservation and seasonal conditions affect what is filled and accessible.",
+      "When and how: spring or autumn usually makes walking more comfortable than peak summer heat. Allow half a day, longer if combining the terraces with Hierapolis. Use the designated visitor route and obey footwear instructions on the travertine. The archaeological site gives the natural spectacle a valuable human context.",
+      "Difficulty and costs: wet surfaces can be slippery, and a white exposed slope reflects strong sunlight. Restricted terraces are not photo shortcuts. Check the [official museum portal](https://www.muze.gov.tr/muze-detay?DistId=PMK&SectionId=PMK01) for your visitor category and current admission; a combined ticket or separate bathing attraction should not be mistaken for the basic site fee. [Visitor information and source](https://whc.unesco.org/en/list/485/).",
+      "## 6. CAPPADOCIA, TÜRKİYE: VALLEYS OF VOLCANIC STONE",
+      "Central Anatolia’s cones and ridges began with volcanic deposits that were later eroded into varied forms. Harder layers can protect softer material beneath, helping produce the celebrated fairy chimneys. Rock-cut rooms add a human history to the geology. Hot-air balloons are a visitor activity above this landscape, not part of the natural phenomenon.",
+      "When and how: April to June and September to October are sensible planning windows for walking. Stay two or three nights around Göreme or another established base and combine a guided valley walk with ground-level viewpoints. You can have a rewarding visit without taking a balloon flight.",
+      "Difficulty and costs: walks range from short viewpoints to uneven, exposed trails. Balloon operations depend on weather and aviation approval, so leave a spare morning and check cancellation terms. Flight prices vary widely by date and product; obtain a dated quote instead of relying on a supposed universal price. Never enter unstable or restricted rock-cut spaces. [Visitor information and source](https://goturkiye.com/cappadocia/see-cappadocia).",
+      "## 7. ANTELOPE CANYON, USA: LIGHT INSIDE SANDSTONE",
+      "Near Page, Arizona, on Navajo Nation land, water carrying sediment has carved narrow passages into sandstone. Reflected light brings out curves and warm colors; shafts of direct sunlight appear only under suitable seasonal and daily conditions. A photograph taken at the right minute should not become a promise for every tour.",
+      "When and how: spring and autumn offer alternatives to the strongest summer heat, while specific light-beam photographs require more precise planning. Book a Navajo-authorized guided tour and allow a half-day including check-in and transport. Upper and Lower Antelope Canyon have different routes and physical demands; they are not interchangeable tickets.",
+      "Difficulty and costs: expect sand, steps or ladders depending on the canyon and itinerary. Confirm access needs with the operator. Flash flooding can follow storms beyond the visible sky, and closures must be respected. Compare the complete tour price, including any separately charged tribal park fee, rather than a headline rate alone. [Visitor information and source](https://navajonationparks.org/tribal-parks/lake-powell/).",
+      "## 8. WAITOMO, NEW ZEALAND: A LIVING CEILING OF LIGHT",
+      "On the North Island, tiny lights punctuate the darkness above an underground river. The glow comes from bioluminescent fungus-gnat larvae, commonly called glowworms, rather than stars, crystals or electric illumination. The quiet boat journey is the experience; expect darkness and small points of light, not a brightly illuminated blue chamber.",
+      "When and how: this is a year-round option, subject to operational and weather notices. The standard Waitomo Glowworm Caves tour lasts about 45 minutes; allow extra time for check-in. The operator currently lists adult admission from NZ$81. Book ahead and distinguish this tour from longer caving or black-water-rafting products.",
+      "Difficulty and costs: the standard cave has stairs and is not wheelchair accessible; the operator identifies Ruakuri Cave as a wheelchair-friendly alternative. Wear shoes suitable for damp paths and a warm layer. Follow the guide’s photography and lighting rules so the living display, and other visitors’ experience, remain undisturbed. [Visitor information and source](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves).",
+      "## 9. GIANT’S CAUSEWAY, NORTHERN IRELAND: A COAST OF COLUMNS",
+      "County Antrim’s interlocking basalt columns resemble fitted paving. Their geometry formed as lava cooled, contracted and fractured. Many columns have six sides, but nature did not produce a perfectly uniform tiled floor. Waves, weather and uneven rock make the shore feel much wilder than a tightly cropped photograph.",
+      "When and how: late spring through early autumn offers longer daylight, though clear winter days can also be rewarding. Allow two or three hours for the coast and interpretation. The National Trust’s Visitor Experience starts at £16 per adult and includes its listed facilities and parking arrangements; access to the coastal stones on foot is separate from that paid package.",
+      "Difficulty and costs: the visitor center and Green Trail offer accessible facilities, while the stones themselves are uneven and slippery. Check transport and parking rather than assuming a free coastal walk means free parking. Stay back from waves and closed cliff paths. Wind can make a short walk demanding. [Visitor information and source](https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway).",
+      "## 10. MOUNT RORAIMA: A TABLE MOUNTAIN IN THE GUIANA HIGHLANDS",
+      "Roraima rises in the border region of Venezuela, Guyana and Brazil. Its steep cliffs and plateau belong to the tepui landscapes of the Guiana Highlands, where erosion has isolated remnants of ancient sedimentary rock. Cloud, exposed rock and specialized plant communities give the summit its otherworldly appearance. It is not a flat, easy summit stroll.",
+      "Travel status: the familiar trekking approach is through Venezuela. Current [FCDO advice](https://www.gov.uk/foreign-travel-advice/venezuela/) advises against all travel within 40 kilometers of Venezuela’s borders with Brazil and Guyana, directly relevant to Roraima. We do not recommend that trek under the current warning.",
+      "Season and practical context: the relatively drier part of the year, broadly December to April, is traditionally preferred, but rain and cold cloud remain possible. Standard trekking itineraries commonly require about a week, guides, camping and substantial walking. This is a description of the commitment, not a current route recommendation. No quoted package price can resolve the security and evacuation issues. [Visitor information and source](https://whc.unesco.org/en/list/701/).",
+      "## 11. DANAKIL DEPRESSION, ETHIOPIA: CHEMISTRY IN THE OPEN",
+      "In the Afar region, the Dallol hydrothermal area contains salt structures and vividly colored brines. Geothermal heat interacts with evaporite deposits; iron chemistry and other minerals help create changing yellows, greens and rusty tones. These pools are not inviting mineral baths. The colors and active features shift, so an older photograph is not a map of today’s surface.",
+      "When and how: the cooler months, broadly November to February, reduce but do not remove extreme heat. A specialist multi-day journey is the usual format, with long rough transfers and limited facilities. It is unsuitable for casual independent exploration or travelers who need reliable nearby medical care.",
+      "Safety and costs: review the exact route against [Ethiopia’s regional travel advice](https://www.gov.uk/foreign-travel-advice/ethiopia/regional-risks). The FCDO advises against all travel within 10 kilometers of Eritrea in Afar and reports other regional security risks. Hot acidic fluids, unstable crust and hazardous gases add non-security dangers. Defer if route safety or evacuation support is uncertain; an organized tour is not proof of safety. [Visitor information and source](https://pmc.ncbi.nlm.nih.gov/articles/PMC6380227/).",
+      "## 12. VATNAJÖKULL ICE CAVES, ICELAND: BLUE THAT CHANGES SHAPE",
+      "Cavities within and beneath outlet glaciers can reveal sculpted blue ice. Dense ice absorbs longer wavelengths of light more strongly, leaving blue prominent under suitable illumination; bubbles, sediment and thickness change the effect. Meltwater helps carve passages that can alter or disappear. A named cave in last winter’s advertisement may not exist in the same form next winter.",
+      "When and how: the regional tourism organization identifies winter as the main natural ice-cave season. Plan around that rather than assuming year-round access to a particular Vatnajökull cave. Allow a half-day or longer, depending on the approach, with an authorized specialist who assesses conditions and supplies appropriate equipment.",
+      "Difficulty and costs: uneven ice, cold and rough transport can make even short visits physically demanding. Get the walking distance, age restrictions, equipment and cancellation conditions before paying. Never enter independently or cross barriers to reproduce a photograph. A guide may cancel or change the cave because conditions are unsuitable; build flexibility into the trip. [Visitor information and source](https://visitvatnajokull.is/faq/when-is-the-ice-cave-season/).",
+      "## 13. RAJA AMPAT, INDONESIA: ISLANDS ABOVE A REEF WORLD",
+      "Off western New Guinea, forested limestone islands rise from shallow tropical seas. Weathering and dissolution shape the karst, while reefs and changing depth help produce striking water colors. From a boat, the scene is close-up channels and wooded shores; the famous island patterns require particular elevated viewpoints, and the underwater world needs separate time.",
+      "When and how: October to April is commonly favored for marine activities in several parts of Raja Ampat, though exposure and conditions differ between islands. Allow at least five to seven days once in the region. Arrange transfers through an established homestay, lodge or vessel rather than assuming frequent transport between distant islands.",
+      "Difficulty and costs: viewpoint climbs can be steep, boats awkward to board and currents powerful. Use local snorkeling or diving guidance and check medical evacuation cover. Ask for an itemized price including boat transfers, meals, conservation permits and activities. Remote transport can outweigh the room rate. Do not stand on coral or pursue wildlife for photographs. [Visitor information and source](https://www.indonesia.travel/id/id/travel-ideas/marine/ke-raja-ampat-inspirasi-perjalanan-untuk-liburan-ke-surga-di-timur-indonesia).",
+      "## 14. LAKE HILLIER, AUSTRALIA: A FAMOUS COLOR WITH A CAVEAT",
+      "On Middle Island in Western Australia’s Recherche Archipelago, Lake Hillier became famous for pink water beside a pale shore and blue ocean. Pigmented salt-loving microorganisms contribute to pink-lake colors, with water chemistry and environmental conditions affecting their appearance. It is precisely the kind of place where an old viral image can create unrealistic expectations.",
+      "Reality check: Tourism Western Australia now cautions that Hillier is no longer the bubblegum-pink lake shown in many familiar images. Do not book a journey on the promise of that color. It is also distinct from the lake named Pink Lake near Esperance. Ask for recent, dated observations of the exact lake and proposed flight route.",
+      "When and how: calmer-weather days determine aerial sightseeing more than any guaranteed color season; southern summer may suit a broader Esperance trip. A flight takes part of a day, while island access is restricted and should not be assumed. Confirm current operator availability, permissions and the complete fare. This is not a drive-up swimming stop, and we make no promise of a pink view. [Visitor information and source](https://www.westernaustralia.com/au/plan-my-trip/planning-tools/travel-stories/the-amazing-pink-lakes-of-western-australia).",
+      "## 15. NAMIB DESERT, NAMIBIA: RED DUNES AND DARK TREES",
+      "Around Sossusvlei and Deadvlei, wind-shaped dunes frame a pale clay pan and the dark remains of camel thorn trees. Iron-bearing coatings help give the sand its warm color. Deadvlei’s trees died after water no longer regularly reached the pan; the dry climate preserved their standing remains. They are not a forest of stone sculptures.",
+      "When and how: the cooler months, roughly May to September, favor walking, with cold mornings possible. Spend two nights near Sesriem if possible and allow a half-day or more for the dunes and pan. Early light creates strong dune shadows, but gate rules determine when you can enter.",
+      "Difficulty and costs: soft sand and heat make modest distances strenuous. Confirm whether the final sandy approach needs an appropriate vehicle or shuttle; a rental car is not automatically suitable. Budget for park entry, vehicle charges and transfers separately. Carry water, remain on permitted routes and never climb or lean on the dead trees. [Visitor information and source](https://visitnamibia.com.na/2022/03/southern-region/).",
+      "## 16. GRAND PRISMATIC SPRING, USA: A THERMAL COLOR WHEEL",
+      "In Yellowstone, Wyoming, a blue hot spring is bordered by orange and yellow microbial mats. Water and light explain the deep central blue; organisms adapted to different conditions contribute to the colored margins. Steam, temperature and viewing angle affect what you see. The boardwalk view is not the same as the familiar overhead photograph.",
+      "When and how: summer and early autumn are useful planning windows, subject to road and trail openings. Allow two or three hours for the basin and, if open, the separate Grand Prismatic Overlook trail. The [NPS overlook guide](https://www.nps.gov/thingstodo/yell-trail-grand-prismatic-overlook.htm) explains the walking route. Warmer parts of the day can offer less obstructive steam than a cold morning.",
+      "Safety and cost: remain on boardwalks and marked trails; the crust can conceal scalding water. Yellowstone lists a US$35 private-vehicle seven-day entrance fee. Its current rules also impose an additional US$100 per non-US resident aged 16 or over unless admitted with a qualifying Annual or America the Beautiful Pass. Check pass eligibility and group coverage before purchasing. [Visitor information and source](https://www.nps.gov/yell/planyourvisit/fees.htm).",
+      "## 17. PLITVICE LAKES, CROATIA: WATER BUILDING ITS OWN STEPS",
+      "In central Croatia, lakes descend through a landscape of waterfalls and forest. Calcium carbonate deposition, aided by biological processes, builds porous tufa barriers that shape the cascade system. Water color changes with light, depth and suspended material. Expect a sequence of paths and viewpoints, not an empty turquoise pool reserved for swimming.",
+      "When and how: late spring and early autumn offer attractive alternatives to peak summer, although rain can affect routes. Allow a full day and choose a marked itinerary appropriate to your fitness. Timed admission, boats and park transport should be checked as part of the visit rather than improvised at a crowded entrance.",
+      "Difficulty and cost: wooden walkways can be wet and crowded, with uneven sections and steps. Swimming is prohibited. The published adult one-day price is €10 in the winter tariff periods, €23 in April, May and October, and up to €40 in June through September; a cheaper late-entry summer tariff has timing conditions. Confirm your slot and open routes before buying. [Visitor information and source](https://np-plitvicka-jezera.hr/en/plan-your-visit/istrazite-jezera/price-list/).",
+      "## 18. TSINGY DE BEMARAHA, MADAGASCAR: A FOREST OF LIMESTONE",
+      "Western Madagascar’s tsingy are jagged limestone formations created by dissolution and erosion along fractures. From above they resemble blades packed together; within them are passages, cavities and forest habitats. The visual drama does not require volcanic origins or a lost city. It is an extraordinary expression of karst processes.",
+      "When and how: target the dry-season access window and confirm that roads and your chosen circuits are actually open. June to October is a sensible starting point for inquiries. Allow two days in the park plus substantial travel time. Madagascar National Parks describes routes of differing lengths and difficulty, so choose the circuit rather than simply booking “the tsingy.”",
+      "Difficulty and costs: demanding circuits can involve scrambling, heights and safety equipment; they are not suitable for every visitor. Arrange qualified local guidance, and ask about mobility requirements and shorter options. Price the whole journey, including vehicle, transfers, park admission and guiding. Rain-related road problems can make a seemingly short map distance a major undertaking. [Visitor information and source](https://parcs-madagascar.com/en/parc/tsingy-de-bemaraha-2/).",
+      "## 19. CHOCOLATE HILLS, PHILIPPINES: A LANDSCAPE OF REPEATED CONES",
+      "In Bohol, rounded hills recur across the horizon in an almost patterned arrangement. They are limestone landforms shaped over long periods by weathering and erosion. Their famous chocolate appearance comes from vegetation drying and browning, not from the rock being made of brown material. In wetter months, the same hills can be green.",
+      "When and how: the drier part of the year, broadly December to May, improves the chance of brown slopes, but rainfall controls the change. Allow a half-day for a viewpoint and surrounding countryside or a full day when combining other Bohol stops. An established viewing platform provides the broad pattern without walking onto the hills.",
+      "Difficulty and costs: main viewpoints involve steps, so ask about access before committing if climbing is difficult. Expect heat and tour-group peaks. Confirm the selected viewpoint’s current fee and transfer price; a countryside tour may bundle unrelated paid attractions. Stay off protected slopes, and do not confuse a commercial adventure attraction with permission to explore the landforms freely. [Visitor information and source](https://philippines.travel/destinations/chocolate-hills-bohol/index).",
+      "## 20. VALLE DE LA LUNA, CHILE: THE DESERT IN LOW LIGHT",
+      "Near San Pedro de Atacama, salt-bearing ridges, dunes and eroded formations create a landscape whose shadows sharpen as the sun drops. Uplift, weathering and erosion shaped these earthly rocks; the resemblance to another planet is visual, not a claim of unusual extraterrestrial material. Pale mineral surfaces should not be mistaken for snow.",
+      "When and how: spring and autumn are comfortable planning choices, while winter brings colder evenings and summer can bring weather disruptions. Allow a half-day from San Pedro with transport and time for designated walking areas. Sunset is popular, so expect company rather than the solitude suggested by an empty-frame photograph.",
+      "Difficulty and costs: sun, dry air, altitude and sandy paths make water and sensible pacing important. Reserve through a verified current visitor channel and confirm open sectors, last-entry rules and the complete transfer price. Older travel pages can retain superseded procedures, so we do not treat an old admission tariff as a current quote. Stay on authorized routes and leave salt formations untouched. [Visitor information and source](https://chile.travel/en/attractions/valle-de-la-luna-moon-valley/).",
+      "## BEST PLACES FOR PHOTOGRAPHY",
+      "Choose Uyuni for conditional reflections, the Namib for dune shadows and Cappadocia for layered ridges. Wulingyuan rewards time for changing cloud rather than one hurried viewpoint. At Grand Prismatic, decide whether you want the boardwalk experience or the legal overlook perspective. Do not assume a drone is permitted because aerial images exist. Waitomo is better approached as an experience to enjoy in darkness than a promise of personal photographs.",
+      "## BEST FOR ADVENTURE",
+      "Tsingy de Bemaraha suits travelers comfortable with difficult approaches and appropriately chosen climbing circuits. Guided Vatnajökull outings offer a shorter but still weather-dependent encounter with ice. Raja Ampat rewards time on and below the water with qualified support. Roraima and Socotra are not recommendations for current adventure trips under the warnings described above, and Danakil requires route-specific security and environmental assessment.",
+      "## BEST FOR COUPLES",
+      "Cappadocia offers several days of walks and comfortable bases without requiring a balloon flight. Plitvice works well with an overnight stay nearby and an early reserved entry. Raja Ampat can provide a slower shared trip, provided both travelers are comfortable with boats, remoteness and the chosen accommodation. A dramatic landscape does not compensate for an itinerary that one person finds exhausting.",
+      "## EASIEST TO VISIT",
+      "Waitomo’s scheduled standard tour, Giant’s Causeway’s developed visitor facilities and Pamukkale’s established tourism infrastructure make them comparatively straightforward to organize. “Easy to book” is not the same as universally accessible: stairs, wet surfaces and long approaches still matter. Discuss your exact mobility requirements with the venue, rather than relying on a destination-wide accessibility label.",
+      "## HARDEST TO REACH",
+      "Raja Ampat and western Madagascar need careful transfer planning and spare days. Lake Hillier needs verified viewing access and realistic expectations about its present color. Security makes Socotra and Roraima a different category of difficulty altogether. Official warnings are not logistical obstacles to work around. For more workable alternatives and wider itineraries, see our [15 underrated countries guide](/articles/world-most-underrated-countries-to-visit/).",
+      "## HOW TO VISIT RESPONSIBLY",
+      "Book authorized guides and community-run services where appropriate, including Navajo operators at Antelope Canyon. Follow local instructions even when a social-media post shows somebody beyond a barrier. Do not collect salt, rock, coral or plants. Clean footwear and equipment between sensitive ecosystems, carry out waste and avoid disturbing wildlife with lights, drones or close approaches.",
+      "Water is not automatically safe because it is beautiful. Hot springs can scald, mineral pools can be acidic, lagoons can be deeper than expected and reef channels can carry strong currents. Keep to designated bathing areas where swimming is allowed. Never enter an ice cave, geothermal field or restricted terrace independently to obtain a clearer photograph.",
+      "Stay longer in fewer places. This reduces rushed transfers and gives weather-dependent experiences another chance while supporting accommodation, guides and restaurants locally. A nature trip can also leave space for the living culture around it; our [beautiful old cities guide](/articles/old-but-gold-world-most-beautiful-old-cities/) offers ideas for combining landscapes with a slower city stay.",
+      "## QUESTIONS BEFORE YOU GO",
+      "### Will these places look exactly like their photographs?",
+      "Usually not from every viewpoint or on every day. Reflections need suitable water and wind; lagoons depend on rainfall; ice caves change; pink-lake colors can fade. Ask when and where an image was made and whether it is an aerial, long-exposure or heavily edited view. The hero for this article is explicitly a composite, not documentary evidence of any single landscape.",
+      "### Does UNESCO status mean a destination is open and safe?",
+      "No. Heritage recognition concerns significance and conservation. It is not a live opening notice, a travel advisory or a guarantee of accessible infrastructure. Check the managing authority and official travel guidance independently.",
+      "### Can I plan around the lowest advertised price?",
+      "Only after checking what it includes. Admission may exclude transport, a required guide, conservation permits, equipment or a visitor-specific surcharge. Ask for a dated total and cancellation terms, especially where weather can prevent the main experience.",
+      "The most rewarding encounter is often the moment the explanation becomes visible: a mineral edge forming around water, a shadow revealing the shape of a dune, a living point of light in darkness. Understanding how a landscape works does not diminish the wonder. It makes the real place more interesting than the impossible-looking picture."
+    ],
+    "references": [
+      {"name": "UNESCO: Plitvice Lakes and tufa formation", "url": "https://whc.unesco.org/en/list/98/"},
+      {"name": "National Park Service: hot spring colors", "url": "https://www.nps.gov/yell/learn/nature/hotsprings.htm"},
+      {"name": "National Park Service: thermophilic communities", "url": "https://www.nps.gov/yell/learn/nature/thermophilic-communities.htm"},
+      {"name": "UNESCO: Andrefana Dry Forests and Tsingy de Bemaraha", "url": "https://whc.unesco.org/en/list/494/"},
+      {"name": "Peer-reviewed research: ecology of Waitomo glowworm larvae", "url": "https://doi.org/10.1080/03036758.1984.10421739"},
+      {
+        "name": "NASA: Salar de Uyuni and its wet-season reflections",
+        "url": "https://science.nasa.gov/earth/earth-observatory/lithium-harvesting-at-salar-de-uyuni-144976/"
+      },
+      {
+        "name": "UNESCO: Socotra Archipelago",
+        "url": "https://whc.unesco.org/en/list/1263/"
+      },
+      {
+        "name": "UNESCO: Wulingyuan Scenic and Historic Interest Area",
+        "url": "https://whc.unesco.org/en/list/640/"
+      },
+      {
+        "name": "UNESCO: Lençóis Maranhenses National Park",
+        "url": "https://whc.unesco.org/en/list/1611/"
+      },
+      {
+        "name": "UNESCO: Hierapolis-Pamukkale",
+        "url": "https://whc.unesco.org/en/list/485/"
+      },
+      {
+        "name": "Go Türkiye: Cappadocia visitor guide",
+        "url": "https://goturkiye.com/cappadocia/see-cappadocia"
+      },
+      {
+        "name": "Navajo Nation Parks: Lake Powell and Antelope Canyon rules",
+        "url": "https://navajonationparks.org/tribal-parks/lake-powell/"
+      },
+      {
+        "name": "Discover Waitomo: tour, access and published prices",
+        "url": "https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves"
+      },
+      {
+        "name": "National Trust: Giant’s Causeway visitor information",
+        "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway"
+      },
+      {
+        "name": "UNESCO: Canaima National Park and tepui landscapes",
+        "url": "https://whc.unesco.org/en/list/701/"
+      },
+      {
+        "name": "Peer-reviewed research: Dallol’s iron-controlled hydrothermal system",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6380227/"
+      },
+      {
+        "name": "Visit Vatnajökull: ice-cave season",
+        "url": "https://visitvatnajokull.is/faq/when-is-the-ice-cave-season/"
+      },
+      {
+        "name": "Indonesia Travel: Raja Ampat activities and planning",
+        "url": "https://www.indonesia.travel/id/id/travel-ideas/marine/ke-raja-ampat-inspirasi-perjalanan-untuk-liburan-ke-surga-di-timur-indonesia"
+      },
+      {
+        "name": "Tourism Western Australia: pink lakes and current color context",
+        "url": "https://www.westernaustralia.com/au/plan-my-trip/planning-tools/travel-stories/the-amazing-pink-lakes-of-western-australia"
+      },
+      {
+        "name": "Namibia Tourism Board: Sossusvlei and Deadvlei",
+        "url": "https://visitnamibia.com.na/2022/03/southern-region/"
+      },
+      {
+        "name": "US National Park Service: Yellowstone admission and nonresident fees",
+        "url": "https://www.nps.gov/yell/planyourvisit/fees.htm"
+      },
+      {
+        "name": "Plitvice Lakes National Park: official price list",
+        "url": "https://np-plitvicka-jezera.hr/en/plan-your-visit/istrazite-jezera/price-list/"
+      },
+      {
+        "name": "Madagascar National Parks: Tsingy de Bemaraha circuits",
+        "url": "https://parcs-madagascar.com/en/parc/tsingy-de-bemaraha-2/"
+      },
+      {
+        "name": "Philippine Department of Tourism: Chocolate Hills",
+        "url": "https://philippines.travel/destinations/chocolate-hills-bohol/index"
+      },
+      {
+        "name": "Chile Travel: Valle de la Luna destination guide",
+        "url": "https://chile.travel/en/attractions/valle-de-la-luna-moon-valley/"
+      },
+      {
+        "name": "FCDO: Yemen travel advice",
+        "url": "https://www.gov.uk/foreign-travel-advice/yemen/"
+      },
+      {
+        "name": "FCDO: Venezuela travel advice",
+        "url": "https://www.gov.uk/foreign-travel-advice/venezuela/"
+      },
+      {
+        "name": "FCDO: Ethiopia regional risks",
+        "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/regional-risks"
+      },
+      {
+        "name": "ICMBio: Lençóis Maranhenses visitor rules",
+        "url": "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-dos-lencois-maranhenses/paginas-site-parna-dos-lencois-maranhenses-ma/orientacoes-ao-visitante"
+      },
+      {
+        "name": "US National Park Service: Grand Prismatic Overlook",
+        "url": "https://www.nps.gov/thingstodo/yell-trail-grand-prismatic-overlook.htm"
+      },
+      {
+        "name": "UNESCO: Namib Sand Sea",
+        "url": "https://whc.unesco.org/en/list/1430/"
+      }
+    ]
+  },
+  {
     "id": "102",
     "slug": "old-but-gold-world-most-beautiful-old-cities",
     "title": "OLD BUT GOLD: THE WORLD’S MOST BEAUTIFUL OLD CITIES",
