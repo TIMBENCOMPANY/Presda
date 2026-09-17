@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { HomeReferenceExperience } from "@/components/HomeReferenceExperience";
+import { toArticleCardRecord } from "@/lib/articleCards";
 import { getPublishedArticles } from "@/data/articles";
 import { createPageMetadata } from "@/lib/seo";
 import { curateLatestStories, developingLeadSlug, featuredHeroSlugs } from "@/lib/homeCuration";
@@ -34,5 +35,5 @@ export default function HomePage() {
     .map((article) => article.slug));
   const moreStories = curateLatestStories(articles, visibleSlugs, new Date(), moreStoriesCount);
 
-  return <HomeReferenceExperience slides={featured} editorialPicks={editorialPicks} moreStories={moreStories} />;
+  return <HomeReferenceExperience slides={featured.map(toArticleCardRecord)} editorialPicks={editorialPicks.map(toArticleCardRecord)} moreStories={moreStories.map(toArticleCardRecord)} />;
 }

@@ -71,7 +71,7 @@ export function CategoryFeatured({ slides, sideStories }: { slides: CategoryStor
           {slides.map((article, index) => (
             <article key={article.slug} aria-hidden={index !== active} aria-label={`${index + 1} of ${slides.length}`} aria-roledescription="slide"
               className={`relative col-start-1 row-start-1 transition-opacity duration-700 motion-reduce:transition-none ${index === active ? "z-10 opacity-100" : "pointer-events-none opacity-0"}`}>
-              <Link href={`/articles/${article.slug}/`} tabIndex={index === active ? 0 : -1} className="group block h-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-[#FF1A1A]">
+              <Link prefetch={index === active ? undefined : false} href={`/articles/${article.slug}/`} tabIndex={index === active ? 0 : -1} className="group block h-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-[#FF1A1A]">
                 <div className="relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
                   <Image src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
                     sizes="(max-width: 1023px) calc(100vw - 24px), (max-width: 1536px) 65vw, 1000px"

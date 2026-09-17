@@ -1,13 +1,13 @@
 import { ArrowRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import type { Article } from "@/data/articles";
+import type { ArticleCardRecord } from "@/lib/articleCards";
 import { HeadlineText } from "@/components/HeadlineText";
 import { getArticleCardImage, getArticleCardImagePosition } from "@/lib/articleImages";
 import { categoryLabels, formatDate } from "@/lib/categories";
 
 type ArticleCardProps = {
-  article: Article;
+  article: ArticleCardRecord;
   priority?: boolean;
   showImage?: boolean;
 };
@@ -15,6 +15,7 @@ type ArticleCardProps = {
 export function ArticleCard({ article, priority = false, showImage = true }: ArticleCardProps) {
   return (
     <Link
+      prefetch={false}
       href={`/articles/${article.slug}/`}
       className="group block overflow-hidden rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] shadow-[var(--shadow)] transition hover:border-[#FF1A1A]"
     >

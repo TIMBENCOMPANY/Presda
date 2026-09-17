@@ -7,6 +7,7 @@ import { usePathname, useRouter } from "next/navigation";
 import type { FocusEvent, FormEvent } from "react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { ArticleSearchRecord } from "@/lib/articleSearch";
+import { loadSearchIndex } from "@/lib/loadSearchIndex";
 import { searchArticles } from "@/lib/articleSearch";
 import { categoryLabels, formatDate, toCategorySlug } from "@/lib/categories";
 import { ThemeToggle } from "@/components/ThemeToggle";
@@ -22,9 +23,7 @@ const homepageCategoryLinks = ["World", "Sport", "Business", "AI", "Science", "H
 const minimumSearchLength = 2;
 const maxSearchResults = 6;
 
-type HeaderProps = {
-  articles: ArticleSearchRecord[];
-};
+
 
 function isActivePath(pathname: string | null, href: string) {
   if (!pathname) {
@@ -34,7 +33,9 @@ function isActivePath(pathname: string | null, href: string) {
   return pathname === href || (href !== "/" && pathname.startsWith(href));
 }
 
-export function Header({ articles }: HeaderProps) {
+export function Header() {
+  const [articles, setArticles] = useState<ArticleSearchRecord[]>([]);
+  const [searchStatus, setSearchStatus] = useState<"idle" | "loading" | "ready" | "error">("idle");
   const [open, setOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchFocused, setSearchFocused] = useState(false);
@@ -56,6 +57,16 @@ export function Header({ articles }: HeaderProps) {
       .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
       .slice(0, maxSearchResults);
   }, [articles, trimmedQuery]);
+
+  useEffect(() => {
+    if (!searchFocused && !searchOpen) return;
+    let cancelled = false;
+    setSearchStatus("loading");
+    loadSearchIndex().then(records => {
+      if (!cancelled) { setArticles(records); setSearchStatus("ready"); }
+    }).catch(() => { if (!cancelled) setSearchStatus("error"); });
+    return () => { cancelled = true; };
+  }, [searchFocused, searchOpen]);
 
   const closeSearch = useCallback(() => {
     setQuery("");
@@ -167,7 +178,7 @@ export function Header({ articles }: HeaderProps) {
             ))}
           </div>
         ) : (
-          <div className="px-3 py-3 text-sm text-[color:var(--home-soft)]">No articles found</div>
+          <div className="px-3 py-3 text-sm text-[color:var(--home-soft)]">{searchStatus === "error" ? "Search unavailable. Press Enter to search the article library." : searchStatus !== "ready" ? "Searching..." : "No articles found"}</div>
         )}
       </div>
     );

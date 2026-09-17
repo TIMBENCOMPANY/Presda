@@ -2,20 +2,21 @@
 
 import { Search } from "lucide-react";
 import { useMemo, useState } from "react";
-import type { Article, ArticleCategory } from "@/data/articles";
-import { categories } from "@/data/articles";
+import type { ArticleCategory } from "@/data/articles";
+import type { ArticleListRecord } from "@/lib/articleCards";
 import { ArticleCard } from "@/components/ArticleCard";
 import { articleMatchesSearch } from "@/lib/articleSearch";
 import { categoryLabels } from "@/lib/categories";
 
 type ArticleBrowserProps = {
-  articles: Article[];
+  articles: ArticleListRecord[];
+  categories: ArticleCategory[];
   initialCategory?: ArticleCategory | "ALL";
   initialQuery?: string;
   compact?: boolean;
 };
 
-export function ArticleBrowser({ articles, initialCategory = "ALL", initialQuery = "", compact = false }: ArticleBrowserProps) {
+export function ArticleBrowser({ articles, categories, initialCategory = "ALL", initialQuery = "", compact = false }: ArticleBrowserProps) {
   const [query, setQuery] = useState(initialQuery);
   const [category, setCategory] = useState<ArticleCategory | "ALL">(initialCategory);
   const [sort, setSort] = useState("latest");

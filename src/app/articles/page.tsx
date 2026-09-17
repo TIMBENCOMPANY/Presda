@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { toArticleListRecord } from "@/lib/articleCards";
+import { categories } from "@/data/articles";
 import { ArticleBrowser } from "@/components/ArticleBrowser";
 import { getPublishedArticles } from "@/data/articles";
 import { breadcrumbJsonLd, createPageMetadata } from "@/lib/seo";
@@ -34,7 +36,7 @@ export default async function ArticlesPage({ searchParams }: { searchParams?: Pr
           Browse PRESDA stories by category, search for topics, and sort the newsroom feed by date.
         </p>
       </header>
-      <ArticleBrowser articles={articles} initialQuery={initialQuery} />
+      <ArticleBrowser articles={articles.map(toArticleListRecord)} categories={categories} initialQuery={initialQuery} />
     </main>
   );
 }

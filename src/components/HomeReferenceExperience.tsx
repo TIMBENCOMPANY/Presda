@@ -4,22 +4,19 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { Article } from "@/data/articles";
+import type { ArticleCardRecord } from "@/lib/articleCards";
 import { ArticleCard } from "@/components/ArticleCard";
 import { HeadlineText } from "@/components/HeadlineText";
 import type { HeadlineHighlights } from "@/components/HeadlineText";
 import { getArticleCardImage, getArticleCardImagePosition } from "@/lib/articleImages";
 import { categoryLabels, formatDate } from "@/lib/categories";
 
-type HomeStory = Pick<
-  Article,
-  "slug" | "title" | "headlineAccent" | "headlineHighlights" | "excerpt" | "category" | "date" | "coverImage" | "coverAlt" | "homepageImagePosition" | "readingTime"
->;
+type HomeStory = ArticleCardRecord;
 
 type HomeReferenceExperienceProps = {
   slides: HomeStory[];
   editorialPicks: HomeStory[];
-  moreStories: Article[];
+  moreStories: ArticleCardRecord[];
 };
 
 const heroHighlightOverrides: Record<string, HeadlineHighlights> = {
@@ -277,7 +274,7 @@ function SidebarStoryCard({ article, priority = false }: { article: HomeStory; p
   const highlights = heroHighlightOverrides[article.slug] ?? article.headlineHighlights;
 
   return (
-    <Link href={`/articles/${article.slug}/`} className="home-side-card group relative flex min-h-[142px] w-full min-w-0 flex-col overflow-hidden rounded-2xl border transition hover:-translate-y-0.5 sm:min-h-[156px] lg:min-h-0 lg:block">
+    <Link prefetch={false} href={`/articles/${article.slug}/`} className="home-side-card group relative flex min-h-[142px] w-full min-w-0 flex-col overflow-hidden rounded-2xl border transition hover:-translate-y-0.5 sm:min-h-[156px] lg:min-h-0 lg:block">
       <div className="relative aspect-[16/10] w-full shrink-0 overflow-hidden bg-black lg:absolute lg:inset-0 lg:aspect-auto">
         <Image
           src={getArticleCardImage(article)}
