@@ -54,6 +54,253 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "097",
+    "slug": "ancient-egypt-pharaohs-nile-3000-years-history",
+    "title": "ANCIENT EGYPT: HOW THE PHARAOHS BUILT A CIVILIZATION THAT LASTED 3,000 YEARS",
+    "seoTitle": "Ancient Egypt: Pharaohs, the Nile and 3,000 Years of History",
+    "metaDescription": "Explore ancient Egypt from Nile farming and the pyramids to powerful pharaohs, medicine, mummification and Cleopatra, across 3,000 years of change.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "ANCIENT EGYPT",
+      "gold": "3,000 YEARS"
+    },
+    "excerpt": "The Nile, royal power and a remarkable capacity to rebuild: how ancient Egypt endured through changing kingdoms, foreign rule and the age of Cleopatra.",
+    "category": "History",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/ancient-egypt-pharaohs-nile.webp",
+    "coverAlt": "Editorial historical reconstruction of a pharaoh overlooking a Nile city with temples and pyramids, not a documented ruler or exact historical skyline",
+    "homepageImagePosition": "80% 0%",
+    "content": [
+      "Before the stone temples, before the painted tombs, there was the river. Each year the Nile’s flood could transform the narrow strip between the deserts into land capable of sustaining another harvest. Farmers watched the water; officials counted grain; boats carried people, provisions and commands. The civilization remembered for its dead depended on an intensely practical struggle to keep the living fed.",
+      "Ancient Egypt endured for roughly three millennia from early political unification around 3100 BCE to the end of Ptolemaic rule in 30 BCE. That does not mean one dynasty, one territory or one government survived unchanged. Kingdoms broke apart, regional rulers competed, foreign dynasties governed, and Egyptian institutions were repeatedly rebuilt. Even Roman conquest did not instantly end Egyptian religion or everyday culture.",
+      "Image note: the hero is an editorial historical reconstruction combining Egyptian architectural and royal motifs. It is not a literal portrait, a documented ceremony or an exact historical skyline.",
+      "## THE NILE: A CIVILIZATION’S LIFELINE",
+      "The Nile connected southern Upper Egypt with northern Lower Egypt, the Delta. The names follow the river’s course, not the orientation of a modern map. Floodwater and fertile sediment supported cultivation, while boats made the valley a transport corridor. Surrounding deserts constrained settlement and offered some protection, but they never sealed Egypt off from its neighbors.",
+      "Agriculture required labor and cooperation, not simply a generous river. Communities managed fields and water, raised livestock and stored crops. A poor flood could threaten food supplies; excessive water could also cause damage. The river made substantial surpluses possible, and those surpluses supported specialists, temples, officials and royal building projects. [The Met: landscape, society and Egyptian art](https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/the-art-of-ancient-egypt.pdf)",
+      "## FROM REGIONAL SOCIETIES TO A UNITED KINGDOM",
+      "Egyptian state formation grew out of earlier farming communities, regional centers and competition among elites. Around 3100 BCE, rulers brought Upper and Lower Egypt under a developing monarchy. Narmer is closely associated with this process. His celebrated palette shows him wearing the crowns associated with the two regions, but it is a carefully constructed statement of kingship, not a neutral photograph of one decisive battle.",
+      "Later traditions about a founding king named Menes cannot simply be matched to every archaeological detail. Unification is best understood as a process whose symbolic memory became central to royal identity. Subsequent kings repeatedly presented themselves as rulers of the Two Lands, even when effective control was less complete. [The Narmer Palette and the evidence for unification](https://egymonuments.gov.eg/collections/narmer-palette-1/)",
+      "## THREE KINGDOMS, MANY DYNASTIES",
+      "Dynasties are sequences of rulers; kingdoms and intermediate periods are larger historical divisions used by modern scholars. Their boundaries and absolute dates vary between chronologies. Approximate dates help readers navigate the history without implying greater precision than the evidence allows. [UCL: chronology and historical divisions](https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/index.html)",
+      "### Old Kingdom: royal power in stone",
+      "The Old Kingdom, broadly the twenty-seventh to twenty-second centuries BCE, saw powerful royal administration and the great age of pyramid building. Khufu’s Great Pyramid belongs to the Fourth Dynasty. Its construction required food, transport, accounting and skilled work on a formidable scale. The monument records organizational capacity as much as engineering ability.",
+      "The collapse of centralized Old Kingdom authority led into the First Intermediate Period. Provincial power and competing courts mattered alongside environmental and economic pressures. “Intermediate” should not be read as a claim that all cultural life stopped whenever one king ceased to control the country. [The Met: Old Kingdom institutions and their transformation](https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c)",
+      "### Middle Kingdom: reunification and reinvention",
+      "Reunification under Mentuhotep II helped establish the Middle Kingdom around the beginning of the second millennium BCE. Kings strengthened institutions, developed resources and extended authority southward. Literature and art explored kingship and human experience in new ways. This was a creative rebuilding of Egyptian society, not merely a restoration of pyramid-age habits. [The Met: a transformed Middle Kingdom](https://www.metmuseum.org/-/media/files/learn/family-map-and-guides/middle-kingdom-family-guide.pdf)",
+      "In the later Second Intermediate Period, different powers ruled different parts of Egypt. The Hyksos dynasty, with roots in the eastern Mediterranean world, governed from the Delta while a Theban dynasty held power farther south. Their eventual defeat helped open the New Kingdom, conventionally dated about 1550–1070 BCE.",
+      "### New Kingdom: Egypt becomes an imperial power",
+      "New Kingdom rulers campaigned into the Levant and deep into Nubia. Thebes became a major religious center, while temples and royal tombs absorbed enormous resources. Egypt participated in diplomacy, warfare and exchange with other powerful states. Its imperial reach was real, but its borders and influence fluctuated rather than forming a permanent modern-style national boundary. [The Met: New Kingdom expansion and culture](https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c)",
+      "## WHAT DID A PHARAOH ACTUALLY DO?",
+      "The king stood at the meeting point of government and religion. Royal ideology made the ruler responsible for maintaining maat, a concept encompassing right order, justice and balance. Temple images show kings making offerings because sustaining relations with the gods was a central justification of their office.",
+      "Practical government depended on officials. Viziers, scribes, provincial administrators, priests and military officers organized resources, adjudicated disputes and carried out royal policy. Grain, land, labor and tribute mattered more than a modern cash budget. A ruler’s authority also depended on relationships with powerful households and institutions; the divine image should not be confused with unlimited practical control. [UCL: administration across different periods](https://www.ucl.ac.uk/museums-static/digitalegypt/administration/index.html)",
+      "## WERE THE PYRAMIDS BUILT BY SLAVES?",
+      "The familiar image of vast anonymous slave gangs is not a satisfactory account of the Giza projects. Excavations have revealed an organized settlement associated with construction, including provisioning facilities and administrative activity. Skilled crews and mobilized labor worked within a state system capable of feeding and coordinating them. [AERA: the workers’ settlement and its infrastructure](https://aeraweb.org/projects/)",
+      "That does not prove every worker volunteered or enjoyed modern employment rights. Ancient labor obligations could be coercive, and slavery existed in Egyptian history. The useful correction is specific: the evidence does not support reducing the pyramids to a simple story of enslaved masses, still less to aliens or lost machines. For the monuments and construction evidence, see our dedicated [history of the Egyptian pyramids](/articles/history-of-egyptian-pyramids/). [Smithsonian: pyramid construction and its evidence](https://www.si.edu/spotlight/ancient-egypt/pyramid)",
+      "## BEYOND THE PALACES: FARMERS, WOMEN AND WORKERS",
+      "Most people lived much closer to the rhythms of cultivation than to royal ceremony. Families grew crops, tended animals, prepared food and made or repaired household goods. Grain supported food production and payments in kind. Artisans produced pottery, linen, furniture and metalwork; boats and overland routes connected local economies with larger institutions.",
+      "Elite tomb scenes are valuable evidence, but they present selective, idealized worlds. Houses, tools, human remains and administrative documents help recover experiences missing from royal inscriptions. Egyptian society was hierarchical: status, access to land and institutional connections profoundly shaped opportunity. [Harvard Digital Giza: interpreting evidence of daily life](https://giza.fas.harvard.edu/lessons/daily-life-in-ancient-egypt/)",
+      "Women could own property and appear as independent parties in legal transactions, although rights and practice must be studied in their particular periods. Such evidence should not be converted into a claim of modern gender equality. Most senior offices were held by men, and an elite woman’s options differed from those of a poor agricultural worker. [UCL: interpreting gender and social evidence](https://www.ucl.ac.uk/museums-static/digitalegypt/gender/gender.html)",
+      "## SCRIBES, NUMBERS AND THE WORK OF KNOWLEDGE",
+      "Hieroglyphs were a writing system with signs representing sounds as well as words and semantic categories, not a collection of mysterious pictures. More cursive scripts served everyday administration. Literacy was specialized, giving trained scribes an important role in accounts, correspondence, religious texts and the transmission of knowledge. [British Museum: understanding hieroglyphs](https://www.britishmuseum.org/hieroglyphs-resources)",
+      "Mathematics addressed practical problems such as distributing provisions and calculating areas and volumes. The Rhind Mathematical Papyrus preserves worked examples and methods involving fractions. These achievements supported surveying, accounting and construction, but they should be understood through the surviving procedures rather than dressed up as modern mathematics centuries ahead of its time. [British Museum: what the Rhind Papyrus shows](https://www.britishmuseum.org/blog/learn-maths-egyptian-secrets-rhind-mathematical-papyrus)",
+      "## HOW ADVANCED WAS EGYPTIAN MEDICINE?",
+      "The Edwin Smith Surgical Papyrus preserves systematic descriptions of injuries, examinations and judgments about whether cases could be treated. Its attention to observation is striking. It provides evidence of practical experience with trauma, not proof that Egyptian physicians possessed modern anatomy, germ theory or surgical capabilities. [New York Academy of Medicine: the surgical papyrus](https://nyam.org/library-resources/library-collections/edwin-smith-surgical-papyrus/)",
+      "Other medical texts combine remedies with protective spells and ritual. To their users, these were not necessarily competing explanations. The London Medical Papyrus illustrates that mixture. Some practices may have helped; others were ineffective or harmful. Ancient recipes are historical evidence, not safe treatments to reproduce today. [British Museum: medicine and incantation](https://www.britishmuseum.org/collection/object/Y_EA10059-3)",
+      "## WHY DID EGYPTIANS MUMMIFY THE DEAD?",
+      "Preserving the body helped maintain the deceased person’s identity and prospects for an afterlife. Embalmers developed techniques involving drying, wrapping and, in many cases, treatment or removal of internal organs. Practices changed across time and according to resources; the elaborate treatment of a royal mummy was not the experience of every Egyptian. [Smithsonian: mummification and its development](https://www.si.edu/spotlight/ancient-egypt/mummies)",
+      "The body was only part of the funerary system. Offerings, names, images, amulets and texts also sustained the dead. Beliefs associated with Osiris and judgment emphasized renewal and moral order. Tombs therefore speak about relationships, resources and hopes as well as death. Museums’ concentration on surviving burials can make ancient Egypt seem more obsessed with dying than its living population actually was. [British Museum: death, identity and afterlife](https://www.britishmuseum.org/collection/galleries/egyptian-death-and-afterlife-mummies)",
+      "## HATSHEPSUT AND THUTMOSE III: TWO FORMS OF ROYAL POWER",
+      "Hatshepsut initially acted as regent for the young Thutmose III before taking full royal titles and ruling alongside him. Her monuments adapted the visual language of kingship, including conventional male royal forms. They were statements about the office she occupied, not straightforward portraits of everyday appearance. [The Met: Hatshepsut’s royal representation](https://www.metmuseum.org/art/collection/search/547761)",
+      "Her building program and celebrated expedition to Punt expressed prosperity and connections beyond Egypt. Thutmose III later became one of Egypt’s most successful campaigning kings, expanding its influence in western Asia. Their overlapping reigns also show why neat lists of isolated rulers can mislead: succession, co-rule and the later reshaping of memory complicate the record. [NMEC: Thutmose III and the joint reign](https://nmec.gov.eg/mummies-hall/Thutmose-iii/); [The Met: Hatshepsut and trade](https://www.metmuseum.org/exhibitions/listings/2006/hatshepsut)",
+      "## AKHENATEN’S REVOLUTION AND TUTANKHAMUN’S RESTORATION",
+      "In the fourteenth century BCE, Amenhotep IV adopted the name Akhenaten and promoted the Aten, associated with the sun’s disk, while establishing a new capital at Akhetaten, now Amarna. His program increasingly challenged established cults, especially that of Amun. It also produced distinctive artistic conventions centered on the royal family.",
+      "Calling him simply the inventor of monotheism imposes a tidy modern category on a changing religious program. The degree and meaning of exclusivity, and its reach beyond the court, require care. After his reign, the experiment was dismantled and traditional cults regained royal support. [Egyptian Ministry of Antiquities: Amarna](https://egymonuments.gov.eg/collections/amarna/)",
+      "Tutankhamun, who came to the throne as a child, belonged to that restoration. His short reign was less politically transformative than those of several predecessors. His extraordinary modern fame comes chiefly from the rich contents of his tomb, discovered by Howard Carter’s excavation in 1922. Survival in the archaeological record and importance in ancient politics are different things. [The Met: Tutankhamun and his burial](https://www.metmuseum.org/exhibitions/listings/2010/tutankhamun-funeral)",
+      "## DID TUTANKHAMUN REALLY HAVE A CURSE?",
+      "No credible evidence establishes a supernatural curse. Deaths connected in popular accounts to the tomb became a compelling newspaper story, but selecting memorable deaths while ignoring survivors is not a reliable test. A historical cohort study published in BMJ found no significant association between exposure to the supposed curse and survival.",
+      "That study does not explain every individual illness, nor does it mean old enclosed spaces can never contain ordinary hazards. It addresses the specific claim that those exposed to the tomb suffered a distinctive fatal curse. Archaeology requires evidence, and a dramatic sequence of anecdotes is not enough. [BMJ: testing the curse claim](https://www.bmj.com/content/325/7378/1482)",
+      "## RAMSES II, KADESH AND THE LIMITS OF ROYAL PROPAGANDA",
+      "Ramses II, also spelled Ramesses II, covered monuments with accounts of his encounter with Hittite forces at Kadesh in the thirteenth century BCE. The battle, usually dated around 1274 BCE, was presented as a celebration of the king’s extraordinary personal courage. Absolute dates differ slightly between chronologies. [British Museum: the royal account of Kadesh](https://www.britishmuseum.org/collection/object/Y_EA10181-10)",
+      "The inscriptions should not be read as an impartial victory report. Egypt did not achieve a decisive conquest of the Hittite position in Syria. Rivalry continued, and a formal peace agreement followed years later, not immediately after the fighting. The episode reveals a world of competing powers in which diplomacy could accomplish what battlefield claims could not. [University of Chicago: the political road to Kadesh](https://isac.uchicago.edu/research/publications/saoc/saoc-42-road-kadesh-historical-interpretation-battle-reliefs-king-sety-i)",
+      "## NUBIA, TRADE AND A CONNECTED EGYPT",
+      "Egypt drew on gold and other resources from the south, obtained timber and luxury goods through eastern Mediterranean connections, and exchanged products and ideas across its frontiers. Such relationships included trade and diplomacy but also extraction, conquest and forced movement. Neighboring peoples were participants in history, not background scenery for Egyptian kings.",
+      "Nubia in particular was not simply a passive Egyptian dependency. Powerful Nubian states developed their own institutions, and Kushite rulers eventually governed Egypt as its Twenty-fifth Dynasty. The movement of power could run north as well as south. This interconnected history belongs alongside the monuments of Egypt’s own imperial expansion. [The Met: Kushite rule and the Late Period](https://www.metmuseum.org/essays/egypt-in-the-late-period-ca-712-332-b-c)",
+      "## DECLINE WAS NOT A STRAIGHT LINE",
+      "After the New Kingdom, royal power fragmented and different dynasties ruled overlapping regions. Yet political division did not make every subsequent century culturally barren. Assyrian invasions in the seventh century BCE were followed by renewed Egyptian power under the Twenty-sixth Dynasty. Temples, trade and artistic production continued.",
+      "Cambyses II conquered Egypt in 525 BCE, bringing it into the [Achaemenid Persian Empire](/articles/persian-empire-cyrus-great-achaemenid-history/). Egyptian independence later returned before another Persian conquest in 343 BCE. This sequence matters: the centuries before Alexander were not one uninterrupted stretch of either national freedom or foreign domination. [The Met: conquest, recovery and Persian rule](https://www.metmuseum.org/essays/egypt-in-the-late-period-ca-712-332-b-c)",
+      "## ALEXANDER, THE PTOLEMIES AND CLEOPATRA VII",
+      "Alexander the Great entered Egypt in 332 BCE. After his death, Ptolemy established a dynasty that governed through a combination of Macedonian-Greek power and Egyptian royal traditions. Alexandria became a major Mediterranean capital, while rulers continued to sponsor Egyptian temples and appear in pharaonic forms.",
+      "The Ptolemaic kingdom was neither simply unchanged pharaonic Egypt nor a replacement of everything Egyptian by Greek culture. Different languages, communities and institutions coexisted within a monarchy marked by privilege, taxation, dynastic conflict and resistance. Its history belongs to both Egypt and the wider Hellenistic world. [The Met: Ptolemaic Egypt](https://www.metmuseum.org/essays/egypt-in-the-ptolemaic-period)",
+      "Cleopatra VII used alliances with Julius Caesar and later Mark Antony in an effort to sustain her dynasty’s position within Roman power struggles. After Octavian’s victory over Antony and Cleopatra, she died in 30 BCE and Egypt came under Roman rule. Her precise manner of death is less certain than the familiar asp story suggests. The political endpoint is clear; every detail of its theatrical retelling is not. [University of Manchester: evaluating the snake story](https://www.manchester.ac.uk/about/news/snake-unlikely-to-have-killed-cleopatra/)",
+      "## CLEOPATRA WAS CLOSER TO OUR TIME THAN TO THE GREAT PYRAMID",
+      "Cleopatra lived in 69–30 BCE. Khufu’s Great Pyramid was built in the third millennium BCE, roughly two and a half thousand years before her lifetime. Her death is only a little over two thousand years before our own era. The comparison is approximate arithmetic, but its lesson is powerful: to Cleopatra, the pyramid was already immensely ancient. [The Met: Cleopatra’s dates](https://www.metmuseum.org/art/collection/search/12649); [Smithsonian: Khufu and the Great Pyramid](https://www.si.edu/spotlight/ancient-egypt/pyramid)",
+      "## WHY DID ANCIENT EGYPT LAST SO LONG?",
+      "There is no single explanation. The Nile supported food production and communication; institutions mobilized resources; religious and royal traditions supplied a durable language of authority. Scribes preserved knowledge and administrative practices. Communities could maintain local routines even when a dynasty failed.",
+      "Continuity also depended on adaptation. Rulers borrowed, reorganized and negotiated. Foreign kings sometimes adopted Egyptian forms of legitimacy, while Egyptians participated in wider regional worlds. Longevity did not mean invulnerability, and ordinary people paid for the state through labor, resources and military demands. What endured was a changing civilization, not an unbroken promise of stability.",
+      "## ANCIENT EGYPT: MYTH VS REALITY",
+      "### Myth: Egypt was one unchanged kingdom for 3,000 years",
+      "Reality: dynasties, capitals, borders and institutions changed. Intermediate periods, reunifications and foreign rule are central to the story.",
+      "### Myth: aliens built the pyramids, or archaeology proves every worker was a slave",
+      "Reality: human engineering and organized labor are documented. Evidence for workers’ lives is richer and more complicated than either claim.",
+      "### Myth: hieroglyphs were only pictures and medicine was either magic or modern science",
+      "Reality: writing encoded language. Medical practice combined observation, remedies and religious approaches, with achievements and serious limits.",
+      "### Myth: Tutankhamun was Egypt’s greatest ruler because his tomb was richest",
+      "Reality: his surviving burial transformed modern knowledge and imagination. It does not make his short reign the most consequential.",
+      "### Myth: Cleopatra built the pyramids and Egyptian culture ended when she died",
+      "Reality: the Great Pyramid was already ancient in her lifetime. Roman annexation ended the Ptolemaic kingdom, while Egyptian communities and traditions continued.",
+      "## WHAT THE PHARAOHS LEFT BEHIND",
+      "Ancient Egypt’s achievement was not simply that it raised enormous stones. Across repeated disruptions, its people developed ways to organize harvests, transmit knowledge, express authority and imagine a life beyond death. The surviving monuments are magnificent, but they rest on the work of farmers, boat crews, craftspeople, administrators and families.",
+      "The Nile kept flowing after each dynasty ended. Along its banks, people rebuilt political order, adapted inherited practices and gave old symbols new uses. Egypt lasted so long not because history stood still there, but because a civilization could change without forgetting everything it had been."
+    ],
+    "references": [
+      {
+        "name": "The Met: The Art of Ancient Egypt, educator resource",
+        "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/the-art-of-ancient-egypt.pdf"
+      },
+      {
+        "name": "Egyptian Ministry of Tourism and Antiquities: Narmer Palette",
+        "url": "https://egymonuments.gov.eg/collections/narmer-palette-1/"
+      },
+      {
+        "name": "UCL: Egyptian chronology",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/index.html"
+      },
+      {
+        "name": "The Met: the Middle Kingdom",
+        "url": "https://www.metmuseum.org/-/media/files/learn/family-map-and-guides/middle-kingdom-family-guide.pdf"
+      },
+      {
+        "name": "The Met: Egypt in the New Kingdom",
+        "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c"
+      },
+      {
+        "name": "AERA: archaeology of the Giza settlement",
+        "url": "https://aeraweb.org/projects/"
+      },
+      {
+        "name": "Smithsonian: the Egyptian pyramid",
+        "url": "https://www.si.edu/spotlight/ancient-egypt/pyramid"
+      },
+      {
+        "name": "UCL: gender in ancient Egypt",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/gender/gender.html"
+      },
+      {
+        "name": "British Museum: hieroglyphs resources",
+        "url": "https://www.britishmuseum.org/hieroglyphs-resources"
+      },
+      {
+        "name": "British Museum: mathematics in the Rhind Papyrus",
+        "url": "https://www.britishmuseum.org/blog/learn-maths-egyptian-secrets-rhind-mathematical-papyrus"
+      },
+      {
+        "name": "New York Academy of Medicine: Edwin Smith Surgical Papyrus",
+        "url": "https://nyam.org/library-resources/library-collections/edwin-smith-surgical-papyrus/"
+      },
+      {
+        "name": "British Museum: the London Medical Papyrus",
+        "url": "https://www.britishmuseum.org/collection/object/Y_EA10059-3"
+      },
+      {
+        "name": "Smithsonian: Egyptian mummies",
+        "url": "https://www.si.edu/spotlight/ancient-egypt/mummies"
+      },
+      {
+        "name": "British Museum: Egyptian death and afterlife",
+        "url": "https://www.britishmuseum.org/collection/galleries/egyptian-death-and-afterlife-mummies"
+      },
+      {
+        "name": "The Met: Hatshepsut and her joint reign with Thutmose III",
+        "url": "https://www.metmuseum.org/art/collection/search/547761"
+      },
+      {
+        "name": "National Museum of Egyptian Civilization: Thutmose III",
+        "url": "https://nmec.gov.eg/mummies-hall/Thutmose-iii/"
+      },
+      {
+        "name": "Egyptian Ministry of Tourism and Antiquities: Amarna",
+        "url": "https://egymonuments.gov.eg/collections/amarna/"
+      },
+      {
+        "name": "The Met: Tutankhamun’s Funeral",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2010/tutankhamun-funeral"
+      },
+      {
+        "name": "BMJ: The mummy’s curse, historical cohort study",
+        "url": "https://www.bmj.com/content/325/7378/1482"
+      },
+      {
+        "name": "British Museum: Papyrus Sallier III and the account of Kadesh",
+        "url": "https://www.britishmuseum.org/collection/object/Y_EA10181-10"
+      },
+      {
+        "name": "University of Chicago: The Road to Kadesh",
+        "url": "https://isac.uchicago.edu/research/publications/saoc/saoc-42-road-kadesh-historical-interpretation-battle-reliefs-king-sety-i"
+      },
+      {
+        "name": "The Met: Egypt in the Late Period",
+        "url": "https://www.metmuseum.org/essays/egypt-in-the-late-period-ca-712-332-b-c"
+      },
+      {
+        "name": "The Met: Egypt in the Ptolemaic Period",
+        "url": "https://www.metmuseum.org/essays/egypt-in-the-ptolemaic-period"
+      },
+      {
+        "name": "The Met: Cleopatra, historical dates and later representation",
+        "url": "https://www.metmuseum.org/art/collection/search/12649"
+      },
+      {
+        "name": "UCL: administration in ancient Egypt",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/administration/index.html"
+      },
+      {
+        "name": "Harvard Digital Giza: daily life in ancient Egypt",
+        "url": "https://giza.fas.harvard.edu/lessons/daily-life-in-ancient-egypt/"
+      },
+      {
+        "name": "The Met: Egypt in the Old Kingdom",
+        "url": "https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c"
+      },
+      {
+        "name": "University of Manchester: uncertainty about Cleopatra’s death",
+        "url": "https://www.manchester.ac.uk/about/news/snake-unlikely-to-have-killed-cleopatra/"
+      },
+      {
+        "name": "The Met: Hatshepsut and international trade",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2006/hatshepsut"
+      }
+    ],
+    "tags": [
+      "Ancient Egypt",
+      "Pharaohs",
+      "Nile",
+      "Egyptian history",
+      "Cleopatra",
+      "History"
+    ],
+    "readingTime": "14 min read",
+    "faq": [
+      {
+        "question": "How long did ancient Egyptian civilization last?",
+        "answer": "The conventional span from unification around 3100 BCE to the end of Ptolemaic rule in 30 BCE covers roughly three millennia. It included different kingdoms, intermediate periods and foreign rule, and Egyptian culture continued under Rome."
+      },
+      {
+        "question": "Were the pyramids built by slaves?",
+        "answer": "Archaeology reveals organized, provisioned workforces and skilled crews. It does not support the familiar simple picture of vast slave gangs, but neither does it establish that all labor was voluntary."
+      },
+      {
+        "question": "Was Tutankhamun’s curse real?",
+        "answer": "There is no credible evidence for a supernatural curse. A historical cohort study found no significant association between exposure to the supposed curse and survival."
+      },
+      {
+        "question": "Was Cleopatra closer to our time than to the Great Pyramid?",
+        "answer": "Yes. Cleopatra died in 30 BCE, a little over two thousand years ago. Khufu’s Great Pyramid was already roughly two and a half thousand years old during her lifetime."
+      }
+    ]
+  },
+  {
     "id": "096",
     "slug": "japan-samurai-meiji-restoration-modern-empire-history",
     "title": "JAPAN: HOW A LAND OF SAMURAI BECAME A MODERN EMPIRE",
