@@ -54,6 +54,359 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "102",
+    "slug": "old-but-gold-world-most-beautiful-old-cities",
+    "title": "OLD BUT GOLD: THE WORLD’S MOST BEAUTIFUL OLD CITIES",
+    "seoTitle": "Old But Gold: 15 Beautiful Old Cities to Visit",
+    "metaDescription": "Explore 15 beautiful historic cities with must-see sights, local experiences, best seasons, ideal stays, daily budget estimates and practical travel tips.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "OLD BUT GOLD",
+      "gold": "OLD CITIES"
+    },
+    "excerpt": "From Fez and Istanbul to Kyoto and Stone Town, discover 15 historic cities through their architecture, living cultures, memorable experiences and practical travel details.",
+    "category": "Travel",
+    "date": "2026-09-17",
+    "lastUpdated": "2026-09-17",
+    "author": "PRESDA Editorial",
+    "coverImage": "/images/articles/old-but-gold-world-most-beautiful-old-cities.webp",
+    "coverAlt": "Editorial multi-city composite of historic landmarks, old streets and a traveling couple overlooking the skyline",
+    "homepageImagePosition": "65% 50%",
+    "readingTime": "18 min read",
+    "tags": [
+      "Historic cities",
+      "Old towns",
+      "Cultural travel",
+      "Travel budgets",
+      "Architecture",
+      "City breaks"
+    ],
+    "content": [
+      "A city can reveal its age in a stone worn smooth by footsteps, a courtyard hidden behind a busy shop, or the way a street bends around a building that refuses to move. The best historic-city journeys let you notice those details. They also leave time for lunch, conversations and the modern neighborhoods that keep an old center alive.",
+      "This guide brings together 15 cities and historic districts across Europe, Africa, Asia and the Americas. Some reward a short walking break. Others need several days, public transport and a willingness to look beyond the most photographed monument. Each entry offers three starting points, a local experience and practical advice for turning an attractive idea into a workable trip.",
+      "Hero image: the supplied editorial composite combines landmarks from several cities with a traveling couple. It is a travel concept, not a photograph of one real skyline or viewpoint.",
+      "## WHAT MAKES A BEAUTIFUL OLD CITY?",
+      "This is an editorial selection, not a ranking of objective beauty or a list of the world’s oldest settlements. We chose places where historic buildings, streets and public spaces remain central to a visitor’s experience, balancing architectural variety, cultural depth, geographic range and the pleasure of spending time there.",
+      "“Old city” is used broadly. Fez has an extensive medina; Dubrovnik has a compact walled center; Kyoto has multiple historic districts and scattered monuments rather than one intact medieval enclosure. Stone Town is the historic heart of Zanzibar City. Rome’s ancient remains sit within a much larger city shaped by later centuries. These differences matter when choosing where to stay and how long to allow.",
+      "Beauty does not mean a place has remained unchanged. Buildings have been repaired, neighborhoods transformed and monuments reconstructed. Colonial ports also carry histories of conquest and enslavement. Mostar’s rebuilt bridge bears the memory of war. A rewarding visit makes room for those histories rather than treating residents and buildings as scenery.",
+      "### Budgets, tickets and timing",
+      "Visitor information and prices were checked on September 17, 2026. Daily figures are approximate PRESDA planning ranges in US dollars per person, assuming two adults share a modest private room, eat ordinary local meals, use public transport or occasional taxis and visit a few paid sights. They exclude international travel, visas, insurance, shopping, major excursions and luxury accommodation. Solo rooms and festival dates can cost considerably more.",
+      "The linked Budget Your Trip pages provide reported-spending benchmarks, not live offers or representative price surveys. Our rounded ranges leave room for central accommodation and sightseeing. Samarkand uses an Uzbekistan-wide guide as a starting point, and Stone Town uses broader Zanzibar data; neither is presented as a precise city survey. Reprice your own hotel and transport dates before booking.",
+      "Selected admission prices below are standard adult rates or explicitly identified visitor categories in the venue’s published information. Special areas, booking fees, concessions and temporary exhibitions may differ. Where a reliable current fee was not available, we link visitor information instead of inventing a number. Best seasons describe typical conditions, not weather guarantees. Visa eligibility and government travel advice should be checked separately for your passport and route.",
+      "## FEZ, MOROCCO: A MEDINA THAT STILL WORKS",
+      "Fez is compelling because the medina is much more than a collection of monuments. Workshops, homes, schools and shops occupy a dense network of lanes. Its origins lie in the Idrisid period, while the Marinid centuries brought many of its celebrated buildings. Do not mistake every old-looking gateway or restored interior for something unchanged since the city’s foundation.",
+      "Three must-sees: Bou Inania Madrasa for carved wood, plaster and tilework; the Nejjarine Museum of Wooden Arts and Crafts in a restored merchant lodging; Bab Bou Jeloud and the streets leading into the medina. Our [history of Morocco](/articles/morocco-history-dynasties-kingdom-independence/) explains the dynasties behind the city.",
+      "Best local experience: arrange a small food or craft walk with a licensed local guide, agreeing the route and any shopping stops in advance. Look for explanations of how things are made, not an itinerary consisting only of salesrooms.",
+      "### Plan your visit",
+      "Best time: March to May or September to November, allowing for occasional rain. Ideal stay: 3 days. Approximate daily budget: $65–110. Practical tip: ask your riad to arrange a meeting point at the nearest vehicle-accessible gate; navigating with luggage is different from wandering without it. Religious buildings have different visitor rules, and many mosques are not open to non-Muslim sightseeing.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/170/) · [Visitor information](https://www.visitmorocco.com/en/travel/fez) · [Budget benchmark](https://www.budgetyourtrip.com/morocco/fez)",
+      "## ISTANBUL, TÜRKİYE: AN IMPERIAL CITY IN LAYERS",
+      "Istanbul’s historic peninsula brings Byzantine and Ottoman buildings into the daily life of a vast modern city. The attraction is the juxtaposition: a former imperial church now functioning as a mosque, palace courtyards, neighborhood streets and ferries on a working waterway. It is not one walkable museum precinct that can be completed in an afternoon.",
+      "Three must-sees: Hagia Sophia; Topkapı Palace; Süleymaniye Mosque and its surroundings. Read our [Byzantine Empire history](/articles/byzantine-empire-eastern-rome-constantinople-1453/) for the city’s earlier imperial story.",
+      "Best local experience: take a regular ferry and spend time in an ordinary neighborhood café or lokanta. The water journey makes the city’s geography easier to understand and breaks up consecutive monument visits.",
+      "### Plan your visit",
+      "Best time: April, May, September or October. Ideal stay: 4+ days. Approximate daily budget: $120–190, with additional allowance if you visit several major ticketed attractions in one day. Practical tip: Topkapı normally closes on Tuesdays. Hagia Sophia’s tourist route and worship access are different; check the visitor arrangements, dress requirements and current ticket before arrival.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/356/) · [Visitor information](https://millisaraylar.gov.tr/bilet/biletal?culture=en&search=2026) · [Budget benchmark](https://www.budgetyourtrip.com/turkey/istanbul)",
+      "## ROME, ITALY: HISTORY BETWEEN EVERYDAY STREETS",
+      "Rome rewards looking beyond ancient ruins alone. Imperial remains, medieval churches, Renaissance palaces and Baroque spaces occupy a center that people still cross on their way to work. The pleasure is often a short walk between periods, although distances and summer heat can make an ambitious map misleading.",
+      "Three must-sees: the Colosseum and Roman Forum archaeological area; the Pantheon; Piazza Navona. Each reveals a different relationship between ancient structures and the later city.",
+      "Best local experience: make one morning a neighborhood walk with a coffee stop and a market visit, then sit down for a leisurely Roman lunch. Leave space between reserved attractions rather than building every day around queues.",
+      "### Plan your visit",
+      "Best time: April, May, October or November; winter can offer a calmer visit outside holidays. Ideal stay: 4+ days. Approximate daily budget: $180–280. Practical tip: book the correct Colosseum product through the archaeological park. Its standard 24-hour Colosseum, Forum and Palatine ticket is listed at €18; underground and other special routes have different inclusions. Carry the identification required by your ticket.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/91/) · [Visitor information](https://colosseo.it/biglietti/colosseo-foro-romano-palatino/) · [Budget benchmark](https://www.budgetyourtrip.com/italy/rome)",
+      "## EDINBURGH, SCOTLAND: A CITY BUILT IN THREE DIMENSIONS",
+      "Edinburgh’s Old Town follows a ridge from the castle toward Holyrood, with narrow closes dropping away from the main street. The contrast with the planned Georgian New Town is part of its significance. Tall tenements, changing levels and successive rebuilding make it more interesting than a single medieval snapshot.",
+      "Three must-sees: Edinburgh Castle; the Royal Mile and its public closes; the Palace of Holyroodhouse. Check royal closures before making the palace the fixed centerpiece of a short visit.",
+      "Best local experience: join a historical walking tour that explains the closes and former households, then find a pub with a clearly advertised traditional-music session. Avoid blocking entrances to homes while exploring.",
+      "### Plan your visit",
+      "Best time: May, June or September for a balance of daylight and demand. Ideal stay: 3 days. Approximate daily budget: $180–280; August festivals and major holiday dates can raise it sharply. Practical tip: hills, cobbles and stairs complicate step-free routes. Edinburgh Castle lists standard adult admission at £23.50 online or £26 walk-up, subject to availability and change. Book ahead rather than assuming a same-day place.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/728/) · [Visitor information](https://www.edinburghcastle.scot/plan-your-visit/tickets/) · [Budget benchmark](https://www.budgetyourtrip.com/united-kingdom/edinburgh)",
+      "## KYOTO, JAPAN: HISTORIC DISTRICTS, NOT A SINGLE OLD TOWN",
+      "Founded as the imperial capital in 794, Kyoto developed traditions of court culture, religious architecture and gardens over many centuries. What visitors encounter today is a modern city containing historic districts and individual sites. Wooden buildings have required repeated repair and rebuilding; age is not simply a question of untouched original timber.",
+      "Three must-sees: Kiyomizu-dera; Nijō Castle; the public streets of Gion and southern Higashiyama. Group visits geographically instead of crossing the city repeatedly. Our [history of Japan’s transformation](/articles/japan-samurai-meiji-restoration-modern-empire-history/) supplies context for the relationship between court and warrior government.",
+      "Best local experience: reserve a tea experience led by a practitioner who explains the utensils, setting and etiquette, rather than choosing solely for a costume photograph.",
+      "### Plan your visit",
+      "Best time: late March and April for blossom or November for foliage, both busy; May and early autumn can offer alternatives. Ideal stay: 4+ days. Approximate daily budget: $100–170, rising at peak dates. Practical tip: follow photography restrictions and private-lane signs in Gion. Do not pursue geiko or maiko for photographs. The city’s visitor guidance explicitly addresses this pressure.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/688/) · [Visitor information](https://kyoto.travel/en/responsible-travel/) · [Budget benchmark](https://www.budgetyourtrip.com/japan/kyoto)",
+      "## PRAGUE, CZECHIA: LOOK ABOVE THE CROWDS",
+      "Prague’s center combines medieval street patterns with Gothic, Renaissance and Baroque architecture. The historic experience extends across the river into Malá Strana and the castle district. It is a working capital as well as a heavily visited destination, so a little distance from the main procession can transform a walk.",
+      "Three must-sees: Old Town Square and the Astronomical Clock; Charles Bridge; Prague Castle and St Vitus Cathedral. Treat the castle as a complex with different access arrangements, not a single room behind one gate.",
+      "Best local experience: take a neighborhood tram ride and eat in a traditional Czech restaurant away from the busiest souvenir corridor. Ask about the menu rather than assuming every food sold beside a landmark is an ancient local specialty.",
+      "### Plan your visit",
+      "Best time: April, May, September or October. Ideal stay: 3 days. Approximate daily budget: $110–180. Practical tip: cross Charles Bridge early, and check the actual entrance category before buying a tower or interior ticket. Prague City Tourism lists basic Old Town Hall admission at CZK 350; lifts, circuits and special combinations can have different terms.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/616/) · [Visitor information](https://prague.eu/en/objevujte/old-town-hall-with-astronomical-clock-staromestska-radnice-s-orlojem/) · [Budget benchmark](https://www.budgetyourtrip.com/czech-republic/prague)",
+      "## SAMARKAND, UZBEKISTAN: MONUMENTS ON AN URBAN SCALE",
+      "Samarkand’s history extends far beyond its famous tiled façades. Ancient Afrasiab, the Timurid city and later urban expansion represent different phases. Many celebrated monuments reflect the Timurid period and subsequent building, while modern restoration is also part of what visitors see. This is a city of connected sites rather than one compact walled old town.",
+      "Three must-sees: the Registan; Shah-i-Zinda; the Gur-e Amir mausoleum. Allow time to observe the geometry and different decorative techniques instead of photographing every façade from the same position.",
+      "Best local experience: visit Siyob Bazaar and have a simple meal nearby, with time to learn about the breads and produce. Buy something if you are taking up a vendor’s time, and ask before photographing people.",
+      "### Plan your visit",
+      "Best time: April and May or September and October. Ideal stay: 3 days. Approximate daily budget: $40–75, based on broader Uzbekistan budget guidance with a city-sightseeing allowance. Practical tip: keep the accommodation-registration records your hotel provides, and arrange transport between distant sites rather than assuming everything is adjacent. Religious monuments are also places of remembrance and devotion.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/603/) · [Visitor information](https://uzbekistan.travel/en/i/samarkand/) · [Budget benchmark](https://www.lonelyplanet.com/articles/uzbekistan-on-a-budget)",
+      "## DUBROVNIK, CROATIA: STAY AFTER THE EXCURSION CROWDS",
+      "Dubrovnik’s walls frame the historic center of the maritime republic of Ragusa. Its architecture reflects trade, political independence, the aftermath of the 1667 earthquake and restoration after damage in the 1990s. The city is beautiful partly because the relationship between stone buildings, fortifications and sea is so immediate.",
+      "Three must-sees: the city walls; the Rector’s Palace; the Franciscan monastery complex. Allow time for the smaller lanes as well as Stradun, the principal thoroughfare.",
+      "Best local experience: stay overnight and take an early walk before the busiest arrivals, followed by coffee away from the central flow. Choose a locally run guide who discusses the city beyond its television locations.",
+      "### Plan your visit",
+      "Best time: May, early June, September or October. Ideal stay: 3 days. Approximate daily budget: $150–240; summer waterfront accommodation can be much higher. Practical tip: the walls involve exposed stretches and stairs. Compare the current wall ticket with the official city pass for your dates and actual museum plans; do not buy a pass simply because it lists many attractions. Cruise crowds can be intense.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/95/) · [Visitor information](https://citywallsdubrovnik.hr/) · [Budget benchmark](https://www.budgetyourtrip.com/croatia/dubrovnik)",
+      "## SEVILLE, SPAIN: COURTYARDS WITH COMPLICATED HISTORIES",
+      "Seville’s historic center draws together Islamic-era inheritances, Christian royal building and the wealth and power of Atlantic empire. The Alcázar is especially revealing: its architecture cannot be reduced to one dynasty or faith. Gardens and courtyards offer a different experience from monumental interiors, while the streets between them remain part of the attraction.",
+      "Three must-sees: the Real Alcázar; the cathedral and Giralda; the Archivo de Indias. The archive helps connect the city to the history discussed in our [Spanish Empire article](/articles/spanish-empire-columbus-conquest-silver-global-history/).",
+      "Best local experience: have tapas across two or three small bars, or choose a seated flamenco performance that gives the musicians and dancers your full attention.",
+      "### Plan your visit",
+      "Best time: March to May or October and November. Ideal stay: 3 days. Approximate daily budget: $130–210. Practical tip: Easter and the April fair bring strong demand, while high summer can make afternoon walking uncomfortable. The Alcázar lists general admission at €15.50, with the upper royal rooms separately priced and booking charges potentially additional. Reserve a named time slot through the official site.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/383/) · [Visitor information](https://alcazarsevilla.org/prepara-la-visita/) · [Budget benchmark](https://www.budgetyourtrip.com/spain/seville)",
+      "## CARTAGENA, COLOMBIA: A CARIBBEAN PORT BEHIND WALLS",
+      "Cartagena’s historic districts combine fortified edges, courtyards, balconies and busy public spaces. Its importance as a Spanish colonial port also involved enslavement and coercive trade. The attractive architecture should be read alongside those histories, including the contributions and experiences of Afro-Colombian communities.",
+      "Three must-sees: the walled center around Plaza de Bolívar; Castillo San Felipe de Barajas outside the walls; Getsemaní and Plaza de la Trinidad. The latter is a living neighborhood under tourism pressure, not an outdoor set.",
+      "Best local experience: take a locally led food or history walk that explains Caribbean and Afro-Colombian influences, then return to a place you enjoyed for a proper meal.",
+      "### Plan your visit",
+      "Best time: December to March is generally drier but busier; heat and humidity remain part of the visit. Ideal stay: 3 days. Approximate daily budget: $70–130, with boutique stays inside the walls often higher. Practical tip: agree prices before accepting tours, services or photographs, and break walking into cooler morning and evening periods. The fort’s published 2026 full admission is COP 38,000; eligible national and reduced rates differ.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/285/) · [Visitor information](https://fortificacionescartagena.com.co/es/planee-su-visita/castillo-de-san-felipe-de-barajas/) · [Budget benchmark](https://www.budgetyourtrip.com/colombia/cartagena)",
+      "## MOSTAR, BOSNIA AND HERZEGOVINA: BEAUTY AND RECONSTRUCTION",
+      "Mostar developed around a crossing of the Neretva River, with important Ottoman and later Austro-Hungarian layers. Its best-known bridge was destroyed during the 1990s war and reconstructed, reopening in 2004. Present-day beauty therefore includes the work of recovery; it should not conceal the city’s losses or ongoing complexity.",
+      "Three must-sees: Stari Most; the Kujundžiluk bazaar; Koski Mehmed Pasha Mosque, following its visitor and worship arrangements. Crossing the bridge in different light reveals how closely the old center is tied to the river.",
+      "Best local experience: take a locally guided walk that includes recent history, then sit over Bosnian coffee rather than leaving as soon as the bridge photograph is taken.",
+      "### Plan your visit",
+      "Best time: May, June, September or October. Ideal stay: 2 days, longer for regional trips. Approximate daily budget: $65–110. Practical tip: polished stone can be slippery, and many approaches involve uneven surfaces. Wear shoes with grip. Stay overnight if possible; the small old center feels very different once day-trip groups leave. Do not treat professional bridge diving as an activity to imitate.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/946/) · [Visitor information](https://www.mostovi-kultura.fzohnz-k.ba/) · [Budget benchmark](https://www.budgetyourtrip.com/bosnia-and-herzegowina/mostar)",
+      "## LUANG PRABANG, LAOS: A PENINSULA OF TEMPLES AND HOMES",
+      "Luang Prabang’s historic center reflects Lao religious and royal traditions alongside buildings associated with the French colonial period. Its position between the Mekong and Nam Khan gives the town a distinctive shape. Temples remain active institutions, and quiet-looking streets are still places where people work and live.",
+      "Three must-sees: Wat Xieng Thong; the former Royal Palace, now the National Museum; Phousi Hill. Check opening arrangements and dress requirements rather than expecting every religious site to operate like a museum.",
+      "Best local experience: explore the morning market respectfully or take a Lao cooking class. If observing morning almsgiving, stand back, stay quiet and follow local guidance. A religious practice should not become a close-range photo performance.",
+      "### Plan your visit",
+      "Best time: November through February is generally cooler and drier. Ideal stay: 3 days, or 4+ with countryside excursions. Approximate daily budget: $30–60, more for heritage hotels and private trips. Practical tip: Phousi’s sunset gathering can be crowded; another time may be more enjoyable. Late dry-season heat and smoke can affect plans, and temple visits require clothing suitable for worship spaces.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/479/) · [Visitor information](https://tourismluangprabang.org/things-to-do/buddhism/morning-alms-sai-bat/) · [Budget benchmark](https://www.budgetyourtrip.com/laos/luang-prabang)",
+      "## OAXACA, MEXICO: A HISTORIC CENTER WITH LIVING INDIGENOUS ROOTS",
+      "Oaxaca’s center reflects Spanish colonial planning in a region with much older Indigenous histories and continuing Zapotec, Mixtec and other cultural traditions. Its plazas, religious buildings and markets make a strong urban base. Nearby Monte Albán belongs to a different historical and physical setting, not an extension of the colonial street grid.",
+      "Three must-sees: Santo Domingo de Guzmán church and its surroundings; the Zócalo and nearby market streets; Monte Albán as a separate excursion. Allow time for the archaeological site rather than inserting it between two hurried city appointments.",
+      "Best local experience: join a market-based cooking class or eat with a knowledgeable local guide who explains ingredients and regional differences. Avoid treating the state’s many communities as one interchangeable folk culture.",
+      "### Plan your visit",
+      "Best time: November to February for generally drier, milder sightseeing. Ideal stay: 4+ days. Approximate daily budget: $55–100, rising for major festivals and boutique hotels. Practical tip: book well ahead for Día de Muertos and respect family observances. INAH lists Monte Albán at MXN 210 for foreign visitors and MXN 105 for national visitors; eligibility and exemptions should be checked directly. Take sun protection for the exposed site.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/415/) · [Visitor information](https://lugares.inah.gob.mx/es/node/5803) · [Budget benchmark](https://www.budgetyourtrip.com/mexico/oaxaca-de-juarez)",
+      "## STONE TOWN, TANZANIA: AN INDIAN OCEAN CITY",
+      "Stone Town is Zanzibar City’s historic core, shaped by Swahili coastal life and connections with Arabia, India and Europe. Many prominent buildings date to the eighteenth and nineteenth centuries. Carved doors and coral-stone architecture are part of that history, as are the coercion and enslavement associated with the island’s trading economy.",
+      "Three must-sees: the Old Fort; the former slave-market area and Anglican cathedral; the public streets around Darajani Market. Do not assume every landmark visible from outside is currently open or structurally accessible.",
+      "Best local experience: take a resident-led historical walk and try freshly prepared Swahili food, asking about ingredients and agreeing prices. A guided visit can connect architectural details with the people and trade that shaped them.",
+      "### Plan your visit",
+      "Best time: June to October or January and February; the long rains can complicate March-to-May travel. Ideal stay: 2 days, or 3 for a slower cultural visit. Approximate daily budget: $60–110, using Zanzibar-wide costs as a broad benchmark rather than a Stone Town survey. Practical tip: confirm the exact approach to your hotel because vehicles cannot reach every lane. Check Tanzania’s entry rules and Zanzibar’s mandatory inbound insurance requirement separately from your ordinary policy.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/173/) · [Visitor information](https://zanzibartourism.go.tz/things-to-do) · [Budget benchmark](https://www.budgetyourtrip.com/tanzania/zanzibar)",
+      "## HOI AN, VIETNAM: A TRADING TOWN AFTER THE DAY TRIPS",
+      "Hoi An’s old center preserves a street plan and buildings associated with a port active between the fifteenth and nineteenth centuries. Vietnamese, Chinese, Japanese and other trading connections shaped its architecture. The compact scale makes it easy to explore, but evening crowds can make the famous lantern streets feel far from tranquil.",
+      "Three must-sees: the Japanese Covered Bridge; Tan Ky Old House; Phuc Kien Assembly Hall. Look inside as well as along the waterfront to understand the houses, community institutions and commercial spaces.",
+      "Best local experience: start with an early market visit and a cooking class focused on regional dishes, or return to the streets in the morning when work and daily routines are easier to observe.",
+      "### Plan your visit",
+      "Best time: February to April is often a useful balance before the strongest heat; autumn storms and flooding can disrupt visits. Ideal stay: 3 days. Approximate daily budget: $40–75. Practical tip: buy the heritage ticket from an official counter and check which interiors it covers. Current heritage-authority information describes VND 80,000 and VND 120,000 options with different inclusions. A ticket is not unlimited access to every building or performance.",
+      "[Historical context: UNESCO](https://whc.unesco.org/en/list/948/) · [Visitor information](https://www.hoianworldheritage.org.vn/en/news/Useful-Information/hoi-an-tourism-information-735.hwh) · [Budget benchmark](https://www.budgetyourtrip.com/vietnam/hoi-an)",
+      "## BEST OLD CITY FOR HISTORY",
+      "Rome is our strongest all-round choice for encountering many historical periods in one visit. Istanbul is especially rewarding for the transformation of an imperial capital, while Fez shows how historic urban functions survive in everyday use. These are different strengths, not a claim that one civilization had more history than another.",
+      "## BEST FOR ARCHITECTURE",
+      "Choose Samarkand for monumental composition and tilework, Seville for layered palace and religious architecture, or Prague for a dense mix of styles across a walkable center. Kyoto offers a different architectural education in timber, gardens and the relationship between buildings and seasonal change. Look at repair and restoration as part of what you are seeing.",
+      "## BEST FOR FOOD",
+      "Oaxaca is our pick for making food a central reason for the trip, with the important caveat that the city represents only part of a much larger region. Istanbul suits travelers who want neighborhood meals alongside major sights. Fez, Seville and Hoi An also reward guided market visits or cooking experiences that explain ingredients rather than simply presenting a tasting checklist.",
+      "## BEST FOR WALKING",
+      "Hoi An and Luang Prabang offer compact centers, though heat and uneven pavements still matter. Prague rewards longer connected walks. Edinburgh and Mostar are visually dramatic but involve hills, steps or slippery stone. “Walkable” does not mean wheelchair-accessible: ask accommodations and venues about the exact entrance, lifts, gradients and accessible toilets.",
+      "## BEST FOR PHOTOGRAPHY",
+      "Fez offers close architectural detail, Samarkand large compositions, and Dubrovnik the relationship between walls and sea. Mostar’s river setting changes with light, while Kyoto rewards attention to smaller spaces. Ask before photographing people, keep doorways clear and follow religious or residential restrictions. An empty street is not more important than someone’s right to use it.",
+      "## BEST VALUE",
+      "Luang Prabang, Hoi An and Samarkand can support rewarding trips with modest daily spending. Oaxaca and Fez also offer options below the costs of the most expensive European centers. But value depends on the whole trip: a cheap room does not cancel an expensive flight, repeated transfers or private excursions. Our [guide to 15 underrated countries](/articles/world-most-underrated-countries-to-visit/) helps place several of these cities within a wider itinerary.",
+      "## HOW TO ENJOY AN OLD CITY WITHOUT RUSHING IT",
+      "Choose one major paid attraction per half-day and group nearby sights. Reserve scarce tickets first, but keep some unbooked time. In heavily visited cities, staying overnight can give you quieter hours and spread spending beyond a brief excursion. Travel outside major festivals when your priority is ease rather than attending the event itself.",
+      "Historic centers are also homes. Use established accommodation, keep noise down at night, pay guides fairly and avoid intruding into private courtyards. Spend at small businesses without assuming every resident exists to provide an experience. Check current government travel advice and venue notices shortly before departure, especially where weather, demonstrations or restoration work may affect access.",
+      "The best old-city visit leaves you with more than photographs of buildings. It gives you a sense of how a place was made, what has changed, and how people continue to live within it. The stones matter. So does the life around them."
+    ],
+    "references": [
+      {
+        "name": "Fez: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/170/"
+      },
+      {
+        "name": "Fez: visitor information",
+        "url": "https://www.visitmorocco.com/en/travel/fez"
+      },
+      {
+        "name": "Fez: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/morocco/fez"
+      },
+      {
+        "name": "Istanbul: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/356/"
+      },
+      {
+        "name": "Istanbul: visitor information",
+        "url": "https://millisaraylar.gov.tr/bilet/biletal?culture=en&search=2026"
+      },
+      {
+        "name": "Istanbul: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/turkey/istanbul"
+      },
+      {
+        "name": "Rome: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/91/"
+      },
+      {
+        "name": "Rome: visitor information",
+        "url": "https://colosseo.it/biglietti/colosseo-foro-romano-palatino/"
+      },
+      {
+        "name": "Rome: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/italy/rome"
+      },
+      {
+        "name": "Edinburgh: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/728/"
+      },
+      {
+        "name": "Edinburgh: visitor information",
+        "url": "https://www.edinburghcastle.scot/plan-your-visit/tickets/"
+      },
+      {
+        "name": "Edinburgh: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/united-kingdom/edinburgh"
+      },
+      {
+        "name": "Kyoto: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/688/"
+      },
+      {
+        "name": "Kyoto: visitor information",
+        "url": "https://kyoto.travel/en/responsible-travel/"
+      },
+      {
+        "name": "Kyoto: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/japan/kyoto"
+      },
+      {
+        "name": "Prague: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/616/"
+      },
+      {
+        "name": "Prague: visitor information",
+        "url": "https://prague.eu/en/objevujte/old-town-hall-with-astronomical-clock-staromestska-radnice-s-orlojem/"
+      },
+      {
+        "name": "Prague: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/czech-republic/prague"
+      },
+      {
+        "name": "Samarkand: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/603/"
+      },
+      {
+        "name": "Samarkand: visitor information",
+        "url": "https://uzbekistan.travel/en/i/samarkand/"
+      },
+      {
+        "name": "Samarkand: travel-cost benchmark",
+        "url": "https://www.lonelyplanet.com/articles/uzbekistan-on-a-budget"
+      },
+      {
+        "name": "Dubrovnik: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/95/"
+      },
+      {
+        "name": "Dubrovnik: visitor information",
+        "url": "https://citywallsdubrovnik.hr/"
+      },
+      {
+        "name": "Dubrovnik: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/croatia/dubrovnik"
+      },
+      {
+        "name": "Seville: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/383/"
+      },
+      {
+        "name": "Seville: visitor information",
+        "url": "https://alcazarsevilla.org/prepara-la-visita/"
+      },
+      {
+        "name": "Seville: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/spain/seville"
+      },
+      {
+        "name": "Cartagena: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/285/"
+      },
+      {
+        "name": "Cartagena: visitor information",
+        "url": "https://fortificacionescartagena.com.co/es/planee-su-visita/castillo-de-san-felipe-de-barajas/"
+      },
+      {
+        "name": "Cartagena: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/colombia/cartagena"
+      },
+      {
+        "name": "Mostar: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/946/"
+      },
+      {
+        "name": "Mostar: visitor information",
+        "url": "https://www.mostovi-kultura.fzohnz-k.ba/"
+      },
+      {
+        "name": "Mostar: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/bosnia-and-herzegowina/mostar"
+      },
+      {
+        "name": "Luang Prabang: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/479/"
+      },
+      {
+        "name": "Luang Prabang: visitor information",
+        "url": "https://tourismluangprabang.org/things-to-do/buddhism/morning-alms-sai-bat/"
+      },
+      {
+        "name": "Luang Prabang: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/laos/luang-prabang"
+      },
+      {
+        "name": "Oaxaca: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/415/"
+      },
+      {
+        "name": "Oaxaca: visitor information",
+        "url": "https://lugares.inah.gob.mx/es/node/5803"
+      },
+      {
+        "name": "Oaxaca: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/mexico/oaxaca-de-juarez"
+      },
+      {
+        "name": "Stone Town: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/173/"
+      },
+      {
+        "name": "Stone Town: visitor information",
+        "url": "https://zanzibartourism.go.tz/things-to-do"
+      },
+      {
+        "name": "Stone Town: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/tanzania/zanzibar"
+      },
+      {
+        "name": "Hoi An: UNESCO heritage record",
+        "url": "https://whc.unesco.org/en/list/948/"
+      },
+      {
+        "name": "Hoi An: visitor information",
+        "url": "https://www.hoianworldheritage.org.vn/en/news/Useful-Information/hoi-an-tourism-information-735.hwh"
+      },
+      {
+        "name": "Hoi An: travel-cost benchmark",
+        "url": "https://www.budgetyourtrip.com/vietnam/hoi-an"
+      },
+      {
+        "name": "Hoi An heritage authority: 2026 ticket options",
+        "url": "https://www.hoianworldheritage.org.vn/vi/news/Du-lich-Hoi-An/cap-nhat-ve-tham-quan-khu-pho-co-hoi-an-hanh-trinh-cham-ve-nguyen-ban-giua-long-di-san-3033.hwh"
+      },
+      {
+        "name": "FCDO: Tanzania entry and Zanzibar insurance requirements",
+        "url": "https://www.gov.uk/foreign-travel-advice/tanzania/entry-requirements"
+      }
+    ]
+  },
+  {
     "id": "101",
     "slug": "world-most-underrated-countries-to-visit",
     "title": "THE WORLD’S MOST UNDERRATED COUNTRIES TO VISIT",
