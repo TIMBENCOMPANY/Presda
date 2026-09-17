@@ -1,6 +1,11 @@
 import type { Article } from "@/data/articles";
 
 export function getArticleCardImage(article: Pick<Article, "category" | "coverImage">) {
+  // NAZA cards share the published hero asset; no separate thumbnail exists.
+  if (article.coverImage === "/images/articles/naza-israel-film-documentary-war-palestine.webp") {
+    return article.coverImage;
+  }
+
   if (!article.coverImage.startsWith("/images/articles/")) {
     return article.coverImage;
   }
