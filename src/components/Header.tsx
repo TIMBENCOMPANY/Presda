@@ -18,7 +18,7 @@ const navLinks = [
   { href: "/newsletter/", label: "Newsletter", icon: Newspaper }
 ];
 
-const homepageCategoryLinks = ["World", "Sport", "Business", "AI", "Science", "History", "Lifestyle", "Paparazzi"] as const;
+const homepageCategoryLinks = ["World", "Sport", "Business", "AI", "Science", "History", "Travel", "Lifestyle", "Paparazzi"] as const;
 const minimumSearchLength = 2;
 const maxSearchResults = 6;
 
@@ -47,7 +47,7 @@ export function Header({ articles }: HeaderProps) {
   const closeTimer = useRef<number | null>(null);
   const pathname = usePathname();
   const router = useRouter();
-  const isHome = pathname === "/";
+  const showCategoryNavigation = pathname === "/" || pathname?.startsWith("/category/");
   const trimmedQuery = query.trim();
   const showSearchResults = (searchFocused || searchOpen) && trimmedQuery.length >= minimumSearchLength;
   const matchingArticles = useMemo(() => {
@@ -264,9 +264,9 @@ export function Header({ articles }: HeaderProps) {
         </div>
       ) : null}
 
-      {isHome ? (
+      {showCategoryNavigation ? (
         <div className="home-category-rail border-t">
-          <nav aria-label="Homepage categories" className="mx-auto flex w-full max-w-[1510px] gap-7 overflow-x-auto px-3 sm:px-6 lg:justify-center lg:gap-12 2xl:px-0">
+          <nav aria-label="Categories" className="mx-auto flex w-full max-w-[1510px] gap-7 overflow-x-auto px-3 sm:px-6 lg:justify-center lg:gap-8 xl:gap-12 2xl:px-0">
             {homepageCategoryLinks.map((category) => {
               const href = `/category/${toCategorySlug(category)}/`;
               const active = isActivePath(pathname, href);
