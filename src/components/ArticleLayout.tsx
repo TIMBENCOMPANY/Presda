@@ -43,6 +43,18 @@ const articleHeroHighlightOverrides: Record<string, HeadlineHighlights> = {
 };
 
 const articleTables: Record<string, ArticleTableConfig> = {
+  "[[RESISTANCE_COMPARISON_TABLE]]": {
+    caption: "Three connected struggles with different goals and methods. Strategies changed over time and were debated within each movement.",
+    headers: ["Leader and setting", "Central political goal", "Methods", "Essential distinction"],
+    minWidthClass: "min-w-[760px]",
+    boldColumnIndex: 0,
+    rowKeyIndex: 0,
+    rows: [
+      ["Gandhi; colonial India", "Self-rule and an end to British domination", "Noncooperation, boycotts, civil disobedience and constructive social work", "Nonviolence was tied to personal ethics as well as mass politics"],
+      ["King; United States", "Equal citizenship, enforceable civil rights and economic justice", "Boycotts, marches, direct action and pressure for legal reform", "Worked within a wider movement that combined protest, litigation and legislation"],
+      ["Mandela; South Africa", "End apartheid and establish a nonracial democracy", "Civil disobedience, support for sabotage, mass politics and negotiation", "Did not maintain an absolute commitment to nonviolent methods"]
+    ]
+  },
   "[[BRAIN_DRAIN_HEALTH_WORKFORCE_TABLE]]": {
     caption: "Foreign-trained professionals as a share of each destination workforce. OECD International Migration Outlook 2025, latest observations within 2021-2023; Tables 5.3 and 5.4.",
     headers: ["Destination", "Doctors trained abroad", "Nurses trained abroad"],
@@ -548,7 +560,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   const articleHeroHighlights = articleHeroHighlightOverrides[article.slug] ?? article.headlineHighlights;
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
-  const hasFullImageMobileHero = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces" || article.slug === "bajau-people-sea-nomads-diving" || article.slug === "brain-drain-why-skilled-workers-leave-home";
+  const hasFullImageMobileHero = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces" || article.slug === "bajau-people-sea-nomads-diving" || article.slug === "brain-drain-why-skilled-workers-leave-home" || article.slug === "gandhi-mandela-mlk-power-of-resistance";
   const hasMobilePortrait = article.slug === "alzheimers-disease-brain-memory-loss"
     || article.slug === "history-of-perfume-scent-beauty-power-luxury"
     || article.slug === "pablo-escobar-medellin-cartel-wealth-rise-fall"
@@ -589,7 +601,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
           </Link>
         </nav>
 
-        <header className={`relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px] ${hasFullImageMobileHero ? "brain-to-voice-hero" : ""}`}>
+        <header className={`relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px] ${hasFullImageMobileHero ? "brain-to-voice-hero" : ""} ${article.slug === "gandhi-mandela-mlk-power-of-resistance" ? "resistance-hero" : ""}`}>
           <Image
             src={article.coverImage}
             alt={article.coverAlt}
