@@ -33,7 +33,7 @@ export function getArticleLastUpdated(article: Article) {
 }
 
 export function getArticleSections(article: Article): ArticleSection[] {
-  return article.content.flatMap((block, index) => {
+  return getArticleContentWithoutInlineFaq(article).flatMap(({ block, originalIndex: index }) => {
     if (!block.startsWith("## ") && !block.startsWith("### ")) {
       return [];
     }

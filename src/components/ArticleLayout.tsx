@@ -43,6 +43,19 @@ const articleHeroHighlightOverrides: Record<string, HeadlineHighlights> = {
 };
 
 const articleTables: Record<string, ArticleTableConfig> = {
+  "[[BRAIN_TO_VOICE_EVIDENCE_TABLE]]": {
+    caption: "Speech BCI evidence. Each row describes one participant; tasks and accuracy measures differ. Sources and measurement definitions follow the table.",
+    headers: ["Study and sample", "Output and vocabulary", "Measured performance", "Interpretation"],
+    minWidthClass: "min-w-[760px]",
+    boldColumnIndex: 0,
+    rowKeyIndex: 0,
+    rows: [
+      ["Card et al., 2024, NEJM; n = 1, ALS", "Text decoding; 125,000-word vocabulary", "About 32 words/min in conversation; 97.5% word accuracy after further training", "Text accuracy, not direct synthesized-voice intelligibility"],
+      ["Littlejohn et al., 2025, Nature Neuroscience; n = 1, stroke", "Streaming voice; 1,024-word general set", "47.5 synthesized words/min; 80-ms processing increments", "Processing interval is not time to the first audible word; listener transcription assessed intelligibility"],
+      ["Wairagkar et al., 2025, Nature; n = 1, ALS", "Direct voice; unfamiliar words also demonstrated", "About 25-ms audio delay; almost 60% of words understood by listeners", "No single comparable WPM benchmark quoted here; unfamiliar-word demonstrations do not establish unlimited accuracy"],
+      ["Card et al., 2026, Nature Medicine; n = 1, ALS", "Text and cursor control; 125,000-word vocabulary", "56 words/min average; above 99% word accuracy in prompted testing", "92% of everyday sentences rated at least mostly correct by the user; distinct from word accuracy"]
+    ]
+  },
   "[[MARKET_CAP_2026_TABLE]]": {
     caption: "Snapshot: approximate public-company market caps, September 1, 2026. Figures move with share prices.",
     headers: ["Rank", "Company", "Ticker", "Country", "Market Cap", "Why It Ranks Here"],
@@ -511,6 +524,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   const articleHeroHighlights = articleHeroHighlightOverrides[article.slug] ?? article.headlineHighlights;
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
+  const isBrainToVoice = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces";
   const hasMobilePortrait = article.slug === "alzheimers-disease-brain-memory-loss"
     || article.slug === "history-of-perfume-scent-beauty-power-luxury"
     || article.slug === "pablo-escobar-medellin-cartel-wealth-rise-fall"
@@ -551,7 +565,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
           </Link>
         </nav>
 
-        <header className="relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px]">
+        <header className={`relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px] ${isBrainToVoice ? "brain-to-voice-hero" : ""}`}>
           <Image
             src={article.coverImage}
             alt={article.coverAlt}
@@ -577,7 +591,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
               <time className="text-right text-white/86" dateTime={article.date}>{formatHeroDate(article.date)}</time>
             </div>
 
-            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""} ${hasMobilePortrait ? (article.slug === "endless-scrolling-phone-attention-sleep-science" ? "max-sm:!pt-[160px] sm:max-lg:!pt-[280px]" : "max-lg:!pt-[280px]") : ""}`}>
+            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${isBrainToVoice ? "brain-to-voice-hero-copy" : ""} ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""} ${hasMobilePortrait ? (article.slug === "endless-scrolling-phone-attention-sleep-science" ? "max-sm:!pt-[160px] sm:max-lg:!pt-[280px]" : "max-lg:!pt-[280px]") : ""}`}>
               <h1 className="article-hero-title text-white">
                 <HeadlineText title={article.title} highlights={articleHeroHighlights} legacyRed={article.headlineAccent} />
               </h1>

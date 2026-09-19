@@ -553,3 +553,15 @@ select {
 :root.light .about-newsroom-night {
   display: none;
 }
+@media (max-width: 1023px) {
+  .brain-to-voice-hero .article-hero-image {
+    height: auto !important;
+    aspect-ratio: 1672 / 941;
+    object-fit: contain;
+    object-position: top;
+  }
+
+  .brain-to-voice-hero-copy {
+    padding-top: clamp(160px, 46vw, 430px);
+  }
+}

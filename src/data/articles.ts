@@ -54,6 +54,181 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "104",
+    "slug": "brain-to-voice-ai-speech-brain-computer-interfaces",
+    "title": "BRAIN TO VOICE: HOW AI IS GIVING SPEECH BACK TO PEOPLE WHO CANNOT TALK",
+    "seoTitle": "Brain to Voice: How AI Speech Brain Implants Work",
+    "metaDescription": "How speech brain-computer interfaces restore a voice: verified 2025 and 2026 studies, real performance, personalized speech, privacy and clinical limits.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "BRAIN TO VOICE",
+      "gold": "SPEECH BACK"
+    },
+    "excerpt": "Brain implants and AI can turn attempted speech into words and sound. The science is advancing from delayed sentences toward personal voices, expressive gestures and daily communication, but the limits matter.",
+    "category": "Science",
+    "date": "2026-09-19",
+    "lastUpdated": "2026-09-19",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/brain-to-speech-voice-ai-computer-science-future-technology.png",
+    "coverAlt": "Conceptual illustration of a wheelchair user beside a brain-to-speech display showing neural signals, AI decoding and voice output; not a photograph of a clinical device",
+    "homepageImagePosition": "75% 35%",
+    "status": "published",
+    "tags": [
+      "Speech brain-computer interfaces",
+      "Brain-to-voice AI",
+      "Speech neuroprostheses",
+      "Neuroscience",
+      "ALS",
+      "Neural privacy"
+    ],
+    "content": [
+      "A conversation is more than a sequence of correct words. It is the chance to answer before the subject changes, interrupt with a question, reassure someone in a familiar voice or finish a joke at the right moment. When paralysis takes away speech, that timing can disappear even while the wish to communicate remains.",
+      "Speech brain-computer interfaces, or speech BCIs, create an alternative route from brain activity to communication. Implanted electrodes record signals associated with trying to speak. Trained AI models translate those signals into text or synthetic sound. The speaker does not have to produce intelligible speech for the computer to find useful information.",
+      "The major brain-to-voice studies published in 2025 brought this route closer to a flowing conversation. Research published in 2026 added important evidence about home use and combining speech with gestures. These are experimental systems tested in small numbers of people. They do not freely read thoughts, recover every private mental experience or cure the disease that caused speech loss.",
+      "Evidence checked through September 19, 2026. This is a scientific explainer based on published research, not a report of a treatment available to everyone. Hero image: the supplied artwork is a conceptual illustration, not a clinical photograph or a depiction of the equipment used in the studies.",
+      "## HOW SPEECH IS ENCODED IN THE BRAIN",
+      "Speaking starts before the mouth moves. Brain networks help select meaning, assemble words, arrange their sounds and prepare the movements that will produce them. Motor regions coordinate the lips, tongue, jaw and larynx, while sensory systems help monitor the result. A word is not stored as a neat audio file waiting for an electrode to download.",
+      "In a 2024 study involving five people, researchers recorded individual neurons during speech and found activity related to different linguistic units, including speech sounds and parts of words. This illustrates why decoding requires patterns across neurons and time, rather than a simple dictionary of one neuron per word. The findings also concern a particular recorded region and task, not a complete map of language. [NIH explanation of the 2024 study](https://www.nih.gov/news-events/nih-research-matters/how-brain-produces-speech).",
+      "The crucial opening for a speech prosthesis is that some of the neural machinery for speaking may remain active when the body cannot carry out its commands. An attempted word can therefore leave a measurable pattern even if the person produces no voice. Whether useful signals remain depends on the condition and the brain regions affected.",
+      "For the broader history of this remarkable human ability, see PRESDA’s [How Humans Learned to Speak](/articles/how-humans-learned-to-speak/). The evolutionary story of language and the engineering problem of restoring its output are connected, but they ask different questions.",
+      "## WHAT AN IMPLANT ACTUALLY RECORDS",
+      "An electrode records electrical changes near its contact. It does not observe the whole brain or identify the meaning of a signal on its own. Position, contact quality, recording stability and the participant’s task all shape the information available to a decoder.",
+      "Two important approaches are electrocorticography, called ECoG, and intracortical recording. An ECoG grid rests on the cortical surface and samples the combined activity of nearby neural populations across an area. Intracortical microelectrodes enter brain tissue and can record much more local activity, including neuronal spikes. Both differ fundamentally from a consumer headset measuring signals through the scalp. The surface grid still requires surgery.",
+      "The recording system amplifies and digitizes small voltage changes, removes or reduces interference, and extracts features that an AI model can use. These might describe the strength of particular frequency bands or how often nearby neurons fire. An external computer can then process those features. Recording brain activity and stimulating the brain are different functions; the speech systems discussed here primarily use recording to create an output route. [Scientific review of speech neuroprostheses](https://www.nature.com/articles/s41583-024-00819-9).",
+      "## HOW AI TURNS AN ATTEMPT INTO TEXT AND SOUND",
+      "Training begins with examples. A participant sees a sentence and tries to say it while the system records neural activity. The known prompt supplies a target, helping the model learn which changing patterns accompany the intended speech. Researchers must then test it on held-out examples to establish whether it learned more than the training material.",
+      "A text decoder may estimate sequences of speech sounds or smaller text units and combine them into words. A language model helps resolve ambiguity by assigning probabilities to plausible sequences. That can improve communication, but plausibility is not proof of intent. A fluent sentence can still contain the wrong word, particularly when a name or unusual expression is involved.",
+      "Once text exists, a conventional text-to-speech system can read it aloud. Direct brain-to-voice synthesis takes a different route: the decoder predicts acoustic features or speech units, and a synthesizer turns those predictions into sound. This can preserve aspects of timing and expression that a text-only transcript does not fully specify.",
+      "The 2025 UC Davis system illustrates the acoustic route. Its neural decoder supplied information about sound quality, pitch and voicing to a vocoder, the component that generates the audio waveform. Because there was no clear natural speech recording to use as a target, the researchers aligned synthetic training speech with the participant’s neural activity. [Nature, study methods and pipeline](https://www.nature.com/articles/s41586-025-09127-3/figures/1).",
+      "This is a useful distinction from a general chatbot. The communication aid should express the user’s intended message, not invent a reply on the user’s behalf. PRESDA’s [guide to why people trust AI like a friend](/articles/why-people-trust-ai-like-a-friend/) explores why confident, humanlike output can invite more trust than its accuracy warrants.",
+      "## THE LANDMARK 2025 BRAIN-TO-VOICE STUDIES",
+      "### Streaming speech after a brainstem stroke",
+      "Littlejohn and colleagues published their Nature Neuroscience study on March 31, 2025. Its live brain-to-voice demonstration involved one woman with severe paralysis and loss of articulate speech after a stroke. Cortical surface recordings drove a system that emitted speech progressively instead of waiting for an entire sentence to finish. The model processed neural input in 80-millisecond increments. [Primary study](https://www.nature.com/articles/s41593-025-01905-6).",
+      "NIH reports that training involved more than 23,000 silent speech attempts across more than 12,000 sentences. The reported synthesized rate was 47.5 words per minute for the larger vocabulary condition. This was meaningful progress, but substantial participant effort lay behind the demonstration. It was not a device that understood a new user immediately. [NIH study summary](https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis).",
+      "### Direct, expressive voice synthesis in ALS",
+      "Wairagkar and colleagues published a separate Nature study on June 12, 2025, involving one man with ALS and severe dysarthria, or difficulty producing clear speech. Recordings came from 256 microelectrodes. The participant could influence features of the synthesized voice, including intonation, and demonstrated simple melodic output. [Primary study](https://www.nature.com/articles/s41586-025-09127-3).",
+      "UC Davis reports an audio delay of about 25 milliseconds and listener understanding of almost 60% of synthesized words, compared with about 4% of the participant’s unaided speech. The system also demonstrated unfamiliar words and interjections. The gain was substantial, while the remaining misunderstandings were substantial too. This was one participant, not an average outcome for people with ALS. [UC Davis research account](https://health.ucdavis.edu/chpr/news/headlines/first-of-its-kind-technology-helps-man-with-als-speak-in-real-time/2025/06).",
+      "## REAL PERFORMANCE: SPEED, LATENCY, ACCURACY AND VOCABULARY",
+      "The comparison below separates text decoding from direct voice synthesis. Participant counts refer to people contributing the clinical demonstration, not the number of sentences, electrodes or listener ratings. These studies used different tasks and should not be read as a head-to-head device ranking.",
+      "[[BRAIN_TO_VOICE_EVIDENCE_TABLE]]",
+      "Table sources: [Card et al., 2024](https://www.nejm.org/doi/full/10.1056/NEJMoa2314132), [Littlejohn et al., 2025](https://www.nature.com/articles/s41593-025-01905-6), [UC Davis on Wairagkar et al., 2025](https://health.ucdavis.edu/chpr/news/headlines/first-of-its-kind-technology-helps-man-with-als-speak-in-real-time/2025/06), and [Card et al., 2026](https://www.nature.com/articles/s41591-026-04414-6).",
+      "Latency needs a start and an end point. A processing interval describes how often a model updates. Audio-system delay measures how long a processing pipeline takes. Time from a cue to the first output additionally includes the participant’s response and speech initiation. In the 2025 streaming study, the median cue-to-synthesized-speech onset was 1.67 seconds for the general vocabulary condition. Calling the entire wait 80 milliseconds would be incorrect. [Extended Data Figure 3](https://www.nature.com/articles/s41593-025-01905-6).",
+      "Words per minute also needs context. The streaming study compared a 1,024-word general set with a constrained set of 50 assistive-communication phrases. A restricted phrase task can be easier and faster than constructing unrestricted conversation. A decoder’s vocabulary size describes its available word inventory, not the number of words proved equally accurate in everyday use. [Task definitions and evaluation](https://www.nature.com/articles/s41593-025-01905-6/figures/2).",
+      "Accuracy can mean different things. Word error rate counts substitutions, omissions and extra words against a reference transcript. Listener transcription tests whether people can understand generated audio. Choosing the right sentence from a short list is easier than writing down unfamiliar speech without options. The 2025 Nature voice study included both types of listening test, so its excellent sentence-selection results should not be presented as perfect open-ended speech. [Nature listening evaluation](https://www.nature.com/articles/s41586-025-09127-3/figures/2).",
+      "The 2024 text system provides a useful contrast: NIH reported about 97.5% word accuracy after further training and conversational use at about 32 words per minute in one participant. Those figures describe a different decoding pathway and evaluation from the 2025 direct-voice experiment. Attaching that accuracy to the newer voice demonstration would create a result that no study actually reported. [NIH on the 2024 study](https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-helps-paralyzed-man-speak).",
+      "## HOW A FAMILIAR VOICE CAN RETURN",
+      "A person’s voice carries identity as well as information. Reconstructing a recognizable synthetic version requires separating what the person is trying to say from how the output voice should sound. The neural decoder supplies the communication signal; a personalized voice model supplies characteristics learned from recordings.",
+      "In the 2025 streaming study, an older recording helped personalize the output to the participant’s preinjury voice. The Nature voice-synthesis study also demonstrated a personalized model using recordings from before ALS. Neither approach extracted an intact former voice from a hidden recording in the brain. [Streaming study](https://www.nature.com/articles/s41593-025-01905-6), [Nature personalized-voice demonstration](https://www.nature.com/articles/s41586-025-09127-3).",
+      "Personalization is a reconstruction. Its resemblance depends on the available recordings and the model. A familiar timbre does not establish that every accent detail, emotion or conversational habit has been restored. Nor does it establish that the decoded words are correct. Patients should be able to choose whether they want a recreated voice, another voice or text alone, and control reuse of their voice recordings.",
+      "## ATTEMPTED SPEECH IS NOT PRIVATE INNER SPEECH",
+      "Attempted speech means trying to execute the act of speaking, even when paralysis prevents the expected movement or sound. Inner speech means words experienced mentally without trying to articulate them. Both can be silent to an observer. That makes the phrase silent speech too ambiguous to explain what an experiment actually asked a participant to do.",
+      "The distinction is real, but the signals are not completely separate. Kunz and colleagues’ 2025 Cell study recorded from four participants with speech impairment caused by ALS or stroke. It found related representations of attempted and inner speech in motor cortex, with differences that could help distinguish them. The team demonstrated deliberate inner-speech decoding and also recovered aspects of verbal content during structured counting and sequence-recall tasks. [Cell study, open manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC12360486/).",
+      "This does not demonstrate unrestricted access to a person’s private life. The research involved implanted sensors, participant-specific models and controlled tasks. It does demonstrate why privacy cannot rest on the promise that motor cortex contains only deliberate commands. Inner speech is itself only one part of thinking; memories, feelings and abstract intentions are not interchangeable with a sentence imagined in words.",
+      "NIH reports word error rates of 14% to 33% in the study’s 50-word inner-speech condition and 26% to 54% with a 125,000-word vocabulary. These were condition- and participant-dependent results, not a universal thought-reading accuracy. The larger study cohort was four people; not every individual contributed to every decoding experiment. [NIH explanation](https://www.nih.gov/news-events/nih-research-matters/decoding-inner-speech-brain-signals).",
+      "## SEPTEMBER 2026: SPEECH AND GESTURES FROM ONE IMPLANT",
+      "Brosler and colleagues’ Nature Neuroscience paper, published September 14, 2026, studied three participants overall. Simultaneous speech-and-gesture experiments involved two. A single ECoG grid per participant sampled regions supporting multiple movements, allowing parallel decoders to drive speech output and a full-body avatar. [Primary 2026 paper](https://www.nature.com/articles/s41593-026-02446-2).",
+      "The communication sets were deliberately small: one participant used five utterances and four gestures, while the other used ten utterances and ten gestures. These were discrete options, not unrestricted sign language or arbitrary body movement. Training with simultaneous behavior improved performance when both behaviors occurred together; training across modalities also reduced unwanted activations.",
+      "The achievement is a proof of concept for richer expression: an avatar can pair a phrase with a communicative gesture. It does not mean the implant restored physical movement, decoded any gesture on demand or combined unrestricted conversation with a complete virtual body. The next challenge is making such outputs reliable across a much wider range of expressions without confusing one intention with another.",
+      "## WHO COULD BENEFIT, AND WHO MIGHT NOT?",
+      "The strongest direct evidence discussed here concerns people with ALS or brainstem stroke whose speech output is severely impaired. ALS can damage the motor pathways needed to speak. A brainstem stroke can interrupt communication between an otherwise functioning cortex and the muscles. A decoder may bypass part of that broken output route.",
+      "Other causes of severe paralysis or motor speech impairment could be candidates for future studies, provided usable speech-related signals remain. That is a research possibility, not a guarantee. A person who cannot speak because language formulation itself is damaged presents a different problem from someone who can formulate a sentence but cannot articulate it.",
+      "In particular, aphasia after a cortical stroke cannot be assumed to respond like paralysis after a brainstem stroke. Severe cognitive changes, damaged target regions, health risks or inability to complete training can alter suitability. PRESDA’s [explainer on Alzheimer’s disease and memory loss](/articles/alzheimers-disease-brain-memory-loss/) provides context on why different brain conditions should not be treated as a single engineering problem.",
+      "Existing communication methods remain relevant: eye tracking, switches, communication boards and speech-generating devices can offer meaningful access without brain surgery. The practical question is which approach gives an individual the most reliable control with an acceptable burden. A technologically impressive implant is not automatically the best choice for every user.",
+      "## SURGERY, TRAINING AND DAILY LIFE",
+      "Implantation involves neurosurgery and an individualized assessment of risks such as infection, bleeding and damage to tissue. Hardware passing through the skin creates care requirements; implanted components and connections must remain dependable. A successful recording session does not establish lifetime safety. [Review of the field](https://www.nature.com/articles/s41583-024-00819-9).",
+      "Training is another burden. Participants may repeat prompted sentences while researchers fit models, adjust timing and check errors. Fatigue matters, particularly when trying to speak requires effort. Changes in neural signals can also require recalibration. The goal is a system that serves someone’s day rather than a day organized around maintaining the system.",
+      "A June 15, 2026 Nature Medicine report moved that goal forward in one man with ALS. It documented more than 3,800 hours of home BCI use, with care partners helping with setup and no researchers required to be present during independent use. Average communication speed was 56 words per minute. Formal prompted testing exceeded 99% word accuracy with a 125,000-word vocabulary; the participant rated 92% of everyday sentences at least mostly correct. Those are different measures, and the logged use includes activity other than speaking. [2026 home-use study](https://www.nature.com/articles/s41591-026-04414-6).",
+      "This is substantial evidence that useful life beyond a supervised demonstration is possible. It remains a single-participant investigational result. It should not be turned into a promise of the same accuracy, independence or setup experience for everyone.",
+      "## CAN A BCI READ THOUGHTS WITHOUT PERMISSION?",
+      "Current speech BCIs cannot freely inspect a stranger’s thoughts. They depend on access to brain signals and specialized decoding. Yet an implanted user’s intention to keep something private is not automatically a physical barrier against a decoder. The 2025 inner-speech findings make that narrower risk concrete.",
+      "Researchers demonstrated approaches that suppress inner-speech output in an attempted-speech decoder, and a deliberate keyword gate for activating an inner-speech interface. NIH reports keyword recognition above 98% in the tested setting. That is promising evidence for user control, not a guarantee against every accidental activation or malicious software change. [NIH on privacy strategies](https://www.nih.gov/news-events/nih-research-matters/decoding-inner-speech-brain-signals).",
+      "A useful distinction is between collecting a signal, inferring words from it and broadcasting those words. Muting a speaker only addresses the last step. A privacy-respecting design should make the active state clear, provide an accessible stop control and explain what neural recordings and transcripts are stored, where processing happens and who can access the data.",
+      "These are design requirements and ethical priorities, not features proved present in every experimental BCI. Users should control whether data may train later systems, whether a synthetic voice may be reused and what happens when they leave a trial. Consent must remain meaningful after implantation. For broader context about the social role of assistive AI, read [Japan Enters the AI Care Era](/articles/japan-enters-ai-care-era/).",
+      "## WHAT MUST IMPROVE BEFORE WIDESPREAD CLINICAL USE?",
+      "Replication comes first. Studies need more participants with different conditions, accents, languages and degrees of impairment. Researchers must establish who benefits, who does not and how often complications or failures occur. An impressive result in one person can justify further trials without settling those questions.",
+      "Reliability must cover ordinary life: fatigue, interruptions, unfamiliar names, background conversation, changing posture and days when signals are poor. Evaluation should count unwanted output and time spent correcting mistakes, as well as peak decoding speed. A reliable way to say that a message was wrong is part of communication, not an optional extra.",
+      "Hardware must become easier to live with. Long-term signal stability, manageable setup, robust connections and maintainable software matter as much as an algorithm benchmark. Smaller or wireless systems are important development directions, but making a device wireless does not by itself establish equivalent performance or remove surgical risks.",
+      "Clinical delivery also needs trained teams, rehabilitation support, repair arrangements and a credible plan for continued access after a trial or company ends. Costs and coverage must be assessed alongside benefits. A communication system should not become unusable because the original research team is no longer available.",
+      "## WHERE BRAIN-TO-VOICE TECHNOLOGY COULD GO NEXT",
+      "Demonstrated progress includes streaming voice, deliberate modulation of vocal expression, personalized synthetic voices, restricted speech-plus-gesture communication and prolonged independent home use in individual participants. These achievements concern different systems and tasks. No single study establishes every capability at once.",
+      "Future possibilities include more natural turn-taking, richer expression, larger gesture vocabularies, better multilingual support and switching smoothly between private text and audible conversation. These should be treated as development goals. Their value will depend on whether they preserve the speaker’s meaning and reduce effort in daily life.",
+      "A useful test for the next generation is simple to state, even if difficult to engineer: can a person begin, pause, correct and end a conversation when they choose? Can they sound like themselves without surrendering control of their words or recordings? Can the device remain useful on an ordinary difficult day, not only during a carefully prepared demonstration?",
+      "The promise of brain-to-voice technology lies in that agency. A familiar voice may be moving to hear, but the deeper achievement is letting someone decide what to say, when to say it and when to remain silent.",
+      "## FAQ",
+      "### Can a brain implant restore speech for everyone who cannot talk?",
+      "No. The cited results come from selected research participants. Suitability depends on the cause of speech loss, usable neural signals, surgical eligibility and the ability to train and operate the system. These devices remain experimental.",
+      "### Is an AI-reconstructed voice the same as recovering natural speech?",
+      "No. It is synthetic audio produced through a computer, sometimes personalized with earlier recordings. It does not restore the damaged muscles or nerves, and a familiar voice can still contain decoding errors.",
+      "### Does attempted-speech decoding expose every private thought?",
+      "No. Attempted speech and private inner speech are different, although their neural patterns can overlap. Controlled inner-speech experiments show a limited privacy risk that requires deliberate safeguards, not unrestricted thought reading.",
+      "## SOURCES AND EVIDENCE NOTES",
+      "The primary papers and institutional explanations below support the study-specific claims. Years refer to publication; participant counts are stated beside each study. This article separates live results from experimental tasks and future possibilities. Some Nature articles provide only an abstract and public figure or supplementary material without a subscription; NIH summaries and the open Cell manuscript provide additional accessible context.",
+      "[Littlejohn et al., Nature Neuroscience (2025): streaming brain-to-voice, one participant](https://www.nature.com/articles/s41593-025-01905-6).",
+      "[Wairagkar et al., Nature (2025): instantaneous voice synthesis, one participant](https://www.nature.com/articles/s41586-025-09127-3).",
+      "[Kunz et al., Cell (2025): inner speech and privacy, four participants; open author manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC12360486/).",
+      "[Brosler et al., Nature Neuroscience (September 14, 2026): speech and gestures, three participants overall](https://www.nature.com/articles/s41593-026-02446-2).",
+      "[Card et al., Nature Medicine (June 15, 2026): independent home use, one participant](https://www.nature.com/articles/s41591-026-04414-6).",
+      "[Card et al., New England Journal of Medicine (2024): rapidly calibrating speech BCI, one participant](https://www.nejm.org/doi/full/10.1056/NEJMoa2314132).",
+      "[NIH (2025): brain-computer interface restores natural speech after paralysis](https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis).",
+      "[UC Davis (2025): real-time speech, latency and listener intelligibility](https://health.ucdavis.edu/chpr/news/headlines/first-of-its-kind-technology-helps-man-with-als-speak-in-real-time/2025/06).",
+      "[NIH (2025): decoding inner speech from brain signals](https://www.nih.gov/news-events/nih-research-matters/decoding-inner-speech-brain-signals).",
+      "[NIH (2024): how the brain produces speech, five participants](https://www.nih.gov/news-events/nih-research-matters/how-brain-produces-speech).",
+      "[NIH (2024): brain-computer interface helps paralyzed man speak](https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-helps-paralyzed-man-speak).",
+      "[Silva et al., Nature Reviews Neuroscience (2024): The speech neuroprosthesis, review](https://www.nature.com/articles/s41583-024-00819-9)."
+    ],
+    "references": [
+      {
+        "name": "Littlejohn et al., Nature Neuroscience (2025): streaming brain-to-voice, one participant",
+        "url": "https://www.nature.com/articles/s41593-025-01905-6"
+      },
+      {
+        "name": "Wairagkar et al., Nature (2025): instantaneous voice synthesis, one participant",
+        "url": "https://www.nature.com/articles/s41586-025-09127-3"
+      },
+      {
+        "name": "Kunz et al., Cell (2025): inner speech and privacy, four participants; open author manuscript",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12360486/"
+      },
+      {
+        "name": "Brosler et al., Nature Neuroscience (September 14, 2026): speech and gestures, three participants overall",
+        "url": "https://www.nature.com/articles/s41593-026-02446-2"
+      },
+      {
+        "name": "Card et al., Nature Medicine (June 15, 2026): independent home use, one participant",
+        "url": "https://www.nature.com/articles/s41591-026-04414-6"
+      },
+      {
+        "name": "Card et al., New England Journal of Medicine (2024): rapidly calibrating speech BCI, one participant",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2314132"
+      },
+      {
+        "name": "NIH (2025): brain-computer interface restores natural speech after paralysis",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis"
+      },
+      {
+        "name": "UC Davis (2025): real-time speech, latency and listener intelligibility",
+        "url": "https://health.ucdavis.edu/chpr/news/headlines/first-of-its-kind-technology-helps-man-with-als-speak-in-real-time/2025/06"
+      },
+      {
+        "name": "NIH (2025): decoding inner speech from brain signals",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/decoding-inner-speech-brain-signals"
+      },
+      {
+        "name": "NIH (2024): how the brain produces speech, five participants",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/how-brain-produces-speech"
+      },
+      {
+        "name": "NIH (2024): brain-computer interface helps paralyzed man speak",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-helps-paralyzed-man-speak"
+      },
+      {
+        "name": "Silva et al., Nature Reviews Neuroscience (2024): The speech neuroprosthesis, review",
+        "url": "https://www.nature.com/articles/s41583-024-00819-9"
+      }
+    ],
+    "readingTime": "16 min read"
+  },
+  {
     "id": "103",
     "slug": "places-that-dont-look-real-surreal-landscapes-travel",
     "title": "20 PLACES THAT DON’T LOOK REAL, BUT ACTUALLY EXIST",
