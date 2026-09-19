@@ -54,6 +54,328 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "109",
+    "slug": "amazigh-imazighen-north-africa-history",
+    "title": "THE AMAZIGH: THE PEOPLE WHO SHAPED NORTH AFRICA",
+    "seoTitle": "Amazigh History: The People Who Shaped North Africa",
+    "metaDescription": "Explore Amazigh history from Numidia to modern North Africa, including Tamazight, Tifinagh, great dynasties and what E-M81 DNA can and cannot reveal.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "THE AMAZIGH",
+      "gold": "NORTH AFRICA"
+    },
+    "excerpt": "From Numidian kingdoms to Islamic empires and living languages, the Imazighen helped shape North Africa. Their story is one of continuity, exchange and identities that keep evolving.",
+    "category": "History",
+    "date": "2026-09-20",
+    "lastUpdated": "2026-09-20",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/amazigh-imazighen-berber-morocco-algeria-north-africa.png",
+    "coverAlt": "Artistic illustration of an Amazigh figure overlooking a North African mountain settlement, with symbolic rock art in the foreground",
+    "homepageImagePosition": "60% 45%",
+    "status": "published",
+    "tags": [
+      "Amazigh history",
+      "Berber history",
+      "Amazigh people",
+      "Imazighen",
+      "North Africa history",
+      "Numidia",
+      "Massinissa",
+      "Amazigh DNA",
+      "E-M81",
+      "Tamazight",
+      "Tifinagh"
+    ],
+    "content": [
+      "North Africa’s history is often told through the people who arrived: Phoenicians, Romans, Arabs, Ottomans and Europeans. That approach leaves the inhabitants themselves waiting in the margins. Amazigh history brings them back into view as farmers and merchants, rulers and religious thinkers, soldiers, craftspeople and speakers of languages that remain alive today.",
+      "The Amazigh, whose plural name is Imazighen, are Indigenous peoples of North Africa. Their history includes Numidian kingdoms, Islamic empires and modern campaigns for language rights. It also includes movement, intermarriage and changing identities. No single dynasty, language variety or genetic marker can stand for everyone. The compelling story is how communities helped make North Africa while continually being changed by it.",
+      "## WHO ARE THE AMAZIGH TODAY?",
+      "The largest concentrations of Amazigh-speaking communities are in Morocco and Algeria. They include communities of the Rif, Atlas and Souss in Morocco, and Kabylia, the Aurès and M’Zab in Algeria. People also live in major cities and overseas diasporas. Reducing Amazigh life to remote mountain villages misses teachers, shopkeepers, writers, musicians and families negotiating several languages in everyday life. [Minority Rights Group: Amazigh in Algeria](https://minorityrights.org/communities/amazigh/)",
+      "The map extends eastward to Tunisia, Libya and Egypt’s Siwa oasis, and southward into the Sahara and Sahel. Tunisia retains Amazigh-speaking communities, including in the south and on Djerba, despite extensive language shift. Libya’s Amazigh world includes the Nafusa Mountains, Zuwara and oasis communities, alongside Saharan Tuareg societies. These are related histories, not interchangeable local cultures. [Minority Rights Group: Amazigh in Tunisia](https://minorityrights.org/communities/amazigh-2/) [Minority Rights Group: Libya](https://minorityrights.org/country/libya/)",
+      "Population totals require caution. Speaking an Amazigh language, having Amazigh-speaking grandparents and identifying as Amazigh are different measures. Census categories, multilingual households and political pressures complicate comparisons. An Arabic-speaking person can recognize Amazigh ancestry or heritage without adopting the same identity as an Amazigh-speaking neighbour. Neither language nor a DNA test gives an outsider the right to assign someone an ethnicity.",
+      "## AMAZIGH, IMAZIGHEN AND “BERBER”",
+      "Amazigh is the singular form; Imazighen is plural. Tamazight can name the broader language grouping, a standardized language or, in particular contexts, a specific regional variety. Amazigh is often translated as “free person.” That familiar gloss expresses an important contemporary meaning, but the word’s historical uses and social associations vary. It should not be treated as a fully settled account of its earliest etymology. [Salem Chaker, Encyclopédie berbère: Amazigh, the history and uses of the name](https://www.centrederechercheberbere.fr/tl_files/doc-pdf/amazigh.pdf)",
+      "“Berber” remains common in older scholarship and in labels such as Berber languages and Berber history. It is an externally transmitted name, and many people prefer Amazigh because of its self-identifying character and the derogatory associations of the alternative. Usage is not uniform. Regional names such as Kabyle, Riffian or Tuareg can be equally important. A shared modern Amazigh identity does not mean every earlier community used a single collective name. [Salem Chaker, Encyclopédie berbère: Amazigh, the history and uses of the name](https://www.centrederechercheberbere.fr/tl_files/doc-pdf/amazigh.pdf)",
+      "## BEFORE ROME: WHAT COUNTS AS EVIDENCE?",
+      "North Africa has a very long human past. But the age of a skeleton is not the age of an ethnic identity. Stone tools, pottery, burials and rock art show what people made and sometimes how they lived. They do not automatically reveal what those people called themselves or which language they spoke. The much older fossils discussed in our [Jebel Irhoud article](/articles/we-are-all-moroccans-jebel-irhoud/) belong to the history of human evolution, not a modern ethnic certificate.",
+      "For the ancestors of later North African societies, archaeology reveals varied livelihoods rather than one founding event. Excavations beneath Roman-period Althiburos in Tunisia uncovered settlement evidence from the beginning of the first millennium BCE, including farming and cattle raising. Urban development did not begin when Rome arrived. At the same time, scholars face substantial gaps in the archaeological record, compounded by earlier excavators’ preference for spectacular classical ruins. [Matthew McCarty, University of British Columbia: The Libyans](https://peoplingthepast.com/2023/11/24/blog-92-the-libyans-with-matthew-mccarty/)",
+      "Egyptian texts and images name western groups including the Libu and Meshwesh. They record warfare, exchange and recruitment as well as the movement of people into Egypt. These are valuable contemporary sources, but royal victory imagery is political communication. It cannot be read as a neutral census of North Africa, or as proof that every group from Egypt to the Atlantic belonged to one unchanged nation. [University of Pennsylvania Museum: Egyptians and Libyans in the New Kingdom](https://www.penn.museum/sites/expedition/egyptians-and-libyans-in-the-new-kingdom/)",
+      "Greek and Roman writers used labels including Libyans, Numidians, Mauri and Gaetuli. Their categories shifted with geography, politics and the writer’s purpose. Herodotus described distinct communities and livelihoods; later authors supplied different groupings. The resemblance between ancient names and later identities can be historically suggestive, but the strongest interpretation combines texts with inscriptions and excavated evidence. It does not turn an ancient outsider’s label into a modern passport. [Matthew McCarty, University of British Columbia: The Libyans](https://peoplingthepast.com/2023/11/24/blog-92-the-libyans-with-matthew-mccarty/)",
+      "## NUMIDIA AND MASSINISSA: MAKING A KINGDOM BETWEEN EMPIRES",
+      "The Punic Wars made North African rulers central players in Mediterranean politics. Massinissa, also spelled Masinissa, first fought on Carthage’s side before aligning with Rome. His cavalry helped Scipio defeat Hannibal at Zama in 202 BCE. He then ruled a powerful Numidian kingdom until his death in 148 BCE. Our [history of Carthage and the Punic Wars](/articles/carthage-hannibal-punic-wars-tunisia-history/) follows the larger conflict. [Livius: Massinissa](https://www.livius.org/articles/person/massinissa/)",
+      "Massinissa’s achievement was more than military survival. Consolidating territory meant managing rival elites, resources and foreign relationships. Numidia developed agricultural wealth and participated in Mediterranean diplomacy. Rome’s support offered opportunities, but also imposed constraints. The king’s pressure on Carthaginian territory advanced Numidian interests while helping create the conditions for another Roman war. [Livius: Massinissa](https://www.livius.org/articles/person/massinissa/)",
+      "Calling Massinissa a national founder captures his later symbolic importance but risks importing the modern nation-state into antiquity. He ruled a kingdom with shifting alliances and a multilingual regional culture. Indigenous political agency did not require isolation from Punic or Hellenistic influences. Borrowing a diplomatic practice or an artistic form did not make a ruler less North African.",
+      "## JUGURTHA: RESISTANCE, DYNASTIC VIOLENCE AND ROMAN POWER",
+      "Jugurtha’s struggle with Rome grew out of a contest over Numidian succession. He was an ambitious ruler willing to eliminate rivals, not simply a modern liberation leader transported into antiquity. Sallust’s War with Jugurtha describes Roman bribery, political conflict and the king’s ability to exploit them. It is indispensable evidence, but also a Roman author’s argument about the moral failures of Roman public life. [Sallust: The War with Jugurtha, text and translation hosted by the University of Chicago](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Sallust/home.html)",
+      "The war usually dated 111–105 BCE ended when Bocchus of Mauretania delivered Jugurtha to the Romans. His resistance became a durable symbol because it exposed the difficulty of conquest and the vulnerability of a kingdom caught between stronger powers. The record also shows the limits of a simple invader-versus-Indigenous narrative: North African rulers pursued competing interests and sometimes helped Rome defeat one another. [Larousse: Jugurtha](https://www.larousse.fr/encyclopedie/personnage/Jugurtha/126244)",
+      "## LIVING IN ROMAN AND BYZANTINE NORTH AFRICA",
+      "Roman rule reorganized taxation, landholding, military service and urban life. North African provinces supplied agricultural products and supported wealthy cities. Their inhabitants participated in imperial institutions and artistic networks rather than merely receiving Roman culture. Mosaics, churches and luxury objects reveal a region deeply connected to the Mediterranean, while rural and frontier communities experienced imperial power differently. [The Metropolitan Museum of Art: Africa and Byzantium, exhibition guide](https://www.metmuseum.org/exhibitions/africa-byzantium/visiting-guide)",
+      "Roman and local identities could coexist. Latin inscriptions do not prove that everyone spoke only Latin, just as a Roman-style monument does not reveal all the identities of the people who built it. North African history becomes more intelligible when citizenship, language, religion and ancestry are allowed to overlap instead of being forced into exclusive boxes.",
+      "Christianity became a major force. Augustine of Hippo, who lived from 354 to 430 CE, was born at Thagaste in present-day Algeria and became one of Christianity’s most influential thinkers. His North African setting is certain. A precise modern ethnic label is harder to establish: the Stanford Encyclopedia notes possible Berber or Punic associations in his mother’s name while emphasizing his Roman intellectual identity. Recognizing African contributions does not require inventing biographical certainty. [Stanford Encyclopedia of Philosophy: Augustine of Hippo](https://plato.stanford.edu/entries/augustine/)",
+      "Vandal rule and then the Byzantine reconquest of 533–534 changed political authority again. Local kingdoms and coalitions also mattered, particularly beyond the zones firmly controlled by imperial governments. The centuries before Islam were not a blank interval between Rome and the Arab conquests. They contained changing Christian communities, regional rulers, warfare and accommodation. [The Cambridge Ancient History: Vandal and Byzantine Africa](https://www.cambridge.org/core/books/abs/cambridge-ancient-history/vandal-and-byzantine-africa/9F02D40C880F6A818097EF865FCAD72D) Read more about the wider [Byzantine Empire](/articles/byzantine-empire-eastern-rome-constantinople-1453/).",
+      "## KUSAILA AND DIHYA: RESISTANCE THROUGH THE FILTER OF LATER SOURCES",
+      "The Arab-Islamic conquest of the seventh and early eighth centuries was a prolonged process. Byzantine forces, local rulers and different North African communities did not respond as a single bloc. Kusaila, also known as Koceila, led resistance associated with the defeat of Uqba ibn Nafi near Tahuda in 683. Accounts connect his forces with both Berber and Byzantine elements. His origins, earlier dealings with the conquerors and the extent of his authority remain debated. [Yves Modéran, Encyclopédie berbère (2008): Koceila](https://journals.openedition.org/encyclopedieberbere/101)",
+      "The later resistance leader remembered as Dihya or al-Kahina is associated with the Aurès and opposition to Hasan ibn al-Nu‘man around the end of the seventh century. A historical leader lies behind the tradition, but much of the familiar biography comes through accounts written considerably later. Even the chronology is difficult. Yves Modéran’s specialist study carefully separates the surviving narrative layers. [Yves Modéran, Encyclopédie berbère (2005): Kahena](https://journals.openedition.org/encyclopedieberbere/1306)",
+      "Claims that Dihya was certainly Jewish, possessed supernatural foresight or ordered a precisely documented scorched-earth campaign should not be repeated as settled fact. Nor can romantic speeches attributed to her be treated as transcripts. Her modern importance as a symbol of female leadership and Amazigh resistance is real, but that importance is a different kind of evidence from a contemporary inscription or securely dated archaeological context. [Yves Modéran, Encyclopédie berbère (2005): Kahena](https://journals.openedition.org/encyclopedieberbere/1306)",
+      "## ISLAMIZATION WAS NOT THE SAME AS ARABIZATION",
+      "Islamization means the adoption and development of Islamic religious life. Arabization concerns the spread of Arabic language and, in some circumstances, Arab cultural identification. They interacted, but neither process happened everywhere at once. A community could become Muslim while continuing to speak an Amazigh language and maintaining local institutions. Arabic could gain prestige in worship, scholarship or administration without immediately replacing household speech. [David Robinson, Muslim Societies in African History: The Islamization of Africa](https://www.cambridge.org/core/books/abs/muslim-societies-in-african-history/islamization-of-africa/BB73CDB1EBAD5BE2DD190CB8301C3E3B)",
+      "This distinction explains an apparent paradox: communities that resisted particular conquering armies could later build powerful Islamic societies of their own. Religious affiliation did not erase political disagreement. It is misleading to describe the subsequent centuries either as complete population replacement or as a world untouched by migration. Conversion, settlement, bilingualism and changing alliances worked on different timescales. The [Umayyad expansion](/articles/umayyad-caliphate-damascus-expansion-rise-fall/) was a political turning point, not the instant completion of either process. [David Robinson, Muslim Societies in African History: The Islamization of Africa](https://www.cambridge.org/core/books/abs/muslim-societies-in-african-history/islamization-of-africa/BB73CDB1EBAD5BE2DD190CB8301C3E3B)",
+      "## AMAZIGH DYNASTIES THAT REMADE THE WESTERN MEDITERRANEAN",
+      "The Almoravids rose from Saharan religious and political networks in the eleventh century. With Marrakesh as their centre, their rulers connected parts of the Sahara, Morocco, Algeria and al-Andalus. Yusuf ibn Tashfin’s intervention in Iberia was followed by the consolidation of Almoravid power there. Their history joins desert routes to Mediterranean cities rather than separating them into different worlds. [The Metropolitan Museum of Art: The Art of the Almoravid and Almohad Periods](https://www.metmuseum.org/essays/the-art-of-the-almoravid-and-almohad-periods-ca-1062-1269)",
+      "The Almohads replaced them in the twelfth century through another movement of religious reform and conquest. Their centres in Marrakesh and Seville supported scholarship and monumental building. The defeat at Las Navas de Tolosa in 1212 weakened their position in Iberia. Neither dynasty was simply an ethnic solidarity project: religious authority, military coalitions and struggles over taxation and sovereignty were central. [The Metropolitan Museum of Art: The Art of the Almoravid and Almohad Periods](https://www.metmuseum.org/essays/the-art-of-the-almoravid-and-almohad-periods-ca-1062-1269)",
+      "Marinid power later made Fez a major political and cultural centre. UNESCO identifies the thirteenth and fourteenth centuries as the city’s high point under the Marinids, whose madrasas and other buildings remain prominent. Dynastic change did not mean starting civilization again from nothing. Rulers inherited urban institutions, recruited skilled workers and adapted the artistic achievements of predecessors. [UNESCO: Medina of Fez](https://whc.unesco.org/en/list/170/)",
+      "The eastern Maghreb also produced consequential states. The Hammadids built their first capital, Al Qal’a of Beni Hammad, in 1007 in present-day Algeria. Its surviving ruins demonstrate a substantial urban and architectural tradition far from the stereotype of a people confined to tribal encampments. Together with the Zirid and later Hafsid worlds, these histories belong in any account that reaches beyond Morocco alone. [UNESCO: Al Qal’a of Beni Hammad](https://whc.unesco.org/en/list/102/)",
+      "The M’Zab offers a different political and religious landscape. Its fortified settlements, associated with Ibadi Muslim communities, organize houses around a mosque and combine dense construction with adaptation to an arid environment. A history of Amazigh societies needs these forms of collective settlement as much as imperial capitals. [UNESCO: M’Zab Valley](https://whc.unesco.org/en/list/188/)",
+      "## AL-ANDALUS: PEOPLE AND IDEAS CROSSING THE STRAIT",
+      "The armies that crossed into Iberia in 711 included both Arabs and Berbers. North African participation continued through settlement, military service and later dynastic rule. Al-Andalus was therefore not solely an extension of an eastern Arab world. Its societies developed through relationships among the peninsula, the Maghreb and the wider Mediterranean. [The Metropolitan Museum of Art: Al-Andalus, the Art of Islamic Spain](https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/45646/)",
+      "Architecture makes those connections visible. Craftspeople and patrons circulated techniques, materials and tastes across the Strait of Gibraltar. The Almoravid and Almohad periods helped shape a shared western Islamic artistic world, while later Marinid and Andalusi buildings developed related forms. “Moorish” is a convenient historical label, but it should not conceal the distinct populations and changing states behind it. [The Metropolitan Museum of Art: The Art of the Almoravid and Almohad Periods](https://www.metmuseum.org/essays/the-art-of-the-almoravid-and-almohad-periods-ca-1062-1269) [UNESCO: Medina of Fez](https://whc.unesco.org/en/list/170/) Our [history of Morocco](/articles/morocco-history-dynasties-kingdom-independence/) follows those dynastic transitions in greater detail.",
+      "## TUAREG AND SAHARAN AMAZIGH WORLDS",
+      "Tuareg societies connect Amazigh history to the central Sahara and Sahel, particularly across Algeria, Libya, Mali and Niger. Their languages include varieties commonly called Tamasheq, Tamajaq and Tamahaq. Regional communities differ, and modern borders divide networks of kinship and mobility. The romantic image of an isolated desert nomad misses towns, migration and engagement with wider economies. [Minority Rights Group: Amazigh in Algeria](https://minorityrights.org/communities/amazigh/) [Minority Rights Group: Libya](https://minorityrights.org/country/libya/)",
+      "The imzad offers a more intimate view. UNESCO’s 2013 inscription describes a bowed instrument played and crafted by women, accompanying poetry and ceremonial performance in Tuareg communities of Algeria, Mali and Niger. Knowledge passes through observation and practice. This is not just decorative folklore: it is a way of transmitting memory, skill and social relationships. [UNESCO: Imzad practices of Tuareg communities in Algeria, Mali and Niger](https://ich.unesco.org/en/RL/practices-and-knowledge-linked-to-the-imzad-of-the-tuareg-communities-of-algeria-mali-and-niger-00891)",
+      "Neither the Sahara nor its societies should be imagined as empty or timeless. Mobility can be a practical response to an environment, not the absence of social organization. Equally, no single Tuareg example can represent every Amazigh community from the Atlantic coast to Siwa. Shared linguistic relationships coexist with substantial local differences.",
+      "## OTTOMAN RULE, COLONIAL CONQUEST AND CHANGING CATEGORIES",
+      "From the sixteenth century, Ottoman power reshaped much of the central and eastern Maghreb, while Morocco followed a different dynastic path. Authority was negotiated through provincial governments, towns and regional forces. It was not uniform across every mountain district or Saharan route. Placing all North Africans under one label obscures those uneven relationships between rulers and communities. [Jamil M. Abun-Nasr, A History of the Maghrib: Ottoman rule](https://www.cambridge.org/core/books/abs/history-of-the-maghrib-in-the-islamic-period/ottoman-rule-in-the-central-and-eastern-maghrib/F1B84C54B87EDB9D766B6D1206CE105B)",
+      "European conquest imposed another set of boundaries and institutions: France invaded Algeria in 1830, established a protectorate in Tunisia in 1881 and a protectorate over much of Morocco in 1912; Italy invaded Libya in 1911. Spanish colonial power also shaped northern Morocco. Dispossession, military violence and new administrative systems affected the conditions in which people worked, moved and expressed collective identity. [Jamil M. Abun-Nasr, A History of the Maghrib: European colonialism, 1830–1914](https://www.cambridge.org/core/books/abs/history-of-the-maghrib-in-the-islamic-period/age-of-aggressive-european-colonialism-18301914/287226205B1FFAEF9533AE82F212AAE3)",
+      "Colonial scholarship often exaggerated an Arab–Berber divide, presenting communities as fixed racial types. Katherine Hoffman’s research on customary courts in French Morocco shows instead how officials actively reshaped what they called Berber law. Colonial rule neither invented every local difference nor simply preserved ancient customs. It categorized people and intervened in the institutions it claimed to describe. [Katherine E. Hoffman (2010): Berber Law by French Means](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/berber-law-by-french-means-customary-courts-in-the-moroccan-hinterlands-19301956/B10C1347D17D997E74AB657853E0E39C)",
+      "After independence, national governments often prioritized Arabic in education and administration as part of rebuilding states after colonial domination. For Amazigh language movements, this could also mean exclusion. Algeria’s Berber Spring protests in 1980 became a landmark in demands for cultural recognition. The issue was not whether people belonged to the nation, but whether national belonging required their language to remain outside public life. [Minority Rights Group: Amazigh in Algeria](https://minorityrights.org/communities/amazigh/)",
+      "## TAMAZIGHT AND TIFINAGH: A LANGUAGE IS MORE THAN A SYMBOL",
+      "Amazigh languages form a branch of the Afro-Asiatic language family. Tamazight is widely used as an umbrella term, but regional forms have distinct vocabularies, sounds and literary traditions. Standardization can help create schoolbooks and public services while raising difficult questions about how to represent that diversity. A language policy must work for speakers, not merely put an emblem on a government building. [INALCO: The Tifinagh alphabet, history and current status](https://www.inalco.fr/en/tifinagh/berber-alphabet-history-and-current-status)",
+      "Ancient Libyco-Berber inscriptions provide an important written record, although many remain difficult to interpret. The relationship between these scripts and later Tifinagh is historically significant; the exact beginnings and development of the writing systems remain subjects of research. Tuareg communities preserved Tifinagh practices, while modern Neo-Tifinagh involves adaptation and standardization rather than the unchanged survival of a single prehistoric alphabet. [INALCO Centre de Recherche Berbère: Libyco-Berber writing](https://www.centrederechercheberbere.fr/lecriture-libyco-berbere.html)",
+      "Today Amazigh languages are written using Tifinagh, Latin and Arabic scripts in different settings. Morocco adopted a standardized Neo-Tifinagh alphabet for official Amazigh-language work in 2003. Script choice carries cultural meaning, but writing systems should not become tests of whether a speaker is authentic. Oral literature and the work of families passing on everyday speech are equally important. [INALCO: The Tifinagh alphabet, history and current status](https://www.inalco.fr/en/tifinagh/berber-alphabet-history-and-current-status) [IRCAM: Official adoption of Tifinagh on 10 February 2003](https://event.ircam.ma/old/presentationj.php?j=4)",
+      "## RECOGNITION, RIGHTS AND THE WIDER AMAZIGH WORLD",
+      "Morocco’s 2011 Constitution recognized Amazigh as an official language in Article 5 and described it as a common heritage of all Moroccans. That formulation matters: recognition need not require dividing citizens into sealed ancestral categories. It establishes a public obligation toward a language historically pushed out of many formal settings. [IRCAM: Article 5 of Morocco’s 2011 Constitution](https://www.ircam.ma/fr/textes-fondateurs/constitution-du-royaume)",
+      "Algeria’s current constitutional text likewise makes Tamazight a national and official language and commits the state to promoting its varieties. Legal status is an important achievement, but it is not a measurement of how easily a child can study in the language or a citizen can obtain a public service in it. Teacher training, materials and sustained institutional support determine the practical outcome. [International IDEA / Constitute: Algeria’s 2020 Constitution, Article 4](https://constituteproject.org/constitution/Algeria_2020.html?cons_id=Algeria_2020&lang=en&partial=true)",
+      "In Morocco, the 2019 implementing law addressed education, administration and other fields, but rights organizations continue to identify gaps between legal commitments and lived access. Tunisia’s smaller language communities face different pressures, while Libya’s political fragmentation complicates cultural rights and public provision. The Amazigh world shares concerns without sharing a single political situation. [Minority Rights Group: Morocco](https://minorityrights.org/country/morocco/) [Minority Rights Group: Amazigh in Tunisia](https://minorityrights.org/communities/amazigh-2/) [Minority Rights Group: Libya](https://minorityrights.org/country/libya/)",
+      "## E-M81: WHAT DNA CAN AND CANNOT TELL US ABOUT AMAZIGH HISTORY",
+      "E-M81 is a Y-chromosome haplogroup: a branch of paternal lineages identified by inherited genetic variants. It is not an “Amazigh gene.” Y-DNA follows one direct line, usually from father to son, rather than all the branches of a family tree. A person’s other ancestors contributed across the rest of the genome. A single paternal lineage cannot summarize them. [NHGRI: The X and Y of Human Origins](https://www.genome.gov/the-x-and-y-of-human-origins)",
+      "E-M183 is an overwhelmingly common branch within E-M81. A 2017 Scientific Reports study sequenced 32 North African carriers and examined a wider validation set. Its population table reported E-M183 in 87 of 140 Moroccan samples, or 62.14%. That is a frequency in that particular sample, not a census estimate and not the proportion of anyone’s total ancestry that is Amazigh. [Solé-Morata et al., Scientific Reports (2017): E-M183 whole Y-chromosome sequences](https://www.nature.com/articles/s41598-017-16271-y)",
+      "The same study estimated a common paternal ancestor for the sampled E-M183 lineages roughly 2,000–3,000 years ago, depending on methods and mutation rates. This estimates a branching point in a genetic genealogy. It does not date the beginning of North African settlement, Amazigh languages or Amazigh identity. A lineage can expand long after populations have become established. [Solé-Morata et al., Scientific Reports (2017): E-M183 whole Y-chromosome sequences](https://www.nature.com/articles/s41598-017-16271-y)",
+      "Population studies place the strongest concentration of E-M81 in northwestern Africa, with generally lower frequencies eastward and some occurrences beyond North Africa. The 2013 study by Fadhlaoui-Zid and colleagues combined Y-chromosome and genome-wide evidence to examine that regional structure. Sampling geography matters: a village, a language community and a national sample are not equivalent units. Their percentages should not be mixed into a ranking of ethnic “purity.” [Fadhlaoui-Zid et al., PLOS ONE (2013): Genome-wide and paternal diversity in North Africa](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0080293)",
+      "Both Amazigh-speaking and Arabic-speaking North Africans carry these paternal lineages. Arauna and colleagues’ 2017 genome-wide study compared five Berber and six Arab groups and found a complex pattern of diversity and historical mixture rather than a simple genetic boundary matching the language labels. Local isolation, migration and family histories can matter as much as broad group names. [Arauna et al., Molecular Biology and Evolution (2017): Historical migrations and North African genetic diversity](https://discovery.ucl.ac.uk/id/eprint/1522353/)",
+      "Genetic ancestry, language, culture and identity answer different questions. Genetic ancestry estimates biological relationships using particular reference samples and models. Language is learned and transmitted socially. Culture changes through practice and exchange. Ethnic identity concerns belonging and recognition. The NHGRI explicitly distinguishes these kinds of population descriptors. None should silently substitute for another. [NHGRI: Use of population descriptors in genomics](https://www.genome.gov/about-genomics/policy-issues/population-descriptors-in-genomics)",
+      "Having E-M81 does not prove that all your ancestors were Amazigh, and lacking it does not disqualify anyone from being Amazigh. Women have paternal family histories too, but generally do not carry a Y chromosome themselves. A genetic test cannot measure fluency in Tamazight, membership in a community or a family’s cultural memory. The attraction of a simple label should not override the biology. [NHGRI: The X and Y of Human Origins](https://www.genome.gov/the-x-and-y-of-human-origins) [NHGRI: Use of population descriptors in genomics](https://www.genome.gov/about-genomics/policy-issues/population-descriptors-in-genomics)",
+      "## ANCIENT DNA: CONTINUITY AND MIXTURE, WITHOUT MODERN LABELS",
+      "A 2023 Nature study sequenced nine ancient individuals from Morocco. It identified both long local ancestry continuity and arrivals related to Neolithic populations from Europe and the Levant. Farming spread through a combination of migration and adoption by existing communities. This is stronger evidence than a story in which every new tool or crop must mean the wholesale replacement of a people. [Simões et al., Nature (2023): Northwest African Neolithic initiated by migrants from Iberia and Levant](https://www.nature.com/articles/s41586-023-06166-6)",
+      "A 2025 Nature study added genome-wide data from nine ancient individuals in Algeria and Tunisia. It found substantial persistence of forager ancestry across the Neolithic transition in the eastern Maghreb, alongside outside contributions. The regional contrast matters. A model developed from a handful of Moroccan sites should not automatically be applied to the whole of North Africa. [Nature (2025): High continuity of forager ancestry in the Neolithic eastern Maghreb](https://www.nature.com/articles/s41586-025-08699-4)",
+      "Another 2025 Nature study examined two approximately 7,000-year-old women from Takarkori in southwestern Libya. Their genomes revealed a deeply rooted North African lineage in the formerly greener Sahara. The result broadens the available evidence, but two individuals cannot represent every Saharan society, and their DNA does not tell us which language they spoke. [Salem et al., Nature (2025): Ancient DNA from the Green Sahara](https://www.nature.com/articles/s41586-025-08793-7)",
+      "Ancient DNA can test relationships among sampled populations and challenge assumptions about migration. Its limits include sparse sampling, preservation and dependence on comparison groups. Labels such as “European Neolithic-related ancestry” describe a statistical relationship to sampled ancient people, not a modern nationality. No genome announces that its owner belonged to a present-day nation or cultural movement.",
+      "## WHAT SURVIVES, AND WHAT PEOPLE ARE CREATING NOW",
+      "The most important continuities are not confined to ruins. They live in speech, poetry, music, craft and the organization of everyday life. UNESCO’s listing of Taskiwin, a western High Atlas martial dance, documents knowledge transmitted through performance. Its placement on the urgent safeguarding list in 2017 also makes a practical point: a tradition can be celebrated while losing the conditions that allow younger people to learn it. [UNESCO: Taskiwin, martial dance of the western High Atlas](https://ich.unesco.org/en/RL/taskiwin-martial-dance-of-the-western-high-atlas-01256)",
+      "Food crosses the same boundaries that tidy identity maps try to draw. UNESCO’s 2020 couscous inscription was submitted jointly by Algeria, Mauritania, Morocco and Tunisia. It recognizes shared skills and social practices. Such heritage can have deep Amazigh associations without belonging exclusively to one modern ethnic or national category. Cultural exchange is part of its history, not evidence that it has become less meaningful. [UNESCO: Knowledge and practices of couscous](https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602)",
+      "Architecture provides another living archive, from the urban fabric of Fez to the settlements of the M’Zab. These places preserve techniques of building, water-conscious settlement and community organization, but they also house people with contemporary needs. Preservation succeeds when it supports those people rather than asking them to perform an unchanging past for visitors. [UNESCO: Medina of Fez](https://whc.unesco.org/en/list/170/) [UNESCO: M’Zab Valley](https://whc.unesco.org/en/list/188/)",
+      "The history of the Imazighen is therefore neither a tale of disappearance nor proof of untouched origins. It is a history of people shaping kingdoms, empires, religious life and modern states while retaining and remaking forms of belonging. North Africa becomes easier to understand when the Amazigh are restored to the centre of that story, with all their diversity intact.",
+      "## SOURCES AND HOW THE EVIDENCE IS USED",
+      "This article distinguishes excavated evidence, ancient narratives, later historical traditions, modern constitutional texts and genetic studies. Ancient ethnic labels are not treated as exact equivalents of modern identities. Genetic percentages refer to the named study samples, not entire peoples. The supplied hero is an artistic illustration, not a documentary reconstruction of one specific historical community.",
+      "[Salem Chaker, Encyclopédie berbère: Amazigh, the history and uses of the name](https://www.centrederechercheberbere.fr/tl_files/doc-pdf/amazigh.pdf)",
+      "[Minority Rights Group: Amazigh in Algeria](https://minorityrights.org/communities/amazigh/)",
+      "[Minority Rights Group: Amazigh in Tunisia](https://minorityrights.org/communities/amazigh-2/)",
+      "[Minority Rights Group: Libya](https://minorityrights.org/country/libya/)",
+      "[Matthew McCarty, University of British Columbia: The Libyans](https://peoplingthepast.com/2023/11/24/blog-92-the-libyans-with-matthew-mccarty/)",
+      "[University of Pennsylvania Museum: Egyptians and Libyans in the New Kingdom](https://www.penn.museum/sites/expedition/egyptians-and-libyans-in-the-new-kingdom/)",
+      "[Livius: Massinissa](https://www.livius.org/articles/person/massinissa/)",
+      "[Sallust: The War with Jugurtha, text and translation hosted by the University of Chicago](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Sallust/home.html)",
+      "[Larousse: Jugurtha](https://www.larousse.fr/encyclopedie/personnage/Jugurtha/126244)",
+      "[The Metropolitan Museum of Art: Africa and Byzantium, exhibition guide](https://www.metmuseum.org/exhibitions/africa-byzantium/visiting-guide)",
+      "[Stanford Encyclopedia of Philosophy: Augustine of Hippo](https://plato.stanford.edu/entries/augustine/)",
+      "[The Cambridge Ancient History: Vandal and Byzantine Africa](https://www.cambridge.org/core/books/abs/cambridge-ancient-history/vandal-and-byzantine-africa/9F02D40C880F6A818097EF865FCAD72D)",
+      "[Yves Modéran, Encyclopédie berbère (2008): Koceila](https://journals.openedition.org/encyclopedieberbere/101)",
+      "[Yves Modéran, Encyclopédie berbère (2005): Kahena](https://journals.openedition.org/encyclopedieberbere/1306)",
+      "[David Robinson, Muslim Societies in African History: The Islamization of Africa](https://www.cambridge.org/core/books/abs/muslim-societies-in-african-history/islamization-of-africa/BB73CDB1EBAD5BE2DD190CB8301C3E3B)",
+      "[The Metropolitan Museum of Art: The Art of the Almoravid and Almohad Periods](https://www.metmuseum.org/essays/the-art-of-the-almoravid-and-almohad-periods-ca-1062-1269)",
+      "[UNESCO: Medina of Fez](https://whc.unesco.org/en/list/170/)",
+      "[UNESCO: Al Qal’a of Beni Hammad](https://whc.unesco.org/en/list/102/)",
+      "[UNESCO: M’Zab Valley](https://whc.unesco.org/en/list/188/)",
+      "[The Metropolitan Museum of Art: Al-Andalus, the Art of Islamic Spain](https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/45646/)",
+      "[UNESCO: Imzad practices of Tuareg communities in Algeria, Mali and Niger](https://ich.unesco.org/en/RL/practices-and-knowledge-linked-to-the-imzad-of-the-tuareg-communities-of-algeria-mali-and-niger-00891)",
+      "[Jamil M. Abun-Nasr, A History of the Maghrib: Ottoman rule](https://www.cambridge.org/core/books/abs/history-of-the-maghrib-in-the-islamic-period/ottoman-rule-in-the-central-and-eastern-maghrib/F1B84C54B87EDB9D766B6D1206CE105B)",
+      "[Jamil M. Abun-Nasr, A History of the Maghrib: European colonialism, 1830–1914](https://www.cambridge.org/core/books/abs/history-of-the-maghrib-in-the-islamic-period/age-of-aggressive-european-colonialism-18301914/287226205B1FFAEF9533AE82F212AAE3)",
+      "[Katherine E. Hoffman (2010): Berber Law by French Means](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/berber-law-by-french-means-customary-courts-in-the-moroccan-hinterlands-19301956/B10C1347D17D997E74AB657853E0E39C)",
+      "[INALCO Centre de Recherche Berbère: Libyco-Berber writing](https://www.centrederechercheberbere.fr/lecriture-libyco-berbere.html)",
+      "[INALCO: The Tifinagh alphabet, history and current status](https://www.inalco.fr/en/tifinagh/berber-alphabet-history-and-current-status)",
+      "[IRCAM: Article 5 of Morocco’s 2011 Constitution](https://www.ircam.ma/fr/textes-fondateurs/constitution-du-royaume)",
+      "[International IDEA / Constitute: Algeria’s 2020 Constitution, Article 4](https://constituteproject.org/constitution/Algeria_2020.html?cons_id=Algeria_2020&lang=en&partial=true)",
+      "[Minority Rights Group: Morocco](https://minorityrights.org/country/morocco/)",
+      "[NHGRI: The X and Y of Human Origins](https://www.genome.gov/the-x-and-y-of-human-origins)",
+      "[Solé-Morata et al., Scientific Reports (2017): E-M183 whole Y-chromosome sequences](https://www.nature.com/articles/s41598-017-16271-y)",
+      "[Fadhlaoui-Zid et al., PLOS ONE (2013): Genome-wide and paternal diversity in North Africa](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0080293)",
+      "[Arauna et al., Molecular Biology and Evolution (2017): Historical migrations and North African genetic diversity](https://discovery.ucl.ac.uk/id/eprint/1522353/)",
+      "[NHGRI: Use of population descriptors in genomics](https://www.genome.gov/about-genomics/policy-issues/population-descriptors-in-genomics)",
+      "[Simões et al., Nature (2023): Northwest African Neolithic initiated by migrants from Iberia and Levant](https://www.nature.com/articles/s41586-023-06166-6)",
+      "[Nature (2025): High continuity of forager ancestry in the Neolithic eastern Maghreb](https://www.nature.com/articles/s41586-025-08699-4)",
+      "[Salem et al., Nature (2025): Ancient DNA from the Green Sahara](https://www.nature.com/articles/s41586-025-08793-7)",
+      "[UNESCO: Taskiwin, martial dance of the western High Atlas](https://ich.unesco.org/en/RL/taskiwin-martial-dance-of-the-western-high-atlas-01256)",
+      "[UNESCO: Knowledge and practices of couscous](https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602)",
+      "[IRCAM: Official adoption of Tifinagh on 10 February 2003](https://event.ircam.ma/old/presentationj.php?j=4)"
+    ],
+    "source": {
+      "name": "Matthew McCarty, University of British Columbia: The Libyans",
+      "url": "https://peoplingthepast.com/2023/11/24/blog-92-the-libyans-with-matthew-mccarty/"
+    },
+    "references": [
+      {
+        "name": "Salem Chaker, Encyclopédie berbère: Amazigh, the history and uses of the name",
+        "url": "https://www.centrederechercheberbere.fr/tl_files/doc-pdf/amazigh.pdf"
+      },
+      {
+        "name": "Minority Rights Group: Amazigh in Algeria",
+        "url": "https://minorityrights.org/communities/amazigh/"
+      },
+      {
+        "name": "Minority Rights Group: Amazigh in Tunisia",
+        "url": "https://minorityrights.org/communities/amazigh-2/"
+      },
+      {
+        "name": "Minority Rights Group: Libya",
+        "url": "https://minorityrights.org/country/libya/"
+      },
+      {
+        "name": "Matthew McCarty, University of British Columbia: The Libyans",
+        "url": "https://peoplingthepast.com/2023/11/24/blog-92-the-libyans-with-matthew-mccarty/"
+      },
+      {
+        "name": "University of Pennsylvania Museum: Egyptians and Libyans in the New Kingdom",
+        "url": "https://www.penn.museum/sites/expedition/egyptians-and-libyans-in-the-new-kingdom/"
+      },
+      {
+        "name": "Livius: Massinissa",
+        "url": "https://www.livius.org/articles/person/massinissa/"
+      },
+      {
+        "name": "Sallust: The War with Jugurtha, text and translation hosted by the University of Chicago",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Sallust/home.html"
+      },
+      {
+        "name": "Larousse: Jugurtha",
+        "url": "https://www.larousse.fr/encyclopedie/personnage/Jugurtha/126244"
+      },
+      {
+        "name": "The Metropolitan Museum of Art: Africa and Byzantium, exhibition guide",
+        "url": "https://www.metmuseum.org/exhibitions/africa-byzantium/visiting-guide"
+      },
+      {
+        "name": "Stanford Encyclopedia of Philosophy: Augustine of Hippo",
+        "url": "https://plato.stanford.edu/entries/augustine/"
+      },
+      {
+        "name": "The Cambridge Ancient History: Vandal and Byzantine Africa",
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-ancient-history/vandal-and-byzantine-africa/9F02D40C880F6A818097EF865FCAD72D"
+      },
+      {
+        "name": "Yves Modéran, Encyclopédie berbère (2008): Koceila",
+        "url": "https://journals.openedition.org/encyclopedieberbere/101"
+      },
+      {
+        "name": "Yves Modéran, Encyclopédie berbère (2005): Kahena",
+        "url": "https://journals.openedition.org/encyclopedieberbere/1306"
+      },
+      {
+        "name": "David Robinson, Muslim Societies in African History: The Islamization of Africa",
+        "url": "https://www.cambridge.org/core/books/abs/muslim-societies-in-african-history/islamization-of-africa/BB73CDB1EBAD5BE2DD190CB8301C3E3B"
+      },
+      {
+        "name": "The Metropolitan Museum of Art: The Art of the Almoravid and Almohad Periods",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-almoravid-and-almohad-periods-ca-1062-1269"
+      },
+      {
+        "name": "UNESCO: Medina of Fez",
+        "url": "https://whc.unesco.org/en/list/170/"
+      },
+      {
+        "name": "UNESCO: Al Qal’a of Beni Hammad",
+        "url": "https://whc.unesco.org/en/list/102/"
+      },
+      {
+        "name": "UNESCO: M’Zab Valley",
+        "url": "https://whc.unesco.org/en/list/188/"
+      },
+      {
+        "name": "The Metropolitan Museum of Art: Al-Andalus, the Art of Islamic Spain",
+        "url": "https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/45646/"
+      },
+      {
+        "name": "UNESCO: Imzad practices of Tuareg communities in Algeria, Mali and Niger",
+        "url": "https://ich.unesco.org/en/RL/practices-and-knowledge-linked-to-the-imzad-of-the-tuareg-communities-of-algeria-mali-and-niger-00891"
+      },
+      {
+        "name": "Jamil M. Abun-Nasr, A History of the Maghrib: Ottoman rule",
+        "url": "https://www.cambridge.org/core/books/abs/history-of-the-maghrib-in-the-islamic-period/ottoman-rule-in-the-central-and-eastern-maghrib/F1B84C54B87EDB9D766B6D1206CE105B"
+      },
+      {
+        "name": "Jamil M. Abun-Nasr, A History of the Maghrib: European colonialism, 1830–1914",
+        "url": "https://www.cambridge.org/core/books/abs/history-of-the-maghrib-in-the-islamic-period/age-of-aggressive-european-colonialism-18301914/287226205B1FFAEF9533AE82F212AAE3"
+      },
+      {
+        "name": "Katherine E. Hoffman (2010): Berber Law by French Means",
+        "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/berber-law-by-french-means-customary-courts-in-the-moroccan-hinterlands-19301956/B10C1347D17D997E74AB657853E0E39C"
+      },
+      {
+        "name": "INALCO Centre de Recherche Berbère: Libyco-Berber writing",
+        "url": "https://www.centrederechercheberbere.fr/lecriture-libyco-berbere.html"
+      },
+      {
+        "name": "INALCO: The Tifinagh alphabet, history and current status",
+        "url": "https://www.inalco.fr/en/tifinagh/berber-alphabet-history-and-current-status"
+      },
+      {
+        "name": "IRCAM: Article 5 of Morocco’s 2011 Constitution",
+        "url": "https://www.ircam.ma/fr/textes-fondateurs/constitution-du-royaume"
+      },
+      {
+        "name": "International IDEA / Constitute: Algeria’s 2020 Constitution, Article 4",
+        "url": "https://constituteproject.org/constitution/Algeria_2020.html?cons_id=Algeria_2020&lang=en&partial=true"
+      },
+      {
+        "name": "Minority Rights Group: Morocco",
+        "url": "https://minorityrights.org/country/morocco/"
+      },
+      {
+        "name": "NHGRI: The X and Y of Human Origins",
+        "url": "https://www.genome.gov/the-x-and-y-of-human-origins"
+      },
+      {
+        "name": "Solé-Morata et al., Scientific Reports (2017): E-M183 whole Y-chromosome sequences",
+        "url": "https://www.nature.com/articles/s41598-017-16271-y"
+      },
+      {
+        "name": "Fadhlaoui-Zid et al., PLOS ONE (2013): Genome-wide and paternal diversity in North Africa",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0080293"
+      },
+      {
+        "name": "Arauna et al., Molecular Biology and Evolution (2017): Historical migrations and North African genetic diversity",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/1522353/"
+      },
+      {
+        "name": "NHGRI: Use of population descriptors in genomics",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/population-descriptors-in-genomics"
+      },
+      {
+        "name": "Simões et al., Nature (2023): Northwest African Neolithic initiated by migrants from Iberia and Levant",
+        "url": "https://www.nature.com/articles/s41586-023-06166-6"
+      },
+      {
+        "name": "Nature (2025): High continuity of forager ancestry in the Neolithic eastern Maghreb",
+        "url": "https://www.nature.com/articles/s41586-025-08699-4"
+      },
+      {
+        "name": "Salem et al., Nature (2025): Ancient DNA from the Green Sahara",
+        "url": "https://www.nature.com/articles/s41586-025-08793-7"
+      },
+      {
+        "name": "UNESCO: Taskiwin, martial dance of the western High Atlas",
+        "url": "https://ich.unesco.org/en/RL/taskiwin-martial-dance-of-the-western-high-atlas-01256"
+      },
+      {
+        "name": "UNESCO: Knowledge and practices of couscous",
+        "url": "https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602"
+      },
+      {
+        "name": "IRCAM: Official adoption of Tifinagh on 10 February 2003",
+        "url": "https://event.ircam.ma/old/presentationj.php?j=4"
+      }
+    ],
+    "readingTime": "22 min read"
+  },
+  {
     "id": "108",
     "slug": "petra-nabataeans-desert-city-jordan-history",
     "title": "PETRA: HOW THE NABATAEANS BUILT A CITY IN THE DESERT",
