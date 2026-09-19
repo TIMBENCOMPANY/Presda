@@ -16323,7 +16323,7 @@ export const articles: Article[] = [
     date: "2026-09-10",
     lastUpdated: "2026-09-10",
     author: "PRESDA Editorial",
-    coverImage: "/images/articles/adidas-israel-single-shoe-boycott-2026.webp",
+    coverImage: "/articles/adidas-campaign-israel-single-show-war-palestine.png",
     coverAlt:
       "Cinematic Adidas Single Shoe billboard beside a war-damaged urban scene, symbolizing boycott controversy and global brand risk",
     homepageImagePosition: "50% 45%",
@@ -23080,7 +23080,7 @@ export const articles: Article[] = [
     "date": "2026-05-29",
     "lastUpdated": "2026-09-17",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/palestine-humanitarian-crisis.webp",
+    "coverImage": "/articles/palestine-quds-israel.png",
     "coverAlt": "Respectful editorial visual representing the Palestine humanitarian crisis and urgent aid needs in Gaza",
     "content": [
       "The Palestine humanitarian crisis in 2026 is, first of all, a civilian emergency. In Gaza, families continue to face overlapping pressures: unsafe shelter, damaged infrastructure, restricted movement, food insecurity, water and sanitation risks, and a health system operating under severe strain.",
@@ -23202,7 +23202,7 @@ export const articles: Article[] = [
     "date": "2026-05-28",
     "lastUpdated": "2026-09-17",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/dubai-future-cities-2026.webp",
+    "coverImage": "/articles/dubai-emirate-future-city-technology-smart.png",
     "coverAlt": "Futuristic Dubai skyline with flying vehicles and sunset light",
     "content": [
       "Dubai's future city story is often told through towers, islands and cinematic skyline images. But in 2026, the more useful way to understand Dubai urban development is through the official plans underneath the spectacle: Dubai 2040 Urban Master Plan, Dubai Economic Agenda D33, Digital Dubai, Metro Blue Line, clean energy targets, autonomous transport strategy and artificial intelligence policy.",
@@ -24245,7 +24245,7 @@ export const articles: Article[] = [
     "date": "2026-05-28",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/fifa-world-cup-2026-trophy-flags.jpg",
+    "coverImage": "/articles/world-cup-usa-canada-mexico.png",
     "coverAlt": "FIFA World Cup 2026 hosted by the United States, Mexico and Canada",
     "content": [
       "The FIFA World Cup 2026 was not simply a bigger World Cup. It was the first real test of a new tournament model: 48 teams, 104 matches, three host countries, 16 host cities and a competition stretched across Canada, Mexico and the United States.",
@@ -25432,7 +25432,7 @@ export const articles: Article[] = [
     "date": "2026-06-04",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/donald-trump-world-cup-2026.png",
+    "coverImage": "/articles/donald-trump-world-cup-26-usa-canada-mexico-fifa.png",
     "coverAlt": "Donald Trump with World Cup 2026 trophy and United States flag in a cinematic PRESDA poster",
     "content": [
       "The FIFA World Cup 2026 has now finished, which changes the way Donald Trump's role should be understood. Before the tournament, the question was how Trump and U.S. politics might shape the event. After the final, the clearer story is how the White House task force, federal agencies, FIFA, host cities and three national governments managed a tournament that became both a football spectacle and a political stage.",
@@ -25668,7 +25668,7 @@ export const articles: Article[] = [
     "date": "2026-06-06",
     "lastUpdated": "2026-09-02",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/jebel-irhoud-morocco-science.webp",
+    "coverImage": "/articles/jebel-irhoud-morocco-marrakesh.png",
     "coverAlt": "Jebel Irhoud archaeological discovery in Morocco with fossils, excavation site, and map marker",
     "content": [
       "Jebel Irhoud is an archaeological and fossil site in Morocco that changed the way scientists talk about human origins. The site is best known for fossil remains assigned to early Homo sapiens and dated to about 315,000 years ago, far older than the simplified timelines that once placed modern human origins mostly around 200,000 years ago in East Africa.",
