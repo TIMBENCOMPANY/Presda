@@ -554,29 +554,6 @@ select {
   display: none;
 }
 
-.resistance-hero .article-hero-image {
-  position: relative !important;
-  height: auto !important;
-  aspect-ratio: 16 / 9;
-  object-fit: contain;
-}
-
-.resistance-hero > .absolute {
-  display: none;
-}
-
-.resistance-hero > .relative {
-  min-height: 0;
-}
-
-.resistance-hero .brain-to-voice-hero-copy {
-  max-width: 100%;
-  padding-top: 2rem;
-}
-
-.resistance-hero .article-hero-title {
-  max-width: 100%;
-}
 @media (max-width: 1023px) {
   .brain-to-voice-hero .article-hero-image {
     height: auto !important;
@@ -589,11 +566,4 @@ select {
     padding-top: clamp(160px, 46vw, 430px);
   }
 
-  .resistance-hero .article-hero-image {
-    aspect-ratio: 16 / 9;
-  }
-
-  .resistance-hero .brain-to-voice-hero-copy {
-    padding-top: 1.5rem;
-  }
 }

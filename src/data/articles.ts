@@ -65,7 +65,7 @@ export const articles: Article[] = [
       "gold": "CHANGED HISTORY"
     },
     "excerpt": "Gandhi, Mandela and Martin Luther King Jr. challenged systems that seemed permanent. Their connected histories reveal the power of organized resistance, the limits of heroic myths and the difficult choices behind political change.",
-    "category": "History",
+    "category": "World",
     "date": "2026-09-19",
     "lastUpdated": "2026-09-19",
     "author": "PRESDA Editorial",
@@ -5083,7 +5083,7 @@ export const articles: Article[] = [
       "gold": "BODY MOVE"
     },
     "excerpt": "From Frankie Knuckles and Chicago’s dance floors to the brain’s timing and reward systems: why a beat makes us move, and what the famous 128 BPM claim gets wrong.",
-    "category": "Science",
+    "category": "Lifestyle",
     "date": "2026-09-16",
     "lastUpdated": "2026-09-16",
     "author": "PRESDA Editorial",

@@ -560,7 +560,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   const articleHeroHighlights = articleHeroHighlightOverrides[article.slug] ?? article.headlineHighlights;
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
-  const hasFullImageMobileHero = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces" || article.slug === "bajau-people-sea-nomads-diving" || article.slug === "brain-drain-why-skilled-workers-leave-home" || article.slug === "gandhi-mandela-mlk-power-of-resistance";
+  const hasFullImageMobileHero = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces" || article.slug === "bajau-people-sea-nomads-diving" || article.slug === "brain-drain-why-skilled-workers-leave-home";
   const hasMobilePortrait = article.slug === "alzheimers-disease-brain-memory-loss"
     || article.slug === "history-of-perfume-scent-beauty-power-luxury"
     || article.slug === "pablo-escobar-medellin-cartel-wealth-rise-fall"
@@ -601,7 +601,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
           </Link>
         </nav>
 
-        <header className={`relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px] ${hasFullImageMobileHero ? "brain-to-voice-hero" : ""} ${article.slug === "gandhi-mandela-mlk-power-of-resistance" ? "resistance-hero" : ""}`}>
+        <header className={`relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px] ${hasFullImageMobileHero ? "brain-to-voice-hero" : ""}`}>
           <Image
             src={article.coverImage}
             alt={article.coverAlt}
