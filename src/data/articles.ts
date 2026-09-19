@@ -190,7 +190,7 @@ export const articles: Article[] = [
       "[United Nations: campaign against apartheid and international pressure](https://www.un.org/en/events/mandeladay/un_against_apartheid.shtml).",
       "[U.S. Office of the Historian: the end of apartheid](https://history.state.gov/milestones/1989-1992/apartheid).",
       "[B. R. Ambedkar: Annihilation of Caste, including the Gandhi exchange, Columbia University edition](https://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/readings/aoc_print_2004.pdf).",
-      "[Journal of British Studies (2017): review of Desai and Vahed’s The South African Gandhi](https://www.cambridge.org/core/journals/journal-of-british-studies/article/ashwin-desaiand-goolam-vahed-the-south-african-gandhi-stretcherbearer-of-empire-south-asia-in-motion-stanford-stanford-university-press-2016-pp-343-2495-paper/ABCEA48DC4F918F5DBD9651A315C2B88).",
+      "[Journal of British Studies (2018): review of Desai and Vahed’s The South African Gandhi](https://www.cambridge.org/core/journals/journal-of-british-studies/article/ashwin-desaiand-goolam-vahed-the-south-african-gandhi-stretcherbearer-of-empire-south-asia-in-motion-stanford-stanford-university-press-2016-pp-343-2495-paper/ABCEA48DC4F918F5DBD9651A315C2B88).",
       "[Nikita Arora, History Workshop Journal (2022): Sustaining a Nonviolent Self](https://academic.oup.com/hwj/article/93/1/186/6573241).",
       "[Stanford King Institute: Ella Baker and criticism of leader-centered organizing](https://kinginstitute.stanford.edu/baker-ella-josephine).",
       "[Stanford King Institute: scholarly introduction, including King’s academic plagiarism](https://kinginstitute.stanford.edu/introduction).",
@@ -296,7 +296,7 @@ export const articles: Article[] = [
         "url": "https://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/readings/aoc_print_2004.pdf"
       },
       {
-        "name": "Journal of British Studies (2017): review of Desai and Vahed’s The South African Gandhi",
+        "name": "Journal of British Studies (2018): review of Desai and Vahed’s The South African Gandhi",
         "url": "https://www.cambridge.org/core/journals/journal-of-british-studies/article/ashwin-desaiand-goolam-vahed-the-south-african-gandhi-stretcherbearer-of-empire-south-asia-in-motion-stanford-stanford-university-press-2016-pp-343-2495-paper/ABCEA48DC4F918F5DBD9651A315C2B88"
       },
       {
