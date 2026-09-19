@@ -43,6 +43,17 @@ const articleHeroHighlightOverrides: Record<string, HeadlineHighlights> = {
 };
 
 const articleTables: Record<string, ArticleTableConfig> = {
+  "[[BAJAU_DIVING_EVIDENCE_TABLE]]": {
+    caption: "Measured working dives in the Philippines. The 2014 report includes the earlier 2011 sample; these are not independent cohorts. Depths describe observed work, not human limits.",
+    headers: ["Report and sample", "Dive duration", "Observed depth", "Context"],
+    minWidthClass: "min-w-[680px]",
+    boldColumnIndex: 0,
+    rowKeyIndex: 0,
+    rows: [
+      ["2011; five male Bajau spearfishers", "28 seconds mean", "Individual maxima: 5 to 7 metres", "60% of observed work time submerged, across repeated dives"],
+      ["2014; additional group of five male divers", "42 seconds mean; recorded range 14 to 97 seconds", "10 metres mean; range 3 to 25 metres", "Time-depth loggers during fishing; 50% of working time submerged"]
+    ]
+  },
   "[[BRAIN_TO_VOICE_EVIDENCE_TABLE]]": {
     caption: "Speech BCI evidence. Each row describes one participant; tasks and accuracy measures differ. Sources and measurement definitions follow the table.",
     headers: ["Study and sample", "Output and vocabulary", "Measured performance", "Interpretation"],
@@ -524,7 +535,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   const articleHeroHighlights = articleHeroHighlightOverrides[article.slug] ?? article.headlineHighlights;
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
-  const isBrainToVoice = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces";
+  const hasFullImageMobileHero = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces" || article.slug === "bajau-people-sea-nomads-diving";
   const hasMobilePortrait = article.slug === "alzheimers-disease-brain-memory-loss"
     || article.slug === "history-of-perfume-scent-beauty-power-luxury"
     || article.slug === "pablo-escobar-medellin-cartel-wealth-rise-fall"
@@ -565,7 +576,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
           </Link>
         </nav>
 
-        <header className={`relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px] ${isBrainToVoice ? "brain-to-voice-hero" : ""}`}>
+        <header className={`relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px] ${hasFullImageMobileHero ? "brain-to-voice-hero" : ""}`}>
           <Image
             src={article.coverImage}
             alt={article.coverAlt}
@@ -591,7 +602,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
               <time className="text-right text-white/86" dateTime={article.date}>{formatHeroDate(article.date)}</time>
             </div>
 
-            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${isBrainToVoice ? "brain-to-voice-hero-copy" : ""} ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""} ${hasMobilePortrait ? (article.slug === "endless-scrolling-phone-attention-sleep-science" ? "max-sm:!pt-[160px] sm:max-lg:!pt-[280px]" : "max-lg:!pt-[280px]") : ""}`}>
+            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${hasFullImageMobileHero ? "brain-to-voice-hero-copy" : ""} ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""} ${hasMobilePortrait ? (article.slug === "endless-scrolling-phone-attention-sleep-science" ? "max-sm:!pt-[160px] sm:max-lg:!pt-[280px]" : "max-lg:!pt-[280px]") : ""}`}>
               <h1 className="article-hero-title text-white">
                 <HeadlineText title={article.title} highlights={articleHeroHighlights} legacyRed={article.headlineAccent} />
               </h1>

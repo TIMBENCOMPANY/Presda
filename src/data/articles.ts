@@ -54,6 +54,211 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "105",
+    "slug": "bajau-people-sea-nomads-diving",
+    "title": "THE BAJAU: THE PEOPLE WHO LIVE UNDERWATER",
+    "seoTitle": "Bajau People: Sea Nomads, Diving and the Spleen Science",
+    "metaDescription": "Who are the Bajau people? Explore sea nomad culture, measured diving abilities, enlarged spleen research and the pressures changing life at sea.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "THE BAJAU",
+      "gold": "LIVE UNDERWATER"
+    },
+    "excerpt": "The Bajau do not literally live underwater. Their maritime communities reveal something more fascinating: a life shaped by the sea, learned diving skills, intriguing human biology and difficult choices about the future.",
+    "category": "Lifestyle",
+    "date": "2026-09-19",
+    "lastUpdated": "2026-09-19",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/bajau-spearfisher-above-a-coral-reef.png",
+    "coverAlt": "Illustration of a Bajau spearfisher wearing wooden goggles above a coral reef, with boats and stilt houses at the water’s surface",
+    "homepageImagePosition": "75% 30%",
+    "status": "published",
+    "tags": [
+      "Bajau people",
+      "Bajau sea nomads",
+      "Bajau diving",
+      "Sea nomads",
+      "Maritime culture",
+      "Human adaptation"
+    ],
+    "content": [
+      "For a person looking out from the shore, the sea can seem like the edge of the inhabited world. For a fishing family whose home stands above it, the water connects the house to food, work, relatives and familiar places. The difference is not simply a beautiful view. It is a different way of organizing everyday life.",
+      "The Bajau people are often introduced as the “people who live underwater.” They do not. Like everyone else, they breathe air, and a breath-hold dive must end at the surface. The phrase is a headline hook for communities whose lives have been closely tied to the sea, including some exceptionally skilled divers. It is not a literal description of their homes or biology.",
+      "Their story is larger than a spectacular dive. It includes mobile households, trading networks, languages and ceremonies, scientific evidence of adaptation, and the practical question of how to sustain a maritime livelihood when fish, secure housing and legal recognition become harder to obtain.",
+      "Evidence reviewed September 19, 2026. Numerical findings below belong to named studies and locations, not to every Bajau person. The opening image is an illustration, not documentary evidence of a particular diver, village or fishing practice.",
+      "## WHO ARE THE BAJAU PEOPLE?",
+      "Bajau, Bajo and Sama-Bajau are names used across a diverse set of communities in maritime Southeast Asia, especially the southern Philippines, Malaysian Sabah and Indonesia. “Sama” is a self-designation used by many communities. Sama Dilaut and Bajau Laut refer more specifically to sea-oriented groups. The terms are related, but they are not interchangeable labels for a single uniform society. [Academic overview of Southeast Asian maritime peoples](https://link.springer.com/article/10.1007/s12685-012-0060-0).",
+      "A shared maritime association does not mean everyone lives on a boat or earns a living by diving. Shore settlements, farming, trade and craft work also belong to Sama-Bajau history. Anthropologist Clifford Sather describes boat nomads within a wider network of coastal and land-based communities. Different groups identify with particular islands, settlements and local histories. [Sather’s account of Sama-Bajau diversity](https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html).",
+      "That distinction changes how photographs should be read. A stilt village is not a portrait of all Bajau people. A celebrated spearfisher is not a biological representative of an entire population. Nor should the Bajau be confused with the Moken or Orang Laut, other Southeast Asian maritime peoples with their own histories.",
+      "## BOATS, STILT HOUSES AND A CONNECTED MARITIME HISTORY",
+      "In historical boat-dwelling communities, a vessel could hold a family’s domestic life as well as carry it between fishing grounds. Related households anchored together, forming social groups that could move. Sather’s research describes these families as participants in trade and political relationships ashore. Fish, sea cucumbers, pearl shell and other marine products connected them to wider markets. Their mobility existed within a connected economy, not outside history. [Maritime households and trade](https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html).",
+      "A permanent house above the shallows can preserve close access to that world. In National Geographic’s 2014 reporting, photographer Matthieu Paley visited a fishing family whose bamboo home stood on stilts. Canoes linked neighboring houses. His account also showed food preparation aboard a dwelling boat and meals combining seafood with cassava. These are observations from particular families, rather than a menu or housing model shared by everyone. [National Geographic’s field report](https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies).",
+      "The houseboat and the stilt house should therefore not be treated as opposite stages on a simple ladder from “traditional” to “modern.” A fixed home can coexist with fishing journeys, family visits by water and a strong maritime identity. What matters is how people actually use the sea, and how much freedom they have to choose where and how to live.",
+      "## FISHING IS A LIVELIHOOD, NOT A BREATH-HOLDING CONTEST",
+      "Paley’s account follows the work before and after the dramatic descent: scanning the bottom from a canoe, finding prey, handling a catch and returning home. The visible moment underwater depends on equipment, observation and judgment. A photograph of a diver alone can conceal the household economy that makes the trip meaningful. [Reporting on everyday fishing](https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies).",
+      "A working diver needs a useful catch and enough energy to keep working. A very long single dive is not necessarily the most productive way to fish. Depth, visibility, prey, currents and the task at hand change the pattern. Scientific observations are especially valuable here because they record ordinary work rather than selecting only a dramatic moment for a film.",
+      "## HOW DEEP AND HOW LONG CAN BAJAU DIVERS DIVE?",
+      "A 2011 study by Erika Schagatay and colleagues observed five male Bajau spearfishers in the Philippines. Their mean dive lasted 28 seconds, and individual maximum depths during the observations were 5 to 7 metres. About 60% of the observed working period was spent submerged. That percentage refers to many dives separated by breathing intervals. It does not mean hours on a single breath. [2011 measured dive study](https://www.lunduniversity.lu.se/publication/24e72ac5-7371-4ba1-989b-56db7476169a).",
+      "The later field report below includes that earlier group and another group of five. It should not be counted as an entirely independent replication. The table records working dives; the competition account that follows is a separate kind of evidence. Neither establishes a maximum ability for all Bajau divers.",
+      "[[BAJAU_DIVING_EVIDENCE_TABLE]]",
+      "The 2014 paper reports a longest submersion of 3 minutes 1 second at a 2013 assisted deep-diving competition with 18 contestants, including 12 male Bajau Laut. Divers descended with weights and were hauled up by colleagues. That format is different from ordinary unassisted swimming and fishing. The competition account is also separate from the paper’s instrumented work-dive study. [2014 field report, working dives and competition context](https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf).",
+      "Widely repeated claims of 13-minute breath-holds, including the opening of National Geographic’s 2018 science feature, are not a timed cohort result from the spleen study. They should not become a claim that Bajau people normally fish for that long without breathing. This article uses measured working dives and clearly identified reported competition observations instead. [National Geographic’s science coverage](https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science).",
+      "The striking achievement is sustained, skilled work across repeated immersions. A shorter measured dive does not diminish that skill. It answers a different question from “What is the longest anyone could possibly stay down?”",
+      "## CHILDHOOD AND THE LEARNING OF WATER SKILLS",
+      "Abrahamsson and Schagatay’s fieldwork describes children being introduced to swimming and diving by parents or older siblings. Gathering in shallow water, handling boats and watching experienced relatives made learning part of daily life. These observations describe particular communities, not a universal childhood timetable. [Field observations of learning and gathering](https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf).",
+      "Calling the ability instinctive can erase that education. Finding food is not just a matter of holding the breath. It requires recognizing a useful place, noticing an animal, managing movement and understanding when conditions have changed. Cultural knowledge and repeated practice deserve attention alongside biology. A child’s ancestry is not a guarantee of safety or a reason to expect exceptional diving.",
+      "## THE HUMAN DIVING RESPONSE: CONSERVING A LIMITED OXYGEN SUPPLY",
+      "During a breath hold, the body has to work with oxygen already stored in the lungs, blood and tissues. The human diving response helps conserve it. Heart rate can slow, while blood vessels supplying peripheral tissues constrict. These changes help prioritize oxygen delivery to sensitive organs, especially the brain and heart. Facial immersion can strengthen the response. It is part of human physiology, not something exclusive to Bajau people. [Review of the human diving response](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x).",
+      "The spleen adds another mechanism. It can contract and release stored red blood cells into circulation. Those cells carry oxygen using haemoglobin. A larger reservoir could therefore be useful during repeated breath holds, but the spleen does not manufacture fresh oxygen or replace the lungs. The supply remains finite, and the response cannot prevent every blackout or injury. [Spleen contraction and oxygen conservation](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x).",
+      "## WHAT THE FAMOUS SPLEEN STUDY ACTUALLY FOUND",
+      "In 2018, Melissa Ilardo and colleagues published a study in Cell involving Bajau participants from Jaya Bakti and Saluan participants from nearby Koyoan in Indonesia. They recruited 59 Bajau and 34 Saluan, using ultrasound to estimate spleen volume and saliva samples for DNA. After excluding close relatives, the main comparisons used 43 Bajau and 33 Saluan. [Cell study and methods](https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf).",
+      "The Bajau group had larger spleens. UC Berkeley’s account summarizes the difference as about 50%. That is a comparison between sampled populations, not a claim that every Bajau spleen is exactly half again as large as everyone else’s. Within the Bajau sample, divers and non-divers did not show a statistically significant difference, which argued against current diving practice alone explaining the population contrast. [Research team’s institutional explanation](https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/).",
+      "Genomic analyses identified evidence of selection involving variants near or within genes relevant to diving physiology. A prominent finding connected PDE10A variation with spleen size, with thyroid-hormone regulation proposed as part of the mechanism. This concerns genetic variants and their frequencies. It does not mean only Bajau people possess the PDE10A gene. [Nature Reviews Genetics research highlight](https://www.nature.com/articles/s41576-018-0014-1).",
+      "## WHAT GENETICS CAN AND CANNOT PROVE",
+      "The Cell paper supports a case for inherited adaptation associated with maritime life. It does not provide a genetic stopwatch for an individual diver. Its authors also acknowledged that unmeasured environmental differences might contribute to the spleen comparison. The study measured organs and genomes, not a population-wide ranking of maximum breath-holding performance. [Primary study and limitations](https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf).",
+      "A 2022 follow-up investigated the proposed mechanism experimentally by inhibiting PDE10A in mice. Treated animals developed larger spleens and changes in red-cell production. The authors noted that thyroid hormones had not been measured directly in the Bajau, and that adult mouse and human spleens differ in their role in producing blood cells. This is supporting mechanistic research, not a direct demonstration of the entire pathway in human divers. [Experimental follow-up and its caveats](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.760851/full).",
+      "A genetic association can help explain a population pattern while leaving substantial variation between individuals. It cannot determine a person’s occupation, identity or worth. Nor can it replace the learned skills, health, equipment and working conditions that influence a dive. “Superhuman” is a poor description of people doing demanding human work.",
+      "For the broader scientific framework, PRESDA’s article on [Charles Darwin and evolution](/articles/charles-darwin-theory-of-evolution/) explains how natural selection works. Selection concerns inherited variation over generations; it does not mean a person acquires a new gene by practicing a skill.",
+      "## FAMILY, LANGUAGE AND TRADITIONS BEYOND DIVING",
+      "Sama-Bajau speech belongs to the Austronesian language world, with linguistic diversity across communities. Research in Sabah and Tawi-Tawi examines how language and cultural identity cross present national boundaries. It also describes practices such as pagkanduli, a ritual tradition in particular Sama communities. Religious life varies, with Islam and locally rooted ritual practices taking different forms. No single ceremony can stand for every Bajau household. [Linguistic and cultural research](https://ejournal.um.edu.my/index.php/jati/article/view/6100).",
+      "Dance offers another view of continuity. A 2026 study of igal in Tawi-Tawi centers a Sama master’s perspective on transmitting the tradition. It treats dance as a meaningful cultural practice and form of expression, rather than an ornament added to a story about unusual divers. Learning from recognized practitioners matters because the community carries its own explanations of what a tradition means. [Igal and cultural transmission](https://journal.usep.edu.ph/index.php/Southeastern_Philippines_Journal/article/view/1631).",
+      "Family life also involves the ordinary decisions that a diving spectacle leaves out: teaching, sharing work, maintaining relationships and deciding what children should learn next. A young person can value a maritime inheritance while wanting education or another profession. Those aspirations do not make the person less authentically Bajau.",
+      "Language is part of that inheritance. PRESDA’s exploration of [how humans learned to speak](/articles/how-humans-learned-to-speak/) provides a broader perspective on the relationship between communication and social life, without treating any living community as a relic of the human past.",
+      "## WHEN MARITIME CONNECTIONS MEET CITIZENSHIP AND BORDERS",
+      "Movement across these seas now takes place within the boundaries and documentation systems of different states. Some Bajau are citizens with established legal status. Others, particularly among marginalized Bajau Laut communities in Sabah, face serious documentation and citizenship problems. “Bajau,” “undocumented” and “stateless” are not synonyms. Missing papers and having no recognized nationality are different situations that require careful individual assessment. Academic research describes how exclusion from documentation can compound barriers to education and healthcare. [Maritime communities and state boundaries](https://link.springer.com/article/10.1007/s12685-012-0060-0).",
+      "Housing insecurity makes the consequences tangible. Following a fact-finding visit after the 2024 Semporna demolitions, Malaysia’s Human Rights Commission, SUHAKAM, criticized the eviction and relocation process and the lack of adequate consultation. Its August 2024 statement called for evictions to stop and for a solution involving community representatives. This is a documented episode in Sabah, not a description of the legal position of all Bajau across Southeast Asia. [SUHAKAM’s findings and recommendations](https://suhakam.org.my/wp-content/uploads/2024/08/Press-Statement-No.-17-2024_SUHAKAM-Calls-for-Immediate-Suspension-of-Evictions-and-for-Humane-Solutions-in-Semporna.pdf).",
+      "A conservation boundary or security measure can look straightforward on a map while affecting access to a home, a landing place or a livelihood. Evaluating those policies requires listening to affected residents as well as examining environmental and administrative goals. Beautiful images cannot substitute for that account of rights and daily constraints.",
+      "## DIVING DANGERS AND THE PRESSURES BEHIND DESTRUCTIVE FISHING",
+      "Freediving can cause fatal oxygen deprivation. During ascent, falling pressure can reduce the oxygen available to the brain, and loss of consciousness can occur near the surface or just after surfacing. Hyperventilation can delay the urge to breathe without supplying a comparable oxygen reserve. Familiarity with the sea does not remove these risks. The measurements in this article are observations, not targets to imitate. [Divers Alert Network on hypoxia and blackout](https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/).",
+      "Breathing compressed air underwater creates a different risk profile. Tissue uptake of inert gas and its release during ascent can cause decompression sickness; expanding gas can also injure the lungs. Compressor-assisted fishing should therefore never be folded into a claim about extraordinary breath-holding. It uses an external air supply and introduces hazards that inherited traits do not cancel. [DAN’s explanation of decompression illness](https://world.dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/).",
+      "Destructive practices such as blast fishing and cyanide use have occurred within the region’s fishing economies. They damage the resource on which livelihoods depend, but attributing them to an entire ethnic group is inaccurate. Stacey and Allison’s peer-reviewed chapter warns that conservation accounts can portray Sama-Bajau people as threats while overlooking the social complexity of their livelihoods. Harmful methods need to be addressed with evidence about actual practices, incentives and access to alternatives. [Mobility, livelihoods and conservation](https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/).",
+      "The ethical task is to avoid both flattering and condemning stereotypes. A maritime tradition does not automatically make every fishing practice sustainable. Equally, evidence of damaging activity by some fishers does not establish collective blame. Effective protection has to consider people’s dependence on a place as well as what is happening to its ecology.",
+      "## TOURISM, MODERNIZATION AND A CHANGING SEA",
+      "Tourism can reshape a community even when the boats remain in the picture. Heva Hayuqo Yumi’s 2018 qualitative master’s thesis on Derawan Island examined tensions between fishing, conservation and tourism development. Former fishers could retain a Bajau fishing identity while shifting livelihoods. The study presents a local case, not proof that tourism has the same effects everywhere. It shows why a destination’s commercial success and a community’s ability to sustain its way of life need separate assessment. [Derawan case study](https://digitalcommons.uri.edu/theses/1241/).",
+      "The practical questions are who receives income, who can access fishing grounds and whether residents participate in decisions. A tourist may value the appearance of a boat village while a family values a reliable home, transport or education. Preserving a picturesque scene is not necessarily the same as preserving meaningful choices.",
+      "Environmental change adds pressure beyond any single village’s control. Warm water can cause corals to expel their symbiotic algae and bleach. Bleaching does not mean instant death, but prolonged stress can kill corals. For people whose work depends on reef ecosystems, that creates a threat to the habitat supporting their livelihood. It would be misleading to assign a precise climate-related catch loss to all Bajau without local evidence. [NOAA’s explanation of coral bleaching](https://oceanservice.noaa.gov/facts/coral_bleach.html).",
+      "NOAA identifies reduced pollution and overharvesting as ways to improve reef resilience, alongside the longer-term need to limit climate change. This matters because warming interacts with local pressures rather than replacing them. Declining resources can narrow the options available to fishing households. Protecting habitat and protecting access to a viable livelihood therefore need to be considered together. [Reef resilience and local pressures](https://oceanservice.noaa.gov/facts/reef-resilience.html).",
+      "## IS THE TRADITIONAL SEA-NOMAD LIFESTYLE DISAPPEARING?",
+      "Year-round boat dwelling has declined, and settled communities are an important part of the story. Yet labels can obscure continuing movement and maritime attachment. The conservation scholarship stresses that livelihoods respond to changing social, economic and environmental circumstances. A house on land does not, by itself, show that knowledge of the sea or a Sama-Bajau identity has disappeared. [Why the label “sea nomad” needs context](https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/).",
+      "There is no single disappearance date for a diverse people. Particular practices can weaken when they stop being taught, access to the sea is restricted or a livelihood becomes impossible. Other practices can continue in new settings. The relevant question is whether people have the resources and freedom to carry forward what they value, including the freedom to change.",
+      "The most fascinating thing about the Bajau is not that they live beyond human limits. It is how human lives have been organized around water: through knowledge, cooperation, movement, work and, in one studied population, evidence of biological adaptation. Their future belongs to the people making those lives, not to the expectations of a headline.",
+      "## FAQ",
+      "### Do the Bajau really live underwater?",
+      "No. Bajau people breathe air. Some communities traditionally lived on boats or in houses above the water, and skilled divers work underwater for limited periods before returning to breathe.",
+      "### Can all Bajau people hold their breath for 13 minutes?",
+      "No such population-wide ability has been demonstrated. Working-dive measurements involve much shorter repeated dives. Exceptional reported performances should not be presented as normal or universal.",
+      "### Are larger spleens the whole explanation for Bajau diving?",
+      "No. The 2018 research supports a biological adaptation in a sampled population. Individual performance also involves training, health, technique and conditions. A spleen measurement cannot predict someone’s maximum dive.",
+      "### Are all Bajau people stateless or nomadic?",
+      "No. Housing, occupations and legal status vary. Some marginalized communities face severe citizenship and documentation barriers, but those circumstances cannot be generalized to all Bajau people.",
+      "## SOURCES AND EVIDENCE NOTES",
+      "Study years refer to publication unless otherwise stated. The 2014 dive paper includes the group reported in 2011, so those samples must not be added as independent cohorts. Competition observations are distinguished from instrumented working dives. Historical ethnography and local case studies describe their own settings and periods, rather than a current census of all Bajau communities. Scientific comparisons concern sampled populations, not a biological definition of ethnicity.",
+      "[Ilardo et al., Cell (2018): Physiological and Genetic Adaptations to Diving in Sea Nomads, open university copy](https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf).",
+      "[Schagatay, Lodin-Sundstrom and Abrahamsson (2011): measured working dives, five Bajau spearfishers](https://www.lunduniversity.lu.se/publication/24e72ac5-7371-4ba1-989b-56db7476169a).",
+      "[Abrahamsson and Schagatay, Human Evolution (2014): fieldwork and dive recordings, ten male divers](https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf).",
+      "[Nature Reviews Genetics (2018): A breath-holding adaptation](https://www.nature.com/articles/s41576-018-0014-1).",
+      "[UC Berkeley (2018): enlarged spleens and the sea-nomad study](https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/).",
+      "[Ilardo et al., Frontiers in Physiology (2022): experimental investigation of the proposed PDE10A mechanism](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.760851/full).",
+      "[Foster and Sheel (2005): The human diving response, its function, and its control](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x).",
+      "[Sather, ANU Press: The Sama-Bajau, maritime history and social organization](https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html).",
+      "[Jubilado, Hussin and Manueli, JATI (2010): Sama-Bajau linguistics and culture](https://ejournal.um.edu.my/index.php/jati/article/view/6100).",
+      "[Estrada, Ishmael and Jaluddin (2026): Igal Ka’mbo’an and passing on Sama dance traditions](https://journal.usep.edu.ph/index.php/Southeastern_Philippines_Journal/article/view/1631).",
+      "[Matthieu Paley, National Geographic (2014): reporting with Bajau fishing families](https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies).",
+      "[Sarah Gibbens, National Geographic (2018): the spleen research and its interpretation](https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science).",
+      "[Hoogervorst, Water History (2012): Ethnicity and aquatic lifestyles](https://link.springer.com/article/10.1007/s12685-012-0060-0).",
+      "[SUHAKAM (August 2024): findings and recommendations following Semporna evictions](https://suhakam.org.my/wp-content/uploads/2024/08/Press-Statement-No.-17-2024_SUHAKAM-Calls-for-Immediate-Suspension-of-Evictions-and-for-Humane-Solutions-in-Semporna.pdf).",
+      "[Divers Alert Network: Hypoxia in Breath-Hold Diving](https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/).",
+      "[DAN World: Decompression Illness](https://world.dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/).",
+      "[Stacey and Allison (2019): Sama-Bajau mobility, livelihoods and marine conservation](https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/).",
+      "[Yumi, University of Rhode Island (2018): tourism, fishing and conservation on Derawan Island, master’s thesis](https://digitalcommons.uri.edu/theses/1241/).",
+      "[NOAA: coral bleaching, recovery and the effects of warming water](https://oceanservice.noaa.gov/facts/coral_bleach.html).",
+      "[NOAA: reef resilience, climate change and local environmental pressures](https://oceanservice.noaa.gov/facts/reef-resilience.html)."
+    ],
+    "references": [
+      {
+        "name": "Ilardo et al., Cell (2018): Physiological and Genetic Adaptations to Diving in Sea Nomads, open university copy",
+        "url": "https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf"
+      },
+      {
+        "name": "Schagatay, Lodin-Sundstrom and Abrahamsson (2011): measured working dives, five Bajau spearfishers",
+        "url": "https://www.lunduniversity.lu.se/publication/24e72ac5-7371-4ba1-989b-56db7476169a"
+      },
+      {
+        "name": "Abrahamsson and Schagatay, Human Evolution (2014): fieldwork and dive recordings, ten male divers",
+        "url": "https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf"
+      },
+      {
+        "name": "Nature Reviews Genetics (2018): A breath-holding adaptation",
+        "url": "https://www.nature.com/articles/s41576-018-0014-1"
+      },
+      {
+        "name": "UC Berkeley (2018): enlarged spleens and the sea-nomad study",
+        "url": "https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/"
+      },
+      {
+        "name": "Ilardo et al., Frontiers in Physiology (2022): experimental investigation of the proposed PDE10A mechanism",
+        "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.760851/full"
+      },
+      {
+        "name": "Foster and Sheel (2005): The human diving response, its function, and its control",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x"
+      },
+      {
+        "name": "Sather, ANU Press: The Sama-Bajau, maritime history and social organization",
+        "url": "https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html"
+      },
+      {
+        "name": "Jubilado, Hussin and Manueli, JATI (2010): Sama-Bajau linguistics and culture",
+        "url": "https://ejournal.um.edu.my/index.php/jati/article/view/6100"
+      },
+      {
+        "name": "Estrada, Ishmael and Jaluddin (2026): Igal Ka’mbo’an and passing on Sama dance traditions",
+        "url": "https://journal.usep.edu.ph/index.php/Southeastern_Philippines_Journal/article/view/1631"
+      },
+      {
+        "name": "Matthieu Paley, National Geographic (2014): reporting with Bajau fishing families",
+        "url": "https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies"
+      },
+      {
+        "name": "Sarah Gibbens, National Geographic (2018): the spleen research and its interpretation",
+        "url": "https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science"
+      },
+      {
+        "name": "Hoogervorst, Water History (2012): Ethnicity and aquatic lifestyles",
+        "url": "https://link.springer.com/article/10.1007/s12685-012-0060-0"
+      },
+      {
+        "name": "SUHAKAM (August 2024): findings and recommendations following Semporna evictions",
+        "url": "https://suhakam.org.my/wp-content/uploads/2024/08/Press-Statement-No.-17-2024_SUHAKAM-Calls-for-Immediate-Suspension-of-Evictions-and-for-Humane-Solutions-in-Semporna.pdf"
+      },
+      {
+        "name": "Divers Alert Network: Hypoxia in Breath-Hold Diving",
+        "url": "https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/"
+      },
+      {
+        "name": "DAN World: Decompression Illness",
+        "url": "https://world.dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/"
+      },
+      {
+        "name": "Stacey and Allison (2019): Sama-Bajau mobility, livelihoods and marine conservation",
+        "url": "https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/"
+      },
+      {
+        "name": "Yumi, University of Rhode Island (2018): tourism, fishing and conservation on Derawan Island, master’s thesis",
+        "url": "https://digitalcommons.uri.edu/theses/1241/"
+      },
+      {
+        "name": "NOAA: coral bleaching, recovery and the effects of warming water",
+        "url": "https://oceanservice.noaa.gov/facts/coral_bleach.html"
+      },
+      {
+        "name": "NOAA: reef resilience, climate change and local environmental pressures",
+        "url": "https://oceanservice.noaa.gov/facts/reef-resilience.html"
+      }
+    ],
+    "readingTime": "15 min read"
+  },
+  {
     "id": "104",
     "slug": "brain-to-voice-ai-speech-brain-computer-interfaces",
     "title": "BRAIN TO VOICE: HOW AI IS GIVING SPEECH BACK TO PEOPLE WHO CANNOT TALK",
