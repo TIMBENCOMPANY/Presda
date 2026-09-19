@@ -24609,7 +24609,7 @@ export const articles: Article[] = [
     "category": "AI",
     "date": "2026-05-17",
     "author": "PRESDA Editorial",
-    "coverImage": "/images/articles/japan-ai-care-era-2026.webp",
+    "coverImage": "/articles/ai-care-japan-elder-people-future-technology-robot-human.png",
     "coverAlt": "Japanese elder holding hands with a care robot in a cinematic poster",
     "homepageImagePosition": "50% 45%",
     "content": [
