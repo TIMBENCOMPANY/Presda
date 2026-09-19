@@ -57,7 +57,7 @@ export const articles: Article[] = [
     "id": "106",
     "slug": "brain-drain-why-skilled-workers-leave-home",
     "title": "BRAIN DRAIN: WHY BRILLIANT MINDS LEAVE HOME",
-    "seoTitle": "Brain Drain: Why Skilled Workers Leave Home | PRESDA",
+    "seoTitle": "Brain Drain: Why Skilled Workers Leave Home",
     "metaDescription": "Explore brain drain causes and effects, from doctors and tech talent to diaspora networks, with global case studies and carefully dated migration data.",
     "schemaType": "Article",
     "headlineHighlights": {
