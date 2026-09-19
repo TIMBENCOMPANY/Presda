@@ -560,28 +560,6 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   const articleHeroHighlights = articleHeroHighlightOverrides[article.slug] ?? article.headlineHighlights;
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
-  const hasFullImageMobileHero = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces" || article.slug === "bajau-people-sea-nomads-diving" || article.slug === "brain-drain-why-skilled-workers-leave-home";
-  const hasMobilePortrait = article.slug === "alzheimers-disease-brain-memory-loss"
-    || article.slug === "history-of-perfume-scent-beauty-power-luxury"
-    || article.slug === "pablo-escobar-medellin-cartel-wealth-rise-fall"
-    || article.slug === "diego-maradona-genius-napoli-life-death-legacy"
-    || article.slug === "mongol-empire-genghis-khan-conquests-legacy"
-    || article.slug === "byzantine-empire-eastern-rome-constantinople-1453"
-    || article.slug === "persian-empire-cyrus-great-achaemenid-history"
-    || article.slug === "abbasid-caliphate-baghdad-islamic-golden-age"
-    || article.slug === "british-empire-history-rise-fall-global-legacy"
-    || article.slug === "house-music-brain-rhythm-128-bpm-science-dancing"
-    || article.slug === "morocco-history-dynasties-kingdom-independence"
-    || article.slug === "mali-empire-mansa-musa-gold-pilgrimage-history"
-    || article.slug === "inca-empire-andes-machu-picchu-rise-fall"
-    || article.slug === "spanish-empire-columbus-conquest-silver-global-history"
-    || article.slug === "han-dynasty-china-silk-road-history-legacy"
-    || article.slug === "endless-scrolling-phone-attention-sleep-science"
-    || article.slug === "umayyad-caliphate-damascus-expansion-rise-fall"
-    || article.slug === "aztec-empire-tenochtitlan-mexica-rise-fall"
-    || article.slug === "japan-samurai-meiji-restoration-modern-empire-history"
-    || article.slug === "ancient-egypt-pharaohs-nile-3000-years-history"
-    || article.slug === "france-history-kings-revolution-empire-republic";
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
@@ -601,7 +579,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
           </Link>
         </nav>
 
-        <header className={`relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px] ${hasFullImageMobileHero ? "brain-to-voice-hero" : ""}`}>
+        <header className="relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px]">
           <Image
             src={article.coverImage}
             alt={article.coverAlt}
@@ -609,14 +587,11 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
             priority
             quality={82}
             sizes="(max-width: 1500px) 100vw, 1500px"
-            className={`article-hero-image object-cover ${article.slug === "endless-scrolling-phone-attention-sleep-science" ? "max-sm:!object-contain" : ""} ${hasMobilePortrait ? "max-lg:!h-[360px]" : ""}`}
+            className="article-hero-image object-cover"
             style={heroImageStyle}
           />
           <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
           <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
-          {hasMobilePortrait ? (
-            <div className="absolute inset-x-0 top-[220px] h-[140px] bg-gradient-to-b from-transparent to-[#050505] lg:hidden" />
-          ) : null}
 
           <div className="relative z-10 flex min-h-[590px] flex-col justify-between p-5 sm:min-h-[650px] sm:p-8 lg:min-h-[720px] lg:p-12 xl:p-14">
             <div className="flex items-start justify-between gap-4 font-display text-[11px] font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
@@ -627,7 +602,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
               <time className="text-right text-white/86" dateTime={article.date}>{formatHeroDate(article.date)}</time>
             </div>
 
-            <div className={`max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8 ${hasFullImageMobileHero ? "brain-to-voice-hero-copy" : ""} ${article.slug === "muhammad-ali-fighter-bigger-than-boxing" ? "max-[380px]:pt-52" : ""} ${hasMobilePortrait ? (article.slug === "endless-scrolling-phone-attention-sleep-science" ? "max-sm:!pt-[160px] sm:max-lg:!pt-[280px]" : "max-lg:!pt-[280px]") : ""}`}>
+            <div className="max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8">
               <h1 className="article-hero-title text-white">
                 <HeadlineText title={article.title} highlights={articleHeroHighlights} legacyRed={article.headlineAccent} />
               </h1>
