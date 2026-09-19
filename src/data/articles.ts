@@ -54,6 +54,247 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "108",
+    "slug": "petra-nabataeans-desert-city-jordan-history",
+    "title": "PETRA: HOW THE NABATAEANS BUILT A CITY IN THE DESERT",
+    "seoTitle": "Petra: How the Nabataeans Built a Desert City",
+    "metaDescription": "Explore Petra, Jordan: Nabataean trade, desert water engineering, the Treasury’s real interior, burial discoveries and the city’s long history beyond Rome.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "PETRA",
+      "gold": "CITY IN THE DESERT"
+    },
+    "excerpt": "Behind Petra’s famous facade lies a story of desert trade, ingenious water engineering and a city that kept changing long after its kingdom ended. Here is what the archaeology reveals.",
+    "category": "History",
+    "date": "2026-09-19",
+    "lastUpdated": "2026-09-19",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/petra-nabataeans-city-desert-jordan-arab.png",
+    "coverAlt": "Artistic reconstruction of ancient Petra with Al-Khazneh carved into sandstone, a caravan and an illustrative water channel at sunset",
+    "homepageImagePosition": "60% 45%",
+    "status": "published",
+    "tags": [
+      "Petra Jordan",
+      "Nabataeans",
+      "Petra history",
+      "Al-Khazneh",
+      "Petra Treasury",
+      "Ancient Petra",
+      "Nabataean water engineering"
+    ],
+    "content": [
+      "The most famous view of Petra is a doorway. Framed by a narrow canyon, the Treasury appears to promise an entire secret world behind its columns. Yet the greater surprise lies beyond that single monument: a city of streets, sanctuaries, homes, workshops and waterworks, built by people who understood the desert as a place of opportunity as well as danger.",
+      "Petra, Jordan, was the capital of the Nabataeans, an ancient Arabian people whose trading kingdom linked desert routes with the Mediterranean world. Its rock-cut monuments survive so dramatically that they can obscure its most consequential achievement: making an urban community possible in a demanding landscape. Understanding Petra history means following water as closely as stone, and ordinary lives as closely as royal ambition.",
+      "*Hero image: an artistic reconstruction of ancient Petra supplied for this article. Its buildings, watercourse and caravan scene are illustrative, not a photograph or a verified reconstruction of one historical moment.*",
+      "## WHO WERE THE NABATAEANS?",
+      "The Nabataeans emerged from the Arabian world of mobile herders and traders. The Metropolitan Museum of Art places their earlier roots in northern Arabia and their presence in southern Jordan by 312 BC, when a campaign associated with Alexander the Great’s successor Antigonus brought them into Greek historical accounts. The exact stages of their movement and settlement remain less certain than a simple migration arrow suggests. [The Metropolitan Museum of Art: Nabataean Kingdom and Petra](https://www.metmuseum.org/essays/nabataean-kingdom-and-petra)",
+      "They did not arrive in an empty landscape. The Petra region preserves much older settlement, including Neolithic communities and the Iron Age world of Edom. Nor should “nomadic” be mistaken for isolated or unsophisticated. Movement required knowledge of pasture, water, routes and political relationships. Those skills could support commerce and, eventually, a settled kingdom. [Petra Museum: Foundations of Petra](https://www.petramuseum.jo/en-us/exhibitions/foundations-of-petra/)",
+      "Over time, the Nabataeans became rulers, merchants, farmers, artisans and urban residents. Their capital was known as Raqmu; Petra is its familiar Greek name. Their history belongs to Arabia and the southern Levant, but their connections crossed those boundaries. The most useful question is not how a supposedly simple people suddenly became advanced. It is how existing knowledge and expanding networks acquired new forms.",
+      "## WHY A CAPITAL HERE?",
+      "Petra offered a combination of advantages. Its mountain basin and narrow approaches provided shelter; surrounding routes connected it to commercial traffic; nearby highlands supplied springs, agricultural produce and raw materials. The city was embedded in a wider working landscape, not suspended in a lifeless sea of sand. The Petra Museum connects even Dushara, the principal Nabataean deity, with the Sharah Mountains that helped sustain local life. [Petra Museum: Foundations of Petra](https://www.petramuseum.jo/en-us/exhibitions/foundations-of-petra/)",
+      "Caravans needed reliable stopping places. Traders needed storage, exchange and protection. Political authorities needed somewhere to concentrate resources. Petra could serve all these purposes, provided its inhabitants could solve the water problem. Capital-city status was therefore more than a fortunate geographical accident: it depended on investment that made this location useful.",
+      "## INCENSE, SPICES AND THE MAKING OF WEALTH",
+      "Frankincense and myrrh were valuable aromatic resins in the commerce of Arabia. Along with spices, textiles and other luxury goods, such cargo connected producers and buyers across long chains of exchange. Petra participated in routes linking southern Arabia and Mediterranean markets, with connections reaching farther east. A product arriving from India did not imply that one merchant had accompanied it all the way. These were networks of stages and intermediaries. [American Museum of Natural History: Nabataeans](https://www.amnh.org/explore/ology/ology-cards/222-nabataeans)",
+      "Nabataean income came from more than owning desirable goods. Supplying water, shelter and safe passage made movement through difficult country possible, and those services had a price. Controlling sections of the routes also allowed the collection of tolls. The AMNH describes this commercial infrastructure as a source of the wealth that supported the kingdom. [American Museum of Natural History: The Ancient City of Petra](https://www.amnh.org/explore/ology/archaeology/the-ancient-city-of-petra2)",
+      "The distinction matters. A monumental facade is visible wealth. A dependable watering place is the infrastructure that helps generate it. Petra’s grandeur rested partly on turning practical knowledge into services other people needed. Its place in the history of luxury also connects with the much wider story of [perfume, scent and valuable aromatics](/articles/history-of-perfume-scent-beauty-power-luxury/).",
+      "## HOW A CITY SURVIVED IN THE DESERT",
+      "Petra faced two opposing problems: having too little water for everyday needs and receiving dangerous quantities during storms. A single reservoir could not solve both. The Nabataean response combined collection, transport, storage and flood diversion, with different structures performing different tasks.",
+      "Spring water came toward the city from the surrounding heights. Channels cut into rock carried it across the landscape; ceramic pipes helped deliver it to buildings and homes. The Petra Museum dates the addition of simple long pottery pipes to the first century BC and explains their advantages: less evaporation, less contamination and more efficient distribution. Their joints were sealed with hydraulic lime mortar. [Petra Museum: Aqua Kaleidoscope](https://www.petramuseum.jo/en-us/exhibitions/aqua-kaleidoscope/)",
+      "Cisterns stored reserves, often below ground, while reservoirs held water for later distribution. Rainwater could be collected when it was available instead of being allowed to escape immediately. Underground storage also reduced exposure to evaporation. These stores supplemented flowing supplies rather than replacing them. [American Museum of Natural History: The Ancient City of Petra](https://www.amnh.org/explore/ology/archaeology/the-ancient-city-of-petra2)",
+      "Charles Ortloff’s 2005 study in the Cambridge Archaeological Journal interprets the network as a coordinated system balancing storage with continuous supply. It identifies settling basins that allowed suspended particles to fall out and pipe arrangements designed to maintain stable flows. In accessible terms, the problem was not simply to make water move downhill. It was to control its speed, sediment and delivery without repeatedly damaging the system. [Charles R. Ortloff, Cambridge Archaeological Journal (2005): Petra water supply and distribution](https://doi.org/10.1017/S0959774305000053)",
+      "Dams and diversion works addressed the other danger. The system around the Siq included a diversion dam and the Muthlim tunnel, helping redirect floodwater away from a vulnerable entrance route. UNESCO identifies these structures, together with channels, reservoirs and cisterns, as central parts of Petra’s engineering heritage. [UNESCO World Heritage Centre: Petra](https://whc.unesco.org/en/list/326/)",
+      "That distinction between capturing useful water and diverting destructive water remains relevant. A 2021 Journal of Hydrology study used measurements from the 2019–2020 rainy season to construct and calibrate models of Petra’s flood-control system. The surviving works are not merely picturesque fragments: they can be examined as hydraulic infrastructure, with capacities and limits. Ancient success did not make the city immune to flooding. [Journal of Hydrology (2021): assessment of Petra’s Nabataean flood-control system](https://www.sciencedirect.com/science/article/pii/S0022169421006302)",
+      "Keeping such a network functional also required unglamorous work. Channels needed clearing, storage needed care and broken connections needed repair. A carved tomb could outlast the people who commissioned it. A dependable water supply required continuing attention. This is one reason the city’s engineering tells us as much about social organization as technical ingenuity.",
+      "## CARVING ARCHITECTURE OUT OF SANDSTONE",
+      "At a rock-cut monument, builders removed stone to reveal architectural forms within the cliff. Columns, pediments and doorways were carved rather than assembled as an ordinary masonry frontage. Hammers and chisels did the work. Unfinished monuments preserve evidence for a common working sequence from the top downward, according to the American Museum of Natural History. [American Museum of Natural History: A Walk Through the Ruins of Petra](https://www.amnh.org/explore/ology/archaeology/a-walk-through-the-ruins-of-petra)",
+      "This demanded planning before the deepest cuts were made. A wrongly removed block could not simply be put back into the cliff. Surviving unfinished surfaces are therefore valuable evidence: they reveal stages of work that a completed facade conceals. The smooth final monument is only the last part of a much longer process of measuring, cutting and finishing.",
+      "But ancient Petra was never an entirely underground city. It also contained freestanding buildings made from stone blocks. Brown University’s architectural collection, for example, includes a limestone Corinthian capital that originally stood above a sandstone column. The mix of materials and building methods matters as much as the famous carved cliffs. [Brown University: Nabataean Corinthian capital fragment](https://sites.brown.edu/petraatjoukowsky/corinthian-capital-fragment/)",
+      "## AL-KHAZNEH: A MONUMENT WITH AN UNCERTAIN OWNER",
+      "The Treasury, or Al-Khazneh, dominates the approach from the Siq. Petra’s official visitor authority gives its facade a height of 39.5 metres. It is commonly interpreted as a monumental funerary building, probably connected with elite or royal commemoration. Its precise date, patron and full ceremonial function remain debated. [PDTRA Visit Petra: Al Khazna, the Treasury](https://visitpetra.jo/en/Location/2)",
+      "An association with Aretas IV, whose reign ran from 9 BC to AD 40, is frequently proposed. It is not a securely identified royal address. The AMNH emphasizes that no inscription names the king for whom the monument may have been carved. Architectural comparisons and archaeological context help build an argument, but they do not substitute for a missing dedication. [American Museum of Natural History: A Walk Through the Ruins of Petra](https://www.amnh.org/explore/ology/archaeology/a-walk-through-the-ruins-of-petra)",
+      "The facade makes Nabataean cultural connections visible. Corinthian forms and an elaborate upper composition draw on the Hellenistic architectural world; the broader art of Petra also reflects Egyptian, Arabian and regional traditions. These were choices made within Nabataean society, not evidence that the city needed to become Greek to create impressive architecture. [The Metropolitan Museum of Art: Nabataean Kingdom and Petra](https://www.metmuseum.org/essays/nabataean-kingdom-and-petra)",
+      "Egyptian influence, in particular, should not be confused with Egyptian ownership. The movement of images and architectural ideas across the eastern Mediterranean belongs to the same connected world explored in PRESDA’s [history of ancient Egypt](/articles/ancient-egypt-pharaohs-nile-3000-years-history/). At Petra, those ideas were adapted to local patrons, rituals and stone.",
+      "## WHAT IS ACTUALLY INSIDE PETRA’S TREASURY?",
+      "Behind the famous central doorway is a relatively plain rock-cut chamber, with smaller adjoining spaces. Rooms also flank the entrance portico. The surviving interior is far simpler than the richly carved facade. It is not an entrance to the immense, treasure-filled passageways imagined by adventure films. Rough Guides describes the contrast between the largely bare square chamber and the ornate exterior. [Rough Guides: The Treasury interior](https://www.roughguides.com/jordan/petra/treasury/)",
+      "This does not make the interior meaningless. The arrangement of rooms, thresholds and ritual features provides evidence about how people used the monument. A basin and channel near the entrance have contributed to discussion of ceremonial activity. A funerary interpretation can accommodate ritual and commemoration; “tomb” need not mean a space used only at the moment of burial. Exactly how the Treasury functioned remains a research question. [Rough Guides: The Treasury interior](https://www.roughguides.com/jordan/petra/treasury/)",
+      "It is also essential to separate the rooms behind the doorway from the tombs excavated below the forecourt. They are related parts of an archaeological setting, but not interchangeable locations. A report about human remains beneath the courtyard does not describe what an ordinary visitor would see by looking into the main entrance.",
+      "## THE TREASURE LEGEND AND THE BULLET MARKS",
+      "The modern name comes from a story that a pharaoh concealed treasure in the carved urn high on the facade. Petra’s official visitor account associates the visible bullet marks with attempts to break open that supposed hiding place. Those scars are evidence of people acting on a treasure belief. They are not evidence that the belief was true. [PDTRA Visit Petra: Al Khazna, the Treasury](https://visitpetra.jo/en/Location/2)",
+      "The legend belongs to Petra’s later cultural history and helps explain how a funerary monument became known as a treasury. Treating it as folklore does not make it uninteresting. It changes the question from “Where is the gold?” to “How did later generations understand the extraordinary ruins around them?” Archaeology must keep those questions distinct.",
+      "## WHAT EXCAVATIONS BENEATH THE TREASURY REALLY FOUND",
+      "The burial landscape below the familiar frontage has a research history that predates recent television coverage. ACOR’s November 2024 clarification credits Suleiman Farajat and Sami Nawafleh of Jordan’s Department of Antiquities with the 2003 discovery of tomb 62C. Nearby tombs were excavated that season; 62C itself was investigated in 2005, when the remains of at least 11 individuals were recorded. [ACOR (17 November 2024): clarification of Treasury excavations](https://acorjordan.org/exu-learn-more/)",
+      "In October 2024, the University of St Andrews publicized renewed work and reported 12 skeletons. That announcement helped bring the excavation to worldwide attention. Its “hidden tomb” framing should be read alongside the later ACOR clarification: this was renewed investigation of a known tomb, not the first discovery of the burial complex. The figures come from different accounts and seasons and should not be casually added into a definitive total. [University of St Andrews (15 October 2024): Treasury excavation announcement](https://news.st-andrews.ac.uk/archive/st-andrews-researchers-make-historic-discovery-underneath-one-of-the-seven-wonders-of-the-world/)",
+      "ACOR says the 2024 work recovered further individuals, collected scientific samples and used remote sensing to investigate the courtyard. It identifies collaboration among the Department of Antiquities, PDTRA, Petra National Trust and ACOR. Possible deeper features detected by surveying require further investigation. They are not, by themselves, proof of a named royal burial or a treasure chamber. [ACOR (17 November 2024): clarification of Treasury excavations](https://acorjordan.org/exu-learn-more/)",
+      "The Petra Museum adds a quieter kind of evidence: a pottery figure of a double-flute player from the Treasury courtyard. Its display asks whether the object might illuminate funerary music, while acknowledging the lack of written descriptions of Nabataean funeral rituals. That carefully phrased question is a useful model for archaeology: an evocative object can suggest an interpretation without proving an entire ceremony. [Petra Museum: Nabataean Zenith](https://www.petramuseum.jo/en-us/exhibitions/nabataean-zenith/)",
+      "## THE CITY BEYOND THE POSTCARD",
+      "Move beyond Al-Khazneh and Petra becomes much more than a procession of tombs. At Qasr al-Bint, a freestanding sanctuary stood within a sacred precinct. It is generally associated with Dushara. Its popular name, the Palace of the Pharaoh’s Daughter, is another reminder that later names can describe legends rather than original functions. [PDTRA Visit Petra: Qasr al-Bint Temple Complex](https://visitpetra.jo/en/Location/84)",
+      "The theatre is another corrective to easy assumptions. Its rock-cut seating is Nabataean in origin, generally placed in the early first century AD, with later Roman additions. Earlier tombs were cut through to make part of the auditorium. The official site description cautions that the exact range of activities held there is undocumented. Calling it simply a “Roman theatre” conceals both its beginnings and its changing use. [PDTRA Visit Petra: The Theater](https://visitpetra.jo/en/Location/8)",
+      "The colonnaded centre and the complex conventionally called the Great Temple reveal an urban landscape of terraces, columns, decorated interiors and large public spaces. Brown University’s excavations document elaborate architectural sculpture and painted decoration. The buildings we see as bare ruins once required skilled labour and substantial resources. Their present appearance is a stripped-down remnant of an inhabited city. [Brown University: The Petra Great Temple Tour](https://webhelper.brown.edu/joukowsky/Petra/temple/temple.html)",
+      "Tombs remain important, but they can distort the picture because carved facades are so conspicuous. Homes and their contents restore another scale of life. The Petra Museum draws on houses at az-Zantur and Wadi Musa to show domestic rooms, a reconstructed banqueting space, mosaic decoration and distinctive painted pottery. Some evidence concerns prosperous households, so it cannot stand uncritically for every resident. [Petra Museum: Nabataean Life](https://www.petramuseum.jo/en-us/exhibitions/nabataean-life/)",
+      "Everyday Petra depended on people whose names rarely survive: those preparing food, handling animals, making pottery, carrying supplies and maintaining buildings. Reading a city only through its grandest tombs is like reading a modern society only through its monuments. Household archaeology makes it possible to ask who enjoyed the wealth, who produced it and how different lives fitted together.",
+      "## RELIGION, LANGUAGE AND A CONNECTED CULTURE",
+      "Dushara stood at the head of the Nabataean pantheon. His association with the Sharah Mountains tied divine identity to the landscape. The Petra Museum also shows how he could be represented in ways influenced by the Graeco-Roman world, including identification with Zeus. Such combinations warn against imagining a sealed, unchanging religion. [Petra Museum: Foundations of Petra](https://www.petramuseum.jo/en-us/exhibitions/foundations-of-petra/)",
+      "Language was similarly complex. Nabataean inscriptions commonly use Aramaic, but the relationship between written language and everyday speech remains debated. Benjamin Suchard’s 2023 review concludes that both Arabic and Aramaic were spoken in the Nabataean kingdom and later northwestern Arabia. It challenges the overly tidy formula that everyone spoke Arabic while using Aramaic only on paper or stone. [Benjamin D. Suchard, Arabian Archaeology and Epigraphy (2023): Nabataean Aramaic and pre-Islamic Arabic](https://onlinelibrary.wiley.com/doi/10.1111/aae.12234)",
+      "The Nabataean script also helped shape the development of Arabic writing. Petra Museum describes changes toward connected, cursive letter forms continuing after the loss of Nabataean independence. Political annexation did not instantly end cultural practices. Language, craft traditions and local identities could persist and change within a new imperial framework. [Petra Museum: Waning of Petra](https://petramuseum.jo/en-us/exhibitions/waning-of-petra/)",
+      "## AD 106: ROME TAKES THE KINGDOM, NOT ITS PEOPLE OUT OF HISTORY",
+      "In AD 106, under Trajan, Rome annexed the Nabataean kingdom into the province of Arabia. That is a firm turning point in political history. It is not a date on which Petra became deserted. The city continued under Roman rule, and its material culture records continued wealth and adaptation. [The Metropolitan Museum of Art: Nabataean Kingdom and Petra](https://www.metmuseum.org/essays/nabataean-kingdom-and-petra)",
+      "One telling object in the Petra Museum is an imported marble vase later reused as a basin in the Petra Church. Its changing use crosses the neat divisions of royal, Roman and Christian history. The museum’s interpretation stresses that annexation was followed by continuing cultural life, not an immediate disappearance of the Nabataeans. [Petra Museum: Waning of Petra](https://petramuseum.jo/en-us/exhibitions/waning-of-petra/)",
+      "## EARTHQUAKES, TRADE SHIFTS AND A LONG TRANSFORMATION",
+      "Changing commercial routes reduced the advantages Petra had once enjoyed. More traffic moving along other corridors or by sea could weaken a city built around particular overland connections. Yet that explanation cannot be compressed into a single moment when all the caravans stopped. The urban transformation unfolded over generations. [American Museum of Natural History: The Ancient City of Petra](https://www.amnh.org/explore/ology/archaeology/the-ancient-city-of-petra2)",
+      "The earthquake of AD 363 caused serious destruction. At the Temple of the Winged Lions, ACOR describes collapsed architectural material and pottery that help identify debris cleared after the disaster. Damage had practical consequences as well as visual ones: restoring a functioning city required far more than standing its columns upright. [ACOR (2016): archaeology beneath the Temple of the Winged Lions](https://publications.acorjordan.org/2016/03/29/what-lies-beneath-new-insights-into-petras-temple-of-the-winged-lions/)",
+      "Further damage and changing priorities compounded the challenge over time. But a familiar story in which one earthquake ended Petra fails against later evidence. The Petra papyri, discovered in 1993 in a church complex, preserve sixth-century documents about property, family affairs and legal transactions. They reveal people still conducting the complicated business of living long after the great Nabataean monuments had been built. [ACOR: The Petra Papyri](https://acorjordan.org/the-petra-papyri/)",
+      "## PETRA AFTER THE NABATAEANS",
+      "Christian churches, reused tombs, medieval fortifications and the shrine on Jebel Haroun belong to later chapters of the landscape. Byzantine, Islamic and Crusader histories cannot be treated as an empty interval between ancient splendour and modern tourism. Petra changed in scale and function, becoming more rural, while the region remained part of wider religious and political worlds. [Petra Museum: Waning of Petra](https://petramuseum.jo/en-us/exhibitions/waning-of-petra/) [UNESCO World Heritage Centre: Petra](https://whc.unesco.org/en/list/326/)",
+      "The church archive makes that continuity unusually personal. ACOR notes that the papyri were carbonized in a fire and survived as fragile remains that specialists painstakingly conserved and read. The documents are mostly Greek, with Arabic-derived personal and place names. They complicate any simple story in which one culture vanished and another arrived fully formed. [ACOR: The Petra Papyri](https://acorjordan.org/the-petra-papyri/)",
+      "This later history connects Petra to the wider [Byzantine world of the eastern Roman Empire](/articles/byzantine-empire-eastern-rome-constantinople-1453/). It also reminds us that a “ruin” is a place viewed at a particular moment, not a complete description of everything that happened there.",
+      "## REDISCOVERED FOR WHOM?",
+      "The Swiss traveller Johann Ludwig Burckhardt’s visit in 1812 helped bring Petra to wider Western attention. That is the appropriate meaning of its much-repeated “rediscovery.” It does not mean local people had forgotten where the place was. Petra Museum presents the subsequent history of travellers and archaeological research alongside the region’s continuing living traditions. [Petra Museum: Revitalization of Petra](https://www.petramuseum.jo/en-us/exhibitions/revitalization-of-petra/)",
+      "UNESCO’s account of Bedu cultural heritage records communities around Petra and Wadi Rum maintaining knowledge of the landscape, oral traditions and practical skills, including the use of ancient cisterns and caves. Their relationship with the place is part of its history. An account that begins with European recognition erases the people who already knew the terrain. [UNESCO: Cultural space of the Bedu in Petra and Wadi Rum](https://ich.unesco.org/en/RL/cultural-space-of-the-bedu-in-petra-and-wadi-rum-00122)",
+      "## WHAT ARCHAEOLOGY STILL DOES NOT KNOW",
+      "Some questions remain open because the evidence is incomplete: the Treasury’s exact patron and construction sequence, the identities and relationships of particular buried individuals, and the changing uses of specific spaces. Other questions require new methods or comparisons, such as how water reached different neighbourhoods and how households experienced political and economic change.",
+      "A radar anomaly is a reason to investigate. An architectural resemblance supports comparison. A skeleton can preserve evidence about a life. None automatically supplies a king’s name, a precise building date or a complete story of a civilization. Reports of ongoing analyses should remain provisional until the relevant results are available for scrutiny.",
+      "Petra’s incomplete record is not a defect to be covered with legend. It is the reason new excavation, conservation and reassessment matter. The most revealing discovery may be a drainage connection or a household document rather than another spectacular facade.",
+      "## PETRA TODAY: PRESERVING STONE AND A LIVING LANDSCAPE",
+      "Petra entered the UNESCO World Heritage List in 1985. Its sandstone remains vulnerable to erosion, and flash flooding is a continuing concern. UNESCO also identifies visitor pressure and infrastructure development as conservation issues. Protection requires maintenance and management, not simply the prestige of an international designation. [UNESCO World Heritage Centre: Petra](https://whc.unesco.org/en/list/326/)",
+      "Tourism brings livelihoods as well as pressure. UNESCO’s Bedu heritage assessment notes how settlement, changing lifestyles and tourism can affect traditional knowledge. Conservation therefore involves more than protecting a monument from a visitor’s hand. It must also consider local communities and how they can continue to participate in the place’s future. [UNESCO: Cultural space of the Bedu in Petra and Wadi Rum](https://ich.unesco.org/en/RL/cultural-space-of-the-bedu-in-petra-and-wadi-rum-00122)",
+      "The Treasury remains an extraordinary achievement. But the city becomes more impressive when the eye moves away from its doorway: toward a pipe joint, a cistern, a domestic floor, a fragment of writing. The Nabataeans built Petra by connecting things that are too often told separately: commerce and water, craftsmanship and labour, local knowledge and international exchange. The surviving city asks us to keep those connections in view.",
+      "## SOURCES",
+      "This article draws on Jordanian heritage authorities, Petra Museum, archaeological research institutions and academic studies. The 2024 Treasury publicity is read alongside ACOR’s correction of the excavation history. Proposed monument owners, functions and unpublished research outcomes are distinguished from established dates and physical evidence.",
+      "[The Metropolitan Museum of Art: Nabataean Kingdom and Petra](https://www.metmuseum.org/essays/nabataean-kingdom-and-petra)",
+      "[Petra Museum: Foundations of Petra](https://www.petramuseum.jo/en-us/exhibitions/foundations-of-petra/)",
+      "[American Museum of Natural History: Nabataeans](https://www.amnh.org/explore/ology/ology-cards/222-nabataeans)",
+      "[Petra Museum: Aqua Kaleidoscope](https://www.petramuseum.jo/en-us/exhibitions/aqua-kaleidoscope/)",
+      "[Charles R. Ortloff, Cambridge Archaeological Journal (2005): Petra water supply and distribution](https://doi.org/10.1017/S0959774305000053)",
+      "[American Museum of Natural History: The Ancient City of Petra](https://www.amnh.org/explore/ology/archaeology/the-ancient-city-of-petra2)",
+      "[UNESCO World Heritage Centre: Petra](https://whc.unesco.org/en/list/326/)",
+      "[American Museum of Natural History: A Walk Through the Ruins of Petra](https://www.amnh.org/explore/ology/archaeology/a-walk-through-the-ruins-of-petra)",
+      "[PDTRA Visit Petra: Al Khazna, the Treasury](https://visitpetra.jo/en/Location/2)",
+      "[Rough Guides: The Treasury interior](https://www.roughguides.com/jordan/petra/treasury/)",
+      "[ACOR (17 November 2024): clarification of Treasury excavations](https://acorjordan.org/exu-learn-more/)",
+      "[University of St Andrews (15 October 2024): Treasury excavation announcement](https://news.st-andrews.ac.uk/archive/st-andrews-researchers-make-historic-discovery-underneath-one-of-the-seven-wonders-of-the-world/)",
+      "[Petra Museum: Nabataean Zenith](https://www.petramuseum.jo/en-us/exhibitions/nabataean-zenith/)",
+      "[PDTRA Visit Petra: Qasr al-Bint Temple Complex](https://visitpetra.jo/en/Location/84)",
+      "[PDTRA Visit Petra: The Theater](https://visitpetra.jo/en/Location/8)",
+      "[Brown University: The Petra Great Temple Tour](https://webhelper.brown.edu/joukowsky/Petra/temple/temple.html)",
+      "[Petra Museum: Nabataean Life](https://www.petramuseum.jo/en-us/exhibitions/nabataean-life/)",
+      "[Benjamin D. Suchard, Arabian Archaeology and Epigraphy (2023): Nabataean Aramaic and pre-Islamic Arabic](https://onlinelibrary.wiley.com/doi/10.1111/aae.12234)",
+      "[Petra Museum: Waning of Petra](https://petramuseum.jo/en-us/exhibitions/waning-of-petra/)",
+      "[ACOR (2016): archaeology beneath the Temple of the Winged Lions](https://publications.acorjordan.org/2016/03/29/what-lies-beneath-new-insights-into-petras-temple-of-the-winged-lions/)",
+      "[ACOR: The Petra Papyri](https://acorjordan.org/the-petra-papyri/)",
+      "[Petra Museum: Revitalization of Petra](https://www.petramuseum.jo/en-us/exhibitions/revitalization-of-petra/)",
+      "[UNESCO: Cultural space of the Bedu in Petra and Wadi Rum](https://ich.unesco.org/en/RL/cultural-space-of-the-bedu-in-petra-and-wadi-rum-00122)",
+      "[Journal of Hydrology (2021): assessment of Petra’s Nabataean flood-control system](https://www.sciencedirect.com/science/article/pii/S0022169421006302)",
+      "[Brown University: Nabataean Corinthian capital fragment](https://sites.brown.edu/petraatjoukowsky/corinthian-capital-fragment/)"
+    ],
+    "source": {
+      "name": "UNESCO World Heritage Centre: Petra",
+      "url": "https://whc.unesco.org/en/list/326/"
+    },
+    "references": [
+      {
+        "name": "The Metropolitan Museum of Art: Nabataean Kingdom and Petra",
+        "url": "https://www.metmuseum.org/essays/nabataean-kingdom-and-petra"
+      },
+      {
+        "name": "Petra Museum: Foundations of Petra",
+        "url": "https://www.petramuseum.jo/en-us/exhibitions/foundations-of-petra/"
+      },
+      {
+        "name": "American Museum of Natural History: Nabataeans",
+        "url": "https://www.amnh.org/explore/ology/ology-cards/222-nabataeans"
+      },
+      {
+        "name": "Petra Museum: Aqua Kaleidoscope",
+        "url": "https://www.petramuseum.jo/en-us/exhibitions/aqua-kaleidoscope/"
+      },
+      {
+        "name": "Charles R. Ortloff, Cambridge Archaeological Journal (2005): Petra water supply and distribution",
+        "url": "https://doi.org/10.1017/S0959774305000053"
+      },
+      {
+        "name": "American Museum of Natural History: The Ancient City of Petra",
+        "url": "https://www.amnh.org/explore/ology/archaeology/the-ancient-city-of-petra2"
+      },
+      {
+        "name": "UNESCO World Heritage Centre: Petra",
+        "url": "https://whc.unesco.org/en/list/326/"
+      },
+      {
+        "name": "American Museum of Natural History: A Walk Through the Ruins of Petra",
+        "url": "https://www.amnh.org/explore/ology/archaeology/a-walk-through-the-ruins-of-petra"
+      },
+      {
+        "name": "PDTRA Visit Petra: Al Khazna, the Treasury",
+        "url": "https://visitpetra.jo/en/Location/2"
+      },
+      {
+        "name": "Rough Guides: The Treasury interior",
+        "url": "https://www.roughguides.com/jordan/petra/treasury/"
+      },
+      {
+        "name": "ACOR (17 November 2024): clarification of Treasury excavations",
+        "url": "https://acorjordan.org/exu-learn-more/"
+      },
+      {
+        "name": "University of St Andrews (15 October 2024): Treasury excavation announcement",
+        "url": "https://news.st-andrews.ac.uk/archive/st-andrews-researchers-make-historic-discovery-underneath-one-of-the-seven-wonders-of-the-world/"
+      },
+      {
+        "name": "Petra Museum: Nabataean Zenith",
+        "url": "https://www.petramuseum.jo/en-us/exhibitions/nabataean-zenith/"
+      },
+      {
+        "name": "PDTRA Visit Petra: Qasr al-Bint Temple Complex",
+        "url": "https://visitpetra.jo/en/Location/84"
+      },
+      {
+        "name": "PDTRA Visit Petra: The Theater",
+        "url": "https://visitpetra.jo/en/Location/8"
+      },
+      {
+        "name": "Brown University: The Petra Great Temple Tour",
+        "url": "https://webhelper.brown.edu/joukowsky/Petra/temple/temple.html"
+      },
+      {
+        "name": "Petra Museum: Nabataean Life",
+        "url": "https://www.petramuseum.jo/en-us/exhibitions/nabataean-life/"
+      },
+      {
+        "name": "Benjamin D. Suchard, Arabian Archaeology and Epigraphy (2023): Nabataean Aramaic and pre-Islamic Arabic",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/aae.12234"
+      },
+      {
+        "name": "Petra Museum: Waning of Petra",
+        "url": "https://petramuseum.jo/en-us/exhibitions/waning-of-petra/"
+      },
+      {
+        "name": "ACOR (2016): archaeology beneath the Temple of the Winged Lions",
+        "url": "https://publications.acorjordan.org/2016/03/29/what-lies-beneath-new-insights-into-petras-temple-of-the-winged-lions/"
+      },
+      {
+        "name": "ACOR: The Petra Papyri",
+        "url": "https://acorjordan.org/the-petra-papyri/"
+      },
+      {
+        "name": "Petra Museum: Revitalization of Petra",
+        "url": "https://www.petramuseum.jo/en-us/exhibitions/revitalization-of-petra/"
+      },
+      {
+        "name": "UNESCO: Cultural space of the Bedu in Petra and Wadi Rum",
+        "url": "https://ich.unesco.org/en/RL/cultural-space-of-the-bedu-in-petra-and-wadi-rum-00122"
+      },
+      {
+        "name": "Journal of Hydrology (2021): assessment of Petra’s Nabataean flood-control system",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022169421006302"
+      },
+      {
+        "name": "Brown University: Nabataean Corinthian capital fragment",
+        "url": "https://sites.brown.edu/petraatjoukowsky/corinthian-capital-fragment/"
+      }
+    ],
+    "readingTime": "18 min read"
+  },
+  {
     "id": "107",
     "slug": "gandhi-mandela-mlk-power-of-resistance",
     "title": "THE POWER OF RESISTANCE: HOW GANDHI, MANDELA AND MLK CHANGED HISTORY",
