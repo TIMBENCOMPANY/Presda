@@ -43,6 +43,19 @@ const articleHeroHighlightOverrides: Record<string, HeadlineHighlights> = {
 };
 
 const articleTables: Record<string, ArticleTableConfig> = {
+  "[[BRAIN_DRAIN_HEALTH_WORKFORCE_TABLE]]": {
+    caption: "Foreign-trained professionals as a share of each destination workforce. OECD International Migration Outlook 2025, latest observations within 2021-2023; Tables 5.3 and 5.4.",
+    headers: ["Destination", "Doctors trained abroad", "Nurses trained abroad"],
+    minWidthClass: "min-w-[580px]",
+    boldColumnIndex: 0,
+    rowKeyIndex: 0,
+    rows: [
+      ["Ireland", "43.4%", "51.8%"],
+      ["New Zealand", "42.4%", "33.1%"],
+      ["Switzerland", "40.3%", "26.6%"],
+      ["Australia", "31.4%", "17.9%"]
+    ]
+  },
   "[[BAJAU_DIVING_EVIDENCE_TABLE]]": {
     caption: "Measured working dives in the Philippines. The 2014 report includes the earlier 2011 sample; these are not independent cohorts. Depths describe observed work, not human limits.",
     headers: ["Report and sample", "Dive duration", "Observed depth", "Context"],
@@ -535,7 +548,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   const articleHeroHighlights = articleHeroHighlightOverrides[article.slug] ?? article.headlineHighlights;
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
-  const hasFullImageMobileHero = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces" || article.slug === "bajau-people-sea-nomads-diving";
+  const hasFullImageMobileHero = article.slug === "brain-to-voice-ai-speech-brain-computer-interfaces" || article.slug === "bajau-people-sea-nomads-diving" || article.slug === "brain-drain-why-skilled-workers-leave-home";
   const hasMobilePortrait = article.slug === "alzheimers-disease-brain-memory-loss"
     || article.slug === "history-of-perfume-scent-beauty-power-luxury"
     || article.slug === "pablo-escobar-medellin-cartel-wealth-rise-fall"

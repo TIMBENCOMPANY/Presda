@@ -54,6 +54,210 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "106",
+    "slug": "brain-drain-why-skilled-workers-leave-home",
+    "title": "BRAIN DRAIN: WHY BRILLIANT MINDS LEAVE HOME",
+    "seoTitle": "Brain Drain: Why Skilled Workers Leave Home | PRESDA",
+    "metaDescription": "Explore brain drain causes and effects, from doctors and tech talent to diaspora networks, with global case studies and carefully dated migration data.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "BRAIN DRAIN",
+      "gold": "LEAVE HOME"
+    },
+    "excerpt": "Behind skilled migration is a human decision about work, family and the future. From Ghana’s health workers to India’s technology diaspora, brain drain brings real losses, possible gains and difficult choices.",
+    "category": "Lifestyle",
+    "date": "2026-09-19",
+    "lastUpdated": "2026-09-19",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/brain-drain-sunset-departures-journeys-ahead.png",
+    "coverAlt": "Illustration of four professionals with luggage at an airport departure gate at sunset, representing the decision to work abroad",
+    "homepageImagePosition": "50% 35%",
+    "status": "published",
+    "tags": [
+      "Brain drain",
+      "Skilled migration",
+      "Talent migration",
+      "Highly skilled workers",
+      "Brain circulation",
+      "Work and life"
+    ],
+    "content": [
+      "An airport departure is the visible part of a much longer decision. Before the suitcase comes the job application, the conversation with a partner, the calculation of rent and school fees, and the question of who will look after a parent. Leaving can promise professional freedom while creating a private ache that no salary quite settles.",
+      "Brain drain is usually described from the country’s point of view: a hospital loses a doctor, a university loses a researcher, an engineering firm loses experience. From the person’s point of view, the same departure may mean finally being able to practise a profession properly, support a family or plan beyond the next crisis.",
+      "Both perspectives matter. People are entitled to build lives elsewhere. Communities also need functioning clinics, competent institutions and opportunities for the next generation. Understanding skilled migration means holding these realities together without turning migrants into villains or treating a degree as a measure of human worth.",
+      "Evidence reviewed September 19, 2026. Publication years and observation years are distinguished below. The supplied airport hero is an illustration, not a photograph documenting particular migrants or journeys.",
+      "## WHAT DOES BRAIN DRAIN MEAN?",
+      "Brain drain describes the loss of educated or experienced people through emigration, especially when their departure weakens essential services or productive capacity at home. Skilled migration is the movement itself. Whether it produces a lasting net loss depends on who leaves, what work they could have done locally, and what education, investment or knowledge flows follow. The World Bank’s migration framework emphasizes those circumstances rather than assuming every border crossing has the same effect. [World Development Report 2023](https://www.worldbank.org/en/publication/wdr2023).",
+      "A software developer joining a foreign company from home has not necessarily emigrated. A student abroad has not necessarily settled there permanently. A country can train doctors, receive foreign doctors and lose some of its own doctors at the same time. These distinctions are essential when discussing brain drain causes and effects.",
+      "## WHY BRILLIANT MINDS LEAVE HOME",
+      "The attraction of a better salary is easy to understand. Income can buy secure housing, care for relatives and relief from constant financial uncertainty. But the meaningful comparison is disposable income after taxes, housing, childcare, transport and professional licensing costs. A dramatic difference between nominal salaries is not automatically an equally dramatic improvement in everyday life.",
+      "Opportunity can matter as much as money. Consider an illustrative choice facing a researcher: a familiar community with uncertain laboratory funding, or an unfamiliar city with equipment, collaborators and a credible route to promotion. An engineer may be weighing whether there is a project on which to use a hard-earned specialization. A doctor may want manageable shifts and the supplies needed to treat patients safely.",
+      "There is also the household, not just the individual. A good offer for one partner can mean lost work for the other. A safer school environment can come with separation from grandparents. Visa dependence, discrimination and the cost of repeated travel belong in the same calculation as income. A decision that looks purely economic from outside may be about predictability, dignity or the freedom to make long-term plans.",
+      "Quality of life is therefore personal. Public safety, reliable services, time outside work and confidence in institutions can influence a decision, but no country ranking can choose for a family. Our guide to the [happiest countries in the world in 2026](/articles/happiest-countries-in-the-world-2026/) explores national well-being measures, which should not be confused with a guarantee of an individual migrant’s experience.",
+      "## WHERE TALENT MOVES: A MAP WITH DIFFERENT MEASURES",
+      "The UN estimates 304 million international migrants worldwide in 2024. This is a population stock encompassing different ages and reasons for moving, not a count of highly skilled workers. Separately, the ILO estimated 167.7 million international migrants in destination labour forces in 2022, including employed and unemployed people. Neither figure is an annual departure total or a global measure of brain drain. [UN migrant-stock dataset](https://www.un.org/development/desa/pd/content/international-migrant-stock); [ILO labour-force estimates](https://www.ilo.org/resource/news/international-migrants-are-vital-force-global-labour-market).",
+      "For health professionals, OECD birthplace data around 2020/21 identify India, Germany and China as leading origins of foreign-born doctors, and the Philippines, India and Poland for foreign-born nurses. The United States, United Kingdom and Germany are major receiving countries. These are accumulated workforce populations, not a ranking of recent departures. [OECD health migration chapter](https://www.oecd.org/en/publications/international-migration-outlook-2025_ae26c893-en/full-report/international-migration-of-health-professionals-to-oecd-countries_fea88ae4.html).",
+      "The broader ILO labour-force geography highlights Northern, Southern and Western Europe, Northern America and the Arab States. That helps explain why migration debates must include regional labour markets as well as famous transatlantic routes. It does not establish that every migrant in these regions has a university qualification. [ILO regional findings](https://www.ilo.org/resource/news/international-migrants-are-vital-force-global-labour-market).",
+      "A large origin country can send many professionals abroad while retaining a substantial domestic workforce. A smaller country can lose fewer people in absolute terms yet face a more severe shortage. A useful assessment asks about the proportion leaving, their specialties and the services available to the population that remains.",
+      "## DOCTORS AND NURSES: WHAT A CURRENT COMPARISON SHOWS",
+      "The following comparison uses the OECD’s 2025 report, Tables 5.3 and 5.4. Its latest-available observations fall within 2021-2023. “Foreign-trained” means the first professional qualification was obtained abroad, including nationals who studied overseas. These percentages describe destination workforces, not origin-country losses or annual arrivals. [Definitions and country tables](https://www.oecd.org/en/publications/international-migration-outlook-2025_ae26c893-en/full-report/international-migration-of-health-professionals-to-oecd-countries_fea88ae4.html).",
+      "[[BRAIN_DRAIN_HEALTH_WORKFORCE_TABLE]]",
+      "Doctors and nurses have separate workforce denominators, so their percentages must not be added. The shared reporting window also does not guarantee an identical observation date for every country. This is a comparison of international training dependence, not a league table of national training quality.",
+      "Birthplace answers a different question. WHO’s State of the World’s Nursing 2025 reports that approximately one in seven nurses worldwide was foreign-born, using 2023 workforce data. A foreign-born nurse may have trained in the country where they work. Substituting that measure for foreign-trained shares would make the comparison misleading. [WHO nursing report summary](https://www.who.int/news/item/12-05-2025-nursing-workforce-grows--but-inequities-threaten-global-health-goals).",
+      "Receiving countries also need their own sustainable training and retention policies. Recruiting from abroad can fill vacancies, but professional recognition can prevent qualified arrivals from using their skills. Ireland illustrates how receiving internationally trained doctors can coexist with the emigration of locally trained doctors. Migration is a network of movements rather than a simple division into countries that lose and countries that win. [OECD analysis of doctors’ migration](https://www.oecd.org/en/publications/health-at-a-glance-2025_8f9e3f98-en/full-report/international-migration-of-doctors_17ff3227.html).",
+      "### Africa: Ghana and the missing funded job",
+      "WHO’s April 2025 account of Ghana’s workforce dialogue describes a painful combination: qualified professionals unable to find employment, shortages in underserved areas and experienced specialists leaving. Fiscal constraints and the distribution of jobs are part of the problem. A country’s need for care does not automatically become a salaried position for a trained worker. [Ghana’s workforce challenges](https://www.afro.who.int/countries/ghana/news/ghana-charts-bold-new-path-health-workforce-transformation).",
+      "The broader picture is equally revealing. A WHO report released in 2026 estimated that 943,000 trained health workers were unemployed in the WHO African Region in 2024, despite persistent service gaps. This estimate concerns the WHO region, not every country on the African continent. Training more people alone cannot resolve a shortage when health systems cannot employ them. [WHO’s 2026 regional findings](https://www.afro.who.int/news/africas-health-workforce-expands-shortages-unemployment-and-migration-intensify-who-report).",
+      "For a nurse waiting for a funded post, an overseas offer may be an opportunity to work at all. For colleagues in an understaffed facility, another departure can make a difficult shift harder. Policy needs to address both experiences. Advances described in our [history and future of medicine](/articles/history-future-of-medicine/) still depend on people being available to deliver care.",
+      "## ENGINEERS, SCIENTISTS AND TECH TALENT NEED MORE THAN A PAY RISE",
+      "Research careers depend on institutions. UNESCO’s 2026 R&D release reports that research and development spending in 2023 equalled 2.55% of GDP in Europe and Northern America, compared with 0.38% in sub-Saharan Africa. These regional aggregates describe research investment, not salaries or emigration rates. They help explain unequal research environments, but do not by themselves prove why any individual moved. [UNESCO’s latest R&D release](https://www.uis.unesco.org/en/news/2026-rd-data-release).",
+      "A scientific career needs a chain of practical support: a laboratory that can maintain equipment, reliable procurement, skilled technicians, supervision and time to publish. An engineering career similarly depends on projects, standards, teams and clients. A talented person can have a strong qualification and still lack the setting in which to develop it.",
+      "International recruitment is central to major research systems. The U.S. National Science Foundation’s 2026 overview reports that foreign-born people made up 29% of the college-educated science and engineering workforce in 2023. This includes people with different citizenship and migration histories. It is not a count of temporary visa holders, nor of all workers in broadly defined STEM occupations. [NSF workforce evidence](https://ncses.nsf.gov/pubs/nsbsep20261/stem-talent-education-training-and-workforce-2).",
+      "For tech professionals, a team’s expertise, access to computing resources and the chance to build a product can be part of the attraction. The concentration of these resources also has strategic consequences, explored in our article on the [U.S.-China AI race](/articles/us-china-ai-race-control-powerful-technology/). Yet national competition should not obscure the ordinary career choices of the people doing the work.",
+      "### Asia: the Philippines and the possibility of brain gain",
+      "A 2024 study by Paolo Abarcar and Caroline Theoharides examined how U.S. visa policy affected Philippine nursing education and migration. It found that overseas opportunities stimulated training strongly enough to increase the domestic supply of licensed nurses. Its estimate was nine additional licensed nurses for each nurse who migrated. That is a result from a particular policy setting, not a universal exchange rate between emigration and education. [Primary study on Philippine nursing](https://www.mathematica.org/publications/medical-worker-migration-and-origin-country-human-capital).",
+      "The same study found falling licensure pass rates as training expanded. More graduates also do not automatically mean more funded hospital jobs or better rural coverage. The Philippine case shows why the possibility of brain gain deserves investigation, while providing no basis for assuming every country can solve shortages by encouraging departures. [Education response and its limitations](https://www.mathematica.org/publications/medical-worker-migration-and-origin-country-human-capital).",
+      "### Europe: Romania shows why retention is more than salary",
+      "The OECD’s 2025 Romanian health-system review describes medical migration to countries including Germany, Italy and France. Substantial public-sector pay increases appear to have helped stabilize outflows, but difficult working conditions, bureaucracy, equipment problems and heavy workloads remain concerns. The lesson is not that pay is irrelevant. Pay matters within a wider working environment. [Romania’s health workforce review](https://www.oecd.org/en/publications/oecd-reviews-of-health-systems-romania-2025_f52e4a98-en/full-report/the-resilience-and-sustainability-of-romania-s-healthcare-system_89b96253.html).",
+      "A retention programme becomes more credible when a professional can see how the next stage of a career will work: who decides promotions, whether a department can buy essential supplies and whether a manager responds to problems. Asking someone to stay without changing those conditions leaves the original decision largely intact.",
+      "### The Middle East: Lebanon and the ability to plan",
+      "The World Bank’s August 2026 Lebanon Economic Monitor describes renewed conflict disrupting an already fragile recovery. It warns that the potential departure of skilled workers could further damage productive capacity. That is a warning about a risk, not a measured 2026 total of emigrating professionals. Destruction, interrupted services and uncertainty make the migration question larger than a comparison of pay packets. [Lebanon’s latest economic assessment](https://www.worldbank.org/en/news/press-release/2026/08/21/renewed-conflict-derails-lebanon-s-fragile-economic-recovery).",
+      "For a household facing that kind of insecurity, the attraction of another country may be the ability to make ordinary plans. An employer’s salary offer cannot on its own compensate for doubts about whether a school, workplace or essential service will remain accessible.",
+      "### Latin America: Venezuelan qualifications across borders",
+      "ILO research published in January 2024 on Venezuelan migrants and refugees in Colombia and Brazil describes obstacles involving credential recognition, professional licensing and access to suitable work. Legal permission to work does not necessarily permit someone to practise their original profession. Language, weak local networks and discrimination can compound the problem. The displaced population is diverse and should not be described as uniformly highly skilled. [ILO findings from Colombia and Brazil](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@americas/@ro-lima/documents/publication/wcms_906738.pdf).",
+      "When an experienced professional cannot use their training, the result is often called brain waste. This is a failure to match skills with opportunity, not a judgment about the value of the work a person accepts to survive. Recognition systems need to protect professional standards while giving qualified newcomers a workable route back into their field.",
+      "## WHAT COUNTRIES LOSE WHEN EXPERIENCE LEAVES",
+      "The loss can reach beyond a vacant position. A senior clinician supervises junior colleagues. A researcher trains students and helps a laboratory win grants. An experienced engineer checks work that others are still learning to assess. Replacing a job title is not necessarily the same as replacing these relationships.",
+      "Evidence on origin-country effects is mixed and depends on context. A World Bank review published in 2025 emphasizes differences across occupations and the ability of education systems to respond. It also notes that much of the evidence comes from larger, middle-income countries. Results from India or the Philippines should not be assumed to describe a small, fragile state losing a scarce specialist. [Review of skilled-emigration research](https://blogs.worldbank.org/en/impactevaluations/how-does-high-skilled-emigration-affect-countries-of-origin--a-n).",
+      "Publicly supported education raises a real fiscal question: who finances training, and where are the eventual tax revenues collected? But the graduate’s lifetime contribution cannot be inferred from a tuition bill alone. An honest assessment also needs the alternative: would that person have had suitable employment at home, and what connections or resources might now flow back?",
+      "## REMITTANCES AND DIASPORA CONNECTIONS: REAL GAINS, DIFFERENT BENEFITS",
+      "World Bank World Development Indicators recorded approximately US$150.7 billion in personal remittances received by India in 2025, in current U.S. dollars, using the database’s July 2026 update. This broad measure includes personal transfers and employee compensation. It is not limited to highly skilled migrants and cannot be treated as the financial return on brain drain. [World Bank remittance series](https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT?locations=IN).",
+      "For a household, money from abroad can help pay for education, housing or care. Those benefits are meaningful. They are also different from having a public hospital staffed or a university department functioning. Family income and public-service capacity should be assessed separately rather than assumed to cancel each other out.",
+      "India’s technology diaspora illustrates a second channel. The World Bank’s 2025 discussion of South Asian networks describes how people abroad can connect firms to knowledge, investment and international markets. Someone need not move back permanently to help a business find a partner or a researcher find a collaborator. Institutional conditions at home still shape whether those connections become productive activity. [Diaspora networks and economic opportunity](https://blogs.worldbank.org/en/endpovertyinsouthasia/branching-out--the-economic-potential-of-south-asians-abroad).",
+      "A useful policy question is therefore practical: can people abroad collaborate easily, invest transparently and share expertise with institutions that can use it? Celebrating a successful expatriate is much easier than building that connection into an opportunity for a local team.",
+      "## RETURN MIGRATION AND BRAIN CIRCULATION",
+      "Brain gain describes an increase in skills available to an economy, including through immigration or expanded training. Brain circulation describes repeated movement and exchange, such as study abroad followed by return, temporary professional visits or continuing cross-border collaboration. Neither outcome is guaranteed by an initial departure.",
+      "Romania’s 2026 OECD economic survey discusses return migration alongside persistent emigration. It stresses employment opportunities and public services, as well as practical support such as job matching and recognition of qualifications. Return is a household transition too: pensions, housing, a partner’s career and children’s needs can affect whether the move lasts. [OECD’s 2026 assessment of return migration](https://www.oecd.org/en/publications/oecd-economic-surveys-romania-2026_4844067e-en/full-report/promoting-higher-workforce-participation-and-healthier-working-lives_f58d6551.html).",
+      "A return flight is therefore a weak success measure on its own. More useful questions are whether the person can use new expertise, whether colleagues benefit and whether the arrangement survives beyond an introductory grant. A short research visit can be valuable, while a permanent return into an unusable post can disappoint everyone involved.",
+      "## CAN GOVERNMENTS REALISTICALLY CONVINCE TALENT TO STAY?",
+      "Yes, but the offer has to be credible. Fund actual jobs where services are needed. Pay reliably. Make promotion and recruitment fair. Give professionals the equipment and autonomy their work requires. Provide safe workplaces and functioning public services. These are difficult institutional commitments, which is why a publicity campaign about national loyalty cannot substitute for them.",
+      "Retention should also be specific. A rural clinician may need housing and a workable rota. A scientist may need predictable grants and procurement. A returning engineer may need recognition of overseas experience. Treating all highly skilled workers as if they face the same obstacle risks funding incentives that miss the reason people leave.",
+      "Destination countries have responsibilities too. The World Bank’s 2026 note on Global Skill Partnerships proposes linking managed mobility with investment in origin-country training. The aim is to expand capacity for people who stay as well as those who move, rather than merely transfer an existing pool of workers. Results depend on funding, training quality and real employment demand; a partnership agreement is not proof of a net gain. [Global Skill Partnerships policy note](https://thedocs.worldbank.org/en/doc/9e71419ca23a69c4b36816c06a1f85e9-0050012026/original/Ideas-for-Impact-Global-Skills.pdf).",
+      "The World Bank’s migration framework also places value on migrants’ rights and the match between skills and jobs. Restricting a professional’s freedom to leave can impose serious personal costs without repairing the workplace that made departure attractive. Cooperation should make mobility safer and its benefits more widely shared. [Migration, rights and development](https://www.worldbank.org/en/publication/wdr2023).",
+      "The most persuasive reason to stay is a future that works. The most persuasive reason to return is an opportunity to build something worthwhile without surrendering the security gained abroad. People can care deeply about the country they leave. A serious response to brain drain begins by taking that attachment, and their reasons for leaving, equally seriously.",
+      "## FAQ",
+      "### What is brain drain in simple terms?",
+      "Brain drain is the loss of educated or experienced people through emigration, particularly when it weakens essential services or economic capacity in the country they leave.",
+      "### Is skilled migration always bad for the home country?",
+      "No. It can bring remittances, investment, knowledge and incentives for education. The balance depends on local shortages, employment opportunities, training capacity and the connections migrants maintain.",
+      "### Is salary the main cause of brain drain?",
+      "Pay can matter greatly, but working conditions, career progression, safety, research resources, public services and family needs can also shape the decision. There is no universal ranking of causes.",
+      "### What is the difference between brain drain and brain circulation?",
+      "Brain drain emphasizes the loss of skills. Brain circulation emphasizes movement and exchange over time, including return migration and professional collaboration across borders. A departure does not automatically produce either a permanent loss or a later gain.",
+      "## SOURCES AND DATA NOTES",
+      "This article uses the latest releases located as of September 19, 2026, while retaining older primary studies for specific historical cases. A 2026 publication may report 2023 or 2024 observations. Population stocks, workforce shares, remittance flows and research expenditure measure different things and are not combined into a global brain-drain score. The healthcare comparison uses one OECD publication and its latest-available 2021-2023 reporting window. Country cases illustrate mechanisms rather than provide a universal causal estimate.",
+      "The India remittance figure is rounded from the World Bank WDI indicator BX.TRF.PWKR.CD.DT, 2025 observation, database update July 13, 2026. Later revisions may change that value. The Philippines nursing estimate belongs to the 2024 study’s policy setting. Lebanon’s 2026 assessment identifies a risk of further skilled departure, not an observed departure count.",
+      "[World Bank, World Development Report 2023: Migrants, Refugees, and Societies](https://www.worldbank.org/en/publication/wdr2023).",
+      "[UN DESA: International Migrant Stock 2024](https://www.un.org/development/desa/pd/content/international-migrant-stock).",
+      "[ILO (2024 release): international migrants in the labour force, 2022 estimates](https://www.ilo.org/resource/news/international-migrants-are-vital-force-global-labour-market).",
+      "[OECD, International Migration Outlook 2025: health professionals, Tables 5.3 and 5.4](https://www.oecd.org/en/publications/international-migration-outlook-2025_ae26c893-en/full-report/international-migration-of-health-professionals-to-oecd-countries_fea88ae4.html).",
+      "[OECD, Health at a Glance 2025: international migration of doctors](https://www.oecd.org/en/publications/health-at-a-glance-2025_8f9e3f98-en/full-report/international-migration-of-doctors_17ff3227.html).",
+      "[WHO (2025): State of the World’s Nursing, 2023 workforce data](https://www.who.int/news/item/12-05-2025-nursing-workforce-grows--but-inequities-threaten-global-health-goals).",
+      "[WHO Africa (2026): workforce growth, unemployment and migration, 2024 data](https://www.afro.who.int/news/africas-health-workforce-expands-shortages-unemployment-and-migration-intensify-who-report).",
+      "[WHO Ghana (April 2025): national health workforce dialogue](https://www.afro.who.int/countries/ghana/news/ghana-charts-bold-new-path-health-workforce-transformation).",
+      "[UNESCO Institute for Statistics: 2026 R&D data release, 2023 observations](https://www.uis.unesco.org/en/news/2026-rd-data-release).",
+      "[NSF NCSES, The State of U.S. Science and Engineering 2026: STEM talent](https://ncses.nsf.gov/pubs/nsbsep20261/stem-talent-education-training-and-workforce-2).",
+      "[OECD Reviews of Health Systems: Romania 2025, resilience and sustainability](https://www.oecd.org/en/publications/oecd-reviews-of-health-systems-romania-2025_f52e4a98-en/full-report/the-resilience-and-sustainability-of-romania-s-healthcare-system_89b96253.html).",
+      "[OECD Economic Surveys: Romania 2026, workforce participation and return migration](https://www.oecd.org/en/publications/oecd-economic-surveys-romania-2026_4844067e-en/full-report/promoting-higher-workforce-participation-and-healthier-working-lives_f58d6551.html).",
+      "[World Bank (August 2026): Lebanon Economic Monitor and renewed conflict](https://www.worldbank.org/en/news/press-release/2026/08/21/renewed-conflict-derails-lebanon-s-fragile-economic-recovery).",
+      "[ILO (January 2024): Venezuelan migrant and refugee workers in Colombia and Brazil](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@americas/@ro-lima/documents/publication/wcms_906738.pdf).",
+      "[Abarcar and Theoharides (2024): Medical Worker Migration and Origin-Country Human Capital](https://www.mathematica.org/publications/medical-worker-migration-and-origin-country-human-capital).",
+      "[World Bank (May 2025): review of evidence on highly skilled emigration and origin countries](https://blogs.worldbank.org/en/impactevaluations/how-does-high-skilled-emigration-affect-countries-of-origin--a-n).",
+      "[World Bank (June 2025): South Asian diasporas, investment and knowledge networks](https://blogs.worldbank.org/en/endpovertyinsouthasia/branching-out--the-economic-potential-of-south-asians-abroad).",
+      "[World Bank WDI: personal remittances received, India, current US dollars](https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT?locations=IN).",
+      "[World Bank (2026): Ideas for Impact, Global Skill Partnerships](https://thedocs.worldbank.org/en/doc/9e71419ca23a69c4b36816c06a1f85e9-0050012026/original/Ideas-for-Impact-Global-Skills.pdf)."
+    ],
+    "references": [
+      {
+        "name": "World Bank, World Development Report 2023: Migrants, Refugees, and Societies",
+        "url": "https://www.worldbank.org/en/publication/wdr2023"
+      },
+      {
+        "name": "UN DESA: International Migrant Stock 2024",
+        "url": "https://www.un.org/development/desa/pd/content/international-migrant-stock"
+      },
+      {
+        "name": "ILO (2024 release): international migrants in the labour force, 2022 estimates",
+        "url": "https://www.ilo.org/resource/news/international-migrants-are-vital-force-global-labour-market"
+      },
+      {
+        "name": "OECD, International Migration Outlook 2025: health professionals, Tables 5.3 and 5.4",
+        "url": "https://www.oecd.org/en/publications/international-migration-outlook-2025_ae26c893-en/full-report/international-migration-of-health-professionals-to-oecd-countries_fea88ae4.html"
+      },
+      {
+        "name": "OECD, Health at a Glance 2025: international migration of doctors",
+        "url": "https://www.oecd.org/en/publications/health-at-a-glance-2025_8f9e3f98-en/full-report/international-migration-of-doctors_17ff3227.html"
+      },
+      {
+        "name": "WHO (2025): State of the World’s Nursing, 2023 workforce data",
+        "url": "https://www.who.int/news/item/12-05-2025-nursing-workforce-grows--but-inequities-threaten-global-health-goals"
+      },
+      {
+        "name": "WHO Africa (2026): workforce growth, unemployment and migration, 2024 data",
+        "url": "https://www.afro.who.int/news/africas-health-workforce-expands-shortages-unemployment-and-migration-intensify-who-report"
+      },
+      {
+        "name": "WHO Ghana (April 2025): national health workforce dialogue",
+        "url": "https://www.afro.who.int/countries/ghana/news/ghana-charts-bold-new-path-health-workforce-transformation"
+      },
+      {
+        "name": "UNESCO Institute for Statistics: 2026 R&D data release, 2023 observations",
+        "url": "https://www.uis.unesco.org/en/news/2026-rd-data-release"
+      },
+      {
+        "name": "NSF NCSES, The State of U.S. Science and Engineering 2026: STEM talent",
+        "url": "https://ncses.nsf.gov/pubs/nsbsep20261/stem-talent-education-training-and-workforce-2"
+      },
+      {
+        "name": "OECD Reviews of Health Systems: Romania 2025, resilience and sustainability",
+        "url": "https://www.oecd.org/en/publications/oecd-reviews-of-health-systems-romania-2025_f52e4a98-en/full-report/the-resilience-and-sustainability-of-romania-s-healthcare-system_89b96253.html"
+      },
+      {
+        "name": "OECD Economic Surveys: Romania 2026, workforce participation and return migration",
+        "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-romania-2026_4844067e-en/full-report/promoting-higher-workforce-participation-and-healthier-working-lives_f58d6551.html"
+      },
+      {
+        "name": "World Bank (August 2026): Lebanon Economic Monitor and renewed conflict",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/08/21/renewed-conflict-derails-lebanon-s-fragile-economic-recovery"
+      },
+      {
+        "name": "ILO (January 2024): Venezuelan migrant and refugee workers in Colombia and Brazil",
+        "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@americas/@ro-lima/documents/publication/wcms_906738.pdf"
+      },
+      {
+        "name": "Abarcar and Theoharides (2024): Medical Worker Migration and Origin-Country Human Capital",
+        "url": "https://www.mathematica.org/publications/medical-worker-migration-and-origin-country-human-capital"
+      },
+      {
+        "name": "World Bank (May 2025): review of evidence on highly skilled emigration and origin countries",
+        "url": "https://blogs.worldbank.org/en/impactevaluations/how-does-high-skilled-emigration-affect-countries-of-origin--a-n"
+      },
+      {
+        "name": "World Bank (June 2025): South Asian diasporas, investment and knowledge networks",
+        "url": "https://blogs.worldbank.org/en/endpovertyinsouthasia/branching-out--the-economic-potential-of-south-asians-abroad"
+      },
+      {
+        "name": "World Bank WDI: personal remittances received, India, current US dollars",
+        "url": "https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT?locations=IN"
+      },
+      {
+        "name": "World Bank (2026): Ideas for Impact, Global Skill Partnerships",
+        "url": "https://thedocs.worldbank.org/en/doc/9e71419ca23a69c4b36816c06a1f85e9-0050012026/original/Ideas-for-Impact-Global-Skills.pdf"
+      }
+    ],
+    "readingTime": "16 min read"
+  },
+  {
     "id": "105",
     "slug": "bajau-people-sea-nomads-diving",
     "title": "THE BAJAU: THE PEOPLE WHO LIVE UNDERWATER",
