@@ -54,6 +54,224 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "112",
+    "slug": "pregnancy-cravings-strange-foods-science",
+    "title": "PREGNANCY CRAVINGS: WHY DOES THE BODY SUDDENLY WANT STRANGE FOODS?",
+    "seoTitle": "Pregnancy Cravings: Why the Body Wants Strange Foods",
+    "metaDescription": "Why do pregnancy cravings happen? Explore food aversions, hormones, culture and pica, what cravings mean, and when to seek medical advice during pregnancy.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "PREGNANCY CRAVINGS",
+      "gold": "STRANGE FOODS"
+    },
+    "excerpt": "From sudden food aversions to pickles and ice cream, the science behind pregnancy cravings is more complex than a message from the baby. Here is what the evidence shows.",
+    "category": "Science",
+    "date": "2026-09-20",
+    "lastUpdated": "2026-09-20",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/pregnace-cravings-weird-strange-food-night-pregnant-women.png",
+    "coverAlt": "Artistic illustration of a pregnant woman holding a pickle and ice cream beside an open refrigerator at night",
+    "homepageImagePosition": "60% 45%",
+    "content": [
+      "At an ordinary time of day, an ordinary food can become unusually important. A crisp apple, a salty cracker or something sharply sour suddenly feels like the only thing worth eating. Meanwhile, the smell of a favourite coffee may become intolerable. Pregnancy can make appetite feel unfamiliar even when the foods themselves are not.",
+      "Pregnancy cravings are strong desires for particular foods. They are real experiences, but their meaning is less straightforward than the familiar explanation that the baby is ordering what it needs. Research points to a combination of changing physical sensations, nausea, reward, personal experience and cultural expectations. No single mechanism explains every craving, and an unusual combination is not a nutritional diagnosis.",
+      "The most useful distinction is between wanting an ordinary food, being unable to tolerate enough food or fluid, and wanting substances that are not food. These situations call for different responses. A craving for ice cream is not equivalent to repeatedly wanting to eat soil.",
+      "## WHAT ARE PREGNANCY CRAVINGS, AND WHEN DO THEY START?",
+      "Hunger is a general motivation to eat. A craving is more specific: something else may be available, yet it does not seem to satisfy the desire. A food aversion is the opposite experience, when a food becomes unpleasant or difficult to face. Cravings and aversions can occur together.",
+      "A widely cited 2014 review by Natalia Orloff and Julia Hormes describes cravings as often emerging by the end of the first trimester, with many reports suggesting a peak in the second trimester and a later decline. This is a pattern in the literature, not a timetable that every pregnancy follows. The review also stresses how incomplete the evidence is for the popular explanations. [Orloff and Hormes (2014): Pickles and ice cream! Food cravings in pregnancy](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full)",
+      "The timing of nausea should not be mistaken for a craving calendar. ACOG says pregnancy nausea and vomiting usually begin before nine weeks and can happen at any time of day. Wanting a tolerable food while feeling sick is not necessarily the same phenomenon as intensely wanting a food while otherwise feeling well. [ACOG: Morning sickness, nausea and vomiting of pregnancy](https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy)",
+      "## HOW COMMON ARE THEY? WHY ONE PERCENTAGE IS MISLEADING",
+      "In a Belfast cohort reported by Hill and colleagues in 2016, 635 of 1,639 women, or 39%, reported at least one food craving when questioned at about 29 weeks about their pregnancy. Sweet foods, fruit and dairy products were prominent. This was a particular study population, largely White, rather than a worldwide estimate. [Hill and colleagues (2016): Nutritional and clinical associations of food cravings in pregnancy](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/)",
+      "The number matters partly because it is lower than some widely repeated claims. The 2014 review cites older US estimates ranging from 50% to 90%. Those figures do not form a current global prevalence estimate. Questions, definitions, recruitment and the point in pregnancy at which someone is asked can change the answer. [Orloff and Hormes (2014): Pickles and ice cream! Food cravings in pregnancy](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full)",
+      "A careful account therefore says that pregnancy food cravings are common, while their measured frequency varies. It should not imply that everyone has them, that a person without them is missing a necessary stage, or that a social-media collection of spectacular cravings represents ordinary pregnancy.",
+      "## HORMONES, TASTE AND SMELL: A MORE COMPLICATED STORY",
+      "A metallic taste, new dislikes and sensitivity to cooking smells are recognised pregnancy experiences in NHS information. But noticing a smell more, disliking it more and detecting a lower concentration of it are different things. A smell can become intensely bothersome without the nose becoming better at detecting every odour. [NHS: Signs and symptoms of pregnancy](https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/)",
+      "A 2022 systematic review of olfaction included 13 studies, with nine contributing to meta-analysis, covering 523 pregnant participants and 365 controls overall. It found no significant overall difference in odour detection thresholds or discrimination, while pregnant participants performed worse on odour identification. The studies did not establish a general pregnancy “super-nose.” [Albaugh and colleagues (2022): Olfaction in pregnancy, systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/36469055/)",
+      "This does not make someone’s newly unbearable kitchen smell imaginary. Identification tests, detection tests and day-to-day intolerance ask different questions. The review’s limited and varied evidence also cannot rule out individual changes. It is a reason to describe the experience precisely rather than turn it into an exaggerated biological rule.",
+      "Hormonal explanations have stronger evidence for some pregnancy symptoms than for particular food choices. Research published online in Nature in 2023 connected the hormone GDF15, largely originating from the fetal-placental unit during pregnancy, with maternal nausea and vomiting. It combined human and experimental evidence and highlighted the importance of maternal sensitivity and prior exposure. [Fejzo and colleagues (online 2023): GDF15 linked to maternal risk of nausea and vomiting during pregnancy](https://www.nature.com/articles/s41586-023-06921-9)",
+      "That is an important advance in understanding pregnancy sickness. It does not show that GDF15 orders pickles, that estrogen explains every desire for chocolate, or that a particular craving reveals a particular hormone level. Moving from a mechanism for nausea to an explanation for a chosen food requires additional evidence.",
+      "Smell also acquires meaning through experience. A familiar scent can evoke pleasure in one setting and discomfort in another. PRESDA’s [history of perfume and scent](/articles/history-of-perfume-scent-beauty-power-luxury/) explores that wider relationship between sensation and meaning; pregnancy research still has to establish its own specific mechanisms.",
+      "## NAUSEA, APPETITE AND FOOD AVERSIONS",
+      "When many foods feel unpleasant, the few acceptable ones can dominate eating. Someone who cannot face a hot meal may find cold fruit manageable. Someone nauseated by rich cooking smells may prefer plain toast. This is a practical interpretation of restricted choices, not proof that all cravings are caused by nausea.",
+      "The NHS suggests small, frequent meals, plain foods and cold foods when the smell of hot meals makes sickness worse. Sipping fluids may be easier than drinking a large amount at once. These measures are options for tolerability, not a requirement to manage severe illness without treatment. [NHS: Vomiting and morning sickness](https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/)",
+      "Aversions can also make an otherwise useful food difficult to eat. The aim is to find tolerable ways to meet nutritional needs rather than force one supposedly essential dish. A clinician or dietitian can help if the range of foods becomes very narrow or symptoms make eating difficult. Pregnancy nutrition concerns the overall pattern and individual needs, not success at eating every recommended food on every day. [NIH Office of Dietary Supplements: Pregnancy, health professional fact sheet](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/) [NHS: Have a healthy diet in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/)",
+      "Coffee offers a familiar example of a food whose appeal is personal and changeable. Its place in daily life, explored in [PRESDA’s history of coffee](/articles/real-history-of-coffee/), does not make drinking it compulsory. A new dislike can simply be accommodated, while anyone continuing to drink it should consider total caffeine intake.",
+      "## SWEET, SALTY, SOUR: DOES REWARD HELP EXPLAIN THE URGE?",
+      "The experience of wanting a food involves more than the tongue. Motivation and reward help make one option feel especially desirable. In a 2022 Nature Metabolism study, researchers linked craving-like behaviour in pregnant mice to dopamine-related circuits in the nucleus accumbens. This gives researchers a mechanism to investigate, but mice cannot report a human craving, and the experiment does not establish why a pregnant person wants one specific meal. [Haddad-Tóvolli and colleagues (2022): Food craving-like episodes and dopamine circuits in pregnant mice](https://www.nature.com/articles/s42255-022-00557-1)",
+      "Human experience also includes moods, routines and food cues. A 2020 qualitative study used eight focus groups involving 68 pregnant women receiving care at UNC Chapel Hill. Participants described how cravings felt, what seemed to trigger them and how they managed them. Such interviews reveal meanings and experiences that a nutrient table misses, but they cannot prove the causes of cravings or establish which coping strategy works best. [Blau and colleagues (2020): Women’s experience and understanding of food cravings in pregnancy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/)",
+      "An observational study published in 2021 associated poorer mental health and sleep quality with greater self-reported reward-related eating during pregnancy and postpartum. Association does not establish that stress or poor sleep causes a particular craving. It does suggest that appetite deserves attention within the person’s wider circumstances, rather than being treated as an isolated test of willpower. [Observational cohort study (2021): Mental health, sleep quality and reward-related eating during pregnancy and postpartum](https://pmc.ncbi.nlm.nih.gov/articles/PMC8088672/)",
+      "There is no validated translation key in which sweet means one deficiency, salty another and sour a third. Nor is there a reliable scientific explanation for every strange food combination. A preference can be striking without being a coded message that medicine knows how to decipher.",
+      "## DOES YOUR BODY REALLY KNOW WHAT THE BABY NEEDS?",
+      "Pregnancy increases requirements for several nutrients. That biological fact does not establish that cravings identify what is missing. NIH guidance describes specific nutritional needs and the roles of diet and supplementation; it does not treat a desire for one food as a diagnostic test. [NIH Office of Dietary Supplements: Pregnancy, health professional fact sheet](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/)",
+      "Northern Sydney Local Health District’s pregnancy nutrition guidance explicitly challenges the idea that cravings show what the baby needs. A desire for chocolate cannot tell a clinician whether magnesium intake is adequate, and wanting a salty snack cannot measure sodium requirements. The responsible next step for a suspected deficiency is assessment, not reading the craving as a laboratory result. [Northern Sydney Local Health District (2016): Healthy eating during pregnancy, facts and myths](https://www.nslhd.health.nsw.gov.au/HealthPromotion/documents/142410-GHS-Fact-Sheet-Healthy-Eating-During-Pregnancy-online.pdf)",
+      "The Belfast study examined reported cravings alongside dietary intake and clinical measures. Its design is useful for exploring associations, but it cannot demonstrate a nutrient-seeking mechanism. A person might eat more of a nutrient because the craved food contains it; that alone would not establish that a deficiency caused the desire. [Hill and colleagues (2016): Nutritional and clinical associations of food cravings in pregnancy](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/)",
+      "Practical nutrition advice should therefore stand independently of cravings. Follow locally recommended prenatal supplementation and any individual prescription. For example, the NHS recommends folic acid and vitamin D in pregnancy guidance and advises iron treatment when assessment indicates it. Do not add high-dose supplements merely because an online chart assigns a nutrient to your preferred snack. [NHS: Vitamins, supplements and nutrition in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/)",
+      "Pica is an important qualification to this discussion. Some non-food eating is associated with low iron or other nutritional problems. That association deserves medical attention, but it still does not mean that every unusual desire is an accurate instruction from the body.",
+      "## WHY CRAVINGS DIFFER ACROSS CULTURES",
+      "The classic pickles-and-ice-cream story is culturally familiar, not a universal pregnancy menu. In research published in 2009 from two health facilities in Dar es Salaam, Tanzania, participants reported foods including meat, mangoes, yoghurt, oranges and plantain. The sample included pregnant and lactating women and should not be treated as representative of an entire country. [Nyaruhucha (2009): Food cravings, aversions and pica among pregnant women in Dar es Salaam](https://pubmed.ncbi.nlm.nih.gov/19445102/)",
+      "Young and Pike’s 2012 biocultural work on pastoral women in East Africa places cravings and aversions within food access, social relationships and local circumstances. What someone wants, what can be obtained and what others consider appropriate are not necessarily the same. A preference exists within a food environment. [Young and Pike (2012): A biocultural framework for maternal cravings and aversions in East Africa](https://experts.arizona.edu/en/publications/a-biocultural-framework-for-examining-maternal-cravings-and-avers/)",
+      "This makes culture part of an explanation without making the experience unreal. People encounter different ingredients, learn different associations and have different opportunities to satisfy a desire. Family stories can also supply a language for describing an unfamiliar sensation. The interaction between these influences and pregnancy biology remains an active question.",
+      "Strange pregnancy cravings attract attention because they violate the observer’s expectations. A sour fruit with salt may seem unusual in one household and ordinary in another. Combining familiar tastes is not, by itself, evidence of illness. Whether the ingredients and quantities are safe is a more useful question than whether the combination sounds appealing to somebody else.",
+      "## PICA IN PREGNANCY: ICE, CLAY, SOIL AND OTHER NON-FOODS",
+      "Pica refers to persistent eating of substances that are not ordinarily food, such as soil, clay or paper. Repeated ice eating is often discussed under pica and called pagophagia. A craving alone is not enough to establish a diagnosis. MedlinePlus describes a persistent pattern lasting at least a month as part of diagnosis, but someone who wants or has eaten a potentially harmful substance should not wait a month before seeking advice. [MedlinePlus Medical Encyclopedia: Pica](https://medlineplus.gov/ency/article/001538.htm)",
+      "A meta-analysis published in a 2015 journal issue combined 43 studies with 6,407 people reporting pica and 10,277 controls. Pica was associated with anaemia and lower measures of some micronutrients. The pooled populations included children, pregnant women and other adults, so its findings are not a pregnancy-only prevalence estimate. The analysis could not settle whether deficiency leads to pica, pica contributes to deficiency, or other factors contribute to both. [Miao and colleagues (2015): A meta-analysis of pica and micronutrient status](https://pubmed.ncbi.nlm.nih.gov/25156147/)",
+      "Iron deserves particular attention because pregnancy increases iron requirements and iron deficiency is a recognised association with pica. But neither a craving nor its absence is a substitute for assessment. A clinician can consider symptoms, dietary history and appropriate blood testing, then recommend treatment based on the findings. Taking extra iron without guidance is not a safe diagnostic experiment. [NIH Office of Dietary Supplements: Iron, health professional fact sheet](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/)",
+      "The substance matters. Soil and clay can expose someone to contaminants or parasites; some non-food substances can cause poisoning or intestinal blockage. MedlinePlus advises medical evaluation rather than simply treating the behaviour as a peculiar preference. An urge to eat ice also deserves discussion, even though its hazards differ from swallowing paint or soil. [MedlinePlus Medical Encyclopedia: Pica](https://medlineplus.gov/ency/article/001538.htm)",
+      "A useful approach is to tell the maternity team plainly what is being craved or eaten, how often and in what amount. Shame makes that conversation harder; it does not make the information less medically relevant.",
+      "## CAN CRAVINGS REVEAL THE BABY’S SEX OR LEAVE A BIRTHMARK?",
+      "Sweet foods predicting a girl and salty foods predicting a boy are pregnancy folklore, not reliable tests. Tommy’s identifies cravings-based sex prediction as a myth. A correct guess does not validate the rule: a family can remember the apparent successes and forget the contradictory pregnancies. [Tommy’s: Ten pregnancy myths](https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths)",
+      "The belief that ignoring a craving can mark the baby is also unsupported. The American Academy of Dermatology explicitly states that birthmarks are not caused by an unsatisfied pregnancy craving. Birthmarks involve different kinds of changes in skin pigment or blood vessels, and their causes vary. Refusing a particular snack is not a known cause. [American Academy of Dermatology: Birthmarks, causes](https://www.aad.org/public/diseases/a-z/birthmarks-causes)",
+      "These stories can be affectionate traditions, but they become harmful when they create guilt or pressure someone to eat something unsafe. A craving can be acknowledged without obeying it, predicting a child’s sex from it or assigning responsibility for a birthmark.",
+      "## MANAGING CRAVINGS WITHOUT MAKING FOOD A BATTLE",
+      "Begin with a varied eating pattern that is feasible for your circumstances. NHS advice emphasises different food groups and balance across time rather than a perfect plate at every meal. An enjoyable snack can fit into that pattern. Persistent restriction and guilt are not necessary responses to wanting something sweet. [NHS: Have a healthy diet in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/)",
+      "Consider what is tolerable and practical. Keeping an acceptable snack available or choosing a smaller serving may be useful personal strategies. The UNC interviews describe several ways women responded to cravings, but they do not prove a universal solution. The objective is a workable routine, not eliminating every desire. [Blau and colleagues (2020): Women’s experience and understanding of food cravings in pregnancy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/)",
+      "Apply ordinary pregnancy food-safety guidance to the ingredients, whatever the combination. NHS guidance permits pasteurised milk products, including ice cream, but advises avoiding foods such as raw meat, raw shellfish and unpasteurised milk. Wash produce carefully and follow storage instructions. A craving does not make an unsafe ingredient safe. [NHS: Foods to avoid in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/)",
+      "For caffeine, NHS guidance sets a maximum of 200 mg a day during pregnancy, counting all sources rather than coffee alone. It also advises avoiding alcohol. Food guidance can differ between countries and individual conditions can require additional advice, so follow the recommendations of your own maternity team. [NHS: Foods to avoid in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/)",
+      "If nausea or dietary restrictions make this difficult, seek help with substitutions instead of attempting to solve everything through supplements. This is part of evidence-based care: separating a plausible story from an effective response, a distinction also explored in [PRESDA’s history and future of medicine](/articles/history-future-of-medicine/).",
+      "## WHEN TO SEEK MEDICAL ADVICE",
+      "Contact your midwife or clinician about non-food cravings, repeated ice eating, a severely restricted diet or cravings that cause significant distress. Describe the behaviour directly. The purpose is to assess nutritional and other health concerns, not to judge whether the preference is socially acceptable. [MedlinePlus Medical Encyclopedia: Pica](https://medlineplus.gov/ency/article/001538.htm) [NIH Office of Dietary Supplements: Pregnancy, health professional fact sheet](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/)",
+      "Seek prompt medical advice when vomiting prevents adequate eating or drinking, or when there are signs such as very dark urine, reduced urination, dizziness, faintness or weight loss. Severe pregnancy sickness can cause dehydration and may need medication or hospital treatment. It should not be dismissed as ordinary cravings or a failure to choose the right food. [NHS: Vomiting and morning sickness](https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/)",
+      "If someone has swallowed a potentially poisonous substance, seek immediate advice from the local poison service or emergency medical service, even if symptoms have not appeared. Do not induce vomiting. This is different from arranging a routine discussion about a harmless food preference. [NHS: Poisoning](https://www.nhs.uk/conditions/poisoning/)",
+      "## WHAT SCIENTISTS STILL DO NOT KNOW",
+      "The biggest uncertainty is how the pieces fit together. Hormones, nausea, learned food preferences and reward processes are plausible contributors, but a list of contributors is not a complete explanation. Researchers still need better ways to distinguish a craving from hunger, aversion-driven food selection and an ordinary preference that becomes more noticeable during pregnancy.",
+      "Much of the human evidence relies on what people report, sometimes after the relevant experience. Laboratory measures of smell do not capture a whole kitchen, and a mouse experiment cannot reproduce the social meaning of a family meal. Future research needs to connect repeated real-life observations with physiological measurements across more varied populations, without assuming that one cultural account is universal.",
+      "The experience can be vivid even when the mechanism remains uncertain. Respecting that experience does not require claiming that the body always knows what the baby needs. It requires a more useful combination: curiosity about the biology, room for personal and cultural differences, and medical attention when eating becomes unsafe or inadequate.",
+      "## SOURCES AND EVIDENCE NOTES",
+      "This article provides general health information, not an individual diagnosis or treatment plan. It distinguishes human observational research, qualitative interviews, animal experiments and clinical guidance. Study years refer to publication, with online publication identified where relevant. Population estimates are not treated as interchangeable. The supplied hero is an artistic illustration, not a clinical recommendation or documentary photograph. No individual medical review is claimed.",
+      "[Orloff and Hormes (2014): Pickles and ice cream! Food cravings in pregnancy](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full)",
+      "[Hill and colleagues (2016): Nutritional and clinical associations of food cravings in pregnancy](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/)",
+      "[Albaugh and colleagues (2022): Olfaction in pregnancy, systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/36469055/)",
+      "[Fejzo and colleagues (online 2023): GDF15 linked to maternal risk of nausea and vomiting during pregnancy](https://www.nature.com/articles/s41586-023-06921-9)",
+      "[ACOG: Morning sickness, nausea and vomiting of pregnancy](https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy)",
+      "[NHS: Vomiting and morning sickness](https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/)",
+      "[NIH Office of Dietary Supplements: Pregnancy, health professional fact sheet](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/)",
+      "[Northern Sydney Local Health District (2016): Healthy eating during pregnancy, facts and myths](https://www.nslhd.health.nsw.gov.au/HealthPromotion/documents/142410-GHS-Fact-Sheet-Healthy-Eating-During-Pregnancy-online.pdf)",
+      "[Blau and colleagues (2020): Women’s experience and understanding of food cravings in pregnancy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/)",
+      "[Observational cohort study (2021): Mental health, sleep quality and reward-related eating during pregnancy and postpartum](https://pmc.ncbi.nlm.nih.gov/articles/PMC8088672/)",
+      "[Nyaruhucha (2009): Food cravings, aversions and pica among pregnant women in Dar es Salaam](https://pubmed.ncbi.nlm.nih.gov/19445102/)",
+      "[Young and Pike (2012): A biocultural framework for maternal cravings and aversions in East Africa](https://experts.arizona.edu/en/publications/a-biocultural-framework-for-examining-maternal-cravings-and-avers/)",
+      "[Haddad-Tóvolli and colleagues (2022): Food craving-like episodes and dopamine circuits in pregnant mice](https://www.nature.com/articles/s42255-022-00557-1)",
+      "[MedlinePlus Medical Encyclopedia: Pica](https://medlineplus.gov/ency/article/001538.htm)",
+      "[Miao and colleagues (2015): A meta-analysis of pica and micronutrient status](https://pubmed.ncbi.nlm.nih.gov/25156147/)",
+      "[NIH Office of Dietary Supplements: Iron, health professional fact sheet](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/)",
+      "[Tommy’s: Ten pregnancy myths](https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths)",
+      "[American Academy of Dermatology: Birthmarks, causes](https://www.aad.org/public/diseases/a-z/birthmarks-causes)",
+      "[NHS: Foods to avoid in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/)",
+      "[NHS: Have a healthy diet in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/)",
+      "[NHS: Vitamins, supplements and nutrition in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/)",
+      "[NHS: Poisoning](https://www.nhs.uk/conditions/poisoning/)",
+      "[NHS: Signs and symptoms of pregnancy](https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/)"
+    ],
+    "source": {
+      "name": "Orloff and Hormes (2014): Pickles and ice cream! Food cravings in pregnancy",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full"
+    },
+    "references": [
+      {
+        "name": "Orloff and Hormes (2014): Pickles and ice cream! Food cravings in pregnancy",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full"
+      },
+      {
+        "name": "Hill and colleagues (2016): Nutritional and clinical associations of food cravings in pregnancy",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/"
+      },
+      {
+        "name": "Albaugh and colleagues (2022): Olfaction in pregnancy, systematic review and meta-analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36469055/"
+      },
+      {
+        "name": "Fejzo and colleagues (online 2023): GDF15 linked to maternal risk of nausea and vomiting during pregnancy",
+        "url": "https://www.nature.com/articles/s41586-023-06921-9"
+      },
+      {
+        "name": "ACOG: Morning sickness, nausea and vomiting of pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy"
+      },
+      {
+        "name": "NHS: Vomiting and morning sickness",
+        "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/"
+      },
+      {
+        "name": "NIH Office of Dietary Supplements: Pregnancy, health professional fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+      },
+      {
+        "name": "Northern Sydney Local Health District (2016): Healthy eating during pregnancy, facts and myths",
+        "url": "https://www.nslhd.health.nsw.gov.au/HealthPromotion/documents/142410-GHS-Fact-Sheet-Healthy-Eating-During-Pregnancy-online.pdf"
+      },
+      {
+        "name": "Blau and colleagues (2020): Women’s experience and understanding of food cravings in pregnancy",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/"
+      },
+      {
+        "name": "Observational cohort study (2021): Mental health, sleep quality and reward-related eating during pregnancy and postpartum",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8088672/"
+      },
+      {
+        "name": "Nyaruhucha (2009): Food cravings, aversions and pica among pregnant women in Dar es Salaam",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19445102/"
+      },
+      {
+        "name": "Young and Pike (2012): A biocultural framework for maternal cravings and aversions in East Africa",
+        "url": "https://experts.arizona.edu/en/publications/a-biocultural-framework-for-examining-maternal-cravings-and-avers/"
+      },
+      {
+        "name": "Haddad-Tóvolli and colleagues (2022): Food craving-like episodes and dopamine circuits in pregnant mice",
+        "url": "https://www.nature.com/articles/s42255-022-00557-1"
+      },
+      {
+        "name": "MedlinePlus Medical Encyclopedia: Pica",
+        "url": "https://medlineplus.gov/ency/article/001538.htm"
+      },
+      {
+        "name": "Miao and colleagues (2015): A meta-analysis of pica and micronutrient status",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25156147/"
+      },
+      {
+        "name": "NIH Office of Dietary Supplements: Iron, health professional fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+      },
+      {
+        "name": "Tommy’s: Ten pregnancy myths",
+        "url": "https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths"
+      },
+      {
+        "name": "American Academy of Dermatology: Birthmarks, causes",
+        "url": "https://www.aad.org/public/diseases/a-z/birthmarks-causes"
+      },
+      {
+        "name": "NHS: Foods to avoid in pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      },
+      {
+        "name": "NHS: Have a healthy diet in pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/"
+      },
+      {
+        "name": "NHS: Vitamins, supplements and nutrition in pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/"
+      },
+      {
+        "name": "NHS: Poisoning",
+        "url": "https://www.nhs.uk/conditions/poisoning/"
+      },
+      {
+        "name": "NHS: Signs and symptoms of pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/"
+      }
+    ],
+    "tags": [
+      "pregnancy cravings",
+      "pregnancy food cravings",
+      "why pregnancy cravings happen",
+      "strange pregnancy cravings",
+      "food aversions during pregnancy",
+      "pica pregnancy"
+    ],
+    "status": "published",
+    "readingTime": "16 min read"
+  },
+  {
     "id": "111",
     "slug": "football-fans-psychology-passion-rivalry-violence",
     "title": "FOOTBALL FANS: THE PSYCHOLOGY BEHIND PASSION, RIVALRY AND VIOLENCE",
