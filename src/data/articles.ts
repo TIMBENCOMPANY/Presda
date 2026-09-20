@@ -12096,7 +12096,7 @@ export const articles: Article[] = [
       "IVF can already allow doctors to test embryos for certain genetic conditions before pregnancy. But as embryo screening becomes more powerful, how much should parents be allowed to choose?",
     category: "Science",
     date: "2026-09-14",
-    lastUpdated: "2026-09-14",
+    lastUpdated: "2026-09-20",
     author: "PRESDA Editorial",
     coverImage: "/articles/designer-babies-ivf-embryo-selection-genetics.png",
     coverAlt:
@@ -12130,17 +12130,17 @@ export const articles: Article[] = [
       "PGT stands for preimplantation genetic testing.",
       "PGT-M tests for specific monogenic disorders: conditions caused mainly by pathogenic variants in one gene, such as Huntington disease, cystic fibrosis, sickle cell disease or Tay-Sachs disease.",
       "PGT-SR tests embryos when a parent carries a structural chromosome rearrangement that can increase the risk of miscarriage or serious chromosomal imbalance.",
-      "PGT-A screens chromosome number, looking for aneuploidy: embryos with missing or extra chromosomes. Its use, benefits and limitations vary by patient group and remain debated in some contexts.",
+      "PGT-A screens chromosome number, looking for missing or extra chromosomes. ASRM’s 2024 review says its value as routine screening for every IVF patient has not been demonstrated. A chromosome result is not a guarantee of implantation or a healthy child. [ASRM’s PGT-A committee opinion](https://www.asrm.org/practice-guidance/practice-committee-documents/the-use-of-preimplantation-genetic-testing-for-aneuploidy-a-committee-opinion-2024/)",
       "None of these tests guarantees a healthy baby. They provide information about particular genetic or chromosomal questions.",
       "## Can IVF Prevent Genetic Disease?",
       "In some families, PGT-M can dramatically reduce the chance of having a child affected by a known serious inherited condition.",
       "If both parents carry variants associated with an autosomal recessive disorder, some embryos may inherit two disease-causing copies while others may not. If one parent carries a dominant condition such as Huntington disease, some embryos may inherit the pathogenic variant and others may not.",
-      "Testing can help identify embryos that are not expected to develop that specific condition.",
+      "Testing can help identify embryos that are not expected to develop that specific condition. ASRM recommends discussing prenatal testing to confirm PGT-M results because diagnostic errors remain possible. [ASRM’s 2023 PGT-M guidance](https://www.asrm.org/practice-guidance/practice-committee-documents/indications-and-management-of-preimplantation-genetic-testing-for-monogenic-conditions-a-committee-opinion-2023/)",
       "This is one of the strongest medical arguments for embryo testing. It is not about ordering a perfect child. It is about helping families avoid a severe disease they already know is present in their genetic risk.",
       "## Can Parents Choose Their Baby's Sex?",
       "In IVF contexts, embryo testing can sometimes reveal chromosomal sex.",
       "Whether parents may use that information for non-medical sex selection depends heavily on country, law, professional rules and clinic policy.",
-      "In the United States, non-medical sex selection is not banned by one national fertility law in the same way it is in some countries, though clinic policies and professional ethics matter. In the United Kingdom, the HFEA allows sex selection only for medical reasons, not for family balancing or preference. Many European jurisdictions restrict or prohibit non-medical sex selection.",
+      "In the United Kingdom, selecting an embryo’s sex is prohibited except to prevent serious inherited illness. ASRM’s U.S. ethics guidance treats non-medical sex selection as controversial and says clinics should explain their policies. Patients need current advice for their jurisdiction rather than assuming that a service advertised abroad is permitted at home. [HFEA’s explanation of UK law](https://www.hfea.gov.uk/about-us/news-and-press-releases/2018/hfea-statement-into-daily-mail-investigation-about-sex-selection/); [ASRM’s sex-selection ethics opinion](https://www.asrm.org/practice-guidance/ethics-opinions/use-of-reproductive-technology-for-sex-selection-for-nonmedical-reasons-an-ethics-committee-opinion-2022/).",
       "There is no global rule. A legal option in one country may be prohibited in another.",
       "Medical sex selection can be ethically different when used to avoid serious sex-linked disease.",
       "## Can Parents Choose Eye Color?",
@@ -12151,7 +12151,7 @@ export const articles: Article[] = [
       "## Can Parents Choose Height?",
       "Height is a polygenic trait, meaning it is influenced by many genetic variants. It is also shaped by environment, nutrition, health, development and chance.",
       "Polygenic scores estimate genetic tendency by adding information from many DNA variants. But embryos from the same parents are genetically similar compared with unrelated people, so the range available for selection within one IVF cycle is limited.",
-      "If parents have only a few embryos, the realistic difference in predicted adult height may be small. If they have many embryos, selection power increases, but still does not become certainty.",
+      "If parents have only a few embryos, the realistic difference in predicted adult height may be small. If they have many embryos, selection power increases, but still does not become certainty. A 2019 Cell study used modelling and family data to show why predicted advantages in height or cognitive scores should not be treated as guaranteed outcomes for an individual child. [Karavani and colleagues: limits of polygenic trait screening](https://pubmed.ncbi.nlm.nih.gov/31761530/)",
       "A genome is not a height dial.",
       "## Can Parents Choose Intelligence?",
       "Intelligence and cognitive performance are much more complicated than popular marketing suggests.",
@@ -12164,8 +12164,8 @@ export const articles: Article[] = [
       "Possible applications discussed by companies and researchers include risk estimates for heart disease, type 2 diabetes, some cancers and other multifactorial conditions.",
       "The key word is estimate.",
       "A polygenic score is not a diagnosis. It may describe relative risk compared with a reference population, not a guaranteed outcome for a future child. Absolute risk can remain low. Environmental factors can dominate. Results can be less accurate for people whose ancestry is underrepresented in genomic datasets.",
-      "ASRM's 2026 committee opinion says PGT-P should not be offered as a routine clinical service until more research and counseling standards support its use.",
-      "That does not mean the idea is impossible forever. It means routine use is not currently supported as settled medicine.",
+      "ASRM’s 2026 Ethics Committee opinion says PGT-P is not recommended for clinical use and should not be offered as a clinical service at this time. It limits use to research overseen by an institutional review board while safety, effectiveness and ethical concerns remain unresolved. [Read the specific ASRM opinion](https://www.asrm.org/practice-guidance/ethics-opinions/use-of-preimplantation-genetic-testing-for-polygenic-disorders-pgt-p-an-ethics-committee-opinion-2026/)",
+      "This is stronger than a warning against routine use: the opinion does not endorse selling PGT-P as an established fertility service.",
       "## One Trait Can Affect Another",
       "Genes often have more than one effect. This is called pleiotropy.",
       "A genetic profile associated with lower risk for one condition may also be associated with higher risk for another outcome, or with effects we do not yet understand.",
@@ -12202,7 +12202,7 @@ export const articles: Article[] = [
       "## Why Heritable Editing Is Different",
       "If an adult receives a gene therapy, the intervention primarily concerns that patient.",
       "Editing an embryo could affect a future child who cannot consent. If the change is heritable, it could also affect descendants.",
-      "Errors could propagate through a lineage. Mosaicism could mean not all cells carry the same edit. Off-target or unintended changes could have consequences that are difficult to predict at the embryo stage.",
+      "Errors could propagate through a lineage. Mosaicism could mean not all cells carry the same edit. Off-target or unintended changes could have consequences that are difficult to predict at the embryo stage. [WHO’s human genome editing recommendations](https://www.who.int/publications/i/item/9789240030381)",
       "This is why many scientific bodies draw a bright line between treating existing patients and editing embryos for reproduction.",
       "## From Disease To Enhancement",
       "Reproductive genetics exists on a spectrum.",
@@ -12283,13 +12283,15 @@ export const articles: Article[] = [
       "Specific monogenic disease | Established in some clinical contexts | Strong when the familial variant is known | Requires counseling and lab validation",
       "Chromosome information | Common in some IVF contexts | Useful but not perfect | PGT-A benefits vary by patient group",
       "Embryo sex | Technically possible when chromosomal sex is known | High for chromosomal sex | Non-medical use is jurisdiction-dependent",
-      "Complex disease risk | Emerging and controversial | Probabilistic and limited | ASRM says routine PGT-P is not ready",
+      "Complex disease risk | Emerging and controversial | Probabilistic and limited | ASRM says PGT-P should not be offered as a clinical service",
       "Height | Poorly predictive for practical selection | Limited by polygenic complexity and embryo number | Enhancement concern",
       "Eye color | Broad prediction may be possible in some cases | Not a reliable custom order | Marketing should be treated skeptically",
       "Intelligence | Not clinically established | Far too limited for promises | Major ethical and scientific concerns",
       "Personality | Not clinically established | Not reliably selectable | Human development is not a DNA menu",
       "Athletic ability | Not clinically established | Not reliably selectable | Training, environment and chance matter",
       "Gene-edited traits | Not accepted routine reproduction | Experimental and unsafe for clinical use | Heritable editing is restricted or prohibited in many places",
+      "## Questions To Ask About An Embryo Test",
+      "Ask which specific condition or chromosome question the test addresses, what it cannot detect, how uncertain results are handled and whether confirmatory testing during pregnancy will be discussed. Also ask whether the proposed service is established care or research. These questions help distinguish a medical test from a promise about a future child. [ASRM’s PGT-M counseling guidance](https://www.asrm.org/practice-guidance/practice-committee-documents/indications-and-management-of-preimplantation-genetic-testing-for-monogenic-conditions-a-committee-opinion-2023/)",
       "## What Could Change In The Next 10 To 20 Years?",
       "Several things could change: better polygenic prediction, larger and more diverse genomic datasets, AI-assisted embryo assessment, improved gene-editing research, in-vitro gametogenesis research and new regulation.",
       "Those are scenarios, not promises.",
@@ -12321,49 +12323,45 @@ export const articles: Article[] = [
       "It cannot tell us what we should value in a human being."
     ],
     source: {
-      name: "ASRM - Committee opinion on polygenic embryo screening",
-      url: "https://www.asrm.org/"
+      "name": "ASRM (2026): Ethics Committee opinion on PGT-P",
+      "url": "https://www.asrm.org/practice-guidance/ethics-opinions/use-of-preimplantation-genetic-testing-for-polygenic-disorders-pgt-p-an-ethics-committee-opinion-2026/"
     },
     references: [
       {
-        name: "American Society for Reproductive Medicine - guidance and ethics opinions",
-        url: "https://www.asrm.org/"
+        "name": "ASRM (2026): Polygenic embryo screening is not recommended for clinical use",
+        "url": "https://www.asrm.org/practice-guidance/ethics-opinions/use-of-preimplantation-genetic-testing-for-polygenic-disorders-pgt-p-an-ethics-committee-opinion-2026/"
       },
       {
-        name: "Human Fertilisation and Embryology Authority - embryo testing and sex selection rules",
-        url: "https://www.hfea.gov.uk/"
+        "name": "ASRM (2024): PGT-A evidence and limitations",
+        "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/the-use-of-preimplantation-genetic-testing-for-aneuploidy-a-committee-opinion-2024/"
       },
       {
-        name: "European Society of Human Reproduction and Embryology - PGT good practice recommendations",
-        url: "https://www.eshre.eu/Guidelines-and-Legal/Guidelines/PGT"
+        "name": "ASRM (2023): Indications and management of PGT-M",
+        "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/indications-and-management-of-preimplantation-genetic-testing-for-monogenic-conditions-a-committee-opinion-2023/"
       },
       {
-        name: "World Health Organization - human genome editing governance",
-        url: "https://www.who.int/publications/i/item/9789240030381"
+        "name": "HFEA: Medical and non-medical sex selection",
+        "url": "https://www.hfea.gov.uk/about-us/news-and-press-releases/2018/hfea-statement-into-daily-mail-investigation-about-sex-selection/"
       },
       {
-        name: "National Academies - human genome editing reports",
-        url: "https://www.nationalacademies.org/our-work/human-genome-editing-science-ethics-and-governance"
+        "name": "ASRM (2022): Ethics of non-medical sex selection",
+        "url": "https://www.asrm.org/practice-guidance/ethics-opinions/use-of-reproductive-technology-for-sex-selection-for-nonmedical-reasons-an-ethics-committee-opinion-2022/"
       },
       {
-        name: "U.S. Food and Drug Administration - human cells, tissues and gene therapy information",
-        url: "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products"
+        "name": "Karavani et al. (2019), Cell: Screening human embryos for polygenic traits has limited utility",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31761530/"
       },
       {
-        name: "NIH - genetics and genomics resources",
-        url: "https://www.genome.gov/"
+        "name": "European Society of Human Reproduction and Embryology - PGT good practice recommendations",
+        "url": "https://www.eshre.eu/Guidelines-and-Legal/Guidelines/PGT"
       },
       {
-        name: "Nature - human embryo editing and genomics research",
-        url: "https://www.nature.com/subjects/genome-editing"
+        "name": "World Health Organization - human genome editing governance",
+        "url": "https://www.who.int/publications/i/item/9789240030381"
       },
       {
-        name: "Science - CRISPR and human genome editing coverage",
-        url: "https://www.science.org/"
-      },
-      {
-        name: "The Lancet - reproductive medicine and genomics research",
-        url: "https://www.thelancet.com/"
+        "name": "National Academies - human genome editing reports",
+        "url": "https://www.nationalacademies.org/our-work/human-genome-editing-science-ethics-and-governance"
       }
     ],
     tags: [
@@ -12426,30 +12424,30 @@ export const articles: Article[] = [
       "Hachikō waited for years after his owner never returned. His story became a symbol of loyalty, but science reveals that the bond between dogs and humans began thousands of years before him.",
     category: "Science",
     date: "2026-09-14",
-    lastUpdated: "2026-09-14",
+    lastUpdated: "2026-09-20",
     author: "PRESDA Editorial",
     coverImage: "/articles/hachiko-why-dogs-loyal-to-humans.png",
     coverAlt:
       "An Akita inspired by Hachikō waits outside a historic Japanese railway station as commuters pass in the early morning.",
     homepageImagePosition: "50% 50%",
     content: [
-      "Every afternoon in 1920s Tokyo, commuters passed through Shibuya Station. Among them was an Akita named Hachikō.",
-      "His owner, University of Tokyo professor Hidesaburō Ueno, regularly returned through the station, and Hachikō became associated with waiting for him there.",
-      "Then, on May 21, 1925, Ueno died suddenly while at work. He never came back through the station.",
-      "But Hachikō did.",
+      "Hachikō was an Akita who became famous for returning to Shibuya Station after his owner, Professor Hidesaburō Ueno, died in 1925. His story is real, but the familiar account of an unchanging daily commute mixes documented history with later retelling.",
+      "Ueno taught at what is now the University of Tokyo. The university’s own historical account questions the standard story that he travelled to work by train each day, and cites an account of him walking to the Komaba campus. [University of Tokyo: history and later retellings](https://www.u-tokyo.ac.jp/focus/en/features/z1304_00280.html)",
+      "On May 21, 1925, Ueno died suddenly. Hachikō’s subsequent appearances around Shibuya became the basis of the loyalty story. [Akita’s Hachikō centenary chronology](https://visitakita.com/hachi100/en/story/)",
+      "The station became inseparable from the dog’s public memory.",
       "The documented facts are already powerful enough without exaggeration. Hachikō was born in 1923. He belonged to Professor Ueno. After Ueno's death, the dog repeatedly returned to and waited around Shibuya Station. Newspaper coverage made him nationally famous. A bronze statue was erected while Hachikō was still alive. Hachikō died on March 8, 1935.",
       "We do not need to claim he arrived at exactly the same minute every day for precisely calculated years to understand why the story endures.",
       "The deeper question is harder: why would an animal continue returning for a human who was never coming back?",
       "That question opens the science of dog loyalty, attachment, domestication, memory and the unusual bond between humans and the species that chose to live beside us.",
       "## Who Was Hachikō?",
       "Hachikō was an Akita born in Odate, Akita Prefecture, in 1923. He later came to Tokyo and lived with Hidesaburō Ueno, an agricultural science professor at the University of Tokyo.",
-      "Ueno's commute connected the dog to Shibuya Station. Over time, Hachikō became associated with waiting there for his owner to return.",
+      "The bond between Ueno and Hachikō is central to the story; a precisely reconstructed daily train commute is not. The University of Tokyo notes that later moral-education accounts helped fix the familiar station narrative in public memory.",
       "When Ueno died suddenly in 1925, Hachikō's life changed. He was cared for by others after Ueno's death, but he continued appearing around Shibuya Station over the following years.",
       "That repeated return became the heart of the legend: not a dog frozen in one exact pose for nearly a decade, but a living animal whose behavior seemed to express attachment after the human relationship that shaped his life had been broken.",
       "## Hachikō: The True Story Behind The Legend",
       "Hachikō's fame did not happen only after his death.",
       "Japanese newspaper attention in the early 1930s brought national attention to the dog who kept appearing at Shibuya Station. Readers saw in him a model of devotion, patience and loyalty.",
-      "In 1934, a bronze statue of Hachikō was unveiled near Shibuya Station while he was still alive. The original statue was later removed during wartime metal collection, but a postwar statue became one of Tokyo's best-known meeting points.",
+      "In 1934, a bronze statue of Hachikō was unveiled near Shibuya Station while he was still alive. The original statue was later removed during wartime metal collection, but a postwar statue became one of Tokyo's best-known meeting points. [Shibuya City Library’s historical account](https://www.lib.city.shibuya.tokyo.jp/shibuya/about-shibuya/hachiko/)",
       "Hachikō died in 1935. His story continued through monuments, museum displays, books, school lessons, local memory and films.",
       "He became more than a famous dog. He became a Japanese cultural symbol of loyalty and devotion.",
       "## Are Dogs Really Loyal?",
@@ -12457,10 +12455,11 @@ export const articles: Article[] = [
       "Science usually studies more measurable behaviors: attachment, proximity seeking, social preference, separation response, greeting behavior, cooperation, attention to human cues and reunion behavior.",
       "When people say dogs are loyal, they are often describing a cluster of real behaviors. Dogs follow familiar people, respond to absence, seek contact, learn routines, prefer some individuals over others and show intense excitement at reunion.",
       "What we call loyalty may not be one single instinct. It may emerge from biology, learning, domestication, attachment and individual experience working together.",
+      "For the broader distinction between inherited tendencies and individual experience, see PRESDA’s [explanation of Darwin and evolution](/articles/charles-darwin-theory-of-evolution/).",
       "## The Story Began Long Before Hachikō",
       "Hachikō's story began in modern Japan, but the human-dog bond began tens of thousands of years earlier.",
       "Dogs did not descend directly from the modern wolves we see today. Dogs and modern wolves share ancestry from ancient wolf populations, and scientists still debate the exact timing, location and population history of domestication.",
-      "Genetic and archaeological evidence suggests a complex story rather than one simple moment when humans tamed wolves and created dogs.",
+      "Genetic and archaeological evidence suggests a complex story rather than one simple moment when humans tamed wolves and created dogs. [Bergström and colleagues’ 2022 ancient-wolf genomic study](https://www.nature.com/articles/s41586-022-04824-9)",
       "Some early canids may have lived near human camps. Some may have scavenged. Some humans may have tolerated less fearful animals. Over generations, selection favored animals better able to live with people.",
       "That process eventually produced an animal uniquely tuned to human society.",
       "## Why Would Wolves Approach Humans?",
@@ -12475,7 +12474,7 @@ export const articles: Article[] = [
       "By the time Hachikō waited at Shibuya Station, thousands of years of interspecies history were already inside the relationship between one professor and one dog.",
       "## Dogs Became Experts At Reading Us",
       "Dogs are unusually skilled at using human social cues.",
-      "Research has shown that dogs can follow pointing gestures, respond to gaze and body orientation, attend to voice, and use human communication in ways that differ from many other animals.",
+      "A 2021 study compared dog and wolf puppies on social and cognitive tasks and found stronger responses to human gestures in the dog group. It provides evidence about early social communication, not proof that every dog understands every person. [Salomons and colleagues, Current Biology](https://pmc.ncbi.nlm.nih.gov/articles/PMC8610089/)",
       "This does not mean dogs understand humans perfectly. It means they are highly sensitive to signals that matter in shared life with people.",
       "Compared carefully with wolves, dogs often show stronger tendencies to look toward humans for information or assistance in certain experimental contexts. That may reflect domestication, development, socialization and individual history.",
       "A dog does not need human language to know that a raised voice, a pointed finger, a turned body or a familiar footstep matters.",
@@ -12491,13 +12490,13 @@ export const articles: Article[] = [
       "Smell helps dogs recognize individuals, detect changes, map places and gather social information. A station, a route, a coat, a platform or a doorway may hold layers of information that humans barely notice.",
       "This matters for Hachikō because returning to a place may have involved more than visual memory. The station environment, human traffic and routines could have been part of a sensory world tied to Ueno.",
       "## Does A Dog See Its Owner As Family?",
-      "Attachment research has compared some dog-human relationships with infant-caregiver patterns, especially through secure-base effects.",
+      "In a 2013 experiment, dogs worked less persistently at a food-containing puzzle when their owner was absent; an unfamiliar person did not provide the same benefit. This gives the secure-base idea a measurable meaning: a familiar human can affect exploration and problem-solving. It does not show that canine attachment is identical to an infant’s. [Horn, Huber and Range, PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065296)",
       "In simple terms, many dogs use familiar humans as a source of security. They may explore more confidently when the owner is present, show stress when separated and greet strongly when reunited.",
       "Dogs are not human babies. The comparison is not saying their psychology is identical.",
       "It means researchers can measure relationship patterns that resemble attachment: preference, comfort, reunion and reliance on a familiar social partner.",
       "For many dogs, a human is not merely a food dispenser. The human is part of the dog's social world.",
       "## The Oxytocin Connection",
-      "One influential line of research found that mutual gaze between dogs and humans can be associated with oxytocin changes in both species.",
+      "One influential line of research found that mutual gaze between dogs and humans can be associated with oxytocin changes in both species. [Nagasawa and colleagues’ 2015 oxytocin-gaze study](https://www.science.org/doi/10.1126/science.1261022)",
       "Oxytocin is sometimes simplified as the love hormone, but that phrase can mislead. It is involved in social bonding, reproduction and other processes, and its effects depend on context.",
       "The interesting idea is a positive feedback loop: human looks at dog, dog engages with human, social interaction strengthens the bond, and biological systems involved in affiliation participate.",
       "Still, no single chemical explains the human-dog bond.",
@@ -12505,7 +12504,7 @@ export const articles: Article[] = [
       "## Do Dogs Love Us, Or Just Love Food?",
       "Food matters enormously to dogs. It would be silly to deny that.",
       "But the best answer is not either food or love. Dogs are motivated by many things: food, play, scent, routine, praise, touch, safety, exploration and social contact.",
-      "Behavioral and neuroscience studies suggest many dogs value human interaction independently of food, though individual dogs differ. Some dogs may strongly prefer food in a specific task. Others may prefer praise or contact from a familiar person.",
+      "Behavioral and neuroscience studies suggest many dogs value human interaction independently of food, though individual dogs differ. Some dogs may strongly prefer food in a specific task. Others may prefer praise or contact from a familiar person. [Cook and colleagues’ 2016 comparison of praise and food rewards](https://pmc.ncbi.nlm.nih.gov/articles/PMC5141954/)",
       "A dog can love food and still form a real attachment to a human.",
       "That is not a contradiction. It is life.",
       "## Why Does Your Dog Get So Excited When You Come Home?",
@@ -12527,7 +12526,7 @@ export const articles: Article[] = [
       "What we know is behavior. What we cannot know is the exact inner explanation.",
       "## Do Dogs Grieve?",
       "Dogs can show behavioral changes after the loss of another dog or human companion.",
-      "Studies and owner reports have described changes in activity, sleep, appetite, attention, play, vocalization and proximity seeking after a social loss.",
+      "A 2022 study examined owners’ reports after another dog in the household died, including changes in eating, playing, sleeping and fearfulness. Such reports can identify patterns, but the researchers also acknowledge possible reporting bias. They are not direct measurements of a dog’s private experience or evidence about Hachikō specifically. [Uccheddu and colleagues, Scientific Reports](https://www.nature.com/articles/s41598-022-05669-y)",
       "The challenge is proving subjective grief scientifically. A dog cannot tell us whether its experience matches human grief.",
       "Careful language matters. Dogs may show grief-like responses, stress after loss, altered routines and social searching. That is already significant.",
       "We do not need to pretend dogs grieve exactly like humans to take their loss seriously.",
@@ -12615,45 +12614,45 @@ export const articles: Article[] = [
       "They began waiting for us to come home."
     ],
     source: {
-      name: "The University of Tokyo - Hachikō and Professor Hidesaburō Ueno history",
-      url: "https://www.u-tokyo.ac.jp/"
+      "name": "University of Tokyo: Hachikō, the university and later retellings",
+      "url": "https://www.u-tokyo.ac.jp/focus/en/features/z1304_00280.html"
     },
     references: [
       {
-        name: "Shibuya City - Hachikō and Shibuya cultural history",
-        url: "https://www.city.shibuya.tokyo.jp/"
+        "name": "University of Tokyo: Hachiko and UTokyo, part 2",
+        "url": "https://www.u-tokyo.ac.jp/focus/en/features/z1304_00280.html"
       },
       {
-        name: "National Museum of Nature and Science, Tokyo",
-        url: "https://www.kahaku.go.jp/english/"
+        "name": "Akita tourism: Hachikō centenary chronology",
+        "url": "https://visitakita.com/hachi100/en/story/"
       },
       {
-        name: "University of Tokyo - institutional history connected to Hachikō and Professor Ueno",
-        url: "https://www.u-tokyo.ac.jp/"
+        "name": "Shibuya City Library: Hachikō history and monuments",
+        "url": "https://www.lib.city.shibuya.tokyo.jp/shibuya/about-shibuya/hachiko/"
       },
       {
-        name: "Science - Oxytocin-gaze positive loop and the coevolution of human-dog bonds",
-        url: "https://www.science.org/doi/10.1126/science.1261022"
+        "name": "Bergström et al. (2022): Grey wolf genomic history reveals a dual ancestry of dogs",
+        "url": "https://www.nature.com/articles/s41586-022-04824-9"
       },
       {
-        name: "Current Biology - Canine social cognition and human cue use",
-        url: "https://www.cell.com/current-biology/home"
+        "name": "Salomons et al. (2021): Cooperative communication with humans in dog puppies",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8610089/"
       },
       {
-        name: "Animal Cognition - Dog-human attachment and secure-base research",
-        url: "https://link.springer.com/journal/10071"
+        "name": "Horn, Huber and Range (2013): The secure-base effect in domestic dogs",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065296"
       },
       {
-        name: "Nature - Ancient dog genomics and domestication research",
-        url: "https://www.nature.com/articles/s41586-020-03082-x"
+        "name": "Nagasawa et al. (2015): Oxytocin-gaze positive loop and human-dog bonds",
+        "url": "https://www.science.org/doi/10.1126/science.1261022"
       },
       {
-        name: "Royal Society Open Science - dog behavior and social cognition research",
-        url: "https://royalsocietypublishing.org/journal/rsos"
+        "name": "Cook et al. (2016): Awake canine fMRI predicts preference for praise versus food",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5141954/"
       },
       {
-        name: "Scientific Reports - canine behavior, emotion and human-dog interaction research",
-        url: "https://www.nature.com/srep/"
+        "name": "Uccheddu et al. (2022): Domestic dogs and the loss of a companion dog",
+        "url": "https://www.nature.com/articles/s41598-022-05669-y"
       }
     ],
     tags: [
@@ -27446,35 +27445,35 @@ export const articles: Article[] = [
     "excerpt": "David Beckham's hobbies now tell a quieter story beyond football: beekeeping, gardening, countryside life, family food projects, design and long-running charity work.",
     "category": "Lifestyle",
     "date": "2026-06-02",
-    "lastUpdated": "2026-09-02",
+    "lastUpdated": "2026-09-20",
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/david-beckham-beekeeping.webp",
     "coverAlt": "David Beckham standing beside beehives at sunset with bees flying around him",
     "content": [
-      "David Beckham has spent decades as one of the world's most recognizable football figures. Yet search interest around David Beckham hobbies, David Beckham interests and David Beckham beekeeping points to something more intimate than celebrity: people want to know what his life looks like when the stadium noise fades.",
+      "David Beckham’s best-documented hobbies include beekeeping and gardening. He has described learning to keep bees with his children, while The King’s Foundation has documented his interest in rural skills. Fashion, football ownership and charity work are also part of his public life, but they are professional commitments rather than interchangeable hobbies. [The King’s Foundation’s ambassador announcement](https://kings-foundation.org/david-beckham-becomes-an-ambassador-for-the-kings-foundation/)",
       "The answer is not one hobby. Beckham's post-football identity has spread across beekeeping, gardening, countryside life, food, fashion, business, club ownership and charity work. Some of those interests are public projects. Others are quieter rituals that make his image feel less like a frozen sports brand and more like a person still learning new things.",
       "## Why David Beckham's Hobbies Attract Attention",
       "Beckham's hobbies matter because they contrast with the role that made him famous. His football career was built on precision, pressure, discipline and global visibility. Beekeeping and gardening belong to a slower world: weather, patience, observation, routine and care.",
       "That contrast is why the story travels. Beckham is still tied to fashion campaigns, sport ownership and commercial partnerships, but his countryside interests show a different rhythm. They also fit a wider celebrity shift toward visible domesticity: growing food, restoring gardens, keeping bees and turning private routines into carefully managed public storytelling.",
       "## David Beckham And Beekeeping",
       "Beekeeping is the clearest example of David Beckham's passion beyond football. His honey-based snack brand BEEUP says it was inspired by his passion for beekeeping and by the idea of fueling families with simple ingredients. Coverage of the launch also connected the brand to a hobby that began with his sons during the COVID-19 pandemic.",
-      "The King's Foundation has also made the hobby part of Beckham's public role. When announcing him as an ambassador in June 2024, the Foundation said Beckham visited Highgrove Gardens, learned about its education programs and discussed rural skills. Beckham's own statement for the Foundation mentioned his personal mission to learn more about rural skills and referenced comparing beekeeping tips with the King.",
+      "The King's Foundation has also made the hobby part of Beckham's public role. When announcing him as an ambassador in June 2024, the Foundation said Beckham visited Highgrove Gardens, learned about its education programs and discussed rural skills. Beckham's own statement for the Foundation mentioned his personal mission to learn more about rural skills and referenced comparing beekeeping tips with the King. [The dated June 1, 2024 announcement](https://kings-foundation.org/david-beckham-becomes-an-ambassador-for-the-kings-foundation/)",
       "Beekeeping gives Beckham a story that is both practical and symbolic. Practically, it involves hives, honey, protective clothing and regular attention to colony health. Symbolically, it links him with countryside life, sustainability and a kind of patience very different from football celebrity.",
       "## Gardening, Countryside Life And Rural Skills",
-      "Beckham's interests are not limited to bees. Country Life's feature on his Cotswolds home described his connection to gardening, growing food and rural living. The King's Foundation role also places those interests inside a broader public conversation about nature, craft, education and traditional skills.",
-      "This matters for search intent around David Beckham hobbies and interests because beekeeping is only part of the picture. Gardening and countryside life help explain why the hobby became credible rather than random. A hive makes more sense when it sits inside a wider pattern of land, plants, family routines and curiosity about rural skills.",
+      "Beckham's interests are not limited to bees. Country Life's feature on his Cotswolds home described his connection to gardening, growing food and rural living. The King's Foundation role also places those interests inside a broader public conversation about nature, craft, education and traditional skills. On April 4, 2026, the Foundation reported his participation in planning its Curious Garden with the RHS, including a beehive inspired by his and the King’s shared interest. That is a concrete example of the hobby connecting with a public education project. [The Foundation’s Curious Garden announcement](https://kings-foundation.org/king-charles-iii-gives-green-light-to-plans-for-the-rhs-and-the-kings-foundation-curious-garden/)",
+      "In his Country Life interview, Beckham described learning beekeeping after his son Cruz suggested getting a hive during lockdown. He sought help from a local beekeeper rather than arriving with expertise. That practical learning process explains more about the hobby than speculation about his private motivations. [Read the Country Life interview](https://www.countrylife.co.uk/nature/it-makes-me-feel-as-if-ive-done-a-good-job-as-a-father-and-that-i-did-the-right-thing-in-wanting-us-to-have-a-house-here-david-beckham-on-why-the-countryside-matters-so-much-to-him-and-his-family)",
       "## Food, Family And The BEEUP Project",
-      "BEEUP turns Beckham's beekeeping interest into a business-facing project. The brand positions honey as the center of a family snack idea, and People reported that the line was inspired by his beekeeping hobby and family life. That does not make every lifestyle story a business story, but it shows how Beckham often connects personal interests with brand-building.",
+      "BEEUP turns Beckham's beekeeping interest into a business-facing project. The brand positions honey as the center of a family snack idea, and People reported that the line was inspired by his beekeeping hobby and family life. That does not make every lifestyle story a business story, but it shows how Beckham often connects personal interests with brand-building. [BEEUP’s own account of its origins](https://beeupsnacks.com/pages/about) describes the brand’s positioning; it is not independent evidence of health benefits.",
       "Food has long been part of Beckham's public image through family posts, restaurants, travel and home life. The honey connection gives that image a more specific shape. It is not just celebrity wellness language; it is tied to a hobby he has repeatedly shown and a product line built around that interest.",
       "## Fashion, Design And Personal Style",
       "Any serious list of David Beckham interests has to include fashion and design. Beckham's style has been part of his public identity since his playing days, and it continues through campaigns, brand partnerships and his influence on menswear culture.",
       "This is a different kind of hobby from beekeeping. It is more professionalized, more commercial and more visible. But it still belongs to Beckham's world beyond football because it explains why his post-playing career did not depend only on nostalgia. He became a cultural figure whose interests extend into image-making, design, grooming, tailoring and lifestyle branding.",
       "## Football Ownership And Philanthropy",
-      "Football has not disappeared from Beckham's life; it has changed form. His interests beyond playing include ownership, ambassadorial roles and long-running charity work. Inter Miami placed him at the center of a football-building project in the United States, while UNICEF describes him as a Goodwill Ambassador and founder of the 7 Fund for children.",
-      "These are not hobbies in the casual sense, but they are part of Beckham's post-football interests. They show how a former player can move from performance to institution-building, advocacy and long-term public roles.",
+      "Football has not disappeared from Beckham's life; it has changed form. His interests beyond playing include ownership, ambassadorial roles and long-running charity work. Inter Miami placed him at the center of a football-building project in the United States, while UNICEF describes him as a Goodwill Ambassador and founder of the 7 Fund for children. UNICEF dates his Goodwill Ambassador appointment to 2005 and the launch of the 7 Fund to 2015. [UNICEF’s record of his work](https://www.unicef.org/goodwill-ambassadors/david-beckham)",
+      "These are not hobbies in the casual sense, but they are part of Beckham's post-football interests. They show how a former player can move from performance to institution-building, advocacy and long-term public roles. For the business distinction, PRESDA’s [highest-paid athletes explainer](/articles/highest-paid-athletes-2026/) separates playing income from endorsements and other commercial activity.",
       "## What Beekeeping Says About Beckham's Post-Football Image",
       "Beckham's beekeeping story works because it does not erase his celebrity. It softens it. A global athlete caring about hives, gardens and honey creates a human-scale image that sits beside the larger business empire.",
-      "That is why David Beckham beekeeping keeps appearing in search and media coverage. It gives fans a simple, memorable way to understand reinvention: the free-kick specialist who became a beekeeper; the fashion icon who talks about rural skills; the global brand who still wants grounded routines.",
+      "Public interviews and institutional announcements document his interest; they cannot show his entire private routine. The appealing contrast between a global football star and a beginner learning rural skills is an interpretation of that public record, not access to his private life.",
       "## Why Bees Matter Beyond Celebrity",
       "The importance of bees extends beyond Beckham. Pollinators support ecosystems, food crops and biodiversity, and organizations such as the Food and Agriculture Organization of the United Nations and the UK Royal Horticultural Society have highlighted the need to protect pollinators and improve habitats.",
       "A celebrity hobby should not be confused with environmental expertise. Still, when someone as visible as Beckham talks about bees or supports rural education, it can bring wider attention to gardening, habitats, food systems and conservation-minded everyday habits.",
@@ -27483,7 +27482,8 @@ export const articles: Article[] = [
       "For related PRESDA coverage, read our profile of [Yassine Bounou's career and achievements](/articles/yassine-bounou-africas-safest-hands/), [Achraf Hakimi's Morocco legacy](/articles/achraf-hakimi-king-of-africa/) and the wider [Lifestyle coverage](/category/lifestyle/)."
     ],
     "source": {
-      "name": "PRESDA Lifestyle Coverage"
+      "name": "The King’s Foundation: David Beckham’s rural interests and ambassador role",
+      "url": "https://kings-foundation.org/david-beckham-becomes-an-ambassador-for-the-kings-foundation/"
     },
     "references": [
       {
@@ -27513,6 +27513,10 @@ export const articles: Article[] = [
       {
         "name": "Royal Horticultural Society: Plants for pollinators",
         "url": "https://www.rhs.org.uk/science/conservation-biodiversity/plants-for-pollinators"
+      },
+      {
+        "name": "The King’s Foundation (April 4, 2026): Beckham and the Curious Garden",
+        "url": "https://kings-foundation.org/king-charles-iii-gives-green-light-to-plans-for-the-rhs-and-the-kings-foundation-curious-garden/"
       }
     ],
     "tags": [
