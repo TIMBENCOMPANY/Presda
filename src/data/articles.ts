@@ -54,6 +54,262 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "117",
+    "slug": "anime-how-japanese-animation-conquered-the-world",
+    "title": "ANIME: HOW JAPANESE ANIMATION CONQUERED THE WORLD",
+    "seoTitle": "Anime History: How Japanese Animation Conquered the World",
+    "metaDescription": "Explore anime history, from Astro Boy and Studio Ghibli to Dragon Ball, Naruto and streaming, plus the business and people behind Japanese animation.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "ANIME",
+      "gold": "CONQUERED THE WORLD"
+    },
+    "excerpt": "From Astro Boy to global streaming, Japanese animation built worlds that audiences made their own. The history, artistry and business behind anime’s extraordinary reach.",
+    "category": "Lifestyle",
+    "date": "2026-09-21",
+    "lastUpdated": "2026-09-21",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/anime-japan-naruto-onepiece-deathnote-dragonball-attackontitans.png",
+    "coverAlt": "Illustration of an artist drawing at a desk surrounded by manga volumes and anime characters, with a Japanese city outside the window",
+    "homepageImagePosition": "65% 50%",
+    "content": [
+      "A child meets Goku on television. Years later, a friend recommends Death Note, a cinema screens a Studio Ghibli film, and a song from an anime opening turns up in a playlist. What once seemed like a particular kind of cartoon becomes a way into entire worlds: their jokes, moral arguments, friendships, clothes and music.",
+      "Japanese anime became a global cultural force through that accumulation of encounters. There was no single moment when the world discovered it. Television stations, publishers, translators, video shops, game companies, streaming services and fans opened different doors at different times. The result was an international audience that could recognize a straw hat or a ninja headband before recognizing the studio behind it.",
+      "Its history is also a story of work. Behind a spectacular fight or a quiet, beautifully observed meal are drawings, schedules, contracts and people trying to turn imagination into moving images. To understand how anime conquered the world, we have to follow both the stories on screen and the industry that made them travel.",
+      "## WHAT IS ANIME?",
+      "In ordinary English usage, anime means animation associated with Japan. In Japanese, the word can refer more broadly to animation, including work made elsewhere. It is a medium and a field of production, not a single genre. A domestic comedy, a historical drama, a romance and a science-fiction nightmare can all be anime. The term’s international boundaries become less tidy when artists, financing and production cross borders. [BFI: Anime, the little word that conquered the world](https://www.bfi.org.uk/sight-and-sound/features/anime-little-word-that-conquered-world)",
+      "The familiar contrast with Western animation is useful only up to a point. Anime often makes expressive use of held poses, graphic compositions, dramatic cuts, detailed backgrounds and carefully concentrated bursts of movement. But Japanese animation has many styles, while American and European animation also include serious adult drama, experimental shorts and visually ambitious television. Large eyes or elaborate fights are not a definition.",
+      "A better question is what a particular work asks animation to do. A transformation can make an emotion physically visible. An impossible city can give political anxiety an architecture. A pause at a railway crossing can make waiting feel important. Anime’s range lies in these choices, not in a universal claim that one country’s animation is deeper than another’s.",
+      "Manga and anime are related but distinct. Manga is comics: readers control the pace of still images and words. Anime adds performed voices, sound, music and the director’s control over duration. A successful adaptation translates those differences rather than simply photographing the page. [Japan House London: Manga](https://www.japanhouselondon.uk/collections/manga/)",
+      "## THE ORIGINS OF JAPANESE ANIME",
+      "Japanese animation predates television by decades. The National Film Archive of Japan traces the beginnings of commercially shown domestic animation to 1917, while emphasizing gaps in the surviving record. Early pioneers included Ōten Shimokawa, Seitarō Kitayama and Jun’ichi Kōuchi. Kōuchi’s The Dull Sword survives as a vivid example of this early craft. Claims to an absolute “first anime” need care because films were lost and different definitions include different kinds of moving pictures. [National Film Archive of Japan: Japanese Animated Film Classics](https://animation.filmarchives.jp/en/aboutworks.html) [National Film Archive of Japan: The Dull Sword, 1917](https://animation.filmarchives.jp/en/works/view/100183)",
+      "These beginnings were experiments with technique as well as storytelling. Animation could draw on graphic art, performance and imported cinema without belonging to a fully formed industry. The modern category “anime” should not make the early work look like an inevitable first step toward today’s franchises.",
+      "War left a troubling mark. Mitsuyo Seo’s Momotaro: Sacred Sailors, released in 1945, was a wartime propaganda feature. After the war, Toei’s colour feature Hakujaden, released in 1958 and known in English under titles including The Tale of the White Serpent, represented a different ambition: sustained feature production. These films belong to anime history even when they sit awkwardly beside its present image as youthful entertainment. [Jonathan Clements, BFI: The seeds of anime](https://www.bfi.org.uk/sight-and-sound/features/seeds-anime-how-japanese-animation-arose)",
+      "The decisive next change was the television set. Cinema offered an occasion; television offered a recurring appointment. Characters could return to the same household, become familiar companions and eventually appear on products outside the screen.",
+      "## OSAMU TEZUKA AND THE BIRTH OF MODERN ANIME",
+      "Osamu Tezuka did not invent Japanese animation. His importance lies in helping establish a model that made it a regular television presence. Mushi Production’s Astro Boy began broadcasting in Japan on January 1, 1963, adapting Tezuka’s manga about a robot child. Tezuka Productions identifies it as Japan’s first half-hour animated television series. That qualification matters: earlier television animation existed. [Tezuka Productions: Astro Boy, first television series](https://tezukaosamu.net/en/anime/30.html)",
+      "Astro Boy combined a readily recognizable character with questions about belonging, technology and humanity. A mechanical child could have more emotional complexity than the adults judging him. The programme also travelled abroad, including to American television, demonstrating that a Japanese series could become part of another country’s everyday viewing. [Tezuka Productions: Astro Boy, first television series](https://tezukaosamu.net/en/anime/30.html)",
+      "Weekly production required economy. Limited movement, reused material and the expressive arrangement of drawings helped make television animation feasible. Tezuka’s operation did not invent every economical technique, and the bargain was difficult: sponsorship and rights sales mattered because making episodes cheaply did not automatically make them profitable. Jonathan Clements’s history describes the precarious economics behind the breakthrough. [Jonathan Clements, BFI: The seeds of anime](https://www.bfi.org.uk/sight-and-sound/features/seeds-anime-how-japanese-animation-arose)",
+      "This tension became productive and costly at the same time. A still face with a powerful voice performance could be dramatically effective. A demanding schedule could also squeeze the people making it. The artistic language of television anime and its labour problems developed within the same industrial constraints.",
+      "## MANGA, TELEVISION AND THE MAKING OF A HABIT",
+      "The connection between manga and anime gives a story more than one life. A publisher can introduce characters through serialized chapters and collected volumes; an adaptation can bring them to viewers who never bought the comic. Those viewers may then become readers. It is a circulation of attention, rather than a rule that every successful manga must become animation.",
+      "Adaptation also creates practical decisions. What can an episode cover without rushing? What happens when television catches up with the published story? Should a season stop, add original material or reshape the structure? The same source can support different artistic solutions. Nor does all anime begin with manga: original screen stories, novels and games are also important.",
+      "Television’s history is broader than action series aimed at boys. Helen McCarthy’s survey follows domestic comedy, magical girls, robots and other forms across the small screen. Works such as Sazae-san, Sailor Moon and Gundam make it impossible to reduce anime’s development to a single heroic tournament formula. [Helen McCarthy, BFI: A short history of small-screen anime](https://www.bfi.org.uk/sight-and-sound/features/short-history-small-screen-anime)",
+      "International distribution was equally uneven. Dubbing made Japanese programmes accessible, sometimes obscuring their origins. Local schedules, editing decisions and licensing agreements shaped what audiences encountered. Later, specialist video distribution and fan circulation exposed viewers to material outside mainstream children’s television. Akira, released in 1988, and Ghost in the Shell, released in 1995, became important reference points for an adult, cinematic image of anime abroad. [BFI: Anime, the little word that conquered the world](https://www.bfi.org.uk/sight-and-sound/features/anime-little-word-that-conquered-world)",
+      "That history explains why two fans of different ages or countries may tell entirely different origin stories. One remembers a television theme song. Another remembers a borrowed disc. Streaming made those pathways easier to connect; it did not create them from nothing.",
+      "## HOW DRAGON BALL, POKÉMON, ONE PIECE AND NARUTO WENT GLOBAL",
+      "### Dragon Ball: a language of effort and escalation",
+      "Toei Animation’s Dragon Ball television series began in 1986, adapting Akira Toriyama’s work. Its combination of comic adventure, martial arts and increasingly spectacular confrontations gave international broadcasters a story that could be followed through action as well as dialogue. Toei’s catalogue also illustrates the franchise’s continuing life across television, licensing and products. [Toei Animation: Dragon Ball](https://www.toei-animation.com/catalog/dragon-ball/)",
+      "Its emotional mechanism is easy to recognize: a person reaches a limit, trains, meets a rival and discovers that the limit can move. Viewers can enjoy the spectacle while investing in the effort beneath it. The weakness of this model is also familiar: endless escalation risks making yesterday’s extraordinary achievement seem ordinary. The pleasure comes from how the characters inhabit that repetition.",
+      "### Pokémon: the screen was one part of the world",
+      "Pokémon is an important correction to the assumption that all major anime franchises start as manga. The Japanese Red and Green video games launched in 1996; the television anime followed in April 1997. The company’s history records American television and game launches in September 1998. Games, cards and animation offered connected ways to enter the same universe. [The Pokémon Company: Corporate and franchise history](https://corporate.pokemon.co.jp/en/aboutus/history/)",
+      "Watching a creature on television and then choosing, trading or collecting it gave the relationship a practical form. A fan could participate without consuming everything. That flexibility helps explain the power of cross-media storytelling: the character remains recognizable while the activity changes.",
+      "### One Piece and Naruto: growing up with a long story",
+      "One Piece’s television anime began in 1999, adapting Eiichiro Oda’s pirate adventure. Luffy’s search and his crew’s relationships make the journey itself a source of attachment. An island can introduce a new society and conflict while the larger story preserves a sense of direction. [Toei Animation: One Piece](https://www.toei-animation.com/catalog/one-piece/)",
+      "Masashi Kishimoto’s Naruto manga began in 1999, followed by its television anime in 2002. Its outsider protagonist wants recognition as well as strength. The ninja setting provides spectacle, but loneliness, friendship and the desire to be taken seriously offer a much wider emotional point of entry. [Naruto official: About the manga and anime](https://naruto-official.com/en/about)",
+      "For long-running series, time becomes part of the appeal. Viewers remember not only what happened to a character, but where they were when they watched it. A story can become entangled with school years, friendships and family routines. That does not make every long series accessible to newcomers, but it helps explain why ending one can feel unusually personal.",
+      "## DEATH NOTE, ATTACK ON TITAN AND DEMON SLAYER: DIFFERENT DOORS INTO ANIME",
+      "Death Note’s anime premiered in October 2006, with animation by Madhouse. Its premise turns supernatural power into a contest of deduction: a student obtains a notebook that can kill, and a detective tries to identify him. The appeal is less about becoming stronger than about deciding whom to believe and how power corrupts a claim to justice. [Nippon TV: Death Note animation catalogue](https://www.ntv.co.jp/english/pc/2011/03/death-note-1.html)",
+      "Attack on Titan’s television adaptation began in April 2013. Its official anniversary history records that starting point, but a date alone cannot explain its impact. As a work of storytelling, it turns an initial survival scenario into increasingly difficult questions about enemies, inherited hatred and the stories communities tell about themselves. Its brutality also illustrates why “animated” never means automatically suitable for children. [Attack on Titan: Official tenth-anniversary history](https://shingeki.tv/10th/)",
+      "Demon Slayer’s television adaptation premiered in April 2019. The official introduction identifies Koyoharu Gotouge’s manga and the central bond between Tanjiro and his sister Nezuko. Ufotable’s adaptation places that family commitment inside visually elaborate action. It offers a relatively immediate emotional anchor even when its battles become extravagant. [Aniplex: Demon Slayer official introduction](https://demonslayer-anime.com/sva/intro/)",
+      "These are different attractions: a moral puzzle, a destabilizing epic and a family rescue story. Treating them as interchangeable examples of “popular anime” misses why viewers recommend one to a particular friend and another to someone else. Popularity grows through those specific acts of recognition.",
+      "## STUDIO GHIBLI AND ANIME AS ART",
+      "Studio Ghibli was established in 1985 following the success of Nausicaä of the Valley of the Wind, released in 1984. Hayao Miyazaki and Isao Takahata were central filmmakers, with Toshio Suzuki playing a crucial producing role. The studio’s own history connects its early development to publishing company Tokuma Shoten. [Studio Ghibli: Studio history](https://www.ghibli.jp/history/)",
+      "Ghibli’s films make an especially persuasive case for animation’s emotional range. My Neighbor Totoro gives childhood attention and ordinary landscapes unusual weight. Grave of the Fireflies treats war through vulnerability rather than adventure. Princess Mononoke refuses an easy separation between human needs and environmental destruction. These are readings of the films, not a claim that every Ghibli work expresses one philosophy.",
+      "Spirited Away won the animated feature Oscar at the 2003 ceremony. The Boy and the Heron won the same award at the 2024 ceremony. Those dates describe awards, not the films’ Japanese release years. International recognition widened their reach, but it did not suddenly transform animation into art; the artistic work preceded the trophies. [Academy of Motion Picture Arts and Sciences: 2003 Oscars](https://www.oscars.org/oscars/ceremonies/2003) [Academy of Motion Picture Arts and Sciences: 2024 Oscars](https://www.oscars.org/oscars/ceremonies/2024)",
+      "The studio also demonstrates that scale need not mean speed. A train journey, a room being cleaned or food being prepared can hold attention because atmosphere and gesture carry meaning. Ghibli is a major doorway into anime, but it should not become a filter that excludes the formal invention of television, independent shorts or less internationally celebrated directors.",
+      "## THE STREAMING REVOLUTION",
+      "Streaming changed access and timing. Specialist services such as Crunchyroll and broader platforms such as Netflix brought catalogues into the same interface as other television. Subtitles and dubs could reach viewers without a local broadcaster first finding a slot. Near-simultaneous releases also made it easier for audiences in different countries to discuss a new episode together.",
+      "Netflix reported in March 2025 that more than half of its global members watched at least one anime title during 2024. This is a company-reported measure of viewing among its membership, not proof that half the world watches anime, nor a count of dedicated fans. It nevertheless shows how far anime had entered a mainstream subscription service. [Netflix: AnimeJapan 2025 and 2024 viewing data](https://about.netflix.com/en/news/anime-japan-2025)",
+      "The platform is also a buyer and production partner. In January 2026, Netflix announced an expanded strategic partnership with MAPPA, including jointly developed projects intended for worldwide release. Such arrangements show that streaming companies can influence financing and development, not merely distribute completed programmes. They do not mean every MAPPA production belongs to Netflix. [Netflix: MAPPA strategic partnership, January 2026](https://about.netflix.com/en/news/netflix-strengthens-strategtic-parternship-with-mappa)",
+      "Convenience has limits. Rights can differ by territory, a title can move between services, and an available catalogue is not the same as a permanent archive. Recommendation systems can introduce unfamiliar work, but they can also make a few heavily promoted franchises dominate attention. The revolution is real without being universal or frictionless.",
+      "## WHY ANIME BECAME SO POPULAR WORLDWIDE",
+      "The first answer is variety. Someone who dislikes martial-arts fantasy may love a quiet romance, a sports team’s struggle or a philosophical thriller. The second is commitment: serialized stories can allow relationships, consequences and mysteries to accumulate. The third is expressive freedom. Animation can make an internal feeling visible without first making it physically plausible.",
+      "Cultural specificity can be part of the attraction. Food, school routines, festivals and urban landscapes may invite curiosity rather than prevent identification. A viewer need not share every custom to understand embarrassment, ambition or grief. Translation and context still matter, and no fictional series should be treated as a complete guide to Japanese society.",
+      "Fandom turns private viewing into social activity. Conventions bring screenings, performers, artists and audiences together. Anime Expo’s own history traces its community roots to a university anime club and the early convention scene. Cosplay adds making and performance: a costume is both a tribute to a character and a chance to interpret one. [Anime Expo: Convention and community history](https://www.anime-expo.org/ax/about/)",
+      "Fan drawings, discussions and recommendations can give a series a life between releases. That participation is not automatically harmonious: gatekeeping, harassment and arguments over who counts as a “real fan” can make communities less welcoming. The stronger version of fandom lets knowledge become an invitation. PRESDA’s exploration of [football fandom, belonging and identity](/articles/football-fans-psychology-passion-rivalry-violence/) examines a different setting for the same human desire to share an attachment.",
+      "## THE BUSINESS BEHIND ANIME",
+      "### What the latest industry figures actually measure",
+      "The Association of Japanese Animations’ Anime Industry Report 2025, whose English summary was released in March 2026, reports a broad anime market of ¥3.8407 trillion for 2024. That is a 14.8 percent increase on its revised 2023 total. Overseas business accounted for ¥2.1702 trillion, or 56.5 percent. These are 2024 results, not a 2026 market estimate. [Association of Japanese Animations: Anime Industry Report 2025, English summary released March 2026](https://aja.gr.jp/english/japan-anime-data)",
+      "The scope matters. AJA’s broad market includes end-user spending across activities such as distribution, merchandise and overseas business. It is not the combined revenue of animation studios, their profits or the money paid to animators. The report separately tracks the narrower production business. A booming character franchise can therefore produce a much larger commercial footprint than the budget used to animate it. [Association of Japanese Animations: Anime Industry Report 2025, English summary released March 2026](https://aja.gr.jp/english/japan-anime-data)",
+      "### Studios, production committees and rights",
+      "A studio makes animation, but it does not necessarily finance a project alone or own all its rights. A production committee brings investors together around a title. Publishers, broadcasters, music companies, distributors and other participants can contribute money and relevant expertise. Aki Yoshimi’s 2023 management-accounting study examines how this structure coordinates budgets and the later exploitation of content. [Aki Yoshimi (2023): Management Accounting Issues in Production Committee](https://www.jstage.jst.go.jp/article/jma/31/1/31_23/_article/-char/en)",
+      "Pooling investment can spread financial risk and connect an anime to distribution and other products. It also makes the question “who earned the money?” more complicated. A company paid to produce animation occupies a different position from a company with an ownership stake in successful rights. Studios can participate as investors too; there is no single contract that describes the entire industry. Research on anime’s production networks helps explain why collaboration and control must be examined together. [Álvaro David Hernández Hernández (2018): The Anime Industry, Networks of Participation, and Environments for the Management of Content in Japan](https://www.mdpi.com/2076-0752/7/3/42)",
+      "Licensing extends the commercial life of a work. A company may obtain permission to distribute episodes, publish related products or put characters on merchandise under specified terms. The presence of a character on a shirt does not tell us the royalty rate, the studio’s share or the creator’s income. Those details depend on agreements that are often not public.",
+      "Gaming provides another point of contact. Sometimes a game originates the world, as with Pokémon; sometimes it adapts an established screen or manga property. Either way, participation can extend beyond watching. For another view of entertainment as an interconnected business, see PRESDA’s analysis of [GTA VI and the economics of a major release](/articles/gta6-trailer-culture-shift/).",
+      "## THE PEOPLE DRAWING THE BOOM",
+    "Anime’s expansion has been accompanied by persistent concerns about low-paid work and demanding production cycles. Helen McCarthy’s history of television anime describes these pressures as part of the industry’s development, not an unfortunate footnote to its success. Conditions vary between employers and roles, so this is not a claim that every studio or artist has the same experience. [Helen McCarthy, BFI: A short history of small-screen anime](https://www.bfi.org.uk/sight-and-sound/features/short-history-small-screen-anime)",
+      "Market growth is not a reliable substitute for evidence about working lives. JAniCA’s Animation Creators Survey 2023, conducted in late 2022, examines employment arrangements, pay, hours and differences between production roles. Its 429 valid responses form a survey sample, not a census of everyone working in anime and not a current 2026 salary snapshot. [JAniCA: Animation Creators Survey 2023, research conducted in 2022](https://www.janica.jp/survey/survey2023Report.pdf)",
+      "The report’s distinctions matter because “animator” is not one uniform job. Experience, responsibilities and employment status differ. An overall earnings figure can conceal the position of an entrant doing in-between work, while freelance arrangements can distribute income and uncertainty differently from salaried employment. Reading only a headline average would miss much of what the survey is designed to reveal. [JAniCA: Animation Creators Survey 2023, research conducted in 2022](https://www.janica.jp/survey/survey2023Report.pdf)",
+      "The underlying business question is whether success creates sustainable production capacity. More commissions help only if schedules, supervision and compensation allow skilled people to stay and newer workers to learn. Repeatedly depending on extraordinary effort is a fragile way to supply an expanding audience.",
+      "A useful discussion of the future therefore asks concrete questions: who carries the risk of a delay, who owns valuable rights, how training is paid for and whether workers can negotiate realistic terms. Those questions are less glamorous than a record-breaking franchise, but they affect what reaches the screen.",
+      "## ANIME’S INFLUENCE ON GLOBAL POP CULTURE",
+      "Fashion offers a tangible example. LOEWE’s Howl’s Moving Castle collaboration translated Ghibli characters and imagery into clothing, bags and accessories. Its use of leather marquetry, embroidery and other craft techniques demonstrates something more specific than “anime is fashionable”: drawn characters can become material design. [LOEWE: Howl’s Moving Castle collaboration](https://www.loewe.com/eur/en/stories-collection/loewe-howls-moving-castle.html)",
+      "Music moves in the other direction as well. A song can introduce listeners to a series, while the series supplies emotional context for the song. YOASOBI’s Idol, the opening theme for Oshi no Ko, reached number one on Billboard’s Global Excl. U.S. chart dated June 10, 2023. That chart excludes United States consumption; it should not be confused with the separate Global 200 chart. [Billboard Japan: YOASOBI’s Idol tops Global Excl. U.S., June 2023](https://www.billboard-japan.com/d_news/detail/126098/2)",
+      "In visual culture, the exchange ranges from highly visible collaborations to a fan learning composition by drawing a favourite character. An action pose, a colour palette or a way of cutting between images can be borrowed and transformed. Influence is not always ownership, and a resemblance alone does not establish a specific creator’s source. The most interesting exchanges produce new work rather than merely repeat familiar symbols.",
+      "Anime’s international life also changes the idea of cultural export. A work can remain recognizably Japanese while being voiced, discussed, drawn and reinterpreted elsewhere. Audiences are participants in its meaning, even when they have no control over its commercial rights.",
+      "## THE FUTURE OF ANIME",
+      "Anime’s future is unlikely to be a simple contest between tradition and technology. The more useful distinction is between tools that expand creative choices and business practices that narrow them. Digital production, international collaboration and new distribution arrangements can support ambitious work, but they do not remove the need for direction, editing, performance and human judgment.",
+      "Generative AI raises unresolved questions about permission, credit, compensation and the value of training human artists. Predictions that it will either rescue or destroy the whole industry are premature. Any specific use should be judged by what material it relies on, whose work it replaces or assists, and whether the people involved have meaningful control.",
+      "International demand also creates an artistic choice. Financing can encourage work that travels easily, yet anime’s appeal has often depended on the distinctive, strange or locally particular. An industry that copies only its most recent global hit risks weakening the variety that brought audiences in.",
+      "The most promising future would make room for both the enormous franchise and the unfamiliar new voice. That requires more than a larger catalogue. It requires an audience willing to explore and a production system capable of supporting the people who give those discoveries form.",
+      "A child’s first meeting with Goku, a late-night argument about Light Yagami or a quiet encounter with a Ghibli landscape can become the beginning of that exploration. Anime travelled because its images could cross borders. It stayed because viewers found something in those images worth carrying into their own lives."
+    ],
+    "source": {
+      "name": "Association of Japanese Animations: Anime Industry Report 2025, English summary released March 2026",
+      "url": "https://aja.gr.jp/english/japan-anime-data"
+    },
+    "references": [
+      {
+        "name": "National Film Archive of Japan: Japanese Animated Film Classics",
+        "url": "https://animation.filmarchives.jp/en/aboutworks.html"
+      },
+      {
+        "name": "National Film Archive of Japan: The Dull Sword, 1917",
+        "url": "https://animation.filmarchives.jp/en/works/view/100183"
+      },
+      {
+        "name": "Jonathan Clements, BFI: The seeds of anime",
+        "url": "https://www.bfi.org.uk/sight-and-sound/features/seeds-anime-how-japanese-animation-arose"
+      },
+      {
+        "name": "Tezuka Productions: Astro Boy, first television series",
+        "url": "https://tezukaosamu.net/en/anime/30.html"
+      },
+      {
+        "name": "Helen McCarthy, BFI: A short history of small-screen anime",
+        "url": "https://www.bfi.org.uk/sight-and-sound/features/short-history-small-screen-anime"
+      },
+      {
+        "name": "BFI: Anime, the little word that conquered the world",
+        "url": "https://www.bfi.org.uk/sight-and-sound/features/anime-little-word-that-conquered-world"
+      },
+      {
+        "name": "Toei Animation: Dragon Ball",
+        "url": "https://www.toei-animation.com/catalog/dragon-ball/"
+      },
+      {
+        "name": "The Pokémon Company: Corporate and franchise history",
+        "url": "https://corporate.pokemon.co.jp/en/aboutus/history/"
+      },
+      {
+        "name": "Toei Animation: One Piece",
+        "url": "https://www.toei-animation.com/catalog/one-piece/"
+      },
+      {
+        "name": "Naruto official: About the manga and anime",
+        "url": "https://naruto-official.com/en/about"
+      },
+      {
+        "name": "Nippon TV: Death Note animation catalogue",
+        "url": "https://www.ntv.co.jp/english/pc/2011/03/death-note-1.html"
+      },
+      {
+        "name": "Attack on Titan: Official tenth-anniversary history",
+        "url": "https://shingeki.tv/10th/"
+      },
+      {
+        "name": "Aniplex: Demon Slayer official introduction",
+        "url": "https://demonslayer-anime.com/sva/intro/"
+      },
+      {
+        "name": "Studio Ghibli: Studio history",
+        "url": "https://www.ghibli.jp/history/"
+      },
+      {
+        "name": "Academy of Motion Picture Arts and Sciences: 2003 Oscars",
+        "url": "https://www.oscars.org/oscars/ceremonies/2003"
+      },
+      {
+        "name": "Academy of Motion Picture Arts and Sciences: 2024 Oscars",
+        "url": "https://www.oscars.org/oscars/ceremonies/2024"
+      },
+      {
+        "name": "Netflix: AnimeJapan 2025 and 2024 viewing data",
+        "url": "https://about.netflix.com/en/news/anime-japan-2025"
+      },
+      {
+        "name": "Netflix: MAPPA strategic partnership, January 2026",
+        "url": "https://about.netflix.com/en/news/netflix-strengthens-strategtic-parternship-with-mappa"
+      },
+      {
+        "name": "Association of Japanese Animations: Anime Industry Report 2025, English summary released March 2026",
+        "url": "https://aja.gr.jp/english/japan-anime-data"
+      },
+      {
+        "name": "Aki Yoshimi (2023): Management Accounting Issues in Production Committee",
+        "url": "https://www.jstage.jst.go.jp/article/jma/31/1/31_23/_article/-char/en"
+      },
+      {
+        "name": "Álvaro David Hernández Hernández (2018): The Anime Industry, Networks of Participation, and Environments for the Management of Content in Japan",
+        "url": "https://www.mdpi.com/2076-0752/7/3/42"
+      },
+      {
+        "name": "JAniCA: Animation Creators Survey 2023, research conducted in 2022",
+        "url": "https://www.janica.jp/survey/survey2023Report.pdf"
+      },
+      {
+        "name": "Anime Expo: Convention and community history",
+        "url": "https://www.anime-expo.org/ax/about/"
+      },
+      {
+        "name": "LOEWE: Howl’s Moving Castle collaboration",
+        "url": "https://www.loewe.com/eur/en/stories-collection/loewe-howls-moving-castle.html"
+      },
+      {
+        "name": "Billboard Japan: YOASOBI’s Idol tops Global Excl. U.S., June 2023",
+        "url": "https://www.billboard-japan.com/d_news/detail/126098/2"
+      },
+      {
+        "name": "Japan House London: Manga",
+        "url": "https://www.japanhouselondon.uk/collections/manga/"
+      }
+    ],
+    "tags": [
+      "Japanese anime",
+      "anime history",
+      "Japanese animation",
+      "anime industry",
+      "manga and anime",
+      "anime culture",
+      "Studio Ghibli",
+      "Dragon Ball",
+      "One Piece",
+      "Naruto",
+      "Pokémon",
+      "Death Note",
+      "Attack on Titan",
+      "Demon Slayer"
+    ],
+    "faq": [
+      {
+        "question": "What is anime?",
+        "answer": "In English, anime usually refers to animation associated with Japan. It includes many genres and visual styles. In Japanese, the word can refer to animation more broadly, including works made elsewhere."
+      },
+      {
+        "question": "When did Japanese anime begin?",
+        "answer": "Commercially shown Japanese animation dates to 1917, although the early record is incomplete. Astro Boy’s 1963 half-hour television series was a major industrial turning point, not the invention of Japanese animation."
+      },
+      {
+        "question": "What is the difference between manga and anime?",
+        "answer": "Manga is comics, while anime is animation. Many anime adapt manga, but others begin as original screen stories, novels or games. Pokémon, for example, began with video games before its television anime."
+      },
+      {
+        "question": "Why is anime popular worldwide?",
+        "answer": "Its appeal includes genre variety, expressive visuals, memorable characters and sustained storytelling. International television, translation, streaming and active fan communities made these works easier to discover and share."
+      },
+      {
+        "question": "How large is the anime industry?",
+        "answer": "AJA’s Anime Industry Report 2025, with an English summary released in March 2026, puts the broad 2024 anime market at ¥3.8407 trillion. This includes distribution, merchandise and overseas business; it is not studio revenue or animator income."
+      },
+      {
+        "question": "Is all anime suitable for children?",
+        "answer": "No. Anime includes children’s entertainment as well as works with violence, sexual material or disturbing themes. Suitability depends on the individual title and its age classification, not the fact that it is animated."
+      }
+    ],
+    "readingTime": "16 min read"
+  },
+  {
     "id": "116",
     "slug": "rothschild-family-banking-dynasty-history-myth",
     "title": "ROTHSCHILD FAMILY: THE BANKING DYNASTY THAT FINANCED EUROPE",
