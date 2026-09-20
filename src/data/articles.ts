@@ -54,6 +54,236 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "115",
+    "slug": "bermuda-triangle-ships-planes-mystery-reality",
+    "title": "THE BERMUDA TRIANGLE: WHAT REALLY HAPPENED TO THE SHIPS AND PLANES THAT VANISHED?",
+    "seoTitle": "Bermuda Triangle: What Happened to Missing Ships and Planes?",
+    "metaDescription": "Investigate the Bermuda Triangle through Flight 19, USS Cyclops, Star Tiger and Star Ariel. What is documented, what is plausible, and what remains unresolved?",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "THE BERMUDA TRIANGLE",
+      "gold": "VANISHED"
+    },
+    "excerpt": "Real disappearances, incomplete evidence and a legend that grew around them. The case files reveal a more complicated story than either a supernatural mystery or a single neat solution.",
+    "category": "World",
+    "date": "2026-09-20",
+    "lastUpdated": "2026-09-20",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/bermuda-Triangle-ships-planes.png",
+    "coverAlt": "Artistic illustration of a ship in rough seas and aircraft above and below the water, evoking Bermuda Triangle mythology rather than a documented incident",
+    "homepageImagePosition": "60% 45%",
+    "content": [
+      "The Bermuda Triangle is real as a cultural landmark. The ships and aircraft associated with it were also real, and many people genuinely died. What has not been established is the extraordinary claim that an invisible boundary in the Atlantic makes vessels disappear by a different set of rules.",
+      "The evidence does not produce one satisfying answer to every loss. Some cases have a persuasive ordinary explanation. Others remain unresolved because the wreckage, instruments and final witnesses were never recovered. Neither category provides evidence of a portal, alien intervention or an ocean that selectively suspends physics.",
+      "NOAA’s assessment is that mysterious disappearances have not been shown to occur more frequently here than in other large, heavily travelled ocean regions. That is a conclusion about the alleged pattern, not a declaration that every individual accident has been solved. Keeping those questions separate is the key to understanding the Bermuda Triangle. [NOAA: What is the Bermuda Triangle?](https://oceanservice.noaa.gov/facts/bermudatri.html)",
+      "Illustration note: the supplied hero is an imagined maritime and aviation disaster scene. Its dramatic sky and submerged aircraft are artistic imagery, not photographs or reconstructions of the cases discussed below.",
+      "## WHERE IS THE BERMUDA TRIANGLE?",
+      "The usual outline connects Florida, Bermuda and Puerto Rico, enclosing part of the western North Atlantic and the Bahamas. A Navy historical review describes this popular outline while tracing the name’s prominence to Vincent Gaddis’s 1964 Argosy article. The shape is a storytelling convention, not a boundary discovered by oceanographers. [Naval History and Heritage Command: Exorcizing the Devil’s Triangle, originally published in 1974](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/e/exorcizing-the-devils-triangle.html)",
+      "NOAA notes that the Triangle has no officially delineated boundary and is not recognised as an official geographic name by the U.S. Board on Geographic Names. Its size therefore depends on the outline a writer chooses. Presenting a single exact area without defining that outline creates false precision. [NOAA: What is the Bermuda Triangle?](https://oceanservice.noaa.gov/facts/bermudatri.html)",
+      "That geographical looseness matters. An aircraft approaching Bermuda from the Azores, a ship sailing north from Barbados and a vessel near the Florida Straits need not have failed in the same environment. Their last known positions may not even be where they were lost. A broad label can conceal more than it explains.",
+      "The first useful question about any famous Triangle story is consequently very plain: where was the vessel last reliably located? The second is whether that position came from an independent fix, a crew estimate or a later reconstruction. Drawing the final journey as a confident line on a map can make uncertain evidence look much firmer than it is.",
+      "## FLIGHT 19: FIVE AIRCRAFT, A NAVIGATION PROBLEM AND A FADING RECORD",
+      "On December 5, 1945, five U.S. Navy TBM Avenger aircraft left Naval Air Station Fort Lauderdale on a navigation training mission over the Bahamas. Fourteen men were aboard. Flight 19’s disappearance became the defining aviation story of the Bermuda Triangle. [Naval History and Heritage Command: The loss of Flight 19](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html)",
+      "The Navy’s historical reconstruction points to radio reports of compass trouble and the flight leader’s disorientation. Its plausible sequence is navigation failure, fuel exhaustion and ditching as worsening weather reduced survival prospects. The exact loss locations and final events have not been established. This is a supported reconstruction, not a recovered flight recording. [Samuel J. Cox, Naval History and Heritage Command (2021): The disappearance of Flight 19 and Training 49](https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html)",
+      "A PBM Mariner sent to search also disappeared, with thirteen men aboard. The same Navy account describes radar and eyewitness evidence consistent with a catastrophic airborne fire; fuel vapour was a known vulnerability of the type. Its exact cause was not determined. Counting this as another equally inexplicable vanishing discards evidence that distinguishes it from the Avengers. [Samuel J. Cox, Naval History and Heritage Command (2021): The disappearance of Flight 19 and Training 49](https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html)",
+      "Flight 19 illustrates why an investigation can identify a likely pathway without proving every step. A crew may report an instrument problem, yet investigators without the instrument cannot establish what physically failed. A likely fuel shortage does not reveal the exact ditching point. Those gaps deserve acknowledgment, not dialogue invented for dramatic effect.",
+      "It also cautions against using “human error” as a verdict on character. Navigation is a system involving equipment, training, weather, communications and decisions under uncertainty. Naming a likely error is the beginning of explaining an accident, not a substitute for that explanation.",
+      "## USS CYCLOPS: A LARGE SHIP AND AN ENDURING UNKNOWN",
+      "USS Cyclops was a naval collier, a ship built to carry fuel and cargo. Its official history records departure from Rio de Janeiro on February 16, 1918, followed by a call at Barbados on March 3 and 4. After that stop, the ship was never heard from again. [Naval History and Heritage Command: Cyclops II, official ship history](https://www.history.navy.mil/research/histories/ship-histories/danfs/c/cyclops-fuel-ship-no-4-ii1.html)",
+      "The Navy’s H-Gram 016 account places 306 people aboard when Cyclops left Barbados on March 4, bound for Baltimore with manganese ore. No distress call or confirmed trace explained its fate. The loss occurred during the First World War, but wartime context alone does not establish an enemy attack. [Naval History and Heritage Command: H-Gram 016, March 2018](https://www.history.navy.mil/content/dam/nhhc/about-us/leadership/hgram_pdfs/H-Gram_016.pdf)",
+      "The responsible classification is unresolved. A convincing solution would need to connect a proposed mechanism to this ship through physical evidence, reliable contemporary records or both. The mere possibility of a storm, structural failure or cargo-related problem is not enough to select one as the established cause.",
+      "Cyclops also exposes a problem with the familiar phrase “vanished without a trace.” It describes what searchers and historians lack. It does not describe what happened physically. A vessel can sink through an ordinary sequence of failures and leave too little recoverable evidence to reconstruct that sequence. The absence of an answer remains important, but it is not an answer of its own.",
+      "## STAR TIGER: WHAT THE ORIGINAL INQUIRY ACTUALLY FOUND",
+      "British South American Airways’ Tudor IV Star Tiger disappeared on January 30, 1948, while flying from Santa Maria in the Azores toward Bermuda. The court report records six crew and twenty-five passengers, thirty-one people in total. [Ministry of Civil Aviation (1948): Star Tiger court investigation, University of Edinburgh archive](https://era.ed.ac.uk/items/378a5896-95b5-491c-8f33-ec198c8b4e41)",
+      "The inquiry examined a flight planned at 2,000 feet, the reliability of wind forecasts and the limited time available to recover from an emergency at low altitude. It did not establish a destructive storm at the likely loss position. Its discussion of operational vulnerabilities should not be converted into a confirmed crash sequence. [Ministry of Civil Aviation (1948): Star Tiger court investigation, University of Edinburgh archive](https://era.ed.ac.uk/items/378a5896-95b5-491c-8f33-ec198c8b4e41)",
+      "Most importantly, the court could suggest possibilities but could not elevate any to a probable explanation. Star Tiger remains an unresolved loss in that record. A later hypothesis may be worth testing, but a persuasive retelling cannot retroactively change the inquiry’s evidentiary conclusion. [Ministry of Civil Aviation (1948): Star Tiger court investigation, University of Edinburgh archive](https://era.ed.ac.uk/items/378a5896-95b5-491c-8f33-ec198c8b4e41)",
+      "This is where both sensationalism and overconfident debunking go wrong. One turns uncertainty into an impossible event. The other treats a mechanism that could work as proof that it did work. Historical accuracy requires resisting both temptations.",
+      "## STAR ARIEL: ANOTHER TUDOR, A DIFFERENT FLIGHT",
+      "Star Ariel disappeared on January 17, 1949, on a flight from Bermuda to Kingston, Jamaica. In a statement to Parliament two days later, the British minister of civil aviation identified it as a British South American Airways Tudor IVB carrying thirteen passengers and seven crew. Those twenty people belonged to a separate case, not a continuation of Star Tiger’s flight. [UK Parliament, Hansard: Loss of the Star Ariel, January 19, 1949](https://api.parliament.uk/historic-hansard/lords/1949/jan/19/loss-of-the-star-ariel)",
+      "The later accident report did not determine a cause. PlaneHistoria’s account of that report describes the absence of an established technical explanation and its rejection of bad weather as the explanation supported by the available record. This secondary account is useful for the conclusion, but it is not new physical evidence. [PlaneHistoria: Star Ariel and the investigation’s unresolved conclusion](https://planehistoria.com/the-star-ariel-another-bsaa-disappearance/)",
+      "Similarity of aircraft family naturally invites questions about shared vulnerabilities. It does not establish that the two aircraft suffered the same failure. To make that argument, an investigator would need evidence connecting a particular defect to each loss, rather than simply place two names beside one another.",
+      "Star Ariel therefore belongs in the unresolved category. Calling it unexplained is accurate. Calling its disappearance inexplicable by ordinary processes goes beyond what the evidence can support.",
+      "## MARINE SULPHUR QUEEN: DEBRIS, ROUGH SEAS AND MULTIPLE POSSIBILITIES",
+      "The converted tanker Marine Sulphur Queen disappeared during a February 1963 voyage from Beaumont, Texas, to Norfolk, Virginia. The Coast Guard presumed all thirty-nine crew lost. Its conclusions indicate a likely loss on February 4 near the approach to the Florida Straits, after encounters with high winds and rough seas. [U.S. Coast Guard: Marine Sulphur Queen investigation conclusions](https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/boards/marsulqueen.pdf)",
+      "Crucially, scattered items of debris were identified as coming from the ship. The vessel’s disappearance was not a case in which literally nothing was found. Nevertheless, the lack of survivors and the ship’s main remains prevented the investigators from determining the exact cause. [U.S. Coast Guard: Marine Sulphur Queen investigation conclusions](https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/boards/marsulqueen.pdf)",
+      "The difference between recovered debris and a recovered wreck is substantial. A life-saving appliance or name board can establish identity without revealing the order in which flooding, structural damage or another failure occurred. “Evidence exists” and “the accident is solved” are not equivalent statements.",
+      "This case belongs in a responsible account because it resists the legend’s simplest template. There was a documented voyage, an investigative record, adverse conditions and recovered material. There was also a limit to what that evidence could prove.",
+      "## EL FARO: WHAT A MUCH FULLER INVESTIGATION CAN REVEAL",
+      "On October 1, 2015, the cargo ship El Faro sank near the Bahamas during Hurricane Joaquin, killing all thirty-three people aboard. It is included here as a documented regional disaster with a developed causal investigation, not as a permanently vanished vessel. [NTSB: Sinking of the cargo vessel El Faro, investigation and findings](https://www-s.ntsb.gov/investigations/Pages/DCA16MM001.aspx)",
+      "The NTSB’s findings identified the captain’s insufficient action to avoid the hurricane, failure to use the latest weather information and late decision to muster the crew. Contributing factors included ineffective bridge teamwork, inadequate company oversight, flooding and loss of propulsion. The report describes interacting operational and technical failures rather than a single mysterious force. [NTSB: Sinking of the cargo vessel El Faro, investigation and findings](https://www-s.ntsb.gov/investigations/Pages/DCA16MM001.aspx)",
+      "This comparison is valuable precisely because El Faro should not be folded into a list of unexplained disappearances. Once a case has a supported account, its classification must change. A database that keeps every once-missing vessel permanently labelled mysterious is measuring the persistence of a story, not the state of knowledge.",
+      "The case also shows why reducing a disaster to “a hurricane did it” is insufficient. Weather establishes the environment. A safety investigation asks how the vessel entered that environment, what information was available, how systems responded and what might have interrupted the sequence.",
+      "## THE REAL HAZARDS: WEATHER, WATER AND LIMITED MARGINS",
+      "### HURRICANES ARE REAL, BUT THEY ARE NOT A UNIVERSAL ANSWER",
+      "The National Hurricane Center explains that tropical cyclones produce dangerous winds and waves, with hazardous swell extending beyond the immediate storm centre. A route can face risk even when a traveller is not looking directly into the most dramatic part of a hurricane. [National Hurricane Center: Hurricane hazards](https://www.nhc.noaa.gov/prepare/hazards.php)",
+      "Yet a general climatic hazard cannot be assigned to a particular disappearance without checking the date, route and contemporaneous weather. If an inquiry did not find storm conditions capable of explaining a loss, it is misleading to insert a hurricane because hurricanes occur somewhere in the broader region.",
+      "Weather evidence also has a time dimension. A forecast available before departure is not the same as a reconstruction made afterward. Fair analysis distinguishes what a crew could reasonably know from what later investigators could assemble.",
+      "### THE GULF STREAM MOVES WATER AND COMPLICATES CONDITIONS",
+      "NOAA describes the Gulf Stream as an intense, warm current running northward along Florida before turning eastward off North Carolina. More precisely, the National Weather Service distinguishes the Florida Current from the Gulf Stream proper while explaining their common treatment as the Gulf Stream system. [NOAA: How fast is the Gulf Stream?](https://oceanservice.noaa.gov/facts/gulfstreamspeed.html) [National Weather Service Melbourne: Gulf Stream and Florida Current terminology](https://www.weather.gov/mlb/gulfstream)",
+      "The Ocean Prediction Center warns that winds opposing this current system can generate particularly steep, short-period breaking waves. The combination matters: the same wind speed need not produce the same sea conditions when the underlying current changes. [NOAA Ocean Prediction Center: Wind against current and dangerous waves](https://ocean.weather.gov/Loops/WindCurrent_ncomhires_00Z/wind_against_current_pdd.php)",
+      "There is also a straightforward search implication. Floating material moves with water and wind, so a debris field is not a stationary marker of the point where a vessel failed. A search must account for elapsed time and drift. This physical consequence does not establish what happened in any specific historical case; it explains why an empty search area can be difficult to interpret.",
+      "Nor should the Gulf Stream be imagined as a universal eraser. Different objects float, sink and drift differently. Explaining search difficulty requires the actual conditions and the object being sought, not the current’s name alone.",
+      "### NAVIGATION CAN FAIL WITHOUT PHYSICS FAILING",
+      "A last reported position is information produced by people and instruments. Its quality depends on the method used and the circumstances in which it was obtained. An uncertain position can expand a search area dramatically, while a confidently wrong position can focus attention in the wrong place.",
+      "In an accident narrative, it is useful to distinguish reported instrument trouble, demonstrated instrument failure and a navigation mistake inferred later. They may overlap, but they are not interchangeable. Flight 19 is a reminder that fragmentary communications can support a likely reconstruction without supplying every technical detail.",
+      "## DO COMPASSES REALLY GO WRONG IN THE BERMUDA TRIANGLE?",
+      "Magnetic north and geographic, or true, north are different references. NOAA defines magnetic declination as the angle between them; its value varies by location and changes with time. Navigators account for it when relating a compass direction to a map or chart. [NOAA NCEI: Magnetic declination](https://www.ngdc.noaa.gov/geomag/declination.shtml)",
+      "A place where that angle is zero is not a place where the compass has stopped working. Magnetic and true north simply align there. Treating alignment as a sinister malfunction reverses its meaning.",
+      "This matters because Triangle stories often blur ordinary magnetic variation, a particular instrument’s fault and an alleged regional anomaly. They are different claims. Evidence that one crew had compass difficulties would not establish that all compasses are affected by an invisible geographic boundary.",
+      "A claim of a special magnetic effect would need repeatable measurements, dates, positions, instrument checks and comparison with the expected field. The existence of a mysterious accident supplies none of those measurements by itself.",
+      "## ROGUE WAVES, METHANE AND OTHER PROPOSED SOLUTIONS",
+      "Rogue waves are real. NOAA describes unusually large waves relative to the surrounding sea and explains that intersecting wave systems can reinforce one another. They are an oceanographic hazard, not a phenomenon confined to a triangle on a popular map. [NOAA: What is a rogue wave?](https://oceanservice.noaa.gov/facts/roguewaves.html)",
+      "But “a wave could sink a vessel” and “a rogue wave sank Cyclops” are very different statements. The second requires case-specific evidence. A demonstration of a possible mechanism is not a reconstruction of an unobserved historical event.",
+      "Methane eruptions are also sometimes offered as a natural-sounding solution. NOAA lists the idea among proposed explanations while distinguishing scientific plausibility from evidence. None of the accident findings cited in this article establishes a methane release as the cause of the losses discussed. [NOAA: What is the Bermuda Triangle?](https://oceanservice.noaa.gov/facts/bermudatri.html)",
+      "The same evidentiary test applies to more extravagant stories. Aliens, Atlantis and portals cannot become the preferred explanation merely because the wreck is missing. A theory has to produce evidence that supports it specifically, not just point at a gap in some other account.",
+      "That distinction is also central to PRESDA’s [Area 51 investigation](/articles/area-51-aliens-myth-reality-secret-aircraft/): an authentic unanswered question does not verify every story attached to it.",
+      "## MYSTERY VS REALITY",
+      "### WHICH CASES HAVE PLAUSIBLE EXPLANATIONS?",
+      "Flight 19 has a Navy-supported navigational and fuel-exhaustion reconstruction, with its exact final sequence unresolved. The search Mariner has evidence consistent with a catastrophic fire. El Faro has detailed NTSB findings about weather avoidance, decision-making and shipboard failures. These are different levels of explanation and should be labelled accordingly.",
+      "A plausible account is stronger when it is tied to the case’s communications, physical findings or operational records. It remains provisional where key links are missing. Describing that limit makes the explanation more trustworthy, not less useful.",
+      "### WHICH REMAIN UNRESOLVED?",
+      "Cyclops, Star Tiger and Star Ariel lack established causes in the records discussed here. Marine Sulphur Queen has recovered debris and a documented investigation, but its exact failure mechanism was not determined. “Unresolved” is an assessment of the available evidence, not a synonym for paranormal.",
+      "These categories are open to revision. An authenticated wreck, a newly accessible file or a better-supported technical analysis could change what can be said. The correct response to new evidence is to update the case, rather than protect either a legend or a premature debunking.",
+      "### HOW MANY DISAPPEARANCES ARE ACTUALLY DOCUMENTED?",
+      "There is no single authoritative all-time Bermuda Triangle total in the official sources consulted here. The label has no agreed boundary, and a defensible count would also need a start date and a definition of disappearance. It must distinguish missing vessels, confirmed sinkings, fatalities and cases later resolved.",
+      "This article examines seven named case groups: Flight 19, its search Mariner, Cyclops, Star Tiger, Star Ariel, Marine Sulphur Queen and El Faro. That is an editorial selection, not a regional census. Flight 19 alone involved five aircraft, showing why a count of incidents differs from a count of vehicles. El Faro is a comparison case with established investigative findings, so the seven must not be advertised as seven unsolved mysteries.",
+      "A reliable catalogue would publish its inclusion rules, source each entry and record whether wreckage was found. It would retain uncertainty about the final location instead of moving that location inside the Triangle to fit the story. Without those safeguards, a precise-looking total is not an informative statistic.",
+      "### IS THE TRIANGLE STATISTICALLY MORE DANGEROUS?",
+      "The Coast Guard does not recognise the Triangle as a geographic zone posing a special hazard to ships or aircraft. Its review of losses found no extraordinary factors requiring an explanation beyond physical causes. [U.S. Coast Guard Historian: Does the Bermuda Triangle really exist?](https://www.history.uscg.mil/Frequently-Asked-Questions/)",
+      "That official assessment should not be embellished into an invented risk ratio. This article has not calculated an accident rate from a complete traffic dataset. A valid comparison would require the same years, consistent boundaries, comparable vessel or aircraft types and a measure of exposure such as journeys or operating hours.",
+      "Counts alone cannot answer the question. A busy route can accumulate more accidents while having a lower risk per journey than a quiet route. Mixing small recreational boats with commercial aircraft, or modern operations with early transatlantic flying, obscures rather than measures danger.",
+      "The conclusion supported here is therefore specific: the cited official assessments do not establish an anomalous Triangle danger. They do not claim that every point in the Atlantic is equally safe in every season or that normal maritime and aviation risks have disappeared.",
+      "### DOES NO DISTRESS CALL MEAN SOMETHING IMPOSSIBLE HAPPENED?",
+      "No. A distress call requires time, functioning equipment, someone able to transmit and a receiver able to hear it. Absence of a recorded message cannot by itself tell an investigator which of those links was missing. It narrows the evidence, not the laws of nature.",
+      "Likewise, failing to find wreckage is not proof that nothing entered the sea. Search success depends on knowing where to look and being able to detect the remains. A negative search result needs to be interpreted against that search’s coverage and limitations.",
+      "## WHY THE LEGEND OUTLIVED THE INVESTIGATIONS",
+      "The Triangle offers a memorable shape for a complicated archive. Separate losses become episodes of one story. Different aircraft, cargoes, weather systems and decades begin to look connected because the label is repeated beside them.",
+      "An honest account has to reverse that process. Restore the individual vessel. Recover the date and route. Ask what the inquiry actually concluded. Notice whether a claim of “no trace” survives the discovery of recorded debris. Resist the temptation to turn a list of unanswered questions into evidence for one shared answer.",
+      "The pattern resembles the transformation examined in PRESDA’s [history of the Illuminati](/articles/illuminati-secret-society-real-history-myth/): documented events can acquire a much larger mythology, and repetition can make an unsupported connection feel established.",
+      "There is also a human cost to the most theatrical versions. These were crews and passengers whose relatives were left without adequate answers. Respect for them does not require a supernatural story. It requires care about what is known, honesty about what is missing and restraint about assigning blame.",
+      "## WHAT MATTERS FOR REAL-WORLD SAFETY",
+      "The National Hurricane Center’s marine guidance emphasises repeatedly comparing a ship’s planned movement with the latest hurricane forecast. The lesson is continuing attention to changing conditions, not reassurance from being outside a famous outline. [National Hurricane Center: Marine safety and hurricane avoidance](https://www.nhc.noaa.gov/prepare/marine.php)",
+      "For the reader, the broader point is not to memorise a supposedly cursed patch of ocean. It is to understand how weather, maintenance, communication, navigation and organisational decisions interact. Those are mechanisms that investigators can study and operators can improve.",
+      "The Bermuda Triangle does not need a single final revelation. Its history needs accurate individual case files. Some end with an explanation; others still end with a question. Neither ending justifies inventing what happened to the people who never came home.",
+      "## SOURCES AND EDITORIAL METHOD",
+      "This investigation prioritises NOAA, the U.S. Coast Guard, naval histories, the NTSB and contemporary British records. The Star Tiger court report was consulted through the University of Edinburgh’s digitised copy. Star Ariel’s date, route and occupants are documented in Hansard; the account of its later report’s conclusion uses the identified secondary aviation history. Interpretive passages explain the limits of evidence rather than present a new accident investigation.",
+      "The selected cases are not a complete disappearance database, and no original regional risk estimate is claimed. The hero is an artistic illustration. Sources were checked in September 2026.",
+      "[NOAA: What is the Bermuda Triangle?](https://oceanservice.noaa.gov/facts/bermudatri.html)",
+      "[U.S. Coast Guard Historian: Does the Bermuda Triangle really exist?](https://www.history.uscg.mil/Frequently-Asked-Questions/)",
+      "[Naval History and Heritage Command: Exorcizing the Devil’s Triangle, originally published in 1974](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/e/exorcizing-the-devils-triangle.html)",
+      "[Samuel J. Cox, Naval History and Heritage Command (2021): The disappearance of Flight 19 and Training 49](https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html)",
+      "[Naval History and Heritage Command: Cyclops II, official ship history](https://www.history.navy.mil/research/histories/ship-histories/danfs/c/cyclops-fuel-ship-no-4-ii1.html)",
+      "[Naval History and Heritage Command: H-Gram 016, March 2018](https://www.history.navy.mil/content/dam/nhhc/about-us/leadership/hgram_pdfs/H-Gram_016.pdf)",
+      "[Ministry of Civil Aviation (1948): Star Tiger court investigation, University of Edinburgh archive](https://era.ed.ac.uk/items/378a5896-95b5-491c-8f33-ec198c8b4e41)",
+      "[UK Parliament, Hansard: Loss of the Star Ariel, January 19, 1949](https://api.parliament.uk/historic-hansard/lords/1949/jan/19/loss-of-the-star-ariel)",
+      "[PlaneHistoria: Star Ariel and the investigation’s unresolved conclusion](https://planehistoria.com/the-star-ariel-another-bsaa-disappearance/)",
+      "[U.S. Coast Guard: Marine Sulphur Queen investigation conclusions](https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/boards/marsulqueen.pdf)",
+      "[NTSB: Sinking of the cargo vessel El Faro, investigation and findings](https://www-s.ntsb.gov/investigations/Pages/DCA16MM001.aspx)",
+      "[National Hurricane Center: Hurricane hazards](https://www.nhc.noaa.gov/prepare/hazards.php)",
+      "[NOAA: How fast is the Gulf Stream?](https://oceanservice.noaa.gov/facts/gulfstreamspeed.html)",
+      "[National Weather Service Melbourne: Gulf Stream and Florida Current terminology](https://www.weather.gov/mlb/gulfstream)",
+      "[NOAA Ocean Prediction Center: Wind against current and dangerous waves](https://ocean.weather.gov/Loops/WindCurrent_ncomhires_00Z/wind_against_current_pdd.php)",
+      "[NOAA NCEI: Magnetic declination](https://www.ngdc.noaa.gov/geomag/declination.shtml)",
+      "[NOAA: What is a rogue wave?](https://oceanservice.noaa.gov/facts/roguewaves.html)",
+      "[National Hurricane Center: Marine safety and hurricane avoidance](https://www.nhc.noaa.gov/prepare/marine.php)",
+      "[Naval History and Heritage Command: The loss of Flight 19](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html)"
+    ],
+    "source": {
+      "name": "NOAA: What is the Bermuda Triangle?",
+      "url": "https://oceanservice.noaa.gov/facts/bermudatri.html"
+    },
+    "references": [
+      {
+        "name": "NOAA: What is the Bermuda Triangle?",
+        "url": "https://oceanservice.noaa.gov/facts/bermudatri.html"
+      },
+      {
+        "name": "U.S. Coast Guard Historian: Does the Bermuda Triangle really exist?",
+        "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/"
+      },
+      {
+        "name": "Naval History and Heritage Command: Exorcizing the Devil’s Triangle, originally published in 1974",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/e/exorcizing-the-devils-triangle.html"
+      },
+      {
+        "name": "Samuel J. Cox, Naval History and Heritage Command (2021): The disappearance of Flight 19 and Training 49",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html"
+      },
+      {
+        "name": "Naval History and Heritage Command: Cyclops II, official ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/c/cyclops-fuel-ship-no-4-ii1.html"
+      },
+      {
+        "name": "Naval History and Heritage Command: H-Gram 016, March 2018",
+        "url": "https://www.history.navy.mil/content/dam/nhhc/about-us/leadership/hgram_pdfs/H-Gram_016.pdf"
+      },
+      {
+        "name": "Ministry of Civil Aviation (1948): Star Tiger court investigation, University of Edinburgh archive",
+        "url": "https://era.ed.ac.uk/items/378a5896-95b5-491c-8f33-ec198c8b4e41"
+      },
+      {
+        "name": "UK Parliament, Hansard: Loss of the Star Ariel, January 19, 1949",
+        "url": "https://api.parliament.uk/historic-hansard/lords/1949/jan/19/loss-of-the-star-ariel"
+      },
+      {
+        "name": "PlaneHistoria: Star Ariel and the investigation’s unresolved conclusion",
+        "url": "https://planehistoria.com/the-star-ariel-another-bsaa-disappearance/"
+      },
+      {
+        "name": "U.S. Coast Guard: Marine Sulphur Queen investigation conclusions",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/boards/marsulqueen.pdf"
+      },
+      {
+        "name": "NTSB: Sinking of the cargo vessel El Faro, investigation and findings",
+        "url": "https://www-s.ntsb.gov/investigations/Pages/DCA16MM001.aspx"
+      },
+      {
+        "name": "National Hurricane Center: Hurricane hazards",
+        "url": "https://www.nhc.noaa.gov/prepare/hazards.php"
+      },
+      {
+        "name": "NOAA: How fast is the Gulf Stream?",
+        "url": "https://oceanservice.noaa.gov/facts/gulfstreamspeed.html"
+      },
+      {
+        "name": "National Weather Service Melbourne: Gulf Stream and Florida Current terminology",
+        "url": "https://www.weather.gov/mlb/gulfstream"
+      },
+      {
+        "name": "NOAA Ocean Prediction Center: Wind against current and dangerous waves",
+        "url": "https://ocean.weather.gov/Loops/WindCurrent_ncomhires_00Z/wind_against_current_pdd.php"
+      },
+      {
+        "name": "NOAA NCEI: Magnetic declination",
+        "url": "https://www.ngdc.noaa.gov/geomag/declination.shtml"
+      },
+      {
+        "name": "NOAA: What is a rogue wave?",
+        "url": "https://oceanservice.noaa.gov/facts/roguewaves.html"
+      },
+      {
+        "name": "National Hurricane Center: Marine safety and hurricane avoidance",
+        "url": "https://www.nhc.noaa.gov/prepare/marine.php"
+      },
+      {
+        "name": "Naval History and Heritage Command: The loss of Flight 19",
+        "url": "https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html"
+      }
+    ],
+    "tags": [
+      "Bermuda Triangle",
+      "Bermuda Triangle mystery",
+      "Flight 19",
+      "USS Cyclops",
+      "Star Tiger",
+      "Star Ariel",
+      "Bermuda Triangle disappearances",
+      "maritime history"
+    ],
+    "status": "published",
+    "readingTime": "18 min read"
+  },
+  {
     "id": "114",
     "slug": "illuminati-secret-society-real-history-myth",
     "title": "THE ILLUMINATI: THE SECRET SOCIETY THAT ACTUALLY EXISTED",
