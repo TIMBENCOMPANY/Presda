@@ -54,6 +54,212 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "110",
+    "slug": "deja-vu-why-does-it-happen-brain-science",
+    "title": "DEJA VU: WHY DOES IT HAPPEN? THE BRAIN SCIENCE EXPLAINED",
+    "seoTitle": "Deja Vu: Why Does It Happen? Brain Science Explained",
+    "metaDescription": "Why does deja vu happen? Explore its meaning, memory and brain science, leading theories, links to sleep and epilepsy, and when to seek medical advice.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "DEJA VU",
+      "gold": "BRAIN SCIENCE"
+    },
+    "excerpt": "A new moment suddenly feels remembered. Explore what familiarity, memory experiments and neuroscience reveal about deja vu, and what remains uncertain.",
+    "category": "Science",
+    "date": "2026-09-20",
+    "lastUpdated": "2026-09-20",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/dejavu-science-dream-brain-science.png",
+    "coverAlt": "Artistic illustration of a man on a historic city bridge, with a repeated figure suggesting the strange familiarity of deja vu",
+    "homepageImagePosition": "60% 45%",
+    "content": [
+      "You turn a corner in a city you have never visited. The light on the buildings, a passing conversation and the arrangement of the street suddenly seem familiar. For a moment, you feel that you have been here before. Yet you also know that you have not. That tension is what makes deja vu so unsettling.",
+      "The correct French spelling is déjà vu, meaning “already seen.” In neuroscience and psychology, it usually describes a brief sense that the present experience is familiar even though that familiarity seems inappropriate. It is more specific than remembering a place or recognizing a face. The strange part is the disagreement between the feeling and what you know. [Alan S. Brown, Psychological Bulletin (2003): A review of the déjà vu experience](https://pubmed.ncbi.nlm.nih.gov/12784936/)",
+      "So why does deja vu happen? There is no single established explanation for every episode. Experiments support roles for familiarity without successful recall, unnoticed similarities between experiences and conflict within memory judgments. Clinical research also shows that seizure activity can produce related experiences. These findings are informative, but they do not mean ordinary deja vu is a seizure or that scientists can yet identify the cause of an individual fleeting episode.",
+      "## HOW COMMON IS DEJA VU?",
+      "A 2024 systematic review in Frontiers in Neurology pooled 10 studies of healthy participants and estimated that 74% had experienced non-seizure-related deja vu, with a 95% confidence interval of 67% to 79%. This is a pooled estimate from the included studies, not a worldwide census or the percentage experiencing it every year. The studies differed substantially, so the range and the limitations matter as much as the headline number. [Hadzic and Andersson, Frontiers in Neurology (2024): Systematic review and meta-analysis of déjà vu](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full)",
+      "Reported experiences tend to be more common in younger people and become less frequent with age. Brown’s 2003 review also identified associations with travel and education. Such findings do not establish that travel directly causes deja vu or that experiencing it says anything about intelligence. People differ in what they encounter, how they interpret the sensation and what they later remember being asked about. [Alan S. Brown, Psychological Bulletin (2003): A review of the déjà vu experience](https://pubmed.ncbi.nlm.nih.gov/12784936/)",
+      "There is an extra measurement problem: researchers are asking people to remember an unusual memory feeling. Someone who has never heard the term may describe it differently from someone who has read about it. Definitions, questionnaire wording and the period people are asked to remember can affect the answer. “Common” is a sound conclusion; a perfectly precise universal frequency is not. [Hadzic and Andersson, Frontiers in Neurology (2024): Systematic review and meta-analysis of déjà vu](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full)",
+      "## FAMILIARITY AND RECOLLECTION ARE NOT THE SAME",
+      "Imagine recognizing a voice without being able to place its owner. You have a feeling of familiarity, but you cannot retrieve the episode that would explain it. Now imagine remembering a conversation with that person, including where you were and what happened. That richer recovery of an event is recollection. Recognition can draw on both, and the two do not always arrive together. [Anne M. Cleary, Current Directions in Psychological Science (2008): Recognition memory, familiarity and déjà vu](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x)",
+      "This distinction gives scientists a way to study deja vu without invoking a hidden previous life. A present situation may resemble something stored in memory closely enough to feel familiar, while the earlier experience itself remains inaccessible. You detect a match but cannot locate its source. That is a plausible route to the sensation, not proof that every episode contains a forgotten matching memory. [Anne M. Cleary, Current Directions in Psychological Science (2008): Recognition memory, familiarity and déjà vu](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x)",
+      "Deja vu adds something to source-less familiarity: you notice that the familiarity does not fit. Simply failing to name someone you recognize is not necessarily deja vu. The experience becomes especially peculiar when you are convinced a situation is new but the sense of repetition persists. This awareness of a mismatch is one reason researchers study not only memory retrieval, but how we evaluate our own memories.",
+      "## WHAT DOES THE HIPPOCAMPUS HAVE TO DO WITH IT?",
+      "The medial temporal lobe contains structures essential to memory, including the hippocampus and nearby cortical regions. The hippocampus helps bind relationships among elements of an experience, such as what happened, where and in which context. The perirhinal cortex is strongly associated with item familiarity, while parahippocampal regions contribute to contextual and scene information. These regions work within larger networks. [Ranganath and Ritchey, Nature Reviews Neuroscience (2012): Two cortical systems for memory-guided behaviour](https://www.nature.com/articles/nrn3338)",
+      "A useful model proposes that item and context information converge in the hippocampus to support recollection. It helps explain why feeling that something is known can differ from retrieving the event that makes it known. But brain functions do not divide into perfectly separate boxes. Different experiments and theories assign overlapping roles to these structures, and recognition also involves regions beyond the temporal lobe. [Diana, Yonelinas and Ranganath (2007): Imaging recollection and familiarity in the medial temporal lobe](https://pubmed.ncbi.nlm.nih.gov/17707683/)",
+      "It is therefore misleading to call the hippocampus a “deja vu button,” or to claim that a memory has simply been put in the wrong storage drawer. Memory is an active process involving distributed information and judgments about it. The familiar-versus-new decision can become puzzling even when a person remains fully aware that the feeling is misleading.",
+      "## WHY A COMPLETELY NEW PLACE CAN FEEL FAMILIAR",
+      "Consider a hotel lobby with a staircase on the left, a desk ahead and a corridor to the right. Its layout might resemble a building you visited long ago, even though the colours, furniture and purpose are different. This is an illustrative example of the spatial-similarity hypothesis: the arrangement can overlap while the scene itself is new.",
+      "In a 2012 virtual-reality investigation, Anne Cleary and colleagues compared new scenes whose configurations did or did not resemble previously viewed scenes. When participants could not recall the earlier scene, a matching layout was associated with greater familiarity and more reports of deja vu. The experiment made one possible ingredient measurable instead of relying entirely on retrospective stories. [Cleary and colleagues, Consciousness and Cognition (2012): Virtual reality, spatial configuration and déjà vu](https://www.sciencedirect.com/science/article/pii/S1053810012000049)",
+      "Earlier experiments published in 2009 also supported the idea that resemblance can generate familiarity when a person cannot retrieve the relevant earlier scene. The important point is partial overlap. A new situation does not have to be an exact copy of an old one for memory to respond to shared features. [Cleary, Ryals and Nomi (2009): Testing the similarity hypothesis of déjà vu](https://pubmed.ncbi.nlm.nih.gov/19966259/)",
+      "These studies do not show that every unfamiliar street has a forgotten architectural twin. They test one mechanism under controlled conditions. Real experiences combine sights, sounds, movement and expectations, often without any record of what happened immediately before the feeling. A laboratory result can demonstrate a route to deja vu without identifying the route behind your particular episode. [Cleary and colleagues, Consciousness and Cognition (2012): Virtual reality, spatial configuration and déjà vu](https://www.sciencedirect.com/science/article/pii/S1053810012000049)",
+      "## OTHER EXPLANATIONS: ATTENTION, TIMING AND MEMORY CONFLICT",
+      "One proposal is split perception. A person briefly processes a scene while attention is elsewhere, then looks at it more fully. The second encounter may feel strangely familiar because the first, barely noticed encounter has already influenced perception. Brown and Marsh’s 2009 experiments showed that brief exposure to scenes could create an illusion of having encountered them before. That supports an attention-related mechanism, although an illusion of prior encounter is not identical to the full everyday deja vu experience. [Brown and Marsh (2009): Creating illusions of past encounter through brief exposure](https://pubmed.ncbi.nlm.nih.gov/19492436/)",
+      "Other accounts propose a temporary mismatch in the timing or coordination of information processing. These ideas are sometimes retold as a proven delay between the eyes or between brain hemispheres. That is too confident. Researchers have discussed several processing and familiarity accounts, but a popular “double-processing glitch” metaphor does not establish the physical cause of ordinary deja vu. [Brown and Marsh (2010): Digging into déjà vu, recent research on possible mechanisms](https://scholars.duke.edu/publication/867236)",
+      "The memory-conflict account asks why we recognize the familiarity as wrong. In a 2018 fMRI study, researchers combined familiarity-producing word lists with information showing that a tempting word was actually new. The main analysis included 21 participants, of whom 16 reported deja vu. Activity implicated regions involved in conflict and control, including anterior cingulate, medial prefrontal and parietal areas. [Urquhart and colleagues (2018): fMRI evidence for memory conflict in déjà vu](https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf)",
+      "That finding supports a role for evaluating conflicting memory signals. It does not prove that the brain deliberately performs a maintenance check whenever deja vu occurs. The study created a laboratory analogue with words in a small, selected sample. Its strength is a controlled test of a specific idea; its limitation is the distance between that task and the richness of spontaneous experience. [Urquhart and colleagues (2018): fMRI evidence for memory conflict in déjà vu](https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf)",
+      "These explanations need not all be mutually exclusive. Similarity or brief exposure might generate familiarity, while another process detects that the feeling clashes with knowledge of novelty. What scientists still need to establish is which mechanisms operate together, in whom, and under which conditions.",
+      "## WHAT BRAIN STIMULATION CAN AND CANNOT SHOW",
+      "Clinical studies have sometimes elicited deja vu during electrical stimulation of medial temporal structures in people undergoing evaluation for epilepsy. Research on rhinal–hippocampal interactions points toward communication within a memory network rather than a single isolated site. Direct recordings and stimulation provide unusually close access to brain activity that ordinary questionnaires cannot offer. [Bartolomei and colleagues, Clinical Neurophysiology (2012): Rhinal–hippocampal interactions during déjà vu](https://www.sciencedirect.com/science/article/pii/S138824571100561X)",
+      "However, these are clinical circumstances involving people with epilepsy, implanted electrodes and an intervention. They are not a random sample of healthy people having spontaneous deja vu. A stimulation result shows that manipulating a network can produce an experience; it does not prove that the same manipulation, or a seizure, explains every ordinary episode. [Bartolomei and colleagues, Clinical Neurophysiology (2012): Rhinal–hippocampal interactions during déjà vu](https://www.sciencedirect.com/science/article/pii/S138824571100561X)",
+      "A 2013 study offers another caution against easy conclusions. In 206 undergraduates, O’Connor and Moulin found no relationship between reported deja vu frequency and the recollection or familiarity measures obtained from their word-recognition task. This does not rule out memory-based explanations. It does mean that having more deja vu cannot simply be equated with having a generally stronger or weaker recognition system. [O’Connor and Moulin, Frontiers in Psychology (2013): Déjà vu frequency and laboratory memory performance](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00881/full)",
+      "## FATIGUE, STRESS AND SLEEP: WHAT DOES THE EVIDENCE SHOW?",
+      "Fatigue and stress are frequently suggested triggers. Brown’s review described associations, and clinical guidance also discusses sleep deprivation, stress and anxiety as possible contributors. But association is not the same as a controlled demonstration that losing a particular amount of sleep causes deja vu. Self-reported episodes cannot reliably isolate sleep from everything else happening in someone’s life. [Alan S. Brown, Psychological Bulletin (2003): A review of the déjà vu experience](https://pubmed.ncbi.nlm.nih.gov/12784936/) [Cleveland Clinic: What déjà vu is and when to seek medical advice](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)",
+      "A tired traveller may also be in unfamiliar surroundings, distracted, anxious or unusually alert to odd sensations. Those factors are difficult to separate after the event. The cautious conclusion is that fatigue and stress may contribute in some people, while the strength, direction and mechanisms of these relationships remain uncertain. The research does not provide a dependable formula for predicting an episode from last night’s sleep.",
+      "A 2014 case report described one young man with anxiety and depersonalization who experienced persistent, distressing deja vu without clear epileptic features. The authors proposed a psychological explanation and called for further research. A single case can draw attention to a possibility; it cannot establish how often anxiety causes deja vu or provide a diagnosis for someone else. [Wells and colleagues, Journal of Medical Case Reports (2014): Persistent psychogenic déjà vu](https://pmc.ncbi.nlm.nih.gov/articles/PMC4295571/)",
+      "Protecting sleep and addressing distress are sensible general health priorities, but they should not be sold as proven cures for deja vu. Nor should persistent episodes automatically be dismissed as “just stress.” Their pattern and any accompanying symptoms matter more than an internet explanation. Our article on [scrolling, attention and sleep](/articles/endless-scrolling-phone-attention-sleep-science/) examines a related part of daily cognitive life.",
+      "## ORDINARY DEJA VU VERSUS TEMPORAL-LOBE EPILEPSY",
+      "Most people who occasionally experience deja vu do not have epilepsy. Nevertheless, deja vu can occur as part of a focal seizure involving temporal-lobe networks. A seizure does not always involve falling or shaking. Some people remain aware, while others become less responsive or later have difficulty recalling the event. [Mayo Clinic: Temporal lobe seizure symptoms and causes](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214)",
+      "A seizure-related feeling may be accompanied by sudden fear, an unusual smell or taste, a rising sensation in the abdomen, staring, repetitive lip or hand movements, or confusion afterward. An aura can itself be the beginning of a focal seizure rather than merely a warning outside it. These symptoms require clinical interpretation; deja vu alone is not enough to diagnose their cause. [Mayo Clinic: Temporal lobe seizure symptoms and causes](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214)",
+      "Researchers distinguish ictal deja vu, occurring during a seizure, from interictal experiences between seizures and non-ictal experiences in healthy people. Someone with epilepsy can also have deja vu outside a seizure. This is another reason not to treat every report as the same phenomenon or assume that a label explains its mechanism. [Illman and colleagues, Epilepsy Research and Treatment (2012): Déjà experiences in temporal lobe epilepsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/)",
+      "An isolated familiar feeling is also not evidence that a person is developing dementia. Persistent distortions of recognition belong to a different clinical discussion from occasional ordinary deja vu. Our [Alzheimer’s and memory article](/articles/alzheimers-disease-brain-memory-loss/) describes that disease separately, without turning a common subjective experience into a diagnostic test. [Cleveland Clinic: What déjà vu is and when to seek medical advice](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)",
+      "## DEJA VECU, JAMAIS VU AND RELATED EXPERIENCES",
+      "Déjà vécu means “already lived.” Some researchers use it for a richer feeling of reliving a whole event, sometimes with an apparent sense of what comes next. In clinical reports, persistent forms may involve a conviction that life is repeating, rather than the brief recognition that an inappropriate familiarity signal is misleading. The terminology is not perfectly uniform across studies. [Illman and colleagues, Epilepsy Research and Treatment (2012): Déjà experiences in temporal lobe epilepsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/)",
+      "Jamais vu, “never seen,” runs in the opposite direction: something known feels unfamiliar or oddly alien. Researchers have explored related sensations by asking people to repeat familiar words until the words begin to feel strange. As memory researcher Chris Moulin explains in an American Psychological Association interview, the feeling of knowing and the knowledge itself can come apart. That does not make the underlying object or word genuinely new. [American Psychological Association: Chris Moulin on déjà vu, jamais vu and memory](https://www.apa.org/news/podcasts/speaking-of-psychology/deja-vu)",
+      "Déjà-rêvé means “already dreamed.” A 2018 study of electrical stimulation in epilepsy patients distinguished experiences of recalling a particular dream, vague dream-related familiarity and a more general dreamy state. Such reports show that dream-related experiences can be studied neurologically. They do not demonstrate that a dream predicted an event. [Curot and colleagues, Brain Stimulation (2018): Déjà-rêvé and electrical brain stimulation](https://cerco.cnrs.fr/wp-content/uploads/2019/04/curot_j_18_1.pdf)",
+      "These distinctions help prevent one umbrella term from swallowing several different experiences. A person describing familiarity, detailed reliving or a dream memory may be reporting different phenomena. Careful descriptions are scientifically more useful than assuming that every strange recognition feeling is deja vu.",
+      "## DOES DEJA VU MEAN YOU CAN PREDICT WHAT HAPPENS NEXT?",
+      "Deja vu can feel as though the next moment is already known. That feeling can be tested. In experiments published in 2018, Cleary and Claxton used virtual-scene tours and asked participants about upcoming turns. Deja vu was associated with an increased feeling of prediction, but it did not provide the corresponding above-chance predictive ability in the tested circumstances. [Cleary and Claxton, Psychological Science (2018): Déjà vu, an illusion of prediction](https://journals.sagepub.com/doi/abs/10.1177/0956797617743018)",
+      "The distinction is between confidence and information. If the whole situation seems to have happened before, expecting to know its continuation is understandable. But the expectation is not evidence that the next event has actually been retrieved. A convincing sensation can occur without the knowledge it appears to promise. [Cleary and Claxton, Psychological Science (2018): Déjà vu, an illusion of prediction](https://journals.sagepub.com/doi/abs/10.1177/0956797617743018)",
+      "## DREAMS, PAST LIVES, SIMULATIONS AND PARALLEL UNIVERSES",
+      "A dream can become a memory, and someone can later think a scene resembles it. That possibility is different from demonstrating foreknowledge. Establishing a prediction would require a sufficiently specific record made before the event, independent checking and a method that accounts for misses and ordinary coincidences. A remembered resemblance after the event does not meet that standard. Read more about the science of dreaming in [Why Do We Dream?](/articles/why-do-we-dream/).",
+      "Past lives, simulation errors and parallel universes are speculative interpretations, not conclusions established by deja vu research. The studies reviewed here investigate memory, perception, monitoring and neurological activity. None provides evidence that an episode is a message from another life or a glimpse of another universe.",
+      "This does not mean neuroscience has solved every aspect of the experience. It means an unexplained detail cannot, by itself, count as evidence for a particular extraordinary explanation. A useful hypothesis must make testable predictions that distinguish it from alternatives. The vividness of the sensation does not do that work.",
+      "## WHY DEJA VU IS SO HARD TO REPRODUCE",
+      "Spontaneous deja vu is brief and unpredictable. Researchers cannot usually arrange for someone to experience it at the exact moment a scanner is recording. Asking about an event weeks later introduces uncertainty about its duration, context and precise character. Asking repeatedly during an experiment can also shape what participants attend to and how they label their experiences.",
+      "Laboratory methods solve part of that problem by manipulating ingredients such as scene resemblance, brief exposure or conflicting memory cues. But creating familiarity is easier than recreating the full sense of inappropriate familiarity. A laboratory analogue must be evaluated for how closely it matches everyday experience, not simply accepted because participants use the same name. [Brown and Marsh (2010): Digging into déjà vu, recent research on possible mechanisms](https://scholars.duke.edu/publication/867236)",
+      "The challenge is not unique to deja vu. Scientists often study a complex experience by isolating its components. Progress comes from combining controlled experiments, immediate reports and clinical observations while keeping the limitations of each visible. No one method is a complete substitute for the others.",
+      "## WHEN SHOULD YOU SEEK MEDICAL ADVICE?",
+      "Occasional brief deja vu without other symptoms is generally not a cause for alarm. Arrange a medical assessment if episodes become unusually frequent, persistent, distressing or disruptive, particularly if this is a new change for you. There is no universal number of episodes that separates normal from abnormal; the context and associated symptoms are important. [Cleveland Clinic: What déjà vu is and when to seek medical advice](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)",
+      "Seek prompt medical advice if episodes include reduced awareness, unexplained memory gaps, unusual smells or tastes, repetitive movements or confusion afterward, or if you suspect a first seizure. Note what happened before, during and after the event, and whether anyone witnessed it. This can help a clinician assess the episode without assuming a diagnosis in advance. [Mayo Clinic: Temporal lobe seizure symptoms and causes](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214) [NHS: Epilepsy, symptoms and when to get help](https://www.nhs.uk/conditions/epilepsy/)",
+      "Call your local emergency number for an ongoing first suspected seizure, a seizure lasting more than five minutes, repeated seizures without recovery, or breathing difficulty. These are seizure warning signs, not instructions to treat an ordinary fleeting sense of familiarity as an emergency. [NHS: Epilepsy, symptoms and when to get help](https://www.nhs.uk/conditions/epilepsy/)",
+      "## WHAT NEUROSCIENCE STILL CANNOT EXPLAIN",
+      "Scientists still cannot reliably identify the cause of an individual spontaneous episode. They also do not know whether one account will eventually explain most ordinary deja vu or whether several processes produce similar feelings. Age patterns, individual differences and the relationship between clinical and everyday experiences leave important questions open.",
+      "A memory-conflict explanation is promising, but it is not proof that deja vu is always a sign of a healthy brain checking itself. A familiarity explanation is useful, but it does not establish a hidden matching memory in every case. Better experiments will need to distinguish competing mechanisms and capture the sensation closer to the moment it happens.",
+      "What the neuroscience of deja vu already reveals is subtle: knowing, remembering and feeling that you remember are not identical. They usually cooperate so smoothly that we barely notice the difference. For a brief moment, deja vu makes the difference impossible to ignore.",
+      "## SOURCES AND EVIDENCE NOTES",
+      "This article draws on peer-reviewed memory research, a systematic review, clinical studies and medical guidance. Laboratory analogues are distinguished from spontaneous experiences, and epilepsy findings are not automatically generalized to healthy people. The prevalence figure describes the studies pooled in the 2024 review. The supplied hero is an artistic illustration of a familiar-feeling scene, not a depiction of a proven neurological mechanism.",
+      "[Alan S. Brown, Psychological Bulletin (2003): A review of the déjà vu experience](https://pubmed.ncbi.nlm.nih.gov/12784936/)",
+      "[Hadzic and Andersson, Frontiers in Neurology (2024): Systematic review and meta-analysis of déjà vu](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full)",
+      "[Anne M. Cleary, Current Directions in Psychological Science (2008): Recognition memory, familiarity and déjà vu](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x)",
+      "[Ranganath and Ritchey, Nature Reviews Neuroscience (2012): Two cortical systems for memory-guided behaviour](https://www.nature.com/articles/nrn3338)",
+      "[Diana, Yonelinas and Ranganath (2007): Imaging recollection and familiarity in the medial temporal lobe](https://pubmed.ncbi.nlm.nih.gov/17707683/)",
+      "[Cleary and colleagues, Consciousness and Cognition (2012): Virtual reality, spatial configuration and déjà vu](https://www.sciencedirect.com/science/article/pii/S1053810012000049)",
+      "[Cleary, Ryals and Nomi (2009): Testing the similarity hypothesis of déjà vu](https://pubmed.ncbi.nlm.nih.gov/19966259/)",
+      "[Brown and Marsh (2009): Creating illusions of past encounter through brief exposure](https://pubmed.ncbi.nlm.nih.gov/19492436/)",
+      "[Brown and Marsh (2010): Digging into déjà vu, recent research on possible mechanisms](https://scholars.duke.edu/publication/867236)",
+      "[Urquhart and colleagues (2018): fMRI evidence for memory conflict in déjà vu](https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf)",
+      "[Bartolomei and colleagues, Clinical Neurophysiology (2012): Rhinal–hippocampal interactions during déjà vu](https://www.sciencedirect.com/science/article/pii/S138824571100561X)",
+      "[O’Connor and Moulin, Frontiers in Psychology (2013): Déjà vu frequency and laboratory memory performance](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00881/full)",
+      "[Cleveland Clinic: What déjà vu is and when to seek medical advice](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)",
+      "[Wells and colleagues, Journal of Medical Case Reports (2014): Persistent psychogenic déjà vu](https://pmc.ncbi.nlm.nih.gov/articles/PMC4295571/)",
+      "[Mayo Clinic: Temporal lobe seizure symptoms and causes](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214)",
+      "[Illman and colleagues, Epilepsy Research and Treatment (2012): Déjà experiences in temporal lobe epilepsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/)",
+      "[American Psychological Association: Chris Moulin on déjà vu, jamais vu and memory](https://www.apa.org/news/podcasts/speaking-of-psychology/deja-vu)",
+      "[Curot and colleagues, Brain Stimulation (2018): Déjà-rêvé and electrical brain stimulation](https://cerco.cnrs.fr/wp-content/uploads/2019/04/curot_j_18_1.pdf)",
+      "[Cleary and Claxton, Psychological Science (2018): Déjà vu, an illusion of prediction](https://journals.sagepub.com/doi/abs/10.1177/0956797617743018)",
+      "[NHS: Epilepsy, symptoms and when to get help](https://www.nhs.uk/conditions/epilepsy/)"
+    ],
+    "source": {
+      "name": "Hadzic and Andersson, Frontiers in Neurology (2024): Systematic review and meta-analysis of déjà vu",
+      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full"
+    },
+    "references": [
+      {
+        "name": "Alan S. Brown, Psychological Bulletin (2003): A review of the déjà vu experience",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12784936/"
+      },
+      {
+        "name": "Hadzic and Andersson, Frontiers in Neurology (2024): Systematic review and meta-analysis of déjà vu",
+        "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full"
+      },
+      {
+        "name": "Anne M. Cleary, Current Directions in Psychological Science (2008): Recognition memory, familiarity and déjà vu",
+        "url": "https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x"
+      },
+      {
+        "name": "Ranganath and Ritchey, Nature Reviews Neuroscience (2012): Two cortical systems for memory-guided behaviour",
+        "url": "https://www.nature.com/articles/nrn3338"
+      },
+      {
+        "name": "Diana, Yonelinas and Ranganath (2007): Imaging recollection and familiarity in the medial temporal lobe",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17707683/"
+      },
+      {
+        "name": "Cleary and colleagues, Consciousness and Cognition (2012): Virtual reality, spatial configuration and déjà vu",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1053810012000049"
+      },
+      {
+        "name": "Cleary, Ryals and Nomi (2009): Testing the similarity hypothesis of déjà vu",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19966259/"
+      },
+      {
+        "name": "Brown and Marsh (2009): Creating illusions of past encounter through brief exposure",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19492436/"
+      },
+      {
+        "name": "Brown and Marsh (2010): Digging into déjà vu, recent research on possible mechanisms",
+        "url": "https://scholars.duke.edu/publication/867236"
+      },
+      {
+        "name": "Urquhart and colleagues (2018): fMRI evidence for memory conflict in déjà vu",
+        "url": "https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf"
+      },
+      {
+        "name": "Bartolomei and colleagues, Clinical Neurophysiology (2012): Rhinal–hippocampal interactions during déjà vu",
+        "url": "https://www.sciencedirect.com/science/article/pii/S138824571100561X"
+      },
+      {
+        "name": "O’Connor and Moulin, Frontiers in Psychology (2013): Déjà vu frequency and laboratory memory performance",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00881/full"
+      },
+      {
+        "name": "Cleveland Clinic: What déjà vu is and when to seek medical advice",
+        "url": "https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern"
+      },
+      {
+        "name": "Wells and colleagues, Journal of Medical Case Reports (2014): Persistent psychogenic déjà vu",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4295571/"
+      },
+      {
+        "name": "Mayo Clinic: Temporal lobe seizure symptoms and causes",
+        "url": "https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214"
+      },
+      {
+        "name": "Illman and colleagues, Epilepsy Research and Treatment (2012): Déjà experiences in temporal lobe epilepsy",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/"
+      },
+      {
+        "name": "American Psychological Association: Chris Moulin on déjà vu, jamais vu and memory",
+        "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/deja-vu"
+      },
+      {
+        "name": "Curot and colleagues, Brain Stimulation (2018): Déjà-rêvé and electrical brain stimulation",
+        "url": "https://cerco.cnrs.fr/wp-content/uploads/2019/04/curot_j_18_1.pdf"
+      },
+      {
+        "name": "Cleary and Claxton, Psychological Science (2018): Déjà vu, an illusion of prediction",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797617743018"
+      },
+      {
+        "name": "NHS: Epilepsy, symptoms and when to get help",
+        "url": "https://www.nhs.uk/conditions/epilepsy/"
+      }
+    ],
+    "tags": [
+      "deja vu",
+      "why does deja vu happen",
+      "deja vu meaning",
+      "deja vu brain",
+      "deja vu science",
+      "neuroscience of deja vu",
+      "memory",
+      "familiarity"
+    ],
+    "status": "published",
+    "readingTime": "17 min read"
+  },
+  {
     "id": "109",
     "slug": "amazigh-imazighen-north-africa-history",
     "title": "THE AMAZIGH: THE PEOPLE WHO SHAPED NORTH AFRICA",
