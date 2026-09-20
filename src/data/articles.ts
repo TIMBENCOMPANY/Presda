@@ -54,6 +54,225 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "111",
+    "slug": "football-fans-psychology-passion-rivalry-violence",
+    "title": "FOOTBALL FANS: THE PSYCHOLOGY BEHIND PASSION, RIVALRY AND VIOLENCE",
+    "seoTitle": "Football Fans Psychology: Passion, Rivalry and Violence",
+    "metaDescription": "Explore football fans psychology: identity, belonging, rivalry, ultras culture and hooliganism, plus research on reducing fan violence while preserving passion.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "FOOTBALL FANS",
+      "gold": "PASSION, RIVALRY AND VIOLENCE"
+    },
+    "excerpt": "Why a club can feel like family, a defeat can feel personal, and the same bonds can inspire solidarity or hostility. The research behind football fandom.",
+    "category": "Lifestyle",
+    "date": "2026-09-20",
+    "lastUpdated": "2026-09-20",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/football-fans-ultras-hooligans-violence-team.png",
+    "coverAlt": "Artistic stadium illustration of a supporter wearing a scarf, with fans, flags, smoke and police in the stands",
+    "homepageImagePosition": "60% 45%",
+    "content": [
+      "A scarf is an ordinary piece of fabric until it belongs to your club. Then it can carry a childhood, a city, a friendship or the memory of someone who first took you to a match. A goal changes nothing about your job or your rent, yet it can change the feeling of an entire evening. To understand the psychology of football fans, start with that apparent contradiction: the result belongs to the team, but the meaning belongs to the supporter.",
+      "Football fandom becomes powerful because it connects personal memories with a shared identity. It supplies people to belong with, rituals to repeat and a story whose next chapter is uncertain. Those same attachments can sharpen rivalry and, in some settings, help justify aggression. But passionate support is not a diagnosis, and violence is not its inevitable destination. Most fandom consists of watching, talking, travelling, celebrating and enduring disappointment together.",
+      "The useful question is not why fans care so much. It is how caring becomes friendship in one setting, humiliation in another and a reason to hurt someone in a third. Psychology examines the bonds and judgments involved. Sociology asks how clubs, communities and institutions shape them. Philosophy asks what loyalty can reasonably demand.",
+      "## WHY A CLUB CAN BECOME PART OF WHO YOU ARE",
+      "Team identification means that supporting a club becomes part of how someone understands themselves. There is a difference between enjoying a match and thinking of yourself as a supporter even during the months when no match is being played. The club becomes a continuing relationship, rather than a succession of entertainment purchases.",
+      "Social identity approaches explain that the self includes memberships as well as individual qualities. Someone can be a parent, a neighbour, a nurse and a football supporter. Which identity becomes most important depends on the setting. At a stadium, the shared club identity is unusually visible and emotionally relevant. A stranger in the same colours can seem less like a stranger. [Research on shared identity and helping](https://pubmed.ncbi.nlm.nih.gov/15743980/)",
+      "This does not mean that individuals disappear into a collective mind. Supporters disagree about players, politics, ownership and acceptable behaviour. Even the meaning of loyalty is contested: one fan thinks criticism betrays the club, another thinks criticism protects it. Belonging creates a shared conversation, not identical personalities.",
+      "## FAMILY, CITY, CLASS AND THE INHERITANCE OF LOYALTY",
+      "An attachment can begin long before a child understands a league table. A shirt arrives as a gift. A relative explains which team is ours. Weekend routines teach the child when adults celebrate, argue or fall silent. Later, continuing to support that club may preserve a relationship with those people, including relatives who are no longer alive.",
+      "A 2026 qualitative study of people in Ankara who supported Istanbul’s major clubs describes family transmission, peer relationships and media visibility as routes into fandom. It also describes women having to prove their legitimacy within some supporter relationships. These are participants’ experiences in a particular setting, not a template for every Turkish family or a claim that fathers alone create fans. [Ötkan (2026): Beyond local belonging, football fandom in Türkiye](https://journals.sagepub.com/doi/10.1177/10126902261438319)",
+      "Place matters, but proximity is not a membership test. A club can express attachment to a district, an industrial history or a regional language. A supporter living abroad may use it to maintain a connection with home. Someone without that geographic inheritance may form an equally meaningful attachment through friends, players or years of following matches.",
+      "In Spain, Barcelona explicitly presents its Catalan identity and international openness as parts of its institutional story. That is evidence of how the club represents itself, not proof that every Barça supporter holds the same political views. A badge can carry cultural meanings without determining the beliefs of everyone who wears it. [FC Barcelona: More than a club, the institution’s account of its identity](https://www.fcbarcelona.com/en/club/more-than-a-club)",
+      "Class enters through access as well as symbolism. The price of attending, the ability to travel and control over familiar spaces affect who can participate. A 2026 study based on 21 life-story interviews with English fan activists examines concerns about passing support between generations amid changes in ticketing and commercial football. Its activist sample illuminates those concerns; it is not a representative poll of all supporters. [Turner, Fitzpatrick and Ludvigsen (2026): Intergenerational insecurities in English football fandom](https://journals.sagepub.com/doi/10.1177/00380261261460572)",
+      "The relationship between a city and its football heroes can make these attachments especially vivid. PRESDA’s account of [Diego Maradona, Napoli and his legacy](/articles/diego-maradona-genius-napoli-life-death-legacy/) explores a setting where sporting achievement became inseparable from civic pride.",
+      "## WHY FANS SAY “WE WON” AND FEEL DEFEAT PERSONALLY",
+      "In research published in 1976, Robert Cialdini and colleagues examined basking in reflected glory: publicly associating yourself with someone else’s success. Across three field studies, university students were more likely to display their university affiliation after a football victory, and used “we” more when describing victories than nonvictories. These were American college football studies, not experiments on European association football. They offer a broader mechanism, not a universal rule for every fan. [Cialdini and colleagues (1976): Basking in reflected glory, three football field studies](https://www2.psych.ubc.ca/~schaller/528Readings/Cialdini1976.pdf)",
+      "Saying “we won” can therefore be a way to share status. But reducing the phrase to vanity misses something. A supporter may have spent years attending, organising travel, volunteering or sustaining friendships around the club. They did not score the goal, but they belong to the social world in which it matters. The word “we” expresses that membership as well as pride.",
+      "Defeat can hurt because the club’s public standing feels relevant to the self. It can also spoil an anticipated reunion or supply a rival colleague with a week of jokes. Daniel Wann’s model of team identification and social psychological health explicitly considers threats to a valued identity alongside the benefits of social connection. It is a theoretical framework, not evidence that every defeat damages mental health. [Wann (2006): The team identification and social psychological health model](https://doi.org/10.1037/1089-2699.10.4.272)",
+      "Nor does commitment always rise and fall with results. Staying through disappointment can become part of the story a fan tells about being dependable. A losing season may make the relationship frustrating without making it meaningless.",
+      "## CHANTS, SCARVES AND THE FEELING OF MOVING TOGETHER",
+      "Stadium rituals give belonging a physical form. Colours make affiliation visible. Repeated songs let people participate without introducing themselves. A chant learned years ago can reconnect a returning supporter with the crowd immediately. A carefully prepared display turns hours of collective work into a brief public statement.",
+      "Sociologists use the idea of collective effervescence to describe the heightened shared feeling that can arise in gatherings. It is a way of interpreting the experience, not a claim that every spectator feels the same emotion. The grandparent watching quietly and the person leading a chant may both be deeply involved.",
+      "A 2025 PNAS field study used wearable ECG sensors to examine heart-rate patterns around a high-stakes match in Brazil. The researchers found stronger physiological synchrony during the pregame Rua de Fogo ritual than during the match’s key moments. That finding makes the gathering before kick-off scientifically interesting in its own right. It does not establish that synchronized heart rates reveal identical thoughts, prove lifelong bonding or endorse the safety of flares. [Xygalatas and colleagues, PNAS (2025): Pregame rituals and emotional synchrony among Brazilian football fans](https://pubmed.ncbi.nlm.nih.gov/40489616/)",
+      "The broader connection between rhythm, movement and shared experience also appears in [PRESDA’s exploration of music and dancing](/articles/house-music-brain-rhythm-128-bpm-science-dancing/). In football, the song carries an additional message: these are our people, and this is something we do together.",
+      "## FOOTBALL RIVALRY: WHEN THE OPPONENT HAS A HISTORY",
+      "A rival is not simply the next opponent. Repeated meetings accumulate meaning: a disputed decision, an embarrassing defeat, a remembered comeback. In their 2010 research on rivalry, Gavin Kilduff and colleagues treated competition as a relationship shaped by prior encounters and similarities between opponents. The psychological stakes can exceed what is immediately available to win. Their sports research included college basketball; applying the framework to football supporters requires that distinction. [Kilduff, Elfenbein and Staw (2010): The psychology of rivalry](https://web-docs.stern.nyu.edu/pa/psychofrivalry_kilduff.pdf)",
+      "That helps explain why a derby can matter intensely even when neither side is competing for a championship. The result will be discussed by people who meet again at work, school or in the same neighbourhood. The contest continues socially after the whistle.",
+      "Calling this “tribalism” may describe the feeling, but it is a limited explanation. It can make learned rivalries sound ancient and unavoidable, and it conceals differences within supporter communities. A shared history can support teasing and mutual recognition as well as hostility. An opponent who makes the match meaningful is not necessarily an enemy outside it.",
+      "There is an ethical distinction between enjoying a rival’s sporting defeat and treating rival supporters as less deserving of safety. Discriminatory abuse, threats and attacks are not stronger versions of enthusiasm. They are actions with victims, even when participants describe them as tradition.",
+      "## ULTRAS CULTURE IS NOT A SYNONYM FOR HOOLIGANISM",
+      "Ultras culture refers to organised, intensive forms of support associated with sustained chanting, banners, coordinated displays and commitment to a group. Its influential modern development in Italy helped shape styles adopted elsewhere. Doidge, Kossakowski and Mintert’s 2020 academic study places emotional relationships and collective performance at the centre of understanding ultras, while also examining politics, gender and violence. [Doidge, Kossakowski and Mintert (2020): Ultras, the passion and performance of contemporary football fandom](https://academic.oup.com/manchester-scholarship-online/book/31303)",
+      "Hooliganism usually refers to football-related disorder and violence, although researchers and authorities do not always define its boundaries identically. The labels can overlap in practice, but they are not interchangeable. A supporter can help produce a stadium display without seeking a fight. A person involved in organised fighting need not belong to an ultras group.",
+      "Neither romanticising nor criminalising an entire scene helps explain it. Some groups normalise intimidation or exclusion; others organise solidarity, protest or creative support. Internal disagreements matter. So does the distinction between a group’s self-description and what its members actually do. Clothing, loud singing or a banner alone does not establish violent intent. [Sociological research on ultras performance and group life](https://academic.oup.com/manchester-scholarship-online/book/31303)",
+      "## CROWD PSYCHOLOGY: DOES ANONYMITY MAKE PEOPLE AGGRESSIVE?",
+      "A familiar explanation says that people lose their individuality in a crowd and become irrational. Classical deindividuation theories linked anonymity, reduced self-awareness and group immersion to behaviour that breaks ordinary social rules. This is intuitively attractive, but the evidence is more complicated.",
+      "Postmes and Spears’ 1998 meta-analysis of 60 independent studies found little support for a general deindividuated state producing antisocial behaviour. The pattern fitted conformity to the norms of the immediate situation better. In other words, being immersed in a group does not automatically erase standards. It may make the group’s particular standards more influential. [Postmes and Spears (1998): Deindividuation and antinormative behavior, a meta-analysis](https://doi.org/10.1037/0033-2909.123.3.238)",
+      "That distinction changes the question from “Why did the crowd lose control?” to “What behaviour became acceptable here, to whom, and why?” In one group, the respected action may be protecting someone who falls. In another, refusing a confrontation may be framed as cowardice. The same visibility to peers that encourages chanting can encourage restraint or escalation, depending on the norms.",
+      "The meta-analysis was not a worldwide study of football stadiums. It challenges a simple account of anonymity and misconduct; it does not show that anonymity is irrelevant in every violent incident or that individuals cease to be responsible for their decisions.",
+      "## WHY SOME FANDOM BECOMES VIOLENT",
+      "There is no single personality or chemical explanation for fan violence. Researchers examine the interaction of group attachments, status, perceived threats, local histories and opportunities for confrontation. Alcohol may form part of a setting, but it cannot explain why some encounters escalate and others do not. Organised fighting also cannot be explained entirely as a spontaneous reaction to losing a match. [Newson (online 2017; journal issue 2019): Football, fan violence and identity fusion](https://ora.ox.ac.uk/objects/uuid%3A346be220-df29-4ab0-819a-5c8ae9695a98)",
+      "Identity fusion describes an especially strong sense of oneness between the personal self and a group. In this framework, fellow supporters can feel like family whose protection demands personal sacrifice. That can help explain willingness to take risks for them, but a close bond does not by itself specify whether those risks will be prosocial or violent.",
+      "In a 2018 Brazilian study, the final analysis included 439 male football supporters. Researchers examined fusion, membership of torcidas organizadas and self-reported football fighting. Their results linked the combination of intense bonding and organised supporter-group membership to violent behaviour. Because this was survey evidence, it cannot establish that joining a group caused an individual to become violent. It also cannot represent all Brazilian supporters, women or every torcida organizada. [Newson and colleagues (2018): Brazil’s football warriors, social bonding and intergroup violence](https://ora.ox.ac.uk/objects/uuid%3Ae40905b6-b661-4e23-a864-74272f2abd5d/files/m98050bb3a15fc38e0cae6507417affa5)",
+      "The practical distinction is between attachment and the rules surrounding attachment. If defending the group is understood to mean confronting an imagined enemy, solidarity can be recruited into aggression. If defending it means protecting its reputation and keeping people safe, the same language of loyalty can support restraint. A prevention strategy must ask what members believe a good supporter should do.",
+      "Threats also develop through interaction. In their study of England supporters at Euro 2004 in Portugal, published in a 2007 journal issue, Stott and colleagues compared settings where conflict was contained with disturbances elsewhere. Observations and interviews suggested that perceived legitimacy, targeted intervention and supporter self-policing helped explain variation. This was contextual field research, not a randomised trial proving that one police tactic always works. [Stott, Adang, Livingstone and Schreiber (2007): England fans, policing and social change at Euro 2004](https://doi.org/10.1002/ejsp.338)",
+      "A separate study of German supporters around Germany’s match with the Netherlands at the same tournament found evidence consistent with low-profile policing and nonviolent crowd norms. Its value is precisely that a fixture with potential for conflict remained peaceful. Research should explain the absence of violence as well as dramatic incidents. [Schreiber and Stott (2012): German supporters and policing at Euro 2004](https://www.tandfonline.com/doi/full/10.1080/15614263.2011.627742)",
+      "## THE OTHER SIDE OF BELONGING: FRIENDSHIP AND SOLIDARITY",
+      "Much of football’s social value is ordinary enough to escape the headlines. It provides a reason to meet regularly, a shared subject when conversation is difficult and a way for different generations to spend time together. Losing does not necessarily cancel those benefits. Sometimes the people who understand the disappointment are the reason to return.",
+      "Wann’s model proposes that temporary encounters and enduring relationships help explain links between team identification and social well-being. That is more careful than claiming fandom cures loneliness or makes everyone happier. The quality and inclusiveness of the relationships matter, and an association between support and well-being does not settle which caused which. [Wann (2006): The team identification and social psychological health model](https://doi.org/10.1037/1089-2699.10.4.272)",
+      "Solidarity can cross a rivalry. In England, Fans Supporting Foodbanks brings Liverpool and Everton supporters together to address food poverty. The initiative dates to 2015. Its existence does not erase tensions between the clubs; it shows that supporters can act through a shared local concern while retaining different football loyalties. [Liverpool FC (2025): Fans Supporting Foodbanks and community support](https://www.liverpoolfc.com/news/cadbury-and-fans-supporting-foodbanks-unite-help-local-communities)",
+      "Laboratory and field experiments also suggest that the boundary of “us” can shift. In Levine and colleagues’ 2005 research, an injured stranger was more likely to receive help when wearing the supporter’s own team shirt. When a broader football-supporter identity was made salient in a second experiment, help extended to a rival-team supporter. It did not automatically extend equally to everyone. These were specific staged situations, not proof that a slogan will end real-world violence. [Levine, Prosser, Evans and Reicher (2005): Shared identity and emergency helping](https://pubmed.ncbi.nlm.nih.gov/15743980/)",
+      "A 2026 survey study covering Germany, Norway, Poland and Spain found that fandom was associated with broader trust through trust in fellow fans, including fans from other countries. The analysis identifies relationships in survey data, not proof that becoming a fan causes tolerance. Still, it challenges the assumption that strong football identities can only close social boundaries. [Biel (2026): In-group trust and trust generalisation in European football fans](https://onlinelibrary.wiley.com/doi/10.1002/cep4.70034)",
+      "## THE PHILOSOPHY OF SUPPORT: WHAT DOES LOYALTY REQUIRE?",
+      "Why remain loyal to a team that repeatedly disappoints you? Philosophically, loyalty is not simply a calculation of which option currently offers the best return. Relationships acquire value through their history. The Stanford Encyclopedia of Philosophy’s discussion of loyalty examines both its claims on us and its limits. A durable attachment can matter without becoming an unlimited obligation. [Stanford Encyclopedia of Philosophy: Loyalty](https://plato.stanford.edu/entries/loyalty/)",
+      "Applied to football, that suggests a distinction between commitment and obedience. You can support a club while opposing abusive behaviour by its supporters, criticising its owners or refusing a dangerous confrontation. Loyalty to an institution does not remove responsibilities to people outside it. This is an ethical argument, not a psychological test of who counts as a real fan.",
+      "Sport itself depends on opponents and constraints that make the contest possible. Philosophical debates about sport examine fair play and the values internal to competition. For a supporter, one implication is that wanting your team to beat another is compatible with respecting the people who make the contest possible. Destroying the rival is a different goal from defeating the rival. [Stanford Encyclopedia of Philosophy: Philosophy of sport](https://plato.stanford.edu/entries/sport/)",
+      "The question connects with [PRESDA’s discussion of human nature and morality](/articles/good-vs-evil-human-nature-morality/): belonging can guide generous conduct, but it does not excuse cruelty. A club can become part of your identity without becoming the whole of it.",
+      "## REDUCING FAN VIOLENCE WITHOUT DESTROYING FAN CULTURE",
+      "The strongest practical direction is to combine prevention, credible enforcement and meaningful supporter involvement. These approaches have different kinds of support. Field research can reveal mechanisms of escalation; institutional guidance translates experience into practice. Neither provides a universal percentage reduction that can honestly be promised for every country or stadium.",
+      "The Council of Europe’s Saint-Denis Convention, opened for signature in 2016, combines safety, security and service. The distinction matters: preventing deliberate violence, managing physical crowd risks and treating spectators well are related responsibilities. A dangerous queue or crowd crush should not automatically be described as hooliganism. [Council of Europe: The Saint-Denis Convention on safety, security and service](https://www.coe.int/en/web/sport/safety-security-and-service-approach-convention)",
+      "Dialogue should begin before a crisis. UEFA’s supporter liaison guidance describes a role connecting supporters with clubs and other matchday organisations. Practical information about entry, travel and restrictions can be shared in both directions. UEFA’s 2026 workshop continued that emphasis on structured communication. These are institutional practices, not a controlled demonstration that appointing an officer alone prevents disorder. [UEFA and SD Europe (2021): Practical supporter liaison guidance](https://www.uefa.com/news-media/news/026f-13d62b668a5d-d52d71c97e09-1000/) [UEFA (2026): Supporter liaison officers and structured fan dialogue](https://www.uefa.com/news-media/news/02a2-1fd6ec01dbc8-24265205eb2d-1000--shared-commitment-to-advanced-fan-dialogue-continues-at-th/)",
+      "Germany’s Fanprojekte provide another approach: independent social work with young supporters, grounded in voluntary relationships, trust and long-term engagement. Their coordinating body stresses participation, prevention and creative fan culture. These projects are not simply an extension of stadium security. Preserving their ability to build trust is part of their purpose. [Koordinationsstelle Fanprojekte: Independent social work with young football supporters in Germany](https://www.kos-fanprojekte.de/fanprojekte/)",
+      "The evidence discussed here points toward practical priorities: targeted, proportionate responses to threatening actions; trusted channels for supporter input; and visible nonviolent norms supported by respected people within fan communities. Songs, displays and social life can be protected while specific hazards and abuse are addressed.",
+      "Evaluation also needs more than an arrest count. Injuries, victim experiences and supporter trust help describe whether an approach makes the matchday environment safer. A policy that reduces one recorded form of disorder while moving danger elsewhere would require a different assessment.",
+      "These priorities do not require police to ignore organised aggression or fans to mediate dangerous situations themselves. They ask institutions to distinguish people and behaviours accurately, protect potential victims and avoid unnecessarily widening conflict. The aim is a culture in which someone can participate intensely without being pressured to threaten others.",
+      "## WHY FOOTBALL CAN MATTER WITHOUT BECOMING EVERYTHING",
+      "The match has a clear score, but fandom supplies meanings that the score cannot measure. It lets people inherit something, create something and feel recognised by others. Its rituals can hold a community together through changes in players, workplaces and generations.",
+      "The research does not reveal one inevitable journey from scarf to violence. It shows relationships between identity, norms and circumstances. The same supporter can be a partisan during a match, a friend afterward and a neighbour helping someone whose colours are different. Football’s capacity to make “we” feel real is powerful. What people choose to include in that word is consequential.",
+      "## SOURCES AND EVIDENCE NOTES",
+      "This article combines peer-reviewed psychology and sociology with academic philosophy and primary institutional sources. Study years refer to publication unless stated otherwise. Surveys, staged experiments, qualitative interviews and event observations answer different questions and are not treated as interchangeable proof of causation. Club and governing-body accounts are identified as institutional perspectives. The supplied stadium hero is an artistic illustration, not documentary evidence of a particular incident or supporter group.",
+      "[Cialdini and colleagues (1976): Basking in reflected glory, three football field studies](https://www2.psych.ubc.ca/~schaller/528Readings/Cialdini1976.pdf)",
+      "[Ötkan (2026): Beyond local belonging, football fandom in Türkiye](https://journals.sagepub.com/doi/10.1177/10126902261438319)",
+      "[Turner, Fitzpatrick and Ludvigsen (2026): Intergenerational insecurities in English football fandom](https://journals.sagepub.com/doi/10.1177/00380261261460572)",
+      "[FC Barcelona: More than a club, the institution’s account of its identity](https://www.fcbarcelona.com/en/club/more-than-a-club)",
+      "[Wann (2006): The team identification and social psychological health model](https://doi.org/10.1037/1089-2699.10.4.272)",
+      "[Xygalatas and colleagues, PNAS (2025): Pregame rituals and emotional synchrony among Brazilian football fans](https://pubmed.ncbi.nlm.nih.gov/40489616/)",
+      "[Doidge, Kossakowski and Mintert (2020): Ultras, the passion and performance of contemporary football fandom](https://academic.oup.com/manchester-scholarship-online/book/31303)",
+      "[Kilduff, Elfenbein and Staw (2010): The psychology of rivalry](https://web-docs.stern.nyu.edu/pa/psychofrivalry_kilduff.pdf)",
+      "[Postmes and Spears (1998): Deindividuation and antinormative behavior, a meta-analysis](https://doi.org/10.1037/0033-2909.123.3.238)",
+      "[Newson and colleagues (2018): Brazil’s football warriors, social bonding and intergroup violence](https://ora.ox.ac.uk/objects/uuid%3Ae40905b6-b661-4e23-a864-74272f2abd5d/files/m98050bb3a15fc38e0cae6507417affa5)",
+      "[Newson (online 2017; journal issue 2019): Football, fan violence and identity fusion](https://ora.ox.ac.uk/objects/uuid%3A346be220-df29-4ab0-819a-5c8ae9695a98)",
+      "[Stott, Adang, Livingstone and Schreiber (2007): England fans, policing and social change at Euro 2004](https://doi.org/10.1002/ejsp.338)",
+      "[Schreiber and Stott (2012): German supporters and policing at Euro 2004](https://www.tandfonline.com/doi/full/10.1080/15614263.2011.627742)",
+      "[Levine, Prosser, Evans and Reicher (2005): Shared identity and emergency helping](https://pubmed.ncbi.nlm.nih.gov/15743980/)",
+      "[Liverpool FC (2025): Fans Supporting Foodbanks and community support](https://www.liverpoolfc.com/news/cadbury-and-fans-supporting-foodbanks-unite-help-local-communities)",
+      "[Biel (2026): In-group trust and trust generalisation in European football fans](https://onlinelibrary.wiley.com/doi/10.1002/cep4.70034)",
+      "[Stanford Encyclopedia of Philosophy: Loyalty](https://plato.stanford.edu/entries/loyalty/)",
+      "[Council of Europe: The Saint-Denis Convention on safety, security and service](https://www.coe.int/en/web/sport/safety-security-and-service-approach-convention)",
+      "[Koordinationsstelle Fanprojekte: Independent social work with young football supporters in Germany](https://www.kos-fanprojekte.de/fanprojekte/)",
+      "[UEFA and SD Europe (2021): Practical supporter liaison guidance](https://www.uefa.com/news-media/news/026f-13d62b668a5d-d52d71c97e09-1000/)",
+      "[UEFA (2026): Supporter liaison officers and structured fan dialogue](https://www.uefa.com/news-media/news/02a2-1fd6ec01dbc8-24265205eb2d-1000--shared-commitment-to-advanced-fan-dialogue-continues-at-th/)",
+      "[Stanford Encyclopedia of Philosophy: Philosophy of sport](https://plato.stanford.edu/entries/sport/)"
+    ],
+    "source": {
+      "name": "Doidge, Kossakowski and Mintert (2020): Ultras, the passion and performance of contemporary football fandom",
+      "url": "https://academic.oup.com/manchester-scholarship-online/book/31303"
+    },
+    "references": [
+      {
+        "name": "Cialdini and colleagues (1976): Basking in reflected glory, three football field studies",
+        "url": "https://www2.psych.ubc.ca/~schaller/528Readings/Cialdini1976.pdf"
+      },
+      {
+        "name": "Ötkan (2026): Beyond local belonging, football fandom in Türkiye",
+        "url": "https://journals.sagepub.com/doi/10.1177/10126902261438319"
+      },
+      {
+        "name": "Turner, Fitzpatrick and Ludvigsen (2026): Intergenerational insecurities in English football fandom",
+        "url": "https://journals.sagepub.com/doi/10.1177/00380261261460572"
+      },
+      {
+        "name": "FC Barcelona: More than a club, the institution’s account of its identity",
+        "url": "https://www.fcbarcelona.com/en/club/more-than-a-club"
+      },
+      {
+        "name": "Wann (2006): The team identification and social psychological health model",
+        "url": "https://doi.org/10.1037/1089-2699.10.4.272"
+      },
+      {
+        "name": "Xygalatas and colleagues, PNAS (2025): Pregame rituals and emotional synchrony among Brazilian football fans",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40489616/"
+      },
+      {
+        "name": "Doidge, Kossakowski and Mintert (2020): Ultras, the passion and performance of contemporary football fandom",
+        "url": "https://academic.oup.com/manchester-scholarship-online/book/31303"
+      },
+      {
+        "name": "Kilduff, Elfenbein and Staw (2010): The psychology of rivalry",
+        "url": "https://web-docs.stern.nyu.edu/pa/psychofrivalry_kilduff.pdf"
+      },
+      {
+        "name": "Postmes and Spears (1998): Deindividuation and antinormative behavior, a meta-analysis",
+        "url": "https://doi.org/10.1037/0033-2909.123.3.238"
+      },
+      {
+        "name": "Newson and colleagues (2018): Brazil’s football warriors, social bonding and intergroup violence",
+        "url": "https://ora.ox.ac.uk/objects/uuid%3Ae40905b6-b661-4e23-a864-74272f2abd5d/files/m98050bb3a15fc38e0cae6507417affa5"
+      },
+      {
+        "name": "Newson (online 2017; journal issue 2019): Football, fan violence and identity fusion",
+        "url": "https://ora.ox.ac.uk/objects/uuid%3A346be220-df29-4ab0-819a-5c8ae9695a98"
+      },
+      {
+        "name": "Stott, Adang, Livingstone and Schreiber (2007): England fans, policing and social change at Euro 2004",
+        "url": "https://doi.org/10.1002/ejsp.338"
+      },
+      {
+        "name": "Schreiber and Stott (2012): German supporters and policing at Euro 2004",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/15614263.2011.627742"
+      },
+      {
+        "name": "Levine, Prosser, Evans and Reicher (2005): Shared identity and emergency helping",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15743980/"
+      },
+      {
+        "name": "Liverpool FC (2025): Fans Supporting Foodbanks and community support",
+        "url": "https://www.liverpoolfc.com/news/cadbury-and-fans-supporting-foodbanks-unite-help-local-communities"
+      },
+      {
+        "name": "Biel (2026): In-group trust and trust generalisation in European football fans",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/cep4.70034"
+      },
+      {
+        "name": "Stanford Encyclopedia of Philosophy: Loyalty",
+        "url": "https://plato.stanford.edu/entries/loyalty/"
+      },
+      {
+        "name": "Council of Europe: The Saint-Denis Convention on safety, security and service",
+        "url": "https://www.coe.int/en/web/sport/safety-security-and-service-approach-convention"
+      },
+      {
+        "name": "Koordinationsstelle Fanprojekte: Independent social work with young football supporters in Germany",
+        "url": "https://www.kos-fanprojekte.de/fanprojekte/"
+      },
+      {
+        "name": "UEFA and SD Europe (2021): Practical supporter liaison guidance",
+        "url": "https://www.uefa.com/news-media/news/026f-13d62b668a5d-d52d71c97e09-1000/"
+      },
+      {
+        "name": "UEFA (2026): Supporter liaison officers and structured fan dialogue",
+        "url": "https://www.uefa.com/news-media/news/02a2-1fd6ec01dbc8-24265205eb2d-1000--shared-commitment-to-advanced-fan-dialogue-continues-at-th/"
+      },
+      {
+        "name": "Stanford Encyclopedia of Philosophy: Philosophy of sport",
+        "url": "https://plato.stanford.edu/entries/sport/"
+      }
+    ],
+    "tags": [
+      "football fans psychology",
+      "football fandom",
+      "football rivalry",
+      "hooliganism",
+      "ultras culture",
+      "fan violence",
+      "social identity",
+      "crowd psychology"
+    ],
+    "status": "published",
+    "readingTime": "17 min read"
+  },
+  {
     "id": "110",
     "slug": "deja-vu-why-does-it-happen-brain-science",
     "title": "DEJA VU: WHY DOES IT HAPPEN? THE BRAIN SCIENCE EXPLAINED",
