@@ -10418,7 +10418,7 @@ export const articles: Article[] = [
       "gold": "CHALLENGE A STATE"
     },
     "excerpt": "Cocaine made Pablo Escobar a billionaire. Corruption and terror helped him challenge Colombia’s institutions. Behind the mansions and myths lies a history of political violence, civilian loss and consequences that outlived him.",
-    "category": "History",
+    "category": "World",
     "date": "2026-09-16",
     "lastUpdated": "2026-09-16",
     "author": "PRESDA Editorial",
@@ -11949,7 +11949,8 @@ export const articles: Article[] = [
     },
     excerpt:
       "From Sicily's protection networks to America's crime families and Japan's Yakuza, organized crime grew into systems of money, loyalty, fear and power.",
-    category: "History",
+    schemaType: "Article",
+    category: "World",
     date: "2026-09-15",
     lastUpdated: "2026-09-15",
     author: "PRESDA Editorial",
@@ -16529,7 +16530,7 @@ export const articles: Article[] = [
     },
     excerpt:
       "From ancient remedies and early surgery to vaccines, antibiotics, organ transplants, genetics and artificial intelligence, medicine is the story of humanity learning how the body works - and how to keep it alive.",
-    category: "History",
+    category: "Science",
     date: "2026-09-12",
     lastUpdated: "2026-09-12",
     author: "PRESDA Editorial",
@@ -17221,7 +17222,7 @@ export const articles: Article[] = [
     },
     excerpt:
       "From Marie Curie and Albert Einstein to breakthroughs in medicine, literature and peace, the Nobel Prize has spent more than a century honoring discoveries, ideas and people that changed humanity.",
-    category: "History",
+    category: "Science",
     date: "2026-09-11",
     lastUpdated: "2026-09-11",
     author: "PRESDA Editorial",
@@ -18958,7 +18959,7 @@ export const articles: Article[] = [
     },
     excerpt:
       "From ancient Egypt and the first gold coins to African empires, colonial conquest, the Gold Rush and modern central banks - why has humanity valued gold for thousands of years?",
-    category: "History",
+    category: "Business",
     date: "2026-09-10",
     lastUpdated: "2026-09-10",
     author: "PRESDA Editorial",
@@ -20096,7 +20097,8 @@ export const articles: Article[] = [
     },
     excerpt:
       "On April 14, 1912, RMS Titanic struck an iceberg in the North Atlantic. Less than three hours later, the liner was gone, leaving more than 1,500 people dead and a disaster that still demands careful history.",
-    category: "History",
+    schemaType: "Article",
+    category: "World",
     date: "2026-09-09",
     lastUpdated: "2026-09-09",
     author: "PRESDA Editorial",
@@ -23309,7 +23311,8 @@ export const articles: Article[] = [
     },
     excerpt:
       "Born from an ancient battlefield game, transformed across empires and perfected over centuries, chess became one of humanity's most enduring tests of strategy and intelligence.",
-    category: "History",
+    schemaType: "Article",
+    category: "Sport",
     date: "2026-09-08",
     lastUpdated: "2026-09-08",
     author: "PRESDA Editorial",
@@ -24164,7 +24167,7 @@ export const articles: Article[] = [
     },
     excerpt:
       "For thousands of years, horses carried humans across continents, transformed warfare, connected civilizations and worked the land. Before engines moved the world, the horse did.",
-    category: "History",
+    category: "Lifestyle",
     date: "2026-09-08",
     lastUpdated: "2026-09-08",
     author: "PRESDA Editorial",
