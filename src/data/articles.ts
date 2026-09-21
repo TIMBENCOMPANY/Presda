@@ -54,6 +54,274 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "118",
+    "slug": "new-7-wonders-of-the-world-history-travel-guide",
+    "title": "THE NEW 7 WONDERS OF THE WORLD: THE STORIES BEHIND EARTH’S GREATEST LANDMARKS",
+    "seoTitle": "New 7 Wonders of the World: History, Locations & Travel Guide",
+    "metaDescription": "Discover the New 7 Wonders of the World, their countries, remarkable histories and best times to visit, plus how the 2007 selection differs from UNESCO.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "NEW 7 WONDERS",
+      "gold": "GREATEST LANDMARKS"
+    },
+    "excerpt": "Seven landmarks, seven extraordinary human stories. From China’s mountain walls to Rio’s open-armed icon, explore the history behind the view and how to experience each place.",
+    "category": "Travel",
+    "date": "2026-09-21",
+    "lastUpdated": "2026-09-21",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/new-7-wonders-worldwide.png",
+    "coverAlt": "Illustrated montage of the Great Wall of China, Petra, Colosseum, Chichén Itzá, Machu Picchu, Taj Mahal and Christ the Redeemer",
+    "homepageImagePosition": "50% 50%",
+    "content": [
+      "A wall follows the crest of a Chinese mountain. A sandstone doorway appears at the end of a Jordanian gorge. Above Rio de Janeiro, a figure opens its arms over forest, buildings and sea. Familiar photographs make these places seem instantly knowable. Arrive in person, and the photograph becomes only the beginning: the scale changes, the approach matters, and the monument starts to reveal the society that made it.",
+      "The New 7 Wonders of the World are the Great Wall of China, Petra, the Colosseum, Chichén Itzá, Machu Picchu, the Taj Mahal and Christ the Redeemer. They were selected through the private New7Wonders campaign, whose results were announced in Lisbon on 7 July 2007. This is a list of human-built landmarks, distinct from both the ancient Seven Wonders and lists of natural wonders. [New7Wonders: declaration in Lisbon, 7 July 2007](https://world.new7wonders.com/lisbon-on-07-07-2007/) [New7Wonders: the seven selected landmarks](https://world.new7wonders.com/)",
+      "The most rewarding way to travel between them is through their differences. They include a defensive system, cities, an arena, a mausoleum and a religious monument. Some proclaimed imperial power; others organized life around water, mountains or faith. Together they offer a remarkable introduction to human ambition, but no list of seven can represent the full achievement of the world’s cultures.",
+      "## THE NEW 7 WONDERS OF THE WORLD: LIST AND COUNTRIES",
+      "The seven selected landmarks are listed below. Their histories and visitor advice follow in the same order. The order is geographical storytelling, not a ranking. [New7Wonders: the seven selected landmarks](https://world.new7wonders.com/)",
+      "Great Wall of China: northern China, with well-known visitor sections near Beijing.",
+      "Petra: near Wadi Musa, Jordan.",
+      "Colosseum: Rome, Italy.",
+      "Chichén Itzá: Yucatán, Mexico.",
+      "Machu Picchu: the Cusco region of Peru.",
+      "Taj Mahal: Agra, India.",
+      "Christ the Redeemer: Corcovado mountain, Rio de Janeiro, Brazil.",
+      "## HOW WERE THE NEW SEVEN WONDERS CHOSEN?",
+      "The selection emerged from an international public-voting campaign associated with Bernard Weber. Internet and telephone voting helped turn heritage sites into the subjects of a worldwide popular contest. The organizers announced the result on the deliberately memorable date 07.07.07. A popular vote tells us which places inspired participation; it is not an archaeological assessment of which civilizations mattered most. [New7Wonders: declaration in Lisbon, 7 July 2007](https://world.new7wonders.com/lisbon-on-07-07-2007/) [UNESCO: no involvement in the New7Wonders campaign](https://whc.unesco.org/en/news/352)",
+      "### New7Wonders is not UNESCO",
+      "UNESCO explicitly stated that it was not involved in the campaign. Its World Heritage programme assesses outstanding universal value and conservation responsibilities through a separate process. Being a New7Wonders winner is therefore not a UNESCO award, and the two labels should never be used interchangeably. Nor does exclusion from this seven-place list make another heritage site less worthy of protection. [UNESCO: no involvement in the New7Wonders campaign](https://whc.unesco.org/en/news/352)",
+      "### Where does the Great Pyramid of Giza fit?",
+      "The Great Pyramid of Khufu has a different claim to fame: it is the only surviving wonder of the traditional Seven Wonders of the Ancient World. It is not one of the seven winners named above. The ancient list and the 2007 selection answer different historical questions, rather than forming successive editions of a UNESCO league table. For the Egyptian story, read PRESDA’s guide to the [history of the pyramids](/articles/history-of-egyptian-pyramids/). [UNESCO: Memphis and the pyramid fields](https://whc.unesco.org/en/list/86/)",
+      "## 1. GREAT WALL OF CHINA: AN EMPIRE WRITTEN ACROSS THE MOUNTAINS",
+      "### Who built it, and why?",
+      "The Great Wall has no single birthday or builder. Around 220 BC, Qin Shi Huang joined earlier fortifications into a defensive system; later dynasties built, replaced and extended frontier works. The Ming dynasty, which ruled from 1368 to 1644, created much of the imposing masonry that shapes the popular image today. Its roots are more than two millennia old, while many famous surviving sections are centuries younger. [UNESCO: the Great Wall](https://whc.unesco.org/en/list/438/)",
+      "It was a system of walls, passes, watchtowers and garrisons, not simply a continuous barrier. Its purpose was military defence, but its landscape also records the long interaction between agricultural states and peoples beyond their northern frontiers. The surviving fabric includes rammed earth as well as stone and brick. Calling the entire structure one identical wall obscures that history. [UNESCO: the Great Wall](https://whc.unesco.org/en/list/438/)",
+      "A useful question to carry onto the battlements is why the wall follows that ridge instead of the valley below. Looking for sightlines and defensible approaches makes the landscape part of the explanation. The achievement becomes more comprehensible, and more demanding, when imagined as work repeated across difficult terrain rather than as a line drawn on a map.",
+      "### What to see and when to go",
+      "Badaling and Mutianyu offer established visitor access near Beijing. At Mutianyu, restored Ming-era fortifications and closely spaced towers make the relationship between architecture and mountain contours especially legible. Beijing’s tourism information describes spring blossoms and autumn foliage; those seasons are attractive choices for combining the walk with the scenery. Winter can be beautiful, but it is a different proposition from a mild-weather outing. [Beijing tourism: Badaling and Mutianyu](https://english.visitbeijing.com.cn/article/4Jy93YVNH4l)",
+      "Choose the section before choosing transport. Think about how much stair climbing your group wants, check the site’s current access arrangements and stay on permitted routes. A restored stretch is not an invitation to continue into closed or unstable ruins. To put China’s frontiers in a wider historical setting, explore PRESDA’s [Han dynasty and Silk Road history](/articles/han-dynasty-china-silk-road-history-legacy/).",
+      "## 2. PETRA: THE CITY THAT LEARNED TO LIVE WITH THE DESERT",
+      "### More than a sandstone façade",
+      "Petra was the Nabataean capital and a major caravan centre linking Arabia, Egypt and the eastern Mediterranean. Its monumental architecture largely belongs to the centuries around the beginning of the Common Era, making many of its celebrated remains roughly two thousand years old. Trade helped pay for the city, but water engineering made settlement at this scale possible. [UNESCO: Petra](https://whc.unesco.org/en/list/326/)",
+      "Channels, diversion dams, cisterns and reservoirs gathered, controlled and stored water. The city combined rock-cut architecture with freestanding buildings, absorbing Hellenistic forms into Nabataean traditions. A façade carved into a cliff is the spectacular part of that story. The quieter wonder is the infrastructure that supported people in an arid environment. [UNESCO: Petra](https://whc.unesco.org/en/list/326/)",
+      "Al-Khazneh, the Treasury, is its most recognizable monument. Despite the name, its interpretation belongs to the world of funerary and ceremonial architecture rather than a proven treasure store. The Petra authority notes debate over its date and purpose, including an association with the reign of Aretas IV. The identity of its intended occupant should not be presented as settled fact. [Petra Development and Tourism Region Authority: the Treasury](https://visitpetra.jo/en/Location/2)",
+      "### What to see and when to go",
+      "The main approach passes through the Siq before revealing the Treasury. Continue beyond that first encounter: the main trail leads toward tombs, the theatre and the city’s central remains. Seeing only the famous façade is like reading the cover of a book about an entire society. PRESDA’s [full Petra history](/articles/petra-nabataeans-desert-city-jordan-history/) follows the Nabataeans, their water systems and the evidence behind the Treasury’s legends. [Petra authority: the Main Trail](https://visitpetra.jo/en/Trail/1)",
+      "The Jordan Tourism Board recommends March to May and September to November for more comfortable walking conditions. Those popular seasons still reward an early start. Allow for the return journey as well as the outward walk, carry water and follow local advice about weather and trail access. Build your visit around the walking your group can comfortably manage, rather than assuming every viewpoint belongs in one day. [Jordan Tourism Board: when to visit Petra](https://international.visitjordan.com/blog/external/7625/best-time-to-go-to-petra-jordan/)",
+      "## 3. THE COLOSSEUM: ROME’S THEATRE OF POWER",
+      "### An arena built to be seen",
+      "Commissioned by Emperor Vespasian and inaugurated under his son Titus in AD 80, the Flavian Amphitheatre is nearly two thousand years old. It occupied the area of an artificial lake associated with Nero’s palace. Replacing an emperor’s private landscape with a great public arena was an architectural statement about the new dynasty’s relationship with Rome. [Roma Capitale tourism: the Flavian Amphitheatre](https://www.turismoroma.it/en/node/1155)",
+      "Gladiatorial combat and animal spectacles made entertainment inseparable from political display. The building could impress through organization as much as size: entrances, circulation routes and tiers directed the crowd toward a common spectacle. To admire the engineering honestly is also to acknowledge the suffering at the centre of the performance. The arena was not an innocent precursor to the modern stadium. [Roma Capitale tourism: the Flavian Amphitheatre](https://www.turismoroma.it/en/node/1155)",
+      "Standing inside, try looking away from the arena for a moment. Imagine the spectators looking across at one another, and the ruler looking over them. The building organized the act of watching. Its cultural significance lies in that relationship between spectacle and authority as much as in its familiar exterior arches.",
+      "### What to see and when to go",
+      "The Colosseum Archaeological Park offers different ticket products. Access to the arena floor or underground areas depends on the ticket, and a general admission purchase should not be assumed to include every space. Read the actual inclusions and entry time through the official park website before committing to a tour. The Roman Forum and Palatine help place the amphitheatre within a larger urban world. [Colosseum Archaeological Park: opening times and tickets](https://colosseo.it/en/opening-times-and-tickets/)",
+      "Rome’s tourism authority recommends spring and autumn for milder temperatures. Summer visits require more attention to heat, especially when combining the Colosseum with the surrounding archaeological areas. Leave space between timed bookings and check current visitor instructions. For more context on the society behind the stone, see PRESDA’s [guide to life and power in ancient Rome](/articles/roman-empire-power-luxury-life-ancient-rome/). [Roma Capitale tourism: climate](https://www.turismoroma.it/it/clima)",
+      "## 4. CHICHÉN ITZÁ: A MAYA CITY OF WATER, RITUAL AND AUTHORITY",
+      "### Who built the city?",
+      "Chichén Itzá was built by Maya communities in the northern Yucatán Peninsula. It developed over centuries, with Mexico’s National Institute of Anthropology and History, INAH, identifying AD 900 to 1200 as its principal early Postclassic phase. Many of its great monuments therefore belong to a city whose major period of power was roughly a millennium ago, rather than to a single construction project. [INAH: Chichén Itzá archaeological zone](https://www.inah.gob.mx/zonas/146-zona-arqueologica-de-chichen-itza)",
+      "The site combines Maya architectural traditions with features associated with central Mexico. Such connections make it evidence of exchange and political change, not a culturally isolated curiosity. El Castillo, the Temple of Kukulcán, is only one part of the complex; the Great Ball Court, the Temple of the Warriors and other structures enlarge the picture. [INAH: Chichén Itzá visitor guide](https://lugares.inah.gob.mx/en/node/4335)",
+      "The famous light-and-shadow effect on El Castillo’s staircase around the equinoxes gives visitors a striking encounter with the building’s orientation. INAH describes the triangles of shadow that appear to connect with the serpent form. The phenomenon deserves attention without turning every architectural detail into proof of an extravagant astronomical claim. [INAH: Chichén Itzá archaeological zone](https://www.inah.gob.mx/zonas/146-zona-arqueologica-de-chichen-itza)",
+      "A pyramid is easy to isolate in a photograph. On the ground, ask how people moved between spaces and how an imposing public building might have made authority visible. The city becomes more interesting when its monuments are understood in relation to one another, rather than treated as separate puzzles awaiting a mystical explanation.",
+      "### What to see and when to go",
+      "View El Castillo from the permitted public areas and respect protective barriers. INAH has reinforced the perimeter around the monument to protect the archaeological fabric. Check its visitor guidance for current access and opening arrangements, including whether any special area needs a separate reservation. [INAH: protective perimeter around El Castillo](https://www.inah.gob.mx/prensa/comunicados/el-inah-amplia-el-area-delimitada-en-torno-al-castillo-en-la-zona-arqueologica-de-chichen-itza) [INAH: Chichén Itzá visitor guide](https://lugares.inah.gob.mx/en/node/4335)",
+      "For a first visit, consider the cooler part of the year, roughly November to February, and an early arrival. This is a planning recommendation, not a promise of dry skies: Yucatán’s climate includes winter northerly fronts, a hotter dry period in spring and a main rainy season later in the year. An equinox visit prioritizes a particular spectacle; an ordinary morning lets you concentrate on the wider city. [Yucatán government: regional climate action programme](https://www.yucatan.gob.mx/docs/transparencia/ped/2012_2018/PROGRAMA_ESPECIAL_ACCION_CAMBIO_CLIMATICO.pdf)",
+      "## 5. MACHU PICCHU: BUILDING WITH A MOUNTAIN",
+      "### An Inca landscape, not just a view",
+      "Machu Picchu was built by the Inca in the fifteenth century, making it approximately six hundred years old. Terraces and stone structures occupy a mountain setting where the Andes meet the upper Amazon environment. UNESCO recognizes both cultural and natural significance here: the landscape is integral to the achievement, not a backdrop added to the architecture. [UNESCO: Historic Sanctuary of Machu Picchu](https://whc.unesco.org/en/list/274/)",
+      "The site is generally understood as a royal estate associated with Pachacuti, although its chronology continues to be refined. A 2021 research project dated remains from 26 individuals and placed occupation as early as around AD 1420, earlier than a chronology based only on traditional accounts of Pachacuti’s reign would suggest. That does not date every wall to the same year. [Yale Anthropology: Machu Picchu radiocarbon research, 2021](https://anthropology.yale.edu/posts/2021-08-11-dr-richard-burgers-study-demonstrates-machu-picchu-older-than-believed)",
+      "The terraces invite a more useful question than how an ancient civilization produced an impressive photograph: how did people make a steep place usable? Looking at changes in level, stonework and the relationship between built and open spaces reveals a managed environment. The visual drama is the result of decisions about living and working on a mountain.",
+      "### What to see and when to go",
+      "Ticket choice is central to the visit. The Ministry of Culture organizes entry through named circuits and routes, which do not all include the same viewpoints or buildings. Study the official route maps before buying. A panoramic route, a classic archaeological route and a mountain hike are different experiences. Use the official ticket portal linked by the heritage authority, rather than assuming a search advert is the government seller. [Peru Ministry of Culture: Machu Picchu circuits and routes](https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/) [Peru Ministry of Culture: official Machu Picchu ticket portal](https://www.machupicchu.gob.pe/online-tickets/?lang=en)",
+      "PROMPERÚ identifies April to October as the broadly lower-rainfall period in the Andes. That makes it a useful planning window, while rain and cloud remain possible at a mountain site. Choose your route around mobility and interests, then coordinate admission with transport. A scarce ticket that does not include the experience you wanted is not a bargain. [PROMPERÚ: climate and travel seasons](https://www.peru.travel/es/datos-utiles/clima)",
+      "## 6. THE TAJ MAHAL: GRIEF GIVEN AN ARCHITECTURAL FORM",
+      "### A mausoleum, not a palace",
+      "The Taj Mahal in Agra was commissioned by Mughal emperor Shah Jahan in memory of Mumtaz Mahal. Construction began in the early 1630s; the principal mausoleum was completed in 1648, with the wider complex completed in 1653. It is therefore a seventeenth-century monument approaching four centuries in age. Official summaries differ slightly over the starting year, which is why a single date should not obscure the long building process. [UNESCO: Taj Mahal](https://whc.unesco.org/en/list/252/) [Uttar Pradesh Tourism: creation history of the Taj Mahal](https://www.tajmahal.gov.in/creation-history-of-taj-mahal.aspx)",
+      "The familiar story of love is only one way into the building. It is also an expression of imperial resources and the work of architects, masons, calligraphers, stone inlayers and other artisans. UNESCO identifies Ustad Ahmad Lahori as the principal architect. Red sandstone buildings, a garden and the white marble tomb form an ensemble, not merely a dome standing alone. [UNESCO: Taj Mahal](https://whc.unesco.org/en/list/252/)",
+      "As you approach, the long view gives way to small-scale decisions: the edge of an arch, the placement of decoration, the contrast between shadow and luminous stone. Look at both scales. Reducing the Taj Mahal to a romantic symbol can make the skilled work that sustains its effect disappear from the story.",
+      "### What to see and when to go",
+      "Inside the principal chamber, the elaborate cenotaphs are commemorative markers; the actual graves lie below. The distinction matters because it explains why the visible tomb arrangement and the burial place are not identical. The gardens and subsidiary buildings also deserve time after the central view. [UNESCO: Taj Mahal](https://whc.unesco.org/en/list/252/)",
+      "Uttar Pradesh Tourism recommends October to March. Its official guidance states that the Taj Mahal is closed to general visitors on Fridays; verify opening arrangements before setting your Agra dates. An early visit can be attractive, but no particular hour guarantees perfect light or an empty site. Follow the current rules for entry, security and access to the mausoleum. [Uttar Pradesh Tourism: Taj Mahal visitor FAQs](https://tajmahal.gov.in/faqs.aspx)",
+      "## 7. CHRIST THE REDEEMER: RIO’S MODERN WONDER",
+      "### The youngest landmark on the list",
+      "Christ the Redeemer was inaugurated on 12 October 1931. Unlike the ancient cities and imperial structures elsewhere in this selection, it belongs to the twentieth century. Its creation brought together Brazilian engineer Heitor da Silva Costa and sculptor Paul Landowski, with other artistic and engineering collaborators. It was a Catholic monument before it became a shorthand image for an entire city. [Paul Landowski archive: Christ the Redeemer chronology](https://www.paul-landowski.com/le-christ-de-rio/chronologie/)",
+      "Its open-armed silhouette is inseparable from its setting on Corcovado. The structure rises above the city, while the approach and summit views connect forest, urban neighbourhoods and coastline. The railway predates the statue: the Corcovado Train opened in 1884. That sequence is a reminder that even a seemingly timeless icon has a history of transport, construction and changing public meaning. [Corcovado Train: monument and railway history](https://www.tremdocorcovado.rio/en/institucional/historia)",
+      "The encounter reverses the usual photograph. From elsewhere in Rio, you look up toward the statue. At the summit, you turn outward toward the city it overlooks. The monument becomes a point from which to understand the surrounding geography as well as an object to inspect.",
+      "### What to see and when to go",
+      "For planning, favour a clear forecast over a supposedly perfect month. Rio’s winter is generally drier than summer, making the June to August period a reasonable starting point for a sightseeing trip, but even winter can bring persistent light rain. Cloud at summit level can change the experience regardless of conditions by the beach. [Rio de Janeiro environmental institute: climate and trail guide](https://www.inea.rj.gov.br/wp-content/uploads/2019/01/Guia-de-Trilhas-Parque-Estadual-da-Pedra-Branca.pdf)",
+      "The Corcovado Train is one established access option. Check its current booking arrangements and leave time for the journey and the summit rather than treating the statue as a quick stop between appointments. It remains a religious place as well as a tourist landmark, so make room for other visitors’ reasons for being there. [Corcovado Train: monument and railway history](https://www.tremdocorcovado.rio/en/institucional/historia)",
+      "## HOW TO PLAN A SEVEN WONDERS JOURNEY WITHOUT TURNING IT INTO A CHECKLIST",
+      "There is no single best month for all seven. Their climates, ticket systems and distances make a series of well-planned trips more appealing than a race to complete the list. Start with the place whose history interests you most, then give the surrounding region enough time to become part of the journey.",
+      "Match the booking to the experience. At the Great Wall, choose a section. At Petra, decide how much walking you want. At the Colosseum and Machu Picchu, inspect ticket inclusions. At the Taj Mahal, plan around the weekly closure. At Chichén Itzá and Christ the Redeemer, consider what heat, weather and visibility will mean for the visit. The practical details above are starting points, not substitutes for the operator’s current instructions.",
+      "Book through official portals or clearly identified reputable providers, keep travel and admission timings compatible, and check current travel advice before committing to an international itinerary. Weather recommendations describe typical patterns, not conditions on your day. Opening hours, route access and ticket rules can change; the linked heritage and tourism authorities are the appropriate places to confirm them.",
+      "Accessibility deserves its own planning. Do not infer an entire site’s suitability from the availability of a lift, a vehicle or one paved approach. Ask the operator about the specific route, surfaces and assistance relevant to your group. A shorter visit that everyone can enjoy is more valuable than an ambitious itinerary that becomes a test of endurance.",
+      "And let the famous monument lead you outward. Spend time in the nearby town, consider a licensed local guide, and respect barriers even when another visitor ignores them. PRESDA’s [guide to underrated travel destinations](/articles/world-most-underrated-countries-to-visit/) offers a complementary reminder that memorable journeys extend beyond famous lists.",
+      "## WHAT MAKES A WONDER LAST?",
+      "The vote gave these places a shared modern label. Their deeper connection is that each changes when you understand the human choices behind it: defence, trade, entertainment, ritual, landscape, mourning and faith. Their greatness does not require pretending those choices were always benevolent or that every historical question has been answered.",
+      "A meaningful visit leaves room for both admiration and attention. See the silhouette, then notice the work. Read the date, then ask what happened afterward. The world’s great landmarks become more remarkable, not less, when they stop being perfect postcards and become complicated places again."
+    ],
+    "source": {
+      "name": "New7Wonders: the seven selected landmarks",
+      "url": "https://world.new7wonders.com/"
+    },
+    "references": [
+      {
+        "name": "New7Wonders: declaration in Lisbon, 7 July 2007",
+        "url": "https://world.new7wonders.com/lisbon-on-07-07-2007/"
+      },
+      {
+        "name": "UNESCO: no involvement in the New7Wonders campaign",
+        "url": "https://whc.unesco.org/en/news/352"
+      },
+      {
+        "name": "UNESCO: the Great Wall",
+        "url": "https://whc.unesco.org/en/list/438/"
+      },
+      {
+        "name": "Beijing tourism: Badaling and Mutianyu",
+        "url": "https://english.visitbeijing.com.cn/article/4Jy93YVNH4l"
+      },
+      {
+        "name": "UNESCO: Petra",
+        "url": "https://whc.unesco.org/en/list/326/"
+      },
+      {
+        "name": "Petra Development and Tourism Region Authority: the Treasury",
+        "url": "https://visitpetra.jo/en/Location/2"
+      },
+      {
+        "name": "Jordan Tourism Board: when to visit Petra",
+        "url": "https://international.visitjordan.com/blog/external/7625/best-time-to-go-to-petra-jordan/"
+      },
+      {
+        "name": "Petra authority: the Main Trail",
+        "url": "https://visitpetra.jo/en/Trail/1"
+      },
+      {
+        "name": "Roma Capitale tourism: the Flavian Amphitheatre",
+        "url": "https://www.turismoroma.it/en/node/1155"
+      },
+      {
+        "name": "Colosseum Archaeological Park: opening times and tickets",
+        "url": "https://colosseo.it/en/opening-times-and-tickets/"
+      },
+      {
+        "name": "Roma Capitale tourism: climate",
+        "url": "https://www.turismoroma.it/it/clima"
+      },
+      {
+        "name": "INAH: Chichén Itzá archaeological zone",
+        "url": "https://www.inah.gob.mx/zonas/146-zona-arqueologica-de-chichen-itza"
+      },
+      {
+        "name": "INAH: Chichén Itzá visitor guide",
+        "url": "https://lugares.inah.gob.mx/en/node/4335"
+      },
+      {
+        "name": "INAH: protective perimeter around El Castillo",
+        "url": "https://www.inah.gob.mx/prensa/comunicados/el-inah-amplia-el-area-delimitada-en-torno-al-castillo-en-la-zona-arqueologica-de-chichen-itza"
+      },
+      {
+        "name": "Yucatán government: regional climate action programme",
+        "url": "https://www.yucatan.gob.mx/docs/transparencia/ped/2012_2018/PROGRAMA_ESPECIAL_ACCION_CAMBIO_CLIMATICO.pdf"
+      },
+      {
+        "name": "UNESCO: Historic Sanctuary of Machu Picchu",
+        "url": "https://whc.unesco.org/en/list/274/"
+      },
+      {
+        "name": "Yale Anthropology: Machu Picchu radiocarbon research, 2021",
+        "url": "https://anthropology.yale.edu/posts/2021-08-11-dr-richard-burgers-study-demonstrates-machu-picchu-older-than-believed"
+      },
+      {
+        "name": "Peru Ministry of Culture: Machu Picchu circuits and routes",
+        "url": "https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/"
+      },
+      {
+        "name": "Peru Ministry of Culture: official Machu Picchu ticket portal",
+        "url": "https://www.machupicchu.gob.pe/online-tickets/?lang=en"
+      },
+      {
+        "name": "PROMPERÚ: climate and travel seasons",
+        "url": "https://www.peru.travel/es/datos-utiles/clima"
+      },
+      {
+        "name": "UNESCO: Taj Mahal",
+        "url": "https://whc.unesco.org/en/list/252/"
+      },
+      {
+        "name": "Uttar Pradesh Tourism: creation history of the Taj Mahal",
+        "url": "https://www.tajmahal.gov.in/creation-history-of-taj-mahal.aspx"
+      },
+      {
+        "name": "Uttar Pradesh Tourism: Taj Mahal visitor FAQs",
+        "url": "https://tajmahal.gov.in/faqs.aspx"
+      },
+      {
+        "name": "Paul Landowski archive: Christ the Redeemer chronology",
+        "url": "https://www.paul-landowski.com/le-christ-de-rio/chronologie/"
+      },
+      {
+        "name": "Corcovado Train: monument and railway history",
+        "url": "https://www.tremdocorcovado.rio/en/institucional/historia"
+      },
+      {
+        "name": "Rio de Janeiro environmental institute: climate and trail guide",
+        "url": "https://www.inea.rj.gov.br/wp-content/uploads/2019/01/Guia-de-Trilhas-Parque-Estadual-da-Pedra-Branca.pdf"
+      },
+      {
+        "name": "UNESCO: Memphis and the pyramid fields",
+        "url": "https://whc.unesco.org/en/list/86/"
+      },
+      {
+        "name": "New7Wonders: the seven selected landmarks",
+        "url": "https://world.new7wonders.com/"
+      }
+    ],
+    "tags": [
+      "New 7 Wonders of the World",
+      "seven wonders of the world",
+      "world landmarks",
+      "heritage travel",
+      "Great Wall of China",
+      "Petra",
+      "Colosseum",
+      "Chichén Itzá",
+      "Machu Picchu",
+      "Taj Mahal",
+      "Christ the Redeemer"
+    ],
+    "faq": [
+      {
+        "question": "What are the New 7 Wonders of the World and their countries?",
+        "answer": "They are the Great Wall of China in China, Petra in Jordan, the Colosseum in Italy, Chichén Itzá in Mexico, Machu Picchu in Peru, the Taj Mahal in India and Christ the Redeemer in Brazil."
+      },
+      {
+        "question": "Who selected the New Seven Wonders of the World?",
+        "answer": "They were selected through the private New7Wonders public-voting campaign. The results were announced in Lisbon on 7 July 2007. It was not a UNESCO selection."
+      },
+      {
+        "question": "Are the New 7 Wonders the same as UNESCO World Heritage Sites?",
+        "answer": "No. New7Wonders is a public-vote campaign. UNESCO World Heritage recognition follows a separate process based on outstanding universal value and conservation. One designation does not confer the other."
+      },
+      {
+        "question": "Why is the Great Pyramid of Giza not in this list?",
+        "answer": "The Great Pyramid belongs to the traditional Seven Wonders of the Ancient World and is that ancient list’s only surviving wonder. It is not one of the seven winners of the 2007 selection."
+      },
+      {
+        "question": "What is the best time to visit the New 7 Wonders?",
+        "answer": "There is no single ideal season for all seven. Spring and autumn suit Rome, Petra and many Great Wall visits. Consider the lower-rainfall Andean months for Machu Picchu, October to March for Agra, and local heat and weather patterns for Chichén Itzá and Rio. Always check current conditions and official access rules."
+      },
+      {
+        "question": "Which of the New Seven Wonders is the newest?",
+        "answer": "Christ the Redeemer in Rio de Janeiro is the most recent construction among the seven. It was inaugurated on 12 October 1931."
+      },
+      {
+        "question": "Do you need to book tickets in advance?",
+        "answer": "Plan ahead and check the official operator for each site. At Machu Picchu and the Colosseum in particular, the route or ticket type determines what you can see. Confirm availability and inclusions before booking connecting travel."
+      }
+    ],
+    "readingTime": "16 min read"
+  },
+  {
     "id": "117",
     "slug": "anime-how-japanese-animation-conquered-the-world",
     "title": "ANIME: HOW JAPANESE ANIMATION CONQUERED THE WORLD",
