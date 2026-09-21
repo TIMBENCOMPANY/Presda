@@ -27615,7 +27615,7 @@ export const articles: Article[] = [
       "> World Cup 2026 was a football tournament, but it also became a test of hosting power.",
       "## Final Word",
       "Donald Trump's World Cup 2026 role was not about tactics, goals or the champion. It was about the state machinery around a global sports event: task forces, agencies, border systems, security coordination, city readiness and diplomatic ceremony.",
-      "For more PRESDA context, read our guide to [World Cup 2026 sponsors](/articles/the-brands-behind-world-cup-2026/), the [World Cup 2026 hub](/world-cup-2026/) and wider [World coverage](/category/world/)."
+      "For more PRESDA context, read our guide to [World Cup 2026 sponsors](/articles/the-brands-behind-world-cup-2026/), the [Sport coverage](/category/sport/) and wider [World coverage](/category/world/)."
     ],
     "source": {
       "name": "PRESDA World Coverage"

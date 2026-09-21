@@ -15,9 +15,7 @@ const staticRouteDates: Record<string, string> = {
   "/newsletter/": "2026-06-26",
   "/privacy-policy/": "2026-06-26",
   "/cookie-policy/": "2026-06-26",
-  "/terms/": "2026-06-26",
-  "/world-cup-2026/": "2026-06-26",
-  "/world-cup-2026/match-center/": "2026-06-26"
+  "/terms/": "2026-06-26"
 };
 
 function latestArticleUpdate(articles: ReturnType<typeof getPublishedArticles>) {
@@ -42,9 +40,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/trending/",
     "/privacy-policy/",
     "/cookie-policy/",
-    "/terms/",
-    "/world-cup-2026/",
-    "/world-cup-2026/match-center/"
+    "/terms/"
   ];
 
   return [

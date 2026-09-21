@@ -4,6 +4,8 @@
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "redirects": [
+    { "source": "/world-cup-2026", "destination": "/category/sport/", "permanent": true },
+    { "source": "/world-cup-2026/", "destination": "/category/sport/", "permanent": true },
     { "source": "/index.html", "destination": "/", "permanent": true },
     { "source": "/article.html", "destination": "/articles/top-10-hidden-gems-to-visit-in-2026/", "permanent": true },
     { "source": "/contact.html", "destination": "/contact/", "permanent": true },
