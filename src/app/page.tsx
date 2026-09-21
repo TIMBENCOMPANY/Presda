@@ -3,7 +3,7 @@ import { HomeReferenceExperience } from "@/components/HomeReferenceExperience";
 import { toArticleCardRecord } from "@/lib/articleCards";
 import { getPublishedArticles } from "@/data/articles";
 import { createPageMetadata } from "@/lib/seo";
-import { curateLatestStories, developingLeadSlug, featuredHeroSlugs } from "@/lib/homeCuration";
+import { curateLatestStories, developingLeadSlug } from "@/lib/homeCuration";
 
 // Keep the homepage cached; refresh its daily edition without a deployment.
 export const revalidate = 3600;
@@ -13,6 +13,22 @@ export const metadata: Metadata = createPageMetadata({
   description: "PRESDA is an independent digital publication covering world affairs, sport, business, artificial intelligence, science, travel, lifestyle, and culture.",
   path: "/"
 });
+
+// Homepage-only selection; category archive curation remains independent.
+const featuredHeroSlugs = [
+  "illuminati-secret-society-real-history-myth",
+  "places-that-dont-look-real-surreal-landscapes-travel",
+  "self-driving-trucks-future-truck-drivers",
+  "bajau-people-sea-nomads-diving",
+  "mali-empire-mansa-musa-gold-pilgrimage-history",
+  "down-syndrome-trisomy-21-genetics-health-life",
+  "area-51-aliens-myth-reality-secret-aircraft",
+  "anime-how-japanese-animation-conquered-the-world",
+  "morocco-history-dynasties-kingdom-independence",
+  "pregnancy-cravings-strange-foods-science",
+  "epstein-island-little-st-james-investigation",
+  "david-beckhams-unexpected-passion-beyond-football"
+] as const;
 
 const editorialPickSlugs = [
   "avicii-life-music-death-tim-bergling",
