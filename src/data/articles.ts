@@ -54,6 +54,247 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "119",
+    "slug": "down-syndrome-trisomy-21-genetics-health-life",
+    "title": "DOWN SYNDROME: UNDERSTANDING TRISOMY 21 AND THE PEOPLE LIVING WITH IT",
+    "seoTitle": "Down Syndrome: Trisomy 21, Genetics, Health & Everyday Life",
+    "metaDescription": "Understand Down syndrome and Trisomy 21: causes, inheritance, prenatal tests, health, life expectancy, work and relationships, with evidence behind common myths.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "DOWN SYNDROME",
+      "gold": "PEOPLE LIVING WITH IT"
+    },
+    "excerpt": "The science of an extra chromosome, and the lives no chromosome test can predict. Explore genetics, health, learning and adulthood beyond the stereotypes.",
+    "category": "Science",
+    "date": "2026-09-21",
+    "lastUpdated": "2026-09-21",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/down-syndrome-trisomy21-science-chromosome.png",
+    "coverAlt": "Conceptual illustration of a smiling young person alongside a chromosome graphic, with friends in the background",
+    "homepageImagePosition": "50% 50%",
+    "content": [
+      "A chromosome result can explain a medical diagnosis. It cannot tell you what someone will find funny, which music they will love, how they will learn best or what they will want from adult life. Understanding Down syndrome means holding those two truths together: biology matters, and a person is never reducible to biology.",
+      "Down syndrome is a genetic condition caused by an extra full or partial copy of chromosome 21. This additional genetic material affects development and increases the likelihood of certain health conditions. Its effects vary considerably between individuals. Trisomy 21 is the most common form, but there are also translocation and mosaic forms. [CDC: About Down syndrome](https://www.cdc.gov/birth-defects/about/down-syndrome.html)",
+      "For someone encountering the diagnosis for the first time, the most useful questions are both scientific and practical. How did the extra chromosome arise? What can testing establish? Which health checks help? And how can education, relationships and community life reflect the person’s own abilities and preferences? This guide addresses those questions without treating either difficulty or achievement as a universal story.",
+      "## WHAT IS TRISOMY 21?",
+      "Chromosomes are packages of DNA containing many genes. Most human body cells normally contain 46 chromosomes arranged in 23 pairs. In full Trisomy 21, cells have three separate copies of chromosome 21 rather than two, usually bringing the total to 47. The name describes that extra copy; it does not describe a fixed level of ability. [CDC: About Down syndrome](https://www.cdc.gov/birth-defects/about/down-syndrome.html) [MedlinePlus Genetics: Down syndrome](https://medlineplus.gov/genetics/condition/down-syndrome/)",
+      "The distinction between a chromosome and a gene matters. Down syndrome does not result from one single “Down syndrome gene.” Additional chromosome 21 material changes the dosage of many genes and influences development through complex biological pathways. Nor does every person with the condition have the same chromosome arrangement. A translocation can produce extra chromosome 21 material without an extra separate chromosome. [MedlinePlus Genetics: Down syndrome](https://medlineplus.gov/genetics/condition/down-syndrome/)",
+      "## HOW DOES THE EXTRA CHROMOSOME OCCUR?",
+      "When eggs and sperm form, chromosome pairs normally separate. Sometimes they do not separate as expected, a process called nondisjunction. An egg or sperm can then carry an additional chromosome 21. After fertilization, that extra copy is passed along as the developing embryo’s cells divide. This explains the usual origin of full Trisomy 21. [NICHD: What causes Down syndrome?](https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes)",
+      "The chance increases with maternal age, but Down syndrome can occur in a pregnancy at any age. It is not caused by something a parent ate, a lack of effort or an ordinary action before or during pregnancy. A diagnosis is not evidence that anyone is to blame. [NHS: Down’s syndrome](https://www.nhs.uk/conditions/downs-syndrome/)",
+      "### The three types of Down syndrome",
+      "Full Trisomy 21 involves three separate copies of chromosome 21. CDC describes this as about 95% of cases. That proportion describes the distribution of chromosome patterns, not the proportion of people who will have a particular health condition or developmental outcome. [CDC: About Down syndrome](https://www.cdc.gov/birth-defects/about/down-syndrome.html)",
+      "Translocation Down syndrome involves additional chromosome 21 material attached to another chromosome. In some families, a parent carries a balanced rearrangement with no extra or missing genetic material overall. A child can inherit an unbalanced arrangement. Other translocations arise newly rather than being inherited. [MedlinePlus Genetics: Down syndrome](https://medlineplus.gov/genetics/condition/down-syndrome/)",
+      "Mosaic Down syndrome arises when a chromosome-separation change occurs during early development, leaving a mixture of cells with different chromosome counts. The word “mosaic” describes that cellular mixture. It should not be used as a shortcut for predicting exactly how much support someone will need; assessment still has to focus on the individual. [NICHD: What causes Down syndrome?](https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes) [MedlinePlus: Down syndrome diagnosis and care](https://medlineplus.gov/ency/article/000997.htm)",
+      "### Is Down syndrome inherited?",
+      "Genetic does not automatically mean inherited. Most cases of full Trisomy 21 and mosaic Down syndrome are not passed down through families. Some translocation cases can be inherited. A genetic counsellor can interpret the chromosome report, explain whether parental testing is relevant and discuss the chance in another pregnancy. A single recurrence figure cannot accurately describe every family. [MedlinePlus Genetics: Down syndrome](https://medlineplus.gov/genetics/condition/down-syndrome/)",
+      "## PRENATAL TESTING: SCREENING IS NOT DIAGNOSIS",
+      "These terms are often blurred in everyday conversation, but they answer different questions. Screening estimates the chance of a chromosome condition. Diagnostic testing examines genetic material to establish whether it is present. A result indicating a higher chance is not, by itself, a diagnosis. [ACOG: Prenatal genetic screening tests](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests)",
+      "### What screening can tell you",
+      "Prenatal screening may combine blood tests and ultrasound findings. Cell-free DNA screening, often called NIPT, examines DNA fragments in maternal blood, including fragments originating from the placenta. It is a highly effective screening method for Trisomy 21, but false-positive and false-negative results remain possible. A positive screening result should lead to counselling and discussion of diagnostic testing, not be treated as certainty. [ACOG: Prenatal genetic screening tests](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests)",
+      "ACOG’s 2026 guidance supports making screening and diagnostic options available regardless of maternal age or baseline risk. After receiving understandable information, a pregnant person may choose to accept or decline testing. That choice deserves accurate, balanced counselling about the tests and about life with the condition. [ACOG: Screening for fetal chromosomal abnormalities, 2026](https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2026/01/screening-for-fetal-chromosomal-abnormalities)",
+      "### What diagnostic testing can tell you",
+      "Chorionic villus sampling examines placental tissue; amniocentesis examines cells obtained through amniotic fluid. The appropriate test and its procedure-related risks should be discussed with the clinical team. After birth, chromosome analysis of a blood sample can confirm a suspected diagnosis and identify the chromosome arrangement. [ACOG: Prenatal genetic screening tests](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests) [MedlinePlus: Down syndrome diagnosis and care](https://medlineplus.gov/ency/article/000997.htm)",
+      "A diagnostic result establishes a chromosome finding. It does not forecast a child’s future personality, exact learning profile or eventual independence. For a broader explanation of how reproductive genetic technologies differ, PRESDA’s guide to [IVF, embryo selection and genetics](/articles/designer-babies-ivf-embryo-selection-genetics/) explores another part of this field. Prenatal testing and testing embryos before transfer are different processes.",
+      "## DEVELOPMENT: A PROFILE, NOT A PREWRITTEN FUTURE",
+      "Some physical features occur more often in Down syndrome, including reduced muscle tone and characteristic facial features. Motor milestones such as sitting and walking often occur later. Intellectual disability is commonly mild to moderate, but development varies, and a general label cannot describe someone’s communication, practical skills and social understanding in full. [NICHD: Symptoms and development](https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms)",
+      "Speech and language may develop more slowly, and difficulty expressing an answer should not be mistaken for absence of understanding. A useful assessment asks what the person understands, how they communicate and what makes a task accessible. Hearing and vision also deserve attention because an untreated problem can make communication and learning harder. [NICHD: Symptoms and development](https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms) [NICHD: Associated health conditions](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated)",
+      "Early intervention can bring together speech and language therapy, physiotherapy, occupational therapy and educational support. The purpose is to build useful skills and participation, not to make every child follow an identical timetable. Therapy should support everyday life: communicating a preference, joining play, moving comfortably or managing a practical task. [NICHD: Treatments and early intervention](https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments)",
+      "Families can help through conversation, books, play and routines, adapting communication to the child. Signs, pictures and extra processing time may be useful. Adults should speak directly to the child or young person rather than automatically directing every question to a companion. Support works best when it creates opportunities to take part. [NHS: Helping children and young people](https://www.nhs.uk/conditions/downs-syndrome/how-to-help-children-and-young-people/)",
+      "## HEALTH CONSIDERATIONS ACROSS A LIFETIME",
+      "Down syndrome is associated with an increased likelihood of several medical conditions, but increased risk does not mean that every person develops them. Care should combine ordinary preventive medicine with checks appropriate to the condition. A list of possible complications is a guide to vigilance, not a description of every individual’s life. [NICHD: Associated health conditions](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated)",
+      "### Childhood: checking what may otherwise be missed",
+      "Congenital heart conditions, hearing and vision problems, thyroid disease and obstructive sleep apnea are important considerations. Gastrointestinal conditions, including coeliac disease, and certain blood disorders also occur more often. New symptoms deserve investigation rather than an assumption that they are simply “part of Down syndrome.” [NICHD: Associated health conditions](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated)",
+      "The American Academy of Pediatrics’ 2022 clinical report sets out age-related health supervision, including assessment for heart conditions and ongoing attention to hearing, vision, thyroid function and sleep. The practical lesson is to arrange coordinated follow-up with clinicians familiar with these needs. Feeling well on a particular day does not replace recommended preventive checks. [American Academy of Pediatrics: Health supervision, 2022](https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents)",
+      "Treatment addresses the person’s actual medical conditions and functional needs. There is no routine treatment that removes the underlying chromosome difference. Medical care, developmental support and ordinary opportunities to be active and social all matter. Promises of a universal cure should not displace established care. [NICHD: Treatments and early intervention](https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments)",
+      "### Adult healthcare and mental health",
+      "Adults need continuing primary care, not only services organized around childhood development. The 2020 JAMA adult-care guideline addresses issues including thyroid disease, mental health and dementia assessment. A change in mood, sleep, behaviour or everyday functioning calls for attention to the person’s usual baseline and possible medical or environmental causes. [JAMA: Medical care of adults with Down syndrome, 2020](https://jamanetwork.com/journals/jama/fullarticle/2771907)",
+      "People with Down syndrome can experience depression, anxiety and other mental health difficulties. Describing someone as naturally cheerful can make distress easier to overlook. Assessment should make room for accessible communication and information from people who know the individual, while keeping the person’s own experience central. [NICHD: Associated health conditions](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated) [JAMA: Medical care of adults with Down syndrome, 2020](https://jamanetwork.com/journals/jama/fullarticle/2771907)",
+      "### Life expectancy: useful context, not an individual deadline",
+      "In a statement published on 20 March 2026, the U.S. Agency for Healthcare Research and Quality described life expectancy for people with Down syndrome as about 60 years. This is a broad summary, not a worldwide guarantee or a maximum lifespan. It cannot predict one person’s future, especially across settings with different access to diagnosis, treatment and ongoing support. [AHRQ: Evidence gaps in adult Down syndrome care, 20 March 2026](https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html)",
+      "The same AHRQ review highlighted substantial gaps in the evidence guiding adult care. Longer lives make better adult services, ageing research and continuity of support increasingly important. It would be misleading to present an approximate lifespan figure as though all the questions about healthy ageing had already been answered. [AHRQ: Evidence gaps in adult Down syndrome care, 20 March 2026](https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html)",
+      "### Down syndrome and Alzheimer’s disease",
+      "Alzheimer’s disease is an important concern as people with Down syndrome age. Chromosome 21 carries the gene for amyloid precursor protein, or APP; additional gene dosage helps explain the biological connection. However, Alzheimer-related brain changes and clinically apparent dementia are not interchangeable, and not everyone develops dementia at the same age. [National Institute on Aging: Alzheimer’s disease and Down syndrome](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/alzheimers-disease-people-down-syndrome)",
+      "New difficulties should not automatically be attributed to dementia. Problems such as thyroid disease, depression or sensory impairment can require different treatment. Assessment compares current abilities with the person’s own previous functioning. PRESDA’s [explanation of Alzheimer’s disease and memory loss](/articles/alzheimers-disease-brain-memory-loss/) provides wider context for the distinction between brain pathology, symptoms and diagnosis. [NHS: Down’s syndrome and dementia support guide](https://www.cntw.nhs.uk/resources/downs-syndrome-and-dementia-support-guide)",
+      "## EDUCATION, EMPLOYMENT AND INDEPENDENCE",
+      "### Learning should remain an open question",
+      "Education works best when expectations are individualized rather than decided by a diagnostic label. Some children attend mainstream schools with support; others benefit from different arrangements. Accessible teaching, clear communication and collaboration between families, teachers and specialists help match the learning environment to the student. Inclusion requires meaningful participation, not simply placement in a room. [NHS: Helping children and young people](https://www.nhs.uk/conditions/downs-syndrome/how-to-help-children-and-young-people/)",
+      "A student may need an instruction broken into steps, a visual reminder or more time to respond. Those adjustments do not make the learning less real. Progress also extends beyond examinations: explaining a need, understanding a journey and using a skill in a new setting can have substantial everyday value.",
+      "### Work: opportunity needs practical support",
+      "Adults with Down syndrome can hold paid jobs, but there is no single occupation suited to everyone. NDSS employment resources emphasize matching work to strengths and interests, preparing employers and providing appropriate training and support. A job title alone says little about whether a role offers genuine participation or opportunities to develop. [NDSS: Partnering for career success](https://ndss.org/resources/partnering-career-success)",
+      "Useful workplace support can include clear task instructions, an identified person for questions and adjustments to training. Colleagues should include the employee in communication and decisions relevant to their work. Competitive, integrated employment is an explicit goal of NDSS’s programme, rather than treating employment as a charitable gesture. [NDSS: Partnering for career success](https://ndss.org/resources/partnering-career-success) [NDSS: Employment programme](https://ndss.org/employment-program)",
+      "### Independence does not mean doing everything alone",
+      "Living arrangements and support needs vary. Some adults manage many daily activities independently; others need substantial assistance. The better question is what combination of skills, accessible services and dependable support allows this person to exercise meaningful choice. Needing help in one area should not erase abilities in another. [NHS: Down’s syndrome](https://www.nhs.uk/conditions/downs-syndrome/)",
+      "Supported decision-making offers a useful principle: help someone understand options and communicate a preference rather than automatically replacing their decisions. In healthcare, that can mean accessible explanations, time for questions and a trusted supporter chosen by the person. Formal legal arrangements differ, but respect for the individual should remain the starting point. [NDSS: Family-centred care and supported decision-making](https://ndss.org/resources/medical-home-care-family-centered-care-shared-decision-making-and-supported-decision)",
+      "## FRIENDSHIP, RELATIONSHIPS, MARRIAGE AND PARENTHOOD",
+      "People with Down syndrome have their own interests in friendship, intimacy and partnership. Some want romantic relationships; others do not. Sexuality education should be accessible and include consent, boundaries, privacy, contraception and recognizing coercion. Treating adults as perpetual children can leave these important subjects unaddressed. [NDSS: Relationships and sexuality](https://ndss.org/resources/relationships-sexuality)",
+      "The UN Convention on the Rights of Persons with Disabilities recognizes the right of people of marriageable age to marry on the basis of free and full consent and addresses family and parental rights. National law and individual legal circumstances vary. A diagnosis alone should not be mistaken for a complete assessment of someone’s wishes or decision-making abilities. [United Nations CRPD, Article 23: Home and family](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-23-respect-for-home-and-the-family.html)",
+      "Fertility and parenting are separate questions. Pregnancy is possible for some women with Down syndrome, and reproductive healthcare should include individualized discussion of health, contraception and genetic counselling. Neither presumed infertility nor a blanket prediction about a future child is an adequate basis for advice. [NDSS: Women’s health and Down syndrome](https://ndss.org/resources/primary-care-providers-guide-womens-health-and-down-syndrome)",
+      "Fertility is generally reduced in men with Down syndrome, but “all men are infertile” is too absolute. A peer-reviewed 2006 case report documented paternity in a man with nonmosaic Down syndrome. A single case establishes possibility; it does not provide a population fertility rate or predict an individual’s reproductive circumstances. [NDSS: Relationships and sexuality](https://ndss.org/resources/relationships-sexuality) [Pradhan and colleagues: Paternity in a man with Down syndrome, 2006 case report](https://pubmed.ncbi.nlm.nih.gov/17094988/)",
+      "Parenthood requires an assessment of practical responsibilities, available support and the child’s needs, not a stereotype about a chromosome condition. The CRPD calls for assistance in carrying out child-rearing responsibilities. Respecting rights and taking support needs seriously belong in the same conversation. [United Nations CRPD, Article 23: Home and family](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-23-respect-for-home-and-the-family.html)",
+      "## MYTH VS REALITY",
+      "### Myth: Everyone has the same level of intelligence",
+      "Reality: A diagnosis describes a condition, not a complete cognitive profile. Learning and communication differ between people. Assessment should identify strengths and support needs rather than assign a fixed future from the label. Difficulty with spoken language is not a reliable shortcut to judging everything a person understands. [NICHD: Symptoms and development](https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms)",
+      "### Myth: People with Down syndrome are always happy",
+      "Reality: They have individual personalities and a full emotional life. Someone can be sociable or reserved, content or upset. The cheerful stereotype can sound complimentary while discouraging others from listening when a person is frustrated, anxious or unwell. [NHS: Down’s syndrome](https://www.nhs.uk/conditions/downs-syndrome/) [JAMA: Medical care of adults with Down syndrome, 2020](https://jamanetwork.com/journals/jama/fullarticle/2771907)",
+      "### Myth: A meaningful adult life requires complete independence",
+      "Reality: Work, relationships and personal choices can coexist with substantial support. The objective is meaningful participation and agency, not a universal standard of living without help. Both underestimating someone and withdrawing needed assistance can restrict opportunity. [NDSS: Family-centred care and supported decision-making](https://ndss.org/resources/medical-home-care-family-centered-care-shared-decision-making-and-supported-decision) [NDSS: Employment programme](https://ndss.org/employment-program)",
+      "### Myth: People with Down syndrome cannot work or have relationships",
+      "Reality: Paid employment and intimate relationships are possible. Neither should be imposed as proof of success, and neither should be dismissed in advance. Training, accessible information, consent and appropriate support matter more than sweeping claims about what an entire group can or cannot do. [NDSS: Employment programme](https://ndss.org/employment-program) [NDSS: Relationships and sexuality](https://ndss.org/resources/relationships-sexuality)",
+      "### Myth: Quality of life must be poor",
+      "Reality: Outsiders’ assumptions are not a substitute for listening. A 2011 study surveyed 284 people with Down syndrome aged 12 and older, recruited through six U.S. nonprofit organizations. Most respondents reported positive feelings about their lives. The recruitment method and who could respond limit generalization; the study does not show that everyone is happy or that support needs disappear. It does challenge the assumption that diagnosis alone determines how life is experienced. [Skotko and colleagues: Self-perceptions of people with Down syndrome, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3740159/)",
+      "### Myth: A positive screening test tells a family everything",
+      "Reality: Screening estimates chance and requires careful interpretation. Even a confirmed chromosome diagnosis cannot supply a detailed forecast of a child’s life. Accurate medical information and contact with varied lived experiences are more useful than either catastrophic predictions or promises that everything will be easy. [ACOG: Prenatal genetic screening tests](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests) [MedlinePlus: Down syndrome diagnosis and care](https://medlineplus.gov/ency/article/000997.htm)",
+      "## WHAT SCIENCE STILL NEEDS TO UNDERSTAND",
+      "Important questions remain about why health and development vary so widely and how best to support adults across a longer lifetime. The 2026 AHRQ review makes clear that gaps in adult-care evidence persist. A recommendation may be clinically useful while the research behind some details is still limited; uncertainty should be acknowledged rather than hidden. [AHRQ: Evidence gaps in adult Down syndrome care, 20 March 2026](https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html)",
+      "Research also needs to answer questions that matter in everyday life. Does an intervention improve communication outside the clinic? Does a service increase real choice? Are adults included in discussions about the support they receive? A biological measurement and a meaningful outcome are not always the same thing.",
+      "Understanding Trisomy 21 is valuable because it makes better care possible. Understanding people requires another kind of attention: learning their preferences, listening to their communication and allowing their lives to be more specific than a diagnosis. The chromosome is part of the story. It is never the whole person.",
+      "This article provides general information, not an individualized diagnosis or care plan. A clinician or genetic counsellor can interpret a particular test result and discuss personal health and reproductive questions."
+    ],
+    "source": {
+      "name": "CDC: About Down syndrome",
+      "url": "https://www.cdc.gov/birth-defects/about/down-syndrome.html"
+    },
+    "references": [
+      {
+        "name": "CDC: About Down syndrome",
+        "url": "https://www.cdc.gov/birth-defects/about/down-syndrome.html"
+      },
+      {
+        "name": "MedlinePlus Genetics: Down syndrome",
+        "url": "https://medlineplus.gov/genetics/condition/down-syndrome/"
+      },
+      {
+        "name": "NICHD: What causes Down syndrome?",
+        "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes"
+      },
+      {
+        "name": "NHS: Down’s syndrome",
+        "url": "https://www.nhs.uk/conditions/downs-syndrome/"
+      },
+      {
+        "name": "NICHD: Symptoms and development",
+        "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms"
+      },
+      {
+        "name": "ACOG: Prenatal genetic screening tests",
+        "url": "https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests"
+      },
+      {
+        "name": "ACOG: Screening for fetal chromosomal abnormalities, 2026",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2026/01/screening-for-fetal-chromosomal-abnormalities"
+      },
+      {
+        "name": "MedlinePlus: Down syndrome diagnosis and care",
+        "url": "https://medlineplus.gov/ency/article/000997.htm"
+      },
+      {
+        "name": "American Academy of Pediatrics: Health supervision, 2022",
+        "url": "https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents"
+      },
+      {
+        "name": "NICHD: Associated health conditions",
+        "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated"
+      },
+      {
+        "name": "NICHD: Treatments and early intervention",
+        "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments"
+      },
+      {
+        "name": "JAMA: Medical care of adults with Down syndrome, 2020",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2771907"
+      },
+      {
+        "name": "AHRQ: Evidence gaps in adult Down syndrome care, 20 March 2026",
+        "url": "https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html"
+      },
+      {
+        "name": "National Institute on Aging: Alzheimer’s disease and Down syndrome",
+        "url": "https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/alzheimers-disease-people-down-syndrome"
+      },
+      {
+        "name": "NHS: Helping children and young people",
+        "url": "https://www.nhs.uk/conditions/downs-syndrome/how-to-help-children-and-young-people/"
+      },
+      {
+        "name": "NDSS: Partnering for career success",
+        "url": "https://ndss.org/resources/partnering-career-success"
+      },
+      {
+        "name": "NDSS: Family-centred care and supported decision-making",
+        "url": "https://ndss.org/resources/medical-home-care-family-centered-care-shared-decision-making-and-supported-decision"
+      },
+      {
+        "name": "NDSS: Relationships and sexuality",
+        "url": "https://ndss.org/resources/relationships-sexuality"
+      },
+      {
+        "name": "United Nations CRPD, Article 23: Home and family",
+        "url": "https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-23-respect-for-home-and-the-family.html"
+      },
+      {
+        "name": "Pradhan and colleagues: Paternity in a man with Down syndrome, 2006 case report",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17094988/"
+      },
+      {
+        "name": "Skotko and colleagues: Self-perceptions of people with Down syndrome, 2011",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3740159/"
+      },
+      {
+        "name": "NDSS: Employment programme",
+        "url": "https://ndss.org/employment-program"
+      },
+      {
+        "name": "NHS: Down’s syndrome and dementia support guide",
+        "url": "https://www.cntw.nhs.uk/resources/downs-syndrome-and-dementia-support-guide"
+      },
+      {
+        "name": "NDSS: Women’s health and Down syndrome",
+        "url": "https://ndss.org/resources/primary-care-providers-guide-womens-health-and-down-syndrome"
+      }
+    ],
+    "tags": [
+      "Down syndrome",
+      "Trisomy 21",
+      "Down syndrome genetics",
+      "prenatal screening",
+      "mosaic Down syndrome",
+      "Down syndrome life expectancy",
+      "disability inclusion"
+    ],
+    "faq": [
+      {
+        "question": "What is Down syndrome?",
+        "answer": "Down syndrome is a genetic condition caused by an extra full or partial copy of chromosome 21. It affects development and increases some health risks, but abilities, health and support needs vary considerably."
+      },
+      {
+        "question": "Is Trisomy 21 the same as Down syndrome?",
+        "answer": "Full Trisomy 21 is the most common form of Down syndrome and involves three separate copies of chromosome 21. Translocation and mosaic forms also occur."
+      },
+      {
+        "question": "Is Down syndrome inherited?",
+        "answer": "Most cases are not inherited. Some translocation cases can be passed through a parent with a balanced chromosome rearrangement. Genetic counselling can explain a particular chromosome result and family circumstances."
+      },
+      {
+        "question": "Does a positive NIPT result diagnose Down syndrome?",
+        "answer": "No. NIPT is screening, not diagnosis. A positive result calls for counselling and discussion of diagnostic testing, such as chorionic villus sampling or amniocentesis."
+      },
+      {
+        "question": "What is the life expectancy for people with Down syndrome?",
+        "answer": "AHRQ described life expectancy as about 60 years in March 2026. This broad summary is not a maximum age or a prediction for one person, and healthcare access and individual circumstances matter."
+      },
+      {
+        "question": "Can people with Down syndrome work and live independently?",
+        "answer": "Some adults have paid employment and manage many daily activities independently; others need substantial support. Individual skills, preferences, training and accessible services matter more than assumptions based on the diagnosis."
+      },
+      {
+        "question": "Can people with Down syndrome marry and have children?",
+        "answer": "Relationships and marriage are possible, with free and informed consent and attention to applicable law. Fertility is reduced but should not be assumed absent. Reproductive and parenting questions require individualized counselling and consideration of support needs."
+      }
+    ],
+    "readingTime": "14 min read"
+  },
+  {
     "id": "118",
     "slug": "new-7-wonders-of-the-world-history-travel-guide",
     "title": "THE NEW 7 WONDERS OF THE WORLD: THE STORIES BEHIND EARTH’S GREATEST LANDMARKS",
