@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Barlow_Condensed, Inter, Orbitron } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import type { ReactNode } from "react";
@@ -71,6 +72,22 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <Header />
         {children}
         <Analytics />
+        {process.env.NODE_ENV === "production" && (
+          <>
+            <Script
+              src="https://www.googletagmanager.com/gtag/js?id=G-9TNHCVQTTP"
+              strategy="afterInteractive"
+            />
+            <Script id="presda-ga4" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-9TNHCVQTTP');
+              `}
+            </Script>
+          </>
+        )}
         <Footer />
       </body>
     </html>
