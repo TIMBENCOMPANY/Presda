@@ -54,6 +54,273 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "120",
+    "slug": "possession-psychogenic-seizures-pnes-science",
+    "title": "POSSESSION OR PSYCHOGENIC SEIZURES: WHAT DOES SCIENCE REALLY SAY?",
+    "seoTitle": "Possession or Psychogenic Seizures? PNES, Epilepsy & Science",
+    "metaDescription": "Explore functional seizures (PNES), epilepsy, dissociation and sleep paralysis: what EEG can test, why symptoms are real, and where scientific evidence stops.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "PSYCHOGENIC SEIZURES",
+      "gold": "SCIENCE REALLY SAY"
+    },
+    "excerpt": "When an episode feels beyond someone’s control, the explanation matters. Explore cultural beliefs, involuntary seizures and what medical evidence can actually establish.",
+    "category": "Science",
+    "date": "2026-09-22",
+    "lastUpdated": "2026-09-22",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/possession-psychogenic-seizures-science.png",
+    "coverAlt": "Conceptual illustration of a distressed person with family and a clinician beside brain-monitoring displays, not a documented medical case",
+    "homepageImagePosition": "50% 50%",
+    "content": [
+      "Across history, a sudden change in someone’s voice, movements or awareness has raised a frightening question: who, or what, is in control? Some communities have understood such experiences through spirits, ancestors, deities or demons. Others have looked to the body and mind. These traditions do not describe one uniform experience, and the word “possession” has never had one universal meaning.",
+      "Today, some episodes described as possession can resemble functional seizures, also called psychogenic non-epileptic seizures or PNES, epilepsy, dissociation or other medical conditions. Resemblance is not diagnosis. Medicine must investigate the individual event rather than treating a cultural explanation as either proof of a disorder or evidence against one. [Bhavsar and colleagues: Dissociative trance and spirit possession, 2016](https://doi.org/10.1111/pcn.12425) [Bajestan and LaFrance: Clinical approaches to PNES](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/)",
+      "The central medical distinction is not between a real experience and an imaginary one. Functional seizures are real, involuntary events. Epileptic seizures are also involuntary, but their mechanism and treatment differ. Recognizing those differences can protect people from both untreated illness and the accusation that they are pretending. [Sheffield Teaching Hospitals: What are functional seizures?](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/) [NIH: Understanding epilepsy, February 2026](https://newsinhealth.nih.gov/2026/02/understanding-epilepsy)",
+      "## POSSESSION THROUGH HISTORY: ONE WORD, MANY EXPERIENCES",
+      "### Ancient texts are not modern case records",
+      "Historians studying ancient Egypt and Mesopotamia examine texts about divine and supernatural influences, but debate how closely their categories correspond to what modern readers call possession. A ritual description is not a neurological examination. Reading a contemporary diagnosis back into every ancient account can be as misleading as assuming that every description concerns the same supernatural event. [Oxford Academic: Ideas of possession in ancient Egypt and Mesopotamia](https://academic.oup.com/book/58134/chapter-abstract/480188989)",
+      "The historical record also does not support a simple story in which all societies feared possession in the same way. Frederick M. Smith’s study of South Asian traditions describes forms of deity and spirit possession, including respected ecstatic or oracular practices. Participation in a religious tradition is not automatically a sign of illness. [Frederick M. Smith: The Self Possessed, Columbia University Press](https://www.jstor.org/stable/10.7312/smit13748)",
+      "### Religious and cultural meanings differ",
+      "Zār traditions documented in parts of Africa and Iran place spirit experiences within particular social and ritual settings. Their meanings and practices vary between communities. A review of these traditions stresses the importance of cultural context, rather than treating a shared label as a single condition with a single cause. [Zār spirit possession in Iran and African countries: cultural review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4801492/)",
+      "In some Muslim settings, people may interpret distress or unusual experiences through beliefs about jinn. A 2014 review of the medical literature examined this explanatory model in psychiatric care. That does not mean all Muslims share one interpretation, or that belief in jinn is itself a psychiatric symptom. Clinicians need to understand what a person and their community mean before deciding what requires assessment. [Lim and colleagues: Attribution of psychotic symptoms to jinn, 2014 review](https://pubmed.ncbi.nlm.nih.gov/25080427/)",
+      "Christian traditions also differ. Within Catholic practice, guidance published by the U.S. Conference of Catholic Bishops calls for thorough medical and psychological or psychiatric evaluation in assessing alleged possession. This is evidence about a religious institution’s procedure, not scientific validation of a supernatural cause. It illustrates that religious concern and medical investigation need not be treated as mutually exclusive. [USCCB: Exorcism and medical assessment, December 2014](https://www.usccb.org/resources/newsletter-2014-12.pdf)",
+      "### When does an experience become a clinical concern?",
+      "Cultural psychiatry distinguishes socially accepted ritual experiences from unwanted states associated with distress, impairment or danger. The boundaries can be difficult to assess across languages and traditions. A clinician asks whether the experience is voluntary or unwanted, what happens outside the ritual setting and how the person is functioning. A trance-like appearance alone is not sufficient to diagnose a disorder. [Bhavsar and colleagues: Dissociative trance and spirit possession, 2016](https://doi.org/10.1111/pcn.12425)",
+      "## WHAT ARE FUNCTIONAL SEIZURES, OR PNES?",
+      "Functional seizures are episodes involving changes in movement, responsiveness or awareness that resemble epileptic seizures but are not generated by the epileptic electrical activity that defines those seizures. Some involve shaking; others involve becoming still or unresponsive. The exact presentation varies, and observation has to be interpreted by someone trained in seizure assessment. [Sheffield Teaching Hospitals: What are functional seizures?](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/)",
+      "PNES expands to psychogenic non-epileptic seizures. You may also encounter “dissociative seizures” or “functional seizures.” The latter term is increasingly used in clinical guidance. Terminology matters because “non-epileptic” describes a distinction in mechanism, not a judgement that the event is unreal. Older language suggesting a “pseudo” or fake seizure can be stigmatizing. [ILAE: Psychogenic seizures, diagnosis, treatment and stigma](https://www.ilae.org/journals/epigraph/epigraph-vol-21-issue-2-spring-2019/inside-the-world-of-psychogenic-seizures-diagnosis-treatment-and-stigma)",
+      "### Real and involuntary, not acting",
+      "A person having a functional seizure is not simply choosing to perform a seizure. Loss of control, fear, exhaustion and disruption to work or school can be substantial. A diagnosis should be explained positively: what the clinician observed, why it supports the diagnosis and what help is available. Telling someone that “nothing is wrong” misrepresents the condition. [Sheffield Teaching Hospitals: What are functional seizures?](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/) [ILAE: Psychogenic seizures, diagnosis, treatment and stigma](https://www.ilae.org/journals/epigraph/epigraph-vol-21-issue-2-spring-2019/inside-the-world-of-psychogenic-seizures-diagnosis-treatment-and-stigma)",
+      "Functional seizures are a presentation of functional neurological disorder, or FND. FND can also involve weakness, altered sensation or movement symptoms. Current research examines disrupted functioning of brain networks, including systems involved in attention, movement and the sense of agency. It is not adequately explained by a simple division between “physical” illness and “mental” illness. [Hallett and colleagues: Functional neurological disorder, 2022 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/)",
+      "A routine brain scan can be normal in FND. That does not make the symptoms deliberate, but a normal scan is not enough to diagnose it either. Clinical diagnosis relies on positive evidence and appropriate assessment of alternatives. The absence of a visible structural lesion should not be confused with the absence of a meaningful health problem. [Hallett and colleagues: Functional neurological disorder, 2022 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/)",
+      "## EPILEPTIC SEIZURES CAN LOOK VERY DIFFERENT FROM ONE ANOTHER",
+      "Epileptic seizures arise from abnormal electrical activity in the brain. They are not limited to collapse and whole-body convulsions. Depending on the brain networks involved, an episode can affect sensation, emotion, behaviour, movement or awareness. Someone may appear briefly absent, make repetitive movements or experience an intense unfamiliar sensation. [NIH: Understanding epilepsy, February 2026](https://newsinhealth.nih.gov/2026/02/understanding-epilepsy) [NINDS: Epilepsy and seizures](https://www.ninds.nih.gov/node/647)",
+      "Some focal seizures can include sudden fear, unusual sensory experiences or déjà vu. Those experiences can be compelling without telling an observer what caused them. PRESDA’s [guide to déjà vu and the brain](/articles/deja-vu-why-does-it-happen-brain-science/) explains why an experience can occur in both ordinary life and particular neurological contexts. Most ordinary déjà vu is not evidence of epilepsy. [NINDS: Epilepsy and seizures](https://www.ninds.nih.gov/node/647)",
+      "An epileptic seizure and an epilepsy diagnosis are not identical concepts: seizures can also occur in the setting of an acute medical disturbance. The circumstances and clinical history matter. This is another reason that a dramatic movement or a short recording cannot substitute for assessment. [NICE NG217: Diagnosis and assessment of epilepsy](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)",
+      "## OTHER CONDITIONS THAT CAN RESEMBLE A POSSESSION NARRATIVE",
+      "### Dissociation and trance-like states",
+      "Dissociation can involve feeling detached from oneself or the surroundings, changes in the sense of identity, or gaps in memory. It is not synonymous with psychosis, and not every dissociative experience is a seizure. Experiences of diminished control can nevertheless be interpreted as an outside force acting on the person. [NHS: Dissociative disorders](https://www.nhs.uk/mental-health/conditions/dissociative-disorders/) [Bhavsar and colleagues: Dissociative trance and spirit possession, 2016](https://doi.org/10.1111/pcn.12425)",
+      "Assessment asks what the person actually experiences rather than supplying an explanation in advance. Feeling unreal, losing time and hearing a voice are different reports that need different follow-up questions. A culturally familiar description may communicate distress, but it does not determine the medical diagnosis.",
+      "### Trauma and severe distress: relevant, but not universal",
+      "A 2018 systematic review and meta-analysis found that stressful life events and maltreatment were more commonly reported in people with FND than in comparison groups. Crucially, some patients reported no such stressor. These findings support trauma-sensitive assessment, not the assumption that every patient must have a hidden trauma. Association at group level does not establish the cause of an individual episode. [Ludwig and colleagues: Stress and maltreatment in FND, 2018 meta-analysis](https://pubmed.ncbi.nlm.nih.gov/29526521/)",
+      "For some people, severe distress or trauma is an important part of the clinical picture. For others, the relevant factors may differ or remain uncertain. Care should make it safe to discuss difficult experiences without pressuring someone to produce a particular life story. An absent trauma history does not prove faking or rule out functional symptoms. [Ludwig and colleagues: Stress and maltreatment in FND, 2018 meta-analysis](https://pubmed.ncbi.nlm.nih.gov/29526521/)",
+      "### Panic attacks",
+      "Panic attacks can cause intense fear, a racing heart, shaking, breathlessness and a sense of losing control or impending death. These are genuine bodily and emotional experiences. However, a panic attack is not interchangeable with PNES, and new chest symptoms, collapse or altered consciousness should not automatically be labelled anxiety. [NIMH: Panic disorder](https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms)",
+      "### Sleep paralysis and a sensed presence",
+      "During sleep paralysis, someone may be aware while temporarily unable to move or speak as they fall asleep or wake. They may feel a presence in the room, pressure on the body or intense fear. The experience occurs at the boundary between sleep and wakefulness, when muscle control has not yet returned to the waking state. [NHS: Sleep paralysis](https://www.nhs.uk/conditions/sleep-paralysis/)",
+      "That combination helps explain why nocturnal experiences can be interpreted as an intruder or supernatural attack. The subjective terror is real, while the interpretation is a separate question. Sleep paralysis is not a general explanation for episodes happening in other circumstances. Recurrent episodes that cause distress or disrupt sleep deserve medical discussion. [NHS: Sleep paralysis](https://www.nhs.uk/conditions/sleep-paralysis/)",
+      "### Fainting, illness, substances and psychiatric conditions",
+      "Fainting can include brief jerking movements, so visible shaking does not automatically establish epilepsy. ILAE’s diagnostic resources describe a range of epilepsy imitators, including syncope and sleep-related events. The sequence of symptoms and recovery can be as useful as the most dramatic moment. [ILAE EpilepsyDiagnosis.org: Epilepsy imitators](https://www.epilepsydiagnosis.org/epilepsy-imitators.html)",
+      "Low blood sugar and other medical disturbances can also produce seizure-like presentations or altered consciousness. Sudden confusion may result from infection, medication effects, alcohol or drug-related problems and other urgent causes. These possibilities require medical assessment, not a choice between only epilepsy and possession. [Epilepsy Foundation: Diagnosing epilepsy imitators](https://www.epilepsy.com/diagnosis/imitators-epilepsy) [NHS: Sudden confusion and delirium](https://www.nhs.uk/symptoms/confusion/)",
+      "Encephalitis, inflammation of the brain, is an example of a serious illness that can cause seizures, behavioural change and hallucinations. Psychosis can also involve hallucinations or altered beliefs, but hallucination is not a diagnosis by itself. Neither spiritual belief nor unusual behaviour alone identifies psychosis, encephalitis or any other condition. [NHS: Encephalitis symptoms](https://www.nhs.uk/conditions/encephalitis/symptoms/) [NHS: Psychosis](https://www.nhs.uk/mental-health/conditions/psychosis/overview/)",
+      "## POSSESSION OR SEIZURE: WHAT CAN MEDICINE ACTUALLY TEST?",
+      "Medicine does not have a laboratory test for possession. It can investigate specific explanations for movements, altered awareness, unusual perceptions or loss of control. The practical question is which diagnosis best fits the history, examination and test findings, and what level of certainty those findings support.",
+      "### Start with the whole event",
+      "A neurological assessment considers what happened before, during and after an episode, the person’s medical history, medicines and eyewitness observations. NICE recommends an ECG after a first suspected seizure to help identify cardiac conditions that can mimic epilepsy. Blood tests and brain imaging may be appropriate according to the circumstances. The work-up is selected for the person, not imposed as one universal checklist. [NICE NG217: Diagnosis and assessment of epilepsy](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)",
+      "Different recurring episodes should be described separately. An abrupt collapse after standing, a nocturnal event and a prolonged shaking episode may not share one cause. This distinction becomes especially important when there is more than one type of seizure. [American Academy of Neurology: Functional seizures guideline, December 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)",
+      "### Routine EEG: useful, but not a verdict",
+      "An electroencephalogram, or EEG, records electrical activity through electrodes on the scalp. A routine EEG samples a limited period and may take place between events. NICE explicitly advises against using EEG to exclude epilepsy. A normal routine result therefore does not prove PNES and does not establish that an unexplained episode has a supernatural origin. [NICE NG217: Diagnosis and assessment of epilepsy](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)",
+      "An abnormal tracing also needs expert interpretation. Movement and muscle activity can create artifacts, and some electrical findings may not explain the episode under investigation. Test results are evidence within an assessment, not a standalone label attached to a person. [Whitehead and colleagues: Video-EEG best practice, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/)",
+      "### Video-EEG: linking behaviour and brain activity",
+      "Video-EEG records the person and the EEG together. Capturing a habitual episode allows specialists to compare its observable features with the electrical recording. An event with features supporting functional seizures and without the expected epileptic activity can provide strong diagnostic evidence. It matters that the recorded event matches the episodes the person and witnesses recognize. [Whitehead and colleagues: Video-EEG best practice, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/)",
+      "There is an important limit: some epileptic seizures, particularly certain focal seizures, may have no clear ictal signal on scalp EEG. A blank-looking trace is not a shortcut to PNES. The seizure’s clinical features, recording quality and expected electrical pattern must be considered together. [Whitehead and colleagues: Video-EEG best practice, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/)",
+      "Video-EEG may be unavailable or may fail to capture an event. Clinical frameworks therefore distinguish levels of diagnostic certainty. The appropriate response is to explain the evidence and uncertainty, not pretend that every diagnosis has identical confirmation. A clinician may reach a supported diagnosis through the available history and positive clinical features while deciding whether further monitoring is needed. [Bajestan and LaFrance: Clinical approaches to PNES](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/)",
+      "### Can epilepsy and functional seizures coexist?",
+      "Yes. A person can have both, and the AAN guideline recommends assessing for co-occurring epilepsy. Capturing or carefully characterizing each typical event helps avoid the mistake of assuming that one recorded functional seizure explains every episode someone has ever experienced. Their care plan may need to address both conditions. [American Academy of Neurology: Functional seizures guideline, December 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)",
+      "### Psychological assessment is part of care, not a lie detector",
+      "Psychological or psychiatric evaluation can explore dissociation, anxiety, depression, trauma, stress, coping and the effects of symptoms on daily life. It complements neurological evaluation. A history of trauma does not by itself diagnose PNES, just as a calm manner or the absence of a psychiatric diagnosis does not rule it out. [Bajestan and LaFrance: Clinical approaches to PNES](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/)",
+      "Questions about cultural meaning also belong here. What does the person think is happening? Who have they consulted? What help feels acceptable? Asking respectfully can improve understanding without requiring the clinician to endorse a supernatural explanation or the patient to renounce a religious identity.",
+      "## WHY CAN POSSESSION-LIKE EXPERIENCES FEEL COMPLETELY REAL?",
+      "### Experience and explanation are different",
+      "The certainty that an experience happened does not establish why it happened. Someone can sincerely perceive a presence during sleep paralysis or feel detached from their own actions. Acknowledging the experience is compatible with investigating its mechanism. Dismissing the person as gullible adds nothing to that investigation.",
+      "Research models of FND examine how attention, expectations and the sense of agency interact. Agency is the feeling that an action is your own. If that experience is disrupted, movement can feel outside voluntary control without being consciously produced. These are developing explanatory models, not a universal brain scan finding that identifies the cause of every episode. [Fobian and Elliott: Models of functional neurological symptoms, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6306282/)",
+      "### Stress responses and learned expectations",
+      "Threat and arousal can change bodily sensations, attention and how sensations are interpreted. In panic, a pounding heart can itself become frightening. In functional symptoms, researchers investigate whether expectations and attention help shape or maintain particular experiences. Such models do not mean someone simply “believes themselves ill,” and they do not establish belief as the cause of every event. [NIMH: Panic disorder](https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms) [Fobian and Elliott: Models of functional neurological symptoms, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6306282/)",
+      "Culture can supply the words used to describe a frightening experience and influence where someone seeks help. An experience interpreted through jinn in one setting might be described differently elsewhere. That is evidence about interpretation and help-seeking, not proof that one religion produces symptoms or that religious people are uniquely vulnerable. [Lim and colleagues: Attribution of psychotic symptoms to jinn, 2014 review](https://pubmed.ncbi.nlm.nih.gov/25080427/)",
+      "The scientifically careful position leaves several questions open at once: what the event felt like, how it was understood, which measurable mechanism is supported and what remains unknown. Those questions should not be collapsed into a single story merely because that story is familiar.",
+      "## TREATMENT: WHAT HELPS AFTER A DIAGNOSIS?",
+      "A clear, respectful explanation is an important starting point. Functional seizures require continuing care and an individualized plan. The AAN’s December 2025 guideline supports appropriate psychological interventions and advises against prescribing antiseizure medication for functional seizures alone when there is no epilepsy or other indication. Existing medication should only be changed with the treating clinician, especially when diagnoses coexist. [American Academy of Neurology: Functional seizures guideline, December 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)",
+      "Treatment evidence needs nuance. The 2020 CODES randomized trial enrolled 368 adults with dissociative seizures. Adding seizure-specific cognitive behavioural therapy to standardized medical care did not produce a statistically significant improvement in the primary outcome of monthly seizure frequency at 12 months. Several secondary measures, including psychosocial functioning, did improve. The trial supports a more careful discussion than either “therapy cures everyone” or “therapy does nothing.” [Goldstein and colleagues: CODES randomized trial, 2020](https://pubmed.ncbi.nlm.nih.gov/32445688/)",
+      "Appropriate care may also address co-occurring conditions and the practical consequences of episodes. Progress can include improved daily functioning as well as changes in seizure frequency. Spiritual support chosen by the patient may remain important, but it should not delay medical assessment, replace necessary treatment or expose someone to coercion or injury.",
+      "## MYTH VS REALITY",
+      "### Myth: A normal EEG proves the person is faking",
+      "Reality: A routine EEG can be normal in epilepsy, and functional seizures are involuntary. The diagnosis depends on the full clinical evidence. “Not epileptic” does not mean “not real.” [NICE NG217: Diagnosis and assessment of epilepsy](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy) [Sheffield Teaching Hospitals: What are functional seizures?](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/)",
+      "### Myth: All episodes called possession are PNES",
+      "Reality: Possession is a cultural or religious description, not a single medical syndrome. Epilepsy, functional seizures, dissociation, sleep phenomena and other conditions are different possibilities. Some culturally accepted trance practices are not disorders at all. No universal percentage of possession accounts can responsibly be assigned to PNES from this evidence.",
+      "### Myth: A viral exorcism video can settle the diagnosis",
+      "Reality: A clip may omit the beginning, recovery, medical history and relevant testing. Dramatic movements, a changed voice or apparent responsiveness to a ritual cannot independently establish a cause. Clinical videos can help specialists when used with history and assessment; that is different from diagnosing a stranger from edited public footage. [American Academy of Neurology: Functional seizures guideline, December 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)",
+      "### Myth: Trauma must be found before functional seizures are real",
+      "Reality: Trauma is relevant for some patients but not a diagnostic requirement. Research showing an association does not justify inventing a trauma history for someone who does not report one. [Ludwig and colleagues: Stress and maltreatment in FND, 2018 meta-analysis](https://pubmed.ncbi.nlm.nih.gov/29526521/)",
+      "### Myth: Improvement during prayer or reassurance proves the cause",
+      "Reality: An episode ending after an action establishes a sequence, not causation. Without appropriate evidence, it cannot distinguish spontaneous recovery, the effects of reassurance or other factors. Neither a dramatic improvement nor a failed treatment functions as a theological test.",
+      "### Myth: Respecting faith means avoiding medicine",
+      "Reality: A person can value religious support and still receive neurological and mental health care. Respect includes listening, protecting consent and avoiding harmful practices. Clinicians can explain what evidence supports without turning an appointment into an argument about the person’s entire worldview.",
+      "## IF SOMEONE HAS A SEIZURE-LIKE EPISODE",
+      "Prioritize safety rather than attempting to decide whether an episode is epileptic, functional or spiritual. Stay with the person, clear nearby hazards, cushion the head if they are on the ground and time the episode. Do not hold them down, put objects in their mouth or give food or drink before they are fully alert. Turn them gently onto their side when possible to help keep the airway clear. [CDC: Seizure first aid](https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html)",
+      "Seek emergency help for a first seizure, an episode lasting more than five minutes, repeated seizures without recovery, breathing difficulty, serious injury or a seizure in water. Sudden confusion or severe illness also requires urgent assessment. People with an established diagnosis should have an individualized response plan; bystanders should not withhold help because they assume an event is functional. [CDC: Seizure first aid](https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html) [NHS: Sudden confusion and delirium](https://www.nhs.uk/symptoms/confusion/)",
+      "The hero image is a conceptual illustration, not a documented clinical episode or diagnostic evidence. This article explains general principles and cannot identify the cause of a particular person’s symptoms.",
+      "## WHAT SCIENCE CAN, AND CANNOT, CONCLUDE",
+      "Science can test specific, measurable claims about brain activity, heart rhythm, sleep, metabolism, behaviour and psychological processes. It can identify recognized conditions, assess competing explanations and investigate treatments. It can also specify where a test is limited or a diagnosis remains uncertain.",
+      "A missing explanation is not positive evidence for a supernatural cause. Equally, an EEG is not a theological instrument: it does not test an entire religion or settle every metaphysical question. Explaining a medical mechanism and making a philosophical claim about the universe are different tasks.",
+      "The most responsible conclusion begins with the person who needs help. Take the experience seriously, investigate it carefully and state the limits of the evidence. Respect for belief should not require neglecting illness. Scientific caution should never become an excuse to dismiss suffering."
+    ],
+    "source": {
+      "name": "American Academy of Neurology: Functional seizures guideline, December 2025",
+      "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000214466"
+    },
+    "references": [
+      {
+        "name": "Oxford Academic: Ideas of possession in ancient Egypt and Mesopotamia",
+        "url": "https://academic.oup.com/book/58134/chapter-abstract/480188989"
+      },
+      {
+        "name": "Frederick M. Smith: The Self Possessed, Columbia University Press",
+        "url": "https://www.jstor.org/stable/10.7312/smit13748"
+      },
+      {
+        "name": "Zār spirit possession in Iran and African countries: cultural review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4801492/"
+      },
+      {
+        "name": "Lim and colleagues: Attribution of psychotic symptoms to jinn, 2014 review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25080427/"
+      },
+      {
+        "name": "USCCB: Exorcism and medical assessment, December 2014",
+        "url": "https://www.usccb.org/resources/newsletter-2014-12.pdf"
+      },
+      {
+        "name": "Bhavsar and colleagues: Dissociative trance and spirit possession, 2016",
+        "url": "https://doi.org/10.1111/pcn.12425"
+      },
+      {
+        "name": "Sheffield Teaching Hospitals: What are functional seizures?",
+        "url": "https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/"
+      },
+      {
+        "name": "Hallett and colleagues: Functional neurological disorder, 2022 review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/"
+      },
+      {
+        "name": "NIH: Understanding epilepsy, February 2026",
+        "url": "https://newsinhealth.nih.gov/2026/02/understanding-epilepsy"
+      },
+      {
+        "name": "NINDS: Epilepsy and seizures",
+        "url": "https://www.ninds.nih.gov/node/647"
+      },
+      {
+        "name": "NHS: Dissociative disorders",
+        "url": "https://www.nhs.uk/mental-health/conditions/dissociative-disorders/"
+      },
+      {
+        "name": "Ludwig and colleagues: Stress and maltreatment in FND, 2018 meta-analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29526521/"
+      },
+      {
+        "name": "NIMH: Panic disorder",
+        "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms"
+      },
+      {
+        "name": "NHS: Sleep paralysis",
+        "url": "https://www.nhs.uk/conditions/sleep-paralysis/"
+      },
+      {
+        "name": "ILAE EpilepsyDiagnosis.org: Epilepsy imitators",
+        "url": "https://www.epilepsydiagnosis.org/epilepsy-imitators.html"
+      },
+      {
+        "name": "NHS: Sudden confusion and delirium",
+        "url": "https://www.nhs.uk/symptoms/confusion/"
+      },
+      {
+        "name": "NHS: Encephalitis symptoms",
+        "url": "https://www.nhs.uk/conditions/encephalitis/symptoms/"
+      },
+      {
+        "name": "NHS: Psychosis",
+        "url": "https://www.nhs.uk/mental-health/conditions/psychosis/overview/"
+      },
+      {
+        "name": "NICE NG217: Diagnosis and assessment of epilepsy",
+        "url": "https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy"
+      },
+      {
+        "name": "Whitehead and colleagues: Video-EEG best practice, 2017",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/"
+      },
+      {
+        "name": "American Academy of Neurology: Functional seizures guideline, December 2025",
+        "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000214466"
+      },
+      {
+        "name": "Bajestan and LaFrance: Clinical approaches to PNES",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/"
+      },
+      {
+        "name": "Fobian and Elliott: Models of functional neurological symptoms, 2018",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6306282/"
+      },
+      {
+        "name": "ILAE: Psychogenic seizures, diagnosis, treatment and stigma",
+        "url": "https://www.ilae.org/journals/epigraph/epigraph-vol-21-issue-2-spring-2019/inside-the-world-of-psychogenic-seizures-diagnosis-treatment-and-stigma"
+      },
+      {
+        "name": "Goldstein and colleagues: CODES randomized trial, 2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32445688/"
+      },
+      {
+        "name": "CDC: Seizure first aid",
+        "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html"
+      },
+      {
+        "name": "Epilepsy Foundation: Diagnosing epilepsy imitators",
+        "url": "https://www.epilepsy.com/diagnosis/imitators-epilepsy"
+      }
+    ],
+    "tags": [
+      "functional seizures",
+      "psychogenic seizures",
+      "PNES",
+      "epilepsy",
+      "dissociation",
+      "functional neurological disorder",
+      "sleep paralysis",
+      "possession and science"
+    ],
+    "faq": [
+      {
+        "question": "What are psychogenic non-epileptic seizures, or PNES?",
+        "answer": "PNES, also called functional seizures, are real, involuntary episodes involving changes in movement, responsiveness or awareness. They resemble epileptic seizures but are not generated by epileptic electrical activity."
+      },
+      {
+        "question": "Does a normal routine EEG prove PNES?",
+        "answer": "No. A routine EEG can be normal in someone with epilepsy. Functional seizures require positive clinical evidence and assessment of alternative explanations, often supported by recording a habitual event with video-EEG."
+      },
+      {
+        "question": "Can someone have both epilepsy and functional seizures?",
+        "answer": "Yes. The conditions can coexist, so clinicians need to assess different episode types and plan care for each rather than assume one diagnosis explains every event."
+      },
+      {
+        "question": "Is video-EEG always definitive?",
+        "answer": "Video-EEG can provide strong evidence when it records a typical episode, but expert interpretation is essential. Some epileptic seizures do not produce a clear signal on scalp EEG, and a test may fail to capture a habitual event."
+      },
+      {
+        "question": "Are functional seizures caused by trauma?",
+        "answer": "Trauma or severe distress can be relevant, but not everyone reports these experiences. Trauma is not required for the diagnosis, and a group-level association cannot establish the cause for one person."
+      },
+      {
+        "question": "Can sleep paralysis feel like a supernatural presence?",
+        "answer": "Yes. Sleep paralysis can involve inability to move or speak and a frightening sensed presence while falling asleep or waking. The experience is real to the person, but its interpretation does not establish a supernatural cause."
+      },
+      {
+        "question": "Can medicine prove or disprove possession?",
+        "answer": "Medicine can test specific neurological, physiological and psychological explanations for symptoms. It has no diagnostic test for possession. Lack of an immediate explanation is not evidence of a supernatural cause, and medical tests do not settle religious beliefs."
+      }
+    ],
+    "readingTime": "17 min read"
+  },
+  {
     "id": "119",
     "slug": "down-syndrome-trisomy-21-genetics-health-life",
     "title": "DOWN SYNDROME: UNDERSTANDING TRISOMY 21 AND THE PEOPLE LIVING WITH IT",
