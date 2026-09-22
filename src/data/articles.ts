@@ -14627,16 +14627,16 @@ export const articles: Article[] = [
   {
     id: "071",
     slug: "native-americans-history-indigenous-peoples",
-    title: "NATIVE AMERICANS: THE PEOPLE WHO LIVED IN AMERICA BEFORE AMERICA EXISTED",
-    seoTitle: "Native Americans: History of Indigenous Peoples Before America | PRESDA",
+    title: "NATIVE AMERICANS: THE CIVILIZATIONS THAT EXISTED BEFORE THE UNITED STATES",
+    seoTitle: "Native Americans: Civilizations Before the United States",
     metaDescription:
-      "Explore Native Americans history before and after European colonization, from Indigenous nations and Cahokia to removal, reservations, sovereignty and survival today.",
+      "Explore the diverse Indigenous nations of North America before the United States, their governments, trade networks, cultures and continuing sovereignty.",
     headlineHighlights: {
       red: "NATIVE AMERICANS",
-      gold: "BEFORE AMERICA EXISTED"
+      gold: "BEFORE THE UNITED STATES"
     },
     excerpt:
-      "Long before the United States existed, hundreds of Indigenous nations lived across North America with their own languages, governments, trade networks and ways of life.",
+      "Long before the United States existed, hundreds of Indigenous nations built communities, governments, trade networks and cultures across North America.",
     category: "History",
     date: "2026-09-15",
     lastUpdated: "2026-09-15",
