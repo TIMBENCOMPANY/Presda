@@ -582,6 +582,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
         <header className="relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px]">
           <Image
             src={article.coverImage}
+            unoptimized={article.slug === "phoenicians-history-sailors-alphabet-tyrian-purple"}
             alt={article.coverAlt}
             fill
             priority
