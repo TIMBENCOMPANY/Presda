@@ -54,6 +54,406 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "126",
+    "slug": "history-of-alcohol-beer-wine-spirits",
+    "title": "ALCOHOL: 10,000-YEAR HISTORY OF HUMANITY’S FAVORITE DRINK",
+    "seoTitle": "History of Alcohol: From Ancient Beer to Modern Spirits",
+    "metaDescription": "Explore the history of alcohol, from prehistoric beer and ancient wine to distilled spirits, drinking culture and what alcohol does to the body.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "ALCOHOL",
+      "gold": "10,000-YEAR HISTORY"
+    },
+    "excerpt": "From prehistoric fermentation to the modern bar, the global story of beer, wine and spirits, their cultural power and their effects on the human body.",
+    "category": "Lifestyle",
+    "date": "2026-09-22",
+    "lastUpdated": "2026-09-22",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/alcohol-humanity-favorite-drink-beer-wine-history.png",
+    "coverAlt": "Editorial montage of ancient brewing, Egyptian and Mediterranean wine culture, a distillation vessel and a modern beer drinker",
+    "homepageImagePosition": "50% 50%",
+    "content": [
+      "A clay vessel can outlive the drink it once held by thousands of years. The liquid disappears, the people who shared it leave no names, and the celebration ends. Yet traces absorbed into pottery can survive, allowing archaeologists to ask a remarkably intimate question: what were people drinking before written history began?",
+      "The history of alcohol has no known inventor and no single starting date. Evidence ranges from a mixed fermented drink in Neolithic China to early grape wine in the Caucasus and an interpretation of brewing remains older still. What follows is a history of discoveries, technologies and social choices, not a straight line from one civilization to every other. [Stanford: Evidence for brewing at Raqefet Cave](https://news.stanford.edu/stories/2018/09/crafting-beer-lead-cereal-cultivation) [Penn Museum: Fermented beverages of prehistoric China](https://www.penn.museum/research/project.php?pid=12) [McGovern and colleagues, PNAS: Early Neolithic wine of Georgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC5715782/)",
+      "The title’s 10,000 years is a broad frame, not a proven birthday. Nor does humanity’s favorite drink mean that everyone drinks, or that alcohol outranks water, tea or coffee by a measured global total. Abstinence belongs to this story too. Alcohol has accompanied hospitality and celebration, but also coercion, dependence, illness and political conflict.",
+      "The supplied hero is an imaginative editorial montage of brewing, wine, distillation and modern drinking across different periods. It is not a reconstruction of one historical scene.",
+      "## WHO INVENTED ALCOHOL?",
+      "No identifiable person invented alcoholic drinks. Fermentation is a biological process: yeasts convert suitable sugars into ethanol and carbon dioxide. Humans learned to encourage a transformation that can also occur without them. A forgotten container of fruit or a stored mixture might have suggested the possibility, but no archaeological discovery identifies the first accidental sip. Plausible scenarios are not recorded events. [Institut Pasteur: Fermentation research, 1847–1862](https://www.pasteur.fr/en/about-us/early-years-1847-1862) [National Cancer Institute: Alcohol and cancer risk](https://www.cancer.gov/about-cancer/causes-prevention/risk/alcohol/alcohol-fact-sheet)",
+      "It also matters what counts as alcohol. Beer depends on making grain starch available as fermentable sugars; grape wine begins with sugar-rich fruit; mixed drinks can combine grain, honey and fruit. These are different traditions, not interchangeable names for one original recipe.",
+      "### Raqefet Cave: brewing before farming?",
+      "In 2018, researchers reported evidence interpreted as beer production in stone mortars at Raqefet Cave near Haifa, associated with Natufian hunter-gatherers roughly 13,000 years ago. Their analysis combined microscopic plant residues with experimental work, proposing that brewing served funerary feasting. This is evidence for a particular interpretation of processing traces, not a preserved tankard or proof that every Natufian community brewed. [Stanford: Evidence for brewing at Raqefet Cave](https://news.stanford.edu/stories/2018/09/crafting-beer-lead-cereal-cultivation)",
+      "### Jiahu: rice, honey and fruit",
+      "At Jiahu in Henan, China, chemical analysis of pottery dated approximately 7000–6600 BCE identified evidence consistent with a fermented mixture of rice, honey and fruit, including hawthorn and/or grape. Calling it simply the world’s first beer erases what makes it interesting: it crossed categories that modern drink labels keep separate. The find documents an early beverage, not the moment fermentation was invented. [Penn Museum: Fermented beverages of prehistoric China](https://www.penn.museum/research/project.php?pid=12)",
+      "### Georgia: an early history of wine",
+      "Research published in PNAS in 2017 presented chemical and archaeological evidence for grape wine at Georgian Neolithic sites, including Gadachrili Gora and Shulaveris Gora, around 6000–5800 BCE. The argument draws on residues and their archaeological setting. It supports very early winemaking in the South Caucasus; it does not establish the first fermented fruit humans ever consumed. [McGovern and colleagues, PNAS: Early Neolithic wine of Georgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC5715782/)",
+      "These discoveries resist a tidy league table. A stone mortar, an absorbed chemical residue and a written brewing account preserve different things. The oldest surviving evidence is always a minimum age for a practice, not necessarily its origin.",
+      "## DID PEOPLE DRINK BEER BEFORE THEY BAKED BREAD?",
+      "The beer-before-bread hypothesis asks whether demand for communal feasts and fermented drinks helped motivate intensive cereal use and, eventually, cultivation. Raqefet makes pre-agricultural brewing a serious topic rather than a joke about prehistoric thirst. It does not demonstrate that beer caused farming. [Stanford: Evidence for brewing at Raqefet Cave](https://news.stanford.edu/stories/2018/09/crafting-beer-lead-cereal-cultivation)",
+      "There is an important complication. A separate 2018 PNAS study identified bread-like remains at Shubayqa 1 in northeastern Jordan from around 14,400 years ago. Those remains are older than the proposed Raqefet brewing evidence. They show that complex cereal preparation also belonged to hunter-gatherer life. [Arranz-Otaegui and colleagues, PNAS: Bread 14,400 years ago](https://discovery.ucl.ac.uk/10052964/1/Arranz-Otaeguia_7925.full.pdf)",
+      "The responsible answer is therefore not a triumphant yes or an absolute no. Bread and brewing developed within wider experiments with plants, heat, storage and collective meals. Different foods could encourage the same skills. Archaeology cannot yet reconstruct a universal sequence, and an earlier discovery tomorrow could change the surviving chronology without revealing the original invention.",
+      "## SUMER: WHEN BEER ENTERED THE WRITTEN RECORD",
+      "By the time cities flourished in southern Mesopotamia, beer was sufficiently important to leave administrative records. A British Museum tablet records brewing and allocations of barley. It is a reminder that drink belonged to the managed economy: someone tracked the grain that went in, rather than leaving every batch to household memory. [British Museum: Beer-brewing account tablet](https://www.britishmuseum.org/collection/object/W_1896-0406-8)",
+      "The Sumerian Hymn to Ninkasi provides another kind of evidence. Addressing the goddess of brewing, it describes grain, malt, vessels and the handling of beer. The Oxford translation preserves damaged passages and uncertain readings. It should be read as a religious poem with technical details, not an unambiguous modern recipe that can establish the strength or taste of all Sumerian beer. [Oxford ETCSL: A hymn to Ninkasi](https://etcsl.orinst.ox.ac.uk/section4/tr4231.htm)",
+      "Together, account and hymn reveal an extraordinary pairing. The same drink could be counted by an administrator and celebrated through divine language. For the larger setting of temples, scribes and urban economies, see [how the Sumerians built the first great cities](/articles/sumerians-first-cities-cuneiform-civilization/).",
+      "## EGYPT: BEER FOR DAILY LIFE, WINE FOR MORE THAN KINGS",
+      "Ancient Egyptian beer belonged to food provision, work and religious celebration. It was not simply a modern lager served beside a pyramid. British Museum research and experimental reconstruction show a brewing tradition with ingredients and processes that differed from familiar industrial beer. Its place in rations also warns against treating every historical alcoholic drink primarily as a leisure purchase. [British Museum: Ancient Egyptian beer](https://www.britishmuseum.org/blog/sip-history-ancient-egyptian-beer)",
+      "Wine had its own Egyptian history. Tomb imagery records grape gathering and wine production, including the labor behind the finished vessel. The Met’s facsimiles of wine-making scenes make that agricultural work visible. Egyptian drinking culture cannot be reduced to beer alone, or to a claim that wine suddenly arrived with the Greeks. [The Met: Egyptian wine-making scenes and love poetry](https://www.metmuseum.org/-/media/files/about-the-met/curatorial-departments/egyptian/facsimiles/2015-16_lovepoetry_web.pdf?sc_lang=en)",
+      "Here, as elsewhere, surviving elite images are selective. They tell us what patrons chose to display, not the exact consumption of every household. The relationship between farming, institutions and belief is explored further in [PRESDA’s history of ancient Egypt](/articles/ancient-egypt-pharaohs-nile-3000-years-history/).",
+      "## GREECE AND ROME: THE CUP, THE VINEYARD AND THE EMPIRE",
+      "### The Greek symposium",
+      "In the Greek symposium, wine became part of a highly structured social gathering. Adult male citizens drank, talked and listened to entertainment within a setting shaped by hierarchy and exclusion. This was not a public festival open equally to everyone. Dionysus connected wine with divine power, altered states and the unsettling loosening of ordinary restraints. [The Met: Greek Art, including the symposium](https://resources.metmuseum.org/resources/metpublications/pdf/Greek_Art_From_Prehistoric_to_Classical.pdf)",
+      "The mixing vessel tells its own story. A krater held wine diluted with water before serving, as the Met explains through a surviving example attributed to Lydos. Equipment made expectations tangible: how the drink was shared was part of how the gathering was governed. That combination of sociability and status belongs within the wider world of [ancient Greek society](/articles/ancient-greece-civilization-history/). [The Met: Wine-mixing krater attributed to Lydos](https://www.metmuseum.org/art/collection/search/253349)",
+      "### Rome’s working wine landscape",
+      "Roman wine history is visible in farms as well as banquets. At Villa Regina near Boscoreale, the archaeological remains include a wine cellar with large storage jars. Nearby Oplontis preserves evidence of commercial activity involving agricultural products, particularly wine and oil. These places bring the subject down from painted feasts to production, storage and business. [Pompeii Archaeological Park: Boscoreale and Villa Regina](https://pompeiisites.org/en/boscoreale/) [Pompeii Archaeological Park: Oplontis](https://pompeiisites.org/en/oplontis/)",
+      "Vineyards, containers and merchants helped make wine part of a connected Mediterranean economy. Earlier seaborne exchange, including [Phoenician maritime networks](/articles/phoenicians-history-sailors-alphabet-tyrian-purple/), had already carried goods and practices between coastal communities. Rome expanded within an existing world of wine rather than inventing it.",
+      "## A GLOBAL HISTORY, NOT JUST A EUROPEAN ONE",
+      "Following wine from Greece to Rome and then to France leaves out much of the story. People worked with the plants available to them, and similar chemical transformations could support very different tastes and institutions.",
+      "Chinese brewing evidence extends beyond Jiahu’s mixed drink. Research discussed by Stanford identified a roughly 5,000-year-old beer tradition using ingredients including millet and barley. Ancient brewing did not have to conform to the modern European assumption that beer means a narrowly defined barley-and-hops product. [Stanford: A 5,000-year-old Chinese beer recipe](https://news.stanford.edu/stories/2017/02/recreate-5000-year-old-chinese-beer-recipe)",
+      "Japan’s sake-making traditions use koji mold in processing grains. UNESCO’s 2024 inscription recognizes the knowledge and skills surrounding this practice, including its social transmission. That recognition concerns living cultural heritage, not a declaration that alcohol is healthy or that present techniques have remained unchanged since prehistory. [UNESCO: Traditional sake-making with koji mold in Japan](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977)",
+      "In the Andes, Inca keros, or drinking beakers, were used for maize-beer libations. The Met explains how paired vessels and toasts helped maintain relationships with other people, ancestors and sacred places. Chicha was therefore more than a beverage accompanying politics or religion: sharing it could be one of the acts through which those relationships were expressed. [The Met: Inca kero and chicha libations](https://www.metmuseum.org/art/collection/search/313267)",
+      "In Mesoamerica, pulque developed from agave sap. A scientific review discusses chemical evidence from Teotihuacan pottery associated with this fermented beverage. Pulque should not be confused with distilled agave spirits: fermentation and distillation are different processes with different histories. [Escalante and colleagues: Pulque, historical and microbiological research](https://pmc.ncbi.nlm.nih.gov/articles/PMC4928461/)",
+      "African traditions also resist being reduced to imported European beer. UNESCO documentation from The Gambia describes palm wine’s place in food, drink and ritual, alongside concerns about passing on specialist knowledge. It is evidence of a living practice, not a basis for assigning one ancient origin date to all African fermentation. [UNESCO: Palm wine tapping in The Gambia](https://ich.unesco.org/en/assistances/palm-wine-tapping-02379)",
+      "## MEDIEVAL EUROPE: HOUSEHOLDS, MONASTERIES AND MARKETS",
+      "Medieval brewing developed through overlapping domestic, religious and commercial settings. Monasteries became important organized producers, while towns supported brewing for sale. The University of Chicago Library’s historical exhibition describes both monastic production and the expansion of commercial breweries. It also explains gruit, a mixture of flavoring herbs, and the growing importance of hops, which contributed to preservation as well as taste. [University of Chicago Library: Brewing houses and breweries](https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/pre-industrial-history-beer-and-brewing/brewing-house-and-breweries/)",
+      "Ale and beer were not labels with identical meanings in every place and century. The familiar historical English contrast between unhopped ale and hopped beer reflects a particular development, not a universal classification of all earlier grain drinks. Likewise, the presence of a monastery does not mean monks invented brewing: its evidence reaches far further back.",
+      "Wine continued through vineyards, estates, trade and religious use. Medieval church institutions helped sustain wine production, but so did secular growers and merchants. Later regional reputations grew from this interaction of landholding, markets and accumulated expertise rather than from one miraculous monastic discovery. [European Review: Wine and France, a brief history](https://www.cambridge.org/core/journals/european-review/article/wine-and-france-a-brief-history/7CB9F6C094C3833A05FE519132BBF551)",
+      "This was still mainly a world of fermented beverages. Another technology would change the relationship between the size of a cup and the quantity of alcohol it contained.",
+      "## HOW DISTILLATION CHANGED DRINKING",
+      "Fermentation produces ethanol. Distillation separates and concentrates components already present in a liquid by exploiting differences in volatility, collecting vapor and condensing it. It does not create alcohol from nothing. Applied to a fermented drink, it can produce a much more concentrated spirit than fermentation alone normally yields. This is the conceptual difference between wine and brandy, or a fermented grain drink and a grain spirit. [The Met: Alembics and the evidence for distillation](https://www.metmuseum.org/perspectives/alembics)",
+      "The machinery has a history beyond drinking. Alembics served work involving medicines, perfumes and other substances. The Met’s examples from medieval Nishapur in Iran show why an excavated distillation vessel is not automatically evidence of a spirits bar. Identifying equipment and identifying everything once made in it are separate questions. [The Met: Alembics and the evidence for distillation](https://www.metmuseum.org/perspectives/alembics)",
+      "### Islamic scholarship and a complicated social reality",
+      "Arabic- and Persian-language scholarship formed an important part of the development and transmission of distillation knowledge. Latin medical traditions, including work associated with Salerno in the twelfth century, drew on this wider exchange. The later spread of spirits involved further changes in apparatus, commercial demand and practice. A single-inventor story compresses centuries of experimentation into a misleading anecdote. [European Review: Wine and France, a brief history](https://www.cambridge.org/core/journals/european-review/article/wine-and-france-a-brief-history/7CB9F6C094C3833A05FE519132BBF551)",
+      "Religious prohibition did not make the history of alcohol in Islamic societies simple. Historian Rudi Matthee examines the distance between formal restrictions and social practice, including ambivalent attitudes toward drink. The existence of wine production or courtly drinking does not mean prohibition was unimportant; prohibition likewise does not establish that nobody produced, traded or consumed alcohol. Practices varied across periods and communities. [Rudi Matthee: Alcohol in the Islamic Middle East, ambivalence and ambiguity](https://academic.oup.com/past/article-abstract/222/suppl_9/100/1537890)",
+      "### From specialized preparations to commercial spirits",
+      "Distilled alcohol circulated in medical and technical settings before large commercial markets for spirits developed. European wine-distilling traditions helped establish brandy and other eaux-de-vie. As trade expanded, a concentrated product could travel through different markets from the wine used to make it. The chronology is regional and uneven, not one moment when the whole world switched from beer to liquor. [European Review: Wine and France, a brief history](https://www.cambridge.org/core/journals/european-review/article/wine-and-france-a-brief-history/7CB9F6C094C3833A05FE519132BBF551)",
+      "## WHISKY, VODKA, GIN AND RUM: DIFFERENT ROUTES TO THE MODERN BAR",
+      "Scotland’s exchequer records contain a famous reference to whisky production in 1494. It is an archival landmark, not a birth certificate proving that nobody distilled grain earlier. The history of whisky includes regional traditions, later commercial organization and changing regulation; a surviving record establishes what was documented, not an exclusive claim to invention. [National Records of Scotland: Exchequer records and whisky in 1494](https://www.nrscotland.gov.uk/learning-and-events/research-guides/exchequer-records/)",
+      "Vodka illustrates how a drink becomes entangled with national history. The Vodka Museum’s Polish exhibition follows changing production, industrial development and state involvement, including the State Alcohol Monopoly. It is more useful to examine such institutions than to imagine that one named inventor created the entire later category. [Vodka Museum: Main historical exhibition](https://muzeumwodki.pl/en/main-exhibition/)",
+      "Gin’s English expansion shows how policy could transform consumption. London Museum traces the eighteenth-century Gin Craze through cheap supply, taxes, availability and attempts at control. Hogarth’s Gin Lane, published in 1751, belongs to that conflict. Its nightmare streets were a persuasive image, not a neutral survey of every London household. The episode combined real harm with judgments about poverty, gender and public order. [London Museum: The eighteenth-century Gin Craze](https://www.londonmuseum.org.uk/collections/london-stories/gin-craze-ruin-1700s-london/)",
+      "Rum followed another route. Caribbean sugar production generated materials that could be fermented and distilled, making the spirit part of a plantation economy. Its history cannot be separated from the people compelled to work within that system. [Smithsonian National Museum of American History: Rum](https://americanhistory.si.edu/explore/exhibitions/on-the-water/online/living-atlantic-world/new-tastes-new-trades/rum)",
+      "These traditions did not replace the world’s fermented drinks. Wine, beer, sake, chicha and other beverages continued alongside increasingly varied spirits. A modern drinks shelf hides histories that developed through different crops, technologies, laws and distributions of power.",
+      "## RUM, SUGAR AND THE ATLANTIC ECONOMY",
+      "The Smithsonian places rum within the maritime trade in sugar and its by-products. Distilling gave commercial value to materials associated with sugar manufacture, while ships linked plantation regions with consumers and other producers. This was not simply an adventurous story of barrels crossing blue water. Enslaved labor underpinned the plantation system from which those profits emerged. [Smithsonian National Museum of American History: Rum](https://americanhistory.si.edu/explore/exhibitions/on-the-water/online/living-atlantic-world/new-tastes-new-trades/rum)",
+      "Rum also entered military supply and Atlantic trading networks. Naval history records its long association with sailors and the Royal Navy’s ending of its daily rum ration on 31 July 1970. The familiar romance of the sailor’s cup sits beside a history of imperial provisioning and coercive labor. [US Naval Institute: Rum, the spirit of the sea](https://www.usni.org/magazines/naval-history-magazine/2017/april/rum-spirit-sea)",
+      "Not every Atlantic journey formed the same neat triangle, and not every barrel followed an identical route. The larger connection remains: European consumption and maritime wealth were tied to plantation production and enslavement. [The history of slavery](/articles/history-of-slavery/) explains that system beyond any single commodity. A complete history of alcohol must include those who produced it without sharing equally in its rewards.",
+      "## TAVERNS, PUBS AND THE SOCIAL ROOM",
+      "Drink also shaped places where people met. Inns, taverns and public houses combined commerce with forms of sociability that changed across time. Historic England’s work on pubs treats these buildings and their interiors as part of social heritage: the room, its divisions and its relationship to the street mattered alongside what was sold. [Historic England: England’s historic pubs](https://historicengland.org.uk/advice/caring-for-heritage/englands-historic-pubs/)",
+      "A useful way to understand a drinking place is as an arrangement of permissions. Who could enter? Who served? Who had privacy? Who was judged for being there? The answers reveal why a public house could mean companionship to one person and exclusion or danger to another. There was never one universal drinking culture shared equally by all its participants.",
+      "Alcohol did not have a monopoly on public conversation. [Coffee’s history](/articles/real-history-of-coffee/) offers a related story of a beverage organizing social life around particular rooms, routines and commercial relationships.",
+      "## INDUSTRIALIZATION: MAKING THE SAME DRINK AGAIN AND AGAIN",
+      "For much of history, people could brew successfully without understanding the organisms doing the work. In the nineteenth century, that changed. Pasteur’s research on fermentation helped establish the role of living microorganisms, bringing laboratory explanation to a process that makers had long managed through experience. [Institut Pasteur: Fermentation research, 1847–1862](https://www.pasteur.fr/en/about-us/early-years-1847-1862)",
+      "His subsequent investigations of wine and beer spoilage connected microbial activity with practical problems of preservation. This did not mean that a scientist invented drinkable beer. It meant producers gained new ways to explain why one batch kept and another deteriorated. [Institut Pasteur: Wine, beer and preservation, 1862–1877](https://www.pasteur.fr/en/about-us/middle-years-1862-1877)",
+      "Industrial equipment, scientific control and expanded distribution altered the scale of brewing. The University of Chicago’s brewing-technology exhibition situates the industry within the Industrial Revolution. Production increasingly required investment in plant and systems capable of reproducing a recognizable product for distant customers. [University of Chicago Library: Brewing technology](https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/)",
+      "The commercial consequence was profound. A drink could be sold not only as a local maker’s output, but as a repeatable brand. That shift helped prepare the ground for modern brewing, wine and spirits companies, whose reach depends on distribution and consumer recognition as well as production itself.",
+      "## TEMPERANCE AND PROHIBITION: WHY SOCIETIES TRIED TO STOP",
+      "The growth of alcohol markets also intensified opposition. Temperance was not one uniform campaign: moderation, abstinence and legal prohibition were different positions. Religious conviction, household insecurity and social reform could overlap. The National Park Service documents how the Woman’s Christian Temperance Union connected restrictions on alcohol with women’s political rights and protection of the home. Reducing the movement to humorless moralism misses those concerns. [National Park Service: Women, temperance and suffrage](https://www.nps.gov/media/video/view.htm?id=574EB5F5-C6CE-E73C-A685DEB07300BCF0)",
+      "In the United States, national Prohibition took effect in 1920 under the Eighteenth Amendment and the implementing Volstead Act. Its central prohibitions concerned manufacture, sale and transportation of intoxicating liquor, not a simple constitutional declaration that every act of drinking was itself illegal. The legal details and exceptions mattered to how the system operated. [US National Archives: The Volstead Act](https://www.archives.gov/education/lessons/volstead-act)",
+      "Bootlegging and illegal markets provided opportunities for organized crime, alongside enforcement problems and corruption. Yet Prohibition did not invent criminal organizations or explain every feature of their rise. PRESDA’s [history of the Mafia](/articles/mafia-history-organized-crime-empire/) follows that broader story. The National Archives’ records show a country divided over how far government should control a widely practiced behavior. [US National Archives: Spirited Republic](https://www.archives.gov/publications/prologue/2014/winter/spirited-republic)",
+      "Repeal came through the Twenty-first Amendment in December 1933, amid changing political support, enforcement disillusionment and economic pressures. It ended national constitutional Prohibition, not all alcohol regulation. Arguments about taxation, licensing, access and public harm continued after the celebrated return of legal sales. [US National Archives: The repeal of Prohibition](https://unwritten-record.blogs.archives.gov/2015/03/23/a-spirited-republic-in-motion-prohibition-is-repealed/)",
+      "## THE GLOBAL ALCOHOL INDUSTRY TODAY",
+      "Modern alcohol is simultaneously agriculture, manufacturing, hospitality and branding. Breweries, wineries and spirits producers operate through local businesses and international networks. The commercial story is not a permanent upward curve: weather, purchasing power, trade barriers and changing preferences can all affect demand and supply.",
+      "The OIV’s May 2026 report estimates world wine consumption at 208 million hectolitres in 2025, down 2.7% from 2024. That is an estimate for wine, not all alcohol. The report links the market’s adjustment to softer demand, climatic variability and trade uncertainty. It provides a better picture than an undated claim that the entire alcohol industry is endlessly booming. [OIV: State of the World Wine Sector in 2025, May 2026](https://www.oiv.int/sites/default/files/2026-05/OIV-State_of_the_World_Wine_Sector_in_2025_0.pdf)",
+      "Advertising adds another layer. WHO’s 2022 report describes cross-border marketing through digital channels, sponsorship and links with sport and cultural activities. A bottle can be sold through ideas of status, relaxation, nightlife or belonging, not only through its flavor. Those messages travel across borders more easily than many national regulatory systems do. [WHO: Cross-border alcohol marketing, 2022 report](https://www.who.int/publications/i/item/9789240046504)",
+      "This makes modern drinking culture both familiar and different. The promise of sharing an occasion is old. The ability to market that promise continuously, across platforms and countries, is a newer commercial power.",
+      "## WHY DO HUMANS DRINK?",
+      "### Reward, relief and reduced inhibition",
+      "Alcohol changes neural systems involved in reward, stress and self-control. Some people seek pleasurable effects; others seek temporary relief from distress, or both. Repetition can teach the brain to attach strong significance to alcohol and the situations associated with it. Those mechanisms help explain motivation, but they do not mean that everyone who drinks follows the same path. [NIAAA: Neuroscience, addiction and recovery](https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/neuroscience-brain-addiction-and-recovery)",
+      "Reduced inhibition can feel like confidence while judgment and coordination are becoming less reliable. Feeling more comfortable is not the same as performing better. Alcohol’s effects on communication within the brain help explain why the emotional experience and the practical consequences can diverge. [NIAAA: Alcohol and the brain](https://www.niaaa.nih.gov/publications/alcohol-and-brain-overview)",
+      "### The company matters",
+      "A 2012 experimental study by Michael Sayette and colleagues examined people meeting in small groups. Alcohol affected positive emotional expression and measures of social bonding in that setting. This is evidence about a controlled interaction, not proof that alcohol is necessary for friendship or that it improves every relationship. [Sayette and colleagues: Alcohol, emotion and social bonding](https://pubmed.ncbi.nlm.nih.gov/22760882/)",
+      "Culture adds expectations: when a toast is offered, what refusal means, which occasions are associated with drinking, and whether abstinence is ordinary or stigmatized. Biology alone cannot explain those rules. Nor can culture cancel ethanol’s pharmacological effects. The experience emerges from both, alongside personality, circumstances and previous experience.",
+      "Individual responses also differ. Genetic variation in alcohol-metabolizing enzymes can change how acetaldehyde is processed; environment and other biological factors matter too. The same-looking drink does not guarantee an identical experience or risk for two people. [NIAAA: Alcohol metabolism](https://www.niaaa.nih.gov/publications/alcohol-metabolism)",
+      "## WHAT ALCOHOL ACTUALLY DOES TO THE BODY",
+      "### Absorption and blood alcohol concentration",
+      "Alcohol passes from the stomach and intestines into the bloodstream. Blood alcohol concentration, or BAC, describes its concentration in blood. When absorption outpaces the body’s processing, that concentration rises. The liver can deal with only a limited amount at a time, so continued drinking can add alcohol faster than it is removed. A person’s appearance is not a dependable BAC measurement. [NHS Northern Care Alliance: Alcohol and the liver](https://www.northerncarealliance.nhs.uk/patient-information/patient-leaflets/gastroenterology-alcohol-what-you-need-know) [NIAAA: The truth about holiday spirits](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/truth-about-holiday-spirits)",
+      "### The liver’s chemical work",
+      "Most ethanol is metabolized in the liver. Alcohol dehydrogenase converts it to acetaldehyde, a toxic substance, and aldehyde dehydrogenase helps convert acetaldehyde to acetate. Further processing occurs in the body. This pathway is not a switch that coffee, determination or a cold shower can flip into instant sobriety. [NIAAA: Alcohol metabolism](https://www.niaaa.nih.gov/publications/alcohol-metabolism)",
+      "### Intoxication, memory and danger",
+      "Alcohol disrupts brain processes involved in decision-making, movement and memory. A blackout is a failure to form memories of events during intoxication, not simply another word for falling asleep. At dangerous levels, alcohol can interfere with basic functions and lead to poisoning. These are acute risks, distinct from damage accumulated over years. [NIAAA: Alcohol and the brain](https://www.niaaa.nih.gov/publications/alcohol-and-brain-overview) [NHS: Alcohol poisoning](https://www.nhs.uk/conditions/alcohol-poisoning/)",
+      "### Why hangovers are more than dehydration",
+      "Hangovers can involve disrupted sleep, gastrointestinal irritation, inflammation and mild dehydration, among other factors. There is no single explanation that covers every symptom. Symptoms commonly become prominent as BAC returns toward zero, which helps explain why a person can feel miserable after the obvious intoxication has passed. There is no established quick cure that reverses the whole process. [NIAAA: Hangovers](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers)",
+      "### Tolerance and dependence",
+      "With repeated exposure, a person may need more alcohol to experience effects previously produced by less. That is tolerance, not immunity. Adaptations involving reward and stress can contribute to a cycle in which drinking increasingly relieves withdrawal-related discomfort rather than simply providing pleasure. [NIAAA: Neuroscience, addiction and recovery](https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/neuroscience-brain-addiction-and-recovery)",
+      "Dependence can make abrupt withdrawal dangerous. Seizures and other severe symptoms can occur. Someone who may be dependent should seek medical advice about stopping safely, rather than treating sudden unsupported withdrawal as a test of willpower. Effective help exists, and needing it is not a moral failure. [NHS: Alcohol-use disorder and withdrawal](https://www.nhs.uk/conditions/alcohol-use-disorder/)",
+      "### Long-term risks",
+      "Repeated heavy drinking can harm the liver, cardiovascular system, pancreas and nervous system. Risks also depend on drinking pattern, health and other circumstances; the absence of visible drunkenness does not establish safety. NIAAA emphasizes that health risks can occur even at low levels of consumption. [NIAAA: Alcohol’s effects on the body](https://www.niaaa.nih.gov/alcohols-effects-health/alcohols-effects-body)",
+      "Alcoholic beverages cause cancer. The National Cancer Institute identifies risks involving several cancer sites, including the breast, liver and colorectum. Wine’s cultural prestige does not remove its ethanol, and red wine should not be presented as cancer prevention. [National Cancer Institute: Alcohol and cancer risk](https://www.cancer.gov/about-cancer/causes-prevention/risk/alcohol/alcohol-fact-sheet)",
+      "WHO’s June 2024 fact sheet attributes approximately 2.6 million deaths worldwide to alcohol consumption in 2019. This is a dated global estimate, not a count of deaths in the publication year or a prediction for an individual. Its scale underscores why a cultural history needs a health history alongside it. [WHO: Alcohol fact sheet, June 2024](https://www.who.int/news-room/fact-sheets/detail/alcohol)",
+      "If someone cannot be awakened, has slow or irregular breathing, or has a seizure after drinking, contact emergency services. Stay with them, do not induce vomiting, and place an unconscious person who is breathing in the recovery position while following emergency guidance. Do not assume they can simply sleep it off. [NHS: Alcohol poisoning](https://www.nhs.uk/conditions/alcohol-poisoning/)",
+      "## MYTH VS REALITY: ALCOHOL",
+      "### Coffee makes you sober",
+      "Caffeine may make someone feel more awake without restoring alcohol-impaired judgment or coordination. It does not rapidly remove alcohol from the bloodstream. Alertness and sobriety are different. [NIAAA: The truth about holiday spirits](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/truth-about-holiday-spirits)",
+      "### Mixing different drinks automatically makes intoxication worse",
+      "The total ethanol consumed and how quickly it is consumed matter more than a supposedly magical sequence of beer, wine and spirits. Beverage constituents can influence some hangover experiences, but changing categories does not create a unique form of intoxication. Mixing can still make it harder to keep track of the amount consumed. [NIAAA: Hangovers](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers)",
+      "### Alcohol warms the body",
+      "Alcohol can widen blood vessels near the skin, producing a sensation of warmth while increasing heat loss. It also interferes with temperature regulation. Feeling warmer can therefore accompany greater danger in a cold environment. [NIAAA: The truth about holiday spirits](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/truth-about-holiday-spirits)",
+      "### Wine is inherently healthy, and beer is much safer than spirits",
+      "No alcoholic category escapes ethanol-related harm. Concentration and serving size affect how much ethanol a drink delivers; a lower-strength beverage is not automatically harmless. Red wine is not an established way to prevent cancer. Claims about a protective ingredient must not be substituted for evidence about drinking the whole beverage. [National Cancer Institute: Alcohol and cancer risk](https://www.cancer.gov/about-cancer/causes-prevention/risk/alcohol/alcohol-fact-sheet)",
+      "### Vomiting makes someone sober",
+      "Vomiting does not remove alcohol already absorbed into the blood. It can also create a choking danger in someone whose consciousness is impaired. Trying to make an intoxicated person vomit is not treatment. [NHS: Alcohol poisoning](https://www.nhs.uk/conditions/alcohol-poisoning/)",
+      "### Tolerance means you can build immunity",
+      "Looking less intoxicated does not make organs immune to injury or eliminate dependence risk. Tolerance can instead encourage greater consumption. It is a changed response to alcohol, not a protective shield. [NIAAA: Neuroscience, addiction and recovery](https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/neuroscience-brain-addiction-and-recovery) [NIAAA: Alcohol’s effects on the body](https://www.niaaa.nih.gov/alcohols-effects-health/alcohols-effects-body)",
+      "## ALCOHOL AND CIVILIZATION",
+      "The history returns, finally, to the people around the cup. A Sumerian hymn, a Greek mixing bowl and an Inca pair of beakers suggest that drinking could organize relationships as well as accompany them. Offerings, shared meals and ritual exchanges gave a chemical transformation social meaning. The same act might mark hospitality, authority, reconciliation or an obligation to participate.",
+      "Soldiers and sailors belonged to institutional drinking cultures too. The National Army Museum records alcohol within British military provisioning in the late eighteenth and early nineteenth centuries. Such rations were part of particular systems of supply and morale, not proof that alcohol improved military performance or that every army followed the same custom. [National Army Museum: Soldiers’ food and drink](https://www.nam.ac.uk/explore/army-marches-its-stomach)",
+      "Living traditions show that the social work of fermentation continues. UNESCO’s account of Namibia’s Oshituthi shomagongo festival describes marula-fruit drink preparation alongside storytelling, songs and the exchange of knowledge across generations. The beverage belongs to a larger event made through collective labor. [UNESCO: Oshituthi shomagongo, marula fruit festival](https://ich.unesco.org/en/RL/oshituthi-shomagongo-marula-fruit-festival-01089)",
+      "Yet a shared tradition does not require everyone to drink. Refusal can express faith, recovery, preference or care for health. A history that notices only celebration misses that freedom, just as one that notices only harm misses why alcoholic drinks acquired such enduring meanings.",
+      "Alcohol did not single-handedly create civilization. It moved through the institutions humans built: farms, temples, ships, households, laboratories, factories and governments. Following that movement reveals both ingenuity and exploitation, companionship and injury. The oldest vessels leave us no complete account of the people who held them. They do show how long humans have been turning the same biological process into very different ways of living."
+    ],
+    "source": {
+      "name": "Stanford: Evidence for brewing at Raqefet Cave",
+      "url": "https://news.stanford.edu/stories/2018/09/crafting-beer-lead-cereal-cultivation"
+    },
+    "references": [
+      {
+        "name": "Stanford: Evidence for brewing at Raqefet Cave",
+        "url": "https://news.stanford.edu/stories/2018/09/crafting-beer-lead-cereal-cultivation"
+      },
+      {
+        "name": "Penn Museum: Fermented beverages of prehistoric China",
+        "url": "https://www.penn.museum/research/project.php?pid=12"
+      },
+      {
+        "name": "McGovern and colleagues, PNAS: Early Neolithic wine of Georgia",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5715782/"
+      },
+      {
+        "name": "Arranz-Otaegui and colleagues, PNAS: Bread 14,400 years ago",
+        "url": "https://discovery.ucl.ac.uk/10052964/1/Arranz-Otaeguia_7925.full.pdf"
+      },
+      {
+        "name": "British Museum: Beer-brewing account tablet",
+        "url": "https://www.britishmuseum.org/collection/object/W_1896-0406-8"
+      },
+      {
+        "name": "Oxford ETCSL: A hymn to Ninkasi",
+        "url": "https://etcsl.orinst.ox.ac.uk/section4/tr4231.htm"
+      },
+      {
+        "name": "British Museum: Ancient Egyptian beer",
+        "url": "https://www.britishmuseum.org/blog/sip-history-ancient-egyptian-beer"
+      },
+      {
+        "name": "The Met: Egyptian wine-making scenes and love poetry",
+        "url": "https://www.metmuseum.org/-/media/files/about-the-met/curatorial-departments/egyptian/facsimiles/2015-16_lovepoetry_web.pdf?sc_lang=en"
+      },
+      {
+        "name": "The Met: Greek Art, including the symposium",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Greek_Art_From_Prehistoric_to_Classical.pdf"
+      },
+      {
+        "name": "The Met: Wine-mixing krater attributed to Lydos",
+        "url": "https://www.metmuseum.org/art/collection/search/253349"
+      },
+      {
+        "name": "Pompeii Archaeological Park: Boscoreale and Villa Regina",
+        "url": "https://pompeiisites.org/en/boscoreale/"
+      },
+      {
+        "name": "Pompeii Archaeological Park: Oplontis",
+        "url": "https://pompeiisites.org/en/oplontis/"
+      },
+      {
+        "name": "Stanford: A 5,000-year-old Chinese beer recipe",
+        "url": "https://news.stanford.edu/stories/2017/02/recreate-5000-year-old-chinese-beer-recipe"
+      },
+      {
+        "name": "UNESCO: Traditional sake-making with koji mold in Japan",
+        "url": "https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-of-sake-making-with-koji-mold-in-japan-01977"
+      },
+      {
+        "name": "The Met: Inca kero and chicha libations",
+        "url": "https://www.metmuseum.org/art/collection/search/313267"
+      },
+      {
+        "name": "Escalante and colleagues: Pulque, historical and microbiological research",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4928461/"
+      },
+      {
+        "name": "UNESCO: Palm wine tapping in The Gambia",
+        "url": "https://ich.unesco.org/en/assistances/palm-wine-tapping-02379"
+      },
+      {
+        "name": "University of Chicago Library: Brewing houses and breweries",
+        "url": "https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/pre-industrial-history-beer-and-brewing/brewing-house-and-breweries/"
+      },
+      {
+        "name": "European Review: Wine and France, a brief history",
+        "url": "https://www.cambridge.org/core/journals/european-review/article/wine-and-france-a-brief-history/7CB9F6C094C3833A05FE519132BBF551"
+      },
+      {
+        "name": "The Met: Alembics and the evidence for distillation",
+        "url": "https://www.metmuseum.org/perspectives/alembics"
+      },
+      {
+        "name": "Rudi Matthee: Alcohol in the Islamic Middle East, ambivalence and ambiguity",
+        "url": "https://academic.oup.com/past/article-abstract/222/suppl_9/100/1537890"
+      },
+      {
+        "name": "National Records of Scotland: Exchequer records and whisky in 1494",
+        "url": "https://www.nrscotland.gov.uk/learning-and-events/research-guides/exchequer-records/"
+      },
+      {
+        "name": "Vodka Museum: Main historical exhibition",
+        "url": "https://muzeumwodki.pl/en/main-exhibition/"
+      },
+      {
+        "name": "London Museum: The eighteenth-century Gin Craze",
+        "url": "https://www.londonmuseum.org.uk/collections/london-stories/gin-craze-ruin-1700s-london/"
+      },
+      {
+        "name": "Smithsonian National Museum of American History: Rum",
+        "url": "https://americanhistory.si.edu/explore/exhibitions/on-the-water/online/living-atlantic-world/new-tastes-new-trades/rum"
+      },
+      {
+        "name": "US Naval Institute: Rum, the spirit of the sea",
+        "url": "https://www.usni.org/magazines/naval-history-magazine/2017/april/rum-spirit-sea"
+      },
+      {
+        "name": "Historic England: England’s historic pubs",
+        "url": "https://historicengland.org.uk/advice/caring-for-heritage/englands-historic-pubs/"
+      },
+      {
+        "name": "Institut Pasteur: Fermentation research, 1847–1862",
+        "url": "https://www.pasteur.fr/en/about-us/early-years-1847-1862"
+      },
+      {
+        "name": "Institut Pasteur: Wine, beer and preservation, 1862–1877",
+        "url": "https://www.pasteur.fr/en/about-us/middle-years-1862-1877"
+      },
+      {
+        "name": "University of Chicago Library: Brewing technology",
+        "url": "https://www.lib.uchicago.edu/collex/exhibits/somethings-brewing/brewing-technology/"
+      },
+      {
+        "name": "National Park Service: Women, temperance and suffrage",
+        "url": "https://www.nps.gov/media/video/view.htm?id=574EB5F5-C6CE-E73C-A685DEB07300BCF0"
+      },
+      {
+        "name": "US National Archives: The Volstead Act",
+        "url": "https://www.archives.gov/education/lessons/volstead-act"
+      },
+      {
+        "name": "US National Archives: Spirited Republic",
+        "url": "https://www.archives.gov/publications/prologue/2014/winter/spirited-republic"
+      },
+      {
+        "name": "US National Archives: The repeal of Prohibition",
+        "url": "https://unwritten-record.blogs.archives.gov/2015/03/23/a-spirited-republic-in-motion-prohibition-is-repealed/"
+      },
+      {
+        "name": "OIV: State of the World Wine Sector in 2025, May 2026",
+        "url": "https://www.oiv.int/sites/default/files/2026-05/OIV-State_of_the_World_Wine_Sector_in_2025_0.pdf"
+      },
+      {
+        "name": "WHO: Cross-border alcohol marketing, 2022 report",
+        "url": "https://www.who.int/publications/i/item/9789240046504"
+      },
+      {
+        "name": "NIAAA: Neuroscience, addiction and recovery",
+        "url": "https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/neuroscience-brain-addiction-and-recovery"
+      },
+      {
+        "name": "Sayette and colleagues: Alcohol, emotion and social bonding",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22760882/"
+      },
+      {
+        "name": "NHS Northern Care Alliance: Alcohol and the liver",
+        "url": "https://www.northerncarealliance.nhs.uk/patient-information/patient-leaflets/gastroenterology-alcohol-what-you-need-know"
+      },
+      {
+        "name": "NIAAA: Alcohol metabolism",
+        "url": "https://www.niaaa.nih.gov/publications/alcohol-metabolism"
+      },
+      {
+        "name": "NIAAA: Alcohol and the brain",
+        "url": "https://www.niaaa.nih.gov/publications/alcohol-and-brain-overview"
+      },
+      {
+        "name": "NIAAA: Hangovers",
+        "url": "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers"
+      },
+      {
+        "name": "NHS: Alcohol-use disorder and withdrawal",
+        "url": "https://www.nhs.uk/conditions/alcohol-use-disorder/"
+      },
+      {
+        "name": "NIAAA: Alcohol’s effects on the body",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/alcohols-effects-body"
+      },
+      {
+        "name": "National Cancer Institute: Alcohol and cancer risk",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/alcohol/alcohol-fact-sheet"
+      },
+      {
+        "name": "WHO: Alcohol fact sheet, June 2024",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol"
+      },
+      {
+        "name": "NHS: Alcohol poisoning",
+        "url": "https://www.nhs.uk/conditions/alcohol-poisoning/"
+      },
+      {
+        "name": "NIAAA: The truth about holiday spirits",
+        "url": "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/truth-about-holiday-spirits"
+      },
+      {
+        "name": "National Army Museum: Soldiers’ food and drink",
+        "url": "https://www.nam.ac.uk/explore/army-marches-its-stomach"
+      },
+      {
+        "name": "UNESCO: Oshituthi shomagongo, marula fruit festival",
+        "url": "https://ich.unesco.org/en/RL/oshituthi-shomagongo-marula-fruit-festival-01089"
+      }
+    ],
+    "tags": [
+      "history of alcohol",
+      "who invented alcohol",
+      "oldest alcoholic drink",
+      "history of beer",
+      "history of wine",
+      "history of distillation",
+      "alcohol and civilization",
+      "fermentation",
+      "drinking culture"
+    ],
+    "faq": [
+      {
+        "question": "Who invented alcohol?",
+        "answer": "No single inventor is known. Fermentation occurs naturally, and communities learned to manage it in different places. Archaeological evidence documents early practices rather than the first-ever discovery."
+      },
+      {
+        "question": "What is the oldest known alcoholic drink?",
+        "answer": "It depends on the evidence and beverage category. Raqefet remains roughly 13,000 years old have been interpreted as brewing evidence. Jiahu pottery from about 7000–6600 BCE supports a mixed fermented drink, while Georgian evidence supports grape wine around 6000–5800 BCE."
+      },
+      {
+        "question": "Did people drink beer before they made bread?",
+        "answer": "That is not established. Bread-like remains at Shubayqa 1 are about 14,400 years old, older than the proposed Raqefet brewing evidence. The role of feasting and fermentation in early cultivation remains debated."
+      },
+      {
+        "question": "What is the difference between fermentation and distillation?",
+        "answer": "Fermentation uses microorganisms to produce ethanol from suitable sugars. Distillation separates and concentrates components of an existing liquid, allowing a fermented drink to become a stronger spirit."
+      },
+      {
+        "question": "Who invented distilled spirits?",
+        "answer": "There is no secure single-inventor answer. Distillation developed through multiple technical traditions, including work with medicines and perfumes. The production and widespread consumption of spirits followed a gradual, regionally varied history."
+      },
+      {
+        "question": "Why do humans drink alcohol?",
+        "answer": "Motivations include taste, reward, temporary relief, social expectations and ritual. These vary between people and cultures. Alcohol is not necessary for belonging or friendship, and its rewarding effects can coexist with significant harm."
+      },
+      {
+        "question": "Does coffee make you sober?",
+        "answer": "No. Feeling more awake does not reverse alcohol-impaired judgment or coordination. Coffee does not rapidly clear alcohol from the bloodstream."
+      },
+      {
+        "question": "Does alcohol tolerance protect you from harm?",
+        "answer": "No. Tolerance means a changed response to alcohol, not immunity. A person may appear less intoxicated while remaining at risk of injury, organ damage and dependence."
+      }
+    ],
+    "readingTime": "23 min read"
+  },
+  {
     "id": "125",
     "slug": "phoenicians-history-sailors-alphabet-tyrian-purple",
     "title": "PHOENICIANS: THE MASTER SAILORS WHO CONNECTED THE ANCIENT WORLD",
