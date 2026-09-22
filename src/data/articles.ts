@@ -54,6 +54,282 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "125",
+    "slug": "phoenicians-history-sailors-alphabet-tyrian-purple",
+    "title": "PHOENICIANS: THE MASTER SAILORS WHO CONNECTED THE ANCIENT WORLD",
+    "seoTitle": "Phoenicians: History, Sea Trade, Alphabet and Tyrian Purple",
+    "metaDescription": "Discover Phoenician history: Tyre and Sidon, Mediterranean trade, Tyrian purple, the alphabet and the evidence behind their most remarkable voyages.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "PHOENICIANS",
+      "gold": "MASTER SAILORS"
+    },
+    "excerpt": "From Levantine ports to distant shores, how independent cities spread goods, skills and letters, and what the evidence says about their greatest voyages.",
+    "category": "History",
+    "date": "2026-09-22",
+    "lastUpdated": "2026-09-22",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/phoenicians-tyrian-purple-sea-ships.png",
+    "coverAlt": "Imaginative reconstruction of a Phoenician harbour with sailing ships, merchants and purple textiles",
+    "homepageImagePosition": "50% 50%",
+    "content": [
+      "A shipwreck preserves a voyage that never reached its destination. Near Cartagena in Spain, archaeologists investigated a seventh-century BCE wreck at Bajo de la Campana, where a ship and its cargo had come to grief on a submerged reef. Here, far from the eastern Mediterranean, Phoenician commerce becomes something tangible: a journey, a load of goods and a dangerous stretch of water. [Institute of Nautical Archaeology: Bajo de la Campana shipwreck](https://nauticalarch.org/projects/bajo-de-la-campana-iron-age-shipwreck-excavation/)",
+      "The Phoenicians were the inhabitants of interconnected coastal cities in the Levant, especially Tyre, Sidon, Byblos and Arwad. During the first millennium BCE, their traders, craftspeople and settlers helped connect the Mediterranean through goods, skills, religious traditions and writing. They did not build one unified Phoenician empire. Their extraordinary reach emerged from cities that could cooperate, compete and answer to different rulers. [The Met: The Phoenicians, 1500–300 BCE](https://www.metmuseum.org/essays/the-phoenicians-1500-300-b-c)",
+      "Their history is more interesting than the familiar list of supposed inventions. The alphabet had earlier roots. Purple dye was not their exclusive discovery. Their voyages were remarkable without requiring a lost route to America. What they demonstrate is how people can change the world by making connections that others continue to use.",
+      "The hero illustration is an imaginative editorial reconstruction, not a documented view of a particular Phoenician harbour, ruler or ship.",
+      "## WHO WERE THE PHOENICIANS, AND WHERE DID THEY COME FROM?",
+      "Phoenician history grew out of the Canaanite societies of the eastern Mediterranean coast, principally in present-day Lebanon and adjoining coastal regions. It was not the sudden arrival of a wholly new population with a ready-made seafaring civilization. The transition from the Bronze Age into the Iron Age involved disruption across the region, but important local traditions endured. [British Museum: Phoenician cultural history](https://www.britishmuseum.org/collection/term/x14403)",
+      "The name itself needs care. Phoenician comes through Greek usage; its association with purple is familiar, but the label should not be mistaken for the name of a modern-style nation. People belonged to particular cities, dynasties, families and religious communities. Historian Josephine Quinn has challenged the tendency to project a single, settled ethnic identity backwards onto this varied evidence. Shared language and cultural practices mattered, but they did not erase local loyalties. [Josephine Quinn: National Origins and Phoenician Ethnicity](https://classicalstudies.org/national-origins-phoenician-ethnicity)",
+      "This distinction explains an apparent paradox. A map of Phoenician connections can stretch across the Mediterranean while a map of Phoenician political authority breaks into separate pieces. Neither map is wrong. They describe different kinds of power.",
+      "## TYRE, SIDON, BYBLOS AND ARWAD: A WORLD OF PORT CITIES",
+      "### Byblos: connections older than Phoenicia",
+      "Byblos, modern Jbeil, had a long urban history before the first-millennium networks usually called Phoenician. Its remains document successive societies, and its ties with Egypt place the coast inside an older international world. UNESCO also identifies the city with the history and diffusion of the Phoenician alphabet. Byblos reminds us that the Phoenicians inherited routes and institutions as well as extending them. [UNESCO: Byblos](https://whc.unesco.org/en/list/295/)",
+      "### Tyre: an island with a mainland lifeline",
+      "Tyre’s island position gave its harbour city a defensive advantage and a powerful maritime identity. Its links to western settlements made it particularly influential. But sea walls did not create self-sufficiency: an island city still needed food, water, labour and relationships with the mainland. Its later history would expose both the strength and vulnerability of that arrangement. [UNESCO: Tyre](https://whc.unesco.org/en/list/299/) [The Met: Phoenicia and the Bible](https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible)",
+      "### Sidon and Arwad: partners, rivals and independent actors",
+      "Sidon was another major commercial and political centre. Arwad, off the coast of modern Syria, was an island city with its own strategic position. Along with Byblos and Tyre, they pursued distinct interests. This was not a system in which a permanent capital issued orders to every port. Even when outside empires imposed obligations, local kings and civic institutions remained important. [Karen Radner: Tyre and the other Phoenician city-states](https://oracc.museum.upenn.edu/saao/aebp/Essentials/Countries/Phoenicians/index.html)",
+      "## HOW PHOENICIAN MARITIME TRADE WORKED",
+      "A successful voyage began before a sail was raised. Merchants needed access to goods, people able to move and store them, and arrangements with the communities at the other end. The ship was the visible part of a much larger undertaking.",
+      "Coastal cities exchanged manufactured luxuries and valuable raw materials while seeking essential imports. Timber from the Lebanon ranges was prized; metalwork, carved ivory and textiles travelled widely. Food supply was equally consequential. Political agreements with neighbouring territories could matter as much as the price of a prestigious object. Biblical accounts of Tyrian alliances preserve one perspective on these relationships, although they are literary and religious sources, not neutral commercial ledgers. [The Met: Phoenicia and the Bible](https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible)",
+      "The Mediterranean was not an empty space awaiting Phoenician enterprise. Cyprus, Egypt, the Aegean, North Africa and western communities already had resources, knowledge and trading interests. Phoenician networks expanded through these existing worlds. The Met’s Assyria to Iberia exhibition brings together objects that show how styles and materials crossed political boundaries during the early first millennium BCE. [The Met: Assyria to Iberia at the Dawn of the Classical Age](https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia)",
+      "Trade also depended on power. A merchant might face tribute demands, restrictions or intervention from an inland empire. Commercial reach did not mean freedom from politics. That tension, between mobility at sea and vulnerability on land, runs through the entire Phoenician story.",
+      "## SHIPS, NAVIGATION AND THE RISKS OF THE SEA",
+      "Phoenician shipping was not one standard vessel. Cargo carriers and fighting ships served different purposes, and construction changed over time. Archaeologists reconstruct this world from wrecks, anchors, representations and written accounts. Each type of evidence answers different questions: a carved ship may show how a vessel was imagined, while surviving timber can reveal how one was joined together. [Jeffrey P. Emanuel: Seafaring and Shipwreck Archaeology](https://www.ancientportsantiques.com/wp-content/uploads/Documents/ETUDESarchivees/Navires/Documents/Emanuel2019-PhoenicianShips.pdf)",
+      "Navigation combined practical knowledge of coastlines, winds, seasons and celestial orientation. It should not be imagined as modern chart-based navigation with a magnetic compass. Nor should we assume that every voyage kept land continuously in view. Woods Hole’s account of its 1999 field project identifies two eighth-century BCE Phoenician wrecks off the Levantine coast, part of the evidence that makes seafaring more than a story told by later admirers. [Jeffrey P. Emanuel: Seafaring and Shipwreck Archaeology](https://www.ancientportsantiques.com/wp-content/uploads/Documents/ETUDESarchivees/Navires/Documents/Emanuel2019-PhoenicianShips.pdf) [Woods Hole Oceanographic Institution: Ashkelon Phoenician wrecks](https://www.whoi.edu/sbl/printPage.do?aid=5018&litesiteid=2740)",
+      "Bajo de la Campana supplies the harsher side of the picture. The reef that ended one voyage also preserved evidence of the trading world around it. Wrecks are exceptional archaeological windows, but they are not a complete shipping register. We cannot turn a handful of discoveries into precise totals for all Phoenician ships or annual trade. [Institute of Nautical Archaeology: Bajo de la Campana shipwreck](https://nauticalarch.org/projects/bajo-de-la-campana-iron-age-shipwreck-excavation/)",
+      "## CEDAR, CRAFTSMANSHIP AND GLASS",
+      "The value of Phoenician commerce lay partly in the ability to make desirable things. Craft traditions drew on several neighbouring worlds. Egyptian imagery could appear in objects associated with Levantine workshops without making those objects Egyptian products.",
+      "Ivories recovered at Nimrud illustrate the problem and the richness of the evidence. The Met describes Phoenician-style carving through Egyptian-related imagery, elaborate openwork and glass inlay. Yet a style does not give us the maker’s passport. Craftspeople could move, patrons could request fashionable designs, and objects could arrive through exchange, tribute or seizure. The distinction between an object’s style, workshop and final resting place matters. [The Met: Phoenician-style ivory carving from Nimrud](https://www.metmuseum.org/art/collection/search/324329)",
+      "Glass deserves the same precision. Phoenician and later Levantine producers became renowned for glass objects, but glassmaking itself was much older. The Corning Museum of Glass traces its early development in Mesopotamia and Egypt. Giving Phoenician makers credit for skill and distribution does not require taking earlier achievements away from other societies. [Corning Museum of Glass: Origins of Glassmaking](https://whatson.cmog.org/exhibitions-galleries/origins-glassmaking)",
+      "## TYRIAN PURPLE: HOW A COLOUR BECAME POWER",
+      "The luxury began with marine snails. Dye production used substances from particular shellfish, processed through demanding practical knowledge. Obtaining the raw material, extracting and preparing it, and successfully colouring cloth required labour and expertise. The resulting colours were not all identical: species and processing conditions affected the outcome.",
+      "Archaeological chemistry helps replace picturesque legends with evidence. Research published in PLOS ONE in 2024 examined purple-dye production at Bronze Age Cape Kolonna on Aegina through finds, analysis and experimental work. That earlier Aegean context makes it impossible to credit the entire invention to Iron Age Tyre. Phoenician producers participated in a wider and older technological history. [Berger and colleagues: Bronze Age purple-dye production at Aegina, PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304340)",
+      "Tyre nevertheless became closely associated with the prestige of purple. Costly dyed textiles could advertise access to resources and specialist work, helping explain their attraction to elites and rulers. Later traditions of royal and imperial purple strengthened that association. UNESCO’s account of Tyre explicitly distinguishes the legend of the dye’s invention there from the city’s historical importance in its production. [UNESCO: Tyre](https://whc.unesco.org/en/list/299/)",
+      "A modern reader should be wary of a single universal price or a spectacular fixed number of snails per robe. Garment size, dye concentration, processing and historical period vary. The defensible point is the demanding production process and the cloth’s prestige, not an invented price tag.",
+      "## RELIGION AND DAILY LIFE BEHIND THE HARBOUR WALLS",
+      "Ports were communities, not simply departure points. The trade visible in museums depended on food production, fishing, weaving, pottery, construction, transport and household work. Royal monuments make some lives easier to recover than others. A king’s inscription is not a representative diary of everyone in his city.",
+      "The sarcophagus of Sidon’s Eshmunazar II gives an unusually direct example of how power, family and religion intersected. Its Phoenician inscription names his mother Amoashtart as queen and priestess and associates them with temple building. The coffin’s Egyptian form and its local-language text bring cultural exchange into the ruler’s own burial. This evidence establishes an influential royal woman; it does not establish equal rights for all women or let us reconstruct every household. [Louvre: Sarcophagus and inscription of Eshmunazar II](https://collections.louvre.fr/en/ark:/53355/cl010120357)",
+      "Worship was also locally rooted. Melqart was especially associated with Tyre, while Eshmun had an important healing cult at Sidon. Astarte was prominent in the religious landscape. Inscriptions from Cyprus show divine names and combinations of cults travelling with people. Borrowing and identification between gods should not be flattened into the idea that everyone worshipped exactly the same pantheon. [The Met: Phoenician Inscriptions of the Cesnola Collection](https://resources.metmuseum.org/resources/metpublications/pdf/The_Phoenician_Inscriptions_of_the_Cesnola_Collection_The_Metropolitan_Museum_Journal_v_11_1976.pdf)",
+      "Even a distant grave can recover an individual connection. A bilingual memorial in Athens, now in the British Museum, commemorates a Sidonian using Greek and Phoenician inscriptions that are not exact equivalents. It reveals a person remembered across linguistic worlds, rather than an anonymous arrow on a trade map. [British Museum: Bilingual gravestone of a Sidonian in Athens](https://www.britishmuseum.org/collection/object/G_1861-0726-1)",
+      "## SETTLEMENTS ACROSS THE MEDITERRANEAN",
+      "Commercial contact could lead to repeated visits, resident merchants and more substantial settlements. By the later eighth century BCE, Phoenician trading posts and colonies were distributed widely around the Mediterranean. These communities were not all founded at once or governed in the same way. Their development depended on local relationships as well as links with eastern ports. [British Museum: Phoenician cultural history](https://www.britishmuseum.org/collection/term/x14403)",
+      "The western story includes North Africa, islands such as Sicily and Sardinia, and the Iberian coast. It also extends beyond the Strait of Gibraltar. At Lixus in Morocco, the sequence of occupation includes Phoenician, Punic and later phases, according to the site description submitted to UNESCO’s tentative list. This is material evidence for an Atlantic-facing presence, not merely a tale about distant exploration. Lixus is a tentative-list site, which is distinct from inscription on the World Heritage List. [UNESCO tentative list: Lixus](https://whc.unesco.org/en/tentativelists/456/)",
+      "### Carthage: a Phoenician beginning, then its own history",
+      "Carthage developed from a settlement associated with Tyre on the coast of present-day Tunisia. Its traditional foundation date is 814 BCE, a date transmitted through later historical tradition rather than a surviving foundation certificate. It eventually became a major power with its own trajectory. [The Met: The Phoenicians, 1500–300 BCE](https://www.metmuseum.org/essays/the-phoenicians-1500-300-b-c)",
+      "That later history belongs in PRESDA’s dedicated account of [Carthage and its Mediterranean empire](/articles/carthage-hannibal-punic-wars-tunisia-history/). Here, its importance is the connection: a western community could inherit language and religious links from the eastern coast without remaining permanently subordinate to it.",
+      "## THE PHOENICIAN ALPHABET: WHAT THEY ACTUALLY CONTRIBUTED",
+      "### Alphabetic writing existed before the Phoenicians’ great expansion",
+      "The Phoenicians did not invent writing. Mesopotamian and Egyptian systems were already ancient. PRESDA’s [history of the Sumerians and cuneiform](/articles/sumerians-first-cities-cuneiform-civilization/) explains one much earlier development.",
+      "Early alphabetic inscriptions of the second millennium BCE, including evidence from Sinai and Egypt, show Egyptian signs adapted to represent sounds in a Semitic language. Dates and developmental relationships remain debated, but these experiments preceded the mature Phoenician script. [The Met: The Origins of the Alphabet](https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/alphabet)",
+      "### A compact consonantal script",
+      "Phoenician writing used 22 consonant letters and was normally written from right to left. Linguists often call this kind of system an abjad: consonants are represented while vowels are generally left to the reader’s knowledge of the language. Phoenician was a Northwest Semitic language, not an early form of Greek. [Zellig S. Harris: A Grammar of the Phoenician Language](https://nlp.stanford.edu/~manning/dissertations/A-Grammar-of-the-Phoenician-Language-Zellig-Harris.pdf) [Cambridge: Phoenician and Punic, The Ancient Languages of Syria-Palestine and Arabia](https://www.cambridge.org/core/books/abs/ancient-languages-of-syriapalestine-and-arabia/phoenician-and-punic/3E240DE5628D7E49123D13FB28EF08CD)",
+      "A small repertoire of signs was adaptable, but it did not automatically produce universal literacy. Learning to read still required instruction and opportunity. Claims that Phoenician merchants single-handedly made every ordinary person literate go far beyond the evidence.",
+      "### From Phoenician letters to Greek and later alphabets",
+      "Repeated contact helped writing cross linguistic boundaries. Greek users adapted Phoenician letter forms and order, assigning some signs to vowels in a way suited to Greek. Greek alphabets subsequently influenced Etruscan writing, from which the Latin alphabet developed. The history is one of successive adaptations, not the unchanged transfer of a finished modern system. [The Met: The Origins of the Alphabet](https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/alphabet)",
+      "Cambridge’s research on ancient writing stresses its social setting: scripts spread through contact between people and communities. That is a better explanation than imagining an alphabet packed into a crate and delivered to one grateful recipient. Letter forms can show inheritance; inscriptions help locate actual encounters. [University of Cambridge: Ancient writing and its social context](https://www.cam.ac.uk/research/news/easy-as-alep-bet-gimel-cambridge-research-explores-social-context-of-ancient-writing)",
+      "## EGYPT, ASSYRIA AND BABYLON: LIVING BESIDE GREATER POWERS",
+      "The relationship with Egypt long predated the great western expansion. Byblos’s connections belong to that earlier history, while Egyptian objects and imagery continued to matter on the coast. For the wider background, see [ancient Egypt and its changing world](/articles/ancient-egypt-pharaohs-nile-3000-years-history/). [UNESCO: Byblos](https://whc.unesco.org/en/list/295/)",
+      "Assyrian expansion made the political cost of commerce particularly clear. Karen Radner’s study uses correspondence and treaties to show Assyrian monitoring of trade and control over timber access. A treaty with Baal of Tyre gave an Assyrian representative a place in Tyrian decision-making. A port could remain commercially valuable while losing freedom over its own affairs. [Karen Radner: Tyre and the other Phoenician city-states](https://oracc.museum.upenn.edu/saao/aebp/Essentials/Countries/Phoenicians/index.html)",
+      "This is the coastal counterpart to the institutions described in PRESDA’s [Assyrian Empire history](/articles/assyrian-empire-war-machine-rise-fall/). Conquest was not only an army arriving outside a wall. It could become a tax, an official, a restricted shipment or an obligation enforced inside a city.",
+      "After Assyria’s collapse, Babylonian power reshaped the region. Nebuchadnezzar II’s pressure on Tyre belongs to this early sixth-century BCE setting, but the familiar claim of an exactly 13-year siege is less secure than many summaries suggest. A recent study in the Journal of Ancient History re-examines Josephus’s manuscript tradition and the difficulties of synchronizing the accounts. The episode should be discussed with those uncertainties intact. [Reexamining Nebuchadnezzar II’s Thirteen-Year Siege of Tyre, Journal of Ancient History](https://thescholarship.ecu.edu/items/ad1c5cf0-2559-4fea-9250-50cdca807d6c)",
+      "The larger imperial context is covered in [Babylon’s rise and fall](/articles/babylon-history-hammurabi-hanging-gardens/). For the coastal cities, changing overlords did not remove the strategic value of their harbours and skills.",
+      "## PERSIAN RULE AND ALEXANDER’S SIEGE OF TYRE",
+      "Under Achaemenid rule, Phoenician naval resources became important to Persian imperial strategy. Their ships and crews served in conflicts that reached beyond the Levant. The struggle over Cyprus during the Ionian Revolt illustrates how eastern Mediterranean routes, access to Egypt and Phoenician security were connected. Service to an empire could preserve local importance while drawing a city into distant wars. [Encyclopaedia Iranica: Ionian Revolt](https://www.iranicaonline.org/articles/ionian-revolt/)",
+      "PRESDA’s [history of the Persian Empire](/articles/persian-empire-cyrus-great-achaemenid-history/) follows that wider political world. Its defeat by Alexander brought another transformation to the coast.",
+      "In 332 BCE, Tyre resisted Alexander. The siege lasted from January to July. His forces constructed a causeway towards the island, but engineering alone does not explain the outcome: ships and assistance from other coastal communities helped turn the balance. Tyre fell, and ancient accounts describe severe violence against its inhabitants. Exact casualty and enslavement totals should not be treated as independently audited figures. [Livius: Siege of Tyre, with Curtius Rufus source extract](https://www.livius.org/articles/battle/tyre-332-bce/)",
+      "The episode exposes the limits of the idea of a unified Phoenician nation. Cities with related languages and traditions did not all make the same political choice. It also overturns the comforting image of the sea as a permanent shield. An island harbour could become vulnerable when an enemy assembled enough engineering capacity and naval support.",
+      "## HOW FAR DID PHOENICIAN SAILORS REALLY TRAVEL?",
+      "The answer depends on the kind of evidence behind each destination. Excavated settlements and wrecks are different from a later author’s report, and both differ from a modern reconstruction voyage.",
+      "### The Mediterranean and nearby Atlantic: secure ground",
+      "Phoenician activity across the Mediterranean and beyond Gibraltar is well supported. A western site such as Lixus belongs in that account. But an object’s distant origin does not prove that one ship sailed directly between its source and its findspot: goods could pass through several communities. A trading network is not necessarily a single itinerary. [UNESCO tentative list: Lixus](https://whc.unesco.org/en/tentativelists/456/)",
+      "### Around Africa: an ancient report worth taking seriously",
+      "Herodotus, in Histories 4.42, reports that the Egyptian ruler Necho sent Phoenician sailors on a voyage around Africa. He says they returned in the third year and reported the sun on their right during part of the journey, a detail he found difficult to believe. Modern discussion has treated that observation as compatible with sailing in southern latitudes. [Herodotus, Histories 4.42, University of Chicago text](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/4b%2A.html#42)",
+      "It remains a reported voyage, not a route independently established at every stage by archaeology. Herodotus wrote later than the expedition he describes. The responsible conclusion is that the account is significant and plausible enough to debate, without pretending that every stop or circumstance is known.",
+      "### More distant Atlantic journeys: distinguish networks from itineraries",
+      "Scholarship on Phoenician and Punic exploration examines traditions associated with Hanno, Himilco and western sources of metals. The surviving accounts leave substantial geographical and chronological problems. Trade in a material that originated far away does not, by itself, establish a direct voyage to its source. A claimed route to the British Isles, for example, needs more than the presence of tin in Mediterranean exchange. [Oxford Handbook of the Phoenician and Punic Mediterranean: Exploration](https://academic.oup.com/edited-volume/34280/chapter-abstract/290633915)",
+      "## MYTH VS REALITY: THE PHOENICIANS",
+      "### They reached the Americas and left a hidden civilization",
+      "No securely established archaeological evidence demonstrates a Phoenician settlement or voyage to the Americas. Alleged inscriptions cannot be accepted because their shapes look vaguely familiar. They need credible provenance, linguistic scrutiny and independently dated context. The supposed Phoenician inscription from Paraíba in Brazil became a notable example of a disputed and apocryphal claim, examined critically in historical scholarship. [Revista de História: The apocryphal Phoenician inscription of Paraíba](https://revistas.usp.br/revhistoria/es/article/view/131942)",
+      "A modern ship demonstrating that an ocean crossing is possible would answer an engineering question. It would not establish that an ancient crew made that journey. Possibility and historical occurrence are different claims requiring different evidence.",
+      "### They invented the alphabet, glass and purple dye",
+      "Each claim compresses a longer history. Earlier alphabetic experiments preceded Phoenician writing; glassmaking developed earlier in Egypt and Mesopotamia; archaeological evidence places shellfish-purple production outside Phoenicia before its Iron Age commercial prominence. Their achievements in adaptation, manufacture and transmission remain substantial without those absolute firsts. [Corning Museum of Glass: Origins of Glassmaking](https://whatson.cmog.org/exhibitions-galleries/origins-glassmaking) [Berger and colleagues: Bronze Age purple-dye production at Aegina, PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304340) [The Met: The Origins of the Alphabet](https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/alphabet)",
+      "### They were a single empire of peaceful merchants",
+      "Their cities did not form one enduring unified state. Nor does trade make a society automatically peaceful. Naval service, fortifications, siege warfare and dependence on imperial powers are all part of this history. The familiar merchant image captures a real strength while leaving out political danger and coercion. [The Met: The Phoenicians, 1500–300 BCE](https://www.metmuseum.org/essays/the-phoenicians-1500-300-b-c) [Encyclopaedia Iranica: Ionian Revolt](https://www.iranicaonline.org/articles/ionian-revolt/)",
+      "### Alexander made the Phoenicians disappear",
+      "The fall of Tyre was a catastrophe, not the simultaneous disappearance of every coastal community. Political independence, spoken language, religious practice and ancestry do not share one expiry date. Later Tyre itself remained a major inhabited place, with Greek and Roman building phases visible in its archaeological record. [UNESCO: Tyre](https://whc.unesco.org/en/list/299/)",
+      "## WHAT HAPPENED TO THE PHOENICIANS?",
+      "Under Hellenistic and Roman rule, the eastern cities entered new political and cultural settings. Greek gained importance, while local traditions changed and persisted unevenly. In the western Mediterranean, the related Punic language and traditions had their own longer development. Phoenician and Punic are therefore studied together, but their histories cannot be reduced to a single moment of collapse. [Cambridge: Phoenician and Punic, The Ancient Languages of Syria-Palestine and Arabia](https://www.cambridge.org/core/books/abs/ancient-languages-of-syriapalestine-and-arabia/phoenician-and-punic/3E240DE5628D7E49123D13FB28EF08CD)",
+      "The living cities of the coast should not be treated as fossils of an unchanged ancient population. They have passed through many subsequent histories. Byblos’s layered archaeology makes that visible: continuity of place can coexist with profound changes in language, government and belief. [UNESCO: Byblos](https://whc.unesco.org/en/list/295/)",
+      "Phoenician influence survives most clearly in relationships. A letter changed to suit another language. A craft technique found a new workshop. A port linked communities that did not share a ruler. The ships disappeared, but many of the connections outlasted the people who first maintained them.",
+      "That is why their history matters. Civilization is not made only by conquering territory or founding monumental capitals. It is also made by the repeated work of crossing a sea, learning another community’s needs and carrying something home that changes what people can do."
+    ],
+    "source": {
+      "name": "The Met: The Phoenicians, 1500–300 BCE",
+      "url": "https://www.metmuseum.org/essays/the-phoenicians-1500-300-b-c"
+    },
+    "references": [
+      {
+        "name": "The Met: The Phoenicians, 1500–300 BCE",
+        "url": "https://www.metmuseum.org/essays/the-phoenicians-1500-300-b-c"
+      },
+      {
+        "name": "British Museum: Phoenician cultural history",
+        "url": "https://www.britishmuseum.org/collection/term/x14403"
+      },
+      {
+        "name": "Josephine Quinn: National Origins and Phoenician Ethnicity",
+        "url": "https://classicalstudies.org/national-origins-phoenician-ethnicity"
+      },
+      {
+        "name": "UNESCO: Byblos",
+        "url": "https://whc.unesco.org/en/list/295/"
+      },
+      {
+        "name": "UNESCO: Tyre",
+        "url": "https://whc.unesco.org/en/list/299/"
+      },
+      {
+        "name": "Karen Radner: Tyre and the other Phoenician city-states",
+        "url": "https://oracc.museum.upenn.edu/saao/aebp/Essentials/Countries/Phoenicians/index.html"
+      },
+      {
+        "name": "The Met: Phoenicia and the Bible",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible"
+      },
+      {
+        "name": "Institute of Nautical Archaeology: Bajo de la Campana shipwreck",
+        "url": "https://nauticalarch.org/projects/bajo-de-la-campana-iron-age-shipwreck-excavation/"
+      },
+      {
+        "name": "Jeffrey P. Emanuel: Seafaring and Shipwreck Archaeology",
+        "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/ETUDESarchivees/Navires/Documents/Emanuel2019-PhoenicianShips.pdf"
+      },
+      {
+        "name": "Woods Hole Oceanographic Institution: Ashkelon Phoenician wrecks",
+        "url": "https://www.whoi.edu/sbl/printPage.do?aid=5018&litesiteid=2740"
+      },
+      {
+        "name": "The Met: Phoenician-style ivory carving from Nimrud",
+        "url": "https://www.metmuseum.org/art/collection/search/324329"
+      },
+      {
+        "name": "Corning Museum of Glass: Origins of Glassmaking",
+        "url": "https://whatson.cmog.org/exhibitions-galleries/origins-glassmaking"
+      },
+      {
+        "name": "Berger and colleagues: Bronze Age purple-dye production at Aegina, PLOS ONE",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304340"
+      },
+      {
+        "name": "Louvre: Sarcophagus and inscription of Eshmunazar II",
+        "url": "https://collections.louvre.fr/en/ark:/53355/cl010120357"
+      },
+      {
+        "name": "The Met: Phoenician Inscriptions of the Cesnola Collection",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Phoenician_Inscriptions_of_the_Cesnola_Collection_The_Metropolitan_Museum_Journal_v_11_1976.pdf"
+      },
+      {
+        "name": "UNESCO tentative list: Lixus",
+        "url": "https://whc.unesco.org/en/tentativelists/456/"
+      },
+      {
+        "name": "The Met: The Origins of the Alphabet",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/alphabet"
+      },
+      {
+        "name": "Zellig S. Harris: A Grammar of the Phoenician Language",
+        "url": "https://nlp.stanford.edu/~manning/dissertations/A-Grammar-of-the-Phoenician-Language-Zellig-Harris.pdf"
+      },
+      {
+        "name": "University of Cambridge: Ancient writing and its social context",
+        "url": "https://www.cam.ac.uk/research/news/easy-as-alep-bet-gimel-cambridge-research-explores-social-context-of-ancient-writing"
+      },
+      {
+        "name": "British Museum: Bilingual gravestone of a Sidonian in Athens",
+        "url": "https://www.britishmuseum.org/collection/object/G_1861-0726-1"
+      },
+      {
+        "name": "Reexamining Nebuchadnezzar II’s Thirteen-Year Siege of Tyre, Journal of Ancient History",
+        "url": "https://thescholarship.ecu.edu/items/ad1c5cf0-2559-4fea-9250-50cdca807d6c"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Ionian Revolt",
+        "url": "https://www.iranicaonline.org/articles/ionian-revolt/"
+      },
+      {
+        "name": "Livius: Siege of Tyre, with Curtius Rufus source extract",
+        "url": "https://www.livius.org/articles/battle/tyre-332-bce/"
+      },
+      {
+        "name": "Herodotus, Histories 4.42, University of Chicago text",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/4b%2A.html#42"
+      },
+      {
+        "name": "Oxford Handbook of the Phoenician and Punic Mediterranean: Exploration",
+        "url": "https://academic.oup.com/edited-volume/34280/chapter-abstract/290633915"
+      },
+      {
+        "name": "Revista de História: The apocryphal Phoenician inscription of Paraíba",
+        "url": "https://revistas.usp.br/revhistoria/es/article/view/131942"
+      },
+      {
+        "name": "Cambridge: Phoenician and Punic, The Ancient Languages of Syria-Palestine and Arabia",
+        "url": "https://www.cambridge.org/core/books/abs/ancient-languages-of-syriapalestine-and-arabia/phoenician-and-punic/3E240DE5628D7E49123D13FB28EF08CD"
+      },
+      {
+        "name": "The Met: Assyria to Iberia at the Dawn of the Classical Age",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia"
+      }
+    ],
+    "tags": [
+      "Phoenicians",
+      "Phoenician history",
+      "Phoenician alphabet",
+      "Phoenician trade",
+      "Tyrian purple",
+      "Tyre",
+      "Sidon",
+      "Byblos",
+      "Arwad",
+      "ancient Mediterranean"
+    ],
+    "faq": [
+      {
+        "question": "Who were the Phoenicians?",
+        "answer": "They were communities of the eastern Mediterranean coast, especially Tyre, Sidon, Byblos and Arwad, known for maritime commerce, craftsmanship and the spread of their writing system."
+      },
+      {
+        "question": "Were the Phoenicians one empire?",
+        "answer": "No. Their cities pursued their own political interests. Shared language, religious traditions and trade connected them without creating a single enduring unified empire."
+      },
+      {
+        "question": "Did the Phoenicians invent the alphabet?",
+        "answer": "No. Alphabetic writing had earlier roots. Phoenician communities developed and spread an influential consonantal script that Greek users adapted, including the use of letters for vowels."
+      },
+      {
+        "question": "Why was Tyrian purple valuable?",
+        "answer": "Making shellfish dye required raw materials, labour and specialist processing. The resulting textiles became prestigious goods associated with wealth and authority."
+      },
+      {
+        "question": "How far did Phoenician sailors travel?",
+        "answer": "Activity across the Mediterranean and beyond Gibraltar is documented. Herodotus reports a voyage around Africa, but its full itinerary is not independently established. More distant claims require separate evidence."
+      },
+      {
+        "question": "Did the Phoenicians reach America?",
+        "answer": "There is no securely established archaeological evidence of a Phoenician voyage or settlement in the Americas. Demonstrating that a crossing was possible does not prove it occurred."
+      },
+      {
+        "question": "Was Carthage Phoenician?",
+        "answer": "Carthage originated as a settlement associated with Tyre and developed into a major power with its own political history. Its origins do not make all Phoenician cities parts of a Carthaginian empire."
+      },
+      {
+        "question": "What happened to the Phoenicians?",
+        "answer": "Their cities passed under successive empires and underwent cultural and linguistic change. Alexander’s capture of Tyre in 332 BCE did not erase all Phoenician communities or their traditions."
+      }
+    ],
+    "readingTime": "17 min read"
+  },
+  {
     "id": "124",
     "slug": "assyrian-empire-war-machine-rise-fall",
     "title": "ASSYRIAN EMPIRE: THE WAR MACHINE THAT TERRIFIED THE ANCIENT WORLD",
