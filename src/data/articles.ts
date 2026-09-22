@@ -54,6 +54,318 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "123",
+    "slug": "babylon-history-hammurabi-hanging-gardens",
+    "title": "BABYLON: THE RISE AND FALL OF THE ANCIENT WORLD’S GREATEST CITY",
+    "seoTitle": "Babylon History: Hammurabi, Hanging Gardens and Its Fall",
+    "metaDescription": "Explore ancient Babylon from Hammurabi to Nebuchadnezzar and Cyrus. Discover its laws, Ishtar Gate and scholarship, plus the evidence behind the Hanging Gardens.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "BABYLON",
+      "gold": "RISE AND FALL"
+    },
+    "excerpt": "A city of kings, scholars and enduring legends: the evidence behind Babylon’s empires, monumental splendour and long survival after conquest.",
+    "category": "History",
+    "date": "2026-09-22",
+    "lastUpdated": "2026-09-22",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/babylon-hammurabi-hanging-gardens-iraq.png",
+    "coverAlt": "Imaginative reconstruction of ancient Babylon with a royal figure, blue gate, ziggurat and speculative elevated gardens",
+    "homepageImagePosition": "50% 50%",
+    "content": [
+      "Babylon is easier to imagine than to understand. Blue gates, immense walls and gardens suspended above a river have made it a shorthand for ancient splendour. Yet those images combine excavated architecture, royal ambition and stories written long afterward. The real city is more interesting than a single perfect reconstruction.",
+      "Ancient Babylon stood on the Euphrates in what is now Iraq. It became the centre of powerful kingdoms, survived conquest and retained religious and intellectual importance under foreign rulers. Its history was not one rise followed by one fall. It was a succession of reinventions, remembered differently by kings, merchants, scholars and people carried there against their will. [Stephanie Dalley: The City of Babylon](https://www.cambridge.org/core/books/city-of-babylon/617C55FA57AB22F494361673A21FA311)",
+      "Calling it the ancient world’s “greatest city” captures its extraordinary reputation, not a measurable title held throughout antiquity. Its importance changed with time. To follow Babylon’s story, we must first separate the place from the empires that took its name.",
+      "## BABYLON, BABYLONIA AND TWO DIFFERENT EMPIRES",
+      "Babylon was a city. Babylonia was the wider southern Mesopotamian region associated with it. The Old Babylonian Empire refers to the kingdom whose power expanded dramatically under Hammurabi in the eighteenth century BCE. “Old Babylonian” also describes a broader historical period, so not every Old Babylonian tablet comes from Babylon itself. [The Met: Isin-Larsa and Old Babylonian periods](https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c)",
+      "The Neo-Babylonian Empire was much later, conventionally dated 626–539 BCE. Nabopolassar and his son Nebuchadnezzar II made Babylon an imperial capital again. The familiar glazed-brick monuments belong chiefly to this later world, not to Hammurabi’s reign. Between the two empires lay centuries of other dynasties, conflicts and cultural continuity. [British Museum: Mesopotamia, 1500–539 BCE](https://www.britishmuseum.org/collection/galleries/mesopotamia-1500-539-bc) [Berlin State Museums: From Fragment to Monument, the Ishtar Gate](https://www.smb.museum/en/exhibitions/detail/from-fragment-to-monument/)",
+      "These distinctions explain an apparent paradox: Babylon could lose an empire and remain a living city. A change of ruler was not automatically the end of its temples, families, businesses or scribal schools.",
+      "## MESOPOTAMIA BEFORE BABYLON’S RISE",
+      "Babylon did not invent urban civilization. The [Sumerians and the rise of Mesopotamia’s first great cities](/articles/sumerians-first-cities-cuneiform-civilization/) belong to an earlier chapter. By the early second millennium BCE, southern communities already inherited traditions of cuneiform writing, irrigation, kingship and temple administration. After the Third Dynasty of Ur fell, rival centres such as Isin and Larsa competed for power. [The Met: Isin-Larsa and Old Babylonian periods](https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c)",
+      "The Euphrates landscape required continuous management. Canals, sluices and flood control helped sustain agriculture and settlement. As Assyriologist Stephanie Dalley emphasizes, Babylon’s location did not give it an obvious, unique advantage over older cities. Its eventual dominance needs a political explanation as well as a geographical one. [Stephanie Dalley: Land and peoples](https://www.cambridge.org/core/books/abs/city-of-babylon/land-and-peoples/CF620E7DF0F8F20D4EED6CB9376D3F10)",
+      "Waterways joined fields to urban markets and institutions. That dependence connected royal ambition to ordinary work: maintaining channels, moving harvests and keeping cultivated land productive. A palace could command resources, but it could not make the countryside irrelevant. Comparing this setting with [civilization along Egypt’s Nile](/articles/ancient-egypt-pharaohs-nile-3000-years-history/) reveals different ways river societies organized power. [Stephanie Dalley: Land and peoples](https://www.cambridge.org/core/books/abs/city-of-babylon/land-and-peoples/CF620E7DF0F8F20D4EED6CB9376D3F10)",
+      "## HOW HAMMURABI TURNED BABYLON INTO A MAJOR POWER",
+      "Babylon appears in texts toward the end of the third millennium BCE, but its earliest history is poorly known. Hammurabi did not found it. He inherited a kingdom and expanded it through alliances and military campaigns. His reign is conventionally dated 1792–1750 BCE under the Middle Chronology used here; second-millennium absolute dates remain subject to scholarly debate. [The Met: Babylon, by Michael Seymour](https://www.metmuseum.org/essays/babylon)",
+      "By the later part of his reign, Babylon dominated a much larger territory. The achievement was not simply battlefield success. A ruler also had to present conquest as legitimate government. Hammurabi’s enduring public image joined military power to the claim that he protected justice, a claim given monumental form in his famous law collection. [The Met: Isin-Larsa and Old Babylonian periods](https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c) [Louvre: The Code of Hammurabi](https://www.louvre.fr/en/the-code-of-hammurabi)",
+      "## THE CODE OF HAMMURABI: WHAT IT ACTUALLY WAS",
+      "### A royal monument, not the first law ever written",
+      "The Louvre’s celebrated stele presents legal judgments alongside a statement of kingship. Its upper relief shows Hammurabi before Shamash, the sun god associated with justice. The monument made the king’s authority visible and placed it within a divine order. [Louvre: The Code of Hammurabi](https://www.louvre.fr/en/the-code-of-hammurabi)",
+      "The text is commonly divided into 282 provisions, using conditional cases to address matters such as property, family relationships, work and injury. It is not a modern comprehensive statute book. Nor was it the first written law collection: earlier Mesopotamian examples include the laws associated with Ur-Namma and Lipit-Ishtar. [Louvre: The Code of Hammurabi](https://www.louvre.fr/en/the-code-of-hammurabi) [The Met: Isin-Larsa and Old Babylonian periods](https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c)",
+      "The stele now in Paris was discovered at Susa, in modern Iran, after having been taken there in antiquity as a war trophy. Its findspot is therefore not proof that Hammurabi ruled from Susa. Objects have histories after their original use, and those histories matter to interpretation. [Louvre: The Code of Hammurabi](https://www.louvre.fr/en/the-code-of-hammurabi)",
+      "### Justice did not mean equality before the law",
+      "The familiar idea of proportional retaliation is only one part of the collection. Penalties and compensation depended on social status and circumstance. Oxford’s account of Babylonian society through these laws emphasizes the hierarchy they reveal. A royal promise to restrain wrongdoing did not create equal rights in the modern sense. [Oxford: Babylonian society through Hammurabi’s laws](https://academic.oup.com/book/898/chapter-abstract/135484924)",
+      "The text is evidence for legal thought and royal ideals. It does not tell us, by itself, how every court decided every dispute. Reading it alongside contracts and other documents helps distinguish stated principles from the varied practice of law. That is why the word “code,” useful as a familiar name, can mislead if taken too literally. [Oxford: Babylonian society through Hammurabi’s laws](https://academic.oup.com/book/898/chapter-abstract/135484924)",
+      "## PEOPLE BEHIND THE LAWS: WORK, FAMILY AND SLAVERY",
+      "### Women had legal roles within unequal institutions",
+      "Hammurabi’s provisions address marriage, divorce, dowries and inheritance. They recognize women’s interests in particular circumstances while imposing unequal expectations on husbands and wives. It is inaccurate either to describe women as having no legal standing or to turn selected protections into a claim of gender equality. The older English translation hosted by Yale is useful as a text to consult, although its wording should be read alongside modern scholarship. [Yale Avalon: Code of Hammurabi, historical English translation](https://avalon.law.yale.edu/ancient/hamcode.asp)",
+      "A later tablet in the Met concerns a dowry conversion. Such documents remind us that family property was negotiated and recorded. They also warn against flattening centuries of Babylonian history into one timeless household: the circumstances of a woman in Hammurabi’s period need not match those of a woman under Persian rule. [The Met: Document concerning a dowry conversion](https://www.metmuseum.org/art/collection/search/321950)",
+      "### Enslaved people were part of the economy",
+      "A Neo-Babylonian slave-sale tablet from the Egibi archive records human ownership as a transaction. This is an uncomfortable counterpoint to images of magnificent palaces. Enslaved people were not merely a metaphor for poverty, and the existence of legal procedures around sale did not remove coercion. [The Met: Slave sale from the Egibi archive](https://www.metmuseum.org/art/collection/search/321724)",
+      "The society also included free workers, merchants, farmers, priests and officials with very different resources. “Babylonian wealth” cannot mean that everybody shared royal luxury. Legal status, household position and access to property shaped what city life could offer or demand. [Oxford: Babylonian society through Hammurabi’s laws](https://academic.oup.com/book/898/chapter-abstract/135484924)",
+      "## MARDUK, TEMPLES AND THE SACRED CITY",
+      "Marduk was Babylon’s patron deity. His importance grew over time, eventually placing him at the head of the Babylonian pantheon. Esagila was his principal temple, while Etemenanki was the great associated ziggurat. They were related sacred structures, not interchangeable names for one building. [ORACC: Marduk](https://oracc.museum.upenn.edu/amgg/Listofdeities/Marduk/index.html)",
+      "Marduk’s prominence connected Babylon’s local identity with claims to wider authority. Royal support for temples was therefore more than private devotion. It helped a king present himself as the proper guardian of a sacred order. Religious legitimacy could remain valuable even to a ruler who came from outside Babylonia. [ORACC: Marduk](https://oracc.museum.upenn.edu/amgg/Listofdeities/Marduk/index.html)",
+      "Temple life also involved practical organization. An account tablet from the Ebabbar archive at Sippar, another Babylonian city, illustrates the regional institutional world of which Babylon was part. It is evidence for administration beyond the palace, although a document from Sippar must not be described as a find from Babylon. [The Met: Account tablet from the Ebabbar archive](https://www.metmuseum.org/art/collection/search/321702)",
+      "## AFTER HAMMURABI: DECLINE WITHOUT DISAPPEARANCE",
+      "Hammurabi’s successors could not permanently hold all his conquests. The dynasty survived beyond him, but the empire’s reach diminished. A Hittite raid ended the dynasty, conventionally dated 1595 BCE. That date follows the same chronological framework used for Hammurabi rather than mixing competing systems. [The Met: The Middle Babylonian/Kassite period](https://www.metmuseum.org/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia)",
+      "Kassite rulers eventually established a durable kingdom in Babylonia. They adopted and patronized Babylonian traditions instead of simply replacing them. This long Middle Babylonian period deserves more than a blank space between Hammurabi and Nebuchadnezzar. Babylonian culture could flourish under rulers of different origins. [The Met: The Middle Babylonian/Kassite period](https://www.metmuseum.org/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia)",
+      "Power changed again through conflict with Elam and other regional states. Nebuchadnezzar I, a king of the twelfth century BCE, is distinct from the later Nebuchadnezzar II. Repeated royal names can make the past appear more compressed than it was. The city’s religious prestige endured through these political changes. [British Museum: Mesopotamia, 1500–539 BCE](https://www.britishmuseum.org/collection/galleries/mesopotamia-1500-539-bc)",
+      "## ASSYRIAN DOMINATION: DESTRUCTION AND REBUILDING",
+      "Babylon’s relationship with Assyria was both political and cultural. Assyrian rulers sought control over the south while treating its sacred traditions as a source of legitimacy. Resistance repeatedly challenged that control. This relationship is essential to understanding Assyrian imperial history as well as Babylon’s own story. [British Museum: Introducing the Assyrians](https://www.britishmuseum.org/blog/introducing-assyrians)",
+      "In 689 BCE, Sennacherib sacked Babylon after rebellion. His son and successor Esarhaddon pursued restoration. A surviving prism describes rebuilding and records how royal power justified its actions. It is a primary royal statement, not an impartial account of what every inhabitant experienced. [The Met: Esarhaddon’s prism describing Babylon’s restoration](https://www.metmuseum.org/art/collection/search/321907)",
+      "Scholarly editions show that rebuilding was a sustained undertaking involving walls, sanctuaries, settlement and cult statues. Some work remained incomplete at Esarhaddon’s death. Babylon’s recovery was therefore not a single ceremonial gesture that instantly restored everything Sennacherib had destroyed. [ORACC: Assyrian royal inscriptions and Babylon’s restoration](https://oracc.museum.upenn.edu/rinap/downloads/0RINAP5_3_final.pdf)",
+      "The contrast is striking: an empire could punish Babylon as a rebellious city and then invest in restoring its authority as a sacred centre. Its value made it difficult to leave ruined, but its prestige also made it difficult to rule quietly.",
+      "## NABOPOLASSAR AND THE NEO-BABYLONIAN EMPIRE",
+      "In the late seventh century BCE, Nabopolassar’s rise reversed the balance of power. Babylonian forces joined the Medes against Assyria. Nineveh fell in 612 BCE, an event recorded in the Babylonian chronicle tradition. The coalition’s victory did not mean Babylon alone had defeated every opponent without assistance. [British Museum: Introducing the Assyrians](https://www.britishmuseum.org/blog/introducing-assyrians) [British Museum: Chronicle of the fall of Nineveh](https://www.britishmuseum.org/collection/object/W_1896-0409-6)",
+      "The Neo-Babylonian state inherited opportunities and rivalries across western Asia. Nebuchadnezzar II, Nabopolassar’s son, campaigned westward and became king in 605 BCE. Museum chronologies sometimes begin his reign at 604, his first full regnal year; accession and regnal-year conventions account for that apparent difference. [British Museum: Chronicle of Nebuchadnezzar’s early campaigns](https://www.britishmuseum.org/collection/object/W_1896-0409-51)",
+      "The empire’s reach gave Babylon access to resources and labour, but also bound it to continuing warfare. Its monumental capital was not separate from the costs of expansion. The same king celebrated for rebuilding Babylon became remembered elsewhere for destroying cities.",
+      "## NEBUCHADNEZZAR’S BABYLON AT ITS PEAK",
+      "### Walls, palaces and the king’s name in brick",
+      "Nebuchadnezzar’s building inscriptions describe a vast programme of construction and restoration. A foundation cylinder in the Met records an outer city wall. Such cylinders were buried within buildings, addressed to gods and future rulers as much as contemporary viewers. Even hidden construction could carry a royal claim to lasting fame. [The Met: Nebuchadnezzar’s outer wall inscription](https://www.metmuseum.org/art/collection/search/321676)",
+      "Archaeology confirms major fortifications, but the density of settlement within the outer enclosure is uncertain. Large walls do not provide a reliable population census. Babylon was an exceptional imperial city; precise viral claims about its population or total wealth require evidence that the surviving remains do not supply. [The Met: Nebuchadnezzar’s outer wall inscription](https://www.metmuseum.org/art/collection/search/321676)",
+      "### The Ishtar Gate and Processional Way",
+      "Glazed blue bricks and animal reliefs gave the Ishtar Gate its distinctive appearance. Along the Processional Way, lions made movement through the city a display of divine and royal power. These were constructed architectural environments, not merely decorative objects later placed in a museum. [Berlin State Museums: From Fragment to Monument, the Ishtar Gate](https://www.smb.museum/en/exhibitions/detail/from-fragment-to-monument/) [University of Chicago: Mesopotamian collection highlights](https://isac-idb-static.uchicago.edu/multimedia/326167/MISC_100museumhighlights.pdf)",
+      "The Berlin reconstruction combines ancient fragments with modern materials. It should not be mistaken for an intact gate lifted from Iraq in one piece. Excavation, conservation and reconstruction all shaped the monument now familiar from photographs. [Berlin State Museums: From Fragment to Monument, the Ishtar Gate](https://www.smb.museum/en/exhibitions/detail/from-fragment-to-monument/)",
+      "The route also served religious ceremony. During the New Year festival, divine statues moved through the city toward a festival house. Architecture, ritual and kingship met in the same urban space: the city was designed to be experienced through movement as well as viewed from afar. [University of Chicago: Mesopotamian collection highlights](https://isac-idb-static.uchicago.edu/multimedia/326167/MISC_100museumhighlights.pdf)",
+      "## JERUSALEM AND THE BABYLONIAN EXILE",
+      "The Babylonian Chronicle documents Nebuchadnezzar’s campaign against Jerusalem in 597 BCE. This must be separated from the later destruction of Jerusalem and its temple, usually dated 587 or 586 BCE. Treating both as one event obscures successive confrontations and deportations. [British Museum: Chronicle of Nebuchadnezzar’s early campaigns](https://www.britishmuseum.org/collection/object/W_1896-0409-51)",
+      "Archaeological work in Jerusalem has identified destruction evidence associated with the later Babylonian conquest. The UNC Charlotte excavation report discusses material remains including burnt deposits and objects within their context. Archaeology can illuminate destruction without independently verifying every detail of a later narrative. [UNC Charlotte: Evidence of Jerusalem’s Babylonian destruction](https://inside.charlotte.edu/news-features/2019-08-12/evidence-587586-bce-babylonian-conquest-jerusalem-found-mount-zion)",
+      "The Babylonian Exile became a defining subject in Jewish historical and religious memory. It should not be reduced to an ornamental episode in the biography of a successful king. Deportation meant forced displacement, while the experiences of deportees and those who remained in Judah were not identical. Biblical texts preserve responses to that upheaval from perspectives very different from royal building inscriptions. [Bob Becking: The Exile From a Birds Eye View](https://bibleinterp.arizona.edu/articles/exile357917)",
+      "## DAILY LIFE INSIDE AND AROUND THE IMPERIAL CAPITAL",
+      "The grand approach to a temple was not the whole city. Ordinary life involved obtaining food, maintaining households, arranging work and settling obligations. The surviving documents offer glimpses rather than a complete street-by-street diary. Elite archives are especially visible because institutions and wealthy families produced and preserved records.",
+      "Farmers and water workers sustained the urban economy from beyond its monumental core. Channels required maintenance; harvests had to reach consumers. Babylon’s dependence on managed water is a reminder that even an imperial capital relied on systems vulnerable to neglect, conflict and changes in the river landscape. [Stephanie Dalley: Land and peoples](https://www.cambridge.org/core/books/abs/city-of-babylon/land-and-peoples/CF620E7DF0F8F20D4EED6CB9376D3F10)",
+      "Written accounts, dowry documents and sales reveal overlapping religious, commercial and family relationships. Scribes turned an agreement into a record; witnesses and identifying information gave it a place in a social network. These documents are less spectacular than blue-glazed walls, but they bring us closer to the practical demands of living in a city. [The Met: Document concerning a dowry conversion](https://www.metmuseum.org/art/collection/search/321950) [The Met: Slave sale from the Egibi archive](https://www.metmuseum.org/art/collection/search/321724) [The Met: Account tablet from the Ebabbar archive](https://www.metmuseum.org/art/collection/search/321702)",
+      "The evidence should also restrain imagination. A luxurious royal image cannot establish what an ordinary household ate each day, how comfortable every house was or how residents felt about a particular ruler. A careful reconstruction leaves some rooms unfurnished.",
+      "## MATHEMATICS, ASTRONOMY AND THE WORK OF SCHOLARS",
+      "### Writing was inherited and continually renewed",
+      "Babylonians used cuneiform, the writing system developed in earlier Mesopotamia. Babylonian was a variety of Akkadian; Sumerian continued to have a learned role. Copying and studying older texts was active intellectual work, not simply preserving relics without understanding them. [British Museum: Babylon, myth and reality, educational resource](https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf)",
+      "Yale’s Old Babylonian tablet YBC 7289 preserves a remarkably accurate numerical approximation connected with the diagonal of a square. It provides concrete evidence of mathematical accomplishment. It does not justify claiming that all modern mathematics was invented at Babylon or that every tablet belongs to the same century. [Yale: The mathematics tablet YBC 7289](https://news.yale.edu/2016/04/11/3800-year-journey-classroom-classroom)",
+      "### Watching the sky and calculating its patterns",
+      "Late Babylonian tablets include calculated tables for Jupiter. Their existence demonstrates sustained technical study, not just casual stargazing. Because these tablets are later than Hammurabi, they must not be used as direct evidence for the precise knowledge available at his court. [British Museum: Late Babylonian tables for Jupiter](https://www.britishmuseum.org/collection/object/W_1876-1117-1945)",
+      "A 2024 study by Mathieu Ossendrijver examines an astral compendium combining mathematical procedures with material interpreted as astrological. It illustrates a scholarly world whose categories did not match our separation of science and divination. Mathematical sophistication and beliefs about celestial significance could coexist. [Mathieu Ossendrijver: A Babylonian astral compendium, 2024](https://doi.org/10.1177/00218286241233769)",
+      "Recognizing the observational and numerical achievement does not scientifically validate astrology. Nor does it require inventing telescopes, electricity or knowledge of technologies absent from the evidence. Clay tablets are impressive enough when read for what they actually contain.",
+      "## THE HANGING GARDENS: WONDER OR LEGEND?",
+      "### The descriptions are later than the supposed monument",
+      "The Hanging Gardens occupy a different evidential category from the Ishtar Gate. Classical descriptions survive through writers separated from the supposed construction by centuries. They describe extraordinary planted structures and water management, but the accounts do not amount to a contemporary Babylonian building record. [Stephanie Dalley: The mystery of the Hanging Garden](https://blog.oup.com/2013/06/mystery-hanging-garden-babylon/)",
+      "No conclusive archaeological identification at Babylon, or contemporary Babylonian text securely describing the famous wonder, has settled the question. That does not prove that Babylon had no gardens. It means ordinary gardens and the specific monument of later legend are different claims. [British Museum: Gardens of Ashurbanipal and the Nineveh hypothesis](https://www.britishmuseum.org/blog/paradise-earth-gardens-ashurbanipal)",
+      "The familiar story that Nebuchadnezzar built the gardens for a homesick wife belongs to the later tradition. It should not be narrated with the same confidence as the existence of his inscribed bricks. A vivid motive can make a story memorable without making it independently verifiable. [Timothy Potts: Looking for the Hanging Gardens](https://www.nybooks.com/articles/2013/09/26/looking-hanging-gardens-babylon/)",
+      "### Could the gardens have been at Nineveh?",
+      "Assyriologist Stephanie Dalley argues that the tradition may refer to Sennacherib’s gardens at Nineveh. Her case draws on Assyrian inscriptions, representations of gardens and substantial water engineering, together with the possibility that later writers confused rulers and places. It is a serious scholarly hypothesis, not the discovery of a labelled “Hanging Gardens” foundation at Babylon. [Stephanie Dalley: The mystery of the Hanging Garden](https://blog.oup.com/2013/06/mystery-hanging-garden-babylon/)",
+      "The British Museum discusses representations of gardens at Nineveh, including trees associated with a roofed colonnade. Such evidence makes Assyrian royal gardens real and historically important. It does not automatically establish that every classical account of Babylon’s wonder describes that particular complex. [British Museum: Gardens of Ashurbanipal and the Nineveh hypothesis](https://www.britishmuseum.org/blog/paradise-earth-gardens-ashurbanipal)",
+      "Archaeologist Timothy Potts has challenged the strength of the identification, including the proposed transfer of the story from Nineveh to Babylon. The difference is crucial: evidence that Sennacherib built an impressive garden is not, on its own, proof that Nebuchadnezzar could not have built one. [Timothy Potts: Looking for the Hanging Gardens](https://www.nybooks.com/articles/2013/09/26/looking-hanging-gardens-babylon/)",
+      "The responsible conclusion remains open. A Babylonian garden, a transformed memory of Assyrian gardens, and literary elaboration are possibilities assessed with incomplete evidence. The hero image here is an imaginative editorial reconstruction. Its elevated greenery and water features do not establish the appearance or location of the ancient wonder.",
+      "## CYRUS AND THE PERSIAN CONQUEST OF 539 BCE",
+      "By 539 BCE, Nabonidus ruled Babylon and Cyrus had built a formidable Persian power. The chronicle tradition records a Babylonian defeat at Opis before the entry into Babylon. Reports that the city itself was taken without a battle must not be expanded into a claim that the entire campaign was bloodless. [Encyclopaedia Iranica: Babylonian chronicles](https://www.iranicaonline.org/articles/babylonian-chronicles/)",
+      "The Cyrus Cylinder presents the conqueror as a ruler favoured by Marduk and depicts Nabonidus negatively. It also describes restoration of cults and the return of divine images. This is valuable primary evidence, but it speaks the language of victorious kingship. It is not a neutral survey of public opinion or a modern universal declaration of human rights. [British Museum: The Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941)",
+      "Babylon entered the [Achaemenid Persian Empire of Cyrus the Great](/articles/persian-empire-cyrus-great-achaemenid-history/). The Neo-Babylonian Empire had ended, while the city retained importance within the new imperial system. Political conquest and urban extinction were separate events. [The Met: Babylon, by Michael Seymour](https://www.metmuseum.org/essays/babylon)",
+      "## LATER EMPIRES AND BABYLON’S GRADUAL DECLINE",
+      "Alexander the Great died at Babylon in 323 BCE. After his empire fragmented, Seleucid power developed around other centres, including Seleucia on the Tigris. Babylon diminished over time rather than becoming an empty ruin immediately after Cyrus. Later conflict and the shifting geography of power compounded its losses. [The Met: Babylon, by Michael Seymour](https://www.metmuseum.org/essays/babylon)",
+      "Cuneiform scholarship outlived Babylon’s period as an independent imperial capital. A surviving almanac for 31/32 CE belongs to the Parthian period, demonstrating that learned traditions continued far into a different political world. “Ancient Babylon” was not one short interval sealed off from later history. [The Met: Babylonian almanac for 31/32 CE](https://www.metmuseum.org/art/collection/search/321978)",
+      "A city’s decline can therefore have several chronologies: the end of its dynasty, the loss of administrative primacy, shrinking occupation and the fading of particular institutions. Asking “when did Babylon fall?” is useful only if we also ask which of those changes we mean.",
+      "## MYTH VS REALITY: BABYLON",
+      "### The Tower of Babel was a historical event proved by excavation",
+      "Etemenanki provides an important architectural context for the biblical Tower of Babel tradition. The ziggurat and the narrative are not identical kinds of evidence. Archaeology can study a monumental temple tower; it cannot turn the biblical account of the origin of different languages into an excavated event. [ORACC: Marduk](https://oracc.museum.upenn.edu/amgg/Listofdeities/Marduk/index.html)",
+      "### The Hanging Gardens have been found exactly as pictured",
+      "They have not been conclusively identified. Modern illustrations often combine features from different sources and periods. Their persuasive detail should never be substituted for a secure archaeological context. [British Museum: Gardens of Ashurbanipal and the Nineveh hypothesis](https://www.britishmuseum.org/blog/paradise-earth-gardens-ashurbanipal)",
+      "### Hammurabi invented law and applied it equally to everyone",
+      "Written law collections preceded him. His collection made an influential royal claim to justice within a hierarchical society. Neither its antiquity nor its fame makes it a charter of modern equality. [Oxford: Babylonian society through Hammurabi’s laws](https://academic.oup.com/book/898/chapter-abstract/135484924)",
+      "### Babylon’s wealth can be given a precise modern price tag",
+      "Its monuments demonstrate enormous investment, but they do not reveal a reliable equivalent in today’s money or the living standard of every resident. Magnificent construction and inequality can exist together. Royal descriptions of scale are evidence of ambition as well as building activity. [The Met: Nebuchadnezzar’s outer wall inscription](https://www.metmuseum.org/art/collection/search/321676)",
+      "### Babylonian astronomy proves lost supernatural technology",
+      "Surviving mathematical and astronomical texts document human scholarship. Their achievements should be explained through the procedures they preserve, not replaced with claims of unsupported devices or powers. Ancient scholars deserve credit for their actual work. [Yale: The mathematics tablet YBC 7289](https://news.yale.edu/2016/04/11/3800-year-journey-classroom-classroom) [British Museum: Late Babylonian tables for Jupiter](https://www.britishmuseum.org/collection/object/W_1876-1117-1945)",
+      "## BABYLON TODAY: A SITE TO PRESERVE, NOT JUST A SYMBOL",
+      "Babylon became a UNESCO World Heritage property in 2019. Its remains are part of Iraq’s living cultural heritage, not simply a backdrop to biblical or classical imagination. Archaeological survival, modern reconstruction and conservation must be distinguished when interpreting what visitors see. [UNESCO: Babylon World Heritage property](https://whc.unesco.org/en/list/278/)",
+      "The site has suffered damage from intrusive modern construction and military use, alongside wider conservation challenges. Preservation requires documentation, maintenance and careful management of both ancient remains and later interventions. The purpose is not to turn every uncertainty into a spectacular rebuilt monument. [UNESCO: Babylon World Heritage property](https://whc.unesco.org/en/list/278/)",
+      "Babylon’s legacy is strongest when the different records are allowed to speak without being forced into one story. Royal inscriptions celebrate construction. Legal and economic tablets reveal obligations and unequal lives. Exile traditions remember conquest from the other side. Scholarly texts preserve patient intellectual labour.",
+      "Together they explain why Babylon mattered. Its greatness lay not in being flawless, mysterious or technologically impossible, but in the intensity with which people built, governed, studied and remembered it. The city became a legend because it had first been a complicated human place."
+    ],
+    "source": {
+      "name": "The Met: Babylon, by Michael Seymour",
+      "url": "https://www.metmuseum.org/essays/babylon"
+    },
+    "references": [
+      {
+        "name": "The Met: Babylon, by Michael Seymour",
+        "url": "https://www.metmuseum.org/essays/babylon"
+      },
+      {
+        "name": "Stephanie Dalley: The City of Babylon",
+        "url": "https://www.cambridge.org/core/books/city-of-babylon/617C55FA57AB22F494361673A21FA311"
+      },
+      {
+        "name": "The Met: Isin-Larsa and Old Babylonian periods",
+        "url": "https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c"
+      },
+      {
+        "name": "Stephanie Dalley: Land and peoples",
+        "url": "https://www.cambridge.org/core/books/abs/city-of-babylon/land-and-peoples/CF620E7DF0F8F20D4EED6CB9376D3F10"
+      },
+      {
+        "name": "Louvre: The Code of Hammurabi",
+        "url": "https://www.louvre.fr/en/the-code-of-hammurabi"
+      },
+      {
+        "name": "Oxford: Babylonian society through Hammurabi’s laws",
+        "url": "https://academic.oup.com/book/898/chapter-abstract/135484924"
+      },
+      {
+        "name": "Yale Avalon: Code of Hammurabi, historical English translation",
+        "url": "https://avalon.law.yale.edu/ancient/hamcode.asp"
+      },
+      {
+        "name": "The Met: Document concerning a dowry conversion",
+        "url": "https://www.metmuseum.org/art/collection/search/321950"
+      },
+      {
+        "name": "The Met: Slave sale from the Egibi archive",
+        "url": "https://www.metmuseum.org/art/collection/search/321724"
+      },
+      {
+        "name": "ORACC: Marduk",
+        "url": "https://oracc.museum.upenn.edu/amgg/Listofdeities/Marduk/index.html"
+      },
+      {
+        "name": "The Met: The Middle Babylonian/Kassite period",
+        "url": "https://www.metmuseum.org/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia"
+      },
+      {
+        "name": "British Museum: Mesopotamia, 1500–539 BCE",
+        "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia-1500-539-bc"
+      },
+      {
+        "name": "The Met: Esarhaddon’s prism describing Babylon’s restoration",
+        "url": "https://www.metmuseum.org/art/collection/search/321907"
+      },
+      {
+        "name": "ORACC: Assyrian royal inscriptions and Babylon’s restoration",
+        "url": "https://oracc.museum.upenn.edu/rinap/downloads/0RINAP5_3_final.pdf"
+      },
+      {
+        "name": "British Museum: Introducing the Assyrians",
+        "url": "https://www.britishmuseum.org/blog/introducing-assyrians"
+      },
+      {
+        "name": "British Museum: Chronicle of the fall of Nineveh",
+        "url": "https://www.britishmuseum.org/collection/object/W_1896-0409-6"
+      },
+      {
+        "name": "British Museum: Chronicle of Nebuchadnezzar’s early campaigns",
+        "url": "https://www.britishmuseum.org/collection/object/W_1896-0409-51"
+      },
+      {
+        "name": "The Met: Nebuchadnezzar’s outer wall inscription",
+        "url": "https://www.metmuseum.org/art/collection/search/321676"
+      },
+      {
+        "name": "Berlin State Museums: From Fragment to Monument, the Ishtar Gate",
+        "url": "https://www.smb.museum/en/exhibitions/detail/from-fragment-to-monument/"
+      },
+      {
+        "name": "University of Chicago: Mesopotamian collection highlights",
+        "url": "https://isac-idb-static.uchicago.edu/multimedia/326167/MISC_100museumhighlights.pdf"
+      },
+      {
+        "name": "UNC Charlotte: Evidence of Jerusalem’s Babylonian destruction",
+        "url": "https://inside.charlotte.edu/news-features/2019-08-12/evidence-587586-bce-babylonian-conquest-jerusalem-found-mount-zion"
+      },
+      {
+        "name": "Bob Becking: The Exile From a Birds Eye View",
+        "url": "https://bibleinterp.arizona.edu/articles/exile357917"
+      },
+      {
+        "name": "The Met: Account tablet from the Ebabbar archive",
+        "url": "https://www.metmuseum.org/art/collection/search/321702"
+      },
+      {
+        "name": "Yale: The mathematics tablet YBC 7289",
+        "url": "https://news.yale.edu/2016/04/11/3800-year-journey-classroom-classroom"
+      },
+      {
+        "name": "British Museum: Late Babylonian tables for Jupiter",
+        "url": "https://www.britishmuseum.org/collection/object/W_1876-1117-1945"
+      },
+      {
+        "name": "Mathieu Ossendrijver: A Babylonian astral compendium, 2024",
+        "url": "https://doi.org/10.1177/00218286241233769"
+      },
+      {
+        "name": "Stephanie Dalley: The mystery of the Hanging Garden",
+        "url": "https://blog.oup.com/2013/06/mystery-hanging-garden-babylon/"
+      },
+      {
+        "name": "British Museum: Gardens of Ashurbanipal and the Nineveh hypothesis",
+        "url": "https://www.britishmuseum.org/blog/paradise-earth-gardens-ashurbanipal"
+      },
+      {
+        "name": "Timothy Potts: Looking for the Hanging Gardens",
+        "url": "https://www.nybooks.com/articles/2013/09/26/looking-hanging-gardens-babylon/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Babylonian chronicles",
+        "url": "https://www.iranicaonline.org/articles/babylonian-chronicles/"
+      },
+      {
+        "name": "British Museum: The Cyrus Cylinder",
+        "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+      },
+      {
+        "name": "The Met: Babylonian almanac for 31/32 CE",
+        "url": "https://www.metmuseum.org/art/collection/search/321978"
+      },
+      {
+        "name": "UNESCO: Babylon World Heritage property",
+        "url": "https://whc.unesco.org/en/list/278/"
+      },
+      {
+        "name": "British Museum: Babylon, myth and reality, educational resource",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf"
+      }
+    ],
+    "tags": [
+      "Babylon history",
+      "ancient Babylon",
+      "Babylonian Empire",
+      "Hammurabi",
+      "Code of Hammurabi",
+      "Nebuchadnezzar II",
+      "Hanging Gardens of Babylon",
+      "Ishtar Gate",
+      "Marduk",
+      "Cyrus the Great"
+    ],
+    "faq": [
+      {
+        "question": "Where was ancient Babylon?",
+        "answer": "Babylon stood on the Euphrates in Mesopotamia, in present-day Iraq. Its archaeological remains are near modern Hillah."
+      },
+      {
+        "question": "What is the difference between Babylon and Babylonia?",
+        "answer": "Babylon was a city. Babylonia was the wider southern Mesopotamian region associated with it. The Old Babylonian and Neo-Babylonian empires were separate states in different periods."
+      },
+      {
+        "question": "Who built Babylon?",
+        "answer": "Babylon developed over many generations. Hammurabi expanded its political power, while Nebuchadnezzar II sponsored many of the famous monuments of the later imperial capital. Neither created the entire city from nothing."
+      },
+      {
+        "question": "Were the Hanging Gardens of Babylon real?",
+        "answer": "Their existence and location remain unresolved. Later descriptions are not matched by conclusive archaeological or contemporary Babylonian evidence. Stephanie Dalley’s proposal that the tradition refers to gardens at Nineveh is a debated scholarly hypothesis."
+      },
+      {
+        "question": "Was the Code of Hammurabi the first law code?",
+        "answer": "No. Earlier Mesopotamian law collections survive. Hammurabi’s text is a collection of legal cases and royal claims to justice, not a complete modern statute book."
+      },
+      {
+        "question": "Why did Babylon fall in 539 BCE?",
+        "answer": "Cyrus’s Persian forces defeated Babylonian forces and took the city, ending the Neo-Babylonian Empire. Babylon itself remained important under later rulers; its urban decline was a much longer process."
+      },
+      {
+        "question": "Was the Tower of Babel a Babylonian ziggurat?",
+        "answer": "Babylon’s Etemenanki ziggurat is an important context for the biblical tradition. The existence of a temple tower does not archaeologically establish the narrative about the origin of different languages."
+      }
+    ],
+    "readingTime": "19 min read"
+  },
+  {
     "id": "122",
     "slug": "sumerians-first-cities-cuneiform-civilization",
     "title": "SUMERIANS: HOW THE WORLD’S FIRST CITIES CHANGED HUMAN CIVILIZATION",
