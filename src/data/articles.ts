@@ -54,6 +54,333 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "127",
+    "slug": "maya-civilization-history-cities-calendar-astronomy",
+    "title": "MAYA CIVILIZATION: THE ANCIENT WORLD OF CITIES, GODS AND ASTRONOMY",
+    "seoTitle": "Maya Civilization: History, Cities, Calendar and Collapse",
+    "metaDescription": "Explore Maya civilization, its cities, gods, writing, astronomy and calendars. Discover what happened to ancient kingdoms and how Maya peoples continue today.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "MAYA CIVILIZATION",
+      "gold": "CITIES, GODS AND ASTRONOMY"
+    },
+    "excerpt": "From the first monumental centers to living Maya communities, the story of rival kingdoms, remarkable science and a civilization that never simply vanished.",
+    "category": "History",
+    "date": "2026-09-23",
+    "lastUpdated": "2026-09-23",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/maya-civilization-mexico-guatemala-honduras-salvador.png",
+    "coverAlt": "Editorial illustration of a Maya city with stepped pyramids, plazas and a scribe, combining imagined historical and calendar imagery",
+    "homepageImagePosition": "50% 50%",
+    "content": [
+      "A Maya city was more than the pyramid that survives above the trees. Around its plazas were homes, gardens, workshops, reservoirs and roads. Farmers sustained its ceremonies. Artists painted its vessels. Scribes recorded rulers who wanted their victories remembered. The stone monuments are the most visible survivors of a much larger human world.",
+      "Maya civilization developed in eastern Mesoamerica, across parts of present-day Mexico, Guatemala, Belize, Honduras and El Salvador. It comprised many communities and competing kingdoms, not one unified empire. Ancient political systems changed dramatically, but Maya peoples did not disappear: millions live today, speaking numerous languages and maintaining evolving cultural traditions. [Smithsonian National Museum of the American Indian: The Maya](https://maya.nmai.si.edu/maya)",
+      "The familiar search term “Mayan civilization” refers to this same history. This article generally uses Maya for people and culture, and Mayan for the language family. Neither term describes a single unchanging society. A Classic-period royal court, a Postclassic trading community and a contemporary Maya town belong to connected histories without being interchangeable.",
+      "The supplied hero is an imaginative editorial illustration. Its combined architecture, figures and calendar imagery should not be read as an archaeological reconstruction or an authentic Maya manuscript.",
+      "## WHERE AND WHEN DID MAYA CIVILIZATION DEVELOP?",
+      "Maya history spans several millennia. Archaeologists commonly organize its ancient development into the Preclassic, Classic and Postclassic periods, but these are working categories with regional overlaps, not dates when every community changed together. [Penn Museum: Who Were the Maya?](https://www.penn.museum/sites/expedition/who-were-the-maya/)",
+      "Preclassic, approximately 2000 BCE to 250 CE: farming communities expanded, monumental ceremonial centers developed and early kingdoms emerged. Classic, approximately 250 to 900 CE: many royal courts produced the inscriptions, sculpture and architecture now associated with ancient Maya civilization. Postclassic, approximately 900 CE through the Spanish conquests: political and commercial networks reorganized; Maya states remained active long after many southern lowland dynasties had fallen. These labels describe historical change, not a progression from primitive to advanced to irrelevant.",
+      "Geography matters as much as chronology. Highland valleys, tropical lowlands and the northern limestone landscapes of the Yucatán offered different water supplies, soils and resources. The Maya world extended across today's national borders. It also belonged to the wider world of Mesoamerica, where societies exchanged crops, religious ideas, goods and technologies without becoming a single people.",
+      "The Maya were not the Aztecs. The later Mexica-led empire was centered in central Mexico, while Maya societies occupied a different, more southerly and easterly region and had a much longer preceding urban history. Their stories intersect through Mesoamerican exchange, but their languages and political histories differ. PRESDA's [history of the Aztec Empire](/articles/aztec-empire-tenochtitlan-mexica-rise-fall/) follows that separate story.",
+      "## BEFORE THE FAMOUS PYRAMIDS: THE PRECLASSIC WORLD",
+      "The origins of monumental Maya architecture cannot be reduced to kings ordering pyramids into existence. At Aguada Fénix in Mexico, researchers dated a vast artificial plateau to approximately 1000–800 BCE. Published in Nature in 2020, the investigation identified monumental construction surprisingly early in the region's history. The evidence suggests extensive collective labor; it does not establish that all early Maya communities were egalitarian or governed in the same way. [Inomata and colleagues, Nature: Monumental architecture at Aguada Fénix](https://www.nature.com/articles/s41586-020-2343-4)",
+      "Such discoveries change the questions archaeologists ask. Large gathering places could help create political communities rather than simply reflect an already mature monarchy. Monument building, seasonal meetings and shared ceremonies may have reinforced cooperation while also creating opportunities for new hierarchies. That is an interpretation of material evidence, not a recovered constitution.",
+      "The land itself preserves part of this history. Research at Ceibal in Guatemala links buried soils and other environmental evidence to long-term changes in land use. Forest clearance, cultivation and erosion did not begin only in the final decades of the Classic period. Maya communities repeatedly changed their surroundings and adapted to the consequences. [Smithsonian Tropical Research Institute: Buried snails reveal ancient land use](https://stri.si.edu/story/buried-snails)",
+      "## A WORLD OF KINGDOMS, NOT ONE MAYA EMPIRE",
+      "Classic Maya rulers belonged to dynasties whose authority depended on ancestry, ritual, allies and military success. Their inscriptions commemorate accessions, marriages, captives and victories. Larger powers could dominate networks of smaller kingdoms, but there was no enduring government ruling all Maya-speaking peoples.",
+      "Tikal and the powerful Snake dynasty associated with Calakmul illustrate the competition. Their alliances repeatedly changed the balance of power across the lowlands. Tikal's victory over Calakmul in 695 CE was an important reversal, not the unification of the Maya world. Royal accounts are indispensable evidence, but they were also political advertisements. A ruler's monument tells us what a court wanted remembered, not everything that happened. [Penn Museum: Time of Kings and Queens](https://www.penn.museum/sites/expedition/time-of-kings-and-queens/)",
+      "### Tikal: a capital in the forest",
+      "Tikal, in present-day Guatemala, combined towering temples with plazas, palaces, residential areas and water infrastructure. Its monumental center was embedded in a much wider inhabited landscape. UNESCO recognizes both the archaeological significance of the city and the ecological importance of the surrounding park. Walking its central plazas today reveals royal scale; understanding its reservoirs and neighborhoods reveals the system that made that scale possible. [UNESCO: Tikal National Park](https://whc.unesco.org/en/list/64/)",
+      "### Calakmul: power beyond the ceremonial center",
+      "Calakmul, in modern Campeche, Mexico, was a major political center whose monuments and settlement remains preserve a long history of occupation. Its setting also challenges the image of isolated ceremonial islands in untouched jungle. Cities depended on productive landscapes and routes connecting neighboring communities. Calakmul's importance lies in both its royal buildings and the territorial relationships that extended beyond them. [UNESCO: Ancient Maya City and Protected Tropical Forests of Calakmul](https://whc.unesco.org/en/list/1061/)",
+      "### Palenque: architecture as dynastic memory",
+      "Palenque, in Chiapas, is especially celebrated for its architecture and sculptural decoration. Temples and palace spaces made political and sacred history visible in stone. The tomb of K'inich Janaab Pakal beneath the Temple of the Inscriptions shows how burial, kingship and monumental construction could reinforce one another. Its imagery belongs to Maya religious and dynastic thought, not evidence for an ancient astronaut. [UNESCO: Pre-Hispanic City and National Park of Palenque](https://whc.unesco.org/en/list/411/) [Smithsonian: Palenque](https://maya.nmai.si.edu/gallery/palenque)",
+      "### Copán: a city written in sculpture",
+      "Copán, in present-day Honduras, preserves an exceptional concentration of carved monuments and architectural sculpture. Its Hieroglyphic Stairway demonstrates that buildings could carry extensive historical texts. These were not decorative marks awaiting mystical interpretation: they recorded language, names and royal narratives that specialists can investigate through epigraphy. Copán also shows how far the Maya cultural world extended beyond the famous sites of the Yucatán. [UNESCO: Maya Site of Copan](https://whc.unesco.org/en/list/129/)",
+      "### Chichén Itzá: a different center of power",
+      "Chichén Itzá flourished in the northern Yucatán during a period overlapping the transformation of many southern kingdoms. Its monuments, including El Castillo and the Great Ball Court, reflect a city with extensive connections and a distinctive political and ritual landscape. It should not be treated as a frozen copy of earlier Tikal or Palenque. The site's changing architecture records interaction as well as continuity. [UNESCO: Pre-Hispanic City of Chichen-Itza](https://whc.unesco.org/en/list/483/)",
+      "Chichén Itzá also appears in PRESDA's [New 7 Wonders guide](/articles/new-7-wonders-of-the-world-history-travel-guide/). Its modern fame is useful for introducing Maya history, provided one spectacular destination does not stand in for an entire civilization.",
+      "## HOW MAYA CITIES FED THEMSELVES",
+      "A royal court could proclaim divine authority, but it could not escape the need for food and water. Maya farming varied with local conditions, including combinations of fields, gardens, terraces and wetland management. Maize was central, accompanied by crops such as beans and squash. The relationship between settlement and cultivation was more complex than a sharp boundary separating city from countryside.",
+      "Joya de Cerén in El Salvador offers an unusually intimate counterweight to royal monuments. Buried by a volcanic eruption around 600 CE, the agricultural settlement preserves evidence of domestic buildings, food production and everyday activities. UNESCO values it precisely because it illuminates ordinary lives that are often harder to recover than the histories of kings. [UNESCO: Joya de Cerén Archaeological Site](https://whc.unesco.org/en/list/675/)",
+      "Households were working environments, not merely places to sleep. Food had to be grown, stored and prepared; tools and containers had to be acquired or made. Archaeological research at Cerén identifies separate household spaces and connections beyond the village through exchanged materials. Families participated in broader economies even when they left no royal inscription. [Getty Conservation Institute: Joya de Cerén management and archaeological context](https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/joya_exec_summary_eng.pdf)",
+      "Water management could require equally sophisticated local knowledge. A 2020 study of Tikal's Corriental reservoir identified quartz and zeolite that researchers interpreted as a filtration system. This is evidence for a specific engineered installation, not proof that every reservoir was filtered or every urban water supply was safe. Its importance is practical: maintaining a city required knowledge of materials, catchments and seasonal shortages. [Tankersley and colleagues, Scientific Reports: Zeolite water purification at Tikal](https://www.nature.com/articles/s41598-020-75023-7)",
+      "Merchants and artisans connected these local economies to wider networks. Fine vessels reveal specialized painting and writing; valuable materials could travel far from their origins. The objects deposited in Chichén Itzá's Sacred Cenote include evidence of connections reaching beyond the Maya region. Trade was therefore not simply the movement of luxury goods between two neighboring kings, although elite demand helped shape it. [Metropolitan Museum of Art: The Sacred Cenote at Chichen Itza](https://www.metmuseum.org/de/perspectives/golden-kingdoms-sacred-cenote-chichen-itza)",
+      "## MAYA GODS, RITUALS AND THE LIVING WORLD",
+      "Maya religion linked human life with agricultural cycles, ancestors, celestial movements and powerful beings. It was not one fixed list of gods followed identically for thousands of years. The Metropolitan Museum's Gods, Divinity in Maya Art exhibition emphasizes the relationships among divine beings, royal authority and the material world. Rulers could embody or invoke sacred powers through costume and ceremony. Names and meanings reconstructed from later sources require care when applied to much earlier images. [Metropolitan Museum of Art: Gods, Divinity in Maya Art](https://www.metmuseum.org/exhibitions/gods-divinity-maya-art/visiting-guide)",
+      "Maize offers a particularly clear connection between subsistence and sacred imagery. A sculpted maize deity in the British Museum uses features recalling the plant itself, including its growing form. Such art joined a staple crop to ideas of life and renewal. A harvest was both a material necessity and an event interpreted within a larger moral and cosmic order. [British Museum: Maya maize god sculpture](https://www.britishmuseum.org/collection/object/E_Am1923-Maud-8)",
+      "Other divine figures expressed forces on which daily life depended. Chahk, also spelled Chaak, is associated with rain; K'inich Ajaw is a solar deity. Museum collections preserve depictions identified through distinctive attributes and inscriptions. These beings could have complex and overlapping aspects, so a modern label such as “rain god” is a useful introduction rather than a complete explanation. [Metropolitan Museum of Art: Plate with the god Chahk](https://www.metmuseum.org/art/collection/search/718242) [Princeton University Art Museum: Head of K’inich Ajaw](https://artmuseum.princeton.edu/art/collections/objects/55772)",
+      "### What does the evidence show about human sacrifice?",
+      "Ritual bloodletting and human sacrifice are documented, but they should not be collapsed into one practice or used to characterize every Maya person. Yaxchilán's Lintel 24 depicts Lady Xook performing a bloodletting rite. Its visual detail provides evidence of royal self-sacrifice and ceremonial obligation, not a statistical measure of violence throughout Maya society. [British Museum: Storytelling and the Yaxchilan lintels](https://www.britishmuseum.org/blog/history-storytelling-through-pictures)",
+      "A 2024 ancient-DNA study examined the remains of 64 children from an underground chamber at Chichén Itzá. All sampled individuals were male, and the researchers identified close relatives, including two pairs of identical twins. The archaeological context and biological findings informed an interpretation of ritual sacrifice. They do not justify assuming the same victim profile at every Maya site, and DNA alone does not establish an individual's precise manner of death. [Barquera and colleagues, Nature: Ancient genomes reveal insights into ritual life at Chichen Itza](https://www.nature.com/articles/s41586-024-07509-7)",
+      "The chamber is also distinct from the Sacred Cenote, a difference that matters when retelling the discovery. Mexico's National Institute of Anthropology and History explains the study in its site-specific context. Respectful history can acknowledge violence without turning archaeological remains into spectacle or pretending that one burial deposit explains an entire religion. [INAH: Genomic study of children and twins at Chichen Itza](https://www.inah.gob.mx/boletines/ninos-y-gemelos-eran-sacrificados-en-chichen-itza-revela-estudio-de-genomas-antiguos)",
+      "## MAYA WRITING: WHEN THE GLYPHS BECAME VOICES",
+      "Maya writing combines signs representing words with signs representing syllables. It records language rather than merely a sequence of pictures. Spelling could be flexible, and scribes could render related information in different graphic forms. Decipherment therefore involves patterns, grammar and context as well as identifying individual signs. [University of Bonn, Text Database and Dictionary of Classic Mayan: Maya Writing](https://classicmayan.org/portal/doc/133)",
+      "Modern decipherment was a cumulative achievement. Phonetic approaches associated with Yuri Knorozov helped establish how syllabic signs worked. Tatiana Proskouriakoff's recognition of patterns involving rulers' lives helped demonstrate that inscriptions recorded history, not only astronomical or ritual cycles. Subsequent work has continually refined readings rather than delivering one final translation of every surviving text. [Tulane University: Later developments in decipherment](https://exhibits.tulane.edu/exhibit/the-decipherment-of-mesoamerican-writing/later-developments/) [Penn Museum: Tatiana Proskouriakoff](https://www.penn.museum/sites/expedition/the-accidental-mayanist-tatiana-proskouriakoff/)",
+      "This changed the ancient Maya from anonymous pyramid builders into people whose names, political relationships and ambitions could sometimes be recovered. It also made the limits of the archive clearer. A text commissioned by a ruler is unlikely to give equal attention to a farmer's bad harvest, a craftworker's negotiations or the experience of a defeated community. Excavation supplies evidence that courtly writing omits.",
+      "### Painted ceramics and the surviving books",
+      "Painted vessels preserve scenes, inscriptions and traces of highly skilled workshops. Studying the complete surface of a cylindrical pot, rather than a single photograph of its front, can reveal relationships among figures and text. Maya art was a narrative medium as well as an object of exchange and display. [Metropolitan Museum of Art: Unrolling Maya Ceramic Canvases](https://www.metmuseum.org/es/perspectives/unrolling-maya-ceramic-canvases)",
+      "The surviving pre-Hispanic Maya book corpus is extraordinarily small. The Dresden, Madrid and Paris codices and the Códice Maya de México preserve folded manuscript traditions otherwise largely lost. The fourth manuscript, formerly called the Grolier Codex, underwent prolonged scholarly scrutiny before its authenticity gained broad support. Its difficult history is a reminder that provenance, physical materials and imagery must be assessed together. [Brown University: Research on the fourth Maya codex](https://www.brown.edu/news/2016-09-07/mayacodex)",
+      "## THE MAYA AND ZERO",
+      "The Maya used zero within a positional numerical tradition developed independently in Mesoamerica. A dot represents one and a bar five; a distinct sign can indicate zero. Position changes numerical value, allowing a small set of symbols to record large quantities. This is a major mathematical achievement, but it does not mean the Maya invented every concept of zero used anywhere in the world. [Simon Martin, Penn Museum: Maya Calendars](https://www.penn.museum/sites/expedition/maya-calendars/)",
+      "“Who invented zero?” hides several questions: an empty position in a numeral, a written symbol and a number with defined arithmetic properties are not identical developments. Scholarship on Mesoamerican notation examines how its systems worked on their own terms. Comparing Maya, Babylonian and Indian traditions is more informative than awarding one civilization exclusive ownership of a concept with multiple histories. [Rojo-Garibaldi and colleagues, Heliyon: Positional representation and the Mesoamerican discovery of zero](https://arxiv.org/abs/2005.10207)",
+      "The distinction also helps when comparing ancient civilizations. PRESDA's [Sumerians article](/articles/sumerians-first-cities-cuneiform-civilization/) explores a separate development of writing and administration in Mesopotamia. Similar practical problems could produce different systems; resemblance alone does not demonstrate contact.",
+      "## HOW DID THE MAYA CALENDAR WORK?",
+      "The Maya used several interlocking counts, not one calendar with one purpose. The Tzolk'in combines 13 numbers with 20 day names to produce a 260-day cycle. The Haab' has 18 periods of 20 days plus five additional days, totaling 365. Their combination repeats after 18,980 days, or 52 Haab' years, a cycle commonly called the Calendar Round. Living Maya daykeeping traditions also remind us that calendars belong to communities, not just museum diagrams. [Smithsonian: The Maya Calendar System](https://maya.nmai.si.edu/calendar/calendar-system)",
+      "The Long Count records elapsed days in larger units. A k'in is one day; a winal 20 days; a tun 360 days; a k'atun 7,200 days; and a b'ak'tun 144,000 days. The 18-winal tun makes this a modified base-20 arrangement. Its mythological starting point is conventionally correlated with 3114 BCE; converting ancient dates to the Gregorian calendar depends on a scholarly correlation. [Penn Museum: Long Count units and correlations](https://www.penn.museum/sites/expedition/maya-calendars/)",
+      "These systems answered different needs. A ritual date could locate a day within recurring sacred patterns, while a Long Count date distinguished a particular occasion in a much longer sequence. Confusing the end of a named cycle with the end of time is like mistaking a change of millennium for the physical exhaustion of the calendar.",
+      "## HOW ADVANCED WAS MAYA ASTRONOMY?",
+      "Maya astronomers documented recurring celestial patterns and developed tables useful for anticipating events. Their achievements were observational and mathematical, intertwined with ritual concerns. They did not require telescopes, extraterrestrial instruction or knowledge of modern astrophysics.",
+      "The Dresden Codex contains tables concerning Venus and eclipses. The Saxon State and University Library, which holds the manuscript, explains the Venus table's use of a 584-day cycle and the eclipse material's attention to intervals of lunar months. An eclipse table can identify periods of possible eclipse activity without guaranteeing that an eclipse will be visible from a particular city. Celestial prediction and local visibility are different problems. [SLUB Dresden: Contents of the Dresden Maya Codex](https://www.slub-dresden.de/en/explore/manuscripts/the-dresden-maya-codex/content)",
+      "The manuscript also places astronomical material beside ritual almanacs and ceremonies. Its pages should not be separated into a modern textbook of science on one side and an irrelevant religion on the other. For its makers, celestial cycles helped organize obligations and interpret the world. The Library of Congress's digital presentation makes that combination visible in the surviving book itself. [Library of Congress: Dresden Maya Codex](https://www.loc.gov/item/2021667917/)",
+      "Evidence also predates the surviving codices. A 2012 Science paper described astronomical tables painted inside a ninth-century building at Xultún, Guatemala, including lunar calculations. They demonstrate that numerical records of celestial cycles were part of Classic-period scribal activity, not an invention confined to the last centuries before Spanish conquest. [Saturno and colleagues, Science: Ancient Maya astronomical tables from Xultun](https://pubmed.ncbi.nlm.nih.gov/22582260/)",
+      "Watching the Sun, Moon and Venus over generations allowed observers to connect repeated appearances with numerical patterns. That is remarkable enough. Claims that the Maya predicted every eclipse with modern precision, understood every planetary system or encoded all future events in pyramids go beyond the surviving evidence. A strong account distinguishes a documented table from an imaginative modern interpretation.",
+      "## DID THE MAYA REALLY PREDICT THE END OF THE WORLD IN 2012?",
+      "No credible Maya scholarship supports the claim that the Maya calendar predicted a global apocalypse in 2012. December 21, 2012 marked a major Long Count cycle completion under the commonly used correlation, not proof that Maya time stopped. The Smithsonian's Living Maya Time project was developed with Maya knowledge holders and scholars in part to correct this misunderstanding. [Smithsonian: Maya calendar and 2012 educational project](https://www.si.edu/newsdesk/releases/national-museum-american-indian-launch-website-maya-calendar-system-and-year-2012)",
+      "A significant anniversary can carry religious meaning without predicting planetary destruction. Modern apocalypse narratives combined selective references to ancient dates with ideas not demonstrated by Maya inscriptions. The responsible question is what a particular text says in its historical setting, not whether a modern fear can be fitted to its numbers.",
+      "## WHAT REALLY HAPPENED TO THE MAYA?",
+      "Many Classic Maya kingdoms in parts of the southern lowlands experienced political breakdown, reduced monument building and substantial population decline, especially during the eighth through tenth centuries. Other places followed different trajectories. “Maya collapse” is shorthand for uneven regional transformations, not the extinction of a people or one disaster across the entire Maya world.",
+      "Drought is supported by paleoclimate evidence, including records reconstructed from lakes and caves. NOAA's overview explains the relationship between dry intervals and the difficulties facing ancient Maya societies. Such records can reveal environmental pressure, but they cannot independently explain why one kingdom failed, another reorganized and people elsewhere continued farming and trading. [NOAA: Drought and the Ancient Maya Civilization](https://www.ncei.noaa.gov/sites/default/files/2021-11/7%20Drought%20and%20the%20Ancient%20Maya%20Civilization%20-%20FINAL%20OCT%202021.pdf)",
+      "Researchers compare interacting processes: conflict could disrupt cultivation and exchange; environmental degradation could make food production more vulnerable; rulers could lose legitimacy when institutions failed; families could move toward better opportunities. These are mechanisms to test against local evidence, not ingredients that must appear equally at every site. A PNAS synthesis stresses cycles of collapse and resilience rather than one terminal disappearance. [Masson, PNAS: Maya collapse cycles](https://pmc.ncbi.nlm.nih.gov/articles/PMC3494883/)",
+      "The timing of rainfall may have mattered as well as its total amount. Research on declining seasonal predictability proposes that disruption to expected growing conditions could destabilize agricultural societies. This adds a possible mechanism to the discussion rather than replacing all previous explanations with one newly discovered answer. [Braun and colleagues, Communications Earth & Environment: Seasonal predictability](https://research.tees.ac.uk/en/publications/decline-in-seasonal-predictability-potentially-destabilized-class/)",
+      "Migration is part of the story because an abandoned building does not tell us that everyone who lived there died. Archaeologists must distinguish the ending of a dynasty, the reduced occupation of a city and the disappearance of a population. Different kinds of evidence answer different questions. Royal silence after the last dated monument is important, but it is not automatically silence in every household.",
+      "## THE POSTCLASSIC: HISTORY AFTER THE SUPPOSED END",
+      "Northern centers and coastal networks demonstrate that Maya history continued after the conventional end of the Classic period. Postclassic societies reorganized power, exchange and religious life. Their survival should not be treated as an appendix to the “real” Maya civilization, as though only tall pyramids and royal inscriptions made a society historically significant.",
+      "Mayapán provides an especially useful case. A 2022 Nature Communications study combined archaeological, historical and environmental evidence to investigate drought and civil conflict there. The authors also emphasized resilience through regional networks after the city's political collapse. A capital could break apart without the surrounding social world simply ending. [Kennett and colleagues, Nature Communications: Drought-induced civil conflict among the ancient Maya](https://www.nature.com/articles/s41467-022-31522-x)",
+      "## SPANISH CONQUEST, RESISTANCE AND MAYA PEOPLES TODAY",
+      "Spanish conquest was prolonged and uneven. It involved separate campaigns against distinct political communities, not the surrender of one Maya emperor. Armed resistance, negotiation and difficult terrain complicated colonial expansion. Grant D. Jones's study of the last independent Maya kingdom traces the Spanish seizure of the Itza capital at Nojpetén in 1697, long after the first sixteenth-century encounters. [Grant D. Jones, Stanford University Press: The Conquest of the Last Maya Kingdom](https://doi.org/10.1515/9780804779326)",
+      "Colonial domination brought profound disruption, but political conquest is not the same as cultural erasure. Present-day Maya communities speak languages including K'iche', Kaqchikel, Yucatec Maya and others. They are farmers, teachers, artists, professionals and people living in towns, cities and diaspora communities. No single occupation or costume defines who is Maya. The Smithsonian's Living Maya Time resources place contemporary voices alongside archaeological knowledge. [Smithsonian: Living Maya Time resources](https://maya.nmai.si.edu/resources)",
+      "Cultural continuity also includes change. A language can acquire new vocabulary; a tradition can be adapted; a person can participate in modern national life while identifying with a Maya community. Treating Indigenous identity as authentic only when it resembles an ancient relief imposes another kind of disappearance. PRESDA's [Native Americans article](/articles/native-americans-history-indigenous-peoples/) explores the wider diversity of Indigenous nations rather than imagining a single civilization across the Americas.",
+      "## MYTH VS REALITY: MAYA CIVILIZATION",
+      "### “The Maya mysteriously vanished”",
+      "Reality: some ancient political systems and cities declined; Maya peoples survived and continue today. Ask which region, century and institution a claim describes.",
+      "### “The calendar predicted the 2012 apocalypse”",
+      "Reality: a Long Count cycle completion became the basis of a modern doomsday story. A calendar anniversary is not evidence of a prediction that Earth would end.",
+      "### “Aliens built the cities, or pyramids used supernatural technology”",
+      "Reality: excavated construction sequences, tools, materials, settlements and inscriptions connect these places to human societies. An unexplained detail is a research question, not positive evidence for extraterrestrial builders. Such claims also erase the knowledge and labor of Indigenous people.",
+      "### “All Maya cities flourished at the same time”",
+      "Reality: their histories overlap unevenly across millennia. Preclassic centers, Classic royal capitals and Postclassic trading communities cannot be compressed into a single moment.",
+      "### “The Maya were peaceful astronomers”",
+      "Reality: scholarship, agriculture and art coexisted with political rivalry, warfare and ritual violence. One aspect of a society does not cancel the others.",
+      "### “Spanish arrival instantly ended Maya civilization”",
+      "Reality: conquest unfolded through different regional histories and continued into the late seventeenth century. Colonial rule transformed Maya life, but neither that conquest nor earlier political collapses made Maya peoples extinct.",
+      "## A HISTORY THAT CONTINUES",
+      "The most revealing Maya civilization facts do not require a mystery to make them interesting. Communities organized monumental projects, cities managed water, scribes recorded spoken language and astronomers turned observation into numerical tables. Those achievements emerged from social worlds that also contained inequality, conflict and vulnerability.",
+      "The surviving ruins invite admiration. The stronger historical task is to connect them to the farmers, artisans, rulers and scholars who made them, and to the living peoples whose histories extend beyond their walls. Maya civilization is not a vanished puzzle awaiting a fantastical solution. It is a long, diverse human history that archaeology, language and contemporary voices help us understand."
+    ],
+    "references": [
+      {
+        "name": "Smithsonian National Museum of the American Indian: The Maya",
+        "url": "https://maya.nmai.si.edu/maya"
+      },
+      {
+        "name": "Penn Museum: Who Were the Maya?",
+        "url": "https://www.penn.museum/sites/expedition/who-were-the-maya/"
+      },
+      {
+        "name": "Inomata and colleagues, Nature: Monumental architecture at Aguada Fénix",
+        "url": "https://www.nature.com/articles/s41586-020-2343-4"
+      },
+      {
+        "name": "Smithsonian Tropical Research Institute: Buried snails reveal ancient land use",
+        "url": "https://stri.si.edu/story/buried-snails"
+      },
+      {
+        "name": "Penn Museum: Time of Kings and Queens",
+        "url": "https://www.penn.museum/sites/expedition/time-of-kings-and-queens/"
+      },
+      {
+        "name": "UNESCO: Tikal National Park",
+        "url": "https://whc.unesco.org/en/list/64/"
+      },
+      {
+        "name": "UNESCO: Ancient Maya City and Protected Tropical Forests of Calakmul",
+        "url": "https://whc.unesco.org/en/list/1061/"
+      },
+      {
+        "name": "UNESCO: Pre-Hispanic City and National Park of Palenque",
+        "url": "https://whc.unesco.org/en/list/411/"
+      },
+      {
+        "name": "Smithsonian: Palenque",
+        "url": "https://maya.nmai.si.edu/gallery/palenque"
+      },
+      {
+        "name": "UNESCO: Maya Site of Copan",
+        "url": "https://whc.unesco.org/en/list/129/"
+      },
+      {
+        "name": "UNESCO: Pre-Hispanic City of Chichen-Itza",
+        "url": "https://whc.unesco.org/en/list/483/"
+      },
+      {
+        "name": "UNESCO: Joya de Cerén Archaeological Site",
+        "url": "https://whc.unesco.org/en/list/675/"
+      },
+      {
+        "name": "Getty Conservation Institute: Joya de Cerén management and archaeological context",
+        "url": "https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/joya_exec_summary_eng.pdf"
+      },
+      {
+        "name": "Tankersley and colleagues, Scientific Reports: Zeolite water purification at Tikal",
+        "url": "https://www.nature.com/articles/s41598-020-75023-7"
+      },
+      {
+        "name": "Metropolitan Museum of Art: The Sacred Cenote at Chichen Itza",
+        "url": "https://www.metmuseum.org/de/perspectives/golden-kingdoms-sacred-cenote-chichen-itza"
+      },
+      {
+        "name": "Metropolitan Museum of Art: Gods, Divinity in Maya Art",
+        "url": "https://www.metmuseum.org/exhibitions/gods-divinity-maya-art/visiting-guide"
+      },
+      {
+        "name": "British Museum: Maya maize god sculpture",
+        "url": "https://www.britishmuseum.org/collection/object/E_Am1923-Maud-8"
+      },
+      {
+        "name": "Metropolitan Museum of Art: Plate with the god Chahk",
+        "url": "https://www.metmuseum.org/art/collection/search/718242"
+      },
+      {
+        "name": "Princeton University Art Museum: Head of K’inich Ajaw",
+        "url": "https://artmuseum.princeton.edu/art/collections/objects/55772"
+      },
+      {
+        "name": "British Museum: Storytelling and the Yaxchilan lintels",
+        "url": "https://www.britishmuseum.org/blog/history-storytelling-through-pictures"
+      },
+      {
+        "name": "Barquera and colleagues, Nature: Ancient genomes reveal insights into ritual life at Chichen Itza",
+        "url": "https://www.nature.com/articles/s41586-024-07509-7"
+      },
+      {
+        "name": "INAH: Genomic study of children and twins at Chichen Itza",
+        "url": "https://www.inah.gob.mx/boletines/ninos-y-gemelos-eran-sacrificados-en-chichen-itza-revela-estudio-de-genomas-antiguos"
+      },
+      {
+        "name": "University of Bonn, Text Database and Dictionary of Classic Mayan: Maya Writing",
+        "url": "https://classicmayan.org/portal/doc/133"
+      },
+      {
+        "name": "Tulane University: Later developments in decipherment",
+        "url": "https://exhibits.tulane.edu/exhibit/the-decipherment-of-mesoamerican-writing/later-developments/"
+      },
+      {
+        "name": "Penn Museum: Tatiana Proskouriakoff",
+        "url": "https://www.penn.museum/sites/expedition/the-accidental-mayanist-tatiana-proskouriakoff/"
+      },
+      {
+        "name": "Metropolitan Museum of Art: Unrolling Maya Ceramic Canvases",
+        "url": "https://www.metmuseum.org/es/perspectives/unrolling-maya-ceramic-canvases"
+      },
+      {
+        "name": "Brown University: Research on the fourth Maya codex",
+        "url": "https://www.brown.edu/news/2016-09-07/mayacodex"
+      },
+      {
+        "name": "Simon Martin, Penn Museum: Maya Calendars",
+        "url": "https://www.penn.museum/sites/expedition/maya-calendars/"
+      },
+      {
+        "name": "Rojo-Garibaldi and colleagues, Heliyon: Positional representation and the Mesoamerican discovery of zero",
+        "url": "https://arxiv.org/abs/2005.10207"
+      },
+      {
+        "name": "Smithsonian: The Maya Calendar System",
+        "url": "https://maya.nmai.si.edu/calendar/calendar-system"
+      },
+      {
+        "name": "SLUB Dresden: Contents of the Dresden Maya Codex",
+        "url": "https://www.slub-dresden.de/en/explore/manuscripts/the-dresden-maya-codex/content"
+      },
+      {
+        "name": "Library of Congress: Dresden Maya Codex",
+        "url": "https://www.loc.gov/item/2021667917/"
+      },
+      {
+        "name": "Saturno and colleagues, Science: Ancient Maya astronomical tables from Xultun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22582260/"
+      },
+      {
+        "name": "Smithsonian: Maya calendar and 2012 educational project",
+        "url": "https://www.si.edu/newsdesk/releases/national-museum-american-indian-launch-website-maya-calendar-system-and-year-2012"
+      },
+      {
+        "name": "NOAA: Drought and the Ancient Maya Civilization",
+        "url": "https://www.ncei.noaa.gov/sites/default/files/2021-11/7%20Drought%20and%20the%20Ancient%20Maya%20Civilization%20-%20FINAL%20OCT%202021.pdf"
+      },
+      {
+        "name": "Masson, PNAS: Maya collapse cycles",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3494883/"
+      },
+      {
+        "name": "Braun and colleagues, Communications Earth & Environment: Seasonal predictability",
+        "url": "https://research.tees.ac.uk/en/publications/decline-in-seasonal-predictability-potentially-destabilized-class/"
+      },
+      {
+        "name": "Kennett and colleagues, Nature Communications: Drought-induced civil conflict among the ancient Maya",
+        "url": "https://www.nature.com/articles/s41467-022-31522-x"
+      },
+      {
+        "name": "Grant D. Jones, Stanford University Press: The Conquest of the Last Maya Kingdom",
+        "url": "https://doi.org/10.1515/9780804779326"
+      },
+      {
+        "name": "Smithsonian: Living Maya Time resources",
+        "url": "https://maya.nmai.si.edu/resources"
+      }
+    ],
+    "tags": [
+      "Maya civilization",
+      "Maya history",
+      "Maya cities",
+      "Maya calendar",
+      "Maya astronomy",
+      "Maya writing",
+      "Mesoamerica"
+    ],
+    "readingTime": "18 min read",
+    "status": "published",
+    "faq": [
+      {
+        "question": "Where was Maya civilization located?",
+        "answer": "Maya civilization developed in eastern Mesoamerica, across parts of present-day Mexico, Guatemala, Belize, Honduras and El Salvador. Its communities occupied diverse highland, lowland and coastal environments."
+      },
+      {
+        "question": "Were the Maya one unified empire?",
+        "answer": "No. Maya societies included many kingdoms and city-states connected by trade, alliances, dynastic relationships and warfare. Powerful rulers could dominate regional networks without unifying the whole Maya world."
+      },
+      {
+        "question": "What happened to the Maya?",
+        "answer": "Many southern lowland kingdoms declined during the late Classic period through interacting environmental, political and military pressures. Changes were regional, not one universal disappearance. Maya peoples survived and millions live today."
+      },
+      {
+        "question": "Did the Maya predict the end of the world in 2012?",
+        "answer": "No credible scholarly evidence supports a Maya prediction of a global apocalypse in 2012. The date marked a major Long Count cycle completion under the commonly used calendar correlation."
+      },
+      {
+        "question": "How did the Maya calendar work?",
+        "answer": "Maya timekeeping combined several counts: the 260-day Tzolk'in, the 365-day Haab' and the Long Count, which recorded elapsed days in larger units. The Tzolk'in and Haab' combination repeats after 52 Haab' years."
+      },
+      {
+        "question": "Did the Maya invent zero?",
+        "answer": "The Maya used zero in an independently developed Mesoamerican positional numerical tradition. That achievement should not be confused with a claim that they invented every concept of zero for all humanity."
+      },
+      {
+        "question": "What could Maya astronomers predict?",
+        "answer": "Surviving tables document calculations involving Venus and lunar cycles, including intervals relevant to possible eclipses. Predicting an eclipse window is different from guaranteeing an eclipse visible at a particular location."
+      },
+      {
+        "question": "Are Maya and Aztec civilization the same?",
+        "answer": "No. They were distinct Mesoamerican societies with different languages and political histories. The Mexica-led Aztec Empire centered on central Mexico, while Maya societies developed farther south and east over a much longer preceding history."
+      },
+      {
+        "question": "Do Maya people still exist?",
+        "answer": "Yes. Millions of Maya people live today, including in their traditional homelands and diaspora communities. Numerous Mayan languages and evolving cultural traditions continue."
+      }
+    ]
+  },
+  {
     "id": "126",
     "slug": "history-of-alcohol-beer-wine-spirits",
     "title": "ALCOHOL: 10,000-YEAR HISTORY OF HUMANITY’S FAVORITE DRINK",
