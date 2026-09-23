@@ -54,6 +54,291 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    "id": "129",
+    "slug": "timurid-empire-timur-samarkand-history",
+    "title": "TIMURID EMPIRE: HOW SAMARKAND BECAME THE HEART OF A CONQUEROR’S WORLD",
+    "seoTitle": "Timurid Empire: Timur, Samarkand and the Renaissance",
+    "metaDescription": "Explore the Timurid Empire, Timur’s conquests, Samarkand, the Battle of Ankara, Ulugh Beg’s astronomy and the dynasty’s legacy through Babur and the Mughals.",
+    "schemaType": "Article",
+    "headlineHighlights": {
+      "red": "TIMURID EMPIRE",
+      "gold": "SAMARKAND"
+    },
+    "excerpt": "From Timur’s devastating campaigns to Samarkand’s monuments, Herat’s artists and Ulugh Beg’s observatory, the story of an empire whose culture outlasted its conquests.",
+    "category": "History",
+    "date": "2026-09-23",
+    "lastUpdated": "2026-09-23",
+    "author": "PRESDA Editorial",
+    "coverImage": "/articles/samakrand-uzbekistan-timurid-empire-asia-islam.png",
+    "coverAlt": "Editorial illustration of a mounted Timurid ruler overlooking an imagined Samarkand cityscape with blue domes, tiled portals and a market",
+    "homepageImagePosition": "50% 50%",
+    "content": [
+      "The Timurid Empire began with Timur's rise to supremacy in Central Asia in 1370. From Samarkand, he built a realm through conquest, alliances and personal authority. His descendants later sponsored an extraordinary flowering of architecture, painting, literature and astronomy, even as their territories fragmented. The conventional span of Timurid rule in its Central Asian and Iranian heartlands is approximately 1370–1507.",
+      "Samarkand gives that history a visible form. Vast portals, blue tilework and domes made royal ambition architectural. But the city's brilliance had a troubling foundation: resources and skilled people were drawn from conquered lands, sometimes by force. To understand the Timurid world, its achievements and its victims have to occupy the same history. [Metropolitan Museum of Art: The Art of the Timurid Period](https://www.metmuseum.org/pt/essays/the-art-of-the-timurid-period-ca-1370-1507)",
+      "This was not one ruler's uninterrupted golden age. Timur's campaigns, Shah Rukh's government, Ulugh Beg's observatory and the literary courts of later Herat belonged to different moments. Their connections explain why the dynasty's cultural influence outlasted its political strength.",
+      "The supplied hero is an imaginative editorial illustration of a ruler and Samarkand-inspired architecture. It is not a contemporary portrait of Timur or a reconstruction of the city at one historical date.",
+      "## WHO WAS TIMUR?",
+      "Timur, also known in European tradition as Tamerlane, was a Muslim conqueror from the Barlas, a group of Mongol origin that had become culturally and linguistically Turkicized. Born near Kesh, today's Shahrisabz in Uzbekistan, he rose within the fractured political world inherited from the Chagatai khanate. His birth is conventionally dated to 1336. [Encyclopaedia Iranica: Central Asia in the Mongol and Timurid Periods](https://www.iranicaonline.org/articles/central-asia-v/)",
+      "Calling him simply Mongol, Turk or Persian obscures the combination. His political inheritance was Turco-Mongol, his religion was Islam, and Persian culture became central to his dynasty's courts. These overlapping affiliations did not correspond neatly to modern national borders or identities.",
+      "Timur was not a direct descendant of Genghis Khan. Marriage into a Chinggisid family and the use of nominal khans helped him operate within a political tradition that gave exceptional prestige to Genghis Khan's lineage. He could exercise power as amir without personally becoming a Chinggisid khan. The earlier foundations of this world are explored in PRESDA's [history of the Mongol Empire](/articles/mongol-empire-genghis-khan-conquests-legacy/).",
+      "### How did he rise to power?",
+      "Timur first advanced through service, alliances and rivalry among competing military leaders. His partnership with Amir Husayn eventually broke down; Husayn's defeat in 1370 left Timur dominant in Transoxiana, the region beyond the Amu Darya as viewed from Iran. He established Samarkand as his capital, but his court retained mobile and tented traditions as well as monumental urban settings. [Encyclopaedia Iranica: Courts and Courtiers under the Timurid and Turkman Dynasties](https://www.iranicaonline.org/articles/courts-and-courtiers-v/)",
+      "The combination mattered. A city could concentrate wealth, ceremony and administration while a ruler continued moving with soldiers and dependents. The Timurid state was not a modern bureaucracy operating uniformly across fixed borders. Authority depended on relationships among the ruling family, military commanders, local elites and officials whose cooperation had to be maintained.",
+      "## WHY WAS SAMARKAND SO IMPORTANT?",
+      "Samarkand offered Timur an established urban center in his Central Asian homeland, access to regional exchange networks and a prestigious setting for imperial display. It was already ancient: Timur transformed the city rather than founding it. UNESCO recognizes the layered history of ancient Afrasiab, the Timurid city and later urban development. [UNESCO: Samarkand, Crossroad of Cultures](https://whc.unesco.org/en/list/603/)",
+      "A capital could turn conquest into something visible and durable. Workshops, religious buildings, markets and gardens brought people into spaces ordered around royal power. Monumental scale told visitors that the resources of distant regions could be assembled here. Samarkand became both a functioning city and an argument about the ruler's importance.",
+      "The transformation also imposed costs locally. University of Washington historian Daniel Waugh discusses the Castilian envoy Ruy González de Clavijo's account of a new market street cut through the city. Homes were demolished to make way for it, and residents had to leave. Urban improvement, as celebrated by a royal court, could mean sudden dispossession to the people in its path. [University of Washington, Silk Road Seattle: Samarkand](https://depts.washington.edu/silkroad/cities/uz/samarkand/samarkand.html)",
+      "### A visitor to the conqueror's court",
+      "Clavijo reached Samarkand in 1404 as an ambassador from Castile. His journey records the diplomatic reach of Timur's court and the practical difficulties of crossing the distances separating western Europe from Central Asia. It is a valuable outside perspective, though a visitor's account is shaped by the people he meets, what he can understand and what his hosts choose to show. [Encyclopaedia Iranica: Ruy Gonzalez de Clavijo](https://www.iranicaonline.org/articles/clavijo-ruy-gonzlez-de-d/)",
+      "Courtly life extended into gardens and tent pavilions. Waugh's discussion of Clavijo shows a political world in which temporary structures, outdoor receptions and formal hospitality coexisted with permanent palaces and religious buildings. The city cannot be understood only through the monuments that survive; much of the spectacle was movable, seasonal and performative. [University of Washington: Tamerlane’s Samarkand through Clavijo](https://depts.washington.edu/silkroad/lectures/wulec5.html)",
+      "## THE SILK ROAD ECONOMY: TRADE, TAXATION AND COERCION",
+      "The Silk Roads were networks of routes rather than one highway that a conqueror could simply own. Timur sought to strengthen exchange and enrich Transoxiana, but trade depended on transport, security, markets and the productive countryside. The benefits were uneven: a capital could gain goods and workers while a defeated region lost them. [Encyclopaedia Iranica: Economy in the Timurid Period](https://www.iranicaonline.org/articles/economy-vi-in-the-timurid-period/)",
+      "Timurid economic history therefore includes more than caravans carrying luxury goods. Agriculture, irrigation, taxation and administrative practice supplied the resources on which courts depended. Under Shah Rukh, officials worked to regularize fiscal administration. Commercial exchange and coercive extraction were not mutually exclusive systems; they could operate together within the same empire.",
+      "The movement of expertise was similarly complicated. Artists might seek patronage, while others arrived because a victorious ruler ordered their relocation. To describe every transfer as cultural exchange would conceal force. To describe every migrant as a captive would erase other motives and later choices. The evidence needs to be considered case by case.",
+      "## HOW DID TIMUR BUILD HIS EMPIRE?",
+      "Timur expanded from Transoxiana through repeated campaigns rather than one continuous advance. He attacked neighboring powers, compelled submissions and redistributed authority among relatives and commanders. Victories could produce tribute or temporary dominance without the stable integration implied by a modern map colored in a single imperial shade.",
+      "His campaigns brought much of Iran and neighboring regions under his power, but local rulers and rival coalitions remained important. The conquest of Herat in 1381 formed part of the advance into Khorasan. Subsequent wars reached farther west, while conflicts with the Golden Horde extended his military activity northward. The chronological account preserved in scholarship on Ibn Arabshah follows this widening field of conquest. [Encyclopaedia Iranica: Ibn Arabshah’s history of Timur](https://www.iranicaonline.org/articles/ajaeb-al-maqdur/)",
+      "Military success required organization as well as violence: armies had to move, secure supplies, maintain alliances and persuade opponents that resistance was dangerous. Beatrice Forbes Manz's study treats Timur's rise as a problem of political leadership and the creation of a conquest dynasty, not merely a succession of battlefield anecdotes. [Beatrice Forbes Manz, Cambridge University Press: The Rise and Rule of Tamerlane](https://assets.cambridge.org/97805216/33840/excerpt/9780521633840_excerpt.pdf)",
+      "### Persia: submission and exemplary punishment",
+      "Isfahan illustrates the destructive side of the system. In 1387, an uprising against Timur's tax collectors was followed by a massacre ordered against the inhabitants. Encyclopaedia Iranica traces the episode through historical sources while also placing it within the city's longer disruption. The famous casualty totals are reported figures from chronicles, not a modern demographic count, and should not be repeated as exact measurements. [Encyclopaedia Iranica: Isfahan in the Medieval Period](https://www.iranicaonline.org/articles/isfahan-vi-medieval-period/)",
+      "Such punishment was meant to make an example of a city. That strategic purpose does not diminish its human consequences. Families lost members, property was destroyed, and surviving communities faced demands imposed by the same power that had devastated them. The term conquest can compress these experiences into a neat change of ruler; the sources reveal something much harsher.",
+      "### India: the sack of Delhi",
+      "Timur invaded northern India in 1398 and sacked Delhi. This was a catastrophic campaign against the Delhi Sultanate, not the foundation of the later Mughal Empire. A recent Cambridge study emphasizes that he did not incorporate northern India into his domains as a durable territorial possession. [Cambridge, Itinerario: India, Iran and Timur’s campaigns in wider context](https://doi.org/10.1017/S0165115326100825)",
+      "The damage extended beyond buildings and immediate battlefield losses. Scholarship on Indo-Persian historiography notes the contraction of literary patronage following the invasion. This is one way to see the wider effects of violence: institutions and livelihoods could be disrupted long after soldiers departed. [Encyclopaedia Iranica: Indo-Persian Historiography](https://www.iranicaonline.org/articles/india-xvi-indo-persian-historiography/)",
+      "### Syria: displacement behind the capital's brilliance",
+      "Timur's western campaigns reached Syria, where Damascus fell in 1401. Among those taken to Samarkand was the young Ibn Arabshah and his family. He later wrote a deeply hostile history of the conqueror. His biography gives the forced movement of people a name and a trajectory rather than leaving it as an anonymous contribution to the capital's cultural wealth. [Encyclopaedia Iranica: Ibn Arabshah](https://www.iranicaonline.org/articles/ebn-arabsah/)",
+      "Hostility does not make a source useless, just as royal patronage does not make a court chronicle wholly false. Historians compare accounts, ask why authors wrote and distinguish a documented event from an elaborate anecdote. The same discipline is essential when accounts of Timur circulate online stripped of attribution.",
+      "## TIMUR VS THE OTTOMAN EMPIRE: WHAT HAPPENED AT ANKARA?",
+      "Timur defeated Ottoman sultan Bayezid I near Ankara in July 1402 and captured him. The battle shattered Bayezid's position but did not permanently destroy the Ottoman dynasty. It was a struggle between rival imperial powers with overlapping ambitions in Anatolia, not a simple confrontation between different religions. [TDV Encyclopaedia of Islam: Battle of Ankara](https://islamansiklopedisi.org.tr/ankara-savasi)",
+      "Disputes over regional rulers, territory and political fugitives helped bring the two sides into conflict. Timur's success combined maneuver with weaknesses in the Ottoman coalition. Accounts describe contingents changing sides during the battle, illustrating why an army's political composition could matter as much as its weapons. Precise army sizes vary between sources and are not necessary to explain the outcome.",
+      "Afterward, Anatolian principalities regained territory and Bayezid's sons competed for power. The Ottoman interregnum lasted from 1402 to 1413, ending with Mehmed I's supremacy. The empire recovered, a crucial qualification to the popular claim that Timur ended Ottoman history at Ankara. [TDV Encyclopaedia of Islam: The Ottoman Interregnum](https://islamansiklopedisi.org.tr/fetret-devri)",
+      "PRESDA's [rise and fall of the Ottoman Empire](/articles/ottoman-empire-rise-and-fall/) follows that recovery and the dynasty's much longer history. Ankara was a profound interruption in that story. It was not its conclusion.",
+      "## 1405: THE CONQUEROR DIES, THE DYNASTY CONTINUES",
+      "Timur died at Otrar in 1405 while preparing an expedition against Ming China. The campaign never became the conquest he intended. His death exposed a central weakness of a realm held together by personal command: succession required other people to accept a new distribution of authority. [Encyclopaedia Iranica: Otrar](https://www.iranicaonline.org/articles/otrar/)",
+      "The transition was contested. Khalil Sultan took power in Samarkand, while Shah Rukh, Timur's son, established himself more broadly over the following years. By 1409, Shah Rukh had consolidated his position; Herat became his principal center, and Ulugh Beg governed in Samarkand. The empire's geography and style of rule changed. [Encyclopaedia Iranica: Herat in the Medieval Period](https://www.iranicaonline.org/articles/herat-iii/)",
+      "This is why Timur's death should not be treated as the disappearance of every institution he had shaped. Nor did his successors simply preserve his empire unchanged. They governed a reduced and shifting political world in which different branches of the family could cooperate, compete and sponsor rival courts.",
+      "## SAMARKAND'S ARCHITECTURE: MAKING POWER VISIBLE",
+      "Timurid architecture used towering entrance portals, domes, minarets and richly colored surfaces to produce an overwhelming effect. Religious commissions were also political statements, placing patrons within sacred landscapes and publicly demonstrating their access to resources. The Bibi-Khanum Mosque and Gur-i Amir mausoleum are among the principal monuments associated with Timur's period.",
+      "The Bibi-Khanum Mosque was constructed around the turn of the fifteenth century, following the Indian campaign. Its scale expressed imperial ambition, but monumental building also depended on engineering decisions, specialist labor and continuing maintenance. Famous buildings should be understood as projects made by people, not as the effortless manifestation of one ruler's will. [University of Washington: Bibi Khanum Mosque](https://depts.washington.edu/silkroad/cities/uz/samarkand/bibi.html)",
+      "Gur-i Amir became the dynastic mausoleum containing Timur's tomb. Its place in the city tied burial to imperial memory: the conqueror's body remained in Samarkand even when descendants ruled from elsewhere. Such monuments helped make the dynasty present across generations.",
+      "### Was today's Registan built by Timur?",
+      "No. The Registan's surviving ensemble belongs to different periods. Ulugh Beg's madrasa is fifteenth-century Timurid, while the Sher-Dor and Tilla-Kari madrasas are seventeenth-century additions. Treating the whole square as Timur's personal creation erases the later rulers and builders who transformed it. [UNESCO, History of Civilizations of Central Asia: Architecture](https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/vol_V%20silk%20road_architecture%20BIS.pdf)",
+      "Samarkand is therefore a layered historical city, not a preserved stage set from 1400. Repair, reconstruction and later construction affect what visitors see. Its beauty is real, but individual monuments need their own chronology.",
+      "## WHAT WAS THE TIMURID RENAISSANCE?",
+      "The Timurid Renaissance describes a flowering of arts, literature, architecture and scholarship under Timur's descendants, especially in fifteenth-century Samarkand and Herat. It is a useful modern label for cultural production, not evidence that the region had previously lacked learning or that its history followed the same path as Renaissance Italy.",
+      "Herat was central. Royal and elite patrons supported workshops in which calligraphers, painters, illuminators and other specialists collaborated on books. Baysunghur, a son of Shah Rukh, was both a patron and a skilled calligrapher. His mother, Gawhar Shad, sponsored important architecture, including her mosque at Mashhad, whose inscriptions incorporated his work. [Encyclopaedia Iranica: Baysunghur](https://www.iranicaonline.org/articles/baysongor-gia-al-din-b/)",
+      "The Baysunghur Shahnameh shows the complexity of a royal book project. Scholarship connects its paintings with workshop practices and surviving preparatory material. A beautifully illustrated manuscript was the product of coordinated expertise, resources and decisions about how text and image should work together. [Encyclopaedia Iranica: The Paintings of the Baysunghur Shahnameh](https://www.iranicaonline.org/articles/baysongori-sah-nama/baysongori-sahnama-paintings/)",
+      "Later Herat also nurtured sophisticated painting associated with Bihzad and his artistic milieu. The Metropolitan Museum's Preparation for a Feast draws attention to workers performing ordinary tasks within an elite occasion. Its interest in observed activity reminds us that court art could depict more than enthroned rulers and idealized battles. [Metropolitan Museum of Art: Preparation for a Feast, from a Divan of Jami](https://www.metmuseum.org/art/collection/search/451084)",
+      "### Languages, history and royal memory",
+      "Persian remained central to historical and literary writing, while Chaghatay Turkic developed as an important literary language, notably in the work of Ali-Shir Nava'i. This was a multilingual cultural environment. A dynasty could cultivate Persian literary forms without abandoning its Turkic speech or Turco-Mongol political inheritance.",
+      "Historical writing flourished too. Maria Szuppe's survey identifies court chronicles, genealogies, local histories and memoirs as parts of a diverse Timurid historical tradition. These works preserve indispensable evidence, but many also defended dynastic legitimacy. The reader must ask whose claim to rule a narrative was designed to support. [Maria Szuppe, Encyclopaedia Iranica: Timurid Historiography](https://www.iranicaonline.org/articles/historiography-v/)",
+      "## ULUGH BEG AND ASTRONOMY: WHY DID SAMARKAND WATCH THE SKY?",
+      "Ulugh Beg, Timur's grandson, was both a ruler and an active patron of mathematical astronomy. His Samarkand observatory brought together scholars who measured celestial positions and compiled astronomical tables. Its achievement was collaborative, involving figures such as Qadi Zada al-Rumi, Jamshid al-Kashi and Ali Qushji. [Benno van Dalen, Islamic Scientific Manuscripts Initiative: Ulugh Beg](https://ismi.mpiwg-berlin.mpg.de/biography/Ulugh_Beg_BEA.htm)",
+      "The observatory's great masonry instrument made angular measurement possible on an exceptionally large scale. This was pre-telescopic astronomy: accuracy came from instruments, repeated observations and mathematical calculation. The resulting zij, an astronomical handbook with tables, combined observational work with inherited methods rather than replacing the entire earlier science of the heavens.",
+      "Letters by al-Kashi help illuminate the intellectual environment. They describe a ruler capable of participating in mathematical discussion, rather than merely paying others to work. The University of St Andrews' historical account places these achievements within Ulugh Beg's complicated political life. [University of St Andrews, MacTutor: Ulugh Beg](https://mathshistory.st-andrews.ac.uk/Biographies/Ulugh_Beg/)",
+      "Astronomy's development also depended on transmission across generations and regions. UNESCO's overview of astronomy along the Silk Roads places Samarkand within a much longer exchange of knowledge. The observatory was a major achievement within that history, not the invention of astronomy from nothing. [UNESCO: Evolution of Astronomy along the Silk Roads](https://www.unesco.org/en/articles/evolution-astronomy-along-silk-roads)",
+      "Ulugh Beg's scholarship did not secure his political position. After Shah Rukh's death in 1447, dynastic conflict intensified; Ulugh Beg was killed in 1449 on the orders of his son Abd al-Latif. Reducing this to a simple story of science defeated by religion neglects the succession struggle and political relationships involved.",
+      "## WHY DID THE TIMURID EMPIRE DECLINE?",
+      "The Timurid realm weakened through recurrent succession conflicts, competition between branches of the ruling family and pressure from neighboring powers. There was no single moment when artistic achievement suddenly failed to sustain an otherwise stable empire. Political fragmentation and cultural production often occurred simultaneously.",
+      "Fifteenth-century Timurid states were not merely shrinking copies of Timur's realm. Princes controlled different centers and pursued their own alliances and ambitions. UNESCO's scholarly history of Central Asia describes this changing political landscape, in which attempts at reunification alternated with renewed division. [UNESCO: The Timurid States in the Fifteenth and Sixteenth Centuries](https://ru.unesco.org/silkroad/sites/default/files/knowledge-bank-article/vol_IVa%20silk%20road_the%20timurid%20states%20in%20the%20fifteenth%20and%20sixteenth%20centuries.pdf)",
+      "Uzbek expansion under Muhammad Shaybani transformed the balance in the early sixteenth century. The loss of major Timurid centers, culminating in Herat's fall in 1507, marks the conventional end of the dynasty's rule in its principal Central Asian and Khorasan territories. Yet a descendant of Timur was already seeking power farther south. Political defeat in one region did not extinguish the family everywhere.",
+      "## FROM TIMUR TO THE MUGHAL EMPIRE",
+      "Babur, founder of the Mughal Empire, descended from Timur through his father and from Genghis Khan through his mother. His early career was shaped by struggles for Ferghana and Samarkand. After repeated reversals, he took Kabul in 1504; victory over Ibrahim Lodi at Panipat in 1526 established the foundation of Mughal power in northern India. [Encyclopaedia Iranica: Babur](https://www.iranicaonline.org/articles/babor-zahir-al-din/)",
+      "This was dynastic continuity through political reinvention. Babur did not simply inherit Timur's Indian province, because Timur's invasion had not created such a lasting possession. He built a new position through fresh campaigns, alliances and resources in a different setting.",
+      "The Mughals carried Timurid ideas into South Asia while developing an imperial culture shaped by local societies and other influences. The Metropolitan Museum traces combinations of Central Asian, Iranian and Indian traditions in early Mughal art and architecture. Calling Mughal culture merely transplanted Timurid culture would miss this creative adaptation. [Metropolitan Museum of Art: The Art of the Mughals before 1600](https://www.metmuseum.org/de/essays/the-art-of-the-mughals-before-1600)",
+      "Gardens offer a particularly clear connection. Scholarship on Persian garden traditions identifies Babur as an important carrier of Timurid garden forms into the subcontinent. Ordered water, planting and enclosure could give physical expression to rulership and remembered landscapes. [Encyclopaedia Iranica: The Influence of Persian Gardens in India](https://www.iranicaonline.org/articles/garden-iii/)",
+      "Babur's memoirs supplied another kind of inheritance. Written in Turki, they were translated into Persian under his grandson Akbar. Surviving illustrated manuscripts reveal how later Mughal patrons preserved and reinterpreted the founder's story, making family memory part of imperial culture. [Metropolitan Museum of Art: Emperor Babur Receiving a Visitor](https://www.metmuseum.org/art/collection/search/451959)",
+      "## MYTH VS REALITY: THE TIMURID EMPIRE",
+      "Myth: Timur was Genghis Khan's direct descendant. Reality: he claimed legitimacy through marriage and political association with the Chinggisid tradition. Babur's maternal descent from Genghis Khan is a separate genealogical connection.",
+      "Myth: Timur permanently ruled every place his armies reached. Reality: campaigns could result in plunder, tribute, temporary submission or direct rule. These outcomes should not be treated as identical.",
+      "Myth: Ankara ended the Ottoman Empire. Reality: it caused a major crisis and a succession struggle, but the dynasty recovered under Mehmed I.",
+      "Myth: all of Samarkand's famous buildings belong to Timur. Reality: the city's monuments span many centuries. Even the Registan's three celebrated madrasas were not built in the same period.",
+      "Myth: the Timurid Renaissance was solely Timur's personal achievement. Reality: descendants, royal women, administrators, scholars and craftspeople sustained cultural activity across several courts. Herat was essential to that history.",
+      "Myth: artistic patronage cancels out the violence of conquest. Reality: the same political world could produce magnificent buildings and devastating campaigns. Some of the movement of skills and wealth that enriched capitals was involuntary.",
+      "Myth: exact modern-looking totals tell us how many people Timur killed. Reality: chronicles document serious violence, but reported numbers and empire-wide estimates require scrutiny. Rejecting false precision does not mean denying the destruction.",
+      "## SAMARKAND AND THE TIMURID LEGACY",
+      "The dynasty's legacy is unusually visible: monuments, manuscripts, astronomical tables and the family traditions of later empires all preserve parts of its world. They do not tell the same story. A royal tomb celebrates legitimacy; a displaced writer remembers coercion; a scientific manuscript preserves work that could travel beyond the court that supported it.",
+      "Samarkand became the heart of Timur's world because he concentrated power there, but that world was made by far more people than its conqueror. Reading its monuments beside its histories allows admiration without forgetting the cost. The Timurid achievement becomes more intelligible, and more human, when both remain in view."
+    ],
+    "references": [
+      {
+        "name": "Metropolitan Museum of Art: The Art of the Timurid Period",
+        "url": "https://www.metmuseum.org/pt/essays/the-art-of-the-timurid-period-ca-1370-1507"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Central Asia in the Mongol and Timurid Periods",
+        "url": "https://www.iranicaonline.org/articles/central-asia-v/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Courts and Courtiers under the Timurid and Turkman Dynasties",
+        "url": "https://www.iranicaonline.org/articles/courts-and-courtiers-v/"
+      },
+      {
+        "name": "UNESCO: Samarkand, Crossroad of Cultures",
+        "url": "https://whc.unesco.org/en/list/603/"
+      },
+      {
+        "name": "University of Washington, Silk Road Seattle: Samarkand",
+        "url": "https://depts.washington.edu/silkroad/cities/uz/samarkand/samarkand.html"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Ruy Gonzalez de Clavijo",
+        "url": "https://www.iranicaonline.org/articles/clavijo-ruy-gonzlez-de-d/"
+      },
+      {
+        "name": "University of Washington: Tamerlane’s Samarkand through Clavijo",
+        "url": "https://depts.washington.edu/silkroad/lectures/wulec5.html"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Economy in the Timurid Period",
+        "url": "https://www.iranicaonline.org/articles/economy-vi-in-the-timurid-period/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Ibn Arabshah’s history of Timur",
+        "url": "https://www.iranicaonline.org/articles/ajaeb-al-maqdur/"
+      },
+      {
+        "name": "Beatrice Forbes Manz, Cambridge University Press: The Rise and Rule of Tamerlane",
+        "url": "https://assets.cambridge.org/97805216/33840/excerpt/9780521633840_excerpt.pdf"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Isfahan in the Medieval Period",
+        "url": "https://www.iranicaonline.org/articles/isfahan-vi-medieval-period/"
+      },
+      {
+        "name": "Cambridge, Itinerario: India, Iran and Timur’s campaigns in wider context",
+        "url": "https://doi.org/10.1017/S0165115326100825"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Indo-Persian Historiography",
+        "url": "https://www.iranicaonline.org/articles/india-xvi-indo-persian-historiography/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Ibn Arabshah",
+        "url": "https://www.iranicaonline.org/articles/ebn-arabsah/"
+      },
+      {
+        "name": "TDV Encyclopaedia of Islam: Battle of Ankara",
+        "url": "https://islamansiklopedisi.org.tr/ankara-savasi"
+      },
+      {
+        "name": "TDV Encyclopaedia of Islam: The Ottoman Interregnum",
+        "url": "https://islamansiklopedisi.org.tr/fetret-devri"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Otrar",
+        "url": "https://www.iranicaonline.org/articles/otrar/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Herat in the Medieval Period",
+        "url": "https://www.iranicaonline.org/articles/herat-iii/"
+      },
+      {
+        "name": "UNESCO, History of Civilizations of Central Asia: Architecture",
+        "url": "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/vol_V%20silk%20road_architecture%20BIS.pdf"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Baysunghur",
+        "url": "https://www.iranicaonline.org/articles/baysongor-gia-al-din-b/"
+      },
+      {
+        "name": "Encyclopaedia Iranica: The Paintings of the Baysunghur Shahnameh",
+        "url": "https://www.iranicaonline.org/articles/baysongori-sah-nama/baysongori-sahnama-paintings/"
+      },
+      {
+        "name": "Metropolitan Museum of Art: Preparation for a Feast, from a Divan of Jami",
+        "url": "https://www.metmuseum.org/art/collection/search/451084"
+      },
+      {
+        "name": "Maria Szuppe, Encyclopaedia Iranica: Timurid Historiography",
+        "url": "https://www.iranicaonline.org/articles/historiography-v/"
+      },
+      {
+        "name": "Benno van Dalen, Islamic Scientific Manuscripts Initiative: Ulugh Beg",
+        "url": "https://ismi.mpiwg-berlin.mpg.de/biography/Ulugh_Beg_BEA.htm"
+      },
+      {
+        "name": "University of St Andrews, MacTutor: Ulugh Beg",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ulugh_Beg/"
+      },
+      {
+        "name": "UNESCO: Evolution of Astronomy along the Silk Roads",
+        "url": "https://www.unesco.org/en/articles/evolution-astronomy-along-silk-roads"
+      },
+      {
+        "name": "UNESCO: The Timurid States in the Fifteenth and Sixteenth Centuries",
+        "url": "https://ru.unesco.org/silkroad/sites/default/files/knowledge-bank-article/vol_IVa%20silk%20road_the%20timurid%20states%20in%20the%20fifteenth%20and%20sixteenth%20centuries.pdf"
+      },
+      {
+        "name": "Encyclopaedia Iranica: Babur",
+        "url": "https://www.iranicaonline.org/articles/babor-zahir-al-din/"
+      },
+      {
+        "name": "Metropolitan Museum of Art: The Art of the Mughals before 1600",
+        "url": "https://www.metmuseum.org/de/essays/the-art-of-the-mughals-before-1600"
+      },
+      {
+        "name": "Encyclopaedia Iranica: The Influence of Persian Gardens in India",
+        "url": "https://www.iranicaonline.org/articles/garden-iii/"
+      },
+      {
+        "name": "Metropolitan Museum of Art: Emperor Babur Receiving a Visitor",
+        "url": "https://www.metmuseum.org/art/collection/search/451959"
+      },
+      {
+        "name": "University of Washington: Bibi Khanum Mosque",
+        "url": "https://depts.washington.edu/silkroad/cities/uz/samarkand/bibi.html"
+      }
+    ],
+    "tags": [
+      "Timurid Empire",
+      "Timur",
+      "Tamerlane",
+      "Samarkand",
+      "Timurid Renaissance",
+      "Ulugh Beg",
+      "Battle of Ankara",
+      "Babur",
+      "Mughal Empire"
+    ],
+    "readingTime": "15 min read",
+    "status": "published",
+    "faq": [
+      {
+        "question": "Who founded the Timurid Empire?",
+        "answer": "Timur, also known as Tamerlane, founded the empire after becoming dominant in Transoxiana in 1370. He made Samarkand his capital."
+      },
+      {
+        "question": "Why was Samarkand important to Timur?",
+        "answer": "Samarkand combined an established urban center, regional exchange networks and a location in Timur’s Central Asian homeland. He concentrated resources, monumental construction and skilled labor there to express imperial power."
+      },
+      {
+        "question": "Did Timur defeat the Ottoman Empire?",
+        "answer": "He defeated Sultan Bayezid I at Ankara in July 1402 and captured him. The defeat triggered the Ottoman interregnum, but the dynasty recovered rather than disappearing."
+      },
+      {
+        "question": "What was the Timurid Renaissance?",
+        "answer": "The term describes the flowering of art, literature, architecture and scholarship under Timurid patrons, particularly in fifteenth-century Herat and Samarkand. It involved many rulers, artists and scholars."
+      },
+      {
+        "question": "What did Ulugh Beg contribute to astronomy?",
+        "answer": "Ulugh Beg supported and participated in a collaborative program of observation and calculation at Samarkand. Its scholars produced influential astronomical tables and stellar measurements using pre-telescopic instruments."
+      },
+      {
+        "question": "When did the Timurid Empire end?",
+        "answer": "1507 is the conventional endpoint for Timurid rule in its main Central Asian and Khorasan heartlands, following Uzbek expansion and the fall of Herat. Members of the dynasty continued elsewhere, most importantly through Babur."
+      },
+      {
+        "question": "How was Babur related to Timur?",
+        "answer": "Babur descended from Timur through his father. He established Mughal power in northern India after his victory at Panipat in 1526, carrying Timurid dynastic traditions into a new political setting."
+      },
+      {
+        "question": "Was the Registan built by Timur?",
+        "answer": "Not as the complete ensemble seen today. Ulugh Beg’s madrasa dates to the fifteenth century, while the Sher-Dor and Tilla-Kari madrasas were added in the seventeenth century."
+      }
+    ]
+  },
+  {
     "id": "128",
     "slug": "kingdom-of-kush-nubia-black-pharaohs-history",
     "title": "KINGDOM OF KUSH: THE AFRICAN EMPIRE THAT CONQUERED EGYPT",
