@@ -15639,9 +15639,9 @@ export const articles: Article[] = [
     id: "068",
     slug: "self-driving-trucks-future-truck-drivers",
     title: "SELF-DRIVING TRUCKS: WILL THE MACHINES REPLACE THE PEOPLE WHO MOVE THE WORLD?",
-    seoTitle: "Self-Driving Trucks: Will Autonomous Trucks Replace Drivers? | PRESDA",
+    seoTitle: "Self-Driving Trucks: Will Autonomous Trucks Replace Drivers?",
     metaDescription:
-      "Self-driving trucks are reaching real roads. Discover how autonomous trucking works, who is leading it, whether truck drivers will lose jobs, and what happens next.",
+      "How do self-driving trucks work, and will they replace drivers? Explore Aurora, Torc Robotics, driverless freight, safety limits and the future of trucking jobs.",
     headlineHighlights: {
       red: "SELF-DRIVING TRUCKS",
       gold: "REPLACE THE PEOPLE"
@@ -15650,29 +15650,31 @@ export const articles: Article[] = [
       "Driverless trucks are moving from experiments to real roads. They promise cheaper, safer and nearly continuous freight, but what happens to the people whose livelihoods depend on driving?",
     category: "AI",
     date: "2026-09-14",
-    lastUpdated: "2026-09-14",
+    lastUpdated: "2026-09-23",
     author: "PRESDA Editorial",
     coverImage: "/articles/self-driving-trucks-future-truck-drivers.png",
     coverAlt:
       "A truck driver watches two futuristic autonomous trucks travel along a highway at night.",
     homepageImagePosition: "50% 50%",
     content: [
-      "On September 14, 2026, Pony.ai used IAA Transportation in Hanover to unveil a new Level 4 electric robotruck developed with GAC. The company said mass production was planned for 2026, that it already operated hundreds of autonomous trucks in China including some without human drivers, and that Europe and the Middle East were future target markets.",
+      "Self-driving trucks use automated driving systems to move freight. Driverless Level 4 trucks can handle the driving task within defined routes and conditions, but they cannot drive everywhere. Some already carry commercial loads; others remain in testing. They can replace driving on particular journeys without replacing every part of a truck driver's job.",
+      "On September 14, 2026, [Pony.ai announced a Level 4 electric robotruck developed with GAC Commercial Vehicle](https://blog.pony.ai/pony-ai-unveils-new-gen-4-robotruck-in-collaboration-with-gac-commercial-vehicle/) at IAA Transportation in Hanover. Built on GAC's T9 battery-electric platform, it was scheduled for volume production later in 2026. The announcement also described plans to enter Europe and the Middle East over the following two years. Those were company plans, not completed deployments.",
       "That announcement matters because it captures the moment self-driving trucks are leaving the realm of futuristic trade-show fantasy and entering the uncomfortable world of labor, law, insurance, logistics and public roads.",
       "A driverless truck is not just another AI demo. It is a machine weighing tens of thousands of kilograms, moving at highway speed, making decisions in weather, traffic, darkness and emergencies.",
       "The promise is enormous: cheaper freight, fewer fatigue-related crashes, trucks that can operate for longer hours, and supply chains that move with less friction. The anxiety is just as real: what happens to the people who have spent their lives moving the world?",
       "For more context on the global competition behind autonomy, read PRESDA's [AI Race: China vs America for Control of the World's Most Powerful Technology](/articles/us-china-ai-race-control-powerful-technology/).",
       "## What Are Self-Driving Trucks?",
       "Self-driving trucks are heavy commercial vehicles equipped with automated driving systems that can perform some or all driving tasks under defined conditions.",
+      "The terms autonomous trucks, driverless trucks and automated trucks often overlap in everyday use, but the operating details matter more than the label. A self-driving semi-truck is a tractor-trailer equipped for automated driving; an autonomous freight truck can also be a smaller delivery vehicle. Driver assistance alone does not make either vehicle driverless.",
       "The clearest way to understand them is through the SAE levels of driving automation. Level 0 means no driving automation. Level 1 includes limited assistance such as steering or speed support. Level 2 can combine steering and speed assistance, but a human driver remains responsible. Level 3 allows the system to drive in limited situations but may ask a human to take over. Level 4 can drive without human intervention inside a defined operational design domain. Level 5 would mean full automation anywhere a human could reasonably drive.",
       "Most serious autonomous-truck programs are aimed at Level 4, not Level 5.",
       "That distinction is crucial. Level 4 does not mean a truck can drive anywhere on Earth in any weather on any road. It means the system is designed to operate without a human driver only within specified conditions: certain roads, routes, speeds, maps, weather ranges, traffic environments and operational procedures.",
       "## What Is A Level 4 Autonomous Truck?",
-      "A Level 4 autonomous truck is a vehicle that can handle the driving task by itself inside its approved operating domain.",
+      "A Level 4 autonomous truck can handle the driving task and fallback without requiring a human driver within its operational design domain: the conditions for which the system is designed. [NHTSA's automation-level guide](https://www.nhtsa.gov/vehicle-safety/automated-vehicle-safety) distinguishes this from Level 2 assistance, where the human must supervise. Level 4 describes a technical capability, not blanket regulatory permission to operate on every road.",
       "For long-haul freight, that often means mapped highway corridors, hub-to-hub routes, favorable weather windows and carefully monitored operations. The truck may not be expected to navigate every city street, loading dock, mountain pass, blizzard or construction zone without limits.",
       "This is why a Level 4 truck can be genuinely driverless in one setting while still unsuitable for another.",
       "The public often imagines autonomy as a binary switch: human driver or robot driver. The real world is more layered. Autonomous trucking may arrive first as a corridor-by-corridor system, not as a nationwide overnight replacement for all drivers.",
-      "## How Do Autonomous Trucks Work?",
+      "## How Do Autonomous Trucks Work? Sensors, AI And Control",
       "A driverless truck must perceive the world, understand where it is, predict what other road users may do, plan a safe path and control steering, braking and acceleration.",
       "Systems can use cameras, radar, lidar where deployed, GPS, inertial measurement, high-definition maps, onboard computing and AI models for perception and planning. Some also rely on remote operations centers for monitoring, assistance or exception handling.",
       "The important point is not the specific sensor mix. It is redundancy. A truck cannot simply hope one sensor sees the road correctly. Heavy autonomous vehicles require overlapping ways to detect lanes, vehicles, pedestrians, obstacles, weather, construction and unusual events.",
@@ -15691,15 +15693,22 @@ export const articles: Article[] = [
       "A bad autonomous-car decision can be tragic. A bad autonomous-truck decision can involve a moving industrial machine.",
       "## Who Is Building Driverless Trucks?",
       "The autonomous-trucking field is crowded but uneven. Companies are not all at the same stage.",
-      "Aurora has become one of the most closely watched US players because it has moved into driverless commercial freight operations on limited Texas routes, after years of testing with safety drivers and partners. Its deployment is important, but it is not the same as nationwide autonomous trucking.",
-      "Kodiak has focused on autonomous freight corridors and has emphasized modular hardware, military applications and commercial testing. Waabi is developing AI-first autonomous trucking with simulation-heavy training and industry partnerships. Torc Robotics, owned by Daimler Truck, is working toward autonomous trucks tied to major truck-manufacturing expertise.",
+      "### Aurora: Commercial Driverless Freight",
+      "[Aurora announced commercial driverless deliveries between Dallas and Houston on May 1, 2025](https://ir.aurora.tech/sec-filings/all-sec-filings/content/0001828108-25-000078/auroracommerciallaunchpres.htm). Its Aurora Driver is the automated driving system, rather than a separate brand of trailer or cargo vehicle.",
+      "By its [July 22, 2026 announcement](https://ir.aurora.tech/news-events/press-releases/detail/144/aurora-launches-second-generation-driverless-trucks-in-u-s-to-meet-customer-demand), Aurora reported a commercial network of 10 driverless routes across the US Sun Belt and the launch of second-generation trucks. This is broader than its original Texas lane, but still not nationwide, all-weather autonomy.",
+      "In its [explanation of the new trucks](https://aurora.tech/newsroom/your-questions-about-our-latest-driverless-launch-answered), Aurora says the driver's seat is empty, although a roadside-assistance team member may ride in the rear seat on some trips. An empty driver's seat and a completely unoccupied cab are different claims. These are company-reported operating details, not an independent comparison of crash risk.",
+      "### Torc Robotics: Testing Toward Commercial Availability",
+      "[Torc Robotics' published FAQ](https://torc.ai/frequently-asked-questions/) describes public-road testing with a safety driver and targets commercial availability in 2027. Torc and Daimler Truck are developing an autonomous-ready Freightliner Cascadia with redundant steering, braking, power and communications systems. Torc says its first commercial generation will focus on highways and interstates.",
+      "That makes Torc relevant to the future of long-haul trucking, but testing and a planned launch should not be presented as an already completed driverless commercial rollout. Aurora and Torc illustrate different deployment stages, not a simple ranking of which system is safer or better.",
+      "### Other Autonomous-Trucking Developers",
+      "Kodiak has focused on autonomous freight corridors and has emphasized modular hardware, military applications and commercial testing. Waabi is developing AI-first autonomous trucking with simulation-heavy training and industry partnerships.",
       "Pony.ai brings a China-centered robotaxi and robotruck background, with its 2026 GAC electric robotruck announcement aimed at showing that Chinese autonomy companies want to compete beyond domestic pilots.",
       "Plus has worked on automated-trucking systems and driver-assistance technology. Einride has pursued electric and autonomous freight concepts, including remote-operation ideas. Volvo Autonomous Solutions and Daimler Truck bring the credibility of major truck manufacturers. Gatik focuses more on middle-mile box trucks and shorter logistics routes rather than classic long-haul tractor-trailers.",
       "The key is to separate testing, commercial operation, safety-driver operation, remote assistance and fully driverless service. They are not the same milestone.",
       "## Are Driverless Trucks Already On The Road?",
       "Yes, but only in limited ways.",
       "Some autonomous trucks have operated with safety drivers. Some programs have run freight commercially while a trained operator remained in the cab. A smaller number of deployments have removed the human driver on specific routes under defined conditions.",
-      "Aurora's limited driverless freight operations in Texas are a major US example. Pony.ai says it has operated hundreds of autonomous trucks in China, including some without human drivers. Other companies are progressing through pilots, partnerships, depot operations, or pre-commercial testing.",
+      "Aurora's dated commercial announcements provide a concrete US example, while Torc describes its trucks as being in testing with safety drivers. Pony.ai's GAC announcement concerns an electric robotruck and planned production. These milestones should not be combined into a single count of trucks operating without drivers.",
       "What does not exist is a world where driverless trucks can freely haul any load anywhere across every road network. The technology is real, but the rollout remains constrained.",
       "## China's Robotruck Push",
       "China could become one of the world's most important autonomous-freight markets.",
@@ -15736,10 +15745,10 @@ export const articles: Article[] = [
       "Many drivers earn middle-income wages without needing a four-year degree. Some are immigrants. Some are older workers. Some own or lease equipment. Some spend long stretches away from home. Some carry specialized cargo, manage difficult customers, inspect loads and solve problems no software demo ever shows.",
       "That is the emotional center of the autonomous-truck debate: the machine may keep moving while the human wonders whether his occupation moves with it.",
       "## Will Self-Driving Trucks Replace Truck Drivers?",
-      "Nobody can responsibly give an exact number today.",
+      "Autonomous trucks can replace a human at the wheel on some defined freight routes, but that does not establish that the entire occupation will disappear. The clearest exposure is repetitive highway driving; inspections, cargo handling, local delivery and unexpected on-site problems still require people. There is no reliable single date when autonomous trucks will replace all drivers.",
       "Viral claims that automation will wipe out millions of truck-driving jobs on a fixed timetable are too simplistic. At the same time, it would be dishonest to pretend the risk is imaginary.",
       "The strongest near-term exposure is likely in repetitive long-haul highway freight and fixed corridors. The harder jobs are urban delivery, construction hauling, oversized loads, hazardous materials, complex customer-facing work, unpredictable routes and tasks involving loading or on-site judgment.",
-      "The US Bureau of Labor Statistics still projects continued heavy-truck-driver employment growth and large annual openings, partly because freight demand and replacement needs remain high.",
+      "The [US Bureau of Labor Statistics projects 4% employment growth for heavy and tractor-trailer truck drivers from 2025 to 2035](https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm), with about 214,500 openings per year on average. Many openings replace people leaving the occupation or retiring; they are not all newly created jobs. This national projection is not a guarantee for an individual driver or a forecast of autonomy's effects on a particular route.",
       "That means automation can grow while driver demand also remains strong during a long transition. Both can be true.",
       "## Jobs May Change Before They Disappear",
       "The first major labor shift may not be from driver to no worker. It may be from one kind of driving to another kind of logistics work.",
@@ -15798,7 +15807,7 @@ export const articles: Article[] = [
       "If some long-haul routes become driverless, those businesses may feel the change. But the impact would not be uniform.",
       "Autonomous trucks still need energy, maintenance, inspections and logistics support. Human drivers will still exist on many routes for a long time. The roadside economy may shrink in some places and transform in others.",
       "The social geography of trucking matters because jobs are not only found inside the cab.",
-      "## Autonomous And Electric Are Not The Same Thing",
+      "## Are Autonomous Trucks Electric?",
       "Autonomy and electrification are separate transitions.",
       "A truck can be diesel and autonomous. It can be electric and human-driven. It can be electric and autonomous.",
       "Pony.ai's new electric robotruck combines both ideas, which is why it is visually powerful. But the technologies solve different problems. Electric powertrains address emissions, fuel and maintenance. Autonomy addresses the driving task.",
@@ -15837,6 +15846,7 @@ export const articles: Article[] = [
       "## The Bigger Story: AI Is Leaving The Screen",
       "For many people, AI still means chatbots, image generators, search tools or software assistants.",
       "Autonomous trucks show a different future: AI embedded in physical infrastructure.",
+      "PRESDA's [guide to AI and robotics in everyday life](/articles/robot-revolution-ai-future-2030/) explores that wider shift. Trucking makes the distinction especially concrete: AI has to control a physical vehicle safely, not merely generate a convincing answer.",
       "A chatbot mistake may produce a wrong sentence. A truck mistake may put a machine weighing tens of thousands of kilograms into the wrong place at the wrong time.",
       "That is why autonomous freight feels different. It turns AI from information into motion.",
       "## China Vs America: Another AI Race",
@@ -15862,8 +15872,8 @@ export const articles: Article[] = [
       "The most important question may not be whether a truck can drive without a person. It is what happens to the person when it finally can."
     ],
     source: {
-      name: "Reuters - Pony.ai unveils Level 4 electric robotruck at IAA Transportation",
-      url: "https://www.reuters.com/"
+      name: "Pony.ai - Gen-4 robotruck with GAC Commercial Vehicle, September 14, 2026",
+      url: "https://blog.pony.ai/pony-ai-unveils-new-gen-4-robotruck-in-collaboration-with-gac-commercial-vehicle/"
     },
     references: [
       {
@@ -15879,8 +15889,8 @@ export const articles: Article[] = [
         url: "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety"
       },
       {
-        name: "FMCSA - Automated commercial motor vehicles",
-        url: "https://www.fmcsa.dot.gov/"
+        name: "FMCSA - Safe integration of automated driving systems-equipped commercial motor vehicles",
+        url: "https://www.fmcsa.dot.gov/newsroom/safe-integration-automated-driving-systems-equipped-commercial-motor-vehicles"
       },
       {
         name: "U.S. Bureau of Labor Statistics - Heavy and tractor-trailer truck drivers",
@@ -15889,6 +15899,18 @@ export const articles: Article[] = [
       {
         name: "Aurora - autonomous trucking updates",
         url: "https://aurora.tech/"
+      },
+      {
+        name: "Aurora - Commercial driverless trucking launch, May 1, 2025",
+        url: "https://ir.aurora.tech/sec-filings/all-sec-filings/content/0001828108-25-000078/auroracommerciallaunchpres.htm"
+      },
+      {
+        name: "Aurora - Second-generation driverless trucks, July 22, 2026",
+        url: "https://ir.aurora.tech/news-events/press-releases/detail/144/aurora-launches-second-generation-driverless-trucks-in-u-s-to-meet-customer-demand"
+      },
+      {
+        name: "Aurora - Driverless launch questions and onboard personnel, July 22, 2026",
+        url: "https://aurora.tech/newsroom/your-questions-about-our-latest-driverless-launch-answered"
       },
       {
         name: "Kodiak Robotics - autonomous trucking",
@@ -15901,6 +15923,10 @@ export const articles: Article[] = [
       {
         name: "Torc Robotics - autonomous trucking",
         url: "https://torc.ai/"
+      },
+      {
+        name: "Torc Robotics - Testing, Freightliner Cascadia and planned 2027 availability",
+        url: "https://torc.ai/frequently-asked-questions/"
       },
       {
         name: "European Commission - connected and automated mobility",
@@ -15932,7 +15958,7 @@ export const articles: Article[] = [
       {
         question: "Will self-driving trucks replace truck drivers?",
         answer:
-          "Some long-haul highway jobs may be exposed over time, but nobody can responsibly give an exact number today. Many trucking jobs involve complex routes, loading, local delivery, customer work and specialized judgment that are harder to automate."
+          "Autonomous trucks can replace driving on some defined freight routes, but that does not mean every truck-driving job disappears. Local delivery, inspections, cargo handling and specialized work still involve people. There is no reliable single date for replacing all drivers."
       },
       {
         question: "What is a Level 4 autonomous truck?",
@@ -15942,7 +15968,7 @@ export const articles: Article[] = [
       {
         question: "Are driverless trucks already on the road?",
         answer:
-          "Yes, but in limited deployments and pilots. Some operations still use safety drivers, while a smaller number have removed the driver on specific approved routes under defined conditions."
+          "Yes. Aurora announced commercial driverless deliveries in May 2025 and reported a 10-route US Sun Belt network in July 2026. Other programs, including Torc's published testing program, use safety drivers. Commercial driverless operation, supervised testing and planned launches are different stages."
       },
       {
         question: "Are autonomous trucks safer than human drivers?",
