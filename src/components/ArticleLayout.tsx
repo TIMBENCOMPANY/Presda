@@ -615,7 +615,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
               <div className="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 font-display text-[10px] font-extrabold uppercase tracking-wide text-white/64 sm:mt-6 sm:text-[11px]">
                 <span>
                   By{" "}
-                  <Link href={`/authors/${toAuthorSlug(article.author)}/`} className="text-white transition hover:text-[#FF1A1A]">
+                  <Link prefetch={false} href={`/authors/${toAuthorSlug(article.author)}/`} className="text-white transition hover:text-[#FF1A1A]">
                     {article.author}
                   </Link>
                 </span>

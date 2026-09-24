@@ -18,6 +18,7 @@ export function RelatedArticles({ articles }: { articles: Article[] }) {
         {visibleArticles.map((article) => (
           <Link
             key={article.id}
+            prefetch={false}
             href={`/articles/${article.slug}/`}
             className="group block overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] shadow-[var(--home-card-shadow)] transition duration-200 hover:-translate-y-0.5 hover:border-[#FF1A1A]/70"
           >

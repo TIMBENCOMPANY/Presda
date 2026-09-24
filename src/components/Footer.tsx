@@ -22,7 +22,7 @@ export function Footer() {
     <footer className="mt-20 border-t border-[color:var(--border)]">
       <div className="mx-auto grid w-[min(1500px,calc(100%-32px))] gap-10 py-12 lg:grid-cols-[1.25fr_0.9fr_0.9fr_0.9fr]">
         <div>
-          <Link href="/" aria-label="PRESDA home" className="inline-grid h-16 w-20 place-items-center">
+          <Link prefetch={false} href="/" aria-label="PRESDA home" className="inline-grid h-16 w-20 place-items-center">
             <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} className="h-12 w-auto object-contain drop-shadow-[0_0_18px_rgba(255,26,26,0.36)]" />
           </Link>
           <p className="mt-5 max-w-md leading-7 text-[color:var(--muted)]">
@@ -33,7 +33,7 @@ export function Footer() {
           <h3 className="font-display text-sm font-extrabold uppercase tracking-[0.18em]">Categories</h3>
           <div className="mt-5 grid grid-cols-2 gap-3">
             {categories.map((category) => (
-              <Link key={category} href={`/category/${toCategorySlug(category)}/`} className="inline-flex min-h-11 items-center text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
+              <Link prefetch={false} key={category} href={`/category/${toCategorySlug(category)}/`} className="inline-flex min-h-11 items-center text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
                 {categoryLabels[category]}
               </Link>
             ))}
@@ -43,7 +43,7 @@ export function Footer() {
           <h3 className="font-display text-sm font-extrabold uppercase tracking-[0.18em]">Editorial</h3>
           <div className="mt-5 grid gap-3">
             {editorialLinks.map((link) => (
-              <Link key={link.href} href={link.href} className="inline-flex min-h-11 items-center text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
+              <Link prefetch={false} key={link.href} href={link.href} className="inline-flex min-h-11 items-center text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
                 {link.label}
               </Link>
             ))}
@@ -51,7 +51,7 @@ export function Footer() {
           <h3 className="mt-8 font-display text-sm font-extrabold uppercase tracking-[0.18em]">Legal</h3>
           <div className="mt-5 grid gap-3">
             {legalLinks.map((link) => (
-              <Link key={link.href} href={link.href} className="inline-flex min-h-11 items-center text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
+              <Link prefetch={false} key={link.href} href={link.href} className="inline-flex min-h-11 items-center text-sm text-[color:var(--muted)] transition hover:text-[#FF1A1A]">
                 {link.label}
               </Link>
             ))}

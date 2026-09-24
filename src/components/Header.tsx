@@ -233,7 +233,7 @@ export function Header() {
           {open ? <X className="h-5 w-5" strokeWidth={1.6} /> : <Menu className="h-5 w-5" strokeWidth={1.6} />}
         </button>
 
-        <Link href="/" aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
+        <Link prefetch={false} href="/" aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
           <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-14 w-auto origin-center scale-[1.2] object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-[72px] lg:scale-[1.3]" />
         </Link>
 
@@ -259,6 +259,7 @@ export function Header() {
           <ThemeToggle variant="home" />
           <Link
             href="/newsletter/"
+            prefetch={false}
             className="hidden rounded-lg border border-[#ff1a1a]/35 bg-gradient-to-b from-[#ff1a1a] to-[#b00016] px-4 py-3 font-display text-[10px] font-extrabold uppercase tracking-wide text-white shadow-[0_16px_34px_rgba(196,0,25,0.22)] transition hover:brightness-110 min-[540px]:inline-flex sm:px-6 sm:text-xs"
           >
             Subscribe
@@ -285,6 +286,7 @@ export function Header() {
               return (
                 <Link
                   key={category}
+                  prefetch={false}
                   href={href}
                   className={`home-category-tab shrink-0 py-4 font-display text-xs font-extrabold uppercase tracking-normal transition ${active ? "home-category-tab-active" : ""}`}
                 >
@@ -314,6 +316,7 @@ export function Header() {
               {navLinks.map((link) => (
                 <Link
                   key={link.label}
+                  prefetch={false}
                   href={link.href}
                   onClick={() => setOpen(false)}
                   className={`home-menu-card flex items-center gap-3 rounded-xl px-4 py-3.5 font-display text-[11px] font-extrabold uppercase tracking-wide transition ${isActivePath(pathname, link.href) ? "home-menu-card-active" : ""}`}
