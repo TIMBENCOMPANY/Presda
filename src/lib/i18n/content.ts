@@ -2,7 +2,7 @@ import type { ArticleCategory } from "@/data/articles";
 import type { TranslationLocale } from "./routing";
 
 export type LocalizedBlock =
-  | { type: "paragraph" | "heading" | "quote"; text: string }
+  | { type: "paragraph" | "heading" | "subheading" | "quote"; text: string }
   | { type: "list"; items: string[] }
   | { type: "table"; caption: string; headings: string[]; rows: string[][] };
 
@@ -15,6 +15,8 @@ export type Translation = {
   status: "draft" | "published";
   review: { reviewer: string; reviewedAt: string; terminologyChecked: boolean };
   title: string;
+  excerpt?: string;
+  quote?: string;
   seoTitle: string;
   description: string;
   keywords: string[];
@@ -24,7 +26,7 @@ export type Translation = {
   author?: string;
   publishedAt: string;
   updatedAt: string;
-  image?: { src: string; alt: string };
+  image?: { src: string; alt: string; width?: number; height?: number };
   sources?: { label: string; url: string }[];
   faq?: { question: string; answer: string }[];
 };

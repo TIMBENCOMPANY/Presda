@@ -111,9 +111,12 @@ async function testPublishedRoutes() {
   const registry = require('../src/lib/i18n/registry.ts');
   const previousRecords = [...registry.publishedTranslations];
   const previousRoutes = [...registry.translationRoutes];
+  const { middlewareTranslationRoutes } = require('../src/lib/i18n/route-index.ts');
+  const previousMiddlewareRoutes = [...middlewareTranslationRoutes];
   try {
     registry.publishedTranslations.splice(0, registry.publishedTranslations.length, ...routes.map(route => ({ ...record, ...route })));
     registry.translationRoutes.splice(0, registry.translationRoutes.length, ...routes);
+    middlewareTranslationRoutes.splice(0, middlewareTranslationRoutes.length, ...routes);
     const page = require('../src/app/[locale]/[[...segments]]/page.tsx');
     assert.equal(page.generateStaticParams().length, 3);
     for (const route of routes) {
@@ -127,6 +130,7 @@ async function testPublishedRoutes() {
   } finally {
     registry.publishedTranslations.splice(0, registry.publishedTranslations.length, ...previousRecords);
     registry.translationRoutes.splice(0, registry.translationRoutes.length, ...previousRoutes);
+    middlewareTranslationRoutes.splice(0, middlewareTranslationRoutes.length, ...previousMiddlewareRoutes);
   }
   console.log('PASS: multilingual routing, reciprocal alternates, fallback, editorial gates, metadata, schema, HTML language/direction and published-page rendering');
 }

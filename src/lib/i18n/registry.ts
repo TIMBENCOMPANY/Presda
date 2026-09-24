@@ -25,6 +25,7 @@ export function validateTranslations(records: readonly Translation[]) {
         (record.kind === "article" && (!text(record.author) || !record.category || !record.image || !record.englishPath.startsWith("/articles/") || !record.path.startsWith(`/${record.locale}/articles/`))) ||
         (record.kind === "category" && (!record.category || !record.englishPath.startsWith("/category/") || !record.path.startsWith(`/${record.locale}/category/`))) ||
         (record.image && (!record.image.src.startsWith("/") || !text(record.image.alt))) ||
+        (record.image && (record.image.width !== undefined || record.image.height !== undefined) && (!Number.isInteger(record.image.width) || !Number.isInteger(record.image.height) || (record.image.width ?? 0) <= 0 || (record.image.height ?? 0) <= 0)) ||
         record.sources?.some((source) => !text(source.label) || !/^https:\/\//.test(source.url)) ||
         record.faq?.some((faq) => !text(faq.question) || !text(faq.answer))) {
       throw new Error(`Incomplete or invalid published translation: ${identity}`);

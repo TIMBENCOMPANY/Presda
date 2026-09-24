@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node tools/prepare-translations.cjs && next build",
+    "test:i18n": "node tools/test-i18n.cjs && node tools/test-multilingual-pilot.cjs",
     "start": "next start",
     "lint": "next lint",
     "validate:publishing": "node tools/validate-article-publishing.mjs"

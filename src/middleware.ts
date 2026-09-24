@@ -1,5 +1,5 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { translationRoutes } from "@/lib/i18n/registry";
+import { middlewareTranslationRoutes as translationRoutes } from "@/lib/i18n/route-index";
 import { englishPathFor, normalizePath } from "@/lib/i18n/routing";
 
 export function middleware(request: NextRequest) {

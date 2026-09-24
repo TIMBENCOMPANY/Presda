@@ -2,6 +2,7 @@ import type { ArticleCategory } from "@/data/articles";
 import type { Locale } from "./routing";
 
 const en = {
+  contents: "Table of contents",
   language: "Language", closeNotice: "Close language notice", fallback: "This page is available in English. Translations will appear here when published.",
   home: "Home", articles: "Articles", categories: "Categories", menu: "Menu", openMenu: "Open site menu", closeMenu: "Close site menu",
   search: "Search articles", searchPlaceholder: "Search articles...", openSearch: "Open article search", closeSearch: "Close article search",
@@ -15,6 +16,7 @@ type Messages = Record<keyof typeof en, string>;
 export const messages: Record<Locale, Messages> = {
   en,
   ar: {
+    contents: "فهرس المقال",
     language: "اللغة", closeNotice: "إغلاق تنبيه اللغة", fallback: "هذه الصفحة متاحة بالإنجليزية. ستظهر الترجمات هنا عند نشرها.",
     home: "الرئيسية", articles: "المقالات", categories: "الأقسام", menu: "القائمة", openMenu: "فتح قائمة الموقع", closeMenu: "إغلاق قائمة الموقع",
     search: "البحث في المقالات", searchPlaceholder: "ابحث في المقالات...", openSearch: "فتح البحث", closeSearch: "إغلاق البحث",
@@ -25,6 +27,7 @@ export const messages: Record<Locale, Messages> = {
     footer: "PRESDA منصة صحفية مستقلة تقدم تغطية واضحة وسياقاً بصرياً لفهم عالم سريع التغيّر."
   },
   fr: {
+    contents: "Sommaire",
     language: "Langue", closeNotice: "Fermer le message de langue", fallback: "Cette page est disponible en anglais. Les traductions apparaîtront ici dès leur publication.",
     home: "Accueil", articles: "Articles", categories: "Rubriques", menu: "Menu", openMenu: "Ouvrir le menu", closeMenu: "Fermer le menu",
     search: "Rechercher des articles", searchPlaceholder: "Rechercher un article...", openSearch: "Ouvrir la recherche", closeSearch: "Fermer la recherche",
@@ -35,6 +38,7 @@ export const messages: Record<Locale, Messages> = {
     footer: "PRESDA est un média indépendant qui décrypte l’actualité et la culture numérique grâce à une information claire et une approche visuelle."
   },
   es: {
+    contents: "Índice del artículo",
     language: "Idioma", closeNotice: "Cerrar el aviso de idioma", fallback: "Esta página está disponible en inglés. Las traducciones aparecerán aquí cuando se publiquen.",
     home: "Inicio", articles: "Artículos", categories: "Secciones", menu: "Menú", openMenu: "Abrir el menú", closeMenu: "Cerrar el menú",
     search: "Buscar artículos", searchPlaceholder: "Buscar artículos...", openSearch: "Abrir la búsqueda", closeSearch: "Cerrar la búsqueda",

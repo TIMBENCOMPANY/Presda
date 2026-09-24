@@ -1,0 +1,62 @@
+[
+  {
+    "locale": "ar",
+    "englishPath": "/articles/al-andalus-rise-glory-fall-muslim-iberia/",
+    "path": "/ar/articles/تاريخ-الأندلس-من-الفتح-إلى-سقوط-غرناطة/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/maya-civilization-history-cities-calendar-astronomy/",
+    "path": "/ar/articles/حضارة-المايا-التاريخ-والمدن-والتقويم/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/aztec-empire-tenochtitlan-mexica-rise-fall/",
+    "path": "/ar/articles/حضارة-الأزتك-تينوشتيتلان-وصعود-الإمبراطورية-وسقوطها/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/morocco-history-dynasties-kingdom-independence/",
+    "path": "/ar/articles/تاريخ-المغرب-الدول-الحاكمة-والحماية-والاستقلال/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/al-andalus-rise-glory-fall-muslim-iberia/",
+    "path": "/fr/articles/al-andalus-histoire-cordoue-grenade/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/maya-civilization-history-cities-calendar-astronomy/",
+    "path": "/fr/articles/civilisation-maya-histoire-cites-calendrier/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/aztec-empire-tenochtitlan-mexica-rise-fall/",
+    "path": "/fr/articles/empire-azteque-mexicas-tenochtitlan/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/morocco-history-dynasties-kingdom-independence/",
+    "path": "/fr/articles/histoire-maroc-dynasties-protectorats-independance/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/morocco-history-dynasties-kingdom-independence/",
+    "path": "/es/articles/historia-marruecos-dinastias-protectorado-independencia/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/maya-civilization-history-cities-calendar-astronomy/",
+    "path": "/es/articles/civilizacion-maya-historia-ciudades-calendario-astronomia/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/aztec-empire-tenochtitlan-mexica-rise-fall/",
+    "path": "/es/articles/imperio-azteca-mexicas-tenochtitlan-historia/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/al-andalus-rise-glory-fall-muslim-iberia/",
+    "path": "/es/articles/historia-al-andalus-califato-cordoba-granada/"
+  }
+]
