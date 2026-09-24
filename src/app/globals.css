@@ -2,49 +2,47 @@
 @tailwind components;
 @tailwind utilities;
 
-.language-rail {
-  display: flex;
-  justify-content: flex-end;
-  max-width: 1510px;
-  margin-inline: auto;
-  padding: 0 12px 8px;
-}
 .language-selector { position: relative; }
-.language-options { display: flex; gap: 2px; align-items: center; }
-.language-options a {
-  display: grid;
-  place-items: center;
-  min-width: 44px;
-  min-height: 44px;
-  padding-inline: 8px;
-  border-block-end: 2px solid transparent;
-  color: #b8b8bf;
-  font-size: 14px;
-  font-weight: 700;
-}
-.language-options a[aria-current="true"] { color: #e8c97a; border-block-end-color: #ff1a1a; }
-.language-options a:hover { color: white; background: #181818; }
-.language-options a:focus-visible, .language-notice button:focus-visible { outline: 2px solid #e8c97a; outline-offset: 2px; }
-.language-notice {
+.language-dropdown {
   position: absolute;
-  inset-inline-end: 0;
-  top: 100%;
+  inset-inline-start: 0;
+  top: calc(100% + 8px);
   z-index: 90;
-  display: flex;
-  gap: 12px;
-  width: min(340px, calc(100vw - 24px));
-  padding: 16px;
-  border: 1px solid #5d4930;
-  border-radius: 8px;
+  width: min(240px, calc(100vw - 80px));
+  padding: 6px;
+  border: 1px solid var(--home-border);
+  border-radius: 12px;
   background: #101010;
-  color: #ededed;
+  box-shadow: 0 18px 44px rgba(0, 0, 0, 0.55);
+}
+.language-options { display: grid; gap: 2px; }
+.language-options a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 44px;
+  padding: 10px 12px;
+  border-radius: 7px;
+  color: #d4d4d8;
   font-size: 14px;
+  font-weight: 600;
+  text-align: start;
+}
+.language-code { opacity: 0.65; font-size: 12px; }
+.language-options a[aria-current="true"] { color: #e8c97a; background: rgba(232, 201, 122, 0.09); }
+.language-options a:hover { color: white; background: #222; }
+.language-options a:focus-visible, .language-trigger:focus-visible { outline: 2px solid #e8c97a; outline-offset: 2px; }
+.language-notice {
+  margin: 6px;
+  padding: 10px 6px 4px;
+  border-block-start: 1px solid #5d4930;
+  color: #ededed;
+  font-size: 13px;
   line-height: 1.6;
 }
-.language-notice button { align-self: start; min-width: 32px; min-height: 32px; }
 html[lang="ar"] body { font-family: Tahoma, Arial, sans-serif; }
 html[lang="ar"] .font-display { font-family: Tahoma, Arial, sans-serif; letter-spacing: 0; text-transform: none; }
-html[dir="rtl"] .home-header > nav > button { grid-column-start: 1; }
 .localized-publication { text-align: start; overflow-wrap: anywhere; }
 html[lang="ar"] .localized-copy { line-height: 2; }
 

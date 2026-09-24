@@ -228,6 +228,7 @@ export function Header({ locale = "en", routes = [] }: { locale?: Locale; routes
   return (
     <header ref={headerRef} className="home-header sticky top-0 z-50 overflow-visible border-b backdrop-blur-xl" onMouseEnter={clearCloseTimer} onMouseLeave={closeMenuAfterLeave}>
       <nav className="relative z-[80] mx-3 grid min-h-[72px] max-w-[1510px] grid-cols-[auto_1fr_auto] items-center sm:mx-6 sm:min-h-[80px] 2xl:mx-auto">
+        <div className="col-start-1 flex items-center">
         <button
           type="button"
           onClick={toggleMenu}
@@ -239,6 +240,8 @@ export function Header({ locale = "en", routes = [] }: { locale?: Locale; routes
         >
           {open ? <X className="h-5 w-5" strokeWidth={1.6} /> : <Menu className="h-5 w-5" strokeWidth={1.6} />}
         </button>
+        <LanguageSelector key={pathname} locale={locale} routes={routes} dismiss={open || searchOpen || searchFocused} onOpen={() => { setOpen(false); closeSearch(); }} />
+        </div>
 
         <Link prefetch={false} href={destination("/")} aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
           <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-14 w-auto origin-center scale-[1.2] object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-[72px] lg:scale-[1.3]" />
@@ -273,8 +276,6 @@ export function Header({ locale = "en", routes = [] }: { locale?: Locale; routes
           </Link>
         </div>
       </nav>
-
-      <div className="language-rail"><LanguageSelector key={pathname} locale={locale} routes={routes} /></div>
 
       {searchOpen ? (
         <div ref={mobileSearchRef} onBlur={handleSearchBlur} className="absolute left-3 right-3 top-full z-[70] pt-3 lg:hidden">

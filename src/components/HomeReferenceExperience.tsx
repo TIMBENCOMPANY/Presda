@@ -155,7 +155,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
 
         <div className="mx-auto w-full max-w-[1510px] px-3 py-4 sm:px-6 sm:py-5 lg:pb-6 lg:pt-3 2xl:px-0">
           <div className="grid gap-4 lg:grid-cols-[minmax(0,2.2fr)_minmax(300px,0.8fr)] xl:grid-cols-[minmax(0,2.35fr)_minmax(330px,0.82fr)]">
-            <article className="home-editorial-hero relative min-h-[590px] overflow-hidden rounded-2xl border sm:min-h-[590px] lg:min-h-[clamp(720px,calc(100vh-11rem),820px)]">
+            <article className="home-editorial-hero relative min-h-[590px] overflow-hidden rounded-2xl border sm:min-h-[590px] lg:min-h-[clamp(590px,calc(100vh-11rem),820px)]">
               <div className="absolute inset-0">
                 <Image
                   key={active.slug}
@@ -173,7 +173,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.88)_0%,rgba(0,0,0,0.62)_38%,rgba(0,0,0,0.18)_72%,rgba(0,0,0,0.48)_100%)]" />
               <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.82)_0%,transparent_54%)]" />
 
-              <div className="relative z-10 flex min-h-[590px] max-w-3xl flex-col justify-end px-5 pb-6 pt-12 sm:min-h-[590px] sm:px-7 sm:pb-8 lg:min-h-[clamp(720px,calc(100vh-11rem),820px)] lg:px-10 lg:pb-10">
+              <div className="relative z-10 flex min-h-[590px] max-w-3xl flex-col justify-end px-5 pb-6 pt-12 sm:min-h-[590px] sm:px-7 sm:pb-8 lg:min-h-[clamp(590px,calc(100vh-11rem),820px)] lg:px-10 lg:pb-10">
                 <p className="font-display text-xs font-extrabold uppercase tracking-wide text-[color:var(--home-red)]">
                   {categoryLabels[active.category]}
                 </p>
@@ -238,7 +238,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               </button>
             </article>
 
-            <aside className="grid gap-4 lg:grid-rows-3" aria-label="Editorial highlights">
+            <aside className="grid gap-4 lg:max-h-[clamp(540px,calc(100svh-11rem),820px)] lg:grid-rows-3" aria-label="Editorial highlights">
               {sidebarStories.map((article) => (
                 <SidebarStoryCard key={article.slug} article={article} />
               ))}
@@ -295,7 +295,7 @@ function SidebarStoryCard({ article, priority = false }: { article: HomeStory; p
         </time>
       </div>
       <div className="flex min-w-0 flex-1 flex-col p-3 lg:absolute lg:inset-x-0 lg:bottom-0 lg:z-10 lg:p-4">
-        <h3 className="line-clamp-3 font-display text-[1rem] font-bold uppercase leading-[1.08] tracking-normal text-[color:var(--home-text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-[1.18rem] lg:line-clamp-3 lg:text-white">
+        <h3 className="font-display text-[1rem] font-bold uppercase leading-[1.08] tracking-normal text-[color:var(--home-text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-[1.18rem] lg:text-white">
           <HeadlineText title={article.title} highlights={highlights} legacyRed={article.headlineAccent} />
         </h3>
       </div>
