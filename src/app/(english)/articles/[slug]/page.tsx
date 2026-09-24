@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { getLanguageAlternates } from "@/lib/i18n/registry";
 import { notFound } from "next/navigation";
 import { ArticleLayout } from "@/components/ArticleLayout";
 import { getArticleBySlug, getPublishedArticles, getRelatedArticles } from "@/data/articles";
@@ -47,7 +48,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     category: article.category,
     keywords: article.tags,
     alternates: {
-      canonical: url
+      canonical: url,
+      languages: getLanguageAlternates(`/articles/${article.slug}/`)
     },
     openGraph: {
       title: metadataTitle,

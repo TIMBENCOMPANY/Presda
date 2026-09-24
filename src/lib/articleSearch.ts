@@ -1,6 +1,6 @@
 import type { Article } from "@/data/articles";
 
-export type ArticleSearchRecord = Pick<Article, "slug" | "title" | "excerpt" | "category" | "author" | "tags" | "date" | "readingTime">;
+export type ArticleSearchRecord = Pick<Article, "slug" | "title" | "excerpt" | "category" | "author" | "tags" | "date" | "readingTime"> & { path?: string };
 
 export function toArticleSearchRecord(article: Article): ArticleSearchRecord {
   return {

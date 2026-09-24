@@ -1,4 +1,6 @@
 import type { MetadataRoute } from "next";
+import { publishedTranslations, getLanguageAlternates } from "@/lib/i18n/registry";
+import { isEnglishPage } from "@/lib/i18n/english";
 import { categories, getPublishedArticles } from "@/data/articles";
 import { getArticleLastUpdated } from "@/lib/articleSeo";
 import { getArticleCanonicalUrl } from "@/lib/articleValidation";
@@ -43,21 +45,32 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/terms/"
   ];
 
+  for (const record of publishedTranslations) {
+    if (!isEnglishPage(record.englishPath)) throw new Error(`Missing English source: ${record.path}`);
+  }
   return [
+    ...publishedTranslations.map((record) => ({
+      url: `${siteUrl}${record.path}`,
+      lastModified: new Date(record.updatedAt),
+      alternates: { languages: getLanguageAlternates(record.path) }
+    })),
     ...publicRoutes.map((route) => ({
       url: route === "/" ? `${siteUrl}/` : `${siteUrl}${route}`,
+      alternates: { languages: getLanguageAlternates(route) },
       lastModified: new Date(staticRouteDates[route] ?? latestPublishedUpdate),
       changeFrequency: route === "/" || route === "/articles/" || route === "/trending/" ? "daily" as const : "monthly" as const,
       priority: route === "/" ? 1 : route === "/articles/" || route === "/trending/" ? 0.85 : 0.65
     })),
     ...articles.map((article) => ({
       url: getArticleCanonicalUrl(article.slug),
+      alternates: { languages: getLanguageAlternates(`/articles/${article.slug}/`) },
       lastModified: new Date(getArticleLastUpdated(article)),
       changeFrequency: "weekly" as const,
       priority: 0.8
     })),
     ...categories.map((category) => ({
       url: `${siteUrl}/category/${toCategorySlug(category)}/`,
+      alternates: { languages: getLanguageAlternates(`/category/${toCategorySlug(category)}/`) },
       lastModified: new Date(
         latestArticleUpdate(articles.filter((article) => article.category === category)) || latestPublishedUpdate
       ),
@@ -66,6 +79,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
     ...getAuthorProfiles().map((author) => ({
       url: `${siteUrl}/authors/${author.slug}/`,
+      alternates: { languages: getLanguageAlternates(`/authors/${author.slug}/`) },
       lastModified: new Date(latestPublishedUpdate),
       changeFrequency: "monthly" as const,
       priority: 0.55

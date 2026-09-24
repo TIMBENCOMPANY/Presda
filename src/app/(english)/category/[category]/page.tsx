@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { getLanguageAlternates } from "@/lib/i18n/registry";
 import { notFound } from "next/navigation";
 import { CategoryFeatured } from "@/components/CategoryFeatured";
 import { ArticleCard } from "@/components/ArticleCard";
@@ -37,7 +38,8 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
     title: `${categoryLabels[category]} News`,
     description: categoryDescriptions[category],
     alternates: {
-      canonical: absoluteUrl(`/category/${toCategorySlug(category)}/`)
+      canonical: absoluteUrl(`/category/${toCategorySlug(category)}/`),
+      languages: getLanguageAlternates(`/category/${toCategorySlug(category)}/`)
     },
     openGraph: {
       title: `${categoryLabels[category]} News`,

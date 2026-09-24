@@ -96,15 +96,7 @@ export default function AboutPage() {
               fill
               priority
               sizes="(max-width: 1024px) 100vw, 58vw"
-              className="about-newsroom-night object-cover object-center"
-            />
-            <Image
-              src="/images/about/presda-newsroom-day.png"
-              alt="PRESDA newsroom concept artwork in a daytime media setting"
-              fill
-              priority
-              sizes="(max-width: 1024px) 100vw, 58vw"
-              className="about-newsroom-day object-cover object-center"
+              className="object-cover object-center"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-[color:var(--home-bg)] via-transparent to-transparent lg:bg-gradient-to-r lg:from-[color:var(--home-bg)] lg:via-transparent lg:to-transparent" />
             <div className="absolute bottom-3 left-3 max-w-[calc(100%-24px)] rounded-xl border border-[color:var(--home-border)] bg-[color:var(--home-panel-strong)] px-3 py-2 text-[11px] font-semibold leading-5 text-[color:var(--home-muted)] backdrop-blur-xl sm:bottom-5 sm:left-5 sm:rounded-2xl sm:px-4 sm:py-3 sm:text-xs">

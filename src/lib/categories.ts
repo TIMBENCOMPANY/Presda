@@ -46,8 +46,8 @@ export function fromCategorySlug(slug: string): ArticleCategory | undefined {
   return categoriesBySlug[slug];
 }
 
-export function formatDate(date: string) {
-  return new Intl.DateTimeFormat("en", {
+export function formatDate(date: string, locale = "en") {
+  return new Intl.DateTimeFormat(locale, {
     month: "short",
     day: "numeric",
     year: "numeric",

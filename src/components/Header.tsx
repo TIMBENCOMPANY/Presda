@@ -9,8 +9,10 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { ArticleSearchRecord } from "@/lib/articleSearch";
 import { loadSearchIndex } from "@/lib/loadSearchIndex";
 import { searchArticles } from "@/lib/articleSearch";
-import { categoryLabels, formatDate, toCategorySlug } from "@/lib/categories";
-import { ThemeToggle } from "@/components/ThemeToggle";
+import { formatDate, toCategorySlug } from "@/lib/categories";
+import { LanguageSelector } from "@/components/LanguageSelector";
+import { languageDestination, englishPathFor, type Locale, type TranslationRoute } from "@/lib/i18n/routing";
+import { localizedCategories, messages } from "@/lib/i18n/messages";
 
 const navLinks = [
   { href: "/about/", label: "About Us", icon: Info },
@@ -33,7 +35,11 @@ function isActivePath(pathname: string | null, href: string) {
   return pathname === href || (href !== "/" && pathname.startsWith(href));
 }
 
-export function Header() {
+export function Header({ locale = "en", routes = [] }: { locale?: Locale; routes?: TranslationRoute[] }) {
+  const t = messages[locale];
+  const categoryLabels = localizedCategories[locale];
+  const destination = (href: string) => languageDestination(href, locale, routes);
+  const labels: Record<string, string> = { "About Us": t.about, "Contact Us": t.contact, "Join Us": t.join, Newsletter: t.newsletter };
   const [articles, setArticles] = useState<ArticleSearchRecord[]>([]);
   const [searchStatus, setSearchStatus] = useState<"idle" | "loading" | "ready" | "error">("idle");
   const [open, setOpen] = useState(false);
@@ -48,7 +54,8 @@ export function Header() {
   const closeTimer = useRef<number | null>(null);
   const pathname = usePathname();
   const router = useRouter();
-  const showCategoryNavigation = pathname === "/" || pathname?.startsWith("/category/");
+  const englishPath = englishPathFor(pathname, routes);
+  const showCategoryNavigation = englishPath === "/" || englishPath.startsWith("/category/");
   const trimmedQuery = query.trim();
   const showSearchResults = (searchFocused || searchOpen) && trimmedQuery.length >= minimumSearchLength;
   const matchingArticles = useMemo(() => {
@@ -62,11 +69,11 @@ export function Header() {
     if (!searchFocused && !searchOpen) return;
     let cancelled = false;
     setSearchStatus("loading");
-    loadSearchIndex().then(records => {
+    loadSearchIndex(locale).then(records => {
       if (!cancelled) { setArticles(records); setSearchStatus("ready"); }
     }).catch(() => { if (!cancelled) setSearchStatus("error"); });
     return () => { cancelled = true; };
-  }, [searchFocused, searchOpen]);
+  }, [searchFocused, searchOpen, locale]);
 
   const closeSearch = useCallback(() => {
     setQuery("");
@@ -146,7 +153,7 @@ export function Header() {
     event.preventDefault();
     if (!trimmedQuery) return;
     closeSearch();
-    router.push(`/articles/?q=${encodeURIComponent(trimmedQuery)}`);
+    router.push(`${destination("/articles/")}?q=${encodeURIComponent(trimmedQuery)}`);
   }
 
   function handleSearchBlur(event: FocusEvent<HTMLDivElement>) {
@@ -159,13 +166,13 @@ export function Header() {
     if (!showSearchResults) return null;
 
     return (
-      <div className={`home-search-results absolute top-[calc(100%+10px)] z-50 w-[min(420px,calc(100vw-24px))] overflow-hidden rounded-xl border border-[color:var(--home-border)] bg-[color:var(--home-panel-strong)] p-2 shadow-[0_24px_80px_rgba(0,0,0,0.42)] backdrop-blur-xl ${mobile ? "left-0" : "right-0"}`}>
+      <div className={`home-search-results absolute top-[calc(100%+10px)] z-50 w-[min(420px,calc(100vw-24px))] overflow-hidden rounded-xl border border-[color:var(--home-border)] bg-[color:var(--home-panel-strong)] p-2 shadow-[0_24px_80px_rgba(0,0,0,0.42)] backdrop-blur-xl ${mobile ? "start-0" : "end-0"}`}>
         {matchingArticles.length > 0 ? (
           <div className="grid gap-1">
             {matchingArticles.map((article) => (
               <Link
                 key={article.slug}
-                href={`/articles/${article.slug}/`}
+                href={article.path ?? `/articles/${article.slug}/`}
                 onClick={closeSearch}
                 className="block rounded-lg px-3 py-2.5 transition hover:bg-[color:var(--home-control-bg)]"
               >
@@ -173,12 +180,12 @@ export function Header() {
                 <span className="mt-1 line-clamp-2 block font-display text-sm font-extrabold uppercase leading-tight text-[color:var(--home-text)]">
                   {article.title}
                 </span>
-                <span className="mt-1 block text-xs text-[color:var(--home-soft)]">{formatDate(article.date)}</span>
+                <span className="mt-1 block text-xs text-[color:var(--home-soft)]">{formatDate(article.date, locale)}</span>
               </Link>
             ))}
           </div>
         ) : (
-          <div className="px-3 py-3 text-sm text-[color:var(--home-soft)]">{searchStatus === "error" ? "Search unavailable. Press Enter to search the article library." : searchStatus !== "ready" ? "Searching..." : "No articles found"}</div>
+          <div className="px-3 py-3 text-sm text-[color:var(--home-soft)]">{searchStatus === "error" ? t.searchError : searchStatus !== "ready" ? t.searching : t.noResults}</div>
         )}
       </div>
     );
@@ -209,9 +216,9 @@ export function Header() {
               event.currentTarget.blur();
             }
           }}
-          placeholder="Search articles..."
+          placeholder={t.searchPlaceholder}
           className="h-full min-w-0 flex-1 bg-transparent text-sm text-[color:var(--home-text)] outline-none placeholder:text-[color:var(--home-soft)]"
-          aria-label="Search articles"
+          aria-label={t.search}
           autoComplete="off"
         />
       </form>
@@ -226,18 +233,18 @@ export function Header() {
           onClick={toggleMenu}
           onMouseEnter={openMenuOnHover}
           className="home-icon-control col-start-1 grid h-11 w-11 place-items-center transition sm:h-12 sm:w-12"
-          aria-label={open ? "Close site menu" : "Open site menu"}
+          aria-label={open ? t.closeMenu : t.openMenu}
           aria-expanded={open}
           aria-controls="presda-site-menu"
         >
           {open ? <X className="h-5 w-5" strokeWidth={1.6} /> : <Menu className="h-5 w-5" strokeWidth={1.6} />}
         </button>
 
-        <Link prefetch={false} href="/" aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
+        <Link prefetch={false} href={destination("/")} aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
           <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-14 w-auto origin-center scale-[1.2] object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-[72px] lg:scale-[1.3]" />
         </Link>
 
-        <div className="absolute right-0 top-1/2 flex -translate-y-1/2 items-center justify-end gap-1.5 sm:gap-3">
+        <div className="absolute end-0 top-1/2 flex -translate-y-1/2 items-center justify-end gap-1.5 sm:gap-3">
           <div ref={desktopSearchRef} onBlur={handleSearchBlur} className="relative z-[70] hidden lg:block">
             {renderSearchInput()}
             {renderSearchResults()}
@@ -251,21 +258,23 @@ export function Header() {
               setSearchOpen((value) => !value);
             }}
             className="home-glass-control grid h-11 w-11 place-items-center rounded-full transition lg:hidden"
-            aria-label={searchOpen ? "Close article search" : "Open article search"}
+            aria-label={searchOpen ? t.closeSearch : t.openSearch}
             aria-expanded={searchOpen}
           >
             {searchOpen ? <X className="h-5 w-5" strokeWidth={1.6} /> : <Search className="h-5 w-5" strokeWidth={1.6} />}
           </button>
-          <ThemeToggle variant="home" />
+
           <Link
-            href="/newsletter/"
+            href={destination("/newsletter/")}
             prefetch={false}
             className="hidden rounded-lg border border-[#ff1a1a]/35 bg-gradient-to-b from-[#ff1a1a] to-[#b00016] px-4 py-3 font-display text-[10px] font-extrabold uppercase tracking-wide text-white shadow-[0_16px_34px_rgba(196,0,25,0.22)] transition hover:brightness-110 min-[540px]:inline-flex sm:px-6 sm:text-xs"
           >
-            Subscribe
+            {t.subscribe}
           </Link>
         </div>
       </nav>
+
+      <div className="language-rail"><LanguageSelector key={pathname} locale={locale} routes={routes} /></div>
 
       {searchOpen ? (
         <div ref={mobileSearchRef} onBlur={handleSearchBlur} className="absolute left-3 right-3 top-full z-[70] pt-3 lg:hidden">
@@ -278,9 +287,9 @@ export function Header() {
 
       {showCategoryNavigation ? (
         <div className="home-category-rail border-t">
-          <nav aria-label="Categories" className="mx-auto flex w-full max-w-[1510px] gap-7 overflow-x-auto px-3 sm:px-6 lg:justify-center lg:gap-8 xl:gap-12 2xl:px-0">
+          <nav aria-label={t.categories} className="mx-auto flex w-full max-w-[1510px] gap-7 overflow-x-auto px-3 sm:px-6 lg:justify-center lg:gap-8 xl:gap-12 2xl:px-0">
             {homepageCategoryLinks.map((category) => {
-              const href = `/category/${toCategorySlug(category)}/`;
+              const href = destination(`/category/${toCategorySlug(category)}/`);
               const active = isActivePath(pathname, href);
 
               return (
@@ -299,15 +308,15 @@ export function Header() {
       ) : null}
 
       {open ? (
-        <div id="presda-site-menu" className="absolute left-3 top-full z-50 w-[min(320px,calc(100vw-24px))] pt-3 sm:left-6" onMouseEnter={clearCloseTimer}>
+        <div id="presda-site-menu" className="absolute start-3 top-full z-50 w-[min(320px,calc(100vw-24px))] pt-3 sm:start-6" onMouseEnter={clearCloseTimer}>
           <div className="home-menu-panel rounded-2xl p-3 sm:p-4">
             <div className="mb-2 flex items-center justify-between border-b border-[color:var(--home-border)] pb-2">
-              <span className="font-display text-[10px] font-extrabold uppercase tracking-wide text-[color:var(--home-soft)]">Menu</span>
+              <span className="font-display text-[10px] font-extrabold uppercase tracking-wide text-[color:var(--home-soft)]">{t.menu}</span>
               <button
                 type="button"
                 onClick={() => setOpen(false)}
                 className="home-icon-control grid h-9 w-9 place-items-center rounded-lg border border-[color:var(--home-border)] transition"
-                aria-label="Close site menu"
+                aria-label={t.closeMenu}
               >
                 <X className="h-4 w-4" strokeWidth={1.7} />
               </button>
@@ -317,12 +326,12 @@ export function Header() {
                 <Link
                   key={link.label}
                   prefetch={false}
-                  href={link.href}
+                  href={destination(link.href)}
                   onClick={() => setOpen(false)}
                   className={`home-menu-card flex items-center gap-3 rounded-xl px-4 py-3.5 font-display text-[11px] font-extrabold uppercase tracking-wide transition ${isActivePath(pathname, link.href) ? "home-menu-card-active" : ""}`}
                 >
                   <link.icon className="h-4 w-4 shrink-0" strokeWidth={1.6} aria-hidden="true" />
-                  <span>{link.label}</span>
+                  <span>{labels[link.label]}</span>
                 </Link>
               ))}
             </div>

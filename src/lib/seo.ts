@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { getLanguageAlternates } from "@/lib/i18n/registry";
 
 export const siteUrl = "https://presda.com";
 export const siteName = "PRESDA";
@@ -34,7 +35,8 @@ export function createPageMetadata({
     title,
     description,
     alternates: {
-      canonical: url
+      canonical: url,
+      languages: getLanguageAlternates(path)
     },
     openGraph: {
       title,

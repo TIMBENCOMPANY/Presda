@@ -6,7 +6,9 @@ import type { ReactNode } from "react";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { organizationJsonLd } from "@/lib/seo";
-import "./globals.css";
+import "@/app/globals.css";
+import type { Locale } from "@/lib/i18n/routing";
+import { translationRoutes } from "@/lib/i18n/registry";
 
 const orbitron = Orbitron({
   subsets: ["latin"],
@@ -52,24 +54,23 @@ export const metadata: Metadata = {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
       { url: "/favicon.png" },
-      { url: "/favicon-dark.png", media: "(prefers-color-scheme: dark)" },
-      { url: "/favicon-light.png", media: "(prefers-color-scheme: light)" }
+      { url: "/favicon-dark.png" }
     ],
     shortcut: "/favicon.ico",
-    apple: "/favicon-light.png"
+    apple: "/favicon-dark.png"
   }
 };
 
-export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
+export function PublicationDocument({ children, locale = "en" }: Readonly<{ children: ReactNode; locale?: Locale }>) {
 
   return (
-    <html lang="en" className={`${orbitron.variable} ${inter.variable} ${articleDisplay.variable}`} suppressHydrationWarning>
+    <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"} className={`${orbitron.variable} ${inter.variable} ${articleDisplay.variable}`}>
       <body>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
         />
-        <Header />
+        <Header locale={locale} routes={translationRoutes} />
         {children}
         <Analytics />
         {process.env.NODE_ENV === "production" && (
@@ -88,7 +89,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
             </Script>
           </>
         )}
-        <Footer />
+        <Footer locale={locale} />
       </body>
     </html>
   );
