@@ -14,8 +14,8 @@ function sourceBlocks(source) {
     return { type: block.startsWith('### ') ? 'subheading' : block.startsWith('## ') ? 'heading' : block.startsWith('> ') ? 'quote' : 'paragraph', text: block.replace(/^(?:#{2,3}|>)\s+/, '') };
   });
 }
-function sourceFaqs(source) {
-  return source.faq?.length || source.content.some(block => block.trim().toLowerCase() === '## faq') ? getArticleFaqs(source) : [];
+function sourceFaqs(source, includeTemplateFaqs = false) {
+  return includeTemplateFaqs || source.faq?.length || source.content.some(block => block.trim().toLowerCase() === '## faq') ? getArticleFaqs(source) : [];
 }
 function readRecords(root = directory) {
   const pilot = locales.flatMap(locale => JSON.parse(fs.readFileSync(path.join(root, `${locale}.json`), 'utf8')));
@@ -54,7 +54,7 @@ function createDraft(source, locale) {
       ? { ...block, caption: '', headings: block.headings.map(() => ''), rows: block.rows.map(row => row.map(() => '')) }
       : { type: block.type, text: '' }),
     sources: (source.references ?? (source.source?.url ? [source.source] : [])).map(item => ({ label: '', url: item.url })),
-    faq: sourceFaqs(source).map(() => ({ question: '', answer: '' }))
+    faq: sourceFaqs(source, true).map(() => ({ question: '', answer: '' }))
   };
 }
 module.exports = { directory, locales, readRecords, createDraft, sourceBlocks, sourceFaqs };

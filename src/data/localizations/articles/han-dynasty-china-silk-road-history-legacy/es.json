@@ -1,0 +1,621 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/han-dynasty-china-silk-road-history-legacy/",
+  "path": "/es/articles/han-dynasty-china-silk-road-history-legacy/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "Dinastía Han: el imperio que marcó a China durante 2.000 años",
+  "excerpt": "Del ascenso de Liu Bang a las guerras que quebraron la dinastía: cómo el gobierno Han, la agricultura, el saber y la Ruta de la Seda transformaron China.",
+  "headlineHighlights": {
+    "red": "Dinastía Han",
+    "gold": "2.000 años"
+  },
+  "seoTitle": "Dinastía Han: historia, Ruta de la Seda y legado en China",
+  "description": "La historia de la dinastía Han: Liu Bang, el emperador Wu, la Ruta de la Seda, el papel, la vida cotidiana y las crisis que pusieron fin al imperio.",
+  "keywords": [
+    "dinastía Han",
+    "historia dinastía Han",
+    "Liu Bang",
+    "emperador Wu",
+    "Ruta de la Seda",
+    "Han occidentales",
+    "Han orientales",
+    "China antigua"
+  ],
+  "searchIntent": "Comprender la cronología Han, sus instituciones, la Ruta de la Seda y su legado, distinguiendo pruebas históricas y mitos populares.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-16",
+  "updatedAt": "2026-09-16",
+  "image": {
+    "src": "/images/articles/han-dynasty-ancient-china.webp",
+    "alt": "Recreación histórica editorial de un gobernante Han ante un paisaje chino estilizado; no es un retrato literal ni una reconstrucción arqueológica."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un imperio puede desaparecer del mapa político y seguir arraigado en la forma en que las generaciones posteriores entienden el mundo. La dinastía Han hizo ambas cosas. Su casa imperial perdió finalmente el trono en 220 d. C., pero su nombre, sus instituciones y sus logros culturales siguieron marcando la historia china mucho después de que sus ejércitos dejaran de obedecer a una sola corte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fechas convencionales, **206 a. C.-220 d. C.**, abarcan conquistas, consolidación, interrupción y restauración. No describen cuatro siglos continuos de estabilidad. Los Han se apoyaron en el Estado Qin anterior, gobernaron una población diversa y ampliaron las conexiones a través de Eurasia. Su legado fue poderoso precisamente porque las sociedades posteriores siguieron reinterpretándolo. [Metropolitan Museum of Art: la dinastía Han](https://www.metmuseum.org/TOAH/hd/hand/hd_hand.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "*Nota sobre la imagen: la cabecera es una recreación histórica editorial. El gobernante, los edificios, las fortificaciones y el paisaje son elementos imaginados y estilizados, no un retrato literal ni una reconstrucción arqueológicamente verificada de un lugar Han concreto.*"
+    },
+    {
+      "type": "heading",
+      "text": "DEL COLAPSO QIN A LA VICTORIA DE LIU BANG"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Han no inventaron el gobierno imperial en China. Qin había derrotado a los Estados rivales y unificado el imperio en 221 a. C. Tras la muerte del Primer Emperador en 210 a. C., las disputas sucesorias, las rebeliones y las guerras debilitaron rápidamente ese logro. El marco institucional resultó más duradero que la dinastía que lo creó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre los aspirantes al poder estaba **Liu Bang**, de origen relativamente modesto y antiguo funcionario de rango menor. Su principal rival, Xiang Yu, procedía de la aristocracia militar. La lucha no fue un mero choque de personalidades: ganar exigía ejércitos, suministros, alianzas y conservar el apoyo de otros hombres poderosos. [Universidad de Columbia: ascenso y organización del Imperio Han](https://video.afe.easia.columbia.edu/teaching-guides/the-han-empire-and-the-roman-empire-in-comparative-perspective-viewing-guide/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué se citan tanto 206 como 202 a. C. como comienzo? **206 a. C.** es la fecha fundacional convencional, asociada a Liu Bang como rey de Han. **202 a. C.** marca su victoria sobre Xiang Yu y su acceso al trono imperial. Conocido como emperador Gaozu, Liu Bang se convirtió así en emperador varios años después del inicio del período llamado habitualmente «Han». [Robert Eno, Universidad de Indiana: el ascenso de los Han](https://scholarworks.iu.edu/dspace/items/09926364-1c72-4efe-90e9-1600ee963ce3)"
+    },
+    {
+      "type": "heading",
+      "text": "HACER GOBERNABLE EL IMPERIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ganar una guerra civil no dio a Gaozu un control ilimitado. El gobierno Han inicial combinó comandancias administradas desde el centro con grandes reinos concedidos a aliados y miembros de la familia gobernante. Estos acuerdos recompensaban apoyos, pero también creaban centros de poder rivales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante los reinados siguientes, la corte redujo la autonomía de esos reinos. La fallida rebelión de los Siete Reinos de **154 a. C.** fue una etapa importante del proceso. La consolidación se desarrolló durante generaciones; no llegó terminada con el emperador fundador. [Universidad de Indiana: cronología histórica de la China antigua](https://eno.pages.iu.edu/History/Time.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los gobernantes Han conservaron buena parte de la maquinaria administrativa Qin, aunque presentaban su gobierno como una corrección de sus fallos. Registros, leyes, funcionarios locales y órdenes escritas permitían al Estado conocer y administrar poblaciones distantes. El emperador podía proclamar autoridad universal; convertirla en entregas de grano, sentencias o servicio militar requería innumerables decisiones cotidianas fuera del palacio. [Cambridge History of China: estructura y práctica del gobierno](https://www.cambridge.org/core/books/abs/cambridge-history-of-china/structure-and-practice-of-government/85B70184514CED4B7F825C92626F971D)"
+    },
+    {
+      "type": "heading",
+      "text": "EL EMPERADOR WU: LA EXPANSIÓN Y SU PRECIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El emperador Wu, que reinó entre **141 y 87 a. C.**, transformó la escala de la ambición Han. Sus campañas extendieron el poder imperial a nuevas regiones, incluidas zonas del actual sur de China, el norte de Vietnam y la península de Corea. La expansión avanzó también hacia el noroeste, por el corredor que conectaba el núcleo chino con las rutas centroasiáticas."
+    },
+    {
+      "type": "paragraph",
+      "text": "No eran fronteras vacías. Había sociedades, gobernantes y redes comerciales establecidas. El éxito militar podía generar nuevas comandancias, guarniciones y dependencias políticas, pero el control era desigual y reversible. No debe confundirse la influencia de un imperio antiguo con la soberanía territorial continua que sugiere un mapa nacional moderno. [Universidad de Washington: el Imperio Han y su expansión](https://depts.washington.edu/silkroad/exhibit/han/essay.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Los xiongnu eran una potencia rival, no una amenaza de fondo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La confederación xiongnu, al norte del dominio Han, disponía de poderosas fuerzas de caballería y amplias conexiones políticas. Los primeros gobernantes Han habían combinado acción militar con alianzas matrimoniales, regalos y acuerdos negociados. Bajo Wu, las grandes ofensivas se volvieron un rasgo central de la relación."
+    },
+    {
+      "type": "paragraph",
+      "text": "El conflicto implicaba pastos, recursos, comercio, prestigio y lealtades de comunidades fronterizas. La política Han alternaba coacción y acuerdos; los xiongnu también modificaban sus estrategias. Describirlo solo como una civilización que se defiende de «bárbaros» reproduce los prejuicios de las fuentes imperiales. [Cambridge History of China: relaciones exteriores de los Han](https://www.cambridge.org/core/books/abs/cambridge-history-of-china/han-foreign-relations/56C9B974E51364ED4F8A7DBF86A13213)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La expansión era cara. Los soldados necesitaban alimentos; los caballos, forraje; y las guarniciones lejanas, líneas de suministro. La intervención estatal en la sal y el hierro ayudó a recaudar ingresos. Tras la muerte de Wu, el célebre **debate sobre la sal y el hierro de 81 a. C.** mostró el desacuerdo sobre si esas políticas reforzaban el imperio o empobrecían a quienes lo sostenían. El texto conservado recoge argumentos, no un veredicto indiscutible. [Universidad de Columbia: testimonio del debate sobre la sal y el hierro](https://afe.easia.columbia.edu/main_pop/ps/ps_china-debate-salt-iron.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "ZHANG QIAN: UNA MISIÓN DIPLOMÁTICA CON CONSECUENCIAS IMPREVISTAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el siglo II a. C., Wu envió a **Zhang Qian** hacia el oeste para buscar aliados contra los xiongnu, especialmente entre los yuezhi. Su viaje incluyó un largo cautiverio. Aunque la alianza militar no se materializó, sus informes ampliaron mucho el conocimiento de la corte sobre los pueblos, las economías y las posibilidades políticas de Asia Central."
+    },
+    {
+      "type": "paragraph",
+      "text": "No fue un explorador solitario que descubría un continente desconectado. Las comunidades ya intercambiaban bienes por Asia Interior. La importancia de Zhang Qian estuvo en vincular esos mundos de forma más sostenida con la diplomacia y la ambición imperial Han. Los caballos, en particular, conectaban las necesidades estratégicas con el intercambio a larga distancia. [UNESCO: la gran vía de Eurasia](https://en.unesco.org/silkroad/content/main-street-eurasia)"
+    },
+    {
+      "type": "heading",
+      "text": "¿CÓMO FUNCIONABA REALMENTE LA RUTA DE LA SEDA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Era una red, no una sola carretera.** Los itinerarios rodeaban desiertos, seguían cadenas de oasis, cruzaban pasos montañosos y enlazaban con el comercio marítimo. Su importancia variaba según la política, el agua, la seguridad y la demanda. «Ruta de la Seda» es una denominación académica muy posterior, no el nombre oficial de una vía Han."
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayor parte del intercambio se realizaba mediante viajes superpuestos. Una pieza de seda podía pasar por varios comerciantes y jurisdicciones sin que nadie recorriera todo el trayecto de Chang’an a Roma. Comerciantes regionales, intérpretes, comunidades pastoriles y gobernantes locales eran indispensables. La seda era valiosa, pero también circulaban caballos, tejidos, metales y otros bienes. [UNESCO: las Rutas de la Seda](https://www.unesco.org/en/silk-roads/about-silk-roads?hub=196704)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La participación Han ayudó a desarrollar un importante corredor este-oeste, sostenido en algunos lugares por puestos fortificados e infraestructura administrativa. La declaración de Patrimonio Mundial de la red Chang’an-Tianshan reconoce una parte de esa red histórica mucho mayor. El corredor inscrito no es toda la Ruta de la Seda ni una vía construida de una vez por un emperador. [UNESCO: red de rutas Chang’an-Tianshan](https://whc.unesco.org/en/list/1442)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comercio y conquista estaban entrelazados, pero ninguno garantizaba permanentemente al otro. La fragmentación política podía obstaculizar o desviar rutas sin acabar con los intercambios. Mucho después, el [Imperio mongol](/articles/mongol-empire-genghis-khan-conquests-legacy/) transformaría las conexiones euroasiáticas en condiciones muy diferentes. No creó desde cero las redes anteriores."
+    },
+    {
+      "type": "heading",
+      "text": "GOBIERNO, IMPUESTOS Y PENSAMIENTO POLÍTICO CONFUCIANO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El imperio dependía de los hogares agrícolas. Los impuestos podían recaer sobre cosechas y dinero, mientras las obligaciones laborales y militares exigían tiempo. Por eso, la carga de una familia no puede entenderse citando una sola tasa sobre la tierra como si fuera todo lo que pedía el Estado. Instituciones y obligaciones también cambiaron durante el período Han. [Investigación sobre instituciones económicas e impuestos Qin-Han](https://doi.org/10.1163/23521341-12340212)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los funcionarios necesitaban algo más que capacidad para imponer órdenes. La enseñanza patrocinada por la corte valoró cada vez más los textos clásicos, la conducta moral, el ritual y el debate sobre el gobierno legítimo. El pensamiento político confuciano destacaba relaciones y responsabilidades: los gobernantes debían gobernar bien, no solo poseer fuerza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero decir que «los Han adoptaron el confucianismo» puede ocultar la riqueza del período. Los pensadores combinaron tradiciones hoy llamadas confucianas, taoístas y legalistas; cosmología, medicina y adivinación también se cruzaban con el razonamiento político. El gobierno práctico mantuvo leyes, castigos y técnicas administrativas junto al lenguaje moral. No hubo un único cambio intelectual que sustituyera todas las demás formas de pensar. [Stanford Encyclopedia of Philosophy: filosofía en la China Han](https://plato.stanford.edu/entries/han-dynasty/)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Inventaron los Han el conocido sistema de exámenes imperiales?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La selección de funcionarios incluía recomendación, educación, evaluación y patronazgo. El conocimiento clásico podía favorecer una carrera, pero aún no existía el sistema competitivo maduro de épocas posteriores. Columbia sitúa sus comienzos en la dinastía Sui y su desarrollo en las siguientes. Proyectarlo hacia atrás hace parecer al gobierno Han más abierto y estandarizado de lo que fue. [Universidad de Columbia: clásicos confucianos y exámenes de acceso a la función pública](https://afe.easia.columbia.edu/cosmos/irc/classics.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "LA VIDA FUERA DEL PALACIO: CAMPOS, MERCADOS Y HOGARES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para la mayoría, el imperio se vivía a través de la agricultura, las obligaciones familiares, las autoridades locales y la incertidumbre de las cosechas. El grano y los tejidos importaban más para sobrevivir que el prestigio de misiones diplomáticas lejanas. Las condiciones regionales variaban: un soldado fronterizo, un comerciante urbano y un campesino arrendatario no compartían una única forma de vida Han."
+    },
+    {
+      "type": "paragraph",
+      "text": "La metalurgia del hierro aportó armas y herramientas agrícolas. Mejores útiles podían facilitar el cultivo, pero la tecnología no generaba prosperidad automática para todos. El acceso a tierra, animales, mano de obra y agua determinaba qué podía lograr una innovación. [Field Museum: hierro, agricultura y poder territorial Han](https://chinahall.fieldmuseum.org/case/g2-8_m1/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La arqueología ofrece indicios de la infraestructura cotidiana. Las maquetas funerarias de cerámica representan molinos, corrales, almacenes y otras instalaciones de las fincas agrícolas. Son pruebas valiosas, pero también expresan lo que los propietarios de las tumbas querían llevar simbólicamente al más allá. No son fotografías neutrales de las familias más pobres. [Metropolitan Museum of Art: maqueta de molino de los Han orientales](https://www.metmuseum.org/art/collection/search/44320)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chang’an, capital de los Han occidentales, reunía palacios, barrios residenciales, mercados y actividad administrativa a enorme escala urbana. Luoyang desempeñó después esa función para los Han orientales. Su riqueza dependía de las conexiones con el campo, no de su separación. El lujo urbano y el excedente aldeano pertenecían a la misma economía política. [Cambridge History of China: historia económica y social de los Han anteriores](https://www.cambridge.org/core/books/abs/cambridge-history-of-china/economic-and-social-history-of-former-han/2C38C79DC7D76BDA4A073CAE0572086C)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mujeres, trabajo y oportunidades desiguales"
+    },
+    {
+      "type": "paragraph",
+      "text": "La actividad femenina iba más allá de los ideales ordenados prescritos en textos de élite. Estudios del arte funerario de Sichuan identifican mujeres en la producción y venta de alcohol, mostrando la relación entre trabajo doméstico, ritual y comercio. Las normas escritas revelan lo que deseaban los autores, no todo lo que hacía la gente. [Investigación de Cambridge: mujeres y producción de alcohol en la China Han](https://www.repository.cam.ac.uk/items/10edb830-f6fd-4100-b7fc-394cc16ac4e5)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La erudita **Ban Zhao** ofrece otra perspectiva. Ayudó a completar la historia de los Han anteriores y enseñó a mujeres de la corte. Sus escritos defendían jerarquías de género, pero también la educación femenina. No debe borrarse su acceso excepcional al saber ni utilizarlo para afirmar que todas las mujeres tenían las mismas oportunidades. [Universidad de Columbia: las Admoniciones para mujeres de Ban Zhao](https://afe.easia.columbia.edu/ps/cup/banzhao_admonitions.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "PAPEL, NÚMEROS Y OBSERVACIÓN DE LA NATURALEZA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los logros intelectuales Han estaban ligados a necesidades prácticas. El gobierno necesitaba registros; la agricultura y el ritual, calendarios; la construcción y los impuestos, cálculos. Artesanos expertos y funcionarios contribuyeron junto a las figuras célebres recordadas en biografías posteriores."
+    },
+    {
+      "type": "subheading",
+      "text": "Cai Lun y el papel que ya existía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tradicionalmente se asocia **105 d. C.** con el informe de Cai Lun a la corte sobre la fabricación de papel. Sin embargo, los hallazgos arqueológicos muestran que existía antes, incluso en época Han occidental. Debe entenderse como una figura clave de su desarrollo y difusión, no como alguien a quien podamos identificar con certeza como el primer fabricante de papel. [Georgia Tech, Museo Robert C. Williams de la Fabricación de Papel: los primeros papeles](https://paper.gatech.edu/early-papermaking)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El papel no sustituyó inmediatamente todos los demás soportes. Las tablillas de madera excavadas conservan rutinas administrativas y educativas: ejercicios de escritura, listas de caracteres y multiplicaciones. Su supervivencia vuelve tangible un imperio de documentos y revela el trabajo detrás de la voz oficial. [Academia Sinica: qué revelan las tablillas Han sobre la alfabetización](https://museum.sinica.edu.tw/en/exhibitions/4/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Matemáticas y astronomía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los primeros textos matemáticos chinos se desarrollaron durante generaciones. La tradición representada por los **Nueve capítulos sobre el arte matemático** organizó problemas de medición, reparto y cálculo. Los manuscritos Qin y Han excavados muestran que ese logro surgió de métodos anteriores y problemas prácticos; no fue un sistema completo inventado de repente por un solo genio. [Investigación revisada por pares sobre antiguos textos matemáticos chinos](https://www.rbhm.org.br/index.php/RBHM/article/view/12)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La astronomía también reunía observación, cálculo y cuestiones de gobierno. **Zhang Heng**, que vivió entre 78 y 139 d. C., trabajó en instrumentos astronómicos, modelos cosmológicos y matemáticas. En su mundo, explicar los cielos y comprender el orden político podían solaparse. Reconocerlo respeta la sofisticación del saber Han sin fingir que utilizaba las categorías de una facultad moderna de física. [Universidad de St Andrews: Zhang Heng](https://mathshistory.st-andrews.ac.uk/Biographies/Zhang_Heng/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un sismoscopio, no un predictor de terremotos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las descripciones históricas atribuyen a Zhang Heng un **sismoscopio en 132 d. C.**: un instrumento destinado a indicar un terremoto y su dirección. No predecía la fecha de futuros seísmos ni trazaba un gráfico continuo de ondas sísmicas como los aparatos modernos. El original no se conserva; las versiones conocidas de museo son reconstrucciones cuyos mecanismos requieren interpretación. [Science Museum Group: modelo del sismoscopio de Zhang Heng](https://collection.sciencemuseumgroup.org.uk/objects/co54055/model-of-the-zhang-heng-seismoscope-)"
+    },
+    {
+      "type": "heading",
+      "text": "WANG MANG Y LA INTERRUPCIÓN XIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "La política Han occidental quedó atrapada en disputas sucesorias y la influencia de parientes imperiales. En **9 d. C.**, Wang Mang tomó el trono y fundó la **dinastía Xin**. Su programa invocaba un orden antiguo idealizado e intentaba reformar la tierra, la moneda y el control económico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las reformas chocaron con intereses establecidos y dificultades prácticas. Inundaciones, desplazamientos y crisis alimentarias agravaron la inestabilidad, y las rebeliones desbordaron al régimen. Wang Mang fue asesinado en **23 d. C.** Ni la imagen de un usurpador excepcionalmente malvado ni la de un reformador social moderno describen adecuadamente su posición. [Sarah Schneewind, Universidad de California en San Diego: la nueva dinastía de Wang Mang](https://human.libretexts.org/Bookshelves/History/World_History/An_Outline_History_of_East_Asia_to_1200_%28Schneewind%29/05%253A_Religion_and_Society_in_Han_%28206_BC_____AD_220%29/5.07%253A_Wang_Mangs_New_Dynasty_AD_9-23)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interpretar su fracaso también plantea un problema de fuentes. Los historiadores del orden Han restaurado tenían razones para retratarlo como ilegítimo. La investigación examina tanto lo que conservan esos relatos como el modo en que sus ideas sobre el gobierno legítimo moldearon la historia. [Hans Bielenstein: Wang Mang y la restauración Han](https://www.cambridge.org/core/books/abs/cambridge-history-of-china/wang-mang-the-restoration-of-the-han-dynasty-and-later-han/48EC19985183F5A65A477CB7133E8D80)"
+    },
+    {
+      "type": "heading",
+      "text": "HAN ORIENTALES: RESTAURACIÓN, LUOYANG Y UN MUNDO MÁS AMPLIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Liu Xiu, el emperador Guangwu**, estableció el régimen Han restaurado en **25 d. C.**, con capital en Luoyang. La reunificación exigió más campañas. «Han orientales» y «Han occidentales» aluden a la posición relativa de las capitales, no a dos mitades simultáneas de un imperio dividido. [Smithsonian: cronología de la historia, el arte y la cultura de China](https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El poder Han oriental en Asia Central se renovó mediante campañas y diplomacia, especialmente asociadas a **Ban Chao**. Era una influencia disputada y desigual, no un puente permanentemente seguro hacia el Mediterráneo. Militares, enviados y comerciantes atravesaban un paisaje político con otros Estados poderosos y comunidades independientes. [Metropolitan Museum of Art: la dinastía Han](https://www.metmuseum.org/TOAH/hd/hand/hd_hand.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las conexiones con la India y Asia Central también contribuyeron a la llegada del budismo. En el siglo II d. C., monjes extranjeros enseñaban y traducían textos. Su posterior importancia no debe proyectarse hacia una sociedad Han enteramente budista: las primeras comunidades pertenecían a un proceso mucho más largo de traducción, adaptación y crecimiento. [Metropolitan Museum of Art: escultura budista china y su contexto inicial](https://www.metmuseum.org/essays/chinese-buddhist-sculpture)"
+    },
+    {
+      "type": "heading",
+      "text": "CHINA HAN Y ROMA: ¿QUÉ SABÍAN REALMENTE UNA DE OTRA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La China Han y el Imperio romano ocupaban extremos opuestos de mundos comerciales conectados. La seda llegaba al Mediterráneo y bienes asociados al oeste viajaban hacia oriente. Pero los objetos podían recorrer mucho más que quienes los fabricaban o compraban primero. El comercio no demuestra por sí solo contactos diplomáticos directos habituales. [Metropolitan Museum of Art: rutas comerciales entre Europa y Asia en la Antigüedad](https://www.metmuseum.org/essays/trade-routes-between-europe-and-asia-during-antiquity)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los relatos chinos describían un reino lejano llamado **Da Qin**, generalmente asociado al mundo romano. En **97 d. C.**, Ban Chao envió hacia allí a Gan Ying. No llegó a Roma. La geografía precisa de su ruta y la información recibida requieren interpretación: el episodio demuestra curiosidad e intención de contacto, no una embajada que alcanzara al emperador romano. [Universidad de Washington: notas sobre Partia y la misión de Gan Ying](https://depts.washington.edu/silkroad/texts/hhshu/notes10.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El **Hou Hanshu**, compilado después de los Han con materiales anteriores, registra visitantes en **166 d. C.** que afirmaban estar vinculados a un gobernante de Da Qin llamado Andun. Sus regalos y el rango que se atribuían han generado debate sobre si eran comerciantes que se presentaban como enviados. El relato no demuestra de forma independiente que un emperador romano los enviara oficialmente, y mucho menos que hubiera embajadas regulares de ida y vuelta. [Universidad de Washington: traducción anotada del relato de los Han posteriores](https://depts.washington.edu/silkroad/texts/hhshu/hou_han_shu.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El conocimiento circulaba mediante informes imperfectos. Las referencias grecorromanas a los **seres**, asociados a pueblos productores de seda, no equivalían a un conocimiento moderno preciso de la geografía o el gobierno Han. Los estudios clásicos destacan la flexibilidad e incertidumbre de esas descripciones remotas. [Oxford Classical Dictionary: seres](https://academic.oup.com/edited-volume/61673/chapter-abstract/550498169)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparar las instituciones Han con las del [Imperio romano](/articles/roman-empire-power-luxury-life-ancient-rome/) puede aclarar distintas formas de organizar el poder. Convertirlos en rivales de una clasificación hipotética oculta las circunstancias que hicieron posible a cada uno."
+    },
+    {
+      "type": "heading",
+      "text": "¿POR QUÉ CAYÓ LA DINASTÍA HAN?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No basta una sola explicación. Las disputas cortesanas debilitaban las decisiones; los poderes locales desafiaban al centro; la presión económica y las rebeliones aumentaban las exigencias militares. Los mecanismos para defender la dinastía también podían transferir su autoridad a otros."
+    },
+    {
+      "type": "subheading",
+      "text": "Facciones cortesanas y control del emperador"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los gobernantes jóvenes y las sucesiones disputadas daban valor político al acceso al trono. Parientes imperiales, altos funcionarios y eunucos palaciegos competían por nombramientos e influencia. Los eunucos podían ser aliados del emperador frente a familias poderosas, no solo una fuerza externa que corrompiera un sistema sano. Culpar a toda una categoría de servidores simplifica conflictos entre varios grupos. [Cambridge History of China: la caída de los Han](https://www.cambridge.org/core/books/abs/cambridge-history-of-china/fall-of-han/CFB7AEDDD40ACD9BB0A76CFE4ADA3318)"
+    },
+    {
+      "type": "subheading",
+      "text": "Tierra, dependencia y debilitamiento del centro"
+    },
+    {
+      "type": "paragraph",
+      "text": "El crecimiento de grandes propiedades podía convertir a campesinos vulnerables en arrendatarios dependientes de familias poderosas. Importaba económica y políticamente: los patronos locales controlaban recursos y lealtades difíciles de alcanzar para el Estado central. Francesca Bray relaciona los cambios de propiedad con la tecnología y la producción agrícolas, y advierte que las mejoras técnicas no beneficiaban automáticamente al pequeño propietario independiente. [Early China: tecnología agrícola y cambio agrario](https://www.cambridge.org/core/journals/early-china/article/agricultural-technology-and-agrarian-change-in-han-china/8E295AB5A3E7688752C352A171070664)"
+    },
+    {
+      "type": "subheading",
+      "text": "La rebelión de los Turbantes Amarillos"
+    },
+    {
+      "type": "paragraph",
+      "text": "En **184 d. C.**, el movimiento de los Turbantes Amarillos, asociado a **Zhang Jue**, se rebeló. La curación religiosa, la organización colectiva y la esperanza de un orden nuevo ayudaron a movilizar seguidores. No puede reducirse a una multitud espontánea de campesinos hambrientos sin ideas ni liderazgo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fuerzas imperiales derrotaron a grandes ejércitos rebeldes, pero la represión no restauró una estabilidad duradera. La agitación y la movilización militar reforzaron a comandantes y fuerzas regionales. La corte sobrevivió; las condiciones que habían posibilitado la rebelión no desaparecieron. [Rafe de Crespigny: crónica anotada de los acontecimientos de 184 d. C.](https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/3df5d9aa-26db-44c1-8372-14d21d5a4250/content)"
+    },
+    {
+      "type": "heading",
+      "text": "DE LOS SEÑORES DE LA GUERRA A LOS TRES REINOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La crisis de **189 d. C.** trajo violencia cortesana e intervención militar: Dong Zhuo tomó el poder en la capital. Las luchas posteriores hicieron al emperador cada vez más dependiente de comandantes con ejércitos propios. Cao Cao acabó controlando la corte mientras construía una posición dominante en el norte de China. [Rafe de Crespigny: Imperial Warlord, biografía de Cao Cao](https://brill.com/display/book/9789004188303/9789004188303_webready_content_text.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre sus adversarios estaban las fuerzas de Liu Bei y Sun Quan. La campaña de los Acantilados Rojos de **208 d. C.** impidió que Cao Cao sometiera rápidamente el sur. La división territorial nació de guerras prolongadas, no de un reparto acordado el día en que terminaron los Han. [Rafe de Crespigny: los Tres Reinos y los Jin occidentales](https://openresearch-repository.anu.edu.au/items/1872fd6f-d492-4179-94ca-62f8722fb9b4)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En **220 d. C.**, muerto Cao Cao, su hijo **Cao Pi** recibió la abdicación del emperador Xian y fundó Wei. Fue el final formal del gobierno de la casa imperial Han. Los Estados conocidos como Wei, Shu-Han y Wu surgieron mediante sucesivas proclamaciones y consolidaciones; sus líderes no asumieron todos el título imperial al mismo tiempo. [Cambridge History of China: la época de división y la fundación de Wei](https://api.pageplace.de/preview/DT0400.9781108660464_A45555048/preview-9781108660464_A45555048.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La célebre novela posterior **Romance de los Tres Reinos** transformó ese período en un mundo perdurable de lealtad, estrategia y héroes. Es literatura inspirada en la historia, no una transcripción de lo sucedido. El colapso político fue real; muchos detalles dramáticos conocidos pertenecen a relatos posteriores."
+    },
+    {
+      "type": "heading",
+      "text": "¿POR QUÉ TANTAS PERSONAS CHINAS SE LLAMAN «HAN» HOY?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El nombre de la dinastía se convirtió en una referencia duradera de identidad colectiva. Pero la población **china han** actual no debe imaginarse como una unidad biológica o cultural inmutable, intacta desde la Antigüedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Migraciones, matrimonios mixtos, cambios lingüísticos, clasificaciones políticas e historias regionales formaron identidades durante siglos. Las comunidades han tienen una gran diversidad interna. La investigación también estudia cómo los Estados del siglo XX promovieron una identidad común mientras persistían fuertes vínculos locales. Un nombre compartido conecta sin hacer idénticas las historias. [Journal of Asian Studies: identidad han, etnicidad y diversidad local](https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/han-minzu-fragmented-identities-and-ethnicity/36C0B36A0306B3E23388E3A103C0335A)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La dinastía importa porque aportó un precedente político y cultural de influencia excepcional. Su legado se heredó, amplió y redefinió. Decir que marcó China durante 2.000 años describe una influencia continuada, no que sus instituciones, población o fronteras permanecieran iguales durante ese tiempo."
+    },
+    {
+      "type": "heading",
+      "text": "DINASTÍA HAN: MITOS Y REALIDAD"
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: los Han crearon la civilización china de la nada"
+    },
+    {
+      "type": "paragraph",
+      "text": "Heredaron siglos de gobierno, escritura, agricultura y debate intelectual, incluido el marco imperial Qin. Su logro fue adaptar y sostener esos recursos a mayor escala."
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: entre 206 a. C. y 220 d. C. hubo un reinado ininterrumpido"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fechas convencionales incluyen la interrupción Xin y una restauración disputada. Liu Bang se convirtió en emperador en 202 a. C.; los Han orientales comenzaron en 25 d. C."
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: la Ruta de la Seda era una sola vía entre dos capitales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Era una red cambiante de itinerarios e intercambios regionales. Las sociedades centroasiáticas tenían intereses propios; no eran un simple corredor entre China y Roma."
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: los emperadores Han y romanos mantenían contacto directo habitual"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay buenas pruebas de conexiones comerciales e informes fragmentarios. No de diplomacia oficial rutinaria. Los visitantes registrados en 166 d. C. no resuelven todas las dudas sobre su origen o condición."
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: Cai Lun inventó el papel de la nada en 105 d. C."
+    },
+    {
+      "type": "paragraph",
+      "text": "La arqueología conserva papel anterior. Su importancia tradicional está en el desarrollo y la difusión de su fabricación."
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: el gobierno Han era una meritocracia moderna"
+    },
+    {
+      "type": "paragraph",
+      "text": "El saber y la capacidad importaban, pero la recomendación, la familia, la riqueza y el patronazgo condicionaban el acceso a cargos. El sistema maduro de exámenes imperiales llegó después."
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: los eunucos o una sola rebelión destruyeron la dinastía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interactuaron rivalidad cortesana, poder local, presiones económicas y descentralización militar. Los Turbantes Amarillos se alzaron en 184; la abdicación formal llegó en 220."
+    },
+    {
+      "type": "heading",
+      "text": "EL IMPERIO QUE SOBREVIVIÓ A SU DINASTÍA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El legado Han supera una lista de gobernantes o inventos. Ayudó a establecer expectativas poderosas sobre el gobierno mediante funcionarios, la relación entre saber y servicio público y la posibilidad de restaurar la unidad tras la fragmentación. Las dinastías posteriores recurrieron una y otra vez a esa herencia mientras la transformaban."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su lugar en la historia mundial es igualmente revelador. Las conexiones centroasiáticas ampliaron horizontes sin eliminar las distancias. El papel surgió de conocimientos artesanales acumulados, no de un único instante milagroso. La prosperidad descansaba en campesinos, trabajadores, comerciantes y administradores cuyos nombres suelen faltar en el gran relato."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprender a los Han exige sostener dos perspectivas: un imperio de organización extraordinaria y una sociedad marcada por jerarquía, coacción y conflicto. Las instituciones que daban duración al poder también podían crear rivales al trono. Las redes que enriquecían la corte no garantizaban su supervivencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 220 d. C., los Han perdieron el trono. No perdieron su lugar en la imaginación de las sociedades posteriores. Una casa imperial había terminado; una de las referencias más duraderas de la historia china ya había tomado forma."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Metropolitan Museum of Art: la dinastía Han",
+      "url": "https://www.metmuseum.org/TOAH/hd/hand/hd_hand.htm"
+    },
+    {
+      "label": "Universidad de Columbia: ascenso y organización del Imperio Han",
+      "url": "https://video.afe.easia.columbia.edu/teaching-guides/the-han-empire-and-the-roman-empire-in-comparative-perspective-viewing-guide/"
+    },
+    {
+      "label": "Robert Eno, Universidad de Indiana: el ascenso de los Han",
+      "url": "https://scholarworks.iu.edu/dspace/items/09926364-1c72-4efe-90e9-1600ee963ce3"
+    },
+    {
+      "label": "Universidad de Indiana: cronología histórica de la China antigua",
+      "url": "https://eno.pages.iu.edu/History/Time.html"
+    },
+    {
+      "label": "Cambridge History of China: estructura y práctica del gobierno",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-china/structure-and-practice-of-government/85B70184514CED4B7F825C92626F971D"
+    },
+    {
+      "label": "Universidad de Washington: el Imperio Han y su expansión",
+      "url": "https://depts.washington.edu/silkroad/exhibit/han/essay.html"
+    },
+    {
+      "label": "Cambridge History of China: relaciones exteriores de los Han",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-china/han-foreign-relations/56C9B974E51364ED4F8A7DBF86A13213"
+    },
+    {
+      "label": "Universidad de Columbia: testimonio del debate sobre sal y hierro",
+      "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-debate-salt-iron.htm"
+    },
+    {
+      "label": "UNESCO: la gran vía de Eurasia",
+      "url": "https://en.unesco.org/silkroad/content/main-street-eurasia"
+    },
+    {
+      "label": "UNESCO: las Rutas de la Seda",
+      "url": "https://www.unesco.org/en/silk-roads/about-silk-roads?hub=196704"
+    },
+    {
+      "label": "UNESCO: red de rutas Chang’an-Tianshan",
+      "url": "https://whc.unesco.org/en/list/1442"
+    },
+    {
+      "label": "Investigación sobre instituciones económicas e impuestos Qin-Han",
+      "url": "https://doi.org/10.1163/23521341-12340212"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy: filosofía en la China Han",
+      "url": "https://plato.stanford.edu/entries/han-dynasty/"
+    },
+    {
+      "label": "Universidad de Columbia: clásicos confucianos y exámenes de acceso a la función pública",
+      "url": "https://afe.easia.columbia.edu/cosmos/irc/classics.htm"
+    },
+    {
+      "label": "Field Museum: hierro, agricultura y poder territorial Han",
+      "url": "https://chinahall.fieldmuseum.org/case/g2-8_m1/"
+    },
+    {
+      "label": "Metropolitan Museum of Art: maqueta de molino de los Han orientales",
+      "url": "https://www.metmuseum.org/art/collection/search/44320"
+    },
+    {
+      "label": "Cambridge History of China: historia económica y social de los Han anteriores",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-china/economic-and-social-history-of-former-han/2C38C79DC7D76BDA4A073CAE0572086C"
+    },
+    {
+      "label": "Investigación de Cambridge: mujeres y producción de alcohol en la China Han",
+      "url": "https://www.repository.cam.ac.uk/items/10edb830-f6fd-4100-b7fc-394cc16ac4e5"
+    },
+    {
+      "label": "Universidad de Columbia: Admoniciones para mujeres, de Ban Zhao",
+      "url": "https://afe.easia.columbia.edu/ps/cup/banzhao_admonitions.pdf"
+    },
+    {
+      "label": "Georgia Tech, Museo Robert C. Williams de la Fabricación de Papel: los primeros papeles",
+      "url": "https://paper.gatech.edu/early-papermaking"
+    },
+    {
+      "label": "Academia Sinica: tablillas de madera Han y alfabetización",
+      "url": "https://museum.sinica.edu.tw/en/exhibitions/4/"
+    },
+    {
+      "label": "Investigación revisada por pares sobre antiguos textos matemáticos chinos",
+      "url": "https://www.rbhm.org.br/index.php/RBHM/article/view/12"
+    },
+    {
+      "label": "Universidad de St Andrews: biografía de Zhang Heng",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Zhang_Heng/"
+    },
+    {
+      "label": "Science Museum Group: modelo del sismoscopio de Zhang Heng",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co54055/model-of-the-zhang-heng-seismoscope-"
+    },
+    {
+      "label": "Sarah Schneewind, Universidad de California en San Diego: la nueva dinastía de Wang Mang",
+      "url": "https://human.libretexts.org/Bookshelves/History/World_History/An_Outline_History_of_East_Asia_to_1200_%28Schneewind%29/05%253A_Religion_and_Society_in_Han_%28206_BC_____AD_220%29/5.07%253A_Wang_Mangs_New_Dynasty_AD_9-23"
+    },
+    {
+      "label": "Hans Bielenstein: Wang Mang y la restauración Han",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-china/wang-mang-the-restoration-of-the-han-dynasty-and-later-han/48EC19985183F5A65A477CB7133E8D80"
+    },
+    {
+      "label": "Smithsonian: cronología de la historia, el arte y la cultura de China",
+      "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/"
+    },
+    {
+      "label": "Metropolitan Museum of Art: escultura budista china y su contexto inicial",
+      "url": "https://www.metmuseum.org/essays/chinese-buddhist-sculpture"
+    },
+    {
+      "label": "Metropolitan Museum of Art: rutas comerciales entre Europa y Asia en la Antigüedad",
+      "url": "https://www.metmuseum.org/essays/trade-routes-between-europe-and-asia-during-antiquity"
+    },
+    {
+      "label": "Universidad de Washington: Partia y la misión de Gan Ying",
+      "url": "https://depts.washington.edu/silkroad/texts/hhshu/notes10.html"
+    },
+    {
+      "label": "Universidad de Washington: traducción anotada del relato de los Han posteriores",
+      "url": "https://depts.washington.edu/silkroad/texts/hhshu/hou_han_shu.html"
+    },
+    {
+      "label": "Oxford Classical Dictionary: los seres",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/550498169"
+    },
+    {
+      "label": "Cambridge History of China: la caída de los Han",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-china/fall-of-han/CFB7AEDDD40ACD9BB0A76CFE4ADA3318"
+    },
+    {
+      "label": "Early China: tecnología agrícola y cambio agrario",
+      "url": "https://www.cambridge.org/core/journals/early-china/article/agricultural-technology-and-agrarian-change-in-han-china/8E295AB5A3E7688752C352A171070664"
+    },
+    {
+      "label": "Rafe de Crespigny: crónica anotada de 184 d. C.",
+      "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/3df5d9aa-26db-44c1-8372-14d21d5a4250/content"
+    },
+    {
+      "label": "Rafe de Crespigny: Imperial Warlord, biografía de Cao Cao",
+      "url": "https://brill.com/display/book/9789004188303/9789004188303_webready_content_text.pdf"
+    },
+    {
+      "label": "Rafe de Crespigny: los Tres Reinos y los Jin occidentales",
+      "url": "https://openresearch-repository.anu.edu.au/items/1872fd6f-d492-4179-94ca-62f8722fb9b4"
+    },
+    {
+      "label": "Cambridge History of China: época de división y fundación de Wei",
+      "url": "https://api.pageplace.de/preview/DT0400.9781108660464_A45555048/preview-9781108660464_A45555048.pdf"
+    },
+    {
+      "label": "Journal of Asian Studies: identidad han, etnicidad y diversidad local",
+      "url": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/han-minzu-fragmented-identities-and-ethnicity/36C0B36A0306B3E23388E3A103C0335A"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿De qué trata este artículo de PRESDA?",
+      "answer": "Del ascenso de Liu Bang a las guerras que quebraron la dinastía: cómo el gobierno Han, la agricultura, el saber y la Ruta de la Seda transformaron China."
+    },
+    {
+      "question": "¿A qué categoría pertenece esta historia?",
+      "answer": "Esta historia forma parte de la sección Historia de PRESDA."
+    },
+    {
+      "question": "¿Quién publicó este artículo?",
+      "answer": "El artículo «Dinastía Han: el imperio que marcó a China durante 2.000 años» fue publicado por PRESDA Editorial en PRESDA."
+    }
+  ]
+}

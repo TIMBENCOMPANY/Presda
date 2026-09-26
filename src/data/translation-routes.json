@@ -58,5 +58,155 @@
     "locale": "es",
     "englishPath": "/articles/al-andalus-rise-glory-fall-muslim-iberia/",
     "path": "/es/articles/historia-al-andalus-califato-cordoba-granada/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/anime-how-japanese-animation-conquered-the-world/",
+    "path": "/ar/articles/anime-how-japanese-animation-conquered-the-world/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/anime-how-japanese-animation-conquered-the-world/",
+    "path": "/es/articles/anime-how-japanese-animation-conquered-the-world/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/anime-how-japanese-animation-conquered-the-world/",
+    "path": "/fr/articles/anime-how-japanese-animation-conquered-the-world/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/bermuda-triangle-ships-planes-mystery-reality/",
+    "path": "/ar/articles/bermuda-triangle-ships-planes-mystery-reality/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/bermuda-triangle-ships-planes-mystery-reality/",
+    "path": "/es/articles/bermuda-triangle-ships-planes-mystery-reality/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/bermuda-triangle-ships-planes-mystery-reality/",
+    "path": "/fr/articles/bermuda-triangle-ships-planes-mystery-reality/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/david-beckhams-unexpected-passion-beyond-football/",
+    "path": "/ar/articles/david-beckhams-unexpected-passion-beyond-football/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/david-beckhams-unexpected-passion-beyond-football/",
+    "path": "/es/articles/david-beckhams-unexpected-passion-beyond-football/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/david-beckhams-unexpected-passion-beyond-football/",
+    "path": "/fr/articles/david-beckhams-unexpected-passion-beyond-football/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/guinness-world-records-strangest-hardest-records/",
+    "path": "/ar/articles/guinness-world-records-strangest-hardest-records/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/guinness-world-records-strangest-hardest-records/",
+    "path": "/es/articles/guinness-world-records-strangest-hardest-records/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/guinness-world-records-strangest-hardest-records/",
+    "path": "/fr/articles/guinness-world-records-strangest-hardest-records/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/han-dynasty-china-silk-road-history-legacy/",
+    "path": "/ar/articles/han-dynasty-china-silk-road-history-legacy/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/han-dynasty-china-silk-road-history-legacy/",
+    "path": "/es/articles/han-dynasty-china-silk-road-history-legacy/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/han-dynasty-china-silk-road-history-legacy/",
+    "path": "/fr/articles/han-dynasty-china-silk-road-history-legacy/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/peter-margaret-dolphin-experiment/",
+    "path": "/ar/articles/peter-margaret-dolphin-experiment/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/peter-margaret-dolphin-experiment/",
+    "path": "/es/articles/peter-margaret-dolphin-experiment/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/peter-margaret-dolphin-experiment/",
+    "path": "/fr/articles/peter-margaret-dolphin-experiment/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/saad-lamjarred-french-court-cases/",
+    "path": "/ar/articles/saad-lamjarred-french-court-cases/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/saad-lamjarred-french-court-cases/",
+    "path": "/es/articles/saad-lamjarred-french-court-cases/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/saad-lamjarred-french-court-cases/",
+    "path": "/fr/articles/saad-lamjarred-french-court-cases/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/samsung-from-food-to-tech-empire/",
+    "path": "/ar/articles/samsung-from-food-to-tech-empire/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/samsung-from-food-to-tech-empire/",
+    "path": "/es/articles/samsung-from-food-to-tech-empire/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/samsung-from-food-to-tech-empire/",
+    "path": "/fr/articles/samsung-from-food-to-tech-empire/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/self-driving-trucks-future-truck-drivers/",
+    "path": "/ar/articles/self-driving-trucks-future-truck-drivers/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/self-driving-trucks-future-truck-drivers/",
+    "path": "/es/articles/self-driving-trucks-future-truck-drivers/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/self-driving-trucks-future-truck-drivers/",
+    "path": "/fr/articles/self-driving-trucks-future-truck-drivers/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/why-people-trust-ai-like-a-friend/",
+    "path": "/ar/articles/why-people-trust-ai-like-a-friend/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/why-people-trust-ai-like-a-friend/",
+    "path": "/es/articles/why-people-trust-ai-like-a-friend/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/why-people-trust-ai-like-a-friend/",
+    "path": "/fr/articles/why-people-trust-ai-like-a-friend/"
   }
 ]

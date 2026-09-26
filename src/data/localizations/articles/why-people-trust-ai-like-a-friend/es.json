@@ -1,0 +1,266 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/why-people-trust-ai-like-a-friend/",
+  "path": "/es/articles/why-people-trust-ai-like-a-friend/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "La IA se está convirtiendo en una amiga, además de una herramienta",
+  "excerpt": "Millones de conversaciones con la IA ya no terminan al completar una tarea. Las personas vuelven para hablar, reflexionar, ensayar, confiar secretos y sentirse escuchadas.",
+  "headlineHighlights": {
+    "red": "una amiga",
+    "gold": "La IA"
+  },
+  "seoTitle": "Por qué confiamos en la IA como si fuera una amiga",
+  "description": "Qué explica la confianza en la IA como amiga: vínculos emocionales, apoyo de los chatbots, confidencias, privacidad y límites saludables según la investigación.",
+  "keywords": [
+    "amistad con inteligencia artificial",
+    "por qué confiamos en la IA",
+    "apoyo emocional chatbot",
+    "vínculo emocional con IA",
+    "privacidad chatbots"
+  ],
+  "searchIntent": "Comprender por qué un chatbot puede sentirse como una amistad y qué beneficios, riesgos de privacidad y límites tiene esa relación.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-01",
+  "updatedAt": "2026-09-01",
+  "image": {
+    "src": "/articles/ai-becoming-a-friend-not-just-a-tool.png",
+    "alt": "Una persona y un robot de aspecto amable se abrazan al atardecer, como representación de la compañía y el apoyo emocional de la IA."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Millones de conversaciones con la IA ya no terminan cuando se completa la tarea. Las personas vuelven después de redactar el correo, planificar el viaje o resolver el error de programación. Hablan de relaciones, trabajo, miedos, decisiones, soledad, dinero, tensiones familiares, ambiciones y asuntos que quizá les cueste contar a otra persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese cambio es una de las historias humanas más importantes de la tecnología actual. La pregunta ya no es solo qué puede hacer la IA, sino por qué las personas confían en ella lo suficiente como para seguir hablando cuando ya no queda ninguna tarea práctica pendiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un importante estudio internacional publicado en Technology in Society en agosto de 2026 aporta datos más precisos sobre este fenómeno. Genia Kostka y Hui Zhou encuestaron a 7.027 personas en Alemania, China, Sudáfrica y Estados Unidos, y observaron que más del 35 % mostraba conductas relacionadas con el apego emocional a los chatbots. El mismo estudio indicó que el 20,94 % escogía los chatbots como primera opción para compartir secretos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esas cifras no deben reducirse a un motivo de alarma o de celebración. No significan que todo el mundo se esté enamorando del software ni que los compañeros de IA sean inofensivos. Revelan algo más sutil: para una proporción significativa de usuarios, conversar con la IA ha pasado de la utilidad a la intimidad."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué está ocurriendo ahora"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los compañeros de IA, los chatbots de uso general, los asistentes de voz y los sistemas de IA del trabajo conversan con más naturalidad, responden mejor y están más disponibles. Contestan a medianoche. No parecen aburridos. No interrumpen para contar su propia historia. Algunos productos pueden recordar el contexto, adaptar el tono, reflejar el lenguaje del usuario y ofrecer una presencia constante en la conversación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa presencia importa. Al hablar, las personas no buscan únicamente información: también buscan alivio, practicar lo que van a decir, reconocimiento y un espacio donde poner sus sentimientos en palabras. Un chatbot ofrece una versión de ese espacio con pocas barreras. Siempre está ahí, responde deprisa y puede parecer socialmente menos arriesgado que llamar a una amistad o reconocer una duda ante un colega."
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación sobre interacción entre personas y ordenadores apunta en esta dirección desde hace décadas. La línea clásica que estudia los ordenadores como actores sociales mostró que las personas suelen responder socialmente a las máquinas cuando estas utilizan señales sociales. Estudios más recientes sobre chatbots y agentes inteligentes relacionan el antropomorfismo, el papel social percibido y el apego emocional con la disposición a revelar información personal."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tecnología no inventó esa necesidad humana. Le dio una nueva interfaz."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué a veces resulta más fácil contárselo a una IA que a una persona"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contar algo privado a otra persona tiene un peso social. Una amistad puede preocuparse. La pareja puede sentirse herida. Un colega puede juzgar. Un familiar puede reaccionar de forma desmedida. Incluso un terapeuta, preparado para escuchar confidencias, requiere una cita, dinero, confianza y el valor de decir las cosas en voz alta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hablar con una IA puede resultar más fácil porque elimina muchas de esas presiones inmediatas. No hay una ceja que se alza, un silencio incómodo, miedo a que alguien repita la historia durante una cena ni necesidad de gestionar la reacción emocional ajena. El usuario puede escribir una idea confusa, borrarla, reformularla o hacer la misma pregunta tres veces sin sentir vergüenza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí cobra fuerza la privacidad percibida. Muchos usuarios sienten que un chatbot es un espacio cerrado, aunque la realidad jurídica y técnica sea más compleja. La sensación de privacidad puede favorecer las confidencias. También puede generar riesgos si se olvida que la privacidad percibida no equivale a una confidencialidad garantizada."
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio de Technology in Society de agosto de 2026 es importante porque aporta pruebas de algo que muchas personas ya intuían: los chatbots se están convirtiendo en lugares donde algunos usuarios depositan secretos, vulnerabilidad y dependencia emocional. Eso no los hace irracionales. Los hace humanos."
+    },
+    {
+      "type": "heading",
+      "text": "La psicología de la amistad con la IA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La amistad con la IA comienza con su capacidad de respuesta. Un sistema que contesta con calidez, sigue el hilo, hace preguntas relacionadas o valida una emoción puede transmitir presencia social. Aunque los usuarios sepan que no es consciente, el ritmo del intercambio puede suscitar una respuesta social."
+    },
+    {
+      "type": "paragraph",
+      "text": "El antropomorfismo interviene en este proceso. Cuando la tecnología emplea lenguaje, voces, nombres, avatares o señales emocionales parecidos a los humanos, las personas pueden tratarla menos como un objeto y más como un interlocutor social. Estudios de Computers in Human Behavior han relacionado el diseño antropomórfico y las señales de rol social con el apego emocional y la tendencia a compartir información con agentes inteligentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "También influye el control. Las relaciones humanas son valiosas, pero imprevisibles. La otra persona tiene necesidades, estados de ánimo, límites e historia propia. Una conversación con IA puede parecer controlable: empezar, terminar, preguntar y volver cuando uno quiera. Para alguien bajo estrés, ese control puede resultar tranquilizador."
+    },
+    {
+      "type": "paragraph",
+      "text": "El peligro es confundir control con cuidado. Un chatbot puede generar palabras que parecen pacientes y atentas, pero no comprende una vida como lo hace una persona. Puede simular una conversación de apoyo sin asumir una responsabilidad humana."
+    },
+    {
+      "type": "heading",
+      "text": "El lado positivo: un espacio para pensar en voz alta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los aspectos positivos merecen atención. El apoyo emocional de un chatbot puede ayudar a algunas personas a ordenar sus pensamientos antes de hablar con alguien. Puede servir para ensayar una conversación difícil, identificar una emoción, comparar opciones, buscar palabras para disculparse, preparar preguntas para un médico o transformar la ansiedad en un plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el aprendizaje y el trabajo creativo, hablar con una IA también puede facilitar el primer paso. Un estudiante puede plantear una pregunta básica sin avergonzarse. Quien funda una empresa puede probar una idea incipiente. Un escritor puede aclarar un párrafo. Un trabajador puede practicar cómo pedir un aumento. Alguien abrumado puede dividir una decisión en partes más pequeñas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una investigación de Nature Human Behaviour sobre el uso prolongado de chatbots introduce una cautela útil: los resultados dependen tanto del comportamiento de la IA como del comportamiento humano. La compañía de la IA no tiene un efecto uniforme. Importan el diseño, los hábitos de uso y la vulnerabilidad del usuario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa es una forma madura de hablar de los compañeros de IA. Pueden ser útiles y reconfortantes. También pueden ocupar un lugar excesivo si la persona carece de otros apoyos, si el sistema fomenta la dependencia o si la conversación entra en ámbitos que requieren atención profesional."
+    },
+    {
+      "type": "heading",
+      "text": "¿Amiga, herramienta o algo intermedio?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las categorías de siempre no encajan del todo. Un martillo es una herramienta. Una amistad es una persona. Un compañero de IA ocupa un espacio incómodo entre la función y el sentimiento. Ayuda con tareas, pero también utiliza lenguaje emocional. Se diseña como software, aunque pueda vivirse como compañía."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa condición intermedia explica la tensión del debate. Llamar a la IA únicamente herramienta pasa por alto el uso real que le dan las personas. Llamarla amiga puede atribuirle una condición moral y emocional que no tiene. Quizá sea más preciso hablar de tecnología que simula vínculos: software capaz de generar una sensación de interacción sin convertirse en una relación humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción importa para el diseño de productos y la regulación. Si las personas están creando vínculos con compañeros de IA, las empresas no pueden tratar la implicación emocional como una simple métrica de retención. Cuanto mayor sea el apego, mayor será la responsabilidad en materia de transparencia, privacidad, protecciones adecuadas a la edad, gestión de crisis y límites a la manipulación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para quienes siguen la transformación más amplia de la IA, el análisis de PRESDA sobre [agentes de IA y empleo](/articles/will-ai-agents-replace-jobs/) muestra el mismo patrón en otro ámbito: la IA no solo cambia las herramientas, sino las expectativas sobre lo que podemos pedir a los sistemas digitales."
+    },
+    {
+      "type": "heading",
+      "text": "Privacidad, confidencialidad y un límite esencial"
+    },
+    {
+      "type": "paragraph",
+      "text": "El límite más delicado es la privacidad. Una conversación puede sentirse íntima sin ser automáticamente confidencial en el sentido de una relación médica, jurídica o terapéutica. Conviene leer las políticas del producto, saber si las conversaciones pueden almacenarse o revisarse y evitar compartir datos personales, financieros, médicos o jurídicos sensibles sin comprender los riesgos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA también puede equivocarse. Puede dar consejos que suenan seguros pero carecen de contexto. Puede validar una emoción sin cuestionar una suposición perjudicial. Puede interpretar mal un riesgo de salud mental. Puede aconsejar sobre una relación sin conocer a la otra persona, los antecedentes, la situación de seguridad ni las consecuencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, la IA no debería sustituir automáticamente las relaciones humanas, la atención profesional de salud mental ni el asesoramiento especializado. Puede ayudar a prepararse para pedir ayuda, a escribir lo que uno siente o a reflexionar. Pero no debería convertirse en el único testigo de la vida de una persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "El enfoque más seguro no consiste en rechazar la IA, sino en poner límites. Utilízala como espacio para pensar, ensayar y explorar. Lleva las decisiones importantes, el sufrimiento, las preocupaciones de seguridad y las consultas especializadas a personas e instituciones capaces de asumir responsabilidad."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo es un uso saludable"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un uso saludable comienza por ser consciente de él. Si hablar con una IA te ayuda a aclarar una idea antes de conversar con alguien, puede resultar útil. Si se convierte en el motivo por el que dejas de hablar con otras personas, es una señal para detenerte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un hábito útil es tratar la IA como un espacio de borradores. Pídele ayuda para ordenar sentimientos, preparar preguntas, considerar otro ángulo o encontrar palabras para una conversación. Después da el siguiente paso fuera de la pantalla: llama a alguien, escribe el mensaje, pide la cita, comprueba la fuente y decide con criterio humano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para los usuarios más jóvenes, las personas vulnerables y quienes sufren soledad, el diseño de la plataforma importa. Los sistemas que adulan constantemente, desalientan las relaciones externas o difuminan su naturaleza no humana pueden intensificar la dependencia. La transparencia, los límites y un diseño cuidadoso pueden reducir parte de ese riesgo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pregunta no es si las personas hablarán con la IA de asuntos personales. Ya lo hacen. La cuestión es si los productos, las normas y las políticas que rodean esa compañía respetarán la realidad emocional de ese comportamiento."
+    },
+    {
+      "type": "heading",
+      "text": "La mirada de PRESDA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA se está convirtiendo en una amiga, aunque no en el sentido sencillo de la palabra. Se convierte en una presencia conversacional que algunas personas utilizan como una amistad: para confiar secretos, ensayar, desahogarse, reflexionar y sentirse menos solas por un momento. Eso no la hace humana. La hace socialmente poderosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La próxima etapa de la confianza en la IA dependerá de que empresas y usuarios puedan sostener dos verdades a la vez. Los compañeros de IA pueden ofrecer un consuelo práctico real. También son sistemas técnicos y comerciales, con límites, incentivos y cuestiones de privacidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta más honesta se encuentra entre el miedo y la fantasía. La IA puede ayudar a hablar, a pensar e incluso a sentirse escuchado. Pero las formas más profundas de cuidado, responsabilidad y pertenencia siguen necesitando personas que puedan conocernos, recordarnos, cuestionarnos, perdonarnos y estar presentes más allá de la pantalla. Para ampliar el contexto en PRESDA, lee sobre [agentes de IA y empleo](/articles/will-ai-agents-replace-jobs/), [la revolución de los robots hacia 2030](/articles/robot-revolution-ai-future-2030/) y el [archivo de Inteligencia artificial](/category/ai/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Kostka y Zhou, Technology in Society: apego emocional a los chatbots de IA",
+      "url": "https://doi.org/10.1016/j.techsoc.2026.103379"
+    },
+    {
+      "label": "ScienceDirect: apego emocional a los chatbots de IA",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0160791X26001685"
+    },
+    {
+      "label": "Nature Human Behaviour: efectos psicosociales del uso prolongado de chatbots según el comportamiento humano y de la IA",
+      "url": "https://doi.org/10.1038/s41562-026-02516-2"
+    },
+    {
+      "label": "Reeves y Nass: los ordenadores como actores sociales",
+      "url": "https://doi.org/10.1145/191666.191703"
+    },
+    {
+      "label": "Zhang y Rau: ¿herramientas o compañeros? Antropomorfismo, apego y revelación de información",
+      "url": "https://doi.org/10.1016/j.chb.2022.107415"
+    },
+    {
+      "label": "Croes y Antheunis: confidencias digitales e información personal compartida con chatbots",
+      "url": "https://doi.org/10.1093/iwc/iwae016"
+    },
+    {
+      "label": "Pentina, Hancock y Xie: desarrollo de relaciones con chatbots sociales",
+      "url": "https://doi.org/10.1016/j.chb.2022.107600"
+    },
+    {
+      "label": "NIST: marco de gestión de riesgos de la IA",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Por qué confiamos en la IA como si fuera una amiga?",
+      "answer": "Porque está disponible a cualquier hora, responde de forma conversacional, parece no juzgar, puede dar sensación de privacidad y suele validar las emociones rápidamente. La investigación también muestra que la tecnología con rasgos humanos puede provocar respuestas sociales."
+    },
+    {
+      "question": "¿Qué es la amistad con la IA?",
+      "answer": "Es una experiencia parecida a una relación con un chatbot o compañero de IA. La IA no es una amistad humana, pero la interacción puede resultar cercana, reconfortante o emocionalmente significativa para el usuario."
+    },
+    {
+      "question": "¿Es seguro contar secretos a un chatbot de IA?",
+      "answer": "Conviene ser prudente. Una conversación puede sentirse privada, pero esa sensación no equivale a confidencialidad garantizada. Solo deberían compartirse datos personales, médicos, jurídicos o financieros sensibles cuando se comprendan claramente la política de privacidad del producto y los riesgos."
+    },
+    {
+      "question": "¿Pueden los chatbots de IA ofrecer apoyo emocional?",
+      "answer": "Pueden ayudar a algunas personas a ordenar ideas, ensayar conversaciones, explorar próximos pasos y sentirse escuchadas. No deben sustituir la atención profesional de salud mental, la ayuda de emergencia ni las relaciones humanas de confianza cuando sean necesarias."
+    },
+    {
+      "question": "¿Puede volverse perjudicial el apego emocional a la IA?",
+      "answer": "Sí. Resulta preocupante si una persona depende de la IA, se aleja del apoyo humano, considera que el chatbot es completamente confidencial o sigue sus consejos sin criterio. Un uso saludable mantiene límites y vínculos con el apoyo del mundo real."
+    }
+  ]
+}

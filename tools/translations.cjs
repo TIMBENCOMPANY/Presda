@@ -12,7 +12,7 @@ if (command === 'status') {
   const source = articles.find(article => article.slug === slug);
   if (!source) throw new Error('Pass the exact slug of an existing published English article');
   if (command === 'source') {
-    console.log(JSON.stringify({ ...source, content: sourceBlocks(source), faq: sourceFaqs(source) }, null, 2));
+    console.log(JSON.stringify({ ...source, content: sourceBlocks(source), faq: sourceFaqs(source, true) }, null, 2));
   } else {
     if (records.some(record => record.englishPath === `/articles/${slug}/` && record.locale === locale)) throw new Error('Translation already exists. Edit its existing record.');
     const draft = createDraft(source, locale);

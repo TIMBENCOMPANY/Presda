@@ -1,0 +1,723 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/peter-margaret-dolphin-experiment/",
+  "path": "/es/articles/peter-margaret-dolphin-experiment/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "Peter y Margaret: el experimento con un delfín que conmocionó al mundo",
+  "excerpt": "En los años sesenta, Margaret Howe Lovatt convivió con un delfín llamado Peter en un intento extraordinario de acercar la comunicación humana a la de otra especie. Lo ocurrido en Dolphin House se convirtió en una de las historias más extrañas y controvertidas de la investigación animal.",
+  "headlineHighlights": {
+    "red": "Peter y Margaret",
+    "gold": "experimento con un delfín"
+  },
+  "seoTitle": "Peter y Margaret: la historia del experimento con un delfín",
+  "description": "La historia de Margaret Howe Lovatt y Peter: el experimento de Dolphin House, la comunicación con delfines y los hechos detrás de la polémica.",
+  "keywords": [
+    "Peter y Margaret",
+    "experimento delfín Peter",
+    "Margaret Howe Lovatt",
+    "Dolphin House",
+    "John C Lilly",
+    "comunicación de los delfines"
+  ],
+  "searchIntent": "Conocer la historia documentada del experimento de Peter y Margaret y distinguir sus resultados científicos de los mitos sensacionalistas.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-10",
+  "updatedAt": "2026-09-10",
+  "image": {
+    "src": "/images/articles/peter-margaret-dolphin-experiment.webp",
+    "alt": "Ilustración editorial de PRESDA inspirada en el experimento de comunicación con delfines de los años sesenta: Margaret Howe Lovatt y el delfín Peter en Dolphin House."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En 1965, en un laboratorio parcialmente inundado de Saint Thomas, en las Islas Vírgenes de Estados Unidos, una joven convivía con un delfín mular."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se llamaba Margaret Howe Lovatt."
+    },
+    {
+      "type": "paragraph",
+      "text": "El delfín se llamaba Peter."
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo parece casi increíble hoy: ¿podría un delfín aprender a reproducir el habla humana?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No era una leyenda de internet. Fue un proyecto de investigación real, vinculado a uno de los capítulos más extraños de la ciencia de la comunicación animal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comenzó con curiosidad por la inteligencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Terminó entre polémicas, dilemas éticos, titulares sensacionalistas y la muerte de un delfín envuelta en mitos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La verdad es más interesante que el mito."
+    },
+    {
+      "type": "heading",
+      "text": "Un experimento insólito"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dolphin House era un laboratorio poco habitual, construido en torno a una pregunta poco habitual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores no se limitaban a preguntar si los delfines eran inteligentes. Querían saber si los humanos podían salvar la distancia comunicativa entre especies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter era un joven delfín mular macho. Margaret Howe Lovatt no tenía una formación científica convencional, pero se volvió esencial para el proyecto por su paciencia, capacidad de observación y disposición a pasar una cantidad extraordinaria de tiempo con los animales."
+    },
+    {
+      "type": "paragraph",
+      "text": "El entorno era radical: una zona habitable para personas adaptada para que un delfín pudiera desplazarse por el agua mientras Margaret trabajaba, dormía, grababa sonidos y realizaba sesiones de aprendizaje vocal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se buscaba comprobar si el contacto cercano y repetido podía ayudar a Peter a imitar sonidos humanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fue un intento real de comunicación entre especies."
+    },
+    {
+      "type": "paragraph",
+      "text": "También fue un experimento que, según muchos criterios actuales, difícilmente resultaría aceptable, riguroso o éticamente sencillo."
+    },
+    {
+      "type": "heading",
+      "text": "John C. Lilly y el sueño de hablar con los delfines"
+    },
+    {
+      "type": "paragraph",
+      "text": "El impulsor intelectual del proyecto fue John C. Lilly, neurocientífico, médico e investigador estadounidense fascinado por la inteligencia de los delfines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le interesaban sus cerebros, su capacidad vocal y su comportamiento social. En su libro de 1961 [Man and Dolphin](https://archive.org/details/mandolphin0000john), planteó que algún día podría ser posible una comunicación significativa entre humanos y delfines."
+    },
+    {
+      "type": "paragraph",
+      "text": "La idea llegó en un momento cultural muy concreto."
+    },
+    {
+      "type": "paragraph",
+      "text": "A comienzos de los años sesenta, la era espacial, la cibernética, la psicología, la financiación científica de la Guerra Fría y la fascinación por otras inteligencias marcaban el ambiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si algún día los humanos encontraban vida extraterrestre inteligente, se preguntaban algunos investigadores, ¿no podrían aprender antes a comunicarse con otra especie inteligente que ya vivía en la Tierra?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los delfines parecían candidatos ideales: sociales, orientados al sonido, de cerebro grande y claramente receptivos a la interacción humana."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué interesaba a la NASA y a SETI"
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo de Lilly atrajo apoyo de la NASA y de otras entidades estadounidenses porque abordaba un problema intelectual serio: comunicarse con una inteligencia no humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigadores interesados en la inteligencia extraterrestre, entre ellos Frank Drake y Carl Sagan, veían una conexión conceptual entre la comunicación de los delfines y un futuro contacto con inteligencias alienígenas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa conexión debe explicarse con cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA no diseñó los detalles sexuales que después harían tristemente célebre la historia de Peter y Margaret. Tampoco fue responsable de los posteriores experimentos de Lilly con LSD y delfines."
+    },
+    {
+      "type": "paragraph",
+      "text": "La relación era más amplia y científica: si los humanos no podían comprender a un mamífero inteligente de la Tierra, ¿qué implicaba eso para comunicarse con la vida de otros mundos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto conecta con una cuestión que PRESDA aborda en [cómo aprendieron a hablar los humanos](/articles/how-humans-learned-to-speak/): el lenguaje no es solo sonido. Es significado compartido."
+    },
+    {
+      "type": "heading",
+      "text": "Margaret llega a Dolphin House"
+    },
+    {
+      "type": "paragraph",
+      "text": "Margaret Howe Lovatt visitó por primera vez el laboratorio de Lilly en 1964, cuando vivía en Saint Thomas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el detallado [reportaje de Christopher Riley en The Guardian](https://www.theguardian.com/environment/2014/jun/08/the-dolphin-who-loved-me), sus observaciones sobre los delfines impresionaron al antropólogo Gregory Bateson y ella fue implicándose cada vez más en la investigación."
+    },
+    {
+      "type": "paragraph",
+      "text": "El laboratorio albergaba a tres delfines llamados Peter, Pamela y Sissy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter, un macho joven, se convirtió en el centro del trabajo de vocalización de Margaret."
+    },
+    {
+      "type": "paragraph",
+      "text": "Margaret tenía poco más de veinte años y no encajaba con la imagen tradicional de una investigadora veterana de laboratorio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el experimento dependía menos de lecciones teóricas que de la paciencia diaria: escuchar, repetir sonidos, documentar conductas y crear una relación en la que un delfín pudiera intentar imitar vocalmente a una persona."
+    },
+    {
+      "type": "heading",
+      "text": "La convivencia con Peter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Margaret propuso un cambio extraordinario."
+    },
+    {
+      "type": "paragraph",
+      "text": "En lugar de separar una y otra vez a la persona y al delfín, quería compartir un espacio con Peter durante períodos prolongados."
+    },
+    {
+      "type": "paragraph",
+      "text": "La planta superior del laboratorio se impermeabilizó y se inundó parcialmente. El agua cubría el suelo. Un escritorio quedó suspendido. Se dispusieron una zona para dormir y equipos de grabación alrededor del entorno acuático."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter podía desplazarse por el espacio mientras Margaret trabajaba con él."
+    },
+    {
+      "type": "paragraph",
+      "text": "La idea era eliminar las interrupciones constantes al pasar del mundo humano al del delfín."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter pasaba seis días a la semana con Margaret y regresaba periódicamente con los otros delfines."
+    },
+    {
+      "type": "paragraph",
+      "text": "La convivencia era íntima en el sentido científico original: cercana, continua y basada en la observación."
+    },
+    {
+      "type": "paragraph",
+      "text": "También era frágil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuanto más dependía el experimento de aquella relación entre una persona y un delfín, más difícil resultaba separar los datos del apego, el entrenamiento de la compañía y la observación de la interpretación."
+    },
+    {
+      "type": "heading",
+      "text": "¿Podía hablar Peter?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Margaret realizaba sesiones repetidas de aprendizaje vocal con Peter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Intentaba animarlo a imitar sonidos y frases humanas, incluido el célebre intento de producir algo parecido a «Hello Margaret», es decir, «Hola, Margaret»."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los delfines tienen capacidad de aprendizaje acústico. Pueden imitar ciertos sonidos y aprender patrones vocales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero Peter no aprendió inglés."
+    },
+    {
+      "type": "paragraph",
+      "text": "No demostró poseer lenguaje humano."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción es fundamental."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imitación vocal consiste en producir un sonido parecido a otro."
+    },
+    {
+      "type": "paragraph",
+      "text": "El lenguaje implica significado simbólico, uso flexible, gramática, referencias compartidas y comunicación abierta a mensajes nuevos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los intentos de Peter eran notables como conducta vocal, pero no probaban que hubiera adquirido el inglés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso el experimento se sitúa entre el asombro y el fracaso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ocurrió algo inusual. El objetivo original no se alcanzó."
+    },
+    {
+      "type": "heading",
+      "text": "La parte de la historia que se hizo tristemente célebre"
+    },
+    {
+      "type": "paragraph",
+      "text": "El aspecto más sensacionalista de la historia de Peter y Margaret está relacionado con la conducta sexual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter era un delfín macho en proceso de maduración sexual. Durante la convivencia, en ocasiones dirigía conductas sexuales hacia Margaret."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al principio, ella interrumpía las sesiones y lo llevaba con las hembras."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después explicó que detener el trabajo repetidamente lo dificultaba. Según sus recuerdos recogidos por The Guardian, a veces aliviaba manualmente la excitación de Peter para poder continuar las sesiones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Margaret describió esa práctica como algo sin motivación sexual por su parte."
+    },
+    {
+      "type": "paragraph",
+      "text": "PRESDA incluye este detalle porque se volvió central en los relatos públicos del experimento, no porque deba definir el proyecto entero."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con el tiempo, ese aspecto eclipsó la investigación sobre comunicación en la cobertura popular."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un problema complejo de conducta animal se convirtió en un titular morboso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ello, muchas personas conocen Dolphin House solo por fragmentos sensacionalistas, en lugar de por la pregunta científica que lo originó."
+    },
+    {
+      "type": "heading",
+      "text": "El LSD y John Lilly"
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo de Lilly se volvió más controvertido a medida que crecía su interés por la investigación con LSD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Administró LSD a algunos delfines para estudiar sus respuestas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción esencial se refiere a Peter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Margaret se opuso a que Peter recibiera LSD y afirmó que Lilly aceptó no administrárselo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, no debe afirmarse en este artículo que Peter recibió LSD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los trabajos de Lilly con esa sustancia alimentaron la controversia sobre su reputación científica y el rumbo del laboratorio."
+    },
+    {
+      "type": "paragraph",
+      "text": "El proyecto de comunicación con delfines había comenzado con una pregunta ambiciosa sobre la inteligencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "A mediados de los años sesenta, parte del trabajo se adentraba en un terreno que muchos científicos consideraban falto de control, poco convencional y éticamente preocupante."
+    },
+    {
+      "type": "heading",
+      "text": "El final del experimento"
+    },
+    {
+      "type": "paragraph",
+      "text": "La financiación acabó disminuyendo y Dolphin House cerró."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter y los otros delfines fueron trasladados a las instalaciones de Lilly en Miami."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según los relatos, el nuevo entorno era más pequeño y menos estimulante que el espacio inundado que Peter había compartido con Margaret."
+    },
+    {
+      "type": "paragraph",
+      "text": "El traslado puso fin a la relación central sobre la que se había apoyado el experimento."
+    },
+    {
+      "type": "paragraph",
+      "text": "También dejó al descubierto una debilidad de su diseño."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando una investigación depende tanto de un entorno excepcional y de un vínculo entre una persona y un animal, resulta difícil reproducirla, verificarla o continuarla en otro lugar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dolphin House se había construido alrededor de unas condiciones extraordinarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al desaparecer esas condiciones, el experimento desapareció en la práctica con ellas."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué le ocurrió a Peter?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter murió apenas unas semanas después del traslado a Miami."
+    },
+    {
+      "type": "paragraph",
+      "text": "Margaret recordaría más tarde una llamada de Lilly en la que él describió la muerte de Peter como un suicidio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay una base biológica que ayuda a entender esa afirmación: los delfines respiran de manera consciente. Deben subir activamente a la superficie para tomar aire, en lugar de respirar automáticamente del mismo modo que los humanos dormidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero es importante distinguir lo que permiten afirmar las pruebas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La información disponible no permite establecer científicamente cuál fue la intención subjetiva de Peter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las afirmaciones de que se quitó la vida deliberadamente porque Margaret lo dejó, o de que murió de pena, son interpretaciones de personas vinculadas a la historia que después repitieron los medios."
+    },
+    {
+      "type": "paragraph",
+      "text": "No son conclusiones científicas demostradas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un relato cuidadoso puede decir que Peter murió poco después del traslado y que Lilly calificó su muerte de suicidio."
+    },
+    {
+      "type": "paragraph",
+      "text": "No debe presentar como un hecho que Peter eligiera morir por desamor."
+    },
+    {
+      "type": "heading",
+      "text": "¿Fracasó el experimento?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En cierto sentido, sí."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter nunca aprendió lenguaje humano. El objetivo más ambicioso de Lilly no se cumplió."
+    },
+    {
+      "type": "paragraph",
+      "text": "El método no satisfaría muchas exigencias actuales de la ciencia del comportamiento: condiciones controladas, reproducibilidad, medición independiente, protocolos de bienestar más sólidos y una separación más clara entre observación e interpretación."
+    },
+    {
+      "type": "paragraph",
+      "text": "En otro sentido, el episodio puso de manifiesto una cuestión seria que sigue interesando a la ciencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Hasta qué punto es sofisticada la comunicación de los delfines?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Utilizan señales individuales?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuánto aprenden socialmente?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Podemos comprender la comunicación animal sin forzarla a encajar en el lenguaje humano?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dolphin House no consiguió enseñar inglés a un delfín."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no puso fin al estudio de su inteligencia."
+    },
+    {
+      "type": "heading",
+      "text": "Qué sabemos hoy sobre la comunicación de los delfines"
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación moderna ya no depende de enseñar a los delfines a sonar como humanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos estudian cada vez más su comunicación en sus propios términos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los delfines mulares utilizan silbidos firma: señales vocales distintivas de cada individuo, que a menudo se comparan de manera aproximada con los nombres. Una investigación publicada en [Proceedings of the Royal Society B](https://royalsocietypublishing.org/doi/10.1098/rspb.2013.0053) mostró que pueden responder a silbidos firma copiados de individuos conocidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los delfines poseen un aprendizaje acústico sofisticado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Presentan conductas sociales complejas, vínculos duraderos y flexibilidad para aprender vocalizaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "También utilizan la ecolocalización: emiten chasquidos e interpretan los ecos que regresan para construir una imagen acústica de su entorno."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nada de esto significa que tengan un lenguaje semejante al inglés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Significa que su comunicación es compleja, tiene sentido en su vida social y merece estudiarse sin tratarlos como humanos fallidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa pregunta es mejor que la que Dolphin House intentó responder."
+    },
+    {
+      "type": "heading",
+      "text": "¿Podría la IA ayudarnos por fin a comprender a los delfines?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde la perspectiva actual de PRESDA, hay un ángulo inevitable: la IA puede aportar nuevas herramientas al estudio de la comunicación animal."
+    },
+    {
+      "type": "paragraph",
+      "text": "El aprendizaje automático permite analizar enormes cantidades de grabaciones, detectar patrones a lo largo del tiempo y comparar vocalizaciones con conductas de formas imposibles de realizar manualmente."
+    },
+    {
+      "type": "paragraph",
+      "text": "La bioacústica computacional ya se utiliza para estudiar ballenas, aves, primates, murciélagos y delfines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la prudencia es esencial."
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA no ha traducido el lenguaje de los delfines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un modelo puede encontrar patrones. No puede decirnos automáticamente qué significan."
+    },
+    {
+      "type": "paragraph",
+      "text": "El significado exige contexto: quién produjo el sonido, quién lo oyó, qué ocurrió antes y después, y si la señal modifica la conducta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá el futuro no consista en enseñar inglés a los delfines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá consista en utilizar datos para comprender lo que ya se comunican entre ellos."
+    },
+    {
+      "type": "paragraph",
+      "text": "En ese sentido, la tecnología con la que soñaba Lilly podría llegar mediante el análisis, en lugar de la imitación."
+    },
+    {
+      "type": "heading",
+      "text": "Ciencia, ética y los años sesenta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dolphin House pertenece a otra época ética."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy los investigadores plantearían preguntas más exigentes sobre bienestar animal, cautividad, diseño experimental, límites entre humanos y animales, experimentación con drogas y consentimiento de las personas que participan en la investigación."
+    },
+    {
+      "type": "paragraph",
+      "text": "La convivencia con Peter desdibujó categorías que hoy recibirían un intenso escrutinio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los experimentos de Lilly con LSD en delfines afrontarían críticas científicas y éticas serias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchos investigadores y defensores del bienestar animal también cuestionarían el propio entorno de cautividad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al mismo tiempo, la historia debe tratarse con cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las personas implicadas trabajaban dentro de los supuestos científicos y culturales de su época."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas intentaban sinceramente comprender una inteligencia no humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "La lección no es que la curiosidad fuera un error."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es que la curiosidad necesita método, normas de bienestar y humildad."
+    },
+    {
+      "type": "heading",
+      "text": "Mito y realidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: Peter aprendió a hablar inglés."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: Peter intentó imitar sonidos, pero no adquirió lenguaje humano."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: Peter recibió LSD."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: Lilly administró LSD a otros delfines, pero Margaret dijo que Peter quedó excluido."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: La NASA creó un extraño experimento sexual con delfines."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: El proyecto estudiaba la comunicación de los delfines. La conducta sexual de Peter apareció durante la convivencia con Margaret y después dominó la cobertura sensacionalista."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: Los científicos demostraron que Peter se suicidó porque Margaret se marchó."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: Lilly describió la muerte como un suicidio, pero la intención y el estado emocional de Peter no pueden establecerse científicamente con las pruebas disponibles."
+    },
+    {
+      "type": "heading",
+      "text": "El legado de Peter y Margaret"
+    },
+    {
+      "type": "paragraph",
+      "text": "El experimento no enseñó inglés a un delfín."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se convirtió en un capítulo extraño de los intentos por comprender la inteligencia no humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su legado resulta incómodo porque contiene varias verdades al mismo tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pregunta científica era fascinante."
+    },
+    {
+      "type": "paragraph",
+      "text": "El método tenía fallos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La relación entre la persona y el delfín fue extraordinaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "El relato popular se volvió sensacionalista."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia moderna avanzó en una dirección mejor al preguntar qué significan las señales de los delfines dentro de su propia vida. La sección Ciencia de PRESDA también examina [cómo aprendieron a hablar los humanos](/articles/how-humans-learned-to-speak/) y [por qué soñamos](/articles/why-do-we-dream/), dos cuestiones que muestran cuánto cuesta todavía explicar la comunicación y la conciencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy interesa menos preguntar si los delfines pueden aprender a hablar como nosotros que comprender lo que quizá ya se estén comunicando entre ellos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez el mayor error de Dolphin House no fuera creer que los delfines podían comunicarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fue suponer que, para demostrarlo, necesitaban hacerlo como nosotros."
+    }
+  ],
+  "sources": [
+    {
+      "label": "The Guardian: el delfín que me amó",
+      "url": "https://www.theguardian.com/environment/2014/jun/08/the-dolphin-who-loved-me"
+    },
+    {
+      "label": "John C. Lilly: Man and Dolphin",
+      "url": "https://archive.org/details/mandolphin0000john"
+    },
+    {
+      "label": "Proceedings of the Royal Society B: los delfines mulares pueden dirigirse unos a otros con etiquetas vocales aprendidas",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rspb.2013.0053"
+    },
+    {
+      "label": "Proceedings of the National Academy of Sciences: copia vocal de silbidos firma individualmente distintivos en delfines mulares",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1109918109"
+    },
+    {
+      "label": "NOAA Fisheries: delfín mular común",
+      "url": "https://www.fisheries.noaa.gov/species/common-bottlenose-dolphin"
+    },
+    {
+      "label": "Smithsonian Ocean: delfines y ballenas",
+      "url": "https://ocean.si.edu/ocean-life/marine-mammals/dolphins-and-whales"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿De qué trata este artículo de PRESDA?",
+      "answer": "En los años sesenta, Margaret Howe Lovatt convivió con un delfín llamado Peter en un intento extraordinario de acercar la comunicación humana a la de otra especie. Lo ocurrido en Dolphin House se convirtió en una de las historias más extrañas y controvertidas de la investigación animal."
+    },
+    {
+      "question": "¿A qué categoría pertenece esta historia?",
+      "answer": "Esta historia forma parte de la sección Ciencia de PRESDA."
+    },
+    {
+      "question": "¿Quién publicó este artículo?",
+      "answer": "El artículo «Peter y Margaret: el experimento con un delfín que conmocionó al mundo» fue publicado por PRESDA Editorial en PRESDA."
+    }
+  ]
+}

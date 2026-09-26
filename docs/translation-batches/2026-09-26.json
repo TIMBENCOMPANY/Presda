@@ -1,0 +1,121 @@
+{
+  "period": {
+    "start": "2026-08-26",
+    "end": "2026-09-23"
+  },
+  "source": "Google Search Console sc-domain:presda.com, page dimension",
+  "method": "Untranslated published articles ranked by clicks descending, impressions descending",
+  "notes": "Ranked within existing English article URLs without a published translation. Search Console counts are a small observed sample, not language-specific demand forecasts. No English content changes. Saad Lamjarred localization retains the original 7 September 2026 reporting perspective.",
+  "articles": [
+    {
+      "priority": 1,
+      "slug": "self-driving-trucks-future-truck-drivers",
+      "title": "SELF-DRIVING TRUCKS: WILL THE MACHINES REPLACE THE PEOPLE WHO MOVE THE WORLD?",
+      "englishPath": "/articles/self-driving-trucks-future-truck-drivers/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 2,
+      "slug": "david-beckhams-unexpected-passion-beyond-football",
+      "title": "David Beckham Hobbies And Interests: Beekeeping Beyond Football",
+      "englishPath": "/articles/david-beckhams-unexpected-passion-beyond-football/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 3,
+      "slug": "saad-lamjarred-french-court-cases",
+      "title": "Saad Lamjarred and the French Courts: The Cases Explained",
+      "englishPath": "/articles/saad-lamjarred-french-court-cases/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 4,
+      "slug": "anime-how-japanese-animation-conquered-the-world",
+      "title": "ANIME: HOW JAPANESE ANIMATION CONQUERED THE WORLD",
+      "englishPath": "/articles/anime-how-japanese-animation-conquered-the-world/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 5,
+      "slug": "peter-margaret-dolphin-experiment",
+      "title": "PETER AND MARGARET: THE DOLPHIN EXPERIMENT THAT SHOCKED THE WORLD",
+      "englishPath": "/articles/peter-margaret-dolphin-experiment/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 6,
+      "slug": "han-dynasty-china-silk-road-history-legacy",
+      "title": "HAN DYNASTY: HOW AN EMPIRE SHAPED CHINA FOR 2,000 YEARS",
+      "englishPath": "/articles/han-dynasty-china-silk-road-history-legacy/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 7,
+      "slug": "why-people-trust-ai-like-a-friend",
+      "title": "AI IS BECOMING A FRIEND, NOT JUST A TOOL",
+      "englishPath": "/articles/why-people-trust-ai-like-a-friend/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 8,
+      "slug": "guinness-world-records-strangest-hardest-records",
+      "title": "INSIDE GUINNESS WORLD RECORDS: THE STRANGEST, HARDEST AND MOST EXTREME RECORDS EVER",
+      "englishPath": "/articles/guinness-world-records-strangest-hardest-records/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 9,
+      "slug": "samsung-from-food-to-tech-empire",
+      "title": "SAMSUNG: FROM SELLING FOOD TO BUILDING A GLOBAL TECH EMPIRE",
+      "englishPath": "/articles/samsung-from-food-to-tech-empire/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 10,
+      "slug": "bermuda-triangle-ships-planes-mystery-reality",
+      "title": "THE BERMUDA TRIANGLE: WHAT REALLY HAPPENED TO THE SHIPS AND PLANES THAT VANISHED?",
+      "englishPath": "/articles/bermuda-triangle-ships-planes-mystery-reality/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    }
+  ]
+}

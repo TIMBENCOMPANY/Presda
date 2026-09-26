@@ -19,7 +19,7 @@ for (const source of articles) for (const locale of locales) {
   assert.equal(draft.description, '');
   assert.equal(draft.image.alt, '');
   assert.equal(draft.content.length, sourceBlocks(source).length);
-  assert.equal(draft.faq.length, sourceFaqs(source).length);
+  assert.equal(draft.faq.length, sourceFaqs(source, true).length);
   for (const block of draft.content) {
     if (block.type === 'table') {
       markers.add(block.sourceMarker);
@@ -47,13 +47,20 @@ function fixture(source, locale) {
       ? { ...block, caption: localize(block.caption), headings: block.headings.map(localize), rows: block.rows.map(row => row.map(localize)) }
       : { ...block, text: localize(block.text) }),
     sources: (source.references ?? (source.source?.url ? [source.source] : [])).map(item => ({ label: localize(item.name), url: item.url })),
-    faq: sourceFaqs(source).map(item => ({ question: localize(item.question), answer: localize(item.answer) }))
+    faq: sourceFaqs(source, true).map(item => ({ question: localize(item.question), answer: localize(item.answer) }))
   };
 }
 const complex = articles.find(article => article.content.includes('[[RESISTANCE_COMPARISON_TABLE]]'));
 const astrology = articles.find(article => article.content.includes('[[ASTROLOGY_SCIENCE_TABLE]]'));
 const news = articles.find(article => getArticleSchemaType(article) === 'NewsArticle' && !editorial.records.some(record => record.englishPath === `/articles/${article.slug}/`));
 const fixtures = [...locales.map(locale => fixture(complex, locale)), fixture(astrology, 'ar'), fixture(news, 'fr')];
+const spanish = structuredClone(fixtures.find(record => record.locale === 'es'));
+spanish.excerpt = 'UNA HISTORIA QUE RECORRE TODO EL MUNDO';
+validateArticleParity(spanish, complex);
+for (const marker of ['TODO', 'TODO: translate this excerpt', 'TODO[review]']) {
+  spanish.excerpt = marker;
+  assert.throws(() => validateArticleParity(spanish, complex), /unfinished text/);
+}
 validateTranslations(fixtures);
 for (const record of fixtures) {
   const source = articles.find(article => record.englishPath === `/articles/${article.slug}/`);

@@ -30,9 +30,13 @@ function validateArticleParity(record, source) {
   });
   const references = source.references ?? (source.source?.url ? [source.source] : []);
   assert.deepEqual(record.sources?.map(item => item.url) ?? [], references.map(item => item.url), `${label}: reference list`);
-  assert.equal(record.faq?.length ?? 0, sourceFaqs(source).length, `${label}: FAQ parity`);
+  // Older reviewed records may omit generic template FAQs. New translations can
+  // preserve them explicitly, using the exact visible English FAQ source.
+  assert.equal(record.faq?.length ?? 0, sourceFaqs(source, Boolean(record.faq?.length)).length, `${label}: FAQ parity`);
   assert.ok(!/\u2014|&mdash;|&#8212;|&#x2014;/i.test(JSON.stringify(record)), `${label}: editorial punctuation`);
   const serialized = JSON.stringify(record);
-  assert.ok(!/\bTODO\b/.test(serialized) && !/\b(?:PLACEHOLDER|LOREM IPSUM)\b/i.test(serialized), `${label}: unfinished text`);
+  // TODO is also a normal Spanish word, including in uppercase headings.
+  // Reject explicit editorial markers rather than legitimate sentences.
+  assert.ok(!/"\s*TODO\s*"|\bTODO\s*[:\[]/.test(serialized) && !/\b(?:PLACEHOLDER|LOREM IPSUM)\b/i.test(serialized), `${label}: unfinished text`);
 }
 module.exports = { validateArticleParity, links, blockType };
