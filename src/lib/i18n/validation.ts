@@ -36,4 +36,3 @@ export function validateTranslations(records: readonly Translation[]) {
     paths.add(record.path);
   }
 }
-
