@@ -114122,29 +114122,30 @@
     "status": "published",
     "review": {
       "reviewer": "Codex Arabic localization and source review",
-      "reviewedAt": "2026-09-26",
+      "reviewedAt": "2026-09-27",
       "terminologyChecked": true
     },
     "title": "سعد لمجرد أمام القضاء الفرنسي: شرح القضايا والأحكام",
-    "excerpt": "تسلسل موثق لأبرز قضايا سعد لمجرد أمام القضاء الفرنسي، من إدانة باريس عام 2023 إلى قضية سان تروبيه عام 2026 والاستئنافات ووضعه القانوني.",
+    "excerpt": "تحديث سبتمبر 2026: حكم الاستئناف بالسجن عشر سنوات في قضية باريس، وإعلان الدفاع عزمه على الطعن بالنقض، وقضيتا سان تروبيه والابتزاز المنفصلتان.",
     "headlineHighlights": {
       "red": "سعد لمجرد",
       "gold": "القضاء الفرنسي"
     },
-    "seoTitle": "قضايا سعد لمجرد في فرنسا: الأحكام والاستئنافات وما حدث",
-    "description": "شرح موثق لقضيتي سعد لمجرد في باريس وسان تروبيه وحكمي 2023 و2026 والاستئنافات، وفق المعلومات الواردة في المقال الأصلي المؤرخ في 7 سبتمبر 2026.",
+    "seoTitle": "سعد لمجرد: حكم سبتمبر 2026 وتطورات القضايا الفرنسية",
+    "description": "شرح حكم الاستئناف بسجن سعد لمجرد عشر سنوات في قضية باريس، وإعلان الطعن بالنقض، واستئناف سان تروبيه وحكم الابتزاز المنفصلين. تحديث سبتمبر 2026.",
     "keywords": [
       "سعد لمجرد",
-      "قضية سعد لمجرد في فرنسا",
-      "حكم سعد لمجرد",
-      "استئناف سعد لمجرد",
-      "قضية سان تروبيه"
+      "حكم سعد لمجرد سبتمبر 2026",
+      "سعد لمجرد عشر سنوات",
+      "الطعن بالنقض سعد لمجرد",
+      "قضية سان تروبيه",
+      "قضية لورا بريول"
     ],
-    "searchIntent": "فهم الوقائع والأحكام والاستئنافات في قضايا سعد لمجرد الفرنسية مع التمييز بين الملفات القضائية المنفصلة.",
+    "searchIntent": "فهم حكم الاستئناف الصادر في سبتمبر 2026 في قضية سعد لمجرد بباريس وإعلان الدفاع عزمه على الطعن بالنقض، مع التمييز بين مراجعة القانون والوقائع وبين قضايا باريس وسان تروبيه والابتزاز المنفصلة.",
     "category": "Paparazzi",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-09-07",
-    "updatedAt": "2026-09-07",
+    "updatedAt": "2026-09-27",
     "image": {
       "src": "/images/articles/saad-lamjarred-french-court-cases.jpg",
       "alt": "سعد لمجرد خارج محكمة في باريس خلال إجراءات قضائية فرنسية"
@@ -114153,6 +114154,18 @@
       {
         "type": "paragraph",
         "text": "يُعد سعد لمجرد من أشهر مغني البوب المغاربة على المستوى الدولي، لكن مسيرته خلال العقد الماضي كانت موضع متابعة لصيقة أيضاً بسبب عدة قضايا قضائية خطيرة في فرنسا."
+      },
+      {
+        "type": "heading",
+        "text": "تحديث سبتمبر 2026"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 26 سبتمبر 2026، حكمت محكمة الجنايات الاستئنافية في فال دو مارن، المنعقدة في كريتاي، على سعد لمجرد بالسجن عشر سنوات في قضية لورا بريول المتعلقة بواقعة باريس عام 2016، فرفعت عقوبة السجن ست سنوات الصادرة عام 2023. وكانت النيابة قد طلبت ثماني سنوات. وأمرت المحكمة بإيداعه السجن، فأُودع السجن عقب النطق بالحكم."
+      },
+      {
+        "type": "paragraph",
+        "text": "أعلن دفاعه عزمه على الطعن بالنقض، أو ما يُعرف بالفرنسية باسم pourvoi en cassation، وهو طعن يتعلق بتطبيق القانون والإجراءات، وليس محاكمة جديدة للوقائع. ويواصل لمجرد نفي اتهام الاغتصاب. كما استأنف حكم السجن خمس سنوات الصادر في مايو 2026 في قضية سان تروبيه المنفصلة، المتعلقة بوقائع عام 2018."
       },
       {
         "type": "paragraph",
@@ -114172,7 +114185,7 @@
       },
       {
         "type": "paragraph",
-        "text": "اتهمت امرأة فرنسية تُعرف باسم لورا ب. لمجرد باغتصابها والاعتداء عليها بعدما تعارفا في ملهى ليلي بباريس ثم توجها إلى فندق."
+        "text": "اتهمت امرأة فرنسية تُدعى لورا بريول، وتُذكر باسم لورا ب. في بعض التغطيات القضائية، لمجرد باغتصابها والاعتداء عليها بعدما تعارفا في ملهى ليلي بباريس ثم توجها إلى فندق."
       },
       {
         "type": "paragraph",
@@ -114224,7 +114237,35 @@
       },
       {
         "type": "paragraph",
-        "text": "حتى سبتمبر 2026، كانت التقارير المتاحة تشير إلى أن المحاكمة الاستئنافية في قضية باريس لا تزال معلقة."
+        "text": "انتهت فترة انتظار الاستئناف في قضية باريس بصدور الحكم في كريتاي في 26 سبتمبر 2026."
+      },
+      {
+        "type": "heading",
+        "text": "حكم الاستئناف في قضية باريس في سبتمبر 2026"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 26 سبتمبر 2026، حكمت محكمة الجنايات الاستئنافية في فال دو مارن، المنعقدة في كريتاي، على لمجرد بالسجن عشر سنوات في قضية لورا بريول المتعلقة بواقعة باريس عام 2016. وأفادت وكالة فرانس برس بأن النيابة كانت قد طلبت ثماني سنوات. وأدانته المحكمة بالاغتصاب مع اعتبار حالة سُكره ظرفاً مشدداً، ورفعت عقوبة السجن ست سنوات الصادرة عام 2023."
+      },
+      {
+        "type": "paragraph",
+        "text": "أصدرت المحكمة أمراً بإيداعه السجن، يُعرف بالفرنسية باسم mandat de dépôt. وأُودع لمجرد السجن عقب النطق بالحكم. وهو يواصل نفي اتهام الاغتصاب."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يعني الإعلان عن الطعن بالنقض؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قالت محامية الدفاع ماري بورغوبورو لوكالة فرانس برس إن الدفاع سيتقدم بطعن بالنقض. فهذا إعلان عن طعن أمام محكمة النقض الفرنسية، وليس استئنافاً عادياً ثانياً أو إعادة تلقائية لمحاكمة الوقائع."
+      },
+      {
+        "type": "paragraph",
+        "text": "توضح إرشادات بوابة «سيرفيس بوبليك» الفرنسية الرسمية أن محكمة النقض تتحقق من صحة تطبيق القانون واحترام القواعد الإجرائية. وهي لا تعيد النظر في الأدلة لتقرر ما حدث. ويمكنها رفض الطعن أو نقض الحكم، وعند الاقتضاء يمكن إحالة القضية إلى محكمة أخرى للنظر فيها من جديد."
+      },
+      {
+        "type": "paragraph",
+        "text": "وعليه، قد يستمر المسار القضائي. ولا يجوز الخلط بين إعلان الدفاع وبين صدور قرار ينقض الإدانة، كما أن أمر الإيداع في السجن الذي نقلته التقارير يبقى واقعة مستقلة."
       },
       {
         "type": "heading",
@@ -114280,7 +114321,7 @@
       },
       {
         "type": "paragraph",
-        "text": "استأنف لمجرد حكم السجن خمس سنوات في 21 مايو 2026."
+        "text": "أكد محاميه أنه استأنف حكم السجن خمس سنوات في قضية سان تروبيه، وفق تقرير نشرته صحيفة DNA بالاشتراك مع وكالة فرانس برس في 21 مايو 2026."
       },
       {
         "type": "paragraph",
@@ -114300,11 +114341,11 @@
       },
       {
         "type": "paragraph",
-        "text": "باريس: وقائع مزعومة في أكتوبر 2016، وحكم في فبراير 2023 بالسجن ست سنوات، استأنفه لمجرد، وظلت إجراءات الاستئناف معلقة في 2026."
+        "text": "باريس: وقائع في أكتوبر 2016 تتعلق بلورا بريول، وحكم بالسجن ست سنوات في فبراير 2023، ثم حكم استئنافي بالسجن عشر سنوات في كريتاي في 26 سبتمبر 2026. وأعلن الدفاع عزمه على الطعن بالنقض."
       },
       {
         "type": "paragraph",
-        "text": "سان تروبيه: وقائع مزعومة في أغسطس 2018، وحكم في 15 مايو 2026 بالسجن خمس سنوات، استأنفه لمجرد في 21 مايو 2026."
+        "text": "سان تروبيه: وقائع منفصلة في أغسطس 2018 تتعلق بمشتكية أخرى، وحكم بالسجن خمس سنوات في دراغينيان في 15 مايو 2026، واستئناف أكدته تقارير نُشرت في 21 مايو. ولم يفصل حكم الاستئناف الصادر في سبتمبر في قضية باريس في هذه القضية المنفصلة."
       },
       {
         "type": "paragraph",
@@ -114320,15 +114361,15 @@
       },
       {
         "type": "paragraph",
-        "text": "في أبريل 2026، أدانت محكمة جنح في باريس خمسة أشخاص في قضية محاولة ابتزاز لمجرد بمبلغ 3 ملايين يورو."
+        "text": "في 10 أبريل 2026، أدانت محكمة جنح في باريس خمسة متهمين في قضية محاولة ابتزاز لمجرد بمبلغ 3 ملايين يورو، وفقاً للتغطية القضائية لصحيفة لو باريزيان."
       },
       {
         "type": "paragraph",
-        "text": "وبُرئت لورا ب.، المشتكية في قضية الاغتصاب لعام 2016، في إجراءات قضية الابتزاز المنفصلة."
+        "text": "وبُرئت لورا بريول، المشتكية في قضية الاغتصاب بباريس لعام 2016، في إجراءات قضية الابتزاز المنفصلة."
       },
       {
         "type": "paragraph",
-        "text": "لا تلغي تلك القضية في حد ذاتها إدانة لمجرد الصادرة عام 2023 ولا تنقضها."
+        "text": "لم تُبطل إجراءات قضية الابتزاز قانونياً اتهامها بالاغتصاب، ولم تنقض إدانة لمجرد بالاغتصاب. ولا يجوز تصوير تبرئتها في تلك القضية على أنها حكم ضدها في إجراءات قضية الاغتصاب."
       },
       {
         "type": "paragraph",
@@ -114336,27 +114377,59 @@
       },
       {
         "type": "heading",
+        "text": "التسلسل الزمني: ثلاثة مسارات قضائية منفصلة"
+      },
+      {
+        "type": "paragraph",
+        "text": "أكتوبر 2016، قضية باريس: اتهمت لورا بريول لمجرد بالاغتصاب والاعتداء إثر وقائع في فندق بباريس. ونفى الاتهامات."
+      },
+      {
+        "type": "paragraph",
+        "text": "أغسطس 2018، قضية سان تروبيه: اتهمته امرأة أخرى بالاغتصاب. وأصبح ذلك موضوع ملاحقة قضائية منفصلة."
+      },
+      {
+        "type": "paragraph",
+        "text": "24 فبراير 2023، قضية باريس: حكمت محكمة الجنايات في باريس بالسجن ست سنوات. واستأنف لمجرد الحكم."
+      },
+      {
+        "type": "paragraph",
+        "text": "أبريل 2023، قضية باريس: أُفرج عنه تحت الرقابة القضائية إلى حين محاكمته استئنافياً."
+      },
+      {
+        "type": "paragraph",
+        "text": "10 أبريل 2026، قضية الابتزاز: أُدين خمسة متهمين في محاولة ابتزاز بمبلغ 3 ملايين يورو، وبُرئت لورا بريول."
+      },
+      {
+        "type": "paragraph",
+        "text": "15 مايو 2026، قضية سان تروبيه: حكمت محكمة الجنايات في إقليم فار، المنعقدة في دراغينيان، بالسجن خمس سنوات. وأكدت تقارير نُشرت في 21 مايو أنه استأنف الحكم."
+      },
+      {
+        "type": "paragraph",
+        "text": "26 سبتمبر 2026، قضية باريس: رفعت محكمة الجنايات الاستئنافية في فال دو مارن، المنعقدة في كريتاي، العقوبة إلى عشر سنوات، متجاوزة طلب النيابة السجن ثماني سنوات، وأمرت بإيداعه السجن. وأُودع لمجرد السجن، فيما أعلن دفاعه عزمه على الطعن بالنقض."
+      },
+      {
+        "type": "heading",
         "text": "أين وصلت القضايا؟"
       },
       {
         "type": "paragraph",
-        "text": "حتى سبتمبر 2026، كان الوصف الأدق للوضع هو أن سعد لمجرد أُدين في قضيتَي اغتصاب منفصلتين أمام محاكم الدرجة الأولى في فرنسا."
+        "text": "حتى 27 سبتمبر 2026، صدر بحق لمجرد حكم استئنافي بالسجن عشر سنوات في قضية باريس المتعلقة بوقائع عام 2016، وأُودع السجن عقب ذلك الحكم. وقد أعلن دفاعه عزمه على الطعن بالنقض، وهو يواصل نفي اتهام الاغتصاب."
       },
       {
         "type": "paragraph",
-        "text": "وقد استأنف الحكمين."
+        "text": "رفع الحكم الاستئنافي الصادر في 26 سبتمبر عقوبة السجن ست سنوات التي صدرت في باريس عام 2023. وهو أحدث حكم في تلك القضية، وليس حكماً جديداً في إجراءات قضية سان تروبيه."
       },
       {
         "type": "paragraph",
-        "text": "تضمنت إدانة باريس لعام 2023 عقوبة السجن ست سنوات."
+        "text": "وفي قضية سان تروبيه المنفصلة، المتعلقة بوقائع عام 2018، استُؤنف حكم السجن خمس سنوات الصادر في 15 مايو 2026."
       },
       {
         "type": "paragraph",
-        "text": "وتضمنت إدانة سان تروبيه لعام 2026 عقوبة السجن خمس سنوات."
+        "text": "صدرت العقوبتان في قضيتين منفصلتين، ولا ينبغي جمعهما للقول إنهما تشكلان مدة سجن إجمالية. ويجب شرح الوضع الإجرائي لكل منهما على حدة."
       },
       {
         "type": "paragraph",
-        "text": "ولأن الاستئنافات لا تزال جزءاً من المسار القضائي، ينبغي ألا تصف PRESDA أياً من القضيتين بأنها حُسمت نهائياً ما لم يؤكد قرار قضائي موثوق لاحق تلك الصفة."
+        "text": "يعني الإعلان عن الطعن بالنقض أن المسار القضائي في قضية باريس قد يستمر من خلال مراجعة تطبيق القانون والإجراءات. ولا يؤدي الإعلان عن هذا الطعن في حد ذاته إلى نقض الحكم، ولا يعادل البراءة."
       },
       {
         "type": "paragraph",
@@ -114383,12 +114456,36 @@
       {
         "label": "آر تي إل: الحكم على سعد لمجرد بالسجن خمس سنوات في قضية سان تروبيه",
         "url": "https://www.rtl.fr/actu/justice-faits-divers/le-chanteur-marocain-saad-lamjarred-condamne-a-5-ans-de-prison-pour-le-viol-d-une-femme-en-2018-7900635398"
+      },
+      {
+        "label": "H24Info مع وكالة فرانس برس: حكم استئنافي بالسجن عشر سنوات وإعلان الطعن بالنقض، 26 سبتمبر 2026",
+        "url": "https://h24info.ma/maroc/saad-lamjarred-condamne-en-appel-viol/"
+      },
+      {
+        "label": "لو ديسك نقلاً عن وكالة فرانس برس: حكم الاستئناف في فال دو مارن بكريتاي، 26 سبتمبر 2026",
+        "url": "https://mobile.ledesk.ma/encontinu/saad-lamjarred-voit-sa-peine-pour-viol-portee-a-dix-ans-en-appel/"
+      },
+      {
+        "label": "لو 7 تي في: الإيداع في السجن عقب حكم الاستئناف، 26 سبتمبر 2026",
+        "url": "https://fr.le7tv.ma/amp/2026/09/26/saad-lamjarred-condamne-a-dix-ans-de-prison-en-appel-et-place-en-detention-a-lissue-de-laudience/"
+      },
+      {
+        "label": "صحيفة DNA مع وكالة فرانس برس: استئناف الإدانة في قضية سان تروبيه المنفصلة، 21 مايو 2026",
+        "url": "https://www.dna.fr/faits-divers-justice/2026/05/21/condamne-pour-viol-le-chanteur-marocain-saad-lamjarred-fait-appel"
+      },
+      {
+        "label": "لو باريزيان: إدانة خمسة متهمين بالابتزاز وتبرئة لورا بريول، 10 أبريل 2026",
+        "url": "https://www.leparisien.fr/faits-divers/tentative-dextorsion-du-chanteur-saad-lamjarred-tous-les-prevenus-condamnes-sauf-son-accusatrice-10-04-2026-R33PKKRFJRBI3CULT62WV6CD2E.php"
+      },
+      {
+        "label": "سيرفيس بوبليك، إرشادات وزارة العدل الفرنسية: الطعن بالنقض في القضايا الجنائية",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1382"
       }
     ],
     "faq": [
       {
         "question": "ما حكم قضية سعد لمجرد في باريس عام 2023؟",
-        "answer": "في فبراير 2023، أدانت محكمة الجنايات في باريس سعد لمجرد بالاغتصاب والعنف في قضية باريس المتعلقة بوقائع عام 2016، وحكمت عليه بالسجن ست سنوات. وقد استأنف الحكم."
+        "answer": "في فبراير 2023، أدانت محكمة الجنايات في باريس سعد لمجرد بالاغتصاب والعنف في قضية باريس المتعلقة بوقائع عام 2016، وحكمت عليه بالسجن ست سنوات. وقد استأنف الحكم. وفي 26 سبتمبر 2026، رفعت محكمة الجنايات الاستئنافية في كريتاي العقوبة إلى عشر سنوات."
       },
       {
         "question": "ما قضية سان تروبيه؟",
@@ -114400,7 +114497,7 @@
       },
       {
         "question": "هل استأنف سعد لمجرد الحكمين الفرنسيين؟",
-        "answer": "نعم. استأنف إدانة باريس لعام 2023، كما استأنف إدانة سان تروبيه لعام 2026."
+        "answer": "استأنف إدانة باريس الصادرة عام 2023. وفي 26 سبتمبر 2026، رفعت محكمة الاستئناف العقوبة إلى عشر سنوات وأمرت بإيداعه السجن، وأعلن دفاعه عزمه على الطعن بالنقض. كما استأنف حكم السجن خمس سنوات الصادر في مايو 2026 في قضية سان تروبيه المنفصلة."
       },
       {
         "question": "هل يعني الاستئناف تبرئة سعد لمجرد؟",
@@ -114408,7 +114505,11 @@
       },
       {
         "question": "ما قضية الابتزاز عام 2026؟",
-        "answer": "تناولت التغطيات الفرنسية قضية منفصلة لمحاولة ابتزاز مرتبطة بملف باريس. أُدين فيها خمسة أشخاص، بينما بُرئت لورا ب. في ذلك المسار المنفصل. ولم تنقض هذه القضية الإدانة بالاغتصاب."
+        "answer": "في 10 أبريل 2026، أُدين خمسة متهمين في محاولة ابتزاز لمجرد بمبلغ 3 ملايين يورو. وبُرئت لورا بريول. ولم يُبطل هذا المسار القضائي المنفصل قانونياً اتهامها بالاغتصاب، ولم ينقض إدانته بالاغتصاب."
+      },
+      {
+        "question": "ماذا يعني الإعلان عن الطعن بالنقض؟",
+        "answer": "أعلن الدفاع عزمه على الطعن في حكم الاستئناف الصادر في سبتمبر 2026 أمام محكمة النقض الفرنسية. وتراجع هذه المحكمة تطبيق القانون والإجراءات، ولا تعيد النظر في الوقائع. وقد يُرفض الطعن أو يُنقض الحكم. ولا يعني الإعلان البراءة، وقد يستمر المسار القضائي."
       }
     ]
   },
@@ -114420,28 +114521,29 @@
     "status": "published",
     "review": {
       "reviewer": "Codex Spanish localization and source review",
-      "reviewedAt": "2026-09-26",
+      "reviewedAt": "2026-09-27",
       "terminologyChecked": true
     },
     "title": "Saad Lamjarred ante la justicia francesa: las causas, explicadas",
-    "excerpt": "Cronología de las principales causas contra Saad Lamjarred en Francia: la condena de París de 2023, el caso de Saint-Tropez de 2026 y sus recursos, a 7 de septiembre de 2026.",
+    "excerpt": "Actualización de septiembre de 2026: la condena de diez años en la apelación de París, el recurso de casación anunciado y los procedimientos independientes de Saint-Tropez y extorsión.",
     "headlineHighlights": {
       "red": "Saad Lamjarred",
       "gold": "justicia francesa"
     },
-    "seoTitle": "Saad Lamjarred: condenas y recursos en Francia",
-    "description": "Las causas de París y Saint-Tropez contra Saad Lamjarred, sus condenas y recursos, explicados con la información disponible al 7 de septiembre de 2026.",
+    "seoTitle": "Saad Lamjarred: sentencia de septiembre de 2026 y causas",
+    "description": "La condena de diez años en París, la casación anunciada, el recurso de Saint-Tropez y el intento de extorsión que sufrió. Actualización de septiembre de 2026.",
     "keywords": [
-      "Saad Lamjarred juicio Francia",
-      "Saad Lamjarred condena",
-      "Saad Lamjarred apelación",
-      "caso Saint-Tropez"
+      "Saad Lamjarred sentencia septiembre 2026",
+      "Saad Lamjarred diez años prisión",
+      "Saad Lamjarred recurso de casación",
+      "caso Saint-Tropez",
+      "Laura Prioul extorsión absolución"
     ],
-    "searchIntent": "Entender las dos causas francesas, distinguir las condenas recurridas y conocer su situación a la fecha del artículo.",
+    "searchIntent": "Comprender la sentencia de apelación de París del 26 de septiembre de 2026 y la casación anunciada, distinguiéndolas del recurso de Saint-Tropez y del procedimiento por extorsión, con información al 27 de septiembre de 2026.",
     "category": "Paparazzi",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-09-07",
-    "updatedAt": "2026-09-07",
+    "updatedAt": "2026-09-27",
     "image": {
       "src": "/images/articles/saad-lamjarred-french-court-cases.jpg",
       "alt": "Saad Lamjarred a las puertas de un tribunal de París durante los procedimientos judiciales en Francia."
@@ -114450,6 +114552,18 @@
       {
         "type": "paragraph",
         "text": "Saad Lamjarred es uno de los cantantes de pop marroquíes más conocidos internacionalmente, pero en la última década su carrera también ha estado bajo escrutinio por varias causas judiciales graves en Francia."
+      },
+      {
+        "type": "heading",
+        "text": "ACTUALIZACIÓN DE SEPTIEMBRE DE 2026"
+      },
+      {
+        "type": "paragraph",
+        "text": "El 26 de septiembre de 2026, el Tribunal de lo Criminal de Apelación de Val-de-Marne, en Créteil, condenó a Saad Lamjarred a diez años de prisión en el caso de Laura Prioul por los hechos ocurridos en París en 2016, elevando la pena de seis años impuesta en 2023. La fiscalía había solicitado ocho años. El tribunal ordenó su ingreso en prisión y Lamjarred fue encarcelado tras el fallo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Su defensa anunció un recurso de casación, o pourvoi en cassation, que cuestiona la aplicación del derecho y las normas procesales, no un nuevo juicio sobre los hechos. Lamjarred sigue negando la acusación de violación. También se ha recurrido la condena independiente de cinco años impuesta en mayo de 2026 por el caso de Saint-Tropez de 2018."
       },
       {
         "type": "paragraph",
@@ -114469,7 +114583,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Una mujer francesa, Laura P., acusó a Lamjarred de violarla y agredirla después de que se conocieran en una discoteca de París y acudieran posteriormente a un hotel."
+        "text": "Una mujer francesa, Laura Prioul, identificada como Laura P. en algunas crónicas judiciales, acusó a Lamjarred de violarla y agredirla después de conocerse en una discoteca de París y acudir más tarde a un hotel."
       },
       {
         "type": "paragraph",
@@ -114521,7 +114635,35 @@
       },
       {
         "type": "paragraph",
-        "text": "En septiembre de 2026, la información disponible indicaba que el juicio de apelación del caso de París seguía pendiente."
+        "text": "Ese periodo de espera del juicio de apelación de París terminó con la sentencia del 26 de septiembre de 2026 en Créteil."
+      },
+      {
+        "type": "heading",
+        "text": "La sentencia de apelación del caso de París de septiembre de 2026"
+      },
+      {
+        "type": "paragraph",
+        "text": "El 26 de septiembre de 2026, el Tribunal de lo Criminal de Apelación de Val-de-Marne, con sede en Créteil, condenó a Lamjarred a diez años de prisión en el caso de Laura Prioul por los hechos de París de 2016. AFP informó de que la fiscalía había solicitado ocho años. El tribunal lo declaró culpable de violación agravada por su estado de embriaguez y elevó la pena de seis años impuesta en 2023."
+      },
+      {
+        "type": "paragraph",
+        "text": "El tribunal dictó una orden de ingreso en prisión, conocida en francés como mandat de dépôt. Lamjarred fue encarcelado tras la sentencia. Sigue negando la acusación de violación."
+      },
+      {
+        "type": "heading",
+        "text": "Qué significa el recurso de casación anunciado"
+      },
+      {
+        "type": "paragraph",
+        "text": "La abogada de la defensa Marie Burguburu declaró a AFP que se interpondría un pourvoi en cassation. Se trata del anuncio de un recurso ante la Cour de cassation de Francia, no de una segunda apelación ordinaria ni de un nuevo juicio automático sobre los hechos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Como explica la información oficial francesa de Service Public, la Cour de cassation comprueba si se aplicó correctamente el derecho y se respetaron las normas procesales. No vuelve a examinar las pruebas para decidir qué ocurrió. Puede rechazar el recurso o anular la sentencia; cuando sea necesario, el asunto puede remitirse a otro tribunal para un nuevo juicio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Por tanto, el procedimiento judicial puede continuar. El anuncio de la defensa no debe confundirse con una resolución que anule la condena, y la orden de ingreso en prisión comunicada sigue siendo un hecho independiente."
       },
       {
         "type": "heading",
@@ -114577,7 +114719,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Lamjarred recurrió la condena de cinco años el 21 de mayo de 2026."
+        "text": "Su abogado confirmó que había recurrido la condena de cinco años por el caso de Saint-Tropez, según una información publicada por DNA con AFP el 21 de mayo de 2026."
       },
       {
         "type": "paragraph",
@@ -114597,11 +114739,11 @@
       },
       {
         "type": "paragraph",
-        "text": "París: hechos denunciados de octubre de 2016, sentencia de febrero de 2023 y condena de seis años. Lamjarred recurrió y el procedimiento de apelación seguía pendiente en 2026."
+        "text": "París: hechos de octubre de 2016 relacionados con Laura Prioul, condena de seis años en febrero de 2023 y posterior condena de diez años en apelación en Créteil el 26 de septiembre de 2026. La defensa anunció un recurso de casación."
       },
       {
         "type": "paragraph",
-        "text": "Saint-Tropez: hechos denunciados de agosto de 2018, sentencia del 15 de mayo de 2026 y condena de cinco años. Lamjarred recurrió el 21 de mayo de 2026."
+        "text": "Saint-Tropez: hechos independientes de agosto de 2018 relacionados con otra denunciante, condena de cinco años en Draguignan el 15 de mayo de 2026 y recurso confirmado en informaciones del 21 de mayo. La sentencia de apelación de París de septiembre no resolvió esta causa independiente."
       },
       {
         "type": "paragraph",
@@ -114617,15 +114759,15 @@
       },
       {
         "type": "paragraph",
-        "text": "En abril de 2026, un tribunal penal de París condenó a cinco personas por su participación en un intento de extorsión de tres millones de euros contra Lamjarred."
+        "text": "El 10 de abril de 2026, un tribunal penal de París condenó a cinco acusados por un intento de extorsión de tres millones de euros contra Lamjarred, según la crónica judicial de Le Parisien."
       },
       {
         "type": "paragraph",
-        "text": "Laura P., denunciante en el caso de violación de 2016, fue absuelta en ese procedimiento independiente por extorsión."
+        "text": "Laura Prioul, la denunciante del caso de violación de París de 2016, fue absuelta en ese procedimiento independiente por extorsión."
       },
       {
         "type": "paragraph",
-        "text": "Ese caso no cancela ni revoca por sí mismo la condena de Lamjarred de 2023."
+        "text": "El procedimiento por extorsión no invalidó jurídicamente su denuncia de violación ni anuló la condena de Lamjarred por violación. Su absolución en esa causa no debe presentarse como una resolución en su contra en los procedimientos por violación."
       },
       {
         "type": "paragraph",
@@ -114633,27 +114775,59 @@
       },
       {
         "type": "heading",
+        "text": "Cronología judicial: tres procedimientos distintos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Octubre de 2016, caso de París: Laura Prioul acusó a Lamjarred de violación y agresión por hechos ocurridos en un hotel parisino. Él negó las acusaciones."
+      },
+      {
+        "type": "paragraph",
+        "text": "Agosto de 2018, caso de Saint-Tropez: otra mujer lo acusó de violación. La denuncia dio lugar a un procedimiento penal independiente."
+      },
+      {
+        "type": "paragraph",
+        "text": "24 de febrero de 2023, caso de París: el Tribunal de lo Criminal de París impuso una condena de seis años de prisión. Lamjarred recurrió."
+      },
+      {
+        "type": "paragraph",
+        "text": "Abril de 2023, caso de París: quedó en libertad bajo control judicial a la espera de su juicio de apelación."
+      },
+      {
+        "type": "paragraph",
+        "text": "10 de abril de 2026, caso de extorsión: cinco acusados fueron condenados por el intento de extorsión de tres millones de euros; Laura Prioul fue absuelta."
+      },
+      {
+        "type": "paragraph",
+        "text": "15 de mayo de 2026, caso de Saint-Tropez: el Tribunal de lo Criminal de Var, en Draguignan, impuso una condena de cinco años. Su recurso se confirmó en informaciones publicadas el 21 de mayo."
+      },
+      {
+        "type": "paragraph",
+        "text": "26 de septiembre de 2026, caso de París: el Tribunal de lo Criminal de Apelación de Val-de-Marne, en Créteil, elevó la pena a diez años, por encima de los ocho solicitados por la fiscalía, y ordenó el ingreso en prisión. Lamjarred fue encarcelado y su defensa anunció un recurso de casación."
+      },
+      {
+        "type": "heading",
         "text": "En qué punto están las causas"
       },
       {
         "type": "paragraph",
-        "text": "En septiembre de 2026, la descripción más clara es esta: Saad Lamjarred ha sido condenado en primera instancia en dos causas distintas por violación en Francia."
+        "text": "A 27 de septiembre de 2026, Lamjarred ha recibido una condena de diez años de prisión en apelación por el caso de París de 2016 y ha sido encarcelado tras esa sentencia. Su defensa ha anunciado un recurso de casación y él sigue negando la acusación de violación."
       },
       {
         "type": "paragraph",
-        "text": "Ha recurrido ambas sentencias."
+        "text": "La sentencia de apelación del 26 de septiembre elevó la pena de seis años impuesta en París en 2023. Es la resolución más reciente de esa causa, no una nueva condena en el procedimiento de Saint-Tropez."
       },
       {
         "type": "paragraph",
-        "text": "La condena de París de 2023 impuso una pena de seis años."
+        "text": "En la causa independiente de Saint-Tropez de 2018, se ha recurrido la condena de cinco años impuesta el 15 de mayo de 2026."
       },
       {
         "type": "paragraph",
-        "text": "La condena por el caso de Saint-Tropez de 2026 impuso una pena de cinco años."
+        "text": "Las dos condenas proceden de causas separadas y no deben sumarse para afirmar una pena total de prisión. Su situación procesal debe explicarse por separado."
       },
       {
         "type": "paragraph",
-        "text": "Como los recursos forman parte del proceso judicial, PRESDA no debe presentar ninguna de las dos causas como definitivamente resuelta, salvo que una resolución judicial posterior y autorizada confirme esa situación."
+        "text": "El anuncio de un pourvoi en cassation significa que el procedimiento del caso de París puede continuar mediante una revisión del derecho y las normas procesales. Anunciar ese recurso no anula por sí mismo la sentencia ni equivale a una absolución."
       },
       {
         "type": "paragraph",
@@ -114680,12 +114854,36 @@
       {
         "label": "RTL: condena de cinco años a Saad Lamjarred por el caso de Saint-Tropez",
         "url": "https://www.rtl.fr/actu/justice-faits-divers/le-chanteur-marocain-saad-lamjarred-condamne-a-5-ans-de-prison-pour-le-viol-d-une-femme-en-2018-7900635398"
+      },
+      {
+        "label": "H24Info con AFP: condena de diez años en apelación y anuncio de casación, 26 de septiembre de 2026",
+        "url": "https://h24info.ma/maroc/saad-lamjarred-condamne-en-appel-viol/"
+      },
+      {
+        "label": "Le Desk, información de AFP: sentencia de apelación de Val-de-Marne en Créteil, 26 de septiembre de 2026",
+        "url": "https://mobile.ledesk.ma/encontinu/saad-lamjarred-voit-sa-peine-pour-viol-portee-a-dix-ans-en-appel/"
+      },
+      {
+        "label": "Le7tv: ingreso en prisión tras la sentencia de apelación, 26 de septiembre de 2026",
+        "url": "https://fr.le7tv.ma/amp/2026/09/26/saad-lamjarred-condamne-a-dix-ans-de-prison-en-appel-et-place-en-detention-a-lissue-de-laudience/"
+      },
+      {
+        "label": "DNA con AFP: recurso contra la condena independiente de Saint-Tropez, 21 de mayo de 2026",
+        "url": "https://www.dna.fr/faits-divers-justice/2026/05/21/condamne-pour-viol-le-chanteur-marocain-saad-lamjarred-fait-appel"
+      },
+      {
+        "label": "Le Parisien: cinco condenas por extorsión y absolución de Laura Prioul, 10 de abril de 2026",
+        "url": "https://www.leparisien.fr/faits-divers/tentative-dextorsion-du-chanteur-saad-lamjarred-tous-les-prevenus-condamnes-sauf-son-accusatrice-10-04-2026-R33PKKRFJRBI3CULT62WV6CD2E.php"
+      },
+      {
+        "label": "Service Public, información del Ministerio de Justicia francés: casación penal",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1382"
       }
     ],
     "faq": [
       {
         "question": "¿Cuál fue la sentencia contra Saad Lamjarred en París en 2023?",
-        "answer": "En febrero de 2023, el Tribunal de lo Criminal de París declaró a Saad Lamjarred culpable de violación y violencia por los hechos del caso de París de 2016 y lo condenó a seis años de prisión. Él recurrió la sentencia."
+        "answer": "En febrero de 2023, el Tribunal de lo Criminal de París declaró a Saad Lamjarred culpable de violación y violencia por los hechos del caso de París de 2016 y lo condenó a seis años de prisión. Él recurrió la sentencia. El 26 de septiembre de 2026, el Tribunal de lo Criminal de Apelación en Créteil elevó la pena a diez años."
       },
       {
         "question": "¿Qué es el caso de Saint-Tropez?",
@@ -114697,7 +114895,7 @@
       },
       {
         "question": "¿Recurrió Saad Lamjarred las sentencias francesas?",
-        "answer": "Sí. Recurrió tanto la condena de París de 2023 como la del caso de Saint-Tropez de 2026."
+        "answer": "Recurrió la condena de París de 2023. El 26 de septiembre de 2026, el tribunal de apelación elevó la pena a diez años, ordenó su ingreso en prisión y su defensa anunció un pourvoi en cassation. También recurrió la condena independiente de cinco años por Saint-Tropez impuesta en mayo de 2026."
       },
       {
         "question": "¿Apelar significa que Saad Lamjarred fue absuelto?",
@@ -114705,7 +114903,11 @@
       },
       {
         "question": "¿En qué consistió la causa por extorsión de 2026?",
-        "answer": "La prensa francesa informó de un procedimiento independiente por intento de extorsión vinculado al asunto de París. Cinco personas fueron condenadas y Laura P. fue absuelta en esa causa. El procedimiento no revocó la condena por violación."
+        "answer": "El 10 de abril de 2026, cinco acusados fueron condenados por un intento de extorsión de tres millones de euros contra Lamjarred. Laura Prioul fue absuelta. Ese procedimiento independiente no invalidó jurídicamente su denuncia de violación ni anuló la condena de él por violación."
+      },
+      {
+        "question": "¿Qué significa el pourvoi en cassation anunciado?",
+        "answer": "La defensa anunció un recurso contra la sentencia de apelación de septiembre de 2026 ante la Cour de cassation de Francia. Ese tribunal revisa la aplicación del derecho y las normas procesales, no vuelve a juzgar los hechos. Puede rechazar el recurso o anular la sentencia. El anuncio no es una absolución y el procedimiento judicial puede continuar."
       }
     ]
   },
@@ -114717,29 +114919,30 @@
     "status": "published",
     "review": {
       "reviewer": "Codex French localization and source review",
-      "reviewedAt": "2026-09-26",
+      "reviewedAt": "2026-09-27",
       "terminologyChecked": true
     },
     "title": "Saad Lamjarred face à la justice française : comprendre les différentes affaires",
-    "excerpt": "Une chronologie factuelle des principales affaires judiciaires de Saad Lamjarred en France : condamnation à Paris en 2023, affaire de Saint-Tropez en 2026 et appels, au 7 septembre 2026.",
+    "excerpt": "Mise à jour de septembre 2026 : la peine de dix ans prononcée en appel dans l’affaire parisienne, le pourvoi en cassation annoncé et les procédures distinctes de Saint-Tropez et de tentative d’extorsion.",
     "headlineHighlights": {
       "red": "Saad Lamjarred",
       "gold": "la justice française"
     },
-    "seoTitle": "Saad Lamjarred : condamnations et appels en France, les faits",
-    "description": "Les affaires Saad Lamjarred en France au 7 septembre 2026 : condamnations de Paris et Saint-Tropez, appels et distinction entre les procédures.",
+    "seoTitle": "Saad Lamjarred : verdict de septembre 2026 et affaires judiciaires",
+    "description": "Dix ans de prison en appel à Paris, pourvoi en cassation annoncé, appel dans l’affaire de Saint-Tropez et tentative d’extorsion : le point en septembre 2026.",
     "keywords": [
-      "Saad Lamjarred procès",
-      "Saad Lamjarred condamnation",
-      "Saad Lamjarred appel",
+      "Saad Lamjarred verdict septembre 2026",
+      "Saad Lamjarred dix ans appel",
+      "Saad Lamjarred pourvoi en cassation",
+      "affaire Laura Prioul",
       "affaire Saint-Tropez",
-      "justice française"
+      "Saad Lamjarred tentative d’extorsion"
     ],
-    "searchIntent": "Comprendre la chronologie des affaires françaises de Saad Lamjarred au 7 septembre 2026 et distinguer condamnations en première instance, appels et procédures séparées.",
+    "searchIntent": "Comprendre le verdict en appel du 26 septembre 2026, le pourvoi en cassation annoncé et la situation au 27 septembre des procédures distinctes de Paris, Saint-Tropez et tentative d’extorsion.",
     "category": "Paparazzi",
     "author": "PRESDA Editorial",
     "publishedAt": "2026-09-07",
-    "updatedAt": "2026-09-07",
+    "updatedAt": "2026-09-27",
     "image": {
       "src": "/images/articles/saad-lamjarred-french-court-cases.jpg",
       "alt": "Saad Lamjarred devant un palais de justice parisien lors de procédures judiciaires en France"
@@ -114748,6 +114951,18 @@
       {
         "type": "paragraph",
         "text": "Saad Lamjarred est l’un des chanteurs pop marocains les plus connus à l’international. Mais, au cours de la dernière décennie, sa carrière a aussi été suivie de près en raison de plusieurs graves affaires judiciaires en France."
+      },
+      {
+        "type": "heading",
+        "text": "MISE À JOUR DE SEPTEMBRE 2026"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le 26 septembre 2026, la cour d’assises d’appel du Val-de-Marne, à Créteil, a condamné Saad Lamjarred à dix ans de prison dans l’affaire Laura Prioul, concernant les faits parisiens de 2016, portant ainsi à dix ans la peine de six ans prononcée en 2023. Le parquet avait requis huit ans. La cour a ordonné son placement en détention et il a été incarcéré à l’issue du verdict."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sa défense a annoncé un pourvoi en cassation, recours portant sur l’application du droit et le respect de la procédure, et non sur un nouveau jugement des faits. Lamjarred continue de contester l’accusation de viol. La peine distincte de cinq ans prononcée en mai 2026 dans l’affaire de Saint-Tropez, relative à des faits de 2018, a également fait l’objet d’un appel."
       },
       {
         "type": "paragraph",
@@ -114767,7 +114982,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Une Française, Laura P., accuse Lamjarred de l’avoir violée et violentée après leur rencontre dans une boîte de nuit parisienne, puis leur arrivée dans un hôtel."
+        "text": "Une Française, Laura Prioul, désignée comme Laura P. dans certains comptes rendus judiciaires, accuse Lamjarred de l’avoir violée et violentée après leur rencontre dans une boîte de nuit parisienne, puis leur arrivée dans un hôtel."
       },
       {
         "type": "paragraph",
@@ -114819,7 +115034,35 @@
       },
       {
         "type": "paragraph",
-        "text": "En septembre 2026, les informations disponibles indiquaient que le procès en appel dans l’affaire parisienne était toujours en attente."
+        "text": "Cette attente du procès en appel dans l’affaire parisienne a pris fin avec le verdict rendu à Créteil le 26 septembre 2026."
+      },
+      {
+        "type": "heading",
+        "text": "Le verdict en appel de septembre 2026 dans l’affaire parisienne"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le 26 septembre 2026, la cour d’assises d’appel du Val-de-Marne, siégeant à Créteil, a condamné Lamjarred à dix ans de prison dans l’affaire Laura Prioul, concernant les faits parisiens de 2016. Selon l’AFP, le parquet avait requis huit ans. La cour l’a déclaré coupable de viol aggravé par son état d’ivresse et a alourdi la peine de six ans prononcée en 2023."
+      },
+      {
+        "type": "paragraph",
+        "text": "La cour a prononcé un mandat de dépôt. Lamjarred a été incarcéré à l’issue du verdict. Il continue de contester l’accusation de viol."
+      },
+      {
+        "type": "heading",
+        "text": "Ce que signifie le pourvoi en cassation annoncé"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’avocate de la défense, Marie Burguburu, a déclaré à l’AFP qu’un pourvoi en cassation serait formé. Il s’agit de l’annonce d’un recours devant la Cour de cassation, et non d’un second appel ordinaire ni d’un nouveau procès automatique sur les faits."
+      },
+      {
+        "type": "paragraph",
+        "text": "Comme l’explique le site officiel Service Public, la Cour de cassation vérifie que le droit a été correctement appliqué et que les règles de procédure ont été respectées. Elle ne réexamine pas les preuves pour déterminer ce qui s’est passé. Elle peut rejeter le pourvoi ou casser la décision ; si nécessaire, l’affaire peut être renvoyée devant une autre juridiction pour être rejugée."
+      },
+      {
+        "type": "paragraph",
+        "text": "La procédure judiciaire peut donc se poursuivre. L’annonce de la défense ne doit pas être confondue avec une décision annulant la condamnation, et le mandat de dépôt rapporté demeure un fait distinct."
       },
       {
         "type": "heading",
@@ -114875,7 +115118,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Lamjarred fait appel de cette peine de cinq ans le 21 mai 2026."
+        "text": "Son avocat a confirmé qu’il avait fait appel de la peine de cinq ans dans l’affaire de Saint-Tropez, selon un article publié par les DNA avec l’AFP le 21 mai 2026."
       },
       {
         "type": "paragraph",
@@ -114895,11 +115138,11 @@
       },
       {
         "type": "paragraph",
-        "text": "Paris : faits allégués en octobre 2016, verdict en février 2023, peine de six ans, appel de Lamjarred et procédure d’appel toujours en attente en 2026."
+        "text": "Paris : faits d’octobre 2016 impliquant Laura Prioul, condamnation à six ans de prison en février 2023, puis à dix ans en appel à Créteil le 26 septembre 2026. La défense a annoncé un pourvoi en cassation."
       },
       {
         "type": "paragraph",
-        "text": "Saint-Tropez : faits allégués en août 2018, verdict le 15 mai 2026, peine de cinq ans et appel de Lamjarred le 21 mai 2026."
+        "text": "Saint-Tropez : faits distincts d’août 2018 concernant une autre plaignante, condamnation à cinq ans de prison à Draguignan le 15 mai 2026 et appel confirmé dans un article du 21 mai. Le verdict parisien en appel de septembre n’a pas tranché cette autre affaire."
       },
       {
         "type": "paragraph",
@@ -114915,15 +115158,15 @@
       },
       {
         "type": "paragraph",
-        "text": "En avril 2026, un tribunal correctionnel parisien condamne cinq personnes dans une affaire de tentative d’extorsion de 3 millions d’euros visant Lamjarred."
+        "text": "Le 10 avril 2026, un tribunal correctionnel parisien a condamné cinq prévenus pour une tentative d’extorsion de 3 millions d’euros visant Lamjarred, selon le compte rendu judiciaire du Parisien."
       },
       {
         "type": "paragraph",
-        "text": "Laura P., la plaignante dans l’affaire de viol de 2016, est relaxée dans cette procédure distincte pour tentative d’extorsion."
+        "text": "Laura Prioul, la plaignante dans l’affaire parisienne de viol de 2016, a été relaxée dans cette procédure distincte pour tentative d’extorsion."
       },
       {
         "type": "paragraph",
-        "text": "Cette affaire n’annule ni n’infirme, à elle seule, la condamnation de Lamjarred prononcée en 2023."
+        "text": "La procédure pour tentative d’extorsion n’a juridiquement invalidé ni son accusation de viol ni la condamnation de Lamjarred pour viol. Sa relaxe dans cette affaire ne doit pas être présentée comme une décision rendue contre elle dans la procédure pour viol."
       },
       {
         "type": "paragraph",
@@ -114931,27 +115174,59 @@
       },
       {
         "type": "heading",
+        "text": "Chronologie judiciaire : trois procédures distinctes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Octobre 2016, affaire parisienne : Laura Prioul accuse Lamjarred de viol et de violences après des faits survenus dans un hôtel parisien. Il nie les accusations."
+      },
+      {
+        "type": "paragraph",
+        "text": "Août 2018, affaire de Saint-Tropez : une autre femme l’accuse de viol. Ces faits donnent lieu à des poursuites distinctes."
+      },
+      {
+        "type": "paragraph",
+        "text": "24 février 2023, affaire parisienne : la cour d’assises de Paris prononce une peine de six ans de prison. Lamjarred fait appel."
+      },
+      {
+        "type": "paragraph",
+        "text": "Avril 2023, affaire parisienne : il est remis en liberté sous contrôle judiciaire dans l’attente de son procès en appel."
+      },
+      {
+        "type": "paragraph",
+        "text": "10 avril 2026, affaire de tentative d’extorsion : cinq prévenus sont condamnés pour la tentative d’extorsion de 3 millions d’euros ; Laura Prioul est relaxée."
+      },
+      {
+        "type": "paragraph",
+        "text": "15 mai 2026, affaire de Saint-Tropez : la cour d’assises du Var, à Draguignan, prononce une peine de cinq ans. Son appel est confirmé dans un article publié le 21 mai."
+      },
+      {
+        "type": "paragraph",
+        "text": "26 septembre 2026, affaire parisienne : la cour d’assises d’appel du Val-de-Marne, à Créteil, porte la peine à dix ans, au-delà des huit ans requis par le parquet, et ordonne son placement en détention. Lamjarred est incarcéré et sa défense annonce un pourvoi en cassation."
+      },
+      {
+        "type": "heading",
         "text": "Où en sont les procédures ?"
       },
       {
         "type": "paragraph",
-        "text": "En septembre 2026, la formulation la plus précise est la suivante : Saad Lamjarred a été condamné en première instance dans deux affaires de viol distinctes en France."
+        "text": "Au 27 septembre 2026, Lamjarred a été condamné en appel à dix ans de prison dans l’affaire parisienne de 2016 et a été incarcéré à l’issue de ce verdict. Sa défense a annoncé un pourvoi en cassation et il continue de contester l’accusation de viol."
       },
       {
         "type": "paragraph",
-        "text": "Il a fait appel des deux jugements."
+        "text": "L’arrêt d’appel du 26 septembre a alourdi la peine de six ans prononcée à Paris en 2023. Il s’agit de la dernière décision rendue dans cette affaire, et non d’une nouvelle peine dans la procédure de Saint-Tropez."
       },
       {
         "type": "paragraph",
-        "text": "La condamnation parisienne de 2023 était assortie d’une peine de six ans."
+        "text": "Dans l’affaire distincte de Saint-Tropez, relative à des faits de 2018, la peine de cinq ans prononcée le 15 mai 2026 a fait l’objet d’un appel."
       },
       {
         "type": "paragraph",
-        "text": "La condamnation de 2026 dans l’affaire de Saint-Tropez était assortie d’une peine de cinq ans."
+        "text": "Les deux peines concernent des affaires distinctes et ne doivent pas être additionnées pour affirmer une durée totale d’emprisonnement. Il faut expliquer séparément l’état de chaque procédure."
       },
       {
         "type": "paragraph",
-        "text": "Les appels faisant toujours partie du parcours judiciaire, PRESDA ne doit présenter aucune des deux affaires comme définitivement close sans qu’une décision de justice ultérieure faisant autorité établisse ce statut."
+        "text": "Le pourvoi en cassation annoncé signifie que la procédure dans l’affaire parisienne peut se poursuivre par un contrôle du droit et de la procédure. L’annonce de ce recours ne casse pas, à elle seule, le verdict et ne constitue pas un acquittement."
       },
       {
         "type": "paragraph",
@@ -114978,12 +115253,36 @@
       {
         "label": "RTL : Saad Lamjarred condamné à cinq ans dans l’affaire de Saint-Tropez",
         "url": "https://www.rtl.fr/actu/justice-faits-divers/le-chanteur-marocain-saad-lamjarred-condamne-a-5-ans-de-prison-pour-le-viol-d-une-femme-en-2018-7900635398"
+      },
+      {
+        "label": "H24Info avec l’AFP : peine de dix ans en appel et pourvoi en cassation annoncé, 26 septembre 2026",
+        "url": "https://h24info.ma/maroc/saad-lamjarred-condamne-en-appel-viol/"
+      },
+      {
+        "label": "Le Desk, selon l’AFP : verdict en appel du Val-de-Marne à Créteil, 26 septembre 2026",
+        "url": "https://mobile.ledesk.ma/encontinu/saad-lamjarred-voit-sa-peine-pour-viol-portee-a-dix-ans-en-appel/"
+      },
+      {
+        "label": "Le7tv : placement en détention après le verdict en appel, 26 septembre 2026",
+        "url": "https://fr.le7tv.ma/amp/2026/09/26/saad-lamjarred-condamne-a-dix-ans-de-prison-en-appel-et-place-en-detention-a-lissue-de-laudience/"
+      },
+      {
+        "label": "DNA avec l’AFP : appel de la condamnation distincte dans l’affaire de Saint-Tropez, 21 mai 2026",
+        "url": "https://www.dna.fr/faits-divers-justice/2026/05/21/condamne-pour-viol-le-chanteur-marocain-saad-lamjarred-fait-appel"
+      },
+      {
+        "label": "Le Parisien : cinq condamnations pour tentative d’extorsion et relaxe de Laura Prioul, 10 avril 2026",
+        "url": "https://www.leparisien.fr/faits-divers/tentative-dextorsion-du-chanteur-saad-lamjarred-tous-les-prevenus-condamnes-sauf-son-accusatrice-10-04-2026-R33PKKRFJRBI3CULT62WV6CD2E.php"
+      },
+      {
+        "label": "Service Public, informations du ministère de la Justice : pourvoi en cassation en matière pénale",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1382"
       }
     ],
     "faq": [
       {
         "question": "Quel verdict a été rendu à Paris contre Saad Lamjarred en 2023 ?",
-        "answer": "En février 2023, la cour d’assises de Paris a déclaré Saad Lamjarred coupable de viol et de violences dans l’affaire parisienne de 2016 et l’a condamné à six ans de prison. Il a fait appel du verdict."
+        "answer": "En février 2023, la cour d’assises de Paris a déclaré Saad Lamjarred coupable de viol et de violences dans l’affaire parisienne de 2016 et l’a condamné à six ans de prison. Il a fait appel du verdict. Le 26 septembre 2026, la cour d’assises d’appel siégeant à Créteil a porté la peine à dix ans."
       },
       {
         "question": "Qu’est-ce que l’affaire de Saint-Tropez ?",
@@ -114995,7 +115294,7 @@
       },
       {
         "question": "Saad Lamjarred a-t-il fait appel des verdicts français ?",
-        "answer": "Oui. Il a fait appel de sa condamnation parisienne de 2023 ainsi que de celle prononcée en 2026 dans l’affaire de Saint-Tropez."
+        "answer": "Il a fait appel de sa condamnation parisienne de 2023. Le 26 septembre 2026, la cour d’appel a porté la peine à dix ans et ordonné son placement en détention ; sa défense a annoncé un pourvoi en cassation. Il a également fait appel de la peine distincte de cinq ans prononcée en mai 2026 dans l’affaire de Saint-Tropez."
       },
       {
         "question": "Un appel signifie-t-il que Saad Lamjarred a été acquitté ?",
@@ -115003,7 +115302,11 @@
       },
       {
         "question": "En quoi consistait l’affaire de tentative d’extorsion de 2026 ?",
-        "answer": "La presse française a décrit une procédure distincte pour tentative d’extorsion liée à l’affaire parisienne. Cinq personnes ont été condamnées, tandis que Laura P. a été relaxée dans cette autre procédure. Celle-ci n’a pas annulé la condamnation pour viol."
+        "answer": "Le 10 avril 2026, cinq prévenus ont été condamnés pour une tentative d’extorsion de 3 millions d’euros visant Lamjarred. Laura Prioul a été relaxée. Cette procédure distincte n’a juridiquement invalidé ni son accusation de viol ni la condamnation de Lamjarred pour viol."
+      },
+      {
+        "question": "Que signifie le pourvoi en cassation annoncé ?",
+        "answer": "La défense a annoncé un recours contre l’arrêt d’appel de septembre 2026 devant la Cour de cassation. Celle-ci contrôle l’application du droit et le respect de la procédure ; elle ne rejuge pas les faits. Le pourvoi peut être rejeté ou la décision cassée. Cette annonce ne constitue pas un acquittement et la procédure judiciaire peut se poursuivre."
       }
     ]
   },

@@ -28730,29 +28730,32 @@ export const articles: Article[] = [
     id: "029",
     slug: "saad-lamjarred-french-court-cases",
     title: "Saad Lamjarred and the French Courts: The Cases Explained",
-    seoTitle: "Saad Lamjarred Court Cases in France: What Happened?",
+    seoTitle: "Saad Lamjarred: September 2026 Verdict and Court Cases",
     metaDescription:
-      "A factual timeline of Saad Lamjarred's major French court cases, the 2023 Paris conviction, the 2026 Saint-Tropez case, his appeals and current legal status.",
+      "Saad Lamjarred’s ten-year Paris appeal sentence, announced cassation challenge, separate Saint-Tropez appeal and extortion ruling explained. September 2026 update.",
     headlineHighlights: {
       red: "Saad Lamjarred",
       gold: "French Courts"
     },
     excerpt:
-      "A factual timeline of Saad Lamjarred's major French court cases, the 2023 Paris conviction, the 2026 Saint-Tropez case, his appeals and current legal status.",
+      "Updated September 2026: the ten-year sentence in the Paris appeal, the announced cassation challenge and the separate Saint-Tropez and extortion proceedings.",
     category: "Paparazzi",
     date: "2026-09-07",
-    lastUpdated: "2026-09-07",
+    lastUpdated: "2026-09-27",
     author: "PRESDA Editorial",
     coverImage: "/images/articles/saad-lamjarred-french-court-cases.jpg",
     coverAlt: "Saad Lamjarred outside a Paris courthouse during French legal proceedings",
     homepageImagePosition: "50% 38%",
     content: [
       "Saad Lamjarred is one of Morocco's most internationally known pop singers, but during the past decade his career has also been closely followed because of several serious legal cases in France.",
+      "## SEPTEMBER 2026 UPDATE",
+      "On September 26, 2026, the Val-de-Marne appeals assize court in Créteil sentenced Saad Lamjarred to ten years in prison in the Laura Prioul case concerning the 2016 Paris incident, increasing his six-year sentence from 2023. The prosecution had requested eight years. The court ordered detention, and he was incarcerated following the verdict.",
+      "His defense announced a pourvoi en cassation, a challenge concerning the application of law and procedure rather than a fresh trial of the facts. Lamjarred continues to contest the rape allegation. The separate five-year sentence imposed in May 2026 over the 2018 Saint-Tropez case has also been appealed.",
       "The legal history can be confusing because it involves separate allegations, different courts and ongoing appeals.",
       "This is what the French court record and major court reporting show. For related PRESDA coverage of public figures under intense media attention, read our [Paparazzi coverage](/category/paparazzi/) and our factual profile of [Katy Perry and Justin Trudeau](/articles/katy-perry-and-justin-trudeau-spark-global-speculation/).",
       "## The 2016 Paris Case",
       "The first major French case began in October 2016.",
-      "A French woman, Laura P., accused Lamjarred of raping and assaulting her after they met at a nightclub in Paris and later went to a hotel.",
+      "A French woman, Laura Prioul, identified as Laura P. in some court reporting, accused Lamjarred of raping and assaulting her after they met at a nightclub in Paris and later went to a hotel.",
       "Lamjarred denied the accusations.",
       "After years of investigation and legal proceedings, the case eventually reached the Paris Assize Court.",
       "## The 2023 Paris Verdict",
@@ -28765,7 +28768,14 @@ export const articles: Article[] = [
       "In April 2023, a Paris appeals court granted Lamjarred release under judicial supervision while he waited for his appeal trial.",
       "His 2023 conviction was not erased by that decision.",
       "It remained the first-instance judgment while the appeal process continued.",
-      "As of September 2026, available reporting indicated that the appeal trial in the Paris case was still pending.",
+      "That period awaiting the Paris appeal ended with the September 26, 2026 verdict in Créteil.",
+      "## The September 2026 Paris Appeal Verdict",
+      "On September 26, 2026, the Val-de-Marne appeals assize court, sitting in Créteil, sentenced Lamjarred to ten years in prison in the Laura Prioul case concerning the 2016 Paris incident. AFP reported that the prosecution had requested eight years. The court found him guilty of rape aggravated by his intoxication and increased the six-year sentence imposed in 2023.",
+      "The court issued a detention order, known in French as a mandat de dépôt. Lamjarred was incarcerated following the verdict. He continues to contest the rape allegation.",
+      "## What the Announced Cassation Challenge Means",
+      "Defense lawyer Marie Burguburu told AFP that a pourvoi en cassation would be brought. This is an announced challenge before France’s Cour de cassation, not a second ordinary appeal or an automatic new trial of the facts.",
+      "As France’s official Service Public guidance explains, the Cour de cassation checks whether the law was correctly applied and procedural rules respected. It does not hear the evidence again to decide what happened. It may reject the challenge or quash the judgment; where necessary, the case can be sent to another court for a new hearing.",
+      "The legal process may therefore continue. The defense’s announcement must not be confused with a ruling overturning the conviction, and the reported detention order remains a separate fact.",
       "## The Separate Saint-Tropez Case",
       "Lamjarred also faced a separate case involving events in Saint-Tropez in August 2018.",
       "A woman said she had met him at a nightclub and later went with him to his hotel.",
@@ -28779,48 +28789,80 @@ export const articles: Article[] = [
       "Lamjarred had appeared at the trial as a free man.",
       "The court did not issue an immediate detention warrant after the verdict, according to reports of the judgment.",
       "## Lamjarred Appeals Again",
-      "Lamjarred appealed the five-year sentence on May 21, 2026.",
+      "His lawyer confirmed that he had appealed the five-year Saint-Tropez sentence, according to reporting published by DNA with AFP on May 21, 2026.",
       "That means the Saint-Tropez case also remains subject to further judicial proceedings.",
       "He continues to deny committing rape.",
       "## Two Separate French Cases",
       "The most important point is that the Paris and Saint-Tropez cases are separate.",
-      "Paris: alleged events in October 2016, verdict in February 2023, six-year sentence, Lamjarred appealed, and appeal proceedings remained pending in 2026.",
-      "Saint-Tropez: alleged events in August 2018, verdict on May 15, 2026, five-year sentence, and Lamjarred appealed on May 21, 2026.",
+      "Paris: events in October 2016 involving Laura Prioul, a six-year sentence in February 2023, then a ten-year sentence on appeal in Créteil on September 26, 2026. The defense announced a pourvoi en cassation.",
+      "Saint-Tropez: separate events in August 2018 involving another complainant, a five-year sentence in Draguignan on May 15, 2026, and an appeal confirmed in reporting on May 21. The September Paris appeal verdict did not decide this separate case.",
       "An appeal means a judgment can be reviewed by another court. It should not be described as an acquittal or as a final confirmation unless a later court has actually issued such a decision.",
       "## The 2026 Extortion Case",
       "A separate legal development also emerged around the Paris case.",
-      "In April 2026, a Paris criminal court convicted five people in connection with an attempted EUR3 million extortion scheme targeting Lamjarred.",
-      "Laura P., the complainant in the 2016 rape case, was acquitted in that separate extortion proceeding.",
-      "That case does not itself cancel or overturn Lamjarred's 2023 conviction.",
+      "On April 10, 2026, a Paris criminal court convicted five defendants over an attempted EUR3 million extortion targeting Lamjarred, according to Le Parisien’s court reporting.",
+      "Laura Prioul, the complainant in the 2016 Paris rape case, was acquitted in that separate extortion proceeding.",
+      "The extortion proceedings did not legally invalidate her rape allegation or overturn Lamjarred’s rape conviction. Her acquittal in that case must not be presented as a finding against her in the rape proceedings.",
       "The rape appeal and the extortion case are legally distinct proceedings.",
+      "## Legal Timeline: Three Distinct Proceedings",
+      "October 2016, Paris case: Laura Prioul accused Lamjarred of rape and assault following events at a Paris hotel. He denied the accusations.",
+      "August 2018, Saint-Tropez case: a different woman accused him of rape. This became a separate prosecution.",
+      "February 24, 2023, Paris case: the Paris Assize Court imposed a six-year prison sentence. Lamjarred appealed.",
+      "April 2023, Paris case: he was released under judicial supervision pending his appeal trial.",
+      "April 10, 2026, extortion case: five defendants were convicted over the attempted EUR3 million extortion; Laura Prioul was acquitted.",
+      "May 15, 2026, Saint-Tropez case: the Var Assize Court in Draguignan imposed a five-year sentence. His appeal was confirmed in reporting published on May 21.",
+      "September 26, 2026, Paris case: the Val-de-Marne appeals assize court in Créteil increased the sentence to ten years, exceeding the prosecution’s eight-year request, and ordered detention. Lamjarred was incarcerated, and his defense announced a pourvoi en cassation.",
       "## Where The Cases Stand",
-      "As of September 2026, the clearest description is this: Saad Lamjarred has been convicted in two separate French rape cases at trial-court level.",
-      "He has appealed both judgments.",
-      "The 2023 Paris conviction carried a six-year sentence.",
-      "The 2026 Saint-Tropez conviction carried a five-year sentence.",
-      "Because appeals remain part of the judicial process, PRESDA should not describe either case as finally resolved unless a later authoritative court decision confirms that status.",
+      "As of September 27, 2026, Lamjarred has received a ten-year prison sentence on appeal in the 2016 Paris case and has been incarcerated following that verdict. His defense has announced a cassation challenge, and he continues to contest the rape allegation.",
+      "The September 26 appeal judgment increased the six-year sentence imposed in Paris in 2023. It is the latest judgment in that case, not a new sentence in the Saint-Tropez proceedings.",
+      "In the separate 2018 Saint-Tropez case, the five-year sentence imposed on May 15, 2026 has been appealed.",
+      "The two sentences arise from separate cases and should not be added together to assert a total prison term. Their procedural status must be explained separately.",
+      "The announced pourvoi en cassation means the legal process in the Paris case may continue through a review of law and procedure. Announcing that challenge does not itself quash the verdict or amount to an acquittal.",
       "The cases remain among the most closely watched legal controversies involving a major Arab music star."
     ],
     references: [
       {
-        name: "Associated Press: Moroccan singer Saad Lamjarred convicted in Paris rape case",
-        url: "https://apnews.com/article/bc0974916d25a3035acbe2c2f8dd2afa"
+        "name": "Associated Press: Moroccan singer Saad Lamjarred convicted in Paris rape case",
+        "url": "https://apnews.com/article/bc0974916d25a3035acbe2c2f8dd2afa"
       },
       {
-        name: "Le Parisien: Saad Lamjarred appeals his 2023 conviction",
-        url: "https://www.leparisien.fr/faits-divers/le-chanteur-marocain-saad-lamjarred-fait-appel-de-sa-condamnation-pour-viol-28-02-2023-WLH75CG3AZFBTIIPBQSLWX4BPE.php"
+        "name": "Le Parisien: Saad Lamjarred appeals his 2023 conviction",
+        "url": "https://www.leparisien.fr/faits-divers/le-chanteur-marocain-saad-lamjarred-fait-appel-de-sa-condamnation-pour-viol-28-02-2023-WLH75CG3AZFBTIIPBQSLWX4BPE.php"
       },
       {
-        name: "Le Parisien: Saad Lamjarred released pending appeal",
-        url: "https://www.leparisien.fr/faits-divers/accuse-de-viol-le-chanteur-saad-lamjarred-remis-en-liberte-avant-son-proces-en-appel-21-04-2023-GYWFEB5XTNEJNDQJPTCLS2V2ZQ.php"
+        "name": "Le Parisien: Saad Lamjarred released pending appeal",
+        "url": "https://www.leparisien.fr/faits-divers/accuse-de-viol-le-chanteur-saad-lamjarred-remis-en-liberte-avant-son-proces-en-appel-21-04-2023-GYWFEB5XTNEJNDQJPTCLS2V2ZQ.php"
       },
       {
-        name: "TF1 Info: Saint-Tropez case and 2026 Draguignan verdict",
-        url: "https://www.tf1info.fr/justice-faits-divers/saint-tropez-le-chanteur-marocain-saad-lamjarred-condamne-a-5-ans-de-prison-pour-un-viol-en-2018-2441781.html"
+        "name": "TF1 Info: Saint-Tropez case and 2026 Draguignan verdict",
+        "url": "https://www.tf1info.fr/justice-faits-divers/saint-tropez-le-chanteur-marocain-saad-lamjarred-condamne-a-5-ans-de-prison-pour-un-viol-en-2018-2441781.html"
       },
       {
-        name: "RTL: Saad Lamjarred sentenced to five years in Saint-Tropez case",
-        url: "https://www.rtl.fr/actu/justice-faits-divers/le-chanteur-marocain-saad-lamjarred-condamne-a-5-ans-de-prison-pour-le-viol-d-une-femme-en-2018-7900635398"
+        "name": "RTL: Saad Lamjarred sentenced to five years in Saint-Tropez case",
+        "url": "https://www.rtl.fr/actu/justice-faits-divers/le-chanteur-marocain-saad-lamjarred-condamne-a-5-ans-de-prison-pour-le-viol-d-une-femme-en-2018-7900635398"
+      },
+      {
+        "name": "H24Info with AFP: ten-year appeal sentence and announced cassation challenge, September 26, 2026",
+        "url": "https://h24info.ma/maroc/saad-lamjarred-condamne-en-appel-viol/"
+      },
+      {
+        "name": "Le Desk, reporting AFP: Val-de-Marne appeal verdict in Créteil, September 26, 2026",
+        "url": "https://mobile.ledesk.ma/encontinu/saad-lamjarred-voit-sa-peine-pour-viol-portee-a-dix-ans-en-appel/"
+      },
+      {
+        "name": "Le7tv: detention following the appeal verdict, September 26, 2026",
+        "url": "https://fr.le7tv.ma/amp/2026/09/26/saad-lamjarred-condamne-a-dix-ans-de-prison-en-appel-et-place-en-detention-a-lissue-de-laudience/"
+      },
+      {
+        "name": "DNA with AFP: appeal against the separate Saint-Tropez conviction, May 21, 2026",
+        "url": "https://www.dna.fr/faits-divers-justice/2026/05/21/condamne-pour-viol-le-chanteur-marocain-saad-lamjarred-fait-appel"
+      },
+      {
+        "name": "Le Parisien: five extortion convictions and Laura Prioul’s acquittal, April 10, 2026",
+        "url": "https://www.leparisien.fr/faits-divers/tentative-dextorsion-du-chanteur-saad-lamjarred-tous-les-prevenus-condamnes-sauf-son-accusatrice-10-04-2026-R33PKKRFJRBI3CULT62WV6CD2E.php"
+      },
+      {
+        "name": "Service Public, French Ministry of Justice guidance: criminal cassation review",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1382"
       }
     ],
     tags: [
@@ -28832,37 +28874,35 @@ export const articles: Article[] = [
       "Saad Lamjarred appeal",
       "Paparazzi"
     ],
-    readingTime: "5 min read",
+    readingTime: "7 min read",
     faq: [
       {
-        question: "What was the 2023 Saad Lamjarred verdict in Paris?",
-        answer:
-          "In February 2023, the Paris Assize Court found Saad Lamjarred guilty of rape and violence in connection with the 2016 Paris case and sentenced him to six years in prison. He appealed the verdict."
+        "question": "What was the 2023 Saad Lamjarred verdict in Paris?",
+        "answer": "In February 2023, the Paris Assize Court found Saad Lamjarred guilty of rape and violence in connection with the 2016 Paris case and sentenced him to six years in prison. He appealed the verdict. On September 26, 2026, the appeals assize court in Créteil increased the sentence to ten years."
       },
       {
-        question: "What is the Saint-Tropez case?",
-        answer:
-          "The Saint-Tropez case is a separate French case involving alleged events in August 2018. In May 2026, a court in Draguignan convicted Lamjarred and sentenced him to five years in prison. He appealed."
+        "question": "What is the Saint-Tropez case?",
+        "answer": "The Saint-Tropez case is a separate French case involving alleged events in August 2018. In May 2026, a court in Draguignan convicted Lamjarred and sentenced him to five years in prison. He appealed."
       },
       {
-        question: "Are the Paris and Saint-Tropez cases the same case?",
-        answer:
-          "No. They are separate proceedings involving different alleged events, different dates and separate court judgments."
+        "question": "Are the Paris and Saint-Tropez cases the same case?",
+        "answer": "No. They are separate proceedings involving different alleged events, different dates and separate court judgments."
       },
       {
-        question: "Did Saad Lamjarred appeal the French verdicts?",
-        answer:
-          "Yes. He appealed the 2023 Paris conviction and also appealed the 2026 Saint-Tropez conviction."
+        "question": "Did Saad Lamjarred appeal the French verdicts?",
+        "answer": "He appealed the 2023 Paris conviction. On September 26, 2026, the appeal court increased the sentence to ten years, ordered detention, and his defense announced a pourvoi en cassation. He also appealed the separate five-year Saint-Tropez sentence imposed in May 2026."
       },
       {
-        question: "Does an appeal mean Saad Lamjarred was acquitted?",
-        answer:
-          "No. An appeal means a judgment can be reviewed by another court. It should not be described as an acquittal unless a court later issues that decision."
+        "question": "Does an appeal mean Saad Lamjarred was acquitted?",
+        "answer": "No. An appeal means a judgment can be reviewed by another court. It should not be described as an acquittal unless a court later issues that decision."
       },
       {
-        question: "What was the 2026 extortion case?",
-        answer:
-          "French reporting described a separate attempted extortion case linked to the Paris matter. Five people were convicted, while Laura P. was acquitted in that separate proceeding. It did not overturn the rape conviction."
+        "question": "What was the 2026 extortion case?",
+        "answer": "On April 10, 2026, five defendants were convicted over an attempted EUR3 million extortion targeting Lamjarred. Laura Prioul was acquitted. That separate proceeding did not legally invalidate her rape allegation or overturn his rape conviction."
+      },
+      {
+        "question": "What does the announced pourvoi en cassation mean?",
+        "answer": "The defense announced a challenge to the September 2026 appeal judgment before France’s Cour de cassation. That court reviews the application of law and procedure, not the facts afresh. The challenge may be rejected or the judgment quashed. The announcement is not an acquittal, and the legal process may continue."
       }
     ]
   },
