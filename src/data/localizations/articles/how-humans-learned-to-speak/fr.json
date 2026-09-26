@@ -1,0 +1,1131 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/how-humans-learned-to-speak/",
+  "path": "/fr/articles/how-humans-learned-to-speak/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "LANGAGE : COMMENT LES HUMAINS ONT-ILS APPRIS À PARLER ?",
+  "excerpt": "Toutes les sociétés humaines utilisent le langage, mais les scientifiques ne peuvent pas retrouver les premiers mots prononcés. Son histoire commence avant l’écriture, dans les corps, les cerveaux, les gestes, la coopération et la culture.",
+  "headlineHighlights": {
+    "red": "LANGAGE",
+    "gold": "APPRIS À PARLER"
+  },
+  "seoTitle": "Comment les humains ont-ils appris à parler ? Origines du langage",
+  "description": "Explorez les origines du langage humain : cerveau, parole, Homo sapiens, premières écritures, familles de langues et diversité linguistique actuelle.",
+  "keywords": [
+    "origine du langage",
+    "évolution du langage humain",
+    "comment les humains ont appris à parler",
+    "première langue",
+    "langage et cerveau",
+    "familles de langues"
+  ],
+  "searchIntent": "Comprendre comment le langage humain a évolué, distinguer parole et écriture et découvrir ce que la science sait de la première langue.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-09",
+  "updatedAt": "2026-09-09",
+  "image": {
+    "src": "/images/articles/how-humans-learned-to-speak.webp",
+    "alt": "Humains préhistoriques communiquant près de peintures rupestres, avec des symboles, des écritures anciennes et des alphabets illustrant l’évolution du langage"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "L’évolution du langage humain est l’une des grandes énigmes que la science n’a pas encore résolues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Toutes les sociétés humaines connues utilisent le langage. On parle, on signe, on chante, on plaisante, on se dispute, on enseigne, on prie, on échange, on se souvient et on imagine grâce à des systèmes de sens que les enfants apprennent à une vitesse étonnante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais personne ne sait exactement quand le premier mot a été prononcé."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe aucun fossile de phrase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe aucun enregistrement du premier récit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe aucune inscription ancienne remontant aux débuts de la parole, car le langage oral a presque certainement précédé l’écriture de très longtemps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les scientifiques peuvent étudier des indices indirects : fossiles humains, évolution du cerveau, anatomie vocale, génétique, archéologie, développement de l’enfant, langues des signes, comparaison des communications animales, [linguistique historique](https://www.eva.mpg.de/linguistic-and-cultural-evolution/) et systèmes d’écriture les plus anciens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’en ressort pas une réponse unique et simple."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il s’agit de reconstituer avec prudence comment les humains sont devenus des animaux capables de transmettre des idées d’un esprit à l’autre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour approfondir ces questions scientifiques avec PRESDA, lisez nos articles sur [les raisons pour lesquelles nous rêvons](/articles/why-do-we-dream/), [Charles Darwin et l’évolution](/articles/charles-darwin-theory-of-evolution/) et [la dépression et le cerveau](/articles/depression-what-happens-in-the-brain/)."
+    },
+    {
+      "type": "heading",
+      "text": "La communication avant le langage complexe"
+    },
+    {
+      "type": "paragraph",
+      "text": "La communication est plus ancienne que l’humanité."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les animaux avertissent, paradent, gesticulent, chantent, marquent leur territoire, coordonnent leurs déplacements et signalent leurs états émotionnels. Les oiseaux chantent. Les primates émettent des cris et font des gestes. Les baleines communiquent par des sons complexes. Les abeilles indiquent des sources de nourriture par leurs mouvements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage humain possède toutefois plusieurs caractéristiques qui le distinguent profondément."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il permet de décrire ce qui n’est pas présent. Il combine de petites unités pour produire des significations nouvelles. Il peut évoquer hier, demain, la fiction, les mathématiques, le droit, les commérages, les dieux, les recettes, les contrats et des mondes impossibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant l’apparition d’un langage complexe, les ancêtres des humains communiquaient presque certainement par des gestes, des expressions du visage, des cris, des postures et une attention partagée."
+    },
+    {
+      "type": "paragraph",
+      "text": "La difficulté n’est pas de savoir si les premiers humains communiquaient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils le faisaient."
+    },
+    {
+      "type": "paragraph",
+      "text": "La question est de comprendre comment la communication est devenue langage : un système souple capable de produire une infinité de significations à partir de sons ou de signes appris."
+    },
+    {
+      "type": "heading",
+      "text": "Homo sapiens et la longue histoire humaine"
+    },
+    {
+      "type": "paragraph",
+      "text": "Homo sapiens, l’humain moderne, a évolué en Afrique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fossiles et les données génétiques montrent que notre espèce est issue d’un long processus évolutif, et non d’un instant soudain où un langage entièrement moderne serait apparu sous sa forme achevée."
+    },
+    {
+      "type": "paragraph",
+      "text": "D’autres espèces humaines apparentées avaient elles aussi une vie complexe. Les Néandertaliens fabriquaient des outils, utilisaient le feu, enterraient certains de leurs morts, produisaient des objets symboliques dans certains contextes et partageaient des ancêtres avec les humains modernes. La question d’un langage néandertalien comparable au nôtre reste débattue, mais l’ancienne image de cousins muets et peu intelligents n’est plus crédible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Homo sapiens a développé un corps, un cerveau et des cultures qui rendaient la communication complexe de plus en plus puissante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque les humains modernes se sont largement répandus hors d’Afrique, ils étaient capables de coopérer à distance, d’adopter des comportements symboliques, d’enseigner, de planifier et de s’adapter à de nombreux milieux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage y a presque certainement contribué."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais aucun scientifique ne peut désigner un fossile en affirmant : voici le premier être qui a parlé."
+    },
+    {
+      "type": "heading",
+      "text": "Le cerveau et le langage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage dépend du cerveau, mais il n’est pas rangé dans une minuscule boîte qui lui serait réservée."
+    },
+    {
+      "type": "paragraph",
+      "text": "La production de la parole, la compréhension, la grammaire, le traitement des sons, le sens, la mémoire, le contrôle moteur et l’interprétation sociale mobilisent des réseaux répartis dans le cerveau."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les régions classiques du langage, comme l’aire de Broca et l’aire de Wernicke, restent importantes en neurosciences, mais les recherches actuelles révèlent un système davantage interconnecté, faisant intervenir des régions temporales, frontales, pariétales et sous-corticales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le cerveau doit associer des sons ou des signes à un sens. Il doit ordonner les mots. Il doit suivre qui fait quoi à qui. Il doit déduire l’intention, le contexte et l’émotion."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est pourquoi le langage n’est pas seulement un dictionnaire dans la tête."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est un système cognitif vivant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il permet à un esprit d’en influencer un autre sans le toucher."
+    },
+    {
+      "type": "heading",
+      "text": "Le corps : souffle, bouche et conduit vocal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage oral dépend aussi de l’anatomie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les humains contrôlent la respiration, les vibrations des cordes vocales, les mouvements de la langue, des lèvres, de la mâchoire et du voile du palais avec une précision extraordinaire. La parole transforme un flux d’air en sons structurés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le conduit vocal humain produit une grande variété de voyelles et de consonnes. Le contrôle moteur fin permet d’enchaîner rapidement les sons. L’audition permet aux enfants de s’adapter aux caractéristiques de la parole qui les entoure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucune particularité anatomique n’explique à elle seule le langage."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’abaissement du larynx, la souplesse de la langue, le contrôle respiratoire, les circuits neuronaux, l’audition, l’apprentissage social et la transmission culturelle ont tous leur importance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage n’est pas simplement une bouche qui fait du bruit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il naît de la coordination entre l’anatomie, la cognition et la culture."
+    },
+    {
+      "type": "heading",
+      "text": "Les gènes : rester prudent avec FOXP2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le gène FOXP2 est devenu célèbre parce que certaines de ses mutations peuvent affecter les capacités de parole et de langage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette découverte était importante, mais elle est souvent simplifiée à l’excès."
+    },
+    {
+      "type": "paragraph",
+      "text": "FOXP2 n’est pas un gène magique du langage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage dépend de nombreux gènes, de processus de développement et de l’environnement. FOXP2 intervient dans des fonctions neuronales et motrices liées à la parole, mais aucun scientifique rigoureux ne le considère comme l’unique interrupteur qui aurait créé le langage humain."
+    },
+    {
+      "type": "paragraph",
+      "text": "La génétique peut contribuer à montrer que la parole et le langage ont des fondements biologiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle ne peut pas encore nous donner la date exacte du premier mot prononcé."
+    },
+    {
+      "type": "heading",
+      "text": "Le geste et la parole"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une grande question sur l’évolution du langage consiste à savoir s’il a commencé principalement par la parole, par le geste ou par une combinaison des deux."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’hypothèse d’une origine gestuelle souligne l’importance des mains, du pointage, de l’imitation et de l’attention partagée. La communication humaine fait encore constamment appel aux gestes. Même les personnes qui parlent couramment bougent les mains, le visage et le corps en parlant."
+    },
+    {
+      "type": "paragraph",
+      "text": "La parole présente d’autres avantages. Elle fonctionne dans l’obscurité, laisse les mains libres, peut contourner les obstacles et se produire rapidement."
+    },
+    {
+      "type": "paragraph",
+      "text": "De nombreux chercheurs pensent désormais que le scénario le plus vraisemblable n’oppose peut-être pas le geste à la parole."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il pourrait les associer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les premiers humains utilisaient probablement le visage, les mains, la posture, le rythme, les vocalisations, puis des systèmes sonores plus structurés, de manière de plus en plus coordonnée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage n’avait pas besoin de commencer par une grammaire parfaite."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a pu se développer à partir d’une communication sociale devenant plus symbolique, plus apte aux combinaisons et plus facile à transmettre d’une génération à l’autre."
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi la première langue parlée nous échappe"
+    },
+    {
+      "type": "paragraph",
+      "text": "On demande souvent quelle était la première langue humaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "La science ne peut pas répondre directement à cette question."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les premières langues parlées n’ont laissé aucune trace écrite. Le son disparaît s’il n’est pas enregistré, et les techniques d’enregistrement sont extrêmement récentes. L’écriture n’est apparue qu’il y a quelques milliers d’années, alors que le langage oral est bien plus ancien."
+    },
+    {
+      "type": "paragraph",
+      "text": "La linguistique historique peut reconstituer des états anciens de familles de langues en comparant des langues apparentées. Elle peut déduire certaines formes de langues comme le proto-indo-européen ou le proto-afro-asiatique, avec des degrés de certitude variables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais cette reconstitution a des limites."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle ne peut pas remonter indéfiniment jusqu’à la première langue humaine, à supposer qu’il ait existé une seule première langue plutôt qu’une émergence progressive de systèmes proches du langage au sein de populations apparentées."
+    },
+    {
+      "type": "paragraph",
+      "text": "La réponse rigoureuse est simple :"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous ne connaissons pas la première langue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Affirmer qu’une langue moderne serait la langue originelle de l’humanité n’est pas étayé par la science linguistique."
+    },
+    {
+      "type": "heading",
+      "text": "Le langage et la coopération humaine"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage est puissant parce que les humains sont des êtres sociaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un groupe capable de partager des informations détaillées peut coordonner la chasse, récolter de la nourriture, enseigner la fabrication d’outils, avertir d’un danger, négocier des alliances, transmettre des mythes, organiser des rituels, élever les enfants ensemble et se souvenir des personnes dignes de confiance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage permet aussi à des choses absentes de prendre une réalité sociale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une personne peut décrire une source au-delà de la colline. Une grand-mère peut transmettre un récit antérieur à la naissance d’un enfant. Un groupe peut s’accorder sur des règles, des noms, des liens de parenté, des biens, des dettes, des mariages ou des lieux sacrés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela ne signifie pas que le langage a évolué uniquement pour répondre aux besoins pratiques de la survie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage humain porte aussi le jeu, la beauté, le chant, l’humour et l’identité."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais la coopération explique en partie pourquoi il est devenu si central dans la réussite humaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les mots permettent aux groupes de dépasser les limites de la perception immédiate."
+    },
+    {
+      "type": "heading",
+      "text": "Les migrations hors d’Afrique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque les populations d’Homo sapiens se sont déplacées en Afrique et au-delà, leurs langues les ont accompagnées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces premières langues ne peuvent pas être directement retrouvées. Elles ont changé, se sont séparées, ont fusionné, ont disparu et se sont transformées pendant des dizaines de milliers d’années."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les migrations créent de la diversité linguistique parce que les communautés séparées évoluent dans des directions différentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une prononciation se modifie ici. Un mot change de sens ailleurs. Un nouveau terme est emprunté aux voisins. Les enfants apprennent des usages légèrement différents de ceux de la génération précédente. Au fil des siècles, des dialectes deviennent des langues. Au fil des millénaires, des langues peuvent donner naissance à des familles entières."
+    },
+    {
+      "type": "paragraph",
+      "text": "La dispersion des humains dans le monde a donc entraîné celle de leurs langues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucune langue n’est primitive."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues de petites communautés peuvent être aussi complexes sur le plan grammatical et aussi expressives que celles des empires."
+    },
+    {
+      "type": "paragraph",
+      "text": "Toute langue humaine naturelle constitue un système complet au service de la pensée et de la vie sociale."
+    },
+    {
+      "type": "heading",
+      "text": "Comment les langues se diversifient"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues changent constamment parce que les humains changent constamment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les systèmes sonores évoluent. Des mots sont empruntés. Les sens se déplacent. La grammaire se simplifie sur certains points et se complexifie sur d’autres. Les nouvelles technologies nécessitent un nouveau vocabulaire. Le contact entre communautés engendre le bilinguisme, les emprunts, les pidgins, les créoles et des univers linguistiques mêlés."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’isolement peut accentuer les différences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le commerce peut diffuser des mots."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un empire peut diffuser des langues officielles."
+    },
+    {
+      "type": "paragraph",
+      "text": "La religion peut préserver des langues sacrées."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’école peut uniformiser les usages parlés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les migrations peuvent faire naître de nouveaux dialectes."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’écriture peut ralentir certains changements et en accélérer d’autres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une langue n’est pas un objet de musée."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est un ensemble d’usages porté par des personnes vivantes."
+    },
+    {
+      "type": "heading",
+      "text": "Les familles de langues"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une famille de langues réunit des langues issues d’un ancêtre commun."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’anglais, l’allemand, le persan, l’hindi, l’espagnol, le grec et le russe, par exemple, appartiennent à la famille indo-européenne, mais à des branches très différentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’arabe, l’hébreu et l’amharique appartiennent à la branche sémitique de la famille afro-asiatique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parmi les autres grandes familles figurent les langues sino-tibétaines, nigéro-congolaises, austronésiennes, dravidiennes, turciques, ouraliennes, mayas, quechuas et bien d’autres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certaines langues sont des isolats : aucune parenté avec d’autres langues vivantes n’a été démontrée. Le basque en est un exemple célèbre en Europe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les familles linguistiques sont établies à partir d’indices : correspondances sonores systématiques, vocabulaire commun, grammaire et documents historiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce ne sont pas des catégories raciales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues peuvent se diffuser par les migrations, les conquêtes, le commerce, le prestige, la religion, l’école et la vie familiale ordinaire."
+    },
+    {
+      "type": "heading",
+      "text": "Le proto-indo-européen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le proto-indo-européen est l’une des langues anciennes reconstituées les plus connues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Personne n’a découvert de livre écrit en proto-indo-européen. On le reconstitue en comparant les langues indo-européennes postérieures et en repérant des régularités trop systématiques pour relever du hasard."
+    },
+    {
+      "type": "paragraph",
+      "text": "Par exemple, des mots apparentés en sanskrit, en grec, en latin et dans les branches germanique, celtique, slave et d’autres ont aidé les linguistes à déduire des formes plus anciennes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les spécialistes débattent du lieu et de l’époque où le proto-indo-européen était parlé ; les hypothèses des steppes et de l’Anatolie figurent parmi les modèles les plus discutés."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’essentiel concerne la méthode."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le proto-indo-européen montre ce que permet la linguistique historique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle peut reconstituer des états anciens des langues à partir d’indices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle ne peut pas reconstituer la première langue humaine."
+    },
+    {
+      "type": "heading",
+      "text": "Les langues anciennes attestées"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les plus anciennes langues attestées ne sont pas les premières langues parlées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce sont simplement les plus anciennes conservées par écrit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le sumérien apparaît dans certaines des premières écritures cunéiformes de Mésopotamie. L’égyptien est conservé grâce aux hiéroglyphes et à d’autres écritures. L’akkadien, une ancienne langue sémitique, est devenu une grande langue écrite de Mésopotamie et de la diplomatie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus tard, des langues anciennes comme le grec, le latin, le sanskrit, le chinois classique, l’hébreu, l’araméen et d’autres ont développé de riches traditions écrites."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’écriture permet aux langues de survivre aux voix qui les ont parlées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais elle crée aussi un biais historique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des langues sans écriture peuvent disparaître des archives alors même que des millions de personnes les ont parlées pendant des siècles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le silence des archives ne signifie pas le silence dans la vie."
+    },
+    {
+      "type": "heading",
+      "text": "L’écriture en Mésopotamie et en Égypte"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’écriture est apparue indépendamment en plusieurs endroits."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Mésopotamie, le cunéiforme primitif s’est développé à partir de marques administratives, de la comptabilité et de la tenue de registres, avant de s’étendre à la littérature, au droit, à la diplomatie et au savoir."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Égypte, l’écriture hiéroglyphique s’est développée tôt et s’est liée à la vie royale, religieuse et administrative."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’écriture a constitué une révolution parce qu’elle permettait à l’information de circuler au-delà du corps de celui qui parle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un document pouvait survivre à un témoin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une loi pouvait être copiée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une dette pouvait être suivie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un poème pouvait traverser les siècles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais l’écriture n’a pas créé le langage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a créé une nouvelle technique pour le représenter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les humains parlaient bien avant d’écrire."
+    },
+    {
+      "type": "heading",
+      "text": "Les alphabets"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les premiers systèmes d’écriture pouvaient être complexes et utiliser des centaines de signes ou de combinaisons de signes pour représenter des mots, des syllabes et des sons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les systèmes alphabétiques ont transformé l’histoire de l’écrit en utilisant un ensemble plus réduit de signes pour représenter les sons de la parole."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’histoire des alphabets est liée aux traditions d’écriture d’Asie occidentale et de Méditerranée : influence égyptienne, écritures sémitiques, écriture phénicienne, adaptation grecque, puis écritures latines."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’alphabet grec a ajouté une importante notation des voyelles à une structure consonantique héritée."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’alphabet latin, adapté au fil des usages étrusques et romains, s’est finalement largement diffusé grâce à la puissance romaine, au christianisme, au colonialisme européen, à l’imprimerie, à l’école et aux technologies modernes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les alphabets ne sont pas intrinsèquement supérieurs aux autres écritures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils constituent une famille de techniques d’écriture qui s’est révélée particulièrement facile à diffuser."
+    },
+    {
+      "type": "heading",
+      "text": "Le grec et le latin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le grec est devenu l’une des grandes langues de la philosophie, du théâtre, de l’histoire, des sciences et des premiers écrits chrétiens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il reliait le monde égéen, les royaumes hellénistiques, la vie intellectuelle romaine et le savoir byzantin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le latin est devenu la langue du droit, de l’administration et de la littérature romains, puis du christianisme occidental. Après les transformations et la fragmentation de l’Empire romain, le latin parlé a évolué vers les langues romanes : espagnol, portugais, français, italien, roumain et d’autres."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’importance du grec et du latin ne tenait pas à un développement plus abouti que celui des autres langues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle tenait aux institutions qui les ont préservés, enseignés et transmis sur de longues périodes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le prestige peut rendre une langue visible dans l’histoire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il ne rend pas les autres langues moins humaines."
+    },
+    {
+      "type": "heading",
+      "text": "L’arabe et d’autres grandes traditions linguistiques"
+    },
+    {
+      "type": "paragraph",
+      "text": "Après l’essor de l’islam, l’arabe est devenu une grande langue de la religion, de la littérature, du droit, des sciences, de la philosophie et de l’administration dans de vastes régions."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’arabe classique, puis les normes écrites ultérieures, ont relié des communautés d’Afrique du Nord, du Moyen-Orient et d’ailleurs, tandis que les variétés d’arabe parlé développaient une riche diversité régionale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le sanskrit a façonné des traditions religieuses, philosophiques, littéraires et scientifiques en Asie du Sud. Le chinois classique a porté l’administration, la littérature et le savoir en Asie orientale. Le persan, le turc, l’hébreu, l’araméen, le guèze, le tamoul, les langues mayas, le nahuatl et bien d’autres conservent de profonds univers intellectuels."
+    },
+    {
+      "type": "paragraph",
+      "text": "On ne peut pas raconter l’histoire mondiale du langage à travers la seule Europe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Partout, les humains ont construit des langues capables d’exprimer le droit, la poésie, la mémoire, les mathématiques, la théologie, l’humour et l’amour."
+    },
+    {
+      "type": "heading",
+      "text": "L’imprimerie et les langues standardisées"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’imprimerie a changé les langues en multipliant les textes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les livres imprimés ont rendu l’orthographe, la grammaire et le vocabulaire plus visibles et plus uniformes. Textes religieux, dictionnaires, grammaires, journaux et manuels scolaires ont contribué à faire de certains dialectes des normes nationales."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’imprimerie a aussi renforcé les langues vernaculaires."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des personnes qui dépendaient auparavant largement des langues des élites pour l’écrit formel pouvaient de plus en plus lire et écrire dans des langues proches de leur parole quotidienne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues standardisées peuvent faciliter l’administration et l’enseignement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles peuvent aussi étouffer des langues et des dialectes minoritaires lorsque les écoles, les gouvernements ou les médias présentent une seule variété comme l’unique manière correcte de parler."
+    },
+    {
+      "type": "paragraph",
+      "text": "La standardisation linguistique n’est jamais uniquement technique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle est culturelle et politique."
+    },
+    {
+      "type": "heading",
+      "text": "Les grandes langues mondiales actuelles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aujourd’hui, certaines langues ont une portée mondiale en raison des empires, du commerce, de la religion, des migrations, des technologies et des médias."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’anglais a acquis sa puissance mondiale à travers l’histoire impériale britannique, la puissance économique et technologique américaine, les sciences, l’aviation, le divertissement et Internet."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’espagnol, l’arabe, le français, le portugais, le chinois mandarin, l’hindi, le bengali, le russe et d’autres relient des centaines de millions de personnes dans différentes régions et diasporas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues mondiales peuvent ouvrir des possibilités."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles peuvent aussi exercer une pression sur les langues moins répandues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque les parents pensent qu’une langue dominante est la seule voie vers les études ou le travail, les enfants peuvent cesser d’apprendre les langues ancestrales à la maison."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce basculement peut se produire discrètement en une ou deux générations."
+    },
+    {
+      "type": "heading",
+      "text": "Les langues menacées"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’UNESCO et les linguistes alertent sur les menaces qui pèsent sur de nombreuses langues du monde."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une langue devient menacée lorsque les enfants ne l’apprennent plus dans le cours normal de la vie de leur communauté."
+    },
+    {
+      "type": "paragraph",
+      "text": "La disparition d’une langue n’est pas seulement une perte de mots."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle peut emporter l’histoire orale, les savoirs écologiques, les noms de lieux, les chansons, les plaisanteries, les rituels, la mémoire familiale et l’identité."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certaines communautés revitalisent leurs langues grâce aux écoles d’immersion, aux dictionnaires, aux enregistrements, aux médias, aux applications et à l’enseignement entre générations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le respect est essentiel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues peu répandues ne sont pas des versions ratées des grandes langues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce sont des systèmes humains complets dont la survie dépend des conditions sociales, des choix des communautés et du soutien politique."
+    },
+    {
+      "type": "heading",
+      "text": "Comment les enfants acquièrent le langage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les enfants apprennent le langage à une vitesse étonnante, mais ils ne commencent pas par mémoriser un dictionnaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils assimilent des régularités au fil des interactions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les bébés commencent par se familiariser avec les sons, les rythmes et les signaux sociaux qui les entourent. Ils babillent, gesticulent, pointent, imitent, expérimentent et associent progressivement les mots ou les signes à un sens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les enfants apprennent la grammaire sans qu’on leur enseigne formellement la plupart des règles. Ils commettent souvent des erreurs créatives qui révèlent leur apprentissage des régularités, par exemple en généralisant trop les formes régulières."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’acquisition du langage dépend du cerveau, des interactions sociales, de l’accès auditif ou visuel, des personnes qui s’occupent de l’enfant, de la communauté et du temps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les enfants peuvent acquérir une langue parlée, une langue des signes ou plusieurs langues lorsqu’ils y sont naturellement exposés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un enfant n’a pas besoin d’une grande langue mondiale pour développer pleinement ses capacités langagières."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a besoin d’avoir accès à une véritable langue humaine."
+    },
+    {
+      "type": "heading",
+      "text": "Les langues des signes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues des signes sont des langues naturelles à part entière."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce ne sont ni des pantomimes, ni des gestes universels, ni des versions simplifiées des langues parlées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues des signes américaine, britannique, française, brésilienne, marocaine et bien d’autres possèdent leurs propres grammaires, histoires, communautés et richesses expressives."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues des signes montrent que le langage ne se confond pas avec la parole."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le cerveau humain peut construire le langage par les mains, le visage, le corps et les yeux, comme par la voix et les oreilles."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est important pour comprendre l’origine du langage, car cela rappelle que la capacité fondamentale est celle d’une communication symbolique structurée."
+    },
+    {
+      "type": "paragraph",
+      "text": "La parole en est un canal majeur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle n’en est pas le seul canal possible."
+    },
+    {
+      "type": "heading",
+      "text": "Le langage et le cerveau aujourd’hui"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les neurosciences actuelles étudient le langage par l’imagerie cérébrale, l’étude des lésions, l’électrophysiologie, la modélisation informatique et la pratique clinique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les chercheurs examinent comment le cerveau reconnaît les sons, traite la syntaxe, retrouve les mots, interprète le sens et coordonne les mouvements de la parole."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des lésions cérébrales peuvent provoquer une aphasie, un trouble qui affecte la production ou la compréhension du langage. Certaines personnes parlent avec fluidité mais produisent peu de contenu porteur de sens ; d’autres comprennent davantage qu’elles ne peuvent exprimer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces troubles montrent que le langage possède une organisation biologique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils montrent aussi qu’il est réparti dans le cerveau et peut résister aux atteintes. Certaines personnes récupèrent des fonctions grâce à la rééducation, à la compensation et à la neuroplasticité."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’esprit qui parle n’est pas un organe unique à l’intérieur du cerveau."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il repose sur un fonctionnement en réseau."
+    },
+    {
+      "type": "heading",
+      "text": "Les animaux ont-ils un langage ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les animaux communiquent de manière élaborée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certains primates utilisent des cris et des gestes. Les oiseaux apprennent des chants. Les dauphins et les baleines produisent des vocalisations complexes. Les chiens répondent aux signaux humains. Des perroquets peuvent apprendre à associer des formes vocales à un sens dans des expériences. Des grands singes auxquels on a enseigné des signes ou des systèmes de symboles ont montré des capacités impressionnantes dans certaines études."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage humain reste toutefois singulier par les possibilités ouvertes de sa grammaire, sa souplesse symbolique, son accumulation culturelle et sa capacité à exprimer des idées abstraites dans une infinité de contextes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La différence n’est pas que les animaux se taisent et que les humains parlent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle tient à la capacité du langage humain de produire sans cesse des significations nouvelles à partir de règles et de symboles partagés."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude de la communication animale est précieuse : elle aide les scientifiques à déterminer quelles composantes du langage sont partagées avec d’autres espèces et lesquelles se sont particulièrement développées chez l’humain."
+    },
+    {
+      "type": "heading",
+      "text": "Le langage en ligne"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage n’a pas cessé d’évoluer avec l’impression des dictionnaires."
+    },
+    {
+      "type": "paragraph",
+      "text": "Internet a rendu les changements linguistiques visibles en temps réel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mèmes, émojis, abréviations, messages vocaux, hashtags, diffusions en direct, commentaires, sous-titres, outils de traduction et systèmes d’IA façonnent tous notre manière de communiquer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage en ligne peut franchir rapidement les frontières. Une formule peut faire le tour du monde en un jour. Des communautés peuvent créer de l’argot, mêler des dialectes et construire des identités autour d’un style partagé."
+    },
+    {
+      "type": "paragraph",
+      "text": "La technologie modifie aussi les rapports de pouvoir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les grandes langues bénéficient souvent de meilleurs outils de recherche, de traduction, de reconnaissance vocale et d’IA que les langues moins répandues. Cela peut creuser les inégalités numériques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le même temps, les communautés peuvent utiliser des outils numériques pour documenter, enseigner et revitaliser les langues menacées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage évolue partout où les humains se retrouvent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aujourd’hui, cela inclut les écrans."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que nous savons et ce qui nous échappe"
+    },
+    {
+      "type": "paragraph",
+      "text": "La science sait que le langage humain dépend de cerveaux et de corps issus de l’évolution, de l’apprentissage social et de la culture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle sait que le langage oral a précédé l’écriture de très longtemps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle sait que toutes les sociétés humaines utilisent un langage complexe et que les langues des signes sont des langues à part entière."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle sait que les langues changent, se séparent, fusionnent, empruntent et parfois disparaissent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle peut reconstituer certaines familles linguistiques anciennes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle ne peut pas retrouver le premier mot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle ne peut pas désigner une langue moderne comme la langue originelle de l’humanité."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle ne peut pas transformer directement des peintures rupestres en phrases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette incertitude n’est pas une faiblesse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle marque honnêtement la limite entre les preuves et l’imagination."
+    },
+    {
+      "type": "heading",
+      "text": "La voix humaine à travers le temps"
+    },
+    {
+      "type": "paragraph",
+      "text": "À un moment d’un passé très lointain, les ancêtres des humains sont devenus capables de partager des significations avec une richesse qu’aucune autre espèce n’a égalée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont nommé les choses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils se sont avertis les uns les autres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont enseigné aux enfants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils se sont souvenus des morts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont préparé des voyages."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils ont raconté des histoires."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus tard, certains de leurs descendants ont imprimé des signes dans l’argile, gravé la pierre, peint des symboles, copié des manuscrits, imprimé des livres, diffusé des voix, envoyé des messages écrits et entraîné des machines à traiter le langage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le premier mot prononcé est perdu."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le processus qu’il a engagé ne l’est pas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaque conversation le prolonge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaque enfant qui apprend une langue le reproduit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaque langue menacée que l’on maintient vivante en protège une partie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les humains ont appris à parler, à signer et à écrire parce que le sens est devenu l’un de leurs outils les plus puissants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage ne nous a pas seulement aidés à décrire le monde."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il nous a aidés à en construire un ensemble."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Muséum national d’histoire naturelle du Smithsonian : origines de l’humanité",
+      "url": "https://humanorigins.si.edu/"
+    },
+    {
+      "label": "Institut Max-Planck d’anthropologie évolutionniste : évolution linguistique et culturelle",
+      "url": "https://www.eva.mpg.de/linguistic-and-cultural-evolution/"
+    },
+    {
+      "label": "UNESCO : langues dans l’éducation et langues menacées",
+      "url": "https://www.unesco.org/en/languages-education"
+    },
+    {
+      "label": "Encyclopaedia Britannica : langues indo-européennes",
+      "url": "https://www.britannica.com/topic/Indo-European-languages"
+    },
+    {
+      "label": "Nature Reviews Neuroscience : neurobiologie du langage",
+      "url": "https://www.nature.com/articles/nrn.2016.80"
+    },
+    {
+      "label": "Encyclopaedia Britannica : l’écriture",
+      "url": "https://www.britannica.com/topic/writing"
+    },
+    {
+      "label": "Metropolitan Museum of Art : l’écriture cunéiforme",
+      "url": "https://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm"
+    },
+    {
+      "label": "National Institute on Deafness and Other Communication Disorders : développement de la parole et du langage",
+      "url": "https://www.nidcd.nih.gov/health/speech-and-language"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand les humains ont-ils commencé à parler ?",
+      "answer": "Les scientifiques n’en connaissent pas la date exacte. Le langage oral a presque certainement précédé l’écriture de très longtemps, mais la parole ne laisse aucune trace fossile directe."
+    },
+    {
+      "question": "Quelle était la première langue humaine ?",
+      "answer": "Aucune première langue humaine n’a été identifiée. La linguistique historique peut reconstituer certaines familles linguistiques anciennes, mais elle ne permet pas de retrouver les tout premiers débuts de la parole humaine."
+    },
+    {
+      "question": "Le langage a-t-il commencé par la parole ou par les gestes ?",
+      "answer": "Les chercheurs débattent d’hypothèses vocales, gestuelles et multimodales. De nombreux scientifiques jugent probable que la communication ancienne associait des systèmes vocaux et gestuels."
+    },
+    {
+      "question": "L’écriture a-t-elle créé le langage ?",
+      "answer": "Non. L’écriture est une technique de représentation du langage. Les humains parlaient ou signaient bien avant l’apparition des premiers systèmes d’écriture."
+    },
+    {
+      "question": "Les langues des signes sont-elles de véritables langues ?",
+      "answer": "Oui. Les langues des signes naturelles possèdent leur propre grammaire, leur vocabulaire, leur histoire et leurs communautés. Ce sont des systèmes linguistiques humains pleinement développés."
+    },
+    {
+      "question": "Certaines langues sont-elles plus primitives que d’autres ?",
+      "answer": "Non. Toutes les langues humaines naturelles sont des systèmes complets capables d’exprimer la pensée complexe, la culture, les émotions et la vie sociale."
+    },
+    {
+      "question": "Les animaux ont-ils un langage ?",
+      "answer": "Les animaux communiquent de manière élaborée, mais le langage humain se distingue par sa structure symbolique ouverte, sa grammaire et sa capacité à exprimer une infinité de significations abstraites."
+    }
+  ]
+}

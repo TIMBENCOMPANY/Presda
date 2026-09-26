@@ -1,0 +1,557 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/us-china-ai-race-control-powerful-technology/",
+  "path": "/es/articles/us-china-ai-race-control-powerful-technology/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "LA CARRERA DE LA IA: CHINA Y ESTADOS UNIDOS POR EL CONTROL DE LA TECNOLOGÍA MÁS PODEROSA DEL MUNDO",
+  "excerpt": "La carrera de la IA entre Estados Unidos y China no gira solo en torno a los chatbots. Es una competición estratégica por los chips, modelos, centros de datos, talento, robótica, plataformas en la nube, seguridad nacional y poder económico.",
+  "headlineHighlights": {
+    "red": "LA CARRERA DE LA IA",
+    "gold": "LA TECNOLOGÍA MÁS PODEROSA DEL MUNDO"
+  },
+  "seoTitle": "China y Estados Unidos: ¿quién lidera la carrera de la IA? | PRESDA",
+  "description": "Análisis neutral de la carrera de la IA en 2026: OpenAI, NVIDIA, Google, Huawei, SMIC, DeepSeek, chips, centros de datos, talento y poder global.",
+  "keywords": [
+    "carrera IA China Estados Unidos",
+    "China frente a Estados Unidos inteligencia artificial",
+    "NVIDIA Huawei chips IA",
+    "liderazgo inteligencia artificial 2026"
+  ],
+  "searchIntent": "Comparar las fortalezas y límites de Estados Unidos y China en modelos, chips, infraestructura y aplicaciones de IA, sin confundir empresas con gobiernos ni liderazgo sectorial con victoria definitiva.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-14",
+  "updatedAt": "2026-09-14",
+  "image": {
+    "src": "/articles/us-china-ai-race-control-powerful-technology.png",
+    "alt": "Ilustración editorial cinematográfica de robots de IA estadounidenses y chinos compitiendo en una pista bajo banderas nacionales y símbolos de empresas tecnológicas"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La carrera de la IA entre Estados Unidos y China suele describirse como una batalla por el futuro. La expresión suena dramática porque lo que está en juego realmente es enorme."
+    },
+    {
+      "type": "paragraph",
+      "text": "La inteligencia artificial ya interviene en software, chips, armas, robótica, finanzas, educación, medicina, propaganda, ciberseguridad, fabricación e investigación científica. Puede escribir código, interpretar imágenes, hacer funcionar agentes, acelerar descubrimientos, automatizar oficinas y guiar máquinas en el mundo físico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso Washington y Pekín ya no tratan la IA como un mercado tecnológico cualquiera. La consideran infraestructura estratégica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la carrera no es una competición simple entre dos gobiernos. OpenAI no es el Gobierno de Estados Unidos. NVIDIA no es el Pentágono. Huawei no es simplemente un sinónimo de Pekín. SMIC es una empresa que opera dentro del sistema de política industrial chino. Empresas privadas, organismos estatales, universidades, proveedores de nube y fabricantes de chips cuentan, y no siempre actúan en perfecta coordinación."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pregunta central es, por tanto, más precisa: ¿quién lidera la carrera de la IA entre Estados Unidos y China en 2026 y en qué nivel del sistema tecnológico?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para ampliar el contexto en PRESDA, lee [los planes del próximo modelo de OpenAI](/articles/openai-next-gen-model/), [los agentes de IA y el empleo](/articles/will-ai-agents-replace-jobs/) y [la IA como amiga, además de herramienta](/articles/why-people-trust-ai-like-a-friend/)."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué la IA se convirtió en una competición estratégica entre Estados Unidos y China"
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA se convirtió en una competición estratégica porque es una tecnología de uso general. Como la electricidad, la informática o internet, puede mejorar muchas industrias a la vez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para Estados Unidos, liderar la IA refuerza las plataformas en la nube, las empresas de software, el diseño de chips, los sistemas militares, la investigación científica, las finanzas y el crecimiento de la productividad. Para China, la IA está vinculada a la modernización industrial, la vigilancia, la robótica, la fabricación, las plataformas de consumo y el objetivo de reducir la dependencia de tecnología extranjera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ambos gobiernos ven lo mismo: la IA avanzada puede convertir capacidad de cómputo, datos, talento y capital en ventaja económica y militar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que cada producto de IA sea un arma ni que cada laboratorio de modelos sea un brazo del Estado. Significa que la IA de vanguardia tiene potencial de doble uso. Un modelo que escribe código puede ayudar a una empresa, a un científico o a un operador de ciberoperaciones. Un sistema de visión puede guiar un robot industrial, un coche autónomo o un dron."
+    },
+    {
+      "type": "heading",
+      "text": "El ecosistema tecnológico de IA estadounidense"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fortaleza estadounidense comienza en su ecosistema tecnológico privado. OpenAI contribuyó a definir la actual oleada de IA generativa. Microsoft convirtió la IA en una plataforma de nube y productividad. Google y DeepMind siguen siendo centrales en la investigación de modelos, las búsquedas, los chips y la IA científica. Meta ha impulsado los modelos de pesos abiertos entre los desarrolladores de todo el mundo. NVIDIA suministra el hardware acelerador que hizo posible el auge."
+    },
+    {
+      "type": "paragraph",
+      "text": "El sistema estadounidense es poderoso porque los laboratorios de modelos, los proveedores de nube, el capital riesgo, las universidades y los diseñadores de chips se refuerzan entre sí. Un nuevo modelo puede entrenarse en infraestructura de nube, desplegarse mediante software empresarial, financiarse con capital privado y mejorar gracias a un amplio mercado de investigadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este ecosistema no está libre de fricciones. Los costes de entrenamiento son inmensos. La electricidad y la capacidad de los centros de datos son cuellos de botella. Siguen sin resolverse cuestiones de derechos de autor, seguridad, privacidad, trabajo y competencia. Aun así, Estados Unidos tiene actualmente la mayor concentración de empresas e infraestructura de IA de vanguardia."
+    },
+    {
+      "type": "heading",
+      "text": "El ecosistema tecnológico de IA chino"
+    },
+    {
+      "type": "paragraph",
+      "text": "El ecosistema chino es diferente. Incluye gigantes de plataformas como Alibaba, Tencent, Baidu y ByteDance; desarrolladores de modelos como DeepSeek y Zhipu AI; empresas de hardware como Huawei, y capacidad de fabricación de semiconductores encabezada en el país por SMIC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los modelos Qwen de Alibaba han adquirido importancia en la IA de pesos abiertos y empresarial. DeepSeek alcanzó relevancia mundial al mostrar que los laboratorios chinos podían producir modelos muy capaces con restricciones de cómputo. Los chips Ascend de Huawei representan la alternativa nacional más importante a los aceleradores de NVIDIA. SMIC importa porque fabricar semiconductores en el país es central para cualquier estrategia china de IA a largo plazo."
+    },
+    {
+      "type": "paragraph",
+      "text": "China también tiene fortalezas más allá de los modelos fundacionales: una enorme capacidad industrial, ciclos rápidos de mejora de productos, sólidas cadenas de suministro de robótica, grandes mercados internos y un Estado dispuesto a dirigir capital hacia sectores estratégicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus debilidades también son claras: tiene restringido el acceso a los chips y equipos de fabricación más avanzados, construir ecosistemas de software para aceleradores de IA sigue siendo más difícil de lo que sugieren los titulares sobre hardware, y entrenar modelos de vanguardia a la mayor escala todavía depende mucho de la disponibilidad de cómputo."
+    },
+    {
+      "type": "heading",
+      "text": "Modelos y agentes de IA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La primera fase del auge de la IA estuvo dominada por los chatbots. La siguiente gira cada vez más alrededor de los agentes: sistemas capaces de usar herramientas, escribir y ejecutar código, buscar información, planificar tareas, controlar programas y actuar a lo largo de procesos de trabajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "OpenAI, Google, Microsoft, Meta y los laboratorios chinos están impulsando modelos con razonamiento, comprensión multimodal y uso de herramientas más útiles. El premio comercial no es simplemente una ventana de chat más inteligente. Es software capaz de realizar trabajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los agentes elevan lo que está en juego geopolíticamente porque pueden afectar a la productividad, la ciberseguridad, la investigación y las operaciones empresariales. Un asistente de IA que escribe correos es útil. Un agente que puede analizar bases de código, manejar sistemas empresariales o coordinar robots es mucho más potente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ningún país ha resuelto la fiabilidad. Los agentes siguen cometiendo errores, interpretando mal objetivos y necesitando supervisión. Puede que gane en el despliegue quien combine capacidad con confianza, seguridad, integración y coste."
+    },
+    {
+      "type": "heading",
+      "text": "Las GPU de NVIDIA frente al impulso chino de chips propios"
+    },
+    {
+      "type": "paragraph",
+      "text": "NVIDIA sigue siendo central para la IA de vanguardia porque sus GPU, su hardware de redes y su ecosistema de software CUDA crearon la plataforma de referencia para entrenar y ejecutar IA a gran escala."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ventaja no es solo el chip. Es el conjunto: hardware, bibliotecas de software, familiaridad de los desarrolladores, interconexiones, ingeniería de sistemas, cadenas de suministro y disponibilidad en la nube."
+    },
+    {
+      "type": "paragraph",
+      "text": "El impulso chino de chips propios responde directamente a esa dependencia. La línea Ascend de Huawei es el rival más visible, y las empresas chinas trabajan para adaptar modelos y software a aceleradores nacionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distancia no es estática. El hardware chino, el encapsulado, el software y la eficiencia de los modelos pueden mejorar. Pero sustituir a NVIDIA en la vanguardia es difícil porque los chips de IA no son productos intercambiables. Un ecosistema de software más débil puede dificultar el uso a gran escala de un chip capaz sobre el papel."
+    },
+    {
+      "type": "heading",
+      "text": "Las restricciones a la exportación y su impacto real"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las restricciones estadounidenses a la exportación de semiconductores buscan frenar el acceso chino a los chips de IA más avanzados, las herramientas para fabricarlos y los conocimientos de producción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su impacto es real, pero no absoluto. Pueden elevar costes, retrasar entrenamientos, complicar compras y empujar a las empresas chinas hacia sustitutos nacionales. También pueden incentivar vías alternativas, acumulación de existencias, modelos más eficientes y una inversión nacional más rápida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los controles de exportación son más eficaces cuando afectan a puntos críticos verdaderamente difíciles de sustituir: litografía ultravioleta extrema, encapsulado avanzado, memoria de gran ancho de banda, GPU de última generación, herramientas de diseño y equipos de fabricación especializados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero también tienen contrapartidas. Pueden reducir las ventas de empresas estadounidenses, animar a China a acelerar su autosuficiencia y llevar con el tiempo a clientes de todo el mundo a diversificar sus compras fuera de Estados Unidos."
+    },
+    {
+      "type": "heading",
+      "text": "Huawei, SMIC y los límites de recuperar terreno"
+    },
+    {
+      "type": "paragraph",
+      "text": "Huawei y SMIC muestran tanto el progreso chino como sus restricciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Huawei se ha convertido en el símbolo de la ambición china de desarrollar hardware de IA propio. Sus chips Ascend importan porque ofrecen a las empresas chinas una vía que no depende de NVIDIA, especialmente cuando se combinan con su trabajo en nube y software."
+    },
+    {
+      "type": "paragraph",
+      "text": "SMIC es el principal fabricante de semiconductores por encargo de China. Su progreso importa porque la soberanía en chips requiere fabricación, no solo diseño. Sin embargo, producir los semiconductores más avanzados es una de las tareas industriales más difíciles del planeta. Exige herramientas, materiales, gestión del rendimiento de fabricación, encapsulado, conocimiento de procesos y un capital enorme."
+    },
+    {
+      "type": "paragraph",
+      "text": "China puede reducir distancias en algunos ámbitos y seguir afrontando cuellos de botella en la tecnología más avanzada. Alcanzar al líder no ocurre en un único momento. Es una lucha larga en decenas de niveles técnicos."
+    },
+    {
+      "type": "heading",
+      "text": "TSMC y por qué importa Taiwán"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taiwán importa porque TSMC fabrica muchos de los chips más avanzados del mundo, incluidos los que utilizan las principales empresas de IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso lo convierte en un punto central de la carrera, aunque a menudo se describa la competición simplemente como China contra Estados Unidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA avanzada depende de cadenas de suministro de semiconductores que cruzan fronteras: diseño estadounidense, fabricación taiwanesa, herramientas de litografía neerlandesas, materiales japoneses, memoria surcoreana, centros de datos en la nube y ensamblaje electrónico mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cualquier alteración grave alrededor de Taiwán afectaría a la IA mucho más allá de una empresa o un país. Sacudiría los cimientos de la economía informática moderna."
+    },
+    {
+      "type": "heading",
+      "text": "Centros de datos, electricidad y cómputo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El liderazgo en IA depende cada vez más de infraestructura física. Los modelos necesitan centros de datos. Estos necesitan chips, suelo, refrigeración, electricidad, redes de fibra, transformadores y conexiones a la red eléctrica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estados Unidos tiene enormes plataformas de nube e inversión privada, pero afronta limitaciones eléctricas, retrasos en permisos y oposición local en algunas regiones. China puede movilizar infraestructura rápidamente, pero también tiene dificultades energéticas, de eficiencia y de distribución regional."
+    },
+    {
+      "type": "paragraph",
+      "text": "La capacidad de cómputo es ya un recurso estratégico. Antes, los países contaban acerías y reservas de petróleo. En la era de la IA también cuentan grupos de aceleradores, megavatios y capacidad de centros de datos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La carrera, por tanto, no es solo intelectual. También es eléctrica."
+    },
+    {
+      "type": "heading",
+      "text": "Talento, investigación y universidades"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estados Unidos sigue atrayendo talento mundial en IA gracias a sus universidades, laboratorios, empresas emergentes, mercados de capital y tradición de inmigración."
+    },
+    {
+      "type": "paragraph",
+      "text": "China también se ha convertido en una gran potencia investigadora en IA. Sus investigadores publican mucho, sus universidades forman a grandes cantidades de ingenieros y sus empresas pueden pasar rápidamente de la investigación al producto."
+    },
+    {
+      "type": "paragraph",
+      "text": "El panorama del talento es complejo porque muchos investigadores se mueven internacionalmente. Un científico nacido en China puede trabajar en un laboratorio estadounidense. Uno formado en Estados Unidos puede regresar a China. Los artículos científicos pueden ser globales aunque las políticas se vuelvan nacionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las restricciones a visados, colaboración o intercambio científico pueden proteger tecnologías sensibles en algunos casos, pero también perjudicar la apertura que permitió avanzar tan deprisa a la investigación en IA."
+    },
+    {
+      "type": "heading",
+      "text": "Inversión y financiación"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inversión estadounidense en IA está impulsada en gran medida por capital privado, gigantes de la nube y mercados de capital riesgo. El enorme gasto de Microsoft, Google, Meta, Amazon, Oracle y empresas emergentes de IA ha dotado al ecosistema estadounidense de una financiación extraordinaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "La inversión china combina empresas privadas, gobiernos locales, fondos de orientación estatal y prioridades industriales nacionales. Puede dirigir recursos hacia chips, robótica, servicios de nube y aplicaciones estratégicas de IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia no es una oposición pura entre lo privado y lo público. Ambos países combinan Estado y mercado. Estados Unidos financia investigación militar y política industrial. China tiene gigantes privados y empresas emergentes competitivas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pregunta es qué sistema asigna mejor el capital: la escala y la disposición al riesgo impulsadas por el mercado estadounidense, o la coordinación estratégica y la profundidad industrial de China."
+    },
+    {
+      "type": "heading",
+      "text": "IA de código abierto y de pesos abiertos"
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA de código abierto y de pesos abiertos complica la carrera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los modelos Llama de Meta ayudaron a convertir la IA de pesos abiertos en una fuerza importante. Modelos chinos como Qwen y DeepSeek han mostrado que los pesos abiertos o descargables pueden extender su influencia rápidamente, sobre todo entre desarrolladores y empresas que buscan menores costes o más control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los modelos abiertos pueden acelerar la innovación porque investigadores y creadores pueden adaptarlos. También pueden dificultar la seguridad porque capacidades potentes se difunden más allá de unos pocos laboratorios controlados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para China, unos modelos sólidos de pesos abiertos permiten competir mundialmente incluso con acceso limitado a los mejores chips. Para Estados Unidos, los modelos abiertos pueden difundir estándares técnicos y ecosistemas de desarrolladores estadounidenses, pero también reducen la ventaja de los laboratorios de vanguardia cerrados."
+    },
+    {
+      "type": "heading",
+      "text": "Robótica y sistemas autónomos"
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA adquiere mayor importancia geopolítica cuando sale de la pantalla."
+    },
+    {
+      "type": "paragraph",
+      "text": "La robótica, los drones, los vehículos autónomos, la automatización de almacenes, la visión industrial y los robots humanoides dependen de combinar software de IA con fabricación física."
+    },
+    {
+      "type": "paragraph",
+      "text": "China tiene una gran ventaja en escala industrial, cadenas de suministro electrónico, baterías, drones y automatización de fábricas. Estados Unidos tiene fortalezas en modelos de vanguardia, investigación robótica, software, tecnología de defensa y autonomía de alto valor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá el futuro no lo decida el mejor chatbot. Puede que lo decida quien logre conectar modelos de IA a millones de máquinas de forma segura, barata y fiable."
+    },
+    {
+      "type": "heading",
+      "text": "Consecuencias económicas y para la seguridad nacional"
+    },
+    {
+      "type": "paragraph",
+      "text": "En lo económico, la IA podría aumentar la productividad, cambiar los mercados laborales, concentrar el poder empresarial, transformar la educación y acelerar los descubrimientos científicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "En materia de seguridad nacional, plantea preguntas sobre ciberoperaciones, análisis de inteligencia, sistemas autónomos, desinformación, planificación militar y protección de infraestructuras críticas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso ambos gobiernos se preocupan por la dependencia. Washington no quiere que una potencia rival controle hardware o software de IA esencial. Pekín no quiere que los controles extranjeros decidan si sus empresas pueden entrenar modelos avanzados."
+    },
+    {
+      "type": "paragraph",
+      "text": "El dilema de seguridad es evidente: una medida defensiva de un país puede parecer ofensiva al otro."
+    },
+    {
+      "type": "heading",
+      "text": "¿Quién lidera en 2026?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta más precisa distingue ámbitos, en lugar de recurrir a un eslogan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estados Unidos parece liderar en laboratorios de modelos de vanguardia, chips avanzados de IA mediante NVIDIA, plataformas de nube a gran escala, empresas emergentes de IA financiadas con capital riesgo y despliegue mundial de software empresarial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las mayores fortalezas de China parecen estar en su profundidad industrial, el rápido despliegue para consumidores e industrias, la eficiencia de modelos de pesos abiertos, las cadenas de suministro de robótica y la movilización de infraestructura dirigida por el Estado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taiwán, a través de TSMC, sigue siendo indispensable para los chips de IA más avanzados. Eso significa que ni Washington ni Pekín controlan por sí solos todo el futuro del hardware."
+    },
+    {
+      "type": "paragraph",
+      "text": "En conjunto, Estados Unidos lidera actualmente buena parte de la tecnología de IA de vanguardia, pero China tiene suficiente escala, talento, industria y orientación política como para que la carrera siga abierta."
+    },
+    {
+      "type": "heading",
+      "text": "¿Podría China alcanzar o superar a Estados Unidos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí, China podría alcanzar o superar a Estados Unidos en algunos campos de la IA. Quizá ya esté más cerca en aplicaciones, eficiencia de pesos abiertos, fabricación robótica o modelos optimizados en costes de lo que sugieren los titulares comparativos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero superar a Estados Unidos en todo el sistema de vanguardia es más difícil. China necesitaría no solo modelos potentes, sino chips avanzados, herramientas de fabricación, ecosistemas de software, centros de datos, confianza mundial, adopción entre desarrolladores y talento investigador sostenido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los controles de exportación pueden frenar a China, pero no garantizar un liderazgo estadounidense permanente. Un rival decidido puede adaptarse, invertir e innovar para sortear las restricciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "La verdadera pregunta es si el sistema tecnológico propio de China puede mejorar más rápido de lo que las empresas estadounidenses amplían su ventaja."
+    },
+    {
+      "type": "heading",
+      "text": "¿Puede Estados Unidos conservar su ventaja?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estados Unidos puede mantener una ventaja si sigue liderando en chips, infraestructura de nube, investigación de vanguardia, atracción de talento, ampliación energética y despliegue responsable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el liderazgo puede desperdiciarse. Si la escasez eléctrica retrasa los centros de datos, la política migratoria ahuyenta a investigadores, la regulación se vuelve confusa o los laboratorios pierden la confianza pública, la ventaja disminuye."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fortaleza estadounidense procede de un ecosistema, no de una sola empresa. OpenAI, NVIDIA, Microsoft, Google, Meta, universidades, empresas emergentes e inversores importan. También las instituciones públicas, los organismos de normalización y las agencias de seguridad nacional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mantener la ventaja exige coordinación sin asfixiar la apertura y la competencia que hicieron fuerte al ecosistema."
+    },
+    {
+      "type": "heading",
+      "text": "¿Podrían China y Estados Unidos colaborar en IA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cooperación es posible, pero probablemente será limitada, prudente y centrada en asuntos concretos, no una alianza tecnológica plena."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estados Unidos y China comparten intereses en evitar usos catastróficos, reducir escaladas accidentales, establecer normas internacionales de seguridad, limitar comportamientos peligrosos de armas autónomas, gestionar riesgos de bioseguridad y evitar que los conflictos cibernéticos potenciados por IA se descontrolen."
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación científica podría seguir siendo un ámbito de cooperación limitada, especialmente en evaluaciones de seguridad, interpretabilidad, pruebas de modelos, ciencia climática, medicina y estándares globales. Organizaciones internacionales, congresos académicos y organismos técnicos de normalización pueden ofrecer canales incluso cuando la confianza estratégica es baja."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero una cooperación profunda en modelos de vanguardia, chips avanzados o aplicaciones militares es improbable mientras ambos países consideren la IA una ventaja estratégica. Ninguno quiere fortalecer al otro en tecnologías capaces de determinar el predominio económico y de seguridad."
+    },
+    {
+      "type": "paragraph",
+      "text": "El futuro realista es una coexistencia competitiva: rivalidad en chips, modelos y despliegue, combinada con cooperación selectiva allí donde ambos temen las consecuencias del fracaso."
+    },
+    {
+      "type": "heading",
+      "text": "La carrera de la IA entre Estados Unidos y China: mitos y realidades"
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: la carrera de la IA tiene un ganador claro."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: el liderazgo cambia según el ámbito. Modelos, chips, infraestructura, despliegue, fabricación y gobernanza no tienen todos el mismo líder."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: OpenAI y NVIDIA son el Gobierno estadounidense."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: son empresas privadas que operan en un entorno estratégico estadounidense. Sus incentivos coinciden con los de Washington en algunos ámbitos y difieren en otros."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: Huawei y SMIC son intercambiables con el Gobierno chino."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: son empresas chinas que operan dentro del sistema político y de política industrial de China, pero capacidad empresarial, estrategia estatal y autoridad gubernamental no son lo mismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: los controles de exportación pueden detener para siempre el progreso chino en IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: pueden ralentizarlo y cambiar su rumbo, pero también incentivan sustitutos nacionales y alternativas técnicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: el mejor chatbot decide el futuro."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: el poder de la IA también depende de chips, electricidad, centros de datos, talento, despliegue, robótica, seguridad y confianza pública."
+    },
+    {
+      "type": "heading",
+      "text": "Una carrera que va más allá de la meta"
+    },
+    {
+      "type": "paragraph",
+      "text": "La carrera de la IA entre China y Estados Unidos no es un esprint con una única ceremonia de medallas al final."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es una competición larga por los distintos niveles del poder tecnológico: investigación, chips, energía, modelos, estándares, plataformas de nube, robots, fábricas, capital y confianza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estados Unidos mantiene actualmente grandes ventajas en modelos de vanguardia, aceleradores de IA, ecosistemas de nube e inversión privada. China tiene grandes ventajas en escala industrial, movilización estatal, despliegue de aplicaciones y determinación para reducir la dependencia extranjera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ninguna parte puede simplemente declararse vencedora. La IA es demasiado amplia, cambia demasiado deprisa y está demasiado integrada en la economía física para eso."
+    },
+    {
+      "type": "paragraph",
+      "text": "El país que lidere la próxima década de IA quizá no sea el que haga el anuncio de modelo más sonoro. Puede que sea el que convierta la inteligencia en infraestructura fiable sin perder el control de los riesgos que la acompañan."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Reuters: información sobre tecnología e inteligencia artificial",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/"
+    },
+    {
+      "label": "Associated Press: cobertura de inteligencia artificial",
+      "url": "https://apnews.com/hub/artificial-intelligence"
+    },
+    {
+      "label": "Casa Blanca: plan de acción de Estados Unidos para la IA",
+      "url": "https://www.whitehouse.gov/releases/2025/07/white-house-unveils-americas-ai-action-plan/"
+    },
+    {
+      "label": "Oficina de Industria y Seguridad: normativa de administración de exportaciones",
+      "url": "https://www.bis.gov/regulations/ear"
+    },
+    {
+      "label": "NVIDIA: plataformas de IA para centros de datos",
+      "url": "https://www.nvidia.com/en-us/data-center/"
+    },
+    {
+      "label": "TSMC: tecnología avanzada",
+      "url": "https://www.tsmc.com/english/dedicatedFoundry/technology"
+    },
+    {
+      "label": "Huawei Cloud: modelos de IA Pangu",
+      "url": "https://www.huaweicloud.com/intl/en-us/product/pangu.html"
+    },
+    {
+      "label": "Alibaba Cloud: familia de modelos Qwen",
+      "url": "https://qwenlm.github.io/"
+    },
+    {
+      "label": "OpenAI: modelos",
+      "url": "https://openai.com/models"
+    },
+    {
+      "label": "OCDE: observatorio de políticas de inteligencia artificial",
+      "url": "https://oecd.ai/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quién lidera la carrera de la IA entre Estados Unidos y China en 2026?",
+      "answer": "Estados Unidos parece liderar en modelos de vanguardia, chips avanzados de IA, plataformas de nube e inversión privada, mientras China es muy competitiva en escala industrial, despliegue de aplicaciones, eficiencia de modelos de pesos abiertos y cadenas de suministro de robótica."
+    },
+    {
+      "question": "¿Por qué importan tanto los chips de IA?",
+      "answer": "Los modelos avanzados requieren una enorme capacidad de cómputo. Chips como las GPU de NVIDIA, junto con redes, memoria, software e infraestructura de centros de datos, determinan la rapidez y el coste de entrenar y desplegar modelos."
+    },
+    {
+      "question": "¿Puede China desarrollar IA sin chips de NVIDIA?",
+      "answer": "China puede desarrollar y desarrolla sistemas de IA con hardware nacional y alternativo, incluidos aceleradores de Huawei, pero sustituir todo el ecosistema de hardware y software de NVIDIA en la vanguardia sigue siendo difícil."
+    },
+    {
+      "question": "¿Por qué importa Taiwán en la carrera de la IA?",
+      "answer": "TSMC fabrica muchos de los chips más avanzados del mundo. Las cadenas de suministro de IA dependen de la fabricación taiwanesa junto con el diseño estadounidense, las herramientas de litografía neerlandesas, los proveedores de memoria y el ensamblaje mundial."
+    },
+    {
+      "question": "¿Podrían China y Estados Unidos cooperar en IA?",
+      "answer": "Es posible una cooperación limitada en seguridad de la IA, estándares, investigación científica y prevención de usos catastróficos. Pero una cooperación profunda en modelos de vanguardia, chips o aplicaciones militares es improbable mientras ambos países traten la IA como poder estratégico."
+    }
+  ]
+}

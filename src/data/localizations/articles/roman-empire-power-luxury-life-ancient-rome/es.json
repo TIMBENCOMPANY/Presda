@@ -1,0 +1,767 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/roman-empire-power-luxury-life-ancient-rome/",
+  "path": "/es/articles/roman-empire-power-luxury-life-ancient-rome/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "IMPERIO ROMANO: PODER, LUJO Y VIDA EN LA ANTIGUA ROMA",
+  "excerpt": "De las villas de mármol y los banquetes extravagantes a los gladiadores, las termas, la esclavitud, la prostitución y las conquistas: la vida romana combinó logros asombrosos con violencia y desigualdad.",
+  "headlineHighlights": {
+    "red": "IMPERIO ROMANO",
+    "gold": "ANTIGUA ROMA"
+  },
+  "seoTitle": "Imperio romano: poder, lujo y vida en la antigua Roma | PRESDA",
+  "description": "Cómo se vivía en el Imperio romano: emperadores, villas, banquetes, termas, gladiadores, prostitución, esclavitud, ingeniería, ejército y caída de Roma.",
+  "keywords": [
+    "vida en la antigua Roma",
+    "Imperio romano",
+    "lujo romano",
+    "termas romanas",
+    "gladiadores",
+    "caída del Imperio romano"
+  ],
+  "searchIntent": "Conocer la vida cotidiana romana según la posición social y comprender su lujo, infraestructura, poder y desigualdad, distinguiendo mitos de pruebas históricas.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "image": {
+    "src": "/articles/roman-empire-power-luxury-life-ancient-rome.png",
+    "alt": "Recreación editorial cinematográfica de PRESDA de un romano rico contemplando la monumental antigua Roma"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Es fácil imaginar mal la antigua Roma."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una versión está hecha de mármol, columnas, banquetes, emperadores y luz dorada. Otra, de sangre, conquistas, esclavitud y espectáculo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Imperio romano real fue más impresionante y más inquietante que cualquiera de esas fantasías. Construyó calzadas entre continentes, transportó agua por acueductos, llenó ciudades de termas y templos, gobernó provincias desde Britania hasta Siria y dejó huellas jurídicas, lingüísticas y arquitectónicas que siguen dando forma al mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "También se sostuvo en la conquista, la extracción de recursos, la jerarquía y la esclavitud. Detrás de las villas de la élite había trabajadores sin libertad. Detrás del entretenimiento público había violencia. Detrás del orden imperial había ejércitos, impuestos y la amenaza del castigo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pregunta central, por tanto, no es solo cómo conquistó Roma tanto territorio. Es esta: ¿cómo era realmente vivir dentro del Imperio romano?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta depende de quién fueras. Un senador, un cocinero esclavizado, un soldado del Rin, un tendero de Pompeya, una mujer que administraba propiedades familiares, una prostituta de un burdel, un niño en un apartamento abarrotado y un emperador en su palacio vivían todos en el mundo romano. No vivían la misma vida romana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para ampliar el contexto histórico en PRESDA, lee [Al-Ándalus](/articles/al-andalus-rise-glory-fall-muslim-iberia/), [las pirámides egipcias](/articles/history-of-egyptian-pyramids/) y [la historia de la medicina](/articles/history-future-of-medicine/)."
+    },
+    {
+      "type": "heading",
+      "text": "¿Cómo era la vida en el Imperio romano?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vivir en el Imperio romano podía significar infraestructuras públicas asombrosas, calles animadas, fiestas religiosas, mercados, termas, teatros, servicio militar, ambición familiar y movilidad social para algunas personas. También podía significar enfermedades, viviendas estrechas, desigualdad jurídica, trabajo forzado, miedo político y la conciencia cotidiana de que la posición social lo decidía casi todo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El imperio no era un espacio uniforme. Roma, Alejandría, Antioquía, Cartago, Londinium y un asentamiento militar junto al Danubio pertenecían al mismo sistema, pero sus lenguas, costumbres, riesgos y oportunidades eran distintos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La propia identidad romana cambió con el tiempo. Al principio del imperio, la ciudadanía era una condición jurídica privilegiada. En 212 d. C., el emperador Caracalla extendió la ciudadanía romana a casi todos los habitantes libres del imperio. Incluso entonces, la clase, el género, la riqueza, la esclavitud y el poder local determinaban su significado práctico."
+    },
+    {
+      "type": "heading",
+      "text": "De una pequeña ciudad a un imperio"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tradición romana decía que Rómulo fundó la ciudad en 753 a. C. Ese relato pertenecía a la mitología y a la memoria cívica, no a la historia moderna entendida de forma literal. La arqueología y las pruebas históricas apuntan más bien a una formación gradual a partir de comunidades de Italia central."
+    },
+    {
+      "type": "paragraph",
+      "text": "La primera Roma estuvo gobernada por reyes y después por una república en la que familias aristocráticas, asambleas, magistrados y Senado competían por el poder. La República romana se expandió primero por Italia y después por el Mediterráneo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las guerras púnicas contra Cartago fueron decisivas. Las victorias romanas le dieron el control del Mediterráneo occidental y acabaron abriendo el camino a conquistas en Grecia, el norte de África, Asia Menor, la Galia y más allá."
+    },
+    {
+      "type": "paragraph",
+      "text": "La expansión enriqueció a Roma, pero también desestabilizó la República. Los mandos militares se ganaron la lealtad personal de sus soldados. La desigualdad aumentó. Llegaron las guerras civiles. El ascenso y el asesinato de Julio César dejaron al descubierto la profunda fractura del antiguo orden político."
+    },
+    {
+      "type": "heading",
+      "text": "Augusto y el nacimiento del Imperio romano"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras el asesinato de César, otra fase de guerra civil llevó al poder a Octavio, su heredero adoptivo. En 27 a. C. recibió el nombre honorífico de Augusto y se presentó como restaurador del orden romano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Augusto no anunció que la República había muerto. Su habilidad fue más sutil. Permanecieron los cargos republicanos, el Senado y el lenguaje público, pero el poder real se concentró cada vez más en el emperador, el ejército, las finanzas imperiales y la administración provincial."
+    },
+    {
+      "type": "paragraph",
+      "text": "El periodo posterior a Augusto suele asociarse con la pax romana, la paz romana. La expresión solo es útil si se maneja con cuidado. No significaba paz en todos los rincones del imperio. Continuaron guerras, rebeliones, ejecuciones y violencia fronteriza. Pero, comparadas con las guerras civiles tardorrepublicanas, muchas regiones tuvieron una administración imperial, un comercio y unas infraestructuras más previsibles."
+    },
+    {
+      "type": "heading",
+      "text": "¿Hasta dónde llegó el poder del Imperio romano?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Imperio romano alcanzó su máxima extensión territorial con Trajano, a comienzos del siglo II d. C. Su poder rodeaba el Mediterráneo y se extendía por partes de Europa, el norte de África y Oriente Próximo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Mediterráneo era su gran vía de comunicación interior. Cereales, vino, aceite de oliva, soldados, personas esclavizadas, funcionarios, cartas, mármol, impuestos e ideas circulaban por mar y por calzada. Controlar puertos y navegación importaba tanto como controlar las fronteras."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las estimaciones de población varían y las cifras demográficas antiguas deben tratarse con cautela. Aun así, los historiadores suelen describir el Imperio romano como uno de los sistemas políticos más extensos y poblados del mundo antiguo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El poder era administrativo además de militar. Las provincias pagaban impuestos. Las ciudades gestionaban los asuntos locales bajo supervisión imperial. Calzadas y puertos unían regiones. El ejército defendía fronteras, construía infraestructuras y, en ocasiones, decidía quién sería emperador."
+    },
+    {
+      "type": "heading",
+      "text": "Los emperadores: ¿un poder sin límites?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los emperadores podían mandar ejércitos, nombrar funcionarios, gastar recursos enormes, influir en el derecho y presentarse como protectores del mundo romano. Pero su poder nunca fue tan sencillo como el de un rey al que le basta chasquear los dedos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Augusto construyó el sistema imperial. Claudio amplió la administración y las conquistas. Nerón se convirtió en símbolo de excesos peligrosos, aunque los escritores antiguos tenían intereses políticos y morales. Vespasiano estabilizó el imperio tras la guerra civil y fundó la dinastía Flavia. Trajano representó la expansión. Adriano consolidó el territorio y viajó extensamente. Marco Aurelio pasó a la memoria como emperador filósofo que gobernó entre guerras y epidemias. Cómodo mostró la fragilidad de la sucesión. Diocleciano reorganizó el gobierno imperial. Constantino transformó la relación del imperio con el cristianismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los relatos sobre emperadores como Calígula y Nerón pueden ser sensacionalistas porque los autores antiguos apreciaban el drama moral y escribían desde perspectivas políticas de élite. Algunos escándalos pueden conservar abusos reales. Otros pueden ser exagerados, hostiles o simbólicos. Una historia responsable los lee críticamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los emperadores también dependían del ejército, la cooperación de las élites, la administración provincial y la legitimidad pública. Un gobernante que perdía el apoyo militar podía caer rápidamente. Visto desde abajo, el poder imperial parecía ilimitado; desde dentro del palacio, a menudo estaba lleno de ansiedad, teatralidad y peligro."
+    },
+    {
+      "type": "heading",
+      "text": "¿Cuánto dinero tenían los antiguos romanos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una diminuta minoría rica podía vivir con un lujo extraordinario. La élite exhibía su posición mediante casas, fincas, mármol, mosaicos, fuentes, pinturas murales, alimentos importados, vajilla de plata, joyas, perfumes, tejidos finos, bibliotecas y grandes grupos de sirvientes y trabajadores esclavizados."
+    },
+    {
+      "type": "paragraph",
+      "text": "La arquitectura hacía visible la riqueza. Una casa de élite no era solo un refugio privado. Era un escenario para recibir clientes, negociar posición social y mostrar gusto. Atrios, salas de recepción y comedores comunicaban rango antes incluso de que el invitado se sentara."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fincas rurales podían producir riqueza agrícola y ofrecer ocio. Las villas combinaban agricultura, exhibición, retiro y poder sobre el trabajo. Para las familias más ricas, el lujo no era solo comodidad. Era un lenguaje público de dominio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero esa no era la vida romana habitual. La mayoría no comía recostada en comedores de mármol junto a fuentes. Muchos vivían en apartamentos, habitaciones alquiladas, talleres, cuarteles o comunidades rurales. Las casas más ricas del imperio eran reales, pero nunca representaron toda Roma."
+    },
+    {
+      "type": "heading",
+      "text": "Dentro de una villa romana"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pompeya y Herculano conservan algunas de las pruebas más claras del espacio doméstico romano. Las casas de élite podían incluir un atrio, un impluvio para recoger lluvia, zonas de recepción, dormitorios, espacios de servicio, un triclinio para comer y un jardín con peristilo rodeado de columnas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las paredes podían cubrirse de frescos y los suelos de mosaicos. Los jardines combinaban plantas, fuentes, esculturas y sombra para crear una belleza controlada dentro de la casa. Cocinas y dependencias de servicio recuerdan que la comodidad dependía del trabajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas casas se diseñaban en parte para organizar las relaciones sociales. Los clientes podían esperar en las zonas más públicas. Los invitados podían acceder más al interior según su rango. Una casa romana podía separar, mostrar y jerarquizar a las personas mediante la arquitectura."
+    },
+    {
+      "type": "paragraph",
+      "text": "En algunos entornos ricos había baños privados, pero bañarse también era una costumbre pública. Tanto el ideal doméstico de lujo tranquilo como la realidad urbana de vida pública compartida eran romanos."
+    },
+    {
+      "type": "heading",
+      "text": "El banquete romano"
+    },
+    {
+      "type": "paragraph",
+      "text": "El banquete de la élite se celebraba en un triclinio, donde los invitados comían y bebían recostados. La comida podía exhibir riqueza mediante vino importado, marisco, fruta, carnes, salsas, vajilla, músicos, bailarines, poesía o conversación."
+    },
+    {
+      "type": "paragraph",
+      "text": "El garum, una salsa de pescado fermentado, condimentaba muchos platos. Pan, aceitunas, fruta, verduras, vino y pescado aparecían de diversas formas en la alimentación romana. Las mesas más ricas podían convertirse en teatro: ingredientes raros, presentaciones elaboradas y competencia social."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos relatos famosos de banquetes extravagantes proceden de la sátira o de literatura moralizante. Revelan algo importante sobre las inquietudes romanas ante el lujo, pero no deben tomarse como prueba de que todas las comidas de élite fueran absurdamente excesivas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conviene enterrar un mito: los vomitorios no eran habitaciones donde los romanos vomitaban para seguir comiendo. Un vomitorio era un pasaje arquitectónico que facilitaba la entrada y salida de multitudes en grandes recintos."
+    },
+    {
+      "type": "heading",
+      "text": "Sexo, prostitución y doble moral romana"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prostitución existía abiertamente en la sociedad romana, pero esa visibilidad no significaba igualdad ni liberación. La ejercían mujeres y hombres en burdeles, tabernas, posadas, calles y otros lugares."
+    },
+    {
+      "type": "paragraph",
+      "text": "La posición social modelaba la moral sexual romana. La conducta de los hombres de élite se juzgaba de forma distinta a la de las mujeres. Ciudadanía, género, esclavitud, libertad, edad y clase importaban profundamente. La reputación sexual de una mujer de élite nacida libre podía afectar al honor familiar, la herencia y la política."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchas personas que ejercían la prostitución eran esclavas o antiguas esclavas. Ese hecho cambia el panorama moral. La prostitución romana no era simplemente un mercado de elecciones libres. A menudo implicaba explotación, vulnerabilidad jurídica y desigualdad de poder."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Estado podía regular o gravar aspectos de la prostitución, pero la regulación no protegía a todos por igual. Una sociedad puede mostrar abiertamente la sexualidad y seguir siendo profundamente coercitiva."
+    },
+    {
+      "type": "heading",
+      "text": "¿Había burdeles en la antigua Roma?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí. Pompeya conserva uno de los ejemplos arqueológicos más famosos: el Lupanar. El término se relaciona con lupa, palabra que podía significar loba y que también se utilizaba en la jerga sexual para designar a una prostituta."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Lupanar de Pompeya tenía habitaciones pequeñas, camas de mampostería y pinturas murales eróticas. Los grafitos y la distribución del edificio ofrecen pruebas poco frecuentes de cómo funcionaba un lugar así en una ciudad romana."
+    },
+    {
+      "type": "paragraph",
+      "text": "La arqueología puede mostrar habitaciones, imágenes, inscripciones y patrones de uso. No puede recuperar todas las historias personales. Debemos evitar convertir a quienes vivieron y trabajaron allí en decorado para la curiosidad moderna."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Lupanar importa porque hace tangible el mundo social de la prostitución romana. También recuerda que detrás de cada ruina famosa hubo seres humanos con posibilidades de elección desiguales."
+    },
+    {
+      "type": "heading",
+      "text": "Amor, matrimonio y adulterio"
+    },
+    {
+      "type": "paragraph",
+      "text": "El matrimonio romano era una institución familiar y patrimonial, además de una relación afectiva. Los matrimonios de élite podían crear alianzas, preservar herencias y unir familias poderosas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El divorcio era posible, sobre todo entre las élites, y volver a casarse podía ser útil políticamente. En determinadas circunstancias, las mujeres podían poseer bienes, gestionar negocios e influir en la estrategia familiar, aunque las expectativas jurídicas y sociales seguían siendo desiguales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Augusto impulsó una legislación moral contra el adulterio y sobre la conducta familiar de las élites. No se trataba solo de moral privada. Esas leyes conectaban sexo, fecundidad, herencia y la imagen política de la renovación romana."
+    },
+    {
+      "type": "paragraph",
+      "text": "La poesía amorosa romana puede sonar íntima y moderna, pero procedía de mundos literarios específicos de élite. Como con cualquier testimonio romano, el género importa."
+    },
+    {
+      "type": "heading",
+      "text": "Las mujeres en la antigua Roma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las mujeres romanas no eran sombras sin poder ni iguales en el sentido moderno. Sus vidas dependían de clase, condición jurídica, familia, riqueza, edad, lugar y época."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las mujeres de élite podían influir en la política mediante redes familiares, patronazgo, propiedades y reputación pública. Algunas gestionaban fincas o negocios. Libertas y trabajadoras aparecen en inscripciones, tiendas, tumbas y la vida urbana. Las funciones religiosas, incluidas las de las vírgenes vestales, podían conferir una posición excepcional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al mismo tiempo, la sociedad seguía siendo patriarcal. Los cargos políticos, el mando militar y la autoridad pública formal eran abrumadoramente masculinos. La sexualidad femenina se vigilaba más que la masculina, especialmente entre las élites."
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta más honesta combina ambas realidades: las mujeres podían ejercer una capacidad de acción real en ciertos espacios, pero lo hacían dentro de estructuras organizadas en torno al poder masculino, el control familiar y las jerarquías sociales."
+    },
+    {
+      "type": "heading",
+      "text": "La esclavitud: el precio del lujo romano"
+    },
+    {
+      "type": "paragraph",
+      "text": "La esclavitud era central en la sociedad romana. Las personas esclavizadas trabajaban en hogares, campos, minas, talleres, construcción, administración, educación, entretenimiento y explotación sexual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas tenían una gran formación. Trabajaban como tutores, contables, secretarios, artesanos o administradores. Otras soportaban un trabajo agrícola, minero o doméstico brutal. Su condición jurídica, no su talento, determinaba su falta de libertad."
+    },
+    {
+      "type": "paragraph",
+      "text": "La manumisión permitía a algunas personas esclavizadas convertirse en libertos o libertas, y algunas alcanzaron riqueza o influencia. Esa posibilidad no debe suavizar la realidad: la esclavitud era la propiedad coercitiva de seres humanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detrás de muchas villas lujosas había personas que podían ser compradas, vendidas, castigadas y separadas de su familia. La belleza de Roma no puede desligarse de los sistemas de trabajo que la hicieron posible."
+    },
+    {
+      "type": "heading",
+      "text": "Roma más allá de los palacios"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de los romanos urbanos no vivía en villas. Muchos habitaban insulae, edificios de apartamentos que podían estar abarrotados, ser ruidosos y sufrir incendios o derrumbes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las calles bullían de vendedores, carros, animales, talleres, actividad religiosa, anuncios políticos, discusiones y olores. Se compraba comida en tiendas y puestos. El trabajo y el hogar a menudo se superponían."
+    },
+    {
+      "type": "paragraph",
+      "text": "La vida pública importaba porque el espacio privado era limitado. Termas, fuentes, mercados, templos, teatros y calles eran prolongaciones de la vida cotidiana."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pobreza no era pintoresca. Enfermedad, malas condiciones sanitarias, deuda, inseguridad y dependencia de patronos o empleadores marcaban muchas vidas. El centro monumental de Roma convivía con realidades urbanas difíciles."
+    },
+    {
+      "type": "heading",
+      "text": "¿Cómo eran realmente las termas romanas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las termas eran instituciones sociales tanto como lugares para lavarse. Los grandes complejos podían incluir salas calientes y templadas, piscinas frías, espacios de ejercicio, jardines, bibliotecas y lugares de conversación."
+    },
+    {
+      "type": "paragraph",
+      "text": "La secuencia habitual podía incluir ejercicio, sudoración, baño y descanso, aunque las prácticas variaban. El caldarium era caliente; el tepidarium, templado, y el frigidarium, frío."
+    },
+    {
+      "type": "paragraph",
+      "text": "En las termas se encontraban amigos, se escuchaban noticias, se hablaba de negocios y se participaba en la cultura urbana. Las grandes termas de Caracalla muestran cómo la arquitectura imperial podía convertir el baño en una experiencia pública monumental."
+    },
+    {
+      "type": "paragraph",
+      "text": "También revelan desigualdad. No todos tenían el mismo acceso a comodidad, privacidad o higiene. El baño público era impresionante, pero Roma no era una ciudad sanitaria moderna."
+    },
+    {
+      "type": "heading",
+      "text": "Agua, letrinas y alcantarillas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ingeniería hidráulica romana fue extraordinaria. Los acueductos llevaban agua desde grandes distancias hasta las ciudades, abasteciendo fuentes, termas, casas, talleres y espacios públicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Cloaca Máxima se convirtió en símbolo de los sistemas de drenaje y alcantarillado de Roma. Existían letrinas públicas y la gestión urbana del agua fue uno de los grandes logros técnicos del imperio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero las comparaciones modernas pueden engañar. El acceso al agua era desigual. Las enfermedades seguían siendo frecuentes. Alcantarillas y letrinas no creaban un entorno higiénico según los criterios actuales."
+    },
+    {
+      "type": "paragraph",
+      "text": "El logro romano fue la escala y la organización: transportar agua, drenar espacios, abastecer servicios públicos y convertir la infraestructura en parte de la identidad imperial."
+    },
+    {
+      "type": "heading",
+      "text": "El Coliseo: sangre, política y entretenimiento"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Coliseo se construyó bajo la dinastía Flavia y abrió en el siglo I d. C. Se convirtió en uno de los monumentos más famosos de Roma porque combinaba arquitectura, violencia, política y gestión de multitudes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los espectáculos podían incluir combates de gladiadores, cacerías de animales y ejecuciones. Las estimaciones de aforo varían, pero el anfiteatro albergaba a decenas de miles de espectadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los juegos no eran solo entretenimiento. Eran teatro político. Emperadores y élites mostraban generosidad, control y poder patrocinando espectáculos para el pueblo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La arena convertía la violencia en ritual público. Esa es parte de la razón por la que el Coliseo sigue inquietándonos: es una arquitectura hermosa construida para representaciones mortales."
+    },
+    {
+      "type": "heading",
+      "text": "¿Quiénes eran los gladiadores?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre los gladiadores había luchadores esclavizados, prisioneros, delincuentes condenados y voluntarios. Se entrenaban en escuelas y combatían en estilos especializados con distintas armas y armaduras."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos se hicieron famosos. Sus imágenes aparecían en grafitos y objetos. Sin embargo, la popularidad no eliminaba el peligro ni su baja posición social."
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los combates terminaban automáticamente en muerte. Los luchadores entrenados representaban una inversión y muchos enfrentamientos acababan antes de un golpe mortal. Pero el riesgo era real y la violencia de la arena formaba parte del atractivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los gladiadores ocupaban un lugar paradójico: admirados por las multitudes y cargados de erotismo en el imaginario popular, pero socialmente degradados y a menudo privados de libertad."
+    },
+    {
+      "type": "heading",
+      "text": "Carreras de carros: el verdadero deporte de masas de Roma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque los gladiadores dominan la imaginación moderna, las carreras de carros quizá fueran la mayor pasión colectiva de Roma. El Circo Máximo reunía multitudes enormes para carreras entre facciones identificadas tradicionalmente con colores como rojo, blanco, azul y verde."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los aurigas podían convertirse en celebridades. Los aficionados apostaban, discutían y se identificaban intensamente con sus facciones. Las carreras combinaban peligro, velocidad, destreza, dinero y lealtad de grupo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este deporte también muestra que el entretenimiento romano no era solo sangre en anfiteatros. Era ruido, rivalidad, cultura de celebridades y emoción pública a gran escala."
+    },
+    {
+      "type": "heading",
+      "text": "¿Por qué era tan poderoso el ejército romano?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El ejército triunfó gracias a organización, entrenamiento, disciplina, logística, ingeniería y adaptación. Legionarios, auxiliares, oficiales, redes de abastecimiento y fortificaciones hicieron posible la conquista."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los soldados construían calzadas, campamentos, murallas, puentes y obras de asedio. Poder militar e ingeniería no eran ámbitos separados. El ejército podía combatir, construir y administrar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tropas auxiliares de las provincias ampliaban la capacidad militar romana y a menudo aportaban habilidades especializadas. Para algunos soldados sin ciudadanía, el servicio podía conducir finalmente a obtenerla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el ejército romano no fue invencible de manera permanente. Perdió batallas, afrontó rebeliones, cambió de estructura y, a veces, se convirtió en el árbitro de la sucesión imperial."
+    },
+    {
+      "type": "heading",
+      "text": "La ingeniería de un imperio"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ingeniería romana funcionaba mediante escala, repetición y adaptación. Las calzadas conectaban ejércitos y comercio. Los puentes cruzaban ríos. Los puertos movían mercancías. Los acueductos abastecían ciudades. Arcos, bóvedas, cúpulas y hormigón permitían edificios ambiciosos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los romanos heredaron mucho de civilizaciones mediterráneas anteriores, incluidas las tradiciones griega y etrusca. Su logro no fue inventarlo todo desde cero. Fue aplicar técnicas por todo un imperio con una coherencia y ambición asombrosas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Panteón sigue siendo uno de los ejemplos más famosos del hormigón y las cúpulas romanas. El Pont du Gard muestra la ingeniería de acueductos como utilidad y monumento a la vez. Las calzadas convirtieron la geografía en administración."
+    },
+    {
+      "type": "paragraph",
+      "text": "La infraestructura comunicaba poder. Una calzada, un puente o un acueducto decían a las poblaciones provinciales que Roma podía organizar el propio espacio."
+    },
+    {
+      "type": "heading",
+      "text": "Pompeya: una ciudad romana detenida en el tiempo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pompeya es inestimable porque conserva una ciudad romana corriente en circunstancias extraordinarias. Casas, tiendas, panaderías, tabernas, termas, santuarios, anuncios políticos, grafitos y burdeles sobreviven de una forma que permite reconstruir la vida cotidiana con un detalle poco habitual."
+    },
+    {
+      "type": "paragraph",
+      "text": "La erupción del Vesubio en 79 d. C. sepultó Pompeya, Herculano y asentamientos cercanos. Fue catastrófica para sus habitantes, pero conservó pruebas que los historiadores posteriores jamás habrían podido recuperar solo de los textos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pompeya muestra Roma desde abajo y desde arriba: vida comercial, política callejera, decoración doméstica, producción de alimentos, esclavitud, religión y prostitución aparecen en el registro arqueológico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para saber cómo los fenómenos naturales peligrosos se convierten en desastres humanos, lee el reportaje de PRESDA sobre [terremotos, volcanes y tsunamis](/articles/natural-disasters-earthquakes-volcanoes-tsunamis/)."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué comían los romanos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La alimentación corriente era mucho menos extravagante de lo que sugieren los relatos de banquetes de élite. Muchas personas dependían del pan, los cereales, las legumbres, las verduras, las aceitunas, la fruta, el vino, el queso y la salsa de pescado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La comida variaba según región, clase y estación. Los habitantes urbanos podían comprar comida preparada porque disponían de poco espacio para cocinar en casa. La dieta rural dependía de la producción local."
+    },
+    {
+      "type": "paragraph",
+      "text": "Había carne, marisco y lujos importados, pero el acceso variaba enormemente. El comedor de un senador y la comida de un jornalero pertenecían al mismo imperio, no al mismo mundo alimentario."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia de la comida romana es especialmente interesante cuando muestra la desigualdad: quién cultivaba los alimentos, quién los transportaba, quién cocinaba, quién servía y quién podía darse un banquete."
+    },
+    {
+      "type": "heading",
+      "text": "La religión antes del cristianismo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La religión romana era plural y práctica. Júpiter, Juno, Minerva, Marte, Venus y muchas otras divinidades recibían culto público. Los dioses domésticos protegían los espacios familiares. Ritos, votos, sacrificios y fiestas vinculaban religión y vida cívica."
+    },
+    {
+      "type": "paragraph",
+      "text": "El imperio también albergaba dioses locales, cultos mistéricos, tradiciones filosóficas, judaísmo y numerosas prácticas religiosas importadas. Roma a menudo absorbía y reinterpretaba poderes divinos en lugar de imponer una única identidad religiosa sencilla."
+    },
+    {
+      "type": "paragraph",
+      "text": "El culto imperial vinculaba la lealtad a Roma con los honores a los emperadores o al poder imperial. En las provincias, la religión podía expresar tanto la identidad local como la participación en el orden del imperio."
+    },
+    {
+      "type": "heading",
+      "text": "Cuándo se hizo cristiano el Imperio romano"
+    },
+    {
+      "type": "paragraph",
+      "text": "El reinado de Constantino transformó la posición del cristianismo. Después de la batalla del Puente Milvio en 312, lo favoreció, y el Edicto de Milán de 313 contribuyó a establecer la tolerancia legal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Constantino apoyó instituciones cristianas y convocó el Concilio de Nicea en 325, pero no convirtió instantáneamente el cristianismo en religión oficial de Roma."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese cambio posterior se desarrolló durante el siglo IV. Con Teodosio I, el cristianismo niceno quedó estrechamente vinculado a la autoridad imperial y los cultos públicos tradicionales afrontaron restricciones crecientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cristianización no ocurrió en un solo momento. Fue una larga transformación del derecho, el patronazgo, la identidad, la arquitectura y las prácticas cotidianas."
+    },
+    {
+      "type": "heading",
+      "text": "El lado oscuro del poder romano"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los logros de Roma tuvieron un coste humano. Las conquistas mataron y desplazaron personas. La esclavitud trasladó seres humanos como propiedades. Los impuestos extrajeron recursos. La violencia política eliminó rivales. Las ejecuciones en la arena hicieron público el castigo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las guerras civiles devastaron comunidades romanas tanto como los enemigos extranjeros. Los emperadores podían recurrir a acusaciones de traición, confiscaciones y ejecuciones. Las revueltas provinciales podían ser aplastadas brutalmente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Admirar la ingeniería romana no exige justificar su dominación. Las calzadas y los acueductos fueron logros reales. También lo fueron sus sistemas de coerción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las contradicciones de Roma no son una invención moderna. Los propios romanos debatían sobre lujo, corrupción, virtud, crueldad, ciudadanía y poder."
+    },
+    {
+      "type": "heading",
+      "text": "¿Por qué cayó el Imperio romano?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Imperio romano no cayó por una sola causa sencilla. El imperio occidental se fragmentó por inestabilidad política, guerras civiles, crisis sucesorias, presiones militares, dificultades fiscales, división administrativa, cambios en el ejército, migraciones y el ascenso de reinos germánicos dentro del antiguo territorio imperial."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fecha tradicional de 476 d. C. marca la destitución de Rómulo Augústulo, a menudo descrito como el último emperador romano de Occidente. Sirve como símbolo, pero puede inducir a error si se interpreta como un derrumbe repentino."
+    },
+    {
+      "type": "paragraph",
+      "text": "La autoridad imperial occidental llevaba generaciones debilitándose. El poder pasó a generales, élites regionales y reinos sucesores. Las instituciones romanas no desaparecieron de un día para otro."
+    },
+    {
+      "type": "paragraph",
+      "text": "La caída de Roma se comprende mejor como una larga transformación que como un único final dramático."
+    },
+    {
+      "type": "heading",
+      "text": "¿Cayó realmente Roma en 476?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 476 terminó únicamente el cargo imperial de Occidente. El Imperio romano de Oriente continuó desde Constantinopla durante casi mil años más."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los historiadores modernos suelen llamar Imperio bizantino a ese imperio oriental posterior, pero sus habitantes siguieron considerándose romanos. Utilizaban derecho romano, títulos imperiales e identidad política romana aunque cambiaran la lengua, la religión y el territorio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto importa porque decir que Roma desapareció en 476 borra la mitad de la historia. El imperio occidental se fragmentó; la vida imperial romana continuó en Oriente hasta la caída de Constantinopla en 1453."
+    },
+    {
+      "type": "paragraph",
+      "text": "El legado romano también perduró en el derecho, las estructuras eclesiásticas, las lenguas, la arquitectura y la imaginación política mucho después de desaparecer los emperadores de Occidente."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué dejó el Imperio romano?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Roma dejó calzadas, puentes, acueductos, arcos, cúpulas, trazados urbanos, conceptos jurídicos, literatura, vocabulario político y el latín, del que surgirían las lenguas romances."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ascenso del cristianismo dentro del mundo romano marcó la historia europea, mediterránea y de Oriente Próximo. El derecho romano influyó en tradiciones jurídicas posteriores. Su arquitectura se convirtió en modelo de poder desde los palacios renacentistas hasta los edificios gubernamentales modernos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la Europa moderna no es simplemente una continuación de Roma. Las sociedades posteriores reutilizaron, cuestionaron, transformaron y mitificaron sus herencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá el legado más duradero del imperio sea su doble imagen: advertencia sobre la dominación y modelo de infraestructura, administración y ambición."
+    },
+    {
+      "type": "heading",
+      "text": "Imperio romano: mitos y realidades"
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: los romanos pasaban todos los días en orgías y banquetes."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: algunas élites disfrutaban de un lujo extremo, pero la mayoría llevaba una vida corriente de trabajo, marcada por posición social, familia y supervivencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: los vomitorios eran habitaciones para vomitar después de comer."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: eran pasajes arquitectónicos que permitían circular a las multitudes por grandes recintos."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: todos los combates de gladiadores terminaban en muerte."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: muchos no acababan con una muerte, aunque el combate seguía siendo peligroso y violento."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: la sociedad romana estaba liberada sexualmente en el sentido moderno."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: la conducta sexual estaba profundamente condicionada por género, ciudadanía, clase, esclavitud y poder."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: Roma desapareció de repente en 476."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: la autoridad imperial occidental se fragmentó durante siglos, mientras el Imperio romano de Oriente continuó mucho más tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: todos los romanos vivían rodeados de mármol y fuentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: el lujo pertenecía principalmente a las élites. Muchos habitantes urbanos vivían en apartamentos abarrotados y trabajaban duramente sin una seguridad garantizada."
+    },
+    {
+      "type": "heading",
+      "text": "Poder, lujo y contradicción"
+    },
+    {
+      "type": "paragraph",
+      "text": "La antigua Roma fue magnífica y brutal al mismo tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus ciudadanos más ricos podían vivir entre mármol, jardines, fuentes, arte, vino y banquetes mientras personas esclavizadas trabajaban detrás de esos muros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus ingenieros transportaban agua a distancias enormes. Sus soldados conectaban y conquistaban territorios entre continentes. Sus arenas convertían la violencia en entretenimiento de masas. Sus calles reunían senadores, comerciantes, trabajadores, inmigrantes, prostitutas, soldados, personas esclavizadas y emperadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "La grandeza de Roma no puede comprenderse sin sus contradicciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "La antigua Roma nunca fue simplemente una ciudad de palacios de mármol ni solo un imperio construido mediante conquistas. Fue ambas cosas. Detrás de fuentes y mosaicos había un enorme sistema de trabajo, poder militar y desigualdad. Sin embargo, las calzadas, leyes, lenguas, edificios e ideas que dejó sobrevivieron mucho después de sus emperadores. El imperio acabó cayendo. Su sombra nunca desapareció del todo."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Museo Metropolitano de Arte: el Imperio romano",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm"
+    },
+    {
+      "label": "Museo Británico: galería de la colección del Imperio romano",
+      "url": "https://www.britishmuseum.org/collection/galleries/roman-empire"
+    },
+    {
+      "label": "Centro del Patrimonio Mundial de la UNESCO: zonas arqueológicas de Pompeya, Herculano y Torre Annunziata",
+      "url": "https://whc.unesco.org/en/list/829/"
+    },
+    {
+      "label": "Parque Arqueológico de Pompeya: el Lupanar",
+      "url": "https://pompeiisites.org/en/archaeological-site/lupanar/"
+    },
+    {
+      "label": "Encyclopaedia Britannica: el Coliseo",
+      "url": "https://www.britannica.com/topic/Colosseum"
+    },
+    {
+      "label": "Encyclopaedia Britannica: Pompeya",
+      "url": "https://www.britannica.com/place/Pompeii"
+    },
+    {
+      "label": "Encyclopaedia Britannica: el Panteón",
+      "url": "https://www.britannica.com/topic/Pantheon-building-Rome-Italy"
+    },
+    {
+      "label": "Encyclopaedia Britannica: el Circo Máximo",
+      "url": "https://www.britannica.com/topic/Circus-Maximus"
+    },
+    {
+      "label": "Encyclopaedia Britannica: la caída de Roma",
+      "url": "https://www.britannica.com/event/fall-of-Rome"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cómo era la vida en el Imperio romano?",
+      "answer": "Dependía mucho de la posición social. Las élites podían disfrutar de villas, banquetes e influencia pública, mientras muchas personas vivían en apartamentos abarrotados, trabajaban en tiendas o campos, servían en el ejército o soportaban la esclavitud."
+    },
+    {
+      "question": "¿Había burdeles en la antigua Roma?",
+      "answer": "Sí. Existía prostitución y Pompeya conserva el famoso Lupanar, un burdel con pequeñas habitaciones, pinturas murales y grafitos. Muchas personas que la ejercían eran esclavas o antiguas esclavas, por lo que debe abordarse como explotación además de historia social."
+    },
+    {
+      "question": "¿Todos los combates de gladiadores terminaban en muerte?",
+      "answer": "No. Muchos no terminaban en muerte. Los gladiadores entrenados representaban una inversión, aunque combatir seguía siendo peligroso y la violencia de la arena era central en el espectáculo romano."
+    },
+    {
+      "question": "¿Por qué cayó el Imperio romano?",
+      "answer": "El imperio occidental se fragmentó por múltiples presiones, entre ellas inestabilidad política, guerras civiles, dificultades fiscales, desafíos militares, migraciones y el ascenso de reinos sucesores. El año 476 d. C. es simbólico, no un instante en que desapareciera la civilización romana."
+    },
+    {
+      "question": "¿Terminó realmente Roma en 476?",
+      "answer": "La autoridad imperial de Occidente terminó en 476 d. C., pero el Imperio romano de Oriente continuó desde Constantinopla durante casi mil años más. Sus habitantes siguieron considerándose romanos."
+    }
+  ]
+}

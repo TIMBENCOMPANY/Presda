@@ -1,0 +1,562 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/charles-darwin-theory-of-evolution/",
+  "path": "/fr/articles/charles-darwin-theory-of-evolution/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "CHARLES DARWIN : LA THÉORIE QUI A TRANSFORMÉ NOTRE COMPRÉHENSION DU VIVANT",
+  "excerpt": "Charles Darwin n’a pas découvert l’évolution en un instant. Sa théorie est née de voyages, de preuves, de doutes, de l’intuition parallèle d’Alfred Russel Wallace et de décennies de travail scientifique.",
+  "headlineHighlights": {
+    "red": "CHARLES DARWIN",
+    "gold": "COMPRÉHENSION DU VIVANT"
+  },
+  "seoTitle": "Charles Darwin : comprendre l’évolution et la sélection naturelle",
+  "description": "Darwin, le voyage du Beagle, la sélection naturelle, Alfred Russel Wallace et l’évolution humaine : comprendre une théorie fondatrice et son héritage.",
+  "keywords": [
+    "Charles Darwin théorie évolution",
+    "sélection naturelle",
+    "Darwin Wallace",
+    "voyage Beagle",
+    "évolution humaine"
+  ],
+  "searchIntent": "Comprendre comment Darwin a élaboré sa théorie, distinguer évolution et sélection naturelle et découvrir les preuves et les apports de la génétique moderne.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "image": {
+    "src": "/images/articles/charles-darwin-theory-of-evolution.webp",
+    "alt": "Charles Darwin étudiant des spécimens d’histoire naturelle dans un cabinet victorien, avec le HMS Beagle visible près d’un paysage côtier"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Charles Darwin a transformé la manière dont les humains comprennent la vie sur Terre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant lui, beaucoup considéraient les espèces comme fixes : créées sous leur forme actuelle et largement inchangées au fil du temps. Les naturalistes décrivaient animaux et plantes avec une précision extraordinaire, mais une question plus profonde restait difficile."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pourquoi les êtres vivants étaient-ils si bien adaptés à leur environnement ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pourquoi les espèces disparues ressemblaient-elles aux espèces vivantes ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pourquoi les îles abritaient-elles des animaux apparemment apparentés aux espèces du continent voisin, mais pourtant différents ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La réponse de Darwin est devenue l’une des idées majeures de la science moderne : les populations changent au fil des générations, et la sélection naturelle peut expliquer l’apparition d’adaptations sans qu’un concepteur façonne individuellement chaque caractère."
+    },
+    {
+      "type": "paragraph",
+      "text": "La théorie de l’évolution de Charles Darwin n’est pas sortie de nulle part. Elle s’est nourrie de débats anciens, d’un voyage de cinq ans, de carnets minutieux, d’échanges avec d’autres scientifiques, des travaux parallèles d’Alfred Russel Wallace et d’une lente accumulation de preuves."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour poursuivre l’histoire des sciences avec PRESDA, découvrez [Galilée et l’Église](/articles/galileo-and-the-church/) et [pourquoi nous rêvons](/articles/why-do-we-dream/)."
+    },
+    {
+      "type": "heading",
+      "text": "Qui était Charles Darwin ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Charles Robert Darwin est né le 12 février 1809 à Shrewsbury, en Angleterre. Il a grandi dans une famille aisée liée à la médecine, à l’industrie et à la vie intellectuelle. Son grand-père Erasmus Darwin avait formulé des idées évolutionnistes spéculatives plusieurs décennies auparavant, mais Charles allait élaborer une théorie bien davantage fondée sur les preuves."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin a d’abord étudié la médecine à l’université d’Édimbourg, mais il supportait mal la chirurgie et n’est pas devenu médecin. Il a ensuite étudié à Cambridge, où il devait se préparer à une carrière ecclésiastique."
+    },
+    {
+      "type": "paragraph",
+      "text": "À Cambridge, il s’est passionné pour l’histoire naturelle. Il collectionnait les coléoptères, lisait des ouvrages scientifiques et nouait des relations avec des mentors qui encourageaient son sens de l’observation."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’un d’eux, le botaniste John Stevens Henslow, a contribué à lui ouvrir la possibilité qui allait changer sa vie : embarquer à bord du HMS Beagle."
+    },
+    {
+      "type": "heading",
+      "text": "Le voyage du HMS Beagle"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1831, Darwin a rejoint le HMS Beagle comme jeune naturaliste pour un voyage de relevés hydrographiques commandé par Robert FitzRoy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le voyage a duré près de cinq ans, de 1831 à 1836. Darwin a traversé l’Atlantique, longé l’Amérique du Sud, visité les Galápagos, traversé le Pacifique et finalement regagné la Grande-Bretagne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a recueilli des spécimens, étudié la géologie, observé animaux et plantes et relevé des régularités qui deviendraient centrales dans sa réflexion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le voyage n’a pas fait instantanément de lui l’auteur de la théorie de l’évolution. C’est un mythe courant. Plusieurs de ses interprétations majeures ont pris forme après son retour, lorsqu’il classait ses spécimens et confrontait ses observations à celles de spécialistes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais le voyage du Beagle lui a apporté quelque chose d’essentiel : une vaste expérience directe de la diversité, de la répartition et de l’histoire du vivant."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que Darwin a observé aux Galápagos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les îles Galápagos occupent une place particulière dans les récits populaires de la vie de Darwin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il les a visitées en 1835. Il y a observé notamment des tortues, des moqueurs et des pinsons, et recueilli des spécimens sur différentes îles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le récit populaire laisse parfois entendre qu’il aurait regardé les pinsons et compris immédiatement l’évolution. Les sources historiques dessinent une histoire plus complexe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin n’avait pas pleinement compris la portée évolutive des pinsons lorsqu’il se trouvait encore aux Galápagos. L’analyse ultérieure de l’ornithologue John Gould a contribué à montrer que les oiseaux recueillis appartenaient à un groupe d’espèces étroitement apparentées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Galápagos ont compté parce qu’elles ont rendu plus nette une régularité générale : les espèces insulaires ressemblaient souvent à celles du continent le plus proche, tout en présentant des différences locales caractéristiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette répartition devenait compréhensible si les espèces pouvaient changer après avoir colonisé de nouveaux milieux."
+    },
+    {
+      "type": "heading",
+      "text": "L’élaboration de la sélection naturelle"
+    },
+    {
+      "type": "paragraph",
+      "text": "De retour en Grande-Bretagne, Darwin a commencé à développer ses idées sur la transformation des espèces."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a étudié l’élevage, la sélection artificielle, la géologie, les fossiles, la biogéographie et les variations présentes dans les populations domestiques et sauvages."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une intuition décisive est venue de la réflexion sur la pression démographique. Les organismes produisent généralement plus de descendants qu’il ne peut en survivre. Les individus varient. Certaines variations influencent la survie et la reproduction. Si ces différences sont héréditaires, elles peuvent devenir plus fréquentes au fil des générations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin a appelé ce processus la sélection naturelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "La sélection naturelle ne supposait pas que les animaux cherchent consciemment à s’améliorer. Elle ne signifiait pas que l’évolution suivait un plan. Elle signifiait que les caractères héréditaires influençant la survie et la reproduction pouvaient modifier la composition des populations au cours du temps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin a travaillé sur ces idées en privé pendant plus de deux décennies avant de publier son grand ouvrage."
+    },
+    {
+      "type": "heading",
+      "text": "Alfred Russel Wallace"
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin n’était pas seul."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alfred Russel Wallace, naturaliste britannique travaillant en Asie du Sud-Est, a élaboré indépendamment une théorie de l’évolution par sélection naturelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1858, Wallace a envoyé à Darwin un essai exposant son idée. Darwin a reconnu combien cette théorie ressemblait à ses propres travaux encore inédits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela a conduit à une présentation conjointe des idées de Darwin et de Wallace devant la Société linnéenne de Londres en 1858."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rôle de Wallace compte. La sélection naturelle est souvent surtout associée à Darwin, car celui-ci a réuni un ensemble exceptionnellement vaste de preuves et publié la grande synthèse de 1859. Mais Wallace est parvenu indépendamment à l’intuition centrale et mérite une place durable dans l’histoire de la biologie évolutive."
+    },
+    {
+      "type": "heading",
+      "text": "De l’origine des espèces"
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin a publié De l’origine des espèces en 1859."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ouvrage soutenait que les espèces n’étaient pas fixes. Darwin proposait plutôt une descendance avec modification : les formes vivantes sont reliées par des lignées ramifiées, et la sélection naturelle est l’un des grands mécanismes par lesquels les adaptations évoluent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin ne connaissait ni les gènes, ni l’ADN, ni la biologie moléculaire moderne. Les travaux de Gregor Mendel sur l’hérédité ne faisaient pas encore partie des connaissances courantes en biologie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette limite est importante. Darwin expliquait puissamment l’évolution, mais il lui manquait le mécanisme génétique découvert plus tard, nécessaire pour montrer précisément comment se transmet la variation héréditaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Malgré cela, De l’origine des espèces réunissait des preuves issues de l’élevage, des fossiles, de l’embryologie, de la répartition géographique et de la classification. Sa force venait de la convergence de nombreuses sources de preuves indépendantes vers une même conclusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le vivant avait une histoire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les espèces avaient changé."
+    },
+    {
+      "type": "paragraph",
+      "text": "Et des processus naturels pouvaient expliquer l’adaptation."
+    },
+    {
+      "type": "heading",
+      "text": "Évolution et sélection naturelle : quelle différence ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’évolution et la sélection naturelle sont liées, mais ne se confondent pas."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’évolution désigne les changements des caractères héréditaires des populations au fil des générations. Elle comprend l’histoire ramifiée du vivant et l’ascendance commune des organismes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La sélection naturelle est un mécanisme de l’évolution. Elle intervient lorsque des caractères héréditaires influencent la survie ou la reproduction dans un environnement donné."
+    },
+    {
+      "type": "paragraph",
+      "text": "La biologie évolutive moderne comprend aussi des mécanismes que Darwin connaissait mal ou ignorait entièrement : mutation, dérive génétique, flux de gènes, recombinaison et transmission génétique par l’ADN."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction évite une erreur fréquente : Darwin n’a pas personnellement expliqué tous les aspects de l’évolution tels que la science les comprend aujourd’hui. Il a proposé une théorie fondatrice que la biologie ultérieure a enrichie, testée et affinée."
+    },
+    {
+      "type": "heading",
+      "text": "Les preuves de l’évolution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les preuves de l’évolution viennent de nombreux domaines indépendants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fossiles montrent que le vivant a changé au cours des temps géologiques. Les formes de transition et les successions du registre fossile documentent de grands changements évolutifs, même si ce registre reste naturellement incomplet, la fossilisation étant rare."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’anatomie comparée montre que des organismes peuvent partager des structures sous-jacentes alors même qu’elles remplissent des fonctions différentes. Les membres antérieurs des humains, des chauves-souris, des baleines et d’autres mammifères ont des usages très différents, mais reflètent une ascendance anatomique commune."
+    },
+    {
+      "type": "paragraph",
+      "text": "La biogéographie montre que la répartition des espèces suit souvent des schémas de descendance commune, de dispersion et d’isolement. Les îles sont particulièrement révélatrices : leurs espèces ressemblent souvent à celles des régions continentales voisines, tout en évoluant vers des formes distinctives."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’embryologie et la biologie du développement révèlent des régularités communes chez les organismes apparentés."
+    },
+    {
+      "type": "paragraph",
+      "text": "La génétique moderne a apporté certaines des preuves les plus solides. Les comparaisons d’ADN permettent de reconstruire les relations entre espèces, de suivre les mutations et de tester les hypothèses évolutives à l’aide de données moléculaires."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’évolution ne repose donc pas sur un argument fragile et isolé. Elle est étayée par des preuves convergentes issues de plusieurs sciences."
+    },
+    {
+      "type": "heading",
+      "text": "L’évolution humaine et La Filiation de l’homme"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans De l’origine des espèces, Darwin restait prudent sur la discussion directe de l’évolution humaine. Il suggérait, dans une formule devenue célèbre, que les origines humaines seraient éclairées, mais il ne faisait pas des humains le sujet central du livre."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1871, il a publié La Filiation de l’homme, où il soutenait que les humains appartiennent eux aussi à l’histoire évolutive du vivant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette idée est devenue l’un des aspects les plus controversés de son héritage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une précision essentielle s’impose : l’évolution ne dit pas que les humains descendent des singes ou des grands singes actuels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les humains et les autres primates actuels partagent des ancêtres communs. Humains modernes, chimpanzés, gorilles et autres singes ne forment pas une échelle dans laquelle une espèce vivante se transforme en une autre. Ce sont les branches d’un arbre évolutif beaucoup plus vaste."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’évolution humaine est aujourd’hui étudiée grâce aux fossiles, à l’archéologie, à l’anatomie comparée, à la génétique et aux données paléoenvironnementales. Une grande partie de ces éléments était inaccessible à Darwin."
+    },
+    {
+      "type": "paragraph",
+      "text": "La science moderne est donc allée bien au-delà de lui, tout en conservant l’intuition centrale : les humains font partie de l’histoire de la nature, ils n’en sont pas séparés."
+    },
+    {
+      "type": "heading",
+      "text": "Réactions scientifiques et controverses religieuses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les réactions à Darwin ont été complexes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certains scientifiques ont rapidement accepté certains aspects de l’évolution tout en discutant l’importance de la sélection naturelle. D’autres ont résisté à la théorie ou proposé des mécanismes différents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les réactions religieuses ont elles aussi été variées. Certains penseurs religieux ont rejeté les idées de Darwin, y voyant une remise en cause des interprétations traditionnelles de la création. D’autres ont cherché à concilier évolution et croyance en un dessein divin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il ne faut pas réduire cette controverse historique à un simple affrontement entre science et religion. Elle impliquait théologie, interprétation biblique, société victorienne, preuves scientifiques, origines humaines et autorité institutionnelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin lui-même restait prudent face aux controverses publiques et souffrait souvent d’une santé fragile. Des figures comme Thomas Henry Huxley ont pris en charge la défense publique des idées évolutionnistes, tandis que de nombreux scientifiques en débattaient les détails pendant des décennies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec le temps, la biologie évolutive est devenue centrale dans la science moderne, notamment après le renforcement de la théorie par la génétique et la biologie des populations au XXe siècle."
+    },
+    {
+      "type": "heading",
+      "text": "Les idées reçues sur Darwin et l’évolution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plusieurs mythes déforment encore son travail."
+    },
+    {
+      "type": "paragraph",
+      "text": "Premier mythe : Darwin aurait découvert l’évolution entièrement seul. En réalité, des idées évolutionnistes existaient avant lui, et Alfred Russel Wallace a élaboré indépendamment la sélection naturelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deuxième mythe : Darwin aurait eu une révélation soudaine aux Galápagos. Les îles ont compté, mais sa théorie s’est développée au fil d’années d’étude après le voyage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Troisième mythe : les humains descendraient des singes actuels. L’affirmation exacte est celle d’une ascendance commune : les humains et les autres primates partagent des ancêtres dans le passé."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quatrième mythe : la sélection naturelle signifierait que seuls les plus forts survivent. La valeur sélective concerne le succès reproductif dans un milieu donné, pas la force brute."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cinquième mythe : l’évolution serait entièrement aléatoire. Les mutations et la variation comportent des éléments aléatoires, mais la sélection naturelle ne l’est pas au sens où certains caractères héréditaires influencent régulièrement la survie et la reproduction dans des conditions données."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sixième mythe : la théorie de Darwin n’aurait pas changé. La biologie évolutive moderne comprend la génétique, la biologie moléculaire, la biologie du développement et des mécanismes à l’échelle des populations qu’il ignorait."
+    },
+    {
+      "type": "heading",
+      "text": "Ce qu’a apporté la génétique moderne"
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin comprenait que la variation et l’hérédité étaient essentielles, mais il ignorait les bases physiques de l’hérédité."
+    },
+    {
+      "type": "paragraph",
+      "text": "La génétique moderne a transformé la biologie évolutive."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les gènes, l’ADN, les mutations, la recombinaison et la génétique des populations ont expliqué l’apparition de la variation et sa transmission. La théorie synthétique de l’évolution du XXe siècle a associé sélection naturelle darwinienne et génétique mendélienne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les découvertes ultérieures en biologie moléculaire ont permis de comparer les génomes d’espèces différentes. Ces comparaisons ont révélé des relations profondes entre organismes et apporté de puissantes preuves d’ascendance commune."
+    },
+    {
+      "type": "paragraph",
+      "text": "La génétique a aussi montré que l’évolution ne concerne pas seulement les caractères visibles. Elle agit au niveau moléculaire, façonnant les protéines, les systèmes de régulation et la variation génétique au sein des populations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darwin a donné à la biologie son cadre historique. La génétique a fourni des mécanismes et des outils de mesure dont il ne pouvait disposer."
+    },
+    {
+      "type": "heading",
+      "text": "L’héritage scientifique de Darwin aujourd’hui"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’héritage de Darwin ne tient pas au maintien intact de chacune de ses phrases."
+    },
+    {
+      "type": "paragraph",
+      "text": "La science ne fonctionne pas ainsi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son héritage est d’avoir contribué à rendre la diversité du vivant explicable par des processus naturels observables, testables et susceptibles d’être mieux compris."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pensée évolutionniste éclaire aujourd’hui la médecine, la génétique, l’agriculture, la conservation, l’écologie, l’épidémiologie et l’étude de la biodiversité."
+    },
+    {
+      "type": "paragraph",
+      "text": "La résistance aux antibiotiques est un changement évolutif en temps réel. La biologie de la conservation utilise les relations évolutives pour comprendre les espèces menacées. La génomique cartographie les parentés du vivant. Les chercheurs en santé publique étudient l’évolution des agents pathogènes pour suivre les maladies émergentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La théorie de Darwin a aussi changé l’image que l’humanité a d’elle-même. Elle a replacé les humains dans la même histoire naturelle que les autres organismes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela reste intellectuellement déstabilisant pour certains. C’est aussi l’une des raisons de la permanence de cette théorie. Elle ne décrit pas seulement le vivant : elle transforme le cadre dans lequel nous le comprenons."
+    },
+    {
+      "type": "heading",
+      "text": "La théorie qui a changé notre vision de la vie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Charles Darwin n’a pas répondu à toutes les questions sur l’évolution."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il ne connaissait pas l’ADN."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il ne connaissait pas la génétique moderne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’a pas résolu tous les problèmes de l’hérédité, de la spéciation ou des origines humaines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais il a compris quelque chose d’extraordinaire : le monde vivant pouvait être envisagé comme une histoire ramifiée, façonnée par des causes naturelles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les espèces n’étaient pas des objets isolés placés dans la nature sans ascendance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles étaient apparentées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles changeaient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles s’adaptaient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles portaient dans leur corps les traces du passé."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette idée a transformé la biologie : de catalogue des êtres vivants, elle est devenue une science historique."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’œuvre de Darwin a changé notre compréhension des oiseaux insulaires, des fossiles dans la roche, des bactéries dans les hôpitaux, des gènes dans les cellules et des humains eux-mêmes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette théorie n’était pas l’aboutissement de la biologie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle était le commencement d’une explication plus profonde du vivant."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Darwin Correspondence Project : biographie de Charles Darwin",
+      "url": "https://www.darwinproject.ac.uk/about-darwin"
+    },
+    {
+      "label": "Darwin Correspondence Project : le voyage du Beagle",
+      "url": "https://www.darwinproject.ac.uk/commentary/voyage-hms-beagle"
+    },
+    {
+      "label": "Natural History Museum : Charles Darwin et l’évolution",
+      "url": "https://www.nhm.ac.uk/discover/charles-darwin-most-famous-biologist.html"
+    },
+    {
+      "label": "Royal Society : archives du cinquantenaire du travail de Darwin et Wallace",
+      "url": "https://catalogues.royalsociety.org/calmview/Record.aspx?id=MC%2F23%2F259&src=CalmView.Catalog"
+    },
+    {
+      "label": "Smithsonian National Museum of Natural History : introduction à l’évolution humaine",
+      "url": "https://humanorigins.si.edu/education/introduction-human-evolution"
+    },
+    {
+      "label": "Darwin Online : De l’origine des espèces, 1859",
+      "url": "https://darwin-online.org.uk/contents.html#origin"
+    },
+    {
+      "label": "Darwin Online : La Filiation de l’homme, 1871",
+      "url": "https://darwin-online.org.uk/contents.html#descent"
+    },
+    {
+      "label": "Nature Education : théorie évolutive et synthèse moderne",
+      "url": "https://www.nature.com/scitable/knowledge/library/the-modern-synthesis-64206508/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Pourquoi Charles Darwin est-il surtout connu ?",
+      "answer": "Charles Darwin est surtout connu pour avoir développé la théorie de l’évolution par sélection naturelle, notamment dans son ouvrage De l’origine des espèces, publié en 1859."
+    },
+    {
+      "question": "Darwin a-t-il inventé l’idée d’évolution ?",
+      "answer": "Non. Des idées évolutionnistes existaient avant lui. Son apport majeur a été une explication puissante de l’adaptation par sélection naturelle, fondée sur les preuves."
+    },
+    {
+      "question": "Qui était Alfred Russel Wallace ?",
+      "answer": "Alfred Russel Wallace était un naturaliste qui a élaboré indépendamment une théorie de l’évolution par sélection naturelle. Son essai de 1858 a conduit à une présentation conjointe avec les travaux de Darwin."
+    },
+    {
+      "question": "Les humains descendent-ils des singes actuels ?",
+      "answer": "Non. Les humains ne descendent pas des singes actuels. Ils partagent avec les autres primates des ancêtres communs dans le passé et appartiennent à des branches différentes de l’arbre évolutif."
+    },
+    {
+      "question": "Quelle différence entre évolution et sélection naturelle ?",
+      "answer": "L’évolution correspond aux changements des caractères héréditaires des populations au fil des générations. La sélection naturelle est l’un des mécanismes pouvant produire ces changements."
+    },
+    {
+      "question": "Qu’a ajouté la génétique moderne à la théorie de Darwin ?",
+      "answer": "La génétique moderne a expliqué comment la variation héréditaire se transmet par les gènes et l’ADN, reliant la sélection naturelle de Darwin aux mécanismes moléculaires et à ceux des populations."
+    },
+    {
+      "question": "Pourquoi la théorie de Darwin a-t-elle suscité des controverses ?",
+      "answer": "Elle remettait en cause la fixité des espèces et soulevait des questions difficiles sur les origines humaines, l’interprétation biblique et la place de l’humanité dans la nature."
+    }
+  ]
+}

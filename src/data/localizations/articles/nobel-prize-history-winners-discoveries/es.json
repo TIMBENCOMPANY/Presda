@@ -1,0 +1,906 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/nobel-prize-history-winners-discoveries/",
+  "path": "/es/articles/nobel-prize-history-winners-discoveries/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "EL PREMIO NOBEL: PERSONAS Y DESCUBRIMIENTOS QUE CAMBIARON EL MUNDO",
+  "excerpt": "De Marie Curie y Albert Einstein a los avances en medicina, literatura y paz, los premios Nobel llevan más de un siglo reconociendo descubrimientos, ideas y personas que transformaron a la humanidad.",
+  "headlineHighlights": {
+    "red": "PREMIO NOBEL",
+    "gold": "CAMBIARON EL MUNDO"
+  },
+  "seoTitle": "Premios Nobel: historia, ganadores y grandes descubrimientos",
+  "description": "Descubre la historia de los premios Nobel: Alfred Nobel, Marie Curie, Einstein, la penicilina, Malala y las ideas que transformaron la ciencia y la paz.",
+  "keywords": [
+    "historia de los premios Nobel",
+    "ganadores del premio Nobel",
+    "Marie Curie dos premios Nobel",
+    "Einstein efecto fotoeléctrico",
+    "cuánto dinero da el premio Nobel"
+  ],
+  "searchIntent": "Comprender el origen de los premios Nobel, sus ganadores y descubrimientos más influyentes, sus reglas, su dotación económica y sus controversias.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-11",
+  "updatedAt": "2026-09-11",
+  "image": {
+    "src": "/articles/nobel-prize-history-winners-discoveries.png",
+    "alt": "Ilustración editorial de estética cinematográfica sobre la historia de los Nobel, con Alfred Nobel, Marie Curie, Albert Einstein, una medalla, material de laboratorio y una ceremonia de entrega"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Una ceremonia de los Nobel está concebida para trascender una trayectoria individual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Están la medalla, el diploma, el traje de gala, la música, el público y ese silencio singular que rodea a un nombre cuando pasa a formar parte de la historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde 1901, los premios Nobel reconocen trabajos en física, química, fisiología o medicina, literatura y paz. En 1969 comenzó a concederse, junto a los premios originales, uno de economía creado por el banco central de Suecia."
+    },
+    {
+      "type": "paragraph",
+      "text": "La paradoja que está en su origen nunca ha desaparecido: los galardones más famosos del mundo por sus contribuciones al bien de la humanidad nacieron de la fortuna de Alfred Nobel, un inventor e industrial cuyo nombre estaba estrechamente ligado a los explosivos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa contradicción no es un detalle incómodo de la historia. Es su punto de partida."
+    },
+    {
+      "type": "heading",
+      "text": "Un premio que puede cambiar una vida"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un Nobel hace algo más que premiar un descubrimiento: lo incorpora a la memoria colectiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchos avances científicos llegan despacio, entre cuadernos, experimentos fallidos, debates técnicos y un trabajo en equipo que apenas se ve. Una obra literaria puede tardar décadas en encontrar a sus lectores más atentos. La labor por la paz puede desarrollarse entre amenazas, cárcel, exilio o presiones políticas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Nobel condensan esas historias complejas en un momento de alcance mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa síntesis tiene una enorme fuerza, pero también límites. Una medalla puede iluminar una vida y, a la vez, dejar en la sombra a otras personas que contribuyeron. Para entender los Nobel hay que tener presentes ambas realidades."
+    },
+    {
+      "type": "heading",
+      "text": "¿Quién fue Alfred Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alfred Bernhard Nobel nació en Estocolmo el 21 de octubre de 1833."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fue químico, ingeniero, inventor, escritor y empresario. NobelPrize.org lo describe como un hombre con amplios intereses en la ciencia, la literatura y las cuestiones sociales, más allá de su actividad como fabricante de explosivos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su familia vivió en varios países y su carrera adquirió una dimensión internacional. Trabajó con nitroglicerina, un explosivo potente y peligrosamente inestable. Su gran avance consistió en encontrar formas más fiables de controlar la fuerza explosiva, entre ellas la dinamita, patentada en 1867."
+    },
+    {
+      "type": "paragraph",
+      "text": "La dinamita tenía usos industriales legítimos. Facilitó la minería, la excavación de túneles, la construcción de carreteras, ferrocarriles y canales, y grandes obras de ingeniería. También podía causar destrucción. Nobel comprendía las dos caras del poder tecnológico mejor que muchas de las personas que después lo redujeron a un símbolo sencillo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al final de su vida había creado empresas y laboratorios en varios países y acumulado 355 patentes. Murió en San Remo, Italia, el 10 de diciembre de 1896."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los premios Nobel nacen de esa vida compleja: innovación, industria, riqueza, peligro, literatura, ciencia y el deseo de vincular su fortuna a una idea que lo trascendiera."
+    },
+    {
+      "type": "heading",
+      "text": "La necrológica que quizá lo cambió todo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las historias más repetidas sobre Nobel comienza con una necrológica equivocada."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1888 murió Ludvig, hermano de Alfred Nobel. Según el relato, un periódico francés confundió a los hermanos y publicó una necrológica de Alfred. El titular suele traducirse como «Ha muerto el mercader de la muerte»."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia se hizo famosa porque parece casi literaria: un hombre lee en la prensa un juicio moral sobre su propia vida, vislumbra cómo podría recordarlo la posteridad y decide cambiar su legado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el rigor histórico exige formularlo con más cautela."
+    },
+    {
+      "type": "paragraph",
+      "text": "El episodio de la necrológica se ha repetido mucho y pudo influir en Nobel, pero no debe presentarse como la causa única y demostrada de los premios. Su testamento llegó años después, tras una vida ya marcada por la ambición científica, los intereses literarios, las amistades internacionales y las conversaciones sobre la paz."
+    },
+    {
+      "type": "paragraph",
+      "text": "La conclusión más prudente es también más interesante: Nobel sabía que sus inventos podían recordarse de distintas maneras, y su último testamento intentó vincular su nombre a trabajos al servicio de la humanidad."
+    },
+    {
+      "type": "heading",
+      "text": "El testamento que sorprendió al mundo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 27 de noviembre de 1895, Alfred Nobel firmó su último testamento en el Club Sueco-Noruego de París."
+    },
+    {
+      "type": "paragraph",
+      "text": "El documento destinaba la mayor parte de su patrimonio a un fondo. Sus rendimientos debían repartirse cada año entre quienes, durante el año anterior, hubieran aportado el «mayor beneficio a la humanidad»."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los campos originales eran física, química, fisiología o medicina, literatura y paz."
+    },
+    {
+      "type": "paragraph",
+      "text": "El testamento sorprendió al entorno de Nobel. Designaba las instituciones encargadas de elegir a los premiados y creaba un sistema internacional de galardones poco habitual. Familiares y otras partes cuestionaron lo dispuesto antes de que se constituyera la Fundación Nobel para administrarlo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los primeros premios Nobel se concedieron en 1901."
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde el principio, no se concibieron simplemente como un premio sueco, sino como un reconocimiento internacional a trabajos cuya importancia superaba las fronteras."
+    },
+    {
+      "type": "heading",
+      "text": "¿Cómo se elige a los ganadores del Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nadie puede presentar su propia candidatura a un Nobel."
+    },
+    {
+      "type": "paragraph",
+      "text": "El proceso comienza con las personas habilitadas para proponer candidatos. Según el premio, pueden ser antiguos laureados, determinados académicos, profesores de disciplinas relacionadas, miembros de academias, parlamentarios en el caso del Nobel de la Paz y otras personas invitadas a presentar propuestas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada premio corresponde a una institución."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Real Academia Sueca de Ciencias elige a los laureados en física y química, y también en economía. La Asamblea Nobel del Instituto Karolinska selecciona a los de fisiología o medicina. La Academia Sueca decide el de literatura. El Comité Nobel Noruego concede el de la Paz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las deliberaciones son célebres por su carácter reservado. Por lo general, las candidaturas y los informes de expertos permanecen bajo secreto durante 50 años antes de abrirse a la investigación histórica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa confidencialidad protege el proceso, pero también alimenta el misterio. El mundo conoce el anuncio; los historiadores reconstruyen después los argumentos."
+    },
+    {
+      "type": "heading",
+      "text": "¿Quién fue la primera mujer en ganar un Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Marie Skłodowska Curie fue la primera mujer en recibir un premio Nobel."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1903 compartió el Nobel de Física con Pierre Curie y Henri Becquerel por sus trabajos relacionados con los fenómenos de radiación. Su investigación contribuyó a convertir la radiactividad, hasta entonces un efecto observado, en un campo científico."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1911 recibió el Nobel de Química por sus trabajos sobre el radio y el polonio, incluido el aislamiento del radio y el estudio de sus compuestos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así se convirtió, además de en la primera mujer laureada, en la primera persona que recibía premios Nobel en dos campos científicos diferentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción sigue siendo relevante. Marie Curie continúa siendo la única persona que ha recibido premios Nobel en dos categorías distintas de las ciencias naturales: física y química."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su logro fue científico e institucional. Trabajó en un mundo científico europeo que a menudo relegaba a las mujeres. El reconocimiento no eliminó esas barreras; hizo aún más extraordinario su éxito frente a ellas."
+    },
+    {
+      "type": "heading",
+      "text": "¿Por qué ganó Marie Curie dos premios Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El primer Nobel de Curie reconoció una labor que contribuyó a revelar el fenómeno de la radiactividad."
+    },
+    {
+      "type": "paragraph",
+      "text": "El segundo distinguió su trabajo químico sobre los propios elementos radiactivos, especialmente el radio y el polonio. Ambos premios estaban relacionados, pero no reconocían lo mismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso su doble Nobel es tan excepcional. No recibió dos veces el mismo honor por un único descubrimiento. Ayudó a abrir el estudio de un nuevo fenómeno físico y después hizo avanzar la química de las sustancias en las que se manifestaba."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su trabajo transformó la medicina, la física, la química y el imaginario colectivo. También tuvo un coste personal: Curie trabajó con materiales radiactivos antes de que se comprendieran plenamente sus peligros."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia de sus Nobel habla, por tanto, de mucho más que brillantez. Habla de perseverancia, pruebas, exclusión, riesgos y del nacimiento de una ciencia moderna."
+    },
+    {
+      "type": "heading",
+      "text": "La familia Curie: una dinastía de Nobel"
+    },
+    {
+      "type": "paragraph",
+      "text": "La familia Curie ocupa un lugar excepcional en la historia de estos premios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Marie compartió el Nobel de Física de 1903 con su marido, Pierre Curie, y con Henri Becquerel. Los trabajos de Pierre sobre magnetismo, piezoelectricidad y radiación fueron fundamentales para la física de la época."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su hija Irène Joliot-Curie y su yerno Frédéric Joliot-Curie recibieron el Nobel de Química de 1935 por la síntesis de nuevos elementos radiactivos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La trayectoria familiar abarca desde el descubrimiento y la medición de la radiactividad hasta la creación de radiactividad artificial."
+    },
+    {
+      "type": "paragraph",
+      "text": "También muestra que la herencia científica puede ser intelectual, no solo biológica. El laboratorio, las preguntas, los instrumentos y los peligros pasaron de una generación a otra."
+    },
+    {
+      "type": "heading",
+      "text": "¿Por qué ganó Einstein el premio Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Albert Einstein no recibió el Nobel específicamente por la relatividad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se le concedió el Nobel de Física de 1921. La motivación del premio destacó sus aportaciones a la física teórica y, en especial, su descubrimiento de la ley del efecto fotoeléctrico."
+    },
+    {
+      "type": "paragraph",
+      "text": "El efecto fotoeléctrico describe cómo la luz puede arrancar electrones de un material. Einstein explicó que la energía de la luz llega en paquetes discretos, una idea clave para el desarrollo de la física cuántica."
+    },
+    {
+      "type": "paragraph",
+      "text": "La relatividad cambió las ideas modernas sobre el espacio, el tiempo, la gravedad y el universo. Sin embargo, la motivación del comité Nobel se centró en el efecto fotoeléctrico porque contaba con una base experimental clara y abría una vía hacia la teoría cuántica."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mito dice que Einstein ganó por la relatividad. El registro del premio señala el efecto fotoeléctrico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Corregir ese error no resta grandeza a Einstein. Permite contar mejor la historia del Nobel."
+    },
+    {
+      "type": "heading",
+      "text": "La penicilina: el descubrimiento que salvó millones de vidas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Nobel de Fisiología o Medicina de 1945 fue para Alexander Fleming, Ernst Boris Chain y Howard Walter Florey por la penicilina y su efecto curativo en las enfermedades infecciosas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La célebre observación de Fleming tuvo lugar en 1928, cuando advirtió que un moho que había contaminado un cultivo bacteriano había matado las bacterias cercanas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la historia de ese Nobel no se limita a Fleming."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chain y Florey ayudaron a convertir la penicilina en un medicamento útil, más allá de una observación llamativa en el laboratorio. Su trabajo de purificación, experimentación, producción y uso clínico contribuyó a incorporar los antibióticos a la medicina moderna."
+    },
+    {
+      "type": "paragraph",
+      "text": "La penicilina transformó el tratamiento de las infecciones bacterianas, la cirugía, la atención al parto, el cuidado de heridas y la medicina de guerra. No acabó con las enfermedades infecciosas, pero sí cambió la relación de las personas con el riesgo bacteriano."
+    },
+    {
+      "type": "heading",
+      "text": "Descubrimientos que transformaron a la humanidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Nobel suelen mostrar su mayor valor cuando reconocen trabajos que, sin hacer ruido, terminan formando parte de la vida cotidiana."
+    },
+    {
+      "type": "paragraph",
+      "text": "La radiactividad transformó la física, la química, la medicina y la energía. Los descubrimientos de la época de los Curie acabarían influyendo en el tratamiento del cáncer, las técnicas de imagen, la ciencia nuclear y la concepción moderna del átomo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La física cuántica cambió tanto la tecnología como la teoría. El efecto fotoeléctrico de Einstein, los trabajos atómicos de Niels Bohr, la teoría cuántica de Max Planck y otros descubrimientos posteriores contribuyeron a construir las bases conceptuales de la electrónica, los láseres, los semiconductores y los sensores."
+    },
+    {
+      "type": "paragraph",
+      "text": "La penicilina y los antibióticos transformaron la medicina al hacer tratables muchas infecciones bacterianas. El premio de 1945 representa uno de los grandes ejemplos de cómo una observación básica puede convertirse en una revolución de la salud pública."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ADN y la biología molecular cambiaron la forma de entender la herencia. El premio de 1962 a James Watson, Francis Crick y Maurice Wilkins reconoció descubrimientos sobre la estructura molecular de los ácidos nucleicos y la transferencia de información en la materia viva."
+    },
+    {
+      "type": "paragraph",
+      "text": "El transistor, reconocido con el Nobel de Física de 1956 a William Shockley, John Bardeen y Walter Brattain, contribuyó al nacimiento de la electrónica moderna. Ordenadores, teléfonos, satélites, dispositivos médicos y la vida digital se apoyan en la física de los semiconductores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los trabajos sobre el láser reconocidos con el Nobel de Física de 1964 contribuyeron a crear tecnologías utilizadas en comunicaciones, cirugía, fabricación industrial, lectura de códigos de barras, medición e investigación."
+    },
+    {
+      "type": "paragraph",
+      "text": "La edición genética CRISPR, reconocida con el Nobel de Química de 2020 a Emmanuelle Charpentier y Jennifer Doudna, proporcionó a la ciencia una potente herramienta para modificar el ADN con extraordinaria precisión."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia del clima entró en la historia de los Nobel con el premio de Física de 2021, que reconoció los trabajos de Syukuro Manabe, Klaus Hasselmann y Giorgio Parisi. Manabe y Hasselmann fueron premiados por la modelización física del clima terrestre y la predicción fiable del calentamiento global."
+    },
+    {
+      "type": "paragraph",
+      "text": "El patrón es claro: un descubrimiento reconocido con el Nobel puede empezar como un problema técnico y acabar formando parte del funcionamiento de la civilización."
+    },
+    {
+      "type": "heading",
+      "text": "El ADN y el papel de Rosalind Franklin"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Nobel de Fisiología o Medicina de 1962 se concedió a James Watson, Francis Crick y Maurice Wilkins por sus descubrimientos sobre la estructura molecular de los ácidos nucleicos y su importancia en la transferencia de información en la materia viva."
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo de Rosalind Franklin sigue ocupando un lugar central en el debate histórico sobre ese premio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Franklin utilizó la cristalografía de rayos X para estudiar el ADN. Su célebre Fotografía 51 aportó información estructural crucial. Murió en 1958, cuatro años antes de la concesión del Nobel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las normas actuales no permiten conceder premios póstumos, salvo cuando una persona laureada fallece después del anuncio. Pero explicar la ausencia de Franklin únicamente por esa regla simplifica en exceso la historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuestión de fondo es el reconocimiento: quién accedió a los datos, qué trabajo se valoró, cómo se trataba a las científicas y cómo un descubrimiento colectivo acaba asociado a unos pocos nombres."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia de Franklin no cuestiona la importancia del premio por el ADN. Recuerda que un descubrimiento suele abarcar más de lo que refleja una medalla."
+    },
+    {
+      "type": "heading",
+      "text": "El Nobel de la Paz: cuando el premio sale del laboratorio"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Nobel de la Paz sigue el testamento de Alfred Nobel, pero funciona de forma distinta a los premios científicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo concede en Noruega el Comité Nobel Noruego. Suele reconocer el valor político, la diplomacia, los derechos humanos, el desarme, la ayuda humanitaria o los movimientos por la paz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Martin Luther King Jr. recibió el Nobel de la Paz de 1964 por su lucha no violenta en defensa de los derechos civiles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nelson Mandela y F. W. de Klerk compartieron el Nobel de la Paz de 1993 por su labor para poner fin al apartheid de manera pacífica y sentar las bases de una Sudáfrica democrática."
+    },
+    {
+      "type": "paragraph",
+      "text": "Malala Yousafzai y Kailash Satyarthi compartieron el Nobel de la Paz de 2014 por su lucha contra la opresión de niños y jóvenes y por el derecho de todos los niños a la educación."
+    },
+    {
+      "type": "paragraph",
+      "text": "El de la Paz suele ser el Nobel más debatido públicamente porque interviene en la política del presente. Eso no lo hace menos Nobel, pero sí lo expone más al escrutinio."
+    },
+    {
+      "type": "heading",
+      "text": "¿Quién es la persona más joven en ganar un Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Malala Yousafzai es la persona más joven que ha recibido un premio Nobel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ganó el Nobel de la Paz de 2014 a los 17 años, compartido con Kailash Satyarthi."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Comité Nobel Noruego reconoció su lucha contra la opresión de niños y jóvenes y por el derecho de todos los niños a la educación."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia del Nobel de Malala resulta poderosa porque une una experiencia de supervivencia personal con una causa mundial. Se dio a conocer después de sufrir un atentado por defender la educación de las niñas en Pakistán, pero el premio reconocía una lucha más amplia por los derechos de la infancia y la escolarización."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su edad importa porque cuestionó la imagen habitual de quién tiene autoridad para cambiar el mundo. Una adolescente se convirtió en laureada porque la causa era más grande que su edad."
+    },
+    {
+      "type": "heading",
+      "text": "Personas que ganaron más de una vez"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recibir más de un Nobel es algo extraordinariamente raro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Marie Curie ganó el de Física en 1903 y el de Química en 1911."
+    },
+    {
+      "type": "paragraph",
+      "text": "John Bardeen ganó dos veces el de Física: en 1956 por su trabajo sobre el transistor junto a William Shockley y Walter Brattain, y en 1972 junto a Leon Cooper y Robert Schrieffer por la teoría de la superconductividad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Frederick Sanger ganó dos veces el de Química: en 1958 por sus trabajos sobre la estructura de las proteínas, especialmente la insulina, y en 1980 por sus aportaciones a la determinación de las secuencias de bases de los ácidos nucleicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Linus Pauling recibió el Nobel de Química de 1954 y el Nobel de la Paz de 1962. Las fuentes Nobel señalan que es la única persona que ha recibido dos premios Nobel sin compartirlos."
+    },
+    {
+      "type": "paragraph",
+      "text": "K. Barry Sharpless recibió el de Química en 2001 y de nuevo en 2022; este último fue compartido por el desarrollo de la química clic y la química bioortogonal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos premios repetidos reflejan algo excepcional: no un único gran resultado, sino una carrera que transformó más de un campo o que cambió un mismo campo en más de una ocasión."
+    },
+    {
+      "type": "heading",
+      "text": "¿Pueden compartir un Nobel tres personas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí. Un premio Nobel puede compartirse entre un máximo de tres laureados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este límite resulta controvertido en la ciencia actual. Muchos descubrimientos implican grandes equipos, colaboraciones internacionales, instrumentos compartidos, bases de datos, personal técnico, estudiantes de posgrado y décadas de trabajo acumulado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un premio que reconoce como máximo a tres personas puede destacar su liderazgo y sus ideas. También puede reflejar de manera insuficiente la realidad colectiva de la investigación moderna."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa tensión aparece especialmente en física, medicina y química. El sistema Nobel se creó en un mundo de laboratorios más pequeños. Hoy la ciencia trabaja a menudo a escala planetaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "La regla hace que el premio sea fácil de comprender para el público. También hace inevitables las ausencias."
+    },
+    {
+      "type": "heading",
+      "text": "¿Por qué no hay un Nobel de Matemáticas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alfred Nobel no incluyó las matemáticas en su testamento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese es el hecho documentado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La conocida historia según la cual Nobel excluyó las matemáticas porque su mujer tuvo una aventura con un matemático carece de fundamento. Alfred Nobel nunca se casó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los historiadores no disponen de una explicación documental definitiva de esa omisión. Quizá Nobel se centrara más en campos que consideraba prácticos, experimentales, literarios o vinculados directamente con la paz, pero eso sigue siendo una interpretación, no una prueba."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las matemáticas cuentan con grandes distinciones, entre ellas la Medalla Fields y el Premio Abel. No deben presentarse como premios Nobel en sentido literal: son galardones distintos, con sus propias historias y normas."
+    },
+    {
+      "type": "heading",
+      "text": "¿Es el premio de Economía un verdadero Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La economía no formaba parte de los premios originales de Alfred Nobel."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Premio del Banco de Suecia en Ciencias Económicas en memoria de Alfred Nobel fue creado por el banco central sueco en 1968. Se concedió por primera vez en 1969."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se administra junto con los Nobel y se anuncia a través del mismo sistema, pero históricamente tiene un origen diferente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso conviene expresarlo con precisión. Suele agruparse con los premios Nobel, aunque no fue creado por el testamento de Alfred Nobel de 1895."
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia no es un escándalo, sino una cuestión de cronología."
+    },
+    {
+      "type": "heading",
+      "text": "¿Cuánto dinero recibe quien gana un Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona laureada recibe tres cosas: una medalla Nobel, un diploma personal y una dotación económica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el último informe anual oficial de la Fundación Nobel disponible antes de los anuncios de 2026, la dotación es de 11 millones de coronas suecas (SEK) por cada premio completo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Como los premios de 2026 aún no se habían anunciado el 11 de septiembre de 2026, PRESDA utiliza la cantidad oficial de la Fundación Nobel disponible al publicar el artículo: 11 millones de coronas suecas por categoría."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si una sola persona recibe el premio, obtiene toda la dotación. Si lo comparten dos o tres laureados, los estatutos permiten repartirla a partes iguales o asignar una mitad a una contribución y dividir la otra mitad entre otras dos, según la decisión del premio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las conversiones aproximadas fluctúan con los tipos de cambio, por lo que la cifra de referencia es la expresada en coronas suecas."
+    },
+    {
+      "type": "heading",
+      "text": "¿Te hace rico ganar el Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La dotación del Nobel es considerable, pero su mayor efecto suele estar en el prestigio."
+    },
+    {
+      "type": "paragraph",
+      "text": "El premio puede cambiar la capacidad de un científico para atraer atención hacia su campo. Puede aumentar las invitaciones, la influencia institucional, las ventas de libros de algunos laureados en literatura, las oportunidades de dar conferencias y la autoridad pública."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero no existe un ingreso estándar después de ganar el Nobel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona laureada puede donar el dinero, compartirlo, dedicarlo a investigar, apoyar causas o conservarlo. El Nobel puede abrir puertas, pero no proporciona un sueldo fijo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La medalla suele importar más que el dinero porque cambia la atención con la que el mundo escucha."
+    },
+    {
+      "type": "heading",
+      "text": "¿Se puede rechazar un premio Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean-Paul Sartre rechazó el Nobel de Literatura de 1964. Llevaba tiempo rechazando los honores oficiales y no quería que su condición de escritor quedara institucionalizada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Duc Tho rechazó el Nobel de la Paz de 1973, que se le había concedido junto a Henry Kissinger por las negociaciones relacionadas con la guerra de Vietnam. Sostuvo que la paz no se había establecido realmente."
+    },
+    {
+      "type": "paragraph",
+      "text": "También ha habido laureados a quienes sus gobiernos presionaron o impidieron aceptar el premio. Esos casos son distintos de un rechazo voluntario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rechazarlo no borra el galardón de la historia de los Nobel. El rechazo pasa a formar parte de ella."
+    },
+    {
+      "type": "heading",
+      "text": "Mahatma Gandhi: el Nobel que nunca llegó"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mahatma Gandhi fue propuesto varias veces para el Nobel de la Paz, pero nunca lo recibió."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras su asesinato en 1948, el Nobel de la Paz quedó desierto ese año."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Comité Nobel ha reflexionado públicamente después sobre Gandhi como una de las ausencias más discutidas de su historia. Pero un relato riguroso no debe atribuir esa omisión a una única explicación especulativa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su caso muestra que los Nobel no ofrecen un mapa completo de la influencia moral."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces, la ausencia más famosa pasa a formar parte del legado de la institución."
+    },
+    {
+      "type": "heading",
+      "text": "¿Se puede conceder un Nobel a título póstumo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según las normas actuales, normalmente no se puede conceder un premio a título póstumo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay una excepción importante: si una persona es anunciada como laureada y muere antes de recibir el premio, este puede mantenerse."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción importa porque las decisiones Nobel se hacen efectivas mediante anuncios, no solo ceremonias. Una vez nombrada la persona laureada, el premio se trata de forma distinta al caso de alguien que falleció antes de la selección."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las normas sobre concesiones póstumas influyen en la memoria histórica, sobre todo cuando alguien que contribuyó a un descubrimiento muere antes de que este sea plenamente reconocido."
+    },
+    {
+      "type": "heading",
+      "text": "Los Nobel más controvertidos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las decisiones de los Nobel siempre han generado debate."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Nobel de la Paz puede ser controvertido porque aborda conflictos políticos aún abiertos. El de Literatura puede discutirse porque el valor literario depende en parte de la interpretación y está condicionado por la lengua, la traducción y el poder cultural."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los premios científicos también pueden provocar controversia cuando omiten contribuciones esenciales, reconocen solo a unas pocas personas de un gran equipo o distinguen trabajos cuyas consecuencias se vuelven más complejas con el tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Nobel no son una máquina de impartir justicia perfecta. Son una institución humana que intenta reconocer trabajos capaces de cambiar el mundo dentro de unas normas, categorías y límites."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso la controversia no queda al margen de su historia. Forma parte de ella."
+    },
+    {
+      "type": "heading",
+      "text": "Las personas que el Nobel dejó fuera"
+    },
+    {
+      "type": "paragraph",
+      "text": "Todo premio traza una frontera entre las personas nombradas y las que quedan fuera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rosalind Franklin es el ejemplo más conocido en biología molecular. Gandhi es uno de los más famosos en el ámbito de la paz. Las grandes colaboraciones científicas ofrecen muchos otros casos en los que contribuciones esenciales no aparecen en la motivación final del premio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Históricamente, las mujeres y los investigadores de minorías quedaron excluidos de muchas instituciones donde se desarrollaban trabajos de nivel Nobel. Por eso la falta de reconocimiento a veces refleja tanto decisiones de los comités como barreras anteriores para acceder a la educación, los puestos académicos, los laboratorios, la autoría y el reconocimiento del mérito."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una mirada madura sobre los Nobel permite admirar a los laureados y, al mismo tiempo, preguntar quién más hizo posible su trabajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La medalla deja constancia del logro, pero no de todas las personas que participaron."
+    },
+    {
+      "type": "heading",
+      "text": "Las mujeres y los premios Nobel"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia pública de las mujeres en los Nobel comienza con Marie Curie en 1903, pero no termina ahí."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las estadísticas hasta el último ciclo de premios completado muestran un profundo desequilibrio histórico entre mujeres y hombres. Las mujeres han recibido muchos menos Nobel, especialmente en las ciencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las razones son estructurales además de individuales: acceso restringido a la educación, exclusión de laboratorios y academias, menos nombramientos, menor financiación, redes de contactos más débiles, sesgos al atribuir el mérito y la tendencia institucional a recordar primero a los hombres con puestos de mayor rango."
+    },
+    {
+      "type": "paragraph",
+      "text": "En las últimas décadas han sido reconocidas más mujeres, con laureadas en medicina, química, física, literatura, paz y economía. Aun así, el desequilibrio histórico sigue siendo uno de los hechos centrales de la historia de los Nobel."
+    },
+    {
+      "type": "paragraph",
+      "text": "El logro de Curie inspira, en parte, por su carácter excepcional. Una cultura científica más sana debería permitir que el talento no tuviera que ser excepcional para hacerse visible."
+    },
+    {
+      "type": "heading",
+      "text": "Mitos y realidades"
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: Marie Curie fue simplemente la primera científica que alcanzó la fama."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: Fue la primera mujer laureada con un Nobel y, después, la primera persona en ganarlo en dos campos científicos distintos."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: Einstein ganó el Nobel por la relatividad."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: La motivación del premio se centró en el efecto fotoeléctrico."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: No hay Nobel de Matemáticas porque la mujer de Nobel lo engañó con un matemático."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: Nobel nunca se casó y no existe ninguna prueba fiable de esa historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: La economía formaba parte de los premios originales de Alfred Nobel."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: El premio fue creado décadas después por el banco central de Suecia."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: Todo gran descubrimiento puede recibir un Nobel."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: Las normas, los límites entre categorías, el momento del reconocimiento y el máximo de laureados hacen que muchas personas con contribuciones importantes nunca sean premiadas individualmente."
+    },
+    {
+      "type": "heading",
+      "text": "¿Siguen importando los premios Nobel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La crítica más sólida a los Nobel es que los logros modernos suelen ser colectivos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia es colaborativa. La labor por la paz es colectiva. La literatura también se construye con traductores, editores, editoriales y lectores. El límite de laureados científicos puede hacer que un descubrimiento compartido parezca más pequeño e individual de lo que fue."
+    },
+    {
+      "type": "paragraph",
+      "text": "También hay ausencias, categorías subjetivas y premios que el paso del tiempo pone en cuestión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y, aun así, los Nobel siguen importando."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dirigen la atención mundial hacia la ciencia, la literatura y la paz. Dan a los descubrimientos un relato público. Conservan la historia intelectual. Inspiran a estudiantes que quizá se acerquen por primera vez a una disciplina a través del nombre de una persona laureada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Nobel no son perfectos. Siguen siendo uno de los pocos momentos del año en que el mundo se detiene a preguntar qué ideas cambiaron a la humanidad."
+    },
+    {
+      "type": "heading",
+      "text": "Un legado que va más allá de los premios"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fortuna de Alfred Nobel se construyó, en parte, gracias a los explosivos. Su testamento la destinó a premiar contribuciones pensadas para beneficiar a la humanidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese cambio de destino no borró las contradicciones de su vida, pero les dio una proyección histórica fecunda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Más de un siglo después, los nombres cambian y la pregunta permanece: ¿qué descubrimientos, ideas y actos tienen suficiente importancia para cambiar el mundo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Nobel no pueden decidir quiénes son los seres humanos más grandes, ni una medalla puede representar a todas las personas que hay detrás de un descubrimiento. Pero, durante más de un siglo, han dejado constancia de algo extraordinario: momentos en los que una idea, un experimento, un libro o un acto de valentía cambiaron lo que la humanidad creía posible."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.nobelprize.org/alfred-nobel/",
+      "label": "NobelPrize.org: biografía de Alfred Nobel"
+    },
+    {
+      "url": "https://www.nobelprize.org/alfred-nobel/alfred-nobels-will/",
+      "label": "NobelPrize.org: el testamento de Alfred Nobel"
+    },
+    {
+      "url": "https://www.nobelprize.org/nomination/",
+      "label": "NobelPrize.org: proceso de nominación y selección"
+    },
+    {
+      "url": "https://www.nobelprize.org/nomination/archive/",
+      "label": "NobelPrize.org: confidencialidad del archivo de candidaturas"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "label": "NobelPrize.org: datos sobre Marie Curie"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/physics/1921/summary/",
+      "label": "NobelPrize.org: Premio Nobel de Física de 1921"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/",
+      "label": "NobelPrize.org: Premio Nobel de Fisiología o Medicina de 1945"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/medicine/1962/summary/",
+      "label": "NobelPrize.org: Premio Nobel de Fisiología o Medicina de 1962"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/peace/2014/summary/",
+      "label": "NobelPrize.org: Premio Nobel de la Paz de 2014"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
+      "label": "NobelPrize.org: datos sobre los premios Nobel"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes/",
+      "label": "NobelPrize.org: todos los premios Nobel"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/",
+      "label": "NobelPrize.org: Premio en Ciencias Económicas"
+    },
+    {
+      "url": "https://www.nobelprize.org/uploads/2026/04/annual-review-2025.pdf",
+      "label": "Fundación Nobel: informe anual de 2025"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/about/prize-announcement-dates/",
+      "label": "NobelPrize.org: anuncios de los premios Nobel de 2026"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quién creó los premios Nobel?",
+      "answer": "Los premios Nobel nacieron del testamento de Alfred Nobel, el inventor, ingeniero y empresario sueco que destinó la mayor parte de su patrimonio a reconocer trabajos que aportaran el mayor beneficio a la humanidad."
+    },
+    {
+      "question": "¿Quién fue la primera mujer en ganar un Nobel?",
+      "answer": "Marie Curie fue la primera mujer laureada. Compartió el Nobel de Física de 1903 y después recibió el Nobel de Química de 1911."
+    },
+    {
+      "question": "¿Ganó Einstein el Nobel por la relatividad?",
+      "answer": "No. Einstein recibió el Nobel de Física de 1921, cuya motivación destacó especialmente su descubrimiento de la ley del efecto fotoeléctrico."
+    },
+    {
+      "question": "¿Cuánto dinero recibe quien gana un Nobel?",
+      "answer": "La dotación oficial de la Fundación Nobel disponible antes de los anuncios de 2026 es de 11 millones de coronas suecas (SEK) por cada premio completo. El dinero se reparte si el premio es compartido."
+    },
+    {
+      "question": "¿Existe un premio Nobel de Matemáticas?",
+      "answer": "No. Alfred Nobel no incluyó las matemáticas en su testamento. La historia popular que atribuye esa decisión a su mujer es falsa: Nobel nunca se casó."
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/natural-disasters-earthquakes-volcanoes-tsunamis/",
+  "path": "/fr/articles/natural-disasters-earthquakes-volcanoes-tsunamis/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "CATASTROPHES NATURELLES : POURQUOI SURVIENNENT SÉISMES, ÉRUPTIONS ET TSUNAMIS",
+  "excerpt": "La surface terrestre paraît stable, mais des forces immenses la font constamment évoluer. Comprendre les séismes, les éruptions et les tsunamis capables de traverser les océans commence dans les profondeurs de notre planète.",
+  "quote": "Un aléa naturel ne devient pas automatiquement une catastrophe humaine. La vulnérabilité détermine l’ampleur des dégâts que peut provoquer la puissance de la planète.",
+  "headlineHighlights": {
+    "red": "CATASTROPHES NATURELLES",
+    "gold": "SÉISMES, ÉRUPTIONS ET TSUNAMIS"
+  },
+  "seoTitle": "Séismes, volcans et tsunamis : causes et prévention | PRESDA",
+  "description": "Pourquoi surviennent séismes, éruptions et tsunamis ? Tectonique des plaques, grandes catastrophes, limites des prévisions, surveillance et préparation.",
+  "keywords": [
+    "causes séismes volcans tsunamis",
+    "tectonique des plaques",
+    "prévision séismes",
+    "alerte précoce séisme",
+    "Yellowstone éruption",
+    "catastrophes naturelles science"
+  ],
+  "searchIntent": "Comprendre les mécanismes géologiques des séismes, volcans et tsunamis, les limites de la prévision et le rôle de la préparation face aux risques.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "image": {
+    "src": "/articles/natural-disasters-earthquakes-volcanoes-tsunamis.png",
+    "alt": "Illustration cinématographique de PRESDA montrant des dégâts sismiques, un tsunami et un volcan en éruption."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une ville peut paraître parfaitement normale jusqu’à ce que le sol rappelle à tous que cette normalité est temporaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les feux changent. Les ascenseurs montent. On ouvre les boutiques, attend le bus, allume son ordinateur et verse le café. Puis, en quelques secondes, les routes se fissurent, les bâtiments tremblent, l’électricité s’interrompt et les sirènes côtières peuvent appeler à partir avant l’arrivée de la mer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les catastrophes naturelles paraissent soudaines parce que la vie humaine est courte. La Terre suit une autre horloge. Les forces qui bâtissent les montagnes, ouvrent les océans et recyclent la croûte agissent pendant des millions d’années, mais leur énergie accumulée peut surgir tout entière dans un après-midi humain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet article explore cette mécanique cachée : pourquoi les séismes surviennent, comment les volcans entrent en éruption, pourquoi certains tremblements de terre provoquent des tsunamis, pourquoi la magnitude seule n’explique pas le nombre de victimes et ce que la science peut ou ne peut pas prévoir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il commence aussi par une distinction essentielle. Un aléa est un processus naturel potentiellement dangereux. Une catastrophe survient lorsque cet aléa rencontre des personnes, bâtiments, systèmes et économies exposés et vulnérables. Le séisme est naturel. L’effondrement de logements dangereux, une planification défaillante ou l’absence d’alerte relèvent en partie des choix humains."
+    },
+    {
+      "type": "heading",
+      "text": "La planète sous nos pieds est en mouvement"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Terre n’est pas une sphère solide et immobile. Sa structure externe comprend la croûte et la partie supérieure rigide du manteau, qui forment la lithosphère. En dessous, le manteau est une roche solide chaude qui, à l’échelle géologique, peut se déformer et s’écouler lentement sous l’effet de la chaleur et de la pression. Ce n’est pas un simple océan de magma liquide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sous le manteau se trouvent le noyau externe et le noyau interne. Le premier est métallique et liquide ; le second est solide. Ces couches profondes participent au champ magnétique et au système thermique interne. Mais les séismes, la plupart des volcans et les tsunamis commencent leur histoire visible plus haut, là où la lithosphère est divisée en plaques tectoniques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les plaques se déplacent à des vitesses généralement mesurées en centimètres par an. Cela paraît doux. Ça ne l’est pas. Une plaque avançant à la vitesse de croissance des ongles peut déplacer des continents, fermer des océans et bâtir des chaînes de montagnes si elle continue pendant des dizaines de millions d’années."
+    },
+    {
+      "type": "heading",
+      "text": "La tectonique des plaques, moteur de ces phénomènes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les limites de plaques prennent plusieurs grandes formes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aux limites divergentes, les plaques s’écartent. Du magma remonte et refroidit, formant parfois une nouvelle croûte, notamment aux dorsales océaniques. Aux limites convergentes, les plaques se rapprochent : l’une peut plonger sous l’autre dans une zone de subduction, ou des croûtes continentales entrer en collision et s’épaissir en montagnes. Aux limites transformantes, les plaques coulissent latéralement et accumulent des contraintes le long des failles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces limites expliquent la concentration des aléas. Les zones de subduction peuvent produire certains des plus grands séismes, alimenter des arcs volcaniques et déplacer suffisamment le fond marin pour engendrer des tsunamis. Les failles transformantes peuvent causer des secousses destructrices sans volcanisme. Les zones divergentes peuvent créer de la croûte et alimenter des systèmes volcaniques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le processus qui construit la planète produit donc aussi des dangers. La tectonique crée bassins océaniques, arcs insulaires et chaînes montagneuses. Elle donne aussi à Tokyo, Istanbul, Mexico, Naples, San Francisco et bien d’autres villes une raison sérieuse de planifier avec soin."
+    },
+    {
+      "type": "heading",
+      "text": "Qu’est-ce qui provoque réellement un séisme ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un séisme survient lorsque des contraintes accumulées dans la roche sont libérées brutalement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le long d’une faille, des blocs de croûte peuvent rester bloqués par frottement alors que les plaques continuent de bouger. La roche se déforme et stocke une déformation élastique. Puis la faille glisse. L’énergie accumulée se propage sous forme d’ondes sismiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le foyer, ou hypocentre, est le point en profondeur où commence la rupture. L’épicentre est le point de surface situé à sa verticale. La faille est la fracture, ou la zone de fractures, le long de laquelle se produit le mouvement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les ondes sismiques ne se comportent pas toutes de la même façon. Les ondes P sont des ondes de compression et arrivent généralement les premières. Les ondes S déplacent la matière transversalement et ne traversent pas les liquides. Les ondes de surface se propagent près de la surface terrestre et provoquent souvent une grande partie des secousses destructrices ressenties."
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi quelques secondes peuvent détruire une ville"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un séisme destructeur ne se résume pas à un chiffre de magnitude."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ses effets humains dépendent de l’accélération du sol, de la durée des secousses, de la distance à la faille, de la profondeur, de la géologie locale, de la conception des bâtiments, de la densité de population, des infrastructures, de la préparation et des secours."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les sédiments meubles peuvent amplifier les secousses. Des sols saturés d’eau peuvent perdre leur résistance par liquéfaction : rues, fondations et conduites enterrées se comportent alors comme si le terrain devenait partiellement fluide. Des versants s’effondrent. Des ponts perdent leurs appuis. Des incendies peuvent suivre la rupture de conduites de gaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est pourquoi un fort séisme dans une région peu peuplée peut faire peu de victimes, tandis qu’un événement plus faible sous des bâtiments vulnérables devient catastrophique. La magnitude compte, mais la vulnérabilité détermine une grande partie du coût humain."
+    },
+    {
+      "type": "heading",
+      "text": "Magnitude 7 ou magnitude 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "La magnitude est logarithmique, pas linéaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une unité supplémentaire correspond approximativement à une amplitude mesurée des ondes dix fois supérieure dans les définitions traditionnelles, et à environ 32 fois plus d’énergie libérée. Un séisme de magnitude 8 n’est pas un séisme de magnitude 7 légèrement plus fort. C’est un événement physique beaucoup plus important."
+    },
+    {
+      "type": "paragraph",
+      "text": "La science utilise couramment la magnitude de moment, notée Mw, surtout pour les grands séismes. Elle repose sur le moment sismique : surface de faille ayant glissé, amplitude du glissement et rigidité des roches. Les médias parlent encore souvent d’« échelle de Richter », mais celle-ci avait été conçue pour certains instruments et des séismes régionaux en Californie. Ce n’est pas l’outil universel moderne de mesure de tous les grands séismes."
+    },
+    {
+      "type": "heading",
+      "text": "Le plus grand séisme jamais mesuré par des instruments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le plus grand séisme enregistré instrumentalement est celui de Valdivia, ou grand séisme du Chili, en 1960."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’USGS lui attribue une magnitude Mw 9,5. Il s’est produit à la limite de subduction où la plaque de Nazca plonge sous la plaque sud-américaine. La rupture était immense, et le séisme a généré un tsunami à travers le Pacifique, touchant des côtes lointaines."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expression « plus grand séisme enregistré » a un sens précis. Elle ne prouve pas qu’aucun événement plus puissant n’a existé dans l’histoire géologique. Elle désigne le plus grand mesuré par des instruments modernes pendant la période couverte par ces observations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Valdivia montre pourquoi il faut prendre les zones de subduction au sérieux. Lorsqu’une limite bloquée libère des siècles de déformation accumulée, le résultat peut dépasser presque tous les scénarios urbains que l’on imagine spontanément."
+    },
+    {
+      "type": "heading",
+      "text": "Le séisme et le tsunami de l’océan Indien en 2004"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 26 décembre 2004, un immense séisme de subduction de Sumatra-Andaman s’est produit au large de l’Indonésie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il a déplacé le fond marin sur une vaste surface. Ce mouvement a déplacé la colonne d’eau et créé des vagues traversant l’océan Indien. Indonésie, Sri Lanka, Inde, Thaïlande et plusieurs autres pays ont subi des pertes terribles. Les estimations de référence varient, mais plus de 200 000 personnes sont mortes ou ont disparu."
+    },
+    {
+      "type": "paragraph",
+      "text": "La catastrophe n’était pas seulement géophysique. Elle révélait aussi une défaillance des systèmes d’alerte. De nombreuses côtes de l’océan Indien ne disposaient pas encore d’infrastructures régionales comparables à celles développées dans le Pacifique depuis des décennies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Après 2004, le dispositif d’alerte de l’océan Indien s’est considérablement développé grâce à la coopération internationale, au suivi du niveau marin, à la détection sismique, aux réseaux de communication et à l’éducation. L’océan n’est pas devenu moins dangereux en changeant de physique. Les populations ont gagné en sécurité en changeant leurs systèmes."
+    },
+    {
+      "type": "heading",
+      "text": "Japon 2011 : la rencontre de trois catastrophes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 11 mars 2011, le séisme du Tōhoku a frappé au large du nord-est du Japon."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’USGS lui attribue une magnitude de 9,1. Il a provoqué de fortes secousses et un tsunami dévastateur. Celui-ci a ensuite inondé des parties de la centrale nucléaire de Fukushima Daiichi, neutralisant des systèmes essentiels et conduisant à un accident nucléaire majeur."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’enchaînement compte. Le séisme n’a pas provoqué seul et directement la crise nucléaire. L’inondation par le tsunami a dépassé les protections et mis hors service l’alimentation électrique et le refroidissement. Séisme, tsunami et vulnérabilité technologique se sont rencontrés."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ingénierie et les alertes japonaises ont sauvé de nombreuses vies. Mais l’événement a aussi montré que les protections modernes peuvent être dépassées lorsque les hypothèses sur l’aléa maximal sont trop faibles. La préparation n’est pas un acquis définitif : elle doit continuellement se confronter aux données."
+    },
+    {
+      "type": "heading",
+      "text": "Comment un séisme crée un tsunami"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tous les séismes sous-marins ne créent pas un tsunami dangereux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un grand tsunami sismique exige généralement un déplacement important du fond marin, surtout vertical. Lorsque celui-ci monte ou descend, il déplace l’eau située au-dessus. La gravité propage ensuite cette perturbation sous forme d’ondes longues."
+    },
+    {
+      "type": "paragraph",
+      "text": "En haute mer, un tsunami ne ressemble pas nécessairement à un immense mur déferlant. La hauteur de vague peut être modeste, tandis que sa longueur d’onde s’étend sur de nombreux kilomètres. Les navires peuvent le franchir sans rien remarquer de spectaculaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Près du rivage, la profondeur diminue. L’onde ralentit, sa longueur se réduit et sa hauteur peut augmenter fortement. Selon la forme de la côte et la bathymétrie, le tsunami peut arriver sous forme de poussées successives, d’inondations rapides, de forts courants ou de plusieurs vagues, plutôt que d’un seul mur de cinéma."
+    },
+    {
+      "type": "heading",
+      "text": "À quelle vitesse voyage un tsunami ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vitesse dépend fortement de la profondeur de l’océan."
+    },
+    {
+      "type": "paragraph",
+      "text": "La NOAA explique qu’en eau profonde, les ondes peuvent se déplacer à une vitesse comparable à celle d’un avion de ligne. Cela ne signifie pas que tous les tsunamis ont une vitesse fixe. Plus l’eau est profonde, plus les ondes longues peuvent se propager rapidement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des côtes lointaines peuvent ainsi être touchées plusieurs heures après le séisme. Un tsunami local peut ne laisser que quelques minutes. Un tsunami lointain peut permettre alertes, évacuations et fermetures de ports, à condition que détection, communication et confiance du public fonctionnent."
+    },
+    {
+      "type": "heading",
+      "text": "Qu’est-ce qui déclenche une éruption volcanique ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un volcan entre en éruption lorsque le magma atteint des conditions lui permettant de remonter vers la surface."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le magma se forme quand la roche fond sous l’effet de changements de pression, d’apports d’eau et de composés volatils, ou de transferts de chaleur. Moins dense que la roche environnante, il peut remonter. Les gaz dissous se dilatent lorsque la pression diminue. Les fractures ouvrent des passages. La pression d’un système de stockage magmatique peut augmenter jusqu’à la rupture de la roche."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le magma est de la roche fondue sous la surface. La lave est cette roche fondue une fois émise en surface. La distinction est simple, mais précise le vocabulaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les éruptions diffèrent parce que les magmas diffèrent. Un magma basaltique peu visqueux s’écoule assez facilement et produit souvent des éruptions plus effusives, comme dans de nombreux contextes hawaïens. Un magma riche en silice et en gaz peut être visqueux, retenir la pression et exploser, comme dans beaucoup de stratovolcans."
+    },
+    {
+      "type": "heading",
+      "text": "Tous les volcans ne se ressemblent pas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les volcans ne rentrent pas parfaitement dans des cases, mais leurs formes courantes aident à repérer des tendances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les volcans boucliers sont larges, à pentes douces, souvent associés à des laves basaltiques fluides. Les stratovolcans, comme le mont Fuji ou le Vésuve, sont plus pentus et peuvent produire des éruptions explosives. Les cônes de scories sont de petits édifices faits de fragments éjectés. Les caldeiras se forment lorsque de grandes éruptions ou le retrait de magma provoquent l’effondrement du terrain au-dessus du système magmatique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yellowstone est un système de caldeira volcanique, pas un cône unique au bout d’une mèche de dessin animé. Le Vésuve est un stratovolcan dangereux près d’une population dense. Les volcans hawaïens montrent comment la lave peut bâtir des îles. Ces catégories comptent parce que les dangers diffèrent selon les lieux."
+    },
+    {
+      "type": "heading",
+      "text": "La ceinture de feu du Pacifique"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ceinture de feu désigne une vaste zone en fer à cheval autour du Pacifique, où se concentrent de nombreux séismes et volcans."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce n’est pas un anneau souterrain unique de magma connecté. Elle reflète les limites de plaques, surtout les zones de subduction, autour du bassin pacifique. Des plaques océaniques plongent sous d’autres plaques, produisant séismes et processus de fusion qui alimentent des arcs volcaniques."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ceinture de feu cartographie donc des relations tectoniques, pas une machine unique. Chili, Japon, Indonésie, Alaska et nord-ouest du Pacifique partagent certaines logiques de danger, mais chaque région a ses failles, ses volcans, son histoire et ses vulnérabilités."
+    },
+    {
+      "type": "heading",
+      "text": "Le Vésuve et Pompéi"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’éruption du Vésuve en 79 apr. J.-C. a enseveli Pompéi et Herculanum et est devenue l’une des catastrophes volcaniques les plus célèbres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pline le Jeune l’a décrite à distance, fournissant l’un des témoignages classiques d’une grande éruption explosive. Elle a produit des retombées de cendres et des écoulements et déferlantes pyroclastiques meurtriers : mélanges brûlants de gaz, de cendres et de fragments rocheux pouvant se déplacer rapidement et tuer presque instantanément."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hollywood représente souvent les habitants de Pompéi changés en pierre. Le processus réel était différent. Les corps se sont décomposés dans des dépôts de cendres durcis, laissant des cavités. Au XIXe siècle, des archéologues ont versé du plâtre dans certaines pour réaliser des moulages."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leur puissance tient à ce qu’ils conservent une absence. Ce ne sont pas des personnes devenues statues, mais les traces de personnes prises dans une catastrophe."
+    },
+    {
+      "type": "heading",
+      "text": "Tambora : le volcan qui a changé le climat"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’éruption du Tambora en 1815, dans l’actuelle Indonésie, fut l’une des plus importantes de l’histoire documentée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle a injecté d’immenses quantités de matières riches en soufre dans l’atmosphère. Les aérosols stratosphériques ont réfléchi la lumière solaire et contribué au refroidissement mondial. L’année suivante, 1816, est devenue dans certaines régions de l’hémisphère Nord « l’année sans été »."
+    },
+    {
+      "type": "paragraph",
+      "text": "Froid, mauvaises récoltes et météo inhabituelle ont affecté des communautés aux systèmes alimentaires déjà fragiles. Mais une histoire rigoureuse ne doit pas faire du Tambora l’unique cause de tous les événements sociaux associés à 1816. Les chocs climatiques interagissent avec politique, pauvreté, commerce, maladies, agriculture et météo locale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Tambora montre que les effets d’un volcan peuvent être mondiaux sans être visiblement mondiaux. Une montagne d’Indonésie a changé le ciel très loin d’elle."
+    },
+    {
+      "type": "heading",
+      "text": "Krakatoa : une éruption entendue à travers le monde"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’éruption du Krakatau en 1883, souvent appelé Krakatoa en anglais, a produit des explosions, un effondrement de caldeira et des tsunamis meurtriers dans le détroit de la Sonde."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les ondes de pression ont fait le tour de la planète, et les récits d’un bruit entendu à très grande distance sont entrés dans la légende volcanique. La formulation prudente est qu’il s’agit d’une des éruptions historiquement documentées les plus bruyantes, avec des effets atmosphériques extraordinaires. Cela ne justifie pas de répéter sans contexte toutes les distances exagérées circulant sur Internet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Krakatoa rappelle aussi qu’une catastrophe volcanique peut devenir un tsunami. L’effondrement d’un système volcanique, un glissement de terrain ou un déplacement explosif de l’eau peuvent créer des vagues sans grand séisme de subduction classique."
+    },
+    {
+      "type": "heading",
+      "text": "Le mont Saint Helens et le Pinatubo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La volcanologie moderne est en partie l’histoire de catastrophes étudiées en temps réel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le mont Saint Helens a connu une éruption catastrophique en 1980 après un gonflement, des séismes et des signes visibles d’agitation. Un immense glissement de terrain a décomprimé le système et déclenché une explosion latérale. L’éruption a tué des dizaines de personnes et transformé la perception des risques volcaniques aux États-Unis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Pinatubo, aux Philippines, est entré en éruption en 1991 après la surveillance et l’interprétation de signes d’agitation par des scientifiques travaillant avec les autorités. Les évacuations massives avant la phase paroxysmale ont sauvé de nombreuses vies. L’éruption a aussi injecté des aérosols dans la stratosphère et produit un refroidissement mondial mesurable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Pinatubo ne montre pas que la prévision rend les volcans inoffensifs. Il montre que surveillance, communication et évacuation peuvent transformer une catastrophe potentiellement très meurtrière en crise à laquelle beaucoup survivent."
+    },
+    {
+      "type": "heading",
+      "text": "Qu’est-ce qu’un supervolcan ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "« Supervolcan » est un terme populaire informel, pas une catégorie scientifique précise comme « stratovolcan »."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il désigne généralement des systèmes capables d’éruptions extrêmement importantes formant une caldeira. Les scientifiques utilisent souvent l’indice d’explosivité volcanique, ou VEI, pour comparer les éruptions explosives selon le volume émis et les caractéristiques du panache. Les éruptions VEI 8 sont exceptionnellement grandes et rares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yellowstone, Toba et Taupo sont souvent cités dans ce contexte. Le terme est utile s’il aide à comprendre l’échelle. Il devient nuisible lorsqu’il nourrit un divertissement catastrophiste."
+    },
+    {
+      "type": "heading",
+      "text": "Yellowstone est-il sur le point d’entrer en éruption ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yellowstone est volcaniquement actif. On y observe séismes, manifestations hydrothermales, déformations du sol et une longue histoire volcanique. Il est étroitement surveillé par le Yellowstone Volcano Observatory et ses partenaires."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucune preuve scientifique crédible n’indique qu’une superéruption catastrophique y soit imminente."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’USGS rappelle régulièrement que les volcans ne suivent pas un calendrier simple. Les activités futures les plus probables de Yellowstone comprennent plutôt des éruptions plus petites ou des explosions hydrothermales qu’une catastrophe continentale imminente. Même ces possibilités exigent une surveillance attentive et une communication officielle, pas un compte à rebours."
+    },
+    {
+      "type": "paragraph",
+      "text": "La version honnête est moins virale et plus utile : Yellowstone est réel, actif et surveillé. Cela ne signifie pas qu’il va exploser."
+    },
+    {
+      "type": "heading",
+      "text": "Les scientifiques peuvent-ils prédire les séismes ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucune méthode scientifique fiable ne permet actuellement de prédire un grand séisme précis en donnant à l’avance un moment, un lieu et une magnitude suffisamment précis."
+    },
+    {
+      "type": "paragraph",
+      "text": "La réponse doit être nette, car les fausses prédictions sont dangereuses. Elles peuvent susciter panique, relâchement ou méfiance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les scientifiques identifient les failles, estiment les probabilités à long terme, cartographient l’aléa, surveillent les séquences et modélisent les probabilités de répliques. Ils peuvent dire que certaines régions sont plus dangereuses ou qu’un grand séisme est possible ou probable sur une longue période. Ils ne peuvent pas affirmer avec une précision validée qu’une ville donnée subira un séisme de magnitude 7,8 mardi prochain."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prédiction n’est pas la prévision probabiliste. Celle-ci traite des probabilités et de l’incertitude. La prédiction annonce un événement précis. La sismologie est puissante, mais ce n’est pas une prophétie."
+    },
+    {
+      "type": "heading",
+      "text": "L’alerte précoce n’est pas une prédiction"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’alerte sismique précoce illustre l’une des distinctions les plus importantes à expliquer au public."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un système d’alerte détecte un séisme après le début de la rupture. Les signaux électroniques vont plus vite que les ondes destructrices : une alerte peut donc arriver avant les secousses les plus fortes dans les lieux suffisamment éloignés de la source."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le délai peut être de quelques secondes, voire de dizaines de secondes dans les cas favorables. Cela peut suffire à arrêter les trains, ouvrir les portes des casernes de pompiers, interrompre des installations industrielles, alerter les téléphones, sécuriser des opérations chirurgicales ou permettre de s’abaisser, s’abriter et s’agripper. Ce n’est pas la promesse d’un long préavis ; près de l’épicentre, le délai peut être faible ou nul."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dispositif japonais et ShakeAlert dans l’ouest des États-Unis montrent ce que l’alerte peut faire : réduire les dommages après le début du séisme, pas le prédire avant qu’il existe."
+    },
+    {
+      "type": "heading",
+      "text": "Les animaux peuvent-ils prédire les séismes ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les récits de comportements animaux inhabituels avant un séisme sont anciens et répandus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certaines observations pourraient correspondre à des réactions aux premières petites ondes, à des sons, à des vibrations ou à des changements environnementaux imperceptibles aux humains. Mais des anecdotes ne constituent pas un système prédictif validé."
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon l’USGS, aucune méthode reproductible et fiable ne démontre que les animaux prédisent les séismes au sens scientifique précis. La conclusion pratique est claire : la préparation doit reposer sur la sécurité des bâtiments, les cartes d’aléas, les alertes et les consignes officielles, pas sur un réseau d’alerte fondé sur les animaux."
+    },
+    {
+      "type": "heading",
+      "text": "Peut-on prévoir les éruptions volcaniques ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prévision volcanique peut parfois être plus informative que la prédiction sismique, car le mouvement du magma peut produire des signes précurseurs mesurables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les scientifiques surveillent essaims sismiques, déformation du sol, gaz, chaleur, changements de surface et observations satellitaires. Ces signaux peuvent indiquer une agitation et aider à prévoir des éruptions possibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais les volcans restent complexes. Une agitation ne débouche pas toujours sur une éruption. Certaines éruptions surviennent avec peu de signes annonciateurs. Les prévisions sont probabilistes et doivent évoluer avec les conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meilleure prévision n’est pas une phrase de voyance. C’est un ensemble d’observations, de marges d’incertitude, de cartes d’aléas, de zones d’exclusion et de décisions publiques claires."
+    },
+    {
+      "type": "heading",
+      "text": "L’IA pourrait-elle prédire la prochaine grande catastrophe ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’IA et l’apprentissage automatique sont déjà utiles à l’étude des risques, mais pas de la manière magique suggérée par certains titres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils peuvent aider à détecter de très petits séismes, classer les signaux, repérer les régularités des répliques, analyser les déformations satellitaires, reconnaître l’agitation volcanique, cartographier rapidement les dégâts et soutenir la préparation des secours."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces usages sont précieux. Ils ne reviennent pas à prédire exactement le prochain grand séisme. Détection, prévision, estimation du risque et prédiction sont des tâches différentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’avenir réaliste n’est pas un oracle. Ce sont de meilleurs capteurs et modèles, une reconnaissance plus rapide des régularités et des décisions plus rapides, les humains restant responsables de l’interprétation et de la sécurité publique."
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi certains séismes tuent des milliers de personnes et d’autres non"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un aléa naturel ne devient pas automatiquement une catastrophe humaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nombre de victimes dépend des normes de construction, de leur application, de la qualité des bâtiments, de la densité, de l’heure, de la profondeur, de la distance à la faille, du sol, de la préparation, de la pauvreté, des hôpitaux, des routes, des communications et des capacités de secours."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deux villes peuvent subir des secousses comparables et connaître des résultats très différents. Richesse, gouvernance et qualité de construction font partie de l’équation. Cela ne rend pas le sol moins dangereux. Cela signifie que la vulnérabilité se construit bien avant le séisme."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est pourquoi la réduction des risques paraît souvent moins spectaculaire que la catastrophe : application des normes, renforcement des bâtiments, itinéraires d’évacuation, exercices, aménagement du territoire et confiance publique."
+    },
+    {
+      "type": "heading",
+      "text": "Des bâtiments capables de résister aux séismes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucun bâtiment ne peut être rendu totalement invulnérable aux séismes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La conception parasismique vise à éviter l’effondrement, protéger les vies et permettre les réparations lorsque c’est possible. Les ingénieurs utilisent des structures ductiles capables de se déformer sans rupture fragile, des renforts, l’isolation à la base, des amortisseurs accordés, des raccords souples et des fondations soigneusement conçues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Japon et d’autres régions sismiques ont montré que des normes solides et l’ingénierie sauvent des vies. Mais ces techniques doivent être entretenues, appliquées et accessibles. Une norme brillante sur le papier ne protège pas une famille dans un bâtiment non renforcé."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ville la plus sûre n’est pas celle qui nie les dangers. C’est celle qui construit en tenant compte des leçons du passé."
+    },
+    {
+      "type": "heading",
+      "text": "Les catastrophes naturelles les plus meurtrières de l’histoire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les classements doivent être maniés avec soin : les bilans historiques sont parfois incertains, surtout avant les relevés modernes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parmi les catastrophes aux bilans rapportés les plus lourds figurent de grandes inondations en Chine, le cyclone de Bhola de 1970, des crises associant sécheresse et famine, le séisme du Shaanxi de 1556, le tsunami de l’océan Indien de 2004 et de grands séismes comme Tangshan en 1976 et Haïti en 2010."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les comparer est difficile. Certaines sont soudaines. D’autres sont des crises prolongées associant sécheresse, mauvaises récoltes, maladies, guerre, déplacements et gouvernance. Les archives varient selon les siècles et les régions. Des chiffres apparemment précis peuvent masquer l’incertitude."
+    },
+    {
+      "type": "paragraph",
+      "text": "La leçon n’est pas un palmarès. C’est que l’aléa, l’exposition et la vulnérabilité peuvent se combiner à une échelle terrifiante."
+    },
+    {
+      "type": "heading",
+      "text": "Au-delà des séismes, volcans et tsunamis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les catastrophes naturelles impliquent de nombreux systèmes d’aléas, qui n’ont pas tous les mêmes causes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les aléas géologiques comprennent séismes, éruptions et de nombreux tsunamis. Les aléas météorologiques et climatiques comprennent vagues de chaleur, fortes pluies, inondations, sécheresses, conditions favorables aux incendies et cyclones tropicaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un ouragan n’est pas causé par la tectonique des plaques. Un grand séisme de subduction n’est pas causé par la météo ordinaire. Tout regrouper peut brouiller la science. La bonne question reste : quel système produit cet aléa, et comment les personnes y sont-elles exposées ?"
+    },
+    {
+      "type": "heading",
+      "text": "Le changement climatique provoque-t-il davantage de séismes et d’éruptions ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le changement climatique actuel n’est pas le principal moteur de l’activité sismique ou volcanique ordinaire mondiale. La tectonique est entraînée par des processus géologiques à des échelles de temps immenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les scientifiques étudient des interactions locales impliquant fonte des glaces, charge de l’eau, érosion, glissements de terrain et contraintes dans la croûte. Dans certains contextes, les changements de charge en surface peuvent modifier les contraintes. Cela ne signifie pas que le changement climatique provoque la tectonique habituelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il est beaucoup plus directement lié à plusieurs extrêmes météorologiques et climatiques : chaleur, fortes pluies, risques d’inondations côtières et certaines conditions favorables aux incendies. Le type d’aléa compte."
+    },
+    {
+      "type": "heading",
+      "text": "La Terre devient-elle plus dangereuse ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tout dépend du sens donné à « dangereuse »."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour les aléas géologiques, de meilleurs instruments et une communication mondiale instantanée nous font détecter et connaître davantage d’événements que les générations précédentes. Cela ne signifie pas automatiquement que la Terre produit plus de grands séismes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour les aléas climatiques, le changement causé par les humains modifie la probabilité ou l’intensité de plusieurs extrêmes, avec des variations selon les régions et les phénomènes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quant à l’exposition, davantage de personnes, bâtiments, routes, ports et réseaux électriques occupent désormais des lieux vulnérables. Une mégapole côtière concentre plus de pertes potentielles qu’une côte vide. Un bâtiment fragile transforme les secousses en effondrement."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’aléa est l’événement physique. L’exposition désigne ce qui se trouve sur son passage. La vulnérabilité exprime la gravité des dommages possibles. Le risque naît de leur rencontre."
+    },
+    {
+      "type": "heading",
+      "text": "Des villes bâties sur des terrains dangereux"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vivre près d’une faille ou d’un volcan ne relève pas nécessairement de l’imprudence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les sols volcaniques peuvent être fertiles. Les côtes offrent commerce, nourriture et transports. Les plaines fluviales permettent l’agriculture. Les établissements historiques deviennent des villes parce que s’y concentrent emplois, familles, ports, routes et institutions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tokyo, Istanbul, Mexico, Naples, San Francisco et Jakarta illustrent des versions différentes du problème. La carte des risques est aussi une carte de l’histoire humaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’objectif n’est pas de nommer la prochaine ville détruite : ce serait une fausse prédiction. Il s’agit de comprendre pourquoi les aléas connus exigent normes, renforcements, choix d’aménagement, éducation et communication honnête."
+    },
+    {
+      "type": "heading",
+      "text": "Istanbul pourrait-elle subir un grand séisme ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Istanbul est proche du système de failles nord-anatoliennes, l’une des grandes zones de décrochement du monde."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’aléa sismique y est sérieux. Les recherches portent depuis longtemps sur le segment de la mer de Marmara et la possibilité d’un futur séisme destructeur affectant Istanbul. Une formulation responsable ne prédit pas de date et ne transforme pas les recherches en spectacle catastrophiste."
+    },
+    {
+      "type": "paragraph",
+      "text": "La question publique utile n’est pas « quand exactement ? », mais « que peut-on renforcer avant ? ». Bâtiments, écoles, hôpitaux, ponts, réseaux, voies de secours et exercices comptent davantage que les rumeurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "La préparation est la seule réponse honnête à un aléa que l’on ne peut pas programmer."
+    },
+    {
+      "type": "heading",
+      "text": "Les secondes les plus importantes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les consignes de sécurité doivent venir des organismes officiels de secours, pas de conseils improvisés sur Internet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant les secousses, des organismes comme la FEMA et l’USGS recommandent couramment, là où cette consigne s’applique, de s’abaisser, s’abriter et s’agripper. Mettez-vous à quatre pattes, protégez la tête et le cou sous un meuble solide si possible, et tenez-vous jusqu’à l’arrêt des secousses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour les tsunamis, des secousses fortes ou longues près de la côte peuvent être un avertissement naturel. Suivez les consignes locales d’évacuation et gagnez les hauteurs adaptées ou l’intérieur des terres lorsqu’on vous le demande. N’allez pas sur le rivage observer l’eau."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour les volcans, respectez les zones d’exclusion et les ordres d’évacuation. Les dangers comprennent cendres, écoulements pyroclastiques, lahars, gaz, coulées de lave et surcharge des toits par les cendres. La conduite dépend du volcan et des alertes officielles."
+    },
+    {
+      "type": "heading",
+      "text": "Mythes et réalités"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : les scientifiques prédisent exactement le prochain grand séisme. Réalité : ils évaluent l’aléa et les probabilités, mais la prédiction exacte n’est pas actuellement possible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : une magnitude 8 est à peine supérieure à 7. Réalité : les échelles sont logarithmiques et chaque unité entière représente beaucoup plus d’énergie libérée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : tout séisme sous-marin crée un tsunami. Réalité : un déplacement important de l’eau est généralement nécessaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : un tsunami est toujours une immense vague déferlante unique. Réalité : il peut arriver en plusieurs poussées et se comporter différemment selon la côte et le fond marin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : Yellowstone est en retard et va exploser. Réalité : les volcans ne suivent pas un calendrier simple, et la surveillance officielle ne soutient pas l’hypothèse d’une superéruption imminente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : les animaux prédisent fiablement les séismes. Réalité : aucun système de prédiction animale scientifiquement validé n’existe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : le changement climatique cause la tectonique ordinaire. Réalité : celle-ci est principalement entraînée par des processus géologiques sur des durées immenses."
+    },
+    {
+      "type": "heading",
+      "text": "La planète qui nous a créés peut aussi détruire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le système tectonique à l’origine des continents, des montagnes, des îles volcaniques, des cycles nutritifs et d’une grande part de la diversité géologique produit aussi des aléas destructeurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les humains ne peuvent pas arrêter la tectonique. Nous ne pouvons pas ordonner à une zone de subduction de se détendre ou au magma de rester sous terre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais la science peut comprendre les aléas, bâtir des villes plus sûres, surveiller les volcans, détecter rapidement les séismes, alerter les côtes et réduire les victimes. Ce n’est pas contrôler la Terre. C’est transformer l’humilité en préparation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Séismes, volcans et tsunamis rappellent que le sol sous nos pieds n’est pas immuable. Nous ne pouvons pas éteindre les forces qui façonnent la planète. Mais chaque capteur, bâtiment renforcé et système d’alerte donne à l’humanité ce que les générations précédentes avaient rarement : une chance de comprendre ce qui arrive, et parfois assez de temps pour y survivre."
+    }
+  ],
+  "sources": [
+    {
+      "label": "USGS : This Dynamic Earth, l’histoire de la tectonique des plaques",
+      "url": "https://pubs.usgs.gov/gip/dynamic/dynamic.html"
+    },
+    {
+      "label": "USGS : les différents types de magnitude",
+      "url": "https://www.usgs.gov/programs/earthquake-hazards/magnitude-types"
+    },
+    {
+      "label": "USGS : les 20 plus grands séismes du monde",
+      "url": "https://www.usgs.gov/programs/earthquake-hazards/science/20-largest-earthquakes-world"
+    },
+    {
+      "label": "USGS : peut-on prédire les séismes ?",
+      "url": "https://www.usgs.gov/faqs/can-you-predict-earthquakes"
+    },
+    {
+      "label": "USGS : les animaux peuvent-ils prédire les séismes ?",
+      "url": "https://www.usgs.gov/faqs/can-animals-predict-earthquakes"
+    },
+    {
+      "label": "ShakeAlert : système d’alerte sismique précoce",
+      "url": "https://www.shakealert.org/"
+    },
+    {
+      "label": "NOAA JetStream : propagation des tsunamis",
+      "url": "https://www.noaa.gov/jetstream/tsunamis/tsunami-propagation"
+    },
+    {
+      "label": "NOAA/NWS : système américain d’alerte aux tsunamis",
+      "url": "https://www.tsunami.gov/"
+    },
+    {
+      "label": "USGS : fiche du séisme de magnitude 9,1 du Tōhoku",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30/executive"
+    },
+    {
+      "label": "AIEA : dossier sur l’accident de Fukushima Daiichi",
+      "url": "https://www.iaea.org/newscenter/focus/fukushima"
+    },
+    {
+      "label": "Smithsonian Institution : programme mondial de volcanisme",
+      "url": "https://volcano.si.edu/"
+    },
+    {
+      "label": "USGS : observatoire volcanologique de Yellowstone",
+      "url": "https://www.usgs.gov/volcanoes/yellowstone"
+    },
+    {
+      "label": "Ready.gov : séismes",
+      "url": "https://www.ready.gov/earthquakes"
+    },
+    {
+      "label": "Ready.gov : tsunamis",
+      "url": "https://www.ready.gov/tsunamis"
+    },
+    {
+      "label": "Ready.gov : volcans",
+      "url": "https://www.ready.gov/volcanoes"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Pourquoi les séismes surviennent-ils ?",
+      "answer": "Les séismes surviennent lorsque des contraintes accumulées le long des failles se libèrent brutalement par le glissement de blocs rocheux. L’énergie se propage dans la Terre sous forme d’ondes sismiques."
+    },
+    {
+      "question": "Les scientifiques peuvent-ils prédire les séismes ?",
+      "answer": "Aucune méthode fiable ne permet actuellement de prédire un grand séisme précis avec un moment, un lieu et une magnitude suffisamment précis. Les scientifiques cartographient les aléas, estiment les probabilités et peuvent alerter après le début de la rupture."
+    },
+    {
+      "question": "Comment un séisme crée-t-il un tsunami ?",
+      "answer": "Un tsunami sismique dangereux exige généralement un déplacement important du fond marin, qui déplace la colonne d’eau et envoie des ondes longues à travers l’océan."
+    },
+    {
+      "question": "Yellowstone est-il sur le point d’entrer en éruption ?",
+      "answer": "Yellowstone est actif et étroitement surveillé, mais le suivi officiel de l’USGS ne soutient pas les affirmations d’une superéruption catastrophique imminente."
+    },
+    {
+      "question": "Les catastrophes naturelles deviennent-elles plus fréquentes ?",
+      "answer": "Cela dépend de l’aléa. De meilleurs instruments et communications font détecter et signaler davantage d’événements. Le changement climatique affecte de nombreux extrêmes météorologiques et climatiques, tandis que la tectonique reste entraînée par des processus géologiques. Exposition et vulnérabilité humaines influencent aussi fortement les pertes."
+    }
+  ]
+}

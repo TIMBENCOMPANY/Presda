@@ -1,0 +1,202 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/japan-enters-ai-care-era/",
+  "path": "/es/articles/japan-enters-ai-care-era/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "IA en el cuidado de mayores en Japón: robots, seguimiento y atención humana",
+  "excerpt": "Japón está probando software de IA, robots asistenciales, sensores y tecnologías de apoyo para ayudar a las personas mayores, las residencias y los trabajadores de cuidados de larga duración.",
+  "headlineHighlights": {
+    "red": "IA en el cuidado de mayores",
+    "gold": "robots, seguimiento"
+  },
+  "seoTitle": "IA y robots para cuidar a mayores en Japón: usos y límites",
+  "description": "Cómo utiliza Japón la IA, los robots asistenciales y los sensores para cuidar a las personas mayores: ejemplos, límites y el papel esencial de la atención humana.",
+  "keywords": [
+    "IA cuidado mayores Japón",
+    "robots asistenciales Japón",
+    "residencias inteligencia artificial",
+    "ROBEAR robot",
+    "tecnología de apoyo mayores"
+  ],
+  "searchIntent": "Conocer aplicaciones reales y experimentales de IA y robótica en la atención a mayores en Japón, diferenciando apoyo al personal, supervisión y sustitución de cuidados humanos.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-05-17",
+  "updatedAt": "2026-09-01",
+  "image": {
+    "src": "/articles/ai-care-japan-elder-people-future-technology-robot-human.png",
+    "alt": "Persona mayor japonesa de la mano de un robot asistencial en una imagen de estética cinematográfica"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La IA aplicada al cuidado de mayores en Japón no es una única tecnología. Incluye programas que ayudan a organizar la atención, sensores que supervisan movimientos o riesgos, dispositivos de apoyo que reducen el esfuerzo físico y robots asistenciales que favorecen la movilidad, la comunicación o las rutinas diarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción importa. Llamar robot con IA a cualquier dispositivo hace que la estrategia japonesa parezca más futurista de lo que es. En la práctica, responde a una sociedad envejecida, a la presión sobre los cuidados de larga duración y a la necesidad de apoyar al personal sin eliminar la relación humana que constituye el centro de la atención."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este artículo explica cómo utiliza Japón realmente la IA, la robótica y las tecnologías de apoyo en el cuidado de mayores, incluidas las residencias, la atención domiciliaria y la investigación experimental. Para un contexto tecnológico más amplio, lee la [cobertura de PRESDA sobre los modelos de OpenAI](/articles/openai-next-gen-model/) y nuestra [sección de IA](/category/ai/)."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué invierte Japón en tecnología para el cuidado de mayores"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japón es una de las sociedades envejecidas más observadas del mundo. Los informes gubernamentales muestran una presión prolongada por el crecimiento de la población mayor y la reducción de la proporción de personas en edad laboral. Eso plantea preguntas difíciles a familias, centros asistenciales, hospitales y sistemas públicos de cuidados de larga duración."
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo de cuidados también exige esfuerzo físico. El personal puede tener que ayudar a los residentes a moverse, ponerse de pie, trasladarse desde la cama, usar el baño, bañarse, comer, hacer ejercicio y organizar sus rutinas. Cuando los trabajadores están sobrecargados, la tecnología puede considerarse una herramienta para reducir la carga, mejorar la coordinación y favorecer la autonomía."
+    },
+    {
+      "type": "paragraph",
+      "text": "La política japonesa ha tratado la tecnología de cuidados como un ámbito definido y no como un lema vago de innovación. METI y MHLW han identificado áreas prioritarias para la robótica y la tecnología asistencial: apoyo en transferencias, movilidad, uso del inodoro, seguimiento, baño, comunicación, ejercicio funcional, nutrición y actividades cotidianas."
+    },
+    {
+      "type": "heading",
+      "text": "El software de IA no es lo mismo que un robot asistencial"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el cuidado de mayores, el software de IA suele referirse a sistemas que analizan información, apoyan la planificación de horarios, ayudan a detectar patrones de riesgo, organizan registros o facilitan la comunicación. Puede integrarse en el sistema de un centro, una plataforma de seguimiento, una interfaz de voz o un proceso de apoyo a la toma de decisiones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un robot asistencial es diferente. Es un dispositivo físico que interactúa con personas o con el entorno de cuidados. Algunos se diseñan para ayudar en transferencias o movilidad. Otros se centran en comunicación, recordatorios, interacción emocional o apoyo cotidiano sencillo. Algunos son productos comerciales; otros siguen siendo prototipos de investigación experimental."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sistemas de seguimiento son otra categoría. Pueden emplear sensores, cámaras, sensores de cama, detección de movimiento o alertas para ayudar al personal a advertir caídas, movimientos nocturnos o cambios de rutina. Estos sistemas pueden incorporar inteligencia informática sin parecerse a un robot humanoide."
+    },
+    {
+      "type": "heading",
+      "text": "La IA en las residencias japonesas: dónde encaja la tecnología"
+    },
+    {
+      "type": "paragraph",
+      "text": "En las residencias y centros de cuidados de larga duración japoneses, los usos más realistas suelen ser prácticos y discretos. Un sistema de seguimiento puede ayudar a priorizar comprobaciones. Un dispositivo de transferencia puede reducir el esfuerzo físico. Una herramienta de comunicación puede ayudar a pedir asistencia o mantener la orientación. Un sistema de registros puede reducir el papeleo. Por eso, las búsquedas sobre residencias con IA en Japón suelen conducir a una mezcla de software, sensores, dispositivos de apoyo y robótica, no a una sola categoría de producto."
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo no es convertir las residencias en instalaciones automatizadas. El argumento más sólido a favor de la IA es que puede preservar tiempo para la atención humana. Si un dispositivo reduce tareas repetitivas, el personal puede dedicar más atención a la conversación, el criterio profesional, el bienestar y la dignidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso debe interpretarse con cuidado la expresión IA para el cuidado de mayores en Japón. La IA forma parte del sistema, pero no sustituye a profesionales de enfermería, cuidadores, familias ni la responsabilidad clínica."
+    },
+    {
+      "type": "heading",
+      "text": "Robots para el cuidado de mayores en Japón: ejemplos reales"
+    },
+    {
+      "type": "paragraph",
+      "text": "El ámbito japonés de la robótica asistencial incluye varios dispositivos. Los robots de transferencia y los equipos motorizados ayudan a levantar o desplazar personas. Las herramientas de movilidad ayudan a las personas mayores a caminar o moverse con más seguridad. Las tecnologías para el inodoro y el baño abordan tareas cotidianas concretas. Los robots de comunicación apoyan los recordatorios, la conversación o el contacto social. La búsqueda robots para cuidar mayores en Japón suele referirse a este campo amplio de tecnologías de apoyo, no solo a máquinas humanoides."
+    },
+    {
+      "type": "paragraph",
+      "text": "ROBEAR, de RIKEN, es un ejemplo de investigación conocido. RIKEN lo describió como un robot experimental de cuidados diseñado para ayudar en tareas como levantar a un paciente de la cama y colocarlo en una silla de ruedas, o asistir a quien necesita apoyo para ponerse de pie. Es importante llamarlo experimental, no una solución universal ya implantada en todas partes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otras tecnologías son menos espectaculares que ROBEAR, pero pueden ser más prácticas en el día a día. Sensores, alertas, ayudas a la movilidad y herramientas de comunicación pueden introducirse con más facilidad que grandes robots humanoides porque encajan en los procesos existentes con menos alteraciones."
+    },
+    {
+      "type": "heading",
+      "text": "Sistemas de seguimiento y atención domiciliaria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sistemas de seguimiento ocupan un lugar importante en el debate japonés porque muchas personas mayores desean conservar su autonomía tanto tiempo como sea posible. En la atención domiciliaria, sensores y herramientas de comunicación pueden ayudar a familias o proveedores a advertir riesgos sin una supervisión presencial constante."
+    },
+    {
+      "type": "paragraph",
+      "text": "La promesa es un apoyo cuidadoso, no vigilar por vigilar. Un sistema útil debe ser fiable, comprensible para las personas supervisadas y respetuoso con la privacidad. Las personas mayores y sus familias necesitan saber qué datos se recogen, quién puede verlos, cómo funcionan las alertas y qué sucede cuando el sistema se equivoca."
+    },
+    {
+      "type": "heading",
+      "text": "Límites y preocupaciones sobre la atención humana"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tecnología asistencial tiene límites. Los robots pueden fallar, los sensores pueden perder el contexto, la IA puede generar falsas alertas y los residentes pueden sentirse incómodos si se introduce tecnología sin explicación ni consentimiento. Una herramienta que funciona en investigación puede ser difícil de mantener en un centro muy ocupado."
+    },
+    {
+      "type": "paragraph",
+      "text": "También importan el coste, la formación y el diseño de los procesos. Un dispositivo puede reducir la carga solo si el personal sabe utilizarlo, los responsables reservan tiempo para formarse y el mantenimiento es viable. De lo contrario, la tecnología puede convertirse en otra tarea en lugar de un apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuestión ética es igual de importante. Cuidar a personas mayores implica relaciones. Muchas necesitan contacto físico, conversación, paciencia, comprensión cultural y tranquilidad emocional. Las máquinas pueden apoyar ese entorno, pero no deben convertirse en una excusa para reducir el contacto humano."
+    },
+    {
+      "type": "heading",
+      "text": "Qué podría venir después"
+    },
+    {
+      "type": "paragraph",
+      "text": "La próxima fase de los cuidados con IA en Japón probablemente girará menos en torno a un robot espectacular y más en torno a sistemas conectados. Un mejor seguimiento, documentación más sencilla, apoyo más seguro a la movilidad, dispositivos asistenciales, herramientas de comunicación y un apoyo limitado de IA a las decisiones podrían funcionar juntos en hogares y centros."
+    },
+    {
+      "type": "paragraph",
+      "text": "La experiencia japonesa importará más allá del país porque otras sociedades también envejecen. La lección no es que los robots resuelvan el cuidado de mayores. Es que los sistemas necesitan herramientas prácticas, garantías sólidas y un compromiso claro con la dignidad humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "El futuro de la IA en estos cuidados dependerá de la confianza. Si las personas mayores, las familias y los trabajadores perciben la tecnología como respetuosa, útil y fiable, su adopción puede crecer. Si resulta invasiva, cara o desconectada del trabajo real, encontrará dificultades por muy avanzada que parezca."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Oficina del Gabinete de Japón: informe anual sobre la sociedad envejecida",
+      "url": "https://www8.cao.go.jp/kourei/english/annualreport/index-wh.html"
+    },
+    {
+      "label": "METI: áreas prioritarias de uso de robótica en los cuidados de larga duración",
+      "url": "https://www.meti.go.jp/english/press/2024/0628_004.html"
+    },
+    {
+      "label": "Portal japonés de tecnología para cuidados de larga duración",
+      "url": "https://robotcare.jp/"
+    },
+    {
+      "label": "RIKEN: robot asistencial ROBEAR",
+      "url": "https://www.riken.jp/en/news_pubs/research_news/pr/2015/20150223_2/"
+    },
+    {
+      "label": "Tecnologías de atención sanitaria y cuidados en Japón",
+      "url": "https://www.trade.gov/market-intelligence/japan-healthcare-caregiving-technologies"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cómo utiliza Japón la IA en el cuidado de mayores?",
+      "answer": "Japón emplea tecnología de cuidados de varias maneras: sistemas de seguimiento, software de gestión, herramientas de comunicación, dispositivos de apoyo y robots asistenciales. No todos los sistemas son IA ni todas las herramientas de IA son robots."
+    },
+    {
+      "question": "¿Sustituyen los robots a los cuidadores de mayores en Japón?",
+      "answer": "No. El uso mejor documentado es de apoyo, no de sustitución. Los robots y las tecnologías asistenciales buscan reducir la carga, favorecer la autonomía y ayudar al personal con tareas exigentes, mientras la atención humana sigue siendo esencial."
+    },
+    {
+      "question": "¿Qué robots asistenciales se utilizan o prueban en Japón?",
+      "answer": "Las prioridades incluyen transferencias, movilidad, uso del inodoro, baño, seguimiento, comunicación, ejercicio, nutrición y apoyo cotidiano. Algunos dispositivos son herramientas comerciales; otros son proyectos de investigación o demostración."
+    },
+    {
+      "question": "¿Qué es ROBEAR?",
+      "answer": "ROBEAR es un robot experimental de cuidados desarrollado por RIKEN y Sumitomo Riko. RIKEN lo describió como capaz de ayudar en tareas como levantar a un paciente de la cama y colocarlo en una silla de ruedas o ayudarle a ponerse de pie."
+    },
+    {
+      "question": "¿Cuáles son las principales preocupaciones sobre la IA en estos cuidados?",
+      "answer": "Incluyen privacidad, consentimiento, fiabilidad, falsas alertas, coste, formación del personal, mantenimiento y el riesgo de reducir el contacto humano si la tecnología se introduce mal."
+    }
+  ]
+}

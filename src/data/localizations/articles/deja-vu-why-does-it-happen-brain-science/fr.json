@@ -1,0 +1,478 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/deja-vu-why-does-it-happen-brain-science/",
+  "path": "/fr/articles/deja-vu-why-does-it-happen-brain-science/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "DÉJÀ-VU : POURQUOI CETTE IMPRESSION ? CE QU’EXPLIQUENT LES NEUROSCIENCES",
+  "excerpt": "Un instant nouveau semble soudain appartenir à vos souvenirs. Ce que la familiarité, les expériences sur la mémoire et les neurosciences révèlent du déjà-vu, et ce qui reste incertain.",
+  "headlineHighlights": {
+    "red": "DÉJÀ-VU",
+    "gold": "NEUROSCIENCES"
+  },
+  "seoTitle": "Déjà-vu : pourquoi cette impression ? Mémoire et cerveau",
+  "description": "Pourquoi a-t-on une impression de déjà-vu ? Familiarité, mémoire, théories scientifiques, sommeil, épilepsie et situations dans lesquelles consulter.",
+  "keywords": [
+    "impression de déjà-vu",
+    "pourquoi déjà-vu",
+    "déjà-vu cerveau",
+    "déjà-vu mémoire",
+    "déjà-vu épilepsie"
+  ],
+  "searchIntent": "Comprendre le déjà-vu à partir des recherches sur la mémoire, distinguer les principales hypothèses et les situations justifiant une consultation.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-20",
+  "updatedAt": "2026-09-20",
+  "image": {
+    "src": "/articles/dejavu-science-dream-brain-science.png",
+    "alt": "Illustration artistique d’un homme sur un pont dans une ville historique, avec une silhouette répétée évoquant l’étrange familiarité du déjà-vu"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Vous tournez au coin d’une rue dans une ville que vous n’avez jamais visitée. La lumière sur les bâtiments, une conversation au passage et la disposition de la rue vous semblent soudain familières. Un instant, vous avez l’impression d’être déjà venu. Pourtant, vous savez que ce n’est pas le cas. C’est cette contradiction qui rend le déjà-vu si troublant."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expression française « déjà vu » signifie littéralement que l’on a vu quelque chose auparavant. En neurosciences et en psychologie, elle désigne généralement une brève impression de familiarité avec l’expérience présente, alors même que cette familiarité paraît injustifiée. Le phénomène est plus précis que le souvenir d’un lieu ou la reconnaissance d’un visage. Ce qui intrigue, c’est le désaccord entre la sensation et ce que l’on sait. [Alan S. Brown, Psychological Bulletin (2003) : synthèse des recherches sur l’expérience de déjà-vu](https://pubmed.ncbi.nlm.nih.gov/12784936/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pourquoi le déjà-vu survient-il ? Aucune explication unique ne rend compte de tous les épisodes. Les expériences étayent le rôle d’une familiarité sans rappel réussi, de ressemblances inaperçues entre des expériences et de conflits dans les jugements de mémoire. La recherche clinique montre aussi qu’une activité épileptique peut produire des expériences apparentées. Ces résultats sont instructifs, mais ils ne signifient ni que le déjà-vu ordinaire est une crise d’épilepsie, ni que les scientifiques savent identifier la cause de chaque épisode fugace."
+    },
+    {
+      "type": "heading",
+      "text": "LE DÉJÀ-VU EST-IL FRÉQUENT ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une revue systématique publiée en 2024 dans Frontiers in Neurology a regroupé 10 études menées auprès de personnes en bonne santé. Elle estimait que 74 % avaient vécu un déjà-vu sans lien avec une crise épileptique, avec un intervalle de confiance à 95 % allant de 67 % à 79 %. Cette estimation synthétise les études retenues : ce n’est ni un recensement mondial, ni la proportion de personnes concernées chaque année. Les études différaient fortement, si bien que l’intervalle et les limites comptent autant que le chiffre principal. [Hadzic et Andersson, Frontiers in Neurology (2024) : revue systématique et méta-analyse du déjà-vu](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les expériences rapportées tendent à être plus fréquentes chez les jeunes et à diminuer avec l’âge. La synthèse de Brown de 2003 relevait aussi des associations avec les voyages et le niveau d’études. Ces résultats ne démontrent pas que voyager provoque directement le déjà-vu, ni que cette expérience renseigne sur l’intelligence. Les personnes diffèrent par ce qu’elles rencontrent, leur interprétation de la sensation et les souvenirs qu’elles mobilisent ensuite lorsqu’on les interroge. [Alan S. Brown, Psychological Bulletin (2003) : synthèse des recherches sur l’expérience de déjà-vu](https://pubmed.ncbi.nlm.nih.gov/12784936/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une difficulté supplémentaire tient à la mesure : on demande aux participants de se souvenir d’une sensation mnésique inhabituelle. Quelqu’un qui ne connaît pas le terme peut la décrire autrement qu’une personne ayant lu sur le sujet. Les définitions, la formulation des questionnaires et la période sur laquelle porte le souvenir influencent les réponses. On peut raisonnablement conclure que le phénomène est courant ; on ne peut pas lui attribuer une fréquence universelle parfaitement précise. [Hadzic et Andersson, Frontiers in Neurology (2024) : revue systématique et méta-analyse du déjà-vu](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full)"
+    },
+    {
+      "type": "heading",
+      "text": "FAMILIARITÉ ET REMÉMORATION NE SE CONFONDENT PAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaginez reconnaître une voix sans parvenir à identifier la personne. Vous éprouvez une familiarité, mais ne retrouvez pas l’épisode qui l’expliquerait. Imaginez maintenant vous souvenir d’une conversation avec cette personne, du lieu et de ce qui s’est passé. Cette récupération plus riche d’un événement correspond à la remémoration. La reconnaissance peut s’appuyer sur les deux, sans qu’elles surviennent toujours ensemble. [Anne M. Cleary, Current Directions in Psychological Science (2008) : mémoire de reconnaissance, familiarité et déjà-vu](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction permet d’étudier le déjà-vu sans invoquer une vie antérieure cachée. Une situation présente peut ressembler suffisamment à un élément en mémoire pour paraître familière, alors que l’expérience ancienne demeure inaccessible. Vous détectez une correspondance sans en retrouver la source. C’est une voie plausible vers cette sensation, pas la preuve que chaque épisode repose sur un souvenir correspondant oublié. [Anne M. Cleary, Current Directions in Psychological Science (2008) : mémoire de reconnaissance, familiarité et déjà-vu](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le déjà-vu ajoute un élément à cette familiarité sans source : vous remarquez qu’elle ne convient pas à la situation. Ne pas retrouver le nom d’une personne reconnue n’est pas nécessairement du déjà-vu. L’expérience devient particulièrement étrange lorsque vous êtes convaincu de la nouveauté d’une situation, mais que l’impression de répétition persiste. Cette conscience du décalage explique pourquoi les chercheurs étudient non seulement la récupération des souvenirs, mais aussi la manière dont nous les évaluons."
+    },
+    {
+      "type": "heading",
+      "text": "QUEL EST LE RÔLE DE L’HIPPOCAMPE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le lobe temporal médial comprend des structures essentielles à la mémoire, dont l’hippocampe et des régions corticales voisines. L’hippocampe aide à relier les éléments d’une expérience : ce qui s’est passé, où et dans quel contexte. Le cortex périrhinal est fortement associé à la familiarité des éléments, tandis que les régions parahippocampiques contribuent aux informations sur le contexte et les scènes. Ces régions s’inscrivent dans des réseaux plus vastes. [Ranganath et Ritchey, Nature Reviews Neuroscience (2012) : deux systèmes corticaux pour les comportements guidés par la mémoire](https://www.nature.com/articles/nrn3338)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un modèle utile propose que les informations sur les éléments et leur contexte convergent dans l’hippocampe pour permettre la remémoration. Il aide à comprendre pourquoi sentir que l’on connaît quelque chose diffère du rappel de l’événement qui explique cette connaissance. Mais les fonctions cérébrales ne se répartissent pas en compartiments parfaitement séparés. Selon les expériences et les théories, les rôles attribués à ces structures se chevauchent, et la reconnaissance implique aussi des régions extérieures au lobe temporal. [Diana, Yonelinas et Ranganath (2007) : imagerie de la remémoration et de la familiarité dans le lobe temporal médial](https://pubmed.ncbi.nlm.nih.gov/17707683/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il est donc trompeur de qualifier l’hippocampe de « bouton du déjà-vu », ou d’affirmer qu’un souvenir aurait simplement été rangé dans le mauvais tiroir. La mémoire est un processus actif, fondé sur des informations distribuées et sur les jugements que nous portons sur elles. Distinguer le familier du nouveau peut devenir déroutant alors même que la personne sait parfaitement que son impression est trompeuse."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI UN LIEU ENTIÈREMENT NOUVEAU PEUT PARAÎTRE FAMILIER"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaginez un hall d’hôtel avec un escalier à gauche, un comptoir devant vous et un couloir à droite. Sa disposition pourrait ressembler à celle d’un bâtiment visité autrefois, malgré des couleurs, des meubles et une fonction différents. Cet exemple illustre l’hypothèse de similarité spatiale : l’agencement peut se recouper alors que la scène elle-même est nouvelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une étude en réalité virtuelle de 2012, Anne Cleary et ses collègues ont comparé de nouvelles scènes dont la configuration ressemblait ou non à des scènes déjà présentées. Lorsque les participants ne parvenaient pas à rappeler la scène antérieure, une disposition similaire était associée à davantage de familiarité et de signalements de déjà-vu. L’expérience rendait mesurable un ingrédient possible, au lieu de dépendre entièrement de récits rétrospectifs. [Cleary et ses collègues, Consciousness and Cognition (2012) : réalité virtuelle, configuration spatiale et déjà-vu](https://www.sciencedirect.com/science/article/pii/S1053810012000049)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des expériences antérieures, publiées en 2009, étayaient aussi l’idée qu’une ressemblance peut susciter de la familiarité sans que la personne retrouve la scène antérieure pertinente. Le point important est le recoupement partiel. Une nouvelle situation n’a pas besoin de reproduire exactement une ancienne pour que la mémoire réagisse à leurs traits communs. [Cleary, Ryals et Nomi (2009) : mise à l’épreuve de l’hypothèse de similarité du déjà-vu](https://pubmed.ncbi.nlm.nih.gov/19966259/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces études ne montrent pas que chaque rue inconnue possède un double architectural oublié. Elles testent un mécanisme dans des conditions contrôlées. Les expériences réelles associent images, sons, mouvements et attentes, souvent sans trace de ce qui a précédé immédiatement la sensation. Un résultat de laboratoire peut démontrer une voie vers le déjà-vu sans identifier celle qui explique votre propre épisode. [Cleary et ses collègues, Consciousness and Cognition (2012) : réalité virtuelle, configuration spatiale et déjà-vu](https://www.sciencedirect.com/science/article/pii/S1053810012000049)"
+    },
+    {
+      "type": "heading",
+      "text": "AUTRES EXPLICATIONS : ATTENTION, TEMPORALITÉ ET CONFLIT MNÉSIQUE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une hypothèse est celle de la perception dédoublée. Une personne traite brièvement une scène alors que son attention est ailleurs, puis l’observe plus complètement. La deuxième rencontre pourrait sembler étrangement familière, car la première, à peine remarquée, a déjà influencé la perception. Les expériences de Brown et Marsh de 2009 ont montré qu’une brève exposition à des scènes pouvait créer l’illusion de les avoir déjà rencontrées. Cela étaye un mécanisme lié à l’attention, même si cette illusion n’est pas identique à l’expérience complète du déjà-vu quotidien. [Brown et Marsh (2009) : créer des illusions de rencontre antérieure par une exposition brève](https://pubmed.ncbi.nlm.nih.gov/19492436/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "D’autres explications proposent un décalage temporaire dans le rythme ou la coordination du traitement des informations. Elles sont parfois présentées comme la preuve d’un retard entre les yeux ou entre les hémisphères cérébraux. C’est trop affirmatif. Les chercheurs ont envisagé plusieurs explications fondées sur le traitement de l’information et la familiarité, mais la métaphore populaire d’un « bug de double traitement » n’établit pas la cause physique du déjà-vu ordinaire. [Brown et Marsh (2010) : recherches récentes sur les mécanismes possibles du déjà-vu](https://scholars.duke.edu/publication/867236)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’hypothèse du conflit mnésique cherche à comprendre pourquoi nous reconnaissons le caractère injustifié de la familiarité. Dans une étude par IRMf de 2018, les chercheurs ont associé des listes de mots suscitant de la familiarité à des informations montrant qu’un mot attirant était en réalité nouveau. L’analyse principale portait sur 21 participants, dont 16 ont signalé un déjà-vu. L’activité observée impliquait des régions liées au conflit et au contrôle, notamment le cortex cingulaire antérieur, le cortex préfrontal médial et des régions pariétales. [Urquhart et ses collègues (2018) : indices en IRMf d’un conflit mnésique dans le déjà-vu](https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce résultat soutient le rôle de l’évaluation de signaux mnésiques contradictoires. Il ne prouve pas que le cerveau effectue volontairement une vérification de maintenance à chaque déjà-vu. L’étude a créé un analogue expérimental à partir de mots dans un petit échantillon sélectionné. Sa force est le test contrôlé d’une idée précise ; sa limite est la distance entre cette tâche et la richesse d’une expérience spontanée. [Urquhart et ses collègues (2018) : indices en IRMf d’un conflit mnésique dans le déjà-vu](https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces explications ne s’excluent pas nécessairement. Une ressemblance ou une exposition brève pourrait produire la familiarité, tandis qu’un autre processus détecterait son incompatibilité avec la connaissance de la nouveauté. Il reste à déterminer quels mécanismes agissent ensemble, chez qui et dans quelles conditions."
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE LA STIMULATION CÉRÉBRALE PEUT MONTRER, ET SES LIMITES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des études cliniques ont parfois provoqué un déjà-vu par stimulation électrique de structures temporales médiales chez des personnes évaluées pour une épilepsie. Les recherches sur les interactions rhinales et hippocampiques suggèrent une communication au sein d’un réseau de mémoire, plutôt qu’un site isolé. Les enregistrements directs et la stimulation donnent un accès exceptionnellement proche à l’activité cérébrale, impossible à obtenir par de simples questionnaires. [Bartolomei et ses collègues, Clinical Neurophysiology (2012) : interactions rhinales et hippocampiques pendant le déjà-vu](https://www.sciencedirect.com/science/article/pii/S138824571100561X)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il s’agit toutefois d’un contexte clinique : personnes épileptiques, électrodes implantées et intervention. Ce n’est pas un échantillon aléatoire de personnes en bonne santé vivant un déjà-vu spontané. La stimulation montre que modifier l’activité d’un réseau peut produire une expérience ; elle ne prouve pas que cette même modification, ou une crise, explique chaque épisode ordinaire. [Bartolomei et ses collègues, Clinical Neurophysiology (2012) : interactions rhinales et hippocampiques pendant le déjà-vu](https://www.sciencedirect.com/science/article/pii/S138824571100561X)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude de 2013 invite elle aussi à éviter les conclusions faciles. Chez 206 étudiants de premier cycle, O’Connor et Moulin n’ont trouvé aucune relation entre la fréquence déclarée du déjà-vu et les mesures de remémoration ou de familiarité obtenues dans leur tâche de reconnaissance de mots. Cela n’exclut pas les explications fondées sur la mémoire. Cela signifie qu’un déjà-vu plus fréquent ne peut pas être assimilé simplement à un système de reconnaissance globalement plus fort ou plus faible. [O’Connor et Moulin, Frontiers in Psychology (2013) : fréquence du déjà-vu et performances mnésiques en laboratoire](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00881/full)"
+    },
+    {
+      "type": "heading",
+      "text": "FATIGUE, STRESS ET SOMMEIL : QUE MONTRENT LES DONNÉES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fatigue et stress sont souvent présentés comme des déclencheurs. La synthèse de Brown décrivait des associations, et les recommandations cliniques évoquent aussi le manque de sommeil, le stress et l’anxiété comme facteurs possibles. Mais une association n’équivaut pas à une démonstration contrôlée selon laquelle perdre une quantité précise de sommeil provoquerait un déjà-vu. Les épisodes déclarés par les personnes ne permettent pas d’isoler sûrement le sommeil de tout ce qui se passe dans leur vie. [Alan S. Brown, Psychological Bulletin (2003) : synthèse des recherches sur l’expérience de déjà-vu](https://pubmed.ncbi.nlm.nih.gov/12784936/) [Cleveland Clinic : comprendre le déjà-vu et savoir quand consulter](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un voyageur fatigué peut aussi se trouver dans un environnement inconnu, être distrait, anxieux ou particulièrement attentif aux sensations inhabituelles. Ces facteurs sont difficiles à séparer après coup. La conclusion prudente est que fatigue et stress pourraient contribuer au phénomène chez certaines personnes, mais que la force, le sens et les mécanismes de ces relations restent incertains. La recherche ne fournit pas de formule fiable pour prédire un épisode à partir de la nuit précédente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cas clinique publié en 2014 décrivait un jeune homme présentant de l’anxiété et une dépersonnalisation, avec un déjà-vu persistant et éprouvant sans signes épileptiques nets. Les auteurs proposaient une explication psychologique et appelaient à poursuivre les recherches. Un cas isolé peut attirer l’attention sur une possibilité ; il ne permet pas d’établir à quelle fréquence l’anxiété provoque le déjà-vu, ni de diagnostiquer quelqu’un d’autre. [Wells et ses collègues, Journal of Medical Case Reports (2014) : déjà-vu psychogène persistant](https://pmc.ncbi.nlm.nih.gov/articles/PMC4295571/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Préserver son sommeil et prendre en charge sa détresse sont des priorités de santé raisonnables, mais il ne faut pas les présenter comme des traitements démontrés du déjà-vu. Il ne faut pas non plus réduire automatiquement des épisodes persistants à « seulement du stress ». Leur profil et les éventuels symptômes associés comptent davantage qu’une explication sur Internet. Notre article sur [le défilement sur écran, l’attention et le sommeil](/articles/endless-scrolling-phone-attention-sleep-science/) examine un aspect voisin de la vie cognitive quotidienne."
+    },
+    {
+      "type": "heading",
+      "text": "DÉJÀ-VU ORDINAIRE ET ÉPILEPSIE TEMPORALE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La plupart des personnes ayant occasionnellement un déjà-vu ne sont pas épileptiques. Néanmoins, cette sensation peut faire partie d’une crise focale impliquant les réseaux du lobe temporal. Une crise ne provoque pas toujours une chute ou des convulsions. Certaines personnes restent conscientes, tandis que d’autres deviennent moins réactives ou peinent ensuite à se souvenir de l’événement. [Mayo Clinic : symptômes et causes des crises du lobe temporal](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une sensation liée à une crise peut s’accompagner d’une peur soudaine, d’une odeur ou d’un goût inhabituel, d’une sensation ascendante dans l’abdomen, d’un regard fixe, de mouvements répétés des lèvres ou des mains, ou d’une confusion après l’épisode. Une aura peut elle-même constituer le début d’une crise focale, plutôt qu’un simple avertissement extérieur à la crise. Ces symptômes nécessitent une interprétation clinique ; le déjà-vu seul ne permet pas d’en diagnostiquer la cause. [Mayo Clinic : symptômes et causes des crises du lobe temporal](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les chercheurs distinguent le déjà-vu ictal, survenant pendant une crise, les expériences interictales entre les crises et les expériences non ictales chez les personnes en bonne santé. Une personne épileptique peut aussi vivre un déjà-vu en dehors d’une crise. C’est une raison supplémentaire de ne pas considérer tous les récits comme un même phénomène, ni de supposer qu’une étiquette en explique le mécanisme. [Illman et ses collègues, Epilepsy Research and Treatment (2012) : expériences de déjà-vu dans l’épilepsie temporale](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une impression isolée de familiarité ne prouve pas non plus qu’une personne développe une démence. Les distorsions persistantes de la reconnaissance relèvent d’un autre sujet clinique que le déjà-vu ordinaire occasionnel. Notre [article sur la maladie d’Alzheimer et la mémoire](/articles/alzheimers-disease-brain-memory-loss/) décrit séparément cette maladie, sans transformer une expérience subjective courante en test diagnostique. [Cleveland Clinic : comprendre le déjà-vu et savoir quand consulter](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)"
+    },
+    {
+      "type": "heading",
+      "text": "DÉJÀ-VÉCU, JAMAIS-VU ET EXPÉRIENCES APPARENTÉES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le « déjà-vécu » désigne le sentiment d’avoir déjà vécu une situation. Certains chercheurs emploient ce terme pour une impression plus riche de revivre un événement entier, parfois accompagnée du sentiment de savoir ce qui va suivre. Dans les récits cliniques, les formes persistantes peuvent comporter la conviction que la vie se répète, plutôt que la brève prise de conscience d’une familiarité trompeuse. La terminologie n’est pas parfaitement uniforme entre les études. [Illman et ses collègues, Epilepsy Research and Treatment (2012) : expériences de déjà-vu dans l’épilepsie temporale](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le « jamais-vu » va dans l’autre sens : quelque chose de connu paraît inconnu ou étrangement étranger. Les chercheurs ont exploré des sensations apparentées en demandant de répéter des mots familiers jusqu’à ce qu’ils commencent à sembler étranges. Comme l’explique le chercheur en mémoire Chris Moulin dans un entretien de l’American Psychological Association, le sentiment de savoir et la connaissance elle-même peuvent se dissocier. Cela ne rend pas réellement nouveau l’objet ou le mot concerné. [American Psychological Association : Chris Moulin sur le déjà-vu, le jamais-vu et la mémoire](https://www.apa.org/news/podcasts/speaking-of-psychology/deja-vu)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le « déjà-rêvé » désigne l’impression d’avoir déjà rêvé une expérience. Une étude de 2018 sur la stimulation électrique chez des patients épileptiques distinguait le rappel d’un rêve précis, une familiarité vaguement liée à un rêve et un état onirique plus général. Ces récits montrent que les expériences liées aux rêves peuvent être étudiées sur le plan neurologique. Ils ne démontrent pas qu’un rêve avait prédit un événement. [Curot et ses collègues, Brain Stimulation (2018) : déjà-rêvé et stimulation électrique cérébrale](https://cerco.cnrs.fr/wp-content/uploads/2019/04/curot_j_18_1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces distinctions évitent de regrouper des expériences différentes sous un seul terme. Une personne décrivant une familiarité, la reviviscence détaillée d’un événement ou le souvenir d’un rêve peut rapporter des phénomènes différents. Des descriptions précises sont scientifiquement plus utiles que l’idée selon laquelle toute reconnaissance étrange serait du déjà-vu."
+    },
+    {
+      "type": "heading",
+      "text": "LE DÉJÀ-VU PERMET-IL DE PRÉDIRE LA SUITE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le déjà-vu peut donner l’impression de connaître déjà l’instant suivant. Cette sensation peut être testée. Dans des expériences publiées en 2018, Cleary et Claxton ont utilisé des parcours dans des scènes virtuelles et interrogé les participants sur les prochains changements de direction. Le déjà-vu était associé à un sentiment accru de prédiction, mais sans capacité correspondante à prédire au-delà du hasard dans les conditions testées. [Cleary et Claxton, Psychological Science (2018) : le déjà-vu, une illusion de prédiction](https://journals.sagepub.com/doi/abs/10.1177/0956797617743018)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il faut distinguer assurance et information. Si toute la situation semble s’être déjà produite, il est compréhensible de s’attendre à connaître la suite. Mais cette attente ne prouve pas que l’événement suivant a réellement été retrouvé en mémoire. Une sensation convaincante peut survenir sans la connaissance qu’elle semble promettre. [Cleary et Claxton, Psychological Science (2018) : le déjà-vu, une illusion de prédiction](https://journals.sagepub.com/doi/abs/10.1177/0956797617743018)"
+    },
+    {
+      "type": "heading",
+      "text": "RÊVES, VIES ANTÉRIEURES, SIMULATIONS ET UNIVERS PARALLÈLES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un rêve peut devenir un souvenir, et une personne peut ensuite penser qu’une scène lui ressemble. Cette possibilité ne démontre pas une connaissance de l’avenir. Pour établir une prédiction, il faudrait un enregistrement suffisamment précis antérieur à l’événement, une vérification indépendante et une méthode tenant compte des erreurs comme des coïncidences ordinaires. Une ressemblance remémorée après coup ne satisfait pas ces critères. Découvrez la science du rêve dans [Pourquoi rêvons-nous ?](/articles/why-do-we-dream/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les vies antérieures, les erreurs de simulation et les univers parallèles sont des interprétations spéculatives, pas des conclusions établies par la recherche sur le déjà-vu. Les études examinées ici portent sur la mémoire, la perception, le contrôle et l’activité neurologique. Aucune ne prouve qu’un épisode serait un message d’une autre vie ou une fenêtre sur un autre univers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela ne signifie pas que les neurosciences ont résolu tous les aspects de l’expérience. Cela signifie qu’un détail inexpliqué ne peut pas, à lui seul, constituer une preuve en faveur d’une explication extraordinaire particulière. Une hypothèse utile doit produire des prédictions vérifiables permettant de la distinguer des autres. L’intensité de la sensation ne remplit pas cette fonction."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LE DÉJÀ-VU EST SI DIFFICILE À REPRODUIRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le déjà-vu spontané est bref et imprévisible. Les chercheurs ne peuvent généralement pas faire en sorte qu’une personne le vive au moment précis d’un enregistrement en imagerie. L’interroger plusieurs semaines après introduit des incertitudes sur la durée, le contexte et la nature exacte de l’événement. Poser des questions répétées pendant une expérience peut aussi orienter l’attention des participants et la manière dont ils nomment leurs expériences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les méthodes de laboratoire résolvent une partie du problème en manipulant des ingrédients comme la ressemblance entre scènes, l’exposition brève ou les indices mnésiques contradictoires. Mais produire de la familiarité est plus facile que recréer l’impression complète d’une familiarité injustifiée. Il faut évaluer la proximité d’un analogue expérimental avec l’expérience quotidienne, et non l’accepter simplement parce que les participants lui donnent le même nom. [Brown et Marsh (2010) : recherches récentes sur les mécanismes possibles du déjà-vu](https://scholars.duke.edu/publication/867236)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette difficulté n’est pas propre au déjà-vu. Les scientifiques étudient souvent une expérience complexe en isolant ses composantes. Les progrès viennent de la combinaison d’expériences contrôlées, de récits immédiats et d’observations cliniques, en gardant visibles les limites de chaque méthode. Aucune ne remplace complètement les autres."
+    },
+    {
+      "type": "heading",
+      "text": "QUAND FAUT-IL CONSULTER ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un déjà-vu occasionnel, bref et sans autre symptôme n’est généralement pas inquiétant. Demandez une évaluation médicale si les épisodes deviennent inhabituellement fréquents, persistants, éprouvants ou perturbants, surtout s’il s’agit d’un changement récent. Aucun nombre universel d’épisodes ne sépare le normal de l’anormal : le contexte et les symptômes associés comptent. [Cleveland Clinic : comprendre le déjà-vu et savoir quand consulter](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Demandez rapidement un avis médical si les épisodes comportent une altération de la conscience, des trous de mémoire inexpliqués, des odeurs ou goûts inhabituels, des mouvements répétitifs ou une confusion après coup, ou si vous suspectez une première crise. Notez ce qui s’est passé avant, pendant et après, et si quelqu’un en a été témoin. Cela peut aider le professionnel à évaluer l’épisode sans présumer du diagnostic. [Mayo Clinic : symptômes et causes des crises du lobe temporal](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214) [NHS : épilepsie, symptômes et situations nécessitant de l’aide](https://www.nhs.uk/conditions/epilepsy/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Appelez le numéro d’urgence local en cas de première crise suspectée toujours en cours, de crise durant plus de cinq minutes, de crises répétées sans récupération ou de difficulté respiratoire. Ce sont des signes d’alerte liés aux crises, pas une invitation à considérer une brève impression ordinaire de familiarité comme une urgence. [NHS : épilepsie, symptômes et situations nécessitant de l’aide](https://www.nhs.uk/conditions/epilepsy/)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE LES NEUROSCIENCES N’EXPLIQUENT PAS ENCORE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les scientifiques ne savent toujours pas identifier avec fiabilité la cause d’un épisode spontané individuel. Ils ignorent aussi si une seule explication rendra finalement compte de la plupart des déjà-vu ordinaires, ou si plusieurs processus produisent des sensations semblables. Les variations selon l’âge, les différences individuelles et les liens entre expériences cliniques et quotidiennes laissent des questions importantes ouvertes."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’explication par le conflit mnésique est prometteuse, mais elle ne prouve pas que le déjà-vu soit toujours le signe d’un cerveau sain qui se vérifie lui-même. L’explication par la familiarité est utile, mais elle n’établit pas l’existence d’un souvenir correspondant caché dans chaque cas. De meilleures expériences devront distinguer les mécanismes concurrents et saisir la sensation au plus près du moment où elle survient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce que les neurosciences du déjà-vu révèlent déjà est subtil : savoir, se souvenir et avoir l’impression de se souvenir ne sont pas identiques. Ces processus coopèrent habituellement si bien que nous remarquons à peine la différence. Pendant un bref instant, le déjà-vu la rend impossible à ignorer."
+    },
+    {
+      "type": "heading",
+      "text": "SOURCES ET PRÉCISIONS SUR LES DONNÉES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet article s’appuie sur des recherches sur la mémoire évaluées par les pairs, une revue systématique, des études cliniques et des recommandations médicales. Les analogues de laboratoire sont distingués des expériences spontanées, et les résultats concernant l’épilepsie ne sont pas automatiquement généralisés aux personnes en bonne santé. Le chiffre de prévalence décrit les études regroupées dans la revue de 2024. L’image principale est une illustration artistique d’une scène paraissant familière, pas la représentation d’un mécanisme neurologique démontré."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Alan S. Brown, Psychological Bulletin (2003) : synthèse des recherches sur l’expérience de déjà-vu](https://pubmed.ncbi.nlm.nih.gov/12784936/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hadzic et Andersson, Frontiers in Neurology (2024) : revue systématique et méta-analyse du déjà-vu](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Anne M. Cleary, Current Directions in Psychological Science (2008) : mémoire de reconnaissance, familiarité et déjà-vu](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ranganath et Ritchey, Nature Reviews Neuroscience (2012) : deux systèmes corticaux pour les comportements guidés par la mémoire](https://www.nature.com/articles/nrn3338)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Diana, Yonelinas et Ranganath (2007) : imagerie de la remémoration et de la familiarité dans le lobe temporal médial](https://pubmed.ncbi.nlm.nih.gov/17707683/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cleary et ses collègues, Consciousness and Cognition (2012) : réalité virtuelle, configuration spatiale et déjà-vu](https://www.sciencedirect.com/science/article/pii/S1053810012000049)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cleary, Ryals et Nomi (2009) : mise à l’épreuve de l’hypothèse de similarité du déjà-vu](https://pubmed.ncbi.nlm.nih.gov/19966259/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Brown et Marsh (2009) : créer des illusions de rencontre antérieure par une exposition brève](https://pubmed.ncbi.nlm.nih.gov/19492436/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Brown et Marsh (2010) : recherches récentes sur les mécanismes possibles du déjà-vu](https://scholars.duke.edu/publication/867236)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Urquhart et ses collègues (2018) : indices en IRMf d’un conflit mnésique dans le déjà-vu](https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Bartolomei et ses collègues, Clinical Neurophysiology (2012) : interactions rhinales et hippocampiques pendant le déjà-vu](https://www.sciencedirect.com/science/article/pii/S138824571100561X)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[O’Connor et Moulin, Frontiers in Psychology (2013) : fréquence du déjà-vu et performances mnésiques en laboratoire](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00881/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cleveland Clinic : comprendre le déjà-vu et savoir quand consulter](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Wells et ses collègues, Journal of Medical Case Reports (2014) : déjà-vu psychogène persistant](https://pmc.ncbi.nlm.nih.gov/articles/PMC4295571/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Mayo Clinic : symptômes et causes des crises du lobe temporal](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Illman et ses collègues, Epilepsy Research and Treatment (2012) : expériences de déjà-vu dans l’épilepsie temporale](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[American Psychological Association : Chris Moulin sur le déjà-vu, le jamais-vu et la mémoire](https://www.apa.org/news/podcasts/speaking-of-psychology/deja-vu)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Curot et ses collègues, Brain Stimulation (2018) : déjà-rêvé et stimulation électrique cérébrale](https://cerco.cnrs.fr/wp-content/uploads/2019/04/curot_j_18_1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cleary et Claxton, Psychological Science (2018) : le déjà-vu, une illusion de prédiction](https://journals.sagepub.com/doi/abs/10.1177/0956797617743018)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS : épilepsie, symptômes et situations nécessitant de l’aide](https://www.nhs.uk/conditions/epilepsy/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Alan S. Brown, Psychological Bulletin (2003) : synthèse des recherches sur l’expérience de déjà-vu",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12784936/"
+    },
+    {
+      "label": "Hadzic et Andersson, Frontiers in Neurology (2024) : revue systématique et méta-analyse du déjà-vu",
+      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full"
+    },
+    {
+      "label": "Anne M. Cleary, Current Directions in Psychological Science (2008) : mémoire de reconnaissance, familiarité et déjà-vu",
+      "url": "https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x"
+    },
+    {
+      "label": "Ranganath et Ritchey, Nature Reviews Neuroscience (2012) : deux systèmes corticaux pour les comportements guidés par la mémoire",
+      "url": "https://www.nature.com/articles/nrn3338"
+    },
+    {
+      "label": "Diana, Yonelinas et Ranganath (2007) : imagerie de la remémoration et de la familiarité dans le lobe temporal médial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17707683/"
+    },
+    {
+      "label": "Cleary et ses collègues, Consciousness and Cognition (2012) : réalité virtuelle, configuration spatiale et déjà-vu",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1053810012000049"
+    },
+    {
+      "label": "Cleary, Ryals et Nomi (2009) : mise à l’épreuve de l’hypothèse de similarité du déjà-vu",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19966259/"
+    },
+    {
+      "label": "Brown et Marsh (2009) : créer des illusions de rencontre antérieure par une exposition brève",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19492436/"
+    },
+    {
+      "label": "Brown et Marsh (2010) : recherches récentes sur les mécanismes possibles du déjà-vu",
+      "url": "https://scholars.duke.edu/publication/867236"
+    },
+    {
+      "label": "Urquhart et ses collègues (2018) : indices en IRMf d’un conflit mnésique dans le déjà-vu",
+      "url": "https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf"
+    },
+    {
+      "label": "Bartolomei et ses collègues, Clinical Neurophysiology (2012) : interactions rhinales et hippocampiques pendant le déjà-vu",
+      "url": "https://www.sciencedirect.com/science/article/pii/S138824571100561X"
+    },
+    {
+      "label": "O’Connor et Moulin, Frontiers in Psychology (2013) : fréquence du déjà-vu et performances mnésiques en laboratoire",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00881/full"
+    },
+    {
+      "label": "Cleveland Clinic : comprendre le déjà-vu et savoir quand consulter",
+      "url": "https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern"
+    },
+    {
+      "label": "Wells et ses collègues, Journal of Medical Case Reports (2014) : déjà-vu psychogène persistant",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4295571/"
+    },
+    {
+      "label": "Mayo Clinic : symptômes et causes des crises du lobe temporal",
+      "url": "https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214"
+    },
+    {
+      "label": "Illman et ses collègues, Epilepsy Research and Treatment (2012) : expériences de déjà-vu dans l’épilepsie temporale",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/"
+    },
+    {
+      "label": "American Psychological Association : Chris Moulin sur le déjà-vu, le jamais-vu et la mémoire",
+      "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/deja-vu"
+    },
+    {
+      "label": "Curot et ses collègues, Brain Stimulation (2018) : déjà-rêvé et stimulation électrique cérébrale",
+      "url": "https://cerco.cnrs.fr/wp-content/uploads/2019/04/curot_j_18_1.pdf"
+    },
+    {
+      "label": "Cleary et Claxton, Psychological Science (2018) : le déjà-vu, une illusion de prédiction",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797617743018"
+    },
+    {
+      "label": "NHS : épilepsie, symptômes et situations nécessitant de l’aide",
+      "url": "https://www.nhs.uk/conditions/epilepsy/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "De quoi parle cet article de PRESDA ?",
+      "answer": "Un instant nouveau semble soudain appartenir à vos souvenirs. Ce que la familiarité, les expériences sur la mémoire et les neurosciences révèlent du déjà-vu, et ce qui reste incertain."
+    },
+    {
+      "question": "À quelle rubrique appartient cet article ?",
+      "answer": "Cet article appartient à la rubrique Science de PRESDA."
+    },
+    {
+      "question": "Qui a publié cet article ?",
+      "answer": "L’article « DÉJÀ-VU : POURQUOI CETTE IMPRESSION ? CE QU’EXPLIQUENT LES NEUROSCIENCES » a été publié par PRESDA Editorial sur PRESDA."
+    }
+  ]
+}

@@ -86,5 +86,43 @@
       "91": "[Yves Modéran, Encyclopédie berbère (2008): Koceila](https://journals.openedition.org/encyclopedieberbere/101)",
       "92": "[Yves Modéran, Encyclopédie berbère (2005): Kahena](https://journals.openedition.org/encyclopedieberbere/1306)"
     }
+  },
+  {
+    "slug": "charles-darwin-theory-of-evolution",
+    "locales": [
+      "fr",
+      "es"
+    ],
+    "reason": "Established personal name is identical in French, Spanish and English.",
+    "blocks": {
+      "33": "Alfred Russel Wallace"
+    }
+  },
+  {
+    "slug": "petra-nabataeans-desert-city-jordan-history",
+    "locales": [
+      "fr"
+    ],
+    "reason": "SOURCES is the correct French section heading as well as the English heading.",
+    "blocks": {
+      "75": "SOURCES"
+    }
+  },
+  {
+    "slug": "magic-paranormal-james-randi",
+    "locales": [
+      "fr",
+      "es"
+    ],
+    "reason": "Established personal name is identical in French, Spanish and English.",
+    "blocks": {
+      "101": "James Randi."
+    }
+  },
+  {
+    "slug": "magic-paranormal-james-randi",
+    "locales": ["es"],
+    "reason": "The standalone answer No. and the noun Eclipses. are identical in Spanish and English.",
+    "blocks": {"143": "No.", "218": "Eclipses."}
   }
 ]

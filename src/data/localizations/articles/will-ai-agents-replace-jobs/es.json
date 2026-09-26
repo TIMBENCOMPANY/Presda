@@ -1,0 +1,277 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/will-ai-agents-replace-jobs/",
+  "path": "/es/articles/will-ai-agents-replace-jobs/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "¿Los agentes de IA sustituirán empleos? Qué está pasando en 2026",
+  "excerpt": "Los agentes de IA están transformando el trabajo en 2026, pero el cambio tiene menos que ver con una sustitución inmediata de empleos que con las tareas, las competencias, la supervisión y la reorganización del trabajo.",
+  "headlineHighlights": {
+    "red": "agentes de IA",
+    "gold": "2026"
+  },
+  "seoTitle": "¿Los agentes de IA sustituirán empleos en 2026?",
+  "description": "Cómo están cambiando el trabajo los agentes de IA en 2026: tareas más expuestas, empleos afectados, nuevas competencias, límites y supervisión humana.",
+  "keywords": [
+    "agentes de IA y empleo",
+    "IA sustituirá empleos 2026",
+    "trabajos afectados por la inteligencia artificial",
+    "futuro del trabajo con IA"
+  ],
+  "searchIntent": "Entender qué tareas y empleos están más expuestos a los agentes de IA y cómo prepararse, distinguiendo automatización de tareas y desaparición de puestos.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-01",
+  "updatedAt": "2026-09-01",
+  "image": {
+    "src": "/images/articles/ai-agents-jobs-2026.webp",
+    "alt": "Trabajador sentado junto a un robot humanoide en una oficina moderna, como representación de los agentes de IA y el futuro del trabajo"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "¿Los agentes de IA sustituirán empleos en 2026? Una respuesta honesta exige más precisión que un sí o un no. Los agentes de IA ya están cambiando cómo investigamos, escribimos, programamos, analizamos documentos, atendemos solicitudes de clientes y gestionamos tareas digitales rutinarias. Pero las pruebas más sólidas apuntan primero a una transformación de las tareas, no a la desaparición inmediata de profesiones enteras."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción importa a trabajadores, empleadores y responsables de políticas públicas. Un puesto suele reunir un conjunto de tareas: comunicación, criterio, administración rutinaria, análisis, coordinación, ética, responsabilidad y desarrollo de relaciones. Los agentes de IA ya pueden realizar algunas con una rapidez impresionante, pero siguen necesitando objetivos claros, buenos datos, revisión humana y una implantación responsable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta guía de PRESDA explica qué está pasando realmente con la sustitución de empleos por IA en 2026: qué tareas están más expuestas, en qué trabajos es más probable que la IA ayude en lugar de sustituir, qué nuevas competencias están surgiendo y por qué sigue siendo esencial la responsabilidad humana. Para ampliar el contexto, lee nuestra [cobertura de los modelos de OpenAI](/articles/openai-next-gen-model/), el análisis de la [IA en el cuidado de mayores en Japón](/articles/japan-enters-ai-care-era/) y nuestra [sección de IA](/category/ai/)."
+    },
+    {
+      "type": "heading",
+      "text": "La respuesta breve: los agentes de IA sustituyen tareas antes que empleos completos"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tendencia más clara de 2026 es que los agentes de IA automatizan partes del trabajo antes de sustituir puestos completos. La investigación actualizada de la Organización Internacional del Trabajo sobre la exposición a la IA generativa analiza el trabajo por tareas, que es la perspectiva adecuada para este asunto. La exposición significa que una tecnología puede afectar a partes de una ocupación; no implica automáticamente que cada trabajador expuesto pierda su empleo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estudios de la OCDE sobre inteligencia artificial y mercados laborales plantean algo parecido. La IA puede aumentar la productividad y mejorar algunas condiciones laborales, pero también genera riesgos relacionados con la automatización, la privacidad, la transparencia, los sesgos y la capacidad de decisión de los trabajadores. Una exposición elevada debe interpretarse como una señal para reorganizar puestos, formar a las personas y establecer reglas de gestión, no como una simple previsión de despidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para los empleados, la conclusión práctica es esta: identifica qué partes de tu jornada son repetitivas, siguen reglas o exigen trabajar mucho con documentos, lenguaje o datos. Esas tareas tienen más probabilidades de cambiar primero con los agentes de IA. El valor humano que las rodea a menudo aumenta: decidir qué importa, comprobar los resultados, tratar con las personas y asumir responsabilidades."
+    },
+    {
+      "type": "heading",
+      "text": "Qué se entiende por agente de IA en 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un agente de IA es algo más que un chatbot que responde a una instrucción. En el entorno laboral, la expresión suele referirse a un sistema de IA que puede perseguir un objetivo, dividirlo en pasos, utilizar herramientas, recuperar información, elaborar resultados y, a veces, ejecutar acciones en distintos programas. Un agente de atención al cliente podría resumir un caso y sugerir una respuesta. Uno de programación podría examinar archivos y proponer cambios. Uno de investigación podría reunir documentos, comparar afirmaciones y preparar un informe."
+    },
+    {
+      "type": "paragraph",
+      "text": "La palabra clave es apoyo. Muchos agentes de IA siguen cometiendo errores, pasando por alto el contexto o dando respuestas incompletas con aparente seguridad. Su utilidad depende del acceso a datos fiables, de tareas bien delimitadas, de controles de seguridad y de la revisión humana. En los sectores regulados, la persona o la organización que utiliza el sistema sigue siendo responsable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, la conversación sobre los agentes de IA y el futuro del trabajo debe evitar la exageración. Los agentes son herramientas potentes para los procesos de trabajo. No son empleados mágicos. Las mejores implantaciones los tratan como sistemas que necesitan supervisión, evaluación y límites."
+    },
+    {
+      "type": "heading",
+      "text": "Los empleos y las tareas más afectados por la IA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los empleos afectados por la IA suelen ser aquellos que reúnen una proporción elevada de tareas digitales, repetibles o basadas en el lenguaje. El trabajo administrativo y de oficina está especialmente expuesto porque muchas tareas implican registros, formularios, agendas, resúmenes, clasificación, correos, informes y gestión documental. Las investigaciones de la OIT sobre IA generativa han situado repetidamente las ocupaciones administrativas entre las categorías más expuestas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La atención al cliente es otro ámbito importante. Los agentes de IA pueden clasificar solicitudes, sugerir respuestas, resumir el historial de una cuenta, traducir mensajes y derivar peticiones. Eso puede reducir el trabajo repetitivo, pero las reclamaciones difíciles, los casos delicados y la atención basada en la relación personal siguen requiriendo criterio humano."
+    },
+    {
+      "type": "paragraph",
+      "text": "El marketing, la comunicación y la gestión de contenidos también están cambiando. Los sistemas de IA pueden redactar textos para campañas, crear esquemas, adaptar textos a distintos canales, resumir comentarios del público y generar variantes. El riesgo no es solo la sustitución: también lo es la pérdida de calidad si los equipos publican sin editar, comprobar fuentes ni aplicar criterio de marca."
+    },
+    {
+      "type": "paragraph",
+      "text": "El desarrollo de software se está transformando tarea por tarea. Las herramientas de programación con IA pueden sugerir código, escribir pruebas, explicar errores, refactorizar fragmentos pequeños y consultar documentación. Pero la ingeniería de sistemas en producción sigue dependiendo de la arquitectura, la seguridad, la facilidad de mantenimiento, la comprensión del producto y una revisión cuidadosa. Ganan valor los desarrolladores capaces de definir bien los problemas y verificar el trabajo realizado con ayuda de IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las profesiones jurídicas, financieras, de consultoría y de investigación afrontan presiones parecidas en la revisión documental, los primeros borradores, los resúmenes, las comparaciones y la extracción de datos. Estas tareas pueden acelerarse. La obligación profesional de verificar, interpretar y asesorar no desaparece."
+    },
+    {
+      "type": "heading",
+      "text": "Ejemplos reales de 2026 que conviene observar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ejemplos más visibles de 2026 no son empresas completamente automatizadas. Son cambios en los procesos de organizaciones existentes. Los equipos de atención al cliente utilizan asistentes de IA para resumir casos y redactar respuestas. Los desarrolladores los emplean para agilizar la depuración y la documentación. Los analistas recurren a herramientas de IA para resumir informes largos, identificar temas y preparar notas preliminares de investigación."
+    },
+    {
+      "type": "paragraph",
+      "text": "La sanidad y los cuidados muestran la importancia de distinguir. En Japón, por ejemplo, la tecnología asistencial incluye sistemas de seguimiento, dispositivos de apoyo y robots, pero su objetivo es ayudar en tareas concretas, no sustituir el cuidado humano. El artículo de PRESDA sobre la [IA en el cuidado de mayores en Japón](/articles/japan-enters-ai-care-era/) explica por qué no conviene presentar programas, sensores y robots como si fueran una sola y sencilla historia sobre IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las instituciones públicas y los empleadores también están probando la IA para procesar documentos, traducir, apoyar a recursos humanos, impartir formación, facilitar búsquedas internas y mejorar la accesibilidad. Estos ejemplos importan porque muestran la tendencia a corto plazo: los agentes de IA entran a través de tareas que se pueden medir, revisar y delimitar."
+    },
+    {
+      "type": "heading",
+      "text": "Trabajos en los que es más probable que la IA ayude que sustituya"
+    },
+    {
+      "type": "paragraph",
+      "text": "En muchos empleos es más probable recibir apoyo de la IA que ser sustituido por ella, porque dependen de la presencia física, la inteligencia emocional, la responsabilidad o un criterio complejo aplicado al mundo real. Personal de enfermería y cuidados, docentes, profesionales de oficios especializados, equipos de emergencias, terapeutas, directivos, editores, abogados, médicos y periodistas pueden utilizar herramientas de IA, pero el componente humano sigue siendo central."
+    },
+    {
+      "type": "paragraph",
+      "text": "La enseñanza es un buen ejemplo. La IA puede ayudar a preparar materiales, generar ejercicios o resumir el progreso del alumnado, pero no puede sustituir la confianza en el aula, la motivación, la protección de los estudiantes, el acompañamiento ni el criterio del docente sobre las necesidades de cada alumno."
+    },
+    {
+      "type": "paragraph",
+      "text": "El periodismo es otro ejemplo. La IA puede agilizar transcripciones, organizar investigaciones y traducir, pero no sustituye el rigor informativo, la evaluación de fuentes, la responsabilidad editorial ni la decisión de no publicar algo que no se puede verificar."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la dirección y la gestión, la IA puede ayudar a analizar datos o redactar planes, pero la responsabilidad sigue siendo humana. Alguien tiene que decidir, comunicar, negociar, motivar y responder cuando una decisión afecta a las personas."
+    },
+    {
+      "type": "heading",
+      "text": "Nuevas competencias y empleos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El auge de los agentes de IA está generando demanda de trabajadores que combinen conocimientos de su sector con soltura en el uso de IA. La competencia más valiosa no consiste simplemente en redactar instrucciones. Consiste en saber rediseñar un proceso de trabajo, definir qué sería un buen resultado, comprobar las respuestas, proteger los datos y reconocer cuándo debe detenerse la automatización."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre los nuevos perfiles están el diseñador de procesos con IA, el operador de agentes, el evaluador de calidad de IA, el analista de riesgos de modelos, el especialista en calidad de datos, el responsable de producto de automatización, el responsable de gobernanza de IA y el revisor humano integrado en el proceso. Algunos nombres cambiarán, pero el trabajo que describen es real: conseguir que los sistemas de IA sean útiles, fiables y seguros dentro de las organizaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los trabajadores necesitan convertirse en ingenieros de aprendizaje automático. Las investigaciones de la OCDE sobre los cambios en la demanda de competencias señalan que muchos trabajadores expuestos a la IA necesitarán adaptar sus habilidades para las tareas, no adquirir conocimientos especializados de investigación en IA. Eso implica mejorar el criterio digital, la comprensión de los datos, los hábitos de verificación, la comunicación y la seguridad para utilizar herramientas sin confiar ciegamente en ellas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para quienes siguen la actualidad empresarial, esto conecta directamente con las empresas que construyen y compran infraestructura de IA. La cobertura de PRESDA sobre las [empresas más valiosas del mundo en 2026](/articles/worlds-most-valuable-companies-in-2026/) muestra cómo la IA influye en el liderazgo de mercado, las expectativas de inversión y la estrategia corporativa."
+    },
+    {
+      "type": "heading",
+      "text": "Limitaciones que siguen siendo importantes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los agentes de IA conservan limitaciones relevantes para el empleo. Pueden inventar información, interpretar mal el contexto, reproducir sesgos, filtrar datos sensibles, seguir demasiado literalmente una instrucción mal diseñada o fallar cuando cambia la situación. Pueden rendir bien en una demostración y mal en un entorno laboral desordenado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La seguridad es una preocupación importante. Un agente de IA con acceso al correo, a documentos, a bases de datos o a sistemas empresariales puede generar riesgos nuevos si sus permisos son demasiado amplios. Los empleadores necesitan controles claros sobre lo que los agentes pueden leer, escribir, enviar, borrar o aprobar."
+    },
+    {
+      "type": "paragraph",
+      "text": "También hay un problema de responsabilidad. Si una recomendación generada por IA perjudica a un cliente, un trabajador o un paciente, no se puede trasladar la responsabilidad al modelo. El marco de gestión de riesgos de IA del NIST resulta útil porque entiende la IA fiable como algo que las organizaciones deben diseñar, gobernar, medir y gestionar."
+    },
+    {
+      "type": "paragraph",
+      "text": "La limitación social es igual de importante. Los trabajadores pueden rechazar los sistemas de IA si se introducen como herramientas de vigilancia, recorte de costes o toma de decisiones opaca. La adopción funciona mejor cuando los empleados comprenden el sistema, participan en el diseño de los procesos y pueden cuestionar resultados incorrectos."
+    },
+    {
+      "type": "heading",
+      "text": "Qué pueden hacer ahora los trabajadores"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mejor respuesta es práctica. Primero, identifica tus tareas. ¿Cuáles consisten en resumir, redactar, programar citas, dar formato, buscar, programar código, traducir, clasificar o comparar información? Es probable que los agentes de IA entren primero por ahí."
+    },
+    {
+      "type": "paragraph",
+      "text": "Segundo, aprende a verificar los resultados de la IA. Trata una respuesta como un borrador o una ayuda, no como una autoridad. Comprueba las fuentes, examina los supuestos, prueba el código, revisa los cálculos y evita introducir datos sensibles en herramientas que no estén autorizadas para manejarlos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tercero, profundiza en las habilidades humanas que hacen útil la automatización: conocimientos especializados, criterio, comunicación, creatividad, ética, negociación y liderazgo. La IA puede producir opciones rápidamente. No puede decidir lo que debería hacer una persona responsable en todos los contextos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por último, presta atención a la política de IA de tu empleador. Las buenas organizaciones invertirán en formación, transparencia y participación de los trabajadores. Las implantaciones deficientes se limitarán a introducir herramientas en los procesos sin apoyo suficiente."
+    },
+    {
+      "type": "heading",
+      "text": "Perspectivas de futuro"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es probable que el futuro del trabajo con agentes de IA sea desigual. Algunos puestos se reducirán allí donde la mayoría de las tareas sean rutinarias, digitales y fáciles de evaluar. Otros serán más productivos. Aparecerán nuevos empleos relacionados con operaciones de IA, gobernanza, evaluación, calidad de datos, seguridad y diseño de procesos. El resultado dependerá de la tecnología, la regulación, la formación, el poder de negociación y las decisiones de gestión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estudios sobre el futuro del empleo del Foro Económico Mundial destacan que los empleadores esperan que la tecnología y la IA transformen las competencias y la planificación de plantillas durante la segunda mitad de la década. El AI Index de Stanford también muestra que la adopción de IA y la inversión en ella han pasado de los laboratorios de investigación al centro de la conversación empresarial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que todos los trabajadores deban entrar en pánico. Significa que todos deberían prepararse. Quienes están mejor situados en 2026 son quienes conocen a fondo su campo, utilizan con cuidado las herramientas de IA, verifican los resultados y saben reorganizar el trabajo en torno al criterio humano en lugar del esfuerzo repetitivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces, ¿los agentes de IA sustituirán empleos? En algunos casos contribuirán a la pérdida de puestos o a la reducción de equipos, sobre todo cuando las tareas sean muy automatizables. En muchos más, cambiarán en qué consiste el trabajo. La verdadera pregunta sobre el futuro laboral no es si la IA puede realizar una tarea. Es si las organizaciones la utilizan para apartar a las personas del trabajo o para hacer que el trabajo humano sea más específico, cualificado y valioso."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Organización Internacional del Trabajo: IA generativa y empleo, índice global actualizado de exposición ocupacional",
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure"
+    },
+    {
+      "label": "OCDE: IA y trabajo",
+      "url": "https://www.oecd.org/en/topics/ai-and-work.html"
+    },
+    {
+      "label": "OCDE: inteligencia artificial y cambios en la demanda de competencias en el mercado laboral",
+      "url": "https://www.oecd.org/en/publications/artificial-intelligence-and-the-changing-demand-for-skills-in-the-labour-market_88684e36-en.html"
+    },
+    {
+      "label": "Foro Económico Mundial: informe sobre el futuro del empleo 2025",
+      "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/"
+    },
+    {
+      "label": "NIST: marco de gestión de riesgos de la IA",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+    },
+    {
+      "label": "Stanford HAI: informe AI Index 2025",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report"
+    },
+    {
+      "label": "Oficina de Estadísticas Laborales de Estados Unidos: manual de perspectivas ocupacionales",
+      "url": "https://www.bls.gov/ooh/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Los agentes de IA sustituirán empleos en 2026?",
+      "answer": "En 2026 es más probable que los agentes de IA sustituyan o transformen tareas concretas que empleos completos. Algunos puestos digitales muy rutinarios pueden sufrir presión, pero muchas ocupaciones se reorganizarán en torno a la revisión, el criterio y la responsabilidad humanos."
+    },
+    {
+      "question": "¿Qué trabajos están más afectados por los agentes de IA?",
+      "answer": "Los empleos con muchas tareas digitales, lingüísticas o repetitivas son los más expuestos. Entre ellos están el trabajo administrativo, la atención al cliente, la gestión de contenidos, la revisión documental, el apoyo a la investigación, la elaboración de informes y algunas tareas de desarrollo de software."
+    },
+    {
+      "question": "¿En qué se diferencian los agentes de IA de los chatbots?",
+      "answer": "Un chatbot suele responder dentro de una conversación. Un agente de IA puede perseguir un objetivo en varios pasos, utilizar herramientas, recuperar información, elaborar resultados y, a veces, ejecutar acciones dentro de sistemas informáticos."
+    },
+    {
+      "question": "¿En qué empleos es más probable que la IA ayude que sustituya?",
+      "answer": "Es más probable que la IA apoye trabajos que exigen presencia física, inteligencia emocional, criterio profesional o responsabilidad, como la enseñanza, la enfermería, los oficios especializados, la gestión, el periodismo, el derecho, la medicina y los cuidados."
+    },
+    {
+      "question": "¿Qué competencias ayudan a los trabajadores ante el crecimiento de los agentes de IA?",
+      "answer": "Son útiles la soltura con las herramientas de IA, la comprobación de fuentes, la comprensión de los datos, el diseño de procesos, la comunicación, el conocimiento especializado, la atención a la privacidad y la capacidad de evaluar los resultados de la IA sin aceptarlos automáticamente."
+    },
+    {
+      "question": "¿Pueden los empleadores utilizar agentes de IA de forma segura?",
+      "answer": "Sí, pero el uso seguro requiere gobernanza. Los empleadores necesitan límites claros en los permisos, protección de la privacidad, controles de seguridad, revisión humana, formación y un procedimiento para cuestionar resultados incorrectos o sesgados."
+    }
+  ]
+}

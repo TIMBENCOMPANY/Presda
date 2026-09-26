@@ -1,0 +1,230 @@
+{
+  "period": {
+    "start": "2026-08-26",
+    "end": "2026-09-23"
+  },
+  "source": "Google Search Console sc-domain:presda.com",
+  "method": "Untranslated canonical English articles ranked by clicks then impressions",
+  "articles": [
+    {
+      "priority": 1,
+      "slug": "charles-darwin-theory-of-evolution",
+      "title": "CHARLES DARWIN: THE THEORY THAT CHANGED HOW WE UNDERSTAND LIFE",
+      "englishPath": "/articles/charles-darwin-theory-of-evolution/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 2,
+      "slug": "nobel-prize-history-winners-discoveries",
+      "title": "THE NOBEL PRIZE: THE PEOPLE AND DISCOVERIES THAT CHANGED THE WORLD",
+      "englishPath": "/articles/nobel-prize-history-winners-discoveries/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 3,
+      "slug": "why-do-we-dream",
+      "title": "Why Do We Dream? The Science Behind the Sleeping Mind",
+      "englishPath": "/articles/why-do-we-dream/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 4,
+      "slug": "roman-empire-power-luxury-life-ancient-rome",
+      "title": "ROMAN EMPIRE: POWER, LUXURY AND LIFE INSIDE ANCIENT ROME",
+      "englishPath": "/articles/roman-empire-power-luxury-life-ancient-rome/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 5,
+      "slug": "will-ai-agents-replace-jobs",
+      "title": "Will AI Agents Replace Jobs? What Is Actually Happening in 2026",
+      "englishPath": "/articles/will-ai-agents-replace-jobs/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 6,
+      "slug": "natural-disasters-earthquakes-volcanoes-tsunamis",
+      "title": "NATURAL DISASTERS: WHY EARTHQUAKES, VOLCANOES AND TSUNAMIS HAPPEN",
+      "englishPath": "/articles/natural-disasters-earthquakes-volcanoes-tsunamis/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 7,
+      "slug": "world-cup-2026-countdown",
+      "title": "FIFA World Cup 2026: Records, Statistics & Economic Impact",
+      "englishPath": "/articles/world-cup-2026-countdown/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 8,
+      "slug": "petra-nabataeans-desert-city-jordan-history",
+      "title": "PETRA: HOW THE NABATAEANS BUILT A CITY IN THE DESERT",
+      "englishPath": "/articles/petra-nabataeans-desert-city-jordan-history/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 9,
+      "slug": "japan-enters-ai-care-era",
+      "title": "AI Elderly Care In Japan: Robots, Monitoring And Human Care",
+      "englishPath": "/articles/japan-enters-ai-care-era/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 10,
+      "slug": "jon-snow-backs-morocco",
+      "title": "Jon Snow Morocco: Kit Harington's World Cup 2026 Support Explained",
+      "englishPath": "/articles/jon-snow-backs-morocco/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 11,
+      "slug": "native-americans-history-indigenous-peoples",
+      "title": "NATIVE AMERICANS: THE CIVILIZATIONS THAT EXISTED BEFORE THE UNITED STATES",
+      "englishPath": "/articles/native-americans-history-indigenous-peoples/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 12,
+      "slug": "us-china-ai-race-control-powerful-technology",
+      "title": "AI RACE: CHINA VS AMERICA FOR CONTROL OF THE WORLD'S MOST POWERFUL TECHNOLOGY",
+      "englishPath": "/articles/us-china-ai-race-control-powerful-technology/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 13,
+      "slug": "deja-vu-why-does-it-happen-brain-science",
+      "title": "DEJA VU: WHY DOES IT HAPPEN? THE BRAIN SCIENCE EXPLAINED",
+      "englishPath": "/articles/deja-vu-why-does-it-happen-brain-science/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 14,
+      "slug": "epstein-island-little-st-james-investigation",
+      "title": "EPSTEIN ISLAND: WHAT REALLY HAPPENED ON LITTLE ST. JAMES?",
+      "englishPath": "/articles/epstein-island-little-st-james-investigation/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 15,
+      "slug": "house-music-brain-rhythm-128-bpm-science-dancing",
+      "title": "HOUSE MUSIC: WHY DOES A BEAT MAKE YOUR BODY MOVE?",
+      "englishPath": "/articles/house-music-brain-rhythm-128-bpm-science-dancing/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 16,
+      "slug": "how-humans-learned-to-speak",
+      "title": "LANGUAGE: HOW DID HUMANS LEARN TO SPEAK?",
+      "englishPath": "/articles/how-humans-learned-to-speak/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 17,
+      "slug": "magic-paranormal-james-randi",
+      "title": "MAGIC AND THE PARANORMAL: CAN SUPERNATURAL POWERS BE PROVEN?",
+      "englishPath": "/articles/magic-paranormal-james-randi/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 18,
+      "slug": "top-10-hidden-gems-to-visit-in-2026",
+      "title": "Hidden Gems To Visit In 2026: 10 Unique Travel Destinations",
+      "englishPath": "/articles/top-10-hidden-gems-to-visit-in-2026/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 19,
+      "slug": "domain-investing-premium-domain-sales",
+      "title": "DOMAIN INVESTING: WHY CAN A $10 NAME SELL FOR MILLIONS?",
+      "englishPath": "/articles/domain-investing-premium-domain-sales/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 20,
+      "slug": "the-brands-behind-world-cup-2026",
+      "title": "World Cup 2026 Sponsors: The Official Brands Behind FIFA's Biggest Stage",
+      "englishPath": "/articles/the-brands-behind-world-cup-2026/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    }
+  ]
+}

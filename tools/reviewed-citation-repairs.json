@@ -47,5 +47,89 @@
     "replacement": "https://www.pony.ai/press?lang=en",
     "reason": "Working official Pony.ai English press archive for the same company-news reference.",
     "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "charles-darwin-theory-of-evolution",
+    "original": "https://www.nhm.ac.uk/discover/charles-darwin-theory-evolution-natural-selection.html",
+    "replacement": "https://www.nhm.ac.uk/discover/charles-darwin-most-famous-biologist.html",
+    "reason": "Museum biography covers Darwin's life and theory; subject-equivalent same-publisher replacement for broken path.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "charles-darwin-theory-of-evolution",
+    "original": "https://www.darwinproject.ac.uk/commentary/life-sciences/beagle-voyage",
+    "replacement": "https://www.darwinproject.ac.uk/commentary/voyage-hms-beagle",
+    "reason": "Working Darwin Correspondence Project overview of the same Beagle voyage.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "charles-darwin-theory-of-evolution",
+    "original": "https://www.darwinproject.ac.uk/charles-darwin-a-biography",
+    "replacement": "https://www.darwinproject.ac.uk/about-darwin",
+    "reason": "Working project biography supports the original biographical citation.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "charles-darwin-theory-of-evolution",
+    "original": "https://royalsociety.org/news-resources/projects/evolution/darwin-wallace/",
+    "replacement": "https://catalogues.royalsociety.org/calmview/Record.aspx?id=MC%2F23%2F259&src=CalmView.Catalog",
+    "reason": "Royal Society archival record documents the joint Darwin-Wallace paper and its 1908 commemoration. Same-publisher primary-source replacement with accurate localized label.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "nobel-prize-history-winners-discoveries",
+    "original": "https://www.nobelprize.org/alfred-nobel/alfred-nobel-biographical/",
+    "replacement": "https://www.nobelprize.org/alfred-nobel/",
+    "reason": "Official Alfred Nobel biography and chronology replace obsolete biographical path.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "nobel-prize-history-winners-discoveries",
+    "original": "https://www.nobelprize.org/prizes/facts/marie-curie-facts/",
+    "replacement": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+    "reason": "Official Marie Curie facts page includes both her 1903 and 1911 prizes.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "nobel-prize-history-winners-discoveries",
+    "original": "https://www.nobelprize.org/uploads/2026/05/annual-review-2025.pdf",
+    "replacement": "https://www.nobelprize.org/uploads/2026/04/annual-review-2025.pdf",
+    "reason": "Exact 2025 Annual Review PDF linked by the Foundation reports page; correct upload month is April.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "native-americans-history-indigenous-peoples",
+    "original": "https://www.archives.gov/milestone-documents/indian-removal-act",
+    "replacement": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+    "reason": "National Archives primary document and contextual account of the 1830 Removal Act; related-record replacement, accurately relabeled.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "us-china-ai-race-control-powerful-technology",
+    "original": "https://www.whitehouse.gov/briefings-statements/2025/07/fact-sheet-president-donald-j-trump-unveils-americas-ai-action-plan/",
+    "replacement": "https://www.whitehouse.gov/releases/2025/07/white-house-unveils-americas-ai-action-plan/",
+    "reason": "Official announcement of the same July 2025 AI Action Plan at the working release URL.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "us-china-ai-race-control-powerful-technology",
+    "original": "https://www.bis.gov/ear",
+    "replacement": "https://www.bis.gov/regulations/ear",
+    "reason": "Same BIS Export Administration Regulations resource at its current regulations path.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "how-humans-learned-to-speak",
+    "original": "https://www.unesco.org/en/languages",
+    "replacement": "https://www.unesco.org/en/languages-education",
+    "reason": "Working UNESCO languages-in-education page includes linguistic diversity and endangered-language resources; same-publisher topic replacement.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "domain-investing-premium-domain-sales",
+    "original": "https://www.sec.gov/Archives/edgar/data/1050446/000119312519208674/d783325d10q.htm",
+    "replacement": "https://www.sec.gov/Archives/edgar/data/1050446/000156459019038406/mstr-10q_20190930.htm",
+    "reason": "MicroStrategy's filed September 2019 10-Q documents the same Voice.com sale and figures; corrected filing citation.",
+    "verifiedAt": "2026-09-26"
   }
 ]

@@ -1,0 +1,430 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/why-do-we-dream/",
+  "path": "/es/articles/why-do-we-dream/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "¿Por qué soñamos? La ciencia de la mente dormida",
+  "excerpt": "¿Por qué soñamos? Qué sabe la neurociencia sobre los sueños, el sueño REM, la memoria, las emociones, las pesadillas y las teorías que intentan explicar la mente dormida.",
+  "headlineHighlights": {
+    "red": "soñamos",
+    "gold": "mente dormida"
+  },
+  "seoTitle": "¿Por qué soñamos? Qué sabe la ciencia sobre los sueños",
+  "description": "Descubre qué sabe la ciencia sobre los sueños: sueño REM, memoria, emociones, pesadillas, sueños lúcidos y por qué todavía no hay una explicación definitiva.",
+  "keywords": [
+    "por qué soñamos",
+    "sueño REM",
+    "por qué olvidamos los sueños",
+    "sueños lúcidos",
+    "ciencia de los sueños"
+  ],
+  "searchIntent": "Comprender qué ocurre en el cerebro al soñar y distinguir las hipótesis científicas sobre los sueños de las interpretaciones y creencias sin demostrar.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-07",
+  "updatedAt": "2026-09-07",
+  "image": {
+    "src": "/images/articles/why-do-we-dream.jpg",
+    "alt": "Persona dormida junto a una visualización luminosa del cerebro que representa el sueño REM y la ciencia de los sueños"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Cada noche, el cerebro humano crea mundos que no existen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vemos a personas que quizá estén a miles de kilómetros. Regresamos a lugares de la infancia. Corremos, caemos, volamos, discutimos, escapamos y, a veces, vivimos situaciones que serían imposibles estando despiertos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después despertamos y, en cuestión de minutos, gran parte de todo aquello desaparece."
+    },
+    {
+      "type": "paragraph",
+      "text": "Soñar es una de las experiencias más familiares y, a la vez, más misteriosas de la vida humana. La ciencia ya puede observar con extraordinario detalle lo que ocurre en el cerebro dormido, pero una pregunta fundamental sigue siendo sorprendentemente difícil de responder: ¿por qué soñamos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para seguir explorando la ciencia en PRESDA, lee nuestras guías sobre [la ciencia del antienvejecimiento y la longevidad](/articles/anti-aging-can-we-slow-down-human-aging/) y [si los signos del zodiaco tienen respaldo científico](/articles/are-zodiac-signs-real-science-has-a-different-answer/)."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué es un sueño?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un sueño es una sucesión de pensamientos, imágenes, emociones y sensaciones que experimentamos mientras dormimos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Podemos soñar durante distintas fases del sueño, aunque los sueños vívidos y elaborados se asocian especialmente con el sueño de movimientos oculares rápidos, conocido como sueño REM."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante una noche normal, el cerebro pasa repetidamente por ciclos de sueño REM y no REM."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas fases no son periodos en los que el cerebro simplemente se apaga. Dormir implica patrones complejos y cambiantes de actividad cerebral."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué ocurre durante el sueño REM?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sueño REM debe su nombre a los movimientos rápidos de los ojos que se producen en esta fase."
+    },
+    {
+      "type": "paragraph",
+      "text": "La actividad cerebral se vuelve relativamente intensa, mientras la mayoría de los músculos esqueléticos quedan temporalmente inhibidos mediante un mecanismo conocido como atonía REM."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto ayuda a evitar que las personas reproduzcan físicamente lo que sucede en la mayoría de sus sueños."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los periodos REM suelen alargarse conforme avanza la noche. Esa es una de las razones por las que a menudo recordamos sueños vívidos al despertar por la mañana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el sueño REM y el hecho de soñar no son lo mismo. Las investigaciones muestran que también podemos soñar durante el sueño no REM."
+    },
+    {
+      "type": "heading",
+      "text": "Entonces, ¿por qué soñamos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No existe una única explicación científicamente demostrada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores han desarrollado, en cambio, varias teorías que se solapan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede que soñar ni siquiera tenga una sola función. Podría surgir de múltiples procesos que ocurren mientras el cerebro duerme."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre las posibilidades más estudiadas están el procesamiento de recuerdos, la regulación emocional, la simulación y el intento del cerebro de organizar la actividad que genera internamente."
+    },
+    {
+      "type": "heading",
+      "text": "Los sueños y la memoria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dormir desempeña un papel importante en la memoria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante el sueño, el cerebro procesa la información adquirida mientras estamos despiertos y contribuye a consolidar y reorganizar los recuerdos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sueños suelen contener fragmentos de experiencias recientes mezclados con recuerdos más antiguos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero rara vez son reproducciones exactas de lo vivido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona a la que vimos ayer puede aparecer en la casa de nuestra infancia. Una conversación reciente puede mezclarse con algo que ocurrió años atrás."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta extraña combinación quizá refleje cómo el cerebro dormido reactiva y reorganiza la información, en lugar de elaborar deliberadamente una historia coherente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos siguen investigando si soñar cumple por sí mismo una función esencial para la memoria o si los sueños son, en parte, una experiencia subjetiva que acompaña a procesos de memoria más amplios durante el sueño."
+    },
+    {
+      "type": "heading",
+      "text": "Los sueños y las emociones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sueños pueden tener una enorme intensidad emocional."
+    },
+    {
+      "type": "paragraph",
+      "text": "El miedo, la ansiedad, la felicidad, la vergüenza y el dolor por una pérdida pueden sentirse completamente reales mientras soñamos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las regiones cerebrales relacionadas con las emociones y la memoria siguen activas mientras dormimos. Esto ha llevado a los investigadores a estudiar si soñar contribuye al procesamiento emocional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las experiencias de la vigilia pueden reaparecer transformadas en los sueños, sobre todo cuando tienen una carga emocional importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, la idea de que todo sueño contiene un mensaje psicológico oculto no es un hecho científicamente establecido."
+    },
+    {
+      "type": "heading",
+      "text": "¿Por qué son tan extraños los sueños?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mientras soñamos, el cerebro no funciona exactamente como cuando estamos despiertos y conscientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las áreas y redes relacionadas con las emociones, las imágenes mentales y la memoria pueden estar muy activas, mientras que ciertos aspectos del control ejecutivo y del razonamiento crítico funcionan de otro modo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto podría ayudar a explicar una de las características más extrañas de los sueños: a menudo aceptamos sucesos imposibles sin cuestionarlos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un familiar fallecido puede estar vivo de repente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una ciudad puede transformarse en una escuela."
+    },
+    {
+      "type": "paragraph",
+      "text": "En un momento estamos en casa y, segundos después, en otro país."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cerebro que sueña puede construir una realidad convincente sin respetar las reglas habituales de la vida despierta."
+    },
+    {
+      "type": "heading",
+      "text": "¿Por qué olvidamos los sueños?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Soñamos mucho más de lo que recordamos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El recuerdo de un sueño puede desaparecer con enorme rapidez después de despertar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una posible razón es que las condiciones neuroquímicas y cognitivas que intervienen en la formación de recuerdos duraderos son diferentes durante el sueño."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despertarse durante un sueño, o poco después, también aumenta la probabilidad de recordarlo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso alguien puede recordar un sueño con gran viveza justo al abrir los ojos y tener dificultades para reconstruirlo más tarde esa misma mañana."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué causa las pesadillas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pesadillas son sueños vívidos y perturbadores asociados con emociones como el miedo, la ansiedad o la angustia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener pesadillas de vez en cuando es frecuente."
+    },
+    {
+      "type": "paragraph",
+      "text": "El estrés, las experiencias traumáticas, las alteraciones del sueño y algunos medicamentos pueden influir en su frecuencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pesadillas intensas y recurrentes también pueden acompañar a determinados trastornos del sueño o de salud mental y requerir una evaluación profesional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores han estudiado las pesadillas especialmente en relación con el trastorno por estrés postraumático, en el que los sueños angustiosos pueden volverse persistentes."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué son los sueños lúcidos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces una persona se da cuenta de que está soñando mientras el sueño todavía continúa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto se conoce como sueño lúcido."
+    },
+    {
+      "type": "paragraph",
+      "text": "En algunos sueños lúcidos, la persona puede influir en ciertos aspectos de la experiencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experimentos de laboratorio han aportado pruebas de que algunas personas que tienen sueños lúcidos pueden comunicarse con los investigadores durante el sueño REM mediante movimientos oculares acordados previamente y, en determinados experimentos, responder a preguntas sencillas sin despertarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sueños lúcidos ofrecen así a los científicos una vía poco habitual para estudiar la consciencia durante el sueño."
+    },
+    {
+      "type": "heading",
+      "text": "¿Pueden los sueños predecir el futuro?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No existen pruebas científicas fiables de que los sueños puedan predecir acontecimientos futuros por medios paranormales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los seres humanos tenemos una cantidad enorme de sueños, la mayoría de los cuales olvidamos."
+    },
+    {
+      "type": "paragraph",
+      "text": "De vez en cuando, un acontecimiento posterior puede parecerse a algo que recordamos haber soñado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La coincidencia, la memoria selectiva y la tendencia humana a detectar patrones con significado pueden hacer que estas experiencias parezcan extraordinarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no demuestra que haya viajado información del futuro al cerebro de una persona dormida."
+    },
+    {
+      "type": "heading",
+      "text": "Freud y el significado de los sueños"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sigmund Freud contribuyó a convertir los sueños en uno de los grandes temas de la psicología popular."
+    },
+    {
+      "type": "paragraph",
+      "text": "En La interpretación de los sueños, publicada en torno al cambio al siglo XX, Freud propuso que los sueños podían revelar deseos encubiertos y conflictos inconscientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus ideas tuvieron una enorme influencia cultural."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, la neurociencia moderna no considera las interpretaciones universales de los sueños de Freud como explicaciones científicas establecidas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy, la investigación sobre los sueños recurre cada vez más a laboratorios del sueño, neuroimagen, electrofisiología, experimentos cognitivos y estudios clínicos."
+    },
+    {
+      "type": "heading",
+      "text": "El misterio sigue sin resolverse"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia ha aprendido muchísimo sobre el sueño."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores pueden identificar sus fases, medir la actividad cerebral, estudiar la consolidación de la memoria e incluso interactuar experimentalmente con algunas personas que tienen sueños lúcidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, la función última de soñar sigue siendo objeto de debate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sueños podrían participar en el procesamiento de recuerdos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Podrían interactuar con la regulación emocional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Podrían simular experiencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "O podrían surgir, en parte, como la experiencia consciente de un cerebro que lleva a cabo varios procesos a la vez mientras duerme."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede que la respuesta termine siendo una combinación de estas ideas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada noche, miles de millones de cerebros humanos se desconectan del mundo exterior y empiezan a generar sus propias experiencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprendemos ese proceso mejor que nunca."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la sencilla pregunta de por qué soñamos sigue siendo uno de los misterios más fascinantes de la neurociencia."
+    }
+  ],
+  "sources": [
+    {
+      "label": "NIH / NINDS: conceptos básicos del cerebro y el sueño",
+      "url": "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep"
+    },
+    {
+      "label": "PubMed Central: sueño y consolidación de la memoria",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3768102/"
+    },
+    {
+      "label": "PubMed Central: los sueños y el cerebro",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2814941/"
+    },
+    {
+      "label": "Current Biology / PubMed Central: diálogo en tiempo real entre investigadores y personas que sueñan",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/"
+    },
+    {
+      "label": "Sleep Foundation: los sueños",
+      "url": "https://www.sleepfoundation.org/dreams"
+    },
+    {
+      "label": "Sleep Foundation: las pesadillas",
+      "url": "https://www.sleepfoundation.org/nightmares"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Por qué soñamos?",
+      "answer": "No existe una única respuesta demostrada. Los científicos estudian varias posibilidades que se solapan: el procesamiento de recuerdos, la regulación emocional, la simulación y la forma en que el cerebro organiza la actividad que genera internamente mientras dormimos."
+    },
+    {
+      "question": "¿Solo soñamos durante el sueño REM?",
+      "answer": "No. Los sueños vívidos y elaborados se asocian especialmente con el sueño REM, pero también podemos soñar durante el sueño no REM."
+    },
+    {
+      "question": "¿Por qué olvidamos los sueños tan rápido?",
+      "answer": "Las condiciones neuroquímicas y cognitivas del sueño difieren de las que intervienen en la memoria durante la vigilia. Despertarse durante un sueño o poco después aumenta la probabilidad de recordarlo."
+    },
+    {
+      "question": "¿Es normal tener pesadillas?",
+      "answer": "Tener pesadillas ocasionales es frecuente. Si son recurrentes o muy angustiosas, pueden estar relacionadas con el estrés, un trauma o alteraciones del sueño, y podría ser necesaria una evaluación por un profesional de la salud."
+    },
+    {
+      "question": "¿Qué es un sueño lúcido?",
+      "answer": "Un sueño lúcido ocurre cuando una persona reconoce que está soñando mientras el sueño continúa. Los experimentos de laboratorio han mostrado que es posible comunicarse con algunas personas que tienen sueños lúcidos durante el sueño REM."
+    },
+    {
+      "question": "¿Pueden los sueños predecir el futuro?",
+      "answer": "No existen pruebas científicas fiables de que los sueños predigan el futuro por medios paranormales. Las coincidencias, la memoria selectiva y el reconocimiento de patrones pueden hacer que un sueño parezca premonitorio."
+    }
+  ]
+}

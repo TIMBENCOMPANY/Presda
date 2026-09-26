@@ -1,0 +1,478 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/deja-vu-why-does-it-happen-brain-science/",
+  "path": "/es/articles/deja-vu-why-does-it-happen-brain-science/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "DÉJÀ VU: POR QUÉ OCURRE Y QUÉ DICE LA NEUROCIENCIA",
+  "excerpt": "Un momento nuevo parece de pronto un recuerdo. Descubre qué revelan la familiaridad, los experimentos de memoria y la neurociencia sobre el déjà vu, y qué sigue sin saberse.",
+  "headlineHighlights": {
+    "red": "DÉJÀ VU",
+    "gold": "NEUROCIENCIA"
+  },
+  "seoTitle": "Déjà vu: qué es, por qué ocurre y cómo lo explica la ciencia",
+  "description": "¿Por qué sentimos que ya vivimos algo nuevo? Explora la memoria, el cerebro y las investigaciones sobre el déjà vu, sus límites y cuándo consultar.",
+  "keywords": [
+    "qué es un déjà vu",
+    "por qué ocurre el déjà vu",
+    "déjà vu y memoria",
+    "familiaridad y recuerdo",
+    "déjà vu y epilepsia"
+  ],
+  "searchIntent": "Entender qué es el déjà vu y sus posibles mecanismos de memoria, diferenciar la sensación habitual de las experiencias clínicas y conocer los límites de la evidencia.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-20",
+  "updatedAt": "2026-09-20",
+  "image": {
+    "src": "/articles/dejavu-science-dream-brain-science.png",
+    "alt": "Ilustración artística de un hombre en un puente de una ciudad histórica, con una figura repetida que sugiere la extraña familiaridad del déjà vu"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Doblas una esquina en una ciudad que nunca has visitado. La luz sobre los edificios, una conversación al pasar y la disposición de la calle te resultan familiares de repente. Por un momento sientes que ya has estado allí. Sin embargo, sabes que no es así. Esa contradicción es lo que hace tan desconcertante el déjà vu."
+    },
+    {
+      "type": "paragraph",
+      "text": "La grafía francesa es déjà vu y significa «ya visto». En neurociencia y psicología suele describir una sensación breve de familiaridad con la experiencia presente, aunque esa familiaridad parezca injustificada. Es algo más concreto que recordar un lugar o reconocer un rostro. Lo extraño es el desacuerdo entre lo que sientes y lo que sabes. [Alan S. Brown, Psychological Bulletin (2003): revisión de la experiencia de déjà vu](https://pubmed.ncbi.nlm.nih.gov/12784936/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces, ¿por qué ocurre? No existe una explicación única demostrada para todos los episodios. Los experimentos apuntan a la familiaridad sin un recuerdo recuperable, las semejanzas inadvertidas entre experiencias y los conflictos al juzgar nuestros recuerdos. La investigación clínica también muestra que la actividad de una crisis epiléptica puede producir experiencias relacionadas. Estos hallazgos aportan información, pero no significan que el déjà vu habitual sea una crisis ni que la ciencia pueda identificar ya la causa de cada episodio fugaz."
+    },
+    {
+      "type": "heading",
+      "text": "¿Es frecuente el déjà vu?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una revisión sistemática publicada en Frontiers in Neurology en 2024 reunió 10 estudios con participantes sanos y estimó que el 74 % había experimentado déjà vu no relacionado con crisis epilépticas, con un intervalo de confianza del 95 % entre el 67 % y el 79 %. Es una estimación combinada de los estudios incluidos, no un censo mundial ni el porcentaje que lo experimenta cada año. Había diferencias importantes entre los estudios, por lo que el intervalo y las limitaciones importan tanto como la cifra principal. [Hadzic y Andersson, Frontiers in Neurology (2024): revisión sistemática y metaanálisis del déjà vu](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas experiencias suelen declararse más entre personas jóvenes y se vuelven menos frecuentes con la edad. La revisión de Brown de 2003 también identificó asociaciones con los viajes y el nivel educativo. Estos resultados no demuestran que viajar cause directamente déjà vu ni que experimentarlo diga algo sobre la inteligencia. Las personas difieren en lo que viven, cómo interpretan la sensación y qué recuerdan cuando se les pregunta después. [Alan S. Brown, Psychological Bulletin (2003): revisión de la experiencia de déjà vu](https://pubmed.ncbi.nlm.nih.gov/12784936/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay otra dificultad de medición: se pide a las personas que recuerden una sensación inusual de memoria. Quien nunca ha oído el término puede describirla de forma distinta a quien ha leído sobre ella. Las definiciones, la redacción del cuestionario y el periodo que se pide recordar pueden influir en la respuesta. Es razonable concluir que es frecuente; no lo es atribuirle una frecuencia universal perfectamente precisa. [Hadzic y Andersson, Frontiers in Neurology (2024): revisión sistemática y metaanálisis del déjà vu](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full)"
+    },
+    {
+      "type": "heading",
+      "text": "Familiaridad y rememoración no son lo mismo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagina reconocer una voz sin poder identificar a quién pertenece. Sientes familiaridad, pero no logras recuperar el episodio que la explicaría. Ahora imagina recordar una conversación con esa persona, incluido dónde estabais y qué ocurrió. Esa recuperación más rica de un acontecimiento es la rememoración. El reconocimiento puede apoyarse en ambas, y no siempre aparecen juntas. [Anne M. Cleary, Current Directions in Psychological Science (2008): reconocimiento, familiaridad y déjà vu](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta distinción permite estudiar el déjà vu sin recurrir a una vida anterior oculta. Una situación presente puede parecerse lo suficiente a algo almacenado en la memoria como para resultar familiar, mientras la experiencia previa sigue siendo inaccesible. Detectas una coincidencia, pero no encuentras su origen. Es una vía plausible hacia esa sensación, no una prueba de que cada episodio esconda un recuerdo coincidente olvidado. [Anne M. Cleary, Current Directions in Psychological Science (2008): reconocimiento, familiaridad y déjà vu](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El déjà vu añade algo a la familiaridad sin origen identificable: advertimos que esa familiaridad no encaja. No recordar el nombre de alguien a quien reconoces no es necesariamente un déjà vu. La experiencia se vuelve especialmente extraña cuando estás convencido de que la situación es nueva y, aun así, persiste la sensación de repetición. Ser consciente de esa discordancia es una de las razones por las que se estudia tanto la recuperación de recuerdos como la forma de evaluarlos."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué tiene que ver el hipocampo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El lóbulo temporal medial contiene estructuras esenciales para la memoria, entre ellas el hipocampo y regiones corticales próximas. El hipocampo ayuda a vincular los elementos de una experiencia: qué ocurrió, dónde y en qué contexto. La corteza perirrinal está estrechamente asociada a la familiaridad de los elementos individuales, mientras que las regiones parahipocampales contribuyen a la información contextual y de las escenas. Estas áreas trabajan dentro de redes más amplias. [Ranganath y Ritchey, Nature Reviews Neuroscience (2012): dos sistemas corticales para la conducta guiada por la memoria](https://www.nature.com/articles/nrn3338)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un modelo útil propone que la información sobre los elementos y el contexto converge en el hipocampo para facilitar la rememoración. Ayuda a explicar por qué sentir que algo es conocido puede ser distinto de recuperar el acontecimiento que permite conocerlo. Pero las funciones cerebrales no se reparten en compartimentos perfectamente separados. Distintos experimentos y teorías atribuyen funciones solapadas a estas estructuras, y el reconocimiento también implica regiones ajenas al lóbulo temporal. [Diana, Yonelinas y Ranganath (2007): imágenes de la rememoración y la familiaridad en el lóbulo temporal medial](https://pubmed.ncbi.nlm.nih.gov/17707683/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso resulta engañoso llamar al hipocampo «botón del déjà vu» o afirmar que un recuerdo simplemente se ha guardado en el cajón equivocado. La memoria es un proceso activo que implica información distribuida y juicios sobre ella. Distinguir entre lo familiar y lo nuevo puede volverse desconcertante incluso cuando la persona sabe perfectamente que la sensación la engaña."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué un lugar completamente nuevo puede resultar familiar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Piensa en el vestíbulo de un hotel: una escalera a la izquierda, un mostrador delante y un pasillo a la derecha. Su distribución podría parecerse a la de un edificio que visitaste hace mucho, aunque los colores, los muebles y su función sean distintos. Es un ejemplo ilustrativo de la hipótesis de similitud espacial: la disposición puede coincidir parcialmente aunque la escena sea nueva."
+    },
+    {
+      "type": "paragraph",
+      "text": "En una investigación con realidad virtual de 2012, Anne Cleary y sus colaboradores compararon escenas nuevas cuya configuración se parecía o no a la de otras vistas antes. Cuando los participantes no podían recordar la escena anterior, una distribución coincidente se asociaba con mayor familiaridad y más declaraciones de déjà vu. El experimento permitió medir uno de sus posibles ingredientes, en lugar de depender por completo de relatos retrospectivos. [Cleary y colaboradores, Consciousness and Cognition (2012): realidad virtual, configuración espacial y déjà vu](https://www.sciencedirect.com/science/article/pii/S1053810012000049)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Experimentos anteriores, publicados en 2009, también apoyaron la idea de que el parecido puede generar familiaridad cuando una persona no consigue recuperar la escena previa pertinente. Lo importante es la coincidencia parcial. Una situación nueva no necesita copiar exactamente otra antigua para que la memoria responda a sus rasgos compartidos. [Cleary, Ryals y Nomi (2009): prueba de la hipótesis de similitud del déjà vu](https://pubmed.ncbi.nlm.nih.gov/19966259/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos estudios no muestran que toda calle desconocida tenga una gemela arquitectónica olvidada. Ponen a prueba un mecanismo en condiciones controladas. Las experiencias reales combinan imágenes, sonidos, movimiento y expectativas, a menudo sin ningún registro de lo que ocurrió justo antes de la sensación. Un resultado de laboratorio puede demostrar una vía hacia el déjà vu sin identificar la que explica tu episodio concreto. [Cleary y colaboradores, Consciousness and Cognition (2012): realidad virtual, configuración espacial y déjà vu](https://www.sciencedirect.com/science/article/pii/S1053810012000049)"
+    },
+    {
+      "type": "heading",
+      "text": "Otras explicaciones: atención, tiempos de procesamiento y conflicto de memoria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una propuesta es la percepción dividida. Una persona procesa brevemente una escena mientras presta atención a otra cosa y después la observa de manera más completa. El segundo encuentro puede resultar extrañamente familiar porque el primero, apenas advertido, ya ha influido en la percepción. Los experimentos de Brown y Marsh de 2009 mostraron que una exposición breve a escenas podía crear la ilusión de haberlas encontrado antes. Esto apoya un mecanismo relacionado con la atención, aunque la ilusión de un encuentro previo no equivale a toda la experiencia cotidiana del déjà vu. [Brown y Marsh (2009): ilusiones de encuentros previos mediante exposiciones breves](https://pubmed.ncbi.nlm.nih.gov/19492436/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otras explicaciones plantean un desajuste temporal en la sincronización o coordinación del procesamiento de información. A veces estas ideas se divulgan como si estuviera demostrado un retraso entre los ojos o los hemisferios cerebrales. Es una afirmación demasiado tajante. Se han propuesto varias explicaciones basadas en el procesamiento y la familiaridad, pero la popular metáfora de un «fallo de doble procesamiento» no establece la causa física del déjà vu habitual. [Brown y Marsh (2010): investigación reciente sobre posibles mecanismos del déjà vu](https://scholars.duke.edu/publication/867236)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La explicación del conflicto de memoria pregunta por qué reconocemos que esa familiaridad es errónea. En un estudio de resonancia magnética funcional de 2018 se combinaron listas de palabras que producían familiaridad con información que mostraba que una palabra aparentemente conocida era en realidad nueva. El análisis principal incluyó a 21 participantes, de los que 16 comunicaron déjà vu. La actividad implicó regiones relacionadas con el conflicto y el control, entre ellas áreas cinguladas anteriores, prefrontales mediales y parietales. [Urquhart y colaboradores (2018): evidencia mediante resonancia funcional del conflicto de memoria en el déjà vu](https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El hallazgo respalda la participación de procesos que evalúan señales de memoria contradictorias. No demuestra que el cerebro haga deliberadamente una revisión de mantenimiento cada vez que aparece un déjà vu. El estudio creó una experiencia análoga en laboratorio con palabras y una muestra pequeña y seleccionada. Su fortaleza es la prueba controlada de una idea concreta; su límite, la distancia entre esa tarea y la riqueza de la experiencia espontánea. [Urquhart y colaboradores (2018): evidencia mediante resonancia funcional del conflicto de memoria en el déjà vu](https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas explicaciones no tienen por qué excluirse entre sí. La similitud o una exposición breve podrían generar familiaridad, mientras otro proceso detecta que esa sensación choca con el conocimiento de que algo es nuevo. Queda por establecer qué mecanismos actúan juntos, en quiénes y bajo qué condiciones."
+    },
+    {
+      "type": "heading",
+      "text": "Qué puede mostrar la estimulación cerebral y qué no"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos estudios clínicos han provocado déjà vu mediante estimulación eléctrica de estructuras temporales mediales en personas evaluadas por epilepsia. La investigación sobre las interacciones entre la corteza rinal y el hipocampo apunta a la comunicación dentro de una red de memoria, más que a un único punto aislado. Los registros directos y la estimulación ofrecen un acceso excepcionalmente cercano a la actividad cerebral que los cuestionarios habituales no pueden proporcionar. [Bartolomei y colaboradores, Clinical Neurophysiology (2012): interacciones entre la corteza rinal y el hipocampo durante el déjà vu](https://www.sciencedirect.com/science/article/pii/S138824571100561X)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, son circunstancias clínicas que incluyen personas con epilepsia, electrodos implantados y una intervención. No son una muestra aleatoria de personas sanas con déjà vu espontáneo. El resultado de la estimulación muestra que modificar una red puede producir una experiencia; no demuestra que esa misma modificación, o una crisis epiléptica, explique todos los episodios habituales. [Bartolomei y colaboradores, Clinical Neurophysiology (2012): interacciones entre la corteza rinal y el hipocampo durante el déjà vu](https://www.sciencedirect.com/science/article/pii/S138824571100561X)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio de 2013 aporta otra razón para evitar conclusiones fáciles. En 206 estudiantes universitarios, O’Connor y Moulin no encontraron relación entre la frecuencia declarada de déjà vu y las medidas de rememoración o familiaridad obtenidas en una tarea de reconocimiento de palabras. Eso no descarta las explicaciones basadas en la memoria. Sí significa que tener más déjà vu no puede equipararse sin más a poseer un sistema de reconocimiento generalmente más fuerte o más débil. [O’Connor y Moulin, Frontiers in Psychology (2013): frecuencia del déjà vu y rendimiento de memoria en laboratorio](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00881/full)"
+    },
+    {
+      "type": "heading",
+      "text": "Cansancio, estrés y sueño: ¿qué muestran las pruebas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cansancio y el estrés se proponen a menudo como desencadenantes. La revisión de Brown describió asociaciones, y la orientación clínica también menciona la falta de sueño, el estrés y la ansiedad como posibles factores. Pero una asociación no equivale a demostrar en condiciones controladas que perder cierta cantidad de sueño cause déjà vu. Los episodios declarados por las propias personas no permiten separar de forma fiable el sueño de todo lo demás que sucede en su vida. [Alan S. Brown, Psychological Bulletin (2003): revisión de la experiencia de déjà vu](https://pubmed.ncbi.nlm.nih.gov/12784936/) [Cleveland Clinic: qué es el déjà vu y cuándo consultar](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona cansada que está de viaje también puede encontrarse en un entorno desconocido, distraída, ansiosa o especialmente atenta a sensaciones extrañas. Es difícil separar esos factores a posteriori. La conclusión prudente es que el cansancio y el estrés podrían contribuir en algunas personas, mientras que la intensidad, la dirección y los mecanismos de esas relaciones siguen siendo inciertos. La investigación no ofrece una fórmula fiable para predecir un episodio a partir del sueño de la noche anterior."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un informe de caso de 2014 describió a un joven con ansiedad y despersonalización que experimentaba déjà vu persistente y angustiante sin rasgos epilépticos claros. Los autores propusieron una explicación psicológica y pidieron más investigación. Un caso aislado puede señalar una posibilidad, pero no establecer con qué frecuencia la ansiedad causa déjà vu ni servir para diagnosticar a otra persona. [Wells y colaboradores, Journal of Medical Case Reports (2014): déjà vu psicógeno persistente](https://pmc.ncbi.nlm.nih.gov/articles/PMC4295571/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuidar el sueño y atender el malestar son prioridades sensatas de salud general, pero no deben venderse como curas demostradas del déjà vu. Tampoco deben descartarse automáticamente los episodios persistentes como «solo estrés». Su patrón y los síntomas que los acompañan importan más que una explicación en internet. Nuestro artículo sobre [el desplazamiento continuo en pantalla, la atención y el sueño](/articles/endless-scrolling-phone-attention-sleep-science/) explora otro aspecto de la vida cognitiva cotidiana."
+    },
+    {
+      "type": "heading",
+      "text": "Déjà vu habitual y epilepsia del lóbulo temporal"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de las personas que experimentan déjà vu ocasional no tienen epilepsia. Aun así, puede aparecer como parte de una crisis focal que afecta a redes del lóbulo temporal. Una crisis no siempre implica caerse o tener sacudidas. Algunas personas conservan la conciencia, mientras que otras responden menos o después tienen dificultades para recordar lo ocurrido. [Mayo Clinic: síntomas y causas de las crisis del lóbulo temporal](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando está relacionada con una crisis, la sensación puede acompañarse de miedo repentino, un olor o sabor inusual, una sensación que asciende desde el abdomen, mirada fija, movimientos repetitivos de labios o manos, o confusión posterior. Un aura puede ser en sí misma el comienzo de una crisis focal y no simplemente una advertencia externa a ella. Estos síntomas requieren interpretación clínica; el déjà vu por sí solo no basta para diagnosticar su causa. [Mayo Clinic: síntomas y causas de las crisis del lóbulo temporal](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores distinguen el déjà vu ictal, que aparece durante una crisis, de las experiencias interictales entre crisis y las no ictales de personas sanas. Alguien con epilepsia también puede tener déjà vu fuera de una crisis. Es otra razón para no tratar todos los relatos como el mismo fenómeno ni suponer que una etiqueta explica su mecanismo. [Illman y colaboradores, Epilepsy Research and Treatment (2012): experiencias de familiaridad en la epilepsia del lóbulo temporal](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una sensación aislada de familiaridad tampoco demuestra que alguien esté desarrollando demencia. Las alteraciones persistentes del reconocimiento pertenecen a una discusión clínica distinta del déjà vu común y ocasional. Nuestro [artículo sobre el alzhéimer y la memoria](/articles/alzheimers-disease-brain-memory-loss/) aborda esa enfermedad por separado, sin convertir una experiencia subjetiva frecuente en una prueba diagnóstica. [Cleveland Clinic: qué es el déjà vu y cuándo consultar](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)"
+    },
+    {
+      "type": "heading",
+      "text": "Déjà vécu, jamais vu y experiencias relacionadas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Déjà vécu significa «ya vivido». Algunos investigadores lo utilizan para una sensación más rica de revivir un acontecimiento completo, a veces con la impresión de saber qué viene después. En informes clínicos, las formas persistentes pueden incluir la convicción de que la vida se repite, en lugar de reconocer brevemente que una señal de familiaridad injustificada resulta engañosa. La terminología no es completamente uniforme entre estudios. [Illman y colaboradores, Epilepsy Research and Treatment (2012): experiencias de familiaridad en la epilepsia del lóbulo temporal](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jamais vu, «nunca visto», va en sentido contrario: algo conocido resulta desconocido o extrañamente ajeno. Se han explorado sensaciones relacionadas pidiendo a personas que repitan palabras familiares hasta que empiezan a resultarles extrañas. Como explica el investigador de memoria Chris Moulin en una entrevista de la Asociación Estadounidense de Psicología, la sensación de saber y el conocimiento mismo pueden separarse. Eso no hace que el objeto o la palabra sean realmente nuevos. [Asociación Estadounidense de Psicología: Chris Moulin sobre déjà vu, jamais vu y memoria](https://www.apa.org/news/podcasts/speaking-of-psychology/deja-vu)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Déjà-rêvé significa «ya soñado». Un estudio de 2018 sobre estimulación eléctrica en pacientes con epilepsia distinguió entre recordar un sueño concreto, una vaga familiaridad relacionada con sueños y un estado onírico más general. Estos relatos muestran que las experiencias vinculadas a los sueños pueden estudiarse neurológicamente. No demuestran que un sueño haya predicho un acontecimiento. [Curot y colaboradores, Brain Stimulation (2018): déjà-rêvé y estimulación eléctrica cerebral](https://cerco.cnrs.fr/wp-content/uploads/2019/04/curot_j_18_1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas distinciones evitan que un término general englobe experiencias diferentes sin diferenciarlas. Quien describe familiaridad, una revivencia detallada o el recuerdo de un sueño puede estar hablando de fenómenos distintos. Las descripciones cuidadosas son más útiles para la ciencia que suponer que toda sensación extraña de reconocimiento es déjà vu."
+    },
+    {
+      "type": "heading",
+      "text": "¿Significa el déjà vu que puedes predecir lo que viene después?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El déjà vu puede dar la impresión de que el momento siguiente ya se conoce. Esa sensación puede ponerse a prueba. En experimentos publicados en 2018, Cleary y Claxton utilizaron recorridos por escenas virtuales y preguntaron por los giros que vendrían después. El déjà vu se asoció con una mayor sensación de poder predecir, pero no aportó una capacidad predictiva superior al azar en las condiciones estudiadas. [Cleary y Claxton, Psychological Science (2018): déjà vu, una ilusión de predicción](https://journals.sagepub.com/doi/abs/10.1177/0956797617743018)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia está entre la confianza y la información. Si parece que toda la situación ya ocurrió, es comprensible esperar conocer su continuación. Pero esa expectativa no demuestra que se haya recuperado realmente el acontecimiento siguiente. Puede aparecer una sensación convincente sin el conocimiento que parece prometer. [Cleary y Claxton, Psychological Science (2018): déjà vu, una ilusión de predicción](https://journals.sagepub.com/doi/abs/10.1177/0956797617743018)"
+    },
+    {
+      "type": "heading",
+      "text": "Sueños, vidas pasadas, simulaciones y universos paralelos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un sueño puede convertirse en un recuerdo, y alguien puede pensar después que una escena se le parece. Esa posibilidad es distinta de demostrar conocimiento del futuro. Para establecer una predicción haría falta un registro suficientemente específico realizado antes del acontecimiento, una comprobación independiente y un método que tuviera en cuenta los fallos y las coincidencias normales. Un parecido recordado después de los hechos no cumple ese criterio. Lee más sobre la ciencia de los sueños en [¿Por qué soñamos?](/articles/why-do-we-dream/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las vidas pasadas, los errores de una simulación y los universos paralelos son interpretaciones especulativas, no conclusiones demostradas por la investigación sobre el déjà vu. Los estudios revisados aquí investigan la memoria, la percepción, la supervisión de los procesos mentales y la actividad neurológica. Ninguno aporta pruebas de que un episodio sea un mensaje de otra vida o una visión de otro universo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que la neurociencia haya resuelto todos los aspectos de la experiencia. Significa que un detalle sin explicación no constituye, por sí solo, una prueba a favor de una explicación extraordinaria concreta. Una hipótesis útil debe formular predicciones comprobables que la distingan de las alternativas. La intensidad de la sensación no cumple esa función."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué es tan difícil reproducir el déjà vu"
+    },
+    {
+      "type": "paragraph",
+      "text": "El déjà vu espontáneo es breve e imprevisible. Normalmente no se puede conseguir que alguien lo experimente justo cuando un escáner está registrando su cerebro. Preguntar semanas después introduce incertidumbre sobre su duración, contexto y características precisas. Preguntar repetidamente durante un experimento también puede influir en aquello a lo que los participantes prestan atención y en cómo nombran sus experiencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los métodos de laboratorio resuelven parte del problema al manipular ingredientes como el parecido entre escenas, la exposición breve o las señales de memoria contradictorias. Pero crear familiaridad es más fácil que reproducir toda la sensación de familiaridad injustificada. Una experiencia análoga de laboratorio debe evaluarse por su parecido con la vivencia cotidiana, no aceptarse simplemente porque los participantes utilizan el mismo nombre. [Brown y Marsh (2010): investigación reciente sobre posibles mecanismos del déjà vu](https://scholars.duke.edu/publication/867236)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El reto no es exclusivo del déjà vu. La ciencia estudia a menudo experiencias complejas aislando sus componentes. El progreso surge al combinar experimentos controlados, relatos inmediatos y observaciones clínicas, manteniendo visibles las limitaciones de cada método. Ninguno sustituye por completo a los demás."
+    },
+    {
+      "type": "heading",
+      "text": "¿Cuándo conviene consultar a un profesional sanitario?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un déjà vu breve y ocasional sin otros síntomas no suele ser motivo de alarma. Solicita una valoración médica si los episodios se vuelven inusualmente frecuentes, persistentes, angustiosos o interfieren en tu vida, especialmente si suponen un cambio reciente. No hay un número universal de episodios que separe lo normal de lo anormal; importan el contexto y los síntomas asociados. [Cleveland Clinic: qué es el déjà vu y cuándo consultar](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Busca asesoramiento médico sin demora si los episodios incluyen disminución de la conciencia, lagunas de memoria inexplicables, olores o sabores inusuales, movimientos repetitivos o confusión posterior, o si sospechas una primera crisis epiléptica. Anota qué pasó antes, durante y después, y si alguien lo presenció. Puede ayudar al profesional a evaluar el episodio sin dar por hecho un diagnóstico. [Mayo Clinic: síntomas y causas de las crisis del lóbulo temporal](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214) [NHS: epilepsia, síntomas y cuándo pedir ayuda](https://www.nhs.uk/conditions/epilepsy/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Llama al número local de emergencias ante una primera posible crisis epiléptica que siga en curso, una crisis de más de cinco minutos, crisis repetidas sin recuperación entre ellas o dificultad para respirar. Son señales de alarma de una crisis, no indicaciones para tratar una sensación común y fugaz de familiaridad como una emergencia. [NHS: epilepsia, síntomas y cuándo pedir ayuda](https://www.nhs.uk/conditions/epilepsy/)"
+    },
+    {
+      "type": "heading",
+      "text": "Lo que la neurociencia aún no puede explicar"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia todavía no puede identificar de forma fiable la causa de un episodio espontáneo individual. Tampoco sabe si una explicación acabará abarcando la mayoría de los déjà vu habituales o si varios procesos producen sensaciones parecidas. Los patrones por edad, las diferencias individuales y la relación entre experiencias clínicas y cotidianas mantienen abiertas preguntas importantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La explicación del conflicto de memoria es prometedora, pero no demuestra que el déjà vu sea siempre una señal de un cerebro sano revisándose a sí mismo. La explicación basada en la familiaridad es útil, pero no establece que exista un recuerdo coincidente oculto en todos los casos. Harán falta experimentos que distingan mejor los mecanismos alternativos y capten la sensación más cerca del momento en que ocurre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo que la neurociencia del déjà vu ya revela es sutil: saber, recordar y sentir que recuerdas no son lo mismo. Suelen colaborar con tanta fluidez que apenas advertimos la diferencia. Durante un instante, el déjà vu hace imposible ignorarla."
+    },
+    {
+      "type": "heading",
+      "text": "Fuentes y notas sobre la evidencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este artículo se apoya en investigación sobre memoria revisada por pares, una revisión sistemática, estudios clínicos y orientación médica. Se distinguen las experiencias análogas de laboratorio de las espontáneas, y los hallazgos sobre epilepsia no se generalizan automáticamente a personas sanas. La cifra de frecuencia describe los estudios reunidos en la revisión de 2024. La imagen principal es una ilustración artística de una escena que parece familiar, no la representación de un mecanismo neurológico demostrado."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Alan S. Brown, Psychological Bulletin (2003): revisión de la experiencia de déjà vu](https://pubmed.ncbi.nlm.nih.gov/12784936/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hadzic y Andersson, Frontiers in Neurology (2024): revisión sistemática y metaanálisis del déjà vu](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Anne M. Cleary, Current Directions in Psychological Science (2008): reconocimiento, familiaridad y déjà vu](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ranganath y Ritchey, Nature Reviews Neuroscience (2012): dos sistemas corticales para la conducta guiada por la memoria](https://www.nature.com/articles/nrn3338)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Diana, Yonelinas y Ranganath (2007): imágenes de la rememoración y la familiaridad en el lóbulo temporal medial](https://pubmed.ncbi.nlm.nih.gov/17707683/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cleary y colaboradores, Consciousness and Cognition (2012): realidad virtual, configuración espacial y déjà vu](https://www.sciencedirect.com/science/article/pii/S1053810012000049)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cleary, Ryals y Nomi (2009): prueba de la hipótesis de similitud del déjà vu](https://pubmed.ncbi.nlm.nih.gov/19966259/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Brown y Marsh (2009): ilusiones de encuentros previos mediante exposiciones breves](https://pubmed.ncbi.nlm.nih.gov/19492436/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Brown y Marsh (2010): investigación reciente sobre posibles mecanismos del déjà vu](https://scholars.duke.edu/publication/867236)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Urquhart y colaboradores (2018): evidencia mediante resonancia funcional del conflicto de memoria en el déjà vu](https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Bartolomei y colaboradores, Clinical Neurophysiology (2012): interacciones entre la corteza rinal y el hipocampo durante el déjà vu](https://www.sciencedirect.com/science/article/pii/S138824571100561X)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[O’Connor y Moulin, Frontiers in Psychology (2013): frecuencia del déjà vu y rendimiento de memoria en laboratorio](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00881/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cleveland Clinic: qué es el déjà vu y cuándo consultar](https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Wells y colaboradores, Journal of Medical Case Reports (2014): déjà vu psicógeno persistente](https://pmc.ncbi.nlm.nih.gov/articles/PMC4295571/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Mayo Clinic: síntomas y causas de las crisis del lóbulo temporal](https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Illman y colaboradores, Epilepsy Research and Treatment (2012): experiencias de familiaridad en la epilepsia del lóbulo temporal](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Asociación Estadounidense de Psicología: Chris Moulin sobre déjà vu, jamais vu y memoria](https://www.apa.org/news/podcasts/speaking-of-psychology/deja-vu)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Curot y colaboradores, Brain Stimulation (2018): déjà-rêvé y estimulación eléctrica cerebral](https://cerco.cnrs.fr/wp-content/uploads/2019/04/curot_j_18_1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cleary y Claxton, Psychological Science (2018): déjà vu, una ilusión de predicción](https://journals.sagepub.com/doi/abs/10.1177/0956797617743018)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS: epilepsia, síntomas y cuándo pedir ayuda](https://www.nhs.uk/conditions/epilepsy/)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12784936/",
+      "label": "Alan S. Brown, Psychological Bulletin (2003): revisión de la experiencia de déjà vu"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1406889/full",
+      "label": "Hadzic y Andersson, Frontiers in Neurology (2024): revisión sistemática y metaanálisis del déjà vu"
+    },
+    {
+      "url": "https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2008.00605.x",
+      "label": "Anne M. Cleary, Current Directions in Psychological Science (2008): reconocimiento, familiaridad y déjà vu"
+    },
+    {
+      "url": "https://www.nature.com/articles/nrn3338",
+      "label": "Ranganath y Ritchey, Nature Reviews Neuroscience (2012): dos sistemas corticales para la conducta guiada por la memoria"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17707683/",
+      "label": "Diana, Yonelinas y Ranganath (2007): imágenes de la rememoración y la familiaridad en el lóbulo temporal medial"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S1053810012000049",
+      "label": "Cleary y colaboradores, Consciousness and Cognition (2012): realidad virtual, configuración espacial y déjà vu"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19966259/",
+      "label": "Cleary, Ryals y Nomi (2009): prueba de la hipótesis de similitud del déjà vu"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19492436/",
+      "label": "Brown y Marsh (2009): ilusiones de encuentros previos mediante exposiciones breves"
+    },
+    {
+      "url": "https://scholars.duke.edu/publication/867236",
+      "label": "Brown y Marsh (2010): investigación reciente sobre posibles mecanismos del déjà vu"
+    },
+    {
+      "url": "https://research-repository.st-andrews.ac.uk/bitstream/10023/18521/1/Manuscript_NoTracking.pdf",
+      "label": "Urquhart y colaboradores (2018): evidencia mediante resonancia funcional del conflicto de memoria en el déjà vu"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S138824571100561X",
+      "label": "Bartolomei y colaboradores, Clinical Neurophysiology (2012): interacciones entre la corteza rinal y el hipocampo durante el déjà vu"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00881/full",
+      "label": "O’Connor y Moulin, Frontiers in Psychology (2013): frecuencia del déjà vu y rendimiento de memoria en laboratorio"
+    },
+    {
+      "url": "https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern",
+      "label": "Cleveland Clinic: qué es el déjà vu y cuándo consultar"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4295571/",
+      "label": "Wells y colaboradores, Journal of Medical Case Reports (2014): déjà vu psicógeno persistente"
+    },
+    {
+      "url": "https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214",
+      "label": "Mayo Clinic: síntomas y causas de las crisis del lóbulo temporal"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3420423/",
+      "label": "Illman y colaboradores, Epilepsy Research and Treatment (2012): experiencias de familiaridad en la epilepsia del lóbulo temporal"
+    },
+    {
+      "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/deja-vu",
+      "label": "Asociación Estadounidense de Psicología: Chris Moulin sobre déjà vu, jamais vu y memoria"
+    },
+    {
+      "url": "https://cerco.cnrs.fr/wp-content/uploads/2019/04/curot_j_18_1.pdf",
+      "label": "Curot y colaboradores, Brain Stimulation (2018): déjà-rêvé y estimulación eléctrica cerebral"
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0956797617743018",
+      "label": "Cleary y Claxton, Psychological Science (2018): déjà vu, una ilusión de predicción"
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/epilepsy/",
+      "label": "NHS: epilepsia, síntomas y cuándo pedir ayuda"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿De qué trata este artículo de PRESDA?",
+      "answer": "Un momento nuevo parece de pronto un recuerdo. Explora lo que la familiaridad, los experimentos de memoria y la neurociencia revelan sobre el déjà vu, y lo que sigue sin saberse."
+    },
+    {
+      "question": "¿A qué sección pertenece este artículo?",
+      "answer": "Este artículo forma parte de la sección de Ciencia de PRESDA."
+    },
+    {
+      "question": "¿Quién publicó este artículo?",
+      "answer": "«DÉJÀ VU: POR QUÉ OCURRE Y QUÉ DICE LA NEUROCIENCIA» fue publicado por el equipo editorial de PRESDA en PRESDA."
+    }
+  ]
+}

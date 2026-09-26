@@ -1,0 +1,819 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/natural-disasters-earthquakes-volcanoes-tsunamis/",
+  "path": "/es/articles/natural-disasters-earthquakes-volcanoes-tsunamis/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "DESASTRES NATURALES: POR QUÉ OCURREN TERREMOTOS, VOLCANES Y TSUNAMIS",
+  "excerpt": "La superficie terrestre puede parecer estable, pero debajo actúan fuerzas enormes. Comprender los terremotos, las erupciones y los tsunamis capaces de cruzar océanos empieza en las profundidades del planeta.",
+  "quote": "Una amenaza natural no se convierte automáticamente en un desastre humano. La vulnerabilidad determina cuánto daño puede causar la fuerza del planeta.",
+  "headlineHighlights": {
+    "red": "DESASTRES NATURALES",
+    "gold": "TERREMOTOS, VOLCANES Y TSUNAMIS"
+  },
+  "seoTitle": "Desastres naturales: terremotos, volcanes y tsunamis | PRESDA",
+  "description": "Por qué ocurren terremotos, erupciones y tsunamis: tectónica de placas, grandes desastres, límites de la predicción, vigilancia volcánica y preparación.",
+  "keywords": [
+    "por qué ocurren los terremotos",
+    "causas de los tsunamis",
+    "erupciones volcánicas",
+    "predicción de terremotos",
+    "desastres naturales"
+  ],
+  "searchIntent": "Comprender las causas geológicas de terremotos, volcanes y tsunamis y distinguir amenaza, vulnerabilidad, pronóstico y alerta temprana.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "image": {
+    "src": "/articles/natural-disasters-earthquakes-volcanoes-tsunamis.png",
+    "alt": "Ilustración cinematográfica de PRESDA con daños de un terremoto, un tsunami y un volcán en erupción"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Una ciudad puede parecer completamente normal hasta que el suelo decide recordar a todos que la normalidad es temporal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los semáforos cambian. Los ascensores suben. La gente abre tiendas, espera autobuses, enciende portátiles y sirve café. Después, en cuestión de segundos, las carreteras se agrietan, los edificios tiemblan, se corta la electricidad y las sirenas costeras pueden empezar a pedir que la población se aleje antes de que llegue el mar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los desastres naturales parecen repentinos porque la vida humana es corta. La Tierra funciona con un reloj más lento. Las fuerzas que levantan montañas, abren océanos y reciclan la corteza actúan durante millones de años, pero su energía acumulada puede irrumpir de golpe en una tarde cualquiera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este artículo trata de esa maquinaria oculta: por qué ocurren los terremotos, cómo entran en erupción los volcanes, por qué algunos sismos generan tsunamis, por qué la magnitud no explica por sí sola las muertes y qué puede predecir la ciencia y qué no."
+    },
+    {
+      "type": "paragraph",
+      "text": "También parte de una distinción importante. Una amenaza natural es un proceso potencialmente peligroso. El desastre ocurre cuando esa amenaza se encuentra con personas, edificios, sistemas y economías expuestos y vulnerables. El terremoto es natural. El derrumbe de viviendas inseguras, la mala planificación o la falta de alertas tienen un componente humano."
+    },
+    {
+      "type": "heading",
+      "text": "El planeta bajo nuestros pies está en movimiento"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Tierra no es una esfera sólida e inmóvil. Su estructura exterior comprende la corteza y la parte rígida superior del manto, que juntas forman la litosfera. Debajo, el manto se comporta a escala geológica como roca sólida caliente: no es un simple océano de magma líquido, sino un material capaz de deformarse y fluir lentamente bajo calor y presión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bajo el manto están el núcleo externo y el interno. El externo es metal líquido; el interno es sólido. Estas capas profundas contribuyen al campo magnético y al sistema de calor interno terrestre, pero los terremotos, la mayoría de los volcanes y los tsunamis comienzan a manifestarse más arriba, donde la litosfera está dividida en placas tectónicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las placas suelen moverse a velocidades medidas en centímetros por año. Parece suave. No lo es. Una placa que avanza a la velocidad a la que crecen las uñas puede transportar continentes, cerrar océanos y levantar cordilleras si sigue moviéndose durante decenas de millones de años."
+    },
+    {
+      "type": "heading",
+      "text": "Tectónica de placas: el motor de esta historia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los límites entre placas presentan varias formas principales."
+    },
+    {
+      "type": "paragraph",
+      "text": "En los límites divergentes, las placas se separan. Puede formarse corteza nueva cuando el magma asciende y se enfría, como en las dorsales oceánicas. En los convergentes, las placas se acercan. Una puede hundirse bajo otra en una zona de subducción, o dos masas de corteza continental pueden chocar y engrosarse formando montañas. En los transformantes, las placas se deslizan lateralmente y acumulan tensión a lo largo de fallas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos límites explican la concentración de amenazas. Las zonas de subducción pueden generar algunos de los mayores terremotos del planeta, alimentar arcos volcánicos y desplazar suficiente fondo marino para originar tsunamis. Las fallas transformantes pueden producir sacudidas destructivas sin volcanes. Los entornos divergentes pueden crear corteza y alimentar sistemas volcánicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mismo proceso que construye el planeta también genera peligros. La tectónica crea cuencas oceánicas, arcos de islas y cordilleras. También da a Tokio, Estambul, Ciudad de México, Nápoles, San Francisco y muchos otros lugares razones serias para planificar con cuidado."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué causa realmente un terremoto?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un terremoto ocurre cuando la tensión acumulada en la roca se libera de repente."
+    },
+    {
+      "type": "paragraph",
+      "text": "En una falla, los bloques de corteza pueden quedar bloqueados por fricción mientras las placas siguen moviéndose. La roca puede deformarse y acumular deformación elástica. Finalmente, la falla se desliza. La energía almacenada se propaga como ondas sísmicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El foco o hipocentro es el punto del interior terrestre donde empieza la ruptura. El epicentro es el punto de la superficie situado justo encima. La falla es la fractura o zona de fracturas a lo largo de la cual se produce el movimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ondas sísmicas no se comportan todas igual. Las ondas P son de compresión y suelen llegar primero. Las S mueven el material lateralmente o de arriba abajo y no pueden atravesar líquidos. Las ondas superficiales avanzan por la superficie terrestre y suelen causar buena parte de las sacudidas dañinas que sentimos."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué unos segundos pueden destruir una ciudad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un terremoto destructivo no es solo un número en una escala de magnitud."
+    },
+    {
+      "type": "paragraph",
+      "text": "El impacto humano depende de la aceleración del terreno, la duración de las sacudidas, la distancia a la falla, la profundidad del sismo, la geología local, el diseño de los edificios, la densidad de población, la infraestructura, la preparación y la respuesta de emergencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sedimentos blandos pueden amplificar las sacudidas. Los suelos saturados de agua pueden perder resistencia por licuefacción, haciendo que calles, cimientos y tuberías enterradas se comporten como si el suelo se hubiera vuelto parcialmente líquido. Las laderas pueden derrumbarse. Los puentes pueden perder apoyo. La rotura de tuberías de gas puede provocar incendios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso un terremoto fuerte en una región poco poblada puede matar a pocas personas, mientras uno menor bajo edificios vulnerables puede ser catastrófico. La magnitud importa, pero la vulnerabilidad decide buena parte del coste humano."
+    },
+    {
+      "type": "heading",
+      "text": "Magnitud 7 frente a magnitud 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "La magnitud sísmica es logarítmica, no lineal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Subir una unidad de magnitud corresponde aproximadamente a multiplicar por diez la amplitud de onda medida en los conceptos tradicionales de magnitud y por unas 32 veces la energía liberada. Un terremoto de magnitud 8 no es apenas mayor que uno de magnitud 7. Es un fenómeno físico mucho más grande."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia moderna suele utilizar la magnitud de momento, escrita Mw, especialmente en grandes sismos. Se basa en el momento sísmico: el área de falla que se deslizó, la cantidad de deslizamiento y la rigidez de las rocas. Las noticias todavía dicen a menudo «escala de Richter», pero la escala original se desarrolló para instrumentos concretos y terremotos regionales de California. No es la herramienta moderna universal para medir todos los grandes terremotos."
+    },
+    {
+      "type": "heading",
+      "text": "El mayor terremoto registrado con instrumentos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mayor terremoto registrado instrumentalmente fue el de Valdivia de 1960, también llamado gran terremoto de Chile."
+    },
+    {
+      "type": "paragraph",
+      "text": "El USGS lo clasifica con magnitud Mw 9,5. Ocurrió en el límite de subducción donde la placa de Nazca se hunde bajo la Sudamericana. La ruptura fue enorme y generó un tsunami que recorrió el Pacífico y afectó a costas lejanas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La expresión «el mayor registrado» tiene un significado preciso. No demuestra que nunca ocurriera uno mayor en la historia geológica terrestre. Significa que es el mayor medido con instrumentos modernos durante el periodo de registro instrumental."
+    },
+    {
+      "type": "paragraph",
+      "text": "Valdivia muestra por qué merecen respeto las zonas de subducción. Cuando un límite bloqueado libera siglos de deformación acumulada, el resultado puede superar casi cualquier escenario de planificación urbana que imaginamos intuitivamente."
+    },
+    {
+      "type": "heading",
+      "text": "El terremoto y tsunami del océano Índico de 2004"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 26 de diciembre de 2004, un enorme terremoto de megacorrimiento de Sumatra-Andamán rompió la falla frente a Indonesia."
+    },
+    {
+      "type": "paragraph",
+      "text": "El sismo desplazó el fondo marino en una vasta zona. Ese movimiento alteró la columna de agua y generó olas de tsunami que cruzaron el Índico. Indonesia, Sri Lanka, India, Tailandia y otros países sufrieron pérdidas terribles. Las estimaciones de fuentes autorizadas varían, pero hubo más de 200.000 muertos o desaparecidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El desastre no fue solo geofísico. También fue un fallo de los sistemas de alerta. Muchas costas del Índico todavía no contaban con la infraestructura regional de alerta de tsunamis que el Pacífico había desarrollado durante décadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después de 2004, el sistema de alerta del Índico se amplió enormemente mediante cooperación internacional, seguimiento del nivel del mar, detección sísmica, redes de comunicación y educación pública. El océano no se volvió más seguro porque cambiara su física. Las personas estuvieron más seguras porque cambiaron los sistemas que lo rodeaban."
+    },
+    {
+      "type": "heading",
+      "text": "Japón 2011: cuando confluyeron tres desastres"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 11 de marzo de 2011, el terremoto de Tōhoku golpeó frente al nordeste de Japón."
+    },
+    {
+      "type": "paragraph",
+      "text": "El USGS lo clasifica con magnitud 9,1. Produjo fuertes sacudidas y un tsunami devastador. El tsunami inundó después partes de la central nuclear de Fukushima Daiichi, inutilizó sistemas críticos y desembocó en un grave accidente nuclear."
+    },
+    {
+      "type": "paragraph",
+      "text": "La secuencia importa. El terremoto no provocó directamente y por sí solo la crisis nuclear. La inundación del tsunami superó las defensas e inutilizó los sistemas eléctricos y de refrigeración. Fue una combinación de terremoto, tsunami y vulnerabilidad tecnológica."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ingeniería y las alertas japonesas salvaron muchas vidas, pero el evento también mostró que las defensas modernas pueden verse superadas cuando las estimaciones de peligro máximo son demasiado bajas. Prepararse no es un logro que se alcanza una vez. Es un diálogo continuo con las pruebas."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo generan tsunamis los terremotos"
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los terremotos submarinos generan tsunamis peligrosos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para un gran tsunami de origen sísmico, normalmente el fondo marino debe moverse de forma significativa, sobre todo verticalmente. Cuando se eleva o desciende, puede desplazar el agua situada encima. La gravedad propaga después esa perturbación hacia fuera en forma de ondas largas."
+    },
+    {
+      "type": "paragraph",
+      "text": "En mar profundo, un tsunami puede no parecer una enorme pared rompiente. Lejos de la costa, la altura puede ser moderada mientras la longitud de onda abarca muchos kilómetros. Los barcos pueden pasar sobre él sin notarlo de forma llamativa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cerca de la costa, disminuye la profundidad. La onda se frena, su longitud se acorta y su altura puede crecer enormemente. Según la forma de la costa y la batimetría, puede llegar como sucesivas crecidas, inundación rápida, corrientes fuertes o varias olas, en lugar de una única pared cinematográfica."
+    },
+    {
+      "type": "heading",
+      "text": "¿A qué velocidad puede viajar un tsunami?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La velocidad depende mucho de la profundidad del océano."
+    },
+    {
+      "type": "paragraph",
+      "text": "La NOAA explica que, en aguas profundas, las ondas de tsunami pueden viajar a velocidades comparables a las de un avión comercial. No significa que todos avancen a una velocidad fija. Cuanto más profunda es el agua, más deprisa pueden propagarse esas ondas largas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso pueden alcanzar costas lejanas horas después del terremoto. Un tsunami local puede dejar solo minutos. Uno distante puede dar tiempo para alertar, evacuar y cerrar puertos, pero únicamente si funcionan la detección, la comunicación y la confianza pública."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué provoca una erupción volcánica?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los volcanes entran en erupción cuando el magma alcanza condiciones que le permiten desplazarse hacia la superficie."
+    },
+    {
+      "type": "paragraph",
+      "text": "El magma se forma donde la roca se funde por cambios de presión, incorporación de agua y sustancias volátiles o transferencia de calor. Es menos denso que la roca circundante, por lo que puede ascender. Los gases disueltos se expanden al bajar la presión. Las fracturas abren vías. Un sistema de almacenamiento de magma puede acumular presión hasta que la roca cede."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magma es la roca fundida bajo la superficie. Lava es la roca fundida que ha salido a ella. La distinción es sencilla, pero ayuda a hablar con precisión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las erupciones difieren porque los magmas difieren. El magma basáltico de baja viscosidad puede fluir con relativa facilidad y suele producir erupciones más efusivas, como en muchos entornos hawaianos. El magma rico en sílice y gases puede ser viscoso, retener presión y explotar, como en muchos estratovolcanes."
+    },
+    {
+      "type": "heading",
+      "text": "No todos los volcanes son iguales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los volcanes no encajan perfectamente en categorías simples, pero las formas comunes ayudan a reconocer patrones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los volcanes en escudo son anchos y de pendientes suaves, a menudo asociados a lava basáltica fluida. Los estratovolcanes, como el Fuji o el Vesubio, son más empinados y pueden producir erupciones explosivas. Los conos de escoria son más pequeños y están formados por fragmentos expulsados. Las calderas se forman cuando grandes erupciones o la retirada de magma provocan el hundimiento del terreno sobre el sistema magmático."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yellowstone es un sistema de caldera volcánica, no un único cono con una mecha de dibujos animados. El Vesubio es un estratovolcán peligroso cerca de una población densa. Los volcanes hawaianos muestran cómo la lava puede construir islas con el tiempo. La categoría importa porque los peligros varían de un lugar a otro."
+    },
+    {
+      "type": "heading",
+      "text": "El Cinturón de Fuego del Pacífico"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Cinturón de Fuego es una descripción geográfica de una amplia zona en forma de herradura alrededor del Pacífico donde ocurren numerosos terremotos y erupciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "No es un único anillo subterráneo de magma conectado. Refleja los límites de placas, especialmente las zonas de subducción de la cuenca del Pacífico. Las placas oceánicas descienden bajo otras y generan terremotos y procesos de fusión que alimentan arcos volcánicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, es un mapa de relaciones tectónicas, no una sola máquina. Chile, Japón, Indonesia, Alaska y el noroeste del Pacífico comparten parte de la lógica del peligro, pero cada región tiene sus propias fallas, volcanes, historias y vulnerabilidades."
+    },
+    {
+      "type": "heading",
+      "text": "El Vesubio y Pompeya"
+    },
+    {
+      "type": "paragraph",
+      "text": "La erupción del Vesubio de 79 d. C. sepultó Pompeya y Herculano y se convirtió en uno de los desastres volcánicos más conocidos de la historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plinio el Joven describió la erupción desde lejos y proporcionó a los científicos posteriores uno de los relatos presenciales clásicos de una gran erupción explosiva. Hubo caída de ceniza y mortales flujos y oleadas piroclásticas: mezclas calientes de gas, ceniza y fragmentos de roca capaces de desplazarse rápidamente y matar casi al instante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hollywood suele reducir Pompeya a personas convertidas en piedra. El proceso real fue distinto. Los cuerpos se descompusieron dentro de depósitos de ceniza endurecida y dejaron huecos. En el siglo XIX, los arqueólogos vertieron yeso en algunos para obtener moldes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos moldes conmueven porque conservan una ausencia. No son personas transformadas en estatuas, sino huellas de seres humanos atrapados en un desastre."
+    },
+    {
+      "type": "heading",
+      "text": "Tambora: el volcán que cambió el clima"
+    },
+    {
+      "type": "paragraph",
+      "text": "La erupción de Tambora de 1815, en la actual Indonesia, fue una de las mayores de la historia documentada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inyectó enormes cantidades de material rico en azufre en la atmósfera. Los aerosoles estratosféricos reflejaron luz solar y contribuyeron al enfriamiento global. El año siguiente, 1816, se conoció en partes del hemisferio norte como el año sin verano."
+    },
+    {
+      "type": "paragraph",
+      "text": "El frío, las malas cosechas y el tiempo inusual afectaron a comunidades que ya tenían sistemas alimentarios frágiles. Pero una historia cuidadosa no debe convertir Tambora en la única causa de todos los acontecimientos sociales asociados a 1816. Los impactos climáticos interactúan con política, pobreza, comercio, enfermedades, agricultura y tiempo local."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tambora importa porque muestra que un volcán puede tener alcance mundial sin ser visible en todo el mundo. Una montaña de Indonesia cambió cielos lejanos."
+    },
+    {
+      "type": "heading",
+      "text": "Krakatoa: la erupción que resonó por el mundo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La erupción de Krakatau de 1883, conocido a menudo como Krakatoa, produjo explosiones, colapso de la caldera y tsunamis mortales en el estrecho de Sonda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ondas de presión recorrieron el planeta y los relatos de que se oyó a grandes distancias entraron en la leyenda volcánica. La afirmación prudente es que fue una de las erupciones más ruidosas documentadas históricamente, con efectos atmosféricos extraordinarios; no que debamos repetir sin contexto cada distancia exagerada de internet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Krakatoa también recuerda que los desastres volcánicos pueden convertirse en desastres por tsunami. El colapso de un sistema volcánico, un deslizamiento o el desplazamiento explosivo de agua pueden crear olas sin un terremoto clásico de megacorrimiento."
+    },
+    {
+      "type": "heading",
+      "text": "El monte Santa Helena y el Pinatubo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vulcanología moderna es, en parte, la historia de desastres estudiados en tiempo real."
+    },
+    {
+      "type": "paragraph",
+      "text": "El monte Santa Helena entró en erupción catastróficamente en 1980 después de abombamientos, sismos y actividad anómala visible. Un enorme deslizamiento destapó el sistema y desencadenó una explosión lateral. Murieron decenas de personas y cambió la forma en que muchos entendían los peligros volcánicos en Estados Unidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Pinatubo, en Filipinas, entró en erupción en 1991 después de que científicos que colaboraban con las autoridades vigilaran e interpretaran señales de actividad. Las grandes evacuaciones previas a la fase culminante salvaron muchas vidas. La erupción también inyectó aerosoles en la estratosfera y produjo un enfriamiento global medible."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia del Pinatubo no demuestra que los pronósticos vuelvan inofensivos a los volcanes. Demuestra que la vigilancia, la comunicación y la evacuación pueden transformar un posible desastre de mortalidad masiva en una crisis a la que muchas personas sobrevivan."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué es un supervolcán?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supervolcán es un término popular informal, no una categoría científica precisa como estratovolcán."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suele referirse a sistemas capaces de producir erupciones extremadamente grandes que forman calderas. Los científicos utilizan a menudo el índice de explosividad volcánica, o VEI, para comparar erupciones explosivas según el volumen expulsado y las características de la columna eruptiva. Las erupciones VEI 8 son extraordinariamente grandes y raras."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yellowstone, Toba y Taupo suelen mencionarse en este contexto. El término puede ser útil para explicar la escala. Se vuelve perjudicial cuando alimenta entretenimiento basado en la catástrofe."
+    },
+    {
+      "type": "heading",
+      "text": "¿Está Yellowstone a punto de entrar en erupción?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yellowstone es volcánicamente activo. Tiene terremotos, fenómenos hidrotermales, deformación del terreno y una larga historia volcánica. También está estrechamente vigilado por el Observatorio Vulcanológico de Yellowstone y sus instituciones colaboradoras."
+    },
+    {
+      "type": "paragraph",
+      "text": "No hay pruebas científicas creíbles de que sea inminente una supererupción catastrófica de Yellowstone."
+    },
+    {
+      "type": "paragraph",
+      "text": "El USGS ha insistido en que los volcanes no siguen calendarios simples y en que la actividad futura más probable de Yellowstone incluye erupciones menores o explosiones hidrotermales, no una catástrofe continental inminente. Incluso esas posibilidades requieren vigilancia cuidadosa y comunicación oficial, no cuentas atrás."
+    },
+    {
+      "type": "paragraph",
+      "text": "La versión honesta es menos viral y más útil: Yellowstone es real, está activo y se vigila. Eso no equivale a estar a punto de explotar."
+    },
+    {
+      "type": "heading",
+      "text": "¿Pueden los científicos predecir terremotos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Actualmente no existe un método científico fiable que prediga un gran terremoto concreto indicando de antemano una fecha, un lugar y una magnitud con precisión significativa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta debe ser tajante porque las predicciones falsas son peligrosas. Pueden generar pánico, complacencia o desconfianza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos pueden identificar fallas, estimar probabilidades a largo plazo, elaborar mapas de peligrosidad, seguir secuencias sísmicas y modelizar probabilidades de réplicas. Pueden decir que unas regiones son más peligrosas que otras y que un gran terremoto es posible o probable en un periodo largo. No pueden afirmar con precisión validada que una ciudad concreta tendrá un sismo de magnitud 7,8 el próximo martes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Predecir no es lo mismo que pronosticar. Los pronósticos manejan probabilidades e incertidumbre. La predicción implica anunciar un evento concreto. La sismología es poderosa, pero no es profecía."
+    },
+    {
+      "type": "heading",
+      "text": "La alerta temprana no es predicción"
+    },
+    {
+      "type": "paragraph",
+      "text": "La alerta sísmica temprana es una de las distinciones más importantes para comunicar la ciencia al público."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un sistema de alerta detecta el terremoto cuando la ruptura ya ha empezado. Las señales electrónicas viajan más deprisa que las ondas sísmicas dañinas, de modo que el aviso puede llegar antes de las sacudidas más fuertes a lugares situados a cierta distancia del origen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese margen puede ser de segundos o, en casos favorables, decenas de segundos. Puede bastar para detener trenes, abrir puertas de parques de bomberos, parar sistemas industriales, avisar a teléfonos, proteger operaciones quirúrgicas o dar tiempo para agacharse, cubrirse y agarrarse. No promete una gran antelación, y quienes estén muy cerca del epicentro pueden recibir muy poco aviso o ninguno."
+    },
+    {
+      "type": "paragraph",
+      "text": "El sistema japonés y ShakeAlert en el oeste de Estados Unidos muestran lo que puede hacer la alerta temprana: reducir daños después de comenzar el terremoto, no predecirlo antes de que exista."
+    },
+    {
+      "type": "heading",
+      "text": "¿Pueden los animales predecir terremotos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los relatos de animales que se comportan de forma extraña antes de un sismo son antiguos y generalizados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas observaciones podrían corresponder a reacciones ante pequeñas ondas sísmicas iniciales, sonidos, vibraciones o cambios ambientales que los humanos no perciben. Pero una anécdota no equivale a un sistema de predicción validado."
+    },
+    {
+      "type": "paragraph",
+      "text": "El USGS señala que no existe un método reproducible y fiable que demuestre que los animales predicen terremotos en el sentido científico específico. La conclusión práctica es clara: la planificación de emergencias debe apoyarse en edificios seguros, mapas de peligrosidad, alertas e instrucciones oficiales, no en el comportamiento animal como red de avisos."
+    },
+    {
+      "type": "heading",
+      "text": "¿Podemos prever erupciones volcánicas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El pronóstico volcánico a veces aporta más información que la predicción sísmica porque el magma en movimiento puede generar señales precursoras medibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos vigilan enjambres sísmicos, deformación del terreno, gases volcánicos, calor, cambios superficiales y observaciones por satélite. Estas señales pueden indicar actividad anómala y ayudar a prever posibles erupciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero los volcanes siguen siendo complejos. Algunas señales no desembocan en erupción. Algunas erupciones ocurren con poco aviso. Los pronósticos son probabilísticos y deben actualizarse cuando cambian las condiciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mejor pronóstico volcánico no es una frase adivinatoria. Es una cadena de observaciones, márgenes de incertidumbre, mapas de peligros, zonas de exclusión y decisiones públicas claras."
+    },
+    {
+      "type": "heading",
+      "text": "¿Podría la IA predecir el próximo gran desastre?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA y el aprendizaje automático ya son útiles en el estudio de amenazas naturales, pero no de la forma mágica que a veces sugieren los titulares."
+    },
+    {
+      "type": "paragraph",
+      "text": "El aprendizaje automático puede ayudar a detectar sismos diminutos, clasificar señales sísmicas, identificar patrones de réplicas, analizar deformaciones observadas por satélite, reconocer señales volcánicas, cartografiar rápidamente daños y apoyar la planificación de emergencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son usos valiosos. No equivalen a predecir exactamente el próximo gran terremoto. Detectar, pronosticar, estimar riesgos y predecir son tareas diferentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El futuro realista no es un oráculo. Son mejores sensores y modelos, reconocimiento más rápido de patrones y decisiones más ágiles, con seres humanos todavía responsables de la interpretación y la seguridad pública."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué algunos terremotos matan a miles de personas y otros no"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una amenaza natural no se convierte automáticamente en un desastre humano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las muertes dependen de normas de construcción, calidad y control de las obras, densidad de población, hora del día, profundidad del sismo, distancia a la falla, suelo, preparación, pobreza, hospitales, carreteras, comunicaciones y capacidad de rescate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos ciudades pueden sufrir sacudidas parecidas y resultados muy distintos. Riqueza, gobernanza y calidad constructiva forman parte de la ecuación del desastre. Eso no hace menos peligroso el suelo. Significa que la vulnerabilidad se construye mucho antes del terremoto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso reducir el riesgo suele parecer menos dramático que el propio desastre: cumplir las normas, reforzar edificios, trazar rutas de evacuación, practicar simulacros, planificar el suelo y generar confianza pública."
+    },
+    {
+      "type": "heading",
+      "text": "Edificios que sobreviven a los terremotos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ningún edificio puede hacerse completamente inmune a los terremotos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El diseño sismorresistente busca evitar el colapso, proteger vidas y permitir reparaciones cuando sea posible. Los ingenieros emplean estructuras dúctiles que pueden deformarse sin romperse de forma frágil, refuerzos, aislamiento de base, amortiguadores sintonizados, conexiones flexibles y cimentaciones cuidadosamente diseñadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Japón y otras regiones sísmicas han demostrado que las normas rigurosas y la ingeniería salvan vidas. Pero la tecnología debe mantenerse, exigirse y ser accesible. Una norma brillante sobre el papel no protege a una familia que vive en un edificio sin refuerzo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciudad más segura no es la que finge que no existen amenazas. Es la que diseña como si la memoria importara."
+    },
+    {
+      "type": "heading",
+      "text": "Los desastres naturales más mortíferos de la historia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las listas de desastres más mortíferos requieren cuidado porque las estimaciones históricas de muertes pueden ser inciertas, especialmente antes de los registros modernos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre los mayores desastres comunicados están grandes inundaciones de China, el ciclón Bhola de 1970, grandes crisis que combinaron sequía y hambruna, el terremoto de Shaanxi de 1556, el tsunami del Índico de 2004 y grandes terremotos como Tangshan en 1976 y Haití en 2010."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compararlos es difícil. Algunos son sucesos repentinos. Otros son crisis prolongadas que combinan sequía, malas cosechas, enfermedad, guerra, desplazamientos y gobernanza. Los registros varían según siglo y región. Una cifra aparentemente precisa puede ocultar incertidumbre."
+    },
+    {
+      "type": "paragraph",
+      "text": "La lección no es una clasificación. Es que amenaza, exposición y vulnerabilidad pueden combinarse a una escala aterradora."
+    },
+    {
+      "type": "heading",
+      "text": "Más allá de terremotos, volcanes y tsunamis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los desastres naturales abarcan muchos sistemas de amenazas y no todos comparten causas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las amenazas geológicas incluyen terremotos, erupciones y muchos tsunamis. Las meteorológicas y climáticas incluyen olas de calor, lluvias intensas e inundaciones, sequía, condiciones propicias para incendios y ciclones tropicales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un huracán no lo causa la tectónica de placas. Un terremoto de megacorrimiento no lo causa el tiempo meteorológico habitual. Tratar todos los desastres como una sola categoría puede confundir la ciencia. Conviene preguntar siempre: ¿qué sistema produce esta amenaza y cómo están expuestas las personas?"
+    },
+    {
+      "type": "heading",
+      "text": "¿El cambio climático provoca más terremotos y erupciones?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cambio climático moderno no es el motor principal de la actividad sísmica o volcánica ordinaria del planeta. La tectónica se debe a procesos geológicos que actúan durante periodos enormes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos pueden estudiar interacciones locales relacionadas con pérdida de hielo, carga de agua, erosión, deslizamientos y tensiones en la corteza. En algunos entornos, cambiar las cargas superficiales puede influir en esas tensiones. Pero eso no equivale a decir que el cambio climático causa la tectónica habitual."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cambio climático está mucho más directamente relacionado con varios extremos meteorológicos y climáticos, como calor, lluvias intensas, riesgo de inundación costera y algunas condiciones favorables a incendios. El tipo de amenaza importa."
+    },
+    {
+      "type": "heading",
+      "text": "¿Se está volviendo más peligrosa la Tierra?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta depende de qué entendamos por peligrosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "En las amenazas geológicas, los mejores instrumentos y las comunicaciones instantáneas hacen que detectemos y conozcamos más eventos que las generaciones anteriores. Eso no significa automáticamente que la Tierra produzca más terremotos grandes."
+    },
+    {
+      "type": "paragraph",
+      "text": "En las amenazas climáticas, el cambio causado por los humanos modifica la probabilidad o intensidad de diversos extremos, aunque los detalles varían según región y fenómeno."
+    },
+    {
+      "type": "paragraph",
+      "text": "En cuanto a exposición, ahora hay más personas, edificios, carreteras, puertos y sistemas eléctricos en lugares vulnerables. Una megaciudad costera tiene más pérdidas potenciales que una costa vacía. Un edificio débil transforma las sacudidas en derrumbe."
+    },
+    {
+      "type": "paragraph",
+      "text": "La amenaza es el evento físico. La exposición es lo que encuentra a su paso. La vulnerabilidad es cuánto daño puede sufrir. El riesgo está donde confluyen las tres."
+    },
+    {
+      "type": "heading",
+      "text": "Ciudades construidas sobre terreno peligroso"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las personas viven cerca de fallas y volcanes por razones que no son insensatas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los suelos volcánicos pueden ser fértiles. Las costas ofrecen comercio, alimentos y transporte. Las llanuras fluviales sostienen la agricultura. Los asentamientos históricos se convierten en ciudades porque allí se concentran empleo, familias, puertos, carreteras e instituciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tokio, Estambul, Ciudad de México, Nápoles, San Francisco y Yakarta ilustran distintas versiones del problema. El riesgo no es solo un mapa de peligros. También es un mapa de historia humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo no es señalar la próxima ciudad que será destruida. Eso sería una falsa predicción. Es comprender por qué los peligros conocidos exigen normas de construcción, refuerzos, decisiones de uso del suelo, educación pública y comunicación honesta."
+    },
+    {
+      "type": "heading",
+      "text": "¿Podría Estambul sufrir un gran terremoto?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estambul está cerca del sistema de la falla de Anatolia del Norte, una de las grandes zonas de fallas de desgarre del mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La región tiene una peligrosidad sísmica importante. La investigación lleva tiempo centrada en el tramo del mar de Mármara y la posibilidad de un futuro terremoto destructivo que afecte a Estambul. Una formulación responsable no predice una fecha ni convierte el estudio del peligro en un espectáculo apocalíptico."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pregunta pública útil no es «¿cuándo ocurrirá exactamente?», sino «¿qué podemos reforzar antes?». Edificios, escuelas, hospitales, puentes, servicios básicos, vías de emergencia y simulacros importan más que los rumores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prepararse es la única respuesta honesta a una amenaza que no se puede fechar."
+    },
+    {
+      "type": "heading",
+      "text": "Los segundos más importantes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las indicaciones de seguridad deben proceder de organismos oficiales de emergencias, no de consejos improvisados en internet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante las sacudidas, organismos como FEMA y USGS suelen enseñar a agacharse, cubrirse y agarrarse allí donde corresponda esa recomendación. Ponte sobre manos y rodillas, protege cabeza y cuello bajo un mueble resistente si es posible y agárrate hasta que deje de temblar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ante tsunamis, las sacudidas fuertes o prolongadas en la costa pueden ser una advertencia natural. Sigue las instrucciones locales de evacuación y desplázate a terreno elevado adecuado o hacia el interior cuando se indique. No te acerques a la orilla para observar el agua."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ante volcanes, respeta las zonas de exclusión y las órdenes oficiales de evacuación. Los peligros incluyen ceniza, flujos piroclásticos, lahares, gases, coladas de lava y sobrecarga de tejados por ceniza. La actuación correcta depende del volcán y de los avisos oficiales."
+    },
+    {
+      "type": "heading",
+      "text": "Mitos y realidades"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: los científicos pueden predecir exactamente cuándo ocurrirá el próximo gran terremoto. Realidad: pueden evaluar peligros y probabilidades, pero hoy no es posible la predicción sísmica exacta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: la magnitud 8 es apenas más fuerte que la 7. Realidad: las escalas son logarítmicas y cada unidad entera implica liberar mucha más energía."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: todo terremoto submarino genera un tsunami. Realidad: generalmente hace falta un desplazamiento significativo de agua."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: un tsunami siempre es una única ola gigante que rompe. Realidad: puede llegar en varias crecidas y comportarse de forma distinta según la costa y el fondo marino."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: Yellowstone lleva retraso y está a punto de explotar. Realidad: los volcanes no siguen calendarios simples y la vigilancia oficial no respalda una supererupción inminente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: los animales predicen terremotos de forma fiable. Realidad: no existe un sistema de predicción sísmica mediante animales validado científicamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: el cambio climático provoca la tectónica de placas habitual. Realidad: el sistema tectónico está impulsado principalmente por procesos geológicos que actúan durante periodos enormes."
+    },
+    {
+      "type": "heading",
+      "text": "El planeta que nos creó también puede destruir"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mismo sistema tectónico responsable de continentes, montañas, islas volcánicas, ciclos de nutrientes y gran parte de la diversidad geológica terrestre también genera peligros destructivos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los humanos no podemos detener la tectónica. No podemos ordenar a una zona de subducción que se relaje ni al magma que permanezca bajo tierra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la ciencia puede comprender las amenazas, construir ciudades más seguras, vigilar volcanes, detectar sismos rápidamente, alertar a las costas y reducir víctimas. Eso no es controlar la Tierra. Es transformar la humildad en preparación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Terremotos, volcanes y tsunamis recuerdan que el suelo bajo nuestros pies no es permanente. No podemos apagar las fuerzas que modelan el planeta. Pero cada sensor, edificio más resistente y sistema de alerta ofrece algo que las generaciones anteriores rara vez tuvieron: la posibilidad de comprender qué ocurre y, a veces, tiempo suficiente para sobrevivir."
+    }
+  ],
+  "sources": [
+    {
+      "label": "USGS: esta Tierra dinámica, la historia de la tectónica de placas",
+      "url": "https://pubs.usgs.gov/gip/dynamic/dynamic.html"
+    },
+    {
+      "label": "USGS: tipos de magnitud",
+      "url": "https://www.usgs.gov/programs/earthquake-hazards/magnitude-types"
+    },
+    {
+      "label": "USGS: los 20 mayores terremotos del mundo",
+      "url": "https://www.usgs.gov/programs/earthquake-hazards/science/20-largest-earthquakes-world"
+    },
+    {
+      "label": "USGS: ¿se pueden predecir los terremotos?",
+      "url": "https://www.usgs.gov/faqs/can-you-predict-earthquakes"
+    },
+    {
+      "label": "USGS: ¿pueden los animales predecir terremotos?",
+      "url": "https://www.usgs.gov/faqs/can-animals-predict-earthquakes"
+    },
+    {
+      "label": "ShakeAlert: sistema de alerta sísmica temprana",
+      "url": "https://www.shakealert.org/"
+    },
+    {
+      "label": "NOAA JetStream: propagación de tsunamis",
+      "url": "https://www.noaa.gov/jetstream/tsunamis/tsunami-propagation"
+    },
+    {
+      "label": "NOAA / NWS: sistema estadounidense de alerta de tsunamis",
+      "url": "https://www.tsunami.gov/"
+    },
+    {
+      "label": "USGS: ficha del terremoto de Tōhoku de magnitud 9,1",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30/executive"
+    },
+    {
+      "label": "OIEA: información sobre el accidente de Fukushima Daiichi",
+      "url": "https://www.iaea.org/newscenter/focus/fukushima"
+    },
+    {
+      "label": "Institución Smithsonian: Programa de Vulcanismo Global",
+      "url": "https://volcano.si.edu/"
+    },
+    {
+      "label": "USGS: Observatorio Vulcanológico de Yellowstone",
+      "url": "https://www.usgs.gov/volcanoes/yellowstone"
+    },
+    {
+      "label": "Ready.gov: terremotos",
+      "url": "https://www.ready.gov/earthquakes"
+    },
+    {
+      "label": "Ready.gov: tsunamis",
+      "url": "https://www.ready.gov/tsunamis"
+    },
+    {
+      "label": "Ready.gov: volcanes",
+      "url": "https://www.ready.gov/volcanoes"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Por qué ocurren los terremotos?",
+      "answer": "Ocurren cuando la tensión acumulada en las fallas se libera de repente al deslizarse bloques de roca. La energía liberada viaja por la Tierra en forma de ondas sísmicas."
+    },
+    {
+      "question": "¿Pueden los científicos predecir terremotos?",
+      "answer": "No existe hoy un método científico fiable que prediga un gran terremoto concreto con una fecha, un lugar y una magnitud útiles. Los científicos pueden cartografiar peligros, estimar probabilidades y emitir alertas tempranas después de empezar la ruptura."
+    },
+    {
+      "question": "¿Cómo genera un tsunami un terremoto?",
+      "answer": "Un tsunami sísmico peligroso suele requerir un desplazamiento importante del fondo marino, que mueve la columna de agua situada encima y envía ondas largas por el océano."
+    },
+    {
+      "question": "¿Está Yellowstone a punto de entrar en erupción?",
+      "answer": "Yellowstone es volcánicamente activo y está estrechamente vigilado, pero el seguimiento oficial del USGS no respalda afirmaciones de una supererupción catastrófica inminente."
+    },
+    {
+      "question": "¿Son cada vez más frecuentes los desastres naturales?",
+      "answer": "Depende de la amenaza. Mejores instrumentos y comunicaciones permiten detectar y comunicar más eventos. El cambio climático afecta a muchos extremos meteorológicos y climáticos, mientras la tectónica sigue impulsada por procesos geológicos. La exposición y vulnerabilidad humanas también determinan fuertemente las pérdidas."
+    }
+  ]
+}

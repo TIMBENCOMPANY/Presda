@@ -1,0 +1,1126 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/magic-paranormal-james-randi/",
+  "path": "/es/articles/magic-paranormal-james-randi/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "MAGIA Y FENÓMENOS PARANORMALES: ¿SE PUEDEN DEMOSTRAR LOS PODERES SOBRENATURALES?",
+  "excerpt": "Durante siglos hemos creído en magia, maldiciones, poderes psíquicos y fuerzas sobrenaturales. Escépticos como James Randi plantearon una pregunta sencilla: ¿pueden funcionar en condiciones controladas?",
+  "headlineHighlights": {
+    "red": "PARANORMALES",
+    "gold": "PODERES SOBRENATURALES"
+  },
+  "seoTitle": "Magia y poderes paranormales: ¿qué dice la ciencia?",
+  "description": "Poderes paranormales, brujería, psicología y pruebas controladas: una mirada escéptica al famoso reto del millón de dólares de James Randi.",
+  "keywords": [
+    "poderes paranormales pruebas científicas",
+    "James Randi millón de dólares",
+    "la magia es real",
+    "efecto Barnum",
+    "lectura en frío"
+  ],
+  "searchIntent": "Entender cómo se ponen a prueba los supuestos poderes paranormales y qué demostró el reto de Randi, distinguiendo prácticas religiosas, ilusionismo y afirmaciones comprobables.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "image": {
+    "src": "/images/articles/magic-paranormal-james-randi.jpg",
+    "alt": "Contraste cinematográfico entre imágenes de ocultismo y magia y el reto científico de James Randi, que ofrecía un millón de dólares por pruebas de una capacidad paranormal"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Durante miles de años, los seres humanos han contado historias sobre fuerzas que parecen existir más allá de las leyes ordinarias de la naturaleza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Magia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maldiciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Profecías."
+    },
+    {
+      "type": "paragraph",
+      "text": "Espíritus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Telepatía."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clarividencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Poderes curativos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Personas de distintas civilizaciones han interpretado sucesos inexplicados mediante ideas sobrenaturales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incluso hoy, millones siguen creyendo que ciertas personas pueden predecir el futuro, comunicarse con espíritus, manipular energías invisibles o influir en acontecimientos por medios sobrenaturales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la ciencia aborda la cuestión de otra forma."
+    },
+    {
+      "type": "paragraph",
+      "text": "No empieza preguntando si una idea suena extraña."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pregunta: ¿podemos ponerla a prueba?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Podemos medirla?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Puede alguien demostrar la capacidad que afirma tener en condiciones que impidan el engaño, la coincidencia y los sesgos inconscientes?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pocas personas hicieron tan famosa esa pregunta como James Randi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y, con el tiempo, hubo 1.000.000 de dólares esperando a quien pudiera demostrar que estaba equivocado. Para otras explicaciones de PRESDA, lee [¿son reales los signos del zodiaco?](/articles/are-zodiac-signs-real-science-has-a-different-answer/) y [¿por qué soñamos?](/articles/why-do-we-dream/)."
+    },
+    {
+      "type": "heading",
+      "text": "LA MAGIA ES MÁS ANTIGUA QUE LA CIENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La creencia en fuerzas sobrenaturales es mucho más antigua que el método científico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las sociedades antiguas recurrían a ritos, adivinación, astrología, amuletos y otras prácticas para intentar comprender o influir en acontecimientos inciertos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La enfermedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "El tiempo meteorológico."
+    },
+    {
+      "type": "paragraph",
+      "text": "La guerra."
+    },
+    {
+      "type": "paragraph",
+      "text": "El amor."
+    },
+    {
+      "type": "paragraph",
+      "text": "La muerte."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fecundidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "El futuro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de la medicina, la meteorología, la psicología y la física modernas, las explicaciones sobrenaturales podían ofrecer formas de interpretar un mundo lleno de incertidumbre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la palabra magia abarca cosas muy distintas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La magia escénica es entretenimiento basado en la ilusión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las prácticas religiosas pertenecen a sistemas de fe y cultura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tradiciones populares pueden combinar espiritualidad, medicina y costumbres comunitarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las afirmaciones paranormales suelen referirse a supuestas capacidades o fenómenos que, al menos teóricamente, podrían producir efectos observables."
+    },
+    {
+      "type": "paragraph",
+      "text": "No debemos tratar esas categorías como idénticas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuestión científica cobra especial relevancia cuando alguien afirma que una capacidad sobrenatural puede producir resultados medibles en el mundo físico."
+    },
+    {
+      "type": "heading",
+      "text": "BRUJERÍA Y MAGIA NEGRA"
+    },
+    {
+      "type": "paragraph",
+      "text": "A lo largo de la historia, muchas culturas desarrollaron tradiciones que personas ajenas describieron como brujería o hechicería."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas creían que las maldiciones podían causar enfermedad o desgracia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otras utilizaban amuletos o ritos para proteger, sanar o atraer fortuna."
+    },
+    {
+      "type": "paragraph",
+      "text": "El significado de brujería varía enormemente entre culturas y épocas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tradiciones europeas de brujería no son idénticas a las prácticas espirituales africanas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tradiciones islámicas en torno al sihr no son idénticas al ocultismo europeo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las prácticas religiosas indígenas no pueden agruparse sin más bajo la etiqueta de magia negra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un debate científico responsable debe distinguir las tradiciones culturales y religiosas de las afirmaciones concretas que realmente pueden comprobarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia no puede poner a prueba el significado simbólico de un rito."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero si alguien afirma que un rito puede mover repetidamente un objeto, identificar información oculta, predecir resultados generados al azar o afectar físicamente a otra persona a distancia, eso se convierte en una afirmación comprobable."
+    },
+    {
+      "type": "heading",
+      "text": "VUDÚ: UNA RELIGIÓN, NO UN SINÓNIMO DE MAGIA NEGRA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cine y la televisión han presentado a menudo el vudú como una misteriosa magia negra de muñecos, maldiciones y venganza sobrenatural."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa imagen es profundamente engañosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "El vudú haitiano, o Vodou, es una tradición religiosa establecida de raíces africanas que se desarrolló en Haití mediante una historia compleja de tradiciones de África occidental y central, influencias católicas y la experiencia de la esclavitud y el colonialismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus practicantes reconocen a un creador supremo e interactúan con seres espirituales habitualmente llamados lwa mediante ceremonias religiosas y tradiciones comunitarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reducir el vudú a maldiciones y muñecos es en gran medida producto de estereotipos coloniales y del entretenimiento popular."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso PRESDA distingue claramente el vudú como religión de las afirmaciones paranormales comprobables atribuidas a prácticas sobrenaturales."
+    },
+    {
+      "type": "paragraph",
+      "text": "El simbolismo visual de la cultura popular puede ser reconocible, pero la religión no debe presentarse como prueba de magia negra."
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ VIVIMOS EXPERIENCIAS INEXPLICADAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "No toda experiencia paranormal es necesariamente una mentira."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona puede vivir sinceramente algo extraordinario y equivocarse sobre su causa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La percepción humana no es un dispositivo de grabación perfecto."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cerebro interpreta información."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rellena huecos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Busca patrones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anticipa lo que debería ocurrir después."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa capacidad es extraordinariamente útil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero también puede generar errores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las coincidencias pueden parecer significativas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sucesos aleatorios pueden parecer conectados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los recuerdos pueden cambiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las expectativas influyen en la percepción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y cuando alguien cree firmemente en una explicación, puede prestar menos atención a la información que la contradice."
+    },
+    {
+      "type": "paragraph",
+      "text": "La psicología llama sesgo de confirmación a una tendencia importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tendemos a fijarnos en la información que respalda nuestras creencias o a priorizarla, mientras restamos valor a la que las cuestiona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto puede hacer muy difícil evaluar las creencias paranormales solo mediante la experiencia personal."
+    },
+    {
+      "type": "heading",
+      "text": "LA COINCIDENCIA PUEDE PARECER IMPOSIBLE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagina que piensas en un viejo amigo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cinco minutos después, te llama."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parece extraordinario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá incluso telepático."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero hay otra pregunta: ¿cuántas veces has pensado en alguien que no llamó?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esos casos suelen olvidarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "La coincidencia se vuelve memorable precisamente porque es inusual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con miles de millones de personas viviendo miles de pensamientos y sucesos cada día, las coincidencias extremadamente improbables son estadísticamente inevitables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Raro no significa sobrenatural."
+    },
+    {
+      "type": "heading",
+      "text": "EL EFECTO BARNUM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los videntes y adivinos a veces hacen afirmaciones que parecen notablemente personales."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces dudas de decisiones que has tomado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quieres que los demás te respeten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tienes capacidades que no has aprovechado plenamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alguien en quien confiabas te ha decepcionado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas frases pueden parecer específicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero se aplican a cantidades enormes de personas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los psicólogos llaman efecto Barnum o Forer a la tendencia a aceptar descripciones vagas y generales de personalidad como si fueran exclusivas de uno mismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayuda a explicar por qué los horóscopos, las lecturas de personalidad y ciertas formas de adivinación pueden parecer sorprendentemente acertados."
+    },
+    {
+      "type": "heading",
+      "text": "LA LECTURA EN FRÍO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra técnica asociada a una aparente capacidad psíquica es la lectura en frío."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un intérprete hábil puede obtener información de ropa, edad, lenguaje corporal, reacciones y respuestas sutiles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las preguntas pueden ser amplias al principio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las conjeturas acertadas se desarrollan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fallidas se abandonan o reinterpretan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para el participante, el resultado final puede parecer imposible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, un mentalista o ilusionista experimentado puede comprender el proceso sin poderes sobrenaturales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta distinción fascinó a un mago profesional más que a casi nadie."
+    },
+    {
+      "type": "paragraph",
+      "text": "James Randi."
+    },
+    {
+      "type": "heading",
+      "text": "¿QUIÉN FUE JAMES RANDI?"
+    },
+    {
+      "type": "paragraph",
+      "text": "James Randi fue un mago y escapista canadiense-estadounidense que después se convirtió en uno de los investigadores de afirmaciones paranormales más conocidos del mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprendía el engaño porque había sido su profesión."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el escenario podía crear sucesos aparentemente imposibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero decía abiertamente al público que eran ilusiones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su preocupación era distinta cuando otros utilizaban técnicas semejantes afirmando tener auténticos poderes sobrenaturales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Randi investigó videntes, sanadores por la fe, zahoríes y otras personas que afirmaban poseer capacidades paranormales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su postura era sencilla: si una capacidad afecta al mundo físico, debería poder demostrarse en condiciones diseñadas para eliminar explicaciones ordinarias."
+    },
+    {
+      "type": "heading",
+      "text": "URI GELLER Y LA ÉPOCA DE LAS CUCHARAS DOBLADAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las polémicas paranormales más famosas de los años setenta tuvo como protagonista a Uri Geller."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geller alcanzó fama internacional con demostraciones que parecían implicar capacidades psíquicas, como doblar objetos metálicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Randi sostenía que los magos profesionales podían reproducir efectos similares mediante técnicas ordinarias de ilusionismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto ilustra un principio científico importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demostrar que un efecto puede fingirse no prueba automáticamente que toda persona que lo realiza esté haciendo trampas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero elimina el argumento de que ese efecto solo puede explicarse mediante un poder sobrenatural."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las afirmaciones extraordinarias requieren pruebas más sólidas que demostraciones que también pueden producirse mediante ilusionismo."
+    },
+    {
+      "type": "heading",
+      "text": "EL RETO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Randi terminó poniendo dinero sobre la mesa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La primera versión de su reto paranormal comenzó en 1964 con un premio mucho menor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante las décadas siguientes aumentó la cantidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1996, el reto alcanzó 1.000.000 de dólares."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Fundación Educativa James Randi acabó administrando lo que se conoció como el Reto Paranormal del Millón de Dólares."
+    },
+    {
+      "type": "paragraph",
+      "text": "La idea básica era sencilla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demostrar una capacidad paranormal o sobrenatural en pruebas controladas acordadas por ambas partes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si el aspirante cumplía los criterios pactados, el premio era suyo."
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ IMPORTAN LAS CONDICIONES CONTROLADAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supongamos que alguien afirma poder identificar con poderes psíquicos qué caja contiene un objeto oculto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si puede ver reflejos sutiles, oír movimientos, recibir pistas accidentales de los investigadores o aprovechar fallos del experimento, el resultado demuestra muy poco."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una prueba adecuada intenta eliminar esas posibilidades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las condiciones y los criterios de éxito deben acordarse antes del experimento."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prueba debe minimizar las filtraciones de información sensorial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede ser necesario aleatorizar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede ser necesario ocultar información a participantes o investigadores mediante procedimientos ciegos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado no debe depender de interpretaciones subjetivas posteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso las pruebas controladas pueden dar resultados muy distintos de las demostraciones televisivas, escénicas o informales."
+    },
+    {
+      "type": "heading",
+      "text": "LA PREGUNTA DEL MILLÓN DE DÓLARES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según las informaciones publicadas, durante la existencia del reto más de mil personas solicitaron participar o expresaron interés en demostrar capacidades paranormales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Propusieron capacidades de telepatía, radiestesia, percepción psíquica, visión remota, detección de energías, mediumnidad y otros supuestos fenómenos sobrenaturales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, el premio del millón de dólares nunca se concedió."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ningún aspirante completó con éxito el proceso exigido demostrando una capacidad que cumpliera los estándares acordados."
+    },
+    {
+      "type": "heading",
+      "text": "¿ESO DEMUESTRA QUE LA MAGIA NO EXISTE?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y la distinción importa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Que nadie superara el reto de James Randi no demuestra lógicamente que ningún fenómeno paranormal pueda existir en ningún lugar del universo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia rara vez demuestra negaciones universales de esa forma."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo demostrado fue más limitado: ningún participante logró demostrar una capacidad paranormal en las condiciones controladas del reto con la solidez suficiente para ganar el premio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es muy distinto de decir que la ciencia demostró que todo lo sobrenatural es imposible."
+    },
+    {
+      "type": "paragraph",
+      "text": "PRESDA conserva esta distinción en todo el artículo."
+    },
+    {
+      "type": "heading",
+      "text": "CRÍTICAS AL RETO DE RANDI"
+    },
+    {
+      "type": "paragraph",
+      "text": "El reto también tuvo críticos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos defensores de lo paranormal cuestionaron que Randi y su fundación fueran suficientemente neutrales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otros criticaron los requisitos de solicitud o argumentaron que las capacidades paranormales quizá no funcionaran de manera fiable bajo observación de tipo laboratorio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conviene reconocer esas críticas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero plantean otro problema científico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si una capacidad desaparece siempre que se controlan las condiciones, ¿cómo distinguirla de coincidencias, filtraciones sensoriales, efectos psicológicos o engaños?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fenómeno no necesita funcionar perfectamente para resultar científicamente interesante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero debe producir pruebas distinguibles del azar."
+    },
+    {
+      "type": "heading",
+      "text": "LA CIENCIA SÍ INVESTIGA AFIRMACIONES EXTRAÑAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia no consiste en rechazar ideas inusuales porque parezcan imposibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchos descubrimientos parecieron extraordinarios en su momento."
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia crucial son las pruebas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fenómeno extraño que produce resultados medibles y repetibles puede convertirse en una cuestión científica legítima."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se han investigado telepatía, precognición, experiencias cercanas a la muerte, percepción anómala y otros fenómenos controvertidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los resultados siguen discutiéndose y la ciencia predominante no ha establecido pruebas fiables de los poderes paranormales que suelen afirmarse en la cultura popular."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la respuesta científica correcta no es la burla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es ponerlos a prueba."
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ NO BASTA EL TESTIMONIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un testimonio personal puede ser poderoso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alguien puede decir sinceramente: lo vi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo sentí."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo sabía antes de que ocurriera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero sinceridad y exactitud son cosas distintas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La memoria de los testigos puede ser imperfecta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las expectativas influyen en la percepción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las coincidencias ocurren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Podemos interpretar mal acontecimientos naturales."
+    },
+    {
+      "type": "paragraph",
+      "text": "También puede haber fraude."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso la ciencia moderna suele valorar las observaciones controladas y las pruebas reproducibles por encima de las anécdotas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuanto más extraordinaria sea la afirmación, más importantes son las pruebas fiables."
+    },
+    {
+      "type": "heading",
+      "text": "LAS AFIRMACIONES EXTRAORDINARIAS REQUIEREN PRUEBAS EXTRAORDINARIAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La frase «las afirmaciones extraordinarias requieren pruebas extraordinarias» está fuertemente asociada en la cultura popular moderna al astrónomo Carl Sagan, aunque hubo ideas semejantes antes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resume un principio del razonamiento escéptico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien dice que ayer llovió, pueden bastar pruebas ordinarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si dice que puede leer la mente de otra persona a 1.000 kilómetros, las consecuencias para física, biología y neurociencia serían enormes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, las pruebas deben tener una solidez proporcional."
+    },
+    {
+      "type": "paragraph",
+      "text": "James Randi basó buena parte de su actividad pública en el mismo principio, pero PRESDA no le atribuye la formulación moderna exacta."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen de este artículo incluye una asociación visual popular con Randi. El texto aclara que la frase exacta se asocia sobre todo a Carl Sagan."
+    },
+    {
+      "type": "heading",
+      "text": "CUANDO LA MAGIA ES REAL COMO ARTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay una forma de magia cuya existencia nadie necesita demostrar."
+    },
+    {
+      "type": "paragraph",
+      "text": "La magia escénica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los magos profesionales manipulan atención, percepción y expectativas para crear experiencias aparentemente imposibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una gran ilusión funciona precisamente porque el cerebro del público construye una explicación equivocada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso los magos ofrecen fascinantes demostraciones de psicología humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ventaja singular de Randi como investigador paranormal era que comprendía ambos lados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sabía lo convincente que podía resultar un suceso imposible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y sabía con qué facilidad podía manipularse la percepción humana."
+    },
+    {
+      "type": "heading",
+      "text": "LA PREGUNTA MÁS AMPLIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El debate sobre la magia trata, en último término, de algo más que hechizos o videntes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trata de cómo decidimos qué es verdad."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Debería bastar la experiencia personal?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuándo debemos exigir pruebas controladas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo distinguimos coincidencia y causalidad?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo diferenciamos lo inexplicado de lo sobrenatural?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas preguntas importan mucho más allá de las afirmaciones paranormales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se aplican a la medicina."
+    },
+    {
+      "type": "paragraph",
+      "text": "A la política."
+    },
+    {
+      "type": "paragraph",
+      "text": "A la publicidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "A las redes sociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "A las teorías de la conspiración."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y a la desinformación."
+    },
+    {
+      "type": "heading",
+      "text": "INEXPLICADO NO SIGNIFICA SOBRENATURAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Siempre habrá cosas que no podamos explicar inmediatamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero «no lo sabemos» y «por tanto, es sobrenatural» no son la misma afirmación."
+    },
+    {
+      "type": "paragraph",
+      "text": "A lo largo de la historia, fenómenos atribuidos a fuerzas sobrenaturales recibieron después explicaciones naturales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfermedades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rayos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eclipses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trastornos mentales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fenómenos astronómicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa historia no demuestra que todos los misterios vayan a recibir una explicación convencional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Enseña algo más fundamental: la ignorancia no es una prueba."
+    },
+    {
+      "type": "heading",
+      "text": "EL MILLÓN DE DÓLARES QUE NADIE GANÓ"
+    },
+    {
+      "type": "paragraph",
+      "text": "El reto de James Randi se hizo famoso porque convirtió un debate filosófico en algo extraordinariamente concreto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Había dinero."
+    },
+    {
+      "type": "paragraph",
+      "text": "Había aspirantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Había pruebas propuestas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y una pregunta sencilla: ¿puedes demostrar la capacidad cuando se controlan las explicaciones ordinarias?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El millón de dólares quedó sin ganador."
+    },
+    {
+      "type": "paragraph",
+      "text": "El reto terminó en 2015, después de la jubilación de Randi y de cambios en la orientación de la Fundación Educativa James Randi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Randi murió en 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la pregunta que sostenía el reto lo sobrevivió."
+    },
+    {
+      "type": "heading",
+      "text": "LA FRONTERA ENTRE CREENCIA Y PRUEBA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las personas son libres de mantener creencias espirituales y religiosas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia no dispone de un instrumento de laboratorio capaz de medir todas las ideas filosóficas o teológicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero cuando alguien formula una afirmación concreta sobre el mundo físico, puede pedir pruebas."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Se puede medir el efecto?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Se puede repetir la prueba?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Pueden reproducirla observadores independientes?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Pueden excluirse explicaciones ordinarias?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mientras no se cumplan esas condiciones, la conclusión científicamente responsable no es necesariamente «imposible»."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es «no demostrado»."
+    },
+    {
+      "type": "heading",
+      "text": "LO DESCONOCIDO PERMANECE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los seres humanos siempre hemos sentido fascinación por el misterio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Probablemente eso nunca desaparezca."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seguirán las historias de fantasmas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La gente buscará señales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los videntes harán predicciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ritos sobrevivirán."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y seguirán ocurriendo experiencias inexplicadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia no elimina el misterio del mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nos da un método para decidir cuándo un misterio se ha convertido en prueba."
+    },
+    {
+      "type": "paragraph",
+      "text": "James Randi pasó buena parte de su vida pidiendo a quienes afirmaban tener capacidades extraordinarias que cruzaran esa frontera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al otro lado esperaba un millón de dólares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nadie logró cobrarlo."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fundación Educativa James Randi: Reto Paranormal del Millón de Dólares",
+      "url": "https://web.randi.org/the-million-dollar-challenge.html"
+    },
+    {
+      "label": "Fundación Educativa James Randi: situación de la JREF y final del reto",
+      "url": "https://web.randi.org/home/jref-status"
+    },
+    {
+      "label": "Encyclopaedia Britannica: James Randi",
+      "url": "https://www.britannica.com/biography/James-Randi"
+    },
+    {
+      "label": "Diccionario de la Asociación Estadounidense de Psicología: sesgo de confirmación",
+      "url": "https://dictionary.apa.org/confirmation-bias"
+    },
+    {
+      "label": "Diccionario de la Asociación Estadounidense de Psicología: efecto Barnum",
+      "url": "https://dictionary.apa.org/barnum-effect"
+    },
+    {
+      "label": "American Psychologist: Forer, la falacia de la validación personal",
+      "url": "https://doi.org/10.1037/h0059240"
+    },
+    {
+      "label": "Smithsonian Folklife Festival: vudú y cultura haitiana",
+      "url": "https://festival.si.edu/articles/2004/vodou"
+    },
+    {
+      "label": "European Journal of Human Genetics: el criterio de Carl Sagan y las afirmaciones extraordinarias",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3114207/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Pueden demostrarse científicamente los poderes paranormales?",
+      "answer": "En principio, un poder paranormal que afecte al mundo observable podría ponerse a prueba. No se han establecido capacidades paranormales fiables en condiciones científicas controladas."
+    },
+    {
+      "question": "¿Alguien ganó el reto del millón de dólares de James Randi?",
+      "answer": "No. El premio del Reto Paranormal del Millón de Dólares de la Fundación Educativa James Randi nunca se concedió antes de que terminara en 2015."
+    },
+    {
+      "question": "¿El reto de Randi demuestra que la magia es imposible?",
+      "answer": "No. Muestra que ningún aspirante demostró con éxito una capacidad paranormal bajo las condiciones controladas acordadas. No equivale a demostrar que toda idea sobrenatural sea imposible."
+    },
+    {
+      "question": "¿El vudú es lo mismo que la magia negra?",
+      "answer": "No. El vudú haitiano es una religión y tradición cultural. Reducirlo a maldiciones, muñecos o magia negra repite estereotipos engañosos del entretenimiento popular y de representaciones coloniales."
+    },
+    {
+      "question": "¿Qué es el efecto Barnum?",
+      "answer": "El efecto Barnum o Forer es la tendencia a aceptar descripciones de personalidad vagas y aplicables a muchas personas como si fueran especialmente exactas para uno mismo."
+    },
+    {
+      "question": "¿Qué es la lectura en frío?",
+      "answer": "Es una técnica de interpretación que utiliza observación, preguntas generales, reacciones e interpretación para crear la impresión de poseer conocimientos especiales sobre alguien."
+    },
+    {
+      "question": "¿Quién dijo que las afirmaciones extraordinarias requieren pruebas extraordinarias?",
+      "answer": "La formulación moderna exacta se asocia sobre todo a Carl Sagan, aunque hubo ideas escépticas similares antes. PRESDA no atribuye esa cita exacta a James Randi."
+    }
+  ]
+}

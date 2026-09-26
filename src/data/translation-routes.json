@@ -121,6 +121,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/charles-darwin-theory-of-evolution/",
+    "path": "/ar/articles/charles-darwin-theory-of-evolution/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/charles-darwin-theory-of-evolution/",
+    "path": "/es/articles/charles-darwin-theory-of-evolution/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/charles-darwin-theory-of-evolution/",
+    "path": "/fr/articles/charles-darwin-theory-of-evolution/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/david-beckhams-unexpected-passion-beyond-football/",
     "path": "/ar/articles/david-beckhams-unexpected-passion-beyond-football/"
   },
@@ -136,6 +151,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/deja-vu-why-does-it-happen-brain-science/",
+    "path": "/ar/articles/deja-vu-why-does-it-happen-brain-science/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/deja-vu-why-does-it-happen-brain-science/",
+    "path": "/es/articles/deja-vu-why-does-it-happen-brain-science/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/deja-vu-why-does-it-happen-brain-science/",
+    "path": "/fr/articles/deja-vu-why-does-it-happen-brain-science/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/denisovans-lost-humans-dna/",
     "path": "/ar/articles/denisovans-lost-humans-dna/"
   },
@@ -148,6 +178,36 @@
     "locale": "fr",
     "englishPath": "/articles/denisovans-lost-humans-dna/",
     "path": "/fr/articles/denisovans-lost-humans-dna/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/domain-investing-premium-domain-sales/",
+    "path": "/ar/articles/domain-investing-premium-domain-sales/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/domain-investing-premium-domain-sales/",
+    "path": "/es/articles/domain-investing-premium-domain-sales/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/domain-investing-premium-domain-sales/",
+    "path": "/fr/articles/domain-investing-premium-domain-sales/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/epstein-island-little-st-james-investigation/",
+    "path": "/ar/articles/epstein-island-little-st-james-investigation/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/epstein-island-little-st-james-investigation/",
+    "path": "/es/articles/epstein-island-little-st-james-investigation/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/epstein-island-little-st-james-investigation/",
+    "path": "/fr/articles/epstein-island-little-st-james-investigation/"
   },
   {
     "locale": "ar",
@@ -226,6 +286,111 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/house-music-brain-rhythm-128-bpm-science-dancing/",
+    "path": "/ar/articles/house-music-brain-rhythm-128-bpm-science-dancing/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/house-music-brain-rhythm-128-bpm-science-dancing/",
+    "path": "/es/articles/house-music-brain-rhythm-128-bpm-science-dancing/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/house-music-brain-rhythm-128-bpm-science-dancing/",
+    "path": "/fr/articles/house-music-brain-rhythm-128-bpm-science-dancing/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/how-humans-learned-to-speak/",
+    "path": "/ar/articles/how-humans-learned-to-speak/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/how-humans-learned-to-speak/",
+    "path": "/es/articles/how-humans-learned-to-speak/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/how-humans-learned-to-speak/",
+    "path": "/fr/articles/how-humans-learned-to-speak/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/japan-enters-ai-care-era/",
+    "path": "/ar/articles/japan-enters-ai-care-era/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/japan-enters-ai-care-era/",
+    "path": "/es/articles/japan-enters-ai-care-era/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/japan-enters-ai-care-era/",
+    "path": "/fr/articles/japan-enters-ai-care-era/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/jon-snow-backs-morocco/",
+    "path": "/ar/articles/jon-snow-backs-morocco/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/jon-snow-backs-morocco/",
+    "path": "/es/articles/jon-snow-backs-morocco/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/jon-snow-backs-morocco/",
+    "path": "/fr/articles/jon-snow-backs-morocco/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/magic-paranormal-james-randi/",
+    "path": "/ar/articles/magic-paranormal-james-randi/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/magic-paranormal-james-randi/",
+    "path": "/es/articles/magic-paranormal-james-randi/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/magic-paranormal-james-randi/",
+    "path": "/fr/articles/magic-paranormal-james-randi/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/native-americans-history-indigenous-peoples/",
+    "path": "/ar/articles/native-americans-history-indigenous-peoples/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/native-americans-history-indigenous-peoples/",
+    "path": "/es/articles/native-americans-history-indigenous-peoples/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/native-americans-history-indigenous-peoples/",
+    "path": "/fr/articles/native-americans-history-indigenous-peoples/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/natural-disasters-earthquakes-volcanoes-tsunamis/",
+    "path": "/ar/articles/natural-disasters-earthquakes-volcanoes-tsunamis/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/natural-disasters-earthquakes-volcanoes-tsunamis/",
+    "path": "/es/articles/natural-disasters-earthquakes-volcanoes-tsunamis/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/natural-disasters-earthquakes-volcanoes-tsunamis/",
+    "path": "/fr/articles/natural-disasters-earthquakes-volcanoes-tsunamis/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/naza-documentary-israel-filmmakers-citizenship-controversy/",
     "path": "/ar/articles/naza-documentary-israel-filmmakers-citizenship-controversy/"
   },
@@ -238,6 +403,21 @@
     "locale": "fr",
     "englishPath": "/articles/naza-documentary-israel-filmmakers-citizenship-controversy/",
     "path": "/fr/articles/naza-documentary-israel-filmmakers-citizenship-controversy/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/nobel-prize-history-winners-discoveries/",
+    "path": "/ar/articles/nobel-prize-history-winners-discoveries/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/nobel-prize-history-winners-discoveries/",
+    "path": "/es/articles/nobel-prize-history-winners-discoveries/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/nobel-prize-history-winners-discoveries/",
+    "path": "/fr/articles/nobel-prize-history-winners-discoveries/"
   },
   {
     "locale": "ar",
@@ -271,6 +451,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/petra-nabataeans-desert-city-jordan-history/",
+    "path": "/ar/articles/petra-nabataeans-desert-city-jordan-history/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/petra-nabataeans-desert-city-jordan-history/",
+    "path": "/es/articles/petra-nabataeans-desert-city-jordan-history/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/petra-nabataeans-desert-city-jordan-history/",
+    "path": "/fr/articles/petra-nabataeans-desert-city-jordan-history/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/places-that-dont-look-real-surreal-landscapes-travel/",
     "path": "/ar/articles/places-that-dont-look-real-surreal-landscapes-travel/"
   },
@@ -283,6 +478,21 @@
     "locale": "fr",
     "englishPath": "/articles/places-that-dont-look-real-surreal-landscapes-travel/",
     "path": "/fr/articles/places-that-dont-look-real-surreal-landscapes-travel/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/roman-empire-power-luxury-life-ancient-rome/",
+    "path": "/ar/articles/roman-empire-power-luxury-life-ancient-rome/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/roman-empire-power-luxury-life-ancient-rome/",
+    "path": "/es/articles/roman-empire-power-luxury-life-ancient-rome/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/roman-empire-power-luxury-life-ancient-rome/",
+    "path": "/fr/articles/roman-empire-power-luxury-life-ancient-rome/"
   },
   {
     "locale": "ar",
@@ -331,6 +541,66 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/the-brands-behind-world-cup-2026/",
+    "path": "/ar/articles/the-brands-behind-world-cup-2026/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/the-brands-behind-world-cup-2026/",
+    "path": "/es/articles/the-brands-behind-world-cup-2026/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/the-brands-behind-world-cup-2026/",
+    "path": "/fr/articles/the-brands-behind-world-cup-2026/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/top-10-hidden-gems-to-visit-in-2026/",
+    "path": "/ar/articles/top-10-hidden-gems-to-visit-in-2026/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/top-10-hidden-gems-to-visit-in-2026/",
+    "path": "/es/articles/top-10-hidden-gems-to-visit-in-2026/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/top-10-hidden-gems-to-visit-in-2026/",
+    "path": "/fr/articles/top-10-hidden-gems-to-visit-in-2026/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/us-china-ai-race-control-powerful-technology/",
+    "path": "/ar/articles/us-china-ai-race-control-powerful-technology/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/us-china-ai-race-control-powerful-technology/",
+    "path": "/es/articles/us-china-ai-race-control-powerful-technology/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/us-china-ai-race-control-powerful-technology/",
+    "path": "/fr/articles/us-china-ai-race-control-powerful-technology/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/why-do-we-dream/",
+    "path": "/ar/articles/why-do-we-dream/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/why-do-we-dream/",
+    "path": "/es/articles/why-do-we-dream/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/why-do-we-dream/",
+    "path": "/fr/articles/why-do-we-dream/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/why-people-trust-ai-like-a-friend/",
     "path": "/ar/articles/why-people-trust-ai-like-a-friend/"
   },
@@ -343,6 +613,36 @@
     "locale": "fr",
     "englishPath": "/articles/why-people-trust-ai-like-a-friend/",
     "path": "/fr/articles/why-people-trust-ai-like-a-friend/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/will-ai-agents-replace-jobs/",
+    "path": "/ar/articles/will-ai-agents-replace-jobs/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/will-ai-agents-replace-jobs/",
+    "path": "/es/articles/will-ai-agents-replace-jobs/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/will-ai-agents-replace-jobs/",
+    "path": "/fr/articles/will-ai-agents-replace-jobs/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/world-cup-2026-countdown/",
+    "path": "/ar/articles/world-cup-2026-countdown/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/world-cup-2026-countdown/",
+    "path": "/es/articles/world-cup-2026-countdown/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/world-cup-2026-countdown/",
+    "path": "/fr/articles/world-cup-2026-countdown/"
   },
   {
     "locale": "ar",
