@@ -1,10 +1,14 @@
 const assert = require('node:assert/strict');
 const { sourceBlocks, sourceFaqs } = require('./translation-library.cjs');
+const citationRepairs = require('./reviewed-citation-repairs.json');
 const links = text => [...text.matchAll(/\[[^\]]+\]\(([^)]+)\)/g)].map(match => match[1]);
 const blockType = text => text.startsWith('### ') ? 'subheading' : text.startsWith('## ') ? 'heading' : text.startsWith('> ') ? 'quote' : 'paragraph';
 
 function validateArticleParity(record, source) {
   const label = record.path;
+  // Permit only individually reviewed, article-scoped repairs of broken source
+  // URLs. Normalize both directions so the untouched English remains valid.
+  const normalizeUrl = url => citationRepairs.find(repair => repair.slug === source.slug && repair.replacement === url)?.original ?? url;
   assert.equal(record.image.src, source.coverImage, `${label}: original image`);
   assert.notEqual(record.image.alt, source.coverAlt, `${label}: localized alt`);
   assert.equal(record.author, source.author, `${label}: author attribution`);
@@ -26,10 +30,10 @@ function validateArticleParity(record, source) {
       return;
     }
     assert.notEqual(translated.text, block.text, `${label} block ${index}: untranslated text`);
-    assert.deepEqual(links(translated.text), links(block.text), `${label} block ${index}: citation and internal URL parity`);
+    assert.deepEqual(links(translated.text).map(normalizeUrl), links(block.text).map(normalizeUrl), `${label} block ${index}: citation and internal URL parity`);
   });
   const references = source.references ?? (source.source?.url ? [source.source] : []);
-  assert.deepEqual(record.sources?.map(item => item.url) ?? [], references.map(item => item.url), `${label}: reference list`);
+  assert.deepEqual(record.sources?.map(item => normalizeUrl(item.url)) ?? [], references.map(item => normalizeUrl(item.url)), `${label}: reference list`);
   // Older reviewed records may omit generic template FAQs. New translations can
   // preserve them explicitly, using the exact visible English FAQ source.
   assert.equal(record.faq?.length ?? 0, sourceFaqs(source, Boolean(record.faq?.length)).length, `${label}: FAQ parity`);

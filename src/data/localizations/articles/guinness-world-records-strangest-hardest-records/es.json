@@ -31,7 +31,7 @@
   "updatedAt": "2026-09-11",
   "image": {
     "src": "/articles/guinness-world-records-strangest-hardest-records.png",
-    "alt": "Exposición de Guinness World Records con aspecto de museo cinematográfico: un visitante observa objetos de récord insólitos y un gran emblema de Guinness en la pared."
+    "alt": "Exposición de Guinness World Records ambientada como un museo, en una imagen de estilo cinematográfico: un visitante observa objetos de récord insólitos y un gran emblema de Guinness en la pared."
   },
   "content": [
     {
@@ -372,7 +372,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Las preguntas frecuentes oficiales de Guinness indican que no paga por los logros ni por realizar un intento de récord. Tampoco cubre gastos, ofrece patrocinios ni proporciona equipo a quienes lo intentan."
+      "text": "Las preguntas frecuentes oficiales de Guinness indican que no paga por los logros ni por realizar un intento de récord. Tampoco cubre gastos ni ofrece patrocinios ni proporciona equipo a quienes lo intentan."
     },
     {
       "type": "paragraph",
@@ -690,7 +690,7 @@
     },
     {
       "label": "Guinness World Records: marcas que parecen imposibles de superar",
-      "url": "https://dev-micro.guinnessworldrecords.com/news/2025/2/records-you-think-will-never-be-broken-from-fastest-speed-in-a-car-to-most-lightning-strikes-survived"
+      "url": "https://www.guinnessworldrecords.com/news/2025/2/records-you-think-will-never-be-broken-from-fastest-speed-on-water-to-tallest-man-ever"
     },
     {
       "label": "Guinness World Records Kids: David Rush, figura legendaria de los récords",
@@ -700,7 +700,7 @@
   "faq": [
     {
       "question": "¿Guinness paga a quienes consiguen un récord?",
-      "answer": "Guinness World Records afirma que no paga por las hazañas ni por realizar un intento de récord, y que no cubre gastos, ofrece patrocinios ni facilita equipo a los aspirantes."
+      "answer": "Guinness World Records afirma que no paga por las hazañas ni por realizar un intento de récord, y que no cubre gastos ni ofrece patrocinios ni facilita equipo a los aspirantes."
     },
     {
       "question": "¿Cómo se bate un récord Guinness?",

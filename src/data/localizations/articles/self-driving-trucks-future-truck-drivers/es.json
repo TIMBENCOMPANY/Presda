@@ -162,7 +162,7 @@
     },
     {
       "type": "paragraph",
-      "text": "El transporte también ofrece fuertes incentivos económicos. Los camiones son activos caros. Si la autonomía permite usarlos más horas al día, las empresas podrán transportar más con menos tiempo inactivo. Los salarios, prestaciones, descansos y escasez de conductores en algunos mercados refuerzan el argumento empresarial."
+      "text": "El transporte también ofrece fuertes incentivos económicos. Los camiones son activos caros. Si la autonomía permite usarlos más horas al día, las empresas podrán transportar más con menos tiempo inactivo. Los salarios, las prestaciones, los límites de jornada y descanso y la escasez de conductores en algunos mercados refuerzan el argumento empresarial."
     },
     {
       "type": "paragraph",
@@ -892,7 +892,7 @@
   "sources": [
     {
       "label": "Pony.ai: noticias de la empresa y novedades de conducción autónoma",
-      "url": "https://www.pony.ai/news"
+      "url": "https://www.pony.ai/press?lang=en"
     },
     {
       "label": "SAE International: niveles de automatización de la conducción",

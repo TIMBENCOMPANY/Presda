@@ -65,7 +65,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Samsung a été fondé par Lee Byung-chul en 1938 à Daegu, en Corée. Les [documents de Samsung consacrés à son histoire](https://www.samsung.com/us/about-us/company-info/heritage/) décrivent des débuts dans le négoce, l’alimentation et le commerce régional, avant un élargissement à d’autres industries."
+      "text": "Samsung a été fondé par Lee Byung-chul en 1938 à Daegu, en Corée. Les [documents de Samsung consacrés à son histoire](https://www.samsung.com/us/about-us/leadership-and-mission/heritage/) décrivent des débuts dans le négoce, l’alimentation et le commerce régional, avant un élargissement à d’autres industries."
     },
     {
       "type": "paragraph",
@@ -385,7 +385,7 @@
     },
     {
       "type": "paragraph",
-      "text": "L’[histoire des Galaxy S publiée par Samsung Newsroom](https://news.samsung.com/global/galaxy-history-the-evolution-of-galaxy-s) retrace la gamme depuis le premier Galaxy S de 2010 jusqu’aux générations suivantes, qui ont mis l’accent sur la qualité d’affichage, les appareils photo, la puissance de calcul et l’intégration d’Android."
+      "text": "L’[histoire des Galaxy S publiée par Samsung Newsroom](https://news.samsung.com/global/from-zero-to-infinity-the-five-year-journey-of-the-samsung-galaxy-s) retrace la gamme depuis le premier Galaxy S de 2010 jusqu’aux générations suivantes, qui ont mis l’accent sur la qualité d’affichage, les appareils photo, la puissance de calcul et l’intégration d’Android."
     },
     {
       "type": "paragraph",
@@ -493,7 +493,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La Commission américaine de sécurité des produits de consommation a annoncé un [rappel officiel des smartphones Galaxy Note7](https://www.cpsc.gov/Recalls/2017/Samsung-Recalls-Galaxy-Note7-Smartphones), dont les batteries pouvaient surchauffer et présenter des risques d’incendie et de brûlure. Samsung a également publié ses [communications mondiales sur les échanges et la sécurité](https://news.samsung.com/global/statement-on-galaxy-note7)."
+      "text": "La Commission américaine de sécurité des produits de consommation a annoncé un [rappel officiel des smartphones Galaxy Note7](https://www.cpsc.gov/Recalls/2016/Samsung-Recalls-Galaxy-Note7-Smartphones), dont les batteries pouvaient surchauffer et présenter des risques d’incendie et de brûlure. Samsung a également publié ses [communications mondiales sur les échanges et la sécurité](https://news.samsung.com/global/statement-on-galaxy-note7)."
     },
     {
       "type": "paragraph",
@@ -557,7 +557,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Dans ses [documents destinés aux investisseurs et rapports annuels](https://www.samsung.com/global/ir/reports-disclosures/annual-reports/), Samsung Electronics présente ses grandes activités, notamment Device eXperience, les semi-conducteurs et les opérations liées aux écrans."
+      "text": "Dans ses [documents destinés aux investisseurs et rapports annuels](https://www.samsung.com/global/ir/reports-disclosures/sustainability-reports/), Samsung Electronics présente ses grandes activités, notamment Device eXperience, les semi-conducteurs et les opérations liées aux écrans."
     },
     {
       "type": "paragraph",
@@ -683,7 +683,7 @@
   "sources": [
     {
       "label": "Samsung : histoire de l’entreprise",
-      "url": "https://www.samsung.com/us/about-us/company-info/heritage/"
+      "url": "https://www.samsung.com/us/about-us/leadership-and-mission/heritage/"
     },
     {
       "label": "Samsung Semiconductor : repères historiques",
@@ -695,11 +695,11 @@
     },
     {
       "label": "Samsung Newsroom : l’évolution des Galaxy S",
-      "url": "https://news.samsung.com/global/galaxy-history-the-evolution-of-galaxy-s"
+      "url": "https://news.samsung.com/global/from-zero-to-infinity-the-five-year-journey-of-the-samsung-galaxy-s"
     },
     {
       "label": "Commission américaine de sécurité des produits de consommation : rappel des smartphones Samsung Galaxy Note7",
-      "url": "https://www.cpsc.gov/Recalls/2017/Samsung-Recalls-Galaxy-Note7-Smartphones"
+      "url": "https://www.cpsc.gov/Recalls/2016/Samsung-Recalls-Galaxy-Note7-Smartphones"
     },
     {
       "label": "Samsung Newsroom : communiqué sur le Galaxy Note7",
@@ -707,7 +707,7 @@
     },
     {
       "label": "Relations investisseurs de Samsung : rapports annuels",
-      "url": "https://www.samsung.com/global/ir/reports-disclosures/annual-reports/"
+      "url": "https://www.samsung.com/global/ir/reports-disclosures/sustainability-reports/"
     }
   ],
   "faq": [

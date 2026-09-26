@@ -31,7 +31,7 @@
   "updatedAt": "2026-09-23",
   "image": {
     "src": "/articles/self-driving-trucks-future-truck-drivers.png",
-    "alt": "Illustration d’un camion autonome sur une route, évoquant l’automatisation du transport de marchandises et l’avenir des chauffeurs routiers"
+    "alt": "Un chauffeur routier regarde deux camions autonomes futuristes circuler sur une autoroute de nuit."
   },
   "content": [
     {
@@ -256,7 +256,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le pays possède une demande logistique immense, d’énormes ports, des corridors industriels denses, de grands constructeurs nationaux de camions, de solides chaînes d’approvisionnement de véhicules électriques et des villes ayant déjà expérimenté robotaxis et livraisons automatisées."
+      "text": "Le pays connaît une demande logistique immense, d’énormes ports, des corridors industriels denses, de grands constructeurs nationaux de camions, de solides chaînes d’approvisionnement de véhicules électriques et des villes ayant déjà expérimenté robotaxis et livraisons automatisées."
     },
     {
       "type": "paragraph",
@@ -280,7 +280,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le Texas, la Sun Belt et les axes de fret inter-États attirent particulièrement l’attention parce que la météo peut y être plus gérable que dans les régions très enneigées et que leurs corridors sont commercialement intéressants."
+      "text": "Le Texas, la Sun Belt et les axes de fret inter-États attirent particulièrement l’attention parce que les conditions météorologiques peuvent y être plus faciles à gérer que dans les régions très enneigées et que leurs corridors sont commercialement intéressants."
     },
     {
       "type": "paragraph",
@@ -376,11 +376,11 @@
     },
     {
       "type": "paragraph",
-      "text": "Beaucoup de chauffeurs perçoivent un revenu intermédiaire sans avoir besoin d’un diplôme universitaire en quatre ans. Certains sont immigrés, d’autres plus âgés. Certains possèdent ou louent leur matériel. Certains restent longtemps loin de chez eux. Certains transportent des cargaisons spécialisées, gèrent des clients difficiles, inspectent les chargements et règlent des problèmes qu’aucune démonstration logicielle ne montre."
+      "text": "Beaucoup de chauffeurs perçoivent un salaire de classe moyenne sans avoir besoin d’un diplôme universitaire obtenu après quatre années d’études. Certains sont immigrés, d’autres plus âgés. Certains possèdent ou louent leur matériel. Certains restent longtemps loin de chez eux. Certains transportent des cargaisons spécialisées, gèrent des clients difficiles, inspectent les chargements et règlent des problèmes qu’aucune démonstration logicielle ne montre."
     },
     {
       "type": "paragraph",
-      "text": "C’est le cœur émotionnel du débat : la machine pourrait continuer d’avancer tandis que l’humain se demande si son métier avancera avec elle."
+      "text": "C’est le cœur émotionnel du débat : la machine pourrait continuer d’avancer tandis que le chauffeur se demande si son métier aura encore sa place."
     },
     {
       "type": "heading",
@@ -812,7 +812,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les États-Unis possèdent des entreprises d’IA de premier plan, la conception de puces, du capital-risque, une forte demande logistique et des corridors autoroutiers de fret. La Chine dispose d’une grande capacité industrielle, de chaînes d’approvisionnement électriques, de demande logistique intérieure, d’entreprises d’autonomie rapides et du soutien de la politique industrielle."
+      "text": "Les États-Unis disposent d’entreprises d’IA de premier plan, d’un savoir-faire en conception de puces, de capital-risque, d’une forte demande logistique et de corridors autoroutiers de fret. La Chine s’appuie sur une grande capacité industrielle, des chaînes d’approvisionnement pour les véhicules électriques, une demande logistique intérieure, des entreprises de conduite autonome qui progressent vite et le soutien de sa politique industrielle."
     },
     {
       "type": "paragraph",
@@ -890,7 +890,7 @@
   "sources": [
     {
       "label": "Pony.ai : actualités de l’entreprise et de la conduite autonome",
-      "url": "https://www.pony.ai/news"
+      "url": "https://www.pony.ai/press?lang=en"
     },
     {
       "label": "SAE International : niveaux d’automatisation de la conduite",

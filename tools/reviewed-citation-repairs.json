@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "david-beckhams-unexpected-passion-beyond-football",
+    "original": "https://www.rhs.org.uk/science/conservation-biodiversity/plants-for-pollinators",
+    "replacement": "https://www.rhs.org.uk/science/research/plants-for-pollinators",
+    "reason": "Same RHS Plants for Pollinators programme at its working research URL.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "guinness-world-records-strangest-hardest-records",
+    "original": "https://dev-micro.guinnessworldrecords.com/news/2025/2/records-you-think-will-never-be-broken-from-fastest-speed-in-a-car-to-most-lightning-strikes-survived",
+    "replacement": "https://www.guinnessworldrecords.com/news/2025/2/records-you-think-will-never-be-broken-from-fastest-speed-on-water-to-tallest-man-ever",
+    "reason": "Public Guinness article dated 5 February 2025, including Wadlow, Warby and Sullivan, replaces broken development-host reference.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "samsung-from-food-to-tech-empire",
+    "original": "https://www.samsung.com/us/about-us/company-info/heritage/",
+    "replacement": "https://www.samsung.com/us/about-us/leadership-and-mission/heritage/",
+    "reason": "Same Samsung brand heritage page at its current location.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "samsung-from-food-to-tech-empire",
+    "original": "https://news.samsung.com/global/galaxy-history-the-evolution-of-galaxy-s",
+    "replacement": "https://news.samsung.com/global/from-zero-to-infinity-the-five-year-journey-of-the-samsung-galaxy-s",
+    "reason": "Working Samsung Newsroom Galaxy S retrospective supports the cited 2010 origin and subsequent display, processor and camera development. Reviewed same-publisher replacement, not an asserted redirect.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "samsung-from-food-to-tech-empire",
+    "original": "https://www.cpsc.gov/Recalls/2017/Samsung-Recalls-Galaxy-Note7-Smartphones",
+    "replacement": "https://www.cpsc.gov/Recalls/2016/Samsung-Recalls-Galaxy-Note7-Smartphones",
+    "reason": "Correct year in the CPSC URL for the cited Note7 fire and burn hazard recall.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "samsung-from-food-to-tech-empire",
+    "original": "https://www.samsung.com/global/ir/reports-disclosures/annual-reports/",
+    "replacement": "https://www.samsung.com/global/ir/reports-disclosures/sustainability-reports/",
+    "reason": "Samsung's official report archive states annual reports have been integrated into sustainability reports since 2015; it retains the older annual reports too.",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "self-driving-trucks-future-truck-drivers",
+    "original": "https://www.pony.ai/news",
+    "replacement": "https://www.pony.ai/press?lang=en",
+    "reason": "Working official Pony.ai English press archive for the same company-news reference.",
+    "verifiedAt": "2026-09-26"
+  }
+]

@@ -65,7 +65,7 @@
     },
     {
       "type": "paragraph",
-      "text": "أسس لي بيونغ تشول سامسونج عام 1938 في دايغو بكوريا. وتصف [مواد الشركة عن تاريخها](https://www.samsung.com/us/about-us/company-info/heritage/) بدايتها في التجارة والأغذية والأسواق الإقليمية قبل التوسع إلى صناعات أوسع."
+      "text": "أسس لي بيونغ تشول سامسونج عام 1938 في دايغو بكوريا. وتصف [مواد الشركة عن تاريخها](https://www.samsung.com/us/about-us/leadership-and-mission/heritage/) بدايتها في التجارة والأغذية والأسواق الإقليمية قبل التوسع إلى صناعات أوسع."
     },
     {
       "type": "paragraph",
@@ -329,7 +329,7 @@
     },
     {
       "type": "paragraph",
-      "text": "قويت سامسونج لأنها لم تعتمد على فئة اختراق واحدة، بل بنت محفظة تجمع الأجهزة الاستهلاكية والمكونات الصناعية."
+      "text": "قويت سامسونج لأنها لم تعتمد على نجاح استثنائي في فئة واحدة من المنتجات، بل بنت محفظة تجمع الأجهزة الاستهلاكية والمكونات الصناعية."
     },
     {
       "type": "paragraph",
@@ -385,7 +385,7 @@
     },
     {
       "type": "paragraph",
-      "text": "يتتبع [تاريخ جالاكسي إس في غرفة أخبار سامسونج](https://news.samsung.com/global/galaxy-history-the-evolution-of-galaxy-s) السلسلة من هاتفها الأول عام 2010 إلى أجيال لاحقة ركزت على جودة الشاشة والكاميرات وقدرة المعالجة والتكامل مع أندرويد."
+      "text": "يتتبع [تاريخ جالاكسي إس في غرفة أخبار سامسونج](https://news.samsung.com/global/from-zero-to-infinity-the-five-year-journey-of-the-samsung-galaxy-s) السلسلة من هاتفها الأول عام 2010 إلى أجيال لاحقة ركزت على جودة الشاشة والكاميرات وقدرة المعالجة والتكامل مع أندرويد."
     },
     {
       "type": "paragraph",
@@ -493,7 +493,7 @@
     },
     {
       "type": "paragraph",
-      "text": "أعلنت لجنة سلامة المنتجات الاستهلاكية الأمريكية [استدعاءً رسمياً لهواتف جالاكسي نوت 7](https://www.cpsc.gov/Recalls/2017/Samsung-Recalls-Galaxy-Note7-Smartphones) لأن البطاريات قد ترتفع حرارتها وتشكل مخاطر حريق وحروق. ونشرت سامسونج أيضاً [بياناتها العالمية عن الاستبدال والسلامة](https://news.samsung.com/global/statement-on-galaxy-note7)."
+      "text": "أعلنت لجنة سلامة المنتجات الاستهلاكية الأمريكية [استدعاءً رسمياً لهواتف جالاكسي نوت 7](https://www.cpsc.gov/Recalls/2016/Samsung-Recalls-Galaxy-Note7-Smartphones) لأن البطاريات قد ترتفع حرارتها وتشكل مخاطر حريق وحروق. ونشرت سامسونج أيضاً [بياناتها العالمية عن الاستبدال والسلامة](https://news.samsung.com/global/statement-on-galaxy-note7)."
     },
     {
       "type": "paragraph",
@@ -537,7 +537,7 @@
     },
     {
       "type": "paragraph",
-      "text": "كانت الهواتف القابلة للطي باهظة وغير مكتملة في البداية، لكنها منحت سامسونج قصة ابتكار وساعدتها على تحديد ملامح فئة قبل دخول أبل إليها."
+      "text": "كانت الهواتف القابلة للطي باهظة وغير مكتملة في البداية، لكنها منحت سامسونج إنجازاً تبرز به قدرتها على الابتكار وساعدتها على تحديد ملامح فئة قبل دخول أبل إليها."
     },
     {
       "type": "paragraph",
@@ -557,7 +557,7 @@
     },
     {
       "type": "paragraph",
-      "text": "تفصح سامسونج للإلكترونيات عن قطاعات رئيسية تشمل تجربة الأجهزة وأشباه الموصلات والعمليات المرتبطة بالشاشات في [مواد المستثمرين والتقارير السنوية](https://www.samsung.com/global/ir/reports-disclosures/annual-reports/)."
+      "text": "تفصح سامسونج للإلكترونيات عن قطاعات رئيسية تشمل تجربة الأجهزة وأشباه الموصلات والعمليات المرتبطة بالشاشات في [مواد المستثمرين والتقارير السنوية](https://www.samsung.com/global/ir/reports-disclosures/sustainability-reports/)."
     },
     {
       "type": "paragraph",
@@ -683,7 +683,7 @@
   "sources": [
     {
       "label": "سامسونج: تاريخ الشركة",
-      "url": "https://www.samsung.com/us/about-us/company-info/heritage/"
+      "url": "https://www.samsung.com/us/about-us/leadership-and-mission/heritage/"
     },
     {
       "label": "سامسونج لأشباه الموصلات: التاريخ",
@@ -695,11 +695,11 @@
     },
     {
       "label": "غرفة أخبار سامسونج: تاريخ جالاكسي وتطور سلسلة جالاكسي إس",
-      "url": "https://news.samsung.com/global/galaxy-history-the-evolution-of-galaxy-s"
+      "url": "https://news.samsung.com/global/from-zero-to-infinity-the-five-year-journey-of-the-samsung-galaxy-s"
     },
     {
       "label": "لجنة سلامة المنتجات الاستهلاكية الأمريكية: سامسونج تستدعي هواتف جالاكسي نوت 7",
-      "url": "https://www.cpsc.gov/Recalls/2017/Samsung-Recalls-Galaxy-Note7-Smartphones"
+      "url": "https://www.cpsc.gov/Recalls/2016/Samsung-Recalls-Galaxy-Note7-Smartphones"
     },
     {
       "label": "غرفة أخبار سامسونج: بيان بشأن جالاكسي نوت 7",
@@ -707,7 +707,7 @@
     },
     {
       "label": "علاقات المستثمرين في سامسونج: التقارير السنوية",
-      "url": "https://www.samsung.com/global/ir/reports-disclosures/annual-reports/"
+      "url": "https://www.samsung.com/global/ir/reports-disclosures/sustainability-reports/"
     }
   ],
   "faq": [
