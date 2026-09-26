@@ -1,3 +1,5 @@
+import { getArticleBySlug } from "@/data/articles";
+import { getArticleSchemaType } from "@/lib/articleSeo";
 import type { Metadata } from "next";
 import type { Translation } from "./content";
 import { getLanguageAlternates } from "./registry";
@@ -36,10 +38,12 @@ export function translationFaqJsonLd(record: Translation) {
 }
 
 export function translationJsonLd(record: Translation) {
+  const source = record.kind === "article" ? getArticleBySlug(record.englishPath.split("/").filter(Boolean).at(-1)!) : undefined;
+  const schemaType = source ? getArticleSchemaType(source) : "Article";
   const url = `https://presda.com${record.path}`;
   return {
     "@context": "https://schema.org",
-    "@type": record.kind === "article" ? "Article" : record.kind === "category" ? "CollectionPage" : "WebPage",
+    "@type": record.kind === "article" ? schemaType : record.kind === "category" ? "CollectionPage" : "WebPage",
     "@id": `${url}#${record.kind}`,
     url, inLanguage: record.locale, headline: record.title, description: record.description,
     mainEntityOfPage: url,
@@ -49,7 +53,7 @@ export function translationJsonLd(record: Translation) {
     ...(record.sources?.length ? { citation: record.sources.map(source => source.url) } : {}),
     ...(record.author ? { author: { "@type": record.author === "PRESDA Editorial" ? "Organization" : "Person", name: record.author, ...(record.author === "PRESDA Editorial" ? { url: "https://presda.com/authors/presda-editorial/" } : {}) } } : {}),
     ...(record.image ? { image: `https://presda.com${record.image.src}` } : {}),
-    translationOfWork: { "@type": record.kind === "article" ? "Article" : "WebPage", url: `https://presda.com${record.englishPath}`, inLanguage: "en" },
+    translationOfWork: { "@type": record.kind === "article" ? schemaType : "WebPage", url: `https://presda.com${record.englishPath}`, inLanguage: "en" },
     publisher: { "@id": "https://presda.com/#organization" }
   };
 }

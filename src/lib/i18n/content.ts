@@ -4,7 +4,7 @@ import type { TranslationLocale } from "./routing";
 export type LocalizedBlock =
   | { type: "paragraph" | "heading" | "subheading" | "quote"; text: string }
   | { type: "list"; items: string[] }
-  | { type: "table"; caption: string; headings: string[]; rows: string[][] };
+  | { type: "table"; caption: string; headings: string[]; rows: string[][]; sourceMarker?: string };
 
 /** Independent editorial records. Never spread an English article into a translation. */
 export type Translation = {
@@ -16,6 +16,9 @@ export type Translation = {
   review: { reviewer: string; reviewedAt: string; terminologyChecked: boolean };
   title: string;
   excerpt?: string;
+  /** Exact phrases already present in the localized title, chosen by the editor. */
+  headlineHighlights?: { red?: string; gold?: string };
+  readingTimeMinutes?: number;
   quote?: string;
   seoTitle: string;
   description: string;

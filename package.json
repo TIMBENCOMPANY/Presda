@@ -5,10 +5,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "node tools/prepare-translations.cjs && next build",
-    "test:i18n": "node tools/test-i18n.cjs && node tools/test-multilingual-pilot.cjs",
+    "test:i18n": "node tools/prepare-translations.cjs && node tools/test-i18n.cjs && node tools/test-multilingual-pilot.cjs && node tools/test-translation-library.cjs",
     "start": "next start",
     "lint": "next lint",
-    "validate:publishing": "node tools/validate-article-publishing.mjs"
+    "validate:publishing": "node tools/validate-article-publishing.mjs",
+    "predev": "node tools/prepare-translations.cjs",
+    "translations:prepare": "node tools/prepare-translations.cjs",
+    "translations:status": "node tools/translations.cjs status",
+    "translations:create": "node tools/translations.cjs create"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",

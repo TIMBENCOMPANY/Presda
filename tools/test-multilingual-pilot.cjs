@@ -16,7 +16,7 @@ const { renderToStaticMarkup } = require('react-dom/server');
 const { NextRequest } = require('next/server');
 const { middleware } = require('../src/middleware.ts');
 const { getPublishedArticles } = require('../src/data/articles.ts');
-const { translations } = require('../src/data/translations.ts');
+
 const { publishedTranslations, translationRoutes, getLanguageAlternates, getTranslation } = require('../src/lib/i18n/registry.ts');
 const { middlewareTranslationRoutes } = require('../src/lib/i18n/route-index.ts');
 const { languageDestination } = require('../src/lib/i18n/routing.ts');
@@ -32,15 +32,15 @@ const pilot = [
   'aztec-empire-tenochtitlan-mexica-rise-fall',
   'morocco-history-dynasties-kingdom-independence'
 ].map(slug => `/articles/${slug}/`);
-assert.equal(translations.length, 12, 'Exactly twelve records, no other translated articles');
-assert.equal(publishedTranslations.length, 12, 'All pilot records reviewed before publication');
+const pilotRecords = publishedTranslations.filter(record => pilot.includes(record.englishPath));
+assert.equal(pilotRecords.length, 12, 'All twelve pilot records remain published');
 assert.deepEqual(middlewareTranslationRoutes, translationRoutes, 'Middleware index matches published content');
-assert.deepEqual([...new Set(translationRoutes.map(item => item.englishPath))].sort(), pilot.sort());
+assert.deepEqual([...new Set(pilotRecords.map(item => item.englishPath))].sort(), pilot.sort());
 const english = getPublishedArticles();
 const sitemapEntries = sitemap();
-assert.equal(sitemapEntries.length, 166, 'Existing 154 URLs plus twelve translations');
-for (const locale of ['ar', 'fr', 'es']) assert.equal(publishedTranslations.filter(r => r.locale === locale).length, 4);
-for (const record of publishedTranslations) {
+assert.equal(new Set(sitemapEntries.map(entry => entry.url)).size, sitemapEntries.length, 'No duplicate sitemap URLs');
+for (const locale of ['ar', 'fr', 'es']) assert.equal(pilotRecords.filter(r => r.locale === locale).length, 4);
+for (const record of pilotRecords) {
   pathname = record.path;
   const source = english.find(article => record.englishPath === `/articles/${article.slug}/`);
   validateArticleParity(record, source);
@@ -99,7 +99,9 @@ for (const record of publishedTranslations) {
   assert.equal(response.headers.get('x-middleware-next'), '1');
   assert.equal(response.headers.get('x-robots-tag'), null);
 }
-const unlocalized = '/articles/french-empire-napoleon-colonial-history-rise-fall/';
+const missingArticle = english.find(article => !translationRoutes.some(route => route.englishPath === `/articles/${article.slug}/`));
+if (missingArticle) {
+const unlocalized = `/articles/${missingArticle.slug}/`;
 assert.deepEqual(Object.keys(getLanguageAlternates(unlocalized)), ['en', 'x-default']);
 for (const locale of ['ar', 'fr', 'es']) {
   assert.equal(languageDestination(unlocalized, locale, translationRoutes), unlocalized);
@@ -107,8 +109,9 @@ for (const locale of ['ar', 'fr', 'es']) {
   assert.equal(response.status, 307);
   assert.equal(response.headers.get('x-robots-tag'), 'noindex');
 }
+}
 const hostile = renderToStaticMarkup(React.createElement(LocalizedInlineText, { locale: 'fr', text: '<script>alert(1)</script> [unsafe](javascript:alert) **important**' }));
 assert.ok(!hostile.includes('<script>'));
 assert.ok(!hostile.includes('href="javascript:'));
 assert.ok(hostile.includes('<strong>important</strong>'));
-console.log('PASS: 12 complete pilot translations, source parity, all 64 language transitions, reciprocal hreflang, schemas, SSR/RTL, localized links, safe rendering and 166 sitemap URLs');
+console.log('PASS: 12 complete pilot translations, source parity, all 64 language transitions, reciprocal hreflang, schemas, SSR/RTL, localized links, safe rendering and unique sitemap URLs');

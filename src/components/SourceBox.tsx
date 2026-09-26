@@ -28,7 +28,7 @@ export function SourceBox({ article, locale = "en" }: { article: Article; locale
           ))}
         </ul>
       ) : (
-        <p className="mt-2 text-[13px] leading-5 text-[color:var(--muted)]">Original PRESDA reporting and editorial review.</p>
+        <p className="mt-2 text-[13px] leading-5 text-[color:var(--muted)]">{labels.sourceNote}</p>
       )}
     </div>
   );

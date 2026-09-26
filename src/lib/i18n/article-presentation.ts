@@ -3,14 +3,14 @@ import type { Translation } from "./content";
 import type { Locale } from "./routing";
 
 export const articleLabels = {
-  en: { by: "By", updated: "Updated", contents: "Table Of Contents", sources: "Sources & References", publisher: "Publisher", share: "Share", related: "Related", continue: "Continue Reading", faq: "Frequently Asked Questions" },
-  ar: { by: "بقلم", updated: "آخر تحديث", contents: "فهرس المقال", sources: "المصادر", publisher: "الناشر", share: "مشاركة", related: "مقالات ذات صلة", continue: "تابع القراءة", faq: "أسئلة شائعة" },
-  fr: { by: "Par", updated: "Mis à jour", contents: "Sommaire", sources: "Sources", publisher: "Éditeur", share: "Partager", related: "Articles associés", continue: "Poursuivre la lecture", faq: "Questions fréquentes" },
-  es: { by: "Por", updated: "Actualizado", contents: "Índice del artículo", sources: "Fuentes", publisher: "Editor", share: "Compartir", related: "Artículos relacionados", continue: "Seguir leyendo", faq: "Preguntas frecuentes" }
+  en: { breadcrumb: "Breadcrumb", faqShort: "FAQ", sourceNote: "Original PRESDA reporting and editorial review.", by: "By", updated: "Updated", contents: "Table Of Contents", sources: "Sources & References", publisher: "Publisher", share: "Share", related: "Related", continue: "Continue Reading", faq: "Frequently Asked Questions" },
+  ar: { breadcrumb: "مسار التصفح", faqShort: "أسئلة شائعة", sourceNote: "تقارير أصلية ومراجعة تحريرية من PRESDA.", by: "بقلم", updated: "آخر تحديث", contents: "فهرس المقال", sources: "المصادر", publisher: "الناشر", share: "مشاركة", related: "مقالات ذات صلة", continue: "تابع القراءة", faq: "أسئلة شائعة" },
+  fr: { breadcrumb: "Fil d’Ariane", faqShort: "FAQ", sourceNote: "Reportages originaux et vérification éditoriale de PRESDA.", by: "Par", updated: "Mis à jour", contents: "Sommaire", sources: "Sources", publisher: "Éditeur", share: "Partager", related: "Articles associés", continue: "Poursuivre la lecture", faq: "Questions fréquentes" },
+  es: { breadcrumb: "Ruta de navegación", faqShort: "FAQ", sourceNote: "Información original y revisión editorial de PRESDA.", by: "Por", updated: "Actualizado", contents: "Índice del artículo", sources: "Fuentes", publisher: "Editor", share: "Compartir", related: "Artículos relacionados", continue: "Seguir leyendo", faq: "Preguntas frecuentes" }
 };
 
-export function localizedReadingTime(source: Article, locale: Locale) {
-  const minutes = source.readingTime?.match(/\d+/)?.[0] ?? "4";
+export function localizedReadingTime(source: Article, locale: Locale, override?: number) {
+  const minutes = override ?? source.readingTime?.match(/\d+/)?.[0] ?? "4";
   return locale === "ar" ? `${minutes} دقائق قراءة` : locale === "fr" ? `${minutes} min de lecture` : locale === "es" ? `${minutes} min de lectura` : source.readingTime ?? "4 min read";
 }
 
@@ -30,7 +30,7 @@ export function translationArticle(record: Translation, source: Article): Articl
     date: record.publishedAt, lastUpdated: record.updatedAt,
     coverImage: record.image?.src ?? source.coverImage, coverAlt: record.image?.alt ?? "",
     homepageImagePosition: source.homepageImagePosition,
-    headlineHighlights: { red: record.title.split(":")[0].trim(), gold: goldPhrases[record.locale].find(phrase => record.title.includes(phrase)) },
+    headlineHighlights: record.headlineHighlights ?? { red: record.title.split(":")[0].trim(), gold: goldPhrases[record.locale].find(phrase => record.title.includes(phrase)) },
     content: record.content.map(block => {
       if (block.type === "heading") return `## ${block.text}`;
       if (block.type === "subheading") return `### ${block.text}`;
@@ -41,6 +41,6 @@ export function translationArticle(record: Translation, source: Article): Articl
     }),
     quote: record.quote, references: record.sources?.map(item => ({ name: item.label, url: item.url })),
     faq: record.faq ?? [], tags: record.keywords,
-    readingTime: localizedReadingTime(source, record.locale)
+    readingTime: localizedReadingTime(source, record.locale, record.readingTimeMinutes)
   };
 }

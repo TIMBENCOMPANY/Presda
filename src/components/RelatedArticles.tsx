@@ -1,4 +1,4 @@
-import { articleLabels } from "@/lib/i18n/article-presentation";
+import { articleLabels, localizedReadingTime } from "@/lib/i18n/article-presentation";
 import { localizedCategories } from "@/lib/i18n/messages";
 import type { Locale } from "@/lib/i18n/routing";
 import type { Article } from "@/data/articles";
@@ -45,8 +45,8 @@ export function RelatedArticles({ articles, locale = "en", paths }: { articles: 
                 <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
               </h3>
               <p className="mt-3 font-display text-[10px] uppercase tracking-wide text-[color:var(--home-muted)]">
-                <time dateTime={article.date}>{formatDate(article.date)}</time>
-                {article.readingTime ? ` / ${article.readingTime}` : ""}
+                <time dateTime={article.date}>{locale === "en" ? formatDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "medium", timeZone: "UTC" }).format(new Date(article.date))}</time>
+                {article.readingTime ? ` / ${locale === "en" ? article.readingTime : localizedReadingTime(article, locale)}` : ""}
               </p>
             </div>
           </Link>
