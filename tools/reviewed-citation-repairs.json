@@ -2,8 +2,8 @@
   {
     "slug": "david-beckhams-unexpected-passion-beyond-football",
     "original": "https://www.rhs.org.uk/science/conservation-biodiversity/plants-for-pollinators",
-    "replacement": "https://www.rhs.org.uk/science/research/plants-for-pollinators",
-    "reason": "Same RHS Plants for Pollinators programme at its working research URL.",
+    "replacement": "https://www.rhs.org.uk/wildlife/native-and-non-native-plants-for-pollinators",
+    "reason": "Working RHS guidance on plants for pollinators supports the same gardening and pollinator context. The old programme path and search-indexed research path both return 404 on direct verification. Same-publisher subject-equivalent replacement, not an asserted relocation.",
     "verifiedAt": "2026-09-26"
   },
   {
