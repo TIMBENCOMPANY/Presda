@@ -11,7 +11,13 @@ export const articleLabels = {
 
 export function localizedReadingTime(source: Article, locale: Locale, override?: number) {
   const minutes = override ?? source.readingTime?.match(/\d+/)?.[0] ?? "4";
-  return locale === "ar" ? `${minutes} دقائق قراءة` : locale === "fr" ? `${minutes} min de lecture` : locale === "es" ? `${minutes} min de lectura` : source.readingTime ?? "4 min read";
+  if (locale === "ar") {
+    const plural = new Intl.PluralRules("ar").select(Number(minutes));
+    if (plural === "one") return "دقيقة واحدة للقراءة";
+    if (plural === "two") return "دقيقتان للقراءة";
+    return `${minutes} ${plural === "few" ? "دقائق" : "دقيقة"} قراءة`;
+  }
+  return locale === "fr" ? `${minutes} min de lecture` : locale === "es" ? `${minutes} min de lectura` : source.readingTime ?? "4 min read";
 }
 
 // Presentation only: select existing title phrases for the shared red/gold renderer.

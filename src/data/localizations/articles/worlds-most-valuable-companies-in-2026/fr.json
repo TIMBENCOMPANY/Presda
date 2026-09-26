@@ -1,0 +1,392 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/worlds-most-valuable-companies-in-2026/",
+  "path": "/fr/articles/worlds-most-valuable-companies-in-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "Les entreprises les plus valorisées au monde en 2026 : classement boursier",
+  "excerpt": "Le classement des entreprises cotées les plus valorisées au monde en 2026, selon leur capitalisation boursière, éclairé par le rôle de l’IA, des puces, du cloud, de l’énergie et des écosystèmes grand public.",
+  "headlineHighlights": {
+    "red": "classement boursier",
+    "gold": "2026"
+  },
+  "seoTitle": "Plus grandes capitalisations boursières mondiales en 2026",
+  "description": "NVIDIA, Apple, Alphabet : classement des entreprises par capitalisation boursière au 1er septembre 2026, avec les facteurs qui expliquent leur valorisation.",
+  "keywords": [
+    "capitalisation boursière mondiale 2026",
+    "entreprises les plus valorisées",
+    "classement NVIDIA Apple Microsoft",
+    "capitalisation et chiffre d’affaires"
+  ],
+  "searchIntent": "Comparer les plus grandes capitalisations boursières mondiales au 1er septembre 2026 et comprendre leur différence avec le chiffre d’affaires et les bénéfices.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-05-31",
+  "updatedAt": "2026-09-01",
+  "image": {
+    "src": "/images/articles/valuable-companies-2026.webp",
+    "alt": "Vue urbaine soignée illustrant les entreprises les plus valorisées au monde en 2026"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En 2026, les entreprises les plus valorisées au monde se distinguent dans les infrastructures d’intelligence artificielle, les écosystèmes grand public, les plateformes cloud, la fabrication de semi-conducteurs, la publicité numérique, l’énergie et les véhicules électriques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce classement PRESDA présente les capitalisations boursières au 1er septembre 2026. Elles évoluent chaque jour de cotation avec le cours des actions : les chiffres ci-dessous constituent donc un point de repère, et non un classement permanent. La liste porte sur les sociétés cotées et exclut les valorisations d’entreprises non cotées, qui ne sont pas équivalentes à une capitalisation boursière."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour mieux comprendre les forces à l’œuvre, retrouvez les [articles de PRESDA sur les modèles d’OpenAI](/articles/openai-next-gen-model/), notre analyse des [sponsors de la Coupe du monde 2026](/articles/the-brands-behind-world-cup-2026/) et l’ensemble de notre [rubrique Économie](/category/business/)."
+    },
+    {
+      "type": "heading",
+      "text": "Qu’est-ce que la capitalisation boursière ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La capitalisation boursière est la valeur en Bourse d’une société cotée. Elle se calcule généralement en multipliant le cours de l’action par le nombre d’actions en circulation. Elle se distingue donc du chiffre d’affaires, du bénéfice, des flux de trésorerie, de la valeur d’entreprise et de la valeur de marque."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une société peut réaliser un chiffre d’affaires colossal tout en affichant une capitalisation plus faible si les investisseurs anticipent une croissance plus lente ou des marges réduites. Une autre peut avoir moins de revenus mais valoir davantage en Bourse si les investisseurs s’attendent à une forte progression de ses bénéfices futurs, de la puissance de sa plateforme ou de son avance technologique. Classer les plus grandes entreprises par capitalisation en 2026 ne revient donc pas à les classer par ventes."
+    },
+    {
+      "type": "heading",
+      "text": "Classement au 1er septembre 2026"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[MARKET_CAP_2026_TABLE]]",
+      "caption": "Capitalisations approximatives de sociétés cotées au 1er septembre 2026. Les montants évoluent avec le cours des actions.",
+      "headings": [
+        "Rang",
+        "Entreprise",
+        "Code boursier",
+        "Pays",
+        "Capitalisation boursière",
+        "Principaux facteurs de valorisation"
+      ],
+      "rows": [
+        [
+          "1",
+          "NVIDIA",
+          "NVDA",
+          "États-Unis",
+          "5 330 milliards $",
+          "Puces d’IA, calcul accéléré, centres de données"
+        ],
+        [
+          "2",
+          "Apple",
+          "AAPL",
+          "États-Unis",
+          "4 620 milliards $",
+          "iPhone, services, appareils, écosystème grand public"
+        ],
+        [
+          "3",
+          "Alphabet",
+          "GOOG",
+          "États-Unis",
+          "4 100 milliards $",
+          "Recherche, YouTube, cloud, publicité, IA"
+        ],
+        [
+          "4",
+          "Microsoft",
+          "MSFT",
+          "États-Unis",
+          "3 770 milliards $",
+          "Cloud, logiciels, plateformes professionnelles, IA"
+        ],
+        [
+          "5",
+          "Amazon",
+          "AMZN",
+          "États-Unis",
+          "2 800 milliards $",
+          "AWS, commerce en ligne, logistique, publicité"
+        ],
+        [
+          "6",
+          "TSMC",
+          "TSM",
+          "Taïwan",
+          "2 150 milliards $",
+          "Fabrication de semi-conducteurs"
+        ],
+        [
+          "7",
+          "Broadcom",
+          "AVGO",
+          "États-Unis",
+          "1 760 milliards $",
+          "Semi-conducteurs, réseaux, logiciels d’infrastructure"
+        ],
+        [
+          "8",
+          "Saudi Aramco",
+          "2222.SR",
+          "Arabie saoudite",
+          "1 680 milliards $",
+          "Énergie et production pétrolière"
+        ],
+        [
+          "9",
+          "Meta Platforms",
+          "META",
+          "États-Unis",
+          "1 460 milliards $",
+          "Plateformes sociales, publicité, systèmes d’IA"
+        ],
+        [
+          "10",
+          "Tesla",
+          "TSLA",
+          "États-Unis",
+          "1 450 milliards $",
+          "Véhicules électriques, énergie, conduite autonome"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Les montants ci-dessus sont arrondis et proviennent du suivi des capitalisations boursières autour du 1er septembre 2026. Il convient de les vérifier à nouveau avant toute utilisation à des fins d’investissement, de recherche universitaire ou de travail financier professionnel."
+    },
+    {
+      "type": "heading",
+      "text": "1. NVIDIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "NVIDIA domine le classement parce qu’elle occupe une place centrale dans l’essor des infrastructures d’IA. Ses processeurs graphiques, ses plateformes de calcul accéléré, ses équipements réseau et son écosystème logiciel sont étroitement liés aux centres de données, à l’IA générative, au calcul scientifique et aux traitements à haute performance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le marché valorise NVIDIA à la fois comme fabricant de puces et comme fournisseur essentiel de l’économie de l’IA. Le risque tient au niveau extrêmement élevé des attentes et à la rapidité avec laquelle les cycles des semi-conducteurs peuvent se retourner. À la date de ce classement, NVIDIA reste néanmoins l’exemple le plus net de la manière dont les infrastructures d’IA ont remodelé la hiérarchie des entreprises les plus valorisées au monde en 2026."
+    },
+    {
+      "type": "heading",
+      "text": "2. Apple"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apple reste proche du sommet grâce à une activité qui réunit matériel, logiciels, services, paiements, abonnements, objets connectés portés sur soi et fidélité à la marque. L’iPhone demeure central, mais c’est l’ensemble de l’écosystème qui protège la valeur boursière d’Apple."
+    },
+    {
+      "type": "paragraph",
+      "text": "La capitalisation d’Apple ne correspond pas à la valeur de sa marque. La force de celle-ci compte, mais le classement repose sur la valeur boursière des actions. Les investisseurs évaluent la capacité d’Apple à conserver ses clients dans un écosystème rentable d’appareils et de services."
+    },
+    {
+      "type": "heading",
+      "text": "3. Alphabet"
+    },
+    {
+      "type": "paragraph",
+      "text": "La valeur d’Alphabet repose sur Google Search, YouTube, Android, Google Cloud, les technologies publicitaires et l’intelligence artificielle. La publicité sur le moteur de recherche reste une source considérable de bénéfices. L’IA apporte à la fois des possibilités et des tensions, car de nouvelles interfaces pourraient transformer la recherche d’information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alphabet occupe une place élevée parce que le groupe maîtrise l’attention des utilisateurs, des infrastructures de données, des services cloud et l’un des principaux systèmes de distribution numérique au monde."
+    },
+    {
+      "type": "heading",
+      "text": "4. Microsoft"
+    },
+    {
+      "type": "paragraph",
+      "text": "Microsoft demeure l’une des entreprises les plus valorisées au monde grâce à la combinaison des logiciels professionnels, des infrastructures cloud Azure, de Windows, de Microsoft 365, de LinkedIn, de GitHub, de la cybersécurité et de l’intégration de l’IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa capitalisation reflète ses revenus récurrents, la confiance des entreprises et sa capacité à intégrer l’IA dans leurs tâches quotidiennes. Microsoft vend des licences logicielles, mais aussi des infrastructures et des outils de productivité dont dépendent de nombreuses organisations."
+    },
+    {
+      "type": "heading",
+      "text": "5. Amazon"
+    },
+    {
+      "type": "paragraph",
+      "text": "La valeur d’Amazon repose sur le commerce en ligne, la logistique, les services de place de marché, la publicité, le streaming et Amazon Web Services. AWS joue un rôle particulièrement important, car les infrastructures cloud restent au cœur de l’adoption de l’IA et de la transformation numérique des entreprises."
+    },
+    {
+      "type": "paragraph",
+      "text": "La capitalisation d’Amazon reflète l’envergure de sa plateforme et l’anticipation que le cloud, la publicité et l’efficacité opérationnelle pourront soutenir ses bénéfices à long terme."
+    },
+    {
+      "type": "heading",
+      "text": "6. TSMC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taiwan Semiconductor Manufacturing Company est le premier fondeur spécialisé dans les semi-conducteurs et un fournisseur essentiel de l’industrie technologique mondiale. Son rôle diffère de celui de NVIDIA : TSMC fabrique des puces de pointe conçues par nombre des entreprises qui font progresser l’IA, les appareils mobiles et le calcul à haute performance."
+    },
+    {
+      "type": "paragraph",
+      "text": "La place de TSMC montre que les entreprises les plus valorisées au monde ne se limitent pas aux plateformes destinées au grand public. Certaines fournissent des infrastructures dont l’importance se situe au sein de la chaîne d’approvisionnement."
+    },
+    {
+      "type": "heading",
+      "text": "7. Broadcom"
+    },
+    {
+      "type": "paragraph",
+      "text": "Broadcom figure en bonne place grâce à ses activités dans les semi-conducteurs et les logiciels d’infrastructure. Les réseaux, la connectivité, les puces sur mesure et les logiciels d’entreprise jouent tous un rôle sur un marché dominé par l’IA, où les centres de données doivent faire circuler l’information plus vite."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa valeur boursière traduit la conviction des investisseurs que le développement de l’IA ne repose pas uniquement sur les puces les plus médiatisées. Il dépend aussi des réseaux, de la commutation, du stockage, de la sécurité et de l’intégration logicielle."
+    },
+    {
+      "type": "heading",
+      "text": "8. Saudi Aramco"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saudi Aramco est le grand groupe énergétique du classement. Il représente une autre forme de valeur boursière : l’ampleur de la production pétrolière, la génération de trésorerie, le poids géopolitique et le rôle persistant de l’énergie dans l’économie mondiale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa position rappelle que la technologie n’a pas entièrement supplanté l’énergie dans les classements boursiers mondiaux. Même à l’ère de l’IA, l’économie physique conserve son importance."
+    },
+    {
+      "type": "heading",
+      "text": "9. Meta Platforms"
+    },
+    {
+      "type": "paragraph",
+      "text": "La valorisation de Meta reflète la puissance de ses activités publicitaires, Instagram, Facebook, WhatsApp, Threads, ses systèmes de recommandation fondés sur l’IA et sa capacité à monétiser l’attention sur ses plateformes sociales mondiales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meta montre aussi comment l’IA peut améliorer un modèle économique existant. Les recommandations, le ciblage publicitaire et les systèmes de gestion des contenus fondés sur l’IA peuvent renforcer l’engagement et les performances publicitaires, même lorsque l’entreprise n’est pas principalement valorisée comme fournisseur de puces ou de cloud."
+    },
+    {
+      "type": "heading",
+      "text": "10. Tesla"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tesla reste parmi les plus grandes capitalisations parce que les investisseurs lui attribuent une valeur qui dépasse ses seules ventes actuelles de véhicules. Le marché intègre aussi des attentes concernant les logiciels, le stockage d’énergie, la conduite autonome, l’échelle de production et les futures plateformes de mobilité."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est là que la capitalisation peut fortement diverger du chiffre d’affaires et du bénéfice. La valorisation de Tesla peut évoluer rapidement, car les attentes des investisseurs concernant la croissance et la conduite autonome peuvent changer tout aussi vite."
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi l’IA et les puces dominent le classement de 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’IA est le fil conducteur le plus marqué du tableau des capitalisations de 2026. NVIDIA, Microsoft, Alphabet, Amazon, Meta, TSMC et Broadcom y sont toutes liées, par les puces, les infrastructures cloud, les systèmes publicitaires, les plateformes logicielles ou la demande des centres de données."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela ne signifie pas que toutes les entreprises en tête sont des spécialistes de l’IA. Apple reste avant tout un écosystème grand public. Saudi Aramco est un groupe énergétique. Tesla associe automobile, énergie et logiciels. Mais l’IA est devenue un facteur de valorisation dans de nombreux secteurs."
+    },
+    {
+      "type": "heading",
+      "text": "Capitalisation, chiffre d’affaires, bénéfice et valeur de marque"
+    },
+    {
+      "type": "paragraph",
+      "text": "La capitalisation répond à une question : quelle valeur la Bourse attribue-t-elle à une société cotée à un moment donné ? Le chiffre d’affaires mesure les revenus générés. Le bénéfice indique ce qui reste après les coûts. La valeur de marque estime la force économique d’une marque. Les classements fondés sur ces critères peuvent être très différents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ainsi, un distributeur ou un groupe énergétique peut réaliser un chiffre d’affaires immense tout en valant moins en Bourse qu’un spécialiste des infrastructures d’IA, si les investisseurs anticipent pour ce dernier une croissance plus rapide ou des marges supérieures. Il ne faut donc pas considérer la capitalisation comme une mesure complète de la qualité d’une entreprise."
+    },
+    {
+      "type": "heading",
+      "text": "Ce qui pourrait modifier le classement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le classement peut changer rapidement. Les publications de résultats, les taux d’intérêt, les dépenses d’IA, l’approvisionnement en puces, la réglementation, les variations de change, le cours du pétrole, les lancements de produits et le sentiment des investisseurs peuvent tous modifier les valorisations. Une entreprise classée deuxième à un moment donné peut reculer après un trimestre décevant, tandis qu’une autre progresse grâce à de meilleures prévisions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le principe pratique est simple : utilisez cette liste du 1er septembre 2026 comme un état des lieux structuré. Pour prendre une décision d’investissement au moment présent, vérifiez toujours les données boursières actuelles, les documents officiels et les rapports récents des entreprises."
+    }
+  ],
+  "sources": [
+    {
+      "label": "CompaniesMarketCap : les plus grandes capitalisations boursières",
+      "url": "https://companiesmarketcap.com/"
+    },
+    {
+      "label": "Nasdaq : définition de la capitalisation boursière",
+      "url": "https://www.nasdaq.com/glossary/m/market-capitalization"
+    },
+    {
+      "label": "NVIDIA : relations investisseurs",
+      "url": "https://investor.nvidia.com/"
+    },
+    {
+      "label": "Apple : relations investisseurs",
+      "url": "https://investor.apple.com/"
+    },
+    {
+      "label": "Alphabet : relations investisseurs",
+      "url": "https://abc.xyz/investor/"
+    },
+    {
+      "label": "Microsoft : relations investisseurs",
+      "url": "https://www.microsoft.com/en-us/investor"
+    },
+    {
+      "label": "Amazon : relations investisseurs",
+      "url": "https://ir.aboutamazon.com/"
+    },
+    {
+      "label": "TSMC : relations investisseurs",
+      "url": "https://investor.tsmc.com/english"
+    },
+    {
+      "label": "Broadcom : relations investisseurs",
+      "url": "https://investors.broadcom.com/"
+    },
+    {
+      "label": "Saudi Aramco : investisseurs",
+      "url": "https://www.aramco.com/en/investors"
+    },
+    {
+      "label": "Meta : relations investisseurs",
+      "url": "https://investor.fb.com/"
+    },
+    {
+      "label": "Tesla : relations investisseurs",
+      "url": "https://ir.tesla.com/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quelle est l’entreprise la plus valorisée au monde en 2026 ?",
+      "answer": "Dans ce classement des capitalisations au 1er septembre 2026, NVIDIA est la société cotée la plus valorisée au monde. La hiérarchie peut changer rapidement avec le cours des actions."
+    },
+    {
+      "question": "Que signifie un classement par capitalisation boursière ?",
+      "answer": "La capitalisation est la valeur en Bourse d’une société cotée, généralement calculée en multipliant le cours de l’action par le nombre d’actions en circulation. Elle diffère du chiffre d’affaires, du bénéfice, de la valeur d’entreprise et de la valeur de marque."
+    },
+    {
+      "question": "Pourquoi les entreprises liées à l’IA sont-elles si haut dans le classement de 2026 ?",
+      "answer": "L’IA a accru la demande de puces, d’infrastructures cloud, de centres de données, de plateformes logicielles et de systèmes publicitaires. Les entreprises présentes dans ces domaines ont suscité un fort intérêt des investisseurs."
+    },
+    {
+      "question": "Pourquoi ce classement est-il daté du 1er septembre 2026 ?",
+      "answer": "Les capitalisations évoluent constamment. Une date de référence indique quand le classement a été vérifié et évite de présenter des chiffres volatils comme s’ils restaient toujours actuels."
+    },
+    {
+      "question": "Les entreprises non cotées figurent-elles dans ce classement ?",
+      "answer": "Non. PRESDA exclut leurs valorisations de la liste principale, car elles ne sont pas équivalentes à une capitalisation sur les marchés boursiers."
+    }
+  ]
+}

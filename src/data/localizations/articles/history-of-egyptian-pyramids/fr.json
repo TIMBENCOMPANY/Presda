@@ -1,0 +1,1131 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/history-of-egyptian-pyramids/",
+  "path": "/fr/articles/history-of-egyptian-pyramids/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "Les pyramides : comment l’Égypte antique bâtit l’impossible",
+  "excerpt": "Il y a plus de 4 500 ans, les anciens Égyptiens ont édifié des monuments si gigantesques et précis qu’ils suscitent encore le mystère. Mais l’histoire réelle des pyramides est peut-être plus fascinante que les mythes.",
+  "headlineHighlights": {
+    "red": "pyramides",
+    "gold": "Égypte antique"
+  },
+  "seoTitle": "Histoire des pyramides d’Égypte : comment ont-elles été construites ?",
+  "description": "De Djéser et Snéfrou à Gizeh : histoire des pyramides égyptiennes, bâtisseurs, transport des pierres, papyrus de Merer et mystères encore débattus.",
+  "keywords": [
+    "histoire des pyramides d’Égypte",
+    "comment ont été construites les pyramides",
+    "pyramide de Khéops",
+    "Djéser Snéfrou",
+    "papyrus de Merer",
+    "ScanPyramids grand vide"
+  ],
+  "searchIntent": "Comprendre qui a construit les pyramides d’Égypte, comment et pourquoi, en distinguant les preuves archéologiques des hypothèses et des mythes.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "image": {
+    "src": "/images/articles/history-of-egyptian-pyramids.jpg",
+    "alt": "Reconstitution historique cinématographique d’ouvriers de l’Égypte antique construisant une pyramide monumentale avec des blocs de pierre, des traîneaux et une main-d’œuvre organisée"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Il y a plus de 4 500 ans, les anciens Égyptiens entreprirent de construire certaines des structures les plus reconnaissables jamais créées par l’humanité."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pyramides."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aujourd’hui encore, se tenir au pied de la grande pyramide de Gizeh donne un étrange sentiment d’échelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des millions de blocs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un poids immense."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une géométrie remarquable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sans grues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sans camions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sans moteurs modernes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Et pourtant, la structure a survécu tandis que des civilisations entières disparaissaient autour d’elle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette réalisation extraordinaire suscite des questions depuis des siècles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comment les pyramides ont-elles été construites ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Qui les a bâties ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pourquoi les a-t-on édifiées ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Et comment une société antique pouvait-elle organiser un projet d’une telle ampleur ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La réponse ne commence pas à Gizeh."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pyramides n’ont pas été inventées en une nuit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les ingénieurs égyptiens ont appris à les construire progressivement, un monument après l’autre. Pour d’autres récits historiques de PRESDA, découvrez [l’histoire du cheval dans les civilisations humaines](/articles/horse-history-human-civilization/) et [Galilée face à l’Église](/articles/galileo-and-the-church/)."
+    },
+    {
+      "type": "heading",
+      "text": "QUAND LES PYRAMIDES D’ÉGYPTE ONT-ELLES ÉTÉ CONSTRUITES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pyramides égyptiennes furent construites sur de nombreux siècles, mais leur grande époque classique commença sous l’Ancien Empire. La pyramide à degrés de Djéser à Saqqarah appartient à la IIIe dynastie, vers le XXVIIe siècle av. J.-C. Elle marque le passage majeur des anciennes tombes mastabas à une architecture pyramidale monumentale en pierre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Snéfrou, fondateur de la IVe dynastie, poussa l’expérimentation plus loin au XXVIe siècle av. J.-C., avec les pyramides de Meïdoum, rhomboïdale et rouge. Peu après, la construction pyramidale atteignit sa forme la plus célèbre à Gizeh, où la grande pyramide de Khéops fut édifiée sous la IVe dynastie, vers le XXVIe siècle av. J.-C."
+    },
+    {
+      "type": "heading",
+      "text": "AVANT LES PYRAMIDES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant les célèbres pyramides, les élites égyptiennes étaient couramment enterrées sous des structures rectangulaires aujourd’hui appelées mastabas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces tombes avaient un toit plat et des côtés inclinés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles comportaient déjà d’importants éléments de l’architecture funéraire égyptienne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais sous la IIIe dynastie, une révolution se produisit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Au lieu de construire un seul mastaba, les bâtisseurs commencèrent à superposer des niveaux de plus en plus petits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le résultat transforma l’architecture pour toujours."
+    },
+    {
+      "type": "heading",
+      "text": "DJÉSER : LA PREMIÈRE GRANDE PYRAMIDE"
+    },
+    {
+      "type": "paragraph",
+      "text": "À Saqqarah se dresse l’un des édifices les plus importants de l’histoire de l’architecture : la pyramide à degrés de Djéser."
+    },
+    {
+      "type": "paragraph",
+      "text": "Construite sous la IIIe dynastie, vers le XXVIIe siècle av. J.-C., elle représentait une avancée extraordinaire dans la construction monumentale en pierre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le complexe est traditionnellement associé à Imhotep, haut fonctionnaire de Djéser."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plutôt qu’une pyramide lisse, le monument de Djéser s’élève en une succession de grands degrés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce n’était pas encore la forme qui dominerait plus tard Gizeh."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais l’idée fondamentale était là : bâtir vers le haut, en pierre, à une échelle immense."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Égyptiens avaient commencé à expérimenter l’architecture qui aboutirait à la grande pyramide."
+    },
+    {
+      "type": "heading",
+      "text": "SNÉFROU : APPRENDRE À CONSTRUIRE UNE PYRAMIDE À FACES LISSES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le grand chapitre suivant appartient au pharaon Snéfrou, fondateur de la IVe dynastie égyptienne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son règne est associé à plusieurs projets pyramidaux colossaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensemble, ils révèlent un fait important : l’ingénierie égyptienne progressait par l’expérimentation."
+    },
+    {
+      "type": "paragraph",
+      "text": "À Meïdoum se dresse une pyramide dont l’histoire complexe de construction reste étudiée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vint ensuite l’extraordinaire pyramide rhomboïdale de Dahchour."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa partie inférieure s’élève selon un angle prononcé, avant que la pente ne change visiblement à mi-hauteur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le résultat est l’une des pyramides les plus étranges et les plus reconnaissables d’Égypte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pourquoi cet angle a-t-il changé ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des préoccupations techniques survenues pendant les travaux sont largement considérées comme une partie de l’explication, même si les spécialistes continuent d’étudier l’histoire de sa construction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vint ensuite la pyramide rouge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ses faces s’élèvent selon un angle constant, produisant ce qui est généralement considéré comme la première pyramide à faces lisses de grande taille pleinement réussie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette progression compte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Djéser."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meïdoum."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pyramide rhomboïdale."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pyramide rouge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puis Gizeh."
+    },
+    {
+      "type": "paragraph",
+      "text": "La grande pyramide n’est pas soudain apparue de nulle part."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les bâtisseurs égyptiens avaient derrière eux des générations d’expérience."
+    },
+    {
+      "type": "heading",
+      "text": "KHÉOPS ET LA GRANDE PYRAMIDE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vers le XXVIe siècle av. J.-C., sous le règne du pharaon Khéops, l’architecture pyramidale égyptienne atteignit sa réalisation la plus célèbre."
+    },
+    {
+      "type": "paragraph",
+      "text": "La grande pyramide de Gizeh."
+    },
+    {
+      "type": "paragraph",
+      "text": "Haute à l’origine d’environ 146,6 mètres, elle dominait le paysage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant des millénaires, elle resta la plus haute structure bâtie par l’humain sur Terre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa surface extérieure était initialement recouverte de blocs de parement en calcaire finement travaillés, lui donnant un aspect bien plus lisse que celui que nous voyons aujourd’hui."
+    },
+    {
+      "type": "paragraph",
+      "text": "À l’intérieur se trouvaient des couloirs, des chambres et des espaces architecturaux conçus avec une planification extraordinaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "La grande pyramide faisait partie d’un ensemble funéraire plus vaste."
+    },
+    {
+      "type": "paragraph",
+      "text": "Et elle n’était pas seule."
+    },
+    {
+      "type": "heading",
+      "text": "KHÉPHREN ET MYKÉRINOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gizeh finit par accueillir trois pyramides royales monumentales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Celle de Khéops est la plus grande."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pyramide de Khéphren se dresse à proximité et paraît parfois plus haute, car elle occupe un terrain légèrement surélevé."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle conserve aussi quelques blocs de parement près de son sommet."
+    },
+    {
+      "type": "paragraph",
+      "text": "La troisième pyramide principale appartenait à Mykérinos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle est nettement plus petite."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensemble, les trois pyramides créèrent l’un des paysages les plus célèbres de l’histoire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais leur construction exigeait bien plus qu’une ambition architecturale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle demandait une logistique dont l’échelle reste stupéfiante."
+    },
+    {
+      "type": "heading",
+      "text": "COMMENT LES PYRAMIDES ONT-ELLES ÉTÉ CONSTRUITES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucun manuel égyptien conservé n’explique à lui seul chaque étape de construction de la grande pyramide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela laisse place au débat sur certaines techniques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais l’archéologie offre un tableau bien plus clair que ne le suggèrent parfois les mythes populaires."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les bâtisseurs égyptiens disposaient d’outils de taille de pierre, de cordes, de traîneaux en bois, de leviers, de bateaux, d’une main-d’œuvre organisée, de connaissances en arpentage, d’un savoir-faire d’extraction, de systèmes administratifs et de générations d’expérience."
+    },
+    {
+      "type": "paragraph",
+      "text": "La plupart des pierres du noyau de la grande pyramide provenaient de carrières calcaires relativement proches du site."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le calcaire de meilleure qualité destiné au parement était transporté depuis des régions comme Tourah."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le granite utilisé dans d’importants espaces intérieurs venait de bien plus au sud, notamment d’Assouan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Déplacer tous ces matériaux exigeait un immense réseau de transport."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une découverte extraordinaire nous a permis d’en apercevoir le fonctionnement à travers les personnes qui vivaient réellement sous Khéops."
+    },
+    {
+      "type": "heading",
+      "text": "LE JOURNAL DE MERER"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au Ouadi el-Jarf, sur la côte égyptienne de la mer Rouge, des archéologues ont découvert des papyrus anciens datant du règne de Khéops."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parmi eux figurait le journal d’un responsable nommé Merer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces documents décrivent les activités d’une équipe transportant du calcaire par bateau vers le chantier de la pyramide de Khéops."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est extraordinaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Au lieu d’une théorie élaborée des milliers d’années après, nous disposons de documents administratifs de l’époque elle-même."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le journal de Merer n’explique pas toutes les techniques employées pour la grande pyramide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais il apporte une preuve forte de la logistique élaborée derrière le projet."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pierre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les bateaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les canaux et les voies d’eau."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les équipes de travail."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pyramide ne relevait pas de la magie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle relevait de l’organisation."
+    },
+    {
+      "type": "heading",
+      "text": "DÉPLACER LA PIERRE SANS MACHINES"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’une des grandes questions reste évidente : comment déplacer d’énormes blocs sans camions ni grues ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’art égyptien antique et l’archéologie expérimentale apportent des indices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les objets lourds pouvaient être posés sur des traîneaux en bois et tirés par des équipes d’ouvriers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une célèbre représentation égyptienne montre un liquide versé devant un traîneau portant une grande statue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des expériences modernes ont démontré qu’humidifier convenablement le sable peut, dans certaines conditions, réduire la résistance et faciliter le déplacement de lourdes charges."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les rampes jouèrent presque certainement un rôle important pour élever les matériaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais les systèmes exacts utilisés aux différentes étapes de la grande pyramide restent discutés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des rampes droites ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des rampes en zigzag ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des rampes contournant certaines parties de la structure ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des systèmes différents selon les étapes ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’archéologie atteste l’usage de rampes dans la construction égyptienne antique en général."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais aucune reconstitution complète du système exact employé à chaque niveau de la pyramide de Khéops ne fait l’unanimité."
+    },
+    {
+      "type": "paragraph",
+      "text": "Et cette distinction compte."
+    },
+    {
+      "type": "paragraph",
+      "text": "La science n’a pas besoin de prétendre que chaque détail est résolu."
+    },
+    {
+      "type": "heading",
+      "text": "QUI A RÉELLEMENT BÂTI LES PYRAMIDES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La culture populaire a souvent présenté les pyramides comme des monuments entièrement construits par d’immenses armées d’esclaves enchaînés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les preuves archéologiques dessinent un tableau plus complexe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fouilles autour de Gizeh ont découvert des habitats associés aux personnes qui soutenaient la construction des pyramides."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les archéologues ont trouvé des traces de production alimentaire, de logements, d’administration et de main-d’œuvre organisée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des artisans spécialisés et des ouvriers permanents travaillaient probablement aux côtés d’équipes renouvelées par rotation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certains travailleurs ont pu être recrutés par des formes d’obligation de travail envers l’État."
+    },
+    {
+      "type": "paragraph",
+      "text": "La société égyptienne antique était hiérarchisée, et il ne faut pas idéaliser les conditions de travail."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais l’image hollywoodienne de masses anonymes d’esclaves étrangers bâtissant sous les coups de fouet ne constitue pas une description complète étayée de la main-d’œuvre révélée par l’archéologie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces monuments exigeaient des personnes qualifiées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des tailleurs de pierre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des arpenteurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des équipages de bateaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des administrateurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des artisans."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des producteurs de nourriture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des ouvriers."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pyramide n’était pas simplement un amas de pierres."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’était un projet d’organisation à l’échelle du pays."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LES ÉGYPTIENS CONSTRUISAIENT-ILS DES PYRAMIDES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pyramides étaient fondamentalement liées à la royauté, à la mort et à la conception égyptienne de l’au-delà."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les croyances funéraires royales accordaient une immense importance à la poursuite de l’existence du roi après sa mort."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le complexe pyramidal n’était donc pas un simple monument destiné à impressionner de futurs touristes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il appartenait à un système religieux et politique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les chercheurs ont aussi rapproché la forme pyramidale du symbolisme solaire et des idées d’ascension et de renaissance royales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temples, chaussées, structures annexes et espaces rituels faisaient partie du paysage funéraire plus vaste."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pyramide était de l’architecture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais aussi de la théologie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Et du pouvoir politique taillé dans la pierre."
+    },
+    {
+      "type": "heading",
+      "text": "À L’INTÉRIEUR DE LA GRANDE PYRAMIDE"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’intérieur de la grande pyramide contient certaines des réalisations architecturales les plus extraordinaires de l’Égypte antique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le couloir descendant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le couloir ascendant."
+    },
+    {
+      "type": "paragraph",
+      "text": "La chambre dite de la Reine."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Grande Galerie."
+    },
+    {
+      "type": "paragraph",
+      "text": "La chambre du Roi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Au-dessus de la chambre du Roi se trouvent des espaces structurels conçus en fonction du poids immense des pierres qui les surmontent."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Grande Galerie est particulièrement remarquable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ses hautes parois en encorbellement créent un espace intérieur saisissant, caché dans des millions de tonnes de maçonnerie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pourtant, après des siècles d’exploration, la grande pyramide réserve encore des surprises."
+    },
+    {
+      "type": "paragraph",
+      "text": "La physique moderne a permis aux chercheurs de regarder à l’intérieur sans démanteler le monument."
+    },
+    {
+      "type": "heading",
+      "text": "SONDER UNE PYRAMIDE AVEC DES PARTICULES COSMIQUES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les scientifiques peuvent étudier de grandes structures grâce à des particules appelées muons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les muons sont produits naturellement lorsque les rayons cosmiques interagissent avec l’atmosphère terrestre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils peuvent traverser de grandes quantités de matière."
+    },
+    {
+      "type": "paragraph",
+      "text": "En mesurant combien de muons arrivent de différentes directions, les chercheurs repèrent des variations de densité dans une structure."
+    },
+    {
+      "type": "paragraph",
+      "text": "En substance, des particules naturelles aident les scientifiques à voir à travers la pierre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le projet ScanPyramids a appliqué cette technologie à la grande pyramide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Et en 2017, les chercheurs ont annoncé une découverte extraordinaire."
+    },
+    {
+      "type": "heading",
+      "text": "LE GRAND VIDE"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nature a rapporté](https://www.nature.com/articles/nature24647) que les mesures de muons avaient révélé un grand vide jusque-là inconnu au-dessus de la Grande Galerie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet espace a été nommé ScanPyramids Big Void."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son existence a été détectée par plusieurs techniques indépendantes utilisant les muons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais une question importante reste sans réponse : de quoi s’agit-il ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "D’une chambre ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "D’un élément structurel ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "D’un espace lié à la construction ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "D’autre chose ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa fonction reste incertaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est précisément ici que l’archéologie rigoureuse se distingue du sensationnalisme."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous savons que ce vide existe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous ne savons pas encore exactement pourquoi il existe."
+    },
+    {
+      "type": "heading",
+      "text": "UN AUTRE COULOIR CACHÉ"
+    },
+    {
+      "type": "paragraph",
+      "text": "La grande pyramide a livré une autre découverte majeure dans les années 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les chercheurs ont caractérisé un couloir jusque-là inconnu près de sa face nord, grâce à des techniques d’imagerie non invasives."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long de plusieurs mètres, il se trouve derrière l’extérieur du monument."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette découverte a, elle aussi, démontré quelque chose de remarquable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus de 4 500 ans après sa construction, l’un des bâtiments les plus étudiés de la planète peut encore révéler des espaces intérieurs inconnus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pyramides sont antiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’enquête est moderne."
+    },
+    {
+      "type": "heading",
+      "text": "ET LES EXTRATERRESTRES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur Internet, aucun débat moderne sur les pyramides ne semble complet sans extraterrestres."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’argument ressemble généralement à ceci : les pyramides sont trop immenses, trop précises, trop difficiles à construire. Les anciens n’auraient pas pu les bâtir. Une civilisation perdue ou une intelligence extraterrestre aurait donc nécessairement apporté son aide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet argument présente un problème fondamental."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe aucune preuve archéologique crédible que des extraterrestres aient construit les pyramides égyptiennes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Surtout, la construction pyramidale égyptienne n’est pas apparue soudainement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous pouvons observer son développement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les mastabas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pyramide à degrés de Djéser."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les expérimentations de Snéfrou."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pyramide rhomboïdale."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pyramide rouge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puis Gizeh."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous avons des carrières."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des outils."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des habitats d’ouvriers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des documents administratifs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des registres de transport."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des pyramides antérieures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des pyramides ultérieures."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tradition d’ingénierie est visible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pyramides n’apparaissent pas dans l’histoire sans antécédents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles évoluent."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’histoire réelle n’est pas celle d’anciens Égyptiens incapables de les bâtir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle est celle de personnes capables de bien davantage que ce que les modernes leur prêtent parfois."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI L’ÉGYPTE CESSA-T-ELLE DE BÂTIR DES PYRAMIDES GÉANTES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Égypte n’abandonna pas immédiatement les pyramides après Gizeh."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des souverains ultérieurs continuèrent à en construire, généralement à une échelle plus réduite et selon d’autres méthodes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Au fil des siècles, l’Égypte changea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les conditions politiques changèrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les ressources changèrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les traditions religieuses évoluèrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pratiques funéraires royales évoluèrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Au Nouvel Empire, de nombreux pharaons furent enterrés dans des tombes cachées creusées dans la roche, associées à la vallée des Rois, plutôt que sous d’immenses pyramides."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’âge des pyramides royales géantes était passé."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais leur influence ne disparut jamais."
+    },
+    {
+      "type": "heading",
+      "text": "LES PYRAMIDES SURVIVENT"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Égypte antique connut des invasions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des dynasties disparurent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues changèrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les religions changèrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des empires naquirent et s’effondrèrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rome vint et passa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des royaumes médiévaux vinrent et passèrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le monde industriel émergea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les humains inventèrent l’électricité, les avions, les ordinateurs et les engins spatiaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Et la grande pyramide demeura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son parement fut largement arraché."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certaines parties furent endommagées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ses environs furent transformés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais le noyau survécut."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant environ quatre millénaires et demi."
+    },
+    {
+      "type": "heading",
+      "text": "LE VÉRITABLE MIRACLE DES PYRAMIDES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le plus grand mystère des pyramides n’est peut-être pas de savoir si les anciens Égyptiens possédaient une technologie surnaturelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "La question la plus intéressante est de comprendre comment les humains s’organisèrent assez efficacement pour les bâtir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les carriers extrayaient la pierre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les marins transportaient les matériaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les ouvriers tiraient les blocs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les arpenteurs mesuraient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les artisans façonnaient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les administrateurs suivaient les approvisionnements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les agriculteurs produisaient la nourriture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les ingénieurs résolvaient les problèmes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des milliers d’actions humaines individuelles devinrent une seule structure immense."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pyramides ne prouvent pas que les humains n’auraient pas pu les construire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles prouvent ce dont ils étaient déjà capables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plus de 4 500 ans après, la grande pyramide se dresse toujours sur le plateau de Gizeh."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pas parce que l’Égypte antique aurait vaincu le temps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais parce que, durant une période extraordinaire de l’histoire humaine, une civilisation entière apprit à bâtir pour l’éternité."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Encyclopaedia Britannica : les pyramides de Gizeh",
+      "url": "https://www.britannica.com/topic/Pyramids-of-Giza"
+    },
+    {
+      "label": "Encyclopaedia Britannica : la pyramide à degrés de Djéser",
+      "url": "https://www.britannica.com/topic/Step-Pyramid"
+    },
+    {
+      "label": "Nature : découverte d’un grand vide dans la pyramide de Khéops par observation des muons cosmiques",
+      "url": "https://www.nature.com/articles/nature24647"
+    },
+    {
+      "label": "ScanPyramids : informations officielles du projet",
+      "url": "https://www.scanpyramids.org/"
+    },
+    {
+      "label": "Nature Communications : caractérisation précise d’une structure en forme de couloir dans la pyramide de Khéops par observation des muons cosmiques",
+      "url": "https://www.nature.com/articles/s41467-023-36351-0"
+    },
+    {
+      "label": "Ministère égyptien du Tourisme et des Antiquités : le plateau de Gizeh",
+      "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau"
+    },
+    {
+      "label": "Ministère égyptien du Tourisme et des Antiquités : le complexe de la pyramide à degrés de Djéser",
+      "url": "https://egymonuments.gov.eg/en/monuments/the-step-pyramid-complex-of-djoser"
+    },
+    {
+      "label": "Ancient Egypt Research Associates : la cité perdue des bâtisseurs de pyramides",
+      "url": "https://aeraweb.org/projects/lost-city/"
+    },
+    {
+      "label": "IFAO : Ouadi el-Jarf et le port de Khéops sur la mer Rouge",
+      "url": "https://www.ifao.egnet.net/bifao/112/24/"
+    },
+    {
+      "label": "Smithsonian Magazine : transport maritime, mines et économie des pyramides dans l’Égypte antique",
+      "url": "https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Comment les pyramides égyptiennes ont-elles été construites ?",
+      "answer": "Leur construction associait extraction, transport fluvial et terrestre, équipes organisées, arpentage, outils de taille de pierre, traîneaux, leviers et rampes. Les systèmes exacts de rampes employés à chaque étape de la grande pyramide restent débattus."
+    },
+    {
+      "question": "Qui a construit les pyramides ?",
+      "answer": "L’archéologie révèle une main-d’œuvre égyptienne organisée : artisans qualifiés, ouvriers permanents, groupes travaillant par rotation, administrateurs, équipages et producteurs de nourriture. Elle ne confirme pas le simple mythe de monuments bâtis sous le fouet par des esclaves étrangers anonymes."
+    },
+    {
+      "question": "Quand la grande pyramide de Gizeh a-t-elle été construite ?",
+      "answer": "Elle fut construite sous le règne du pharaon Khéops, pendant la IVe dynastie égyptienne, vers le XXVIe siècle av. J.-C."
+    },
+    {
+      "question": "Quelle fut la première pyramide égyptienne ?",
+      "answer": "La pyramide à degrés de Djéser, à Saqqarah, construite sous la IIIe dynastie, est largement considérée comme la première grande pyramide égyptienne et une avancée majeure de l’architecture monumentale en pierre."
+    },
+    {
+      "question": "Qu’est-ce que le journal de Merer ?",
+      "answer": "C’est un ensemble de papyrus anciens du Ouadi el-Jarf qui consigne le transport de calcaire par une équipe vers le chantier de la pyramide de Khéops. Il offre un rare témoignage administratif de l’époque."
+    },
+    {
+      "question": "Qu’est-ce que le grand vide de ScanPyramids ?",
+      "answer": "Le ScanPyramids Big Void est un grand espace jusque-là inconnu, détecté au-dessus de la Grande Galerie grâce à des mesures de muons issus des rayons cosmiques. Sa fonction reste incertaine."
+    },
+    {
+      "question": "Les extraterrestres ont-ils construit les pyramides ?",
+      "answer": "Aucune preuve archéologique crédible ne l’indique. Ces monuments s’inscrivent dans une tradition d’ingénierie égyptienne visible, des mastabas à Djéser, puis aux pyramides de Snéfrou et de Gizeh."
+    }
+  ]
+}

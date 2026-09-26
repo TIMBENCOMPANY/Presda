@@ -1,0 +1,583 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/persian-empire-cyrus-great-achaemenid-history/",
+  "path": "/fr/articles/persian-empire-cyrus-great-achaemenid-history/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "L’Empire perse : comment Cyrus le Grand bâtit la première grande superpuissance",
+  "excerpt": "Cyrus conquit des royaumes. Ses successeurs durent relever un défi plus grand encore : les gouverner. Au cœur de la puissance, de la complexité et de l’héritage durable de l’Empire perse achéménide.",
+  "headlineHighlights": {
+    "red": "Empire perse",
+    "gold": "première grande superpuissance"
+  },
+  "seoTitle": "Empire perse : Cyrus, Darius et les Achéménides | PRESDA",
+  "description": "De Cyrus le Grand à Alexandre : histoire de l’Empire perse, de son administration et de Persépolis, en distinguant les sources historiques des mythes.",
+  "keywords": [
+    "Empire perse",
+    "Cyrus le Grand",
+    "Empire achéménide",
+    "Darius Ier",
+    "cylindre de Cyrus",
+    "Persépolis"
+  ],
+  "searchIntent": "Comprendre la formation et le gouvernement de l’Empire achéménide, les conquêtes de Cyrus et les limites des récits populaires sur la Perse antique.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-16",
+  "updatedAt": "2026-09-16",
+  "image": {
+    "src": "/images/articles/persian-empire-cyrus-great-achaemenid-history.webp",
+    "alt": "Reconstitution historique éditoriale d’un roi perse sur un trône dominant une ville impériale imaginée ; il ne s’agit pas d’un portrait fidèle de Cyrus"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En 539 av. J.-C., Babylone eut un nouveau roi. Cyrus venait du plateau iranien, mais le récit célébrant son arrivée parlait un langage que Babylone comprenait : son dieu l’avait choisi, ses sanctuaires seraient protégés et son précédent souverain avait failli. La conquête prenait les habits de la restauration. Cette conception du pouvoir aide à comprendre comment un royaume perse devint un empire."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Empire perse achéménide finit par relier la Méditerranée orientale et l’Égypte à l’Asie occidentale, à une partie de l’Asie centrale et à la région de l’Indus. Le qualifier de première grande superpuissance est une comparaison moderne renvoyant à son rayonnement exceptionnel, et non un titre antique. L’Assyrie et la Babylonie avaient déjà bâti de puissants empires. La Perse hérita de leur expérience et gouverna à une échelle géographique encore plus vaste. [The Metropolitan Museum of Art : l’Empire perse achéménide](https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son histoire est souvent réduite aux batailles qu’il perdit contre les Grecs. Pourtant, Marathon et Salamine n’expliquent ni comment ses fonctionnaires collectaient les ressources, ni comment ses rois composaient avec diverses traditions religieuses, ni pourquoi ses institutions restèrent utiles au conquérant qui finit par le renverser. La question fondamentale est de comprendre comment la Perse rendit gouvernable une telle diversité."
+    },
+    {
+      "type": "paragraph",
+      "text": "*L’image principale est une reconstitution historique éditoriale, et non un portrait fidèle de Cyrus ou une reconstitution archéologique d’une salle du trône précise. Sauf indication contraire, toutes les dates ci-dessous sont antérieures à notre ère.*"
+    },
+    {
+      "type": "heading",
+      "text": "AVANT CYRUS : LA PERSE N’ÉTAIT PAS UNE PAGE BLANCHE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le territoire d’où émergea Cyrus avait déjà une longue histoire politique. Anshan, associée au site archéologique de Tall-e Malyan, dans l’actuelle province du Fars, avait été un important centre élamite. Le titre de roi d’Anshan rattachait Cyrus à une région où des peuples de langue iranienne côtoyaient des traditions plus anciennes de peuplement, de royauté et d’administration. La puissance perse se développa dans cet environnement ; elle ne fit pas soudain naître la civilisation là où elle aurait été absente. [Encyclopaedia Iranica : Anshan](https://www.iranicaonline.org/articles/anshan-elamite-region/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au nord se trouvaient les Mèdes ; plus à l’ouest, la Lydie en Anatolie et le royaume néo-babylonien. Ces mondes politiques étaient liés entre eux, avec des cours établies, des armées et de riches cités. Un conquérant victorieux pouvait hériter de leurs ressources, mais aussi de leurs obligations et de leurs rivalités. Cyrus réussit à les réunir sous son autorité sans exiger qu’ils deviennent tous culturellement perses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa jeunesse est plus difficile à reconstituer que ses conquêtes. Les auteurs antiques ont livré des récits contradictoires de survie miraculeuse et de destinée royale. On situe traditionnellement le début de son règne en 559, mais les histoires pittoresques de son enfance ne doivent pas être prises pour une biographie fondée sur des témoignages directs. Même l’appellation dynastique familière exige de la prudence : les liens entre la lignée de Cyrus et l’ascendance achéménide revendiquée par Darius font débat parmi les chercheurs. [Encyclopaedia Iranica : Cyrus II le Grand](https://www.iranicaonline.org/articles/cyrus-iii/)"
+    },
+    {
+      "type": "heading",
+      "text": "CYRUS LE GRAND : DES MÈDES À BABYLONE"
+    },
+    {
+      "type": "subheading",
+      "text": "La chute de la Médie et de la Lydie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cyrus vainquit le roi mède Astyage vers 550. Cette victoire donna à sa monarchie en expansion une base politique beaucoup plus large. Elle inaugura aussi une pratique récurrente : la réussite perse pouvait intégrer une tradition de pouvoir plus ancienne plutôt qu’en effacer toute trace. Le nouvel empire était dirigé par les Perses, mais ses peuples et ses institutions ne seraient jamais exclusivement perses. [The Met : la fondation de l’empire](https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Lydie suivit. Son roi, Crésus, devint proverbial pour sa richesse, mais la date de sa défaite est moins certaine que ne le suggèrent bien des chronologies. La conquête est traditionnellement située en 547 ou 546 ; les tentatives pour la rattacher précisément à un passage endommagé de la Chronique de Nabonide restent discutées. La conquête au milieu du VIe siècle est certaine ; une année exacte racontée avec assurance ne l’est pas. Les histoires de l’oracle de Crésus et de sa mort sur un bûcher, ou de son sauvetage, appartiennent à des traditions antiques concurrentes, pas à un compte rendu vérifié des événements. [Encyclopaedia Iranica : Crésus](https://www.iranicaonline.org/articles/croesus/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Babylone, 539 av. J.-C."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prise de Babylone représentait un enjeu d’une autre nature : une capitale impériale, un cœur agricole et un centre d’autorité religieuse. La Chronique de Nabonide relate la campagne et l’occupation de la ville. Son récit d’une entrée sans bataille ne permet pas d’affirmer que toute la conquête se déroula sans violence ; des combats précédèrent la chute de Babylone. [British Museum : la Chronique de Nabonide](https://www.britishmuseum.org/collection/object/W_Sp-II-964)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À Babylone, le discours public de Cyrus insistait sur la continuité. Il se présentait comme le souverain légitime favorisé par Marduk, le principal dieu de la ville, plutôt que comme un étranger abolissant son ordre sacré. Il revendiquait ainsi sa légitimité dans les termes locaux. Pour un roi acquérant des territoires aux histoires distinctes, s’exprimer à travers leurs institutions pouvait compter autant que vaincre leurs armées."
+    },
+    {
+      "type": "heading",
+      "text": "LE CYLINDRE DE CYRUS : DROITS HUMAINS OU PROPAGANDE IMPÉRIALE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le cylindre de Cyrus est un document de fondation en argile, rédigé en cunéiforme babylonien après la conquête. Il dénonce Nabonide, célèbre l’élection de Cyrus par Marduk, décrit la restauration des images cultuelles et des communautés, et mentionne des travaux sur les défenses de Babylone. Sa forme s’inscrit dans les traditions royales mésopotamiennes. Ce n’était pas une constitution accordant des droits égaux à chaque habitant d’un empire universel. [British Museum : le cylindre de Cyrus](https://www.britishmuseum.org/collection/object/W_1880-0617-1941)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans la traduction d’Irving Finkel, Cyrus affirme avoir allégé des charges, restauré des sanctuaires et ramené des populations dans leurs lieux de résidence. Ces déclarations comptent. Mais le texte proclame aussi une royauté universelle et décrit d’autres souverains apportant leur tribut et se soumettant. Il ne proclame ni l’abolition de l’esclavage, ni un gouvernement démocratique, ni une liberté universelle de conscience. Les paraphrases modernes qui y insèrent de telles promesses modifient le document au lieu de l’expliquer. [Irving Finkel : traduction du cylindre de Cyrus](https://fezana.org/wp-content/uploads/FEZANA-Lesson-2-Translation-of-the-Text-on-the-Cyrus-Cylinder.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le qualifier de première déclaration des droits humains au monde revient donc à appliquer une catégorie juridique moderne à un contexte très différent. Le qualifier de propagande ne rend pas non plus chaque affirmation fausse. La communication royale pouvait décrire de véritables mesures de restauration tout en les sélectionnant pour justifier la conquête. Le cylindre renseigne puissamment sur la manière dont Cyrus souhaitait faire percevoir son règne ; ce n’est pas un examen indépendant de sa conduite. [Présentation du British Museum sur Smarthistory : le cylindre de Cyrus](https://smarthistory.org/cyrus-cylinder/)"
+    },
+    {
+      "type": "heading",
+      "text": "CYRUS LE GRAND : CONQUÉRANT OU ROI TOLÉRANT ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les deux descriptions saisissent une part de la réalité, à condition de ne pas en faire un portrait moral exhaustif. Soutenir les cultes locaux et les élites établies pouvait épargner certains bouleversements à une société conquise. Cela pouvait aussi assurer au nouveau souverain coopération, revenus et stabilité politique. Le respect et le calcul n’étaient pas nécessairement incompatibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tolérance impériale signifiait que de nombreuses communautés pouvaient conserver des pratiques importantes sous la suprématie d’un roi. Elle ne signifiait pas qu’elles avaient consenti à la conquête ou disposaient d’un droit garanti à quitter l’empire. L’image favorable donnée par le cylindre doit être confrontée au fait que Cyrus étendait son autorité par la guerre. Il élabora un redoutable modèle de royauté, sans créer pour autant un État libéral moderne. [Smarthistory : interpréter le message royal de Cyrus](https://smarthistory.org/cyrus-cylinder/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cyrus mourut en 530. Les circonstances exactes restent incertaines. Hérodote situe sa mort dans une guerre contre les Massagètes et donne à la reine Tomyris un rôle central ; Ctésias propose un autre récit de mort au combat, tandis que la biographie idéalisée de Xénophon décrit une fin paisible. On ne peut pas concilier toutes ces versions en une seule scène finale digne du cinéma. La conclusion honnête est une mort non élucidée, suivie d’une succession bien réelle. [Iranica : les récits concurrents de la mort de Cyrus](https://www.iranicaonline.org/articles/cyrus-iii/)"
+    },
+    {
+      "type": "heading",
+      "text": "CAMBYSE II : L’ÉGYPTE ENTRE DANS L’EMPIRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le fils de Cyrus, Cambyse II, conquit l’Égypte en 525 en battant Psammétique III. L’empire contrôlait désormais un autre royaume ancien, dont les temples, la bureaucratie et les conceptions de la royauté sacrée précédaient la domination perse. L’Égypte offrait d’immenses ressources, mais la gouverner exigeait davantage que d’y installer des soldats. [Encyclopaedia Iranica : les Perses en Égypte](https://www.iranicaonline.org/articles/egypt-i/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les récits grecs ont souvent fait de Cambyse un modèle de folie et de sacrilège. Les sources égyptiennes compliquent ce portrait : les documents associés à l’inhumation d’un taureau Apis ne correspondent pas à l’image simple d’un souverain détruisant systématiquement la religion locale. Cela ne prouve pas que l’occupation fut inoffensive. Cela signifie qu’il faut confronter les traditions littéraires hostiles aux documents et aux monuments plutôt que les répéter comme des diagnostics psychologiques. [Encyclopaedia Iranica : Cambyse](https://www.iranicaonline.org/articles/cambyses-opers/)"
+    },
+    {
+      "type": "heading",
+      "text": "DARIUS IER : REBÂTIR L’EMPIRE APRÈS UNE SUCCESSION CONTESTÉE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La transition de 522 fut une crise. Darius affirma qu’un usurpateur nommé Gaumata avait pris l’identité de Bardiya, fils de Cyrus, et qu’il avait sauvé la royauté légitime. L’homme qu’il renversa était-il réellement un imposteur ? La question reste débattue. L’explication de Darius est une source indispensable, mais elle émane aussi du bénéficiaire du coup de force. [Encyclopaedia Iranica : Gaumata](https://www.iranicaonline.org/articles/gaumata/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À Behistun, Darius fit immortaliser sa victoire et la répression des révoltes en vieux-perse, en élamite et en babylonien. L’inscription présente la rébellion à travers une opposition morale entre vérité et mensonge, la faveur divine soutenant le roi. Elle révèle les luttes nécessaires pour imposer l’autorité et le soin apporté à la mise en scène de leur issue. [Encyclopaedia Iranica : l’inscription de Behistun](https://www.iranicaonline.org/articles/bisotun-iii/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Darius Ier, qui régna de 522 à 486, contribua à consolider un État dont les ressources dépassaient largement le foyer perse. Son importance historique ne tient pas à l’invention d’un gouvernement à partir de rien. Il organisa et développa des institutions héritées de ses prédécesseurs et des territoires conquis. La pérennité de l’empire dépendait de la transformation d’une possession militaire en administration régulière."
+    },
+    {
+      "type": "heading",
+      "text": "COMMENT LA PERSE GOUVERNAIT-ELLE TANT DE PEUPLES DIFFÉRENTS ?"
+    },
+    {
+      "type": "subheading",
+      "text": "Satrapies et élites locales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les satrapies étaient des circonscriptions provinciales placées sous l’autorité royale. Leurs responsables collectaient et transmettaient des ressources, recrutaient des troupes, supervisaient l’administration et assuraient la sécurité. Leur organisation évolua au fil du temps ; les célèbres districts tributaires décrits par les auteurs grecs ne doivent pas être pris pour une carte immuable de vingt provinces identiques. [Encyclopaedia Iranica : les satrapies achéménides](https://www.iranicaonline.org/articles/achaemenid-satrapies/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le roi pouvait s’appuyer sur des aristocrates régionaux, des institutions civiques et des bureaucraties établies. Le gouvernement provincial associait donc suprématie perse et compétences locales. La négociation et le patronage comptaient aux côtés des ordres ; ce même arrangement pouvait devenir instable lorsqu’un gouverneur ou une dynastie locale nourrissait ses propres ambitions. La diversité pouvait être gouvernée, mais jamais sans coût politique. [Iranica : responsabilités et structures provinciales](https://www.iranicaonline.org/articles/achaemenid-satrapies/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Routes, messages et problème de la distance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un ordre arrivé trop tard pouvait devenir presque inutile. La Route royale reliant Suse à Sardes faisait partie d’un réseau plus vaste entre centres impériaux et provinces. Les itinéraires et les étapes facilitaient les déplacements des fonctionnaires, des messagers et d’autres voyageurs. Les Perses améliorèrent et intégrèrent les communications à travers les territoires conquis ; ils n’inventèrent pas les routes. [Encyclopaedia Iranica : routes et communications impériales](https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-ii-the-empire/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un système de relais permettait aux messages de l’État de circuler grâce à une succession de cavaliers et de stations. Son objectif était autant politique que pratique : l’information aidait un roi éloigné à rester présent dans les affaires provinciales. Les administrations ultérieures affronteraient elles aussi ce problème : gouverner plus vite que les nouvelles ne circulent. La réponse perse s’inscrit dans une longue histoire des communications officielles organisées. [Encyclopaedia Iranica : les antécédents du service postal officiel](https://www.iranicaonline.org/articles/barid-the-official-postal-and-intelligence-service-of-the-early-islamic-caliphate-and-its-successor-states/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les langues et les écritures quotidiennes du pouvoir"
+    },
+    {
+      "type": "paragraph",
+      "text": "À Persépolis, les documents conservés révèlent un système d’information sous plusieurs formes. Des textes élamites et araméens côtoient des empreintes de sceaux et, plus rarement, des documents dans d’autres langues. Une grande partie des archives concerne le stockage et la distribution de nourriture. Leur champ s’étend des travailleurs aux membres de la famille royale : l’empire apparaît ici comme un ensemble de comptes, d’autorisations et d’approvisionnements. [Université de Chicago : archives des fortifications de Persépolis](https://isac.uchicago.edu/research/projects/persepolis-fortification-archive)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces tablettes offrent un contrepoint essentiel aux récits de batailles. Gouverner de nombreux peuples n’exigeait pas qu’une langue remplace toutes les autres. Il fallait des agents capables de rendre les obligations lisibles et de suivre ce qui circulait entre les institutions. Traducteurs, scribes et administrateurs participaient aux mécanismes qui faisaient fonctionner la monarchie."
+    },
+    {
+      "type": "subheading",
+      "text": "Fiscalité, échanges et darique d’or"
+    },
+    {
+      "type": "paragraph",
+      "text": "Darius introduisit la darique d’or, une monnaie royale d’environ 8,4 grammes. La date exacte de son introduction et l’origine de son nom font débat. Elle devint une expression importante de l’autorité monétaire du roi, mais son existence ne signifie pas que chaque transaction dans l’empire s’effectuait en pièces d’or. [Encyclopaedia Iranica : la darique](https://www.iranicaonline.org/articles/daric/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les monnaies coexistaient avec d’autres formes de paiement et d’échange. Les pratiques différaient selon les régions ; le métal pesé et les paiements en nature restaient importants. La richesse impériale dépassait donc tout amas de pièces dans un trésor : elle englobait la production agricole, les obligations de travail, le commerce et la capacité à mobiliser des ressources. Une valorisation en dollars modernes donnerait une trompeuse impression de précision. [Encyclopaedia Iranica : monnaies et monnayage](https://www.iranicaonline.org/articles/coins-and-coinage/)"
+    },
+    {
+      "type": "heading",
+      "text": "PERSÉPOLIS : UNE VISION DE L’ORDRE INSCRITE DANS LA PIERRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Commencée sous Darius et développée par ses successeurs, Persépolis déployait la magnificence royale sur une terrasse monumentale. Palais, salles d’audience, bâtiments résidentiels et trésors en faisaient bien davantage qu’un décor. Ses reliefs montraient différents peuples dans un monde impérial ordonné, reconnaissables à leurs vêtements et à leurs offrandes, mais réunis autour de l’autorité du roi. [Encyclopaedia Iranica : Persépolis](https://www.iranicaonline.org/articles/persepolis/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il est juste d’y voir un centre cérémoniel ; il serait faux de n’y voir que cela. Les sources administratives attestent des activités pratiques derrière la représentation du pouvoir royal. L’idée populaire d’un palais construit spécialement pour les célébrations de Norouz reste une interprétation débattue, pas un fait établi. Ce n’était pas non plus une capitale bâtie par Cyrus : son grand programme monumental achéménide relève de règnes ultérieurs. [Iranica : bâtiments du site et fonctions discutées](https://www.iranicaonline.org/articles/persepolis/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suse était un autre grand centre royal. La géographie de la cour était plurielle, loin d’un système national moderne concentrant toutes les fonctions dans une capitale permanente. Cette organisation reflétait à la fois l’importance héritée des villes et l’étendue des territoires revendiqués par le roi. [Encyclopaedia Iranica : Suse achéménide](https://www.iranicaonline.org/articles/susa-iii-the-achaemenid-period/)"
+    },
+    {
+      "type": "heading",
+      "text": "RELIGION, TOLÉRANCE ET LIMITES DE L’AUTONOMIE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les inscriptions de Darius invoquent régulièrement Ahura Mazda. Elles constituent une preuve solide de la dévotion royale. Il est plus difficile de déterminer quel terme décrit le mieux l’ensemble de l’univers religieux des rois. Les chercheurs divergent sur la proximité entre les pratiques achéménides et le zoroastrisme reconstitué à partir de textes ultérieurs. On ne peut projeter sans risque une orthodoxie postérieure, complète et uniforme, sur chaque souverain achéménide. [Encyclopaedia Iranica : culture et religion achéménides](https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-iii-culture/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le débat comprend des arguments solides pour reconnaître comme zoroastriennes certaines croyances royales importantes. Il faut distinguer ces arguments d’une certitude sur la foi personnelle de Cyrus ou de l’affirmation selon laquelle tous les sujets de l’empire la partageaient. Un empire réunissant des traditions babyloniennes, égyptiennes, iraniennes et grecques ne peut se décrire à partir des seules invocations du roi. [Encyclopaedia Iranica : la religion achéménide](https://www.iranicaonline.org/articles/achaemenid-religion/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Perse n’était pas davantage un empire sans esclavage. Des documents de Babylonie achéménide attestent la présence de personnes asservies et de transactions les concernant. D’autres travailleurs dépendants occupaient des positions juridiques et économiques différentes ; il ne faut pas fusionner toutes ces catégories. Mais ni les paiements ni les rations consignés pour certains travailleurs ne prouvent une liberté universelle. [Encyclopaedia Iranica : l’esclavage à l’époque achéménide](https://www.iranicaonline.org/articles/barda-i/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’accommodement coexistait aussi avec la contrainte. La répression royale des révoltes pouvait être brutale, et l’inscription de Darius décrit elle-même des violences contre ses adversaires vaincus. Reconnaître la sophistication administrative n’oblige pas à ignorer la force qui la soutenait. L’ordre impérial avait un autre visage depuis le trône que depuis une communauté résistant à ses exigences. [Encyclopaedia Iranica : les châtiments à l’époque achéménide](https://www.iranicaonline.org/articles/torture-achaemenid-period/)"
+    },
+    {
+      "type": "heading",
+      "text": "L’ARMÉE ET LES « IMMORTELS »"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Perse puisait ses ressources militaires dans une population vaste et diverse. Cavalerie, infanterie et archers servaient aux côtés de contingents aux équipements et aux expériences régionaux variés. Sa puissance militaire ne se réduit pas à une foule anonyme se ruant sur des Grecs disciplinés. Mobiliser des forces venues de provinces éloignées constituait en soi une réussite organisationnelle, même lorsque certaines campagnes se terminaient par une défaite. [Encyclopaedia Iranica : l’armée achéménide](https://www.iranicaonline.org/articles/army-i/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hérodote décrit une force d’élite de 10 000 hommes qu’il appelle les Immortels : les pertes auraient été remplacées pour maintenir l’effectif constant. L’appellation iranienne derrière ce nom grec demeure incertaine. Les chercheurs ont proposé des explications, dont un possible malentendu linguistique, mais aucune n’autorise à traiter l’image cinématographique de tueurs masqués et surnaturels comme une preuve historique. [Encyclopaedia Iranica : les Immortels](https://www.iranicaonline.org/articles/immortals/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les effectifs militaires antiques exigent la même prudence. Les nombres immenses associés à l’invasion de Xerxès ne sont pas des résultats fiables de recensement. Les estimations modernes diffèrent considérablement, faute de données permettant une reconstitution exacte. Remplacer un chiffre antique de plusieurs millions par un nombre moderne affirmé avec assurance peut masquer le problème au lieu de le résoudre. [Iranica : organisation militaire et effectifs discutés](https://www.iranicaonline.org/articles/army-i/)"
+    },
+    {
+      "type": "heading",
+      "text": "LES GUERRES MÉDIQUES : DEUX CÔTÉS D’UNE FRONTIÈRE IMPÉRIALE"
+    },
+    {
+      "type": "subheading",
+      "text": "La révolte de l’Ionie et Marathon"
+    },
+    {
+      "type": "paragraph",
+      "text": "La révolte de l’Ionie, de 499 à 494, contesta l’autorité perse dans les cités grecques d’Anatolie occidentale. L’aide d’Athènes et d’Érétrie l’inscrivit dans les enjeux politiques de l’autre côté de l’Égée. La campagne suivante de Darius atteignit la Grèce continentale, où les Athéniens et leurs alliés platéens battirent une force perse à Marathon en 490. La victoire fut décisive pour Athènes, mais elle ne détruisit pas l’Empire perse. [Encyclopaedia Iranica : relations gréco-perses](https://www.iranicaonline.org/articles/greece-i/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Xerxès, les Thermopyles et Athènes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir succédé à Darius en 486, Xerxès prépara une invasion beaucoup plus vaste. En 480, ses forces percèrent la défense des Thermopyles et avancèrent en Attique. Athènes fut prise et son Acropole incendiée. Pour les communautés qui lui résistaient, l’invasion menaçait l’indépendance politique et les lieux sacrés. Du point de vue de la cour perse, elle visait aussi à sécuriser une frontière impériale et à punir la résistance. [Encyclopaedia Iranica : chronologie de l’histoire iranienne](https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Salamine et l’échec de l’invasion"
+    },
+    {
+      "type": "paragraph",
+      "text": "La victoire navale grecque de Salamine en 480 transforma la campagne. Xerxès se retira, tandis qu’une armée commandée par Mardonios resta sur place. En 479, la défaite de cette armée à Platées et le succès grec au cap Mycale brisèrent davantage l’élan de l’invasion. Ces défaites perses furent bien réelles ; reconnaître la sophistication de l’empire ne doit pas conduire à les minimiser. La Perse demeura pourtant une grande puissance pendant plusieurs générations. [Encyclopaedia Iranica : Salamine](https://www.iranicaonline.org/articles/salamis/)"
+    },
+    {
+      "type": "heading",
+      "text": "300 FACE À LA RÉALITÉ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aux Thermopyles, les 300 Spartiates faisaient partie d’une coalition grecque plus large : ils n’en constituaient pas toute l’armée. Hérodote énumère des contingents de nombreuses communautés et décrit des Thespiens et des Thébains restant aux côtés des Spartiates dans la phase finale. La bataille s’acheva par une victoire perse au défilé. Sa puissance symbolique ultérieure ne doit pas inverser cette issue militaire. [Hérodote, Histoires, livre VII : les Thermopyles](https://www.livius.org/sources/content/herodotus/herodotus-on-thermopylae/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Même la composition de la dernière résistance exige des nuances. Hérodote mentionne 700 Thespiens et 400 Thébains dans sa liste des contingents, mais les pertes, les départs et la place des hilotes compliquent tout décompte final exact. Les recherches récentes examinent ces incertitudes plutôt que de considérer une distribution de cinéma bien nette comme acquise. Se souvenir des non-Spartiates redonne une place à ceux que le titre « 300 » laisse hors champ. [The Classical Quarterly : les hilotes aux Thermopyles](https://www.cambridge.org/core/journals/classical-quarterly/article/helots-at-thermopylae-the-greek-dead-at-herodotus-825/A5DF91D575046DA4CF4D00A917C0A97D)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La déformation la plus profonde est la simplification morale. La Perse n’était pas une civilisation de monstres sans visage, et le monde grec n’était pas un bloc uni défendant des valeurs politiques identiques. Les communautés grecques firent des choix différents, y compris celui de composer avec la Perse. Reconnaître le courage militaire d’un camp n’exige pas de nier l’humanité de l’autre. [Iranica : l’évolution des relations gréco-perses](https://www.iranicaonline.org/articles/greece-i/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Pourquoi les voix grecques dominent le récit familier"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les récits historiques grecs offrent des descriptions exceptionnellement riches des guerres, mais leurs auteurs avaient des objectifs littéraires, des intérêts politiques et un accès limité aux informations. Hérodote peut conserver de précieuses traditions tout en organisant les événements en récits sur le pouvoir, les revers de fortune et la démesure. Ses discours et ses scènes privées à la cour ne peuvent pas être lus comme de simples transcriptions mot à mot. [Encyclopaedia Iranica : la Perse vue par Hérodote](https://www.iranicaonline.org/articles/herodotus-vii/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les inscriptions perses, les documents babyloniens, les bâtiments fouillés et les archives administratives permettent de changer de perspective. Ils ont leurs propres biais et limites, mais empêchent que les récits grecs de batailles deviennent toute la biographie de l’empire. Les travaux du British Museum sur le luxe perse remettent également en cause la vieille équation entre magnificence et faiblesse : la splendeur pouvait exprimer l’autorité et façonner les relations diplomatiques. [British Museum : luxe et pouvoir, de la Perse à la Grèce](https://www.britishmuseum.org/exhibitions/luxury-and-power-persia-greece)"
+    },
+    {
+      "type": "heading",
+      "text": "APRÈS XERXÈS : PLUS D’UN SIÈCLE DE PUISSANCE MAINTENUE"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’histoire achéménide ultérieure connut des luttes de succession, des révoltes et des rivalités entre puissants, mais elle ne fut pas une descente linéaire vers l’impuissance. Sous Artaxerxès II, les ressources perses restaient décisives dans les affaires grecques. La victoire navale de Cnide en 394, remportée par une flotte perse sous le commandement de l’Athénien Conon, montre combien une opposition permanente entre Grèce et Perse est inadéquate. [Encyclopaedia Iranica : Artaxerxès II](https://www.iranicaonline.org/articles/artaxerxes-ii-achaemenid-king/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Égypte échappa un temps au contrôle perse avant qu’Artaxerxès III ne la reconquière en 343. Ce rétablissement n’efface pas les pertes antérieures, mais montre une monarchie encore capable d’une expansion majeure peu avant Alexandre. Les récits de la dureté de la reconquête doivent eux aussi être lus avec un regard critique, sans supposer que le succès impérial ou les témoignages hostiles racontent toute l’histoire. [University College London : la seconde période perse en Égypte](https://www.ucl.ac.uk/museums-static/digitalegypt/lp/persian2.html)"
+    },
+    {
+      "type": "heading",
+      "text": "ALEXANDRE : L’EMPIRE NE TOMBA PAS EN UNE BATAILLE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Philippe II de Macédoine prépara l’offensive dont son fils hérita. Après l’assassinat de Philippe en 336, Alexandre reprit le projet d’invasion et passa en Asie en 334. La guerre demanderait des années, et non un affrontement miraculeux unique. [Encyclopaedia Iranica : Alexandre le Grand](https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au Granique, en 334, Alexandre battit une armée perse commandée par des chefs régionaux ; Darius III ne dirigeait pas personnellement cette bataille. L’issue ouvrit des possibilités en Anatolie, mais le roi de l’empire et ses ressources centrales restaient intacts. Même ici, les récits conservés divergent sur les détails et exagèrent les effectifs. [Encyclopaedia Iranica : le Granique](https://www.iranicaonline.org/articles/granicus/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Darius III affronta Alexandre à Issos en 333 et fut vaincu. La lutte se poursuivit ensuite à travers la Méditerranée orientale avant que les armées ne se retrouvent à Gaugamèles, le 1er octobre 331. Cette victoire macédonienne décisive ouvrit l’accès à de grands centres impériaux et à leurs trésors. [Encyclopaedia Iranica : Darius III](https://www.iranicaonline.org/articles/darius-v/), [Encyclopaedia Iranica : Gaugamèles](https://www.iranicaonline.org/articles/gaugamela/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alexandre atteignit Persépolis en 330. La destruction de ses palais devint l’une des images les plus durables de la conquête. Les explications antiques divergent sur les intentions et les circonstances ; un récit spectaculaire de banquet ne doit pas être présenté comme une version indépendamment vérifiée de l’origine de l’incendie. La destruction des bâtiments royaux et la fin de la dynastie sont mieux établies que les motivations intimes du conquérant. [Iranica : la conquête d’Alexandre et ses sources](https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Darius s’enfuit vers l’est et fut tué en 330 par des conspirateurs de son propre camp. Sa mort marque la fin conventionnelle de la monarchie achéménide, pas la disparition des peuples perses, des institutions ou des résistances. Les campagnes d’Alexandre plus à l’est se poursuivirent. Il adopta aussi des éléments de la royauté qu’il avait vaincue et rechercha la coopération des élites iraniennes. Conquérir un empire lui léguait ses problèmes de gouvernement. [Iranica : les dernières campagnes de Darius III](https://www.iranicaonline.org/articles/darius-v/)"
+    },
+    {
+      "type": "heading",
+      "text": "L’EMPIRE PERSE : MYTHES ET RÉALITÉS"
+    },
+    {
+      "type": "paragraph",
+      "text": "**« Le cylindre de Cyrus a aboli l’esclavage. »** C’est faux. Les affirmations de restauration dans un document royal ne sont pas une loi d’émancipation universelle ; des preuves d’esclavage subsistent dans les territoires sous domination perse."
+    },
+    {
+      "type": "paragraph",
+      "text": "**« Les Immortels étaient surnaturels ou littéralement indestructibles. »** Le nom nous vient d’un témoignage grec sur une force d’élite dont les pertes étaient remplacées. Son appellation iranienne d’origine est incertaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "**« Xerxès était le méchant gigantesque et exotique du cinéma moderne. »** C’est une invention artistique. Le Xerxès historique était un monarque achéménide dont le règne doit être reconstitué à partir d’inscriptions, de vestiges et de récits lus de manière critique."
+    },
+    {
+      "type": "paragraph",
+      "text": "**« Exactement 300 Grecs affrontèrent une armée perse dont l’effectif est connu avec certitude. »** Plusieurs communautés grecques participèrent à la défense. Le total perse et le nombre final de défenseurs grecs sont discutés ; la précision des récits populaires dépasse ce que permettent les sources."
+    },
+    {
+      "type": "paragraph",
+      "text": "**« Persépolis était le palais de Cyrus et ne servait qu’aux fêtes du Nouvel An. »** Darius et ses successeurs développèrent le complexe monumental. Il associait représentation royale et fonctions pratiques ; l’interprétation spécifique liée à Norouz reste débattue."
+    },
+    {
+      "type": "paragraph",
+      "text": "**« Tous les rois et sujets perses pratiquaient une religion uniforme. »** Les invocations royales d’Ahura Mazda ne prouvent pas une uniformité religieuse. L’empire abritait de nombreuses traditions, et le lien précis entre les croyances royales et le zoroastrisme ultérieur demeure une question de recherche."
+    },
+    {
+      "type": "paragraph",
+      "text": "**« Alexandre détruisit la Perse en une seule bataille. »** Le Granique, Issos et Gaugamèles furent des étapes d’une conquête plus longue. Le pouvoir dynastique achéménide prit fin ; les sociétés et les traditions politiques perses, elles, perdurèrent."
+    },
+    {
+      "type": "heading",
+      "text": "L’ACCOMPLISSEMENT QUI SURVÉCUT AUX ROIS"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’extraordinaire richesse de la Perse ne se résume pas à l’or derrière les portes des palais. Sa puissance reposait sur les liens entre régions productives, agents provinciaux, transports, négociations politiques et autorité royale. Ses frontières évoluèrent, et son contrôle n’avait pas partout la même intensité. Décrire cette géographie est plus solide que répéter un pourcentage exact de la population mondiale, dont les recensements antiques ne peuvent fournir un dénominateur fiable."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’empire légua des modèles d’administration provinciale, de communication impériale et de royauté monumentale que les souverains ultérieurs purent adapter. Son art réunit diverses traditions dans un langage royal distinctif. Son histoire révèle aussi une tension récurrente : une administration peut accueillir la diversité culturelle tout en refusant l’égalité politique. La sophistication et la contrainte ne sont pas des contraires dans l’histoire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour un autre éclairage sur la manière dont les États maintenaient ensemble différentes populations, découvrez [la puissance et la vie quotidienne dans l’Empire romain](/articles/roman-empire-power-luxury-life-ancient-rome/) et [les conquêtes et les échanges de l’Empire mongol](/articles/mongol-empire-genghis-khan-conquests-legacy/). Ces mondes étaient différents, mais chacun dut franchir l’écart entre conquérir un territoire et le gouverner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cyrus bâtit sa réputation en conquérant des royaumes et en apprenant à parler à leurs traditions. Darius et les rois suivants transformèrent cet héritage en expansion en systèmes capables de fonctionner à distance. Leur empire finit par tomber, mais le problème auquel ils s’étaient confrontés resta fondamental pour tous leurs successeurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "La puissance de la Perse ne venait pas uniquement de la conquête territoriale. Sa plus grande réussite fut de trouver des moyens de gouverner un empire réunissant des peuples, des langues, des religions et des paysages différents."
+    }
+  ],
+  "sources": [
+    {
+      "label": "The Met : la fondation de l’empire",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    },
+    {
+      "label": "Encyclopaedia Iranica : Anshan",
+      "url": "https://www.iranicaonline.org/articles/anshan-elamite-region/"
+    },
+    {
+      "label": "Iranica : les récits concurrents de la mort de Cyrus",
+      "url": "https://www.iranicaonline.org/articles/cyrus-iii/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : Crésus",
+      "url": "https://www.iranicaonline.org/articles/croesus/"
+    },
+    {
+      "label": "British Museum : la Chronique de Nabonide",
+      "url": "https://www.britishmuseum.org/collection/object/W_Sp-II-964"
+    },
+    {
+      "label": "British Museum : le cylindre de Cyrus",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+    },
+    {
+      "label": "Irving Finkel : traduction du cylindre de Cyrus",
+      "url": "https://fezana.org/wp-content/uploads/FEZANA-Lesson-2-Translation-of-the-Text-on-the-Cyrus-Cylinder.pdf"
+    },
+    {
+      "label": "Smarthistory : interpréter le message royal de Cyrus",
+      "url": "https://smarthistory.org/cyrus-cylinder/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : les Perses en Égypte",
+      "url": "https://www.iranicaonline.org/articles/egypt-i/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : Cambyse",
+      "url": "https://www.iranicaonline.org/articles/cambyses-opers/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : Gaumata",
+      "url": "https://www.iranicaonline.org/articles/gaumata/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : l’inscription de Behistun",
+      "url": "https://www.iranicaonline.org/articles/bisotun-iii/"
+    },
+    {
+      "label": "Iranica : responsabilités et structures provinciales",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : routes et communications impériales",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-ii-the-empire/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : les antécédents du service postal officiel",
+      "url": "https://www.iranicaonline.org/articles/barid-the-official-postal-and-intelligence-service-of-the-early-islamic-caliphate-and-its-successor-states/"
+    },
+    {
+      "label": "Université de Chicago : archives des fortifications de Persépolis",
+      "url": "https://isac.uchicago.edu/research/projects/persepolis-fortification-archive"
+    },
+    {
+      "label": "Encyclopaedia Iranica : la darique",
+      "url": "https://www.iranicaonline.org/articles/daric/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : monnaies et monnayage",
+      "url": "https://www.iranicaonline.org/articles/coins-and-coinage/"
+    },
+    {
+      "label": "Iranica : bâtiments du site et fonctions discutées",
+      "url": "https://www.iranicaonline.org/articles/persepolis/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : Suse achéménide",
+      "url": "https://www.iranicaonline.org/articles/susa-iii-the-achaemenid-period/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : culture et religion achéménides",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-iii-culture/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : la religion achéménide",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-religion/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : l’esclavage à l’époque achéménide",
+      "url": "https://www.iranicaonline.org/articles/barda-i/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : les châtiments à l’époque achéménide",
+      "url": "https://www.iranicaonline.org/articles/torture-achaemenid-period/"
+    },
+    {
+      "label": "Iranica : organisation militaire et effectifs discutés",
+      "url": "https://www.iranicaonline.org/articles/army-i/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : les Immortels",
+      "url": "https://www.iranicaonline.org/articles/immortals/"
+    },
+    {
+      "label": "Iranica : l’évolution des relations gréco-perses",
+      "url": "https://www.iranicaonline.org/articles/greece-i/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : chronologie de l’histoire iranienne",
+      "url": "https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : Salamine",
+      "url": "https://www.iranicaonline.org/articles/salamis/"
+    },
+    {
+      "label": "Hérodote, Histoires, livre VII : les Thermopyles",
+      "url": "https://www.livius.org/sources/content/herodotus/herodotus-on-thermopylae/"
+    },
+    {
+      "label": "The Classical Quarterly : les hilotes aux Thermopyles",
+      "url": "https://www.cambridge.org/core/journals/classical-quarterly/article/helots-at-thermopylae-the-greek-dead-at-herodotus-825/A5DF91D575046DA4CF4D00A917C0A97D"
+    },
+    {
+      "label": "Encyclopaedia Iranica : la Perse vue par Hérodote",
+      "url": "https://www.iranicaonline.org/articles/herodotus-vii/"
+    },
+    {
+      "label": "British Museum : luxe et pouvoir, de la Perse à la Grèce",
+      "url": "https://www.britishmuseum.org/exhibitions/luxury-and-power-persia-greece"
+    },
+    {
+      "label": "Encyclopaedia Iranica : Artaxerxès II",
+      "url": "https://www.iranicaonline.org/articles/artaxerxes-ii-achaemenid-king/"
+    },
+    {
+      "label": "University College London : la seconde période perse en Égypte",
+      "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/lp/persian2.html"
+    },
+    {
+      "label": "Iranica : la conquête d’Alexandre et ses sources",
+      "url": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : le Granique",
+      "url": "https://www.iranicaonline.org/articles/granicus/"
+    },
+    {
+      "label": "Iranica : les dernières campagnes de Darius III",
+      "url": "https://www.iranicaonline.org/articles/darius-v/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : Gaugamèles",
+      "url": "https://www.iranicaonline.org/articles/gaugamela/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "De quoi parle cet article de PRESDA ?",
+      "answer": "Cyrus conquit des royaumes. Ses successeurs durent relever un défi plus grand encore : les gouverner. Au cœur de la puissance, de la complexité et de l’héritage durable de l’Empire perse achéménide."
+    },
+    {
+      "question": "À quelle rubrique appartient cet article ?",
+      "answer": "Cet article fait partie de la rubrique Histoire de PRESDA."
+    },
+    {
+      "question": "Qui a publié cet article ?",
+      "answer": "L’article « L’Empire perse : comment Cyrus le Grand bâtit la première grande superpuissance » a été publié sur PRESDA par PRESDA Editorial."
+    }
+  ]
+}

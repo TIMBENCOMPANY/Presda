@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "worlds-most-valuable-companies-in-2026",
+    "locales": ["fr", "es"],
+    "reason": "Ranked corporate proper names retain their established spelling in French and Spanish. This exception covers these exact headings only.",
+    "blocks": {
+      "9": "1. NVIDIA",
+      "12": "2. Apple",
+      "15": "3. Alphabet",
+      "18": "4. Microsoft",
+      "21": "5. Amazon",
+      "24": "6. TSMC",
+      "27": "7. Broadcom",
+      "30": "8. Saudi Aramco",
+      "33": "9. Meta Platforms",
+      "36": "10. Tesla"
+    }
+  },
+  {
+    "slug": "highest-paid-athletes-2026",
+    "locales": ["fr", "es"],
+    "reason": "Established personal names retain their spelling in French and Spanish.",
+    "blocks": {
+      "63": "Stephen Curry",
+      "68": "Jon Rahm",
+      "73": "Karim Benzema",
+      "78": "Kevin Durant",
+      "83": "Lewis Hamilton"
+    }
+  },
+  {
+    "slug": "highest-paid-athletes-2026",
+    "locales": ["es"],
+    "reason": "The standalone negative answer is correctly No. in both English and Spanish.",
+    "blocks": { "129": "No." }
+  },
+  {
+    "slug": "history-of-egyptian-pyramids",
+    "locales": ["es"],
+    "reason": "Meidum is an established Spanish spelling of the Egyptian archaeological site, used here as a standalone place name.",
+    "blocks": { "50": "Meidum." }
+  },
+  {
+    "slug": "history-of-chess",
+    "locales": ["es"],
+    "reason": "Standalone year, AlphaZero product name and established personal names are identical in Spanish and English.",
+    "blocks": {
+      "159": "1972.",
+      "238": "AlphaZero.",
+      "319": "Paul Morphy.",
+      "320": "Wilhelm Steinitz.",
+      "321": "Emanuel Lasker.",
+      "326": "Bobby Fischer.",
+      "329": "Viswanathan Anand.",
+      "330": "Magnus Carlsen."
+    }
+  },
+  {
+    "slug": "history-of-chess",
+    "locales": ["ar"],
+    "reason": "The standalone year 1972 is numeric data and does not require rewriting in Arabic.",
+    "blocks": { "159": "1972." }
+  },
+  {
+    "slug": "history-of-chess",
+    "locales": ["fr"],
+    "reason": "Standalone year, AlphaZero product name and established personal names are identical in French and English.",
+    "blocks": {
+      "144": "Boris Spassky.",
+      "159": "1972.",
+      "238": "AlphaZero.",
+      "319": "Paul Morphy.",
+      "320": "Wilhelm Steinitz.",
+      "321": "Emanuel Lasker.",
+      "326": "Bobby Fischer.",
+      "328": "Garry Kasparov.",
+      "329": "Viswanathan Anand.",
+      "330": "Magnus Carlsen."
+    }
+  },
+  {
+    "slug": "amazigh-imazighen-north-africa-history",
+    "locales": ["es"],
+    "reason": "Bibliographic author, publication and original entry title are proper names, preserved in Spanish.",
+    "blocks": {
+      "91": "[Yves Modéran, Encyclopédie berbère (2008): Koceila](https://journals.openedition.org/encyclopedieberbere/101)",
+      "92": "[Yves Modéran, Encyclopédie berbère (2005): Kahena](https://journals.openedition.org/encyclopedieberbere/1306)"
+    }
+  }
+]

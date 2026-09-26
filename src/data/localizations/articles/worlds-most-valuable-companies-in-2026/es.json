@@ -1,0 +1,392 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/worlds-most-valuable-companies-in-2026/",
+  "path": "/es/articles/worlds-most-valuable-companies-in-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "Las empresas más valiosas del mundo en 2026: clasificación por capitalización bursátil",
+  "excerpt": "Las empresas cotizadas más valiosas del mundo en 2026, ordenadas por capitalización bursátil, con las claves de la IA, los chips, la nube, la energía y los ecosistemas de consumo.",
+  "headlineHighlights": {
+    "red": "capitalización bursátil",
+    "gold": "2026"
+  },
+  "seoTitle": "Empresas más valiosas del mundo en 2026 por capitalización",
+  "description": "Clasificación por capitalización bursátil a 1 de septiembre de 2026: las empresas cotizadas más valiosas del mundo, sus claves y los matices esenciales.",
+  "keywords": [
+    "empresas más valiosas del mundo 2026",
+    "capitalización bursátil",
+    "mayores empresas cotizadas",
+    "NVIDIA Apple Microsoft"
+  ],
+  "searchIntent": "Consultar una clasificación fechada de las mayores empresas por capitalización bursátil y comprender qué explica su valoración y en qué se distingue de los ingresos y los beneficios.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-05-31",
+  "updatedAt": "2026-09-01",
+  "image": {
+    "src": "/images/articles/valuable-companies-2026.webp",
+    "alt": "Vista urbana de estética prémium que representa a las empresas más valiosas del mundo en 2026"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La clasificación de las empresas más valiosas del mundo en 2026 está encabezada por negocios vinculados a la infraestructura de inteligencia artificial, los ecosistemas de consumo, las plataformas en la nube, la fabricación de semiconductores, la publicidad digital, la energía y los vehículos eléctricos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta clasificación de PRESDA recoge la capitalización bursátil a 1 de septiembre de 2026. Esa magnitud cambia cada jornada de negociación con la cotización de las acciones, por lo que las cifras siguientes deben entenderse como una referencia fechada, no como una clasificación permanente. La lista se centra en empresas cotizadas y excluye las valoraciones de empresas no cotizadas, porque estas no equivalen a la capitalización en bolsa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para conocer mejor las fuerzas que explican esta clasificación, consulta la [cobertura de PRESDA sobre los modelos de OpenAI](/articles/openai-next-gen-model/), nuestro análisis de los [patrocinadores del Mundial de 2026](/articles/the-brands-behind-world-cup-2026/) y el resto de nuestra [sección de negocios](/category/business/)."
+    },
+    {
+      "type": "heading",
+      "text": "Qué significa capitalización bursátil"
+    },
+    {
+      "type": "paragraph",
+      "text": "La capitalización bursátil es el valor en bolsa de una empresa cotizada. Suele calcularse multiplicando el precio de sus acciones por el número de acciones en circulación. Por tanto, se distingue de los ingresos, los beneficios, el flujo de caja, el valor de empresa y el valor de marca."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una empresa puede registrar ingresos enormes y tener una capitalización menor si los inversores prevén un crecimiento más lento o márgenes más reducidos. Otra puede ingresar menos y alcanzar una capitalización mayor si los inversores creen que sus beneficios futuros, la fuerza de su plataforma o su liderazgo tecnológico crecerán rápidamente. Por eso, preguntar cuáles son las mayores empresas por capitalización bursátil en 2026 no es lo mismo que preguntar cuáles son las mayores por ventas."
+    },
+    {
+      "type": "heading",
+      "text": "La clasificación a 1 de septiembre de 2026"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[MARKET_CAP_2026_TABLE]]",
+      "caption": "Referencia: capitalización bursátil aproximada de empresas cotizadas a 1 de septiembre de 2026. Las cifras varían con el precio de las acciones.",
+      "headings": [
+        "Puesto",
+        "Empresa",
+        "Símbolo bursátil",
+        "País",
+        "Capitalización bursátil",
+        "Claves de su posición"
+      ],
+      "rows": [
+        [
+          "1",
+          "NVIDIA",
+          "NVDA",
+          "Estados Unidos",
+          "5,33 billones de dólares",
+          "Chips de IA, computación acelerada, centros de datos"
+        ],
+        [
+          "2",
+          "Apple",
+          "AAPL",
+          "Estados Unidos",
+          "4,62 billones de dólares",
+          "iPhone, servicios, dispositivos, ecosistema de consumo"
+        ],
+        [
+          "3",
+          "Alphabet",
+          "GOOG",
+          "Estados Unidos",
+          "4,10 billones de dólares",
+          "Búsquedas, YouTube, nube, publicidad, IA"
+        ],
+        [
+          "4",
+          "Microsoft",
+          "MSFT",
+          "Estados Unidos",
+          "3,77 billones de dólares",
+          "Nube, software, plataformas empresariales, IA"
+        ],
+        [
+          "5",
+          "Amazon",
+          "AMZN",
+          "Estados Unidos",
+          "2,80 billones de dólares",
+          "AWS, comercio electrónico, logística, publicidad"
+        ],
+        [
+          "6",
+          "TSMC",
+          "TSM",
+          "Taiwán",
+          "2,15 billones de dólares",
+          "Fabricación de semiconductores"
+        ],
+        [
+          "7",
+          "Broadcom",
+          "AVGO",
+          "Estados Unidos",
+          "1,76 billones de dólares",
+          "Semiconductores, redes, software de infraestructura"
+        ],
+        [
+          "8",
+          "Saudi Aramco",
+          "2222.SR",
+          "Arabia Saudí",
+          "1,68 billones de dólares",
+          "Energía y producción de petróleo"
+        ],
+        [
+          "9",
+          "Meta Platforms",
+          "META",
+          "Estados Unidos",
+          "1,46 billones de dólares",
+          "Plataformas sociales, publicidad, sistemas de IA"
+        ],
+        [
+          "10",
+          "Tesla",
+          "TSLA",
+          "Estados Unidos",
+          "1,45 billones de dólares",
+          "Vehículos eléctricos, energía, conducción autónoma"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las cifras anteriores están redondeadas y se basan en el seguimiento público de la capitalización bursátil en torno al 1 de septiembre de 2026. Conviene comprobarlas de nuevo antes de utilizarlas para inversiones, trabajos académicos o análisis financieros profesionales."
+    },
+    {
+      "type": "heading",
+      "text": "1. NVIDIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "NVIDIA encabeza la clasificación porque ocupa una posición central en el auge de la infraestructura de IA. Sus unidades de procesamiento gráfico, sus plataformas de computación acelerada, sus productos de redes y su ecosistema de software están estrechamente ligados a los centros de datos, la IA generativa, la computación científica y las cargas de trabajo de alto rendimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mercado valora a NVIDIA como fabricante de chips y como proveedor fundamental de la economía de la IA. El riesgo es que las expectativas son extraordinariamente altas y los ciclos de los semiconductores pueden cambiar con rapidez. Aun así, en la fecha de esta clasificación, NVIDIA es el ejemplo más claro de cómo la infraestructura de IA ha transformado la lista de las empresas más valiosas del mundo en 2026."
+    },
+    {
+      "type": "heading",
+      "text": "2. Apple"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apple se mantiene cerca de la cima porque su negocio combina hardware, software, servicios, pagos, suscripciones, dispositivos vestibles y fidelidad a la marca. El iPhone sigue siendo esencial, pero es el conjunto del ecosistema lo que protege el valor de Apple en bolsa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La capitalización bursátil de Apple no equivale al valor de su marca. La fortaleza de la marca importa, pero la clasificación se basa en el valor bursátil de sus acciones. Los inversores ponen precio a la capacidad de Apple para retener a sus clientes dentro de un ecosistema rentable de dispositivos y servicios."
+    },
+    {
+      "type": "heading",
+      "text": "3. Alphabet"
+    },
+    {
+      "type": "paragraph",
+      "text": "El valor de Alphabet procede del buscador de Google, YouTube, Android, Google Cloud, la tecnología publicitaria y la inteligencia artificial. La publicidad en las búsquedas sigue siendo una enorme fuente de beneficios, mientras que la IA crea oportunidades y presiones: las nuevas interfaces podrían transformar la forma de encontrar información."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alphabet ocupa una posición destacada porque controla la atención del público, infraestructuras de datos, servicios en la nube y uno de los sistemas de distribución digital más importantes del mundo."
+    },
+    {
+      "type": "heading",
+      "text": "4. Microsoft"
+    },
+    {
+      "type": "paragraph",
+      "text": "Microsoft sigue siendo una de las empresas más valiosas del mundo porque combina software empresarial, infraestructura de nube Azure, Windows, Microsoft 365, LinkedIn, GitHub, ciberseguridad e integración de IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su capitalización refleja unos ingresos recurrentes, la confianza de las empresas y la capacidad de incorporar IA a los procesos de trabajo cotidianos. Microsoft vende licencias de software, pero también infraestructura y sistemas de productividad de los que dependen muchas organizaciones."
+    },
+    {
+      "type": "heading",
+      "text": "5. Amazon"
+    },
+    {
+      "type": "paragraph",
+      "text": "El valor de Amazon se apoya en una combinación de comercio electrónico, logística, servicios para vendedores de su plataforma, publicidad, contenidos en streaming y Amazon Web Services. AWS es especialmente importante porque la infraestructura en la nube sigue siendo central para la adopción de la IA y la transformación digital de las empresas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La capitalización de Amazon refleja la escala de su plataforma y la expectativa de que la nube, la publicidad y la eficiencia operativa sostengan los beneficios a largo plazo."
+    },
+    {
+      "type": "heading",
+      "text": "6. TSMC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taiwan Semiconductor Manufacturing Company es el principal fabricante de semiconductores por encargo y un proveedor crucial para la industria tecnológica mundial. Su función difiere de la de NVIDIA: TSMC fabrica chips avanzados diseñados por muchas de las empresas que impulsan la IA, los dispositivos móviles y la computación de alto rendimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "La posición de TSMC demuestra que las empresas más valiosas del mundo no son solo plataformas dirigidas al consumidor. Algunas son empresas de infraestructura cuya importancia reside en la cadena de suministro."
+    },
+    {
+      "type": "heading",
+      "text": "7. Broadcom"
+    },
+    {
+      "type": "paragraph",
+      "text": "Broadcom ocupa un lugar destacado porque combina el negocio de los semiconductores con el software de infraestructura. Las redes, la conectividad, los chips a medida y el software empresarial son importantes en un mercado muy orientado a la IA, cuyos centros de datos necesitan mover información con mayor rapidez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su valor bursátil refleja la convicción de los inversores de que el despliegue de la IA no depende únicamente de los chips que acaparan los titulares. También requiere redes, conmutación, almacenamiento, seguridad e integración de software."
+    },
+    {
+      "type": "heading",
+      "text": "8. Saudi Aramco"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saudi Aramco es la gran compañía energética de la clasificación. Representa otra forma de valor bursátil: la escala de la producción de petróleo, la generación de caja, la importancia geopolítica y el papel que sigue desempeñando la energía en la economía mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su posición recuerda que la tecnología no sustituye por completo a la energía en las clasificaciones bursátiles mundiales. Incluso en una era impulsada por la IA, la economía física sigue siendo importante."
+    },
+    {
+      "type": "heading",
+      "text": "9. Meta Platforms"
+    },
+    {
+      "type": "paragraph",
+      "text": "La valoración de Meta refleja la escala de su publicidad, Instagram, Facebook, WhatsApp, Threads, sus sistemas de recomendación mediante IA y su capacidad para monetizar la atención en plataformas sociales de alcance mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meta también muestra cómo la IA puede mejorar un modelo de negocio existente. Las recomendaciones mediante IA, la segmentación de anuncios y los sistemas de contenidos pueden reforzar la participación de los usuarios y el rendimiento publicitario, aunque la empresa no se valore principalmente como proveedora de chips o servicios en la nube."
+    },
+    {
+      "type": "heading",
+      "text": "10. Tesla"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tesla sigue siendo una de las mayores empresas por capitalización bursátil porque los inversores la valoran más allá de sus ventas actuales de vehículos. El mercado también incorpora expectativas sobre el software, el almacenamiento de energía, la conducción autónoma, la escala de fabricación y las futuras plataformas de movilidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí la capitalización bursátil puede alejarse mucho de los ingresos y los beneficios. La valoración de Tesla puede variar con rapidez porque las expectativas de los inversores sobre el crecimiento y la conducción autónoma también pueden cambiar rápidamente."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué la IA y los chips dominan la clasificación de 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA es el hilo conductor más claro de la tabla de capitalización bursátil de 2026. NVIDIA, Microsoft, Alphabet, Amazon, Meta, TSMC y Broadcom están vinculadas a ella a través de los chips, la infraestructura en la nube, los sistemas publicitarios, las plataformas de software o la demanda de centros de datos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que todas las empresas líderes sean compañías de IA. Apple sigue siendo, ante todo, una empresa centrada en un ecosistema de consumo. Saudi Aramco es una energética. Tesla combina automoción, energía y software. Pero la IA se ha convertido en un factor de valoración en numerosos sectores."
+    },
+    {
+      "type": "heading",
+      "text": "Capitalización bursátil, ingresos, beneficios y valor de marca"
+    },
+    {
+      "type": "paragraph",
+      "text": "La capitalización bursátil responde a una pregunta: ¿cuánto considera el mercado de valores que vale una empresa cotizada en un momento determinado? Los ingresos indican cuánto dinero entra en la empresa. Los beneficios, cuánto conserva después de los costes. El valor de marca estima la fortaleza económica de una marca. Las clasificaciones basadas en cada medida pueden ser muy diferentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ejemplo, una empresa minorista o energética puede generar ingresos enormes y tener una capitalización menor que una compañía de infraestructura de IA si los inversores esperan que esta última crezca más deprisa u obtenga márgenes más altos. Por eso, la capitalización bursátil no debe interpretarse como una medida completa de la calidad de una empresa."
+    },
+    {
+      "type": "heading",
+      "text": "Qué podría cambiar la clasificación"
+    },
+    {
+      "type": "paragraph",
+      "text": "La clasificación puede cambiar rápidamente. Los resultados empresariales, los tipos de interés, el gasto en IA, la oferta de chips, la regulación, las fluctuaciones de las divisas, el precio del petróleo, los lanzamientos de productos y el ánimo de los inversores pueden modificar el valor bursátil. Una empresa que hoy ocupe el segundo puesto puede bajar tras un trimestre débil, mientras otra asciende gracias a unas previsiones más favorables."
+    },
+    {
+      "type": "paragraph",
+      "text": "La conclusión práctica es sencilla: utiliza esta lista del 1 de septiembre de 2026 como una referencia estructurada de ese momento. Para tomar decisiones de inversión con información actual, consulta siempre los datos vigentes de las bolsas, la documentación oficial presentada por las empresas y sus informes recientes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "CompaniesMarketCap: mayores empresas por capitalización bursátil",
+      "url": "https://companiesmarketcap.com/"
+    },
+    {
+      "label": "Nasdaq: definición de capitalización bursátil",
+      "url": "https://www.nasdaq.com/glossary/m/market-capitalization"
+    },
+    {
+      "label": "NVIDIA: relaciones con inversores",
+      "url": "https://investor.nvidia.com/"
+    },
+    {
+      "label": "Apple: relaciones con inversores",
+      "url": "https://investor.apple.com/"
+    },
+    {
+      "label": "Alphabet: relaciones con inversores",
+      "url": "https://abc.xyz/investor/"
+    },
+    {
+      "label": "Microsoft: relaciones con inversores",
+      "url": "https://www.microsoft.com/en-us/investor"
+    },
+    {
+      "label": "Amazon: relaciones con inversores",
+      "url": "https://ir.aboutamazon.com/"
+    },
+    {
+      "label": "TSMC: relaciones con inversores",
+      "url": "https://investor.tsmc.com/english"
+    },
+    {
+      "label": "Broadcom: relaciones con inversores",
+      "url": "https://investors.broadcom.com/"
+    },
+    {
+      "label": "Saudi Aramco: información para inversores",
+      "url": "https://www.aramco.com/en/investors"
+    },
+    {
+      "label": "Meta: relaciones con inversores",
+      "url": "https://investor.fb.com/"
+    },
+    {
+      "label": "Tesla: relaciones con inversores",
+      "url": "https://ir.tesla.com/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuál es la empresa más valiosa del mundo en 2026?",
+      "answer": "Según esta clasificación por capitalización bursátil a 1 de septiembre de 2026, NVIDIA es la empresa cotizada más valiosa del mundo. Las posiciones pueden cambiar rápidamente con la cotización de las acciones."
+    },
+    {
+      "question": "¿Qué significa clasificar las mayores empresas por capitalización bursátil?",
+      "answer": "La capitalización bursátil es el valor en bolsa de una empresa cotizada y suele calcularse multiplicando el precio de sus acciones por el número de acciones en circulación. No equivale a los ingresos, los beneficios, el valor de empresa ni el valor de marca."
+    },
+    {
+      "question": "¿Por qué las empresas vinculadas a la IA ocupan puestos tan altos en 2026?",
+      "answer": "La IA ha aumentado la demanda de chips, infraestructura en la nube, centros de datos, plataformas de software y sistemas publicitarios. Las empresas vinculadas a esas actividades han despertado un gran interés entre los inversores."
+    },
+    {
+      "question": "¿Por qué la clasificación está fechada el 1 de septiembre de 2026?",
+      "answer": "La capitalización bursátil cambia constantemente. Una fecha de referencia indica cuándo se comprobó la clasificación y evita presentar cifras volátiles como si estuvieran permanentemente actualizadas."
+    },
+    {
+      "question": "¿Incluye esta clasificación empresas no cotizadas?",
+      "answer": "No. PRESDA excluye de la lista principal las valoraciones de empresas no cotizadas porque no equivalen a la capitalización en el mercado bursátil."
+    }
+  ]
+}

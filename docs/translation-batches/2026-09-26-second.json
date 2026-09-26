@@ -1,0 +1,121 @@
+{
+  "period": {
+    "start": "2026-08-26",
+    "end": "2026-09-23"
+  },
+  "source": "Google Search Console sc-domain:presda.com",
+  "method": "Untranslated canonical English articles ranked by clicks then impressions",
+  "articles": [
+    {
+      "priority": 1,
+      "slug": "places-that-dont-look-real-surreal-landscapes-travel",
+      "title": "20 PLACES THAT DON’T LOOK REAL, BUT ACTUALLY EXIST",
+      "englishPath": "/articles/places-that-dont-look-real-surreal-landscapes-travel/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 2,
+      "slug": "amazigh-imazighen-north-africa-history",
+      "title": "THE AMAZIGH: THE PEOPLE WHO SHAPED NORTH AFRICA",
+      "englishPath": "/articles/amazigh-imazighen-north-africa-history/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 3,
+      "slug": "naza-documentary-israel-filmmakers-citizenship-controversy",
+      "title": "NAZA: WHY ISRAELI LEADERS WANT TO PUNISH THE FILMMAKERS BEHIND THE GAZA DOCUMENTARY",
+      "englishPath": "/articles/naza-documentary-israel-filmmakers-citizenship-controversy/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 4,
+      "slug": "history-of-egyptian-pyramids",
+      "title": "THE PYRAMIDS: HOW ANCIENT EGYPT BUILT THE IMPOSSIBLE",
+      "englishPath": "/articles/history-of-egyptian-pyramids/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 5,
+      "slug": "highest-paid-athletes-2026",
+      "title": "THE WORLD'S HIGHEST-PAID ATHLETES IN 2026 - AND WHY THEY EARN SO MUCH",
+      "englishPath": "/articles/highest-paid-athletes-2026/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 6,
+      "slug": "worlds-most-valuable-companies-in-2026",
+      "title": "Most Valuable Companies In The World 2026: Market Cap Ranking",
+      "englishPath": "/articles/worlds-most-valuable-companies-in-2026/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 7,
+      "slug": "history-of-chess",
+      "title": "THE HISTORY OF CHESS: HOW A GAME OF WAR CONQUERED THE WORLD",
+      "englishPath": "/articles/history-of-chess/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 8,
+      "slug": "byzantine-empire-eastern-rome-constantinople-1453",
+      "title": "BYZANTINE EMPIRE: THE ROME THAT SURVIVED FOR ANOTHER 1,000 YEARS",
+      "englishPath": "/articles/byzantine-empire-eastern-rome-constantinople-1453/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 9,
+      "slug": "persian-empire-cyrus-great-achaemenid-history",
+      "title": "PERSIAN EMPIRE: HOW CYRUS THE GREAT BUILT THE FIRST GREAT SUPERPOWER",
+      "englishPath": "/articles/persian-empire-cyrus-great-achaemenid-history/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 10,
+      "slug": "denisovans-lost-humans-dna",
+      "title": "THE DENISOVANS: THE LOST HUMANS WHO STILL LIVE IN OUR DNA",
+      "englishPath": "/articles/denisovans-lost-humans-dna/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    }
+  ],
+  "notes": "Second batch; source facts, dates and original English reporting perspective are preserved. Priority reflects observed English Search Console traffic, not measured local-language demand."
+}

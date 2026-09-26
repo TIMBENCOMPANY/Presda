@@ -1,6 +1,7 @@
 const assert = require('node:assert/strict');
 const { sourceBlocks, sourceFaqs } = require('./translation-library.cjs');
 const citationRepairs = require('./reviewed-citation-repairs.json');
+const invariantBlocks = require('./reviewed-invariant-blocks.json');
 const links = text => [...text.matchAll(/\[[^\]]+\]\(([^)]+)\)/g)].map(match => match[1]);
 const blockType = text => text.startsWith('### ') ? 'subheading' : text.startsWith('## ') ? 'heading' : text.startsWith('> ') ? 'quote' : 'paragraph';
 
@@ -29,7 +30,8 @@ function validateArticleParity(record, source) {
       assert.notDeepEqual(translated.rows, block.rows, `${label}: localized table rows`);
       return;
     }
-    assert.notEqual(translated.text, block.text, `${label} block ${index}: untranslated text`);
+    const reviewedInvariant = invariantBlocks.some(entry => entry.slug === source.slug && entry.locales.includes(record.locale) && entry.blocks[index] === block.text);
+    if (!reviewedInvariant) assert.notEqual(translated.text, block.text, `${label} block ${index}: untranslated text`);
     assert.deepEqual(links(translated.text).map(normalizeUrl), links(block.text).map(normalizeUrl), `${label} block ${index}: citation and internal URL parity`);
   });
   const references = source.references ?? (source.source?.url ? [source.source] : []);

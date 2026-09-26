@@ -1,0 +1,752 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/denisovans-lost-humans-dna/",
+  "path": "/es/articles/denisovans-lost-humans-dna/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "LOS DENISOVANOS: LOS HUMANOS DESAPARECIDOS QUE AÚN VIVEN EN NUESTRO ADN",
+  "excerpt": "Identificados inicialmente a partir de poco más que un fragmento de hueso y ADN antiguo, los denisovanos fueron una enigmática población humana que habitó distintas regiones de Asia. Desaparecieron hace miles de años, pero parte de ellos sobrevive en los genomas de personas actuales.",
+  "quote": "Los denisovanos desaparecieron como población diferenciada, pero su historia no terminó. Pasó a formar parte de nosotros.",
+  "headlineHighlights": {
+    "red": "DENISOVANOS",
+    "gold": "AÚN VIVEN EN NUESTRO ADN"
+  },
+  "seoTitle": "Denisovanos: quiénes fueron y cómo perduran en nuestro ADN",
+  "description": "Quiénes fueron los denisovanos, cómo los identificó el ADN antiguo y qué relación tuvieron con neandertales y Homo sapiens. Su huella genética sigue entre nosotros.",
+  "keywords": [
+    "denisovanos",
+    "ADN denisovano",
+    "evolución humana",
+    "neandertales y denisovanos",
+    "cueva de Bianfu",
+    "paleoproteómica"
+  ],
+  "searchIntent": "Conocer a los denisovanos, su descubrimiento molecular y su herencia genética actual, distinguiendo pruebas, reconstrucciones e incertidumbres sobre su aspecto, distribución y desaparición.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-11",
+  "updatedAt": "2026-09-11",
+  "image": {
+    "src": "/articles/denisovans-lost-humans-dna.png",
+    "alt": "Recreación editorial cinematográfica de PRESDA de un humano arcaico en una cueva prehistórica, que ilustra la historia denisovana sin representar una reconstrucción auténtica de su aspecto"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Los denisovanos entraron en la ciencia casi por el camino inverso."
+    },
+    {
+      "type": "paragraph",
+      "text": "No los presentó un esqueleto completo, un cráneo espectacular ni una vitrina de museo llena de fósiles identificados. Se los reconoció primero a partir de un pequeño fragmento de hueso de un dedo hallado en la cueva de Denisova, en el sur de Siberia, y del ADN antiguo conservado en su interior."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese ADN cambió la historia humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demostró que los neandertales no fueron los únicos parientes cercanos con los que se encontró nuestra especie. Reveló otra población humana arcaica, que se había separado de los neandertales, se había mezclado con ellos, había entrado en contacto con Homo sapiens y había dejado huellas genéticas en distintas regiones de Asia y Oceanía."
+    },
+    {
+      "type": "paragraph",
+      "text": "A menudo se describe a los denisovanos como humanos perdidos. La expresión solo resulta útil si no significa simples, primitivos o desaparecidos sin dejar rastro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fueron una población humana real, con una ascendencia profunda, historias regionales y legados adaptativos. Desaparecieron como grupo diferenciado, pero su ADN sigue presente en personas que viven hoy."
+    },
+    {
+      "type": "heading",
+      "text": "El descubrimiento a partir del hueso de un dedo"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2008, arqueólogos que trabajaban en la cueva de Denisova recuperaron un diminuto fragmento de un hueso de dedo de un individuo joven."
+    },
+    {
+      "type": "paragraph",
+      "text": "El fósil no resultaba espectacular a simple vista. Su forma, por sí sola, no podía anunciar una nueva población humana. Su importancia residía en las pruebas moleculares."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2010, los investigadores publicaron el ADN mitocondrial del hueso y demostraron que no coincidía con el de los humanos modernos ni con el de los neandertales conocidos. Más tarde, aquel mismo año, el ADN nuclear reveló un grupo hermano de los neandertales: una población arcaica que ahora llamamos denisovana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fue un punto de inflexión en la paleoantropología. Se había identificado un grupo humano primero mediante ADN antiguo, en lugar de a partir de un ejemplar fósil de referencia clásico."
+    },
+    {
+      "type": "paragraph",
+      "text": "El descubrimiento también cambió la forma de entender el registro fósil. Un fragmento pequeño, si conserva moléculas, puede encerrar una historia evolutiva mucho mayor que su tamaño."
+    },
+    {
+      "type": "heading",
+      "text": "¿Quiénes fueron los denisovanos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los denisovanos fueron una población humana arcaica extinta, estrechamente emparentada con los neandertales."
+    },
+    {
+      "type": "paragraph",
+      "text": "No eran Homo sapiens, pero tampoco pertenecían a un mundo separado del nuestro. Formaban parte de la gran familia humana y de una historia evolutiva entrelazada, en la que las poblaciones se separaron, se desplazaron, coincidieron y en ocasiones se cruzaron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores suelen describirlos como un linaje hermano del neandertal. Las pruebas genéticas indican que los antepasados de neandertales y denisovanos se separaron del linaje que dio lugar a los humanos modernos y que, más tarde, neandertales y denisovanos divergieron entre sí."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, el término denisovano es en parte genético. Designa una población reconocida mediante ADN y, cada vez más, mediante pruebas proteicas y anatómicas vinculadas a esa señal genética."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto importa porque no todo fósil arcaico enigmático de Asia debe llamarse automáticamente denisovano. La ciencia responsable exige pruebas: ADN antiguo, paleoproteómica, una morfología bien establecida y vinculada a resultados moleculares, o un contexto arqueológico argumentado con rigor."
+    },
+    {
+      "type": "heading",
+      "text": "Una familia humana, no una escalera"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante mucho tiempo, los relatos populares de la evolución humana parecían una escalera: una especie sustituía a otra, el progreso avanzaba y los humanos modernos ocupaban la cima."
+    },
+    {
+      "type": "paragraph",
+      "text": "El descubrimiento denisovano ayudó a romper esa imagen."
+    },
+    {
+      "type": "paragraph",
+      "text": "La evolución humana se parece más a un paisaje de ramificaciones que vuelven a conectarse. Neandertales, denisovanos, Homo sapiens y otras poblaciones arcaicas no fueron peldaños de una secuencia ordenada. Fueron parientes que vivieron entre cambios climáticos, migraciones y experiencias locales de supervivencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, la historia denisovana se vincula con la cobertura de PRESDA sobre [Charles Darwin y la evolución](/articles/charles-darwin-theory-of-evolution/). La evolución no es un camino recto hacia nosotros. Es descendencia con modificación, moldeada por la geografía, la selección, el azar y el contacto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los denisovanos recuerdan que el pasado de la humanidad estaba muy poblado."
+    },
+    {
+      "type": "heading",
+      "text": "La cueva de Denisova"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cueva de Denisova se encuentra en los montes Altái, en el sur de Siberia."
+    },
+    {
+      "type": "paragraph",
+      "text": "El yacimiento es extraordinario porque conserva pruebas de distintos tipos de humanos a lo largo del tiempo. Los neandertales utilizaron la cueva. Los denisovanos también. Es posible que los humanos modernos transitaran asimismo por la región circundante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus sedimentos y fragmentos han proporcionado pruebas genéticas que hace una generación habría sido imposible leer."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cueva de Denisova no es un simple escenario. Es un archivo molecular. Los dientes, los fragmentos óseos y el sedimento pueden conservar huellas de personas que apenas dejaron rastros arqueológicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cueva también muestra que los parientes humanos coincidieron en espacio y tiempo más de lo que suponían los modelos antiguos."
+    },
+    {
+      "type": "heading",
+      "text": "Denny: una hija de dos mundos humanos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uno de los hallazgos más sorprendentes de la cueva es Denisova 11, apodada Denny."
+    },
+    {
+      "type": "paragraph",
+      "text": "Publicado en 2018, su genoma mostró que tenía una madre neandertal y un padre denisovano."
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado es asombroso porque no se limita a demostrar un mestizaje antiguo en abstracto. La prueba está en un individuo: una hija de primera generación de dos poblaciones humanas arcaicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Denny también vuelve más humana esta historia. El mestizaje no fue un acontecimiento estadístico suspendido sobre el pasado. Ocurrió mediante encuentros entre personas cuyas vidas, desplazamientos y comunidades se cruzaron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su padre denisovano también tenía ascendencia neandertal más atrás en su árbol genealógico, lo que sugiere que los contactos entre ambos grupos no fueron accidentes aislados."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué aspecto tenían los denisovanos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No sabemos exactamente qué aspecto tenían."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es una de las cautelas más importantes de todo el tema."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las primeras pruebas denisovanas eran demasiado fragmentarias para sustentar una reconstrucción fiable del cuerpo completo. Han surgido algunas pistas anatómicas a partir de dientes, restos mandibulares y otros fósiles, y los estudios genéticos han intentado inferir rasgos mediante patrones de metilación del ADN. Pero esos métodos no producen un retrato seguro como podría hacerlo un esqueleto completo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, la imagen principal de este artículo es una recreación editorial, no una imagen auténtica del aspecto denisovano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es posible que compartieran algunos rasgos robustos con otros humanos arcaicos, pero sería engañoso presentar un único rostro, tono de piel, patrón de pelo o forma corporal como un hecho demostrado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La buena ciencia consiste a veces en contenerse: decir lo que permiten las pruebas y detenerse antes de que la imaginación se haga pasar por datos."
+    },
+    {
+      "type": "heading",
+      "text": "La mandíbula de Xiahe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante años, los denisovanos se conocían principalmente por la cueva de Denisova."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después, el panorama geográfico se amplió."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2019, los investigadores informaron de que una mandíbula de la cueva kárstica de Baishiya, en la meseta tibetana, pertenecía a un individuo emparentado con los denisovanos. El fósil, conocido como mandíbula de Xiahe, se dató en al menos unos 160.000 años."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prueba clave llegó mediante la paleoproteómica: el análisis de proteínas antiguas conservadas en el fósil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fue un avance importante porque el ADN antiguo no se conserva igual de bien en todas partes. Los ambientes fríos de las cuevas pueden preservarlo mejor que muchos lugares más cálidos o expuestos. A veces las proteínas perduran donde el ADN no lo hace."
+    },
+    {
+      "type": "paragraph",
+      "text": "La mandíbula de Xiahe situó a los denisovanos, o a personas emparentadas con ellos, en la meseta tibetana mucho antes que las poblaciones actuales de esas tierras altas."
+    },
+    {
+      "type": "heading",
+      "text": "La altitud y EPAS1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una razón por la que los denisovanos importan hoy es que parte de su legado genético parece haber ayudado a los humanos modernos a adaptarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ejemplo más conocido afecta a EPAS1, una región génica asociada con la adaptación a la gran altitud en poblaciones tibetanas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio de Nature de 2014 sostuvo que una variante de ADN similar al denisovano contribuyó a la adaptación tibetana a ambientes de gran altitud con poco oxígeno."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no significa que los denisovanos fueran simplemente una fuente de genes útiles. Significa que, cuando Homo sapiens se expandió a nuevos ambientes, el ADN incorporado por introgresión desde parientes arcaicos pasó a formar parte, en ocasiones, de la adaptación local."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fragmento de ascendencia denisovana pudo ayudar a poblaciones humanas posteriores a vivir donde escasea el oxígeno."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es una forma extraordinaria de supervivencia."
+    },
+    {
+      "type": "heading",
+      "text": "Nuevas pruebas de 2026 en la cueva china de Bianfu"
+    },
+    {
+      "type": "paragraph",
+      "text": "En septiembre de 2026, el mapa denisovano volvió a ampliarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un artículo de Nature presentó pruebas denisovanas de la cueva de Bianfu, en la provincia de Yunnan, al suroeste de China. El estudio identificó fósiles de homininos datados entre hace unos 167.000 y 134.000 años, dentro de una secuencia cultural que abarca aproximadamente de hace 190.000 a 70.000 años."
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo incluye cuatro dientes, dos fragmentos craneales y un radio entre los nuevos fósiles de homininos. La atribución denisovana se sustentó en la morfología de la unión entre esmalte y dentina y en análisis paleoproteómicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El yacimiento importa porque sitúa pruebas relacionadas con los denisovanos en el suroeste de China y conecta los fósiles con un contexto ecológico y de comportamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el estudio, el registro ambiental apunta a condiciones de bosque dominado por coníferas o de estepa boscosa durante los estadios isotópicos marinos 6 a 4. Los investigadores también describen caza especializada de presas medianas y grandes, reducción expeditiva de núcleos para fabricar herramientas de piedra y uso generalizado de huesos sin modificar."
+    },
+    {
+      "type": "paragraph",
+      "text": "No es una imagen caricaturesca de la vida en las cavernas. Es la de humanos arcaicos adaptables que recorrían ambientes complejos con herramientas, estrategias de subsistencia e historias regionales."
+    },
+    {
+      "type": "heading",
+      "text": "¿Una población denisovana o muchas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El nombre denisovanos puede hacer pensar en un único pueblo uniforme."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pruebas apuntan a algo menos sencillo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estudios genéticos sugieren que la ascendencia relacionada con los denisovanos en las poblaciones modernas puede proceder de más de un linaje denisovano profundamente divergente. Dicho de forma sencilla, pudieron ser un amplio conjunto de poblaciones emparentadas repartidas por distintas regiones de Asia, no un único grupo pequeño que viviera solo cerca de la cueva de Denisova."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso ayuda a explicar por qué el registro fósil y genético parece tan discontinuo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un diente en Siberia, una mandíbula en la meseta tibetana, nuevas pruebas en Yunnan y huellas en los genomas modernos pueden pertenecer a un mundo denisovano más amplio y regionalmente diverso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos todavía intentan determinar cuántas poblaciones denisovanas existieron, dónde vivieron y cómo interactuaron con neandertales, Homo sapiens y otros grupos arcaicos."
+    },
+    {
+      "type": "heading",
+      "text": "El mestizaje con Homo sapiens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los humanos modernos no se expandieron por un mundo vacío."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando Homo sapiens salió de África, se encontró con otras poblaciones humanas. Algunos de esos encuentros incluyeron mestizaje."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ADN neandertal perdura en muchas personas actuales. El denisovano también, especialmente en algunas poblaciones de Oceanía y de ciertas regiones de Asia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que todo el mundo tenga la misma proporción de ascendencia denisovana. El patrón es desigual porque los contactos antiguos ocurrieron en lugares y momentos concretos, entre poblaciones cuyos descendientes después se desplazaron, se mezclaron y cambiaron."
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado es un mapa genético de encuentros que ningún objeto arqueológico podría revelar por sí solo en su totalidad."
+    },
+    {
+      "type": "heading",
+      "text": "El ADN denisovano en la actualidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas poblaciones actuales de Papúa Nueva Guinea, de aborígenes australianos y de otras zonas de Oceanía Cercana presentan algunos de los niveles conocidos más altos de ascendencia denisovana, a menudo situados en varios puntos porcentuales según la población y el método."
+    },
+    {
+      "type": "paragraph",
+      "text": "En muchas poblaciones asiáticas aparecen niveles menores de ascendencia de origen denisovano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los detalles siguen siendo un campo activo de investigación. Los estudios emplean distintos genomas de referencia, estrategias de muestreo y modelos estadísticos, por lo que los porcentajes exactos deben interpretarse con cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La idea fundamental está bien establecida: la ascendencia denisovana no es una mera curiosidad del pasado. Sigue siendo detectable en personas vivas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una población desaparecida todavía tiene descendientes, aunque no como un pueblo separado con una identidad denisovana continua. Sobrevive en fragmentos heredados entretejidos en los genomas modernos."
+    },
+    {
+      "type": "heading",
+      "text": "Los rasgos heredados"
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los segmentos denisovanos heredados tienen una función clara."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parte del ADN persiste de manera neutra. Otra parte pudo resultar perjudicial y verse reducida por la selección. Otra pudo ser útil en determinados ambientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores han estudiado variantes vinculadas a los denisovanos relacionadas con la adaptación a la altitud, las respuestas inmunitarias, el metabolismo y otros rasgos, pero la solidez de las pruebas varía según el caso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa cautela importa. Resulta tentador convertir el ADN denisovano en una lista de poderes exóticos. La ciencia no respalda ese tipo de relato."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una interpretación más adecuada es que el ADN incorporado por introgresión aportó variación genética adicional a Homo sapiens. Después, la selección natural actuó de forma distinta sobre esa variación en ambientes diferentes."
+    },
+    {
+      "type": "heading",
+      "text": "Lenguaje, inteligencia y cultura"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Tenían lenguaje los denisovanos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nadie puede responder directamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "El lenguaje no fosiliza. Los genes, los huesos hioides, las herramientas y los objetos simbólicos pueden ofrecer pistas sobre capacidades y comportamientos, pero no pueden registrar una conversación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Como los denisovanos eran parientes cercanos de neandertales y Homo sapiens, es razonable pensar que tenían una comunicación compleja. Pero una formulación responsable evita afirmar que poseían un sistema lingüístico plenamente moderno sin pruebas directas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para una visión más amplia de lo que puede y no puede saberse sobre el origen del habla, consulta la explicación de PRESDA sobre [cómo aprendieron a hablar los seres humanos](/articles/how-humans-learned-to-speak/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "La misma cautela se aplica a la inteligencia. Los denisovanos no eran un estereotipo. Su supervivencia en ambientes variados sugiere conocimientos, aprendizaje y transmisión social. Pero no debemos forzarlos hacia ninguno de los extremos: ni caricaturas embrutecidas ni copias de humanos modernos."
+    },
+    {
+      "type": "heading",
+      "text": "Alimentación y supervivencia cotidiana"
+    },
+    {
+      "type": "paragraph",
+      "text": "La dieta denisovana probablemente variaba según el lugar y la época."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un grupo que viviera cerca de los límites entre la estepa y el bosque siberianos no dispondría exactamente de los mismos recursos que otro asentado en paisajes de gran altitud o en ambientes del suroeste de China."
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio de 2026 sobre Bianfu ofrece un contexto ecológico especialmente valioso. Sus autores describen pruebas compatibles con la caza de animales medianos y grandes en un ambiente de bosque o estepa boscosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese tipo de pruebas desplaza la atención desde fósiles aislados hacia las formas de vida: alimentos, clima, herramientas, movilidad y decisiones repetidas durante generaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los denisovanos no eran simplemente personas en cuevas. Las cuevas son lugares donde a veces se conservan las pruebas."
+    },
+    {
+      "type": "heading",
+      "text": "Herramientas, huesos y fósiles"
+    },
+    {
+      "type": "paragraph",
+      "text": "El registro denisovano también muestra por qué la arqueología depende de la conservación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las herramientas de piedra pueden sobrevivir durante periodos inmensos. Los huesos se conservan en algunas condiciones y desaparecen en otras. El ADN es aún más frágil. Las proteínas se sitúan en algún punto intermedio y a veces permiten estudiar yacimientos inaccesibles mediante ADN."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso resulta tan importante un lugar como Bianfu. Vincula fósiles, proteínas, pruebas de herramientas y reconstrucción ambiental."
+    },
+    {
+      "type": "paragraph",
+      "text": "Como comparación con una historia fósil muy distinta, el artículo de PRESDA sobre [dinosaurios, fósiles y extinción](/articles/dinosaurs-rise-fall-fossils-extinction/) muestra cómo las pruebas fragmentarias pueden construir grandes historias cuando se interpretan con cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí se aplica el mismo principio. El registro está incompleto, pero no guarda silencio."
+    },
+    {
+      "type": "heading",
+      "text": "¿Por qué desaparecieron los denisovanos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los denisovanos desaparecieron como población diferenciada, pero se desconoce el motivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su desaparición pudo estar relacionada con cambios climáticos, presión demográfica, competencia, absorción por poblaciones de Homo sapiens en expansión, extinciones locales o una combinación de esas fuerzas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es posible que algunos grupos denisovanos no desaparecieran de golpe. Pueden haber sido absorbidos gradualmente por otras poblaciones mediante mestizaje."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, la palabra extinción es compleja. Como linaje diferenciado, los denisovanos han desaparecido. Como ascendencia genética, permanecen."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia humana contiene finales y continuidades."
+    },
+    {
+      "type": "heading",
+      "text": "Introgresión: cuando el ADN antiguo cruza una frontera"
+    },
+    {
+      "type": "paragraph",
+      "text": "La introgresión es el paso de material genético de una población a otra mediante mestizaje y retrocruzamientos repetidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la historia denisovana, explica cómo el ADN de una población arcaica pasó a formar parte de los genomas humanos modernos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no equivale a decir que las personas actuales sean denisovanas. Una persona con ADN de origen denisovano es un ser humano moderno cuya ascendencia incluye aportaciones genéticas antiguas de poblaciones emparentadas con los denisovanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción importa porque ascendencia e identidad no se corresponden de manera simple y directa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los genomas son archivos de muchos encuentros del pasado."
+    },
+    {
+      "type": "heading",
+      "text": "Los métodos del ADN antiguo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trabajar con ADN antiguo plantea grandes exigencias técnicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores deben evitar la contaminación con ADN moderno, recuperar diminutos fragmentos degradados, secuenciarlos y compararlos con otros genomas mediante modelos estadísticos."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Denisova, esos métodos permitieron identificar una población a partir de materiales demasiado fragmentarios para clasificarlos con seguridad mediante la anatomía tradicional."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ADN antiguo también permite detectar mestizaje. Sin genomas, Denny quizá habría seguido siendo otro fragmento más. Con ADN, se convirtió en una prueba de filiación directa neandertal y denisovana."
+    },
+    {
+      "type": "paragraph",
+      "text": "El método ha transformado la investigación de los orígenes humanos, pero tiene límites. La conservación del ADN depende mucho de la temperatura, la química y el tiempo."
+    },
+    {
+      "type": "heading",
+      "text": "Paleoproteómica"
+    },
+    {
+      "type": "paragraph",
+      "text": "La paleoproteómica estudia proteínas antiguas."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces las proteínas sobreviven en fósiles cuyo ADN se ha degradado. No suelen aportar tanta información como un genoma, pero pueden identificar relaciones evolutivas cuando se conservan las moléculas adecuadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La mandíbula de Xiahe y la investigación de Bianfu de 2026 muestran por qué importa este método."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fósil del que no puede obtenerse ADN quizá conserve pruebas proteicas lo bastante sólidas para relacionarlo con humanos emparentados con los denisovanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto amplía el mapa de las posibles pruebas denisovanas más allá de las frías cuevas siberianas."
+    },
+    {
+      "type": "heading",
+      "text": "Poblaciones fantasma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los genetistas utilizan a veces la expresión población fantasma para un grupo cuya existencia se infiere mediante ADN, aunque su registro fósil sea escaso o no esté identificado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los denisovanos comenzaron casi como una población fantasma: eran visibles mediante diferencias genéticas antes de serlo a través de un registro anatómico abundante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora son menos fantasmales. Los dientes, las mandíbulas, los fragmentos craneales, un radio y las pruebas de sedimentos amplían la imagen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aun así, quedan muchos vacíos. Pueden haber existido grupos emparentados con los denisovanos cuyos fósiles todavía no se hayan encontrado, se hayan hallado sin ser reconocidos o no hayan conservado pruebas moleculares."
+    },
+    {
+      "type": "paragraph",
+      "text": "La sombra en el genoma suele ser más amplia que el cajón del museo."
+    },
+    {
+      "type": "heading",
+      "text": "Mitos y realidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: los denisovanos eran simples cavernícolas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: fueron humanos arcaicos conocidos mediante pruebas genéticas, proteicas, fósiles y arqueológicas. La palabra cavernícolas simplifica su historia y confunde los lugares de conservación de los restos con una forma de vida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: sabemos exactamente qué aspecto tenían los denisovanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: tenemos pistas, pero no un retrato completo y seguro. Toda imagen de apariencia realista debe entenderse como una recreación editorial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: cualquier fósil arcaico inusual de Asia es denisovano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: la identificación denisovana requiere pruebas. Importan los datos moleculares, la proteómica o un contexto anatómico bien fundamentado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: los denisovanos han desaparecido por completo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: han desaparecido como población diferenciada, pero el ADN de origen denisovano sobrevive en muchas personas vivas."
+    },
+    {
+      "type": "heading",
+      "text": "La nueva imagen de la evolución humana"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia denisovana cambia la dimensión emocional de los orígenes humanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hace que el pasado parezca menos solitario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nuestra especie no recorrió un planeta silencioso poblado únicamente por animales y paisajes. Homo sapiens transitó por un mundo con otros humanos: neandertales, denisovanos y probablemente otros grupos que aún se nos ocultan en parte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos encuentros dejaron herramientas. Otros dejaron huesos. Otros dejaron hijos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La familia humana nunca fue una única línea nítida. Fue una red de poblaciones que se separaron, se adaptaron y volvieron a encontrarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahí reside la verdadera fuerza del descubrimiento denisovano. No nos hace menos humanos. Da mayor profundidad a la humanidad."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué siguen importando los denisovanos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los denisovanos importan porque recuerdan a la ciencia que debe mantener la humildad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un diminuto hueso de dedo reveló una población. El genoma de una hija de dos grupos reveló el contacto directo entre parientes humanos. Una mandíbula de la meseta tibetana y nuevas pruebas del suroeste de China ampliaron el mapa. Los genomas modernos mostraron que la desaparición no siempre es total."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada método nuevo cambia lo que el pasado puede contar."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ADN antiguo, la paleoproteómica y la arqueología rigurosa no solo añaden datos. Cambian las preguntas: ¿a quién consideramos humano? ¿Cuántas poblaciones humanas compartieron el mundo? ¿Qué heredamos de parientes de los que nunca supimos el nombre?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los denisovanos permanecieron perdidos para la historia durante decenas de miles de años."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces, un fragmento de hueso empezó a hablar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y, en el ADN de las personas vivas, parte de su historia nunca dejó de hacerlo."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Nature: denisovanos del suroeste de China y sus estrategias de subsistencia",
+      "url": "https://www.nature.com/articles/s41586-026-10997-4"
+    },
+    {
+      "label": "Nature News: nuevos fósiles y herramientas denisovanos de la cueva de Bianfu",
+      "url": "https://www.nature.com/articles/d41586-026-02810-z"
+    },
+    {
+      "label": "Nature: genoma mitocondrial completo de un hominino desconocido del sur de Siberia",
+      "url": "https://www.nature.com/articles/nature08976"
+    },
+    {
+      "label": "Nature: historia genética de un grupo de homininos arcaicos de la cueva de Denisova, Siberia",
+      "url": "https://www.nature.com/articles/nature09710"
+    },
+    {
+      "label": "Science: secuencia genómica de alta cobertura de un individuo denisovano arcaico",
+      "url": "https://www.science.org/doi/10.1126/science.1224344"
+    },
+    {
+      "label": "Nature: genoma de la hija de una madre neandertal y un padre denisovano",
+      "url": "https://www.nature.com/articles/s41586-018-0455-x"
+    },
+    {
+      "label": "Nature: mandíbula denisovana de finales del Pleistoceno medio procedente de la meseta tibetana",
+      "url": "https://www.nature.com/articles/s41586-019-1139-x"
+    },
+    {
+      "label": "Science: ADN denisovano en sedimentos del Pleistoceno superior de la cueva kárstica de Baishiya",
+      "url": "https://www.science.org/doi/10.1126/science.abb6320"
+    },
+    {
+      "label": "Nature: adaptación tibetana a la altitud por introgresión de ADN similar al denisovano",
+      "url": "https://www.nature.com/articles/nature13408"
+    },
+    {
+      "label": "Nature: historia genómica de la Australia aborigen",
+      "url": "https://www.nature.com/articles/nature18299"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quiénes fueron los denisovanos?",
+      "answer": "Fueron una población humana arcaica extinta, estrechamente emparentada con los neandertales. Se conocen por ADN antiguo, fósiles, proteínas y pruebas arqueológicas de distintas regiones de Asia."
+    },
+    {
+      "question": "¿Cómo se descubrió a los denisovanos?",
+      "answer": "Se identificaron por primera vez mediante ADN recuperado de un pequeño fragmento de hueso de dedo hallado en la cueva de Denisova, en Siberia. En 2010, los estudios genéticos mostraron que pertenecía a una población humana arcaica desconocida."
+    },
+    {
+      "question": "¿Se mezclaron los denisovanos con los humanos modernos?",
+      "answer": "Sí. Las pruebas genéticas muestran que poblaciones emparentadas con los denisovanos se cruzaron con Homo sapiens. El ADN de origen denisovano sobrevive hoy, especialmente en algunas poblaciones de Oceanía y Asia."
+    },
+    {
+      "question": "¿Qué aspecto tenían los denisovanos?",
+      "answer": "Los científicos no lo saben con exactitud. Los fósiles y los estudios genéticos aportan pistas, pero las imágenes realistas deben tratarse como recreaciones editoriales y no como retratos demostrados."
+    },
+    {
+      "question": "¿Por qué importa el descubrimiento de Bianfu de 2026?",
+      "answer": "El estudio de Nature de 2026 presentó pruebas denisovanas de la cueva de Bianfu, en Yunnan, China, con fósiles datados entre hace unos 167.000 y 134.000 años y una secuencia cultural más larga. Amplía el registro denisovano conocido en Asia oriental."
+    }
+  ]
+}
