@@ -1,0 +1,809 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/happiest-countries-in-the-world-2026/",
+  "path": "/es/articles/happiest-countries-in-the-world-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "Los países más felices del mundo en 2026 y por qué siguen en cabeza",
+  "excerpt": "Finlandia vuelve a liderar un ranking que mide cómo valoramos nuestra vida, no la alegría constante. Confianza, apoyo social, salud y libertad ayudan a entender los resultados.",
+  "headlineHighlights": {
+    "red": "países más felices",
+    "gold": "siguen en cabeza"
+  },
+  "seoTitle": "Países más felices del mundo en 2026: ranking y claves",
+  "description": "Finlandia, Islandia, Dinamarca y Costa Rica encabezan el World Happiness Report 2026. Descubre el top 10, cómo se calcula y qué explica la satisfacción vital.",
+  "keywords": [
+    "países más felices 2026",
+    "ranking felicidad 2026",
+    "Finlandia país más feliz",
+    "informe mundial felicidad"
+  ],
+  "searchIntent": "Consultar el ranking de felicidad de 2026 y comprender su metodología, el éxito nórdico y los factores asociados a la satisfacción con la vida.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "image": {
+    "src": "/images/articles/happiest-countries-in-the-world-2026.jpg",
+    "alt": "Personas junto a un lago escandinavo luminoso que evoca felicidad, vínculos sociales y calidad de vida en Finlandia"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Finlandia vuelve a ser el país más feliz del mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el World Happiness Report 2026, ocupa el primer puesto por noveno año consecutivo, con una puntuación de evaluación de vida de 7,764."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que los finlandeses sonrían cada minuto del día."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ranking no mide una alegría constante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mide cómo evalúan las personas su vida en conjunto."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción importa porque los países más felices revelan algo más profundo que un estado de ánimo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Apuntan hacia la confianza, el apoyo social, la salud, la libertad, la seguridad y la calidad de vida cotidiana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un país puede ser rico y aun así padecer soledad, instituciones débiles o insatisfacción social."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede ser frío, tranquilo o reservado en lo emocional y obtener una puntuación alta si sus habitantes sienten que, en términos generales, su vida funciona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso la pregunta no es simplemente qué país ganó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es por qué los mismos países siguen apareciendo cerca de la cima. Para leer más explicaciones de PRESDA sobre sociedad y bienestar, consulta [por qué confiamos en la IA como en un amigo](/articles/why-people-trust-ai-like-a-friend/) y [la ciencia del envejecimiento y la longevidad](/articles/anti-aging-can-we-slow-down-human-aging/)."
+    },
+    {
+      "type": "heading",
+      "text": "El país más feliz del mundo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La puntuación de Finlandia en 2026 es de 7,764, lo que la sitúa primera en el World Happiness Report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es su noveno año consecutivo en el número uno."
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado se ha vuelto tan familiar que casi parece automático."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el informe no afirma que Finlandia sea perfecta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tampoco dice que cada finlandés sea más feliz que cualquier persona de otro lugar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dice que, de media, los encuestados en Finlandia evaluaron mejor su vida en conjunto que los de otros países durante el periodo medido."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ranking utiliza las respuestas del Gallup World Poll promediadas entre 2023, 2024 y 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese promedio de tres años reduce las fluctuaciones de un año de encuesta excepcionalmente bueno o malo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El éxito repetido de Finlandia plantea la pregunta central de este artículo: ¿por qué algunas sociedades hacen que la vida cotidiana parezca más segura, más confiable y más manejable?"
+    },
+    {
+      "type": "heading",
+      "text": "Los 10 países más felices en 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este es el top 10 oficial del World Happiness Report 2026."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Finlandia: 7,764."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Islandia: 7,540."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Dinamarca: 7,539."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Costa Rica: 7,439."
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Suecia: 7,255."
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Noruega: 7,242."
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Países Bajos: 7,223."
+    },
+    {
+      "type": "paragraph",
+      "text": "8. Israel: 7,187."
+    },
+    {
+      "type": "paragraph",
+      "text": "9. Luxemburgo: 7,063."
+    },
+    {
+      "type": "paragraph",
+      "text": "10. Suiza: 7,018."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son promedios de evaluación de vida, no puntuaciones de felicidad emocional de un único día."
+    },
+    {
+      "type": "paragraph",
+      "text": "También deben leerse con cautela, porque los intervalos de confianza de posiciones cercanas pueden solaparse."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2026, Islandia, Dinamarca y Costa Rica están muy próximas entre sí."
+    },
+    {
+      "type": "paragraph",
+      "text": "La clasificación es útil, pero no debe tratarse como una tabla de posiciones perfectamente precisa del bienestar humano."
+    },
+    {
+      "type": "heading",
+      "text": "¿Cómo se mide la felicidad?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El World Happiness Report utiliza las evaluaciones de vida del Gallup World Poll."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su medida central es la escalera de Cantril."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se pide a los encuestados que imaginen una escalera de 0 a 10."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cero representa la peor vida posible para ellos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El diez, la mejor vida posible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después valoran en qué peldaño se encuentran actualmente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso conviene entender el ranking como satisfacción o evaluación de vida, más que como simple alegría."
+    },
+    {
+      "type": "paragraph",
+      "text": "La clasificación principal emplea promedios de tres años."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según la metodología, se recogen habitualmente unas 1.000 respuestas anuales por país y se ponderan para obtener promedios nacionales representativos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores usan después varios factores explicativos para entender las diferencias entre países."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre ellos están el PIB por habitante, el apoyo social, la esperanza de vida saludable, la libertad para tomar decisiones vitales, la generosidad y la percepción de corrupción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una precisión importante: el ranking no se calcula sumando esos seis factores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se obtiene de las evaluaciones que las personas hacen de su propia vida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los seis factores ayudan a explicar los patrones de esas evaluaciones."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué Finlandia sigue ganando"
+    },
+    {
+      "type": "paragraph",
+      "text": "El éxito finlandés suele explicarse con estereotipos: saunas, bosques, gente callada, resistencia al invierno y café."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos de esos rasgos pueden resultar culturalmente reconocibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por sí solos, no son una explicación científica."
+    },
+    {
+      "type": "paragraph",
+      "text": "La interpretación más útil es más amplia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finlandia destaca en confianza social, fiabilidad institucional, apoyo social, libertad, servicios públicos, salud y una percepción de corrupción relativamente baja."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esas condiciones no garantizan la felicidad de cada individuo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, pueden hacer que la vida cotidiana se sienta menos frágil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando alguien enferma, pierde el empleo, necesita formación, depende de los servicios públicos o afronta incertidumbre, importa el entorno social que lo rodea."
+    },
+    {
+      "type": "paragraph",
+      "text": "El World Happiness Report identifica relaciones estadísticas entre esos factores y las evaluaciones nacionales de vida."
+    },
+    {
+      "type": "paragraph",
+      "text": "No demuestra que un único factor cause el puesto de Finlandia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finlandia sigue ganando porque varias piezas parecen funcionar juntas: seguridad material, confianza, autonomía, instituciones y apoyo social."
+    },
+    {
+      "type": "heading",
+      "text": "El patrón nórdico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finlandia no está sola."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2026, Finlandia, Islandia, Dinamarca, Suecia y Noruega ocupan cinco de los seis primeros puestos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese patrón nórdico es una de las características más reconocibles del World Happiness Report."
+    },
+    {
+      "type": "paragraph",
+      "text": "La explicación no consiste simplemente en impuestos altos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tampoco se reduce a la riqueza nacional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los países nórdicos suelen combinar prosperidad con instituciones públicas relativamente sólidas, redes de protección social, libertad personal, confianza social elevada y la sensación de tener a alguien con quien contar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esas condiciones pueden influir en cómo se vive el riesgo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ansiedad económica, la enfermedad, la presión familiar y la inseguridad laboral se sienten de otra forma cuando se cree que los sistemas y las comunidades no nos abandonarán por completo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El modelo nórdico no es idéntico en todos los países."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero sus buenos resultados repetidos sugieren que la riqueza favorece más el bienestar cuando va acompañada de confianza y protección social."
+    },
+    {
+      "type": "heading",
+      "text": "Costa Rica cambia la perspectiva"
+    },
+    {
+      "type": "paragraph",
+      "text": "Costa Rica es una de las grandes historias del ranking de 2026."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ocupa el cuarto puesto, con una puntuación de 7,439."
+    },
+    {
+      "type": "paragraph",
+      "text": "El World Happiness Report lo presenta como su mejor posición histórica y la más alta alcanzada por un país latinoamericano en el informe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto cuestiona una suposición demasiado fácil: que los países más felices deben ser sencillamente las economías ricas del norte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Costa Rica no es un Estado de bienestar nórdico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su posición señala la importancia de los vínculos sociales, la evaluación de vida y los factores de calidad de vida que no pueden reducirse al PIB."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que el dinero sea irrelevante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Significa que no lo explica todo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ascenso de Costa Rica amplía la pregunta: ¿qué condiciones sociales ayudan a sentir que la vida va bien, incluso fuera de las economías más ricas?"
+    },
+    {
+      "type": "heading",
+      "text": "¿El dinero compra la felicidad?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El dinero importa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La seguridad económica importa muchísimo, sobre todo cuando las necesidades básicas no están garantizadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una sociedad en la que no se puede costear de forma fiable la comida, la vivienda, la atención sanitaria, la educación o la seguridad suele afrontar graves problemas de bienestar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la riqueza nacional no determina por sí sola cuáles son los países más felices."
+    },
+    {
+      "type": "paragraph",
+      "text": "El PIB por habitante es uno de los factores explicativos que utilizan los investigadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "No es el ranking en sí."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una sociedad rica puede sufrir soledad, polarización, falta de confianza, malos resultados de salud o la sensación de que la vida se vuelve más difícil de gestionar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso la relación entre felicidad y riqueza es compleja."
+    },
+    {
+      "type": "paragraph",
+      "text": "El dinero puede reducir las dificultades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede ampliar las opciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede financiar servicios públicos y seguridad privada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero si las personas no confían unas en otras, carecen de apoyo, se sienten inseguras o creen que las instituciones fallan, la riqueza puede no traducirse directamente en una mejor valoración de su vida."
+    },
+    {
+      "type": "heading",
+      "text": "La confianza: el ingrediente invisible"
+    },
+    {
+      "type": "paragraph",
+      "text": "La confianza es difícil de fotografiar, pero su ausencia se siente enseguida."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Creen las personas que pueden apoyarse en otras?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Consideran que las instituciones públicas son, en general, competentes y justas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Sienten que tienen a alguien a quien llamar en una crisis?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El apoyo social es uno de los principales factores explicativos del World Happiness Report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Importa porque las crisis rara vez se viven al margen de las relaciones con los demás."
+    },
+    {
+      "type": "paragraph",
+      "text": "El desempleo, la enfermedad, las tensiones familiares, los problemas económicos y la incertidumbre asustan menos cuando se cuenta con un apoyo fiable."
+    },
+    {
+      "type": "paragraph",
+      "text": "La confianza también reduce las fricciones cotidianas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si se espera corrupción, engaño o abandono, la vida diaria exige más energía emocional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una sociedad con mucha confianza puede no parecer espectacular."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá ese sea precisamente su valor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede hacer que la vida resulte más estable."
+    },
+    {
+      "type": "heading",
+      "text": "Salud, libertad y control sobre la propia vida"
+    },
+    {
+      "type": "paragraph",
+      "text": "La esperanza de vida saludable es otro factor explicativo del informe."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuestión no es solo cuánto vive la gente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es si puede esperar más años con una salud que le permita desenvolverse."
+    },
+    {
+      "type": "paragraph",
+      "text": "La salud afecta al trabajo, la familia, la independencia, la movilidad y la dignidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "También importa la libertad para tomar decisiones vitales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo general, se valora la vida de otra forma cuando uno se siente atrapado que cuando cree que puede actuar y decidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Autonomía no significa tener opciones ilimitadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Significa sentir que se pueden tomar decisiones relevantes sobre la propia vida."
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe trata la libertad como un factor explicativo, no como una respuesta mágica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Junto con la salud y el apoyo, ayuda a entender por qué la satisfacción vital depende de algo más que los ingresos."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué retroceden algunos países occidentales ricos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe de 2026 presenta un patrón llamativo entre los países anglófonos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nueva Zelanda ocupa el puesto 11."
+    },
+    {
+      "type": "paragraph",
+      "text": "Irlanda, el 13."
+    },
+    {
+      "type": "paragraph",
+      "text": "Australia, el 15."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estados Unidos, el 23."
+    },
+    {
+      "type": "paragraph",
+      "text": "Canadá, el 25."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Reino Unido, el 29."
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe señala que es el segundo año consecutivo sin ningún país anglófono entre los 10 primeros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no permite extraer una única explicación política sencilla."
+    },
+    {
+      "type": "paragraph",
+      "text": "El patrón refleja presiones más amplias sobre la valoración de la vida en varias sociedades industriales occidentales."
+    },
+    {
+      "type": "paragraph",
+      "text": "El coste de la vivienda, la soledad, las dificultades de salud mental, la confianza institucional, la desigualdad, los vínculos sociales y la presión generacional pueden formar parte del debate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero PRESDA no presenta ningún factor aislado como explicación demostrada de todo el descenso."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ranking es una señal de alerta, no un diagnóstico completo."
+    },
+    {
+      "type": "heading",
+      "text": "El problema del bienestar juvenil"
+    },
+    {
+      "type": "paragraph",
+      "text": "El World Happiness Report 2026 presta especial atención al bienestar de los jóvenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Señala grandes descensos en países como Estados Unidos, Canadá, Australia y Nueva Zelanda respecto al periodo 2006-2010."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las redes sociales forman parte de la discusión, pero requieren cautela."
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe presenta un conjunto complejo de pruebas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos estudios encuentran asociaciones entre determinados usos de las redes y un menor bienestar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero los efectos varían según la plataforma, el tipo de uso, la edad, el contexto y la metodología."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sería demasiado simple afirmar como hecho universal que las redes sociales causan infelicidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe también destaca una distinción interesante: las plataformas o los usos diseñados alrededor de la conexión social pueden tener relaciones con el bienestar distintas de las plataformas de contenido seleccionado por algoritmos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuestión, por tanto, no se limita al tiempo de pantalla."
+    },
+    {
+      "type": "paragraph",
+      "text": "También importa qué hace la gente, qué premian las plataformas y cómo influye la vida en línea en el sueño, la comparación, la atención, la amistad y la imagen de uno mismo."
+    },
+    {
+      "type": "heading",
+      "text": "Felicidad no significa estar feliz todo el tiempo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La palabra felicidad puede resultar engañosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona puede estar estresada el lunes y aun así creer que su vida, en conjunto, es buena."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede sentir tristeza, duelo, frustración o atravesar un invierno largo y seguir valorando positivamente su vida."
+    },
+    {
+      "type": "paragraph",
+      "text": "El World Happiness Report distingue la evaluación global de la vida de las emociones momentáneas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las emociones positivas importan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las negativas también."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el ranking principal trata de cómo juzga la gente su vida en conjunto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto es esencial para entender a Finlandia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su primer puesto no significa alegría permanente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Significa que los encuestados, de media, puntúan alto su vida en la escalera de Cantril."
+    },
+    {
+      "type": "heading",
+      "text": "Qué comparten los países más felices"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las sociedades mejor situadas suelen combinar varias condiciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seguridad material."
+    },
+    {
+      "type": "paragraph",
+      "text": "Salud."
+    },
+    {
+      "type": "paragraph",
+      "text": "Personas con las que contar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Libertad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Confianza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instituciones que funcionan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vínculos sociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "No constituyen una fórmula matemática universal."
+    },
+    {
+      "type": "paragraph",
+      "text": "También importan la cultura, la historia, la geografía, la desigualdad, la política y las circunstancias personales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero los países más felices sugieren que el bienestar es más duradero cuando las personas se sienten materialmente seguras y socialmente acompañadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una sociedad puede construir carreteras, oficinas y rascacielos y seguir sin construir confianza."
+    },
+    {
+      "type": "paragraph",
+      "text": "El World Happiness Report recuerda una y otra vez que la calidad de vida no es solo infraestructura."
+    },
+    {
+      "type": "paragraph",
+      "text": "También son relaciones, confianza y dignidad."
+    },
+    {
+      "type": "heading",
+      "text": "La lección de fondo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La enseñanza de estos rankings no es que todos debamos mudarnos a Finlandia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tampoco que los gobiernos puedan fabricar felicidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es que la calidad de vida depende de algo más que la producción económica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una sociedad puede enriquecerse sin resultar necesariamente más satisfactoria para vivir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los países cercanos a la cima sugieren que lo que ocurre entre las personas, la confianza, el apoyo, la libertad y la seguridad, importa junto a lo que recogen las estadísticas económicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá los países más felices no sean lugares donde se siente alegría en todo momento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez sean simplemente lugares donde más personas creen que, en conjunto, su vida funciona."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://worldhappiness.report/ed/2026/",
+      "label": "World Happiness Report 2026: informe oficial"
+    },
+    {
+      "url": "https://worldhappiness.report/ed/2026/#appendices-and-data",
+      "label": "World Happiness Report 2026: anexos y datos"
+    },
+    {
+      "url": "https://www.gallup.com/analytics/349487/gallup-global-happiness-center.aspx",
+      "label": "Gallup: centro mundial de felicidad y contexto del World Poll"
+    },
+    {
+      "url": "https://wellbeing.hmc.ox.ac.uk/",
+      "label": "Universidad de Oxford: centro de investigación del bienestar"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuál es el país más feliz del mundo en 2026?",
+      "answer": "Finlandia ocupa el primer puesto del World Happiness Report 2026, con una puntuación de evaluación de vida de 7,764, por noveno año consecutivo."
+    },
+    {
+      "question": "¿Cómo se calcula el ranking del World Happiness Report?",
+      "answer": "La clasificación principal utiliza las evaluaciones de vida del Gallup World Poll mediante la escalera de Cantril, promediadas entre 2023 y 2025 para el informe de 2026."
+    },
+    {
+      "question": "¿Se mide si la gente sonríe todo el día?",
+      "answer": "No. Se mide la valoración global de la vida, no una emoción positiva constante. Se puede sentir estrés o tristeza y aun así juzgar favorablemente la propia vida."
+    },
+    {
+      "question": "¿Por qué Finlandia sigue siendo primera?",
+      "answer": "Su posición está asociada al apoyo social, la confianza, unas instituciones fiables, la libertad, la salud, los servicios públicos y una percepción de corrupción relativamente baja. Ningún factor explica por sí solo todo el resultado."
+    },
+    {
+      "question": "¿Por qué destaca Costa Rica en 2026?",
+      "answer": "Costa Rica ocupa el cuarto puesto, su mejor posición histórica y la más alta alcanzada por un país latinoamericano en el informe."
+    },
+    {
+      "question": "¿El dinero compra la felicidad?",
+      "answer": "Los ingresos y la seguridad económica importan, especialmente cuando las necesidades básicas no están garantizadas. Pero la riqueza nacional no determina sola el ranking: la confianza, el apoyo, la salud y la libertad también ayudan a explicar las evaluaciones de vida."
+    },
+    {
+      "question": "¿Los jóvenes son cada vez menos felices?",
+      "answer": "El informe de 2026 destaca fuertes descensos del bienestar juvenil en varios países anglófonos respecto a 2006-2010, y señala que las pruebas sobre redes sociales son complejas y varían según el uso, la plataforma y el contexto."
+    }
+  ]
+}

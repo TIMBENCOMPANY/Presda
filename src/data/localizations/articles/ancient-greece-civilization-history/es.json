@@ -1,0 +1,916 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/ancient-greece-civilization-history/",
+  "path": "/es/articles/ancient-greece-civilization-history/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "ANTIGUA GRECIA: LA CIVILIZACIÓN QUE CAMBIÓ NUESTRA FORMA DE PENSAR",
+  "excerpt": "La antigua Grecia dio forma a la filosofía, la ciencia, la política, el teatro, el arte y el lenguaje de la democracia. Pero su historia también incluye guerra, esclavitud, exclusión e imperio.",
+  "headlineHighlights": {
+    "red": "ANTIGUA GRECIA",
+    "gold": "CAMBIÓ NUESTRA FORMA DE PENSAR"
+  },
+  "seoTitle": "Antigua Grecia: civilización, democracia, filosofía y legado",
+  "description": "Historia de la antigua Grecia: Atenas, Esparta, democracia, guerras médicas, Sócrates, Platón, Aristóteles, Alejandro Magno, ciencia y dominio romano.",
+  "keywords": [
+    "antigua Grecia",
+    "civilización griega",
+    "Atenas y Esparta",
+    "democracia ateniense",
+    "filosofía griega",
+    "Alejandro Magno",
+    "legado de Grecia"
+  ],
+  "searchIntent": "Conocer la historia y el legado de la antigua Grecia, desde las polis y las guerras médicas hasta la filosofía, el mundo helenístico y la conquista romana, con sus desigualdades y contradicciones.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-09",
+  "updatedAt": "2026-09-09",
+  "image": {
+    "src": "/images/articles/ancient-greece-civilization-history.webp",
+    "alt": "Filósofos, soldados, templos y la Acrópolis de la antigua Grecia en una escena histórica de estilo cinematográfico"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La antigua Grecia nunca fue un solo país en el sentido moderno."
+    },
+    {
+      "type": "paragraph",
+      "text": "Era un mundo de ciudades-Estado, islas, colonias, santuarios, ejércitos rivales, rutas marítimas, lenguas, mitos, festivales, esclavos, ciudadanos, filósofos, poetas e ingenieros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, su influencia llegó a ser enorme. Las ideas griegas moldearon la filosofía, las matemáticas, la medicina, el teatro, la arquitectura, el lenguaje político y la manera en que civilizaciones posteriores imaginaron la propia razón."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese legado no debe idealizarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atenas debatía sobre democracia mientras excluía del poder político a las mujeres, las personas esclavizadas y muchos residentes extranjeros. Esparta construyó su disciplina y su reputación militar sobre el trabajo de una población ilota oprimida. Las ciudades griegas crearon arte y filosofía, pero también libraron guerras devastadoras y practicaron la esclavitud."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia de la antigua Grecia es poderosa porque es humana: brillante, desigual, inventiva, violenta, curiosa e inacabada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para ampliar el contexto histórico de PRESDA, lee [la historia de las pirámides de Egipto](/articles/history-of-egyptian-pyramids/), [el Imperio otomano](/articles/ottoman-empire-rise-and-fall/) y [la historia de la esclavitud](/articles/history-of-slavery/)."
+    },
+    {
+      "type": "heading",
+      "text": "Antes de la Grecia clásica"
+    },
+    {
+      "type": "paragraph",
+      "text": "La célebre época de Atenas, Esparta, Sócrates y el Partenón no apareció de repente."
+    },
+    {
+      "type": "paragraph",
+      "text": "La civilización griega surgió de mundos anteriores de las edades del Bronce y del Hierro en torno al Egeo."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Creta, la civilización minoica construyó palacios como Cnosos, comerció por el Mediterráneo oriental y desarrolló un arte y unos sistemas administrativos propios. En la Grecia continental, el mundo micénico produjo centros palaciegos fortificados, élites guerreras y formas tempranas de escritura griega conocidas hoy como lineal B."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los palacios micénicos se derrumbaron hacia el final de la Edad del Bronce, durante un periodo de alteraciones más amplias en el Mediterráneo oriental. La distribución de la población, las redes comerciales y las estructuras políticas cambiaron de forma drástica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los griegos posteriores recordaron partes del pasado heroico mediante tradiciones épicas, como las historias relacionadas con Troya."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la memoria, la poesía y la arqueología no son lo mismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la época arcaica, que comenzó aproximadamente en el siglo VIII a. C., las comunidades griegas volvían a expandirse, fundaban asentamientos alrededor del Mediterráneo y el mar Negro, desarrollaban la polis o ciudad-Estado y experimentaban con nuevas formas políticas."
+    },
+    {
+      "type": "heading",
+      "text": "La polis: una forma griega de organizar la vida"
+    },
+    {
+      "type": "paragraph",
+      "text": "La polis era más que una población."
+    },
+    {
+      "type": "paragraph",
+      "text": "Era una comunidad política con ciudadanos, leyes, cultos, espacios públicos, templos, asambleas, magistrados e identidad compartida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada polis tenía su propio carácter. Algunas eran oligarquías gobernadas por élites reducidas. Otras conocieron tiranías. Algunas desarrollaron una participación ciudadana más amplia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta fragmentación hizo a Grecia creativa e inestable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ciudades-Estado competían en guerra, comercio, religión, atletismo, colonización y prestigio. Aprendían unas de otras, se temían y en ocasiones se unían frente a amenazas externas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mundo griego, por tanto, no produjo una única civilización griega antigua del modo en que podría hacerlo un imperio centralizado. Produjo una red de comunidades cuyas rivalidades formaron parte de su energía."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos de esas comunidades se convirtieron en el contraste más famoso de la historia griega."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atenas y Esparta."
+    },
+    {
+      "type": "heading",
+      "text": "Atenas y Esparta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Atenas y Esparta no eran simples opuestos, pero representaban modelos muy diferentes de vida griega."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atenas se hizo conocida por su poder naval, el teatro, la filosofía, el debate público, el imperio y la democracia. Su riqueza creció mediante el comercio, los tributos y la influencia marítima. Sus espacios públicos quedaron asociados con la argumentación, la persuasión y la identidad cívica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esparta se hizo conocida por su poder terrestre, su disciplina, el entrenamiento militar y un orden social organizado en torno al control de los ilotas, una población sin libertad vinculada al trabajo agrícola."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ciudadanos espartanos eran una pequeña élite. Su sistema militar dependía del trabajo y la subordinación de otros. Las mujeres espartanas podían poseer más bienes y tener mayor visibilidad pública que las de muchas otras sociedades griegas, pero eso no convertía a Esparta en una sociedad igualitaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atenas y Esparta acabaron encabezando alianzas rivales, y su conflicto contribuyó a desgarrar el mundo griego."
+    },
+    {
+      "type": "heading",
+      "text": "El nacimiento y los límites de la democracia ateniense"
+    },
+    {
+      "type": "paragraph",
+      "text": "La democracia ateniense es uno de los experimentos políticos más influyentes de la historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre finales del siglo VI y el siglo V a. C., Atenas desarrolló instituciones que permitían a los ciudadanos varones participar directamente en el gobierno. Podían asistir a la Asamblea, formar parte de jurados, votar decisiones políticas y desempeñar determinados cargos, a menudo elegidos por sorteo."
+    },
+    {
+      "type": "paragraph",
+      "text": "No era una democracia representativa en el sentido moderno. Los propios ciudadanos tomaban muchas decisiones directamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tampoco era una democracia universal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las mujeres no podían votar. Las personas esclavizadas no podían votar. Muchos residentes extranjeros, conocidos como metecos, no podían votar. La ciudadanía estaba restringida, y la comunidad política representaba solo a una parte de quienes vivían y trabajaban en Atenas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa contradicción importa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La democracia ateniense contribuyó a crear un lenguaje político duradero sobre ciudadanía, ley, debate y rendición pública de cuentas. También existió dentro de una sociedad construida sobre la exclusión de género, la esclavitud y el poder imperial."
+    },
+    {
+      "type": "paragraph",
+      "text": "El logro y el límite deben aparecer en la misma frase."
+    },
+    {
+      "type": "heading",
+      "text": "Las guerras médicas"
+    },
+    {
+      "type": "paragraph",
+      "text": "A comienzos del siglo V a. C., las ciudades-Estado griegas se enfrentaron al poder del Imperio persa."
+    },
+    {
+      "type": "paragraph",
+      "text": "El conflicto surgió del dominio imperial persa en Anatolia occidental, de la participación griega en la revuelta jónica y de los posteriores intentos persas de castigar y controlar partes de la Grecia continental."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Maratón, en 490 a. C., una fuerza encabezada por Atenas derrotó a un ejército expedicionario persa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una década después, el rey Jerjes dirigió una invasión mucho mayor. En 480 a. C., los espartanos y sus aliados libraron una célebre acción de contención en las Termópilas. Atenas fue evacuada y después incendiada. En Salamina, la flota griega derrotó a la persa en una gran batalla naval. En 479 a. C., las fuerzas griegas vencieron a los persas en Platea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las guerras médicas ocuparon un lugar central en la memoria griega posterior."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero no deben reducirse a una historia sencilla de libertad contra tiranía. Las propias ciudades-Estado griegas practicaban la dominación, la esclavitud y la exclusión. Persia era una potencia imperial, pero Atenas también llegaría a serlo en el Egeo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia rara vez es tan limpia como pretende la propaganda posterior."
+    },
+    {
+      "type": "heading",
+      "text": "Atenas se convierte en imperio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Después de las guerras médicas, Atenas encabezó la Liga de Delos, una alianza creada originalmente para continuar la resistencia contra Persia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con el tiempo, la liga se convirtió en un imperio ateniense."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Estados miembros pagaban tributo. Atenas utilizaba esa riqueza para mantener su poder naval, financiar construcciones públicas y reforzar su posición. El Partenón y los demás monumentos de la Acrópolis pertenecen a ese mundo de logros artísticos y recursos imperiales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es una de las razones por las que resulta difícil simplificar Atenas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La misma ciudad produjo tragedia, filosofía, participación democrática y una arquitectura de extraordinaria belleza."
+    },
+    {
+      "type": "paragraph",
+      "text": "También coaccionó a sus aliados, castigó rebeliones y se benefició del trabajo esclavo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La brillantez era real."
+    },
+    {
+      "type": "paragraph",
+      "text": "El poder también."
+    },
+    {
+      "type": "heading",
+      "text": "La guerra del Peloponeso"
+    },
+    {
+      "type": "paragraph",
+      "text": "La guerra del Peloponeso, librada entre 431 y 404 a. C., fue la gran catástrofe interna del mundo griego clásico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atenas y su imperio se enfrentaron a Esparta y la Liga del Peloponeso."
+    },
+    {
+      "type": "paragraph",
+      "text": "La guerra duró décadas, interrumpida por treguas inestables y marcada por una epidemia, expediciones fallidas, alianzas cambiantes, estrategia naval, guerra terrestre e intervención persa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tucídides, el historiador ateniense, describió el conflicto con una atención poco común al poder, el miedo, la retórica y la conducta humana bajo presión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atenas acabó perdiendo. Esparta salió victoriosa, ayudada en parte por el apoyo financiero persa para construir una flota."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la victoria no trajo estabilidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "La guerra debilitó el sistema griego de ciudades-Estado, profundizó la desconfianza y abrió espacio para el ascenso de nuevas potencias."
+    },
+    {
+      "type": "heading",
+      "text": "Macedonia y el fin de la independencia de las ciudades-Estado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al norte del núcleo tradicional de las ciudades-Estado, Macedonia se fortaleció bajo Filipo II."
+    },
+    {
+      "type": "paragraph",
+      "text": "Filipo reformó el ejército, utilizó hábilmente la diplomacia y derrotó a una coalición de fuerzas griegas en Queronea en 338 a. C."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquella batalla marcó un punto de inflexión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ciudades-Estado griegas no desaparecieron, pero su independencia quedó limitada por el poder macedonio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Filipo planeó una campaña contra Persia, pero fue asesinado en 336 a. C. Su hijo heredó el reino, el ejército y la ambición."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se llamaba Alejandro."
+    },
+    {
+      "type": "heading",
+      "text": "Alejandro Magno"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alejandro III de Macedonia se convirtió en rey en 336 a. C. y emprendió una de las campañas militares más espectaculares de la historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cruzó a Asia, derrotó a los ejércitos persas en grandes batallas como Issos y Gaugamela, tomó Egipto, entró en Babilonia y avanzó hacia el este hasta regiones cercanas al actual Pakistán."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus conquistas destruyeron el Imperio persa aqueménida y extendieron la lengua griega, las instituciones, los asentamientos militares y la cultura de las élites por un territorio inmenso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alejandro murió en Babilonia en 323 a. C., a los 32 años."
+    },
+    {
+      "type": "paragraph",
+      "text": "No dejó una sucesión imperial estable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus generales dividieron el imperio en reinos helenísticos, entre ellos el de los Ptolomeos en Egipto y el de los Seléucidas en partes de Asia."
+    },
+    {
+      "type": "paragraph",
+      "text": "La trayectoria de Alejandro no fue simplemente una aventura heroica. Incluyó asedios, matanzas, cálculo político y conquista imperial. Pero también cambió el mapa de la cultura, el comercio y el conocimiento en el Mediterráneo oriental y Asia occidental."
+    },
+    {
+      "type": "heading",
+      "text": "El mundo helenístico"
+    },
+    {
+      "type": "paragraph",
+      "text": "El periodo helenístico posterior a Alejandro no fue una decadencia que viviera de glorias pasadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fue una gran época de ciudades, reinos, ciencia, erudición, arte e intercambio cultural."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alejandría, en Egipto, se convirtió en uno de los grandes centros intelectuales del mundo antiguo. El griego pasó a ser lengua de administración y de cultura de las élites en amplias regiones. Las escuelas filosóficas, la investigación médica, el trabajo matemático y la especulación científica florecieron en nuevos entornos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El arte helenístico a menudo se volvió más dramático, emotivo y cosmopolita que los estilos clásicos anteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mundo griego se había expandido más allá de la antigua polis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora estaba conectado con cortes reales, bibliotecas, rutas comerciales y ciudades multiculturales."
+    },
+    {
+      "type": "heading",
+      "text": "Sócrates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sócrates no dejó escritos propios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo que sabemos procede principalmente de autores posteriores, sobre todo Platón y Jenofonte, aunque la comedia y las fuentes hostiles también contribuyeron a formar su imagen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso significa que debemos abordar con cautela al Sócrates histórico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se hizo famoso en Atenas por preguntar a las personas sobre la virtud, el conocimiento, la justicia y la vida examinada. Su método exponía contradicciones y obligaba a preguntarse si realmente entendían los conceptos que afirmaban conocer."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 399 a. C., después de que Atenas perdiera la guerra del Peloponeso y atravesara turbulencias políticas, Sócrates fue juzgado y ejecutado por cargos tradicionalmente asociados con la impiedad y la corrupción de la juventud."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su muerte se convirtió en una de las escenas fundacionales de la filosofía occidental: una ciudad famosa por el debate condenaba a uno de sus interrogadores más incansables."
+    },
+    {
+      "type": "heading",
+      "text": "Platón"
+    },
+    {
+      "type": "paragraph",
+      "text": "Platón, discípulo de Sócrates, convirtió la filosofía en una tradición escrita e institucional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus diálogos exploraron la ética, la política, el conocimiento, la educación, el lenguaje, la metafísica y el alma. Fundó la Academia en Atenas, descrita a menudo como una de las instituciones intelectuales más importantes de la Antigüedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las obras de Platón no son simples transcripciones de las palabras de Sócrates. Son textos literarios y filosóficos en los que Sócrates suele aparecer como personaje central."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción importa porque Platón conserva a Sócrates y también crea una filosofía propia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ideas como la teoría de las Ideas, el gobernante filósofo y la crítica de la democracia adquirieron una enorme influencia y fueron debatidas y discutidas durante siglos."
+    },
+    {
+      "type": "heading",
+      "text": "Aristóteles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aristóteles estudió en la Academia de Platón y después fundó su propia escuela, el Liceo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Escribió sobre lógica, biología, ética, política, poesía, retórica, metafísica, animales, causalidad y conocimiento. También fue tutor del joven Alejandro durante un tiempo, aunque su imperio no debe interpretarse como una simple aplicación de la filosofía aristotélica."
+    },
+    {
+      "type": "paragraph",
+      "text": "La amplitud de Aristóteles era extraordinaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas de sus afirmaciones científicas fueron refutadas posteriormente. Otras ayudaron a organizar la investigación durante muchos siglos. Sus obras lógicas, observaciones biológicas y vocabulario ético pasaron a formar parte de la herencia intelectual de los mundos mediterráneo, islámico y europeo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La filosofía griega antigua no dio a la humanidad respuestas definitivas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dio a los pensadores posteriores preguntas duraderas."
+    },
+    {
+      "type": "heading",
+      "text": "Matemáticas: Pitágoras y Euclides"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las matemáticas griegas se desarrollaron mediante una larga tradición de demostración, geometría, teoría de números y especulación astronómica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pitágoras se asocia con una escuela que vinculaba matemáticas, música, número y filosofía. El teorema que lleva su nombre se conocía en otras culturas antes de las tradiciones griegas de demostración, por lo que la historia no debe reducirse a un solo inventor. Lo importante es el desarrollo griego de la argumentación matemática deductiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "Euclides, que trabajaba en la Alejandría helenística hacia 300 a. C., reunió y organizó la geometría en los Elementos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Elementos se convirtieron en uno de los textos matemáticos más influyentes jamás escritos porque presentaban el conocimiento mediante definiciones, axiomas, proposiciones y demostraciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante siglos, aprender geometría significó entrar en un mundo modelado por Euclides."
+    },
+    {
+      "type": "heading",
+      "text": "Medicina: Hipócrates y el cuerpo humano"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hipócrates de Cos se convirtió en el padre simbólico de la medicina griega, aunque los textos conocidos como Corpus hipocrático fueron escritos por varios autores a lo largo del tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su importancia reside, en parte, en el método."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos autores médicos griegos intentaban entender la enfermedad mediante la observación, el entorno, la dieta y los procesos corporales, en lugar de tratar cada dolencia como un castigo divino directo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La medicina griega antigua no era medicina moderna. Incluía teorías, como las ideas humorales, que la ciencia posterior rechazó o transformó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el avance hacia la observación clínica, las historias de casos y la explicación natural adquirió importancia histórica."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tradición hipocrática representa un paso hacia preguntar qué puede observarse en el paciente, no solo qué puede imaginarse en el mito."
+    },
+    {
+      "type": "heading",
+      "text": "Ciencia: Arquímedes y la investigación antigua"
+    },
+    {
+      "type": "paragraph",
+      "text": "Arquímedes de Siracusa vivió en el periodo helenístico y se convirtió en uno de los mayores matemáticos e ingenieros de la Antigüedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trabajó en geometría, medición, palancas, centros de gravedad, hidrostática y problemas mecánicos. Las historias posteriores sobre él suelen estar adornadas, pero su obra matemática y científica conservada muestra una brillantez real."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia griega antigua no era ciencia en el sentido institucional moderno. No tenía laboratorios modernos, revistas con revisión por pares ni un sistema de investigación industrial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, los pensadores griegos ayudaron a desarrollar hábitos importantes: argumentación lógica, demostración matemática, explicación natural, clasificación y debate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esos hábitos viajarían después por los ámbitos eruditos romano, bizantino, islámico y europeo antes de formar parte de la ciencia moderna."
+    },
+    {
+      "type": "heading",
+      "text": "Teatro, arte y arquitectura"
+    },
+    {
+      "type": "paragraph",
+      "text": "El teatro griego surgió de las fiestas religiosas y se convirtió en una de las grandes formas artísticas de la cultura mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tragedia ateniense exploraba la guerra, la familia, la soberbia, el sufrimiento, la justicia y los límites del conocimiento humano. La comedia se burlaba de políticos, intelectuales y costumbres sociales con una incisiva energía pública."
+    },
+    {
+      "type": "paragraph",
+      "text": "El arte y la arquitectura griegos también moldearon la cultura visual durante siglos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Templos como el Partenón combinaban función religiosa, exhibición cívica y proporción matemática. Los escultores exploraban cuerpos idealizados, movimiento, equilibrio y, posteriormente, dramatismo emocional. La cerámica conservó escenas de mitos, deporte, guerra, vida doméstica y rituales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nada de ese arte estaba separado de la sociedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo financiaban, contemplaban, utilizaban y debatían comunidades que eran, a su vez, desiguales y políticas."
+    },
+    {
+      "type": "heading",
+      "text": "Los Juegos Olímpicos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Juegos Olímpicos antiguos se celebraban en Olimpia en honor de Zeus."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tradición fecha los primeros Juegos Olímpicos en 776 a. C., aunque la historia temprana está parcialmente envuelta en recuerdos posteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los juegos eran religiosos además de atléticos. Los atletas griegos varones competían en pruebas como carreras, lucha, pugilato, pancracio, pentatlón y competiciones ecuestres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Juegos Olímpicos no representaban el ideal deportivo universal moderno. La participación estaba restringida y la celebración pertenecía a un mundo religioso y cultural específico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aun así, los juegos muestran cómo los griegos conectaban competición, honor, cuerpo, religión e identidad pública."
+    },
+    {
+      "type": "heading",
+      "text": "Religión y mitología griegas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La religión griega era politeísta, centrada en los rituales y profundamente local."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dioses como Zeus, Atenea, Poseidón y Hades no eran solo personajes de relatos. Se les honraba mediante templos, sacrificios, festivales, votos y cultos cívicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zeus se asociaba con la realeza, el cielo y la autoridad divina. Atenea estaba vinculada a la sabiduría, los oficios y la ciudad de Atenas. Poseidón dominaba el mar y los terremotos. Hades estaba relacionado con el inframundo y los muertos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La mitología griega daba forma narrativa al poder divino, la ambición humana, el sufrimiento y el orden cósmico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la mitología no es lo mismo que la historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un mito puede revelar cómo se imaginaba el mundo una sociedad sin demostrar que los sucesos ocurrieron tal como se cuentan."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia responsable mantiene viva esa distinción."
+    },
+    {
+      "type": "heading",
+      "text": "La guerra de Troya: mito, memoria y arqueología"
+    },
+    {
+      "type": "paragraph",
+      "text": "La guerra de Troya se conoce principalmente por la tradición épica, especialmente la Ilíada y la literatura griega y romana posterior."
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia de Aquiles, Héctor, Helena, Paris y el caballo de madera se convirtió en uno de los ciclos míticos más famosos del mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La arqueología ha identificado la antigua Troya en Hisarlik, en la actual Turquía, y el yacimiento muestra una larga ocupación, estratos de destrucción e importancia en el mundo egeo-anatolio de la Edad del Bronce."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que los poemas de Homero sean informes históricos directos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pudo haber conflictos en torno a una ciudad recordada como Troya. Pudo haber recuerdos históricos detrás de partes de la tradición. Pero los dioses, los discursos, los héroes y la estructura dramática de las epopeyas pertenecen a la poesía y a relatos posteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Troya se sitúa entre la arqueología y el mito."
+    },
+    {
+      "type": "paragraph",
+      "text": "Precisamente por eso sigue fascinando."
+    },
+    {
+      "type": "heading",
+      "text": "Esclavitud, mujeres y sociedad cotidiana"
+    },
+    {
+      "type": "paragraph",
+      "text": "La antigua Grecia no puede entenderse solo a través de filósofos y templos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de las personas no eran filósofas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cultivaban, comerciaban, servían, cocinaban, tejían, combatían, criaban hijos, transportaban agua, administraban hogares, trabajaban en talleres, remaban en barcos o vivían en esclavitud."
+    },
+    {
+      "type": "paragraph",
+      "text": "La esclavitud estaba muy extendida en muchas comunidades griegas. Las personas esclavizadas trabajaban en hogares, minas, agricultura, talleres y funciones públicas. Sus experiencias variaban, pero carecían de libertad básica e igualdad jurídica."
+    },
+    {
+      "type": "paragraph",
+      "text": "La vida de las mujeres también difería según la ciudad, la clase y la condición. Las ciudadanas atenienses estaban excluidas de la vida política formal y se esperaba que actuaran principalmente dentro del ámbito doméstico, aunque desempeñaban funciones importantes en la religión, la familia y la transmisión de propiedades. Las ciudadanas espartanas tenían una presencia inusual en la propiedad y la vida pública en comparación con muchas griegas, pero no eran políticamente iguales a los ciudadanos varones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los residentes extranjeros, los ciudadanos pobres, los trabajadores rurales y las personas esclavizadas hacían funcionar la sociedad griega."
+    },
+    {
+      "type": "paragraph",
+      "text": "Toda historia que recuerde solo a los hombres de las élites malinterpreta la civilización que afirma admirar."
+    },
+    {
+      "type": "heading",
+      "text": "Roma y el fin de la independencia política griega"
+    },
+    {
+      "type": "paragraph",
+      "text": "Después de Alejandro, los reinos helenísticos compitieron por el poder en el Mediterráneo oriental."
+    },
+    {
+      "type": "paragraph",
+      "text": "Roma intervino gradualmente en los asuntos griegos y derrotó al poder macedonio."
+    },
+    {
+      "type": "paragraph",
+      "text": "La victoria romana en Pidna en 168 a. C. debilitó de forma decisiva al reino antigónida de Macedonia. En 146 a. C., después de la guerra aquea, Roma destruyó Corinto y sometió a Grecia a un dominio romano más firme."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no puso fin a la cultura griega."
+    },
+    {
+      "type": "paragraph",
+      "text": "La lengua, la filosofía, el arte, la literatura y la educación griegas influyeron profundamente en Roma. Las élites romanas estudiaban textos griegos, coleccionaban arte griego y asimilaban sus tradiciones intelectuales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Políticamente, el poder de las ciudades-Estado griegas independientes se había desvanecido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Culturalmente, Grecia conquistó a muchos de sus conquistadores."
+    },
+    {
+      "type": "heading",
+      "text": "Lo que la antigua Grecia aportó al mundo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La influencia duradera de la antigua Grecia es real, pero debe describirse con cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La democracia moderna no es una copia directa de Atenas. Pasó por el derecho romano, las instituciones medievales, el pensamiento ilustrado, las revoluciones, las luchas constitucionales y los movimientos modernos por la ciudadanía y los derechos civiles."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia moderna no es simplemente ciencia griega. Se desarrolló a través de muchas civilizaciones, con importantes aportaciones islámicas, indias, chinas, africanas y europeas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La filosofía moderna no es solo filosofía griega. Pero los pensadores griegos dieron a tradiciones posteriores un vocabulario de argumentación, ética, lógica, metafísica y análisis político que sigue siendo poderoso."
+    },
+    {
+      "type": "paragraph",
+      "text": "El legado griego, por tanto, no supone la propiedad de la civilización."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un vasto capítulo del intento humano de formular mejores preguntas."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué es la justicia?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué es el conocimiento?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué hace legítima a una ciudad?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo deberían vivir las personas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿De qué está hecha la naturaleza?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué puede conocer la razón?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esas preguntas sobrevivieron a las ciudades-Estado que primero las debatieron."
+    },
+    {
+      "type": "heading",
+      "text": "La civilización que cambió nuestra forma de pensar"
+    },
+    {
+      "type": "paragraph",
+      "text": "La antigua Grecia cambió la historia porque convirtió la argumentación en un arte público."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus habitantes debatían leyes, representaban tragedias sobre desastres morales, construían templos a los dioses, medían formas geométricas, especulaban sobre la naturaleza, contaban mitos de héroes, cuestionaban a sus maestros, libraban guerras, esclavizaban a otros, fundaban colonias, escribían historias e imaginaban la política como algo que los seres humanos podían discutir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no hace perfecta a la antigua Grecia."
+    },
+    {
+      "type": "paragraph",
+      "text": "La hace importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "La grandeza de esta civilización no consiste en fingir que carecía de contradicciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consiste en ver cuánto heredó la humanidad posterior de un mundo que también estaba inacabado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquellas Atenas y Esparta ya no existen."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Partenón está dañado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ciudades-Estado independientes cayeron."
+    },
+    {
+      "type": "paragraph",
+      "text": "El imperio de Alejandro se fragmentó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero las preguntas continuaron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada vez que las personas debaten sobre democracia, evidencia, ética, teatro, belleza, matemáticas, medicina o límites del poder, siguen conviviendo con una parte de la herencia griega."
+    },
+    {
+      "type": "paragraph",
+      "text": "La antigua Grecia no enseñó al mundo a pensar de una vez para siempre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contribuyó a enseñarle que el propio pensamiento podía convertirse en una civilización."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Museo Británico: antigua Grecia",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece"
+    },
+    {
+      "label": "Museo Metropolitano de Arte: Grecia clásica, 480–323 a. C.",
+      "url": "https://www.metmuseum.org/toah/hd/tacg/hd_tacg.htm"
+    },
+    {
+      "label": "Museo Metropolitano de Arte: arte de la época helenística",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm"
+    },
+    {
+      "label": "Centro del Patrimonio Mundial de la UNESCO: Acrópolis de Atenas",
+      "url": "https://whc.unesco.org/en/list/404/"
+    },
+    {
+      "label": "Centro del Patrimonio Mundial de la UNESCO: sitio arqueológico de Troya",
+      "url": "https://whc.unesco.org/en/list/849/"
+    },
+    {
+      "label": "Comité Olímpico Internacional: los Juegos Olímpicos antiguos",
+      "url": "https://olympics.com/ioc/ancient-olympic-games"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy: Sócrates",
+      "url": "https://plato.stanford.edu/entries/socrates/"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy: Platón",
+      "url": "https://plato.stanford.edu/entries/plato/"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy: Aristóteles",
+      "url": "https://plato.stanford.edu/entries/aristotle/"
+    },
+    {
+      "label": "Encyclopaedia Britannica: guerras médicas",
+      "url": "https://www.britannica.com/event/Greco-Persian-Wars"
+    },
+    {
+      "label": "Encyclopaedia Britannica: guerra del Peloponeso",
+      "url": "https://www.britannica.com/event/Peloponnesian-War"
+    },
+    {
+      "label": "Encyclopaedia Britannica: Alejandro Magno",
+      "url": "https://www.britannica.com/biography/Alexander-the-Great"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué fue la antigua Grecia?",
+      "answer": "La antigua Grecia fue un amplio mundo de habla griega compuesto por ciudades-Estado, islas, colonias y reinos, no un único Estado nacional moderno."
+    },
+    {
+      "question": "¿Fue Atenas la primera democracia?",
+      "answer": "Atenas desarrolló una de las democracias directas más influyentes de la historia, pero excluía de la participación política a las mujeres, las personas esclavizadas y muchos no ciudadanos."
+    },
+    {
+      "question": "¿En qué se diferenciaban Atenas y Esparta?",
+      "answer": "Atenas se hizo conocida por el poder naval, la democracia, el teatro y la filosofía, mientras Esparta se organizaba en torno al poder terrestre, la disciplina militar y el control de la población trabajadora ilota."
+    },
+    {
+      "question": "¿Ocurrió realmente la guerra de Troya?",
+      "answer": "La arqueología confirma una importante ciudad antigua en Troya, pero los relatos homéricos de la guerra combinan posibles recuerdos históricos, mito, poesía y tradición posterior."
+    },
+    {
+      "question": "¿Quiénes fueron los principales filósofos griegos?",
+      "answer": "Sócrates, Platón y Aristóteles figuran entre los filósofos griegos más influyentes, aunque el pensamiento griego antiguo incluyó muchas otras escuelas y figuras."
+    },
+    {
+      "question": "¿Qué acabó con el poder independiente de las ciudades-Estado griegas?",
+      "answer": "El predominio macedonio tras Filipo II y Alejandro redujo su independencia, y las victorias romanas sometieron después a Grecia al dominio de Roma."
+    },
+    {
+      "question": "¿Por qué sigue importando la antigua Grecia?",
+      "answer": "La antigua Grecia influyó en la filosofía, el lenguaje político, el teatro, las matemáticas, la medicina, la arquitectura, la escritura de la historia y los debates posteriores sobre razón, evidencia y ciudadanía."
+    }
+  ]
+}

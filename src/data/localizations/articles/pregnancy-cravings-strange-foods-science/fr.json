@@ -1,0 +1,498 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/pregnancy-cravings-strange-foods-science/",
+  "path": "/fr/articles/pregnancy-cravings-strange-foods-science/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "ENVIES DE GROSSESSE : POURQUOI DÉSIRE-T-ON SOUDAIN DES ALIMENTS ÉTRANGES ?",
+  "excerpt": "Des aversions soudaines aux cornichons et à la glace, les envies de grossesse sont plus complexes qu’un message du bébé. Voici ce que montrent les recherches.",
+  "headlineHighlights": {
+    "red": "ENVIES DE GROSSESSE",
+    "gold": "ALIMENTS ÉTRANGES"
+  },
+  "seoTitle": "Envies de grossesse : pourquoi ces aliments étranges ?",
+  "description": "D’où viennent les envies de grossesse ? Hormones, aversions, culture et pica : ce que les envies signifient et quand demander un avis médical.",
+  "keywords": [
+    "envies de grossesse",
+    "envies alimentaires grossesse",
+    "aversions alimentaires grossesse",
+    "pica grossesse",
+    "envie de glaçons enceinte"
+  ],
+  "searchIntent": "Comprendre les envies et aversions de grossesse, distinguer mythes nutritionnels et preuves, reconnaître le pica et les situations nécessitant un avis médical.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-20",
+  "updatedAt": "2026-09-20",
+  "image": {
+    "src": "/articles/pregnace-cravings-weird-strange-food-night-pregnant-women.png",
+    "alt": "Illustration artistique d’une femme enceinte tenant un cornichon et une glace devant un réfrigérateur ouvert la nuit"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "À un moment ordinaire de la journée, un aliment ordinaire peut prendre une importance inhabituelle. Une pomme croquante, un biscuit salé ou une saveur très acidulée semblent soudain être la seule chose qui vaille la peine d’être mangée. Dans le même temps, l’odeur d’un café apprécié devient parfois insupportable. La grossesse peut rendre l’appétit méconnaissable, même lorsque les aliments restent familiers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les envies de grossesse sont des désirs intenses d’aliments particuliers. Elles sont bien réelles, mais leur signification est moins simple que l’idée familière d’un bébé commandant ce dont il a besoin. Les recherches pointent une combinaison de sensations physiques changeantes, de nausées, de récompense, d’expérience personnelle et d’attentes culturelles. Aucun mécanisme unique n’explique chaque envie, et une association inhabituelle n’est pas un diagnostic nutritionnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinction la plus utile sépare l’envie d’un aliment ordinaire, l’incapacité à tolérer suffisamment de nourriture ou de boissons et le désir de substances non alimentaires. Ces situations demandent des réponses différentes. Avoir envie de glace ne revient pas à vouloir régulièrement manger de la terre."
+    },
+    {
+      "type": "heading",
+      "text": "QUE SONT LES ENVIES DE GROSSESSE ET QUAND COMMENCENT-ELLES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La faim est une motivation générale à manger. Une envie est plus précise : d’autres aliments peuvent être disponibles sans sembler satisfaire ce désir. L’aversion alimentaire est l’expérience inverse, lorsqu’un aliment devient désagréable ou difficile à envisager. Envies et aversions peuvent coexister."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une revue très citée de Natalia Orloff et Julia Hormes, publiée en 2014, décrit des envies apparaissant souvent avant la fin du premier trimestre ; de nombreux témoignages suggèrent un pic au deuxième trimestre, puis une diminution. C’est une tendance de la littérature, pas un calendrier suivi par chaque grossesse. La revue souligne aussi combien les explications populaires restent insuffisamment étayées. [Orloff et Hormes (2014) : cornichons et glace, les envies alimentaires pendant la grossesse](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le calendrier des nausées ne doit pas être confondu avec celui des envies. Selon l’ACOG, les nausées et vomissements de grossesse commencent généralement avant neuf semaines et peuvent survenir à toute heure. Rechercher un aliment tolérable quand on est nauséeuse n’est pas nécessairement le même phénomène qu’une envie intense lorsqu’on se sent par ailleurs bien. [ACOG : nausées et vomissements de la grossesse](https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy)"
+    },
+    {
+      "type": "heading",
+      "text": "SONT-ELLES FRÉQUENTES ? POURQUOI UN POURCENTAGE UNIQUE TROMPE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une cohorte de Belfast publiée par Hill et ses collègues en 2016, 635 femmes sur 1 639, soit 39 %, ont rapporté au moins une envie alimentaire lorsqu’elles ont été interrogées vers 29 semaines sur leur grossesse. Les aliments sucrés, les fruits et les produits laitiers occupaient une place importante. Il s’agissait d’une population particulière, majoritairement blanche, pas d’une estimation mondiale. [Hill et ses collègues (2016) : associations nutritionnelles et cliniques des envies de grossesse](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce chiffre compte notamment parce qu’il est inférieur à certaines affirmations souvent répétées. La revue de 2014 cite d’anciennes estimations américaines allant de 50 % à 90 %. Ces chiffres ne constituent pas une prévalence mondiale actuelle. Les questions, les définitions, le recrutement et le moment de la grossesse où l’on interroge peuvent changer la réponse. [Orloff et Hormes (2014) : cornichons et glace, les envies alimentaires pendant la grossesse](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une présentation rigoureuse indique donc que les envies alimentaires sont courantes pendant la grossesse, mais que leur fréquence mesurée varie. Elle ne doit pas laisser croire que tout le monde en a, qu’une personne sans envies manque une étape nécessaire ou qu’une collection de désirs spectaculaires sur les réseaux sociaux représente la grossesse ordinaire."
+    },
+    {
+      "type": "heading",
+      "text": "HORMONES, GOÛT ET ODORAT : UNE HISTOIRE PLUS COMPLEXE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un goût métallique, de nouveaux dégoûts et une sensibilité aux odeurs de cuisine sont des expériences de grossesse reconnues dans les informations du NHS. Mais remarquer davantage une odeur, la trouver plus désagréable et la détecter à une concentration plus faible sont trois choses différentes. Une odeur peut devenir extrêmement gênante sans que le nez détecte mieux toutes les odeurs. [NHS : signes et symptômes de grossesse](https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une revue systématique de l’olfaction publiée en 2022 a inclus 13 études, dont neuf dans la méta-analyse, portant au total sur 523 participantes enceintes et 365 témoins. Elle n’a trouvé aucune différence globale significative des seuils de détection ni de la discrimination des odeurs, tandis que les participantes enceintes réussissaient moins bien leur identification. Ces études n’ont pas établi l’existence d’un « super-odorat » général pendant la grossesse. [Albaugh et ses collègues (2022) : olfaction pendant la grossesse, revue systématique et méta-analyse](https://pubmed.ncbi.nlm.nih.gov/36469055/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela ne rend pas imaginaire l’odeur de cuisine soudain insupportable. Les tests d’identification, de détection et l’intolérance quotidienne posent des questions différentes. Les données limitées et variées de cette revue n’excluent pas non plus des changements individuels. Elles invitent à décrire précisément l’expérience plutôt qu’à en faire une règle biologique exagérée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les explications hormonales sont mieux étayées pour certains symptômes de grossesse que pour des choix alimentaires précis. Une recherche publiée en ligne dans Nature en 2023 a relié l’hormone GDF15, provenant largement de l’unité fœto-placentaire pendant la grossesse, aux nausées et vomissements maternels. Elle associait données humaines et expérimentales et soulignait l’importance de la sensibilité maternelle et de l’exposition antérieure. [Fejzo et ses collègues (en ligne en 2023) : GDF15 et risque maternel de nausées et vomissements](https://www.nature.com/articles/s41586-023-06921-9)"
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est une avancée importante dans la compréhension des nausées de grossesse. Elle ne montre pas que GDF15 commande des cornichons, que les œstrogènes expliquent chaque envie de chocolat ou qu’une envie révèle un taux hormonal précis. Passer d’un mécanisme de nausée à l’explication d’un aliment choisi nécessite d’autres preuves."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’odorat acquiert aussi du sens par l’expérience. Une senteur familière peut évoquer le plaisir dans un contexte et l’inconfort dans un autre. Notre [histoire du parfum et des odeurs](/articles/history-of-perfume-scent-beauty-power-luxury/) explore ce lien plus large entre sensation et signification ; la recherche sur la grossesse doit encore établir ses propres mécanismes spécifiques."
+    },
+    {
+      "type": "heading",
+      "text": "NAUSÉES, APPÉTIT ET AVERSIONS ALIMENTAIRES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque de nombreux aliments déplaisent, les rares aliments acceptables peuvent dominer l’alimentation. Une personne incapable d’envisager un plat chaud peut tolérer des fruits froids. Une autre, nauséeuse face aux odeurs de cuisine riche, peut préférer du pain grillé nature. C’est une interprétation pratique de choix restreints, pas la preuve que toutes les envies sont causées par les nausées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le NHS suggère des repas petits et fréquents, des aliments simples et des plats froids lorsque l’odeur des repas chauds aggrave les nausées. Boire par petites gorgées peut être plus facile que de boire beaucoup d’un coup. Ces mesures visent la tolérance ; elles n’obligent pas à affronter une maladie sévère sans traitement. [NHS : vomissements et nausées de grossesse](https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les aversions peuvent aussi rendre difficile la consommation d’un aliment autrement utile. L’objectif est de trouver des façons tolérables de couvrir les besoins nutritionnels, pas d’imposer un plat supposé indispensable. Un médecin ou un diététicien peut aider si l’éventail des aliments devient très étroit ou si les symptômes gênent l’alimentation. La nutrition pendant la grossesse concerne l’ensemble des habitudes et les besoins individuels, pas la réussite à manger chaque jour tous les aliments recommandés. [NIH, Office of Dietary Supplements : grossesse, fiche destinée aux professionnels de santé](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/) [NHS : une alimentation équilibrée pendant la grossesse](https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le café est un exemple familier d’aliment dont l’attrait est personnel et changeant. Sa place dans la vie quotidienne, explorée dans [notre histoire du café](/articles/real-history-of-coffee/), ne rend pas sa consommation obligatoire. On peut simplement s’adapter à un nouveau dégoût ; si l’on continue à en boire, il faut prendre en compte l’apport total de caféine."
+    },
+    {
+      "type": "heading",
+      "text": "SUCRÉ, SALÉ, ACIDE : LA RÉCOMPENSE AIDE-T-ELLE À COMPRENDRE L’ENVIE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vouloir un aliment ne concerne pas seulement la langue. Motivation et récompense contribuent à rendre une option particulièrement désirable. Dans une étude de Nature Metabolism de 2022, des chercheurs ont relié des comportements apparentés aux envies alimentaires chez des souris gestantes à des circuits dopaminergiques du noyau accumbens. Cela fournit un mécanisme à étudier, mais les souris ne peuvent pas raconter une envie humaine, et l’expérience n’établit pas pourquoi une personne enceinte désire un repas précis. [Haddad-Tóvolli et ses collègues (2022) : comportements apparentés aux envies alimentaires et circuits dopaminergiques chez des souris gestantes](https://www.nature.com/articles/s42255-022-00557-1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expérience humaine inclut aussi l’humeur, les routines et les signaux alimentaires. Une étude qualitative de 2020 a réuni huit groupes de discussion avec 68 femmes enceintes suivies à l’université de Caroline du Nord à Chapel Hill. Elles ont décrit leurs envies, leurs déclencheurs apparents et leurs façons de les gérer. Ces entretiens révèlent des significations et des expériences absentes d’un tableau nutritionnel, mais ne prouvent ni les causes des envies ni la meilleure stratégie pour y répondre. [Blau et ses collègues (2020) : vécu et compréhension des envies alimentaires chez les femmes enceintes](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude observationnelle publiée en 2021 associait une moins bonne santé mentale et une moindre qualité de sommeil à davantage d’alimentation liée à la récompense déclarée pendant la grossesse et après l’accouchement. Une association n’établit pas que le stress ou le manque de sommeil cause une envie particulière. Elle suggère néanmoins de considérer l’appétit dans le contexte de vie global, plutôt que comme un simple test de volonté. [Étude de cohorte observationnelle (2021) : santé mentale, sommeil et alimentation liée à la récompense pendant la grossesse et après l’accouchement](https://pmc.ncbi.nlm.nih.gov/articles/PMC8088672/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe pas de grille validée où le sucré signifierait une carence, le salé une autre et l’acide une troisième. Il n’existe pas non plus d’explication scientifique fiable pour chaque association étrange d’aliments. Une préférence peut être frappante sans être un message codé que la médecine saurait déchiffrer."
+    },
+    {
+      "type": "heading",
+      "text": "VOTRE CORPS SAIT-IL VRAIMENT CE DONT LE BÉBÉ A BESOIN ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La grossesse augmente les besoins en plusieurs nutriments. Ce fait biologique ne prouve pas que les envies identifient ce qui manque. Les recommandations des NIH décrivent les besoins nutritionnels et les rôles de l’alimentation et des compléments ; elles ne font pas du désir d’un aliment un test diagnostique. [NIH, Office of Dietary Supplements : grossesse, fiche destinée aux professionnels de santé](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les recommandations nutritionnelles du Northern Sydney Local Health District contestent explicitement l’idée que les envies indiquent les besoins du bébé. Une envie de chocolat ne dit pas au médecin si l’apport de magnésium est suffisant, et une envie de collation salée ne mesure pas les besoins en sodium. Si l’on soupçonne une carence, la démarche rigoureuse est une évaluation, pas la lecture de l’envie comme un résultat de laboratoire. [Northern Sydney Local Health District (2016) : alimentation pendant la grossesse, faits et mythes](https://www.nslhd.health.nsw.gov.au/HealthPromotion/documents/142410-GHS-Fact-Sheet-Healthy-Eating-During-Pregnancy-online.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude de Belfast a examiné les envies déclarées avec les apports alimentaires et des mesures cliniques. Ce dispositif aide à explorer des associations, mais ne peut pas démontrer un mécanisme de recherche de nutriments. Une personne peut consommer davantage d’un nutriment parce que l’aliment désiré en contient ; cela ne prouve pas qu’une carence ait provoqué ce désir. [Hill et ses collègues (2016) : associations nutritionnelles et cliniques des envies de grossesse](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les conseils nutritionnels pratiques doivent donc rester indépendants des envies. Suivez les recommandations locales de supplémentation prénatale et toute prescription personnelle. Le NHS recommande par exemple l’acide folique et la vitamine D dans ses conseils de grossesse, et un traitement par fer lorsque l’évaluation le justifie. N’ajoutez pas de compléments fortement dosés simplement parce qu’un tableau en ligne associe un nutriment à votre collation préférée. [NHS : vitamines, compléments et nutrition pendant la grossesse](https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le pica apporte une nuance importante. La consommation de certaines substances non alimentaires est associée à un manque de fer ou à d’autres problèmes nutritionnels. Cette association mérite une attention médicale, mais ne signifie toujours pas que chaque désir inhabituel constitue une instruction exacte du corps."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LES ENVIES VARIENT-ELLES SELON LES CULTURES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’image classique des cornichons et de la glace est culturellement familière, pas un menu universel de grossesse. Dans une recherche de 2009 menée dans deux établissements de santé de Dar es Salaam, en Tanzanie, les participantes citaient notamment viande, mangues, yaourt, oranges et banane plantain. L’échantillon comprenait des femmes enceintes et allaitantes ; il ne représente pas un pays entier. [Nyaruhucha (2009) : envies, aversions alimentaires et pica chez les femmes enceintes à Dar es Salaam](https://pubmed.ncbi.nlm.nih.gov/19445102/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les travaux bioculturels de Young et Pike de 2012 auprès de femmes de sociétés pastorales d’Afrique de l’Est replacent envies et aversions dans l’accès à l’alimentation, les relations sociales et les circonstances locales. Ce qu’une personne souhaite, ce qu’elle peut obtenir et ce que les autres jugent approprié ne coïncident pas nécessairement. Une préférence existe dans un environnement alimentaire. [Young et Pike (2012) : cadre bioculturel des envies et aversions maternelles en Afrique de l’Est](https://experts.arizona.edu/en/publications/a-biocultural-framework-for-examining-maternal-cravings-and-avers/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La culture participe ainsi à l’explication sans rendre l’expérience irréelle. Les personnes rencontrent des ingrédients différents, apprennent des associations différentes et n’ont pas les mêmes possibilités de satisfaire leur désir. Les récits familiaux peuvent aussi fournir des mots pour une sensation inconnue. L’interaction entre ces influences et la biologie de la grossesse reste une question de recherche."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les envies étranges attirent l’attention parce qu’elles déjouent les attentes de l’observateur. Un fruit acide avec du sel paraît inhabituel dans un foyer et ordinaire dans un autre. Associer des saveurs familières n’est pas en soi une preuve de maladie. Il est plus utile de demander si les ingrédients et les quantités sont sans danger que si leur mélange plaît à quelqu’un d’autre."
+    },
+    {
+      "type": "heading",
+      "text": "LE PICA PENDANT LA GROSSESSE : GLAÇONS, ARGILE, TERRE ET AUTRES SUBSTANCES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le pica désigne la consommation persistante de substances qui ne sont normalement pas des aliments, comme la terre, l’argile ou le papier. Manger régulièrement des glaçons est souvent abordé dans ce cadre et appelé pagophagie. Une envie seule ne suffit pas à établir un diagnostic. MedlinePlus mentionne un comportement persistant pendant au moins un mois parmi les critères diagnostiques, mais une personne qui désire ou a consommé une substance potentiellement dangereuse ne doit pas attendre un mois pour demander conseil. [Encyclopédie médicale MedlinePlus : pica](https://medlineplus.gov/ency/article/001538.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une méta-analyse publiée dans un numéro de revue de 2015 a regroupé 43 études, avec 6 407 personnes rapportant un pica et 10 277 témoins. Le pica était associé à l’anémie et à des mesures plus faibles de certains micronutriments. Les populations comprenaient enfants, femmes enceintes et autres adultes : il ne s’agit donc pas d’une estimation de fréquence limitée à la grossesse. L’analyse ne permettait pas de trancher entre une carence provoquant le pica, un pica favorisant la carence ou d’autres facteurs contribuant aux deux. [Miao et ses collègues (2015) : méta-analyse du pica et du statut en micronutriments](https://pubmed.ncbi.nlm.nih.gov/25156147/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le fer mérite une attention particulière : la grossesse augmente les besoins et la carence martiale est une association reconnue du pica. Mais ni une envie ni son absence ne remplacent une évaluation. Un professionnel peut examiner les symptômes, l’histoire alimentaire et les analyses sanguines adaptées, puis proposer un traitement selon les résultats. Prendre davantage de fer sans conseil n’est pas une expérience diagnostique sans risque. [NIH, Office of Dietary Supplements : fer, fiche destinée aux professionnels de santé](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La substance compte. La terre et l’argile peuvent exposer à des contaminants ou à des parasites ; certaines substances non alimentaires peuvent provoquer une intoxication ou une occlusion intestinale. MedlinePlus recommande une évaluation médicale plutôt que de traiter ce comportement comme une simple préférence bizarre. L’envie de manger des glaçons mérite elle aussi d’être discutée, même si ses risques diffèrent de ceux de la peinture ou de la terre avalées. [Encyclopédie médicale MedlinePlus : pica](https://medlineplus.gov/ency/article/001538.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une démarche utile consiste à dire clairement à l’équipe de maternité ce que l’on désire ou mange, à quelle fréquence et en quelle quantité. La honte complique cet échange ; elle ne rend pas l’information moins importante médicalement."
+    },
+    {
+      "type": "heading",
+      "text": "LES ENVIES RÉVÈLENT-ELLES LE SEXE DU BÉBÉ OU PROVOQUENT-ELLES UNE TACHE DE NAISSANCE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le sucré annonçant une fille et le salé un garçon relèvent du folklore, pas de tests fiables. Tommy’s classe la prédiction du sexe par les envies parmi les mythes. Une bonne supposition ne valide pas la règle : une famille peut retenir les succès apparents et oublier les grossesses qui la contredisent. [Tommy’s : dix mythes sur la grossesse](https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La croyance selon laquelle ignorer une envie pourrait marquer le bébé n’est pas davantage étayée. L’American Academy of Dermatology affirme explicitement que les taches de naissance ne sont pas causées par une envie de grossesse insatisfaite. Elles impliquent différents changements de pigmentation ou de vaisseaux sanguins, avec des causes variables. Refuser une collation particulière n’en est pas une cause connue. [American Academy of Dermatology : causes des taches de naissance](https://www.aad.org/public/diseases/a-z/birthmarks-causes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces récits peuvent être des traditions affectueuses, mais deviennent nuisibles lorsqu’ils créent de la culpabilité ou poussent à manger quelque chose de dangereux. On peut reconnaître une envie sans lui obéir, sans en déduire le sexe de l’enfant et sans y attribuer une tache de naissance."
+    },
+    {
+      "type": "heading",
+      "text": "GÉRER LES ENVIES SANS TRANSFORMER L’ALIMENTATION EN COMBAT"
+    },
+    {
+      "type": "paragraph",
+      "text": "Commencez par une alimentation variée compatible avec votre situation. Le NHS met l’accent sur les différents groupes d’aliments et l’équilibre dans le temps, plutôt que sur une assiette parfaite à chaque repas. Une collation plaisante peut y trouver sa place. Restriction persistante et culpabilité ne sont pas des réponses nécessaires à une envie sucrée. [NHS : une alimentation équilibrée pendant la grossesse](https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Considérez ce qui est tolérable et pratique. Garder une collation acceptable à portée de main ou choisir une portion plus petite peuvent être des stratégies personnelles utiles. Les entretiens de l’université de Caroline du Nord décrivent plusieurs réponses aux envies, mais ne prouvent pas de solution universelle. L’objectif est une routine viable, pas la disparition de chaque désir. [Blau et ses collègues (2020) : vécu et compréhension des envies alimentaires chez les femmes enceintes](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Appliquez aux ingrédients les recommandations habituelles de sécurité alimentaire pendant la grossesse, quelle que soit leur association. Le NHS autorise les produits au lait pasteurisé, notamment la crème glacée, mais recommande d’éviter entre autres viande crue, coquillages crus et lait non pasteurisé. Lavez soigneusement les fruits et légumes et respectez les consignes de conservation. Une envie ne rend pas sûr un ingrédient dangereux. [NHS : aliments à éviter pendant la grossesse](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour la caféine, le NHS fixe un maximum de 200 mg par jour pendant la grossesse, toutes sources confondues et pas seulement le café. Il conseille aussi d’éviter l’alcool. Les recommandations alimentaires peuvent varier selon les pays, et certaines situations personnelles demandent des conseils supplémentaires : suivez donc ceux de votre propre équipe de maternité. [NHS : aliments à éviter pendant la grossesse](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si les nausées ou les restrictions alimentaires compliquent les choses, demandez de l’aide pour trouver des alternatives plutôt que d’essayer de tout résoudre par des compléments. Cela relève d’une prise en charge fondée sur les preuves : distinguer un récit plausible d’une réponse efficace, une distinction également explorée dans [notre histoire et avenir de la médecine](/articles/history-future-of-medicine/)."
+    },
+    {
+      "type": "heading",
+      "text": "QUAND DEMANDER UN AVIS MÉDICAL ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contactez votre sage-femme ou votre médecin en cas d’envies non alimentaires, de consommation répétée de glaçons, d’alimentation très restreinte ou d’envies provoquant une souffrance importante. Décrivez directement le comportement. Le but est d’évaluer la nutrition et les autres enjeux de santé, pas de juger si la préférence est socialement acceptable. [Encyclopédie médicale MedlinePlus : pica](https://medlineplus.gov/ency/article/001538.htm) [NIH, Office of Dietary Supplements : grossesse, fiche destinée aux professionnels de santé](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Demandez rapidement un avis médical si les vomissements empêchent de manger ou de boire suffisamment, ou devant des signes comme des urines très foncées, une diminution des urines, des vertiges, une sensation de malaise ou une perte de poids. Les vomissements sévères de grossesse peuvent déshydrater et nécessiter des médicaments ou une hospitalisation. Ils ne doivent pas être réduits à de simples envies ou à une incapacité à choisir le bon aliment. [NHS : vomissements et nausées de grossesse](https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si une personne a avalé une substance potentiellement toxique, contactez immédiatement le centre antipoison local ou les urgences médicales, même sans symptômes. Ne faites pas vomir. Cette situation est différente d’une discussion de routine sur une préférence alimentaire inoffensive. [NHS : intoxication](https://www.nhs.uk/conditions/poisoning/)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE LES SCIENTIFIQUES IGNORENT ENCORE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La principale incertitude concerne la façon dont les éléments s’articulent. Hormones, nausées, préférences apprises et processus de récompense sont des facteurs plausibles, mais une liste de facteurs n’est pas une explication complète. Il faut encore mieux distinguer une envie de la faim, d’un choix imposé par les aversions ou d’une préférence ordinaire devenue plus perceptible pendant la grossesse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une grande partie des données humaines repose sur les déclarations, parfois après l’expérience concernée. Les tests d’odorat en laboratoire ne reproduisent pas une cuisine entière, et une expérience chez la souris ne recrée pas le sens social d’un repas familial. Les recherches futures doivent relier observations répétées de la vie réelle et mesures physiologiques dans des populations plus diverses, sans supposer qu’un récit culturel est universel."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expérience peut être intense même si son mécanisme reste incertain. La respecter n’exige pas d’affirmer que le corps sait toujours ce dont le bébé a besoin. Il faut une combinaison plus utile : curiosité pour la biologie, place pour les différences personnelles et culturelles, et attention médicale lorsque l’alimentation devient dangereuse ou insuffisante."
+    },
+    {
+      "type": "heading",
+      "text": "SOURCES ET PRÉCISIONS SUR LES PREUVES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet article fournit des informations générales de santé, pas un diagnostic ni un traitement individuel. Il distingue recherches observationnelles humaines, entretiens qualitatifs, expériences animales et recommandations cliniques. Les années correspondent aux publications, avec indication de la publication en ligne lorsque c’est pertinent. Les estimations de population ne sont pas considérées comme interchangeables. L’image principale est une illustration artistique, pas une recommandation clinique ni une photographie documentaire. Aucune validation médicale individuelle n’est revendiquée."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Orloff et Hormes (2014) : cornichons et glace, les envies alimentaires pendant la grossesse](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hill et ses collègues (2016) : associations nutritionnelles et cliniques des envies de grossesse](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Albaugh et ses collègues (2022) : olfaction pendant la grossesse, revue systématique et méta-analyse](https://pubmed.ncbi.nlm.nih.gov/36469055/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fejzo et ses collègues (en ligne en 2023) : GDF15 et risque maternel de nausées et vomissements](https://www.nature.com/articles/s41586-023-06921-9)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[ACOG : nausées et vomissements de la grossesse](https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS : vomissements et nausées de grossesse](https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NIH, Office of Dietary Supplements : grossesse, fiche destinée aux professionnels de santé](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Northern Sydney Local Health District (2016) : alimentation pendant la grossesse, faits et mythes](https://www.nslhd.health.nsw.gov.au/HealthPromotion/documents/142410-GHS-Fact-Sheet-Healthy-Eating-During-Pregnancy-online.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Blau et ses collègues (2020) : vécu et compréhension des envies alimentaires chez les femmes enceintes](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Étude de cohorte observationnelle (2021) : santé mentale, sommeil et alimentation liée à la récompense pendant la grossesse et après l’accouchement](https://pmc.ncbi.nlm.nih.gov/articles/PMC8088672/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nyaruhucha (2009) : envies, aversions alimentaires et pica chez les femmes enceintes à Dar es Salaam](https://pubmed.ncbi.nlm.nih.gov/19445102/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Young et Pike (2012) : cadre bioculturel des envies et aversions maternelles en Afrique de l’Est](https://experts.arizona.edu/en/publications/a-biocultural-framework-for-examining-maternal-cravings-and-avers/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Haddad-Tóvolli et ses collègues (2022) : comportements apparentés aux envies alimentaires et circuits dopaminergiques chez des souris gestantes](https://www.nature.com/articles/s42255-022-00557-1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Encyclopédie médicale MedlinePlus : pica](https://medlineplus.gov/ency/article/001538.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Miao et ses collègues (2015) : méta-analyse du pica et du statut en micronutriments](https://pubmed.ncbi.nlm.nih.gov/25156147/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NIH, Office of Dietary Supplements : fer, fiche destinée aux professionnels de santé](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Tommy’s : dix mythes sur la grossesse](https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[American Academy of Dermatology : causes des taches de naissance](https://www.aad.org/public/diseases/a-z/birthmarks-causes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS : aliments à éviter pendant la grossesse](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS : une alimentation équilibrée pendant la grossesse](https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS : vitamines, compléments et nutrition pendant la grossesse](https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS : intoxication](https://www.nhs.uk/conditions/poisoning/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS : signes et symptômes de grossesse](https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Orloff et Hormes (2014) : cornichons et glace, les envies alimentaires pendant la grossesse",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full"
+    },
+    {
+      "label": "Hill et ses collègues (2016) : associations nutritionnelles et cliniques des envies de grossesse",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/"
+    },
+    {
+      "label": "Albaugh et ses collègues (2022) : olfaction pendant la grossesse, revue systématique et méta-analyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36469055/"
+    },
+    {
+      "label": "Fejzo et ses collègues (en ligne en 2023) : GDF15 et risque maternel de nausées et vomissements",
+      "url": "https://www.nature.com/articles/s41586-023-06921-9"
+    },
+    {
+      "label": "ACOG : nausées et vomissements de la grossesse",
+      "url": "https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy"
+    },
+    {
+      "label": "NHS : vomissements et nausées de grossesse",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/"
+    },
+    {
+      "label": "NIH, Office of Dietary Supplements : grossesse, fiche destinée aux professionnels de santé",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+    },
+    {
+      "label": "Northern Sydney Local Health District (2016) : alimentation pendant la grossesse, faits et mythes",
+      "url": "https://www.nslhd.health.nsw.gov.au/HealthPromotion/documents/142410-GHS-Fact-Sheet-Healthy-Eating-During-Pregnancy-online.pdf"
+    },
+    {
+      "label": "Blau et ses collègues (2020) : vécu et compréhension des envies alimentaires chez les femmes enceintes",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/"
+    },
+    {
+      "label": "Étude de cohorte observationnelle (2021) : santé mentale, sommeil et alimentation liée à la récompense pendant la grossesse et après l’accouchement",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8088672/"
+    },
+    {
+      "label": "Nyaruhucha (2009) : envies, aversions alimentaires et pica chez les femmes enceintes à Dar es Salaam",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19445102/"
+    },
+    {
+      "label": "Young et Pike (2012) : cadre bioculturel des envies et aversions maternelles en Afrique de l’Est",
+      "url": "https://experts.arizona.edu/en/publications/a-biocultural-framework-for-examining-maternal-cravings-and-avers/"
+    },
+    {
+      "label": "Haddad-Tóvolli et ses collègues (2022) : comportements apparentés aux envies alimentaires et circuits dopaminergiques chez des souris gestantes",
+      "url": "https://www.nature.com/articles/s42255-022-00557-1"
+    },
+    {
+      "label": "Encyclopédie médicale MedlinePlus : pica",
+      "url": "https://medlineplus.gov/ency/article/001538.htm"
+    },
+    {
+      "label": "Miao et ses collègues (2015) : méta-analyse du pica et du statut en micronutriments",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25156147/"
+    },
+    {
+      "label": "NIH, Office of Dietary Supplements : fer, fiche destinée aux professionnels de santé",
+      "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    },
+    {
+      "label": "Tommy’s : dix mythes sur la grossesse",
+      "url": "https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths"
+    },
+    {
+      "label": "American Academy of Dermatology : causes des taches de naissance",
+      "url": "https://www.aad.org/public/diseases/a-z/birthmarks-causes"
+    },
+    {
+      "label": "NHS : aliments à éviter pendant la grossesse",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+    },
+    {
+      "label": "NHS : une alimentation équilibrée pendant la grossesse",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/"
+    },
+    {
+      "label": "NHS : vitamines, compléments et nutrition pendant la grossesse",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/"
+    },
+    {
+      "label": "NHS : intoxication",
+      "url": "https://www.nhs.uk/conditions/poisoning/"
+    },
+    {
+      "label": "NHS : signes et symptômes de grossesse",
+      "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "De quoi parle cet article de PRESDA ?",
+      "answer": "Des aversions soudaines aux cornichons et à la glace, les envies de grossesse sont plus complexes qu’un message du bébé. Voici ce que montrent les recherches."
+    },
+    {
+      "question": "À quelle rubrique appartient cet article ?",
+      "answer": "Cet article appartient à la rubrique Science de PRESDA."
+    },
+    {
+      "question": "Qui a publié cet article ?",
+      "answer": "L’article « ENVIES DE GROSSESSE : POURQUOI DÉSIRE-T-ON SOUDAIN DES ALIMENTS ÉTRANGES ? » a été publié par PRESDA Editorial sur PRESDA."
+    }
+  ]
+}

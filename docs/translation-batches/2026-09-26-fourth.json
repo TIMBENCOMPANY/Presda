@@ -1,0 +1,340 @@
+{
+  "period": {
+    "start": "2026-08-26",
+    "end": "2026-09-23"
+  },
+  "source": "Google Search Console sc-domain:presda.com",
+  "method": "Untranslated canonical English articles ranked by clicks then impressions",
+  "articles": [
+    {
+      "priority": 1,
+      "slug": "new-7-wonders-of-the-world-history-travel-guide",
+      "title": "THE NEW 7 WONDERS OF THE WORLD: THE STORIES BEHIND EARTH’S GREATEST LANDMARKS",
+      "englishPath": "/articles/new-7-wonders-of-the-world-history-travel-guide/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 2,
+      "slug": "achraf-hakimi-king-of-africa",
+      "title": "Achraf Hakimi Trophies, Career And Morocco Legacy In 2026",
+      "englishPath": "/articles/achraf-hakimi-king-of-africa/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 3,
+      "slug": "history-of-alcohol-beer-wine-spirits",
+      "title": "ALCOHOL: 10,000-YEAR HISTORY OF HUMANITY’S FAVORITE DRINK",
+      "englishPath": "/articles/history-of-alcohol-beer-wine-spirits/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 4,
+      "slug": "history-of-money-gold-paper-digital",
+      "title": "MONEY: HOW PAPER, GOLD AND NUMBERS CAME TO RULE THE WORLD",
+      "englishPath": "/articles/history-of-money-gold-paper-digital/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 5,
+      "slug": "history-of-the-vikings",
+      "title": "THE VIKINGS: RAIDERS, EXPLORERS AND THE WORLD BEYOND THE LEGEND",
+      "englishPath": "/articles/history-of-the-vikings/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 6,
+      "slug": "ancient-greece-civilization-history",
+      "title": "ANCIENT GREECE: THE CIVILIZATION THAT CHANGED HOW WE THINK",
+      "englishPath": "/articles/ancient-greece-civilization-history/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 7,
+      "slug": "british-empire-history-rise-fall-global-legacy",
+      "title": "BRITISH EMPIRE: HOW A SMALL ISLAND BUILT THE LARGEST EMPIRE IN HISTORY",
+      "englishPath": "/articles/british-empire-history-rise-fall-global-legacy/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 8,
+      "slug": "gta6-trailer-culture-shift",
+      "title": "GTA VI: Why The Biggest Game Of A Generation Became A Cultural Phenomenon",
+      "englishPath": "/articles/gta6-trailer-culture-shift/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 9,
+      "slug": "pablo-escobar-medellin-cartel-wealth-rise-fall",
+      "title": "PABLO ESCOBAR: HOW A DRUG EMPIRE MADE ONE MAN RICH ENOUGH TO CHALLENGE A STATE",
+      "englishPath": "/articles/pablo-escobar-medellin-cartel-wealth-rise-fall/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 10,
+      "slug": "horse-history-human-civilization",
+      "title": "THE HORSE: THE ANIMAL THAT CHANGED HUMAN HISTORY",
+      "englishPath": "/articles/horse-history-human-civilization/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 11,
+      "slug": "illuminati-secret-society-real-history-myth",
+      "title": "THE ILLUMINATI: THE SECRET SOCIETY THAT ACTUALLY EXISTED",
+      "englishPath": "/articles/illuminati-secret-society-real-history-myth/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 12,
+      "slug": "mali-empire-mansa-musa-gold-pilgrimage-history",
+      "title": "MALI EMPIRE: HOW MANSA MUSA BUILT ONE OF AFRICA’S RICHEST KINGDOMS",
+      "englishPath": "/articles/mali-empire-mansa-musa-gold-pilgrimage-history/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 13,
+      "slug": "umayyad-caliphate-damascus-expansion-rise-fall",
+      "title": "UMAYYAD CALIPHATE: HOW ONE DYNASTY BUILT AN EMPIRE FROM SPAIN TO CENTRAL ASIA",
+      "englishPath": "/articles/umayyad-caliphate-damascus-expansion-rise-fall/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 14,
+      "slug": "abbasid-caliphate-baghdad-islamic-golden-age",
+      "title": "ABBASID CALIPHATE: WHEN BAGHDAD BECAME THE CENTER OF THE WORLD",
+      "englishPath": "/articles/abbasid-caliphate-baghdad-islamic-golden-age/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 15,
+      "slug": "lonely-genius-great-minds-solitude-creativity",
+      "title": "THE LONELY GENIUS: WHY HISTORY'S GREATEST MINDS OFTEN LIVED DIFFERENTLY",
+      "englishPath": "/articles/lonely-genius-great-minds-solitude-creativity/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 16,
+      "slug": "real-history-of-coffee",
+      "title": "THE REAL HISTORY OF COFFEE: FROM ETHIOPIA TO THE WORLD",
+      "englishPath": "/articles/real-history-of-coffee/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 17,
+      "slug": "titanic-what-really-happened",
+      "title": "TITANIC: WHAT REALLY HAPPENED THAT NIGHT?",
+      "englishPath": "/articles/titanic-what-really-happened/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 18,
+      "slug": "happiest-countries-in-the-world-2026",
+      "title": "THE HAPPIEST COUNTRIES IN THE WORLD - AND WHY THEY KEEP WINNING",
+      "englishPath": "/articles/happiest-countries-in-the-world-2026/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 19,
+      "slug": "kobe-bryant-mamba-mentality-life-legacy",
+      "title": "KOBE BRYANT: MAMBA MENTALITY - THE LIFE AND LEGACY OF AN NBA ICON",
+      "englishPath": "/articles/kobe-bryant-mamba-mentality-life-legacy/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 20,
+      "slug": "diego-maradona-genius-napoli-life-death-legacy",
+      "title": "DIEGO MARADONA: THE GENIUS, THE MADNESS AND THE TRAGIC END OF A FOOTBALL GOD",
+      "englishPath": "/articles/diego-maradona-genius-napoli-life-death-legacy/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 21,
+      "slug": "endless-scrolling-phone-attention-sleep-science",
+      "title": "YOUR PHONE IS STEALING YOUR ATTENTION: THE SCIENCE OF ENDLESS SCROLLING",
+      "englishPath": "/articles/endless-scrolling-phone-attention-sleep-science/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 22,
+      "slug": "hachiko-why-dogs-loyal-to-humans",
+      "title": "HACHIKŌ'S STORY MAKES US WONDER: WHY DO DOGS STAY LOYAL TO HUMANS?",
+      "englishPath": "/articles/hachiko-why-dogs-loyal-to-humans/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 23,
+      "slug": "history-of-perfume-scent-beauty-power-luxury",
+      "title": "PERFUME: HOW SCENT BECAME A SYMBOL OF BEAUTY, POWER AND LUXURY",
+      "englishPath": "/articles/history-of-perfume-scent-beauty-power-luxury/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 24,
+      "slug": "sarco-capsule-assisted-dying-switzerland",
+      "title": "SARCO: THE CAPSULE THAT CHANGED THE DEBATE OVER ASSISTED DYING IN SWITZERLAND",
+      "englishPath": "/articles/sarco-capsule-assisted-dying-switzerland/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 25,
+      "slug": "avicii-life-music-death-tim-bergling",
+      "title": "Avicii: The Life, Music and Tragic Death of an EDM Legend",
+      "englishPath": "/articles/avicii-life-music-death-tim-bergling/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 26,
+      "slug": "inca-empire-andes-machu-picchu-rise-fall",
+      "title": "INCA EMPIRE: HOW A CIVILIZATION IN THE ANDES BUILT A WORLD ABOVE THE CLOUDS",
+      "englishPath": "/articles/inca-empire-andes-machu-picchu-rise-fall/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 27,
+      "slug": "pregnancy-cravings-strange-foods-science",
+      "title": "PREGNANCY CRAVINGS: WHY DOES THE BODY SUDDENLY WANT STRANGE FOODS?",
+      "englishPath": "/articles/pregnancy-cravings-strange-foods-science/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 28,
+      "slug": "brain-to-voice-ai-speech-brain-computer-interfaces",
+      "title": "BRAIN TO VOICE: HOW AI IS GIVING SPEECH BACK TO PEOPLE WHO CANNOT TALK",
+      "englishPath": "/articles/brain-to-voice-ai-speech-brain-computer-interfaces/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 29,
+      "slug": "phoenicians-history-sailors-alphabet-tyrian-purple",
+      "title": "PHOENICIANS: THE MASTER SAILORS WHO CONNECTED THE ANCIENT WORLD",
+      "englishPath": "/articles/phoenicians-history-sailors-alphabet-tyrian-purple/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 30,
+      "slug": "area-51-aliens-myth-reality-secret-aircraft",
+      "title": "AREA 51 AND ALIENS: WHAT IS THE U.S. REALLY HIDING IN THE DESERT?",
+      "englishPath": "/articles/area-51-aliens-myth-reality-secret-aircraft/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    }
+  ]
+}

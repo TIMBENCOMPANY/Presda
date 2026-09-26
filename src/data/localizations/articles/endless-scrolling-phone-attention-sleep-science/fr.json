@@ -1,0 +1,542 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/endless-scrolling-phone-attention-sleep-science/",
+  "path": "/fr/articles/endless-scrolling-phone-attention-sleep-science/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "VOTRE TÉLÉPHONE CAPTE VOTRE ATTENTION : LA SCIENCE DU DÉFILEMENT SANS FIN",
+  "excerpt": "Une notification devient une heure. Découvrez ce que la recherche dit du défilement, du sommeil, de l’attention et des relations, puis testez sept jours d’usage plus volontaire du téléphone.",
+  "headlineHighlights": {
+    "red": "VOTRE TÉLÉPHONE",
+    "gold": "DÉFILEMENT SANS FIN"
+  },
+  "seoTitle": "Défilement sans fin : téléphone, attention et sommeil",
+  "description": "Que dit la science du défilement sans fin, de la dopamine, du sommeil et de l’attention ? Découvrez les expériences sur le temps d’écran et leurs limites.",
+  "keywords": [
+    "défilement sans fin",
+    "smartphone attention sommeil",
+    "scroll infini dopamine",
+    "réduire temps écran",
+    "procrastination du coucher"
+  ],
+  "searchIntent": "Comprendre les effets étudiés du défilement sur l’attention et le sommeil, distinguer corrélation et causalité et tester un usage plus volontaire du téléphone.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-16",
+  "updatedAt": "2026-09-16",
+  "image": {
+    "src": "/images/articles/endless-scrolling-family-phone-addiction.webp",
+    "alt": "Illustration éditoriale d’une famille assise ensemble, chacun absorbé séparément par un téléphone ou une tablette"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Vous regardez une notification avant de dormir. Une vidéo en devient vingt. Soudain, une heure a passé. La pièce est calme, le réveil de demain n’a pas changé et le téléphone propose toujours quelque chose de nouveau."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le défilement sans fin peut donner l’impression d’un petit échec de volonté. Une explication plus utile part de l’interaction entre une personne et une interface : un fil sans fin évidente, des contenus d’intérêt imprévisible, des habitudes de consultation et un appareil qui nous accompagne presque partout. Notre attention devient disponible pour la prochaine interruption avant que nous ayons décidé où la porter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais la science ne soutient pas l’idée que les smartphones détruisent durablement le cerveau de tout le monde. La recherche distingue la distraction immédiate, les usages associés à un sommeil ou à une humeur moins bons et les effets démontrés expérimentalement. Ce sont des preuves de nature différente. Comprendre ces différences aide à changer ce qui gêne réellement."
+    },
+    {
+      "type": "paragraph",
+      "text": "*À propos de l’image : le visuel principal est une illustration éditoriale d’une famille utilisant des écrans, pas une évaluation clinique ni la preuve d’une addiction chez les personnes représentées.*"
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI EST-IL DIFFICILE DE S’ARRÊTER APRÈS UNE VIDÉO ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un chapitre se termine. Un journal a une dernière page. Un fil infini charge de nouveaux contenus à mesure qu’on avance. La lecture automatique peut même supprimer la décision de lancer la vidéo suivante. S’arrêter reste possible, mais l’interface offre moins de moments où cela devient l’action suivante évidente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des chercheurs étudiant les « frictions » des interfaces ont testé des façons d’interrompre cette progression fluide. Une petite étude comparant le défilement infini à un dispositif exigeant une réaction avant de continuer a observé un compromis entre diminution de l’usage machinal et satisfaction des utilisateurs. Elle ne montre pas que tous les fils sont nocifs ; elle montre pourquoi leur conception doit être discutée autant que la maîtrise de soi. [Design Frictions on Social Media : recherches de l’université d’Aarhus](https://pure.au.dk/portal/en/publications/design-frictions-on-social-media-balancing-reduced-mindless-scrol/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Le prochain contenu sera peut-être meilleur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Toutes les publications ne sont pas intéressantes. Cette incertitude peut elle-même entretenir la consultation : la prochaine vidéo sera peut-être drôle, utile, rassurante ou surprenante. Les « récompenses variables » désignent ce bénéfice irrégulier. C’est un mécanisme d’apprentissage plausible, pas la preuve que le défilement est neurologiquement identique aux jeux d’argent ou que toutes les plateformes utilisent le même rythme de renforcement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude de *Nature Communications* a combiné des données de réseaux sociaux et une expérience modifiant le nombre de mentions « J’aime » reçues. Le comportement de publication répondait aux récompenses sociales d’une manière compatible avec les modèles d’apprentissage par la récompense. Ces expériences portaient sur la publication et les réactions ; elles ne mesuraient pas la dopamine à chaque glissement dans un fil de vidéos sans fin. [L’engagement sur les réseaux sociaux expliqué par un modèle d’apprentissage de la récompense](https://www.nature.com/articles/s41467-020-19607-x)"
+    },
+    {
+      "type": "subheading",
+      "text": "Quand un choix devient une habitude de consultation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une pause dans une conversation, un paragraphe difficile ou la vue du téléphone peuvent servir de déclencheurs. Le déverrouiller fournit une activité immédiate. La répétition peut rendre cette séquence si familière que l’intention initiale, vérifier la météo par exemple, se perd après l’ouverture de l’application."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des recherches comparant l’usage enregistré du smartphone aux estimations des personnes ont montré que celles-ci peuvent mal percevoir leur fréquence de consultation. C’est pourquoi le journal d’utilisation peut révéler ce que la mémoire oublie. Il faut néanmoins l’interpréter : navigation, travail, appels vidéo et défilement nocturne subi ne sont pas des activités interchangeables. [Au-delà des déclarations : comparer usage estimé et usage réel du smartphone](https://pmc.ncbi.nlm.nih.gov/articles/PMC4625000/)"
+    },
+    {
+      "type": "heading",
+      "text": "LA DOPAMINE EST-ELLE VRAIMENT LE PROBLÈME ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La dopamine est un messager chimique intervenant dans plusieurs fonctions, notamment le mouvement, la motivation et l’apprentissage. Un résultat important des recherches sur la récompense est que certains signaux dopaminergiques reflètent l’écart entre un résultat attendu et ce qui survient réellement. Un résultat meilleur que prévu peut modifier ce que le cerveau apprend à rechercher."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est plus subtil que de présenter la dopamine comme une substance du plaisir distribuée par le téléphone. Un signal participant à l’apprentissage ne constitue pas un diagnostic d’addiction. Les chercheurs ne peuvent pas non plus déduire l’ampleur ou le moment de la réponse dopaminergique d’une personne en comptant simplement ses vidéos. [Wolfram Schultz : signal dopaminergique d’erreur de prédiction de la récompense](https://pmc.ncbi.nlm.nih.gov/articles/PMC5549862/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La récompense comprend aussi des processus distincts : apprécier une expérience, vouloir la rechercher et apprendre les indices qui l’annoncent. Ces processus peuvent interagir sans être identiques. Cela aide à comprendre pourquoi continuer de consulter quelque chose ne signifie pas que chaque instant procure du plaisir. [Berridge, Robinson et Aldridge : plaisir, désir et apprentissage](https://www.sciencedirect.com/science/article/pii/S1471489208002129)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’objectif pratique est donc de modifier un comportement, pas d’éliminer l’activité normale de la dopamine. Un week-end sans réseaux sociaux ne prouve pas qu’un réservoir chimique épuisé s’est rempli. La « détox dopamine » est une expression populaire, pas une description précise des neurosciences. La question utile est de savoir quels déclencheurs vous ramènent et si l’activité répond encore à la raison pour laquelle vous l’avez ouverte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les circuits de la récompense participent aussi à des expériences appréciées, comme la musique. Notre article sur [la musique, le rythme et le cerveau](/articles/house-music-brain-rhythm-128-bpm-science-dancing/) montre pourquoi invoquer cette biologie ne suffit pas à déterminer si une activité est bénéfique ou nocive."
+    },
+    {
+      "type": "heading",
+      "text": "LE TÉLÉPHONE DÉTRUIT-IL VRAIMENT VOTRE ATTENTION ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Une distraction aujourd’hui ne prouve pas une lésion cérébrale permanente.** La recherche sur l’attention pose plusieurs questions distinctes : une interruption perturbe-t-elle la tâche en cours, un usage plus intense est-il associé à de moins bonnes performances et modifier l’usage améliore-t-il ces performances ? Ces questions nécessitent des études différentes."
+    },
+    {
+      "type": "subheading",
+      "text": "Une notification peut interrompre sans être ouverte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une expérience de laboratoire publiée en 2015, recevoir des notifications perturbait une tâche exigeant de l’attention même lorsque les participants n’interagissaient pas avec le téléphone. Une vibration peut lancer une pensée concurrente : qui est-ce, est-ce urgent, faut-il répondre ? [Stothart et ses collègues : le coût attentionnel d’une notification](https://pubmed.ncbi.nlm.nih.gov/26121498/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Passer d’un paragraphe à un message puis revenir oblige aussi à retrouver le fil du paragraphe. La perte ne se limite pas toujours aux secondes passées devant l’écran. Elle peut inclure l’effort pour reconstituer l’objectif interrompu. Désactiver les alertes inutiles réduit les invitations à changer de tâche, plutôt que d’exiger une résistance continuelle."
+    },
+    {
+      "type": "subheading",
+      "text": "Vidéos courtes : des associations préoccupantes, une causalité encore à préciser"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une revue systématique et méta-analyse de 2025 a réuni **71 études portant sur 98 299 participants**. Une consommation plus importante de vidéos courtes était associée à de moins bons résultats cognitifs, notamment pour l’attention et le contrôle inhibiteur. Cette synthèse montre que le sujet mérite une étude sérieuse, pas qu’un nombre donné de vidéos raccourcit irréversiblement la capacité d’attention. [Feeds, feelings, and focus : synthèse sur les vidéos courtes](https://pubmed.ncbi.nlm.nih.gov/41231585/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les personnes qui ont déjà du mal à se concentrer longtemps peuvent être davantage attirées par des contenus changeant rapidement. Un mauvais sommeil, le stress ou d’autres facteurs peuvent contribuer à la fois à un usage plus intense et aux difficultés de concentration. « Associé à » n’indique pas le sens du lien, et une corrélation regroupée ne devient pas une mesure des lésions cérébrales parce que l’échantillon est grand."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une autre expérience randomisée de 2025 a bloqué Internet sur les smartphones des participants pendant deux semaines, en laissant possibles les appels, les SMS et l’accès à Internet sur d’autres appareils. Elle a constaté des améliorations dans une tâche objective d’attention soutenue ainsi que sur des mesures de santé mentale et de bien-être. Cela soutient la possibilité d’une amélioration lorsque l’accès permanent change ; cela n’isole pas les vidéos courtes comme cause et n’établit pas d’effets durables pour tous. Le respect de la consigne et la brièveté de l’intervention limitent aussi la généralisation. [PNAS Nexus : blocage de l’Internet mobile et attention soutenue](https://doi.org/10.1093/pnasnexus/pgaf017)"
+    },
+    {
+      "type": "heading",
+      "text": "QUE FAIT LE DÉFILEMENT À VOTRE SOMMEIL ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le mécanisme le plus simple n’exige pas de neurosciences élaborées : le temps passé éveillé avec un téléphone peut remplacer du temps disponible pour dormir. Si le réveil reste fixe tandis que le coucher recule, la possibilité de sommeil se réduit. Une dispute, une vidéo à suspense ou une actualité inquiétante peuvent aussi compliquer l’apaisement."
+    },
+    {
+      "type": "paragraph",
+      "text": "La lumière de l’écran constitue un autre mécanisme, mais son effet dépend de l’intensité, du moment, de la durée et des conditions de visionnage. Une expérience contrôlée comparant la lecture du soir sur un appareil lumineux à celle d’un livre imprimé a observé des changements de mélatonine, de rythme circadien et de vigilance le lendemain matin. Cette exposition prolongée en laboratoire ne prédit pas précisément l’effet de tout bref regard sur n’importe quel téléphone. [Chang et ses collègues : liseuses lumineuses le soir et sommeil](https://pubmed.ncbi.nlm.nih.gov/25535358/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Changer la couleur de l’écran ne rend pas l’heure passée à regarder des vidéos. Lumière, activation émotionnelle et retard du coucher sont des mécanismes distincts ; en traiter un seul peut laisser les autres intacts."
+    },
+    {
+      "type": "subheading",
+      "text": "Les résultats de la grande synthèse d’études de cohorte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une revue systématique et méta-analyse a inclus **21 études de cohorte et 548 338 participants**. Une exposition plus importante aux écrans était associée à une durée de sommeil plus courte et à une probabilité plus élevée de sommeil court. La synthèse couvrait différents âges et activités sur écran, pas uniquement le défilement sur smartphone. Les analyses utilisaient des sous-ensembles différents des études. [Association entre temps d’écran et risques liés au sommeil](https://pmc.ncbi.nlm.nih.gov/articles/PMC12754674/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les cohortes suivent les personnes dans le temps, ce qui peut aider à préciser l’ordre des événements. Elles n’attribuent toutefois pas leurs habitudes au hasard. Les usages déclarés, les définitions variables du sommeil court et des facteurs comme le stress ou les routines familiales compliquent l’interprétation. Les personnes qui dorment mal peuvent aussi utiliser un écran parce qu’elles sont déjà éveillées. L’association est informative ; elle ne prouve pas que le temps d’écran a causé chaque différence de sommeil observée."
+    },
+    {
+      "type": "subheading",
+      "text": "Les résultats de la petite expérience avant le coucher"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un essai pilote randomisé a réparti **38 participants**, 19 par groupe, entre une consigne d’éviter le téléphone pendant les **30 minutes précédant le coucher durant quatre semaines** et l’absence de restriction. Le groupe d’intervention a progressé sur des mesures déclarées liées au sommeil et sur certains aspects d’une tâche de mémoire de travail. [He et ses collègues : restriction du téléphone avant le coucher](https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les limites sont importantes : petit échantillon, sommeil évalué par journaux et questionnaires, participants motivés à réduire leur usage au coucher. Il s’agissait de premiers résultats encourageants, pas d’une preuve qu’une limite de 30 minutes guérit l’insomnie, restaure la mémoire de tous ou fonctionne de la même façon à tout âge."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI CONTINUONS-NOUS ALORS QUE NOUS SOMMES FATIGUÉS ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Être fatigué ne signifie pas forcément être prêt à abandonner le dernier moment de la journée qui nous appartient. Après le travail, les études ou l’aide apportée à un proche, on peut souhaiter un divertissement peu exigeant. Le fil est immédiatement disponible ; se préparer à dormir suppose de l’arrêter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les chercheurs parlent de **procrastination du coucher** lorsqu’on se couche plus tard que prévu sans qu’une circonstance extérieure l’empêche. Les premières études reliaient ce comportement à un sommeil insuffisant ; les suivantes ont examiné le rôle du chronotype, c’est-à-dire la tendance à des horaires plus matinaux ou plus tardifs, ainsi que l’autorégulation. Ce n’est pas simplement une mesure de la paresse. [Kroese et ses collègues : introduction de la procrastination du coucher](https://pubmed.ncbi.nlm.nih.gov/24994989/) [Étude par journal quotidien du chronotype et de la procrastination du coucher](https://pubmed.ncbi.nlm.nih.gov/29456519/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La « procrastination du coucher par revanche » est l’expression populaire désignant une tentative de récupérer du temps personnel en repoussant le sommeil. C’est une description, pas un diagnostic clinique distinct ni une explication de toutes les nuits tardives. Travailler en horaires décalés, s’occuper d’un bébé ou rester éveillé à cause d’une insomnie ne revient pas à reporter librement le coucher pour terminer un fil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous reconnaissez ce besoin de récupérer du temps, une expérience utile consiste à prévoir plus tôt un petit moment de loisir choisi, au lieu de réserver toute la détente à l’heure où il faudrait dormir. L’objectif est de comprendre ce que le défilement apporte. Retirer le téléphone sans remplacer ce soulagement peut laisser le besoin initial intact."
+    },
+    {
+      "type": "heading",
+      "text": "UN USAGE PROBLÉMATIQUE N’EST PAS UNE ADDICTION CLINIQUE"
+    },
+    {
+      "type": "paragraph",
+      "text": "« Je suis accro à mon téléphone » peut exprimer une réelle perte de contrôle. Dans la recherche, **usage problématique du smartphone** et addiction ne sont pourtant pas des termes interchangeables. Les études utilisent différents questionnaires, définitions et seuils. Une revue systématique des échelles de mesure a souligné l’absence de définition de référence et les désaccords sur l’application d’un modèle d’addiction. [Échelles d’usage problématique du téléphone : revue systématique](https://pmc.ncbi.nlm.nih.gov/articles/PMC7214716/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les heures seules ne permettent pas un diagnostic. Une personne utilisant son téléphone pour un travail indispensable peut y passer beaucoup de temps sans présenter le même comportement que quelqu’un qui sacrifie régulièrement son sommeil ou ses obligations malgré sa volonté d’arrêter. La souffrance, les répercussions et le contrôle sont plus informatifs qu’une étiquette spectaculaire attachée à un total d’heures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des troubles persistants du sommeil, une humeur dégradée ou des difficultés à fonctionner méritent de l’attention en eux-mêmes. Une soirée sans téléphone peut être utile à essayer, sans remplacer une évaluation professionnelle lorsque ces problèmes continuent."
+    },
+    {
+      "type": "heading",
+      "text": "RÉSEAUX SOCIAUX, ANXIÉTÉ ET DÉPRESSION : DANS QUEL SENS VA LE LIEN ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une association entre usage plus intense et moins bonne santé mentale peut correspondre à plusieurs scénarios. Le harcèlement en ligne ou une comparaison douloureuse peuvent dégrader l’humeur. Une personne déjà anxieuse ou isolée peut chercher du réconfort en ligne. Un événement stressant peut accroître à la fois la détresse et le temps passé sur un fil. Plusieurs mécanismes peuvent coexister chez la même personne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le contenu compte aussi. Une conversation bienveillante, une vidéo pédagogique et un échange de commentaires hostiles peuvent durer autant de minutes et produire des expériences très différentes. Les réseaux sociaux peuvent apporter des liens tout en exposant au harcèlement, à la haine ou à la désinformation. [American Psychological Association : bénéfices et risques des réseaux sociaux](https://www.apa.org/topics/social-media-internet)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il serait donc erroné de faire du téléphone l’unique explication de la [dépression](/articles/depression-what-happens-in-the-brain/). Modifier un usage nocif peut aider sans expliquer l’ensemble du trouble. C’est pourquoi les expériences sont particulièrement précieuses : elles testent ce qui se produit après un changement, au lieu de comparer seulement des personnes dont les usages diffèrent déjà."
+    },
+    {
+      "type": "heading",
+      "text": "QUE SE PASSE-T-IL QUAND ON RÉDUIT RÉELLEMENT SON TEMPS D’ÉCRAN ?"
+    },
+    {
+      "type": "subheading",
+      "text": "L’essai étudiant de 2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un essai randomisé publié dans *BMC Medicine*, **111 étudiants** ont été répartis entre un groupe d’intervention et un groupe témoin. Leur usage initial du smartphone atteignait en moyenne **276 minutes par jour**, soit environ quatre heures et 36 minutes. L’intervention demandait de le réduire à **deux heures quotidiennes au maximum pendant trois semaines**."
+    },
+    {
+      "type": "paragraph",
+      "text": "Par rapport au groupe témoin, l’intervention a amélioré des mesures du bien-être, du stress, des symptômes dépressifs et des difficultés de sommeil. Les effets rapportés étaient faibles à modérés. Mais l’usage du smartphone a augmenté rapidement après la fin de la restriction et s’est rapproché du niveau initial au suivi. [Pieh et ses collègues : essai de réduction du temps passé sur smartphone](https://doi.org/10.1186/s12916-025-03944-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet essai sans aveugle portait sur des étudiants en bonne santé, avec des résultats mesurés par questionnaires et une intervention brève. La randomisation renforce l’interprétation causale de cette intervention dans cet échantillon ; elle ne fait pas de deux heures une limite médicale universelle. Elle ne montre pas non plus que tous se sentaient mieux, qu’une dépression diagnostiquée avait été guérie ou que les bénéfices dureraient indéfiniment."
+    },
+    {
+      "type": "subheading",
+      "text": "Une semaine de pause a aidé dans une expérience"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un essai randomisé de 2022 a demandé à **154 adultes** soit d’interrompre pendant une semaine certains réseaux sociaux, soit de continuer comme d’habitude. Au bilan après une semaine, le groupe en pause déclarait un meilleur bien-être et des scores plus faibles de dépression et d’anxiété. Cela soutient expérimentalement l’intérêt d’une courte pause pour certains résultats dans ces conditions. Cela n’établit pas un bénéfice permanent et ne signifie pas qu’il faut abandonner des relations utiles en ligne. [Lambert et ses collègues : une semaine de pause des réseaux sociaux](https://pubmed.ncbi.nlm.nih.gov/35512731/)"
+    },
+    {
+      "type": "subheading",
+      "text": "D’autres expériences trouvent peu de bénéfices nets"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trois expériences de terrain préenregistrées, publiées ensemble en 2021, comparaient des journées d’usage normal et d’abstinence dans un ordre aléatoire. Elles n’ont pas observé d’amélioration constante du bien-être quotidien avec l’abstinence. Leur courte durée et le respect incomplet des consignes comptent, comme ils comptent dans l’interprétation des essais positifs. [Przybylski et ses collègues : trois expériences randomisées de pause des réseaux sociaux](https://link.springer.com/article/10.1007/s41347-020-00189-w)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une méta-analyse de 2025 réunissant **10 études et 4 674 participants** n’a pas non plus trouvé d’effet global statistiquement significatif de l’abstinence temporaire sur les affects positifs, les affects négatifs ou la satisfaction de vie. Ces résultats précis ne se confondent pas avec toutes les mesures de dépression, d’anxiété ou de sommeil utilisées ailleurs. [Abstinence des réseaux sociaux, bien-être affectif et satisfaction de vie : méta-analyse](https://pubmed.ncbi.nlm.nih.gov/40038410/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conclusion juste est que l’intervention, la personne, le résultat mesuré et le contexte comptent tous. Réduire un usage nocturne non souhaité n’est pas la même expérience qu’interdire tous les réseaux pendant une journée. Un résultat nul ne prouve pas que personne n’en bénéficie ; un résultat positif ne prouve pas que tout le monde doit arrêter."
+    },
+    {
+      "type": "heading",
+      "text": "ENSEMBLE DANS LA PIÈCE, AILLEURS PAR L’ATTENTION"
+    },
+    {
+      "type": "paragraph",
+      "text": "La famille de l’illustration évoque une situation familière : partager un canapé en prêtant attention à des mondes séparés. Il ne s’agit pas de transformer chaque silence en conversation. Il s’agit de savoir si les consultations répétées interrompent les moments où quelqu’un demande à être entendu."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une expérience de terrain lors de repas entre amis ou en famille a montré que garder les téléphones disponibles augmentait la distraction et réduisait le plaisir des échanges par rapport au fait de les ranger. Des relevés d’expérience au quotidien allaient dans le même sens. L’étude concerne l’expérience immédiate ; elle ne prouve pas que tout téléphone à table détruit une relation. [Dwyer, Kushlev et Dunn : smartphones et plaisir des échanges en personne](https://www.sciencedirect.com/science/article/pii/S0022103117301737)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un repas sans téléphone décidé ensemble peut lever l’ambiguïté : chacun sait que l’attention est disponible. Les exceptions peuvent être dites clairement, par exemple lorsqu’on attend un appel urgent. Ce qui compte est le moment partagé que l’on souhaite protéger, pas un concours du plus faible total hebdomadaire."
+    },
+    {
+      "type": "heading",
+      "text": "LES ENFANTS SONT-ILS PLUS VULNÉRABLES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enfants et adolescents développent encore leur manière de gérer les impulsions, les relations et les informations émotionnelles. Les réactions des pairs, la comparaison physique et le harcèlement peuvent peser particulièrement à l’adolescence. Mais les jeunes diffèrent, et les plateformes sociales peuvent aussi apporter amitié, créativité et soutien."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’avis de l’American Psychological Association souligne la maturité développementale, la situation personnelle et les contenus réellement rencontrés. Il recommande de protéger le sommeil et l’activité physique plutôt que de considérer tout usage des réseaux comme intrinsèquement nocif. Les résultats obtenus chez des étudiants ne se transposent pas simplement à un enfant bien plus jeune. [Avis de l’APA sur l’usage des réseaux sociaux à l’adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les adultes font eux aussi partie de l’environnement. Une règle d’écoute pendant les repas est plus crédible quand les parents la respectent. L’American Academy of Pediatrics recommande un plan familial d’usage des médias incluant les adultes, des moments communs sans écran, des contenus adaptés et des révisions à mesure que les enfants grandissent. [American Academy of Pediatrics : établir un plan familial pour les médias](https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conversation peut partir d’observations concrètes : le coucher recule, les devoirs sont interrompus, un compte particulier bouleverse quelqu’un. C’est plus facile à traiter que d’annoncer à un enfant que son cerveau est abîmé. Demandez ce qu’il aime en ligne autant que ce qu’il trouve difficile à quitter."
+    },
+    {
+      "type": "heading",
+      "text": "TÉLÉPHONE ET DÉFILEMENT : MYTHES ET RÉALITÉS"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : les smartphones détruisent définitivement le cerveau"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distraction, les symptômes rapportés et les corrélations avec les performances cognitives ne démontrent pas des lésions cérébrales permanentes. Les améliorations expérimentales après modification de l’accès remettent aussi en cause le récit simpliste d’un déclin inévitable et irréversible."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : la dopamine est une toxine à éliminer"
+    },
+    {
+      "type": "paragraph",
+      "text": "La dopamine soutient des fonctions normales. Modifier une habitude ne revient pas à retirer une substance nocive de l’organisme ni à prouver une « remise à zéro » chimique."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : une forte corrélation prouve la cause du problème"
+    },
+    {
+      "type": "paragraph",
+      "text": "La taille de l’échantillon peut améliorer la précision statistique. Elle ne supprime pas tous les facteurs de confusion, ne résout pas la causalité inverse et ne transforme pas une observation en expérience randomisée."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : toutes les heures d’écran se valent"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’objectif, le contenu, le moment et ce que l’activité remplace comptent. Un appel à un ami lointain et une heure de défilement subie au coucher n’ont pas nécessairement les mêmes effets."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : réduire les réseaux sociaux rend tout le monde plus heureux"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les études randomisées ont produit des résultats contrastés. Certaines interventions améliorent les mesures ; d’autres observent peu de changement net. On peut perdre des liens de soutien et des usages pratiques en même temps que l’on réduit des habitudes non souhaitées."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : deux heures constituent un seuil diagnostique"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’essai étudiant testait un objectif particulier. Il n’a pas établi que dépasser ce nombre signifiait addiction, maladie ou dommage pour chaque personne."
+    },
+    {
+      "type": "heading",
+      "text": "SEPT JOURS POUR REPRENDRE LA MAIN SUR SON ATTENTION"
+    },
+    {
+      "type": "paragraph",
+      "text": "Considérez la semaine à venir comme une **expérience personnelle, pas un traitement médical**. Le programme combiné ci-dessous n’a pas été validé comme thérapie de sept jours, et ses limites horaires sont des choix pratiques, pas des seuils biologiques. L’objectif est de voir si quelques changements améliorent les moments de la journée qui comptent pour vous."
+    },
+    {
+      "type": "subheading",
+      "text": "Avant le premier jour : noter la situation initiale"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enregistrez le rapport de temps d’écran des sept jours précédents. Repérez les applications les plus utilisées et les moments des sessions non souhaitées. Notez aussi quelques observations : heure habituelle du coucher, fatigue matinale, interruptions d’une tâche choisie et distraction pendant les repas. Comparez si possible des journées semblables ; des vacances et une semaine d’examens ne sont pas des références équivalentes."
+    },
+    {
+      "type": "subheading",
+      "text": "Préserver les 30 premières minutes après le réveil"
+    },
+    {
+      "type": "paragraph",
+      "text": "Laissez le téléphone de côté pendant que vous vous habillez, mangez ou décidez des priorités du matin. Gardez les accès indispensables à la santé, à l’accessibilité, à l’aide aux proches ou au travail. Cette limite teste une manière choisie de commencer la journée ; elle n’affirme pas que consulter le matin serait particulièrement toxique."
+    },
+    {
+      "type": "subheading",
+      "text": "Préserver les 30 à 60 dernières minutes avant le sommeil"
+    },
+    {
+      "type": "paragraph",
+      "text": "Choisissez une heure d’arrêt réaliste et une activité de remplacement : livre imprimé, douche, musique calme ou conversation. Posez le téléphone à un endroit où le récupérer exige une décision volontaire. Gardez la possibilité des contacts urgents si nécessaire. L’essai pilote du coucher encourage à tester une courte transition, mais ni ses résultats ni cette expérience ne garantissent un meilleur sommeil."
+    },
+    {
+      "type": "subheading",
+      "text": "Supprimer les invitations inutiles à consulter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Désactivez les notifications non essentielles tout en gardant les personnes et alertes qui doivent réellement vous joindre. Retirez les applications sociales de l’écran d’accueil. Cette étape supplémentaire invite à vous demander pourquoi vous les ouvrez ; ce n’est pas un traitement prouvé à elle seule. Désactivez la lecture automatique lorsque c’est possible et choisissez un point d’arrêt avant de commencer."
+    },
+    {
+      "type": "subheading",
+      "text": "Se rendre disponibles pendant les repas et les conversations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Décidez ensemble de ranger les téléphones pendant un repas ou une conversation définie. Si une vérification est nécessaire, expliquez-la puis revenez à l’échange. Choisissez une règle commune qui inclut les adultes. Le but est une attention sur laquelle compter, pas la surveillance de chaque regard."
+    },
+    {
+      "type": "subheading",
+      "text": "Après sept jours : mesurer le changement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparez les deux rapports d’utilisation, mais demandez-vous aussi si le coucher a changé, si les interruptions ont diminué ou si les moments ensemble semblaient différents. Vérifiez si le défilement a simplement migré vers un autre appareil. Cherchez une tendance sans juger une seule journée difficile. Une comparaison personnelle avant-après n’établit pas la causalité : charge de travail, attentes et autres changements peuvent influencer votre ressenti."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gardez les limites utiles et adaptez celles qui étaient impraticables. Si rien ne s’est amélioré, c’est une information, pas la preuve d’un échec ou d’un cerveau irrécupérable. Si des difficultés importantes de sommeil ou d’humeur persistent, cherchez de l’aide pour ces problèmes plutôt que d’imposer des règles toujours plus strictes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il ne s’agit pas de faire disparaître le téléphone. Il s’agit de rendre à nouveau visible la décision de l’utiliser. Un fil peut toujours proposer une autre vidéo. Il n’a pas à décider de l’heure à laquelle votre soirée se termine."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Design Frictions on Social Media : recherches de l’université d’Aarhus",
+      "url": "https://pure.au.dk/portal/en/publications/design-frictions-on-social-media-balancing-reduced-mindless-scrol/"
+    },
+    {
+      "label": "L’engagement sur les réseaux sociaux expliqué par un modèle d’apprentissage de la récompense",
+      "url": "https://www.nature.com/articles/s41467-020-19607-x"
+    },
+    {
+      "label": "Au-delà des déclarations : comparer usage estimé et usage réel du smartphone",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4625000/"
+    },
+    {
+      "label": "Wolfram Schultz : signal dopaminergique d’erreur de prédiction de la récompense",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549862/"
+    },
+    {
+      "label": "Berridge, Robinson et Aldridge : plaisir, désir et apprentissage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1471489208002129"
+    },
+    {
+      "label": "Stothart et ses collègues : le coût attentionnel d’une notification",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26121498/"
+    },
+    {
+      "label": "Feeds, feelings, and focus : synthèse sur les vidéos courtes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41231585/"
+    },
+    {
+      "label": "PNAS Nexus : blocage de l’Internet mobile et attention soutenue",
+      "url": "https://doi.org/10.1093/pnasnexus/pgaf017"
+    },
+    {
+      "label": "Chang et ses collègues : liseuses lumineuses le soir et sommeil",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25535358/"
+    },
+    {
+      "label": "Association entre temps d’écran et risques liés au sommeil",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12754674/"
+    },
+    {
+      "label": "He et ses collègues : restriction du téléphone avant le coucher",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/"
+    },
+    {
+      "label": "Kroese et ses collègues : introduction de la procrastination du coucher",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24994989/"
+    },
+    {
+      "label": "Étude par journal quotidien du chronotype et de la procrastination du coucher",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29456519/"
+    },
+    {
+      "label": "Échelles d’usage problématique du téléphone : revue systématique",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7214716/"
+    },
+    {
+      "label": "American Psychological Association : bénéfices et risques des réseaux sociaux",
+      "url": "https://www.apa.org/topics/social-media-internet"
+    },
+    {
+      "label": "Pieh et ses collègues : essai de réduction du temps passé sur smartphone",
+      "url": "https://doi.org/10.1186/s12916-025-03944-z"
+    },
+    {
+      "label": "Lambert et ses collègues : une semaine de pause des réseaux sociaux",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35512731/"
+    },
+    {
+      "label": "Przybylski et ses collègues : trois expériences randomisées de pause des réseaux sociaux",
+      "url": "https://link.springer.com/article/10.1007/s41347-020-00189-w"
+    },
+    {
+      "label": "Abstinence des réseaux sociaux, bien-être affectif et satisfaction de vie : méta-analyse",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40038410/"
+    },
+    {
+      "label": "Dwyer, Kushlev et Dunn : smartphones et plaisir des échanges en personne",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022103117301737"
+    },
+    {
+      "label": "Avis de l’APA sur l’usage des réseaux sociaux à l’adolescence",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use"
+    },
+    {
+      "label": "American Academy of Pediatrics : établir un plan familial pour les médias",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx"
+    }
+  ],
+  "faq": [
+    {
+      "question": "De quoi parle cet article de PRESDA ?",
+      "answer": "Une notification devient une heure. Découvrez ce que la recherche dit du défilement, du sommeil, de l’attention et des relations, puis testez sept jours d’usage plus volontaire du téléphone."
+    },
+    {
+      "question": "À quelle rubrique appartient cet article ?",
+      "answer": "Cet article appartient à la rubrique Science de PRESDA."
+    },
+    {
+      "question": "Qui a publié cet article ?",
+      "answer": "L’article « VOTRE TÉLÉPHONE CAPTE VOTRE ATTENTION : LA SCIENCE DU DÉFILEMENT SANS FIN » a été publié par PRESDA Editorial sur PRESDA."
+    }
+  ]
+}

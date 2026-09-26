@@ -1,7 +1,10 @@
 [
   {
     "slug": "worlds-most-valuable-companies-in-2026",
-    "locales": ["fr", "es"],
+    "locales": [
+      "fr",
+      "es"
+    ],
     "reason": "Ranked corporate proper names retain their established spelling in French and Spanish. This exception covers these exact headings only.",
     "blocks": {
       "9": "1. NVIDIA",
@@ -18,7 +21,10 @@
   },
   {
     "slug": "highest-paid-athletes-2026",
-    "locales": ["fr", "es"],
+    "locales": [
+      "fr",
+      "es"
+    ],
     "reason": "Established personal names retain their spelling in French and Spanish.",
     "blocks": {
       "63": "Stephen Curry",
@@ -30,19 +36,29 @@
   },
   {
     "slug": "highest-paid-athletes-2026",
-    "locales": ["es"],
+    "locales": [
+      "es"
+    ],
     "reason": "The standalone negative answer is correctly No. in both English and Spanish.",
-    "blocks": { "129": "No." }
+    "blocks": {
+      "129": "No."
+    }
   },
   {
     "slug": "history-of-egyptian-pyramids",
-    "locales": ["es"],
+    "locales": [
+      "es"
+    ],
     "reason": "Meidum is an established Spanish spelling of the Egyptian archaeological site, used here as a standalone place name.",
-    "blocks": { "50": "Meidum." }
+    "blocks": {
+      "50": "Meidum."
+    }
   },
   {
     "slug": "history-of-chess",
-    "locales": ["es"],
+    "locales": [
+      "es"
+    ],
     "reason": "Standalone year, AlphaZero product name and established personal names are identical in Spanish and English.",
     "blocks": {
       "159": "1972.",
@@ -57,13 +73,19 @@
   },
   {
     "slug": "history-of-chess",
-    "locales": ["ar"],
+    "locales": [
+      "ar"
+    ],
     "reason": "The standalone year 1972 is numeric data and does not require rewriting in Arabic.",
-    "blocks": { "159": "1972." }
+    "blocks": {
+      "159": "1972."
+    }
   },
   {
     "slug": "history-of-chess",
-    "locales": ["fr"],
+    "locales": [
+      "fr"
+    ],
     "reason": "Standalone year, AlphaZero product name and established personal names are identical in French and English.",
     "blocks": {
       "144": "Boris Spassky.",
@@ -80,7 +102,9 @@
   },
   {
     "slug": "amazigh-imazighen-north-africa-history",
-    "locales": ["es"],
+    "locales": [
+      "es"
+    ],
     "reason": "Bibliographic author, publication and original entry title are proper names, preserved in Spanish.",
     "blocks": {
       "91": "[Yves Modéran, Encyclopédie berbère (2008): Koceila](https://journals.openedition.org/encyclopedieberbere/101)",
@@ -121,8 +145,60 @@
   },
   {
     "slug": "magic-paranormal-james-randi",
-    "locales": ["es"],
+    "locales": [
+      "es"
+    ],
     "reason": "The standalone answer No. and the noun Eclipses. are identical in Spanish and English.",
-    "blocks": {"143": "No.", "218": "Eclipses."}
+    "blocks": {
+      "143": "No.",
+      "218": "Eclipses."
+    }
+  },
+  {
+    "slug": "real-history-of-coffee",
+    "locales": [
+      "fr",
+      "es"
+    ],
+    "reason": "Established Italian drink names retain their spelling in French and Spanish; these exact standalone labels only.",
+    "blocks": {
+      "140": "Espresso.",
+      "141": "Cappuccino.",
+      "142": "Latte.",
+      "143": "Macchiato."
+    }
+  },
+  {
+    "slug": "titanic-what-really-happened",
+    "locales": [
+      "fr",
+      "es"
+    ],
+    "reason": "Personal names retain their spelling in French and Spanish; exact subheadings only.",
+    "blocks": {
+      "129": "Thomas Andrews",
+      "136": "J. Bruce Ismay"
+    }
+  },
+  {
+    "slug": "pablo-escobar-medellin-cartel-wealth-rise-fall",
+    "locales": [
+      "fr",
+      "es"
+    ],
+    "reason": "The established personal name retains its spelling in French and Spanish; exact subheading only.",
+    "blocks": {
+      "57": "Luis Carlos Galán"
+    }
+  },
+  {
+    "slug": "new-7-wonders-of-the-world-history-travel-guide",
+    "locales": [
+      "es"
+    ],
+    "reason": "The monument and geographical proper names use identical Spanish forms; exact label only.",
+    "blocks": {
+      "10": "Taj Mahal: Agra, India."
+    }
   }
 ]

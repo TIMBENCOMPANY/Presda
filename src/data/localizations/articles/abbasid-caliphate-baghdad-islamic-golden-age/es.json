@@ -1,0 +1,620 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/abbasid-caliphate-baghdad-islamic-golden-age/",
+  "path": "/es/articles/abbasid-caliphate-baghdad-islamic-golden-age/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "CALIFATO ABASÍ: CUANDO BAGDAD SE CONVIRTIÓ EN EL CENTRO DEL MUNDO",
+  "excerpt": "Una ciudad de califas, mercaderes, traductores y eruditos puso en diálogo tradiciones lejanas. Cómo la Bagdad abasí transformó el conocimiento y por qué su legado sobrevivió a 1258.",
+  "headlineHighlights": {
+    "red": "CALIFATO ABASÍ",
+    "gold": "CENTRO DEL MUNDO"
+  },
+  "seoTitle": "Califato abasí: Bagdad y la Edad de Oro del islam",
+  "description": "La Bagdad abasí, la Casa de la Sabiduría, al-Juarismi y la Edad de Oro del islam: logros, límites y mitos sobre el saqueo mongol de 1258.",
+  "keywords": [
+    "califato abasí",
+    "Bagdad Edad de Oro",
+    "Casa de la Sabiduría",
+    "al-Juarismi",
+    "Harún al-Rashid",
+    "saqueo de Bagdad 1258",
+    "ciencia islámica"
+  ],
+  "searchIntent": "Comprender el auge político e intelectual de la Bagdad abasí, sus figuras y redes de conocimiento, y distinguir el saqueo de 1258 de las leyendas sobre el fin de la ciencia islámica.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-16",
+  "updatedAt": "2026-09-16",
+  "image": {
+    "src": "/images/articles/abbasid-caliphate-baghdad-islamic-golden-age.webp",
+    "alt": "Reconstrucción histórica editorial de eruditos que comparten un manuscrito ilustrado sobre un paisaje imaginado de la Bagdad abasí"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La historia intelectual de Bagdad puede abordarse a través de un objeto sencillo: un libro que había cruzado una frontera lingüística. Un texto médico griego podía llegar a un lector a través del siríaco y el árabe. Una tabla astronómica podía trasladar métodos indios a un entorno nuevo. El resultado no era solo otra copia. Alguien había elegido términos, comparado interpretaciones y decidido qué podía ayudar a explicar la obra."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciudad hizo posibles esos encuentros a una escala extraordinaria. Fundada como capital abasí en 762, Bagdad atrajo poder político, dinero y personas hacia el Tigris. Se convirtió en uno de los grandes centros culturales del mundo medieval. Llamarla centro del mundo describe esa notable concentración de influencia, no afirma que otras sociedades hubieran dejado de crear conocimiento. [Hugh Kennedy, Encyclopaedia Iranica: Bagdad antes de los mongoles](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-i-pr-mongol/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su historia contiene generosidad intelectual y violencia política. Los califas patrocinaban el saber y castigaban a sus adversarios. Los mercaderes conectaban regiones lejanas mientras los ejércitos luchaban por los recursos que sostenían la capital. La ciudad no fue un paraíso permanente de tolerancia ni simplemente el escenario de una catástrofe en 1258."
+    },
+    {
+      "type": "paragraph",
+      "text": "*La imagen de cabecera es una reconstrucción histórica editorial: una escena imaginada de eruditos en época abasí, no una reunión documentada, un retrato autenticado ni una reconstrucción exacta del perfil de Bagdad. Las fechas siguientes corresponden a la era común, salvo indicación contraria.*"
+    },
+    {
+      "type": "heading",
+      "text": "750: UNA REVOLUCIÓN CAMBIA EL CALIFATO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El movimiento abasí reunió una fuerza decisiva en Jorasán, en el este del mundo islámico. Sus partidarios incluían árabes asentados allí y musulmanes no árabes, unidos por agravios políticos y lealtad a un movimiento que invocaba a la familia del profeta Mahoma. Reducir la revolución a un simple levantamiento persa contra los árabes oculta esa coalición mixta. Los propios abasíes afirmaban descender de al-Abbás, tío del Profeta. [Encyclopaedia Iranica: el califato abasí](https://www.iranicaonline.org/articles/abbasid-caliphate/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 750, los omeyas perdieron su califato. La victoria abasí desplazó el centro de la política imperial desde Siria hacia Irak y el este. Al-Saffah se convirtió en el primer califa abasí; su hermano al-Mansur lo sucedió en 754 y gobernó hasta 775. El cambio no extinguió todas las ramas omeyas: Abderramán estableció un emirato omeya en España en 756. [Tayeb El-Hibri, Cambridge University Press: cronología abasí](https://assets.cambridge.org/97811071/83247/frontmatter/9781107183247_frontmatter.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Construir la nueva dinastía exigió reprimir a los rivales además de recompensar a los partidarios. Abu Muslim, decisivo para el éxito oriental de la revolución, fue asesinado por orden de al-Mansur en 755. Los comienzos de la dinastía no fueron, por tanto, una sencilla historia de liberación. Una coalición capaz de derrocar a un gobierno no tenía por qué ponerse de acuerdo sobre quién debía controlar al siguiente. [Encyclopaedia Iranica: Abu Muslim de Jorasán](https://www.iranicaonline.org/articles/abu-moslem-abd-al-rahman-b/)"
+    },
+    {
+      "type": "heading",
+      "text": "LA CIUDAD REDONDA DE AL-MANSUR: BAGDAD, 762"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al-Mansur fundó su nueva capital en 762 y le dio el nombre oficial de Madinat al-Salam, la Ciudad de la Paz. Su núcleo circular original situaba el palacio y la mezquita en el centro de una sede de autoridad planificada. La Ciudad Redonda expresaba una ambición política: un gobierno organizado en torno al califa. Bagdad pronto fue mucho más que ese recinto inicial y se extendió por un amplio paisaje urbano. [Kennedy: fundación y crecimiento de Bagdad](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-i-pr-mongol/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La elección de Irak importaba. Era una región de larga tradición agrícola, fluvial y urbana, cercana a los núcleos de imperios anteriores. La posición de Bagdad acercaba la corte a los grupos orientales de los que dependía el poder abasí. Una capital podía atraer talento porque allí estaban el gobierno y el dinero; al concentrarse el talento y el comercio, ofrecían nuevas razones para su crecimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Casi nada de la Bagdad abasí temprana se conserva sobre el suelo. Su famoso trazado circular se reconstruye principalmente mediante descripciones históricas, no a partir de una ciudad intacta excavada. Samarra, la posterior capital abasí situada más arriba en el Tigris, proporciona evidencia conservada mucho más rica de la arquitectura monumental de la dinastía. Las imágenes modernas de Bagdad deben tratarse, por tanto, como interpretaciones, no como registros visuales. [Museo Metropolitano de Arte: arte del periodo abasí](https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258)"
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ BAGDAD SE VOLVIÓ TAN RICA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bagdad estaba integrada en redes que unían rutas terrestres, transporte fluvial y el golfo Pérsico. Las conexiones a través de Basora vinculaban Irak con un comercio marítimo que llegaba a India, China y África oriental; las rutas por Irán, Anatolia y el Mediterráneo lo conectaban con otros mercados, incluida Europa. No hacía falta que las mercancías recorrieran toda la distancia en manos de un solo mercader para que Bagdad se beneficiara del intercambio. [Encyclopaedia Iranica: el comercio antes de la conquista mongola](https://www.iranicaonline.org/articles/commerce-iv/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los mercados atendían tanto la demanda lejana de productos de lujo como las necesidades cotidianas de una ciudad enorme. Los alimentos, los tejidos y las manufacturas importaban junto a las importaciones prestigiosas. Bagdad recibía productos, los consumía, los redistribuía y generaba nueva demanda. Su prosperidad dependía de los productores de los alrededores y de los trabajadores del transporte, además de los mercaderes cuyos viajes atraían la atención literaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "El título de «centro del mundo» tiene sentido como descripción de esa conexión entre regiones. No debe convertirse en una clasificación exacta de ciudades medievales por población o ingresos. La evidencia conservada no respalda las tablas de posiciones, aparentemente modernas y seguras, que a veces acompañan la fama de Bagdad. Su importancia excepcional es más clara que su población máxima precisa."
+    },
+    {
+      "type": "subheading",
+      "text": "Los ingresos detrás del esplendor"
+    },
+    {
+      "type": "paragraph",
+      "text": "La riqueza de la corte también procedía de los impuestos. Los ingresos agrarios y los acuerdos fiscales provinciales sostenían el gobierno, el gasto militar y el consumo de las élites. Las evaluaciones y las prácticas de recaudación variaban según regiones y periodos; no era un único sistema fiscal uniforme que funcionara sin cambios durante cinco siglos. La producción agrícola seguía siendo fundamental aunque los símbolos más visibles de la capital fueran palacios y libros. [Encyclopaedia Iranica: el sistema fiscal islámico](https://www.iranicaonline.org/articles/fiscal-system-iii-islamic-period/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La administración exigía secretarios formados, funcionarios provinciales, cuentas y pagos fiables a las tropas. El brillo de la corte descansaba en esas operaciones menos vistosas. Cuando se retenían recursos, se dañaban los cultivos o no se pagaba a los soldados, la relación entre la sociedad provincial y la ambición imperial podía volverse explosiva. La vida intelectual de Bagdad existía dentro de esa economía política, no al margen de ella."
+    },
+    {
+      "type": "heading",
+      "text": "HARÚN AL-RASHID: EL GOBERNANTE DETRÁS DE LA LEYENDA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Harún al-Rashid gobernó de 786 a 809. Su reinado se convirtió en una imagen duradera de magnificencia califal, pero el gobernante histórico afrontó rebeliones, guerras fronterizas y luchas cortesanas. Durante buena parte de su reinado, la familia de los barmáquidas ejerció una influencia excepcional; su caída abrupta en 803 expuso la inseguridad que acompañaba a la cercanía al trono. [Encyclopaedia Iranica: Harún al-Rashid](https://www.iranicaonline.org/articles/harun-al-rasid/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La posterior vida literaria de Harún constituye otro tipo de evidencia. En relatos asociados con *Las mil y una noches*, el califa puede recorrer la ciudad, encontrarse con súbditos sorprendentes e impartir una justicia dramática. Esas historias revelan ideales y temores sobre el poder. No proporcionan un itinerario autenticado de sus noches."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Las mil y una noches* se desarrollaron durante siglos mediante distintas lenguas, lugares, manuscritos y versiones. Sus conexiones persas, su desarrollo árabe y sus añadidos posteriores impiden atribuirlas a un único autor o momento abasí. Conservan mundos literarios, no un retrato documental de la Bagdad del siglo IX. Confundirlas con una crónica disminuye su magia en lugar de reforzarla. [Encyclopaedia Iranica: Las mil y una noches](https://www.iranicaonline.org/articles/alf-layla-wa-layla/)"
+    },
+    {
+      "type": "heading",
+      "text": "AL-MAMÚN: EL SABER DESPUÉS DE LA GUERRA CIVIL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los acuerdos sucesorios de Harún no evitaron el conflicto entre sus hijos al-Amín y al-Mamún. La guerra civil culminó con el asedio de Bagdad y la muerte de al-Amín en 813. Al-Mamún se impuso como califa, pero permaneció en el este antes de entrar en Bagdad en 819. El reinado asociado con la ambición intelectual se construyó sobre un paisaje ya marcado por la violencia abasí. [Encyclopaedia Iranica: al-Mamún](https://www.iranicaonline.org/articles/mamun-abul-abbas-abd-allah/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su mecenazgo ayudó a que florecieran las matemáticas y la astronomía. Pero el entusiasmo por el saber no debe confundirse con la libertad académica moderna. En 833 inició la *mihna*, un examen doctrinal mediante el cual el gobierno buscaba imponer conformidad sobre el carácter creado del Corán. Su reinado llevó las preguntas sobre razón, revelación y autoridad del califa al conflicto político directo. [Iranica: políticas religiosas e intelectuales de al-Mamún](https://www.iranicaonline.org/articles/mamun-abul-abbas-abd-allah/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta contradicción es esencial para la historia. Un gobernante podía valorar el trabajo intelectual exigente y, al mismo tiempo, imponer respuestas que sus adversarios rechazaban. «Edad de Oro» es una expresión útil para logros extraordinarios, pero no convierte a todas las cortes en ilustradas ni garantiza la seguridad de todos los estudiosos."
+    },
+    {
+      "type": "heading",
+      "text": "¿POR QUÉ SE CONVIRTIÓ BAGDAD EN UN CENTRO DEL CONOCIMIENTO?"
+    },
+    {
+      "type": "subheading",
+      "text": "El mecenazgo hizo posible un trabajo difícil"
+    },
+    {
+      "type": "paragraph",
+      "text": "Traducir requería tiempo, conocimientos y dinero. Los gobernantes eran mecenas importantes, pero también encargaban obras los funcionarios, las familias ricas y los propios eruditos. El círculo del filósofo al-Kindi, por ejemplo, trasladó al árabe escritos filosóficos y científicos griegos. Era una red de personas y proyectos, no simplemente una oficina gubernamental que producía traducciones estandarizadas. [Stanford Encyclopedia of Philosophy: al-Kindi](https://plato.stanford.edu/entries/al-kindi/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mecenazgo podía servir a la vez a necesidades prácticas, al prestigio y a la curiosidad sincera. La medicina interesaba a quienes necesitaban médicos; las matemáticas ayudaban a calcular; la argumentación filosófica importaba a lectores que se hacían preguntas difíciles. Una vez disponibles los textos, los estudiosos podían abordar problemas que superaban los propósitos inmediatos de quien los había financiado."
+    },
+    {
+      "type": "subheading",
+      "text": "Varias tradiciones se encontraron en árabe"
+    },
+    {
+      "type": "paragraph",
+      "text": "El saber griego llegaba a menudo a los lectores árabes a través de la erudición cristiana de lengua siríaca, aunque las rutas y los métodos variaban. Las tradiciones persas e indias también contribuyeron al entorno intelectual. El árabe se convirtió en una gran lengua compartida del saber sin hacer étnicamente árabes a todos sus participantes ni griegas a todas sus fuentes. La Biblioteca Nacional de Medicina describe el saber médico de Bagdad como una interacción entre tradiciones persomesopotámicas, bizantino-griegas e indias, con estudiosos musulmanes, judíos y cristianos. [Biblioteca Nacional de Medicina: legados árabes](https://www.nlm.nih.gov/hmd/topics/medieval/index_alla.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas categorías se solapan, en lugar de dividir claramente a los eruditos en grupos separados. Una persona podía ser cristiana, escribir en árabe y traducir una obra griega a través del siríaco. «Persa», «árabe», «musulmán» y «cristiano» no describen el mismo aspecto de la identidad. Las etiquetas nacionales modernas pueden ocultar las rutas reales por las que circulaba el conocimiento."
+    },
+    {
+      "type": "subheading",
+      "text": "El papel amplió lo que podía circular"
+    },
+    {
+      "type": "paragraph",
+      "text": "El papel fue una invención china que se extendió por Asia Central antes de establecerse en tierras islámicas. A finales del siglo VIII ya se fabricaba en Bagdad. El historiador Jonathan Bloom advierte contra el relato conocido según el cual los fabricantes chinos de papel capturados en la batalla de Talas en 751 introdujeron por sí solos la técnica: la difusión del papel fue un proceso más largo, que no puede explicarse con seguridad por ese único episodio. [Encyclopaedia Iranica: el papel antes de la imprenta](https://www.iranicaonline.org/articles/paper-iran-prior-printing/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El papel ayudó a sostener la copia, la correspondencia, la administración y las colecciones. No hizo que los manuscritos fueran fáciles de producir o asequibles para todos: escribir y preparar libros seguía exigiendo trabajo especializado. Pero una oferta creciente de material de escritura abrió más oportunidades para conservar, revisar y difundir textos. La historia material del saber importa junto a las biografías de los grandes pensadores."
+    },
+    {
+      "type": "heading",
+      "text": "¿FUE LA CASA DE LA SABIDURÍA REALMENTE LA MAYOR BIBLIOTECA DEL MUNDO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El nombre *Bayt al-Hikma*, traducido habitualmente como Casa de la Sabiduría, está asociado con una biblioteca califal. Qué hacía, cómo cambiaron sus funciones y cuánto trabajo intelectual se desarrolló específicamente en ella son preguntas más difíciles. La evidencia es mucho más escasa de lo que sugieren las imágenes populares de una enorme universidad pública con todos los sabios célebres bajo un mismo techo. [Jeffrey Oaks, Universidad de Indianápolis: la Casa de la Sabiduría y sus mitos modernos](https://uindy.edu/cas/mathematics/oaks/articles/mhmc)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apoyándose en Dimitri Gutas y George Makdisi, Oaks distingue la biblioteca palaciega del movimiento de traducción mucho más amplio. Las referencias que la vinculan a materiales persas no demuestran que fuera la sede de toda la traducción del griego al árabe. Tampoco puede deducirse de su nombre un programa universitario moderno o acceso público universal. La institución espectacular del imaginario popular combina actividades que la evidencia sitúa en toda una comunidad académica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí existen conexiones auténticas que examinar: los testimonios medievales vinculan, por ejemplo, a al-Juarismi con la biblioteca califal. Pero los especialistas siguen debatiendo qué significaba ese vínculo. Es una razón para matizar la historia institucional, no para negar los logros intelectuales de Bagdad sólidamente documentados. [Biographical Encyclopedia of Astronomers: al-Juarismi](https://mathshistory.st-andrews.ac.uk/BEA/al_khwarizmi_bea.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "«La mayor biblioteca del mundo» no es una clasificación verificable. Ningún catálogo comparativo fiable establece esa afirmación. La importancia de Bagdad sobrevive a la retirada del superlativo; se apoya en obras, estudiosos y redes que realmente pueden estudiarse."
+    },
+    {
+      "type": "heading",
+      "text": "QUIENES CONVIRTIERON LA TRADUCCIÓN EN DESCUBRIMIENTO"
+    },
+    {
+      "type": "subheading",
+      "text": "Al-Juarismi: álgebra, cálculo y geografía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al-Juarismi, que trabajó en el siglo IX bajo el mecenazgo de al-Mamún, elaboró un tratamiento sistemático de las ecuaciones en su libro sobre *al-jabr* y *al-muqabala*. El título dio origen a la palabra álgebra. Sus métodos se expresaban con palabras y se apoyaban en razonamientos geométricos, no en la notación simbólica familiar de un libro escolar moderno. [MacTutor, Universidad de St Andrews: las matemáticas de al-Juarismi](https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su obra importa sin necesidad de afirmar que inventó todas las formas de razonamiento algebraico. Culturas matemáticas anteriores habían resuelto problemas relacionados. Al-Juarismi organizó métodos en una exposición poderosa y enseñable cuya influencia continuó mediante estudios y traducciones posteriores. Sus escritos sobre el cálculo con numerales indios también contribuyeron a una tradición de la que surgió la palabra algoritmo a través de la forma latinizada de su nombre."
+    },
+    {
+      "type": "paragraph",
+      "text": "También trabajó en astronomía y geografía. Las tablas astronómicas y los escritos geográficos adaptaban conocimientos heredados a nuevos lectores y fines. Los materiales indios y griegos no eran simples trofeos en una estantería: podían reorganizarse, utilizarse para calcular y corregirse. Las fronteras entre las disciplinas académicas modernas no encajan perfectamente con su trayectoria. [Biographical Encyclopedia of Astronomers: la obra científica de al-Juarismi](https://mathshistory.st-andrews.ac.uk/BEA/al_khwarizmi_bea.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Hunayn ibn Ishaq: el trabajo intelectual de traducir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hunayn ibn Ishaq, médico cristiano del siglo IX, fue fundamental para traducir obras médicas y filosóficas griegas al siríaco y al árabe. Su hijo Ishaq y otros colaboradores ampliaron esa actividad. Sus trabajos incluían escritos relacionados con Galeno y Aristóteles, pero la división de tareas variaba entre textos. No era un solo hombre que convirtiera mecánicamente toda una biblioteca antigua. [Stanford Encyclopedia of Philosophy: Hunayn y las fuentes griegas en árabe](https://plato.stanford.edu/entries/arabic-islamic-greek/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Traducir exigía criterio técnico. Un argumento médico podía fallar si su vocabulario resultaba engañoso; una distinción filosófica podía desaparecer si dos conceptos distintos recibían la misma palabra. Los traductores ayudaron a hacer posibles nuevas investigaciones al construir herramientas intelectuales utilizables. Reconocer ese trabajo es distinto de tratar la traducción como mero almacenamiento pasivo."
+    },
+    {
+      "type": "subheading",
+      "text": "Medicina: síntesis, observación y crítica"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los médicos del mundo islámico desarrollaron una amplia literatura médica que llevó la teoría heredada a nuevos contextos docentes y clínicos. Al-Razi, vinculado a Rayy y Bagdad, adquirió especial importancia por la observación clínica y la escritura médica. Más tarde, el *Canon* de Ibn Sina, Avicena, organizó la medicina en una síntesis influyente. Estos autores no deben confundirse con médicos modernos, pero tampoco eran meros bibliotecarios que custodiaban libros griegos. [Biblioteca Nacional de Medicina: medicina en el islam medieval](https://www.nlm.nih.gov/hmd/arabic/med_islam.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su mundo incluía distintos tipos de textos y enfoques. Los manuales podían tratar afecciones y tratamientos concretos en vez de repetir un sistema filosófico general. Algunas obras consideraban las necesidades de grupos específicos, incluidas personas que no podían pagar una atención costosa. La variedad de preguntas y públicos demuestra una cultura médica activa, no una herencia congelada. [Biblioteca Nacional de Medicina: notas de catálogo sobre literatura médica](https://www.nlm.nih.gov/hmd/arabic/notes.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Filosofía: al-Kindi y nuevos argumentos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al-Kindi hizo más que organizar traducciones. Exploró problemas filosóficos en un entorno intelectual árabe y abordó preguntas sobre la relación entre filosofía y creencia religiosa. Los textos producidos en su círculo moldearon debates posteriores, incluso cuando sus atribuciones o interpretaciones de autores antiguos eran imperfectas. La apropiación creativa podía incluir tanto intuiciones extraordinarias como malentendidos históricos. [Stanford Encyclopedia of Philosophy: proyecto y legado de al-Kindi](https://plato.stanford.edu/entries/al-kindi/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ingeniería: los hermanos Banu Musa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los hermanos Banu Musa, Muhammad, Ahmad y al-Hasan, trabajaron en la Bagdad del siglo IX. Su *Libro de los ingeniosos dispositivos*, fechado hacia 850, describía alrededor de cien aparatos. Los mecanismos con agua, aire y movimiento controlado convertían la comprensión teórica en efectos diseñados. Su trabajo también abarcó cuestiones matemáticas y astronómicas. [Centro Lemelson del Smithsonian: ingeniosos dispositivos](https://invention.si.edu/invention-stories/ingenious-devices)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esos dispositivos merecen atención en sus propios términos. Llamar a cada mecanismo robot u ordenador moderno exagera la evidencia y puede ocultar lo que sus creadores lograron realmente. Sus diseños revelan imaginación técnica dentro de una tradición mecánica más antigua, desarrollada mediante experimentación, adaptación y habilidad."
+    },
+    {
+      "type": "subheading",
+      "text": "Óptica: un mundo más amplio que Bagdad"
+    },
+    {
+      "type": "paragraph",
+      "text": "La obra de Ibn al-Haytham, Alhacén, sobre visión y luz pertenece a la historia más amplia de la ciencia islámica, pero no debe asignarse automáticamente como logro a una biblioteca abasí temprana. Nacido en Basora y activo en Egipto, combinó análisis matemático e investigaciones sobre la luz en su *Libro de óptica*. Su explicación de la visión destacaba la luz que entra en el ojo, en lugar de rayos visuales emitidos por este. [MacTutor: Ibn al-Haytham, Alhacén](https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su ejemplo ayuda a respetar la geografía. Bagdad fue un centro excepcional, no el único. Los estudiosos de otras ciudades, a veces bajo dinastías rivales, participaron en tradiciones que no pueden encerrarse en un mapa del gobierno directo abasí."
+    },
+    {
+      "type": "heading",
+      "text": "¿LOS ERUDITOS MUSULMANES SOLO «CONSERVARON» EL SABER GRIEGO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No. La conservación tuvo consecuencias importantes, pero los registros supervivientes también muestran crítica, nuevos problemas, métodos y argumentos. Las matemáticas ofrecen un ejemplo especialmente claro: los desarrollos posteriores a al-Juarismi ampliaron el álgebra y la conectaron con otros campos. La traducción podía responder a investigaciones en curso, en vez de constituir una etapa preliminar separada que terminara antes de que comenzara el pensamiento original. [MacTutor: el desarrollo de las matemáticas árabes](https://mathshistory.st-andrews.ac.uk/HistTopics/Arabic_mathematics/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La afirmación contraria, que Bagdad inventó todo de forma independiente, es igual de engañosa. Reconocer las aportaciones griegas, persas, siríacas e indias no disminuye la creatividad posterior. La originalidad intelectual suele surgir del encuentro con algo heredado: un cálculo que no encaja, un pasaje que necesita aclaración o un problema que un autor anterior nunca consideró."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tampoco era el propósito de ese saber esperar a que Europa lo recibiera. Sus autores se dirigían a sus propios lectores e instituciones. Las traducciones posteriores al latín y a otras lenguas fueron consecuencias importantes, pero no la única medida del valor de la obra. La historia pertenece tanto a las sociedades que se hacían esas preguntas como a los lugares a los que llegaron después las respuestas."
+    },
+    {
+      "type": "heading",
+      "text": "UNA CIUDAD DE LIBROS TAMBIÉN ERA UNA CIUDAD DE PODER DESIGUAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "La diversidad religiosa ayudó a sostener la vida intelectual de Bagdad, pero no equivalía a la ciudadanía igualitaria moderna. Las comunidades no musulmanas vivían dentro de distinciones jurídicas y fiscales, incluido el impuesto personal llamado habitualmente *yizia*. Las tasas, exenciones y formas de aplicación variaban, y los periodos de cooperación coexistían con restricciones y abusos. [Encyclopaedia Iranica: la yizia](https://www.iranicaonline.org/articles/jezya/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El erudito favorecido por un mecenas y el trabajador que sostenía un hogar de élite no experimentaban la misma ciudad. La magnificencia cortesana no debe borrar del relato la inseguridad cotidiana. Una «Edad de Oro» puede describir una producción cultural sobresaliente y a la vez ocultar lo desigualmente que se repartían sus beneficios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los propios libros pueden revelar esa cultura sin recurrir a estadísticas extravagantes. Un manuscrito de Dioscórides copiado e ilustrado en Bagdad en 1224, poco antes de la conquista mongola, demuestra la vida continuada de los materiales médicos traducidos en un nuevo entorno artístico. La cultura del libro de Bagdad no se limitó a un único momento del siglo IX. [Museo Metropolitano: manuscritos abasíes y vitalidad artística](https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258)"
+    },
+    {
+      "type": "heading",
+      "text": "CUANDO LOS CALIFAS PERDIERON EL CONTROL DE SUS EJÉRCITOS Y PROVINCIAS"
+    },
+    {
+      "type": "subheading",
+      "text": "La influencia militar turca y Samarra"
+    },
+    {
+      "type": "paragraph",
+      "text": "El ejército abasí cambió sustancialmente con el tiempo. Bajo al-Mutasim, las tropas turcas adquirieron especial influencia, incluidos soldados obtenidos mediante sistemas de esclavitud militar. Su reclutamiento ayudaba a los gobernantes a buscar fuerzas personalmente vinculadas a la corte, pero los comandantes adquirieron poder propio. Eran actores políticos, no un bloque étnico único e intercambiable. [Encyclopaedia Iranica: ejércitos anteriores al periodo mongol](https://www.iranicaonline.org/articles/army-ii/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al-Mutasim estableció la corte en Samarra en 836; siguió siendo la capital califal hasta 892. El traslado recuerda que ni siquiera la geografía política de la dinastía abasí estuvo centrada permanentemente en Bagdad. Los grandes edificios de Samarra expresaban los recursos de la corte, mientras la competencia militar amenazaba cada vez más la autoridad que esos monumentos proclamaban. [UNESCO: ciudad arqueológica de Samarra](https://whc.unesco.org/en/list/276)"
+    },
+    {
+      "type": "subheading",
+      "text": "Dinastías regionales y soberanía dividida"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los gobernantes provinciales podían reconocer a un califa y ejercer, al mismo tiempo, una amplia autonomía local. Los tahiríes de Jorasán ilustran lo difusa que podía volverse esa relación: recaudaban impuestos como agentes del califato, pero la cantidad retenida localmente y el equilibrio práctico de poder eran cuestiones de negociación política. Reconocer el prestigio de un gobernante no equivalía a obedecer todas sus órdenes. [Encyclopaedia Iranica: los tahiríes](https://www.iranicaonline.org/articles/taherid-dynasty/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 945, los búyidas tomaron Bagdad; los selyúcidas entraron en 1055. Los califas abasíes siguieron importando como fuentes de legitimidad y autoridad religiosa incluso cuando el poder militar estaba en otras manos. Pero su posición variaba según las circunstancias. Resulta demasiado simple describir a todos los califas posteriores como títeres completamente impotentes. [Cambridge University Press: cronología del gobierno abasí](https://assets.cambridge.org/97811071/83247/frontmatter/9781107183247_frontmatter.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fragmentación política también cambió la geografía de las oportunidades. Una corte debilitada en Bagdad no implicaba que todos los centros provinciales perdieran sus mecenas al mismo tiempo. Las dinastías locales podían convertirse por sí mismas en patrocinadoras del saber. La historia de la producción intelectual y la del control territorial califal están relacionadas, pero sus ascensos y caídas no coinciden exactamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tensiones económicas se acumularon de forma desigual. Las guerras, la mala administración y la inversión insuficiente dañaron partes del paisaje agrícola de Irak. Esta historia más larga importa: las dificultades de la ciudad no empezaron con el primer soldado mongol, y ninguna causa única explica cinco siglos de cambios políticos. [The New Cambridge History of Islam: el modelo abasí tardío](https://www.cambridge.org/core/books/abs/new-cambridge-history-of-islam/late-abbasid-pattern-9451050/5847292CE9EBC0FC1F39723E55A59E86)"
+    },
+    {
+      "type": "heading",
+      "text": "¿QUÉ OCURRIÓ REALMENTE CUANDO LOS MONGOLES DESTRUYERON BAGDAD?"
+    },
+    {
+      "type": "subheading",
+      "text": "El avance de Hulagu"
+    },
+    {
+      "type": "paragraph",
+      "text": "La expansión mongola había transformado el mundo político al este de Irak. Hulagu Kan, nieto de Gengis Kan y hermano del gran kan Möngke, dirigió una gran campaña hacia el oeste. Después de la caída de la fortaleza ismailí nizarí de Alamut en 1256, Bagdad se enfrentó a un poder muy superior a los recursos que podía reunir su califa. Las negociaciones no lograron un acuerdo. [Encyclopaedia Iranica: Hulagu Kan](https://www.iranicaonline.org/articles/hulagu-khan/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El último califa abasí de Bagdad, al-Mustásim, ostentaba un título excelso, pero su posición militar era mucho más débil que la de los primeros tiempos de la dinastía. Las historias que culpan de todo el desastre a un asesor traidor reducen un fracaso complejo a un culpable conveniente. Las tradiciones hostiles y sectarias que rodean la conquista deben leerse críticamente, no adoptarse como explicaciones definitivas."
+    },
+    {
+      "type": "subheading",
+      "text": "Asedio, rendición y matanza"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fuerzas mongolas convergieron sobre Bagdad y atacaron a comienzos de 1258. Las defensas de la ciudad fracasaron; la rendición y el saqueo posterior se desarrollaron en febrero. Los conquistadores saquearon y mataron a una escala devastadora. Al-Mustásim fue ejecutado, poniendo fin al gobierno del califato abasí en Bagdad. Fue una catástrofe real, no un mito inventado porque las generaciones posteriores prefirieran un final trágico. [Iranica: la campaña contra Bagdad](https://www.iranicaonline.org/articles/hulagu-khan/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los relatos discrepan sobre aspectos de la muerte del califa. La ejecución está bien establecida; las versiones dramáticas del método y de sus últimas conversaciones no son igual de fiables. Este artículo no reconstruye una conversación final ni presenta un relato moral posterior como una escena presenciada. El hecho político central ya es suficientemente contundente: la dinastía que había convertido Bagdad en capital imperial ya no podía protegerla. [Encyclopaedia Iranica: Bagdad bajo la conquista mongola](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Cuántas personas murieron?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No existe un recuento exacto fiable. Los informes medievales incluyen totales enormes, pero sus cifras no procedían de un censo moderno seguido de un registro auditado de fallecimientos. Los autores escribían a distintas distancias de los hechos y a veces copiaban relatos anteriores. Por tanto, las cifras repetidas pueden representar la transmisión de una narración, no una confirmación independiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los trabajos modernos que comparan relatos árabes, persas y siríacos muestran cuánto depende la interpretación de las palabras, el contexto y la relación entre crónicas. Incluso se debate la naturaleza de las enfermedades descritas después del saqueo. La investigación actual cuestiona que sus consecuencias puedan identificarse con seguridad con la peste negra. La incertidumbre sobre el total no reduce la gravedad de la matanza; limita la precisión con que puede describirse. [Brack, Biran y Amitai: reevaluación de las fuentes sobre Bagdad en 1258](https://doi.org/10.1017/mdh.2023.38)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Los libros volvieron negro el Tigris con su tinta?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La famosa imagen expresa la pérdida cultural con una concisión inolvidable. Debe identificarse como tradición literaria, no repetirse como una observación verificada de forma independiente. La evidencia no permite calcular de manera fiable cuántos libros se destruyeron, y mucho menos medir el color del río. Tampoco establece la conocida imagen de una única Casa de la Sabiduría intacta que lo abarcara todo que contuviera siglos de ciencia hasta el momento de ser arrojada al agua."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los libros y las instituciones sufrieron durante las guerras, pero la destrucción no era su único destino posible. Las colecciones podían dispersarse, trasladarse o reunirse de nuevo; podían sobrevivir copias en otros lugares. La investigación de Michal Biran reconstruye bibliotecas y transmisión de conocimientos en Bagdad bajo el dominio mongol, cuestionando la suposición de que el saqueo borró su comunidad intelectual. [Michal Biran: bibliotecas, libros y transmisión del conocimiento en la Bagdad iljaní](https://cris.huji.ac.il/en/publications/libraries-books-and-transmission-of-knowledge-in-ilkhanid-baghdad/)"
+    },
+    {
+      "type": "heading",
+      "text": "¿QUÉ SOBREVIVIÓ DESPUÉS DE 1258?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bagdad continuó bajo los iljanes, la dinastía mongola que gobernaba Irán y territorios vecinos. El gobierno tenía que funcionar, los ingresos debían recaudarse y la vida urbana continuó pese a las pérdidas. El historiador y administrador Ata-Malik Juvayni se convirtió en una figura importante de la administración posterior a la conquista. Sobrevivir no significaba volver inmediatamente a las condiciones anteriores, pero Bagdad tampoco desapareció sin más de la historia tras el saqueo. [Iranica: administración de Bagdad tras la conquista](https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La refutación más sólida de un fin repentino de la ciencia islámica es lo que hicieron realmente los estudiosos después. Nasir al-Din al-Tusi trabajó con el apoyo de Hulagu en Maragha, donde se desarrollaron un observatorio y un centro académico. Su relación con el conquistador resulta incómoda para un relato dividido entre destrucción pura de un lado y saber puro del otro. La violencia política y el mecenazgo podían coexistir en un mismo régimen. [Encyclopaedia Iranica: Nasir al-Din al-Tusi](https://www.iranicaonline.org/articles/%E1%B9%ADusi-na%E1%B9%A3ir-al-din-i-biography/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio de Biran también identifica redes académicas y bibliotecas activas en la propia Bagdad iljaní. Eso no prueba que sobrevivieran todas las colecciones ni que no se perdiera nada irremplazable. Demuestra que la evidencia respalda una continuidad del trabajo intelectual, no el conocido punto final. [Biran: actividad académica en la Bagdad iljaní](https://cris.huji.ac.il/en/publications/libraries-books-and-transmission-of-knowledge-in-ilkhanid-baghdad/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El nombre abasí también continuó mediante califas titulares en el Egipto mameluco, con un papel político muy distinto del de sus primeros predecesores. Más ampliamente, el conocimiento asociado a los siglos abasíes ya estaba disperso en manuscritos, maestros, traducciones y otros centros de estudio. El destino de una capital no podía determinar el de cada copia o cada argumento. [Museo Metropolitano: los abasíes después de Bagdad](https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258)"
+    },
+    {
+      "type": "heading",
+      "text": "CALIFATO ABASÍ: MITOS Y REALIDAD"
+    },
+    {
+      "type": "paragraph",
+      "text": "**«La Edad de Oro fueron cinco siglos de paz ininterrumpida».** El periodo incluyó guerra civil, rebeliones, luchas militares y mecenazgos cambiantes. Los logros intelectuales no exigían que todas las décadas fueran prósperas o seguras."
+    },
+    {
+      "type": "paragraph",
+      "text": "**«Bagdad inventó todo lo que estudió».** Sus eruditos heredaron materiales de muchas tradiciones. Sus logros incluyeron seleccionarlos, traducirlos, criticarlos y ampliarlos, además de realizar trabajo original."
+    },
+    {
+      "type": "paragraph",
+      "text": "**«Todos esos eruditos eran árabes».** El árabe era una lengua académica compartida por distintas comunidades. La lengua de publicación no establece la ascendencia ni borra las identidades regionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "**«Todos esos eruditos eran musulmanes».** Los traductores y médicos cristianos fueron fundamentales, y los eruditos judíos participaron en el entorno intelectual más amplio. La diversidad religiosa coexistía con disposiciones jurídicas desiguales."
+    },
+    {
+      "type": "paragraph",
+      "text": "**«Todos los grandes pensadores trabajaban en la Casa de la Sabiduría».** Está documentada una biblioteca califal; no está sólidamente documentado el campus universal de investigación del imaginario popular. La red académica era mayor que cualquier institución individual."
+    },
+    {
+      "type": "paragraph",
+      "text": "**«Las aventuras de Harún al-Rashid en Las mil y una noches son una biografía».** Pertenecen a una tradición literaria cambiante. El califa histórico debe estudiarse mediante evidencia histórica examinada críticamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "**«La ciencia del mundo islámico terminó en 1258».** La caída de Bagdad fue devastadora. Las instituciones supervivientes y la producción académica posterior muestran que no fue el final de la historia intelectual."
+    },
+    {
+      "type": "heading",
+      "text": "UNA CAPITAL PODÍA CAER; SUS IDEAS YA HABÍAN VIAJADO"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia de la Bagdad abasí resulta más convincente cuando sus logros conservan una escala humana: trabajo difícil de personas que necesitaban mecenas, colaboradores, materiales y tiempo. El vocabulario de un traductor, la demostración de un matemático, la discusión de un médico y el dibujo de un ingeniero importaban porque otros podían leerlos, ponerlos a prueba y continuar el trabajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para ampliar el contexto político, explora [las conquistas y conexiones del Imperio mongol](/articles/mongol-empire-genghis-khan-conquests-legacy/) y [la larga supervivencia del Imperio bizantino](/articles/byzantine-empire-eastern-rome-constantinople-1453/). El mundo de Bagdad interactuó con ambos; su historia no puede entenderse al margen de las potencias vecinas y las tradiciones heredadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su grandeza no procedía de una civilización que creara conocimiento sola. Surgió al convertirse en un punto de encuentro entre lenguas, culturas, comercio y tradiciones intelectuales. Esos encuentros fueron a veces desiguales, a veces conflictivos y a veces extraordinariamente productivos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los mongoles podían destruir el centro político de Bagdad. Pero el conocimiento creado y transmitido por el mundo abasí ya había viajado mucho más allá de la ciudad."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Kennedy: fundación y crecimiento de Bagdad",
+      "url": "https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-i-pr-mongol/"
+    },
+    {
+      "label": "Encyclopaedia Iranica: el califato abasí",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate/"
+    },
+    {
+      "label": "Cambridge University Press: cronología del gobierno abasí",
+      "url": "https://assets.cambridge.org/97811071/83247/frontmatter/9781107183247_frontmatter.pdf"
+    },
+    {
+      "label": "Encyclopaedia Iranica: Abu Muslim de Jorasán",
+      "url": "https://www.iranicaonline.org/articles/abu-moslem-abd-al-rahman-b/"
+    },
+    {
+      "label": "Museo Metropolitano: los abasíes después de Bagdad",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+    },
+    {
+      "label": "Encyclopaedia Iranica: el comercio antes de la conquista mongola",
+      "url": "https://www.iranicaonline.org/articles/commerce-iv/"
+    },
+    {
+      "label": "Encyclopaedia Iranica: el sistema fiscal islámico",
+      "url": "https://www.iranicaonline.org/articles/fiscal-system-iii-islamic-period/"
+    },
+    {
+      "label": "Encyclopaedia Iranica: Harún al-Rashid",
+      "url": "https://www.iranicaonline.org/articles/harun-al-rasid/"
+    },
+    {
+      "label": "Encyclopaedia Iranica: Las mil y una noches",
+      "url": "https://www.iranicaonline.org/articles/alf-layla-wa-layla/"
+    },
+    {
+      "label": "Iranica: políticas religiosas e intelectuales de al-Mamún",
+      "url": "https://www.iranicaonline.org/articles/mamun-abul-abbas-abd-allah/"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy: proyecto y legado de al-Kindi",
+      "url": "https://plato.stanford.edu/entries/al-kindi/"
+    },
+    {
+      "label": "Biblioteca Nacional de Medicina: legados árabes",
+      "url": "https://www.nlm.nih.gov/hmd/topics/medieval/index_alla.html"
+    },
+    {
+      "label": "Encyclopaedia Iranica: el papel antes de la imprenta",
+      "url": "https://www.iranicaonline.org/articles/paper-iran-prior-printing/"
+    },
+    {
+      "label": "Jeffrey Oaks, Universidad de Indianápolis: la Casa de la Sabiduría y sus mitos modernos",
+      "url": "https://uindy.edu/cas/mathematics/oaks/articles/mhmc"
+    },
+    {
+      "label": "Biographical Encyclopedia of Astronomers: la obra científica de al-Juarismi",
+      "url": "https://mathshistory.st-andrews.ac.uk/BEA/al_khwarizmi_bea.pdf"
+    },
+    {
+      "label": "MacTutor, Universidad de St Andrews: las matemáticas de al-Juarismi",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy: Hunayn y las fuentes griegas en árabe",
+      "url": "https://plato.stanford.edu/entries/arabic-islamic-greek/"
+    },
+    {
+      "label": "Biblioteca Nacional de Medicina: medicina en el islam medieval",
+      "url": "https://www.nlm.nih.gov/hmd/arabic/med_islam.html"
+    },
+    {
+      "label": "Biblioteca Nacional de Medicina: notas de catálogo sobre literatura médica",
+      "url": "https://www.nlm.nih.gov/hmd/arabic/notes.html"
+    },
+    {
+      "label": "Centro Lemelson del Smithsonian: ingeniosos dispositivos",
+      "url": "https://invention.si.edu/invention-stories/ingenious-devices"
+    },
+    {
+      "label": "MacTutor: Ibn al-Haytham, Alhacén",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/"
+    },
+    {
+      "label": "MacTutor: el desarrollo de las matemáticas árabes",
+      "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Arabic_mathematics/"
+    },
+    {
+      "label": "Encyclopaedia Iranica: la yizia",
+      "url": "https://www.iranicaonline.org/articles/jezya/"
+    },
+    {
+      "label": "Encyclopaedia Iranica: ejércitos anteriores al periodo mongol",
+      "url": "https://www.iranicaonline.org/articles/army-ii/"
+    },
+    {
+      "label": "UNESCO: ciudad arqueológica de Samarra",
+      "url": "https://whc.unesco.org/en/list/276"
+    },
+    {
+      "label": "Encyclopaedia Iranica: los tahiríes",
+      "url": "https://www.iranicaonline.org/articles/taherid-dynasty/"
+    },
+    {
+      "label": "The New Cambridge History of Islam: el modelo abasí tardío",
+      "url": "https://www.cambridge.org/core/books/abs/new-cambridge-history-of-islam/late-abbasid-pattern-9451050/5847292CE9EBC0FC1F39723E55A59E86"
+    },
+    {
+      "label": "Iranica: la campaña contra Bagdad",
+      "url": "https://www.iranicaonline.org/articles/hulagu-khan/"
+    },
+    {
+      "label": "Iranica: administración de Bagdad tras la conquista",
+      "url": "https://www.iranicaonline.org/articles/baghdad/baghdad-iranian-connection-ii/"
+    },
+    {
+      "label": "Brack, Biran y Amitai: reevaluación de las fuentes sobre Bagdad en 1258",
+      "url": "https://doi.org/10.1017/mdh.2023.38"
+    },
+    {
+      "label": "Biran: actividad académica en la Bagdad iljaní",
+      "url": "https://cris.huji.ac.il/en/publications/libraries-books-and-transmission-of-knowledge-in-ilkhanid-baghdad/"
+    },
+    {
+      "label": "Encyclopaedia Iranica: Nasir al-Din al-Tusi",
+      "url": "https://www.iranicaonline.org/articles/%E1%B9%ADusi-na%E1%B9%A3ir-al-din-i-biography/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿De qué trata este artículo de PRESDA?",
+      "answer": "Una ciudad de califas, mercaderes, traductores y eruditos puso en diálogo tradiciones lejanas. Cómo la Bagdad abasí transformó el conocimiento y por qué su legado sobrevivió a 1258."
+    },
+    {
+      "question": "¿A qué categoría pertenece esta historia?",
+      "answer": "Esta historia forma parte de los artículos de Historia de PRESDA."
+    },
+    {
+      "question": "¿Quién publicó este artículo?",
+      "answer": "CALIFATO ABASÍ: CUANDO BAGDAD SE CONVIRTIÓ EN EL CENTRO DEL MUNDO fue publicado por PRESDA Editorial en PRESDA."
+    }
+  ]
+}

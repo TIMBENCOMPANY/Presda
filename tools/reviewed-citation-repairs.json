@@ -131,5 +131,54 @@
     "replacement": "https://www.sec.gov/Archives/edgar/data/1050446/000156459019038406/mstr-10q_20190930.htm",
     "reason": "MicroStrategy's filed September 2019 10-Q documents the same Voice.com sale and figures; corrected filing citation.",
     "verifiedAt": "2026-09-26"
+  },
+  {
+    "slug": "british-empire-history-rise-fall-global-legacy",
+    "original": "https://www.nationalarchives.gov.uk/education/resources/the-south-african-war-how-did-the-british-conduct-war-in-1899-1902/",
+    "replacement": "https://cdn.nationalarchives.gov.uk/documents/education/the-south-african-war.pdf",
+    "reason": "The same National Archives lesson survives as its official PDF; the HTML resource returns410. PDF includes the war chronology and primary sources.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "british-empire-history-rise-fall-global-legacy",
+    "original": "https://www.nationalarchives.gov.uk/education/resources/wartime-propaganda/",
+    "replacement": "https://cdn.nationalarchives.gov.uk/documents/education/wartime-propaganda.pdf",
+    "reason": "The same National Archives lesson survives as its official PDF; the HTML resource returns410.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "titanic-what-really-happened",
+    "original": "https://www.nationalarchives.gov.uk/titanic/",
+    "replacement": "https://cdn.nationalarchives.gov.uk/documents/education/titanic.pdf",
+    "reason": "Working National Archives Titanic education resource replaces the404 landing page. Same-publisher subject-equivalent source based on archival documents, not asserted to be a relocated landing page.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "titanic-what-really-happened",
+    "original": "https://www.whoi.edu/know-your-ocean/ocean-topics/underwater-archaeology/titanic/",
+    "replacement": "https://www.whoi.edu/ocean-learning-hub/ocean-topics/ocean-human-lives/underwater-archaeology/rms-titanic/",
+    "reason": "Current WHOI RMS Titanic topic page replaces obsolete404 taxonomy path.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "sarco-capsule-assisted-dying-switzerland",
+    "original": "https://www.bj.admin.ch/bj/en/home/gesellschaft/gesetzgebung/archiv/sterbehilfe.html",
+    "replacement": "https://www.bj.admin.ch/en/the-various-forms-of-euthanasia",
+    "reason": "Current Federal Office of Justice explanation of assisted suicide and euthanasia replaces404 legacy path; same authority and legal context, not an asserted exact relocation.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "sarco-capsule-assisted-dying-switzerland",
+    "original": "https://www.government.nl/topics/euthanasia",
+    "replacement": "https://www.government.nl/themes/family-health-and-care/euthanasia",
+    "reason": "Government of the Netherlands topic moved to its current family-health-and-care theme.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "area-51-aliens-myth-reality-secret-aircraft",
+    "original": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+    "replacement": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "reason": "Correct published filename of the same AARO2024 historical record report Volume1; original expanded Volume filename returns404.",
+    "verifiedAt": "2026-09-27"
   }
 ]

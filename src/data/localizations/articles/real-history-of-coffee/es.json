@@ -1,0 +1,925 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/real-history-of-coffee/",
+  "path": "/es/articles/real-history-of-coffee/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "La verdadera historia del café: de Etiopía al mundo",
+  "excerpt": "De las tierras altas de Etiopía a Yemen, de los cafés otomanos a las plantaciones de Brasil: el café conecta culturas, comercio, innovación y una historia de explotación.",
+  "headlineHighlights": {
+    "red": "historia del café",
+    "gold": "Etiopía al mundo"
+  },
+  "seoTitle": "Historia del café: de Etiopía y Yemen al resto del mundo",
+  "description": "Descubre el origen del café, la leyenda de Kaldi, el papel de Yemen y los cafés otomanos, las plantaciones coloniales, Brasil y la revolución del espresso.",
+  "keywords": [
+    "historia del café",
+    "origen del café",
+    "café Etiopía Yemen",
+    "historia café Brasil"
+  ],
+  "searchIntent": "Conocer el origen del café y cómo se extendieron su cultivo, su consumo y su comercio, distinguiendo las leyendas de los hechos históricos.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "image": {
+    "src": "/images/articles/real-history-of-coffee.jpg",
+    "alt": "El recorrido histórico del café desde Etiopía y Yemen hasta Brasil, pasando por el Imperio otomano y Europa"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Cada mañana, miles de millones de personas participan en un ritual cuya historia atraviesa continentes y siglos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café despierta las ciudades antes del amanecer. Acompaña oficinas, cafeterías, universidades y conversaciones. Se ha vuelto tan cotidiano que resulta fácil olvidar lo extraordinario de su recorrido."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café no se limitó a pasar de un país a otro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su historia atraviesa África, el mundo árabe, el Imperio otomano, Europa, las plantaciones coloniales, la esclavitud, la industrialización y el comercio mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y comienza en Etiopía. Para seguir explorando la cultura y la ciencia en PRESDA, lee nuestros artículos sobre [la investigación del envejecimiento y la longevidad](/articles/anti-aging-can-we-slow-down-human-aging/) y [los destinos poco conocidos para visitar en 2026](/articles/top-10-hidden-gems-to-visit-in-2026/)."
+    },
+    {
+      "type": "heading",
+      "text": "Etiopía: donde comienza el café"
+    },
+    {
+      "type": "paragraph",
+      "text": "El hogar biológico de Coffea arabica, la especie de la que procede gran parte del café arábica del mundo, se encuentra en las tierras altas de Etiopía y zonas vecinas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Allí crecían cafetos silvestres mucho antes de que existieran las máquinas de espresso, las cafeterías o el comercio internacional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero separar la historia de la leyenda se vuelve difícil enseguida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Uno de los relatos más famosos habla de un cabrero etíope llamado Kaldi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según la leyenda, Kaldi observó que sus cabras se volvían especialmente activas tras comer las bayas rojas de cierta planta. La curiosidad habría llevado después a los humanos a probarlas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es una historia estupenda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Solo tiene un problema: los historiadores no disponen de pruebas fiables de que Kaldi existiera."
+    },
+    {
+      "type": "paragraph",
+      "text": "La UNESCO presenta el relato de las cabras danzantes como una leyenda etíope sobre el café, no como un hecho histórico demostrado."
+    },
+    {
+      "type": "paragraph",
+      "text": "En cualquier caso, la realidad resulta aún más interesante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las raíces botánicas del café están en África, pero las primeras pruebas más claras de su transformación en la bebida y la cultura que reconocemos hoy nos llevan al otro lado del mar Rojo."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Yemen."
+    },
+    {
+      "type": "heading",
+      "text": "Yemen: donde el café se convirtió en bebida"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el siglo XV, el consumo de café ya estaba establecido en Yemen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es uno de los capítulos fundamentales de toda la historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las comunidades sufíes están estrechamente vinculadas a los primeros usos documentados del café en Yemen. La bebida estimulante ayudaba a los fieles a mantenerse despiertos durante largos periodos de oración nocturna y devoción religiosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café ya no era simplemente una planta africana silvestre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se había convertido en una bebida preparada con una función social y cultural."
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde Yemen se extendieron su cultivo y su consumo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y un puerto yemení entraría para siempre en el vocabulario del café."
+    },
+    {
+      "type": "subheading",
+      "text": "Al-Makha: Moca"
+    },
+    {
+      "type": "paragraph",
+      "text": "El puerto de Al-Makha, en la costa yemení del mar Rojo, quedó profundamente asociado al comercio internacional del café."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los comerciantes europeos lo conocieron después como Moca."
+    },
+    {
+      "type": "paragraph",
+      "text": "Siglos más tarde, la palabra sigue en las cartas de cafeterías de todo el mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de quienes piden hoy un moca probablemente no piensan en un puerto histórico de Yemen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero cada vez que pronuncian ese nombre evocan una parte de la historia del café."
+    },
+    {
+      "type": "heading",
+      "text": "El café se extiende por el mundo árabe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde Yemen, el café viajó por el mundo árabe e islámico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Llegó a grandes centros como La Meca, El Cairo y Damasco."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las casas de café surgieron como importantes espacios sociales donde reunirse, conversar, escuchar, intercambiar información y pasar tiempo fuera del hogar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa popularidad también generó polémica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Autoridades y estudiosos religiosos debatieron en ocasiones sus efectos sociales y su licitud. Las casas de café podían atraer grandes reuniones, conversaciones y debates políticos, actividades que los gobiernos han mirado a veces con recelo a lo largo de la historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "En distintos momentos se intentó restringir el café o los establecimientos que lo servían."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero resultó muy difícil frenar la bebida."
+    },
+    {
+      "type": "paragraph",
+      "text": "A la gente le gustaba el café."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y, sobre todo, le gustaba lo que ocurría a su alrededor."
+    },
+    {
+      "type": "heading",
+      "text": "El Imperio otomano convierte el café en cultura"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el siglo XVI, el café estaba profundamente arraigado en el mundo otomano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estambul se convirtió en uno de los grandes centros de la cultura cafetera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las casas de café ofrecían espacios de conversación, narración, juegos, entretenimiento e intercambio de noticias."
+    },
+    {
+      "type": "paragraph",
+      "text": "La preparación que acabaría conociéndose como café turco se convirtió en un ritual cultural que iba mucho más allá de consumir cafeína."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café finamente molido se prepara tradicionalmente despacio, a menudo en un pequeño recipiente llamado cezve, y se sirve sin filtrar en tazas pequeñas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero su importancia reside tanto en la hospitalidad y la conversación como en la preparación."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2013, la UNESCO inscribió la cultura y la tradición del café turco en la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café había pasado de planta a algo mayor: una institución social."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y pronto los europeos también se entusiasmarían con él."
+    },
+    {
+      "type": "heading",
+      "text": "Europa descubre el café"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comerciantes y viajeros europeos conocieron el café a través de sus vínculos con los mundos otomano y mediterráneo."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el siglo XVII, se extendía por las ciudades europeas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Venecia se convirtió en una importante puerta de entrada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Más tarde aparecieron cafés en Londres, París y Viena, entre otras ciudades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al principio, la nueva bebida parecía foránea y exótica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después, los europeos la hicieron suya."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cafés se convirtieron en lugares de encuentro para comerciantes, escritores, intelectuales, políticos y hombres de negocios."
+    },
+    {
+      "type": "paragraph",
+      "text": "La gente no acudía solo a beber."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acudía a intercambiar información."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de los teléfonos inteligentes, las redes sociales y las noticias instantáneas, un café concurrido podía funcionar como una red informativa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las noticias pasaban de mesa en mesa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se discutían acuerdos comerciales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estallaban debates políticos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Circulaban las ideas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café se convirtió en uno de los espacios sociales importantes de la vida urbana de la Edad Moderna."
+    },
+    {
+      "type": "heading",
+      "text": "La casa de café se convierte en una red"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá sea una de las aportaciones más infravaloradas del café a la historia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos establecimientos reunían una y otra vez a las personas en los mismos espacios físicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos atraían a determinados oficios o grupos sociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los comerciantes se congregaban en uno."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los escritores, en otro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los pensadores políticos, en un lugar distinto."
+    },
+    {
+      "type": "paragraph",
+      "text": "La información que de otro modo habría quedado aislada podía circular con rapidez."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Gran Bretaña, algunos cafés se vincularon estrechamente al comercio y las finanzas."
+    },
+    {
+      "type": "paragraph",
+      "text": "En otros lugares se asociaron a la literatura, el periodismo, la política revolucionaria y los movimientos artísticos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cultura concreta variaba de una ciudad a otra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la fórmula básica tenía una fuerza extraordinaria: café, personas, conversación e información."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una bebida había ayudado a crear una nueva clase de espacio público."
+    },
+    {
+      "type": "heading",
+      "text": "Después, el café cruzó los océanos"
+    },
+    {
+      "type": "paragraph",
+      "text": "La demanda europea siguió creciendo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero depender del café del mundo árabe planteaba un problema comercial a las potencias europeas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Querían su propio suministro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso se trasladaron plantas y semillas a territorios coloniales con climas aptos para el cultivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café se extendió a partes de Asia, el Caribe y América Latina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así pasó de producto regional a industria agrícola mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, esa expansión tiene un lado oscuro."
+    },
+    {
+      "type": "heading",
+      "text": "El lado oscuro del café"
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen romántica del café suele incluir montañas hermosas, pequeñas fincas y cafeterías elegantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La realidad histórica fue a menudo mucho más dura."
+    },
+    {
+      "type": "paragraph",
+      "text": "A medida que los imperios europeos ampliaban la producción, las plantaciones se vinculaban a sistemas de explotación colonial, trabajo forzado y esclavitud."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cultivar café a una escala enorme exigía tierra y trabajadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "En varias economías coloniales, ese trabajo se impuso mediante la violencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso la industria mundial del café no puede entenderse únicamente a través de historias de cafeterías y comerciantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "También forma parte de la historia más amplia de los imperios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y en ningún lugar transformaría una economía de manera tan profunda como en Brasil."
+    },
+    {
+      "type": "heading",
+      "text": "Brasil: nace el gigante del café"
+    },
+    {
+      "type": "paragraph",
+      "text": "El café llegó a Brasil en el siglo XVIII."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al principio era simplemente otro cultivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después se disparó la demanda mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante el siglo XIX, las plantaciones crecieron de forma espectacular, especialmente en el sureste brasileño."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la década de 1830, el café ya era esencial para la economía exportadora de Brasil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Más avanzado el siglo, el país se convirtió en la potencia dominante de la producción mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hacia 1880, Brasil producía aproximadamente la mitad del café del mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero esa extraordinaria expansión económica estaba profundamente ligada a la esclavitud."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los africanos esclavizados y sus descendientes aportaron una enorme cantidad de trabajo a las plantaciones brasileñas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incluso después de suprimirse la trata transatlántica, el comercio interno siguió trasladando personas esclavizadas a las regiones cafeteras en expansión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brasil no abolió la esclavitud hasta 1888."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café ayudó a crear una riqueza inmensa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero buena parte de ella se construyó sobre el sufrimiento humano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa realidad pertenece a la historia de la bebida tanto como los elegantes cafés europeos."
+    },
+    {
+      "type": "heading",
+      "text": "De las plantaciones a la industria mundial"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Revolución Industrial volvió a cambiar el café."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ferrocarril facilitó el transporte de las cosechas a los puertos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los barcos de vapor aceleraron el comercio internacional."
+    },
+    {
+      "type": "paragraph",
+      "text": "El tueste industrial permitió obtener productos más uniformes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El envasado hizo posible llevar el café más lejos conservando su calidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Surgieron marcas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se amplió la distribución masiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "Poco a poco, el café pasó de lujo exótico a producto cotidiano."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cadena de suministro ya recorría el planeta: finca, procesamiento, puerto, barco, tostador, tienda y taza."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café se había convertido en una de las grandes mercancías del comercio mundial."
+    },
+    {
+      "type": "heading",
+      "text": "Estados Unidos se enamora del café"
+    },
+    {
+      "type": "paragraph",
+      "text": "El consumo también creció de manera espectacular en Estados Unidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con el tiempo, quedó integrado en la cultura cotidiana del país."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café acompañaba a trabajadores, soldados, viajeros y familias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su imagen volvió a cambiar durante el siglo XX."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los diners estadounidenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las cafeteras de oficina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los restaurantes de carretera."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café soluble."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café se volvió menos ceremonial y más práctico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una taza podía significar simplemente: despierta, tenemos trabajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces llegó otra revolución desde Europa."
+    },
+    {
+      "type": "heading",
+      "text": "Italia y la revolución del espresso"
+    },
+    {
+      "type": "paragraph",
+      "text": "Italia transformó la manera de beber café en las ciudades modernas."
+    },
+    {
+      "type": "paragraph",
+      "text": "A finales del siglo XIX y comienzos del XX, varios inventores desarrollaron máquinas capaces de prepararlo rápidamente mediante presión y vapor."
+    },
+    {
+      "type": "paragraph",
+      "text": "La máquina de espresso moderna evolucionó durante las décadas siguientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El espresso creó todo un vocabulario nuevo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Espresso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cappuccino."
+    },
+    {
+      "type": "paragraph",
+      "text": "Latte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Macchiato."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café se volvió más rápido, más concentrado y cada vez más ligado a las barras de las cafeterías y a la vida urbana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su influencia se extendió por todo el mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy, alguien en Tokio, Casablanca, Nueva York, Estambul o São Paulo puede entrar en una cafetería y pedir bebidas cuya forma moderna debe muchísimo a la cultura italiana del espresso."
+    },
+    {
+      "type": "heading",
+      "text": "El café soluble lo cambia todo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra innovación tecnológica llevó el café aún más lejos en la vida cotidiana: el café soluble."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ya habían existido distintas formas de café soluble, pero la producción masiva del siglo XX lo convirtió en un producto mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin molinillo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin equipos complicados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Agua caliente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Café."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para millones de personas, la comodidad importaba más que el ritual."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café se había adaptado a la modernidad industrial."
+    },
+    {
+      "type": "heading",
+      "text": "El regreso del café de especialidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces ocurrió algo interesante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras siglos de hacer el café más fácil, rápido y uniforme, una parte de la industria comenzó a avanzar en sentido contrario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los consumidores se interesaron cada vez más por el origen, la variedad, la altitud, el procesamiento, la identidad del productor y el tipo de tueste."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se empezó a hablar del café con un vocabulario antes asociado sobre todo al vino."
+    },
+    {
+      "type": "paragraph",
+      "text": "Granos de origen único."
+    },
+    {
+      "type": "paragraph",
+      "text": "Métodos de procesamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tueste claro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Filtrado por vertido manual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trazabilidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cafeterías de especialidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "El movimiento contemporáneo del café de especialidad volvió a poner el foco en algo que la producción masiva había ocultado a menudo: el café es un producto agrícola."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su sabor comienza mucho antes de llegar a la cafetería."
+    },
+    {
+      "type": "heading",
+      "text": "El café hoy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy se cultiva en regiones tropicales de África, América Latina y Asia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brasil sigue siendo el mayor productor mundial, mientras Vietnam, Colombia, Etiopía y otros países desempeñan papeles importantes en su producción y su cultura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la geografía del café es más compleja que una clasificación de productores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Etiopía sigue siendo central en su historia biológica y cultural."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yemen representa uno de los primeros grandes centros de consumo y cultivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mundo otomano ayudó a convertirlo en una tradición social duradera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cafés europeos lo transformaron en vehículo de conversación e información."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las plantaciones coloniales globalizaron la producción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brasil lo convirtió en una mercancía de enorme escala."
+    },
+    {
+      "type": "paragraph",
+      "text": "Italia revolucionó su preparación."
+    },
+    {
+      "type": "paragraph",
+      "text": "La industrialización lo hizo accesible a millones de personas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y el café de especialidad actual ha animado a los consumidores a volver la mirada hacia el origen."
+    },
+    {
+      "type": "paragraph",
+      "text": "La taza cerró un círculo extraordinario."
+    },
+    {
+      "type": "heading",
+      "text": "Un viaje entre civilizaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia del café no puede pertenecer realmente a un solo país."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se construyó por etapas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Etiopía: el hogar botánico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yemen: donde se desarrolló la primera cultura de consumo de café bien documentada."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mundo árabe: donde se extendieron las casas de café y la cultura social de la bebida."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Imperio otomano: donde el café arraigó en la vida urbana y la hospitalidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Europa: donde los cafés se convirtieron en centros de comercio, política e intercambio intelectual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las plantaciones coloniales: donde la demanda mundial creció junto con la explotación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brasil: donde el café se convirtió en una enorme mercancía industrial."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mundo: donde miles de millones de tazas pasaron a formar parte de la vida cotidiana."
+    },
+    {
+      "type": "paragraph",
+      "text": "El café no se inventó una sola vez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las civilizaciones siguieron añadiéndole capítulos."
+    },
+    {
+      "type": "heading",
+      "text": "La taza que tienes delante"
+    },
+    {
+      "type": "paragraph",
+      "text": "La próxima vez que bebas café, piensa en todo lo que tuvo que ocurrir para que esa taza existiera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una planta originaria de las tierras altas de Etiopía cruzó el mar Rojo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las comunidades yemeníes la cultivaron y la bebieron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los comerciantes árabes ayudaron a difundirla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ciudades otomanas la transformaron en un ritual social."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cafés europeos la convirtieron en una institución urbana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los imperios llevaron la planta al otro lado de los océanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Millones de trabajadores la cultivaron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brasil transformó la producción mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tecnología industrial la tostó, envasó y transportó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ingenieros italianos cambiaron la manera de prepararla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y las cafeterías modernas convirtieron el propio origen en parte de la experiencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beber una taza de café puede llevar solo unos minutos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su viaje duró siglos."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://courier.unesco.org/en/articles/ethiopia-home-coffee",
+      "label": "El Correo de la UNESCO: Etiopía, cuna del café"
+    },
+    {
+      "url": "https://ich.unesco.org/en/RL/turkish-coffee-culture-and-tradition-00645",
+      "label": "Patrimonio Cultural Inmaterial de la UNESCO: la cultura y la tradición del café turco"
+    },
+    {
+      "url": "https://courier.unesco.org/en/articles/places-mixing-and-citizenship",
+      "label": "El Correo de la UNESCO: cafés como lugares de encuentro y ciudadanía"
+    },
+    {
+      "url": "https://guides.loc.gov/brazil-us-relations/slavery-and-abolition",
+      "label": "Biblioteca del Congreso: esclavitud y abolición en Brasil"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿De dónde procede el café?",
+      "answer": "El hogar biológico de Coffea arabica está en las tierras altas de Etiopía y zonas vecinas. Las primeras pruebas más claras de su transformación en bebida preparada y cultura social apuntan a Yemen."
+    },
+    {
+      "question": "¿Existió Kaldi, el cabrero?",
+      "answer": "Kaldi forma parte de la famosa leyenda etíope sobre el origen del café, pero no hay pruebas históricas fiables de su existencia. La UNESCO presenta la historia como leyenda, no como un hecho demostrado."
+    },
+    {
+      "question": "¿Por qué es importante Moca en la historia del café?",
+      "answer": "Moca procede de Al-Makha, un puerto yemení del mar Rojo muy vinculado al comercio histórico del café. La palabra perduró después en el vocabulario cafetero mundial."
+    },
+    {
+      "question": "¿Qué importancia histórica tiene el café turco?",
+      "answer": "Se convirtió en una importante tradición otomana de sociabilidad y hospitalidad. En 2013, la UNESCO inscribió la cultura y la tradición del café turco en la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad."
+    },
+    {
+      "question": "¿Cómo influyeron los cafés en la historia?",
+      "answer": "Crearon espacios públicos donde intercambiar noticias, ideas, información comercial y argumentos políticos. Su papel variaba según la ciudad, pero se convirtieron en importantes redes sociales e informativas."
+    },
+    {
+      "question": "¿Por qué Brasil es tan importante en esta historia?",
+      "answer": "Brasil se convirtió en el productor mundial dominante en el siglo XIX. El auge cafetero generó una enorme riqueza, pero estuvo profundamente vinculado a la esclavitud y al trabajo en las plantaciones antes de la abolición de 1888."
+    }
+  ]
+}

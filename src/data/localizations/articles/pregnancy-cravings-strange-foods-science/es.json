@@ -1,0 +1,499 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/pregnancy-cravings-strange-foods-science/",
+  "path": "/es/articles/pregnancy-cravings-strange-foods-science/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-26",
+    "terminologyChecked": true
+  },
+  "title": "ANTOJOS EN EL EMBARAZO: ¿POR QUÉ EL CUERPO DESEA DE PRONTO COMIDAS EXTRAÑAS?",
+  "excerpt": "Desde aversiones repentinas hasta pepinillos con helado, la ciencia de los antojos del embarazo es más compleja que un mensaje del bebé. Esto es lo que muestra la evidencia.",
+  "headlineHighlights": {
+    "red": "ANTOJOS EN EL EMBARAZO",
+    "gold": "COMIDAS EXTRAÑAS"
+  },
+  "seoTitle": "Antojos en el embarazo: por qué apetecen comidas extrañas",
+  "description": "Por qué surgen los antojos en el embarazo: aversiones, hormonas, cultura y pica, qué significan y cuándo conviene pedir consejo médico.",
+  "keywords": [
+    "antojos en el embarazo",
+    "por qué dan antojos",
+    "aversiones alimentarias embarazo",
+    "pica en el embarazo",
+    "comer hielo embarazo",
+    "antojos y sexo del bebé"
+  ],
+  "searchIntent": "Comprender las causas posibles de los antojos del embarazo, distinguir mitos de evidencia y reconocer cuándo una aversión o el deseo de sustancias no alimentarias requieren valoración.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-20",
+  "updatedAt": "2026-09-20",
+  "image": {
+    "src": "/articles/pregnace-cravings-weird-strange-food-night-pregnant-women.png",
+    "alt": "Ilustración artística de una embarazada con un pepinillo y un helado junto a una nevera abierta por la noche"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En un momento cualquiera del día, un alimento corriente puede adquirir una importancia inusual. Una manzana crujiente, una galleta salada o algo intensamente ácido parece de pronto lo único que merece la pena comer. Mientras tanto, el olor del café favorito puede volverse insoportable. El embarazo puede hacer que el apetito resulte desconocido aunque los alimentos no lo sean."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los antojos del embarazo son deseos intensos de comer alimentos concretos. Son experiencias reales, pero su significado es menos sencillo que la conocida explicación de que el bebé está pidiendo lo que necesita. La investigación apunta a una combinación de sensaciones físicas cambiantes, náuseas, recompensa, experiencia personal y expectativas culturales. Ningún mecanismo explica todos los antojos, y una combinación inusual no es un diagnóstico nutricional."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción más útil es entre desear un alimento corriente, no poder tolerar suficientes alimentos o líquidos y querer sustancias que no son alimentos. Estas situaciones requieren respuestas diferentes. Un antojo de helado no equivale al deseo repetido de comer tierra."
+    },
+    {
+      "type": "heading",
+      "text": "¿QUÉ SON LOS ANTOJOS DEL EMBARAZO Y CUÁNDO EMPIEZAN?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El hambre es una motivación general para comer. Un antojo es más específico: puede haber otras opciones disponibles, pero no parecen satisfacer el deseo. La aversión alimentaria es la experiencia contraria, cuando un alimento resulta desagradable o cuesta enfrentarse a él. Los antojos y las aversiones pueden coexistir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una revisión de 2014 de Natalia Orloff y Julia Hormes, citada con frecuencia, describe que los antojos suelen aparecer hacia el final del primer trimestre, y que muchos informes apuntan a un máximo en el segundo trimestre seguido de una disminución. Es un patrón de la bibliografía, no un calendario que siga cada embarazo. La revisión también subraya lo incompleta que es la evidencia que respalda las explicaciones populares. [Orloff y Hormes (2014): ¡Pepinillos y helado! Los antojos alimentarios en el embarazo](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El momento en que aparecen las náuseas no debe confundirse con un calendario de antojos. ACOG señala que las náuseas y los vómitos del embarazo suelen empezar antes de las nueve semanas y pueden aparecer a cualquier hora del día. Desear un alimento tolerable cuando se tienen náuseas no es necesariamente el mismo fenómeno que desear intensamente un alimento cuando, por lo demás, una se encuentra bien. [ACOG: náuseas matutinas, náuseas y vómitos del embarazo](https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy)"
+    },
+    {
+      "type": "heading",
+      "text": "¿SON FRECUENTES? POR QUÉ UN ÚNICO PORCENTAJE RESULTA ENGAÑOSO"
+    },
+    {
+      "type": "paragraph",
+      "text": "En una cohorte de Belfast descrita por Hill y colaboradores en 2016, 635 de 1.639 mujeres, el 39 %, declararon al menos un antojo cuando se les preguntó por su embarazo alrededor de la semana 29. Destacaban los alimentos dulces, las frutas y los lácteos. Era una población de estudio concreta, mayoritariamente blanca, no una estimación mundial. [Hill y colaboradores (2016): asociaciones nutricionales y clínicas de los antojos en el embarazo](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cifra importa, en parte, porque es inferior a algunas afirmaciones muy repetidas. La revisión de 2014 cita antiguas estimaciones estadounidenses que oscilaban entre el 50 % y el 90 %. Esas cifras no constituyen una estimación actual de prevalencia mundial. Las preguntas, las definiciones, la selección de participantes y el momento del embarazo en que se pregunta pueden cambiar la respuesta. [Orloff y Hormes (2014): ¡Pepinillos y helado! Los antojos alimentarios en el embarazo](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, una explicación rigurosa señala que los antojos alimentarios son frecuentes durante el embarazo, aunque su frecuencia medida varía. No debería insinuar que todas las personas los tienen, que quien no los experimenta se está perdiendo una etapa necesaria o que una recopilación de antojos llamativos en redes sociales representa el embarazo habitual."
+    },
+    {
+      "type": "heading",
+      "text": "HORMONAS, GUSTO Y OLFATO: UNA HISTORIA MÁS COMPLEJA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La información del NHS reconoce como experiencias del embarazo el sabor metálico, nuevos rechazos y la sensibilidad a los olores de la cocina. Pero percibir más un olor, sentir más aversión por él y detectar una concentración menor son cosas distintas. Un olor puede volverse intensamente molesto sin que la nariz mejore su capacidad para detectar todos los olores. [NHS: signos y síntomas del embarazo](https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una revisión sistemática de 2022 sobre el olfato incluyó 13 estudios, nueve de ellos en el metaanálisis, con un total de 523 participantes embarazadas y 365 controles. No encontró diferencias globales significativas en los umbrales de detección ni en la discriminación de olores, mientras que las embarazadas rindieron peor en la identificación. Los estudios no demostraron un «superolfato» general durante el embarazo. [Albaugh y colaboradores (2022): olfato en el embarazo, revisión sistemática y metaanálisis](https://pubmed.ncbi.nlm.nih.gov/36469055/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no convierte en imaginario el olor de cocina que acaba de hacerse insoportable para alguien. Las pruebas de identificación, las de detección y la intolerancia cotidiana responden a preguntas distintas. La evidencia limitada y heterogénea de la revisión tampoco permite descartar cambios individuales. Es un motivo para describir la experiencia con precisión, en vez de transformarla en una regla biológica exagerada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las explicaciones hormonales tienen más respaldo para algunos síntomas del embarazo que para determinadas elecciones alimentarias. Una investigación publicada en línea en Nature en 2023 vinculó la hormona GDF15, procedente en gran medida de la unidad fetoplacentaria durante el embarazo, con las náuseas y los vómitos maternos. Combinó evidencia humana y experimental y destacó la importancia de la sensibilidad materna y la exposición previa. [Fejzo y colaboradores (publicación en línea de 2023): GDF15 y riesgo materno de náuseas y vómitos durante el embarazo](https://www.nature.com/articles/s41586-023-06921-9)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un avance importante para comprender las náuseas del embarazo. No demuestra que GDF15 pida pepinillos, que los estrógenos expliquen todos los deseos de chocolate ni que un antojo concreto revele un nivel hormonal determinado. Pasar de un mecanismo de las náuseas a una explicación de un alimento elegido exige evidencia adicional."
+    },
+    {
+      "type": "paragraph",
+      "text": "El olfato también adquiere significado a través de la experiencia. Un aroma familiar puede evocar placer en un contexto y malestar en otro. La [historia del perfume y los aromas](/articles/history-of-perfume-scent-beauty-power-luxury/) de PRESDA explora esa relación más amplia entre sensación y significado; la investigación sobre el embarazo debe seguir estableciendo sus propios mecanismos específicos."
+    },
+    {
+      "type": "heading",
+      "text": "NÁUSEAS, APETITO Y AVERSIONES ALIMENTARIAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando muchos alimentos resultan desagradables, los pocos aceptables pueden dominar la alimentación. Alguien que no soporta una comida caliente puede tolerar fruta fría. Quien siente náuseas por olores intensos de cocina puede preferir una tostada sola. Es una interpretación práctica de unas opciones limitadas, no una prueba de que todos los antojos se deban a las náuseas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El NHS propone comidas pequeñas y frecuentes, alimentos sencillos y alimentos fríos cuando el olor de las comidas calientes empeora las náuseas. Beber a pequeños sorbos puede resultar más fácil que tomar mucho líquido de golpe. Son opciones para mejorar la tolerancia, no una exigencia de afrontar una enfermedad grave sin tratamiento. [NHS: vómitos y náuseas matutinas](https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las aversiones también pueden dificultar comer un alimento que, en otras circunstancias, sería útil. El objetivo es encontrar formas tolerables de cubrir las necesidades nutricionales, en lugar de obligarse a comer un plato supuestamente imprescindible. Un profesional sanitario o de nutrición puede ayudar si la variedad se reduce mucho o los síntomas dificultan comer. La nutrición durante el embarazo se refiere al patrón global y a las necesidades individuales, no al éxito de consumir todos los alimentos recomendados cada día. [Oficina de Suplementos Dietéticos de los NIH: embarazo, ficha para profesionales sanitarios](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/) [NHS: alimentación saludable durante el embarazo](https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El café ofrece un ejemplo conocido de un alimento cuyo atractivo es personal y cambiante. Su lugar en la vida cotidiana, explorado en la [historia del café de PRESDA](/articles/real-history-of-coffee/), no hace obligatorio beberlo. Un nuevo rechazo puede simplemente respetarse, mientras que quien siga tomándolo debería tener en cuenta la ingesta total de cafeína."
+    },
+    {
+      "type": "heading",
+      "text": "DULCE, SALADO, ÁCIDO: ¿AYUDA LA RECOMPENSA A EXPLICAR EL DESEO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desear un alimento implica algo más que la lengua. La motivación y la recompensa contribuyen a que una opción parezca especialmente apetecible. En un estudio de 2022 publicado en Nature Metabolism, los investigadores relacionaron conductas similares a los antojos en ratonas gestantes con circuitos vinculados a la dopamina en el núcleo accumbens. Esto ofrece un mecanismo que investigar, pero las ratonas no pueden describir un antojo humano, y el experimento no establece por qué una embarazada desea una comida concreta. [Haddad-Tóvolli y colaboradores (2022): episodios parecidos a antojos y circuitos dopaminérgicos en ratonas gestantes](https://www.nature.com/articles/s42255-022-00557-1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La experiencia humana también incluye estados de ánimo, rutinas y estímulos alimentarios. Un estudio cualitativo de 2020 organizó ocho grupos de discusión con 68 embarazadas atendidas en UNC Chapel Hill. Las participantes describieron cómo sentían los antojos, qué parecía desencadenarlos y cómo los manejaban. Estas entrevistas revelan significados y experiencias que una tabla de nutrientes no recoge, pero no pueden demostrar las causas de los antojos ni establecer qué estrategia funciona mejor. [Blau y colaboradores (2020): experiencia y comprensión de los antojos durante el embarazo](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio observacional publicado en 2021 asoció una peor salud mental y calidad del sueño con una mayor alimentación vinculada a la recompensa, declarada por las participantes, durante el embarazo y el posparto. La asociación no establece que el estrés o dormir mal causen un antojo concreto. Sí sugiere que el apetito merece atención dentro de las circunstancias más amplias de la persona, en vez de tratarse como una prueba aislada de fuerza de voluntad. [Estudio observacional de cohortes (2021): salud mental, calidad del sueño y alimentación vinculada a la recompensa durante el embarazo y el posparto](https://pmc.ncbi.nlm.nih.gov/articles/PMC8088672/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No existe una clave de interpretación validada en la que lo dulce signifique una carencia, lo salado otra y lo ácido una tercera. Tampoco hay una explicación científica fiable para cada combinación extraña de alimentos. Una preferencia puede llamar la atención sin ser un mensaje cifrado que la medicina sepa descifrar."
+    },
+    {
+      "type": "heading",
+      "text": "¿SABE REALMENTE TU CUERPO LO QUE NECESITA EL BEBÉ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El embarazo aumenta las necesidades de varios nutrientes. Ese hecho biológico no demuestra que los antojos identifiquen lo que falta. Las recomendaciones de los NIH describen necesidades nutricionales específicas y el papel de la dieta y los suplementos; no tratan el deseo de un alimento como una prueba diagnóstica. [Oficina de Suplementos Dietéticos de los NIH: embarazo, ficha para profesionales sanitarios](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las recomendaciones nutricionales para el embarazo del Northern Sydney Local Health District cuestionan expresamente la idea de que los antojos indiquen qué necesita el bebé. Desear chocolate no permite saber a un profesional si la ingesta de magnesio es adecuada, y querer un aperitivo salado no mide las necesidades de sodio. Ante una posible carencia, el siguiente paso responsable es una evaluación, no interpretar el antojo como un resultado de laboratorio. [Northern Sydney Local Health District (2016): alimentación saludable durante el embarazo, hechos y mitos](https://www.nslhd.health.nsw.gov.au/HealthPromotion/documents/142410-GHS-Fact-Sheet-Healthy-Eating-During-Pregnancy-online.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio de Belfast examinó los antojos declarados junto con la ingesta alimentaria y medidas clínicas. Su diseño resulta útil para explorar asociaciones, pero no puede demostrar un mecanismo de búsqueda de nutrientes. Una persona podría ingerir más cantidad de un nutriente porque el alimento deseado lo contiene; eso, por sí solo, no demostraría que una carencia causó el deseo. [Hill y colaboradores (2016): asociaciones nutricionales y clínicas de los antojos en el embarazo](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los consejos nutricionales prácticos deben, por tanto, sostenerse independientemente de los antojos. Sigue las recomendaciones locales sobre suplementos prenatales y cualquier prescripción individual. Por ejemplo, el NHS recomienda ácido fólico y vitamina D en sus orientaciones para el embarazo e indica tratamiento con hierro cuando la evaluación lo justifica. No añadas suplementos en dosis altas solo porque una tabla de internet asigne un nutriente a tu tentempié preferido. [NHS: vitaminas, suplementos y nutrición durante el embarazo](https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La pica es un matiz importante en este tema. El consumo de algunas sustancias no alimentarias se asocia con niveles bajos de hierro u otros problemas nutricionales. Esa asociación merece atención médica, pero sigue sin significar que cualquier deseo inusual sea una instrucción exacta del cuerpo."
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ LOS ANTOJOS VARÍAN ENTRE CULTURAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La clásica historia de los pepinillos con helado es culturalmente conocida, no un menú universal del embarazo. En una investigación publicada en 2009 y realizada en dos centros sanitarios de Dar es Salaam, Tanzania, las participantes mencionaron alimentos como carne, mangos, yogur, naranjas y plátano macho. La muestra incluía mujeres embarazadas y lactantes y no debe tratarse como representativa de todo un país. [Nyaruhucha (2009): antojos, aversiones y pica entre embarazadas de Dar es Salaam](https://pubmed.ncbi.nlm.nih.gov/19445102/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo biocultural de Young y Pike de 2012 sobre mujeres de comunidades pastoriles de África oriental sitúa los antojos y las aversiones dentro del acceso a los alimentos, las relaciones sociales y las circunstancias locales. Lo que alguien desea, lo que puede conseguir y lo que otros consideran apropiado no son necesariamente lo mismo. Una preferencia existe dentro de un entorno alimentario. [Young y Pike (2012): marco biocultural para los antojos y las aversiones maternas en África oriental](https://experts.arizona.edu/en/publications/a-biocultural-framework-for-examining-maternal-cravings-and-avers/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto convierte a la cultura en parte de la explicación sin hacer que la experiencia sea irreal. Las personas conocen ingredientes distintos, aprenden asociaciones diferentes y tienen oportunidades diversas de satisfacer un deseo. Las historias familiares también pueden aportar un lenguaje para describir una sensación desconocida. La interacción de estas influencias con la biología del embarazo sigue siendo una cuestión abierta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los antojos extraños llaman la atención porque rompen las expectativas de quien observa. Una fruta ácida con sal puede parecer insólita en una casa y normal en otra. Combinar sabores conocidos no constituye por sí mismo evidencia de enfermedad. Preguntar si los ingredientes y las cantidades son seguros resulta más útil que preguntar si la combinación le apetece a otra persona."
+    },
+    {
+      "type": "heading",
+      "text": "PICA EN EL EMBARAZO: HIELO, ARCILLA, TIERRA Y OTRAS SUSTANCIAS NO ALIMENTARIAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La pica se refiere al consumo persistente de sustancias que normalmente no son alimentos, como tierra, arcilla o papel. El consumo repetido de hielo suele abordarse dentro de la pica y se denomina pagofagia. Un antojo por sí solo no basta para establecer un diagnóstico. MedlinePlus describe, como parte del diagnóstico, un patrón persistente durante al menos un mes, pero quien desea o ha comido una sustancia potencialmente dañina no debería esperar un mes para pedir consejo. [Enciclopedia Médica MedlinePlus: pica](https://medlineplus.gov/ency/article/001538.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un metaanálisis publicado en un número de revista de 2015 reunió 43 estudios con 6.407 personas que declaraban pica y 10.277 controles. La pica se asoció con anemia y niveles inferiores en algunas medidas de micronutrientes. Las poblaciones combinadas incluían niños, embarazadas y otros adultos, por lo que sus hallazgos no constituyen una estimación de prevalencia exclusiva del embarazo. El análisis no pudo resolver si la carencia provoca pica, si la pica contribuye a la carencia o si otros factores contribuyen a ambas. [Miao y colaboradores (2015): metaanálisis sobre pica y estado de micronutrientes](https://pubmed.ncbi.nlm.nih.gov/25156147/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El hierro merece especial atención porque el embarazo aumenta sus necesidades y la carencia de hierro tiene una asociación reconocida con la pica. Pero ni un antojo ni su ausencia sustituyen una evaluación. Un profesional puede valorar los síntomas, la historia alimentaria y los análisis de sangre pertinentes, y recomendar después un tratamiento según los hallazgos. Tomar hierro adicional sin orientación no es un experimento diagnóstico seguro. [Oficina de Suplementos Dietéticos de los NIH: hierro, ficha para profesionales sanitarios](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La sustancia importa. La tierra y la arcilla pueden exponer a contaminantes o parásitos; algunas sustancias no alimentarias pueden causar intoxicación u obstrucción intestinal. MedlinePlus aconseja una evaluación médica, en vez de tratar la conducta simplemente como una preferencia peculiar. El deseo de comer hielo también merece comentarse, aunque sus riesgos difieran de los de tragar pintura o tierra. [Enciclopedia Médica MedlinePlus: pica](https://medlineplus.gov/ency/article/001538.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una forma útil de abordarlo es explicar claramente al equipo que atiende el embarazo qué se desea o se come, con qué frecuencia y en qué cantidad. La vergüenza dificulta esa conversación; no resta relevancia médica a la información."
+    },
+    {
+      "type": "heading",
+      "text": "¿PUEDEN LOS ANTOJOS REVELAR EL SEXO DEL BEBÉ O DEJAR UNA MARCA DE NACIMIENTO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que lo dulce anuncie una niña y lo salado un niño pertenece al folclore del embarazo, no a las pruebas fiables. Tommy’s identifica como mito predecir el sexo a partir de los antojos. Acertar una vez no valida la regla: una familia puede recordar los aparentes aciertos y olvidar los embarazos que la contradicen. [Tommy’s: diez mitos sobre el embarazo](https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La creencia de que ignorar un antojo puede dejar una marca en el bebé tampoco tiene respaldo. La American Academy of Dermatology afirma expresamente que las marcas de nacimiento no se deben a un antojo del embarazo insatisfecho. Estas marcas implican distintos cambios en el pigmento de la piel o en los vasos sanguíneos, y sus causas varían. Rechazar un tentempié concreto no es una causa conocida. [American Academy of Dermatology: causas de las marcas de nacimiento](https://www.aad.org/public/diseases/a-z/birthmarks-causes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas historias pueden ser tradiciones entrañables, pero se vuelven perjudiciales cuando generan culpa o presionan a alguien para comer algo inseguro. Se puede reconocer un antojo sin obedecerlo, sin utilizarlo para predecir el sexo del bebé y sin atribuir responsabilidades por una marca de nacimiento."
+    },
+    {
+      "type": "heading",
+      "text": "CÓMO MANEJAR LOS ANTOJOS SIN CONVERTIR LA COMIDA EN UNA BATALLA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Empieza por una alimentación variada que sea viable en tus circunstancias. Los consejos del NHS destacan distintos grupos de alimentos y el equilibrio a lo largo del tiempo, en lugar de un plato perfecto en cada comida. Un tentempié apetecible puede encajar en ese patrón. La restricción persistente y la culpa no son respuestas necesarias al deseo de comer algo dulce. [NHS: alimentación saludable durante el embarazo](https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten en cuenta lo que toleras y lo que resulta práctico. Tener a mano un tentempié aceptable o elegir una porción menor pueden ser estrategias personales útiles. Las entrevistas de UNC describen distintas maneras en que las mujeres respondían a los antojos, pero no demuestran una solución universal. El objetivo es una rutina que funcione, no eliminar todos los deseos. [Blau y colaboradores (2020): experiencia y comprensión de los antojos durante el embarazo](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aplica a los ingredientes las recomendaciones habituales de seguridad alimentaria en el embarazo, sea cual sea la combinación. El NHS permite productos lácteos pasteurizados, incluido el helado, pero aconseja evitar alimentos como carne cruda, marisco crudo y leche sin pasteurizar. Lava bien las frutas y verduras y sigue las instrucciones de conservación. Un antojo no vuelve seguro un ingrediente que no lo es. [NHS: alimentos que deben evitarse durante el embarazo](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para la cafeína, las recomendaciones del NHS fijan un máximo de 200 mg al día durante el embarazo, contando todas las fuentes y no solo el café. También aconsejan evitar el alcohol. Las orientaciones alimentarias pueden diferir entre países y algunas condiciones individuales pueden requerir consejos adicionales, por lo que conviene seguir las recomendaciones del equipo que atiende tu embarazo. [NHS: alimentos que deben evitarse durante el embarazo](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si las náuseas o las restricciones alimentarias lo dificultan, busca ayuda para encontrar alternativas en vez de intentar resolverlo todo con suplementos. Esto forma parte de la atención basada en la evidencia: distinguir una explicación plausible de una respuesta eficaz, una diferencia que también explora la [historia y el futuro de la medicina de PRESDA](/articles/history-future-of-medicine/)."
+    },
+    {
+      "type": "heading",
+      "text": "CUÁNDO PEDIR CONSEJO MÉDICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consulta a tu matrona o profesional sanitario si tienes deseos de comer sustancias no alimentarias, comes hielo repetidamente, sigues una dieta muy limitada o los antojos te causan un malestar importante. Describe la conducta directamente. El objetivo es evaluar posibles problemas nutricionales y de salud, no juzgar si la preferencia es socialmente aceptable. [Enciclopedia Médica MedlinePlus: pica](https://medlineplus.gov/ency/article/001538.htm) [Oficina de Suplementos Dietéticos de los NIH: embarazo, ficha para profesionales sanitarios](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Busca consejo médico sin demora cuando los vómitos impidan comer o beber lo suficiente, o aparezcan signos como orina muy oscura, disminución de la cantidad de orina, mareo, sensación de desmayo o pérdida de peso. Las náuseas y los vómitos graves del embarazo pueden causar deshidratación y requerir medicación o tratamiento hospitalario. No deberían descartarse como simples antojos o como un fallo al elegir los alimentos adecuados. [NHS: vómitos y náuseas matutinas](https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien ha ingerido una sustancia potencialmente tóxica, pide consejo inmediato al servicio local de toxicología o a los servicios de urgencias, aunque todavía no hayan aparecido síntomas. No provoques el vómito. Es una situación distinta de concertar una consulta habitual sobre una preferencia alimentaria inofensiva. [NHS: intoxicación](https://www.nhs.uk/conditions/poisoning/)"
+    },
+    {
+      "type": "heading",
+      "text": "LO QUE LA CIENCIA TODAVÍA NO SABE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayor incertidumbre es cómo encajan las piezas. Las hormonas, las náuseas, las preferencias alimentarias aprendidas y los procesos de recompensa son posibles factores, pero una lista de factores no es una explicación completa. La investigación sigue necesitando mejores formas de distinguir un antojo del hambre, de la elección de alimentos condicionada por las aversiones y de una preferencia corriente que se vuelve más perceptible durante el embarazo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gran parte de la evidencia humana se basa en lo que las personas cuentan, a veces después de la experiencia. Las medidas de laboratorio del olfato no reproducen toda una cocina, y un experimento con ratones no puede recrear el significado social de una comida familiar. La investigación futura debe conectar observaciones repetidas de la vida real con medidas fisiológicas en poblaciones más variadas, sin suponer que una explicación cultural es universal."
+    },
+    {
+      "type": "paragraph",
+      "text": "La experiencia puede ser intensa aunque el mecanismo siga siendo incierto. Respetarla no exige afirmar que el cuerpo siempre sabe lo que necesita el bebé. Exige una combinación más útil: curiosidad por la biología, espacio para las diferencias personales y culturales y atención médica cuando comer se vuelve inseguro o insuficiente."
+    },
+    {
+      "type": "heading",
+      "text": "FUENTES Y NOTAS SOBRE LA EVIDENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este artículo ofrece información general de salud, no un diagnóstico ni un plan de tratamiento individual. Distingue entre investigación observacional en humanos, entrevistas cualitativas, experimentos con animales y recomendaciones clínicas. Los años de los estudios corresponden a su publicación, e indican la publicación en línea cuando resulta pertinente. Las estimaciones de distintas poblaciones no se tratan como intercambiables. La imagen de cabecera es una ilustración artística, no una recomendación clínica ni una fotografía documental. No se afirma que haya habido una revisión médica individual."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Orloff y Hormes (2014): ¡Pepinillos y helado! Los antojos alimentarios en el embarazo](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hill y colaboradores (2016): asociaciones nutricionales y clínicas de los antojos en el embarazo](https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Albaugh y colaboradores (2022): olfato en el embarazo, revisión sistemática y metaanálisis](https://pubmed.ncbi.nlm.nih.gov/36469055/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Fejzo y colaboradores (publicación en línea de 2023): GDF15 y riesgo materno de náuseas y vómitos durante el embarazo](https://www.nature.com/articles/s41586-023-06921-9)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[ACOG: náuseas matutinas, náuseas y vómitos del embarazo](https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS: vómitos y náuseas matutinas](https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Oficina de Suplementos Dietéticos de los NIH: embarazo, ficha para profesionales sanitarios](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Northern Sydney Local Health District (2016): alimentación saludable durante el embarazo, hechos y mitos](https://www.nslhd.health.nsw.gov.au/HealthPromotion/documents/142410-GHS-Fact-Sheet-Healthy-Eating-During-Pregnancy-online.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Blau y colaboradores (2020): experiencia y comprensión de los antojos durante el embarazo](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Estudio observacional de cohortes (2021): salud mental, calidad del sueño y alimentación vinculada a la recompensa durante el embarazo y el posparto](https://pmc.ncbi.nlm.nih.gov/articles/PMC8088672/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nyaruhucha (2009): antojos, aversiones y pica entre embarazadas de Dar es Salaam](https://pubmed.ncbi.nlm.nih.gov/19445102/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Young y Pike (2012): marco biocultural para los antojos y las aversiones maternas en África oriental](https://experts.arizona.edu/en/publications/a-biocultural-framework-for-examining-maternal-cravings-and-avers/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Haddad-Tóvolli y colaboradores (2022): episodios parecidos a antojos y circuitos dopaminérgicos en ratonas gestantes](https://www.nature.com/articles/s42255-022-00557-1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Enciclopedia Médica MedlinePlus: pica](https://medlineplus.gov/ency/article/001538.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Miao y colaboradores (2015): metaanálisis sobre pica y estado de micronutrientes](https://pubmed.ncbi.nlm.nih.gov/25156147/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Oficina de Suplementos Dietéticos de los NIH: hierro, ficha para profesionales sanitarios](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Tommy’s: diez mitos sobre el embarazo](https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[American Academy of Dermatology: causas de las marcas de nacimiento](https://www.aad.org/public/diseases/a-z/birthmarks-causes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS: alimentos que deben evitarse durante el embarazo](https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS: alimentación saludable durante el embarazo](https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS: vitaminas, suplementos y nutrición durante el embarazo](https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS: intoxicación](https://www.nhs.uk/conditions/poisoning/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS: signos y síntomas del embarazo](https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Orloff y Hormes (2014): ¡Pepinillos y helado! Los antojos alimentarios en el embarazo",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01076/full"
+    },
+    {
+      "label": "Hill y colaboradores (2016): asociaciones nutricionales y clínicas de los antojos en el embarazo",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5054961/"
+    },
+    {
+      "label": "Albaugh y colaboradores (2022): olfato en el embarazo, revisión sistemática y metaanálisis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36469055/"
+    },
+    {
+      "label": "Fejzo y colaboradores (publicación en línea de 2023): GDF15 y riesgo materno de náuseas y vómitos durante el embarazo",
+      "url": "https://www.nature.com/articles/s41586-023-06921-9"
+    },
+    {
+      "label": "ACOG: náuseas matutinas, náuseas y vómitos del embarazo",
+      "url": "https://www.acog.org/womens-health/faqs/morning-sickness-nausea-and-vomiting-of-pregnancy"
+    },
+    {
+      "label": "NHS: vómitos y náuseas matutinas",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/"
+    },
+    {
+      "label": "Oficina de Suplementos Dietéticos de los NIH: embarazo, ficha para profesionales sanitarios",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+    },
+    {
+      "label": "Northern Sydney Local Health District (2016): alimentación saludable durante el embarazo, hechos y mitos",
+      "url": "https://www.nslhd.health.nsw.gov.au/HealthPromotion/documents/142410-GHS-Fact-Sheet-Healthy-Eating-During-Pregnancy-online.pdf"
+    },
+    {
+      "label": "Blau y colaboradores (2020): experiencia y comprensión de los antojos durante el embarazo",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7186144/"
+    },
+    {
+      "label": "Estudio observacional de cohortes (2021): salud mental, calidad del sueño y alimentación vinculada a la recompensa durante el embarazo y el posparto",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8088672/"
+    },
+    {
+      "label": "Nyaruhucha (2009): antojos, aversiones y pica entre embarazadas de Dar es Salaam",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19445102/"
+    },
+    {
+      "label": "Young y Pike (2012): marco biocultural para los antojos y las aversiones maternas en África oriental",
+      "url": "https://experts.arizona.edu/en/publications/a-biocultural-framework-for-examining-maternal-cravings-and-avers/"
+    },
+    {
+      "label": "Haddad-Tóvolli y colaboradores (2022): episodios parecidos a antojos y circuitos dopaminérgicos en ratonas gestantes",
+      "url": "https://www.nature.com/articles/s42255-022-00557-1"
+    },
+    {
+      "label": "Enciclopedia Médica MedlinePlus: pica",
+      "url": "https://medlineplus.gov/ency/article/001538.htm"
+    },
+    {
+      "label": "Miao y colaboradores (2015): metaanálisis sobre pica y estado de micronutrientes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25156147/"
+    },
+    {
+      "label": "Oficina de Suplementos Dietéticos de los NIH: hierro, ficha para profesionales sanitarios",
+      "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    },
+    {
+      "label": "Tommy’s: diez mitos sobre el embarazo",
+      "url": "https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths"
+    },
+    {
+      "label": "American Academy of Dermatology: causas de las marcas de nacimiento",
+      "url": "https://www.aad.org/public/diseases/a-z/birthmarks-causes"
+    },
+    {
+      "label": "NHS: alimentos que deben evitarse durante el embarazo",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+    },
+    {
+      "label": "NHS: alimentación saludable durante el embarazo",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/"
+    },
+    {
+      "label": "NHS: vitaminas, suplementos y nutrición durante el embarazo",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/pregnancy-vitamins-and-supplements/"
+    },
+    {
+      "label": "NHS: intoxicación",
+      "url": "https://www.nhs.uk/conditions/poisoning/"
+    },
+    {
+      "label": "NHS: signos y síntomas del embarazo",
+      "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿De qué trata este artículo de PRESDA?",
+      "answer": "Desde aversiones repentinas hasta pepinillos con helado, la ciencia de los antojos del embarazo es más compleja que un mensaje del bebé. Esto es lo que muestra la evidencia."
+    },
+    {
+      "question": "¿A qué categoría pertenece esta historia?",
+      "answer": "Esta historia forma parte de los artículos de Ciencia de PRESDA."
+    },
+    {
+      "question": "¿Quién publicó este artículo?",
+      "answer": "ANTOJOS EN EL EMBARAZO: ¿POR QUÉ EL CUERPO DESEA DE PRONTO COMIDAS EXTRAÑAS? fue publicado por PRESDA Editorial en PRESDA."
+    }
+  ]
+}
