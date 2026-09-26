@@ -1,3 +1,6 @@
+import { articleLabels } from "@/lib/i18n/article-presentation";
+import { localizedCategories } from "@/lib/i18n/messages";
+import type { Locale } from "@/lib/i18n/routing";
 import type { Article } from "@/data/articles";
 import Image from "next/image";
 import Link from "next/link";
@@ -5,21 +8,21 @@ import { HeadlineText } from "@/components/HeadlineText";
 import { getArticleCardImage, getArticleCardImagePosition } from "@/lib/articleImages";
 import { categoryLabels, formatDate } from "@/lib/categories";
 
-export function RelatedArticles({ articles }: { articles: Article[] }) {
+export function RelatedArticles({ articles, locale = "en", paths }: { articles: Article[]; locale?: Locale; paths?: Record<string, string> }) {
   const visibleArticles = articles.slice(0, 3);
 
   return (
     <section>
       <div className="mb-5 border-t border-[#FF1A1A]/45 pt-5">
-        <p className="font-display text-xs font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A]">Related</p>
-        <h2 className="mt-2 font-display text-2xl font-extrabold uppercase">Continue Reading</h2>
+        <p className="font-display text-xs font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A]">{articleLabels[locale].related}</p>
+        <h2 className="mt-2 font-display text-2xl font-extrabold uppercase">{articleLabels[locale].continue}</h2>
       </div>
       <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
         {visibleArticles.map((article) => (
           <Link
             key={article.id}
             prefetch={false}
-            href={`/articles/${article.slug}/`}
+            href={paths?.[article.id] ?? `/articles/${article.slug}/`}
             className="group block overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] shadow-[var(--home-card-shadow)] transition duration-200 hover:-translate-y-0.5 hover:border-[#FF1A1A]/70"
           >
             <div className="relative aspect-[16/9] overflow-hidden bg-black">
@@ -36,7 +39,7 @@ export function RelatedArticles({ articles }: { articles: Article[] }) {
             </div>
             <div className="p-4">
               <p className="font-display text-[10px] font-extrabold uppercase tracking-wide text-[#FF1A1A]">
-                {categoryLabels[article.category]}
+                {locale === "en" ? categoryLabels[article.category] : localizedCategories[locale][article.category]}
               </p>
               <h3 className="mt-2 line-clamp-3 font-display text-base font-extrabold uppercase leading-tight text-[color:var(--home-text)] sm:text-lg">
                 <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />

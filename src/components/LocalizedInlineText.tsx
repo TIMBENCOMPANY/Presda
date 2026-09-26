@@ -14,9 +14,9 @@ export function LocalizedInlineText({ text, locale }: { text: string; locale: Lo
       const [path, fragment] = target.split("#", 2);
       const destination = languageDestination(path, locale, translationRoutes);
       const href = fragment ? `${destination}#${fragment}` : destination;
-      return <Link key={index} prefetch={false} href={href} hrefLang={destination.startsWith(`/${locale}/`) ? locale : "en"} className="underline decoration-[#ff1a1a] underline-offset-4">{label}</Link>;
+      return <Link key={index} prefetch={false} href={href} hrefLang={destination.startsWith(`/${locale}/`) ? locale : "en"} className="font-bold text-[#FF1A1A] underline decoration-[#FF1A1A]/35 underline-offset-4 transition hover:decoration-[#FF1A1A]">{label}</Link>;
     }
-    if (/^https:\/\//.test(target)) return <a key={index} href={target} className="underline decoration-[#ff1a1a] underline-offset-4">{label}</a>;
+    if (/^https:\/\//.test(target)) return <a key={index} href={target} className="font-bold text-[#FF1A1A] underline decoration-[#FF1A1A]/35 underline-offset-4 transition hover:decoration-[#FF1A1A]">{label}</a>;
     return label;
   });
 }

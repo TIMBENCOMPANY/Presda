@@ -1,14 +1,17 @@
+import { articleLabels } from "@/lib/i18n/article-presentation";
+import type { Locale } from "@/lib/i18n/routing";
 import { ExternalLink } from "lucide-react";
 import type { Article } from "@/data/articles";
 import { getArticleReferences } from "@/lib/articleSeo";
 
-export function SourceBox({ article }: { article: Article }) {
+export function SourceBox({ article, locale = "en" }: { article: Article; locale?: Locale }) {
+  const labels = articleLabels[locale];
   const references = getArticleReferences(article);
 
   return (
     <div className="rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] p-4">
-      <p className="font-display text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#FF1A1A]">Sources & References</p>
-      <p className="mt-2 text-[13px] font-bold text-[color:var(--text)]">Publisher: PRESDA</p>
+      <p className="font-display text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#FF1A1A]">{labels.sources}</p>
+      <p className="mt-2 text-[13px] font-bold text-[color:var(--text)]">{labels.publisher}: PRESDA</p>
       {references.length ? (
         <ul className="mt-3 space-y-2.5">
           {references.map((reference) => (

@@ -1,3 +1,8 @@
+import { LocalizedInlineText } from "@/components/LocalizedInlineText";
+import { articleLabels } from "@/lib/i18n/article-presentation";
+import { messages, localizedCategories } from "@/lib/i18n/messages";
+import type { Locale } from "@/lib/i18n/routing";
+import type { LocalizedBlock } from "@/lib/i18n/content";
 import Image from "next/image";
 import Link from "next/link";
 import type { CSSProperties } from "react";
@@ -24,6 +29,10 @@ import { categoryLabels, formatDate, toCategorySlug } from "@/lib/categories";
 type ArticleLayoutProps = {
   article: Article;
   relatedArticles: Article[];
+  locale?: Locale;
+  canonicalPath?: string;
+  relatedPaths?: Record<string, string>;
+  localizedBlocks?: LocalizedBlock[];
 };
 
 type ArticleTableConfig = {
@@ -452,7 +461,7 @@ function StandardArticleTable({ table }: { table: ArticleTableConfig }) {
   );
 }
 
-function ArticleContentBlock({ block, index }: { block: string; index: number }) {
+function ArticleContentBlock({ block, index, locale = "en" }: { block: string; index: number; locale?: Locale }) {
   const table = articleTables[block];
 
   if (table) {
@@ -507,7 +516,7 @@ function ArticleContentBlock({ block, index }: { block: string; index: number })
 
   return (
     <p className="text-base leading-[2.05] text-[color:var(--text)] sm:text-[1.0625rem]">
-      <InlineArticleText text={block} />
+      {locale === "en" ? <InlineArticleText text={block} /> : <LocalizedInlineText text={block} locale={locale} />}
     </p>
   );
 }
@@ -551,10 +560,13 @@ function formatHeroDate(date: string) {
   }).format(new Date(`${date}T00:00:00`));
 }
 
-export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) {
-  const canonicalUrl = `https://presda.com/articles/${article.slug}/`;
+export function ArticleLayout({ article, relatedArticles, locale = "en", canonicalPath, relatedPaths, localizedBlocks }: ArticleLayoutProps) {
+  const t = messages[locale];
+  const labels = articleLabels[locale];
+  const dateLabel = (date: string) => locale === "en" ? formatDate(date) : new Intl.DateTimeFormat(locale, { dateStyle: "medium", timeZone: "UTC" }).format(new Date(date));
+  const canonicalUrl = `https://presda.com${canonicalPath ?? `/articles/${article.slug}/`}`;
   const sections = getArticleSections(article);
-  const faqs = getArticleFaqs(article);
+  const faqs = locale === "en" ? getArticleFaqs(article) : article.faq ?? [];
   const articleContent = getArticleContentWithoutInlineFaq(article);
   const lastUpdated = getArticleLastUpdated(article);
   const articleHeroHighlights = articleHeroHighlightOverrides[article.slug] ?? article.headlineHighlights;
@@ -566,16 +578,16 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
   } as CSSProperties;
 
   return (
-    <main className="home-page">
+    <main className="home-page" data-article-locale={locale}>
       <ArticleReadingProgress />
       <article className="mx-auto w-[min(1500px,calc(100%_-_24px))] py-5 sm:w-[min(1500px,calc(100%_-_32px))] sm:py-8 lg:pb-10 lg:pt-5" data-article-progress-root>
         <nav className="mb-4 flex flex-wrap items-center gap-2 px-1 font-display text-[11px] font-extrabold uppercase tracking-wide text-[color:var(--home-muted)] sm:mb-5" aria-label="Breadcrumb">
-          <Link href="/" className="transition hover:text-[#FF1A1A]">Home</Link>
+          <Link href="/" className="transition hover:text-[#FF1A1A]">{t.home}</Link>
           <span className="text-[#FF1A1A]/70">/</span>
-          <Link href="/articles/" className="transition hover:text-[#FF1A1A]">Articles</Link>
+          <Link href="/articles/" className="transition hover:text-[#FF1A1A]">{t.articles}</Link>
           <span className="text-[#FF1A1A]/70">/</span>
           <Link href={`/category/${toCategorySlug(article.category)}/`} className="transition hover:text-[#FF1A1A]">
-            {categoryLabels[article.category]}
+            {locale === "en" ? categoryLabels[article.category] : localizedCategories[locale][article.category]}
           </Link>
         </nav>
 
@@ -591,30 +603,30 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
             className="article-hero-image object-cover"
             style={heroImageStyle}
           />
-          <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
+          <div className="article-hero-shade absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
           <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
 
           <div className="relative z-10 flex min-h-[590px] flex-col justify-between p-5 sm:min-h-[650px] sm:p-8 lg:min-h-[720px] lg:p-12 xl:p-14">
             <div className="flex items-start justify-between gap-4 font-display text-[11px] font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
               <Link href={`/category/${toCategorySlug(article.category)}/`} className="flex items-center gap-3 transition hover:text-[#FF1A1A]">
                 <span className="h-8 w-1.5 rounded-full bg-[#FF1A1A]" aria-hidden="true" />
-                {categoryLabels[article.category]}
+                {locale === "en" ? categoryLabels[article.category] : localizedCategories[locale][article.category]}
               </Link>
-              <time className="text-right text-white/86" dateTime={article.date}>{formatHeroDate(article.date)}</time>
+              <time className="text-end text-white/86" dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
             </div>
 
             <div className="max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8">
               <h1 className="article-hero-title text-white">
                 <HeadlineText title={article.title} highlights={articleHeroHighlights} legacyRed={article.headlineAccent} />
               </h1>
-              <div className="mt-5 max-w-[29rem] border-l-[5px] border-[#FF1A1A] pl-4 sm:mt-6 sm:pl-5">
+              <div className="mt-5 max-w-[29rem] border-s-[5px] border-[#FF1A1A] ps-4 sm:mt-6 sm:ps-5">
                 <p className="editorial-deck article-hero-deck">
                   {article.excerpt}
                 </p>
               </div>
               <div className="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 font-display text-[10px] font-extrabold uppercase tracking-wide text-white/64 sm:mt-6 sm:text-[11px]">
                 <span>
-                  By{" "}
+                  {labels.by}{" "}
                   <Link prefetch={false} href={`/authors/${toAuthorSlug(article.author)}/`} className="text-white transition hover:text-[#FF1A1A]">
                     {article.author}
                   </Link>
@@ -622,7 +634,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
                 <span aria-hidden="true" className="h-1 w-1 rounded-full bg-[#FF1A1A]" />
                 <span>{article.readingTime ?? "4 min read"}</span>
                 <span aria-hidden="true" className="h-1 w-1 rounded-full bg-[#FF1A1A]" />
-                <span>Updated <time dateTime={lastUpdated}>{formatDate(lastUpdated)}</time></span>
+                <span>{labels.updated} <time dateTime={lastUpdated}>{dateLabel(lastUpdated)}</time></span>
               </div>
             </div>
           </div>
@@ -630,16 +642,16 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
 
         <div className="mt-10">
           <div className="flow-root min-w-0 space-y-7 rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] sm:p-8 lg:p-10">
-            <aside className="mb-7 grid gap-4 lg:float-right lg:mb-6 lg:ml-8 lg:w-[23%] lg:min-w-[260px] lg:max-w-[340px] lg:gap-4">
+            <aside className="mb-7 grid gap-4 lg:float-end lg:mb-6 lg:ms-8 lg:w-[23%] lg:min-w-[260px] lg:max-w-[340px] lg:gap-4">
               {sections.length ? (
                 <>
                   <details className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-4 shadow-[var(--home-card-shadow)] lg:hidden">
                     <summary className="cursor-pointer list-none font-display text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#FF1A1A] marker:hidden">
-                      Table Of Contents
+                      {labels.contents}
                     </summary>
                     <ol className="mt-3 max-h-[18rem] space-y-2 overflow-y-auto pr-2">
                       {sections.map((section) => (
-                        <li key={section.id} className={section.level === 3 ? "pl-4" : undefined}>
+                        <li key={section.id} className={section.level === 3 ? "ps-4" : undefined}>
                           <a href={`#${section.id}`} className="block text-[13px] font-semibold leading-[1.25rem] text-[color:var(--home-muted)] transition hover:text-[#FF1A1A]">
                             {section.title}
                           </a>
@@ -648,10 +660,10 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
                     </ol>
                   </details>
                   <div className="hidden rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-3.5 shadow-[var(--home-card-shadow)] lg:block">
-                    <p className="mb-2.5 font-display text-[10px] font-extrabold uppercase tracking-[0.15em] text-[#FF1A1A]">Table Of Contents</p>
+                    <p className="mb-2.5 font-display text-[10px] font-extrabold uppercase tracking-[0.15em] text-[#FF1A1A]">{labels.contents}</p>
                     <ol className="max-h-none space-y-1.5 pr-1">
                       {sections.map((section) => (
-                        <li key={section.id} className={section.level === 3 ? "pl-3" : undefined}>
+                        <li key={section.id} className={section.level === 3 ? "ps-3" : undefined}>
                           <a href={`#${section.id}`} className="block text-[12px] font-semibold leading-[1.1rem] text-[color:var(--home-muted)] transition hover:text-[#FF1A1A]">
                             {section.title}
                           </a>
@@ -661,16 +673,19 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
                   </div>
                 </>
               ) : null}
-              <SourceBox article={article} />
+              <SourceBox article={article} locale={locale} />
               <div className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-4 shadow-[var(--home-card-shadow)]">
-                <p className="mb-3 font-display text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#FF1A1A]">Share</p>
+                <p className="mb-3 font-display text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#FF1A1A]">{labels.share}</p>
                 <ShareButtons title={article.title} url={canonicalUrl} />
               </div>
             </aside>
 
-            {articleContent.map(({ block, originalIndex }) => (
-              <ArticleContentBlock key={`${article.slug}-${originalIndex}`} block={block} index={originalIndex} />
-            ))}
+            {articleContent.map(({ block, originalIndex }) => {
+              const structured = localizedBlocks?.[originalIndex];
+              if (structured?.type === "table") return <StandardArticleTable key={originalIndex} table={{ caption: structured.caption, headers: structured.headings, rows: structured.rows, minWidthClass: "min-w-[680px]", boldColumnIndex: 0, rowKeyIndex: 0 }} />;
+              if (structured?.type === "list") return <ul key={originalIndex} className="list-disc space-y-2 ps-6 text-base leading-[2.05] sm:text-[1.0625rem]">{structured.items.map((item, index) => <li key={index}><LocalizedInlineText text={item} locale={locale} /></li>)}</ul>;
+              return <ArticleContentBlock key={`${article.slug}-${originalIndex}`} block={block} index={originalIndex} locale={locale} />;
+            })}
 
             {article.quote ? (
               <blockquote className="my-8 rounded-2xl border border-[#FF1A1A]/35 bg-[#FF1A1A]/10 p-6 font-display text-2xl font-extrabold uppercase leading-tight text-[color:var(--home-text)] shadow-[var(--home-card-shadow)] sm:text-3xl">
@@ -678,10 +693,10 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
               </blockquote>
             ) : null}
 
-            <section className="mt-10 border-t border-[color:var(--home-border)] pt-8" aria-labelledby="article-faq">
+            {faqs.length > 0 && <section id={locale === "en" ? undefined : "faq"} className="mt-10 border-t border-[color:var(--home-border)] pt-8" aria-labelledby="article-faq">
               <p className="font-display text-xs font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A]">FAQ</p>
               <h2 id="article-faq" className="mt-2 font-display text-2xl font-extrabold uppercase leading-tight text-[color:var(--home-text)] sm:text-4xl">
-                Frequently Asked Questions
+                {labels.faq}
               </h2>
               <div className="mt-5 space-y-3">
                 {faqs.map((faq) => (
@@ -695,7 +710,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
                   </details>
                 ))}
               </div>
-            </section>
+            </section>}
             <div className="clear-both grid gap-5 border-t border-[color:var(--home-border)] pt-7 sm:grid-cols-2">
               <div className="rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)]">
                 <TagList tags={article.tags} />
@@ -706,7 +721,7 @@ export function ArticleLayout({ article, relatedArticles }: ArticleLayoutProps) 
         </div>
 
         <div className="mt-14">
-          <RelatedArticles articles={relatedArticles} />
+          <RelatedArticles articles={relatedArticles} locale={locale} paths={relatedPaths} />
         </div>
       </article>
     </main>

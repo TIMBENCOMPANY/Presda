@@ -76,6 +76,15 @@ for (const record of publishedTranslations) {
   const html = renderToStaticMarkup(React.createElement(PublicationDocument, { locale: record.locale }, React.createElement(LocalizedPublication, { record })));
   assert.ok(html.includes(`<html lang="${record.locale}" dir="${record.locale === 'ar' ? 'rtl' : 'ltr'}"`));
   assert.equal((html.match(/<h1\b/g) ?? []).length, 1);
+  const hero = html.match(/<header class="relative isolate[\s\S]*?<\/header>/)?.[0];
+  assert.ok(hero?.includes('<h1 class="article-hero-title text-white">'), 'Localized title lives inside the shared English hero');
+  assert.ok(hero.includes('article-hero-image object-cover'), 'Shared full-bleed hero image');
+  assert.ok(hero.includes('headline-accent-red') && hero.includes('headline-accent-gold'), 'Both PRESDA headline accents');
+  assert.ok(html.includes('data-article-progress-root'), 'Shared reading progress root');
+  assert.ok(html.includes('flow-root min-w-0 space-y-7'), 'Shared article body panel');
+  assert.ok(html.includes('<aside'), 'Shared source and contents sidebar');
+  assert.ok(html.includes('grid gap-4 md:grid-cols-2 xl:grid-cols-3'), 'Shared related cards');
+  assert.ok(!html.includes('localized-publication'), 'No separate localized article layout');
   assert.ok(html.includes('section-'), 'Localized table of contents and heading anchors');
   assert.ok(!/\*\*|\]\(https?:/.test(html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/g, '')), 'Editorial markdown is rendered');
   for (const block of record.content) {

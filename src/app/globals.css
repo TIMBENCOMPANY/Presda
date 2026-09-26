@@ -160,6 +160,11 @@ select {
   object-position: var(--article-hero-image-position, 50% 50%);
 }
 
+/* Keep the shared article composition, mirroring reading direction only. */
+[data-article-locale="ar"] { text-align: right; }
+[data-article-locale="ar"] .article-hero-shade { transform: scaleX(-1); }
+[data-article-locale="ar"] .article-hero-title { line-height: 1.2; }
+
 .headline-accent-red {
   color: var(--home-red);
 }

@@ -1,4 +1,8 @@
 import Image from "next/image";
+import { ArticleLayout } from "@/components/ArticleLayout";
+import { getArticleBySlug, getRelatedArticles } from "@/data/articles";
+import { translationArticle } from "@/lib/i18n/article-presentation";
+import { getTranslation } from "@/lib/i18n/registry";
 import Link from "next/link";
 import type { Translation } from "@/lib/i18n/content";
 import { localizedCategories, messages } from "@/lib/i18n/messages";
@@ -11,8 +15,25 @@ import { toCategorySlug } from "@/lib/categories";
 export function LocalizedPublication({ record }: { record: Translation }) {
   const t = messages[record.locale];
   const faqSchema = translationFaqJsonLd(record);
+  if (record.kind === "article") {
+    const source = getArticleBySlug(record.englishPath.split("/").filter(Boolean).at(-1)!);
+    if (!source) throw new Error(`Missing original article: ${record.englishPath}`);
+    const relatedPaths: Record<string, string> = {};
+    const related = getRelatedArticles(source, 5).map(article => {
+      const path = languageDestination(`/articles/${article.slug}/`, record.locale, translationRoutes);
+      const translated = getTranslation(path);
+      const item = translated ? translationArticle(translated, article) : article;
+      relatedPaths[item.id] = path;
+      return item;
+    });
+    return <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(translationJsonLd(record)).replace(/</g, "\\u003c") }} />
+      {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema).replace(/</g, "\\u003c") }} />}
+      <ArticleLayout article={translationArticle(record, source)} relatedArticles={related} locale={record.locale} canonicalPath={record.path} relatedPaths={relatedPaths} localizedBlocks={record.content} />
+    </>;
+  }
   const sections = record.content.flatMap((block, index) => block.type === "heading" || block.type === "subheading" ? [{ title: block.text, level: block.type, index }] : []);
-  const stories = record.kind === "article" ? [] : publishedTranslations.filter((item) => item.kind === "article" && item.locale === record.locale && (record.kind !== "category" || item.category === record.category));
+  const stories = publishedTranslations.filter((item) => item.kind === "article" && item.locale === record.locale && (record.kind !== "category" || item.category === record.category));
   return (
     <main className="localized-publication mx-auto w-[min(1120px,calc(100%-32px))] py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(translationJsonLd(record)).replace(/</g, "\\u003c") }} />
