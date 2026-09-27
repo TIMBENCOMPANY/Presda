@@ -32984,6 +32984,130 @@ export const articles: Article[] = [
           "Thousands of royal and religious objects were removed during the British capture of Benin City in 1897. Nigerian and Edo authorities argue that these works were taken through colonial violence, leading museums to review ownership, provenance and restitution."
       }
     ]
+  },
+  {
+    id: "134",
+    slug: "uzbekistan-wins-2026-chess-olympiad-samarkand",
+    title: "Uzbekistan Wins the 2026 Chess Olympiad on Home Soil in Samarkand",
+    seoTitle: "Uzbekistan Wins 2026 Chess Olympiad in Samarkand | PRESDA Sport",
+    metaDescription:
+      "Uzbekistan won the 2026 FIDE Chess Olympiad in Samarkand, beating Ukraine 2.5-1.5 for its second Open section gold after 2022.",
+    headlineHighlights: {
+      red: "Uzbekistan",
+      gold: "Samarkand"
+    },
+    excerpt:
+      "Uzbekistan completed a remarkable home Olympiad by defeating Ukraine 2.5-1.5 in the final round and taking Open section gold with 20 match points.",
+    category: "Sport",
+    date: "2026-09-27",
+    lastUpdated: "2026-09-27",
+    author: "PRESDA Sport",
+    coverImage: "/articles/uzbekistan-chess-champions-samarkand-2026.png",
+    coverAlt:
+      "Uzbekistan's chess Olympiad team with national flags and Samarkand architecture during the 2026 FIDE Chess Olympiad",
+    homepageImagePosition: "50% 46%",
+    content: [
+      "Uzbekistan won the Open section of the 46th FIDE Chess Olympiad on Sunday, September 27, 2026, turning home advantage in Samarkand into a second Olympiad gold. The hosts defeated Ukraine 2.5-1.5 in the final round and finished the team competition with 20 match points.",
+      "The result confirmed Uzbekistan as a modern Olympiad power. Its first Open title came in Chennai in 2022. Four years later, the same chess tradition produced another championship in front of a home crowd, against a field packed with leading grandmasters and national teams.",
+      "## A DECISIVE FINAL ROUND IN SAMARKAND",
+      "The final-round match against Ukraine was close enough to demand patience. Uzbekistan did not need a spectacular sweep. It needed one more match point than its rival, and the team held its nerve across the four boards. The final score, 2.5-1.5, gave the hosts the gold medal outright.",
+      "The decisive result came from Mukhiddin Madaminov, who scored the final-round win on board four. FIDE described the victory as the point that delivered the title, even though a 2-2 draw would probably also have been enough for Uzbekistan to secure first place. Madaminov completed the tournament unbeaten with 5.5 points from seven games, an important contribution from a player who entered the event as the team's reserve board.",
+      "That detail captures the depth of the champions. Olympiad success is not simply a test of the highest-rated player. It is a team event in which preparation, substitutions, recovery between rounds and the ability to convert one critical position can decide the medal table.",
+      "## THE CHAMPIONSHIP TEAM",
+      "Uzbekistan's Open section squad consisted of Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov and Mukhiddin Madaminov. Former FIDE World Champion Rustam Kasimdzhanov served as captain.",
+      "The line-up blended established elite players with a reserve who proved decisive at the finish. Sindarov and Abdusattorov gave the team world-class strength at the top, while Yakubboev and Vokhidov added experience from earlier national-team campaigns. Madaminov's unbeaten score gave the squad a reliable final-board performance when the title was on the line.",
+      "Kasimdzhanov's role also mattered beyond the games themselves. A captain coordinates opening preparation, helps players manage the rhythm of a long event and makes sure the team remains focused when one result can change the entire standings. In an Olympiad, the work around the board is part of the competition.",
+      "## FROM 2022 CHAMPIONS TO HOME DEFENDERS",
+      "Uzbekistan's first Open Olympiad gold in 2022 announced a new generation of Central Asian chess. That Chennai team showed that the country could challenge the traditional powers through youth development, serious preparation and a collective style. The 2026 victory shows that the earlier title was not an isolated breakthrough.",
+      "The Samarkand squad carried the pressure of being hosts and defending champions from the previous title run. A home Olympiad brings energy, but it also brings expectations. Every round was watched by supporters who understood that the event was a national sporting moment. Uzbekistan responded by staying near the top throughout the tournament and winning the matches that mattered most late in the schedule.",
+      "The two titles also belong to different settings. Chennai established Uzbekistan's place among the world's strongest teams. Samarkand allowed that achievement to be celebrated at home, with the country's leading players competing beneath the flags and historic architecture of their own region.",
+      "## INDIA TAKES SILVER, GERMANY WINS BRONZE",
+      "India took the silver medal after drawing 2-2 with Hungary in the final round. India entered the event as the defending champion from Budapest 2024 and remained in the medal race until the closing games. The draw was enough to secure second place in the final Open standings.",
+      "Germany won bronze with a 2.5-1.5 victory over the Netherlands. The German result completed a podium in which all three medal teams came through a demanding final round rather than receiving a clear path to the finish. Ukraine's fourth-place result reflected the strength of its challenge, even though the team could not stop the hosts from claiming gold.",
+      "The medal table also shows why match points matter in an Olympiad. Individual game scores contribute to a team's result, but the competition is decided through match wins and the final standings. Uzbekistan's 20/22 match points record captures the consistency required across eleven classical rounds.",
+      "## WHY THE VICTORY MATTERS FOR UZBEK CHESS",
+      "Uzbekistan has invested heavily in chess as a national sport, and its recent success reflects more than one generation. The country's leading players have developed in an environment where international competition, strong coaching and national-team preparation reinforce one another.",
+      "Nodirbek Abdusattorov became a symbol of that rise after his rapid progress into the world elite. Javokhir Sindarov has also emerged as one of the strongest young grandmasters in the game. Their presence alongside Yakubboev, Vokhidov and Madaminov gives Uzbekistan a core that can compete with India, China, the United States, Germany, Ukraine and other established powers.",
+      "A second Olympiad gold also changes the expectations around the team. The question is no longer whether Uzbekistan can win once. It is whether the country can remain a permanent contender across future Olympiads, world team events and individual championships. The Samarkand result suggests that its system has enough depth to make that ambition credible.",
+      "## SAMARKAND AS A CHESS CAPITAL",
+      "Hosting the 46th Olympiad placed Samarkand at the center of international chess from September 15 to 27. The city is known worldwide for its Silk Road history, Islamic architecture and Timurid monuments. During the Olympiad, that cultural setting became part of a contemporary sporting story.",
+      "The event brought national teams together for eleven classical rounds in the Open and Women’s sections, with players competing under intense public attention. FIDE's official schedule placed the final round and closing ceremony on September 27. Uzbekistan's victory gave the host city the ending every organizer hopes to create: a major international event concluded by a home champion.",
+      "A successful home Olympiad can also widen access to chess. Children watching the final round saw players from their own country defeat one of the world's strongest teams. That kind of example can turn a medal into a lasting lesson about preparation, patience and the possibility of competing at the highest level.",
+      "## THE FINAL BOARD THAT SEALED GOLD",
+      "Madaminov's unbeaten 5.5/7 score deserves particular attention because it shows how a team title is often decided by the player outside the headline pairings. His final-round win against Ukraine gave Uzbekistan the extra point it needed on the day and ended the tournament without a loss.",
+      "The result was not a single-player triumph. Sindarov, Abdusattorov, Yakubboev and Vokhidov built the team total across the earlier rounds, while Kasimdzhanov guided the preparation. Madaminov then supplied the decisive finish. That combination is the essence of Olympiad chess: individual games become one national result.",
+      "## WHAT COMES NEXT",
+      "Uzbekistan now leaves Samarkand with two Open Olympiad titles in four years and a stronger claim to long-term status among the elite chess nations. Its players will return to individual tournaments carrying the confidence of a team that has won under two different kinds of pressure: abroad in 2022 and at home in 2026.",
+      "For the moment, the achievement belongs to Samarkand. Uzbekistan defeated Ukraine 2.5-1.5, reached 20 match points, and celebrated a second gold medal with its supporters. The final position of the 2026 Olympiad is clear: Uzbekistan first, India second and Germany third, with a new chapter in the country's chess history written on home soil.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**Who won the 2026 Chess Olympiad Open section?**",
+      "Uzbekistan won the Open section of the 46th FIDE Chess Olympiad in Samarkand, defeating Ukraine 2.5-1.5 in the final round.",
+      "**How many match points did Uzbekistan score?**",
+      "Uzbekistan finished with 20 match points out of a possible 22 in the eleven-round team competition.",
+      "**Who were the members of Uzbekistan's 2026 Olympiad team?**",
+      "The team was Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov and Mukhiddin Madaminov, captained by Rustam Kasimdzhanov.",
+      "**Who won the other Open section medals?**",
+      "India won silver and Germany won bronze. India drew 2-2 with Hungary, while Germany defeated the Netherlands 2.5-1.5 in the final round.",
+      "**How did Mukhiddin Madaminov perform?**",
+      "Madaminov scored the decisive final-round win for Uzbekistan and finished the Olympiad unbeaten with 5.5 points from seven games."
+    ],
+    quote:
+      "> Uzbekistan's second Olympiad gold was won as a team, finished by Madaminov on the final board and celebrated at home in Samarkand.",
+    references: [
+      {
+        name: "FIDE: Uzbekistan's dream finish, Olympiad gold in Samarkand",
+        url: "https://www.fide.com/uzbekistans-dream-finish-olympiad-gold-in-samarkand/"
+      },
+      {
+        name: "FIDE: Team line-ups confirmed for the 46th Chess Olympiad",
+        url: "https://www.fide.com/team-line-ups-confirmed-for-46th-fide-chess-olympiad/"
+      },
+      {
+        name: "FIDE: 46th Chess Olympiad official website",
+        url: "https://chessolympiad2026.fide.com/"
+      },
+      {
+        name: "FIDE: Olympiad Day 6, Uzbekistan make their move in Samarkand",
+        url: "https://www.fide.com/olympiad-day-6-uzbekistan-make-their-move-in-samarkand/"
+      }
+    ],
+    tags: [
+      "Uzbekistan Chess Olympiad 2026",
+      "46th FIDE Chess Olympiad",
+      "Samarkand chess",
+      "Uzbekistan chess team",
+      "Mukhiddin Madaminov",
+      "Javokhir Sindarov",
+      "Nodirbek Abdusattorov",
+      "Rustam Kasimdzhanov",
+      "Chess Olympiad",
+      "Chess",
+      "Sport",
+      "Uzbekistan"
+    ],
+    readingTime: "8 min read",
+    faq: [
+      {
+        question: "Who won the 2026 FIDE Chess Olympiad Open section?",
+        answer:
+          "Uzbekistan won the Open section in Samarkand by defeating Ukraine 2.5-1.5 in the final round and finishing on 20 match points."
+      },
+      {
+        question: "Was this Uzbekistan's first Olympiad title?",
+        answer:
+          "No. It was Uzbekistan's second Open section gold after the team won the 2022 Olympiad in Chennai."
+      },
+      {
+        question: "Who captained Uzbekistan in Samarkand?",
+        answer:
+          "Former FIDE World Champion Rustam Kasimdzhanov was the captain of Uzbekistan's 2026 Olympiad team."
+      },
+      {
+        question: "Who scored Uzbekistan's decisive final-round win?",
+        answer:
+          "Reserve board Mukhiddin Madaminov scored the decisive win against Ukraine and finished unbeaten with 5.5 points from seven games."
+      }
+    ]
   }
 ];
 
