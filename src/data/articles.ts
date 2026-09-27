@@ -32835,6 +32835,155 @@ export const articles: Article[] = [
           "Bono is the widely used football name for Yassine Bounou. Many clubs, broadcasters and fans refer to him by that shorter name, while his full name remains Yassine Bounou."
       }
     ]
+  },
+  {
+    id: "133",
+    slug: "kingdom-of-benin-west-african-power-history",
+    title: "THE KINGDOM OF BENIN: THE RISE AND FALL OF A WEST AFRICAN POWER",
+    seoTitle: "Kingdom of Benin History: Edo Power, Obas and Benin Bronzes",
+    metaDescription:
+      "Discover the Kingdom of Benin in southern Nigeria, from Edo origins and Oba Ewuare to Portuguese trade, Benin art and the 1897 British invasion.",
+    headlineHighlights: {
+      red: "KINGDOM OF BENIN",
+      gold: "WEST AFRICAN POWER"
+    },
+    excerpt:
+      "Centered on Benin City in present-day southern Nigeria, the Kingdom of Benin built a sophisticated Edo court, trading state and artistic tradition that still shapes debates about history and restitution.",
+    category: "History",
+    date: "2026-09-27",
+    lastUpdated: "2026-09-27",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/benin-kingdom-southern-nigeria-africa-history.png",
+    coverAlt:
+      "Historical illustration of an Edo Oba overlooking Benin City in present-day southern Nigeria, with palace architecture and court art",
+    homepageImagePosition: "58% 50%",
+    content: [
+      "The Kingdom of Benin was a powerful Edo kingdom centered on Benin City in present-day southern Nigeria. It is not the modern Republic of Benin, the neighboring country west of Nigeria. The historical kingdom and the modern state share a name, but they are different places and political histories.",
+      "For centuries, Benin's rulers organized a forest kingdom through a sacred monarchy, titled chiefs, military institutions, craft guilds and long-distance trade. Its court commissioned some of Africa's most accomplished cast-brass and ivory works. Its capital was also a planned urban center surrounded by a wider network of ditches and earth ramparts. The kingdom's independence ended after the British punitive expedition of 1897, but the Oba institution and Edo cultural life continue.",
+      "## ORIGINS AND THE EDO PEOPLE",
+      "The people most closely associated with the kingdom are the Edo, whose language and historical communities remain centered in and around modern Benin City in Edo State, Nigeria. Early traditions describe a sequence of local rulers before a new dynasty linked to Ife and the figure of Oranmiyan. Historians treat these traditions as important political memory while comparing them with archaeology, court records and outside accounts rather than reading every story as a precise date.",
+      "## THE OBA MONARCHY AND THE RISE OF BENIN",
+      "The Oba was the kingdom's king and its central political and ritual figure. Royal authority was expressed through palace ceremonies, ancestral obligations, court titles and control over important guilds. The Oba's position was powerful, but government depended on networks of chiefs and officials who administered districts, organized labor and represented local interests at court.",
+      "A major turning point came with Oba Ewuare, usually placed in the fifteenth century. Court traditions remember him as a reforming ruler who strengthened the monarchy, reorganized political authority and expanded Benin's influence. He is also associated with the growth of Benin City and the construction or enlargement of defensive earthworks around the capital. Accounts differ on the exact chronology and on which rulers ordered particular sections, so the earthworks should be understood as a long, collective building history rather than a single project completed by one king.",
+      "Ewuare's campaigns and diplomacy helped make Benin a leading power in the forest zone. At its height, royal authority reached toward parts of the Niger Delta and westward toward the coastal lagoons near Lagos, although the intensity of control varied from place to place. Claims that Benin ruled an enormous, uniformly administered territory flatten a more complicated map of tribute, alliance, trade and military influence.",
+      "## BENIN CITY, THE PALACE AND THE EARTHWORKS",
+      "Benin City was the kingdom's political and ceremonial heart. The palace complex contained courtyards, shrines, workshops, storage areas and spaces for audiences. Royal compounds and neighborhoods were organized through gates, roads and social obligations. European visitors described a large, busy city with planned streets and an elaborate court, though their observations were shaped by what they could see and by the assumptions they brought with them.",
+      "Around the city and across the wider Benin and Esan region, communities built networks known as iya: banks, ditches and connected enclosures that marked settlements, routes and boundaries. Archaeological research describes a cellular system rather than one continuous wall. The wider network has been estimated at thousands of kilometers in cumulative length across a broad landscape, but that figure should not be presented as the measurement of one city wall. Sections were made and maintained at different times and served local as well as defensive purposes.",
+      "## GOVERNMENT, MILITARY, SOCIETY AND TRADE",
+      "Benin's government combined royal command with delegated authority. Titled chiefs advised the Oba, administered territories and performed ritual duties. Palace and town guilds specialized in casting, ivory carving, leatherwork, wood, coral beadwork and other crafts. These institutions protected skills and connected production to court ceremonies, commissions and status.",
+      "The army allowed the kingdom to defend routes, punish resistance and extend influence. Military service was organized through royal and chiefly commands, and campaigns could bring prisoners, tribute and new political relationships. Farmers and traders sustained the court, while markets linked the interior to riverine and coastal routes. People in the kingdom did not all experience royal power in the same way: obligations and privileges differed by status, place and occupation.",
+      "Trade connected Benin to neighboring Yoruba, Itsekiri, Ijaw and other communities, as well as to merchants operating along the Atlantic coast. Exports included pepper, textiles and ivory. Imported metals, coral and other materials became especially important at court. Trade did not make Benin a European colony. Foreign merchants negotiated with the kingdom through royal officials, and the Oba controlled access to the capital and valuable commodities.",
+      "## CONTACT WITH THE PORTUGUESE",
+      "Portuguese sailors and merchants reached the Gulf of Guinea in the late fifteenth century, when Benin was already an expanding regional power. Portuguese delegations sought commercial and diplomatic relations with the Oba. Contacts brought new goods, information and artistic possibilities, while Benin remained politically independent and set the terms of access to its court.",
+      "The relationship was not simply a story of European influence. Benin merchants and officials used coastal networks to pursue their own interests. Copper and brass entering through Atlantic trade supplied materials for royal commissions, and Portuguese figures appear in some Benin artworks as recognizable foreign visitors or trading partners. Ivory carvings made for export, sometimes called Bini-Portuguese ivories, show how artists adapted local forms for an international market.",
+      "## BENIN ART AND THE ‘BENIN BRONZES’",
+      "Benin's court art was made in several materials and by specialized guilds. The best-known works include cast plaques, commemorative heads, figures, bells, staffs, ivory tusks, masks and coral regalia. Many objects called the Benin Bronzes are actually brass or other copper alloys, while the wider group also includes ivory, wood, terracotta, iron and coral. ‘Bronzes’ is a conventional museum term, not a claim that every object is made of bronze.",
+      "Lost-wax casting allowed artists to create detailed reliefs and figures for palace walls, altars and ceremonies. Plaques recorded the Oba, chiefs, attendants, warriors, foreign merchants and court events. Their purpose was historical, political and ritual. They helped preserve royal memory and presented the hierarchy of the court to those who entered sacred and administrative spaces.",
+      "## THE 1897 BRITISH PUNITIVE EXPEDITION",
+      "By the nineteenth century, British commercial and imperial pressure on the Niger Delta was intensifying. In 1892, Oba Ovonramwen was pressured into signing a British ‘protection’ treaty whose meaning and circumstances remain contested. In January 1897, a British party led by James Phillips advanced toward Benin during a period when the Oba's officials had asked that the visit be delayed. The encounter turned violent, and Phillips and most of his party were killed.",
+      "Britain responded with a punitive expedition of roughly 1,200 troops. British forces attacked and captured Benin City on 18 February 1897, burned large parts of the city and palace, and removed thousands of royal and religious objects. The operation was both a military conquest and a seizure of cultural property. Ovonramwen escaped at first, but he was captured and sent into exile in Calabar. He remained there until his death, while the kingdom was brought under British colonial control.",
+      "The objects taken from the palace entered military collections, museums and private markets. Some were presented as war spoils, some were sold to finance the expedition and others moved through later donations and purchases. Their dispersal explains why Benin works are now held across Europe, North America and Nigeria, and why provenance remains central to current restitution discussions.",
+      "## WHAT HAPPENED AFTER 1897",
+      "British rule changed the political structure of the kingdom, but it did not erase Edo identity or the royal institution. After Ovonramwen's death, his son Eweka II was recognized as Oba within the British protectorate. The court resumed important ceremonies and artistic patronage under colonial limits. Later Obas continued to serve as cultural and community leaders after Nigerian independence.",
+      "The 1897 destruction also changed the material record. Palace buildings were altered, objects were scattered and many stories had to be preserved through people, ritual and later scholarship. Contemporary Benin City is a modern Nigerian city, yet the palace, royal ceremonies, guild traditions and Edo historical memory remain active parts of its life.",
+      "## RESTITUTION, REPATRIATION AND THE CONTINUING OBA",
+      "The debate over Benin objects is about ownership, consent, law, repair and the meaning of a museum collection. Nigerian authorities, the Oba's court, Edo communities and international museums have pursued different combinations of restitution, loans, shared stewardship and new displays. The Smithsonian transferred ownership of 29 Benin objects to Nigeria's National Commission for Museums and Monuments in 2022, returning some works and placing others on long-term loan. Other institutions have announced returns or are still reviewing claims and provenance.",
+      "Repatriation does not invalidate the artistic or scholarly value of museums, but it asks museums to confront how colonial violence shaped their holdings. It also requires practical agreements about conservation, access, security and the authority of Nigerian and Edo institutions. The continuing Oba institution, now represented by Oba Ewuare II, gives this discussion a living political and cultural context rather than treating Benin as a vanished civilization.",
+      "## THE LEGACY OF BENIN",
+      "The Kingdom of Benin's legacy is larger than the objects removed in 1897. It includes Edo political thought, urban organization, military history, trade, architecture, ritual and a sophisticated visual record of court life. Benin City and the wider earthwork landscape show that African urban histories cannot be measured only through European descriptions or modern borders.",
+      "Benin also offers a clear lesson about historical precision. The kingdom was centered in southern Nigeria, its influence changed over time, its earthworks formed a regional network and its artworks were made in several materials. Keeping those distinctions visible makes the story stronger. The Oba's continuing role, the work of Edo artists and the movement to return looted objects all connect the medieval and early modern kingdom to the present.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**Where was the Kingdom of Benin?**",
+      "It was centered on Benin City in present-day Edo State, southern Nigeria. It is historically different from the modern Republic of Benin, which lies west of Nigeria.",
+      "**Who were the people of Benin?**",
+      "The kingdom was built by Edo-speaking peoples and included many neighboring communities connected through trade, tribute, alliance and royal administration.",
+      "**What are the Benin Bronzes?**",
+      "The name refers broadly to court artworks removed from Benin, including many cast brass or copper-alloy plaques and figures, as well as objects made of ivory, wood, terracotta, iron and coral.",
+      "**What happened to Benin City in 1897?**",
+      "A British punitive expedition captured and burned the city, exiled Oba Ovonramwen and removed thousands of royal and religious artworks. The seizure is the central reason for today's restitution debate."
+    ],
+    quote:
+      "> The Kingdom of Benin was a court, a city, a trading state and a living Edo institution.",
+    references: [
+      {
+        name: "The Metropolitan Museum of Art: Plaque with Warrior and Attendants",
+        url: "https://www.metmuseum.org/art/collection/search/316393?searchField=All"
+      },
+      {
+        name: "The Metropolitan Museum of Art: Head of an Oba",
+        url: "https://www.metmuseum.org/art/collection/search/310766"
+      },
+      {
+        name: "British Museum: The Benin Bronzes",
+        url: "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/benin-bronzes"
+      },
+      {
+        name: "UNESCO World Heritage Centre: Benin Iya",
+        url: "https://whc.unesco.org/en/tentativelists/488"
+      },
+      {
+        name: "African Archaeological Review: The Benin Iya system",
+        url: "https://doi.org/10.1007/s10437-025-09630-y"
+      },
+      {
+        name: "National Museums Scotland: The British raid on Benin, 1897",
+        url: "https://www.nms.ac.uk/discover-catalogue/the-british-raid-on-benin-1897"
+      },
+      {
+        name: "Art Institute of Chicago: The British conquest of Benin",
+        url: "https://archive.artic.edu/benin/conquest/"
+      },
+      {
+        name: "Smithsonian National Museum of African Art: Benin Bronzes",
+        url: "https://africa.si.edu/exhibitions/benin-bronzes-ambassadors-oba"
+      },
+      {
+        name: "Smithsonian: Return of 29 Benin objects",
+        url: "https://www.si.edu/newsdesk/releases/smithsonian-returns-29-benin-bronzes-national-commission-museums-and-monuments"
+      },
+      {
+        name: "Smithsonian National Museum of Asian Art: Portugal and the world",
+        url: "https://asia.si.edu/whats-on/exhibitions/encompassing-the-globe-portugal-and-the-world-in-the-16th-and-17th-centuries/"
+      }
+    ],
+    tags: [
+      "Kingdom of Benin",
+      "Benin history",
+      "Edo people",
+      "Oba Ewuare",
+      "Benin City",
+      "Benin Bronzes",
+      "Benin art",
+      "Ovonramwen",
+      "1897 British expedition",
+      "restitution",
+      "Nigeria",
+      "West Africa",
+      "History"
+    ],
+    readingTime: "11 min read",
+    faq: [
+      {
+        question: "Was the Kingdom of Benin in the modern Republic of Benin?",
+        answer:
+          "No. The historical Kingdom of Benin was centered on Benin City in present-day southern Nigeria. The modern Republic of Benin is a separate neighboring country west of Nigeria."
+      },
+      {
+        question: "Who was Oba Ewuare?",
+        answer:
+          "Oba Ewuare was a fifteenth-century ruler associated with Benin's political reforms, military expansion, urban growth and the strengthening of the royal court."
+      },
+      {
+        question: "Why are Benin artworks called bronzes?",
+        answer:
+          "Benin Bronzes is a conventional collective term. Many of the famous plaques and figures are made from brass or other copper alloys, and the wider group also includes ivory, wood, terracotta, iron and coral objects."
+      },
+      {
+        question: "Why are Benin artworks being returned?",
+        answer:
+          "Thousands of royal and religious objects were removed during the British capture of Benin City in 1897. Nigerian and Edo authorities argue that these works were taken through colonial violence, leading museums to review ownership, provenance and restitution."
+      }
+    ]
   }
 ];
 
