@@ -1,0 +1,490 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/bajau-people-sea-nomads-diving/",
+  "path": "/fr/articles/bajau-people-sea-nomads-diving/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "LES BAJAU : PLONGÉE EN APNÉE, PEUPLES MARITIMES ET VIE AU FIL DE L’EAU",
+  "excerpt": "Les Bajau ne vivent pas sous l’eau. Leur histoire relie plongée, pêche, apprentissage, adaptation biologique, culture et droits des communautés maritimes d’Asie du Sud-Est.",
+  "headlineHighlights": {
+    "red": "LES BAJAU",
+    "gold": "VIE AU FIL DE L’EAU"
+  },
+  "seoTitle": "Bajau : peuple maritime, plongée et adaptation humaine",
+  "description": "Qui sont les Bajau ? Ce que les études mesurent réellement sur leurs plongées, l’adaptation de la rate et la vie des communautés maritimes au-delà des stéréotypes.",
+  "keywords": [
+    "Bajau",
+    "Sama-Bajau",
+    "peuples maritimes",
+    "plongée en apnée",
+    "adaptation à la plongée",
+    "rate et apnée",
+    "pêche traditionnelle",
+    "Asie du Sud-Est maritime"
+  ],
+  "searchIntent": "Comprendre les communautés bajau, leurs traditions maritimes, les données scientifiques sur la plongée et les enjeux contemporains de citoyenneté et de moyens de subsistance.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-19",
+  "updatedAt": "2026-09-19",
+  "image": {
+    "src": "/articles/bajau-spearfisher-above-a-coral-reef.png",
+    "alt": "Illustration éditoriale d’un plongeur bajau près d’un habitat maritime, sans documenter une personne ou une pratique précise"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Depuis le rivage, la mer peut sembler marquer le bord du monde habité. Pour une famille de pêcheurs dont la maison s’élève au-dessus de l’eau, elle relie le foyer à la nourriture, au travail, aux proches et aux lieux familiers. Ce n’est pas seulement une belle vue : c’est une autre organisation de la vie quotidienne."
+    },
+    {
+      "type": "paragraph",
+      "text": "On présente souvent les Bajau comme le « peuple qui vit sous l’eau ». Ce n’est pas le cas. Comme tout le monde, ils respirent de l’air et une plongée en apnée doit se terminer à la surface. Cette accroche désigne des communautés dont la vie est étroitement liée à la mer, parmi lesquelles d’excellents plongeurs. Elle ne décrit littéralement ni leur habitat ni leur biologie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leur histoire dépasse les plongées spectaculaires. Elle comprend foyers mobiles, réseaux commerciaux, langues et cérémonies, preuves scientifiques d’adaptation et question pratique : comment préserver une vie maritime lorsque poissons, logements sûrs et reconnaissance juridique deviennent moins accessibles ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Données examinées le 19 septembre 2026. Les résultats chiffrés ci-dessous appartiennent à des études et lieux précis, non à chaque Bajau. L’image d’ouverture est une illustration et ne documente ni un plongeur, ni un village, ni une pratique de pêche particuliers."
+    },
+    {
+      "type": "heading",
+      "text": "QUI SONT LES BAJAU ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bajau, Bajo et Sama-Bajau sont des noms employés par des communautés diverses d’Asie du Sud-Est maritime, notamment dans le sud des Philippines, le Sabah malaisien et l’Indonésie. « Sama » est un nom que beaucoup de communautés utilisent pour elles-mêmes. Sama Dilaut et Bajau Laut désignent plus spécifiquement des groupes tournés vers la mer. Ces termes sont liés, mais ne sont pas des étiquettes interchangeables pour une société uniforme. [Academic overview of Southeast Asian maritime peoples](https://link.springer.com/article/10.1007/s12685-012-0060-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une histoire maritime commune ne signifie pas que chacun vit en bateau ou gagne sa vie en plongeant. Villages côtiers, agriculture, commerce et artisanat font aussi partie de l’histoire Sama-Bajau. L’anthropologue Clifford Sather décrit les nomades marins au sein d’un réseau plus large de communautés côtières et terrestres. Les groupes se reconnaissent dans des îles, villages et histoires locales distincts. [Sather’s account of Sama-Bajau diversity](https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction change la lecture des photographies. Un village sur pilotis ne représente pas tous les Bajau ; un harponneur célèbre n’est pas le représentant biologique d’une population entière. Les Bajau ne doivent pas non plus être confondus avec les Moken ou les Orang Laut, autres peuples maritimes d’Asie du Sud-Est ayant leur propre histoire."
+    },
+    {
+      "type": "heading",
+      "text": "BATEAUX, MAISONS SUR PILOTIS ET HISTOIRE MARITIME CONNECTÉE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans les communautés vivant autrefois en bateau, l’embarcation pouvait abriter la vie familiale tout en reliant les zones de pêche. Des foyers apparentés s’ancraient ensemble pour former des groupes mobiles. Les recherches de Sather les décrivent comme participant aux échanges et relations politiques à terre. Poisson, concombre de mer, nacre et autres produits reliaient les familles aux marchés plus larges. Leur mobilité s’inscrivait dans une économie connectée, non en marge de l’histoire. [Maritime households and trade](https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une maison fixe au-dessus des eaux peu profondes peut préserver un accès étroit à ce monde. En 2014, le reportage de National Geographic a suivi une famille de pêcheurs dont la maison de bambou se dressait sur pilotis. Des pirogues reliaient les habitations voisines. Le récit montre aussi la préparation de nourriture dans un bateau-logement et des repas associant fruits de mer et manioc. Ce sont des observations particulières, non un menu ou un modèle d’habitat partagé par tous. [National Geographic’s field report](https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il ne faut donc pas voir bateau-maison et maison sur pilotis comme deux étapes opposées d’une progression simple du « traditionnel » au « moderne ». Une demeure fixe peut coexister avec des sorties de pêche, des visites familiales par l’eau et une forte identité maritime. L’important est l’usage réel de la mer et la liberté dont disposent les habitants pour choisir où et comment vivre."
+    },
+    {
+      "type": "heading",
+      "text": "LA PÊCHE EST UN MOYEN DE VIE, PAS UN CONCOURS D’APNÉE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le reportage de Paley suit le travail avant et après la descente spectaculaire : observer le fond depuis une pirogue, repérer une proie, manipuler la prise et rentrer. Le moment visible sous l’eau dépend de l’équipement, de l’observation et du jugement. Une photo isolant un plongeur peut masquer l’économie familiale qui donne un sens au déplacement. [Reporting on everyday fishing](https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un plongeur au travail a besoin d’une prise utile et d’assez d’énergie pour continuer. Une très longue plongée unique n’est pas forcément la façon la plus productive de pêcher. Profondeur, visibilité, proies, courants et tâche modifient les pratiques. Les observations scientifiques sont précieuses parce qu’elles documentent le travail ordinaire au lieu de ne retenir qu’une scène spectaculaire."
+    },
+    {
+      "type": "heading",
+      "text": "À QUELLE PROFONDEUR ET COMBIEN DE TEMPS LES BAJAU PLONGENT-ILS ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2011, Erika Schagatay et ses collègues ont observé cinq harponneurs bajau aux Philippines. Leur plongée moyenne durait 28 secondes et les profondeurs maximales individuelles observées allaient de 5 à 7 mètres. Environ 60 % du temps de travail observé se déroulait sous l’eau, sur de nombreuses plongées séparées par des respirations. Cela ne signifie pas des heures en une seule apnée. [2011 measured dive study](https://www.lunduniversity.lu.se/publication/24e72ac5-7371-4ba1-989b-56db7476169a)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le compte rendu de terrain ultérieur inclut ce premier groupe et un autre groupe de cinq. Il ne faut pas le considérer comme une réplication entièrement indépendante. Le tableau porte sur des plongées de travail ; le récit de compétition qui suit constitue un autre type de preuve. Aucun ne fixe une capacité maximale de tous les plongeurs bajau."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[BAJAU_DIVING_EVIDENCE_TABLE]]",
+      "caption": "Plongées de travail mesurées aux Philippines. Le rapport de 2014 reprend l’échantillon antérieur de 2011 ; il ne s’agit pas de cohortes indépendantes. Les profondeurs décrivent le travail observé, non les limites humaines.",
+      "headings": [
+        "Rapport et échantillon",
+        "Durée de plongée",
+        "Profondeur observée",
+        "Contexte"
+      ],
+      "rows": [
+        [
+          "2011 ; cinq harponneurs bajau",
+          "moyenne : 28 secondes",
+          "maximum individuel : 5 à 7 mètres",
+          "60 % du temps de travail observé sous l’eau, sur des plongées répétées"
+        ],
+        [
+          "2014 ; cinq hommes supplémentaires",
+          "moyenne : 42 secondes ; intervalle : 14 à 97 secondes",
+          "moyenne : 10 mètres ; intervalle : 3 à 25 mètres",
+          "enregistreurs temps-profondeur pendant la pêche ; 50 % du temps de travail sous l’eau"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "L’article de 2014 rapporte une immersion maximale de 3 minutes et 1 seconde lors d’une compétition de plongée profonde assistée, en 2013, avec 18 concurrents dont 12 hommes Bajau Laut. Les plongeurs descendaient lestés et leurs collègues les remontaient. Ce format diffère de la nage et de la pêche ordinaires sans assistance. Ce récit est également distinct de l’étude des plongées de travail instrumentées. [2014 field report, working dives and competition context](https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les affirmations souvent répétées de 13 minutes en apnée, notamment dans l’introduction d’un article scientifique de National Geographic en 2018, ne constituent pas un résultat chronométré pour une cohorte de l’étude sur la rate. Il ne faut pas en conclure que les Bajau pêchent normalement aussi longtemps sans respirer. Cet article s’appuie plutôt sur les plongées de travail mesurées et les observations de compétition clairement attribuées. [National Geographic’s science coverage](https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La performance remarquable réside dans un travail habile et soutenu, composé d’immersions répétées. Une plongée mesurée plus courte ne diminue pas cette habileté ; elle répond à une autre question que « combien de temps quelqu’un pourrait-il rester au maximum sous l’eau ? »"
+    },
+    {
+      "type": "heading",
+      "text": "ENFANCE ET APPRENTISSAGE DES COMPÉTENCES AQUATIQUES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les travaux de terrain d’Abrahamsson et Schagatay décrivent des enfants initiés à la nage et à la plongée par leurs parents ou leurs aînés. Jeux en eau peu profonde, maniement des bateaux et observation des proches expérimentés font partie de l’apprentissage quotidien. Ces observations concernent certaines communautés, pas un calendrier universel de l’enfance. [Field observations of learning and gathering](https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dire que ces aptitudes sont instinctives peut effacer cet apprentissage. Trouver de la nourriture ne consiste pas seulement à retenir son souffle : il faut repérer un endroit favorable, voir un animal, maîtriser ses mouvements et comprendre l’évolution des conditions. Le savoir culturel et la pratique répétée comptent autant que la biologie. L’ascendance d’un enfant ne garantit pas sa sécurité et ne justifie pas d’attendre de lui des performances exceptionnelles."
+    },
+    {
+      "type": "heading",
+      "text": "LA RÉPONSE HUMAINE À LA PLONGÉE : ÉCONOMISER L’OXYGÈNE DISPONIBLE"
+    },
+    {
+      "type": "paragraph",
+      "text": "En apnée, le corps doit utiliser l’oxygène déjà stocké dans les poumons, le sang et les tissus. Le réflexe de plongée humain contribue à l’économiser. Le rythme cardiaque peut ralentir et les vaisseaux qui irriguent les tissus périphériques se contracter. Cela priorise l’apport d’oxygène aux organes sensibles, notamment le cerveau et le cœur. L’immersion du visage peut renforcer la réponse. C’est un phénomène humain, non propre aux Bajau. [Review of the human diving response](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La rate ajoute un autre mécanisme : elle peut se contracter et libérer dans la circulation des globules rouges stockés, qui transportent l’oxygène grâce à l’hémoglobine. Une réserve plus importante peut être utile lors d’apnées répétées, mais la rate ne fabrique pas d’oxygène frais et ne remplace pas les poumons. La réserve demeure limitée ; le réflexe n’empêche pas tous les évanouissements ni toutes les blessures. [Spleen contraction and oxygen conservation](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QU’A RÉELLEMENT DÉCOUVERT LA CÉLÈBRE ÉTUDE SUR LA RATE"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2018, Melissa Ilardo et ses collègues ont publié dans Cell une étude menée avec des Bajau de Jaya Bakti et des Saluan du village voisin de Koyoan, en Indonésie. Ils ont recruté 59 Bajau et 34 Saluan, estimé le volume de la rate par échographie et prélevé de la salive pour analyser l’ADN. Après exclusion des proches parents, les comparaisons principales portaient sur 43 Bajau et 33 Saluan. [Cell study and methods](https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le groupe bajau avait une rate plus volumineuse. L’Université de Californie à Berkeley résume l’écart à environ 50 %. Il s’agit d’une comparaison entre les populations échantillonnées, pas d’une affirmation selon laquelle la rate de chaque Bajau serait exactement moitié plus grande que celle de toute autre personne. Dans l’échantillon bajau, plongeurs et non-plongeurs ne présentaient pas de différence statistiquement significative, ce qui s’oppose à l’idée que la pratique actuelle de plongée suffise à expliquer l’écart entre populations. [Research team’s institutional explanation](https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les analyses génomiques ont relevé des indices de sélection portant sur des variants proches de gènes liés à la physiologie de la plongée ou situés dans ceux-ci. Un résultat important associait une variation de PDE10A au volume de la rate ; une régulation par les hormones thyroïdiennes était proposée comme mécanisme. Il s’agit de variants et de leurs fréquences, pas d’un gène PDE10A que seuls les Bajau posséderaient. [Nature Reviews Genetics research highlight](https://www.nature.com/articles/s41576-018-0014-1)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE LA GÉNÉTIQUE PEUT ET NE PEUT PAS PROUVER"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’article de Cell étaye l’hypothèse d’une adaptation héréditaire liée à la vie maritime. Il ne fournit pas de chronomètre génétique pour chaque plongeur. Les auteurs reconnaissaient aussi que des différences environnementales non mesurées pouvaient contribuer à l’écart de volume de la rate. L’étude a mesuré des organes et des génomes, non établi un classement général des apnées maximales. [Primary study and limitations](https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un suivi de 2022 a étudié expérimentalement le mécanisme proposé en inhibant PDE10A chez des souris. Les animaux traités ont développé une rate plus volumineuse et des changements dans la production de globules rouges. Les auteurs notaient que les hormones thyroïdiennes n’avaient pas été mesurées directement chez les Bajau et que les rates adultes des souris et des humains diffèrent dans la production des cellules sanguines. Ces résultats éclairent un mécanisme ; ils ne démontrent pas directement toute la chaîne chez les plongeurs humains. [Experimental follow-up and its caveats](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.760851/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une association génétique peut aider à expliquer une tendance de population tout en laissant beaucoup de variation individuelle. Elle ne détermine ni métier, ni identité, ni valeur d’une personne. Elle ne remplace pas non plus les compétences acquises, la santé, l’équipement et les conditions de travail qui influencent une plongée. « Surhumain » décrit mal des personnes accomplissant un travail humain exigeant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le cadre scientifique général, l’article de PRESDA sur [Charles Darwin et l’évolution](/articles/charles-darwin-theory-of-evolution/) explique la sélection naturelle. Celle-ci concerne des variations héréditaires sur plusieurs générations ; pratiquer une compétence ne fait pas acquérir un nouveau gène."
+    },
+    {
+      "type": "heading",
+      "text": "FAMILLE, LANGUE ET TRADITIONS AU-DELÀ DE LA PLONGÉE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les langues sama-bajau appartiennent au monde austronésien et présentent une diversité entre communautés. Des recherches au Sabah et à Tawi-Tawi étudient les identités linguistiques et culturelles qui traversent les frontières nationales actuelles. Elles décrivent aussi des pratiques comme le pagkanduli, tradition rituelle de certaines communautés sama. La vie religieuse varie : islam et pratiques rituelles locales prennent différentes formes. Aucune cérémonie ne représente tous les foyers bajau. [Linguistic and cultural research](https://ejournal.um.edu.my/index.php/jati/article/view/6100)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La danse offre un autre aperçu de la continuité culturelle. Une étude de 2026 sur l’igal à Tawi-Tawi se fonde sur le point de vue d’un maître sama et sur la transmission de la tradition. Elle traite la danse comme une pratique culturelle importante et une forme d’expression, non comme un ornement ajouté à un récit de plongeurs hors du commun. L’avis de praticiens reconnus compte, car la communauté porte ses propres interprétations. [Igal and cultural transmission](https://journal.usep.edu.ph/index.php/Southeastern_Philippines_Journal/article/view/1631)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vie familiale comporte aussi les décisions ordinaires qu’un spectacle de plongée laisse de côté : enseigner, partager le travail, entretenir les relations et choisir ce que les enfants apprendront. Un jeune peut tenir à son héritage maritime tout en souhaitant étudier ou exercer un autre métier. Cela ne le rend pas moins authentiquement bajau."
+    },
+    {
+      "type": "paragraph",
+      "text": "La langue fait partie de cet héritage. L’exploration de PRESDA sur [les origines du langage humain](/articles/how-humans-learned-to-speak/) situe plus largement les liens entre communication et vie sociale, sans traiter une communauté vivante comme un vestige du passé humain."
+    },
+    {
+      "type": "heading",
+      "text": "QUAND LES LIENS MARITIMES RENCONTRENT CITOYENNETÉ ET FRONTIÈRES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les déplacements sur ces mers s’inscrivent aujourd’hui dans les frontières et les systèmes documentaires de différents États. Certains Bajau ont la citoyenneté et un statut juridique établi. D’autres, surtout parmi les communautés Bajau Laut marginalisées du Sabah, rencontrent de graves obstacles administratifs et de citoyenneté. « Bajau », « sans papiers » et « apatride » ne sont pas synonymes. L’absence de documents et l’absence de nationalité reconnue sont des situations distinctes, à examiner au cas par cas. Les travaux universitaires décrivent comment l’exclusion documentaire peut compliquer l’accès à l’éducation et aux soins. [Maritime communities and state boundaries](https://link.springer.com/article/10.1007/s12685-012-0060-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La précarité du logement rend ces conséquences concrètes. Après une mission d’enquête consécutive aux démolitions de Semporna en 2024, la Commission malaisienne des droits humains, SUHAKAM, a critiqué les expulsions, les relogements et l’insuffisance de la consultation. Dans son communiqué d’août 2024, elle demandait l’arrêt des expulsions et une solution associant les représentants communautaires. Cet épisode documenté au Sabah ne décrit pas le statut juridique de tous les Bajau d’Asie du Sud-Est. [SUHAKAM’s findings and recommendations](https://suhakam.org.my/wp-content/uploads/2024/08/Press-Statement-No.-17-2024_SUHAKAM-Calls-for-Immediate-Suspension-of-Evictions-and-for-Humane-Solutions-in-Semporna.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une limite de conservation ou une mesure de sécurité peut sembler simple sur une carte, tout en affectant l’accès à un logement, un débarcadère ou un moyen de subsistance. Évaluer ces politiques exige d’écouter les habitants concernés et d’examiner les objectifs environnementaux et administratifs. De belles images ne remplacent pas le récit des droits et contraintes quotidiennes."
+    },
+    {
+      "type": "heading",
+      "text": "DANGERS DE LA PLONGÉE ET PRESSIONS À L’ORIGINE DE LA PÊCHE DESTRUCTRICE"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’apnée peut provoquer une privation d’oxygène mortelle. Pendant la remontée, la baisse de pression peut réduire l’oxygène disponible pour le cerveau ; une perte de connaissance peut survenir près de la surface ou juste après l’émersion. L’hyperventilation peut retarder le besoin de respirer sans fournir une réserve d’oxygène comparable. La familiarité avec la mer n’élimine pas ces risques. Les mesures de cet article sont des observations, pas des objectifs à imiter. [Divers Alert Network on hypoxia and blackout](https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Respirer de l’air comprimé sous l’eau comporte d’autres risques. L’absorption de gaz inertes par les tissus puis leur libération pendant la remontée peuvent provoquer un accident de décompression ; l’expansion des gaz peut aussi léser les poumons. La pêche assistée par compresseur ne doit donc pas être confondue avec une apnée exceptionnelle : elle utilise une source d’air extérieure et comporte des dangers qu’aucun trait héréditaire n’annule. [DAN’s explanation of decompression illness](https://world.dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La pêche à l’explosif et l’emploi du cyanure ont existé dans les économies de pêche de la région. Ces pratiques dégradent les ressources dont dépendent les moyens de subsistance, mais les attribuer à tout un groupe ethnique est inexact. Un chapitre évalué par les pairs de Stacey et Allison avertit que les récits de conservation peuvent dépeindre les Sama-Bajau comme une menace tout en négligeant la complexité sociale de leurs activités. Il faut s’attaquer aux méthodes nuisibles en examinant pratiques réelles, incitations et solutions de remplacement. [Mobility, livelihoods and conservation](https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’enjeu éthique consiste à éviter les stéréotypes flatteurs comme les stéréotypes accusateurs. Une tradition maritime ne rend pas automatiquement toute pêche durable. De même, les pratiques dommageables de certains pêcheurs ne justifient pas une accusation collective. Une protection efficace doit considérer à la fois la dépendance des habitants à un lieu et l’état de son écologie."
+    },
+    {
+      "type": "heading",
+      "text": "TOURISME, MODERNISATION ET MER EN TRANSFORMATION"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le tourisme peut transformer une communauté même si les bateaux restent dans le décor. Dans son mémoire qualitatif de 2018 sur l’île de Derawan, Heva Hayuqo Yumi a étudié les tensions entre pêche, conservation et développement touristique. D’anciens pêcheurs pouvaient garder une identité de pêcheur bajau tout en changeant de moyens de subsistance. Ce cas local ne prouve pas que le tourisme ait partout les mêmes effets. Il montre pourquoi le succès commercial d’une destination et la capacité d’une communauté à maintenir son mode de vie doivent être évalués séparément. [Derawan case study](https://digitalcommons.uri.edu/theses/1241/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les questions pratiques sont : qui reçoit les revenus, qui peut accéder aux zones de pêche et les habitants participent-ils aux décisions ? Un touriste peut aimer l’apparence d’un village sur l’eau tandis qu’une famille souhaite surtout un logement sûr, des transports ou une éducation. Préserver une scène pittoresque ne revient pas forcément à préserver des choix réels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les changements environnementaux ajoutent des pressions qui dépassent tout village isolé. L’eau chaude peut amener les coraux à expulser leurs algues symbiotiques et à blanchir. Le blanchissement ne signifie pas une mort immédiate, mais un stress prolongé peut tuer les coraux. Pour les personnes dont le travail dépend des récifs, l’habitat soutenant leurs moyens de subsistance est menacé. Sans données locales, attribuer à tous les Bajau une perte précise de prises liée au climat serait trompeur. [NOAA’s explanation of coral bleaching](https://oceanservice.noaa.gov/facts/coral_bleach.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon la NOAA, réduire pollution et surexploitation peut améliorer la résilience des récifs, parallèlement à la nécessité à long terme de limiter le changement climatique. Le réchauffement interagit avec les pressions locales au lieu de s’y substituer. La raréfaction des ressources peut réduire les choix des foyers de pêcheurs. Protection des habitats et accès à des moyens de subsistance viables doivent donc être considérés ensemble. [Reef resilience and local pressures](https://oceanservice.noaa.gov/facts/reef-resilience.html)"
+    },
+    {
+      "type": "heading",
+      "text": "LE MODE DE VIE TRADITIONNEL DES NOMADES MARINS DISPARAÎT-IL ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vivre toute l’année sur un bateau est devenu moins fréquent, et les communautés sédentarisées font partie intégrante de l’histoire. Mais les étiquettes peuvent masquer la mobilité persistante et l’attachement à la mer. Les travaux sur la conservation soulignent que les moyens de subsistance réagissent aux évolutions sociales, économiques et environnementales. Une maison à terre ne prouve pas à elle seule que le savoir maritime ou l’identité sama-bajau a disparu. [Why the label “sea nomad” needs context](https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe pas de date unique de disparition pour un peuple divers. Certaines pratiques peuvent s’affaiblir lorsqu’elles ne sont plus transmises, que l’accès à la mer est restreint ou qu’un moyen de subsistance devient impossible. D’autres se poursuivent dans de nouveaux cadres. La question est de savoir si les gens ont les ressources et la liberté de transmettre ce qui compte pour eux, y compris la liberté de changer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce qui fascine le plus chez les Bajau n’est pas qu’ils dépassent les limites humaines. C’est la façon dont la vie humaine s’est organisée autour de l’eau : savoir, coopération, mobilité, travail et, dans une population étudiée, indices d’adaptation biologique. Leur avenir appartient aux personnes qui construisent ces vies, pas aux attentes d’un titre accrocheur."
+    },
+    {
+      "type": "heading",
+      "text": "SOURCES ET NOTES SUR LES PREUVES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les années d’étude désignent l’année de publication, sauf indication contraire. L’article de 2014 sur les plongées reprend le groupe décrit en 2011 : les échantillons ne doivent donc pas être additionnés comme des cohortes indépendantes. Les observations de compétition sont distinguées des plongées de travail instrumentées. Ethnographies historiques et études de cas locales décrivent leurs propres contextes, non un recensement actuel de tous les Bajau. Les comparaisons scientifiques portent sur des populations échantillonnées, non sur une définition biologique de l’ethnicité."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ilardo et al., Cell (2018) : adaptations physiologiques et génétiques à la plongée chez les nomades marins, copie universitaire libre](https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Schagatay, Lodin-Sundstrom et Abrahamsson (2011) : mesures de plongées de travail, cinq harponneurs bajau](https://www.lunduniversity.lu.se/publication/24e72ac5-7371-4ba1-989b-56db7476169a)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Abrahamsson et Schagatay, Human Evolution (2014) : terrain et enregistrements de plongée, dix hommes](https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nature Reviews Genetics (2018) : adaptation à l’apnée](https://www.nature.com/articles/s41576-018-0014-1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[UC Berkeley (2018) : rates agrandies et étude des nomades marins](https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Ilardo et al., Frontiers in Physiology (2022) : étude expérimentale du mécanisme PDE10A proposé](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.760851/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Foster et Sheel (2005) : réponse humaine à la plongée, fonction et contrôle](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sather, ANU Press : Sama-Bajau, histoire maritime et organisation sociale](https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Jubilado, Hussin et Manueli, JATI (2010) : linguistique et culture sama-bajau](https://ejournal.um.edu.my/index.php/jati/article/view/6100)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Estrada, Ishmael et Jaluddin (2026) : Igal Ka’mbo’an et transmission de la danse sama](https://journal.usep.edu.ph/index.php/Southeastern_Philippines_Journal/article/view/1631)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Matthieu Paley, National Geographic (2014) : reportage auprès de familles de pêcheurs bajau](https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sarah Gibbens, National Geographic (2018) : étude de la rate et interprétation](https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hoogervorst, Water History (2012) : ethnicité et modes de vie aquatiques](https://link.springer.com/article/10.1007/s12685-012-0060-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[SUHAKAM (août 2024) : conclusions et recommandations après les expulsions de Semporna](https://suhakam.org.my/wp-content/uploads/2024/08/Press-Statement-No.-17-2024_SUHAKAM-Calls-for-Immediate-Suspension-of-Evictions-and-for-Humane-Solutions-in-Semporna.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Divers Alert Network : hypoxie en apnée](https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[DAN World : accident de décompression](https://world.dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Stacey et Allison (2019) : mobilité, moyens de subsistance et conservation marine Sama-Bajau](https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Yumi, Université de Rhode Island (2018) : tourisme, pêche et conservation à Derawan, mémoire de maîtrise](https://digitalcommons.uri.edu/theses/1241/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NOAA : blanchissement des coraux, rétablissement et réchauffement de l’eau](https://oceanservice.noaa.gov/facts/coral_bleach.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NOAA : résilience des récifs, changement climatique et pressions environnementales locales](https://oceanservice.noaa.gov/facts/reef-resilience.html)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ilardo et al., Cell (2018) : adaptations physiologiques et génétiques à la plongée chez les nomades marins, copie universitaire libre",
+      "url": "https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf"
+    },
+    {
+      "label": "Schagatay, Lodin-Sundstrom et Abrahamsson (2011) : mesures de plongées de travail, cinq harponneurs bajau",
+      "url": "https://www.lunduniversity.lu.se/publication/24e72ac5-7371-4ba1-989b-56db7476169a"
+    },
+    {
+      "label": "Abrahamsson et Schagatay, Human Evolution (2014) : terrain et enregistrements de plongée, dix hommes",
+      "url": "https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf"
+    },
+    {
+      "label": "Nature Reviews Genetics (2018) : adaptation à l’apnée",
+      "url": "https://www.nature.com/articles/s41576-018-0014-1"
+    },
+    {
+      "label": "UC Berkeley (2018) : rates agrandies et étude des nomades marins",
+      "url": "https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/"
+    },
+    {
+      "label": "Ilardo et al., Frontiers in Physiology (2022) : étude expérimentale du mécanisme PDE10A proposé",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.760851/full"
+    },
+    {
+      "label": "Foster et Sheel (2005) : réponse humaine à la plongée, fonction et contrôle",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x"
+    },
+    {
+      "label": "Sather, ANU Press : Sama-Bajau, histoire maritime et organisation sociale",
+      "url": "https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html"
+    },
+    {
+      "label": "Jubilado, Hussin et Manueli, JATI (2010) : linguistique et culture sama-bajau",
+      "url": "https://ejournal.um.edu.my/index.php/jati/article/view/6100"
+    },
+    {
+      "label": "Estrada, Ishmael et Jaluddin (2026) : Igal Ka’mbo’an et transmission de la danse sama",
+      "url": "https://journal.usep.edu.ph/index.php/Southeastern_Philippines_Journal/article/view/1631"
+    },
+    {
+      "label": "Matthieu Paley, National Geographic (2014) : reportage auprès de familles de pêcheurs bajau",
+      "url": "https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies"
+    },
+    {
+      "label": "Sarah Gibbens, National Geographic (2018) : étude de la rate et interprétation",
+      "url": "https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science"
+    },
+    {
+      "label": "Hoogervorst, Water History (2012) : ethnicité et modes de vie aquatiques",
+      "url": "https://link.springer.com/article/10.1007/s12685-012-0060-0"
+    },
+    {
+      "label": "SUHAKAM (août 2024) : conclusions et recommandations après les expulsions de Semporna",
+      "url": "https://suhakam.org.my/wp-content/uploads/2024/08/Press-Statement-No.-17-2024_SUHAKAM-Calls-for-Immediate-Suspension-of-Evictions-and-for-Humane-Solutions-in-Semporna.pdf"
+    },
+    {
+      "label": "Divers Alert Network : hypoxie en apnée",
+      "url": "https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/"
+    },
+    {
+      "label": "DAN World : accident de décompression",
+      "url": "https://world.dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/"
+    },
+    {
+      "label": "Stacey et Allison (2019) : mobilité, moyens de subsistance et conservation marine Sama-Bajau",
+      "url": "https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/"
+    },
+    {
+      "label": "Yumi, Université de Rhode Island (2018) : tourisme, pêche et conservation à Derawan, mémoire de maîtrise",
+      "url": "https://digitalcommons.uri.edu/theses/1241/"
+    },
+    {
+      "label": "NOAA : blanchissement des coraux, rétablissement et réchauffement de l’eau",
+      "url": "https://oceanservice.noaa.gov/facts/coral_bleach.html"
+    },
+    {
+      "label": "NOAA : résilience des récifs, changement climatique et pressions environnementales locales",
+      "url": "https://oceanservice.noaa.gov/facts/reef-resilience.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Les Bajau vivent-ils vraiment sous l’eau ?",
+      "answer": "Non. Les Bajau respirent l’air. Certaines communautés ont traditionnellement vécu sur des bateaux ou dans des maisons au-dessus de l’eau ; les plongeurs expérimentés restent sous l’eau pendant des périodes limitées avant de remonter respirer."
+    },
+    {
+      "question": "Tous les Bajau peuvent-ils retenir leur souffle 13 minutes ?",
+      "answer": "Aucune capacité générale de ce type n’a été démontrée. Les mesures des plongées de travail indiquent des immersions répétées beaucoup plus courtes. Les performances exceptionnelles rapportées ne doivent pas être présentées comme normales ou universelles."
+    },
+    {
+      "question": "Une rate plus grande explique-t-elle à elle seule les plongées bajau ?",
+      "answer": "Non. L’étude de 2018 étaye une adaptation biologique dans une population échantillonnée. La performance individuelle dépend aussi de l’entraînement, de la santé, de la technique et des conditions. La taille de la rate ne prédit pas la durée maximale d’une personne."
+    },
+    {
+      "question": "Tous les Bajau sont-ils apatrides ou nomades ?",
+      "answer": "Non. Habitat, métiers et statut juridique varient. Certaines communautés marginalisées rencontrent de graves obstacles de citoyenneté et de documentation, mais on ne peut généraliser ces situations à tous les Bajau."
+    }
+  ]
+}

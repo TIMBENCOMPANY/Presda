@@ -180,5 +180,47 @@
     "replacement": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
     "reason": "Correct published filename of the same AARO2024 historical record report Volume1; original expanded Volume filename returns404.",
     "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "depression-what-happens-in-the-brain",
+    "original": "https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies",
+    "replacement": "https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies",
+    "reason": "Same NIMH brain stimulation therapies page at its current nested path; old topic path returns404.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "who-controls-world-oil-middle-east-opec",
+    "original": "https://www.iea.org/topics/oil-market-report",
+    "replacement": "https://www.iea.org/data-and-statistics/data-product/oil-market-report-omr",
+    "reason": "Official IEA Oil Market Report overview replaces obsolete404 topic path.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "designer-babies-ivf-embryo-selection-genetics",
+    "original": "https://www.nationalacademies.org/our-work/human-genome-editing-science-ethics-and-governance",
+    "replacement": "https://www.nationalacademies.org/publications/24623",
+    "reason": "The same 2017 consensus report Human Genome Editing: Science, Ethics, and Governance at the official publication page.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "history-future-of-medicine",
+    "original": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/casgevy",
+    "replacement": "https://www.fda.gov/vaccines-blood-biologics/casgevy",
+    "reason": "Same FDA Casgevy product page at its current address; old nested path returns404.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "dinosaurs-rise-fall-fossils-extinction",
+    "original": "https://www.nhm.ac.uk/discover/what-is-a-dinosaur.html",
+    "replacement": "https://www.nhm.ac.uk/discover/where-did-dinosaurs-come-from.html",
+    "reason": "Working same-museum dinosaur origins article includes What is a dinosaur section with anatomical definition. Subject-equivalent replacement for404, not asserted exact relocation.",
+    "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "dinosaurs-rise-fall-fossils-extinction",
+    "original": "https://www.nhm.ac.uk/discover/why-did-the-dinosaurs-die-out.html",
+    "replacement": "https://www.nhm.ac.uk/discover/how-an-asteroid-caused-extinction-of-dinosaurs.html",
+    "reason": "Working same-museum account of the asteroid and non-avian dinosaur extinction replaces404 path; same scientific context.",
+    "verifiedAt": "2026-09-27"
   }
 ]

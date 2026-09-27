@@ -1,0 +1,491 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/bajau-people-sea-nomads-diving/",
+  "path": "/es/articles/bajau-people-sea-nomads-diving/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "BAJAU: EL PUEBLO MARÍTIMO Y LA CIENCIA DEL BUCEO",
+  "excerpt": "La vida Bajau no se reduce a apneas espectaculares. Conoce su historia marítima y las pruebas, con sus límites, sobre el buceo, el bazo y la adaptación.",
+  "headlineHighlights": {
+    "red": "BAJAU",
+    "gold": "CIENCIA DEL BUCEO"
+  },
+  "seoTitle": "Pueblo Bajau: nómadas del mar, apnea y adaptación | PRESDA",
+  "description": "Conoce a las comunidades Bajau, su historia marítima y lo que los estudios científicos dicen, y no dicen, sobre el buceo en apnea, el bazo y la adaptación genética.",
+  "keywords": [
+    "pueblo Bajau",
+    "Sama-Bajau",
+    "nómadas del mar",
+    "buceo en apnea",
+    "respuesta humana al buceo",
+    "adaptación genética",
+    "bazo Bajau",
+    "pesca tradicional",
+    "marítimo Sudeste Asiático"
+  ],
+  "searchIntent": "Informacional: aprender sobre la historia, las comunidades y la investigación científica relativa al pueblo Bajau y sus prácticas marítimas",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-19",
+  "updatedAt": "2026-09-19",
+  "image": {
+    "src": "/articles/bajau-spearfisher-above-a-coral-reef.png",
+    "alt": "Ilustración editorial de una persona Bajau que bucea junto a una vivienda sobre pilotes y una embarcación en aguas costeras."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Para quien mira desde la costa, el mar puede parecer el límite del mundo habitado. Para una familia pescadora cuya casa se levanta sobre el agua, el mar conecta el hogar con el alimento, el trabajo, los parientes y lugares conocidos. No es solo una vista hermosa: es otra forma de organizar la vida cotidiana."
+    },
+    {
+      "type": "paragraph",
+      "text": "A menudo se presenta al pueblo Bajau como «la gente que vive bajo el agua». No es así. Como todo el mundo, respiran aire y cada inmersión en apnea debe terminar en la superficie. La frase sirve de gancho para hablar de comunidades estrechamente vinculadas al mar, entre ellas algunos buceadores extraordinariamente hábiles. No describe literalmente su vivienda ni su biología."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su historia va mucho más allá de una inmersión espectacular. Incluye hogares móviles, redes comerciales, lenguas y ceremonias, pruebas científicas de adaptación y la cuestión práctica de cómo sostener un modo de vida marítimo cuando cuesta más acceder a los peces, una vivienda segura y el reconocimiento legal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evidencia revisada el 19 de septiembre de 2026. Las cifras que siguen corresponden a estudios y lugares concretos, no a todas las personas Bajau. La imagen inicial es una ilustración, no una prueba documental de un buceador, una aldea o una práctica pesquera determinados."
+    },
+    {
+      "type": "heading",
+      "text": "¿QUIÉNES SON LOS BAJAU?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bajau, Bajo y Sama-Bajau son nombres usados por diversas comunidades del Sudeste Asiático marítimo, especialmente en el sur de Filipinas, el estado malasio de Sabah e Indonesia. Muchas comunidades utilizan «Sama» como nombre propio. Sama Dilaut y Bajau Laut se refieren de manera más específica a grupos orientados al mar. Los términos están relacionados, pero no son etiquetas intercambiables para una única sociedad homogénea. [Fuente o lectura relacionada](https://link.springer.com/article/10.1007/s12685-012-0060-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Compartir un vínculo marítimo no significa que todo el mundo viva en una embarcación o se gane la vida buceando. Los asentamientos costeros, la agricultura, el comercio y la artesanía también forman parte de la historia Sama-Bajau. El antropólogo Clifford Sather describe a los nómadas del mar dentro de una red más amplia de comunidades costeras y terrestres. Los grupos se identifican con islas, asentamientos e historias locales particulares. [Fuente o lectura relacionada](https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta distinción cambia cómo debemos leer las fotografías. Una aldea sobre pilotes no representa a todo el pueblo Bajau. Un pescador submarino célebre tampoco representa biológicamente a toda una población. Los Bajau no deben confundirse con los Moken ni con los Orang Laut, otros pueblos marítimos del Sudeste Asiático con historias propias."
+    },
+    {
+      "type": "heading",
+      "text": "EMBARCACIONES, CASAS SOBRE PILOTES Y UNA HISTORIA MARÍTIMA CONECTADA"
+    },
+    {
+      "type": "paragraph",
+      "text": "En comunidades históricas que vivían en embarcaciones, una barca podía albergar la vida doméstica de una familia y transportarla entre zonas de pesca. Hogares emparentados fondeaban juntos y formaban grupos sociales capaces de desplazarse. La investigación de Sather describe a esas familias como participantes en el comercio y en relaciones políticas en tierra. Los peces, los pepinos de mar, las conchas de nácar y otros productos marinos las conectaban con mercados más amplios. Su movilidad formaba parte de una economía interconectada, no existía al margen de la historia. [Fuente o lectura relacionada](https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una casa permanente sobre aguas poco profundas puede mantener un acceso cercano a ese mundo. En un reportaje de National Geographic de 2014, el fotógrafo Matthieu Paley visitó a una familia pescadora cuya vivienda de bambú se alzaba sobre pilotes. Canoas unían las casas vecinas. También observó la preparación de comida en una embarcación-vivienda y comidas de pescado y marisco con mandioca. Son observaciones de familias concretas, no un menú ni un modelo de vivienda compartido por todos. [Fuente o lectura relacionada](https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, la casa flotante y la casa sobre pilotes no deben tratarse como etapas opuestas de una escala sencilla entre lo «tradicional» y lo «moderno». Una vivienda fija puede coexistir con viajes de pesca, visitas familiares por agua y una fuerte identidad marítima. Lo importante es cómo usan realmente el mar las personas y cuánta libertad tienen para elegir dónde y cómo vivir."
+    },
+    {
+      "type": "heading",
+      "text": "PESCAR ES UN MEDIO DE VIDA, NO UNA COMPETICIÓN DE APNEA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El relato de Paley sigue el trabajo antes y después del descenso espectacular: observar el fondo desde una canoa, encontrar presas, manejar la captura y volver a casa. El instante visible bajo el agua depende del equipo, la observación y el criterio. Una fotografía aislada del buceador puede ocultar la economía doméstica que da sentido a la salida. [Fuente o lectura relacionada](https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quien bucea para trabajar necesita una captura útil y energía suficiente para seguir trabajando. Una sola inmersión muy larga no es necesariamente la forma más productiva de pescar. La profundidad, la visibilidad, las presas, las corrientes y la tarea cambian el patrón. Las observaciones científicas son valiosas porque registran el trabajo habitual, no solo un momento espectacular elegido para una película."
+    },
+    {
+      "type": "heading",
+      "text": "¿A QUÉ PROFUNDIDAD Y DURANTE CUÁNTO TIEMPO PUEDEN BUCEAR LOS BAJAU?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio de 2011 de Erika Schagatay y sus colegas observó a cinco pescadores submarinos Bajau en Filipinas. La inmersión media duró 28 segundos y las profundidades máximas individuales registradas fueron de 5 a 7 metros. Pasaron sumergidos cerca del 60 % del periodo de trabajo observado. Ese porcentaje se refiere a muchas inmersiones separadas por intervalos para respirar; no significa pasar horas bajo el agua con una sola respiración. [Fuente o lectura relacionada](https://www.lunduniversity.lu.se/publication/24e72ac5-7371-4ba1-989b-56db7476169a)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe de campo posterior que aparece más adelante incluye al grupo anterior y a otro de cinco personas. No debe contarse como una réplica completamente independiente. La tabla registra inmersiones de trabajo; el relato de la competición que sigue es otro tipo de prueba. Ninguno establece la capacidad máxima de todos los buceadores Bajau."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[BAJAU_DIVING_EVIDENCE_TABLE]]",
+      "caption": "Inmersiones laborales medidas en Filipinas. El informe de 2014 incluye la muestra anterior de 2011; no son cohortes independientes. Las profundidades describen el trabajo observado, no los límites humanos.",
+      "headings": [
+        "Informe y muestra",
+        "Duración de la inmersión",
+        "Profundidad observada",
+        "Contexto"
+      ],
+      "rows": [
+        [
+          "2011; cinco pescadores submarinos Bajau",
+          "Media: 28 segundos",
+          "Máximos individuales: 5–7 metros",
+          "60 % del tiempo laboral sumergidos, en inmersiones repetidas"
+        ],
+        [
+          "2014; grupo adicional de cinco buceadores",
+          "Media: 42 segundos; intervalo: 14–97 segundos",
+          "Media: 10 metros; intervalo: 3–25 metros",
+          "Registradores de profundidad y tiempo durante la pesca; 50 % del tiempo laboral sumergidos"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo de 2014 informa de una inmersión máxima de 3 minutos y 1 segundo en una competición asistida de buceo profundo celebrada en 2013 con 18 participantes, entre ellos 12 hombres Bajau Laut. Los buceadores descendían con pesas y sus compañeros los izaban. Ese formato difiere de la pesca y la natación habituales sin asistencia. El relato de la competición también es distinto del estudio de inmersiones laborales registradas con instrumentos que presenta el artículo. [Fuente o lectura relacionada](https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las afirmaciones repetidas de apneas de 13 minutos, incluida la introducción de un reportaje científico de National Geographic de 2018, no son el resultado cronometrado de una cohorte del estudio sobre el bazo. No deben convertirse en la afirmación de que los Bajau suelen pescar durante tanto tiempo sin respirar. Aquí se utilizan inmersiones laborales medidas y observaciones de competición identificadas claramente. [Fuente o lectura relacionada](https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El logro impresionante es sostener un trabajo hábil a lo largo de inmersiones repetidas. Una inmersión medida más breve no resta valor a esa destreza. Responde a una pregunta distinta de «¿cuál es el máximo tiempo que alguien podría permanecer bajo el agua?»"
+    },
+    {
+      "type": "heading",
+      "text": "LA INFANCIA Y EL APRENDIZAJE DE DESTREZAS ACUÁTICAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo de campo de Abrahamsson y Schagatay describe cómo los padres o hermanos mayores introducen a los niños a la natación y el buceo. Reunirse en aguas poco profundas, manejar embarcaciones y observar a parientes expertos integran el aprendizaje en la vida diaria. Son observaciones de comunidades concretas, no un calendario infantil universal. [Fuente o lectura relacionada](https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Llamar instintiva a esta capacidad puede borrar ese aprendizaje. Encontrar alimento no consiste solo en aguantar la respiración. Hace falta reconocer un lugar prometedor, detectar un animal, controlar el movimiento y saber cuándo han cambiado las condiciones. Los conocimientos culturales y la práctica repetida merecen atención junto con la biología. La ascendencia de un niño no garantiza su seguridad ni es motivo para esperar una destreza excepcional en el buceo."
+    },
+    {
+      "type": "heading",
+      "text": "LA RESPUESTA HUMANA AL BUCEO: CONSERVAR UNA RESERVA LIMITADA DE OXÍGENO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante una apnea, el organismo debe utilizar el oxígeno que ya está almacenado en los pulmones, la sangre y los tejidos. La respuesta humana al buceo ayuda a conservarlo. Puede disminuir la frecuencia cardíaca y estrecharse los vasos que irrigan los tejidos periféricos. Estos cambios ayudan a priorizar el suministro de oxígeno a órganos sensibles, especialmente el cerebro y el corazón. Sumergir el rostro puede intensificar la respuesta. Es parte de la fisiología humana, no una característica exclusiva de los Bajau. [Fuente o lectura relacionada](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El bazo aporta otro mecanismo: puede contraerse y liberar a la circulación glóbulos rojos almacenados. Esas células transportan oxígeno mediante la hemoglobina. Por eso, una reserva más grande podría resultar útil durante apneas repetidas, pero el bazo no fabrica oxígeno nuevo ni sustituye a los pulmones. La reserva sigue siendo limitada y la respuesta no evita todos los desmayos ni las lesiones. [Fuente o lectura relacionada](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ DESCUBRIÓ REALMENTE EL FAMOSO ESTUDIO DEL BAZO"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2018, Melissa Ilardo y sus colegas publicaron en Cell un estudio con participantes Bajau de Jaya Bakti y participantes Saluan de Koyoan, localidad cercana de Indonesia. Reclutaron a 59 Bajau y 34 Saluan; estimaron el volumen del bazo mediante ecografía y analizaron muestras de saliva para estudiar el ADN. Tras excluir a parientes cercanos, las principales comparaciones utilizaron 43 Bajau y 33 Saluan. [Fuente o lectura relacionada](https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El grupo Bajau tenía bazos de mayor tamaño. La Universidad de California en Berkeley resume la diferencia como cercana al 50 %. Es una comparación entre las poblaciones muestreadas, no una afirmación de que cada bazo Bajau mida exactamente la mitad más que cualquier otro. Dentro de la muestra Bajau no se observó una diferencia estadísticamente significativa entre buceadores y no buceadores, lo que iba en contra de que la práctica actual del buceo explicara por sí sola la diferencia entre poblaciones. [Fuente o lectura relacionada](https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los análisis genómicos detectaron indicios de selección relacionados con variantes cercanas a genes o dentro de ellos que son relevantes para la fisiología del buceo. Un resultado destacado vinculó variaciones de PDE10A con el tamaño del bazo y propuso la regulación de la hormona tiroidea como parte del mecanismo. Se trata de variantes genéticas y sus frecuencias. No significa que solo las personas Bajau tengan el gen PDE10A. [Fuente o lectura relacionada](https://www.nature.com/articles/s41576-018-0014-1)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ PUEDE Y QUÉ NO PUEDE DEMOSTRAR LA GENÉTICA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo de Cell respalda la hipótesis de una adaptación heredada asociada con la vida marítima. No ofrece un cronómetro genético para cada buceador. Sus autores también reconocieron que diferencias ambientales no medidas podrían contribuir a la comparación del tamaño del bazo. El estudio midió órganos y genomas, no una clasificación poblacional del tiempo máximo de apnea. [Fuente o lectura relacionada](https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio posterior de 2022 investigó experimentalmente el mecanismo propuesto al inhibir PDE10A en ratones. Los animales tratados desarrollaron bazos más grandes y cambios en la producción de glóbulos rojos. Los autores señalaron que no se habían medido directamente las hormonas tiroideas en los Bajau y que el papel del bazo adulto en la producción de células sanguíneas difiere entre ratones y humanos. Es una investigación mecanística de apoyo, no una prueba completa del mecanismo en personas. [Fuente o lectura relacionada](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.760851/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una asociación genética puede ayudar a explicar un patrón poblacional y, a la vez, dejar mucha variación entre individuos. No puede determinar el rendimiento de una persona, la seguridad de una inmersión ni el futuro de una cultura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para un marco científico más amplio, el artículo de PRESDA sobre  explica cómo se estudian las adaptaciones sin convertirlas en una escala de valor humano. [Fuente o lectura relacionada](/articles/charles-darwin-theory-of-evolution/)"
+    },
+    {
+      "type": "heading",
+      "text": "FAMILIA, LENGUA Y TRADICIONES MÁS ALLÁ DEL BUCEO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las variedades lingüísticas Sama-Bajau pertenecen al mundo austronesio y existe diversidad entre comunidades. La investigación en Sabah y Tawi-Tawi observa continuidades lingüísticas y culturales en lugares concretos. Hablar de una sola comunidad inmutable ocultaría las diferencias regionales y los cambios entre generaciones. [Fuente o lectura relacionada](https://ejournal.um.edu.my/index.php/jati/article/view/6100)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La danza ofrece otra perspectiva de continuidad. Un estudio de 2026 sobre el igal en Tawi-Tawi se centra en la perspectiva de una maestra Sama y en la transmisión de la tradición. Esta mirada local muestra la importancia de aprender de quienes sostienen la práctica, además de describirla desde fuera. [Fuente o lectura relacionada](https://journal.usep.edu.ph/index.php/Southeastern_Philippines_Journal/article/view/1631)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vida familiar también incluye decisiones corrientes que el espectáculo del buceo deja fuera: enseñar, compartir el trabajo, mantener relaciones y decidir si se conservan las tradiciones mientras cambian las oportunidades. Una persona joven puede valorar la herencia marítima y querer estudiar o dedicarse a otra profesión. Esas aspiraciones no la hacen menos Bajau."
+    },
+    {
+      "type": "paragraph",
+      "text": "La lengua forma parte de esa herencia. La exploración de PRESDA sobre  ofrece una perspectiva amplia de la relación entre comunicación y vida social, sin tratar a ninguna comunidad actual como reliquia del pasado humano. [Fuente o lectura relacionada](/articles/how-humans-learned-to-speak/)"
+    },
+    {
+      "type": "heading",
+      "text": "CUANDO LAS CONEXIONES MARÍTIMAS SE CRUZAN CON LA CIUDADANÍA Y LAS FRONTERAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy el movimiento por estos mares ocurre dentro de las fronteras y los sistemas de documentación de distintos Estados. Algunos Bajau son ciudadanos con una situación legal establecida. Otros, especialmente en comunidades Bajau Laut marginadas de Sabah, afrontan graves problemas de documentación y ciudadanía. «Bajau», «sin documentos» y «apátrida» no son sinónimos. No tener documentos y carecer de una nacionalidad reconocida son situaciones distintas que deben evaluarse con cuidado caso por caso. La investigación académica describe cómo la exclusión de los sistemas de documentación puede agravar las barreras a la educación y la atención sanitaria. [Fuente o lectura relacionada](https://link.springer.com/article/10.1007/s12685-012-0060-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inseguridad de vivienda hace tangibles las consecuencias. Tras una visita de investigación sobre el terreno después de los derribos de Semporna de 2024, la Comisión de Derechos Humanos de Malasia, SUHAKAM, criticó el proceso de desalojo y reasentamiento y la falta de consultas adecuadas. En su declaración de agosto de 2024 pidió suspender los desalojos y buscar una solución con representantes de la comunidad. Es un episodio documentado en Sabah, no una descripción de la situación legal de todos los Bajau del Sudeste Asiático. [Fuente o lectura relacionada](https://suhakam.org.my/wp-content/uploads/2024/08/Press-Statement-No.-17-2024_SUHAKAM-Calls-for-Immediate-Suspension-of-Evictions-and-for-Humane-Solutions-in-Semporna.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En un mapa, un límite de conservación o una medida de seguridad puede parecer simple y, sin embargo, afectar el acceso a una vivienda, un punto de desembarco o un medio de vida. Evaluar esas políticas exige escuchar a los residentes afectados y examinar también los objetivos ambientales y administrativos. Las imágenes hermosas no sustituyen el análisis de derechos y restricciones cotidianas."
+    },
+    {
+      "type": "heading",
+      "text": "PELIGROS DEL BUCEO Y PRESIONES DETRÁS DE LA PESCA DESTRUCTIVA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La apnea puede causar una falta de oxígeno mortal. Durante el ascenso, la caída de presión puede reducir el oxígeno disponible para el cerebro y hacer que se pierda el conocimiento cerca de la superficie o justo después de salir. La hiperventilación puede retrasar las ganas de respirar sin proporcionar una reserva de oxígeno comparable. Conocer bien el mar no elimina estos riesgos. Las mediciones de este artículo son observaciones, no objetivos que haya que imitar. [Fuente o lectura relacionada](https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Respirar aire comprimido bajo el agua conlleva otros riesgos. La absorción de gases inertes por los tejidos y su liberación durante el ascenso pueden causar enfermedad por descompresión; la expansión del gas también puede lesionar los pulmones. Por tanto, la pesca asistida por compresor no debe confundirse con una afirmación sobre una apnea extraordinaria. Utiliza un suministro externo de aire e introduce peligros que los rasgos heredados no anulan. [Fuente o lectura relacionada](https://world.dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la economía pesquera de la región se han practicado métodos destructivos como la pesca con explosivos y el uso de cianuro. Dañan los recursos de los que dependen los medios de vida, pero atribuirlos a todo un grupo étnico es inexacto. El capítulo académico de Stacey y Allison advierte que los relatos de conservación pueden presentar a las personas Sama-Bajau como amenazas y pasar por alto la complejidad social de sus medios de vida. Para abordar los métodos dañinos hace falta evidencia sobre prácticas concretas, incentivos y alternativas disponibles. [Fuente o lectura relacionada](https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tarea ética consiste en evitar tanto los estereotipos idealizadores como los condenatorios. Una tradición marítima no vuelve automáticamente sostenible toda práctica de pesca. Del mismo modo, que algunos pescadores realicen actividades perjudiciales no justifica la culpa colectiva. La protección eficaz debe considerar tanto la dependencia de las personas respecto a un lugar como lo que ocurre con su ecología."
+    },
+    {
+      "type": "heading",
+      "text": "TURISMO, MODERNIZACIÓN Y UN MAR CAMBIANTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "El turismo puede transformar una comunidad aunque las embarcaciones sigan apareciendo en las fotografías. La tesis de maestría cualitativa de Heva Hayuqo Yumi, de 2018, estudió en la isla de Derawan las tensiones entre la pesca, la conservación y el desarrollo turístico. Algunos antiguos pescadores mantuvieron su identidad pesquera Bajau al cambiar de medio de vida. Es un caso local, no una prueba de que el turismo tenga los mismos efectos en todas partes. Muestra por qué hay que evaluar por separado el éxito comercial de un destino y la capacidad de una comunidad para sostener su modo de vida. [Fuente o lectura relacionada](https://digitalcommons.uri.edu/theses/1241/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las preguntas prácticas son quién recibe los ingresos, quién puede acceder a las zonas de pesca y si los residentes participan en las decisiones. Un turista puede valorar el aspecto de una aldea sobre el agua, mientras que una familia necesita una vivienda segura, transporte o educación. Preservar una escena pintoresca no equivale necesariamente a preservar opciones reales."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cambio ambiental suma presiones que ninguna aldea puede controlar por sí sola. El agua cálida puede hacer que los corales expulsen sus algas simbióticas y se blanqueen. El blanqueamiento no implica una muerte inmediata, pero el estrés prolongado sí puede matar los corales. Para quienes dependen de los arrecifes, esto amenaza el hábitat que sustenta sus medios de vida. Sin datos locales, sería engañoso atribuir a todos los Bajau una pérdida concreta de capturas relacionada con el clima. [Fuente o lectura relacionada](https://oceanservice.noaa.gov/facts/coral_bleach.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La NOAA señala que reducir la contaminación y la sobreexplotación puede mejorar la resiliencia de los arrecifes, junto con la necesidad a más largo plazo de limitar el cambio climático. Esto importa porque el calentamiento interactúa con las presiones locales, no las sustituye. La disminución de recursos puede reducir las opciones de los hogares pescadores. Por eso, la protección del hábitat y el acceso a un medio de vida viable deben considerarse conjuntamente. [Fuente o lectura relacionada](https://oceanservice.noaa.gov/facts/reef-resilience.html)"
+    },
+    {
+      "type": "heading",
+      "text": "¿ESTÁ DESAPARECIENDO EL MODO DE VIDA TRADICIONAL DE LOS NÓMADAS DEL MAR?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vida permanente en embarcaciones ha disminuido y las comunidades asentadas son una parte importante de la historia. Sin embargo, las etiquetas pueden ocultar que siguen existiendo desplazamientos y vínculos marítimos. Los estudios sobre conservación subrayan que los medios de vida responden a circunstancias sociales, económicas y ambientales cambiantes. Una casa en tierra no demuestra por sí sola que hayan desaparecido los conocimientos del mar o la identidad Sama-Bajau. [Fuente o lectura relacionada](https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No existe una fecha única en que desaparezca un pueblo diverso. Algunas prácticas pueden debilitarse cuando dejan de enseñarse, se restringe el acceso al mar o se vuelve imposible ganarse la vida. Otras pueden continuar en nuevos entornos. La cuestión relevante es si las personas tienen recursos y libertad para conservar aquello que valoran, incluida la libertad de cambiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo más fascinante del pueblo Bajau no es que viva más allá de los límites humanos. Es cómo ha organizado la vida alrededor del agua: mediante conocimientos, cooperación, movimiento, trabajo y, en una población estudiada, indicios de adaptación biológica. El futuro les pertenece a las personas que construyen esas vidas, no a las expectativas de un titular."
+    },
+    {
+      "type": "heading",
+      "text": "FUENTES Y NOTAS SOBRE LA EVIDENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los años de los estudios se refieren a su publicación, salvo que se indique otra cosa. El artículo de buceo de 2014 incluye al grupo estudiado en 2011, así que esas muestras no deben sumarse como cohortes independientes. Las observaciones de la competición se distinguen de las inmersiones de trabajo registradas con instrumentos. La etnografía histórica y los estudios de casos locales describen sus propios contextos y periodos, no un censo actual de todas las comunidades Bajau. Las comparaciones científicas se refieren a las poblaciones estudiadas, no definen biológicamente una etnia."
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://www.lunduniversity.lu.se/publication/24e72ac5-7371-4ba1-989b-56db7476169a)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://www.nature.com/articles/s41576-018-0014-1)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.760851/full)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://ejournal.um.edu.my/index.php/jati/article/view/6100)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://journal.usep.edu.ph/index.php/Southeastern_Philippines_Journal/article/view/1631)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://link.springer.com/article/10.1007/s12685-012-0060-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://suhakam.org.my/wp-content/uploads/2024/08/Press-Statement-No.-17-2024_SUHAKAM-Calls-for-Immediate-Suspension-of-Evictions-and-for-Humane-Solutions-in-Semporna.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://world.dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://digitalcommons.uri.edu/theses/1241/)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://oceanservice.noaa.gov/facts/coral_bleach.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": ". [Fuente o lectura relacionada](https://oceanservice.noaa.gov/facts/reef-resilience.html)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ilardo y colaboradores, Cell (2018): adaptaciones fisiológicas y genéticas al buceo en nómadas del mar",
+      "url": "https://escholarship.org/content/qt1h41g9r9/qt1h41g9r9.pdf"
+    },
+    {
+      "label": "Schagatay, Lodin-Sundstrom y Abrahamsson (2011): inmersiones laborales medidas de cinco pescadores Bajau",
+      "url": "https://www.lunduniversity.lu.se/publication/24e72ac5-7371-4ba1-989b-56db7476169a"
+    },
+    {
+      "label": "Abrahamsson y Schagatay, Human Evolution (2014): trabajo de campo y registros de diez buceadores",
+      "url": "https://theaquaticape.org/wp-content/uploads/2010/04/a-living-based-on-breath-hold-diving-in-the-bajau-laut-diving.pdf"
+    },
+    {
+      "label": "Nature Reviews Genetics (2018): adaptación para contener la respiración",
+      "url": "https://www.nature.com/articles/s41576-018-0014-1"
+    },
+    {
+      "label": "UC Berkeley (2018): el estudio sobre el bazo de los nómadas del mar",
+      "url": "https://news.berkeley.edu/2018/04/19/enlarged-spleen-key-to-diving-endurance-of-sea-nomads/"
+    },
+    {
+      "label": "Ilardo y colaboradores, Frontiers in Physiology (2022): mecanismo PDE10A propuesto",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.760851/full"
+    },
+    {
+      "label": "Foster y Sheel (2005): respuesta humana al buceo",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x"
+    },
+    {
+      "label": "Sather, ANU Press: historia marítima y organización social Sama-Bajau",
+      "url": "https://press-files.anu.edu.au/downloads/press/p69411/html/ch13s04.html"
+    },
+    {
+      "label": "Jubilado, Hussin y Manueli, JATI (2010): lingüística y cultura Sama-Bajau",
+      "url": "https://ejournal.um.edu.my/index.php/jati/article/view/6100"
+    },
+    {
+      "label": "Estrada, Ishmael y Jaluddin (2026): transmisión de las tradiciones de danza Sama",
+      "url": "https://journal.usep.edu.ph/index.php/Southeastern_Philippines_Journal/article/view/1631"
+    },
+    {
+      "label": "Matthieu Paley, National Geographic (2014): familias pescadoras Bajau",
+      "url": "https://www.nationalgeographic.com/photography/article/we-are-what-we-eat-diving-for-dinner-with-the-sea-gypsies"
+    },
+    {
+      "label": "Sarah Gibbens, National Geographic (2018): investigación sobre el bazo",
+      "url": "https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science"
+    },
+    {
+      "label": "Hoogervorst, Water History (2012): etnicidad y modos de vida acuáticos",
+      "url": "https://link.springer.com/article/10.1007/s12685-012-0060-0"
+    },
+    {
+      "label": "SUHAKAM (agosto de 2024): recomendaciones tras los desalojos de Semporna",
+      "url": "https://suhakam.org.my/wp-content/uploads/2024/08/Press-Statement-No.-17-2024_SUHAKAM-Calls-for-Immediate-Suspension-of-Evictions-and-for-Humane-Solutions-in-Semporna.pdf"
+    },
+    {
+      "label": "Divers Alert Network: hipoxia en buceo en apnea",
+      "url": "https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/"
+    },
+    {
+      "label": "DAN World: enfermedad por descompresión",
+      "url": "https://world.dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/"
+    },
+    {
+      "label": "Stacey y Allison (2019): medios de vida y conservación marina Sama-Bajau",
+      "url": "https://researchers.cdu.edu.au/en/publications/sea-nomads-sama-bajau-mobility-livelihoods-and-marine-conservatio/"
+    },
+    {
+      "label": "Yumi, Universidad de Rhode Island (2018): turismo y pesca en Derawan",
+      "url": "https://digitalcommons.uri.edu/theses/1241/"
+    },
+    {
+      "label": "NOAA: blanqueamiento coralino y calentamiento del agua",
+      "url": "https://oceanservice.noaa.gov/facts/coral_bleach.html"
+    },
+    {
+      "label": "NOAA: resiliencia de arrecifes y presiones locales",
+      "url": "https://oceanservice.noaa.gov/facts/reef-resilience.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quiénes son los Bajau?",
+      "answer": "Bajau, Bajo y Sama-Bajau son nombres vinculados a diversas comunidades marítimas del Sudeste Asiático, sobre todo en Filipinas, Sabah e Indonesia. Sus historias, lenguas y modos de vida varían."
+    },
+    {
+      "question": "¿Los Bajau pueden permanecer 13 minutos bajo el agua?",
+      "answer": "Las afirmaciones populares sobre apneas de 13 minutos no son el resultado de una cohorte cronometrada en el estudio del bazo. Un estudio de 2011 registró una duración media de 28 segundos en cinco pescadores y profundidades máximas observadas de 5 a 7 metros; son mediciones de trabajo, no límites de capacidad."
+    },
+    {
+      "question": "¿Los Bajau tienen bazos más grandes?",
+      "answer": "En un estudio de 2018, la muestra Bajau tuvo bazos aproximadamente un 50 % mayores que la muestra Saluan. Es una comparación de grupos estudiados, no una descripción de cada individuo. El estudio halló indicios genómicos de selección, pero no ofrece un cronómetro genético ni demuestra el rendimiento de cada buceador."
+    },
+    {
+      "question": "¿Todos los Bajau viven en barcos?",
+      "answer": "No. Las comunidades incluyen hogares en embarcaciones, viviendas sobre pilotes y asentamientos en tierra, además de actividades de pesca, agricultura, comercio y artesanía. Las experiencias varían entre regiones y familias."
+    }
+  ]
+}

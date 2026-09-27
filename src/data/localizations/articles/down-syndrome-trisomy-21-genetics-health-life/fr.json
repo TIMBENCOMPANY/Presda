@@ -1,0 +1,477 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/down-syndrome-trisomy-21-genetics-health-life/",
+  "path": "/fr/articles/down-syndrome-trisomy-21-genetics-health-life/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "TRISOMIE 21 : COMPRENDRE LA CONDITION ET LES PERSONNES CONCERNÉES",
+  "excerpt": "La trisomie 21 est une caractéristique chromosomique aux effets variables. Ce guide distingue les formes, le dépistage du diagnostic, les soins de santé et les expériences individuelles.",
+  "headlineHighlights": {
+    "red": "TRISOMIE 21",
+    "gold": "PERSONNES CONCERNÉES"
+  },
+  "seoTitle": "Trisomie 21 : génétique, dépistage, santé et vie quotidienne",
+  "description": "Comprendre la trisomie 21 : génétique et types, dépistage prénatal et diagnostic, santé, développement, éducation, emploi et autonomie.",
+  "keywords": [
+    "trisomie 21",
+    "syndrome de Down",
+    "dépistage prénatal",
+    "DPNI et diagnostic",
+    "santé et trisomie 21",
+    "développement",
+    "soins adultes",
+    "personnes ayant une trisomie 21"
+  ],
+  "searchIntent": "Comprendre les formes de trisomie 21, distinguer dépistage et diagnostic et connaître les besoins de santé, d’éducation et de soutien sans réduire une personne à son diagnostic.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-21",
+  "updatedAt": "2026-09-21",
+  "image": {
+    "src": "/articles/down-syndrome-trisomy21-science-chromosome.png",
+    "alt": "Illustration conceptuelle d’un jeune ayant une trisomie 21 avec des proches et un symbole chromosomique, sans représenter une personne particulière"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un résultat chromosomique peut expliquer un diagnostic médical. Il ne peut pas dire ce qui fera rire une personne, quelle musique elle aimera, comment elle apprendra au mieux ou ce qu’elle voudra à l’âge adulte. Comprendre la trisomie 21 suppose de tenir ensemble ces deux vérités : la biologie compte, mais une personne ne se réduit jamais à sa biologie."
+    },
+    {
+      "type": "paragraph",
+      "text": "La trisomie 21 est une condition génétique due à une copie complète ou partielle supplémentaire du chromosome 21. Ce matériel génétique additionnel influence le développement et augmente la probabilité de certains problèmes de santé. Ses effets varient considérablement d’une personne à l’autre. La trisomie 21 complète est la forme la plus courante ; il existe aussi des formes par translocation et en mosaïque. [CDC: About Down syndrome](https://www.cdc.gov/birth-defects/about/down-syndrome.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour une personne qui découvre le diagnostic, les questions les plus utiles sont scientifiques et pratiques. Comment le chromosome supplémentaire est-il apparu ? Que peuvent établir les tests ? Quels contrôles de santé sont utiles ? Comment faire en sorte que l’éducation, les relations et la vie communautaire reflètent les capacités et préférences de la personne ? Ce guide aborde ces questions sans faire de la difficulté ou de la réussite une histoire universelle."
+    },
+    {
+      "type": "heading",
+      "text": "QU’EST-CE QUE LA TRISOMIE 21 ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les chromosomes sont des structures d’ADN qui contiennent de nombreux gènes. La plupart des cellules humaines possèdent normalement 46 chromosomes répartis en 23 paires. Dans la trisomie 21 complète, les cellules ont trois copies distinctes du chromosome 21 au lieu de deux, soit généralement 47 chromosomes au total. Ce nom décrit la copie supplémentaire, non un niveau d’aptitude fixe. [CDC: About Down syndrome](https://www.cdc.gov/birth-defects/about/down-syndrome.html) [MedlinePlus Genetics: Down syndrome](https://medlineplus.gov/genetics/condition/down-syndrome/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinction entre chromosome et gène est importante. La trisomie 21 ne provient pas d’un unique « gène de la trisomie 21 ». Le matériel supplémentaire du chromosome 21 modifie le dosage de nombreux gènes et influence le développement par des mécanismes biologiques complexes. La structure chromosomique n’est pas non plus identique chez toutes les personnes : une translocation peut créer du matériel surnuméraire du chromosome 21 sans chromosome séparé supplémentaire. [MedlinePlus Genetics: Down syndrome](https://medlineplus.gov/genetics/condition/down-syndrome/)"
+    },
+    {
+      "type": "heading",
+      "text": "COMMENT LE CHROMOSOME SUPPLÉMENTAIRE APPARAÎT-IL ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors de la formation des ovules et des spermatozoïdes, les paires chromosomiques se séparent normalement. Parfois, cette séparation ne se déroule pas comme prévu : c’est la non-disjonction. Un ovule ou un spermatozoïde peut alors porter un chromosome 21 supplémentaire. Après la fécondation, cette copie est transmise aux cellules de l’embryon qui se divisent. C’est l’origine habituelle de la trisomie 21 complète. [NICHD: What causes Down syndrome?](https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La probabilité augmente avec l’âge maternel, mais une grossesse peut être concernée à tout âge. La trisomie 21 n’est pas causée par ce qu’un parent a mangé, par un manque d’efforts ou par un geste ordinaire avant ou pendant la grossesse. Un diagnostic n’indique pas que quelqu’un est fautif. [NHS: Down’s syndrome](https://www.nhs.uk/conditions/downs-syndrome/)"
+    },
+    {
+      "type": "subheading",
+      "text": "LES TROIS TYPES DE TRISOMIE 21"
+    },
+    {
+      "type": "paragraph",
+      "text": "La trisomie 21 complète comporte trois copies séparées du chromosome 21. Selon le CDC, elle représente environ 95 % des cas. Cette proportion décrit la répartition des structures chromosomiques, non la proportion de personnes qui auront un problème de santé ou un développement particulier. [CDC: About Down syndrome](https://www.cdc.gov/birth-defects/about/down-syndrome.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans la trisomie 21 par translocation, du matériel supplémentaire du chromosome 21 est attaché à un autre chromosome. Dans certaines familles, un parent porte un réarrangement équilibré, sans excès ni manque global de matériel génétique. Un enfant peut hériter d’un réarrangement déséquilibré. D’autres translocations apparaissent de novo et ne sont pas héritées. [MedlinePlus Genetics: Down syndrome](https://medlineplus.gov/genetics/condition/down-syndrome/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La trisomie 21 en mosaïque apparaît lorsqu’une anomalie de séparation chromosomique survient au début du développement, laissant un mélange de cellules qui n’ont pas le même nombre de chromosomes. « Mosaïque » décrit ce mélange cellulaire. Le mot ne permet pas de prédire directement le niveau de soutien nécessaire : l’évaluation doit rester centrée sur la personne. [NICHD: What causes Down syndrome?](https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes) [MedlinePlus: Down syndrome diagnosis and care](https://medlineplus.gov/ency/article/000997.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "La trisomie 21 est-elle héréditaire ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "« Génétique » ne signifie pas automatiquement « héréditaire ». La plupart des cas de trisomie 21 complète et en mosaïque ne sont pas transmis dans les familles. Certaines translocations peuvent l’être. Un conseiller en génétique peut interpréter le résultat chromosomique, expliquer si un test parental est pertinent et discuter du risque lors d’une autre grossesse. Un seul chiffre de récurrence ne décrit pas précisément toutes les familles. [MedlinePlus Genetics: Down syndrome](https://medlineplus.gov/genetics/condition/down-syndrome/)"
+    },
+    {
+      "type": "heading",
+      "text": "DÉPISTAGE PRÉNATAL : LE DÉPISTAGE N’EST PAS UN DIAGNOSTIC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces termes sont souvent confondus dans la conversation courante, mais répondent à des questions différentes. Le dépistage estime la probabilité d’une anomalie chromosomique. Le test diagnostique examine le matériel génétique pour établir si elle est présente. Un résultat indiquant une probabilité accrue ne constitue pas, à lui seul, un diagnostic. [ACOG: Prenatal genetic screening tests](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que le dépistage peut indiquer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dépistage prénatal peut associer analyses de sang et échographie. Le dépistage de l’ADN libre circulant, souvent appelé DPNI, examine des fragments d’ADN dans le sang maternel, dont certains proviennent du placenta. C’est une méthode très performante pour dépister la trisomie 21, mais des faux positifs et faux négatifs restent possibles. Un résultat positif doit mener à un accompagnement et à une discussion sur les tests diagnostiques, non être considéré comme une certitude. [ACOG: Prenatal genetic screening tests](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les recommandations de l’ACOG de 2026 préconisent de proposer les options de dépistage et de diagnostic indépendamment de l’âge maternel ou du risque de départ. Après avoir reçu une information compréhensible, une personne enceinte peut accepter ou refuser les tests. Ce choix mérite un accompagnement précis et équilibré, sur les examens et sur la vie avec la trisomie 21. [ACOG: Screening for fetal chromosomal abnormalities, 2026](https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2026/01/screening-for-fetal-chromosomal-abnormalities)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ce que le diagnostic peut établir"
+    },
+    {
+      "type": "paragraph",
+      "text": "La biopsie de trophoblaste examine du tissu placentaire ; l’amniocentèse étudie des cellules prélevées dans le liquide amniotique. Le choix du test et ses risques associés doivent être discutés avec l’équipe soignante. Après la naissance, l’analyse chromosomique d’un échantillon de sang peut confirmer un diagnostic suspecté et déterminer la structure chromosomique. [ACOG: Prenatal genetic screening tests](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests) [MedlinePlus: Down syndrome diagnosis and care](https://medlineplus.gov/ency/article/000997.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un résultat diagnostique établit une caractéristique chromosomique. Il ne prédit ni la personnalité future de l’enfant, ni son profil d’apprentissage précis, ni son éventuelle autonomie. Pour mieux distinguer les technologies génétiques de la reproduction, le guide PRESDA sur la [FIV, la sélection embryonnaire et la génétique](/articles/designer-babies-ivf-embryo-selection-genetics/) présente un autre aspect du domaine. Le dépistage prénatal et l’analyse des embryons avant transfert sont des démarches distinctes."
+    },
+    {
+      "type": "heading",
+      "text": "DÉVELOPPEMENT : UN PROFIL, PAS UN AVENIR ÉCRIT D’AVANCE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certains traits physiques, notamment une tonicité musculaire réduite et des traits faciaux caractéristiques, sont plus fréquents avec la trisomie 21. Les étapes motrices comme s’asseoir ou marcher surviennent souvent plus tard. La déficience intellectuelle est souvent légère à modérée, mais le développement varie ; une étiquette générale ne décrit pas entièrement la communication, les compétences pratiques et la compréhension sociale d’une personne. [NICHD: Symptoms and development](https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage et la parole peuvent se développer plus lentement ; avoir du mal à formuler une réponse ne signifie pas ne pas comprendre. Une évaluation utile cherche ce que la personne comprend, comment elle communique et ce qui rend une tâche accessible. L’audition et la vision méritent aussi attention, car un problème non traité peut compliquer communication et apprentissage. [NICHD: Symptoms and development](https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms) [NICHD: Associated health conditions](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’intervention précoce peut associer orthophonie, kinésithérapie, ergothérapie et soutien éducatif. Son objectif est de développer des compétences utiles et la participation, non d’imposer à chaque enfant un calendrier identique. La thérapie devrait soutenir la vie quotidienne : exprimer une préférence, participer à un jeu, se déplacer confortablement ou accomplir une tâche pratique. [NICHD: Treatments and early intervention](https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les familles peuvent soutenir l’enfant par la conversation, les livres, le jeu et les routines, en adaptant la communication. Signes, images et temps de traitement supplémentaire peuvent être utiles. Les adultes devraient s’adresser directement à l’enfant ou au jeune plutôt que de poser automatiquement toutes leurs questions à un accompagnant. Le soutien fonctionne au mieux lorsqu’il crée des possibilités de participation. [NHS: Helping children and young people](https://www.nhs.uk/conditions/downs-syndrome/how-to-help-children-and-young-people/)"
+    },
+    {
+      "type": "heading",
+      "text": "SANTÉ : DES BESOINS À CONSIDÉRER TOUT AU LONG DE LA VIE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La trisomie 21 est associée à une probabilité accrue de certains problèmes médicaux, mais un risque plus élevé ne signifie pas que chacun les développera. Les soins doivent associer médecine préventive courante et contrôles adaptés à la condition. La liste des complications possibles aide à la vigilance ; elle ne décrit pas la vie de chaque personne. [NICHD: Associated health conditions](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated)"
+    },
+    {
+      "type": "subheading",
+      "text": "Enfance : rechercher ce qui pourrait autrement passer inaperçu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Malformations cardiaques congénitales, problèmes d’audition et de vision, troubles thyroïdiens et apnée obstructive du sommeil sont des éléments importants. Les troubles gastro-intestinaux, dont la maladie cœliaque, et certaines affections sanguines sont aussi plus fréquents. Tout symptôme nouveau doit être examiné plutôt que supposé « faire partie de la trisomie 21 ». [NICHD: Associated health conditions](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rapport clinique 2022 de l’Académie américaine de pédiatrie établit un suivi adapté à l’âge, comprenant l’évaluation cardiaque et une attention continue à l’audition, à la vision, à la fonction thyroïdienne et au sommeil. En pratique, un suivi coordonné avec des cliniciens connaissant ces besoins est utile. Se sentir bien un jour donné ne remplace pas les contrôles préventifs recommandés. [American Academy of Pediatrics: Health supervision, 2022](https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le traitement concerne les problèmes médicaux réels et les besoins fonctionnels de la personne. Il n’existe pas de traitement courant qui élimine la différence chromosomique sous-jacente. Soins médicaux, soutien au développement et possibilités ordinaires d’activité et de sociabilité comptent tous. Une promesse de guérison universelle ne doit pas remplacer les soins reconnus. [NICHD: Treatments and early intervention](https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments)"
+    },
+    {
+      "type": "subheading",
+      "text": "Soins adultes et santé mentale"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les adultes ont besoin de soins primaires continus, pas seulement de services organisés autour du développement de l’enfant. Le guide clinique JAMA de 2020 traite notamment de la thyroïde, de la santé mentale et de l’évaluation de la démence. Un changement d’humeur, de sommeil, de comportement ou de fonctionnement quotidien doit être examiné en fonction du niveau habituel de la personne et des causes médicales ou environnementales possibles. [JAMA: Medical care of adults with Down syndrome, 2020](https://jamanetwork.com/journals/jama/fullarticle/2771907)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les personnes ayant une trisomie 21 peuvent connaître dépression, anxiété et autres difficultés de santé mentale. Les décrire comme naturellement joyeuses peut rendre leur détresse moins visible. L’évaluation devrait permettre une communication accessible et tenir compte des proches qui connaissent bien la personne, tout en gardant son propre vécu au centre. [NICHD: Associated health conditions](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated) [JAMA: Medical care of adults with Down syndrome, 2020](https://jamanetwork.com/journals/jama/fullarticle/2771907)"
+    },
+    {
+      "type": "subheading",
+      "text": "Espérance de vie : un contexte utile, pas une échéance individuelle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un communiqué du 20 mars 2026, l’Agence américaine pour la recherche et la qualité des soins de santé a indiqué une espérance de vie d’environ 60 ans pour les personnes ayant une trisomie 21. C’est une synthèse générale, ni une garantie mondiale ni un âge maximal. Cela ne prédit pas l’avenir d’une personne, notamment dans des contextes où l’accès au diagnostic, aux traitements et au soutien continu varie. [AHRQ: Evidence gaps in adult Down syndrome care, 20 March 2026](https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le même examen de l’AHRQ souligne d’importantes lacunes dans les données orientant les soins adultes. L’allongement de la vie rend plus importants les services pour adultes, la recherche sur le vieillissement et la continuité du soutien. Présenter une espérance de vie approximative comme si toutes les questions du vieillissement en bonne santé étaient résolues serait trompeur. [AHRQ: Evidence gaps in adult Down syndrome care, 20 March 2026](https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Trisomie 21 et maladie d’Alzheimer"
+    },
+    {
+      "type": "paragraph",
+      "text": "La maladie d’Alzheimer est une question importante avec l’avancée en âge. Le chromosome 21 porte le gène de la protéine précurseur de l’amyloïde, ou APP ; le dosage génétique supplémentaire aide à expliquer ce lien biologique. Toutefois, les modifications cérébrales associées à Alzheimer et une démence cliniquement manifeste ne sont pas identiques, et tout le monde ne développe pas une démence au même âge. [National Institute on Aging: Alzheimer’s disease and Down syndrome](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/alzheimers-disease-people-down-syndrome)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Toute difficulté nouvelle ne doit pas être attribuée automatiquement à la démence. Troubles thyroïdiens, dépression ou déficience sensorielle peuvent demander d’autres traitements. L’évaluation compare les capacités actuelles au fonctionnement antérieur de la personne. L’explication de PRESDA sur [la maladie d’Alzheimer et la perte de mémoire](/articles/alzheimers-disease-brain-memory-loss/) élargit la distinction entre pathologie cérébrale, symptômes et diagnostic. [NHS: Down’s syndrome and dementia support guide](https://www.cntw.nhs.uk/resources/downs-syndrome-and-dementia-support-guide)"
+    },
+    {
+      "type": "heading",
+      "text": "ÉDUCATION, EMPLOI ET AUTONOMIE"
+    },
+    {
+      "type": "subheading",
+      "text": "L’apprentissage doit rester une question ouverte"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’éducation fonctionne au mieux quand les attentes sont individualisées, plutôt que déterminées par une étiquette diagnostique. Certains enfants fréquentent une école ordinaire avec un soutien ; d’autres bénéficient d’autres aménagements. Enseignement accessible, communication claire et collaboration entre famille, enseignants et spécialistes aident à adapter l’environnement à l’élève. L’inclusion demande une participation réelle, pas seulement une place dans une salle. [NHS: Helping children and young people](https://www.nhs.uk/conditions/downs-syndrome/how-to-help-children-and-young-people/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un élève peut avoir besoin d’une consigne décomposée en étapes, d’un rappel visuel ou de davantage de temps pour répondre. Ces aménagements ne rendent pas l’apprentissage moins réel. Les progrès dépassent aussi les examens : exprimer un besoin, comprendre un trajet et utiliser une compétence dans un nouveau contexte ont une grande valeur pratique."
+    },
+    {
+      "type": "subheading",
+      "text": "Emploi : les possibilités requièrent un soutien concret"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des adultes ayant une trisomie 21 peuvent occuper des emplois rémunérés, mais aucun métier ne convient à tous. Les ressources de la NDSS soulignent l’importance d’associer le poste aux forces et intérêts, de préparer les employeurs et de fournir formation et soutien adaptés. Un intitulé de poste ne dit pas si le travail permet une participation réelle ou un développement. [NDSS: Partnering for career success](https://ndss.org/resources/partnering-career-success)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un soutien professionnel utile peut comprendre des consignes claires, une personne identifiée pour répondre aux questions et des adaptations de formation. Les collègues devraient inclure la personne dans les échanges et décisions concernant son travail. Le programme de la NDSS vise explicitement un emploi intégré et rémunéré, non l’emploi comme geste de charité. [NDSS: Partnering for career success](https://ndss.org/resources/partnering-career-success) [NDSS: Employment programme](https://ndss.org/employment-program)"
+    },
+    {
+      "type": "subheading",
+      "text": "Autonomie ne signifie pas tout faire seul"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les modes de vie et besoins d’aide varient. Certains adultes accomplissent seuls de nombreuses activités quotidiennes ; d’autres ont besoin d’une assistance importante. La meilleure question est de savoir quelle combinaison de compétences, de services accessibles et de soutien fiable permet à cette personne d’exercer des choix significatifs. Une aide nécessaire dans un domaine n’efface pas les capacités dans un autre. [NHS: Down’s syndrome](https://www.nhs.uk/conditions/downs-syndrome/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prise de décision accompagnée offre un principe utile : aider une personne à comprendre les options et exprimer une préférence, au lieu de remplacer automatiquement ses décisions. En santé, cela peut signifier explications accessibles, temps pour poser des questions et présence d’un accompagnant de confiance choisi par la personne. Les dispositifs juridiques varient, mais le respect de l’individu doit rester le point de départ. [NDSS: Family-centred care and supported decision-making](https://ndss.org/resources/medical-home-care-family-centered-care-shared-decision-making-and-supported-decision)"
+    },
+    {
+      "type": "heading",
+      "text": "AMITIÉ, RELATIONS, MARIAGE ET PARENTHALITÉ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les personnes ayant une trisomie 21 ont leurs propres intérêts en matière d’amitié, d’intimité et de couple. Certaines souhaitent une relation amoureuse, d’autres non. L’éducation à la sexualité doit être accessible et aborder consentement, limites, vie privée, contraception et reconnaissance de la coercition. Traiter les adultes comme des enfants permanents peut empêcher d’aborder ces sujets importants. [NDSS: Relationships and sexuality](https://ndss.org/resources/relationships-sexuality)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Convention des Nations Unies relative aux droits des personnes handicapées reconnaît aux personnes en âge de se marier le droit au mariage fondé sur un consentement libre et entier, et traite des droits familiaux et parentaux. Le droit national et la situation juridique individuelle varient. Le diagnostic seul ne permet pas d’évaluer complètement les souhaits ou les capacités de décision d’une personne. [United Nations CRPD, Article 23: Home and family](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-23-respect-for-home-and-the-family.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fertilité et parentalité sont deux questions distinctes. Certaines femmes ayant une trisomie 21 peuvent être enceintes ; les soins reproductifs doivent inclure une discussion individualisée de la santé, de la contraception et du conseil génétique. Supposer une infertilité ou prédire globalement l’état de santé d’un enfant ne constitue pas un conseil adéquat. [NDSS: Women’s health and Down syndrome](https://ndss.org/resources/primary-care-providers-guide-womens-health-and-down-syndrome)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fertilité est généralement réduite chez les hommes ayant une trisomie 21, mais dire que « tous les hommes sont infertiles » est trop catégorique. Un rapport de cas évalué par les pairs en 2006 documente la paternité d’un homme avec trisomie 21 non mosaïque. Un cas établit une possibilité, non un taux de fertilité de population ni la situation reproductive d’une personne donnée. [NDSS: Relationships and sexuality](https://ndss.org/resources/relationships-sexuality) [Pradhan and colleagues: Paternity in a man with Down syndrome, 2006 case report](https://pubmed.ncbi.nlm.nih.gov/17094988/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La parentalité exige d’évaluer les responsabilités pratiques, le soutien disponible et les besoins de l’enfant, pas de s’appuyer sur un stéréotype chromosomique. La Convention appelle à aider les parents à assumer leurs responsabilités. Respect des droits et prise au sérieux du soutien nécessaire doivent aller de pair. [United Nations CRPD, Article 23: Home and family](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-23-respect-for-home-and-the-family.html)"
+    },
+    {
+      "type": "heading",
+      "text": "MYTHE ET RÉALITÉ"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : toutes les personnes ont le même niveau d’intelligence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : un diagnostic décrit une condition, pas un profil cognitif complet. Apprentissage et communication varient. L’évaluation devrait repérer forces et besoins d’aide, non fixer l’avenir à partir d’une étiquette. La difficulté à parler n’est pas un indicateur fiable de tout ce qu’une personne comprend. [NICHD: Symptoms and development](https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : les personnes ayant une trisomie 21 sont toujours heureuses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : elles ont des personnalités et une vie émotionnelle propres. Une personne peut être sociable ou réservée, contente ou contrariée. Le stéréotype de la joie peut sembler gentil tout en décourageant l’écoute lorsqu’une personne est frustrée, anxieuse ou malade. [NHS: Down’s syndrome](https://www.nhs.uk/conditions/downs-syndrome/) [JAMA: Medical care of adults with Down syndrome, 2020](https://jamanetwork.com/journals/jama/fullarticle/2771907)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : une vie adulte réussie exige une autonomie complète"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : emploi, relations et choix personnels peuvent coexister avec un soutien important. Le but est la participation et le pouvoir d’agir, pas une norme universelle de vie sans aide. Sous-estimer quelqu’un ou retirer le soutien nécessaire peut dans les deux cas restreindre ses possibilités. [NDSS: Family-centred care and supported decision-making](https://ndss.org/resources/medical-home-care-family-centered-care-shared-decision-making-and-supported-decision) [NDSS: Employment programme](https://ndss.org/employment-program)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : les personnes ayant une trisomie 21 ne peuvent travailler ou avoir de relations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : emploi rémunéré et relations intimes sont possibles. Aucun ne doit être imposé comme preuve de réussite, ni écarté d’avance. Formation, information accessible, consentement et soutien adapté comptent davantage que les affirmations générales sur ce que tout un groupe peut faire. [NDSS: Employment programme](https://ndss.org/employment-program) [NDSS: Relationships and sexuality](https://ndss.org/resources/relationships-sexuality)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : la qualité de vie est forcément mauvaise"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : les suppositions extérieures ne remplacent pas l’écoute. Une étude de 2011 a interrogé 284 personnes ayant une trisomie 21, âgées de 12 ans ou plus, recrutées par six associations américaines sans but lucratif. La majorité déclarait éprouver des sentiments positifs sur sa vie. Le recrutement et les possibilités de répondre limitent la généralisation : l’étude ne montre ni que tout le monde est heureux, ni que les besoins de soutien disparaissent. Elle conteste néanmoins l’idée qu’un diagnostic détermine à lui seul le vécu. [Skotko and colleagues: Self-perceptions of people with Down syndrome, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3740159/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : un dépistage positif apprend tout à une famille"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : le dépistage estime une probabilité et demande une interprétation attentive. Même un diagnostic chromosomique confirmé ne fournit pas de prévision détaillée de la vie de l’enfant. Une information médicale exacte et le contact avec des personnes aux expériences variées sont plus utiles que les pronostics catastrophistes ou les promesses que tout sera facile. [ACOG: Prenatal genetic screening tests](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests) [MedlinePlus: Down syndrome diagnosis and care](https://medlineplus.gov/ency/article/000997.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE LA SCIENCE DOIT ENCORE COMPRENDRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des questions importantes demeurent sur les raisons des variations de santé et de développement, ainsi que sur le meilleur soutien aux adultes au cours d’une vie plus longue. L’examen de l’AHRQ en 2026 confirme les lacunes persistantes des données sur les soins adultes. Une recommandation peut être utile cliniquement alors que les preuves de certains détails restent limitées ; il faut reconnaître l’incertitude plutôt que la cacher. [AHRQ: Evidence gaps in adult Down syndrome care, 20 March 2026](https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La recherche doit aussi répondre aux questions de la vie quotidienne. Une intervention améliore-t-elle la communication hors de la clinique ? Un service élargit-il réellement les choix ? Les adultes participent-ils aux décisions sur le soutien reçu ? Une mesure biologique et un résultat important dans la vie réelle ne sont pas toujours la même chose."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprendre la trisomie 21 est précieux parce que cela peut améliorer les soins. Comprendre les personnes demande une autre attention : connaître leurs préférences, écouter leur communication et laisser leur vie être plus précise qu’un diagnostic. Le chromosome fait partie de l’histoire, mais ne constitue jamais toute la personne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet article fournit des informations générales, pas un diagnostic individuel ni un plan de soins. Un clinicien ou un conseiller en génétique peut interpréter un résultat particulier et discuter de questions personnelles de santé et de reproduction."
+    }
+  ],
+  "sources": [
+    {
+      "label": "CDC : À propos de la trisomie 21",
+      "url": "https://www.cdc.gov/birth-defects/about/down-syndrome.html"
+    },
+    {
+      "label": "MedlinePlus Genetics : Trisomie 21",
+      "url": "https://medlineplus.gov/genetics/condition/down-syndrome/"
+    },
+    {
+      "label": "NICHD : causes de la trisomie 21",
+      "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes"
+    },
+    {
+      "label": "NHS : trisomie 21",
+      "url": "https://www.nhs.uk/conditions/downs-syndrome/"
+    },
+    {
+      "label": "NICHD : symptômes et développement",
+      "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms"
+    },
+    {
+      "label": "ACOG : tests de dépistage génétique prénatal",
+      "url": "https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests"
+    },
+    {
+      "label": "ACOG : dépistage des anomalies chromosomiques fœtales, 2026",
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2026/01/screening-for-fetal-chromosomal-abnormalities"
+    },
+    {
+      "label": "MedlinePlus : diagnostic et soins de la trisomie 21",
+      "url": "https://medlineplus.gov/ency/article/000997.htm"
+    },
+    {
+      "label": "Académie américaine de pédiatrie : suivi de santé, 2022",
+      "url": "https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents"
+    },
+    {
+      "label": "NICHD : problèmes de santé associés",
+      "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated"
+    },
+    {
+      "label": "NICHD : traitements et intervention précoce",
+      "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments"
+    },
+    {
+      "label": "JAMA : soins médicaux aux adultes ayant une trisomie 21, 2020",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2771907"
+    },
+    {
+      "label": "AHRQ : lacunes dans les données sur les soins adultes, 20 mars 2026",
+      "url": "https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html"
+    },
+    {
+      "label": "Institut national américain du vieillissement : Alzheimer et trisomie 21",
+      "url": "https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/alzheimers-disease-people-down-syndrome"
+    },
+    {
+      "label": "NHS : aider les enfants et les jeunes",
+      "url": "https://www.nhs.uk/conditions/downs-syndrome/how-to-help-children-and-young-people/"
+    },
+    {
+      "label": "NDSS : partenariat pour réussir sa carrière",
+      "url": "https://ndss.org/resources/partnering-career-success"
+    },
+    {
+      "label": "NDSS : soins centrés sur la famille et prise de décision accompagnée",
+      "url": "https://ndss.org/resources/medical-home-care-family-centered-care-shared-decision-making-and-supported-decision"
+    },
+    {
+      "label": "NDSS : relations et sexualité",
+      "url": "https://ndss.org/resources/relationships-sexuality"
+    },
+    {
+      "label": "ONU, Convention relative aux droits des personnes handicapées, art. 23 : domicile et famille",
+      "url": "https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-23-respect-for-home-and-the-family.html"
+    },
+    {
+      "label": "Pradhan et collègues : paternité d’un homme ayant une trisomie 21, rapport de cas 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17094988/"
+    },
+    {
+      "label": "Skotko et collègues : perception de soi de personnes ayant une trisomie 21, 2011",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3740159/"
+    },
+    {
+      "label": "NDSS : programme d’emploi",
+      "url": "https://ndss.org/employment-program"
+    },
+    {
+      "label": "NHS : guide de soutien sur trisomie 21 et démence",
+      "url": "https://www.cntw.nhs.uk/resources/downs-syndrome-and-dementia-support-guide"
+    },
+    {
+      "label": "NDSS : santé des femmes et trisomie 21",
+      "url": "https://ndss.org/resources/primary-care-providers-guide-womens-health-and-down-syndrome"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qu’est-ce que la trisomie 21 ?",
+      "answer": "C’est une condition génétique due à une copie complète ou partielle supplémentaire du chromosome 21. Elle influence le développement et augmente certains risques de santé, mais capacités, santé et besoins de soutien varient considérablement."
+    },
+    {
+      "question": "La trisomie 21 est-elle la même chose que le syndrome de Down ?",
+      "answer": "La trisomie 21 complète est la forme la plus fréquente du syndrome de Down ; elle comporte trois copies distinctes du chromosome 21. Il existe aussi des formes par translocation et en mosaïque."
+    },
+    {
+      "question": "La trisomie 21 est-elle héréditaire ?",
+      "answer": "La plupart des cas ne sont pas hérités. Certaines translocations peuvent être transmises par un parent porteur d’un réarrangement chromosomique équilibré. Un conseil génétique peut expliquer un résultat et le contexte familial particuliers."
+    },
+    {
+      "question": "Un DPNI positif diagnostique-t-il la trisomie 21 ?",
+      "answer": "Non. Le DPNI est un dépistage, pas un diagnostic. Un résultat positif appelle un accompagnement et une discussion sur les examens diagnostiques, comme la biopsie de trophoblaste ou l’amniocentèse."
+    },
+    {
+      "question": "Quelle est l’espérance de vie des personnes ayant une trisomie 21 ?",
+      "answer": "En mars 2026, l’AHRQ l’a estimée à environ 60 ans. Cette synthèse générale n’est ni un âge maximal ni une prédiction individuelle ; accès aux soins et circonstances personnelles comptent."
+    },
+    {
+      "question": "Les personnes ayant une trisomie 21 peuvent-elles travailler et vivre de façon autonome ?",
+      "answer": "Certains adultes occupent un emploi rémunéré et réalisent seuls de nombreuses activités quotidiennes ; d’autres ont besoin d’un soutien important. Compétences, préférences, formation et services accessibles importent davantage que les suppositions fondées sur le diagnostic."
+    },
+    {
+      "question": "Les personnes ayant une trisomie 21 peuvent-elles se marier et avoir des enfants ?",
+      "answer": "Les relations et le mariage sont possibles avec un consentement libre et éclairé, sous réserve du droit applicable. La fertilité est réduite, mais ne doit pas être supposée absente. Les questions de reproduction et de parentalité demandent un accompagnement individualisé et une réflexion sur le soutien nécessaire."
+    }
+  ]
+}

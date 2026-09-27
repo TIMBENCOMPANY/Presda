@@ -1,0 +1,541 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/possession-psychogenic-seizures-pnes-science/",
+  "path": "/es/articles/possession-psychogenic-seizures-pnes-science/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "¿POSESIÓN O CRISIS PSICÓGENAS? QUÉ DICE REALMENTE LA CIENCIA",
+  "excerpt": "Cuando un episodio parece escapar al control de alguien, importa cómo se explica. Explora las creencias culturales, las crisis involuntarias y lo que las pruebas médicas pueden establecer.",
+  "headlineHighlights": {
+    "red": "CRISIS PSICÓGENAS",
+    "gold": "LA CIENCIA"
+  },
+  "seoTitle": "¿Posesión o crisis psicógenas? PNES, epilepsia y ciencia | PRESDA",
+  "description": "Explora las crisis funcionales (PNES), la epilepsia, la disociación y la parálisis del sueño: qué puede evaluar un EEG, por qué los síntomas son reales y dónde se detienen las pruebas científicas.",
+  "keywords": [
+    "crisis funcionales",
+    "crisis psicógenas",
+    "PNES",
+    "epilepsia",
+    "disociación",
+    "trastorno neurológico funcional",
+    "parálisis del sueño",
+    "posesión y ciencia"
+  ],
+  "searchIntent": "Informacional: comprender las diferencias clínicas entre posesión, crisis funcionales y epilepsia y el alcance de la evidencia médica",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-22",
+  "updatedAt": "2026-09-22",
+  "image": {
+    "src": "/articles/possession-psychogenic-seizures-science.png",
+    "alt": "Ilustración conceptual de una persona angustiada junto a su familia y un profesional clínico ante pantallas de monitorización cerebral; no representa un caso médico documentado."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A lo largo de la historia, un cambio repentino en la voz, los movimientos o el estado de conciencia de alguien ha suscitado una pregunta inquietante: ¿quién o qué tiene el control? Algunas comunidades han entendido estas experiencias a través de espíritus, antepasados, deidades o demonios. Otras han buscado explicaciones en el cuerpo y la mente. Estas tradiciones no describen una experiencia uniforme, y la palabra «posesión» nunca ha tenido un significado universal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy, algunos episodios descritos como posesión pueden parecerse a crisis funcionales, también llamadas crisis no epilépticas psicógenas o PNES por sus siglas en inglés, a crisis epilépticas, a la disociación o a otras afecciones médicas. Parecerse no equivale a tener un diagnóstico. La medicina debe investigar el episodio de cada persona, sin tratar una explicación cultural como prueba de un trastorno ni como prueba en contra de él. [Bhavsar y colaboradores: trance disociativo y posesión espiritual, 2016](https://doi.org/10.1111/pcn.12425) [Bajestan y LaFrance: enfoques clínicos para las crisis no epilépticas psicógenas](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción médica central no está entre una experiencia real y otra imaginaria. Las crisis funcionales son episodios reales e involuntarios. Las crisis epilépticas también son involuntarias, pero su mecanismo y tratamiento son distintos. Reconocer esa diferencia puede evitar tanto que una enfermedad quede sin tratar como que se acuse a la persona de fingir. [Hospitales Universitarios de Sheffield: qué son las crisis funcionales](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/) [NIH: comprender la epilepsia, febrero de 2026](https://newsinhealth.nih.gov/2026/02/understanding-epilepsy)"
+    },
+    {
+      "type": "heading",
+      "text": "LA POSESIÓN A LO LARGO DE LA HISTORIA: UNA PALABRA, MUCHAS EXPERIENCIAS"
+    },
+    {
+      "type": "subheading",
+      "text": "Los textos antiguos no son historias clínicas modernas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los historiadores que estudian el antiguo Egipto y Mesopotamia analizan textos sobre influencias divinas y sobrenaturales, pero debaten hasta qué punto sus categorías corresponden a lo que hoy llamamos posesión. La descripción de un ritual no es un examen neurológico. Atribuir a cada relato antiguo un diagnóstico contemporáneo puede ser tan engañoso como suponer que todas las descripciones se refieren al mismo fenómeno sobrenatural. [Oxford Academic: ideas sobre la posesión en el antiguo Egipto y Mesopotamia](https://academic.oup.com/book/58134/chapter-abstract/480188989)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El registro histórico tampoco respalda una historia sencilla en la que todas las sociedades temieran la posesión del mismo modo. El estudio de Frederick M. Smith sobre las tradiciones del sur de Asia describe distintas formas de posesión por deidades y espíritus, incluidas prácticas extáticas u oraculares respetadas. Participar en una tradición religiosa no indica automáticamente que alguien esté enfermo. [Frederick M. Smith: The Self Possessed, Columbia University Press](https://www.jstor.org/stable/10.7312/smit13748)"
+    },
+    {
+      "type": "subheading",
+      "text": "Los significados religiosos y culturales son distintos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tradiciones zār documentadas en partes de África e Irán sitúan las experiencias con espíritus en contextos sociales y rituales específicos. Sus significados y prácticas varían entre comunidades. Una revisión de estas tradiciones destaca la importancia del contexto cultural, en lugar de tratar una denominación compartida como si fuera una única afección con una sola causa. [Posesión por zār en Irán y países africanos: revisión cultural](https://pmc.ncbi.nlm.nih.gov/articles/PMC4801492/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En algunos contextos musulmanes, las personas pueden interpretar el sufrimiento o las experiencias inusuales mediante creencias sobre los yinn. Una revisión de la literatura médica de 2014 examinó este modelo explicativo en la atención psiquiátrica. Eso no significa que todas las personas musulmanas compartan una interpretación ni que creer en los yinn sea en sí mismo un síntoma psiquiátrico. Antes de decidir qué requiere evaluación, los profesionales deben entender qué quieren decir la persona y su comunidad. [Lim y colaboradores: atribución de síntomas psicóticos a los yinn, revisión de 2014](https://pubmed.ncbi.nlm.nih.gov/25080427/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tradiciones cristianas también son diversas. En la práctica católica, las orientaciones publicadas por la Conferencia Episcopal de Estados Unidos piden una evaluación médica y psicológica o psiquiátrica exhaustiva ante una presunta posesión. Esto documenta el procedimiento de una institución religiosa, no valida científicamente una causa sobrenatural. Muestra que la preocupación religiosa y la investigación médica no tienen por qué excluirse mutuamente. [Conferencia Episcopal de Estados Unidos: exorcismo y evaluación médica, diciembre de 2014](https://www.usccb.org/resources/newsletter-2014-12.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Cuándo se convierte una experiencia en un problema clínico?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La psiquiatría cultural distingue las experiencias rituales aceptadas socialmente de los estados no deseados asociados con sufrimiento, deterioro funcional o peligro. Los límites pueden ser difíciles de evaluar entre idiomas y tradiciones. El profesional pregunta si la experiencia es voluntaria o no deseada, qué ocurre fuera del ritual y cómo se desenvuelve la persona. La mera apariencia de trance no basta para diagnosticar un trastorno. [Bhavsar y colaboradores: trance disociativo y posesión espiritual, 2016](https://doi.org/10.1111/pcn.12425)"
+    },
+    {
+      "type": "heading",
+      "text": "¿QUÉ SON LAS CRISIS FUNCIONALES O PNES?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las crisis funcionales son episodios con cambios en el movimiento, la capacidad de responder o el estado de conciencia que se parecen a las crisis epilépticas, pero no se generan mediante la actividad eléctrica epiléptica que define estas últimas. Algunas incluyen temblores; en otras, la persona queda inmóvil o no responde. La presentación exacta varía y debe interpretarla alguien con formación en evaluación de crisis. [Hospitales Universitarios de Sheffield: qué son las crisis funcionales](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "PNES corresponde a psychogenic non-epileptic seizures, es decir, «crisis no epilépticas psicógenas». También pueden llamarse «crisis disociativas» o «crisis funcionales». Esta última expresión aparece cada vez más en las guías clínicas. La terminología importa: «no epiléptica» describe una diferencia de mecanismo, no juzga si el episodio es real. El antiguo uso de términos como «pseudo» o «falsa» puede estigmatizar. [ILAE: crisis psicógenas, diagnóstico, tratamiento y estigma](https://www.ilae.org/journals/epigraph/epigraph-vol-21-issue-2-spring-2019/inside-the-world-of-psychogenic-seizures-diagnosis-treatment-and-stigma)"
+    },
+    {
+      "type": "subheading",
+      "text": "Son reales e involuntarias, no una actuación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona que tiene una crisis funcional no decide simplemente representarla. La pérdida de control, el miedo, el agotamiento y las alteraciones del trabajo o los estudios pueden ser considerables. El diagnóstico debe explicarse de forma clara y constructiva: qué observó el profesional, por qué sustenta el diagnóstico y qué ayuda hay disponible. Decirle a alguien que «no tiene nada» tergiversa la afección. [Hospitales Universitarios de Sheffield: qué son las crisis funcionales](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/) [ILAE: crisis psicógenas, diagnóstico, tratamiento y estigma](https://www.ilae.org/journals/epigraph/epigraph-vol-21-issue-2-spring-2019/inside-the-world-of-psychogenic-seizures-diagnosis-treatment-and-stigma)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las crisis funcionales son una manifestación del trastorno neurológico funcional (TNF). El TNF también puede causar debilidad, alteraciones de la sensibilidad o síntomas del movimiento. La investigación actual estudia cambios en el funcionamiento de redes cerebrales, incluidos los sistemas relacionados con la atención, el movimiento y la sensación de agencia. No se explica adecuadamente con una simple división entre enfermedades «físicas» y «mentales». [Hallett y colaboradores: trastorno neurológico funcional, revisión de 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una prueba rutinaria de imagen cerebral puede ser normal en el TNF. Eso no significa que los síntomas sean deliberados, pero una prueba normal tampoco basta para diagnosticarlo. El diagnóstico clínico se basa en indicios positivos y en una evaluación adecuada de otras posibilidades. No se debe confundir la ausencia de una lesión estructural visible con la ausencia de un problema de salud importante. [Hallett y colaboradores: trastorno neurológico funcional, revisión de 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/)"
+    },
+    {
+      "type": "heading",
+      "text": "LAS CRISIS EPILÉPTICAS PUEDEN SER MUY DISTINTAS ENTRE SÍ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las crisis epilépticas se originan en una actividad eléctrica anormal del cerebro. No se limitan al desplome y las convulsiones de todo el cuerpo. Según las redes cerebrales implicadas, un episodio puede afectar la sensibilidad, las emociones, la conducta, el movimiento o la conciencia. Alguien puede parecer ausente por un momento, hacer movimientos repetitivos o sentir algo intenso y desconocido. [NIH: comprender la epilepsia, febrero de 2026](https://newsinhealth.nih.gov/2026/02/understanding-epilepsy) [NINDS: epilepsia y crisis epilépticas](https://www.ninds.nih.gov/node/647)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas crisis focales pueden incluir miedo repentino, sensaciones inusuales o déjà vu. La intensidad de esas experiencias no revela por sí sola su causa. La [guía de PRESDA sobre el déjà vu y el cerebro](/articles/deja-vu-why-does-it-happen-brain-science/) explica por qué puede aparecer tanto en la vida cotidiana como en ciertos contextos neurológicos. La mayoría de las experiencias corrientes de déjà vu no son indicio de epilepsia. [NINDS: epilepsia y crisis epilépticas](https://www.ninds.nih.gov/node/647)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una crisis epiléptica y un diagnóstico de epilepsia no son conceptos idénticos: también puede haber crisis en el contexto de una alteración médica aguda. Importan las circunstancias y la historia clínica. Por eso un movimiento espectacular o una grabación breve no pueden sustituir una evaluación. [NICE NG217: diagnóstico y evaluación de la epilepsia](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)"
+    },
+    {
+      "type": "heading",
+      "text": "OTRAS AFECCIONES QUE PUEDEN PARECERSE A UN RELATO DE POSESIÓN"
+    },
+    {
+      "type": "subheading",
+      "text": "Disociación y estados similares al trance"
+    },
+    {
+      "type": "paragraph",
+      "text": "La disociación puede implicar sentirse separado de uno mismo o del entorno, cambios en la identidad o lagunas de memoria. No es sinónimo de psicosis, y no toda experiencia disociativa es una crisis. Sin embargo, la sensación de tener menos control puede interpretarse como si una fuerza externa actuara sobre la persona. [NHS: trastornos disociativos](https://www.nhs.uk/mental-health/conditions/dissociative-disorders/) [Bhavsar y colaboradores: trance disociativo y posesión espiritual, 2016](https://doi.org/10.1111/pcn.12425)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La evaluación pregunta qué experimenta realmente la persona, en vez de imponer de antemano una explicación. Sentirse irreal, perder la noción del tiempo y oír una voz son experiencias distintas que requieren preguntas de seguimiento diferentes. Una descripción culturalmente familiar puede comunicar sufrimiento, pero no determina el diagnóstico médico."
+    },
+    {
+      "type": "subheading",
+      "text": "Trauma y sufrimiento intenso: pertinentes, pero no universales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una revisión sistemática y metaanálisis de 2018 concluyó que las personas con TNF referían con más frecuencia experiencias vitales estresantes y maltrato que los grupos de comparación. Es fundamental que algunas personas no referían esos factores. Estos resultados respaldan una evaluación sensible al trauma, no la suposición de que cada paciente deba tener un trauma oculto. Una asociación en un grupo no establece la causa del episodio de una persona. [Ludwig y colaboradores: estrés y maltrato en el TNF, metaanálisis de 2018](https://pubmed.ncbi.nlm.nih.gov/29526521/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para algunas personas, el sufrimiento intenso o un trauma son elementos importantes del cuadro clínico. Para otras, los factores relevantes pueden ser distintos o seguir sin aclararse. La atención debe permitir hablar de experiencias difíciles con seguridad y sin presionar a nadie para que construya una historia de vida determinada. No tener antecedentes de trauma no demuestra que la persona finja ni descarta los síntomas funcionales. [Ludwig y colaboradores: estrés y maltrato en el TNF, metaanálisis de 2018](https://pubmed.ncbi.nlm.nih.gov/29526521/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Ataques de pánico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ataques de pánico pueden causar miedo intenso, palpitaciones, temblores, falta de aire y sensación de perder el control o de morir. Son experiencias corporales y emocionales genuinas. Sin embargo, un ataque de pánico no equivale a una PNES, y no se deben atribuir automáticamente a la ansiedad nuevos síntomas en el pecho, un desmayo o una alteración de conciencia. [NIMH: trastorno de pánico](https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms)"
+    },
+    {
+      "type": "subheading",
+      "text": "Parálisis del sueño y sensación de una presencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante la parálisis del sueño, alguien puede estar consciente, pero no poder moverse ni hablar temporalmente mientras se duerme o despierta. Puede sentir una presencia en la habitación, presión sobre el cuerpo o un miedo intenso. La experiencia ocurre en el límite entre el sueño y la vigilia, cuando el control muscular todavía no ha vuelto al estado de vigilia. [NHS: parálisis del sueño](https://www.nhs.uk/conditions/sleep-paralysis/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta combinación ayuda a entender por qué algunas experiencias nocturnas se interpretan como la presencia de un intruso o un ataque sobrenatural. El terror subjetivo es real; su interpretación es una cuestión aparte. La parálisis del sueño no explica en general los episodios que ocurren en otras circunstancias. Si se repite, causa sufrimiento o altera el sueño, conviene hablarlo con un profesional sanitario. [NHS: parálisis del sueño](https://www.nhs.uk/conditions/sleep-paralysis/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Desmayos, enfermedades, sustancias y afecciones psiquiátricas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un desmayo puede incluir sacudidas breves, por lo que ver temblores no demuestra automáticamente que haya epilepsia. Los recursos de diagnóstico de la ILAE describen diversos imitadores de la epilepsia, como el síncope y los episodios relacionados con el sueño. La secuencia de los síntomas y la recuperación puede ser tan útil como el momento más llamativo. [ILAE EpilepsyDiagnosis.org: imitadores de la epilepsia](https://www.epilepsydiagnosis.org/epilepsy-imitators.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La hipoglucemia y otras alteraciones médicas también pueden producir manifestaciones parecidas a una crisis o cambios de conciencia. Una confusión repentina puede deberse a una infección, los efectos de medicamentos, problemas asociados al alcohol o las drogas y otras causas urgentes. Estas posibilidades requieren una evaluación médica, no elegir únicamente entre epilepsia y posesión. [Fundación para la Epilepsia: diagnóstico de imitadores de la epilepsia](https://www.epilepsy.com/diagnosis/imitators-epilepsy) [NHS: confusión repentina y delirium](https://www.nhs.uk/symptoms/confusion/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La encefalitis, una inflamación cerebral, es una enfermedad grave que puede causar crisis, cambios de conducta y alucinaciones. La psicosis también puede incluir alucinaciones o creencias alteradas, pero una alucinación por sí sola no es un diagnóstico. Ni una creencia espiritual ni una conducta inusual bastan para identificar psicosis, encefalitis u otra afección. [NHS: síntomas de encefalitis](https://www.nhs.uk/conditions/encephalitis/symptoms/) [NHS: psicosis](https://www.nhs.uk/mental-health/conditions/psychosis/overview/)"
+    },
+    {
+      "type": "heading",
+      "text": "POSESIÓN O CRISIS: ¿QUÉ PUEDE EVALUAR REALMENTE LA MEDICINA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La medicina no tiene una prueba de laboratorio para detectar la posesión. Puede investigar explicaciones concretas de movimientos, cambios de conciencia, percepciones inusuales o pérdida de control. La pregunta práctica es qué diagnóstico encaja mejor con la historia, la exploración y los resultados de las pruebas, y qué grado de certeza respaldan esos indicios."
+    },
+    {
+      "type": "subheading",
+      "text": "Empezar por el episodio completo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La evaluación neurológica considera qué ocurrió antes, durante y después del episodio, los antecedentes médicos, los medicamentos y las observaciones de testigos. NICE recomienda realizar un electrocardiograma tras una primera crisis sospechosa para ayudar a identificar afecciones cardíacas que pueden parecer epilepsia. Según las circunstancias, podrían corresponder análisis de sangre e imágenes cerebrales. La evaluación se adapta a cada persona, no es una lista universal obligatoria. [NICE NG217: diagnóstico y evaluación de la epilepsia](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los episodios recurrentes de distinto tipo deben describirse por separado. Un desplome repentino después de ponerse de pie, un episodio nocturno y un periodo prolongado de temblores pueden tener causas diferentes. Esto es especialmente importante si hay más de un tipo de crisis. [Academia Estadounidense de Neurología: guía sobre crisis funcionales, diciembre de 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)"
+    },
+    {
+      "type": "subheading",
+      "text": "EEG rutinario: útil, pero no definitivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El electroencefalograma, o EEG, registra la actividad eléctrica mediante electrodos colocados en el cuero cabelludo. Un EEG rutinario toma una muestra limitada y puede realizarse entre episodios. NICE indica expresamente que no se debe usar el EEG para descartar epilepsia. Por tanto, un resultado rutinario normal no demuestra que haya PNES ni establece un origen sobrenatural para un episodio sin explicación. [NICE NG217: diagnóstico y evaluación de la epilepsia](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un trazado anormal también requiere interpretación experta. El movimiento y la actividad muscular pueden producir artefactos, y algunos hallazgos eléctricos quizá no expliquen el episodio investigado. Los resultados de las pruebas son parte de una evaluación, no una etiqueta independiente que se le asigna a una persona. [Whitehead y colaboradores: buenas prácticas de vídeo-EEG, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Vídeo-EEG: vincular conducta y actividad cerebral"
+    },
+    {
+      "type": "paragraph",
+      "text": "El vídeo-EEG graba a la persona y su EEG al mismo tiempo. Captar un episodio habitual permite a especialistas comparar sus características observables con el registro eléctrico. Un episodio con rasgos compatibles con crisis funcionales y sin la actividad epiléptica esperada puede aportar pruebas diagnósticas sólidas. Es importante que el episodio registrado coincida con los que la persona y sus testigos reconocen. [Whitehead y colaboradores: buenas prácticas de vídeo-EEG, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay un límite importante: algunas crisis epilépticas, en particular ciertas crisis focales, quizá no produzcan una señal ictal clara en el EEG de superficie. Un trazado que parece vacío no permite diagnosticar PNES automáticamente. Hay que valorar conjuntamente las características clínicas de la crisis, la calidad del registro y el patrón eléctrico esperado. [Whitehead y colaboradores: buenas prácticas de vídeo-EEG, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es posible que no se disponga de vídeo-EEG o que no se logre captar un episodio. Por eso los marcos clínicos distinguen grados de certeza diagnóstica. Lo adecuado es explicar las pruebas y las dudas, no fingir que todos los diagnósticos tienen la misma confirmación. El profesional puede llegar a un diagnóstico sustentado en la historia disponible y en signos clínicos positivos, y decidir si hace falta más monitorización. [Bajestan y LaFrance: enfoques clínicos para las crisis no epilépticas psicógenas](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Pueden coexistir la epilepsia y las crisis funcionales?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí. Una persona puede tener ambas, y la guía de la AAN recomienda evaluar la posible coexistencia de epilepsia. Registrar o caracterizar cuidadosamente cada tipo de episodio habitual ayuda a evitar el error de suponer que una crisis funcional grabada explica todos los episodios que alguien ha tenido. El plan de atención puede necesitar abordar ambas afecciones. [Academia Estadounidense de Neurología: guía sobre crisis funcionales, diciembre de 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)"
+    },
+    {
+      "type": "subheading",
+      "text": "La evaluación psicológica forma parte de la atención, no es un detector de mentiras"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una evaluación psicológica o psiquiátrica puede explorar la disociación, la ansiedad, la depresión, el trauma, el estrés, las estrategias de afrontamiento y los efectos de los síntomas en la vida diaria. Complementa la evaluación neurológica. Los antecedentes de trauma no diagnostican PNES por sí solos, del mismo modo que una actitud serena o la ausencia de un diagnóstico psiquiátrico no la descartan. [Bajestan y LaFrance: enfoques clínicos para las crisis no epilépticas psicógenas](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "También corresponde preguntar por el significado cultural. ¿Qué cree la persona que está ocurriendo? ¿A quién ha consultado? ¿Qué tipo de ayuda le parece aceptable? Preguntar con respeto puede mejorar la comprensión sin exigir al profesional que respalde una explicación sobrenatural ni a la persona que renuncie a su identidad religiosa."
+    },
+    {
+      "type": "heading",
+      "text": "¿POR QUÉ PUEDEN PARECER COMPLETAMENTE REALES LAS EXPERIENCIAS SIMILARES A UNA POSESIÓN?"
+    },
+    {
+      "type": "subheading",
+      "text": "La experiencia y su explicación son cosas distintas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estar seguro de que algo se ha vivido no establece por qué ocurrió. Alguien puede percibir sinceramente una presencia durante la parálisis del sueño o sentir que sus acciones están separadas de sí. Reconocer la experiencia es compatible con investigar su mecanismo. Tachar a la persona de crédula no aporta nada a esa investigación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los modelos de investigación del TNF estudian cómo interactúan la atención, las expectativas y la sensación de agencia. La agencia es la sensación de que una acción es propia. Si se altera esa experiencia, el movimiento puede sentirse fuera del control voluntario sin producirse de forma consciente. Son modelos explicativos en desarrollo, no un hallazgo universal en una imagen cerebral que identifique la causa de cada episodio. [Fobian y Elliott: modelos de síntomas neurológicos funcionales, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6306282/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Respuestas al estrés y expectativas aprendidas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La amenaza y la activación pueden cambiar las sensaciones corporales, la atención y la forma de interpretarlas. Durante el pánico, las propias palpitaciones pueden asustar. En los síntomas funcionales, se investiga si las expectativas y la atención contribuyen a moldear o mantener ciertas experiencias. Estos modelos no significan que alguien simplemente «se crea enfermo», ni demuestran que las creencias causen todos los episodios. [NIMH: trastorno de pánico](https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms) [Fobian y Elliott: modelos de síntomas neurológicos funcionales, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6306282/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cultura puede proporcionar palabras para describir una experiencia aterradora e influir en dónde busca ayuda alguien. En un contexto, una experiencia podría interpretarse mediante los yinn y describirse de otro modo en otro lugar. Esto aporta información sobre la interpretación y la búsqueda de ayuda, no prueba que una religión produzca síntomas ni que las personas religiosas sean especialmente vulnerables. [Lim y colaboradores: atribución de síntomas psicóticos a los yinn, revisión de 2014](https://pubmed.ncbi.nlm.nih.gov/25080427/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una postura científicamente cuidadosa mantiene abiertas varias preguntas a la vez: cómo se sintió el episodio, cómo se entendió, qué mecanismo medible está respaldado y qué sigue siendo desconocido. No se deben reducir todas a una sola explicación solo porque resulte familiar."
+    },
+    {
+      "type": "heading",
+      "text": "TRATAMIENTO: ¿QUÉ AYUDA TRAS EL DIAGNÓSTICO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una explicación clara y respetuosa es un punto de partida importante. Las crisis funcionales requieren seguimiento y un plan individualizado. La guía de la AAN de diciembre de 2025 respalda las intervenciones psicológicas apropiadas y desaconseja recetar medicación anticrisis únicamente para las crisis funcionales cuando no existe epilepsia u otra indicación. Todo cambio en una medicación existente debe hacerse solo con el profesional tratante, especialmente si coexisten diagnósticos. [Academia Estadounidense de Neurología: guía sobre crisis funcionales, diciembre de 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La evidencia sobre tratamientos requiere matices. El ensayo aleatorizado CODES de 2020 incluyó a 368 adultos con crisis disociativas. Añadir terapia cognitivo-conductual específica para las crisis a la atención médica estandarizada no produjo una mejora estadísticamente significativa en el criterio principal, la frecuencia mensual de crisis a los 12 meses. Sí mejoraron varias medidas secundarias, entre ellas el funcionamiento psicosocial. El ensayo permite una conversación más cuidadosa que decir «la terapia cura a todos» o «la terapia no sirve». [Goldstein y colaboradores: ensayo aleatorizado CODES, 2020](https://pubmed.ncbi.nlm.nih.gov/32445688/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La atención adecuada también puede tratar afecciones coexistentes y las consecuencias prácticas de los episodios. El progreso puede incluir una mejoría en el funcionamiento cotidiano además de cambios en la frecuencia de las crisis. El apoyo espiritual que elija la persona puede seguir siendo importante, pero no debe retrasar una evaluación médica, sustituir un tratamiento necesario ni exponer a nadie a la coacción o a lesiones."
+    },
+    {
+      "type": "heading",
+      "text": "MITO Y REALIDAD"
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: un EEG normal demuestra que la persona finge"
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: un EEG rutinario puede ser normal en alguien con epilepsia, y las crisis funcionales son involuntarias. El diagnóstico depende de toda la evidencia clínica. «No epiléptico» no significa «irreal». [NICE NG217: diagnóstico y evaluación de la epilepsia](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy) [Hospitales Universitarios de Sheffield: qué son las crisis funcionales](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: todos los episodios llamados posesión son PNES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: posesión es una descripción cultural o religiosa, no un único síndrome médico. La epilepsia, las crisis funcionales, la disociación, los fenómenos del sueño y otras afecciones son posibilidades distintas. Algunas prácticas de trance aceptadas culturalmente tampoco son trastornos. Con estas pruebas no se puede atribuir responsablemente a las PNES un porcentaje universal de los relatos de posesión."
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: un vídeo viral de un exorcismo permite establecer el diagnóstico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: un vídeo puede omitir el inicio, la recuperación, los antecedentes médicos y las pruebas relevantes. Los movimientos dramáticos, una voz distinta o una aparente respuesta a un ritual no pueden establecer la causa por sí solos. Los vídeos clínicos pueden ayudar a especialistas cuando se usan junto con la historia y la evaluación; eso no equivale a diagnosticar a un desconocido a partir de imágenes públicas editadas. [Academia Estadounidense de Neurología: guía sobre crisis funcionales, diciembre de 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: hay que encontrar un trauma para que las crisis funcionales sean reales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: el trauma es pertinente para algunos pacientes, pero no es un requisito diagnóstico. Que una investigación encuentre una asociación no justifica inventar antecedentes traumáticos para alguien que no los refiere. [Ludwig y colaboradores: estrés y maltrato en el TNF, metaanálisis de 2018](https://pubmed.ncbi.nlm.nih.gov/29526521/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: mejorar con la oración o la tranquilidad demuestra cuál era la causa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: que el episodio termine después de una acción establece una secuencia, no una causa. Sin pruebas apropiadas, no permite distinguir entre recuperación espontánea, efectos de la tranquilidad u otros factores. Ni una mejoría espectacular ni un tratamiento fallido sirven de prueba teológica."
+    },
+    {
+      "type": "subheading",
+      "text": "Mito: respetar la fe significa evitar la medicina"
+    },
+    {
+      "type": "paragraph",
+      "text": "Realidad: una persona puede valorar el apoyo religioso y, al mismo tiempo, recibir atención neurológica y de salud mental. El respeto implica escuchar, proteger el consentimiento y evitar prácticas dañinas. Los profesionales pueden explicar las pruebas disponibles sin convertir la consulta en una discusión sobre toda la cosmovisión de la persona."
+    },
+    {
+      "type": "heading",
+      "text": "SI ALGUIEN TIENE UN EPISODIO PARECIDO A UNA CRISIS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prioriza la seguridad, no intentes decidir si el episodio es epiléptico, funcional o espiritual. Quédate con la persona, aparta los objetos peligrosos, pon algo blando bajo su cabeza si está en el suelo y cronometra el episodio. No la sujetes, no le metas objetos en la boca ni le des comida o bebida hasta que esté completamente alerta. Cuando sea posible, gírala con cuidado de lado para mantener despejadas las vías respiratorias. [CDC: primeros auxilios ante una crisis epiléptica](https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Busca ayuda de emergencia si es la primera crisis, dura más de cinco minutos, hay crisis repetidas sin recuperación, dificultad para respirar, una lesión grave o se produce en el agua. La confusión repentina o una enfermedad grave también requieren evaluación urgente. Quienes tengan un diagnóstico confirmado deberían contar con un plan de respuesta individual. No se debe negar ayuda por suponer que el episodio es funcional. [CDC: primeros auxilios ante una crisis epiléptica](https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html) [NHS: confusión repentina y delirium](https://www.nhs.uk/symptoms/confusion/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen principal es una ilustración conceptual, no un episodio clínico documentado ni una prueba diagnóstica. Este artículo explica principios generales y no puede identificar la causa de los síntomas de una persona concreta."
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ PUEDE Y QUÉ NO PUEDE CONCLUIR LA CIENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia puede comprobar afirmaciones específicas y medibles sobre la actividad cerebral, el ritmo cardíaco, el sueño, el metabolismo, la conducta y los procesos psicológicos. Puede identificar afecciones reconocidas, evaluar explicaciones alternativas e investigar tratamientos. También puede señalar las limitaciones de una prueba o la incertidumbre de un diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Que falte una explicación no constituye prueba positiva de una causa sobrenatural. Del mismo modo, el EEG no es un instrumento teológico: no pone a prueba una religión entera ni resuelve todas las cuestiones metafísicas. Explicar un mecanismo médico y formular una afirmación filosófica sobre el universo son tareas distintas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La conclusión más responsable empieza por la persona que necesita ayuda. Toma en serio su experiencia, investígala con cuidado y expresa los límites de las pruebas. Respetar las creencias no debe exigir descuidar una enfermedad. La cautela científica nunca debe servir de excusa para desestimar el sufrimiento."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Oxford Academic: ideas sobre la posesión en el antiguo Egipto y Mesopotamia",
+      "url": "https://academic.oup.com/book/58134/chapter-abstract/480188989"
+    },
+    {
+      "label": "Frederick M. Smith: The Self Possessed, Columbia University Press",
+      "url": "https://www.jstor.org/stable/10.7312/smit13748"
+    },
+    {
+      "label": "Posesión por zār en Irán y países africanos: revisión cultural",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4801492/"
+    },
+    {
+      "label": "Lim y colaboradores: atribución de síntomas psicóticos a los yinn, revisión de 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25080427/"
+    },
+    {
+      "label": "Conferencia Episcopal de Estados Unidos: exorcismo y evaluación médica, diciembre de 2014",
+      "url": "https://www.usccb.org/resources/newsletter-2014-12.pdf"
+    },
+    {
+      "label": "Bhavsar y colaboradores: trance disociativo y posesión espiritual, 2016",
+      "url": "https://doi.org/10.1111/pcn.12425"
+    },
+    {
+      "label": "Hospitales Universitarios de Sheffield: qué son las crisis funcionales",
+      "url": "https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/"
+    },
+    {
+      "label": "Hallett y colaboradores: trastorno neurológico funcional, revisión de 2022",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/"
+    },
+    {
+      "label": "NIH: comprender la epilepsia, febrero de 2026",
+      "url": "https://newsinhealth.nih.gov/2026/02/understanding-epilepsy"
+    },
+    {
+      "label": "NINDS: epilepsia y crisis epilépticas",
+      "url": "https://www.ninds.nih.gov/node/647"
+    },
+    {
+      "label": "NHS: trastornos disociativos",
+      "url": "https://www.nhs.uk/mental-health/conditions/dissociative-disorders/"
+    },
+    {
+      "label": "Ludwig y colaboradores: estrés y maltrato en el TNF, metaanálisis de 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29526521/"
+    },
+    {
+      "label": "NIMH: trastorno de pánico",
+      "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms"
+    },
+    {
+      "label": "NHS: parálisis del sueño",
+      "url": "https://www.nhs.uk/conditions/sleep-paralysis/"
+    },
+    {
+      "label": "ILAE EpilepsyDiagnosis.org: imitadores de la epilepsia",
+      "url": "https://www.epilepsydiagnosis.org/epilepsy-imitators.html"
+    },
+    {
+      "label": "NHS: confusión repentina y delirium",
+      "url": "https://www.nhs.uk/symptoms/confusion/"
+    },
+    {
+      "label": "NHS: síntomas de encefalitis",
+      "url": "https://www.nhs.uk/conditions/encephalitis/symptoms/"
+    },
+    {
+      "label": "NHS: psicosis",
+      "url": "https://www.nhs.uk/mental-health/conditions/psychosis/overview/"
+    },
+    {
+      "label": "NICE NG217: diagnóstico y evaluación de la epilepsia",
+      "url": "https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy"
+    },
+    {
+      "label": "Whitehead y colaboradores: buenas prácticas de vídeo-EEG, 2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/"
+    },
+    {
+      "label": "Academia Estadounidense de Neurología: guía sobre crisis funcionales, diciembre de 2025",
+      "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000214466"
+    },
+    {
+      "label": "Bajestan y LaFrance: enfoques clínicos para las crisis no epilépticas psicógenas",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/"
+    },
+    {
+      "label": "Fobian y Elliott: modelos de síntomas neurológicos funcionales, 2018",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6306282/"
+    },
+    {
+      "label": "ILAE: crisis psicógenas, diagnóstico, tratamiento y estigma",
+      "url": "https://www.ilae.org/journals/epigraph/epigraph-vol-21-issue-2-spring-2019/inside-the-world-of-psychogenic-seizures-diagnosis-treatment-and-stigma"
+    },
+    {
+      "label": "Goldstein y colaboradores: ensayo aleatorizado CODES, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32445688/"
+    },
+    {
+      "label": "CDC: primeros auxilios ante una crisis epiléptica",
+      "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html"
+    },
+    {
+      "label": "Fundación para la Epilepsia: diagnóstico de imitadores de la epilepsia",
+      "url": "https://www.epilepsy.com/diagnosis/imitators-epilepsy"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué son las crisis no epilépticas psicógenas o PNES?",
+      "answer": "Las PNES, también llamadas crisis funcionales, son episodios reales e involuntarios con cambios en el movimiento, la capacidad de responder o la conciencia. Se parecen a las crisis epilépticas, pero no se generan mediante actividad eléctrica epiléptica."
+    },
+    {
+      "question": "¿Un EEG rutinario normal demuestra que hay PNES?",
+      "answer": "No. El EEG rutinario puede ser normal en una persona con epilepsia. Las crisis funcionales requieren indicios clínicos positivos y una evaluación de otras explicaciones, a menudo respaldada por la grabación en vídeo-EEG de un episodio habitual."
+    },
+    {
+      "question": "¿Puede alguien tener a la vez epilepsia y crisis funcionales?",
+      "answer": "Sí. Pueden coexistir, por lo que los profesionales deben evaluar los distintos tipos de episodio y planificar la atención para cada uno, en vez de suponer que un solo diagnóstico los explica todos."
+    },
+    {
+      "question": "¿El vídeo-EEG siempre da una respuesta definitiva?",
+      "answer": "Puede aportar pruebas sólidas si registra un episodio habitual, pero es esencial que lo interprete un especialista. Algunas crisis epilépticas no producen una señal clara en el EEG de superficie y la prueba quizá no llegue a captar un episodio habitual."
+    },
+    {
+      "question": "¿Las crisis funcionales son consecuencia de un trauma?",
+      "answer": "El trauma o el sufrimiento intenso pueden ser pertinentes, pero no todas las personas refieren esas experiencias. El trauma no es necesario para el diagnóstico, y una asociación observada en un grupo no establece la causa de una persona."
+    },
+    {
+      "question": "¿La parálisis del sueño puede sentirse como una presencia sobrenatural?",
+      "answer": "Sí. La parálisis del sueño puede impedir moverse o hablar y provocar la sensación aterradora de una presencia al dormirse o despertar. La experiencia es real para la persona, pero su interpretación no demuestra una causa sobrenatural."
+    },
+    {
+      "question": "¿Puede la medicina demostrar o refutar la posesión?",
+      "answer": "La medicina puede evaluar explicaciones neurológicas, fisiológicas y psicológicas concretas de los síntomas. No tiene una prueba diagnóstica para la posesión. La falta de una explicación inmediata no prueba una causa sobrenatural, y las pruebas médicas no resuelven las creencias religiosas."
+    }
+  ]
+}

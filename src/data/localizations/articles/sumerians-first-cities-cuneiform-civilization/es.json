@@ -1,0 +1,566 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/sumerians-first-cities-cuneiform-civilization/",
+  "path": "/es/articles/sumerians-first-cities-cuneiform-civilization/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "SUMERIOS: CÓMO LAS PRIMERAS CIUDADES TRANSFORMARON LA CIVILIZACIÓN HUMANA",
+  "excerpt": "De los asentamientos fluviales a poderosas ciudades-Estado: cómo la escritura, las instituciones y los relatos del antiguo Sumer transformaron el mundo humano.",
+  "headlineHighlights": {
+    "red": "SUMERIOS",
+    "gold": "PRIMERAS CIUDADES"
+  },
+  "seoTitle": "Sumerios: primeras ciudades, escritura cuneiforme y legado",
+  "description": "Historia de Sumer: Uruk, escritura cuneiforme, Gilgamesh, Acad y Ur. Qué aportaron los sumerios y qué mitos modernos no respalda la evidencia.",
+  "keywords": [
+    "sumerios historia",
+    "civilización sumeria",
+    "escritura cuneiforme",
+    "Uruk primeras ciudades",
+    "inventos sumerios"
+  ],
+  "searchIntent": "Conocer la historia de Sumer y sus ciudades, distinguir lengua y escritura, y valorar sus aportaciones e interpretaciones arqueológicas sin mitos de invenciones exclusivas o extraterrestres.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-22",
+  "updatedAt": "2026-09-22",
+  "image": {
+    "src": "/articles/SUMERIANS-mesopotamia-epic-gilgamesh-akkad.png",
+    "alt": "Reconstrucción editorial de una ciudad mesopotámica antigua con canales, un zigurat escalonado y una figura real esculpida"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Una pequeña tablilla de arcilla puede contar una historia más amplia que un monumento real. Alguien recibió grano. Alguien lo contó. Alguien dejó un registro que otra persona podía comprobar. En el sur de Mesopotamia, esos actos corrientes ayudaron a crear una posibilidad extraordinaria: una ciudad podía organizar personas y recursos más allá de los límites de la memoria individual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sumerios estuvieron entre quienes construyeron aquel mundo urbano. En el sur del actual Irak, las ciudades se convirtieron en centros de gobierno, culto, producción e intercambio. Allí se desarrolló la escritura, mientras las instituciones aprendían a gestionar campos, trabajadores y bienes a una escala creciente. Estos logros surgieron durante siglos, no de un único inventor ni de una civilización aparecida sin predecesores. [Getty: Mesopotamia, los comienzos de la civilización](https://www.getty.edu/art/exhibitions/mesopotamia/explore.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su historia también es menos ordenada de lo que sugiere la conocida expresión «la primera civilización». Sumer no fue siempre un solo reino, su población no estaba culturalmente aislada y su declive político no borró su lengua ni sus conocimientos. Para entender su influencia hay que seguir a las ciudades, a las personas que las sostenían y a los registros que dejaron."
+    },
+    {
+      "type": "heading",
+      "text": "¿QUIÉNES FUERON LOS SUMERIOS Y DÓNDE ESTABA SUMER?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sumer designa la parte meridional de la antigua Mesopotamia, la región asociada al Tigris y al Éufrates. Era un paisaje de brazos fluviales, tierras cultivadas, asentamientos y vías de agua, no una franja desértica inmutable. Los cauces y los patrones de asentamiento cambiaron. Los mapas modernos no pueden proyectarse sin más sobre todos los periodos del pasado. [ISAC de la Universidad de Chicago: Irak y Mesopotamia](https://isac.uchicago.edu/explore-oi/iraq)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sumerio es el nombre de una lengua sin parientes demostrados, descrita a menudo como lengua aislada. Eso no significa que sus hablantes procedieran de un origen extraterrestre o inexplicable. Significa que los lingüistas no han establecido un parentesco genético con otra familia lingüística. Las culturas arqueológicas, las lenguas y las poblaciones biológicas son categorías de evidencia distintas. [ETCSL de Oxford: lengua sumeria](https://etcsl.orinst.ox.ac.uk/edition2/language.php)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los hablantes de sumerio y acadio vivían en una misma región más amplia. El acadio era una lengua semítica no emparentada con el sumerio, pero sus hablantes interactuaron durante mucho tiempo. La historia no puede reducirse a dos bloques étnicos cerrados que esperaban enfrentarse. [Universidad de Cambridge: lenguas mesopotámicas](https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-history/mesopotamia-languages)"
+    },
+    {
+      "type": "subheading",
+      "text": "El agua hizo posibles las ciudades, pero exigía trabajo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La agricultura del sur dependía de gestionar el agua. Los canales ayudaban a llevarla a los campos y conectaban asentamientos. Mantenerlos y coordinar el acceso requería trabajo continuo; el regadío era tanto una institución como una técnica de ingeniería. Los estudios de asentamientos de Robert McC. Adams siguen las relaciones cambiantes entre agricultura, vías de agua y crecimiento urbano, no un instante único en que el regadío supuestamente creara el gobierno. [Robert McC. Adams: Heartland of Cities](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ríos no constituían toda la economía. La investigación en Lagash destaca un entorno que combinaba tierras cultivadas y marismas. El pescado, los juncos y otros recursos de los humedales complican la imagen de una civilización sostenida solo por campos de cereal. Una ciudad descansaba sobre un paisaje productivo diverso más allá de sus murallas. [Museo Penn: proyecto arqueológico de Lagash](https://www.penn.museum/research/project.php?pid=219)"
+    },
+    {
+      "type": "heading",
+      "text": "ANTES DE LAS GRANDES CIUDADES: ERIDU Y EL MUNDO DE EL OBEID"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia urbana tenía raíces profundas. Durante el periodo de El Obeid, o Ubaid, que el Museo Metropolitano fecha de manera amplia hacia 5500–4000 a. C., crecieron los asentamientos y se difundieron formas compartidas de cultura material. Eridu conserva una importante secuencia de edificios religiosos tempranos. Estas comunidades precedieron a la gran expansión asociada a Uruk. [El Met: periodo de El Obeid](https://www.metmuseum.org/essays/the-ubaid-period-5500-4000-b-c)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Resulta tentador asignar una etiqueta étnica moderna a cada vasija o edificio prehistórico. Normalmente la arqueología no puede establecer la lengua de personas que no dejaron textos legibles. «El Obeid» es una denominación arqueológica, no una identidad nacional documentada con seguridad. La transición hacia una sociedad urbana de habla sumeria sigue siendo una cuestión investigada mediante varias clases de evidencia, no una historia migratoria resuelta por un único objeto. [El Met: periodo de El Obeid](https://www.metmuseum.org/essays/the-ubaid-period-5500-4000-b-c) [ETCSL de Oxford: lengua sumeria](https://etcsl.orinst.ox.ac.uk/edition2/language.php)"
+    },
+    {
+      "type": "heading",
+      "text": "URUK Y EL ASCENSO DE LAS PRIMERAS GRANDES CIUDADES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hacia 3200 a. C., Uruk era un centro urbano excepcionalmente grande, el mayor del sur de Mesopotamia según el Met. Los edificios monumentales de adobe y las superficies decoradas hacían visible la autoridad institucional. La escala de la construcción implica suministros coordinados, trabajo especializado y mano de obra más allá de un hogar. [El Met: Uruk, la primera ciudad](https://www.metmuseum.org/essays/uruk-the-first-city)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una ciudad era más que una aldea ampliada. Concentraba actividades y conectaba a personas que no producían todas su propia comida. Sus instituciones necesitaban reunir recursos y distribuirlos. Las primeras tablillas administrativas hacen tangible esa organización, aunque no revelen toda la experiencia de las personas contabilizadas. [Getty: Mesopotamia, los comienzos de la civilización](https://www.getty.edu/art/exhibitions/mesopotamia/explore.html) [El Met: orígenes de la escritura](https://www.metmuseum.org/essays/the-origins-of-writing)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Fue Sumer la primera civilización?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Llamar a Sumer una de las primeras civilizaciones urbanas está bien fundamentado. Considerarla la primera en términos absolutos depende de qué mida «civilización»: ciudades, escritura, Estados, construcción monumental o especialización social. Esos desarrollos no comenzaron todos en el mismo instante ni en el mismo lugar. La importancia de Uruk no exige negar lo que ocurrió en otras regiones. [El Met: Uruk, la primera ciudad](https://www.metmuseum.org/essays/uruk-the-first-city) [Getty: Mesopotamia, los comienzos de la civilización](https://www.getty.edu/art/exhibitions/mesopotamia/explore.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una comparación útil es la del [antiguo Egipto y la civilización del Nilo](/articles/ancient-egypt-pharaohs-nile-3000-years-history/). Comparar paisajes fluviales e instituciones resulta más esclarecedor que conceder un único trofeo. «Civilización» debería describir formas históricas de organización, no clasificar el valor humano de los pueblos urbanos y no urbanos."
+    },
+    {
+      "type": "heading",
+      "text": "UN MUNDO DE CIUDADES-ESTADO: UR, LAGASH, ERIDU Y NIPPUR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante el periodo Dinástico Arcaico, aproximadamente 2900–2350 a. C. en la cronología del Met, el sur de Mesopotamia estaba formado por ciudades-Estado rivales. Una ciudad-Estado incluía el territorio circundante, no solo su núcleo edificado. Las fronteras políticas se desplazaban mientras los gobernantes competían por influencia y recursos. [El Met: periodo acadio](https://www.metmuseum.org/essays/the-akkadian-period-ca-2350-2150-b-c)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ur quedó estrechamente asociada al dios lunar Nanna. Sus monumentos conservados y las viviendas excavadas muestran distintos aspectos de una ciudad ocupada durante muchos periodos. Los edificios visibles en un yacimiento no tienen por qué pertenecer todos al mismo siglo, una precaución esencial al reconstruir la «vida sumeria». [Museo Penn: ciudad de la Luna](https://www.penn.museum/sites/expedition/city-of-the-moon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lagash pertenecía a un sistema regional más amplio que incluía Girsu, importante centro religioso y administrativo. Eridu conservó su relevancia religiosa más allá de su historia como asentamiento temprano. La importancia de Nippur estaba especialmente ligada a Enlil y su santuario, el Ekur: el prestigio religioso no exigía que una ciudad fuera la capital política permanente del sur. [Museo Penn: colaboradores en la búsqueda del pasado](https://www.penn.museum/sites/expedition/partners-in-search-of-the-past/) [ORACC: Enlil](https://oracc.museum.upenn.edu/amgg/listofdeities/enlil/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Reyes, sacerdotes y quienes hacían funcionar las ciudades"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los monumentos reales destacan a gobernantes y dioses. Los registros administrativos revelan otra perspectiva: obligaciones, entregas y organización del trabajo. Los agricultores sostenían el abastecimiento; los artesanos fabricaban tejidos, recipientes y otros bienes; los comerciantes transportaban materiales; los escribas daban permanencia a las transacciones institucionales. Ni una estatua ni una tablilla contable representan imparcialmente a la sociedad. [El Met: arte del antiguo Próximo Oriente, recurso para docentes](https://resources.metmuseum.org/resources/metpublications/pdf/Art_of_the_Ancient_Near_East_A_Resource_for_Educators.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las instituciones de los templos combinaban responsabilidades religiosas y materiales, mientras el poder real cambiaba con el tiempo. Sería engañoso imaginar un sistema inmutable en el que cada campo y cada hogar pertenecían a un solo sacerdote. Distintos registros conservan distintas relaciones entre hogares, gobernantes y grandes instituciones. [Robert McC. Adams: Heartland of Cities](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf) [El Met: arte del antiguo Próximo Oriente, recurso para docentes](https://resources.metmuseum.org/resources/metpublications/pdf/Art_of_the_Ancient_Near_East_A_Resource_for_Educators.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Qué era un zigurat?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un zigurat era una plataforma monumental escalonada vinculada a un complejo sagrado. Plataformas elevadas anteriores precedieron a los ejemplos más conocidos. Hacia 2100 a. C., Ur-Namma promovió zigurats en ciudades como Ur, Uruk, Eridu y Nippur. Su significado simbólico preciso sigue siendo debatido. [El Met: Ur y su zigurat](https://www.metmuseum.org/essays/ur-the-ziggurat)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El famoso zigurat de Ur no se ha conservado intacto. Sus niveles superiores se perdieron y partes del monumento han sido reconstruidas o restauradas. Tampoco era una tumba real como las asociadas a las [pirámides egipcias](/articles/history-of-egyptian-pyramids/). Una monumentalidad parecida no demuestra una finalidad idéntica. [El Met: Ur y su zigurat](https://www.metmuseum.org/essays/ur-the-ziggurat)"
+    },
+    {
+      "type": "heading",
+      "text": "CÓMO LA ESCRITURA PASÓ DE LAS CUENTAS A LA LITERATURA"
+    },
+    {
+      "type": "subheading",
+      "text": "Las primeras tablillas no eran novelas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tablillas de finales del cuarto milenio de Uruk registran productos y cantidades. Estos primeros signos suelen llamarse protocuneiformes. Algunos se parecen a objetos; otros son abstractos. Su relación con la lengua hablada no siempre puede recuperarse, por lo que identificar cada tablilla temprana como sumerio plenamente legible va más allá de la evidencia. [El Met: orígenes de la escritura](https://www.metmuseum.org/essays/the-origins-of-writing)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Con el tiempo, la escritura pudo representar mejor la lengua, incluidos sonidos además de cosas. Eso abrió posibilidades más allá de la contabilidad: nombres, enunciados, cartas y, finalmente, literatura compleja. Fue un desarrollo gradual, no un salto del dibujo al alfabeto. [El Met: orígenes de la escritura](https://www.metmuseum.org/essays/the-origins-of-writing)"
+    },
+    {
+      "type": "subheading",
+      "text": "La escritura cuneiforme era un sistema gráfico, no una lengua"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cálamo presionado sobre arcilla producía las marcas características en forma de cuña de la escritura cuneiforme. Distintas lenguas podían utilizar ese sistema, del mismo modo que varias lenguas modernas comparten un alfabeto. Sumerio y acadio no eran dos nombres de una misma lengua, y el cuneiforme no era una tercera lengua junto a ellas. [Museo Británico: cómo escribir en cuneiforme](https://www.britishmuseum.org/blog/how-write-cuneiform)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aprender a leer y escribir requería conocimientos especializados. El corpus literario sumerio conservado incluye himnos, narraciones, proverbios y otras composiciones transmitidas por tradiciones de escribas. Muchos manuscritos son posteriores a los periodos que describen. Un texto sobre un rey antiguo no es automáticamente un testimonio contemporáneo de su reinado. [Oxford: corpus electrónico de literatura sumeria](https://etcsl.orinst.ox.ac.uk/)"
+    },
+    {
+      "type": "heading",
+      "text": "COMERCIO, MATEMÁTICAS Y LA CIUDAD PRÁCTICA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ciudades necesitaban materiales que no existían en su entorno inmediato. Los objetos mesopotámicos combinan recursos locales con piedra y metales importados, conectando a las comunidades del sur con redes más amplias. Los objetos de lujo hacen visibles esos vínculos, pero el comercio también respondía de forma práctica a una distribución desigual de los recursos. [El Met: arte del antiguo Próximo Oriente, recurso para docentes](https://resources.metmuseum.org/resources/metpublications/pdf/Art_of_the_Ancient_Near_East_A_Resource_for_Educators.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contar no era un mero pasatiempo intelectual. Las instituciones debían medir bienes y organizar transacciones. En las matemáticas del tercer milenio se produjeron avances importantes del número abstracto y de la notación sexagesimal, o de base 60. El historiador especializado Duncan Melville subraya tanto la riqueza como las lagunas de la evidencia conservada. [Duncan J. Melville: matemáticas del tercer milenio](https://myslu.stlawu.edu/~dmel/mesomath/3mill/index.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las matemáticas babilónicas posteriores desarrollaron aún más esas tradiciones. Por eso es demasiado simple atribuir a «los sumerios» todas las prácticas matemáticas conocidas por tablillas mesopotámicas mucho más tardías. Nuestra asociación habitual del 60 con el tiempo pertenece a una larga historia de transmisión, no demuestra que en Uruk se inventara el reloj moderno. [Duncan J. Melville: matemáticas del tercer milenio](https://myslu.stlawu.edu/~dmel/mesomath/3mill/index.html)"
+    },
+    {
+      "type": "heading",
+      "text": "RELIGIÓN SUMERIA: DIOSES CON CIUDADES E HISTORIAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La religión conectaba el orden cósmico, la identidad local y la legitimidad política. Enlil estaba especialmente asociado a Nippur. Su santuario siguió siendo importante para gobernantes de dinastías cambiantes, mostrando que la geografía sagrada podía sobrevivir a un régimen político. [ORACC: Enlil](https://oracc.museum.upenn.edu/amgg/listofdeities/enlil/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enki, asociado a Eridu, estaba vinculado a la sabiduría y al agua dulce. En tradiciones acadias posteriores se lo conoció como Ea. Estas correspondencias muestran continuidad y reinterpretación, no un único sistema religioso congelado durante toda la historia mesopotámica. [ORACC: Enki/Ea](https://oracc.museum.upenn.edu/amgg/listofdeities/enki/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inanna, vinculada al amor y a la guerra, quedó estrechamente identificada con la Ishtar acadia. Las divinidades antiguas podían abarcar varios ámbitos que no encajan en un esquema moderno ordenado de un dios para cada actividad. Los mitos y cultos también variaban según el lugar y la época. [ORACC: Inanna/Ishtar](https://oracc.museum.upenn.edu/amgg/listofdeities/inanaitar/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "An era una importante divinidad celeste, mientras que Nanna era el dios lunar asociado a Ur. Comprender estas figuras comienza con textos, objetos y contextos rituales. Los relatos religiosos muestran cómo los antiguos imaginaban el poder y el cosmos; no son informes directos de acontecimientos físicos. [Museo Penn: ciudad de la Luna](https://www.penn.museum/sites/expedition/city-of-the-moon/) [Oxford: corpus electrónico de literatura sumeria](https://etcsl.orinst.ox.ac.uk/)"
+    },
+    {
+      "type": "heading",
+      "text": "GILGAMESH: REY, LEYENDA Y VIDA LITERARIA POSTERIOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gilgamesh está asociado a Uruk, y los especialistas han considerado la posibilidad de un rey histórico detrás de la tradición. Las aventuras detalladas no constituyen una biografía verificada. Hay que distinguir entre una posible persona histórica y un héroe literario. [El Met: Uruk, la primera ciudad](https://www.metmuseum.org/essays/uruk-the-first-city)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los poemas sumerios conservan relatos independientes sobre Gilgamesh. En la composición llamada convencionalmente Gilgamesh y Huwawa, la expedición del héroe se enfrenta a un poderoso guardián. El corpus académico de Oxford presenta el texto como una composición antigua traducida y deja visibles, en vez de ocultarlos, los pasajes dañados y las incertidumbres editoriales. [ETCSL de Oxford: Gilgamesh y Huwawa, versión A](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.8.1.5)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conocida Epopeya de Gilgamesh es una obra literaria acadia con una larga historia de desarrollo, que recoge tradiciones anteriores pero no es idéntica a los poemas sumerios conservados. La amistad, la pérdida y los límites de la vida humana le dan una fuerza emocional duradera. Llamar a toda la epopeya conservada un único libro sumerio escrito por Gilgamesh oculta su transmisión. [Universidad de Chicago: viaje a la ciudad de los dioses](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oimp36.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tablilla del diluvio del Museo Británico pertenece a la tradición épica acadia posterior. Su conservación ilustra cómo las historias atravesaban siglos mediante la copia. Las semejanzas entre relatos antiguos de inundaciones invitan a compararlos históricamente, pero no demuestran por sí solas que todos los detalles describan una única catástrofe recuperable. [Museo Británico: tablilla del diluvio](https://www.britishmuseum.org/collection/object/W_K-3375)"
+    },
+    {
+      "type": "heading",
+      "text": "RIVALIDAD, GUERRA Y SARGÓN DE ACAD"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ciudades no formaban una federación pacífica de inventores. La rivalidad podía conducir a la conquista. Las historias de Lagash, Umma y Uruk revelan luchas por el poder regional, que culminaron en la expansión más amplia asociada a Lugalzagesi y, después, a Sargón. [Museo Penn: colaboradores en la búsqueda del pasado](https://www.penn.museum/sites/expedition/partners-in-search-of-the-past/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El objeto conocido como Estandarte de Ur representa guerra, cautivos y ostentación de las élites. Su nombre moderno no demuestra que funcionara como bandera de batalla. También es una representación de la élite, no una fotografía neutral del combate o del orden social. [Museo Británico: Estandarte de Ur](https://www.britishmuseum.org/collection/object/W_1928-1010-3)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el siglo XXIII a. C., las conquistas de Sargón sometieron las ciudades del sur a la dinastía acadia. Sus sucesores ampliaron y consolidaron el poder imperial. La capital, Acad, no se ha localizado con seguridad: incluso un imperio famoso puede dejar grandes preguntas arqueológicas sin resolver. [El Met: periodo acadio](https://www.metmuseum.org/essays/the-akkadian-period-ca-2350-2150-b-c)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conquista no hizo desaparecer de repente la cultura sumeria. Cambió la autoridad política dentro de una región ya conectada por el contacto lingüístico, las instituciones y los intercambios. Los gobernantes acadios posteriores perdieron territorios y los poderes locales se reafirmaron mientras el imperio se fragmentaba. [El Met: periodo acadio](https://www.metmuseum.org/essays/the-akkadian-period-ca-2350-2150-b-c)"
+    },
+    {
+      "type": "heading",
+      "text": "EL RENACIMIENTO NEOSUMERIO Y LA TERCERA DINASTÍA DE UR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al final del dominio acadio siguieron poderes regionales renovados y, finalmente, la Tercera Dinastía de Ur, a menudo llamada Ur III. Sus fechas convencionales son aproximadamente 2112–2004 a. C. La cronología antigua se reconstruye y los distintos sistemas académicos pueden situar los reinados de maneras diferentes; estas fechas son un marco útil, no marcas temporales de precisión moderna. [El Met: sello cilíndrico neosumerio del periodo de Ur III](https://www.metmuseum.org/art/collection/search/323879)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ur-Namma y sus sucesores, especialmente Shulgi, gobernaron un Estado cuya documentación conservada hace excepcionalmente visible la administración. «Neosumerio» describe un periodo histórico y un énfasis cultural. No debe sugerir el regreso de una población supuestamente pura después de desaparecer. Sumer y Acad siguieron conectados. [El Met: sello cilíndrico neosumerio del periodo de Ur III](https://www.metmuseum.org/art/collection/search/323879) [CDLI: texto compuesto de las leyes de Ur-Namma](https://cdli.earth/inscriptions/2234943)"
+    },
+    {
+      "type": "subheading",
+      "text": "Las primeras leyes y las pretensiones reales de justicia"
+    },
+    {
+      "type": "paragraph",
+      "text": "La colección legal asociada a Ur-Namma pertenece a ese mundo. Es anterior a Hammurabi, aunque su atribución y transmisión requieren cuidado académico, incluido el debate sobre el papel de Shulgi. La edición de Martha Roth la sitúa dentro de una tradición mucho más larga de colecciones legales mesopotámicas. [Martha T. Roth: colecciones legales de Mesopotamia y Asia Menor](https://www.jstor.org/stable/jj.25577265)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El texto conservado combina una presentación real con disposiciones jurídicas. No es un código moderno completo ni demuestra que antes se resolvieran las disputas sin reglas. Su importancia reside en conservar una formulación escrita temprana de justicia y autoridad. La edición de CDLI también muestra daños y reconstrucciones, recordando que los textos antiguos nos llegan mediante una minuciosa labor académica. [CDLI: texto compuesto de las leyes de Ur-Namma](https://cdli.earth/inscriptions/2234943)"
+    },
+    {
+      "type": "heading",
+      "text": "¿POR QUÉ DESAPARECIÓ EL PODER POLÍTICO SUMERIO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ur III terminó entre fragmentación política y conflictos externos hacia comienzos del segundo milenio a. C. Le siguieron nuevos reinos regionales. Fue el derrumbe de un Estado, no la desaparición de todas las ciudades meridionales o sus habitantes. La unidad administrativa de un imperio puede terminar mientras continúan muchas prácticas locales. [El Met: sellos del antiguo Próximo Oriente](https://resources.metmuseum.org/resources/metpublications/pdf/Ancient_Art_in_Miniature_Ancient_Near_Eastern_Seals_from_the_Collection_of_Martin_and_Sarah_Cherkask.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ningún lema único explica adecuadamente la transformación más amplia. Hay que distinguir la guerra y los cambios de control político de las variaciones a largo plazo en asentamiento, regadío y lengua. Las presiones ambientales son cuestiones de investigación pertinentes, pero atribuir todo cambio a sequía, salinidad o invasión convierte una historia regional compleja en un relato de causa única. [Robert McC. Adams: Heartland of Cities](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf) [El Met: sellos del antiguo Próximo Oriente](https://resources.metmuseum.org/resources/metpublications/pdf/Ancient_Art_in_Miniature_Ancient_Near_Eastern_Seals_from_the_Collection_of_Martin_and_Sarah_Cherkask.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sumerio dejó gradualmente de ser una lengua cotidiana hablada, aunque siguen debatiéndose el momento y el alcance de esa transición. Continuó como lengua culta. El declive político, el cambio lingüístico y la desaparición cultural no son acontecimientos intercambiables. [ETCSL de Oxford: lengua sumeria](https://etcsl.orinst.ox.ac.uk/edition2/language.php)"
+    },
+    {
+      "type": "heading",
+      "text": "EL LEGADO SUMERIO EN BABILONIA Y ASIRIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El babilonio y el asirio eran variedades del acadio. Sus hablantes heredaron y transformaron tradiciones que incluían el saber sumerio y la escritura cuneiforme. Los escribas podían estudiar una lengua que ya no se usaba en la conversación corriente porque conservaba importancia religiosa y erudita. [Universidad de Cambridge: lenguas mesopotámicas](https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-history/mesopotamia-languages)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los mercaderes asirios y sus registros muestran una sociedad posterior con instituciones y redes propias, no una simple continuación de Sumer con otro nombre. La evidencia paleoasiria resulta especialmente útil para observar cómo la escritura servía a las relaciones comerciales más allá de las ciudades del sur. [El Met: periodo paleoasirio](https://www.metmuseum.org/essays/the-old-assyrian-period)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mucho después, la biblioteca asociada a Asurbanipal en Nínive reunió obras eruditas y literarias en un entorno real asirio. Conservarlas dependía de seleccionar y copiar, lo que también implicaba reinterpretar. La supervivencia de la literatura mesopotámica es una historia de lectores y escribas tanto como de autores. [Museo Británico: una biblioteca digna de un rey](https://www.britishmuseum.org/blog/library-fit-king)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La región acabaría integrándose en sistemas imperiales todavía más amplios, incluido el [Imperio persa aqueménida](/articles/persian-empire-cyrus-great-achaemenid-history/). El legado de Sumer perduró a través de mundos políticos cambiantes, no mediante un Estado sumerio ininterrumpido."
+    },
+    {
+      "type": "heading",
+      "text": "¿QUÉ INVENTARON REALMENTE LOS SUMERIOS?"
+    },
+    {
+      "type": "subheading",
+      "text": "Escritura y administración urbana: evidencia excepcionalmente sólida"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sur de Mesopotamia conserva algunas de las pruebas más tempranas de escritura y grandes instituciones urbanas. La afirmación más sólida es concreta: el registro de Uruk documenta un sistema temprano para registrar bienes y organizar actividades complejas. No demuestra que un sumerio identificable inventara toda la escritura en todas partes. [El Met: orígenes de la escritura](https://www.metmuseum.org/essays/the-origins-of-writing)"
+    },
+    {
+      "type": "subheading",
+      "text": "Matemáticas y leyes: grandes aportaciones desarrolladas con el tiempo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las sociedades de habla sumeria participaron en el desarrollo de una administración numérica sofisticada y de primeras colecciones legales escritas. Los eruditos mesopotámicos posteriores ampliaron esas tradiciones. La distinción importa: un logro documentado en las matemáticas paleobabilónicas no debe retrotraerse automáticamente a la primera ciudad sumeria. [Duncan J. Melville: matemáticas del tercer milenio](https://myslu.stlawu.edu/~dmel/mesomath/3mill/index.html) [Martha T. Roth: colecciones legales de Mesopotamia y Asia Menor](https://www.jstor.org/stable/jj.25577265)"
+    },
+    {
+      "type": "subheading",
+      "text": "La rueda: no se ha establecido un lugar de origen exclusivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La evidencia temprana de vehículos con ruedas aparece por Europa y el Próximo Oriente. Un estudio de Antiquity revisado por especialistas compara esos registros y sus dataciones. La evidencia no justifica atribuir con seguridad todos los aspectos de la tecnología de la rueda únicamente a Sumer. El torno de alfarero y el vehículo con ruedas también son tecnologías diferentes cuyas historias deben investigarse por separado. [Antiquity: primeros vehículos con ruedas en Europa y el Próximo Oriente](https://www.cambridge.org/core/journals/antiquity/article/abs/earliest-evidence-of-wheeled-vehicles-in-europe-and-the-near-east/4835B594180234DC116F6F0105771573)"
+    },
+    {
+      "type": "subheading",
+      "text": "Regadío, ciudades y literatura: transformar no es crear de la nada"
+    },
+    {
+      "type": "paragraph",
+      "text": "El regadío y los asentamientos tenían largas prehistorias. La escala y la organización de las ciudades meridionales son extraordinarias sin necesidad de suponer que las comunidades anteriores carecían de conocimientos técnicos. Del mismo modo, la literatura escrita conservada demuestra composición y transmisión literarias, no el comienzo de toda narración humana. [Robert McC. Adams: Heartland of Cities](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf) [Oxford: corpus electrónico de literatura sumeria](https://etcsl.orinst.ox.ac.uk/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una lista de inventos puede ocultar el logro más importante: combinar prácticas en instituciones duraderas. Registros, formación, transporte, producción y autoridad funcionaban juntos. Esa combinación cambió lo que las comunidades podían coordinar y, al mismo tiempo, creó nuevas formas de desigualdad y obligación."
+    },
+    {
+      "type": "heading",
+      "text": "MITO Y REALIDAD: LOS SUMERIOS"
+    },
+    {
+      "type": "subheading",
+      "text": "«Los Anunnaki eran extraterrestres»"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Anunna, citados a menudo como Anunnaki en el debate moderno, son un grupo de divinidades de las tradiciones mesopotámicas. Sus funciones y el uso del nombre varían entre textos y periodos. Los estudios especializados los sitúan dentro de la religión antigua. Las afirmaciones modernas sobre ingenieros alienígenas o un origen extraterrestre secreto de la humanidad no son traducciones establecidas de la evidencia sumeria. [ORACC: los Anunna, grupo de divinidades](https://oracc.museum.upenn.edu/amgg/listofdeities/anunna/)"
+    },
+    {
+      "type": "subheading",
+      "text": "«Su tecnología era demasiado avanzada para seres humanos»"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los edificios, objetos y tablillas administrativas excavados muestran materiales, trabajo y desarrollo histórico humanos. Las lagunas de nuestro conocimiento no aportan pruebas de una civilización avanzada desconocida. Una reconstrucción puede hacer que una ciudad parezca completa y espectacular; no puede sustituir al registro arqueológico. La imagen de cabecera de este artículo es una reconstrucción editorial, no una vista recuperada del antiguo Sumer."
+    },
+    {
+      "type": "subheading",
+      "text": "«Todas las tablillas cuneiformes confirman la misma historia oculta»"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los textos cuneiformes pertenecen a lenguas, siglos y géneros diferentes. Una cuenta, una inscripción real, un himno y un mito responden a preguntas distintas. Las ediciones académicas identifican signos dañados y lecturas inciertas. Las afirmaciones que omiten esas diferencias deben contrastarse con ediciones publicadas, no aceptarse porque muestren una fotografía de una tablilla. [Museo Británico: cómo escribir en cuneiforme](https://www.britishmuseum.org/blog/how-write-cuneiform) [CDLI: texto compuesto de las leyes de Ur-Namma](https://cdli.earth/inscriptions/2234943)"
+    },
+    {
+      "type": "subheading",
+      "text": "«Los sumerios desaparecieron sin explicación»"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus instituciones políticas cambiaron y su lengua perdió hablantes cotidianos, mientras sus tradiciones continuaban en sociedades posteriores. No hace falta inventar la desaparición repentina de todo un pueblo para explicar esa historia. La transmisión cultural suele verse con mayor claridad precisamente donde se ha roto la continuidad política. [ETCSL de Oxford: lengua sumeria](https://etcsl.orinst.ox.ac.uk/edition2/language.php) [Universidad de Cambridge: lenguas mesopotámicas](https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-history/mesopotamia-languages)"
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ SIGUEN IMPORTANDO LOS SUMERIOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia duradera no es que los sumerios lo inventaran todo. Es que sus ciudades hicieron posibles relaciones nuevas entre personas, recursos, autoridad y memoria. Un registro podía sobrevivir a quien lo había creado. Una escuela podía enseñar una lengua más allá de su vida cotidiana. Un relato podía viajar a otro reino y seguir hablando de amistad y muerte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquella herencia no fue progreso simple ni una edad de oro perdida. Las ciudades coordinaban el trabajo y concentraban poder; la escritura conservaba conocimientos y registraba obligaciones. Sumer importa porque su evidencia nos permite observar cómo tomaban forma esas posibilidades, con toda su creatividad y su coste."
+    }
+  ],
+  "sources": [
+    {
+      "label": "El Met: Uruk, la primera ciudad",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city"
+    },
+    {
+      "label": "Getty: Mesopotamia, los comienzos de la civilización",
+      "url": "https://www.getty.edu/art/exhibitions/mesopotamia/explore.html"
+    },
+    {
+      "label": "El Met: periodo de El Obeid",
+      "url": "https://www.metmuseum.org/essays/the-ubaid-period-5500-4000-b-c"
+    },
+    {
+      "label": "ISAC de la Universidad de Chicago: Irak y Mesopotamia",
+      "url": "https://isac.uchicago.edu/explore-oi/iraq"
+    },
+    {
+      "label": "Robert McC. Adams: Heartland of Cities",
+      "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf"
+    },
+    {
+      "label": "Museo Penn: proyecto arqueológico de Lagash",
+      "url": "https://www.penn.museum/research/project.php?pid=219"
+    },
+    {
+      "label": "Museo Penn: ciudad de la Luna",
+      "url": "https://www.penn.museum/sites/expedition/city-of-the-moon/"
+    },
+    {
+      "label": "El Met: Ur y su zigurat",
+      "url": "https://www.metmuseum.org/essays/ur-the-ziggurat"
+    },
+    {
+      "label": "El Met: orígenes de la escritura",
+      "url": "https://www.metmuseum.org/essays/the-origins-of-writing"
+    },
+    {
+      "label": "Museo Británico: cómo escribir en cuneiforme",
+      "url": "https://www.britishmuseum.org/blog/how-write-cuneiform"
+    },
+    {
+      "label": "Duncan J. Melville: matemáticas del tercer milenio",
+      "url": "https://myslu.stlawu.edu/~dmel/mesomath/3mill/index.html"
+    },
+    {
+      "label": "El Met: arte del antiguo Próximo Oriente, recurso para docentes",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Art_of_the_Ancient_Near_East_A_Resource_for_Educators.pdf"
+    },
+    {
+      "label": "ORACC: Enlil",
+      "url": "https://oracc.museum.upenn.edu/amgg/listofdeities/enlil/"
+    },
+    {
+      "label": "ORACC: Enki/Ea",
+      "url": "https://oracc.museum.upenn.edu/amgg/listofdeities/enki/"
+    },
+    {
+      "label": "ORACC: Inanna/Ishtar",
+      "url": "https://oracc.museum.upenn.edu/amgg/listofdeities/inanaitar/"
+    },
+    {
+      "label": "ETCSL de Oxford: Gilgamesh y Huwawa, versión A",
+      "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.8.1.5"
+    },
+    {
+      "label": "Universidad de Chicago: viaje a la ciudad de los dioses",
+      "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oimp36.pdf"
+    },
+    {
+      "label": "Museo Británico: tablilla del diluvio",
+      "url": "https://www.britishmuseum.org/collection/object/W_K-3375"
+    },
+    {
+      "label": "Museo Británico: Estandarte de Ur",
+      "url": "https://www.britishmuseum.org/collection/object/W_1928-1010-3"
+    },
+    {
+      "label": "El Met: periodo acadio",
+      "url": "https://www.metmuseum.org/essays/the-akkadian-period-ca-2350-2150-b-c"
+    },
+    {
+      "label": "El Met: sello cilíndrico neosumerio del periodo de Ur III",
+      "url": "https://www.metmuseum.org/art/collection/search/323879"
+    },
+    {
+      "label": "CDLI: texto compuesto de las leyes de Ur-Namma",
+      "url": "https://cdli.earth/inscriptions/2234943"
+    },
+    {
+      "label": "Martha T. Roth: colecciones legales de Mesopotamia y Asia Menor",
+      "url": "https://www.jstor.org/stable/jj.25577265"
+    },
+    {
+      "label": "El Met: sellos del antiguo Próximo Oriente",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Ancient_Art_in_Miniature_Ancient_Near_Eastern_Seals_from_the_Collection_of_Martin_and_Sarah_Cherkask.pdf"
+    },
+    {
+      "label": "ETCSL de Oxford: lengua sumeria",
+      "url": "https://etcsl.orinst.ox.ac.uk/edition2/language.php"
+    },
+    {
+      "label": "Universidad de Cambridge: lenguas mesopotámicas",
+      "url": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-history/mesopotamia-languages"
+    },
+    {
+      "label": "Antiquity: primeros vehículos con ruedas en Europa y el Próximo Oriente",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/earliest-evidence-of-wheeled-vehicles-in-europe-and-the-near-east/4835B594180234DC116F6F0105771573"
+    },
+    {
+      "label": "ORACC: los Anunna, grupo de divinidades",
+      "url": "https://oracc.museum.upenn.edu/amgg/listofdeities/anunna/"
+    },
+    {
+      "label": "Oxford: corpus electrónico de literatura sumeria",
+      "url": "https://etcsl.orinst.ox.ac.uk/"
+    },
+    {
+      "label": "Museo Británico: una biblioteca digna de un rey",
+      "url": "https://www.britishmuseum.org/blog/library-fit-king"
+    },
+    {
+      "label": "El Met: periodo paleoasirio",
+      "url": "https://www.metmuseum.org/essays/the-old-assyrian-period"
+    },
+    {
+      "label": "Museo Penn: colaboradores en la búsqueda del pasado",
+      "url": "https://www.penn.museum/sites/expedition/partners-in-search-of-the-past/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quiénes fueron los sumerios?",
+      "answer": "Los sumerios fueron pueblos asociados a la lengua sumeria y a las primeras sociedades urbanas del sur de Mesopotamia, en el actual Irak. Vivían en una región de ciudades-Estado que interactuaban, no en un único país permanentemente unificado."
+    },
+    {
+      "question": "¿Fueron los sumerios la primera civilización?",
+      "answer": "Sumer fue una de las primeras civilizaciones urbanas. Afirmar una primacía absoluta depende de si se miden ciudades, escritura, Estados u otros desarrollos, que surgieron en momentos y lugares diferentes."
+    },
+    {
+      "question": "¿Qué inventaron los sumerios?",
+      "answer": "El sur de Mesopotamia conserva escritura y administración urbana excepcionalmente tempranas, además de grandes avances en matemáticas y leyes escritas. Afirmar que Sumer inventó por sí solo todas las tecnologías iniciales, incluida la rueda, va más allá de la evidencia."
+    },
+    {
+      "question": "¿Es lo mismo cuneiforme que sumerio?",
+      "answer": "No. El cuneiforme es un sistema de escritura utilizado por varias lenguas. El sumerio es una lengua, mientras que el acadio es otra distinta que también utilizó la escritura cuneiforme."
+    },
+    {
+      "question": "¿Existió realmente Gilgamesh?",
+      "answer": "Puede haber un gobernante histórico de Uruk detrás de la tradición, pero sus aventuras son literatura, no una biografía verificada. Los poemas sumerios sobre Gilgamesh son distintos de la epopeya acadia posterior."
+    },
+    {
+      "question": "¿Por qué desapareció Sumer?",
+      "answer": "El poder político sumerio dio paso a Estados posteriores y el sumerio dejó gradualmente de ser una lengua cotidiana. Su literatura, conocimientos e instituciones siguieron influyendo en sociedades mesopotámicas posteriores."
+    },
+    {
+      "question": "¿Eran extraterrestres los Anunnaki?",
+      "answer": "Los textos mesopotámicos antiguos describen figuras divinas, no visitantes extraterrestres establecidos científicamente. Las afirmaciones modernas sobre alienígenas no están respaldadas por la evidencia arqueológica y textual que estudian los asiriólogos."
+    }
+  ]
+}

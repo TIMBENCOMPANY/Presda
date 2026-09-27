@@ -1,0 +1,629 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/babylon-history-hammurabi-hanging-gardens/",
+  "path": "/fr/articles/babylon-history-hammurabi-hanging-gardens/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "BABYLONE : HAMMURABI, LES EMPIRES ET LE MYSTÈRE DES JARDINS SUSPENDUS",
+  "excerpt": "De l’essor d’Hammurabi aux portes de Nabuchodonosor, Babylone fut conquise, reconstruite et réinterprétée pendant des siècles. Voici ce que les archives établissent et ce qui demeure incertain.",
+  "headlineHighlights": {
+    "red": "BABYLONE",
+    "gold": "JARDINS SUSPENDUS"
+  },
+  "seoTitle": "Babylone antique : Hammurabi, Nabuchodonosor et les jardins suspendus",
+  "description": "L’histoire de Babylone, de Hammurabi à l’Empire néo-babylonien, avec les faits et incertitudes sur le Code, la porte d’Ishtar et les jardins suspendus.",
+  "keywords": [
+    "histoire de Babylone",
+    "Hammurabi et son code",
+    "Empire néo-babylonien",
+    "Nabuchodonosor II",
+    "porte d’Ishtar",
+    "jardins suspendus de Babylone",
+    "exil à Babylone",
+    "Mésopotamie"
+  ],
+  "searchIntent": "Comprendre l’histoire de Babylone, distinguer ses empires et vérifier ce que les sources permettent d’affirmer sur Hammurabi, Nabuchodonosor et les jardins suspendus.",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-22",
+  "updatedAt": "2026-09-22",
+  "image": {
+    "src": "/articles/babylon-hammurabi-hanging-gardens-iraq.png",
+    "alt": "Reconstitution éditoriale imaginaire de Babylone avec porte bleue, murailles et jardins élevés ; elle ne représente pas une restitution archéologique certaine"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Babylone est plus facile à imaginer qu’à comprendre. Portes bleues, murailles immenses et jardins suspendus au-dessus d’un fleuve en ont fait le symbole de la splendeur antique. Pourtant, ces images mêlent architecture fouillée, ambition royale et récits rédigés bien plus tard. La ville réelle est plus intéressante qu’une reconstitution parfaite."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ancienne Babylone se trouvait sur l’Euphrate, dans l’actuel Irak. Elle devint le centre de puissants royaumes, survécut aux conquêtes et conserva une importance religieuse et intellectuelle sous des souverains étrangers. Son histoire ne se résume pas à une ascension puis une chute : elle fut réinventée à plusieurs reprises et diversement mémorisée par les rois, marchands, savants et personnes déportées contre leur gré. [Stephanie Dalley: The City of Babylon](https://www.cambridge.org/core/books/city-of-babylon/617C55FA57AB22F494361673A21FA311)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La qualifier de « plus grande ville » du monde antique exprime son extraordinaire réputation, non un titre mesurable valable durant toute l’Antiquité. Son importance évolua. Pour suivre son histoire, il faut d’abord distinguer le lieu des empires qui portèrent son nom."
+    },
+    {
+      "type": "heading",
+      "text": "BABYLONE, BABYLONIE ET DEUX EMPIRES DISTINCTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Babylone était une ville. La Babylonie était la région plus vaste du sud de la Mésopotamie qui lui était associée. L’Empire paléo-babylonien désigne le royaume dont la puissance s’étendit considérablement sous Hammurabi, au XVIIIe siècle av. J.-C. « Paléo-babylonien » nomme aussi une période historique plus large : toute tablette de cette époque ne provient donc pas de Babylone. [The Met: Isin-Larsa and Old Babylonian periods](https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Empire néo-babylonien est bien plus tardif, généralement daté de 626 à 539 av. J.-C. Nabopolassar et son fils Nabuchodonosor II firent de nouveau de Babylone une capitale impériale. Les célèbres monuments de briques vernissées appartiennent surtout à cette période, et non au règne d’Hammurabi. Des siècles de dynasties, de conflits et de continuité culturelle séparent les deux empires. [British Museum: Mesopotamia, 1500–539 BCE](https://www.britishmuseum.org/collection/galleries/mesopotamia-1500-539-bc) [Berlin State Museums: From Fragment to Monument, the Ishtar Gate](https://www.smb.museum/en/exhibitions/detail/from-fragment-to-monument/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction explique un paradoxe apparent : Babylone put perdre un empire tout en restant une ville vivante. Le changement de souverain ne signifiait pas automatiquement la fin de ses temples, familles, commerces ou écoles de scribes."
+    },
+    {
+      "type": "heading",
+      "text": "LA MÉSOPOTAMIE AVANT L’ASCENSION DE BABYLONE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Babylone n’inventa pas la civilisation urbaine. Les Sumériens et l’essor des premières grandes villes mésopotamiennes appartiennent à une période antérieure. Au début du IIe millénaire av. J.-C., les communautés du sud héritaient déjà de l’écriture cunéiforme, de l’irrigation, de la royauté et de l’administration des temples. Après la chute de la troisième dynastie d’Ur, des centres rivaux comme Isin et Larsa se disputèrent le pouvoir. [Sumerians and the rise of Mesopotamia’s first great cities](/articles/sumerians-first-cities-cuneiform-civilization/) [The Met: Isin-Larsa and Old Babylonian periods](https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le paysage de l’Euphrate exigeait une gestion permanente. Canaux, écluses et contrôle des crues soutenaient l’agriculture et l’habitat. Comme le souligne l’assyriologue Stephanie Dalley, l’emplacement de Babylone ne lui conférait pas un avantage évident et unique sur les villes plus anciennes. Sa domination doit aussi s’expliquer politiquement. [Stephanie Dalley: Land and peoples](https://www.cambridge.org/core/books/abs/city-of-babylon/land-and-peoples/CF620E7DF0F8F20D4EED6CB9376D3F10)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les voies d’eau reliaient les champs aux marchés et institutions urbains. Cette dépendance liait ambition royale et travail quotidien : entretenir les canaux, transporter les récoltes et maintenir les terres productives. Le palais pouvait commander des ressources, mais non rendre la campagne superflue. Comparer ce cadre à la civilisation du Nil en Égypte révèle différentes manières d’organiser le pouvoir dans les sociétés fluviales. [civilization along Egypt’s Nile](/articles/ancient-egypt-pharaohs-nile-3000-years-history/) [Stephanie Dalley: Land and peoples](https://www.cambridge.org/core/books/abs/city-of-babylon/land-and-peoples/CF620E7DF0F8F20D4EED6CB9376D3F10)"
+    },
+    {
+      "type": "heading",
+      "text": "COMMENT HAMMURABI FIT DE BABYLONE UNE GRANDE PUISSANCE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les textes mentionnent Babylone vers la fin du IIIe millénaire av. J.-C., mais ses débuts sont mal connus. Hammurabi ne la fonda pas : il hérita d’un royaume qu’il agrandit par des alliances et des campagnes militaires. Son règne est généralement daté de 1792 à 1750 av. J.-C. selon la chronologie moyenne retenue ici ; les dates absolues du IIe millénaire restent débattues. [The Met: Babylon, by Michael Seymour](https://www.metmuseum.org/essays/babylon)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans la dernière partie de son règne, Babylone dominait un territoire bien plus vaste. Cette réussite ne relevait pas seulement des victoires militaires : le souverain devait aussi présenter la conquête comme un gouvernement légitime. L’image durable d’Hammurabi associait puissance militaire et prétention à protéger la justice, mise en forme monumentale dans son célèbre recueil de lois. [The Met: Isin-Larsa and Old Babylonian periods](https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c) [Louvre: The Code of Hammurabi](https://www.louvre.fr/en/the-code-of-hammurabi)"
+    },
+    {
+      "type": "heading",
+      "text": "LE CODE DE HAMMURABI : CE QU’IL ÉTAIT RÉELLEMENT"
+    },
+    {
+      "type": "subheading",
+      "text": "Un monument royal, non les premières lois écrites"
+    },
+    {
+      "type": "paragraph",
+      "text": "La stèle célèbre conservée au Louvre présente des décisions juridiques et une affirmation de la royauté. Le relief supérieur montre Hammurabi devant Shamash, dieu solaire associé à la justice. Le monument rendait visible l’autorité du roi et l’inscrivait dans un ordre divin. [Louvre: The Code of Hammurabi](https://www.louvre.fr/en/the-code-of-hammurabi)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le texte est généralement divisé en 282 dispositions formulées comme des cas conditionnels portant notamment sur les biens, la famille, le travail et les blessures. Ce n’est pas un code législatif moderne et exhaustif. Ce n’est pas non plus le premier recueil de lois : des exemples mésopotamiens plus anciens comprennent ceux associés à Ur-Namma et Lipit-Ishtar. [Louvre: The Code of Hammurabi](https://www.louvre.fr/en/the-code-of-hammurabi) [The Met: Isin-Larsa and Old Babylonian periods](https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La stèle aujourd’hui à Paris fut découverte à Suse, dans l’Iran actuel, après y avoir été emportée dans l’Antiquité comme butin de guerre. Son lieu de découverte ne prouve donc pas qu’Hammurabi gouvernait depuis Suse. Les objets ont une histoire après leur usage d’origine, et cette histoire compte pour leur interprétation. [Louvre: The Code of Hammurabi](https://www.louvre.fr/en/the-code-of-hammurabi)"
+    },
+    {
+      "type": "subheading",
+      "text": "La justice ne signifiait pas l’égalité devant la loi"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’idée familière de représailles proportionnelles n’est qu’un aspect du recueil. Peines et compensations dépendaient du statut social et des circonstances. L’étude d’Oxford sur la société babylonienne à travers ces lois souligne la hiérarchie qu’elles révèlent. La promesse royale de réprimer les méfaits ne créait pas des droits égaux au sens moderne. [Oxford: Babylonian society through Hammurabi’s laws](https://academic.oup.com/book/898/chapter-abstract/135484924)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le texte témoigne de la pensée juridique et des idéaux royaux. À lui seul, il ne nous dit pas comment chaque tribunal tranchait chaque litige. Le lire avec des contrats et d’autres documents aide à distinguer les principes proclamés des pratiques juridiques variées. Le mot « code », utile comme appellation familière, peut donc induire en erreur si on le prend au sens strict. [Oxford: Babylonian society through Hammurabi’s laws](https://academic.oup.com/book/898/chapter-abstract/135484924)"
+    },
+    {
+      "type": "heading",
+      "text": "LES PERSONNES DERRIÈRE LES LOIS : TRAVAIL, FAMILLE ET ESCLAVAGE"
+    },
+    {
+      "type": "subheading",
+      "text": "Les femmes avaient un rôle juridique dans des institutions inégalitaires"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les dispositions d’Hammurabi traitent du mariage, du divorce, des dots et de l’héritage. Elles reconnaissent les intérêts des femmes dans certaines circonstances tout en imposant des attentes inégales aux époux. Il est faux de dire qu’elles n’avaient aucun statut juridique, tout comme il serait erroné de transformer certaines protections en preuve d’égalité entre les sexes. La traduction anglaise ancienne hébergée par Yale est utile, à lire toutefois avec les travaux récents. [Yale Avalon: Code of Hammurabi, historical English translation](https://avalon.law.yale.edu/ancient/hamcode.asp)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une tablette plus tardive du Met concerne la conversion d’une dot. Ces documents rappellent que les biens familiaux faisaient l’objet de négociations et d’écrits. Ils invitent aussi à ne pas réduire des siècles d’histoire babylonienne à un foyer intemporel : la situation d’une femme sous Hammurabi ne correspondait pas nécessairement à celle d’une femme sous la domination perse. [The Met: Document concerning a dowry conversion](https://www.metmuseum.org/art/collection/search/321950)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les personnes réduites en esclavage faisaient partie de l’économie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une tablette néo-babylonienne de vente d’esclave issue des archives d’Egibi consigne la propriété d’êtres humains comme une transaction. Elle contraste douloureusement avec les images de palais splendides. Les personnes asservies n’étaient pas une simple métaphore de la pauvreté, et les procédures légales de vente n’abolissaient pas la coercition. [The Met: Slave sale from the Egibi archive](https://www.metmuseum.org/art/collection/search/321724)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La société comprenait aussi des travailleurs libres, marchands, agriculteurs, prêtres et fonctionnaires aux ressources très différentes. La « richesse babylonienne » ne signifie pas que tous partageaient le luxe royal. Le statut juridique, la place dans le foyer et l’accès aux biens déterminaient ce que la vie urbaine pouvait offrir ou exiger. [Oxford: Babylonian society through Hammurabi’s laws](https://academic.oup.com/book/898/chapter-abstract/135484924)"
+    },
+    {
+      "type": "heading",
+      "text": "MARDUK, LES TEMPLES ET LA VILLE SACRÉE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Marduk était le dieu tutélaire de Babylone. Son importance grandit avec le temps jusqu’à le placer à la tête du panthéon babylonien. Esagil était son temple principal et Etemenanki la grande ziggourat qui lui était associée. Il s’agissait de structures sacrées liées, non de deux noms interchangeables pour un seul édifice. [ORACC: Marduk](https://oracc.museum.upenn.edu/amgg/Listofdeities/Marduk/index.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prééminence de Marduk reliait l’identité locale de Babylone aux prétentions à une autorité plus vaste. Le soutien royal aux temples dépassait donc la dévotion privée : il aidait le roi à se présenter comme gardien légitime de l’ordre sacré. Cette légitimité religieuse restait précieuse même pour un souverain venu de l’extérieur de la Babylonie. [ORACC: Marduk](https://oracc.museum.upenn.edu/amgg/Listofdeities/Marduk/index.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vie des temples supposait également une organisation pratique. Une tablette comptable des archives d’Ebabbar à Sippar, autre ville babylonienne, illustre le cadre institutionnel régional dont Babylone faisait partie. Elle témoigne de l’administration au-delà du palais, mais un document de Sippar ne doit pas être présenté comme provenant de Babylone. [The Met: Account tablet from the Ebabbar archive](https://www.metmuseum.org/art/collection/search/321702)"
+    },
+    {
+      "type": "heading",
+      "text": "APRÈS HAMMURABI : LE DÉCLIN SANS DISPARITION"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les successeurs d’Hammurabi ne purent conserver durablement toutes ses conquêtes. La dynastie lui survécut, mais l’empire perdit de son étendue. Un raid hittite mit fin à la dynastie, généralement en 1595 av. J.-C. Cette date suit le même cadre chronologique que celui retenu pour Hammurabi, sans mélanger plusieurs systèmes concurrents. [The Met: The Middle Babylonian/Kassite period](https://www.metmuseum.org/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les souverains kassites établirent finalement un royaume durable en Babylonie. Ils adoptèrent et patronnèrent les traditions babyloniennes au lieu de simplement les remplacer. Cette longue période babylonienne moyenne mérite mieux qu’un vide entre Hammurabi et Nabuchodonosor. La culture babylonienne pouvait prospérer sous des rois d’origines différentes. [The Met: The Middle Babylonian/Kassite period](https://www.metmuseum.org/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le pouvoir changea de nouveau lors des conflits avec l’Élam et d’autres États régionaux. Nabuchodonosor Ier, roi du XIIe siècle av. J.-C., est distinct du Nabuchodonosor II plus tardif. La répétition des noms royaux peut donner l’impression que le passé est plus resserré qu’il ne l’était. Le prestige religieux de la ville traversa ces changements politiques. [British Museum: Mesopotamia, 1500–539 BCE](https://www.britishmuseum.org/collection/galleries/mesopotamia-1500-539-bc)"
+    },
+    {
+      "type": "heading",
+      "text": "DOMINATION ASSYRIENNE : DESTRUCTION ET RECONSTRUCTION"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les liens de Babylone avec l’Assyrie furent politiques et culturels. Les souverains assyriens cherchaient à contrôler le sud tout en faisant des traditions sacrées de la région une source de légitimité. Les résistances contestèrent à plusieurs reprises cette domination. Cette relation est essentielle à l’histoire impériale assyrienne comme à celle de Babylone. [British Museum: Introducing the Assyrians](https://www.britishmuseum.org/blog/introducing-assyrians)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 689 av. J.-C., Sennachérib mit Babylone à sac après une rébellion. Son fils et successeur Assarhaddon entreprit de la restaurer. Un prisme conservé décrit les travaux et expose la manière dont le pouvoir royal justifiait ses actes. C’est une déclaration royale primaire, non un récit impartial de l’expérience de chaque habitant. [The Met: Esarhaddon’s prism describing Babylon’s restoration](https://www.metmuseum.org/art/collection/search/321907)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les éditions savantes montrent que la reconstruction fut un effort prolongé touchant les murailles, sanctuaires, quartiers et statues de culte. Certains travaux restaient inachevés à la mort d’Assarhaddon. Le relèvement de Babylone ne fut donc pas un geste cérémoniel unique rétablissant instantanément tout ce que Sennachérib avait détruit. [ORACC: Assyrian royal inscriptions and Babylon’s restoration](https://oracc.museum.upenn.edu/rinap/downloads/0RINAP5_3_final.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le contraste est frappant : un empire pouvait punir Babylone en rébellion puis investir dans son rétablissement comme centre sacré. Sa valeur rendait difficile de la laisser en ruines, tandis que son prestige la rendait difficile à gouverner sans heurts."
+    },
+    {
+      "type": "heading",
+      "text": "NABOPOLASSAR ET L’EMPIRE NÉO-BABYLONIEN"
+    },
+    {
+      "type": "paragraph",
+      "text": "À la fin du VIIe siècle av. J.-C., l’ascension de Nabopolassar renversa le rapport de forces. Les Babyloniens s’allièrent aux Mèdes contre l’Assyrie. Ninive tomba en 612 av. J.-C., selon la tradition des chroniques babyloniennes. Cette victoire de coalition ne signifie pas que Babylone seule vainquit tous ses adversaires sans aide. [British Museum: Introducing the Assyrians](https://www.britishmuseum.org/blog/introducing-assyrians) [British Museum: Chronicle of the fall of Nineveh](https://www.britishmuseum.org/collection/object/W_1896-0409-6)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’État néo-babylonien hérita d’occasions et de rivalités à travers l’Asie occidentale. Nabuchodonosor II, fils de Nabopolassar, mena des campagnes vers l’ouest et devint roi en 605 av. J.-C. Certains calendriers muséaux font commencer son règne en 604, première année régnale complète : les conventions distinguant accession et année de règne expliquent cet écart apparent. [British Museum: Chronicle of Nebuchadnezzar’s early campaigns](https://www.britishmuseum.org/collection/object/W_1896-0409-51)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étendue de l’empire donnait à Babylone accès à des ressources et à de la main-d’œuvre, mais l’exposait aussi à des guerres continues. Sa capitale monumentale n’était pas séparée des coûts de l’expansion. Le roi célébré pour avoir rebâti Babylone fut aussi mémorisé ailleurs pour avoir détruit des villes."
+    },
+    {
+      "type": "heading",
+      "text": "BABYLONE DE NABUCHODONOSOR À SON APOGÉE"
+    },
+    {
+      "type": "subheading",
+      "text": "Murailles, palais et nom du roi gravé dans la brique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les inscriptions de construction de Nabuchodonosor décrivent un vaste programme de bâtisse et de restauration. Un cylindre de fondation du Met mentionne une muraille extérieure. Ces cylindres étaient enfouis dans les édifices et s’adressaient autant aux dieux et aux souverains futurs qu’aux contemporains. Même cachée, une construction pouvait porter la prétention royale à une renommée durable. [The Met: Nebuchadnezzar’s outer wall inscription](https://www.metmuseum.org/art/collection/search/321676)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’archéologie confirme d’importantes fortifications, mais la densité de l’habitat à l’intérieur de l’enceinte extérieure reste incertaine. De grandes murailles ne constituent pas un recensement fiable de la population. Babylone était une ville impériale exceptionnelle ; les affirmations virales précises sur sa population ou sa richesse totale dépassent les preuves conservées. [The Met: Nebuchadnezzar’s outer wall inscription](https://www.metmuseum.org/art/collection/search/321676)"
+    },
+    {
+      "type": "subheading",
+      "text": "La porte d’Ishtar et la voie processionnelle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les briques vernissées bleues et les reliefs animaliers donnaient à la porte d’Ishtar son aspect distinctif. Le long de la voie processionnelle, les lions transformaient le parcours urbain en spectacle du pouvoir divin et royal. Il s’agissait d’ensembles architecturaux construits, et non de simples objets décoratifs ensuite placés dans un musée. [Berlin State Museums: From Fragment to Monument, the Ishtar Gate](https://www.smb.museum/en/exhibitions/detail/from-fragment-to-monument/) [University of Chicago: Mesopotamian collection highlights](https://isac-idb-static.uchicago.edu/multimedia/326167/MISC_100museumhighlights.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La reconstitution de Berlin associe des fragments antiques à des matériaux modernes. Il ne faut pas la prendre pour une porte intacte transportée d’un seul bloc depuis l’Irak. Fouilles, conservation et reconstruction ont toutes façonné le monument que montrent aujourd’hui les photographies. [Berlin State Museums: From Fragment to Monument, the Ishtar Gate](https://www.smb.museum/en/exhibitions/detail/from-fragment-to-monument/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le parcours servait aussi aux cérémonies religieuses. Lors de la fête du Nouvel An, des statues divines traversaient la ville jusqu’à une maison de fête. Architecture, rituel et royauté se rejoignaient dans cet espace urbain conçu pour être vécu en mouvement autant que contemplé de loin. [University of Chicago: Mesopotamian collection highlights](https://isac-idb-static.uchicago.edu/multimedia/326167/MISC_100museumhighlights.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "JÉRUSALEM ET L’EXIL À BABYLONE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Chronique babylonienne documente la campagne de Nabuchodonosor contre Jérusalem en 597 av. J.-C. Il faut la distinguer de la destruction ultérieure de Jérusalem et de son temple, généralement datée de 587 ou 586 av. J.-C. Confondre ces événements masque des affrontements et déportations successifs. [British Museum: Chronicle of Nebuchadnezzar’s early campaigns](https://www.britishmuseum.org/collection/object/W_1896-0409-51)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fouilles de Jérusalem ont identifié des traces de destruction associées à la conquête babylonienne ultérieure. Le rapport de fouilles de l’Université de Caroline du Nord à Charlotte examine des vestiges, dont des dépôts brûlés et des objets replacés dans leur contexte. L’archéologie éclaire la destruction sans confirmer indépendamment chaque détail d’un récit ultérieur. [UNC Charlotte: Evidence of Jerusalem’s Babylonian destruction](https://inside.charlotte.edu/news-features/2019-08-12/evidence-587586-bce-babylonian-conquest-jerusalem-found-mount-zion)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’exil à Babylone est devenu un thème déterminant de la mémoire historique et religieuse juive. Il ne faut pas le réduire à un épisode ornemental de la biographie d’un roi victorieux. La déportation fut un déplacement forcé ; l’expérience des déportés différait de celle des personnes restées en Juda. Les textes bibliques conservent des réponses à cette crise, selon des perspectives très différentes des inscriptions royales de construction. [Bob Becking: The Exile From a Birds Eye View](https://bibleinterp.arizona.edu/articles/exile357917)"
+    },
+    {
+      "type": "heading",
+      "text": "LA VIE QUOTIDIENNE DANS ET AUTOUR DE LA CAPITALE IMPÉRIALE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La grande avenue conduisant à un temple ne résumait pas toute la ville. La vie ordinaire consistait à se procurer de la nourriture, entretenir son foyer, organiser le travail et régler ses obligations. Les documents conservés en donnent des aperçus, pas un journal complet rue par rue. Les archives d’élite sont particulièrement visibles, car les institutions et familles fortunées produisaient et conservaient des écrits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Agriculteurs et travailleurs de l’eau soutenaient l’économie urbaine depuis les abords du centre monumental. Les canaux demandaient un entretien et les récoltes devaient parvenir aux consommateurs. La dépendance de Babylone à l’eau aménagée rappelle que même une capitale impériale reposait sur des systèmes vulnérables à la négligence, aux conflits et aux changements du cours du fleuve. [Stephanie Dalley: Land and peoples](https://www.cambridge.org/core/books/abs/city-of-babylon/land-and-peoples/CF620E7DF0F8F20D4EED6CB9376D3F10)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comptes écrits, actes de dot et ventes révèlent des liens religieux, commerciaux et familiaux imbriqués. Les scribes consignaient les accords ; témoins et éléments d’identification les inscrivaient dans un réseau social. Moins spectaculaires que les murs vernissés, ces documents nous rapprochent des exigences pratiques de la vie urbaine. [The Met: Document concerning a dowry conversion](https://www.metmuseum.org/art/collection/search/321950) [The Met: Slave sale from the Egibi archive](https://www.metmuseum.org/art/collection/search/321724) [The Met: Account tablet from the Ebabbar archive](https://www.metmuseum.org/art/collection/search/321702)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les preuves doivent aussi contenir notre imagination. Une image royale luxueuse ne permet pas d’établir le menu quotidien d’un foyer ordinaire, le confort de chaque maison ou le sentiment des habitants envers un souverain. Une reconstitution attentive laisse certaines pièces sans mobilier."
+    },
+    {
+      "type": "heading",
+      "text": "MATHÉMATIQUES, ASTRONOMIE ET TRAVAIL DES SAVANTS"
+    },
+    {
+      "type": "subheading",
+      "text": "Une écriture héritée et sans cesse renouvelée"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Babyloniens utilisaient l’écriture cunéiforme, mise au point dans la Mésopotamie antérieure. Le babylonien était une variété de l’akkadien ; le sumérien conservait un rôle savant. Copier et étudier les textes anciens constituait un travail intellectuel actif, non une simple conservation de reliques incomprises. [British Museum: Babylon, myth and reality, educational resource](https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tablette paléo-babylonienne YBC 7289 de Yale conserve une approximation numérique remarquablement précise liée à la diagonale d’un carré. Elle constitue une preuve concrète du savoir mathématique. Elle ne justifie pas d’affirmer que toutes les mathématiques modernes furent inventées à Babylone ou que toutes les tablettes datent du même siècle. [Yale: The mathematics tablet YBC 7289](https://news.yale.edu/2016/04/11/3800-year-journey-classroom-classroom)"
+    },
+    {
+      "type": "subheading",
+      "text": "Observer le ciel et en calculer les régularités"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des tablettes babyloniennes tardives comprennent des tables de calcul concernant Jupiter. Elles témoignent d’une étude technique suivie, et non d’une simple observation occasionnelle du ciel. Comme elles sont postérieures à Hammurabi, elles ne peuvent servir de preuve directe du savoir précis disponible à sa cour. [British Museum: Late Babylonian tables for Jupiter](https://www.britishmuseum.org/collection/object/W_1876-1117-1945)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude de 2024 de Mathieu Ossendrijver porte sur un compendium astral associant des procédures mathématiques à des éléments interprétés comme astrologiques. Elle illustre un monde savant dont les catégories ne recoupaient pas notre séparation entre science et divination. La sophistication mathématique pouvait coexister avec des croyances sur la signification des astres. [Mathieu Ossendrijver: A Babylonian astral compendium, 2024](https://doi.org/10.1177/00218286241233769)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconnaître ces réussites d’observation et de calcul ne valide pas scientifiquement l’astrologie. Il n’est pas non plus nécessaire d’inventer télescopes, électricité ou technologies absentes des preuves. Les tablettes d’argile sont assez remarquables lorsqu’on les lit pour ce qu’elles contiennent réellement."
+    },
+    {
+      "type": "heading",
+      "text": "LES JARDINS SUSPENDUS : MERVEILLE OU LÉGENDE ?"
+    },
+    {
+      "type": "subheading",
+      "text": "Les descriptions sont postérieures au monument supposé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les jardins suspendus ne relèvent pas de la même catégorie de preuves que la porte d’Ishtar. Les descriptions classiques nous sont parvenues par des auteurs séparés de plusieurs siècles de la construction supposée. Elles parlent de plantations extraordinaires et de gestion de l’eau, mais ne constituent pas un registre babylonien contemporain des travaux. [Stephanie Dalley: The mystery of the Hanging Garden](https://blog.oup.com/2013/06/mystery-hanging-garden-babylon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucune identification archéologique concluante à Babylone ni aucun texte babylonien contemporain décrivant avec certitude cette fameuse merveille n’a tranché la question. Cela ne prouve pas que Babylone n’avait pas de jardins : les jardins ordinaires et le monument précis de la légende ultérieure sont deux affirmations différentes. [British Museum: Gardens of Ashurbanipal and the Nineveh hypothesis](https://www.britishmuseum.org/blog/paradise-earth-gardens-ashurbanipal)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le récit familier selon lequel Nabuchodonosor aurait construit ces jardins pour une épouse nostalgique appartient à une tradition tardive. Il ne faut pas l’énoncer avec la même certitude que l’existence des briques portant ses inscriptions. Un motif évocateur rend une histoire mémorable sans la rendre vérifiable indépendamment. [Timothy Potts: Looking for the Hanging Gardens](https://www.nybooks.com/articles/2013/09/26/looking-hanging-gardens-babylon/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les jardins se trouvaient-ils à Ninive ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’assyriologue Stephanie Dalley soutient que la tradition pourrait désigner les jardins de Sennachérib à Ninive. Son argument s’appuie sur les inscriptions assyriennes, les représentations de jardins et d’importants ouvrages hydrauliques, ainsi que sur la possibilité que des auteurs plus tardifs aient confondu souverains et lieux. C’est une hypothèse savante sérieuse, non la découverte à Babylone d’une fondation étiquetée « jardins suspendus ». [Stephanie Dalley: The mystery of the Hanging Garden](https://blog.oup.com/2013/06/mystery-hanging-garden-babylon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le British Museum présente des représentations de jardins à Ninive, notamment des arbres associés à une colonnade couverte. Ces éléments attestent la réalité et l’importance historique des jardins royaux assyriens. Ils ne prouvent pas automatiquement que chaque récit classique de la merveille babylonienne décrit ce complexe précis. [British Museum: Gardens of Ashurbanipal and the Nineveh hypothesis](https://www.britishmuseum.org/blog/paradise-earth-gardens-ashurbanipal)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’archéologue Timothy Potts conteste la solidité de cette identification, notamment le transfert supposé de l’histoire de Ninive à Babylone. La distinction est essentielle : prouver que Sennachérib fit aménager un jardin remarquable ne prouve pas à lui seul que Nabuchodonosor n’aurait pas pu en bâtir un. [Timothy Potts: Looking for the Hanging Gardens](https://www.nybooks.com/articles/2013/09/26/looking-hanging-gardens-babylon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conclusion responsable reste ouverte. Un jardin babylonien, une mémoire transformée des jardins assyriens et des développements littéraires demeurent des possibilités évaluées à partir de preuves incomplètes. L’image principale est une reconstitution éditoriale imaginaire : sa végétation surélevée et ses jeux d’eau n’établissent ni l’apparence ni l’emplacement de la merveille antique."
+    },
+    {
+      "type": "heading",
+      "text": "CYRUS ET LA CONQUÊTE PERSE DE 539 AV. J.-C."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 539 av. J.-C., Nabonide régnait à Babylone et Cyrus avait bâti une puissante force perse. La tradition des chroniques relate une défaite babylonienne à Opis avant l’entrée dans Babylone. Dire que la ville elle-même fut prise sans bataille ne permet pas de conclure que toute la campagne fut sans effusion de sang. [Encyclopaedia Iranica: Babylonian chronicles](https://www.iranicaonline.org/articles/babylonian-chronicles/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le cylindre de Cyrus présente le conquérant comme favorisé par Marduk et dépeint Nabonide négativement. Il évoque aussi le rétablissement des cultes et le retour des images divines. Cette source primaire est précieuse, mais parle le langage de la royauté victorieuse : ce n’est ni une enquête impartiale sur l’opinion publique ni une déclaration universelle moderne des droits humains. [British Museum: The Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Babylone entra dans l’Empire perse achéménide de Cyrus le Grand. L’Empire néo-babylonien avait pris fin, mais la ville conserva son importance dans le nouveau système impérial. Conquête politique et disparition urbaine sont deux événements distincts. [Achaemenid Persian Empire of Cyrus the Great](/articles/persian-empire-cyrus-great-achaemenid-history/) [The Met: Babylon, by Michael Seymour](https://www.metmuseum.org/essays/babylon)"
+    },
+    {
+      "type": "heading",
+      "text": "LES EMPIRES SUIVANTS ET LE DÉCLIN PROGRESSIF DE BABYLONE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alexandre le Grand mourut à Babylone en 323 av. J.-C. Après le morcellement de son empire, le pouvoir séleucide se développa autour d’autres centres, notamment Séleucie du Tigre. Babylone déclina progressivement, au lieu de devenir une ruine vide immédiatement après Cyrus. Conflits ultérieurs et déplacement des centres de pouvoir accentuèrent ses pertes. [The Met: Babylon, by Michael Seymour](https://www.metmuseum.org/essays/babylon)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude cunéiforme survécut à la période où Babylone était une capitale impériale indépendante. Un almanach conservé pour 31/32 apr. J.-C. appartient à l’époque parthe et montre la poursuite des traditions savantes dans un monde politique très différent. « Babylone antique » ne désigne pas un bref intervalle coupé du reste de l’histoire. [The Met: Babylonian almanac for 31/32 CE](https://www.metmuseum.org/art/collection/search/321978)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le déclin d’une ville peut donc suivre plusieurs chronologies : fin de sa dynastie, perte de son rôle administratif central, recul de l’habitat ou disparition de certaines institutions. Demander « quand Babylone est-elle tombée ? » n’a de sens que si l’on précise lequel de ces changements on vise."
+    },
+    {
+      "type": "heading",
+      "text": "MYTHE ET RÉALITÉ : BABYLONE"
+    },
+    {
+      "type": "subheading",
+      "text": "La tour de Babel est un événement historique prouvé par les fouilles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Etemenanki fournit un contexte architectural important à la tradition biblique de la tour de Babel. La ziggourat et le récit ne sont pas des preuves de même nature. L’archéologie peut étudier une tour-temple monumentale ; elle ne peut transformer le récit biblique de l’origine des langues en événement mis au jour par les fouilles. [ORACC: Marduk](https://oracc.museum.upenn.edu/amgg/Listofdeities/Marduk/index.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les jardins suspendus ont été retrouvés exactement comme sur les images"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ils n’ont pas été identifiés de manière concluante. Les illustrations modernes combinent souvent des éléments provenant de sources et de périodes différentes. Leur apparence convaincante ne saurait remplacer un contexte archéologique assuré. [British Museum: Gardens of Ashurbanipal and the Nineveh hypothesis](https://www.britishmuseum.org/blog/paradise-earth-gardens-ashurbanipal)"
+    },
+    {
+      "type": "subheading",
+      "text": "Hammurabi inventa la loi et l’appliqua également à tous"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des recueils de lois écrites lui sont antérieurs. Le sien formule une prétention royale influente à la justice dans une société hiérarchisée. Ni son ancienneté ni sa célébrité n’en font une charte de l’égalité moderne. [Oxford: Babylonian society through Hammurabi’s laws](https://academic.oup.com/book/898/chapter-abstract/135484924)"
+    },
+    {
+      "type": "subheading",
+      "text": "La richesse de Babylone peut être chiffrée précisément en monnaie moderne"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ses monuments témoignent d’investissements immenses, mais ne permettent de calculer ni un équivalent fiable en monnaie actuelle ni le niveau de vie de chaque habitant. Construction splendide et inégalités peuvent coexister. Les descriptions royales de grandeur témoignent autant d’ambition que des travaux. [The Met: Nebuchadnezzar’s outer wall inscription](https://www.metmuseum.org/art/collection/search/321676)"
+    },
+    {
+      "type": "subheading",
+      "text": "L’astronomie babylonienne prouve l’existence de technologies surnaturelles perdues"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les textes mathématiques et astronomiques conservés documentent le savoir humain. Il faut expliquer leurs réussites à partir des procédures qu’ils transmettent, non les remplacer par des inventions ou pouvoirs sans preuve. Les savants antiques méritent d’être reconnus pour leur travail réel. [Yale: The mathematics tablet YBC 7289](https://news.yale.edu/2016/04/11/3800-year-journey-classroom-classroom) [British Museum: Late Babylonian tables for Jupiter](https://www.britishmuseum.org/collection/object/W_1876-1117-1945)"
+    },
+    {
+      "type": "heading",
+      "text": "BABYLONE AUJOURD’HUI : UN SITE À PRÉSERVER, PAS SEULEMENT UN SYMBOLE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Babylone est inscrite au patrimoine mondial de l’UNESCO depuis 2019. Ses vestiges appartiennent au patrimoine vivant de l’Irak et ne sont pas un simple décor pour l’imaginaire biblique ou classique. Pour interpréter ce que voient les visiteurs, il faut distinguer vestiges archéologiques, reconstructions modernes et travaux de conservation. [UNESCO: Babylon World Heritage property](https://whc.unesco.org/en/list/278/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le site a été endommagé par des constructions modernes intrusives et un usage militaire, en plus d’autres difficultés de conservation. Sa préservation exige documentation, entretien et gestion attentive des vestiges antiques comme des interventions ultérieures. L’objectif n’est pas de transformer chaque incertitude en monument spectaculaire rebâti. [UNESCO: Babylon World Heritage property](https://whc.unesco.org/en/list/278/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’héritage de Babylone apparaît au mieux lorsque les témoignages peuvent parler sans être forcés dans un récit unique. Les inscriptions royales célèbrent les constructions ; les tablettes juridiques et économiques révèlent obligations et vies inégales ; les traditions de l’exil se souviennent de la conquête depuis l’autre camp ; les textes savants préservent un patient labeur intellectuel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensemble, ces traces expliquent l’importance de Babylone. Sa grandeur ne tenait ni à la perfection, ni au mystère, ni à une technologie impossible, mais à l’intensité avec laquelle des personnes bâtirent, gouvernèrent, étudièrent et se souvinrent. La ville devint une légende parce qu’elle fut d’abord un lieu humain complexe."
+    }
+  ],
+  "sources": [
+    {
+      "label": "The Met : Babylone, par Michael Seymour",
+      "url": "https://www.metmuseum.org/essays/babylon"
+    },
+    {
+      "label": "Stephanie Dalley : La ville de Babylone",
+      "url": "https://www.cambridge.org/core/books/city-of-babylon/617C55FA57AB22F494361673A21FA311"
+    },
+    {
+      "label": "The Met : périodes d’Isin-Larsa et paléo-babylonienne",
+      "url": "https://www.metmuseum.org/essays/the-isin-larsa-and-old-babylonian-periods-2004-1595-b-c"
+    },
+    {
+      "label": "Stephanie Dalley : Terres et populations",
+      "url": "https://www.cambridge.org/core/books/abs/city-of-babylon/land-and-peoples/CF620E7DF0F8F20D4EED6CB9376D3F10"
+    },
+    {
+      "label": "Louvre : Le Code de Hammurabi",
+      "url": "https://www.louvre.fr/en/the-code-of-hammurabi"
+    },
+    {
+      "label": "Oxford : société babylonienne à travers les lois d’Hammurabi",
+      "url": "https://academic.oup.com/book/898/chapter-abstract/135484924"
+    },
+    {
+      "label": "Yale Avalon : Code de Hammurabi, traduction historique",
+      "url": "https://avalon.law.yale.edu/ancient/hamcode.asp"
+    },
+    {
+      "label": "The Met : Document relatif à la conversion d’une dot",
+      "url": "https://www.metmuseum.org/art/collection/search/321950"
+    },
+    {
+      "label": "The Met : Vente d’esclave des archives d’Egibi",
+      "url": "https://www.metmuseum.org/art/collection/search/321724"
+    },
+    {
+      "label": "ORACC : Marduk",
+      "url": "https://oracc.museum.upenn.edu/amgg/Listofdeities/Marduk/index.html"
+    },
+    {
+      "label": "The Met : période babylonienne moyenne et kassite",
+      "url": "https://www.metmuseum.org/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia"
+    },
+    {
+      "label": "British Museum : Mésopotamie, 1500–539 av. J.-C.",
+      "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia-1500-539-bc"
+    },
+    {
+      "label": "The Met : prisme d’Assarhaddon sur la restauration de Babylone",
+      "url": "https://www.metmuseum.org/art/collection/search/321907"
+    },
+    {
+      "label": "ORACC : inscriptions assyriennes et restauration de Babylone",
+      "url": "https://oracc.museum.upenn.edu/rinap/downloads/0RINAP5_3_final.pdf"
+    },
+    {
+      "label": "British Museum : Présentation des Assyriens",
+      "url": "https://www.britishmuseum.org/blog/introducing-assyrians"
+    },
+    {
+      "label": "British Museum : Chronique de la chute de Ninive",
+      "url": "https://www.britishmuseum.org/collection/object/W_1896-0409-6"
+    },
+    {
+      "label": "British Museum : Chronique des premières campagnes de Nabuchodonosor",
+      "url": "https://www.britishmuseum.org/collection/object/W_1896-0409-51"
+    },
+    {
+      "label": "The Met : inscription de Nabuchodonosor sur le mur extérieur",
+      "url": "https://www.metmuseum.org/art/collection/search/321676"
+    },
+    {
+      "label": "Musées d’État de Berlin : porte d’Ishtar, du fragment au monument",
+      "url": "https://www.smb.museum/en/exhibitions/detail/from-fragment-to-monument/"
+    },
+    {
+      "label": "Université de Chicago : pièces majeures des collections mésopotamiennes",
+      "url": "https://isac-idb-static.uchicago.edu/multimedia/326167/MISC_100museumhighlights.pdf"
+    },
+    {
+      "label": "UNC Charlotte : preuves de la destruction babylonienne de Jérusalem",
+      "url": "https://inside.charlotte.edu/news-features/2019-08-12/evidence-587586-bce-babylonian-conquest-jerusalem-found-mount-zion"
+    },
+    {
+      "label": "Bob Becking : L’exil vu d’ensemble",
+      "url": "https://bibleinterp.arizona.edu/articles/exile357917"
+    },
+    {
+      "label": "The Met : tablette comptable des archives d’Ebabbar",
+      "url": "https://www.metmuseum.org/art/collection/search/321702"
+    },
+    {
+      "label": "Yale : tablette mathématique YBC 7289",
+      "url": "https://news.yale.edu/2016/04/11/3800-year-journey-classroom-classroom"
+    },
+    {
+      "label": "British Museum : tables tardives de Jupiter",
+      "url": "https://www.britishmuseum.org/collection/object/W_1876-1117-1945"
+    },
+    {
+      "label": "Mathieu Ossendrijver : Compendium astral babylonien, 2024",
+      "url": "https://doi.org/10.1177/00218286241233769"
+    },
+    {
+      "label": "Stephanie Dalley : Le mystère du jardin suspendu",
+      "url": "https://blog.oup.com/2013/06/mystery-hanging-garden-babylon/"
+    },
+    {
+      "label": "British Museum : Jardins d’Assurbanipal et hypothèse de Ninive",
+      "url": "https://www.britishmuseum.org/blog/paradise-earth-gardens-ashurbanipal"
+    },
+    {
+      "label": "Timothy Potts : À la recherche des jardins suspendus",
+      "url": "https://www.nybooks.com/articles/2013/09/26/looking-hanging-gardens-babylon/"
+    },
+    {
+      "label": "Encyclopaedia Iranica : Chroniques babyloniennes",
+      "url": "https://www.iranicaonline.org/articles/babylonian-chronicles/"
+    },
+    {
+      "label": "British Museum : Cylindre de Cyrus",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+    },
+    {
+      "label": "The Met : Almanach babylonien de 31/32 apr. J.-C.",
+      "url": "https://www.metmuseum.org/art/collection/search/321978"
+    },
+    {
+      "label": "UNESCO : site du patrimoine mondial de Babylone",
+      "url": "https://whc.unesco.org/en/list/278/"
+    },
+    {
+      "label": "British Museum : Babylone, mythe et réalité, dossier pédagogique",
+      "url": "https://www.britishmuseum.org/sites/default/files/2019-10/Babylon_Teachers_Resource.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Où se trouvait l’ancienne Babylone ?",
+      "answer": "Babylone se trouvait sur l’Euphrate en Mésopotamie, dans l’Irak actuel. Ses vestiges archéologiques se situent près de l’actuelle Hillah."
+    },
+    {
+      "question": "Quelle différence entre Babylone et la Babylonie ?",
+      "answer": "Babylone était une ville ; la Babylonie, la région plus vaste du sud mésopotamien qui lui était associée. Les empires paléo-babylonien et néo-babylonien étaient des États distincts de périodes différentes."
+    },
+    {
+      "question": "Qui a construit Babylone ?",
+      "answer": "La ville s’est développée au fil des générations. Hammurabi étendit sa puissance politique, tandis que Nabuchodonosor II patronna nombre des célèbres monuments de la capitale impériale tardive. Aucun des deux ne créa toute la ville à partir de rien."
+    },
+    {
+      "question": "Les jardins suspendus de Babylone ont-ils existé ?",
+      "answer": "Leur existence et leur emplacement restent incertains. Les descriptions tardives ne sont corroborées ni par des preuves archéologiques concluantes ni par des textes babyloniens contemporains. L’hypothèse de Stephanie Dalley, qui les situe à Ninive, est débattue."
+    },
+    {
+      "question": "Le Code de Hammurabi était-il le premier recueil de lois ?",
+      "answer": "Non. Des recueils mésopotamiens antérieurs sont conservés. Le texte d’Hammurabi rassemble des cas juridiques et exprime une prétention royale à la justice ; ce n’est pas un code législatif moderne et exhaustif."
+    },
+    {
+      "question": "Pourquoi Babylone est-elle tombée en 539 av. J.-C. ?",
+      "answer": "Les forces perses de Cyrus vainquirent les troupes babyloniennes et prirent la ville, mettant fin à l’Empire néo-babylonien. Babylone resta importante sous les souverains suivants ; son déclin urbain fut beaucoup plus long."
+    },
+    {
+      "question": "La tour de Babel était-elle une ziggourat babylonienne ?",
+      "answer": "La ziggourat Etemenanki constitue un contexte important pour la tradition biblique. L’existence d’une tour-temple ne prouve pas archéologiquement le récit sur l’origine des langues."
+    }
+  ]
+}

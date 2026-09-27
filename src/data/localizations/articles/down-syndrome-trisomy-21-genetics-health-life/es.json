@@ -1,0 +1,476 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/down-syndrome-trisomy-21-genetics-health-life/",
+  "path": "/es/articles/down-syndrome-trisomy-21-genetics-health-life/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "SÍNDROME DE DOWN: TRISOMÍA 21, SALUD Y VIDA COTIDIANA",
+  "excerpt": "La ciencia de un cromosoma adicional y vidas que ninguna prueba cromosómica puede predecir. Explora la genética, la salud, el aprendizaje y la adultez más allá de los estereotipos.",
+  "headlineHighlights": {
+    "red": "SÍNDROME DE DOWN",
+    "gold": "VIDA COTIDIANA"
+  },
+  "seoTitle": "Síndrome de Down: trisomía 21, genética y salud | PRESDA",
+  "description": "Comprende el síndrome de Down y la trisomía 21: causas, herencia, pruebas prenatales, salud, esperanza de vida, trabajo y relaciones, con evidencia frente a mitos comunes.",
+  "keywords": [
+    "síndrome de Down",
+    "trisomía 21",
+    "genética del síndrome de Down",
+    "cribado prenatal",
+    "síndrome de Down en mosaico",
+    "esperanza de vida con síndrome de Down",
+    "inclusión de la discapacidad"
+  ],
+  "searchIntent": "Informacional: entender la genética, la atención, el desarrollo y la vida cotidiana de las personas con síndrome de Down",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-21",
+  "updatedAt": "2026-09-21",
+  "image": {
+    "src": "/articles/down-syndrome-trisomy21-science-chromosome.png",
+    "alt": "Ilustración conceptual de una persona joven sonriente junto a un gráfico cromosómico y amistades al fondo."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El resultado de un análisis cromosómico puede explicar un diagnóstico médico. No puede decirte qué hará reír a una persona, qué música le gustará, cuál será su mejor manera de aprender ni qué querrá de su vida adulta. Comprender el síndrome de Down exige sostener dos verdades a la vez: la biología importa, pero una persona nunca se reduce a su biología."
+    },
+    {
+      "type": "paragraph",
+      "text": "El síndrome de Down es una condición genética causada por una copia completa o parcial adicional del cromosoma 21. Este material genético adicional influye en el desarrollo y aumenta la probabilidad de algunas afecciones de salud. Sus efectos varían mucho de una persona a otra. La trisomía 21 es la forma más común, pero también existen formas por translocación y mosaico. [Fuente o lectura relacionada](https://www.cdc.gov/birth-defects/about/down-syndrome.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para quien acaba de recibir el diagnóstico, las preguntas más útiles son científicas y prácticas. ¿Cómo surgió el cromosoma adicional? ¿Qué puede determinar una prueba? ¿Qué controles de salud ayudan? ¿Y cómo pueden la educación, las relaciones y la vida comunitaria reflejar las capacidades y preferencias propias de la persona? Esta guía responde sin presentar las dificultades ni los logros como una historia universal."
+    },
+    {
+      "type": "heading",
+      "text": "¿QUÉ ES LA TRISOMÍA 21?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cromosomas son estructuras que contienen ADN y muchos genes. La mayoría de las células del cuerpo humano suelen tener 46 cromosomas dispuestos en 23 pares. En la trisomía 21 completa hay tres copias separadas del cromosoma 21, en lugar de dos, por lo que suele haber 47 cromosomas en total. El nombre describe esa copia adicional; no define un nivel fijo de capacidad. [Fuente o lectura relacionada](https://www.cdc.gov/birth-defects/about/down-syndrome.html) [Fuente o lectura relacionada](https://medlineplus.gov/genetics/condition/down-syndrome/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Importa distinguir entre un cromosoma y un gen. El síndrome de Down no se debe a un único «gen del síndrome de Down». El material adicional del cromosoma 21 altera la dosis de muchos genes e influye en el desarrollo mediante vías biológicas complejas. Tampoco todas las personas con esta condición tienen la misma configuración cromosómica. Una translocación puede generar material adicional del cromosoma 21 sin que exista un cromosoma separado de más. [Fuente o lectura relacionada](https://medlineplus.gov/genetics/condition/down-syndrome/)"
+    },
+    {
+      "type": "heading",
+      "text": "¿CÓMO SE PRODUCE EL CROMOSOMA ADICIONAL?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando se forman los óvulos y los espermatozoides, los pares de cromosomas suelen separarse. A veces no lo hacen como se espera; este proceso se llama no disyunción. Un óvulo o un espermatozoide puede llevar entonces un cromosoma 21 adicional. Tras la fecundación, esa copia adicional se transmite mientras se dividen las células del embrión en desarrollo. Así suele originarse la trisomía 21 completa. [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La probabilidad aumenta con la edad materna, pero el síndrome de Down puede presentarse en un embarazo a cualquier edad. No lo causa lo que haya comido uno de los progenitores, una falta de esfuerzo ni una acción corriente antes o durante el embarazo. El diagnóstico no demuestra que nadie tenga la culpa. [Fuente o lectura relacionada](https://www.nhs.uk/conditions/downs-syndrome/)"
+    },
+    {
+      "type": "subheading",
+      "text": "LOS TRES TIPOS DE SÍNDROME DE DOWN"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la trisomía 21 completa hay tres copias separadas del cromosoma 21. Los CDC indican que representa cerca del 95 % de los casos. Esa proporción describe la distribución de las configuraciones cromosómicas, no la proporción de personas que desarrollarán una afección de salud o tendrán cierto resultado de desarrollo. [Fuente o lectura relacionada](https://www.cdc.gov/birth-defects/about/down-syndrome.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el síndrome de Down por translocación, el material adicional del cromosoma 21 está unido a otro cromosoma. En algunas familias, uno de los progenitores porta una reordenación equilibrada, sin exceso ni pérdida total de material genético. Un hijo puede heredar una configuración desequilibrada. Otras translocaciones aparecen de nuevo y no se heredan. [Fuente o lectura relacionada](https://medlineplus.gov/genetics/condition/down-syndrome/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El síndrome de Down en mosaico surge cuando ocurre un cambio en la separación cromosómica durante el desarrollo temprano y queda una mezcla de células con distintos recuentos de cromosomas. «Mosaico» describe esa mezcla celular. No debe usarse como atajo para predecir exactamente cuánto apoyo necesitará alguien: la valoración debe centrarse en cada persona. [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes) [Fuente o lectura relacionada](https://medlineplus.gov/ency/article/000997.htm)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿SE HEREDA EL SÍNDROME DE DOWN?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Que algo sea genético no significa automáticamente que se haya heredado. La mayoría de los casos de trisomía 21 completa y de síndrome de Down en mosaico no se transmiten en las familias. Algunos casos por translocación sí pueden heredarse. Un asesor genético puede interpretar el informe cromosómico, explicar si conviene analizar a los progenitores y hablar de la probabilidad en otro embarazo. Una sola cifra de recurrencia no describe correctamente a todas las familias. [Fuente o lectura relacionada](https://medlineplus.gov/genetics/condition/down-syndrome/)"
+    },
+    {
+      "type": "heading",
+      "text": "PRUEBAS PRENATALES: EL CRIBADO NO ES UN DIAGNÓSTICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la conversación cotidiana estos términos suelen confundirse, pero responden a preguntas distintas. El cribado estima la probabilidad de una condición cromosómica. Una prueba diagnóstica examina el material genético para determinar si está presente. Un resultado que indique una probabilidad mayor no constituye por sí solo un diagnóstico. [Fuente o lectura relacionada](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests)"
+    },
+    {
+      "type": "subheading",
+      "text": "QUÉ PUEDE INDICAR EL CRIBADO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cribado prenatal puede combinar análisis de sangre y hallazgos ecográficos. El análisis de ADN libre circulante, a menudo llamado NIPT, examina fragmentos de ADN en la sangre materna, incluidos fragmentos procedentes de la placenta. Es un método de cribado muy eficaz para la trisomía 21, pero todavía puede dar falsos positivos y falsos negativos. Un resultado positivo debe llevar a asesoramiento y a hablar de pruebas diagnósticas, no tratarse como certeza. [Fuente o lectura relacionada](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La guía de ACOG de 2026 respalda ofrecer opciones de cribado y diagnóstico sin importar la edad materna ni el riesgo inicial. Tras recibir información comprensible, la persona embarazada puede aceptar o rechazar las pruebas. Esa decisión merece asesoramiento preciso y equilibrado sobre las pruebas y sobre la vida con esta condición. [Fuente o lectura relacionada](https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2026/01/screening-for-fetal-chromosomal-abnormalities)"
+    },
+    {
+      "type": "subheading",
+      "text": "QUÉ PUEDE INDICAR UNA PRUEBA DIAGNÓSTICA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La biopsia de vellosidades coriónicas analiza tejido placentario; la amniocentesis examina células obtenidas del líquido amniótico. Conviene hablar con el equipo clínico sobre la prueba adecuada y sus riesgos relacionados con el procedimiento. Después del nacimiento, el análisis cromosómico de una muestra de sangre puede confirmar la sospecha diagnóstica e identificar la configuración cromosómica. [Fuente o lectura relacionada](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests) [Fuente o lectura relacionada](https://medlineplus.gov/ency/article/000997.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un resultado diagnóstico confirma un hallazgo cromosómico. No predice la personalidad futura de un niño, su perfil de aprendizaje exacto ni el grado de independencia que alcanzará. Para conocer mejor las diferencias entre las tecnologías genéticas reproductivas, la guía de PRESDA sobre  explora otra parte del campo. Las pruebas prenatales y el análisis de embriones antes de transferirlos son procesos distintos. [Fuente o lectura relacionada](/articles/designer-babies-ivf-embryo-selection-genetics/)"
+    },
+    {
+      "type": "heading",
+      "text": "DESARROLLO: UN PERFIL, NO UN FUTURO PREESCRITO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos rasgos físicos son más frecuentes en el síndrome de Down, como el tono muscular bajo y ciertos rasgos faciales. Los hitos motores, como sentarse y caminar, suelen alcanzarse más tarde. La discapacidad intelectual suele ser de leve a moderada, pero el desarrollo varía y una etiqueta general no describe por completo la comunicación, las habilidades prácticas ni la comprensión social de una persona. [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El habla y el lenguaje pueden desarrollarse más despacio, y no poder expresar una respuesta con facilidad no debe confundirse con no comprender. Una evaluación útil pregunta qué entiende la persona, cómo se comunica y qué facilita una tarea. También conviene prestar atención a la audición y la visión: un problema sin tratar puede dificultar la comunicación y el aprendizaje. [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms) [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La intervención temprana puede reunir terapia del habla y el lenguaje, fisioterapia, terapia ocupacional y apoyo educativo. El objetivo es desarrollar habilidades útiles y favorecer la participación, no hacer que todos los niños sigan un calendario idéntico. La terapia debería ayudar en la vida diaria: expresar una preferencia, incorporarse al juego, moverse con comodidad o realizar una tarea práctica. [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las familias pueden ayudar mediante la conversación, los libros, el juego y las rutinas, adaptando la comunicación al niño. Pueden servir los signos, las imágenes y dar más tiempo para procesar la información. Los adultos deben dirigirse directamente al niño o joven, en vez de hacer automáticamente todas las preguntas a su acompañante. El apoyo funciona mejor cuando crea oportunidades para participar. [Fuente o lectura relacionada](https://www.nhs.uk/conditions/downs-syndrome/how-to-help-children-and-young-people/)"
+    },
+    {
+      "type": "heading",
+      "text": "ASPECTOS DE SALUD A LO LARGO DE LA VIDA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El síndrome de Down se asocia con una probabilidad mayor de varias afecciones médicas, pero un riesgo elevado no significa que todas las personas las desarrollen. La atención debe combinar la medicina preventiva habitual con controles adecuados a la condición. Una lista de posibles complicaciones sirve para mantener la vigilancia, no para describir la vida de cada persona. [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated)"
+    },
+    {
+      "type": "subheading",
+      "text": "INFANCIA: DETECTAR LO QUE PODRÍA PASAR INADVERTIDO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las cardiopatías congénitas, los problemas de audición y visión, las alteraciones tiroideas y la apnea obstructiva del sueño son aspectos importantes. También son más frecuentes algunos trastornos gastrointestinales, incluida la celiaquía, y ciertas enfermedades de la sangre. Conviene investigar los síntomas nuevos, en vez de suponer que son «parte del síndrome de Down». [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe clínico de 2022 de la Academia Estadounidense de Pediatría detalla la supervisión de salud según la edad, incluida la evaluación cardíaca y la atención continua a la audición, la visión, la función tiroidea y el sueño. En la práctica, es útil organizar el seguimiento coordinado con profesionales que conozcan estas necesidades. Sentirse bien un día concreto no sustituye los controles preventivos recomendados. [Fuente o lectura relacionada](https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El tratamiento aborda las afecciones médicas y necesidades funcionales reales de la persona. No existe un tratamiento rutinario que elimine la diferencia cromosómica de base. Importan la atención médica, el apoyo al desarrollo y las oportunidades cotidianas para mantenerse activo y relacionarse. Las promesas de una cura universal no deben desplazar la atención establecida. [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments)"
+    },
+    {
+      "type": "subheading",
+      "text": "ATENCIÓN MÉDICA Y SALUD MENTAL EN LA VIDA ADULTA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los adultos necesitan atención primaria continua, no solo servicios organizados en torno al desarrollo infantil. La guía de JAMA de 2020 sobre atención adulta aborda, entre otras cuestiones, la enfermedad tiroidea, la salud mental y la evaluación de la demencia. Un cambio de ánimo, sueño, conducta o funcionamiento cotidiano requiere prestar atención al nivel habitual de la persona y a posibles causas médicas o ambientales. [Fuente o lectura relacionada](https://jamanetwork.com/journals/jama/fullarticle/2771907)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las personas con síndrome de Down pueden experimentar depresión, ansiedad y otras dificultades de salud mental. Describirlas como naturalmente alegres puede hacer que el malestar pase inadvertido. La evaluación debe permitir una comunicación accesible e incluir información de quienes conocen a la persona, manteniendo su propia experiencia en el centro. [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated) [Fuente o lectura relacionada](https://jamanetwork.com/journals/jama/fullarticle/2771907)"
+    },
+    {
+      "type": "subheading",
+      "text": "ESPERANZA DE VIDA: CONTEXTO ÚTIL, NO UN PLAZO INDIVIDUAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "En una declaración publicada el 20 de marzo de 2026, la Agencia para la Investigación y la Calidad de la Atención Médica de Estados Unidos describió la esperanza de vida de las personas con síndrome de Down como de unos 60 años. Es un resumen general, no una garantía mundial ni una edad máxima. No predice el futuro de una persona, especialmente en contextos con distinto acceso al diagnóstico, el tratamiento y el apoyo continuo. [Fuente o lectura relacionada](https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La misma revisión de AHRQ destacó importantes lagunas en las pruebas que orientan la atención adulta. La mayor longevidad hace cada vez más importantes los mejores servicios para adultos, la investigación sobre el envejecimiento y la continuidad del apoyo. Sería engañoso presentar una cifra aproximada de esperanza de vida como si ya se hubieran respondido todas las preguntas sobre un envejecimiento saludable. [Fuente o lectura relacionada](https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "SÍNDROME DE DOWN Y ENFERMEDAD DE ALZHEIMER"
+    },
+    {
+      "type": "paragraph",
+      "text": "La enfermedad de Alzheimer es una preocupación importante a medida que envejecen las personas con síndrome de Down. El cromosoma 21 contiene el gen de la proteína precursora amiloide, o APP; la dosis génica adicional ayuda a explicar la conexión biológica. Sin embargo, los cambios cerebrales asociados al Alzheimer y la demencia que se manifiesta clínicamente no son lo mismo, y no todas las personas desarrollan demencia a la misma edad. [Fuente o lectura relacionada](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/alzheimers-disease-people-down-syndrome)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No se debe atribuir automáticamente una nueva dificultad a la demencia. Problemas como la enfermedad tiroidea, la depresión o una alteración sensorial pueden requerir otro tratamiento. La evaluación compara las capacidades actuales con el funcionamiento previo de la propia persona. La  aporta contexto sobre la diferencia entre patología cerebral, síntomas y diagnóstico. [Fuente o lectura relacionada](/articles/alzheimers-disease-brain-memory-loss/) [Fuente o lectura relacionada](https://www.cntw.nhs.uk/resources/downs-syndrome-and-dementia-support-guide)"
+    },
+    {
+      "type": "heading",
+      "text": "EDUCACIÓN, EMPLEO E INDEPENDENCIA"
+    },
+    {
+      "type": "subheading",
+      "text": "EL APRENDIZAJE DEBE SEGUIR ABIERTO A DISTINTAS POSIBILIDADES"
+    },
+    {
+      "type": "paragraph",
+      "text": "La educación funciona mejor cuando las expectativas se individualizan en vez de decidirse a partir de una etiqueta diagnóstica. Algunos niños asisten a escuelas ordinarias con apoyo; otros se benefician de otros entornos. La enseñanza accesible, la comunicación clara y la colaboración entre familias, docentes y especialistas ayudan a encontrar el ambiente adecuado para cada estudiante. La inclusión exige participación real, no solo compartir una sala. [Fuente o lectura relacionada](https://www.nhs.uk/conditions/downs-syndrome/how-to-help-children-and-young-people/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudiante quizá necesite que se divida una instrucción en pasos, un recordatorio visual o más tiempo para responder. Esos ajustes no hacen que el aprendizaje sea menos auténtico. El progreso también va más allá de los exámenes: explicar una necesidad, comprender un trayecto y utilizar una habilidad en un entorno nuevo pueden tener gran valor cotidiano."
+    },
+    {
+      "type": "subheading",
+      "text": "TRABAJO: LAS OPORTUNIDADES NECESITAN APOYO PRÁCTICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los adultos con síndrome de Down pueden tener empleos remunerados, pero no hay una única ocupación adecuada para todos. Los recursos laborales de NDSS destacan la importancia de ajustar el trabajo a las fortalezas y los intereses, preparar a los empleadores y ofrecer formación y apoyo apropiados. El nombre de un puesto, por sí solo, dice poco sobre la participación real o las oportunidades de desarrollo. [Fuente o lectura relacionada](https://ndss.org/resources/partnering-career-success)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre los apoyos útiles en el trabajo puede haber instrucciones claras sobre las tareas, una persona identificada a quien hacer preguntas y ajustes en la formación. Los colegas deben incluir al empleado en la comunicación y las decisiones relacionadas con su trabajo. El programa de NDSS establece como meta explícita el empleo competitivo e integrado, no tratar el trabajo como un gesto de caridad. [Fuente o lectura relacionada](https://ndss.org/resources/partnering-career-success) [Fuente o lectura relacionada](https://ndss.org/employment-program)"
+    },
+    {
+      "type": "subheading",
+      "text": "SER INDEPENDIENTE NO SIGNIFICA HACERLO TODO SIN AYUDA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vivienda y las necesidades de apoyo varían. Algunos adultos realizan por su cuenta muchas actividades cotidianas; otros requieren ayuda considerable. La pregunta más útil es qué combinación de habilidades, servicios accesibles y apoyo fiable permite a esta persona ejercer decisiones significativas. Necesitar ayuda en un ámbito no debe borrar las capacidades que tiene en otro. [Fuente o lectura relacionada](https://www.nhs.uk/conditions/downs-syndrome/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La toma de decisiones con apoyo ofrece un principio útil: ayudar a alguien a comprender las opciones y expresar sus preferencias, en vez de sustituir automáticamente sus decisiones. En la atención médica, esto puede significar explicaciones accesibles, tiempo para hacer preguntas y una persona de apoyo en quien el individuo confíe. Los mecanismos legales varían, pero el respeto a la persona debe seguir siendo el punto de partida. [Fuente o lectura relacionada](https://ndss.org/resources/medical-home-care-family-centered-care-shared-decision-making-and-supported-decision)"
+    },
+    {
+      "type": "heading",
+      "text": "AMISTAD, RELACIONES, MATRIMONIO Y PATERNIDAD O MATERNIDAD"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las personas con síndrome de Down tienen sus propios intereses en la amistad, la intimidad y las relaciones de pareja. Algunas quieren relaciones románticas; otras no. La educación sexual debe ser accesible e incluir consentimiento, límites, privacidad, anticoncepción y cómo reconocer la coacción. Tratar a los adultos como niños perpetuos puede dejar estos asuntos importantes sin abordar. [Fuente o lectura relacionada](https://ndss.org/resources/relationships-sexuality)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Convención de las Naciones Unidas sobre los Derechos de las Personas con Discapacidad reconoce el derecho de las personas en edad de contraer matrimonio a casarse con libre y pleno consentimiento, y aborda los derechos familiares y parentales. Las leyes nacionales y las circunstancias jurídicas individuales varían. Un diagnóstico por sí solo no permite evaluar por completo los deseos ni la capacidad de decisión de una persona. [Fuente o lectura relacionada](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-23-respect-for-home-and-the-family.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fertilidad y la crianza son asuntos distintos. Algunas mujeres con síndrome de Down pueden quedar embarazadas, y la atención reproductiva debe incluir una conversación individualizada sobre salud, anticoncepción y asesoramiento genético. Ni dar por sentada la infertilidad ni predecir en bloque el futuro de un hijo son bases adecuadas para aconsejar. [Fuente o lectura relacionada](https://ndss.org/resources/primary-care-providers-guide-womens-health-and-down-syndrome)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo general, la fertilidad está reducida en los hombres con síndrome de Down, pero afirmar que «todos los hombres son infértiles» es demasiado categórico. Un informe de caso revisado por pares de 2006 documentó que un hombre con síndrome de Down sin mosaicismo fue padre. Un solo caso demuestra que es posible; no establece una tasa de fertilidad poblacional ni predice las circunstancias reproductivas de una persona concreta. [Fuente o lectura relacionada](https://ndss.org/resources/relationships-sexuality) [Fuente o lectura relacionada](https://pubmed.ncbi.nlm.nih.gov/17094988/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La crianza requiere evaluar las responsabilidades prácticas, los apoyos disponibles y las necesidades del niño, no recurrir a estereotipos sobre una condición cromosómica. La Convención pide asistencia para ejercer las responsabilidades de crianza. El respeto a los derechos y la consideración seria de las necesidades de apoyo deben formar parte de la misma conversación. [Fuente o lectura relacionada](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-23-respect-for-home-and-the-family.html)"
+    },
+    {
+      "type": "heading",
+      "text": "MITO Y REALIDAD"
+    },
+    {
+      "type": "subheading",
+      "text": "MITO: todas las personas tienen el mismo nivel de inteligencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: un diagnóstico describe una condición, no todo el perfil cognitivo. El aprendizaje y la comunicación varían. La evaluación debe identificar fortalezas y necesidades de apoyo, en lugar de fijar el futuro a partir de una etiqueta. Tener dificultad para hablar no sirve para juzgar por atajo todo lo que una persona comprende. [Fuente o lectura relacionada](https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms)"
+    },
+    {
+      "type": "subheading",
+      "text": "MITO: las personas con síndrome de Down siempre están felices"
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: tienen personalidades propias y una vida emocional plena. Una persona puede ser sociable o reservada, estar contenta o molesta. El estereotipo de la alegría puede parecer un cumplido, pero desalienta a los demás de escuchar cuando alguien está frustrado, ansioso o enfermo. [Fuente o lectura relacionada](https://www.nhs.uk/conditions/downs-syndrome/) [Fuente o lectura relacionada](https://jamanetwork.com/journals/jama/fullarticle/2771907)"
+    },
+    {
+      "type": "subheading",
+      "text": "MITO: una vida adulta valiosa requiere independencia total"
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: el trabajo, las relaciones y las decisiones personales pueden coexistir con un apoyo considerable. El objetivo es la participación significativa y la capacidad de decidir, no un estándar universal de vida sin ayuda. Tanto subestimar a una persona como retirarle la asistencia necesaria puede limitar sus oportunidades. [Fuente o lectura relacionada](https://ndss.org/resources/medical-home-care-family-centered-care-shared-decision-making-and-supported-decision) [Fuente o lectura relacionada](https://ndss.org/employment-program)"
+    },
+    {
+      "type": "subheading",
+      "text": "MITO: las personas con síndrome de Down no pueden trabajar ni tener relaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: son posibles el empleo remunerado y las relaciones íntimas. No hay que imponer ninguno como prueba de éxito ni descartarlos de antemano. La formación, la información accesible, el consentimiento y el apoyo adecuado importan más que las generalizaciones sobre lo que puede o no puede hacer todo un grupo. [Fuente o lectura relacionada](https://ndss.org/employment-program) [Fuente o lectura relacionada](https://ndss.org/resources/relationships-sexuality)"
+    },
+    {
+      "type": "subheading",
+      "text": "MITO: la calidad de vida tiene que ser mala"
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: las suposiciones de quienes observan desde fuera no sustituyen la escucha. En un estudio de 2011 se encuestó a 284 personas con síndrome de Down de 12 años o más, captadas mediante seis organizaciones sin fines de lucro de Estados Unidos. La mayoría afirmó tener sentimientos positivos sobre su vida. El método de reclutamiento y quiénes pudieron responder limitan la generalización: el estudio no demuestra que todo el mundo sea feliz ni que desaparezcan las necesidades de apoyo. Sí cuestiona la suposición de que el diagnóstico determina por sí solo cómo se vive. [Fuente o lectura relacionada](https://pmc.ncbi.nlm.nih.gov/articles/PMC3740159/)"
+    },
+    {
+      "type": "subheading",
+      "text": "MITO: una prueba de cribado positiva se lo dice todo a la familia"
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: el cribado estima probabilidades y requiere una interpretación cuidadosa. Ni siquiera un diagnóstico cromosómico confirmado puede ofrecer un pronóstico detallado de la vida de un niño. La información médica precisa y el contacto con distintas experiencias vividas son más útiles que las predicciones catastróficas o las promesas de que todo será fácil. [Fuente o lectura relacionada](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests) [Fuente o lectura relacionada](https://medlineplus.gov/ency/article/000997.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ AÚN NECESITA ENTENDER LA CIENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Siguen abiertas preguntas importantes sobre por qué varían tanto la salud y el desarrollo, y sobre cómo apoyar mejor a los adultos durante una vida más larga. La revisión de AHRQ de 2026 deja claro que persisten lagunas en la evidencia sobre la atención adulta. Una recomendación puede resultar clínicamente útil aunque sigan siendo limitadas las pruebas de algunos detalles; conviene reconocer la incertidumbre, no ocultarla. [Fuente o lectura relacionada](https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación también debe responder preguntas de la vida diaria. ¿Una intervención mejora la comunicación fuera de la clínica? ¿Un servicio aumenta las opciones reales? ¿Se incluye a los adultos en las conversaciones sobre el apoyo que reciben? Una medida biológica y un resultado significativo no siempre son lo mismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprender la trisomía 21 es valioso porque permite mejorar la atención. Comprender a las personas requiere otro tipo de atención: conocer sus preferencias, escuchar cómo se comunican y permitir que sus vidas sean más concretas que un diagnóstico. El cromosoma forma parte de la historia. Nunca es toda la persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este artículo ofrece información general, no un diagnóstico ni un plan de atención individualizado. Un profesional clínico o asesor genético puede interpretar un resultado concreto y conversar sobre cuestiones personales de salud y reproducción."
+    }
+  ],
+  "sources": [
+    {
+      "label": "CDC: información sobre el síndrome de Down",
+      "url": "https://www.cdc.gov/birth-defects/about/down-syndrome.html"
+    },
+    {
+      "label": "MedlinePlus Genetics: síndrome de Down",
+      "url": "https://medlineplus.gov/genetics/condition/down-syndrome/"
+    },
+    {
+      "label": "NICHD: causas del síndrome de Down",
+      "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes"
+    },
+    {
+      "label": "NHS: síndrome de Down",
+      "url": "https://www.nhs.uk/conditions/downs-syndrome/"
+    },
+    {
+      "label": "NICHD: síntomas y desarrollo",
+      "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms"
+    },
+    {
+      "label": "ACOG: pruebas de cribado genético prenatal",
+      "url": "https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests"
+    },
+    {
+      "label": "ACOG: cribado de anomalías cromosómicas fetales, 2026",
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2026/01/screening-for-fetal-chromosomal-abnormalities"
+    },
+    {
+      "label": "MedlinePlus: diagnóstico y atención del síndrome de Down",
+      "url": "https://medlineplus.gov/ency/article/000997.htm"
+    },
+    {
+      "label": "Academia Estadounidense de Pediatría: supervisión de salud, 2022",
+      "url": "https://publications.aap.org/pediatrics/article/149/5/e2022057010/186778/Health-Supervision-for-Children-and-Adolescents"
+    },
+    {
+      "label": "NICHD: afecciones de salud asociadas",
+      "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated"
+    },
+    {
+      "label": "NICHD: tratamientos e intervención temprana",
+      "url": "https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments"
+    },
+    {
+      "label": "JAMA: atención médica de adultos con síndrome de Down, 2020",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2771907"
+    },
+    {
+      "label": "AHRQ: lagunas en la evidencia sobre atención adulta, 20 de marzo de 2026",
+      "url": "https://www.ahrq.gov/news/newsroom/press-releases/adult-down-syndrome-care.html"
+    },
+    {
+      "label": "Instituto Nacional sobre el Envejecimiento: Alzheimer y síndrome de Down",
+      "url": "https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/alzheimers-disease-people-down-syndrome"
+    },
+    {
+      "label": "NHS: apoyo a niños y jóvenes",
+      "url": "https://www.nhs.uk/conditions/downs-syndrome/how-to-help-children-and-young-people/"
+    },
+    {
+      "label": "NDSS: colaboración para el éxito profesional",
+      "url": "https://ndss.org/resources/partnering-career-success"
+    },
+    {
+      "label": "NDSS: atención centrada en la familia y decisiones con apoyo",
+      "url": "https://ndss.org/resources/medical-home-care-family-centered-care-shared-decision-making-and-supported-decision"
+    },
+    {
+      "label": "NDSS: relaciones y sexualidad",
+      "url": "https://ndss.org/resources/relationships-sexuality"
+    },
+    {
+      "label": "ONU, CDPD, artículo 23: hogar y familia",
+      "url": "https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-23-respect-for-home-and-the-family.html"
+    },
+    {
+      "label": "Pradhan y colaboradores: paternidad de un hombre con síndrome de Down, informe de caso de 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17094988/"
+    },
+    {
+      "label": "Skotko y colaboradores: autopercepción de personas con síndrome de Down, 2011",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3740159/"
+    },
+    {
+      "label": "NDSS: programa de empleo",
+      "url": "https://ndss.org/employment-program"
+    },
+    {
+      "label": "NHS: guía de apoyo sobre síndrome de Down y demencia",
+      "url": "https://www.cntw.nhs.uk/resources/downs-syndrome-and-dementia-support-guide"
+    },
+    {
+      "label": "NDSS: salud de las mujeres y síndrome de Down",
+      "url": "https://ndss.org/resources/primary-care-providers-guide-womens-health-and-down-syndrome"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué es el síndrome de Down?",
+      "answer": "Es una condición genética causada por una copia completa o parcial adicional del cromosoma 21. Influye en el desarrollo y aumenta algunos riesgos de salud, pero las capacidades, la salud y las necesidades de apoyo varían mucho."
+    },
+    {
+      "question": "¿La trisomía 21 es lo mismo que el síndrome de Down?",
+      "answer": "La trisomía 21 completa es la forma más común e implica tres copias separadas del cromosoma 21. También existen formas por translocación y en mosaico."
+    },
+    {
+      "question": "¿Se hereda el síndrome de Down?",
+      "answer": "La mayoría de los casos no se heredan. Algunos casos por translocación pueden transmitirse a través de un progenitor con una reordenación cromosómica equilibrada. El asesoramiento genético puede explicar un resultado cromosómico y las circunstancias familiares concretas."
+    },
+    {
+      "question": "¿Un resultado positivo de NIPT diagnostica el síndrome de Down?",
+      "answer": "No. El NIPT es una prueba de cribado, no diagnóstica. Un resultado positivo requiere asesoramiento y hablar de pruebas diagnósticas, como la biopsia de vellosidades coriónicas o la amniocentesis."
+    },
+    {
+      "question": "¿Cuál es la esperanza de vida de las personas con síndrome de Down?",
+      "answer": "En marzo de 2026, AHRQ la describió como de unos 60 años. Es un resumen general, no una edad máxima ni un pronóstico individual; importan el acceso a la atención médica y las circunstancias de cada persona."
+    },
+    {
+      "question": "¿Pueden trabajar y vivir de forma independiente las personas con síndrome de Down?",
+      "answer": "Algunos adultos tienen empleo remunerado y realizan por sí mismos muchas actividades diarias; otros necesitan apoyo considerable. Las habilidades y preferencias individuales, la formación y los servicios accesibles importan más que las suposiciones basadas en el diagnóstico."
+    },
+    {
+      "question": "¿Pueden casarse y tener hijos las personas con síndrome de Down?",
+      "answer": "Las relaciones y el matrimonio son posibles con consentimiento libre e informado y teniendo en cuenta la legislación aplicable. La fertilidad puede estar reducida, pero no debe suponerse que sea inexistente. Las cuestiones reproductivas y de crianza requieren asesoramiento individualizado y considerar las necesidades de apoyo."
+    }
+  ]
+}

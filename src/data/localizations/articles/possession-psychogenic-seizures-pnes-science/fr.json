@@ -1,0 +1,540 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/possession-psychogenic-seizures-pnes-science/",
+  "path": "/fr/articles/possession-psychogenic-seizures-pnes-science/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "POSSESSION OU CRISES PSYCHOGÈNES : QUE DIT VRAIMENT LA SCIENCE ?",
+  "excerpt": "Lorsqu’un épisode semble échapper au contrôle d’une personne, l’explication compte. Découvrez les croyances culturelles, les crises involontaires et ce que les données médicales peuvent réellement établir.",
+  "headlineHighlights": {
+    "red": "CRISES PSYCHOGÈNES",
+    "gold": "SCIENCE"
+  },
+  "seoTitle": "Possession ou crises psychogènes ? PNES, épilepsie et science",
+  "description": "Crises fonctionnelles (PNES), épilepsie, dissociation et paralysie du sommeil : ce que l’EEG peut évaluer, pourquoi les symptômes sont réels et où s’arrêtent les preuves scientifiques.",
+  "keywords": [
+    "crises psychogènes non épileptiques",
+    "PNES",
+    "crises fonctionnelles",
+    "épilepsie et EEG",
+    "possession et science",
+    "paralysie du sommeil",
+    "trouble neurologique fonctionnel"
+  ],
+  "searchIntent": "Distinguer possession comme interprétation culturelle, crises fonctionnelles PNES, épilepsie et autres causes possibles, en comprenant les examens, les limites diagnostiques et les soins.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-22",
+  "updatedAt": "2026-09-22",
+  "image": {
+    "src": "/articles/possession-psychogenic-seizures-science.png",
+    "alt": "Illustration conceptuelle d’une personne en détresse, de proches et d’un clinicien près d’écrans de surveillance cérébrale ; il ne s’agit pas d’un cas médical documenté"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Au fil de l’histoire, un changement soudain de voix, de mouvements ou de conscience a suscité une question inquiétante : qui, ou quoi, est aux commandes ? Certaines communautés ont interprété ces expériences à travers les esprits, les ancêtres, les divinités ou les démons. D’autres se sont tournées vers le corps et l’esprit. Ces traditions ne décrivent pas une expérience uniforme, et le mot « possession » n’a jamais eu de sens universel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aujourd’hui, certains épisodes décrits comme une possession peuvent ressembler à des crises fonctionnelles, aussi appelées crises psychogènes non épileptiques ou PNES, à l’épilepsie, à la dissociation ou à d’autres problèmes de santé. Une ressemblance ne vaut pas diagnostic. La médecine doit examiner chaque épisode, sans prendre une interprétation culturelle pour preuve d’un trouble ni pour preuve qu’il n’y en a pas. [Bhavsar and colleagues: Dissociative trance and spirit possession, 2016](https://doi.org/10.1111/pcn.12425) [Bajestan and LaFrance: Clinical approaches to PNES](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinction médicale essentielle n’oppose pas une expérience réelle à une expérience imaginaire. Les crises fonctionnelles sont réelles et involontaires. Les crises épileptiques le sont également, mais leur mécanisme et leur prise en charge diffèrent. Comprendre ces différences peut éviter à la fois une maladie non traitée et l’accusation injuste de faire semblant. [Sheffield Teaching Hospitals: What are functional seizures?](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/) [NIH: Understanding epilepsy, February 2026](https://newsinhealth.nih.gov/2026/02/understanding-epilepsy)"
+    },
+    {
+      "type": "heading",
+      "text": "LA POSSESSION À TRAVERS L’HISTOIRE : UN MOT, DES EXPÉRIENCES DIVERSES"
+    },
+    {
+      "type": "subheading",
+      "text": "Les textes anciens ne sont pas des dossiers médicaux modernes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les historiens de l’Égypte et de la Mésopotamie anciennes étudient des textes sur les influences divines et surnaturelles, mais débattent de leur proximité avec ce que les lecteurs d’aujourd’hui nomment la possession. La description d’un rituel n’est pas un examen neurologique. Projeter un diagnostic actuel sur chaque récit ancien peut être aussi trompeur que de supposer que toutes ces descriptions concernent le même phénomène surnaturel. [Oxford Academic: Ideas of possession in ancient Egypt and Mesopotamia](https://academic.oup.com/book/58134/chapter-abstract/480188989)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les documents historiques n’étayent pas non plus l’idée simple selon laquelle toutes les sociétés auraient craint la possession de la même manière. L’étude de Frederick M. Smith sur des traditions sud-asiatiques décrit des formes de possession par des divinités ou des esprits, dont certaines pratiques extatiques ou oraculaires reconnues. Participer à une tradition religieuse n’est pas en soi un signe de maladie. [Frederick M. Smith: The Self Possessed, Columbia University Press](https://www.jstor.org/stable/10.7312/smit13748)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les significations religieuses et culturelles diffèrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les traditions de zār documentées dans certaines régions d’Afrique et d’Iran inscrivent les expériences liées aux esprits dans des contextes sociaux et rituels particuliers. Leurs pratiques et leurs significations varient selon les communautés. Une revue de ces traditions insiste sur l’importance du contexte culturel, plutôt que de traiter une étiquette commune comme un trouble unique doté d’une seule cause. [Zār spirit possession in Iran and African countries: cultural review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4801492/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans certains contextes musulmans, la détresse ou les expériences inhabituelles peuvent être comprises à travers la croyance aux djinns. Une revue médicale de 2014 a étudié cette grille d’interprétation dans les soins psychiatriques. Cela ne signifie ni que tous les musulmans partagent la même interprétation ni que croire aux djinns soit un symptôme psychiatrique. Avant de décider de ce qui nécessite une évaluation, les cliniciens doivent comprendre le sens que la personne et sa communauté donnent à cette croyance. [Lim and colleagues: Attribution of psychotic symptoms to jinn, 2014 review](https://pubmed.ncbi.nlm.nih.gov/25080427/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les traditions chrétiennes diffèrent elles aussi. Dans la pratique catholique, les directives publiées par la Conférence des évêques catholiques des États-Unis préconisent une évaluation médicale et psychologique ou psychiatrique approfondie lors de l’examen d’une possession présumée. Cette recommandation renseigne sur la procédure d’une institution religieuse ; elle ne constitue pas une validation scientifique d’une cause surnaturelle. Elle montre que préoccupation religieuse et investigation médicale ne sont pas nécessairement incompatibles. [USCCB: Exorcism and medical assessment, December 2014](https://www.usccb.org/resources/newsletter-2014-12.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "À quel moment une expérience devient-elle un problème clinique ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La psychiatrie culturelle distingue les expériences rituelles socialement acceptées des états indésirables associés à la détresse, à une incapacité ou à un danger. Les limites peuvent être difficiles à apprécier d’une langue et d’une tradition à l’autre. Le clinicien demande si l’expérience est volontaire ou non, ce qui se passe en dehors du rituel et comment la personne fonctionne au quotidien. Une apparence de transe ne suffit pas à diagnostiquer un trouble. [Bhavsar and colleagues: Dissociative trance and spirit possession, 2016](https://doi.org/10.1111/pcn.12425)"
+    },
+    {
+      "type": "heading",
+      "text": "QUE SONT LES CRISES FONCTIONNELLES, OU PNES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les crises fonctionnelles sont des épisodes qui modifient les mouvements, la réactivité ou la conscience et ressemblent à des crises épileptiques, sans être produites par l’activité électrique épileptique qui caractérise ces dernières. Elles peuvent prendre la forme de secousses ou, au contraire, d’une immobilité et d’une absence de réponse. Leur présentation varie et doit être interprétée par une personne formée à l’évaluation des crises. [Sheffield Teaching Hospitals: What are functional seizures?](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "PNES est l’abréviation de « crises psychogènes non épileptiques ». On rencontre aussi les termes « crises dissociatives » ou « crises fonctionnelles », ce dernier étant de plus en plus utilisé dans les recommandations cliniques. Le vocabulaire compte : « non épileptique » décrit une différence de mécanisme et ne signifie pas que l’épisode est irréel. Les anciens termes évoquant une crise « pseudo » ou simulée peuvent stigmatiser. [ILAE: Psychogenic seizures, diagnosis, treatment and stigma](https://www.ilae.org/journals/epigraph/epigraph-vol-21-issue-2-spring-2019/inside-the-world-of-psychogenic-seizures-diagnosis-treatment-and-stigma)"
+    },
+    {
+      "type": "subheading",
+      "text": "Réelles et involontaires, elles ne sont pas jouées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une personne qui fait une crise fonctionnelle ne choisit pas simplement de la jouer. La perte de contrôle, la peur, l’épuisement et les répercussions sur le travail ou les études peuvent être importants. Le diagnostic devrait être expliqué de façon positive : ce que le clinicien a observé, pourquoi cela appuie le diagnostic et quelle aide est disponible. Dire à la personne que « tout va bien » déforme la réalité de son état. [Sheffield Teaching Hospitals: What are functional seizures?](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/) [ILAE: Psychogenic seizures, diagnosis, treatment and stigma](https://www.ilae.org/journals/epigraph/epigraph-vol-21-issue-2-spring-2019/inside-the-world-of-psychogenic-seizures-diagnosis-treatment-and-stigma)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les crises fonctionnelles sont une manifestation du trouble neurologique fonctionnel, ou TNF. Celui-ci peut également provoquer faiblesse, altération des sensations ou troubles du mouvement. Les recherches actuelles étudient le fonctionnement perturbé de réseaux cérébraux, notamment ceux liés à l’attention, au mouvement et au sentiment d’être l’auteur de ses actes. Le TNF ne s’explique pas correctement par une opposition simpliste entre maladie « physique » et maladie « mentale ». [Hallett and colleagues: Functional neurological disorder, 2022 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une imagerie cérébrale classique peut être normale en cas de TNF. Cela ne rend pas les symptômes volontaires, mais un examen normal ne suffit pas non plus à poser le diagnostic. Celui-ci s’appuie sur des signes positifs et sur une évaluation adaptée des autres explications possibles. L’absence de lésion structurelle visible ne signifie pas qu’il n’existe pas de problème de santé réel. [Hallett and colleagues: Functional neurological disorder, 2022 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/)"
+    },
+    {
+      "type": "heading",
+      "text": "LES CRISES ÉPILEPTIQUES PEUVENT PRENDRE DES FORMES TRÈS DIFFÉRENTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les crises épileptiques résultent d’une activité électrique anormale dans le cerveau. Elles ne se limitent pas à un effondrement suivi de convulsions de tout le corps. Selon les réseaux cérébraux concernés, elles peuvent modifier les sensations, les émotions, le comportement, les mouvements ou la conscience. Une personne peut sembler absente un bref instant, répéter des gestes ou ressentir quelque chose d’intense et d’inhabituel. [NIH: Understanding epilepsy, February 2026](https://newsinhealth.nih.gov/2026/02/understanding-epilepsy) [NINDS: Epilepsy and seizures](https://www.ninds.nih.gov/node/647)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certaines crises focales peuvent provoquer une peur soudaine, des sensations inhabituelles ou un déjà-vu. Ces expériences peuvent sembler très convaincantes sans révéler à un observateur leur cause. Le [guide de PRESDA sur le déjà-vu et le cerveau](/articles/deja-vu-why-does-it-happen-brain-science/) explique pourquoi cette sensation peut survenir dans la vie courante comme dans certains contextes neurologiques. La plupart des déjà-vu ordinaires ne sont pas des signes d’épilepsie. [NINDS: Epilepsy and seizures](https://www.ninds.nih.gov/node/647)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une crise épileptique et un diagnostic d’épilepsie ne sont pas la même chose : une crise peut aussi survenir lors d’un trouble médical aigu. Le contexte et les antécédents cliniques comptent. C’est une autre raison pour laquelle un mouvement spectaculaire ou une courte vidéo ne remplace pas une évaluation. [NICE NG217: Diagnosis and assessment of epilepsy](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)"
+    },
+    {
+      "type": "heading",
+      "text": "AUTRES ÉTATS QUI PEUVENT RESSEMBLER À UN RÉCIT DE POSSESSION"
+    },
+    {
+      "type": "subheading",
+      "text": "Dissociation et états de transe."
+    },
+    {
+      "type": "paragraph",
+      "text": "La dissociation peut donner l’impression d’être détaché de soi ou de son environnement, modifier le sentiment d’identité ou entraîner des trous de mémoire. Elle n’est pas synonyme de psychose, et toute expérience dissociative n’est pas une crise. Le sentiment de ne pas maîtriser ses actes peut néanmoins être interprété comme l’action d’une force extérieure. [NHS: Dissociative disorders](https://www.nhs.uk/mental-health/conditions/dissociative-disorders/) [Bhavsar and colleagues: Dissociative trance and spirit possession, 2016](https://doi.org/10.1111/pcn.12425)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’évaluation porte sur ce que la personne éprouve réellement, sans lui imposer une explication d’emblée. Se sentir irréel, perdre la notion du temps et entendre une voix sont des descriptions différentes qui appellent des questions différentes. Une expression culturellement familière peut communiquer une détresse, mais ne détermine pas le diagnostic médical."
+    },
+    {
+      "type": "subheading",
+      "text": "Traumatisme et détresse intense : des facteurs pertinents, mais pas universels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une revue systématique et méta-analyse de 2018 a établi que les personnes atteintes d’un TNF rapportaient plus souvent des événements de vie stressants et des mauvais traitements que les groupes de comparaison. Fait crucial, certains patients ne signalaient aucun facteur de stress de ce type. Ces résultats justifient une évaluation attentive aux traumatismes, mais pas l’hypothèse que chaque patient en cache un. Une association à l’échelle d’un groupe ne permet pas d’établir la cause d’un épisode individuel. [Ludwig and colleagues: Stress and maltreatment in FND, 2018 meta-analysis](https://pubmed.ncbi.nlm.nih.gov/29526521/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour certaines personnes, une détresse grave ou un traumatisme joue un rôle important dans le tableau clinique. Pour d’autres, les facteurs pertinents peuvent être différents ou rester incertains. Les soins doivent permettre de parler d’expériences difficiles sans pousser la personne à raconter une histoire particulière. L’absence de traumatisme rapporté ne prouve ni une simulation ni l’absence de symptômes fonctionnels. [Ludwig and colleagues: Stress and maltreatment in FND, 2018 meta-analysis](https://pubmed.ncbi.nlm.nih.gov/29526521/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Attaques de panique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une attaque de panique peut provoquer une peur intense, un cœur qui s’emballe, des tremblements, un essoufflement et l’impression de perdre le contrôle ou de mourir. Ce sont des expériences corporelles et émotionnelles authentiques. Toutefois, une attaque de panique n’est pas interchangeable avec une PNES, et de nouveaux symptômes thoraciques, un effondrement ou une altération de la conscience ne devraient pas être automatiquement attribués à l’anxiété. [NIMH: Panic disorder](https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms)"
+    },
+    {
+      "type": "subheading",
+      "text": "Paralysie du sommeil et sensation d’une présence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant une paralysie du sommeil, une personne peut être consciente tout en étant temporairement incapable de bouger ou de parler, au moment de s’endormir ou de se réveiller. Elle peut sentir une présence dans la pièce, une pression sur le corps ou une peur intense. L’expérience survient à la frontière entre sommeil et éveil, avant le retour du contrôle musculaire associé à l’état éveillé. [NHS: Sleep paralysis](https://www.nhs.uk/conditions/sleep-paralysis/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela aide à comprendre pourquoi les expériences nocturnes peuvent être interprétées comme une intrusion ou une attaque surnaturelle. La terreur ressentie est réelle ; son interprétation est une question distincte. La paralysie du sommeil n’explique pas les épisodes survenant dans d’autres circonstances. Des épisodes récurrents qui font souffrir ou perturbent le sommeil méritent d’être évoqués avec un professionnel de santé. [NHS: Sleep paralysis](https://www.nhs.uk/conditions/sleep-paralysis/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Évanouissement, maladie, substances et troubles psychiatriques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un évanouissement peut s’accompagner de brèves secousses : des tremblements visibles ne suffisent donc pas à établir une épilepsie. Les ressources diagnostiques de l’ILAE décrivent divers imitateurs de l’épilepsie, notamment la syncope et certains événements liés au sommeil. La succession des symptômes et la récupération peuvent être aussi instructives que le moment le plus spectaculaire. [ILAE EpilepsyDiagnosis.org: Epilepsy imitators](https://www.epilepsydiagnosis.org/epilepsy-imitators.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une hypoglycémie et d’autres troubles médicaux peuvent aussi produire des manifestations ressemblant à une crise ou une altération de la conscience. Une confusion soudaine peut être due à une infection, aux effets d’un médicament, à l’alcool ou à des drogues, ou à d’autres urgences. Ces possibilités nécessitent une évaluation médicale : le choix ne se limite pas à l’épilepsie ou à la possession. [Epilepsy Foundation: Diagnosing epilepsy imitators](https://www.epilepsy.com/diagnosis/imitators-epilepsy) [NHS: Sudden confusion and delirium](https://www.nhs.uk/symptoms/confusion/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’encéphalite, une inflammation du cerveau, est un exemple de maladie grave susceptible de provoquer des crises, un changement de comportement et des hallucinations. La psychose peut également impliquer des hallucinations ou des croyances altérées, mais une hallucination ne constitue pas à elle seule un diagnostic. Une croyance religieuse ou un comportement inhabituel n’identifie en soi ni psychose, ni encéphalite, ni aucun autre trouble. [NHS: Encephalitis symptoms](https://www.nhs.uk/conditions/encephalitis/symptoms/) [NHS: Psychosis](https://www.nhs.uk/mental-health/conditions/psychosis/overview/)"
+    },
+    {
+      "type": "heading",
+      "text": "POSSESSION OU CRISE : QUE PEUT VRAIMENT EXAMINER LA MÉDECINE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La médecine ne dispose pas d’un test de laboratoire pour la possession. Elle peut examiner des explications précises aux mouvements, aux changements de conscience, aux perceptions inhabituelles ou à la perte de contrôle. La question pratique est de savoir quel diagnostic correspond le mieux aux antécédents, à l’examen et aux résultats, et quel degré de certitude ceux-ci permettent."
+    },
+    {
+      "type": "subheading",
+      "text": "Commencer par l’épisode dans son ensemble."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une évaluation neurologique prend en compte ce qui s’est passé avant, pendant et après l’épisode, les antécédents médicaux, les médicaments et les observations des témoins. Le NICE recommande un ECG après une première crise suspectée afin de repérer d’éventuels troubles cardiaques qui peuvent imiter l’épilepsie. Des analyses sanguines et une imagerie cérébrale peuvent être indiquées selon les circonstances. Le bilan est adapté à la personne ; il ne s’agit pas d’une liste universelle obligatoire. [NICE NG217: Diagnosis and assessment of epilepsy](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les épisodes récurrents de types différents devraient être décrits séparément. Un effondrement soudain après s’être levé, un événement nocturne et un épisode prolongé de secousses peuvent avoir des causes différentes. Cette distinction est particulièrement importante lorsqu’il existe plusieurs types de crises. [American Academy of Neurology: Functional seizures guideline, December 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)"
+    },
+    {
+      "type": "subheading",
+      "text": "L’EEG de routine : utile, mais pas un verdict."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’électroencéphalogramme, ou EEG, enregistre l’activité électrique à l’aide d’électrodes placées sur le cuir chevelu. Un EEG de routine ne couvre qu’une période limitée et peut être réalisé entre deux épisodes. Le NICE déconseille explicitement d’utiliser l’EEG pour exclure l’épilepsie. Un résultat de routine normal ne prouve donc pas une PNES et n’établit pas qu’un épisode inexpliqué ait une origine surnaturelle. [NICE NG217: Diagnosis and assessment of epilepsy](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un tracé anormal exige lui aussi une interprétation experte. Les mouvements et l’activité musculaire peuvent créer des artéfacts ; certains signes électriques n’expliquent pas nécessairement l’épisode examiné. Les résultats sont des éléments de l’évaluation, pas une étiquette autonome apposée à une personne. [Whitehead and colleagues: Video-EEG best practice, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/)"
+    },
+    {
+      "type": "subheading",
+      "text": "La vidéo-EEG : mettre en relation le comportement et l’activité cérébrale."
+    },
+    {
+      "type": "paragraph",
+      "text": "La vidéo-EEG enregistre simultanément la personne et son EEG. Capturer un épisode habituel permet aux spécialistes de comparer ses caractéristiques observables avec le tracé électrique. Un épisode présentant des signes de crise fonctionnelle, sans l’activité épileptique attendue, peut fournir un argument diagnostique fort. Il est essentiel que l’épisode enregistré corresponde à ceux que la personne et ses proches reconnaissent. [Whitehead and colleagues: Video-EEG best practice, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il existe une limite importante : certaines crises épileptiques, notamment certaines crises focales, ne produisent pas de signal ictal clair sur l’EEG de surface. Un tracé apparemment vierge ne suffit pas à conclure à une PNES. Il faut examiner ensemble les caractéristiques cliniques de la crise, la qualité de l’enregistrement et le motif électrique attendu. [Whitehead and colleagues: Video-EEG best practice, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vidéo-EEG peut ne pas être disponible ou ne pas parvenir à enregistrer un épisode. Les cadres cliniques distinguent donc plusieurs degrés de certitude diagnostique. Il convient d’expliquer les éléments disponibles et leurs limites, sans prétendre que tous les diagnostics bénéficient du même niveau de confirmation. À partir des antécédents et de signes cliniques positifs, un médecin peut étayer un diagnostic tout en décidant si une surveillance supplémentaire est nécessaire. [Bajestan and LaFrance: Clinical approaches to PNES](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/)"
+    },
+    {
+      "type": "subheading",
+      "text": "L’épilepsie et les crises fonctionnelles peuvent-elles coexister ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oui. Une personne peut avoir les deux, et les recommandations de l’Académie américaine de neurologie préconisent de rechercher une épilepsie concomitante. Enregistrer ou décrire soigneusement chaque épisode habituel aide à éviter de supposer qu’une crise fonctionnelle observée explique tous les événements vécus par la personne. Le plan de soins peut devoir tenir compte des deux troubles. [American Academy of Neurology: Functional seizures guideline, December 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)"
+    },
+    {
+      "type": "subheading",
+      "text": "L’évaluation psychologique fait partie des soins ; ce n’est pas un détecteur de mensonge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une évaluation psychologique ou psychiatrique peut explorer la dissociation, l’anxiété, la dépression, les traumatismes, le stress, les stratégies d’adaptation et les effets des symptômes sur la vie quotidienne. Elle complète l’évaluation neurologique. Un antécédent traumatique ne suffit pas à diagnostiquer une PNES ; inversement, un comportement calme ou l’absence de diagnostic psychiatrique ne l’exclut pas. [Bajestan and LaFrance: Clinical approaches to PNES](https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il faut aussi s’intéresser au sens culturel de l’expérience. Qu’en pense la personne ? Qui a-t-elle consulté ? Quelle aide lui semble acceptable ? Poser ces questions avec respect peut améliorer la compréhension sans obliger le clinicien à approuver une explication surnaturelle ni le patient à renoncer à son identité religieuse."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LES EXPÉRIENCES DE POSSESSION PEUVENT-ELLES SEMBLER TOUT À FAIT RÉELLES ?"
+    },
+    {
+      "type": "subheading",
+      "text": "L’expérience et son explication sont deux choses différentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La certitude d’avoir vécu une expérience n’en établit pas la cause. Une personne peut percevoir sincèrement une présence pendant une paralysie du sommeil ou se sentir détachée de ses propres gestes. Reconnaître l’expérience n’empêche pas d’en examiner le mécanisme. Traiter la personne de crédule n’apporte rien à cette recherche."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les modèles de recherche sur le TNF étudient les interactions entre attention, attentes et sentiment d’être l’auteur de ses actions. Ce sentiment correspond à l’impression qu’une action vient de soi. S’il est perturbé, un mouvement peut sembler échapper au contrôle volontaire sans être produit consciemment. Ces modèles explicatifs évoluent encore ; il n’existe pas de résultat universel à l’imagerie cérébrale permettant d’identifier la cause de chaque épisode. [Fobian and Elliott: Models of functional neurological symptoms, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6306282/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Réponses au stress et attentes acquises."
+    },
+    {
+      "type": "paragraph",
+      "text": "La menace et l’activation physiologique peuvent modifier les sensations corporelles, l’attention et leur interprétation. Lors d’une panique, le cœur qui s’emballe peut à son tour devenir effrayant. Pour les symptômes fonctionnels, les chercheurs étudient comment attentes et attention pourraient façonner ou entretenir certaines expériences. Ces modèles ne signifient pas que la personne « se croit malade » et ne prouvent pas que la croyance cause chaque épisode. [NIMH: Panic disorder](https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms) [Fobian and Elliott: Models of functional neurological symptoms, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6306282/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La culture fournit parfois les mots employés pour décrire une expérience effrayante et influence le recours aux soins. Une expérience comprise à travers les djinns dans un contexte peut être décrite autrement ailleurs. Cela renseigne sur l’interprétation et la recherche d’aide ; cela ne prouve pas qu’une religion provoque des symptômes ni que les croyants y soient particulièrement vulnérables. [Lim and colleagues: Attribution of psychotic symptoms to jinn, 2014 review](https://pubmed.ncbi.nlm.nih.gov/25080427/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La position scientifique la plus prudente laisse plusieurs questions ouvertes à la fois : qu’a ressenti la personne, comment a-t-elle compris l’expérience, quel mécanisme mesurable est étayé et qu’est-ce qui reste inconnu ? Il ne faut pas réduire ces questions à un récit unique simplement parce qu’il est familier."
+    },
+    {
+      "type": "heading",
+      "text": "PRISE EN CHARGE : QUE FAIRE APRÈS UN DIAGNOSTIC ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une explication claire et respectueuse est un point de départ important. Les crises fonctionnelles demandent un suivi et un plan de soins personnalisé. Les recommandations de l’Académie américaine de neurologie de décembre 2025 soutiennent les interventions psychologiques appropriées et déconseillent les médicaments antiépileptiques pour les seules crises fonctionnelles, en l’absence d’épilepsie ou d’une autre indication. Tout traitement existant ne doit être modifié qu’avec le professionnel qui suit la personne, surtout si plusieurs diagnostics coexistent. [American Academy of Neurology: Functional seizures guideline, December 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les données sur les traitements doivent être interprétées avec nuance. L’essai randomisé CODES de 2020 a inclus 368 adultes souffrant de crises dissociatives. L’ajout d’une thérapie cognitivo-comportementale ciblant les crises aux soins médicaux standardisés n’a pas amélioré de façon statistiquement significative le critère principal : la fréquence mensuelle des crises à 12 mois. Plusieurs mesures secondaires, dont le fonctionnement psychosocial, se sont toutefois améliorées. L’essai appelle à une discussion plus nuancée que « la thérapie guérit tout le monde » ou « elle ne sert à rien ». [Goldstein and colleagues: CODES randomized trial, 2020](https://pubmed.ncbi.nlm.nih.gov/32445688/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les soins peuvent aussi porter sur les troubles concomitants et les conséquences pratiques des épisodes. Les progrès peuvent se traduire par un meilleur fonctionnement au quotidien, même sans changement de fréquence des crises. Le soutien spirituel choisi par le patient peut rester important, à condition de ne pas retarder l’évaluation médicale, remplacer un traitement nécessaire ni exposer la personne à la coercition ou à des blessures."
+    },
+    {
+      "type": "heading",
+      "text": "MYTHE ET RÉALITÉ"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : un EEG normal prouve que la personne simule."
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : un EEG de routine peut être normal chez une personne épileptique, et les crises fonctionnelles sont involontaires. Le diagnostic dépend de l’ensemble des éléments cliniques. « Non épileptique » ne veut pas dire « irréel ». [NICE NG217: Diagnosis and assessment of epilepsy](https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy) [Sheffield Teaching Hospitals: What are functional seizures?](https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : tous les épisodes qualifiés de possession sont des PNES."
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : la possession est une description culturelle ou religieuse, pas un syndrome médical unique. Épilepsie, crises fonctionnelles, dissociation, phénomènes liés au sommeil et autres problèmes sont autant de possibilités distinctes. Certaines transes culturellement acceptées ne sont pas des troubles. Les données ne permettent pas d’attribuer de manière responsable une proportion universelle de récits de possession aux PNES."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : une vidéo virale d’exorcisme suffit à établir un diagnostic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : une vidéo peut omettre le début, la récupération, les antécédents médicaux et les examens pertinents. Des mouvements spectaculaires, une voix modifiée ou une réaction apparente à un rituel ne permettent pas, à eux seuls, d’en établir la cause. Les vidéos cliniques peuvent aider les spécialistes lorsqu’elles s’ajoutent aux antécédents et à l’évaluation ; cela ne revient pas à diagnostiquer un inconnu à partir d’images publiques montées. [American Academy of Neurology: Functional seizures guideline, December 2025](https://www.neurology.org/doi/10.1212/WNL.0000000000214466)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : il faut découvrir un traumatisme pour que les crises fonctionnelles soient réelles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : un traumatisme compte pour certains patients, mais n’est pas une condition du diagnostic. Une association statistique ne justifie pas d’inventer un passé traumatique à une personne qui n’en rapporte pas. [Ludwig and colleagues: Stress and maltreatment in FND, 2018 meta-analysis](https://pubmed.ncbi.nlm.nih.gov/29526521/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : une amélioration pendant une prière ou après des paroles rassurantes prouve la cause."
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : constater qu’un épisode s’est arrêté après une action établit une succession, pas un lien de causalité. Sans éléments appropriés, on ne peut distinguer une récupération spontanée de l’effet de paroles rassurantes ou d’autres facteurs. Ni une amélioration spectaculaire ni l’échec d’un traitement ne constituent un test théologique."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : respecter la foi signifie éviter les soins médicaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : une personne peut accorder de l’importance à un soutien religieux tout en recevant des soins neurologiques et de santé mentale. Le respect implique d’écouter, de protéger le consentement et d’éviter les pratiques dangereuses. Les cliniciens peuvent expliquer les éléments médicaux sans transformer la consultation en débat sur toute la vision du monde du patient."
+    },
+    {
+      "type": "heading",
+      "text": "SI QUELQU’UN PRÉSENTE UN ÉPISODE RESSEMBLANT À UNE CRISE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La priorité est la sécurité, pas de décider si l’épisode est épileptique, fonctionnel ou spirituel. Restez auprès de la personne, écartez les objets dangereux, protégez sa tête si elle est au sol et chronométrez l’épisode. Ne la maintenez pas de force, ne mettez rien dans sa bouche et ne lui donnez ni nourriture ni boisson avant qu’elle ait pleinement repris ses esprits. Si possible, tournez-la doucement sur le côté pour garder les voies respiratoires dégagées. [CDC: Seizure first aid](https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Appelez les secours pour une première crise, un épisode de plus de cinq minutes, des crises répétées sans reprise de conscience, des difficultés respiratoires, une blessure grave ou une crise dans l’eau. Une confusion soudaine ou une maladie grave nécessite aussi une évaluation urgente. Les personnes déjà diagnostiquées devraient disposer d’un plan d’intervention personnalisé ; les témoins ne doivent pas refuser d’aider parce qu’ils pensent que l’épisode est fonctionnel. [CDC: Seizure first aid](https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html) [NHS: Sudden confusion and delirium](https://www.nhs.uk/symptoms/confusion/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’image principale est une illustration conceptuelle, et non un épisode clinique documenté ni une preuve diagnostique. Cet article expose des principes généraux et ne peut déterminer la cause des symptômes d’une personne en particulier."
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE LA SCIENCE PEUT, ET NE PEUT PAS, CONCLURE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La science peut examiner des affirmations précises et mesurables sur l’activité cérébrale, le rythme cardiaque, le sommeil, le métabolisme, le comportement et les processus psychologiques. Elle peut reconnaître des troubles connus, comparer des explications et étudier des traitements. Elle peut aussi préciser les limites d’un test et l’incertitude d’un diagnostic."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’absence d’explication n’est pas une preuve positive d’une cause surnaturelle. De même, l’EEG n’est pas un instrument théologique : il ne met pas à l’épreuve une religion entière et ne tranche pas toutes les questions métaphysiques. Expliquer un mécanisme médical et formuler une affirmation philosophique sur l’univers sont deux démarches différentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La conclusion la plus responsable commence par la personne qui a besoin d’aide. Prenez son expérience au sérieux, examinez-la avec soin et exposez les limites des preuves. Respecter une croyance ne doit pas conduire à négliger une maladie. La prudence scientifique ne doit jamais servir de prétexte pour minimiser la souffrance."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Oxford Academic : idées de possession dans l’Égypte et la Mésopotamie anciennes",
+      "url": "https://academic.oup.com/book/58134/chapter-abstract/480188989"
+    },
+    {
+      "label": "Frederick M. Smith : Le soi possédé, Columbia University Press",
+      "url": "https://www.jstor.org/stable/10.7312/smit13748"
+    },
+    {
+      "label": "Revue culturelle : possession par le zār en Iran et dans des pays africains",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4801492/"
+    },
+    {
+      "label": "Lim et coll. : attribution de symptômes psychotiques aux djinns, revue de 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25080427/"
+    },
+    {
+      "label": "Conférence des évêques catholiques des États-Unis : exorcisme et évaluation médicale",
+      "url": "https://www.usccb.org/resources/newsletter-2014-12.pdf"
+    },
+    {
+      "label": "Bhavsar et coll. : transe dissociative et possession spirituelle",
+      "url": "https://doi.org/10.1111/pcn.12425"
+    },
+    {
+      "label": "Hôpitaux universitaires de Sheffield : comprendre les crises fonctionnelles",
+      "url": "https://www.sth.nhs.uk/find-hospitals-and-services/royal-hallamshire-hospital/a-z-hospital-services2/neurology-1/neurology-psychotherapy-service/what-are-functional-seizures-non-epileptic-seizures/"
+    },
+    {
+      "label": "Hallett et coll. : trouble neurologique fonctionnel, revue de 2022",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/"
+    },
+    {
+      "label": "NIH : comprendre l’épilepsie, février 2026",
+      "url": "https://newsinhealth.nih.gov/2026/02/understanding-epilepsy"
+    },
+    {
+      "label": "NINDS : épilepsie et crises",
+      "url": "https://www.ninds.nih.gov/node/647"
+    },
+    {
+      "label": "NHS : troubles dissociatifs",
+      "url": "https://www.nhs.uk/mental-health/conditions/dissociative-disorders/"
+    },
+    {
+      "label": "Ludwig et coll. : stress et maltraitance dans le TNF, méta-analyse de 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29526521/"
+    },
+    {
+      "label": "NIMH : trouble panique",
+      "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms"
+    },
+    {
+      "label": "NHS : paralysie du sommeil",
+      "url": "https://www.nhs.uk/conditions/sleep-paralysis/"
+    },
+    {
+      "label": "ILAE EpilepsyDiagnosis.org : imitateurs de l’épilepsie",
+      "url": "https://www.epilepsydiagnosis.org/epilepsy-imitators.html"
+    },
+    {
+      "label": "NHS : confusion soudaine et délire",
+      "url": "https://www.nhs.uk/symptoms/confusion/"
+    },
+    {
+      "label": "NHS : symptômes de l’encéphalite",
+      "url": "https://www.nhs.uk/conditions/encephalitis/symptoms/"
+    },
+    {
+      "label": "NHS : psychose",
+      "url": "https://www.nhs.uk/mental-health/conditions/psychosis/overview/"
+    },
+    {
+      "label": "NICE NG217 : diagnostic et évaluation de l’épilepsie",
+      "url": "https://www.nice.org.uk/guidance/ng217/chapter/diagnosis-and-assessment-of-epilepsy"
+    },
+    {
+      "label": "Whitehead et coll. : bonnes pratiques de vidéo-EEG, 2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/"
+    },
+    {
+      "label": "Académie américaine de neurologie : recommandations sur les crises fonctionnelles, décembre 2025",
+      "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000214466"
+    },
+    {
+      "label": "Bajestan et LaFrance : approches cliniques des PNES",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6519589/"
+    },
+    {
+      "label": "Fobian et Elliott : modèles des symptômes neurologiques fonctionnels, 2018",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6306282/"
+    },
+    {
+      "label": "ILAE : crises psychogènes, diagnostic, traitement et stigmatisation",
+      "url": "https://www.ilae.org/journals/epigraph/epigraph-vol-21-issue-2-spring-2019/inside-the-world-of-psychogenic-seizures-diagnosis-treatment-and-stigma"
+    },
+    {
+      "label": "Goldstein et coll. : essai randomisé CODES, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32445688/"
+    },
+    {
+      "label": "CDC : premiers secours en cas de crise",
+      "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html"
+    },
+    {
+      "label": "Epilepsy Foundation : diagnostic des imitateurs de l’épilepsie",
+      "url": "https://www.epilepsy.com/diagnosis/imitators-epilepsy"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Que sont les crises psychogènes non épileptiques, ou PNES ?",
+      "answer": "Les PNES, également appelées crises fonctionnelles, sont des épisodes réels et involontaires qui modifient les mouvements, la réactivité ou la conscience. Elles ressemblent aux crises épileptiques, mais ne sont pas produites par l’activité électrique épileptique."
+    },
+    {
+      "question": "Un EEG de routine normal prouve-t-il qu’il s’agit de PNES ?",
+      "answer": "Non. Un EEG de routine peut être normal chez une personne épileptique. Le diagnostic de crises fonctionnelles repose sur des éléments cliniques positifs et l’évaluation d’autres explications, parfois étayée par l’enregistrement vidéo-EEG d’un épisode habituel."
+    },
+    {
+      "question": "Peut-on avoir à la fois de l’épilepsie et des crises fonctionnelles ?",
+      "answer": "Oui. Les deux troubles peuvent coexister. Les cliniciens doivent donc évaluer les différents types d’épisodes et prévoir des soins adaptés à chacun, plutôt que de supposer qu’un seul diagnostic explique tous les événements."
+    },
+    {
+      "question": "La vidéo-EEG est-elle toujours concluante ?",
+      "answer": "La vidéo-EEG peut apporter des éléments solides lorsqu’elle enregistre un épisode typique, mais une interprétation spécialisée est essentielle. Certaines crises épileptiques ne produisent pas de signal clair à l’EEG de surface, et l’examen peut ne pas capturer un épisode habituel."
+    },
+    {
+      "question": "Les crises fonctionnelles sont-elles causées par un traumatisme ?",
+      "answer": "Un traumatisme ou une détresse intense peuvent être pertinents, mais tout le monde ne rapporte pas de telles expériences. Le traumatisme n’est pas nécessaire au diagnostic et une association observée dans un groupe n’établit pas la cause chez une personne."
+    },
+    {
+      "question": "La paralysie du sommeil peut-elle donner l’impression d’une présence surnaturelle ?",
+      "answer": "Oui. Au moment de s’endormir ou de se réveiller, la paralysie du sommeil peut empêcher de bouger ou de parler et s’accompagner d’une présence ressentie comme effrayante. L’expérience est réelle pour la personne, mais son interprétation ne prouve pas une cause surnaturelle."
+    },
+    {
+      "question": "La médecine peut-elle prouver ou réfuter une possession ?",
+      "answer": "La médecine peut examiner des explications neurologiques, physiologiques et psychologiques précises des symptômes. Elle ne dispose pas de test diagnostique de la possession. L’absence d’explication immédiate ne prouve pas une cause surnaturelle, et les examens médicaux ne tranchent pas les croyances religieuses."
+    }
+  ]
+}

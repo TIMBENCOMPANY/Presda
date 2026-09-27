@@ -1,0 +1,974 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/designer-babies-ivf-embryo-selection-genetics/",
+  "path": "/fr/articles/designer-babies-ivf-embryo-selection-genetics/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "BÉBÉS SUR MESURE : LES PARENTS PEUVENT-ILS VRAIMENT CHOISIR LEUR FUTUR ENFANT ?",
+  "excerpt": "La FIV permet déjà de rechercher certaines maladies génétiques dans les embryons avant une grossesse. Mais à mesure que le dépistage s’étend, jusqu’où les parents devraient-ils pouvoir choisir ?",
+  "headlineHighlights": {
+    "red": "BÉBÉS SUR MESURE",
+    "gold": "CHOISIR LEUR FUTUR ENFANT"
+  },
+  "seoTitle": "Bébés sur mesure : que permet réellement la sélection embryonnaire ?",
+  "description": "FIV, tests génétiques préimplantatoires, sélection embryonnaire et édition génétique : ce que ces techniques permettent, leurs limites scientifiques et les enjeux éthiques.",
+  "keywords": [
+    "bébés sur mesure",
+    "FIV et génétique",
+    "sélection embryonnaire",
+    "DPI",
+    "PGT-M",
+    "PGT-A",
+    "dépistage polygénique des embryons",
+    "édition génétique CRISPR",
+    "éthique reproductive"
+  ],
+  "searchIntent": "Comprendre la différence entre fécondation in vitro, dépistage et diagnostic génétiques préimplantatoires, sélection d’embryons et édition génétique, ainsi que les limites des prédictions polygéniques.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-14",
+  "updatedAt": "2026-09-20",
+  "image": {
+    "src": "/articles/designer-babies-ivf-embryo-selection-genetics.png",
+    "alt": "Une scientifique de la fertilité examine un embryon, avec des représentations de gènes et de chromosomes dans un laboratoire moderne de FIV."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Dans un laboratoire moderne de FIV, plusieurs embryons peuvent exister hors du corps pendant un cycle de traitement. Ce sont de minuscules amas de cellules, pas des bébés miniatures, mais ils portent déjà des informations génétiques provenant de deux futurs parents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les médecins peuvent parfois analyser quelques cellules d’un embryon avant de décider lequel transférer. Cela peut aider certaines familles à éviter de graves maladies héréditaires."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette possibilité soulève l’une des questions les plus difficiles de la médecine moderne : si la science informe les parents sur des embryons avant le début d’une grossesse, que devraient-ils pouvoir faire de ces renseignements ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La question porte d’abord sur la prévention de maladies. Elle mène rapidement à des sujets plus controversés : choix du sexe, risque de maladies complexes, taille, intelligence, apparence et même édition génétique."
+    },
+    {
+      "type": "paragraph",
+      "text": "À quel moment la prévention d’une maladie devient-elle la conception d’un enfant ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La première réponse est la précision. FIV, dépistage embryonnaire, sélection d’embryons et édition génétique sont quatre démarches distinctes. Les confondre transforme des titres de science-fiction en idées fausses dans le public."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour élargir le contexte PRESDA sur génétique, médecine et soins assistés par l’IA, lire [l’histoire de la médecine](/articles/history-future-of-medicine/) et les articles de PRESDA sur l’[intelligence artificielle](/category/ai/)."
+    },
+    {
+      "type": "heading",
+      "text": "QUE SONT LES « BÉBÉS SUR MESURE » ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "« Bébé sur mesure » est une expression populaire, pas une catégorie médicale précise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle peut désigner les tests d’embryons, la sélection embryonnaire ou sexuelle, le dépistage polygénique, l’amélioration génétique ou l’édition héréditaire. Ces interventions sont très différentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expression est évocatrice, car elle suggère que les parents pourraient commander des traits comme on personnalise un produit : couleur des yeux, taille, intelligence, personnalité, capacités sportives ou résistance aux maladies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce n’est pas ce que la médecine reproductive actuelle sait faire de façon fiable."
+    },
+    {
+      "type": "paragraph",
+      "text": "La FIV et les tests génétiques modernes permettent des choix importants dans des situations précises, surtout quand une famille risque de transmettre une maladie grave causée par un seul gène. Mais les parents ne peuvent pas commander l’intelligence, la personnalité, le visage, la taille ou les aptitudes sportives d’un enfant."
+    },
+    {
+      "type": "heading",
+      "text": "QU’EST-CE QUE LA FIV ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "FIV signifie fécondation in vitro : la fécondation a lieu hors du corps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cycle typique peut comprendre stimulation ovarienne, prélèvement des ovules, fécondation en laboratoire, développement de l’embryon pendant plusieurs jours, transfert dans l’utérus et congélation d’embryons supplémentaires lorsqu’elle est appropriée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces étapes sont médicalement complexes, émotionnellement intenses et physiquement éprouvantes. Mais la FIV ne modifie pas à elle seule les gènes d’un enfant."
+    },
+    {
+      "type": "paragraph",
+      "text": "La FIV permet de tester les embryons parce qu’ils se trouvent au laboratoire avant leur transfert. C’est ainsi qu’elle a rendu possible le test génétique préimplantatoire."
+    },
+    {
+      "type": "heading",
+      "text": "LES PARENTS PEUVENT-ILS CHOISIR DES EMBRYONS AVEC LA FIV ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parfois, mais il faut préciser ce que signifie « choisir »."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque plusieurs embryons sont disponibles, médecins et patients peuvent décider lequel transférer selon son développement, son apparence au microscope, les tests chromosomiques, un risque connu de maladie, la politique de la clinique, la loi et les préférences du patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela ne signifie pas que les parents disposent d’options illimitées. Un cycle peut produire peu d’embryons, un seul, ou aucun qui convienne au transfert. Certains patients n’ont jamais un vaste choix."
+    },
+    {
+      "type": "paragraph",
+      "text": "La sélection est limitée par la biologie avant même de l’être par l’éthique."
+    },
+    {
+      "type": "heading",
+      "text": "QU’EST-CE QUE LE DPN ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "DPN signifie diagnostic génétique préimplantatoire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le DPN-M recherche des maladies monogéniques précises, principalement causées par des variants pathogènes d’un seul gène, par exemple la maladie de Huntington, la fibrose kystique, la drépanocytose ou la maladie de Tay-Sachs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le DPN-SR teste des embryons lorsqu’un parent porte un réarrangement chromosomique structurel pouvant augmenter les risques de fausse couche ou de déséquilibre chromosomique grave."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le DPN-A dépiste le nombre de chromosomes, pour repérer des chromosomes manquants ou surnuméraires. La revue 2024 de l’ASRM conclut que son utilité en dépistage systématique de tous les patients en FIV n’a pas été démontrée. Un résultat chromosomique ne garantit ni implantation ni enfant en bonne santé. [ASRM’s PGT-A committee opinion](https://www.asrm.org/practice-guidance/practice-committee-documents/the-use-of-preimplantation-genetic-testing-for-aneuploidy-a-committee-opinion-2024/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucun de ces tests ne garantit un bébé en parfaite santé. Ils apportent des renseignements sur des questions génétiques ou chromosomiques particulières."
+    },
+    {
+      "type": "heading",
+      "text": "LA FIV PEUT-ELLE PRÉVENIR UNE MALADIE GÉNÉTIQUE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans certaines familles, le DPN-M peut réduire considérablement la probabilité d’avoir un enfant atteint d’une maladie héréditaire grave connue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si les deux parents portent des variants associés à une maladie autosomique récessive, certains embryons peuvent hériter de deux copies pathogènes et d’autres non. Si l’un porte une maladie dominante comme celle de Huntington, certains embryons peuvent hériter du variant pathogène et d’autres non."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le test peut repérer les embryons qui ne devraient pas développer cette maladie précise. L’ASRM recommande de discuter d’un test prénatal de confirmation, car des erreurs diagnostiques restent possibles. [ASRM’s 2023 PGT-M guidance](https://www.asrm.org/practice-guidance/practice-committee-documents/indications-and-management-of-preimplantation-genetic-testing-for-monogenic-conditions-a-committee-opinion-2023/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est l’un des arguments médicaux les plus solides en faveur du dépistage embryonnaire. Il ne s’agit pas de commander un enfant parfait, mais d’aider les familles à éviter une maladie grave dont elles connaissent déjà le risque génétique."
+    },
+    {
+      "type": "heading",
+      "text": "LES PARENTS PEUVENT-ILS CHOISIR LE SEXE DE LEUR BÉBÉ ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le cadre d’une FIV, un test embryonnaire peut parfois révéler le sexe chromosomique."
+    },
+    {
+      "type": "paragraph",
+      "text": "La possibilité d’utiliser cette information pour une sélection non médicale dépend fortement du pays, de la loi, des règles professionnelles et de la politique de la clinique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Au Royaume-Uni, choisir le sexe d’un embryon est interdit sauf pour éviter une grave maladie héréditaire. Les recommandations éthiques américaines de l’ASRM jugent controversée la sélection non médicale et demandent aux cliniques d’expliquer leur politique. Il faut vérifier les règles applicables localement : un service proposé à l’étranger n’est pas forcément autorisé chez soi. [HFEA’s explanation of UK law](https://www.hfea.gov.uk/about-us/news-and-press-releases/2018/hfea-statement-into-daily-mail-investigation-about-sex-selection/) [ASRM’s sex-selection ethics opinion](https://www.asrm.org/practice-guidance/ethics-opinions/use-of-reproductive-technology-for-sex-selection-for-nonmedical-reasons-an-ethics-committee-opinion-2022/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe pas de règle mondiale. Une option légale dans un pays peut être interdite dans un autre."
+    },
+    {
+      "type": "paragraph",
+      "text": "La sélection médicale du sexe peut soulever des questions éthiques différentes lorsqu’elle sert à éviter une maladie grave liée au sexe."
+    },
+    {
+      "type": "heading",
+      "text": "LES PARENTS PEUVENT-ILS CHOISIR LA COULEUR DES YEUX ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La couleur des yeux semble simple, mais la génétique forme rarement un menu sans ambiguïté."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certains variants génétiques sont associés à la couleur des yeux et la prédiction de grandes catégories peut être plus facile que celle de nombreux autres traits. Mais ascendance, pluralité de gènes et prédiction incomplète comptent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une clinique qui fait de la publicité pour la sélection de traits ne prouve pas ainsi qu’elle dispose d’une méthode fiable, éthique ou médicalement reconnue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prédire n’est pas commander. Même si un embryon a une probabilité plus forte d’avoir une certaine couleur d’yeux, le futur enfant ne devient pas un produit conçu sur mesure."
+    },
+    {
+      "type": "heading",
+      "text": "LES PARENTS PEUVENT-ILS CHOISIR LA TAILLE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La taille est polygénique, c’est-à-dire influencée par de nombreux variants génétiques. Elle dépend aussi de l’environnement, de la nutrition, de la santé, du développement et du hasard."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les scores polygéniques estiment une prédisposition en combinant l’information de nombreux variants d’ADN. Mais les embryons issus des mêmes parents se ressemblent génétiquement comparés à des personnes sans lien familial ; les possibilités de sélection au sein d’un cycle de FIV sont donc limitées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec seulement quelques embryons, l’écart réaliste de taille adulte prédite peut être faible. Un plus grand nombre accroît le pouvoir de sélection, sans apporter de certitude. Une étude de Cell de 2019, fondée sur des modèles et des données familiales, montre pourquoi les avantages prédits pour la taille ou les scores cognitifs ne garantissent pas le résultat d’un enfant particulier. [Karavani and colleagues: limits of polygenic trait screening](https://pubmed.ncbi.nlm.nih.gov/31761530/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le génome n’est pas un bouton de réglage de la taille."
+    },
+    {
+      "type": "heading",
+      "text": "LES PARENTS PEUVENT-ILS CHOISIR L’INTELLIGENCE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’intelligence et les performances cognitives sont bien plus complexes que ne le suggère le marketing populaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elles impliquent de nombreux variants génétiques, environnement, éducation, nutrition, développement, contexte familial, santé, problèmes de mesure et possibilités sociales. Les mêmes associations génétiques ne prédisent pas nécessairement aussi bien dans toutes les populations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sélectionner un embryon ayant un score prédit plus élevé ne crée pas un génie. Cela ne garantit ni personnalité, ni motivation, créativité, gentillesse, mémoire, santé émotionnelle ou réussite."
+    },
+    {
+      "type": "paragraph",
+      "text": "La science actuelle ne peut pas offrir de manière fiable un bébé au QI élevé à commander."
+    },
+    {
+      "type": "paragraph",
+      "text": "Toute affirmation contraire doit éveiller le scepticisme."
+    },
+    {
+      "type": "heading",
+      "text": "QU’EST-CE QUE LE DÉPISTAGE POLYGÉNIQUE DES EMBRYONS ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dépistage embryonnaire polygénique, souvent commercialisé sous le nom de DPN-P, estime des risques génétiques relatifs pour des traits ou maladies complexes grâce aux scores de risque polygénique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les applications envisagées par des entreprises et chercheurs comprennent l’estimation des risques de maladie cardiaque, de diabète de type 2, de certains cancers et d’autres affections multifactorielles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le mot clé est « estimation »."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un score polygénique n’est pas un diagnostic. Il peut indiquer un risque relatif par rapport à une population de référence, non garantir le résultat pour un futur enfant. Le risque absolu peut rester faible et les facteurs environnementaux dominer. La précision peut être moindre pour les personnes sous-représentées dans les bases génomiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’avis éthique 2026 de l’ASRM indique que le DPN-P n’est pas recommandé pour l’usage clinique et ne doit pas être proposé comme service médical à ce stade. Son usage est limité à la recherche supervisée par un comité institutionnel tant que sécurité, efficacité et questions éthiques ne sont pas résolues. [Read the specific ASRM opinion](https://www.asrm.org/practice-guidance/ethics-opinions/use-of-preimplantation-genetic-testing-for-polygenic-disorders-pgt-p-an-ethics-committee-opinion-2026/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est plus fort qu’une mise en garde contre l’usage systématique : l’avis n’approuve pas la vente du DPN-P comme service de fertilité établi."
+    },
+    {
+      "type": "heading",
+      "text": "UN TRAIT PEUT EN AFFECTER UN AUTRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les gènes ont souvent plusieurs effets : c’est la pléiotropie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un profil génétique lié à une réduction du risque pour une maladie peut aussi être associé à une hausse du risque d’une autre affection, ou à des effets encore mal compris."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voilà pourquoi la sélection d’embryons devient scientifiquement et éthiquement difficile lorsqu’elle dépasse les maladies monogéniques clairement établies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le génome n’est pas une liste de curseurs indépendants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sélectionner selon un résultat prédit peut modifier d’autres probabilités d’une manière que les parents n’avaient jamais envisagée."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LE NOMBRE D’EMBRYONS CHANGE LA DONNE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La puissance de la sélection dépend du nombre d’embryons disponibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les parents ne peuvent généralement pas choisir parmi des milliers d’embryons. Beaucoup de cycles de FIV produisent peu d’embryons adaptés au test et au transfert. Âge, diagnostic de fertilité, nombre d’ovules, qualité du sperme, résultats du laboratoire et hasard comptent tous."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si de futures technologies, comme la gamétogenèse in vitro, permettaient de créer beaucoup plus d’embryons de façon sûre et éthique, la sélection pourrait devenir plus puissante. Mais l’usage reproductif d’ovules ou spermatozoïdes humains produits en laboratoire n’est pas aujourd’hui une pratique médicale établie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nombre d’embryons n’est pas un détail secondaire. Il est central pour déterminer ce que la sélection peut réellement accomplir."
+    },
+    {
+      "type": "heading",
+      "text": "SÉLECTIONNER N’EST PAS MODIFIER"
+    },
+    {
+      "type": "paragraph",
+      "text": "La sélection choisit parmi des embryons déjà existants."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’édition génétique tente de modifier l’ADN."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une analogie simple : la sélection choisit une carte dans une main ; l’édition tente de réécrire la carte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette différence compte. La génétique reproductive actuelle concerne surtout le test et la sélection, non la réécriture de l’ADN embryonnaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les titres qui confondent DPN et CRISPR donnent à tort l’impression que les cliniques ordinaires de FIV fabriquent déjà des enfants génétiquement modifiés. Ce n’est pas le cas."
+    },
+    {
+      "type": "heading",
+      "text": "LES SCIENTIFIQUES PEUVENT-ILS MODIFIER DES EMBRYONS HUMAINS ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans certaines juridictions et sous des règles strictes, les scientifiques peuvent éditer des cellules et des embryons en recherche. Cela diffère d’une reproduction clinique autorisée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Capacité de laboratoire ne signifie pas autorisation légale ; autorisation ne signifie pas pratique médicale courante ; recherche ne signifie pas service de fertilité sûr."
+    },
+    {
+      "type": "paragraph",
+      "text": "CRISPR regroupe des outils capables de cibler des séquences d’ADN. Des méthodes plus récentes, comme l’édition de bases et l’édition prime, visent des changements plus précis dans certains contextes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais l’édition d’embryons humains à des fins reproductives demeure controversée sur les plans éthique et scientifique ; l’édition héréditaire est restreinte ou interdite dans de nombreux pays."
+    },
+    {
+      "type": "heading",
+      "text": "CRISPR ET EMBRYONS HUMAINS"
+    },
+    {
+      "type": "paragraph",
+      "text": "CRISPR est souvent décrit comme des ciseaux génétiques, mais la métaphore est incomplète. C’est un système moléculaire guidé vers certaines séquences d’ADN, où il peut couper ou modifier le matériel génétique selon la méthode employée."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’édition somatique touche les cellules d’une personne traitée et n’est pas destinée à être héritée par les générations suivantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’édition germinale ou embryonnaire pourrait affecter le futur enfant et potentiellement sa descendance."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est pourquoi l’édition héréditaire soulève des questions de sécurité et d’éthique bien plus importantes. Elle touche non seulement le corps d’un patient, mais potentiellement une lignée biologique."
+    },
+    {
+      "type": "heading",
+      "text": "QUE S’EST-IL PASSÉ AVEC LES BÉBÉS ÉDITÉS PAR CRISPR ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2018, le scientifique chinois He Jiankui annonça la naissance d’enfants dont les embryons avaient été modifiés par CRISPR en ciblant le gène CCR5."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’annonce suscita une condamnation internationale. Scientifiques et éthiciens critiquèrent des manquements en matière de sécurité, consentement, nécessité médicale, transparence et gouvernance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette affaire ne prouva pas que les bébés sur mesure étaient arrivés. Elle montra que le monde n’était pas prêt pour l’édition héréditaire irresponsable."
+    },
+    {
+      "type": "paragraph",
+      "text": "He Jiankui fut ensuite condamné en Chine pour exercice illégal de la médecine. Il ne faut pas faire de sensationnalisme autour des enfants : ce sont des personnes dont la vie privée compte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le scandale transforma le débat mondial sur l’édition de la lignée germinale humaine en montrant que la possibilité scientifique peut dépasser la gouvernance éthique."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI L’ÉDITION HÉRÉDITAIRE EST DIFFÉRENTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsqu’un adulte reçoit une thérapie génique, l’intervention concerne d’abord cette personne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Modifier un embryon pourrait affecter un futur enfant incapable de consentir. Si le changement est héréditaire, il pourrait aussi toucher sa descendance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des erreurs pourraient se transmettre dans une lignée. Le mosaïcisme pourrait faire que toutes les cellules ne portent pas la même modification. Des changements hors cible ou imprévus pourraient avoir des conséquences difficiles à prévoir au stade embryonnaire. [WHO’s human genome editing recommendations](https://www.who.int/publications/i/item/9789240030381)"
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est pourquoi plusieurs organismes scientifiques tracent une nette distinction entre soigner des patients existants et modifier des embryons à des fins reproductives."
+    },
+    {
+      "type": "heading",
+      "text": "DE LA MALADIE À L’AMÉLIORATION"
+    },
+    {
+      "type": "paragraph",
+      "text": "La génétique reproductive couvre un continuum."
+    },
+    {
+      "type": "paragraph",
+      "text": "À une extrémité : prévenir une maladie infantile mortelle. Puis réduire le risque d’une maladie adulte, sélectionner le sexe, puis la taille prédite, puis des scores liés aux capacités cognitives, puis modifier des traits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Où la médecine s’arrête-t-elle et où commence l’amélioration ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe pas de réponse universellement admise. Certains privilégient l’autonomie reproductive ; d’autres craignent que le choix génétique fasse des enfants des projets à optimiser selon les attentes sociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "La question n’est pas seulement ce qu’on peut faire, mais ce qui devrait compter comme motif médical."
+    },
+    {
+      "type": "heading",
+      "text": "QU’EST-CE QU’UNE MALADIE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certaines conditions génétiques entraînent de grandes souffrances, une mort précoce ou une lourde charge médicale."
+    },
+    {
+      "type": "paragraph",
+      "text": "D’autres traits concernent des communautés de personnes handicapées dont les membres rejettent l’idée qu’il aurait mieux valu empêcher leur naissance."
+    },
+    {
+      "type": "paragraph",
+      "text": "La sélection embryonnaire est donc éthiquement complexe. Une technologie destinée à réduire la souffrance peut aussi véhiculer un message social sur les vies qui ont de la valeur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les perspectives des droits des personnes handicapées invitent à distinguer la prévention de la douleur de l’idée que les personnes handicapées ne devraient pas exister."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction mérite le respect."
+    },
+    {
+      "type": "heading",
+      "text": "LE RETOUR DE L’EUGÉNISME ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’eugénisme désigne des mouvements cherchant à « améliorer » les populations par le contrôle de la reproduction, souvent avec coercition, racisme, préjugés de classe et violence d’État."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les XIXe et XXe siècles connurent stérilisations forcées, idéologies raciales, restrictions migratoires, abus institutionnels et atrocités nazies liées à la pensée eugéniste."
+    },
+    {
+      "type": "paragraph",
+      "text": "La FIV moderne n’est pas l’eugénisme nazi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais l’histoire avertit des conséquences possibles lorsque les sociétés attribuent une valeur humaine différente aux traits génétiques, surtout lorsque pouvoir, préjugés et reproduction se rencontrent."
+    },
+    {
+      "type": "paragraph",
+      "text": "La leçon éthique n’est pas que tout test embryonnaire est mauvais. C’est que le choix génétique exige humilité, surveillance et mémoire."
+    },
+    {
+      "type": "heading",
+      "text": "QUI DÉCIDE DE CE QU’EST UN ENFANT « MEILLEUR » ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En meilleure santé ? Plus grand ? Plus intelligent ? Moins susceptible de dépression ? Plus sportif ? D’un sexe particulier ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La définition du « meilleur » n’est pas seulement biologique. Elle contient jugements culturels, espoirs familiaux, pression sociale, validisme, sexisme, attentes de classe et intérêts commerciaux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un parent peut penser choisir des possibilités. Une entreprise peut voir un produit. Une société peut commencer à traiter certains traits comme des obligations."
+    },
+    {
+      "type": "paragraph",
+      "text": "La science ne peut pas déterminer la valeur d’une vie humaine."
+    },
+    {
+      "type": "heading",
+      "text": "LES BÉBÉS SUR MESURE ACCROÎTRAIENT-ILS LES INÉGALITÉS ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La sélection reproductive avancée serait probablement coûteuse, du moins au début."
+    },
+    {
+      "type": "paragraph",
+      "text": "La FIV coûte déjà cher dans de nombreux pays. Les tests génétiques ajoutent des frais. Voyages, conservation, médicaments, cycles répétés et soins spécialisés peuvent creuser l’écart entre les personnes qui y ont accès et les autres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si la sélection génétique produisait un jour des avantages significatifs, les familles aisées pourraient y accéder en premier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela ne rend pas inévitable une société de classes génétiques de science-fiction. Mais les inégalités sont une préoccupation sérieuse, car les technologies reproductives s’inscrivent dans un monde déjà inégal."
+    },
+    {
+      "type": "heading",
+      "text": "LES PARENTS SUBIRAIENT-ILS UNE PRESSION À CHOISIR ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une technologie peut être facultative en droit et imposée par la culture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si le dépistage embryonnaire se généralisait, les parents qui le refusent pourraient être jugés irresponsables. Assureurs, cliniques, proches ou attentes sociales pourraient les pousser à tester."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les parents subissent déjà une forte pression à faire tout leur possible pour leur futur enfant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le risque est que le choix devienne une obligation : « Si vous pouviez sélectionner, pourquoi ne l’avez-vous pas fait ? »"
+    },
+    {
+      "type": "heading",
+      "text": "QUE DEVIENNENT LES EMBRYONS NON SÉLECTIONNÉS ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le sort dépend de la loi, de la politique de la clinique et du consentement des patients."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les embryons peuvent rester cryoconservés, être envisagés pour un transfert ultérieur, donnés à un autre patient lorsque la loi l’autorise, donnés à la recherche là où c’est permis ou éliminés selon les procédures éthiques et légales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce sujet demande de la délicatesse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur le plan médical, les embryons ne sont pas équivalents à des bébés nés. Pour beaucoup de personnes, ils ne sont pas non plus des objets sans signification. Une formulation neutre importe, car les patients abordent la FIV avec des convictions morales, religieuses et émotionnelles différentes."
+    },
+    {
+      "type": "heading",
+      "text": "QUELLE EST LA PRÉCISION DES TESTS EMBRYONNAIRES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les résultats du DPN sont utiles, mais ne constituent pas des garanties absolues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le test prélève souvent quelques cellules du trophectoderme, la partie de l’embryon qui contribue au placenta. Le résultat ne représente pas nécessairement parfaitement chaque cellule. Mosaïcisme, limites du laboratoire, faux positifs, faux négatifs et incertitude d’interprétation peuvent compter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les recommandations professionnelles conseillent souvent un conseil génétique et, lorsque cela convient, une confirmation prénatale après une grossesse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le DPN peut réduire certains risques. Il ne promet pas un enfant en parfaite santé."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LES PRÉDICTIONS GÉNÉTIQUES VARIENT SELON LES POPULATIONS"
+    },
+    {
+      "type": "paragraph",
+      "text": "De nombreuses bases génomiques ont historiquement surreprésenté les personnes d’ascendance européenne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les scores polygéniques élaborés à partir de ces données peuvent être moins performants pour d’autres ascendances. Cela pose des problèmes scientifiques et d’équité."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un score plus précis pour une population que pour une autre peut aggraver les disparités s’il est utilisé en clinique sans validation attentive."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est l’une des raisons pour lesquelles les organisations professionnelles restent prudentes quant à l’usage courant du DPN-P."
+    },
+    {
+      "type": "heading",
+      "text": "L’IA PEUT-ELLE AIDER À CHOISIR LES EMBRYONS ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’IA est étudiée et utilisée dans certains contextes de fertilité, notamment pour l’analyse d’images embryonnaires, l’évaluation morphologique et la prédiction de l’implantation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais l’IA ne repère pas le meilleur futur enfant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un algorithme peut estimer, à partir d’images ou de données cliniques, quel embryon semble plus susceptible de s’implanter. Cela ne revient pas à prédire l’intelligence, le caractère, le bonheur ou la vie d’une personne."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’évaluation embryonnaire assistée par l’IA exige validation, transparence et responsabilité. Elle ne doit pas devenir une boîte noire transformant la reproduction en tableau de classement."
+    },
+    {
+      "type": "heading",
+      "text": "LE COMMERCE DE LA FERTILITÉ"
+    },
+    {
+      "type": "paragraph",
+      "text": "La médecine de la fertilité est aussi une activité commerciale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cliniques et entreprises de dépistage génétique peuvent avoir intérêt à vendre de l’espoir. Certaines affirmations reposent sur des études évaluées par les pairs et des recommandations professionnelles ; d’autres vont peut-être plus vite que le consensus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les patients devraient distinguer résultats évalués par les pairs, autorisation réglementaire, recommandations professionnelles, pratique clinique et langage publicitaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le fait qu’un service soit vendu ne prouve pas son utilité clinique."
+    },
+    {
+      "type": "paragraph",
+      "text": "C’est particulièrement important pour le dépistage polygénique et la prédiction des traits, qui peuvent exercer une immense pression émotionnelle sur les parents."
+    },
+    {
+      "type": "heading",
+      "text": "BÉBÉS SUR MESURE : MYTHE ET RÉALITÉ"
+    },
+    {
+      "type": "paragraph",
+      "text": "MYTHE : aujourd’hui, les parents peuvent concevoir un enfant comme un personnage de jeu vidéo."
+    },
+    {
+      "type": "paragraph",
+      "text": "RÉALITÉ : non."
+    },
+    {
+      "type": "paragraph",
+      "text": "MYTHE : la FIV modifie l’ADN du bébé."
+    },
+    {
+      "type": "paragraph",
+      "text": "RÉALITÉ : la FIV standard ne modifie pas génétiquement les embryons."
+    },
+    {
+      "type": "paragraph",
+      "text": "MYTHE : le DPN garantit un bébé en parfaite santé."
+    },
+    {
+      "type": "paragraph",
+      "text": "RÉALITÉ : c’est impossible."
+    },
+    {
+      "type": "paragraph",
+      "text": "MYTHE : les parents peuvent choisir l’intelligence de façon fiable."
+    },
+    {
+      "type": "paragraph",
+      "text": "RÉALITÉ : prédiction et sélection sont beaucoup trop limitées pour promettre un enfant génial."
+    },
+    {
+      "type": "paragraph",
+      "text": "MYTHE : sélection embryonnaire et CRISPR sont la même chose."
+    },
+    {
+      "type": "paragraph",
+      "text": "RÉALITÉ : l’une choisit entre des embryons ; l’autre tente de modifier l’ADN."
+    },
+    {
+      "type": "paragraph",
+      "text": "MYTHE : tous les pays autorisent la sélection du sexe."
+    },
+    {
+      "type": "paragraph",
+      "text": "RÉALITÉ : lois et règles professionnelles diffèrent considérablement."
+    },
+    {
+      "type": "paragraph",
+      "text": "MYTHE : les scientifiques peuvent aujourd’hui modifier sans risque des embryons humains pour la reproduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "RÉALITÉ : capacité de recherche et édition héréditaire acceptée en clinique sont deux choses très différentes."
+    },
+    {
+      "type": "heading",
+      "text": "QUE PEUVENT VRAIMENT CHOISIR LES PARENTS AUJOURD’HUI ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "OPTION | POSSIBLE AUJOURD’HUI ? | FIABILITÉ | NOTES JURIDIQUES ET ÉTHIQUES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maladie monogénique précise | Établie dans certains contextes cliniques | Forte si le variant familial est connu | Conseil génétique et validation du laboratoire nécessaires"
+    },
+    {
+      "type": "paragraph",
+      "text": "Information chromosomique | Courante dans certains parcours de FIV | Utile, mais imparfaite | Les bénéfices du DPN-A varient selon les groupes de patients"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sexe de l’embryon | Techniquement possible si le sexe chromosomique est connu | Élevée pour le sexe chromosomique | Usage non médical soumis à la juridiction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Risque de maladie complexe | En émergence et controversé | Probabiliste et limité | L’ASRM déconseille d’offrir le DPN-P comme service clinique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taille | Prédiction peu utile pour une sélection pratique | Limitée par la complexité polygénique et le nombre d’embryons | Risque d’amélioration génétique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Couleur des yeux | Catégories générales parfois prédictibles | Ne permet pas une commande fiable | Se méfier du marketing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intelligence | Pas établie en clinique | Beaucoup trop limitée pour faire des promesses | Graves enjeux éthiques et scientifiques"
+    },
+    {
+      "type": "paragraph",
+      "text": "Personnalité | Pas établie en clinique | Sélection non fiable | Le développement humain n’est pas un menu d’ADN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aptitudes sportives | Pas établies en clinique | Sélection non fiable | Entraînement, environnement et hasard comptent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Traits issus de l’édition génétique | Pas une pratique reproductive courante reconnue | Expérimentale et impropre à l’usage clinique | Édition héréditaire restreinte ou interdite dans de nombreux pays"
+    },
+    {
+      "type": "heading",
+      "text": "QUESTIONS À POSER SUR UN TEST EMBRYONNAIRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Demandez quelle maladie ou question chromosomique précise le test examine, ce qu’il ne peut détecter, comment sont interprétés les résultats incertains et si une confirmation pendant la grossesse sera proposée. Demandez aussi si le service relève de soins établis ou de la recherche. Ces questions aident à distinguer un test médical d’une promesse sur un futur enfant. [ASRM’s PGT-M counseling guidance](https://www.asrm.org/practice-guidance/practice-committee-documents/indications-and-management-of-preimplantation-genetic-testing-for-monogenic-conditions-a-committee-opinion-2023/)"
+    },
+    {
+      "type": "heading",
+      "text": "QUE POURRAIT-IL SE PASSER AU COURS DES 10 À 20 PROCHAINES ANNÉES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plusieurs évolutions sont possibles : meilleures prédictions polygéniques, bases génomiques plus vastes et diversifiées, analyse embryonnaire assistée par l’IA, progrès de l’édition génétique, recherche sur la gamétogenèse in vitro et nouvelles réglementations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce sont des scénarios, pas des promesses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une meilleure prédiction ne crée pas automatiquement une permission éthique. Davantage de données n’élimine pas les risques sociaux. De nouveaux outils d’édition ne rendent pas automatiquement l’édition héréditaire sûre."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’avenir pourrait arriver progressivement, par l’ajout d’une option clinique à la fois."
+    },
+    {
+      "type": "heading",
+      "text": "LES PARENTS DEVRAIENT-ILS AVOIR LE DROIT DE CHOISIR ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les arguments en faveur d’un choix reproductif élargi mettent l’accent sur la prévention des maladies graves, la réduction des souffrances et le respect de l’autonomie reproductive."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les arguments contre une sélection élargie soulignent risques inconnus, inégalités, pressions eugénistes, discrimination liée au handicap, effets sur les générations futures et marchandisation des enfants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les deux positions peuvent soulever de sérieuses préoccupations morales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les cas les plus difficiles ne sont pas les extrêmes. La plupart des gens soutiennent l’aide aux parents voulant éviter une maladie dévastatrice. La plupart répugnent à commander un enfant comme un produit de luxe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le conflit se situe entre les deux."
+    },
+    {
+      "type": "heading",
+      "text": "PEUT-ON ARRÊTER LA TECHNOLOGIE SI LA SOCIÉTÉ LA JUGE TROP RISQUÉE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La gouvernance est difficile parce que la médecine reproductive traverse les frontières."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pays ont des lois différentes. Les cliniques se concurrencent à l’international. Les patients peuvent voyager. Une intervention interdite dans un pays peut être proposée dans un autre."
+    },
+    {
+      "type": "paragraph",
+      "text": "On appelle parfois cela le tourisme procréatif."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une gouvernance mondiale exige la coopération des autorités, sociétés professionnelles, cliniques, scientifiques et patients. Même alors, l’application des règles restera inégale."
+    },
+    {
+      "type": "heading",
+      "text": "L’ENFANT QUI N’A PAS CHOISI SA CONCEPTION"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les parents influencent déjà profondément leurs enfants : lieu de vie, alimentation, écoles, langues, médecins et valeurs qui les entourent."
+    },
+    {
+      "type": "paragraph",
+      "text": "La sélection génétique diffère car elle permet des décisions avant l’existence de l’enfant, selon des probabilités qu’il n’a pas choisi d’assumer."
+    },
+    {
+      "type": "paragraph",
+      "text": "La liberté parentale comprend-elle le choix de probabilités biologiques pour une autre personne ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La réponse n’est pas simple. Cette question doit pourtant rester au centre du débat."
+    },
+    {
+      "type": "heading",
+      "text": "LES PARENTS PEUVENT-ILS VRAIMENT CHOISIR LEUR FUTUR ENFANT ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En partie, et bien moins que ne le laisse entendre l’expression « bébé sur mesure »."
+    },
+    {
+      "type": "paragraph",
+      "text": "La FIV et les tests génétiques actuels offrent des choix importants dans certaines situations médicales. Dans certaines juridictions, ils peuvent révéler ou orienter une sélection selon le sexe. Des technologies émergentes pourraient estimer certains risques génétiques complexes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais les parents ne peuvent pas commander de façon fiable un génie, un champion, une personnalité précise, un visage particulier ou un enfant en parfaite santé."
+    },
+    {
+      "type": "paragraph",
+      "text": "La biologie humaine reste infiniment plus complexe."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’avenir de la reproduction ne prendra peut-être pas la forme de scientifiques fabriquant des bébés de toutes pièces. Il pourrait arriver plus discrètement : un écran affichant plusieurs embryons et demandant à deux parents de choisir."
+    },
+    {
+      "type": "paragraph",
+      "text": "La science nous dira de mieux en mieux ce que ces choix pourraient signifier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle ne peut pas nous dire quelle valeur attribuer à un être humain."
+    }
+  ],
+  "sources": [
+    {
+      "label": "ASRM (2026) : le dépistage embryonnaire polygénique n’est pas recommandé en pratique clinique",
+      "url": "https://www.asrm.org/practice-guidance/ethics-opinions/use-of-preimplantation-genetic-testing-for-polygenic-disorders-pgt-p-an-ethics-committee-opinion-2026/"
+    },
+    {
+      "label": "ASRM (2024) : données et limites du PGT-A",
+      "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/the-use-of-preimplantation-genetic-testing-for-aneuploidy-a-committee-opinion-2024/"
+    },
+    {
+      "label": "ASRM (2023) : indications et prise en charge du PGT-M",
+      "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/indications-and-management-of-preimplantation-genetic-testing-for-monogenic-conditions-a-committee-opinion-2023/"
+    },
+    {
+      "label": "HFEA : sélection du sexe pour raisons médicales ou non médicales",
+      "url": "https://www.hfea.gov.uk/about-us/news-and-press-releases/2018/hfea-statement-into-daily-mail-investigation-about-sex-selection/"
+    },
+    {
+      "label": "ASRM (2022) : éthique de la sélection du sexe pour raisons non médicales",
+      "url": "https://www.asrm.org/practice-guidance/ethics-opinions/use-of-reproductive-technology-for-sex-selection-for-nonmedical-reasons-an-ethics-committee-opinion-2022/"
+    },
+    {
+      "label": "Karavani et collègues (2019), Cell : utilité limitée du dépistage des traits polygéniques chez les embryons",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31761530/"
+    },
+    {
+      "label": "Société européenne de reproduction humaine et d’embryologie : recommandations de bonnes pratiques pour le PGT",
+      "url": "https://www.eshre.eu/Guidelines-and-Legal/Guidelines/PGT"
+    },
+    {
+      "label": "Organisation mondiale de la Santé : gouvernance de l’édition du génome humain",
+      "url": "https://www.who.int/publications/i/item/9789240030381"
+    },
+    {
+      "label": "Académies nationales : rapports sur l’édition du génome humain",
+      "url": "https://www.nationalacademies.org/publications/24623"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Les parents peuvent-ils vraiment concevoir un bébé sur mesure aujourd’hui ?",
+      "answer": "Non. La FIV et les tests génétiques actuels peuvent aider à choisir entre des embryons dans certains contextes médicaux, mais ils ne permettent pas de commander de façon fiable l’intelligence, la personnalité, l’apparence, les aptitudes sportives ou un enfant parfaitement en bonne santé."
+    },
+    {
+      "question": "La FIV modifie-t-elle l’ADN du futur bébé ?",
+      "answer": "La FIV standard ne modifie pas génétiquement les embryons. Elle consiste à féconder des ovocytes hors du corps et peut permettre de tester les embryons avant leur transfert."
+    },
+    {
+      "question": "Qu’est-ce que le PGT-M ?",
+      "answer": "Le PGT-M est un test génétique préimplantatoire ciblant une maladie monogénique précise, généralement lorsqu’un risque de maladie héréditaire est connu dans la famille."
+    },
+    {
+      "question": "Les parents peuvent-ils choisir le sexe de leur bébé ?",
+      "answer": "Dans certains parcours de FIV, l’analyse des embryons peut révéler leur sexe chromosomique. Le choix d’un sexe pour des raisons non médicales dépend fortement des lois nationales, des règles professionnelles et des politiques des cliniques."
+    },
+    {
+      "question": "La sélection embryonnaire est-elle la même chose que l’édition génétique par CRISPR ?",
+      "answer": "Non. La sélection embryonnaire consiste à choisir parmi des embryons déjà créés. L’édition génétique par CRISPR vise à modifier leur ADN."
+    }
+  ]
+}

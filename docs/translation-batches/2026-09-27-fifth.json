@@ -1,0 +1,351 @@
+{
+  "period": {
+    "start": "2026-08-26",
+    "end": "2026-09-23"
+  },
+  "source": "Google Search Console sc-domain:presda.com",
+  "method": "Untranslated canonical English articles ranked by clicks then impressions",
+  "articles": [
+    {
+      "priority": 1,
+      "slug": "gandhi-mandela-mlk-power-of-resistance",
+      "title": "THE POWER OF RESISTANCE: HOW GANDHI, MANDELA AND MLK CHANGED HISTORY",
+      "englishPath": "/articles/gandhi-mandela-mlk-power-of-resistance/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 2,
+      "slug": "muhammad-ali-fighter-bigger-than-boxing",
+      "title": "MUHAMMAD ALI: THE FIGHTER WHO BECAME BIGGER THAN BOXING",
+      "englishPath": "/articles/muhammad-ali-fighter-bigger-than-boxing/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 3,
+      "slug": "depression-what-happens-in-the-brain",
+      "title": "DEPRESSION: WHAT REALLY HAPPENS INSIDE THE BRAIN?",
+      "englishPath": "/articles/depression-what-happens-in-the-brain/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 4,
+      "slug": "old-but-gold-world-most-beautiful-old-cities",
+      "title": "OLD BUT GOLD: THE WORLD’S MOST BEAUTIFUL OLD CITIES",
+      "englishPath": "/articles/old-but-gold-world-most-beautiful-old-cities/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 5,
+      "slug": "rothschild-family-banking-dynasty-history-myth",
+      "title": "ROTHSCHILD FAMILY: THE BANKING DYNASTY THAT FINANCED EUROPE",
+      "englishPath": "/articles/rothschild-family-banking-dynasty-history-myth/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 6,
+      "slug": "carthage-hannibal-punic-wars-tunisia-history",
+      "title": "CARTHAGE: THE EMPIRE THAT ALMOST BROUGHT ROME TO ITS KNEES",
+      "englishPath": "/articles/carthage-hannibal-punic-wars-tunisia-history/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 7,
+      "slug": "cats-humans-domestication-history",
+      "title": "CATS AND HUMANS: HOW A WILD HUNTER BECAME PART OF THE FAMILY",
+      "englishPath": "/articles/cats-humans-domestication-history/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 8,
+      "slug": "mongol-empire-genghis-khan-conquests-legacy",
+      "title": "MONGOL EMPIRE: HOW GENGHIS KHAN CONQUERED HALF THE KNOWN WORLD",
+      "englishPath": "/articles/mongol-empire-genghis-khan-conquests-legacy/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 9,
+      "slug": "who-controls-world-oil-middle-east-opec",
+      "title": "WHO CONTROLS THE WORLD'S OIL? MONEY, POWER AND THE MIDDLE EAST",
+      "englishPath": "/articles/who-controls-world-oil-middle-east-opec/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 10,
+      "slug": "adidas-israel-single-shoe-boycott-2026",
+      "title": "ADIDAS FACES BOYCOTT CALLS AFTER ISRAEL \"SINGLE SHOE\" CAMPAIGN",
+      "englishPath": "/articles/adidas-israel-single-shoe-boycott-2026/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 11,
+      "slug": "sumerians-first-cities-cuneiform-civilization",
+      "title": "SUMERIANS: HOW THE WORLD’S FIRST CITIES CHANGED HUMAN CIVILIZATION",
+      "englishPath": "/articles/sumerians-first-cities-cuneiform-civilization/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 12,
+      "slug": "katy-perry-and-justin-trudeau-spark-global-speculation",
+      "title": "Katy Perry & Justin Trudeau: How An Unexpected Romance Became A Global Media Story",
+      "englishPath": "/articles/katy-perry-and-justin-trudeau-spark-global-speculation/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 13,
+      "slug": "keanu-reeves-kindness-powerful",
+      "title": "Keanu Reeves Kindness: Why His Generosity Is So Loved",
+      "englishPath": "/articles/keanu-reeves-kindness-powerful/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 14,
+      "slug": "mafia-history-organized-crime-empire",
+      "title": "MAFIA: HOW CRIME BECAME AN ORGANIZED EMPIRE",
+      "englishPath": "/articles/mafia-history-organized-crime-empire/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 15,
+      "slug": "ottoman-empire-rise-and-fall",
+      "title": "THE OTTOMAN EMPIRE: 600 YEARS THAT CHANGED THE WORLD",
+      "englishPath": "/articles/ottoman-empire-rise-and-fall/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 16,
+      "slug": "robot-revolution-ai-future-2030",
+      "title": "THE ROBOT REVOLUTION: HOW AI COULD CHANGE EVERYDAY LIFE BY 2030",
+      "englishPath": "/articles/robot-revolution-ai-future-2030/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 17,
+      "slug": "mark-zuckerberg-facebook-meta-story",
+      "title": "MARK ZUCKERBERG: FROM A HARVARD DORM ROOM TO A GLOBAL TECH EMPIRE",
+      "englishPath": "/articles/mark-zuckerberg-facebook-meta-story/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 18,
+      "slug": "possession-psychogenic-seizures-pnes-science",
+      "title": "POSSESSION OR PSYCHOGENIC SEIZURES: WHAT DOES SCIENCE REALLY SAY?",
+      "englishPath": "/articles/possession-psychogenic-seizures-pnes-science/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 19,
+      "slug": "timurid-empire-timur-samarkand-history",
+      "title": "TIMURID EMPIRE: HOW SAMARKAND BECAME THE HEART OF A CONQUEROR’S WORLD",
+      "englishPath": "/articles/timurid-empire-timur-samarkand-history/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 20,
+      "slug": "apple-iphone-18-foldable-future-products",
+      "title": "APPLE'S NEXT ERA: iPHONE 18, FOLDABLES AND THE FUTURE OF ITS PRODUCT EMPIRE",
+      "englishPath": "/articles/apple-iphone-18-foldable-future-products/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 21,
+      "slug": "japan-samurai-meiji-restoration-modern-empire-history",
+      "title": "JAPAN: HOW A LAND OF SAMURAI BECAME A MODERN EMPIRE",
+      "englishPath": "/articles/japan-samurai-meiji-restoration-modern-empire-history/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 22,
+      "slug": "assyrian-empire-war-machine-rise-fall",
+      "title": "ASSYRIAN EMPIRE: THE WAR MACHINE THAT TERRIFIED THE ANCIENT WORLD",
+      "englishPath": "/articles/assyrian-empire-war-machine-rise-fall/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 23,
+      "slug": "babylon-history-hammurabi-hanging-gardens",
+      "title": "BABYLON: THE RISE AND FALL OF THE ANCIENT WORLD’S GREATEST CITY",
+      "englishPath": "/articles/babylon-history-hammurabi-hanging-gardens/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 24,
+      "slug": "brain-drain-why-skilled-workers-leave-home",
+      "title": "BRAIN DRAIN: WHY BRILLIANT MINDS LEAVE HOME",
+      "englishPath": "/articles/brain-drain-why-skilled-workers-leave-home/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 25,
+      "slug": "good-vs-evil-human-nature-morality",
+      "title": "GOOD VS EVIL: WHAT MAKES A HUMAN CROSS THE LINE?",
+      "englishPath": "/articles/good-vs-evil-human-nature-morality/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 26,
+      "slug": "soviet-union-history-rise-collapse-ussr",
+      "title": "THE SOVIET UNION: HOW A SUPERPOWER ROSE, RULED AND COLLAPSED",
+      "englishPath": "/articles/soviet-union-history-rise-collapse-ussr/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 27,
+      "slug": "bajau-people-sea-nomads-diving",
+      "title": "THE BAJAU: THE PEOPLE WHO LIVE UNDERWATER",
+      "englishPath": "/articles/bajau-people-sea-nomads-diving/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 28,
+      "slug": "designer-babies-ivf-embryo-selection-genetics",
+      "title": "DESIGNER BABIES: CAN PARENTS REALLY CHOOSE THEIR FUTURE CHILD?",
+      "englishPath": "/articles/designer-babies-ivf-embryo-selection-genetics/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 29,
+      "slug": "down-syndrome-trisomy-21-genetics-health-life",
+      "title": "DOWN SYNDROME: UNDERSTANDING TRISOMY 21 AND THE PEOPLE LIVING WITH IT",
+      "englishPath": "/articles/down-syndrome-trisomy-21-genetics-health-life/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 30,
+      "slug": "history-future-of-medicine",
+      "title": "MEDICINE: THE HISTORY AND FUTURE OF HUMAN HEALTH",
+      "englishPath": "/articles/history-future-of-medicine/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    },
+    {
+      "priority": 31,
+      "slug": "dinosaurs-rise-fall-fossils-extinction",
+      "title": "DINOSAURS: THE RISE AND FALL OF THE GIANTS THAT RULED EARTH",
+      "englishPath": "/articles/dinosaurs-rise-fall-fossils-extinction/",
+      "locales": [
+        "fr",
+        "ar",
+        "es"
+      ]
+    }
+  ]
+}

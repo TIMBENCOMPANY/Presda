@@ -1,0 +1,917 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/dinosaurs-rise-fall-fossils-extinction/",
+  "path": "/es/articles/dinosaurs-rise-fall-fossils-extinction/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "DINOSAURIOS: AUGE Y CAÍDA DE LOS GIGANTES DE LA TIERRA",
+  "excerpt": "Durante más de 160 millones de años, los dinosaurios evolucionaron en gigantes, cazadores, formas emplumadas y aves actuales. Los fósiles revelan sus mundos perdidos y la catástrofe que acabó con los dinosaurios no avianos.",
+  "headlineHighlights": {
+    "red": "DINOSAURIOS",
+    "gold": "AUGE Y CAÍDA"
+  },
+  "seoTitle": "Dinosaurios: fósiles, evolución y el asteroide | PRESDA",
+  "description": "Explora la historia de los dinosaurios a través de fósiles, T. rex, saurópodos gigantes, plumas, huevos, la extinción de Chicxulub y por qué las aves son dinosaurios vivos.",
+  "keywords": [
+    "dinosaurios",
+    "fósiles",
+    "evolución",
+    "T. rex",
+    "saurópodos",
+    "Chicxulub",
+    "extinción",
+    "ciencia"
+  ],
+  "searchIntent": "Informacional: conocer la evolución de los dinosaurios, sus fósiles, el impacto de Chicxulub y la supervivencia de las aves",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-09",
+  "updatedAt": "2026-09-09",
+  "image": {
+    "src": "/images/articles/dinosaurs-rise-fall-fossils-extinction.webp",
+    "alt": "Valle prehistórico al amanecer con un T. rex, saurópodos, reptiles voladores y un asteroide cruzando el cielo."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La historia de los dinosaurios no es un relato breve sobre monstruos que aparecieron, rugieron y desaparecieron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es uno de los capítulos más largos y exitosos de la historia de la vida terrestre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios aparecieron durante el Triásico, hace más de 230 millones de años. Los dinosaurios no avianos desaparecieron al final del Cretácico, hace unos 66 millones de años, en un límite relacionado con las . Esto significa que existieron más de 160 millones de años antes de la catástrofe que transformó la Tierra. [Fuente o lectura relacionada](https://www.usgs.gov/centers/geology-geophysics-and-geochemistry-science-center/science/chicxulub-impact-event)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los seres humanos solo hemos existido durante una fracción diminuta de ese tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nunca convivimos con los dinosaurios no avianos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todo lo que sabemos de ellos procede de las pruebas que dejaron: huesos, dientes, huevos, nidos, huellas, impresiones de piel, plumas, contenido estomacal, coprolitos, estructura ósea microscópica, estratos rocosos y rastros químicos de la propia Tierra."
+    },
+    {
+      "type": "paragraph",
+      "text": "El registro fósil está incompleto. Conserva solo una muestra pequeña y desigual de la vida que existió."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero incluso esa muestra incompleta revela un mundo asombroso: cazadores pequeños y ágiles, herbívoros acorazados, gigantes con cuernos, manadas de pico de pato, terópodos emplumados, saurópodos colosales y el linaje de las aves que sobrevivió al final de la era de los dinosaurios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para ampliar el contexto científico de PRESDA, lee ,  y . [Fuente o lectura relacionada](/articles/charles-darwin-theory-of-evolution/) [Fuente o lectura relacionada](/articles/how-humans-learned-to-speak/) [Fuente o lectura relacionada](/articles/carl-sagan-journey-through-our-universe/)"
+    },
+    {
+      "type": "heading",
+      "text": "NO TODOS LOS REPTILES PREHISTÓRICOS ERAN DINOSAURIOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "A menudo se usa la palabra dinosaurio informalmente para casi cualquier reptil antiguo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde el punto de vista científico, eso es incorrecto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios eran un grupo concreto de reptiles con rasgos anatómicos distintivos, entre ellos extremidades situadas más directamente bajo el cuerpo que en muchos reptiles de patas extendidas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los pterosaurios eran reptiles voladores, pero no dinosaurios. Los reptiles marinos como ictiosaurios, plesiosaurios y mosasaurios vivieron en la misma época general que los dinosaurios, pero tampoco lo eran."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parientes de los cocodrilos, mamíferos tempranos, tortugas, lagartos y muchos otros animales compartían con ellos los ecosistemas mesozoicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, la historia de los dinosaurios no es la historia de toda la vida prehistórica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es la historia de un linaje extraordinario que dominó muchos ecosistemas terrestres, mientras otros reptiles gobernaban el aire y el mar."
+    },
+    {
+      "type": "heading",
+      "text": "LOS PRIMEROS DINOSAURIOS DEL TRIÁSICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los primeros dinosaurios aparecieron en el Triásico, después de que la devastadora extinción masiva del Pérmico-Triásico transformara la vida en la Tierra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al principio no eran los animales terrestres más grandes ni más dominantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "En general, los dinosaurios tempranos eran más pequeños, ligeros y formaban parte de ecosistemas con muchos otros grupos de reptiles. Con el tiempo se diversificaron en grandes linajes que luego darían lugar a los gigantes conocidos del Jurásico y el Cretácico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos dividen a los dinosaurios en dos grandes grupos según la estructura de la cadera: saurisquios y ornitisquios. Los nombres pueden confundir, porque las aves evolucionaron de terópodos saurisquios, no del grupo llamado ornitisquios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al final del Triásico, los cambios ambientales y las extinciones abrieron espacio ecológico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios estaban listos para expandirse."
+    },
+    {
+      "type": "heading",
+      "text": "LA EXPANSIÓN JURÁSICA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante el Jurásico, los dinosaurios se volvieron dominantes en muchos ecosistemas terrestres."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mundo era más cálido, los continentes se separaban y los ecosistemas cambiaban. Los dinosaurios evolucionaron y dieron lugar a formas mayores y más diversas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los saurópodos, gigantes de cuello largo, se contaron entre los animales más espectaculares que caminaron sobre la tierra. Los depredadores terópodos se diversificaron como cazadores y carroñeros. Los estegosaurios y otros herbívoros ocuparon papeles ecológicos importantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Jurásico también vio surgir a las primeras aves a partir de pequeños dinosaurios terópodos emplumados."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mundo jurásico no era un paraíso perdido e inmóvil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Era un planeta cambiante, lleno de competencia, extinción, adaptación y transformación."
+    },
+    {
+      "type": "heading",
+      "text": "LOS DINOSAURIOS MÁS GRANDES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios más grandes eran saurópodos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos herbívoros de cuello y cola largos incluían animales como Diplodocus, Brachiosaurus, Patagotitan y Argentinosaurus, aunque las clasificaciones exactas por tamaño siguen en debate porque muchas especies gigantes solo se conocen por fósiles incompletos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es probable que algunos saurópodos superaran los 30 metros de largo y pesaran muchas decenas de toneladas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus cuerpos eran maravillas de ingeniería."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuellos largos les permitían alcanzar la vegetación con eficiencia. Las cavidades llenas de aire de sus huesos ayudaban a reducir el peso. Sus extremidades columnares sostenían una masa enorme. Sus dientes y cráneos solían estar adaptados para arrancar vegetación, no para masticarla como hacen muchos mamíferos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los saurópodos muestran que la evolución de los dinosaurios exploró una y otra vez tamaños extremos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero ser más grande no era automáticamente mejor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cuerpo grande requería alimento, crecimiento, reproducción y ecosistemas capaces de sostenerlo."
+    },
+    {
+      "type": "heading",
+      "text": "DEPREDADORES Y T. REX"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los terópodos fueron el principal linaje de dinosaurios depredadores, aunque no todos eran grandes cazadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos eran pequeños. Algunos tenían plumas. Algunos se convirtieron en aves. Según el grupo, algunos comían carne, insectos, peces o una dieta mixta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tyrannosaurus rex vivió al final del Cretácico, cerca del final de la historia de los dinosaurios no avianos."
+    },
+    {
+      "type": "paragraph",
+      "text": "No convivió con Stegosaurus, que pertenecía a un mundo jurásico mucho más antiguo. El intervalo entre ambos es mayor que el que separa a T. rex de los seres humanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "T. rex se hizo famoso porque combinaba un tamaño enorme, mandíbulas poderosas, dientes afilados, sentidos agudos y un registro fósil espectacular."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el animal real es más interesante que el monstruo del cine."
+    },
+    {
+      "type": "heading",
+      "text": "T. REX: LO QUE LA CIENCIA SABE REALMENTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "T. rex fue uno de los mayores depredadores terrestres conocidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su cráneo y sus dientes indican una fuerza de mordida extraordinaria, capaz de triturar huesos. Los fósiles muestran lesiones curadas, patrones de crecimiento y variaciones entre individuos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos siguen debatiendo aspectos de su vida."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Era principalmente un depredador activo, un carroñero o ambas cosas? La mayoría de los paleontólogos rechaza hoy esa falsa disyuntiva. Los grandes carnívoros actuales pueden cazar y carroñear, y probablemente T. rex aprovechaba el alimento disponible de más de una manera."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿A qué velocidad podía correr? Las estimaciones varían, pero los estudios modernos suelen tratar con cautela los esprints extremos del cine por el esfuerzo que supondrían para un cuerpo tan masivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Tenía plumas? Sus parientes cercanos y tiranosauroideos anteriores muestran pruebas de plumas, pero las impresiones de piel de T. rex adulto incluyen texturas escamosas. La respuesta más prudente es que algunos tiranosauroideos tenían plumas, mientras que la cobertura exacta del T. rex adulto sigue en debate y pudo variar según la parte del cuerpo y la etapa vital."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia no hace a T. rex menos impresionante al quitarle las exageraciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo hace más real."
+    },
+    {
+      "type": "heading",
+      "text": "FÓSILES, HUELLAS Y HUEVOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocemos a los dinosaurios por muchos tipos de pruebas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los huesos y dientes revelan anatomía, crecimiento, lesiones y parentesco. Las huellas conservan indicios de movimiento, velocidad, conducta grupal y superficies antiguas. Los huevos y nidos muestran reproducción, incubación y desarrollo. Las impresiones de piel y las plumas revelan el revestimiento corporal. Los coprolitos, o excrementos fosilizados, pueden conservar pistas sobre la dieta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los icnofósiles son especialmente valiosos porque registran conductas, no solo cuerpos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un rastro de huellas puede mostrar a un animal caminando por el barro en un instante concreto de hace más de 100 millones de años."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un nido puede dar pistas sobre la estrategia reproductiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un lecho de huesos puede plantear preguntas sobre manadas, sequías, inundaciones o muertes masivas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada fósil es una pista."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ningún fósil cuenta toda la historia."
+    },
+    {
+      "type": "heading",
+      "text": "¿CÓMO LO SABEMOS?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La paleontología conecta fósiles con rocas, anatomía, química y relaciones evolutivas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos datan las rocas con métodos como la datación radiométrica y la estratigrafía. Comparan huesos de distintas especies, utilizan tomografías computarizadas para estudiar estructuras internas, analizan tejido óseo microscópico para estimar el crecimiento, examinan dientes para inferir la dieta y cartografían huellas para deducir el movimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cladística ayuda a comprobar las relaciones evolutivas mediante la comparación de rasgos anatómicos compartidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tecnología moderna ha ampliado el campo. Los modelos informáticos permiten probar la biomecánica. Los isótopos pueden sugerir aspectos de la dieta y el entorno. La imagen sincrotrón y el escaneo de alta resolución revelan estructuras demasiado delicadas para prepararlas a mano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la paleontología sigue siendo prudente porque las pruebas son fragmentarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fósil nuevo puede invalidar una reconstrucción antigua."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no es fracasar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así mejora la ciencia."
+    },
+    {
+      "type": "heading",
+      "text": "LA REVOLUCIÓN DE LAS PLUMAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uno de los mayores cambios en la ciencia de los dinosaurios llegó con los fósiles de dinosaurios emplumados, sobre todo de yacimientos de China y otros lugares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos hallazgos mostraron que muchos dinosaurios terópodos tenían plumas o estructuras parecidas a ellas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las plumas no evolucionaron únicamente para permitir el vuelo activo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de que algunos linajes las utilizaran para volar, quizá servían para el aislamiento térmico, la exhibición, la incubación, el camuflaje o el equilibrio."
+    },
+    {
+      "type": "paragraph",
+      "text": "La revolución de las plumas transformó la imaginación popular."
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los dinosaurios eran reptiles grises, escamosos y lentos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchos eran animales activos y visualmente complejos. Algunos quizá tenían colores llamativos. Algunos incubaban huevos. Otros tenían estructuras de exhibición."
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los dinosaurios tenían plumas."
+    },
+    {
+      "type": "paragraph",
+      "text": "No imaginamos a los grandes saurópodos, a muchos dinosaurios acorazados ni a muchos ornitisquios con un plumaje completo como el que se suele atribuir a los terópodos pequeños."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen precisa es diversa: escamas, plumas, filamentos, piel, armadura, cuernos y rasgos de exhibición en distintos grupos de dinosaurios."
+    },
+    {
+      "type": "heading",
+      "text": "LAS AVES SON DINOSAURIOS VIVOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "No es simplemente cierto que las aves desciendan de los dinosaurios en un sentido impreciso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las aves son dinosaurios terópodos actuales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pruebas proceden de la anatomía, los fósiles, las plumas, los huevos, la conducta de nidificación y las relaciones evolutivas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Archaeopteryx, descubierto en el siglo XIX, mostraba una mezcla de rasgos avianos y reptilianos: plumas y alas junto con dientes, garras y una larga cola ósea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hallazgos posteriores reforzaron aún más esa conexión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los pequeños terópodos emplumados revelan el ensamblaje gradual de los rasgos asociados con las aves. El vuelo no apareció de un salto mágico. Surgió de cuerpos que ya tenían plumas, esqueletos ligeros, fúrculas, sacos aéreos y movimientos complejos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto implica una precisión importante al hablar de la extinción de los dinosaurios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios no avianos desaparecieron en el límite K-Pg."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios avianos sobrevivieron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todas las aves actuales forman parte del legado de los dinosaurios."
+    },
+    {
+      "type": "heading",
+      "text": "CONDUCTA DE LOS DINOSAURIOS Y PREGUNTAS ABIERTAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es más difícil reconstruir la conducta que los huesos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un esqueleto puede mostrar la anatomía. No conserva directamente un rugido, una jerarquía social ni un vínculo parental."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aun así, los fósiles ofrecen pistas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los rastros pueden sugerir desplazamientos en grupo. Los lugares de nidificación pueden mostrar el uso repetido de zonas de cría. Los lechos de huesos pueden sugerir muertes masivas o agrupamiento social, aunque las interpretaciones requieren cautela. Las lesiones pueden revelar enfrentamientos o supervivencia tras un traumatismo. Los anillos de crecimiento de los huesos muestran la rapidez con que maduraban los animales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos dinosaurios cuidaban sus huevos. Algunos se desplazaban en grupos. Otros tenían estructuras de exhibición como crestas, cuernos, golas o plumas. Probablemente algunos usaban sonidos, colores, posturas y movimientos en sus interacciones sociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchas preguntas siguen en debate."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué inteligencia tenían los distintos dinosaurios? ¿Qué sonidos emitían? ¿Cuánto color tenían? ¿Qué vida social llevaban los grandes depredadores? ¿Cuánto cuidado parental ofrecían distintas especies?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mejor respuesta suele empezar con humildad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sabemos más que nunca."
+    },
+    {
+      "type": "paragraph",
+      "text": "No lo sabemos todo."
+    },
+    {
+      "type": "heading",
+      "text": "PLANTAS CON FLORES Y ECOSISTEMAS CAMBIANTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante el Cretácico, las plantas con flores se extendieron y transformaron los ecosistemas."
+    },
+    {
+      "type": "paragraph",
+      "text": "No ocurrió de golpe, y los dinosaurios no pasaron de un mundo a otro de la noche a la mañana. Pero las plantas con flores transformaron paisajes, relaciones con los insectos, redes alimentarias y hábitats."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los hadrosaurios, ceratópsidos y otros herbívoros prosperaron en los ecosistemas cretácicos. Los depredadores evolucionaron junto a ellos. Las aves se diversificaron. Los mamíferos seguían siendo generalmente pequeños, aunque ocupaban diversos nichos ecológicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mundo del Cretácico tardío era rico y complejo."
+    },
+    {
+      "type": "paragraph",
+      "text": "No era un planeta moribundo que esperaba pasivamente el impacto de un asteroide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios seguían siendo diversos en muchas regiones al final del periodo, aunque los patrones de diversidad variaban entre grupos y zonas geográficas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces la Tierra sufrió un acontecimiento cósmico."
+    },
+    {
+      "type": "heading",
+      "text": "EL MUNDO DEL CRETÁCICO FINAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el Cretácico tardío, entre los dinosaurios conocidos estaban Tyrannosaurus, Triceratops, Ankylosaurus, Edmontosaurus y muchos otros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los continentes tenían una disposición distinta de la actual. También diferían los niveles del mar, las costas y los climas. Por ejemplo, durante parte del Cretácico, mares interiores modelaron el oeste de Norteamérica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ecosistemas contenían dinosaurios, aves, mamíferos, crocodilianos, tortugas, lagartos, insectos, plantas y muchos organismos marinos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La extinción del final del Cretácico no afectó solo a los dinosaurios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fue una extinción masiva que transformó tanto los océanos como los continentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para entenderla, los científicos miran más allá de los huesos y estudian señales geológicas globales."
+    },
+    {
+      "type": "heading",
+      "text": "EL DÍA DEL IMPACTO DEL ASTEROIDE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hace unos 66 millones de años, un asteroide o cometa chocó contra lo que hoy es la península de Yucatán, en México."
+    },
+    {
+      "type": "paragraph",
+      "text": "La estructura de impacto se conoce como Chicxulub."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pruebas son sólidas: una capa global enriquecida en iridio, minerales chocados, vidrio de impacto, depósitos de tsunamis, geología del cráter y una fecha que coincide con el límite Cretácico-Paleógeno."
+    },
+    {
+      "type": "paragraph",
+      "text": "El impacto liberó una cantidad inmensa de energía."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lanzó materiales a la atmósfera, provocó incendios en algunas regiones, generó tsunamis, alteró el clima y oscureció el cielo con polvo, aerosoles y hollín."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fotosíntesis se habría interrumpido. Las redes alimentarias se habrían derrumbado. Cambiaron las temperaturas y la química ambiental. Los océanos también se vieron afectados. Los ecosistemas terrestres entraron en crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "No fue simplemente una gran roca que mató a los animales solo por el golpe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fue una catástrofe ambiental planetaria."
+    },
+    {
+      "type": "heading",
+      "text": "VULCANISMO DEL DECÁN Y DEBATE CIENTÍFICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pruebas respaldan firmemente el impacto de Chicxulub como causa principal de la extinción masiva del límite K-Pg."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero los científicos también estudian el vulcanismo del Decán, en lo que hoy es India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las Traps del Decán produjeron enormes erupciones volcánicas cerca del final del Cretácico. El vulcanismo pudo afectar el clima y los ecosistemas mediante gases, calentamiento, enfriamiento, lluvia ácida y cambios en la química oceánica."
+    },
+    {
+      "type": "paragraph",
+      "text": "El debate científico actual no suele reducirse a impacto o vulcanismo, como si fueran opciones de una caricatura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se centra en el momento, la interacción y la importancia relativa."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿El vulcanismo estresó los ecosistemas antes del impacto? ¿El impacto desencadenó o modificó la actividad volcánica? ¿Cuánto contribuyó cada proceso al cambio ambiental?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El resumen más prudente es este: Chicxulub es el principal desencadenante mejor respaldado de la extinción repentina del límite K-Pg, mientras que el vulcanismo del Decán y los cambios ambientales más amplios siguen siendo importantes para entender todo el contexto."
+    },
+    {
+      "type": "heading",
+      "text": "LA EXTINCIÓN MASIVA DEL LÍMITE K-Pg"
+    },
+    {
+      "type": "paragraph",
+      "text": "La extinción K-Pg marca el límite entre los periodos Cretácico y Paleógeno."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acabó con los dinosaurios no avianos, junto con muchos reptiles marinos, ammonites, grupos de plancton y otros organismos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La extinción no afectó a todos por igual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos linajes desaparecieron y otros sobrevivieron. La supervivencia dependió de factores como el tamaño corporal, la dieta, el hábitat, la reproducción, el metabolismo, el refugio y la flexibilidad ecológica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los animales pequeños que podían excavar madrigueras, vivir en el agua, comer semillas o detritos, o subsistir con alimentos más variados quizá tuvieron ventajas en el mundo posterior al impacto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los animales terrestres grandes que dependían de la productividad vegetal reciente y de redes alimentarias complejas eran especialmente vulnerables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios no avianos habían dominado los ecosistemas terrestres durante más de 160 millones de años."
+    },
+    {
+      "type": "paragraph",
+      "text": "Después, las condiciones del planeta cambiaron más rápido de lo que podían adaptarse."
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ DESAPARECIERON LOS DINOSAURIOS NO AVIANOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios no avianos desaparecieron porque el entorno posterior al impacto destruyó los sistemas ecológicos que los sostenían."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los grandes herbívoros necesitaban plantas. Los grandes carnívoros necesitaban herbívoros. Los huevos y las crías requerían condiciones estables. Las redes alimentarias debían recuperarse con suficiente rapidez para sostener las poblaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "El invierno de impacto y las alteraciones ambientales relacionadas probablemente redujeron la luz solar y el crecimiento vegetal, derrumbando las redes alimentarias desde abajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos dinosaurios quizá ya sufrían presiones regionales y el registro fósil no conserva todos los patrones locales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la desaparición mundial de los dinosaurios no avianos en el límite K-Pg apunta a una crisis repentina y global."
+    },
+    {
+      "type": "paragraph",
+      "text": "No desaparecieron porque fueran obsoletos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Desaparecieron porque la Tierra cambió de forma catastrófica."
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ SOBREVIVIERON LAS AVES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las aves sobrevivieron a la extinción K-Pg, pero no sobrevivieron todas."
+    },
+    {
+      "type": "paragraph",
+      "text": "También desaparecieron muchos linajes de aves antiguas."
+    },
+    {
+      "type": "paragraph",
+      "text": "A las aves que sobrevivieron quizá las ayudaron una combinación de tamaño corporal pequeño, dietas flexibles, reproducción rápida y hábitos ecológicos adecuados para entornos dañados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas quizá comían semillas, recursos acuáticos u otros alimentos disponibles después del colapso de los bosques y de las grandes redes alimentarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores siguen estudiando por qué sobrevivieron ciertos linajes de aves y otros no."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo que sí está claro es que el linaje de los dinosaurios no terminó por completo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voló hacia el futuro."
+    },
+    {
+      "type": "paragraph",
+      "text": "El gorrión de un tejado, el cuervo de una ciudad, el águila sobre una montaña y la gallina de un corral recuerdan que los dinosaurios no son solo fósiles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Siguen aquí."
+    },
+    {
+      "type": "heading",
+      "text": "MITO Y REALIDAD SOBRE LOS DINOSAURIOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: los seres humanos convivieron con los dinosaurios no avianos."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: los dinosaurios no avianos desaparecieron hace unos 66 millones de años. Los seres humanos modernos aparecieron mucho después."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: todos los dinosaurios eran gigantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: algunos eran enormes, pero muchos eran pequeños, incluidos terópodos parecidos a las aves que no superaban mucho el tamaño de animales actuales."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: todos los dinosaurios tenían escamas."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: muchos tenían plumas o estructuras similares, sobre todo entre los terópodos, aunque no todos los dinosaurios eran emplumados."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: los reptiles voladores eran dinosaurios."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: los pterosaurios eran parientes cercanos dentro del mundo más amplio de los arcosaurios, pero no eran dinosaurios."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: el asteroide es solo una conjetura."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: el impacto de Chicxulub está respaldado por sólidas pruebas geológicas y se considera ampliamente el principal desencadenante de la extinción K-Pg."
+    },
+    {
+      "type": "paragraph",
+      "text": "MITO: los dinosaurios fueron un fracaso evolutivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "REALIDAD: dominaron muchos ecosistemas terrestres durante más de 160 millones de años, y las aves siguen siendo dinosaurios vivos."
+    },
+    {
+      "type": "heading",
+      "text": "EL LEGADO DE LOS DINOSAURIOS HOY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios cambiaron la manera en que los seres humanos piensan sobre el tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus fósiles revelaron que la Tierra era mucho más antigua y extraña de lo que imaginaban muchas sociedades anteriores. Mostraron que mundos enteros podían desaparecer. Ayudaron a hacer visibles la extinción, la evolución y el tiempo profundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia de los dinosaurios sigue cambiando."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un dinosaurio montado hoy en un museo puede parecer muy distinto del que se exponía hace un siglo. En las reconstrucciones antiguas ya no se arrastran las colas de la misma manera. Las plumas aparecen donde antes dominaban las escamas. Las tomografías revelan el interior de los cráneos. Los estudios de crecimiento cambian las ideas sobre edad y tamaño. Los fósiles nuevos redibujan los árboles genealógicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dinosaurios no son solo animales antiguos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son una frontera científica activa."
+    },
+    {
+      "type": "heading",
+      "text": "LOS GIGANTES QUE AÚN DOMINAN LA IMAGINACIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "El auge y la desaparición de los dinosaurios cuentan una historia de éxito evolutivo, no solo de extinción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comenzaron como animales triásicos relativamente modestos. Se expandieron durante el Jurásico. Dieron lugar a los animales terrestres más grandes de la historia, a algunos de los depredadores más poderosos, a complejas conductas de nidificación, plumas, vuelo y aves."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego un asteroide cambió el planeta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los gigantes no avianos desaparecieron, pero su mundo no se esfumó sin dejar pruebas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los huesos quedaron en la roca."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las huellas se endurecieron en el barro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los huevos se fosilizaron en los nidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las plumas dejaron sombras en la piedra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bajo México quedó un cráter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una fina capa global marcó el final de una era."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y las aves llevaron el linaje adelante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, la historia de los dinosaurios no trata solo de la muerte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trata de cómo cambia la vida a lo largo de un tiempo inimaginable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los gigantes dominaron la Tierra durante más de 160 millones de años."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus descendientes aún cruzan el cielo."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Museo Nacional de Historia Natural del Smithsonian: dinosaurios",
+      "url": "https://naturalhistory.si.edu/education/teaching-resources/paleontology/dinosaurs"
+    },
+    {
+      "label": "Museo de Historia Natural de Londres: ¿qué es un dinosaurio?",
+      "url": "https://www.nhm.ac.uk/discover/where-did-dinosaurs-come-from.html"
+    },
+    {
+      "label": "Museo de Historia Natural de Londres: ¿por qué se extinguieron los dinosaurios?",
+      "url": "https://www.nhm.ac.uk/discover/how-an-asteroid-caused-extinction-of-dinosaurs.html"
+    },
+    {
+      "label": "Museo de Paleontología de la Universidad de California: Dinosauria",
+      "url": "https://ucmp.berkeley.edu/diapsids/dinosaur.html"
+    },
+    {
+      "label": "Museo de Paleontología de la Universidad de California: extinción K-T",
+      "url": "https://ucmp.berkeley.edu/education/events/cowen1b.html"
+    },
+    {
+      "label": "USGS: evento de impacto de Chicxulub",
+      "url": "https://www.usgs.gov/centers/geology-geophysics-and-geochemistry-science-center/science/chicxulub-impact-event"
+    },
+    {
+      "label": "Science: causa extraterrestre de la extinción Cretácico-Terciario",
+      "url": "https://www.science.org/doi/10.1126/science.208.4448.1095"
+    },
+    {
+      "label": "PNAS: impacto del asteroide Chicxulub y extinción masiva",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1817407116"
+    },
+    {
+      "label": "Nature Communications: el impacto del asteroide, no el vulcanismo, causó la extinción de los dinosaurios",
+      "url": "https://www.nature.com/articles/s41467-020-15269-x"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuánto tiempo existieron los dinosaurios?",
+      "answer": "Los dinosaurios aparecieron durante el Triásico, hace más de 230 millones de años, y los dinosaurios no avianos desaparecieron hace unos 66 millones de años. Por tanto, existieron más de 160 millones de años."
+    },
+    {
+      "question": "¿Los seres humanos convivieron con los dinosaurios?",
+      "answer": "Los seres humanos nunca convivieron con dinosaurios no avianos. Los humanos modernos aparecieron decenas de millones de años después de su extinción."
+    },
+    {
+      "question": "¿Las aves son dinosaurios?",
+      "answer": "Sí. Las aves son dinosaurios terópodos vivos que descienden de antepasados dinosaurios emplumados que sobrevivieron a la extinción K-Pg."
+    },
+    {
+      "question": "¿Todos los dinosaurios tenían plumas?",
+      "answer": "No. Muchos terópodos tenían plumas o estructuras similares, pero la cobertura corporal variaba mucho entre grupos de dinosaurios."
+    },
+    {
+      "question": "¿Qué causó la extinción de los dinosaurios?",
+      "answer": "El impacto del asteroide de Chicxulub hace unos 66 millones de años cuenta con amplio respaldo como causa principal de la extinción K-Pg. El vulcanismo del Decán y el cambio ambiental siguen siendo parte relevante del contexto científico."
+    },
+    {
+      "question": "¿T. rex era solo carroñero?",
+      "answer": "Probablemente no. La mayoría de los paleontólogos considera que T. rex era un gran carnívoro que podía cazar y carroñear, en vez de atribuirle solo una de esas conductas."
+    },
+    {
+      "question": "¿Los pterosaurios eran dinosaurios?",
+      "answer": "No. Los pterosaurios eran reptiles voladores emparentados con los dinosaurios, pero no eran dinosaurios."
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/depression-what-happens-in-the-brain/",
+  "path": "/es/articles/depression-what-happens-in-the-brain/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "DEPRESIÓN: ¿QUÉ OCURRE REALMENTE EN EL CEREBRO?",
+  "excerpt": "La depresión no es tristeza corriente ni un simple desequilibrio químico. Afecta al ánimo, la recompensa, el estrés, el sueño, la memoria, la motivación y redes cerebrales que varían de una persona a otra.",
+  "headlineHighlights": {
+    "red": "DEPRESIÓN",
+    "gold": "EN EL CEREBRO"
+  },
+  "seoTitle": "Depresión y cerebro: lo que realmente muestra la ciencia",
+  "description": "Qué ocurre en el cerebro con la depresión: síntomas, redes del ánimo, serotonina, hormonas del estrés, sueño, neuroplasticidad y tratamientos.",
+  "keywords": [
+    "depresión y cerebro",
+    "síntomas de depresión",
+    "serotonina y depresión",
+    "neuroplasticidad",
+    "tratamiento de la depresión"
+  ],
+  "searchIntent": "Comprender la depresión desde la neurociencia, distinguirla de la tristeza y conocer qué se sabe sobre sus mecanismos y tratamientos sin reducirla a un desequilibrio químico.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "image": {
+    "src": "/images/articles/depression-what-happens-in-the-brain.webp",
+    "alt": "Ilustración divulgativa de un cerebro dividido que compara patrones del estado de ánimo, el estrés y las conexiones como metáfora de la depresión"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La depresión cambia cómo se vive la vida por dentro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede hacer que las tareas cotidianas pesen. Puede apagar el placer, alterar el sueño, ralentizar el pensamiento, intensificar la culpa, agotar la motivación y hacer que el futuro parezca cerrado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la depresión no es debilidad, pereza ni una tristeza corriente que simplemente se prolonga."
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde el punto de vista clínico, la [depresión](https://www.who.int/news-room/fact-sheets/detail/depression) es un trastorno de salud mental que implica cambios persistentes en el ánimo, el interés, la energía, el sueño, el apetito, la concentración, el movimiento, la autoestima y, en ocasiones, pensamientos de muerte. El diagnóstico depende de patrones de síntomas, su duración, la afectación del funcionamiento y una evaluación clínica, no de una sola emoción ni de una única imagen cerebral."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hablar de depresión y cerebro resulta útil porque la depresión es biológica, además de psicológica y social. Pero también puede inducir a error si hace parecer que el trastorno consiste en un único interruptor averiado."
+    },
+    {
+      "type": "paragraph",
+      "text": "La depresión no es un simple desequilibrio químico. No es idéntica en todas las personas. Y aunque las técnicas de imagen cerebral detecten diferencias entre grupos, esas imágenes no permiten diagnosticar por sí solas a una persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen de cabecera es una metáfora visual simplificada. Sus etiquetas de cerebro sano y deprimido no deben interpretarse como hechos diagnósticos literales. La depresión real varía considerablemente entre personas, y el diagnóstico clínico no puede establecerse a partir de una única imagen del cerebro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para leer más artículos de divulgación científica de PRESDA, véanse [¿por qué soñamos?](/articles/why-do-we-dream/) y [Charles Darwin y la teoría de la evolución](/articles/charles-darwin-theory-of-evolution/)."
+    },
+    {
+      "type": "heading",
+      "text": "Qué es la depresión desde el punto de vista clínico"
+    },
+    {
+      "type": "paragraph",
+      "text": "La depresión mayor es más que pasar una mala semana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Referencias médicas como la Organización Mundial de la Salud y el Instituto Nacional de la Salud Mental describen la depresión como un trastorno que puede afectar al ánimo, el pensamiento, la conducta y el funcionamiento físico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre sus síntomas habituales figuran el ánimo bajo persistente, la pérdida de interés o placer, la fatiga, los cambios de sueño o apetito, la dificultad para concentrarse, los sentimientos de inutilidad o culpa excesiva, el enlentecimiento o la agitación de los movimientos y los pensamientos recurrentes de muerte o autolesión."
+    },
+    {
+      "type": "paragraph",
+      "text": "No todas las personas presentan todos los síntomas. Algunas duermen demasiado; otras no pueden dormir. Unas pierden el apetito; otras comen más. Algunas muestran una lentitud visible; otras siguen desenvolviéndose exteriormente mientras sufren por dentro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa variabilidad es una de las razones por las que la depresión no debe reducirse a un único dibujo esquemático del cerebro."
+    },
+    {
+      "type": "heading",
+      "text": "Tristeza y depresión"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tristeza es una emoción humana normal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las personas sienten tristeza después de una pérdida, un conflicto, una decepción o una etapa de agotamiento. La tristeza puede doler sin constituir un trastorno."
+    },
+    {
+      "type": "paragraph",
+      "text": "La depresión clínica se distingue porque los síntomas persisten, aparecen conjuntamente e interfieren en la vida cotidiana. Puede surgir sin una causa externa evidente o desarrollarse después de estrés, duelo, enfermedad, trauma o cambios vitales importantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El profesional clínico valora la duración, la gravedad, la afectación del funcionamiento, los antecedentes médicos, la medicación, el consumo de sustancias, otros trastornos de salud mental y los posibles riesgos para la seguridad de la persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "No se trata de convertir cada sentimiento de tristeza en un diagnóstico. Se trata de reconocer cuándo un conjunto de síntomas va más allá de la tristeza habitual y merece atención."
+    },
+    {
+      "type": "heading",
+      "text": "Qué muestran realmente las imágenes cerebrales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las técnicas de imagen cerebral han ayudado a investigar la depresión, pero tienen límites."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estudios con resonancia magnética, resonancia magnética funcional y tomografía por emisión de positrones pueden mostrar diferencias de estructura, actividad, conectividad y metabolismo entre grupos de personas con depresión y grupos de control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se han estudiado áreas y circuitos relacionados con la emoción, la recompensa, la memoria, la atención y la regulación del estrés. Entre ellos figuran la corteza prefrontal, la corteza cingulada anterior, la amígdala, el hipocampo, el cuerpo estriado y las redes que coordinan la atención y el pensamiento interno."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero los promedios de un grupo no equivalen a un diagnóstico individual."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos personas con depresión pueden tener patrones de síntomas y perfiles biológicos distintos. Una persona sin depresión puede compartir algunas características de imagen observadas en muestras de investigación. Por tanto, estas técnicas son valiosas para investigar, pero no constituyen una prueba clínica sencilla que indique «con depresión» o «sin depresión»."
+    },
+    {
+      "type": "paragraph",
+      "text": "La neurociencia responsable mantiene clara esa diferencia."
+    },
+    {
+      "type": "heading",
+      "text": "Redes cerebrales que intervienen en el ánimo y el estrés"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cerebro no dirige el estado de ánimo desde un diminuto centro de la depresión."
+    },
+    {
+      "type": "paragraph",
+      "text": "El ánimo depende de redes que interactúan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los circuitos de recompensa ayudan a determinar si las actividades resultan motivadoras o placenteras. Incluyen vías relacionadas con la dopamina y regiones como el cuerpo estriado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los circuitos de memoria y emoción conectan la experiencia presente con el aprendizaje previo, el miedo, el duelo, la amenaza y el significado. La amígdala y el hipocampo suelen estudiarse en este contexto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las regiones prefrontales contribuyen a la planificación, la toma de decisiones, la atención, la regulación emocional y la flexibilidad del pensamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Redes de gran escala, como la red neuronal por defecto, la red de saliencia y las redes de control ejecutivo, ayudan a coordinar el pensamiento centrado en uno mismo, la atención a señales importantes y el control orientado a objetivos."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la depresión, los investigadores encuentran a menudo alteraciones de la actividad o la conectividad en algunos de estos sistemas. Pero el patrón no es idéntico en todas las personas."
+    },
+    {
+      "type": "heading",
+      "text": "Serotonina, dopamina y noradrenalina"
+    },
+    {
+      "type": "paragraph",
+      "text": "La depresión suele explicarse como una falta de serotonina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa explicación es demasiado simple."
+    },
+    {
+      "type": "paragraph",
+      "text": "La serotonina, la dopamina y la noradrenalina son neurotransmisores que intervienen en el ánimo, la recompensa, la alerta, el sueño, el apetito, el aprendizaje y muchas otras funciones. Numerosos antidepresivos actúan sobre estos sistemas, especialmente sobre la señalización de la serotonina y la noradrenalina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la depresión no puede explicarse por completo como una sustancia química baja del mismo modo que se mide un nivel bajo de azúcar en sangre."
+    },
+    {
+      "type": "paragraph",
+      "text": "El antiguo relato del desequilibrio químico ayudó a reducir el estigma al mostrar que la depresión no es una falta moral. Sin embargo, la neurociencia actual la aborda como un trastorno complejo que incluye circuitos, biología del estrés, genética, entorno, hipótesis sobre la inflamación, cognición, sueño, neuroplasticidad y contexto social."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los antidepresivos pueden ayudar a muchas personas, pero eso no demuestra que la depresión se deba únicamente a la escasez de un neurotransmisor."
+    },
+    {
+      "type": "heading",
+      "text": "Las hormonas del estrés y el cuerpo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La depresión está conectada con los sistemas de respuesta al estrés del organismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El eje hipotálamo-hipófisis-suprarrenal, también conocido por las siglas HPA en inglés, ayuda a regular la respuesta al estrés. El cortisol es una de las hormonas del estrés importantes en este sistema."
+    },
+    {
+      "type": "paragraph",
+      "text": "El estrés crónico puede afectar al sueño, la señalización inmunitaria, el metabolismo, la memoria y la regulación emocional. La investigación ha detectado cambios en el eje HPA en algunas personas con depresión, aunque no en todos los casos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto ayuda a explicar por qué la depresión puede sentirse físicamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "No es solo un pensamiento triste. Puede implicar fatiga, dolor, cambios de apetito, alteraciones del sueño, lentitud de movimiento y un cuerpo que parece atrapado en un estado de amenaza o de apagamiento."
+    },
+    {
+      "type": "heading",
+      "text": "Genética, entorno y experiencia vital"
+    },
+    {
+      "type": "paragraph",
+      "text": "La depresión suele surgir de factores que interactúan."
+    },
+    {
+      "type": "paragraph",
+      "text": "La genética puede influir en la vulnerabilidad, pero no existe un único gen de la depresión que determine el destino."
+    },
+    {
+      "type": "paragraph",
+      "text": "El entorno importa. Los traumas, el estrés crónico, el aislamiento, la pobreza, la discriminación, la enfermedad, el duelo, los antecedentes familiares y las grandes transiciones vitales pueden contribuir al riesgo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La experiencia vital moldea el cerebro, y el cerebro moldea cómo se procesa esa experiencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa relación circular es una de las razones por las que la depresión no es puramente biológica ni puramente psicológica. Es ambas cosas y más."
+    },
+    {
+      "type": "heading",
+      "text": "Sueño y depresión"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sueño y la depresión están estrechamente relacionados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas personas con depresión tienen insomnio. Otras duermen mucho más de lo habitual y aun así se sienten agotadas. Los horarios de sueño, los patrones del sueño REM y los ritmos circadianos pueden verse alterados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dormir mal puede empeorar el ánimo, la concentración y la regulación emocional. A su vez, la depresión puede dificultar mantener un sueño saludable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta relación bidireccional importa clínicamente porque mejorar el sueño suele formar parte de la recuperación, aunque el sueño por sí solo no explique toda la enfermedad."
+    },
+    {
+      "type": "heading",
+      "text": "Neuroplasticidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "La neuroplasticidad significa que el cerebro puede cambiar mediante la experiencia, el aprendizaje, el estrés y el tratamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación sobre la depresión estudia cada vez más cómo el estrés crónico y los trastornos del ánimo pueden afectar a la plasticidad de los circuitos relacionados con la emoción, la recompensa y la cognición."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no significa que una persona pueda salir de la depresión simplemente pensando de otra manera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Significa que el cerebro con depresión no queda congelado para siempre. La psicoterapia, la medicación, la mejora del sueño, el ejercicio, los vínculos sociales, los tratamientos de estimulación cerebral y el tiempo pueden interactuar con su capacidad de adaptación."
+    },
+    {
+      "type": "paragraph",
+      "text": "La recuperación es posible, pero el camino no es idéntico para todos."
+    },
+    {
+      "type": "heading",
+      "text": "Motivación, concentración y placer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uno de los aspectos más crueles de la depresión es que puede atacar las herramientas necesarias para recuperarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando se alteran los circuitos de recompensa y los sistemas de estrés, las actividades agradables pueden dejar de resultar gratificantes. Esto se denomina anhedonia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando los sistemas de atención y control ejecutivo están sobrecargados, leer, trabajar, planificar o tomar decisiones puede resultar inusualmente difícil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando el sueño se altera, la concentración empeora aún más."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando el pensamiento autocrítico se vuelve repetitivo, la mente puede quedar atrapada en círculos de culpa o desesperanza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, decirle a una persona con depresión que simplemente se esfuerce más revela una comprensión equivocada del trastorno. La depresión puede afectar directamente a los sistemas implicados en el esfuerzo, el placer y la planificación."
+    },
+    {
+      "type": "heading",
+      "text": "Psicoterapia"
+    },
+    {
+      "type": "paragraph",
+      "text": "La psicoterapia es un tratamiento de la depresión respaldado por la evidencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los distintos enfoques pueden ayudar de distintas maneras. La terapia cognitivo-conductual trabaja con patrones de pensamiento y conducta. La terapia interpersonal se centra en las relaciones y los roles vitales. La activación conductual ayuda a reconstruir patrones de actividad que pueden recuperar la gratificación y la estructura cotidiana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recurrir a terapia no significa que la depresión sea imaginaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hablar, aprender, practicar conductas nuevas y elaborar las experiencias puede cambiar la forma en que el cerebro anticipa, responde y regula las emociones."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la depresión leve o moderada, la psicoterapia puede utilizarse por sí sola. En casos más graves, puede combinarse con medicación u otros tratamientos."
+    },
+    {
+      "type": "heading",
+      "text": "Antidepresivos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los antidepresivos pueden reducir los síntomas en muchas personas, especialmente en la depresión moderada o grave."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre las clases habituales se encuentran los inhibidores selectivos de la recaptación de serotonina, los inhibidores de la recaptación de serotonina y noradrenalina y otros fármacos con mecanismos diferentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todavía se investiga cómo producen exactamente la mejoría clínica. Sus primeros efectos químicos pueden comenzar con rapidez, pero la mejora del ánimo suele tardar semanas. Esto sugiere que pueden importar los cambios posteriores en la adaptación neuronal, los sistemas de estrés y la plasticidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los antidepresivos no son mágicos ni sustituyen la personalidad. Algunas personas responden bien. Otras lo hacen parcialmente. Algunas no responden al primer medicamento. Pueden producirse efectos secundarios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las decisiones sobre medicación deben tomarse con profesionales clínicos cualificados, especialmente cuando los síntomas son graves, complejos o van acompañados de riesgos para la seguridad de la persona."
+    },
+    {
+      "type": "heading",
+      "text": "Ejercicio, sueño y apoyo social"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los factores de apoyo pueden importar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe evidencia de que la actividad física regular mejora los síntomas depresivos en muchas personas, aunque no debe presentarse como una cura universal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las rutinas de sueño pueden favorecer la regulación emocional. Los vínculos sociales pueden reducir el aislamiento y ayudar a conservar puntos de apoyo durante la recuperación. También pueden importar la alimentación, la exposición a la luz diurna, la reducción del consumo problemático de alcohol y el tratamiento de otras enfermedades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son factores de apoyo, no pruebas de valor moral."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona con depresión puede saber que el ejercicio o la compañía podrían ayudarla y, aun así, encontrarlos extremadamente difíciles. Esa dificultad forma parte de la enfermedad."
+    },
+    {
+      "type": "heading",
+      "text": "Depresión resistente al tratamiento"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos casos de depresión no responden adecuadamente a los tratamientos de primera línea."
+    },
+    {
+      "type": "paragraph",
+      "text": "La depresión resistente al tratamiento suele referirse a la persistencia de los síntomas pese a intentos de tratamiento adecuados, aunque las definiciones varían."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las opciones pueden incluir cambiar o combinar medicamentos, añadir psicoterapia, abordar problemas del sueño u otras enfermedades y valorar tratamientos especializados."
+    },
+    {
+      "type": "paragraph",
+      "text": "La estimulación magnética transcraneal, o EMT, utiliza pulsos magnéticos para estimular regiones cerebrales específicas y se emplea en algunas formas de depresión."
+    },
+    {
+      "type": "paragraph",
+      "text": "La terapia electroconvulsiva, o TEC, es uno de los tratamientos más eficaces para la depresión grave, especialmente cuando los síntomas ponen en peligro la vida, son psicóticos o resisten otros tratamientos. La TEC moderna se realiza bajo supervisión médica y con anestesia, no como las imágenes aterradoras que suelen mostrar las películas antiguas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otros tratamientos, entre ellos la ketamina o la esketamina en contextos clínicos autorizados, también forman parte de la atención actual a determinados pacientes con depresión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos tratamientos deben abordarse con profesionales cualificados porque sus beneficios, riesgos e idoneidad varían."
+    },
+    {
+      "type": "heading",
+      "text": "Lo que la ciencia todavía no comprende"
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación sobre la depresión ha avanzado enormemente, pero siguen abiertas preguntas importantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos aún no disponen de una prueba biológica que diagnostique la depresión en todas las personas. No comprenden por completo por qué alguien responde a un tratamiento y otra persona no. Tampoco tienen todavía un mapa completo que vincule cada patrón de síntomas con un mecanismo cerebral concreto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede que, con el tiempo, la depresión se comprenda mejor como un grupo de trastornos relacionados que como una sola enfermedad con una única causa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa incertidumbre no es un fracaso. Es la frontera del conocimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "La buena ciencia puede afirmar ambas cosas a la vez: la depresión es real y tiene relevancia biológica, y su biología sigue siendo más compleja que cualquier lema sencillo."
+    },
+    {
+      "type": "heading",
+      "text": "Recuperación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cerebro con depresión no es un cerebro destruido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los síntomas pueden mejorar. Se puede recuperar el funcionamiento. El placer puede volver. La concentración puede restablecerse. El sueño puede estabilizarse. Las personas pueden reconstruir su vida después de episodios graves."
+    },
+    {
+      "type": "paragraph",
+      "text": "La recuperación puede incluir terapia, medicación, apoyo social, cambios de hábitos, atención médica, ayuda en crisis o tratamientos avanzados. Puede ser rápida para algunas personas y lenta para otras."
+    },
+    {
+      "type": "paragraph",
+      "text": "El mensaje científico más importante es también el más humano."
+    },
+    {
+      "type": "paragraph",
+      "text": "La depresión no es un defecto de carácter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un trastorno serio y tratable que implica el cerebro, el cuerpo, la mente y el mundo que rodea a la persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprender esa complejidad no hace que la depresión sea menos real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hace más fácil imaginar la recuperación."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Organización Mundial de la Salud: trastorno depresivo",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/depression"
+    },
+    {
+      "label": "Instituto Nacional de la Salud Mental: depresión",
+      "url": "https://www.nimh.nih.gov/health/topics/depression"
+    },
+    {
+      "label": "Instituto Nacional de la Salud Mental: medicamentos para la salud mental",
+      "url": "https://www.nimh.nih.gov/health/topics/mental-health-medications"
+    },
+    {
+      "label": "Instituto Nacional de la Salud Mental: terapias de estimulación cerebral",
+      "url": "https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies"
+    },
+    {
+      "label": "Mayo Clinic: depresión",
+      "url": "https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007"
+    },
+    {
+      "label": "Harvard Health Publishing: ¿qué causa la depresión?",
+      "url": "https://www.health.harvard.edu/mind-and-mood/what-causes-depression"
+    },
+    {
+      "label": "Molecular Psychiatry: teoría serotoninérgica de la depresión, revisión sistemática de revisiones de la evidencia",
+      "url": "https://www.nature.com/articles/s41380-022-01661-0"
+    },
+    {
+      "label": "Nature Reviews Neuroscience: neurobiología de la depresión",
+      "url": "https://www.nature.com/articles/nrn.2016.69"
+    },
+    {
+      "label": "JAMA Psychiatry: asociación entre ejercicio y depresión",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2790780"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Puede diagnosticarse la depresión con una imagen cerebral?",
+      "answer": "No. Las técnicas de imagen cerebral son valiosas para investigar, pero la depresión se diagnostica mediante una evaluación clínica de los síntomas, su duración, la afectación del funcionamiento, los antecedentes y los factores de seguridad."
+    },
+    {
+      "question": "¿La depresión es solo un desequilibrio químico?",
+      "answer": "No. Neurotransmisores como la serotonina, la dopamina y la noradrenalina importan, pero la depresión implica interacciones complejas entre circuitos cerebrales, biología del estrés, genética, entorno, sueño y experiencia vital."
+    },
+    {
+      "question": "¿Qué áreas cerebrales intervienen en la depresión?",
+      "answer": "La investigación estudia a menudo la corteza prefrontal, la corteza cingulada anterior, la amígdala, el hipocampo, el cuerpo estriado y las redes de gran escala implicadas en la recompensa, la memoria, la emoción, la atención y el estrés."
+    },
+    {
+      "question": "¿Por qué la depresión reduce la motivación y el placer?",
+      "answer": "La depresión puede afectar a los sistemas de recompensa y estrés, haciendo que actividades normalmente significativas resulten menos gratificantes y dificultando la planificación, el esfuerzo y la concentración."
+    },
+    {
+      "question": "¿Los antidepresivos actúan de inmediato?",
+      "answer": "Sus primeros efectos químicos pueden comenzar con rapidez, pero la mejoría de los síntomas suele tardar semanas, lo que sugiere la intervención de procesos posteriores de adaptación y plasticidad cerebral."
+    },
+    {
+      "question": "¿Qué es la depresión resistente al tratamiento?",
+      "answer": "En general, se refiere a una depresión que no mejora adecuadamente después de suficientes intentos de tratamiento, aunque las definiciones varían y puede ser necesaria atención especializada."
+    },
+    {
+      "question": "¿Es posible recuperarse de la depresión?",
+      "answer": "Sí. La depresión es tratable, y muchas personas mejoran con psicoterapia, medicación, cambios de apoyo, tratamientos de estimulación cerebral o combinaciones de cuidados."
+    }
+  ]
+}

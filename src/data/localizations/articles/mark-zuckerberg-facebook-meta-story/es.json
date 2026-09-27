@@ -1,0 +1,518 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/mark-zuckerberg-facebook-meta-story/",
+  "path": "/es/articles/mark-zuckerberg-facebook-meta-story/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex native localization and source review",
+    "reviewedAt": "2026-09-27",
+    "terminologyChecked": true
+  },
+  "title": "MARK ZUCKERBERG: DE UNA HABITACIÓN EN HARVARD A UN IMPERIO TECNOLÓGICO GLOBAL",
+  "excerpt": "Mark Zuckerberg convirtió un proyecto de Harvard en Facebook y después en Meta, un gigante que transforma la comunicación, la publicidad, la privacidad y la inteligencia artificial.",
+  "headlineHighlights": {
+    "red": "MARK ZUCKERBERG",
+    "gold": "IMPERIO TECNOLÓGICO GLOBAL"
+  },
+  "seoTitle": "Mark Zuckerberg: de Facebook al imperio Meta",
+  "description": "La historia de Mark Zuckerberg: Facebook, Instagram y WhatsApp, polémicas de privacidad, inteligencia artificial, gafas inteligentes y la apuesta por el metaverso.",
+  "keywords": [
+    "Mark Zuckerberg",
+    "historia de Facebook",
+    "Meta modelo de negocio",
+    "Instagram WhatsApp",
+    "Meta inteligencia artificial"
+  ],
+  "searchIntent": "Entender la trayectoria de Mark Zuckerberg, cómo creció Meta y las controversias de su poder empresarial.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "image": {
+    "src": "/images/articles/mark-zuckerberg-facebook-meta-story.webp",
+    "alt": "Mark Zuckerberg con gafas inteligentes ante un campus de Meta, junto a representaciones de interfaces de realidad aumentada"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Mark Zuckerberg es una de las figuras empresariales que han marcado la era de internet."
+    },
+    {
+      "type": "paragraph",
+      "text": "No inventó las redes sociales. Tampoco creó la publicidad digital. No empezó con una empresa cotizada, una plataforma mundial ni una estrategia para el metaverso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Empezó con una web creada en Harvard en 2004."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos décadas después, Facebook formaba parte de Meta, una empresa cuyas aplicaciones conectan a miles de millones de personas, cuyos sistemas publicitarios influyen en el comercio digital y cuyas decisiones afectan a los medios, la política, la privacidad, la inteligencia artificial y el futuro de la informática personal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, la historia de Mark Zuckerberg es más que la biografía de un fundador. Es la historia de cómo las redes sociales se convirtieron en una infraestructura mundial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para seguir leyendo análisis de tecnología y negocios en PRESDA, consulta [GTA VI y la economía del entretenimiento](/articles/gta6-trailer-culture-shift/) y [el plan de Elon Musk para Marte](/articles/elon-mars-signal/)."
+    },
+    {
+      "type": "heading",
+      "text": "Infancia, programación y Harvard"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mark Elliot Zuckerberg nació el 14 de mayo de 1984 en White Plains, Nueva York, y creció en Dobbs Ferry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde pequeño se interesó por los ordenadores y la programación. Durante la adolescencia desarrolló programas y adquirió una soltura técnica que después le permitió avanzar con rapidez cuando las redes sociales empezaron a tomar forma en los campus universitarios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zuckerberg ingresó en la Universidad de Harvard, donde estudió informática y psicología. A principios de los años 2000, la vida universitaria estaba cada vez más conectada mediante el correo electrónico, las páginas personales, la mensajería instantánea y las primeras plataformas sociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese contexto fue importante. Facebook no surgió de la nada: llegó cuando la identidad, las amistades y la posición social en el campus empezaban a trasladarse a internet."
+    },
+    {
+      "type": "heading",
+      "text": "Facebook nace en 2004"
+    },
+    {
+      "type": "paragraph",
+      "text": "En febrero de 2004, Zuckerberg lanzó Thefacebook con otros estudiantes de Harvard."
+    },
+    {
+      "type": "paragraph",
+      "text": "La web comenzó como una red social para estudiantes de Harvard. Pronto se extendió a otras universidades, después a centros de secundaria y finalmente al público general."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su atractivo inicial era sencillo: nombres reales, perfiles, fotos, situación sentimental, redes de cada centro y una interfaz más clara que la de muchas comunidades digitales anteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Facebook creció porque convirtió la identidad social de la vida cotidiana en un producto digital que las personas consultaban una y otra vez."
+    },
+    {
+      "type": "paragraph",
+      "text": "La empresa se trasladó a Silicon Valley, atrajo capital riesgo y se convirtió en una de las compañías de internet de mayor crecimiento de su época."
+    },
+    {
+      "type": "heading",
+      "text": "Una rápida expansión mundial"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2006, Facebook se abrió más allá del ámbito universitario."
+    },
+    {
+      "type": "paragraph",
+      "text": "A partir de ahí, su crecimiento se aceleró en todo el mundo. El muro de noticias hizo más dinámica la plataforma. El botón Me gusta simplificó las interacciones. Las aplicaciones móviles transformaron una web en un servicio que la gente llevaba consigo todo el día."
+    },
+    {
+      "type": "paragraph",
+      "text": "La compañía se expandió mediante nuevos productos y adquisiciones. Se convirtió en una plataforma para amistades, familias, medios, empresas, campañas políticas, creadores y anunciantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese crecimiento dio poder a Facebook, pero también generó problemas. Una plataforma diseñada para conectar personas se convirtió en un sistema capaz de distribuir información a enorme velocidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "La misma arquitectura que ayudaba a las familias a compartir fotos podía amplificar la desinformación, el acoso, la manipulación política y los contenidos virales de baja calidad."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo gana dinero Meta"
+    },
+    {
+      "type": "paragraph",
+      "text": "El modelo de negocio de Meta se basa principalmente en la publicidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los anunciantes pagan por llegar a personas a través de Facebook, Instagram, Messenger, WhatsApp y servicios relacionados. Para colocar anuncios, los sistemas de Meta utilizan señales de la actividad de los usuarios, sus interacciones con contenidos, los objetivos de los anunciantes y modelos de aprendizaje automático."
+    },
+    {
+      "type": "paragraph",
+      "text": "En su formulario 10-K de 2025, Meta declaró unos ingresos totales de 164.500 millones de dólares correspondientes a 2024, con una inmensa mayoría procedente de la publicidad. El segmento Family of Apps generó casi todos los ingresos, mientras que Reality Labs aportó una cantidad mucho menor y registró grandes pérdidas operativas vinculadas a inversiones a largo plazo en el metaverso y los dispositivos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas cifras explican la intensidad de los debates estratégicos sobre Meta. Las normas de privacidad, la segmentación publicitaria, la seguridad de las plataformas, los productos para creadores, las recomendaciones con IA y la competencia de TikTok, Apple, Google y otros afectan al motor económico central del grupo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meta no es simplemente una empresa de aplicaciones sociales. Es uno de los mayores negocios publicitarios del mundo."
+    },
+    {
+      "type": "heading",
+      "text": "La salida a bolsa de Facebook"
+    },
+    {
+      "type": "paragraph",
+      "text": "Facebook salió a bolsa en mayo de 2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "La operación convirtió a la compañía en un gigante bursátil y sometió a Zuckerberg a nuevas presiones. Las empresas cotizadas deben responder a la vez ante inversores, reguladores, empleados, anunciantes y usuarios."
+    },
+    {
+      "type": "paragraph",
+      "text": "La salida a bolsa también puso de relieve un elemento central de su poder: el control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meta tiene una estructura accionarial de dos clases. Las acciones de clase B de Zuckerberg otorgan más votos que las de clase A, lo que le permite mantener un control considerable sobre las decisiones aunque la empresa cotice en bolsa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta estructura ofrece flexibilidad estratégica a largo plazo. También plantea cuestiones de gobierno corporativo, porque los demás accionistas tienen menos influencia que en un sistema de una acción, un voto."
+    },
+    {
+      "type": "heading",
+      "text": "Instagram y WhatsApp"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos adquisiciones se convirtieron en pilares del imperio de Meta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Facebook acordó comprar Instagram en 2012 en una operación valorada inicialmente en unos 1.000 millones de dólares. Instagram era entonces una aplicación de fotos en rápido crecimiento, con un equipo pequeño y sin un modelo de negocio de una escala comparable al de Facebook."
+    },
+    {
+      "type": "paragraph",
+      "text": "La adquisición acabaría siendo una de las más importantes de la historia tecnológica. Instagram creció hasta convertirse en una plataforma social y publicitaria mundial, que influyó en la cultura de las celebridades, el marketing de influencers, la comunicación visual y la competencia por los vídeos cortos."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2014, Facebook completó la compra de WhatsApp. La operación se valoró al anunciarse en unos 19.000 millones de dólares en efectivo y acciones, lo que la situó entre las mayores adquisiciones de servicios de internet para consumidores."
+    },
+    {
+      "type": "paragraph",
+      "text": "WhatsApp aportó a Facebook un servicio de mensajería dominante, con una profunda implantación fuera de Estados Unidos, especialmente en Europa, América Latina, África y Asia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Juntas, Instagram y WhatsApp redujeron la dependencia de Meta respecto de la aplicación original de Facebook y reforzaron su papel en las comunicaciones mundiales."
+    },
+    {
+      "type": "heading",
+      "text": "Privacidad y Cambridge Analytica"
+    },
+    {
+      "type": "paragraph",
+      "text": "El ascenso de Facebook vino acompañado de polémicas recurrentes sobre la privacidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "La más conocida fue Cambridge Analytica. En 2018, varias investigaciones explicaron cómo datos de millones de usuarios de Facebook habían sido obtenidos mediante una aplicación de terceros y utilizados por esa consultora política."
+    },
+    {
+      "type": "paragraph",
+      "text": "El escándalo intensificó el escrutinio internacional de las prácticas de datos de Facebook, los permisos de la plataforma y la publicidad política."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2019, la Comisión Federal de Comercio anunció un acuerdo con Facebook que incluía una sanción de 5.000 millones de dólares por vulneraciones de la privacidad. La FTC la calificó de sanción récord e impuso nuevas obligaciones de supervisión de la protección de datos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Comisión de Bolsa y Valores de Estados Unidos también anunció en 2019 un acuerdo sobre la información de riesgos que Facebook había comunicado en relación con el uso indebido de datos de los usuarios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos casos no cerraron el debate. Pasaron a formar parte de una discusión más amplia sobre cuánto poder deben tener las grandes plataformas sobre los datos personales, la expresión pública y los sistemas de información democráticos."
+    },
+    {
+      "type": "heading",
+      "text": "Liderazgo y críticas públicas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estilo de liderazgo de Zuckerberg suele describirse como centrado en el producto, orientado a la ingeniería y con una perspectiva inusualmente larga."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus partidarios sostienen que ha adaptado Meta repetidamente a grandes cambios: del ordenador al móvil, del muro a las historias y los vídeos, de Facebook a Instagram, de las redes sociales a la mensajería y, ahora, a la IA y la realidad mixta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus críticos afirman que la empresa avanzó demasiado deprisa, trató la privacidad con excesiva ligereza, subestimó los daños y concentró demasiado poder en un solo fundador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ambas realidades pueden coexistir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zuckerberg construyó una empresa extraordinaria. También se convirtió en el rostro público de algunos de los problemas más difíciles de internet."
+    },
+    {
+      "type": "heading",
+      "text": "Facebook se convierte en Meta"
+    },
+    {
+      "type": "paragraph",
+      "text": "En octubre de 2021, Facebook cambió su nombre corporativo a Meta Platforms."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cambio expresaba la convicción de Zuckerberg de que la siguiente gran plataforma informática giraría en torno a espacios digitales inmersivos, realidad virtual, realidad aumentada y lo que la compañía llamaba el metaverso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las aplicaciones no desaparecieron. Facebook, Instagram, WhatsApp y Messenger siguieron siendo productos centrales. Cambió la identidad corporativa porque Zuckerberg quería que inversores, empleados y usuarios vieran al grupo como algo más que Facebook."
+    },
+    {
+      "type": "paragraph",
+      "text": "El momento era arriesgado. Meta ya afrontaba presión regulatoria, competencia y desconfianza pública. Un cambio de marca llamativo no borraba esos problemas, y muchos observadores se preguntaban si la visión del metaverso era demasiado cara y prematura."
+    },
+    {
+      "type": "heading",
+      "text": "Reality Labs y la apuesta por el metaverso"
+    },
+    {
+      "type": "paragraph",
+      "text": "Meta ha invertido decenas de miles de millones de dólares en Reality Labs, la división responsable de la realidad virtual, la realidad aumentada, los visores Quest, las gafas inteligentes y las plataformas relacionadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El gasto es real y está ampliamente detallado en los informes financieros de Meta. Reality Labs obtiene ingresos del hardware y el software, pero también acumula grandes pérdidas operativas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zuckerberg presenta esas pérdidas como una inversión a largo plazo en una futura plataforma informática. Los inversores suelen mostrarse más cautos, especialmente cuando se frena el crecimiento publicitario o empeoran las condiciones macroeconómicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado de la apuesta por el metaverso sigue abierto. Los productos de realidad virtual y mixta han mejorado, pero su adopción generalizada está todavía lejos de sustituir a los teléfonos inteligentes o las redes sociales tradicionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso, el futuro de Meta responde a dos ambiciones simultáneas: construir la próxima interfaz informática y defender y ampliar el negocio publicitario actual."
+    },
+    {
+      "type": "heading",
+      "text": "Meta AI, Llama y las gafas inteligentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "La estrategia de Meta giró con fuerza hacia la inteligencia artificial durante la década de 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "La compañía publicó los grandes modelos de lenguaje Llama e incorporó el desarrollo de modelos abiertos a su estrategia de IA. También integró la IA en recomendaciones, herramientas publicitarias, clasificación de contenidos, productos para creadores y asistentes para consumidores."
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA no es ajena al negocio de Meta. Mejores recomendaciones pueden influir en la participación de los usuarios. Mejores herramientas publicitarias pueden mejorar los resultados de los anunciantes. Los asistentes de IA podrían convertirse en una nueva interfaz para las búsquedas, la mensajería y el comercio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las gafas inteligentes son otra pieza importante. La colaboración de Meta con EssilorLuxottica para las Ray-Ban inteligentes mostró que los dispositivos llevables pueden resultar más prácticos si parecen gafas normales en lugar de visores voluminosos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pregunta a largo plazo es si Meta puede combinar IA, gafas y realidad aumentada en una plataforma de consumo que se utilice a diario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sigue siendo una hipótesis empresarial, no un resultado garantizado."
+    },
+    {
+      "type": "heading",
+      "text": "Cargo actual, patrimonio y control"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zuckerberg sigue siendo fundador, presidente del consejo y consejero delegado de Meta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su patrimonio suele calcularse a partir del valor de mercado de sus acciones de Meta y puede variar mucho con la cotización. Por tanto, cualquier cifra de riqueza debe entenderse como una estimación referida a una fecha concreta, no como un dato permanente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Más importante que la riqueza es el control. La estructura accionarial de Meta y la participación de Zuckerberg en acciones con más derechos de voto le otorgan una influencia excepcional sobre el rumbo de la empresa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese control ha permitido a Meta mantener apuestas a largo plazo que otras compañías tendrían dificultades para sostener, entre ellas Reality Labs y la infraestructura de IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "También implica que las preguntas sobre la rendición de cuentas suelen volver a una sola persona."
+    },
+    {
+      "type": "heading",
+      "text": "Filantropía y Chan Zuckerberg Initiative"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2015, Mark Zuckerberg y Priscilla Chan anunciaron la Chan Zuckerberg Initiative, conocida como CZI."
+    },
+    {
+      "type": "paragraph",
+      "text": "CZI trabaja en ámbitos como la ciencia, la educación y los programas comunitarios. No tiene la estructura de una fundación privada tradicional: está constituida como una limited liability company estadounidense, una sociedad de responsabilidad limitada que le ofrece flexibilidad para conceder ayudas, invertir y promover causas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La iniciativa ha apoyado la investigación biomédica, la tecnología educativa y otros proyectos a largo plazo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Como ocurre con su poder empresarial, la filantropía de Zuckerberg ha despertado elogios y escrutinio. Las grandes donaciones pueden financiar proyectos ambiciosos, pero también plantean preguntas sobre la influencia privada en las prioridades públicas."
+    },
+    {
+      "type": "heading",
+      "text": "Influencia en la tecnología, los medios y la comunicación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Meta cambió la forma de comunicarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Facebook normalizó las redes sociales con nombres reales. Instagram transformó la cultura visual. WhatsApp se convirtió en una infraestructura esencial de mensajería en muchos países. Los sistemas publicitarios de Meta ayudaron a pequeños negocios a encontrar clientes y a grandes marcas a dirigirse a públicos específicos a gran escala."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa misma influencia, sin embargo, abrió importantes debates sociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué ocurre cuando plataformas privadas gobiernan la conversación pública?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo deben combatir las sociedades la desinformación sin conceder a las empresas un poder ilimitado sobre la expresión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo debe protegerse la privacidad cuando las aplicaciones sociales se financian con publicidad?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuánto control debería tener una sola empresa sobre la identidad social, la mensajería, la distribución de información y las nuevas interfaces de IA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El legado de Zuckerberg se juzgará en parte por sus productos y resultados financieros, pero también por estas preguntas sin resolver."
+    },
+    {
+      "type": "heading",
+      "text": "Qué viene después para Meta"
+    },
+    {
+      "type": "paragraph",
+      "text": "La siguiente etapa de Meta probablemente estará marcada por tres frentes relacionados."
+    },
+    {
+      "type": "paragraph",
+      "text": "El primero es la publicidad. Meta debe mantener sólido su negocio mientras los cambios de privacidad, la regulación y la competencia transforman el marketing digital."
+    },
+    {
+      "type": "paragraph",
+      "text": "El segundo es la IA. Meta invierte intensamente en modelos, infraestructura y funciones de IA para sus aplicaciones. Quiere mejorar las recomendaciones, los anuncios, las herramientas de contenido y los asistentes para consumidores."
+    },
+    {
+      "type": "paragraph",
+      "text": "El tercero es el hardware. Reality Labs, los dispositivos Quest y las gafas inteligentes representan el esfuerzo de Zuckerberg por depender menos de plataformas controladas por otras empresas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ninguno de estos futuros está garantizado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meta podría conservar su dominio gracias a su enorme escala, sus recursos de ingeniería y su ecosistema de aplicaciones. También podría sufrir la presión de la regulación, el cansancio de los usuarios, competidores más jóvenes, la incertidumbre del hardware y la dificultad de convertir apuestas costosas en productos de uso masivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa tensión convierte a Zuckerberg en uno de los dirigentes empresariales más influyentes de la época contemporánea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Construyó una empresa que cambió la amistad, la publicidad, las noticias, la política, el entretenimiento y la vida privada."
+    },
+    {
+      "type": "paragraph",
+      "text": "La siguiente pregunta es si Meta podrá moldear el futuro con la misma fuerza con la que Facebook moldeó el pasado."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Meta, relaciones con inversores: informes anuales y documentación ante la SEC",
+      "url": "https://investor.atmeta.com/financials/sec-filings/default.aspx"
+    },
+    {
+      "label": "Meta: información corporativa",
+      "url": "https://about.meta.com/company-info/"
+    },
+    {
+      "label": "Noticias de Meta: acuerdo de Facebook para adquirir Instagram",
+      "url": "https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/"
+    },
+    {
+      "label": "Noticias de Meta: acuerdo de Facebook para adquirir WhatsApp",
+      "url": "https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/"
+    },
+    {
+      "label": "Noticias de Meta: la empresa Facebook pasa a llamarse Meta",
+      "url": "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/"
+    },
+    {
+      "label": "Comisión Federal de Comercio: sanción de 5.000 millones de dólares y nuevas restricciones de privacidad a Facebook",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook"
+    },
+    {
+      "label": "SEC de Estados Unidos: Facebook pagará 100 millones de dólares por engañar a los inversores sobre los riesgos del uso indebido de datos",
+      "url": "https://www.sec.gov/newsroom/press-releases/2019-140"
+    },
+    {
+      "label": "Meta AI: modelos Llama",
+      "url": "https://ai.meta.com/llama/"
+    },
+    {
+      "label": "Chan Zuckerberg Initiative: información sobre CZI",
+      "url": "https://chanzuckerberg.com/about/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quién es Mark Zuckerberg?",
+      "answer": "Mark Zuckerberg es el fundador, presidente del consejo y consejero delegado de Meta Platforms, la empresa matriz de Facebook, Instagram, WhatsApp y Messenger."
+    },
+    {
+      "question": "¿Cuándo lanzó Mark Zuckerberg Facebook?",
+      "answer": "Zuckerberg lanzó Thefacebook en Harvard en febrero de 2004 con otros estudiantes. Después, el servicio se extendió a otras universidades y finalmente al público general."
+    },
+    {
+      "question": "¿Cuándo se convirtió Facebook en Meta?",
+      "answer": "Facebook cambió su nombre corporativo a Meta Platforms en octubre de 2021 para reflejar su apuesta por las aplicaciones sociales, la realidad virtual, la realidad aumentada y las futuras plataformas informáticas."
+    },
+    {
+      "question": "¿Cómo gana dinero Meta?",
+      "answer": "Meta obtiene la mayor parte de sus ingresos de la publicidad en Family of Apps, donde se incluyen Facebook e Instagram. Reality Labs aporta muchos menos ingresos y requiere inversiones elevadas."
+    },
+    {
+      "question": "¿Cuánto costaron las adquisiciones de Instagram y WhatsApp?",
+      "answer": "Facebook acordó comprar Instagram en 2012 en una operación inicialmente valorada en unos 1.000 millones de dólares y anunció la adquisición de WhatsApp en 2014 por unos 19.000 millones de dólares."
+    },
+    {
+      "question": "¿Qué fue Cambridge Analytica?",
+      "answer": "Cambridge Analytica fue una consultora política implicada en una gran polémica de 2018 sobre datos de usuarios de Facebook obtenidos mediante una aplicación de terceros."
+    },
+    {
+      "question": "¿Cuál es la estrategia de inteligencia artificial de Meta?",
+      "answer": "Meta invierte en modelos como Llama, asistentes de IA, sistemas de recomendación, herramientas publicitarias y gafas inteligentes como parte de su estrategia para la próxima plataforma."
+    }
+  ]
+}
