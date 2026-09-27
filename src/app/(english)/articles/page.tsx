@@ -11,10 +11,10 @@ export const metadata: Metadata = createPageMetadata({
   path: "/articles/"
 });
 
-export default async function ArticlesPage({ searchParams }: { searchParams?: Promise<{ q?: string }> }) {
+export const revalidate = 3600;
+
+export default function ArticlesPage() {
   const articles = getPublishedArticles();
-  const resolvedSearchParams = await searchParams;
-  const initialQuery = typeof resolvedSearchParams?.q === "string" ? resolvedSearchParams.q : "";
 
   return (
     <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-8 sm:w-[min(1500px,calc(100%-32px))] sm:py-12">
@@ -36,7 +36,7 @@ export default async function ArticlesPage({ searchParams }: { searchParams?: Pr
           Browse PRESDA stories by category, search for topics, and sort the newsroom feed by date.
         </p>
       </header>
-      <ArticleBrowser articles={articles.map(toArticleListRecord)} categories={categories} initialQuery={initialQuery} />
+      <ArticleBrowser articles={articles.map(toArticleListRecord)} categories={categories} />
     </main>
   );
 }
