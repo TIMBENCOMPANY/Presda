@@ -34001,6 +34001,154 @@ export const articles: Article[] = [
           "No. Aksum was an ancient first-millennium kingdom. The later Ethiopian Empire developed through different dynasties and institutions, although it preserved Aksumite memories and Christian traditions."
       }
     ]
+  },
+  {
+    id: "141",
+    slug: "khmer-empire-civilization-built-angkor",
+    title: "THE KHMER EMPIRE: THE CIVILIZATION THAT BUILT ANGKOR",
+    seoTitle: "Khmer Empire History: The Civilization That Built Angkor",
+    metaDescription:
+      "Explore the Khmer Empire, Jayavarman II, Angkor Wat, Jayavarman VII, Khmer water engineering, regional wars, Angkor's decline and its living legacy.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "KHMER EMPIRE",
+      gold: "BUILT ANGKOR"
+    },
+    excerpt:
+      "From Jayavarman II and Angkor Wat to Jayavarman VII and the water system that sustained a vast urban landscape, the Khmer Empire shaped mainland Southeast Asia.",
+    category: "History",
+    date: "2026-09-29",
+    lastUpdated: "2026-09-29",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/khmer-empire-elephant-procession-angkor-sunset.png",
+    coverAlt:
+      "Editorial illustration of a Khmer ruler and elephant procession beside Angkor Wat at sunset",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "The Khmer Empire was the most powerful state in mainland Southeast Asia for much of the ninth through fifteenth centuries. Its heartland lay in modern Cambodia, around the great urban complex of Angkor, while its influence at different times reached parts of present-day Thailand, Laos and Vietnam. Khmer rulers built temples, roads, reservoirs and canals that joined political power to an intensely managed monsoon landscape. Angkor Wat became its most famous monument, but the civilization was far larger than one temple.",
+      "The empire did not appear fully formed, and Angkor did not vanish in a single mysterious collapse. Kings competed, religions changed, regional wars shifted the balance of power, trade routes moved toward river and coastal centers, and extreme droughts and floods tested the water network. People continued to live around Angkor after royal power moved elsewhere. The Khmer state changed; Khmer civilization survived.",
+      "## ORIGINS AND JAYAVARMAN II",
+      "Before Angkor, communities in the lower Mekong and Tonle Sap regions farmed rice, fished, traded and built smaller political centers. Earlier polities often grouped by historians under names such as Funan and Chenla connected the region to South China, India and maritime Southeast Asia. These labels come from limited inscriptions and external accounts, so they should not be treated as simple names for one continuous nation.",
+      "Khmer political unification is conventionally associated with Jayavarman II in the early ninth century. Later inscriptions describe his return from Java and a royal consecration in 802, often linked to the establishment of an independent Kambuja realm. The date and details are interpreted through much later records, but Jayavarman II clearly represents a process of consolidating authority among competing centers. His successors expanded the court's reach and created the foundations of the Angkorian state.",
+      "The idea of the devaraja, often translated as god-king, has also been simplified in popular writing. Khmer kings used Hindu and local ritual languages to present themselves as protectors of cosmic and political order. Scholars debate whether devaraja named one fixed cult, a consecration, or a broader set of royal practices. It should not be read as proof that every subject believed a king was literally a god. [UNESCO: Angkor](https://whc.unesco.org/en/list/668)",
+      "## ANGKOR BECOMES AN IMPERIAL CENTER",
+      "In the late ninth century, Yasovarman I established a capital at Yasodharapura, the urban landscape later called Angkor. Temples, embankments, reservoirs and roads extended beyond a compact walled town. Royal centers were rebuilt and renamed as rulers sought to anchor their own legitimacy in sacred mountains, ancestors and hydraulic works. Angkor was a sequence of capitals and neighborhoods, not a single unchanged city.",
+      "The empire's core was the Tonle Sap basin, a productive region where monsoon rain, lake fisheries and rice agriculture could support dense settlement. Beyond it, royal authority was uneven. Tribute, marriage, military campaigns and local alliances extended influence across mainland Southeast Asia, but modern maps that shade all of neighboring Thailand, Laos and Vietnam as permanently governed territory exaggerate what the evidence can show. PRESDA's [Kingdom of Kush history](/articles/kingdom-of-kush-nubia-black-pharaohs-history/) offers a useful comparison of how archaeological empires resist fixed modern borders.",
+      "## SURYAVARMAN II AND ANGKOR WAT",
+      "Suryavarman II, who ruled in the early twelfth century, commissioned Angkor Wat between about 1113 and 1150. The temple was a state monument and royal center, built on a vast scale with galleries, towers, moats and causeways. Its five central towers evoke Mount Meru, the cosmic mountain in Hindu traditions, while its orientation and funerary associations connected the king to Vishnu.",
+      "Angkor Wat was originally dedicated to Vishnu, not built as a Buddhist temple. Its bas-reliefs include scenes from the Mahabharata, Ramayana and Vishnu mythology alongside historical imagery associated with Suryavarman II. The sanctuary later became a Buddhist site, with images, inscriptions and practices added over centuries. That Buddhist history is not a replacement that erases the Hindu foundation; both phases are part of the monument's life. [APSARA National Authority: Angkor Wat](https://apsaraauthority.gov.kh/2021/06/14/angkor-wat/)",
+      "Khmer architecture joined engineering to theology. Sandstone blocks, laterite foundations, corbelled galleries, lintels and sculpted devatas required quarrying, transport and highly trained artisans. Reliefs show gods and epics, but they also record armies, court ceremony, markets, boats and ordinary work. Art is evidence of values and institutions, yet it was commissioned by elites and does not represent every social group equally.",
+      "## JAYAVARMAN VII, ANGKOR THOM AND THE BAYON",
+      "War with Champa transformed the late twelfth century. Cham forces captured Angkor in 1177, and Jayavarman VII later defeated them and became king around 1181. His reign produced Angkor Thom, a walled city with monumental gates, moats and the Bayon at its center. The Bayon's towers carry serene faces often associated with the Buddha, the king or a fusion of Buddhist and royal imagery. Their precise identity remains debated.",
+      "Jayavarman VII was a major patron of Mahayana Buddhism, but his state still used older Hindu symbols and local sacred traditions. He built or sponsored temples such as Ta Prohm and Preah Khan, roads, rest houses and hospitals described in inscriptions. The scale of these works expressed compassion and merit as well as royal authority. They also demanded labor, food and taxation, reminding us that religious patronage had material costs. [APSARA National Authority: Bayon](https://apsaraauthority.gov.kh/2021/08/05/bayon/)",
+      "## HINDUISM, BUDDHISM AND KHMER SOCIETY",
+      "Khmer religion was not a simple sequence in which Hinduism ended and Buddhism began. Shaivism, Vaishnavism, Mahayana Buddhism, Theravada Buddhism and local spirit and ancestor practices overlapped. Kings favored different traditions, sometimes altered earlier images and sometimes restored older sanctuaries. Villagers, monks, court officials, merchants and artisans encountered religion through temples, festivals, land grants and household rituals.",
+      "The temple economy linked land, labor and belief. Inscriptions record donations of rice fields, livestock, servants and precious objects to sanctuaries. Brahmins, Buddhist clergy and local authorities managed resources, while farmers and craft specialists sustained the system. Chinese visitor Zhou Daguan's account of Angkor in 1296 offers valuable observations about markets and customs, but it reflects one outsider's short visit and cannot describe the entire empire.",
+      "## WATER, AGRICULTURE AND EVERYDAY LIFE",
+      "Angkor's famous barays were enormous reservoirs, but the wider hydraulic system also included canals, ponds, moats, embankments, weirs and channels. These structures helped regulate floods, store and distribute water, support rice farming and connect neighborhoods. APSARA research emphasizes that the network was both an engineering system and part of the cultural landscape. [APSARA: ancient hydraulic network](https://apsaraauthority.gov.kh/2021/10/12/testing/)",
+      "The system was not a single machine controlled perfectly from a palace. It evolved over centuries, depended on local maintenance and responded to changing channels and settlement patterns. LiDAR and archaeological mapping show a low-density urban region of roads, ponds, fields and houses spread far beyond the monumental temples. Most buildings were made from perishable materials and disappeared, so stone monuments are an incomplete sample of urban life.",
+      "Rice, fish from the Tonle Sap, vegetables, fruit and livestock supported households. Craftspeople worked in stone, ceramics, metal, wood and textiles. Elephants served in transport, ceremony and warfare, while horses and boats also mattered. Bas-reliefs show processions, fighting, cooking, fishing and commerce, giving glimpses of daily work that royal inscriptions rarely record.",
+      "## WARFARE, CHAMPA AND REGIONAL RELATIONS",
+      "Khmer armies used infantry, archers, boats, fortifications and elephants. Royal reliefs present ordered processions and victorious kings, but they are propaganda as well as military evidence. Elephants could carry commanders and disrupt formations, yet they were part of combined forces rather than an unstoppable weapon.",
+      "Champa, a group of Austronesian-speaking polities along the coast of present-day central and southern Vietnam, was both trading partner and rival. Khmer and Cham rulers fought repeatedly, and alliances shifted with local politics. Jayavarman VII's victories followed the devastating Cham capture of Angkor, but later Khmer rulers faced pressure from western and eastern neighbors. Relations with Dai Viet, Java, China and Tai-speaking polities involved diplomacy and commerce as well as war.",
+      "Khmer influence therefore operated through different mechanisms. A temple or inscription might mark a royal claim, while tribute and marriage created a looser relationship. Coastal trade connected the Mekong region to South China and the Indian Ocean, gradually giving politically important river and maritime centers advantages that an inland capital could not always match.",
+      "## AFTER THE THIRTEENTH CENTURY AND THE 1431 ATTACK",
+      "From the thirteenth century, Theravada Buddhism became increasingly important in Cambodia. Its monastic networks and emphasis on merit differed from the older temple-centered royal systems, though change was gradual and Hindu imagery remained visible. Royal construction slowed in some areas, but this does not mean religious or artistic life stopped.",
+      "Ayutthaya, the powerful Tai kingdom to the west, attacked Angkor in 1431 according to later Cambodian and regional traditions. The attack was part of wider warfare and political competition, not a single event that emptied the city overnight. Royal institutions shifted toward Phnom Penh and other centers better placed for river and maritime commerce. Some Angkor temples continued as Buddhist shrines, and communities remained in the broader landscape.",
+      "## WHY ANGKOR DECLINED",
+      "Angkor's decline had several interacting causes. Repeated wars with Ayutthaya and other neighbors damaged political stability. New trade patterns favored ports and river routes, reducing the advantage of an inland capital organized around monumental redistribution. Religious change altered the relationship between kings, temples and land. Court rivalries and the cost of maintaining large infrastructure added pressure.",
+      "Environmental evidence adds another layer. Tree-ring and sediment studies identify severe droughts punctuated by intense monsoon rains in the fourteenth and fifteenth centuries. Such extremes could damage embankments, clog channels and make a tightly connected water system vulnerable. The hydraulic network did not simply fail in one year, and climate was not a lone explanation. Political change, warfare, labor shifts and environmental stress interacted over generations. [Oxford Academic: Angkor and monsoon extremes](https://academic.oup.com/book/11105/chapter-abstract/159541289)",
+      "Angkor was not simply lost. The forest grew around monuments, but people continued to visit, worship and maintain many sites. Khmer courts, monks, farmers and traders carried traditions forward in other centers. Archaeology now shows a living landscape rather than a deserted city discovered by outsiders.",
+      "## SURVIVAL AND LEGACY",
+      "Khmer civilization survived the movement of the royal court. Khmer language, Theravada Buddhist practice, court ritual, sculpture, dance and architectural forms continued through later Cambodian kingdoms. Angkor Wat remained a place of pilgrimage and became a national symbol during the formation of modern Cambodia. Its central towers appear on the Cambodian flag, linking present identity to a complex past rather than to a single imperial triumph. The continuity and transformation described in PRESDA's [Ethiopian Empire history](/articles/ethiopian-empire-700-years-kings-faith-resistance/) offers another comparison between ancient centers and later states.",
+      "UNESCO inscribed Angkor as a World Heritage Site in 1992. The protected area includes capitals and monuments from the ninth to the fifteenth centuries, as well as villages and living traditions. APSARA National Authority works with Cambodian communities and international partners to conserve temples, water systems and forests. Preservation must balance archaeology, religious use, tourism and the rights of people who live in the region. [UNESCO: Angkor World Heritage](https://whc.unesco.org/en/list/668)",
+      "The Khmer Empire's legacy is not a story of mysterious builders or a civilization that disappeared without trace. It is the history of Cambodian and regional communities who built an urban world through labor, belief, engineering, trade and political negotiation. Angkor's monuments are extraordinary, but the civilization also lives in the people, language and traditions that endured after the imperial center changed.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**Who founded the Khmer Empire?**",
+      "Jayavarman II is conventionally credited with establishing the foundations of the Angkorian Khmer Empire in the early ninth century. The exact 802 consecration date comes from later inscriptions, and unification was a process rather than one single event.",
+      "**Was Angkor Wat originally Buddhist?**",
+      "No. Suryavarman II built Angkor Wat as a Hindu state temple dedicated to Vishnu. It later became an important Buddhist sanctuary, and both histories remain visible in the monument.",
+      "**What was Angkor Thom?**",
+      "Angkor Thom was a walled capital founded by Jayavarman VII in the late twelfth century. The Bayon, with its famous face towers and bas-reliefs, stood at its center.",
+      "**Why did Angkor decline?**",
+      "Political change, warfare, shifting trade networks, religious transformation, maintenance pressures and severe drought and flood episodes all contributed. No single cause explains the long transition.",
+      "**Was Angkor abandoned after 1431?**",
+      "No. Royal power moved toward other centers, but people continued to live, worship and work around Angkor. Many monuments remained active Buddhist sites, and Khmer civilization continued beyond the imperial capital."
+    ],
+    quote:
+      "> Angkor was a living urban world where Khmer rulers joined temples, rice fields, reservoirs and regional trade into a changing civilization.",
+    references: [
+      {
+        name: "UNESCO: Angkor World Heritage Centre",
+        url: "https://whc.unesco.org/en/list/668"
+      },
+      {
+        name: "APSARA National Authority: Temples of Angkor",
+        url: "https://apsaraauthority.gov.kh/temples/"
+      },
+      {
+        name: "APSARA National Authority: Angkor Wat",
+        url: "https://apsaraauthority.gov.kh/2021/06/14/angkor-wat/"
+      },
+      {
+        name: "APSARA National Authority: Bayon",
+        url: "https://apsaraauthority.gov.kh/2021/08/05/bayon/"
+      },
+      {
+        name: "APSARA National Authority: Restoration of Angkor hydraulic network",
+        url: "https://apsaraauthority.gov.kh/2021/10/12/testing/"
+      },
+      {
+        name: "Oxford Academic: Angkor and monsoon extremes",
+        url: "https://academic.oup.com/book/11105/chapter-abstract/159541289"
+      },
+      {
+        name: "Paleoenvironmental history of the West Baray",
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3268295/"
+      }
+    ],
+    tags: [
+      "Khmer Empire",
+      "Angkor",
+      "Angkor Wat",
+      "Jayavarman II",
+      "Suryavarman II",
+      "Jayavarman VII",
+      "Angkor Thom",
+      "Bayon",
+      "Khmer architecture",
+      "Cambodia history",
+      "Champa",
+      "History"
+    ],
+    readingTime: "9 min read",
+    faq: [
+      {
+        question: "Who founded the Khmer Empire?",
+        answer:
+          "Jayavarman II is conventionally credited with establishing the foundations of the Angkorian Khmer Empire in the early ninth century, although unification was a process."
+      },
+      {
+        question: "Was Angkor Wat originally Buddhist?",
+        answer:
+          "No. Suryavarman II built Angkor Wat as a Hindu state temple dedicated to Vishnu. It later became an important Buddhist sanctuary."
+      },
+      {
+        question: "What was Angkor Thom?",
+        answer:
+          "Angkor Thom was a walled capital founded by Jayavarman VII in the late twelfth century, with the Bayon at its center."
+      },
+      {
+        question: "Why did Angkor decline?",
+        answer:
+          "Political change, warfare, shifting trade networks, religious transformation, maintenance pressures and severe drought and flood episodes all contributed."
+      },
+      {
+        question: "Was Angkor abandoned after 1431?",
+        answer:
+          "No. Royal power moved elsewhere, but people continued to live, worship and work around Angkor, and Khmer civilization continued beyond the imperial capital."
+      }
+    ]
   }
 ];
 
