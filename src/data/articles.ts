@@ -33400,6 +33400,156 @@ export const articles: Article[] = [
           "The Derg deposed Haile Selassie in 1974 and abolished the monarchy in 1975, ending the imperial political system. Military rule continued until 1991."
       }
     ]
+  },
+  {
+    id: "137",
+    slug: "ghana-empire-wagadu-kingdom-gold",
+    title: "THE GHANA EMPIRE: WAGADU, THE KINGDOM OF GOLD",
+    seoTitle: "Ghana Empire History: Wagadu, Soninke Kings and the Kingdom of Gold",
+    metaDescription:
+      "Discover the medieval Ghana Empire, or Wagadu, its Soninke rulers, gold and salt trade, Kumbi Saleh, Islam, the Almoravid debate and Mali's rise.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "GHANA EMPIRE",
+      gold: "KINGDOM OF GOLD"
+    },
+    excerpt:
+      "Known to its Soninke heirs as Wagadu and to Arabic writers as Ghana, this western Sahelian state grew powerful by taxing trade, protecting routes and negotiating between gold producers and Saharan merchants.",
+    category: "History",
+    date: "2026-09-28",
+    lastUpdated: "2026-09-28",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/ghana-empire-wagadu-gold.png",
+    coverAlt:
+      "Editorial illustration of a Soninke ruler receiving gold tribute in a Sahelian throne room",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "The medieval Ghana Empire was a Soninke-led state of the western Sahel, centered mainly in areas that are now southeastern Mauritania and western Mali. It was not the modern Republic of Ghana, which adopted the name in 1957 to honor an older African empire located hundreds of miles to the northwest. Known in Arabic sources as Ghana and in Soninke tradition as Wagadu, the empire became wealthy by taxing trans-Saharan exchange, especially the movement of gold and salt. Its exact origins, capital and collapse remain subjects of archaeological and historical debate.",
+      "Wagadu was not a kingdom that controlled every gold mine in West Africa. Gold was produced by communities and polities far to the south, including regions associated with Bambuk and the Senegal River valley. The rulers of Ghana grew powerful because they occupied a strategic zone between desert caravans and gold-producing lands. They protected routes, levied taxes and managed access to markets. The empire's wealth came from political control of exchange, not from owning all of the gold itself.",
+      "## WAGADU, SONINKE MEMORY AND THE NAME GHANA",
+      "The Soninke are a Mande-speaking people whose historical communities extended across the western Sahel. In Soninke oral traditions, Wagadu is an ancestral political homeland whose story includes successive capitals, royal lineages, drought and dispersal. The word Ghana appears in Arabic geographical writing as the title or designation associated with the ruler and his state. Scholars differ on the precise relationship between the Arabic term Ghana, the Soninke name Wagadu and other names preserved in local traditions. [Smithsonian Libraries: traditions of Wagadu](https://www.si.edu/object/siris_sil_755925)",
+      "Arabic writers did not use Ghana to mean the modern country. Their bilad al-Sudan, or lands of the people south of the Sahara, included many different societies. Medieval authors described Ghana from the perspective of North African and Saharan trade, often emphasizing gold, royal ceremony and the king's power. Their accounts are invaluable, but they were written by visitors or by scholars relying on commercial reports. They do not provide a complete internal history of the Soninke state.",
+      "The earliest secure references appear in Arabic sources from the eighth and ninth centuries, while archaeology points to earlier settlement and political development in the western Sahel. The empire probably grew gradually as communities around the Senegal and Niger corridors developed systems for agriculture, herding, ironworking, trade and defense. There was no single founding date that can be established with confidence.",
+      "## A SAHELIAN STATE AT THE EDGE OF THE DESERT",
+      "Ghana's core lay where the southern Sahara met the savanna. Rainfall was limited and variable, so communities combined farming, herding and long-distance commerce. The state benefited from its position near routes connecting salt mines and caravan centers in the Sahara with gold, kola, leather, grain and other products from the south. Camels made regular trans-Saharan travel possible, but caravans still depended on wells, guides, negotiated protection and local markets.",
+      "The king, often called the Ghana by Arabic authors, ruled through a court, provincial leaders and tributary relationships. He did not govern a modern nation with fixed borders. Authority was strongest near the royal center and along strategic routes, while more distant communities could provide tribute, troops or loyalty without being directly administered. The army protected the court, enforced political claims and helped secure the movement of merchants.",
+      "Royal wealth came from several sources. Merchants paid duties when goods entered or left the kingdom, and the court could tax production, market transactions and protected passages. Rulers also received tribute from subordinate communities and controlled access to gold markets. Medieval descriptions of the king's treasury should not be read as evidence that every goldfield belonged to Ghana. The state was a broker and taxing power within a larger regional economy.",
+      "## GOLD, SALT AND THE TRANS-SAHARAN ECONOMY",
+      "Gold and salt were complementary commodities. Gold moved north from savanna and forest margins toward Saharan and Mediterranean markets, while salt traveled south from desert mines. Merchants also carried copper, cloth, horses, dates and enslaved people. The trade connected West African producers to North Africa and, indirectly, to the wider Islamic world. [Metropolitan Museum of Art: the trans-Saharan gold trade](https://www.metmuseum.org/pt/essays/the-trans-saharan-gold-trade-7th-14th-century)",
+      "Ghana's rulers used taxation and political protection to turn geography into power. A caravan could cross the desert only if it had reliable water, security and places to exchange goods. The court's influence over these conditions made the royal center important even when gold itself was mined far away. The empire's strength therefore rested on institutions, military force and diplomacy as much as on natural resources.",
+      "The scale of trade changed over time. New routes, rival states, drought and shifting demand could strengthen one market and weaken another. The later Mali and Songhai empires inherited parts of the same commercial world, but they were different political formations. Comparing Wagadu with other African states, including the [Kingdom of Benin](/articles/kingdom-of-benin-west-african-power-history/), helps place its institutions within a broader history of African urbanism and statecraft.",
+      "## KUMBI SALEH AND THE QUESTION OF THE CAPITAL",
+      "Archaeologists have long associated the site of Kumbi Saleh, in southeastern Mauritania, with the Ghana Empire. Excavations revealed substantial stone and earthen architecture, neighborhoods, imported ceramics, craft activity and a mosque. The site clearly belonged to an important Sahelian urban and commercial network. It is often described as the capital of Ghana because its location fits some readings of Arabic accounts and its occupation dates overlap with the empire's prominence.",
+      "The identification is not settled, however. Medieval writers described a royal town and a separate Muslim settlement, and it is uncertain whether Kumbi Saleh was the royal capital described by al-Bakri or a major commercial city linked to a more mobile court. Some scholars place the empire's political core farther west or east, and others emphasize that a ruler's court could move between centers. Archaeology has not produced a palace inscription that resolves the question. [Oxford Research Encyclopedia: The Empire of Ghana](https://academic.oup.com/edited-volume/61663/chapter-abstract/553497129?login=false)",
+      "Treating Kumbi Saleh as a confirmed capital can make a complex political landscape look simpler than the evidence allows. It is safer to describe it as a leading archaeological candidate and distinguish excavation from later reconstruction.",
+      "## KINGS, MUSLIM MERCHANTS AND INDIGENOUS RELIGION",
+      "Al-Bakri's eleventh-century account describes a powerful king who held court with ceremony, guards, horses and officials. He says the royal town included a palace and sacred spaces, while Muslim merchants lived in a nearby settlement with mosques and legal specialists. The account suggests a political arrangement in which the court retained indigenous religious practices while allowing Muslim traders and scholars to worship, conduct contracts and advise on commerce.",
+      "This was not a simple story of a pagan state suddenly becoming Muslim. Islam had spread along trade routes and was present among merchants, diplomats and some officials. The ruling court could use Muslim literacy and connections to North Africa without abandoning older Soninke religious institutions. Religious life varied across the empire, and the evidence does not support a single policy imposed uniformly on every community. [Metropolitan Museum of Art: Sahel, Art and Empires on the Shores of the Sahara](https://www.metmuseum.org/es/exhibitions/sahel-art-empire-sahara/inside-the-exhibition)",
+      "Royal religion also shaped political legitimacy. Soninke oral traditions remember sacred places, ancestors and agreements between rulers and spiritual forces. Later versions of the Wagadu story include the serpent Bida, but the narrative exists in multiple forms and should not be treated as a verbatim chronicle of the medieval court. Oral tradition preserves historical memory while changing through performance, transmission and interpretation.",
+      "## WHAT AL-BAKRI AND OTHER SOURCES CAN TELL US",
+      "The geographer Abu Ubayd al-Bakri wrote in 1068 using reports from travelers and merchants who had visited the western Sudan. His description is the fullest medieval account of Ghana. He records a king with extensive authority, a royal settlement, a Muslim town, gold and taxation. Earlier writers such as al-Yaqubi and al-Masudi also referred to a powerful state south of the Sahara, while later authors described changes in the region's political balance.",
+      "These sources must be read critically. Arabic writers sometimes repeated older information or used broad geographic labels. Their descriptions of royal wealth are not inventories, and Ghana may refer to a ruler, city or wider country. Archaeology, linguistics and oral history must be compared with the texts.",
+      "## THE ALMORAVID CONQUEST DEBATE",
+      "A familiar narrative says that the Almoravids conquered Ghana in 1076, imposed Islam and caused the empire's collapse. That story became influential in older textbooks, but it is not settled history. The date comes from a problematic passage attributed to al-Zuhri, and no contemporary source clearly describes an Almoravid conquest of the Ghanaian state. [Cambridge University Press: The Conquest That Never Was, Part I](https://www.cambridge.org/core/journals/history-in-africa/article/abs/the-conquest-that-never-was-ghana-and-the-almoravids-1076-i-the-external-arabic-sources/4C43B158FD3D74BE744D8634781A4E0A)",
+      "The Almoravid movement did affect the western Sahara and the trade routes linked to Ghana. Warfare, religious reform, competition over towns and pressure on caravan networks may have changed the balance of power. Yet the surviving evidence does not justify saying that one invasion conquered the entire empire in a single year. Local oral traditions examined by David Conrad and Humphrey Fisher emphasize drought and political disintegration rather than a definitive Almoravid occupation. [Cambridge University Press: The Conquest That Never Was, Part II](https://www.cambridge.org/core/journals/history-in-africa/article/abs/the-conquest-that-never-was-ghana-and-the-almoravids-1076-ii-the-local-oral-sources/01C98BFDB91C78BFAC421A8F42C02407)",
+      "## DECLINE, FRAGMENTATION AND THE RISE OF MALI",
+      "Ghana's decline was likely a long process rather than a single collapse. Changes in rainfall, pressure on wells and pasture, competition from rival towns, shifts in caravan routes and internal political struggles could all weaken the state's ability to collect revenue. The movement of gold markets toward other corridors also reduced the value of controlling one northern gateway. The empire's authority fragmented across the western Sahel.",
+      "Sosso power became important in the region after Ghana's influence waned. The Sosso ruler Sumanguru Kante is remembered in the epic of Sunjata as a rival of the emerging Mali state. In the early thirteenth century, Sunjata Keita defeated Sosso forces at Kirina and built the Mali Empire. Mali did not simply appear in an empty political space. It inherited people, routes, institutions and commercial knowledge from older states, including Ghana, while establishing its own imperial center and dynastic traditions.",
+      "Later Arabic writers sometimes placed Ghana under Mali's authority, but that does not mean the old empire survived unchanged. By the fourteenth century, its ruler appears subordinate in a Mali-centered order. Soninke communities continued to trade and preserve historical traditions as the old court lost its preeminence.",
+      "## WAGADU'S LEGACY",
+      "Wagadu remains alive in Soninke oral tradition, family histories, songs and narratives of migration. These traditions connect present communities to an ancestral homeland and explain political change through drought, conflict, sacred obligations and the movement of peoples. They are not merely folklore added to an archaeological story. They are historical sources that preserve perspectives absent from medieval Arabic texts, even though they must be interpreted alongside archaeology and written evidence.",
+      "The name Ghana later acquired a new life. When the modern Republic of Ghana became independent in 1957, its leaders chose the name as a reference to African political achievement and anti-colonial dignity. The modern state is not the geographic continuation of the medieval empire, but the choice reflects how Wagadu became a symbol of African history around the world. PRESDA's [history of the Ethiopian Empire](/articles/ethiopian-empire-700-years-kings-faith-resistance/) follows another African imperial tradition whose modern legacy also exceeds a single national story.",
+      "The Ghana Empire was a real but partly unknowable Sahelian state. Its Soninke rulers made power from trade, taxation, military protection and religious negotiation. Gold mattered, but so did salt, water, labor, diplomacy and institutions. Kumbi Saleh is an archaeological window, not a complete answer. Its legacy belongs to written West African history and living Soninke memory.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**Was the Ghana Empire located in modern Ghana?**",
+      "No. The medieval Ghana Empire was centered mainly in parts of present-day southeastern Mauritania and western Mali. The modern Republic of Ghana adopted the name after independence in 1957 to honor the older empire.",
+      "**What were Wagadu and Ghana?**",
+      "Wagadu is the Soninke name for an ancestral kingdom remembered in oral traditions. Ghana is the name used by medieval Arabic writers for the ruler, state or region they encountered through trans-Saharan trade. Scholars debate the exact relationship between the terms.",
+      "**Did Ghana control all West African gold mines?**",
+      "No. Gold came from producing regions farther south, including areas associated with Bambuk and the Senegal River valley. Ghana became wealthy by protecting trade and taxing movement between gold producers and Saharan markets.",
+      "**Was Kumbi Saleh definitely the capital?**",
+      "Kumbi Saleh is a leading archaeological candidate for a major Ghanaian city, but its exact relationship to the royal capital described by medieval writers remains uncertain. The royal court may have moved between centers.",
+      "**Did the Almoravids conquer Ghana in 1076?**",
+      "That claim is disputed. The evidence does not clearly document a single Almoravid conquest of Ghana in 1076. Almoravid expansion and changing trade routes may have contributed to regional instability, but the empire's decline was probably more complex."
+    ],
+    quote:
+      "> Wagadu's wealth came from the political power to connect gold, salt, people and markets across the Sahel.",
+    references: [
+      {
+        name: "Oxford Research Encyclopedia: The Empire of Ghana",
+        url: "https://academic.oup.com/edited-volume/61663/chapter-abstract/553497129?login=false"
+      },
+      {
+        name: "Metropolitan Museum of Art: the trans-Saharan gold trade",
+        url: "https://www.metmuseum.org/pt/essays/the-trans-saharan-gold-trade-7th-14th-century"
+      },
+      {
+        name: "Metropolitan Museum of Art: Sahel, Art and Empires on the Shores of the Sahara",
+        url: "https://www.metmuseum.org/es/exhibitions/sahel-art-empire-sahara/inside-the-exhibition"
+      },
+      {
+        name: "Smithsonian Libraries: traditions of Wagadu",
+        url: "https://www.si.edu/object/siris_sil_755925"
+      },
+      {
+        name: "Cambridge University Press: archaeology and the origins of Ghana",
+        url: "https://www.cambridge.org/core/journals/journal-of-african-history/article/archaeology-and-the-prehistoric-origins-of-the-ghana-empire/703B6E93A35E4F4D46390E74EC6E8D5F"
+      },
+      {
+        name: "Cambridge University Press: The Conquest That Never Was, Part I",
+        url: "https://www.cambridge.org/core/journals/history-in-africa/article/abs/the-conquest-that-never-was-ghana-and-the-almoravids-1076-i-the-external-arabic-sources/4C43B158FD3D74BE744D8634781A4E0A"
+      },
+      {
+        name: "Cambridge University Press: The Conquest That Never Was, Part II",
+        url: "https://www.cambridge.org/core/journals/history-in-africa/article/abs/the-conquest-that-never-was-ghana-and-the-almoravids-1076-ii-the-local-oral-sources/01C98BFDB91C78BFAC421A8F42C02407"
+      },
+      {
+        name: "Cambridge University Press: Empires of the plains",
+        url: "https://www.cambridge.org/core/books/abs/history-of-subsaharan-africa/empires-of-the-plains/BD208E6F1E33814ACE22A246D4C51ECB"
+      }
+    ],
+    tags: [
+      "Ghana Empire history",
+      "Wagadu",
+      "Soninke history",
+      "Kumbi Saleh",
+      "medieval West Africa",
+      "trans-Saharan trade",
+      "gold and salt trade",
+      "Almoravid conquest Ghana",
+      "Mali Empire",
+      "Sahel history",
+      "African empires",
+      "History"
+    ],
+    readingTime: "10 min read",
+    faq: [
+      {
+        question: "Was the Ghana Empire located in modern Ghana?",
+        answer:
+          "No. The medieval Ghana Empire was centered mainly in parts of present-day southeastern Mauritania and western Mali. Modern Ghana adopted the name after independence in 1957 to honor the older empire."
+      },
+      {
+        question: "What were Wagadu and Ghana?",
+        answer:
+          "Wagadu is the Soninke name for an ancestral kingdom remembered in oral traditions. Ghana is the name used by medieval Arabic writers for the ruler, state or region they encountered through trans-Saharan trade."
+      },
+      {
+        question: "Did Ghana control all West African gold mines?",
+        answer:
+          "No. Gold came from producing regions farther south. Ghana became wealthy by protecting trade and taxing movement between gold producers and Saharan markets."
+      },
+      {
+        question: "Was Kumbi Saleh definitely the capital?",
+        answer:
+          "Kumbi Saleh is a leading archaeological candidate for a major Ghanaian city, but its exact relationship to the royal capital described by medieval writers remains uncertain."
+      },
+      {
+        question: "Did the Almoravids conquer Ghana in 1076?",
+        answer:
+          "That claim is disputed. The evidence does not clearly document a single Almoravid conquest of Ghana in 1076, and the empire's decline was probably shaped by several pressures."
+      }
+    ]
   }
 ];
 
