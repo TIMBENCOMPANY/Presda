@@ -34296,6 +34296,153 @@ export const articles: Article[] = [
           "Yes. The legal form of a kingdom was restored in 1920, but no king was enthroned. Regent Miklós Horthy governed until 1944, and the monarchy ended when Hungary became a republic in 1946."
       }
     ]
+  },
+  {
+    id: "143",
+    slug: "sikh-empire-ranjit-singh-kingdom-punjab",
+    title: "THE SIKH EMPIRE: RANJIT SINGH AND THE KINGDOM OF THE PUNJAB",
+    seoTitle: "Sikh Empire History: Ranjit Singh and the Kingdom of Punjab",
+    metaDescription:
+      "Explore the Sikh Empire from the Punjab misls and Ranjit Singh's Lahore to the Khalsa Army, Anglo-Sikh wars, annexation and Duleep Singh.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "SIKH EMPIRE",
+      gold: "KINGDOM OF THE PUNJAB"
+    },
+    excerpt:
+      "Ranjit Singh united Sikh misls into a diverse Punjabi kingdom whose Lahore court, Khalsa Army and frontier campaigns shaped the nineteenth-century Punjab.",
+    category: "History",
+    date: "2026-09-29",
+    lastUpdated: "2026-09-29",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/sikh-empire-golden-temple-maharaja-sunset.png",
+    coverAlt:
+      "Editorial illustration of Maharaja Ranjit Singh overlooking the Golden Temple at sunset",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "The Sikh Empire was a nineteenth-century kingdom centered in the Punjab, created through the political and military consolidation of Sikh misls under Maharaja Ranjit Singh. It was not the same thing as Sikhism, a religious tradition founded by the Sikh Gurus, and it was not identical to the modern Punjab regions of India and Pakistan. At its greatest reach, the empire connected Lahore, Amritsar, Multan, Kashmir and Peshawar through a diverse state whose subjects included Sikhs, Muslims, Hindus and other communities.",
+      "Ranjit Singh's kingdom emerged as Mughal authority weakened and Afghan rulers competed for influence in the northwest. It lasted from the capture of Lahore in 1799 and the Maharaja's consolidation of power through the annexation of Punjab by the British East India Company in 1849. Its story includes state building, taxation, trade, religious patronage and military modernization, as well as succession crises and two difficult wars with the Company.",
+      "## PUNJAB BEFORE THE EMPIRE",
+      "The Punjab, the land of five rivers, had long been a crossroads between the Indus, the Gangetic plain, Central Asia and Afghanistan. Mughal governors and local elites governed much of the region, while Afghan invasions led by Ahmad Shah Durrani and his successors repeatedly disrupted Lahore and surrounding districts in the eighteenth century. The Mughal emperor's authority did not disappear everywhere at once, but it became increasingly local and contested.",
+      "Sikh communities had developed through the teachings of the Gurus, the institutions of the gurdwara and the creation of the Khalsa by Guru Gobind Singh in 1699. Persecution and warfare shaped Sikh collective organization, but Sikh political power did not arise from one homogeneous army. After the decline of Mughal and Afghan control, Sikh chiefs organized into confederacies known as misls. Each misl had its own leaders, territories and armed followers, and they cooperated or competed according to circumstance.",
+      "The misls and other Punjabi powers collected revenue, protected routes and negotiated with Afghan officials, hill states and towns. Their political world was fluid. Later accounts sometimes describe the rise of Ranjit Singh as the inevitable unification of a nation, but his achievement depended on alliances, marriage, pressure, diplomacy and selective warfare within a competitive regional system.",
+      "## RANJIT SINGH TAKES LAHORE",
+      "Ranjit Singh, born in 1780 into the Sukerchakia misl, inherited leadership while still young. He expanded his position through alliances and campaigns, then entered Lahore in 1799 as Afghan power in the city weakened. Lahore became the political capital of the state he was building. In 1801, he was proclaimed Maharaja, a title that expressed sovereignty over a wider kingdom rather than leadership of Sikh religious life itself.",
+      "Amritsar remained the major Sikh religious center. Ranjit Singh respected the authority of Sikh institutions while also ruling a population in which Muslims and Hindus formed a large share. His court used Persian, Punjabi and other administrative languages, and appointments reflected political skill and loyalty rather than a simple religious quota. Muslim officials, Hindu Dogras, Sikh chiefs and European officers all served the state in different roles.",
+      "The new kingdom was often called Sarkar-i Khalsa, but it was a centralized monarchy with a court, revenue departments, governors and military commanders. Ranjit Singh balanced the autonomy of powerful nobles against the need to pay soldiers and administer conquered districts. The government relied on land revenue, customs, tribute, monopolies and the control of strategic towns and roads.",
+      "## EXPANSION TO MULTAN, KASHMIR AND PESHAWAR",
+      "Ranjit Singh first consolidated central Punjab, then expanded west and north. Multan was conquered in 1818 after repeated campaigns, giving the kingdom control of an important commercial and agricultural center. Kashmir came under Sikh rule in 1819 through campaigns led by commanders including Misr Diwan Chand and later administered through appointed governors. The conquest altered relations among Kashmiri Muslims, Hindus, Sikhs and local elites and brought new taxation and military obligations.",
+      "The empire also pushed toward the Indus and the Afghan frontier. Attock was taken in 1813, and Sikh forces fought Afghan rulers and local commanders around Peshawar and the Khyber approaches. Hari Singh Nalwa became one of the best-known frontier commanders, but the region was not permanently pacified by one victory. Peshawar's administration required alliances, garrisons and negotiations with Pashtun communities as well as force.",
+      "These campaigns gave the kingdom influence from the Sutlej to the northwest frontier and from the Himalayan foothills toward the Indus. They did not amount to control of all Afghanistan or all of the modern Punjab. Frontiers were zones of layered authority, and Ranjit Singh's reach varied by district and period. [Wiley: Sikh Empire overview](https://onlinelibrary.wiley.com/doi/10.1002/9781118455074.wbeoe314)",
+      "## THE KHALSA ARMY AND MILITARY REFORM",
+      "The Khalsa Army combined traditional Sikh cavalry and infantry with artillery, fortifications and disciplined regular units. Ranjit Singh recruited widely, including Muslims, Hindus, Sikhs and soldiers from different regional backgrounds. The army served the Maharaja's state rather than representing every Sikh or every Sikh institution. Its power rested on pay, logistics, commanders and the revenue system supporting them.",
+      "European officers helped train and organize parts of the regular army from the 1820s. Generals such as Jean-François Allard, Jean-Baptiste Ventura and Paolo Avitabile introduced methods influenced by European drill and Napoleonic warfare. Their role was important, but they did not create the army alone. Punjabi commanders, Sikh cavalry traditions, artillery specialists and local recruitment remained essential. Modernization was selective and adapted to the empire's frontier conditions.",
+      "The army's effectiveness deterred some rivals and made the British East India Company cautious. It also placed a heavy burden on the treasury. The Company and the Lahore court watched each other's expansion along the Sutlej, where smaller Sikh-ruled states sought protection or resisted incorporation.",
+      "## GOVERNMENT, RELIGION, ECONOMY AND CULTURE",
+      "Ranjit Singh's government was pragmatic rather than based on a modern doctrine of secular citizenship. The Maharaja patronized Sikh shrines, Hindu temples and Muslim mosques, and his administration included officials from different communities. That patronage did not eliminate inequality, local coercion or disputes over revenue. It did mean that the empire cannot accurately be portrayed as religiously homogeneous or as a state ruled only through Sikh religious law.",
+      "Lahore was the administrative and cultural capital. Amritsar was a pilgrimage center and a major market, while Multan, Peshawar and Kashmir connected the kingdom to wider routes. Land revenue was the main fiscal foundation, supplemented by customs, transit duties, mines, craft production and trade in textiles, horses, grain and other goods. Court workshops produced arms, jewelry, manuscripts, paintings and ceremonial objects.",
+      "Ranjit Singh became a major patron of the Harmandir Sahib, commonly called the Golden Temple, in Amritsar. He funded marble work, architectural repairs and the gilding of the upper structure with gold leaf. Muslim and Hindu artisans as well as Sikh craftsmen contributed to the shrine's decoration. His patronage strengthened the temple's public image, but the shrine's importance came from Sikh history and worship rather than from one ruler's gift. [Government of Punjab: Golden Temple](https://amritsar.nic.in/places-of-interest/)",
+      "The court also supported Hindu and Muslim sacred sites and artists. Paintings from the Lahore and Kangra worlds, illuminated manuscripts, metalwork and arms reveal a connected culture of Persianate, Punjabi, Sikh, Hindu and European influences. Ranjit Singh's own image was used by later national and religious narratives, yet the surviving material culture shows a court with many languages and artistic traditions.",
+      "## RELATIONS WITH THE BRITISH EAST INDIA COMPANY",
+      "The British East India Company had expanded across northern India while the Sikh state was consolidating in the west. Neither side wanted a costly war while rivals and frontier threats remained. The Treaty of Amritsar in 1809 fixed the Sutlej as a boundary for the Company's protected sphere and limited Ranjit Singh's expansion among the cis-Sutlej chiefs. It was a negotiated settlement, but it also marked the Company's growing influence and the limits placed on the Maharaja's southern ambitions.",
+      "Ranjit Singh and Company officials maintained an uneasy relationship. Diplomatic meetings and trade coexisted with military preparation. The two powers avoided direct conflict during his lifetime, partly because the Sikh army was formidable and partly because the Company had strategic reasons to preserve a stable northwest frontier. The arrangement changed quickly after the Maharaja's death in 1839.",
+      "## DEATH, SUCCESSION AND THE ANGLO-SIKH WARS",
+      "Ranjit Singh died in June 1839. His successors Kharak Singh, Nau Nihal Singh and Sher Singh faced court rivalry, factional conflict and assassination. The regency for the child Maharaja Duleep Singh became entangled with powerful nobles, the Dogra family, the army and the British resident. The Khalsa Army grew more politically assertive as the court struggled to pay and control it.",
+      "The First Anglo-Sikh War began in 1845 when Khalsa forces crossed the Sutlej. Battles at Mudki, Ferozeshah, Aliwal and Sobraon ended with a British victory in 1846. The Treaty of Lahore reduced Sikh territory and imposed a British resident at Lahore, while the young Duleep Singh remained Maharaja under a regency. Kashmir was transferred to Gulab Singh under a separate arrangement, a reminder that the postwar settlement divided authority rather than simply returning to Ranjit Singh's borders.",
+      "The Second Anglo-Sikh War began in 1848 after revolt and conflict at Multan spread through the Punjab. Sikh forces fought hard at Chillianwala and elsewhere, but the British-Indian army won at Gujrat in February 1849. The East India Company annexed the Punjab in March 1849, ending the Sikh Empire. The annexation followed military defeat, political intervention and the collapse of the Lahore state, not an automatic transfer of power after Ranjit Singh's death. [National Army Museum: Second Sikh War](https://www.nam.ac.uk/explore/second-sikh-war)",
+      "## DULEEP SINGH AND THE KOH-I-NOOR",
+      "Maharaja Duleep Singh was a child when the British annexed Punjab. He was deposed, removed from Lahore and placed under British supervision. The Treaty of Lahore required the surrender of state property, including the Koh-i-Noor diamond, which was transferred to Queen Victoria. The stone's earlier history included Mughal, Persian, Afghan and Sikh owners, but its passage to Britain occurred in the context of conquest and annexation, not a neutral commercial sale. [Wallace Collection: Sikh arms and annexation](https://www.wallacecollection.org/explore/explore-in-depth/the-sikh-empire/sikh-arms-armour/provenance/)",
+      "Duleep Singh was later raised in Britain and converted to Christianity before attempting to reconnect with Sikh and Indian political causes. His life illustrates how annexation affected a ruling family as well as institutions, soldiers and communities. The Koh-i-Noor became a symbol in continuing debates about colonial acquisition, sovereignty and restitution.",
+      "## LEGACY IN PUNJAB AND SIKH HISTORY",
+      "The Sikh Empire's legacy is shared across a Punjab divided by the 1947 partition between India and Pakistan. Lahore, Amritsar, Multan, Kashmir and Peshawar now belong to different political jurisdictions, and modern Punjab regions do not reproduce the empire's borders. Sikh communities worldwide remember Ranjit Singh as a ruler who protected Sikh institutions and built a powerful Punjabi state, while historians also examine taxation, conquest, social hierarchy and the experiences of Muslims, Hindus and other subjects.",
+      "The empire's military traditions influenced colonial recruitment and later Sikh political memory. Its architecture, paintings, arms and manuscripts survive in museums, gurdwaras and historic cities. Ranjit Singh's gilding of the Golden Temple remains an important chapter in the shrine's long history, not a claim that the empire and Sikhism were the same institution.",
+      "Like the [Kingdom of Hungary](/articles/kingdom-hungary-thousand-years-heart-europe/), the Sikh Empire shows how a state can be remembered across later borders and constitutional changes. Its history is best understood as a short-lived but consequential kingdom created by political consolidation in a diverse region. Sikhism is a living faith with a much longer history, and the modern Punjab is a different political geography.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**When was the Sikh Empire founded?**",
+      "Ranjit Singh captured Lahore in 1799 and was proclaimed Maharaja in 1801. These events mark the formation of the centralized Sikh kingdom, although its territories and institutions developed over time.",
+      "**Was the Sikh Empire religiously homogeneous?**",
+      "No. Sikhs formed the ruling core, but Muslims, Hindus and other communities lived throughout the kingdom and served in its administration, army, economy and court culture.",
+      "**What did the Treaty of Amritsar of 1809 do?**",
+      "It fixed the Sutlej as a boundary between the Company's protected sphere and Ranjit Singh's kingdom, limiting his expansion among cis-Sutlej chiefs while preserving his authority west of the river.",
+      "**How did the Sikh Empire end?**",
+      "After Ranjit Singh's death in 1839, succession struggles weakened the Lahore state. The First Anglo-Sikh War ended in 1846, the Second Anglo-Sikh War ended in 1849, and the East India Company annexed Punjab.",
+      "**What happened to Duleep Singh and the Koh-i-Noor?**",
+      "The child Maharaja Duleep Singh was deposed after annexation and placed under British supervision. The Koh-i-Noor was surrendered under the 1849 Treaty of Lahore and transferred to Queen Victoria."
+    ],
+    quote:
+      "> Ranjit Singh's Punjab was a diverse kingdom built through alliances, military reform, revenue and religious patronage in a contested frontier region.",
+    references: [
+      {
+        name: "Wiley: Sikh Empire overview",
+        url: "https://onlinelibrary.wiley.com/doi/10.1002/9781118455074.wbeoe314"
+      },
+      {
+        name: "British Museum: Sikh objects and the independent kingdom",
+        url: "https://www.britishmuseum.org/collection/term/x103722"
+      },
+      {
+        name: "Oxford Academic: Sikh history and Afghan power",
+        url: "https://academic.oup.com/book/25977/chapter-abstract/193795197"
+      },
+      {
+        name: "Government of Punjab: Golden Temple",
+        url: "https://amritsar.nic.in/places-of-interest/"
+      },
+      {
+        name: "National Army Museum: Second Sikh War",
+        url: "https://www.nam.ac.uk/explore/second-sikh-war"
+      },
+      {
+        name: "Wallace Collection: Sikh arms and annexation",
+        url: "https://www.wallacecollection.org/explore/explore-in-depth/the-sikh-empire/sikh-arms-armour/provenance/"
+      },
+      {
+        name: "Historic Royal Palaces: Duleep Singh",
+        url: "https://www.hrp.org.uk/tower-of-london/history-and-stories/duleep-singh/"
+      }
+    ],
+    tags: [
+      "Sikh Empire",
+      "Ranjit Singh",
+      "Kingdom of Punjab",
+      "Lahore",
+      "Amritsar",
+      "Khalsa Army",
+      "Maharaja Duleep Singh",
+      "Koh-i-Noor",
+      "Anglo-Sikh Wars",
+      "Punjab history",
+      "Sikh history",
+      "History"
+    ],
+    readingTime: "9 min read",
+    faq: [
+      {
+        question: "When was the Sikh Empire founded?",
+        answer:
+          "Ranjit Singh captured Lahore in 1799 and was proclaimed Maharaja in 1801. These events mark the formation of the centralized Sikh kingdom."
+      },
+      {
+        question: "Was the Sikh Empire religiously homogeneous?",
+        answer:
+          "No. Muslims, Hindus and other communities lived throughout the kingdom and served in its administration, army, economy and court culture."
+      },
+      {
+        question: "What did the Treaty of Amritsar of 1809 do?",
+        answer:
+          "It fixed the Sutlej as a boundary between the Company's protected sphere and Ranjit Singh's kingdom, limiting his southern expansion."
+      },
+      {
+        question: "How did the Sikh Empire end?",
+        answer:
+          "Succession struggles followed Ranjit Singh's death. The First Anglo-Sikh War ended in 1846, the Second in 1849, and the East India Company annexed Punjab."
+      },
+      {
+        question: "What happened to Duleep Singh and the Koh-i-Noor?",
+        answer:
+          "Duleep Singh was deposed after annexation and placed under British supervision. The Koh-i-Noor was surrendered under the 1849 Treaty of Lahore and transferred to Queen Victoria."
+      }
+    ]
   }
 ];
 
