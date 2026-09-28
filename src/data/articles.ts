@@ -33108,6 +33108,147 @@ export const articles: Article[] = [
           "Reserve board Mukhiddin Madaminov scored the decisive win against Ukraine and finished unbeaten with 5.5 points from seven games."
       }
     ]
+  },
+  {
+    id: "135",
+    slug: "portugal-kingdom-conquered-seas-lost-king-morocco",
+    title: "PORTUGAL: THE KINGDOM THAT CONQUERED THE SEAS AND LOST ITS KING IN MOROCCO",
+    seoTitle: "Portugal History: The Kingdom That Conquered the Seas and Lost Its King in Morocco",
+    metaDescription:
+      "From Afonso Henriques and Lisbon to Vasco da Gama, Brazil and Alcácer Quibir, trace Portugal's kingdom, empire, crisis and legacy.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "PORTUGAL",
+      gold: "LOST ITS KING IN MOROCCO"
+    },
+    excerpt:
+      "Portugal's history links a medieval kingdom, an oceanic empire and a succession crisis born on a Moroccan battlefield. Its maritime power changed the world, but its story was never only a story of conquest.",
+    category: "History",
+    date: "2026-09-28",
+    lastUpdated: "2026-09-28",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/portugal-kingdom-empire-history.png",
+    coverAlt:
+      "Editorial illustration of a Portuguese king on horseback before Lisbon, with royal banners, ships and the Jerónimos Monastery representing Portugal's history",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "On 4 August 1578, Portugal's King Sebastian I crossed into Morocco to support the deposed Saadi claimant Muhammad al-Mutawakkil against Sultan Abd al-Malik. At the Battle of Alcácer Quibir, also called the Battle of the Three Kings or Wadi al-Makhazin, the Moroccan army won a decisive victory. Sebastian, Abd al-Malik and al-Mutawakkil all died. Portugal lost its king without an heir, and a Moroccan campaign became a succession crisis that opened the way to Philip II of Spain and the Iberian Union in 1580.",
+      "That dramatic ending is also a useful beginning because it separates two histories often blended together. The Kingdom of Portugal was a European monarchy formed in the medieval Iberian Peninsula and lasting until the revolution of 1910. The Portuguese Empire was the overseas system later built by that kingdom: islands, colonies, fortified ports, trading factories, plantations and naval routes in Africa, Asia and the Americas. Portugal's maritime reach was real, but it was a network of unequal relationships rather than one continuous territory ruled from Lisbon.",
+      "## A KING WITHOUT AN HEIR AT A MOROCCAN BATTLE",
+      "Sebastian was twenty-four when he led the expedition. He believed that intervention in Morocco could restore a friendly ruler, strengthen Portugal's position in North Africa and revive a crusading ideal associated with the monarchy. Muhammad al-Mutawakkil, whom Portuguese sources often called Muley Mohammed, had been removed by his uncle Abd al-Malik. Abd al-Malik had Ottoman support and commanded a larger, well-prepared Moroccan force.",
+      "The battle took place near Ksar el-Kebir in the Loukkos basin. Portuguese forces and al-Mutawakkil's supporters were defeated after the Moroccan army attacked across difficult ground and disrupted the invaders' retreat. Abd al-Malik died during the fighting, probably from illness or exhaustion while directing his troops, but the exact circumstances remain debated. Al-Mutawakkil drowned while escaping. Sebastian's body was never securely identified, which helped create the later legend of his return, known as Sebastianism.",
+      "Sebastian's death left no child. His elderly great-uncle, Cardinal Henry, became king but could not produce an heir. Several claimants then asserted rights to the crown, including António, Prior of Crato, who attracted support among parts of the population. Philip II of Spain had the strongest dynastic claim through his mother, Isabella of Portugal, and used military force as well as political negotiation. In 1580 Philip became Philip I of Portugal, beginning the Iberian Union under the Habsburg monarchy.",
+      "## FROM COUNTY TO KINGDOM",
+      "Portugal began as the County of Portugal, a frontier lordship within the political world of León and Castile. Henry of Burgundy received the county after the Christian conquest of Coimbra in 1064, and his son Afonso Henriques gradually turned frontier authority into a royal project. The traditional date of the Battle of Ourique, 1139, became central to later national memory, but the evidence for its details is difficult and the battle should not be treated as a simple founding certificate.",
+      "Afonso Henriques used war, diplomacy and ecclesiastical politics to strengthen his independence. The Treaty of Zamora in 1143 is commonly associated with Alfonso VII of León and Castile recognizing his royal title, although the relationship remained complicated. Pope Alexander III formally recognized Portugal's kingship in 1179 through the bull Manifestis probatum. Recognition was therefore a process, not one instant when a modern nation suddenly appeared. [University of Lisbon repository: Lisbon and the affirmation of Portugal's capital](https://repositorio.ulisboa.pt/entities/publication/f3da1375-4344-4898-80c6-7c5c72205a00)",
+      "The new kingdom expanded south during the Christian Reconquista, a series of wars and settlements involving Christian rulers, Muslim polities and many local communities. In 1147, Afonso Henriques captured Santarém and Lisbon with the help of a northern European crusading fleet travelling toward the eastern Mediterranean. Lisbon's harbor, river access and agricultural hinterland made it the political and commercial center of the kingdom. The conquest was a military victory, but the city's transformation also depended on Muslim, Jewish and Christian residents who continued to shape its economy. The wider Iberian setting is explored in PRESDA's [history of al-Andalus](/articles/al-andalus-rise-glory-fall-muslim-iberia/).",
+      "The frontier moved toward the Algarve during the thirteenth century. Afonso III completed the conquest of the region in 1249, while later agreements with Castile and León helped settle competing claims. The Treaty of Alcañices in 1297 fixed much of Portugal's eastern border. By then the kingdom had a remarkably stable continental shape, even as its rulers continued to negotiate power with nobles, towns, bishops and neighboring monarchies. [Portuguese National Centre of Culture: the foundation of Portugal](https://www.cnc.pt/v-as-origens-da-nacionalidade-a-fundacao-de-portugal/)",
+      "## CEUTA AND THE ATLANTIC TURN",
+      "The kingdom's next expansion crossed the Strait of Gibraltar. In 1415, King João I and his sons led the conquest of Ceuta, a North African port. The Portuguese Maritime Museum describes Ceuta as the first major moment of Portuguese expansion, opening a route toward Atlantic exploration and new campaigns in Morocco. The conquest had religious, strategic and commercial motives, but it did not give Portugal control of the trans-Saharan trade it hoped to command. For context on the Moroccan dynasties Portugal confronted, see PRESDA's [history of Morocco](/articles/morocco-history-dynasties-kingdom-independence/). [Portuguese Maritime Museum: the conquest of Ceuta](https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/efemeride-tomada-de-ceuta-21ago20.aspx)",
+      "Prince Henry, later called Henry the Navigator, became the most famous patron of the voyages. He did not personally discover the coast of Africa or direct every expedition from a single school at Sagres. His importance lay in patronage, royal office, military interests in Morocco and support for pilots, shipbuilders, mapmakers and merchants. Portuguese mariners combined Atlantic experience, Mediterranean knowledge and information obtained from African and Iberian navigators.",
+      "Portuguese ships explored Madeira, the Azores and the West African coast during the fifteenth century. The crown claimed islands, organized settlement and developed sugar production, while forts and trading stations connected Portuguese merchants with African rulers and traders. These ventures brought wealth and knowledge, but they also carried conquest, forced labor and the early expansion of the Atlantic slave trade.",
+      "## DIAS, DA GAMA AND THE OCEANIC NETWORK",
+      "Bartolomeu Dias rounded the southern tip of Africa in 1488, demonstrating that the Atlantic and Indian Oceans were connected by a navigable route. The cape was first called the Cape of Storms and later renamed the Cape of Good Hope. In 1497-1499, Vasco da Gama sailed from Portugal around the cape to Calicut on India's Malabar Coast. His voyage did not discover an empty route: it entered an established Indian Ocean trading world linking East Africa, Arabia, India and Southeast Asia.",
+      "The Portuguese crown tried to turn that route into a controlled commercial system. Afonso de Albuquerque captured Goa in 1510, Malacca in 1511 and Hormuz in 1515, creating strategic bases at important maritime chokepoints. The Estado da Índia was less a solid territorial empire than a chain of forts, customs points, settlements, diplomatic arrangements and armed ships. Portuguese officials depended on Asian pilots, merchants and rulers even when they tried to impose monopolies by force.",
+      "The same pattern appeared in the Atlantic. Pedro Álvares Cabral's fleet reached the coast of Brazil in 1500, and the crown later organized captaincies, plantations and a central colonial government. Portuguese America grew around sugar, cattle, mining and coerced labor. In Africa, Cape Verde and São Tomé became important Atlantic islands, while Portuguese expansion reached the Kongo region and Angola. Luanda, founded in 1575, later became a major port in the Atlantic slave trade.",
+      "## EMPIRE, SLAVERY AND RESISTANCE",
+      "Portugal played a foundational role in the Atlantic slave trade. Portuguese merchants, royal officials and shipowners bought, seized and transported enslaved Africans to Portugal, Atlantic islands and Brazil, working through African political and commercial networks as well as through violence at the coast and inland. Sugar plantations in Madeira, São Tomé and Brazil made coerced labor central to imperial wealth. The history must include African agency and resistance, but that agency does not reduce Portuguese responsibility for organizing and profiting from the trade.",
+      "Cape Verde's Cidade Velha illustrates this history in one place. UNESCO describes it as a Portuguese port, a center of Atlantic exchange and a major slave market whose wealth depended on the forced movement of people. In Brazil, the scale of plantation slavery grew over centuries and made Portuguese America the largest destination for Africans transported to the Western Hemisphere. [Cambridge University Press: slavery in Brazil](https://www.cambridge.org/core/books/abs/slavery-in-brazil/establishment-of-african-slavery-in-the-sixteenth-and-seventeenth-centuries/8AC196980827E26802ABFF20936C13FC)",
+      "Portuguese control was never uncontested. African rulers, Kongo elites, Ndongo leaders and communities across the Atlantic negotiated, resisted and fought Portuguese demands. The political sophistication of West African states, including the [Kingdom of Benin](/articles/kingdom-of-benin-west-african-power-history/), shows why coastal forts did not translate into control of the interior. In Asia, established states and commercial networks limited Portuguese power. The empire's forts could dominate a harbor without controlling its hinterland.",
+      "## A MOROCCAN DISASTER AND THE IBERIAN UNION",
+      "Sebastian's 1578 invasion belonged to an older Portuguese ambition in Morocco, but it exposed the limits of a monarchy stretched across several theaters. Alcácer Quibir was a succession disaster that weakened the kingdom's political independence. Under the Iberian Union, Portugal kept its laws, institutions and empire in principle, but Dutch and English attacks damaged the Asian network while the crown's priorities were increasingly set in Madrid.",
+      "Portuguese elites revolted on 1 December 1640 and acclaimed João, Duke of Braganza, as João IV. The Restoration War against the Spanish Monarchy lasted until the Treaty of Lisbon in 1668, which recognized the independence of Portugal. Restoration did not recreate the sixteenth-century world. The Dutch had seized several Portuguese positions, Brazil had become more important, and the empire had to compete with larger maritime powers.",
+      "## FROM BRAZILIAN WEALTH TO THE END OF THE MONARCHY",
+      "The eighteenth century brought gold from Brazil, reforms associated with the Marquis of Pombal and the devastating Lisbon earthquake of 1755. Portugal's court moved to Rio de Janeiro in 1807-1808 after the French invasion, shifting the center of the Portuguese monarchy across the Atlantic. Brazil declared independence in 1822, forcing Portugal to rebuild its imperial strategy around Africa and smaller Asian possessions.",
+      "In the nineteenth century, Portugal claimed larger areas of Africa, including Angola and Mozambique, but claims on maps exceeded effective control for decades. African societies shaped the outcome through diplomacy, trade and armed resistance. The 1890 British Ultimatum, which forced Portugal to abandon its desired connection between Angola and Mozambique, became a powerful symbol of national humiliation and helped strengthen republican opposition. [Portuguese Parliament: the constitutional monarchy and the 1890 Ultimatum](https://www.parlamento.pt/Parlamento/paginas/monarquia.aspx)",
+      "On 5 October 1910, a revolution in Lisbon overthrew the monarchy and proclaimed the Portuguese Republic. King Manuel II went into exile, ending the Kingdom of Portugal as a regime. The First Republic introduced new political institutions but faced instability, military intervention and social conflict. The empire continued under the republic, reminding us that the end of the monarchy did not end Portuguese colonial rule. [Presidency Museum: the implantation of the Republic](https://www.museu.presidencia.pt/pt/conhecer/simbolos-nacionais/implantacao-da-republica/)",
+      "## THE LEGACY OF PORTUGAL'S KINGDOM AND EMPIRE",
+      "Portugal left a global linguistic and cultural legacy. Portuguese is spoken across Europe, South America, Africa and Asia, and Portuguese architecture, law, religion, foodways and music developed through encounters that crossed oceans. That legacy includes exchange and creativity, but it also includes conquest, enslavement, racial hierarchy and the destruction or transformation of local political systems.",
+      "The kingdom that reached the sea was not an inevitable national destiny, and the empire was not a peaceful web of discoveries. Portugal's history is better understood as the interaction of a small European monarchy with African, Asian and American societies that possessed their own states, economies and ambitions. Sebastian's death at Alcácer Quibir closed one royal chapter, but the consequences of Portugal's maritime expansion continue to shape the modern world.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**What happened at the Battle of Alcácer Quibir?**",
+      "On 4 August 1578, Portuguese forces led by King Sebastian I were defeated in Morocco while supporting the deposed Saadi ruler Muhammad al-Mutawakkil against Sultan Abd al-Malik. All three rulers died, and Portugal lost its king without an heir.",
+      "**Was Portugal's kingdom the same thing as its empire?**",
+      "No. The Kingdom of Portugal was the European monarchy. The Portuguese Empire was the overseas system of colonies, forts, islands, plantations and trading networks built under the monarchy and later governments.",
+      "**When did Portugal become an independent kingdom?**",
+      "Afonso Henriques asserted royal authority in the twelfth century. The Treaty of Zamora in 1143 and papal recognition through Manifestis probatum in 1179 were important stages in the longer process of Portugal's political recognition.",
+      "**How did Portugal's monarchy end?**",
+      "The revolution of 5 October 1910 overthrew King Manuel II and proclaimed the Portuguese Republic. The monarchy's decline followed political instability, economic pressures, the 1890 British Ultimatum and growing republican organization."
+    ],
+    quote:
+      "> Portugal's maritime empire was built by a kingdom, but its consequences were shaped by societies across four continents.",
+    references: [
+      {
+        name: "PARES: Battle of Alcácer Quibir, 4 August 1578",
+        url: "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/107410"
+      },
+      {
+        name: "University of Lisbon: Lisbon and the affirmation of Portugal's capital",
+        url: "https://repositorio.ulisboa.pt/entities/publication/f3da1375-4344-4898-80c6-7c5c72205a00"
+      },
+      {
+        name: "Portuguese Maritime Museum: the conquest of Ceuta",
+        url: "https://cultura.marinha.pt/pt/museumarinha_web/multimedia_web/Paginas/efemeride-tomada-de-ceuta-21ago20.aspx"
+      },
+      {
+        name: "Metropolitan Museum of Art: Portugal and the Indian Ocean, 1488-1640",
+        url: "https://www.metmuseum.org/exhibitions/listings/2013/interwoven-globe"
+      },
+      {
+        name: "UNESCO: Cidade Velha and the Atlantic slave trade",
+        url: "https://whc.unesco.org/document/152321"
+      },
+      {
+        name: "Cambridge University Press: The establishment of African slavery in Brazil",
+        url: "https://www.cambridge.org/core/books/abs/slavery-in-brazil/establishment-of-african-slavery-in-the-sixteenth-and-seventeenth-centuries/8AC196980827E26802ABFF20936C13FC"
+      },
+      {
+        name: "Portuguese Parliament: the constitutional monarchy",
+        url: "https://www.parlamento.pt/Parlamento/paginas/monarquia.aspx"
+      },
+      {
+        name: "Presidency Museum: the implantation of the Portuguese Republic",
+        url: "https://www.museu.presidencia.pt/pt/conhecer/simbolos-nacionais/implantacao-da-republica/"
+      }
+    ],
+    tags: [
+      "Portugal history",
+      "Kingdom of Portugal",
+      "Portuguese Empire",
+      "Battle of Alcácer Quibir",
+      "Battle of the Three Kings",
+      "Sebastian I",
+      "Afonso Henriques",
+      "Vasco da Gama",
+      "Portuguese maritime empire",
+      "Portuguese slave trade",
+      "Iberian Union",
+      "Portuguese Republic",
+      "History"
+    ],
+    readingTime: "10 min read",
+    faq: [
+      {
+        question: "Why did King Sebastian invade Morocco in 1578?",
+        answer:
+          "Sebastian intervened to support the deposed Saadi claimant Muhammad al-Mutawakkil, oppose Sultan Abd al-Malik and pursue a wider strategic and religious ambition in Morocco."
+      },
+      {
+        question: "Why is Alcácer Quibir called the Battle of the Three Kings?",
+        answer:
+          "The name refers to the deaths of Portugal's King Sebastian, the deposed Moroccan ruler Muhammad al-Mutawakkil and Sultan Abd al-Malik during the battle on 4 August 1578."
+      },
+      {
+        question: "When did the Iberian Union begin and end?",
+        answer:
+          "The Iberian Union began when Philip II of Spain became Philip I of Portugal in 1580 and ended with the Portuguese Restoration of 1640, recognized by Spain in 1668."
+      },
+      {
+        question: "When did the Kingdom of Portugal become a republic?",
+        answer:
+          "The revolution of 5 October 1910 ended the Portuguese monarchy and established the First Portuguese Republic."
+      }
+    ]
   }
 ];
 
