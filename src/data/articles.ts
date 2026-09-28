@@ -33697,6 +33697,160 @@ export const articles: Article[] = [
           "The modern country took its name from the Shona term associated with stone houses or settlements at Great Zimbabwe. The ruins became a symbol of African historical achievement and national sovereignty."
       }
     ]
+  },
+  {
+    id: "139",
+    slug: "kingdom-england-anglo-saxons-united-crown",
+    title: "THE KINGDOM OF ENGLAND: FROM ANGLO-SAXONS TO A UNITED CROWN",
+    seoTitle: "Kingdom of England History: From Anglo-Saxons to a United Crown",
+    metaDescription:
+      "Trace England from Anglo-Saxon kingdoms and Alfred the Great to Æthelstan, 1066, the Tudors, Civil War, Glorious Revolution and the Union of 1707.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "KINGDOM OF ENGLAND",
+      gold: "UNITED CROWN"
+    },
+    excerpt:
+      "England emerged through centuries of Anglo-Saxon consolidation, Viking settlement, Norman conquest, dynastic conflict and constitutional change before joining Scotland in Great Britain in 1707.",
+    category: "History",
+    date: "2026-09-28",
+    lastUpdated: "2026-09-28",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/kingdom-england-king-river-fortress.png",
+    coverAlt:
+      "Editorial illustration of an English king above a river fortress with medieval ships and banners",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "The Kingdom of England formed gradually from Anglo-Saxon kingdoms and later changed through Viking settlement, Norman conquest, parliamentary conflict and dynastic union. Æthelstan's victories in the 920s and 930s gave him the first durable claim over all England, but the kingdom continued to evolve. England was separate until the Acts of Union took effect in 1707, when it became part of Great Britain. Great Britain was not the later British Empire, an overseas imperial system built under a different political structure.",
+      "The Kingdom of England covered England and, after the late medieval conquest, Wales under the English Crown. The Kingdom of Great Britain united England and Scotland in one state from 1707. The British Empire later connected that state to colonies, dominions and overseas possessions. These are related histories, but not interchangeable names for one country.",
+      "## POST-ROMAN BRITAIN AND THE ANGLO-SAXON KINGDOMS",
+      "After Roman administration withdrew from Britain in the early fifth century, power became regional. Brittonic kingdoms survived in parts of the island while migrants and settlers from northern Europe, including Angles, Saxons and Jutes, established communities in the east and south. Over generations these societies formed kingdoms commonly associated with Kent, Sussex, Essex, East Anglia, Mercia, Northumbria and Wessex. The label Anglo-Saxon describes a changing political and cultural world, not one unified nation that existed from the beginning.",
+      "Northumbria became a major center of Christian learning and manuscript production. Mercia dominated much of the midlands and built a powerful royal tradition, while Wessex expanded from the southwest. Christianity returned through missions linked to Rome and Irish monastic networks, beginning with Augustine's mission to Kent in 597 and spreading unevenly through competing kingdoms. Religion, dynastic marriage, tribute and warfare connected the kingdoms even when no single king ruled them all. [The Royal Family: the Anglo-Saxon kings](https://www.royal.uk/anglo-saxon-kings)",
+      "A single England was therefore an outcome of political consolidation. Kings claimed overlordship over neighbors, while charters, coinage, church networks and fortified towns created tools for wider rule.",
+      "## VIKING INVASIONS, THE DANELAW AND ALFRED THE GREAT",
+      "Viking raids began at monasteries such as Lindisfarne in 793, then developed into armies seeking land and tribute. The Great Heathen Army entered in 865 and conquered or subordinated Northumbria, East Anglia and much of Mercia. Scandinavian settlement changed place names, law and society. The Danish-influenced region became known as the Danelaw, a negotiated zone rather than a fixed frontier.",
+      "Wessex was the kingdom that resisted most successfully. Alfred, who became king in 871, defeated the Danish leader Guthrum at Edington in 878. The resulting settlement divided influence between Alfred's Wessex and Danish-held territories, while Guthrum accepted baptism. Alfred reorganized military service, built fortified burhs and supported learning and law. His reign did not create England by itself, but it preserved a West Saxon base from which his successors could expand. [English Heritage: the history of Vikings in England](https://www.english-heritage.org.uk/visit/inspire-me/the-history-of-Vikings-in-england/)",
+      "Alfred's children and grandchildren continued the reconquest of Danish-held areas. Edward the Elder captured towns and alliances in the midlands, while Æthelflæd, Lady of the Mercians, led military and political expansion from Mercia. These campaigns brought different communities into a shared system of forts, taxation and royal authority.",
+      "## ÆTHELSTAN AND THE EMERGENCE OF ENGLAND",
+      "Æthelstan, grandson of Alfred, became king in 924 and was crowned at Kingston in 925. In 927 he took control of York after the death of its Scandinavian ruler and secured the submission of other northern kings. His victory at Brunanburh in 937 against an alliance involving Scotland, Strathclyde and Dublin strengthened his claim to be king of the English. He used law codes, regulated coinage, church patronage and marriage alliances to make authority visible across the kingdom. [The Royal Family: Æthelstan](https://www.royal.uk/athelstan-r924-939)",
+      "Æthelstan was not the sole inventor of England. Wessex, Mercia, Alfred's reforms, Viking settlement and earlier claims all mattered. His importance is that he made union work across most of the later English territory and adopted the title king of the English. His reign marks the clearest early emergence of the kingdom.",
+      "## DANISH RULE, EDWARD THE CONFESSOR AND 1066",
+      "The tenth and early eleventh centuries brought renewed Danish intervention. Sweyn Forkbeard conquered England in 1013, and his son Cnut became king after defeating Edmund Ironside in 1016. Cnut ruled England, Denmark and Norway in a personal North Sea monarchy, patronizing the church while maintaining English administration.",
+      "After Cnut's sons died, Edward the Confessor became king in 1042. Edward's reign strengthened connections with Normandy and left a disputed succession. When Edward died childless in January 1066, Harold Godwinson, the most powerful English earl, was chosen by the English political elite. William, duke of Normandy, claimed that Edward had promised him the throne, while Harald Hardrada of Norway and Harold's brother Tostig also challenged the succession.",
+      "Harold defeated Harald Hardrada at Stamford Bridge in September 1066, but William landed on the south coast while the English army was exhausted. On 14 October, the Battle of Hastings ended in Harold's death and William's victory. The succession crisis was not a simple invasion of a fully modern nation. It was a struggle among rulers who used claims, oaths, military force and church approval to compete for the English crown.",
+      "## NORMAN ENGLAND, DOMESDAY AND CASTLES",
+      "William was crowned on Christmas Day 1066, but conquest continued for years. Norman armies built castles, seized estates and suppressed revolts, including the Harrying of the North. A new aristocracy received land, while administration was reorganized under a king who also ruled Normandy. French and Latin dominated elite administration, but English survived and changed through contact.",
+      "The Domesday survey of 1086 recorded landholders, resources, livestock, mills and obligations across much of England. It was not a complete census, but it gave the crown an extraordinary instrument for taxation and control. Early Norman castles were often earth and timber motte-and-bailey structures; stone keeps and walls became more common later. Castles were military bases and visible statements that royal power had been transferred. [Historic England: Norman military sites](https://historicengland.org.uk/images-books/publications/dssg-pre1500-military/heag250-pre-1500-military-sites-ssg/)",
+      "The Norman monarchy developed into the Angevin and Plantagenet realms. Henry II strengthened royal administration and common law, while Richard I and John faced wars, finance and disputes with nobles. England also fought in Wales and Scotland.",
+      "## MAGNA CARTA, WALES AND SCOTLAND",
+      "King John's military failures and financial demands led rebellious barons to force him to seal Magna Carta at Runnymede on 15 June 1215. Annulled by the pope and revised after John's death, later versions became statements about lawful government, property and limits on arbitrary rule. Magna Carta did not establish modern democracy, but its language shaped later constitutional arguments. [British Library: Magna Carta](https://searcharchives.bl.uk/catalog/040-001102110)",
+      "Edward I conquered Wales through campaigns and the Statute of Rhuddlan in 1284, followed by administrative integration and English settlement in parts of the territory. His wars with Scotland were less successful. Scottish resistance led by figures including William Wallace and Robert the Bruce prevented a permanent English conquest. England and Scotland remained separate kingdoms, even when one tried to impose overlordship on the other.",
+      "The Hundred Years' War with France began in 1337 over the French crown and continental interests. English victories at Crécy, Poitiers and Agincourt brought temporary gains, but France recovered most English possessions. War strengthened taxation and Parliament's role in approving money.",
+      "## BLACK DEATH AND THE WARS OF THE ROSES",
+      "The Black Death reached England in 1348 and killed a large share of the population. Labor shortages disrupted manorial relationships and raised wages for some workers, while the Ordinance and Statute of Labourers tried to restrict movement and pay. The plague accelerated changes in landholding, work, villages and religious practice.",
+      "The later fifteenth century saw dynastic conflict between branches descended from Edward III. The Wars of the Roses were not one continuous civil war and did not involve every region equally. Edward IV, Richard III and Henry Tudor claimed legitimacy through bloodline, conquest or settlement. Henry Tudor's victory at Bosworth in 1485 began the Tudor dynasty.",
+      "## TUDORS, REFORMATION AND MARITIME POWER",
+      "Henry VII restored finances and used marriage, diplomacy and law to stabilize the crown. Henry VIII expanded royal authority but broke with papal jurisdiction after disputes over his marriage. The English Reformation dissolved monasteries, transferred church property and created the Church of England under royal supremacy. Religious change remained contested, bringing persecution under different monarchs and deep divisions between Catholics and Protestants.",
+      "Elizabeth I's reign combined religious settlement, court politics and war with Spain. The defeat of the Spanish Armada in 1588 became a national memory, but it was one episode in a larger conflict involving privateering, Ireland, commerce and diplomacy. England's maritime reach grew through exploration and trading ventures, yet the later British Empire did not exist as a single system.",
+      "## JAMES VI AND I, CIVIL WAR AND RESTORATION",
+      "When Elizabeth died childless in 1603, James VI of Scotland became James I of England. The Union of the Crowns created one monarch for two independent kingdoms, each retaining its parliament, laws, church arrangements and international identity. James promoted Great Britain, but his desired political union was not achieved. [UK Parliament: the Union of the Crowns](https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/union-of-the-crowns/)",
+      "Conflict between Charles I and Parliament over taxation, religion and royal authority led to the English Civil Wars from 1642. Parliament's forces defeated the king, and Charles I was tried and executed in January 1649. England became a Commonwealth and then a Protectorate under Oliver Cromwell. The experiment combined republican institutions with military power and did not resolve tensions involving Scotland, Ireland, religion and the constitution. [UK Parliament: the Civil War](https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/)",
+      "The monarchy was restored in 1660 when Charles II returned. James II, a Catholic, succeeded in 1685, and opposition grew when he appeared to challenge the Protestant and constitutional settlement. In the Glorious Revolution of 1688, William of Orange and Mary accepted the crown after James fled. The 1689 Bill of Rights strengthened Parliament, although political power remained restricted.",
+      "Queen Anne succeeded William III and Mary II in 1702. Her reign saw the War of the Spanish Succession and the final negotiations for union with Scotland. England and Scotland had shared a monarch since 1603, but they were still separate kingdoms with separate parliaments.",
+      "## 1707 AND THE END OF THE KINGDOM OF ENGLAND",
+      "The Acts of Union passed by the English and Scottish parliaments took effect on 1 May 1707. They united the two kingdoms into one state called the Kingdom of Great Britain, with one Parliament at Westminster. The separate Kingdom of England therefore ended as a legal state in 1707, even though English law, the Church of England and many institutions continued within the new kingdom. Wales was already incorporated into the English legal and parliamentary system. [UK Parliament: the Articles of Union](https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/the-articles-constitution-and-trade/)",
+      "Great Britain was not yet the United Kingdom of Great Britain and Ireland, which followed the 1801 union with Ireland. It was also not identical to the British Empire. The empire grew through later colonial expansion, trade, settlement and conquest under the British state. England's medieval and early modern kingdom provided institutions and resources that contributed to this expansion, but the terms describe different political formations.",
+      "## LEGACY",
+      "The Kingdom of England left a language, legal tradition, church establishment, parliamentary history and national mythology that continued after 1707. Its borders and institutions were made through conquest and negotiation with Wales, Scotland, Ireland and communities within England. The story includes constitutional change and cultural creativity alongside coercion, inequality and war.",
+      "England did not emerge in one moment. Anglo-Saxon kingdoms, Viking settlement, Wessex state-building, Æthelstan, Norman conquest, Plantagenet administration, Tudor religious change and Stuart crises each reshaped it. Comparing this sequence with PRESDA's [Ghana Empire history](/articles/ghana-empire-wagadu-kingdom-gold/) and [Ethiopian Empire history](/articles/ethiopian-empire-700-years-kings-faith-resistance/) keeps the story within wider state formation and prevents the later British Empire being projected backward.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**When did the Kingdom of England begin?**",
+      "England emerged gradually from several Anglo-Saxon kingdoms. Æthelstan's victories in the 920s and 930s gave him the strongest early claim to rule all England, although the kingdom's institutions continued to develop afterward.",
+      "**What was the Danelaw?**",
+      "The Danelaw was a region of northern and eastern England where Danish political influence, settlement and law were especially strong after the Viking conquests. It was a negotiated cultural and political zone rather than a perfectly fixed border.",
+      "**Did the Union of the Crowns unite England and Scotland?**",
+      "No. In 1603 James VI of Scotland became James I of England, creating one monarch for two separate kingdoms. England and Scotland remained separate states until the Acts of Union took effect in 1707.",
+      "**What happened to the Kingdom of England in 1707?**",
+      "The Acts of Union united England and Scotland into the Kingdom of Great Britain on 1 May 1707. The separate Kingdom of England ended as a legal state, although many English institutions continued within Great Britain.",
+      "**Is the Kingdom of England the same as the British Empire?**",
+      "No. England was a European kingdom that ended as a separate state in 1707. Great Britain was the state created by the 1707 union, while the British Empire was a later overseas imperial system connected to Britain."
+    ],
+    quote:
+      "> England was made through centuries of regional kingdoms, conquest, negotiation and constitutional change before it became part of Great Britain.",
+    references: [
+      {
+        name: "The Royal Family: the Anglo-Saxon kings",
+        url: "https://www.royal.uk/anglo-saxon-kings"
+      },
+      {
+        name: "English Heritage: the history of Vikings in England",
+        url: "https://www.english-heritage.org.uk/visit/inspire-me/the-history-of-Vikings-in-england/"
+      },
+      {
+        name: "The Royal Family: Æthelstan",
+        url: "https://www.royal.uk/athelstan-r924-939"
+      },
+      {
+        name: "Historic England: pre-1500 military sites and castles",
+        url: "https://historicengland.org.uk/images-books/publications/dssg-pre1500-military/heag250-pre-1500-military-sites-ssg/"
+      },
+      {
+        name: "British Library: Magna Carta archive record",
+        url: "https://searcharchives.bl.uk/catalog/040-001102110"
+      },
+      {
+        name: "UK Parliament: the Civil War",
+        url: "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/"
+      },
+      {
+        name: "UK Parliament: Union of the Crowns",
+        url: "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/union-of-the-crowns/"
+      },
+      {
+        name: "UK Parliament: the Articles of Union",
+        url: "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/the-articles-constitution-and-trade/"
+      }
+    ],
+    tags: [
+      "Kingdom of England history",
+      "Anglo-Saxon England",
+      "Æthelstan",
+      "Alfred the Great",
+      "Danelaw",
+      "Norman Conquest",
+      "Magna Carta",
+      "Plantagenets",
+      "Tudor England",
+      "English Reformation",
+      "English Civil War",
+      "Glorious Revolution",
+      "Acts of Union 1707",
+      "Great Britain",
+      "History"
+    ],
+    readingTime: "11 min read",
+    faq: [
+      {
+        question: "When did the Kingdom of England begin?",
+        answer:
+          "England emerged gradually from several Anglo-Saxon kingdoms. Æthelstan's victories in the 920s and 930s gave him the strongest early claim to rule all England, although the kingdom's institutions continued to develop afterward."
+      },
+      {
+        question: "Did the Union of the Crowns unite England and Scotland?",
+        answer:
+          "No. In 1603 James VI of Scotland became James I of England, creating one monarch for two separate kingdoms. England and Scotland remained separate states until the Acts of Union took effect in 1707."
+      },
+      {
+        question: "What happened to the Kingdom of England in 1707?",
+        answer:
+          "The Acts of Union united England and Scotland into the Kingdom of Great Britain on 1 May 1707. The separate Kingdom of England ended as a legal state, although many English institutions continued within Great Britain."
+      },
+      {
+        question: "Is the Kingdom of England the same as the British Empire?",
+        answer:
+          "No. England was a European kingdom that ended as a separate state in 1707. Great Britain was the state created by the 1707 union, while the British Empire was a later overseas imperial system connected to Britain."
+      }
+    ]
   }
 ];
 
