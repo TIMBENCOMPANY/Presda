@@ -34443,6 +34443,157 @@ export const articles: Article[] = [
           "Duleep Singh was deposed after annexation and placed under British supervision. The Koh-i-Noor was surrendered under the 1849 Treaty of Lahore and transferred to Queen Victoria."
       }
     ]
+  },
+  {
+    id: "144",
+    slug: "majapahit-empire-java-maritime-power",
+    title: "THE MAJAPAHIT EMPIRE: JAVA’S GREAT MARITIME POWER",
+    seoTitle: "Majapahit Empire History: Java's Great Maritime Power",
+    metaDescription:
+      "Trace Majapahit from Raden Wijaya's 1293 foundation to Trowulan, Gajah Mada, Hayam Wuruk, maritime networks, decline and legacy.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "MAJAPAHIT EMPIRE",
+      gold: "JAVA’S GREAT MARITIME POWER"
+    },
+    excerpt:
+      "From Raden Wijaya’s 1293 foundation to Hayam Wuruk and Trowulan, Majapahit connected Java to Southeast Asian trade through a web of varied political relationships.",
+    category: "History",
+    date: "2026-09-29",
+    lastUpdated: "2026-09-29",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/majapahit-king-sunrise-harbor.png",
+    coverAlt:
+      "Editorial illustration of a Majapahit king overlooking a sunrise harbor with ships and East Javanese temple gates",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "The Majapahit Empire was a Javanese kingdom founded in 1293 in eastern Java. It became one of the most influential courts in maritime Southeast Asia, especially during the fourteenth century, when its rulers projected authority through a mixture of direct administration, alliances, tribute, diplomacy and commercial connections. Majapahit was not an ancient version of the modern Republic of Indonesia. Its core lay in East Java, while the islands and coasts named in court texts had different political relationships with the center.",
+      "Majapahit’s history is reconstructed from inscriptions, archaeology, Old Javanese works such as the Nagarakretagama and Pararaton, Chinese records, and later traditions. These sources do not always agree. A careful account therefore distinguishes what the court claimed, what archaeology demonstrates and what historians infer about a changing network of ports, rulers and communities.",
+      "## JAVA BEFORE MAJAPAHIT",
+      "Before 1293, Java was shaped by competing Hindu-Buddhist courts and busy coastal routes. The Kediri kingdom in eastern Java and the Singhasari kingdom that followed drew agricultural wealth from the island’s volcanic plains while linking inland centers to ports. Rulers patronized temples, Sanskritic and Old Javanese literary cultures, and officials who organized land, labor and ritual obligations.",
+      "Singhasari’s king Kertanagara pursued an outward-looking policy. His reign included military and diplomatic activity toward Sumatra and the Malay world, but it also provoked conflict inside Java. In 1292, Jayakatwang of Kediri overthrew and killed Kertanagara. Raden Wijaya, a son-in-law of the dead king, escaped, negotiated with Jayakatwang and established a base in the forested area later called Majapahit.",
+      "## THE YUAN EXPEDITION AND THE FOUNDATION OF 1293",
+      "The Mongol-led Yuan dynasty in China sent an expedition to Java in 1293 after Kertanagara had rejected the demands of Kublai Khan’s envoys. The expedition’s immediate aim was to punish the earlier court, but Kertanagara was already dead when the fleet and army arrived. Raden Wijaya used the newcomers against Jayakatwang, who was defeated. He then turned on his temporary Yuan allies, forcing them to withdraw from Java. The sequence is known through Javanese inscriptions and chronicles alongside Chinese accounts, and details of the campaign remain debated.",
+      "Raden Wijaya became the first ruler of Majapahit, taking the royal name Kertarajasa Jayawardhana. The kingdom’s foundation is conventionally dated to 1293, the beginning of a dynasty that would make eastern Java a major political and cultural center. The name Majapahit is commonly associated with the bitter fruit of the maja tree, although stories about the founding landscape also belong to later literary memory.",
+      "## TROWULAN AND THE EAST JAVANESE CAPITAL",
+      "Majapahit’s capital is generally associated with the Trowulan archaeological landscape in Mojokerto, East Java. Excavations and surveys reveal red-brick walls, gates, bathing places, reservoirs, canals, roads, terracotta objects, craft areas and imported ceramics spread across a large rural-urban zone. The evidence suggests a planned court landscape supported by intensive rice cultivation and water management, not a single compact city surrounded by an impenetrable wall.",
+      "Trowulan is exceptionally important, but its ruins cannot be matched line by line with every description in the Nagarakretagama. A study held by Indonesia’s archaeological repository notes that the poem and the physical remains are two major sources, yet no complete one-to-one identification is possible. Archaeology shows changing settlement and production patterns over time, while court poetry presents an idealized political center. The combination is valuable precisely because each source has limits.",
+      "## CONSOLIDATION UNDER THE EARLY RULERS",
+      "Kertarajasa’s successor, Jayanagara, faced rebellions and the challenge of keeping powerful commanders loyal. The early court had to consolidate territory in eastern Java while balancing aristocratic lineages, military households and religious foundations. The kingdom was a political project under construction rather than an already unified archipelago.",
+      "After Jayanagara’s death, Tribhuwana Wijayatunggadewi ruled from 1328 to 1350. Her reign strengthened the court and prepared the expansion associated with her son, Hayam Wuruk. Her chief minister was Gajah Mada, a figure whose career became central to later accounts of Majapahit power.",
+      "The Palapa oath is recorded in the Pararaton, a text compiled later than the events it describes. In the oath, Gajah Mada promises not to enjoy a period of rest until he has brought a long list of places in the Nusantara into the king’s orbit. The passage is important evidence for political ambition, but it does not prove that every named island was administered as a province. Modern nationalist interpretations often treat the list as a map of Indonesia; historians instead ask whether each relationship involved conquest, tribute, alliance, recognition or a claim made by the court.",
+      "## HAYAM WURUK AND THE FOURTEENTH-CENTURY HEIGHT",
+      "Hayam Wuruk, also known by the royal name Rajasanagara, ruled from 1350 to 1389. During his reign, Majapahit’s court reached its greatest documented influence. Gajah Mada remained a powerful official until his death, and the court coordinated campaigns, marriage alliances, ritual visits and diplomacy across Java and with neighboring islands.",
+      "The Nagarakretagama, composed by the court poet Mpu Prapanca in 1365, is the best-known source for this period. It describes the king’s journeys, ceremonies, sacred sites, officials and places that acknowledged Majapahit. It is a panegyric, not a neutral census or modern administrative survey. Its lists of ports and islands illuminate the court’s geographic imagination and diplomatic world, but they must be read alongside inscriptions, archaeology and external records.",
+      "Majapahit’s core authority was strongest in eastern Java and nearby regions. Some places named in the poem may have sent tribute or gifts, recognized a hierarchy, hosted a royal representative or simply appeared within a ritual geography. Direct centralized rule over all of modern Indonesia is not supported by the evidence. The empire’s influence was real, but it operated through several layers of relationship.",
+      "## GOVERNMENT, COURT AND SOCIETY",
+      "The king stood at the center of a court that combined ritual authority, military power and control of land and revenue. Officials administered districts, supervised irrigation and organized labor for temples, roads and royal projects. Inscriptions record grants to religious communities and obligations attached to fields and villages. Local elites remained important intermediaries, and the strength of royal authority varied across distance and period.",
+      "Society included cultivators, traders, sailors, artisans, priests, soldiers, officials and dependents attached to estates or religious institutions. Rice agriculture on Java’s fertile plains supported the court, while forests and uplands supplied timber, animals and other resources. The capital’s workshops produced bricks, metalwork, pottery and terracotta figures. Imported Chinese ceramics found at Trowulan show that elite consumption and ordinary exchange were linked to wider Asian markets.",
+      "Religion was Hindu-Buddhist rather than confined to a single modern category. Shaiva, Vaishnava and Buddhist practices existed alongside local Javanese traditions, ancestral rites and sacred landscapes. Royal ceremonies presented the ruler as a guardian of cosmic and social order, while temples and monasteries received land and labor. The cultural synthesis visible in Majapahit art should not be mistaken for complete religious uniformity.",
+      "## AGRICULTURE, PORTS AND MARITIME NETWORKS",
+      "Majapahit’s maritime power rested on an agricultural base. Irrigation, river control and seasonal knowledge made intensive rice production possible in eastern Java. Coastal and riverine ports connected this surplus to shipping routes that crossed the Java Sea, the Makassar Strait and the waters around the Malay Peninsula. Northern Javanese ports brought together Javanese, Malay, Chinese, Indian and other merchants.",
+      "Javanese ships were built for regional sailing and long voyages, using designs and rigging adapted to monsoon conditions. Majapahit’s connections reached Bali, parts of Sumatra, the Malay Peninsula, Borneo and other islands, but connection did not always mean occupation. A port might be a trading partner, a tributary, an allied court or a place where a Majapahit expedition had temporarily intervened. Chinese maritime trade and the wider Indian Ocean system supplied ceramics, textiles, metal goods and luxury items, while Java exported rice, forest products, spices and manufactured goods.",
+      "The [Khmer Empire’s Angkorian water system](/articles/khmer-empire-civilization-built-angkor/) offers a useful regional comparison, but Majapahit’s political economy developed in a different island environment. Both cases show why monumental capitals depended on farming, water management and networks beyond the palace.",
+      "## BALI, SUMATRA AND THE MEANING OF INFLUENCE",
+      "Majapahit maintained especially close ties with Bali, where Javanese courts intervened and dynastic relationships shaped political change. Sumatra and the Malay Peninsula were linked to Java through older maritime routes, and Majapahit rulers sought access to strategic ports and commodities. Borneo and the eastern islands appear in court lists and later traditions, yet the surviving evidence rarely allows a simple modern border to be drawn.",
+      "This distinction matters. A court text could describe a ruler as part of a mandala, a ritual hierarchy or a tributary world without installing a permanent bureaucracy. Political influence could be renewed through gifts, marriage, military pressure or a change of ruler. Majapahit was therefore a maritime power whose reach was broad but uneven, not a centrally administered nation-state spread across the entire archipelago.",
+      "## THE BUBAT INCIDENT",
+      "The Bubat incident is associated with 1357, when a Sundanese royal party came to Java in connection with a proposed marriage between Hayam Wuruk and a Sundanese princess. The meeting at Bubat ended in a violent confrontation and the deaths of the Sundanese delegation. The Nagarakretagama, written close to Hayam Wuruk’s reign, does not describe the episode; later texts such as the Pararaton and Kidung Sunda provide the main narratives and differ in detail.",
+      "Historians therefore treat Bubat as a contested episode rather than a complete explanation of Javanese-Sundanese relations. It can be read as evidence of court protocol, status disputes and the risks of dynastic politics, but later retellings also gave it a larger place in regional memory. The incident should not be turned into a timeless ethnic conflict or used to prove that Majapahit directly ruled every part of Java.",
+      "## SUCCESSION, PAREGREG AND A CHANGING REGION",
+      "After Hayam Wuruk died in 1389, succession became more difficult. Rival branches of the royal family and powerful regional elites competed for authority. The Paregreg War, usually placed in the early fifteenth century, pitted forces associated with Wikramawardhana and Bhre Wirabhumi. The conflict weakened the political cohesion that had supported the fourteenth-century expansion, although Majapahit continued as a court and cultural center.",
+      "At the same time, Muslim merchants and rulers gained influence in maritime Southeast Asia. Malacca became a major Muslim trading center in the fifteenth century, and Muslim communities grew in ports along Java’s north coast. Islamization was gradual and varied. It changed commercial alliances and the political opportunities available to port rulers, but it did not erase Hindu-Buddhist institutions immediately or reduce Majapahit’s decline to religion alone. Warfare, succession disputes, shifting trade routes, regional competition and environmental pressures all mattered.",
+      "## DECLINE AND THE UNCERTAIN END",
+      "Majapahit’s decline was a long process rather than a single collapse. Court authority contracted, rival ports and states gained autonomy, and the center struggled to coordinate distant relationships. Changes in monsoon trade, the rise of Malacca and Muslim coastal polities, dynastic conflict and the cost of maintaining military and ritual networks each affected the kingdom.",
+      "The date of Majapahit’s final end remains debated. A traditional Javanese date is 1478, while other reconstructions place the decisive conquest of the remaining court around 1527, when Demak and allied Muslim powers expanded in Java. Some traditions describe a transfer of royal legitimacy rather than a single battlefield destruction. Trowulan’s later history also shows continued settlement and reuse. It is more accurate to speak of a gradual political transformation than a mysterious disappearance on one date.",
+      "## LEGACY IN JAVA AND INDONESIA",
+      "Majapahit remained influential through language, court ritual, temple traditions, literature and ideas of Nusantara. Modern Indonesia adopted Majapahit imagery in national symbolism, and the oath of Gajah Mada is often presented as a historical precursor to the country’s territorial unity. That modern use is meaningful, but it should not project a twentieth-century nation-state backward onto a fourteenth-century mandala polity.",
+      "Archaeology at Trowulan, surviving manuscripts and regional memories continue to expand knowledge of Majapahit. The kingdom’s legacy lies in Java’s literary and artistic traditions, in the history of Southeast Asian seaways and in the evidence that political power in the archipelago was negotiated through farming, ports, ritual, war and diplomacy. Its maritime reach was substantial precisely because it connected different communities without making them all identical.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**When was Majapahit founded?**",
+      "Majapahit was founded in eastern Java in 1293 by Raden Wijaya, who became Kertarajasa Jayawardhana after using and then expelling a Yuan expedition that had intervened in Java.",
+      "**Was Majapahit the same as modern Indonesia?**",
+      "No. Majapahit was a Javanese kingdom whose strongest authority was in eastern Java. Court texts list many islands and ports, but relationships ranged from direct rule to tribute, alliance and claimed influence.",
+      "**What is the Nagarakretagama?**",
+      "It is an Old Javanese court poem composed by Mpu Prapanca in 1365. It is a major source for Hayam Wuruk’s reign, ceremonies and political geography, but its panegyric purpose means it must be compared with archaeology and other records.",
+      "**What was Gajah Mada’s Palapa oath?**",
+      "The Pararaton records an oath in which Gajah Mada says he will not enjoy rest until places in the Nusantara are brought into the king’s orbit. The later text documents political ambition, not proof that every named place was a centrally governed province.",
+      "**When did Majapahit end?**",
+      "There is no universally accepted single date. Javanese tradition often gives 1478, while many historians place the final loss of the court’s political power around 1527 amid the rise of Demak and other Muslim coastal states.",
+      "**What can visitors see at Trowulan?**",
+      "Trowulan preserves archaeological remains including red-brick structures, gates, bathing places, reservoirs, canals, terracotta objects and imported ceramics. The landscape represents a former capital zone, though not every feature can be matched directly to the Nagarakretagama’s descriptions."
+    ],
+    quote:
+      "> Majapahit’s power was maritime and networked: its court connected Java to a wide world of ports and rulers without turning every relationship into direct centralized rule.",
+    references: [
+      {
+        name: "UNESCO: Trowulan former capital landscape",
+        url: "https://whc.unesco.org/en/tentativelists/5466/.htm"
+      },
+      {
+        name: "Indonesian Ministry of Culture: Museum Majapahit",
+        url: "https://kebudayaan.kemdikbud.go.id/bpkw11/museum-majapahit/"
+      },
+      {
+        name: "Indonesian archaeological repository: Nagarakretagama and Trowulan",
+        url: "https://repositori.kemendikdasmen.go.id/9924/"
+      },
+      {
+        name: "University of Indonesia: Cultural resource management at Trowulan",
+        url: "https://scholar.ui.ac.id/en/publications/cultural-resource-management-for-a-majapahit-kingdom-site-in-trow/"
+      },
+      {
+        name: "UGM: Majapahit and maritime history",
+        url: "https://journal.ugm.ac.id/lembaran-sejarah/article/view/33542"
+      },
+      {
+        name: "DOAJ: Historical study of the Palapa oath",
+        url: "https://doaj.org/article/07751b2e88a0489f9814ddd63165664d"
+      },
+      {
+        name: "University of California Press: Majapahit and political economy",
+        url: "https://publishing.cdlib.org/ucpressebooks/public/book/the-political-economy-of-mountain-java-an-interpretive-history.html"
+      },
+      {
+        name: "Cambridge Journal of Southeast Asian Studies: Majapahit chronology",
+        url: "https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/two-kronik-tionghua-of-semarang-and-cirebon-a-note-on-provenance-and-reliability/DB2834021FF6BBF6E2E1F50939B6B60C"
+      }
+    ],
+    tags: [
+      "Majapahit Empire",
+      "Java history",
+      "Raden Wijaya",
+      "Gajah Mada",
+      "Hayam Wuruk",
+      "Nagarakretagama",
+      "Trowulan",
+      "Southeast Asian history",
+      "Maritime Southeast Asia",
+      "History"
+    ],
+    readingTime: "10 min read",
+    faq: [
+      {
+        question: "When was Majapahit founded?",
+        answer:
+          "Majapahit was founded in eastern Java in 1293 by Raden Wijaya, who became Kertarajasa Jayawardhana."
+      },
+      {
+        question: "Was Majapahit the same as modern Indonesia?",
+        answer:
+          "No. Majapahit was a Javanese kingdom whose strongest authority was in eastern Java; other relationships ranged from tribute and alliance to claimed influence."
+      },
+      {
+        question: "What is the Nagarakretagama?",
+        answer:
+          "It is an Old Javanese court poem composed by Mpu Prapanca in 1365 and a major source for Hayam Wuruk’s reign and political geography."
+      },
+      {
+        question: "When did Majapahit end?",
+        answer:
+          "The end is debated. Tradition gives 1478, while many historians place the final loss of political power around 1527."
+      }
+    ]
   }
 ];
 
