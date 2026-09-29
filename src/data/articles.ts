@@ -35039,6 +35039,172 @@ export const articles: Article[] = [
           "Ferdinand of Bourbon created it in 1815, and it ended during Italian unification in 1860–1861."
       }
     ]
+  },
+  {
+    id: "148",
+    slug: "jerusalem-3000-years-kingdoms-faith-conquest",
+    title: "JERUSALEM: 3,000 YEARS OF KINGDOMS, FAITH AND CONQUEST",
+    seoTitle: "Jerusalem History: 3,000 Years of Kingdoms, Faith and Conquest",
+    metaDescription:
+      "A neutral history of Jerusalem from Bronze Age settlement and Judah to Rome, Islamic Jerusalem, the Crusades, Ottoman rule and the modern disputed city.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "JERUSALEM",
+      gold: "KINGDOMS, FAITH AND CONQUEST"
+    },
+    excerpt:
+      "Jerusalem’s history is a layered record of settlements, kingdoms, empires and living religious traditions. Archaeology, sacred texts and political claims illuminate different parts of the city’s past and must be kept distinct.",
+    category: "History",
+    date: "2026-09-29",
+    lastUpdated: "2026-09-29",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/jerusalem-quds-night-dome-rock.png",
+    coverAlt:
+      "Editorial night view of the Dome of the Rock and Jerusalem’s historic walls under a full moon",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "Jerusalem is one of the world’s oldest continuously inhabited cities and one of its most contested sacred places. Its story runs from Bronze Age hilltop settlement to the capital of ancient Judah, a Roman and Byzantine city, a center of Islamic pilgrimage, the prize of Crusader and Muslim armies, an Ottoman provincial city and the modern focus of competing national claims. No single tradition explains all of its past. Archaeological evidence, biblical and Islamic traditions, later chronicles and modern legal positions answer different questions.",
+      "The city’s sacred enclosure is known as the Temple Mount in Jewish and many English contexts and as Haram al-Sharif in Islamic usage. The terms refer to the same elevated precinct, but the religious histories attached to it are not identical. The Dome of the Rock is a late seventh-century shrine at the center of the platform. Al-Aqsa Mosque is the congregational mosque on its southern side. In Islamic writing, al-Aqsa can also mean the wider sanctuary, which is why the names are sometimes used imprecisely in modern discussion.",
+      "## BRONZE AGE JERUSALEM AND THE CANAANITE CITY",
+      "Jerusalem grew around the ridge and water sources later called the City of David. Excavations and inscriptions show a Canaanite urban community in the second millennium BCE, connected to the political world of the southern Levant. Bronze Age rulers appear in Egyptian diplomatic records as local leaders whose authority was regional rather than imperial.",
+      "The name Jebusite comes from the Hebrew Bible, which describes Jerusalem before the Israelite monarchy. Archaeologists can identify Bronze and Iron Age occupation, fortifications and changing material culture, but they cannot simply assign every layer to a named biblical group. ‘Jebusite Jerusalem’ is therefore best treated as a biblical and historical label for an early city whose inhabitants belonged to the wider Canaanite world. The relationship between Jebusites and later populations remains a subject of debate.",
+      "## DAVID, SOLOMON AND THE KINGDOM OF JUDAH",
+      "According to the books of Samuel, David captured Jerusalem from its earlier rulers and made it the political center of a united monarchy. The biblical account presents the city as a strategic capital between northern and southern territories. Archaeology cannot independently verify every detail of the capture narrative, its chronology or the extent of David’s kingdom. The Tel Dan inscription, usually dated to the ninth century BCE, is important evidence for a ‘House of David’, but it does not describe the conquest of Jerusalem.",
+      "The biblical books of Kings and Chronicles associate Solomon with a palace and the First Temple. The Temple tradition became central to Jewish religious memory, yet the Temple Mount has not been excavated in a way that could provide a complete archaeological test of the biblical descriptions. Remains from the Iron Age, including monumental structures and administrative installations, show that Jerusalem was an important highland center. They do not settle every question about the scale of the united monarchy or the precise form of a tenth-century temple.",
+      "By the eighth and seventh centuries BCE, Jerusalem was the capital of the Kingdom of Judah. Royal administration, craft production, storage and religious institutions expanded as Assyrian power reshaped the region. Judah survived the Assyrian crisis that destroyed the northern kingdom of Israel, but it remained vulnerable to Babylon. In 586 BCE, Nebuchadnezzar II’s forces captured the city, destroyed the First Temple and deported members of the ruling and priestly population. The destruction marked a major rupture, though life in the surrounding land continued.",
+      "## PERSIAN, HELLENISTIC AND HASMONEAN JERUSALEM",
+      "The Persian conquest of Babylon in 539 BCE brought Judah into the Achaemenid imperial system. Persian policy allowed exiled communities to return and rebuild local sanctuaries. Jerusalem’s Second Temple was completed in the late sixth or early fifth century BCE, according to biblical and later historical sources. The city remained smaller than an imperial capital, but the temple, priesthood and emerging Jewish textual traditions gave it enduring importance.",
+      "Alexander the Great’s conquest in the late fourth century BCE placed Jerusalem in the Hellenistic world. Ptolemaic and then Seleucid rulers governed the region through local elites and competing institutions. Greek language and political forms spread, while Jewish law and temple practice remained powerful. Under Antiochus IV, attempts to impose new religious and civic arrangements helped provoke the Maccabean revolt. The Hasmoneans captured Jerusalem, purified the Temple and created an independent Jewish kingdom in the second century BCE.",
+      "Hasmonean rulers expanded territory and combined priestly and royal authority. Their state was not a modern nation-state, and its expansion involved warfare, diplomacy and the incorporation of populations with different traditions. Internal succession conflicts eventually opened the way for Roman intervention. In 63 BCE, Pompey entered Jerusalem and placed Judaea within Rome’s orbit while leaving local religious institutions in place.",
+      "## HEROD, ROME AND THE SECOND TEMPLE’S DESTRUCTION",
+      "Herod the Great became Rome’s client king in 37 BCE after civil war and siege. He rebuilt Jerusalem on a monumental scale, enlarging the Second Temple complex with vast retaining walls, courts and carefully engineered terraces. The Western Wall is part of the retaining system associated with this expansion, not a surviving wall of the Temple building itself. Herod’s program created employment and splendor but also required taxation and served a ruler whose legitimacy many subjects questioned.",
+      "Jerusalem in the first century CE was a crowded pilgrimage and administrative city. Jewish groups debated law, purity, messianic hopes and relations with Roman power. Jesus of Nazareth visited the city according to the Christian Gospels, which describe his arrest and crucifixion under the Roman prefect Pontius Pilate. These texts are religious sources written decades after the events; archaeology can illuminate the city’s streets, burial practices and institutions, but it cannot verify every narrative detail.",
+      "Tensions between local factions and Roman authorities contributed to the Jewish revolt that began in 66 CE. Roman forces under Titus captured Jerusalem in 70, and the Second Temple was destroyed. Josephus provides a major account, but his position as a former rebel who wrote under Roman patronage requires critical reading. The destruction transformed Jewish religious life and became a central memory in Christianity and later Jewish tradition. The city continued to be inhabited under Roman rule.",
+      "After the Bar Kokhba revolt of 132–135 CE, Emperor Hadrian refounded Jerusalem as the Roman colony Aelia Capitolina. A temple to Jupiter was built on the former temple precinct according to ancient and later sources, and Jewish access was restricted for a period. The exact shape of the city and the duration of each prohibition are debated. Roman roads, civic buildings and changing communities made Aelia a different city while preserving the significance of its older landscape.",
+      "## BYZANTINE AND SASANIAN JERUSALEM",
+      "When the Roman Empire became Christian, Jerusalem’s sacred geography was reinterpreted through Christian pilgrimage. Constantine and his successors sponsored churches, monasteries and hospices. The Church of the Holy Sepulchre, begun in the fourth century at sites identified with Jesus’s crucifixion and burial, became the city’s principal Christian shrine. Pilgrims, clergy and local communities gave Jerusalem an international Christian role, even though it remained a provincial city rather than an imperial capital.",
+      "Sasanian forces captured Jerusalem in 614 during the war with Byzantium. Contemporary and later accounts describe killings, the removal of the patriarch and the carrying away of the True Cross. The severity and sequence of events are debated, but the conquest was a major shock to Christian Jerusalem. Byzantine Emperor Heraclius restored the city in 629. The brief Sasanian occupation left memories that shaped later Christian and Muslim narratives.",
+      "## MUSLIM CONQUEST AND THE MAKING OF HARAM AL-SHARIF",
+      "Muslim armies took Jerusalem from the Byzantines in 637 or 638, during the caliphate of Umar ibn al-Khattab. Later Islamic accounts describe Umar receiving the city’s surrender and praying near the former Temple precinct. Historians distinguish the conquest itself from details preserved in later literary traditions. The city was known in Arabic as Iliya and al-Quds, and Christian communities continued to live there under the new administration.",
+      "The elevated sanctuary gained new importance in Islam. The Qur’an’s account of the Night Journey is associated by Muslim tradition with the ‘farthest mosque’, and Jerusalem is also linked to the first direction of prayer and to prophetic traditions. These religious meanings developed through scripture, hadith, pilgrimage and the construction of an Islamic monumental landscape. They do not erase the city’s Jewish and Christian histories, which remained present in its people and buildings.",
+      "Caliph Abd al-Malik built the Dome of the Rock between 688 and 692. It is a shrine around the rock, not the congregational mosque called Al-Aqsa. Its mosaics and inscriptions present an early Islamic statement in a landscape associated with Jewish Temple memory and Christian imperial architecture. An early mosque stood on the southern part of the platform, and Umayyad rulers, especially al-Walid, expanded and rebuilt the congregational complex. Earthquakes damaged structures repeatedly, requiring Abbasid, Fatimid and later restorations.",
+      "Umayyad Jerusalem was part of a wider administrative and ceremonial program. Abbasid and Fatimid governors maintained the sanctuary while political authority shifted between capitals and local commanders. Fatimid rebuilding followed destructive earthquakes and political crises. Seljuk control in the late eleventh century was also brief and contested. The Islamic sanctuary was therefore not a single unchanged monument but a complex repeatedly repaired, enlarged and reinterpreted.",
+      "## THE CRUSADES AND THE KINGDOM OF JERUSALEM",
+      "The First Crusade captured Jerusalem on 15 July 1099. Latin Christian armies breached the walls after a siege and established the Kingdom of Jerusalem. Contemporary Latin, Arabic and Hebrew accounts all describe the killing of Muslim and Jewish inhabitants, but they differ in detail, purpose and numbers. Modern historians treat the massacre as well attested while rejecting precise casualty figures repeated as rhetorical certainties. The violence was part of a wider campaign of conquest, not an isolated medieval legend.",
+      "The Crusaders converted or reassigned Islamic and Christian buildings to serve Latin institutions. The Dome of the Rock became a church known as the Templum Domini, and the southern mosque was used by the Templars as a palace and headquarters. The Church of the Holy Sepulchre was rebuilt and expanded. The new kingdom relied on castles, lordships, Italian maritime support and negotiated relationships with Eastern Christian communities, while its rule remained vulnerable beyond the city walls.",
+      "## SALADIN’S RECONQUEST IN 1187",
+      "Saladin united Ayyubid power in Egypt and Syria and challenged the Crusader states. On 4 July 1187, his army defeated the main Jerusalemite field army at Hattin, capturing King Guy and the relic of the True Cross. After the defeat, Jerusalem could not rely on a relief army. Saladin’s siege ended with the city’s surrender on 2 October 1187.",
+      "The surrender arrangements allowed many residents to leave after paying ransoms. Wealthier inhabitants and religious institutions helped raise money, while poorer people, enslaved persons and those unable to pay faced a more precarious fate. Eastern Christian communities received different treatment from Latin clergy, and some Christians remained or returned. The outcome was neither a simple act of mercy nor a repetition of 1099. The two conquests occurred in different military and political circumstances, and both involved coercion.",
+      "Saladin restored Islamic use of the Haram al-Sharif, removing Crusader altars from the Dome of the Rock and reopening the congregational mosque. The Church of the Holy Sepulchre remained in Christian hands under negotiated arrangements. Later Crusader rulers recovered parts of the coast and, through diplomacy, obtained periods of Christian access or control in Jerusalem. The city’s status shifted through treaties as well as battles before the Ayyubids consolidated their rule.",
+      "## MAMLUK, OTTOMAN AND NINETEENTH-CENTURY JERUSALEM",
+      "Mamluk sultans ruled Jerusalem from the thirteenth century until the Ottoman conquest in 1517. They endowed schools, hospices, markets and religious foundations around the Haram and the Old City. Jerusalem was a pilgrimage center and provincial town whose fortunes depended on regional routes, taxation and the security of Syria and Egypt. Mamluk architecture still defines much of the city’s historic streetscape.",
+      "The Ottoman sultan Selim I took Jerusalem in 1517. Suleiman the Magnificent rebuilt the city walls between 1537 and 1541, repaired water systems and sponsored gates and public buildings. Ottoman officials governed a multi-confessional population through imperial institutions and local religious communities. The city’s neighborhoods, markets and pilgrimage networks changed over four centuries without losing the layered sacred geography inherited from earlier rulers.",
+      "The nineteenth century brought consulates, new roads, printing, schools, hospitals and expanding neighborhoods outside the walls. European powers competed for influence, while local Muslim, Christian and Jewish communities experienced demographic and economic change. Modern political nationalisms developed late in this period and increasingly connected Jerusalem to wider movements rather than treating it only as a provincial Ottoman city.",
+      "## BRITISH RULE, DIVISION AND 1967",
+      "British forces captured Jerusalem in December 1917, and the League of Nations Mandate for Palestine began in 1922. The Mandate incorporated Britain’s commitment to a Jewish national home while requiring protection of the civil and religious rights of existing non-Jewish communities. Immigration, land politics, competing national projects and recurrent violence made Jerusalem a central arena of the Mandate’s crisis.",
+      "The 1947 United Nations partition plan proposed an internationally administered Jerusalem. War in 1948 produced a de facto division instead. West Jerusalem was held by Israel, while Jordan controlled East Jerusalem and the Old City, including the major holy sites, from 1948 to 1967. Armistice lines separated the two areas, and access across them was severely restricted. The division separated families, institutions and worshippers as well as governments.",
+      "During the June 1967 war, Israeli forces captured East Jerusalem and the Old City from Jordan. Israel extended its law and administration to the enlarged municipal area and later declared Jerusalem its capital. Jordan’s Islamic Waqf continued to administer day-to-day religious affairs at the Haram under arrangements commonly called the status quo, while Israel retained overall security and access powers. These arrangements have changed in practice and remain contested.",
+      "## JERUSALEM TODAY: HISTORY, SACRED SPACE AND DISPUTED STATUS",
+      "The status of East Jerusalem remains internationally disputed. Israel claims the city as its capital and applies its law there. Palestinians claim East Jerusalem as the capital of a future state. The United Nations and most states do not regard unilateral annexation as settling sovereignty and refer to East Jerusalem as occupied territory pending negotiations. Custodianship, access and municipal control are separate questions from final sovereignty, and religious administration is not the same as political ownership.",
+      "The Old City and its Walls were placed on UNESCO’s World Heritage List in 1981 at Jordan’s request and remain on the List of World Heritage in Danger. UNESCO’s listing recognizes the city’s outstanding religious and historic significance without deciding modern sovereignty. Worship, archaeology, conservation and security are therefore intertwined with legal and political disputes that no historical article can resolve.",
+      "Jerusalem’s legacy lies in its layers rather than in a single unbroken claim. Bronze Age settlement, Judahite memory, the Second Temple, Roman and Byzantine pilgrimage, Islamic architecture, Crusader conquest, Mamluk and Ottoman urban life, and modern division all remain visible. Studying the city responsibly means identifying which evidence supports which claim, acknowledging uncertainty and treating living communities as part of its history rather than as obstacles to a preferred ancient narrative.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**How old is Jerusalem?**",
+      "Archaeological evidence shows a settled urban community in the Bronze Age, more than three thousand years ago. The exact date of the earliest settlement depends on how archaeologists define the city and interpret early layers.",
+      "**Did King David capture Jerusalem?**",
+      "The Hebrew Bible says David captured the city and made it his capital. Archaeology supports the existence of a Davidic dynasty but cannot independently verify every detail of the capture story or the scale of the united monarchy.",
+      "**Are the Dome of the Rock and Al-Aqsa Mosque the same building?**",
+      "No. The Dome of the Rock is a shrine built under Abd al-Malik in 688–692. Al-Aqsa Mosque is the congregational mosque on the southern side of the Haram al-Sharif. Al-Aqsa can also refer to the wider sanctuary in Islamic usage.",
+      "**What happened when Saladin took Jerusalem in 1187?**",
+      "After the Crusader defeat at Hattin, Jerusalem surrendered on 2 October 1187. Many Christians left after paying ransom, some remained or returned, and Islamic worship was restored at the Haram. The surrender was negotiated but still involved unequal and coercive conditions.",
+      "**Who controls Jerusalem today?**",
+      "Israel controls the city’s municipal government and security, while the final status of East Jerusalem is internationally disputed. Jordan’s Waqf administers religious affairs at the Haram under the contested status quo. Sovereignty, custodianship and access are distinct issues.",
+      "**Why is Jerusalem sacred to three religions?**",
+      "Judaism connects the city to the First and Second Temple traditions; Christianity centers the Passion, death and resurrection of Jesus; Islam associates Jerusalem with the Night Journey, the first qibla and the Haram al-Sharif. Each tradition has its own texts, rituals and historical development."
+    ],
+    quote:
+      "> Jerusalem’s history is not one uninterrupted possession but a layered record in which archaeology, sacred memory, conquest and modern politics meet.",
+    references: [
+      {
+        name: "UNESCO: Old City of Jerusalem and its Walls",
+        url: "https://whc.unesco.org/en/list/148"
+      },
+      {
+        name: "UNESCO: World Heritage Committee decision on Jerusalem",
+        url: "https://whc.unesco.org/en/decisions/8487"
+      },
+      {
+        name: "Metropolitan Museum of Art: The Dome of the Rock",
+        url: "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam/blog/where-in-the-world/posts/dome-of-the-rock"
+      },
+      {
+        name: "French Ministry of Culture: Umayyad commemorative architecture",
+        url: "https://archeologie.culture.gouv.fr/mosquee-omeyyades/en/commemorative-architecture"
+      },
+      {
+        name: "Oxford Academic: Jebusite Jerusalem",
+        url: "https://academic.oup.com/book/55960/chapter-abstract/439438050"
+      },
+      {
+        name: "Cambridge University Press: Aelia Capitolina",
+        url: "https://www.cambridge.org/core/books/abs/archaeology-of-the-holy-land/aelia-capitolina-hadrianic-jerusalem-135-to-ca-300-ce/05246FF68BBC47061F8F81F7BAADD4D8"
+      },
+      {
+        name: "University of Chicago ISAC: Sasanian Jerusalem",
+        url: "https://isac.uchicago.edu/research/publications/lamine/lamine5"
+      },
+      {
+        name: "Cambridge University Press: The Crusader states",
+        url: "https://www.cambridge.org/core/books/abs/geography-technology-and-war/twelfth-and-thirteenth-centuries-the-crusader-states/DA3244B529BC962292C0149B263B9B12"
+      },
+      {
+        name: "United Nations: Permanent status issues",
+        url: "https://www.un.org/unispal/permanent-status-issues/"
+      },
+      {
+        name: "United Nations: The status of Jerusalem",
+        url: "https://www.un.org/unispal/document/auto-insert-203463/"
+      },
+      {
+        name: "National Library of Israel: Suleiman’s rebuilding of Jerusalem’s walls",
+        url: "https://www.nli.org.il/en/articles/RAMBI990004529200705171/NLI"
+      }
+    ],
+    tags: [
+      "Jerusalem history",
+      "Ancient Jerusalem",
+      "Second Temple",
+      "Dome of the Rock",
+      "Al-Aqsa Mosque",
+      "Crusades",
+      "Saladin",
+      "Ottoman Jerusalem",
+      "Jerusalem status",
+      "History"
+    ],
+    readingTime: "14 min read",
+    faq: [
+      {
+        question: "How old is Jerusalem?",
+        answer: "Archaeology shows an urban settlement in the Bronze Age, more than three thousand years ago, although dates depend on how the earliest layers are interpreted."
+      },
+      {
+        question: "Are the Dome of the Rock and Al-Aqsa Mosque the same building?",
+        answer: "No. The Dome of the Rock is a shrine built in 688–692, while Al-Aqsa is the congregational mosque on the southern side of the Haram al-Sharif."
+      },
+      {
+        question: "What happened when Saladin took Jerusalem?",
+        answer: "The city surrendered on 2 October 1187 after the defeat at Hattin. Many Christians left after paying ransom, some remained or returned, and Islamic worship was restored at the Haram."
+      },
+      {
+        question: "Who controls Jerusalem today?",
+        answer: "Israel controls municipal government and security, but the status of East Jerusalem remains internationally disputed. Jordan’s Waqf administers religious affairs at the Haram under contested status quo arrangements."
+      },
+      {
+        question: "Why is Jerusalem sacred to Judaism, Christianity and Islam?",
+        answer: "The city is associated with the Jewish Temple traditions, the Christian Passion and resurrection of Jesus, and the Islamic Night Journey, first qibla and Haram al-Sharif."
+      }
+    ]
   }
 ];
 
