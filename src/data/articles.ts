@@ -35358,6 +35358,150 @@ export const articles: Article[] = [
         answer: "Mamluk commanders took power in Egypt in 1250 after the death of al-Salih Ayyub and the crisis involving Shajar al-Durr and Turanshah. Ayyubid branches survived elsewhere."
       }
     ]
+  },
+  {
+    id: "150",
+    slug: "jin-dynasty-jurchen-empire-genghis-khan",
+    title: "THE JIN DYNASTY: THE EMPIRE GENGHIS KHAN CAME TO DESTROY",
+    seoTitle: "Jurchen Jin Dynasty History: The Empire Genghis Khan Invaded",
+    metaDescription:
+      "Discover the Jurchen Jin Dynasty of 1115–1234, from Wanyan Aguda and the fall of Liao to the Jingkang Incident, Mongol invasion and siege of Caizhou.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "JIN DYNASTY",
+      gold: "THE EMPIRE GENGHIS KHAN CAME TO DESTROY"
+    },
+    excerpt:
+      "The Jurchen Jin ruled a multiethnic empire across Manchuria and northern China for more than a century before a long Mongol war ended the dynasty in 1234.",
+    category: "History",
+    date: "2026-09-29",
+    lastUpdated: "2026-09-29",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/jin-dynasty-jurchen-china-history.png",
+    coverAlt:
+      "Editorial reconstruction of a Jurchen Jin ruler and court in a snowy northern Chinese palace",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "The Jurchen Jin Dynasty ruled from 1115 to 1234 across a changing empire that included the Jurchens’ homeland in northeast Asia and much of northern China. Its rulers defeated the Khitan Liao, broke with their Song allies, captured the Northern Song court in 1127 and governed millions of Chinese subjects. The dynasty then fought the Mongols for more than two decades. Genghis Khan began the invasion in 1211 and died in 1227; the Jin survived until the Mongols and the Southern Song destroyed it at Caizhou in 1234.",
+      "This is the Jurchen Jin, sometimes called the Great Jin or Jin of 1115–1234. It must be distinguished from the earlier Western and Eastern Jin dynasties, which ruled parts of China from 266 to 420. The shared name is a translation of different dynastic names, not evidence of political continuity. The Jurchen Jin was neither simply a Chinese dynasty nor an isolated foreign kingdom. It was a multiethnic imperial state that combined Jurchen institutions with Chinese administration, law and court culture.",
+      "## THE JURCHENS BEFORE 1115",
+      "The Jurchens lived in forest, river and grassland zones of what is now northeast China and the Russian Far East. They farmed in settled communities, hunted, fished, raised animals and traded horses, furs, ginseng and other products. Political authority was organized through clans and local leaders rather than a single centralized kingdom. Their societies interacted with the Khitan Liao, the Song and Goryeo, sometimes as tributaries and sometimes as military opponents.",
+      "Liao institutions classified and taxed Jurchen communities, but Liao control was uneven in the eastern forests. The Wanyan clan gradually built alliances among Jurchen groups. Their power came from personal leadership, horse warfare, hunting networks and the ability to recruit warriors beyond one lineage. Chinese and Khitan sources describe the Jurchens from outside perspectives, so modern historians compare those records with archaeology and later Jurchen traditions rather than treating any one chronicle as transparent.",
+      "## WANYAN AGUDA AND THE FOUNDATION OF JIN",
+      "Wanyan Aguda, later known as Emperor Taizu, rebelled against the Liao in 1114 and proclaimed the Jin Dynasty in 1115. The new state adopted an imperial title and a political language that could address both Jurchen followers and neighboring courts. Aguda’s forces defeated the Liao in a series of rapid campaigns. The Song court saw an opportunity to recover the Sixteen Prefectures and formed an alliance with Jin against their old Khitan rival.",
+      "The alliance succeeded in destroying the Liao by 1125, but it also exposed the very different aims of the allies. Jin commanders believed the Song had contributed less than promised and refused to surrender all contested territories. Song attempts to take the northern frontier failed, and negotiations broke down. The former allies became enemies in a war that reshaped East Asia.",
+      "## THE CONQUEST OF NORTHERN CHINA",
+      "Jin armies crossed into Song territory and captured major northern cities. In 1127, they seized the Song capital at Bianjing, present-day Kaifeng, in the event remembered as the Jingkang Incident. Emperors Huizong and Qinzong, members of the imperial household, officials, artisans and large quantities of court property were taken north. The Northern Song government collapsed, while another imperial line escaped south and established the Southern Song.",
+      "The Jingkang Incident became a central memory in Southern Song political culture. Song sources describe humiliation, looting and the loss of the imperial family, while Jin records frame the conquest through dynastic legitimacy and punishment of a defeated court. Exact casualty totals and stories of individual suffering often come from partisan narratives. The conquest nevertheless had enormous consequences: the Song realm was divided, and a Jurchen dynasty now ruled the most populous cities and farming regions of northern China.",
+      "The Southern Song court established itself at Lin’an, present-day Hangzhou, and continued to claim authority over all China. Jin and Song fought, negotiated and traded for more than a century. The Treaty of Shaoxing in 1142 stabilized a frontier near the Huai River and required Song payments, but neither side accepted permanent equality. Border warfare, raids, diplomacy and commercial exchange continued throughout the rivalry.",
+      "## CAPITALS, GOVERNMENT AND A MULTIETHNIC EMPIRE",
+      "The Jin court first used Huining in the northeast, then developed Zhongdu as its central capital. Zhongdu stood near the site of present-day Beijing, though the medieval city was not identical to the modern capital. Its palace, walls, markets and administrative quarters expressed the dynasty’s claim to rule northern China. In 1214, under Mongol pressure, the court moved south to Kaifeng. The relocation did not end the dynasty; it created a new political center while Zhongdu remained strategically important.",
+      "Jin rulers adopted Chinese-style ministries, taxation, law codes and civil examinations. They employed Chinese, Khitan, Jurchen and other officials and governed cities whose populations vastly outnumbered the Jurchen elite. At the same time, the court preserved separate institutions for Jurchen military households and encouraged Jurchen language and customs. Policies shifted by reign. Some emperors promoted Jurchen identity, while others relied heavily on Chinese literati and administrative practices.",
+      "The Jurchen script was created in the twelfth century, using models connected to Khitan writing and adapted to the Jurchen language. It appeared on monuments, official documents and inscriptions, but Chinese remained essential in administration and scholarship. Buddhism, Confucianism, Daoism and local religious traditions all had places in Jin society. Calling the dynasty either fully Sinicized or untouched by Chinese culture hides the continuous negotiation visible in its institutions.",
+      "The economy combined northern agriculture, livestock, mining, handicrafts and long-distance trade. Grain taxes supported cities and armies, while merchants moved salt, textiles, metals, horses and luxury goods across the frontier. Jin rulers rebuilt canals, roads and defenses and relied on local officials to collect revenue. War damaged farms and displaced communities, but the empire’s cities remained centers of manufacturing, scholarship and commercial exchange.",
+      "The military included Jurchen cavalry, Chinese infantry, Khitan and other auxiliary troops, and garrisons organized through hereditary and territorial systems. Horse archery and mobility were important, yet siege warfare, infantry and engineers were equally necessary for conquering Song cities. Jin armies also fought the Western Xia, Goryeo and steppe powers. Their strength lay in combining frontier cavalry with the resources of a large agrarian state.",
+      "## RISE OF THE MONGOLS AND THE WAR FROM 1211",
+      "Temüjin united many Mongol groups and became Genghis Khan in 1206. Jin policy toward the steppe had relied on rivalries, tribute and the appointment of buffer leaders. Relations deteriorated as Mongol power grew, Jin officials treated displaced groups harshly and the court’s frontier strategy became less effective. Diplomatic insults and disputes over tribute and refugees added to the conflict, but no single incident alone explains the war.",
+      "The Mongol invasion began in 1211. Genghis Khan’s armies crossed the northern frontier, defeated Jin forces in open country and bypassed or besieged fortified positions. Jin commanders could still win battles, and the terrain, walls and supply lines slowed the Mongols. The war was a prolonged contest rather than an instant collapse. Mongol armies also used engineers and soldiers from conquered peoples, making their campaigns more than a purely nomadic assault.",
+      "Zhongdu was besieged repeatedly and finally fell in 1215 after starvation, internal crisis and negotiations. Its capture was a major Mongol victory, but it did not end Jin rule. The emperor had already shifted the main court to Kaifeng, and Jin officials continued to govern much of the north. Mongol forces withdrew or redirected their attention at times, giving the Jin opportunities to reorganize.",
+      "The decades after Zhongdu’s fall were marked by competing pressures. The Jin fought the Mongols in the north and the Southern Song along the southern frontier. Song leaders sometimes cooperated with the Mongols against Jin, but their aims were not identical. Jin rulers faced rebellions, court coups, epidemics, fiscal strain and defections, yet they continued to field armies and defend fortified cities.",
+      "## ÖGEDEI, THE SONG ALLIANCE AND CAIZHOU",
+      "After Genghis Khan died in 1227, the Mongol imperial succession did not pause the Jin war. Ögedei Khan approved renewed campaigns in the 1230s. Mongol armies attacked from multiple directions while Southern Song forces opened a southern front. The cooperation was strategic and temporary. Song officials hoped to recover northern territory, while the Mongols sought the destruction of the Jin state and access to its wealth and manpower.",
+      "Kaifeng endured a major siege in 1232, but the Jin court moved again to Caizhou. The city became the last imperial refuge. In 1233 and early 1234, Mongol and Song forces surrounded it. Jin Emperor Aizong abdicated in favor of a relative and then died, while the final emperor was killed as the city fell. The Jin Dynasty ended in 1234, nearly a century after Aguda’s proclamation.",
+      "The fall of Jin did not complete the Mongol conquest of China. It removed the northern power that had blocked the Mongols from the Southern Song and gave them a vast base of cities, grain and specialists. The next phase of Mongol expansion against the Song lasted for decades and ended only in 1279. Jin’s destruction was therefore both an end and a bridge to the Yuan conquest.",
+      "## WHAT HAPPENED TO THE JURCHENS?",
+      "Jurchen communities did not disappear in 1234. Some elites entered Mongol service, others remained in northern China, and many communities moved, intermarried or adopted local languages. The Mongols classified people through administrative categories that changed over time. Jurchen identity survived in family histories, military groups, place names and language, although political institutions were transformed.",
+      "The later Manchus descended in part from populations who were called Jurchen, but the two identities should not be treated as identical. Ming and early Qing rulers reorganized Jurchen groups, created new banner institutions and promoted a distinct Manchu political identity. The Qing later claimed the Jin as part of a longer northern imperial legacy, but that retrospective claim does not erase the differences between Wanyan Jin society and the Manchu state.",
+      "## LEGACY OF THE JURCHEN JIN",
+      "The Jin left a deep mark on northern China’s cities, agricultural systems, institutions and literary culture. Zhongdu’s location near Beijing helped shape the region’s later political geography, even though the Yuan and Ming capitals were built and organized in different ways. Jin rulers demonstrated that a dynasty led by a non-Han elite could govern a large Chinese population through a mixture of conquest, accommodation and separate identity.",
+      "Jin history also clarifies the Mongol conquest. Genghis Khan was the war’s initiator, not its finisher. The Jin survived him, survived the fall of Zhongdu and resisted through the reigns of later Mongol khans. Their final defeat required sustained campaigns, Southern Song cooperation and the capture of Caizhou. The story complicates the image of an unstoppable Mongol victory and shows how imperial conquest depended on local alliances, engineers, supply and political fracture.",
+      "The Jurchen Jin should therefore be remembered as a state with its own institutions and historical agency. It was shaped by the steppe and forests of northeast Asia, transformed by the conquest of northern China and destroyed in a war that prepared the Mongols for the Southern Song. Its legacy belongs to the connected history of Jurchens, Khitans, Chinese, Koreans, Mongols and the many communities that lived across medieval East Asia.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**Which Jin Dynasty does this article cover?**",
+      "It covers the Jurchen Jin Dynasty of 1115–1234, not the earlier Western and Eastern Jin dynasties that ruled parts of China from 266 to 420.",
+      "**Who founded the Jurchen Jin?**",
+      "Wanyan Aguda, later Emperor Taizu, proclaimed the Jin in 1115 after organizing a rebellion against the Khitan Liao Dynasty.",
+      "**What was the Jingkang Incident?**",
+      "In 1127, Jin forces captured the Northern Song capital at Bianjing, present-day Kaifeng, and took the Song emperors and much of the imperial household north. The Southern Song then ruled from the south.",
+      "**Was Zhongdu the end of the Jin Dynasty?**",
+      "No. Mongol forces captured Zhongdu, near present-day Beijing, in 1215, but the Jin court moved to Kaifeng and continued resisting until 1234.",
+      "**Did Genghis Khan conquer the Jin Dynasty?**",
+      "He began the Mongol invasion in 1211 and won major victories, but he died in 1227. Ögedei Khan and later Mongol commanders, with Southern Song cooperation, completed the conquest in 1234.",
+      "**Are the Jurchens and Manchus the same people?**",
+      "The later Manchus included descendants of Jurchen populations, but Manchu identity and institutions developed in a different political context. Continuity exists, but the terms are not interchangeable."
+    ],
+    quote:
+      "> The Jin Dynasty survived the fall of its capital, the death of Genghis Khan and decades of Mongol pressure before Caizhou finally fell in 1234.",
+    references: [
+      {
+        name: "Cambridge History of China: The Chin Dynasty",
+        url: "https://www.cambridge.org/core/books/abs/cambridge-history-of-china/chin-dynasty/9A002141ECF7831A4AA0C4E0A3231334"
+      },
+      {
+        name: "Encyclopaedia Britannica: Jin Dynasty, 1115–1234",
+        url: "https://www.britannica.com/topic/Jin-dynasty-China-Mongolia-1115-1234"
+      },
+      {
+        name: "Encyclopaedia Iranica: Jurchen and Jin history",
+        url: "https://www.iranicaonline.org/articles/jurchen"
+      },
+      {
+        name: "Cambridge: Economic history of China and the Jin conquest",
+        url: "https://www.cambridge.org/core/books/abs/economic-history-of-china/heyday-of-the-jiangnan-economy-1127-to-1550/98F7DE2BDBB85B989C20392F42D49192"
+      },
+      {
+        name: "Library of Congress: Chronology of the Jin Dynasty",
+        url: "https://tile.loc.gov/storage-services/public/gdcmassbookdig/mongoliacountrys00word_0/mongoliacountrys00word_0.pdf"
+      },
+      {
+        name: "OpenStax: Song China and the steppe peoples",
+        url: "https://openstax.org/books/world-history-volume-1/pages/14-1-song-china-and-the-steppe-peoples"
+      },
+      {
+        name: "PRESDA: Mongol Empire history",
+        url: "/articles/mongol-empire-genghis-khan-conquests-legacy/"
+      },
+      {
+        name: "PRESDA: Han Dynasty history",
+        url: "/articles/han-dynasty-china-silk-road-history-legacy/"
+      }
+    ],
+    tags: [
+      "Jurchen Jin Dynasty",
+      "Jin Dynasty 1115–1234",
+      "Wanyan Aguda",
+      "Jingkang Incident",
+      "Zhongdu",
+      "Kaifeng",
+      "Genghis Khan",
+      "Mongol conquest of China",
+      "Jurchens and Manchus",
+      "Chinese history",
+      "History"
+    ],
+    readingTime: "10 min read",
+    faq: [
+      {
+        question: "Which Jin Dynasty does this article cover?",
+        answer: "The Jurchen Jin Dynasty of 1115–1234, not the earlier Western and Eastern Jin dynasties of 266–420."
+      },
+      {
+        question: "What was the Jingkang Incident?",
+        answer: "In 1127, Jin forces captured the Northern Song capital and took the Song emperors and imperial household north, after which the Southern Song ruled from the south."
+      },
+      {
+        question: "Did Zhongdu’s fall end the Jin Dynasty?",
+        answer: "No. Zhongdu fell in 1215, but the Jin court moved to Kaifeng and resisted until the fall of Caizhou in 1234."
+      },
+      {
+        question: "Did Genghis Khan complete the conquest of Jin?",
+        answer: "He began the invasion in 1211 but died in 1227. Ögedei Khan and later commanders, with Southern Song cooperation, completed it in 1234."
+      },
+      {
+        question: "Are Jurchens and Manchus identical?",
+        answer: "The later Manchus included descendants of Jurchen populations, but Manchu identity and institutions developed in a different political context."
+      }
+    ]
   }
 ];
 
