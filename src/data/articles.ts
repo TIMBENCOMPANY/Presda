@@ -34735,6 +34735,155 @@ export const articles: Article[] = [
           "Roman control developed in stages. Juba I’s defeat in 46 BCE ended his independent kingdom, followed by client arrangements and provincial reorganizations."
       }
     ]
+  },
+  {
+    id: "146",
+    slug: "cahokia-great-native-american-city-before-columbus",
+    title: "CAHOKIA: THE GREAT NATIVE AMERICAN CITY BEFORE COLUMBUS",
+    seoTitle: "Cahokia History: The Great Native American City Before Columbus",
+    metaDescription:
+      "Discover Cahokia near St. Louis, the Mississippian city of Monks Mound, Woodhenge, trade networks, Mound 72 and its debated decline.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "CAHOKIA",
+      gold: "THE GREAT NATIVE AMERICAN CITY"
+    },
+    excerpt:
+      "Near present-day St. Louis, Cahokia became the largest known pre-Columbian urban center north of Mexico, organized around mounds, plazas, farming and river trade.",
+    category: "History",
+    date: "2026-09-29",
+    lastUpdated: "2026-09-29",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/cahokia-native-americans-mississippian.png",
+    coverAlt:
+      "Editorial reconstruction of Cahokia with earthen mounds, a Grand Plaza, timber posts and the Mississippi River landscape",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "Cahokia was a large Indigenous city and ceremonial center near the Mississippi River, across from present-day St. Louis and primarily within modern Illinois. It grew rapidly around 1050 CE and became the largest known pre-Columbian urban center north of Mexico. Its builders belonged to the wider Mississippian cultural world, but Cahokia was one particular place, not a name for every Indigenous society east of the Mississippi.",
+      "Archaeologists use the later name Cahokia because the city’s original name is not known. The site was not an empty landscape waiting for a city. Indigenous communities had lived, farmed, hunted and built ceremonial places in the American Bottom for thousands of years before the major expansion. Nor did all of Cahokia’s people mysteriously vanish. The city was largely depopulated before sustained European colonization, while Indigenous peoples continued to live across the Mississippi Valley and remain connected to the region in different ways.",
+      "## THE MISSISSIPPIAN WORLD BEFORE CAHOKIA",
+      "Cahokia emerged from older Woodland and Late Woodland traditions that included village life, horticulture, pottery, exchange and mound building. Communities in the Mississippi Valley cultivated native plants and later expanded maize agriculture, while maintaining networks that moved stone, shell, copper, pigments and finished objects over long distances. These traditions supplied the knowledge and social relationships that made a larger urban center possible.",
+      "The term Mississippian describes a broad archaeological tradition, usually dated in this region from about 800 to 1350 CE. It does not identify one tribe, language or centralized state. Communities at Moundville, Etowah, Spiro and many other centers developed their own histories while sharing features such as platform mounds, plazas, agricultural practices and religious imagery. Cahokia was the largest and most influential of these centers, but it was part of a diverse cultural landscape.",
+      "## THE BIG BANG AROUND 1050",
+      "Around 1050 CE, Cahokia expanded with unusual speed. Archaeologists often call this transformation the Big Bang because houses, plazas, mounds, palisades and public works appeared on a scale that changed the entire American Bottom. People moved into the settlement from nearby communities and from farther away, bringing different skills, foods, objects and traditions. The city’s growth was therefore a process of aggregation as well as local population increase.",
+      "Population estimates remain uncertain because houses, neighborhoods and site boundaries changed over time. UNESCO summarizes estimates of roughly 10,000 to 20,000 people at Cahokia’s peak between 1050 and 1150, while estimates for a wider Greater Cahokia region can be higher. These figures are models based on settlement area, house density and other evidence, not a surviving census. Even the cautious range places Cahokia among the largest cities of its era in North America and comparable in scale to many European cities.",
+      "Cahokia’s political organization is also debated. Archaeology shows hierarchy, coordinated labor and elite control of public spaces, but it does not provide a list of kings or prove a single centralized empire. Scholars variously describe Cahokia as a city-state, a complex chiefdom, a regional polity or a network of communities whose relationships changed. Those terms are interpretations of evidence, not names used by the people who built the city.",
+      "## MONKS MOUND AND THE GRAND PLAZA",
+      "Monks Mound dominates the site. Built in fourteen major stages, it covers about six hectares and rises roughly 30 meters in four terraces, making it the largest prehistoric earthen structure in the Americas. Workers carried soil, clay and other materials in baskets and built the mound in layers. A large structure or structures once stood on its summit, where leaders could oversee ceremonies and the city below.",
+      "The Grand Plaza south of Monks Mound created an enormous open space for gatherings, games, ceremonies and political display. Platform mounds around the plaza supported buildings, while conical and ridgetop mounds served other purposes, including burial. Residential neighborhoods extended beyond the ceremonial core. The arrangement shows that Cahokia was an organized urban landscape with public, residential, agricultural and specialized activity zones.",
+      "Palisades enclosed parts of the settlement at different moments. Their construction required large quantities of timber and labor, and their rebuilding suggests changing security needs or political priorities. The walls did not make Cahokia a fortress in the modern sense. They marked selected spaces, managed movement and reinforced the distinction between public centers and surrounding neighborhoods.",
+      "## WOODHENGE AND THE SUN",
+      "Archaeologists identified circles of large timber posts west of Monks Mound and call them Woodhenge. Several circles were built and rebuilt over time. Their posts aligned with sunrise positions at solstices and equinoxes, creating a way to observe seasonal movements of the sun. The circles may have supported ceremonies, calendrical knowledge and claims to religious authority. They were not simply observatories separated from society; astronomy, ritual and political life were connected.",
+      "Because the wooden posts decayed, archaeologists reconstruct Woodhenge from postholes and alignments. The reconstructed circle at the state historic site is an interpretation based on excavation, not an untouched ancient structure. It helps visitors understand scale while reminding us that the original buildings, colors, ceremonies and spoken meanings are only partly recoverable.",
+      "## FOOD, RIVER TRADE AND DAILY LIFE",
+      "Maize became central to Cahokian food production, alongside beans, squash, sunflowers and other crops. Farmers used fertile floodplain soils, managed fields and supplemented crops with fishing, hunting and gathering. The Mississippi River and its tributaries provided transport, fish, wetlands and access to distant communities. Cahokia’s urban population depended on a close relationship between the city, nearby farms and a large regional hinterland.",
+      "Trade brought marine shell from the Gulf Coast, copper from the Great Lakes region, stone from distant geological sources, mica, galena and unusual animal materials. Some objects were practical tools, while others carried prestige or ritual significance. Archaeologists study their materials and styles to trace connections, but an imported object does not automatically prove political conquest. Exchange, pilgrimage, marriage, migration and gift giving could all move people and things.",
+      "Everyday life included cooking, craft production, house building, farming and public gatherings. Houses were often made from wood, thatch and plaster, materials that leave less dramatic traces than earthworks. The surviving mounds can make Cahokia look like a city of monuments alone, yet its success depended on ordinary labor and knowledge distributed through households and neighborhoods.",
+      "## POLITICAL LEADERSHIP, RELIGION AND ART",
+      "Cahokia’s public works imply leaders who could mobilize labor, organize food and direct ceremonies. Elite residences, special burials and the spatial separation of plazas from ordinary houses suggest unequal access to authority and resources. That does not allow historians to invent a named dynasty or a single royal court. Leadership may have been expressed through offices, lineages, ritual specialists and alliances among communities.",
+      "Mississippian religious life centered on relationships among humans, ancestors, animals, celestial forces and the landscape. Art associated with Cahokia includes engraved shell, copper plates, pottery, stone figures and objects showing birds of prey, serpents, supernatural beings and figures often interpreted through the broader Mississippian Southeastern Ceremonial Complex. Meanings varied, and archaeologists avoid treating one symbol as a universal dictionary entry.",
+      "The wider [history of Native American peoples](/articles/native-americans-history-indigenous-peoples/) shows why Cahokia belongs within a long Indigenous history rather than a story that begins with European contact. Cahokia’s urban scale was extraordinary, but it rested on older traditions and remained part of a continent-wide world of Indigenous communities.",
+      "## MOUND 72 AND THE QUESTION OF SACRIFICE",
+      "Mound 72, a ridge-top mound south of the Grand Plaza, contains one of the most studied and difficult burial contexts in North American archaeology. Excavations revealed a central burial of an adult man associated with a rich arrangement of shell beads and other materials, as well as mass graves containing many young women and additional individuals. The pattern indicates high-status ritual and unequal power, but the exact sequence and meaning remain debated.",
+      "Many researchers interpret some of the mass burials as evidence for human sacrifice, perhaps involving captives or people controlled by elite institutions. Skeletal, dental and isotope studies have explored whether some individuals came from outside Cahokia. Other scholars emphasize that burial treatments, violence and ritual cannot be reduced to one label without reconstructing the chronology and context carefully. Earlier interpretations treated the central burial as a straightforward ruler’s grave; newer research has questioned parts of that model and reexamined the mound’s relationship to Woodhenge and Cahokian cosmology.",
+      "The evidence should be discussed plainly without sensationalism. Mound 72 documents violence and extraordinary ritual inequality at one moment in Cahokia’s history. It does not define all Mississippian societies or justify portraying Indigenous North America as uniquely violent. Archaeological interpretation changes as methods improve and communities ask new questions of old collections.",
+      "## CONNECTIONS ACROSS EASTERN NORTH AMERICA",
+      "Cahokia’s influence reached far beyond the American Bottom. Cahokian-style objects, mound forms, religious imagery and settlement practices appear at sites across the Mississippi Valley, the Southeast and parts of the Midwest. Some communities adopted ideas selectively, while others maintained their own traditions. The pattern resembles a network of interaction rather than a map of provinces ruled from one capital.",
+      "People traveled to Cahokia for trade, ceremony, political negotiation or residence, and Cahokian communities participated in wider exchanges. The city’s centrality changed over time. By the thirteenth century, other centers had grown, and local communities were not simply waiting for orders from a distant ruler. Regional connections continued even as Cahokia’s own population declined.",
+      "## PEAK, DECLINE AND THE LIMITS OF A SINGLE EXPLANATION",
+      "Cahokia’s peak lay broadly in the eleventh and early twelfth centuries, although different neighborhoods and institutions flourished at different dates. After roughly 1200, archaeological evidence indicates population decline, changes in settlement patterns and reduced political centrality. The process was gradual and uneven rather than a single abandonment event.",
+      "Researchers discuss several possible factors: flooding and changing river channels, pressure on forests and other resources, soil and food-production challenges, political conflict, disease, social resistance, migration and the rise of rival centers. Climate and environmental changes may have made some systems harder to maintain, but no single cause has been proven. Cahokia’s decline likely resulted from interactions between ecological pressures and human decisions.",
+      "By the time of sustained European exploration and colonization in the region, Cahokia was largely depopulated as an urban center. That does not mean the Mississippi Valley was empty. Indigenous nations continued to live, travel, trade and maintain political and spiritual relationships across the region. Later communities were affected by epidemics, warfare, land seizure and removal policies, and the destruction of mounds erased much of the visible landscape.",
+      "## ARCHAEOLOGY, PRESERVATION AND LEGACY",
+      "Modern archaeology transformed Cahokia from a landscape often dismissed by outsiders into evidence of Indigenous urbanism, engineering and political creativity. Excavations, mapping, radiocarbon dating, botanical analysis, isotope studies and collaborations with descendant and regional communities continue to revise the story. The name Cahokia is useful for the archaeological site, but it should not be mistaken for the city’s original self-name or used to claim a simple direct identity with one modern tribe.",
+      "Cahokia Mounds State Historic Site preserves Monks Mound, the Grand Plaza, Woodhenge reconstructions, palisade areas and other archaeological features. UNESCO inscribed the site as a World Heritage Site in 1982. Preservation remains urgent because roads, farming, construction and earlier collecting destroyed many mounds and buried contexts. The surviving landscape represents only part of the former city and its surrounding settlements.",
+      "Cahokia matters because it changes the scale of North American history. It demonstrates that Indigenous societies built a major urban center through agriculture, river transport, trade, ritual and coordinated labor long before Columbus. Its history also rewards caution. Cahokia was neither an isolated mystery nor an empire with a known royal dynasty. It was a changing city in a sophisticated Mississippian world, and its legacy belongs to the continuing history of Indigenous North America.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**Where was Cahokia located?**",
+      "Cahokia stood in the American Bottom near present-day St. Louis, primarily in modern Illinois at the Cahokia Mounds State Historic Site.",
+      "**Was Cahokia an empire?**",
+      "Cahokia was a large urban and ceremonial center with regional influence. Scholars debate whether it is best described as a city-state, complex chiefdom or another kind of polity. There is no evidence for a named empire or dynasty in the modern sense.",
+      "**How many people lived at Cahokia?**",
+      "UNESCO summarizes estimates of about 10,000 to 20,000 people at the city’s peak, while wider Greater Cahokia estimates can be higher. These are scholarly models, not census figures.",
+      "**What was Monks Mound used for?**",
+      "Monks Mound was a massive, multi-stage platform that supported important structures and public authority. It was not primarily a burial mound, although other Cahokia mounds served funerary purposes.",
+      "**Did Cahokians practice human sacrifice?**",
+      "Mound 72 contains burials that many researchers interpret as evidence of human sacrifice or lethal ritual violence. The chronology, identities and meanings remain subjects of ongoing archaeological debate.",
+      "**Why did Cahokia decline?**",
+      "Cahokia’s decline after roughly 1200 likely involved interacting environmental, political, social and economic factors. No single proven cause explains the city’s depopulation."
+    ],
+    quote:
+      "> Cahokia was a sophisticated Indigenous city whose mounds, farms, river networks and ceremonies connected the Mississippi Valley long before European colonization.",
+    references: [
+      {
+        name: "UNESCO World Heritage Centre: Cahokia Mounds",
+        url: "https://whc.unesco.org/en/list/198"
+      },
+      {
+        name: "National Park Service: Cahokia Mounds World Heritage Site",
+        url: "https://www.nps.gov/articles/000/cahokia-mounds-state-historic-site-world-heritage-site.htm"
+      },
+      {
+        name: "Cahokia Mounds State Historic Site: Mound 72",
+        url: "https://cahokiamounds.org/mound/mound-72/"
+      },
+      {
+        name: "University of Illinois: Human sacrifice and skeletal evidence at Mound 72",
+        url: "https://experts.illinois.edu/en/publications/human-sacrifice-in-the-late-prehistoric-american-bottom-skeletal-/"
+      },
+      {
+        name: "Wiley: New dental and isotope evidence from Mound 72",
+        url: "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.22791"
+      },
+      {
+        name: "Cahokia Mounds State Historic Site: Explore the mounds",
+        url: "https://cahokiamounds.org/explore/"
+      },
+      {
+        name: "National Park Service: Mississippian Period",
+        url: "https://www.nps.gov/articles/000/mississippian-period-500-to-1-000-years-ago.htm"
+      },
+      {
+        name: "National Park Service: Indigenous landscapes",
+        url: "https://www.nps.gov/articles/visit-indigenous-landscapes.htm"
+      }
+    ],
+    tags: [
+      "Cahokia",
+      "Cahokia Mounds",
+      "Mississippian culture",
+      "Native American history",
+      "Monks Mound",
+      "Woodhenge",
+      "Mound 72",
+      "Indigenous North America",
+      "Pre-Columbian history",
+      "Illinois history",
+      "History"
+    ],
+    readingTime: "10 min read",
+    faq: [
+      {
+        question: "Where was Cahokia located?",
+        answer:
+          "Cahokia stood in the American Bottom near present-day St. Louis, primarily in modern Illinois at the Cahokia Mounds State Historic Site."
+      },
+      {
+        question: "How many people lived at Cahokia?",
+        answer:
+          "UNESCO summarizes estimates of about 10,000 to 20,000 people at the city’s peak, while wider regional estimates can be higher."
+      },
+      {
+        question: "Did Cahokians practice human sacrifice?",
+        answer:
+          "Mound 72 contains burials that many researchers interpret as evidence of human sacrifice or lethal ritual violence, though details remain debated."
+      },
+      {
+        question: "Why did Cahokia decline?",
+        answer:
+          "Cahokia’s decline after roughly 1200 likely involved interacting environmental, political, social and economic factors rather than one proven cause."
+      }
+    ]
   }
 ];
 
