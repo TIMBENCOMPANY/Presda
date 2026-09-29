@@ -21,8 +21,8 @@ export type Article = {
   schemaType?: "Article" | "NewsArticle";
   headlineAccent?: string;
   headlineHighlights?: {
-    red?: string;
-    gold?: string;
+    red?: string | string[];
+    gold?: string | string[];
   };
   excerpt: string;
   category: ArticleCategory;
@@ -35216,7 +35216,7 @@ export const articles: Article[] = [
     schemaType: "Article",
     headlineHighlights: {
       red: "AYYUBID DYNASTY",
-      gold: "SALADIN AND JERUSALEM"
+      gold: ["SALADIN", "JERUSALEM"]
     },
     excerpt:
       "The Ayyubids united Egypt and much of Syria through a flexible family confederation. Saladin’s victory at Hattin and negotiated reconquest of Jerusalem made the dynasty central to the history of the Crusades.",

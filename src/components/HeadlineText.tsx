@@ -1,6 +1,6 @@
 export type HeadlineHighlights = {
-  red?: string;
-  gold?: string;
+  red?: string | string[];
+  gold?: string | string[];
 };
 
 type HeadlineTextProps = {
@@ -17,8 +17,8 @@ type Match = {
 
 export function HeadlineText({ title, highlights, legacyRed }: HeadlineTextProps) {
   const matches = [
-    findPhrase(title, highlights?.red ?? legacyRed, "red"),
-    findPhrase(title, highlights?.gold, "gold")
+    ...toPhrases(highlights?.red ?? legacyRed).map((phrase) => findPhrase(title, phrase, "red")),
+    ...toPhrases(highlights?.gold).map((phrase) => findPhrase(title, phrase, "gold"))
   ]
     .filter((match): match is Match => Boolean(match))
     .sort((a, b) => a.start - b.start)
@@ -78,4 +78,8 @@ function findPhrase(title: string, phrase: string | undefined, tone: Match["tone
     end: start + phrase.length,
     tone
   };
+}
+
+function toPhrases(value: string | string[] | undefined): string[] {
+  return value ? (Array.isArray(value) ? value : [value]) : [];
 }
