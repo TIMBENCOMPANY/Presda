@@ -1,4 +1,5 @@
 import { isPublishedArticle, validatePublishedArticles } from "@/lib/articleValidation";
+import { croatiaArticle } from "@/data/croatiaArticle";
 
 export type ArticleCategory =
   | "Travel"
@@ -35502,7 +35503,8 @@ export const articles: Article[] = [
         answer: "The later Manchus included descendants of Jurchen populations, but Manchu identity and institutions developed in a different political context."
       }
     ]
-  }
+  },
+  croatiaArticle
 ];
 
 export const categories: ArticleCategory[] = [
