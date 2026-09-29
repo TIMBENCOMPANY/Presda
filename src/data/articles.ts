@@ -35205,6 +35205,159 @@ export const articles: Article[] = [
         answer: "The city is associated with the Jewish Temple traditions, the Christian Passion and resurrection of Jesus, and the Islamic Night Journey, first qibla and Haram al-Sharif."
       }
     ]
+  },
+  {
+    id: "149",
+    slug: "ayyubid-dynasty-saladin-empire-jerusalem",
+    title: "THE AYYUBID DYNASTY: HOW SALADIN BUILT AN EMPIRE AND RETOOK JERUSALEM",
+    seoTitle: "Ayyubid Dynasty History: Saladin, Hattin and Jerusalem",
+    metaDescription:
+      "Follow the Ayyubid dynasty from Saladin’s rise in Egypt and Syria to Hattin, the reconquest of Jerusalem, the Third Crusade and the Mamluk transition.",
+    schemaType: "Article",
+    headlineHighlights: {
+      red: "AYYUBID DYNASTY",
+      gold: "SALADIN AND JERUSALEM"
+    },
+    excerpt:
+      "The Ayyubids united Egypt and much of Syria through a flexible family confederation. Saladin’s victory at Hattin and negotiated reconquest of Jerusalem made the dynasty central to the history of the Crusades.",
+    category: "History",
+    date: "2026-09-29",
+    lastUpdated: "2026-09-29",
+    author: "PRESDA Editorial",
+    coverImage: "/articles/ayyubid-dynasty-saladin-jerusalem.png",
+    coverAlt:
+      "Editorial reconstruction of Saladin approaching Crusader-held Jerusalem before its surrender in 1187",
+    homepageImagePosition: "50% 50%",
+    content: [
+      "The Ayyubid dynasty emerged from the political struggles of the twelfth-century Middle East. Its most famous ruler, Salah al-Din Yusuf ibn Ayyub, known in Europe as Saladin, ended the Fatimid caliphate in Egypt, built power across Egypt and Syria, defeated the main Crusader army at Hattin on 4 July 1187 and retook Jerusalem in October. The realm was not a centralized modern state but a dynastic confederation in which relatives governed provinces and sometimes fought one another.",
+      "‘Ayyubid’ here means the ruling family and its political network, not every Muslim community in the region. Saladin was of Kurdish family origin, recorded in medieval sources, but that should not be turned into a modern nationalist category. His armies and administration included Kurds, Turks, Arabs, Armenians, Africans and others.",
+      "## THE POLITICAL WORLD BEFORE THE AYYUBIDS",
+      "The eastern Mediterranean was divided among the Latin Christian Crusader states, the Zengid rulers of northern Syria and Iraq, and the Shi‘i Fatimid caliphate in Egypt. The Kingdom of Jerusalem controlled a chain of cities and castles but depended on local alliances, military orders and support from Europe. The Zengid ruler Nur al-Din Mahmud held Aleppo and Damascus and presented himself as a defender of Sunni Islam against both the Crusaders and the Fatimids.",
+      "## SALADIN’S FAMILY AND SERVICE UNDER THE ZENGIDS",
+      "Saladin’s father, Najm al-Din Ayyub, and uncle Asad al-Din Shirkuh belonged to a Kurdish family that entered the Zengid military establishment. Saladin was born in 1137 or 1138 at Tikrit and grew up in the orbit of Zengid power. He served with Shirkuh during campaigns in Syria and Egypt. The family’s advancement depended on military skill, patronage and the changing needs of rulers rather than on a hereditary kingdom of its own.",
+      "In 1163, the Fatimid vizier Shawar sought Zengid help against his rivals. Shirkuh intervened, while the Crusader king Amalric I also tried to control Egypt. Several campaigns followed. The struggle ended in 1169 when Shirkuh became vizier but died soon afterward. Saladin, his nephew, succeeded him as vizier at a relatively young age. The appointment placed him at the center of Fatimid government while he remained formally subordinate to Nur al-Din.",
+      "## 1169–1174: FROM FATIMID VIZIER TO INDEPENDENT SULTAN",
+      "Saladin consolidated the Egyptian army, managed the treasury and neutralized rival commanders. In 1171 he ended the Fatimid caliphate and restored the public allegiance of Egypt to the Abbasid caliph in Baghdad. Sunni institutions expanded, but the transition was not an overnight social revolution. Fatimid officials, tax practices and administrative personnel continued in modified form. The later legend that Saladin destroyed every Fatimid library is rejected by modern scholarship; the evidence shows a complex institutional transition.",
+      "Nur al-Din died in 1174, leaving a young heir and a succession crisis. Saladin moved from Egypt into Syria, presenting his campaigns as necessary to protect the Zengid inheritance and the struggle against the Crusaders. He took Damascus and gradually extended influence over Hama, Homs, Aleppo and parts of the Jazira. Some cities submitted, others resisted, and several Ayyubid relatives received appanages in return for loyalty. Saladin’s authority was real but negotiated.",
+      "## HOW THE AYYUBID CONFEDERATION WORKED",
+      "Ayyubid government rested on the iqta system, through which military commanders received rights to collect revenue from assigned lands instead of a simple salaried bureaucracy. The system financed cavalry, linked provincial power to military service and gave rulers a way to reward relatives and amirs. It also made authority uneven. A governor who controlled a city’s taxes and troops could bargain with the sultan, delay obedience or seek another family patron.",
+      "The dynasty sponsored Sunni madrasas, mosques, shrines, hospitals and charitable endowments. Building programs expressed religious commitments and strengthened urban government. Saladin began the Cairo Citadel in 1176 to protect Cairo and Fustat from Crusader attack and to create a secure governmental center. His successors continued it. In Syria, citadels, walls and schools reshaped Damascus, Aleppo and other cities. The [Ayyubid period’s fortifications and madrasas](https://www.metmuseum.org/es/essays/the-art-of-the-ayyubid-period-ca-1171-1260) are among its clearest surviving legacies.",
+      "## THE ROAD TO HATTIN",
+      "Saladin fought and negotiated with the Crusader states for more than a decade before 1187. Truces allowed trade and prisoner exchanges, while raids and frontier disputes continued. The young Kingdom of Jerusalem depended on rival nobles, and disputes between King Guy of Lusignan, Raymond of Tripoli and other lords weakened strategic unity. The most explosive issue was the activity of Raynald of Châtillon, whose attacks on Muslim caravans and Red Sea shipping violated truces and threatened the pilgrimage routes to Mecca.",
+      "In 1187, Saladin assembled forces from Egypt, Syria and allied principalities. The Crusader army marched from Sepphoris toward Tiberias to relieve the city, choosing a route away from reliable water. Saladin’s troops harassed the column, blocked access to springs and set fires that worsened heat and thirst. On 4 July, the armies fought near the Horns of Hattin. The Crusader field army was surrounded, exhausted and defeated. Contemporary accounts disagree on numbers, so claims of exact totals should be treated cautiously.",
+      "King Guy was captured along with many nobles, and the True Cross was taken. The defeat destroyed the principal field army that defended the Kingdom of Jerusalem. Saladin’s forces then moved rapidly against Crusader strongholds. Acre, Jaffa, Ascalon and other towns surrendered or were captured, often after local negotiations. Some garrisons resisted, but the Crusader state’s network of castles could not replace the army lost at Hattin.",
+      "Raynald of Châtillon was brought before Saladin after the battle. Several contemporary Muslim and Christian accounts connect his execution to his attacks and his refusal to accept Islam. Later stories add dramatic dialogue and details that cannot all be verified. The safest conclusion is that Saladin ordered Raynald killed while sparing King Guy and many other captives, a political act that combined punishment, mercy and the management of elite prisoners.",
+      "## JERUSALEM IN 1187: SURRENDER AND RESTORATION",
+      "Jerusalem was still under Crusader Christian rule when Saladin’s army arrived. The city’s defenders were led by Balian of Ibelin, while many nobles and soldiers had been captured at Hattin. The siege began in September and ended with a negotiated surrender on 2 October 1187. This was a conquest of the Crusader kingdom’s capital, not a city taken from an already established Ayyubid administration.",
+      "The Crusaders had transformed the Haram al-Sharif. The Dome of the Rock was used as the Templum Domini, and a cross was placed above its dome. The southern mosque was used by the Templars as a headquarters and palace. After the surrender, Saladin removed the cross, cleansed the shrine according to Islamic practice and restored Muslim worship in the Haram. These actions were both religious and political, declaring a new order in the city’s most contested sacred space.",
+      "Surrender terms allowed many Christian inhabitants to leave after paying ransom. Wealthier residents, churches and military orders helped raise money, but some poor people could not pay and were enslaved or remained vulnerable. Eastern Christian communities often received different treatment from Latin clergy, and later traditions emphasize Saladin’s generosity in ways that should be balanced against coercion and displacement. The 1187 settlement was less indiscriminate than the Crusader massacre of Muslims and Jews in 1099, but it was not free of violence or unequal status.",
+      "The contrast between 1099 and 1187 should not become a morality play. Both conquests were acts of war shaped by siege conditions, religious claims, ransom and control of urban populations. Modern historians compare Latin, Arabic and Hebrew sources because each has rhetorical purposes. Saladin’s decision to negotiate Jerusalem’s surrender helped him consolidate power, while his restoration of Islamic worship made the conquest a lasting symbol.",
+      "## THE THIRD CRUSADE",
+      "News of Jerusalem’s fall shocked Latin Christendom. Emperor Frederick Barbarossa, King Philip II of France and Richard I of England took the cross, although Barbarossa died en route and Philip returned after the capture of Acre. Richard arrived in 1191 and joined the siege of Acre, which fell after a long blockade and negotiations over prisoners, money and the True Cross.",
+      "Richard’s army defeated Saladin at Arsuf on 7 September 1191 and recovered parts of the coast. The victory showed the strength of disciplined heavy cavalry and naval supply, but it did not destroy the Ayyubid state. Richard judged that Jerusalem could not be held safely without control of the surrounding interior and reliable reinforcements. He advanced toward the city more than once, then withdrew rather than risk a siege that might end in disaster.",
+      "The Treaty of Jaffa in 1192 recognized a coastal Crusader presence and allowed Christian pilgrims access to Jerusalem. The city itself remained under Saladin’s authority. Pilgrimage and sovereignty were therefore separated, a pattern that later treaties repeated. Richard and Saladin never met in a final duel, despite romantic traditions. Their conflict ended through bargaining after years of warfare, not through a single decisive battlefield victory.",
+      "## AFTER SALADIN: FAMILY PARTITION AND REUNIFICATION",
+      "Saladin died in Damascus in March 1193. He left a large but fragile family realm. His sons, brothers and nephews divided Egypt, Damascus, Aleppo, Yemen and other territories. Al-Afdal ruled Damascus for a time, al-Aziz held Egypt, and al-Zahir governed Aleppo. Rivalry among these branches allowed Crusader diplomacy and local coalitions to influence the balance.",
+      "Saladin’s brother al-Adil reunited much of the dynasty’s territory and became sultan in 1200. He preferred diplomacy when it protected Ayyubid interests, maintaining truces with the Crusaders while strengthening Egypt and Syria. His son al-Kamil inherited Egypt and faced the Fifth Crusade, whose armies captured Damietta in 1219 but failed to force a settlement. Negotiations eventually brought the Crusaders to withdraw.",
+      "Al-Kamil’s diplomacy with Frederick II produced the Treaty of Jaffa in 1229. Without a major battle, the treaty transferred Jerusalem, Bethlehem and a corridor to the coast to Christian control for a limited period, while the Haram remained under Muslim authority and the city’s Muslim residents retained rights. Frederick entered Jerusalem and claimed the crown, but the arrangement was controversial among both Christians and Muslims. It demonstrates that Ayyubid strategy included treaties that could temporarily cede sacred territory to preserve wider power.",
+      "The treaty did not end the struggle. Jerusalem returned to Muslim control in the 1240s after the truce expired and regional alliances changed. In 1244, Khwarazmian forces allied with some Ayyubid factions entered the city and defeated the Crusader army at La Forbie. Louis IX’s Seventh Crusade against Egypt ended with his defeat and capture at al-Mansurah in 1250.",
+      "## MAMLUK SOLDIERS AND THE END OF AYYUBID EGYPT",
+      "Ayyubid rulers relied heavily on mamluk soldiers, military slaves trained in elite cavalry households. Mamluks were not a single ethnic group; many came from Turkic and other regions north of the Black Sea and steppe. Their military importance gave commanders political leverage, especially when a sultan died without a clear succession.",
+      "Sultan al-Salih Ayyub died during the Seventh Crusade. His widow Shajar al-Durr concealed the death long enough to manage the crisis, and the army defeated Louis IX before the new ruler Turanshah arrived. Tensions between Turanshah and the leading mamluks ended with Turanshah’s murder in 1250. Shajar al-Durr briefly ruled Egypt and then shared power with the mamluk commander Aybak. This was the Mamluk takeover of Egypt, though Ayyubid princes continued to rule in Syria.",
+      "Ayyubid branches remained in Damascus, Aleppo, Hama, Homs and the Jazira. Mongol expansion transformed the political map after 1258. In 1260, the Mongol destruction of the Syrian Ayyubid kingdom allowed the Mamluks to seize former Ayyubid territories after their victory at Ayn Jalut. Independent Ayyubid power declined, but the branch at Hisn Kayfa in southeastern Anatolia survived for centuries, until the fifteenth century according to Encyclopaedia Iranica.",
+      "## LEGACY OF THE AYYUBIDS",
+      "Saladin became different figures in different memories. Muslim chroniclers praised his defense of Islam and restoration of Jerusalem, Kurdish and Arab communities incorporated him into distinct histories, and European writers gradually transformed him into a courteous chivalric opponent. None of these memories is a neutral biography. His actual career included coalition-building, taxation, siege warfare, executions and pragmatic treaties as well as personal piety and political skill.",
+      "Ayyubid architecture survives in citadels, city walls, mosques, madrasas, hospitals and mausoleums. The Cairo Citadel, begun under Saladin and completed by successors, became a government center for later dynasties. Sunni educational foundations reshaped Cairo, Damascus and Aleppo after the Fatimid period, while fortifications answered the military pressures of Crusader and regional warfare. Women of the dynasty, including Shajar al-Durr and Saladin’s relatives, also commissioned important buildings.",
+      "## FREQUENTLY ASKED QUESTIONS",
+      "**Was the Ayyubid state a centralized empire?**",
+      "No. It was a dynastic confederation. Saladin and later sultans controlled major centers, but relatives and military governors ruled provinces with substantial autonomy and sometimes fought one another.",
+      "**What did Saladin do in Egypt in 1171?**",
+      "He ended the Fatimid caliphate and restored public allegiance to the Abbasid caliph in Baghdad while preserving and adapting much of Egypt’s existing administrative system.",
+      "**What happened at Hattin?**",
+      "On 4 July 1187, Saladin’s army defeated and captured much of the Crusader field army, including King Guy of Lusignan. The defeat opened the way for the Ayyubid capture of major Crusader towns and Jerusalem.",
+      "**Did Saladin destroy the Crusader Kingdom of Jerusalem immediately?**",
+      "Hattin and the loss of Jerusalem shattered the kingdom’s inland power, but Crusader coastal states survived. The Third Crusade and later treaties restored a reduced Crusader presence along the coast.",
+      "**How did Jerusalem change after the 1187 surrender?**",
+      "The cross was removed from the Dome of the Rock, the Templum Domini was returned to Islamic use, and many Christian inhabitants left after ransom payments. Some could not pay and faced enslavement or other coercion.",
+      "**When did Ayyubid rule end?**",
+      "Mamluk commanders took power in Egypt in 1250, but Ayyubid branches survived in Syria and at Hisn Kayfa. Mongol expansion and Mamluk victories ended most independent Ayyubid rule by the 1260s."
+    ],
+    quote:
+      "> The Ayyubid achievement was a negotiated family confederation that connected Egypt’s wealth to Syria’s armies and made Jerusalem’s conquest possible.",
+    references: [
+      {
+        name: "Encyclopaedia Iranica: Ayyubids",
+        url: "https://www.iranicaonline.org/articles/ayyubids/"
+      },
+      {
+        name: "Metropolitan Museum of Art: The Art of the Ayyubid Period",
+        url: "https://www.metmuseum.org/es/essays/the-art-of-the-ayyubid-period-ca-1171-1260"
+      },
+      {
+        name: "Government of Cairo: Saladin Citadel",
+        url: "https://cairo.gov.eg/en/culture/cairo-history/ancient-landmarks/salah-el-din-citadel/"
+      },
+      {
+        name: "Egyptian Ministry of Tourism and Antiquities: Citadel of Salah al-Din",
+        url: "https://egymonuments.gov.eg/monuments/the-towers-citadel-of-salah-al-din-ayyubi/"
+      },
+      {
+        name: "White Rose Research: Saladin and the Fatimid book collections",
+        url: "https://eprints.whiterose.ac.uk/id/eprint/127978/"
+      },
+      {
+        name: "Fordham University: Medieval accounts of Hattin",
+        url: "https://sourcebooks.fordham.edu/source/1187hattin.asp"
+      },
+      {
+        name: "Cambridge University Press: Crusader states",
+        url: "https://www.cambridge.org/core/books/abs/geography-technology-and-war/twelfth-and-thirteenth-centuries-the-crusader-states/DA3244B529BC962292C0149B263B9B12"
+      },
+      {
+        name: "PRESDA: Jerusalem’s layered history",
+        url: "/articles/jerusalem-3000-years-kingdoms-faith-conquest/"
+      },
+      {
+        name: "PRESDA: Ottoman Empire history",
+        url: "/articles/ottoman-empire-rise-and-fall/"
+      }
+    ],
+    tags: [
+      "Ayyubid dynasty",
+      "Saladin",
+      "Salah al-Din",
+      "Battle of Hattin",
+      "Jerusalem",
+      "Crusades",
+      "Fatimid Egypt",
+      "Nur al-Din",
+      "Mamluks",
+      "Medieval Middle East",
+      "History"
+    ],
+    readingTime: "11 min read",
+    faq: [
+      {
+        question: "Was the Ayyubid state centralized?",
+        answer: "No. It was a dynastic confederation in which Saladin and later sultans shared power with relatives and military governors who often had substantial autonomy."
+      },
+      {
+        question: "What happened at the Battle of Hattin?",
+        answer: "On 4 July 1187, Saladin defeated much of the Crusader field army and captured King Guy of Lusignan, opening the way to the Ayyubid reconquest of Jerusalem."
+      },
+      {
+        question: "How did Saladin take Jerusalem?",
+        answer: "Jerusalem surrendered by negotiation on 2 October 1187 after the Crusader defeat at Hattin. Many Christians paid ransom to leave, while some unable to pay faced enslavement or other coercion."
+      },
+      {
+        question: "What was the Treaty of Jaffa of 1229?",
+        answer: "Al-Kamil and Frederick II agreed to transfer Jerusalem and nearby territories to Christian control for a limited period while the Haram remained under Muslim authority."
+      },
+      {
+        question: "When did the Ayyubids lose Egypt?",
+        answer: "Mamluk commanders took power in Egypt in 1250 after the death of al-Salih Ayyub and the crisis involving Shajar al-Durr and Turanshah. Ayyubid branches survived elsewhere."
+      }
+    ]
   }
 ];
 
