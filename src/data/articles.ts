@@ -35369,7 +35369,7 @@ export const articles: Article[] = [
     schemaType: "Article",
     headlineHighlights: {
       red: "JIN DYNASTY",
-      gold: "THE EMPIRE GENGHIS KHAN CAME TO DESTROY"
+      gold: ["GENGHIS KHAN", "DESTROY"]
     },
     excerpt:
       "The Jurchen Jin ruled a multiethnic empire across Manchuria and northern China for more than a century before a long Mongol war ended the dynasty in 1234.",
