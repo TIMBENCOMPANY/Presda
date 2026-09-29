@@ -3,6 +3,7 @@ import { croatiaArticle } from "@/data/croatiaArticle";
 import { swedishArticle } from "@/data/swedishArticle";
 import { dutchArticle } from "@/data/dutchArticle";
 import { southAfricaArticle } from "@/data/southAfricaArticle";
+import { armenianArticle } from "@/data/armenianArticle";
 
 export type ArticleCategory =
   | "Travel"
@@ -35510,7 +35511,8 @@ export const articles: Article[] = [
   croatiaArticle,
   swedishArticle,
   dutchArticle,
-  southAfricaArticle
+  southAfricaArticle,
+  armenianArticle
 ];
 
 export const categories: ArticleCategory[] = [
