@@ -1,6 +1,7 @@
 import { isPublishedArticle, validatePublishedArticles } from "@/lib/articleValidation";
 import { croatiaArticle } from "@/data/croatiaArticle";
 import { swedishArticle } from "@/data/swedishArticle";
+import { dutchArticle } from "@/data/dutchArticle";
 
 export type ArticleCategory =
   | "Travel"
@@ -35506,7 +35507,8 @@ export const articles: Article[] = [
     ]
   },
   croatiaArticle,
-  swedishArticle
+  swedishArticle,
+  dutchArticle
 ];
 
 export const categories: ArticleCategory[] = [
