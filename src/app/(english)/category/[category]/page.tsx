@@ -74,7 +74,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   const { slides, sideStories, remaining } = curateCategory(getPublishedArticles(), category);
 
   return (
-    <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-3 sm:w-[min(1500px,calc(100%-32px))] sm:py-4">
+    <main className="mx-auto w-[min(1500px,calc(100%-24px))] pb-3 pt-1 sm:w-[min(1500px,calc(100%-32px))] sm:py-4">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -87,9 +87,9 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
           )
         }}
       />
-      <header className="flex items-center justify-center gap-3 py-5 sm:py-6">
-        <span className="text-[#FF1A1A]"><CategoryIcon category={category} className="h-7 w-7 sm:h-8 sm:w-8" /></span>
-        <h1 className="font-display text-3xl font-extrabold uppercase leading-none sm:text-4xl">{categoryLabels[category]}</h1>
+      <header className="flex items-center justify-center gap-2 py-2 sm:gap-3 sm:py-6">
+        <span className="text-[#FF1A1A]"><CategoryIcon category={category} className="h-6 w-6 sm:h-8 sm:w-8" /></span>
+        <h1 className="font-display text-[26px] font-extrabold uppercase leading-none sm:text-4xl">{categoryLabels[category]}</h1>
       </header>
       <CategoryFeatured key={category} slides={slides.map(toCategoryStory)} sideStories={sideStories.map(toCategoryStory)} />
       {remaining.length > 0 && (
