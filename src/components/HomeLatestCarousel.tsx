@@ -2,7 +2,11 @@
 
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
-import { ArticleCard } from "@/components/ArticleCard";
+import Link from "next/link";
+import { HomeImage } from "@/components/HomeImage";
+import { HeadlineText } from "@/components/HeadlineText";
+import { getArticleCardImage, getArticleCardImagePosition } from "@/lib/articleImages";
+import { categoryLabels, formatDate } from "@/lib/categories";
 import type { ArticleCardRecord } from "@/lib/articleCards";
 
 export function HomeLatestCarousel({ articles }: { articles: ArticleCardRecord[] }) {
@@ -27,16 +31,25 @@ export function HomeLatestCarousel({ articles }: { articles: ArticleCardRecord[]
   }
 
   return (
-    <section aria-labelledby="home-latest-heading">
-      <div className="mb-3 flex items-center justify-between gap-3 border-l-4 border-[#FF1A1A] pl-3">
-        <h2 id="home-latest-heading" className="font-display text-2xl font-extrabold uppercase">Latest Articles</h2>
-        <div className="flex gap-1">
-          <button type="button" aria-label="Previous latest articles" aria-controls="home-latest-track" disabled={edges.start} onClick={() => move(-1)} className="category-image-arrow grid h-11 w-11 place-items-center rounded-xl disabled:opacity-30 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]"><span><ChevronLeft className="h-5 w-5" /></span></button>
-          <button type="button" aria-label="Next latest articles" aria-controls="home-latest-track" disabled={edges.end} onClick={() => move(1)} className="category-image-arrow grid h-11 w-11 place-items-center rounded-xl disabled:opacity-30 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]"><span><ChevronRight className="h-5 w-5" /></span></button>
+    <section aria-labelledby="home-latest-heading" className="home-latest-row">
+      <h2 id="home-latest-heading" className="home-latest-heading font-display text-2xl font-extrabold uppercase">Latest Articles</h2>
+      <div className="home-latest-window relative min-w-0">
+        <div ref={track} id="home-latest-track" className="home-latest-track flex snap-x snap-mandatory gap-3 overflow-x-auto overscroll-x-contain">
+          {articles.map(article => <div key={article.slug}>
+            <Link prefetch={false} href={`/articles/${article.slug}/`} className="home-latest-story group">
+              <div className="home-latest-media relative overflow-hidden">
+                <HomeImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={72} sizes="(max-width: 639px) 112px, (max-width: 1023px) 120px, 160px" className="object-cover" style={{ objectPosition: getArticleCardImagePosition(article) }} />
+              </div>
+              <div className="home-latest-copy">
+                <span className="font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</span>
+                <h3 className="font-display font-extrabold uppercase"><HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} /></h3>
+                <p className="home-latest-meta"><time dateTime={article.date}>{formatDate(article.date)}</time><span>{article.readingTime ?? "3 min read"}</span></p>
+              </div>
+            </Link>
+          </div>)}
         </div>
-      </div>
-      <div ref={track} id="home-latest-track" className="home-latest-track flex snap-x snap-mandatory gap-3 overflow-x-auto overscroll-x-contain">
-        {articles.map(article => <div key={article.slug}><ArticleCard fallbackToSource article={article} sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc((100vw - 60px) / 2), (max-width: 1535px) calc((100vw - 72px) / 3), 495px" /></div>)}
+        <button type="button" aria-label="Previous latest articles" aria-controls="home-latest-track" disabled={edges.start} onClick={() => move(-1)} className="home-latest-nav home-latest-prev category-image-arrow"><span><ChevronLeft className="h-5 w-5" /></span></button>
+        <button type="button" aria-label="Next latest articles" aria-controls="home-latest-track" disabled={edges.end} onClick={() => move(1)} className="home-latest-nav home-latest-next category-image-arrow"><span><ChevronRight className="h-5 w-5" /></span></button>
       </div>
     </section>
   );

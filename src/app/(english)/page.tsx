@@ -48,7 +48,7 @@ export default function HomePage() {
 
   const excluded = new Set([...featured, ...editorialPicks].map(article => article.slug));
   const edition = new Date();
-  const latest = curateLatestStories(articles, excluded, edition, 9);
+  const latest = curateLatestStories(articles, excluded, edition, 15);
   latest.forEach(article => excluded.add(article.slug));
   const moreArticles = curateLatestStories(articles, excluded, edition, 6);
 
