@@ -12,7 +12,6 @@ import type { CSSProperties } from "react";
 import type { Article } from "@/data/articles";
 import { ArticleReadingProgress } from "@/components/ArticleReadingProgress";
 import { HeadlineText } from "@/components/HeadlineText";
-import type { HeadlineHighlights } from "@/components/HeadlineText";
 import { NewsletterBox } from "@/components/NewsletterBox";
 import { RelatedArticles } from "@/components/RelatedArticles";
 import { ShareButtons } from "@/components/ShareButtons";
@@ -36,13 +35,6 @@ type ArticleLayoutProps = {
   canonicalPath?: string;
   relatedPaths?: Record<string, string>;
   localizedBlocks?: LocalizedBlock[];
-};
-
-const articleHeroHighlightOverrides: Record<string, HeadlineHighlights> = {
-  "avicii-life-music-death-tim-bergling": {
-    red: "Avicii",
-    gold: "EDM Legend"
-  }
 };
 
 function StandardArticleTable({ table }: { table: ArticleTableConfig }) {
@@ -184,7 +176,6 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const faqs = locale === "en" ? getArticleFaqs(article) : article.faq ?? [];
   const articleContent = getArticleContentWithoutInlineFaq(article);
   const lastUpdated = getArticleLastUpdated(article);
-  const articleHeroHighlights = (locale === "en" ? articleHeroHighlightOverrides[article.slug] : undefined) ?? article.headlineHighlights;
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
@@ -206,23 +197,25 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header className="relative isolate min-h-[590px] overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] sm:min-h-[650px] lg:min-h-[720px]">
-          <Image
-            src={article.coverImage}
-            unoptimized={article.slug === "phoenicians-history-sailors-alphabet-tyrian-purple"}
-            alt={article.coverAlt}
-            fill
-            priority
-            quality={82}
-            sizes="(max-width: 1500px) 100vw, 1500px"
-            className="article-hero-image object-cover"
-            style={heroImageStyle}
-          />
-          <div className="article-hero-shade absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
-          <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
+        <header className="article-hero relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] lg:min-h-[720px]">
+          <div className="article-hero-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
+            <Image
+              src={article.coverImage}
+              unoptimized={article.slug === "phoenicians-history-sailors-alphabet-tyrian-purple"}
+              alt={article.coverAlt}
+              fill
+              priority
+              quality={82}
+              sizes="(max-width: 1500px) 100vw, 1500px"
+              className="article-hero-image object-contain lg:object-cover"
+              style={heroImageStyle}
+            />
+          </div>
+          <div className="article-hero-shade hidden lg:block absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
+          <div className="hidden lg:block absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
 
-          <div className="relative z-10 flex min-h-[590px] flex-col justify-between p-5 sm:min-h-[650px] sm:p-8 lg:min-h-[720px] lg:p-12 xl:p-14">
-            <div className="flex items-start justify-between gap-4 font-display text-[11px] font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
+          <div className="article-hero-content relative z-10 flex flex-col gap-5 p-5 sm:p-7 lg:min-h-[720px] lg:justify-between lg:gap-0 lg:p-12 xl:p-14">
+            <div className="flex flex-wrap items-start justify-between gap-3 font-display text-[11px] lg:flex-nowrap lg:gap-4 font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
               <Link href={languageDestination(`/category/${toCategorySlug(article.category)}/`, locale, translationRoutes)} className="flex items-center gap-3 transition hover:text-[#FF1A1A]">
                 <span className="h-8 w-1.5 rounded-full bg-[#FF1A1A]" aria-hidden="true" />
                 {locale === "en" ? categoryLabels[article.category] : localizedCategories[locale][article.category]}
@@ -230,9 +223,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               <time className="text-end text-white/86" dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
             </div>
 
-            <div className="max-w-[800px] pb-5 pt-14 sm:pt-20 lg:pb-8">
+            <div className="min-w-0 max-w-[800px] lg:pb-8 lg:pt-20">
               <h1 className="article-hero-title text-white">
-                <HeadlineText title={article.title} highlights={articleHeroHighlights} legacyRed={article.headlineAccent} />
+                <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
               </h1>
               <div className="mt-5 max-w-[29rem] border-s-[5px] border-[#FF1A1A] ps-4 sm:mt-6 sm:ps-5">
                 <p className="editorial-deck article-hero-deck">

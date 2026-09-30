@@ -1,7 +1,6 @@
-export type HeadlineHighlights = {
-  red?: string | string[];
-  gold?: string | string[];
-};
+import { headlineParts, type HeadlineHighlights } from "@/lib/headline";
+
+export type { HeadlineHighlights } from "@/lib/headline";
 
 type HeadlineTextProps = {
   title: string;
@@ -9,77 +8,12 @@ type HeadlineTextProps = {
   legacyRed?: string;
 };
 
-type Match = {
-  start: number;
-  end: number;
-  tone: "red" | "gold";
-};
-
 export function HeadlineText({ title, highlights, legacyRed }: HeadlineTextProps) {
-  const matches = [
-    ...toPhrases(highlights?.red ?? legacyRed).map((phrase) => findPhrase(title, phrase, "red")),
-    ...toPhrases(highlights?.gold).map((phrase) => findPhrase(title, phrase, "gold"))
-  ]
-    .filter((match): match is Match => Boolean(match))
-    .sort((a, b) => a.start - b.start)
-    .reduce<Match[]>((accepted, match) => {
-      const overlaps = accepted.some((item) => match.start < item.end && match.end > item.start);
-      return overlaps ? accepted : [...accepted, match];
-    }, []);
-
-  if (!matches.length) {
-    return <>{title}</>;
-  }
-
-  const parts: Array<{ text: string; tone?: Match["tone"] }> = [];
-  let cursor = 0;
-
-  for (const match of matches) {
-    if (match.start > cursor) {
-      parts.push({ text: title.slice(cursor, match.start) });
-    }
-
-    parts.push({ text: title.slice(match.start, match.end), tone: match.tone });
-    cursor = match.end;
-  }
-
-  if (cursor < title.length) {
-    parts.push({ text: title.slice(cursor) });
-  }
-
-  return (
-    <>
-      {parts.map((part, index) => (
-        <span
-          key={`${part.text}-${index}`}
-          className={
-            part.tone === "red"
-              ? "headline-accent-red"
-              : part.tone === "gold"
-                ? "headline-accent-gold"
-                : undefined
-          }
-        >
-          {part.text}
-        </span>
-      ))}
-    </>
-  );
-}
-
-function findPhrase(title: string, phrase: string | undefined, tone: Match["tone"]): Match | null {
-  if (!phrase) return null;
-
-  const start = title.toLowerCase().indexOf(phrase.toLowerCase());
-  if (start === -1) return null;
-
-  return {
-    start,
-    end: start + phrase.length,
-    tone
-  };
-}
-
-function toPhrases(value: string | string[] | undefined): string[] {
-  return value ? (Array.isArray(value) ? value : [value]) : [];
+  return <>
+    {headlineParts(title, highlights, legacyRed).map((part, index) => (
+      <span key={index} className={part.tone ? `headline-accent-${part.tone}` : "headline-base"}>
+        {part.text}
+      </span>
+    ))}
+  </>;
 }

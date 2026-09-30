@@ -7,7 +7,6 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { ArticleCardRecord } from "@/lib/articleCards";
 import { ArticleCard } from "@/components/ArticleCard";
 import { HeadlineText } from "@/components/HeadlineText";
-import type { HeadlineHighlights } from "@/components/HeadlineText";
 import { getArticleCardImage, getArticleCardImagePosition } from "@/lib/articleImages";
 import { categoryLabels, formatDate } from "@/lib/categories";
 
@@ -17,22 +16,6 @@ type HomeReferenceExperienceProps = {
   slides: HomeStory[];
   editorialPicks: HomeStory[];
   moreStories: ArticleCardRecord[];
-};
-
-const heroHighlightOverrides: Record<string, HeadlineHighlights> = {
-  "dinosaurs-rise-fall-fossils-extinction": { red: "DINOSAURS", gold: "RISE AND FALL" },
-  "how-humans-learned-to-speak": { red: "LANGUAGE", gold: "HUMANS LEARN TO SPEAK" },
-  "titanic-what-really-happened": { red: "TITANIC", gold: "WHAT REALLY HAPPENED" },
-  "ancient-greece-civilization-history": { red: "ANCIENT GREECE", gold: "CHANGED HOW WE THINK" },
-  "history-of-slavery": { red: "SLAVERY", gold: "HUMANS BECAME A COMMODITY" },
-  "depression-what-happens-in-the-brain": { red: "DEPRESSION", gold: "INSIDE THE BRAIN" },
-  "mark-zuckerberg-facebook-meta-story": { red: "MARK ZUCKERBERG", gold: "GLOBAL TECH EMPIRE" },
-  "carl-sagan-journey-through-our-universe": { red: "CARL SAGAN", gold: "OUR UNIVERSE" },
-  "charles-darwin-theory-of-evolution": { red: "CHARLES DARWIN", gold: "THEORY THAT CHANGED" },
-  "history-of-the-vikings": { red: "VIKINGS", gold: "WORLD BEYOND THE LEGEND" },
-  "ottoman-empire-rise-and-fall": { red: "OTTOMAN EMPIRE", gold: "600 YEARS" },
-  "history-of-egyptian-pyramids": { red: "PYRAMIDS", gold: "ANCIENT EGYPT" },
-  "avicii-life-music-death-tim-bergling": { red: "Avicii", gold: "EDM Legend" }
 };
 
 export function HomeReferenceExperience({ slides, editorialPicks, moreStories }: HomeReferenceExperienceProps) {
@@ -45,7 +28,6 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
   const autoplayStarted = useRef(false);
   const active = slides[activeIndex] ?? slides[0];
   const sidebarStories = editorialPicks.slice(0, 3);
-  const heroHighlights = active ? heroHighlightOverrides[active.slug] ?? active.headlineHighlights : undefined;
   const heroTitleLength = active?.title.length ?? 0;
   const heroTitleSize =
     heroTitleLength > 70
@@ -153,8 +135,8 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
       >
         <div className="home-hero-bg absolute inset-0 -z-10" />
 
-        <div className="mx-auto w-full max-w-[1510px] px-3 py-4 sm:px-6 sm:py-5 lg:pb-6 lg:pt-3 2xl:px-0">
-          <div className="grid gap-4 lg:grid-cols-[minmax(0,2.2fr)_minmax(300px,0.8fr)] xl:grid-cols-[minmax(0,2.35fr)_minmax(330px,0.82fr)]">
+        <div className="mx-auto w-full max-w-[1510px] px-3 py-4 sm:px-6 sm:py-5 lg:pb-4 lg:pt-3 2xl:px-0">
+          <div className="home-card-grid grid lg:grid-cols-[minmax(0,2.2fr)_minmax(300px,0.8fr)] xl:grid-cols-[minmax(0,2.35fr)_minmax(330px,0.82fr)]">
             <article className="home-editorial-hero relative min-h-[590px] overflow-hidden rounded-2xl border sm:min-h-[590px] lg:min-h-[clamp(590px,calc(100vh-11rem),820px)]">
               <div className="absolute inset-0">
                 <Image
@@ -178,7 +160,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
                   {categoryLabels[active.category]}
                 </p>
                 <h1 className={`mt-4 max-w-[17ch] text-balance font-display font-extrabold uppercase leading-[1.02] tracking-normal text-white [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:mt-5 sm:max-w-[18ch] sm:leading-[0.99] lg:max-w-[18.5ch] ${heroTitleSize}`}>
-                  <HeadlineText title={active.title} highlights={heroHighlights} legacyRed={active.headlineAccent} />
+                  <HeadlineText title={active.title} highlights={active.headlineHighlights} legacyRed={active.headlineAccent} />
                 </h1>
                 <p className="editorial-deck home-hero-deck max-w-[20rem] text-white/75 sm:max-w-[34rem]">{active.excerpt}</p>
                 <Link
@@ -238,7 +220,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               </button>
             </article>
 
-            <aside className="grid gap-4 lg:max-h-[clamp(540px,calc(100svh-11rem),820px)] lg:grid-rows-3" aria-label="Editorial highlights">
+            <aside className="home-card-grid grid lg:grid-rows-3" aria-label="Editorial highlights">
               {sidebarStories.map((article) => (
                 <SidebarStoryCard key={article.slug} article={article} />
               ))}
@@ -247,8 +229,8 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
         </div>
       </section>
 
-      <section ref={moreStoriesRef} className="mx-auto w-full max-w-[1510px] px-3 py-8 sm:px-6 sm:py-12 lg:py-14 2xl:px-0">
-        <div className="mb-6 flex flex-wrap items-end justify-between gap-4 border-l-4 border-[color:var(--home-red)] pl-4 sm:mb-8">
+      <section ref={moreStoriesRef} className="mx-auto w-full max-w-[1510px] px-3 py-6 sm:px-6 sm:py-8 2xl:px-0">
+        <div className="mb-5 flex flex-wrap items-end justify-between gap-4 border-l-4 border-[color:var(--home-red)] pl-4 sm:mb-6">
           <div>
             <h2 className="font-display text-2xl font-extrabold uppercase leading-none tracking-normal text-[color:var(--home-text)] sm:text-4xl">
               Latest Stories
@@ -260,9 +242,9 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
             <ArrowRight className="h-4 w-4" strokeWidth={1.6} />
           </Link>
         </div>
-        <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+        <div className="home-card-grid grid sm:grid-cols-2 xl:grid-cols-3">
           {moreStories.map((article) => (
-            <ArticleCard key={article.slug} article={article} showImage={showMoreStoryImages} sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1279px) calc(50vw - 34px), (max-width: 1535px) calc((100vw - 88px) / 3), 490px" />
+            <ArticleCard key={article.slug} article={article} showImage={showMoreStoryImages} sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1279px) calc(50vw - 32px), (max-width: 1535px) calc((100vw - 80px) / 3), 493px" />
           ))}
         </div>
       </section>
@@ -271,7 +253,6 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
 }
 
 function SidebarStoryCard({ article, priority = false }: { article: HomeStory; priority?: boolean }) {
-  const highlights = heroHighlightOverrides[article.slug] ?? article.headlineHighlights;
 
   return (
     <Link prefetch={false} href={`/articles/${article.slug}/`} className="home-side-card group relative flex min-h-[142px] w-full min-w-0 flex-col overflow-hidden rounded-2xl border transition hover:-translate-y-0.5 sm:min-h-[156px] lg:min-h-0 lg:block">
@@ -296,7 +277,7 @@ function SidebarStoryCard({ article, priority = false }: { article: HomeStory; p
       </div>
       <div className="flex min-w-0 flex-1 flex-col p-3 lg:absolute lg:inset-x-0 lg:bottom-0 lg:z-10 lg:p-4">
         <h3 className="font-display text-[1rem] font-bold uppercase leading-[1.08] tracking-normal text-[color:var(--home-text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-[1.18rem] lg:text-white">
-          <HeadlineText title={article.title} highlights={highlights} legacyRed={article.headlineAccent} />
+          <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
         </h3>
       </div>
     </Link>

@@ -20,13 +20,6 @@ export function localizedReadingTime(source: Article, locale: Locale, override?:
   return locale === "fr" ? `${minutes} min de lecture` : locale === "es" ? `${minutes} min de lectura` : source.readingTime ?? "4 min read";
 }
 
-// Presentation only: select existing title phrases for the shared red/gold renderer.
-const goldPhrases: Record<string, string[]> = {
-  ar: ["سقوط غرناطة", "علم الفلك", "إمبراطورية قوية", "المملكة"],
-  fr: ["chute de Grenade", "peuple vivant", "Tenochtitlan", "indépendance"],
-  es: ["independencia", "astronomía", "Tenochtitlan", "caída de Granada"]
-};
-
 /** Adapt a complete record to the existing template; never mutate editorial data. */
 export function translationArticle(record: Translation, source: Article): Article {
   return {
@@ -36,7 +29,7 @@ export function translationArticle(record: Translation, source: Article): Articl
     date: record.publishedAt, lastUpdated: record.updatedAt,
     coverImage: record.image?.src ?? source.coverImage, coverAlt: record.image?.alt ?? "",
     homepageImagePosition: source.homepageImagePosition,
-    headlineHighlights: record.headlineHighlights ?? { red: record.title.split(":")[0].trim(), gold: goldPhrases[record.locale].find(phrase => record.title.includes(phrase)) },
+    headlineHighlights: record.headlineHighlights,
     content: record.content.map(block => {
       if (block.type === "heading") return `## ${block.text}`;
       if (block.type === "subheading") return `### ${block.text}`;

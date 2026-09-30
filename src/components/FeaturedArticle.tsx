@@ -1,3 +1,4 @@
+import { HeadlineText } from "@/components/HeadlineText";
 import { ArrowRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
@@ -15,7 +16,7 @@ export function FeaturedArticle({ article }: { article: Article }) {
           {formatDate(article.date)} / {article.readingTime}
         </p>
         <h1 className="mt-5 max-w-4xl text-balance font-display text-[clamp(2rem,9vw,3.35rem)] font-extrabold uppercase leading-[1] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-7xl sm:leading-none">
-          {article.title}
+          <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
         </h1>
         <p className="mt-5 max-w-2xl text-base leading-7 text-[color:var(--muted)] sm:mt-6 sm:text-lg sm:leading-8">{article.excerpt}</p>
         <Link

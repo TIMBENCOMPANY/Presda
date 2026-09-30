@@ -7,6 +7,7 @@
     "build": "node tools/prepare-translations.cjs && next build",
     "test:i18n": "node tools/prepare-translations.cjs && node tools/test-i18n.cjs && node tools/test-multilingual-pilot.cjs && node tools/test-translation-library.cjs && node tools/test-citation-repairs.cjs && node tools/test-invariant-blocks.cjs && node tools/test-reading-time.cjs",
     "start": "next start",
+    "test:headlines": "node tools/prepare-translations.cjs && node tools/test-headlines.cjs",
     "test:images": "node tools/prepare-translations.cjs && node tools/test-image-policy.cjs",
     "lint": "next lint",
     "validate:publishing": "node tools/validate-article-publishing.mjs",
