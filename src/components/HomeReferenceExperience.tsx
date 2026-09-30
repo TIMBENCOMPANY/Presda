@@ -165,7 +165,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
                   priority
                   fetchPriority="high"
                   quality={76}
-                  sizes="(max-width: 1024px) calc(100vw - 24px), 860px"
+                  sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1279px) calc((100vw - 64px) * 0.734), (max-width: 1535px) calc((100vw - 64px) * 0.742), 1108px"
                   className="object-cover object-center transition duration-700 lg:object-[center_42%]"
                   style={{ objectPosition: active.homepageImagePosition ?? "50% 42%" }}
                 />
@@ -262,7 +262,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
         </div>
         <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
           {moreStories.map((article) => (
-            <ArticleCard key={article.slug} article={article} showImage={showMoreStoryImages} />
+            <ArticleCard key={article.slug} article={article} showImage={showMoreStoryImages} sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1279px) calc(50vw - 34px), (max-width: 1535px) calc((100vw - 88px) / 3), 490px" />
           ))}
         </div>
       </section>
@@ -282,7 +282,7 @@ function SidebarStoryCard({ article, priority = false }: { article: HomeStory; p
           fill
           priority={priority}
           quality={72}
-          sizes="(max-width: 640px) 112px, (max-width: 1024px) 150px, 420px"
+          sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1279px) max(300px, calc((100vw - 64px) * 0.267)), (max-width: 1535px) calc((100vw - 64px) * 0.259), 387px"
           className="object-cover object-center transition duration-500 group-hover:scale-105"
           style={{ objectPosition: getArticleCardImagePosition(article) ?? article.homepageImagePosition }}
         />

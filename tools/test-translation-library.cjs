@@ -72,10 +72,14 @@ for (const record of fixtures) {
     assert.throws(() => validateArticleParity(broken, source), /table row parity/);
   }
 }
-const routes = [...editorial.records.filter(record => record.status === 'published'), ...fixtures].map(({ locale, englishPath, path }) => ({ locale, englishPath, path }));
+// Articles used by these fixtures may now have real published translations.
+// Replace those identities in this process instead of creating duplicate rows.
+const fixtureKeys = new Set(fixtures.map(record => `${record.locale}:${record.englishPath}`));
+const withoutFixtures = records => records.filter(record => !fixtureKeys.has(`${record.locale}:${record.englishPath}`));
+const routes = [...withoutFixtures(editorial.records.filter(record => record.status === 'published')), ...fixtures].map(({ locale, englishPath, path }) => ({ locale, englishPath, path }));
 const load = Module._load;
 Module._load = function(name, parent, isMain) {
-  if (name === './localizations/articles.generated.json') return [...editorial.additions.filter(record => record.status === 'published'), ...fixtures];
+  if (name === './localizations/articles.generated.json') return [...withoutFixtures(editorial.additions.filter(record => record.status === 'published')), ...fixtures];
   if (name === '@/data/translation-routes.json') return routes;
   if (name === 'next/navigation') return { usePathname: () => '/', useRouter: () => ({ push() {} }) };
   return load.call(this, name, parent, isMain);

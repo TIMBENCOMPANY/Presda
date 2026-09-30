@@ -13,6 +13,11 @@ import { formatDate, toCategorySlug } from "@/lib/categories";
 import { LanguageSelector } from "@/components/LanguageSelector";
 import { languageDestination, englishPathFor, type Locale, type TranslationRoute } from "@/lib/i18n/routing";
 import { localizedCategories, messages } from "@/lib/i18n/messages";
+import publishedRoutes from "@/data/translation-routes.json";
+
+// Shared, cacheable client data instead of repeating this map in every RSC/HTML
+// response. The build prepares it from the same published translation registry.
+const routes = publishedRoutes as TranslationRoute[];
 
 const navLinks = [
   { href: "/about/", label: "About Us", icon: Info },
@@ -35,7 +40,7 @@ function isActivePath(pathname: string | null, href: string) {
   return pathname === href || (href !== "/" && pathname.startsWith(href));
 }
 
-export function Header({ locale = "en", routes = [] }: { locale?: Locale; routes?: TranslationRoute[] }) {
+export function Header({ locale = "en" }: { locale?: Locale }) {
   const t = messages[locale];
   const categoryLabels = localizedCategories[locale];
   const destination = (href: string) => languageDestination(href, locale, routes);

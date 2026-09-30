@@ -31,7 +31,7 @@ export function RelatedArticles({ articles, locale = "en", paths }: { articles: 
                 alt={article.coverAlt}
                 fill
                 quality={72}
-                sizes="(max-width: 768px) calc(100vw - 24px), (max-width: 1280px) calc(50vw - 40px), 460px"
+                sizes="(max-width: 767px) calc(100vw - 24px), (max-width: 1279px) calc(50vw - 24px), (max-width: 1531px) calc((100vw - 64px) / 3), 488px"
                 className="object-cover transition duration-500 group-hover:scale-105"
                 style={{ objectPosition: getArticleCardImagePosition(article) }}
               />

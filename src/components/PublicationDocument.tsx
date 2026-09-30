@@ -8,7 +8,6 @@ import { Header } from "@/components/Header";
 import { organizationJsonLd } from "@/lib/seo";
 import "@/app/globals.css";
 import type { Locale } from "@/lib/i18n/routing";
-import { translationRoutes } from "@/lib/i18n/registry";
 
 const orbitron = Orbitron({
   subsets: ["latin"],
@@ -70,7 +69,7 @@ export function PublicationDocument({ children, locale = "en" }: Readonly<{ chil
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
         />
-        <Header locale={locale} routes={translationRoutes} />
+        <Header locale={locale} />
         {children}
         <Analytics />
         {process.env.NODE_ENV === "production" && (

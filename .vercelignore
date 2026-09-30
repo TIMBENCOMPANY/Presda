@@ -1,0 +1,15 @@
+# Local artifacts only. Keep public/, source content, and publishing tools.
+.git
+node_modules
+.next
+.vercel
+out
+dist
+.env
+.env.local
+.seo-cache
+test-results
+playwright-report
+coverage
+tsconfig.tsbuildinfo
+*.log

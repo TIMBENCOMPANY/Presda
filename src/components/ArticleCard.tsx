@@ -10,9 +10,10 @@ type ArticleCardProps = {
   article: ArticleCardRecord;
   priority?: boolean;
   showImage?: boolean;
+  sizes?: string;
 };
 
-export function ArticleCard({ article, priority = false, showImage = true }: ArticleCardProps) {
+export function ArticleCard({ article, priority = false, showImage = true, sizes = "(max-width: 767px) calc(100vw - 24px), (max-width: 1279px) calc(50vw - 26px), (max-width: 1531px) calc((100vw - 72px) / 3), 487px" }: ArticleCardProps) {
   return (
     <Link
       prefetch={false}
@@ -27,7 +28,7 @@ export function ArticleCard({ article, priority = false, showImage = true }: Art
             fill
             priority={priority}
             quality={72}
-            sizes="(max-width: 768px) calc(100vw - 24px), (max-width: 1200px) calc(50vw - 32px), 480px"
+            sizes={sizes}
             className="object-cover object-center transition duration-500 group-hover:scale-105"
             style={{ objectPosition: getArticleCardImagePosition(article) }}
           />

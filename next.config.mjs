@@ -48,6 +48,22 @@ const securityHeaders = [
 const nextConfig = {
   reactStrictMode: true,
   trailingSlash: true,
+  images: {
+    // Published artwork is stable. Give replacements a new filename so they
+    // become visible immediately without purging the shared optimizer cache.
+    minimumCacheTTL: 2678400,
+    formats: ["image/webp"],
+    // Preserve every quality currently used by the site, including the default.
+    qualities: [72, 75, 76, 82],
+    // Retain desktop/retina sizes; no component needs sub-256px variants.
+    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
+    imageSizes: [256, 384],
+    localPatterns: [
+      { pathname: "/articles/**", search: "" },
+      { pathname: "/images/**", search: "" },
+      { pathname: "/presda-p-transparent.png", search: "" }
+    ]
+  },
   experimental: {
     optimizePackageImports: ["framer-motion"]
   },
