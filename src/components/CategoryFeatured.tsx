@@ -96,13 +96,21 @@ export function CategoryFeatured({ slides, sideStories }: { slides: CategoryStor
               </Link>
             </article>
           ))}
+          {slides.length > 1 && <div className="pointer-events-none absolute inset-x-0 top-0 z-20 flex aspect-video items-center justify-between px-1 sm:hidden">
+            <button type="button" onClick={() => move(-1)} aria-label="Previous featured article" className="category-image-arrow pointer-events-auto grid h-11 w-11 place-items-center rounded-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
+              <span><ChevronLeft className="h-5 w-5" /></span>
+            </button>
+            <button type="button" onClick={() => move(1)} aria-label="Next featured article" className="category-image-arrow pointer-events-auto grid h-11 w-11 place-items-center rounded-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
+              <span><ChevronRight className="h-5 w-5" /></span>
+            </button>
+          </div>}
         </div>
         {slides.length > 1 && <div className="category-featured-controls flex items-center justify-between gap-3 border-t border-white/15 px-4 py-2">
           <span className="text-xs tabular-nums text-white/80">{String(active + 1).padStart(2, "0")} / {String(slides.length).padStart(2, "0")}</span>
           <div className="flex gap-1">
-            <button type="button" onClick={() => move(-1)} aria-label="Previous featured article" className="grid h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]"><ChevronLeft className="h-5 w-5" /></button>
-            {!reducedMotion && <button type="button" onClick={() => setPaused(value => !value)} aria-label={paused ? "Play featured rotation" : "Pause featured rotation"} className="grid h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">{paused ? <Play className="h-4 w-4" /> : <Pause className="h-4 w-4" />}</button>}
-            <button type="button" onClick={() => move(1)} aria-label="Next featured article" className="grid h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]"><ChevronRight className="h-5 w-5" /></button>
+            <button type="button" onClick={() => move(-1)} aria-label="Previous featured article" className="hidden h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A] sm:grid"><ChevronLeft className="h-5 w-5" /></button>
+            {!reducedMotion && <button type="button" onClick={() => setPaused(value => !value)} aria-label={paused ? "Play featured rotation" : "Pause featured rotation"} className="category-rotation-toggle grid h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">{paused ? <Play className="h-4 w-4" /> : <Pause className="h-4 w-4" />}</button>}
+            <button type="button" onClick={() => move(1)} aria-label="Next featured article" className="hidden h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A] sm:grid"><ChevronRight className="h-5 w-5" /></button>
           </div>
         </div>}
       </div>
