@@ -15,6 +15,8 @@ articles or required public assets to reclaim retained deployment storage.
   without source query strings. Originals and SEO image URLs remain public.
 - Keep the existing quality levels (72, 75, 76, 82) and WebP output. Large hero
   widths through 3840 remain available for high-density screens.
+- Existing optimizer widths remain supported for cached pages and old image URLs.
+  Accurate `sizes` hints reduce unnecessary variants requested by new pages.
 - `sizes` must describe the rendered CSS slot. Homepage cards switch to two
   columns at 640px; other article grids switch at 768px. Both use three columns
   at 1280px. Update `sizes` when changing those layouts.

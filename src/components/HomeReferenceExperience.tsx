@@ -282,7 +282,7 @@ function SidebarStoryCard({ article, priority = false }: { article: HomeStory; p
           fill
           priority={priority}
           quality={72}
-          sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1279px) max(300px, calc((100vw - 64px) * 0.267)), (max-width: 1535px) calc((100vw - 64px) * 0.259), 387px"
+          sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1279px) max(300px, calc((100vw - 64px) * 0.267)), (max-width: 1535px) max(330px, calc((100vw - 64px) * 0.259)), 387px"
           className="object-cover object-center transition duration-500 group-hover:scale-105"
           style={{ objectPosition: getArticleCardImagePosition(article) ?? article.homepageImagePosition }}
         />

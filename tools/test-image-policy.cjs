@@ -13,6 +13,9 @@ const loader = require('next/dist/shared/lib/image-loader').default;
 async function main() {
   const { default: config } = await import('../next.config.mjs');
   const imageConf = { ...imageConfigDefault, ...config.images };
+  for (const width of [...imageConfigDefault.deviceSizes, ...imageConfigDefault.imageSizes]) {
+    assert([...imageConf.deviceSizes, ...imageConf.imageSizes].includes(width), `Keep cached image URL width ${width}`);
+  }
   const sources = new Set(['/presda-p-transparent.png', '/images/about/presda-newsroom-night.png']);
   for (const article of getPublishedArticles()) {
     sources.add(article.coverImage);

@@ -55,9 +55,9 @@ const nextConfig = {
     formats: ["image/webp"],
     // Preserve every quality currently used by the site, including the default.
     qualities: [72, 75, 76, 82],
-    // Retain desktop/retina sizes; no component needs sub-256px variants.
+    // Preserve existing widths so cached pages and optimizer URLs keep working.
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
-    imageSizes: [256, 384],
+    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     localPatterns: [
       { pathname: "/articles/**", search: "" },
       { pathname: "/images/**", search: "" },
