@@ -16,7 +16,12 @@ export function CategoryFeatured({ slides, sideStories }: { slides: CategoryStor
   const [focused, setFocused] = useState(false);
   const [reducedMotion, setReducedMotion] = useState(false);
   const [visible, setVisible] = useState(true);
+  const [visited, setVisited] = useState<number[]>([0]);
   const touch = useRef<{ x: number; y: number } | null>(null);
+
+  useEffect(() => {
+    setVisited(indices => indices.includes(active) ? indices : [...indices, active]);
+  }, [active]);
 
   useEffect(() => {
     const preference = window.matchMedia("(prefers-reduced-motion: reduce)");
@@ -50,7 +55,7 @@ export function CategoryFeatured({ slides, sideStories }: { slides: CategoryStor
     : sideStories;
 
   return (
-    <section aria-label="Featured articles" className={`grid gap-4 ${sideStories.length ? "lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)]" : ""}`}>
+    <section aria-label="Featured articles" className={`category-featured grid gap-4 ${sideStories.length ? "lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)]" : ""}`}>
       <div
         role="region" aria-roledescription="carousel" aria-label={`${categoryLabels[slides[0].category]} featured stories`}
         className="min-w-0 overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white"
@@ -67,29 +72,32 @@ export function CategoryFeatured({ slides, sideStories }: { slides: CategoryStor
         }}
         onTouchCancel={() => { touch.current = null; }}
       >
-        <div className="grid" aria-live={paused ? "polite" : "off"}>
+        <div className="category-featured-slides relative grid" aria-live={paused ? "polite" : "off"}>
           {slides.map((article, index) => (
             <article key={article.slug} aria-hidden={index !== active} aria-label={`${index + 1} of ${slides.length}`} aria-roledescription="slide"
               className={`relative col-start-1 row-start-1 transition-opacity duration-700 motion-reduce:transition-none ${index === active ? "z-10 opacity-100" : "pointer-events-none opacity-0"}`}>
               <Link prefetch={index === active ? undefined : false} href={`/articles/${article.slug}/`} tabIndex={index === active ? 0 : -1} className="group block h-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-[#FF1A1A]">
-                <div className="relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
-                  <Image src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
+                <div className="category-featured-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
+                  {(index === active || visited.includes(index)) && <Image src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
                     sizes="(max-width: 1023px) calc(100vw - 24px), (max-width: 1536px) 65vw, 1000px"
-                    className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 42%" }} />
+                    className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 42%" }} />}
+                  <p className="category-featured-image-meta absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-x-3 gap-y-1 bg-gradient-to-t from-black/90 via-black/70 to-transparent px-3 pb-2 pt-6 text-[11px] font-medium text-white sm:hidden">
+                    <time dateTime={article.date}>{formatDate(article.date)}</time><span>{article.readingTime}</span>
+                  </p>
                 </div>
                 <div className="pointer-events-none absolute inset-0 hidden bg-gradient-to-t from-black via-black/35 to-transparent lg:block" />
-                <div className="relative flex flex-col justify-end p-5 sm:p-7 lg:min-h-[540px] lg:p-8">
-                  <p className="mb-3 font-display text-xs font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</p>
+                <div className="category-featured-copy relative flex flex-col justify-end p-5 sm:p-7 lg:min-h-[540px] lg:p-8">
+                  <p className="mb-3 hidden font-display text-xs font-extrabold uppercase text-[#FF1A1A] sm:block">{categoryLabels[article.category]}</p>
                   <h2 className="max-w-[28ch] text-balance font-display text-2xl font-extrabold uppercase leading-tight sm:text-3xl lg:text-4xl">
                     <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
                   </h2>
-                  <p className="mt-4 flex flex-wrap gap-x-3 gap-y-1 text-xs text-white/80"><time dateTime={article.date}>{formatDate(article.date)}</time><span>{article.readingTime}</span></p>
+                  <p className="mt-4 hidden flex-wrap gap-x-3 gap-y-1 text-xs text-white/80 sm:flex"><time dateTime={article.date}>{formatDate(article.date)}</time><span>{article.readingTime}</span></p>
                 </div>
               </Link>
             </article>
           ))}
         </div>
-        {slides.length > 1 && <div className="flex items-center justify-between gap-3 border-t border-white/15 px-4 py-2">
+        {slides.length > 1 && <div className="category-featured-controls flex items-center justify-between gap-3 border-t border-white/15 px-4 py-2">
           <span className="text-xs tabular-nums text-white/80">{String(active + 1).padStart(2, "0")} / {String(slides.length).padStart(2, "0")}</span>
           <div className="flex gap-1">
             <button type="button" onClick={() => move(-1)} aria-label="Previous featured article" className="grid h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]"><ChevronLeft className="h-5 w-5" /></button>
@@ -98,16 +106,16 @@ export function CategoryFeatured({ slides, sideStories }: { slides: CategoryStor
           </div>
         </div>}
       </div>
-      {sideStories.length > 0 && <div className="grid min-w-0 gap-4 sm:grid-cols-2 lg:grid-cols-1">
-        {supportingStories.map(article => <Link key={article.slug} href={`/articles/${article.slug}/`} className="group relative overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
-          <div className="relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
-            <Image src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) 50vw, 500px" className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 35%" }} />
+      {sideStories.length > 0 && <div className="category-supporting grid min-w-0 gap-4 sm:grid-cols-2 lg:grid-cols-1">
+        {supportingStories.map(article => <Link key={article.slug} href={`/articles/${article.slug}/`} className="category-supporting-card group relative overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
+          <div className="category-supporting-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
+            <Image src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes="(max-width: 639px) 112px, (max-width: 1023px) 50vw, 500px" className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 35%" }} />
           </div>
           <div className="absolute inset-0 hidden bg-gradient-to-t from-black via-black/40 to-transparent lg:block" />
-          <div className="relative flex flex-col justify-end p-5 lg:h-full lg:min-h-[260px]">
-            <p className="mb-2 font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</p>
+          <div className="category-supporting-copy relative flex flex-col justify-end p-5 lg:h-full lg:min-h-[260px]">
+            <p className="category-supporting-label mb-2 font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</p>
             <h2 className="text-balance font-display text-xl font-extrabold uppercase leading-tight"><HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} /></h2>
-            <p className="mt-3 text-xs text-white/80">{article.readingTime}</p>
+            <p className="category-supporting-meta mt-3 text-xs text-white/80"><time className="mr-2 sm:hidden" dateTime={article.date}>{formatDate(article.date)}</time>{article.readingTime}</p>
           </div>
         </Link>)}
       </div>}

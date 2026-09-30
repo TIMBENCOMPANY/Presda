@@ -25,9 +25,13 @@ export function curateCategory(articles: readonly Article[], category: ArticleCa
   };
   const ranked = [...available].sort((a, b) => rank(a) - rank(b) || b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug));
   const sideCount = ranked.length >= 4 ? 2 : ranked.length >= 3 ? 1 : 0;
-  const slideCount = Math.min(5, ranked.length - sideCount);
-  const slides = ranked.slice(0, slideCount);
-  const sideStories = ranked.slice(slideCount, slideCount + sideCount);
+  // Keep the existing supporting picks while extending the featured rotation.
+  const initialSlideCount = Math.min(5, ranked.length - sideCount);
+  const sideStories = ranked.slice(initialSlideCount, initialSlideCount + sideCount);
+  const slides = [
+    ...ranked.slice(0, initialSlideCount),
+    ...ranked.slice(initialSlideCount + sideCount)
+  ].slice(0, 10);
   const selected = new Set([...slides, ...sideStories].map(article => article.slug));
   const remaining = available.filter(article => !selected.has(article.slug)).sort((a, b) => b.date.localeCompare(a.date));
   return { slides, sideStories, remaining };
