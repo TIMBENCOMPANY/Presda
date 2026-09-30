@@ -3,6 +3,7 @@ import { HomeReferenceExperience } from "@/components/HomeReferenceExperience";
 import { toArticleCardRecord } from "@/lib/articleCards";
 import { getPublishedArticles } from "@/data/articles";
 import { createPageMetadata } from "@/lib/seo";
+import { curateLatestStories } from "@/lib/homeCuration";
 
 // Keep the homepage cached; refresh its daily edition without a deployment.
 export const revalidate = 3600;
@@ -45,5 +46,11 @@ export default function HomePage() {
     .map((slug) => articlesBySlug.get(slug))
     .filter((article): article is NonNullable<typeof article> => Boolean(article));
 
-  return <HomeReferenceExperience slides={featured.map(toArticleCardRecord)} editorialPicks={editorialPicks.map(toArticleCardRecord)} />;
+  const excluded = new Set([...featured, ...editorialPicks].map(article => article.slug));
+  const edition = new Date();
+  const latest = curateLatestStories(articles, excluded, edition, 9);
+  latest.forEach(article => excluded.add(article.slug));
+  const moreArticles = curateLatestStories(articles, excluded, edition, 6);
+
+  return <HomeReferenceExperience slides={featured.map(toArticleCardRecord)} editorialPicks={editorialPicks.map(toArticleCardRecord)} latest={latest.map(toArticleCardRecord)} moreArticles={moreArticles.map(toArticleCardRecord)} />;
 }
