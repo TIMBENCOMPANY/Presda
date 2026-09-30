@@ -17,7 +17,7 @@ export default function ArticlesPage() {
   const articles = getPublishedArticles();
 
   return (
-    <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-8 sm:w-[min(1500px,calc(100%-32px))] sm:py-12">
+    <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-4 sm:w-[min(1500px,calc(100%-32px))] sm:py-6">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -29,10 +29,10 @@ export default function ArticlesPage() {
           )
         }}
       />
-      <header className="mb-9 border-t border-[#FF1A1A]/45 pt-5">
+      <header className="mb-4 border-t border-[#FF1A1A]/45 pt-3">
         <p className="font-display text-[10px] font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A] sm:text-xs">Article Library</p>
-        <h1 className="mt-3 text-balance font-display text-[clamp(2rem,10.5vw,2.85rem)] font-extrabold uppercase leading-[1] text-[color:var(--text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-7xl sm:leading-none">Latest Articles</h1>
-        <p className="mt-4 max-w-2xl text-sm leading-7 text-[color:var(--muted)] sm:mt-5 sm:text-base">
+        <h1 className="mt-2 text-balance font-display text-[clamp(1.8rem,8vw,2.25rem)] font-extrabold uppercase leading-[1] text-[color:var(--text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-5xl sm:leading-none">Latest Articles</h1>
+        <p className="mt-2 max-w-2xl text-sm leading-5 text-[color:var(--muted)]">
           Browse PRESDA stories by category, search for topics, and sort the newsroom feed by date.
         </p>
       </header>

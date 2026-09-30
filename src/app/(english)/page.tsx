@@ -3,7 +3,6 @@ import { HomeReferenceExperience } from "@/components/HomeReferenceExperience";
 import { toArticleCardRecord } from "@/lib/articleCards";
 import { getPublishedArticles } from "@/data/articles";
 import { createPageMetadata } from "@/lib/seo";
-import { curateLatestStories, developingLeadSlug } from "@/lib/homeCuration";
 
 // Keep the homepage cached; refresh its daily edition without a deployment.
 export const revalidate = 3600;
@@ -32,9 +31,9 @@ const featuredHeroSlugs = [
 
 const editorialPickSlugs = [
   "avicii-life-music-death-tim-bergling",
-  "galileo-and-the-church"
+  "galileo-and-the-church",
+  "anti-aging-can-we-slow-down-human-aging"
 ];
-const moreStoriesCount = 12;
 
 export default function HomePage() {
   const articles = getPublishedArticles();
@@ -45,10 +44,6 @@ export default function HomePage() {
   const editorialPicks = editorialPickSlugs
     .map((slug) => articlesBySlug.get(slug))
     .filter((article): article is NonNullable<typeof article> => Boolean(article));
-  const visibleSlugs = new Set([...featured, ...editorialPicks]
-    .filter((article) => article.slug !== developingLeadSlug)
-    .map((article) => article.slug));
-  const moreStories = curateLatestStories(articles, visibleSlugs, new Date(), moreStoriesCount);
 
-  return <HomeReferenceExperience slides={featured.map(toArticleCardRecord)} editorialPicks={editorialPicks.map(toArticleCardRecord)} moreStories={moreStories.map(toArticleCardRecord)} />;
+  return <HomeReferenceExperience slides={featured.map(toArticleCardRecord)} editorialPicks={editorialPicks.map(toArticleCardRecord)} />;
 }

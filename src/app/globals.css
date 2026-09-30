@@ -505,6 +505,23 @@ select {
   .home-featured-carousel .category-supporting-meta time { display: inline; }
 }
 
+/* Home keeps a full-width hero and a compact supporting row on desktop. */
+@media (max-width: 1023px) {
+  .home-featured-carousel .category-supporting-card:nth-child(n + 3) { display: none; }
+}
+
+@media (min-width: 1024px) {
+  .home-featured-carousel { gap: 12px; }
+  .home-featured-carousel .category-supporting { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+  .home-featured-carousel .category-supporting-card { display: grid; grid-template-columns: 144px minmax(0, 1fr); min-height: 120px; }
+  .home-featured-carousel .category-supporting-media { position: relative; inset: auto; }
+  .home-featured-carousel .category-supporting-copy { min-width: 0; min-height: 0; padding: 12px; justify-content: center; }
+  .home-featured-carousel .category-supporting-label { margin-bottom: 4px; }
+  .home-featured-carousel .category-supporting-copy h2 { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; font-size: 18px; line-height: 1.12; overflow-wrap: anywhere; }
+  .home-featured-carousel .category-supporting-meta { margin-top: 6px; font-size: 10px; }
+  .home-featured-carousel .category-supporting-meta time { display: inline; }
+}
+
 @media (min-width: 640px) {
   .home-card-grid { gap: 16px; }
 }
