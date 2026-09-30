@@ -81,7 +81,7 @@ export function CategoryFeatured({ slides, sideStories }: { slides: CategoryStor
                   {(index === active || visited.includes(index)) && <Image src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
                     sizes="(max-width: 1023px) calc(100vw - 24px), (max-width: 1536px) 65vw, 1000px"
                     className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 42%" }} />}
-                  <p className="category-featured-image-meta absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-x-3 gap-y-1 bg-gradient-to-t from-black/90 via-black/70 to-transparent px-3 pb-2 pt-6 text-[11px] font-medium text-white sm:hidden">
+                  <p className={`category-featured-image-meta absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-x-3 gap-y-1 bg-gradient-to-t from-black/90 via-black/70 to-transparent pr-3 pb-2 pt-6 text-[11px] font-medium text-white sm:hidden ${slides.length > 1 ? "pl-20" : "pl-3"}`}>
                     <time dateTime={article.date}>{formatDate(article.date)}</time><span>{article.readingTime}</span>
                   </p>
                 </div>
@@ -97,6 +97,7 @@ export function CategoryFeatured({ slides, sideStories }: { slides: CategoryStor
             </article>
           ))}
           {slides.length > 1 && <div className="pointer-events-none absolute inset-x-0 top-0 z-20 flex aspect-video items-center justify-between px-1 sm:hidden">
+            <span className="category-image-counter absolute bottom-1.5 left-3 rounded-md border border-white/20 bg-black/60 px-1.5 py-0.5 text-[10px] leading-[14px] tabular-nums text-white/90 shadow-sm backdrop-blur-sm">{String(active + 1).padStart(2, "0")} / {String(slides.length).padStart(2, "0")}</span>
             <button type="button" onClick={() => move(-1)} aria-label="Previous featured article" className="category-image-arrow pointer-events-auto grid h-11 w-11 place-items-center rounded-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
               <span><ChevronLeft className="h-5 w-5" /></span>
             </button>
@@ -105,11 +106,11 @@ export function CategoryFeatured({ slides, sideStories }: { slides: CategoryStor
             </button>
           </div>}
         </div>
-        {slides.length > 1 && <div className="category-featured-controls flex items-center justify-between gap-3 border-t border-white/15 px-4 py-2">
+        {slides.length > 1 && <div className="category-featured-controls hidden items-center justify-between gap-3 border-t border-white/15 px-4 py-2 sm:flex">
           <span className="text-xs tabular-nums text-white/80">{String(active + 1).padStart(2, "0")} / {String(slides.length).padStart(2, "0")}</span>
           <div className="flex gap-1">
             <button type="button" onClick={() => move(-1)} aria-label="Previous featured article" className="hidden h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A] sm:grid"><ChevronLeft className="h-5 w-5" /></button>
-            {!reducedMotion && <button type="button" onClick={() => setPaused(value => !value)} aria-label={paused ? "Play featured rotation" : "Pause featured rotation"} className="category-rotation-toggle grid h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">{paused ? <Play className="h-4 w-4" /> : <Pause className="h-4 w-4" />}</button>}
+            {!reducedMotion && <button type="button" onClick={() => setPaused(value => !value)} aria-label={paused ? "Play featured rotation" : "Pause featured rotation"} className="grid h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">{paused ? <Play className="h-4 w-4" /> : <Pause className="h-4 w-4" />}</button>}
             <button type="button" onClick={() => move(1)} aria-label="Next featured article" className="hidden h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A] sm:grid"><ChevronRight className="h-5 w-5" /></button>
           </div>
         </div>}

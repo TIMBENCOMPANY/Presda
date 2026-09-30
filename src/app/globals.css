@@ -509,8 +509,6 @@ select {
     line-height: 1.12;
     overflow-wrap: anywhere;
   }
-  .category-featured-controls { padding: 0 8px 0 12px; }
-  .category-featured-controls .category-rotation-toggle { height: 28px; outline-offset: -2px; }
   .category-image-arrow > span {
     display: grid;
     place-items: center;
