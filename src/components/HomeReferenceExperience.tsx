@@ -28,7 +28,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, latest, moreAr
             <Link href="/articles/" className="inline-flex min-h-11 items-center text-xs font-bold uppercase text-[#FF1A1A] hover:text-[color:var(--home-gold)]">View All Articles</Link>
           </div>
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {moreArticles.map(article => <ArticleCard key={article.slug} article={article} sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc((100vw - 60px) / 2), (max-width: 1535px) calc((100vw - 72px) / 3), 495px" />)}
+            {moreArticles.map(article => <ArticleCard fallbackToSource key={article.slug} article={article} sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc((100vw - 60px) / 2), (max-width: 1535px) calc((100vw - 72px) / 3), 495px" />)}
           </div>
         </section>
       </div>

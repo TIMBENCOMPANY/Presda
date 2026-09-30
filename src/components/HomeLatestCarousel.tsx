@@ -36,7 +36,7 @@ export function HomeLatestCarousel({ articles }: { articles: ArticleCardRecord[]
         </div>
       </div>
       <div ref={track} id="home-latest-track" className="home-latest-track flex snap-x snap-mandatory gap-3 overflow-x-auto overscroll-x-contain">
-        {articles.map(article => <div key={article.slug}><ArticleCard article={article} sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc((100vw - 60px) / 2), (max-width: 1535px) calc((100vw - 72px) / 3), 495px" /></div>)}
+        {articles.map(article => <div key={article.slug}><ArticleCard fallbackToSource article={article} sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc((100vw - 60px) / 2), (max-width: 1535px) calc((100vw - 72px) / 3), 495px" /></div>)}
       </div>
     </section>
   );

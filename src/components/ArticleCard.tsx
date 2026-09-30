@@ -2,6 +2,7 @@ import { ArrowRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import type { ArticleCardRecord } from "@/lib/articleCards";
+import { HomeImage } from "@/components/HomeImage";
 import { HeadlineText } from "@/components/HeadlineText";
 import { getArticleCardImage, getArticleCardImagePosition } from "@/lib/articleImages";
 import { categoryLabels, formatDate } from "@/lib/categories";
@@ -11,9 +12,11 @@ type ArticleCardProps = {
   priority?: boolean;
   showImage?: boolean;
   sizes?: string;
+  fallbackToSource?: boolean;
 };
 
-export function ArticleCard({ article, priority = false, showImage = true, sizes = "(max-width: 767px) calc(100vw - 24px), (max-width: 1279px) calc(50vw - 26px), (max-width: 1531px) calc((100vw - 72px) / 3), 487px" }: ArticleCardProps) {
+export function ArticleCard({ article, priority = false, showImage = true, fallbackToSource = false, sizes = "(max-width: 767px) calc(100vw - 24px), (max-width: 1279px) calc(50vw - 26px), (max-width: 1531px) calc((100vw - 72px) / 3), 487px" }: ArticleCardProps) {
+  const CardImage = fallbackToSource ? HomeImage : Image;
   return (
     <Link
       prefetch={false}
@@ -22,7 +25,7 @@ export function ArticleCard({ article, priority = false, showImage = true, sizes
     >
       <div className="relative aspect-[16/10] overflow-hidden bg-black">
         {showImage ? (
-          <Image
+          <CardImage
             src={getArticleCardImage(article)}
             alt={article.coverAlt}
             fill

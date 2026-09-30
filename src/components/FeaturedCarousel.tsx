@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, Pause, Play } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
+import { HomeImage } from "@/components/HomeImage";
 import { HeadlineText } from "@/components/HeadlineText";
 import { categoryLabels, formatDate } from "@/lib/categories";
 import { getArticleCardImage, getArticleHeroImagePosition } from "@/lib/articleImages";
@@ -17,6 +18,7 @@ type FeaturedCarouselProps = {
 
 export function FeaturedCarousel({ slides, sideStories, variant = "category" }: FeaturedCarouselProps) {
   const isHome = variant === "home";
+  const StoryImage = isHome ? HomeImage : Image;
   const [active, setActive] = useState(0);
   const [paused, setPaused] = useState(false);
   const [hovered, setHovered] = useState(false);
@@ -116,7 +118,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category" }: 
               className={`relative col-start-1 row-start-1 transition-opacity duration-700 motion-reduce:transition-none ${index === active ? "z-10 opacity-100" : "pointer-events-none opacity-0"}`}>
               <Link prefetch={index === active ? undefined : false} href={`/articles/${article.slug}/`} tabIndex={index === active ? 0 : -1} className="group block h-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-[#FF1A1A]">
                 <div className="category-featured-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
-                  {(index === active || visited.includes(index) || preload || (isHome && readyImages.includes(index))) && <Image src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
+                  {(index === active || visited.includes(index) || preload || (isHome && readyImages.includes(index))) && <StoryImage src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
                     loading={isHome && index !== 0 ? "eager" : undefined}
                     onLoad={isHome ? () => setReadyImages(indices => indices.includes(index) ? indices : [...indices, index]) : undefined}
                     sizes={isHome ? "(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1535px) 65vw, 1000px" : "(max-width: 1023px) calc(100vw - 24px), (max-width: 1536px) 65vw, 1000px"}
@@ -158,7 +160,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category" }: 
       {sideStories.length > 0 && <div className="category-supporting grid min-w-0 gap-4 sm:grid-cols-2 lg:grid-cols-1">
         {supportingStories.map(article => <Link key={article.slug} href={`/articles/${article.slug}/`} className="category-supporting-card group relative overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
           <div className="category-supporting-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
-            <Image src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes={isHome ? "(max-width: 639px) 112px, (max-width: 1023px) 144px, 112px" : "(max-width: 639px) 112px, (max-width: 1023px) 50vw, 500px"} className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 35%" }} />
+            <StoryImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes={isHome ? "(max-width: 639px) 112px, (max-width: 1023px) 144px, 112px" : "(max-width: 639px) 112px, (max-width: 1023px) 50vw, 500px"} className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 35%" }} />
           </div>
           <div className={`absolute inset-0 hidden bg-gradient-to-t from-black via-black/40 to-transparent ${isHome ? "" : "lg:block"}`} />
           <div className="category-supporting-copy relative flex flex-col justify-end p-5 lg:h-full lg:min-h-[260px]">
