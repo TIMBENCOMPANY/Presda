@@ -19,21 +19,20 @@ const featuredHeroSlugs = [
   "illuminati-secret-society-real-history-myth",
   "places-that-dont-look-real-surreal-landscapes-travel",
   "self-driving-trucks-future-truck-drivers",
+  "muhammad-ali-fighter-bigger-than-boxing",
+  "history-of-money-gold-paper-digital",
   "bajau-people-sea-nomads-diving",
-  "mali-empire-mansa-musa-gold-pilgrimage-history",
-  "down-syndrome-trisomy-21-genetics-health-life",
-  "area-51-aliens-myth-reality-secret-aircraft",
+  "ancient-egypt-pharaohs-nile-3000-years-history",
+  "keanu-reeves-kindness-powerful",
   "anime-how-japanese-animation-conquered-the-world",
-  "morocco-history-dynasties-kingdom-independence",
-  "pregnancy-cravings-strange-foods-science",
-  "epstein-island-little-st-james-investigation",
-  "david-beckhams-unexpected-passion-beyond-football"
+  "natural-disasters-earthquakes-volcanoes-tsunamis",
+  "top-10-hidden-gems-to-visit-in-2026",
+  "carl-sagan-journey-through-our-universe"
 ] as const;
 
 const editorialPickSlugs = [
   "avicii-life-music-death-tim-bergling",
-  "galileo-and-the-church",
-  "anti-aging-can-we-slow-down-human-aging"
+  "galileo-and-the-church"
 ];
 const moreStoriesCount = 12;
 
