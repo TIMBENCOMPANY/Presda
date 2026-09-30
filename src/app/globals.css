@@ -517,13 +517,15 @@ select {
   .home-featured-carousel .category-featured-copy { position: absolute; inset: 0; min-height: 0; padding: 24px 32px 44px; }
   .home-featured-carousel .category-featured-copy :is(h1, h2) { font-size: clamp(24px, 2.5vw, 36px); line-height: 1.12; }
   .home-featured-carousel .category-supporting { align-self: stretch; contain: size; min-height: 0; grid-template-columns: 1fr; grid-template-rows: repeat(3, minmax(0, 1fr)); gap: 3px; border-radius: 16px; background: #000; }
-  .home-featured-carousel .category-supporting-card { display: grid; grid-template-columns: minmax(0, 42%) minmax(0, 1fr); min-height: 0; }
-  .home-featured-carousel .category-supporting-media { position: relative; inset: auto; height: 100%; aspect-ratio: auto; }
-  .home-featured-carousel .category-supporting-copy { min-width: 0; min-height: 0; padding: 12px; justify-content: center; }
-  .home-featured-carousel .category-supporting-label { display: none; }
+  .home-featured-carousel .category-supporting-card { display: block; min-height: 0; }
+  .home-featured-carousel .category-supporting-media { position: absolute; inset: 0; height: 100%; aspect-ratio: auto; }
+  .home-featured-carousel .category-supporting-shade { display: block; background: linear-gradient(to top, rgba(0,0,0,.92), rgba(0,0,0,.45) 45%, transparent 80%), linear-gradient(to bottom, rgba(0,0,0,.4), transparent 40%); }
+  .home-featured-carousel .category-supporting-copy { position: absolute; inset: 0; min-width: 0; min-height: 0; padding: 36px 14px 12px; justify-content: end; }
+  .home-featured-carousel .category-supporting-label { display: block; position: absolute; top: 10px; left: 12px; margin: 0; padding: 2px 5px; border-radius: 4px; background: rgba(0,0,0,.6); }
   .home-featured-carousel .category-supporting-copy h2 { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; font-size: clamp(16px, 1.4vw, 20px); line-height: 1.12; overflow-wrap: anywhere; }
-  .home-featured-carousel .category-supporting-meta { margin-top: 6px; font-size: 10px; }
-  .home-featured-carousel .category-supporting-meta time { display: inline; }
+  .home-featured-carousel .category-supporting-meta { margin: 0; }
+  .home-featured-carousel .category-supporting-meta time { display: block; position: absolute; top: 10px; right: 12px; margin: 0; padding: 2px 5px; border-radius: 4px; background: rgba(0,0,0,.6); font-size: 10px; color: white; }
+  .home-featured-carousel .home-supporting-reading-time { display: none; }
 }
 
 .home-latest-row { display: grid; gap: 12px; min-width: 0; }

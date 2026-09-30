@@ -160,13 +160,13 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category" }: 
       {sideStories.length > 0 && <div className="category-supporting grid min-w-0 gap-4 sm:grid-cols-2 lg:grid-cols-1">
         {supportingStories.map(article => <Link key={article.slug} href={`/articles/${article.slug}/`} className="category-supporting-card group relative overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
           <div className="category-supporting-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
-            <StoryImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes={isHome ? "(max-width: 639px) 112px, (max-width: 1023px) 144px, (max-width: 1535px) 14vw, 212px" : "(max-width: 639px) 112px, (max-width: 1023px) 50vw, 500px"} className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 35%" }} />
+            <StoryImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes={isHome ? "(max-width: 639px) 112px, (max-width: 1023px) 144px, (max-width: 1535px) 33vw, 500px" : "(max-width: 639px) 112px, (max-width: 1023px) 50vw, 500px"} className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 35%" }} />
           </div>
-          <div className={`absolute inset-0 hidden bg-gradient-to-t from-black via-black/40 to-transparent ${isHome ? "" : "lg:block"}`} />
+          <div className={`category-supporting-shade absolute inset-0 hidden bg-gradient-to-t from-black via-black/40 to-transparent ${isHome ? "" : "lg:block"}`} />
           <div className="category-supporting-copy relative flex flex-col justify-end p-5 lg:h-full lg:min-h-[260px]">
             <p className="category-supporting-label mb-2 font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</p>
             <h2 className="text-balance font-display text-xl font-extrabold uppercase leading-tight"><HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} /></h2>
-            <p className="category-supporting-meta mt-3 text-xs text-white/80"><time className="mr-2 sm:hidden" dateTime={article.date}>{formatDate(article.date)}</time>{article.readingTime}</p>
+            <p className="category-supporting-meta mt-3 text-xs text-white/80"><time className="mr-2 sm:hidden" dateTime={article.date}>{formatDate(article.date)}</time>{isHome ? <span className="home-supporting-reading-time">{article.readingTime}</span> : article.readingTime}</p>
           </div>
         </Link>)}
       </div>}
