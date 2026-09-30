@@ -13,3 +13,7 @@ playwright-report
 coverage
 tsconfig.tsbuildinfo
 *.log
+
+# Recreated deterministically before every build.
+public/image-assets/
+src/lib/image-manifest.generated.json

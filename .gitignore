@@ -13,3 +13,7 @@ pnpm-debug.log*
 test-results
 tsconfig.tsbuildinfo
 .seo-cache/
+
+# Recreated deterministically before every build.
+public/image-assets/
+src/lib/image-manifest.generated.json

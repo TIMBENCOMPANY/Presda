@@ -49,15 +49,13 @@ const nextConfig = {
   reactStrictMode: true,
   trailingSlash: true,
   images: {
-    // Published artwork is stable. Give replacements a new filename so they
-    // become visible immediately without purging the shared optimizer cache.
-    minimumCacheTTL: 2678400,
-    formats: ["image/webp"],
-    // Preserve every quality currently used by the site, including the default.
+    // Generate responsive assets at build time. Visitors never invoke Vercel's optimizer.
+    loader: "custom",
+    loaderFile: "./src/lib/staticImageLoader.ts",
+    deviceSizes: [640, 1280, 2560, 3840],
+    imageSizes: [128, 256],
+    // Component quality props remain compatible; the shared static recipe is quality 90.
     qualities: [72, 75, 76, 82],
-    // Preserve existing widths so cached pages and optimizer URLs keep working.
-    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
-    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     localPatterns: [
       { pathname: "/articles/**", search: "" },
       { pathname: "/images/**", search: "" },
@@ -69,6 +67,10 @@ const nextConfig = {
   },
   async headers() {
     return [
+      {
+        source: "/image-assets/:path*",
+        headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }]
+      },
       {
         source: "/:path*",
         headers: securityHeaders

@@ -4,17 +4,18 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node tools/prepare-translations.cjs && next build",
+    "build": "node tools/prepare-translations.cjs && node tools/prepare-images.cjs && next build",
     "test:i18n": "node tools/prepare-translations.cjs && node tools/test-i18n.cjs && node tools/test-multilingual-pilot.cjs && node tools/test-translation-library.cjs && node tools/test-citation-repairs.cjs && node tools/test-invariant-blocks.cjs && node tools/test-reading-time.cjs",
     "start": "next start",
     "test:headlines": "node tools/prepare-translations.cjs && node tools/test-headlines.cjs",
-    "test:images": "node tools/prepare-translations.cjs && node tools/test-image-policy.cjs",
+    "test:images": "node tools/prepare-translations.cjs && node tools/prepare-images.cjs && node tools/test-image-policy.cjs",
     "lint": "next lint",
     "validate:publishing": "node tools/validate-article-publishing.mjs",
-    "predev": "node tools/prepare-translations.cjs",
+    "predev": "node tools/prepare-translations.cjs && node tools/prepare-images.cjs",
     "translations:prepare": "node tools/prepare-translations.cjs",
     "translations:status": "node tools/translations.cjs status",
-    "translations:create": "node tools/translations.cjs create"
+    "translations:create": "node tools/translations.cjs create",
+    "images:prepare": "node tools/prepare-images.cjs"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",
@@ -32,6 +33,7 @@
     "eslint": "9.39.5",
     "eslint-config-next": "15.5.24",
     "postcss": "8.5.28",
+    "sharp": "0.35.4",
     "tailwindcss": "^3.4.17",
     "typescript": "^5.7.3"
   },
