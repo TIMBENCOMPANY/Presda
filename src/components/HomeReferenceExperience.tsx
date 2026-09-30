@@ -220,7 +220,7 @@ export function HomeReferenceExperience({ slides, editorialPicks, moreStories }:
               </button>
             </article>
 
-            <aside className="home-card-grid grid lg:grid-rows-3" aria-label="Editorial highlights">
+            <aside className="home-card-grid home-editorial-stack grid lg:grid-rows-3" aria-label="Editorial highlights">
               {sidebarStories.map((article) => (
                 <SidebarStoryCard key={article.slug} article={article} />
               ))}

@@ -496,6 +496,14 @@ select {
   gap: 12px;
 }
 
+@media (min-width: 1024px) {
+  .home-card-grid.home-editorial-stack {
+    gap: 2px;
+    border-radius: 16px;
+    background: var(--home-bg);
+  }
+}
+
 @media (min-width: 640px) {
   .home-card-grid { gap: 16px; }
 }
