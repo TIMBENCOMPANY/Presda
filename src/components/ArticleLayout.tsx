@@ -214,7 +214,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             fill
             priority
             quality={82}
-            sizes="(max-width: 639px) calc(100vw - 24px), (max-width: 1531px) calc(100vw - 32px), 1500px"
+            sizes="(max-width: 1500px) 100vw, 1500px"
             className="article-hero-image object-cover"
             style={heroImageStyle}
           />
