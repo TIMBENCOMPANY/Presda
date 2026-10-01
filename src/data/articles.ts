@@ -14,6 +14,7 @@ import { zendayaHollandArticle } from "@/data/zendayaHollandArticle";
 import { angelinaJolieArticle } from "@/data/angelinaJolieArticle";
 import { rihannaArticle } from "@/data/rihannaArticle";
 import { ronaldoPortugalArticle } from "@/data/ronaldoPortugalArticle";
+import { zaharaJolieArticle } from "@/data/zaharaJolieArticle";
 
 export type ArticleCategory =
   | "Travel"
@@ -35533,7 +35534,8 @@ export const articles: Article[] = [
   zendayaHollandArticle,
   angelinaJolieArticle,
   rihannaArticle,
-  ronaldoPortugalArticle
+  ronaldoPortugalArticle,
+  zaharaJolieArticle
 ];
 
 export const categories: ArticleCategory[] = [
