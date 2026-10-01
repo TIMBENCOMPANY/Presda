@@ -8,6 +8,7 @@ import { unitedStatesArticle } from "@/data/unitedStatesArticle";
 import { bohemiaArticle } from "@/data/bohemiaArticle";
 import { georgiaArticle } from "@/data/georgiaArticle";
 import { koreaArticle } from "@/data/koreaArticle";
+import { greenlandArticle } from "@/data/greenlandArticle";
 
 export type ArticleCategory =
   | "Travel"
@@ -52,6 +53,7 @@ export type Article = {
   }>;
   tags: string[];
   readingTime?: string;
+  relatedSlugs?: string[];
   lastUpdated?: string;
   status?: "published" | "draft";
   draft?: boolean;
@@ -35520,7 +35522,8 @@ export const articles: Article[] = [
   unitedStatesArticle,
   bohemiaArticle,
   georgiaArticle,
-  koreaArticle
+  koreaArticle,
+  greenlandArticle
 ];
 
 export const categories: ArticleCategory[] = [
@@ -35560,7 +35563,11 @@ export function getRelatedArticles(article: Article, limit = 5) {
   const relatedTopics = sortByRelevance(candidates.filter((item) => item.category !== article.category && scoreByTopic(item) > 0));
   const fallback = sortByRelevance(candidates.filter((item) => item.category !== article.category && scoreByTopic(item) === 0));
 
-  return [...sameCategory, ...relatedTopics, ...fallback].slice(0, limit);
+  const editorialPicks = (article.relatedSlugs ?? [])
+    .map((slug) => candidates.find((item) => item.slug === slug))
+    .filter((item): item is Article => Boolean(item));
+  const pickedSlugs = new Set(editorialPicks.map((item) => item.slug));
+  return [...editorialPicks, ...[...sameCategory, ...relatedTopics, ...fallback].filter((item) => !pickedSlugs.has(item.slug))].slice(0, limit);
 }
 
 export function getPublishedArticles() {
