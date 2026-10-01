@@ -10,6 +10,7 @@ import { georgiaArticle } from "@/data/georgiaArticle";
 import { koreaArticle } from "@/data/koreaArticle";
 import { greenlandArticle } from "@/data/greenlandArticle";
 import { coffeeDayArticle } from "@/data/coffeeDayArticle";
+import { zendayaHollandArticle } from "@/data/zendayaHollandArticle";
 
 export type ArticleCategory =
   | "Travel"
@@ -35525,7 +35526,8 @@ export const articles: Article[] = [
   georgiaArticle,
   koreaArticle,
   greenlandArticle,
-  coffeeDayArticle
+  coffeeDayArticle,
+  zendayaHollandArticle
 ];
 
 export const categories: ArticleCategory[] = [
