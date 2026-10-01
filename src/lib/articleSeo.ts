@@ -166,7 +166,7 @@ export function articleJsonLd(article: Article) {
     keywords: article.tags.join(", "),
     citation: getArticleReferences(article).map((reference) => reference.url ?? reference.name),
     author: {
-      "@type": "Person",
+      "@type": article.author === "PRESDA Editorial" ? "Organization" : "Person",
       name: article.author,
       url: authorUrl
     },
@@ -188,6 +188,21 @@ export function articleJsonLd(article: Article) {
 
 export function authorJsonLd(article: Article) {
   const author = getAuthorProfile(toAuthorSlug(article.author));
+
+  if (article.author === "PRESDA Editorial") {
+    return {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      name: article.author,
+      url: `${siteUrl}/authors/${toAuthorSlug(article.author)}/`,
+      description: author?.bio,
+      parentOrganization: {
+        "@type": "Organization",
+        "@id": `${siteUrl}/#organization`,
+        name: siteName
+      }
+    };
+  }
 
   return {
     "@context": "https://schema.org",
