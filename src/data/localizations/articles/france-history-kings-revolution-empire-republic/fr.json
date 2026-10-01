@@ -1,0 +1,592 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/france-history-kings-revolution-empire-republic/",
+  "path": "/fr/articles/france-history-kings-revolution-empire-republic/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French editorial review",
+    "reviewedAt": "2026-10-01",
+    "terminologyChecked": true
+  },
+  "title": "FRANCE : DES ROIS ET DE LA RÉVOLUTION À L'EMPIRE ET À LA RÉPUBLIQUE",
+  "excerpt": "Comment le pouvoir royal, la révolution, Napoléon, l'expansion coloniale et cinq républiques ont transformé la France, et pourquoi son histoire n'a jamais été un ordre politique ininterrompu.",
+  "seoTitle": "Histoire de France : Rois, Révolution, Empire et République",
+  "description": "Explorez la France depuis les Francs et Versailles jusqu'à la révolution, Napoléon, l'empire colonial, les guerres mondiales et les cinq républiques qui ont façonné l'État moderne.",
+  "keywords": [
+    "Histoire de France",
+    "Révolution française",
+    "Versailles",
+    "Napoléon",
+    "Empire colonial français",
+    "République française"
+  ],
+  "searchIntent": "Comprendre la France : des rois et de la révolution à l'empire et à la république",
+  "category": "History",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-17",
+  "updatedAt": "2026-09-17",
+  "image": {
+    "src": "/images/articles/french-empire-versailles-royal-court.webp",
+    "alt": "Reconstitution historique éditoriale de la France royale à Versailles, montrant un rassemblement symbolique à la cour plutôt qu'une cérémonie documentée ou des dirigeants spécifiques"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "À Versailles, le pouvoir se mesurait à la distance : qui se tenait près du roi, qui entrait dans une pièce, qui attendait dehors. Un siècle après que Louis XIV ait fait du palais son siège du gouvernement, les représentants réunis à proximité remettaient en question les fondements de l'autorité royale. Le décor a perduré. Le sens de la souveraineté a changé."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’histoire de France est une succession de telles transformations. Les provinces romaines devinrent des royaumes francs ; une monarchie médiévale relativement faible est devenue un formidable État européen ; la révolution a produit une république puis un empereur. D’autres monarchies, un autre empire et d’autres républiques suivirent. La France moderne a hérité des institutions de ces différents ordres sans être identique à aucun d'entre eux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note sur l'image : l'image d'ouverture est une reconstitution historique éditoriale de la France royale. Ses personnages, son architecture, ses uniformes et ses bannières forment une composition symbolique, et non une cérémonie de cour documentée ou un portrait de dirigeants spécifiques."
+    },
+    {
+      "type": "heading",
+      "text": "COMMENT LA FRANCE EST-ELLE DEVENUE UN ROYAUME ?"
+    },
+    {
+      "type": "subheading",
+      "text": "La Gaule romaine et les Francs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant la France, il y avait les divers peuples et territoires que les Romains appelaient la Gaule. L’expansion romaine, y compris les campagnes de Jules César à partir de 58 avant notre ère, a amené une grande partie de cette région dans un système impérial de villes, de routes, de fiscalité et de gouvernement provincial. La conquête a été violente et l'intégration culturelle ultérieure n'a pas fait des habitants les citoyens d'une nation française déjà existante. [Ministère de la Culture : César et la Gaule](https://archeologie.culture.gouv.fr/villa/fr/glossary/jules-cesar)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À mesure que l’autorité impériale romaine occidentale s’affaiblissait, les dirigeants francs élargissaient leur pouvoir tout en travaillant avec les élites romaines survivantes et les institutions chrétiennes. Clovis, décédé en 511, consolida un puissant royaume mérovingien et adopta le christianisme catholique. Son baptême est devenu central dans la mémoire royale ultérieure, mais sa date précise est débattue ; la date familière de 496 ne doit pas être considérée comme certaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les terres mérovingiennes furent à plusieurs reprises divisées et réunies entre les héritiers royaux. Le royaume était un arrangement politique changeant, et non la France moderne avec des vêtements différents. Les relations entre guerriers, aristocrates, évêques et rois comptaient plus qu’une administration nationale uniforme. [Le Met : le monde mérovingien et carolingien](https://resources.metmuseum.org/resources/metpublications/pdf/Migration_Art_AD_300_800.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Charlemagne et l'héritage carolingien"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Carolingiens supplantèrent les Mérovingiens au VIIIe siècle. Charlemagne a étendu la domination franque dans une grande partie de l'Europe occidentale et centrale et a été couronné empereur à Rome en 800. Sa cour a soutenu l'apprentissage, la réforme religieuse et la coordination administrative, parallèlement à une guerre et à la coercition soutenues. Son empire appartient à l'histoire de plusieurs pays européens, et non exclusivement à la France."
+    },
+    {
+      "type": "paragraph",
+      "text": "La partition de Verdun en 843 a contribué à l’établissement d’un royaume franc occidental, mais elle n’a pas créé instantanément les frontières modernes ni l’identité nationale de la France. Les institutions et les revendications de légitimité carolingiennes ont survécu alors même que le pouvoir pratique devenait de plus en plus régional. [Le Met : la culture impériale de Charlemagne](https://www.metmuseum.org/essays/carolingian-art)"
+    },
+    {
+      "type": "subheading",
+      "text": "Les Capétiens bâtissent la France royale"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hugues Capet devint roi en 987. Ses premiers successeurs ne contrôlaient directement qu'un domaine royal limité et affrontaient de puissants seigneurs territoriaux. Au fil des générations, la dynastie renforça la succession héréditaire, élargit ses ressources et rendit la justice et l'administration royales plus efficaces. [BnF : Hugues Capet](https://catalogue.bnf.fr/ark:/12148/cb12049595b)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La guerre, le mariage, l’héritage et les relations négociées ont tous contribué à étendre l’autorité royale. Philippe II Auguste fut particulièrement important au début du XIIIe siècle. Le résultat ne fut pas un absolutisme immédiat : les provinces, les villes, les églises et les nobles conservèrent des droits distincts. La France est devenue un royaume plus fort grâce à une longue accumulation de pouvoir et non à un moment fondateur. [Cambridge : la croissance du gouvernement capétien](https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/crown-and-government/584AF3E2325ECA85DBA4A5F3692E823A)"
+    },
+    {
+      "type": "heading",
+      "text": "LA GUERRE DE CENT ANS ET JEANNE D'ARC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les conflits classiquement appelés guerre de Cent Ans durent de 1337 à 1453, avec des trêves substantielles. Les revendications dynastiques rivales, les possessions anglaises en France et les intérêts aristocratiques concurrents ont contribué à leur maintien. La guerre a dévasté les communautés et remis en question à plusieurs reprises la survie de la monarchie française."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeanne d'Arc a contribué à la levée du siège d'Orléans en 1429 et a soutenu le couronnement de Charles VII à Reims. Capturée l’année suivante, elle fut jugée et exécutée en 1431. Elle ne termina pas personnellement la guerre, mais son intervention contribua à redonner de l’élan et de la légitimité à la cause de Charles. Les réformes militaires et fiscales ultérieures ont également joué un rôle dans la reprise française. [BnF : la guerre et Jeanne d'Arc](https://essentiels.bnf.fr/fr/article/6e6e48ab-6af5-4e58-8167-e2914a0b0098-guerre-cent-ans)"
+    },
+    {
+      "type": "heading",
+      "text": "SPLENDEUR DE LA RENAISSANCE ET GUERRE CIVILE RELIGIEUSE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La France de la Renaissance a participé à un monde européen d'imprimerie, d'érudition, d'art de cour et de monarchies concurrentes. Le mécénat royal et les guerres d'Italie contribuent à faire circuler les artistes et les idées. Pourtant, l’éclat culturel coexistait avec les conflits religieux à mesure que les communautés protestantes se développaient dans un royaume à prédominance catholique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les guerres de religion, classiquement datées de 1562 à 1598, mêlaient conviction confessionnelle et rivalité dynastique et politique. Les massacres de la Saint-Barthélemy de 1572 sont devenus un symbole durable de la violence. L'édit de Nantes d'Henri IV en 1598 accordait des protections limitées aux protestants ; c'était un règlement politique, pas une égalité religieuse moderne. [Musée protestant : huit guerres et un règlement fragile](https://museeprotestant.org/notice/les-huit-guerres-de-religion-1562-1598/)"
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI VERSAILLES ÉTAIT-IL SI IMPORTANT ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Louis XIV, roi de 1643 à 1715, fit de Versailles le siège principal de la cour et du gouvernement en 1682. Ses galeries, jardins et cérémonies projetaient une monarchie capable d'organiser des ressources extraordinaires. Le palais était à la fois un centre politique actif et une image de pouvoir soigneusement gérée. [Versailles : le gouvernement s'installe au palais](https://en.chateauversailles.fr/discover/history/key-dates/versailles-capital-kingdom-1682)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vie de cour encourageait les nobles à rechercher la faveur royale, les fonctions et l'accès. Le rituel rendait visible la hiérarchie, tandis que les ministres et les conseils dirigeaient le gouvernement. Versailles a aidé Louis à organiser ses relations avec les élites, mais il n'a pas transformé chaque noble en prisonnier impuissant ni supprimé le besoin de négociation dans tout le royaume."
+    },
+    {
+      "type": "paragraph",
+      "text": "La « monarchie absolue » décrivait de puissantes revendications à l’autorité souveraine, et non un gouvernement libre de lois, de coutumes, de limites pratiques ou de résistance. Les fonctionnaires royaux dépendaient toujours de la coopération et du crédit. Les ambitions du roi nécessitaient de l’argent que l’État avait du mal à obtenir. [Versailles : comment fonctionnait le gouvernement royal](https://en.chateauversailles.fr/discover/history/key-dates/places-power)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La France est devenue une grande puissance militaire et culturelle européenne. Ses armées, sa diplomatie, son industrie manufacturière et ses modes de cour ont influencé ses rivaux ainsi que ses alliés. Mais les guerres répétées ont entraîné des impôts, des destructions et des dettes. La révocation par Louis XIV de l'Edit de Nantes en 1685 a également intensifié la persécution des protestants. La grandeur royale avait des coûts que les surfaces polies d’un palais peuvent dissimuler. [Versailles : le règne de Louis XIV](https://www.chateauversailles.fr/decouvrir/histoire/grands-personnages/louis-xiv)"
+    },
+    {
+      "type": "heading",
+      "text": "LUMIÈRES : QUI AVAIT LE DROIT DE RÉGNER ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les écrivains du XVIIIe siècle ont contesté l’autorité héritée de différentes manières. Montesquieu a examiné les institutions politiques ; Voltaire s'attaque à l'intolérance ; Rousseau a exploré la souveraineté et les inégalités. L’Encyclopédie de Diderot et d’Alembert traitait les connaissances et les compétences pratiques comme des sujets d’enquête systématique. La presse écrite, les salons et autres réseaux ont permis aux idées de circuler. [BnF : la raison et l'Encyclopédie](https://www.bnf.fr/fr/mediatheque/dalembert-les-lumieres-et-les-ondes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Lumières n’étaient pas un parti révolutionnaire unique doté d’un programme convenu. Les penseurs étaient en désaccord sur la religion, la représentation et la hiérarchie sociale. Et les livres ne suffisent pas non plus à renverser la monarchie. Leurs arguments ont fourni un langage critique qui est devenu particulièrement puissant lorsque la crise budgétaire et le conflit politique ont ouvert des opportunités d’action."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LA RÉVOLUTION FRANÇAISE A-T-ELLE ÉCLATÉ ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sous Louis XVI, la monarchie était confrontée à de graves problèmes financiers aggravés par des guerres coûteuses, notamment le soutien à l'indépendance américaine. Les tentatives de réforme de la fiscalité se sont heurtées à des résistances. Dans une société divisée en ordres juridiques et en privilèges, les débats sur la question de savoir qui devrait payer étaient indissociables des débats sur celui qui devait décider."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Tiers État n’était pas une classe uniforme de paysans pauvres. Il comprenait de riches professionnels et commerçants ainsi que des travailleurs urbains et des ménages ruraux. Les mauvaises récoltes et le prix élevé du pain ont aggravé la détresse, tandis que les conflits entre élites ont affaibli la capacité de réponse de la couronne. En mai 1789, Louis convoque les États généraux à Versailles. [Versailles : la crise politique et financière](https://en.chateauversailles.fr/discover/history/key-dates/summoning-estates-general-1789)"
+    },
+    {
+      "type": "subheading",
+      "text": "De la réforme à la révolution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les députés du Tiers État ont déclaré une Assemblée nationale en juin. La prise de la Bastille le 14 juillet devient un symbole d'intervention populaire et de résistance à la force royale. Les troubles ruraux, le démantèlement des privilèges et la Déclaration des droits de l'homme et du citoyen ont transformé le débat de la réforme du gouvernement en une redéfinition de l'autorité. [Versailles : les événements de 1789](https://en.chateauversailles.fr/discover/history/key-dates/versailles-heart-french-revolution)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Révolution s’est d’abord essayée à la monarchie constitutionnelle. La méfiance à l'égard du roi, la guerre étrangère et la mobilisation politique radicalisent la situation. La monarchie est abolie le 21 septembre 1792 et la République date du lendemain. Le changement était une rupture, et non l'intention automatique de tous ceux qui avaient exigé des réformes en 1789. [Assemblée nationale : institutions révolutionnaires](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Louis XVI est exécuté le 21 janvier 1793 après procès par la Convention. Pendant la Terreur de 1793-1794, un gouvernement d’urgence, une répression politique et des exécutions ont accompagné les guerres étrangères et les conflits civils. La défense de la Révolution est devenue une justification de la coercition, avec des conséquences dévastatrices pour les personnes considérées comme des ennemis. [Assemblée nationale : le procès du roi](https://www.assemblee-nationale.fr/histoire/proces-de-louis-XVI/index.htm) ; [Cambridge : le contexte de la Terreur](https://www.cambridge.org/core/books/abs/cambridge-history-of-the-age-of-atlantic-revolutions/jacobins-and-terror-in-the-french-revolution/4EF77F6C3E13E456C1D009A6058D989A)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La chute de Robespierre en 1794 ne rétablit pas immédiatement la stabilité. Le Directoire, créé en 1795, fait face à la guerre et aux crises politiques. Les droits proclamés universels étaient également restés inégalement appliqués : les femmes n’avaient pas une citoyenneté politique égale et l’émancipation dans les colonies dépendait de luttes allant bien au-delà des déclarations métropolitaines."
+    },
+    {
+      "type": "heading",
+      "text": "COMMENT NAPOLÉON A-T-IL CHANGÉ LA FRANCE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Napoléon Bonaparte prit le pouvoir lors du coup d’État de novembre 1799 et devint empereur en 1804. Il consolida certains acquis de la Révolution tout en réduisant la liberté politique. Les préfets, les établissements d’enseignement et une administration centrale plus forte ont contribué à rendre l’État plus efficace ; la censure et la surveillance policière ont contribué à protéger son autorité. [Musée de l’Armée : administrer l’empire](https://www.musee-armee.fr/ExpoNapoleonEurope/administrer-l-empire-administrer-l-europe.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Code civil de 1804 protégeait la propriété et l’égalité civile formelle des hommes tout en renforçant l’ordre familial patriarcal et la dépendance juridique des femmes mariées. Son influence s'étend au-delà de la France. Il ne s'agissait ni d'un simple don de liberté universelle, ni d'un simple retour à l'Ancien Régime. [Fondation Napoléon : principes et limites du Code Civil](https://www.napoleon.org/enseignants/documents/le-code-civil-21-mars-1804-naissance-principes-et-posterite/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’empire de Napoléon dépendait de ses conquêtes militaires et de ses alliances à travers l’Europe. La réforme a voyagé avec l'occupation, la fiscalité et les levées de soldats. La résistance, la guerre de coalition et la désastreuse campagne russe de 1812 affaiblirent le système. Il abdique en 1814, revient pendant les Cent-Jours, et est finalement vaincu après Waterloo en 1815. [Fondation Napoléon : la chronologie impériale](https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son bilan colonial complique également l’image héroïque. En 1802, son gouvernement maintint ou rétablit l’esclavage dans certaines parties du monde colonial français, annulant l’émancipation révolutionnaire là où cela était possible. La résistance à Saint-Domingue a vaincu les tentatives françaises de rétablir le contrôle et a abouti à l'indépendance d'Haïti en 1804. [Fondation pour la mémoire de l'esclavage : abolition et renversement](https://memoire-esclavage.org/abolitions)"
+    },
+    {
+      "type": "heading",
+      "text": "RESTAURATION, RÉVOLUTION ET UN DEUXIÈME EMPEREUR"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Restauration des Bourbons a rétabli une monarchie après Napoléon, mais pas une copie exacte de la France d'avant 1789. Une charte constitutionnelle et des changements révolutionnaires dans la propriété et la société limitaient ce qui pouvait être restauré. La Révolution de Juillet 1830 renversa Charles X et porta Louis-Philippe au pouvoir sous une autre monarchie constitutionnelle. [Assemblée nationale : monarchie et institutions représentatives](https://secure2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly/history-and-heritage)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La révolution de février 1848 crée la Deuxième République et introduit le suffrage universel masculin. Les espoirs de réforme sociale se sont heurtés à la résistance conservatrice et à la violente répression du soulèvement de juin. Louis-Napoléon Bonaparte est élu président, puis prend le pouvoir lors d'un coup d'État le 2 décembre 1851. Le Second Empire suit en 1852. [Assemblée nationale : la Seconde République](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-republique)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sous le nom de Napoléon III, il a présidé au développement économique, à la croissance des chemins de fer et à la reconstruction de Paris, aux côtés d'un gouvernement autoritaire devenu plus libéral. Son régime tomba après la défaite militaire face à la Prusse en 1870. Le Premier et le Second Empire étaient des régimes politiques distincts, et aucun ne doit être confondu avec l’ensemble de l’histoire des colonies françaises d’outre-mer. [Assemblée nationale : le Second Empire](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-republique-et-le-suffrage-universel/1852-1870-le-second-empire-ou-le-devoiement-du-suffrage-universel)"
+    },
+    {
+      "type": "heading",
+      "text": "QUELLE ÉTAIT L'ÉTENDUE DE L’EMPIRE COLONIAL FRANÇAIS ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La France a développé un empire d’outre-mer dans les Amériques et dans l’océan Indien, puis un empire plus vaste aux XIXe et XXe siècles concentré en Afrique et en Asie. Le Palais de la Porte Dorée donne environ douze millions de kilomètres carrés à l'empire en 1931. Les totaux varient selon la date et selon que différents territoires et la France métropolitaine sont inclus ; une carte doit préciser ce qui compte. [Palais de la Porte Dorée : l'empire en 1931](https://monument.palais-portedoree.fr/le-contexte-colonial/l-empire-colonial-francais-en-1931)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce vaste système comprenait des colonies, des protectorats et des mandats aux régimes juridiques différents. Son rayonnement s'étendait à travers l'Afrique du Nord et de l'Ouest, l'Afrique équatoriale, Madagascar, l'Indochine, les territoires des Caraïbes et les possessions du Pacifique. Les protectorats tels que le [Maroc](/articles/morocco-history-dynasties-kingdom-independence/) ont conservé leurs institutions locales alors que leur souveraineté était sévèrement limitée."
+    },
+    {
+      "type": "subheading",
+      "text": "Esclavage, exploitation et résistance"
+    },
+    {
+      "type": "paragraph",
+      "text": "La richesse des plantations atlantiques dépendait fortement de la main-d’œuvre africaine asservie. La résistance des esclaves, en particulier la Révolution haïtienne, était essentielle à l'émancipation. La France a aboli l’esclavage colonial en 1794, a renversé cette politique sous Napoléon en 1802 et a aboli définitivement l’esclavage dans ses colonies en 1848. La mise en œuvre et les expériences différaient selon les territoires. [Fondation pour la Mémoire de l'Esclavage : l'histoire de l'abolition](https://memoire-esclavage.org/abolitions)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le régime colonial ultérieur impliquait la confiscation des terres, un statut juridique inégal, le travail forcé et la répression, ainsi que des réseaux et des infrastructures commerciales. Les routes, les ports et les écoles pouvaient transformer des vies tout en servant l’extraction et le contrôle impérial. Leur existence n’annule pas la coercition. Les colonisés ont négocié, adapté et résisté ; ils n’ont jamais été de simples bénéficiaires passifs de la politique française."
+    },
+    {
+      "type": "subheading",
+      "text": "Algérie : conquête et incorporation inégale"
+    },
+    {
+      "type": "paragraph",
+      "text": "L'invasion de l'Algérie a commencé en 1830. La conquête s'est poursuivie au travers d'une guerre prolongée et l'expansion des colons a remodelé la propriété foncière et le pouvoir politique. Même si le nord de l'Algérie était organisé en départements français, la plupart des Algériens musulmans ne jouissaient pas de la même citoyenneté politique dans les mêmes conditions que les colons européens. L'incorporation administrative ne signifie pas l'égalité. [Musée de l’Armée : gouverner l’Algérie conquise](https://www.musee-armee.fr/ExpositionAlgerie/l-appropriation-du-territoire-maitriser-le-territoire-connaitre-et-administrer-la-population.html) ; [La Troisième République et la consolidation coloniale](https://www.musee-armee.fr/ExpositionAlgerie/pdf/pdf-the-third-republic-consolidating-colonisation-and-expanding-into-the-sahara.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le langage républicain des droits de la France coexistait ainsi avec un empire structuré par la hiérarchie. Cette contradiction a contribué à animer les arguments anticoloniaux. La concurrence plus large avec l’[Empire britannique](/articles/british-empire-history-rise-fall-global-legacy/) montre également comment la puissance européenne à l’étranger reposait sur des réseaux rivaux plutôt que sur une expérience coloniale uniforme."
+    },
+    {
+      "type": "heading",
+      "text": "LA TROISIÈME RÉPUBLIQUE ET LA PREMIÈRE GUERRE MONDIALE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Proclamée en 1870, la Troisième République a survécu à l'instabilité initiale et a acquis des fondements constitutionnels durables en 1875. Son histoire comprend la Commune de Paris et sa répression, les luttes pour l'Église et l'État et l'affaire Dreyfus. La politique parlementaire, l’éducation laïque et la participation politique de masse ont contribué à établir des habitudes républicaines, même si les femmes sont restées exclues du droit de vote national. [Assemblée nationale : la république parlementaire](https://secure2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly/history-and-heritage)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Première Guerre mondiale a entraîné des invasions, des guerres de tranchées et d’énormes pertes. Verdun est devenu un symbole d'endurance et de destruction. L’effort de guerre de la France s’est appuyé sur la société métropolitaine, les soldats coloniaux et les travailleurs coloniaux. La victoire de 1918 n’a pas effacé le deuil ni la dévastation des régions occupées. [Ministère des Armées : la Première Guerre mondiale](https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/premiere-guerre-mondiale)"
+    },
+    {
+      "type": "heading",
+      "text": "OCCUPATION, VICHY ET RÉSISTANCE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La défaite de 1940 fait voler en éclats la Troisième République. L'occupation allemande et le régime autoritaire de Vichy sous Philippe Pétain ont créé des systèmes de domination qui se chevauchent. Vichy a poursuivi sa propre politique antisémite et a collaboré aux persécutions et à la déportation. Le traiter uniquement comme une marionnette allemande impuissante obscurcit la responsabilité française documentée."
+    },
+    {
+      "type": "paragraph",
+      "text": "La résistance a pris de nombreuses formes, notamment le renseignement, le sabotage, les publications clandestines et le sauvetage. Elle était politiquement diversifiée et s’est développée au fil du temps. Ni « tout le monde a résisté », ni « tout le monde a collaboré » ne décrit la population. De nombreuses personnes vivaient sous la contrainte, tandis que d’autres faisaient des choix lourds de conséquences : soutenir la persécution ou s’y opposer. [Musée commémoratif de l'Holocauste des États-Unis : occupation et collaboration](https://encyclopedia.ushmm.org/content/en/article/france)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Charles de Gaulle organisa la France Libre à partir de 1940 et œuvra à établir une alternative légitime à Vichy. La libération en 1944 dépendait des campagnes alliées, des forces françaises et de la résistance interne, y compris des combattants des colonies françaises. Paris est libéré en août. Le gouvernement provisoire de De Gaulle a contribué à restaurer les institutions républicaines, mais aucun individu n’a libéré la France à lui seul. [Chemins de mémoire : la libération](https://www.cheminsdememoire.gouv.fr/fr/revue/liberer-la-france)"
+    },
+    {
+      "type": "heading",
+      "text": "DÉCOLONISATION ET COÛT DU MAINTIEN DE L’EMPIRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Quatrième République, établie en 1946, a supervisé la reconstruction et des changements sociaux et économiques majeurs. Elle a également lutté pour préserver le pouvoir impérial face à des mouvements indépendantistes de plus en plus organisés. En Indochine, le contrôle militaire français renouvelé après la Seconde Guerre mondiale s’est heurté à une résistance déterminée. La défaite française à Dien Bien Phu et les accords de Genève en 1954 mettent fin à la guerre d'Indochine. [Chemins de mémoire : Dien Bien Phu](https://www.cheminsdememoire.gouv.fr/fr/la-bataille-de-dien-bien-phu); [Musée de l’Armée : la longue histoire coloniale de l’Indochine](https://www.musee-armee.fr/ExpoIndochine/presentation.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Algérie, la guerre de 1954-1962 a entraîné insurrection, contre-insurrection, torture, attaques contre des civils et de profondes divisions politiques. L'indépendance en 1962 fait suite aux accords d'Évian, dans un contexte de violences et de déplacements affectant différentes communautés. Les expériences des civils algériens, des colons européens et des Algériens ayant servi la France ne peuvent se réduire à une seule histoire de départ. [Archives nationales : la guerre d'Algérie](https://www.archives-nationales.culture.gouv.fr/guerre-dalgerie) ; [CNRS : la violence coloniale et son étude historique](https://lejournal.cnrs.fr/articles/guerre-dalgerie-lalbum-photo-de-la-recherche)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ailleurs, la décolonisation a suivi des chemins et des calendriers différents. L’indépendance a modifié la souveraineté formelle sans pour autant dissoudre immédiatement les liens commerciaux, militaires, linguistiques ou personnels. Les migrations contemporaines et les conflits sur la responsabilité historique font toujours partie de cet héritage inachevé."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LA FRANCE A-T-ELLE CONNU CINQ RÉPUBLIQUES ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La numérotation fait référence aux ordres constitutionnels républicains successifs et non à cinq pays différents. La guerre, la révolution, les coups d’État et les querelles autour du pouvoir exécutif et parlementaire ont modifié à plusieurs reprises les règles du gouvernement. Les régimes monarchiques et impériaux ont interrompu les républiques antérieures. [Élysée : les textes fondateurs](https://www.elysee.fr/en/french-presidency/founding-texts)"
+    },
+    {
+      "type": "subheading",
+      "text": "Première République, 1792-1804"
+    },
+    {
+      "type": "paragraph",
+      "text": "Née après l'abolition de la monarchie, elle comprenait la Convention, le Directoire et le Consulat avant que Napoléon ne devienne empereur."
+    },
+    {
+      "type": "subheading",
+      "text": "Deuxième République, 1848-1852"
+    },
+    {
+      "type": "paragraph",
+      "text": "Créée par la révolution, elle fut minée par le coup d’État de Louis-Napoléon en 1851 et remplacée par son empire en 1852."
+    },
+    {
+      "type": "subheading",
+      "text": "Troisième République, 1870-1940"
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle s'est constituée en un régime parlementaire durable avant la défaite militaire et la prise du pouvoir par Vichy en 1940. Lors du rétablissement républicain après la guerre, Vichy a été considéré comme illégitime, et non comme le successeur légal de la République."
+    },
+    {
+      "type": "subheading",
+      "text": "Quatrième République, 1946-1958"
+    },
+    {
+      "type": "paragraph",
+      "text": "Système parlementaire établi après la libération, il combinait reconstruction, coalitions instables et graves crises coloniales."
+    },
+    {
+      "type": "subheading",
+      "text": "Cinquième République, à partir de 1958"
+    },
+    {
+      "type": "paragraph",
+      "text": "La crise algérienne a contribué au retour de De Gaulle au pouvoir. La Constitution promulguée le 4 octobre 1958 renforce l'exécutif, y compris la présidence, au sein d'un système qui maintient le gouvernement parlementaire. Ses institutions ont depuis été modifiées ; continuité ne signifie pas immobilité constitutionnelle. [Assemblée nationale : la fondation de la Ve République](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/cinquieme-republique/la-constitution-de-1958-et-l-instauration-de-la-ve-republique)"
+    },
+    {
+      "type": "heading",
+      "text": "CITOYENNETÉ ET NOUVELLE PLACE EN EUROPE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les femmes ont obtenu le droit de vote et d’éligibilité électorale en 1944 et ont voté pour la première fois en 1945. Ce changement tardif rappelle que institutions républicaines et participation égale ne sont pas synonymes. La citoyenneté s'est développée grâce à la lutte politique, et l'histoire de la république compte ceux qui ont contesté ses exclusions. [Assemblée nationale : les femmes deviennent électrices](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/l-accession-des-femmes-au-droit-de-vote)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La France d’après-guerre a également contribué à construire l’intégration européenne, notamment les communautés fondées par les traités des années 1950. La coopération avec d’anciens ennemis, notamment l’Allemagne de l’Ouest, offrait une alternative aux conflits continentaux récurrents. Les institutions européennes n’ont pas effacé les politiques nationales, mais elles ont modifié le cadre dans lequel s’opérait la souveraineté française. [Conseil de l'UE : les traités fondateurs](https://www.consilium.europa.eu/en/policies/how-eu-treaties-shaped-the-council-of-the-eu-and-the-european-council/)"
+    },
+    {
+      "type": "heading",
+      "text": "FRANCE : MYTHE CONTRE RÉALITÉ"
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : Clovis a fondé la nation française moderne en un seul acte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : Les royaumes francs faisaient partie d’une longue transformation. Les frontières modernes, les institutions et l’identité nationale se sont développées bien plus tard."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : Versailles a donné à Louis XIV un contrôle illimité"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : l'autorité royale était redoutable mais dépendait des institutions, du crédit, de la négociation et de la coopération. La cérémonie était un instrument de pouvoir."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : la Révolution a immédiatement créé une démocratie stable"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : monarchie constitutionnelle, république, gouvernement d'urgence, Directoire, Consulat et empire se succèdent. L’inclusion politique reste inégale."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : Napoléon n'a fait que libérer l'Europe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : la réforme a accompagné la conquête, l’occupation et le régime autoritaire. Sa restauration de l’esclavage colonial fait également partie de son bilan."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : une république ne peut pas être un empire colonial"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : la France républicaine a étendu et gouverné ses possessions d’outre-mer tout en refusant l’égalité des droits à de nombreux sujets coloniaux."
+    },
+    {
+      "type": "subheading",
+      "text": "Mythe : tous les Français ont résisté pendant la Seconde Guerre mondiale"
+    },
+    {
+      "type": "paragraph",
+      "text": "Réalité : résistance, collaboration, persécution et survie quotidienne contrainte coexistaient. Les preuves doivent remplacer les mythes collectifs rassurants."
+    },
+    {
+      "type": "heading",
+      "text": "QU'EST-CE QUI RELIE LES ÉTAPES DE CETTE HISTOIRE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La France moderne porte plusieurs héritages à la fois : la centralisation royale, la citoyenneté révolutionnaire, l'administration napoléonienne, les institutions républicaines et les conséquences de l'empire. Ces héritages ont façonné la vie publique à travers les écoles, le droit, la participation politique et les débats sur l’appartenance. Ils ont également façonné des relations bien au-delà de l’Europe."
+    },
+    {
+      "type": "paragraph",
+      "text": "La république n’est pas sortie complètement formée d’une seule prise d’assaut d’une prison. Elle a été construite, interrompue, contestée et reconstruite. Suivre la France des rois à la révolution, à l’empire et à la république, c’est voir que les institutions peuvent survivre à leurs fondateurs tandis que leurs objectifs changent, et que chaque génération hérite à la fois des réalisations et des conflits non résolus de celles qui l’ont précédée."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ministère français de la Culture : César et la conquête de la Gaule",
+      "url": "https://archeologie.culture.gouv.fr/villa/fr/glossary/jules-cesar"
+    },
+    {
+      "label": "Le Met : l'art de la migration, 300-800 après JC",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Migration_Art_AD_300_800.pdf"
+    },
+    {
+      "label": "Le Met : l’art carolingien",
+      "url": "https://www.metmuseum.org/essays/carolingian-art"
+    },
+    {
+      "label": "Cambridge : couronne et gouvernement dans la France médiévale",
+      "url": "https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/crown-and-government/584AF3E2325ECA85DBA4A5F3692E823A"
+    },
+    {
+      "label": "BnF : la guerre de Cent Ans",
+      "url": "https://essentiels.bnf.fr/fr/article/6e6e48ab-6af5-4e58-8167-e2914a0b0098-guerre-cent-ans"
+    },
+    {
+      "label": "Musée protestant : les guerres de religion",
+      "url": "https://museeprotestant.org/notice/les-huit-guerres-de-religion-1562-1598/"
+    },
+    {
+      "label": "Château de Versailles : la cour et le gouvernement en 1682",
+      "url": "https://en.chateauversailles.fr/discover/history/key-dates/versailles-capital-kingdom-1682"
+    },
+    {
+      "label": "Château de Versailles : lieux de pouvoir",
+      "url": "https://en.chateauversailles.fr/discover/history/key-dates/places-power"
+    },
+    {
+      "label": "BnF : d’Alembert et les Lumières",
+      "url": "https://www.bnf.fr/fr/mediatheque/dalembert-les-lumieres-et-les-ondes"
+    },
+    {
+      "label": "Château de Versailles : convocation des États généraux",
+      "url": "https://en.chateauversailles.fr/discover/history/key-dates/summoning-estates-general-1789"
+    },
+    {
+      "label": "Château de Versailles : la Révolution",
+      "url": "https://en.chateauversailles.fr/discover/history/key-dates/versailles-heart-french-revolution"
+    },
+    {
+      "label": "Assemblée nationale : la Révolution française",
+      "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise"
+    },
+    {
+      "label": "Assemblée nationale : procès de Louis XVI",
+      "url": "https://www.assemblee-nationale.fr/histoire/proces-de-louis-XVI/index.htm"
+    },
+    {
+      "label": "Fondation Napoléon : le Code civil",
+      "url": "https://www.napoleon.org/enseignants/documents/le-code-civil-21-mars-1804-naissance-principes-et-posterite/"
+    },
+    {
+      "label": "Musée de l’Armée : administrer l’empire de Napoléon",
+      "url": "https://www.musee-armee.fr/ExpoNapoleonEurope/administrer-l-empire-administrer-l-europe.html"
+    },
+    {
+      "label": "Assemblée nationale : histoire parlementaire",
+      "url": "https://secure2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly/history-and-heritage"
+    },
+    {
+      "label": "Assemblée nationale : la Deuxième République",
+      "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-republique"
+    },
+    {
+      "label": "Assemblée nationale : le Second Empire",
+      "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-republique-et-le-suffrage-universel/1852-1870-le-second-empire-ou-le-devoiement-du-suffrage-universel"
+    },
+    {
+      "label": "Palais de la Porte Dorée : l'empire colonial en 1931",
+      "url": "https://monument.palais-portedoree.fr/le-contexte-colonial/l-empire-colonial-francais-en-1931"
+    },
+    {
+      "label": "Fondation pour la Mémoire de l'esclavage : abolitions",
+      "url": "https://memoire-esclavage.org/abolitions"
+    },
+    {
+      "label": "Musée de l’Armée : appropriation coloniale en Algérie",
+      "url": "https://www.musee-armee.fr/ExpositionAlgerie/l-appropriation-du-territoire-maitriser-le-territoire-connaitre-et-administrer-la-population.html"
+    },
+    {
+      "label": "Musée de l’Armée : la Troisième République et l’Algérie",
+      "url": "https://www.musee-armee.fr/ExpositionAlgerie/pdf/pdf-the-third-republic-consolidating-colonisation-and-expanding-into-the-sahara.pdf"
+    },
+    {
+      "label": "Ministère des Armées : la Première Guerre mondiale",
+      "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/premiere-guerre-mondiale"
+    },
+    {
+      "label": "Musée commémoratif de l'Holocauste aux États-Unis : France",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/france"
+    },
+    {
+      "label": "Chemins de mémoire : libération de la France",
+      "url": "https://www.cheminsdememoire.gouv.fr/fr/revue/liberer-la-france"
+    },
+    {
+      "label": "Chemins de mémoire : Dien Bien Phu et la fin de la guerre d'Indochine",
+      "url": "https://www.cheminsdememoire.gouv.fr/fr/la-bataille-de-dien-bien-phu"
+    },
+    {
+      "label": "Archives nationales françaises : la guerre d'Algérie",
+      "url": "https://www.archives-nationales.culture.gouv.fr/guerre-dalgerie"
+    },
+    {
+      "label": "Assemblée nationale : la Constitution de 1958",
+      "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/cinquieme-republique/la-constitution-de-1958-et-l-instauration-de-la-ve-republique"
+    },
+    {
+      "label": "Élysée : des textes constitutionnels fondateurs",
+      "url": "https://www.elysee.fr/en/french-presidency/founding-texts"
+    },
+    {
+      "label": "BnF : Hugues Capet, 987-996",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb12049595b"
+    },
+    {
+      "label": "Musée de l’Armée : Indochine, de la conquête à la décolonisation",
+      "url": "https://www.musee-armee.fr/ExpoIndochine/presentation.html"
+    },
+    {
+      "label": "Fondation Napoléon : Chronologie du Consulat et du Premier Empire",
+      "url": "https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/"
+    },
+    {
+      "label": "Château de Versailles : Louis XIV",
+      "url": "https://www.chateauversailles.fr/decouvrir/histoire/grands-personnages/louis-xiv"
+    },
+    {
+      "label": "CNRS : recherches sur la guerre d'Algérie",
+      "url": "https://lejournal.cnrs.fr/articles/guerre-dalgerie-lalbum-photo-de-la-recherche"
+    },
+    {
+      "label": "Cambridge : les jacobins et la terreur pendant la Révolution française",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-age-of-atlantic-revolutions/jacobins-and-terror-in-the-french-revolution/4EF77F6C3E13E456C1D009A6058D989A"
+    },
+    {
+      "label": "Assemblée nationale : droit de vote des femmes",
+      "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/l-accession-des-femmes-au-droit-de-vote"
+    },
+    {
+      "label": "Conseil de l'Union européenne : traités et institutions européennes",
+      "url": "https://www.consilium.europa.eu/en/policies/how-eu-treaties-shaped-the-council-of-the-eu-and-the-european-council/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand la France est-elle devenue un royaume ?",
+      "answer": "Il n’existe pas de date de fondation unique pour la France moderne. Clovis consolida un royaume franc au tournant du VIe siècle, tandis que l'avènement d'Hugues Capet en 987 marqua le début de la dynastie capétienne. Le territoire et l'autorité royale ont continué à évoluer."
+    },
+    {
+      "question": "Pourquoi Versailles était-il important ?",
+      "answer": "Louis XIV en fit le siège principal de la cour et du gouvernement en 1682. Il organisa l'administration royale, l'accès et le patronage tout en projetant le pouvoir monarchique."
+    },
+    {
+      "question": "Quelle était la taille de l’empire colonial français ?",
+      "answer": "Le Palais de la Porte Dorée donne environ douze millions de kilomètres carrés pour 1931. Les estimations varient selon la date et les territoires inclus ; les colonies, protectorats et mandats n’étaient pas gouvernés à l’identique."
+    },
+    {
+      "question": "Pourquoi la France a-t-elle eu cinq républiques ?",
+      "answer": "La numérotation distingue les ordres constitutionnels républicains successifs, commençant en 1792, 1848, 1870, 1946 et 1958. Les révolutions, les coups d'État, les guerres et les crises constitutionnelles ont modifié les systèmes de gouvernement."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "FRANCE",
+    "gold": "RÉVOLUTION"
+  },
+  "readingTimeMinutes": 18
+}

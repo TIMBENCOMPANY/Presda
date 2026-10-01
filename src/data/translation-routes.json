@@ -106,6 +106,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/alzheimers-disease-brain-memory-loss/",
+    "path": "/ar/articles/alzheimers-disease-brain-memory-loss/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/alzheimers-disease-brain-memory-loss/",
+    "path": "/es/articles/alzheimers-disease-brain-memory-loss/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/alzheimers-disease-brain-memory-loss/",
+    "path": "/fr/articles/alzheimers-disease-brain-memory-loss/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/amazigh-imazighen-north-africa-history/",
     "path": "/ar/articles/amazigh-imazighen-north-africa-history/"
   },
@@ -118,6 +133,21 @@
     "locale": "fr",
     "englishPath": "/articles/amazigh-imazighen-north-africa-history/",
     "path": "/fr/articles/amazigh-imazighen-north-africa-history/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/ancient-egypt-pharaohs-nile-3000-years-history/",
+    "path": "/ar/articles/ancient-egypt-pharaohs-nile-3000-years-history/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/ancient-egypt-pharaohs-nile-3000-years-history/",
+    "path": "/es/articles/ancient-egypt-pharaohs-nile-3000-years-history/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/ancient-egypt-pharaohs-nile-3000-years-history/",
+    "path": "/fr/articles/ancient-egypt-pharaohs-nile-3000-years-history/"
   },
   {
     "locale": "ar",
@@ -148,6 +178,21 @@
     "locale": "fr",
     "englishPath": "/articles/anime-how-japanese-animation-conquered-the-world/",
     "path": "/fr/articles/anime-how-japanese-animation-conquered-the-world/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/anti-aging-can-we-slow-down-human-aging/",
+    "path": "/ar/articles/anti-aging-can-we-slow-down-human-aging/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/anti-aging-can-we-slow-down-human-aging/",
+    "path": "/es/articles/anti-aging-can-we-slow-down-human-aging/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/anti-aging-can-we-slow-down-human-aging/",
+    "path": "/fr/articles/anti-aging-can-we-slow-down-human-aging/"
   },
   {
     "locale": "ar",
@@ -313,6 +358,21 @@
     "locale": "fr",
     "englishPath": "/articles/byzantine-empire-eastern-rome-constantinople-1453/",
     "path": "/fr/articles/byzantine-empire-eastern-rome-constantinople-1453/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/carl-sagan-journey-through-our-universe/",
+    "path": "/ar/articles/carl-sagan-journey-through-our-universe/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/carl-sagan-journey-through-our-universe/",
+    "path": "/es/articles/carl-sagan-journey-through-our-universe/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/carl-sagan-journey-through-our-universe/",
+    "path": "/fr/articles/carl-sagan-journey-through-our-universe/"
   },
   {
     "locale": "ar",
@@ -526,6 +586,66 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/football-fans-psychology-passion-rivalry-violence/",
+    "path": "/ar/articles/football-fans-psychology-passion-rivalry-violence/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/football-fans-psychology-passion-rivalry-violence/",
+    "path": "/es/articles/football-fans-psychology-passion-rivalry-violence/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/football-fans-psychology-passion-rivalry-violence/",
+    "path": "/fr/articles/football-fans-psychology-passion-rivalry-violence/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/france-history-kings-revolution-empire-republic/",
+    "path": "/ar/articles/france-history-kings-revolution-empire-republic/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/france-history-kings-revolution-empire-republic/",
+    "path": "/es/articles/france-history-kings-revolution-empire-republic/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/france-history-kings-revolution-empire-republic/",
+    "path": "/fr/articles/france-history-kings-revolution-empire-republic/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/french-empire-napoleon-colonial-history-rise-fall/",
+    "path": "/ar/articles/french-empire-napoleon-colonial-history-rise-fall/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/french-empire-napoleon-colonial-history-rise-fall/",
+    "path": "/es/articles/french-empire-napoleon-colonial-history-rise-fall/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/french-empire-napoleon-colonial-history-rise-fall/",
+    "path": "/fr/articles/french-empire-napoleon-colonial-history-rise-fall/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/galileo-and-the-church/",
+    "path": "/ar/articles/galileo-and-the-church/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/galileo-and-the-church/",
+    "path": "/es/articles/galileo-and-the-church/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/galileo-and-the-church/",
+    "path": "/fr/articles/galileo-and-the-church/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/gandhi-mandela-mlk-power-of-resistance/",
     "path": "/ar/articles/gandhi-mandela-mlk-power-of-resistance/"
   },
@@ -706,6 +826,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/history-of-gold/",
+    "path": "/ar/articles/history-of-gold/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/history-of-gold/",
+    "path": "/es/articles/history-of-gold/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/history-of-gold/",
+    "path": "/fr/articles/history-of-gold/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/history-of-money-gold-paper-digital/",
     "path": "/ar/articles/history-of-money-gold-paper-digital/"
   },
@@ -733,6 +868,21 @@
     "locale": "fr",
     "englishPath": "/articles/history-of-perfume-scent-beauty-power-luxury/",
     "path": "/fr/articles/history-of-perfume-scent-beauty-power-luxury/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/history-of-slavery/",
+    "path": "/ar/articles/history-of-slavery/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/history-of-slavery/",
+    "path": "/es/articles/history-of-slavery/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/history-of-slavery/",
+    "path": "/fr/articles/history-of-slavery/"
   },
   {
     "locale": "ar",
@@ -901,6 +1051,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/kingdom-of-kush-nubia-black-pharaohs-history/",
+    "path": "/ar/articles/kingdom-of-kush-nubia-black-pharaohs-history/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/kingdom-of-kush-nubia-black-pharaohs-history/",
+    "path": "/es/articles/kingdom-of-kush-nubia-black-pharaohs-history/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/kingdom-of-kush-nubia-black-pharaohs-history/",
+    "path": "/fr/articles/kingdom-of-kush-nubia-black-pharaohs-history/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/kobe-bryant-mamba-mentality-life-legacy/",
     "path": "/ar/articles/kobe-bryant-mamba-mentality-life-legacy/"
   },
@@ -1003,6 +1168,21 @@
     "locale": "fr",
     "englishPath": "/articles/mongol-empire-genghis-khan-conquests-legacy/",
     "path": "/fr/articles/mongol-empire-genghis-khan-conquests-legacy/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/mughal-empire-history-rulers-rise-fall/",
+    "path": "/ar/articles/mughal-empire-history-rulers-rise-fall/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/mughal-empire-history-rulers-rise-fall/",
+    "path": "/es/articles/mughal-empire-history-rulers-rise-fall/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/mughal-empire-history-rulers-rise-fall/",
+    "path": "/fr/articles/mughal-empire-history-rulers-rise-fall/"
   },
   {
     "locale": "ar",
@@ -1138,6 +1318,21 @@
     "locale": "fr",
     "englishPath": "/articles/pablo-escobar-medellin-cartel-wealth-rise-fall/",
     "path": "/fr/articles/pablo-escobar-medellin-cartel-wealth-rise-fall/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/palestine-a-humanitarian-crisis-the-world-cannot-ignore/",
+    "path": "/ar/articles/palestine-a-humanitarian-crisis-the-world-cannot-ignore/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/palestine-a-humanitarian-crisis-the-world-cannot-ignore/",
+    "path": "/es/articles/palestine-a-humanitarian-crisis-the-world-cannot-ignore/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/palestine-a-humanitarian-crisis-the-world-cannot-ignore/",
+    "path": "/fr/articles/palestine-a-humanitarian-crisis-the-world-cannot-ignore/"
   },
   {
     "locale": "ar",
@@ -1306,6 +1501,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/russian-empire-tsars-rise-fall-history/",
+    "path": "/ar/articles/russian-empire-tsars-rise-fall-history/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/russian-empire-tsars-rise-fall-history/",
+    "path": "/es/articles/russian-empire-tsars-rise-fall-history/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/russian-empire-tsars-rise-fall-history/",
+    "path": "/fr/articles/russian-empire-tsars-rise-fall-history/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/saad-lamjarred-french-court-cases/",
     "path": "/ar/articles/saad-lamjarred-french-court-cases/"
   },
@@ -1378,6 +1588,21 @@
     "locale": "fr",
     "englishPath": "/articles/soviet-union-history-rise-collapse-ussr/",
     "path": "/fr/articles/soviet-union-history-rise-collapse-ussr/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/spanish-empire-columbus-conquest-silver-global-history/",
+    "path": "/ar/articles/spanish-empire-columbus-conquest-silver-global-history/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/spanish-empire-columbus-conquest-silver-global-history/",
+    "path": "/es/articles/spanish-empire-columbus-conquest-silver-global-history/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/spanish-empire-columbus-conquest-silver-global-history/",
+    "path": "/fr/articles/spanish-empire-columbus-conquest-silver-global-history/"
   },
   {
     "locale": "ar",
@@ -1558,6 +1783,21 @@
     "locale": "fr",
     "englishPath": "/articles/world-cup-2026-countdown/",
     "path": "/fr/articles/world-cup-2026-countdown/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/world-most-underrated-countries-to-visit/",
+    "path": "/ar/articles/world-most-underrated-countries-to-visit/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/world-most-underrated-countries-to-visit/",
+    "path": "/es/articles/world-most-underrated-countries-to-visit/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/world-most-underrated-countries-to-visit/",
+    "path": "/fr/articles/world-most-underrated-countries-to-visit/"
   },
   {
     "locale": "ar",

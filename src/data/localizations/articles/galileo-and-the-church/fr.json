@@ -1,0 +1,262 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/galileo-and-the-church/",
+  "path": "/fr/articles/galileo-and-the-church/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French editorial review",
+    "reviewedAt": "2026-10-01",
+    "terminologyChecked": true
+  },
+  "title": "Galilée et l’Église : le procès qui a changé la science",
+  "excerpt": "L’histoire du conflit entre Galilée et l’Église catholique : le procès de 1633, l’héliocentrisme, l’assignation à résidence et le réexamen ultérieur de l’affaire par l’Église.",
+  "seoTitle": "Galilée et l’Église : pourquoi a-t-il été accusé d’hérésie ?",
+  "description": "Galilée face à l’Église catholique : héliocentrisme, procès de 1633, assignation à résidence et réexamen de l’affaire des siècles plus tard.",
+  "keywords": [
+    "Galilée et l’Église",
+    "Galileo Galilei",
+    "procès de Galilée",
+    "accusation d’hérésie",
+    "Église catholique",
+    "héliocentrisme",
+    "Inquisition",
+    "science"
+  ],
+  "searchIntent": "Comprendre Galilée et l'Église : le procès qui a changé la science",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-07",
+  "updatedAt": "2026-09-17",
+  "image": {
+    "src": "/images/articles/galileo-and-the-church.jpg",
+    "alt": "Galilée devant l’Inquisition romaine lors de son procès de 1633 sur l’héliocentrisme"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Galilée, de son nom italien Galileo Galilei, reste l’une des figures majeures de la révolution scientifique. Ses observations du ciel l’ont pourtant placé au cœur de l’un des conflits les plus célèbres de l’histoire entre recherche scientifique, autorité religieuse et interprétation des preuves."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’affaire Galilée conserve son importance, car elle montre comment les observations, les institutions et les conceptions héritées du monde peuvent se heurter. Pour approfondir ces questions scientifiques avec PRESDA, consultez nos articles sur [Jebel Irhoud et les origines humaines](/articles/we-are-all-moroccans-jebel-irhoud/) et sur [la validité scientifique des signes du zodiaque](/articles/are-zodiac-signs-real-science-has-a-different-answer/)."
+    },
+    {
+      "type": "heading",
+      "text": "Un univers avec la Terre au centre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant des siècles, l’astronomie européenne a été dominée par un modèle géocentrique dans lequel la Terre restait stationnaire tandis que le ciel se déplaçait autour d’elle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nicolas Copernic a contesté cette idée au XVIe siècle en proposant un système héliocentrique dans lequel la Terre et les autres planètes tournent autour du Soleil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Galilée n’a pas inventé l’héliocentrisme. Mais ses observations astronomiques ont fortement étayé une conception de l’Univers que le modèle traditionnel peinait à expliquer."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que Galilée a vu"
+    },
+    {
+      "type": "paragraph",
+      "text": "À partir de 1609, Galilée utilisa des lunettes astronomiques perfectionnées pour observer les montagnes et les irrégularités de la Lune, les satellites de Jupiter, les phases de Vénus et d’autres phénomènes qui remettaient en cause les conceptions traditionnelles du ciel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les lunes de Jupiter étaient particulièrement importantes : elles démontraient que tous les objets célestes ne tournaient pas autour de la Terre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vénus offrait un autre moyen décisif de mettre les modèles à l’épreuve. La succession complète de ses phases contredisait le modèle ptolémaïque traditionnel, dans lequel Vénus restait entre la Terre et le Soleil. Cela ne prouvait pourtant pas, à soi seul, que la Terre se déplaçait : le modèle de Tycho Brahe permettait lui aussi à Vénus de tourner autour du Soleil, tandis que celui-ci tournait autour d’une Terre immobile. [La présentation des observations par le Museo Galileo](https://catalogue.museogalileo.it/indepth/PhasesVenus.html) explique pourquoi réfuter un modèle ne revient pas à démontrer automatiquement tous les éléments d’un autre."
+    },
+    {
+      "type": "heading",
+      "text": "L'Église et l'héliocentrisme"
+    },
+    {
+      "type": "paragraph",
+      "text": "La controverse était plus compliquée qu’une simple bataille entre science et religion."
+    },
+    {
+      "type": "paragraph",
+      "text": "À l’époque, certains passages de la Bible étaient généralement interprétés comme compatibles avec une Terre immobile. Galilée soutenait que les Écritures et l’étude de la nature ne devaient pas être considérées comme contradictoires lorsque le langage biblique était interprété en dehors de sa finalité."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1616, les autorités de l’Église rejetèrent l’interprétation physique de l’héliocentrisme copernicien et avertirent Galilée qu’il ne devait pas le défendre comme une réalité établie."
+    },
+    {
+      "type": "heading",
+      "text": "Le livre qui a déclenché le procès"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1632, Galilée publia le Dialogue sur les deux grands systèmes du monde."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ouvrage comparait le système ptolémaïque traditionnel au système copernicien et, malgré sa forme dialoguée, prenait nettement parti pour ce dernier."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Inquisition ordonna ensuite à Galilée de se rendre à Rome."
+    },
+    {
+      "type": "heading",
+      "text": "Le procès de 1633"
+    },
+    {
+      "type": "paragraph",
+      "text": "Galilée comparut devant l’Inquisition romaine en 1633."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le point central du procès n’était pas simplement qu’il avait parlé d’astronomie. Les autorités estimaient qu’il avait défendu le mouvement de la Terre malgré les restrictions auparavant imposées à l’enseignement de la doctrine copernicienne."
+    },
+    {
+      "type": "paragraph",
+      "text": "La portée de ces restrictions antérieures doit elle-même être examinée avec prudence. En 1616, le cardinal Bellarmin avait averti Galilée de ne pas soutenir ni défendre la doctrine copernicienne. Le procès-verbal d’une injonction plus large joua un rôle important lors du procès de 1633, mais les historiens débattent de son statut et des procédures qui l’entouraient. L’[Encyclopédie de philosophie de Stanford](https://plato.stanford.edu/entries/galileo/) distingue ces points de procédure contestés du verdict attesté par les documents. Cette distinction aide à comprendre pourquoi l’affaire ne peut se résumer à une seule observation interdite."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 22 juin 1633, Galilée fut déclaré « véhémentement suspect d’hérésie »."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il lui fut demandé de renoncer formellement aux propositions condamnées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa peine de prison fut commuée en assignation à résidence, régime sous lequel il passa le reste de sa vie."
+    },
+    {
+      "type": "heading",
+      "text": "Galilée a-t-il dit « Et pourtant elle tourne » ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon l’un des récits les plus célèbres, après avoir renié l’héliocentrisme, Galilée aurait murmuré : « Et pourtant elle tourne. »"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expression est devenue un symbole de résistance scientifique à l’autorité."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les historiens ne disposent toutefois d’aucun témoignage contemporain fiable établissant qu’il a réellement prononcé ces mots. Il faut y voir une légende apparue plus tard, et non un fait avéré."
+    },
+    {
+      "type": "heading",
+      "text": "Poursuivre la science malgré l’assignation à résidence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le procès n'a pas mis fin au travail intellectuel de Galilée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pendant son assignation à résidence, il acheva les Discours et démonstrations mathématiques concernant deux sciences nouvelles, publiés en 1638."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet ouvrage étudiait le mouvement et la mécanique et apporta une contribution importante au développement de la physique moderne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Galilée est mort en 1642."
+    },
+    {
+      "type": "heading",
+      "text": "Que s’est-il passé des siècles plus tard ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le traitement réservé à Galilée par l'Église a été réévalué au fil du temps."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1992, le pape Jean-Paul II revint sur l’affaire Galilée après plusieurs années de travaux d’une commission pontificale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il reconnut les erreurs commises au cours de cette controverse historique et expliqua que les théologiens du temps de Galilée n’avaient pas suffisamment distingué les questions relevant des sciences physiques de certaines interprétations des Écritures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet épisode est devenu l’un des exemples les plus durables de l’histoire de ce qui peut arriver lorsque les institutions considèrent les questions liées au monde naturel comme déjà réglées."
+    },
+    {
+      "type": "heading",
+      "text": "Le procès qui a changé la science"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’histoire de Galilée est plus compliquée que l’image populaire d’un scientifique combattant toute une religion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle mettait en jeu la science, la théologie, l’autorité des institutions, les personnalités, la politique et les critères de preuve du XVIIe siècle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mais son héritage reste puissant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les affirmations scientifiques doivent, en définitive, résister à l’épreuve de l’observation, de la mesure et des faits."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’autorité peut retarder la diffusion d’une idée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle ne peut pas décider du fonctionnement de la nature."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Musée Galilée : Les phases de Vénus et les modèles astronomiques concurrents",
+      "url": "https://catalogue.museogalileo.it/indepth/PhasesVenus.html"
+    },
+    {
+      "label": "Encyclopédie de philosophie de Stanford : Galileo Galilei",
+      "url": "https://plato.stanford.edu/entries/galileo/"
+    },
+    {
+      "label": "Vatican : Discours de Jean-Paul II à l'Académie pontificale des sciences, 31 octobre 1992",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1992/october/documents/hf_jp-ii_spe_19921031_accademia-scienze.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Pourquoi Galilée a-t-il été accusé d’hérésie ?",
+      "answer": "Les autorités de l’Église estimèrent que Galilée avait défendu le mouvement de la Terre malgré les restrictions antérieures interdisant de présenter l’héliocentrisme copernicien comme une réalité physique. En 1633, il fut déclaré « véhémentement suspect d’hérésie »."
+    },
+    {
+      "question": "Galilée a-t-il inventé l’héliocentrisme ?",
+      "answer": "Non. Nicolas Copernic avait proposé un modèle héliocentrique au XVIe siècle. Les observations de Galilée à la lunette astronomique ont fortement étayé les idées qui remettaient en cause le système géocentrique traditionnel."
+    },
+    {
+      "question": "Qu’est-il arrivé à Galilée après le procès ?",
+      "answer": "Galilée renonça formellement aux propositions condamnées, et sa peine fut commuée en assignation à résidence. Il passa le reste de sa vie soumis à ces restrictions, tout en poursuivant d’importants travaux scientifiques."
+    },
+    {
+      "question": "Galilée a-t-il vraiment dit « Et pourtant elle tourne » ?",
+      "answer": "Aucun témoignage contemporain fiable ne permet d’affirmer que Galilée a prononcé cette phrase après son abjuration. Il convient d’y voir une légende ultérieure plutôt qu’un fait établi."
+    },
+    {
+      "question": "Comment l’Église a-t-elle réexaminé l’affaire Galilée ?",
+      "answer": "En 1992, après les travaux d’une commission pontificale sur la controverse, le pape Jean-Paul II revint sur l’affaire Galilée et reconnut les erreurs commises dans la manière de traiter ce conflit historique."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "Galilée",
+    "gold": "le procès"
+  },
+  "readingTimeMinutes": 5
+}

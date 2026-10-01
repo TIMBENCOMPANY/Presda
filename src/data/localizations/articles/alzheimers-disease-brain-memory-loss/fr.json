@@ -1,0 +1,573 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/alzheimers-disease-brain-memory-loss/",
+  "path": "/fr/articles/alzheimers-disease-brain-memory-loss/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French editorial review",
+    "reviewedAt": "2026-10-01",
+    "terminologyChecked": true
+  },
+  "title": "ALZHEIMER : QUE SE PASSE-T-IL LORSQUE LE CERVEAU COMMENCE À VOUS OUBLIER ?",
+  "excerpt": "La maladie d’Alzheimer modifie le cerveau bien avant que la vie quotidienne ne commence à se détériorer. Au cœur de la science de la perte de mémoire, les limites des nouveaux traitements et les liens humains qui comptent encore.",
+  "seoTitle": "Maladie d'Alzheimer : mémoire, symptômes et traitement | PRESDA",
+  "description": "Explorez les symptômes de la maladie d’Alzheimer, l’amyloïde, la protéine tau et la perte de mémoire, l’évolution du diagnostic et des traitements, et ce que la maladie signifie pour les patients et leurs familles.",
+  "keywords": [
+    "La maladie d'Alzheimer",
+    "Symptômes d'Alzheimer",
+    "Les causes d'Alzheimer",
+    "perte de mémoire",
+    "démence",
+    "Traitement de la maladie d'Alzheimer",
+    "amyloïde",
+    "tau",
+    "santé du cerveau",
+    "prestation de soins",
+    "Sciences"
+  ],
+  "searchIntent": "Comprendre la maladie d’Alzheimer : que se passe-t-il lorsque le cerveau commence à vous oublier ?",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-15",
+  "updatedAt": "2026-09-15",
+  "image": {
+    "src": "/images/articles/alzheimers-disease-brain-memory-loss.webp",
+    "alt": "Illustration éditoriale conceptuelle d'un homme plus âgé tenant une photo de famille, avec des scènes de disparition d'une vie derrière lui ; une illustration de la perte de mémoire, pas un portrait documentaire d'un patient"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une question ordinaire peut devenir le premier avertissement d’une famille. A quelle heure partons-nous ? Une réponse est donnée, comprise et apparemment oubliée. Quelques minutes plus tard, la question revient. La répétition à elle seule ne permet pas d'établir un diagnostic. Mais lorsque les conversations, les itinéraires et les responsabilités familiers deviennent de plus en plus difficiles à maintenir, quelque chose de plus qu'une distraction quotidienne peut se produire."
+    },
+    {
+      "type": "paragraph",
+      "text": "La maladie d’Alzheimer menace les capacités qui nous aident à reconnaître que notre vie est la nôtre. Cela rend la discussion effrayante et facile à déformer. Il ne s’agit ni d’un vieillissement inéluctable, ni d’un simple vidage d’un classeur mental. Il s’agit d’une maladie progressive des cellules cérébrales vivantes, de leurs connexions et des systèmes qui permettent aux individus de se souvenir, d’interpréter et d’agir."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’image du titre d’un cerveau oubliant son propriétaire est une métaphore. Une personne atteinte de la maladie d’Alzheimer ne devient pas moins humaine à mesure que ses capacités changent. Comprendre la biologie est essentiel ; comprendre la personne qui doit vivre avec la maladie l'est tout autant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet article reflète les preuves et les informations réglementaires vérifiées le 15 septembre 2026. Les approbations de traitement décrites ci-dessous font référence aux États-Unis ; la disponibilité et l’éligibilité varient à l’échelle internationale. L'image d'ouverture est une illustration éditoriale conceptuelle de la perte de mémoire, et non un portrait documentaire ou une représentation de l’expérience de chaque patient."
+    },
+    {
+      "type": "heading",
+      "text": "La maladie d’Alzheimer, la démence et le vieillissement normal sont différents"
+    },
+    {
+      "type": "paragraph",
+      "text": "La démence décrit un syndrome : une détérioration des capacités de réflexion suffisamment grave pour interférer avec une vie quotidienne indépendante. La maladie d’Alzheimer est une maladie qui peut provoquer ce syndrome. D'autres causes incluent les maladies vasculaires, la maladie à corps de Lewy et la dégénérescence frontotemporale. Plusieurs maladies sous-jacentes peuvent être présentes dans le même cerveau."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Organisation mondiale de la santé identifie la maladie d’Alzheimer comme la forme de démence la plus courante, contribuant potentiellement à 60 à 70 % des cas. La distinction est importante car une explication de la perte de mémoire devrait guider le traitement, plutôt que de supposer que chaque cas est la maladie d’Alzheimer. [L'aperçu de la démence de l'OMS](https://www.who.int/news-room/fact-sheets/detail/dementia) souligne également que la démence n'est pas une conséquence inévitable du vieillissement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le vieillissement normal peut signifier un rappel plus lent, parfois égarer quelque chose ou avoir besoin de plus de temps pour apprendre des informations inconnues. Des signes plus préoccupants incluent l’oubli répété d’échanges récents, le fait de se perdre sur des trajets familiers ou la perte de la capacité de gérer des tâches qui étaient auparavant routinières. L’enjeu est un changement par rapport aux capacités habituelles de cet individu, à sa persistance et à ses conséquences sur la vie quotidienne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les problèmes de mémoire ont également d’autres explications, notamment la dépression, les effets des médicaments, les problèmes de sommeil et certaines conditions médicales. Certains sont traitables. Ni une liste de contrôle Internet ni un seul nom oublié ne peuvent en déterminer la cause. [Le guide du NIA sur la mémoire et le vieillissement](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/do-memory-problems-always-mean-alzheimers-disease) explique pourquoi l'évaluation est plus utile que l'hypothèse du pire."
+    },
+    {
+      "type": "heading",
+      "text": "Que se passe-t-il à l’intérieur du cerveau ?"
+    },
+    {
+      "type": "subheading",
+      "text": "La mémoire est un réseau, pas une boîte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un anniversaire mémorable combine les personnes, le lieu, la langue, l'émotion et le déroulement d'un événement. Ces éléments dépendent des systèmes cérébraux en interaction. L'hippocampe et le cortex entorhinal voisin sont particulièrement importants pour former et organiser de nouveaux souvenirs d'expériences. Ils sont souvent touchés au début de la maladie d’Alzheimer typique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela aide à expliquer pourquoi quelqu'un peut décrire un événement ancien tout en ayant du mal à retenir une conversation de ce matin. Cela ne signifie pas que tous les souvenirs plus anciens sont protégés de manière permanente, ni que chaque personne suit la même séquence de pertes. Différentes capacités de mémoire reposent sur des circuits en partie différents. La recherche examine de plus en plus le fonctionnement de ces circuits, et pas seulement la quantité de protéines anormales qui apparaissent lors d’un scan. Une [revue de 2026 sur la mémoire épisodique dans la maladie d'Alzheimer](https://www.nature.com/articles/s41582-026-01189-9) explore cette approche basée sur les circuits ; Les moyens proposés pour réparer ou soutenir ces circuits restent une direction de recherche et non une promesse de souvenirs retrouvés."
+    },
+    {
+      "type": "subheading",
+      "text": "Plaques amyloïdes : une caractéristique, pas une explication complète"
+    },
+    {
+      "type": "paragraph",
+      "text": "L'amyloïde bêta est un fragment de protéine produit lorsqu'une protéine plus grosse est décomposée. Dans la maladie d’Alzheimer, l’accumulation anormale comprend des plaques situées à l’extérieur des neurones. Des assemblages solubles plus petits sont également à l'étude pour leurs effets sur la fonction cellulaire. La maladie ne peut pas être expliquée simplement par de grosses masses bloquant physiquement les pensées."
+    },
+    {
+      "type": "paragraph",
+      "text": "L'amyloïde est biologiquement importante, mais une mesure de la plaque ne permet pas de capturer tout ce qui se passe dans un cerveau ni de nous indiquer exactement comment une personne fonctionnera. L’[Explication des changements cérébraux par l’Institut national sur le vieillissement](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-happens-brain-alzheimers-disease) décrit des anomalies en interaction plutôt qu’une simple obstruction mécanique."
+    },
+    {
+      "type": "subheading",
+      "text": "Enchevêtrements Tau : problèmes à l'intérieur des neurones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tau aide normalement à soutenir les structures appelées microtubules, qui font partie de l’organisation interne et du système de transport d’une cellule. Dans la maladie d’Alzheimer, des changements anormaux dans la protéine tau sont associés à son détachement, à son mauvais repliement et à son accumulation. Des agrégats enchevêtrés se développent à l’intérieur des neurones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces changements perturbent bien plus que le stockage d’un nom particulier. Ils affectent le transport cellulaire, la signalisation et la survie. La pathologie Tau se produit également dans d’autres maladies, donc le mot « tau » à lui seul ne constitue pas un diagnostic d’Alzheimer. Les chercheurs étudient différentes formes de tau, comment la protéine tau anormale se propage entre les régions connectées et quels processus pourraient être interrompus en toute sécurité. [Une revue des fonctions normales et pathologiques de la protéine tau](https://www.nature.com/articles/s41580-024-00753-9) explique pourquoi cette protéine est à la fois une nécessité biologique et un défi thérapeutique."
+    },
+    {
+      "type": "subheading",
+      "text": "Lorsque les connexions et les systèmes de support échouent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les neurones communiquent via des jonctions appelées synapses. L’apprentissage dépend en partie de l’ajustement de la force et de l’organisation de ces connexions. La maladie d’Alzheimer endommage la fonction synaptique et finit par détruire les connexions et les neurones. Les régions du cerveau perdent du volume à mesure que la dégénérescence progresse. [Recherche sur la dégénérescence synaptique](https://www.nature.com/articles/s41582-022-00749-z) place la défaillance des réseaux de communication au centre du déclin cognitif."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les neurones n'agissent pas seuls. Les microglies et autres cellules de soutien aident à maintenir le tissu cérébral et à réagir aux blessures. Une activité immunitaire protectrice dans un contexte donné peut devenir nocive lorsqu’elle est altérée de manière persistante. Les problèmes de vaisseaux sanguins et la perturbation du métabolisme cellulaire peuvent aggraver le stress. Une [revue majeure sur la neuroinflammation](https://www.nature.com/articles/s41577-024-01104-7) décrit ces processus en interaction et les traitements expérimentaux qui les ciblent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette complexité explique pourquoi l’élimination d’une protéine anormale ne reconstruit pas automatiquement un cerveau endommagé. Préserver un réseau, restaurer son fonctionnement et reconstruire des connexions déjà perdues sont des problèmes scientifiques différents."
+    },
+    {
+      "type": "heading",
+      "text": "La maladie d’Alzheimer peut-elle apparaître des années avant l’apparition des symptômes ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oui. Les changements biologiques mesurables peuvent commencer une décennie ou plus avant les symptômes évidents. Cette période sans symptômes est souvent appelée maladie d’Alzheimer préclinique. La maladie biologique et le syndrome clinique de démence ne sont donc pas des jalons interchangeables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une personne peut présenter des signes d’accumulation d’amyloïde tout en continuant à fonctionner de manière indépendante. Un biomarqueur positif ne constitue pas un compte à rebours personnel fiable avant la démence. L’âge, d’autres affections cérébrales et la résilience individuelle influencent la relation entre pathologie et symptômes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les [critères de diagnostic et de stadification 2024](https://www.alz.org/research/for_researchers/diagnostic-criteria-guidelines) de l’Alzheimer’s Association reconnaissent les changements biologiques avant les symptômes, mais ne préconisent pas les tests cliniques systématiques sur les personnes asymptomatiques en dehors de la recherche. Ces critères sont également explicitement différents des lignes directrices de pratique clinique. Être capable de détecter un processus plus tôt ne signifie pas en soi que le dépistage améliore la vie de chacun."
+    },
+    {
+      "type": "heading",
+      "text": "Signes d’alerte précoce et stades de la maladie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les difficultés de mémoire sont courantes au début, en particulier la difficulté à retenir les informations récentes. D’autres signes avant-coureurs possibles incluent des difficultés croissantes avec les mots, la planification, le jugement ou la compréhension des relations spatiales. Certaines personnes ont des présentations atypiques dans lesquelles les troubles du langage ou du traitement visuel prédominent au début. Un changement doit être évalué dans son contexte et non diagnostiqué à partir d’un seul symptôme."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une déficience cognitive légère, ou MCI, signifie une difficulté mesurable au-delà de ce qui est attendu pour la personne alors que l'indépendance quotidienne est largement conservée. Il y a plusieurs causes possibles. Certaines personnes atteintes de MCI évoluent vers la démence, tandis que d'autres restent stables ou s'améliorent ; Le MCI n’est pas automatiquement la maladie d’Alzheimer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque la maladie d’Alzheimer provoque une démence légère, des tâches telles que la gestion des finances, l’organisation des médicaments ou la navigation dans des situations inconnues peuvent nécessiter de l’aide. À un stade modéré, l'assistance s'étend de plus en plus aux routines personnelles, à la communication et à la sécurité. Une maladie grave peut entraîner une profonde dépendance, une communication limitée et des difficultés dans les activités de base, notamment manger et avaler."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces étapes décrivent des schémas généraux et non un calendrier. Les gens peuvent avoir des forces et des difficultés qui dépassent les limites des étapes, et le rythme varie. [Guide des symptômes du NIA](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/what-are-signs-alzheimers-disease) explique la progression sans assigner à chaque personne un parcours identique."
+    },
+    {
+      "type": "paragraph",
+      "text": "La maladie d’Alzheimer se développe généralement progressivement. Une confusion soudaine, un changement rapide de la vigilance ou de nouveaux symptômes neurologiques nécessitent une évaluation médicale rapide. Un état confusionnel aigu, un accident vasculaire cérébral, une infection ou un autre problème aigu peuvent survenir, y compris chez une personne déjà atteinte de démence. Une détérioration soudaine ne doit pas être simplement acceptée comme la prochaine étape de la maladie d’Alzheimer. [L'aperçu de la démence du NIA](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-dementia-symptoms-types-and-diagnosis) distingue ces possibilités."
+    },
+    {
+      "type": "heading",
+      "text": "Génétique, APOE et facteurs qui façonnent le risque"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’âge est le facteur de risque connu le plus important, mais les jeunes adultes peuvent également développer la maladie d’Alzheimer. Des antécédents familiaux suscite des inquiétudes sans pour autant rendre l’issue inévitable. La plupart des cas ne suivent pas un schéma simple dans lequel une mutation héréditaire détermine la maladie."
+    },
+    {
+      "type": "paragraph",
+      "text": "APOE aide à produire une protéine impliquée dans le transport des graisses. Ses formes courantes sont appelées ε2, ε3 et ε4. APOE ε4 est associé à un risque plus élevé de maladie d’Alzheimer ; deux copies présentent généralement un plus grand risque qu’une. APOE ε2 peut être relativement protecteur. Ni un résultat de test génétique grand public ni l’absence de ε4 ne peuvent établir qu’une personne développera ou non une démence. Les effets varient également selon les populations et les origines ancestrales. [Fiche d'information sur la génétique du NIA](https://www.nia.nih.gov/health/alzheimers-disease-genetics-fact-sheet) explique ces limites."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des recherches sur des personnes possédant deux copies ε4 ont identifié une association forte et relativement prévisible avec les anomalies biologiques de la maladie d’Alzheimer. Un [résumé du NIH de 2024 sur cette recherche](https://www.nih.gov/news-events/nih-research-matters/study-defines-major-genetic-form-alzheimers-disease) décrit les preuves d'une forme génétique distincte, tout en notant que la population étudiée était majoritairement d'ascendance européenne. Le risque biologique doit encore être distingué de la certitude quant aux symptômes et à l’avenir d’un individu."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des variantes rares de l’APP, du PSEN1 ou du PSEN2 peuvent produire une maladie d’Alzheimer héréditaire, souvent accompagnée de symptômes avant l’âge de 65 ans. Ces familles rares sont différentes du groupe beaucoup plus large comprenant un parent ayant développé une démence tard dans la vie. Un conseil génétique spécialisé peut clarifier ce que le test signifierait pour la personne et ses proches. [L'aperçu des causes du NIA](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) explique également le risque accru associé au syndrome de Down."
+    },
+    {
+      "type": "paragraph",
+      "text": "La santé vasculaire et métabolique est également importante. L’hypertension artérielle, le diabète et le tabagisme peuvent nuire aux conditions dont dépend un cerveau sain. La perte auditive, l’isolement social et d’autres expositions potentiellement modifiables figurent également dans la recherche sur la démence. Le risque apparaît tout au long de la vie ; ce n’est pas un tableau de bord moral, et un diagnostic ne constitue pas la preuve qu’une personne n’a pas vécu correctement."
+    },
+    {
+      "type": "heading",
+      "text": "Comment la maladie d’Alzheimer est diagnostiquée aujourd’hui"
+    },
+    {
+      "type": "subheading",
+      "text": "L’histoire de la personne passe toujours en premier"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une évaluation commence par ce qui a changé, quand cela a changé et comment cela affecte la vie quotidienne. Les cliniciens combinent le récit de la personne avec les informations d’une personne qui la connaît bien, le cas échéant, et examinent les médicaments, la santé physique, l’humeur, le sommeil et les capacités fonctionnelles. Les tests cognitifs examinent plusieurs capacités plutôt que la seule mémoire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les analyses de sang peuvent identifier des facteurs contribuant tels qu’un dysfonctionnement thyroïdien ou une carence en vitamines. Un examen neurologique et une imagerie cérébrale permettent d’enquêter sur d’autres explications. Les résultats des tests doivent être interprétés en prêtant attention aux difficultés linguistiques, éducatives et sensorielles. Les [lignes directrices de diagnostic de l’Alzheimer’s Association](https://pmc.ncbi.nlm.nih.gov/articles/PMC11772716/) traitent le diagnostic comme un processus clinique intégré et non comme un score obtenu lors d’un court quiz."
+    },
+    {
+      "type": "subheading",
+      "text": "L'IRM, la TEP et le liquide céphalo-rachidien répondent à différentes questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "L'IRM ou la tomodensitométrie peuvent révéler des changements structurels, des accidents vasculaires cérébraux ou d'autres anomalies. L’atrophie peut étayer une évaluation mais ne constitue pas, en soi, une preuve spécifique de la maladie d’Alzheimer. La TEP amyloïde utilise un traceur pour détecter les dépôts amyloïdes ; la TEP tau examine un marqueur de maladie différent. Le liquide céphalo-rachidien, obtenu par une ponction lombaire, peut être testé pour détecter les profils amyloïdes et tau caractéristiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce sont différentes fenêtres sur la maladie. Une analyse structurelle n’effectue pas le même travail qu’une analyse moléculaire, et détecter une protéine est différent de l’évaluation de la capacité d’une personne à cuisiner, travailler ou communiquer. [Le guide des biomarqueurs du NIA](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-biomarkers-help-diagnose-dementia) explique la distinction."
+    },
+    {
+      "type": "subheading",
+      "text": "Les biomarqueurs sanguins améliorent l'accès au diagnostic, avec des limites importantes"
+    },
+    {
+      "type": "paragraph",
+      "text": "En mai 2025, la FDA a autorisé le premier test sanguin pour aider à diagnostiquer la maladie d’Alzheimer : le rapport plasmatique Lumipulse G pTau217/β-Amyloïde 1-42. Sa population cible comprend les adultes âgés de 55 ans et plus présentant des signes et symptômes de la maladie. Il permet d’évaluer la pathologie amyloïde ; il ne mesure pas directement les souvenirs d’une personne."
+    },
+    {
+      "type": "paragraph",
+      "text": "L'[annonce de la FDA](https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease) indique explicitement qu'il n'est pas destiné au dépistage ou comme test de diagnostic autonome. Des résultats faux et des résultats incertains peuvent avoir des conséquences ; l’évaluation clinique reste donc essentielle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les [lignes directrices 2025 sur les biomarqueurs sanguins](https://pmc.ncbi.nlm.nih.gov/articles/PMC12306682/) de l’Alzheimer’s Association s’appliquent aux personnes présentant une déficience cognitive objective en soins spécialisés. En fonction des performances validées, un test peut aider à décider qui a besoin de tests supplémentaires ou jouer un rôle de confirmation dans le cadre approprié. Les tests commerciaux ne sont pas interchangeables simplement parce qu’ils mesurent une protéine portant le même nom. L’avancée significative réside dans un outil de diagnostic plus accessible, utilisé correctement, et non dans un test universel du destin à domicile."
+    },
+    {
+      "type": "heading",
+      "text": "Traitements actuels : ce qu'ils peuvent et ne peuvent pas réaliser"
+    },
+    {
+      "type": "subheading",
+      "text": "Médicaments qui soulagent les symptômes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le donépézil, la rivastigmine et la galantamine sont des inhibiteurs reconnus de la cholinestérase. Ils influencent un système de signalisation chimique important pour la cognition et peuvent apporter un bénéfice symptomatique à certaines personnes. La benzgalantamine est une autre option approuvée qui est convertie en galantamine dans le corps. La mémantine agit selon une voie de signalisation différente et est utilisée dans le traitement de la maladie d’Alzheimer modérée à sévère."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces médicaments ne suppriment pas la maladie sous-jacente et n’arrêtent pas de manière fiable sa progression. Les avantages et les effets secondaires varient, c'est pourquoi les cliniciens vérifient si un traitement est efficace et reste approprié. [Le guide de traitement du NIA](https://www.nia.nih.gov/health/how-alzheimers-disease-treated) distingue les médicaments symptomatiques des thérapies modificatrices de la maladie. Aucune des deux catégories ne propose actuellement de remède."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les soins comprennent également le traitement d’autres maladies, l’adaptation des routines quotidiennes et la gestion de la détresse. Une [revue de septembre 2026](https://www.nature.com/articles/s41582-026-01260-5) souligne que le traitement symptomatique et le soutien non médicamenteux personnalisé restent importants même avec l'arrivée de nouveaux traitements biologiques. Une avancée dans un domaine ne rend pas obsolètes les soins ordinaires et attentifs."
+    },
+    {
+      "type": "subheading",
+      "text": "Médicaments anti-amyloïdes : ralentir le déclin ne l’inversera pas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lecanemab, commercialisé sous le nom de Leqembi, et le donanemab, commercialisé sous le nom de Kisunla, sont des anticorps dirigés contre l'amyloïde. Aux États-Unis, le traitement est initié dès les premiers stades symptomatiques étudiés dans les essais : MCI ou démence légère due à la maladie d’Alzheimer, avec pathologie amyloïde confirmée. Il ne s’agit pas de traitements établis pour la démence avancée ni de prévention générale pour les personnes en bonne santé."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans l’essai Clarity AD d’une durée de 18 mois, l’aggravation moyenne sur l’échelle Clinical Dementia Rating – Sum of Boxes était de 1,21 points avec le lécanemab et de 1,66 avec le placebo. Cela représente une différence de 0,45 point sur une échelle de 18 points, généralement exprimée par une aggravation inférieure d'environ 27 % par rapport au placebo. Les deux groupes se sont aggravés en moyenne. Cela ne signifie pas que la mémoire s’est améliorée de 27 % ou que chaque personne traitée a gagné le même temps. [Clarity AD, Journal de médecine de la Nouvelle-Angleterre](https://www.nejm.org/doi/full/10.1056/NEJMoa2212948)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans l'essai TRAILBLAZER-ALZ 2 d'une durée de 76 semaines, le donanemab a produit une aggravation inférieure de 0,70 point sur la même échelle dans la population étudiée combinée, soit un ralentissement relatif d'environ 29 %. D'autres résultats et le sous-groupe avec une charge tau plus faible ont produit des pourcentages différents. Ces chiffres ne doivent pas être mélangés ni utilisés comme comparaison directe avec le lécanemab : les essais ont recruté différentes populations et ont utilisé des protocoles différents. [TRAILBLAZER-ALZ 2, JAMA](https://jamanetwork.com/journals/jama/fullarticle/2807533)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour une famille, l’espoir est de conserver plus longtemps un fonctionnement utile. Les différences moyennes observées dans les essais ne peuvent pas promettre qu'une étape particulière sera retardée pour un patient particulier. La valeur pratique doit être mise en balance avec le risque médical, la charge de traitement, l’accès et les priorités de la personne."
+    },
+    {
+      "type": "subheading",
+      "text": "Gonflement cérébral, saignement et nécessité de surveillance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les deux médicaments peuvent provoquer des anomalies d’imagerie liées à l’amyloïde, ou ARIA. Celles-ci incluent des changements liés au gonflement et aux saignements dans le cerveau. Certaines sont détectées à l’IRM sans symptômes ; d'autres peuvent être graves, voire mortelles. Les personnes possédant deux copies d’APOE ε4 présentent un risque d’ARIA plus élevé. Les hémorragies cérébrales existantes, les suspicions d'angiopathie amyloïde cérébrale et l'utilisation d'anticoagulants nécessitent une attention particulière lors de l'évaluation par un spécialiste. Les [informations de prescription de la FDA pour Kisunla](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761248s004lbl.pdf) décrivent ces risques et la nécessité de confirmer l'éligibilité et de surveiller le traitement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le lécanemab, la FDA a renforcé la surveillance précoce par IRM en 2025 après avoir examiné les cas graves d’ARIA. De nouveaux maux de tête, confusion, changements visuels, difficultés à marcher, convulsions ou autres symptômes neurologiques pendant le traitement nécessitent un avis médical urgent. L’imagerie programmée reste importante même lorsqu’un patient se sent bien. [Communication de la FDA sur la sécurité du lécanemab](https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les modalités d'administration des traitements évoluent. Le 13 juillet 2026, la FDA a annoncé l'approbation d'un schéma de traitement initial par voie sous-cutanée pour Leqembi, permettant aux patients éligibles de commencer le traitement à domicile avec une administration par eux-mêmes ou par un soignant. Une approbation antérieure avait limité cette voie à l'entretien après un traitement intraveineux. Cette [mise à jour FDA 2026](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-home-starting-dose-alzheimers-disease-treatment) modifie les options d'administration ; cela ne supprime pas la nécessité d’une sélection clinique, d’une formation et d’un suivi, ni ne transforme le médicament en remède."
+    },
+    {
+      "type": "heading",
+      "text": "Les changements de mode de vie peuvent-ils réduire les risques ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La réduction des risques est un objectif crédible de santé publique. La prévention garantie est une autre affirmation, et les preuves ne la soutiennent pas. La [deuxième édition des lignes directrices sur la réduction des risques, publiées en juillet 2026](https://www.who.int/publications/i/item/9789240123557) de l'OMS traite des comportements sains, des conditions médicales pertinentes, des expositions environnementales et des combinaisons adaptées d’interventions."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’orientation pratique consiste à soutenir la santé cardiovasculaire, à rester physiquement actif dans la limite de ses capacités, à éviter de fumer, à maintenir la participation sociale et à résoudre les problèmes de santé traitables. L’accès aux soins auditifs et visuels est également important. Ces mesures présentent des avantages plus larges, même lorsque le risque futur d’Alzheimer d’un individu ne peut pas être calculé avec précision."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Commission Lancet de 2024 a estimé que 14 facteurs potentiellement modifiables représentent ensemble environ 45 % des cas de démence au niveau de la population. Il s’agit d’une estimation modélisée de la démence potentiellement évitable ou retardable, et non d’une preuve qu’un individu peut réduire son risque de maladie d’Alzheimer de 45 %, et non d’une affirmation selon laquelle toutes les démences peuvent être évitées. Ces facteurs comprennent un niveau d'éducation inférieur, une perte auditive, un taux élevé de cholestérol LDL, la dépression, un traumatisme crânien, l'inactivité physique, le diabète, le tabagisme, l'hypertension, l'obésité, la consommation excessive d'alcool, l'isolement social, la pollution de l'air et une perte de vision non traitée. [Rapport de la Commission Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des preuves randomisées se développent également. L'essai américain POINTER de 2025 a comparé des programmes de style de vie multidomaines structurés et autoguidés chez des personnes âgées présentant un risque accru. Les deux groupes se sont améliorés sur un composite cognitif sur deux ans ; le groupe structuré a connu une amélioration légèrement supérieure. La différence de variation annuelle était de 0,029 écart-type. Cela confirme un bénéfice cognitif du programme structuré, mais n’établit pas qu’il prévient la démence d’Alzheimer. [US POINTER, JAMA](https://jamanetwork.com/journals/jama/fullarticle/2837046)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucun supplément, aucune application d’entraînement cérébral ou « détox » ne doit être présenté comme un remède éprouvé. Une vie plus saine peut soutenir le cerveau sans garantir l’immunité contre la maladie. L’examen de PRESDA sur la question de savoir [si le vieillissement humain peut être ralenti](/articles/anti-aging-can-we-slow-down-human-aging/) explore le défi plus large consistant à distinguer la biologie prometteuse des promesses commerciales."
+    },
+    {
+      "type": "heading",
+      "text": "Les gens savent-ils qu’ils oublient ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parfois, très clairement. Une personne peut remarquer des erreurs, craindre de perdre son indépendance et éprouver du chagrin à cause de capacités qui lui paraissaient autrefois faciles à réaliser. À d’autres moments, la conscience est incomplète ou considérablement altérée. L’expérience varie selon les personnes et au cours de la maladie."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’anosognosie est une difficulté neurologique à reconnaître sa propre déficience. Il ne s’agit pas simplement de refuser d’admettre un fait inconfortable. Quelqu’un peut croire sincèrement qu’il gère bien parce que les systèmes nécessaires à l’évaluation de sa performance sont eux-mêmes affectés. L’[Explication de l’anosognosie par l’Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-dementia/related_conditions/anosognosia) décrit pourquoi la confrontation ne parvient souvent pas à résoudre ce problème."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela crée un décalage douloureux : les proches peuvent voir un danger tandis que la personne voit une perte inutile de liberté. Les soins doivent prendre au sérieux la sécurité et la dignité. Une évaluation professionnelle peut aider les familles à prendre des décisions et à gérer les risques sans transformer chaque interaction en une dispute pour savoir qui se souvient correctement."
+    },
+    {
+      "type": "heading",
+      "text": "Personnalité, langage et reconnaissance"
+    },
+    {
+      "type": "paragraph",
+      "text": "La maladie d’Alzheimer peut altérer la motivation, la régulation émotionnelle et le comportement social. Une personne auparavant extravertie peut se replier sur elle-même ; une autre peut devenir anxieux, méfiant ou facilement dépassé. Ces changements ne sont pas la révélation d’un « vrai caractère » caché. Les maladies cérébrales, les exigences environnementales et les besoins non satisfaits peuvent tous façonner le comportement."
+    },
+    {
+      "type": "paragraph",
+      "text": "La difficulté à trouver les mots peut évoluer vers des difficultés à suivre une conversation ou à exprimer ses besoins. Perdre la capacité d’identifier un visage familier peut être particulièrement pénible pour les familles. La reconnaissance, la dénomination, la réponse émotionnelle et la capacité d'expliquer une relation sont des capacités liées mais distinctes ; une réponse incorrecte ne nous dit pas tout sur une interaction."
+    },
+    {
+      "type": "paragraph",
+      "text": "La communication peut s’adapter. Parlez directement à la personne, prévoyez du temps, réduisez les bruits concurrents et utilisez des phrases gérables. Les gestes, les expressions faciales et un ton calme peuvent aider lorsque les mots deviennent difficiles. Évitez de traiter une visite comme un examen de noms et de dates. Le [Guide de communication de l’Association Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/communications) met l’accent sur l’écoute et l’inclusion de la personne tout au long de la maladie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une nouvelle détresse mérite également une enquête. La douleur, la maladie, la fatigue ou un environnement trop stimulant peuvent y contribuer. Appeler chaque moment difficile « la démence » risque de négliger des besoins qui peuvent encore être satisfaits. [Les ressources de la NIA sur le comportement et la communication](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication) fournissent des conseils supplémentaires."
+    },
+    {
+      "type": "heading",
+      "text": "Les aidants et les familles ont également besoin de soutien"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le travail concret se fait discrètement : rendez-vous, repas, transports, contrôles de médicaments, encadrement et nuits interrompues. Un travail émotionnel l’accompagne. Les familles peuvent pleurer les changements dans une relation tout en partageant des moments significatifs au sein de celle-ci. L’épuisement et l’affection peuvent exister en même temps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les soins doivent être organisés autour de bien plus que de l’endurance d’un seul proche. Les responsabilités partagées, les services de répit, les groupes de soutien et l’aide professionnelle peuvent protéger à la fois la personne atteinte de démence et ceux qui la soutiennent. [Les conseils du NIA pour les aidants](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) traitent la santé de l'aidant comme faisant partie des soins durables, plutôt que comme un supplément facultatif."
+    },
+    {
+      "type": "paragraph",
+      "text": "Planifier tôt permet à la personne d'exprimer ses préférences concernant la vie quotidienne, les soins futurs et les personnes qui devraient l'aider à prendre des décisions. Un diagnostic ne supprime pas automatiquement la capacité de prendre toutes les décisions ; le soutien et les capacités doivent être considérés dans leur contexte. [Planifier après un diagnostic de démence](https://www.nia.nih.gov/health/legal-and-financial-planning-people-alzheimers) peut rendre les choix ultérieurs moins incertains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les familles ont également besoin de systèmes qui permettent de bons soins : des informations compréhensibles, des services accessibles et un soutien réaliste. La technologie peut faciliter certaines tâches, comme l'explique le reportage de PRESDA sur [l'IA et les soins aux personnes âgées au Japon](/articles/japan-enters-ai-care-era/), mais l'attention humaine ne peut pas être réduite à un dispositif de surveillance."
+    },
+    {
+      "type": "heading",
+      "text": "La frontière de la recherche et pourquoi il n’existe toujours pas de remède"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’avancée la plus évidente est que certains traitements anti-amyloïdes peuvent modifier le taux de déclin chez certains patients, tandis que les biomarqueurs peuvent améliorer la détection de la biologie sous-jacente. Les questions en suspens portent notamment sur le niveau de bénéfice qui persiste sur de longues périodes, quelles personnes en bénéficient le plus et comment réduire les risques liés au traitement et l'inégalité d'accès."
+    },
+    {
+      "type": "paragraph",
+      "text": "La [revue 2026 des médicaments en développement contre la maladie d'Alzheimer](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70251) décrit des recherches qui s’étendent au-delà de l’amyloïde jusqu’à la protéine tau, l’inflammation, le métabolisme et d’autres cibles biologiques. Les approches combinées et le traitement plus précoce dans le processus de la maladie sont des orientations importantes. La présence d’un médicament dans un essai signifie que sa valeur est testée, et non qu’il est efficace."
+    },
+    {
+      "type": "paragraph",
+      "text": "La recherche en prévention se heurte à une difficulté particulière : une intervention peut devoir être étudiée pendant des années chez des personnes qui fonctionnent actuellement bien. Un niveau plus faible de biomarqueurs n’est encourageant que s’il est finalement lié à des résultats importants, avec des préjudices acceptables. Les expériences sur les animaux, les premières études de sécurité chez l'homme, les résultats cliniques randomisés et l'approbation réglementaire sont différents niveaux de preuve."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe toujours pas de remède, car la maladie d’Alzheimer n’est pas un dysfonctionnement isolé qui peut simplement être désactivé. Les anomalies protéiques interagissent avec les dommages cellulaires, les réponses immunitaires, la santé vasculaire et le vieillissement. Au moment où les symptômes deviennent évidents, des changements substantiels peuvent déjà exister. Effacer une cible ne restaure pas nécessairement les circuits perdus, et les maladies coexistantes peuvent continuer à altérer le fonctionnement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela ne veut pas dire que la recherche n’a rien apporté. Cela signifie que les progrès doivent être décrits à leur échelle réelle : une détection plus précoce, des effets thérapeutiques mesurables mais limités, un meilleur soutien et de nouvelles hypothèses qui nécessitent encore des tests rigoureux. L'[histoire du progrès médical](/articles/history-future-of-medicine/) contient de nombreuses avancées construites grâce à de telles étapes incomplètes."
+    },
+    {
+      "type": "heading",
+      "text": "Alzheimer : mythes et réalité"
+    },
+    {
+      "type": "subheading",
+      "text": "« La démence, c'est simplement vieillir »"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’âge augmente le risque, mais le déclin cognitif invalidant n’est pas une exigence inévitable ou normale du vieillissement. La maladie d’Alzheimer est une cause de démence, et non un autre mot pour désigner tous les troubles de la mémoire."
+    },
+    {
+      "type": "subheading",
+      "text": "\"Si je porte APOE ε4, mon avenir est décidé\""
+    },
+    {
+      "type": "paragraph",
+      "text": "L’APOE affecte le risque et peut éclairer les discussions sur la sécurité du traitement. Elle ne peut pas donner à chaque individu un avenir clinique certain. Les variantes rares héréditaires causant des maladies nécessitent une discussion génétique différente."
+    },
+    {
+      "type": "subheading",
+      "text": "\"Une prise de sang peut diagnostiquer n'importe qui à elle seule\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Des biomarqueurs validés peuvent renforcer un diagnostic chez les patients appropriés. Ils doivent être interprétés parallèlement aux symptômes et aux résultats cliniques ; une promesse générale de dépistage va au-delà de l’utilisation prévue du premier test autorisé par la FDA."
+    },
+    {
+      "type": "subheading",
+      "text": "« Les nouveaux médicaments ramènent des souvenirs perdus »"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les résultats des essais anti-amyloïdes montrent une aggravation moyenne moindre chez certaines personnes atteintes d’une maladie précoce. Ils ne démontrent pas une mémoire restaurée, un bénéfice universel ou un remède, et leurs risques nécessitent une évaluation minutieuse."
+    },
+    {
+      "type": "subheading",
+      "text": "« Un mode de vie sain garantit la prévention »"
+    },
+    {
+      "type": "paragraph",
+      "text": "La réduction des risques peut aider les populations et soutenir la santé individuelle. Cela n’élimine pas l’incertitude et la maladie ne doit pas devenir une raison pour rejeter la faute sur les patients ou leurs familles."
+    },
+    {
+      "type": "subheading",
+      "text": "« Si quelqu’un ne peut pas me reconnaître, ma visite n’a plus d’importance »"
+    },
+    {
+      "type": "paragraph",
+      "text": "La capacité d’une personne à nommer un visiteur ne constitue pas une mesure complète de ce qu’elle peut ressentir ou expérimenter. La compagnie respectueuse, le réconfort et le bien-être peuvent toujours être importants même lorsque le rappel ultérieur est limité."
+    },
+    {
+      "type": "heading",
+      "text": "Si la mémoire disparaît, la personne disparaît-elle aussi ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La science peut examiner des capacités particulières et les réseaux qui les soutiennent. Elle ne peut pas transformer le résultat d’un test de mémoire en une mesure de la valeur humaine. La mémoire autobiographique est essentielle à la façon dont beaucoup d’entre nous se comprennent, mais la dignité ne dépend pas du récit précis d’une vie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il existe également une raison scientifique plus étroite pour éviter d’assimiler les événements oubliés à une absence de sentiment. Dans une petite étude réalisée en 2014, 17 personnes probablement atteintes de la maladie d’Alzheimer ont regardé des extraits de films émotionnellement évocateurs. Les sentiments pouvaient persister même lorsque leur mémoire des clips était gravement altérée. [« Sentiments sans mémoire dans la maladie d'Alzheimer »](https://pmc.ncbi.nlm.nih.gov/articles/PMC4175156/) ne prouve pas que l'émotion reste intacte à chaque étape ; cela montre pourquoi le rappel et l’expérience émotionnelle ne devraient pas être traités comme identiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une chanson familière peut inviter à l’engagement. Une interaction douce peut apporter du réconfort. Une rencontre difficile peut laisser une détresse que la personne ne peut expliquer. Aucune réponse unique n’est garantie, et les familles ne devraient pas avoir le sentiment d’avoir échoué si le moment de reconnaissance espéré n’arrive pas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La maladie d’Alzheimer peut profondément changer une vie et une relation. Être honnête à propos de ces pertes est compatible avec le fait de continuer à s’adresser, à inclure et à prendre soin de la personne présente. La réponse éthique n’est pas que rien ne change. Le changement n’annule pas la responsabilité de traiter quelqu’un comme une personne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le travail de la science consiste à comprendre ce qui peut être préservé, traité et finalement évité. Le travail de soins est déjà là : rendre la vie plus sûre, plus confortable et plus connectée pendant que la recherche se poursuit. Lorsque la mémoire devient peu fiable, la patience d’une autre personne ne devrait pas avoir à l’être."
+    }
+  ],
+  "sources": [
+    {
+      "label": "NIH/NIA : aperçu de la maladie d’Alzheimer",
+      "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet"
+    },
+    {
+      "label": "NIH/NIA : modifications cérébrales, amyloïde et tau",
+      "url": "https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-happens-brain-alzheimers-disease"
+    },
+    {
+      "label": "NIH/NIA : génétique et APOE",
+      "url": "https://www.nia.nih.gov/health/alzheimers-disease-genetics-fact-sheet"
+    },
+    {
+      "label": "Association Alzheimer : guide d’évaluation diagnostique",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11772716/"
+    },
+    {
+      "label": "FDA : premier test sanguin autorisé pour la maladie d’Alzheimer, 2025",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease"
+    },
+    {
+      "label": "Association Alzheimer : lignes directrices cliniques sur les biomarqueurs sanguins, 2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12306682/"
+    },
+    {
+      "label": "NEJM : essai Clarity AD sur le lécanemab",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2212948"
+    },
+    {
+      "label": "JAMA : Essai TRAILBLAZER-ALZ 2 sur le donanemab",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2807533"
+    },
+    {
+      "label": "FDA : informations de prescription de Kisunla et avertissements ARIA",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761248s004lbl.pdf"
+    },
+    {
+      "label": "FDA : surveillance renforcée du lécanemab par IRM",
+      "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab"
+    },
+    {
+      "label": "FDA : schéma thérapeutique de départ à domicile pour Leqembi, juillet 2026",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-home-starting-dose-alzheimers-disease-treatment"
+    },
+    {
+      "label": "OMS : lignes directrices pour la réduction des risques de démence, deuxième édition, 2026",
+      "url": "https://www.who.int/publications/i/item/9789240123557"
+    },
+    {
+      "label": "The Lancet : Commission de prévention, d’intervention et de soins de la démence en 2024",
+      "url": "https://doi.org/10.1016/S0140-6736(24)01296-0"
+    },
+    {
+      "label": "JAMA : essai de style de vie US POINTER, 2025",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2837046"
+    },
+    {
+      "label": "Alzheimer et démence : pipeline de développement de médicaments d’ici 2026",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70251"
+    },
+    {
+      "label": "Nature Reviews Neurologie : traitement symptomatique, septembre 2026",
+      "url": "https://www.nature.com/articles/s41582-026-01260-5"
+    },
+    {
+      "label": "Association Alzheimer : anosognosie",
+      "url": "https://www.alz.org/alzheimers-dementia/what-is-dementia/related_conditions/anosognosia"
+    },
+    {
+      "label": "Neurologie cognitive et comportementale : sentiments sans mémoire, 2014",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4175156/"
+    },
+    {
+      "label": "NIH/NIA : soutien aux soignants",
+      "url": "https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself"
+    }
+  ],
+  "faq": [
+    {
+      "question": "De quoi parle cet article PRESDA ?",
+      "answer": "La maladie d’Alzheimer modifie le cerveau bien avant que la vie quotidienne ne commence à se détériorer. Au cœur de la science de la perte de mémoire, les limites des nouveaux traitements et les liens humains qui comptent encore."
+    },
+    {
+      "question": "À quelle catégorie appartient cette histoire ?",
+      "answer": "Cette histoire fait partie de la couverture scientifique de PRESDA."
+    },
+    {
+      "question": "Qui a publié cet article ?",
+      "answer": "ALZHEIMER : QUE SE PASSE-T-IL LORSQUE LE CERVEAU COMMENCE À VOUS OUBLIER ? a été publié par PRESDA Editorial sur PRESDA."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "ALZHEIMER",
+    "gold": "VOUS OUBLIER"
+  },
+  "readingTimeMinutes": 25
+}

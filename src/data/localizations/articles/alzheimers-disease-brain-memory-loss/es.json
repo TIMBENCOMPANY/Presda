@@ -1,0 +1,573 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/alzheimers-disease-brain-memory-loss/",
+  "path": "/es/articles/alzheimers-disease-brain-memory-loss/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish editorial review",
+    "reviewedAt": "2026-10-01",
+    "terminologyChecked": true
+  },
+  "title": "ALZHEIMER: ¿QUÉ PASA CUANDO EL CEREBRO EMPIEZA A OLVIDARTE?",
+  "excerpt": "El Alzheimer cambia el cerebro mucho antes de que la vida diaria comience a desmoronarse. Dentro de la ciencia de la pérdida de memoria, los límites de los nuevos tratamientos y las conexiones humanas que aún importan.",
+  "seoTitle": "Enfermedad de Alzheimer: memoria, síntomas y tratamiento | PRESDA",
+  "description": "Explore los síntomas del Alzheimer, el amiloide, la tau y la pérdida de memoria, cómo están cambiando el diagnóstico y los tratamientos, y qué significa la enfermedad para los pacientes y sus familias.",
+  "keywords": [
+    "enfermedad de alzheimer",
+    "Síntomas del Alzheimer",
+    "Causas del Alzheimer",
+    "pérdida de memoria",
+    "demencia",
+    "Tratamiento del alzhéimer",
+    "amiloide",
+    "Tau",
+    "salud cerebral",
+    "cuidado",
+    "Ciencia"
+  ],
+  "searchIntent": "Entiende el alzheimer: ¿qué pasa cuando el cerebro empieza a olvidarte?",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-09-15",
+  "updatedAt": "2026-09-15",
+  "image": {
+    "src": "/images/articles/alzheimers-disease-brain-memory-loss.webp",
+    "alt": "Ilustración editorial conceptual de un hombre mayor sosteniendo una fotografía familiar, con escenas desvaídas de su vida detrás de él; una ilustración de la pérdida de memoria, no un retrato documental de un paciente"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Una pregunta común y corriente puede convertirse en la primera advertencia de una familia. ¿A qué hora nos vamos? Una respuesta se da, se comprende y aparentemente se olvida. Minutos después, vuelve la pregunta. La repetición por sí sola no puede establecer un diagnóstico. Pero cuando las conversaciones, rutas conocidas y responsabilidades habituales se vuelven cada vez más difíciles de mantener, es posible que esté sucediendo algo más que la distracción cotidiana."
+    },
+    {
+      "type": "paragraph",
+      "text": "La enfermedad de Alzheimer amenaza las capacidades que nos ayudan a reconocer nuestras vidas como propias. Eso hace que sea aterrador discutirlo y fácil tergiversarlo. No se trata de un envejecimiento inevitable ni de un simple vaciado de un archivador mental. Es una enfermedad progresiva de las células cerebrales vivas, sus conexiones y los sistemas que permiten a las personas recordar, interpretar y actuar."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen del título de un cerebro que olvida a su dueño es una metáfora. Una persona con Alzheimer no se vuelve menos humana a medida que cambian sus capacidades. Comprender la biología es importante; también lo es comprender a la persona que debe vivir con ello."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este artículo refleja evidencia e información regulatoria verificada el 15 de septiembre de 2026. Las aprobaciones de tratamientos que se describen a continuación se refieren a los Estados Unidos; la disponibilidad y elegibilidad varían a nivel internacional. La imagen principal presentada es una ilustración editorial conceptual de la pérdida de memoria, no un retrato documental o una representación de la experiencia de cada paciente."
+    },
+    {
+      "type": "heading",
+      "text": "El Alzheimer, la demencia y el envejecimiento normal son diferentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "La demencia describe un síndrome: deterioro de la capacidad de pensar lo suficientemente grave como para interferir con la vida cotidiana independiente. El Alzheimer es una enfermedad que puede causar ese síndrome. Otras causas incluyen enfermedad vascular, enfermedad de cuerpos de Lewy y degeneración frontotemporal. Puede haber más de una enfermedad subyacente en un mismo cerebro."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Organización Mundial de la Salud identifica el Alzheimer como la forma más común de demencia y potencialmente contribuye al 60-70% de los casos. La distinción es importante porque una explicación de la pérdida de memoria debería guiar el tratamiento, en lugar de asumir que cada caso es Alzheimer. [El resumen de la demencia de la OMS](https://www.who.int/news-room/fact-sheets/detail/dementia) también enfatiza que la demencia no es una consecuencia inevitable del envejecimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "El envejecimiento normal puede significar una evocación más lenta de los recuerdos, ocasionalmente extraviar algo o necesitar más tiempo para aprender información desconocida. Patrones más preocupantes incluyen olvidar repetidamente intercambios recientes, perderse en recorridos conocidos o perder la capacidad de gestionar tareas que antes eran rutinarias. La cuestión es un cambio respecto de las capacidades habituales de ese individuo, su persistencia y su efecto en la vida diaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los problemas de memoria también tienen otras explicaciones, como la depresión, los efectos de los medicamentos, los problemas del sueño y ciertas afecciones médicas. Algunos son tratables. Ni una lista de verificación en Internet ni un solo nombre olvidado pueden determinar la causa. [La guía del NIA sobre la memoria y el envejecimiento](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/do-memory-problems-always-mean-alzheimers-disease) explica por qué evaluar es más útil que suponer lo peor."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué sucede dentro del cerebro?"
+    },
+    {
+      "type": "subheading",
+      "text": "La memoria es una red, no una caja"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cumpleaños recordado combina personas, lugar, idioma, emoción y la secuencia de un evento. Estos elementos dependen de sistemas cerebrales que interactúan. El hipocampo y la corteza entorrinal cercana son especialmente importantes para formar y organizar nuevos recuerdos de experiencias. A menudo se ven afectados en las primeras etapas de la enfermedad de Alzheimer típica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso ayuda a explicar por qué alguien puede describir un evento antiguo y aun así tener dificultades para retener una conversación de esta mañana. No significa que todos los recuerdos más antiguos estén protegidos permanentemente o que todas las personas sigan la misma secuencia de pérdidas. Las diferentes capacidades de memoria dependen de circuitos parcialmente diferentes. Las investigaciones examinan cada vez más cómo funcionan esos circuitos, no sólo cuánta proteína anormal aparece en una exploración. Una [revisión de 2026 sobre la memoria episódica en la enfermedad de Alzheimer](https://www.nature.com/articles/s41582-026-01189-9) explora este enfoque basado en circuitos; las formas propuestas para reparar o respaldar esos circuitos siguen siendo una dirección de investigación, no una promesa de recuerdos recuperados."
+    },
+    {
+      "type": "subheading",
+      "text": "Placas amiloides: un sello distintivo, no la explicación completa"
+    },
+    {
+      "type": "paragraph",
+      "text": "La beta amiloide es un fragmento de proteína que se produce cuando se descompone una proteína más grande. En el Alzheimer, la acumulación anormal incluye placas fuera de las neuronas. También se están investigando conjuntos solubles más pequeños por sus efectos sobre la función celular. La enfermedad no se puede explicar simplemente como grandes bultos que bloquean físicamente los pensamientos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El amiloide es biológicamente importante, pero una medición de la placa no captura todo lo que sucede en el cerebro ni nos dice exactamente cómo funcionará una persona. La [explicación de los cambios cerebrales del Instituto Nacional sobre el Envejecimiento](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-happens-brain-alzheimers-disease) describe anomalías que interactúan en lugar de una única obstrucción mecánica."
+    },
+    {
+      "type": "subheading",
+      "text": "Ovillos de tau: problemas dentro de las neuronas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tau normalmente ayuda a sostener estructuras llamadas microtúbulos, parte de la organización interna y el sistema de transporte de una célula. En el Alzheimer, los cambios anormales en tau están asociados con su desprendimiento, mal plegamiento y acumulación. Dentro de las neuronas se desarrollan agregados enredados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos cambios alteran mucho más que el almacenamiento de un nombre en particular. Afectan el transporte celular, la señalización y la supervivencia. La patología tau también ocurre en otras enfermedades, por lo que la palabra \"tau\" por sí sola no es un diagnóstico de Alzheimer. Los investigadores están investigando diferentes formas de tau, cómo se propaga la tau anormal entre regiones conectadas y qué procesos podrían interrumpirse de forma segura. [Una revisión de las funciones normales y patológicas de tau](https://www.nature.com/articles/s41580-024-00753-9) explica por qué esta proteína es tanto una necesidad biológica como un desafío terapéutico."
+    },
+    {
+      "type": "subheading",
+      "text": "Cuando fallan las conexiones y los sistemas de soporte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las neuronas se comunican a través de uniones llamadas sinapsis. El aprendizaje depende en parte del ajuste de la fuerza y la organización de estas conexiones. El Alzheimer daña la función sináptica y eventualmente destruye conexiones y neuronas. Las regiones del cerebro pierden volumen a medida que avanza la degeneración. [La investigación sobre la degeneración sináptica](https://www.nature.com/articles/s41582-022-00749-z) sitúa el fallo de las redes de comunicación en el centro del deterioro cognitivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las neuronas no actúan solas. La microglía y otras células de soporte ayudan a mantener el tejido cerebral y a responder a las lesiones. La actividad inmune que es protectora en un entorno puede volverse dañina cuando se altera persistentemente. Los problemas de los vasos sanguíneos y la alteración del metabolismo celular pueden añadir más estrés. Una [revisión importante sobre neuroinflamación](https://www.nature.com/articles/s41577-024-01104-7) describe estos procesos interactivos y los tratamientos experimentales dirigidos a ellos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta complejidad explica por qué la eliminación de una proteína anormal no reconstruye automáticamente un cerebro dañado. Preservar una red, restaurar su funcionamiento y reconstruir conexiones que ya se han perdido son problemas científicos diferentes."
+    },
+    {
+      "type": "heading",
+      "text": "¿Puede el Alzheimer comenzar años antes de los síntomas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí. Los cambios biológicos mensurables pueden comenzar una década o más antes de los síntomas obvios. Este período sin síntomas a menudo se denomina Alzheimer preclínico. Por tanto, la enfermedad biológica y el síndrome clínico de la demencia no son hitos intercambiables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alguien puede tener evidencia de acumulación de amiloide mientras continúa funcionando de forma independiente. Un biomarcador positivo no proporciona una cuenta regresiva personal confiable hacia la demencia. La edad, otras afecciones cerebrales y la resiliencia individual influyen en la relación entre patología y síntomas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los [criterios de diagnóstico y estadificación de 2024](https://www.alz.org/research/for_researchers/diagnostic-criteria-guidelines) de la Asociación de Alzheimer reconocen los cambios biológicos antes de los síntomas, pero no respaldan las pruebas clínicas de rutina de personas asintomáticas fuera de la investigación. Esos criterios también son explícitamente diferentes de las guías de práctica clínica. Ser capaz de detectar un proceso antes no establece, por sí solo, que examinar a todas las personas mejore sus vidas."
+    },
+    {
+      "type": "heading",
+      "text": "Señales de alerta temprana y etapas de la enfermedad"
+    },
+    {
+      "type": "paragraph",
+      "text": "La dificultad de memoria es común en las primeras etapas, especialmente la dificultad para retener información reciente. Otras posibles señales de advertencia incluyen problemas cada vez mayores con las palabras, la planificación, el juicio o la comprensión de las relaciones espaciales. Algunas personas tienen presentaciones atípicas en las que el lenguaje o el procesamiento visual son más prominentes inicialmente. Un cambio debe evaluarse en contexto, no diagnosticarse a partir de un síntoma."
+    },
+    {
+      "type": "paragraph",
+      "text": "El deterioro cognitivo leve, o DCL, significa una dificultad mensurable más allá de lo que se espera para la persona, mientras que se conserva en gran medida la independencia cotidiana. Tiene varias causas posibles. Algunas personas con deterioro cognitivo leve progresan hacia la demencia, mientras que otras permanecen estables o mejoran; el deterioro cognitivo leve no es automáticamente Alzheimer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando el Alzheimer causa demencia leve, tareas como administrar las finanzas, organizar medicamentos o afrontar situaciones desconocidas pueden requerir ayuda. En una etapa moderada, la asistencia se extiende cada vez más a las rutinas personales, la comunicación y la seguridad. Una enfermedad grave puede provocar una profunda dependencia, una comunicación limitada y dificultades con las actividades básicas, incluidas comer y tragar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas etapas describen patrones generales, no un cronograma. Las personas pueden tener fortalezas y dificultades que trascienden los límites de las etapas, y el ritmo varía. [La guía de síntomas de la NIA](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/what-are-signs-alzheimers-disease) explica la progresión sin asignar a cada persona un curso idéntico."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Alzheimer suele desarrollarse gradualmente. La confusión repentina, un cambio rápido en el estado de alerta o nuevos síntomas neurológicos necesitan una evaluación médica inmediata. Puede tratarse de un síndrome confusional agudo, un accidente cerebrovascular, una infección u otro problema agudo, incluso en alguien que ya tiene demencia. Un deterioro repentino no debería aceptarse simplemente como la siguiente etapa del Alzheimer. [La descripción general de la demencia del NIA](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-dementia-symptoms-types-and-diagnosis) distingue estas posibilidades."
+    },
+    {
+      "type": "heading",
+      "text": "Genética, APOE y los factores que configuran el riesgo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La edad avanzada es el factor de riesgo más importante conocido, pero los adultos más jóvenes también pueden desarrollar Alzheimer. Los antecedentes familiares genera preocupación sin que el resultado sea inevitable. La mayoría de los casos no siguen un patrón simple en el que una mutación heredada determina la enfermedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "APOE ayuda a producir una proteína involucrada en el transporte de grasas. Sus formas comunes se denominan ε2, ε3 y ε4. APOE ε4 se asocia con un mayor riesgo de Alzheimer; dos copias generalmente confieren mayor riesgo que una. APOE ε2 puede ser relativamente protector. Ni un resultado de una prueba genética de venta directa al consumidor ni la ausencia de ε4 pueden establecer que una persona desarrollará o no demencia. Los efectos también varían según las poblaciones y los orígenes de ascendencia. [La hoja informativa sobre genética del NIA](https://www.nia.nih.gov/health/alzheimers-disease-genetics-fact-sheet) explica esos límites."
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación en personas con dos copias de ε4 ha identificado una asociación fuerte y relativamente predecible con las anomalías biológicas del Alzheimer. Un [resumen de esa investigación de los NIH de 2024](https://www.nih.gov/news-events/nih-research-matters/study-defines-major-genetic-form-alzheimers-disease) describe evidencia de una forma genética distinta, al tiempo que señala que la población del estudio era predominantemente de ascendencia europea. El riesgo biológico aún debe distinguirse de la certeza sobre los síntomas y el futuro de un individuo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las variantes raras que causan enfermedades en APP, PSEN1 o PSEN2 pueden producir Alzheimer hereditario, a menudo con síntomas antes de los 65 años. Estas familias poco comunes son diferentes del grupo mucho más amplio con un pariente que desarrolló demencia en una etapa avanzada de su vida. El asesoramiento genético especializado puede aclarar lo que significarían las pruebas para la persona y sus familiares. [La descripción general de las causas del NIA](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) también explica el mayor riesgo asociado con el síndrome de Down."
+    },
+    {
+      "type": "paragraph",
+      "text": "La salud vascular y metabólica también es importante. La presión arterial alta, la diabetes y el tabaquismo pueden dañar las condiciones de las que depende un cerebro sano. La pérdida de audición, el aislamiento social y otras exposiciones potencialmente modificables también figuran en la investigación sobre la demencia. El riesgo surge a lo largo de la vida; no es un cuadro de mando moral y un diagnóstico no es evidencia de que alguien no haya vivido correctamente."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo se diagnostica el Alzheimer hoy en día"
+    },
+    {
+      "type": "subheading",
+      "text": "La historia de la persona sigue siendo lo primero"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una evaluación comienza con qué cambió, cuándo cambió y cómo afecta la vida diaria. Los médicos combinan el relato de la persona con información de alguien que la conoce bien, cuando corresponde, y revisan los medicamentos, la salud física, el estado de ánimo, el sueño y las capacidades funcionales. Las pruebas cognitivas examinan varias habilidades en lugar de solo la memoria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los análisis de sangre pueden identificar factores contribuyentes como la disfunción tiroidea o la deficiencia de vitaminas. Un examen neurológico y unas imágenes cerebrales ayudan a investigar otras explicaciones. El desempeño de la prueba debe interpretarse prestando atención al lenguaje, la educación y las dificultades sensoriales. La [directriz de diagnóstico de la Asociación de Alzheimer](https://pmc.ncbi.nlm.nih.gov/articles/PMC11772716/) trata el diagnóstico como un proceso clínico integrado, no como la puntuación de un cuestionario breve."
+    },
+    {
+      "type": "subheading",
+      "text": "La resonancia magnética, la tomografía por emisión de positrones y el líquido cefalorraquídeo responden a diferentes preguntas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La resonancia magnética o la tomografía computarizada pueden revelar cambios estructurales, accidentes cerebrovasculares u otras anomalías. La atrofia puede respaldar una evaluación, pero no es, por sí sola, una prueba específica de la enfermedad de Alzheimer. La PET con amiloide utiliza un marcador para detectar depósitos de amiloide; la PET tau examina un marcador de enfermedad diferente. El líquido cefalorraquídeo, obtenido mediante punción lumbar, se puede analizar para detectar patrones característicos de amiloide y tau."
+    },
+    {
+      "type": "paragraph",
+      "text": "Éstas son diferentes ventanas a la enfermedad. Un escaneo estructural no realiza el mismo trabajo que un escaneo molecular, y detectar una proteína es diferente a evaluar la capacidad de alguien para cocinar, trabajar o comunicarse. [La guía de biomarcadores del NIA](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-biomarkers-help-diagnose-dementia) explica la distinción."
+    },
+    {
+      "type": "subheading",
+      "text": "Los biomarcadores sanguíneos están cambiando el acceso, con limitaciones importantes"
+    },
+    {
+      "type": "paragraph",
+      "text": "En mayo de 2025, la FDA autorizó el primer análisis de sangre para ayudar a diagnosticar el Alzheimer: la proporción plasmática Lumipulse G pTau217/β-amiloide 1-42. Su población objetivo incluye adultos de 55 años o más con signos y síntomas de la enfermedad. Ayuda a evaluar la patología amiloide; no mide directamente los recuerdos de una persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "El [anuncio de la FDA](https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease) dice explícitamente que no está destinado a fines de detección ni como prueba de diagnóstico independiente. Los resultados falsos y los hallazgos inciertos pueden tener consecuencias, por lo que la evaluación clínica sigue siendo esencial."
+    },
+    {
+      "type": "paragraph",
+      "text": "La [directriz de biomarcadores sanguíneos de 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12306682/) de la Asociación de Alzheimer se aplica a personas con deterioro cognitivo objetivo en atención especializada. Dependiendo del desempeño validado, una prueba puede ayudar a decidir quién necesita más pruebas o cumplir una función de confirmación en el entorno adecuado. Las pruebas comerciales no son intercambiables simplemente porque miden una proteína con un nombre similar. El avance significativo es una herramienta de diagnóstico más accesible utilizada correctamente, no una prueba casera universal para determinar el destino."
+    },
+    {
+      "type": "heading",
+      "text": "Tratamientos actuales: lo que pueden y lo que no pueden lograr"
+    },
+    {
+      "type": "subheading",
+      "text": "Medicamentos que ayudan a los síntomas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Donepezilo, rivastigmina y galantamina son inhibidores de la colinesterasa establecidos. Influyen en un sistema de señalización química importante para la cognición y pueden proporcionar beneficios sintomáticos a algunas personas. La benzgalantamina es otra opción aprobada que se convierte en galantamina en el cuerpo. La memantina actúa a través de una vía de señalización diferente y se utiliza para el Alzheimer de moderado a grave."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos medicamentos no eliminan la enfermedad subyacente ni detienen de manera confiable su progresión. Los beneficios y efectos secundarios varían, por lo que los médicos revisan si un tratamiento está ayudando y sigue siendo apropiado. [La guía de tratamiento del NIA](https://www.nia.nih.gov/health/how-alzheimers-disease-treated) distingue los medicamentos sintomáticos de las terapias modificadoras de la enfermedad. Actualmente, ninguna de las categorías proporciona una cura."
+    },
+    {
+      "type": "paragraph",
+      "text": "La atención también incluye el tratamiento de otras enfermedades, la adaptación de las rutinas diarias y el tratamiento de la angustia. Una [revisión de septiembre de 2026](https://www.nature.com/articles/s41582-026-01260-5) enfatiza que el tratamiento sintomático y el apoyo personalizado sin medicamentos siguen siendo importantes incluso cuando llegan nuevos tratamientos biológicos. Un avance en un área no hace que la atención atenta y ordinaria quede obsoleta."
+    },
+    {
+      "type": "subheading",
+      "text": "Fármacos antiamiloides: ralentizar el declive no es revertirlo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lecanemab, comercializado como Leqembi, y donanemab, comercializado como Kisunla, son anticuerpos dirigidos contra el amiloide. En Estados Unidos el tratamiento se inicia en las primeras etapas sintomáticas estudiadas en los ensayos: DCL o demencia leve por Alzheimer, con patología amiloide confirmada. No son tratamientos establecidos para la demencia avanzada ni prevención de propósito general para personas sanas."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el ensayo Clarity AD de 18 meses, el empeoramiento promedio en la escala Clinical Dementia Rating-Sum of Boxes fue de 1,21 puntos con lecanemab y 1,66 con placebo. Esa es una diferencia de 0,45 puntos en una escala de 18 puntos, comúnmente expresada como aproximadamente un 27% menos de disminución en relación con el placebo. Ambos grupos empeoraron en promedio. Esto no significa que los recuerdos mejoraron en un 27%, ni que todos los individuos tratados ganaron la misma cantidad de tiempo. [Clarity AD, Revista de Medicina de Nueva Inglaterra](https://www.nejm.org/doi/full/10.1056/NEJMoa2212948)."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el ensayo TRAILBLAZER-ALZ 2 de 76 semanas, donanemab produjo un empeoramiento 0,70 puntos menor en la misma escala en la población combinada del estudio, aproximadamente un 29% de desaceleración relativa. Otros resultados y el subgrupo con menor carga de tau produjeron porcentajes diferentes. Esas cifras no deben mezclarse ni utilizarse como comparación directa con lecanemab: los ensayos incluyeron poblaciones diferentes y utilizaron diseños diferentes. [TRAILBLAZER-ALZ 2, JAMA](https://jamanetwork.com/journals/jama/fullarticle/2807533)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para una familia, la esperanza es preservar el funcionamiento útil por más tiempo. Las diferencias promedio entre los ensayos no pueden prometer que un hito en particular se retrasará para un paciente en particular. El valor práctico debe sopesarse junto con el riesgo médico, la carga del tratamiento, el acceso y las prioridades de la persona."
+    },
+    {
+      "type": "subheading",
+      "text": "Hinchazón cerebral, sangrado y necesidad de seguimiento"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ambos medicamentos pueden causar anomalías en las imágenes relacionadas con el amiloide, o ARIA. Estos incluyen hinchazón y cambios en el cerebro relacionados con el sangrado. Algunos se encuentran en la resonancia magnética sin síntomas; otros pueden ser graves o mortales. Las personas con dos copias de APOE ε4 tienen mayor riesgo de ARIA. La hemorragia cerebral existente, la sospecha de angiopatía amiloide cerebral y el uso de anticoagulantes requieren especial atención durante la evaluación del especialista. La [información de prescripción de la FDA para Kisunla](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761248s004lbl.pdf) describe estos riesgos y la necesidad de confirmar la elegibilidad y monitorear el tratamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para lecanemab, la FDA reforzó la monitorización temprana por resonancia magnética en 2025 después de revisar casos graves de ARIA. Nuevos dolores de cabeza, confusión, cambios visuales, dificultad para caminar, convulsiones u otros síntomas neurológicos durante el tratamiento requieren atención médica urgente. Las imágenes programadas siguen siendo importantes incluso cuando el paciente se siente bien. [Comunicación de seguridad de lecanemab de la FDA](https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab)."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prestación de tratamientos está evolucionando. El 13 de julio de 2026, la FDA anunció la aprobación de un régimen inicial de administración subcutánea para Leqembi, que permite a los pacientes elegibles comenzar el tratamiento en casa con la administración por parte de ellos mismos o de un cuidador. La aprobación anterior había limitado esta vía al mantenimiento después del tratamiento intravenoso. Esta [actualización de la FDA de 2026](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-home-starting-dose-alzheimers-disease-treatment) cambia las opciones de administración; no elimina la necesidad de selección clínica, capacitación y seguimiento, ni convierte el medicamento en una cura."
+    },
+    {
+      "type": "heading",
+      "text": "¿Pueden los cambios en el estilo de vida reducir el riesgo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La reducción del riesgo es un objetivo creíble de salud pública. La prevención garantizada es una afirmación diferente y la evidencia no la respalda. Las [directrices de reducción de riesgos de segunda edición, publicadas en julio de 2026](https://www.who.int/publications/i/item/9789240123557) de la OMS abordan comportamientos saludables, afecciones médicas relevantes, exposiciones ambientales y combinaciones personalizadas de intervenciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "La dirección práctica es apoyar la salud cardiovascular, mantenerse físicamente activo dentro de sus capacidades, evitar fumar, mantener la participación social y abordar problemas de salud tratables. El acceso a la atención auditiva y visual también es importante. Estas medidas tienen beneficios más amplios incluso cuando el riesgo futuro de Alzheimer de un individuo no se puede calcular con precisión."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Comisión Lancet de 2024 estimó que 14 factores potencialmente modificables juntos representan aproximadamente el 45% de los casos de demencia a nivel poblacional. Esta es una estimación modelada de demencia potencialmente prevenible o retrasable, no una prueba de que un individuo pueda reducir su riesgo de Alzheimer en un 45%, ni una afirmación de que todas las demencias puedan prevenirse. Los factores incluyen menor educación, pérdida de audición, colesterol LDL alto, depresión, lesiones en la cabeza, inactividad física, diabetes, tabaquismo, hipertensión, obesidad, consumo excesivo de alcohol, aislamiento social, contaminación del aire y pérdida de la visión no tratada. [Informe de la Comisión Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)."
+    },
+    {
+      "type": "paragraph",
+      "text": "También se están desarrollando pruebas aleatorias. El ensayo US POINTER de 2025 comparó programas de estilo de vida multidominio estructurados y autoguiados en adultos mayores con mayor riesgo. Ambos grupos mejoraron en una medida cognitiva compuesta durante dos años; el grupo estructurado mejoró modestamente más. La diferencia en el cambio anual fue de 0,029 desviaciones estándar. Esto respalda un beneficio cognitivo del programa estructurado, pero no establece que prevenga la demencia de Alzheimer. [PUNTERO DE EE. UU., JAMA](https://jamanetwork.com/journals/jama/fullarticle/2837046)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ningún suplemento, aplicación de entrenamiento cerebral o “desintoxicación” debe presentarse como una cura comprobada. Una vida más saludable puede apoyar al cerebro sin otorgar inmunidad contra las enfermedades. El examen de PRESDA sobre [si se puede frenar el envejecimiento humano](/articles/anti-aging-can-we-slow-down-human-aging/) explora el desafío más amplio de distinguir la biología prometedora de las promesas comerciales."
+    },
+    {
+      "type": "heading",
+      "text": "¿Sabe la gente que está olvidando?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces, muy claramente. Una persona puede notar errores, temer perder la independencia y experimentar pena por habilidades que antes se sentían sin esfuerzo. En otras ocasiones, la conciencia es incompleta o está sustancialmente afectada. La experiencia varía según las personas y durante el curso de la enfermedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "La anosognosia es una dificultad neurológica para reconocer la propia deficiencia. No se trata simplemente de negarse a admitir un hecho incómodo. Alguien puede creer sinceramente que está gestionando bien porque los sistemas necesarios para evaluar su desempeño están afectados. La [explicación de la anosognosia de la Asociación de Alzheimer](https://www.alz.org/alzheimers-dementia/what-is-dementia/related_conditions/anosognosia) describe por qué la confrontación a menudo no resuelve este problema."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto crea un doloroso desajuste: los familiares pueden ver peligro mientras la persona ve una pérdida innecesaria de libertad. La atención debe tomar en serio tanto la seguridad como la dignidad. Una evaluación profesional puede ayudar a las familias a respaldar las decisiones y gestionar el riesgo sin convertir cada interacción en una discusión sobre quién recuerda correctamente."
+    },
+    {
+      "type": "heading",
+      "text": "Personalidad, lenguaje y reconocimiento"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Alzheimer puede alterar la motivación, la regulación emocional y el comportamiento social. Una persona antes extrovertida puede retraerse; otra puede volverse ansioso, desconfiado o fácilmente abrumado. Estos cambios no son una revelación de un “verdadero carácter” oculto. Las enfermedades cerebrales, las demandas ambientales y las necesidades insatisfechas pueden moldear el comportamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "La dificultad para encontrar palabras puede progresar a problemas para seguir una conversación o expresar necesidades. Perder la capacidad de identificar un rostro familiar puede resultar especialmente angustiante para las familias. El reconocimiento, la denominación, la respuesta emocional y la capacidad de explicar una relación son habilidades relacionadas pero distintas; una respuesta fallida no nos dice todo sobre una interacción."
+    },
+    {
+      "type": "paragraph",
+      "text": "La comunicación puede adaptarse. Hable directamente con la persona, dé tiempo, reduzca el ruido de fondo y utilice frases manejables. Los gestos, las expresiones faciales y un tono tranquilo pueden ayudar cuando las palabras se vuelven difíciles. Evite tratar una visita como un examen de nombres y fechas. La [guía de comunicación de la Asociación de Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/communications) hace hincapié en escuchar e incluir a la persona durante toda la enfermedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una nueva angustia también merece investigación. El dolor, la enfermedad, la fatiga o un entorno sobreestimulante pueden estar contribuyendo. Llamar a cada momento difícil “la demencia” corre el riesgo de pasar por alto necesidades que aún pueden abordarse. [Los recursos de la NIA sobre comportamiento y comunicación](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication) brindan más orientación."
+    },
+    {
+      "type": "heading",
+      "text": "Los cuidadores y las familias también necesitan atención"
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo práctico se expande silenciosamente: citas, comidas, transporte, controles de medicación, supervisión y noches interrumpidas. El trabajo emocional lo acompaña. Las familias pueden lamentar los cambios en una relación y al mismo tiempo compartir momentos significativos dentro de ella. El cansancio y el cariño pueden existir al mismo tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La atención debe organizarse en torno a algo más que la resistencia de un familiar. Las responsabilidades compartidas, los servicios de relevo, los grupos de apoyo y la ayuda profesional pueden proteger tanto a la persona con demencia como a quienes la apoyan. [La guía para cuidadores de NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) trata la salud del cuidador como parte de una atención sostenible, en lugar de un extra opcional."
+    },
+    {
+      "type": "paragraph",
+      "text": "La planificación temprana permite a la persona expresar preferencias sobre la vida diaria, los cuidados futuros y quién debe ayudar con las decisiones. Un diagnóstico no elimina automáticamente la capacidad de tomar todas las decisiones; el apoyo y la capacidad deben considerarse en contexto. [La planificación después de un diagnóstico de demencia](https://www.nia.nih.gov/health/legal-and-financial-planning-people-alzheimers) puede hacer que las decisiones posteriores sean menos inciertas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las familias también necesitan sistemas que hagan posible una buena atención: información comprensible, servicios accesibles y apoyo realista. La tecnología puede ayudar en algunas tareas, como se explora en la cobertura de PRESDA sobre [la IA y el cuidado de personas mayores en Japón](/articles/japan-enters-ai-care-era/), pero la atención humana no puede reducirse a un dispositivo de monitoreo."
+    },
+    {
+      "type": "heading",
+      "text": "La frontera de la investigación y por qué todavía no existe cura"
+    },
+    {
+      "type": "paragraph",
+      "text": "El avance más claro establecido es que ciertos tratamientos antiamiloide pueden alterar la tasa de deterioro en pacientes seleccionados, mientras que los biomarcadores pueden mejorar la detección de la biología subyacente. Las cuestiones pendientes incluyen cuánto beneficio persiste durante períodos más prolongados, qué personas se benefician más y cómo reducir los riesgos del tratamiento y el acceso desigual."
+    },
+    {
+      "type": "paragraph",
+      "text": "La [revisión del proceso de desarrollo de fármacos para el Alzheimer de 2026](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70251) describe la investigación que se extiende más allá del amiloide hasta la tau, la inflamación, el metabolismo y otros objetivos biológicos. Los enfoques combinados y el tratamiento en etapas más tempranas del proceso de la enfermedad son direcciones importantes. La presencia de un fármaco en un ensayo significa que se está probando su valor, no que sea eficaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación sobre prevención enfrenta una dificultad particular: puede ser necesario estudiar una intervención durante años en personas que actualmente funcionan bien. Un nivel más bajo de biomarcador es alentador sólo si en última instancia se conecta con resultados importantes, con daños aceptables. Los experimentos con animales, los primeros estudios de seguridad en humanos, los resultados clínicos aleatorios y la aprobación regulatoria son diferentes niveles de evidencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todavía no existe cura porque el Alzheimer no es una disfunción aislada que pueda simplemente desactivarse. Las anomalías de las proteínas interactúan con el daño celular, las respuestas inmunitarias, la salud vascular y el envejecimiento. Cuando los síntomas son evidentes, es posible que ya existan cambios sustanciales. Limpiar un objetivo no necesariamente restaura los circuitos perdidos y las enfermedades coexistentes pueden seguir deteriorando la función."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no significa que la investigación no haya logrado nada. Significa que el progreso debe describirse en su escala real: detección más temprana, efectos del tratamiento mensurables pero limitados, mejor apoyo y nuevas hipótesis que aún necesitan pruebas rigurosas. La [historia del progreso médico](/articles/history-future-of-medicine/) contiene muchos avances construidos a través de pasos tan incompletos."
+    },
+    {
+      "type": "heading",
+      "text": "Alzheimer: mitos versus realidad"
+    },
+    {
+      "type": "subheading",
+      "text": "“La demencia es envejecer”"
+    },
+    {
+      "type": "paragraph",
+      "text": "La edad aumenta el riesgo, pero el deterioro cognitivo incapacitante no es un requisito inevitable o normal del envejecimiento. El Alzheimer es una causa de demencia, no otra palabra para cada problema de memoria."
+    },
+    {
+      "type": "subheading",
+      "text": "“Si llevo APOE ε4, mi futuro está decidido”"
+    },
+    {
+      "type": "paragraph",
+      "text": "APOE afecta el riesgo y puede informar las discusiones sobre seguridad del tratamiento. No puede dar a cada individuo un futuro clínico determinado. Las variantes raras que causan enfermedades hereditarias requieren una discusión genética diferente."
+    },
+    {
+      "type": "subheading",
+      "text": "“Un análisis de sangre puede diagnosticar a cualquier persona por sí solo”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los biomarcadores validados pueden fortalecer un diagnóstico en pacientes apropiados. Deben interpretarse junto con los síntomas y los hallazgos clínicos; una promesa de detección general va más allá del uso previsto de la primera prueba aprobada por la FDA."
+    },
+    {
+      "type": "subheading",
+      "text": "“Los nuevos fármacos recuperan los recuerdos perdidos”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los resultados de los ensayos antiamiloide muestran un empeoramiento promedio menor en personas seleccionadas con enfermedad temprana. No demuestran memoria restaurada, beneficio universal o cura, y sus riesgos requieren una evaluación cuidadosa."
+    },
+    {
+      "type": "subheading",
+      "text": "“Un estilo de vida saludable garantiza prevención”"
+    },
+    {
+      "type": "paragraph",
+      "text": "La reducción de riesgos puede ayudar a las poblaciones y respaldar la salud individual. No elimina la incertidumbre y la enfermedad no debe convertirse en motivo para culpar a los pacientes o sus familias."
+    },
+    {
+      "type": "subheading",
+      "text": "“Si alguien no puede reconocerme, mi visita ya no importa”"
+    },
+    {
+      "type": "paragraph",
+      "text": "La capacidad de una persona para nombrar a un visitante no es una medida completa de lo que puede sentir o experimentar. La compañía respetuosa, la tranquilidad y el consuelo pueden seguir siendo importantes incluso cuando el recuerdo posterior sea limitado."
+    },
+    {
+      "type": "heading",
+      "text": "Si la memoria desaparece, ¿la persona también desaparece?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia puede examinar habilidades particulares y las redes que las apoyan. No puede convertir la puntuación de una prueba de memoria en una medida del valor humano. La memoria autobiográfica es fundamental para saber cómo muchos de nosotros nos entendemos a nosotros mismos, pero la dignidad no depende de contar una vida con precisión."
+    },
+    {
+      "type": "paragraph",
+      "text": "También existe una razón científica más estrecha para evitar equiparar los acontecimientos olvidados con la ausencia de sentimiento. En un pequeño estudio de 2014, 17 personas con probable Alzheimer vieron clips de películas emocionalmente evocadores. Los sentimientos podían persistir incluso cuando su memoria de los clips estaba gravemente afectada. [“Sentimientos sin memoria en la enfermedad de Alzheimer”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4175156/) no prueba que las emociones permanezcan intactas en cada etapa; muestra por qué el recuerdo y la experiencia emocional no deben tratarse como idénticos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una canción familiar puede invitar a la participación. Una interacción amable puede brindar consuelo. Un encuentro difícil puede dejar una angustia que la persona no puede explicar. No hay una respuesta única garantizada, y las familias no deben sentir que han fracasado cuando no llega el momento de reconocimiento esperado."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Alzheimer puede cambiar profundamente una vida y una relación. Ser honesto ante esas pérdidas es compatible con seguir dirigiéndose a la persona, incluyéndola y cuidándola que está presente. La respuesta ética no es que nada cambie. Es que el cambio no cancela la responsabilidad de tratar a alguien como persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "La labor de la ciencia es comprender qué se puede preservar, tratar y, en última instancia, prevenir. El trabajo de la atención ya está aquí: hacer la vida más segura, más cómoda y más conectada mientras continúa la investigación. Cuando la memoria se vuelve poco confiable, la paciencia de otra persona no debería serlo."
+    }
+  ],
+  "sources": [
+    {
+      "label": "NIH/NIA: descripción general de la enfermedad de Alzheimer",
+      "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet"
+    },
+    {
+      "label": "NIH/NIA: cambios cerebrales, amiloide y tau",
+      "url": "https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-happens-brain-alzheimers-disease"
+    },
+    {
+      "label": "NIH/NIA: genética y APOE",
+      "url": "https://www.nia.nih.gov/health/alzheimers-disease-genetics-fact-sheet"
+    },
+    {
+      "label": "Asociación de Alzheimer: guía de evaluación diagnóstica",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11772716/"
+    },
+    {
+      "label": "FDA: primer análisis de sangre aprobado para Alzheimer, 2025",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease"
+    },
+    {
+      "label": "Asociación de Alzheimer: guía clínica sobre biomarcadores sanguíneos, 2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12306682/"
+    },
+    {
+      "label": "NEJM: ensayo Clarity AD lecanemab",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2212948"
+    },
+    {
+      "label": "JAMA: ensayo TRAILBLAZER-ALZ 2 con donanemab",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2807533"
+    },
+    {
+      "label": "FDA: información de prescripción de Kisunla y advertencias de ARIA",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761248s004lbl.pdf"
+    },
+    {
+      "label": "FDA: monitoreo reforzado de lecanemab por resonancia magnética",
+      "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab"
+    },
+    {
+      "label": "FDA: régimen inicial en casa para Leqembi, julio de 2026",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-home-starting-dose-alzheimers-disease-treatment"
+    },
+    {
+      "label": "OMS: directrices para la reducción del riesgo de demencia, segunda edición, 2026",
+      "url": "https://www.who.int/publications/i/item/9789240123557"
+    },
+    {
+      "label": "The Lancet: Comisión de prevención, intervención y atención de la demencia en 2024",
+      "url": "https://doi.org/10.1016/S0140-6736(24)01296-0"
+    },
+    {
+      "label": "JAMA: ensayo de estilo de vida US POINTER, 2025",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2837046"
+    },
+    {
+      "label": "Alzheimer y demencia: proyecto de desarrollo de fármacos hasta 2026",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70251"
+    },
+    {
+      "label": "Nature Reviews Neurología: tratamiento sintomático, septiembre 2026",
+      "url": "https://www.nature.com/articles/s41582-026-01260-5"
+    },
+    {
+      "label": "Asociación de Alzheimer: anosognosia",
+      "url": "https://www.alz.org/alzheimers-dementia/what-is-dementia/related_conditions/anosognosia"
+    },
+    {
+      "label": "Neurología cognitiva y conductual: sentimientos sin memoria, 2014",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4175156/"
+    },
+    {
+      "label": "NIH/NIA: apoyo a los cuidadores",
+      "url": "https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿De qué trata este artículo de PRESDA?",
+      "answer": "El Alzheimer cambia el cerebro mucho antes de que la vida diaria comience a desmoronarse. Dentro de la ciencia de la pérdida de memoria, los límites de los nuevos tratamientos y las conexiones humanas que aún importan."
+    },
+    {
+      "question": "¿A qué categoría pertenece esta historia?",
+      "answer": "Esta historia es parte de la cobertura de Ciencia de PRESDA."
+    },
+    {
+      "question": "¿Quién publicó este artículo?",
+      "answer": "PRESDA Editorial publicó «ALZHEIMER: ¿QUÉ PASA CUANDO EL CEREBRO EMPIEZA A OLVIDARTE?» en PRESDA."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "ALZHEIMER",
+    "gold": "EL CEREBRO"
+  },
+  "readingTimeMinutes": 23
+}
