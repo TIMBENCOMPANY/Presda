@@ -1,0 +1,77 @@
+import type { Article } from "@/data/articles";
+
+const sources = {
+  departure: { name: "Reuters: Ronaldo confirms departure from Portugal camp, September 30, 2026", url: "https://wsau.com/2026/09/30/soccer-ronaldo-leaves-portugal-camp-amid-reports-of-rift-with-coach-jesus/" },
+  federation: { name: "EFE: Portuguese federation's official response, September 30, 2026", url: "https://efe.com/deportes/2026-09-30/cristiano-ronaldo-federacion-concentracion-seleccion/" },
+  training: { name: "Reuters via UOL: training absence and Jorge Jesus's press conference, September 30, 2026", url: "https://www.uol.com.br/esporte/ultimas-noticias/reuters/2026/09/30/cristiano-ronaldo-nao-comparece-a-treino-de-portugal-apos-jorge-jesus-negar-desentendimento.amp.htm" },
+  coach: { name: "RTP: exclusive interview with Jorge Jesus, September 30, 2026", url: "https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-nenhum-grande-jogador-iria-gostar-de-nao-ser-opcao_d1768714" },
+  statement: { name: "RTP: Ronaldo's public statement and the federation's confirmation, September 30, 2026", url: "https://www.rtp.pt/noticias/ligadasnacoes/a-seu-tempo-direi-a-verdade-ronaldo-confirma-saida-do-estagio-da-selecao_d1768722" },
+  sky: { name: "Sky Sports: Wales appearance and Norway benching, September 30, 2026", url: "https://www.skysports.com/football/news/13593759/cristiano-ronaldo-portugal-captain-leaves-squad-amid-reported-rift-with-head-coach-jorge-jesus" },
+  fixtures: { name: "UEFA: Portugal's Nations League fixtures", url: "https://www.uefa.com/uefanationsleague/teams/110--portugal/matches/" },
+  debut: { name: "FIFA: Ronaldo's Portugal debut and international goals record", url: "https://inside.fifa.com/news/infantino-cristiano-ronaldo-deserves-global-acclaim-for-goals-record" },
+  records: { name: "UEFA: Ronaldo's 234 caps and 146 goals, updated September 26, 2026", url: "https://www.uefa.com/uefanationsleague/news/023f-0e9797c3479b-bdb6067609d3-1000--ramos-breaks-buffon-s-european-caps-record/" },
+  trophies: { name: "UEFA: Ronaldo on Portugal's 2025 Nations League title", url: "https://www.uefa.com/uefanationsleague/news/029a-1df5b00bcf70-60bbbcb2fb30-1000--cristiano-ronaldo-and-nuno-mendes-on-portugal-s-uefa-nations/" }
+};
+const cite = (key: keyof typeof sources) => ` [${sources[key].name}](${sources[key].url})`;
+
+export const ronaldoPortugalArticle: Article = {
+  id: "165",
+  slug: "cristiano-ronaldo-leaves-portugal-camp-2026",
+  title: "Cristiano Ronaldo Leaves Portugal Camp: Is This the End of an Era?",
+  seoTitle: "Cristiano Ronaldo Leaves Portugal Camp: What Is Confirmed",
+  metaDescription: "Ronaldo has left Portugal's camp ahead of the October 1 Denmark match. What he, Jorge Jesus and the federation said, and why retirement remains unconfirmed.",
+  schemaType: "NewsArticle",
+  headlineHighlights: { red: "Cristiano Ronaldo", gold: "End of an Era" },
+  excerpt: "Portugal's captain has left the squad after being an unused substitute against Norway. His departure is confirmed. An international retirement is not.",
+  category: "Sport",
+  date: "2026-10-01",
+  lastUpdated: "2026-10-01",
+  author: "PRESDA Editorial",
+  coverImage: "/articles/cristiano-ronaldo-portugal-camp-2026.png",
+  coverAlt: "Black and white editorial illustration of Cristiano Ronaldo in Portugal training wear against a dark background",
+  homepageImagePosition: "70% 35%",
+  status: "published",
+  readingTime: "5 min read",
+  relatedSlugs: ["the-last-dance-footballs-greatest-generation", "world-cup-2026-countdown", "highest-paid-athletes-2026"],
+  tags: ["Cristiano Ronaldo", "Portugal", "Jorge Jesus", "Nations League", "Denmark", "Norway", "football", "international football"],
+  content: [
+    "Cristiano Ronaldo has left Portugal's national-team camp in Copenhagen ahead of the October 1 Nations League match against Denmark. The captain announced his decision on Wednesday, September 30, after coach Jorge Jesus's press conference and a conversation with Portuguese Football Federation president Pedro Proença. The federation subsequently confirmed his departure." + cite("departure") + cite("federation"),
+    "The central distinction is clear: Ronaldo has left this camp, but the statements reviewed do not announce his retirement from international football. His longer-term Portugal future remains unresolved. The departure announcement was made on September 30, not October 1, the date of this report and Portugal's next match.",
+    "Reporting checked at 04:40 UTC on October 1, 2026, before the Denmark match. The supplied black and white hero is an editorial illustration, not a documentary photograph of Ronaldo leaving camp.",
+    "## WHAT HAPPENED BEFORE HE LEFT?",
+    "Ronaldo started Portugal's Nations League opener against Wales on September 24. Sky Sports reported that he had an effort disallowed following a VAR intervention and was substituted in the 67th minute of the home victory. Three days later, he remained an unused substitute as Portugal won 2-1 away to Norway." + cite("sky"),
+    "The Norway selection became the focus of questions about his role under Jesus. According to Reuters, the coach had indicated that Ronaldo would come on after starting on the bench, but ultimately chose not to use him. Ronaldo subsequently worked in the gym rather than joining the group sessions on Monday and Tuesday." + cite("training"),
+    "That sequence establishes the background to his departure. It does not, on its own, establish everything discussed privately between player, coach and federation. Ronaldo has said he will explain his reasons later.",
+    "## WHAT JORGE JESUS SAID",
+    "At Wednesday's press conference, Jesus denied that Ronaldo had refused to train and said he would take part that day. Reuters then obtained confirmation from the federation that Ronaldo had not participated in the session. The coach's expectation and the subsequent absence are both part of the verified chronology." + cite("training"),
+    "Jesus also denied that there had been an incident and said he had spoken with Ronaldo. Those are the coach's statements, rather than independent confirmation of what happened in their private conversation." + cite("training"),
+    "In a separate interview with Portuguese public broadcaster RTP before the departure, Jesus explained that he had not considered the Norway match the right moment to introduce Ronaldo. RTP reported that the captain had been told in advance he would not start in Oslo or Copenhagen. Jesus said a Tuesday-night conversation had resolved the issue." + cite("coach"),
+    "His public position was therefore that selection decisions remained his responsibility and that the situation had been addressed. Ronaldo's later announcement confirmed that the captain would not remain with the squad. It did not provide a detailed response to the coach's account.",
+    "## WHAT RONALDO HAS PUBLICLY SAID",
+    "In his Instagram statement, reported by Reuters and reproduced by RTP, Ronaldo linked his decision to the national coach's press conference and his conversation with Proença. He said he would explain the reasons for his departure to the Portuguese public in due course." + cite("departure") + cite("statement"),
+    "He also wished Portugal and all his teammates good luck, without exception. The public message confirms his decision to leave and his intention to say more. It does not set out a return date or explicitly declare the end of his international career." + cite("statement"),
+    "The wording has prompted questions about a possible final break, but a question about his future is not an official retirement announcement. Nor does his promise of a later explanation establish wrongdoing by anyone else. The reasons he has chosen not yet to detail remain unconfirmed.",
+    "## THE FEDERATION'S RESPONSE",
+    "The Portuguese Football Federation confirmed that Ronaldo had left the national-team camp in Copenhagen. Its statement said preparations for Denmark and Norway would continue as planned with the remaining 24 players. It identified the Norway fixture as taking place at Estádio do Dragão in Porto." + cite("federation"),
+    "As reported by EFE, the federation did not explain the reasons for his departure. It stressed that the delegation remained focused on the upcoming matches and its objectives. The statement did not announce an international retirement or give a timetable for any future return." + cite("federation"),
+    "For Portugal, the immediate schedule continues. UEFA lists the away match against Denmark on October 1 and the home match against Norway on October 4. The federation's stated plan is to prepare for those fixtures with the players still in camp." + cite("fixtures"),
+    "## CONFIRMED FACTS AND THE QUESTIONS STILL OPEN",
+    "Confirmed: Ronaldo announced his departure on September 30; the federation confirmed it; he had been an unused substitute against Norway; and Portugal said its preparations would continue with 24 players. Ronaldo and Jesus have each made public statements, which should be read as their respective accounts.",
+    "Still uncertain: Ronaldo's full reasons for leaving, whether he will return for a later Portugal squad and whether he intends to retire from international football. Neither the departure itself nor his age resolves those questions. An explicit announcement from Ronaldo or an authorised official statement would be needed to report retirement as confirmed.",
+    "That leaves a significant story without a settled ending. It is possible to report the departure and its consequences for this camp while keeping claims about a permanent farewell out of the factual record.",
+    "## WHY A POSSIBLE ENDING WOULD MATTER",
+    "Ronaldo's senior Portugal career began against Kazakhstan on August 20, 2003. More than two decades later, he remains the figure connecting successive generations of the national side. FIFA's account of his early career traces that debut and the first international goal that followed at EURO 2004." + cite("debut"),
+    "UEFA's record page, updated September 26, 2026, lists 234 international appearances and 146 goals. It identifies him as the most-capped men's international player and records the goalscoring milestone he established by passing Ali Daei's previous world record in 2021. These are dated career figures, not a declaration that his totals are final." + cite("records"),
+    "He captained Portugal to EURO 2016 and Nations League titles in 2019 and 2025. In the 2025 final against Spain, he scored Portugal's second equaliser before the team won on penalties. UEFA's account shows why his significance extends beyond longevity: he was still contributing decisive goals to a trophy-winning side at 40." + cite("trophies"),
+    "A confirmed final departure would therefore close a chapter spanning national records, major trophies and a generation of supporters. For now, that remains a conditional assessment of its significance. His achievements are established; the ending of his Portugal career is not.",
+    "For the wider generational context, read [PRESDA's feature on football's greatest generation](/articles/the-last-dance-footballs-greatest-generation/). Our [World Cup 2026 records and statistics feature](/articles/world-cup-2026-countdown/) provides broader tournament context.",
+    "Portugal now faces Denmark without its captain in camp. The next authoritative development will be what Ronaldo or the federation explicitly announces about his status. Until then, the confirmed news is his departure from this gathering, with his international future still uncertain."
+  ],
+  faq: [
+    { question: "When did Cristiano Ronaldo leave Portugal's camp?", answer: "Ronaldo announced his departure from the Copenhagen camp on September 30, 2026, ahead of Portugal's October 1 Nations League match against Denmark. The federation confirmed it that evening." },
+    { question: "Has Cristiano Ronaldo officially retired from Portugal?", answer: "The statements reviewed at 04:40 UTC on October 1, 2026 do not announce an international retirement. Leaving this camp does not, by itself, confirm a permanent departure." },
+    { question: "Why was Ronaldo on the bench against Norway?", answer: "Jorge Jesus said Ronaldo had been told he would not start. The coach considered bringing him on but decided the match circumstances did not call for it. Portugal won 2-1." },
+    { question: "What did the Portuguese federation say?", answer: "It confirmed Ronaldo had left the Copenhagen camp and said preparations for Denmark and Norway would continue with the remaining 24 players. It did not explain his reasons or announce retirement." }
+  ],
+  references: Object.values(sources)
+};
