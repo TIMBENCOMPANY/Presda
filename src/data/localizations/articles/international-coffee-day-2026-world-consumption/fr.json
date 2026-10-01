@@ -1,0 +1,317 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/international-coffee-day-2026-world-consumption/",
+  "path": "/fr/articles/international-coffee-day-2026-world-consumption/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex French editorial and source review",
+    "reviewedAt": "2026-10-02",
+    "terminologyChecked": true
+  },
+  "title": "Journée internationale du café 2026 : le monde boit plus de 3 milliards de tasses par jour",
+  "excerpt": "Un rituel quotidien relie des milliards de tasses à des millions de familles d'agriculteurs. Le 1er octobre, une nouvelle reconnaissance de l’ONU place les créateurs du café sous les projecteurs.",
+  "seoTitle": "Journée internationale du café 2026 : 3 milliards de tasses par jour",
+  "description": "Journée internationale du café 2026 : consommation vérifiée de café, principaux producteurs, agriculteurs et culture, avec les dernières données de l'OIC, de la FAO/ONU et de l'USDA.",
+  "keywords": [
+    "Journée internationale du café 2026",
+    "consommation de café",
+    "production de café",
+    "producteurs de café",
+    "OIC",
+    "FAO",
+    "USDA",
+    "culture du café"
+  ],
+  "searchIntent": "Comprendre la Journée internationale du café 2026 : le monde boit plus de 3 milliards de tasses par jour",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-01",
+  "updatedAt": "2026-10-01",
+  "image": {
+    "src": "/articles/international-coffee-day-2026.png",
+    "alt": "Illustration éditoriale d'un barista, d'un café en plein air et d'une tasse de café à côté de grains torréfiés et de cerises de café"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La première tasse peut ressembler à un rituel privé. Ensemble, ces tasses forment une économie mondiale. L'ONUDI, l'Organisation des Nations Unies pour le développement industriel, estime la consommation quotidienne de café à plus de 3 milliards de tasses. Sa publication d'avril 2025 fournit l'estimation derrière ce titre ; il ne s'agit pas d'un nouveau nombre de boissons versées le 1er octobre 2026. [ONUDI : estimation de la consommation quotidienne mondiale de café, 10 avril 2025](https://www.unido.org/news/unido-leads-ai-sustainability-dialogue-google-cloud-next-25-driving-innovation-climate-resilient-coffee-supply-chains-beyond)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Journée internationale du café tombe le 1er octobre. La célébration de cette année a un nouveau statut : c'est la première depuis que l'Assemblée générale des Nations Unies a officiellement reconnu cette date le 10 mars 2026. Cette célébration associe la valeur sociale du café aux questions de subsistance, de commerce et d'environnement qui la sous-tendent. [ICO : Journée internationale du Café et sa reconnaissance en 2026](https://internationalcoffeeday.org/about/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce rapport utilise les informations disponibles au 1er octobre 2026. Les estimations, les prévisions et les périodes de reporting sont identifiées tout au long. L’image principale est une illustration éditoriale et non une photographie documentant un événement officiel."
+    },
+    {
+      "type": "heading",
+      "text": "COMBIEN DE CAFÉ LE MONDE BOIT-IL ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tasse est familière ; l’unité statistique l’est moins. Les organismes du secteur du café publient généralement les volumes en sacs de 60 kilogrammes de café vert ou leur équivalent. Une estimation du nombre de tasses consommées chaque jour permet de saisir l’ampleur du phénomène, mais elle n’est pas interchangeable avec un bilan quantitatif établi en poids : la taille des portions, les méthodes de préparation et la quantité de café utilisée varient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rapport d'août 2026 de l'OIC intègre les estimations de l'offre et de la demande publiées le 10 septembre. Pour l'année caféière 2025/26, il estime la consommation à 180,6 millions de sacs et la production à 183,6 millions. La consommation est estimée en baisse de 0,8 % par rapport à 2024/25, suite à la forte croissance de cette année-là. Il s'agit de chiffres d'octobre à septembre, et la consommation est un calcul de consommation apparente utilisant l'offre, le commerce et les stocks plutôt qu'une enquête sur les tasses individuelles. [ICO : Rapport sur le marché du café d'août 2026, y compris les estimations du 10 septembre](https://www.ico.org/documents/cy2025-26/cmr-0826-e.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les perspectives de juillet 2026 de l'USDA prévoient plutôt une consommation de 179,736 millions de sacs pour 2026/27 et une production de 189,667 millions. Ses années de commercialisation varient selon les pays producteurs. Gardez ces séries séparées : leurs périodes et méthodes diffèrent, donc soustraire un chiffre de consommation de l'ICO d'une prévision de production de l'USDA ne produirait pas un excédent valable. [USDA : Café, marchés mondiaux et commerce, juillet 2026](https://apps.fas.usda.gov/psdonline/circulars/2026/07/coffee.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "QUELS PAYS DOMINENT LA PRODUCTION DE CAFÉ ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Brésil est en tête, suivi du Vietnam. Le tableau utilise une source cohérente : les prévisions de juillet 2026 de l'USDA pour 2026/27, exprimées en millions de sacs de 60 kilogrammes. Il s’agit des volumes de récolte attendus, et non des résultats définitifs pour l’année civile 2026."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[COFFEE_DAY_2026_PRODUCERS_TABLE]]",
+      "caption": "Principaux producteurs : prévisions USDA de juillet 2026 pour 2026/27. Millions de sacs de 60 kilogrammes.",
+      "headings": [
+        "Pays",
+        "Production prévue"
+      ],
+      "rows": [
+        [
+          "Brésil",
+          "71,90"
+        ],
+        [
+          "Vietnam",
+          "32,50"
+        ],
+        [
+          "Colombie",
+          "13,40"
+        ],
+        [
+          "Éthiopie",
+          "12,10"
+        ],
+        [
+          "Indonésie",
+          "11,38"
+        ],
+        [
+          "Ouganda",
+          "7,16"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Source : Résumé du café de l'USDA, page 7. Les six pays sont classés selon la production totale prévue. [USDA : Café, marchés mondiaux et commerce, juillet 2026](https://apps.fas.usda.gov/psdonline/circulars/2026/07/coffee.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La taille du Brésil rend ses conditions de croissance importantes bien au-delà de ses frontières. Le rapport national de l'USDA de juin a lié sa reprise anticipée à de meilleures conditions météorologiques et à la phase de rendement plus élevé du cycle de production alterné des arbres. Il décrit également les producteurs adaptant leurs pratiques de gestion et recherchant des variétés plus résilientes. La prévision d’une récolte importante ne supprime pas la nécessité de gérer les risques météorologiques. [USDA : Rapport annuel sur le café au Brésil, 1 juin 2026](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Brasilia_Brazil_BR2026-0025.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "OÙ CONSOMME-T-ON LE CAFÉ ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L'USDA prévoit une consommation de 42,50 millions de sacs dans l'Union européenne, 26,95 millions aux États-Unis et 22,39 millions au Brésil pour 2026/27. L’UE est un bloc, pas un pays. Il s’agit de volumes totaux et non d’un classement par personne. [USDA : Café, marchés mondiaux et commerce, juillet 2026](https://apps.fas.usda.gov/psdonline/circulars/2026/07/coffee.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Brésil démontre pourquoi la division familière entre les pays qui cultivent le café et ceux qui en boivent est incomplète. Le rapport de l'USDA sur le Brésil décrit un marché intérieur important, le café torréfié et moulu représentant la majeure partie de la consommation intérieure projetée. Les grains de café peuvent soutenir les entreprises nationales et les routines quotidiennes ainsi que les revenus d'exportation. [USDA : Rapport annuel sur le café au Brésil, 1 juin 2026](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Brasilia_Brazil_BR2026-0025.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les différences comptent lorsqu’on lit les affirmations sur les plus grands buveurs de café au monde. La demande totale d’un pays peuplé répond à une question différente de celle de la consommation moyenne d’un résident. Aucune de ces mesures, à elle seule, ne permet de saisir l’importance d’une boisson pour une communauté particulière."
+    },
+    {
+      "type": "heading",
+      "text": "DES MILLIONS D'AGRICULTEURS DERRIÈRE LA TASSE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La FAO affirme que le café fait vivre environ 25 millions d'agriculteurs. La campagne 2026 de l'ICO cite environ 12,5 millions de familles d'agriculteurs. Ces chiffres décrivent différentes unités et ne doivent pas être additionnés ni présentés comme des effectifs concurrents. [FAO : Reconnaissance des Nations Unies et importance économique du café, 10 mars 2026](https://www.fao.org/newsroom/detail/fao-welcomes-un-resolution-instituting-international-coffee-day/en) [ICO : Campagne 2026 Le café fait partie de la solution](https://www.ico.org/documents/cy2025-26/pr-363e-coffee-is-part-of-the-solution-campaign.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour certains pays, le café est également essentiel à la capacité de payer les importations. La FAO rapporte qu’il représentait 27,9 % des exportations de marchandises de l'Éthiopie, 20,1 % de celles de l'Ouganda et 19,5 % de celles du Burundi en 2024. Il s'agit de parts commerciales datées et non d'estimations pour 2026. Elles montrent pourquoi une discussion qui commence au comptoir d'un café devient rapidement une question de revenus ruraux et de sécurité économique nationale. [FAO : Reconnaissance par l'ONU et importance économique du café, 10 mars 2026](https://www.fao.org/newsroom/detail/fao-welcomes-un-resolution-instituting-international-coffee-day/en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les conditions agricoles varient fortement. Le rapport de l'USDA d'avril 2026 sur le Honduras décrit les gains attendus d'une meilleure nutrition, de la taille et de la maturation des plantations, tout en identifiant la rouille des feuilles et la hausse des coûts d'exploitation comme des préoccupations persistantes. De meilleures perspectives de récolte et une pression sur les marges des agriculteurs peuvent coexister. Un prix international plus élevé du café ne constitue pas, en soi, une mesure du profit des ménages. [USDA : Rapport annuel sur le café au Honduras, 29 avril 2026](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Tegucigalpa_Honduras_HO2026-0002.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au Salvador, le rapport d'avril de l'USDA identifie les pénuries de main-d'œuvre et l'accès restreint au financement comme des obstacles pratiques à l'élagage, au remplacement des arbres et à la récolte. Son récit rend tangible le travail derrière la boisson : produire une récolte nécessite des personnes, des investissements et des soins bien avant qu'un torréfacteur ou un client ne voie les grains. [USDA : Rapport annuel sur le café au Salvador, 20 avril 2026](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_San+Salvador_El+Salvador_ES2026-0004.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LES PRIX DU CAFÉ RESTENT UNE HISTOIRE DE 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le prix indicatif composite de l'OIC était en moyenne de 287,29 cents américains par livre en août 2026, presque inchangé par rapport à juillet. Au cours du mois, les inquiétudes concernant El Niño et la disponibilité limitée d'Arabica à court terme ont soutenu une reprise ; plus tard, les précipitations brésiliennes et les attentes d’un approvisionnement accru ont atténué la pression. Une moyenne mensuelle quasiment stable peut donc dissimuler des mouvements importants. [ICO : Rapport sur le marché du café d'août 2026, y compris les estimations du 10 septembre](https://www.ico.org/documents/cy2025-26/cmr-0826-e.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet indicateur n’est pas le prix affiché à la carte d’un café. Le rapport de l'USDA sur le Honduras note que les contrats, les stocks et les structures de prix peuvent retarder la transmission des changements du marché des matières premières aux prix de détail. Le prix d’un sac sur une place de marché et le prix d'une boisson finie appartiennent à différentes étapes de la chaîne. [USDA : Rapport annuel sur le café au Honduras, 29 avril 2026](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Tegucigalpa_Honduras_HO2026-0002.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour les lecteurs, la distinction utile se situe entre un mouvement de marché signalé et une prédiction concernant la tasse de demain. Cet article ne fait aucune prévision des prix de détail. Cela ne signifie pas non plus que tous les agriculteurs ont bénéficié de la même manière d’une période de hausse des prix des matières premières."
+    },
+    {
+      "type": "heading",
+      "text": "LA CULTURE DU CAFÉ EST ENCORE CHANGEANTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La culture du café ne se limite pas à une seule préparation, à un seul type de magasin ou à un seul continent. La plateforme de la Journée internationale du café de l'OIC connecte les producteurs, les torréfacteurs, les baristas et les consommateurs, présentant la célébration comme un événement partagé tout au long de la chaîne. Les personnes qui fabriquent le café à l’origine appartiennent à cette image culturelle autant que celles qui le servent. [ICO : Journée internationale du Café et sa reconnaissance en 2026](https://internationalcoffeeday.org/about/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Salvador fournit un exemple actuel. L'USDA rapporte une activité croissante des cafés et un intérêt pour les variétés locales de qualité supérieure, ainsi qu'une préférence continue pour le café soluble abordable et pratique. Les cafés spécialisés et le café instantané ne sont pas des descriptions mutuellement exclusives des habitudes de consommation d'un pays. Différents budgets, goûts et occasions peuvent soutenir les deux. [USDA : Rapport annuel sur le café au Salvador, 20 avril 2026](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_San+Salvador_El+Salvador_ES2026-0004.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour un voyage beaucoup plus long depuis l'Éthiopie et le Yémen à travers la culture du café ottomane et au-delà, lisez [L'histoire du café de PRESDA](/articles/real-history-of-coffee/). Ce rapport du 1er octobre se concentre sur le présent : qui cultive le café, où il est consommé et ce que font les institutions à l'origine de cette célébration en 2026."
+    },
+    {
+      "type": "heading",
+      "text": "QU’EST-CE QUI REND LA JOURNÉE INTERNATIONALE DU CAFÉ 2026 DIFFÉRENTE ?"
+    },
+    {
+      "type": "subheading",
+      "text": "Reconnaissance aux Nations Unies"
+    },
+    {
+      "type": "paragraph",
+      "text": "La décision de mars donne à cette date une reconnaissance formelle par l'ONU. La FAO a été invitée à faciliter la célébration avec les organisations compétentes, en particulier l'OIC. L'importance culturelle et sociale du café fait partie de ce mandat, parallèlement à son rôle dans les moyens de subsistance et le développement. [FAO : Reconnaissance par l'ONU et importance économique du café, 10 mars 2026](https://www.fao.org/newsroom/detail/fao-welcomes-un-resolution-instituting-international-coffee-day/en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La FAO a programmé une célébration à son siège de Rome le 1er octobre, de 12h15 à 13h30 CEST. Son programme annoncé se concentre sur les personnes et les partenariats reliant les fermes aux tasses. Il s’agit d’un événement programmé et non d’une affirmation selon laquelle les travaux de cet événement sont déjà terminés. [FAO : célébration du 1er octobre 2026 au siège à Rome](https://www.fao.org/webcast/detail/international-coffee-day/en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À Genève, la FAO et les missions permanentes de l'Indonésie, du Rwanda et de la Turquie ont annoncé un événement de 10h00 à 11h30 CEST au Palais des Nations. Le programme combine une discussion sur le rôle économique, environnemental et culturel du café avec une séance de dégustation et de réseautage. Le format rassemble la conversation politique et l’expérience partagée de boire du café dans la même pièce. [FAO : Programme de la Journée internationale du Café 2026 à Genève](https://www.fao.org/geneva/events/details/international-coffee-day-2026--celebrating-coffee--honouring-the-people-behind-every-cup)"
+    },
+    {
+      "type": "subheading",
+      "text": "Une campagne axée sur les moyens de subsistance et la résilience"
+    },
+    {
+      "type": "paragraph",
+      "text": "La campagne 2026 de l'OIC, Le café fait partie de la solution, demande au secteur de démontrer comment la coopération peut soutenir les moyens de subsistance, la résilience climatique et le développement inclusif. Il s’agit d’un programme de campagne et non d’une certification selon laquelle chaque entreprise de café ou système agricole a déjà atteint ces résultats. [ICO : Campagne 2026 Le café fait partie de la solution](https://www.ico.org/documents/cy2025-26/pr-363e-coffee-is-part-of-the-solution-campaign.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les compétences font partie de cet effort. En juillet, l'OIC a rendu compte d'une discussion à Bruxelles impliquant l'ONUDI et d'autres partenaires sur l'éducation et la formation professionnelle, y compris les centres de formation sur le café en Afrique de l'Est. L'accent était mis sur la nécessité de permettre aux habitants des pays producteurs d'acquérir des connaissances techniques et de participer à davantage d'étapes de l'industrie. [ICO : éducation et compétences en matière de café, 15 juillet 2026](https://www.ico.org/documents/cy2025-26/pr-364e-coffee-and-education.pdf)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un meilleur accès aux informations sur le marché"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 30 septembre, un jour avant la célébration, l'OIC a lancé sa plateforme d'information sur le marché du café. L'outil rassemble les prix, les stocks, les flux commerciaux, la production et la consommation. Ses tableaux de bord publics offrent un accès gratuit aux indicateurs actuels et à une sélection de données récentes ; l’accès historique détaillé et l’accès en masse sont soumis à des accords distincts. [ICO : lancement de la plateforme d'information sur le marché du café, 30 septembre 2026](https://www.ico.org/documents/cy2025-26/pr-365e-coffee-market-intelligence-platform.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela est important car le même produit peut être très différent pour un agriculteur planifiant un investissement, une coopérative organisant des ventes et un acheteur négociant un contrat. L'ICO présente des informations partagées et crédibles comme un moyen de réduire l'incertitude, et non comme un moyen d'éliminer la volatilité du marché. Les lecteurs peuvent explorer directement la [plateforme officielle de données sur le café de l'ICO](https://data.ico.org/). [ICO : lancement de la plateforme d'information sur le marché du café, 30 septembre 2026](https://www.ico.org/documents/cy2025-26/pr-365e-coffee-market-intelligence-platform.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "QUE DEVRAIT-ON NOTER AU-DELÀ DE LA TASSE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Journée internationale du café offre une pause utile entre commander et boire. Où étaient cultivés les grains de café ? Que peut expliquer le vendeur sur le producteur et le chemin vers le marché ? Une déclaration de durabilité est-elle étayée par des informations spécifiques ? Ces questions sont plus instructives que de supposer qu’une boisson chère garantit automatiquement un bon revenu agricole."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’occasion peut célébrer le plaisir et la connexion tout en laissant place au travail derrière eux. Les compétences d'un barista, les décisions d'un agriculteur et les risques d'une saison de croissance font tous partie de l'histoire. En 2026, la principale raison de célébrer le 1er octobre est de voir plus clairement ces personnes, ainsi que l'extraordinaire ampleur de la consommation quotidienne de café dans le monde."
+    }
+  ],
+  "sources": [
+    {
+      "label": "ONUDI : estimation de la consommation quotidienne mondiale de café, 10 avril 2025",
+      "url": "https://www.unido.org/news/unido-leads-ai-sustainability-dialogue-google-cloud-next-25-driving-innovation-climate-resilient-coffee-supply-chains-beyond"
+    },
+    {
+      "label": "FAO : Reconnaissance de l'ONU et importance économique du café, 10 mars 2026",
+      "url": "https://www.fao.org/newsroom/detail/fao-welcomes-un-resolution-instituting-international-coffee-day/en"
+    },
+    {
+      "label": "OIC : Journée internationale du Café et sa reconnaissance en 2026",
+      "url": "https://internationalcoffeeday.org/about/"
+    },
+    {
+      "label": "ICO : rapport sur le marché du café d'août 2026, y compris les estimations du 10 septembre",
+      "url": "https://www.ico.org/documents/cy2025-26/cmr-0826-e.pdf"
+    },
+    {
+      "label": "USDA : Café, marchés mondiaux et commerce, juillet 2026",
+      "url": "https://apps.fas.usda.gov/psdonline/circulars/2026/07/coffee.pdf"
+    },
+    {
+      "label": "USDA : Rapport annuel sur le café au Brésil, 1er juin 2026",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Brasilia_Brazil_BR2026-0025.pdf"
+    },
+    {
+      "label": "USDA : Rapport annuel sur le café au Honduras, 29 avril 2026",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Tegucigalpa_Honduras_HO2026-0002.pdf"
+    },
+    {
+      "label": "USDA : Rapport annuel sur le café au Salvador, 20 avril 2026",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_San+Salvador_El+Salvador_ES2026-0004.pdf"
+    },
+    {
+      "label": "ICO : campagne 2026 Le café fait partie de la solution",
+      "url": "https://www.ico.org/documents/cy2025-26/pr-363e-coffee-is-part-of-the-solution-campaign.pdf"
+    },
+    {
+      "label": "ICO : lancement de la plateforme d'information sur le marché du café, 30 septembre 2026",
+      "url": "https://www.ico.org/documents/cy2025-26/pr-365e-coffee-market-intelligence-platform.pdf"
+    },
+    {
+      "label": "ICO : éducation et compétences en matière de café, 15 juillet 2026",
+      "url": "https://www.ico.org/documents/cy2025-26/pr-364e-coffee-and-education.pdf"
+    },
+    {
+      "label": "FAO: Célébration du 1er octobre 2026 au siège de Rome",
+      "url": "https://www.fao.org/webcast/detail/international-coffee-day/en"
+    },
+    {
+      "label": "FAO : Programme de la Journée internationale du Café 2026 à Genève",
+      "url": "https://www.fao.org/geneva/events/details/international-coffee-day-2026--celebrating-coffee--honouring-the-people-behind-every-cup"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand est la Journée internationale du Café 2026 ?",
+      "answer": "La Journée internationale du Café est le 1er octobre 2026. Il s'agit de la première célébration depuis que l'Assemblée générale des Nations Unies a officiellement reconnu cette date le 10 mars 2026."
+    },
+    {
+      "question": "Le monde boit-il plus de 3 milliards de tasses de café par jour ?",
+      "answer": "L’ONUDI a utilisé cette estimation dans une publication d’avril 2025. Elle décrit l’ampleur mondiale, et non un nouveau décompte quotidien mesuré pour 2026 ; les tailles de tasse et les méthodes d’infusion varient."
+    },
+    {
+      "question": "Quel pays produit le plus de café ?",
+      "answer": "Le Brésil est en tête des prévisions de juillet 2026 de l'USDA pour 2026/27, avec 71,9 millions de sacs de 60 kilogrammes, suivi du Vietnam avec 32,5 millions. Il s’agit de prévisions et non de totaux définitifs de récolte."
+    },
+    {
+      "question": "Pourquoi les chiffres du café ICO et USDA diffèrent-ils ?",
+      "answer": "Les chiffres de l'OIC cités ici utilisent les années caféières d'octobre à septembre, tandis que l'USDA utilise des années de commercialisation qui varient selon les pays producteurs. Les différentes périodes et méthodes d’estimation font que les séries ne doivent pas être mélangées."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "Journée internationale du café",
+    "gold": "3 milliards de tasses"
+  },
+  "readingTimeMinutes": 12
+}
