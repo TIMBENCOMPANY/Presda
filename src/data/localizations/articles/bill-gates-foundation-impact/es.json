@@ -1,0 +1,539 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/bill-gates-foundation-impact/",
+  "path": "/es/articles/bill-gates-foundation-impact/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish editorial review",
+    "reviewedAt": "2026-10-02",
+    "terminologyChecked": true
+  },
+  "title": "Fundación Gates: 110 mil millones de dólares, 25 años y su impacto global",
+  "excerpt": "Una mirada verificada y basada en datos al gasto, las subvenciones, el trabajo de salud global, las críticas y el plan de la Fundación Gates para agotar su patrimonio en 2045.",
+  "seoTitle": "Impacto de la Fundación Gates: 110 mil millones de dólares, 25 años y el Plan 2045",
+  "description": "Una guía basada en datos sobre la Fundación Gates: historia, subvenciones, gastos, impacto en la salud global, críticas, plan de 200 mil millones de dólares y cierre en 2045.",
+  "keywords": [
+    "Negocio",
+    "Fundación Gates",
+    "La filantropía de Bill Gates",
+    "salud global",
+    "Filantropía",
+    "Impacto de la Fundación Gates",
+    "Subvenciones de la Fundación Gates"
+  ],
+  "searchIntent": "Conocer Fundación Gates: 110 mil millones de dólares, 25 años y su impacto global.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-05-18",
+  "updatedAt": "2026-09-02",
+  "image": {
+    "src": "/images/articles/bill-gates-foundation-impact-2026.webp",
+    "alt": "Póster cinematográfico de la Fundación Gates con paneles de innovación y salud global"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La Fundación Gates es una de las instituciones filantrópicas privadas más grandes de la historia moderna. Desde el año 2000, ha ayudado a remodelar la forma en que los gobiernos, los grupos de investigación, las alianzas de vacunas, las agencias de salud y las organizaciones de desarrollo hablan sobre avances mensurables. Su escala es inusual. Su influencia es inusual. También lo es el escrutinio a su alrededor."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cifra principal es grande: la fundación reporta $110,9 mil millones en distribuciones caritativas totales hasta el cuarto trimestre de 2025. También reporta $90,0 mil millones en pagos totales de subvenciones, $8,47 mil millones en apoyo caritativo durante 2025, un fondo patrimonial de 89.000 millones de dólares a fines de 2025, 2.506 subvenciones aprobadas en 2025 y trabajo que llega a 143 países ese año. En enero de 2026, su junta directiva aprobó un compromiso de pago anual de 9.000 millones de dólares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esas cifras hacen de la Fundación Gates un estudio de caso decisivo en la filantropía del siglo XXI. Pero el dinero por sí sola no es la historia. La pregunta más difícil es el impacto: qué cambió, quién más lo hizo posible, qué se puede medir y dónde la filantropía privada se vuelve demasiado poderosa para resultar cómoda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este artículo trata a la Fundación Gates como una historia de datos y una historia de interés público. Analiza la historia, los gastos, las subvenciones, el trabajo de salud global, los programas educativos, las críticas, la gobernanza y la estrategia futura de la fundación, incluido el plan para gastar más de 200.000 millones de dólares hasta 2045 y cerrar a finales de ese año. Para obtener más contexto sobre tecnología, capital e influencia pública, lea la [cobertura empresarial](/category/business/) y la [cobertura de IA](/category/ai/) de PRESDA."
+    },
+    {
+      "type": "heading",
+      "text": "Estadísticas clave de la Fundación Gates en 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "La forma más segura de entender a la Fundación Gates es separar su propio gasto de los resultados logrados por sus socios. La fundación financia investigación, sistemas de prestación, promoción, plataformas de datos y grandes organizaciones multilaterales. No vacuna a todos los niños por sí sola, ni erradica enfermedades por sí sola ni gestiona los sistemas nacionales de salud por sí sola."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa distinción es importante porque la fundación suele trabajar a través de organizaciones como Gavi, la Alianza para las Vacunas; el Fondo Mundial de Lucha contra el SIDA, la Tuberculosis y la Malaria; uNICEF; oMS; ministerios nacionales de salud; universidades; institutos de investigación; y ejecutores locales. Una subvención de Gates puede ser decisiva, pero el logro final suele pertenecer a una coalición."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[GATES_FOUNDATION_KEY_STATS_TABLE]]",
+      "caption": "Estadísticas clave de la Fundación Gates. Las cifras oficiales están redondeadas según lo informado por la fundación.",
+      "headings": [
+        "Indicador",
+        "Última cifra",
+        "Cómo leerlo"
+      ],
+      "rows": [
+        [
+          "Fundado",
+          "2000",
+          "Creado por Bill Gates y Melinda French Gates mediante la fusión de fundaciones anteriores de la familia Gates."
+        ],
+        [
+          "Distribuciones caritativas totales",
+          "110.900 millones de dólares hasta el cuarto trimestre de 2025",
+          "Incluye subvenciones, contratos, inversiones relacionadas con programas, adquisiciones de activos y gastos operativos en efectivo, descontando los importes devueltos."
+        ],
+        [
+          "Pagos totales de subvenciones",
+          "90.000 millones de dólares hasta el cuarto trimestre de 2025",
+          "Pagos de subvenciones realizados por la fundación y fundaciones anteriores de la familia Gates desde 1994 en adelante"
+        ],
+        [
+          "Apoyo caritativo 2025",
+          "$ 8,47 mil millones",
+          "Apoyo anual redondeado del Informe Anual 2025"
+        ],
+        [
+          "Dotación",
+          "$89 mil millones al 31 de diciembre de 2025",
+          "Dotación del Fideicomiso de la Fundación; la cifra no auditada del 30 de junio de 2026 era de 92 mil millones de dólares."
+        ],
+        [
+          "Empleados",
+          "2.215 al 31 de diciembre de 2025",
+          "Empleados actuales de la fundación informados por la hoja informativa oficial"
+        ],
+        [
+          "subvenciones 2025",
+          "2.506",
+          "Número de subvenciones aprobadas en 2025, según la hoja informativa oficial de la fundación"
+        ],
+        [
+          "Alcance geográfico",
+          "143 países en 2025",
+          "La financiación de subvenciones internacionales apoyó el trabajo en 143 países, además de 45 estados de EE. UU. y D.C."
+        ],
+        [
+          "compromiso de pago 2026",
+          "9 mil millones de dólares",
+          "Pago anual respaldado por la junta anunciado en enero de 2026"
+        ],
+        [
+          "Cierre planificado",
+          "31 de diciembre de 2045",
+          "La fundación planea gastar y cerrar para fines de 2045"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las cifras anteriores provienen del Informe Anual oficial de 2025 y de la hoja informativa de la fundación. Muestran una institución madura con una dotación muy grande, un pago anual muy grande y un límite de tiempo claro: agotar progresivamente su patrimonio, aumentar las donaciones y cerrar en 2045."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo comenzó la fundación"
+    },
+    {
+      "type": "paragraph",
+      "text": "La moderna Fundación Gates fue creada en 2000 por Bill Gates y Melinda French Gates mediante la fusión de entidades benéficas anteriores de la familia Gates. Desde el principio, la organización se centró en problemas en los que la financiación, la ciencia, la medición y las asociaciones a gran escala podrían cambiar los resultados con el tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su identidad inicial estuvo estrechamente ligada a la salud global. Las vacunas, las enfermedades infecciosas y la supervivencia infantil pasaron a ser fundamentales porque eran áreas en las que intervenciones relativamente probadas podían salvar vidas si llegaban a las personas a gran escala. La fundación también invirtió mucho en la educación de Estados Unidos, especialmente en la reforma de la escuela secundaria, la preparación para la universidad y las vías para estudiantes de comunidades de bajos ingresos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El modelo de la fundación era diferente al de la caridad tradicional. No se construyó principalmente en torno a pequeñas subvenciones de emergencia o patrocinio local. Incorporó a la filantropía la creencia del sector tecnológico en las métricas, la estrategia, la experimentación y la escala. Eso lo hizo ambicioso, eficaz en algunas áreas y controvertido en otras."
+    },
+    {
+      "type": "heading",
+      "text": "Bill Gates, Melinda French Gates y Warren Buffett"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bill Gates y Melinda French Gates fueron las figuras públicas definitorias de la institución durante más de dos décadas. Su riqueza, visibilidad pública y participación personal dieron a la fundación un alcance inusual. Melinda French Gates renunció como copresidenta en 2024, y luego la organización simplificó su nombre público mientras continuaba su trabajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Warren Buffett también cambió la historia de la fundación. A partir de 2006, Buffett comprometió grandes donaciones de acciones de Berkshire Hathaway, añadiendo una enorme capacidad financiera y convirtiendo a la institución en un actor global aún más grande. Su donación también vinculó a la fundación con el movimiento más amplio Giving Pledge, que alentó a los multimillonarios a comprometer gran parte de su riqueza a la filantropía."
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado es una institución financiada con riqueza privada pero que opera en áreas a menudo asociadas con la responsabilidad pública: salud, educación, pobreza, agricultura, saneamiento, igualdad de género y política de desarrollo global. Esa combinación explica tanto su alcance como el debate en torno a él."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo se financia la Fundación Gates"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Fundación Gates se financia principalmente a través del Fideicomiso de la Fundación Bill y Melinda Gates, que posee e invierte activos con fines benéficos. La fundación reporta una dotación de $89 mil millones al 31 de diciembre de 2025, con una cifra no auditada de $92 mil millones al 30 de junio de 2026."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este fondo patrimonial es importante porque permite a la fundación asumir compromisos de varios años. El desarrollo de vacunas, la investigación sobre la malaria, la erradicación de la polio, el fortalecimiento de los sistemas de salud y la reforma educativa no funcionan en ciclos de atención de un año. Una financiación predecible puede ayudar a los socios a planificar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al mismo tiempo, el modelo de inversión plantea cuestiones de rendición de cuentas. Los activos de la fundación son privados, pero su gasto afecta a los sistemas públicos. Los críticos argumentan que tal escala puede dar forma a las prioridades en salud y educación globales sin la misma responsabilidad democrática que los gobiernos. Los partidarios argumentan que la fundación llena los vacíos de financiación, apoya la innovación y ayuda a mantener en la agenda los problemas desatendidos."
+    },
+    {
+      "type": "heading",
+      "text": "Gasto en 2025 por programa principal"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Informe Anual 2025 de la fundación muestra cómo se distribuyen sus donaciones en las áreas del programa. Las cifras siguientes se interpretan mejor como apoyo caritativo por división, no como una medición directa de vidas salvadas, casos evitados o estudiantes atendidos."
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[GATES_FOUNDATION_2025_SPENDING_TABLE]]",
+      "caption": "Apoyo caritativo 2025 por área de programa principal, del Informe anual de la Fundación Gates 2025.",
+      "headings": [
+        "Área del programa",
+        "Soporte 2025",
+        "Trabajo importante incluido"
+      ],
+      "rows": [
+        [
+          "Desarrollo Global",
+          "2.175 millones de dólares",
+          "Polio, inmunización, contribuciones al Fondo Mundial, oficinas de África e India, atención primaria de salud"
+        ],
+        [
+          "Salud global",
+          "1.897 millones de dólares",
+          "Malaria, VIH, tuberculosis, desarrollo de vacunas, ciencias del descubrimiento, neumonía y preparación para una pandemia"
+        ],
+        [
+          "Igualdad de género",
+          "952 millones de dólares",
+          "Nutrición y salud materna, neonatal e infantil, innovaciones en salud de la mujer, planificación familiar"
+        ],
+        [
+          "Crecimiento y oportunidades globales",
+          "925 millones de dólares",
+          "Desarrollo agrícola, sistemas financieros inclusivos, agua y saneamiento, nutrición, infraestructura pública digital"
+        ],
+        [
+          "Programa de Estados Unidos",
+          "847 millones de dólares",
+          "Educación K-12, éxito postsecundario, movilidad económica, itinerarios, becas y trabajo en el estado de Washington"
+        ],
+        [
+          "Política global y promoción",
+          "364 millones de dólares",
+          "Promoción, asociaciones, financiación del desarrollo y trabajo en políticas regionales"
+        ],
+        [
+          "Otros programas caritativos",
+          "144 millones de dólares",
+          "Otras iniciativas caritativas reportadas fuera de las principales divisiones del programa"
+        ],
+        [
+          "Gasto operativo",
+          "1.166 millones de dólares",
+          "Personas, sistemas y operaciones necesarios para ejecutar la fundación."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Desarrollo Global y Salud Global siguieron siendo las áreas programáticas más importantes en 2025. Juntas, cubrieron el trabajo más visible de la fundación: erradicación de la polio, inmunización, malaria, VIH, tuberculosis, desarrollo de vacunas, atención primaria de salud, preparación para pandemias y apoyo a importantes asociaciones de financiación de la salud."
+    },
+    {
+      "type": "paragraph",
+      "text": "Igualdad de Género, Crecimiento y Oportunidades Globales y el Programa de los Estados Unidos también recibieron un importante apoyo. Estas áreas reflejan la creencia más amplia de la fundación de que la salud, la pobreza, el género, la agricultura, la educación y el acceso financiero son problemas conectados y no separados."
+    },
+    {
+      "type": "heading",
+      "text": "Salud global: vacunas, malaria, VIH, tuberculosis y polio"
+    },
+    {
+      "type": "paragraph",
+      "text": "La salud global es el centro de la identidad pública de la Fundación Gates. Su estrategia a menudo se ha centrado en enfermedades e intervenciones en las que existen herramientas científicas pero el acceso sigue siendo desigual. Esto incluye vacunas, prevención y tratamiento de la malaria, investigación sobre el VIH y la tuberculosis, erradicación de la polio, salud maternoinfantil, nutrición y sistemas de datos de salud."
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo con vacunas es especialmente importante. La fundación fue uno de los fundadores de Gavi en 2000 con una promesa de 750 millones de dólares. Gavi informa que, a través de su modelo de alianza con gobiernos y socios, ha ayudado a inmunizar a más de mil millones de niños desde 2000. Ese no es un logro exclusivo de Gates; es un logro de los socios en el que la financiación de Gates ha sido un aporte importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "La misma lógica se aplica al Fondo Mundial. La fundación ha sido un socio importante del sector privado en la lucha contra el SIDA, la tuberculosis y la malaria, pero los resultados se obtienen a través de programas nacionales, trabajadores de la salud, sistemas de adquisiciones, donantes, comunidades y coordinación multilateral. En el ámbito de la salud global, la Fundación Gates a menudo actúa como financiadora, convocadora y aceleradora, no como el único operador."
+    },
+    {
+      "type": "paragraph",
+      "text": "La polio muestra tanto la ambición como la dificultad de este modelo. La enfermedad se ha acercado a la erradicación gracias a décadas de trabajo de los gobiernos, Rotary, la OMS, UNICEF, los CDC de EE. UU., Gavi, la Fundación Gates y otros socios. Pero la etapa final ha sido difícil porque los conflictos, la desinformación, las barreras de acceso y los frágiles sistemas de salud pueden mantener viva la transmisión."
+    },
+    {
+      "type": "heading",
+      "text": "Salud, nutrición e igualdad de género maternoinfantil"
+    },
+    {
+      "type": "paragraph",
+      "text": "La agenda de salud de la fundación se extiende más allá de las enfermedades infecciosas. La salud materna y neonatal, la planificación familiar, la nutrición y la salud de la mujer han pasado a ser elementos centrales de su estrategia. Estos programas se basan en una idea práctica: la supervivencia y las oportunidades están conectadas. Un niño desnutrido, una madre sin atención de calidad o una comunidad sin servicios de salud confiables enfrentan riesgos que se agravan con el tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo de Igualdad de Género de la fundación incluye innovaciones en la salud de las mujeres, nutrición materna e infantil, planificación familiar y empoderamiento económico. Al igual que con la salud global, las afirmaciones más fuertes suelen referirse a la financiación y la asociación, no a la propiedad directa de los resultados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese lenguaje cuidadoso es importante. Cuando la mortalidad infantil cae o la vacunación aumenta, el crédito pertenece a muchos actores: familias, trabajadores de salud locales, gobiernos, agencias públicas, investigadores, grupos comunitarios y donantes. Las subvenciones de la Fundación Gates pueden respaldar el sistema, pero el sistema hace el trabajo."
+    },
+    {
+      "type": "heading",
+      "text": "Agricultura, pobreza, saneamiento e infraestructura pública digital"
+    },
+    {
+      "type": "paragraph",
+      "text": "El programa Global Growth & Opportunity de la fundación cubre varias áreas que afectan la vida diaria pero que a menudo reciben menos atención que las vacunas. El desarrollo agrícola se centra en los pequeños agricultores, la resiliencia de los cultivos, la productividad y la seguridad alimentaria. El trabajo en materia de agua, saneamiento e higiene se centra en sistemas más seguros en lugares donde la infraestructura convencional es costosa o difícil de escalar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sistemas financieros inclusivos y la infraestructura pública digital también han adquirido importancia. La fundación ha apoyado el trabajo en torno a pagos digitales, sistemas de identidad y acceso financiero, especialmente donde la banca formal ha excluido a las poblaciones de bajos ingresos. El objetivo no es la tecnología por sí misma. El argumento más fuerte es que los infraestructuras digitales bien gobernados pueden facilitar el acceso a los beneficios, las remesas, los ahorros y la actividad de las pequeñas empresas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí también hay riesgos. Los sistemas digitales pueden excluir a personas sin documentación, conectividad o confianza. Las tecnologías de saneamiento pueden fallar si se ignoran el mantenimiento, la economía local y la aceptación pública. Las intervenciones agrícolas pueden generar preocupaciones sobre la dependencia, los sistemas de semillas y las opciones locales. El mejor trabajo de la fundación es más fuerte cuando financia la adaptación local en lugar de asumir que una solución viaja a todas partes sin cambios."
+    },
+    {
+      "type": "heading",
+      "text": "Educación y movilidad económica en Estados Unidos"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Estados Unidos, la Fundación Gates ha estado más asociada con la educación. Su trabajo ha incluido mejoras desde K-12, éxito postsecundario, becas, movilidad económica y programas del estado de Washington. La fundación ha apoyado sistemas de datos, redes escolares, iniciativas de finalización de estudios universitarios y esfuerzos para ayudar a los estudiantes a avanzar a través de la educación hacia oportunidades estables."
+    },
+    {
+      "type": "paragraph",
+      "text": "La educación estadounidense también ha sido una de las áreas más debatidas por la fundación. Los esfuerzos de reforma anteriores, incluidas grandes inversiones en la estructura escolar y la eficacia docente, produjeron resultados mixtos y un fuerte debate público. La fundación ha reconocido a lo largo del tiempo que los sistemas educativos son profundamente locales y que una mejora duradera depende de los educadores, las comunidades, los estudiantes, los formuladores de políticas y la evidencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa lección es útil para leer el trabajo más amplio de la fundación. La escala puede ayudar, pero los sistemas son humanos. El dinero puede comprar investigación, herramientas, pilotos y atención; no puede sustituir la confianza, el liderazgo local o la legitimidad democrática."
+    },
+    {
+      "type": "heading",
+      "text": "Principales organizaciones y programas financiados"
+    },
+    {
+      "type": "paragraph",
+      "text": "La influencia de la Fundación Gates suele llegar a través de grandes instituciones asociadas. Gavi es uno de los ejemplos más claros. La fundación ayudó a lanzarlo y ha seguido financiando el acceso a las vacunas. El Fondo Mundial es otro, que canaliza recursos hacia programas dirigidos por países contra el VIH, la tuberculosis y la malaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "La OMS, UNICEF, el Banco Mundial y las principales universidades de investigación también han recibido apoyo relacionado con Gates en diferentes formas. La fundación financia asociaciones para el desarrollo de productos, investigación de enfermedades, investigación sobre la prestación de servicios, plataformas de datos, grupos de defensa y organizaciones locales. En algunas áreas, su papel es el de otorgar subvenciones directas. En otros, es un financiador catalizador que intenta atraer dinero o atención adicional a un campo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para los lectores que siguen las subvenciones de la Fundación Gates, la clave es mirar más allá de un único comunicado de prensa. Pregunte qué financió la subvención, quién implementó el trabajo, si el programa fue evaluado de forma independiente, cuánto duró la financiación y si las instituciones locales adquirieron capacidad duradera."
+    },
+    {
+      "type": "heading",
+      "text": "Logros mensurables y atribución"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los logros más defendibles de la fundación son los que se describen a través de sistemas de socios y resultados verificados: dinero comprometido, subvenciones pagadas, investigación respaldada, programas de ejecución financiados y alianzas fortalecidas. Los resultados más amplios, como las vidas salvadas o la reducción de la carga de morbilidad, generalmente provienen de estimaciones de socios o datos de tendencias de salud pública."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las cifras de inmunización de Gavi, los informes de resultados del Fondo Mundial, las actualizaciones de enfermedades de la OMS, los datos de salud infantil de UNICEF y los indicadores de desarrollo del Banco Mundial pueden ayudar a medir el mundo más amplio en el que opera la financiación de Gates. Pero ninguno de esos resultados debería atribuirse únicamente a una fundación privada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una lectura justa es la siguiente: la Fundación Gates ha ayudado a dirigir la atención del capital, la ciencia y la política hacia problemas que no contaban con financiación suficiente en relación con su costo humano. También se ha beneficiado y dependido de agencias públicas, trabajadores locales, gobiernos nacionales e instituciones multilaterales. El impacto es real, pero compartido."
+    },
+    {
+      "type": "heading",
+      "text": "Críticas, polémicas y los límites de la filantropía privada"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Fundación Gates es admirada, pero no está exenta de críticas. Académicos y analistas de salud pública han cuestionado si una fundación privada debería tener tal influencia sobre las prioridades de salud global. Otros han argumentado que la financiación para enfermedades específicas a veces puede desviar la atención de necesidades más amplias del sistema de salud, la gobernanza local y la financiación pública a largo plazo."
+    },
+    {
+      "type": "paragraph",
+      "text": "También hay dudas sobre la transparencia, la rendición de cuentas y el establecimiento de agendas. La fundación publica subvenciones e informes anuales, pero su junta directiva y su dirección no son elegidos por los públicos afectados por su trabajo. Eso no hace que su trabajo sea ilegítimo, pero sí significa que es necesario un escrutinio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las críticas también provienen del mundo práctico del desarrollo. Una subvención puede parecer sólida en un documento de estrategia y aún tener dificultades en una clínica, escuela, granja u oficina de distrito. La implementación depende de las personas, la logística, la política, la infraestructura y la cultura. La filantropía puede reducir la fricción, pero no puede borrar la realidad."
+    },
+    {
+      "type": "heading",
+      "text": "Gobernanza, influencia y rendición de cuentas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La gobernanza es la tensión central de la megafilantropía. La Fundación Gates puede avanzar más rápido que muchos gobiernos, financiar ciencia temprana que los mercados ignoran y apoyar a instituciones globales a través de largos ciclos de financiamiento. Esas son fortalezas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la velocidad y la escala traen consigo responsabilidad. Cuando una fundación influye en la política de vacunas, la investigación agrícola, la reforma educativa o el financiamiento de la salud, debe tener claro qué evidencia utiliza, cómo escucha a las comunidades afectadas, cómo mide el fracaso y cómo los socios pueden cuestionar sus suposiciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cierre previsto de la fundación para 2045 cambia este debate. Utilizar el patrimonio hasta agotarlo puede reducir la concentración a largo plazo del poder filantrópico privado, pero también plantea interrogantes sobre qué sucede con los programas cuando termina el financiamiento. La mejor prueba de las próximas dos décadas será si el trabajo respaldado por Gates deja atrás sistemas públicos y locales más fuertes."
+    },
+    {
+      "type": "heading",
+      "text": "Estrategia futura: 200 mil millones de dólares y el cierre de 2045"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2025, Bill Gates anunció que la fundación aceleraría sus donaciones, gastaría más de 200 mil millones de dólares hasta 2045 y cerraría el 31 de diciembre de 2045. El plan es históricamente significativo porque rechaza la idea de existir para siempre. En cambio, la fundación pretende gastar mucho mientras Bill Gates todavía esté vivo y mientras los principales objetivos mundiales de salud y desarrollo sigan siendo urgentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La estrategia tiene un argumento claro: el capital depositado en una dotación no puede resolver los problemas hasta que se gaste. El compromiso de pago de 9 mil millones de dólares de la fundación para 2026 refleja esa aceleración. Pero la estrategia también crea presión de ejecución. Gastar bien más dinero es más difícil que gastar más dinero rápidamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si el plan 2045 tiene éxito, el legado de la fundación no será del tamaño de su dotación. La cuestión será si sus últimas décadas ayudaron a fortalecer los sistemas de vacunación, reducir la carga de enfermedades, mejorar la salud materna e infantil, apoyar la resiliencia agrícola, ampliar las oportunidades económicas y dejar a los socios con capacidad duradera."
+    },
+    {
+      "type": "heading",
+      "text": "Principales hitos históricos"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[GATES_FOUNDATION_MILESTONES_TABLE]]",
+      "caption": "Principales hitos de la Fundación Gates de 2000 a 2026.",
+      "headings": [
+        "Año",
+        "Hito",
+        "Por qué importaba"
+      ],
+      "rows": [
+        [
+          "2000",
+          "Fundación creada",
+          "Bill Gates y Melinda French Gates lanzaron la fundación moderna mediante la fusión de fundaciones anteriores de la familia Gates."
+        ],
+        [
+          "2000",
+          "Comienza el soporte de Gavi",
+          "La fundación prometió 750 millones de dólares para ayudar a lanzar Gavi, la Alianza para las Vacunas."
+        ],
+        [
+          "2002",
+          "Asociación del Fondo Mundial",
+          "La fundación se convirtió en socio del sector privado del Fondo Mundial de Lucha contra el SIDA, la Tuberculosis y la Malaria."
+        ],
+        [
+          "2006",
+          "El compromiso de Warren Buffett",
+          "Buffett comenzó a donar acciones de Berkshire Hathaway a la fundación y luego se convirtió en uno de sus donantes definitorios."
+        ],
+        [
+          "2010",
+          "Se lanzó Giving Pledge",
+          "Bill Gates, Melinda French Gates y Warren Buffett ayudaron a lanzar Giving Pledge"
+        ],
+        [
+          "2024",
+          "Melinda French Gates se marcha",
+          "Melinda French Gates renunció como copresidenta; posteriormente la fundación simplificó su nombre público."
+        ],
+        [
+          "2025",
+          "Reinicio de la estrategia de 25 años",
+          "Bill Gates anunció un plan para gastar más de 200 mil millones de dólares hasta 2045 y cerrar la fundación"
+        ],
+        [
+          "2026",
+          "Pago anual de 9.000 millones de dólares",
+          "La junta aprobó un pago anual de 9 mil millones de dólares y un límite de costos operativos más estricto."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "¿Valió la pena el impacto de la Fundación Gates?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta honesta es mixta, pero no neutral. La Fundación Gates ha destinado recursos extraordinarios a la salud global, la reducción de la pobreza, la educación y la innovación. Ayudó a que el acceso a las vacunas, la malaria, la polio, el saneamiento y los datos de salud formen parte de una conversación sobre desarrollo de alto nivel. Ha financiado sistemas de investigación y entrega que muchos mercados comerciales no priorizarían."
+    },
+    {
+      "type": "paragraph",
+      "text": "También ha concentrado la influencia filantrópica en formas que merecen el escrutinio público. Puede dar forma a las agendas, elevar ciertas métricas, favorecer soluciones tecnocráticas y crear dependencia si los programas no son de propiedad local. Las grandes donaciones privadas pueden ayudar a los sistemas públicos, pero no deberían reemplazarlos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La mejor manera de juzgar a la Fundación Gates no es preguntarse si ella sola cambió el mundo. No fue así. Ninguna fundación lo hace. La mejor pregunta es si su dinero, sus asociaciones y su urgencia ayudaron a los actores públicos y de la sociedad civil a realizar un trabajo que de otro modo habría sido más lento, más pequeño o sin financiación. En esa medida, su impacto es sustancial, complicado y aún inconcluso."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Informe anual de la Fundación Gates 2025",
+      "url": "https://www.gatesfoundation.org/about/financials/annual-reports/annual-report-2025"
+    },
+    {
+      "label": "Hoja informativa de la Fundación Gates",
+      "url": "https://www.gatesfoundation.org/about/foundation-fact-sheet"
+    },
+    {
+      "label": "Carta anual de la Fundación Gates 2026 y compromiso de pago",
+      "url": "https://www.gatesfoundation.org/ideas/articles/2026-gates-foundation-annual-letter"
+    },
+    {
+      "label": "Comunicado de prensa de la Fundación Gates: compromiso de pago anual de 9.000 millones de dólares",
+      "url": "https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/01/historic-annual-budget-to-accelerate-mission"
+    },
+    {
+      "label": "Gavi: perfil de donante de la Fundación Bill y Melinda Gates",
+      "url": "https://www.gavi.org/investing-gavi/funding/donor-profiles/bill-melinda-gates-foundation"
+    },
+    {
+      "label": "El Fondo Mundial: asociación con la Fundación Bill y Melinda Gates",
+      "url": "https://www.theglobalfund.org/en/private-ngo-partners/resource-mobilization/bill-melinda-gates-foundation/"
+    },
+    {
+      "label": "UNICEF: Alianza con la Fundación Bill y Melinda Gates",
+      "url": "https://www.unicef.org/partnerships/bill-melinda-gates-foundation"
+    },
+    {
+      "label": "McCoy et al., The Lancet: Concesión de subvenciones de la Fundación Gates en salud global",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19561365/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué es la Fundación Gates?",
+      "answer": "La Fundación Gates es una gran fundación filantrópica privada creada en 2000 por Bill Gates y Melinda French Gates. Financia iniciativas de salud mundial, desarrollo, igualdad de género, educación en Estados Unidos, agricultura, saneamiento y reducción de la pobreza."
+    },
+    {
+      "question": "¿Cuánto dinero ha distribuido la Fundación Gates?",
+      "answer": "La fundación informó $110,9 mil millones en distribuciones caritativas totales hasta el cuarto trimestre de 2025, incluidos $90,0 mil millones en pagos de subvenciones."
+    },
+    {
+      "question": "¿Cuánto gastó la Fundación Gates en 2025?",
+      "answer": "La Fundación Gates reportó 8.470 millones de dólares en apoyo caritativo en 2025 en desarrollo global, salud global, igualdad de género, educación en Estados Unidos y otras áreas de programas."
+    },
+    {
+      "question": "¿Qué tan grande es el fondo de la Fundación Gates?",
+      "answer": "La fundación informó una dotación de 89 mil millones de dólares al 31 de diciembre de 2025, con una cifra no auditada de 92 mil millones de dólares al 30 de junio de 2026."
+    },
+    {
+      "question": "¿Se está cerrando la Fundación Gates?",
+      "answer": "Sí. La fundación dice que planea gastar sus recursos y cerrar antes del 31 de diciembre de 2045, y se espera que se gasten más de 200 mil millones de dólares hasta 2045."
+    },
+    {
+      "question": "¿La Fundación Gates provocó por sí sola mejoras en la salud mundial?",
+      "answer": "No. Los fondos de la Fundación Gates han apoyado programas importantes, pero los avances en salud global son producidos por los gobiernos, los trabajadores de la salud, las comunidades, los investigadores, la OMS, UNICEF, Gavi, el Fondo Mundial y muchos otros socios."
+    },
+    {
+      "question": "¿Por qué es controvertida la Fundación Gates?",
+      "answer": "Los críticos argumentan que su escala otorga a una fundación privada una influencia inusual sobre las prioridades públicas, especialmente en la salud y la educación globales. Los partidarios argumentan que llena los vacíos de financiación y acelera el trabajo sobre problemas olvidados."
+    },
+    {
+      "question": "¿Qué financia la Fundación Gates?",
+      "answer": "Financia el acceso a vacunas, programas de enfermedades infecciosas, salud maternoinfantil, nutrición, agricultura, saneamiento, igualdad de género, educación en Estados Unidos, infraestructura pública digital, promoción e investigación."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "Fundación Gates",
+    "gold": "impacto global"
+  },
+  "readingTimeMinutes": 18
+}

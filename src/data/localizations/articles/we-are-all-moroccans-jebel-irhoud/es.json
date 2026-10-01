@@ -1,0 +1,242 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/we-are-all-moroccans-jebel-irhoud/",
+  "path": "/es/articles/we-are-all-moroccans-jebel-irhoud/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex Spanish editorial review",
+    "reviewedAt": "2026-10-02",
+    "terminologyChecked": true
+  },
+  "title": "Jebel Irhoud, Marruecos: los fósiles detrás de «Todos somos marroquíes»",
+  "excerpt": "Jebel Irhoud en Marruecos alberga algunos de los fósiles de Homo sapiens más antiguos jamás encontrados, pero su importancia real es mayor que un eslogan: apunta a una historia de origen africana más amplia.",
+  "seoTitle": "Jebel Irhoud: fósiles de 315.000 años y orígenes humanos",
+  "description": "Jebel Irhoud en Marruecos reformuló la ciencia de los orígenes humanos. Conozca qué fósiles se encontraron, cómo se fecharon y qué pueden y qué no pueden concluir los científicos.",
+  "keywords": [
+    "Ciencia",
+    "Marruecos",
+    "Jebel Irhoud",
+    "Fósiles de Jebel Irhoud",
+    "Orígenes humanos",
+    "Homo sapiens",
+    "Los fósiles más antiguos de Homo sapiens",
+    "Los primeros Homo sapiens de África"
+  ],
+  "searchIntent": "Conocer Jebel Irhoud Marruecos: Los fósiles detrás de 'Todos somos marroquíes'.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-06-06",
+  "updatedAt": "2026-09-02",
+  "image": {
+    "src": "/articles/jebel-irhoud-morocco-marrakesh.png",
+    "alt": "Descubrimiento arqueológico de Jebel Irhoud en Marruecos con fósiles, sitio de excavación y marcador de mapa"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Jebel Irhoud es un yacimiento arqueológico y paleontológico en Marruecos que cambió la forma en que los científicos hablan sobre los orígenes humanos. El sitio es mejor conocido por los restos fósiles asignados a los primeros Homo sapiens y que datan de hace unos 315.000 años, mucho más antiguos que las líneas de tiempo simplificadas que alguna vez ubicaron los orígenes del hombre moderno hace alrededor de 200.000 años en África Oriental."
+    },
+    {
+      "type": "paragraph",
+      "text": "El gancho de PRESDA, \"Todos somos marroquíes\", es intencionalmente editorial, no literal. Jebel Irhoud no prueba que todo ser humano moderno procediera únicamente de Marruecos. Lo que muestra es más interesante: hace aproximadamente 300.000 años, las primeras características del Homo sapiens existían en el norte de África, lo que respalda una imagen panafricana más amplia de la evolución humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para conocer el marco científico más amplio, lea nuestra guía sobre [Darwin y la teoría de la evolución](/articles/charles-darwin-theory-of-evolution/), junto con la [Cobertura científica](/category/science/) de PRESDA."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué es Jebel Irhoud?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jebel Irhoud es un yacimiento prehistórico en Marruecos, en el noroeste de África. Se describe comúnmente como en la región de Marrakech-Safi, cerca de la ciudad de Tlet Ighoud y al sureste de Safi. Mucho antes de que se convirtiera en un titular mundial, era una zona minera donde se reconocieron por primera vez restos fósiles en la década de 1960."
+    },
+    {
+      "type": "paragraph",
+      "text": "El sitio es importante porque combina fósiles humanos con arqueología de la Edad de Piedra Media. Eso significa que los investigadores no estaban mirando sólo huesos aislados. Estaban estudiando restos fósiles, herramientas de piedra, sedimentos y evidencia de fuego en el mismo contexto arqueológico más amplio."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué fósiles se encontraron en Jebel Irhoud?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fósiles clave de Jebel Irhoud incluyen cráneos, mandíbulas, dientes y otros restos esqueléticos de varios individuos. En el artículo de Nature de 2017 dirigido por Jean-Jacques Hublin y sus colegas, se analizaron fósiles recién descubiertos junto con hallazgos anteriores en el sitio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos describieron que los fósiles mostraban un mosaico de características. La cara, la mandíbula y los dientes se alinean con los humanos anatómicamente modernos tempranos o recientes, mientras que la caja craneal y la forma endocraneal parecen más arcaicas. Esa combinación es fundamental para el descubrimiento. Sugiere que el Homo sapiens no apareció repentinamente con todos los rasgos modernos completamente formados."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué edad tienen los fósiles de Jebel Irhoud?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La edad más citada de los fósiles de Jebel Irhoud es 315 ± 34 mil años. El trabajo de datación fue publicado en Nature en 2017 por Daniel Richter y sus colegas. Su análisis utilizó la datación por termoluminiscencia de artefactos de pedernal calentados por fuego encontrados en el mismo contexto de la Edad de Piedra Media que los fósiles de homínidos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores también compararon ese resultado con otras pruebas de datación, incluida una edad recalculada mediante resonancia de espín electrónico y series de uranio para un diente de la mandíbula de Irhoud 3. El resultado situó los fósiles y los artefactos asociados mucho más profundamente en el tiempo de lo que habían sugerido interpretaciones anteriores."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo fecharon los científicos el descubrimiento"
+    },
+    {
+      "type": "paragraph",
+      "text": "La datación por termoluminiscencia funciona midiendo electrones atrapados en materiales minerales calentados. Cuando las herramientas de pedernal se calientan con fuego y luego se entierran, comienzan a acumular una señal mensurable de radiación natural. Al medir esa señal y el entorno de radiación circundante, los investigadores pueden estimar cuándo se calentó el material por última vez."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Jebel Irhoud, los pedernales calentados al fuego fueron especialmente útiles porque estaban directamente asociados con la capa arqueológica que contenía los fósiles de homínidos. No se supuso que los fósiles en sí eran viejos simplemente porque parecieran arcaicos; su edad se construyó a partir de la datación del contexto arqueológico que los rodeaba."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué Jebel Irhoud cambió la historia del Homo sapiens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de la nueva datación de Jebel Irhoud, muchos resúmenes de los orígenes humanos se apoyaban en gran medida en un modelo en el que los humanos anatómicamente modernos surgieron en África Oriental hace unos 200.000 años. Los fósiles de África Oriental siguen siendo esenciales para la historia, pero Jebel Irhoud amplió el mapa y la línea de tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El artículo sobre fósiles de Nature de 2017 argumentó que el material de Jebel Irhoud documenta las primeras etapas del clado Homo sapiens y apoya la idea de que el surgimiento de nuestra especie involucró a todo el continente africano. La cuestión no es que Marruecos reemplazó a África Oriental como cuna única. La cuestión es que la historia de los orígenes humanos de África parece más amplia, más antigua y más conectada."
+    },
+    {
+      "type": "heading",
+      "text": "El modelo de origen panafricano"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un modelo panafricano no imagina al Homo sapiens comenzando como una población terminada en un lugar pequeño. Sugiere que diferentes poblaciones en África pueden haber tenido diferentes combinaciones de rasgos, tecnologías y adaptaciones, con cambios climáticos y rutas migratorias que periódicamente las conectan o separan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jebel Irhoud se ajusta a ese modelo porque sitúa los primeros fósiles similares al Homo sapiens en el norte de África hace unos 315.000 años. Otros fósiles africanos, sitios arqueológicos y evidencia genética posterior continúan dando forma al panorama. El descubrimiento marroquí es, por tanto, un capítulo importante, no todo el libro."
+    },
+    {
+      "type": "heading",
+      "text": "Herramientas de piedra, fuego y comportamiento humano temprano"
+    },
+    {
+      "type": "paragraph",
+      "text": "El descubrimiento de Jebel Irhoud también es importante por las herramientas de piedra encontradas con los fósiles. Las herramientas pertenecen a un contexto de la Edad de Piedra Media, lo que demuestra que el sitio no era sólo un lugar donde se conservaban huesos, sino un lugar conectado con el comportamiento, la tecnología y el uso del paisaje."
+    },
+    {
+      "type": "paragraph",
+      "text": "El fuego también importa. Se calentaron algunos artefactos de pedernal, lo que ayudó a los científicos a datar el sitio. Pero el punto más amplio es conductual: las primeras poblaciones de Homo sapiens fabricaban herramientas, utilizaban fuego y vivían en entornos que requerían conocimiento práctico y adaptación."
+    },
+    {
+      "type": "heading",
+      "text": "Lo que los científicos pueden concluir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos pueden concluir que Jebel Irhoud contiene algunos de los fósiles de Homo sapiens más antiguos y ampliamente citados que se conocen, que datan de hace aproximadamente 315.000 años, y que estos fósiles muestran una combinación de características anatómicas modernas y arcaicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "También pueden concluir que el norte de África jugó un papel más importante en la evolución temprana del Homo sapiens de lo que sugerían los mapas simplificados más antiguos. Jebel Irhoud apoya un marco africano continental para los orígenes humanos, donde múltiples regiones contribuyeron al surgimiento de nuestra especie a lo largo del tiempo."
+    },
+    {
+      "type": "heading",
+      "text": "Lo que los científicos no pueden concluir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jebel Irhoud no prueba que todos los humanos modernos se originaron literalmente sólo en Marruecos. No proporciona una historia genética completa de los primeros Homo sapiens y los fósiles no representan a humanos vivos en una forma anatómica completamente moderna."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tampoco cierra el debate sobre los orígenes humanos. Nuevos descubrimientos de fósiles, métodos de datación mejorados e investigaciones de ADN antiguo aún pueden refinar o complicar la historia. En ciencia, un descubrimiento tan importante no es un final. Es un mejor punto de partida."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué 'Todos somos marroquíes' todavía funciona como gancho"
+    },
+    {
+      "type": "paragraph",
+      "text": "La frase funciona porque capta la fuerza emocional del descubrimiento. Jebel Irhoud otorga a Marruecos un lugar central en una de las historias científicas más antiguas de la humanidad. Recuerda a los lectores que la historia del Homo sapiens no pertenece a una nación, una etnia o una identidad moderna."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usado con cuidado, \"Todos somos marroquíes\" significa que Marruecos posee una de las ventanas más antiguas conocidas a nuestra especie. Es un titular poético para una verdad científica: la historia humana es africana, antigua, conectada y aún está siendo reescrita por la evidencia."
+    },
+    {
+      "type": "heading",
+      "text": "Palabra final"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jebel Irhoud cambió la ciencia de los orígenes humanos porque hizo el mapa más grande y la línea de tiempo más antigua. Los fósiles de Marruecos muestran que la evolución temprana del Homo sapiens no fue una historia clara y única, sino un proceso en capas a lo largo de África."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso el descubrimiento sigue siendo importante. Le da a Marruecos un lugar en el tiempo humano profundo y al mismo tiempo recuerda a todos los demás que los orígenes rara vez son simples. No todos somos literalmente de Jebel Irhoud. Pero el sitio nos pertenece a todos porque ayuda a explicar cómo comenzó la historia humana."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Naturaleza: Nuevos fósiles de Jebel Irhoud, Marruecos y el origen panafricano del Homo sapiens",
+      "url": "https://www.nature.com/articles/nature22336"
+    },
+    {
+      "label": "Naturaleza: la edad de los fósiles de homínidos de Jebel Irhoud, Marruecos, y los orígenes de la Edad de Piedra Media",
+      "url": "https://www.nature.com/articles/nature22335"
+    },
+    {
+      "label": "PubMed: Hublin et al. 2017 Papel fósil Jebel Irhoud",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28593953/"
+    },
+    {
+      "label": "PubMed: Richter et al. Papel de citas Jebel Irhoud 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28593967/"
+    },
+    {
+      "label": "Instituto Max Planck de Antropología Evolutiva: el primero de nuestro tipo",
+      "url": "https://www.eva.mpg.de/press/news/2017/2017-06-07-the-first-of-our-kind/"
+    },
+    {
+      "label": "Orígenes humanos del Smithsonian: nuestra especie surgió hace al menos 300.000 años",
+      "url": "https://humanorigins.si.edu/research/whats-hot-human-origins/our-species-arose-least-300000-years-ago"
+    },
+    {
+      "label": "Nature News: La afirmación del fósil más antiguo de Homo sapiens reescribe la historia de nuestra especie",
+      "url": "https://www.nature.com/articles/nature.2017.22114"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué es Jebel Irhoud?",
+      "answer": "Jebel Irhoud es un yacimiento arqueológico y paleontológico en Marruecos conocido por los primeros fósiles de Homo sapiens y artefactos de la Edad de Piedra Media que remodelaron la comprensión científica de los orígenes humanos."
+    },
+    {
+      "question": "¿Dónde está Jebel Irhoud en Marruecos?",
+      "answer": "Jebel Irhoud se encuentra en el noroeste de Marruecos, comúnmente descrito en la región de Marrakech-Safi, cerca de Tlet Ighoud y al sureste de Safi."
+    },
+    {
+      "question": "¿Qué edad tienen los fósiles de Jebel Irhoud?",
+      "answer": "El estudio de datación de Nature, ampliamente citado, sitúa los fósiles y los artefactos asociados de la Edad de Piedra Media en aproximadamente 315 ± 34 mil años."
+    },
+    {
+      "question": "¿Son los fósiles de Jebel Irhoud los fósiles de Homo sapiens más antiguos?",
+      "answer": "Se encuentran entre los fósiles de Homo sapiens más antiguos e importantes ampliamente citados en la literatura científica. El descubrimiento hizo retroceder la línea de tiempo conocida del primer Homo sapiens unos 100.000 años en comparación con los modelos simplificados más antiguos."
+    },
+    {
+      "question": "¿Jebel Irhoud significa que todos los humanos vinieron únicamente de Marruecos?",
+      "answer": "No. Jebel Irhoud no demuestra que el origen de los humanos modernos sea exclusivo de Marruecos. Apoya un modelo panafricano más amplio en el que la evolución temprana del Homo sapiens involucró a múltiples regiones de África a lo largo del tiempo."
+    },
+    {
+      "question": "¿Por qué Jebel Irhoud cambió la ciencia de los orígenes humanos?",
+      "answer": "Mostró que las primeras características del Homo sapiens estaban presentes en el norte de África hace unos 315.000 años, lo que hace que el origen de nuestra especie parezca más antiguo, más amplio y más continental que una historia de origen de un solo lugar."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "Jebel Irhoud",
+    "gold": "Todos somos marroquíes"
+  },
+  "readingTimeMinutes": 7
+}
