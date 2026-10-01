@@ -8,6 +8,21 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[COFFEE_DAY_2026_PRODUCERS_TABLE]]": {
+    caption: "Leading producers: USDA July 2026 forecasts for 2026/27. Million 60-kilogram bags.",
+    headers: ["Country", "Forecast production"],
+    minWidthClass: "min-w-[300px]",
+    boldColumnIndex: 0,
+    rowKeyIndex: 0,
+    rows: [
+      ["Brazil", "71.90"],
+      ["Vietnam", "32.50"],
+      ["Colombia", "13.40"],
+      ["Ethiopia", "12.10"],
+      ["Indonesia", "11.38"],
+      ["Uganda", "7.16"]
+    ]
+  },
   "[[RESISTANCE_COMPARISON_TABLE]]": {
     caption: "Three connected struggles with different goals and methods. Strategies changed over time and were debated within each movement.",
     headers: ["Leader and setting", "Central political goal", "Methods", "Essential distinction"],
