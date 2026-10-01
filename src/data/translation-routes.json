@@ -271,6 +271,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/ayyubid-dynasty-saladin-empire-jerusalem/",
+    "path": "/ar/articles/ayyubid-dynasty-saladin-empire-jerusalem/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/ayyubid-dynasty-saladin-empire-jerusalem/",
+    "path": "/es/articles/ayyubid-dynasty-saladin-empire-jerusalem/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/ayyubid-dynasty-saladin-empire-jerusalem/",
+    "path": "/fr/articles/ayyubid-dynasty-saladin-empire-jerusalem/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/babylon-history-hammurabi-hanging-gardens/",
     "path": "/ar/articles/babylon-history-hammurabi-hanging-gardens/"
   },
@@ -388,6 +403,21 @@
     "locale": "fr",
     "englishPath": "/articles/byzantine-empire-eastern-rome-constantinople-1453/",
     "path": "/fr/articles/byzantine-empire-eastern-rome-constantinople-1453/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/cahokia-great-native-american-city-before-columbus/",
+    "path": "/ar/articles/cahokia-great-native-american-city-before-columbus/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/cahokia-great-native-american-city-before-columbus/",
+    "path": "/es/articles/cahokia-great-native-american-city-before-columbus/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/cahokia-great-native-american-city-before-columbus/",
+    "path": "/fr/articles/cahokia-great-native-american-city-before-columbus/"
   },
   {
     "locale": "ar",
@@ -601,6 +631,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/dutch-empire-netherlands-global-empire-history/",
+    "path": "/ar/articles/dutch-empire-netherlands-global-empire-history/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/dutch-empire-netherlands-global-empire-history/",
+    "path": "/es/articles/dutch-empire-netherlands-global-empire-history/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/dutch-empire-netherlands-global-empire-history/",
+    "path": "/fr/articles/dutch-empire-netherlands-global-empire-history/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/elon-mars-signal/",
     "path": "/ar/articles/elon-mars-signal/"
   },
@@ -763,6 +808,21 @@
     "locale": "fr",
     "englishPath": "/articles/good-vs-evil-human-nature-morality/",
     "path": "/fr/articles/good-vs-evil-human-nature-morality/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/great-zimbabwe-african-kingdom-built-stone/",
+    "path": "/ar/articles/great-zimbabwe-african-kingdom-built-stone/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/great-zimbabwe-african-kingdom-built-stone/",
+    "path": "/es/articles/great-zimbabwe-african-kingdom-built-stone/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/great-zimbabwe-african-kingdom-built-stone/",
+    "path": "/fr/articles/great-zimbabwe-african-kingdom-built-stone/"
   },
   {
     "locale": "ar",
@@ -1111,6 +1171,36 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/jerusalem-3000-years-kingdoms-faith-conquest/",
+    "path": "/ar/articles/jerusalem-3000-years-kingdoms-faith-conquest/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/jerusalem-3000-years-kingdoms-faith-conquest/",
+    "path": "/es/articles/jerusalem-3000-years-kingdoms-faith-conquest/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/jerusalem-3000-years-kingdoms-faith-conquest/",
+    "path": "/fr/articles/jerusalem-3000-years-kingdoms-faith-conquest/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/jin-dynasty-jurchen-empire-genghis-khan/",
+    "path": "/ar/articles/jin-dynasty-jurchen-empire-genghis-khan/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/jin-dynasty-jurchen-empire-genghis-khan/",
+    "path": "/es/articles/jin-dynasty-jurchen-empire-genghis-khan/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/jin-dynasty-jurchen-empire-genghis-khan/",
+    "path": "/fr/articles/jin-dynasty-jurchen-empire-genghis-khan/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/jon-snow-backs-morocco/",
     "path": "/ar/articles/jon-snow-backs-morocco/"
   },
@@ -1156,6 +1246,81 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/khmer-empire-civilization-built-angkor/",
+    "path": "/ar/articles/khmer-empire-civilization-built-angkor/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/khmer-empire-civilization-built-angkor/",
+    "path": "/es/articles/khmer-empire-civilization-built-angkor/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/khmer-empire-civilization-built-angkor/",
+    "path": "/fr/articles/khmer-empire-civilization-built-angkor/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/kingdom-aksum-africa-trade-faith/",
+    "path": "/ar/articles/kingdom-aksum-africa-trade-faith/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/kingdom-aksum-africa-trade-faith/",
+    "path": "/es/articles/kingdom-aksum-africa-trade-faith/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/kingdom-aksum-africa-trade-faith/",
+    "path": "/fr/articles/kingdom-aksum-africa-trade-faith/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/kingdom-croatia-tomislav-union-hungary/",
+    "path": "/ar/articles/kingdom-croatia-tomislav-union-hungary/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/kingdom-croatia-tomislav-union-hungary/",
+    "path": "/es/articles/kingdom-croatia-tomislav-union-hungary/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/kingdom-croatia-tomislav-union-hungary/",
+    "path": "/fr/articles/kingdom-croatia-tomislav-union-hungary/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/kingdom-england-anglo-saxons-united-crown/",
+    "path": "/ar/articles/kingdom-england-anglo-saxons-united-crown/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/kingdom-england-anglo-saxons-united-crown/",
+    "path": "/es/articles/kingdom-england-anglo-saxons-united-crown/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/kingdom-england-anglo-saxons-united-crown/",
+    "path": "/fr/articles/kingdom-england-anglo-saxons-united-crown/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/kingdom-hungary-thousand-years-heart-europe/",
+    "path": "/ar/articles/kingdom-hungary-thousand-years-heart-europe/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/kingdom-hungary-thousand-years-heart-europe/",
+    "path": "/es/articles/kingdom-hungary-thousand-years-heart-europe/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/kingdom-hungary-thousand-years-heart-europe/",
+    "path": "/fr/articles/kingdom-hungary-thousand-years-heart-europe/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/kingdom-of-benin-west-african-power-history/",
     "path": "/ar/articles/kingdom-of-benin-west-african-power-history/"
   },
@@ -1183,6 +1348,21 @@
     "locale": "fr",
     "englishPath": "/articles/kingdom-of-kush-nubia-black-pharaohs-history/",
     "path": "/fr/articles/kingdom-of-kush-nubia-black-pharaohs-history/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/kingdom-sicily-normans-arabs-byzantines/",
+    "path": "/ar/articles/kingdom-sicily-normans-arabs-byzantines/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/kingdom-sicily-normans-arabs-byzantines/",
+    "path": "/es/articles/kingdom-sicily-normans-arabs-byzantines/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/kingdom-sicily-normans-arabs-byzantines/",
+    "path": "/fr/articles/kingdom-sicily-normans-arabs-byzantines/"
   },
   {
     "locale": "ar",
@@ -1243,6 +1423,21 @@
     "locale": "fr",
     "englishPath": "/articles/magic-paranormal-james-randi/",
     "path": "/fr/articles/magic-paranormal-james-randi/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/majapahit-empire-java-maritime-power/",
+    "path": "/ar/articles/majapahit-empire-java-maritime-power/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/majapahit-empire-java-maritime-power/",
+    "path": "/es/articles/majapahit-empire-java-maritime-power/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/majapahit-empire-java-maritime-power/",
+    "path": "/fr/articles/majapahit-empire-java-maritime-power/"
   },
   {
     "locale": "ar",
@@ -1408,6 +1603,21 @@
     "locale": "fr",
     "englishPath": "/articles/nobel-prize-history-winners-discoveries/",
     "path": "/fr/articles/nobel-prize-history-winners-discoveries/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/numidia-berber-kingdom-challenged-rome/",
+    "path": "/ar/articles/numidia-berber-kingdom-challenged-rome/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/numidia-berber-kingdom-challenged-rome/",
+    "path": "/es/articles/numidia-berber-kingdom-challenged-rome/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/numidia-berber-kingdom-challenged-rome/",
+    "path": "/fr/articles/numidia-berber-kingdom-challenged-rome/"
   },
   {
     "locale": "ar",
@@ -1741,6 +1951,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/sikh-empire-ranjit-singh-kingdom-punjab/",
+    "path": "/ar/articles/sikh-empire-ranjit-singh-kingdom-punjab/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/sikh-empire-ranjit-singh-kingdom-punjab/",
+    "path": "/es/articles/sikh-empire-ranjit-singh-kingdom-punjab/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/sikh-empire-ranjit-singh-kingdom-punjab/",
+    "path": "/fr/articles/sikh-empire-ranjit-singh-kingdom-punjab/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/soviet-union-history-rise-collapse-ussr/",
     "path": "/ar/articles/soviet-union-history-rise-collapse-ussr/"
   },
@@ -1783,6 +2008,21 @@
     "locale": "fr",
     "englishPath": "/articles/sumerians-first-cities-cuneiform-civilization/",
     "path": "/fr/articles/sumerians-first-cities-cuneiform-civilization/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/swedish-empire-great-european-power-history/",
+    "path": "/ar/articles/swedish-empire-great-european-power-history/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/swedish-empire-great-european-power-history/",
+    "path": "/es/articles/swedish-empire-great-european-power-history/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/swedish-empire-great-european-power-history/",
+    "path": "/fr/articles/swedish-empire-great-european-power-history/"
   },
   {
     "locale": "ar",

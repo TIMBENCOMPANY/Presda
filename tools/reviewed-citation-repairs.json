@@ -222,5 +222,33 @@
     "replacement": "https://www.nhm.ac.uk/discover/how-an-asteroid-caused-extinction-of-dinosaurs.html",
     "reason": "Working same-museum account of the asteroid and non-avian dinosaur extinction replaces404 path; same scientific context.",
     "verifiedAt": "2026-09-27"
+  },
+  {
+    "slug": "ayyubid-dynasty-saladin-empire-jerusalem",
+    "original": "/articles/jerusalem-3000-years-kingdoms-faith-conquest/",
+    "replacement": "https://presda.com/articles/jerusalem-3000-years-kingdoms-faith-conquest/",
+    "reason": "Same PRESDA article destination expressed as an absolute HTTPS citation for the published localized reference list; the English source and article URL are unchanged.",
+    "verifiedAt": "2026-10-02"
+  },
+  {
+    "slug": "ayyubid-dynasty-saladin-empire-jerusalem",
+    "original": "/articles/ottoman-empire-rise-and-fall/",
+    "replacement": "https://presda.com/articles/ottoman-empire-rise-and-fall/",
+    "reason": "Same PRESDA article destination expressed as an absolute HTTPS citation for the published localized reference list; the English source and article URL are unchanged.",
+    "verifiedAt": "2026-10-02"
+  },
+  {
+    "slug": "jin-dynasty-jurchen-empire-genghis-khan",
+    "original": "/articles/mongol-empire-genghis-khan-conquests-legacy/",
+    "replacement": "https://presda.com/articles/mongol-empire-genghis-khan-conquests-legacy/",
+    "reason": "Same PRESDA article destination expressed as an absolute HTTPS citation for the published localized reference list; the English source and article URL are unchanged.",
+    "verifiedAt": "2026-10-02"
+  },
+  {
+    "slug": "jin-dynasty-jurchen-empire-genghis-khan",
+    "original": "/articles/han-dynasty-china-silk-road-history-legacy/",
+    "replacement": "https://presda.com/articles/han-dynasty-china-silk-road-history-legacy/",
+    "reason": "Same PRESDA article destination expressed as an absolute HTTPS citation for the published localized reference list; the English source and article URL are unchanged.",
+    "verifiedAt": "2026-10-02"
   }
 ]
