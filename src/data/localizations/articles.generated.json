@@ -47474,6 +47474,903 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/de-extinction-bringing-extinct-animals-back-science/",
+    "path": "/ar/articles/de-extinction-bringing-extinct-animals-back-science/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex ar localization and source-parity review",
+      "reviewedAt": "2026-10-02",
+      "terminologyChecked": true
+    },
+    "title": "هل يمكن إعادة الحيوانات المنقرضة إلى الحياة؟ علم إحياء الأنواع المنقرضة",
+    "excerpt": "قراءة الحمض النووي القديم وإعادة بعض الصفات المفقودة إنجازان علميان حقيقيان. لكن استعادة نوع منقرض ومكانه في الطبيعة مهمة أصعب بكثير.",
+    "headlineHighlights": {
+      "red": "الحيوانات المنقرضة",
+      "gold": "علم إحياء"
+    },
+    "seoTitle": "هل يمكن إعادة الحيوانات المنقرضة إلى الحياة؟",
+    "description": "الاستنساخ والحمض النووي القديم وكريسبر: علم إحياء الأنواع المنقرضة ومشروعات الماموث والذئب الرهيب والدودو والثايلسين والحمام المهاجر وحدودها.",
+    "keywords": [
+      "إحياء الأنواع المنقرضة",
+      "الحيوانات المنقرضة",
+      "إحياء الماموث الصوفي",
+      "الذئب الرهيب",
+      "كريسبر والأنواع المنقرضة",
+      "الحمض النووي القديم"
+    ],
+    "searchIntent": "فهم تقنيات إحياء الأنواع المنقرضة والإنجازات الموثقة وحدود المشروعات الحالية.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "image": {
+      "src": "/articles/de-extinction-mammoth-containment-lab.png",
+      "alt": "رسم تخيلي لماموث صوفي داخل مختبر، وليس لحيوان منقرض أُعيد فعلاً إلى الحياة"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "يمكن لعلم إحياء الأنواع المنقرضة استعادة معلومات وراثية وإعادة بعض صفات الحيوانات التي اختفت. لكنه لا يقدم بعد طريقة عامة لاسترجاع النوع الأصلي وتنوعه ونظامه البيئي. والسؤال الأساسي هو ما أُنتج فعلاً: تسلسل حمض نووي، أم خلية معدلة، أم حيوان حي، أم جماعة قادرة على الاستمرار ذاتياً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يستخدم الاتحاد الدولي لحفظ الطبيعة مفهوم البديل لوصف كائن يُراد له أن يقوم مقام نوع منقرض. وهذا تمييز مهم، لأن التشابه والأصل التطوري والوظيفة البيئية مقاييس مختلفة للنجاح. [الاتحاد الدولي لحفظ الطبيعة: إرشادات بدائل الأنواع المنقرضة](https://portals.iucn.org/library/sites/library/files/documents/Rep-2016-009.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "الاستنساخ: نسخ خلية محفوظة"
+      },
+      {
+        "type": "paragraph",
+        "text": "في نقل نواة الخلية الجسدية، يضع الباحثون نواة خلية من الجسم داخل بويضة أُزيلت نواتها. ثم يجب أن ينجح التطور ضمن جهاز تناسلي متوافق. نقطة البداية نواة صالحة للاستخدام، وليست ملفاً حاسوبياً يحتوي على جينوم. [NHGRI: صحيفة معلومات عن الاستنساخ](https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet)"
+      },
+      {
+        "type": "paragraph",
+        "text": "شملت تجربة بارزة نويع وعل البرانس المنقرض، المعروف بالبُكاردو. وُلد مستنسخ عام 2003 من خلايا محفوظة، لكنه مات بعد دقائق مع تشوهات رئوية. نُشرت الدراسة المحكّمة عام 2009. تحققت ولادة حية، لكن لم تتشكل جماعة باقية. [فولش وزملاؤه، Theriogenology، 2009: استنساخ وعل البرانس](https://orbi.uliege.be/handle/2268/9318)"
+      },
+      {
+        "type": "heading",
+        "text": "الحمض النووي القديم: القراءة لا تعني الإحياء"
+      },
+      {
+        "type": "paragraph",
+        "text": "يبقى الحمض النووي القديم على هيئة شظايا متضررة يقرأ الباحثون تسلسلها ويجمعونها، غالباً بالاستعانة بأقارب أحياء مرجعاً. واستعادت دراسة في Nature عام 2021 بيانات جينومية لعينات ماموث يزيد عمرها على مليون سنة. كانت تسلسلات، لا خلايا ماموث حية. [Nature، 2021: حمض نووي لماموث عمره أكثر من مليون سنة](https://www.nature.com/articles/s41586-021-03224-9)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ثمة فرق بين استعادة أجزاء من دليل تعليمات والحصول على آلة تعمل. فالتسلسلات المفقودة وتنظيم الكروموسومات وسياق التطور عوامل مهمة أيضاً. ولا يكفي حقن جينوم مُعاد بناؤه في بويضة وانتظار تحوله إلى الحيوان الذي يصفه."
+      },
+      {
+        "type": "heading",
+        "text": "كريسبر والتكاثر الانتقائي"
+      },
+      {
+        "type": "paragraph",
+        "text": "تستطيع أنظمة كريسبر توجيه إنزيمات إلى مواقع محددة في الحمض النووي. ويمكن للباحثين تعطيل جينات أو إدخال تغييرات معينة ثم اختبار آثارها. تعديل قريب حي ليُظهر صفات حيوان منقرض يغيّر ذلك القريب، لكنه لا يعيد تلقائياً بناء الجينوم المنقرض كاملاً. [NHGRI: آلية تحرير الجينوم](https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/How-genome-editing-works)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يسلك التكاثر الانتقائي طريقاً آخر، باختيار حيوانات حية تحمل صفات وراثية مطلوبة عبر أجيال متعاقبة. وقد يركز صفات تبدو سلفية، كما في أبقار تُربى لتشبه الأرخص المنقرض. لكنه لا يستعيد تنوعات جينية غائبة عن الجماعة المستخدمة في التكاثر. [Rewilding Europe: الانتخاب في برنامج تاوروس](https://rewildingeurope.com/rewilding-in-action/wildlife-comeback/tauros/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن الجمع بين الطرق: يُعدل التحرير الجيني خلية مانحة، ثم يساعد الاستنساخ في إنتاج حيوان منها. ووصف النتيجة بأنها مستنسخ لا يعني أن المانح كان حيواناً منقرضاً. ينبغي السؤال عن الكائن الذي قدّم الخلايا والتغييرات التي أُدخلت."
+      },
+      {
+        "type": "heading",
+        "text": "الماموث الصوفي: فيل بصفات منتقاة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف كولوسال هدف مشروع الماموث بدقة أكبر بأنه فيل مقاوم للبرد يحمل صفات الماموث. أما استعادة النظم البيئية القطبية وتحقيق فوائد مناخية فهما طموحان للمشروع، وليسا نتائج أثبتتها قطعان ماموث أُطلقت في الطبيعة. [كولوسال: الأهداف المعلنة لمشروع الماموث](https://colossal.com/mammoth/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعرض دراسة منشورة عام 2026 في Cell Reports Methods فئراناً خضعت لتعديلات متعددة غيّرت صفات فرائها. إنها أدلة محكّمة على هندسة الصفات في الفئران، ولا تثبت ولادة ماموث أو نجاح حمل فيل أو الأثر المناخي لحيوان مستقبلي. [Cell Reports Methods، 2026: التحرير المتعدد في الفئران](https://doi.org/10.1016/j.crmeth.2026.101572)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الشعر جزء واحد من التكيف مع البرد. يجب أن يعمل التطور ووظائف الجسم والتكاثر والسلوك معاً. ولا تثبت صورة مقنعة لحيوان أن هذه الأنظمة ستعمل بأمان طوال حياته."
+      },
+      {
+        "type": "heading",
+        "text": "الذئب الرهيب: ما الذي أُنتج فعلاً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "وصف إعلان كولوسال عام 2025 حيوانات أُنتجت باستخدام خلايا معدلة من الذئب الرمادي وكلاب إناث حوامل بديلة. وتذكر صفحة الأساليب تعديل 20 موقعاً موزعة على 14 جيناً. تصف الأرقام تغييرات منتقاة في نوع حي، لا استبداله بجينوم قديم كامل للذئب الرهيب. [كولوسال: الأساليب المعلنة لمشروع الذئب الرهيب](https://colossal.com/direwolf/science/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتعقّد أبحاث الحمض النووي القديم الاستدلال بالتشابه. فقد حددت دراسة في Nature عام 2021 سلالة شديدة التباعد للذئب الرهيب. [Nature، 2021: سلالة الذئب الرهيب القديمة](https://www.nature.com/articles/s41586-020-03082-x)"
+      },
+      {
+        "type": "paragraph",
+        "text": "أما دراسة محكّمة في Cell Genomics عام 2026، شارك فيها باحثون من كولوسال، فتقترح أصلاً مختلطاً من سلالتين قديمتين من الكلبيات. هذا يحدّث الأدلة التطورية، لكنه لا يثبت أن الذئاب الرمادية المعدلة تعيد السلالة المنقرضة. تسمية الشركة والادعاء البيولوجي ليسا شيئاً واحداً. [Cell Genomics، 2026: أصول الذئب الرهيب](https://pubmed.ncbi.nlm.nih.gov/42508403/)"
+      },
+      {
+        "type": "heading",
+        "text": "الدودو: تحدي إنتاج طائر"
+      },
+      {
+        "type": "paragraph",
+        "text": "يقترح برنامج الدودو لدى كولوسال هندسة خلايا قريبه الحي، حمام نيكوبار، وتطوير التكاثر عبر طيور بديلة. وتركز مشروعات الطيور على الخلايا الجنسية الأولية، التي تنشأ منها البويضات والحيوانات المنوية، بدلاً من تطبيق استنساخ الثدييات ببساطة على بيضة. [كولوسال: مشروع الدودو والخلايا الجنسية الأولية](https://colossal.com/dodo/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف دراسة في Journal of Heredity عام 2026 زراعة طويلة الأمد للخلايا الجنسية الأولية للحمام الصخري. إنها نتيجة مفيدة لأبحاث التكاثر، وليست فقس دودو. فزراعة الخلايا وتوريث التعديلات وإنتاج طائر سليم مراحل منفصلة. [Journal of Heredity، 2026: زراعة الخلايا الجنسية للحمام الصخري](https://www.research.ed.ac.uk/en/publications/long-term-rock-dove-columba-livia-primordial-germ-cell-culture-a-/)"
+      },
+      {
+        "type": "heading",
+        "text": "الثايلسين: مسألة تطور جرابي"
+      },
+      {
+        "type": "paragraph",
+        "text": "يجمع برنامج TIGRR في جامعة ملبورن بين أبحاث جينوم الثايلسين والعمل على تكاثر الجرابيات. ويهدف إلى أدوات لإحياء الأنواع المنقرضة والحفظ معاً. وفهم نموذج جرابي حي جزء من البرنامج، وليس دليلاً على عودة الثايلسين. [جامعة ملبورن: برنامج TIGRR](https://biosciences.unimelb.edu.au/research/pask-lab/research/tigrr-lab)"
+      },
+      {
+        "type": "paragraph",
+        "text": "في مايو 2026، أعلنت كولوسال تطور حيوانات الدنارت عبر مراحل نظام رحم اصطناعي. ووصفت الشركة تقدماً نحو تطور كامل خارج الرحم. ولا ينبغي فهم الإعلان بوصفه ولادة موثقة لثايلسين أو نظام حمل اصطناعي مكتمل لكل الأنواع. [كولوسال: تطور الدنارت، مايو 2026](https://colossal.com/colossal-artificial-womb-dunnart-development-ex-utero/)"
+      },
+      {
+        "type": "heading",
+        "text": "الحمام المهاجر: استعادة دور بيئي"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقترح Revive & Restore تعديل الحمام مخطط الذيل لاستعادة صفات تشبه الحمام المهاجر ووظائفه في الغابات. وتستهدف صفحة البرنامج الحالية إنتاج أول طيور جديدة في ثلاثينيات هذا القرن. إنه هدف وليس إعلان فقس، والتواريخ القديمة المتداولة لا تعني إنجاز مراحل المشروع. [Revive & Restore: البرنامج الحالي للحمام المهاجر](https://reviverestore.org/projects/about-the-passenger-pigeon/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يستطيع طائر واحد إعادة تأثير سرب هائل. فحجم الجماعة والسلوك الاجتماعي والموئل والتفاعلات مع الأنواع الأخرى تؤثر في أي استعادة بيئية. وإثبات صفة موروثة خطوة مبكرة فقط نحو هدف أكبر بكثير."
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي قد يكسبه حفظ الطبيعة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للأدوات مساعدة أنواع ما زالت موجودة. ففي 2024، أعلنت هيئة الأسماك والحياة البرية الأميركية وجود نسل باقٍ لأنطونيا، أنثى نمس أسود القدمين استُنسخت باستخدام أنسجة محفوظة. يثبت ذلك التكاثر في برنامج استنساخ للحفظ، لا إحياء نوع منقرض. [هيئة الأسماك والحياة البرية الأميركية: نسل نمس مستنسخ، 2024](https://www.fws.gov/press-release/2024-11/advancements-black-footed-ferret-conservation-continue-new-offspring-cloned)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشمل الفوائد المحتملة حفظ خيارات وراثية وتحسين تقنيات التكاثر. وينبغي قياس النجاح بحيوانات سليمة وتنوع جيني مفيد ونتائج للحفظ، لا بمجرد جدة الولادة. وتبقى حماية الموائل ضرورية لأي جماعة تساعد التقنية في تكوينها."
+      },
+      {
+        "type": "heading",
+        "text": "الرفق بالحيوان والبيئة والنقاش الأخلاقي"
+      },
+      {
+        "type": "paragraph",
+        "text": "يجب أن يشمل تقييم الرفاه مانحات البويضات والأمهات البديلة والحمل غير الناجح والنسل، مع التخطيط للرعاية طوال الحياة. ويجب أن يبحث التقييم البيئي الأمراض والتنافس وملاءمة الموائل والمجتمعات المتأثرة بالإطلاق. وتضع إرشادات الاتحاد الدولي لحفظ الطبيعة فوائد الحفظ وتقييم المخاطر في صلب المتطلبات. [الاتحاد الدولي لحفظ الطبيعة: إرشادات النقل لأغراض الحفظ](https://iucn.org/resources/publication/guidelines-reintroductions-and-other-conservation-translocations)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وثمة تكلفة للفرصة البديلة أيضاً. وجدت دراسة نمذجة محكّمة عام 2017 أن تمويل حفظ الأنواع المُعادة قد يقلل عدد الأنواع الحية الممكن حمايتها ضمن ميزانيات محدودة. تعتمد النتيجة على افتراضات التمويل، ولا تتنبأ بأن كل مشروع سيضر بالحفظ. [بينيت وزملاؤه، 2017: المفاضلات المالية في الحفظ](https://pubmed.ncbi.nlm.nih.gov/28812662/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لذلك يتجاوز الخيار الأخلاقي إمكان نجاح التجربة. من يقرر أي حيوان يُنتج، ومن يرعاه، ومن يتحمل تبعات إطلاقه؟ يمكن تقدير الأدوات الجديدة مع التساؤل عما إذا كانت الموارد نفسها ستمنع انقراضات أكثر اليوم."
+      },
+      {
+        "type": "heading",
+        "text": "كيف نقرأ الإنجاز المقبل؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحقق من النوع الذي قدّم الخلايا والتغييرات وحالة النشر والنتيجة المقاسة فعلاً. يختلف مستوى التدقيق بين إعلان شركة ومسودة بحث قبل التحكيم ودراسة محكّمة. وحتى البحث القوي يدعم النتيجة التي اختبرها، لا كل تطبيق مستقبلي يُقترح حولها."
+      },
+      {
+        "type": "paragraph",
+        "text": "حتى 2 أكتوبر 2026، لا تثبت المصادر التي روجعت هنا استعادة جماعات برية من الحيوانات المنقرضة الخمسة المعروضة. تدعم الأدلة تقدماً تقنياً مهماً، بينما تبقى إعادة بناء جماعات قابلة للاستمرار وعلاقات بيئية مهمة منفصلة."
+      },
+      {
+        "type": "paragraph",
+        "text": "للسياق، اقرأ عن [التكيف البشري لدى الباجاو](/articles/bajau-people-sea-nomads-diving/) و[بيئة غرينلاند القطبية المتغيرة](/articles/greenland-world-powers-arctic-island/). ولا يمثل أي منهما دليلاً على نجاح مشروع مقترح لإحياء نوع منقرض."
+      },
+      {
+        "type": "paragraph",
+        "text": "الصورة الرئيسية رسم تخيلي لماموث في مختبر. لا تصور ماموثاً أُعيد فعلاً إلى الحياة أو منشأة بحثية موثقة."
+      }
+    ],
+    "sources": [
+      {
+        "label": "الاتحاد الدولي لحفظ الطبيعة: إرشادات بدائل الأنواع المنقرضة",
+        "url": "https://portals.iucn.org/library/sites/library/files/documents/Rep-2016-009.pdf"
+      },
+      {
+        "label": "Rewilding Europe: الانتخاب في برنامج تاوروس",
+        "url": "https://rewildingeurope.com/rewilding-in-action/wildlife-comeback/tauros/"
+      },
+      {
+        "label": "الاتحاد الدولي لحفظ الطبيعة: إرشادات النقل لأغراض الحفظ",
+        "url": "https://iucn.org/resources/publication/guidelines-reintroductions-and-other-conservation-translocations"
+      },
+      {
+        "label": "NHGRI: صحيفة معلومات عن الاستنساخ",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet"
+      },
+      {
+        "label": "فولش وزملاؤه، Theriogenology، 2009: استنساخ وعل البرانس",
+        "url": "https://orbi.uliege.be/handle/2268/9318"
+      },
+      {
+        "label": "Nature، 2021: حمض نووي لماموث عمره أكثر من مليون سنة",
+        "url": "https://www.nature.com/articles/s41586-021-03224-9"
+      },
+      {
+        "label": "NHGRI: آلية تحرير الجينوم",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/How-genome-editing-works"
+      },
+      {
+        "label": "كولوسال: الأهداف المعلنة لمشروع الماموث",
+        "url": "https://colossal.com/mammoth/"
+      },
+      {
+        "label": "Cell Reports Methods، 2026: التحرير المتعدد في الفئران",
+        "url": "https://doi.org/10.1016/j.crmeth.2026.101572"
+      },
+      {
+        "label": "كولوسال: الأساليب المعلنة لمشروع الذئب الرهيب",
+        "url": "https://colossal.com/direwolf/science/"
+      },
+      {
+        "label": "Nature، 2021: سلالة الذئب الرهيب القديمة",
+        "url": "https://www.nature.com/articles/s41586-020-03082-x"
+      },
+      {
+        "label": "Cell Genomics، 2026: أصول الذئب الرهيب",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508403/"
+      },
+      {
+        "label": "كولوسال: مشروع الدودو والخلايا الجنسية الأولية",
+        "url": "https://colossal.com/dodo/"
+      },
+      {
+        "label": "Journal of Heredity، 2026: زراعة الخلايا الجنسية للحمام الصخري",
+        "url": "https://www.research.ed.ac.uk/en/publications/long-term-rock-dove-columba-livia-primordial-germ-cell-culture-a-/"
+      },
+      {
+        "label": "جامعة ملبورن: برنامج TIGRR",
+        "url": "https://biosciences.unimelb.edu.au/research/pask-lab/research/tigrr-lab"
+      },
+      {
+        "label": "كولوسال: تطور الدنارت، مايو 2026",
+        "url": "https://colossal.com/colossal-artificial-womb-dunnart-development-ex-utero/"
+      },
+      {
+        "label": "Revive & Restore: البرنامج الحالي للحمام المهاجر",
+        "url": "https://reviverestore.org/projects/about-the-passenger-pigeon/"
+      },
+      {
+        "label": "هيئة الأسماك والحياة البرية الأميركية: نسل نمس مستنسخ، 2024",
+        "url": "https://www.fws.gov/press-release/2024-11/advancements-black-footed-ferret-conservation-continue-new-offspring-cloned"
+      },
+      {
+        "label": "بينيت وزملاؤه، 2017: المفاضلات المالية في الحفظ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28812662/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "ما المقصود بإحياء الأنواع المنقرضة؟",
+        "answer": "هو محاولات إعادة حيوانات منقرضة أو بعض صفاتها ووظائفها البيئية، غالباً بالاستعانة بأقارب أحياء."
+      },
+      {
+        "question": "هل أُعيد الماموث الصوفي إلى الحياة؟",
+        "answer": "لا تثبت المصادر التي روجعت وجود ماموث حي أُعيد إنتاجه. الفئران المعدلة ليست ماموثاً."
+      },
+      {
+        "question": "هل الذئاب الرهيبة المعدلة مستنسخات من حيوانات قديمة؟",
+        "answer": "لا. استخدمت العملية المعلنة خلايا ذئاب رمادية حية مع تعديلات منتقاة، لا خلايا محفوظة لذئاب رهيبة."
+      },
+      {
+        "question": "هل يستطيع كريسبر وحده استعادة نوع منقرض؟",
+        "answer": "لا. يجب الجمع بين تحرير الجينوم ونجاح التطور والتكاثر وإدارة الجماعات؛ فهو لا يستعيد نظاماً بيئياً بمفرده."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/de-extinction-bringing-extinct-animals-back-science/",
+    "path": "/es/articles/de-extinction-bringing-extinct-animals-back-science/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex es localization and source-parity review",
+      "reviewedAt": "2026-10-02",
+      "terminologyChecked": true
+    },
+    "title": "¿Podemos revivir animales extintos? La ciencia de la desextinción",
+    "excerpt": "Leer ADN antiguo y recrear rasgos perdidos son logros científicos reales. Restaurar una especie extinta y su lugar en la naturaleza es mucho más difícil.",
+    "headlineHighlights": {
+      "red": "animales extintos",
+      "gold": "desextinción"
+    },
+    "seoTitle": "Desextinción: ¿podemos revivir animales extintos?",
+    "description": "Clonación, ADN antiguo y CRISPR: la ciencia de la desextinción, los proyectos de mamut, lobo terrible, dodo, tilacino y paloma migratoria, y sus límites.",
+    "keywords": [
+      "desextinción",
+      "animales extintos",
+      "desextinción mamut lanudo",
+      "lobo terrible",
+      "CRISPR especies extintas",
+      "ADN antiguo"
+    ],
+    "searchIntent": "Entender las técnicas de desextinción, los avances verificados y los límites de los proyectos actuales.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "image": {
+      "src": "/articles/de-extinction-mammoth-containment-lab.png",
+      "alt": "Ilustración conceptual de un mamut lanudo en un laboratorio, no de un animal realmente recuperado"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La desextinción puede recuperar información genética y recrear algunos rasgos de animales extintos. Todavía no ofrece una vía general para restaurar una especie original, su diversidad y su ecosistema. La pregunta central es qué se ha producido: una secuencia de ADN, una célula editada, un animal vivo o una población autosuficiente."
+      },
+      {
+        "type": "paragraph",
+        "text": "La UICN utiliza el término sustituto para un organismo destinado a ocupar el lugar de una especie extinta. La distinción importa: parecido, ascendencia y función ecológica son criterios diferentes de éxito. [UICN: directrices sobre sustitutos de especies extintas](https://portals.iucn.org/library/sites/library/files/documents/Rep-2016-009.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "CLONACIÓN: COPIAR UNA CÉLULA CONSERVADA"
+      },
+      {
+        "type": "paragraph",
+        "text": "En la transferencia nuclear de células somáticas, se introduce el núcleo de una célula corporal en un óvulo al que se ha retirado el suyo. El desarrollo debe prosperar en un sistema reproductivo compatible. El punto de partida es un núcleo utilizable, no un archivo informático con un genoma. [NHGRI: ficha sobre clonación](https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un ensayo notable involucró al bucardo, una subespecie extinta de cabra montés. Un clon nacido en 2003 a partir de células conservadas murió minutos después con defectos pulmonares. El estudio revisado por pares apareció en 2009. Se consiguió un nacimiento vivo, no una población duradera. [Folch et al., Theriogenology (2009): clonación del bucardo](https://orbi.uliege.be/handle/2268/9318)"
+      },
+      {
+        "type": "heading",
+        "text": "ADN ANTIGUO: LEER NO ES RESUCITAR"
+      },
+      {
+        "type": "paragraph",
+        "text": "El ADN antiguo sobrevive en fragmentos dañados que se secuencian y ensamblan, a menudo usando parientes vivos como referencia. Un estudio de Nature de 2021 recuperó datos genómicos de mamuts de más de un millón de años. Eran secuencias, no células vivas de mamut. [Nature (2021): ADN de mamut de más de un millón de años](https://www.nature.com/articles/s41586-021-03224-9)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Recuperar partes de un manual de instrucciones no equivale a obtener una máquina que funcione. Importan las secuencias ausentes, la organización cromosómica y el contexto del desarrollo. No basta con inyectar un genoma reconstruido en un óvulo y esperar que se convierta en el animal descrito."
+      },
+      {
+        "type": "heading",
+        "text": "CRISPR Y CRÍA SELECTIVA"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los sistemas CRISPR pueden dirigir enzimas a sitios concretos del ADN. Los investigadores pueden desactivar genes o introducir cambios específicos y comprobar sus efectos. Editar un pariente para expresar rasgos de un animal extinto modifica a ese pariente; no reconstruye automáticamente todo un genoma desaparecido. [NHGRI: cómo funciona la edición genómica](https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/How-genome-editing-works)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cría selectiva elige animales vivos con rasgos heredables deseados durante generaciones. La selección para recuperar una apariencia ancestral, como en bovinos criados para parecerse al uro, puede concentrar esos rasgos. No recupera variantes genéticas ausentes de la población reproductora. [Rewilding Europe: selección del programa Tauros](https://rewildingeurope.com/rewilding-in-action/wildlife-comeback/tauros/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los métodos pueden combinarse: la edición genética modifica una célula donante y la clonación ayuda a producir un animal a partir de ella. Llamarlo clon no significa que el donante fuera un animal extinto. Hay que preguntar qué organismo aportó las células y qué cambios se introdujeron."
+      },
+      {
+        "type": "heading",
+        "text": "MAMUT LANUDO: UN ELEFANTE CON RASGOS SELECCIONADOS"
+      },
+      {
+        "type": "paragraph",
+        "text": "Colossal define más precisamente su objetivo de desextinción del mamut como un elefante resistente al frío con características del mamut. Restaurar ecosistemas árticos y lograr beneficios climáticos son aspiraciones del proyecto, no resultados demostrados por manadas de mamuts liberadas. [Colossal: objetivos declarados del proyecto mamut](https://colossal.com/mammoth/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un artículo de Cell Reports Methods de 2026 presenta ratones con múltiples ediciones que alteran el pelaje. Es evidencia revisada por pares de ingeniería de rasgos en ratones. No demuestra el nacimiento de un mamut, una gestación exitosa en elefantes ni los efectos climáticos de un futuro animal. [Cell Reports Methods (2026): edición múltiple en ratones](https://doi.org/10.1016/j.crmeth.2026.101572)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El pelo es solo parte de la adaptación al frío. Desarrollo, fisiología, reproducción y comportamiento deben funcionar juntos. Un animal convincente en una fotografía no prueba que todos esos sistemas funcionen de forma segura durante su vida."
+      },
+      {
+        "type": "heading",
+        "text": "LOBO TERRIBLE: ¿QUÉ SE CREÓ REALMENTE?"
+      },
+      {
+        "type": "paragraph",
+        "text": "El anuncio de Colossal de 2025 describía animales producidos con células editadas de lobo gris y perras gestantes. Su página metodológica informa de 20 sitios editados en 14 genes. Son cambios seleccionados en una especie viva, no la sustitución por un genoma antiguo completo de lobo terrible. [Colossal: métodos declarados para el lobo terrible](https://colossal.com/direwolf/science/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación de ADN antiguo también complica el argumento del parecido. Un artículo de Nature de 2021 identificó un linaje muy divergente de lobo terrible. [Nature (2021): antiguo linaje del lobo terrible](https://www.nature.com/articles/s41586-020-03082-x)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un artículo de Cell Genomics revisado por pares en 2026, con investigadores de Colossal, propone en cambio una ascendencia mixta de dos antiguos linajes de cánidos. Actualiza la evidencia evolutiva, pero no demuestra que los lobos grises editados recreen el linaje extinto. La denominación comercial y esa afirmación biológica no son equivalentes. [Cell Genomics (2026): ascendencia del lobo terrible](https://pubmed.ncbi.nlm.nih.gov/42508403/)"
+      },
+      {
+        "type": "heading",
+        "text": "DODO: EL RETO DE PRODUCIR UN AVE"
+      },
+      {
+        "type": "paragraph",
+        "text": "El programa del dodo de Colossal propone modificar células de su pariente vivo, la paloma de Nicobar, y desarrollar reproducción mediante aves sustitutas. Los proyectos aviares se centran en células germinales primordiales, precursoras de óvulos y espermatozoides, en vez de trasladar sin más la clonación de mamíferos a un huevo. [Colossal: proyecto dodo y células germinales](https://colossal.com/dodo/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un estudio de Journal of Heredity de 2026 describe el cultivo prolongado de células germinales primordiales de paloma bravía. Es un resultado útil para investigar la reproducción, no el nacimiento de un dodo. Cultivar células, transmitir ediciones y producir un ave sana son hitos distintos. [Journal of Heredity (2026): cultivo de células germinales de paloma bravía](https://www.research.ed.ac.uk/en/publications/long-term-rock-dove-columba-livia-primordial-germ-cell-culture-a-/)"
+      },
+      {
+        "type": "heading",
+        "text": "TILACINO: UN PROBLEMA DE DESARROLLO MARSUPIAL"
+      },
+      {
+        "type": "paragraph",
+        "text": "El programa TIGRR de la Universidad de Melbourne combina investigación del genoma del tilacino con reproducción de marsupiales. Busca herramientas para la desextinción y la conservación. Entender un marsupial vivo usado como modelo forma parte del programa, pero no prueba que haya regresado el tilacino. [Universidad de Melbourne: programa TIGRR](https://biosciences.unimelb.edu.au/research/pask-lab/research/tigrr-lab)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En mayo de 2026, Colossal informó del desarrollo de dunnarts en etapas de un sistema de útero artificial. La empresa describió avances hacia el desarrollo completo fuera del útero. El anuncio no equivale a un nacimiento verificado de tilacino ni a un sistema de gestación artificial completo para todas las especies. [Colossal: desarrollo del dunnart, mayo de 2026](https://colossal.com/colossal-artificial-womb-dunnart-development-ex-utero/)"
+      },
+      {
+        "type": "heading",
+        "text": "PALOMA MIGRATORIA: RECUPERAR UNA FUNCIÓN ECOLÓGICA"
+      },
+      {
+        "type": "paragraph",
+        "text": "Revive & Restore propone editar palomas de collar para recuperar rasgos de la paloma migratoria y sus funciones forestales. Su programa actual busca obtener las primeras aves nuevas en la década de 2030. Es una meta, no un nacimiento anunciado; las fechas antiguas en internet no son hitos cumplidos. [Revive & Restore: programa actual de la paloma migratoria](https://reviverestore.org/projects/about-the-passenger-pigeon/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un ave no puede reproducir los efectos de una bandada enorme. El tamaño poblacional, el comportamiento social, el hábitat y las interacciones con otras especies influirían en la restauración ecológica. Demostrar un rasgo heredable es solo un paso inicial hacia ese objetivo mucho más amplio."
+      },
+      {
+        "type": "heading",
+        "text": "¿QUÉ PUEDE GANAR LA CONSERVACIÓN?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estas herramientas pueden ayudar a especies que todavía existen. En 2024, el US Fish and Wildlife Service informó de crías supervivientes de Antonia, una hurona de patas negras clonada con tejidos conservados. Demuestra reproducción en un programa de clonación para conservación, no la resurrección de una especie extinta. [US Fish and Wildlife Service: crías de un hurón clonado, 2024](https://www.fws.gov/press-release/2024-11/advancements-black-footed-ferret-conservation-continue-new-offspring-cloned)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los posibles beneficios incluyen conservar opciones genéticas y mejorar las técnicas reproductivas. El éxito debe medirse en animales sanos, diversidad genética útil y resultados de conservación, no solo en la novedad de un nacimiento. Proteger el hábitat sigue siendo esencial para cualquier población creada con estas herramientas."
+      },
+      {
+        "type": "heading",
+        "text": "BIENESTAR, ECOLOGÍA Y DEBATE ÉTICO"
+      },
+      {
+        "type": "paragraph",
+        "text": "La evaluación del bienestar debe incluir donantes de óvulos, madres sustitutas, gestaciones fallidas y crías, con cuidados previstos de por vida. La evaluación ecológica debe abordar enfermedades, competencia, hábitats y comunidades afectadas. Las directrices de la UICN consideran centrales el beneficio para la conservación y el análisis de riesgos. [UICN: directrices sobre translocaciones de conservación](https://iucn.org/resources/publication/guidelines-reintroductions-and-other-conservation-translocations)"
+      },
+      {
+        "type": "paragraph",
+        "text": "También existe un coste de oportunidad. Un estudio de modelización revisado por pares de 2017 concluyó que financiar la conservación de especies recreadas podía reducir las especies vivas protegidas con presupuestos limitados. Depende de sus supuestos financieros; no predice que todos los proyectos dañen la conservación. [Bennett et al. (2017): decisiones presupuestarias en conservación](https://pubmed.ncbi.nlm.nih.gov/28812662/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La decisión ética va más allá de la viabilidad de un experimento. ¿Quién decide qué animal crear, quién lo cuida y quién asume las consecuencias de liberarlo? Es razonable valorar las nuevas herramientas mientras se pregunta si esos recursos evitarían más extinciones hoy."
+      },
+      {
+        "type": "heading",
+        "text": "CÓMO INTERPRETAR EL PRÓXIMO AVANCE"
+      },
+      {
+        "type": "paragraph",
+        "text": "Compruebe la especie que aporta las células, las modificaciones, el estado de publicación y el resultado medido. Un anuncio empresarial, una prepublicación y un artículo revisado por pares reciben niveles distintos de examen. Incluso un estudio sólido respalda su resultado probado, no todas las aplicaciones futuras propuestas."
+      },
+      {
+        "type": "paragraph",
+        "text": "Al 2 de octubre de 2026, las fuentes revisadas no establecen poblaciones silvestres restauradas de los cinco animales extintos presentados. La evidencia muestra avances técnicos importantes, mientras que reconstruir poblaciones viables y relaciones ecológicas sigue siendo una tarea distinta."
+      },
+      {
+        "type": "paragraph",
+        "text": "Como contexto, explore [la adaptación humana de los bajau](/articles/bajau-people-sea-nomads-diving/) y [el cambiante entorno ártico de Groenlandia](/articles/greenland-world-powers-arctic-island/). Ninguno demuestra que un proyecto de desextinción haya tenido éxito."
+      },
+      {
+        "type": "paragraph",
+        "text": "La imagen principal es una ilustración conceptual de un mamut en un laboratorio. No muestra un mamut realmente recreado ni una instalación de investigación documentada."
+      }
+    ],
+    "sources": [
+      {
+        "label": "UICN: directrices sobre sustitutos de especies extintas",
+        "url": "https://portals.iucn.org/library/sites/library/files/documents/Rep-2016-009.pdf"
+      },
+      {
+        "label": "Rewilding Europe: selección del programa Tauros",
+        "url": "https://rewildingeurope.com/rewilding-in-action/wildlife-comeback/tauros/"
+      },
+      {
+        "label": "UICN: directrices sobre translocaciones de conservación",
+        "url": "https://iucn.org/resources/publication/guidelines-reintroductions-and-other-conservation-translocations"
+      },
+      {
+        "label": "NHGRI: ficha sobre clonación",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet"
+      },
+      {
+        "label": "Folch et al., Theriogenology (2009): clonación del bucardo",
+        "url": "https://orbi.uliege.be/handle/2268/9318"
+      },
+      {
+        "label": "Nature (2021): ADN de mamut de más de un millón de años",
+        "url": "https://www.nature.com/articles/s41586-021-03224-9"
+      },
+      {
+        "label": "NHGRI: cómo funciona la edición genómica",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/How-genome-editing-works"
+      },
+      {
+        "label": "Colossal: objetivos declarados del proyecto mamut",
+        "url": "https://colossal.com/mammoth/"
+      },
+      {
+        "label": "Cell Reports Methods (2026): edición múltiple en ratones",
+        "url": "https://doi.org/10.1016/j.crmeth.2026.101572"
+      },
+      {
+        "label": "Colossal: métodos declarados para el lobo terrible",
+        "url": "https://colossal.com/direwolf/science/"
+      },
+      {
+        "label": "Nature (2021): antiguo linaje del lobo terrible",
+        "url": "https://www.nature.com/articles/s41586-020-03082-x"
+      },
+      {
+        "label": "Cell Genomics (2026): ascendencia del lobo terrible",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508403/"
+      },
+      {
+        "label": "Colossal: proyecto dodo y células germinales",
+        "url": "https://colossal.com/dodo/"
+      },
+      {
+        "label": "Journal of Heredity (2026): cultivo de células germinales de paloma bravía",
+        "url": "https://www.research.ed.ac.uk/en/publications/long-term-rock-dove-columba-livia-primordial-germ-cell-culture-a-/"
+      },
+      {
+        "label": "Universidad de Melbourne: programa TIGRR",
+        "url": "https://biosciences.unimelb.edu.au/research/pask-lab/research/tigrr-lab"
+      },
+      {
+        "label": "Colossal: desarrollo del dunnart, mayo de 2026",
+        "url": "https://colossal.com/colossal-artificial-womb-dunnart-development-ex-utero/"
+      },
+      {
+        "label": "Revive & Restore: programa actual de la paloma migratoria",
+        "url": "https://reviverestore.org/projects/about-the-passenger-pigeon/"
+      },
+      {
+        "label": "US Fish and Wildlife Service: crías de un hurón clonado, 2024",
+        "url": "https://www.fws.gov/press-release/2024-11/advancements-black-footed-ferret-conservation-continue-new-offspring-cloned"
+      },
+      {
+        "label": "Bennett et al. (2017): decisiones presupuestarias en conservación",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28812662/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Qué significa desextinción?",
+        "answer": "Describe los intentos de recrear animales extintos o algunos de sus rasgos y funciones ecológicas, a menudo mediante parientes vivos."
+      },
+      {
+        "question": "¿Ha vuelto a la vida un mamut lanudo?",
+        "answer": "Las fuentes revisadas no establecen la existencia de un mamut vivo recreado. Los ratones editados no son mamuts."
+      },
+      {
+        "question": "¿Los lobos terribles editados son clones de animales antiguos?",
+        "answer": "No. El proceso anunciado utilizó células de lobos grises vivos con ediciones seleccionadas, no células conservadas de lobos terribles."
+      },
+      {
+        "question": "¿Puede CRISPR restaurar por sí solo una especie extinta?",
+        "answer": "No. La edición genómica requiere desarrollo exitoso, reproducción y gestión poblacional; por sí sola no restaura un ecosistema."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/de-extinction-bringing-extinct-animals-back-science/",
+    "path": "/fr/articles/de-extinction-bringing-extinct-animals-back-science/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex fr localization and source-parity review",
+      "reviewedAt": "2026-10-02",
+      "terminologyChecked": true
+    },
+    "title": "Peut-on faire revivre les animaux disparus ? La science de la désextinction",
+    "excerpt": "Lire l’ADN ancien et recréer certains caractères disparus sont de véritables avancées. Restaurer une espèce éteinte et sa place dans la nature est bien plus difficile.",
+    "headlineHighlights": {
+      "red": "animaux disparus",
+      "gold": "désextinction"
+    },
+    "seoTitle": "Désextinction : faire revivre les animaux disparus ?",
+    "description": "Clonage, ADN ancien et CRISPR : comprendre la désextinction, les projets mammouth, loup sinistre, dodo, thylacine et pigeon migrateur, et leurs limites.",
+    "keywords": [
+      "désextinction",
+      "animaux disparus",
+      "désextinction mammouth laineux",
+      "loup sinistre",
+      "CRISPR espèces éteintes",
+      "ADN ancien"
+    ],
+    "searchIntent": "Comprendre les techniques de désextinction, les résultats vérifiés et les limites des projets actuels.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "image": {
+      "src": "/articles/de-extinction-mammoth-containment-lab.png",
+      "alt": "Illustration d’un mammouth laineux dans un laboratoire, et non d’un animal réellement recréé"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La désextinction permet de retrouver des informations génétiques et de recréer certains caractères d’animaux disparus. Elle n’offre pas encore de méthode générale pour restaurer une espèce originale, sa diversité et son écosystème. La question centrale est ce qui a réellement été obtenu : une séquence d’ADN, une cellule modifiée, un animal vivant ou une population autonome."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’UICN emploie le terme de substitut pour un organisme destiné à remplacer une espèce éteinte. Cette distinction compte : ressemblance, ascendance et fonction écologique sont des critères de réussite différents. [UICN : recommandations sur les substituts d’espèces éteintes](https://portals.iucn.org/library/sites/library/files/documents/Rep-2016-009.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "CLONAGE : COPIER UNE CELLULE CONSERVÉE"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lors du transfert nucléaire de cellule somatique, un noyau de cellule corporelle est placé dans un ovocyte dont le noyau a été retiré. Le développement doit ensuite réussir dans un système reproducteur compatible. Le point de départ est un noyau utilisable, pas un fichier informatique contenant un génome. [NHGRI : fiche sur le clonage](https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un essai remarquable a concerné le bouquetin des Pyrénées, ou bucardo, une sous-espèce éteinte. Né en 2003 à partir de cellules conservées, un clone est mort quelques minutes plus tard avec des malformations pulmonaires. L’étude évaluée par les pairs est parue en 2009. Une naissance vivante a été obtenue, pas une population durable. [Folch et al., Theriogenology (2009) : bouquetin des Pyrénées cloné](https://orbi.uliege.be/handle/2268/9318)"
+      },
+      {
+        "type": "heading",
+        "text": "ADN ANCIEN : LIRE N’EST PAS RESSUSCITER"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’ADN ancien subsiste sous forme de fragments endommagés que les chercheurs séquencent et assemblent, souvent en utilisant des parents vivants comme références. En 2021, une étude de Nature a obtenu des données génomiques de mammouths vieux de plus d’un million d’années. Il s’agissait de séquences, pas de cellules vivantes. [Nature (2021) : ADN de mammouth de plus d’un million d’années](https://www.nature.com/articles/s41586-021-03224-9)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Retrouver des pages d’un mode d’emploi n’équivaut pas à disposer d’une machine fonctionnelle. Les séquences manquantes, l’organisation des chromosomes et le contexte du développement comptent aussi. On ne peut simplement injecter un génome reconstitué dans un ovocyte et attendre qu’il devienne l’animal décrit."
+      },
+      {
+        "type": "heading",
+        "text": "CRISPR ET SÉLECTION ARTIFICIELLE"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les systèmes CRISPR peuvent diriger des enzymes vers des sites précis de l’ADN. Les chercheurs peuvent inactiver des gènes ou introduire des modifications ciblées, puis tester leurs effets. Donner à une espèce apparentée certains caractères d’un animal disparu la modifie ; cela ne reconstitue pas automatiquement tout le génome éteint. [NHGRI : fonctionnement de l’édition génomique](https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/How-genome-editing-works)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La sélection artificielle choisit des animaux vivants porteurs de caractères héréditaires recherchés au fil des générations. La sélection dite à rebours peut concentrer des traits d’apparence ancestrale, comme chez les bovins sélectionnés pour ressembler à l’aurochs. Elle ne récupère pas les variants absents de la population reproductrice. [Rewilding Europe : sélection du programme Tauros](https://rewildingeurope.com/rewilding-in-action/wildlife-comeback/tauros/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les méthodes peuvent se combiner : l’édition génétique modifie une cellule donneuse, puis le clonage aide à produire un animal à partir de celle-ci. Qualifier le résultat de clone ne signifie pas que le donneur était un animal éteint. Il faut identifier l’organisme d’origine et les modifications introduites."
+      },
+      {
+        "type": "heading",
+        "text": "MAMMOUTH LAINEUX : UN ÉLÉPHANT AUX CARACTÈRES SÉLECTIONNÉS"
+      },
+      {
+        "type": "paragraph",
+        "text": "Colossal définit plus précisément son projet de désextinction du mammouth comme un éléphant résistant au froid doté de caractères du mammouth. La restauration des écosystèmes arctiques et les bénéfices climatiques restent des ambitions, pas des résultats démontrés par des troupeaux de mammouths relâchés. [Colossal : objectifs annoncés du projet mammouth](https://colossal.com/mammoth/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une étude de Cell Reports Methods publiée en 2026 décrit des souris ayant reçu plusieurs modifications génétiques affectant leur pelage. C’est une preuve évaluée par les pairs d’ingénierie de caractères chez la souris. Elle ne démontre ni naissance de mammouth, ni gestation réussie chez l’éléphant, ni effet climatique d’un futur animal. [Cell Reports Methods (2026) : édition multiplex chez la souris](https://doi.org/10.1016/j.crmeth.2026.101572)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le pelage n’est qu’un élément de l’adaptation au froid. Développement, physiologie, reproduction et comportement doivent fonctionner ensemble. Une photographie convaincante ne prouve pas que tous ces systèmes fonctionneront sans danger pendant toute la vie de l’animal."
+      },
+      {
+        "type": "heading",
+        "text": "LOUP SINISTRE : QU’A-T-ON RÉELLEMENT CRÉÉ ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’annonce de Colossal en 2025 décrivait des animaux obtenus à partir de cellules de loup gris modifiées et de chiennes porteuses. Sa page méthodologique mentionne 20 sites modifiés répartis sur 14 gènes. Ces chiffres décrivent des changements ciblés dans une espèce vivante, pas son remplacement par un génome ancien complet. [Colossal : méthodes déclarées pour le loup sinistre](https://colossal.com/direwolf/science/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’ADN ancien complique aussi l’argument de la ressemblance. Une étude de Nature de 2021 identifiait chez le loup sinistre une lignée très divergente. [Nature (2021) : lignée ancienne du loup sinistre](https://www.nature.com/articles/s41586-020-03082-x)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une étude de Cell Genomics évaluée par les pairs en 2026, avec des chercheurs de Colossal, propose plutôt une ascendance mêlant deux anciennes lignées de canidés. Elle actualise les données évolutives sans démontrer que les loups gris modifiés recréent la lignée disparue. Le nom commercial et cette affirmation biologique ne sont pas équivalents. [Cell Genomics (2026) : ascendance du loup sinistre](https://pubmed.ncbi.nlm.nih.gov/42508403/)"
+      },
+      {
+        "type": "heading",
+        "text": "DODO : LA DIFFICULTÉ DE PRODUIRE UN OISEAU"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le programme dodo de Colossal propose de modifier des cellules de son parent vivant, le nicobar à camail, et de développer une reproduction par des oiseaux porteurs. Ces projets s’appuient sur les cellules germinales primordiales, précurseurs des ovules et spermatozoïdes, plutôt que de transposer simplement le clonage des mammifères. [Colossal : projet dodo et cellules germinales](https://colossal.com/dodo/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une étude de Journal of Heredity de 2026 décrit la culture prolongée de cellules germinales primordiales de pigeon biset. Ce résultat utile à la recherche reproductive n’est pas l’éclosion d’un dodo. Culture cellulaire, transmission des modifications et production d’un oiseau sain sont des étapes distinctes. [Journal of Heredity (2026) : culture de cellules germinales du pigeon biset](https://www.research.ed.ac.uk/en/publications/long-term-rock-dove-columba-livia-primordial-germ-cell-culture-a-/)"
+      },
+      {
+        "type": "heading",
+        "text": "THYLACINE : LE DÉVELOPPEMENT D’UN MARSUPIAL"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le programme TIGRR de l’université de Melbourne associe l’étude du génome du thylacine à la reproduction des marsupiaux. Il vise des outils utiles à la désextinction comme à la conservation. Comprendre un marsupial vivant utilisé comme modèle fait partie du travail ; cela ne prouve pas le retour du thylacine. [Université de Melbourne : programme TIGRR](https://biosciences.unimelb.edu.au/research/pask-lab/research/tigrr-lab)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En mai 2026, Colossal a annoncé des progrès dans le développement de dunnarts à différentes étapes d’un système d’utérus artificiel. L’entreprise décrivait une avancée vers un développement complet hors de l’utérus. Ce n’est ni une naissance vérifiée de thylacine, ni un système de gestation artificielle achevé pour toutes les espèces. [Colossal : développement du dunnart, mai 2026](https://colossal.com/colossal-artificial-womb-dunnart-development-ex-utero/)"
+      },
+      {
+        "type": "heading",
+        "text": "PIGEON MIGRATEUR : RETROUVER UN RÔLE ÉCOLOGIQUE"
+      },
+      {
+        "type": "paragraph",
+        "text": "Revive & Restore propose de modifier des pigeons à queue barrée afin de retrouver des caractères du pigeon migrateur et ses fonctions forestières. Son programme actuel vise de premiers nouveaux oiseaux dans les années 2030. C’est un objectif, pas une annonce d’éclosion ; les anciennes dates en ligne ne prouvent aucune réalisation. [Revive & Restore : programme actuel du pigeon migrateur](https://reviverestore.org/projects/about-the-passenger-pigeon/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un seul oiseau ne peut reproduire les effets d’une immense volée. Taille de population, comportement social, habitat et interactions avec les autres espèces influenceraient toute restauration écologique. Démontrer un caractère héréditaire n’est qu’une étape initiale vers cet objectif bien plus vaste."
+      },
+      {
+        "type": "heading",
+        "text": "QUELS GAINS POUR LA CONSERVATION ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces outils peuvent aider des espèces encore vivantes. En 2024, le US Fish and Wildlife Service a signalé des descendants survivants d’Antonia, un putois à pieds noirs cloné à partir de tissus conservés. Cela démontre une reproduction dans un programme de clonage de conservation, pas la résurrection d’une espèce éteinte. [US Fish and Wildlife Service : descendants d’un putois cloné, 2024](https://www.fws.gov/press-release/2024-11/advancements-black-footed-ferret-conservation-continue-new-offspring-cloned)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les bénéfices possibles comprennent la préservation de ressources génétiques et l’amélioration des techniques reproductives. La réussite doit se mesurer à la santé des animaux, à une diversité génétique utile et aux résultats de conservation, pas seulement à la nouveauté d’une naissance. La protection de l’habitat reste indispensable."
+      },
+      {
+        "type": "heading",
+        "text": "BIEN-ÊTRE, ÉCOLOGIE ET DÉBAT ÉTHIQUE"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’évaluation du bien-être doit inclure donneuses d’ovocytes, mères porteuses, grossesses infructueuses et descendants, avec des soins prévus à vie. L’évaluation écologique doit examiner maladies, concurrence, habitats et communautés concernées. Les recommandations de l’UICN placent les bénéfices de conservation et l’analyse des risques au centre de la démarche. [UICN : recommandations sur les translocations de conservation](https://iucn.org/resources/publication/guidelines-reintroductions-and-other-conservation-translocations)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il existe aussi un coût d’opportunité. Une modélisation évaluée par les pairs en 2017 concluait que financer la conservation d’espèces recréées pouvait réduire le nombre d’espèces vivantes protégées lorsque les budgets sont limités. Ce résultat dépend des hypothèses financières ; il ne prédit pas que tout projet nuira à la conservation. [Bennett et al. (2017) : arbitrages budgétaires en conservation](https://pubmed.ncbi.nlm.nih.gov/28812662/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le choix éthique dépasse donc la faisabilité d’une expérience. Qui décide quel animal créer, qui en prend soin et qui assume les conséquences d’un lâcher ? On peut apprécier les nouveaux outils tout en demandant si les mêmes ressources permettraient d’éviter davantage d’extinctions aujourd’hui."
+      },
+      {
+        "type": "heading",
+        "text": "COMMENT ÉVALUER LA PROCHAINE AVANCÉE"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vérifiez l’espèce fournissant les cellules, les modifications réalisées, le statut de publication et le résultat mesuré. Une annonce d’entreprise, une prépublication et un article évalué par les pairs ne subissent pas le même examen. Même une étude solide ne démontre pas toutes les applications futures envisagées."
+      },
+      {
+        "type": "paragraph",
+        "text": "Au 2 octobre 2026, les sources consultées n’établissent pas l’existence de populations sauvages restaurées des cinq animaux disparus présentés ici. Elles montrent des progrès techniques importants, mais reconstruire des populations viables et leurs relations écologiques reste une tâche distincte."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour approfondir, découvrez [l’adaptation humaine chez les Bajau](/articles/bajau-people-sea-nomads-diving/) et [l’environnement arctique changeant du Groenland](/articles/greenland-world-powers-arctic-island/). Aucun de ces sujets ne prouve la réussite d’un projet de désextinction."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’image d’ouverture est une illustration conceptuelle d’un mammouth en laboratoire. Elle ne représente ni un mammouth réellement recréé ni une installation de recherche documentée."
+      }
+    ],
+    "sources": [
+      {
+        "label": "UICN : recommandations sur les substituts d’espèces éteintes",
+        "url": "https://portals.iucn.org/library/sites/library/files/documents/Rep-2016-009.pdf"
+      },
+      {
+        "label": "Rewilding Europe : sélection du programme Tauros",
+        "url": "https://rewildingeurope.com/rewilding-in-action/wildlife-comeback/tauros/"
+      },
+      {
+        "label": "UICN : recommandations sur les translocations de conservation",
+        "url": "https://iucn.org/resources/publication/guidelines-reintroductions-and-other-conservation-translocations"
+      },
+      {
+        "label": "NHGRI : fiche sur le clonage",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet"
+      },
+      {
+        "label": "Folch et al., Theriogenology (2009) : bouquetin des Pyrénées cloné",
+        "url": "https://orbi.uliege.be/handle/2268/9318"
+      },
+      {
+        "label": "Nature (2021) : ADN de mammouth de plus d’un million d’années",
+        "url": "https://www.nature.com/articles/s41586-021-03224-9"
+      },
+      {
+        "label": "NHGRI : fonctionnement de l’édition génomique",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/How-genome-editing-works"
+      },
+      {
+        "label": "Colossal : objectifs annoncés du projet mammouth",
+        "url": "https://colossal.com/mammoth/"
+      },
+      {
+        "label": "Cell Reports Methods (2026) : édition multiplex chez la souris",
+        "url": "https://doi.org/10.1016/j.crmeth.2026.101572"
+      },
+      {
+        "label": "Colossal : méthodes déclarées pour le loup sinistre",
+        "url": "https://colossal.com/direwolf/science/"
+      },
+      {
+        "label": "Nature (2021) : lignée ancienne du loup sinistre",
+        "url": "https://www.nature.com/articles/s41586-020-03082-x"
+      },
+      {
+        "label": "Cell Genomics (2026) : ascendance du loup sinistre",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508403/"
+      },
+      {
+        "label": "Colossal : projet dodo et cellules germinales",
+        "url": "https://colossal.com/dodo/"
+      },
+      {
+        "label": "Journal of Heredity (2026) : culture de cellules germinales du pigeon biset",
+        "url": "https://www.research.ed.ac.uk/en/publications/long-term-rock-dove-columba-livia-primordial-germ-cell-culture-a-/"
+      },
+      {
+        "label": "Université de Melbourne : programme TIGRR",
+        "url": "https://biosciences.unimelb.edu.au/research/pask-lab/research/tigrr-lab"
+      },
+      {
+        "label": "Colossal : développement du dunnart, mai 2026",
+        "url": "https://colossal.com/colossal-artificial-womb-dunnart-development-ex-utero/"
+      },
+      {
+        "label": "Revive & Restore : programme actuel du pigeon migrateur",
+        "url": "https://reviverestore.org/projects/about-the-passenger-pigeon/"
+      },
+      {
+        "label": "US Fish and Wildlife Service : descendants d’un putois cloné, 2024",
+        "url": "https://www.fws.gov/press-release/2024-11/advancements-black-footed-ferret-conservation-continue-new-offspring-cloned"
+      },
+      {
+        "label": "Bennett et al. (2017) : arbitrages budgétaires en conservation",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28812662/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Que signifie la désextinction ?",
+        "answer": "Elle désigne les tentatives de recréer des animaux disparus ou certains de leurs caractères et fonctions écologiques, souvent à partir de parents vivants."
+      },
+      {
+        "question": "Un mammouth laineux a-t-il été recréé ?",
+        "answer": "Les sources consultées ne démontrent pas l’existence d’un mammouth vivant recréé. Des souris modifiées ne sont pas des mammouths."
+      },
+      {
+        "question": "Les loups sinistres modifiés sont-ils des clones d’animaux anciens ?",
+        "answer": "Non. Le procédé annoncé utilise des cellules de loups gris vivants avec des modifications ciblées, pas des cellules anciennes conservées."
+      },
+      {
+        "question": "CRISPR peut-il restaurer seul une espèce éteinte ?",
+        "answer": "Non. L’édition génomique doit s’accompagner d’un développement réussi, de reproduction et de gestion des populations ; elle ne restaure pas seule un écosystème."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/deja-vu-why-does-it-happen-brain-science/",
     "path": "/ar/articles/deja-vu-why-does-it-happen-brain-science/",
     "kind": "article",

@@ -556,6 +556,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/de-extinction-bringing-extinct-animals-back-science/",
+    "path": "/ar/articles/de-extinction-bringing-extinct-animals-back-science/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/de-extinction-bringing-extinct-animals-back-science/",
+    "path": "/es/articles/de-extinction-bringing-extinct-animals-back-science/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/de-extinction-bringing-extinct-animals-back-science/",
+    "path": "/fr/articles/de-extinction-bringing-extinct-animals-back-science/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/deja-vu-why-does-it-happen-brain-science/",
     "path": "/ar/articles/deja-vu-why-does-it-happen-brain-science/"
   },
