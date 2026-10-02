@@ -286,6 +286,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/asante-empire-gold-golden-stool-resistance-britain/",
+    "path": "/ar/articles/asante-empire-gold-golden-stool-resistance-britain/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/asante-empire-gold-golden-stool-resistance-britain/",
+    "path": "/es/articles/asante-empire-gold-golden-stool-resistance-britain/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/asante-empire-gold-golden-stool-resistance-britain/",
+    "path": "/fr/articles/asante-empire-gold-golden-stool-resistance-britain/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/assyrian-empire-war-machine-rise-fall/",
     "path": "/ar/articles/assyrian-empire-war-machine-rise-fall/"
   },
