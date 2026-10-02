@@ -1,0 +1,78 @@
+import type { Article } from "@/data/articles";
+
+const sources = {
+  netflix: { name: "Netflix Tudum: release date, format and production credits", url: "https://www.netflix.com/tudum/articles/mike-tyson-documentary-series-release-date" },
+  trailer: { name: "Netflix: official TYSON trailer, September 17, 2026", url: "https://www.youtube.com/watch?v=o1S5LsYhfEg" },
+  watch: { name: "Netflix: official TYSON title page", url: "https://www.netflix.com/title/81780623" },
+  childhood: { name: "Encyclopedia.com: Michael Gerard Tyson biography", url: "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tyson-michael-gerard-mike-iron-mike" },
+  champion: { name: "HISTORY: Tyson becomes the youngest heavyweight champion", url: "https://www.history.com/this-day-in-history/November-22/mike-tyson-becomes-the-youngest-heavyweight-champ-in-history" },
+  prison: { name: "UPI: Tyson's release from prison, March 25, 1995", url: "https://www.upi.com/Archives/1995/03/25/Tyson-leaves-prison/9309796107600/" },
+  holyfield: { name: "Biography.com: Tyson's career and Holyfield rematch", url: "https://www.biography.com/athletes/mike-tyson" },
+  finances: { name: "CNN: August 2003 bankruptcy reporting", url: "https://transcripts.cnn.com/show/se/date/2003-08-05/segment/07" },
+  addiction: { name: "CNN: Tyson's August 2013 public remarks on addiction", url: "https://transcripts.cnn.com/show/cg/date/2013-08-26/segment/01" },
+  reinvention: { name: "Reuters via Costa Rica Star: Tyson's theatre tour, November 2012", url: "https://www.news.co.cr/former-boxing-champ-mike-tyson-to-take-one-man-show-on-the-road/20043/" },
+  paul: { name: "Associated Press: Jake Paul defeats Tyson, November 2024", url: "https://apnews.com/article/0e1597caaae41254df029eb9fe62cc39" }
+};
+const cite = (key: keyof typeof sources) => ` [${sources[key].name}](${sources[key].url})`;
+
+export const tysonNetflixArticle: Article = {
+  id: "171",
+  slug: "mike-tyson-netflix-documentary-release-date-2026",
+  title: "Mike Tyson Netflix Documentary: Release Date, Story and Everything We Know",
+  seoTitle: "Mike Tyson Netflix Documentary: TYSON Release Date",
+  metaDescription: "TYSON arrives on Netflix October 13, 2026. Explore the four-part Mike Tyson documentary, Floyd Russ, the official trailer and verified career context.",
+  schemaType: "NewsArticle",
+  headlineHighlights: { red: "Mike Tyson", gold: "Netflix Documentary" },
+  excerpt: "Netflix's four-part portrait arrives October 13. Here are the confirmed details and the history behind a life that extends far beyond the boxing ring.",
+  category: "Sport",
+  date: "2026-10-02",
+  lastUpdated: "2026-10-02",
+  author: "PRESDA Editorial",
+  coverImage: "/articles/mike-tyson-netflix-documentary-2026.png",
+  coverAlt: "Editorial illustration of Mike Tyson beside a red Netflix symbol in a dark boxing gym",
+  homepageImagePosition: "72% 20%",
+  status: "published",
+  readingTime: "3 min read",
+  relatedSlugs: ["the-last-dance-footballs-greatest-generation", "hans-zimmer-saudi-arabia-battle-of-yarmouk-project", "yassine-bounou-africas-safest-hands"],
+  tags: ["Mike Tyson Netflix documentary", "TYSON Netflix", "Mike Tyson documentary 2026", "TYSON release date", "boxing", "Floyd Russ"],
+  content: [
+    "The Mike Tyson Netflix documentary TYSON premieres on October 13, 2026. Directed by Floyd Russ, it comprises four hour-long episodes." + cite("netflix"),
+    "The date answers the immediate viewing question. The more difficult question is how a documentary weighs sporting achievement against the harm, punishment and personal struggles that also belong to its subject's history. This is a preview based on announced material, not a review of the unreleased series.",
+    "## RELEASE DATE, EPISODES AND DIRECTOR",
+    "Netflix's announcement names Russ, whose credits include Untold and American Manhunt: The Boston Marathon Bombing. It also confirms interviews with Tyson and people around him. The four-part format allows a longer account than a single feature, but does not itself establish how much time each subject receives.",
+    "Viewers can find TYSON on its official Netflix title page. The announcement reviewed for this article does not provide a complete episode-by-episode breakdown or exact individual runtimes. An hour-long format should not be confused with a verified runtime of precisely 60 minutes for every installment." + cite("watch"),
+    "## THE TRAILER AND CONFIRMED SCOPE",
+    "Netflix released the official trailer on September 17. Its accompanying description promises previously unseen material and access to family, friends and opponents, covering Brooklyn, boxing, addiction, imprisonment and the ear-biting incident." + cite("trailer"),
+    "Those are Netflix's descriptions of its production. They establish the intended scope, not an independent assessment of its completeness or balance. Tyson's participation gives viewers his perspective; recollections and explanations still need to be distinguished from court findings and fight results.",
+    "## FROM BROOKLYN TO GLOBAL FAME",
+    "Born in Brooklyn in 1966, Tyson experienced poverty and juvenile detention before developing as a boxer under Cus D'Amato. His speed and punching power made him an internationally recognizable athlete." + cite("childhood"),
+    "On November 22, 1986, aged 20, he stopped Trevor Berbick in the second round to win the WBC heavyweight title, becoming the youngest heavyweight champion in history." + cite("champion"),
+    "That achievement explains the scale of the sporting story. It does not turn the rest of his biography into a simple rise-and-fall narrative in which success excuses wrongdoing. The record in the ring and the record outside it require separate attention.",
+    "## CONVICTION AND IMPRISONMENT",
+    "Tyson was convicted in February 1992 of raping Desiree Washington. He received a six-year prison sentence and was released on March 25, 1995, after serving three years. This was a criminal conviction, not merely an allegation." + cite("prison"),
+    "The distinction matters when reading promotional language about controversy or personal turmoil. A documentary may explore a participant's account of events, but that account does not replace the legal outcome. Nor should a later change in public image erase it.",
+    "## THE HOLYFIELD FIGHTS",
+    "Evander Holyfield stopped Tyson in the eleventh round in November 1996. Their June 1997 rematch ended with Tyson's disqualification for biting Holyfield's ears." + cite("childhood"),
+    "Nevada subsequently revoked Tyson's boxing licence and fined him $3 million." + cite("holyfield"),
+    "The two fights should not be collapsed into one episode. The first was a sporting defeat; the second involved conduct that brought disciplinary consequences. Netflix's trailer explicitly includes the biting incident in its account.",
+    "## FINANCIAL STRUGGLES, ADDICTION AND REINVENTION",
+    "Tyson filed for Chapter 11 bankruptcy protection in 2003. That filing is a documented financial event, not evidence of his present-day wealth." + cite("finances"),
+    "In public remarks in August 2013, Tyson described his struggles with alcohol and drugs and acknowledged having misrepresented his sobriety. These were his statements at that time, not a basis for diagnosing his condition today." + cite("addiction"),
+    "His later public career included a cameo in The Hangover and the stage show Mike Tyson: Undisputed Truth, directed on Broadway by Spike Lee. Reuters reported plans for a US tour in November 2012." + cite("reinvention"),
+    "These appearances brought a different audience to Tyson's story. Reinvention describes the work and public persona that followed his championship years; it is not a verdict on accountability or recovery.",
+    "## THE 2024 JAKE PAUL FIGHT",
+    "On November 15, 2024, Jake Paul defeated the 58-year-old Tyson by unanimous decision over eight rounds in Arlington, Texas." + cite("paul"),
+    "The bout belongs to the later chapter of Tyson's life, rather than his championship prime. It also helps explain why a new audience may approach this documentary through a recent event before encountering the much longer history behind it.",
+    "## WHAT TO KNOW BEFORE WATCHING",
+    "The release date, format, director and official trailer are confirmed. Detailed claims made inside the finished episodes can only be assessed once the relevant material is available. This preview does not assume what any interviewee will say or present Netflix's promotional framing as an independent conclusion.",
+    "For more on sporting legacies, read [PRESDA's feature on football's greatest generation](/articles/the-last-dance-footballs-greatest-generation/). For another source-led screen project explainer, see [Hans Zimmer and the Battle of Yarmouk project](/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/).",
+    "Information checked on October 2, 2026. The supplied hero is an editorial illustration, not an authenticated Netflix publicity photograph."
+  ],
+  faq: [
+    { question: "When is the Mike Tyson documentary release date?", answer: "Netflix has announced October 13, 2026 for TYSON." },
+    { question: "How many episodes does TYSON have?", answer: "The announced format is four hour-long episodes." },
+    { question: "Who directs the Netflix documentary?", answer: "Floyd Russ directs TYSON." },
+    { question: "Is the official trailer available?", answer: "Yes. Netflix published its official trailer on September 17, 2026; it is linked in this article." }
+  ],
+  references: Object.values(sources)
+};
