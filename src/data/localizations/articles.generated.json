@@ -92706,6 +92706,576 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/",
+    "path": "/ar/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex ar localization and source-parity review",
+      "reviewedAt": "2026-10-02",
+      "terminologyChecked": true
+    },
+    "title": "هانز زيمر والسعودية: ما الذي نعرفه عن مشروع معركة اليرموك؟",
+    "excerpt": "لقاء وحفل ومشروع سينمائي يتطور: قراءة في صلة هانز زيمر بالسعودية، مع الفصل بين المقترحات والأعمال المؤكدة.",
+    "headlineHighlights": {
+      "red": "هانز زيمر",
+      "gold": "معركة اليرموك"
+    },
+    "seoTitle": "هانز زيمر والسعودية: تفاصيل مشروع معركة اليرموك",
+    "description": "لقاء تركي آل الشيخ وهانز زيمر ومقطوعة Arabia والنشيد السعودي وفيلم اليرموك: ما الذي طُرح للنقاش وما التطورات المؤكدة؟",
+    "keywords": [
+      "هانز زيمر السعودية",
+      "فيلم معركة اليرموك",
+      "تركي آل الشيخ",
+      "خالد بن الوليد",
+      "النشيد الوطني السعودي"
+    ],
+    "searchIntent": "فهم المشاريع الموسيقية المقترحة على هانز زيمر والتطورات الموثقة لفيلم معركة اليرموك.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "image": {
+      "src": "/articles/hans-zimmer-saudi-arabia-yarmouk.png",
+      "alt": "رسم تحريري يصور تركي آل الشيخ وهانز زيمر إلى جوار بيانو كبير"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تتعلق قصة هانز زيمر والسعودية بعدة مشاريع منفصلة. وفهمها يتطلب التمييز بين نقاش أُعلن للجمهور، وحفل أُقيم بالفعل، وفيلم تقدم تطويره لاحقاً. لا تثبت أي مرحلة من هذه المراحل وحدها أن زيمر أنجز موسيقى تصويرية للفيلم."
+      },
+      {
+        "type": "paragraph",
+        "text": "حتى 2 أكتوبر 2026، لا تثبت المصادر التي روجعت لهذا المقال وجود تعاقد مؤكد مع زيمر لتأليف موسيقى معركة اليرموك، أو اكتمال موسيقاه للفيلم. هذا توصيف لحدود الأدلة المتاحة، وليس إعلاناً بإلغاء التعاون."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا حدث في يناير 2025؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 21 يناير، نقلت CNN بالعربية رواية تركي آل الشيخ عن لقائه بزيمر. وتحدث رئيس الهيئة العامة للترفيه عن أفكار مستقبلية، بينها إمكانية وضع الموسيقى التصويرية لفيلم معركة اليرموك. [CNN بالعربية: إعلان اللقاء في 21 يناير 2025](https://arabic.cnn.com/amphtml/entertainment/article/2025/01/21/saudi-arabia-turki-al-sheikh-reveals-future-projects-with-hans-zimmer)"
+      },
+      {
+        "type": "paragraph",
+        "text": "صدر الإعلان عن آل الشيخ. ونقل دعوته بدقة يقتضي الفصل بين فكرة تُعرض على مؤلف موسيقي وتكليف مؤكد أُعلن للجمهور. صورة اللقاء لا تحسم مسألة التعاقد."
+      },
+      {
+        "type": "heading",
+        "text": "مقطوعة ARABIA والنشيد الوطني"
+      },
+      {
+        "type": "paragraph",
+        "text": "وصفت سعودي جازيت Arabia بأنها مقترح لمقطوعة أصلية مستوحاة من المملكة. كما نقلت مناقشات حول توزيع مختلف للنشيد الوطني وفكرة حفل جديد لإحدى دورات موسم الرياض المقبلة. [سعودي جازيت: مقترحات التعاون الموسيقي في 22 يناير 2025](https://saudigazette.com.sa/article/648799/SAUDI-ARABIA/Hans-Zimmer-to-reimagine-Saudi-national-anthem-and-collaborate-on-future-projects)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وصفت عرب نيوز لاحقاً العمل على النشيد بأنه جارٍ، ونسبت ذلك إلى آل الشيخ. وقدمت في التقرير نفسه موسيقى فيلم اليرموك بوصفها فرصة عُرضت على زيمر. [عرب نيوز: مناقشات توزيع النشيد في 23 يناير 2025](https://www.arabnews.com/entertainment/iconic-composer-hans-zimmer-working-on-new-interpretation-of-saudi-national-anthem-2587519)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا تثبت هذه التقارير اكتمال توزيع للنشيد أو نشره أو اعتماده رسمياً. ولا ينبغي تقديم Arabia على أنها الموسيقى التصويرية للفيلم، إذ طُرحت كمقطوعة منفصلة. ولا تقدم التغطية التي روجعت موعد إصدار موثقاً لها."
+      },
+      {
+        "type": "heading",
+        "text": "حفل الرياض أُقيم بالفعل"
+      },
+      {
+        "type": "paragraph",
+        "text": "أحيا زيمر حفلاً في محمد عبده أرينا يوم 24 يناير 2025 ضمن موسم الرياض. وذكرت عرب نيوز موسيقى Dune وInterstellar وThe Lion King بين الأعمال التي تضمنها البرنامج. [عرب نيوز: تقرير حفل زيمر في الرياض، 25 يناير 2025](https://www.arabnews.com/entertainment/oscar-winning-composer-hans-zimmer-wows-fans-in-riyadh-2587763)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وكان أيضاً من المكرمين بجائزة الإنجاز مدى الحياة في جوي أووردز خلال يناير 2025، بحسب CNN بالعربية. [CNN بالعربية: تكريمات جوي أووردز في 19 يناير 2025](https://arabic.cnn.com/entertainment/article/2025/01/19/joy-awards-lifetime-achievement-winners-in-saudi-arabia?hpt=amp-related-article)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الحفل واقعة موثقة. ويجب عدم الخلط بينه وبين فكرة الحفل المستقبلي المنفصلة التي نوقشت في اللقاء، أو اعتباره عرضاً أول للموسيقى المقترحة لفيلم اليرموك."
+      },
+      {
+        "type": "heading",
+        "text": "كيف تطور مشروع الفيلم؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "في ديسمبر 2025، ربطت سعودي جازيت فيلم معركة اليرموك / خالد بن الوليد بعنوان العمل المؤقت Unbroken Sword. وسمّت أليك ساخاروف مخرجاً، ونقلت زيارة آل الشيخ إلى منشآت الإنتاج. [سعودي جازيت: زيارة الاستوديوهات في 2 ديسمبر 2025](https://saudigazette.com.sa/article/657063/SAUDI-ARABIA/Al-Sheikh-reviews-progress-on-major-Khalid-bin-Al-Walid-historical-film-at-Qiddiya-studios)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ثم وصفت سكرين غلوبال برودكشن المشروع بأنه فيلم باللغة الإنجليزية تنتجه صلة، بدعم من الهيئة العامة للترفيه وموسم الرياض، في استوديوهات بلاي ميكر بالقدية. وحدد تقريرها الصادر في ديسمبر مطلع 2026 موعداً مخططاً لبدء التصوير الرئيسي. [سكرين غلوبال برودكشن: الفيلم في بلاي ميكر، 8 ديسمبر 2025](https://www.screenglobalproduction.com/news/2025/12/08/playmaker-studios-opens-saudi-arabia-Qiddiya-city-unbroken-sword-production)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وصف تحديث نشرته 4D Studio في 2026، وهي جهة ساهمت في التصميم المعماري لبلاي ميكر، فيلم Unbroken Sword بأنه قيد الإنتاج. وهذه إفادة من مشارك في تطوير الاستوديوهات، وليست قائمة نهائية بأسماء صناع الفيلم. [4D Studio: تحديث مشروع بلاي ميكر المنشور في مارس 2026](https://www.4d-studio.co.uk/playmaker-studios-supporting-the-rise-of-saudi-arabias-film-industry/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "نقلت تغطية CNN بالعربية في ديسمبر 2025 خطة آل الشيخ لعرض الفيلم في 2027. ويظل ذلك في المواد التي روجعت هدفاً معلناً، لا دليلاً على اكتمال الفيلم أو تحديد يوم نهائي لطرحه في السينما. [CNN بالعربية: التحضيرات وخطة العرض في 2027، 8 ديسمبر 2025](https://arabic.cnn.com/entertainment/video/2025/12/08/v185247-trending-segment-angham-in-the-embrace-of-the-pyramids)"
+      },
+      {
+        "type": "paragraph",
+        "text": "توضح هذه التقارير مجتمعة أن المشروع تجاوز إعلانه الأول. لكنها لا تثبت تحول كل المقترحات المرتبطة به إلى عقود. فتحديد المخرج والاستوديو والإعلان عن تقدم الإنتاج لا يغني عن تأكيد اسم المؤلف الموسيقي."
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي لم يتأكد بعد؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يثبت أي مصدر روجع إسناد الموسيقى النهائي إلى زيمر، أو اكتمال تسجيل، أو صدور ألبوم للموسيقى التصويرية، أو اعتماد التوزيع المقترح للنشيد رسمياً. وأي تأكيد لاحق ينبغي أن يحدد العمل وحالته، لا أن يكرر إعلان لقاء يناير فحسب."
+      },
+      {
+        "type": "paragraph",
+        "text": "يفيد هذا التمييز خارج هذا المشروع أيضاً. فإعلان النية والتحضير للفيلم وتصويره وإصدار موسيقاه مراحل مختلفة. وإبقاء التاريخ وصاحب التصريح مرتبطين بكل معلومة يجعل الصورة أوضح، من دون التقليل من طموح المشروع."
+      },
+      {
+        "type": "paragraph",
+        "text": "للمزيد من التغطية الموسيقية، اقرأ [شرح PRESDA لأرقام تايلور سويفت القياسية على سبوتيفاي](/articles/taylor-swift-spotify-records-2026-patient-zero/) و[ملف حياة أفيتشي وموسيقاه](/articles/avicii-life-music-death-tim-bergling/)."
+      },
+      {
+        "type": "paragraph",
+        "text": "رُوجعت المعلومات حتى 2 أكتوبر 2026. الصورة المقدمة رسم تحريري، وليست صورة موثقة للقاء يناير."
+      }
+    ],
+    "sources": [
+      {
+        "label": "CNN بالعربية: إعلان اللقاء في 21 يناير 2025",
+        "url": "https://arabic.cnn.com/amphtml/entertainment/article/2025/01/21/saudi-arabia-turki-al-sheikh-reveals-future-projects-with-hans-zimmer"
+      },
+      {
+        "label": "سعودي جازيت: مقترحات التعاون الموسيقي في 22 يناير 2025",
+        "url": "https://saudigazette.com.sa/article/648799/SAUDI-ARABIA/Hans-Zimmer-to-reimagine-Saudi-national-anthem-and-collaborate-on-future-projects"
+      },
+      {
+        "label": "عرب نيوز: مناقشات توزيع النشيد في 23 يناير 2025",
+        "url": "https://www.arabnews.com/entertainment/iconic-composer-hans-zimmer-working-on-new-interpretation-of-saudi-national-anthem-2587519"
+      },
+      {
+        "label": "عرب نيوز: تقرير حفل زيمر في الرياض، 25 يناير 2025",
+        "url": "https://www.arabnews.com/entertainment/oscar-winning-composer-hans-zimmer-wows-fans-in-riyadh-2587763"
+      },
+      {
+        "label": "CNN بالعربية: تكريمات جوي أووردز في 19 يناير 2025",
+        "url": "https://arabic.cnn.com/entertainment/article/2025/01/19/joy-awards-lifetime-achievement-winners-in-saudi-arabia?hpt=amp-related-article"
+      },
+      {
+        "label": "سعودي جازيت: زيارة الاستوديوهات في 2 ديسمبر 2025",
+        "url": "https://saudigazette.com.sa/article/657063/SAUDI-ARABIA/Al-Sheikh-reviews-progress-on-major-Khalid-bin-Al-Walid-historical-film-at-Qiddiya-studios"
+      },
+      {
+        "label": "سكرين غلوبال برودكشن: الفيلم في بلاي ميكر، 8 ديسمبر 2025",
+        "url": "https://www.screenglobalproduction.com/news/2025/12/08/playmaker-studios-opens-saudi-arabia-Qiddiya-city-unbroken-sword-production"
+      },
+      {
+        "label": "4D Studio: تحديث مشروع بلاي ميكر المنشور في مارس 2026",
+        "url": "https://www.4d-studio.co.uk/playmaker-studios-supporting-the-rise-of-saudi-arabias-film-industry/"
+      },
+      {
+        "label": "CNN بالعربية: التحضيرات وخطة العرض في 2027، 8 ديسمبر 2025",
+        "url": "https://arabic.cnn.com/entertainment/video/2025/12/08/v185247-trending-segment-angham-in-the-embrace-of-the-pyramids"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل أكمل هانز زيمر موسيقى معركة اليرموك؟",
+        "answer": "لا تؤكد المصادر التي روجعت اكتمال الموسيقى أو وجود تعاقد مؤكد مع زيمر لتأليفها."
+      },
+      {
+        "question": "هل Arabia والموسيقى التصويرية مشروع واحد؟",
+        "answer": "طُرحتا كمقترحين منفصلين. ولا تثبت الأدلة التي روجعت موعداً لإصدار Arabia."
+      },
+      {
+        "question": "هل تعني مناقشات النشيد أن السعودية اعتمدت نشيداً جديداً؟",
+        "answer": "لا. مناقشة توزيع موسيقي لا تثبت اكتماله أو اعتماده رسمياً."
+      },
+      {
+        "question": "هل عرض الفيلم في 2027 مضمون؟",
+        "answer": "كان 2027 الهدف المعلن. ولا تحدد المواد التي روجعت موعداً نهائياً للعرض السينمائي."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/",
+    "path": "/es/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex es localization and source-parity review",
+      "reviewedAt": "2026-10-02",
+      "terminologyChecked": true
+    },
+    "title": "Hans Zimmer y Arabia Saudí: las claves del proyecto sobre la batalla de Yarmuk",
+    "excerpt": "Una reunión, un concierto y una película en desarrollo: los vínculos de Zimmer con Arabia Saudí, separando propuestas y hechos confirmados.",
+    "headlineHighlights": {
+      "red": "Hans Zimmer",
+      "gold": "batalla de Yarmuk"
+    },
+    "seoTitle": "Hans Zimmer y Arabia Saudí: el proyecto de Yarmuk",
+    "description": "La reunión, Arabia, el himno saudí y la película de Yarmuk: qué se propuso a Hans Zimmer y qué avances están realmente confirmados.",
+    "keywords": [
+      "Hans Zimmer Arabia Saudí",
+      "película batalla de Yarmuk",
+      "Turki Alalshikh",
+      "Unbroken Sword",
+      "himno saudí"
+    ],
+    "searchIntent": "Comprender las propuestas musicales a Hans Zimmer y los avances verificados de la película sobre Yarmuk.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "image": {
+      "src": "/articles/hans-zimmer-saudi-arabia-yarmouk.png",
+      "alt": "Ilustración editorial de Turki Alalshikh y Hans Zimmer junto a un piano de cola"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La relación entre Hans Zimmer y Arabia Saudí abarca varios proyectos distintos. Para entenderla hay que separar una conversación pública, un concierto que sí se celebró y una película cuyo desarrollo avanzó después. Ninguna de esas etapas demuestra por sí sola que Zimmer haya terminado una banda sonora."
+      },
+      {
+        "type": "paragraph",
+        "text": "A 2 de octubre de 2026, las fuentes consultadas no permiten verificar un compromiso contractual de Zimmer para componer la música de La batalla de Yarmuk ni una partitura terminada. Es un límite de la información disponible, no un anuncio de cancelación de la colaboración."
+      },
+      {
+        "type": "heading",
+        "text": "¿QUÉ OCURRIÓ EN ENERO DE 2025?"
+      },
+      {
+        "type": "paragraph",
+        "text": "El 21 de enero, CNN Arabic recogió el relato de Turki Alalshikh sobre su reunión con Zimmer. El presidente de la Autoridad General de Entretenimiento planteó futuras ideas, entre ellas una posible banda sonora para La batalla de Yarmuk. [CNN Arabic: anuncio de la reunión del 21 de enero de 2025](https://arabic.cnn.com/amphtml/entertainment/article/2025/01/21/saudi-arabia-turki-al-sheikh-reveals-future-projects-with-hans-zimmer)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El anuncio procedía de Alalshikh. Explicar su invitación exige distinguir entre una idea presentada a un compositor y un encargo confirmado públicamente. Una fotografía de la reunión no resuelve esa cuestión contractual."
+      },
+      {
+        "type": "heading",
+        "text": "ARABIA Y EL HIMNO NACIONAL"
+      },
+      {
+        "type": "paragraph",
+        "text": "Saudi Gazette describió Arabia como una propuesta de composición original inspirada en el reino. También informó de conversaciones sobre una nueva orquestación del himno nacional y un concepto de concierto para una futura edición de Riyadh Season. [Saudi Gazette: propuestas musicales, 22 de enero de 2025](https://saudigazette.com.sa/article/648799/SAUDI-ARABIA/Hans-Zimmer-to-reimagine-Saudi-national-anthem-and-collaborate-on-future-projects)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Arab News describió después el trabajo sobre el himno como iniciado, atribuyendo esa información a Alalshikh. Su artículo también presentó la banda sonora de Yarmuk como una oportunidad ofrecida a Zimmer. [Arab News: conversaciones sobre el himno, 23 de enero de 2025](https://www.arabnews.com/entertainment/iconic-composer-hans-zimmer-working-on-new-interpretation-of-saudi-national-anthem-2587519)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estas informaciones no demuestran que se haya terminado, publicado o adoptado oficialmente un arreglo del himno. Tampoco debe presentarse Arabia como la banda sonora del filme: se habló de una composición independiente. Las fuentes revisadas no ofrecen una fecha de lanzamiento verificada."
+      },
+      {
+        "type": "heading",
+        "text": "EL CONCIERTO DE RIAD SÍ SE CELEBRÓ"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zimmer actuó en el Mohammed Abdo Arena el 24 de enero de 2025, durante Riyadh Season. Arab News mencionó música de Dune, Interstellar y El rey león entre las piezas interpretadas. [Arab News: concierto de Zimmer en Riad, 25 de enero de 2025](https://www.arabnews.com/entertainment/oscar-winning-composer-hans-zimmer-wows-fans-in-riyadh-2587763)"
+      },
+      {
+        "type": "paragraph",
+        "text": "También recibió un reconocimiento a su trayectoria en los Joy Awards de enero de 2025, según CNN Arabic. [CNN Arabic: reconocimientos de los Joy Awards, 19 de enero de 2025](https://arabic.cnn.com/entertainment/article/2025/01/19/joy-awards-lifetime-achievement-winners-in-saudi-arabia?hpt=amp-related-article)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El concierto es un acontecimiento documentado. No debe confundirse con el concepto de un futuro concierto tratado en la reunión ni presentarse como el estreno de la música propuesta para Yarmuk."
+      },
+      {
+        "type": "heading",
+        "text": "CÓMO AVANZÓ LA PELÍCULA"
+      },
+      {
+        "type": "paragraph",
+        "text": "En diciembre de 2025, Saudi Gazette vinculó La batalla de Yarmuk / Khalid ibn al-Walid con el título provisional Unbroken Sword. Identificó a Alik Sakharov como director e informó de la visita de Alalshikh a las instalaciones de producción. [Saudi Gazette: visita a los estudios, 2 de diciembre de 2025](https://saudigazette.com.sa/article/657063/SAUDI-ARABIA/Al-Sheikh-reviews-progress-on-major-Khalid-bin-Al-Walid-historical-film-at-Qiddiya-studios)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Screen Global Production describió después un largometraje en inglés producido por Sela, respaldado por la GEA y Riyadh Season, en PlayMaker Studios, Qiddiya. Su información de diciembre situaba el inicio del rodaje principal a comienzos de 2026. [Screen Global Production: Unbroken Sword en PlayMaker, 8 de diciembre de 2025](https://www.screenglobalproduction.com/news/2025/12/08/playmaker-studios-opens-saudi-arabia-Qiddiya-city-unbroken-sword-production)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una actualización de 2026 de 4D Studio, participante en el diseño arquitectónico de PlayMaker, describió Unbroken Sword como una película en producción. Es información de una entidad vinculada al desarrollo de los estudios, no una lista definitiva de créditos. [4D Studio: actualización de PlayMaker publicada en marzo de 2026](https://www.4d-studio.co.uk/playmaker-studios-supporting-the-rise-of-saudi-arabias-film-industry/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cobertura de CNN Arabic de diciembre de 2025 recogió el objetivo de Alalshikh de estrenar la película en 2027. En el material revisado sigue siendo una previsión anunciada, no prueba de una película terminada ni de una fecha concreta de estreno. [CNN Arabic: preparativos y estreno previsto en 2027, 8 de diciembre de 2025](https://arabic.cnn.com/entertainment/video/2025/12/08/v185247-trending-segment-angham-in-the-embrace-of-the-pyramids)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En conjunto, las informaciones muestran que el proyecto avanzó más allá del anuncio inicial. No demuestran que todas las propuestas asociadas se convirtieran en contratos. Un director, un estudio y una actualización de producción no sustituyen la confirmación del compositor."
+      },
+      {
+        "type": "heading",
+        "text": "¿QUÉ SIGUE SIN CONFIRMARSE?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ninguna fuente revisada establece el crédito musical definitivo de Zimmer, una grabación terminada, el lanzamiento de una banda sonora o la adopción oficial del arreglo del himno propuesto. Una confirmación tendría que identificar la obra y su estado, no limitarse a repetir el anuncio de enero."
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinción también resulta útil fuera de este proyecto. Anunciar una intención, preparar una película, rodarla y publicar su música son hitos diferentes. Mantener las fechas y las atribuciones aclara cada afirmación sin restar importancia a las ambiciones del proyecto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Para seguir leyendo sobre música, consulta [nuestra explicación de los récords de Taylor Swift en Spotify](/articles/taylor-swift-spotify-records-2026-patient-zero/) y [nuestro perfil de la vida y la música de Avicii](/articles/avicii-life-music-death-tim-bergling/)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Información comprobada al 2 de octubre de 2026. La imagen facilitada es una ilustración editorial, no una fotografía autenticada de la reunión de enero."
+      }
+    ],
+    "sources": [
+      {
+        "label": "CNN Arabic: anuncio de la reunión del 21 de enero de 2025",
+        "url": "https://arabic.cnn.com/amphtml/entertainment/article/2025/01/21/saudi-arabia-turki-al-sheikh-reveals-future-projects-with-hans-zimmer"
+      },
+      {
+        "label": "Saudi Gazette: propuestas musicales, 22 de enero de 2025",
+        "url": "https://saudigazette.com.sa/article/648799/SAUDI-ARABIA/Hans-Zimmer-to-reimagine-Saudi-national-anthem-and-collaborate-on-future-projects"
+      },
+      {
+        "label": "Arab News: conversaciones sobre el himno, 23 de enero de 2025",
+        "url": "https://www.arabnews.com/entertainment/iconic-composer-hans-zimmer-working-on-new-interpretation-of-saudi-national-anthem-2587519"
+      },
+      {
+        "label": "Arab News: concierto de Zimmer en Riad, 25 de enero de 2025",
+        "url": "https://www.arabnews.com/entertainment/oscar-winning-composer-hans-zimmer-wows-fans-in-riyadh-2587763"
+      },
+      {
+        "label": "CNN Arabic: reconocimientos de los Joy Awards, 19 de enero de 2025",
+        "url": "https://arabic.cnn.com/entertainment/article/2025/01/19/joy-awards-lifetime-achievement-winners-in-saudi-arabia?hpt=amp-related-article"
+      },
+      {
+        "label": "Saudi Gazette: visita a los estudios, 2 de diciembre de 2025",
+        "url": "https://saudigazette.com.sa/article/657063/SAUDI-ARABIA/Al-Sheikh-reviews-progress-on-major-Khalid-bin-Al-Walid-historical-film-at-Qiddiya-studios"
+      },
+      {
+        "label": "Screen Global Production: Unbroken Sword en PlayMaker, 8 de diciembre de 2025",
+        "url": "https://www.screenglobalproduction.com/news/2025/12/08/playmaker-studios-opens-saudi-arabia-Qiddiya-city-unbroken-sword-production"
+      },
+      {
+        "label": "4D Studio: actualización de PlayMaker publicada en marzo de 2026",
+        "url": "https://www.4d-studio.co.uk/playmaker-studios-supporting-the-rise-of-saudi-arabias-film-industry/"
+      },
+      {
+        "label": "CNN Arabic: preparativos y estreno previsto en 2027, 8 de diciembre de 2025",
+        "url": "https://arabic.cnn.com/entertainment/video/2025/12/08/v185247-trending-segment-angham-in-the-embrace-of-the-pyramids"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Ha terminado Hans Zimmer la música de La batalla de Yarmuk?",
+        "answer": "Las fuentes revisadas no confirman una partitura terminada ni un compromiso contractual de Zimmer para componerla."
+      },
+      {
+        "question": "¿Arabia y la banda sonora son el mismo proyecto?",
+        "answer": "Se presentaron como propuestas independientes. La documentación revisada no establece una fecha de lanzamiento para Arabia."
+      },
+      {
+        "question": "¿Las conversaciones significan que se adoptó un nuevo himno saudí?",
+        "answer": "No. Hablar de un arreglo no demuestra que esté terminado ni que haya sido adoptado oficialmente."
+      },
+      {
+        "question": "¿Está garantizado el estreno de la película en 2027?",
+        "answer": "2027 era el objetivo anunciado. El material revisado no establece una fecha concreta de estreno en cines."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/",
+    "path": "/fr/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex fr localization and source-parity review",
+      "reviewedAt": "2026-10-02",
+      "terminologyChecked": true
+    },
+    "title": "Hans Zimmer et l’Arabie saoudite : comprendre le projet sur la bataille du Yarmouk",
+    "excerpt": "Une rencontre, un concert et un film en développement : les liens saoudiens de Zimmer, en distinguant les propositions des réalisations confirmées.",
+    "headlineHighlights": {
+      "red": "Hans Zimmer",
+      "gold": "bataille du Yarmouk"
+    },
+    "seoTitle": "Hans Zimmer et l’Arabie saoudite : le projet Yarmouk",
+    "description": "Rencontre, œuvre Arabia, hymne et film sur le Yarmouk : ce qui a été proposé à Hans Zimmer et ce que les sources confirment réellement.",
+    "keywords": [
+      "Hans Zimmer Arabie saoudite",
+      "film bataille du Yarmouk",
+      "Turki Alalshikh",
+      "Unbroken Sword",
+      "hymne saoudien"
+    ],
+    "searchIntent": "Comprendre les propositions musicales faites à Hans Zimmer et l’avancement vérifié du film sur le Yarmouk.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "image": {
+      "src": "/articles/hans-zimmer-saudi-arabia-yarmouk.png",
+      "alt": "Illustration éditoriale de Turki Alalshikh et Hans Zimmer près d’un piano à queue"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Les liens entre Hans Zimmer et l’Arabie saoudite concernent plusieurs projets distincts. Pour les comprendre, il faut séparer une discussion publique, un concert effectivement donné et un film dont le développement a ensuite avancé. Aucune de ces étapes ne prouve, à elle seule, qu’une musique de Zimmer est achevée."
+      },
+      {
+        "type": "paragraph",
+        "text": "Au 2 octobre 2026, les sources consultées ne permettent de vérifier ni un engagement contractuel de Zimmer pour la musique de La Bataille du Yarmouk, ni une partition terminée. Cette limite des informations disponibles ne signifie pas que la collaboration a été annulée."
+      },
+      {
+        "type": "heading",
+        "text": "QUE S’EST-IL PASSÉ EN JANVIER 2025 ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le 21 janvier, CNN Arabic a relayé le récit de Turki Alalshikh sur sa rencontre avec Zimmer. Le président de l’Autorité générale du divertissement évoquait des idées futures, dont une éventuelle musique pour La Bataille du Yarmouk. [CNN Arabic : annonce de la rencontre du 21 janvier 2025](https://arabic.cnn.com/amphtml/entertainment/article/2025/01/21/saudi-arabia-turki-al-sheikh-reveals-future-projects-with-hans-zimmer)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’annonce venait d’Alalshikh. Relater son invitation exige de distinguer une idée soumise à un compositeur d’une commande publiquement confirmée. Une photographie de rencontre ne tranche pas cette question contractuelle."
+      },
+      {
+        "type": "heading",
+        "text": "ARABIA ET L’HYMNE NATIONAL"
+      },
+      {
+        "type": "paragraph",
+        "text": "Saudi Gazette présentait Arabia comme un projet de composition originale inspirée du royaume. Le journal évoquait aussi des échanges sur une nouvelle orchestration de l’hymne national et un concept de concert pour une prochaine édition de Riyadh Season. [Saudi Gazette : collaborations musicales proposées, 22 janvier 2025](https://saudigazette.com.sa/article/648799/SAUDI-ARABIA/Hans-Zimmer-to-reimagine-Saudi-national-anthem-and-collaborate-on-future-projects)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Arab News a ensuite décrit un travail sur l’hymne comme étant en cours, en attribuant cette information à Alalshikh. Son article présentait également la musique du film sur le Yarmouk comme une proposition faite à Zimmer. [Arab News : discussions sur l’hymne, 23 janvier 2025](https://www.arabnews.com/entertainment/iconic-composer-hans-zimmer-working-on-new-interpretation-of-saudi-national-anthem-2587519)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces récits ne prouvent pas qu’un arrangement de l’hymne a été achevé, publié ou officiellement adopté. Arabia ne doit pas non plus être présenté comme la bande originale du film : il s’agissait d’une composition distincte. Les sources examinées ne donnent aucune date de sortie vérifiée."
+      },
+      {
+        "type": "heading",
+        "text": "LE CONCERT DE RIYAD A BIEN EU LIEU"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zimmer s’est produit au Mohammed Abdo Arena le 24 janvier 2025, pendant Riyadh Season. Arab News mentionnait notamment des musiques de Dune, Interstellar et du Roi Lion au programme. [Arab News : concert de Zimmer à Riyad, 25 janvier 2025](https://www.arabnews.com/entertainment/oscar-winning-composer-hans-zimmer-wows-fans-in-riyadh-2587763)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il figurait aussi parmi les artistes distingués pour l’ensemble de leur carrière aux Joy Awards de janvier 2025, selon CNN Arabic. [CNN Arabic : distinctions des Joy Awards, 19 janvier 2025](https://arabic.cnn.com/entertainment/article/2025/01/19/joy-awards-lifetime-achievement-winners-in-saudi-arabia?hpt=amp-related-article)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ce concert est un événement documenté. Il ne faut le confondre ni avec le concept de concert futur évoqué lors de la rencontre, ni avec une première présentation de la musique proposée pour le film."
+      },
+      {
+        "type": "heading",
+        "text": "COMMENT LE FILM A ÉVOLUÉ"
+      },
+      {
+        "type": "paragraph",
+        "text": "En décembre 2025, Saudi Gazette associait La Bataille du Yarmouk / Khalid ibn al-Walid au titre de travail Unbroken Sword. Le journal citait le réalisateur Alik Sakharov et relatait la visite d’Alalshikh dans les installations de production. [Saudi Gazette : visite des studios, 2 décembre 2025](https://saudigazette.com.sa/article/657063/SAUDI-ARABIA/Al-Sheikh-reviews-progress-on-major-Khalid-bin-Al-Walid-historical-film-at-Qiddiya-studios)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Screen Global Production décrivait ensuite un long métrage en anglais produit par Sela, soutenu par la GEA et Riyadh Season, aux studios PlayMaker de Qiddiya. Son article de décembre prévoyait le début du tournage principal pour début 2026. [Screen Global Production : Unbroken Sword à PlayMaker, 8 décembre 2025](https://www.screenglobalproduction.com/news/2025/12/08/playmaker-studios-opens-saudi-arabia-Qiddiya-city-unbroken-sword-production)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2026, 4D Studio, qui a contribué à l’architecture de PlayMaker, décrivait Unbroken Sword comme étant en production. Ce témoignage provient d’un acteur du développement des studios, pas d’un générique définitif du film. [4D Studio : point sur PlayMaker publié en mars 2026](https://www.4d-studio.co.uk/playmaker-studios-supporting-the-rise-of-saudi-arabias-film-industry/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En décembre 2025, CNN Arabic rapportait qu’Alalshikh envisageait une sortie en 2027. Dans les documents examinés, cela reste un objectif annoncé, sans prouver que le film est terminé ni qu’une date précise de sortie en salle est fixée. [CNN Arabic : préparatifs et sortie envisagée en 2027, 8 décembre 2025](https://arabic.cnn.com/entertainment/video/2025/12/08/v185247-trending-segment-angham-in-the-embrace-of-the-pyramids)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ensemble, ces informations montrent que le projet a dépassé sa première annonce. Elles ne prouvent pas que chaque proposition qui l’accompagnait s’est transformée en contrat. Un réalisateur, un studio et des nouvelles de production ne remplacent pas la confirmation du compositeur."
+      },
+      {
+        "type": "heading",
+        "text": "QUE RESTE-T-IL À CONFIRMER ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aucune source examinée n’établit le crédit musical définitif de Zimmer, un enregistrement achevé, la sortie d’une bande originale ou l’adoption officielle de son arrangement envisagé pour l’hymne. Une confirmation devrait préciser l’œuvre et son statut, plutôt que répéter l’annonce de janvier."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette distinction vaut au-delà de ce projet. Annoncer une intention, préparer un film, le tourner et publier sa musique correspondent à des étapes différentes. Associer chaque affirmation à sa date et à son auteur clarifie le récit sans minimiser les ambitions du projet."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour poursuivre votre lecture musicale, découvrez [notre décryptage des records Spotify de Taylor Swift](/articles/taylor-swift-spotify-records-2026-patient-zero/) et [notre portrait d’Avicii, de sa vie et de sa musique](/articles/avicii-life-music-death-tim-bergling/)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Informations vérifiées au 2 octobre 2026. L’image fournie est une illustration éditoriale, pas une photographie authentifiée de la rencontre de janvier."
+      }
+    ],
+    "sources": [
+      {
+        "label": "CNN Arabic : annonce de la rencontre du 21 janvier 2025",
+        "url": "https://arabic.cnn.com/amphtml/entertainment/article/2025/01/21/saudi-arabia-turki-al-sheikh-reveals-future-projects-with-hans-zimmer"
+      },
+      {
+        "label": "Saudi Gazette : collaborations musicales proposées, 22 janvier 2025",
+        "url": "https://saudigazette.com.sa/article/648799/SAUDI-ARABIA/Hans-Zimmer-to-reimagine-Saudi-national-anthem-and-collaborate-on-future-projects"
+      },
+      {
+        "label": "Arab News : discussions sur l’hymne, 23 janvier 2025",
+        "url": "https://www.arabnews.com/entertainment/iconic-composer-hans-zimmer-working-on-new-interpretation-of-saudi-national-anthem-2587519"
+      },
+      {
+        "label": "Arab News : concert de Zimmer à Riyad, 25 janvier 2025",
+        "url": "https://www.arabnews.com/entertainment/oscar-winning-composer-hans-zimmer-wows-fans-in-riyadh-2587763"
+      },
+      {
+        "label": "CNN Arabic : distinctions des Joy Awards, 19 janvier 2025",
+        "url": "https://arabic.cnn.com/entertainment/article/2025/01/19/joy-awards-lifetime-achievement-winners-in-saudi-arabia?hpt=amp-related-article"
+      },
+      {
+        "label": "Saudi Gazette : visite des studios, 2 décembre 2025",
+        "url": "https://saudigazette.com.sa/article/657063/SAUDI-ARABIA/Al-Sheikh-reviews-progress-on-major-Khalid-bin-Al-Walid-historical-film-at-Qiddiya-studios"
+      },
+      {
+        "label": "Screen Global Production : Unbroken Sword à PlayMaker, 8 décembre 2025",
+        "url": "https://www.screenglobalproduction.com/news/2025/12/08/playmaker-studios-opens-saudi-arabia-Qiddiya-city-unbroken-sword-production"
+      },
+      {
+        "label": "4D Studio : point sur PlayMaker publié en mars 2026",
+        "url": "https://www.4d-studio.co.uk/playmaker-studios-supporting-the-rise-of-saudi-arabias-film-industry/"
+      },
+      {
+        "label": "CNN Arabic : préparatifs et sortie envisagée en 2027, 8 décembre 2025",
+        "url": "https://arabic.cnn.com/entertainment/video/2025/12/08/v185247-trending-segment-angham-in-the-embrace-of-the-pyramids"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Hans Zimmer a-t-il terminé la musique du film sur le Yarmouk ?",
+        "answer": "Les sources examinées ne confirment ni une partition achevée ni un engagement contractuel de Zimmer pour la composer."
+      },
+      {
+        "question": "Arabia et la bande originale du film sont-elles un même projet ?",
+        "answer": "Il s’agissait de propositions distinctes. Les éléments examinés ne donnent pas de date de sortie pour Arabia."
+      },
+      {
+        "question": "Les discussions signifient-elles qu’un nouvel hymne saoudien a été adopté ?",
+        "answer": "Non. Discuter d’un arrangement ne prouve ni son achèvement ni son adoption officielle."
+      },
+      {
+        "question": "La sortie du film en 2027 est-elle garantie ?",
+        "answer": "2027 était l’objectif annoncé. Les documents examinés ne fixent pas de date précise de sortie en salle."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/happiest-countries-in-the-world-2026/",
     "path": "/ar/articles/happiest-countries-in-the-world-2026/",
     "kind": "article",

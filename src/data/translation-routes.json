@@ -961,6 +961,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/",
+    "path": "/ar/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/",
+    "path": "/es/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/",
+    "path": "/fr/articles/hans-zimmer-saudi-arabia-battle-of-yarmouk-project/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/happiest-countries-in-the-world-2026/",
     "path": "/ar/articles/happiest-countries-in-the-world-2026/"
   },
