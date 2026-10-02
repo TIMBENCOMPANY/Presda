@@ -1,0 +1,304 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/japan-fusion-helix-haruka-helical-fusion/",
+  "path": "/es/articles/japan-fusion-helix-haruka-helical-fusion/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es editorial and source-parity review",
+    "reviewedAt": "2026-10-02",
+    "terminologyChecked": true
+  },
+  "title": "La apuesta de Japón por la fusión: ¿puede construir una máquina que funcione como el Sol?",
+  "excerpt": "En Toki toma forma un imán superconductor. Lo más difícil sigue pendiente: convertir los avances de la fusión en electricidad fiable para el exterior.",
+  "headlineHighlights": {
+    "red": "La apuesta de Japón por la fusión",
+    "gold": "como el Sol"
+  },
+  "seoTitle": "Fusión en Japón: Helix HARUKA y el camino a la electricidad",
+  "description": "Helix HARUKA prepara ensayos, no una central comercial. Así avanzan sus imanes, las metas de 2027 y 2030, KANATA y los desafíos de la fusión japonesa.",
+  "keywords": [
+    "fusión nuclear Japón",
+    "Helix HARUKA",
+    "Helical Fusion",
+    "energía de fusión",
+    "stellarator",
+    "reactor helicoidal",
+    "Helix KANATA"
+  ],
+  "searchIntent": "Explicar los avances comprobados y los objetivos del programa japonés Helix.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-02",
+  "updatedAt": "2026-10-02",
+  "image": {
+    "src": "/articles/japan-fusion-helix-haruka.png",
+    "alt": "Ilustración conceptual generada con IA de un laboratorio japonés de fusión y un Sol sobredimensionado, no una fotografía de un reactor real"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En Toki, Japón, la historia de la energía de fusión también se está convirtiendo en una historia industrial. Helical Fusion ensambla los equipos magnéticos de Helix HARUKA, una máquina concebida para probar tecnologías de una futura central. Reuters informó el 29 de septiembre de 2026 de que la construcción de su primera bobina helicoidal, iniciada a comienzos de año, estaba prácticamente terminada. La empresa prevé las primeras pruebas de energización para 2027. [Reuters: construcción y objetivos de HARUKA (septiembre de 2026)](https://uk.marketscreener.com/news/japan-s-fusion-energy-startup-to-begin-power-on-tests-at-pilot-reactor-in-2027-ce785adddf8fff22)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un avance, pero no generación eléctrica. A 2 de octubre de 2026 no existe ninguna central de fusión comercialmente viable. Japón no ha construido un reactor de fusión comercial ni demostrado electricidad neta mediante HARUKA. El programa Helix conecta ensayos de componentes con un futuro demostrador eléctrico, Helix KANATA, separados por importantes desafíos científicos e industriales. [Reuters: construcción y objetivos de HARUKA (septiembre de 2026)](https://uk.marketscreener.com/news/japan-s-fusion-energy-startup-to-begin-power-on-tests-at-pilot-reactor-in-2027-ce785adddf8fff22) [Helical Fusion: calendario y objetivos](https://www.helicalfusion.com/helixprogram?lang=en)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ SIGNIFICA FUNCIONAR COMO EL SOL"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fusión nuclear une núcleos atómicos ligeros y libera energía. Alimenta al Sol, pero un reactor terrestre no es una estrella en miniatura. La gravedad solar confina materia enormemente densa. En la Tierra, las máquinas magnéticas intentan mantener un plasma suficientemente caliente y denso durante el tiempo necesario para que el calentamiento por fusión compita con las pérdidas. La temperatura por sí sola no demuestra el éxito. [OIEA: confinamiento magnético e inercial](https://nucleus.iaea.org/sites/connect/FUSEpublic/SitePages/MCF-%26-ICF.aspx)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchos proyectos eléctricos utilizan deuterio y tritio, dos formas de hidrógeno. Su fusión produce helio y un neutrón energético. El Sol sigue principalmente otra cadena de reacciones que comienza con hidrógeno ordinario. La comparación se refiere a la fuente fundamental de energía, no a combustibles, presiones o condiciones idénticos. [OIEA: confinamiento magnético e inercial](https://nucleus.iaea.org/sites/connect/FUSEpublic/SitePages/MCF-%26-ICF.aspx) [ITER: funciones del manto](https://www.iter.org/node/20687/what-will-blanket-teach-us)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fisión de las centrales nucleares actuales divide núcleos pesados; la fusión une núcleos ligeros. No mantiene la misma reacción en cadena impulsada por neutrones. Sin embargo, requiere ingeniería nuclear: el tritio es radiactivo y los neutrones pueden dañar y activar materiales estructurales. Describirla como una energía baja en carbono no elimina la gestión del combustible ni los residuos radiactivos. [NRC: fisión y fusión](https://www.nrc.gov/materials/fusion/fission-vs-fusion) [NIFS: desafíos de ingeniería](https://soken.nifs.ac.jp/archives/about/program_eng/reactor_eng?lang=eng)"
+    },
+    {
+      "type": "heading",
+      "text": "UNA BOTELLA MAGNÉTICA CON TORSIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "El plasma es una mezcla conductora de iones y electrones. Las partículas cargadas giran alrededor de las líneas del campo magnético, de modo que campos cuidadosamente diseñados mantienen la mayor parte del combustible caliente lejos de las paredes. Calentamiento, alimentación y evacuación deben acompañar al confinamiento. La turbulencia y las partículas que escapan transportan energía, incluso sin un colapso repentino del plasma. [OIEA: confinamiento magnético e inercial](https://nucleus.iaea.org/sites/connect/FUSEpublic/SitePages/MCF-%26-ICF.aspx) [ITER: obstáculos pendientes](https://www.iter.org/fusion-energy/making-it-work)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dispositivos helicoidales pertenecen a la familia de los stellarators. Sus bobinas externas crean la geometría magnética retorcida necesaria para confinar el plasma sin exigir la gran corriente toroidal de un tokamak convencional. Esto hace atractivo el funcionamiento continuo. La contrapartida son bobinas tridimensionales complejas y una fabricación muy precisa. El diseño no elimina todas las inestabilidades ni todas las pérdidas de calor. [Max Planck IPP: stellarators](https://www.ipp.mpg.de/9792/stellarator)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los tokamaks combinan campos externos con una corriente considerable en el plasma. La operación mediante transformador es naturalmente pulsada, pero sistemas adicionales de generación de corriente permiten perseguir descargas largas o estacionarias. Por tanto, los stellarators no son los únicos que buscan continuidad. Las dificultades se distribuyen de otra forma: controlar la corriente del plasma frente a fabricar una geometría magnética compleja. [Max Planck IPP: stellarators](https://www.ipp.mpg.de/9792/stellarator)"
+    },
+    {
+      "type": "heading",
+      "text": "DÉCADAS DE INVESTIGACIÓN ANTES DE LA EMPRESA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El National Institute for Fusion Science, NIFS, lleva décadas estudiando esta vía. El Large Helical Device inició sus experimentos de plasma el 31 de marzo de 1998 y terminó la campaña el 25 de diciembre de 2025, después de más de 200.000 descargas. Es una base científica extensa, no una trayectoria de venta de electricidad de fusión. Los resultados de investigación no se trasladan automáticamente a una central productora de neutrones. [NIFS: historia experimental de LHD](https://www-lhd.nifs.ac.jp/pub/index_e.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Helical Fusion, fundada en 2021, se apoya en esa investigación japonesa. La compañía describe un grupo conjunto creado con NIFS en 2024, y la fase 1 de HARUKA se construye en un espacio dedicado del instituto en Toki. La relación aporta conocimientos e instalaciones. No convierte el calendario comercial de la empresa en un resultado establecido de forma independiente. [Helical Fusion: emplazamiento de la fase 1 (marzo de 2026)](https://www.helicalfusion.com/post/核融合による次世代クリーンエネルギーをめざすhelical-fusion、最終実証装置「helix-haruka」phase-1の建設地を公表)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japón no apuesta exclusivamente por máquinas helicoidales. JT-60SA, un tokamak superconductor construido mediante cooperación entre Japón y Europa, obtuvo su primer plasma en octubre de 2023. Su finalidad es apoyar la investigación de la fusión futura, incluido ITER. Laboratorios públicos y empresas exploran vías complementarias, no un único diseño nacional. [QST: primer plasma de JT-60SA](https://www.qst.go.jp/site/press/20231024-1.html)"
+    },
+    {
+      "type": "heading",
+      "text": "HARUKA: DOS FASES, PREGUNTAS DIFERENTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fase 1 busca comprobar que el sistema tridimensional de imanes superconductores puede fabricarse y energizarse como está previsto. En marzo de 2026, Helical Fusion anunció el emplazamiento en NIFS y explicó que la fabricación y construcción ya estaban en marcha. La energización se plantea para 2027. Encender el imán sería un hito de ingeniería, no la prueba de un plasma autosostenido por fusión ni de una central eléctrica. [Helical Fusion: emplazamiento de la fase 1 (marzo de 2026)](https://www.helicalfusion.com/post/核融合による次世代クリーンエネルギーをめざすhelical-fusion、最終実証装置「helix-haruka」phase-1の建設地を公表)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fase 2 pretende integrar los imanes con las tecnologías del manto y del divertor, además de los sistemas necesarios para plasmas prolongados. Los ensayos integrados se sitúan alrededor de 2030. El anuncio de marzo no reveló la ubicación de esta fase. Una secuencia prevista de integración no equivale a un reactor ya montado y en funcionamiento. [Helical Fusion: emplazamiento de la fase 1 (marzo de 2026)](https://www.helicalfusion.com/post/核融合による次世代クリーンエネルギーをめざすhelical-fusion、最終実証装置「helix-haruka」phase-1の建設地を公表) [Helical Fusion: calendario y objetivos](https://www.helicalfusion.com/helixprogram?lang=en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fases también separan tipos de evidencia. Un conductor puede transportar corriente mientras una bobina completa todavía presenta problemas mecánicos o térmicos. Un sistema magnético funcional puede preceder a un experimento de plasma exitoso. Un plasma duradero puede preceder a una conversión eficiente del calor en electricidad. Cada etapa reduce incertidumbres sin demostrar automáticamente la siguiente."
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ IMPORTAN LOS IMANES REBCO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El programa utiliza un superconductor de alta temperatura llamado REBCO, un óxido de tierras raras, bario y cobre. Pese al nombre, esta aplicación sigue necesitando refrigeración criogénica. Su atractivo es transportar corrientes elevadas en campos intensos en condiciones útiles para la ingeniería de fusión. El plasma caliente y los imanes fríos deben permanecer térmicamente separados. [Helical Fusion: ensayo REBCO (febrero de 2024)](https://www.helicalfusion.com/post/高温超伝導導体の通電試験が成功-商用炉実現へまた一歩前進しました) [NIFS: desafíos de ingeniería](https://soken.nifs.ac.jp/archives/about/program_eng/reactor_eng?lang=eng)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Helical Fusion comunicó en febrero de 2024 una prueba de conductor a 19 kiloamperios, 20 kelvin y 8 teslas. Son condiciones declaradas por la empresa para un conductor, no parámetros del plasma de HARUKA. Una actualización de julio de 2025 describía una bobina de ensayo fabricada por Metal Technology Co., Ltd. y preparada para pruebas en NIFS. Reuters informó posteriormente de un ensayo exitoso de bobina superconductora en 2025. [Helical Fusion: ensayo REBCO (febrero de 2024)](https://www.helicalfusion.com/post/高温超伝導導体の通電試験が成功-商用炉実現へまた一歩前進しました) [Helical Fusion: fabricación de bobinas (julio de 2025)](https://global.helicalfusion.com/post/advancing-our-hts-magnet-development-entering-the-next-phase-of-coil-testing) [Reuters: construcción y objetivos de HARUKA (septiembre de 2026)](https://uk.marketscreener.com/news/japan-s-fusion-energy-startup-to-begin-power-on-tests-at-pilot-reactor-in-2027-ce785adddf8fff22)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El desafío industrial consiste en dar al conductor una hélice tridimensional precisa sin perder prestaciones. Importan las fuerzas electromagnéticas, las uniones, la refrigeración y la protección si se pierde la superconductividad. Una bobina de prueba debe convertirse después en parte de una máquina fiable y reparable. NIFS identifica los conductores de gran corriente y la resistencia mecánica de los imanes como problemas centrales de ingeniería. [NIFS: desafíos de ingeniería](https://soken.nifs.ac.jp/archives/about/program_eng/reactor_eng?lang=eng)"
+    },
+    {
+      "type": "heading",
+      "text": "EL MANTO DEBE HACER MÁS QUE RECOGER CALOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "En una central de deuterio y tritio, los neutrones energéticos abandonan el plasma y depositan energía en las estructuras cercanas. El manto debe capturar calor útil, proteger componentes y producir tritio a partir de litio. El tritio es escaso: la disponibilidad de deuterio en el agua no garantiza todo el combustible. Hace falta un ciclo operativo de recuperación y reciclaje. [ITER: funciones del manto](https://www.iter.org/node/20687/what-will-blanket-teach-us)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El divertor evacua partículas y calor intenso del borde del plasma. Helical Fusion propone un sistema de manto y divertor de metal líquido, cuyo flujo ayudaría a soportar el entorno y transportar calor. Es un concepto en desarrollo. Circulación, corrosión, compatibilidad magnética y recuperación de tritio deben funcionar conjuntamente en condiciones de reactor. [Helical Fusion: imanes y manto de metal líquido](https://www.helicalfusion.com/technology?lang=en) [NIFS: desafíos de ingeniería](https://soken.nifs.ac.jp/archives/about/program_eng/reactor_eng?lang=eng)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Después, el calor debe llegar a un sistema de conversión a temperaturas útiles. Producir energía de fusión dentro del plasma solo inicia esa cadena. ITER probará tecnologías relevantes del manto, pero no está diseñado para producir electricidad. Sus trabajos muestran por qué extraer calor y generar combustible merecen tanta atención como las temperaturas espectaculares. [ITER: de los neutrones a la electricidad](https://www.iter.org/node/20687/turning-neutrons-electricity)"
+    },
+    {
+      "type": "heading",
+      "text": "KANATA Y LA DIFERENCIA ENTRE GANANCIA Y ELECTRICIDAD NETA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Helix KANATA es el demostrador eléctrico de mayor tamaño proyectado por la empresa. Su hoja de ruta lo sitúa en la década de 2030 con tres objetivos: electricidad neta, funcionamiento estacionario y facilidad de mantenimiento. Son ambiciones de diseño, no resultados operativos. HARUKA debe reducir el riesgo técnico antes de ese salto. [Helical Fusion: calendario y objetivos](https://www.helicalfusion.com/helixprogram?lang=en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En septiembre de 2026, Reuters informó de un objetivo empresarial de 50 megavatios netos para KANATA y una central comercial como pronto en la década de 2040. Son etapas distintas de los ensayos magnéticos de 2027. La ambición eléctrica para los años 2030 que aparece en la web y la perspectiva comercial posterior son calendarios condicionados, no fechas de entrega garantizadas. [Reuters: construcción y objetivos de HARUKA (septiembre de 2026)](https://uk.marketscreener.com/news/japan-s-fusion-energy-startup-to-begin-power-on-tests-at-pilot-reactor-in-2027-ce785adddf8fff22)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ganancia energética científica compara la energía de fusión con una entrada definida, a menudo la energía que llega al blanco o calienta el plasma. La electricidad neta exige que toda la instalación genere más electricidad de la que consume, incluida la calefacción del plasma, la refrigeración y las bombas. La viabilidad comercial añade construcción, financiación, mantenimiento, recambios y precios competitivos. [Departamento de Energía de EE. UU.: fusión e ignición](https://www.energy.gov/topics/fusion-energy) [ITER: obstáculos pendientes](https://www.iter.org/fusion-energy/making-it-work)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La operación continua podría hacer más previsible la producción y reducir los arranques repetidos. También obliga a los equipos a resistir exposiciones prolongadas. Las paradas y reparaciones siguen contando: un plasma estable no compensa un manto que tarda demasiado en sustituirse. La elevada disponibilidad buscada por la empresa aún debe demostrarse. [Helical Fusion: calendario y objetivos](https://www.helicalfusion.com/helixprogram?lang=en) [ITER: obstáculos pendientes](https://www.iter.org/fusion-energy/making-it-work)"
+    },
+    {
+      "type": "heading",
+      "text": "UN IMPULSO INDUSTRIAL MÁS ALLÁ DE UNA MÁQUINA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japón revisó su estrategia de innovación en fusión en junio de 2025, adoptó una política de implementación en abril de 2026 y publicó una hoja de ruta de inversión público-privada en julio de 2026. La Oficina del Gabinete también identifica la asociación industrial J-Fusion. El marco conecta laboratorios, fabricación, suministros y futuro despliegue, sin demostrar que se haya entregado una central comercial. [Oficina del Gabinete: estrategia japonesa de fusión](https://www8.cao.go.jp/cstp/fusion/index.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El ecosistema incluye conductores superconductores, fabricación de precisión, criogenia, calentamiento y componentes de calidad nuclear. La colaboración con Metal Technology es un ejemplo concreto. Ambiciones públicas, financiación privada y construcción física miden progresos distintos y no deben sumarse como si todo fuera dinero ya gastado. [Helical Fusion: fabricación de bobinas (julio de 2025)](https://global.helicalfusion.com/post/advancing-our-hts-magnet-development-entering-the-next-phase-of-coil-testing) [Oficina del Gabinete: estrategia japonesa de fusión](https://www8.cao.go.jp/cstp/fusion/index.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para ampliar el contexto sobre investigación, industria y necesidades sociales, consulte nuestros artículos sobre [IA y cuidados de mayores en Japón](/articles/japan-enters-ai-care-era/) y [la transformación industrial japonesa](/articles/japan-samurai-meiji-restoration-modern-empire-history/). La experiencia industrial tampoco garantiza un negocio de fusión exitoso."
+    },
+    {
+      "type": "heading",
+      "text": "UNA CARRERA GLOBAL CON METAS DISTINTAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "El National Ignition Facility estadounidense alcanzó la ignición en 2022 y produjo más energía de fusión que la energía láser entregada a su blanco. Ese límite excluye el consumo eléctrico de toda la instalación y no demuestra electricidad neta. Estados Unidos también investiga el confinamiento magnético. Un resultado con láser no puede clasificarse directamente frente a las pruebas de imanes de HARUKA. [Departamento de Energía de EE. UU.: fusión e ignición](https://www.energy.gov/topics/fusion-energy)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Europa, ITER es un experimento multinacional de tokamak; Wendelstein 7-X, en Alemania, investiga la vía stellarator. China ha avanzado en pulsos largos: su academia comunicó 1.066 segundos de plasma de alto confinamiento en EAST el 20 de enero de 2025. La duración importa, pero ese experimento no estableció generación comercial de electricidad. [ITER: de los neutrones a la electricidad](https://www.iter.org/node/20687/turning-neutrons-electricity) [Max Planck IPP: stellarators](https://www.ipp.mpg.de/9792/stellarator) [Academia China de Ciencias: experimento EAST](https://english.cas.cn/newsroom/cas_media/202501/t20250121_899052.shtml)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos programas compiten por talento, capital y capacidad industrial mientras comparten un campo científico. La comparación útil es qué requisitos han demostrado: confinamiento, duración, resistencia de componentes, producción de combustible, electricidad neta y coste. Las distintas máquinas estudian partes diferentes de esa lista."
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ HARÍA QUE LA APUESTA FUNCIONARA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los obstáculos están conectados. Mejorar el confinamiento no basta si los materiales no soportan el daño neutrónico. Una vasija duradera no basta sin tritio y extracción eficiente del calor. Buenos componentes no bastan si el mantenimiento remoto paraliza la central o la ampliación de escala resulta demasiado cara. Física del plasma, ingeniería nuclear y economía deben funcionar juntas. [ITER: obstáculos pendientes](https://www.iter.org/fusion-energy/making-it-work) [ITER: funciones del manto](https://www.iter.org/node/20687/what-will-blanket-teach-us)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La próxima evidencia creíble será concreta: prestaciones magnéticas publicadas, operación integrada satisfactoria, vidas útiles realistas y un balance eléctrico completo. La investigación helicoidal japonesa ofrece una base seria a Helical Fusion. Convertirla en electricidad fiable sigue siendo una cuestión abierta de ingeniería."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen principal es una ilustración conceptual generada con IA. No es una fotografía de HARUKA, KANATA ni de una central japonesa existente. Las fuentes se comprobaron a 2 de octubre de 2026; los calendarios empresariales siguen siendo objetivos."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Reuters: construcción y objetivos de HARUKA (septiembre de 2026)",
+      "url": "https://uk.marketscreener.com/news/japan-s-fusion-energy-startup-to-begin-power-on-tests-at-pilot-reactor-in-2027-ce785adddf8fff22"
+    },
+    {
+      "label": "Helical Fusion: emplazamiento de la fase 1 (marzo de 2026)",
+      "url": "https://www.helicalfusion.com/post/核融合による次世代クリーンエネルギーをめざすhelical-fusion、最終実証装置「helix-haruka」phase-1の建設地を公表"
+    },
+    {
+      "label": "Helical Fusion: calendario y objetivos",
+      "url": "https://www.helicalfusion.com/helixprogram?lang=en"
+    },
+    {
+      "label": "Helical Fusion: imanes y manto de metal líquido",
+      "url": "https://www.helicalfusion.com/technology?lang=en"
+    },
+    {
+      "label": "Helical Fusion: ensayo REBCO (febrero de 2024)",
+      "url": "https://www.helicalfusion.com/post/高温超伝導導体の通電試験が成功-商用炉実現へまた一歩前進しました"
+    },
+    {
+      "label": "Helical Fusion: fabricación de bobinas (julio de 2025)",
+      "url": "https://global.helicalfusion.com/post/advancing-our-hts-magnet-development-entering-the-next-phase-of-coil-testing"
+    },
+    {
+      "label": "NIFS: historia experimental de LHD",
+      "url": "https://www-lhd.nifs.ac.jp/pub/index_e.html"
+    },
+    {
+      "label": "OIEA: confinamiento magnético e inercial",
+      "url": "https://nucleus.iaea.org/sites/connect/FUSEpublic/SitePages/MCF-%26-ICF.aspx"
+    },
+    {
+      "label": "NRC: fisión y fusión",
+      "url": "https://www.nrc.gov/materials/fusion/fission-vs-fusion"
+    },
+    {
+      "label": "Max Planck IPP: stellarators",
+      "url": "https://www.ipp.mpg.de/9792/stellarator"
+    },
+    {
+      "label": "NIFS: desafíos de ingeniería",
+      "url": "https://soken.nifs.ac.jp/archives/about/program_eng/reactor_eng?lang=eng"
+    },
+    {
+      "label": "ITER: funciones del manto",
+      "url": "https://www.iter.org/node/20687/what-will-blanket-teach-us"
+    },
+    {
+      "label": "ITER: de los neutrones a la electricidad",
+      "url": "https://www.iter.org/node/20687/turning-neutrons-electricity"
+    },
+    {
+      "label": "ITER: obstáculos pendientes",
+      "url": "https://www.iter.org/fusion-energy/making-it-work"
+    },
+    {
+      "label": "Oficina del Gabinete: estrategia japonesa de fusión",
+      "url": "https://www8.cao.go.jp/cstp/fusion/index.html"
+    },
+    {
+      "label": "QST: primer plasma de JT-60SA",
+      "url": "https://www.qst.go.jp/site/press/20231024-1.html"
+    },
+    {
+      "label": "Departamento de Energía de EE. UU.: fusión e ignición",
+      "url": "https://www.energy.gov/topics/fusion-energy"
+    },
+    {
+      "label": "Academia China de Ciencias: experimento EAST",
+      "url": "https://english.cas.cn/newsroom/cas_media/202501/t20250121_899052.shtml"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Ha construido Japón un reactor de fusión comercial?",
+      "answer": "No. HARUKA es un proyecto de demostración tecnológica. A 2 de octubre de 2026 no existe ninguna central de fusión comercialmente viable."
+    },
+    {
+      "question": "¿Cuándo empezarán las pruebas de Helix HARUKA?",
+      "answer": "Helical Fusion prevé energizar los imanes de la fase 1 en 2027 y realizar ensayos integrados alrededor de 2030. Son objetivos, no hitos completados."
+    },
+    {
+      "question": "¿En qué se diferencian HARUKA y KANATA?",
+      "answer": "HARUKA pretende demostrar e integrar tecnologías clave. KANATA es la máquina mayor prevista para demostrar electricidad neta, operación estacionaria y mantenibilidad."
+    },
+    {
+      "question": "¿Por qué un reactor helicoidal en vez de un tokamak?",
+      "answer": "Las bobinas externas confinan sin la gran corriente de plasma de un tokamak convencional, lo que favorece la continuidad. Su complejidad sigue siendo un desafío y los tokamaks también buscan operación estacionaria."
+    }
+  ]
+}
