@@ -5,6 +5,7 @@ import { LocalizedInlineText } from "@/components/LocalizedInlineText";
 import { articleLabels } from "@/lib/i18n/article-presentation";
 import { BryanJohnsonGraphics } from "@/components/BryanJohnsonGraphics";
 import { JapanFusionGraphics } from "@/components/JapanFusionGraphics";
+import { EstoniaGraphics } from "@/components/EstoniaGraphics";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
 import type { Locale } from "@/lib/i18n/routing";
@@ -294,6 +295,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             {articleContent.map(({ block, originalIndex }) => {
               if (article.slug === "human-family-tree-human-evolution-species" && (originalIndex === 3 || originalIndex === 5)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HumanEvolutionGraphics locale={locale} kind={originalIndex === 3 ? "timeline" : "tree"} /></div>;
+              }
+              if (article.slug === "estonia-digital-government-e-id-x-road" && [7,13,31].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><EstoniaGraphics locale={locale} kind={originalIndex === 7 ? "timeline" : originalIndex === 13 ? "flow" : "voting"} /></div>;
               }
               if (article.slug === "japan-fusion-helix-haruka-helical-fusion" && (originalIndex === 9 || originalIndex === 17)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><JapanFusionGraphics locale={locale} kind={originalIndex === 9 ? "compare" : "timeline"} /></div>;
