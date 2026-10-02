@@ -1,14 +1,17 @@
 "use client";
 
+import type { Locale } from "@/lib/i18n/routing";
+import { listingMessages } from "@/lib/i18n/listing-messages";
+import { localizedCategories, messages } from "@/lib/i18n/messages";
 import { Search } from "lucide-react";
 import { useMemo, useState } from "react";
 import type { ArticleCategory } from "@/data/articles";
 import type { ArticleListRecord } from "@/lib/articleCards";
 import { ArticleCard } from "@/components/ArticleCard";
 import { articleMatchesSearch } from "@/lib/articleSearch";
-import { categoryLabels } from "@/lib/categories";
 
 type ArticleBrowserProps = {
+  locale?: Locale;
   articles: ArticleListRecord[];
   categories: ArticleCategory[];
   initialCategory?: ArticleCategory | "ALL";
@@ -16,7 +19,9 @@ type ArticleBrowserProps = {
   compact?: boolean;
 };
 
-export function ArticleBrowser({ articles, categories, initialCategory = "ALL", initialQuery = "", compact = false }: ArticleBrowserProps) {
+export function ArticleBrowser({ articles, categories, initialCategory = "ALL", initialQuery = "", compact = false, locale = "en" }: ArticleBrowserProps) {
+  const t = listingMessages[locale];
+  const categoryLabels = localizedCategories[locale];
   const [query, setQuery] = useState(initialQuery);
   const [category, setCategory] = useState<ArticleCategory | "ALL">(initialCategory);
   const [sort, setSort] = useState("latest");
@@ -35,22 +40,22 @@ export function ArticleBrowser({ articles, categories, initialCategory = "ALL", 
     <section>
       <div className={`${compact ? "mb-3 p-3" : "mb-4 p-2 sm:p-3"} grid min-w-0 gap-2 rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] sm:grid-cols-[minmax(0,1fr)_auto_auto]`}>
         <label className="relative min-w-0">
-          <Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-[color:var(--muted)]" strokeWidth={1.5} />
+          <Search className="pointer-events-none absolute start-4 top-1/2 h-4 w-4 -translate-y-1/2 text-[color:var(--muted)]" strokeWidth={1.5} />
           <input
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Search articles..."
-            aria-label="Search articles"
-            className="min-h-11 w-full rounded-lg border border-[color:var(--border)] bg-[color:var(--bg)] pl-11 pr-4 text-sm outline-none transition focus:border-[#FF1A1A]"
+            placeholder={messages[locale].searchPlaceholder}
+            aria-label={messages[locale].search}
+            className="min-h-11 w-full rounded-lg border border-[color:var(--border)] bg-[color:var(--bg)] ps-11 pe-4 text-sm outline-none transition focus:border-[#FF1A1A]"
           />
         </label>
         <select
           value={category}
           onChange={(event) => setCategory(event.target.value as ArticleCategory | "ALL")}
           className="min-h-11 w-full min-w-0 rounded-lg border border-[color:var(--border)] bg-[color:var(--bg)] px-4 text-sm outline-none transition focus:border-[#FF1A1A] sm:w-auto"
-          aria-label="Filter by category"
+          aria-label={t.filter}
         >
-          <option value="ALL">All Categories</option>
+          <option value="ALL">{t.allCategories}</option>
           {categories.map((item) => (
             <option key={item} value={item}>
               {categoryLabels[item]}
@@ -61,22 +66,22 @@ export function ArticleBrowser({ articles, categories, initialCategory = "ALL", 
           value={sort}
           onChange={(event) => setSort(event.target.value)}
           className="min-h-11 w-full min-w-0 rounded-lg border border-[color:var(--border)] bg-[color:var(--bg)] px-4 text-sm outline-none transition focus:border-[#FF1A1A] sm:w-auto"
-          aria-label="Sort articles"
+          aria-label={t.sort}
         >
-          <option value="latest">Latest First</option>
-          <option value="oldest">Oldest First</option>
+          <option value="latest">{t.newest}</option>
+          <option value="oldest">{t.oldest}</option>
         </select>
       </div>
 
       <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
         {filtered.map((article) => (
-          <ArticleCard key={article.id} article={article} />
+          <ArticleCard locale={locale} key={article.id} article={article} />
         ))}
       </div>
 
       {filtered.length === 0 ? (
         <div className="rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] p-8 text-center text-[color:var(--muted)]">
-          No articles found for this search.
+          {t.empty}
         </div>
       ) : null}
     </section>

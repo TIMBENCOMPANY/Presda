@@ -1,10 +1,6 @@
 import type { Metadata } from "next";
-import { toArticleListRecord } from "@/lib/articleCards";
-import { categories } from "@/data/articles";
-import { ArticleBrowser } from "@/components/ArticleBrowser";
-import { getPublishedArticles } from "@/data/articles";
-import { breadcrumbJsonLd, createPageMetadata } from "@/lib/seo";
-
+import { createPageMetadata } from "@/lib/seo";
+import { ArticlesPageContent } from "@/components/ArticlesPageContent";
 export const metadata: Metadata = createPageMetadata({
   title: "Latest Articles",
   description: "Search and filter the latest PRESDA articles across AI, business, sport, world, paparazzi, lifestyle, travel, science, and World Cup 2026 coverage.",
@@ -13,30 +9,4 @@ export const metadata: Metadata = createPageMetadata({
 
 export const revalidate = 3600;
 
-export default function ArticlesPage() {
-  const articles = getPublishedArticles();
-
-  return (
-    <main className="mx-auto w-[min(1500px,calc(100%-24px))] py-4 sm:w-[min(1500px,calc(100%-32px))] sm:py-6">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(
-            breadcrumbJsonLd([
-              { name: "Home", url: "/" },
-              { name: "Articles", url: "/articles/" }
-            ])
-          )
-        }}
-      />
-      <header className="mb-4 border-t border-[#FF1A1A]/45 pt-3">
-        <p className="font-display text-[10px] font-extrabold uppercase tracking-[0.18em] text-[#FF1A1A] sm:text-xs">Article Library</p>
-        <h1 className="mt-2 text-balance font-display text-[clamp(1.8rem,8vw,2.25rem)] font-extrabold uppercase leading-[1] text-[color:var(--text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-5xl sm:leading-none">Latest Articles</h1>
-        <p className="mt-2 max-w-2xl text-sm leading-5 text-[color:var(--muted)]">
-          Browse PRESDA stories by category, search for topics, and sort the newsroom feed by date.
-        </p>
-      </header>
-      <ArticleBrowser articles={articles.map(toArticleListRecord)} categories={categories} />
-    </main>
-  );
-}
+export default function ArticlesPage() { return <ArticlesPageContent />; }

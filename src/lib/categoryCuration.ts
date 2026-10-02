@@ -1,7 +1,7 @@
 import type { Article, ArticleCategory } from "@/data/articles";
 import { featuredHeroSlugs, evergreenStorySlugs } from "@/lib/homeCuration";
 
-export type CategoryStory = Pick<Article, "slug" | "title" | "category" | "date" | "readingTime" | "coverImage" | "coverAlt" | "homepageImagePosition" | "headlineHighlights" | "headlineAccent">;
+export type CategoryStory = Pick<Article, "slug" | "title" | "category" | "date" | "readingTime" | "coverImage" | "coverAlt" | "homepageImagePosition" | "headlineHighlights" | "headlineAccent"> & { href?: string };
 
 export function toCategoryStory(article: Article): CategoryStory {
   const { slug, title, category, date, readingTime, coverImage, coverAlt, homepageImagePosition, headlineHighlights, headlineAccent } = article;

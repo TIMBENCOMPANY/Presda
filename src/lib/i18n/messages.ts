@@ -50,6 +50,13 @@ export const messages: Record<Locale, Messages> = {
   }
 };
 
+export const brandLabels: Record<Locale, { home: string; logo: string; on: string; email: string }> = {
+  en: { home: "PRESDA home", logo: "PRESDA P logo", on: "PRESDA on", email: "Email PRESDA" },
+  fr: { home: "Accueil PRESDA", logo: "Logo PRESDA avec la lettre P", on: "PRESDA sur", email: "Écrire à PRESDA" },
+  ar: { home: "صفحة PRESDA الرئيسية", logo: "شعار PRESDA بحرف P", on: "PRESDA على", email: "مراسلة PRESDA بالبريد الإلكتروني" },
+  es: { home: "Inicio de PRESDA", logo: "Logotipo de PRESDA con la letra P", on: "PRESDA en", email: "Enviar un correo a PRESDA" }
+};
+
 export const localizedCategories: Record<Locale, Record<ArticleCategory, string>> = {
   en: { World: "World", Sport: "Sport", Business: "Business", AI: "AI", Science: "Science", History: "History", Travel: "Travel", Lifestyle: "Lifestyle", Paparazzi: "Paparazzi", "World Cup 2026": "World Cup 2026" },
   ar: { World: "العالم", Sport: "الرياضة", Business: "الأعمال", AI: "الذكاء الاصطناعي", Science: "العلوم", History: "التاريخ", Travel: "السفر", Lifestyle: "أسلوب الحياة", Paparazzi: "المشاهير", "World Cup 2026": "كأس العالم 2026" },

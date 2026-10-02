@@ -11,13 +11,9 @@ import { loadSearchIndex } from "@/lib/loadSearchIndex";
 import { searchArticles } from "@/lib/articleSearch";
 import { formatDate, toCategorySlug } from "@/lib/categories";
 import { LanguageSelector } from "@/components/LanguageSelector";
-import { languageDestination, englishPathFor, type Locale, type TranslationRoute } from "@/lib/i18n/routing";
-import { localizedCategories, messages } from "@/lib/i18n/messages";
-import publishedRoutes from "@/data/translation-routes.json";
-
-// Shared, cacheable client data instead of repeating this map in every RSC/HTML
-// response. The build prepares it from the same published translation registry.
-const routes = publishedRoutes as TranslationRoute[];
+import { languageDestination, englishPathFor, type Locale } from "@/lib/i18n/routing";
+import { brandLabels, localizedCategories, messages } from "@/lib/i18n/messages";
+import { middlewareTranslationRoutes as routes } from "@/lib/i18n/route-index";
 
 const navLinks = [
   { href: "/about/", label: "About Us", icon: Info },
@@ -248,8 +244,8 @@ export function Header({ locale = "en" }: { locale?: Locale }) {
         <LanguageSelector key={pathname} locale={locale} routes={routes} dismiss={open || searchOpen || searchFocused} onOpen={() => { setOpen(false); closeSearch(); }} />
         </div>
 
-        <Link prefetch={false} href={destination("/")} aria-label="PRESDA home" className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
-          <Image src="/presda-p-transparent.png" alt="PRESDA P logo" width={156} height={104} priority className="h-14 w-auto origin-center scale-[1.2] object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-[72px] lg:scale-[1.3]" />
+        <Link prefetch={false} href={destination("/")} aria-label={brandLabels[locale].home} className="absolute left-1/2 top-1/2 z-10 grid h-16 w-24 -translate-x-1/2 -translate-y-1/2 place-items-center lg:h-[76px] lg:w-32">
+          <Image src="/presda-p-transparent.png" alt={brandLabels[locale].logo} width={156} height={104} priority className="h-14 w-auto origin-center scale-[1.2] object-contain drop-shadow-[0_0_14px_rgba(255,26,26,0.34)] lg:h-[72px] lg:scale-[1.3]" />
         </Link>
 
         <div className="absolute end-0 top-1/2 flex -translate-y-1/2 items-center justify-end gap-1.5 sm:gap-3">

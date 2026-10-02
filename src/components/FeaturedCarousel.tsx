@@ -1,22 +1,27 @@
 "use client";
 
+import type { Locale } from "@/lib/i18n/routing";
+import { listingMessages, listingDate } from "@/lib/i18n/listing-messages";
+import { localizedCategories } from "@/lib/i18n/messages";
 import Image from "next/image";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, Pause, Play } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 import { HomeImage } from "@/components/HomeImage";
 import { HeadlineText } from "@/components/HeadlineText";
-import { categoryLabels, formatDate } from "@/lib/categories";
 import { getArticleCardImage, getArticleHeroImagePosition } from "@/lib/articleImages";
 import type { CategoryStory } from "@/lib/categoryCuration";
 
 type FeaturedCarouselProps = {
   slides: CategoryStory[];
   sideStories: CategoryStory[];
+  locale?: Locale;
   variant?: "category" | "home";
 };
 
-export function FeaturedCarousel({ slides, sideStories, variant = "category" }: FeaturedCarouselProps) {
+export function FeaturedCarousel({ slides, sideStories, variant = "category", locale = "en" }: FeaturedCarouselProps) {
+  const t = listingMessages[locale];
+  const categoryLabels = localizedCategories[locale];
   const isHome = variant === "home";
   const StoryImage = isHome ? HomeImage : Image;
   const [active, setActive] = useState(0);
@@ -81,9 +86,9 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category" }: 
     : sideStories;
 
   return (
-    <section aria-label="Featured articles" className={`category-featured ${isHome ? "home-featured-carousel" : ""} grid gap-4 ${!isHome && sideStories.length ? "lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)]" : ""}`}>
+    <section aria-label={t.featured} className={`category-featured ${isHome ? "home-featured-carousel" : ""} grid gap-4 ${!isHome && sideStories.length ? "lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)]" : ""}`}>
       <div
-        role="region" aria-roledescription="carousel" aria-label={isHome ? "PRESDA featured stories" : `${categoryLabels[slides[0].category]} featured stories`}
+        role="region" aria-roledescription={t.carousel} aria-label={locale === "en" ? (isHome ? "PRESDA featured stories" : `${categoryLabels[slides[0].category]} featured stories`) : t.featured}
         className="min-w-0 overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white"
         onMouseEnter={() => { if (!isHome) setHovered(true); }} onMouseLeave={() => { if (!isHome) setHovered(false); }}
         onPointerEnter={event => { if (isHome && event.pointerType === "mouse") setHovered(true); }}
@@ -101,7 +106,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category" }: 
           touch.current = null;
           if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy)) {
             suppressClick.current = isHome;
-            move(dx < 0 ? 1 : -1);
+            move((dx < 0 ? 1 : -1) * (locale === "ar" ? -1 : 1));
           } else if (isHome) setPaused(false);
         }}
         onTouchCancel={() => { touch.current = null; if (isHome) setPaused(false); }}
@@ -114,9 +119,9 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category" }: 
             const Title = isHome && index === active ? "h1" : "h2";
             const preload = isHome && (index === (active + 1) % slides.length || index === (active + slides.length - 1) % slides.length || index === pending);
             return (
-            <article key={article.slug} aria-hidden={index !== active} aria-label={`${index + 1} of ${slides.length}`} aria-roledescription="slide"
+            <article key={article.slug} aria-hidden={index !== active} aria-label={`${index + 1} ${t.of} ${slides.length}`} aria-roledescription={t.slide}
               className={`relative col-start-1 row-start-1 transition-opacity duration-700 motion-reduce:transition-none ${index === active ? "z-10 opacity-100" : "pointer-events-none opacity-0"}`}>
-              <Link prefetch={index === active ? undefined : false} href={`/articles/${article.slug}/`} tabIndex={index === active ? 0 : -1} className="group block h-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-[#FF1A1A]">
+              <Link prefetch={index === active ? undefined : false} href={article.href ?? `/articles/${article.slug}/`} tabIndex={index === active ? 0 : -1} className="group block h-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-[#FF1A1A]">
                 <div className="category-featured-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
                   {(index === active || visited.includes(index) || preload || (isHome && readyImages.includes(index))) && <StoryImage src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
                     loading={isHome && index !== 0 ? "eager" : undefined}
@@ -124,7 +129,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category" }: 
                     sizes={isHome ? "(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1535px) 65vw, 1000px" : "(max-width: 1023px) calc(100vw - 24px), (max-width: 1536px) 65vw, 1000px"}
                     className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 42%" }} />}
                   <p className={`category-featured-image-meta absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-x-3 gap-y-1 bg-gradient-to-t from-black/90 via-black/70 to-transparent pr-3 pb-2 pt-6 text-[11px] font-medium text-white ${isHome ? "z-10" : "sm:hidden"} ${slides.length > 1 ? "pl-20" : "pl-3"}`}>
-                    <time dateTime={article.date}>{formatDate(article.date)}</time><span>{article.readingTime}</span>
+                    <time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span>
                   </p>
                 </div>
                 <div className="pointer-events-none absolute inset-0 hidden bg-gradient-to-t from-black via-black/35 to-transparent lg:block" />
@@ -133,32 +138,32 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category" }: 
                   <Title className="max-w-[28ch] text-balance font-display text-2xl font-extrabold uppercase leading-tight sm:text-3xl lg:text-4xl">
                     <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
                   </Title>
-                  {!isHome && <p className="mt-4 hidden flex-wrap gap-x-3 gap-y-1 text-xs text-white/80 sm:flex"><time dateTime={article.date}>{formatDate(article.date)}</time><span>{article.readingTime}</span></p>}
+                  {!isHome && <p className="mt-4 hidden flex-wrap gap-x-3 gap-y-1 text-xs text-white/80 sm:flex"><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span></p>}
                 </div>
               </Link>
             </article>
           );})}
           {slides.length > 1 && <div className={`pointer-events-none absolute inset-x-0 top-0 z-20 flex aspect-video items-center justify-between px-1 ${isHome ? "lg:bottom-0 lg:aspect-auto" : "sm:hidden"}`}>
-            <span className="category-image-counter absolute bottom-1.5 left-3 rounded-md border border-white/20 bg-black/60 px-1.5 py-0.5 text-[10px] leading-[14px] tabular-nums text-white/90 shadow-sm backdrop-blur-sm">{String(active + 1).padStart(2, "0")} / {String(slides.length).padStart(2, "0")}</span>
-            <button type="button" onClick={() => move(-1)} aria-label="Previous featured article" className="category-image-arrow pointer-events-auto grid h-11 w-11 place-items-center rounded-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
-              <span><ChevronLeft className="h-5 w-5" /></span>
+            <span dir="ltr" className="category-image-counter absolute bottom-1.5 left-3 rounded-md border border-white/20 bg-black/60 px-1.5 py-0.5 text-[10px] leading-[14px] tabular-nums text-white/90 shadow-sm backdrop-blur-sm">{String(active + 1).padStart(2, "0")} / {String(slides.length).padStart(2, "0")}</span>
+            <button type="button" onClick={() => move(-1)} aria-label={t.previous} className="category-image-arrow pointer-events-auto grid h-11 w-11 place-items-center rounded-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
+              <span><ChevronLeft className={`h-5 w-5 ${locale === "ar" ? "rotate-180" : ""}`} /></span>
             </button>
-            <button type="button" onClick={() => move(1)} aria-label="Next featured article" className="category-image-arrow pointer-events-auto grid h-11 w-11 place-items-center rounded-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
-              <span><ChevronRight className="h-5 w-5" /></span>
+            <button type="button" onClick={() => move(1)} aria-label={t.next} className="category-image-arrow pointer-events-auto grid h-11 w-11 place-items-center rounded-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
+              <span><ChevronRight className={`h-5 w-5 ${locale === "ar" ? "rotate-180" : ""}`} /></span>
             </button>
           </div>}
         </div>
         {!isHome && slides.length > 1 && <div className="category-featured-controls hidden items-center justify-between gap-3 border-t border-white/15 px-4 py-2 sm:flex">
-          <span className="text-xs tabular-nums text-white/80">{String(active + 1).padStart(2, "0")} / {String(slides.length).padStart(2, "0")}</span>
+          <span dir="ltr" className="text-xs tabular-nums text-white/80">{String(active + 1).padStart(2, "0")} / {String(slides.length).padStart(2, "0")}</span>
           <div className="flex gap-1">
-            <button type="button" onClick={() => move(-1)} aria-label="Previous featured article" className="hidden h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A] sm:grid"><ChevronLeft className="h-5 w-5" /></button>
-            {!reducedMotion && <button type="button" onClick={() => setPaused(value => !value)} aria-label={paused ? "Play featured rotation" : "Pause featured rotation"} className="grid h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">{paused ? <Play className="h-4 w-4" /> : <Pause className="h-4 w-4" />}</button>}
-            <button type="button" onClick={() => move(1)} aria-label="Next featured article" className="hidden h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A] sm:grid"><ChevronRight className="h-5 w-5" /></button>
+            <button type="button" onClick={() => move(-1)} aria-label={t.previous} className="hidden h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A] sm:grid"><ChevronLeft className={`h-5 w-5 ${locale === "ar" ? "rotate-180" : ""}`} /></button>
+            {!reducedMotion && <button type="button" onClick={() => setPaused(value => !value)} aria-label={paused ? t.play : t.pause} className="grid h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">{paused ? <Play className="h-4 w-4" /> : <Pause className="h-4 w-4" />}</button>}
+            <button type="button" onClick={() => move(1)} aria-label={t.next} className="hidden h-11 w-11 place-items-center rounded-lg transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A] sm:grid"><ChevronRight className={`h-5 w-5 ${locale === "ar" ? "rotate-180" : ""}`} /></button>
           </div>
         </div>}
       </div>
       {sideStories.length > 0 && <div className="category-supporting grid min-w-0 gap-4 sm:grid-cols-2 lg:grid-cols-1">
-        {supportingStories.map(article => <Link key={article.slug} href={`/articles/${article.slug}/`} className="category-supporting-card group relative overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
+        {supportingStories.map(article => <Link key={article.slug} href={article.href ?? `/articles/${article.slug}/`} className="category-supporting-card group relative overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
           <div className="category-supporting-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
             <StoryImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes={isHome ? "(max-width: 639px) 112px, (max-width: 1023px) 144px, (max-width: 1535px) 33vw, 500px" : "(max-width: 639px) 112px, (max-width: 1023px) 50vw, 500px"} className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 35%" }} />
           </div>
@@ -166,11 +171,10 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category" }: 
           <div className="category-supporting-copy relative flex flex-col justify-end p-5 lg:h-full lg:min-h-[260px]">
             <p className="category-supporting-label mb-2 font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</p>
             <h2 className="text-balance font-display text-xl font-extrabold uppercase leading-tight"><HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} /></h2>
-            <p className="category-supporting-meta mt-3 text-xs text-white/80"><time className="mr-2 sm:hidden" dateTime={article.date}>{formatDate(article.date)}</time>{isHome ? <span className="home-supporting-reading-time">{article.readingTime}</span> : article.readingTime}</p>
+            <p className="category-supporting-meta mt-3 text-xs text-white/80"><time className="mr-2 sm:hidden" dateTime={article.date}>{listingDate(article.date, locale)}</time>{isHome ? <span className="home-supporting-reading-time">{article.readingTime}</span> : article.readingTime}</p>
           </div>
         </Link>)}
       </div>}
     </section>
   );
 }
-

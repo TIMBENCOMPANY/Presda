@@ -544,6 +544,10 @@ select {
 .home-latest-nav:focus-visible { outline: 2px solid var(--home-red); outline-offset: -2px; }
 .home-latest-prev { left: 0; }
 .home-latest-next { right: 0; }
+html[dir="rtl"] .home-latest-prev { left: auto; right: 0; }
+html[dir="rtl"] .home-latest-next { right: auto; left: 0; }
+html[dir="rtl"] .home-latest-heading { border-left: 0; border-right: 4px solid var(--home-red); padding-left: 0; padding-right: 12px; }
+html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
 .home-more-articles a > div:first-child { aspect-ratio: 16 / 9; }
 .home-more-articles img { object-fit: contain; }
 @media (min-width: 640px) {

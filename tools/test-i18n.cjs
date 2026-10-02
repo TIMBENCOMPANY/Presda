@@ -24,6 +24,7 @@ const React = require('react');
 let testPath = '/';
 const originalLoad = Module._load;
 Module._load = function(name, parent, isMain) {
+  if (name === 'server-only') return {};
   if (name === 'next/navigation') return { usePathname: () => testPath, useRouter: () => ({ push() {} }) };
   if (name === 'next/font/google') return { Barlow_Condensed: () => ({ variable: '' }), Inter: () => ({ variable: '' }), Orbitron: () => ({ variable: '' }) };
   return originalLoad.call(this, name, parent, isMain);
@@ -101,9 +102,10 @@ for (const locale of ['ar', 'fr', 'es']) {
 const { NextRequest } = require('next/server');
 const { middleware } = require('../src/middleware.ts');
 for (const locale of ['ar','fr','es']) {
-  const response = middleware(new NextRequest(`https://presda.com/${locale}${englishPath}?q=test`));
+  // Article translations are complete; use an untranslated utility page for fallback coverage.
+  const response = middleware(new NextRequest(`https://presda.com/${locale}/about/?q=test`));
   assert.equal(response.status, 307);
-  assert.equal(response.headers.get('location'), `https://presda.com${englishPath}?q=test`);
+  assert.equal(response.headers.get('location'), 'https://presda.com/about/?q=test');
   assert.equal(response.headers.get('x-robots-tag'), 'noindex');
 }
 assert.equal(JSON.stringify(translations), publicationSnapshot, 'Test fixtures must stay outside publication data');
@@ -118,7 +120,8 @@ async function testPublishedRoutes() {
     registry.translationRoutes.splice(0, registry.translationRoutes.length, ...routes);
     middlewareTranslationRoutes.splice(0, middlewareTranslationRoutes.length, ...routes);
     const page = require('../src/app/[locale]/[[...segments]]/page.tsx');
-    assert.equal(page.generateStaticParams().length, 3);
+    const { listingRoutes } = require('../src/lib/i18n/listing-routes.ts');
+    assert.equal(page.generateStaticParams().length, 3 + listingRoutes.length);
     for (const route of routes) {
       const props = { params: Promise.resolve({ locale: route.locale, segments: route.path.split('/').filter(Boolean).slice(1) }) };
       const metadata = await page.generateMetadata(props);

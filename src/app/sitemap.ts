@@ -1,3 +1,4 @@
+import { listingRoutes } from "@/lib/i18n/listing-routes";
 import type { MetadataRoute } from "next";
 import { publishedTranslations, getLanguageAlternates } from "@/lib/i18n/registry";
 import { isEnglishPage } from "@/lib/i18n/english";
@@ -49,6 +50,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     if (!isEnglishPage(record.englishPath)) throw new Error(`Missing English source: ${record.path}`);
   }
   return [
+    ...listingRoutes.map(route => ({ url: `${siteUrl}${route.path}`, lastModified: new Date(latestPublishedUpdate), alternates: { languages: getLanguageAlternates(route.path) } })),
     ...publishedTranslations.map((record) => ({
       url: `${siteUrl}${record.path}`,
       lastModified: new Date(record.updatedAt),
