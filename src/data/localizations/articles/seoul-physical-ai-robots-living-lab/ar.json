@@ -1,0 +1,371 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/seoul-physical-ai-robots-living-lab/",
+  "path": "/ar/articles/seoul-physical-ai-robots-living-lab/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex ar editorial and source-parity review",
+    "reviewedAt": "2026-10-03",
+    "terminologyChecked": true
+  },
+  "title": "سيول تريد أن تصبح مختبراً حياً للروبوتات والذكاء الاصطناعي المادي",
+  "excerpt": "تنقل بعض الخدمات ركاباً بالفعل ضمن نطاق محدود. وتريد سيول توسيع التجربة لتدخل الروبوتات والأنظمة الذاتية تفاصيل الحياة اليومية، مع أسئلة حاسمة عن حقوق السكان وسلامتهم.",
+  "headlineHighlights": {
+    "red": "سيول",
+    "gold": "الذكاء الاصطناعي المادي"
+  },
+  "seoTitle": "سيول والذكاء الاصطناعي المادي: مدينة تختبر الروبوتات",
+  "description": "داخل خطة سيول للذكاء الاصطناعي المادي: محور يانغجي وسوسو، الروبوتات والنقل الذاتي، مواعيد المشاريع وحدودها وأسئلة السلامة والخصوصية.",
+  "keywords": [
+    "سيول الذكاء الاصطناعي المادي",
+    "روبوتات كوريا الجنوبية",
+    "روبوتات سيول",
+    "Physical AI",
+    "روبوتات بشرية كوريا الجنوبية",
+    "مركبات سيول ذاتية القيادة",
+    "الروبوتات الكورية",
+    "سيول المدينة الذكية",
+    "روبوتات الذكاء الاصطناعي",
+    "مدن المستقبل"
+  ],
+  "searchIntent": "فهم استراتيجية سيول للذكاء الاصطناعي المادي والتمييز بين الخدمات القائمة والتجارب والخطط المستقبلية.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-03",
+  "updatedAt": "2026-10-03",
+  "image": {
+    "src": "/articles/seoul-physical-ai-robots.png",
+    "alt": "رسم تحريري لشارع مستقبلي في سيول يضم روبوتات وحافلة تبدو ذاتية القيادة، وليس صورة توثق خدمات منشورة فعلياً"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "في الثالثة والنصف فجراً، قد يتجسد وعد المدينة الذكية في أمر بسيط: وصول حافلة قبل زحام الصباح المعتاد. عند إعلان خط A148 الذاتي في أبريل 2026، ربطت سيول التقنية باحتياجات من يتنقلون باكراً. وتجمع الحافلات بين الاستشعار على متنها ومعلومات إشارات المرور. هذه بداية أكثر فائدة لفهم طموح المدينة من مشهد متخيل لأرصفة تعج بالروبوتات البشرية. [سيول: إطلاق A148 في أبريل 2026](https://english.seoul.go.kr/seoul-to-expand-early-morning-autonomous-bus-service-as-a148-route-launches-april-16/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "في 30 يناير 2026، أعلنت سيول استراتيجية للذكاء الاصطناعي المادي تستهدف تحويل المدينة إلى بيئة مستمرة لاختبار آلات تعمل في العالم الحقيقي. وهي تربط البحث العلمي ومنشآت الروبوتات والخدمات العامة. الطموح يشمل المدينة، لكن التشغيل الحالي أضيق بكثير. فقد ينقل مشروع تجريبي ركاباً حقيقيين من دون أن يصبح خدمة عامة غير مقيدة، كما أن موعد البناء لا يعني افتتاح المنشأة. [سيول: الاستراتيجية المعلنة في 30 يناير 2026](https://english.seoul.go.kr/mayor-oh-se-hoon-unveils-vision-for-seoul-as-a-global-leader-in-physical-ai-turning-the-city-into-a-platform-for-technology-demonstration/)"
+    },
+    {
+      "type": "heading",
+      "text": "ما هو الذكاء الاصطناعي المادي؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يربط الذكاء الاصطناعي المادي الإدراك واتخاذ القرار بالفعل في البيئة المادية. يفسر الروبوت بيانات الحساسات، ويختار حركة لذراع أو عجلات أو أرجل، ثم يستجيب لما يحدث. إنجاز مهمة فعلية يتطلب أكثر من إنتاج فقرة مقنعة: عليه التعامل مع الاحتكاك والعوائق والتوقيت وعواقب ملامسة إنسان أو جسم. [Google DeepMind: مشروع Gemini Robotics في مارس 2025](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "الذكاء الاصطناعي التوليدي والمادي ليسا فئتين متعارضتين. يمكن للنموذج التوليدي مساعدة الروبوت على فهم التعليمات أو تخطيط الأفعال. وتربط أعمال Gemini Robotics من Google DeepMind الرؤية واللغة بالفعل الروبوتي. لكن الحافلة الذاتية والذراع الصناعية والرفيق الحواري لا تستخدم بالضرورة النماذج نفسها ولا تمتلك قدرات متساوية. إعادة تسمية الأتمتة لا تجعلها ذكاءً عاماً. [Google DeepMind: مشروع Gemini Robotics في مارس 2025](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/)"
+    },
+    {
+      "type": "heading",
+      "text": "لماذا تستثمر سيول؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "ترى المدينة فرصة لربط النمو الصناعي بحاجات ملموسة: التنقل خارج ساعات الخدمة المعتادة، والمساعدة في العمل المجهد، ورعاية كبار السن. خصص برنامج البحث والتطوير لعام 2026 مبلغ 42.5 مليار وون، منها 10.2 مليارات للذكاء الاصطناعي المادي. المبلغ الأصغر جزء من الأكبر وليس إضافة إليه. التمويل يثبت التزاماً سياسياً، لا عائداً اجتماعياً تحقق بالفعل. [سيول: مخصصات البحث والتطوير والتجارب في 2026](https://english.seoul.go.kr/seoul-to-invest-krw-42-5b-in-ai-led-seoul-style-rd-the-largest-in-five-years/) [سيول: روبوتات الرعاية وتجارب الدور في 2024](https://english.seoul.go.kr/elderly-care-becomes-smart-in-seoul-by-using-robots-and-ai-technology-to-keep-seniors-healthy-and-safe/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تمتلك كوريا الجنوبية قاعدة قوية في الأتمتة الصناعية. يورد تقرير World Robotics 2025 للاتحاد الدولي للروبوتات كثافة قدرها 1220 روبوتاً صناعياً لكل عشرة آلاف عامل في التصنيع خلال 2024. هذا مؤشر وطني صناعي، وليس عدد الروبوتات لكل ساكن في سيول أو إحصاءً للروبوتات البشرية في الشوارع. والتحدي هو نقل القدرة التقنية من بيئات مضبوطة نسبياً إلى فضاء عام يتشاركه الناس. [الاتحاد الدولي للروبوتات: بيانات 2024](https://ifr.org/img/worldrobotics/Foreword_WR_2025_Industrial_Robots.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "الحزام المقترح: مركزان بوظيفتين مختلفتين"
+    },
+    {
+      "type": "paragraph",
+      "text": "يربط حزام سيول المقترح للذكاء الاصطناعي المادي تجمع الذكاء الاصطناعي في يانغجي بتجمع الروبوتات في سوسو. يفترض أن يقدم الأول البحث والبرمجيات والكفاءات، وأن يساعد الثاني على تحويلها إلى آلات وشركات. مركز Seoul AI Hub قائم بالفعل، أما AI Tech City فهو مشروع أوسع يستهدف بدء البناء في 2028. [سيول: الاستراتيجية المعلنة في 30 يناير 2026](https://english.seoul.go.kr/mayor-oh-se-hoon-unveils-vision-for-seoul-as-a-global-leader-in-physical-ai-turning-the-city-into-a-platform-for-technology-demonstration/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "افتتح Robot Plus Test Field في سوسو عام 2024. ويستهدف مركز Seoul Robot Tech Center الأكبر الاكتمال في 2030، إلى جانب خطط مرحلية لمساحات الشركات وتجارب الجمهور. إنها منشآت مختلفة في مراحل متفاوتة وليست منطقة روبوتات مكتملة. وتكمن فائدتها المحتملة في تمكين المطورين من الاختبار والتحسين والحصول على الاعتماد قبل توسيع الاستخدام. [سيول: حزام يانغجي وسوسو وتجارب الروبوتات](https://english.seoul.go.kr/embracing-the-era-of-physical-ai-through-a-robot-friendly-city-linking-yangjae-and-suseo/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "أما منطقة يونغسان للأعمال الدولية فهي نموذج استعراضي مقترح منفصل، وليست عقدة ثالثة مكتملة في الحزام. تتصور المدينة فيها عمليات مترابطة وحساسات ومواقف آلية ولوجستيات تحت الأرض. الإعلان يصف المنطقة الذكية المنشودة، ولا يثبت أن هذا النظام المتكامل يعمل اليوم. [سيول: الاستراتيجية المعلنة في 30 يناير 2026](https://english.seoul.go.kr/mayor-oh-se-hoon-unveils-vision-for-seoul-as-a-global-leader-in-physical-ai-turning-the-city-into-a-platform-for-technology-demonstration/)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف تصبح المدينة موقعاً للتجارب؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يصف برنامج البحث والتطوير دوراً عملياً للبلدية: ربط الشركات بمواقع العرض، وفحص القيود التنظيمية، ودعم الاعتماد والتسويق. كما حددت الاستراتيجية النصف الثاني من 2026 موعداً لمركز تجارب توضيحية. وفي الأدلة التي راجعناها يظل ذلك موعداً معلناً؛ فالجدول وحده لا يثبت افتتاح المنشأة. [سيول: مخصصات البحث والتطوير والتجارب في 2026](https://english.seoul.go.kr/seoul-to-invest-krw-42-5b-in-ai-led-seoul-style-rd-the-largest-in-five-years/) [سيول: الاستراتيجية المعلنة في 30 يناير 2026](https://english.seoul.go.kr/mayor-oh-se-hoon-unveils-vision-for-seoul-as-a-global-leader-in-physical-ai-turning-the-city-into-a-platform-for-technology-demonstration/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "من السوابق روبوت التوصيل التابع لشركة Neubility في مخيم نانجي. تقول سيول إنها ساعدت تجربة واجهت قيوداً على أجهزة متحركة ثقيلة داخل الحدائق، وأسهمت في تعديل تنظيمي. فالآلة القابلة للاستخدام تحتاج مساراً قانونياً مثلما تحتاج برمجيات فعالة. رواية البلدية توثق التجربة ودورها فيها، لكنها ليست ضماناً مستقلاً بأن الروبوت موثوق في كل مكان. [سيول: حزام يانغجي وسوسو وتجارب الروبوتات](https://english.seoul.go.kr/embracing-the-era-of-physical-ai-through-a-robot-friendly-city-linking-yangjae-and-suseo/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "وتذكر النظرة البلدية نفسها روبوتات Robotis للتوصيل في حدائق يانغتشون، ومعدات Aetech لفرز النفايات، وروبوتات دوريات الحريق من Irop Robotics. تشمل الأمثلة التوصيل والنفايات والتفتيش، ولا تمثل جرداً شاملاً أو دليلاً على وجود الخدمة في كل حي. نجاح العرض في موقع واحد يترك أسئلة الصيانة والطقس والمشاة والتكلفة في المواقع الأخرى مفتوحة. [سيول: حزام يانغجي وسوسو وتجارب الروبوتات](https://english.seoul.go.kr/embracing-the-era-of-physical-ai-through-a-robot-friendly-city-linking-yangjae-and-suseo/)"
+    },
+    {
+      "type": "heading",
+      "text": "النقل الذاتي: رحلات حقيقية ضمن حدود واضحة"
+    },
+    {
+      "type": "paragraph",
+      "text": "أفادت خريطة الطريق البلدية المنشورة في أغسطس 2026 بوجود 24 مركبة ذاتية في ست مناطق: 16 حافلة وسبع سيارات أجرة ومركبة واحدة تعمل حسب الطلب. وأوردت أكثر من 234 ألف رحلة تراكمية حتى نهاية يوليو. هذا عدد استخدامات، لا عدد سكان مختلفين، ولا يثبت قيادة غير مقيدة بلا سائق. أما 500 حافلة ذاتية بحلول 2030 فهي هدف وليست الأسطول الحالي. [سيول: خريطة طريق أغسطس وحصيلة يوليو 2026](https://english.seoul.go.kr/seoul-to-expand-autonomous-bus-fleet-to-500-and-build-a-transit-network-without-gaps-advancing-toward-a-global-top-3-public-transportation/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "أعلن بيان آخر في أغسطس توسيع خدمة سيارات الأجرة الليلية في غانغنام من سبع إلى 19 مركبة بدءاً من 20 أغسطس. وسجلت المدينة 15140 رحلة مكتملة بين 26 سبتمبر 2024 و31 يوليو 2026، مع بدء تحصيل الأجرة في أبريل 2026. يتيح Kakao T الحجز عبر تطبيق مألوف، لكن شروط التجربة المحدودة تبقى مهمة. ولا يجوز إدخال توسع أغسطس بأثر رجعي في حصيلة البيان الآخر. [سيول: سيارات الأجرة وموعد سانغام المعدل في أغسطس 2026](https://english.seoul.go.kr/late-night-driverless-taxi-service-in-gangnam-to-expand-from-7-vehicles-to-19-expected-to-improve-nighttime-mobility-convenience/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تعالج حافلات الفجر فجوة مختلفة. ويسمي بيان أبريل شركة SUM مشغلاً لخط A148، وشركة Autonomous A2Z لخط A741. وفي A148 وصفت المدينة إتاحة معلومات مراحل الإشارات وتوقيتها عند 98 تقاطعاً. واشترطت جلوس جميع الركاب ومنعت الوقوف. وهذا يوضح أن التشغيل يعتمد على تصميم المسار والقواعد، وليس على قدرة المركبة على التوجيه وحدها. [سيول: إطلاق A148 في أبريل 2026](https://english.seoul.go.kr/seoul-to-expand-early-morning-autonomous-bus-service-as-a148-route-launches-april-16/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تغيرت المواعيد بالفعل. توقعت الاستراتيجية الأولى إطلاق روبوتاكسي من المستوى الرابع في أكتوبر 2026، بينما يشير بيان أغسطس الأحدث إلى نوفمبر في سانغام. يعتمد هذا المقال الموعد الأحدث ولا يعرض الإطلاق كحدث مكتمل. المستوى الرابع يتعلق بالقيادة الآلية ضمن شروط محددة، لا بالسير في كل مكان وكل ظرف. والفائدة العامة تتوقف على نطاق العمل الحقيقي. [سيول: الاستراتيجية المعلنة في 30 يناير 2026](https://english.seoul.go.kr/mayor-oh-se-hoon-unveils-vision-for-seoul-as-a-global-leader-in-physical-ai-turning-the-city-into-a-platform-for-technology-demonstration/) [سيول: سيارات الأجرة وموعد سانغام المعدل في أغسطس 2026](https://english.seoul.go.kr/late-night-driverless-taxi-service-in-gangnam-to-expand-from-7-vehicles-to-19-expected-to-improve-nighttime-mobility-convenience/)"
+    },
+    {
+      "type": "heading",
+      "text": "البنية المحيطة بالروبوت"
+    },
+    {
+      "type": "paragraph",
+      "text": "تسبق بعض الأنظمة الذكية هذه الحملة. يصف مركز TOPIS الرقابة الآلية في Green Traffic Zone منذ ديسمبر 2019، مع ربط التعرف على المركبات بمعلومات الانبعاثات. هذا مثال على الاستشعار وتبادل البيانات والاستجابة الإدارية. لكنه لا يثبت أن كل إشارة مرور في سيول يتحكم بها الذكاء الاصطناعي أو أن شبكة النقل كلها ذاتية. [TOPIS: المنطقة الخضراء والرقابة الآلية](https://topis.seoul.go.kr/openEngGreen.do)"
+    },
+    {
+      "type": "paragraph",
+      "text": "وتحتاج تطبيقات السلامة إلى الدقة نفسها. توثق المدينة عروضاً لروبوتات دوريات الحريق، وتقترح استخدامات أوسع للتفتيش والمساعدة. آلة تحمل كاميرا أو تبلغ عن خطر محتمل ليست خدمة طوارئ مستقلة. يجب أن يؤدي الكشف إلى استجابة بشرية مفيدة، مع تقييم الحوادث الفائتة والإنذارات الكاذبة ومسؤولية الخطأ. [سيول: حزام يانغجي وسوسو وتجارب الروبوتات](https://english.seoul.go.kr/embracing-the-era-of-physical-ai-through-a-robot-friendly-city-linking-yangjae-and-suseo/)"
+    },
+    {
+      "type": "heading",
+      "text": "الرعاية: مساعدة لا وعد باستبدال البشر"
+    },
+    {
+      "type": "paragraph",
+      "text": "تتنوع القصة أكثر من صورة الممرض الروبوتي. وصف بيان بلدي في 2024 توزيع 430 كلباً روبوتياً للرفقة في 2023، وتجربة روبوتين للمساعدة في قضاء الحاجة والتنظيف في دور رعاية بلدية خلال 2024، وتناول معدات إعادة التأهيل. تثبت هذه الأمثلة المؤرخة حدوث التوزيع والتجارب، لا التوافر الشامل في 2026 أو الفعالية السريرية أو انخفاض الحاجة إلى العاملين. [سيول: روبوتات الرعاية وتجارب الدور في 2024](https://english.seoul.go.kr/elderly-care-becomes-smart-in-seoul-by-using-robots-and-ai-technology-to-keep-seniors-healthy-and-safe/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "وتفرض الأدلة المستقلة الحذر. بحثت مراجعة في 2024 نتائج تشمل الوحدة والمزاج والتفاعل الاجتماعي لدى كبار السن. لا يمكن تعميم نتائج تدخلات محددة على كل منتج أو شخص معرض للضرر. ويدافع تحليل علمي محكم في 2025 عن دعم معنى العمل في الرعاية، بدلاً من اعتباره عبئاً ينبغي محوه. يناقش [ملفنا عن الذكاء الاصطناعي والرعاية في اليابان](/articles/japan-enters-ai-care-era/) هذا التوتر الأوسع. [مراجعة منهجية: الروبوتات الاجتماعية وكبار السن 2024](https://pubmed.ncbi.nlm.nih.gov/38430662/) [فوينيا ووانغمو: معنى عمل الرعاية 2025](https://www.nature.com/articles/s41599-025-05498-0)"
+    },
+    {
+      "type": "heading",
+      "text": "المنظومة وراء التجربة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تستند سيول إلى قاعدة وطنية تشمل المركبات والإلكترونيات وأشباه الموصلات والذكاء الاصطناعي. يصف إعلان NVIDIA في 2025 التزامات بنية حوسبية مع الحكومة وشركات منها Samsung وSK وHyundai وNAVER. إنها مشاريع وطنية ومؤسسية وليست جرداً لمعدات ركبت بالفعل لحزام سيول. قوة الحوسبة تساعد الروبوتات، لكنها لا تحسم وحدها سلامة السلوك. [NVIDIA: التزامات البنية الحوسبية الكورية 2025](https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure)"
+    },
+    {
+      "type": "paragraph",
+      "text": "الروابط البحثية محددة أيضاً. يصف National AI Research Lab اتحاداً يضم KAIST وKorea University وPOSTECH وYonsei، بدعم من وزارة العلوم وتقنية المعلومات والاتصالات. ويشكل الذكاء الاصطناعي المادي والنماذج التأسيسية الروبوتية أحد محاوره، وتشمل منشآته Seoul AI Hub. هذا حضور بحثي قابل للتحقق، لا ادعاء بأن كل جامعة تعاقدت لتشغيل روبوتات في الشوارع. [المختبر الوطني للذكاء الاصطناعي: الاتحاد والمحاور البحثية](https://nairl.kr/organization/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تمنح الروبوتات البشرية الدفع الصناعي صورته الأبرز. عرضت Hyundai Motor Group في CES 2026 استراتيجيتها وروبوت Atlas من Boston Dynamics وتعاونها مع Google DeepMind. وتضع خطتها مهام أولية لترتيب القطع باستخدام Atlas في مصنعها بولاية جورجيا الأميركية في 2028، تليها مهام أعقد. إنها أهداف الشركة للنشر في المصانع وليست خطة مؤكدة لتوزيع روبوتات بشرية في سيول. [Hyundai: استراتيجية الروبوتات وأهداف Atlas في CES 2026](https://www.hyundai.com/content/hyundai/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "وللعرض المسرحي توصيفه الخاص. ذكرت Associated Press أن مهندساً كان يتحكم عن بعد في عرض Atlas خلال CES. لا يجعل ذلك الهندسة بسيطة، لكنه يمنع الخلط بين أداء مضبوط وتشغيل مستقل. والأسئلة المفيدة هي ما يستطيع الروبوت تكراره، وما المساعدة التي يحتاجها، وكيف يتصرف عندما تتغير البيئة. [Associated Press: عرض Atlas في CES 2026](https://apnews.com/article/8de7b2470c23f5f22441ad1ad7555136) [Google DeepMind: مشروع Gemini Robotics في مارس 2025](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/)"
+    },
+    {
+      "type": "heading",
+      "text": "التنظيم جزء من الهندسة"
+    },
+    {
+      "type": "paragraph",
+      "text": "فتحت التعديلات الكورية في 2023 طريقاً لاستخدام الأرصفة من جانب الروبوتات المتحركة الخارجية المعتمدة للسلامة، لا إذناً غير مقيد لأي آلة. تشرح KOTRA التعديلات في أطر الروبوتات والمرور، وتفرض اللوائح التنفيذية تأمين المسؤولية قبل التشغيل. الاعتماد والتأمين ينشئان التزامات، ولا يغنيان عن فحص تأثير كل خدمة على المشاة. [KOTRA: تعديلات الروبوتات المتحركة في 2023](https://www.investkorea.org/upload/kotraexpress/2024/07/images/2407_full.pdf) [التشريع الكوري: تأمين الروبوتات المتحركة](https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=68116)"
+    },
+    {
+      "type": "paragraph",
+      "text": "وبالنسبة إلى المركبات، يجب ألا تمحو كلمة ذاتية طاقم التشغيل. فقد أوضحت سيول في يونيو 2025 بقاء سائق داخل سيارات أجرة غانغنام للتدخل في الطوارئ. ولا تثبت الإعلانات اللاحقة التي راجعناها إلغاء هذا الضمان. إحصاء الركاب يختلف عن إثبات التشغيل بلا سائق سلامة أو مساعدة عن بعد. [سيول: سائق السلامة في غانغنام في يونيو 2025](https://english.seoul.go.kr/seoul-expands-koreas-first-late-night-autonomous-taxi-service-to-all-of-gangnam-after-verification-of-safety-and-convenience/) [سيول: سيارات الأجرة وموعد سانغام المعدل في أغسطس 2026](https://english.seoul.go.kr/late-night-driverless-taxi-service-in-gangnam-to-expand-from-7-vehicles-to-19-expected-to-improve-nighttime-mobility-convenience/)"
+    },
+    {
+      "type": "heading",
+      "text": "مدينة ترى يجب أن تجيب عن بياناتها"
+    },
+    {
+      "type": "paragraph",
+      "text": "تدخل كاميرات الروبوتات فضاءات يشغلها أشخاص لم يطلبوا رحلة أو توصيلاً. ميزت لجنة حماية المعلومات الشخصية الكورية بين التسجيل للملاحة والاحتفاظ بصور قابلة لتحديد الهوية لتطوير الذكاء الاصطناعي. وفي 2024 وصفت شروطاً قانونية وتجارب تنظيمية محمية شملت Neubility وWoowa Brothers و42dot وKakao. لم يكن ذلك تصريحاً عاماً للاحتفاظ بكل وجه يمر على الرصيف. [لجنة حماية المعلومات: الكاميرات المتحركة 2024](https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS210&mCode=C020020000&nttId=10365)"
+    },
+    {
+      "type": "paragraph",
+      "text": "لذلك تتجاوز الخصوصية مجرد تخزين الفيديو. يحتاج السكان إلى فهم الغرض ومدة الاحتفاظ والوصول والمشاركة وطرق الشكوى. وربط المركبات والكاميرات وأنظمة المدينة قد يفاقم أثر الاختراق أو إساءة الاستخدام. إنها مخاطر حوكمة تستحق التقييم، لا دليل على أن كل مشروع يمارس مراقبة غير قانونية. ويميز [ملفنا عن الحكومة الرقمية في إستونيا](/articles/estonia-digital-government-e-id-x-road/) بين الخدمات المترابطة والوصول غير المحدود إلى البيانات الشخصية. [لجنة حماية المعلومات: الكاميرات المتحركة 2024](https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS210&mCode=C020020000&nttId=10365)"
+    },
+    {
+      "type": "heading",
+      "text": "من يستفيد ومن ينفذ العمل الجديد؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تغير الأتمتة المهام قبل أن تلغي المهنة. سيظل هناك من يصون المعدات ويعالج الاستثناءات وينظف الحساسات ويجيب الركاب ويساعد متلقي الرعاية. يحذر بحث عمل الرعاية من تجاهل الحكم المهني والتواصل الإنساني. كما يذكر بيان سيارات الأجرة التشاور مع القطاع. ولا يثبت الإعلان انهياراً حتمياً للوظائف أو مكاسب توظيف مضمونة. [فوينيا ووانغمو: معنى عمل الرعاية 2025](https://www.nature.com/articles/s41599-025-05498-0) [سيول: سيارات الأجرة وموعد سانغام المعدل في أغسطس 2026](https://english.seoul.go.kr/late-night-driverless-taxi-service-in-gangnam-to-expand-from-7-vehicles-to-19-expected-to-improve-nighttime-mobility-convenience/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يجب إدخال الإتاحة في الاختبار منذ البداية. روبوت يسد طريق كرسي متحرك أو خدمة لا تعمل إلا بهاتف ذكي قد يصعبان الحياة. وتعترف حافلة سيول التعليمية للذكاء الاصطناعي لكبار السن، التي أطلقت في 2025، بالحاجة إلى المساندة. هذه المبادرة التعليمية ليست دليلاً على أن الحافلة ذاتية القيادة. وينبغي إبقاء المساعدة البشرية والبدائل متاحة عند تعطل الآلة أو الاتصال. [سيول: حافلة تعليم الذكاء الاصطناعي لكبار السن 2025](https://english.seoul.go.kr/seouls-ai-companion-bus-hits-the-road-to-bring-ai-technology-to-seniors-everyday-lives/)"
+    },
+    {
+      "type": "heading",
+      "text": "سيول ليست المختبر الحضري الوحيد"
+    },
+    {
+      "type": "paragraph",
+      "text": "تمثل سان فرانسيسكو مرحلة مختلفة. وافقت الهيئة التنظيمية في كاليفورنيا عام 2023 على توسيع تصريح Waymo لنقل الركاب بأجر دون سائق. هذه خطوة تنظيمية لسيارات أجرة تجارية، لا دليل على أن مدينة كاملة أصبحت ذاتية. المقارنة مع سيول تتطلب فصل المركبات بلا سائق على متنها عن التجارب الخاضعة للإشراف، والمناطق المصرح بها عن طموحات الشركات. [هيئة كاليفورنيا: تصاريح نقل بلا سائق 2023](https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-approves-permits-for-cruise-and-waymo-to-charge-fares-for-passenger-service-in-sf-2023)"
+    },
+    {
+      "type": "paragraph",
+      "text": "نهج سنغافورة أقرب إلى تجربة نقل عام متدرجة. وصفت هيئة النقل اختبارات في مسارات مغلقة ثم على الطرق، ورحلات مجتمعية، وصولاً إلى خدمات تجارية في بونغول، مع مشغلي سلامة على متن المركبات خلال تلك المراحل. ثم أفادت CNA بفتح الرحلات للجمهور بدءاً من 1 أبريل 2026. توضح المقارنة نماذج مختلفة للنشر، ولا تبرر ترتيب المدن بأعداد ركاب ومركبات غير قابلة للمقارنة. [هيئة سنغافورة: التجارب المرحلية ومشغلو السلامة](https://www.lta.gov.sg/content/ltagov/en/newsroom/2025/9/news-releases/new-autonomous-shuttle-services-to-be-progressively-deployed-in-.html) [CNA: فتح رحلات بونغول للجمهور في أبريل 2026](https://www.channelnewsasia.com/singapore/self-driving-shuttle-punggol-autonomous-public-fare-5969921)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ما يمكن نقله هو المؤسسات المحيطة بالآلات: مناطق محددة، ومشغلون مسؤولون، وحدود منشورة، ومسار من التجربة إلى الخدمة. تعالج مطابقة الشركات بالمواقع العامة ومساندة الاعتماد جزءاً من المشكلة في سيول. وستحتاج مدن أخرى إلى تكييف المشتريات والشوارع وترتيبات العمل وقواعد البيانات. نسخ روبوت لا يعيد إنتاج تلك الشروط. [سيول: مخصصات البحث والتطوير والتجارب في 2026](https://english.seoul.go.kr/seoul-to-invest-krw-42-5b-in-ai-led-seoul-style-rd-the-largest-in-five-years/)"
+    },
+    {
+      "type": "heading",
+      "text": "كيف نقيس النجاح؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "بالنسبة إلى السكان، ستكون أقوى الأدلة عادية وقابلة للقياس: رحلة موثوقة، أو توصيل لا يسد الرصيف، أو مهمة رعاية أكثر أماناً، أو خطر يكتشف في الوقت المناسب. ينبغي احتساب الإخفاقات والتدخلات والتكاليف والإتاحة، لا عدد العروض وحده. يوفر هدف حافلات 2030 مرجعاً مستقبلياً، لكن زيادة الأسطول لا تثبت وحدها تحسن الخدمة. [سيول: خريطة طريق أغسطس وحصيلة يوليو 2026](https://english.seoul.go.kr/seoul-to-expand-autonomous-bus-fleet-to-500-and-build-a-transit-network-without-gaps-advancing-toward-a-global-top-3-public-transportation/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "للعرض المقبل موعد معلن. حددت سيول Smart Life Week في 6 إلى 8 أكتوبر 2026 مع عروض للذكاء الاصطناعي والروبوتات. وعند مراجعة هذا المقال في 3 أكتوبر، كان الحدث لا يزال مرتقباً. قد يشرح المعرض فكرة، لكنه لا يحل محل التشغيل المتكرر وسط المطر والمرور وتقلبات الحياة اليومية. [سيول: أسبوع الحياة الذكية المقرر في 6 إلى 8 أكتوبر 2026](https://english.seoul.go.kr/slw-2026-to-showcase-how-ai-is-transforming-daily-life-in-seoul/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تراهن سيول على أن المدينة تستطيع إنضاج التقنية وتحسين الحياة اليومية معاً. تشمل الأدلة بالفعل خدمات نقل محدودة ومنشآت بحثية وعروض روبوتات. لكن الوعد الأوسع ينتظر البناء والتوسع الآمن والثقة العامة. ولن تكون للمدينة المختبر قيمة إلا إذا كسب سكانها أكثر من دور المشاركين في التجربة."
+    },
+    {
+      "type": "paragraph",
+      "text": "راجعت PRESDA المعلومات في 3 أكتوبر 2026. أرقام التشغيل مؤرخة ومنسوبة إلى ناشريها، والمراحل المخططة لا تعرض كإنجازات مكتملة. الصورة المعتمدة رسم تحريري وليست دليلاً توثيقياً على نشر روبوتات أو مركبات ذاتية في شارع بعينه في سيول."
+    }
+  ],
+  "sources": [
+    {
+      "label": "سيول: الاستراتيجية المعلنة في 30 يناير 2026",
+      "url": "https://english.seoul.go.kr/mayor-oh-se-hoon-unveils-vision-for-seoul-as-a-global-leader-in-physical-ai-turning-the-city-into-a-platform-for-technology-demonstration/"
+    },
+    {
+      "label": "سيول: حزام يانغجي وسوسو وتجارب الروبوتات",
+      "url": "https://english.seoul.go.kr/embracing-the-era-of-physical-ai-through-a-robot-friendly-city-linking-yangjae-and-suseo/"
+    },
+    {
+      "label": "Google DeepMind: مشروع Gemini Robotics في مارس 2025",
+      "url": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/"
+    },
+    {
+      "label": "سيول: مخصصات البحث والتطوير والتجارب في 2026",
+      "url": "https://english.seoul.go.kr/seoul-to-invest-krw-42-5b-in-ai-led-seoul-style-rd-the-largest-in-five-years/"
+    },
+    {
+      "label": "الاتحاد الدولي للروبوتات: بيانات 2024",
+      "url": "https://ifr.org/img/worldrobotics/Foreword_WR_2025_Industrial_Robots.pdf"
+    },
+    {
+      "label": "سيول: خريطة طريق أغسطس وحصيلة يوليو 2026",
+      "url": "https://english.seoul.go.kr/seoul-to-expand-autonomous-bus-fleet-to-500-and-build-a-transit-network-without-gaps-advancing-toward-a-global-top-3-public-transportation/"
+    },
+    {
+      "label": "سيول: سيارات الأجرة وموعد سانغام المعدل في أغسطس 2026",
+      "url": "https://english.seoul.go.kr/late-night-driverless-taxi-service-in-gangnam-to-expand-from-7-vehicles-to-19-expected-to-improve-nighttime-mobility-convenience/"
+    },
+    {
+      "label": "سيول: إطلاق A148 في أبريل 2026",
+      "url": "https://english.seoul.go.kr/seoul-to-expand-early-morning-autonomous-bus-service-as-a148-route-launches-april-16/"
+    },
+    {
+      "label": "سيول: سائق السلامة في غانغنام في يونيو 2025",
+      "url": "https://english.seoul.go.kr/seoul-expands-koreas-first-late-night-autonomous-taxi-service-to-all-of-gangnam-after-verification-of-safety-and-convenience/"
+    },
+    {
+      "label": "TOPIS: المنطقة الخضراء والرقابة الآلية",
+      "url": "https://topis.seoul.go.kr/openEngGreen.do"
+    },
+    {
+      "label": "سيول: روبوتات الرعاية وتجارب الدور في 2024",
+      "url": "https://english.seoul.go.kr/elderly-care-becomes-smart-in-seoul-by-using-robots-and-ai-technology-to-keep-seniors-healthy-and-safe/"
+    },
+    {
+      "label": "مراجعة منهجية: الروبوتات الاجتماعية وكبار السن 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38430662/"
+    },
+    {
+      "label": "فوينيا ووانغمو: معنى عمل الرعاية 2025",
+      "url": "https://www.nature.com/articles/s41599-025-05498-0"
+    },
+    {
+      "label": "NVIDIA: التزامات البنية الحوسبية الكورية 2025",
+      "url": "https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure"
+    },
+    {
+      "label": "المختبر الوطني للذكاء الاصطناعي: الاتحاد والمحاور البحثية",
+      "url": "https://nairl.kr/organization/"
+    },
+    {
+      "label": "Hyundai: استراتيجية الروبوتات وأهداف Atlas في CES 2026",
+      "url": "https://www.hyundai.com/content/hyundai/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100.html"
+    },
+    {
+      "label": "Associated Press: عرض Atlas في CES 2026",
+      "url": "https://apnews.com/article/8de7b2470c23f5f22441ad1ad7555136"
+    },
+    {
+      "label": "KOTRA: تعديلات الروبوتات المتحركة في 2023",
+      "url": "https://www.investkorea.org/upload/kotraexpress/2024/07/images/2407_full.pdf"
+    },
+    {
+      "label": "التشريع الكوري: تأمين الروبوتات المتحركة",
+      "url": "https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=68116"
+    },
+    {
+      "label": "لجنة حماية المعلومات: الكاميرات المتحركة 2024",
+      "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS210&mCode=C020020000&nttId=10365"
+    },
+    {
+      "label": "سيول: حافلة تعليم الذكاء الاصطناعي لكبار السن 2025",
+      "url": "https://english.seoul.go.kr/seouls-ai-companion-bus-hits-the-road-to-bring-ai-technology-to-seniors-everyday-lives/"
+    },
+    {
+      "label": "هيئة كاليفورنيا: تصاريح نقل بلا سائق 2023",
+      "url": "https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-approves-permits-for-cruise-and-waymo-to-charge-fares-for-passenger-service-in-sf-2023"
+    },
+    {
+      "label": "هيئة سنغافورة: التجارب المرحلية ومشغلو السلامة",
+      "url": "https://www.lta.gov.sg/content/ltagov/en/newsroom/2025/9/news-releases/new-autonomous-shuttle-services-to-be-progressively-deployed-in-.html"
+    },
+    {
+      "label": "CNA: فتح رحلات بونغول للجمهور في أبريل 2026",
+      "url": "https://www.channelnewsasia.com/singapore/self-driving-shuttle-punggol-autonomous-public-fare-5969921"
+    },
+    {
+      "label": "سيول: أسبوع الحياة الذكية المقرر في 6 إلى 8 أكتوبر 2026",
+      "url": "https://english.seoul.go.kr/slw-2026-to-showcase-how-ai-is-transforming-daily-life-in-seoul/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "ما استراتيجية سيول للذكاء الاصطناعي المادي؟",
+      "answer": "هي خطة لاختبار ذكاء اصطناعي يعمل عبر الآلات والبنية المادية، ومنها الروبوتات والمركبات الذاتية. أعلنت في يناير 2026 وتجمع البحث ومواقع التجارب وتطبيقات مقترحة للخدمات العامة."
+    },
+    {
+      "question": "أين يقع الحزام المقترح؟",
+      "answer": "يربط تجمع الذكاء الاصطناعي في يانغجي بتجمع الروبوتات في سوسو. توجد منشآت قائمة، بينما يستهدف بدء بناء AI Tech City في 2028 واكتمال Robot Tech Center في 2030."
+    },
+    {
+      "question": "هل تعمل حافلات وسيارات أجرة ذاتية في سيول الآن؟",
+      "answer": "نعم، ضمن خدمات وتجارب محدودة. أوردت المدينة 24 مركبة في خريطة الطريق المنشورة في أغسطس 2026. يجب التمييز بين شروط التشغيل والمسارات والدعم البشري وبين خدمة غير مقيدة بلا سائق."
+    },
+    {
+      "question": "هل أطلقت خدمة روبوتاكسي المستوى الرابع في سانغام؟",
+      "answer": "استهدف بيان أغسطس 2026 شهر نوفمبر بدلاً من توقع سابق في أكتوبر. المصادر التي روجعت حتى 3 أكتوبر لا تثبت إطلاق الخدمة المخططة."
+    },
+    {
+      "question": "هل ستحل الروبوتات محل العاملين في الرعاية؟",
+      "answer": "التجارب الحالية لا تثبت ذلك. قد تساعد في مهام محددة، لكن البحث المستقل يؤكد الحكم البشري ومعنى عمل الرعاية والسلامة وحدود الأدلة."
+    },
+    {
+      "question": "هل الذكاء الاصطناعي المادي هو نفسه التوليدي؟",
+      "answer": "لا. ينتج التوليدي محتوى مثل النصوص والصور، بينما يربط المادي الاستشعار والقرار بالفعل في الواقع. وقد تدخل النماذج التوليدية ضمن الأنظمة المادية."
+    }
+  ]
+}

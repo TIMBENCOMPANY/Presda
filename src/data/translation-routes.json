@@ -2236,6 +2236,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/seoul-physical-ai-robots-living-lab/",
+    "path": "/ar/articles/seoul-physical-ai-robots-living-lab/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/seoul-physical-ai-robots-living-lab/",
+    "path": "/es/articles/seoul-physical-ai-robots-living-lab/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/seoul-physical-ai-robots-living-lab/",
+    "path": "/fr/articles/seoul-physical-ai-robots-living-lab/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/sikh-empire-ranjit-singh-kingdom-punjab/",
     "path": "/ar/articles/sikh-empire-ranjit-singh-kingdom-punjab/"
   },

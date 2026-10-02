@@ -6,6 +6,7 @@ import { articleLabels } from "@/lib/i18n/article-presentation";
 import { BryanJohnsonGraphics } from "@/components/BryanJohnsonGraphics";
 import { JapanFusionGraphics } from "@/components/JapanFusionGraphics";
 import { EstoniaGraphics } from "@/components/EstoniaGraphics";
+import { SeoulGraphics } from "@/components/SeoulGraphics";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
 import type { Locale } from "@/lib/i18n/routing";
@@ -295,6 +296,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             {articleContent.map(({ block, originalIndex }) => {
               if (article.slug === "human-family-tree-human-evolution-species" && (originalIndex === 3 || originalIndex === 5)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HumanEvolutionGraphics locale={locale} kind={originalIndex === 3 ? "timeline" : "tree"} /></div>;
+              }
+              if (article.slug === "seoul-physical-ai-robots-living-lab" && [11,20].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><SeoulGraphics locale={locale} kind={originalIndex === 11 ? "belt" : "timeline"} /></div>;
               }
               if (article.slug === "estonia-digital-government-e-id-x-road" && [7,13,31].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><EstoniaGraphics locale={locale} kind={originalIndex === 7 ? "timeline" : originalIndex === 13 ? "flow" : "voting"} /></div>;

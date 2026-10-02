@@ -2,6 +2,7 @@ import { isPublishedArticle, validatePublishedArticles } from "@/lib/articleVali
 import { japanFusionArticle } from "@/data/japanFusionArticle";
 import { asanteArticle } from "@/data/asanteArticle";
 import { estoniaArticle } from "@/data/estoniaArticle";
+import { seoulArticle } from "@/data/seoulArticle";
 import { croatiaArticle } from "@/data/croatiaArticle";
 import { swedishArticle } from "@/data/swedishArticle";
 import { dutchArticle } from "@/data/dutchArticle";
@@ -35559,7 +35560,8 @@ export const articles: Article[] = [
   bryanJohnsonArticle,
   japanFusionArticle,
   asanteArticle,
-  estoniaArticle
+  estoniaArticle,
+  seoulArticle
 ];
 
 export const categories: ArticleCategory[] = [
