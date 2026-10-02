@@ -1,0 +1,376 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/china-robot-revolution-industrial-automation/",
+  "path": "/fr/articles/china-robot-revolution-industrial-automation/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr editorial and source-parity review",
+    "reviewedAt": "2026-10-03",
+    "terminologyChecked": true
+  },
+  "title": "La révolution robotique chinoise : au cœur d’un géant industriel automatisé",
+  "excerpt": "La Chine installe la majorité des nouveaux robots industriels du monde. Derrière les humanoïdes, bras mécaniques, logistique et logiciels transforment déjà le travail.",
+  "headlineHighlights": {
+    "red": "révolution robotique chinoise",
+    "gold": "géant industriel"
+  },
+  "seoTitle": "Robots en Chine : usines automatisées, IA et humanoïdes",
+  "description": "Dans les usines chinoises : chiffres récents de l’IFR, production automobile automatisée, essais d’humanoïdes, emplois et limites des usines sans ouvriers.",
+  "keywords": [
+    "robots en Chine",
+    "usines chinoises",
+    "robots industriels chinois",
+    "automatisation Chine",
+    "robots humanoïdes Chine",
+    "industrie chinoise",
+    "usines automatisées"
+  ],
+  "searchIntent": "Comprendre l’automatisation industrielle chinoise, ses chiffres vérifiés, les essais d’humanoïdes et ses conséquences pour l’emploi.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-03",
+  "updatedAt": "2026-10-03",
+  "image": {
+    "src": "/articles/china-robot-revolution-factory.png",
+    "alt": "Illustration éditoriale de bras robotisés, d’un véhicule automatisé et d’un humanoïde dans une usine automobile chinoise, pas une photographie d’un déploiement vérifié"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Au complexe de batteries de BYD à Xiangyang, un reportage de septembre 2026 décrit des bras robotisés, des véhicules automatisés et de grands équipements de stockage accomplissant des tâches autrefois confiées à des rangées d’ouvriers. Pourtant, le site emploie encore plus de 8 000 personnes. Ce contraste résume mieux la transformation chinoise qu’une usine désertée : moins de mains à certaines étapes, mais toujours une vaste organisation industrielle. [Seoul Economic Daily : reportage chez BYD, septembre 2026](https://en.sedaily.com/international/2026/09/16/robot-arms-rule-byd-battery-plant-turning-out-a-cell-every)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Chine est le premier marché mondial des robots industriels. Elle n’occupe cependant pas la première place du classement comparable de leur densité. L’automatisation classique y est déjà considérable ; les humanoïdes constituent une frontière bien plus modeste et inégalement documentée. Il faut distinguer les machines en service des essais, des spectacles et des promesses. [IFR : World Robotics 2026, installations de 2025](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally) [IFR : densités 2024 révisées en avril 2026](https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas)"
+    },
+    {
+      "type": "heading",
+      "text": "LA MAJORITÉ DES NOUVEAUX ROBOTS INDUSTRIELS VA EN CHINE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Publié le 24 septembre, le bilan World Robotics 2026 de la Fédération internationale de robotique fait état de 354 000 robots industriels installés en Chine en 2025, soit 20 % de plus qu’en 2024. Le pays représente 59 % des installations mondiales. Ce flux annuel n’est ni le parc total en service ni un recensement de tous les véhicules autonomes et équipements intelligents. [IFR : World Robotics 2026, installations de 2025](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le parc en service, le chiffre chinois le plus récent directement vérifié dans les documents publics de l’IFR consultés ici est de 2 027 000 unités en 2024. L’IFR indiquait que ce parc avait doublé en trois ans. Son rapport de 2025 attribuait à la Chine 43,5 % du parc mondial de 2024. Les années diffèrent : 59 % concerne les nouvelles installations de 2025, contre 43,5 % pour le parc accumulé de 2024. [IFR : parc et installations chinois en 2024](https://ifr.org/downloads/press_docs/2025-09-25-IFR_press_release_China_in_English.pdf) [IFR : parts du parc mondial en 2024](https://ifr.org/img/worldrobotics/Foreword_WR_2025_Industrial_Robots.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La nouvelle publication situe le parc mondial autour de cinq millions de robots en 2025, sans donner de total chinois dans les communiqués publics utilisés ici. Ajouter 354 000 au parc antérieur serait trompeur, car des machines sortent aussi du service. Nous conservons donc le chiffre national vérifié et son année, sans inventer un décompte en temps réel. [IFR : World Robotics 2026, installations de 2025](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally) [IFR : parc et installations chinois en 2024](https://ifr.org/downloads/press_docs/2025-09-25-IFR_press_release_China_in_English.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "UNE RÉVISION QUI CHANGE LA COMPARAISON"
+    },
+    {
+      "type": "paragraph",
+      "text": "La densité rapporte le nombre de robots industriels en service à l’emploi manufacturier. En avril 2026, l’IFR a révisé le chiffre chinois de 2024 à 166 robots pour 10 000 salariés, après intégration de nouvelles données sur la main-d’œuvre. Sur cette base actualisée, la hausse annuelle était de 17 %. Le changement porte sur le dénominateur, pas sur une disparition soudaine de machines. [IFR : densités 2024 révisées en avril 2026](https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les anciennes publications présentaient un chiffre chinois nettement supérieur. Les raccorder à la série révisée ferait apparaître une chute artificielle. Dans la comparaison IFR d’avril 2026 portant sur 2024, la Corée du Sud compte 1 220 robots pour 10 000 salariés, l’Allemagne 449, le Japon 446 et les États-Unis 307. L’immense emploi manufacturier chinois explique qu’un parc gigantesque ne produise pas la densité la plus élevée. [IFR : densités 2024 révisées en avril 2026](https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La densité ne mesure pas davantage la productivité, la rentabilité ou l’autonomie d’une usine. Elle compte des robots par rapport aux salariés, pas la part du travail physique effectuée par des machines. Électronique, confection et carrosserie offrent des possibilités très différentes. Une moyenne nationale les rassemble sans les expliquer."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI L’AUTOMATISATION EST DEVENUE UNE PRIORITÉ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette transition précède l’engouement actuel pour les humanoïdes. Une étude du Journal of Economic Perspectives de 2019 analysait l’adoption des robots à travers les décisions des entreprises et les conditions industrielles. Coût du travail, exigences de production et soutien public contribuaient à leur attractivité. L’ambition était de dépasser un modèle reposant surtout sur une main-d’œuvre abondante pour gagner en précision et en capacité technologique. [Cheng et collègues : essor des robots en Chine, JEP, 2019](https://pubs.aeaweb.org/doi/10.1257/jep.33.2.71)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les politiques publiques ont progressivement fait des robots un instrument de modernisation. Le plan Robot Plus de 2023 visait à élargir leurs applications et à doubler, d’ici 2025, la densité manufacturière mesurée en 2020. C’était un objectif politique. Comparer des chiffres fondés sur des dénominateurs d’emploi différents ne permet pas de déclarer cet objectif atteint. [Portail du Conseil des affaires d’État : Robot Plus, 2023](https://english.www.gov.cn/statecouncil/ministries/202301/20/content_WS63c9d296c6d0a757729e5e28.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le cycle de planification 2026–2030 insiste davantage sur l’IA incarnée dans des machines. L’analyse publiée par l’IFR en mai 2026 place la robotique au cœur de la stratégie industrielle chinoise. Les aides locales sont concrètes : les mesures pékinoises de 2023 prévoyaient jusqu’à 30 millions de yuans pour certains grands projets. Ce plafond n’est ni l’investissement national total ni la preuve que chaque projet a reçu le maximum. [IFR : stratégie industrielle chinoise 2026–2030](https://ifr.org/ifr-press-releases/news/china-makes-ai-powered-robots-core-of-national-strategy) [Portail du Conseil des affaires d’État : aides de Pékin, 2023](https://english.www.gov.cn/news/202308/17/content_WS64ddb6a1c6d0868f4e8dea2d.html)"
+    },
+    {
+      "type": "heading",
+      "text": "LES USINES DERRIÈRE LES CHIFFRES"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’automobile, notamment les véhicules électriques et les batteries, rend cette mutation visible. Soudage, manutention et assemblage répétitif se prêtent à des processus soigneusement organisés. L’IFR recense 78 900 installations de robots dans l’automobile chinoise en 2025, en hausse de 38 %. De gros volumes peuvent justifier des coûts d’intégration plus difficiles à absorber pour un petit atelier. [IFR : marché chinois et secteurs, septembre 2026](https://ifr.org/downloads/press_docs/EN-2026-SEP-24-IFR_Press_Release_WR-CHINA.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À Xiangyang, BYD présente sa ligne d’assemblage de cellules de batteries comme entièrement automatisée. L’affirmation porte sur un processus précis, pas sur tous les emplois du complexe. Les bras et transports automatisés décrits par le journaliste relèvent de l’observation indépendante ; le pourcentage d’automatisation reste une déclaration du constructeur. Maintenance et ingénierie ne disparaissent pas. [Seoul Economic Daily : reportage chez BYD, septembre 2026](https://en.sedaily.com/international/2026/09/16/robot-arms-rule-byd-battery-plant-turning-out-a-cell-every)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’électronique compte tout autant. Selon l’IFR, la Chine a installé 96 400 robots dans les industries électrique et électronique en 2025, soit une hausse de 16 %. Métallurgie et machines en représentent 78 700 autres. Placement de composants, chargement de machines, inspection et manutention montrent combien la transformation dépasse l’automobile. [IFR : marché chinois et secteurs, septembre 2026](https://ifr.org/downloads/press_docs/EN-2026-SEP-24-IFR_Press_Release_WR-CHINA.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "BRAS, ROUES, CAMÉRAS ET LOGICIELS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le robot industriel est souvent un bras équipé pour une tâche précise. Un robot mobile transporte des matériaux ; la vision industrielle renseigne sur une position ou un défaut ; les logiciels coordonnent mouvements et cadence. Ces éléments peuvent coopérer sans former un humanoïde ni comprendre l’ensemble des tâches d’une usine. [Inovance : composants et commande robotique](https://www.inovance.eu/industries/industrial-robotics)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’IA peut adapter l’inspection en repérant des motifs dans les images, signaler des problèmes d’équipement et améliorer les décisions de production. CATL cite notamment la reconnaissance d’images, l’apprentissage automatique et les algorithmes prédictifs. Cette description documente l’approche revendiquée par l’entreprise. Elle ne mesure pas indépendamment la réduction des défauts et ne prouve pas la disparition du contrôle humain. [CATL : description de sa fabrication intelligente](https://www.catl.com/en/manufacture/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les véhicules à guidage automatique suivent généralement un guidage défini, tandis que les robots mobiles autonomes peuvent utiliser capteurs et cartographie pour naviguer plus souplement. Aucun terme ne garantit une autonomie sans limites. Il faut des itinéraires praticables, des transferts fiables et une réponse lorsqu’une palette, une personne ou une panne bloque le flux."
+    },
+    {
+      "type": "heading",
+      "text": "QUE RECOUVRE UNE USINE SANS LUMIÈRE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expression dark factory désigne généralement une production exigeant peu de présence humaine directe, parfois sans éclairage ordinaire. Ce n’est pas une mesure normalisée de l’automatisation d’une entreprise. Une cellule très automatisée peut dépendre de personnes pour l’approvisionnement, les réparations, les changements de série et les imprévus. Une photographie sans ouvriers ne révèle pas tout le travail nécessaire au produit fini."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’enquête Reuters d’août 2026 décrit une automatisation classique poussée chez Xiaomi, notamment des centaines de robots de carrosserie, ainsi que des entraînements et essais d’humanoïdes. À l’usine Zeekr de Geely à Ningbo, le groupe indiquait que les bras et véhicules guidés accomplissaient les principales tâches actives d’assemblage après des essais de tri par humanoïdes. Faire fonctionner la production et tester un futur rôle sont deux choses différentes. [Reuters : enquête sur les humanoïdes et essais en usine, août 2026](https://www.insurancejournal.com/news/international/2026/08/31/883381.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le test pertinent est une production durable, à coût et qualité acceptables, en intégrant pannes, surveillance et maintenance. Un poste sans opérateur sur un produit stable est un résultat plus limité qu’une usine capable de s’adapter seule à toute commande. Certaines opérations nécessitent déjà peu de présence humaine ; une économie manufacturière chinoise généralement sans travailleurs n’est pas établie."
+    },
+    {
+      "type": "heading",
+      "text": "HUMANOÏDES : QU’EST-CE QUI A VRAIMENT ATTEINT L’USINE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les humanoïdes intéressent les industriels parce que leurs outils et espaces ont été conçus pour des personnes. En théorie, une machine polyvalente pourrait passer d’un travail à l’autre. En pratique, saisir des objets variés, corriger les erreurs et tenir une cadence en sécurité restent difficiles. La silhouette humaine ne procure ni dextérité, ni jugement, ni rentabilité humaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des déploiements nommés existent dans les déclarations des entreprises. Le 24 juin 2026, CATL annonçait l’utilisation de Galbot S1 pour la fabrication de modules et de blocs de batteries, notamment la manutention. Il s’agit d’un usage opérationnel déclaré, plus probant qu’un spectacle, mais sans audit indépendant du nombre de machines, de leur disponibilité ou du rendement financier. Cela ne prouve pas une diffusion généralisée. [CATL : annonce du déploiement de Galbot S1, juin 2026](https://www.catl.com/en/news/6881.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rapport semestriel 2026 de Xiaomi décrit des démonstrations de juillet et de nouveaux postes de tri et de pliage de caisses. L’entreprise annonce une amélioration de 90,2 % à 98 % sur une tâche de chargement d’écrous. Ce résultat déclaré ne mesure pas la productivité de l’usine entière. Il ne suffit pas à démontrer des mois de fonctionnement commercial fiable et sans supervision. [Xiaomi : rapport semestriel 2026, page 9](https://ir.mi.com/static-files/b903a881-8143-44a3-b759-703653bbb043)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les démonstrations forment une catégorie distincte. Associated Press a décrit des machines boxant ou se produisant devant le public à la World Robot Conference d’août 2026. Ces performances peuvent illustrer des progrès d’équilibre et de mouvement. Elles ne prouvent pas l’aptitude à un travail industriel répétitif soumis à des exigences de sécurité et de livraison. [Associated Press : démonstrations au salon robotique, août 2026](https://apnews.com/article/951ebd3cddaccf5afcedc68174ba626a)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La capacité de production annoncée est encore autre chose. Le communiqué UBTECH de novembre 2025 associait des livraisons de Walker S2 à des objectifs futurs de capacité. Fabriquer ou livrer un robot ne documente pas ses heures productives chez un client. Capacité, commandes, livraisons et unités réellement au travail ne doivent pas être additionnées comme une prétendue main-d’œuvre humanoïde. [UBTECH : communiqué sur les livraisons et capacités, novembre 2025](https://www.prnewswire.com/news-releases/ubtech-humanoid-robot-walker-s2-begins-mass-production-and-delivery-with-orders-exceeding-800-million-yuan-302616978.html)"
+    },
+    {
+      "type": "heading",
+      "text": "CONSTRUIRE UNE INDUSTRIE ROBOTIQUE NATIONALE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Chine développe aussi les fournisseurs de ses machines. Selon l’IFR, les fabricants chinois ont fourni 195 000 installations sur leur marché intérieur en 2025, soit 55 % de celui-ci. Leur volume a augmenté malgré une part inférieure aux 57 % de 2024. Dans un marché en forte croissance, recul de part et hausse des ventes peuvent coexister. [IFR : World Robotics 2026, installations de 2025](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette chaîne comprend commande des mouvements, moteurs, variateurs, capteurs, mécanique de précision et intégration. Inovance commercialise, par exemple, des systèmes de commande et d’asservissement. UBTECH et Galbot explorent les applications humanoïdes, tandis que Xiaomi développe des modèles d’intelligence incarnée. Ce sont des fonctions différentes au sein d’un écosystème, pas des fabricants interchangeables. [Inovance : composants et commande robotique](https://www.inovance.eu/industries/industrial-robotics) [UBTECH : communiqué sur les livraisons et capacités, novembre 2025](https://www.prnewswire.com/news-releases/ubtech-humanoid-robot-walker-s2-begins-mass-production-and-delivery-with-orders-exceeding-800-million-yuan-302616978.html) [CATL : annonce du déploiement de Galbot S1, juin 2026](https://www.catl.com/en/news/6881.html) [Xiaomi : rapport semestriel 2026, page 9](https://ir.mi.com/static-files/b903a881-8143-44a3-b759-703653bbb043)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une part de marché nationale ne prouve pas que tous les composants sont chinois ; une marque étrangère n’implique pas non plus un robot fini importé. Fiabilité des pièces, logiciels, maintenance et intégration chez le client comptent aussi. Le seul nombre de robots ignore une grande part de la valeur et des dépendances restantes."
+    },
+    {
+      "type": "heading",
+      "text": "VIEILLISSEMENT ET TRANSFORMATION DU MODÈLE ÉCONOMIQUE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Bureau national des statistiques comptait 323,38 millions de personnes de 60 ans ou plus à la fin de 2025, soit 23 % de la population. Ce n’est ni un nombre de retraités ni un décompte de postes vacants. Cette donnée éclaire néanmoins une stratégie visant à produire davantage sans dépendre d’une offre indéfiniment croissante de jeunes travailleurs. [Bureau national des statistiques : population fin 2025](https://www.stats.gov.cn/english/PressRelease/202601/t20260119_1962328.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’automatisation peut réduire le travail pénible et répétitif et stabiliser les processus. Sa rentabilité dépend toutefois de l’utilisation, du financement, de l’intégration, de la maintenance et de la demande. Une machine impressionnante mais souvent inactive peut être un mauvais investissement. Subventionner des capacités ne garantit pas leur usage rentable."
+    },
+    {
+      "type": "paragraph",
+      "text": "La recherche évaluée par les pairs invite à dépasser aussi bien le salut technologique que le chômage massif inévitable. Une étude de 2024 du Journal of Economic Behavior & Organization estime des gains de productivité chez des entreprises chinoises adoptant des robots, variables selon les périodes et les entreprises. Fondés sur l’appariement et les différences de différences, ces résultats ne garantissent pas un gain à chaque achat. [Li, Jin et Cheng : robots et productivité, JEBO, 2024](https://www.sciencedirect.com/science/article/pii/S0167268124002415)"
+    },
+    {
+      "type": "heading",
+      "text": "QUELS EMPLOIS CHANGENT, ET POUR QUI ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manutention, soudage et certaines inspections peuvent nécessiter moins de personnes. Intégration, maintenance, ingénierie et dépannage créent d’autres besoins. Une étude de China Economic Review de 2024 observe davantage d’emploi chez les entreprises adoptantes, surtout qualifié, ainsi qu’un transfert de travailleurs vers celles-ci. La croissance des entreprises gagnantes ne prouve pas que chaque travailleur déplacé en bénéficie. [China Economic Review : robots et emploi, 2024](https://www.sciencedirect.com/science/article/pii/S1043951X24000269)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un document de travail du NBER signé Giuntella, Lu et Wang, fondé sur des données de ménages chinois, associe au contraire une exposition accrue aux robots à de moins bons résultats d’emploi et de salaire, surtout chez les moins diplômés. Il n’est pas présenté ici comme un résultat évalué par les pairs. Les unités d’analyse diffèrent : une entreprise peut grandir tandis que certains travailleurs perdent du terrain. [Giuntella, Lu et Wang : document de travail NBER, 2022](https://www.nber.org/papers/w30707)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La formation ne peut donc être un simple slogan accompagnant l’achat d’équipements. Il faut des parcours accessibles vers les nouvelles tâches et des personnes comprenant la production comme les systèmes qui la pilotent. Ni les installations ni les démonstrations ne permettent de chiffrer avec fiabilité le solde des emplois chinois gagnés ou perdus d’ici 2030."
+    },
+    {
+      "type": "heading",
+      "text": "LA SÉCURITÉ FAIT PARTIE DU SYSTÈME"
+    },
+    {
+      "type": "paragraph",
+      "text": "Puissants et rapides, les robots industriels exigent séparation, évaluation des risques et protections fiables. ISO 10218-1:2025 traite de leur sécurité ; l’intégration dans une application demande un travail supplémentaire. Son champ ne constitue pas une certification générale des systèmes mobiles ou humanoïdes. Ajouter de l’IA ne dispense pas de maîtriser les dangers physiques. [ISO 10218-1:2025 : sécurité des robots industriels](https://www.iso.org/standard/73933.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour une machine adaptative, il faut prévoir les erreurs de perception, l’entrée d’une personne et les coupures de communication. Les équipements connectés imposent aussi des contrôles d’accès et des plans de reprise. Une usine a besoin de responsabilités définies et d’un comportement sûr en cas de défaillance. Une démonstration spectaculaire ne suffit pas si les arrêts et interactions dangereuses rendent le système inutilisable."
+    },
+    {
+      "type": "heading",
+      "text": "LA CHINE FACE AUX AUTRES PUISSANCES INDUSTRIELLES"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’échelle chinoise contraste avec une automatisation plus dense ailleurs. Dans les installations IFR de 2025, les États-Unis passent devant le Japon au deuxième rang, avec près de 38 500 unités contre 36 219. La Corée du Sud en installe environ 30 000, l’Allemagne moins de 25 000. Ces flux ne sont pas la comparaison de densité ci-dessus, qui porte sur l’emploi et le parc de 2024. [IFR : World Robotics 2026, installations de 2025](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe pas une course unique avec une seule ligne d’arrivée. Un pays peut dominer les déploiements, un autre certains composants, un troisième la densité. Logiciels, exportations et savoir-faire comptent également. Notre [reportage sur l’IA physique à Séoul](/articles/seoul-physical-ai-robots-living-lab/) explore une ambition voisine : sortir les systèmes autonomes de l’usine pour les intégrer aux espaces urbains partagés."
+    },
+    {
+      "type": "heading",
+      "text": "À QUOI POURRAIENT RESSEMBLER LES USINES EN 2030 ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’IFR anticipe une croissance supplémentaire en Chine, mais une prévision n’est pas une installation observée. Une perspective défendable reste conditionnelle : davantage de bras, de logistique mobile, d’inspection et de logiciels intégrés là où leur rentabilité est démontrée ; des humanoïdes sur certaines tâches si fiabilité et coûts progressent. Rien ne justifie d’annoncer un remplacement national des ouvriers par des machines anthropomorphes. [IFR : marché chinois et secteurs, septembre 2026](https://ifr.org/downloads/press_docs/EN-2026-SEP-24-IFR_Press_Release_WR-CHINA.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les indicateurs pertinents sont l’usage répété par les clients, la réussite durable, les interventions humaines, la sécurité, le coût total et les conséquences pour les travailleurs. Les pilotes doivent franchir ces seuils avant de soutenir de plus grandes promesses. Notre [dossier sur la fusion au Japon](/articles/japan-fusion-helix-haruka-helical-fusion/) illustre aussi cet écart entre progrès technique et preuve commerciale : un objectif ambitieux oriente l’investissement sans garantir son résultat."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Chine accomplit déjà une immense quantité de travail industriel avec des machines. La qualifier de première économie où les robots réalisent une grande partie du travail physique exigerait une mesure internationale comparable du travail accompli, absente des décomptes de robots. Le changement établi est plus concret : le premier marché mondial réorganise sa production, avec des conséquences qui dépendront autant des usines et des emplois redessinés que des capacités des prochaines machines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Informations vérifiées le 3 octobre 2026. Les chiffres d’installations, de parc et de densité conservent leur année de référence. Déclarations d’entreprises et objectifs restent attribués. L’image approuvée est une illustration éditoriale, pas une preuve documentaire d’humanoïdes au travail dans une usine identifiée."
+    }
+  ],
+  "sources": [
+    {
+      "label": "IFR : World Robotics 2026, installations de 2025",
+      "url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally"
+    },
+    {
+      "label": "IFR : marché chinois et secteurs, septembre 2026",
+      "url": "https://ifr.org/downloads/press_docs/EN-2026-SEP-24-IFR_Press_Release_WR-CHINA.pdf"
+    },
+    {
+      "label": "IFR : parc et installations chinois en 2024",
+      "url": "https://ifr.org/downloads/press_docs/2025-09-25-IFR_press_release_China_in_English.pdf"
+    },
+    {
+      "label": "IFR : parts du parc mondial en 2024",
+      "url": "https://ifr.org/img/worldrobotics/Foreword_WR_2025_Industrial_Robots.pdf"
+    },
+    {
+      "label": "IFR : densités 2024 révisées en avril 2026",
+      "url": "https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas"
+    },
+    {
+      "label": "Seoul Economic Daily : reportage chez BYD, septembre 2026",
+      "url": "https://en.sedaily.com/international/2026/09/16/robot-arms-rule-byd-battery-plant-turning-out-a-cell-every"
+    },
+    {
+      "label": "Cheng et collègues : essor des robots en Chine, JEP, 2019",
+      "url": "https://pubs.aeaweb.org/doi/10.1257/jep.33.2.71"
+    },
+    {
+      "label": "Portail du Conseil des affaires d’État : Robot Plus, 2023",
+      "url": "https://english.www.gov.cn/statecouncil/ministries/202301/20/content_WS63c9d296c6d0a757729e5e28.html"
+    },
+    {
+      "label": "IFR : stratégie industrielle chinoise 2026–2030",
+      "url": "https://ifr.org/ifr-press-releases/news/china-makes-ai-powered-robots-core-of-national-strategy"
+    },
+    {
+      "label": "Portail du Conseil des affaires d’État : aides de Pékin, 2023",
+      "url": "https://english.www.gov.cn/news/202308/17/content_WS64ddb6a1c6d0868f4e8dea2d.html"
+    },
+    {
+      "label": "CATL : description de sa fabrication intelligente",
+      "url": "https://www.catl.com/en/manufacture/"
+    },
+    {
+      "label": "Inovance : composants et commande robotique",
+      "url": "https://www.inovance.eu/industries/industrial-robotics"
+    },
+    {
+      "label": "Reuters : enquête sur les humanoïdes et essais en usine, août 2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/08/31/883381.htm"
+    },
+    {
+      "label": "Xiaomi : rapport semestriel 2026, page 9",
+      "url": "https://ir.mi.com/static-files/b903a881-8143-44a3-b759-703653bbb043"
+    },
+    {
+      "label": "CATL : annonce du déploiement de Galbot S1, juin 2026",
+      "url": "https://www.catl.com/en/news/6881.html"
+    },
+    {
+      "label": "Associated Press : démonstrations au salon robotique, août 2026",
+      "url": "https://apnews.com/article/951ebd3cddaccf5afcedc68174ba626a"
+    },
+    {
+      "label": "UBTECH : communiqué sur les livraisons et capacités, novembre 2025",
+      "url": "https://www.prnewswire.com/news-releases/ubtech-humanoid-robot-walker-s2-begins-mass-production-and-delivery-with-orders-exceeding-800-million-yuan-302616978.html"
+    },
+    {
+      "label": "Bureau national des statistiques : population fin 2025",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202601/t20260119_1962328.html"
+    },
+    {
+      "label": "Li, Jin et Cheng : robots et productivité, JEBO, 2024",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167268124002415"
+    },
+    {
+      "label": "China Economic Review : robots et emploi, 2024",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1043951X24000269"
+    },
+    {
+      "label": "Giuntella, Lu et Wang : document de travail NBER, 2022",
+      "url": "https://www.nber.org/papers/w30707"
+    },
+    {
+      "label": "ISO 10218-1:2025 : sécurité des robots industriels",
+      "url": "https://www.iso.org/standard/73933.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien de robots industriels fonctionnent en Chine ?",
+      "answer": "Le dernier chiffre national directement vérifié dans les documents publics de l’IFR consultés est de 2 027 000 unités en 2024. Le communiqué de septembre 2026 recense 354 000 nouvelles installations en 2025. Ce flux ne s’ajoute pas simplement au parc antérieur sans tenir compte des retraits."
+    },
+    {
+      "question": "Quelle part des nouveaux robots industriels va en Chine ?",
+      "answer": "La Chine représente 59 % des installations mondiales de 2025 selon World Robotics 2026. Sa part de 43,5 % du parc mondial concerne 2024 et mesure autre chose."
+    },
+    {
+      "question": "La Chine a-t-elle la plus forte densité de robots ?",
+      "answer": "Non. La révision IFR d’avril 2026 situe sa densité de 2024 à 166 robots pour 10 000 salariés manufacturiers, contre 1 220 en Corée du Sud. Les nouvelles données d’emploi empêchent une comparaison directe avec les anciens chiffres chinois."
+    },
+    {
+      "question": "Des humanoïdes travaillent-ils déjà dans les usines chinoises ?",
+      "answer": "Des entreprises déclarent des usages sur leurs lignes, notamment CATL avec Galbot en juin 2026. Ils côtoient essais et démonstrations. Les preuves ne montrent ni diffusion générale ni performances durables auditées à l’échelle de l’industrie."
+    },
+    {
+      "question": "Les dark factories fonctionnent-elles sans aucun travailleur ?",
+      "answer": "L’expression peut désigner un processus ou une période très automatisés. Elle ne prouve pas l’absence de personnel pour la maintenance, l’ingénierie, la logistique ou les changements de série."
+    },
+    {
+      "question": "Les robots remplaceront-ils les ouvriers chinois d’ici 2030 ?",
+      "answer": "Aucune preuve vérifiée ne soutient cette prédiction générale. L’automatisation supprime des tâches et crée d’autres besoins. La recherche observe des gains chez certaines entreprises et des pertes pour certains travailleurs exposés."
+    }
+  ]
+}

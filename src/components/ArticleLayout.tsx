@@ -7,6 +7,7 @@ import { BryanJohnsonGraphics } from "@/components/BryanJohnsonGraphics";
 import { JapanFusionGraphics } from "@/components/JapanFusionGraphics";
 import { EstoniaGraphics } from "@/components/EstoniaGraphics";
 import { SeoulGraphics } from "@/components/SeoulGraphics";
+import { ChinaRoboticsGraphics } from "@/components/ChinaRoboticsGraphics";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
 import type { Locale } from "@/lib/i18n/routing";
@@ -299,6 +300,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               }
               if (article.slug === "seoul-physical-ai-robots-living-lab" && [11,20].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><SeoulGraphics locale={locale} kind={originalIndex === 11 ? "belt" : "timeline"} /></div>;
+              }
+              if (article.slug === "china-robot-revolution-industrial-automation" && [5,9,31].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ChinaRoboticsGraphics locale={locale} kind={originalIndex === 5 ? "share" : originalIndex === 9 ? "density" : "status"} /></div>;
               }
               if (article.slug === "estonia-digital-government-e-id-x-road" && [7,13,31].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><EstoniaGraphics locale={locale} kind={originalIndex === 7 ? "timeline" : originalIndex === 13 ? "flow" : "voting"} /></div>;

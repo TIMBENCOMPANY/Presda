@@ -556,6 +556,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/china-robot-revolution-industrial-automation/",
+    "path": "/ar/articles/china-robot-revolution-industrial-automation/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/china-robot-revolution-industrial-automation/",
+    "path": "/es/articles/china-robot-revolution-industrial-automation/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/china-robot-revolution-industrial-automation/",
+    "path": "/fr/articles/china-robot-revolution-industrial-automation/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/cristiano-ronaldo-leaves-portugal-camp-2026/",
     "path": "/ar/articles/cristiano-ronaldo-leaves-portugal-camp-2026/"
   },
