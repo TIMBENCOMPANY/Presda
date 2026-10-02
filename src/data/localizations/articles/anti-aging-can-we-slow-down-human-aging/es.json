@@ -6,7 +6,7 @@
   "status": "published",
   "review": {
     "reviewer": "Codex Spanish editorial review",
-    "reviewedAt": "2026-10-01",
+    "reviewedAt": "2026-10-02",
     "terminologyChecked": true
   },
   "title": "Antienvejecimiento: ¿Podemos realmente frenar el envejecimiento humano?",
@@ -31,10 +31,10 @@
     "reprogramación epigenética"
   ],
   "searchIntent": "Entender el antienvejecimiento: ¿podemos realmente frenar el envejecimiento humano?",
-  "category": "Lifestyle",
+  "category": "Science",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-09-06",
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-10-02",
   "image": {
     "src": "/images/articles/anti-aging-human-longevity-2026.jpg",
     "alt": "Concepto de antienvejecimiento y longevidad humana que muestra el envejecimiento biológico, el ADN y el paso del tiempo"
@@ -238,7 +238,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La mejor pregunta no es si los humanos pueden vencer el envejecimiento. Se trata de si la ciencia puede ayudar a las personas a mantenerse saludables por más tiempo evitando al mismo tiempo las exageraciones, la autoexperimentación insegura y el marketing exagerado. Ahí es donde está la verdadera historia."
+      "text": "La mejor pregunta no es si los humanos pueden vencer el envejecimiento. Se trata de si la ciencia puede ayudar a las personas a mantenerse saludables por más tiempo evitando al mismo tiempo las exageraciones, la autoexperimentación insegura y el marketing exagerado. Ahí es donde está la verdadera historia. Como caso real, lea sobre [Bryan Johnson y su experimento de longevidad Blueprint](/articles/bryan-johnson-blueprint-anti-aging-longevity/)."
     }
   ],
   "sources": [

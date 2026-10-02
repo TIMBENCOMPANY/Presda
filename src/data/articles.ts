@@ -21,6 +21,7 @@ import { taylorSpotifyArticle } from "@/data/taylorSpotifyArticle";
 import { hansZimmerArticle } from "@/data/hansZimmerArticle";
 import { tysonNetflixArticle } from "@/data/tysonNetflixArticle";
 import { deExtinctionArticle } from "@/data/deExtinctionArticle";
+import { bryanJohnsonArticle } from "@/data/bryanJohnsonArticle";
 import { humanFamilyArticle } from "@/data/humanFamilyArticle";
 
 export type ArticleCategory =
@@ -29197,8 +29198,10 @@ export const articles: Article[] = [
     },
     excerpt:
       "Scientists are asking not only how to live longer, but also whether humans can stay healthier and biologically younger for longer.",
-    category: "Lifestyle",
+    category: "Science",
     date: "2026-09-06",
+    lastUpdated: "2026-10-02",
+    relatedSlugs: ["bryan-johnson-blueprint-anti-aging-longevity", "human-family-tree-human-evolution-species", "de-extinction-bringing-extinct-animals-back-science"],
     author: "PRESDA Editorial",
     coverImage: "/images/articles/anti-aging-human-longevity-2026.jpg",
     coverAlt: "Anti-aging and human longevity concept showing biological aging, DNA and the passage of time",
@@ -29253,7 +29256,7 @@ export const articles: Article[] = [
       "The most credible future is not a world where aging disappears. It is a world where more people reach later life with fewer years of disability, better prevention and more targeted medicine.",
       "## What Readers Should Take Away",
       "Anti-aging is real as a scientific field, but not as a simple consumer promise. Aging biology can be measured and studied. Some mechanisms can be influenced in animals. Some interventions are being tested in humans. But broad human age reversal remains unproven.",
-      "The best question is not whether humans can defeat aging. It is whether science can help people stay healthy for longer while avoiding hype, unsafe self-experimentation and exaggerated marketing. That is where the real story is."
+      "The best question is not whether humans can defeat aging. It is whether science can help people stay healthy for longer while avoiding hype, unsafe self-experimentation and exaggerated marketing. That is where the real story is. For a real-world case study, read [Bryan Johnson and his Blueprint longevity experiment](/articles/bryan-johnson-blueprint-anti-aging-longevity/)."
     ],
     references: [
       {
@@ -35549,7 +35552,8 @@ export const articles: Article[] = [
   hansZimmerArticle,
   tysonNetflixArticle,
   deExtinctionArticle,
-  humanFamilyArticle
+  humanFamilyArticle,
+  bryanJohnsonArticle
 ];
 
 export const categories: ArticleCategory[] = [
