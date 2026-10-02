@@ -3,6 +3,7 @@ import { translationRoutes } from "@/lib/i18n/registry";
 import { articleTables, astrologyComparisonTable, type ArticleTableConfig } from "@/lib/articleTables";
 import { LocalizedInlineText } from "@/components/LocalizedInlineText";
 import { articleLabels } from "@/lib/i18n/article-presentation";
+import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
 import type { Locale } from "@/lib/i18n/routing";
 import type { LocalizedBlock } from "@/lib/i18n/content";
@@ -289,6 +290,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "human-family-tree-human-evolution-species" && (originalIndex === 3 || originalIndex === 5)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HumanEvolutionGraphics locale={locale} kind={originalIndex === 3 ? "timeline" : "tree"} /></div>;
+              }
               const structured = localizedBlocks?.[originalIndex];
               if (structured?.type === "table" && structured.sourceMarker === "[[ASTROLOGY_SCIENCE_TABLE]]") return <AstrologyComparisonTable key={originalIndex} table={{ headers: structured.headings, rows: structured.rows }} />;
               if (structured?.type === "table") return <StandardArticleTable key={originalIndex} table={{ caption: structured.caption, headers: structured.headings, rows: structured.rows, minWidthClass: articleTables[structured.sourceMarker ?? ""]?.minWidthClass ?? "min-w-[680px]", boldColumnIndex: articleTables[structured.sourceMarker ?? ""]?.boldColumnIndex ?? 0, rowKeyIndex: articleTables[structured.sourceMarker ?? ""]?.rowKeyIndex ?? 0 }} />;

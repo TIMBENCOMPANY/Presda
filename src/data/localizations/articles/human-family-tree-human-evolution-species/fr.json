@@ -1,0 +1,470 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/human-family-tree-human-evolution-species/",
+  "path": "/fr/articles/human-family-tree-human-evolution-species/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr localization and source-parity review",
+    "reviewedAt": "2026-10-02",
+    "terminologyChecked": true
+  },
+  "title": "L’arbre de la famille humaine : ces autres humains qui ont peuplé la Terre",
+  "excerpt": "L’évolution humaine raconte des populations qui se ramifient, partagent des territoires et parfois se métissent. Fossiles et ADN ancien révèlent une famille bien plus riche qu’une échelle.",
+  "headlineHighlights": {
+    "red": "famille humaine",
+    "gold": "autres humains"
+  },
+  "seoTitle": "Évolution humaine : notre arbre de famille et ses espèces",
+  "description": "Néandertal, Denisova, Homo erectus et nos origines africaines : explorez l’évolution humaine avec une frise interactive, un arbre et les données génétiques.",
+  "keywords": [
+    "évolution humaine",
+    "espèces humaines",
+    "ancêtres humains",
+    "Homo sapiens",
+    "Néandertal",
+    "Dénisoviens",
+    "Homo erectus",
+    "Homo habilis",
+    "arbre de la famille humaine"
+  ],
+  "searchIntent": "Comprendre les espèces humaines, leurs parentés, leurs périodes de coexistence et les limites des données fossiles et génétiques.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-02",
+  "updatedAt": "2026-10-02",
+  "image": {
+    "src": "/articles/human-evolution-museum.png",
+    "alt": "Reconstitutions de type muséal générées par IA, illustration conceptuelle et non restitution scientifique exacte ou séquence évolutive"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Pendant une grande partie de notre histoire évolutive, être humain ne signifiait pas appartenir à l’unique population humaine sur Terre. Différents parents occupaient l’Afrique, l’Eurasie et les îles d’Asie du Sud-Est, parfois aux mêmes époques pendant des centaines de milliers d’années. Certains se sont rencontrés et ont eu des enfants. D’autres ne sont connus que par quelques dents ou os."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’évolution humaine est un processus de ramification, pas une marche allant du singe à l’humain moderne. Nous sommes des grands singes ; les chimpanzés actuels sont nos parents, pas nos ancêtres. Homo sapiens est la seule espèce humaine survivante, mais beaucoup de nos parents disparus étaient des cousins plutôt que des ancêtres directs. Cette diversité est bien mieux établie que chacun des liens proposés entre ses branches. [Smithsonian : fossiles humains et classification](https://humanorigins.si.edu/evidence/human-fossils)"
+    },
+    {
+      "type": "heading",
+      "text": "LIRE QUATRE MILLIONS D’ANNÉES D’HISTOIRE HUMAINE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La frise compare des plages approximatives documentées, pas des dates précises de naissance et d’extinction. Un fossile atteste une présence en un lieu et à une époque ; il révèle rarement le début ou la fin d’une lignée. Certaines barres résument des fossiles, d’autres incluent la génétique ou un regroupement taxonomique discuté. Lisez les réserves de chaque ligne. Une coexistence chronologique ne prouve pas un contact sur le même territoire."
+    },
+    {
+      "type": "heading",
+      "text": "UN ARBRE DE FAMILLE AVEC DES BRANCHES ET DES LIENS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le schéma est un guide simplifié des parentés, pas une généalogie datée. Les pointillés indiquent des positions incertaines, non des liens ancêtre-descendant démontrés. La génétique rapproche davantage Néandertaliens et Dénisoviens entre eux que d’Homo sapiens. Les métissages créent des liens entre branches : un arbre ne peut donc représenter toute cette histoire. [Smithsonian : ADN ancien et Néandertal](https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals)"
+    },
+    {
+      "type": "heading",
+      "text": "AUSTRALOPITHECUS AFARENSIS : MARCHER AVANT LES GRANDS CERVEAUX"
+    },
+    {
+      "type": "paragraph",
+      "text": "Australopithecus afarensis vivait en Afrique orientale il y a environ 3,85 à 2,95 millions d’années. Lucy, squelette vieux d’environ 3,2 millions d’années découvert à Hadar, en Éthiopie, en 1974, a contribué à établir que la bipédie précédait les grands cerveaux des Homo ultérieurs. Les empreintes de Laetoli en Tanzanie et l’enfant de Dikika apportent d’autres indices sur la locomotion et le développement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces hominines associaient une marche bipède habituelle à des adaptations à l’escalade, dont de longs bras et des doigts courbés. Le volume cérébral était généralement inférieur à 500 cm³. Les reconstitutions du Smithsonian proposent des tailles moyennes d’environ 1,05 m pour les femelles et 1,51 m pour les mâles, mais les estimations corporelles et l’écart entre sexes restent discutés. Aucune tradition technique ne peut être attribuée à tous les membres de cette espèce. A. afarensis pourrait être proche de l’ascendance d’Homo, sans que Lucy soit notre ancêtre directe démontrée. [Smithsonian : Australopithecus afarensis](https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis)"
+    },
+    {
+      "type": "heading",
+      "text": "HOMO HABILIS : LES LIMITES DE L’HOMME HABILE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Homo habilis est traditionnellement situé entre environ 2,4 et 1,4 millions d’années en Afrique orientale et australe. Les découvertes d’Olduvai, en Tanzanie, ont conduit à sa dénomination en 1964. Une face et des dents relativement petites accompagnaient de longs bras et un corps modeste, avec des estimations de taille d’environ 1 à 1,35 m. Les fossiles attribués à ce nom ne sont pas tous aussi complets ni aussi consensuels. [Smithsonian : Homo habilis](https://humanorigins.si.edu/evidence/human-fossils/species/homo-habilis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les estimations de capacité crânienne vont approximativement de 500 à 800 cm³ selon le spécimen et sa reconstitution. Habilis est associé aux premiers outils de pierre, mais cette association n’en fait pas leur auteur exclusif. Le volume cérébral seul ne révèle ni langage, ni intelligence, ni vie sociale individuelle. [Muséum d’histoire naturelle : anatomie d’Homo habilis](https://www.nhm.ac.uk/discover/homo-habilis-early-maker-stone-tools.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les outils de Lomekwi, au Kenya, datent d’environ 3,3 millions d’années, avant la plage habituelle d’habilis. Leurs fabricants restent inconnus. Habilis ne s’est pas non plus simplement transformé en erectus avant de disparaître : leurs plages fossiles se recouvrent. Cela exclut une succession bien ordonnée, sans suffire à écarter une relation ancestrale entre certaines populations. [Nature (2015) : outils de Lomekwi](https://www.nature.com/articles/nature14464)"
+    },
+    {
+      "type": "heading",
+      "text": "HOMO ERECTUS : UNE HISTOIRE LONGUE ET ÉTENDUE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Homo erectus, au sens large, apparaît vers 1,9 million d’années et inclut des populations africaines et asiatiques. Certains chercheurs distinguent les premiers fossiles africains sous le nom d’Homo ergaster. Les découvertes de Java à partir du XIXe siècle, celles de Zhoukoudian en Chine et le garçon de Turkana au Kenya ont placé ce groupe au cœur des recherches."
+    },
+    {
+      "type": "paragraph",
+      "text": "Des jambes plus longues et des bras plus courts relativement au tronc donnaient à erectus des proportions terrestres plus familières. Les synthèses muséales indiquent environ 550 à 1 250 cm³ de volume cérébral et 1,4 à 1,8 m de stature, témoignant d’une variation importante. Les bifaces acheuléens apparaissent dans une partie de son monde archéologique vers 1,76 million d’années, mais les outils diffèrent selon les populations. Les preuves de maîtrise du feu doivent être évaluées site par site, pas attribuées automatiquement à toute l’espèce. [Smithsonian : Homo erectus](https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus) [Muséum d’histoire naturelle : anatomie d’Homo erectus](https://www.nhm.ac.uk/discover/homo-erectus-our-ancient-ancestor.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fossiles d’erectus les plus récents solidement datés à Ngandong, à Java, proviennent de dépôts estimés entre 117 000 et 108 000 ans. C’est la dernière occurrence locale connue, pas la mort documentée du dernier représentant de l’espèce. Des populations apparentées à erectus ont probablement contribué à la diversité humaine ultérieure, mais les ramifications exactes restent incertaines. [Nature (2020) : datation des fossiles de Ngandong](https://www.nature.com/articles/s41586-019-1863-2)"
+    },
+    {
+      "type": "heading",
+      "text": "HOMO HEIDELBERGENSIS : UN NOM EN DÉBAT"
+    },
+    {
+      "type": "paragraph",
+      "text": "Homo heidelbergensis doit son nom à la mandibule de Mauer, découverte près de Heidelberg en Allemagne en 1908. Dans son usage traditionnel large, il englobe des humains à grand cerveau du Pléistocène moyen, entre environ 700 000 et 200 000 ans, en Europe et en Afrique, avec de possibles attributions asiatiques. Mâchoires robustes et fortes arcades sourcilières sont fréquentes, mais les spécimens diffèrent. Les moyennes corporelles et cérébrales changent selon les fossiles inclus. Le Smithsonian propose, dans ce classement large, des statures moyennes d’environ 1,57 m pour les femmes et 1,75 m pour les hommes. [Smithsonian : classification large d’Homo heidelbergensis](https://humanorigins.si.edu/evidence/human-fossils/species/homo-heidelbergensis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le débat porte sur l’existence d’une espèce unique, de plusieurs lignées régionales ou de populations déjà liées aux histoires de Néandertal et de sapiens. L’ADN nucléaire de restes vieux d’environ 430 000 ans à Sima de los Huesos, en Espagne, les place du côté néandertalien. Il établit aussi une divergence antérieure entre populations néandertaliennes et dénisoviennes. Présenter toutes les lignées suivantes comme des descendantes démontrées d’heidelbergensis masquerait cette incertitude. [Nature (2016) : ADN nucléaire de Sima de los Huesos](https://www.nature.com/articles/nature17405)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les humains du Pléistocène moyen fabriquaient des outils de pierre élaborés et, sur certains sites, des armes de chasse en bois. Attribuer un assemblage à une espèce exige davantage qu’une correspondance de dates. Il faut distinguer la réalisation archéologique de l’attribution discutée d’un nom fossile."
+    },
+    {
+      "type": "heading",
+      "text": "NÉANDERTAL : DES PARENTS PROCHES AVEC LEUR PROPRE HISTOIRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Néandertaliens occupaient l’Europe et une partie de l’Asie occidentale et centrale. Leur plage fossile large va d’environ 400 000 à 40 000 ans, l’anatomie caractéristique s’étant formée progressivement. La découverte de 1856 dans la vallée de Neander leur a donné leur nom. Corps trapus, grande région nasale et membres puissants distinguent beaucoup de spécimens. Le Smithsonian estime la stature moyenne à environ 1,55 m pour les femmes et 1,64 m pour les hommes. [Smithsonian : Homo neanderthalensis](https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Leurs capacités crâniennes recouvrent et dépassent parfois celles des humains actuels, avec environ 1 200 à 1 750 cm³ dans les synthèses muséales. Ce n’est pas un classement d’intelligence. Ils préparaient des nucléus pour produire des outils, chassaient, transformaient des aliments variés et utilisaient le feu. Les indices de soins aux blessés et de certaines sépultures intentionnelles contredisent les caricatures, tandis que les interprétations symboliques demandent un examen attentif du contexte et des dates. [Muséum d’histoire naturelle : anatomie et ascendance néandertaliennes](https://www.nhm.ac.uk/discover/who-were-the-neanderthals.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ADN ancien a transformé cette parenté, auparavant étudiée par les formes, en une question génétique testable. Beaucoup de personnes ayant une ascendance importante hors d’Afrique portent environ 1 à 2 % d’ADN d’origine néandertalienne. Il s’agit de segments hérités, pas d’un pourcentage de personnalité ni d’une mesure d’humanité. Cette ascendance existe aussi dans des populations africaines du fait de migrations complexes, notamment de retours vers l’Afrique. [Smithsonian : ADN ancien et Néandertal](https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des études de 2024 ont situé une grande période partagée de flux génétique néandertalien vers les ancêtres des non-Africains actuels autour de 47 000 ans, sur plusieurs millénaires. Elles ont aussi suivi les devenirs différents des variants hérités, dont certaines pertes après métissage. Cela ne signifie ni que toutes les rencontres datent de cette période, ni qu’il n’y en eut qu’une, ni que les modèles révèlent leurs circonstances sociales. [Max Planck (2024) : datation du flux génétique néandertalien](https://www.eva.mpg.de/press/news/press-kits/2024/2024-12-12-1041-unraveling-human-history/)"
+    },
+    {
+      "type": "heading",
+      "text": "DENISOVA : UNE DÉCOUVERTE GÉNÉTIQUE PREND UN VISAGE FOSSILE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les Dénisoviens ont d’abord été identifiés par l’ADN ancien de la grotte de Denisova, en Sibérie ; l’étude génomique fondatrice date de 2010. Il s’agit d’une lignée génétique proche de Néandertal, pas simplement d’un nom latin d’espèce universellement accepté. Leur contribution génétique aux vivants a révélé une histoire plus étendue que celle de cette seule grotte. [Nature (2010) : génome dénisovien](https://www.nature.com/articles/nature09710)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ADN sédimentaire atteste leur présence à Denisova dans des dépôts vieux d’environ 250 000 à 170 000 ans. À Baishiya, sur le plateau tibétain, une côte identifiée par ses protéines provenait d’une couche datée d’environ 48 000 à 32 000 ans. Ces fenêtres ne donnent ni origine ni extinction précise. La barre qui les relie sur la frise n’implique pas une occupation continue de l’Asie. [Nature (2021) : ADN sédimentaire de Denisova](https://www.nature.com/articles/s41586-021-03675-0) [Nature (2024) : Dénisoviens de la grotte de Baishiya](https://www.nature.com/articles/s41586-024-07612-9)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2025, de l’ADN mitochondrial extrait du tartre dentaire a relié aux Dénisoviens le crâne de Harbin, vieux de plus de 146 000 ans, auparavant nommé Homo longi. Rattacher un individu à une lignée génétique ne tranche pas automatiquement la classification de tous les fossiles asiatiques apparentés. Un crâne identifié permet d’étudier son anatomie, pas de définir un visage, un cerveau ou une corpulence dénisoviens moyens fiables. [Cell (2025) : ADN dénisovien du crâne de Harbin](https://pubmed.ncbi.nlm.nih.gov/40920634/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude de Nature de septembre 2026 a utilisé des protéines anciennes pour identifier d’autres restes dénisoviens dans le sud-ouest de la Chine, notamment à Bianfu. Elle élargit le registre fossile moléculairement étayé et sa géographie. Les auteurs soulignent toutefois que les données génétiques et protéiques restent trop rares pour caractériser précisément ces populations et leurs contributions aux génomes actuels. [Nature (septembre 2026) : restes dénisoviens du sud-ouest de la Chine](https://www.nature.com/articles/s41586-026-10976-9)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les restes animaux découpés et le travail des os à Baishiya éclairent la subsistance sur le plateau tibétain. Mais une grotte fréquentée par différentes populations ne permet pas d’attribuer chaque parure ou outil aux Dénisoviens simplement parce que leur ADN y a été trouvé. Contexte, datation et association restent essentiels. [Nature (2024) : Dénisoviens de la grotte de Baishiya](https://www.nature.com/articles/s41586-024-07612-9)"
+    },
+    {
+      "type": "heading",
+      "text": "MÉTISSAGES : CE QUI SUBSISTE EN NOUS"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ascendance apparentée aux Dénisoviens varie fortement entre populations actuelles. Des recherches décrivent plusieurs pour cent chez des populations apparentées aux Papous, avec des estimations souvent citées de 4 à 6 %, et des contributions plus faibles dans de nombreuses populations asiatiques. Ces valeurs dépendent des échantillons et méthodes. Plusieurs apports dénisoviens divergents excluent l’image d’une population unique et uniforme. [Cell (2019) : ascendances dénisoviennes multiples chez les Papous](https://doi.org/10.1016/j.cell.2019.02.035)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un exemple concerne une région du gène EPAS1, associée à l’adaptation à l’altitude chez les Tibétains et liée à une ascendance dénisovienne. Un variant hérité peut favoriser l’adaptation à un milieu précis sans que tout variant archaïque soit bénéfique. L’effet relève d’un contexte biologique, pas d’une hiérarchie entre populations. [Nature (2014) : ADN apparenté à Denisova et adaptation à l’altitude](https://www.nature.com/articles/nature13408)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La preuve familiale la plus directe est Denisova 11. Une étude de 2018 a montré que cet individu avait une mère néandertalienne et un père dénisovien. C’est une démonstration directe de reproduction entre lignées. Elle ne révèle ni leur langue, ni leur conception de l’identité, ni la fréquence de telles familles en Eurasie. [Nature (2018) : mère néandertalienne et père dénisovien](https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les inférences génétiques dépendent de la conservation et de l’échantillonnage. Le froid préserve généralement mieux l’ADN que la chaleur humide ; quelques génomes ne représentent pas toutes les populations. Une estimation de divergence génomique ne date pas l’apparition soudaine d’une espèce. L’ADN mitochondrial suit une lignée maternelle, alors que l’ADN nucléaire combine de nombreux chemins ancestraux. L’absence d’apport détecté ne prouve pas l’absence de rencontre."
+    },
+    {
+      "type": "heading",
+      "text": "HOMO FLORESIENSIS : PETIT CORPS, GRANDES QUESTIONS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Homo floresiensis a été découvert en 2003 à Liang Bua, sur l’île indonésienne de Flores. Le squelette le plus connu, LB1, mesurait environ un mètre et possédait un cerveau d’environ 400 cm³. Sa combinaison particulière de caractères crâniens, des membres et des pieds ne correspond pas simplement à un humain moderne réduit. Des outils de pierre accompagnent le registre des petits hominines de l’île. [Smithsonian : Homo floresiensis](https://humanorigins.si.edu/evidence/human-fossils/species/homo-floresiensis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La datation révisée situe les ossements de Liang Bua entre environ 100 000 et 60 000 ans, et les objets lithiques associés entre 190 000 et 50 000 ans. Ces preuves différentes ne doivent pas être fusionnées silencieusement. La frise utilise les ossements. Les petits fossiles de Mata Menge, vieux d’environ 700 000 ans, montrent une histoire insulaire bien plus ancienne ; une étude de 2024 soutient une réduction corporelle précoce et une origine apparentée à erectus, même si la position évolutive reste débattue. [Nature (2016) : chronologie révisée de Liang Bua](https://www.nature.com/articles/nature17179) [Nature Communications (2024) : petits hominines de Mata Menge](https://www.nature.com/articles/s41467-024-50649-7)"
+    },
+    {
+      "type": "heading",
+      "text": "HOMO NALEDI : UNE MOSAÏQUE ANATOMIQUE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les restes d’Homo naledi ont été découverts en 2013 dans les grottes de Rising Star, en Afrique du Sud, puis décrits en 2015. L’assemblage initial associait un petit cerveau, environ 465 à 560 cm³ dans les crânes reconstitués, à des pieds proches des nôtres et à des mains conservant des doigts très courbés. Une stature estimée vers 1,45 m décrit le modèle corporel reconstitué, pas chaque individu. [eLife (2015) : découverte et anatomie d’Homo naledi](https://elifesciences.org/articles/09560)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La datation des restes de Dinaledi entre environ 335 000 et 236 000 ans a montré que cette combinaison anatomique persistait vers l’apparition des premiers sapiens africains. Petit cerveau et traits d’allure ancestrale n’indiquent donc pas automatiquement une très grande ancienneté. La place de naledi dans Homo reste incertaine, et aucune industrie lithique distinctive n’est solidement attachée à l’assemblage de Dinaledi. [eLife (2017) : datation d’Homo naledi](https://elifesciences.org/articles/24231)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les affirmations selon lesquelles naledi enterrait ses morts et réalisait des gravures suscitent un débat durable. Arguments actualisés et critiques publiées restent des interprétations concurrentes, pas un récit rituel établi. En 2026, l’étude de protéines de l’émail représentant au moins 20 individus n’a trouvé aucun marqueur masculin convaincant dans les échantillons. Ce résultat concerne le matériel étudié ; il ne démontre pas à lui seul des coutumes funéraires ni l’ascendance de l’espèce. [eLife (2025) : hypothèse de sépultures d’Homo naledi](https://doi.org/10.7554/eLife.89106.2) [PaleoAnthropology (2025) : critique des indices de sépulture](https://paleoanthropology.org/ojs/index.php/paleo/article/view/1099) [Cell (2026) : protéines de l’émail d’Homo naledi](https://pure.york.ac.uk/portal/en/publications/proteomic-analysis-of-dental-enamel-from-20-homo-naledi-individua/)"
+    },
+    {
+      "type": "heading",
+      "text": "HOMO LUZONENSIS : QUELQUES OS, UNE COMBINAISON DISTINCTIVE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Homo luzonensis a été nommé en 2019 à partir de dents et d’os fragmentaires des membres provenant de Callao, sur Luzon aux Philippines. Les données comprennent des âges minimaux d’environ 67 000 et 50 000 ans. Les caractères dentaires et les os courbés des doigts et orteils forment une combinaison différente des autres Homo reconnus, mais les restes sont rares. Aucun crâne ne permet d’estimer le volume cérébral, ni les fragments de reconstituer une taille corporelle fiable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son ascendance exacte, son arrivée sur Luzon et ses relations avec les autres hominines insulaires restent inconnues. Les traces archéologiques antérieures sur l’île ne peuvent être attribuées automatiquement à luzonensis. Un os courbé peut éclairer une fonction sans prouver tout le comportement quotidien. La frise indique les âges minimaux publiés, pas une durée d’existence précisément délimitée. [Nature (2019) : Homo luzonensis de Callao](https://www.nature.com/articles/s41586-019-1067-9)"
+    },
+    {
+      "type": "heading",
+      "text": "HOMO SAPIENS : ORIGINES AFRICAINES ET POPULATIONS CONNECTÉES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Homo sapiens est apparu en Afrique il y a environ 300 000 ans au moins. Notre espèce associe généralement une boîte crânienne relativement arrondie, une face réduite et un menton, mais ces traits ne sont pas apparus simultanément chez une première personne. La corpulence varie beaucoup, et le volume cérébral ne nous sépare pas nettement de tous nos parents disparus. Outils complexes, apprentissage social et pratiques symboliques se sont accumulés selon les populations et les périodes. Le Smithsonian donne un volume cérébral moyen actuel d’environ 1 300 cm³. [Smithsonian : Homo sapiens](https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fossiles marocains de Jebel Irhoud, présentés avec de nouvelles données en 2017, associent une face relativement moderne à une boîte crânienne plus allongée. Ils contestent un récit limité à un petit berceau est-africain. Les fossiles montrent une mosaïque de caractères, pas l’instant photographié où une espèce antérieure serait devenue la nôtre. [Nature (2017) : Jebel Irhoud et origines africaines](https://www.nature.com/articles/nature22336)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La modélisation génétique soutient aussi une histoire africaine connectée. Une étude de Nature de 2023 a montré que des populations ancestrales en interaction pouvaient expliquer des variations actuelles sans imposer une source unique longtemps isolée. Ces modèles sont des reconstitutions testables, pas une carte achevée. Plusieurs histoires peuvent correspondre à des données semblables, surtout lorsque l’ADN africain très ancien manque. [Nature (2023) : modèle structuré des origines africaines](https://www.nature.com/articles/s41586-023-06055-y)"
+    },
+    {
+      "type": "heading",
+      "text": "LA SORTIE D’AFRIQUE N’A PAS EU LIEU UNE SEULE FOIS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des Homo antérieurs avaient quitté l’Afrique bien avant sapiens. Notre espèce a aussi connu plusieurs mouvements : les excursions anciennes se distinguent de l’expansion ultérieure qui a fourni l’essentiel de l’ascendance des populations actuelles hors d’Afrique. Une étude de 2025 relie une flexibilité écologique croissante en Afrique, à partir d’environ 70 000 ans, au contexte précédant cette grande expansion. Elle ne fixe ni itinéraire universel ni jour de départ. [Nature (2025) : expansion écologique avant la sortie d’Afrique](https://www.nature.com/articles/s41586-025-09154-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au Pléistocène récent, sapiens, Néandertaliens, Dénisoviens et lignées insulaires formaient un monde de populations humaines contemporaines. La géographie compte autant que la chronologie : être contemporains ne prouve pas un contact. Lorsque les génomes révèlent des métissages, la preuve d’un contact biologique est bien plus forte que le seul recouvrement des dates."
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE CHANGENT LES DÉCOUVERTES RÉCENTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les protéines anciennes deviennent accessibles dans des spécimens conservant peu d’ADN exploitable. En mai 2026, des chercheurs ont décrit des protéines d’émail de six Homo erectus chinois vieux d’environ 400 000 ans. Un variant partagé les a conduits à proposer une contribution de populations apparentées à erectus à l’ascendance dénisovienne. C’est une hypothèse moléculaire, pas un génome complet d’erectus ni une nouvelle branche définitivement établie. [Nature (mai 2026) : protéines d’Homo erectus chinois](https://www.nature.com/articles/s41586-026-10478-8)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Avec Harbin, les identifications dénisoviennes de septembre 2026 et les protéines de naledi, ces résultats montrent pourquoi les anciens schémas doivent être révisés. Des données améliorées peuvent relier une lignée génétique à un fossile, préciser un âge ou contester une hypothèse anatomique sans résoudre toutes les frontières entre espèces."
+    },
+    {
+      "type": "heading",
+      "text": "POURQUOI LES AUTRES LIGNÉES ONT-ELLES DISPARU ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucune cause unique démontrée ne couvre toutes les lignées humaines disparues. Climat, habitats, petites populations fragmentées, compétition et métissage sont des facteurs possibles dont l’importance varie. Les recherches comparatives les testent, mais le dernier fossile connu n’est pas le certificat de décès d’une espèce entière. Échantillonnage et classification influencent aussi les extinctions reconstituées. [Nature Ecology & Evolution (2024) : diversité et extinction des hominines](https://www.nature.com/articles/s41559-024-02390-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour Néandertal et Denisova, l’ascendance survivante signifie que la disparition des populations n’a pas effacé tout apport génétique. Pour naledi, floresiensis et luzonensis, les données sont bien plus minces. Affirmer que sapiens a exterminé tous ses parents, ou gagné grâce à un cerveau plus gros, dépasse ce que les preuves établissent."
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE L’ARBRE DE FAMILLE NE RÉVÈLE PAS ENCORE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous ignorons l’ascendance précise de chaque espèce nommée, toute l’étendue des populations dénisoviennes et les langues ou identités des communautés disparues. Les fossiles conservent rarement directement les comportements. Un nom d’espèce est une hypothèse scientifique sur la variation et les parentés. Modifier une classification ne remet pas en cause l’existence de l’évolution humaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’arbre de famille le plus défendable reste donc inachevé. Il décrit ramifications, coexistences et échanges sans classer les vivants en degrés évolutifs. Tous les humains actuels appartiennent à Homo sapiens. Nos différences sont des variations au sein de cette espèce commune, pas les marches d’une échelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour approfondir les limites des génomes anciens, consultez notre [guide de la désextinction](/articles/de-extinction-bringing-extinct-animals-back-science/). Notre article sur les [adaptations des plongeurs bajau](/articles/bajau-people-sea-nomads-diving/) explore la poursuite de l’évolution au sein des populations humaines actuelles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note éditoriale : sources et découvertes récentes vérifiées jusqu’au 2 octobre 2026. L’image principale est une illustration muséale générée par IA. Ses visages, corps et disposition ne constituent pas des reconstitutions scientifiques exactes ; leur alignement ne doit pas être lu comme une séquence évolutive linéaire."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Smithsonian : fossiles humains et classification",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils"
+    },
+    {
+      "label": "Smithsonian : Australopithecus afarensis",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis"
+    },
+    {
+      "label": "Smithsonian : Homo habilis",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-habilis"
+    },
+    {
+      "label": "Muséum d’histoire naturelle : anatomie d’Homo habilis",
+      "url": "https://www.nhm.ac.uk/discover/homo-habilis-early-maker-stone-tools.html"
+    },
+    {
+      "label": "Nature (2015) : outils de Lomekwi",
+      "url": "https://www.nature.com/articles/nature14464"
+    },
+    {
+      "label": "Smithsonian : Homo erectus",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus"
+    },
+    {
+      "label": "Nature (2020) : datation des fossiles de Ngandong",
+      "url": "https://www.nature.com/articles/s41586-019-1863-2"
+    },
+    {
+      "label": "Smithsonian : classification large d’Homo heidelbergensis",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-heidelbergensis"
+    },
+    {
+      "label": "Nature (2016) : ADN nucléaire de Sima de los Huesos",
+      "url": "https://www.nature.com/articles/nature17405"
+    },
+    {
+      "label": "Smithsonian : Homo neanderthalensis",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis"
+    },
+    {
+      "label": "Muséum d’histoire naturelle : anatomie et ascendance néandertaliennes",
+      "url": "https://www.nhm.ac.uk/discover/who-were-the-neanderthals.html"
+    },
+    {
+      "label": "Smithsonian : ADN ancien et Néandertal",
+      "url": "https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals"
+    },
+    {
+      "label": "Max Planck (2024) : datation du flux génétique néandertalien",
+      "url": "https://www.eva.mpg.de/press/news/press-kits/2024/2024-12-12-1041-unraveling-human-history/"
+    },
+    {
+      "label": "Nature (2010) : génome dénisovien",
+      "url": "https://www.nature.com/articles/nature09710"
+    },
+    {
+      "label": "Nature (2021) : ADN sédimentaire de Denisova",
+      "url": "https://www.nature.com/articles/s41586-021-03675-0"
+    },
+    {
+      "label": "Nature (2024) : Dénisoviens de la grotte de Baishiya",
+      "url": "https://www.nature.com/articles/s41586-024-07612-9"
+    },
+    {
+      "label": "Cell (2025) : ADN dénisovien du crâne de Harbin",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40920634/"
+    },
+    {
+      "label": "Nature (septembre 2026) : restes dénisoviens du sud-ouest de la Chine",
+      "url": "https://www.nature.com/articles/s41586-026-10976-9"
+    },
+    {
+      "label": "Cell (2019) : ascendances dénisoviennes multiples chez les Papous",
+      "url": "https://doi.org/10.1016/j.cell.2019.02.035"
+    },
+    {
+      "label": "Nature (2014) : ADN apparenté à Denisova et adaptation à l’altitude",
+      "url": "https://www.nature.com/articles/nature13408"
+    },
+    {
+      "label": "Nature (2018) : mère néandertalienne et père dénisovien",
+      "url": "https://www.eva.mpg.de/documents/Nature/Slon_The-genome_Nature_2018_2634311.pdf"
+    },
+    {
+      "label": "Smithsonian : Homo floresiensis",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-floresiensis"
+    },
+    {
+      "label": "Nature (2016) : chronologie révisée de Liang Bua",
+      "url": "https://www.nature.com/articles/nature17179"
+    },
+    {
+      "label": "Nature Communications (2024) : petits hominines de Mata Menge",
+      "url": "https://www.nature.com/articles/s41467-024-50649-7"
+    },
+    {
+      "label": "eLife (2015) : découverte et anatomie d’Homo naledi",
+      "url": "https://elifesciences.org/articles/09560"
+    },
+    {
+      "label": "eLife (2017) : datation d’Homo naledi",
+      "url": "https://elifesciences.org/articles/24231"
+    },
+    {
+      "label": "eLife (2025) : hypothèse de sépultures d’Homo naledi",
+      "url": "https://doi.org/10.7554/eLife.89106.2"
+    },
+    {
+      "label": "PaleoAnthropology (2025) : critique des indices de sépulture",
+      "url": "https://paleoanthropology.org/ojs/index.php/paleo/article/view/1099"
+    },
+    {
+      "label": "Cell (2026) : protéines de l’émail d’Homo naledi",
+      "url": "https://pure.york.ac.uk/portal/en/publications/proteomic-analysis-of-dental-enamel-from-20-homo-naledi-individua/"
+    },
+    {
+      "label": "Nature (2019) : Homo luzonensis de Callao",
+      "url": "https://www.nature.com/articles/s41586-019-1067-9"
+    },
+    {
+      "label": "Smithsonian : Homo sapiens",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens"
+    },
+    {
+      "label": "Nature (2017) : Jebel Irhoud et origines africaines",
+      "url": "https://www.nature.com/articles/nature22336"
+    },
+    {
+      "label": "Nature (2023) : modèle structuré des origines africaines",
+      "url": "https://www.nature.com/articles/s41586-023-06055-y"
+    },
+    {
+      "label": "Nature (2025) : expansion écologique avant la sortie d’Afrique",
+      "url": "https://www.nature.com/articles/s41586-025-09154-0"
+    },
+    {
+      "label": "Nature (mai 2026) : protéines d’Homo erectus chinois",
+      "url": "https://www.nature.com/articles/s41586-026-10478-8"
+    },
+    {
+      "label": "Muséum d’histoire naturelle : anatomie d’Homo erectus",
+      "url": "https://www.nhm.ac.uk/discover/homo-erectus-our-ancient-ancestor.html"
+    },
+    {
+      "label": "Nature Ecology & Evolution (2024) : diversité et extinction des hominines",
+      "url": "https://www.nature.com/articles/s41559-024-02390-z"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Descendons-nous des singes actuels ?",
+      "answer": "Nous sommes des grands singes. Nous partageons des ancêtres avec les chimpanzés et les autres singes actuels, sans descendre des espèces qui vivent aujourd’hui à nos côtés."
+    },
+    {
+      "question": "Les Néandertaliens étaient-ils nos ancêtres ou nos cousins ?",
+      "answer": "Ils formaient une lignée apparentée qui s’est métissée avec Homo sapiens. Ce sont des cousins évolutifs ayant contribué à l’ascendance de nombreux humains actuels."
+    },
+    {
+      "question": "Combien d’espèces humaines ont existé ?",
+      "answer": "Aucun total ne fait l’unanimité, car classifications fossiles et frontières entre espèces sont discutées. Les dix groupes présentés sont une sélection, pas un recensement complet."
+    },
+    {
+      "question": "Un cerveau plus gros signifie-t-il un humain plus avancé ?",
+      "answer": "Non. Le volume crânien est une mesure anatomique, pas une mesure directe de l’intelligence, du langage ou de la complexité culturelle."
+    }
+  ]
+}

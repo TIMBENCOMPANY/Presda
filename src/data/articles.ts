@@ -21,6 +21,7 @@ import { taylorSpotifyArticle } from "@/data/taylorSpotifyArticle";
 import { hansZimmerArticle } from "@/data/hansZimmerArticle";
 import { tysonNetflixArticle } from "@/data/tysonNetflixArticle";
 import { deExtinctionArticle } from "@/data/deExtinctionArticle";
+import { humanFamilyArticle } from "@/data/humanFamilyArticle";
 
 export type ArticleCategory =
   | "Travel"
@@ -35547,7 +35548,8 @@ export const articles: Article[] = [
   taylorSpotifyArticle,
   hansZimmerArticle,
   tysonNetflixArticle,
-  deExtinctionArticle
+  deExtinctionArticle,
+  humanFamilyArticle
 ];
 
 export const categories: ArticleCategory[] = [
