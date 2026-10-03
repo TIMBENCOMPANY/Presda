@@ -1,4 +1,56 @@
-.bar { transform-origin: left; animation: reveal 700ms ease-out both; }
-[dir="rtl"] .bar { transform-origin: right; }
-@keyframes reveal { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-@media (prefers-reduced-motion: reduce) { .bar { animation: none; transition: none; } }
+.poll { clear: both; max-width: 960px; margin-inline: auto; scroll-margin-top: 112px; border: 1px solid #342426; border-radius: 16px; padding: 20px; background: #080808; color: #fff; }
+.header { margin-bottom: 18px; }
+.label { margin: 0 0 8px; font-size: 11px; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; color: #ff777d; }
+.question { margin: 0; font-size: 26px; line-height: 1.15; font-weight: 800; text-wrap: balance; }
+.matchup { display: grid; gap: 28px; }
+.contender { position: relative; min-width: 0; }
+.card { display: grid; grid-template-columns: 60px minmax(0, 1fr); align-items: center; gap: 10px 14px; height: 100%; padding: 14px; border: 1px solid #343434; border-radius: 12px; background: linear-gradient(145deg, #191919, #0c0c0c 80%); }
+.leading { border-color: #9b343b; background: linear-gradient(145deg, #251013, #100a0b 80%); }
+.flag { display: block; width: 60px; height: 40px; border-radius: 3px; }
+.identity { min-width: 0; }
+.city { margin: 0; font-size: 25px; line-height: 1.05; font-weight: 800; text-transform: uppercase; overflow-wrap: anywhere; }
+.stadium { margin: 5px 0 0; color: #c5c5c5; font-size: 12px; line-height: 1.4; }
+.vs { position: absolute; inset-inline-start: 50%; top: -24px; transform: translateX(-50%); color: #f66a73; font-size: 15px; line-height: 20px; font-weight: 800; font-style: italic; }
+[dir="rtl"] .vs { transform: translateX(50%); }
+.vote { text-transform: uppercase; grid-column: 1 / -1; min-height: 44px; border: 1px solid #e52c37; border-radius: 7px; background: #c60916; padding: 9px 12px; font-size: 14px; line-height: 1.2; font-weight: 800; color: white; cursor: pointer; transition: background 160ms ease, transform 160ms ease; }
+.vote:hover:enabled { background: #e01826; }
+.vote:active:enabled { transform: translateY(1px); }
+.vote:focus-visible, .retry:focus-visible { outline: 2px solid white; outline-offset: 3px; }
+.vote:disabled { cursor: wait; opacity: .55; }
+.result { grid-column: 1 / -1; display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+.percentage { font-size: 40px; line-height: 1; font-weight: 800; font-variant-numeric: tabular-nums; }
+.percentage span { font-size: .55em; margin-inline-start: 2px; color: #c5c5c5; }
+.count { font-size: 12px; line-height: 1.3; color: #c5c5c5; }
+.summary { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 8px 14px; margin-top: 16px; }
+.split { position: relative; width: min(220px, 100%); height: 5px; overflow: hidden; border-radius: 3px; background: #333; }
+.split span { position: absolute; inset: 0; height: 100%; transition: transform 700ms ease-out; }
+.casablanca { background: #ef3441; transform-origin: left; }
+.madrid { background: #c7c7c7; transform-origin: right; }
+[dir="rtl"] .casablanca { transform-origin: right; }
+[dir="rtl"] .madrid { transform-origin: left; }
+.total { margin: 0; font-size: 12px; font-weight: 600; color: #ddd; font-variant-numeric: tabular-nums; }
+.footer { margin: 14px 0 0; font-size: 11px; line-height: 1.5; color: #a8a8a8; text-align: center; }
+.notice, .error { margin: 10px 0 0; font-size: 12px; line-height: 1.5; color: #bbb; }
+.error { color: #ffb4b4; }
+.retry { min-height: 44px; margin-inline-start: 8px; text-decoration: underline; }
+@media (min-width: 640px) {
+  .poll { padding: 22px 24px 18px; }
+  .matchup { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 40px; }
+  .vs { top: 50%; inset-inline-start: -20px; transform: translate(-50%, -50%); }
+  [dir="rtl"] .vs { transform: translate(50%, -50%); }
+  .card { padding: 18px; gap: 14px; }
+  .question { font-size: 28px; }
+  .result { flex-direction: column; align-items: center; gap: 5px; }
+  .percentage { font-size: 44px; }
+}
+@media (max-width: 639px) {
+  .poll { padding: 16px; }
+  .question { font-size: 23px; }
+  .card:has(.result) { grid-template-columns: 48px minmax(0, 1fr) auto; gap: 10px; }
+  .card:has(.result) .flag { width: 48px; height: 32px; }
+  .card:has(.result) .city { font-size: 21px; }
+  .result { grid-column: auto; flex-direction: column; align-items: flex-end; gap: 5px; }
+  .percentage { font-size: 32px; }
+  .count { font-size: 11px; }
+}
+@media (prefers-reduced-motion: reduce) { .vote, .split span { transition: none; } }

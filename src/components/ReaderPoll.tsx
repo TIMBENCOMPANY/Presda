@@ -5,6 +5,19 @@ import type { Locale } from "@/lib/i18n/routing";
 import { pollChoices, pollCopy, pollPercentages, pollVoteCount, type PollChoice, type PollResult } from "@/lib/readerPoll";
 import styles from "./ReaderPoll.module.css";
 
+const presentation = {
+  en: { footer: "Unofficial PRESDA reader poll. Not affiliated with FIFA.", vote: (city: string) => `VOTE ${city}` },
+  fr: { footer: "Sondage non officiel des lecteurs de PRESDA. Sans affiliation à la FIFA.", vote: (city: string) => `VOTER POUR ${city}` },
+  ar: { footer: "استطلاع غير رسمي لقراء PRESDA. غير تابع للفيفا.", vote: (city: string) => city === "الدار البيضاء" ? "صوّت للدار البيضاء" : "صوّت لمدريد" },
+  es: { footer: "Encuesta no oficial de lectores de PRESDA. Sin afiliación a la FIFA.", vote: (city: string) => `VOTAR POR ${city}` }
+};
+
+function CountryFlag({ country }: { country: PollChoice }) {
+  return <svg className={styles.flag} viewBox="0 0 60 40" aria-hidden="true" focusable="false">
+    {country === "casablanca" ? <><path fill="#c1272d" d="M0 0h60v40H0z" /><path d="m30 9 6.5 20-17-12.4h21L23.5 29Z" fill="none" stroke="#00843d" strokeWidth="1.8" strokeLinejoin="round" /></> : <><path fill="#aa151b" d="M0 0h60v40H0z" /><path fill="#f1bf00" d="M0 10h60v20H0z" /></>}
+  </svg>;
+}
+
 export function ReaderPoll({ locale }: { locale: Locale }) {
   const t = pollCopy[locale];
   const root = useRef<HTMLElement>(null);
@@ -64,7 +77,7 @@ export function ReaderPoll({ locale }: { locale: Locale }) {
     return () => window.clearInterval(timer);
   }, [visible, result?.choice, load]);
 
-  async function vote() {
+  async function vote(choice: PollChoice) {
     if (!choice || busy.current || !ready) return;
     busy.current = true; setSending(true); setError("");
     try {
@@ -76,33 +89,48 @@ export function ReaderPoll({ locale }: { locale: Locale }) {
     finally { busy.current = false; setSending(false); }
   }
 
-  return <section ref={root} id="reader-poll" aria-labelledby="reader-poll-question" dir={locale === "ar" ? "rtl" : "ltr"} data-nosnippet className="clear-both scroll-mt-28 overflow-hidden rounded-2xl border border-red-500/35 bg-gradient-to-br from-[#240707] via-[#100909] to-black p-5 shadow-[0_18px_60px_#0008] sm:p-7">
-    <p className="font-display text-xs font-extrabold uppercase tracking-wide text-[#ff6868]">{t.label}</p>
-    <h2 id="reader-poll-question" className="mt-3 max-w-[30ch] font-display text-2xl font-extrabold leading-tight text-white sm:text-3xl">{t.question}</h2>
-    {!result?.choice ? <form className="mt-4" onSubmit={event => { event.preventDefault(); void vote(); }}>
-      <fieldset disabled={sending}>
-        <legend className="mb-3 text-sm text-white/75">{t.choose}</legend>
-        <div className="grid gap-3 sm:grid-cols-2">
-          {pollChoices.map(option => <label key={option} className={`flex min-h-20 cursor-pointer items-center gap-3 rounded-xl border p-4 transition-colors focus-within:outline focus-within:outline-2 focus-within:outline-offset-2 focus-within:outline-white ${choice === option ? "border-red-500 bg-red-600/20" : "border-white/25 bg-black/40 hover:border-white/60"}`}>
-            <input type="radio" name="stadium" value={option} checked={choice === option} onChange={() => setChoice(option)} className="h-5 w-5 shrink-0 accent-red-600" />
-            <span className="text-sm font-bold leading-relaxed text-white"><span aria-hidden="true">{option === "casablanca" ? "🇲🇦" : "🇪🇸"} </span>{t[option]}</span>
-          </label>)}
-        </div>
-      </fieldset>
-      <button type="submit" disabled={!choice || !ready || sending} className="mt-4 min-h-12 w-full rounded-xl bg-[#d70916] px-8 py-3 font-display text-base font-extrabold tracking-wider text-white shadow-[0_6px_24px_#e5091429] transition hover:bg-[#b80712] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-white disabled:cursor-not-allowed disabled:opacity-50 sm:w-auto">{sending ? t.sending : t.vote}</button>
-      {!ready && !error && <p className="mt-3 text-sm text-white/70">{t.loading}</p>}
-    </form> : <div className="mt-5 space-y-5">
-      {pollChoices.map(option => <div key={option}>
-        <div className="mb-2 flex items-start justify-between gap-3 text-sm text-white"><span className="font-bold">{option === "casablanca" ? "🇲🇦" : "🇪🇸"} {t[option]} {result.choice === option && <span aria-hidden="true">✓</span>}</span><strong className="shrink-0 tabular-nums"><bdi>{number.format(percentages[option])}%</bdi></strong></div>
-        <div role="meter" aria-label={t[option]} aria-valuemin={0} aria-valuemax={100} aria-valuenow={percentages[option]} className="h-3 overflow-hidden rounded-full bg-white/15"><div className={`${styles.bar} h-full rounded-full transition-[width] duration-700 ease-out motion-reduce:transition-none ${option === "casablanca" ? "bg-[#f43f4a]" : "bg-[#e4c36b]"}`} style={{ width: `${percentages[option]}%` }} /></div>
-        <p className="mt-1.5 text-xs tabular-nums text-white/75">{pollVoteCount(result[option], locale)}</p>
-      </div>)}
-      <p className="border-t border-white/15 pt-4 text-sm font-bold text-white">{t.total}: <bdi>{number.format(result.total)}</bdi></p>
-      <p className="text-xs text-white/65">{stale ? t.stale : t.live}</p>
+  const ui = presentation[locale];
+  const voted = Boolean(result?.choice);
+  return <section ref={root} id="reader-poll" aria-labelledby="reader-poll-question" dir={locale === "ar" ? "rtl" : "ltr"} data-nosnippet className={styles.poll}>
+    <header className={styles.header}>
+      <p className={`${styles.label} font-display`}>{t.label.replace(/ [\u2014·] /, " • ")}</p>
+      <h2 id="reader-poll-question" className={`${styles.question} font-display`}>{t.question}</h2>
+    </header>
+    <div className={styles.matchup}>
+      {pollChoices.map((option, index) => {
+        const [city, stadium] = t[option].split(/ [\u2014·] /);
+        const other = option === "casablanca" ? "madrid" : "casablanca";
+        const leading = voted && result![option] > result![other];
+        return <div key={option} className={styles.contender}>
+          {index === 1 && <span className={`${styles.vs} font-display`} aria-hidden="true">VS</span>}
+          <div className={`${styles.card} ${leading ? styles.leading : ""}`}>
+            <CountryFlag country={option} />
+            <div className={styles.identity}>
+              <h3 className={`${styles.city} font-display`}>{city}</h3>
+              <p className={styles.stadium}>{stadium}</p>
+            </div>
+            {voted ? <div role="meter" aria-label={t[option]} aria-valuemin={0} aria-valuemax={100} aria-valuenow={percentages[option]} className={styles.result}>
+              <strong className={`${styles.percentage} font-display`}><bdi>{number.format(percentages[option])}<span>%</span></bdi></strong>
+              <span className={styles.count}>{pollVoteCount(result![option], locale)}</span>
+            </div> : <button type="button" disabled={!ready || sending} onClick={() => { setChoice(option); void vote(option); }} className={`${styles.vote} font-display`}>
+              {sending && choice === option ? t.sending : ui.vote(city)}
+            </button>}
+          </div>
+        </div>;
+      })}
+    </div>
+    {voted && <div className={styles.summary}>
+      <div className={styles.split} aria-hidden="true">
+        <span className={styles.casablanca} style={{ transform: `scaleX(${percentages.casablanca / 100})` }} />
+        <span className={styles.madrid} style={{ transform: `scaleX(${percentages.madrid / 100})` }} />
+      </div>
+      <p className={styles.total}>{t.total}: <bdi>{number.format(result!.total)}</bdi></p>
     </div>}
-    <p role="status" aria-live="polite" className="mt-3 text-sm text-white">{message || (result?.choice ? t.previous : "")}</p>
-    {error && <div role="alert" className="mt-3 text-sm text-[#ffb4b4]">{error} {!ready && <button type="button" className="ms-2 min-h-11 underline" onClick={() => { setError(""); void load().then(ok => { if (!ok) setError(t.error); }); }}>{t.retry}</button>}</div>}
-    <p className="mt-4 text-xs leading-relaxed text-white/60">{t.note}</p>
-    <noscript><p className="mt-3 text-sm text-white">{t.nojs}</p></noscript>
+    <p role="status" aria-live="polite" className="sr-only">{message || (result?.choice ? t.previous : "")}</p>
+    {!ready && !error && <p className={styles.notice}>{t.loading}</p>}
+    {voted && stale && <p className={styles.notice}>{t.stale}</p>}
+    {error && <div role="alert" className={styles.error}>{error} {!ready && <button type="button" className={styles.retry} onClick={() => { setError(""); void load().then(ok => { if (!ok) setError(t.error); }); }}>{t.retry}</button>}</div>}
+    <p className={styles.footer}>{ui.footer}</p>
+    <noscript><p className={styles.notice}>{t.nojs}</p></noscript>
   </section>;
 }
