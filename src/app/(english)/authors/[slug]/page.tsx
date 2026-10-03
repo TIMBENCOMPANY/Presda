@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleCard } from "@/components/ArticleCard";
 import { getPublishedArticles } from "@/data/articles";
-import { getAuthorProfile, getAuthorProfiles, toAuthorSlug } from "@/lib/authors";
+import { getAuthorProfile, getAuthorProfiles, getAuthorSchemaType, toAuthorSlug } from "@/lib/authors";
 import { absoluteUrl, breadcrumbJsonLd, createPageMetadata } from "@/lib/seo";
 
 type AuthorPageProps = {
@@ -42,12 +42,12 @@ export default async function AuthorProfilePage({ params }: AuthorPageProps) {
   }
 
   const authorArticles = getPublishedArticles().filter((article) => toAuthorSlug(article.author) === author.slug);
-  const personJsonLd = {
+  const authorJsonLd = {
     "@context": "https://schema.org",
-    "@type": "Person",
+    "@type": getAuthorSchemaType(author.name),
     name: author.name,
     url: absoluteUrl(`/authors/${author.slug}/`),
-    worksFor: {
+    [getAuthorSchemaType(author.name) === "Organization" ? "parentOrganization" : "worksFor"]: {
       "@type": "Organization",
       "@id": "https://presda.com/#organization",
       name: "PRESDA"
@@ -58,7 +58,7 @@ export default async function AuthorProfilePage({ params }: AuthorPageProps) {
     <main className="home-page">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(authorJsonLd) }}
       />
       <script
         type="application/ld+json"

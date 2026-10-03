@@ -57,6 +57,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       url,
       siteName: "PRESDA",
       type: "article",
+      locale: "en_US",
+      authors: [authorUrl],
       publishedTime: article.date,
       modifiedTime: getArticleLastUpdated(article),
       images: [

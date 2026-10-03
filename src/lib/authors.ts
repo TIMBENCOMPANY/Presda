@@ -33,3 +33,8 @@ export function getAuthorProfiles(): AuthorProfile[] {
 export function getAuthorProfile(slug: string) {
   return getAuthorProfiles().find((author) => author.slug === slug);
 }
+
+/** These are named editorial desks, not individual people. */
+export function getAuthorSchemaType(name: string): "Organization" | "Person" {
+  return name === "PRESDA Editorial" || name === "PRESDA Sport" ? "Organization" : "Person";
+}

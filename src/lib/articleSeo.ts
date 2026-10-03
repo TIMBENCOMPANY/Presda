@@ -1,5 +1,5 @@
 import type { Article } from "@/data/articles";
-import { getAuthorProfile, toAuthorSlug } from "@/lib/authors";
+import { getAuthorProfile, getAuthorSchemaType, toAuthorSlug } from "@/lib/authors";
 import { categoryLabels } from "@/lib/categories";
 import { absoluteUrl, siteName, siteUrl } from "@/lib/seo";
 
@@ -157,6 +157,9 @@ export function articleJsonLd(article: Article) {
   return {
     "@context": "https://schema.org",
     "@type": getArticleSchemaType(article),
+    "@id": `${url}#article`,
+    url,
+    inLanguage: "en",
     headline: article.title,
     description: article.excerpt,
     image,
@@ -166,7 +169,7 @@ export function articleJsonLd(article: Article) {
     keywords: article.tags.join(", "),
     citation: getArticleReferences(article).map((reference) => reference.url ?? reference.name),
     author: {
-      "@type": article.author === "PRESDA Editorial" ? "Organization" : "Person",
+      "@type": getAuthorSchemaType(article.author),
       name: article.author,
       url: authorUrl
     },
@@ -189,7 +192,7 @@ export function articleJsonLd(article: Article) {
 export function authorJsonLd(article: Article) {
   const author = getAuthorProfile(toAuthorSlug(article.author));
 
-  if (article.author === "PRESDA Editorial") {
+  if (getAuthorSchemaType(article.author) === "Organization") {
     return {
       "@context": "https://schema.org",
       "@type": "Organization",

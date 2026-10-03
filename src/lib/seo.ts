@@ -3,6 +3,7 @@ import { getLanguageAlternates } from "@/lib/i18n/registry";
 
 export const siteUrl = "https://presda.com";
 export const siteName = "PRESDA";
+export const discoveryRobots = { index: true, follow: true, "max-image-preview": "large" as const };
 export const defaultOgImage = "/presda-p-transparent.png";
 
 export function absoluteUrl(path: string) {
@@ -34,6 +35,7 @@ export function createPageMetadata({
   return {
     title,
     description,
+    robots: discoveryRobots,
     alternates: {
       canonical: url,
       languages: getLanguageAlternates(path)
@@ -63,17 +65,20 @@ export function createPageMetadata({
 export function organizationJsonLd() {
   return {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": "NewsMediaOrganization",
     "@id": `${siteUrl}/#organization`,
     name: siteName,
     url: siteUrl,
+    publishingPrinciples: absoluteUrl("/editorial-policy/"),
+    correctionsPolicy: absoluteUrl("/corrections-policy/"),
     logo: {
       "@type": "ImageObject",
       url: absoluteUrl(defaultOgImage)
     },
     sameAs: [
       "https://www.instagram.com/presdaofficial",
-      "https://x.com/PresdaOfficial",
+      "https://pin.it/1WYOX7V6c",
+      "https://flipboard.com/@PresdaOfficial",
       "https://www.facebook.com/profile.php?id=61589635535583"
     ],
     contactPoint: {

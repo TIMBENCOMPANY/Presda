@@ -1,3 +1,5 @@
+import { discoveryRobots } from "@/lib/seo";
+import { getAuthorSchemaType, toAuthorSlug } from "@/lib/authors";
 import { getArticleBySlug } from "@/data/articles";
 import { getArticleSchemaType } from "@/lib/articleSeo";
 import type { Metadata } from "next";
@@ -13,12 +15,13 @@ export function translationMetadata(record: Translation): Metadata {
     title: { absolute: record.seoTitle.endsWith(" | PRESDA") ? record.seoTitle : `${record.seoTitle} | PRESDA` },
     description: record.description,
     keywords: record.keywords,
-    robots: { index: true, follow: true },
+    ...(record.author ? { authors: [{ name: record.author, url: `https://presda.com/authors/${toAuthorSlug(record.author)}/` }] } : {}),
+    robots: discoveryRobots,
     alternates: { canonical: url, languages: getLanguageAlternates(record.path) },
     openGraph: {
       title: record.seoTitle, description: record.description, url, siteName: "PRESDA",
       locale: ogLocales[record.locale], images,
-      ...(record.kind === "article" ? { type: "article" as const, publishedTime: record.publishedAt, modifiedTime: record.updatedAt } : { type: "website" as const })
+      ...(record.kind === "article" ? { type: "article" as const, publishedTime: record.publishedAt, modifiedTime: record.updatedAt, ...(record.author ? { authors: [`https://presda.com/authors/${toAuthorSlug(record.author)}/`] } : {}) } : { type: "website" as const })
     },
     twitter: { card: images.length ? "summary_large_image" : "summary", title: record.seoTitle, description: record.description, images }
   };
@@ -51,7 +54,7 @@ export function translationJsonLd(record: Translation) {
     ...(record.category ? { articleSection: localizedCategories[record.locale][record.category] } : {}),
     keywords: record.keywords.join(", "),
     ...(record.sources?.length ? { citation: record.sources.map(source => source.url) } : {}),
-    ...(record.author ? { author: { "@type": record.author === "PRESDA Editorial" ? "Organization" : "Person", name: record.author, ...(record.author === "PRESDA Editorial" ? { url: "https://presda.com/authors/presda-editorial/" } : {}) } } : {}),
+    ...(record.author ? { author: { "@type": getAuthorSchemaType(record.author), name: record.author, url: `https://presda.com/authors/${toAuthorSlug(record.author)}/` } } : {}),
     ...(record.image ? { image: `https://presda.com${record.image.src}` } : {}),
     translationOfWork: { "@type": record.kind === "article" ? schemaType : "WebPage", url: `https://presda.com${record.englishPath}`, inLanguage: "en" },
     publisher: { "@id": "https://presda.com/#organization" }

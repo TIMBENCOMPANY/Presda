@@ -52,7 +52,7 @@ function fixture(source, locale) {
 }
 const complex = articles.find(article => article.content.includes('[[RESISTANCE_COMPARISON_TABLE]]'));
 const astrology = articles.find(article => article.content.includes('[[ASTROLOGY_SCIENCE_TABLE]]'));
-const news = articles.find(article => getArticleSchemaType(article) === 'NewsArticle' && !editorial.records.some(record => record.englishPath === `/articles/${article.slug}/`));
+const news = articles.find(article => getArticleSchemaType(article) === 'NewsArticle');
 const fixtures = [...locales.map(locale => fixture(complex, locale)), fixture(astrology, 'ar'), fixture(news, 'fr')];
 const spanish = structuredClone(fixtures.find(record => record.locale === 'es'));
 spanish.excerpt = 'UNA HISTORIA QUE RECORRE TODO EL MUNDO';

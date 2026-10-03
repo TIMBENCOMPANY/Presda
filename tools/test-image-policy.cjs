@@ -6,6 +6,7 @@ const sharp = require('sharp');
 require('./register-typescript.cjs');
 const { imageSources } = require('./image-sources.cjs');
 const { translationRoutes } = require('../src/lib/i18n/registry.ts');
+const { listingRoutes } = require('../src/lib/i18n/listing-routes.ts');
 const manifest = require('../src/lib/image-manifest.generated.json');
 const loader = require('../src/lib/staticImageLoader.ts').default;
 const { getImgProps } = require('next/dist/shared/lib/get-img-props');
@@ -46,7 +47,7 @@ async function main() {
     assert(!props.srcSet.includes('/_next/image'), 'No Vercel transformations');
   }
   assert.equal(loader({ src: '/future-image.svg', width: 640 }), '/future-image.svg', 'Unknown future images fail open to the original');
-  assert.deepEqual(require('../src/data/translation-routes.json'), translationRoutes);
+  assert.deepEqual([...require('../src/data/translation-routes.json'), ...listingRoutes], translationRoutes);
   console.log(`PASS: ${imageSources().size} published sources; ${checked.size} delivery files decoded; responsive geometry, shared quality-independent URLs and zero optimizer URLs`);
 }
 main().catch(error => { console.error(error); process.exitCode = 1; });

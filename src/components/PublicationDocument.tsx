@@ -5,7 +5,7 @@ import { Analytics } from "@vercel/analytics/next";
 import type { ReactNode } from "react";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
-import { organizationJsonLd } from "@/lib/seo";
+import { discoveryRobots, organizationJsonLd } from "@/lib/seo";
 import "@/app/globals.css";
 import type { Locale } from "@/lib/i18n/routing";
 
@@ -29,6 +29,7 @@ const articleDisplay = Barlow_Condensed({
 });
 
 export const metadata: Metadata = {
+  robots: discoveryRobots,
   metadataBase: new URL("https://presda.com"),
   title: {
     default: "PRESDA - Your Daily Press",

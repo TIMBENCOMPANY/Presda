@@ -1,0 +1,52 @@
+require('./register-typescript.cjs');
+const assert = require('node:assert/strict');
+const { getPublishedArticles } = require('../src/data/articles.ts');
+const { publishedTranslations, getLanguageAlternates } = require('../src/lib/i18n/registry.ts');
+const { articleJsonLd, authorJsonLd } = require('../src/lib/articleSeo.ts');
+const { translationJsonLd, translationMetadata } = require('../src/lib/i18n/metadata.ts');
+const { discoveryRobots, organizationJsonLd } = require('../src/lib/seo.ts');
+const { getNewsEntries, isRecentNewsDate, renderNewsSitemap } = require('../src/lib/newsSitemap.ts');
+const articles = getPublishedArticles();
+const now = new Date('2026-10-03T00:00:00Z');
+assert.equal(isRecentNewsDate('2026-10-01', now), false);
+assert.equal(isRecentNewsDate('2026-10-01T00:00:01Z', now), true);
+assert.equal(isRecentNewsDate('2026-10-04', now), false);
+assert.equal(isRecentNewsDate('invalid', now), false);
+const source = { ...articles[0], schemaType: 'NewsArticle', date: '2026-10-02', lastUpdated: '2026-10-03', status: 'published' };
+const translation = { ...publishedTranslations[0], englishPath: `/articles/${source.slug}/`, publishedAt: '2026-10-02', updatedAt: '2026-10-03', status: 'published', kind: 'article' };
+assert.equal(getNewsEntries([source], [translation], now).length, 2);
+assert.equal(getNewsEntries([source], [translation], new Date('2026-10-04')).length, 0);
+assert.equal(getNewsEntries([{ ...source, date: '2026-09-01' }], [translation], now).length, 0, 'Updates/translations must not revive stale news');
+assert.equal(getNewsEntries([{ ...source, schemaType: undefined }], [], now).length, 0, 'Category inference must not select evergreen content');
+assert.equal(getNewsEntries([{ ...source, status: 'draft' }], [], now).length, 0);
+assert.equal(getNewsEntries([source], [{ ...translation, status: 'draft' }], now).length, 1);
+const entry = { url: 'https://presda.com/a/?x=1&y=2', title: 'A < B & "C"', language: 'fr', published: '2026-10-02' };
+assert.ok(renderNewsSitemap([entry]).includes('A &lt; B &amp; &quot;C&quot;'));
+assert.ok(renderNewsSitemap([]).endsWith('</urlset>'));
+const many = Array.from({ length: 1001 }, () => entry);
+assert.ok(renderNewsSitemap(many).includes('<sitemapindex'));
+assert.equal((renderNewsSitemap(many, 1).match(/<news:news>/g) || []).length, 1000);
+assert.equal((renderNewsSitemap(many, 2).match(/<news:news>/g) || []).length, 1);
+for (const invalid of [0, -1, 1.5, NaN, 3]) assert.equal(renderNewsSitemap(many, invalid), null);
+assert.equal(discoveryRobots['max-image-preview'], 'large');
+assert.equal(organizationJsonLd()['@type'], 'NewsMediaOrganization');
+for (const a of articles) {
+ const schema = articleJsonLd(a);
+ assert.equal(schema.author['@type'], 'Organization');
+ assert.equal(authorJsonLd(a)['@type'], 'Organization');
+ assert.ok(schema.author.url.endsWith('/'));
+ assert.equal(schema.inLanguage, 'en');
+ assert.equal(schema.datePublished, a.date);
+ assert.equal(schema.mainEntityOfPage['@id'], `https://presda.com/articles/${a.slug}/`);
+}
+for (const t of publishedTranslations) {
+ const schema = translationJsonLd(t), metadata = translationMetadata(t);
+ assert.equal(schema.author['@type'], 'Organization');
+ assert.ok(schema.author.url.startsWith('https://presda.com/authors/'));
+ assert.equal(metadata.robots['max-image-preview'], 'large');
+ assert.equal(metadata.alternates.canonical, `https://presda.com${t.path}`);
+ assert.equal(getLanguageAlternates(t.path)[t.locale], metadata.alternates.canonical);
+ assert.equal(schema.datePublished, t.publishedAt);
+ assert.equal(schema.inLanguage, t.locale);
+}
+console.log(`PASS: ${articles.length + publishedTranslations.length} article schema/mapping checks; News expiry, future/draft/evergreen exclusions, XML escaping, empty sitemap and 1,000-entry splitting.`);
