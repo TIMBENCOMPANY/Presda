@@ -236,7 +236,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
 
             <div className="min-w-0 max-w-[800px] lg:pb-8 lg:pt-20">
               <h1 className="article-hero-title text-white">
-                <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
+                <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} whiteText={locale === "en" && article.slug === "casablanca-madrid-2030-world-cup-final" ? "vs" : undefined} />
               </h1>
               <div className="mt-5 max-w-[29rem] border-s-[5px] border-[#FF1A1A] ps-4 sm:mt-6 sm:ps-5">
                 <p className="editorial-deck article-hero-deck">
