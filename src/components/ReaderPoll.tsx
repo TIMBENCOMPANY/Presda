@@ -13,8 +13,10 @@ const presentation = {
 };
 
 function CountryFlag({ country }: { country: PollChoice }) {
+  // Public-domain national flag with coat of arms: https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg
+  if (country === "madrid") return <img className={styles.flag} src="/images/flags/spain.svg" width={60} height={40} alt="" aria-hidden="true" />;
   return <svg className={styles.flag} viewBox="0 0 60 40" aria-hidden="true" focusable="false">
-    {country === "casablanca" ? <><path fill="#c1272d" d="M0 0h60v40H0z" /><path d="m30 9 6.5 20-17-12.4h21L23.5 29Z" fill="none" stroke="#00843d" strokeWidth="1.8" strokeLinejoin="round" /></> : <><path fill="#aa151b" d="M0 0h60v40H0z" /><path fill="#f1bf00" d="M0 10h60v20H0z" /></>}
+    <path fill="#c1272d" d="M0 0h60v40H0z" /><path d="m30 9 6.5 20-17-12.4h21L23.5 29Z" fill="none" stroke="#00843d" strokeWidth="1.8" strokeLinejoin="round" />
   </svg>;
 }
 
