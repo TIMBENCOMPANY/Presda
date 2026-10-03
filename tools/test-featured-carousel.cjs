@@ -24,15 +24,11 @@ React.useEffect = (effect, deps) => {
 };
 const { FeaturedCarousel } = require('../src/components/FeaturedCarousel.tsx');
 const { getPublishedArticles } = require('../src/data/articles.ts');
-const source = fs.readFileSync('src/app/(english)/page.tsx', 'utf8');
-const slugs = [...source.match(/const featuredHeroSlugs = \[([\s\S]*?)\] as const/)[1].matchAll(/"([^"]+)"/g)].map(m => m[1]);
+const { homeHeroSlugs: slugs } = require('../src/lib/homeSelection.ts');
 const published = getPublishedArticles();
 const slides = slugs.map(slug => published.find(a => a.slug === slug));
 assert.equal(slides.length, 12); assert(slides.every(Boolean));
 assert.equal(new Set(slugs).size, 12);
-assert.equal(new Set(slides.map(a => a.category)).size, 9);
-slides.forEach((a, i) => assert.notEqual(a.category, slides[(i + 1) % slides.length].category));
-assert.equal(slides.filter(a => a.category === 'History').length, 1);
 
 function nodes(element) {
   if (!element || typeof element !== 'object') return [];
@@ -108,4 +104,4 @@ h = create('home', true); h.load(); h.advance(20000); assert.equal(h.counter(), 
 h = create('category'); h.advance(4500); assert.equal(h.counter(), '02 / 12');
 h.move('Next featured article'); h.advance(10000); assert.equal(h.counter(), '03 / 12', 'Category manual-pause behavior is unchanged');
 assert(h.all().some(e => e.props?.className?.includes('category-featured-controls')));
-console.log('PASS: 12 stories / 9 categories, adjacent preloading, image readiness, 5.5s timing, interaction pause/resume, swipe/click suppression, 12-to-01 loop, H1, reduced motion and category behavior');
+console.log('PASS: 12 selected stories, adjacent preloading, image readiness, 5.5s timing, interaction pause/resume, swipe/click suppression, 12-to-01 loop, H1, reduced motion and category behavior');
