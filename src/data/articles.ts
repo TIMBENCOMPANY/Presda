@@ -1,3 +1,4 @@
+import { worldCup2030FinalArticle } from "@/data/worldCup2030FinalArticle";
 import { messiFarewellArticle } from "@/data/messiFarewellArticle";
 import { michaelJacksonArticle } from "@/data/michaelJacksonArticle";
 import { isPublishedArticle, validatePublishedArticles } from "@/lib/articleValidation";
@@ -35569,7 +35570,8 @@ export const articles: Article[] = [
   chinaRoboticsArticle,
   deLaFuenteArticle,
   michaelJacksonArticle,
-  messiFarewellArticle
+  messiFarewellArticle,
+  worldCup2030FinalArticle
 ];
 
 export const categories: ArticleCategory[] = [

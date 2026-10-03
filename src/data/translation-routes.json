@@ -526,6 +526,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/casablanca-madrid-2030-world-cup-final/",
+    "path": "/ar/articles/casablanca-madrid-2030-world-cup-final/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/casablanca-madrid-2030-world-cup-final/",
+    "path": "/es/articles/casablanca-madrid-2030-world-cup-final/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/casablanca-madrid-2030-world-cup-final/",
+    "path": "/fr/articles/casablanca-madrid-2030-world-cup-final/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/cats-humans-domestication-history/",
     "path": "/ar/articles/cats-humans-domestication-history/"
   },

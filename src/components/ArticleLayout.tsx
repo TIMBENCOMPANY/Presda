@@ -1,3 +1,4 @@
+import { WorldCup2030Graphics } from "@/components/WorldCup2030Graphics";
 import { MessiFarewellGraphics } from "@/components/MessiFarewellGraphics";
 import { MichaelJacksonGraphics } from "@/components/MichaelJacksonGraphics";
 import { languageDestination } from "@/lib/i18n/routing";
@@ -298,6 +299,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "casablanca-madrid-2030-world-cup-final" && (originalIndex === 29 || originalIndex === 35)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WorldCup2030Graphics locale={locale} kind={originalIndex === 29 ? "compare" : "timeline"} /></div>;
+              }
               if (article.slug === "lionel-messi-last-dance-argentina-farewell" && (originalIndex === 24 || originalIndex === 36)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MessiFarewellGraphics locale={locale} kind={originalIndex === 24 ? "timeline" : "goals"} /></div>;
               }
