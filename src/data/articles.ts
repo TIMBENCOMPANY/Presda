@@ -4,6 +4,7 @@ import { asanteArticle } from "@/data/asanteArticle";
 import { estoniaArticle } from "@/data/estoniaArticle";
 import { seoulArticle } from "@/data/seoulArticle";
 import { chinaRoboticsArticle } from "@/data/chinaRoboticsArticle";
+import { deLaFuenteArticle } from "@/data/deLaFuenteArticle";
 import { croatiaArticle } from "@/data/croatiaArticle";
 import { swedishArticle } from "@/data/swedishArticle";
 import { dutchArticle } from "@/data/dutchArticle";
@@ -35563,7 +35564,8 @@ export const articles: Article[] = [
   asanteArticle,
   estoniaArticle,
   seoulArticle,
-  chinaRoboticsArticle
+  chinaRoboticsArticle,
+  deLaFuenteArticle
 ];
 
 export const categories: ArticleCategory[] = [

@@ -1,0 +1,17 @@
+import type { Locale } from "@/lib/i18n/routing";
+import { deLaFuenteSources as s } from "@/data/deLaFuenteArticle";
+const copy={
+ en:{title:"From youth development to senior titles",note:"Selected milestones, in chronological order. Spacing does not represent elapsed time. Youth, Olympic and senior competitions are distinct.",rows:["Joins Spain's youth-team structure","European Under-19 champion","European Under-21 champion","Olympic silver at Tokyo 2020, held in 2021","Appointed permanent senior Spain coach","Senior Nations League champion","Senior European champion","Senior World Cup champion"],source:"Sources"},
+ fr:{title:"Des sélections de jeunes aux titres seniors",note:"Repères choisis, dans l'ordre chronologique. Les espacements ne représentent pas la durée. Compétitions de jeunes, olympiques et seniors sont distinctes.",rows:["Rejoint les sélections espagnoles de jeunes","Champion d'Europe des moins de 19 ans","Champion d'Europe des moins de 21 ans","Argent olympique à Tokyo 2020, organisé en 2021","Nommé à la tête de la sélection senior","Champion de la Ligue des nations","Champion d'Europe avec les seniors","Champion du monde avec les seniors"],source:"Sources"},
+ es:{title:"De la formación a los títulos de la absoluta",note:"Hitos seleccionados en orden cronológico. La distancia entre ellos no representa el tiempo transcurrido. Son competiciones juveniles, olímpicas y absolutas distintas.",rows:["Se incorpora a las categorías inferiores de España","Campeón de Europa sub-19","Campeón de Europa sub-21","Plata olímpica en Tokio 2020, celebrado en 2021","Nombrado seleccionador absoluto permanente","Campeón de la Liga de Naciones","Campeón de Europa con la absoluta","Campeón del mundo con la absoluta"],source:"Fuentes"},
+ ar:{title:"من منتخبات الشباب إلى ألقاب المنتخب الأول",note:"محطات مختارة بترتيب زمني. المسافات لا تمثل المدة المنقضية. بطولات الشباب والأولمبياد والمنتخب الأول مسابقات منفصلة.",rows:["انضم إلى منظومة منتخبات إسبانيا للفئات السنية","بطل أوروبا تحت 19 عاما","بطل أوروبا تحت 21 عاما","فضية أولمبياد طوكيو 2020 الذي أقيم في 2021","تعيينه مدربا دائما للمنتخب الإسباني الأول","بطل دوري الأمم مع المنتخب الأول","بطل أوروبا مع المنتخب الأول","بطل العالم مع المنتخب الأول"],source:"المصادر"}
+};
+export function DeLaFuenteTimeline({locale}:{locale:Locale}){
+ const c=copy[locale],years=["2013","2015","2019","2021","2022","2023","2024","2026"];
+ return <figure id="de-la-fuente-timeline" dir={locale==="ar"?"rtl":"ltr"} aria-labelledby="de-la-fuente-timeline-title" className="flow-root my-10 rounded-xl border border-white/20 bg-[#101010] p-4 text-white sm:p-6">
+ <figcaption id="de-la-fuente-timeline-title" className="font-display text-xl font-bold sm:text-2xl">{c.title}</figcaption>
+ <p className="mt-3 text-sm leading-relaxed text-white/75">{c.note}</p>
+ <ol className="mt-6 grid gap-4 sm:grid-cols-2">{c.rows.map((label,i)=><li key={years[i]} className="border-s-2 border-[#e9bd65] ps-4"><span className="text-lg font-bold text-[#e9bd65]" dir="ltr">{years[i]}</span><p className="mt-1 text-sm leading-relaxed">{label}</p></li>)}</ol>
+ <p className="mt-5 text-xs text-white/70">{c.source}</p><ul className="mt-2 flex flex-wrap gap-x-4 gap-y-2 text-sm">{[s.journey,s.appointment,s.nations,s.euro,s.world].map((r,i)=><li key={r.url}><a href={r.url} className="text-[#e9bd65] underline">{["RFEF · 2026","RFEF · 2022","UEFA · 2023","UEFA · 2024","FIFA · 2026"][i]}</a></li>)}</ul><p className="mt-4 text-xs text-white/60">PRESDA Data Graphics</p>
+ </figure>;
+}

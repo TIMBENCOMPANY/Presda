@@ -8,6 +8,7 @@ import { JapanFusionGraphics } from "@/components/JapanFusionGraphics";
 import { EstoniaGraphics } from "@/components/EstoniaGraphics";
 import { SeoulGraphics } from "@/components/SeoulGraphics";
 import { ChinaRoboticsGraphics } from "@/components/ChinaRoboticsGraphics";
+import { DeLaFuenteTimeline } from "@/components/DeLaFuenteTimeline";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
 import type { Locale } from "@/lib/i18n/routing";
@@ -295,6 +296,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "luis-de-la-fuente-ucam-honorary-doctorate" && originalIndex === 17) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DeLaFuenteTimeline locale={locale} /></div>;
+              }
               if (article.slug === "human-family-tree-human-evolution-species" && (originalIndex === 3 || originalIndex === 5)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HumanEvolutionGraphics locale={locale} kind={originalIndex === 3 ? "timeline" : "tree"} /></div>;
               }

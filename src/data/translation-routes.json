@@ -1666,6 +1666,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/luis-de-la-fuente-ucam-honorary-doctorate/",
+    "path": "/ar/articles/luis-de-la-fuente-ucam-honorary-doctorate/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/luis-de-la-fuente-ucam-honorary-doctorate/",
+    "path": "/es/articles/luis-de-la-fuente-ucam-honorary-doctorate/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/luis-de-la-fuente-ucam-honorary-doctorate/",
+    "path": "/fr/articles/luis-de-la-fuente-ucam-honorary-doctorate/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/mafia-history-organized-crime-empire/",
     "path": "/ar/articles/mafia-history-organized-crime-empire/"
   },
