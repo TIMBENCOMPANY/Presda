@@ -1,0 +1,17 @@
+require('./register-typescript.cjs');
+const assert = require('node:assert/strict');
+const React = require('react');
+const { renderToStaticMarkup } = require('react-dom/server');
+const { ArabicCardMetadata } = require('../src/components/ArabicCardMetadata.tsx');
+const { listingDate } = require('../src/lib/i18n/listing-messages.ts');
+const date = '2026-09-14', readingTime = '18 دقيقة قراءة';
+const render = props => renderToStaticMarkup(React.createElement(ArabicCardMetadata, { date, ...props }));
+const html = render({ readingTime });
+assert.equal(html.replace(/<[^>]*>/g, ''), `${listingDate(date, 'ar')}، ${readingTime}`);
+assert.ok(html.includes('dir="rtl"'));
+assert.ok(html.includes('<bdi>18 دقيقة قراءة</bdi>'));
+assert.ok(html.includes('dateTime="2026-09-14"') || html.includes('datetime="2026-09-14"'));
+assert.equal(render({}).replace(/<[^>]*>/g, ''), listingDate(date, 'ar'), 'No orphan separator without reading time');
+assert.ok(render({readingTime,readingClassName:'home-supporting-reading-time'}).includes('<span class="home-supporting-reading-time"><span>، </span>'), 'Hide comma with reading time on desktop home sidebar');
+assert.ok(render({readingTime,separatorClassName:'sm:hidden'}).includes('<span class="sm:hidden">، </span>'), 'Hide comma when category sidebar date is hidden');
+console.log('PASS: Arabic date/comma/space/reading order, bidi isolation, semantic time, and responsive separator visibility.');

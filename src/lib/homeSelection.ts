@@ -14,7 +14,7 @@ export const homeHeroSlugs = [
   "jim-carrey-marries-min-ah-private-los-angeles-ceremony",
   "de-extinction-bringing-extinct-animals-back-science",
   "human-family-tree-human-evolution-species",
-  "bryan-johnson-blueprint-anti-aging-longevity",
+  "jerusalem-3000-years-kingdoms-faith-conquest",
   "greenland-world-powers-arctic-island"
 ] as const;
 

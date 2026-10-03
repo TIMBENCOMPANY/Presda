@@ -1,5 +1,6 @@
 "use client";
 
+import { ArabicCardMetadata } from "@/components/ArabicCardMetadata";
 import type { Locale } from "@/lib/i18n/routing";
 import { listingMessages, listingDate } from "@/lib/i18n/listing-messages";
 import { localizedCategories } from "@/lib/i18n/messages";
@@ -129,7 +130,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
                     sizes={isHome ? "(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1535px) 65vw, 1000px" : "(max-width: 1023px) calc(100vw - 24px), (max-width: 1536px) 65vw, 1000px"}
                     className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 42%" }} />}
                   <p className={`category-featured-image-meta absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-x-3 gap-y-1 bg-gradient-to-t from-black/90 via-black/70 to-transparent pr-3 pb-2 pt-6 text-[11px] font-medium text-white ${isHome ? "z-10" : "sm:hidden"} ${slides.length > 1 ? "pl-20" : "pl-3"}`}>
-                    <time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span>
+                    {locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} /> : <><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span></>}
                   </p>
                 </div>
                 <div className="pointer-events-none absolute inset-0 hidden bg-gradient-to-t from-black via-black/35 to-transparent lg:block" />
@@ -138,7 +139,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
                   <Title className="max-w-[28ch] text-balance font-display text-2xl font-extrabold uppercase leading-tight sm:text-3xl lg:text-4xl">
                     <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
                   </Title>
-                  {!isHome && <p className="mt-4 hidden flex-wrap gap-x-3 gap-y-1 text-xs text-white/80 sm:flex"><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span></p>}
+                  {!isHome && <p className="mt-4 hidden flex-wrap gap-x-3 gap-y-1 text-xs text-white/80 sm:flex">{locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} /> : <><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span></>}</p>}
                 </div>
               </Link>
             </article>
@@ -171,7 +172,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
           <div className="category-supporting-copy relative flex flex-col justify-end p-5 lg:h-full lg:min-h-[260px]">
             <p className="category-supporting-label mb-2 font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</p>
             <h2 className="text-balance font-display text-xl font-extrabold uppercase leading-tight"><HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} /></h2>
-            <p className="category-supporting-meta mt-3 text-xs text-white/80"><time className="mr-2 sm:hidden" dateTime={article.date}>{listingDate(article.date, locale)}</time>{isHome ? <span className="home-supporting-reading-time">{article.readingTime}</span> : article.readingTime}</p>
+            <p className="category-supporting-meta mt-3 text-xs text-white/80">{locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} timeClassName="sm:hidden" readingClassName={isHome ? "home-supporting-reading-time" : undefined} separatorClassName={isHome ? undefined : "sm:hidden"} /> : <><time className="mr-2 sm:hidden" dateTime={article.date}>{listingDate(article.date, locale)}</time>{isHome ? <span className="home-supporting-reading-time">{article.readingTime}</span> : article.readingTime}</>}</p>
           </div>
         </Link>)}
       </div>}

@@ -1,5 +1,6 @@
 "use client";
 
+import { ArabicCardMetadata } from "@/components/ArabicCardMetadata";
 import type { Locale } from "@/lib/i18n/routing";
 import { listingMessages, listingDate } from "@/lib/i18n/listing-messages";
 import { localizedCategories } from "@/lib/i18n/messages";
@@ -47,7 +48,7 @@ export function HomeLatestCarousel({ articles, locale = "en" }: { articles: Arti
               <div className="home-latest-copy">
                 <span className="font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</span>
                 <h3 className="font-display font-extrabold uppercase"><HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} /></h3>
-                <p className="home-latest-meta"><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime ?? "3 min read"}</span></p>
+                <p className="home-latest-meta">{locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} /> : <><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime ?? "3 min read"}</span></>}</p>
               </div>
             </Link>
           </div>)}

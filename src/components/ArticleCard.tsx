@@ -1,3 +1,4 @@
+import { ArabicCardMetadata } from "@/components/ArabicCardMetadata";
 import type { Locale } from "@/lib/i18n/routing";
 import { listingMessages, listingDate } from "@/lib/i18n/listing-messages";
 import { localizedCategories } from "@/lib/i18n/messages";
@@ -49,8 +50,10 @@ export function ArticleCard({ article, locale = "en", priority = false, showImag
       </div>
       <div className="p-5">
         <div className="flex flex-wrap items-center gap-3 text-xs text-[color:var(--muted)]">
+          {locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} /> : <>
           <time dateTime={article.date}>{listingDate(article.date, locale)}</time>
           <span>{article.readingTime ?? "3 min read"}</span>
+          </>}
         </div>
         <h3 className="mt-3 text-balance font-display text-lg font-extrabold uppercase leading-snug text-[color:var(--text)] [hyphens:none] [overflow-wrap:normal] [word-break:normal] sm:text-xl sm:leading-tight">
           <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
