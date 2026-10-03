@@ -1,3 +1,4 @@
+import { MichaelJacksonGraphics } from "@/components/MichaelJacksonGraphics";
 import { languageDestination } from "@/lib/i18n/routing";
 import { translationRoutes } from "@/lib/i18n/registry";
 import { articleTables, astrologyComparisonTable, type ArticleTableConfig } from "@/lib/articleTables";
@@ -296,6 +297,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "michael-jackson-life-music-legacy-king-of-pop" && (originalIndex === 34 || originalIndex === 54)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MichaelJacksonGraphics locale={locale} kind={originalIndex === 34 ? "timeline" : "records"} /></div>;
+              }
               if (article.slug === "luis-de-la-fuente-ucam-honorary-doctorate" && originalIndex === 17) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DeLaFuenteTimeline locale={locale} /></div>;
               }
