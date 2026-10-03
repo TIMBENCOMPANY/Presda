@@ -1,4 +1,5 @@
 import { WorldCup2030Graphics } from "@/components/WorldCup2030Graphics";
+import { ReaderPoll } from "@/components/ReaderPoll";
 import { MessiFarewellGraphics } from "@/components/MessiFarewellGraphics";
 import { MichaelJacksonGraphics } from "@/components/MichaelJacksonGraphics";
 import { languageDestination } from "@/lib/i18n/routing";
@@ -259,6 +260,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         </header>
 
         <div className="mt-10">
+          {article.slug === "casablanca-madrid-2030-world-cup-final" && <div className="mb-7"><ReaderPoll locale={locale} /></div>}
           <div className="flow-root min-w-0 space-y-7 rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] sm:p-8 lg:p-10">
             <aside className="mb-7 grid gap-4 lg:float-end lg:mb-6 lg:ms-8 lg:w-[23%] lg:min-w-[260px] lg:max-w-[340px] lg:gap-4">
               {sections.length ? (

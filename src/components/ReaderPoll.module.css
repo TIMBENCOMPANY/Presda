@@ -1,0 +1,4 @@
+.bar { transform-origin: left; animation: reveal 700ms ease-out both; }
+[dir="rtl"] .bar { transform-origin: right; }
+@keyframes reveal { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@media (prefers-reduced-motion: reduce) { .bar { animation: none; transition: none; } }
