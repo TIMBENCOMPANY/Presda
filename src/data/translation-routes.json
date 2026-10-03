@@ -1651,6 +1651,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/lionel-messi-last-dance-argentina-farewell/",
+    "path": "/ar/articles/lionel-messi-last-dance-argentina-farewell/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/lionel-messi-last-dance-argentina-farewell/",
+    "path": "/es/articles/lionel-messi-last-dance-argentina-farewell/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/lionel-messi-last-dance-argentina-farewell/",
+    "path": "/fr/articles/lionel-messi-last-dance-argentina-farewell/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/lonely-genius-great-minds-solitude-creativity/",
     "path": "/ar/articles/lonely-genius-great-minds-solitude-creativity/"
   },

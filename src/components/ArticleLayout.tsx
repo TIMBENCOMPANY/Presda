@@ -1,3 +1,4 @@
+import { MessiFarewellGraphics } from "@/components/MessiFarewellGraphics";
 import { MichaelJacksonGraphics } from "@/components/MichaelJacksonGraphics";
 import { languageDestination } from "@/lib/i18n/routing";
 import { translationRoutes } from "@/lib/i18n/registry";
@@ -297,6 +298,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "lionel-messi-last-dance-argentina-farewell" && (originalIndex === 24 || originalIndex === 36)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MessiFarewellGraphics locale={locale} kind={originalIndex === 24 ? "timeline" : "goals"} /></div>;
+              }
               if (article.slug === "michael-jackson-life-music-legacy-king-of-pop" && (originalIndex === 34 || originalIndex === 54)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MichaelJacksonGraphics locale={locale} kind={originalIndex === 34 ? "timeline" : "records"} /></div>;
               }

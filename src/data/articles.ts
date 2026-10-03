@@ -1,3 +1,4 @@
+import { messiFarewellArticle } from "@/data/messiFarewellArticle";
 import { michaelJacksonArticle } from "@/data/michaelJacksonArticle";
 import { isPublishedArticle, validatePublishedArticles } from "@/lib/articleValidation";
 import { japanFusionArticle } from "@/data/japanFusionArticle";
@@ -35567,7 +35568,8 @@ export const articles: Article[] = [
   seoulArticle,
   chinaRoboticsArticle,
   deLaFuenteArticle,
-  michaelJacksonArticle
+  michaelJacksonArticle,
+  messiFarewellArticle
 ];
 
 export const categories: ArticleCategory[] = [
