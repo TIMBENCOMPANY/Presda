@@ -1,12 +1,12 @@
-import manifest from "@/lib/image-manifest.generated.json";
-
-const variants = manifest as unknown as Record<string, [number, string][]>;
 const absoluteImageUrl = (path: string) => /^https?:\/\//.test(path) ? path : `https://presda.com${path}`;
 
 /** Match the existing article hero's fallback src, without generating any images. */
 export function articleImageUrl(source: string) {
   // ArticleLayout deliberately serves this existing hero unoptimized.
   if (source === "/articles/phoenicians-tyrian-purple-sea-ships.png") return absoluteImageUrl(source);
+  // Translation preparation imports articleSeo before image preparation runs.
+  // Resolve the generated manifest only when metadata is actually requested.
+  const variants = require("@/lib/image-manifest.generated.json") as Record<string, [number, string][]>;
   const images = variants[source];
   return absoluteImageUrl(images?.at(-1)?.[1] ?? source);
 }

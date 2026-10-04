@@ -25,6 +25,8 @@ Run the production build pipeline, `tools/test-image-attribution.cjs`, `tools/te
 
 Current content includes the three articles published independently during this audit, bringing coverage to 190 English articles and 570 translations. Those publications are retained.
 
+Local production HTTP validation passed for all 760 article pages, with 816 sitemap URLs. The image-specific verifier passed for 16 article routes and all four homepages. The first Vercel build exposed a clean-build ordering issue: translation preparation imports article SEO before the image manifest exists. The helper now loads the manifest only when resolving image metadata. Translation preparation was explicitly retested with the manifest absent, followed by the metadata tests and production build.
+
 ## Search Console follow-up
 
 Reconnect the expired Search Console integration. Resubmit `https://presda.com/sitemap.xml` and request indexing for the affected canonical article URLs. Google must recrawl and reprocess the signals; landing-page selection is automated and cannot be guaranteed or immediately forced.
