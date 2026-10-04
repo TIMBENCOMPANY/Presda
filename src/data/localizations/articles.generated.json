@@ -180009,6 +180009,663 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/",
+    "path": "/ar/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex ar editorial and source-parity review",
+      "reviewedAt": "2026-10-04",
+      "terminologyChecked": true
+    },
+    "title": "نظارات ميتا راي بان الذكية تواجه انتقادات بشأن الخصوصية بعد تعليق مبيعاتها لدى سلسلة هولندية",
+    "headlineHighlights": {
+      "red": "ميتا راي بان",
+      "gold": "الخصوصية"
+    },
+    "seoTitle": "خصوصية نظارات ميتا راي بان: هانس أندرس تعلق المبيعات",
+    "description": "علقت هانس أندرس بيع نظارات ميتا راي بان في هولندا وبلجيكا. ما الذي تقوله الهيئات الرقابية وجمعية المستهلكين وميتا عن الخصوصية والتصوير؟",
+    "excerpt": "ينقل تعليق المبيعات لدى سلسلة نظارات هولندية الجدل حول نظارات الذكاء الاصطناعي إلى المتاجر. مؤشر التسجيل والموافقة وحقوق المحيطين باتت في صميم انتشار التقنية.",
+    "keywords": [
+      "ميتا راي بان",
+      "النظارات الذكية",
+      "الخصوصية",
+      "هانس أندرس",
+      "حماية البيانات",
+      "كونسومنتنبوند"
+    ],
+    "searchIntent": "فهم تعليق مبيعات نظارات ميتا راي بان وآثاره على خصوصية الأشخاص المحيطين بمستخدميها.",
+    "faq": [
+      {
+        "question": "لماذا علقت هانس أندرس مبيعات نظارات ميتا راي بان؟",
+        "answer": "أشارت السلسلة إلى النقاش العام والسياسي بشأن الخصوصية وشروط استخدام النظارات الذكية. ويشمل التعليق هولندا وبلجيكا."
+      },
+      {
+        "question": "هل نظارات ميتا راي بان محظورة في عموم هولندا وبلجيكا؟",
+        "answer": "الإجراء المعلن هو تعليق مبيعات لدى تاجر تجزئة، وليس حظراً وطنياً على بيعها في أي من البلدين."
+      },
+      {
+        "question": "هل يُعد ضوء التسجيل موافقة؟",
+        "answer": "لا. قد يشير الضوء إلى التسجيل، لكنه لا يثبت وحده الموافقة أو أي أساس قانوني آخر لاستخدام صور أشخاص يمكن التعرف عليهم أو نشرها."
+      },
+      {
+        "question": "ماذا تقول ميتا عن تغطية ضوء التسجيل؟",
+        "answer": "تقول ميتا إن تغطية مؤشر الالتقاط أو العبث به يعطل الكاميرا. وقد شككت كونسومنتنبوند في وسائل الحماية استناداً إلى اختبارات أجرتها في تاريخ محدد."
+      }
+    ],
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "image": {
+      "src": "/articles/meta-smart-glasses-privacy-old-town.png",
+      "alt": "رسم تحريري توضيحي لشخص يرتدي نظارات مزودة بكاميرا قرب مارة في شارع ببلدة قديمة عند الغسق"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "علقت هانس أندرس مبيعات نظارات راي بان الذكية من ميتا في هولندا وبلجيكا وسط مخاوف تتعلق بالخصوصية، وفق ما أوردته رويترز في 2 أكتوبر. وينقل قرار سلسلة النظارات الهولندية الجدل بشأن التسجيل الخفي إلى المتاجر، حيث قد تبدو الإطارات المزودة بكاميرا شبيهة بالنظارات العادية. [رويترز: هانس أندرس تعلق المبيعات، 2 أكتوبر 2026](https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns)"
+      },
+      {
+        "type": "paragraph",
+        "text": "بالنسبة إلى مرتديها، توفر الكاميرا عند مستوى العين سهولة في الاستخدام. أما الشخص المقابل، فتضعه أمام شك: هل هذه محادثة أم تسجيل أم مادة ستُنشر لاحقاً؟ هذا الاختلاف في المنظور يقع في قلب الانتقادات. فالسؤال لا يتعلق فقط بما تستطيع الأجهزة القابلة للارتداء والمزودة بالذكاء الاصطناعي فعله، بل بما يمكن للمحيطين بها فهمه والتحكم فيه بصورة معقولة."
+      },
+      {
+        "type": "heading",
+        "text": "تعليق تجاري لا حظر وطني"
+      },
+      {
+        "type": "paragraph",
+        "text": "ربطت هانس أندرس قرارها بالنقاش العام والسياسي حول شروط استخدام النظارات الذكية. ويشمل التعليق هولندا وبلجيكا. إنه قرار تاجر تجزئة، وليس دليلاً على أن أياً من البلدين فرض حظراً وطنياً على المبيعات. [رويترز: هانس أندرس تعلق المبيعات، 2 أكتوبر 2026](https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns)"
+      },
+      {
+        "type": "paragraph",
+        "text": "هذا التمييز مهم للمستهلكين وللقطاع. فقد يرى متجر أن المخاوف غير المحسومة تبرر التوقف مؤقتاً من دون انتظار حكم قضائي. وبالنسبة إلى الشركات المصنعة، تُعد ثقة الموزعين جزءاً من الانتشار الجماهيري: فالقدرة التقنية وحدها لا تجيب عن أسئلة العميل أو الموظف أو الشخص الموجود قرب الجهاز."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا تقول هيئة الخصوصية الهولندية فعلياً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 22 سبتمبر، حذرت هيئة حماية البيانات الهولندية، المعروفة اختصاراً باسم AP، مستخدمي هذه النظارات من أن الأشخاص الذين يمكن التعرف عليهم يحتفظون بحقوقهم في الخصوصية. ولا يجوز ببساطة استخدام الصور أو مشاركتها على نطاق واسع أو نشرها من دون أساس قانوني؛ وتكون الموافقة مطلوبة عموماً في الحالات التي يتناولها التحذير. كما نصحت الهيئة المؤسسات بالنظر في تقييد النظارات المزودة بكاميرا ضمن قواعدها الداخلية عند الحاجة. [هيئة الخصوصية الهولندية: تحذير بشأن النظارات المزودة بكاميرا، 22 سبتمبر 2026](https://autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-gebruikers-camerabrillen-dat-filmen-van-anderen-vrijwel-altijd-verboden-is)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتوضح الإرشادات العامة للهيئة فرقاً مهماً. فقد يقع الاستخدام الشخصي أو المنزلي البحت خارج نطاق اللائحة العامة لحماية البيانات إذا ظلت الصور خاصة أو جرت مشاركتها في دائرة محدودة جداً. أما النشر العام فمختلف: إذ لا يعود هذا الاستثناء منطبقاً، ويلزم أساس قانوني، يكون عادة الموافقة في هذا السياق. فالظروف والغرض من الاستخدام عاملان مهمان. [هيئة الخصوصية الهولندية: الصور واستثناء الاستخدام الشخصي](https://autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/beeldmateriaal)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لذلك فإن الضوء المرئي والإذن القانوني أمران مختلفان. قد يساعد المؤشر شخصاً على ملاحظة الكاميرا، لكن ملاحظتها لا تعني تلقائياً الموافقة على النشر. كما لا ينبغي اختزال هذه الإرشادات في ادعاء أن كل صورة في مكان عام غير قانونية."
+      },
+      {
+        "type": "heading",
+        "text": "جمعية المستهلكين تهدد باللجوء إلى القضاء"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 29 سبتمبر، أعلنت منظمة المستهلكين الهولندية كونسومنتنبوند أنها وجهت إنذاراً رسمياً إلى ميتا ومنحتها أسبوعين لتعديل النظارات. وتطالب بتغييرات في التصميم والإعدادات الافتراضية، ووقف معالجة البيانات التي تعتبرها غير مشروعة. وتقول إنها سترفع دعوى إذا لم تستجب ميتا. [كونسومنتنبوند: المطالبة بتعديل النظارات، 29 سبتمبر 2026](https://www.consumentenbond.nl/nieuws/2026/consumentenbond-eist-dat-meta-camerabril-aanpast)"
+      },
+      {
+        "type": "paragraph",
+        "text": "هذه اتهامات المنظمة وتهديدها المعلن بالتقاضي، وليست حكماً قضائياً بعدم قانونية المنتج. ويتجاوز اعتراضها سوء الاستخدام الفردي: فهو يسأل إن كان المنتج نفسه يوفر حماية كافية لأشخاص لم يشتروه ولم يقبلوا شروطه."
+      },
+      {
+        "type": "heading",
+        "text": "رد ميتا: ضوء تسجيل وحماية من العبث"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقول ميتا إن نظاراتها تستخدم مؤشراً ضوئياً مرئياً للالتقاط لا يملك المستخدم مفتاحاً لإطفائه، وإن تغطيته أو العبث به يعطل الكاميرا. ويصف شرحها الرسمي ضوءاً أبيض يشير إلى التقاط الصور والفيديو لمعرض المستخدم، إلى جانب برمجيات تهدف إلى اكتشاف التلاعب بهذا الضوء. [ميتا: أسئلة الخصوصية ومؤشر الالتقاط في نظارات الذكاء الاصطناعي](https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتشكك كونسومنتنبوند في فعالية وسائل الحماية. ففي بحث نشرته في 10 سبتمبر، قالت إنها استطاعت مواصلة التسجيل مع حجب الضوء خلال اختبار أجرته في 2 سبتمبر باستخدام الإصدار 127 من البرنامج. هذا اختبار لجهاز وبرنامج في تاريخ محدد، وليس دليلاً على أداء كل طراز أو تحديث لاحق. [كونسومنتنبوند: اختبارات ضوء التسجيل، 10 سبتمبر 2026](https://www.consumentenbond.nl/acties-claims/nieuws/2026/camerabril-kan-stiekem-filmen-ondanks-updates)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يستدعي الخلاف صياغة دقيقة. فوصف ميتا يشرح الحماية المقصودة، بينما يسأل تقرير الاختبار إن كانت تعمل فعلياً. وحتى نظام موثوق لمقاومة العبث يترك سؤالاً آخر: هل يستطيع الناس ملاحظة المؤشر وفهمه بالسرعة الكافية في التفاعلات الاجتماعية المعتادة؟"
+      },
+      {
+        "type": "heading",
+        "text": "التسجيل والمشاركة والمعالجة بالذكاء الاصطناعي مراحل مختلفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقول ميتا إن الصور والفيديوهات الملتقطة للمعرض تبقى على النظارات إلى أن يستوردها المستخدم، وإنه يختار مشاركتها أو استخدام ميتا AI. وهذا مختلف عن القول إن كل تسجيل عادي يُنشر تلقائياً أو يُرسل لتدريب الذكاء الاصطناعي. [ميتا: أسئلة الخصوصية ومؤشر الالتقاط في نظارات الذكاء الاصطناعي](https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "في المقابل، تحذر الهيئة الهولندية من أن وظائف الذكاء الاصطناعي قد تعالج بيانات شخصية حتى من دون حفظ صورة أو فيديو. لذلك تتجاوز قضية الخصوصية زر النشر: فالالتقاط والمعالجة بالذكاء الاصطناعي والتخزين والإفصاح تثير أسئلة منفصلة بشأن الغرض والشفافية والتحكم. [هيئة الخصوصية الهولندية: تحذير بشأن النظارات المزودة بكاميرا، 22 سبتمبر 2026](https://autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-gebruikers-camerabrillen-dat-filmen-van-anderen-vrijwel-altijd-verboden-is)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يصعب على الشخص الموجود أمام الكاميرا ملاحظة هذه المراحل. فقد يدرك أن صورة التُقطت من دون أن يعرف إن كانت بقيت على الجهاز، أو دخلت في تفاعل مع الذكاء الاصطناعي، أو وصلت إلى جمهور عام. ولهذا يجب أن تشمل التوضيحات الجهاز والخدمات المتصلة به معاً."
+      },
+      {
+        "type": "heading",
+        "text": "انتقادات تتجاوز هولندا"
+      },
+      {
+        "type": "paragraph",
+        "text": "في المملكة المتحدة، أفادت رويترز بأن سلسلة الحانات ويذرسبون قيدت الاستخدام بسبب مخاوف التسجيل الخفي. وفي الولايات المتحدة، أشارت إلى دعوى ضد ميتا ولوكسوتيكا تزعم أن عاملين بشريين في وسم البيانات شاهدوا تسجيلات من دون علم الأشخاص المصورين. ولا ينبغي عرض هذه المزاعم باعتبارها نتائج توصلت إليها محكمة. [رويترز: هانس أندرس تعلق المبيعات، 2 أكتوبر 2026](https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وفي فرنسا، أصدرت هيئة الخصوصية CNIL تحذيراً وخطة عمل في مايو. وأبرزت أن الإطارات ذات المظهر العادي قد تجعل التعرف على التسجيل صعباً، وأن المؤشرات الضوئية توفر تنبيهاً محدوداً. وتشمل مخاوفها الآثار الاجتماعية لشعور الناس بأن لقاءاتهم اليومية قد تكون مسجلة. [الهيئة الفرنسية CNIL: تحذير وخطة عمل للنظارات الذكية، 11 مايو 2026](https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وفي ألمانيا، نشر مفوض حماية البيانات في هامبورغ مراجعة تقنية وقانونية لنظارات راي بان ميتا وايفارير من الجيل الأول في سبتمبر. وخلص إلى أن تسجيل أشخاص خارج الدائرة الشخصية القريبة سيفتقر عموماً إلى أساس قانوني، باستثناء حالات نادرة للمصلحة المشروعة، لأن الحصول على موافقة مستنيرة بشفافية أمر صعب. وهذا تقييم هيئة رقابية للطراز الذي فحصته. [مفوض حماية البيانات في هامبورغ: مراجعة نظارات راي بان ميتا، 10 سبتمبر 2026](https://datenschutz-hamburg.de/news/ray-ban-meta-ai-glasses-hmbbfdi-legt-technischen-und-datenschutzrechtlichen-pruefbericht-vor)"
+      },
+      {
+        "type": "paragraph",
+        "text": "هذه التطورات ليست متكافئة. فسياسة حانة ودعوى مستهلكين وتحليل هيئة رقابية لها آثار قانونية مختلفة. لكنها تُظهر معاً أن التحدي دولي: راحة مرتدي النظارات لا تحسم وضع كل من يقع ضمن نطاق الكاميرا أو الميكروفون."
+      },
+      {
+        "type": "heading",
+        "text": "هل تستطيع الأجهزة القابلة للارتداء كسب ثقة الجمهور؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للنظارات الذكية تقديم وظائف مفيدة من دون استخدام اليدين، والترجمة، ومساعدة الأشخاص ذوي الإعاقات البصرية أو السمعية، وهي فوائد تقر بها CNIL. والتحدي هو الحفاظ على هذه المنفعة مع احترام حقوق الآخرين. أما اعتبار الإتاحة والخصوصية هدفين متعارضين فيجعل النقاش أقل فائدة. [الهيئة الفرنسية CNIL: تحذير وخطة عمل للنظارات الذكية، 11 مايو 2026](https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يجمع المسار الجدير بالثقة بين إشارات تسجيل مفهومة، وحماية تصمد أمام الاختبار العملي، وجمع محدود للبيانات، ومعلومات واضحة عن المعالجة بالذكاء الاصطناعي. هذه معايير لتقييم التقنية، وليست ادعاء بأن تعديلاً معيناً حل المشكلة بالفعل. ويجب أن يشمل الاختبار المحيطين بالجهاز، لا المشترين الراضين وحدهم."
+      },
+      {
+        "type": "paragraph",
+        "text": "وتهم القواعد الاجتماعية أيضاً. ينبغي أن يستطيع الناس السؤال عما إذا كان التسجيل جارياً وأن يتوقعوا جواباً واضحاً. وتحتاج أماكن العمل والمتاجر والمنشآت إلى سياسات تتناول الكاميرات والميكروفونات من دون افتراض أن جميع المرتدين لديهم الغرض نفسه. فالقبول العام يعتمد على سلوك متوقع بقدر اعتماده على ورقة المواصفات."
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي ينبغي متابعته تالياً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "الأسئلة المقبلة محددة: كيف سترد ميتا على مطلب كونسومنتنبوند؟ وهل سيتبعه تقاضٍ؟ وما استنتاجات الهيئات الرقابية اللاحقة؟ وهل سيغير تجار التجزئة مواقفهم؟ عند النشر في 4 أكتوبر 2026، يظل تعليق المبيعات والتحذيرات الرقابية والتهديد بدعوى هولندية تطورات منفصلة. ولا ينبغي تضخيم أي منها إلى حظر شامل."
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تصبح الأجهزة القابلة للارتداء والمزودة بالذكاء الاصطناعي أشياء عادية. ولكي يحدث ذلك من دون تحويل الحياة العامة إلى ما يشبه استوديو تسجيل، يجب أن تكون الخصوصية مفهومة لمن يقف أمام النظارات بقدر ما هي مفهومة لمن يرتديها."
+      }
+    ],
+    "sources": [
+      {
+        "label": "رويترز: هانس أندرس تعلق المبيعات، 2 أكتوبر 2026",
+        "url": "https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns"
+      },
+      {
+        "label": "هيئة الخصوصية الهولندية: تحذير بشأن النظارات المزودة بكاميرا، 22 سبتمبر 2026",
+        "url": "https://autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-gebruikers-camerabrillen-dat-filmen-van-anderen-vrijwel-altijd-verboden-is"
+      },
+      {
+        "label": "هيئة الخصوصية الهولندية: الصور واستثناء الاستخدام الشخصي",
+        "url": "https://autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/beeldmateriaal"
+      },
+      {
+        "label": "كونسومنتنبوند: المطالبة بتعديل النظارات، 29 سبتمبر 2026",
+        "url": "https://www.consumentenbond.nl/nieuws/2026/consumentenbond-eist-dat-meta-camerabril-aanpast"
+      },
+      {
+        "label": "ميتا: أسئلة الخصوصية ومؤشر الالتقاط في نظارات الذكاء الاصطناعي",
+        "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/"
+      },
+      {
+        "label": "كونسومنتنبوند: اختبارات ضوء التسجيل، 10 سبتمبر 2026",
+        "url": "https://www.consumentenbond.nl/acties-claims/nieuws/2026/camerabril-kan-stiekem-filmen-ondanks-updates"
+      },
+      {
+        "label": "الهيئة الفرنسية CNIL: تحذير وخطة عمل للنظارات الذكية، 11 مايو 2026",
+        "url": "https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance"
+      },
+      {
+        "label": "مفوض حماية البيانات في هامبورغ: مراجعة نظارات راي بان ميتا، 10 سبتمبر 2026",
+        "url": "https://datenschutz-hamburg.de/news/ray-ban-meta-ai-glasses-hmbbfdi-legt-technischen-und-datenschutzrechtlichen-pruefbericht-vor"
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/",
+    "path": "/es/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex es editorial and source-parity review",
+      "reviewedAt": "2026-10-04",
+      "terminologyChecked": true
+    },
+    "title": "Las gafas inteligentes Meta Ray-Ban afrontan críticas por la privacidad y una cadena neerlandesa suspende su venta",
+    "headlineHighlights": {
+      "red": "Meta Ray-Ban",
+      "gold": "privacidad"
+    },
+    "seoTitle": "Meta Ray-Ban: Hans Anders suspende las ventas por privacidad",
+    "description": "Hans Anders pausa las ventas de Meta Ray-Ban en Países Bajos y Bélgica. Qué dicen los reguladores, Consumentenbond y Meta sobre privacidad y grabación.",
+    "excerpt": "La suspensión de ventas de una óptica neerlandesa lleva el debate sobre las gafas con IA a las tiendas. La luz de grabación, el consentimiento y los derechos de terceros son claves para su adopción.",
+    "keywords": [
+      "Meta Ray-Ban",
+      "gafas inteligentes",
+      "privacidad",
+      "Hans Anders",
+      "Consumentenbond",
+      "protección de datos"
+    ],
+    "searchIntent": "Entender la suspensión de ventas de las gafas Meta Ray-Ban y sus implicaciones para la privacidad de terceros.",
+    "faq": [
+      {
+        "question": "¿Por qué suspendió Hans Anders las ventas de gafas Meta Ray-Ban?",
+        "answer": "El distribuidor citó el debate público y político sobre privacidad y condiciones de uso de las gafas inteligentes. La suspensión abarca Países Bajos y Bélgica."
+      },
+      {
+        "question": "¿Están prohibidas las gafas Meta Ray-Ban en Países Bajos y Bélgica?",
+        "answer": "La medida anunciada es una suspensión de ventas de un distribuidor, no una prohibición nacional de venta en ninguno de los dos países."
+      },
+      {
+        "question": "¿La luz de grabación equivale a consentimiento?",
+        "answer": "No. Puede avisar de que se está grabando, pero no establece por sí sola consentimiento ni otra base jurídica para utilizar o publicar imágenes de personas identificables."
+      },
+      {
+        "question": "¿Qué dice Meta que ocurre si se tapa la luz de grabación?",
+        "answer": "Meta afirma que tapar o manipular el LED de captura desactiva la cámara. Consumentenbond ha cuestionado las protecciones basándose en sus propias pruebas realizadas en una fecha concreta."
+      }
+    ],
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "image": {
+      "src": "/articles/meta-smart-glasses-privacy-old-town.png",
+      "alt": "Ilustración editorial de una persona con gafas equipadas con cámara junto a transeúntes en una calle del casco antiguo al anochecer"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Hans Anders ha suspendido las ventas de las gafas inteligentes Ray-Ban de Meta en Países Bajos y Bélgica por preocupaciones sobre la privacidad, informó Reuters el 2 de octubre. La decisión de la cadena neerlandesa de ópticas lleva el debate sobre las grabaciones encubiertas a las tiendas, donde unas monturas con cámara pueden parecer gafas corrientes. [Reuters: Hans Anders suspende las ventas, 2 de octubre de 2026](https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para quien las lleva, una cámara a la altura de los ojos ofrece comodidad. Para la persona que tiene enfrente, genera incertidumbre: ¿es una conversación, una grabación o material que después se compartirá? Esa diferencia de perspectiva está en el centro de las críticas. La cuestión no es solo qué pueden hacer los dispositivos vestibles con IA, sino qué puede comprender y controlar razonablemente su entorno."
+      },
+      {
+        "type": "heading",
+        "text": "UNA PAUSA COMERCIAL, NO UNA PROHIBICIÓN NACIONAL"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hans Anders vinculó su decisión al debate público y político sobre las condiciones de uso de las gafas inteligentes. La suspensión abarca Países Bajos y Bélgica. Es una decisión de un distribuidor, no una prueba de que alguno de los dos países haya impuesto una prohibición nacional de venta. [Reuters: Hans Anders suspende las ventas, 2 de octubre de 2026](https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinción importa a los consumidores y al sector. Una tienda puede considerar que las dudas sin resolver justifican una pausa sin esperar una sentencia. Para los fabricantes, la confianza comercial forma parte de la adopción masiva: la capacidad técnica por sí sola no responde a las preguntas de clientes, empleados o personas cercanas."
+      },
+      {
+        "type": "heading",
+        "text": "QUÉ DICE REALMENTE EL REGULADOR NEERLANDÉS"
+      },
+      {
+        "type": "paragraph",
+        "text": "El 22 de septiembre, la autoridad neerlandesa de protección de datos, Autoriteit Persoonsgegevens (AP), advirtió de que las personas identificables conservan sus derechos de privacidad. Sus imágenes no pueden utilizarse, compartirse ampliamente o publicarse sin una base jurídica; generalmente se requiere permiso en las situaciones descritas por la autoridad. La AP también aconsejó a las organizaciones valorar restricciones en sus normas internas cuando sea necesario. [AP neerlandesa: advertencia sobre gafas con cámara, 22 de septiembre de 2026](https://autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-gebruikers-camerabrillen-dat-filmen-van-anderen-vrijwel-altijd-verboden-is)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La orientación general del regulador establece una distinción importante. El uso estrictamente personal o doméstico puede quedar fuera del RGPD si las imágenes se mantienen privadas o se comparten solo en un círculo muy reducido. La publicación abierta es diferente: esa excepción deja de aplicarse y se necesita una base jurídica, normalmente el consentimiento en este contexto. Importan las circunstancias y el uso previsto. [AP neerlandesa: imágenes y excepciones de uso personal](https://autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/beeldmateriaal)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una luz visible y el permiso legal son, por tanto, cosas distintas. Un indicador puede ayudar a detectar una cámara, pero verla no equivale automáticamente a aceptar una publicación. Tampoco debe simplificarse esta orientación afirmando que cualquier fotografía en un lugar público es ilegal."
+      },
+      {
+        "type": "heading",
+        "text": "CONSUMENTENBOND AMENAZA CON ACUDIR A LOS TRIBUNALES"
+      },
+      {
+        "type": "paragraph",
+        "text": "El 29 de septiembre, la organización neerlandesa de consumidores Consumentenbond anunció que había enviado un requerimiento formal a Meta y le daba dos semanas para modificar las gafas. Exige cambios en el diseño y la configuración predeterminada, así como el cese del tratamiento de datos que considera ilícito. Afirma que demandará a Meta si no cumple. [Consumentenbond: exige cambios en las gafas, 29 de septiembre de 2026](https://www.consumentenbond.nl/nieuws/2026/consumentenbond-eist-dat-meta-camerabril-aanpast)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Se trata de las acusaciones y la amenaza judicial anunciada por la organización, no de una sentencia que declare ilegal el producto. Su impugnación también va más allá del uso indebido individual: plantea si el dispositivo protege suficientemente a quienes nunca lo compraron ni aceptaron sus condiciones."
+      },
+      {
+        "type": "heading",
+        "text": "LA RESPUESTA DE META: LUZ DE GRABACIÓN Y PROTECCIÓN ANTIMANIPULACIÓN"
+      },
+      {
+        "type": "paragraph",
+        "text": "Meta afirma que sus gafas incorporan un LED de captura visible, sin interruptor para apagarlo, y que taparlo o manipularlo desactiva la cámara. Su explicación oficial describe una luz blanca que señala las fotos y vídeos capturados para la galería del usuario, junto con software pensado para detectar interferencias con ese indicador. [Meta: privacidad y luz de captura de las gafas con IA](https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Consumentenbond cuestiona la eficacia de esas protecciones. En una investigación publicada el 10 de septiembre, afirmó que pudo seguir grabando con la luz oculta durante su prueba del 2 de septiembre, con la versión 127 del software. Es una prueba de un dispositivo y un programa en una fecha concreta, no una demostración sobre todos los modelos o actualizaciones posteriores. [Consumentenbond: pruebas de la luz de grabación, 10 de septiembre de 2026](https://www.consumentenbond.nl/acties-claims/nieuws/2026/camerabril-kan-stiekem-filmen-ondanks-updates)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El desacuerdo requiere precisión. La descripción de Meta explica la protección prevista; un informe de pruebas pregunta si funciona en la práctica. Incluso un sistema antimanipulación fiable deja otra cuestión: ¿pueden las personas detectar e interpretar el indicador con suficiente rapidez en situaciones sociales cotidianas?"
+      },
+      {
+        "type": "heading",
+        "text": "GRABAR, COMPARTIR Y PROCESAR CON IA SON PASOS DIFERENTES"
+      },
+      {
+        "type": "paragraph",
+        "text": "Meta dice que las fotos y vídeos destinados a la galería permanecen en las gafas hasta que el usuario los importa, y que este decide si los comparte o utiliza Meta AI. Eso no equivale a afirmar que cada grabación ordinaria se publica automáticamente o se envía para entrenar una IA. [Meta: privacidad y luz de captura de las gafas con IA](https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A la vez, la AP advierte de que las funciones de IA pueden tratar datos personales aunque no se guarde una foto o un vídeo. La privacidad va, por tanto, más allá del botón de compartir: captura, procesamiento con IA, almacenamiento y divulgación plantean preguntas distintas sobre finalidad, transparencia y control. [AP neerlandesa: advertencia sobre gafas con cámara, 22 de septiembre de 2026](https://autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-gebruikers-camerabrillen-dat-filmen-van-anderen-vrijwel-altijd-verboden-is)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para una persona que aparece en las imágenes, esas fases son difíciles de observar. Puede entender que se ha tomado una foto sin saber si permanece en el dispositivo, se ha utilizado en una interacción con IA o ha llegado a un público abierto. Las explicaciones deben abarcar tanto el hardware como los servicios conectados."
+      },
+      {
+        "type": "heading",
+        "text": "LAS CRÍTICAS VAN MÁS ALLÁ DE PAÍSES BAJOS"
+      },
+      {
+        "type": "paragraph",
+        "text": "En el Reino Unido, Reuters informa de que la cadena de pubs Wetherspoon ha restringido el uso por temor a las grabaciones encubiertas. En Estados Unidos, recoge una demanda contra Meta y Luxottica que alega que anotadores humanos vieron grabaciones sin conocimiento de las personas filmadas. Esas acusaciones no deben presentarse como conclusiones de un tribunal. [Reuters: Hans Anders suspende las ventas, 2 de octubre de 2026](https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En Francia, la autoridad de privacidad CNIL publicó en mayo una advertencia y un plan de acción. Destacó que unas monturas de aspecto corriente pueden dificultar reconocer una grabación y que las luces ofrecen un aviso limitado. Su preocupación incluye los efectos sociales de sentir que los encuentros cotidianos podrían estar siendo grabados. [CNIL: advertencia y plan de acción sobre gafas inteligentes, 11 de mayo de 2026](https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En Alemania, la autoridad de protección de datos de Hamburgo publicó en septiembre un análisis técnico y jurídico de las Ray-Ban Meta Wayfarer Gen 1. Concluyó que grabar a personas ajenas a un círculo personal cercano generalmente carecería de base jurídica, salvo situaciones excepcionales de interés legítimo, porque es difícil obtener un consentimiento informado con transparencia. Es la evaluación de un regulador sobre el modelo examinado. [Autoridad de privacidad de Hamburgo: análisis de Ray-Ban Meta, 10 de septiembre de 2026](https://datenschutz-hamburg.de/news/ray-ban-meta-ai-glasses-hmbbfdi-legt-technischen-und-datenschutzrechtlichen-pruefbericht-vor)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estos acontecimientos no son equivalentes. Una norma de un pub, una demanda de consumidores y un análisis regulatorio tienen efectos jurídicos distintos. En conjunto muestran, sin embargo, un problema internacional: la comodidad del usuario no resuelve la situación de todos los que están al alcance de la cámara o el micrófono."
+      },
+      {
+        "type": "heading",
+        "text": "¿PUEDEN LOS DISPOSITIVOS VESTIBLES CON IA GANARSE LA CONFIANZA?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las gafas inteligentes pueden ofrecer funciones manos libres, traducción y asistencia a personas con discapacidad visual o auditiva, ventajas que reconoce la CNIL. El reto es conservar esa utilidad respetando los derechos de los demás. Tratar accesibilidad y privacidad como objetivos incompatibles empobrecería el debate. [CNIL: advertencia y plan de acción sobre gafas inteligentes, 11 de mayo de 2026](https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una vía creíble combinaría señales de grabación comprensibles, protecciones probadas en condiciones reales, recogida limitada de datos e información clara sobre su tratamiento con IA. Son criterios para evaluar la tecnología, no una afirmación de que un rediseño concreto ya haya solucionado el problema. La evaluación debe incluir a terceros, no solo a compradores satisfechos."
+      },
+      {
+        "type": "paragraph",
+        "text": "También importan las normas sociales. Las personas deberían poder preguntar si se está grabando y recibir una respuesta clara. Empresas, tiendas y locales necesitan políticas sobre cámaras y micrófonos que no presupongan el mismo objetivo para todos los usuarios. La aceptación pública depende tanto de comportamientos previsibles como de las especificaciones técnicas."
+      },
+      {
+        "type": "heading",
+        "text": "QUÉ CONVIENE OBSERVAR AHORA"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las próximas preguntas son concretas: cómo responderá Meta a Consumentenbond, si habrá litigio, qué concluirán otros reguladores y si los distribuidores cambiarán de posición. En la fecha de publicación, el 4 de octubre de 2026, la suspensión de ventas, las advertencias regulatorias y la amenaza de demanda neerlandesa son hechos distintos. Ninguno debe exagerarse hasta convertirlo en una prohibición universal."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los dispositivos vestibles con IA pueden convertirse en objetos cotidianos. Para lograrlo sin que la vida pública parezca un estudio de grabación, la privacidad debe ser comprensible tanto para quien está frente a las gafas como para quien las lleva."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Reuters: Hans Anders suspende las ventas, 2 de octubre de 2026",
+        "url": "https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns"
+      },
+      {
+        "label": "AP neerlandesa: advertencia sobre gafas con cámara, 22 de septiembre de 2026",
+        "url": "https://autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-gebruikers-camerabrillen-dat-filmen-van-anderen-vrijwel-altijd-verboden-is"
+      },
+      {
+        "label": "AP neerlandesa: imágenes y excepciones de uso personal",
+        "url": "https://autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/beeldmateriaal"
+      },
+      {
+        "label": "Consumentenbond: exige cambios en las gafas, 29 de septiembre de 2026",
+        "url": "https://www.consumentenbond.nl/nieuws/2026/consumentenbond-eist-dat-meta-camerabril-aanpast"
+      },
+      {
+        "label": "Meta: privacidad y luz de captura de las gafas con IA",
+        "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/"
+      },
+      {
+        "label": "Consumentenbond: pruebas de la luz de grabación, 10 de septiembre de 2026",
+        "url": "https://www.consumentenbond.nl/acties-claims/nieuws/2026/camerabril-kan-stiekem-filmen-ondanks-updates"
+      },
+      {
+        "label": "CNIL: advertencia y plan de acción sobre gafas inteligentes, 11 de mayo de 2026",
+        "url": "https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance"
+      },
+      {
+        "label": "Autoridad de privacidad de Hamburgo: análisis de Ray-Ban Meta, 10 de septiembre de 2026",
+        "url": "https://datenschutz-hamburg.de/news/ray-ban-meta-ai-glasses-hmbbfdi-legt-technischen-und-datenschutzrechtlichen-pruefbericht-vor"
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/",
+    "path": "/fr/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex fr editorial and source-parity review",
+      "reviewedAt": "2026-10-04",
+      "terminologyChecked": true
+    },
+    "title": "Lunettes Meta Ray-Ban : la controverse sur la vie privée pousse un distributeur néerlandais à suspendre les ventes",
+    "headlineHighlights": {
+      "red": "Meta Ray-Ban",
+      "gold": "vie privée"
+    },
+    "seoTitle": "Meta Ray-Ban : Hans Anders suspend les ventes",
+    "description": "Hans Anders suspend les ventes de Meta Ray-Ban aux Pays-Bas et en Belgique. Les positions des régulateurs, de Consumentenbond et de Meta sur la vie privée.",
+    "excerpt": "La suspension des ventes par un opticien néerlandais installe le débat sur les lunettes IA dans les commerces. Voyant, consentement et droits des personnes filmées sont au cœur de leur adoption.",
+    "keywords": [
+      "Meta Ray-Ban",
+      "lunettes connectées",
+      "vie privée",
+      "Hans Anders",
+      "Consumentenbond",
+      "protection des données"
+    ],
+    "searchIntent": "Comprendre la suspension des ventes de lunettes Meta Ray-Ban et les enjeux de vie privée pour les personnes filmées.",
+    "faq": [
+      {
+        "question": "Pourquoi Hans Anders a-t-il suspendu les ventes de lunettes Meta Ray-Ban ?",
+        "answer": "Le distributeur a invoqué le débat public et politique sur la vie privée et les conditions d’utilisation des lunettes connectées. La suspension concerne les Pays-Bas et la Belgique."
+      },
+      {
+        "question": "Les lunettes Meta Ray-Ban sont-elles interdites aux Pays-Bas et en Belgique ?",
+        "answer": "L’action rapportée est une suspension des ventes par un distributeur, pas une interdiction nationale de vente dans l’un ou l’autre pays."
+      },
+      {
+        "question": "Un voyant d’enregistrement vaut-il consentement ?",
+        "answer": "Non. Un voyant peut signaler une captation, mais il ne constitue pas à lui seul un consentement ou une autre base légale pour utiliser ou publier des images de personnes reconnaissables."
+      },
+      {
+        "question": "Que dit Meta lorsque le voyant est masqué ?",
+        "answer": "Meta affirme que masquer ou manipuler le voyant désactive la caméra. Consumentenbond a contesté l’efficacité des protections sur la base de tests réalisés à une date précise."
+      }
+    ],
+    "category": "AI",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "image": {
+      "src": "/articles/meta-smart-glasses-privacy-old-town.png",
+      "alt": "Illustration éditoriale d’une personne portant des lunettes équipées d’une caméra près de passants dans une rue ancienne au crépuscule"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Hans Anders a suspendu les ventes des lunettes connectées Ray-Ban de Meta aux Pays-Bas et en Belgique sur fond de préoccupations concernant la vie privée, a rapporté Reuters le 2 octobre. La décision de cette chaîne néerlandaise d’optique fait entrer le débat sur l’enregistrement discret dans les commerces, où des montures équipées d’une caméra peuvent ressembler à des lunettes ordinaires. [Reuters : Hans Anders suspend les ventes, 2 octobre 2026](https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour la personne qui les porte, une caméra à hauteur des yeux est pratique. Pour celle qui lui fait face, elle crée une incertitude : s’agit-il d’une conversation, d’un enregistrement ou de contenus qui seront ensuite diffusés ? Cette différence de perspective est au centre de la controverse. La question porte autant sur les capacités des objets connectés avec IA que sur ce que leur entourage peut raisonnablement comprendre et maîtriser."
+      },
+      {
+        "type": "heading",
+        "text": "UNE PAUSE COMMERCIALE, PAS UNE INTERDICTION NATIONALE"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hans Anders a relié sa décision au débat public et politique sur les conditions d’utilisation des lunettes connectées. La suspension concerne les Pays-Bas et la Belgique. Il s’agit du choix d’un distributeur, et non de la preuve que l’un ou l’autre pays a instauré une interdiction nationale de vente. [Reuters : Hans Anders suspend les ventes, 2 octobre 2026](https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinction compte pour les consommateurs comme pour le secteur. Un magasin peut juger que des préoccupations non résolues justifient une pause sans attendre une décision de justice. Pour les fabricants, la confiance des distributeurs participe à l’adoption grand public : les capacités techniques seules ne répondent pas aux questions des clients, des salariés ou des personnes présentes."
+      },
+      {
+        "type": "heading",
+        "text": "CE QUE DIT RÉELLEMENT LE RÉGULATEUR NÉERLANDAIS"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le 22 septembre, l’autorité néerlandaise de protection des données, Autoriteit Persoonsgegevens (AP), a rappelé que les personnes reconnaissables conservent leurs droits à la vie privée. Leurs images ne peuvent pas simplement être utilisées, largement partagées ou publiées sans base légale ; leur accord est généralement nécessaire dans les situations décrites par l’autorité. L’AP a aussi conseillé aux organisations d’envisager, si nécessaire, des restrictions dans leur règlement intérieur. [AP néerlandaise : avertissement sur les lunettes à caméra, 22 septembre 2026](https://autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-gebruikers-camerabrillen-dat-filmen-van-anderen-vrijwel-altijd-verboden-is)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les recommandations générales du régulateur distinguent les usages. Un usage strictement personnel ou domestique peut échapper au RGPD si les images restent privées ou ne sont partagées que dans un cercle très restreint. Une publication publique est différente : l’exception ne s’applique plus, et une base légale est nécessaire, généralement le consentement dans ce contexte. Les circonstances et l’usage prévu comptent. [AP néerlandaise : images et exception d’usage personnel](https://autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/beeldmateriaal)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un voyant visible et une autorisation juridique sont donc deux choses différentes. Le premier peut aider à remarquer une caméra, mais cela ne signifie pas automatiquement accepter une publication. Il ne faut pas non plus résumer ces recommandations en affirmant que toute photographie dans un lieu public est illégale."
+      },
+      {
+        "type": "heading",
+        "text": "CONSUMENTENBOND MENACE DE SAISIR LA JUSTICE"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le 29 septembre, l’association néerlandaise de consommateurs Consumentenbond a annoncé avoir adressé une mise en demeure à Meta, lui donnant deux semaines pour modifier les lunettes. Elle demande des changements de conception et de paramètres par défaut, ainsi que l’arrêt des traitements qu’elle estime illicites. Elle affirme qu’elle engagera une procédure si Meta ne répond pas à ses demandes. [Consumentenbond : demande de modification des lunettes, 29 septembre 2026](https://www.consumentenbond.nl/nieuws/2026/consumentenbond-eist-dat-meta-camerabril-aanpast)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il s’agit des accusations et de la menace de recours de l’association, pas d’un jugement déclarant le produit illégal. Sa contestation dépasse aussi le mauvais usage individuel : elle demande si le produit protège suffisamment les personnes qui ne l’ont jamais acheté et n’en ont jamais accepté les conditions."
+      },
+      {
+        "type": "heading",
+        "text": "LA RÉPONSE DE META : UN VOYANT ET UNE PROTECTION CONTRE SA MANIPULATION"
+      },
+      {
+        "type": "paragraph",
+        "text": "Meta affirme que ses lunettes disposent d’un voyant d’enregistrement visible, sans interrupteur permettant de l’éteindre, et que le masquer ou le modifier désactive la caméra. Son explication officielle décrit un voyant blanc signalant les photos et vidéos prises pour la galerie du porteur, ainsi qu’un logiciel conçu pour détecter les manipulations. [Meta : vie privée et voyant des lunettes IA](https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Consumentenbond conteste l’efficacité de ces protections. Dans une étude publiée le 10 septembre, l’association affirme avoir encore pu enregistrer avec le voyant masqué lors de son test du 2 septembre, réalisé avec la version 127 du logiciel. Ce test concerne un appareil et un logiciel à une date donnée ; il ne prouve pas le comportement de chaque modèle ou mise à jour ultérieure. [Consumentenbond : tests du voyant d’enregistrement, 10 septembre 2026](https://www.consumentenbond.nl/acties-claims/nieuws/2026/camerabril-kan-stiekem-filmen-ondanks-updates)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le désaccord exige une formulation précise. La description de Meta expose la protection prévue ; un rapport d’essai interroge son fonctionnement réel. Même un système fiable contre les manipulations laisse une question ouverte : les personnes peuvent-elles remarquer et interpréter le voyant assez rapidement dans les interactions ordinaires ?"
+      },
+      {
+        "type": "heading",
+        "text": "ENREGISTRER, PARTAGER ET TRAITER PAR IA SONT DES ÉTAPES DISTINCTES"
+      },
+      {
+        "type": "paragraph",
+        "text": "Meta indique que les photos et vidéos prises pour la galerie restent sur les lunettes jusqu’à leur importation par l’utilisateur, qui choisit ensuite de les partager ou d’utiliser Meta AI. Cela ne signifie pas que chaque enregistrement ordinaire est automatiquement publié ou envoyé pour entraîner une IA. [Meta : vie privée et voyant des lunettes IA](https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’AP avertit toutefois que les fonctions d’IA peuvent traiter des données personnelles même sans sauvegarde d’une photo ou d’une vidéo. La question dépasse donc le bouton de partage : captation, traitement par IA, stockage et diffusion soulèvent chacun des interrogations sur la finalité, la transparence et le contrôle. [AP néerlandaise : avertissement sur les lunettes à caméra, 22 septembre 2026](https://autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-gebruikers-camerabrillen-dat-filmen-van-anderen-vrijwel-altijd-verboden-is)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour une personne filmée, ces étapes sont difficiles à observer. Elle peut comprendre qu’une photo a été prise sans savoir si elle est restée sur l’appareil, a été utilisée dans une interaction avec une IA ou a atteint un public plus large. Les explications doivent donc couvrir le matériel et les services qui y sont associés."
+      },
+      {
+        "type": "heading",
+        "text": "UNE CONTROVERSE AU-DELÀ DES PAYS-BAS"
+      },
+      {
+        "type": "paragraph",
+        "text": "Au Royaume-Uni, Reuters rapporte que la chaîne de pubs Wetherspoon a restreint l’utilisation de ces lunettes par crainte des enregistrements discrets. Aux États-Unis, l’agence fait état d’une plainte contre Meta et Luxottica selon laquelle des annotateurs humains auraient visionné des enregistrements à l’insu des personnes filmées. Ces accusations ne doivent pas être présentées comme des faits établis par un tribunal. [Reuters : Hans Anders suspend les ventes, 2 octobre 2026](https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En France, la CNIL a publié en mai un avertissement et un plan d’action. Elle souligne que des montures d’apparence ordinaire peuvent rendre l’enregistrement difficile à reconnaître et que les voyants n’offrent qu’une information limitée. Ses préoccupations incluent les effets sociaux du sentiment que les rencontres quotidiennes pourraient être enregistrées. [CNIL : vigilance et plan d’action sur les lunettes connectées, 11 mai 2026](https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En Allemagne, l’autorité de protection des données de Hambourg a publié en septembre un examen technique et juridique des Ray-Ban Meta Wayfarer Gen 1. Elle conclut que filmer des personnes hors d’un cercle personnel proche manquerait généralement de base légale, sauf rares cas d’intérêt légitime, le consentement éclairé étant difficile à recueillir de manière transparente. Il s’agit de l’analyse d’un régulateur portant sur le modèle examiné. [Autorité de Hambourg : examen des Ray-Ban Meta, 10 septembre 2026](https://datenschutz-hamburg.de/news/ray-ban-meta-ai-glasses-hmbbfdi-legt-technischen-und-datenschutzrechtlichen-pruefbericht-vor)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces évolutions ne sont pas interchangeables. Une règle de pub, une plainte de consommateurs et une analyse réglementaire ont des effets juridiques différents. Elles montrent néanmoins une difficulté internationale : le confort du porteur ne règle pas la situation de toutes les personnes à portée de caméra ou de microphone."
+      },
+      {
+        "type": "heading",
+        "text": "LES OBJETS PORTABLES AVEC IA PEUVENT-ILS INSPIRER CONFIANCE ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les lunettes connectées peuvent offrir des fonctions mains libres, de la traduction et une assistance aux personnes malvoyantes ou malentendantes, des avantages reconnus par la CNIL. Le défi consiste à préserver cette utilité tout en respectant les droits d’autrui. Présenter l’accessibilité et la vie privée comme incompatibles appauvrirait le débat. [CNIL : vigilance et plan d’action sur les lunettes connectées, 11 mai 2026](https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une voie crédible associerait des signaux d’enregistrement compréhensibles, des protections éprouvées en conditions réelles, une collecte limitée et des informations claires sur le traitement par IA. Ce sont des critères d’évaluation, pas l’affirmation qu’une nouvelle conception aurait déjà tout résolu. L’évaluation doit inclure les personnes alentour, pas seulement les acheteurs satisfaits."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les règles sociales comptent aussi. Chacun devrait pouvoir demander si un enregistrement est en cours et obtenir une réponse claire. Entreprises, commerces et lieux accueillant du public ont besoin de règles sur les caméras et microphones, sans supposer que tous les porteurs poursuivent le même objectif. L’acceptation dépend autant de comportements prévisibles que d’une fiche technique."
+      },
+      {
+        "type": "heading",
+        "text": "LES PROCHAINES ÉTAPES À SURVEILLER"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les questions à venir sont précises : quelle sera la réponse de Meta à Consumentenbond, une procédure suivra-t-elle, quelles seront les prochaines conclusions des régulateurs et les distributeurs changeront-ils de position ? À la publication, le 4 octobre 2026, suspension des ventes, avertissements réglementaires et menace de procès néerlandais restent des événements distincts. Aucun ne doit être transformé en interdiction universelle."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les objets portables avec IA peuvent devenir ordinaires. Pour y parvenir sans donner à la vie publique des airs de studio d’enregistrement, la protection de la vie privée doit être compréhensible pour la personne face aux lunettes autant que pour celle qui les porte."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Reuters : Hans Anders suspend les ventes, 2 octobre 2026",
+        "url": "https://live.euronext.com/en/financial-news/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns"
+      },
+      {
+        "label": "AP néerlandaise : avertissement sur les lunettes à caméra, 22 septembre 2026",
+        "url": "https://autoriteitpersoonsgegevens.nl/actueel/ap-waarschuwt-gebruikers-camerabrillen-dat-filmen-van-anderen-vrijwel-altijd-verboden-is"
+      },
+      {
+        "label": "AP néerlandaise : images et exception d’usage personnel",
+        "url": "https://autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/beeldmateriaal"
+      },
+      {
+        "label": "Consumentenbond : demande de modification des lunettes, 29 septembre 2026",
+        "url": "https://www.consumentenbond.nl/nieuws/2026/consumentenbond-eist-dat-meta-camerabril-aanpast"
+      },
+      {
+        "label": "Meta : vie privée et voyant des lunettes IA",
+        "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/"
+      },
+      {
+        "label": "Consumentenbond : tests du voyant d’enregistrement, 10 septembre 2026",
+        "url": "https://www.consumentenbond.nl/acties-claims/nieuws/2026/camerabril-kan-stiekem-filmen-ondanks-updates"
+      },
+      {
+        "label": "CNIL : vigilance et plan d’action sur les lunettes connectées, 11 mai 2026",
+        "url": "https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance"
+      },
+      {
+        "label": "Autorité de Hambourg : examen des Ray-Ban Meta, 10 septembre 2026",
+        "url": "https://datenschutz-hamburg.de/news/ray-ban-meta-ai-glasses-hmbbfdi-legt-technischen-und-datenschutzrechtlichen-pruefbericht-vor"
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/michael-jackson-life-music-legacy-king-of-pop/",
     "path": "/ar/articles/michael-jackson-life-music-legacy-king-of-pop/",
     "kind": "article",
