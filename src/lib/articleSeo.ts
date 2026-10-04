@@ -1,4 +1,5 @@
 import type { Article } from "@/data/articles";
+import { articleImageJsonLd, articleImagePage } from "@/lib/articleImageSeo";
 import { getAuthorProfile, getAuthorSchemaType, toAuthorSlug } from "@/lib/authors";
 import { categoryLabels } from "@/lib/categories";
 import { absoluteUrl, siteName, siteUrl } from "@/lib/seo";
@@ -151,7 +152,7 @@ export function getArticleContentWithoutInlineFaq(article: Article): ArticleCont
 
 export function articleJsonLd(article: Article) {
   const url = `${siteUrl}/articles/${article.slug}/`;
-  const image = absoluteUrl(article.coverImage);
+  const image = articleImageJsonLd(article.coverImage, article.coverAlt, url);
   const authorUrl = `${siteUrl}/authors/${toAuthorSlug(article.author)}/`;
 
   return {
@@ -182,10 +183,7 @@ export function articleJsonLd(article: Article) {
         url: absoluteUrl("/presda-p-transparent.png")
       }
     },
-    mainEntityOfPage: {
-      "@type": "WebPage",
-      "@id": url
-    }
+    mainEntityOfPage: articleImagePage(url)
   };
 }
 

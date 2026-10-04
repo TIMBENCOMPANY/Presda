@@ -1,4 +1,5 @@
 import { listingRoutes } from "@/lib/i18n/listing-routes";
+import { articleSitemapImages } from "@/lib/articleImageSeo";
 import type { MetadataRoute } from "next";
 import { publishedTranslations, getLanguageAlternates } from "@/lib/i18n/registry";
 import { isEnglishPage } from "@/lib/i18n/english";
@@ -54,6 +55,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...publishedTranslations.map((record) => ({
       url: `${siteUrl}${record.path}`,
       lastModified: new Date(record.updatedAt),
+      ...(record.kind === "article" && record.image ? { images: articleSitemapImages(record.image.src) } : {}),
       alternates: { languages: getLanguageAlternates(record.path) }
     })),
     ...publicRoutes.map((route) => ({
@@ -65,6 +67,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
     ...articles.map((article) => ({
       url: getArticleCanonicalUrl(article.slug),
+      images: articleSitemapImages(article.coverImage),
       alternates: { languages: getLanguageAlternates(`/articles/${article.slug}/`) },
       lastModified: new Date(getArticleLastUpdated(article)),
       changeFrequency: "weekly" as const,

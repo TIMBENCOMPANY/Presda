@@ -3,6 +3,7 @@ const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const sharp = require('sharp');
 const { getPublishedArticles } = require('../src/data/articles.ts');
+const { articleImageUrl } = require('../src/lib/articleImageSeo.ts');
 const { publishedTranslations, getLanguageAlternates } = require('../src/lib/i18n/registry.ts');
 const base = process.argv[2] || 'http://localhost:3100';
 const baseline = process.argv.includes('--baseline');
@@ -38,10 +39,11 @@ async function batches(items, fn) { for(let i=0;i<items.length;i+=4) await Promi
   const schemas = [...html.matchAll(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].map(m=>JSON.parse(m[1]));
   const article = schemas.find(s=>s['@type']==='Article'||s['@type']==='NewsArticle');
   assert.equal(article.headline, p.title);assert.equal(article.datePublished,p.date);
-  assert.equal(article.image, 'https://presda.com'+p.image);
+  const imageUrl = typeof article.image === 'string' ? article.image : article.image.contentUrl;
+  assert.equal(imageUrl, baseline && typeof article.image === 'string' ? 'https://presda.com'+p.image : articleImageUrl(p.image));
   assert.ok([...html.matchAll(/<time\b[^>]*>/g)].some(m=>attrs(m[0]).datetime===p.date), 'Visible date '+p.path);
   if(!baseline) {assert.equal(article.author['@type'],'Organization');assert.ok(article.author.url);assert.ok(schemas.some(s=>s['@type']==='NewsMediaOrganization'));}
-  assert.equal(meta.find(m=>m.property==='og:image')?.content, article.image);
+  assert.equal(meta.find(m=>m.property==='og:image')?.content, imageUrl);
  });
  const small = [];
  await batches([...new Set(articles.map(a=>a.coverImage)), '/presda-p-transparent.png'], async src=>{

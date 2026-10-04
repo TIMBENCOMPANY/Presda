@@ -1,4 +1,5 @@
 import { discoveryRobots } from "@/lib/seo";
+import { articleImageUrl, articleImageJsonLd, articleImagePage } from "@/lib/articleImageSeo";
 import { getAuthorSchemaType, toAuthorSlug } from "@/lib/authors";
 import { getArticleBySlug } from "@/data/articles";
 import { getArticleSchemaType } from "@/lib/articleSeo";
@@ -10,7 +11,7 @@ import { localizedCategories } from "./messages";
 const ogLocales = { ar: "ar_AR", fr: "fr_FR", es: "es_ES" };
 export function translationMetadata(record: Translation): Metadata {
   const url = `https://presda.com${record.path}`;
-  const images = record.image ? [{ url: `https://presda.com${record.image.src}`, alt: record.image.alt }] : [];
+  const images = record.image ? [{ url: record.kind === "article" ? articleImageUrl(record.image.src) : `https://presda.com${record.image.src}`, alt: record.image.alt }] : [];
   return {
     title: { absolute: record.seoTitle.endsWith(" | PRESDA") ? record.seoTitle : `${record.seoTitle} | PRESDA` },
     description: record.description,
@@ -49,13 +50,13 @@ export function translationJsonLd(record: Translation) {
     "@type": record.kind === "article" ? schemaType : record.kind === "category" ? "CollectionPage" : "WebPage",
     "@id": `${url}#${record.kind}`,
     url, inLanguage: record.locale, headline: record.title, description: record.description,
-    mainEntityOfPage: url,
+    mainEntityOfPage: record.kind === "article" && record.image ? articleImagePage(url) : url,
     datePublished: record.publishedAt, dateModified: record.updatedAt,
     ...(record.category ? { articleSection: localizedCategories[record.locale][record.category] } : {}),
     keywords: record.keywords.join(", "),
     ...(record.sources?.length ? { citation: record.sources.map(source => source.url) } : {}),
     ...(record.author ? { author: { "@type": getAuthorSchemaType(record.author), name: record.author, url: `https://presda.com/authors/${toAuthorSlug(record.author)}/` } } : {}),
-    ...(record.image ? { image: `https://presda.com${record.image.src}` } : {}),
+    ...(record.image ? { image: record.kind === "article" ? articleImageJsonLd(record.image.src, record.image.alt, url) : `https://presda.com${record.image.src}` } : {}),
     translationOfWork: { "@type": record.kind === "article" ? schemaType : "WebPage", url: `https://presda.com${record.englishPath}`, inLanguage: "en" },
     publisher: { "@id": "https://presda.com/#organization" }
   };

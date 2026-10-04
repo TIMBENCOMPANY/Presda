@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { articleImageUrl } from "@/lib/articleImageSeo";
 import { getLanguageAlternates } from "@/lib/i18n/registry";
 import { notFound } from "next/navigation";
 import { ArticleLayout } from "@/components/ArticleLayout";
@@ -36,7 +37,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   const url = getArticleCanonicalUrl(article.slug);
-  const image = `${siteUrl}${article.coverImage}`;
+  const image = articleImageUrl(article.coverImage);
   const authorUrl = `${siteUrl}/authors/${toAuthorSlug(article.author)}/`;
   const metadataTitle = article.seoTitle ?? article.title;
   const metadataDescription = article.metaDescription ?? article.excerpt;

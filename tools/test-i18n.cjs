@@ -81,7 +81,8 @@ for (const locale of ['ar', 'fr', 'es']) {
   assert.deepEqual(meta.keywords, fixture.keywords);
   const schema = translationJsonLd(fixture);
   assert.equal(schema.inLanguage, locale);
-  assert.equal(schema.mainEntityOfPage, meta.alternates.canonical);
+  assert.equal(schema.mainEntityOfPage['@id'], meta.alternates.canonical);
+  assert.equal(schema.mainEntityOfPage.primaryImageOfPage['@id'], schema.image['@id']);
   const html = renderToStaticMarkup(React.createElement(LocalizedPublication, { record: fixture }));
   assert.ok(html.includes(fixture.title));
   assert.ok(html.includes('<h2'));
