@@ -1,0 +1,183 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/bukang-i-shark-busan-canal-600000-visitors/",
+  "path": "/es/articles/bukang-i-shark-busan-canal-600000-visitors/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es editorial and source-parity review",
+    "reviewedAt": "2026-10-04",
+    "terminologyChecked": true
+  },
+  "title": "Bukang-i: el tiburón que atrajo a 600.000 visitantes a un canal de Busan",
+  "seoTitle": "Bukang-i: el tiburón viral de Busan y su rescate",
+  "description": "Bukang-i atrajo más de 600.000 visitas al Puerto Norte de Busan. Los últimos intentos de rescate, las cifras de visitantes y la salud del tiburón.",
+  "excerpt": "Un tiburón de 3,5 metros se convirtió en la inesperada celebridad de Busan. Entre multitudes y un título de embajador honorario, su regreso seguro al mar sigue siendo la prioridad.",
+  "headlineHighlights": {
+    "red": "Bukang-i",
+    "gold": "600.000 visitantes"
+  },
+  "keywords": [
+    "Bukang-i",
+    "Busan",
+    "Corea del Sur",
+    "rescate de tiburón",
+    "Puerto Norte",
+    "fauna silvestre"
+  ],
+  "searchIntent": "Conocer la historia del tiburón de Busan, las cifras de visitas y las últimas operaciones de rescate.",
+  "faq": [
+    {
+      "question": "¿Qué es Bukang-i?",
+      "answer": "Bukang-i es el apodo de un tiburón de unos 3,5 metros avistado por primera vez en el canal del Puerto Norte de Busan el 18 de septiembre de 2026. Los expertos citados por Reuters creen que podría ser un tiburón cobrizo."
+    },
+    {
+      "question": "¿Cuántas personas acudieron a ver al tiburón de Busan?",
+      "answer": "Yonhap informó de más de 600.000 visitas hasta el 28 de septiembre y de más de 800.000 visitas acumuladas al parque en su actualización de la tarde del 3 de octubre. Son cifras acumuladas, no un recuento verificado de personas distintas."
+    },
+    {
+      "question": "¿Han rescatado a Bukang-i?",
+      "answer": "La última actualización verificada consultada para la publicación, del 3 de octubre, no confirmó un regreso a mar abierto. Las operaciones del 29 de septiembre con embarcaciones y del 2 de octubre con una red no completaron el rescate."
+    },
+    {
+      "question": "¿Por qué retiraron la red?",
+      "answer": "Después de que Bukang-i cruzara la barrera y volviera al interior del canal el 3 de octubre, las autoridades retiraron la red para mantener libre la ruta hacia el mar y continuaron vigilando al tiburón."
+    }
+  ],
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-04",
+  "updatedAt": "2026-10-04",
+  "image": {
+    "src": "/articles/bukang-i-busan-shark-rescue.png",
+    "alt": "Ilustración editorial editada de un tiburón en un canal de agua turquesa, una embarcación blanca de rescate y espectadores desenfocados en el muelle"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un tiburón nadando por un estrecho canal urbano ha convertido el Puerto Norte de Busan en un inesperado punto de encuentro. Bukang-i, un ejemplar de unos 3,5 metros avistado por primera vez el 18 de septiembre de 2026, ha atraído multitudes al paseo marítimo y atención mucho más allá de la segunda ciudad de Corea del Sur. Reuters señala que los expertos creen que podría ser un tiburón cobrizo, sin dar por definitiva la identificación de la especie. [Reuters: termina el segundo intento de rescate, 2 de octubre de 2026](https://www.marketscreener.com/news/shark-remains-stranded-in-south-korean-canal-after-second-rescue-attempt-ends-ce785ddad181ff2d)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según Yonhap, hasta el 28 de septiembre se habían registrado más de 600.000 visitas. Ese es el hito que recoge el título de este artículo. Desde entonces, la historia ha avanzado: una actualización de la tarde del 3 de octubre situó las visitas acumuladas al parque por encima de 800.000. Son cifras de afluencia registradas a lo largo del tiempo, no un recuento verificado de personas distintas. [Yonhap: preparativos del rescate y visitas, 2 de octubre de 2026](https://www.koreatimes.co.kr/southkorea/environment-animals/20261002/rescue-operation-for-busan-shark-set-to-resume) [Yonhap: retirada de la red y seguimiento, 3 de octubre de 2026](https://www.yna.co.kr/view/AKR20261003028551051)"
+    },
+    {
+      "type": "heading",
+      "text": "UN ANIMAL SALVAJE EN UN ENTORNO INESPERADO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El contraste explica buena parte de la fascinación. En lugar de una aleta lejana en el mar, el público podía observar a un gran tiburón recorriendo un canal urbano cerca de edificios altos y una importante estación ferroviaria. Su apodo combina Bukhang, que significa Puerto Norte, con la terminación coreana «i». Se convirtió en un personaje local reconocible casi tan rápido como en noticia. [Reuters: termina el segundo intento de rescate, 2 de octubre de 2026](https://www.marketscreener.com/news/shark-remains-stranded-in-south-korean-canal-after-second-rescue-attempt-ends-ce785ddad181ff2d)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, verlo no equivale a comprenderlo. Sus movimientos no explican por qué entró en el canal ni por qué permaneció allí. Describirlo como atrapado refleja la preocupación de los equipos de rescate, pero no significa que el canal sea un recinto cerrado sin salida al mar."
+    },
+    {
+      "type": "heading",
+      "text": "LAS EMBARCACIONES Y LOS CHORROS DE AGUA NO LOGRARON SACARLO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 29 de septiembre, la Guardia Costera y otros servicios de emergencia intentaron guiar a Bukang-i hacia mar abierto. Utilizaron embarcaciones y chorros de agua para animarlo a avanzar por el canal. El tiburón dio la vuelta y la operación no consiguió que saliera. [Yonhap: primera operación de rescate, 29 de septiembre de 2026](https://www.yna.co.kr/view/AKR20260929117200051)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para los equipos de rescate, la tarea era más delicada que trasladar un animal visible de un punto a otro. Un canal estrecho limita el espacio para maniobrar. El objetivo era dirigirlo hacia la salida sin que la intervención generara otro problema para el animal."
+    },
+    {
+      "type": "heading",
+      "text": "SE UTILIZÓ LA RED A MEDIDA, PERO EL RESCATE NO SE COMPLETÓ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una red especialmente preparada ofreció una nueva estrategia. El 2 de octubre, los equipos utilizaron una red de unos 50 metros de largo y 6,8 metros de alto, trabajando desde embarcaciones y las orillas mientras un dron seguía al tiburón. La operación lo acercó a la salida del canal, pero la red se enganchó en el fondo y las dificultades impidieron terminarla. [Yonhap: operación con una red a medida, 2 de octubre de 2026](https://www.yna.co.kr/view/AKR20261002164100051)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters informó de que el intento terminó al cabo de unas dos horas y que la red quedó instalada con la esperanza de que Bukang-i continuara por su cuenta. Por tanto, la preparación de la red ya no era el último paso de la historia: se había realizado un segundo intento sin confirmar el regreso a mar abierto. [Reuters: termina el segundo intento de rescate, 2 de octubre de 2026](https://www.marketscreener.com/news/shark-remains-stranded-in-south-korean-canal-after-second-rescue-attempt-ends-ce785ddad181ff2d)"
+    },
+    {
+      "type": "heading",
+      "text": "3 DE OCTUBRE: EL TIBURÓN VUELVE Y LA RED SE RETIRA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hacia el mediodía del 3 de octubre, Bukang-i cruzó la barrera y regresó al interior del canal. Yonhap informó de que se creía que la subida del agua durante la pleamar había abierto un paso por encima de la red. Las autoridades la retiraron esa tarde para dejar libre la ruta hacia el mar. [Yonhap: retirada de la red y seguimiento, 3 de octubre de 2026](https://www.yna.co.kr/view/AKR20261003028551051)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La misma información señalaba que las autoridades observarían sus movimientos sin realizar otra intervención inmediata. El Instituto Nacional de Ciencias Pesqueras seguiría vigilando su movimiento y su salud, y se estudiarían nuevas medidas si aparecían comportamientos inusuales u otros motivos de preocupación. Esta fue la última actualización operativa confirmada consultada para la publicación del 4 de octubre. [Yonhap: retirada de la red y seguimiento, 3 de octubre de 2026](https://www.yna.co.kr/view/AKR20261003028551051)"
+    },
+    {
+      "type": "heading",
+      "text": "DE FENÓMENO EN REDES A EMBAJADOR HONORARIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "La popularidad de Bukang-i se extendió por las redes sociales y los medios, convirtiendo un episodio local de fauna silvestre en un tema de conversación nacional. Busan aprovechó esa atención: el 29 de septiembre, la ciudad anunció al tiburón como embajador honorario para su promoción. Según ChosunBiz, una encuesta en redes reunió a unos 8.200 participantes, con aproximadamente un 91 % a favor de la idea. [ChosunBiz: anuncio del embajador honorario de Busan, 29 de septiembre de 2026](https://biz.chosun.com/en/en-society/2026/09/29/NBV34RDZ5ZCTXI6AEM44DHINKQ/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Boogi, la mascota de la ciudad, representó al tiburón en la entrega del certificado. El gesto dio a la historia una identidad cívica y un tono festivo, pero el título honorífico no cambió la prioridad práctica de devolver a un animal salvaje al mar de forma segura. [ChosunBiz: anuncio del embajador honorario de Busan, 29 de septiembre de 2026](https://biz.chosun.com/en/en-society/2026/09/29/NBV34RDZ5ZCTXI6AEM44DHINKQ/)"
+    },
+    {
+      "type": "heading",
+      "text": "¿QUÉ SE SABE DE LA SALUD DE BUKANG-I?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A las autoridades les preocupa que una estancia prolongada pueda debilitar al tiburón. La información de Yonhap sobre los preparativos del rescate recogía inquietudes por su resistencia y por la idoneidad de permanecer mucho tiempo en el canal. Es una razón para vigilarlo con atención, no una prueba por sí sola de que ya se haya producido una emergencia médica. [Yonhap: preocupación por una estancia prolongada, 28 de septiembre de 2026](https://en.yna.co.kr/view/AEN20260928003451315)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una información de Yonhap del 2 de octubre también indicaba que no se lo había observado alimentándose. La precisión importa: no haberlo visto comer no demuestra que no haya comido nada. Del mismo modo, verlo activo no basta para descartar un problema de bienestar en desarrollo. [Yonhap: preparativos del rescate y visitas, 2 de octubre de 2026](https://www.koreatimes.co.kr/southkorea/environment-animals/20261002/rescue-operation-for-busan-shark-set-to-resume)"
+    },
+    {
+      "type": "heading",
+      "text": "EL RESULTADO QUE IMPORTA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bukang-i ha proporcionado a Busan un espectáculo colectivo extraordinario, pero la popularidad y un rescate exitoso son medidas distintas. Una gran audiencia, un apodo y un título honorífico no responden a la pregunta esencial: si el tiburón puede regresar con seguridad a aguas abiertas adecuadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la última actualización verificada descrita aquí, no se había confirmado un regreso exitoso a mar abierto. Un desenlace responsable debe basarse en un resultado observado, no en una suposición a partir de una embarcación, una red o un movimiento prometedor hacia la salida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nota sobre la imagen: la imagen principal es una ilustración editorial editada facilitada a PRESDA. Representa a un tiburón, espectadores en el muelle y una embarcación blanca de rescate; no se presenta como una fotografía autenticada de la operación."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Reuters: termina el segundo intento de rescate, 2 de octubre de 2026",
+      "url": "https://www.marketscreener.com/news/shark-remains-stranded-in-south-korean-canal-after-second-rescue-attempt-ends-ce785ddad181ff2d"
+    },
+    {
+      "label": "Yonhap: preparativos del rescate y visitas, 2 de octubre de 2026",
+      "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20261002/rescue-operation-for-busan-shark-set-to-resume"
+    },
+    {
+      "label": "Yonhap: primera operación de rescate, 29 de septiembre de 2026",
+      "url": "https://www.yna.co.kr/view/AKR20260929117200051"
+    },
+    {
+      "label": "Yonhap: operación con una red a medida, 2 de octubre de 2026",
+      "url": "https://www.yna.co.kr/view/AKR20261002164100051"
+    },
+    {
+      "label": "Yonhap: retirada de la red y seguimiento, 3 de octubre de 2026",
+      "url": "https://www.yna.co.kr/view/AKR20261003028551051"
+    },
+    {
+      "label": "ChosunBiz: anuncio del embajador honorario de Busan, 29 de septiembre de 2026",
+      "url": "https://biz.chosun.com/en/en-society/2026/09/29/NBV34RDZ5ZCTXI6AEM44DHINKQ/"
+    },
+    {
+      "label": "Yonhap: preocupación por una estancia prolongada, 28 de septiembre de 2026",
+      "url": "https://en.yna.co.kr/view/AEN20260928003451315"
+    }
+  ]
+}

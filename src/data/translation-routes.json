@@ -466,6 +466,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/bukang-i-shark-busan-canal-600000-visitors/",
+    "path": "/ar/articles/bukang-i-shark-busan-canal-600000-visitors/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/bukang-i-shark-busan-canal-600000-visitors/",
+    "path": "/es/articles/bukang-i-shark-busan-canal-600000-visitors/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/bukang-i-shark-busan-canal-600000-visitors/",
+    "path": "/fr/articles/bukang-i-shark-busan-canal-600000-visitors/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/byzantine-empire-eastern-rome-constantinople-1453/",
     "path": "/ar/articles/byzantine-empire-eastern-rome-constantinople-1453/"
   },
