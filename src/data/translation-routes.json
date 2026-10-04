@@ -466,21 +466,6 @@
   },
   {
     "locale": "ar",
-    "englishPath": "/articles/bukang-i-shark-busan-canal-600000-visitors/",
-    "path": "/ar/articles/bukang-i-shark-busan-canal-600000-visitors/"
-  },
-  {
-    "locale": "es",
-    "englishPath": "/articles/bukang-i-shark-busan-canal-600000-visitors/",
-    "path": "/es/articles/bukang-i-shark-busan-canal-600000-visitors/"
-  },
-  {
-    "locale": "fr",
-    "englishPath": "/articles/bukang-i-shark-busan-canal-600000-visitors/",
-    "path": "/fr/articles/bukang-i-shark-busan-canal-600000-visitors/"
-  },
-  {
-    "locale": "ar",
     "englishPath": "/articles/byzantine-empire-eastern-rome-constantinople-1453/",
     "path": "/ar/articles/byzantine-empire-eastern-rome-constantinople-1453/"
   },
@@ -2413,6 +2398,21 @@
     "locale": "fr",
     "englishPath": "/articles/south-africa-history-kingdoms-colonization-war-apartheid/",
     "path": "/fr/articles/south-africa-history-kingdoms-colonization-war-apartheid/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/south-korea-viral-shark-busan/",
+    "path": "/ar/articles/south-korea-viral-shark-busan/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/south-korea-viral-shark-busan/",
+    "path": "/es/articles/south-korea-viral-shark-busan/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/south-korea-viral-shark-busan/",
+    "path": "/fr/articles/south-korea-viral-shark-busan/"
   },
   {
     "locale": "ar",

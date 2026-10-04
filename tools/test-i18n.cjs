@@ -104,6 +104,15 @@ const { middleware } = require('../src/middleware.ts');
 for (const locale of ['en', 'ar', 'fr', 'es']) {
   const prefix = locale === 'en' ? '' : `/${locale}`;
   for (const suffix of ['', '/']) {
+    const response = middleware(new NextRequest(`https://presda.com${prefix}/articles/bukang-i-shark-busan-canal-600000-visitors${suffix}?utm_source=test`));
+    assert.equal(response.status, 301);
+    assert.equal(response.headers.get('location'), `https://presda.com${prefix}/articles/south-korea-viral-shark-busan/?utm_source=test`);
+    assert.equal(response.headers.get('x-robots-tag'), null);
+  }
+}
+for (const locale of ['en', 'ar', 'fr', 'es']) {
+  const prefix = locale === 'en' ? '' : `/${locale}`;
+  for (const suffix of ['', '/']) {
     const response = middleware(new NextRequest(`https://presda.com${prefix}/articles/meta-ray-ban-smart-glasses-privacy-hans-anders${suffix}?utm_source=test`));
     assert.equal(response.status, 301, 'Retired article URLs must use a permanent 301');
     assert.equal(response.headers.get('location'), `https://presda.com${prefix}/articles/meta-ray-ban-privacy-europe/?utm_source=test`);

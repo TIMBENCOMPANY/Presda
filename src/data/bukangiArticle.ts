@@ -2,13 +2,13 @@ import type { Article } from "@/data/articles";
 
 export const bukangiArticle: Article = {
   "id": "187",
-  "slug": "bukang-i-shark-busan-canal-600000-visitors",
-  "title": "Bukang-i: The Shark That Drew 600,000 Visitors to a Busan Canal",
-  "seoTitle": "Bukang-i: Busan’s Viral Shark and the Rescue Effort",
-  "metaDescription": "Bukang-i drew more than 600,000 visits to Busan’s North Port. The latest verified rescue attempts, visitor figures and concerns for the shark’s welfare.",
-  "excerpt": "A 3.5-metre shark became Busan’s unlikely celebrity. Behind the crowds and honorary ambassador title, rescuers are still trying to secure its safe return to open water.",
+  "slug": "south-korea-viral-shark-busan",
+  "title": "South Korea’s Viral Shark Draws 600,000 Visitors to a Busan Canal",
+  "seoTitle": "South Korea’s Viral Shark: 600,000 Visitors in Busan",
+  "metaDescription": "Bukang-i, Busan’s viral shark, drew more than 600,000 visits. Read the verified rescue timeline, updated visitor figures and concerns for its welfare.",
+  "excerpt": "Bukang-i, a 3.5-metre shark, became Busan’s unlikely celebrity. Behind the crowds and honorary ambassador title, rescuers are still trying to secure its safe return to open water.",
   "headlineHighlights": {
-    "red": "Bukang-i",
+    "red": "South Korea’s Viral Shark",
     "gold": "600,000 Visitors"
   },
   "category": "World",

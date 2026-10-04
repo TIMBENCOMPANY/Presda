@@ -3,6 +3,13 @@ import { middlewareTranslationRoutes as translationRoutes } from "@/lib/i18n/rou
 import { englishPathFor, normalizePath } from "@/lib/i18n/routing";
 
 export function middleware(request: NextRequest) {
+  const retiredSharkArticle = request.nextUrl.pathname.match(/^\/(ar\/|fr\/|es\/)?articles\/bukang-i-shark-busan-canal-600000-visitors\/?$/);
+  if (retiredSharkArticle) {
+    const url = new URL(request.url);
+    url.pathname = `/${retiredSharkArticle[1] ?? ""}articles/south-korea-viral-shark-busan/`;
+    return NextResponse.redirect(url, 301);
+  }
+
   // Preserve published article links, including each language and query string.
   const retiredMetaArticle = request.nextUrl.pathname.match(/^\/(ar\/|fr\/|es\/)?articles\/meta-ray-ban-smart-glasses-privacy-hans-anders\/?$/);
   if (retiredMetaArticle) {
@@ -30,5 +37,5 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/privacy", "/privacy/", "/articles/meta-ray-ban-smart-glasses-privacy-hans-anders", "/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/", "/ar/:path*", "/fr/:path*", "/es/:path*"]
+  matcher: ["/privacy", "/privacy/", "/articles/meta-ray-ban-smart-glasses-privacy-hans-anders", "/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/", "/articles/bukang-i-shark-busan-canal-600000-visitors", "/articles/bukang-i-shark-busan-canal-600000-visitors/", "/ar/:path*", "/fr/:path*", "/es/:path*"]
 };
