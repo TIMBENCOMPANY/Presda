@@ -2,6 +2,7 @@ import { bukangiArticle } from "@/data/bukangiArticle";
 import { metaGlassesArticle } from "@/data/metaGlassesArticle";
 import { paramountWarnerArticle } from "@/data/paramountWarnerArticle";
 import { singaporeArticle } from "@/data/singaporeArticle";
+import { manCityAppealArticle } from "@/data/manCityAppealArticle";
 import { worldCup2030FinalArticle } from "@/data/worldCup2030FinalArticle";
 import { messiFarewellArticle } from "@/data/messiFarewellArticle";
 import { michaelJacksonArticle } from "@/data/michaelJacksonArticle";
@@ -35579,7 +35580,8 @@ export const articles: Article[] = [
   deLaFuenteArticle,
   michaelJacksonArticle,
   messiFarewellArticle,
-  worldCup2030FinalArticle
+  worldCup2030FinalArticle,
+  manCityAppealArticle
 ];
 
 export const categories: ArticleCategory[] = [
