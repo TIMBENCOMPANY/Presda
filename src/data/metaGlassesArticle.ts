@@ -2,11 +2,11 @@ import type { Article } from "@/data/articles";
 
 export const metaGlassesArticle: Article = {
   "id": "186",
-  "slug": "meta-ray-ban-smart-glasses-privacy-hans-anders",
-  "title": "Meta Ray-Ban Smart Glasses Face Privacy Backlash as Dutch Retailer Halts Sales",
-  "seoTitle": "Meta Ray-Ban Privacy Backlash: Hans Anders Halts Sales",
-  "metaDescription": "Hans Anders has paused Meta Ray-Ban sales in the Netherlands and Belgium. What regulators, Consumentenbond and Meta say about privacy and recording.",
-  "excerpt": "A Dutch retailer’s sales suspension puts the privacy debate around AI glasses on the high street. Recording lights, consent and bystander rights are now central to the technology’s path into everyday life.",
+  "slug": "meta-ray-ban-privacy-europe",
+  "title": "Meta Ray-Ban Smart Glasses Face Privacy Backlash in Europe",
+  "seoTitle": "Meta Ray-Ban Smart Glasses: Europe’s Privacy Backlash",
+  "metaDescription": "Hans Anders suspends Meta Ray-Ban sales in the Netherlands and Belgium as European regulators and consumer groups challenge the glasses’ privacy safeguards.",
+  "excerpt": "Dutch eyewear chain Hans Anders has suspended sales in the Netherlands and Belgium as European scrutiny of camera-equipped smart glasses intensifies.",
   "headlineHighlights": {
     "red": "Meta Ray-Ban",
     "gold": "Privacy Backlash"

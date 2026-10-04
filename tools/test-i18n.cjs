@@ -101,6 +101,15 @@ for (const locale of ['ar', 'fr', 'es']) {
 }
 const { NextRequest } = require('next/server');
 const { middleware } = require('../src/middleware.ts');
+for (const locale of ['en', 'ar', 'fr', 'es']) {
+  const prefix = locale === 'en' ? '' : `/${locale}`;
+  for (const suffix of ['', '/']) {
+    const response = middleware(new NextRequest(`https://presda.com${prefix}/articles/meta-ray-ban-smart-glasses-privacy-hans-anders${suffix}?utm_source=test`));
+    assert.equal(response.status, 301, 'Retired article URLs must use a permanent 301');
+    assert.equal(response.headers.get('location'), `https://presda.com${prefix}/articles/meta-ray-ban-privacy-europe/?utm_source=test`);
+    assert.equal(response.headers.get('x-robots-tag'), null, 'Article migration must not inherit fallback noindex');
+  }
+}
 for (const locale of ['ar','fr','es']) {
   // Article translations are complete; use an untranslated utility page for fallback coverage.
   const response = middleware(new NextRequest(`https://presda.com/${locale}/about/?q=test`));

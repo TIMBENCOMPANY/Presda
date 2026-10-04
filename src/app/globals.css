@@ -227,6 +227,14 @@ select {
   }
 }
 
+/* This headline needs a slightly wider measure to keep its short phrases together. */
+@media (min-width: 1024px) {
+  .article-hero-title-meta-privacy {
+    max-width: min(48vw, 20ch);
+    font-size: clamp(3.15rem, 3.8vw, 5.2rem);
+  }
+}
+
 .home-header {
   background: var(--home-header);
   border-color: color-mix(in srgb, var(--home-red-deep) 42%, transparent);

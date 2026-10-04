@@ -1,7 +1,7 @@
 {
   "locale": "es",
-  "englishPath": "/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/",
-  "path": "/es/articles/meta-ray-ban-smart-glasses-privacy-hans-anders/",
+  "englishPath": "/articles/meta-ray-ban-privacy-europe/",
+  "path": "/es/articles/meta-ray-ban-privacy-europe/",
   "kind": "article",
   "status": "published",
   "review": {
@@ -9,14 +9,14 @@
     "reviewedAt": "2026-10-04",
     "terminologyChecked": true
   },
-  "title": "Las gafas inteligentes Meta Ray-Ban afrontan críticas por la privacidad y una cadena neerlandesa suspende su venta",
+  "title": "Gafas Meta Ray-Ban: críticas por la privacidad en Europa",
   "headlineHighlights": {
     "red": "Meta Ray-Ban",
     "gold": "privacidad"
   },
-  "seoTitle": "Meta Ray-Ban: Hans Anders suspende las ventas por privacidad",
-  "description": "Hans Anders pausa las ventas de Meta Ray-Ban en Países Bajos y Bélgica. Qué dicen los reguladores, Consumentenbond y Meta sobre privacidad y grabación.",
-  "excerpt": "La suspensión de ventas de una óptica neerlandesa lleva el debate sobre las gafas con IA a las tiendas. La luz de grabación, el consentimiento y los derechos de terceros son claves para su adopción.",
+  "seoTitle": "Meta Ray-Ban: críticas por la privacidad en Europa",
+  "description": "Hans Anders suspende las ventas de Meta Ray-Ban en Países Bajos y Bélgica. Reguladores y consumidores europeos cuestionan sus garantías de privacidad.",
+  "excerpt": "La cadena óptica neerlandesa Hans Anders ha suspendido las ventas en Países Bajos y Bélgica ante el creciente escrutinio europeo sobre las gafas con cámara.",
   "keywords": [
     "Meta Ray-Ban",
     "gafas inteligentes",
