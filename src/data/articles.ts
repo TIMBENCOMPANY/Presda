@@ -1,3 +1,4 @@
+import { paramountWarnerArticle } from "@/data/paramountWarnerArticle";
 import { singaporeArticle } from "@/data/singaporeArticle";
 import { worldCup2030FinalArticle } from "@/data/worldCup2030FinalArticle";
 import { messiFarewellArticle } from "@/data/messiFarewellArticle";
@@ -88,6 +89,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  paramountWarnerArticle,
   singaporeArticle,
   {
     "id": "132",
