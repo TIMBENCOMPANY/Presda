@@ -1,3 +1,4 @@
+import { pandaDiplomacyArticle } from "@/data/pandaDiplomacyArticle";
 import { bruneiEmpireArticle } from "@/data/bruneiEmpireArticle";
 import { bukangiArticle } from "@/data/bukangiArticle";
 import { metaGlassesArticle } from "@/data/metaGlassesArticle";
@@ -35583,7 +35584,8 @@ export const articles: Article[] = [
   messiFarewellArticle,
   worldCup2030FinalArticle,
   manCityAppealArticle,
-  bruneiEmpireArticle
+  bruneiEmpireArticle,
+  pandaDiplomacyArticle
 ];
 
 export const categories: ArticleCategory[] = [
