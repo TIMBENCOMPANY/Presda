@@ -1,3 +1,4 @@
+import { singaporeArticle } from "@/data/singaporeArticle";
 import { worldCup2030FinalArticle } from "@/data/worldCup2030FinalArticle";
 import { messiFarewellArticle } from "@/data/messiFarewellArticle";
 import { michaelJacksonArticle } from "@/data/michaelJacksonArticle";
@@ -87,6 +88,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  singaporeArticle,
   {
     "id": "132",
     "slug": "french-empire-napoleon-colonial-history-rise-fall",
