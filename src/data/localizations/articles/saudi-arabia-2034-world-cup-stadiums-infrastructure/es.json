@@ -1,0 +1,340 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/saudi-arabia-2034-world-cup-stadiums-infrastructure/",
+  "path": "/es/articles/saudi-arabia-2034-world-cup-stadiums-infrastructure/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es editorial and source-parity review",
+    "reviewedAt": "2026-10-05",
+    "terminologyChecked": true
+  },
+  "title": "Arabia Saudí 2034: cómo se prepara el reino para el Mundial",
+  "excerpt": "La sede está confirmada. Construir estadios, transporte y alojamiento es un proyecto nacional en evolución, con NEOM en el centro de nuevas dudas.",
+  "headlineHighlights": {
+    "red": "Arabia Saudí 2034",
+    "gold": "Mundial"
+  },
+  "seoTitle": "Arabia Saudí 2034: estadios, NEOM y planes del Mundial",
+  "description": "Los planes del Mundial 2034: 15 estadios propuestos, novedades sobre NEOM, aeropuertos, transporte, hoteles y retos de clima y construcción.",
+  "keywords": [
+    "Arabia Saudí 2034",
+    "NEOM",
+    "2034",
+    "FIFA"
+  ],
+  "searchIntent": "Los planes del Mundial 2034: 15 estadios propuestos, novedades sobre NEOM, aeropuertos, transporte, hoteles y retos de clima y construcción.",
+  "category": "Sport",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "image": {
+    "src": "/articles/saudi-arabia-2034-riyadh-stadium.png",
+    "alt": "Ilustración editorial generada por IA de un estadio iluminado, grúas, carreteras y ferrocarril en Riad de noche, no una fotografía de un proyecto concreto"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Arabia Saudí prepara el Mundial de fútbol de 2034 con una candidatura basada en 15 estadios repartidos entre cinco ciudades anfitrionas: Riad, Yeda, Al Khobar, Abha y NEOM. La FIFA confirmó la adjudicación el 11 de diciembre de 2024. La sede está decidida; los diseños, plazos y compromisos de transporte no están todos terminados ni se han mantenido sin cambios. [FIFA: adjudicación de 2034 y documentos de candidatura](https://football-technology.fifa.com/tournament-organisation/world-cup-2034)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La novedad más importante afecta a NEOM. Reuters informó el 4 de octubre de 2026, citando a dos fuentes, de que el proyecto de su estadio había quedado aplazado indefinidamente. La autoridad organizadora destacó avances en otras obras sin responder a las preguntas sobre NEOM. Preparar el Mundial también significa revisar lo que se había prometido. [Reuters vía WHBL: estadio de NEOM, 4 de octubre de 2026](https://whbl.com/2026/10/04/exclusive-saudi-arabia-quietly-shelving-neom-stadium-one-of-2034-world-cup-venues/)"
+    },
+    {
+      "type": "heading",
+      "text": "EL PLAN ORIGINAL: 15 ESTADIOS EN CINCO CIUDADES"
+    },
+    {
+      "type": "paragraph",
+      "text": "La propuesta presentada asigna ocho recintos a Riad, cuatro a Yeda y uno a Al Khobar, Abha y NEOM, respectivamente. Combinaba cuatro instalaciones existentes pendientes de renovación, tres estadios nuevos entonces en construcción y ocho proyectos de nueva planta. Estas categorías describen la candidatura de 2024, no un inventario actualizado de las obras en octubre de 2026. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tabla reproduce el resumen de estadios de las páginas impresas 48–49 del dossier. Son capacidades brutas propuestas para el torneo, no entradas disponibles actualmente. No deben confundirse con las configuraciones de liga ni con cifras promocionales redondeadas. NEOM se mantiene para explicar el plan original; su suspensión, según las informaciones publicadas, se analiza después. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[SAUDI_2034_BID_STADIUMS]]",
+      "caption": "Capacidades de la candidatura de 2024, no entradas disponibles actualmente. Fuente: dossier Saudi 2034, pp. 48–49; enlace anterior.",
+      "headings": [
+        "Recinto de la candidatura de 2024",
+        "Ciudad anfitriona",
+        "Localidades brutas propuestas"
+      ],
+      "rows": [
+        [
+          "Estadio Internacional Rey Salmán",
+          "Riad",
+          "92.760"
+        ],
+        [
+          "Estadio de la Ciudad Deportiva Rey Fahad",
+          "Riad",
+          "70.200"
+        ],
+        [
+          "Estadio Príncipe Mohammed bin Salman",
+          "Riad",
+          "46.979"
+        ],
+        [
+          "Estadio de New Murabba",
+          "Riad",
+          "46.010"
+        ],
+        [
+          "Estadio ROSHN",
+          "Riad",
+          "46.000"
+        ],
+        [
+          "Estadio de la Ciudad Deportiva Príncipe Faisal bin Fahad",
+          "Riad",
+          "46.865"
+        ],
+        [
+          "Estadio de Riad Sur",
+          "Riad",
+          "47.060"
+        ],
+        [
+          "Estadio de la Universidad Rey Saud",
+          "Riad",
+          "46.319"
+        ],
+        [
+          "Estadio de la Ciudad Deportiva Rey Abdullah",
+          "Yeda",
+          "58.432"
+        ],
+        [
+          "Estadio Qiddiya Coast",
+          "Yeda",
+          "46.096"
+        ],
+        [
+          "Estadio Jeddah Central Development",
+          "Yeda",
+          "45.794"
+        ],
+        [
+          "Estadio de la Ciudad Económica Rey Abdullah",
+          "Yeda",
+          "45.700"
+        ],
+        [
+          "Estadio Aramco",
+          "Al Khobar",
+          "46.096"
+        ],
+        [
+          "Estadio de la Universidad Rey Khalid",
+          "Abha",
+          "45.428"
+        ],
+        [
+          "Estadio de NEOM",
+          "NEOM",
+          "46.010"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "RIAD CONCENTRA LA MAYOR PARTE DEL PROGRAMA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Estadio Internacional Rey Salmán es la pieza central propuesta, con 92.760 localidades brutas y un papel previsto como sede del partido inaugural y la final. La fecha original de finalización era 2029. Un anuncio del Ministerio de Deportes del 25 de noviembre de 2025 invitaba a las constructoras a precalificarse para las obras principales, con plazo hasta el 16 de febrero de 2026. Esto acredita una fase de contratación, no un estadio terminado ni la garantía de cumplir el calendario inicial. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)[Ministerio saudí de Deportes: contratación del estadio Rey Salmán](https://www.mos.gov.sa/en/media/news/2025/11/25/king-salman-stadium)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Estadio Príncipe Mohammed bin Salman está previsto en Qiddiya, sobre los acantilados de Tuwaiq, fuera del centro de Riad. Sus 46.979 plazas en la candidatura corresponden a una configuración distinta de las capacidades mayores promocionadas para conciertos. Hay pruebas más allá de las imágenes arquitectónicas: FCC comunicó hitos de construcción en Qiddiya Stadium en sus resultados del primer trimestre de 2026. Eso demuestra trabajos en marcha, sin establecer un porcentaje de ejecución verificado. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)[FCC: avances de Qiddiya en el primer trimestre de 2026](https://www.fccco.com/en/w/the-fcc-groups-construction-division-saw-a-22-2percent-increase-in-revenue-during-the-first-quarter-of-2026)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La capital también prevé renovar los estadios de la Ciudad Deportiva Rey Fahad y de la Universidad Rey Saud, junto con los proyectos de la Ciudad Deportiva Príncipe Faisal bin Fahad, New Murabba, ROSHN y Riad Sur. Son recintos distintos. Incluso las capacidades necesitan fecha: la candidatura atribuye 46.000 plazas a ROSHN, mientras que la página actual del PIF anuncia 45.000. PRESDA conserva el dato del dossier en la tabla y distingue la especificación posterior. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)[PIF: especificaciones del estadio ROSHN](https://www.pif.gov.sa/en/our-investments/giga-projects/roshn/roshn-stadium/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para los residentes, las transformaciones previstas incluyen los entornos de los estadios, espacios públicos, accesos y conexiones con barrios residenciales y zonas de ocio. Su utilidad se medirá tanto en un día normal como durante un partido. Un recinto puede estar construido mientras sus conexiones de transporte siguen incompletas."
+    },
+    {
+      "type": "heading",
+      "text": "YEDA, AL KHOBAR Y ABHA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El plan de Yeda combina una instalación consolidada, el Estadio de la Ciudad Deportiva Rey Abdullah, con Jeddah Central Development, Qiddiya Coast y el Estadio de la Ciudad Económica Rey Abdullah. Las nuevas sedes forman parte de desarrollos urbanos y costeros. El dossier situaba Jeddah Central en construcción, con objetivo de 2027, mientras que los otros dos proyectos nuevos apuntaban a 2032. Son fechas de la candidatura, no previsiones actuales de finalización certificadas independientemente. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al Khobar ofrece un horizonte de entrega más cercano. El anuncio oficial de Aramco describe unas 47.000 plazas, finalización prevista en 2026 y una futura sede para Al-Qadsiah. Esa capacidad general difiere de las 46.096 plazas brutas del dossier. Reuters informó el 4 de octubre de que la entrega se esperaba para finales de año y el primer partido para enero. Hasta verificar la apertura, debe describirse como una instalación próxima a entregarse, no como un estadio mundialista ya operativo. [Aramco: construcción del estadio y objetivo 2026](https://www.aramcostadium.com/about/news/2025/company-begins-construction-on-new-47000-seat-aramco-stadium)[Reuters vía WHBL: estadio de NEOM, 4 de octubre de 2026](https://whbl.com/2026/10/04/exclusive-saudi-arabia-quietly-shelving-neom-stadium-one-of-2034-world-cup-venues/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Abha, la propuesta amplía el Estadio de la Universidad Rey Khalid hasta 45.428 plazas brutas durante el torneo. El dossier también contempla ampliación aeroportuaria, accesos por carretera y autobuses. El relieve montañoso de Asir ofrece una geografía distinta de Riad y las costas, pero exige igualmente coordinar alojamiento, llegadas aéreas y el último trayecto al estadio. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "NEOM: QUÉ HA CAMBIADO Y QUÉ SIGUE SIN CONFIRMARSE"
+    },
+    {
+      "type": "paragraph",
+      "text": "El concepto original situaba un estadio de 46.010 plazas a más de 350 metros sobre el suelo dentro de The Line, con finalización prevista en 2032. Dependía de un desarrollo urbano extraordinariamente ambicioso. Nunca fue un estadio elevado ya existente que solo necesitara pequeñas mejoras. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters describió el 4 de octubre un aplazamiento indefinido, citando a dos fuentes informadas. MEED Projects lo registra en suspenso y sin fecha de finalización. NEOM y la oficina de prensa gubernamental no respondieron; la autoridad organizadora destacó avances en otros lugares sin abordar NEOM ni los costes. Es información atribuida, no una retirada publicada por la FIFA ni una cancelación definitiva anunciada oficialmente. Las fuentes revisadas no acreditan un sustituto aprobado. [Reuters vía WHBL: estadio de NEOM, 4 de octubre de 2026](https://whbl.com/2026/10/04/exclusive-saudi-arabia-quietly-shelving-neom-stadium-one-of-2034-world-cup-venues/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción importa porque cambiar un estadio puede alterar alojamiento de selecciones, transporte y espacios para aficionados. Análisis de PRESDA: una lista revisada debería explicar cómo se redistribuyen esas funciones, no limitarse a sustituir una imagen por otra. El mapa inicial de cinco ciudades debe leerse junto con la información reciente, sin tomarlo como prueba de que todos los plazos siguen intactos."
+    },
+    {
+      "type": "heading",
+      "text": "AEROPUERTOS, METRO, FERROCARRIL Y CARRETERAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Riad ya dispone de una importante infraestructura en servicio. Saudi Press Agency informó de que la línea naranja empezó a funcionar el 5 de enero de 2025, completando la apertura de las seis líneas del metro. Es una obra entregada. Las conexiones específicas con estadios, frecuencias durante eventos, gestión de multitudes y viajes completos en 2034 son cuestiones adicionales. [Saudi Press Agency: seis líneas de metro en Riad, 5 de enero de 2025](https://www.spa.gov.sa/N2237592)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Aeropuerto Internacional Rey Salmán es una gran ampliación prevista de la capacidad aérea de Riad. Su web oficial actual fija un objetivo de hasta 100 millones de pasajeros anuales en 2030 y comunica el inicio de las obras de una tercera pista en diciembre de 2025. Es capacidad anual futura, no tráfico ya registrado, visitantes del Mundial ni el antiguo objetivo de 120 millones que aún aparece en algunos resúmenes. [Aeropuerto Internacional Rey Salmán: objetivos actuales](https://www.ksia.sa/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La candidatura prevé ampliar aeropuertos de la red anfitriona, incluidos Yeda y Abha, y apoyarse mucho en vuelos interiores. El ferrocarril existente aporta conexiones útiles: Saudi Arabia Railways describe los servicios Haramain entre La Meca y Medina, pasando por Yeda, el Aeropuerto Internacional Rey Abdulaziz y la Ciudad Económica Rey Abdullah. Este corredor occidental no equivale a una red de alta velocidad terminada que una las cinco sedes propuestas. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)[Saudi Arabia Railways: red ferroviaria](https://sar.com.sa/about-sar/railnetwork/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Carreteras, autocares interurbanos, autobuses locales y el tramo final a pie son igual de importantes. El dossier incluye ampliaciones ferroviarias y mejoras urbanas, pero una conexión propuesta no debe presentarse como operativa. Análisis de PRESDA: billetes coordinados, vehículos accesibles, colas a la sombra y transbordos realistas importarán más al aficionado que un gran titular sobre infraestructura nacional."
+    },
+    {
+      "type": "heading",
+      "text": "HOTELES, ZONAS DE AFICIONADOS Y EL RETO DE 48 SELECCIONES"
+    },
+    {
+      "type": "paragraph",
+      "text": "El concepto oficial promete más de 230.000 unidades de alojamiento, 134 instalaciones de entrenamiento y dos ubicaciones propuestas para los FIFA Fan Festivals en cada ciudad anfitriona. Son compromisos de planificación, no habitaciones verificadas que puedan reservarse hoy. Las «room keys» cuentan unidades de alojamiento, no huéspedes ni camas; los centros de entrenamiento no son estadios adicionales. Se proponen, entre otros, el parque Rey Salmán y los espacios para festivales de Qiddiya en Riad, y el parque Khuzam y el paseo marítimo de Yeda. [Saudi 2034: concepto del torneo y legado](https://saudi2034.com.sa/vision-legacy/)[Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recibir a 48 selecciones en un solo país exige coordinación nacional. Hoteles seguros, campos de entrenamiento, servicios médicos y viajes fiables deben convivir con las necesidades de aficionados, medios y oficiales. El dossier incorpora otras diez localidades para campamentos base. Amplían el ámbito operativo sin convertirse en ciudades adicionales con partidos. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En una entrevista de Reuters de junio de 2026, el ministro de Deportes, el príncipe Abdulaziz bin Turki Al Faisal, explicó que estudiaban el torneo norteamericano de 48 equipos y coordinaban instalaciones, conexiones y campos mediante la autoridad del Mundial. Es la estrategia declarada del Gobierno, no una prueba de que todo esté terminado. [Reuters: el ministro de Deportes sobre logística, junio de 2026](https://www.reutersconnect.com/item/saudi-arabia-sports-minister-vows-affordable-and-safe-world-cup-in-2034/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBODk4MDE1MDYyMDI2UlAx/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0xWQTAwQjg5ODAxNTA2MjAyNlJQMQ)"
+    },
+    {
+      "type": "heading",
+      "text": "¿SE JUGARÁ EL MUNDIAL DE 2034 EN INVIERNO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una época más fresca es una posibilidad creíble, pero las fuentes revisadas no establecen fechas definitivas de la FIFA. Las temperaturas estivales saudíes pueden superar los 40 °C y afectar a espectadores y trabajos al aire libre, además de los jugadores. AP ha explicado las dificultades relacionadas con el ramadán, los Juegos Asiáticos y el calendario deportivo internacional. Ningún mes concreto de invierno debe darse por confirmado. [AP: calendario y clima del Mundial 2034](https://apnews.com/article/2b8bd39a2083ba14918d9d2263fa2fad)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Refrigerar las gradas no resuelve por sí solo el calor en entrenamientos, zonas de aficionados, paradas de autobús y obras. El calendario debe encajar también con las eliminatorias, competiciones de clubes, retransmisiones y celebraciones religiosas. El capítulo sobre fechas del dossier deja la elección del periodo óptimo a la colaboración con la FIFA y los actores implicados. [Dossier Saudi 2034: estadios, fechas, alojamiento y transporte](https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "VISIÓN 2030, COSTES Y PRESIÓN PARA CUMPLIR"
+    },
+    {
+      "type": "paragraph",
+      "text": "El planteamiento oficial sitúa el Mundial dentro de Visión 2030: turismo, ocio, fútbol nacional y diversificación económica. Los aeropuertos y barrios responden, por tanto, a objetivos más amplios que un torneo. Sumar íntegramente sus presupuestos no permite calcular automáticamente el coste del Mundial. Tampoco una previsión de ingresos turísticos demuestra la rentabilidad de un estadio después de 2034. [Saudi 2034: concepto del torneo y legado](https://saudi2034.com.sa/vision-legacy/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los datos de MEED Projects facilitados a Reuters valoran en 22.700 millones de dólares el programa de estadios e instalaciones de entrenamiento que sigue, incluidos 2.500 millones estimados para NEOM. Son estimaciones de proyectos, no una factura final auditada ni todo el gasto nacional en infraestructura. El reportaje sitúa entre 2026 y 2033 las entregas esperadas de las demás instalaciones analizadas. [Reuters vía WHBL: estadio de NEOM, 4 de octubre de 2026](https://whbl.com/2026/10/04/exclusive-saudi-arabia-quietly-shelving-neom-stadium-one-of-2034-world-cup-venues/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Análisis de PRESDA: la entrega depende de una cadena de tareas. Los cambios de diseño pueden modificar contratos; los retrasos reducen el margen para pruebas; carreteras y hoteles inacabados pueden comprometer un estadio listo. Protección laboral, seguridad frente al calor, impacto ambiental y supervisión transparente forman parte del análisis. Un programa creíble necesita demostrar cumplimiento y capacidad operativa, no solo gasto y arquitectura llamativa."
+    },
+    {
+      "type": "paragraph",
+      "text": "De aquí a 2034, las transformaciones previstas abarcan nuevos estadios y equipamientos aeroportuarios en Riad, desarrollos costeros en Yeda, el estadio de Al Khobar y las instalaciones ampliadas de Abha. Qué proyectos llegarán en su forma original sigue abierto. Como en [la disputa por albergar la final del Mundial de 2030](/articles/casablanca-madrid-2030-world-cup-final/), hay que distinguir entregas documentadas de promesas. Arabia Saudí tiene el torneo; construir un sistema nacional fiable sigue siendo la tarea pendiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nota editorial: la imagen principal es una ilustración editorial generada por IA de un estadio en Riad, no una fotografía documental ni un diseño arquitectónico aprobado de una sede concreta. Fuentes verificadas el 5 de octubre de 2026. Las capacidades de la tabla mantienen las definiciones de la candidatura de 2024."
+    }
+  ],
+  "sources": [
+    {
+      "label": "FIFA: adjudicación de 2034 y documentos de candidatura",
+      "url": "https://football-technology.fifa.com/tournament-organisation/world-cup-2034"
+    },
+    {
+      "label": "Dossier Saudi 2034: estadios, fechas, alojamiento y transporte",
+      "url": "https://digitalhub.fifa.com/m/5590de2b652bef03/original/The-Saudi-Arabia-FIFA-World-Cup-2034-Bid-Book.pdf"
+    },
+    {
+      "label": "Reuters vía WHBL: estadio de NEOM, 4 de octubre de 2026",
+      "url": "https://whbl.com/2026/10/04/exclusive-saudi-arabia-quietly-shelving-neom-stadium-one-of-2034-world-cup-venues/"
+    },
+    {
+      "label": "Ministerio saudí de Deportes: contratación del estadio Rey Salmán",
+      "url": "https://www.mos.gov.sa/en/media/news/2025/11/25/king-salman-stadium"
+    },
+    {
+      "label": "FCC: avances de Qiddiya en el primer trimestre de 2026",
+      "url": "https://www.fccco.com/en/w/the-fcc-groups-construction-division-saw-a-22-2percent-increase-in-revenue-during-the-first-quarter-of-2026"
+    },
+    {
+      "label": "Aramco: construcción del estadio y objetivo 2026",
+      "url": "https://www.aramcostadium.com/about/news/2025/company-begins-construction-on-new-47000-seat-aramco-stadium"
+    },
+    {
+      "label": "Saudi Press Agency: seis líneas de metro en Riad, 5 de enero de 2025",
+      "url": "https://www.spa.gov.sa/N2237592"
+    },
+    {
+      "label": "Aeropuerto Internacional Rey Salmán: objetivos actuales",
+      "url": "https://www.ksia.sa/"
+    },
+    {
+      "label": "Saudi Arabia Railways: red ferroviaria",
+      "url": "https://sar.com.sa/about-sar/railnetwork/"
+    },
+    {
+      "label": "Saudi 2034: concepto del torneo y legado",
+      "url": "https://saudi2034.com.sa/vision-legacy/"
+    },
+    {
+      "label": "AP: calendario y clima del Mundial 2034",
+      "url": "https://apnews.com/article/2b8bd39a2083ba14918d9d2263fa2fad"
+    },
+    {
+      "label": "Reuters: el ministro de Deportes sobre logística, junio de 2026",
+      "url": "https://www.reutersconnect.com/item/saudi-arabia-sports-minister-vows-affordable-and-safe-world-cup-in-2034/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBODk4MDE1MDYyMDI2UlAx/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0xWQTAwQjg5ODAxNTA2MjAyNlJQMQ"
+    },
+    {
+      "label": "PIF: especificaciones del estadio ROSHN",
+      "url": "https://www.pif.gov.sa/en/our-investments/giga-projects/roshn/roshn-stadium/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuántos estadios incluye la candidatura saudí?",
+      "answer": "El dossier original propone 15: ocho en Riad, cuatro en Yeda y uno en Al Khobar, Abha y NEOM. Es un plan fechado, no una prueba de que todos estén terminados."
+    },
+    {
+      "question": "¿Se ha cancelado oficialmente el estadio de NEOM?",
+      "answer": "Reuters informó de un aplazamiento indefinido el 4 de octubre de 2026, citando a dos fuentes. Las fuentes revisadas no acreditan una retirada formal de la FIFA, una cancelación definitiva oficial ni un sustituto aprobado."
+    },
+    {
+      "question": "¿Se celebrará el Mundial 2034 en invierno?",
+      "answer": "Una época más fresca es posible por el calor estival, pero las fuentes revisadas no establecen fechas definitivas de la FIFA."
+    },
+    {
+      "question": "¿Son actuales las capacidades de la tabla?",
+      "answer": "No. Son capacidades brutas propuestas para el torneo en el dossier de 2024. Los anuncios actuales y las configuraciones habituales pueden diferir."
+    }
+  ]
+}

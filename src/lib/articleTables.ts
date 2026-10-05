@@ -8,6 +8,94 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[SAUDI_2034_BID_STADIUMS]]": {
+  "caption": "Original bid capacities, 2024. Proposed configurations, not current ticket inventory. Source: Saudi 2034 bid book, pp. 48–49; see linked citation above.",
+  "headers": [
+    "Venue in the 2024 bid",
+    "Host city",
+    "Proposed gross seats"
+  ],
+  "rows": [
+    [
+      "King Salman International Stadium",
+      "Riyadh",
+      "92,760"
+    ],
+    [
+      "King Fahad Sports City Stadium",
+      "Riyadh",
+      "70,200"
+    ],
+    [
+      "Prince Mohammed bin Salman Stadium",
+      "Riyadh",
+      "46,979"
+    ],
+    [
+      "New Murabba Stadium",
+      "Riyadh",
+      "46,010"
+    ],
+    [
+      "ROSHN Stadium",
+      "Riyadh",
+      "46,000"
+    ],
+    [
+      "Prince Faisal bin Fahad Sports City Stadium",
+      "Riyadh",
+      "46,865"
+    ],
+    [
+      "South Riyadh Stadium",
+      "Riyadh",
+      "47,060"
+    ],
+    [
+      "King Saud University Stadium",
+      "Riyadh",
+      "46,319"
+    ],
+    [
+      "King Abdullah Sports City Stadium",
+      "Jeddah",
+      "58,432"
+    ],
+    [
+      "Qiddiya Coast Stadium",
+      "Jeddah",
+      "46,096"
+    ],
+    [
+      "Jeddah Central Development Stadium",
+      "Jeddah",
+      "45,794"
+    ],
+    [
+      "King Abdullah Economic City Stadium",
+      "Jeddah",
+      "45,700"
+    ],
+    [
+      "Aramco Stadium",
+      "Al Khobar",
+      "46,096"
+    ],
+    [
+      "King Khalid University Stadium",
+      "Abha",
+      "45,428"
+    ],
+    [
+      "NEOM Stadium",
+      "NEOM",
+      "46,010"
+    ]
+  ],
+  "minWidthClass": "min-w-[580px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[COFFEE_DAY_2026_PRODUCERS_TABLE]]": {
     caption: "Leading producers: USDA July 2026 forecasts for 2026/27. Million 60-kilogram bags.",
     headers: ["Country", "Forecast production"],
