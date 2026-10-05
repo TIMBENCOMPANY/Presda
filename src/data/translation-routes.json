@@ -1366,6 +1366,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/iran-hormuz-closed-conditions-energy-shipping/",
+    "path": "/ar/articles/iran-hormuz-closed-conditions-energy-shipping/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/iran-hormuz-closed-conditions-energy-shipping/",
+    "path": "/es/articles/iran-hormuz-closed-conditions-energy-shipping/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/iran-hormuz-closed-conditions-energy-shipping/",
+    "path": "/fr/articles/iran-hormuz-closed-conditions-energy-shipping/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/japan-enters-ai-care-era/",
     "path": "/ar/articles/japan-enters-ai-care-era/"
   },
