@@ -11,12 +11,12 @@ export const hormuzSources = [
 ];
 const c=(i:number)=>` [${hormuzSources[i].name}](${hormuzSources[i].url})`;
 export const hormuzConditionsArticle:Article={
- id:"191",slug:"iran-hormuz-closed-conditions-energy-shipping",title:"Iran Says Hormuz Will Stay Closed Until Its Conditions Are Met",
+ id:"191",slug:"iran-hormuz-closed-conditions-energy-shipping",title:"IRAN KEEPS HORMUZ CLOSED UNTIL ITS CONDITIONS ARE MET",
  seoTitle:"Iran's Hormuz Conditions: Oil, LNG and Shipping at Risk",
  metaDescription:"Iran links reopening Hormuz to seven conditions. What Reuters confirms, Qatar's mediation and why the strait matters to oil, LNG and shipping.",
  excerpt:"Tehran ties reopening to its demands under a June understanding. The dispute concerns a narrow passage with worldwide energy consequences, while mediation continues.",
  category:"World",schemaType:"NewsArticle",date:"2026-10-05",lastUpdated:"2026-10-05",author:"PRESDA Editorial",status:"published",readingTime:"5 min read",
- headlineHighlights:{red:"Iran Says Hormuz",gold:"Its Conditions Are Met"},coverImage:"/articles/iran-hormuz-conditions.png",coverAlt:"AI-generated editorial illustration of a tanker in a mountainous strait, an Iranian flag and vessels at sunset",homepageImagePosition:"50% 50%",
+ headlineHighlights:{red:"IRAN KEEPS HORMUZ",gold:"ITS CONDITIONS ARE MET"},coverImage:"/articles/iran-hormuz-conditions.png",coverAlt:"AI-generated editorial illustration of a tanker in a mountainous strait, an Iranian flag and vessels at sunset",homepageImagePosition:"50% 50%",
  tags:["Strait of Hormuz","Iran Hormuz conditions","oil shipping","LNG","Qatar mediation","global energy trade"],relatedSlugs:["who-controls-world-oil-middle-east-opec","panda-diplomacy-atlanta-ping-ping-fu-shuang","japan-fusion-helix-haruka-helical-fusion"],
  content:[
  "Iran's parliament speaker Mohammad Baqer Ghalibaf said on October 4 that the Strait of Hormuz would not reopen until seven Iranian conditions associated with a June interim understanding with the United States were fulfilled. Reuters reported the remarks, citing Nournews. The statement sets out Tehran's position, not an agreed timetable for restoring normal navigation."+c(0),
