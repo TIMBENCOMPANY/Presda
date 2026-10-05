@@ -6,7 +6,7 @@ export const merkelFreedomArticle: Article = {
   "seoTitle": "Angela Merkel’s Freedom: 1 Million Copies and a Lasting Debate",
   "metaDescription": "Angela Merkel’s Freedom passed one million copies by June 2025. Explore its publishing success, contested political legacy and verified 2026 book appearances.",
   "excerpt": "Angela Merkel’s Freedom passed one million copies by June 2025. Explore its publishing success, contested political legacy and verified 2026 book appearances.",
-  "category": "Paparazzi",
+  "category": "World",
   "schemaType": "Article",
   "date": "2026-10-05",
   "lastUpdated": "2026-10-05",
@@ -59,7 +59,7 @@ export const merkelFreedomArticle: Article = {
     "## WHY THE INTEREST LASTS",
     "The continuing appeal lies in the intersection of a personal transformation and a contested public record. A scientist raised in East Germany became the first woman to lead the reunited country. Her account offers familiarity to some readers, material for criticism to others and a firsthand perspective for people seeking to understand Europe’s recent past.",
     "The sales milestone shows that the audience is substantial. The ongoing debate shows why the book matters beyond a bestseller chart. Freedom gives Merkel room to explain herself. It leaves readers, researchers and critics free to decide how convincing that explanation is.",
-    "For another view of life after high office, read PRESDA’s [profile of Barack Obama after the White House](/articles/barack-obama-after-white-house-life-2026/).",
+    "For related reading, explore [Barack Obama’s Presidential Center opening in Chicago](/articles/barack-obama-after-white-house-life-2026/).",
     "Image note: the hero is an AI-generated editorial illustration. Its stylized book is not a reproduction of an official edition cover, and the portrait is not a photograph of a book event."
   ],
   "references": [
