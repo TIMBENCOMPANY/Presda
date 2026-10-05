@@ -511,6 +511,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/byd-overtakes-tesla-annual-bev-sales/",
+    "path": "/ar/articles/byd-overtakes-tesla-annual-bev-sales/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/byd-overtakes-tesla-annual-bev-sales/",
+    "path": "/es/articles/byd-overtakes-tesla-annual-bev-sales/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/byd-overtakes-tesla-annual-bev-sales/",
+    "path": "/fr/articles/byd-overtakes-tesla-annual-bev-sales/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/byzantine-empire-eastern-rome-constantinople-1453/",
     "path": "/ar/articles/byzantine-empire-eastern-rome-constantinople-1453/"
   },

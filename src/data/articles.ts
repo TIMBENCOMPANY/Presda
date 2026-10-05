@@ -1,3 +1,4 @@
+import { bydArticle } from "@/data/bydArticle";
 import { merkelFreedomArticle } from "@/data/merkelFreedomArticle";
 import { obamaAfterWhiteHouseArticle } from "@/data/obamaAfterWhiteHouseArticle";
 import { diggerArticle } from "@/data/diggerArticle";
@@ -35597,7 +35598,8 @@ export const articles: Article[] = [
   saudi2034Article,
   diggerArticle,
   obamaAfterWhiteHouseArticle,
-  merkelFreedomArticle
+  merkelFreedomArticle,
+  bydArticle
 ];
 
 export const categories: ArticleCategory[] = [

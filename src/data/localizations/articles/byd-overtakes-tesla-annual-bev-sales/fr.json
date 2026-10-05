@@ -1,0 +1,218 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/byd-overtakes-tesla-annual-bev-sales/",
+  "path": "/fr/articles/byd-overtakes-tesla-annual-bev-sales/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr editorial and source-parity review",
+    "reviewedAt": "2026-10-05",
+    "terminologyChecked": true
+  },
+  "title": "BYD dépasse Tesla : comment le géant chinois de l’électrique a pris la tête",
+  "excerpt": "BYD a devancé Tesla sur les ventes de voitures 100 % électriques en 2025. Batteries, prix, usines à l’étranger et barrières commerciales expliquent la bataille.",
+  "headlineHighlights": {
+    "red": "BYD dépasse Tesla",
+    "gold": "a pris la tête"
+  },
+  "seoTitle": "BYD dépasse Tesla dans les ventes annuelles 100 % électriques",
+  "description": "BYD a devancé Tesla sur les ventes de voitures 100 % électriques en 2025. Batteries, prix, usines à l’étranger et barrières commerciales expliquent la bataille.",
+  "keywords": [
+    "BYD",
+    "BYD contre Tesla",
+    "ventes voitures électriques",
+    "batterie Blade",
+    "voiture électrique"
+  ],
+  "searchIntent": "BYD a devancé Tesla sur les ventes de voitures 100 % électriques en 2025. Batteries, prix, usines à l’étranger et barrières commerciales expliquent la bataille.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-05",
+  "updatedAt": "2026-10-05",
+  "image": {
+    "src": "/articles/byd-overtakes-tesla.png",
+    "alt": "Illustration éditoriale générée par IA d’une sportive rouge devant une usine inspirée de BYD, sans représenter une photographie ou un modèle de série vérifié"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La course à la voiture électrique a un nouveau leader annuel. BYD a vendu environ 2,26 millions de voitures particulières entièrement électriques en 2025, contre 1,64 million de livraisons pour Tesla. La comparaison porte précisément sur les véhicules électriques à batterie, ou BEV. Les hybrides rechargeables de BYD ne sont pas ajoutés à ce total face à Tesla. [AP : ventes annuelles BEV en 2025](https://apnews.com/article/6d60715babde97b3b1a8e2416f4065ca) [Tesla : livraisons annuelles 2025](https://ir.tesla.com/press-release/tesla-fourth-quarter-2025-production-deliveries-deployments)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE BYD A RÉELLEMENT DÉPASSÉ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il s’agit de l’année civile 2025, dernière année complète au 5 octobre 2026. Tesla a officiellement déclaré 1 636 129 livraisons. L’activité plus large de BYD dans les véhicules à énergie nouvelle comprend des hybrides rechargeables, qui associent moteur thermique et batterie rechargeable. Ils relèvent d’une autre comparaison. La première place en volume BEV ne signifie pas automatiquement une avance en chiffre d’affaires, bénéfice, valeur boursière ou dans chaque pays. [Tesla : livraisons annuelles 2025](https://ir.tesla.com/press-release/tesla-fourth-quarter-2025-production-deliveries-deployments)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le changement est significatif parce que Tesla a contribué à faire de la voiture à batterie un produit de consommation mondial. BYD montre qu’une autre trajectoire peut atteindre un volume annuel supérieur : partir des batteries, multiplier les propositions automobiles et viser le budget des ménages. Dominer les ventes constitue une étape, pas une garantie pour l’année suivante."
+    },
+    {
+      "type": "heading",
+      "text": "DES BATTERIES À L’AUTOMOBILE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fondé à Shenzhen en 1995 dans les batteries rechargeables, BYD est entré dans l’automobile en 2003. Cette origine explique la place centrale de la batterie dans son identité. Le groupe développe la technologie des accumulateurs avec les véhicules et leurs systèmes électriques, plutôt que de considérer le bloc comme un simple composant extérieur. [BYD : origines du groupe](https://www.byd.com/eu/blog/Hello-we-are-BYD)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lancée en 2020, la batterie Blade utilise une chimie lithium-fer-phosphate, appelée LFP. Ses cellules allongées et la conception du bloc cherchent à optimiser l’espace. BYD met en avant ses tests de sécurité, mais une démonstration du fabricant ne prouve pas qu’une batterie ne puisse jamais défaillir. Chimie, conception du bloc et protections du véhicule comptent ensemble. [BYD : technologie Blade](https://www.byd.com/eu/blog/BYDs-revolutionary-Blade-Battery-all-you-need-to-know?trk=public_post_comment-text)"
+    },
+    {
+      "type": "heading",
+      "text": "LE PRIX COMME STRATÉGIE PRODUIT"
+    },
+    {
+      "type": "paragraph",
+      "text": "La gamme BYD va des petites citadines aux berlines et SUV plus grands. Le lancement européen de la Dolphin Surf en 2025 illustre la volonté de toucher des acheteurs au-delà du haut de gamme. Un véhicule compact et une batterie adaptée peuvent ouvrir l’accès à l’électrique sans imposer l’autonomie maximale ou les performances les plus élevées. [BYD : lancement européen de la Dolphin Surf](https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’industrie chinoise apporte une partie de l’explication. L’Agence internationale de l’énergie relie l’amélioration des prix à la baisse du coût des batteries, à l’intégration de la chaîne d’approvisionnement et à une concurrence intense. Produire davantage de composants en interne peut faciliter la maîtrise des coûts et du développement. Cela ne supprime pas les dépenses et ne rend pas chaque remise rentable. [AIE : prix des voitures électriques](https://www.iea.org/reports/global-ev-outlook-2025/trends-in-electric-car-affordability)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les prix franchissent aussi difficilement les frontières. Transport, taxes, droits de douane, distribution et équipements modifient l’offre finale. Convertir un tarif chinois en euros ne donne pas le prix de vente à l’étranger. Le choix des modèles, le financement et la qualité du service comptent autant que le montant affiché."
+    },
+    {
+      "type": "heading",
+      "text": "SE DÉVELOPPER, C’EST AUSSI PRODUIRE HORS DE CHINE"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Europe, l’Asie et l’Amérique latine exigent davantage que des exportations. BYD a ouvert son usine de Rayong, en Thaïlande, en juillet 2024, avec une capacité annoncée de 150 000 véhicules par an. Au Brésil, il a annoncé la sortie de la première Dolphin Mini construite localement à Camaçari en juillet 2025. Une capacité installée et un premier véhicule ne prouvent pas une production durable à plein régime. [BYD : ouverture de Rayong](https://www.byd.com/sc/news-list/BYD-roll-off-of-lts-8-millionth-new-energy-vehicle) [BYD : première électrique construite au Brésil](https://www.byd.com/us/news-list/First-BYD-Electric-Vehicle-Rolls-off-the-Line-in-Brazil)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dossier européen continue d’évoluer. Reuters rapportait en septembre 2026 que BYD montait en cadence en Hongrie. Son conseiller européen Alfredo Altavilla estimait que le groupe aurait besoin, à terme, de trois usines automobiles et d’une usine de batteries en Europe, avec une décision sur un deuxième site attendue avant la fin de l’année. Ces installations supplémentaires étaient une ambition, pas trois usines déjà en activité. [Reuters : usines européennes, septembre 2026](https://www.onvista.de/news/2026/09-17-autobauer-byd-plant-langfristig-drei-fahrzeugwerke-in-europa-0-20-26554322)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Produire localement peut limiter les contraintes logistiques et certaines barrières à l’importation, mais crée de nouvelles obligations : fournisseurs, formation, homologation et service après-vente. L’expansion réussit lorsque les clients peuvent acheter, réparer et utiliser durablement leur voiture en confiance, pas simplement lorsqu’une usine est annoncée."
+    },
+    {
+      "type": "heading",
+      "text": "RECHARGE ET AUTONOMIE : LIRE LES CONDITIONS"
+    },
+    {
+      "type": "paragraph",
+      "text": "En mars 2026, BYD a présenté Blade Battery 2.0 et FLASH Charging. Il revendiquait une puissance allant jusqu’à 1 500 kW et une recharge de 10 % à 97 % en neuf minutes avec la technologie compatible. Il citait aussi une autonomie supérieure à 1 000 km selon le cycle chinois CLTC. Ce sont des spécifications du constructeur dans des conditions définies, pas des résultats universels pour chaque voiture ou borne. [BYD : annonces de recharge en 2026](https://media.byd.com/byd-breaksdown-finalbarriers-toelectrification-withblade-battery20-andflash-charging/?lang=eng)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinction compte à l’usage. Une puissance maximale ne décrit pas la puissance maintenue pendant toute la séance. Température, niveau de charge, capacités du véhicule et installation influencent le résultat. De même, une autonomie CLTC ne se compare pas directement à une valeur WLTP ou EPA comme si les protocoles étaient identiques."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’annonce de mars visait 20 000 stations FLASH en Chine à la fin de 2026 et un déploiement international. La date et le statut sont essentiels : un objectif de réseau ne constitue pas un décompte vérifié de bornes disponibles. L’innovation utile réside dans l’association entre voiture, batterie et infrastructure, au-delà d’un chiffre spectaculaire. [BYD : annonces de recharge en 2026](https://media.byd.com/byd-breaksdown-finalbarriers-toelectrification-withblade-battery20-andflash-charging/?lang=eng)"
+    },
+    {
+      "type": "heading",
+      "text": "DROITS DE DOUANE ET CONCURRENCE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La décision européenne de 2024 a imposé à BYD un droit compensateur supplémentaire de 17 % sur ses véhicules entièrement électriques fabriqués en Chine. La mesure dépend de l’origine de production et du produit, pas de toutes les voitures BYD dans le monde. En janvier 2026, la Commission a publié des orientations sur les engagements de prix comme mécanisme alternatif possible. Ces orientations ne suppriment pas automatiquement les droits. [Commission européenne : droits compensateurs](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf) [Commission européenne : engagements de prix en 2026](https://policy.trade.ec.europa.eu/news/commission-issues-guidance-document-submission-price-undertaking-offers-battery-electric-vehicles-2026-01-12_en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La première place ne fait pas disparaître la pression intérieure. Selon AP, le bénéfice de BYD a reculé de 19 % en 2025 malgré son titre en volume BEV. Tesla reste un concurrent, tandis que les marques chinoises et les constructeurs internationaux se disputent les mêmes clients. Prix agressifs, investissements étrangers et recherche doivent finalement soutenir une activité viable. [AP : bénéfice et concurrence](https://apnews.com/article/c2fe8ed6647f245161b7648cd7407a51)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE CETTE ASCENSION CHANGE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rapport 2026 de l’AIE estime que près de 70 % des BEV vendus en Chine en 2025 étaient moins chers que leurs équivalents thermiques avant aides. Cette donnée concerne le secteur, pas seulement BYD, et ne s’applique pas automatiquement ailleurs. Elle montre néanmoins combien l’électrique s’éloigne d’un positionnement exclusivement haut de gamme. [AIE : marché mondial, rapport 2026](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’ascension de BYD relève les exigences en matière de prix, de batteries et d’échelle industrielle. Le prochain défi consiste à transformer les volumes en confiance durable et en rentabilité sur des marchés très différents. Pour les clients, la question est de trouver une voiture adaptée au budget et aux besoins de recharge. Pour les constructeurs, il faut y répondre sans vendre à perte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour comprendre le contexte industriel, découvrez notre [reportage sur la révolution robotique chinoise](/articles/china-robot-revolution-industrial-automation/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note sur l’image : le visuel fourni est une illustration éditoriale générée par IA, pas une photographie documentaire ni la confirmation d’un modèle BYD de série."
+    }
+  ],
+  "sources": [
+    {
+      "label": "AP : ventes annuelles BEV en 2025",
+      "url": "https://apnews.com/article/6d60715babde97b3b1a8e2416f4065ca"
+    },
+    {
+      "label": "Tesla : livraisons annuelles 2025",
+      "url": "https://ir.tesla.com/press-release/tesla-fourth-quarter-2025-production-deliveries-deployments"
+    },
+    {
+      "label": "BYD : origines du groupe",
+      "url": "https://www.byd.com/eu/blog/Hello-we-are-BYD"
+    },
+    {
+      "label": "BYD : technologie Blade",
+      "url": "https://www.byd.com/eu/blog/BYDs-revolutionary-Blade-Battery-all-you-need-to-know?trk=public_post_comment-text"
+    },
+    {
+      "label": "AIE : prix des voitures électriques",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2025/trends-in-electric-car-affordability"
+    },
+    {
+      "label": "BYD : lancement européen de la Dolphin Surf",
+      "url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers"
+    },
+    {
+      "label": "BYD : ouverture de Rayong",
+      "url": "https://www.byd.com/sc/news-list/BYD-roll-off-of-lts-8-millionth-new-energy-vehicle"
+    },
+    {
+      "label": "BYD : première électrique construite au Brésil",
+      "url": "https://www.byd.com/us/news-list/First-BYD-Electric-Vehicle-Rolls-off-the-Line-in-Brazil"
+    },
+    {
+      "label": "Reuters : usines européennes, septembre 2026",
+      "url": "https://www.onvista.de/news/2026/09-17-autobauer-byd-plant-langfristig-drei-fahrzeugwerke-in-europa-0-20-26554322"
+    },
+    {
+      "label": "BYD : annonces de recharge en 2026",
+      "url": "https://media.byd.com/byd-breaksdown-finalbarriers-toelectrification-withblade-battery20-andflash-charging/?lang=eng"
+    },
+    {
+      "label": "Commission européenne : droits compensateurs",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf"
+    },
+    {
+      "label": "Commission européenne : engagements de prix en 2026",
+      "url": "https://policy.trade.ec.europa.eu/news/commission-issues-guidance-document-submission-price-undertaking-offers-battery-electric-vehicles-2026-01-12_en"
+    },
+    {
+      "label": "AP : bénéfice et concurrence",
+      "url": "https://apnews.com/article/c2fe8ed6647f245161b7648cd7407a51"
+    },
+    {
+      "label": "AIE : marché mondial, rapport 2026",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand BYD a-t-il dépassé Tesla sur une année entière ?",
+      "answer": "En 2025, avec environ 2,26 millions de voitures particulières entièrement électriques, contre 1,64 million de livraisons pour Tesla."
+    },
+    {
+      "question": "La comparaison inclut-elle les hybrides rechargeables BYD ?",
+      "answer": "Non. Elle porte sur les véhicules entièrement électriques à batterie et exclut les hybrides rechargeables."
+    },
+    {
+      "question": "Toutes les BYD se rechargent-elles en neuf minutes ?",
+      "answer": "Non. L’annonce de 2026 concerne les technologies compatibles Blade Battery 2.0 et FLASH Charging dans des conditions précises, pas tous les modèles ou toutes les bornes."
+    }
+  ]
+}
