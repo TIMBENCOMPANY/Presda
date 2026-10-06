@@ -2461,6 +2461,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/saudi-arabia-gulf-cup-27-champions/",
+    "path": "/ar/articles/saudi-arabia-gulf-cup-27-champions/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/saudi-arabia-gulf-cup-27-champions/",
+    "path": "/es/articles/saudi-arabia-gulf-cup-27-champions/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/saudi-arabia-gulf-cup-27-champions/",
+    "path": "/fr/articles/saudi-arabia-gulf-cup-27-champions/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/self-driving-trucks-future-truck-drivers/",
     "path": "/ar/articles/self-driving-trucks-future-truck-drivers/"
   },

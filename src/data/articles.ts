@@ -1,3 +1,4 @@
+import { saudiGulfCup27Article } from "@/data/saudiGulfCup27Article";
 import { bydArticle } from "@/data/bydArticle";
 import { merkelFreedomArticle } from "@/data/merkelFreedomArticle";
 import { obamaAfterWhiteHouseArticle } from "@/data/obamaAfterWhiteHouseArticle";
@@ -35599,7 +35600,8 @@ export const articles: Article[] = [
   diggerArticle,
   obamaAfterWhiteHouseArticle,
   merkelFreedomArticle,
-  bydArticle
+  bydArticle,
+  saudiGulfCup27Article
 ];
 
 export const categories: ArticleCategory[] = [
