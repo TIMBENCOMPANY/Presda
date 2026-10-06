@@ -1,0 +1,159 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/from-ai-to-si-super-intelligence-trump-musk/",
+  "path": "/es/articles/from-ai-to-si-super-intelligence-trump-musk/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es editorial and source-parity review",
+    "reviewedAt": "2026-10-07",
+    "terminologyChecked": true
+  },
+  "title": "DE LA IA A LA SI: POR QUÉ LA «SUPERINTELIGENCIA» ESTÁ DE REPENTE EN TODAS PARTES",
+  "excerpt": "El decreto de Trump, el plan SpaceXSI de Musk y el auge de los dominios .si de Eslovenia, con las diferencias entre publicidad, AGI y superinteligencia.",
+  "seoTitle": "De IA a SI: Trump, Musk y la superinteligencia",
+  "description": "El decreto de Trump, el plan SpaceXSI de Musk y el auge de los dominios .si de Eslovenia, con las diferencias entre publicidad, AGI y superinteligencia.",
+  "keywords": [
+    "superinteligencia",
+    "IA y SI",
+    "Trump decreto SI",
+    "SpaceXSI",
+    "AGI y ASI",
+    "dominios .si Eslovenia"
+  ],
+  "searchIntent": "El decreto de Trump, el plan SpaceXSI de Musk y el auge de los dominios .si de Eslovenia, con las diferencias entre publicidad, AGI y superinteligencia.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-06",
+  "image": {
+    "src": "/articles/ai-to-si-trump-musk.png",
+    "alt": "Ilustración editorial generada por IA de Donald Trump y Elon Musk en un anuncio de temática espacial, no una fotografía de un acto documentado"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Dos letras están pasando del debate técnico a la comunicación política. La Administración de Donald Trump quiere sustituir AI, las siglas inglesas de inteligencia artificial, por SI, de Super Intelligence. La Casa Blanca lo presenta como reconocimiento de la promesa tecnológica. Es su justificación, no una medición independiente de las capacidades de las máquinas. [Casa Blanca](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ HA CAMBIADO TRUMP REALMENTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La orden ejecutiva 14434, del 29 de septiembre de 2026, dispone usar SI en comunicaciones no legislativas del Ejecutivo, dentro de la ley. Mantiene la definición legal de IA y exime de revisión obligatoria los documentos históricos. Una propuesta de definición legislativa debe presentarse en 60 días. [Orden ejecutiva](https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14434.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es una adopción administrativa de terminología. No significa que todas las webs federales hayan cambiado, que el Congreso haya reescrito cada ley pertinente o que los investigadores de todo el mundo deban abandonar IA. Conviene distinguir una instrucción de la prueba de que ya se ha aplicado por completo."
+    },
+    {
+      "type": "heading",
+      "text": "EL PLAN SPACEXSI DE MUSK"
+    },
+    {
+      "type": "paragraph",
+      "text": "Musk respaldó el cambio y anunció que SpaceXAI pasaría a llamarse SpaceXSI, informó Euronews el 5 de octubre. Las webs y cuentas sociales todavía no habían cambiado. La noticia acredita un plan de nombre, no su ejecución completa ni un salto demostrado de capacidades. [Euronews](https://www.euronews.com/2026/10/05/musk-to-follow-trump-and-rebrand-spacexai-as-spacexsi)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para clientes e inversores, las preguntas útiles siguen siendo concretas: qué puede hacer el sistema, con qué fiabilidad y con qué evaluación independiente. El nombre de una empresa no responde por sí solo a ninguna de ellas."
+    },
+    {
+      "type": "heading",
+      "text": "IA, AGI Y ASI: TRES IDEAS DIFERENTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA abarca sistemas que realizan tareas asociadas a la inteligencia, desde herramientas especializadas hasta modelos de propósito general. AGI significa inteligencia artificial general: capacidades comparables a las humanas en muchas tareas cognitivas. Sus definiciones y umbrales siguen en debate. DeepMind la describe en relación con la mayoría de las tareas cognitivas humanas. [DeepMind: AGI](https://deepmind.google/blog/taking-a-responsible-path-to-agi/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ASI suele designar una superinteligencia artificial con capacidades ampliamente superiores a las humanas. SI también se utiliza para esa idea. Los marcos de investigación distinguen amplitud y rendimiento: destacar en una tarea limitada no demuestra superioridad general. La autonomía constituye otra dimensión diferente. [DeepMind: marco de capacidades](https://deepmind.google/research/publications/66938/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ambigüedad importa. En un debate técnico, superinteligencia puede describir un umbral ambicioso. En el vocabulario de la Administración, SI se utiliza para la categoría existente de IA. Los significados no son intercambiables. Un chatbot rebautizado no adquiere capacidades generalmente sobrehumanas por cambiar su etiqueta."
+    },
+    {
+      "type": "heading",
+      "text": "LA COINCIDENCIA ESLOVENA"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sufijo .si es el dominio territorial de Eslovenia, administrado por ARNES. Existe desde décadas antes de esta campaña de nombres. Por separado, Melania Trump nació en Eslovenia. Ambos hechos están documentados, pero ninguno establece por qué el presidente eligió la abreviatura. [IANA: .si](https://www.iana.org/domains/root/db/si.html) [Melania Trump: biografía](https://www.whitehouse.gov/administration/melania-trump/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "También se ha informado de un auge de registros. Domain Name Wire comparó unos 190.000 dominios .si el 4 de septiembre con 219.000 el 28 de septiembre de 2026, según capturas del registro. Son totales fechados, no cifras de empresas de IA ni prueba de demanda comercial duradera. [Domain Name Wire](https://domainnamewire.com/2026/09/28/slovenia-si-domains/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los registros pueden responder a especulación, protección de marcas o proyectos reales de webs. Su crecimiento no identifica la intención presidencial. En la documentación oficial y las informaciones examinadas no hay pruebas verificadas de que Trump eligiera SI por Melania o Eslovenia, ni para obtener beneficios financieros vinculados a dominios. Esas conexiones siguen sin demostrarse."
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ OBSERVAR MÁS ALLÁ DEL NOMBRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prueba práctica es si el vocabulario mejora la comprensión pública. Llamar superinteligente a un sistema existente puede llevar a sobreestimar su fiabilidad. El análisis de PRESDA es que debemos identificar el producto, describir la tarea y separar el rendimiento medido de las ambiciones comerciales o del lenguaje preferido por un gobierno."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para conocer aplicaciones concretas, lea sobre [los planes de Seúl para la IA física y los robots](/articles/seoul-physical-ai-robots-living-lab/) y [la privacidad de las gafas inteligentes de Meta](/articles/meta-ray-ban-privacy-europe/). Estos casos devuelven el debate a los sistemas, sus usuarios y sus consecuencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen principal: ilustración editorial generada por IA. No documenta un anuncio conjunto real. Información verificada el 7 de octubre de 2026."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Orden ejecutiva",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14434.pdf"
+    },
+    {
+      "label": "Casa Blanca",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/"
+    },
+    {
+      "label": "Euronews",
+      "url": "https://www.euronews.com/2026/10/05/musk-to-follow-trump-and-rebrand-spacexai-as-spacexsi"
+    },
+    {
+      "label": "DeepMind: AGI",
+      "url": "https://deepmind.google/blog/taking-a-responsible-path-to-agi/"
+    },
+    {
+      "label": "DeepMind: marco de capacidades",
+      "url": "https://deepmind.google/research/publications/66938/"
+    },
+    {
+      "label": "IANA: .si",
+      "url": "https://www.iana.org/domains/root/db/si.html"
+    },
+    {
+      "label": "Melania Trump: biografía",
+      "url": "https://www.whitehouse.gov/administration/melania-trump/"
+    },
+    {
+      "label": "Domain Name Wire",
+      "url": "https://domainnamewire.com/2026/09/28/slovenia-si-domains/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿SI significa que se ha alcanzado la AGI?",
+      "answer": "No. Cambiar la terminología no demuestra inteligencia general ni capacidades ampliamente sobrehumanas."
+    },
+    {
+      "question": "¿Ya se ha aplicado por completo el nombre SpaceXSI?",
+      "answer": "Musk anunció su intención de cambiarlo. La información del 5 de octubre citada aquí no acreditaba una aplicación completa."
+    },
+    {
+      "question": "¿Trump eligió SI por Eslovenia?",
+      "answer": "No hay pruebas verificadas de ese motivo ni de un beneficio financiero ligado a los dominios. El sufijo y el lugar de nacimiento de Melania Trump son hechos distintos."
+    }
+  ]
+}

@@ -961,6 +961,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/from-ai-to-si-super-intelligence-trump-musk/",
+    "path": "/ar/articles/from-ai-to-si-super-intelligence-trump-musk/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/from-ai-to-si-super-intelligence-trump-musk/",
+    "path": "/es/articles/from-ai-to-si-super-intelligence-trump-musk/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/from-ai-to-si-super-intelligence-trump-musk/",
+    "path": "/fr/articles/from-ai-to-si-super-intelligence-trump-musk/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/galileo-and-the-church/",
     "path": "/ar/articles/galileo-and-the-church/"
   },
