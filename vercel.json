@@ -4,6 +4,8 @@
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "redirects": [
+    { "source": "/articles/ai-becoming-a-friend-not-just-a-tool", "destination": "/articles/why-people-trust-ai-like-a-friend/", "permanent": true },
+    { "source": "/articles/ai-becoming-a-friend-not-just-a-tool/", "destination": "/articles/why-people-trust-ai-like-a-friend/", "permanent": true },
     { "source": "/world-cup-2026", "destination": "/category/sport/", "permanent": true },
     { "source": "/world-cup-2026/", "destination": "/category/sport/", "permanent": true },
     { "source": "/index.html", "destination": "/", "permanent": true },
