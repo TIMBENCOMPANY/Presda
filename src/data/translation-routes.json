@@ -1606,6 +1606,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/kim-kardashian-lewis-hamilton-romance-public/",
+    "path": "/ar/articles/kim-kardashian-lewis-hamilton-romance-public/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/kim-kardashian-lewis-hamilton-romance-public/",
+    "path": "/es/articles/kim-kardashian-lewis-hamilton-romance-public/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/kim-kardashian-lewis-hamilton-romance-public/",
+    "path": "/fr/articles/kim-kardashian-lewis-hamilton-romance-public/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/kingdom-aksum-africa-trade-faith/",
     "path": "/ar/articles/kingdom-aksum-africa-trade-faith/"
   },
