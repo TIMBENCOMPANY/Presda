@@ -14,6 +14,7 @@ import { SeoulGraphics } from "@/components/SeoulGraphics";
 import { ChinaRoboticsGraphics } from "@/components/ChinaRoboticsGraphics";
 import { DeLaFuenteTimeline } from "@/components/DeLaFuenteTimeline";
 import { OctopusMindGraphic } from "@/components/OctopusMindGraphic";
+import { CasablancaFossilsGraphics } from "@/components/CasablancaFossilsGraphics";
 import { IndusValleyGraphics } from "@/components/IndusValleyGraphics";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
@@ -303,6 +304,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "casablanca-thomas-quarry-773000-year-old-hominin-fossils" && (originalIndex === 25 || originalIndex === 33)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><CasablancaFossilsGraphics locale={locale} kind={originalIndex === 25 ? "chronology" : "evidence"} /></div>;
+              }
               if (article.slug === "indus-valley-civilization-cities-script-decline" && (originalIndex === 4 || originalIndex === 12)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><IndusValleyGraphics locale={locale} kind={originalIndex === 4 ? "timeline" : "cities"} /></div>;
               }
