@@ -16,6 +16,7 @@ import { DeLaFuenteTimeline } from "@/components/DeLaFuenteTimeline";
 import { OctopusMindGraphic } from "@/components/OctopusMindGraphic";
 import { CasablancaFossilsGraphics } from "@/components/CasablancaFossilsGraphics";
 import { CancerProgressGraphics } from "@/components/CancerProgressGraphics";
+import { Lunar5gGraphics } from "@/components/Lunar5gGraphics";
 import { IndusValleyGraphics } from "@/components/IndusValleyGraphics";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
@@ -305,6 +306,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "nasa-moon-5g-wifi6-lunar-communications" && (originalIndex === 4 || originalIndex === 13)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><Lunar5gGraphics locale={locale} kind={originalIndex === 4 ? "timeline" : "network"} /></div>;
+              }
               if (article.slug === "50-years-cancer-survival-progress-hardest-cancers" && (originalIndex === 8 || originalIndex === 17 || originalIndex === 30)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><CancerProgressGraphics locale={locale} kind={originalIndex === 8 ? "survival" : originalIndex === 17 ? "stage" : "milestones"} /></div>;
               }

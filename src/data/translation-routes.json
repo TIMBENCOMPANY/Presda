@@ -2101,6 +2101,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/nasa-moon-5g-wifi6-lunar-communications/",
+    "path": "/ar/articles/nasa-moon-5g-wifi6-lunar-communications/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/nasa-moon-5g-wifi6-lunar-communications/",
+    "path": "/es/articles/nasa-moon-5g-wifi6-lunar-communications/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/nasa-moon-5g-wifi6-lunar-communications/",
+    "path": "/fr/articles/nasa-moon-5g-wifi6-lunar-communications/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/native-americans-history-indigenous-peoples/",
     "path": "/ar/articles/native-americans-history-indigenous-peoples/"
   },

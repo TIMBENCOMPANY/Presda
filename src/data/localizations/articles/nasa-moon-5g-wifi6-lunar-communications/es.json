@@ -1,0 +1,232 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/nasa-moon-5g-wifi6-lunar-communications/",
+  "path": "/es/articles/nasa-moon-5g-wifi6-lunar-communications/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es editorial and source-parity review",
+    "reviewedAt": "2026-10-07",
+    "terminologyChecked": true
+  },
+  "title": "LA NASA QUIERE CONECTAR LA LUNA CON 5G",
+  "excerpt": "La NASA financia desarrollo y demostraciones de comunicaciones lunares hasta 2028. Qué permitiría el 5G y qué falta demostrar.",
+  "seoTitle": "5G lunar y Wi-Fi 6: el contrato de la NASA de 38 millones",
+  "description": "La NASA financia desarrollo y demostraciones de comunicaciones lunares hasta 2028. Qué permitiría el 5G y qué falta demostrar.",
+  "keywords": [
+    "5G lunar y Wi-Fi 6: el contrato de la NASA de 38 millones",
+    "LA NASA QUIERE CONECTAR LA LUNA CON 5G",
+    "NASA",
+    "5G",
+    "Wi-Fi 6",
+    "Artemis"
+  ],
+  "searchIntent": "La NASA financia desarrollo y demostraciones de comunicaciones lunares hasta 2028. Qué permitiría el 5G y qué falta demostrar.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-07",
+  "updatedAt": "2026-10-07",
+  "image": {
+    "src": "/articles/nasa-lunar-5g-conceptual-illustration.png",
+    "alt": "Ilustración conceptual generada con IA de un astronauta y equipo lunar con logotipo NASA; no es una fotografía de misión"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un rover desaparece tras una cresta. Un astronauta se acerca a un cráter. Un instrumento necesita enviar sus mediciones. En la Luna, una comunicación fiable será infraestructura básica para explorar, junto con la energía y el transporte."
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA acaba de financiar un nuevo paso: desarrollar 5G lunar con Wi-Fi 6 integrado. El contrato, anunciado el 30 de septiembre de 2026 y valorado en unos 38 millones de dólares, corresponde a Modulate Space Corporation para trabajos destinados al centro Glenn de Cleveland. Financia desarrollo y demostraciones, no un servicio lunar ya operativo. [NASA: contrato del 30 de septiembre de 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)"
+    },
+    {
+      "type": "heading",
+      "text": "UN CONTRATO CON DOS CALENDARIOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "El acuerdo a precio fijo contempla una red 5G compacta y una posterior demostración de vuelo de una red integrada de superficie. El trabajo de laboratorio abarca del 1 de octubre de 2026 al 31 de enero de 2028; la demostración lunar, del 30 de noviembre de 2026 al 31 de diciembre de 2028. Son períodos de ejecución contractual, no fechas de lanzamiento ni una garantía de cobertura permanente al finalizar. [NASA: contrato del 30 de septiembre de 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA es el cliente, Glenn el centro designado y Modulate Space el adjudicatario. El aviso federal previo identifica a la compañía como Modul8, anteriormente Space Communication Solutions de Nokia Bell Labs. Los proyectos anteriores de Nokia aportan antecedentes, pero sus presupuestos y socios no forman automáticamente parte del nuevo contrato. El anuncio no identifica lanzador ni módulo de aterrizaje para esta demostración. [SAM.gov: contratación de 5G lunar](https://sam.gov/opp/c776cb855f5b4e8db923aecf80779810/view) [NASA: contrato del 30 de septiembre de 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)"
+    },
+    {
+      "type": "heading",
+      "text": "UNA RED PEQUEÑA PARA UN TERRITORIO ENORME"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una red compacta reúne las funciones necesarias para operar un sistema celular privado. En lugar de mantener una conexión independiente con la Tierra para cada instrumento cercano, los equipos podrían intercambiar datos localmente y reunir el tráfico en una salida común. La investigación de la NASA trata el sistema celular y el Wi-Fi como tecnologías complementarias. [NASA: estudio del banco de pruebas GEM](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Radios de trajes, terminales de rovers e instrumentos serían los usuarios. Un módulo de aterrizaje o un rover podría alojar la red; un asentamiento mayor podría necesitar instalaciones fijas. Son conceptos de arquitectura, no un mapa definitivo de torres lunares. El procesamiento local evitaría enviar cada intercambio cercano a través de la Tierra. [NASA Johnson: demostraciones terrestres](https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/) [NASA: estudio del banco de pruebas GEM](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ APORTAN EL 5G Y EL WI-FI 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 5G pertenece a los estándares celulares del 3GPP. En los estudios lunares se examina para movilidad y cobertura de superficie más amplia. Wi-Fi 6 corresponde a IEEE 802.11ax, una norma de red local inalámbrica. Ofrece otra forma de acceso para equipos próximos. Ninguna etiqueta garantiza por sí sola alcance, resistencia o velocidad en la Luna. [NASA Glenn: investigación de 5G lunar](https://www.nasa.gov/glenn/glenn-expertise-space-exploration/scan/lunar-5g/) [IEEE: norma 802.11ax / Wi-Fi 6](https://standards.ieee.org/ieee/802.11ax/7180/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un hábitat y un rover que recorre el terreno tienen necesidades distintas. Antenas, frecuencias, obstáculos, energía y diseño de terminales determinarán el rendimiento. Las velocidades máximas anunciadas en la Tierra no prueban el caudal lunar. Ambas tecnologías pueden coexistir en vez de sustituirse. [NASA: estudio del banco de pruebas GEM](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "LA TIERRA SIGUE A MÁS DE UN SEGUNDO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una antena lunar no enviaría simplemente una señal móvil común a un teléfono terrestre. La red superficial necesitaría una conexión espacial separada, directa o mediante relevos adecuados. Conectar equipos vecinos y transportar datos por el espacio resuelve problemas diferentes. [NASA: estudio del banco de pruebas GEM](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La luz tarda alrededor de 1,3 segundos en recorrer el trayecto Tierra-Luna en un sentido. La ida y vuelta parte, por tanto, de unos 2,6 segundos antes de otros retardos. Una radio local más rápida no elimina ese límite físico. Las conversaciones, el control terrestre y las aplicaciones deben adaptarse; las decisiones inmediatas de seguridad no pueden depender de una respuesta instantánea desde la Tierra. [NASA: retardo Tierra-Luna y Marte](https://science.nasa.gov/wp-content/uploads/2023/05/188_fed0ad8278e728107533d509b24dc68b_SmithsimmonsDrew.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ SE HA DEMOSTRADO REALMENTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "NASA Johnson ha probado prototipos terrestres que envían vídeo, audio y telemetría por una red privada 5G hacia un control de misión simulado. Los ensayos de campo estudian movilidad y programas informáticos. El banco GEM de Glenn combina radios reales con propagación modelizada. Son demostraciones en la Tierra, no pruebas de servicio lunar continuo. [NASA Johnson: demostraciones terrestres](https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/) [NASA: estudio del banco de pruebas GEM](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf) [NASA: pruebas de campo](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-lunar-communications-network-in-lava-field/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "IM-2 marca una distinción importante. En marzo de 2025, equipos 4G/LTE de Nokia llegaron a la superficie en el módulo Athena de Intuitive Machines. Nokia informó de 25 minutos de funcionamiento y telemetría enviada a la Tierra, pero no de una primera llamada celular: las limitaciones eléctricas y el frío impidieron la conexión prevista entre terminal y red. La telemetría por el enlace terrestre del módulo no fue esa llamada. [Nokia: resultados de IM-2 en 2025](https://www.nokia.com/newsroom/nokia-and-intuitive-machines-deliver-first-cellular-network-to-the-moon-achieve-some-key-mission-objectives/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fue un antecedente 4G, no la culminación del nuevo contrato 5G. En la verificación del 7 de octubre, el proyecto sigue siendo desarrollo y demostración. El anuncio no acredita una red lunar 5G operativa. [NASA: contrato del 30 de septiembre de 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/) [Nokia: resultados de IM-2 en 2025](https://www.nokia.com/newsroom/nokia-and-intuitive-machines-deliver-first-cellular-network-to-the-moon-achieve-some-key-mission-objectives/)"
+    },
+    {
+      "type": "heading",
+      "text": "LA LUNA NO ES UNA INSTALACIÓN TERRESTRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Radiación, vacío y cambios térmicos severos complican el diseño electrónico. La NASA describe temperaturas superficiales de unos 127°C al sol y −173°C en la oscuridad, con regiones permanentemente sombreadas aún más frías. Son ejemplos ambientales, no el rango de operación certificado del equipo contratado. [NASA: entorno lunar](https://science.nasa.gov/moon/facts/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El regolito abrasivo puede afectar mecanismos y superficies. Conectores, despliegue y protección térmica requieren cuidado. Un ensayo limpio de laboratorio no reproduce todos los efectos de una exposición repetida al polvo lunar. [NASA: riesgos del polvo lunar](https://www.nasa.gov/humans-in-space/dust-an-out-of-this-world-problem/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Relieve y energía también resultan decisivos. Crestas y paredes de cráter pueden interrumpir las señales. En el polo sur, la luz rasante y las sombras prolongadas dificultan generación solar y supervivencia térmica. La ubicación de la red debe coordinarse con suministro y rutas. IM-2 mostró que una radio funcional puede perder su misión cuando fallan esas condiciones. [NASA: entorno del polo sur lunar](https://www.nasa.gov/reference/moonbase-environment/) [Nokia: resultados de IM-2 en 2025](https://www.nokia.com/newsroom/nokia-and-intuitive-machines-deliver-first-cellular-network-to-the-moon-achieve-some-key-mission-objectives/)"
+    },
+    {
+      "type": "heading",
+      "text": "ARTEMIS, CIENCIA Y UNA FUTURA BASE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta práctica es actividad sostenida: astronautas coordinándose con rovers, instrumentos enviando mediciones y científicos recibiendo más contexto del trabajo de campo. Una mejor conectividad local podría reducir soluciones aisladas y favorecer infraestructura compartida. Lunar 5G forma parte de la preparación para operaciones Artemis. [NASA Glenn: investigación de 5G lunar](https://www.nasa.gov/glenn/glenn-expertise-space-exploration/scan/lunar-5g/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El rendimiento útil no se limita a la descarga máxima. Importan cobertura previsible, energía y entrega fiable de información con prioridades distintas. Una cámara y un mensaje de seguridad cumplen funciones diferentes. El análisis de PRESDA es que la red debe juzgarse por su apoyo fiable a la operación, no solo por transmitir en condiciones favorables. [NASA: estudio del banco de pruebas GEM](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "LO QUE PODRÍA ENSEÑAR PARA MARTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Luna podría servir para probar arquitectura, movilidad y autonomía antes de explorar más lejos. La NASA considera lecciones relevantes para Marte. Es una posible transferencia de conocimientos, no un despliegue marciano anunciado ni la promesa de reutilizar equipos sin cambios. [NASA Johnson: demostraciones terrestres](https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Marte, el retardo en un sentido varía de varios minutos a más de veinte según las posiciones planetarias. La coordinación local cobra mayor importancia. Nuestro [reportaje sobre los retos técnicos de las ambiciones marcianas](/articles/elon-mars-signal/) examina la distancia entre una visión y las capacidades demostradas. [NASA: retardo Tierra-Luna y Marte](https://science.nasa.gov/wp-content/uploads/2023/05/188_fed0ad8278e728107533d509b24dc68b_SmithsimmonsDrew.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ PRUEBAS FALTAN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Resultados de laboratorio, transporte confirmado, cualificación ambiental y conexiones reales entre usuarios lunares serán los próximos hitos importantes. Los períodos contractuales no fijan fecha de despliegue, extensión de cobertura, disponibilidad ni coste final de operación. [NASA: contrato del 30 de septiembre de 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA quiere conectar la Luna porque explorar más exige más personas, máquinas e instrumentos trabajando juntos. La ambición cuenta con un contrato. La red aún debe desarrollarse, probarse y demostrar su funcionamiento donde será utilizada."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen principal es una ilustración conceptual generada con IA. El astronauta y el equipo con el logotipo NASA son elementos artísticos, no una fotografía de una misión real ni del material contratado."
+    }
+  ],
+  "sources": [
+    {
+      "label": "NASA: contrato del 30 de septiembre de 2026",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+    },
+    {
+      "label": "SAM.gov: contratación de 5G lunar",
+      "url": "https://sam.gov/opp/c776cb855f5b4e8db923aecf80779810/view"
+    },
+    {
+      "label": "NASA Glenn: investigación de 5G lunar",
+      "url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/scan/lunar-5g/"
+    },
+    {
+      "label": "NASA Johnson: demostraciones terrestres",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/"
+    },
+    {
+      "label": "Nokia: resultados de IM-2 en 2025",
+      "url": "https://www.nokia.com/newsroom/nokia-and-intuitive-machines-deliver-first-cellular-network-to-the-moon-achieve-some-key-mission-objectives/"
+    },
+    {
+      "label": "NASA: estudio del banco de pruebas GEM",
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf"
+    },
+    {
+      "label": "IEEE: norma 802.11ax / Wi-Fi 6",
+      "url": "https://standards.ieee.org/ieee/802.11ax/7180/"
+    },
+    {
+      "label": "NASA: entorno lunar",
+      "url": "https://science.nasa.gov/moon/facts/"
+    },
+    {
+      "label": "NASA: riesgos del polvo lunar",
+      "url": "https://www.nasa.gov/humans-in-space/dust-an-out-of-this-world-problem/"
+    },
+    {
+      "label": "NASA: entorno del polo sur lunar",
+      "url": "https://www.nasa.gov/reference/moonbase-environment/"
+    },
+    {
+      "label": "NASA: retardo Tierra-Luna y Marte",
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/05/188_fed0ad8278e728107533d509b24dc68b_SmithsimmonsDrew.pdf"
+    },
+    {
+      "label": "NASA: pruebas de campo",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-lunar-communications-network-in-lava-field/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Ya funciona una red lunar 5G?",
+      "answer": "El nuevo contrato financia desarrollo y demostraciones, no un servicio operativo. El ensayo 4G de 2025 no completó la llamada celular prevista."
+    },
+    {
+      "question": "¿Cuándo será la demostración lunar?",
+      "answer": "El período contractual va del 30 de noviembre de 2026 al 31 de diciembre de 2028. No es una fecha de lanzamiento confirmada."
+    },
+    {
+      "question": "¿Eliminará el 5G el retardo con la Tierra?",
+      "answer": "No. La luz tarda aproximadamente 1,3 segundos en un sentido entre la Tierra y la Luna. Una red local no elimina ese límite."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "NASA",
+    "gold": "5G"
+  },
+  "readingTimeMinutes": 7
+}

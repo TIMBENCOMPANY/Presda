@@ -1,0 +1,232 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/nasa-moon-5g-wifi6-lunar-communications/",
+  "path": "/ar/articles/nasa-moon-5g-wifi6-lunar-communications/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex ar editorial and source-parity review",
+    "reviewedAt": "2026-10-07",
+    "terminologyChecked": true
+  },
+  "title": "ناسا تريد ربط القمر بشبكة الجيل الخامس",
+  "excerpt": "يمول عقد ناسا تطوير اتصالات قمرية وتجارب تمتد إلى 2028. كيف تعمل الشبكة، وما الذي أثبتته الاختبارات، وما الذي يبقى مخططا؟",
+  "seoTitle": "الجيل الخامس على القمر: عقد ناسا بـ38 مليون دولار وواي فاي 6",
+  "description": "يمول عقد ناسا تطوير اتصالات قمرية وتجارب تمتد إلى 2028. كيف تعمل الشبكة، وما الذي أثبتته الاختبارات، وما الذي يبقى مخططا؟",
+  "keywords": [
+    "الجيل الخامس على القمر: عقد ناسا بـ38 مليون دولار وواي فاي 6",
+    "ناسا تريد ربط القمر بشبكة الجيل الخامس",
+    "NASA",
+    "5G",
+    "Wi-Fi 6",
+    "Artemis"
+  ],
+  "searchIntent": "يمول عقد ناسا تطوير اتصالات قمرية وتجارب تمتد إلى 2028. كيف تعمل الشبكة، وما الذي أثبتته الاختبارات، وما الذي يبقى مخططا؟",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-07",
+  "updatedAt": "2026-10-07",
+  "image": {
+    "src": "/articles/nasa-lunar-5g-conceptual-illustration.png",
+    "alt": "رسم تصوري مولد بالذكاء الاصطناعي لرائد فضاء ومعدات اتصال قمرية تحمل شعار ناسا، وليس صورة مهمة حقيقية"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "تختفي مركبة خلف مرتفع. يقترب رائد فضاء من فوهة. يحتاج جهاز علمي إلى إرسال قياساته. على القمر، سيكون الاتصال الموثوق جزءا من البنية الأساسية للاستكشاف، مثل الطاقة والتنقل."
+    },
+    {
+      "type": "paragraph",
+      "text": "تمول ناسا خطوة جديدة لتطوير شبكة قمرية من الجيل الخامس تدمج واي فاي 6. أعلنت الوكالة في 30 سبتمبر 2026 عقدا بنحو 38 مليون دولار مع شركة Modulate Space Corporation لأعمال تخدم مركز غلين في كليفلاند. التمويل للتطوير والتجارب، وليس لخدمة قمرية تعمل بالفعل. [ناسا: إعلان العقد في 30 سبتمبر 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)"
+    },
+    {
+      "type": "heading",
+      "text": "عقد وفترتان للعمل"
+    },
+    {
+      "type": "paragraph",
+      "text": "يشمل العقد ثابت السعر شبكة جيل خامس مدمجة في وحدة صغيرة، ثم تجربة طيران لشبكة سطحية متكاملة. تمتد أعمال المختبر من 1 أكتوبر 2026 إلى 31 يناير 2028، وأعمال التجربة القمرية من 30 نوفمبر 2026 إلى 31 ديسمبر 2028. هذه فترات تنفيذ تعاقدية وليست مواعيد إطلاق معلنة أو ضمانا لاتصال قاعدة دائمة عند نهايتها. [ناسا: إعلان العقد في 30 سبتمبر 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ناسا هي العميل، وغلين المركز المحدد، وModulate Space الشركة المتعاقدة. يعرف الإشعار الاتحادي السابق الشركة باسم Modul8، وكانت سابقا وحدة Space Communication Solutions في نوكيا بيل لابز. تمثل مشاريع نوكيا السابقة خلفية تقنية، لكن ميزانياتها وشركاءها لا يصبحون تلقائيا جزءا من هذا العقد. لم يسم الإعلان جهة إطلاق أو مركبة هبوط للتجربة الجديدة. [SAM.gov: إشعار التعاقد للشبكة القمرية](https://sam.gov/opp/c776cb855f5b4e8db923aecf80779810/view) [ناسا: إعلان العقد في 30 سبتمبر 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)"
+    },
+    {
+      "type": "heading",
+      "text": "شبكة صغيرة على أرض واسعة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تجمع الشبكة المدمجة الوظائف اللازمة لتشغيل شبكة خلوية خاصة. بدلا من تخصيص اتصال مستقل بالأرض لكل جهاز قريب، يمكن للأجهزة تبادل البيانات محليا وتجميعها في وصلة مشتركة. تتعامل أبحاث ناسا مع الاتصال الخلوي وواي فاي بوصفهما عنصرين متكاملين. [ناسا: دراسة منصة GEM للاتصالات](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ستكون أجهزة البدلات والمركبات والمعدات العلمية مستخدمي الشبكة. قد تستضيف مركبة هبوط أو عربة معداتها، وقد يحتاج وجود أوسع إلى منشآت ثابتة. هذه أفكار معمارية وليست خريطة نهائية لأبراج قمرية. تتيح المعالجة المحلية تبادل المعلومات دون تمرير كل تفاعل قريب عبر الأرض. [ناسا جونسون: تجارب الاتصال على الأرض](https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/) [ناسا: دراسة منصة GEM للاتصالات](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "الفرق بين الجيل الخامس وواي فاي 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "ينتمي الجيل الخامس إلى معايير الاتصال الخلوي التي يطورها 3GPP. تدرسه الأبحاث القمرية للتنقل وتغطية سطحية أوسع. يرتبط واي فاي 6 بمعيار IEEE 802.11ax للشبكات المحلية اللاسلكية، ويوفر طريقة أخرى لربط الأجهزة القريبة. لا يضمن أي اسم بمفرده مدى أو متانة أو سرعة على القمر. [ناسا غلين: أبحاث الجيل الخامس القمري](https://www.nasa.gov/glenn/glenn-expertise-space-exploration/scan/lunar-5g/) [IEEE: معيار 802.11ax وواي فاي 6](https://standards.ieee.org/ieee/802.11ax/7180/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تختلف احتياجات معدات المسكن عن عربة تجوب التضاريس. تحدد مواضع الهوائيات والترددات والعوائق والطاقة وتصميم الأجهزة الأداء. لا تثبت السرعات القصوى المعلنة على الأرض سرعات قمرية مضمونة. يمكن للتقنيتين التعايش بدلا من إحلال إحداهما محل الأخرى. [ناسا: دراسة منصة GEM للاتصالات](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "الأرض تبقى على بعد أكثر من ثانية"
+    },
+    {
+      "type": "paragraph",
+      "text": "لن يرسل برج قمري ببساطة إشارة هاتف عادية مباشرة إلى جهاز على الأرض. تحتاج الشبكة السطحية إلى وصلة فضائية مستقلة، مباشرة أو عبر مرحلات مناسبة. الاتصال بين الجيران ونقل بياناتهم عبر الفضاء مهمتان مختلفتان. [ناسا: دراسة منصة GEM للاتصالات](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يحتاج الضوء إلى نحو 1.3 ثانية للانتقال بين الأرض والقمر في اتجاه واحد. يبدأ الذهاب والعودة إذن عند نحو 2.6 ثانية قبل تأخر المعالجة والشبكات. لا تلغي سرعة الأجهزة المحلية هذا الحد الفيزيائي. يجب أن تراعيه المحادثات والتحكم الأرضي والتطبيقات، ولا يمكن ربط قرار سلامة فوري برد أرضي لحظي. [ناسا: تأخر الاتصال بالقمر والمريخ](https://science.nasa.gov/wp-content/uploads/2023/05/188_fed0ad8278e728107533d509b24dc68b_SmithsimmonsDrew.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "ما الذي أثبتته التجارب؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "اختبر مركز جونسون نماذج أرضية تنقل الفيديو والصوت والقياسات عبر شبكة خاصة من الجيل الخامس إلى مركز تحكم محاكى. تدرس التجارب الميدانية التنقل والبرمجيات. وتجمع منصة GEM في غلين أجهزة لاسلكية حقيقية وظروف انتشار ممثلة بالحاسوب. هذه تجارب على الأرض وليست إثباتا لخدمة مستمرة على القمر. [ناسا جونسون: تجارب الاتصال على الأرض](https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/) [ناسا: دراسة منصة GEM للاتصالات](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf) [ناسا: اختبارات الاتصال الميدانية](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-lunar-communications-network-in-lava-field/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "توضح مهمة IM-2 حدا مهما. وصلت معدات نوكيا 4G/LTE إلى سطح القمر في مارس 2025 على مركبة أثينا التابعة لإنتويتيف ماشينز. أعلنت نوكيا تشغيل المعدات 25 دقيقة وإرسال قياسات إلى الأرض، لكنها لم تنجز أول اتصال خلوي: حالت قيود الطاقة والبرد دون الاتصال المقصود بين الجهاز والشبكة. البيانات المرسلة عبر وصلة المركبة الأرضية ليست ذلك الاتصال الخلوي. [نوكيا: نتائج مهمة IM-2 في 2025](https://www.nokia.com/newsroom/nokia-and-intuitive-machines-deliver-first-cellular-network-to-the-moon-achieve-some-key-mission-objectives/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "كانت تلك تجربة سابقة للجيل الرابع، وليست إتماما لعقد الجيل الخامس الجديد. عند التحقق في 7 أكتوبر، يبقى المشروع برنامجا للتطوير والتجارب. لا يقدم الإعلان دليلا على شبكة قمرية من الجيل الخامس تعمل بالفعل. [ناسا: إعلان العقد في 30 سبتمبر 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/) [نوكيا: نتائج مهمة IM-2 في 2025](https://www.nokia.com/newsroom/nokia-and-intuitive-machines-deliver-first-cellular-network-to-the-moon-achieve-some-key-mission-objectives/)"
+    },
+    {
+      "type": "heading",
+      "text": "القمر ليس موقع اتصالات أرضيا"
+    },
+    {
+      "type": "paragraph",
+      "text": "تعقد الإشعاعات والفراغ والتغيرات الحرارية تصميم الإلكترونيات. تصف ناسا حرارة سطحية تصل إلى نحو 127 درجة مئوية تحت الشمس وتنخفض إلى نحو −173 في الظلام، مع مناطق مظللة أبرد. هذه أمثلة بيئية وليست نطاق التشغيل المعتمد للمعدات المتعاقد عليها. [ناسا: حقائق البيئة القمرية](https://science.nasa.gov/moon/facts/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن للغبار القمري الكاشط التأثير في الآليات والأسطح. لذلك تتطلب الوصلات وآليات النشر والحماية الحرارية عناية. لا تحاكي تجربة مختبرية نظيفة كل آثار التعرض المتكرر للغبار. [ناسا: مخاطر الغبار القمري](https://www.nasa.gov/humans-in-space/dust-an-out-of-this-world-problem/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "التضاريس والطاقة حاسمتان أيضا. قد تقطع المرتفعات وجدران الفوهات مسارات الإشارة. يعقد انخفاض الشمس والظل الطويل عند القطب الجنوبي التوليد الشمسي والبقاء الحراري. يجب تنسيق مواضع الشبكة مع الطاقة ومسارات الاستكشاف. أظهرت IM-2 أن جهازا يعمل قد يفقد مهمته حين تتعطل هذه الشروط. [ناسا: بيئة القطب الجنوبي للقمر](https://www.nasa.gov/reference/moonbase-environment/) [نوكيا: نتائج مهمة IM-2 في 2025](https://www.nokia.com/newsroom/nokia-and-intuitive-machines-deliver-first-cellular-network-to-the-moon-achieve-some-key-mission-objectives/)"
+    },
+    {
+      "type": "heading",
+      "text": "أرتميس والعلم والقاعدة المستقبلية"
+    },
+    {
+      "type": "paragraph",
+      "text": "الهدف العملي نشاط سطحي مستمر: رواد يتعاونون مع المركبات، وأجهزة ترسل قياساتها، وفرق علمية تحصل على سياق أغنى. قد تقلل الشبكة المحلية ترتيبات الاتصال المنعزلة وتدعم بنية مشتركة مع اتساع النشاط. تأتي أبحاث Lunar 5G ضمن التحضير لعمليات أرتميس. [ناسا غلين: أبحاث الجيل الخامس القمري](https://www.nasa.gov/glenn/glenn-expertise-space-exploration/scan/lunar-5g/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "الأداء المفيد أكثر من سرعة تنزيل قصوى. تهم التغطية المتوقعة وكفاءة الطاقة ووصول معلومات تختلف أولوياتها. فيديو الكاميرا ورسالة السلامة ليسا متكافئين. يرى تحليل PRESDA أن الاختبار الحقيقي هو دعم العمليات بموثوقية، وليس مجرد إرسال ناجح في ظروف مواتية. [ناسا: دراسة منصة GEM للاتصالات](https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "دروس محتملة للمريخ"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يتيح القمر اختبار تصميم الشبكات والتنقل والاستقلالية قبل رحلات أبعد. تشير ناسا صراحة إلى دروس ذات صلة بالمريخ. هذا انتقال محتمل للمعرفة، لا إعلان شبكة مريخية أو وعد بإعادة استخدام المعدات دون تعديل. [ناسا جونسون: تجارب الاتصال على الأرض](https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "على المريخ، يتراوح التأخر في اتجاه واحد بين عدة دقائق وأكثر من عشرين دقيقة بحسب مواقع الكواكب. تزداد أهمية التنسيق المحلي. يناقش [تقريرنا عن التحديات الهندسية للطموحات المريخية](/articles/elon-mars-signal/) الفرق بين التصور والقدرات المثبتة. [ناسا: تأخر الاتصال بالقمر والمريخ](https://science.nasa.gov/wp-content/uploads/2023/05/188_fed0ad8278e728107533d509b24dc68b_SmithsimmonsDrew.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "الأدلة التالية المنتظرة"
+    },
+    {
+      "type": "paragraph",
+      "text": "ستكون نتائج المختبر، وترتيبات الطيران المؤكدة، والتأهيل البيئي، واتصالات حقيقية بين مستخدمين على السطح خطوات حاسمة. لا تحدد فترات العقد تاريخ النشر أو مساحة التغطية أو توافر الخدمة أو تكلفة تشغيلها النهائية. [ناسا: إعلان العقد في 30 سبتمبر 2026](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تريد ناسا ربط القمر لأن زيادة الاستكشاف تتطلب تعاون أشخاص وآلات وأجهزة أكثر. أصبح للطموح عقد، لكن الشبكة لا تزال تحتاج إلى التطوير والاختبار والإثبات في مكان استخدامها."
+    },
+    {
+      "type": "paragraph",
+      "text": "الصورة الرئيسية رسم تصوري مولد بالذكاء الاصطناعي. رائد الفضاء والمعدات التي تحمل شعار ناسا عناصر فنية، وليست صورة لمهمة حقيقية أو للأجهزة المشمولة بالعقد."
+    }
+  ],
+  "sources": [
+    {
+      "label": "ناسا: إعلان العقد في 30 سبتمبر 2026",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+    },
+    {
+      "label": "SAM.gov: إشعار التعاقد للشبكة القمرية",
+      "url": "https://sam.gov/opp/c776cb855f5b4e8db923aecf80779810/view"
+    },
+    {
+      "label": "ناسا غلين: أبحاث الجيل الخامس القمري",
+      "url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/scan/lunar-5g/"
+    },
+    {
+      "label": "ناسا جونسون: تجارب الاتصال على الأرض",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/"
+    },
+    {
+      "label": "نوكيا: نتائج مهمة IM-2 في 2025",
+      "url": "https://www.nokia.com/newsroom/nokia-and-intuitive-machines-deliver-first-cellular-network-to-the-moon-achieve-some-key-mission-objectives/"
+    },
+    {
+      "label": "ناسا: دراسة منصة GEM للاتصالات",
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/02/lunar-3gpp-gem-paper-rev3-1.pdf"
+    },
+    {
+      "label": "IEEE: معيار 802.11ax وواي فاي 6",
+      "url": "https://standards.ieee.org/ieee/802.11ax/7180/"
+    },
+    {
+      "label": "ناسا: حقائق البيئة القمرية",
+      "url": "https://science.nasa.gov/moon/facts/"
+    },
+    {
+      "label": "ناسا: مخاطر الغبار القمري",
+      "url": "https://www.nasa.gov/humans-in-space/dust-an-out-of-this-world-problem/"
+    },
+    {
+      "label": "ناسا: بيئة القطب الجنوبي للقمر",
+      "url": "https://www.nasa.gov/reference/moonbase-environment/"
+    },
+    {
+      "label": "ناسا: تأخر الاتصال بالقمر والمريخ",
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/05/188_fed0ad8278e728107533d509b24dc68b_SmithsimmonsDrew.pdf"
+    },
+    {
+      "label": "ناسا: اختبارات الاتصال الميدانية",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-lunar-communications-network-in-lava-field/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل تعمل شبكة قمرية من الجيل الخامس الآن؟",
+      "answer": "يمول العقد الجديد التطوير والتجارب وليس خدمة تعمل بالفعل. لم تنجز تجربة معدات الجيل الرابع في 2025 الاتصال الخلوي المقصود."
+    },
+    {
+      "question": "متى تجري التجربة القمرية؟",
+      "answer": "تمتد فترة العمل التعاقدية من 30 نوفمبر 2026 إلى 31 ديسمبر 2028، وليست موعد إطلاق مؤكدا."
+    },
+    {
+      "question": "هل يزيل الجيل الخامس تأخر الاتصال بالأرض؟",
+      "answer": "لا. يحتاج الضوء إلى نحو 1.3 ثانية في اتجاه واحد بين الأرض والقمر. لا تلغي الشبكات المحلية هذا الحد الفيزيائي."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "ناسا",
+    "gold": "الجيل الخامس"
+  },
+  "readingTimeMinutes": 7
+}
