@@ -14,6 +14,7 @@ import { SeoulGraphics } from "@/components/SeoulGraphics";
 import { ChinaRoboticsGraphics } from "@/components/ChinaRoboticsGraphics";
 import { DeLaFuenteTimeline } from "@/components/DeLaFuenteTimeline";
 import { OctopusMindGraphic } from "@/components/OctopusMindGraphic";
+import { IndusValleyGraphics } from "@/components/IndusValleyGraphics";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
 import type { Locale } from "@/lib/i18n/routing";
@@ -302,6 +303,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "indus-valley-civilization-cities-script-decline" && (originalIndex === 4 || originalIndex === 12)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><IndusValleyGraphics locale={locale} kind={originalIndex === 4 ? "timeline" : "cities"} /></div>;
+              }
               if (article.slug === "octopus-mind-intelligence-brain-eight-arms" && originalIndex === 4) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><OctopusMindGraphic locale={locale} /></div>;
               }
