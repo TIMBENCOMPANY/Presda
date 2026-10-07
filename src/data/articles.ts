@@ -1,3 +1,4 @@
+import { bradleyGigiArticle } from "@/data/bradleyGigiArticle";
 import { beforeReligionArticle } from "@/data/beforeReligionArticle";
 import { octopusMindArticle } from "@/data/octopusMindArticle";
 import { kimLewisArticle } from "@/data/kimLewisArticle";
@@ -35611,7 +35612,8 @@ export const articles: Article[] = [
   byzantineShipwreckArticle,
   kimLewisArticle,
   octopusMindArticle,
-  beforeReligionArticle
+  beforeReligionArticle,
+  bradleyGigiArticle
 ];
 
 export const categories: ArticleCategory[] = [

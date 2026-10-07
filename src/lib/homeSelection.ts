@@ -4,24 +4,24 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Homepage editorial placements only. Category selections remain independent.
 export const homeHeroSlugs = [
-  "lionel-messi-last-dance-argentina-farewell",
+  "bradley-cooper-gigi-hadid-paris-marriage-speculation",
+  "paramount-warner-bros-110-billion-hollywood-deal",
+  "tom-cruise-digger-box-office-opening-losses",
+  "saudi-arabia-gulf-cup-27-champions",
   "casablanca-madrid-2030-world-cup-final",
-  "angelina-jolie-ukraine-2026-humanitarian-work",
-  "anne-hathaway-baby-bump-verity-premiere-2026",
-  "rihanna-barbados-music-fenty-beauty-empire",
+  "meta-ray-ban-privacy-europe",
+  "angela-merkel-freedom-memoir-million-copies",
+  "barack-obama-after-white-house-life-2026",
+  "byd-overtakes-tesla-annual-bev-sales",
+  "from-ai-to-si-super-intelligence-trump-musk",
   "luis-de-la-fuente-ucam-honorary-doctorate",
-  "taylor-swift-spotify-records-2026-patient-zero",
-  "jim-carrey-marries-min-ah-private-los-angeles-ceremony",
-  "de-extinction-bringing-extinct-animals-back-science",
-  "human-family-tree-human-evolution-species",
-  "jerusalem-3000-years-kingdoms-faith-conquest",
-  "greenland-world-powers-arctic-island"
+  "anne-hathaway-baby-bump-verity-premiere-2026"
 ] as const;
 
 export const homeSideSlugs = [
-  "self-driving-trucks-future-truck-drivers",
-  "illuminati-secret-society-real-history-myth",
-  "area-51-aliens-myth-reality-secret-aircraft"
+  "de-extinction-bringing-extinct-animals-back-science",
+  "brain-drain-why-skilled-workers-leave-home",
+  "morocco-history-dynasties-kingdom-independence"
 ] as const;
 
 export function selectHomeArticles(articles: readonly Article[], now: Date, locale: Locale = "en", translations: readonly Translation[] = []) {
