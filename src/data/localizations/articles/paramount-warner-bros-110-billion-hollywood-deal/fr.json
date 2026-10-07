@@ -5,18 +5,18 @@
   "kind": "article",
   "status": "published",
   "review": {
-    "reviewer": "Codex fr editorial and source-parity review",
-    "reviewedAt": "2026-10-04",
+    "reviewer": "Codex fr editorial and closing-filing review",
+    "reviewedAt": "2026-10-07",
     "terminologyChecked": true
   },
-  "title": "Paramount + Warner Bros. : la méga-opération à 110 milliards de dollars qui redessine Hollywood",
+  "title": "HOLLYWOOD A UN NOUVEAU GÉANT : PARAMOUNT ET WARNER BROS NE FONT PLUS QU’UN",
   "headlineHighlights": {
-    "red": "Paramount + Warner Bros.",
-    "gold": "110 milliards de dollars"
+    "red": "HOLLYWOOD A UN NOUVEAU GÉANT",
+    "gold": "PARAMOUNT ET WARNER BROS"
   },
-  "seoTitle": "Paramount et Warner Bros. : comprendre le rachat à 110 milliards",
-  "description": "Le rachat de Warner Bros. par Paramount devrait être finalisé le 6 octobre 2026. Direction de Skydance, dette, économies et conséquences pour le public.",
-  "excerpt": "Deux géants de Hollywood s’apprêtent à se rapprocher. Avec une finalisation attendue le 6 octobre, le futur groupe Skydance devra concilier taille, dette, création et indépendance éditoriale.",
+  "seoTitle": "Paramount et Warner Bros réunis : comprendre Skydance",
+  "description": "Le rachat de Warner Bros. Discovery a été finalisé le 6 octobre. Actionnariat, financement, studios et projets pour HBO Max et Paramount+ expliqués.",
+  "excerpt": "Le rachat de Warner Bros. Discovery a été finalisé le 6 octobre. Actionnariat, financement, studios et projets pour HBO Max et Paramount+ expliqués.",
   "keywords": [
     "Paramount",
     "Warner Bros. Discovery",
@@ -26,29 +26,25 @@
     "Ynon Kreiz",
     "streaming"
   ],
-  "searchIntent": "Comprendre les modalités, le calendrier et les conséquences du rachat de Warner Bros. Discovery par Paramount.",
+  "searchIntent": "Le rachat de Warner Bros. Discovery a été finalisé le 6 octobre. Actionnariat, financement, studios et projets pour HBO Max et Paramount+ expliqués.",
   "faq": [
     {
-      "question": "Le rachat de Warner Bros. Discovery par Paramount est-il finalisé ?",
-      "answer": "Non. Au 4 octobre 2026, les entreprises prévoient une finalisation le 6 octobre, sous réserve des conditions habituelles de clôture."
+      "question": "Le rachat de Warner Bros. par Paramount est-il finalisé ?",
+      "answer": "Oui. Il a été finalisé le 6 octobre 2026. Warner Bros. Discovery est devenue une filiale à 100 % de Skydance Corporation."
     },
     {
-      "question": "Que comprend la valorisation de 110 milliards de dollars ?",
-      "answer": "Il s’agit de la valeur d’entreprise annoncée, dette comprise. La valeur des capitaux propres est d’environ 81 milliards de dollars, avec 31 dollars par action en numéraire et le supplément applicable lié au calendrier."
+      "question": "Qui contrôle le nouveau groupe ?",
+      "answer": "La famille Ellison et RedBird détiennent tous les droits de vote. David Ellison est président du conseil et directeur général, avec Ynon Kreiz comme codirecteur général."
     },
     {
-      "question": "Qui dirigera le groupe issu du rapprochement ?",
-      "answer": "La société mère prévue est Skydance Corporation. David Ellison sera président du conseil et directeur général, avec Ynon Kreiz comme codirecteur général à la finalisation."
-    },
-    {
-      "question": "Les abonnements HBO Max et Paramount+ changeront-ils immédiatement ?",
-      "answer": "Un propriétaire commun ne détermine pas à lui seul les tarifs, les offres groupées ou la disponibilité des programmes. Ces éléments dépendent des choix de produits, des droits et des plans d’intégration."
+      "question": "HBO Max et Paramount+ sont-ils déjà un seul service ?",
+      "answer": "Un service unique est prévu à terme. Le changement de propriétaire ne signifie pas que la migration des produits ou les nouveaux tarifs sont finalisés."
     }
   ],
   "category": "Business",
   "author": "PRESDA Editorial",
-  "publishedAt": "2026-10-04",
-  "updatedAt": "2026-10-04",
+  "publishedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "image": {
     "src": "/articles/paramount-warner-hollywood-dusk.png",
     "alt": "Composition illustrative des emblèmes des studios Paramount et Warner Bros., avec le panneau Hollywood au crépuscule"
@@ -56,173 +52,141 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "Les portes des studios de Hollywood symbolisent des univers concurrents : des vedettes, des franchises et des dirigeants différents, qui décident quelles histoires verront le jour. Le projet de rachat de Warner Bros. Discovery par Paramount Skydance réunirait deux de ces univers sous une même société mère. Ses conséquences dépassent largement un changement de nom : elles touchent à l’économie du streaming, du cinéma et de l’information télévisée."
+      "text": "Le dernier grand rapprochement de Hollywood est finalisé. Paramount a achevé le rachat de Warner Bros. Discovery le 6 octobre 2026. La société mère s’appelle désormais Skydance Corporation, dont WBD est une filiale à 100 %. Le changement de propriétaire est effectif. [Formulaire 8-K de finalisation](https://ir.paramount.com/static-files/7794ee1d-aac9-40d1-8d9b-9716b2cab799)"
     },
     {
       "type": "paragraph",
-      "text": "À la publication de cet article, le 4 octobre 2026, le rachat n’est pas finalisé. Les entreprises prévoient sa réalisation le 6 octobre, sous réserve des conditions habituelles de clôture. La distinction est essentielle : les avancées réglementaires et les annonces de financement ne constituent pas un transfert de propriété achevé. [Paramount et WBD : date de finalisation attendue, 30 septembre 2026](https://ir.paramount.com/news-releases/news-release-details/paramount-skydance-and-warner-bros-discovery-announce/)"
+      "text": "La montagne et le bouclier relèvent désormais de la même direction. Cinéma, télévision, streaming, information et sport se retrouvent dans un seul groupe. Cela ne signifie ni la disparition des identités des studios Paramount et Warner Bros., ni la fusion immédiate de tous leurs services."
     },
     {
       "type": "heading",
-      "text": "CE QUE REPRÉSENTENT LES 110 MILLIARDS DE DOLLARS"
+      "text": "UNE SOCIÉTÉ MÈRE, DE NOMBREUSES MARQUES"
     },
     {
       "type": "paragraph",
-      "text": "L’opération convenue valorise Warner Bros. Discovery à environ 110 milliards de dollars, dette comprise, pour une valeur des capitaux propres de 81 milliards. Les actionnaires doivent recevoir 31 dollars par action en numéraire, auxquels s’ajoute le supplément applicable à la période postérieure au 30 septembre. La valeur d’entreprise et le montant attribué aux actions sont deux mesures distinctes, et non deux estimations contradictoires. [SEC : annonce du rachat et modalités financières, 27 février 2026](https://www.sec.gov/Archives/edgar/data/2041610/000110465926021911/tm2533570d75_ex99-1.htm)"
+      "text": "Le portefeuille comprend Paramount Pictures, Warner Bros., New Line et DC Studios ; HBO et HBO Max ; Paramount+ et Pluto TV ; CBS et CNN ; ainsi que Nickelodeon, MTV, Discovery, HGTV et Cartoon Network. La production côtoie abonnements, publicité et licences. [SEC : accord et portefeuille](https://www.sec.gov/Archives/edgar/data/2041610/000110465926021911/tm2533570d75_ex99-1.htm)"
     },
     {
       "type": "paragraph",
-      "text": "Cette ampleur place le rapprochement parmi les plus grandes consolidations de Hollywood. Au-delà du prix, l’essentiel est la réunion de métiers : production cinématographique, télévision, abonnements, publicité et distribution appartiendraient à un ensemble beaucoup plus vaste. Acquérir cette puissance n’est qu’une première étape. La faire fonctionner sans affaiblir les actifs achetés sera plus difficile."
+      "text": "HBO est une marque de programmes et une activité de télévision premium ; HBO Max est un service de streaming. CBS couvre notamment la diffusion, l’information et le sport. Changer de société mère ne transforme donc pas automatiquement une chaîne, un abonnement ou un contrat de droits."
     },
     {
       "type": "heading",
-      "text": "SKYDANCE : UNE NOUVELLE SOCIÉTÉ MÈRE, DES MARQUES CONNUES"
+      "text": "QUI CONTRÔLE SKYDANCE ?"
     },
     {
       "type": "paragraph",
-      "text": "Le groupe issu du rapprochement doit porter le nom de Skydance. Une communication réglementaire du 2 octobre prévoit la dénomination juridique Skydance Corporation, qui devrait prendre effet le 6 octobre. Le changement de nom de la société mère ne doit pas être confondu avec la disparition des marques de studios ou de programmes. [Formulaire 8-K de Paramount : future dénomination Skydance, 2 octobre 2026](https://ir.paramount.com/static-files/194c9a4b-5d1a-488a-8304-a4eea2e98a18)"
+      "text": "L’annonce de finalisation présente la famille Ellison comme premier actionnaire économique. Avec RedBird, elle détient tous les droits de vote. Les nouveaux capitaux de catégorie B comprennent aussi PIF, L’IMAD, QIA et LionTree. Participation financière et pouvoir de vote sont distincts. [Skydance : annonce de finalisation](https://paramount.gcs-web.com/news-releases/news-release-details/paramount-completes-acquisition-warner-bros-discovery-creating)"
     },
     {
       "type": "paragraph",
-      "text": "Le portefeuille réunirait Warner Bros., HBO, HBO Max et CNN avec CBS, Paramount+ et Paramount Pictures. L’intérêt est clair : un vaste catalogue peut soutenir la fidélisation des abonnés, les licences et la publicité sur plusieurs supports. Cette diversité impose aussi de choisir où diffuser les programmes et quelles activités financer. [SEC : annonce du rachat et modalités financières, 27 février 2026](https://www.sec.gov/Archives/edgar/data/2041610/000110465926021911/tm2533570d75_ex99-1.htm)"
+      "text": "David Ellison est président du conseil et directeur général, avec Ynon Kreiz comme codirecteur général. Ellison supervise stratégie et orientation créative ; Kreiz gère opérations et intégration. Casey Bloys et JB Perrette dirigent le streaming. CNN et CBS News conservent des responsables éditoriaux distincts. [Skydance : direction](https://ir.skydance.com/news-releases/news-release-details/david-ellison-and-ynon-kreiz-announce-their-ceo-leadership-team)"
     },
     {
       "type": "heading",
-      "text": "DAVID ELLISON ET YNON KREIZ : STRATÉGIE ET INTÉGRATION"
+      "text": "LE PRIX ET LE FINANCEMENT FINAL"
     },
     {
       "type": "paragraph",
-      "text": "David Ellison doit diriger le groupe comme président du conseil et directeur général, avec Ynon Kreiz comme codirecteur général à la finalisation. Paramount indique que Kreiz prendra ses fonctions le 5 octobre et supervisera les opérations quotidiennes et l’intégration. Son expérience chez Mattel apporte un savoir-faire dans la transformation de marques établies en activités de divertissement. [SEC : nomination de Ynon Kreiz, 30 septembre 2026](https://www.sec.gov/Archives/edgar/data/2041610/000110465926112829/tm2626659d2_ex99-1.htm)"
+      "text": "L’accord annonçait environ 110 milliards de dollars de valeur d’entreprise, dette comprise, et 81 milliards de valeur des capitaux propres. Ce sont des références de valorisation, pas un chèque unique. La contrepartie finale atteint 31,01666668 dollars par action WBD éligible, supplément de délai inclus. La dernière séance WBD était le 5 octobre. [SEC : accord et portefeuille](https://www.sec.gov/Archives/edgar/data/2041610/000110465926021911/tm2533570d75_ex99-1.htm) [Nasdaq : contrepartie finale](https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2026-710)"
     },
     {
       "type": "paragraph",
-      "text": "Une direction à deux sera jugée sur son exécution, pas sur ses titres. Unifier la comptabilité, la technologie et les opérations commerciales est exigeant ; rapprocher des organisations créatives pose un autre problème. Un studio a besoin de discipline financière, mais les cinéastes et producteurs ont aussi besoin d’interlocuteurs clairement identifiés et de savoir que leurs projets ne disparaîtront pas dans une réorganisation."
+      "text": "À la finalisation, le groupe a annoncé 47 milliards de dollars de nouveaux capitaux de catégorie B à 12 dollars l’action. Le financement comprend aussi 41,4 milliards de dollars et 885 millions d’euros d’obligations garanties émises le 5 octobre, des emprunts et de la trésorerie, pour l’achat, le refinancement et les frais. [Skydance : annonce de finalisation](https://paramount.gcs-web.com/news-releases/news-release-details/paramount-completes-acquisition-warner-bros-discovery-creating) [Formulaire 8-K de finalisation](https://ir.paramount.com/static-files/7794ee1d-aac9-40d1-8d9b-9716b2cab799)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters évoquait environ 80 milliards de dollars de dette combinée attendue et un objectif de 6 milliards d’économies. Dette et valeur d’entreprise sont différentes. Les économies restent un objectif, pas un résultat acquis. Intérêts et coûts d’intégration rendent la génération de trésorerie déterminante. [Reuters : rapprochement finalisé](https://www.khaleejtimes.com/entertainment/paramount-warner-bros-merger-skydance-oct-6?amp=1)"
     },
     {
       "type": "heading",
-      "text": "POURQUOI LA BATAILLE ANTITRUST COMPTAIT"
+      "text": "UNE AUTORISATION APRÈS UNE BATAILLE CONCURRENTIELLE"
     },
     {
       "type": "paragraph",
-      "text": "L’autorisation fédérale n’a pas clos le débat. Reuters a rapporté en juin que le ministère américain de la Justice avait approuvé le rachat. Une coalition de 12 États menée par la Californie a poursuivi sa propre contestation, estimant qu’une concurrence réduite pourrait entraîner moins de productions et des prix plus élevés. Il s’agissait des arguments des États, et non d’une certitude sur les effets de la fusion dans chaque marché. [Reuters : autorisation fédérale au titre de la concurrence, juin 2026](https://www.investing.com/news/economy-news/us-justice-department-clears-paramounts-acquisition-of-warner-bros-4741136) [Procureur général de Californie : conditions de l’accord, 21 septembre 2026](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-warner-brosparamount-litigation)"
+      "text": "Le 30 septembre, une juge fédérale a approuvé la transaction judiciaire conclue avec 12 États menés par la Californie. Ceux-ci contestaient le rachat au nom de la concurrence. Cette décision a levé un obstacle majeur sans démontrer que toute inquiétude liée à la concentration avait disparu. [Reuters : accord judiciaire](https://www.marketscreener.com/news/us-judge-allows-paramount-to-close-warner-bros-acquisition-ce785ad3d88ff327)"
     },
     {
       "type": "paragraph",
-      "text": "Le 30 septembre, la juge fédérale Araceli Martínez-Olguín a approuvé l’accord conclu avec les États, levant cet obstacle à la finalisation, selon Reuters. Valider un compromis négocié ne revient pas à constater l’absence de risques liés à la concentration. Cela signifie que l’opération peut avancer dans le cadre juridique ainsi établi. [Reuters : approbation judiciaire de l’accord, 30 septembre 2026](https://www.marketscreener.com/news/us-judge-allows-paramount-to-close-warner-bros-acquisition-ce785ad3d88ff327)"
-    },
-    {
-      "type": "paragraph",
-      "text": "Le désaccord économique central est simple. La direction voit dans la taille un moyen de mieux affronter la concurrence. Les critiques redoutent moins d’acheteurs indépendants de créations et moins de fournisseurs concurrents. Les deux raisonnements portent sur le pouvoir de négociation, mais concernent des acteurs différents : le groupe qui cherche des abonnés, et les travailleurs, salles de cinéma et distributeurs qui négocient avec lui."
+      "text": "L’accord impose 30 sorties de films par an les deux premières années, puis 32 durant chacune des trois suivantes. Il prévoit un contrôle indépendant, des négociations séparées pour les chaînes câblées de base et un conseil d’indépendance éditoriale. Ces obligations restent à mettre en œuvre. [Procureur général de Californie : engagements](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-warner-brosparamount-litigation)"
     },
     {
       "type": "heading",
-      "text": "DES GARANTIES DONT IL FAUDRA ASSURER LE RESPECT"
+      "text": "LES CONSÉQUENCES POUR LE CINÉMA ET LA CRÉATION"
     },
     {
       "type": "paragraph",
-      "text": "L’accord prévoit des engagements de sorties cinématographiques sur cinq ans, des investissements supplémentaires dans la production américaine, des négociations séparées pour les chaînes câblées de base des deux groupes et un conseil destiné à protéger l’indépendance éditoriale de CNN et CBS. Il prévoit aussi un contrôle indépendant du respect des engagements. Ce sont des obligations à mettre en œuvre, pas des bénéfices déjà obtenus. [Procureur général de Californie : conditions de l’accord, 21 septembre 2026](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-warner-brosparamount-litigation)"
+      "text": "Le groupe s’est engagé sur une fenêtre minimale de 45 jours en salles. C’est un engagement de distribution, pas une garantie de succès. Les exploitants ont besoin de sorties ; les cinéastes jugeront les commandes, les budgets et les décisions concrètes du nouvel ensemble. [SEC : accord et portefeuille](https://www.sec.gov/Archives/edgar/data/2041610/000110465926021911/tm2533570d75_ex99-1.htm)"
     },
     {
       "type": "paragraph",
-      "text": "Le véritable test sera ce que ces garanties préserveront. Un quota de films ne mesure pas à lui seul la diversité artistique, et un conseil de surveillance ne remplace pas le jugement éditorial quotidien. Public et professionnels devront examiner les sorties effectives, les commandes et l’indépendance des rédactions, parallèlement au respect des engagements écrits."
+      "text": "Analyse de PRESDA : la taille peut mutualiser les coûts techniques et marketing, mais la concentration supprime aussi un acheteur indépendant de créations. Un quota de sorties ne mesure pas à lui seul la diversité ou le risque artistique. Emploi, dépenses de production et choix des films seront plus instructifs qu’un nouveau logo."
     },
     {
       "type": "heading",
-      "text": "PLUS DE 6 MILLIARDS D’ÉCONOMIES : UN OBJECTIF, PAS UNE TRÉSORERIE DISPONIBLE"
+      "text": "UN RIVAL RENFORCÉ FACE À NETFLIX, DISNEY ET AMAZON ?"
     },
     {
       "type": "paragraph",
-      "text": "Paramount vise plus de 6 milliards de dollars de synergies en rythme de croisière. L’annonce de l’opération cite notamment l’intégration technologique, les achats, l’immobilier et l’efficacité opérationnelle. Ces économies désignent un niveau récurrent attendu une fois les changements réalisés. Elles ne correspondent ni à des liquidités immédiatement disponibles ni à une amélioration garantie du bénéfice. [SEC : annonce du rachat et modalités financières, 27 février 2026](https://www.sec.gov/Archives/edgar/data/2041610/000110465926021911/tm2533570d75_ex99-1.htm) [SEC : nomination de Ynon Kreiz, 30 septembre 2026](https://www.sec.gov/Archives/edgar/data/2041610/000110465926112829/tm2626659d2_ex99-1.htm)"
+      "text": "Netflix, Disney et Amazon restent des concurrents majeurs pour l’attention, les abonnements, les talents et les droits. Skydance dispose désormais de davantage d’actifs. Cela ne lui garantit pas la première place partout : abonnés, rentabilité, audience publicitaire et résultats en salles mesurent des réalités différentes."
     },
     {
       "type": "paragraph",
-      "text": "Certains doublons peuvent disparaître sans modifier ce que regarde le public. D’autres économies peuvent exiger des choix difficiles sur les effectifs, le développement ou le marketing. L’intégration coûte elle-même de l’argent et mobilise les dirigeants. La question est de savoir si ces gains renforceront les activités ou réduiront la capacité créative qui fait leur valeur."
+      "text": "Le défi est de transformer un vaste catalogue en services que le public souhaite conserver. Mutualiser peut réduire les doublons, mais aussi détourner la direction et fragiliser des identités créatives. Pour déterminer ce que gagne ou perd le public, il faudra examiner tarifs, accès et production réels."
     },
     {
       "type": "heading",
-      "text": "ENVIRON 80 MILLIARDS DE DETTE CHANGENT L’ÉQUATION"
+      "text": "CE QUI CHANGE MAINTENANT ET CE QUI RESTE À FAIRE"
     },
     {
       "type": "paragraph",
-      "text": "Reuters indiquait le 24 septembre que le groupe devrait supporter environ 80 milliards de dollars de dette après la finalisation. Il s’agit d’une projection, et non du bilan définitif à la clôture. Paramount a ensuite annoncé, le 30 septembre, les conditions d’importants financements obligataires et bancaires, soulignant le poids du financement de l’opération. [Reuters : financement du rachat et dette prévue, 24 septembre 2026](https://www.investing.com/news/stock-market-news/paramount-seeks-75-billion-debt-raise-to-fund-warner-bros-deal-4915684) [Paramount : conditions du financement par emprunt, 30 septembre 2026](https://ir.paramount.com/node/73371/pdf)"
+      "text": "L’actionnariat et la structure ont changé. L’intégration du streaming suit un autre calendrier : Skydance prévoit de réunir HBO Max et Paramount+ dans un service unique à terme. La finalisation ne fixe pas à elle seule une date mondiale, un prix définitif ou un catalogue identique pour tous. [Reuters : rapprochement finalisé](https://www.khaleejtimes.com/entertainment/paramount-warner-bros-merger-skydance-oct-6?amp=1)"
     },
     {
       "type": "paragraph",
-      "text": "La dette impose des décaissements récurrents. Un film à succès ou une série populaire peut aider au remboursement, mais la demande future du public ne se programme pas comme une échéance d’intérêts. Le groupe devra arbitrer entre investissement dans les contenus, dépenses d’intégration et désendettement. Les catalogues sont des atouts, mais posséder des titres célèbres ne garantit pas le succès de chaque nouveauté."
-    },
-    {
-      "type": "heading",
-      "text": "STREAMING : UN CATALOGUE PLUS VASTE NE SUFFIT PAS"
+      "text": "Les abonnés doivent suivre les communications de chaque service concernant facturation, comptes et disponibilité. Les licences existantes peuvent toujours déterminer où voir un programme. Les étapes décisives seront le calendrier produit, les offres précises, les économies réalisées et le respect des engagements cinématographiques."
     },
     {
       "type": "paragraph",
-      "text": "Réunir HBO Max et Paramount+ sous un même propriétaire ouvrirait des possibilités d’offres groupées, de technologies communes et de promotion croisée. Cela ne rendrait pas automatiquement tous les titres disponibles dans un abonnement unique, dans tous les pays, dès la clôture. Les contrats de droits, les choix de produits et les plans d’intégration détermineront l’offre réelle."
+      "text": "Le rapprochement est achevé ; son fonctionnement reste à construire. Retrouvez nos analyses du pouvoir économique et de ses conséquences dans [PRESDA Business](/category/business/)."
     },
     {
       "type": "paragraph",
-      "text": "Pour les consommateurs, les questions sont concrètes : combien coûtera une formule adaptée, quelle place prendra la publicité et quels programmes resteront disponibles ? Un service élargi pourrait être pratique. Une concurrence moins forte pourrait aussi réduire l’incitation à maintenir des prix attractifs. Ni des abonnements moins chers ni des hausses immédiates ne doivent être présentés comme des conséquences déjà acquises."
-    },
-    {
-      "type": "heading",
-      "text": "CINÉMA, TÉLÉVISION ET INFORMATION : TROIS TESTS DISTINCTS"
-    },
-    {
-      "type": "paragraph",
-      "text": "Pour le cinéma, il faudra observer la diversité des films en salles, pas seulement les logos d’une présentation d’entreprise. Pour la télévision, il faudra voir si les producteurs indépendants disposent encore de véritables alternatives lorsqu’ils proposent une série. Un propriétaire plus puissant pourrait financer des projets ambitieux, mais moins de centres de décision pourraient limiter les chemins par lesquels les idées nouvelles atteignent le public."
-    },
-    {
-      "type": "paragraph",
-      "text": "L’information soulève une question supplémentaire : l’indépendance éditoriale relève autant de l’intérêt général que de l’entreprise. Les dispositifs de surveillance prévus pour CNN et CBS méritent attention, mais leur crédibilité dépendra de la pratique. La concentration de la propriété doit être analysée sans spéculations infondées sur ce que chaque journaliste rapportera."
-    },
-    {
-      "type": "heading",
-      "text": "CE QU’IL FAUDRA OBSERVER APRÈS LA FINALISATION ATTENDUE"
-    },
-    {
-      "type": "paragraph",
-      "text": "Il faudra d’abord confirmer que l’opération est effectivement achevée. Ensuite, les éléments utiles seront précis : calendrier d’intégration, économies réalisées, informations sur la dette, programmes de sorties et évolution des offres. Annoncer un très grand groupe est plus facile que démontrer que sa taille améliore l’expérience du public."
-    },
-    {
-      "type": "paragraph",
-      "text": "Situation au 4 octobre 2026 : l’opération reste en attente, avec une finalisation prévue le 6 octobre sous réserve des conditions habituelles. Cet article analyse l’accord annoncé et ses conséquences possibles ; il ne décrit pas une fusion déjà réalisée. [Paramount et WBD : date de finalisation attendue, 30 septembre 2026](https://ir.paramount.com/news-releases/news-release-details/paramount-skydance-and-warner-bros-discovery-announce/)"
+      "text": "Première publication le 4 octobre 2026. Article largement réécrit après la finalisation du 6 octobre et vérifié le 7 octobre. URL et illustration éditoriale conservées."
     }
   ],
   "sources": [
     {
-      "label": "Paramount et WBD : date de finalisation attendue, 30 septembre 2026",
-      "url": "https://ir.paramount.com/news-releases/news-release-details/paramount-skydance-and-warner-bros-discovery-announce/"
+      "label": "Formulaire 8-K de finalisation",
+      "url": "https://ir.paramount.com/static-files/7794ee1d-aac9-40d1-8d9b-9716b2cab799"
     },
     {
-      "label": "SEC : annonce du rachat et modalités financières, 27 février 2026",
+      "label": "Skydance : annonce de finalisation",
+      "url": "https://paramount.gcs-web.com/news-releases/news-release-details/paramount-completes-acquisition-warner-bros-discovery-creating"
+    },
+    {
+      "label": "SEC : accord et portefeuille",
       "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926021911/tm2533570d75_ex99-1.htm"
     },
     {
-      "label": "Formulaire 8-K de Paramount : future dénomination Skydance, 2 octobre 2026",
-      "url": "https://ir.paramount.com/static-files/194c9a4b-5d1a-488a-8304-a4eea2e98a18"
+      "label": "Nasdaq : contrepartie finale",
+      "url": "https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2026-710"
     },
     {
-      "label": "SEC : nomination de Ynon Kreiz, 30 septembre 2026",
-      "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926112829/tm2626659d2_ex99-1.htm"
+      "label": "Skydance : direction",
+      "url": "https://ir.skydance.com/news-releases/news-release-details/david-ellison-and-ynon-kreiz-announce-their-ceo-leadership-team"
     },
     {
-      "label": "Reuters : autorisation fédérale au titre de la concurrence, juin 2026",
-      "url": "https://www.investing.com/news/economy-news/us-justice-department-clears-paramounts-acquisition-of-warner-bros-4741136"
+      "label": "Reuters : rapprochement finalisé",
+      "url": "https://www.khaleejtimes.com/entertainment/paramount-warner-bros-merger-skydance-oct-6?amp=1"
     },
     {
-      "label": "Reuters : approbation judiciaire de l’accord, 30 septembre 2026",
+      "label": "Reuters : accord judiciaire",
       "url": "https://www.marketscreener.com/news/us-judge-allows-paramount-to-close-warner-bros-acquisition-ce785ad3d88ff327"
     },
     {
-      "label": "Procureur général de Californie : conditions de l’accord, 21 septembre 2026",
+      "label": "Procureur général de Californie : engagements",
       "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-warner-brosparamount-litigation"
-    },
-    {
-      "label": "Reuters : financement du rachat et dette prévue, 24 septembre 2026",
-      "url": "https://www.investing.com/news/stock-market-news/paramount-seeks-75-billion-debt-raise-to-fund-warner-bros-deal-4915684"
-    },
-    {
-      "label": "Paramount : conditions du financement par emprunt, 30 septembre 2026",
-      "url": "https://ir.paramount.com/node/73371/pdf"
     }
   ]
 }
