@@ -13,6 +13,7 @@ import { EstoniaGraphics } from "@/components/EstoniaGraphics";
 import { SeoulGraphics } from "@/components/SeoulGraphics";
 import { ChinaRoboticsGraphics } from "@/components/ChinaRoboticsGraphics";
 import { DeLaFuenteTimeline } from "@/components/DeLaFuenteTimeline";
+import { OctopusMindGraphic } from "@/components/OctopusMindGraphic";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
 import type { Locale } from "@/lib/i18n/routing";
@@ -301,6 +302,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "octopus-mind-intelligence-brain-eight-arms" && originalIndex === 4) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><OctopusMindGraphic locale={locale} /></div>;
+              }
               if (article.slug === "casablanca-madrid-2030-world-cup-final" && (originalIndex === 29 || originalIndex === 35)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WorldCup2030Graphics locale={locale} kind={originalIndex === 29 ? "compare" : "timeline"} /></div>;
               }

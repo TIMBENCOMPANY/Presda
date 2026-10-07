@@ -1,0 +1,275 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/octopus-mind-intelligence-brain-eight-arms/",
+  "path": "/es/articles/octopus-mind-intelligence-brain-eight-arms/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es editorial and source-parity review",
+    "reviewedAt": "2026-10-07",
+    "terminologyChecked": true
+  },
+  "title": "LA MENTE DEL PULPO: UNA INTELIGENCIA ÚNICA EN LA TIERRA",
+  "excerpt": "Cómo aprende el pulpo, percibe con sus brazos y controla su piel. La evidencia sobre memoria, herramientas, inteligencia distribuida y experiencia subjetiva.",
+  "seoTitle": "La inteligencia del pulpo: cerebro, ocho brazos y conciencia",
+  "description": "Cómo aprende el pulpo, percibe con sus brazos y controla su piel. La evidencia sobre memoria, herramientas, inteligencia distribuida y experiencia subjetiva.",
+  "keywords": [
+    "inteligencia del pulpo",
+    "cerebro del pulpo",
+    "pulpo nueve cerebros",
+    "conciencia del pulpo",
+    "herramientas pulpo"
+  ],
+  "searchIntent": "Cómo aprende el pulpo, percibe con sus brazos y controla su piel. La evidencia sobre memoria, herramientas, inteligencia distribuida y experiencia subjetiva.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-07",
+  "updatedAt": "2026-10-07",
+  "image": {
+    "src": "/articles/octopus-mind-sunlit-reef.png",
+    "alt": "Ilustración editorial de un pulpo entre arrecifes submarinos iluminados por el sol"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un brazo desaparece en una grieta del arrecife. Sus ventosas detectan una superficie y sustancias químicas, y ajustan el agarre. Otro brazo explora mientras los ojos vigilan el agua. Lo extraordinario no es solo la simultaneidad: buena parte del procesamiento nervioso ocurre fuera del cerebro central. [Distributed control · 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339708/) [Chemotactile sensing · Cell, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7605239/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inteligencia del pulpo no es una versión pequeña de la nuestra. Su conducta flexible surge de un cuerpo blando, ocho brazos sensibles y una notable división del trabajo nervioso. Los experimentos demuestran aprendizaje y manipulación adaptable. No establecen razonamiento humano ni revelan exactamente qué siente el animal. La imagen principal es una ilustración editorial. [Learning and memory · Biological Bulletin, 2006](https://www.journals.uchicago.edu/doi/full/10.2307/4134567) [Sentience assessment · Biological Reviews, 2026](https://onlinelibrary.wiley.com/doi/10.1002/brv.70125)"
+    },
+    {
+      "type": "heading",
+      "text": "UN ANIMAL, UN SISTEMA NERVIOSO DISTRIBUIDO"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cifra habitual de unos 500 millones de neuronas procede de estimaciones del pulpo común, Octopus vulgaris, no de todas las especies. Una revisión de 2022 recoge aproximadamente 170 millones en el cerebro central, incluidos los lóbulos ópticos, y 350 millones en el sistema periférico de los brazos. Son estimaciones redondeadas, resumidas como medio millardo. El número de neuronas no equivale a una puntuación de inteligencia. [Distributed control · 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339708/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cerebro central integra información y participa en la selección de conductas; los grandes lóbulos ópticos procesan la visión. Los cordones nerviosos axiales y sus circuitos asociados realizan mucho procesamiento sensorial y motor en los brazos. La información sigue circulando entre estos y el cerebro. El centro no necesita ordenar cada movimiento de ventosa, pero cada brazo tampoco es un animal independiente. [Distributed control · 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339708/)"
+    },
+    {
+      "type": "heading",
+      "text": "MITO Y REALIDAD: ¿NUEVE CEREBROS?"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Nueve cerebros” resulta memorable, pero es una descripción anatómica engañosa si se interpreta literalmente. Hay un cerebro central y abundantes circuitos nerviosos en ocho brazos. Los cordones no son ocho copias pequeñas del cerebro. La respuesta local y la coordinación no demuestran ocho mentes independientes. Lo relevante es cómo se combinan procesamiento local y control central. [Distributed control · 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339708/)"
+    },
+    {
+      "type": "heading",
+      "text": "OCHO BRAZOS QUE PERCIBEN AL MOVERSE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ventosas hacen más que adherirse. Estudios del pulpo de dos manchas de California identificaron células y receptores especializados en señales mecánicas y químicas. El contacto permite detectar compuestos poco solubles en el agua, útiles para reconocer alimento oculto u objetos inadecuados. “Saborear mediante el tacto” describe esa combinación sensorial, sin atribuirle sabores humanos. [Chemotactile sensing · Cell, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7605239/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un brazo se dobla, acorta y endurece sin articulaciones fijas. Esa libertad supone un enorme problema de control. La información local adapta la acción al entorno, pero la visión también interviene. En un laberinto de tres opciones de 2011, pulpos comunes aprendieron a dirigir un brazo hacia un compartimento señalado visualmente. El procesamiento periférico puede colaborar con la información central. [Visual arm maze · Current Biology, 2011](https://pubmed.ncbi.nlm.nih.gov/21396818/)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ DEMUESTRAN LOS LABERINTOS Y ROMPECABEZAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los experimentos documentan habituación, discriminación visual y táctil, aprendizaje asociativo y espacial. Habituarse es reducir la respuesta a un estímulo repetido e inocuo. Aprender asociaciones permite conectar señales o acciones con resultados. Son capacidades comprobables, más útiles que llamarlo genio. El sistema del lóbulo vertical también permite investigar mecanismos de aprendizaje y memoria en una organización distinta de la de los mamíferos. [Learning and memory · Biological Bulletin, 2006](https://www.journals.uchicago.edu/doi/full/10.2307/4134567)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2016, siete pulpos comunes afrontaron un dispositivo en forma de L con comida que debían manipular a través de una abertura. La tarea incorporaba dificultades crecientes, incluidos cambios de orientación. Los animales adaptaron sus movimientos en vez de repetir siempre el mismo tirón. Demuestra flexibilidad ante ese problema experimental, no comprensión humana de la geometría. [Puzzle experiment · PLOS ONE, 2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152048)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Abrir recipientes exige la misma cautela interpretativa. Los animales habían aprendido previamente a abrir la caja de alimento. Práctica, recompensa, experiencia y diseño importan. Una manipulación espectacular no demuestra por sí sola intuición, previsión ni capacidad universal para resolver acertijos. La muestra pequeña también limita la generalización a otras especies y poblaciones silvestres. [Puzzle experiment · PLOS ONE, 2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152048)"
+    },
+    {
+      "type": "heading",
+      "text": "UN CUERPO QUE CAMBIA DE ASPECTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El camuflaje conecta percepción y control motor. Órdenes nerviosas activan músculos alrededor de cromatóforos con pigmentos; estructuras reflectantes aportan efectos ópticos. Las papilas musculares modifican la textura cutánea. Color, contraste, postura y relieve ayudan a ocultarse o hacerse visible. Es control biológico de la piel, no una demostración de pintura consciente. [Camouflage control · Current Biology, 2023](https://doi.org/10.1016/j.cub.2023.08.095)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los patrones son disfraces. Investigaciones de campo en Octopus tetricus relacionaron patrones y posturas con enfrentamientos entre individuos. Los tonos oscuros se asociaron más con agresividad. Los resultados apoyan una función de señalización en esas interacciones, no un lenguaje. Tampoco permiten asignar a todos los pulpos la misma vida social ni interpretar cada color como una emoción humana. [Social signals · Current Biology, 2016](https://pubmed.ncbi.nlm.nih.gov/26832440/)"
+    },
+    {
+      "type": "heading",
+      "text": "CAZA, REFUGIOS Y HERRAMIENTAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cuerpo flexible permite explorar grietas inaccesibles para uno rígido. La caza puede incluir otras especies: un estudio de 2024 examinó grupos de Octopus cyanea y peces. Los participantes influían de distintas maneras en la exploración y el movimiento, y la composición afectaba a los resultados. Se observa coordinación; describirla como amistad o plan compartido añade interpretaciones innecesarias. [Octopus and fish hunting · Nature Ecology & Evolution, 2024](https://www.nature.com/articles/s41559-024-02525-2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe un ejemplo claro de herramientas. Investigadores observaron pulpos veteados, Amphioctopus marginatus, recogiendo y transportando mitades de coco que luego ensamblaban como refugio. Llevar un objeto para protegerse después difiere de esconderse en un refugio ya disponible. Es uso defensivo documentado en esa especie, no prueba de que todos fabriquen herramientas o imaginen el futuro como nosotros. [Coconut tools · Current Biology, 2009](https://www.sciencedirect.com/science/article/pii/S0960982209019149)"
+    },
+    {
+      "type": "heading",
+      "text": "EXPLORACIÓN SIN ETIQUETAS HUMANAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los individuos responden de forma diferente a las novedades. Un estudio reciente del pulpo común identificó dimensiones denominadas alerta, exploración y audacia. “Personalidad” designa aquí patrones de variación individual, no un carácter humano completo. Explorar puede parecer curiosidad, pero comprobar la sensación es más difícil. Hambre, experiencia, estrés y contexto deben considerarse. [Individual differences · Behaviour, 2024](https://doi.org/10.1163/1568539x-bja10290)"
+    },
+    {
+      "type": "heading",
+      "text": "¿QUÉ SE SIENTE AL SER UN PULPO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aprender y ser consciente son cuestiones diferentes. La sintiencia es la capacidad de tener experiencias sentidas, agradables o desagradables. No exige lenguaje ni reflexión sobre uno mismo. Sin un informe verbal del animal, la ciencia reúne pruebas conductuales y nerviosas en vez de buscar semejanzas con un rostro humano. [Sentience assessment · Biological Reviews, 2026](https://onlinelibrary.wiley.com/doi/10.1002/brv.70125)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un experimento de 2021 encontró que los pulpos evitaban un lugar asociado a una inyección de ácido acético y, cuando estaban lesionados, preferían otro asociado al alivio con anestésico local. Los registros nerviosos añadieron evidencia de actividad persistente relacionada con la lesión. El conjunto apoya una experiencia afectiva del dolor más allá del reflejo de retirada. Sigue siendo una inferencia, no una medición directa de cómo se siente. [Pain experiment · iScience, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7941037/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una revisión de 2026 evaluó evidencia sólida de sintiencia en pulpos según varios criterios. Tiene más fundamento que tratarlos como máquinas reflejas o afirmar que comprendemos toda su vida interior. La autoconciencia, la unidad de la experiencia en un sistema distribuido y la diversidad de sensaciones siguen abiertas. [Sentience assessment · Biological Reviews, 2026](https://onlinelibrary.wiley.com/doi/10.1002/brv.70125)"
+    },
+    {
+      "type": "heading",
+      "text": "OTRA RUTA EVOLUTIVA HACIA LA COMPLEJIDAD"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los pulpos son moluscos de la rama protóstoma; los humanos, vertebrados de la deuteróstoma. La separación se remonta al inicio de la historia animal, cientos de millones de años antes de estos grupos modernos. Sus cerebros complejos se desarrollaron por caminos diferentes. El pulpo no es un antepasado humano ni un paso hacia un cerebro mamífero. [Evolution of nervous systems · 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10792511/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El genoma muestra diferencia y continuidad. El estudio de 2015 identificó expansiones de familias génicas asociadas al desarrollo nervioso dentro de un repertorio ampliamente compartido con otros animales. La complejidad no necesitó una biología extraterrestre. Para la historia humana, mucho más reciente, consulta [el árbol de nuestra familia evolutiva](/articles/human-family-tree-human-evolution-species/). [Octopus genome · Nature, 2015](https://www.nature.com/articles/nature14668)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La depredación, la caza activa, las exigencias sensoriales y la reducción o pérdida de la concha ancestral se investigan como presiones que pudieron favorecer conductas flexibles. Son explicaciones evolutivas por contrastar, no una causa única demostrada de la inteligencia. Un cazador de cuerpo blando afronta problemas diferentes a los de un primate en un grupo social. [Evolution of nervous systems · 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10792511/)"
+    },
+    {
+      "type": "heading",
+      "text": "COGNICIÓN SOFISTICADA, VIDA A MENUDO BREVE"
+    },
+    {
+      "type": "paragraph",
+      "text": "El pulpo común suele vivir uno o dos años, poco frente a ciertos vertebrados estudiados por su cognición. Pero no es una regla universal. Una hembra de aguas profundas, Graneledone boreopacifica, fue observada incubando durante 53 meses, más que toda la vida habitual de muchas especies costeras. [Cephalopod biology · Annual Reviews, 2020](https://doi.org/10.1146/annurev-animal-021419-083609) [Deep-sea brooding · PLOS ONE, 2014](https://pubmed.ncbi.nlm.nih.gov/25075745/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchos pulpos se reproducen una sola vez y después declinan. Investigaciones relacionan cambios maternos y muerte con varias vías de señalización de las glándulas ópticas, órganos endocrinos distintos de los lóbulos ópticos visuales. Aprender de forma sofisticada no exige una larga infancia ni décadas de experiencia. La relación entre ciclo vital y cognición sigue siendo una pregunta comparativa importante. [Maternal signalling · Journal of Experimental Biology, 2018](https://pubmed.ncbi.nlm.nih.gov/30104305/)"
+    },
+    {
+      "type": "heading",
+      "text": "LO QUE TODAVÍA NO SABEMOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Dónde se guardan los recuerdos? ¿Cómo coordina el cerebro la información cambiante de ocho brazos? ¿Hasta dónde se extienden las capacidades observadas en pocas especies de laboratorio? Incluso el sueño plantea dudas: un estudio de 2023 documentó sueño activo, patrones cutáneos cambiantes y actividad nerviosa parecida a la vigilia. No demuestra que sueñen como nosotros. [Octopus sleep · Nature, 2023](https://www.nature.com/articles/s41586-023-06203-4)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El pulpo amplía la pregunta científica. La inteligencia no necesita organizarse alrededor de un esqueleto vertebrado ni una corteza mamífera. Comprenderla exige experimentos adecuados a ese cuerpo y sus sentidos, con incertidumbres visibles. La historia comprobada ya sorprende: una organización diferente del cerebro, brazos y piel produce conducta flexible. Más investigaciones en [PRESDA Ciencia](/category/science/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Distributed control · 2022",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9339708/"
+    },
+    {
+      "label": "Chemotactile sensing · Cell, 2020",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7605239/"
+    },
+    {
+      "label": "Visual arm maze · Current Biology, 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21396818/"
+    },
+    {
+      "label": "Puzzle experiment · PLOS ONE, 2016",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152048"
+    },
+    {
+      "label": "Learning and memory · Biological Bulletin, 2006",
+      "url": "https://www.journals.uchicago.edu/doi/full/10.2307/4134567"
+    },
+    {
+      "label": "Camouflage control · Current Biology, 2023",
+      "url": "https://doi.org/10.1016/j.cub.2023.08.095"
+    },
+    {
+      "label": "Social signals · Current Biology, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26832440/"
+    },
+    {
+      "label": "Octopus and fish hunting · Nature Ecology & Evolution, 2024",
+      "url": "https://www.nature.com/articles/s41559-024-02525-2"
+    },
+    {
+      "label": "Coconut tools · Current Biology, 2009",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0960982209019149"
+    },
+    {
+      "label": "Individual differences · Behaviour, 2024",
+      "url": "https://doi.org/10.1163/1568539x-bja10290"
+    },
+    {
+      "label": "Pain experiment · iScience, 2021",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7941037/"
+    },
+    {
+      "label": "Sentience assessment · Biological Reviews, 2026",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/brv.70125"
+    },
+    {
+      "label": "Octopus genome · Nature, 2015",
+      "url": "https://www.nature.com/articles/nature14668"
+    },
+    {
+      "label": "Cephalopod biology · Annual Reviews, 2020",
+      "url": "https://doi.org/10.1146/annurev-animal-021419-083609"
+    },
+    {
+      "label": "Deep-sea brooding · PLOS ONE, 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25075745/"
+    },
+    {
+      "label": "Maternal signalling · Journal of Experimental Biology, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30104305/"
+    },
+    {
+      "label": "Octopus sleep · Nature, 2023",
+      "url": "https://www.nature.com/articles/s41586-023-06203-4"
+    },
+    {
+      "label": "Evolution of nervous systems · 2023",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10792511/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Tiene nueve cerebros?",
+      "answer": "No. Posee un cerebro central y extensos circuitos nerviosos en los ocho brazos. El procesamiento distribuido no demuestra nueve mentes."
+    },
+    {
+      "question": "¿Cuántas neuronas tiene?",
+      "answer": "Las estimaciones del pulpo común suelen resumirse en unos 500 millones. No deben aplicarse a todas las especies."
+    },
+    {
+      "question": "¿Utiliza herramientas?",
+      "answer": "Se han documentado pulpos veteados transportando mitades de coco y ensamblándolas como refugios."
+    },
+    {
+      "question": "¿Es consciente?",
+      "answer": "La investigación apoya la sintiencia, incluida evidencia compatible con dolor experimentado. La naturaleza exacta de su experiencia sigue sin conocerse."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "LA MENTE DEL PULPO",
+    "gold": "INTELIGENCIA"
+  },
+  "readingTimeMinutes": 9
+}
