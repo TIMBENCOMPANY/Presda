@@ -61,6 +61,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/50-years-cancer-survival-progress-hardest-cancers/",
+    "path": "/ar/articles/50-years-cancer-survival-progress-hardest-cancers/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/50-years-cancer-survival-progress-hardest-cancers/",
+    "path": "/es/articles/50-years-cancer-survival-progress-hardest-cancers/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/50-years-cancer-survival-progress-hardest-cancers/",
+    "path": "/fr/articles/50-years-cancer-survival-progress-hardest-cancers/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/abbasid-caliphate-baghdad-islamic-golden-age/",
     "path": "/ar/articles/abbasid-caliphate-baghdad-islamic-golden-age/"
   },

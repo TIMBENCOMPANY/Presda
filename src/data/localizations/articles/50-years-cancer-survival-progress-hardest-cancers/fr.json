@@ -1,0 +1,300 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/50-years-cancer-survival-progress-hardest-cancers/",
+  "path": "/fr/articles/50-years-cancer-survival-progress-hardest-cancers/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr editorial and source-parity review",
+    "reviewedAt": "2026-10-07",
+    "terminologyChecked": true
+  },
+  "title": "50 ANS FACE AU CANCER : LESQUELS AVONS-NOUS VRAIMENT APPRIS À VAINCRE ?",
+  "excerpt": "Leucémies infantiles, pancréas, poumon : ce que les données comparables révèlent sur la survie, les traitements et les inégalités d’accès aux soins.",
+  "seoTitle": "Cancer : 50 ans de progrès, survie et limites de la guérison",
+  "description": "Leucémies infantiles, pancréas, poumon : ce que les données comparables révèlent sur la survie, les traitements et les inégalités d’accès aux soins.",
+  "keywords": [
+    "Cancer : 50 ans de progrès, survie et limites de la guérison",
+    "50 ANS FACE AU CANCER : LESQUELS AVONS-NOUS VRAIMENT APPRIS À VAINCRE ?"
+  ],
+  "searchIntent": "Leucémies infantiles, pancréas, poumon : ce que les données comparables révèlent sur la survie, les traitements et les inégalités d’accès aux soins.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-07",
+  "updatedAt": "2026-10-07",
+  "image": {
+    "src": "/articles/cancer-research-conceptual-laboratory.png",
+    "alt": "Illustration conceptuelle de laboratoire générée par IA avec ruban et formes moléculaires symboliques, sans photographie de cellules cancéreuses ni preuve thérapeutique"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Il y a un demi-siècle, un diagnostic de cancer laissait souvent moins de traitements et beaucoup moins de temps. Aujourd’hui, certains patients retrouvent des décennies de vie ordinaire après les soins. D’autres vivent longtemps avec une maladie autrefois rapidement évolutive. Mais face à un cancer du pancréas avancé ou à une tumeur cérébrale agressive, la révolution médicale peut encore sembler lointaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quels cancers avons-nous réellement appris à vaincre ? Beaucoup de cancers du testicule, de lymphomes de Hodgkin et de leucémies infantiles peuvent être guéris. Plusieurs cancers fréquents ont nettement meilleur pronostic. D’autres restent très meurtriers. Le cancer désigne une famille de maladies, sans ligne d’arrivée commune. Une survie élevée ne signifie pas guérison pour tous, et un résultat de laboratoire ne constitue pas une victoire à l’échelle d’une population. [NCI PDQ : traitement du cancer testiculaire](https://www.cancer.gov/types/testicular/hp/testicular-treatment-pdq) [NCI PDQ : traitement du lymphome de Hodgkin](https://www.cancer.gov/types/lymphoma/hp/adult-hodgkin-treatment-pdq) [NCI : cancers pédiatriques et suivi](https://www.cancer.gov/types/childhood-cancers)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE CINQUANTE ANS DE DONNÉES PERMETTENT DE DIRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette comparaison reprend le rapport 2026 de l’American Cancer Society et ses données américaines SEER : diagnostics de 1975–1977, 1995–1997 et 2015–2021. La dernière période ne prédit pas le sort des personnes diagnostiquées en 2026. Mesurer la survie exige du recul. Tous les chiffres présentés sont des survies relatives à cinq ans, tous stades confondus, sauf indication contraire. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La survie relative rapporte la survie observée chez les malades à celle attendue dans une population générale comparable. Elle tient compte de la mortalité habituelle, sans mesurer la proportion assurément débarrassée du cancer. Les périodes anciennes couvrent neuf registres SEER ; la récente, 21 zones hors Illinois. Couverture, classifications, détection et composition des groupes évoluent. Ce sont des repères publiés par l’ACS, pas une cohorte nationale inchangée suivie cinquante ans. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI : tendances de survie et méthodes](https://progressreport.cancer.gov/after/survival)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour l’ensemble des cancers, la survie relative passe de 49 % à 63 %, puis 70 %. Le gain depuis les années 1970 est de 21 points de pourcentage, pas une baisse de 21 % des décès. Indépendamment, le taux américain de mortalité par cancer standardisé sur l’âge a diminué de 34 % entre son sommet de 1991 et 2023. Tabagisme réduit, prévention, détection et traitements y contribuent. La mortalité complète indispensablement le tableau de survie. [Statistiques du cancer 2026 : publication scientifique](https://doi.org/10.3322/caac.70043)"
+    },
+    {
+      "type": "heading",
+      "text": "OÙ LES GAINS SONT LES PLUS IMPORTANTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le tableau historique de l’ACS, le myélome passe de 25 % à 62 %, les leucémies de 34 % à 68 %, la prostate de 68 % à 98 % et les cancers du rein et du bassinet de 50 % à 79 %. Les lymphomes non hodgkiniens progressent de 47 % à 74 %. Ces catégories regroupent des sous-types, âges et réponses très différents. Un gain important ne rend pas une maladie uniformément guérissable. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le classement exige une interprétation. Détecter davantage de cancers prostatiques peu évolutifs influence fortement leur survie. Le myélome peut être contrôlé plus longtemps sans être éliminé. Les leucémies ont des mécanismes biologiques distincts. Aucun chiffre collectif ne permet d’attribuer tout le progrès à un médicament ni de prévoir un destin individuel. Le NCI recommande une prudence particulière pour les cancers largement dépistés. [NCI : tendances de survie et méthodes](https://progressreport.cancer.gov/after/survival) [NCI : traitements ciblés](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies)"
+    },
+    {
+      "type": "heading",
+      "text": "LES RÉUSSITES QUI ONT CHANGÉ LES ATTENTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "La survie du cancer testiculaire, déjà assez élevée dans les années 1970, passe de 83 % à 95 %. Celle du lymphome de Hodgkin progresse de 72 % à 89 %, du sein féminin de 75 % à 92 %, du cancer colorectal de 50 % à 65 %. Un gain plus modeste en points peut représenter une réussite clinique considérable lorsque le niveau initial était élevé. Combinaisons thérapeutiques, biologie et stade comptent ensemble. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’oncologie de précision a rendu certaines avancées plus spécifiques. L’imatinib cible la signalisation anormale associée à BCR-ABL dans la leucémie myéloïde chronique. Le trastuzumab cible les cancers du sein HER2 positifs. Le nom d’un organe ne suffit donc plus : une cible moléculaire peut orienter le traitement, mais elle n’existe pas dans toutes les tumeurs et des résistances peuvent apparaître. [NCI : traitements ciblés](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies) [NCI : grandes étapes de la recherche](https://www.cancer.gov/research/progress/250-years-milestones)"
+    },
+    {
+      "type": "heading",
+      "text": "CANCERS PÉDIATRIQUES : GUÉRIR ET PRÉSERVER L’AVENIR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Essais coordonnés, associations de médicaments et soins spécialisés ont permis de guérir de nombreux enfants. Le NCI souligne le rôle majeur des essais cliniques. Les cancers pédiatriques ne sont pas des cancers adultes en miniature ; les rechutes et certaines tumeurs cérébrales demeurent particulièrement difficiles. [NCI : cancers pédiatriques et suivi](https://www.cancer.gov/types/childhood-cancers)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans les données ACS de 2015–2021, la survie relative à cinq ans atteint 85 % pour l’ensemble des cancers des enfants de 0 à 14 ans, hors tumeurs cérébrales bénignes et de malignité intermédiaire. Elle atteint 92 % pour la leucémie aiguë lymphoblastique infantile. Ces mesures américaines ne sont pas des taux mondiaux de guérison. Des effets tardifs peuvent toucher organes, fertilité, apprentissages ou risque de second cancer. Réussir signifie aussi protéger les décennies suivantes. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI : cancers pédiatriques et suivi](https://www.cancer.gov/types/childhood-cancers)"
+    },
+    {
+      "type": "heading",
+      "text": "LE STADE PEUT TRANSFORMER LE PRONOSTIC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le même ensemble ACS de 2015–2021, le cancer du sein féminin présente une survie relative supérieure à 99 % au stade localisé, contre 33 % au stade distant. Le colorectal est à 91 % contre 15 %, le poumon et les bronches à 65 % contre 10 %, le pancréas à 44 % contre 3 %. Localisé signifie limité à l’organe d’origine ; distant, propagé à des sites éloignés. Ces catégories de registre ne reproduisent pas toutes les classifications cliniques. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparer ces groupes ne prouve pas qu’avancer le diagnostic aurait sauvé chaque patient au stade distant. Agressivité, sous-type moléculaire, âge, autres maladies et accès aux traitements interviennent aussi. Retirer entièrement une tumeur ou contrôler une maladie disséminée constitue un défi très différent selon les patients, même lorsque le nom du cancer est identique. [NCI : pronostic, survie et rémission](https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis) [NCI : comprendre les statistiques du dépistage](https://www.cancer.gov/about-cancer/screening/research/what-screening-statistics-mean)"
+    },
+    {
+      "type": "heading",
+      "text": "DÉTECTER PLUS TÔT NE SIGNIFIE PAS AUTOMATIQUEMENT GUÉRIR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dépistage recherche une maladie sans symptômes ; les examens diagnostiques explorent un symptôme ou une anomalie. Certains programmes réduisent les décès. Pour le col utérin ou le côlon et le rectum, ils peuvent aussi identifier des lésions précancéreuses. Il faut examiner le test, la population, le suivi et l’équilibre entre bénéfices et risques. [NCI : grandes étapes de la recherche](https://www.cancer.gov/research/progress/250-years-milestones) [NCI : recherche sur le dépistage](https://www.cancer.gov/research/areas/screening)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le biais d’avance au diagnostic fait démarrer plus tôt le compteur de survie, même si la date du décès ne change pas. Le surdiagnostic découvre des tumeurs qui n’auraient jamais nui. Les deux peuvent améliorer artificiellement la survie à cinq ans. Les essais randomisés et la mortalité sont donc essentiels. Diagnostiquer davantage ne démontre pas à lui seul que des vies sont prolongées. [NCI : comprendre les statistiques du dépistage](https://www.cancer.gov/about-cancer/screening/research/what-screening-statistics-mean)"
+    },
+    {
+      "type": "heading",
+      "text": "LES CANCERS ENCORE DIFFICILES À VAINCRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La survie relative du pancréas passe de 3 % à 13 %, mais reste faible. Sa localisation et une extension fréquente avant le diagnostic limitent la chirurgie. La recherche teste de meilleures associations et des traitements de sous-groupes moléculaires. Les progrès sont réels, sans faire de cette maladie un cancer généralement guérissable. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI : recherche sur le cancer du pancréas](https://www.cancer.gov/types/pancreatic/research)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le poumon et les bronches passent de 12 % à 28 %. Cela masque des progrès pour certains patients répondant aux médicaments ciblés ou à l’immunothérapie, ainsi que le poids persistant des formes avancées. Réduire le tabagisme évite des décès avant tout traitement. Les cancers du foie et des voies biliaires intrahépatiques, comme celui de l’œsophage, atteignent 22 % après des niveaux initiaux très bas. Ils restent des défis majeurs. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [Statistiques du cancer 2026 : publication scientifique](https://doi.org/10.3322/caac.70043) [NCI : traitements ciblés](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les cancers du cerveau et du système nerveux passent globalement de 23 % à 33 %. Ce chiffre n’est pas une estimation pour le glioblastome. Cette tumeur particulièrement agressive exige de meilleurs traitements, notamment des agents capables de franchir la barrière hématoencéphalique, souligne le réseau spécialisé du NCI. Agréger les tumeurs peut masquer les situations les plus difficiles. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI : réseau de recherche sur le glioblastome](https://dctd.cancer.gov/research/networks/gtn)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Toutes les courbes ne montent pas. Le larynx passe de 66 % à 62 %, le corps utérin de 87 % à 81 %. Ces variations descriptives contredisent une progression universelle, sans prouver que tous les traitements se sont dégradés. Sous-types, stades et composition des populations doivent être étudiés avant d’attribuer une cause. [ACS : chiffres du cancer 2026, tableaux 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI : tendances de survie et méthodes](https://progressreport.cancer.gov/after/survival)"
+    },
+    {
+      "type": "heading",
+      "text": "COMMENT LES TRAITEMENTS SE SONT ENRICHIS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La chimiothérapie reste centrale : plusieurs médicaments peuvent agir par des mécanismes différents. Chirurgie et radiothérapie demeurent indispensables dans de nombreux cancers localisés. Les nouveautés ajoutent des possibilités plutôt qu’elles ne remplacent tout. Les essais pédiatriques montrent aussi l’importance des calendriers, associations et soins de soutien. [NCI : cancers pédiatriques et suivi](https://www.cancer.gov/types/childhood-cancers) [NCI : grandes étapes de la recherche](https://www.cancer.gov/research/progress/250-years-milestones)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les thérapies ciblées interrompent des protéines ou voies impliquées dans la croissance tumorale. Des biomarqueurs aident à sélectionner ces traitements. Il peut n’exister aucune cible exploitable ; un médicament adapté peut perdre son efficacité devant des cellules résistantes. La précision éclaire le choix, sans garantir le bénéfice ni l’absence de toxicité. [NCI : traitements ciblés](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’immunothérapie peut lever des freins immunitaires ou mobiliser des cellules contre la tumeur. Certains patients connaissent des réponses durables ; beaucoup ne répondent pas, et les tissus sains peuvent être atteints. Il ne suffit pas de renforcer l’immunité : il faut la diriger efficacement contre le cancer avec des risques acceptables. [NCI : immunothérapie](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les CAR-T modifient des lymphocytes T pour reconnaître une cible associée au cancer. Elles constituent une option importante dans certaines leucémies, certains lymphomes et le myélome. Toxicités graves, rechutes, fabrication et soins spécialisés restent des enjeux. Les résultats dans les cancers du sang ne démontrent pas un succès équivalent dans les tumeurs solides, dont les cibles et l’environnement posent d’autres difficultés. [NCI : cellules CAR-T](https://www.cancer.gov/about-cancer/treatment/research/car-t-cells)"
+    },
+    {
+      "type": "heading",
+      "text": "GUÉRISON, RÉMISSION ET VIE AVEC LE CANCER"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une rémission complète signifie que les signes détectables ont disparu, sans exclure une rechute. La guérison suppose que le cancer ne reviendra pas, ce qui ne peut pas toujours être établi à l’avance. Cinq ans est une convention statistique, pas la fin automatique du risque. La survie globale compte les décès de toute cause ; la survie sans progression mesure le temps sans aggravation. Ces critères répondent à des questions différentes. [NCI : pronostic, survie et rémission](https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vivre plus longtemps avec une maladie contrôlée est une réussite, même sans guérison. Moins de symptômes, des soins moins invalidants et une meilleure qualité de vie comptent aussi. Un bilan honnête reconnaît ces bénéfices sans les renommer éradication. Les patients ne sont pas responsables d’un cancer résistant : biologie, soins et circonstances influencent les résultats."
+    },
+    {
+      "type": "heading",
+      "text": "DES PROGRÈS INÉGALEMENT ACCESSIBLES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon l’OMS, plus de 80 % des enfants atteints de cancer sont guéris dans les pays à revenu élevé, contre moins de 30 % dans de nombreux pays à revenu faible ou intermédiaire. Retards diagnostiques, traitements indisponibles, abandons et toxicité contribuent à l’écart. Ces synthèses mondiales ne suivent pas le même cadre que le graphique des registres américains ; elles ne doivent pas former un classement unique. [OMS : cancers pédiatriques et accès aux soins](https://www.who.int/news-room/fact-sheets/detail/cancer-in-children)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’accès fait partie de l’histoire scientifique. Anatomopathologie, imagerie, médicaments, chirurgie sûre, radiothérapie et suivi transforment une découverte en soins. Une enquête de l’OMS rapportée par le CIRC en 2024 indiquait que seuls 39 % des pays participants couvraient les bases de la prise en charge du cancer dans leurs services essentiels financés pour tous. Un progrès publié dans un pays n’est pas automatiquement accessible ailleurs. [CIRC/OMS : cancer mondial et services de santé](https://www.iarc.who.int/wp-content/uploads/2024/02/pr345_E.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prévention compte aussi : lutte contre le tabac et infections cancérogènes peuvent éviter la maladie. Notre [reportage sur l’alcool et la santé](/articles/history-of-alcohol-beer-wine-spirits/) examine une autre exposition établie. Distinguer promesse biologique et bénéfice démontré chez l’humain constitue également le fil de notre [enquête sur le vieillissement](/articles/anti-aging-can-we-slow-down-human-aging/). [Statistiques du cancer 2026 : publication scientifique](https://doi.org/10.3322/caac.70043)"
+    },
+    {
+      "type": "heading",
+      "text": "LA SUITE, SANS PROMESSES EXCESSIVES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les vaccins thérapeutiques cherchent à apprendre à l’immunité à reconnaître des antigènes tumoraux. Certaines approches ont déjà des usages précis ; les vaccins personnalisés restent un domaine actif. Un résultat chez la souris, une réduction tumorale dans un petit essai ou une annonce d’entreprise ne démontre pas une guérison universelle. Bénéfice durable, toxicité et comparaisons cliniques pertinentes sont décisifs. [NCI : vaccins thérapeutiques](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/cancer-treatment-vaccines)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nouvelles thérapies cellulaires, associations et meilleure sélection des patients pourraient prolonger les gains. Les tests sanguins multicancers ouvrent une autre piste, mais détecter un signal ne prouve pas que le dépistage sauve des vies. Le programme du NCI évalue ces technologies sur la maladie et les décès. Aucun raccourci ne supprime la nécessité d’essais rigoureux. [NCI : immunothérapie](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy) [NCI : recherche sur le dépistage](https://www.cancer.gov/research/areas/screening)"
+    },
+    {
+      "type": "heading",
+      "text": "QUELS CANCERS AVONS-NOUS APPRIS À VAINCRE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous savons guérir de nombreux cas de certains cancers, en prévenir d’autres et contrôler davantage de maladies plus longtemps. Nous ne savons pas vaincre chaque stade ou sous-type, ni rendre les soins efficaces accessibles à tous. Le bilan de cinquante ans n’est ni un slogan triomphal ni un constat d’échec : il associe des avancées mesurables à des besoins encore urgents."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’image principale est une illustration conceptuelle de laboratoire générée par IA. Ruban et formes moléculaires sont symboliques : ce ne sont ni des photographies de cellules cancéreuses, ni une interprétation de scans, ni la preuve d’un traitement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "ACS : chiffres du cancer 2026, tableaux 7–8",
+      "url": "https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf"
+    },
+    {
+      "label": "Statistiques du cancer 2026 : publication scientifique",
+      "url": "https://doi.org/10.3322/caac.70043"
+    },
+    {
+      "label": "NCI : pronostic, survie et rémission",
+      "url": "https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis"
+    },
+    {
+      "label": "NCI : comprendre les statistiques du dépistage",
+      "url": "https://www.cancer.gov/about-cancer/screening/research/what-screening-statistics-mean"
+    },
+    {
+      "label": "NCI : traitements ciblés",
+      "url": "https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies"
+    },
+    {
+      "label": "NCI : cancers pédiatriques et suivi",
+      "url": "https://www.cancer.gov/types/childhood-cancers"
+    },
+    {
+      "label": "NCI : recherche sur le cancer du pancréas",
+      "url": "https://www.cancer.gov/types/pancreatic/research"
+    },
+    {
+      "label": "NCI : réseau de recherche sur le glioblastome",
+      "url": "https://dctd.cancer.gov/research/networks/gtn"
+    },
+    {
+      "label": "NCI : immunothérapie",
+      "url": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy"
+    },
+    {
+      "label": "NCI : cellules CAR-T",
+      "url": "https://www.cancer.gov/about-cancer/treatment/research/car-t-cells"
+    },
+    {
+      "label": "NCI : grandes étapes de la recherche",
+      "url": "https://www.cancer.gov/research/progress/250-years-milestones"
+    },
+    {
+      "label": "OMS : cancers pédiatriques et accès aux soins",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cancer-in-children"
+    },
+    {
+      "label": "CIRC/OMS : cancer mondial et services de santé",
+      "url": "https://www.iarc.who.int/wp-content/uploads/2024/02/pr345_E.pdf"
+    },
+    {
+      "label": "NCI : vaccins thérapeutiques",
+      "url": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/cancer-treatment-vaccines"
+    },
+    {
+      "label": "NCI : recherche sur le dépistage",
+      "url": "https://www.cancer.gov/research/areas/screening"
+    },
+    {
+      "label": "NCI : tendances de survie et méthodes",
+      "url": "https://progressreport.cancer.gov/after/survival"
+    },
+    {
+      "label": "NCI PDQ : traitement du cancer testiculaire",
+      "url": "https://www.cancer.gov/types/testicular/hp/testicular-treatment-pdq"
+    },
+    {
+      "label": "NCI PDQ : traitement du lymphome de Hodgkin",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/adult-hodgkin-treatment-pdq"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quels cancers ont le plus progressé en cinquante ans ?",
+      "answer": "Dans la comparaison américaine de l’ACS, myélome, leucémies, prostate, rein et bassinet et lymphomes non hodgkiniens présentent de grands gains en points. Stades et sous-types sont regroupés ; meilleure survie ne signifie pas automatiquement guérison."
+    },
+    {
+      "question": "Survivre cinq ans signifie-t-il être guéri ?",
+      "answer": "Non. La survie relative tient compte de la mortalité habituelle. On peut être en rémission, vivre avec une maladie contrôlée ou risquer une rechute. Cinq ans est une période de mesure, pas un seuil universel de guérison."
+    },
+    {
+      "question": "Pourquoi le pancréas et certains cancers cérébraux restent-ils difficiles ?",
+      "answer": "Le pancréas est souvent diagnostiqué après une extension limitant la chirurgie. Les tumeurs agressives comme le glioblastome présentent des obstacles biologiques et de délivrance des médicaments. Une moyenne cérébrale ne décrit pas le glioblastome."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "50 ANS FACE AU CANCER",
+    "gold": "APPRIS À VAINCRE"
+  },
+  "readingTimeMinutes": 8
+}

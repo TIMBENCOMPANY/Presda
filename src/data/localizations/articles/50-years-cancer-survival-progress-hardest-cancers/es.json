@@ -1,0 +1,300 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/50-years-cancer-survival-progress-hardest-cancers/",
+  "path": "/es/articles/50-years-cancer-survival-progress-hardest-cancers/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es editorial and source-parity review",
+    "reviewedAt": "2026-10-07",
+    "terminologyChecked": true
+  },
+  "title": "50 AÑOS FRENTE AL CÁNCER: ¿CUÁLES HEMOS APRENDIDO REALMENTE A VENCER?",
+  "excerpt": "De la leucemia infantil al cáncer pancreático: qué revelan los datos comparables sobre supervivencia, curación, tratamientos y acceso desigual.",
+  "seoTitle": "50 años de avances contra el cáncer: supervivencia y límites",
+  "description": "De la leucemia infantil al cáncer pancreático: qué revelan los datos comparables sobre supervivencia, curación, tratamientos y acceso desigual.",
+  "keywords": [
+    "50 años de avances contra el cáncer: supervivencia y límites",
+    "50 AÑOS FRENTE AL CÁNCER: ¿CUÁLES HEMOS APRENDIDO REALMENTE A VENCER?"
+  ],
+  "searchIntent": "De la leucemia infantil al cáncer pancreático: qué revelan los datos comparables sobre supervivencia, curación, tratamientos y acceso desigual.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-07",
+  "updatedAt": "2026-10-07",
+  "image": {
+    "src": "/articles/cancer-research-conceptual-laboratory.png",
+    "alt": "Ilustración conceptual de laboratorio generada con IA, con lazo y formas moleculares simbólicos; no muestra células cancerosas reales ni pruebas terapéuticas"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Hace medio siglo, un diagnóstico de cáncer solía dejar menos tratamientos y mucho menos tiempo. Hoy, algunas personas terminan la terapia y recuperan décadas de vida cotidiana. Otras viven años con una enfermedad que antes avanzaba deprisa. Pero para quien afronta un cáncer pancreático avanzado o un tumor cerebral agresivo, la revolución médica todavía puede parecer lejana."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué cánceres hemos aprendido realmente a vencer? Muchos cánceres testiculares, linfomas de Hodgkin y leucemias infantiles pueden curarse. Varios cánceres frecuentes tienen mejores resultados. Otros siguen siendo muy mortales. El cáncer es una familia de enfermedades, sin una meta común. Una supervivencia alta no significa curación para todos, y un hallazgo de laboratorio no equivale a una victoria poblacional. [NCI PDQ: tratamiento del cáncer testicular](https://www.cancer.gov/types/testicular/hp/testicular-treatment-pdq) [NCI PDQ: tratamiento del linfoma de Hodgkin](https://www.cancer.gov/types/lymphoma/hp/adult-hodgkin-treatment-pdq) [NCI: cáncer infantil y seguimiento](https://www.cancer.gov/types/childhood-cancers)"
+    },
+    {
+      "type": "heading",
+      "text": "LO QUE NOS DICEN CINCUENTA AÑOS DE DATOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La comparación utiliza el informe 2026 de la American Cancer Society y sus datos estadounidenses SEER: diagnósticos de 1975–1977, 1995–1997 y 2015–2021. El último período no pronostica el futuro de quienes reciben un diagnóstico en 2026. Medir supervivencia requiere seguimiento. Todas las cifras son de supervivencia relativa a cinco años, con todos los estadios agrupados, salvo indicación expresa. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La supervivencia relativa divide la observada entre pacientes por la esperada en una población general comparable. Ajusta la mortalidad habitual, pero no mide cuántas personas están definitivamente libres de cáncer. Los períodos históricos cubren nueve registros SEER; el reciente, 21 áreas sin Illinois. Cambian cobertura, clasificación, detección y composición de pacientes. Son referencias publicadas por ACS, no una cohorte nacional idéntica seguida durante cincuenta años. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI: tendencias y métodos de supervivencia](https://progressreport.cancer.gov/after/survival)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para todos los cánceres combinados, la supervivencia pasó de 49% a 63% y 70%. Son 21 puntos porcentuales más que en los años setenta, no una reducción del 21% de las muertes. Por separado, la mortalidad estadounidense por cáncer ajustada por edad cayó 34% desde el máximo de 1991 hasta 2023. Menos tabaco, prevención, detección y tratamiento contribuyeron. La mortalidad es un contraste esencial para la gráfica de supervivencia. [Estadísticas del cáncer 2026: publicación científica](https://doi.org/10.3322/caac.70043)"
+    },
+    {
+      "type": "heading",
+      "text": "DÓNDE APARECEN LAS MAYORES MEJORAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la tabla histórica de ACS, el mieloma pasó de 25% a 62%, las leucemias de 34% a 68%, la próstata de 68% a 98% y los cánceres de riñón y pelvis renal de 50% a 79%. El linfoma no Hodgkin subió de 47% a 74%. Son categorías amplias con subtipos, edades y respuestas muy diferentes. Una gran mejora numérica no vuelve uniformemente curable una enfermedad. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La interpretación importa tanto como la clasificación. Detectar más cánceres prostáticos lentos influye en su supervivencia. El mieloma puede controlarse durante más tiempo sin desaparecer. Las leucemias tienen mecanismos distintos. Una mejora colectiva no se atribuye a un único fármaco ni predice un resultado individual. NCI recomienda especial cautela en cánceres sometidos a cribado frecuente. [NCI: tendencias y métodos de supervivencia](https://progressreport.cancer.gov/after/survival) [NCI: terapias dirigidas](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies)"
+    },
+    {
+      "type": "heading",
+      "text": "ÉXITOS QUE CAMBIARON LAS EXPECTATIVAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cáncer testicular ya tenía supervivencia relativamente alta en los setenta: subió de 83% a 95%. El linfoma de Hodgkin pasó de 72% a 89%; el cáncer de mama femenino, de 75% a 92%; el colorrectal, de 50% a 65%. Una diferencia menor en puntos puede representar un gran avance si el nivel inicial era alto. Combinaciones terapéuticas, biología y estadio importan conjuntamente. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La oncología de precisión hizo algunos éxitos más específicos. Imatinib actúa sobre la señalización anormal asociada a BCR-ABL en la leucemia mieloide crónica. Trastuzumab se dirige al cáncer de mama HER2 positivo. El nombre del órgano ya no basta: una diana molecular puede cambiar el tratamiento, pero no todos los tumores la presentan y pueden surgir resistencias. [NCI: terapias dirigidas](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies) [NCI: hitos de investigación y tratamiento](https://www.cancer.gov/research/progress/250-years-milestones)"
+    },
+    {
+      "type": "heading",
+      "text": "CÁNCER INFANTIL: CURAR Y PROTEGER EL FUTURO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensayos coordinados, combinaciones de medicamentos y atención especializada han permitido curar a muchos niños. NCI destaca la aportación de los ensayos clínicos. Los cánceres infantiles no son simplemente versiones pequeñas de los adultos. Las recaídas y determinados tumores cerebrales siguen planteando grandes dificultades. [NCI: cáncer infantil y seguimiento](https://www.cancer.gov/types/childhood-cancers)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En los datos ACS de 2015–2021, la supervivencia relativa a cinco años fue 85% para todos los cánceres en niños de 0–14 años, excluyendo tumores cerebrales benignos y de malignidad intermedia. La leucemia linfocítica aguda infantil alcanzó 92%. Son medidas estadounidenses definidas, no tasas mundiales de curación. Los efectos tardíos pueden afectar órganos, fertilidad, aprendizaje o riesgo de un segundo cáncer. El éxito incluye cuidar las décadas posteriores. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI: cáncer infantil y seguimiento](https://www.cancer.gov/types/childhood-cancers)"
+    },
+    {
+      "type": "heading",
+      "text": "EL ESTADIO CAMBIA EL PANORAMA"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el mismo conjunto ACS de 2015–2021, el cáncer de mama femenino tuvo supervivencia relativa superior a 99% cuando estaba localizado y 33% cuando era distante. El colorrectal fue 91% frente a 15%; pulmón y bronquios, 65% frente a 10%; páncreas, 44% frente a 3%. Localizado significa limitado al órgano original; distante, extendido a sitios remotos. Estas categorías registrales no equivalen a todos los sistemas clínicos de estadificación. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La comparación describe grupos; no demuestra que adelantar el diagnóstico habría salvado a todas las personas con enfermedad distante. Agresividad, subtipo molecular, edad, otras enfermedades y acceso también importan. Extirpar por completo una lesión o controlar un cáncer diseminado supone retos diferentes incluso cuando los pacientes comparten una denominación diagnóstica. [NCI: pronóstico, supervivencia y remisión](https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis) [NCI: cómo interpretar el cribado](https://www.cancer.gov/about-cancer/screening/research/what-screening-statistics-mean)"
+    },
+    {
+      "type": "heading",
+      "text": "DETECTAR ANTES NO GARANTIZA LA CURACIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cribado busca enfermedad sin síntomas; las pruebas diagnósticas investigan un síntoma o hallazgo anormal. Algunos programas reducen muertes, y el cribado cervical o colorrectal puede detectar lesiones precancerosas. Importan la prueba, la población, el seguimiento y el equilibrio entre beneficios y daños. [NCI: hitos de investigación y tratamiento](https://www.cancer.gov/research/progress/250-years-milestones) [NCI: investigación del cribado](https://www.cancer.gov/research/areas/screening)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sesgo de adelanto diagnóstico inicia antes el reloj de supervivencia aunque la fecha de muerte no cambie. El sobrediagnóstico identifica tumores que nunca habrían causado daño. Ambos pueden mejorar artificialmente la supervivencia a cinco años. Por eso cuentan los ensayos aleatorizados y la mortalidad. Detectar más casos no demuestra por sí solo que se prolonguen vidas. [NCI: cómo interpretar el cribado](https://www.cancer.gov/about-cancer/screening/research/what-screening-statistics-mean)"
+    },
+    {
+      "type": "heading",
+      "text": "LOS CÁNCERES QUE SIGUEN SIENDO DIFÍCILES"
+    },
+    {
+      "type": "paragraph",
+      "text": "La supervivencia relativa pancreática subió de 3% a 13%, pero sigue siendo baja. La ubicación del órgano y la frecuente extensión antes del diagnóstico limitan la cirugía. La investigación prueba combinaciones mejores y tratamientos para subgrupos moleculares. El progreso es real, sin convertir la enfermedad en un cáncer generalmente curable. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI: investigación del cáncer pancreático](https://www.cancer.gov/types/pancreatic/research)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pulmón y bronquios pasaron de 12% a 28%. La cifra oculta avances importantes para pacientes que responden a terapias dirigidas o inmunoterapia, junto al persistente peso de la enfermedad avanzada. Reducir el tabaco evita muertes antes de necesitar tratamiento. Hígado y conductos biliares intrahepáticos, así como esófago, llegaron a 22% desde cifras muy bajas. Ninguno es un problema resuelto. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [Estadísticas del cáncer 2026: publicación científica](https://doi.org/10.3322/caac.70043) [NCI: terapias dirigidas](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cánceres de cerebro y otros tejidos nerviosos pasaron, agrupados, de 23% a 33%. Esa cifra no estima la supervivencia del glioblastoma. Es una enfermedad especialmente agresiva; la red del NCI subraya la necesidad urgente de tratamientos mejores, incluidos agentes capaces de atravesar la barrera hematoencefálica. Agrupar tumores puede ocultar los casos más difíciles. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI: red de investigación del glioblastoma](https://dctd.cancer.gov/research/networks/gtn)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No todas las líneas suben. Laringe bajó de 66% a 62%; cuerpo uterino, de 87% a 81%. Son cambios descriptivos que cuestionan una narrativa universal de progreso, sin demostrar que todo tratamiento empeoró. Hay que investigar subtipos, estadio y composición poblacional antes de atribuir una causa. [ACS: cifras del cáncer 2026, tablas 7–8](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf) [NCI: tendencias y métodos de supervivencia](https://progressreport.cancer.gov/after/survival)"
+    },
+    {
+      "type": "heading",
+      "text": "CÓMO SE AMPLIÓ EL ARSENAL TERAPÉUTICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "La quimioterapia sigue siendo central porque las combinaciones atacan mediante distintos mecanismos. Cirugía y radioterapia continúan siendo esenciales en muchos cánceres localizados. La nueva etapa añade opciones en lugar de sustituirlo todo. Los ensayos pediátricos muestran también el valor de calendarios, combinaciones y cuidados de apoyo. [NCI: cáncer infantil y seguimiento](https://www.cancer.gov/types/childhood-cancers) [NCI: hitos de investigación y tratamiento](https://www.cancer.gov/research/progress/250-years-milestones)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La terapia dirigida interrumpe proteínas o vías de crecimiento tumoral. La oncología de precisión utiliza biomarcadores para seleccionarla. Una prueba puede no encontrar ninguna diana útil; un fármaco adecuado puede dejar de funcionar si sobreviven células resistentes. Precisión significa decidir mejor, no garantizar beneficio ni ausencia de toxicidad. [NCI: terapias dirigidas](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inmunoterapia puede liberar frenos inmunitarios o movilizar células contra el cáncer. Algunas respuestas son duraderas, pero muchas personas no responden, y la activación puede dañar tejidos sanos. El reto no consiste simplemente en fortalecer las defensas, sino en dirigir una respuesta eficaz contra el tumor sin daños inaceptables. [NCI: inmunoterapia](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy)"
+    },
+    {
+      "type": "paragraph",
+      "text": "CAR-T modifica linfocitos T para reconocer una diana asociada al cáncer. Es una opción importante en determinadas leucemias, linfomas y mieloma. Persisten toxicidades graves, recaídas y exigencias de fabricación y atención especializada. Sus logros en cánceres sanguíneos no demuestran éxito equivalente en tumores sólidos, donde las dianas y el entorno plantean obstáculos adicionales. [NCI: terapia CAR-T](https://www.cancer.gov/about-cancer/treatment/research/car-t-cells)"
+    },
+    {
+      "type": "heading",
+      "text": "CURACIÓN, REMISIÓN Y VIVIR CON CÁNCER"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remisión completa significa desaparición de los signos detectables, no imposibilidad de recaer. Curación supone que el cáncer no volverá, algo que no siempre puede saberse de antemano. Cinco años es una convención estadística, no una fecha de caducidad del riesgo. Supervivencia global cuenta muertes de cualquier causa; supervivencia libre de progresión mide tiempo sin empeoramiento. Responden preguntas distintas. [NCI: pronóstico, supervivencia y remisión](https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vivir más tiempo con cáncer controlado es valioso incluso sin curación. También lo son menos síntomas, terapias menos incapacitantes y mejor calidad de vida. Un balance honesto reconoce esos beneficios sin llamarlos erradicación. Un tumor resistente no convierte al paciente en un fracaso: los resultados dependen de biología, atención y circunstancias, no de determinación personal."
+    },
+    {
+      "type": "heading",
+      "text": "EL PROGRESO NO LLEGA A TODOS POR IGUAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "La OMS informa que se cura a más del 80% de los niños con cáncer en países de ingresos altos, frente a menos del 30% en muchos de ingresos bajos y medios. Diagnóstico tardío, tratamientos inaccesibles, abandono y toxicidad contribuyen. Estos resúmenes mundiales siguen un marco distinto de los registros estadounidenses y no deben mezclarse en una clasificación única. [OMS: cáncer infantil y acceso](https://www.who.int/news-room/fact-sheets/detail/cancer-in-children)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El acceso forma parte de la historia científica. Anatomía patológica, imagen, medicamentos, cirugía segura, radioterapia y seguimiento convierten descubrimientos en atención. Una encuesta de la OMS publicada por IARC en 2024 indicó que solo 39% de los países participantes cubrían el manejo básico del cáncer en servicios esenciales financiados para toda la ciudadanía. Una mejora publicada en un país no llega automáticamente a todos. [IARC/OMS: carga mundial y servicios oncológicos](https://www.iarc.who.int/wp-content/uploads/2024/02/pr345_E.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prevención importa: controlar tabaco e infecciones cancerígenas puede evitar la enfermedad. Nuestro [reportaje sobre alcohol y salud](/articles/history-of-alcohol-beer-wine-spirits/) examina otra exposición establecida. Distinguir promesas biológicas de beneficios probados en humanos también atraviesa nuestra [investigación sobre envejecimiento](/articles/anti-aging-can-we-slow-down-human-aging/). [Estadísticas del cáncer 2026: publicación científica](https://doi.org/10.3322/caac.70043)"
+    },
+    {
+      "type": "heading",
+      "text": "EL FUTURO, SIN EXAGERACIONES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las vacunas terapéuticas buscan enseñar al sistema inmunitario a reconocer antígenos del tumor. Algunos métodos ya tienen usos clínicos concretos; las vacunas personalizadas siguen siendo un campo activo. Un resultado en ratones, una reducción tumoral en un ensayo pequeño o un anuncio empresarial no demuestra una cura universal. Importan beneficio sostenido, toxicidad y comparaciones clínicas pertinentes. [NCI: vacunas terapéuticas](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/cancer-treatment-vaccines)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nuevas terapias celulares, combinaciones y selección de pacientes pueden prolongar los avances. Las pruebas sanguíneas multicáncer ofrecen otra vía, pero detectar señales no prueba que el cribado salve vidas. NCI investiga estas tecnologías según resultados relevantes, incluidas enfermedad y mortalidad. Ningún atajo elimina la necesidad de ensayos rigurosos. [NCI: inmunoterapia](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy) [NCI: investigación del cribado](https://www.cancer.gov/research/areas/screening)"
+    },
+    {
+      "type": "heading",
+      "text": "¿QUÉ CÁNCERES HEMOS APRENDIDO A VENCER?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hemos aprendido a curar muchos casos de algunos cánceres, prevenir otros y controlar más enfermedades durante más tiempo. No hemos vencido todos los estadios y subtipos ni hecho universal el acceso. El balance de cincuenta años no es un eslogan triunfal ni un veredicto de fracaso: reúne avances medibles y necesidades todavía urgentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen principal es una ilustración conceptual de laboratorio generada con IA. El lazo y las formas moleculares son simbólicos, no fotografías de células cancerosas, interpretaciones de exploraciones clínicas ni pruebas de un tratamiento."
+    }
+  ],
+  "sources": [
+    {
+      "label": "ACS: cifras del cáncer 2026, tablas 7–8",
+      "url": "https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2026/2026-cancer-facts-and-figures.pdf"
+    },
+    {
+      "label": "Estadísticas del cáncer 2026: publicación científica",
+      "url": "https://doi.org/10.3322/caac.70043"
+    },
+    {
+      "label": "NCI: pronóstico, supervivencia y remisión",
+      "url": "https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis"
+    },
+    {
+      "label": "NCI: cómo interpretar el cribado",
+      "url": "https://www.cancer.gov/about-cancer/screening/research/what-screening-statistics-mean"
+    },
+    {
+      "label": "NCI: terapias dirigidas",
+      "url": "https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies"
+    },
+    {
+      "label": "NCI: cáncer infantil y seguimiento",
+      "url": "https://www.cancer.gov/types/childhood-cancers"
+    },
+    {
+      "label": "NCI: investigación del cáncer pancreático",
+      "url": "https://www.cancer.gov/types/pancreatic/research"
+    },
+    {
+      "label": "NCI: red de investigación del glioblastoma",
+      "url": "https://dctd.cancer.gov/research/networks/gtn"
+    },
+    {
+      "label": "NCI: inmunoterapia",
+      "url": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy"
+    },
+    {
+      "label": "NCI: terapia CAR-T",
+      "url": "https://www.cancer.gov/about-cancer/treatment/research/car-t-cells"
+    },
+    {
+      "label": "NCI: hitos de investigación y tratamiento",
+      "url": "https://www.cancer.gov/research/progress/250-years-milestones"
+    },
+    {
+      "label": "OMS: cáncer infantil y acceso",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cancer-in-children"
+    },
+    {
+      "label": "IARC/OMS: carga mundial y servicios oncológicos",
+      "url": "https://www.iarc.who.int/wp-content/uploads/2024/02/pr345_E.pdf"
+    },
+    {
+      "label": "NCI: vacunas terapéuticas",
+      "url": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/cancer-treatment-vaccines"
+    },
+    {
+      "label": "NCI: investigación del cribado",
+      "url": "https://www.cancer.gov/research/areas/screening"
+    },
+    {
+      "label": "NCI: tendencias y métodos de supervivencia",
+      "url": "https://progressreport.cancer.gov/after/survival"
+    },
+    {
+      "label": "NCI PDQ: tratamiento del cáncer testicular",
+      "url": "https://www.cancer.gov/types/testicular/hp/testicular-treatment-pdq"
+    },
+    {
+      "label": "NCI PDQ: tratamiento del linfoma de Hodgkin",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/adult-hodgkin-treatment-pdq"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué cánceres mejoraron más en cincuenta años?",
+      "answer": "En la comparación estadounidense de ACS destacan mieloma, leucemias, próstata, riñón y pelvis renal y linfoma no Hodgkin por sus aumentos en puntos. Las cifras agrupan estadios y subtipos; mejor supervivencia no equivale a curación."
+    },
+    {
+      "question": "¿Sobrevivir cinco años significa estar curado?",
+      "answer": "No. La supervivencia relativa ajusta la mortalidad habitual. Puede existir remisión, enfermedad controlada o riesgo de recaída. Cinco años es un intervalo de medición, no un umbral universal de curación."
+    },
+    {
+      "question": "¿Por qué siguen siendo difíciles el páncreas y algunos tumores cerebrales?",
+      "answer": "El cáncer pancreático suele diagnosticarse después de una extensión que limita la cirugía. El glioblastoma presenta obstáculos biológicos y de llegada de medicamentos. Una cifra cerebral agrupada no es el pronóstico del glioblastoma."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "50 AÑOS FRENTE AL CÁNCER",
+    "gold": "APRENDIDO REALMENTE A VENCER"
+  },
+  "readingTimeMinutes": 8
+}
