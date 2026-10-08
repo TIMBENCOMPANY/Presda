@@ -1,3 +1,4 @@
+import { harryMeghanReturnArticle } from "@/data/harryMeghanReturnArticle";
 import { deepSeaVirusesArticle } from "@/data/deepSeaVirusesArticle";
 import { sharkHearingArticle } from "@/data/sharkHearingArticle";
 import { retinalRepairArticle } from "@/data/retinalRepairArticle";
@@ -35627,7 +35628,8 @@ export const articles: Article[] = [
   lunar5gArticle,
   retinalRepairArticle,
   sharkHearingArticle,
-  deepSeaVirusesArticle
+  deepSeaVirusesArticle,
+  harryMeghanReturnArticle
 ];
 
 export const categories: ArticleCategory[] = [
