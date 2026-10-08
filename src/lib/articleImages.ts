@@ -57,6 +57,8 @@ export function getArticleHeroImagePosition(article: Pick<Article, "slug" | "hom
 
 export function getArticleDesktopHeroImagePosition(article: Pick<Article, "slug"> & Partial<Pick<Article, "homepageImagePosition">>) {
   switch (article.slug) {
+    case "bradley-cooper-gigi-hadid-paris-marriage-speculation":
+      return "50% 0%";
     case "epstein-island-little-st-james-investigation":
       return "50% 68%";
     default:
