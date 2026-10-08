@@ -781,6 +781,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/deep-sea-viruses-clarion-clipperton-discovery/",
+    "path": "/ar/articles/deep-sea-viruses-clarion-clipperton-discovery/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/deep-sea-viruses-clarion-clipperton-discovery/",
+    "path": "/es/articles/deep-sea-viruses-clarion-clipperton-discovery/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/deep-sea-viruses-clarion-clipperton-discovery/",
+    "path": "/fr/articles/deep-sea-viruses-clarion-clipperton-discovery/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/deja-vu-why-does-it-happen-brain-science/",
     "path": "/ar/articles/deja-vu-why-does-it-happen-brain-science/"
   },

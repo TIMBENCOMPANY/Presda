@@ -1,0 +1,212 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/deep-sea-viruses-clarion-clipperton-discovery/",
+  "path": "/es/articles/deep-sea-viruses-clarion-clipperton-discovery/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es scientific terminology and source-parity review",
+    "reviewedAt": "2026-10-08",
+    "terminologyChecked": true
+  },
+  "title": "VIRUS DE LAS PROFUNDIDADES QUE LA CIENCIA NO CONOCÍA",
+  "excerpt": "Un estudio del fondo del Pacífico catalogó 11.742 grupos virales definidos por secuencias. Qué significan para la ecología y la evaluación minera.",
+  "seoTitle": "Virus de las profundidades: el nuevo estudio del Pacífico",
+  "description": "Un estudio del fondo del Pacífico catalogó 11.742 grupos virales definidos por secuencias. Qué significan para la ecología y la evaluación minera.",
+  "keywords": [
+    "Virus de las profundidades: el nuevo estudio del Pacífico",
+    "VIRUS DE LAS PROFUNDIDADES QUE LA CIENCIA NO CONOCÍA"
+  ],
+  "searchIntent": "Un estudio del fondo del Pacífico catalogó 11.742 grupos virales definidos por secuencias. Qué significan para la ecología y la evaluación minera.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-08",
+  "updatedAt": "2026-10-08",
+  "image": {
+    "src": "/articles/deep-sea-viruses-rov-conceptual-illustration.png",
+    "alt": "Ilustración conceptual generada con IA de un vehículo submarino junto a una fuente hidrotermal, no una foto del hallazgo de Clarion-Clipperton"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A más de cinco kilómetros bajo el Pacífico, los nódulos ricos en minerales descansan en un sedimento que parece casi sin vida desde un barco. El análisis genético cuenta otra historia. Un nuevo estudio revela una extraordinaria colección de secuencias virales apenas representadas en las bases de referencia, dentro de una región investigada para la minería submarina."
+    },
+    {
+      "type": "paragraph",
+      "text": "El hallazgo corresponde a la zona de Clarion-Clipperton, no a un nuevo patógeno humano. Es un catálogo de genomas y fragmentos virales ambientales cuyas relaciones ecológicas siguen bajo investigación. Detectar material genético desconocido no equivale a reconocer oficialmente una nueva especie de virus. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0) [ICTV: taxonomía viral y metagenómica](https://ictv.global/sites/default/files/web-files/General_Information/Virus_taxonomy_in_the_age_of_metagenomics.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "DÓNDE SE HIZO EL DESCUBRIMIENTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bowen Hou, Lilan Zhang y Dong Sun, vinculados a la Universidad de Chongqing y al Segundo Instituto de Oceanografía de China, publicaron la investigación en Nature Communications el 29 de septiembre de 2026. La editorial difundió un manuscrito aceptado y revisado por pares antes de la versión definitiva. El estudio examina virus de los sedimentos de la provincia de nódulos polimetálicos de Clarion-Clipperton, en el Pacífico. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores recogieron 53 muestras de sedimento utilizables en 14 estaciones durante las expediciones COMRA DY79 y DY88 de 2023 y 2024. Las combinaron con siete metagenomas de sedimentos ya publicados de la región. El análisis abarca, por tanto, 60 muestras, no 60 lugares visitados por primera vez. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0) [Estudio original: datos suplementarios 1–11](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-026-78161-0/MediaObjects/41467_2026_78161_MOESM3_ESM.xlsx)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para las nuevas muestras, los datos suplementarios 1 registran profundidades de agua entre 5.169 y 5.285 metros. Son distancias bajo el nivel del mar. Las capas de sedimento analizadas estaban a 0–2, 4–6, 8–10 y 14–16 centímetros bajo el lecho marino, una medición distinta de la profundidad oceánica. [Estudio original: datos suplementarios 1–11](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-026-78161-0/MediaObjects/41467_2026_78161_MOESM3_ESM.xlsx)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un muestreador de múltiples testigos recuperó columnas de sedimento. A bordo se cortaron y congelaron para extraer ADN en el laboratorio. La metagenómica de ADN lee material genético de una comunidad mezclada sin tener que cultivar por separado cada organismo o virus. No fue una inmersión que fotografiara miles de partículas virales desconocidas. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ SIGNIFICAN REALMENTE LAS CIFRAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo ensambló lecturas de ADN y utilizó cinco métodos informáticos para recuperar 14.181 secuencias virales de más de cinco kilobases. Al agruparlas con un 95 % de identidad nucleotídica media y una cobertura mínima de alineamiento del 85 %, obtuvo 11.742 unidades taxonómicas operativas virales, o vOTU. Son agrupaciones de investigación que aproximan la diversidad a nivel de especie. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la comparación de referencia, 11.662 vOTU, el 99,3 %, no se agruparon con secuencias de referencia. Eso mide su escasa representación en las bases comparadas. No demuestra que hayan evolucionado recientemente, que no existan virus emparentados en otros lugares ni que cada secuencia tenga ya categoría oficial de especie. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El descubrimiento mediante secuencias es evidencia científica válida. El Comité Internacional de Taxonomía de Virus permite clasificar a partir de genomas debidamente caracterizados sin exigir cultivo en todos los casos. Pero el número de vOTU de un estudio no es automáticamente un recuento de especies aprobadas por el ICTV. La clasificación formal y la agrupación ecológica informática cumplen funciones distintas. [ICTV: taxonomía viral y metagenómica](https://ictv.global/sites/default/files/web-files/General_Information/Virus_taxonomy_in_the_age_of_metagenomics.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "También varía el grado de integridad. El catálogo incluye 519 genomas evaluados como completos, junto con secuencias de calidad alta o media y fragmentos más cortos. Las 11.742 agrupaciones no equivalen a ese número de genomas completos, cultivos virales aislados o infecciones comprobadas experimentalmente. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "heading",
+      "text": "LOS MICROORGANISMOS TRAS LOS VIRUS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las bacterias y arqueas marinas mantienen procesos invisibles en una imagen corriente del fondo. Transforman nutrientes y materia orgánica, y su distribución sigue insuficientemente cartografiada en las profundidades. Los virus necesitan células hospedadoras para reproducirse; comprender una secuencia viral suele exigir entender también su hospedador. [NOAA: microorganismos marinos](https://oceanexplorer.noaa.gov/ocean-fact/marinemicrobes/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de las agrupaciones se asignó a Caudoviricetes, una clase que incluye virus con cola de procariotas. La predicción informática vinculó 482 vOTU, aproximadamente el 4,1 % del catálogo, con genomas microbianos reconstruidos. Son relaciones predichas, no demostraciones de laboratorio de cada infección propuesta. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa pequeña proporción también mide la incertidumbre. La mayoría de los grupos carece todavía de un hospedador predicho en este análisis. Mejores referencias, cultivos cuando sean viables y pruebas directas podrían cambiar el panorama. La falta de una predicción no significa que el virus no tenga hospedador."
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ IMPORTAN PARA EL ECOSISTEMA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los virus pueden modificar comunidades microbianas al infectar células y hacer que se rompan. El material liberado queda disponible para otros microorganismos, desviando nutrientes por el ecosistema. Estudios anteriores de las profundidades establecieron que la actividad viral puede influir considerablemente en la producción y el reciclaje microbianos. Ese contexto da importancia ecológica al inventario genético antes de comprender cada secuencia. [Danovaro y colegas: ecología viral de las profundidades](https://www.nature.com/articles/nature07268)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El nuevo trabajo relaciona hospedadores potenciales con transformaciones de carbono, nitrógeno, fósforo, azufre y metales. También identifica posibles genes metabólicos auxiliares capaces de influir en procesos celulares durante la infección. Podrían aclarar el papel viral en un entorno pobre en nutrientes y rico en metales. Su presencia no mide por sí sola la velocidad del procesamiento de carbono o minerales. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El posible intercambio de genes de resistencia a metales sugiere una vía de adaptación de microorganismos al estrés metálico. Es una interpretación de relaciones genómicas, no un experimento que demuestre que los virus vuelven el fondo resistente a la minería. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una perspectiva de Nature Microbiology de 2025 advierte que las anotaciones automatizadas pueden identificar erróneamente genes metabólicos auxiliares y exagerar su significado biológico. La expresión génica, la bioquímica y los experimentos de infección permiten probar las funciones predichas. El nuevo catálogo ofrece candidatos para esa investigación; no la sustituye. [Martin y colegas: interpretación de genes metabólicos](https://www.nature.com/articles/s41564-025-02095-4)"
+    },
+    {
+      "type": "heading",
+      "text": "UNA REFERENCIA ANTES DE ALTERAR EL FONDO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El vínculo con la minería es el hábitat, no una afirmación de que la maquinaria liberará patógenos peligrosos. Los nódulos polimetálicos interesan por sus recursos minerales. La evaluación científica de NOAA identifica la alteración del sedimento, la destrucción del hábitat bentónico y las plumas de partículas como impactos potenciales, con importantes incertidumbres sobre su propagación. [NOAA: evaluación científica de la minería submarina](https://repository.library.noaa.gov/view/noaa/69973/noaa_69973_DS1.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una línea de base registra lo que existe antes de una perturbación. Muestras posteriores pueden comparar composición, asociaciones y funciones con esa referencia. Sin punto de partida resulta más difícil detectar o interpretar cambios. Un catálogo no cuantifica por sí solo pérdidas, tiempos de recuperación ni consecuencias de una operación minera concreta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hou y sus colegas presentan sus datos como contribución a la evaluación ambiental previa a la minería. El hallazgo no demuestra que cada virus desaparecerá al retirar nódulos ni que los organismos de capas inferiores garanticen la recuperación. Estudiar perturbación y recuperación exige un diseño de muestreo y mediciones propios. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los autores compartieron código y enlaces a repositorios de secuencias y genomas representativos. Los datos públicos permiten examinar el procedimiento, mejorar comparaciones y ampliar el catálogo. La reproducibilidad importa especialmente cuando los resultados dependen de ensamblar e interpretar material genético desconocido. [Código CCZV y enlaces a los datos de los autores](https://github.com/Bowencqu/CCZV/)"
+    },
+    {
+      "type": "heading",
+      "text": "LO QUE SIGUE SIN SABERSE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las preguntas centrales son biológicas: qué células hospedan estos virus, con qué frecuencia ocurren las infecciones, qué genes se expresan y cómo cambian las relaciones según estaciones y hábitats. Un estudio de ADN registra material en muestras; no demuestra automáticamente la actividad de cada secuencia ni describe toda la diversidad viral del Pacífico."
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajo no aporta evidencia de que estas secuencias correspondan a virus que infectan a humanos o a una nueva amenaza sanitaria. Un virus ambiental desconocido no es automáticamente un patógeno. El análisis de hospedadores aborda bacterias y arqueas, mientras que la importancia principal es la ecología marina. [Hou, Zhang y Sun: estudio original de 2026](https://doi.org/10.1038/s41467-026-78161-0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El siguiente paso es conectar catálogos genéticos con procesos medidos. Más lugares, muestreos repetidos y experimentos podrían convertir redes predichas en explicaciones mejores del ciclo de nutrientes y la respuesta a perturbaciones. El descubrimiento amplía el mapa de la vida profunda y muestra cuánto falta por completar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para seguir explorando, lea los reportajes PRESDA sobre [la audición del tiburón de puntas negras](/articles/blacktip-shark-hearing-underwater-sound-study/) y [la mente del pulpo](/articles/octopus-mind-intelligence-brain-eight-arms/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen principal es una ilustración conceptual generada con IA de un vehículo operado a distancia junto a una fuente hidrotermal. No es una fotografía del hallazgo. El estudio muestreó sedimentos de campos de nódulos polimetálicos, un hábitat distinto de las profundidades."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Hou, Zhang y Sun: estudio original de 2026",
+      "url": "https://doi.org/10.1038/s41467-026-78161-0"
+    },
+    {
+      "label": "Estudio original: datos suplementarios 1–11",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-026-78161-0/MediaObjects/41467_2026_78161_MOESM3_ESM.xlsx"
+    },
+    {
+      "label": "ICTV: taxonomía viral y metagenómica",
+      "url": "https://ictv.global/sites/default/files/web-files/General_Information/Virus_taxonomy_in_the_age_of_metagenomics.pdf"
+    },
+    {
+      "label": "Código CCZV y enlaces a los datos de los autores",
+      "url": "https://github.com/Bowencqu/CCZV/"
+    },
+    {
+      "label": "Danovaro y colegas: ecología viral de las profundidades",
+      "url": "https://www.nature.com/articles/nature07268"
+    },
+    {
+      "label": "Martin y colegas: interpretación de genes metabólicos",
+      "url": "https://www.nature.com/articles/s41564-025-02095-4"
+    },
+    {
+      "label": "NOAA: evaluación científica de la minería submarina",
+      "url": "https://repository.library.noaa.gov/view/noaa/69973/noaa_69973_DS1.pdf"
+    },
+    {
+      "label": "NOAA: microorganismos marinos",
+      "url": "https://oceanexplorer.noaa.gov/ocean-fact/marinemicrobes/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Se confirmaron 11.742 nuevas especies de virus?",
+      "answer": "No. La cifra corresponde a unidades taxonómicas operativas definidas por secuencias, no a especies aprobadas oficialmente ni a virus completos aislados."
+    },
+    {
+      "question": "¿A qué profundidad se recogieron las nuevas muestras?",
+      "answer": "Los datos suplementarios 1 registran profundidades de agua entre 5.169 y 5.285 metros para las 53 nuevas muestras de sedimento."
+    },
+    {
+      "question": "¿Representan una amenaza demostrada para humanos?",
+      "answer": "El estudio no aporta pruebas de infección humana ni de una nueva amenaza sanitaria. Su análisis de hospedadores aborda bacterias y arqueas."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "VIRUS DE LAS PROFUNDIDADES",
+    "gold": "NO CONOCÍA"
+  },
+  "readingTimeMinutes": 7
+}
