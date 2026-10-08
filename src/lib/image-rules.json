@@ -1,0 +1,23 @@
+{
+  "defaultFocalPoint": "50% 50%",
+  "featured": {
+    "aspectRatio": 1.7777777777777777,
+    "fit": "cover",
+    "radius": 16
+  },
+  "card": {
+    "aspectRatio": 1.3333333333333333,
+    "fit": "cover",
+    "radius": 12
+  },
+  "article": {
+    "fit": "contain",
+    "natural": true,
+    "radius": 16
+  },
+  "inline": {
+    "fit": "contain",
+    "natural": true,
+    "radius": 0
+  }
+}

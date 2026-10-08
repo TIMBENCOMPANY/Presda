@@ -3,6 +3,7 @@ import { ArrowRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import type { Article } from "@/data/articles";
+import { getArticleHeroImagePosition } from "@/lib/articleImages";
 import { categoryLabels, formatDate } from "@/lib/categories";
 
 export function FeaturedArticle({ article }: { article: Article }) {
@@ -27,14 +28,15 @@ export function FeaturedArticle({ article }: { article: Article }) {
           <ArrowRight className="h-4 w-4" strokeWidth={1.5} />
         </Link>
       </div>
-      <Link href={`/articles/${article.slug}/`} className="group relative aspect-[16/10] overflow-hidden rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] shadow-[var(--shadow)] lg:aspect-[4/3]">
+      <Link href={`/articles/${article.slug}/`} className="group relative presda-featured-media overflow-hidden rounded-2xl border border-[color:var(--border)] bg-[color:var(--card)] shadow-[var(--shadow)]">
         <Image
           src={article.coverImage}
           alt={article.coverAlt}
           fill
           priority
           sizes="(max-width: 1024px) 100vw, 50vw"
-          className="object-cover object-center transition duration-500 group-hover:scale-105"
+          className="object-cover object-center transition duration-500"
+          style={{ objectPosition: getArticleHeroImagePosition(article) }}
         />
         <div className="absolute inset-x-0 bottom-0 h-px bg-[#FF1A1A]" />
       </Link>

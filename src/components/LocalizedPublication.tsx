@@ -47,7 +47,7 @@ export function LocalizedPublication({ record }: { record: Translation }) {
         <h1 className="max-w-5xl font-display text-4xl font-extrabold leading-tight sm:text-6xl">{record.title}</h1>
         {record.excerpt && <p className="mt-6 max-w-4xl text-xl leading-9 text-[color:var(--muted)]">{record.excerpt}</p>}
         {record.author && <p className="my-5 text-[color:var(--muted)]"><bdi>{record.author}</bdi> · <time dateTime={record.publishedAt}>{new Intl.DateTimeFormat(record.locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(record.publishedAt))}</time></p>}
-        {record.image && <Image src={record.image.src} alt={record.image.alt} width={record.image.width ?? 1280} height={record.image.height ?? 720} priority sizes="(max-width: 1120px) 100vw, 1120px" className="my-8 h-auto w-full rounded-xl" />}
+        {record.image && <Image src={record.image.src} alt={record.image.alt} width={record.image.width ?? 1280} height={record.image.height ?? 720} priority sizes="(max-width: 1120px) 100vw, 1120px" className="my-8 h-auto w-full rounded-2xl object-contain" />}
         {sections.length > 0 && <details className="my-8 max-w-4xl rounded-xl border border-[color:var(--border)] p-5">
           <summary className="cursor-pointer font-bold">{t.contents}</summary>
           <nav aria-label={t.contents} className="mt-4"><ol className="space-y-2 text-sm leading-6">{sections.map(section => <li key={section.index} className={section.level === "subheading" ? "ps-4" : undefined}><a href={`#section-${section.index}`} className="underline decoration-[#ff1a1a]/40 underline-offset-4">{section.title}</a></li>)}</ol></nav>

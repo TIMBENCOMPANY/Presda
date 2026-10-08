@@ -42,7 +42,7 @@ export function HomeLatestCarousel({ articles, locale = "en" }: { articles: Arti
         <div ref={track} id="home-latest-track" className="home-latest-track flex snap-x snap-mandatory gap-3 overflow-x-auto overscroll-x-contain">
           {articles.map(article => <div key={article.slug}>
             <Link prefetch={false} href={article.href ?? `/articles/${article.slug}/`} className="home-latest-story group">
-              <div className="home-latest-media relative overflow-hidden">
+              <div className="home-latest-media presda-card-media relative overflow-hidden">
                 <HomeImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={72} sizes="(max-width: 639px) 112px, (max-width: 1023px) 120px, 160px" className="object-cover" style={{ objectPosition: getArticleCardImagePosition(article) }} />
               </div>
               <div className="home-latest-copy">

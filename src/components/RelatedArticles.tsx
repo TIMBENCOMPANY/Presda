@@ -23,16 +23,16 @@ export function RelatedArticles({ articles, locale = "en", paths }: { articles: 
             key={article.id}
             prefetch={false}
             href={paths?.[article.id] ?? `/articles/${article.slug}/`}
-            className="group block overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] shadow-[var(--home-card-shadow)] transition duration-200 hover:-translate-y-0.5 hover:border-[#FF1A1A]/70"
+            className="group block overflow-hidden rounded-xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] shadow-[var(--home-card-shadow)] transition duration-200 hover:-translate-y-0.5 hover:border-[#FF1A1A]/70"
           >
-            <div className="relative aspect-[16/9] overflow-hidden bg-black">
+            <div className="relative presda-card-media overflow-hidden bg-black">
               <Image
                 src={getArticleCardImage(article)}
                 alt={article.coverAlt}
                 fill
                 quality={72}
                 sizes="(max-width: 767px) calc(100vw - 24px), (max-width: 1279px) calc(50vw - 24px), (max-width: 1531px) calc((100vw - 64px) / 3), 488px"
-                className="object-cover transition duration-500 group-hover:scale-105"
+                className="object-cover transition duration-500"
                 style={{ objectPosition: getArticleCardImagePosition(article) }}
               />
               <div className="absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42),rgba(0,0,0,0.04)_58%,transparent)]" />

@@ -8,6 +8,9 @@ const { imageSources } = require('./image-sources.cjs');
 const { translationRoutes } = require('../src/lib/i18n/registry.ts');
 const { listingRoutes } = require('../src/lib/i18n/listing-routes.ts');
 const manifest = require('../src/lib/image-manifest.generated.json');
+const dimensions = require('../src/lib/image-dimensions.generated.json');
+const rules = require('../src/lib/image-rules.json');
+const { getArticleCardImage, getArticleHeroImagePosition, getArticleCardImagePosition, getArticleImageDimensions } = require('../src/lib/articleImages.ts');
 const loader = require('../src/lib/staticImageLoader.ts').default;
 const { getImgProps } = require('next/dist/shared/lib/get-img-props');
 const { imageConfigDefault } = require('next/dist/shared/lib/image-config');
@@ -17,11 +20,30 @@ async function main() {
   assert.equal(config.images.loader, 'custom');
   assert.equal(config.images.loaderFile, './src/lib/staticImageLoader.ts');
   const imgConf = { ...imageConfigDefault, ...config.images };
+  assert.equal(rules.featured.aspectRatio, 16 / 9);
+  assert.equal(rules.card.aspectRatio, 4 / 3);
+  assert.equal(rules.featured.fit, 'cover');
+  assert.equal(rules.article.natural, true);
+  assert.equal(getArticleHeroImagePosition({ slug: 'regression' }), '50% 50%');
+  assert.equal(getArticleHeroImagePosition({ slug: 'regression', homepageImagePosition: '70% 35%' }), '70% 35%');
+  assert.equal(getArticleCardImagePosition({ slug: 'regression', homepageImagePosition: '70% 35%' }), '70% 35%');
+  for (const [src, width, height] of [['/articles/bradley-cooper-gigi-hadid-paris.png', 1536, 1024], ['/articles/panda-diplomacy-atlanta.png', 1448, 1086]]) {
+    assert.deepEqual(getArticleImageDimensions(src), { width, height }, `Regression geometry: ${src}`);
+    assert.equal(getArticleCardImage({ category: 'World', coverImage: src }), src, 'Preserve original regression artwork');
+  }
+  assert.equal(getArticleCardImage({ category: 'History', coverImage: '/images/articles/british-empire-history-rise-fall-global-legacy.webp' }), '/images/articles/british-empire-history-rise-fall-global-legacy.webp', 'Never double-crop legacy thumbnails');
+  const css = fs.readFileSync(path.join(__dirname, '../src/app/globals.css'), 'utf8');
+  assert(css.includes('.presda-featured-media { aspect-ratio: 16 / 9;'));
+  assert(css.includes('.presda-card-media { aspect-ratio: 4 / 3;'));
+  assert(css.includes('.article-hero .article-hero-image { position: static; width: 100%; height: auto;'));
   const checked = new Set();
   for (const [src] of imageSources()) {
     const original = path.join(__dirname, '../public', src);
     assert(fs.existsSync(original), `Missing original ${src}`);
     const source = await sharp(original).metadata();
+    assert.deepEqual(getArticleImageDimensions(src), dimensions[src]);
+    assert.equal(dimensions[src].width, source.autoOrient?.width || source.width);
+    assert.equal(dimensions[src].height, source.autoOrient?.height || source.height);
     const variants = manifest[src];
     assert(variants?.length, `Missing responsive source ${src}`);
     assert(variants.length <= 6, `Unbounded variants for ${src}`);

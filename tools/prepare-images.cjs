@@ -10,6 +10,7 @@ const recipe = `webp-q90-effort5-inside-no-upscale-v1-${sharp.versions.sharp}-${
 
 async function main() {
   const manifest = {};
+  const dimensions = {};
   const generated = new Map();
   let originalBytes = 0;
   for (const [src, requested] of imageSources()) {
@@ -18,6 +19,7 @@ async function main() {
     const bytes = await fs.readFile(input); // Missing published artwork must fail the build.
     const metadata = await sharp(bytes).metadata();
     if (!metadata.width || !metadata.height || (metadata.pages || 1) > 1) throw new Error(`Unsupported image: ${src}`);
+    dimensions[src] = { width: metadata.autoOrient?.width || metadata.width, height: metadata.autoOrient?.height || metadata.height };
     originalBytes += bytes.length;
     const id = crypto.createHash('sha256').update(recipe).update(bytes).digest('hex').slice(0, 20);
     const widths = [...new Set(requested.map(w => Math.min(w, metadata.autoOrient?.width || metadata.width)))];
@@ -47,6 +49,7 @@ async function main() {
     if (Object.keys(manifest).length % 50 === 0) console.log(`Prepared ${Object.keys(manifest).length} image sources...`);
   }
   await fs.writeFile(path.join(root, 'src/lib/image-manifest.generated.json'), JSON.stringify(manifest));
+  await fs.writeFile(path.join(root, 'src/lib/image-dimensions.generated.json'), JSON.stringify(dimensions));
   const outputBytes = [...generated.values()].reduce((a, b) => a + b, 0);
   console.log(`Prepared ${Object.keys(manifest).length} published image sources; ${generated.size} static derivatives, ${(outputBytes / 1048576).toFixed(1)} MiB; originals preserved (${(originalBytes / 1048576).toFixed(1)} MiB).`);
 }

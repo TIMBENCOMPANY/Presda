@@ -27,9 +27,9 @@ export function ArticleCard({ article, locale = "en", priority = false, showImag
     <Link
       prefetch={false}
       href={article.href ?? `/articles/${article.slug}/`}
-      className="group block overflow-hidden rounded-lg border border-[color:var(--border)] bg-[color:var(--card)] shadow-[var(--shadow)] transition hover:border-[#FF1A1A]"
+      className="group block overflow-hidden rounded-xl border border-[color:var(--border)] bg-[color:var(--card)] shadow-[var(--shadow)] transition hover:border-[#FF1A1A]"
     >
-      <div className="relative aspect-[16/10] overflow-hidden bg-black">
+      <div className="relative presda-card-media overflow-hidden bg-black">
         {showImage ? (
           <CardImage
             src={getArticleCardImage(article)}
@@ -38,7 +38,7 @@ export function ArticleCard({ article, locale = "en", priority = false, showImag
             priority={priority}
             quality={72}
             sizes={sizes}
-            className="object-cover object-center transition duration-500 group-hover:scale-105"
+            className="object-cover object-center transition duration-500"
             style={{ objectPosition: getArticleCardImagePosition(article) }}
           />
         ) : (

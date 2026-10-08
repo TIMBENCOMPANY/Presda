@@ -10,7 +10,7 @@ import { ChevronLeft, ChevronRight, Pause, Play } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 import { HomeImage } from "@/components/HomeImage";
 import { HeadlineText } from "@/components/HeadlineText";
-import { getArticleCardImage, getArticleHeroImagePosition } from "@/lib/articleImages";
+import { getArticleCardImage, getArticleCardImagePosition, getArticleHeroImagePosition } from "@/lib/articleImages";
 import type { CategoryStory } from "@/lib/categoryCuration";
 
 type FeaturedCarouselProps = {
@@ -123,18 +123,18 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
             <article key={article.slug} aria-hidden={index !== active} aria-label={`${index + 1} ${t.of} ${slides.length}`} aria-roledescription={t.slide}
               className={`relative col-start-1 row-start-1 transition-opacity duration-700 motion-reduce:transition-none ${index === active ? "z-10 opacity-100" : "pointer-events-none opacity-0"}`}>
               <Link prefetch={index === active ? undefined : false} href={article.href ?? `/articles/${article.slug}/`} tabIndex={index === active ? 0 : -1} className="group block h-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-[#FF1A1A]">
-                <div className="category-featured-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
+                <div className="category-featured-media presda-featured-media relative">
                   {(index === active || visited.includes(index) || preload || (isHome && readyImages.includes(index))) && <StoryImage src={article.coverImage} alt={article.coverAlt} fill priority={index === 0} quality={76}
                     loading={isHome && index !== 0 ? "eager" : undefined}
                     onLoad={isHome ? () => setReadyImages(indices => indices.includes(index) ? indices : [...indices, index]) : undefined}
                     sizes={isHome ? "(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1535px) 65vw, 1000px" : "(max-width: 1023px) calc(100vw - 24px), (max-width: 1536px) 65vw, 1000px"}
-                    className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 42%" }} />}
+                    className="object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 50%" }} />}
                   <p className={`category-featured-image-meta absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-x-3 gap-y-1 bg-gradient-to-t from-black/90 via-black/70 to-transparent pr-3 pb-2 pt-6 text-[11px] font-medium text-white ${isHome ? "z-10" : "sm:hidden"} ${slides.length > 1 ? "pl-20" : "pl-3"}`}>
                     {locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} /> : <><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span></>}
                   </p>
                 </div>
                 <div className="pointer-events-none absolute inset-0 hidden bg-gradient-to-t from-black via-black/35 to-transparent lg:block" />
-                <div className={`category-featured-copy relative flex flex-col justify-end p-5 sm:p-7 lg:min-h-[540px] lg:p-8 ${isHome ? "lg:pb-14" : ""}`}>
+                <div className={`category-featured-copy relative flex flex-col justify-end p-5 sm:p-7 lg:p-8 ${isHome ? "lg:pb-14" : ""}`}>
                   <p className="mb-3 hidden font-display text-xs font-extrabold uppercase text-[#FF1A1A] sm:block">{categoryLabels[article.category]}</p>
                   <Title className="max-w-[28ch] text-balance font-display text-2xl font-extrabold uppercase leading-tight sm:text-3xl lg:text-4xl">
                     <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
@@ -164,12 +164,12 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
         </div>}
       </div>
       {sideStories.length > 0 && <div className="category-supporting grid min-w-0 gap-4 sm:grid-cols-2 lg:grid-cols-1">
-        {supportingStories.map(article => <Link key={article.slug} href={article.href ?? `/articles/${article.slug}/`} className="category-supporting-card group relative overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
-          <div className="category-supporting-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
-            <StoryImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes={isHome ? "(max-width: 639px) 112px, (max-width: 1023px) 144px, (max-width: 1535px) 33vw, 500px" : "(max-width: 639px) 112px, (max-width: 1023px) 50vw, 500px"} className="object-contain lg:object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 35%" }} />
+        {supportingStories.map(article => <Link key={article.slug} href={article.href ?? `/articles/${article.slug}/`} className="category-supporting-card group relative overflow-hidden rounded-xl border border-[color:var(--border)] bg-black text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#FF1A1A]">
+          <div className="category-supporting-media presda-card-media relative">
+            <StoryImage src={getArticleCardImage(article)} alt={article.coverAlt} fill quality={76} sizes={isHome ? "(max-width: 639px) 112px, (max-width: 1023px) 144px, (max-width: 1535px) 33vw, 500px" : "(max-width: 639px) 112px, (max-width: 1023px) 50vw, 500px"} className="object-cover" style={{ objectPosition: getArticleCardImagePosition(article) ?? "50% 50%" }} />
           </div>
           <div className={`category-supporting-shade absolute inset-0 hidden bg-gradient-to-t from-black via-black/40 to-transparent ${isHome ? "" : "lg:block"}`} />
-          <div className="category-supporting-copy relative flex flex-col justify-end p-5 lg:h-full lg:min-h-[260px]">
+          <div className="category-supporting-copy relative flex flex-col justify-end p-5 lg:h-full ">
             <p className="category-supporting-label mb-2 font-display text-[10px] font-extrabold uppercase text-[#FF1A1A]">{categoryLabels[article.category]}</p>
             <h2 className="text-balance font-display text-xl font-extrabold uppercase leading-tight"><HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} /></h2>
             <p className="category-supporting-meta mt-3 text-xs text-white/80">{locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} timeClassName="sm:hidden" readingClassName={isHome ? "home-supporting-reading-time" : undefined} separatorClassName={isHome ? undefined : "sm:hidden"} /> : <><time className="mr-2 sm:hidden" dateTime={article.date}>{listingDate(article.date, locale)}</time>{isHome ? <span className="home-supporting-reading-time">{article.readingTime}</span> : article.readingTime}</>}</p>

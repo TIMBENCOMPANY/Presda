@@ -564,8 +564,8 @@ html[dir="rtl"] .home-latest-prev { left: auto; right: 0; }
 html[dir="rtl"] .home-latest-next { right: auto; left: 0; }
 html[dir="rtl"] .home-latest-heading { border-left: 0; border-right: 4px solid var(--home-red); padding-left: 0; padding-right: 12px; }
 html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
-.home-more-articles a > div:first-child { aspect-ratio: 16 / 9; }
-.home-more-articles img { object-fit: contain; }
+.home-more-articles a > div:first-child { aspect-ratio: 4 / 3; }
+.home-more-articles img { object-fit: cover; }
 @media (min-width: 640px) {
   .home-latest-track > div { flex-basis: calc((100% - 12px) / 2); }
   .home-latest-story { grid-template-columns: minmax(0, 34%) minmax(0, 1fr); }
@@ -640,4 +640,30 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
     font-size: clamp(3rem, 3.9vw, 4.8rem);
     line-height: 1;
   }
+}
+
+/* Unified PRESDA image contract. Fixed editorial frames crop only by cover;
+   reader/inline artwork follows source geometry and never inherits those frames. */
+.presda-featured-media { aspect-ratio: 16 / 9; overflow: hidden; }
+.presda-card-media { aspect-ratio: 4 / 3; overflow: hidden; }
+.presda-featured-media img, .presda-card-media img { object-fit: cover; object-position: 50% 50%; }
+.category-featured .category-featured-media { position: relative; inset: auto; aspect-ratio: 16 / 9; }
+.category-featured .category-supporting-media, .home-latest-media { position: relative; inset: auto; align-self: start; width: 100%; height: auto; aspect-ratio: 4 / 3; }
+.category-featured .category-supporting { align-self: start; align-content: start; grid-auto-rows: auto; }
+.category-featured .category-supporting-card { display: grid; grid-template-columns: 112px minmax(0, 1fr); min-height: 0; align-self: start; border-radius: 12px; }
+.category-featured .category-supporting-copy { position: relative; inset: auto; height: auto; min-height: 0; padding: 12px; justify-content: center; }
+.category-featured .category-supporting-shade { display: none; }
+.home-latest-media { align-self: center; }
+.home-latest-story { min-height: 0; }
+.article-hero .article-hero-media { position: relative; inset: auto; aspect-ratio: auto; }
+.article-hero .article-hero-image { position: static; width: 100%; height: auto; max-width: 100%; object-fit: contain; }
+.article-hero .article-hero-content { min-height: 0; }
+.article-hero .article-hero-shade { display: none; }
+[data-article-progress-root] :is(figure img, .article-inline-image) { display: block; max-width: 100%; height: auto; object-fit: contain; }
+@media (min-width: 1024px) {
+  .category-featured .category-featured-slides { aspect-ratio: 16 / 9; }
+  .category-featured .category-featured-copy { position: absolute; inset: 0; min-height: 0; padding: 24px 32px 44px; }
+  .home-featured-carousel .category-supporting { contain: none; align-self: start; grid-template-rows: auto; gap: 8px; }
+  .home-featured-carousel .category-supporting-copy { padding: 12px; }
+  .home-featured-carousel .category-supporting-label, .home-featured-carousel .category-supporting-meta time { position: static; margin: 0; }
 }

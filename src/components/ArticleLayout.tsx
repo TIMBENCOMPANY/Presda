@@ -40,7 +40,7 @@ import {
   getArticleLastUpdated,
   getArticleSections
 } from "@/lib/articleSeo";
-import { getArticleDesktopHeroImagePosition, getArticleHeroImagePosition } from "@/lib/articleImages";
+import { getArticleImageDimensions, getArticleDesktopHeroImagePosition, getArticleHeroImagePosition } from "@/lib/articleImages";
 import { toAuthorSlug } from "@/lib/authors";
 import { categoryLabels, formatDate, toCategorySlug } from "@/lib/categories";
 
@@ -192,6 +192,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const faqs = locale === "en" ? getArticleFaqs(article) : article.faq ?? [];
   const articleContent = getArticleContentWithoutInlineFaq(article);
   const lastUpdated = getArticleLastUpdated(article);
+  const heroDimensions = getArticleImageDimensions(article.coverImage);
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
@@ -213,24 +214,25 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header className="article-hero relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)] lg:min-h-[720px]">
-          <div className="article-hero-media relative aspect-video lg:absolute lg:inset-0 lg:aspect-auto">
+        <header className="article-hero relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]">
+          <div className="article-hero-media relative">
             <Image
               src={article.coverImage}
               unoptimized={article.slug === "phoenicians-history-sailors-alphabet-tyrian-purple"}
               alt={article.coverAlt}
-              fill
+              width={heroDimensions.width}
+              height={heroDimensions.height}
               priority
               quality={82}
               sizes="(max-width: 1500px) 100vw, 1500px"
-              className="article-hero-image object-contain lg:object-cover"
+              className="article-hero-image h-auto w-full object-contain"
               style={heroImageStyle}
             />
           </div>
-          <div className="article-hero-shade hidden lg:block absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
-          <div className="hidden lg:block absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
+          <div className="article-hero-shade hidden absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
+          <div className="hidden absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
 
-          <div className="article-hero-content relative z-10 flex flex-col gap-5 p-5 sm:p-7 lg:min-h-[720px] lg:justify-between lg:gap-0 lg:p-12 xl:p-14">
+          <div className="article-hero-content relative z-10 flex flex-col gap-5 p-5 sm:p-7 lg:p-12 xl:p-14">
             <div className="flex flex-wrap items-start justify-between gap-3 font-display text-[11px] lg:flex-nowrap lg:gap-4 font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
               <Link href={languageDestination(`/category/${toCategorySlug(article.category)}/`, locale, translationRoutes)} className="flex items-center gap-3 transition hover:text-[#FF1A1A]">
                 <span className="h-8 w-1.5 rounded-full bg-[#FF1A1A]" aria-hidden="true" />
@@ -239,7 +241,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               <time className="text-end text-white/86" dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
             </div>
 
-            <div className="min-w-0 max-w-[800px] lg:pb-8 lg:pt-20">
+            <div className="min-w-0 max-w-[800px]">
               <h1 className={`article-hero-title text-white${article.slug === "meta-ray-ban-privacy-europe" ? " article-hero-title-meta-privacy" : ""}${locale === "en" && article.slug === "iran-hormuz-closed-conditions-energy-shipping" ? " article-hero-title-hormuz" : ""}`}>
                 <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} whiteText={locale === "en" && article.slug === "casablanca-madrid-2030-world-cup-final" ? "vs" : undefined} />
               </h1>
