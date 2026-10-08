@@ -1,3 +1,4 @@
+import { MinoansGraphics } from "@/components/MinoansGraphics";
 import { WorldCup2030Graphics } from "@/components/WorldCup2030Graphics";
 import { ReaderPoll } from "@/components/ReaderPoll";
 import { MessiFarewellGraphics } from "@/components/MessiFarewellGraphics";
@@ -312,6 +313,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "minoans-bronze-age-crete-palaces-rulers-linear-a" && [4, 7, 24, 30].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MinoansGraphics locale={locale} kind={originalIndex === 4 ? "timeline" : originalIndex === 7 ? "palaces" : originalIndex === 24 ? "trade" : "writing"} /></div>;
+              }
               if (article.slug === "deep-sea-viruses-clarion-clipperton-discovery" && originalIndex === 11) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DeepSeaVirusesGraphic locale={locale} /></div>;
               }
