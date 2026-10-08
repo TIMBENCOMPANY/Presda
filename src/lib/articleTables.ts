@@ -8,6 +8,79 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[ROBOT_RACE_COMPARE]]": {
+  "caption": "Manufacturer disclosures reviewed October 9, 2026. Listed USD prices exclude tax and shipping; EDU/options and local availability differ. No common independent test.",
+  "headers": [
+    "Measure",
+    "Tesla Optimus",
+    "Unitree commercial platforms"
+  ],
+  "rows": [
+    [
+      "Verified status",
+      "Gen 3 production roadmap; Q2 facilities under construction",
+      "G1, H1/H1-2, H2 and R1 listed; configuration-specific orders"
+    ],
+    [
+      "Current retail price",
+      "Not verified",
+      "G1 $13,500; H2 $29,900; R1 AIR $4,900; R1 $5,900"
+    ],
+    [
+      "Height / mass",
+      "Comparable current retail specifications not verified",
+      "G1 1.32 m / about 35 kg; H2 1.82 m / about 70 kg"
+    ],
+    [
+      "Mobility",
+      "Demonstrations do not establish common benchmark",
+      "H1 supplier moving-speed claim 3.3 m/s; H1-2 under 2 m/s"
+    ],
+    [
+      "Mechanical flexibility",
+      "Gen 3 hand upgrade named; no common dexterity score",
+      "G1 23 joints, EDU 23–43; H2 31 joints"
+    ],
+    [
+      "Battery",
+      "Comparable current runtime not verified",
+      "G1 about 2 h; H2 about 3 h; R1 about 1 h, supplier claims"
+    ],
+    [
+      "Battery energy",
+      "Comparable current retail value not verified",
+      "H1/H1-2 864 Wh; H2 972 Wh"
+    ],
+    [
+      "Developer access",
+      "No verified retail developer offering",
+      "G1/H2 EDU and R1 EDU differ from base models"
+    ],
+    [
+      "2025 delivery evidence",
+      "No verified comparable customer-sales total",
+      "Company reports more than 5,500 pure humanoids delivered"
+    ],
+    [
+      "H1 2026 shipment evidence",
+      "No verified comparable customer-sales total",
+      "Counterpoint estimates more than 7,000"
+    ],
+    [
+      "Autonomous productivity",
+      "No public common independent test",
+      "Hardware sale does not establish autonomous task readiness"
+    ],
+    [
+      "Production vs availability",
+      "Initial builds for internal training; capacity plans are targets",
+      "Commercial catalogue; stock, options and delivery terms vary"
+    ]
+  ],
+  "minWidthClass": "min-w-[760px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[SAUDI_2034_BID_STADIUMS]]": {
   "caption": "Original bid capacities, 2024. Proposed configurations, not current ticket inventory. Source: Saudi 2034 bid book, pp. 48–49; see linked citation above.",
   "headers": [

@@ -1,0 +1,346 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/tesla-optimus-vs-unitree-humanoid-robots-2026/",
+  "path": "/es/articles/tesla-optimus-vs-unitree-humanoid-robots-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es editorial and source-parity review",
+    "reviewedAt": "2026-10-09",
+    "terminologyChecked": true
+  },
+  "title": "TESLA OPTIMUS FRENTE A UNITREE: EL FUTURO DE LOS ROBOTS HUMANOIDES",
+  "seoTitle": "Tesla Optimus vs Unitree: robots humanoides en 2026",
+  "description": "Las ambiciones de Optimus frente a los robots comerciales de Unitree: modelos, precios, envíos, pruebas industriales y límites de la autonomía.",
+  "excerpt": "Las ambiciones de Optimus frente a los robots comerciales de Unitree: modelos, precios, envíos, pruebas industriales y límites de la autonomía.",
+  "headlineHighlights": {
+    "red": "TESLA OPTIMUS",
+    "gold": "UNITREE"
+  },
+  "keywords": [
+    "Tesla Optimus",
+    "Unitree",
+    "G1",
+    "H2",
+    "Tesla Optimus vs Unitree: robots humanoides en 2026"
+  ],
+  "searchIntent": "Las ambiciones de Optimus frente a los robots comerciales de Unitree: modelos, precios, envíos, pruebas industriales y límites de la autonomía.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-09",
+  "updatedAt": "2026-10-09",
+  "image": {
+    "src": "/articles/tesla-optimus-unitree-humanoid-robots.png",
+    "alt": "Ilustración conceptual generada por IA de humanoides inspirados en Tesla y Unitree en una fábrica oscura, no una fotografía ni una representación exacta de modelos actuales"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La carrera de los humanoides tiene dos relojes: lo que los fabricantes esperan construir y lo que sus clientes pueden comprar y utilizar. En octubre de 2026, comparar Optimus de Tesla con Unitree exige separar ambos antes de declarar un ganador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nuestra evaluación: Unitree tiene la posición comercial de hardware más clara en esta comparación. Tesla persigue una escala mucho mayor. Ni el volumen enviado ni una demostración llamativa prueban liderazgo en autonomía general y segura. AgiBot, Figure y UBTECH amplían una competición que supera a estas dos empresas."
+    },
+    {
+      "type": "heading",
+      "text": "OPTIMUS: UNA VISIÓN INDUSTRIAL, NO UN PRODUCTO DE VENTA AL PÚBLICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe de Tesla del cuarto trimestre de 2025 identifica Gen 3 como el primer Optimus diseñado para producción masiva, tras la versión 2.5 y con nuevas manos. Es una hoja de ruta verificada, no prueba de disponibilidad comercial. Una fecha de presentación prevista no equivale a un lanzamiento realizado. [Tesla: informe Q4 2025](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q4-2025-Update.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe del segundo trimestre de 2026 dice que Tesla retiró las líneas Model S y X de Fremont e instala las de Optimus. Clasifica las instalaciones robóticas de California y Texas como construcción. Los primeros robots servirán para recoger datos y desarrollar funciones en Optimus Academy. No se verificó disponibilidad minorista ni un total separado de entregas a clientes. [Tesla: informe Q2 2026](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El atractivo de Tesla es combinar IA, fabricación y manipulación útil a gran escala. Pero un nombre de generación, un vídeo o una línea de montaje no constituyen un criterio estandarizado de éxito. La información verificada no permite comparar directamente el precio comercial, la duración de batería o la destreza de Optimus con configuraciones Unitree compradas. [Tesla: planes industriales Q1 2026](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q1-2026-Update.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "UNITREE: MODELOS CON PROPÓSITOS DIFERENTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "El catálogo confirmado incluye G1, H1, H1-2 y H2. El compacto G1 difiere de la serie H de mayor tamaño. Las versiones estándar y EDU tampoco son equivalentes: acceso de desarrollo, manos y cálculo deben comprobarse para la configuración concreta. El nombre de una familia no describe por sí solo el robot recibido. [Unitree: especificaciones G1](https://www.unitree.com/g1/) [Unitree: especificaciones H1 y H1-2](https://www.unitree.com/h1/) [Unitree: especificaciones H2](https://www.unitree.com/H2/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "R1 añade una gama económica desde R1 AIR. La tienda permite pedidos, pero muestra demoras de reposición en algunas variantes. H2 Plus se anunció en junio de 2026 como plataforma académica de referencia NVIDIA Isaac GR00T. No debe confundirse con H2 estándar ni suponerse entregado solo porque fue anunciado. [Unitree: especificaciones R1](https://www.unitree.com/R1/) [Unitree: tienda R1 y condiciones de entrega](https://shop.unitree.com/products/unitree-r1) [Unitree: anuncio H2 Plus, junio de 2026](https://www.webdisclosure.com/press-release/unitree-robotics-etr-unitree-announces-h2-plus-an-nvidia-isaac-gr00t-reference-humanoid-robot-for-academic-research-AfOx5SAFLvF)"
+    },
+    {
+      "type": "heading",
+      "text": "TESLA Y UNITREE: COMPARACIÓN CON FUENTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tabla utiliza información de fabricantes comprobada el 9 de octubre. Son precios anunciados de hardware en dólares estadounidenses, no costes completos de despliegue. Las especificaciones dependen de configuración y trabajo, y no son una prueba común independiente. Un dato no divulgado no significa cero. [Tesla: informe Q4 2025](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q4-2025-Update.pdf) [Tesla: informe Q2 2026](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf) [Unitree: especificaciones G1](https://www.unitree.com/g1/) [Unitree: especificaciones H1 y H1-2](https://www.unitree.com/h1/) [Unitree: especificaciones H2](https://www.unitree.com/H2/) [Unitree: especificaciones R1](https://www.unitree.com/R1/)"
+    },
+    {
+      "type": "table",
+      "sourceMarker": "[[ROBOT_RACE_COMPARE]]",
+      "caption": "Datos de fabricantes revisados el 9 de octubre de 2026. USD sin impuestos ni transporte; opciones, EDU y disponibilidad varían. Sin prueba común independiente.",
+      "headings": [
+        "Medida",
+        "Tesla Optimus",
+        "Plataformas comerciales Unitree"
+      ],
+      "rows": [
+        [
+          "Estado verificado",
+          "Hoja de ruta Gen 3; instalaciones Q2 en construcción",
+          "G1, H1/H1-2, H2 y R1 anunciados según configuración"
+        ],
+        [
+          "Precio minorista actual",
+          "No verificado",
+          "G1 13.500 $; H2 29.900 $; R1 AIR 4.900 $; R1 5.900 $"
+        ],
+        [
+          "Altura / masa",
+          "Especificaciones comerciales comparables no verificadas",
+          "G1 1,32 m / unos 35 kg; H2 1,82 m / unos 70 kg"
+        ],
+        [
+          "Movilidad",
+          "Demostraciones sin criterio común",
+          "Velocidad anunciada H1 3,3 m/s; H1-2 menos de 2 m/s"
+        ],
+        [
+          "Flexibilidad mecánica",
+          "Mejora de manos Gen 3; sin puntuación común",
+          "G1 23 articulaciones, EDU 23–43; H2 31"
+        ],
+        [
+          "Duración de batería",
+          "Duración comparable actual no verificada",
+          "G1 unas 2 h; H2 unas 3 h; R1 1 h, datos de proveedor"
+        ],
+        [
+          "Energía de batería",
+          "Valor comercial comparable no verificado",
+          "H1/H1-2 864 Wh; H2 972 Wh"
+        ],
+        [
+          "Acceso de desarrollo",
+          "Oferta minorista no verificada",
+          "G1/H2 EDU y R1 EDU difieren de modelos básicos"
+        ],
+        [
+          "Entregas 2025",
+          "Total comparable de ventas a clientes no verificado",
+          "Empresa declara más de 5.500 humanoides puros entregados"
+        ],
+        [
+          "Envíos S1 2026",
+          "Total comparable de ventas a clientes no verificado",
+          "Counterpoint estima más de 7.000"
+        ],
+        [
+          "Productividad autónoma",
+          "Sin prueba pública común independiente",
+          "La venta de hardware no demuestra autonomía operativa"
+        ],
+        [
+          "Producción y disponibilidad",
+          "Primeras unidades para entrenamiento interno; capacidad prevista",
+          "Catálogo comercial; existencias, opciones y plazos varían"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "VENTAS, ENVÍOS Y PRODUCCIÓN SON MEDIDAS DISTINTAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La aclaración de Unitree de enero declara más de 5.500 humanoides puros vendidos y entregados a clientes finales en 2025, frente a más de 6.500 fabricados. Excluye robots de dos brazos sobre ruedas y otros tipos. Son cifras de la empresa. Pedidos, producción y entregas no deben sumarse como ventas. [Unitree: aclaración de envíos 2025, enero de 2026](https://www.eqs-news.com/news/corporate-news/klarstellung-zu-unitrees-verkaufszahlen-2025/8616166c-db5b-4664-875e-f791a35f2491)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para el primer semestre de 2026, Counterpoint estima más de 22.000 envíos mundiales, con 9.700 de AgiBot y más de 7.000 de Unitree. Su seguimiento sitúa a AgiBot primero y a Unitree segundo. Mide envíos, no trabajo autónomo remunerado verificado. Son cifras semestrales, no resultados finales de 2026. [Counterpoint: envíos S1 2026](https://counterpointresearch.com/en/insights/global-humanoid-robot-shipments-soar-nearly-300-percent-yoy-in-h1-2026)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El anuncio de AgiBot de enero cita la clasificación Omdia de 2025: 5.168 envíos y unos 13.000 mundiales. Esa clasificación y la posterior declaración de Unitree no pueden reconciliarse sin aclarar definiciones y revisiones. No se verificó una cifra sólida y comparable de ventas a clientes de Tesla para ninguno de los periodos; por eso no inventamos una barra Tesla. [AGIBOT: clasificación Omdia 2025](https://www.agibot.com/article/231/detail/33.html)"
+    },
+    {
+      "type": "heading",
+      "text": "IA, MOVILIDAD Y DESTREZA: LO QUE UNA DEMOSTRACIÓN NO EXPLICA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Autonomía significa completar una tarea definida sin control humano continuo. Teleoperación significa que una persona dirige el robot. Secuencias programadas, locomoción aprendida y conversación pueden coexistir con autonomía limitada. El programa H2 Plus muestra el trabajo pendiente para conectar aprendizaje, percepción y manipulación. [Unitree: anuncio H2 Plus, junio de 2026](https://www.webdisclosure.com/press-release/unitree-robotics-etr-unitree-announces-h2-plus-an-nvidia-isaac-gr00t-reference-humanoid-robot-for-academic-research-AfOx5SAFLvF)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El número de articulaciones mide flexibilidad mecánica, no inteligencia. Manos, tacto, planificación del agarre y recuperación tras errores importan tanto como el equilibrio. Las páginas G1 y H2 condicionan funciones a la configuración y advierten de capacidades en desarrollo. El modelo básico no hereda todas las funciones de una demostración EDU. [Unitree: especificaciones G1](https://www.unitree.com/g1/) [Unitree: especificaciones H2](https://www.unitree.com/H2/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Capacidad energética y duración son medidas distintas. La energía anunciada de H1 no garantiza una jornada sin conocer su consumo. Caminar, transportar, calcular y descansar cambian el ciclo de uso. La duración anunciada de H2 no promete trabajo pesado ininterrumpido ni una ventaja estandarizada sobre Optimus. [Unitree: especificaciones H1 y H1-2](https://www.unitree.com/h1/) [Unitree: especificaciones H2](https://www.unitree.com/H2/)"
+    },
+    {
+      "type": "heading",
+      "text": "FÁBRICAS, ALMACENES Y HOGARES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay resultados más allá de las coreografías. BMW informa de que su prueba Figure 02 contribuyó a producir más de 30.000 X3 mediante una tarea concreta de manipulación de chapa. No montó esos coches por sí solo. Un proceso industrial delimitado supone progreso, pero no sustituye a toda una plantilla. [BMW: prueba industrial Figure 02](https://www.press.bmwgroup.com/canada/article/detail/T0456018EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure anunció la llegada de Figure 03 a Spartanburg el 30 de junio de 2026 y la describió como primera demostración de un flujo logístico. Helix 02 coordina movimiento y manipulación. El evento no acredita despliegue en toda la fábrica, tamaño de flota comercial ni rentabilidad. [Figure 03 llega a BMW, junio de 2026](https://www.figure.ai/news/f-03-at-bmw)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los resultados registrados de UBTECH de 2025 describen Walker S2, cambio autónomo de baterías y capacidad anual superior a 6.000 humanoides de tamaño completo. Es capacidad, no 6.000 entregas. Su enfoque industrial abre otra vía comercial distinta de vender plataformas de investigación. [UBTECH: resultados 2025, marzo de 2026](https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033102607.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Almacenes y viviendas tienen economías diferentes. Las tareas industriales repetidas pueden definirse y medirse; los hogares añaden niños, animales, desorden y objetos desconocidos. Conviene comparar humanoides con ruedas, transportadores y brazos fijos para la tarea real. La forma humana resulta útil cuando su flexibilidad justifica su complejidad. [OSHA: seguridad y evaluación de riesgos](https://www.osha.gov/otm/section-4-safety-hazards/chapter-4)"
+    },
+    {
+      "type": "heading",
+      "text": "FABRICACIÓN Y COMPETENCIA ENTRE CHINA Y ESTADOS UNIDOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "El plan de Tesla del primer trimestre describe una línea en Fremont diseñada a largo plazo para un millón de robots anuales y otra en Texas para diez millones en un horizonte más lejano. Son ambiciones de capacidad, no producción completada. Unitree ofrece configuraciones con precios y plataformas de desarrollo. Se compara una escala integrada futura con un ecosistema de hardware existente. [Tesla: planes industriales Q1 2026](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q1-2026-Update.pdf) [Unitree: tienda R1 y condiciones de entrega](https://shop.unitree.com/products/unitree-r1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "AP describe la densa base industrial china y el apoyo estatal, pero destaca el reto de encontrar clientes. Los precios menores facilitan experimentar, aunque exportar depende de normas, servicio y confianza. Liderar envíos no determina quién ofrece la aplicación autónoma más fiable. [AP: industria china y demanda](https://apnews.com/article/7d542b5ee92caa9d79efa28de89afbbe)"
+    },
+    {
+      "type": "heading",
+      "text": "CRECIMIENTO, INVERSIÓN Y COSTE DEL TRABAJO ÚTIL"
+    },
+    {
+      "type": "paragraph",
+      "text": "El escenario de Goldman Sachs de febrero de 2024 proyectaba un mercado potencial de 38.000 millones de dólares y 1,4 millones de envíos en 2035. Es una previsión fechada, no ingresos medidos de 2026 ni una garantía. Fiabilidad, demanda, integración, mantenimiento y supervisión condicionan esas proyecciones. [Goldman Sachs: previsión 2035 publicada en febrero de 2024](https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure anunció en septiembre de 2025 más de 1.000 millones de dólares de capital comprometido en serie C, con valoración posterior de 39.000 millones. La financiación refleja expectativas, no ingresos, envíos o rentabilidad de clientes. Componentes, software, herramientas de entrenamiento e integración también forman parte de la oportunidad. [Figure: financiación serie C, septiembre de 2025](https://www.figure.ai/news/series-c)"
+    },
+    {
+      "type": "heading",
+      "text": "EMPLEO, SEGURIDAD Y LIMITACIONES TÉCNICAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "La guía industrial de OSHA insiste en evaluar riesgos por aplicación, proteger a las personas y mantener con seguridad. Trabajar cerca de gente exige más que movimientos fluidos. Caídas, movimientos inesperados, herramientas y energía almacenada afectan a todo el sistema. Parada de emergencia y supervisión formada siguen siendo importantes. [OSHA: seguridad y evaluación de riesgos](https://www.osha.gov/otm/section-4-safety-hazards/chapter-4)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El efecto laboral depende de la tarea. Automatizar manipulación repetitiva puede cambiar plantillas y crear labores de integración o mantenimiento, sin demostrar un saldo neto de empleo. La prueba práctica es el coste de completar una tarea con fiabilidad, incluidas intervenciones humanas. Velocidad en escena y precio bajo no bastan para medir productividad."
+    },
+    {
+      "type": "heading",
+      "text": "¿QUIÉN VA REALMENTE EN CABEZA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En hardware humanoide comprable, Unitree supera a Tesla según la evidencia revisada. En envíos del primer semestre de 2026, Counterpoint coloca a AgiBot delante de Unitree. La prueba Figure en BMW documenta trabajo industrial, no una clasificación tecnológica universal. La escala de Tesla sigue siendo una ambición. Ninguna prueba pública, independiente y común determina un ganador global en autonomía general."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verificado el 9 de octubre de 2026. La imagen es una ilustración conceptual generada por IA, no una fotografía de productos. Más información: [la estrategia robótica china](/articles/china-robot-revolution-industrial-automation/) y [el ascenso industrial de BYD](/articles/byd-overtakes-tesla-annual-bev-sales/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tesla: informe Q4 2025",
+      "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q4-2025-Update.pdf"
+    },
+    {
+      "label": "Tesla: informe Q2 2026",
+      "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf"
+    },
+    {
+      "label": "Unitree: especificaciones G1",
+      "url": "https://www.unitree.com/g1/"
+    },
+    {
+      "label": "Unitree: especificaciones H1 y H1-2",
+      "url": "https://www.unitree.com/h1/"
+    },
+    {
+      "label": "Unitree: especificaciones H2",
+      "url": "https://www.unitree.com/H2/"
+    },
+    {
+      "label": "Unitree: especificaciones R1",
+      "url": "https://www.unitree.com/R1/"
+    },
+    {
+      "label": "Unitree: tienda R1 y condiciones de entrega",
+      "url": "https://shop.unitree.com/products/unitree-r1"
+    },
+    {
+      "label": "Unitree: anuncio H2 Plus, junio de 2026",
+      "url": "https://www.webdisclosure.com/press-release/unitree-robotics-etr-unitree-announces-h2-plus-an-nvidia-isaac-gr00t-reference-humanoid-robot-for-academic-research-AfOx5SAFLvF"
+    },
+    {
+      "label": "Unitree: aclaración de envíos 2025, enero de 2026",
+      "url": "https://www.eqs-news.com/news/corporate-news/klarstellung-zu-unitrees-verkaufszahlen-2025/8616166c-db5b-4664-875e-f791a35f2491"
+    },
+    {
+      "label": "Counterpoint: envíos S1 2026",
+      "url": "https://counterpointresearch.com/en/insights/global-humanoid-robot-shipments-soar-nearly-300-percent-yoy-in-h1-2026"
+    },
+    {
+      "label": "AGIBOT: clasificación Omdia 2025",
+      "url": "https://www.agibot.com/article/231/detail/33.html"
+    },
+    {
+      "label": "BMW: prueba industrial Figure 02",
+      "url": "https://www.press.bmwgroup.com/canada/article/detail/T0456018EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en"
+    },
+    {
+      "label": "Figure 03 llega a BMW, junio de 2026",
+      "url": "https://www.figure.ai/news/f-03-at-bmw"
+    },
+    {
+      "label": "UBTECH: resultados 2025, marzo de 2026",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033102607.pdf"
+    },
+    {
+      "label": "AP: industria china y demanda",
+      "url": "https://apnews.com/article/7d542b5ee92caa9d79efa28de89afbbe"
+    },
+    {
+      "label": "Goldman Sachs: previsión 2035 publicada en febrero de 2024",
+      "url": "https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035"
+    },
+    {
+      "label": "Figure: financiación serie C, septiembre de 2025",
+      "url": "https://www.figure.ai/news/series-c"
+    },
+    {
+      "label": "OSHA: seguridad y evaluación de riesgos",
+      "url": "https://www.osha.gov/otm/section-4-safety-hazards/chapter-4"
+    },
+    {
+      "label": "Tesla: planes industriales Q1 2026",
+      "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q1-2026-Update.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Se puede comprar Optimus en octubre de 2026?",
+      "answer": "No se verificó disponibilidad minorista. El informe Q2 de Tesla describe construcción y primeras unidades para entrenamiento interno, no ventas confirmadas a clientes."
+    },
+    {
+      "question": "¿Más envíos demuestran mayor autonomía?",
+      "answer": "No. Los envíos miden hardware, no productividad autónoma. Configuraciones y modelos difieren; ninguna prueba común independiente establece un liderazgo tecnológico general."
+    },
+    {
+      "question": "¿Cuáles son los precios iniciales anunciados de Unitree?",
+      "answer": "Al 9 de octubre: R1 AIR desde 4.900 $, R1 desde 5.900 $, G1 desde 13.500 $ y H2 desde 29.900 $, sin impuestos ni transporte. Opciones y disponibilidad varían."
+    }
+  ]
+}

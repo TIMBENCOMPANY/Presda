@@ -1,0 +1,110 @@
+{
+  "en": {
+    "titles": [
+      "Advertised hardware prices",
+      "2025: delivered is not manufactured",
+      "H1 2026 shipment estimates",
+      "A market scenario, not a measured outcome"
+    ],
+    "notes": [
+      "USD, tax and shipping excluded. Base configurations differ. No verified Optimus retail price.",
+      "Unitree company disclosure: pure humanoids, not wheeled or quadruped robots. Values are lower bounds, not exact totals.",
+      "Counterpoint estimates. Unitree is a lower bound; no comparable Tesla customer-sales figure verified. Shipments do not equal autonomous deployments.",
+      "Goldman Sachs scenario published February 2024 for 2035. Different units are shown separately; no annual growth path is invented."
+    ],
+    "delivered": "Delivered to end customers",
+    "made": "Manufactured",
+    "future": "Tesla Q1 2026 capacity designs, not achieved production",
+    "targets": [
+      "Fremont: 1 million/year",
+      "Texas long term: 10 million/year"
+    ],
+    "market": "2035 addressable market forecast",
+    "shipments": "2035 annual shipments forecast",
+    "unknown": "Optimus: not verified",
+    "sources": "Sources",
+    "baseline": "Bars begin at zero. Greater-than values show the stated minimum, not exact quantities.",
+    "moneyDisplay": "$38 billion"
+  },
+  "fr": {
+    "titles": [
+      "Prix annoncés du matériel",
+      "2025 : livré ne signifie pas fabriqué",
+      "Estimations de livraisons, S1 2026",
+      "Un scénario de marché, pas un résultat mesuré"
+    ],
+    "notes": [
+      "USD hors taxes et transport. Configurations de base différentes. Prix commercial d’Optimus non vérifié.",
+      "Déclaration Unitree : humanoïdes purs, sans robots à roues ou quadrupèdes. Bornes inférieures, pas totaux exacts.",
+      "Estimations Counterpoint. Unitree : borne inférieure ; ventes clients comparables de Tesla non vérifiées. Livraisons ne signifie pas déploiements autonomes.",
+      "Scénario Goldman Sachs publié en février 2024 pour 2035. Unités distinctes ; aucune trajectoire annuelle inventée."
+    ],
+    "delivered": "Livrés aux clients finaux",
+    "made": "Fabriqués",
+    "future": "Projets de capacité Tesla, Q1 2026, pas production réalisée",
+    "targets": [
+      "Fremont : 1 million/an",
+      "Texas à long terme : 10 millions/an"
+    ],
+    "market": "Marché adressable prévu en 2035",
+    "shipments": "Livraisons annuelles prévues en 2035",
+    "unknown": "Optimus : non vérifié",
+    "sources": "Sources",
+    "baseline": "Les barres partent de zéro. Le signe supérieur indique un minimum, pas une quantité exacte.",
+    "moneyDisplay": "38 milliards $"
+  },
+  "es": {
+    "titles": [
+      "Precios anunciados del hardware",
+      "2025: entregado no significa fabricado",
+      "Estimaciones de envíos, S1 2026",
+      "Un escenario, no un resultado medido"
+    ],
+    "notes": [
+      "USD sin impuestos ni transporte. Configuraciones distintas. Precio minorista de Optimus no verificado.",
+      "Declaración Unitree: humanoides puros, sin ruedas ni cuadrúpedos. Límites inferiores, no totales exactos.",
+      "Estimaciones Counterpoint. Unitree es un límite inferior; ventas comparables de Tesla no verificadas. Envíos no equivale a despliegues autónomos.",
+      "Escenario Goldman Sachs publicado en febrero de 2024 para 2035. Unidades separadas; sin trayectoria anual inventada."
+    ],
+    "delivered": "Entregados a clientes finales",
+    "made": "Fabricados",
+    "future": "Capacidad diseñada por Tesla, Q1 2026, no producción lograda",
+    "targets": [
+      "Fremont: 1 millón/año",
+      "Texas a largo plazo: 10 millones/año"
+    ],
+    "market": "Mercado potencial previsto para 2035",
+    "shipments": "Envíos anuales previstos para 2035",
+    "unknown": "Optimus: no verificado",
+    "sources": "Fuentes",
+    "baseline": "Las barras parten de cero. Mayor que indica el mínimo publicado, no cantidades exactas.",
+    "moneyDisplay": "38.000 millones $"
+  },
+  "ar": {
+    "titles": [
+      "أسعار الأجهزة المعلنة",
+      "2025: التسليم ليس التصنيع",
+      "تقديرات الشحنات في النصف الأول 2026",
+      "سيناريو للسوق وليس نتيجة مقاسة"
+    ],
+    "notes": [
+      "بالدولار دون ضريبة أو شحن. تهيئات أساسية مختلفة. سعر أوبتيموس التجاري غير متحقق.",
+      "إفصاح يونيتري: روبوتات بشرية خالصة دون الأنواع ذات العجلات أو الرباعية. حدود دنيا وليست إجماليات دقيقة.",
+      "تقديرات Counterpoint. رقم يونيتري حد أدنى؛ مبيعات تسلا القابلة للمقارنة غير متحققة. الشحنات لا تساوي انتشاراً مستقلاً.",
+      "سيناريو Goldman Sachs المنشور في فبراير 2024 لعام 2035. وحدات منفصلة دون اختلاق مسار نمو سنوي."
+    ],
+    "delivered": "مسلمة للعملاء النهائيين",
+    "made": "مصنعة",
+    "future": "تصاميم قدرة تسلا في الربع الأول 2026 وليست إنتاجاً منجزاً",
+    "targets": [
+      "فريمونت: مليون سنوياً",
+      "تكساس على المدى الطويل: 10 ملايين سنوياً"
+    ],
+    "market": "توقع السوق المتاحة في 2035",
+    "shipments": "توقع الشحنات السنوية في 2035",
+    "unknown": "أوبتيموس: غير متحقق",
+    "sources": "المصادر",
+    "baseline": "تبدأ الأعمدة من الصفر. علامة أكبر من تبين الحد الأدنى المعلن لا كمية دقيقة.",
+    "moneyDisplay": "38 مليار دولار"
+  }
+}

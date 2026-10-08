@@ -1,3 +1,4 @@
+import { RobotRaceGraphics } from "@/components/RobotRaceGraphics";
 import { MinoansGraphics } from "@/components/MinoansGraphics";
 import { WorldCup2030Graphics } from "@/components/WorldCup2030Graphics";
 import { ReaderPoll } from "@/components/ReaderPoll";
@@ -313,6 +314,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "tesla-optimus-vs-unitree-humanoid-robots-2026" && [8, 13, 14, 29].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><RobotRaceGraphics locale={locale} kind={originalIndex === 8 ? "prices" : originalIndex === 13 ? "production" : originalIndex === 14 ? "shipments" : "forecast"} /></div>;
+              }
               if (article.slug === "minoans-bronze-age-crete-palaces-rulers-linear-a" && [4, 7, 24, 30].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MinoansGraphics locale={locale} kind={originalIndex === 4 ? "timeline" : originalIndex === 7 ? "palaces" : originalIndex === 24 ? "trade" : "writing"} /></div>;
               }
