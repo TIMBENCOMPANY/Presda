@@ -17,6 +17,7 @@ import { OctopusMindGraphic } from "@/components/OctopusMindGraphic";
 import { CasablancaFossilsGraphics } from "@/components/CasablancaFossilsGraphics";
 import { CancerProgressGraphics } from "@/components/CancerProgressGraphics";
 import { Lunar5gGraphics } from "@/components/Lunar5gGraphics";
+import { RetinalRepairGraphic } from "@/components/RetinalRepairGraphic";
 import { IndusValleyGraphics } from "@/components/IndusValleyGraphics";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
@@ -308,6 +309,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "retinal-repair-prpf31-gene-therapy-vision-restoration" && originalIndex === 10) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><RetinalRepairGraphic locale={locale} /></div>;
+              }
               if (article.slug === "nasa-moon-5g-wifi6-lunar-communications" && (originalIndex === 4 || originalIndex === 13)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><Lunar5gGraphics locale={locale} kind={originalIndex === 4 ? "timeline" : "network"} /></div>;
               }

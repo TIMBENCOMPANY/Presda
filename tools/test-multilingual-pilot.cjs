@@ -78,7 +78,7 @@ for (const record of pilotRecords) {
   assert.equal((html.match(/<h1\b/g) ?? []).length, 1);
   const hero = html.match(/<header class="article-hero relative isolate[\s\S]*?<\/header>/)?.[0];
   assert.ok(hero?.includes('<h1 class="article-hero-title text-white">'), 'Localized title lives inside the shared English hero');
-  assert.ok(hero.includes('article-hero-image object-contain lg:object-cover'), 'Full image on mobile, cinematic crop on desktop');
+  assert.ok(hero.includes('article-hero-image h-auto w-full object-contain'), 'Natural reader image preserves important content on mobile and desktop');
   assert.ok(hero.indexOf('article-hero-media') < hero.indexOf('article-hero-content'), 'One image precedes the shared hero content');
   assert.ok(hero.includes('headline-accent-red') && hero.includes('headline-accent-gold'), 'Both PRESDA headline accents');
   assert.ok(html.includes('data-article-progress-root'), 'Shared reading progress root');

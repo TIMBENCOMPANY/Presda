@@ -1,0 +1,193 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/retinal-repair-prpf31-gene-therapy-vision-restoration/",
+  "path": "/fr/articles/retinal-repair-prpf31-gene-therapy-vision-restoration/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr editorial terminology and source-parity review",
+    "reviewedAt": "2026-10-08",
+    "terminologyChecked": true
+  },
+  "title": "DES SCIENTIFIQUES ONT PEUT-ÊTRE TROUVÉ COMMENT RÉPARER DES YEUX ENDOMMAGÉS",
+  "excerpt": "Une étude de septembre 2026 corrige des défauts dans des modèles rétiniens issus de patients. Une piste pour RP11, sans vision humaine restaurée démontrée.",
+  "seoTitle": "Réparation de la rétine : les résultats de PRPF31",
+  "description": "Une étude de septembre 2026 corrige des défauts dans des modèles rétiniens issus de patients. Une piste pour RP11, sans vision humaine restaurée démontrée.",
+  "keywords": [
+    "Réparation de la rétine : les résultats de PRPF31",
+    "PRPF31",
+    "RP11",
+    "AAV"
+  ],
+  "searchIntent": "Une étude de septembre 2026 corrige des défauts dans des modèles rétiniens issus de patients. Une piste pour RP11, sans vision humaine restaurée démontrée.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-08",
+  "updatedAt": "2026-10-08",
+  "image": {
+    "src": "/articles/retinal-repair-eye-examination.png",
+    "alt": "Illustration conceptuelle d’un œil près d’un appareil d’examen, sans représenter l’étude ni une personne traitée"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une thérapie génique expérimentale a rétabli des fonctions importantes dans des cellules rétiniennes cultivées et porteuses d’une maladie héréditaire. Ce progrès est réel, mais plus limité qu’une guérison des yeux endommagés : aucun patient n’a retrouvé la vue dans cette expérience. Le travail concerne la rétinite pigmentaire de type 11, ou RP11, et des cellules encore vivantes. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "heading",
+      "text": "L’ÉTUDE DERRIÈRE LE TITRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nature Communications a publié cette étude évaluée par les pairs le 30 septembre 2026. Maria Elia et ses collègues ont travaillé à Newcastle, au King’s College London, à Göttingen, Leeds, Bergen et Northumbria. Majlinda Lako, Robin R. Ali et Sina Mozaffari-Jovin ont conjointement supervisé le projet. Cette enquête porte sur ces travaux originaux récents, sans confondre toutes les annonces de restauration visuelle. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "heading",
+      "text": "QU’EST-CE QUI EST ENDOMMAGÉ DANS RP11 ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La rétinite pigmentaire regroupe des maladies héréditaires qui endommagent progressivement la rétine, tissu sensible à la lumière au fond de l’œil. La vision nocturne et périphérique se dégrade souvent en premier. Les causes génétiques diffèrent : un résultat concernant un gène ne s’applique pas automatiquement à tous les patients. Un examen génétique peut préciser la maladie. [National Eye Institute : rétinite pigmentaire](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinitis-pigmentosa)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans RP11, le manque de PRPF31 fonctionnel perturbe l’épissage de l’ARN, qui assemble les messages génétiques utilisables. Les chercheurs ont apporté du PRPF31 supplémentaire à l’aide d’un vecteur viral adéno-associé, ou AAV. L’objectif était de corriger le fonctionnement des cellules survivantes, pas de fabriquer un œil entier. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "heading",
+      "text": "DES CELLULES HUMAINES, PAS UN ESSAI CLINIQUE"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’équipe a reprogrammé des cellules cutanées en cellules souches pluripotentes induites, puis produit de l’épithélium pigmentaire rétinien, ou EPR, et des organoïdes rétiniens tridimensionnels. L’EPR soutient les photorécepteurs. Les expériences sur l’EPR utilisaient les cellules de trois donneurs atteints ; les organoïdes provenaient d’une lignée de donneur atteint, avec des témoins non atteints. Les cellules souches servaient de modèles, sans greffe thérapeutique. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les organoïdes sont des modèles structurés ressemblant à certaines parties de la rétine. Le National Eye Institute emploie des organoïdes issus de cellules souches humaines ou murines pour étudier les maladies et le transfert de gènes. Ils donnent accès à un tissu difficile à étudier, mais ne constituent pas des yeux complets avec circulation normale, interactions immunitaires et connexion fonctionnelle au cerveau humain. [National Eye Institute : organoïdes rétiniens et recherche AAV](https://www.nei.nih.gov/research-and-training/research-labs-and-branches/ocular-gene-therapy-core)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE LES EXPÉRIENCES ONT MONTRÉ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Microscopie, séquençage de l’ARN, analyses protéiques et tests fonctionnels indiquaient une récupération de l’épissage, des cils et de l’organisation de l’EPR. Après quatre heures, le matériel de photorécepteurs internalisé occupait 59,3 % de la surface mesurée sous PRPF31, contre 19,2 % avec le vecteur témoin GFP. Ce sont des surfaces mesurées sur des images, pas des pourcentages de vision restaurée. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La stimulation lumineuse et les enregistrements électriques montraient aussi des réponses augmentées plus fortes dans les réseaux des organoïdes. La variation de la proportion de cellules répondantes restait modeste. Les cultures matures d’EPR s’amélioraient également ; ajouter de la rapamycine n’apportait pas de bénéfice mesurable supplémentaire à la thérapie génique seule. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "heading",
+      "text": "RÉPARATION ET RÉGÉNÉRATION DIFFÈRENT"
+    },
+    {
+      "type": "paragraph",
+      "text": "Corriger une cellule défaillante ne revient pas à remplacer une cellule morte. Cette étude ne démontre pas la reconstruction d’une rétine humaine détruite par de nouveaux photorécepteurs. Les auteurs précisent que l’apport génique ne récupère pas les photorécepteurs déjà perdus aux stades avancés. Le potentiel concerne le sauvetage du tissu restant et le ralentissement de la dégénérescence, sous réserve d’autres essais. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une autre étude de Nature Communications, publiée le 25 mars 2025 par Eun Jung Lee et ses collègues, explorait la régénération. Bloquer le transfert de Prox1 permettait aux cellules de soutien de Müller de reprendre un programme régénératif dans des rétines murines lésées. Un anticorps anti-Prox1 délivré par AAV favorisait la régénération neuronale et retardait la perte visuelle dans un modèle murin de rétinite pigmentaire. Les observations de tissus humains ne prouvaient pas un traitement humain réussi. Il ne s’agissait pas du même essai que celui de septembre 2026. [Lee et collègues : Prox1 et régénération chez la souris, 25 mars 2025](https://www.nature.com/articles/s41467-025-58290-8)"
+    },
+    {
+      "type": "heading",
+      "text": "LA VISION PEUT-ELLE ÊTRE RESTAURÉE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des réponses lumineuses restaurées en culture sont un indice utile, mais voir exige un système visuel fonctionnel. Cet article RP11 ne rapporte ni nouvelle expérience thérapeutique animale ni essai clinique. Il cite des recherches animales antérieures comme contexte. Donner des cellules ne signifie pas recevoir la thérapie. Aucune amélioration d’acuité, de lecture ou de déplacement réel n’a été mesurée chez des personnes traitées ici. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un traitement approuvé existe pour une autre affection génétique précisément définie. L’indication FDA de Luxturna concerne les dystrophies rétiniennes avec mutations bialléliques confirmées de RPE65 ; sa notice exige des cellules rétiniennes viables. Cette autorisation ne couvre pas RP11 lié à PRPF31, les autres rétinites pigmentaires, le glaucome, la rétinopathie diabétique ou la dégénérescence maculaire simplement parce qu’ils affectent aussi la vision. [FDA : indication de Luxturna](https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna) [FDA : notice de Luxturna et risques](https://www.fda.gov/media/109906/download)"
+    },
+    {
+      "type": "heading",
+      "text": "SÉCURITÉ ET PROCHAINES ÉTAPES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une culture cellulaire ne peut établir la sécurité d’une injection dans un œil vivant. Les auteurs demandent d’autres études in vivo sur la dose, le moment du traitement et la sécurité à long terme. Restent la délivrance, la durabilité et les cellules encore susceptibles d’en bénéficier. Un résultat moléculaire favorable doit être relié à des effets visuels pertinents. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La thérapie rétinienne existante montre l’importance de cette évaluation. La notice de Luxturna signale infection intraoculaire, anomalies rétiniennes, hausse de pression, cataracte et baisse permanente d’acuité. Ce sont des risques connus de ce produit et de son administration, pas des événements mesurés pour le vecteur RP11 expérimental. Un résultat de laboratoire ne suffit donc pas à établir son rapport bénéfice-risque. [FDA : notice de Luxturna et risques](https://www.fda.gov/media/109906/download)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les recommandations FDA sur les thérapies géniques rétiniennes couvrent le développement préclinique et les essais. Il faut des données de sécurité appropriées, des études autorisées, puis des preuves d’efficacité et de suivi prolongé. Une publication ou une illustration spectaculaire ne constitue pas une autorisation réglementaire. [FDA : développement des thérapies géniques rétiniennes](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/human-gene-therapy-retinal-disorders)"
+    },
+    {
+      "type": "heading",
+      "text": "QUAND LES PATIENTS POURRAIENT-ILS EN BÉNÉFICIER ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude de septembre ne fournit aucune date étayée de disponibilité clinique. Annoncer une année serait spéculatif. La récupération de cellules matures ouvre une question sur la fenêtre thérapeutique, sans démontrer un bénéfice chez des patients ayant perdu beaucoup de cellules. La suite dépend des expériences, de la délivrance, de la sécurité et d’un éventuel programme clinique. [Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026](https://www.nature.com/articles/s41467-026-78065-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour l’ophtalmologie, la promesse est celle de la précision : identifier une cause moléculaire, tester une intervention ciblée et mesurer la récupération. Chaque maladie peut exiger préservation, remplacement ou régénération. Évaluation spécialisée, conseil génétique si nécessaire et aides actuelles à la basse vision restent essentiels. Ce reportage n’est pas une recommandation d’intervention expérimentale. [National Eye Institute : rétinite pigmentaire](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinitis-pigmentosa)"
+    },
+    {
+      "type": "paragraph",
+      "text": "PRESDA analyse aussi la lecture des progrès médicaux dans sa couverture du [cancer](/articles/50-years-cancer-survival-progress-hardest-cancers/) et les systèmes nerveux complexes dans [l’intelligence du poulpe](/articles/octopus-mind-intelligence-brain-eight-arms/)."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’image approuvée est une illustration éditoriale. Elle ne montre ni le laboratoire, ni un geste vérifié, ni un participant traité. Cette explication indépendante se distingue de l’étude ; les résultats et le graphique issus de celle-ci sont attribués à Elia et ses collègues sous sa licence Creative Commons Attribution 4.0. [Licence Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Elia et collègues : étude RP11 évaluée par les pairs, 30 septembre 2026",
+      "url": "https://www.nature.com/articles/s41467-026-78065-z"
+    },
+    {
+      "label": "National Eye Institute : rétinite pigmentaire",
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinitis-pigmentosa"
+    },
+    {
+      "label": "National Eye Institute : organoïdes rétiniens et recherche AAV",
+      "url": "https://www.nei.nih.gov/research-and-training/research-labs-and-branches/ocular-gene-therapy-core"
+    },
+    {
+      "label": "FDA : indication de Luxturna",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna"
+    },
+    {
+      "label": "FDA : notice de Luxturna et risques",
+      "url": "https://www.fda.gov/media/109906/download"
+    },
+    {
+      "label": "FDA : développement des thérapies géniques rétiniennes",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/human-gene-therapy-retinal-disorders"
+    },
+    {
+      "label": "Lee et collègues : Prox1 et régénération chez la souris, 25 mars 2025",
+      "url": "https://www.nature.com/articles/s41467-025-58290-8"
+    },
+    {
+      "label": "Licence Creative Commons Attribution 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Cette étude a-t-elle rendu la vue à des patients ?",
+      "answer": "Non. Elle a étudié en laboratoire des cellules issues de patients et des organoïdes, sans traiter de personnes."
+    },
+    {
+      "question": "La thérapie RP11 expérimentale est-elle approuvée ?",
+      "answer": "Cette publication n’établit pas un traitement RP11 approuvé. L’indication FDA de Luxturna concerne des mutations bialléliques de RPE65."
+    },
+    {
+      "question": "Quand sera-t-elle disponible ?",
+      "answer": "L’étude vérifiée ne donne aucune date clinique. Des travaux in vivo sur la sécurité et la délivrance restent nécessaires."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "RÉPARER",
+    "gold": "YEUX ENDOMMAGÉS"
+  }
+}

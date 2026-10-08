@@ -1,6 +1,7 @@
 // Synthetic copy exists only in this test process. It is never saved or published.
 const assert = require('node:assert/strict');
 const Module = require('node:module');
+require.extensions['.css'] = () => {};
 const { createDraft, sourceBlocks, sourceFaqs, readRecords, locales } = require('./translation-library.cjs');
 const { getPublishedArticles } = require('../src/data/articles.ts');
 const { validateTranslations } = require('../src/lib/i18n/validation.ts');
