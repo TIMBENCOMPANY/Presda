@@ -10,7 +10,7 @@ const { listingRoutes } = require('../src/lib/i18n/listing-routes.ts');
 const manifest = require('../src/lib/image-manifest.generated.json');
 const dimensions = require('../src/lib/image-dimensions.generated.json');
 const rules = require('../src/lib/image-rules.json');
-const { getArticleCardImage, getArticleHeroImagePosition, getArticleCardImagePosition, getArticleImageDimensions } = require('../src/lib/articleImages.ts');
+const { getArticleCardImage, getArticleHeroImagePosition, getArticleDesktopHeroImagePosition, getArticleCardImagePosition, getArticleImageDimensions } = require('../src/lib/articleImages.ts');
 const loader = require('../src/lib/staticImageLoader.ts').default;
 const { getImgProps } = require('next/dist/shared/lib/get-img-props');
 const { imageConfigDefault } = require('next/dist/shared/lib/image-config');
@@ -26,6 +26,8 @@ async function main() {
   assert.equal(rules.article.natural, true);
   assert.equal(getArticleHeroImagePosition({ slug: 'regression' }), '50% 50%');
   assert.equal(getArticleHeroImagePosition({ slug: 'regression', homepageImagePosition: '70% 35%' }), '70% 35%');
+  assert.equal(getArticleDesktopHeroImagePosition({ slug: 'regression' }), '50% 50%');
+  assert.equal(getArticleDesktopHeroImagePosition({ slug: 'regression', homepageImagePosition: '70% 35%' }), '70% 35%', 'Desktop preserves the published focal position');
   assert.equal(getArticleCardImagePosition({ slug: 'regression', homepageImagePosition: '70% 35%' }), '70% 35%');
   for (const [src, width, height] of [['/articles/bradley-cooper-gigi-hadid-paris.png', 1536, 1024], ['/articles/panda-diplomacy-atlanta.png', 1448, 1086]]) {
     assert.deepEqual(getArticleImageDimensions(src), { width, height }, `Regression geometry: ${src}`);

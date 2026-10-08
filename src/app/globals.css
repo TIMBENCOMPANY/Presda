@@ -648,13 +648,16 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
 .presda-card-media { aspect-ratio: 4 / 3; overflow: hidden; }
 .presda-featured-media img, .presda-card-media img { object-fit: cover; object-position: 50% 50%; }
 .category-featured .category-featured-media { position: relative; inset: auto; aspect-ratio: 16 / 9; }
-.category-featured .category-supporting-media, .home-latest-media { position: relative; inset: auto; align-self: start; width: 100%; height: auto; aspect-ratio: 4 / 3; }
-.category-featured .category-supporting { align-self: start; align-content: start; grid-auto-rows: auto; }
-.category-featured .category-supporting-card { display: grid; grid-template-columns: 112px minmax(0, 1fr); min-height: 0; align-self: start; border-radius: 12px; }
-.category-featured .category-supporting-copy { position: relative; inset: auto; height: auto; min-height: 0; padding: 12px; justify-content: center; }
-.category-featured .category-supporting-shade { display: none; }
-.home-latest-media { align-self: center; }
-.home-latest-story { min-height: 0; }
+/* Compact thumbnail rules belong to mobile/tablet, not desktop overlay cards. */
+@media (max-width: 1023px) {
+  .category-featured .category-supporting-media, .home-latest-media { position: relative; inset: auto; align-self: start; width: 100%; height: auto; aspect-ratio: 4 / 3; }
+  .category-featured .category-supporting { align-self: start; align-content: start; grid-auto-rows: auto; }
+  .category-featured .category-supporting-card { display: grid; grid-template-columns: 112px minmax(0, 1fr); min-height: 0; align-self: start; border-radius: 12px; }
+  .category-featured .category-supporting-copy { position: relative; inset: auto; height: auto; min-height: 0; padding: 12px; justify-content: center; }
+  .category-featured .category-supporting-shade { display: none; }
+  .home-latest-media { align-self: center; }
+  .home-latest-story { min-height: 0; }
+}
 .article-hero .article-hero-media { position: relative; inset: auto; aspect-ratio: auto; }
 .article-hero .article-hero-image { position: static; width: 100%; height: auto; max-width: 100%; object-fit: contain; }
 .article-hero .article-hero-content { min-height: 0; }
@@ -663,7 +666,22 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
 @media (min-width: 1024px) {
   .category-featured .category-featured-slides { aspect-ratio: 16 / 9; }
   .category-featured .category-featured-copy { position: absolute; inset: 0; min-height: 0; padding: 24px 32px 44px; }
-  .home-featured-carousel .category-supporting { contain: none; align-self: start; grid-template-rows: auto; gap: 8px; }
-  .home-featured-carousel .category-supporting-copy { padding: 12px; }
-  .home-featured-carousel .category-supporting-label, .home-featured-carousel .category-supporting-meta time { position: static; margin: 0; }
+  .category-featured .category-supporting-media { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; }
+  .category-featured .category-supporting-copy { height: 100%; }
+
+  /* Restore the desktop image-led editorial frames without changing mobile ratios. */
+  .article-card-media { aspect-ratio: 16 / 10; }
+  .related-card-media, .home-more-articles a > .article-card-media:first-child { aspect-ratio: 16 / 9; }
+  .home-latest-story { min-height: 132px; }
+  .home-latest-media { position: relative; height: 100%; aspect-ratio: auto; align-self: stretch; }
+
+  /* Reader image stays above compact copy. Only desktop gets a bounded crop. */
+  .article-hero .article-hero-media { height: clamp(480px, 52vw, 800px); }
+  .article-hero .article-hero-image { height: 100%; object-fit: cover; }
+  .article-hero .article-hero-content { gap: 20px; padding: 24px 32px 28px; }
+  .article-hero .article-hero-heading { max-width: 1100px; }
+  .article-hero .article-hero-title { max-width: 32ch; font-size: clamp(36px, 3vw, 52px); line-height: 1.04; }
+  .article-hero .article-hero-deck { max-width: 70ch; }
+  .article-hero .article-hero-heading > div { max-width: none; margin-top: 16px; }
+  [data-article-locale="ar"] .article-hero .article-hero-title { line-height: 1.2; }
 }

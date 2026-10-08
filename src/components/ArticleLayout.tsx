@@ -242,7 +242,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               <time className="text-end text-white/86" dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
             </div>
 
-            <div className="min-w-0 max-w-[800px]">
+            <div className="article-hero-heading min-w-0 max-w-[800px]">
               <h1 className={`article-hero-title text-white${article.slug === "meta-ray-ban-privacy-europe" ? " article-hero-title-meta-privacy" : ""}${locale === "en" && article.slug === "iran-hormuz-closed-conditions-energy-shipping" ? " article-hero-title-hormuz" : ""}`}>
                 <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} whiteText={locale === "en" && article.slug === "casablanca-madrid-2030-world-cup-final" ? "vs" : undefined} />
               </h1>

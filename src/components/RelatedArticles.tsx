@@ -25,7 +25,7 @@ export function RelatedArticles({ articles, locale = "en", paths }: { articles: 
             href={paths?.[article.id] ?? `/articles/${article.slug}/`}
             className="group block overflow-hidden rounded-xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] shadow-[var(--home-card-shadow)] transition duration-200 hover:-translate-y-0.5 hover:border-[#FF1A1A]/70"
           >
-            <div className="relative presda-card-media overflow-hidden bg-black">
+            <div className="related-card-media relative presda-card-media overflow-hidden bg-black">
               <Image
                 src={getArticleCardImage(article)}
                 alt={article.coverAlt}

@@ -29,7 +29,7 @@ export function ArticleCard({ article, locale = "en", priority = false, showImag
       href={article.href ?? `/articles/${article.slug}/`}
       className="group block overflow-hidden rounded-xl border border-[color:var(--border)] bg-[color:var(--card)] shadow-[var(--shadow)] transition hover:border-[#FF1A1A]"
     >
-      <div className="relative presda-card-media overflow-hidden bg-black">
+      <div className="article-card-media relative presda-card-media overflow-hidden bg-black">
         {showImage ? (
           <CardImage
             src={getArticleCardImage(article)}
