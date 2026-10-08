@@ -675,17 +675,17 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
   .home-latest-story { min-height: 132px; }
   .home-latest-media { position: relative; height: 100%; aspect-ratio: auto; align-self: stretch; }
 
-  /* Keep ccd2058's unified cinematic reader in a bounded desktop frame. */
-  .article-hero { height: clamp(560px, 42vw, 640px); min-height: 0; }
-  .article-hero .article-hero-media { position: absolute; inset: 0; width: 100%; height: 100%; }
-  .article-hero .article-hero-image { position: absolute; inset: 0; display: block; width: 100%; height: 100%; max-width: none; object-fit: cover; }
+  /* Restore the unified cinematic reader from ccd2058, only on desktop. */
+  .article-hero { min-height: clamp(640px, 48vw, 720px); }
+  .article-hero .article-hero-media { position: absolute; inset: 0; height: 100%; }
+  .article-hero .article-hero-image { height: 100%; object-fit: cover; }
   .article-hero .article-hero-shade, .article-hero .article-hero-shade + div { display: block; }
-  .article-hero .article-hero-content { height: 100%; min-height: 0; justify-content: flex-end; align-items: flex-start; gap: 18px; padding: 40px; }
+  .article-hero .article-hero-content { min-height: inherit; justify-content: flex-end; align-items: flex-start; gap: 20px; padding: 48px; }
   .article-hero .article-hero-content > div:first-child { width: 100%; }
   .article-hero .article-hero-heading { width: 100%; max-width: 800px; }
-  .article-hero .article-hero-title { max-width: min(58vw, 24ch); font-size: clamp(42px, 3.5vw, 58px); line-height: 0.96; }
+  .article-hero .article-hero-title { max-width: min(58vw, 20ch); font-size: clamp(50px, 4.05vw, 64px); line-height: 0.96; }
   [data-article-locale="ar"] .article-hero .article-hero-title { line-height: 1.2; }
 }
 @media (min-width: 1280px) {
-  .article-hero .article-hero-content { padding: 48px; }
+  .article-hero .article-hero-content { padding: 56px; }
 }
