@@ -6,7 +6,7 @@
   "status": "published",
   "review": {
     "reviewer": "Codex French editorial and source review",
-    "reviewedAt": "2026-10-02",
+    "reviewedAt": "2026-10-08",
     "terminologyChecked": true
   },
   "title": "L'Ouzbékistan remporte l'Olympiade d'échecs 2026 à domicile à Samarcande",
@@ -32,7 +32,7 @@
   "category": "Sport",
   "author": "PRESDA Sport",
   "publishedAt": "2026-09-27",
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-10-08",
   "image": {
     "src": "/articles/uzbekistan-chess-champions-samarkand-2026.png",
     "alt": "L'équipe de l'Olympiade d'échecs d'Ouzbékistan avec des drapeaux nationaux et l'architecture de Samarcande lors de l'Olympiade d'échecs FIDE 2026"
@@ -80,7 +80,7 @@
     },
     {
       "type": "heading",
-      "text": "DES CHAMPIONS 2022 AUX DÉFENSEURS À DOMICILE"
+      "text": "DES CHAMPIONS DE 2022 À L’OR À DOMICILE"
     },
     {
       "type": "paragraph",
@@ -104,7 +104,7 @@
     },
     {
       "type": "paragraph",
-      "text": "L'Allemagne a remporté le bronze grâce à une victoire 2,5-1,5 contre les Pays-Bas. Le résultat allemand complète un podium dans lequel les trois équipes médaillées ont traversé une ronde finale exigeante plutôt que de bénéficier d'un chemin clair vers l'arrivée. La quatrième place de l'Ukraine reflète la force de son défi, même si l'équipe n'a pas pu empêcher les hôtes de remporter l'or."
+      "text": "L'Allemagne a remporté le bronze grâce à une victoire 2,5-1,5 contre les Pays-Bas. Le résultat allemand complète un podium dans lequel les trois équipes médaillées ont traversé une ronde finale exigeante plutôt que de bénéficier d'un chemin clair vers l'arrivée. L’Ukraine a disputé la dernière ronde contre les hôtes, mais n’a pas pu empêcher l’Ouzbékistan de remporter l’or."
     },
     {
       "type": "paragraph",
