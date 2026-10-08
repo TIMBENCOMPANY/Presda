@@ -1,0 +1,204 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/blacktip-shark-hearing-underwater-sound-study/",
+  "path": "/fr/articles/blacktip-shark-hearing-underwater-sound-study/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr scientific and source-parity review",
+    "reviewedAt": "2026-10-08",
+    "terminologyChecked": true
+  },
+  "title": "LES REQUINS BORDÉS ENTENDENT DES SONS LOINTAINS : CE QUE RÉVÈLE UNE ÉTUDE",
+  "excerpt": "Des requins bordés suivis par drone réagissent à des sons graves jusqu’à 74 mètres. Les preuves, les limites et les enjeux du bruit marin.",
+  "seoTitle": "Audition des requins : des réactions jusqu’à 74 mètres",
+  "description": "Des requins bordés suivis par drone réagissent à des sons graves jusqu’à 74 mètres. Les preuves, les limites et les enjeux du bruit marin.",
+  "keywords": [
+    "Audition des requins : des réactions jusqu’à 74 mètres",
+    "LES REQUINS BORDÉS ENTENDENT DES SONS LOINTAINS : CE QUE RÉVÈLE UNE ÉTUDE"
+  ],
+  "searchIntent": "Des requins bordés suivis par drone réagissent à des sons graves jusqu’à 74 mètres. Les preuves, les limites et les enjeux du bruit marin.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-08",
+  "updatedAt": "2026-10-08",
+  "image": {
+    "src": "/articles/shark-hearing-great-white-illustration.png",
+    "alt": "Illustration éditoriale générée par IA d’un grand requin blanc, pas une photographie des requins bordés étudiés"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le requin passe déjà lorsque le haut-parleur sous-marin s’active. Il tourne brusquement et s’éloigne. Depuis un drone, ce changement de cap devient un indice mesurable : l’animal a détecté quelque chose d’invisible et possède une information sur sa direction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude de terrain publiée en 2026 montre des requins bordés réagissant à des sons graves jusqu’à 74 mètres. Sa portée est plus précise qu’une découverte sur tous les requins : elle renforce les preuves d’une détection à distance et d’une réaction directionnelle chez une espèce. Elle ne révèle ni audition ultrasonique ni nouvelle plage universelle de fréquences. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "heading",
+      "text": "L’ÉTUDE DERRIÈRE LE TITRE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Caroline L. Sullivan, Edmund R. Gerstein et Stephen M. Kajiura, de Florida Atlantic University, ont publié leur étude sur Carcharhinus limbatus dans Integrative Organismal Biology le 30 juin 2026. L’université l’a présentée le 24 septembre. Il s’agit d’une expérience en mer avec des animaux sauvages, pas uniquement d’un essai en aquarium ou d’une déduction anatomique. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033) [Florida Atlantic University : annonce de septembre 2026](https://www.fau.edu/newsdesk/articles/shark-hearing-study.php)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’équipe travaillait dans les eaux peu profondes du sud-est de la Floride, près des passes de Jupiter, Palm Beach et Pompano Beach. Un haut-parleur produisait les sons et des hydrophones mesuraient la pression pour modéliser leur propagation. Un drone filmait les réactions ; la longueur connue du bateau permettait de calculer les distances. Les cas ambigus ou perturbés étaient exclus. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "heading",
+      "text": "LES SONS AUXQUELS ILS ONT RÉAGI"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trois bandes de bruit pulsé irrégulièrement ont été testées : 100–200 Hz, 200–400 Hz et 400–800 Hz. Le contrôle à 10 000 Hz n’a suscité aucune réaction observable. Les distances moyennes de réponse étaient respectivement de 40,7, 41,0 et 30,0 mètres. Le maximum observé, 74,0 mètres, concernait la bande la plus grave. Ce n’est pas une limite biologique de l’espèce, mais un maximum dans ces conditions. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les animaux tournaient et s’éloignaient rapidement. Les sons plus aigus demandaient une pression plus élevée pour provoquer une réaction, conformément à une meilleure sensibilité aux graves. Mais une réaction de fuite n’est pas un audiogramme complet : percevoir et fuir sont deux processus. L’absence de mouvement visible ne prouve pas toujours une absence de perception. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "heading",
+      "text": "LA NOUVEAUTÉ CONCERNE LA DISTANCE"
+    },
+    {
+      "type": "paragraph",
+      "text": "La majorité des réactions se produisaient au-delà de la limite du champ acoustique proche, définie ici par trois longueurs d’onde. Cette frontière varie avec la fréquence. Le champ lointain n’est donc ni une distance universelle ni une région où les particules d’eau cessent de bouger. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les travaux antérieurs montraient déjà des réactions aux sons graves. L’apport est la mesure des distances et de l’orientation chez des requins libres. Le virage opposé au haut-parleur suggère une information directionnelle, sans démontrer une localisation mentalement cartographiée avec une précision humaine. L’expérience ne portait pas sur la recherche de proies. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033) [Chapuis et Collin : synthèse scientifique sur l’audition](https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes)"
+    },
+    {
+      "type": "heading",
+      "text": "ENTENDRE SANS OREILLES VISIBLES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les requins possèdent des oreilles internes. Des cellules ciliées transforment le mouvement mécanique en signal nerveux. Dans plusieurs organes, des particules minérales denses suivent moins vite les tissus environnants et font plier les faisceaux sensoriels. L’oreille participe aussi à l’équilibre et à l’orientation ; les canaux semi-circulaires détectent les rotations. [Nieder et collègues : comparaison de trois espèces](https://doi.org/10.1242/jeb.245973) [Sauer et collègues : diversité de l’oreille interne](https://pmc.ncbi.nlm.nih.gov/articles/PMC10506894/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le son sous-marin comporte pression et mouvement particulaire. Les requins n’ont pas la vessie natatoire remplie de gaz de nombreux poissons osseux, qui transforme la pression en mouvement pour l’oreille. Les données soutiennent surtout la détection de mouvement particulaire. La macula neglecta pourrait contribuer à l’audition directionnelle, mais son rôle précis reste incertain. [Chapuis et Collin : synthèse scientifique sur l’audition](https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes) [Sauer et collègues : diversité de l’oreille interne](https://pmc.ncbi.nlm.nih.gov/articles/PMC10506894/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expérience n’a pas mesuré directement le mouvement particulaire à chaque emplacement ni isolé un organe sensoriel. Les auteurs discutent des mécanismes impliquant l’oreille, dont la macula neglecta. Le comportement ne tranche pas entre ces explications. Mesurer la pression du haut-parleur ne prouve pas que les requins détectent directement la pression. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "heading",
+      "text": "OREILLE, LIGNE LATÉRALE ET ÉLECTRORÉCEPTION"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ligne latérale détecte des mouvements d’eau et des configurations d’écoulement locales, utiles face aux perturbations et aux sillages proches. Elle est distincte de l’oreille, même si toutes deux sont mécanosensorielles. Il ne faut pas lui attribuer automatiquement une réaction acoustique distante. [Gardiner et collègues : suivi des proies et sens combinés](https://pmc.ncbi.nlm.nih.gov/articles/PMC3973673/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les ampoules de Lorenzini détectent de faibles champs électriques et peuvent guider la capture à courte distance. Électricité, écoulement et mouvement acoustique ne se confondent pas. Les expériences sur la poursuite des proies montrent une combinaison de l’odorat, de la vision, de la ligne latérale et de l’électroréception, dont les contributions varient au cours de l’approche. [Gardiner et collègues : suivi des proies et sens combinés](https://pmc.ncbi.nlm.nih.gov/articles/PMC3973673/)"
+    },
+    {
+      "type": "heading",
+      "text": "DES ESPÈCES AUX CAPACITÉS DIFFÉRENTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une comparaison physiologique de 2023 le montre. Les potentiels évoqués auditifs ont été mesurés chez Cephaloscyllium isabellum, Mustelus lenticulatus et Galeorhinus galeus. Dans ce protocole en bassin, la fréquence maximale détectée était de 300 Hz chez le premier et de 800 Hz chez les deux autres. Ces valeurs décrivent une méthode et des animaux, pas des limites immuables pour chaque espèce. [Nieder et collègues : comparaison de trois espèces](https://doi.org/10.1242/jeb.245973)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’anatomie montre aussi des différences entre oreilles internes. Elles permettent des hypothèses sur habitat et audition, mais un organe plus grand ne prouve pas une distance précise. Les requins bordés ne sont pas des grands blancs : les résultats ne se transfèrent pas à l’espèce représentée sur notre image. [Sauer et collègues : diversité de l’oreille interne](https://pmc.ncbi.nlm.nih.gov/articles/PMC10506894/)"
+    },
+    {
+      "type": "heading",
+      "text": "PROIES ET DÉCISIONS DE DÉPLACEMENT"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le son peut informer au-delà du champ visuel immédiat. Des travaux antérieurs ont observé attraction et évitement selon le stimulus et son intensité. Une fuite n’exclut donc pas un rôle de l’audition dans l’alimentation. Un bruit artificiel soudain et intense n’est pas le signal d’une proie en difficulté. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033) [Chapuis et Collin : synthèse scientifique sur l’audition](https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’orientation acoustique peut contribuer aux déplacements, mais cette étude ne démontre pas une migration guidée par des repères sonores. Elle ne montre ni écholocation, ni images de type sonar, ni détection de proies à des kilomètres. Notre [enquête sur l’intelligence du poulpe](/articles/octopus-mind-intelligence-brain-eight-arms/) explore un autre univers sensoriel. [Gardiner et collègues : suivi des proies et sens combinés](https://pmc.ncbi.nlm.nih.gov/articles/PMC3973673/)"
+    },
+    {
+      "type": "heading",
+      "text": "LES ENJEUX DU BRUIT SOUS-MARIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une détection plus étendue invite à intégrer les requins aux évaluations acoustiques. C’est une implication pour la conservation, pas un impact démographique mesuré ici. Navigation, travaux et autres activités produisent des spectres et des durées différents. Ces impulsions ne définissent pas un rayon universel de perturbation. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033) [Chapuis et Collin : synthèse scientifique sur l’audition](https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude distincte de 2025 a exposé des femelles adultes de requin de Port Jackson à des enregistrements ambiants ou humains. Sous ces derniers, l’usage d’un abri augmentait et la respiration changeait. Le résultat suggère des effets que la nage seule pourrait manquer ; il ne quantifie pas lésions ou mortalité chez des requins bordés sauvages. [Robins et collègues : requins de Port Jackson et bruit](https://pubmed.ncbi.nlm.nih.gov/40816119/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il faut étudier davantage d’espèces, mieux mesurer le mouvement particulaire et relier exposition, alimentation, habitat et physiologie. Selon PRESDA, l’audition mérite une place parmi les enjeux de protection, mais les décisions nécessitent des preuves d’exposition et de conséquences réelles."
+    },
+    {
+      "type": "heading",
+      "text": "CE QUI CHANGE ET CE QUI RESTE OUVERT"
+    },
+    {
+      "type": "paragraph",
+      "text": "La détection directionnelle de sons graves distants chez le requin bordé dispose de preuves quantifiées plus solides. Nous n’avons ni mécanisme entièrement expliqué, ni nouvelle plage auditive pour tous les requins, ni preuve que tout bruit perceptible nuit. L’étude élargit le monde sensoriel documenté sans résoudre toutes les questions. [Sullivan, Gerstein et Kajiura : étude originale de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’image principale est une illustration éditoriale générée par IA d’un grand requin blanc. Ce n’est pas une photographie de l’étude, qui concernait des requins bordés."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sullivan, Gerstein et Kajiura : étude originale de 2026",
+      "url": "https://doi.org/10.1093/iob/obag033"
+    },
+    {
+      "label": "Florida Atlantic University : annonce de septembre 2026",
+      "url": "https://www.fau.edu/newsdesk/articles/shark-hearing-study.php"
+    },
+    {
+      "label": "Chapuis et Collin : synthèse scientifique sur l’audition",
+      "url": "https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes"
+    },
+    {
+      "label": "Nieder et collègues : comparaison de trois espèces",
+      "url": "https://doi.org/10.1242/jeb.245973"
+    },
+    {
+      "label": "Sauer et collègues : diversité de l’oreille interne",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10506894/"
+    },
+    {
+      "label": "Gardiner et collègues : suivi des proies et sens combinés",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3973673/"
+    },
+    {
+      "label": "Robins et collègues : requins de Port Jackson et bruit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40816119/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Une plage auditive plus large a-t-elle été découverte ?",
+      "answer": "Non. L’étude mesure des réponses distantes à trois bandes graves chez le requin bordé, pas une nouvelle plage pour tous les requins."
+    },
+    {
+      "question": "À quelle distance ont-ils réagi ?",
+      "answer": "Le maximum observé est de 74,0 mètres pour 100–200 Hz. Ce n’est pas une distance auditive maximale pour toute l’espèce."
+    },
+    {
+      "question": "La ligne latérale est-elle l’audition ?",
+      "answer": "Non. L’oreille et la ligne latérale sont distinctes. La seconde détecte des mouvements d’eau locaux ; l’électroréception détecte des champs électriques."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "REQUINS BORDÉS",
+    "gold": "SONS LOINTAINS"
+  },
+  "readingTimeMinutes": 6
+}

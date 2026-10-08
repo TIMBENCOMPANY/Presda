@@ -1,0 +1,204 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/blacktip-shark-hearing-underwater-sound-study/",
+  "path": "/es/articles/blacktip-shark-hearing-underwater-sound-study/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es scientific and source-parity review",
+    "reviewedAt": "2026-10-08",
+    "terminologyChecked": true
+  },
+  "title": "LOS TIBURONES DE PUNTAS NEGRAS OYEN SONIDOS LEJANOS: QUÉ REVELA UN ESTUDIO",
+  "excerpt": "Tiburones de puntas negras seguidos por dron respondieron a sonidos graves hasta a 74 metros. Evidencia, límites y ruido submarino.",
+  "seoTitle": "Audición de tiburones: respuestas a sonidos hasta a 74 metros",
+  "description": "Tiburones de puntas negras seguidos por dron respondieron a sonidos graves hasta a 74 metros. Evidencia, límites y ruido submarino.",
+  "keywords": [
+    "Audición de tiburones: respuestas a sonidos hasta a 74 metros",
+    "LOS TIBURONES DE PUNTAS NEGRAS OYEN SONIDOS LEJANOS: QUÉ REVELA UN ESTUDIO"
+  ],
+  "searchIntent": "Tiburones de puntas negras seguidos por dron respondieron a sonidos graves hasta a 74 metros. Evidencia, límites y ruido submarino.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-08",
+  "updatedAt": "2026-10-08",
+  "image": {
+    "src": "/articles/shark-hearing-great-white-illustration.png",
+    "alt": "Ilustración editorial generada con IA de un tiburón blanco, no una fotografía de los tiburones de puntas negras estudiados"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El tiburón ya está pasando cuando se enciende un altavoz submarino. Gira bruscamente y se aleja. Desde un dron, ese cambio se convierte en una pista medible: ha detectado algo que no ve y posee información sobre su dirección."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio de campo de 2026 registra tiburones de puntas negras respondiendo a sonidos graves hasta a 74 metros. Su alcance es más preciso que una afirmación sobre todos los tiburones: refuerza la evidencia de detección distante y respuesta direccional en una especie. No descubre audición ultrasónica ni una nueva banda auditiva universal. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "heading",
+      "text": "EL ESTUDIO ORIGINAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Caroline L. Sullivan, Edmund R. Gerstein y Stephen M. Kajiura, de Florida Atlantic University, publicaron el trabajo sobre Carcharhinus limbatus en Integrative Organismal Biology el 30 de junio de 2026. La universidad lo presentó el 24 de septiembre. Es un experimento marino con animales libres, no solo una prueba de acuario o una inferencia anatómica. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033) [Florida Atlantic University: anuncio de septiembre de 2026](https://www.fau.edu/newsdesk/articles/shark-hearing-study.php)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo trabajó cerca de las entradas de Jupiter, Palm Beach y Pompano Beach, en aguas someras del sureste de Florida. Un altavoz emitía sonidos controlados; hidrófonos medían la presión y ayudaban a modelar la propagación. Un dron filmaba las respuestas y la longitud conocida del barco permitía calcular distancias. Se excluyeron reacciones ambiguas y ensayos alterados por otros factores. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "heading",
+      "text": "A QUÉ SONIDOS RESPONDIERON"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se probaron tres bandas de ruido pulsado irregular: 100–200 Hz, 200–400 Hz y 400–800 Hz. El control de 10.000 Hz no produjo respuestas observables. Las distancias medias fueron 40,7, 41,0 y 30,0 metros. El máximo, 74,0 metros, correspondió a la banda más grave. Es un máximo observado en esas condiciones, no el límite auditivo de la especie. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los tiburones giraban y se alejaban rápidamente. Las frecuencias superiores necesitaron mayor presión para provocar respuesta, coherente con una sensibilidad mayor a los graves. Pero huir no constituye un audiograma completo: percibir y decidir alejarse son procesos diferentes. La ausencia de reacción visible no siempre significa que el animal no oyó. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "heading",
+      "text": "LA NOVEDAD ES LA DISTANCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de las respuestas ocurrió más allá del campo acústico cercano, cuya frontera se definió mediante tres longitudes de onda y variaba con la frecuencia. El campo lejano no comienza a una distancia universal ni implica que las partículas de agua dejen de moverse. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigaciones anteriores ya mostraban respuesta a bajas frecuencias. Aquí se añaden distancias medidas y orientación en animales libres. Girar en sentido contrario al altavoz apoya la existencia de información direccional, sin probar un mapa mental con precisión humana. No fue una prueba de búsqueda de presas. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033) [Chapuis y Collin: revisión científica de la audición](https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes)"
+    },
+    {
+      "type": "heading",
+      "text": "CÓMO OYEN SIN OREJAS VISIBLES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los tiburones tienen oídos internos. Sus células ciliadas convierten movimientos mecánicos en señales nerviosas. En varios órganos, partículas minerales densas se retrasan respecto al tejido circundante y doblan los haces sensoriales. El oído también contribuye al equilibrio y la orientación; los canales semicirculares detectan rotación. [Nieder y colegas: comparación de tres especies](https://doi.org/10.1242/jeb.245973) [Sauer y colegas: diversidad del oído interno](https://pmc.ncbi.nlm.nih.gov/articles/PMC10506894/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sonido submarino incluye fluctuaciones de presión y movimiento de partículas. Los tiburones carecen de la vejiga natatoria gaseosa que permite a muchos peces óseos convertir presión en movimiento para el oído. La evidencia respalda principalmente la detección de movimiento. La macula neglecta podría contribuir a la audición direccional, pero su función precisa sigue abierta. [Chapuis y Collin: revisión científica de la audición](https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes) [Sauer y colegas: diversidad del oído interno](https://pmc.ncbi.nlm.nih.gov/articles/PMC10506894/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio no midió directamente ese movimiento en la posición de cada tiburón ni aisló un órgano. Los autores proponen mecanismos del oído interno, incluida la macula neglecta. El comportamiento no resuelve cuál explica la respuesta. Medir la presión del altavoz no demuestra que el tiburón perciba presión directamente. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "heading",
+      "text": "OÍDO, LÍNEA LATERAL Y ELECTRORRECEPCIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "La línea lateral detecta movimientos locales del agua y patrones de flujo, útiles ante perturbaciones y estelas cercanas. Es distinta del oído, aunque ambas vías sean mecanosensoriales. Una respuesta acústica distante no debe atribuirse automáticamente a la línea lateral. [Gardiner y colegas: seguimiento multisensorial de presas](https://pmc.ncbi.nlm.nih.gov/articles/PMC3973673/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ampollas de Lorenzini detectan campos eléctricos débiles y pueden guiar la captura a corta distancia. Electricidad, flujo y movimiento acústico no son equivalentes. Los experimentos de seguimiento muestran que olfato, visión, línea lateral y electrorrecepción actúan conjuntamente, con funciones que cambian durante la persecución. [Gardiner y colegas: seguimiento multisensorial de presas](https://pmc.ncbi.nlm.nih.gov/articles/PMC3973673/)"
+    },
+    {
+      "type": "heading",
+      "text": "DIFERENCIAS ENTRE ESPECIES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una comparación fisiológica de 2023 lo ilustra. Se midieron potenciales auditivos evocados en Cephaloscyllium isabellum, Mustelus lenticulatus y Galeorhinus galeus. En ese protocolo de tanque, la frecuencia superior detectada fue de 300 Hz en el primero y de 800 Hz en los otros dos. Describe un método y unos animales, no límites inmutables de cada especie. [Nieder y colegas: comparación de tres especies](https://doi.org/10.1242/jeb.245973)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La anatomía también registra variaciones entre oídos internos. Permiten hipótesis sobre hábitat y audición, pero un órgano mayor no demuestra una distancia concreta. Los tiburones de puntas negras no son tiburones blancos: el resultado no debe trasladarse a la especie de nuestra ilustración. [Sauer y colegas: diversidad del oído interno](https://pmc.ncbi.nlm.nih.gov/articles/PMC10506894/)"
+    },
+    {
+      "type": "heading",
+      "text": "PRESAS Y ORIENTACIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sonido ofrece información fuera del campo visual inmediato. Trabajos anteriores observaron atracción o evitación según el estímulo y su intensidad. Huir no contradice un posible papel auditivo en la alimentación. Un ruido artificial repentino e intenso no es la misma señal que una presa en dificultades. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033) [Chapuis y Collin: revisión científica de la audición](https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La orientación puede contribuir al desplazamiento, pero el estudio no prueba migración guiada por referencias acústicas. Tampoco demuestra ecolocalización, imágenes tipo sonar ni detección de presas a kilómetros. Nuestro [reportaje sobre la mente del pulpo](/articles/octopus-mind-intelligence-brain-eight-arms/) explora otro mundo sensorial. [Gardiner y colegas: seguimiento multisensorial de presas](https://pmc.ncbi.nlm.nih.gov/articles/PMC3973673/)"
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ IMPORTA EL RUIDO SUBMARINO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una detección más extensa aconseja incluir tiburones en evaluaciones acústicas. Es una implicación para conservarlos, no un efecto poblacional medido aquí. Barcos, obras y otras actividades difieren en espectro, duración e intensidad. Estos pulsos no permiten asignar un radio universal de perturbación. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033) [Chapuis y Collin: revisión científica de la audición](https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otro estudio de 2025 expuso hembras adultas de tiburón de Port Jackson a grabaciones ambientales y humanas. Con estas últimas aumentó el uso de refugio y cambió la respiración. Puede haber efectos que la natación visible no revela, pero no se cuantificaron lesiones o mortalidad de tiburones de puntas negras salvajes. [Robins y colegas: tiburones de Port Jackson y ruido](https://pubmed.ncbi.nlm.nih.gov/40816119/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las prioridades incluyen más especies, mejores mediciones del movimiento y relaciones entre exposición, alimentación, hábitat y fisiología. PRESDA considera que la audición merece atención junto a otras amenazas, mientras las decisiones requieren evidencia de exposición y consecuencias reales."
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ SABEMOS Y QUÉ FALTA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe evidencia cuantificada más sólida de respuesta direccional a sonidos graves distantes en tiburones de puntas negras. No tenemos un mecanismo completamente explicado, una nueva banda para todos los tiburones ni prueba de que todo sonido detectable dañe. La investigación amplía el mundo sensorial documentado y deja preguntas importantes abiertas. [Sullivan, Gerstein y Kajiura: estudio original de 2026](https://doi.org/10.1093/iob/obag033)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen principal es una ilustración editorial generada con IA de un tiburón blanco. No es una fotografía del estudio, que examinó tiburones de puntas negras."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sullivan, Gerstein y Kajiura: estudio original de 2026",
+      "url": "https://doi.org/10.1093/iob/obag033"
+    },
+    {
+      "label": "Florida Atlantic University: anuncio de septiembre de 2026",
+      "url": "https://www.fau.edu/newsdesk/articles/shark-hearing-study.php"
+    },
+    {
+      "label": "Chapuis y Collin: revisión científica de la audición",
+      "url": "https://research-repository.uwa.edu.au/en/publications/the-auditory-system-of-cartilaginous-fishes"
+    },
+    {
+      "label": "Nieder y colegas: comparación de tres especies",
+      "url": "https://doi.org/10.1242/jeb.245973"
+    },
+    {
+      "label": "Sauer y colegas: diversidad del oído interno",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10506894/"
+    },
+    {
+      "label": "Gardiner y colegas: seguimiento multisensorial de presas",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3973673/"
+    },
+    {
+      "label": "Robins y colegas: tiburones de Port Jackson y ruido",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40816119/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Se descubrió un rango auditivo más amplio?",
+      "answer": "No. Se midieron respuestas distantes a tres bandas graves en una especie, no un nuevo rango para todos los tiburones."
+    },
+    {
+      "question": "¿A qué distancia respondieron?",
+      "answer": "El máximo observado fue de 74,0 metros para 100–200 Hz. No constituye una distancia máxima para toda la especie."
+    },
+    {
+      "question": "¿La línea lateral equivale al oído?",
+      "answer": "No. El oído interno y la línea lateral son distintos; esta última detecta movimientos locales del agua. La electrorrecepción detecta campos eléctricos."
+    }
+  ],
+  "headlineHighlights": {
+    "red": "TIBURONES DE PUNTAS NEGRAS",
+    "gold": "SONIDOS LEJANOS"
+  },
+  "readingTimeMinutes": 6
+}

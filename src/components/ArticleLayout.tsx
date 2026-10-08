@@ -18,6 +18,7 @@ import { CasablancaFossilsGraphics } from "@/components/CasablancaFossilsGraphic
 import { CancerProgressGraphics } from "@/components/CancerProgressGraphics";
 import { Lunar5gGraphics } from "@/components/Lunar5gGraphics";
 import { RetinalRepairGraphic } from "@/components/RetinalRepairGraphic";
+import { SharkHearingGraphics } from "@/components/SharkHearingGraphics";
 import { IndusValleyGraphics } from "@/components/IndusValleyGraphics";
 import { HumanEvolutionGraphics } from "@/components/HumanEvolutionGraphics";
 import { messages, localizedCategories } from "@/lib/i18n/messages";
@@ -309,6 +310,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "blacktip-shark-hearing-underwater-sound-study" && (originalIndex === 7 || originalIndex === 17)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><SharkHearingGraphics locale={locale} kind={originalIndex === 7 ? "distance" : "senses"} /></div>;
+              }
               if (article.slug === "retinal-repair-prpf31-gene-therapy-vision-restoration" && originalIndex === 10) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><RetinalRepairGraphic locale={locale} /></div>;
               }
