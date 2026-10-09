@@ -1,3 +1,4 @@
+import { TaiwanCaptivesGraphics } from "@/components/TaiwanCaptivesGraphics";
 import { WorkAbroadGraphics } from "@/components/WorkAbroadGraphics";
 import { JonathanGraphics } from "@/components/JonathanGraphics";
 import { FrbRecordGraphics } from "@/components/FrbRecordGraphics";
@@ -317,6 +318,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "dutch-women-taiwan-1662-zeelandia-captives" && [4, 5, 12].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><TaiwanCaptivesGraphics locale={locale} kind={originalIndex === 4 ? "map" : originalIndex === 5 ? "timeline" : "siege"} /></div>;
+              }
               if (article.slug === "work-abroad-2026-official-immigration-jobs" && [1, 4, 49, 52].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WorkAbroadGraphics locale={locale} kind={originalIndex === 1 ? "directory" : originalIndex === 4 ? "routes" : originalIndex === 49 ? "fees" : "steps"} /></div>;
               }
