@@ -1,3 +1,4 @@
+import { WorkAbroadGraphics } from "@/components/WorkAbroadGraphics";
 import { JonathanGraphics } from "@/components/JonathanGraphics";
 import { FrbRecordGraphics } from "@/components/FrbRecordGraphics";
 import { RobotRaceGraphics } from "@/components/RobotRaceGraphics";
@@ -316,6 +317,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "work-abroad-2026-official-immigration-jobs" && [1, 4, 49, 52].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WorkAbroadGraphics locale={locale} kind={originalIndex === 1 ? "directory" : originalIndex === 4 ? "routes" : originalIndex === 49 ? "fees" : "steps"} /></div>;
+              }
               if (article.slug === "jonathan-oldest-tortoise-194-years-aging" && [8, 27, 30].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><JonathanGraphics locale={locale} kind={originalIndex === 8 ? "timeline" : originalIndex === 27 ? "science" : "lifespans"} /></div>;
               }

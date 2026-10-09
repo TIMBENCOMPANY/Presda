@@ -1,0 +1,1154 @@
+{
+  "en": {
+    "directory": "OFFICIAL STARTING POINTS",
+    "note": "Job portals show vacancies. Information pages explain routes. Submission portals still require eligibility, documents and, where applicable, an employer or invitation. Links open in a new tab.",
+    "routes": [
+      [
+        "Canada: Express Entry",
+        "Not always",
+        "Federal-program eligibility and CRS invitation",
+        "Profile first; PR application only after invitation"
+      ],
+      [
+        "Canada: PNP",
+        "Depends on stream",
+        "Provincial criteria and federal approval",
+        "Intake varies by province and stream"
+      ],
+      [
+        "Germany: Blue Card",
+        "Yes",
+        "Qualification, contract and 2026 salary",
+        "Eligible job and visa/residence application"
+      ],
+      [
+        "Germany: Opportunity Card",
+        "No prior offer required",
+        "Recognition or points, plus support funds",
+        "Qualifying job-seeker application"
+      ],
+      [
+        "France: salaried work",
+        "Normally yes",
+        "Employer authorization unless exempt",
+        "Work authorization, then visa if required"
+      ],
+      [
+        "Spain: employee route",
+        "Yes",
+        "Contract and labor-market rules/exemption",
+        "Employer request; consular steps after approval"
+      ],
+      [
+        "Netherlands: highly skilled migrant",
+        "IND-recognized employer",
+        "Contract, market rate and salary threshold",
+        "Employer application, not personal job search"
+      ],
+      [
+        "Ireland: employment permit",
+        "Qualifying employment",
+        "Permit-specific occupation and contract rules",
+        "Permit route, then entry/registration requirements"
+      ],
+      [
+        "USA: H-1B",
+        "Yes",
+        "Specialty occupation; cap or exemption rules",
+        "FY 2027 initial registration closed"
+      ],
+      [
+        "USA: H-2A / H-2B",
+        "Yes",
+        "Temporary job, certification and petition",
+        "Employer-led; dates and H-2B limits matter"
+      ],
+      [
+        "USA: employment-based residence",
+        "Many routes; exceptions permit self-petition",
+        "Category and visa-number availability",
+        "Check bulletin and nationality restrictions"
+      ],
+      [
+        "USA: Diversity Visa",
+        "Not a job program",
+        "Annual eligibility and current instructions",
+        "No verified open entry; issuance paused"
+      ]
+    ],
+    "routeNote": "Checked October 9, 2026. This is a practical comparison of selected pathways, not a promise of open places or a ranking of visa success.",
+    "headers": [
+      "Route",
+      "Offer or sponsor?",
+      "Main eligibility gate",
+      "Application status"
+    ],
+    "budget": "VERIFIED FEES: KEEP COST CATEGORIES SEPARATE",
+    "budgetNote": "Selected standard charges in original currencies as checked October 9, 2026. Exceptions and additional fees apply. Living funds and salary thresholds are not processing fees.",
+    "feeHeaders": [
+      "Route / service",
+      "Selected charge",
+      "What it excludes"
+    ],
+    "steps": "FROM ELIGIBILITY TO DEPARTURE",
+    "stepNote": "A preparation sequence. The responsible authority determines your actual checklist and timing.",
+    "source": "Official sources",
+    "stepsList": [
+      "Identify your work rights and the exact permit route.",
+      "Check qualifications, language and nationality restrictions.",
+      "Find an eligible employer or prepare the qualifying profile.",
+      "Submit through the official route with complete evidence.",
+      "Wait for the required decision and satisfy entry conditions.",
+      "Complete arrival registration or validation where required."
+    ],
+    "country": [
+      "Canada",
+      "Europe",
+      "Germany",
+      "France",
+      "Spain",
+      "Netherlands",
+      "Ireland",
+      "USA"
+    ],
+    "kinds": {
+      "info": "Information",
+      "jobs": "Job search",
+      "portal": "Application portal",
+      "employer": "Employer process",
+      "register": "Sponsor register",
+      "closed": "Registration window closed",
+      "paused": "Issuance paused"
+    },
+    "access": "Some official portals require JavaScript, an account or employer credentials. A verified official destination is not evidence of a successful application or an available appointment.",
+    "fees": [
+      [
+        "Canada: economic PR, main applicant",
+        "CAD 990 + CAD 600 = CAD 1,590",
+        "Where both charges apply; excludes family, biometrics and provincial fees"
+      ],
+      [
+        "Canada: work permit",
+        "CAD 155; open-permit holder fee CAD 100 extra",
+        "Biometrics normally CAD 85 per individual if required; exemptions exist"
+      ],
+      [
+        "Germany: standard adult national visa",
+        "EUR 75",
+        "Excludes recognition, insurance and living funds; exceptions apply"
+      ],
+      [
+        "Netherlands: highly skilled migrant application",
+        "EUR 423",
+        "Standard IND application charge; family and exceptions separate"
+      ],
+      [
+        "USA: H-category consular visa application",
+        "USD 205",
+        "Not the total employer petition cost; other applicable fees separate"
+      ]
+    ],
+    "directoryEntries": [
+      {
+        "country": "Canada",
+        "links": [
+          {
+            "label": "Job Bank: international applicants",
+            "url": "https://www.jobbank.gc.ca/findajob/foreign-candidates",
+            "kind": "Job search"
+          },
+          {
+            "label": "IRCC: create an Express Entry profile",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/create-profile.html",
+            "kind": "Information"
+          },
+          {
+            "label": "IRCC: secure application account",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+            "kind": "Application portal"
+          }
+        ]
+      },
+      {
+        "country": "Europe",
+        "links": [
+          {
+            "label": "EURES: official European job search",
+            "url": "https://eures.europa.eu/index_en",
+            "kind": "Job search"
+          },
+          {
+            "label": "European Commission: EU Blue Card",
+            "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en",
+            "kind": "Information"
+          }
+        ]
+      },
+      {
+        "country": "Germany",
+        "links": [
+          {
+            "label": "Germany: official skilled-worker vacancies",
+            "url": "https://www.make-it-in-germany.com/en/working-in-germany/job-listings",
+            "kind": "Job search"
+          },
+          {
+            "label": "Germany: Consular Services application portal",
+            "url": "https://digital.diplo.de/visa-ewt",
+            "kind": "Application portal"
+          }
+        ]
+      },
+      {
+        "country": "France",
+        "links": [
+          {
+            "label": "France Travail: search job offers",
+            "url": "https://candidat.francetravail.fr/rechercheoffre/emploi",
+            "kind": "Job search"
+          },
+          {
+            "label": "France-Visas: visa requirements wizard",
+            "url": "https://www.france-visas.gouv.fr/assistant-visa",
+            "kind": "Information"
+          },
+          {
+            "label": "France-Visas: official online application entry",
+            "url": "https://www.france-visas.gouv.fr/demande-de-visa",
+            "kind": "Application portal"
+          }
+        ]
+      },
+      {
+        "country": "Spain",
+        "links": [
+          {
+            "label": "SEPE: official employment portal access",
+            "url": "https://sepe.es/HomeSepe/encontrar-trabajo/ofertas-empleo.html",
+            "kind": "Job search"
+          },
+          {
+            "label": "Spain: initial employee work authorization",
+            "url": "https://www.inclusion.gob.es/es/web/migraciones/w/autorizacion-inicial-de-residencia-temporal-y-trabajo-por-cuenta-ajena-hi-16-",
+            "kind": "Employer process"
+          }
+        ]
+      },
+      {
+        "country": "Netherlands",
+        "links": [
+          {
+            "label": "IND: recognized employer register",
+            "url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-work",
+            "kind": "Sponsor register"
+          },
+          {
+            "label": "IND: employer application portal",
+            "url": "https://ind.nl/en/business-portal",
+            "kind": "Employer process"
+          }
+        ]
+      },
+      {
+        "country": "Ireland",
+        "links": [
+          {
+            "label": "Ireland: work permission and entry requirements",
+            "url": "https://www.irishimmigration.ie/coming-to-work-in-ireland/",
+            "kind": "Information"
+          }
+        ]
+      },
+      {
+        "country": "USA",
+        "links": [
+          {
+            "label": "U.S. Department of Labor: seasonal job orders",
+            "url": "https://seasonaljobs.dol.gov/",
+            "kind": "Job search"
+          },
+          {
+            "label": "U.S. State Department: DS-160 after petition approval",
+            "url": "https://ceac.state.gov/genniv/",
+            "kind": "Application portal"
+          },
+          {
+            "label": "USCIS: FY 2027 registration dates and fee",
+            "url": "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/406da02",
+            "kind": "Registration window closed"
+          },
+          {
+            "label": "U.S. State Department: August 31 DV issuance guidance",
+            "url": "https://travel.state.gov/content/travel/en/News/visas-news/diversity-visa-issuance-updated-guidance.html",
+            "kind": "Issuance paused"
+          }
+        ]
+      }
+    ],
+    "routeTitle": "COMPARE THE ROUTES, NOT APPROVAL ODDS"
+  },
+  "fr": {
+    "directory": "POINTS D’ENTRÉE OFFICIELS",
+    "note": "Les sites d’emploi présentent des offres. Les pages d’information expliquent les voies. Les portails de dépôt exigent admissibilité, pièces et parfois employeur ou invitation. Les liens ouvrent un nouvel onglet.",
+    "routes": [
+      [
+        "Canada : Entrée express",
+        "Pas toujours",
+        "Admissibilité fédérale et invitation CRS",
+        "Profil, puis résidence permanente sur invitation"
+      ],
+      [
+        "Canada : PNP",
+        "Selon le volet",
+        "Critères provinciaux et accord fédéral",
+        "Ouverture selon province et volet"
+      ],
+      [
+        "Allemagne : carte bleue",
+        "Oui",
+        "Qualification, contrat et salaire 2026",
+        "Poste admissible et demande de visa/séjour"
+      ],
+      [
+        "Allemagne : carte des opportunités",
+        "Pas d’offre préalable",
+        "Reconnaissance ou points et financement",
+        "Demande de recherche d’emploi admissible"
+      ],
+      [
+        "France : emploi salarié",
+        "Normalement oui",
+        "Autorisation employeur sauf exemption",
+        "Autorisation, puis visa si requis"
+      ],
+      [
+        "Espagne : travail salarié",
+        "Oui",
+        "Contrat et marché du travail/exemption",
+        "Demande employeur, puis consulat après accord"
+      ],
+      [
+        "Pays-Bas : migrant hautement qualifié",
+        "Employeur reconnu IND",
+        "Contrat, marché et seuil salarial",
+        "Dépôt employeur, pas recherche personnelle"
+      ],
+      [
+        "Irlande : permis d’emploi",
+        "Emploi admissible",
+        "Métier et contrat selon permis",
+        "Permis, puis entrée/enregistrement"
+      ],
+      [
+        "États-Unis : H-1B",
+        "Oui",
+        "Métier spécialisé, quota ou exemption",
+        "Inscription initiale FY 2027 fermée"
+      ],
+      [
+        "États-Unis : H-2A / H-2B",
+        "Oui",
+        "Emploi temporaire, certification et requête",
+        "Employeur, dates et limites H-2B"
+      ],
+      [
+        "États-Unis : résidence par l’emploi",
+        "Nombreuses voies, exceptions personnelles",
+        "Catégorie et disponibilité des numéros",
+        "Vérifier bulletin et restrictions nationales"
+      ],
+      [
+        "États-Unis : Diversity Visa",
+        "Pas un programme d’emploi",
+        "Admissibilité et instructions annuelles",
+        "Pas d’inscription ouverte vérifiée ; délivrance suspendue"
+      ]
+    ],
+    "routeNote": "Vérifié le 9 octobre 2026. Comparaison pratique de voies sélectionnées, sans promettre des places ouvertes ni classer les chances de visa.",
+    "headers": [
+      "Voie",
+      "Offre ou employeur ?",
+      "Condition principale",
+      "Statut du dépôt"
+    ],
+    "budget": "FRAIS VÉRIFIÉS : DISTINGUER LES CATÉGORIES",
+    "budgetNote": "Frais standards sélectionnés dans leur devise, vérifiés le 9 octobre 2026. Exemptions et suppléments possibles. Fonds de vie et seuils salariaux ne sont pas des frais administratifs.",
+    "feeHeaders": [
+      "Voie / service",
+      "Frais sélectionnés",
+      "Exclusions"
+    ],
+    "steps": "DE L’ADMISSIBILITÉ AU DÉPART",
+    "stepNote": "Séquence de préparation. L’autorité compétente fixe les documents et le calendrier applicables.",
+    "source": "Sources officielles",
+    "stepsList": [
+      "Identifier les droits au travail et la voie exacte.",
+      "Vérifier qualification, langue et restrictions de nationalité.",
+      "Trouver un employeur admissible ou préparer le profil.",
+      "Déposer par la voie officielle avec toutes les preuves.",
+      "Attendre la décision et satisfaire les conditions d’entrée.",
+      "Effectuer enregistrement ou validation après l’arrivée."
+    ],
+    "country": [
+      "Canada",
+      "Europe",
+      "Allemagne",
+      "France",
+      "Espagne",
+      "Pays-Bas",
+      "Irlande",
+      "États-Unis"
+    ],
+    "kinds": {
+      "info": "Information",
+      "jobs": "Recherche d’emploi",
+      "portal": "Portail de dépôt",
+      "employer": "Procédure employeur",
+      "register": "Registre employeurs",
+      "closed": "Inscription fermée",
+      "paused": "Délivrance suspendue"
+    },
+    "access": "Certains portails exigent JavaScript, un compte ou un accès employeur. Une destination officielle vérifiée ne prouve ni dépôt réussi ni rendez-vous disponible.",
+    "fees": [
+      [
+        "Canada : résidence économique, principal",
+        "990 CAD + 600 CAD = 1 590 CAD",
+        "Si les deux s’appliquent ; hors famille, biométrie et province"
+      ],
+      [
+        "Canada : permis de travail",
+        "155 CAD ; supplément permis ouvert 100 CAD",
+        "Biométrie individuelle normalement 85 CAD si requise ; exemptions"
+      ],
+      [
+        "Allemagne : visa national adulte standard",
+        "75 EUR",
+        "Hors reconnaissance, assurance et fonds de vie ; exemptions"
+      ],
+      [
+        "Pays-Bas : demande migrant hautement qualifié",
+        "423 EUR",
+        "Frais IND standards ; famille et exemptions distinctes"
+      ],
+      [
+        "États-Unis : demande consulaire catégorie H",
+        "205 USD",
+        "Pas le coût total employeur ; autres frais distincts"
+      ]
+    ],
+    "directoryEntries": [
+      {
+        "country": "Canada",
+        "links": [
+          {
+            "label": "Guichet-Emplois : candidats internationaux",
+            "url": "https://www.jobbank.gc.ca/findajob/foreign-candidates",
+            "kind": "Recherche d’emploi"
+          },
+          {
+            "label": "IRCC : créer un profil Entrée express",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/create-profile.html",
+            "kind": "Information"
+          },
+          {
+            "label": "IRCC : compte sécurisé de demande",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+            "kind": "Portail de dépôt"
+          }
+        ]
+      },
+      {
+        "country": "Europe",
+        "links": [
+          {
+            "label": "EURES : recherche officielle d’emploi en Europe",
+            "url": "https://eures.europa.eu/index_en",
+            "kind": "Recherche d’emploi"
+          },
+          {
+            "label": "Commission européenne : carte bleue européenne",
+            "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en",
+            "kind": "Information"
+          }
+        ]
+      },
+      {
+        "country": "Allemagne",
+        "links": [
+          {
+            "label": "Allemagne : offres officielles pour travailleurs qualifiés",
+            "url": "https://www.make-it-in-germany.com/en/working-in-germany/job-listings",
+            "kind": "Recherche d’emploi"
+          },
+          {
+            "label": "Allemagne : portail des services consulaires",
+            "url": "https://digital.diplo.de/visa-ewt",
+            "kind": "Portail de dépôt"
+          }
+        ]
+      },
+      {
+        "country": "France",
+        "links": [
+          {
+            "label": "France Travail : rechercher des offres",
+            "url": "https://candidat.francetravail.fr/rechercheoffre/emploi",
+            "kind": "Recherche d’emploi"
+          },
+          {
+            "label": "France-Visas : vérifier les exigences de visa",
+            "url": "https://www.france-visas.gouv.fr/assistant-visa",
+            "kind": "Information"
+          },
+          {
+            "label": "France-Visas : commencer une demande officielle",
+            "url": "https://www.france-visas.gouv.fr/demande-de-visa",
+            "kind": "Portail de dépôt"
+          }
+        ]
+      },
+      {
+        "country": "Espagne",
+        "links": [
+          {
+            "label": "SEPE : accéder aux portails officiels d’emploi",
+            "url": "https://sepe.es/HomeSepe/encontrar-trabajo/ofertas-empleo.html",
+            "kind": "Recherche d’emploi"
+          },
+          {
+            "label": "Espagne : autorisation initiale de travail salarié",
+            "url": "https://www.inclusion.gob.es/es/web/migraciones/w/autorizacion-inicial-de-residencia-temporal-y-trabajo-por-cuenta-ajena-hi-16-",
+            "kind": "Procédure employeur"
+          }
+        ]
+      },
+      {
+        "country": "Pays-Bas",
+        "links": [
+          {
+            "label": "IND : registre des employeurs reconnus",
+            "url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-work",
+            "kind": "Registre employeurs"
+          },
+          {
+            "label": "IND : portail de demande des employeurs",
+            "url": "https://ind.nl/en/business-portal",
+            "kind": "Procédure employeur"
+          }
+        ]
+      },
+      {
+        "country": "Irlande",
+        "links": [
+          {
+            "label": "Irlande : autorisation de travail et conditions d’entrée",
+            "url": "https://www.irishimmigration.ie/coming-to-work-in-ireland/",
+            "kind": "Information"
+          }
+        ]
+      },
+      {
+        "country": "États-Unis",
+        "links": [
+          {
+            "label": "Département du Travail américain : offres saisonnières",
+            "url": "https://seasonaljobs.dol.gov/",
+            "kind": "Recherche d’emploi"
+          },
+          {
+            "label": "Département d’État : DS-160 après approbation de la requête",
+            "url": "https://ceac.state.gov/genniv/",
+            "kind": "Portail de dépôt"
+          },
+          {
+            "label": "USCIS : calendrier et frais d’inscription FY 2027",
+            "url": "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/406da02",
+            "kind": "Inscription fermée"
+          },
+          {
+            "label": "Département d’État : consignes DV du 31 août",
+            "url": "https://travel.state.gov/content/travel/en/News/visas-news/diversity-visa-issuance-updated-guidance.html",
+            "kind": "Délivrance suspendue"
+          }
+        ]
+      }
+    ],
+    "routeTitle": "COMPARER LES VOIES, PAS LES CHANCES D’ACCORD"
+  },
+  "ar": {
+    "directory": "نقاط البداية الرسمية",
+    "note": "تعرض مواقع الوظائف إعلانات، وتشرح صفحات المعلومات المسارات. تتطلب بوابات التقديم الأهلية والوثائق وأحيانا صاحب عمل أو دعوة. تفتح الروابط في تبويب جديد.",
+    "routes": [
+      [
+        "كندا: إكسبريس إنتري",
+        "ليس دائما",
+        "أهلية البرنامج ودعوة التصنيف",
+        "ملف أولا ثم إقامة بدعوة"
+      ],
+      [
+        "كندا: الترشيح الإقليمي",
+        "بحسب الفرع",
+        "شروط الإقليم والموافقة الفيدرالية",
+        "القبول يختلف حسب الإقليم والفرع"
+      ],
+      [
+        "ألمانيا: البطاقة الزرقاء",
+        "نعم",
+        "مؤهل وعقد وأجر 2026",
+        "وظيفة مؤهلة وطلب تأشيرة أو إقامة"
+      ],
+      [
+        "ألمانيا: بطاقة الفرص",
+        "لا يلزم عرض مسبق",
+        "اعتراف أو نقاط وأموال إعالة",
+        "طلب بحث عمل للمؤهلين"
+      ],
+      [
+        "فرنسا: العمل بأجر",
+        "عادة نعم",
+        "تصريح المشغّل إلا عند الإعفاء",
+        "تصريح ثم تأشيرة إن لزمت"
+      ],
+      [
+        "إسبانيا: مسار الموظف",
+        "نعم",
+        "عقد وقواعد السوق أو إعفاء",
+        "طلب المشغّل ثم القنصلية بعد الموافقة"
+      ],
+      [
+        "هولندا: المهاجر عالي المهارة",
+        "مشغّل معترف به لدى IND",
+        "عقد وأجر السوق والحد المطلوب",
+        "طلب المشغّل وليس بحثا شخصيا"
+      ],
+      [
+        "أيرلندا: تصريح العمل",
+        "عمل مؤهل",
+        "شروط المهنة والعقد حسب التصريح",
+        "تصريح ثم شروط الدخول والتسجيل"
+      ],
+      [
+        "أمريكا: H-1B",
+        "نعم",
+        "مهنة تخصصية وحصة أو إعفاء",
+        "التسجيل الأولي للسنة المالية 2027 مغلق"
+      ],
+      [
+        "أمريكا: H-2A / H-2B",
+        "نعم",
+        "عمل مؤقت وشهادة والتماس",
+        "يقوده المشغّل مع مواعيد وحصص H-2B"
+      ],
+      [
+        "أمريكا: الإقامة عبر العمل",
+        "مسارات عديدة وبعضها التماس ذاتي",
+        "الفئة وتوفر رقم التأشيرة",
+        "راجع النشرة وقيود الجنسية"
+      ],
+      [
+        "أمريكا: تأشيرة التنوع",
+        "ليس برنامج وظائف",
+        "الأهلية السنوية والتعليمات الحالية",
+        "لا تسجيل مفتوح مثبت؛ الإصدار متوقف"
+      ]
+    ],
+    "routeNote": "تم التحقق في 9 أكتوبر 2026. مقارنة عملية لمسارات مختارة، وليست وعدا بأماكن متاحة أو ترتيبا لفرص التأشيرة.",
+    "headers": [
+      "المسار",
+      "عرض أو مشغّل؟",
+      "شرط الأهلية الرئيسي",
+      "حالة التقديم"
+    ],
+    "budget": "رسوم موثقة: افصل أنواع التكاليف",
+    "budgetNote": "رسوم قياسية مختارة بالعملات الأصلية وفق تحقق 9 أكتوبر 2026. قد توجد استثناءات ورسوم أخرى. أموال المعيشة وحدود الأجور ليست رسوم معالجة.",
+    "feeHeaders": [
+      "المسار أو الخدمة",
+      "الرسم المختار",
+      "ما لا يشمله"
+    ],
+    "steps": "من الأهلية إلى السفر",
+    "stepNote": "تسلسل تحضيري. تحدد الجهة المختصة قائمة الوثائق والتوقيت الفعليين.",
+    "source": "المصادر الرسمية",
+    "stepsList": [
+      "حدد حق العمل ومسار التصريح الدقيق.",
+      "تحقق من المؤهلات واللغة وقيود الجنسية.",
+      "ابحث عن مشغّل مؤهل أو جهز الملف المناسب.",
+      "قدم عبر المسار الرسمي بأدلة كاملة.",
+      "انتظر القرار اللازم واستوف شروط الدخول.",
+      "أكمل التسجيل أو اعتماد الإقامة بعد الوصول عند اللزوم."
+    ],
+    "country": [
+      "كندا",
+      "أوروبا",
+      "ألمانيا",
+      "فرنسا",
+      "إسبانيا",
+      "هولندا",
+      "أيرلندا",
+      "الولايات المتحدة"
+    ],
+    "kinds": {
+      "info": "معلومات",
+      "jobs": "بحث وظائف",
+      "portal": "بوابة تقديم",
+      "employer": "إجراء المشغّل",
+      "register": "سجل المشغّلين",
+      "closed": "نافذة التسجيل مغلقة",
+      "paused": "الإصدار متوقف"
+    },
+    "access": "تحتاج بعض البوابات الرسمية إلى JavaScript أو حساب أو بيانات المشغّل. التحقق من الوجهة الرسمية لا يثبت نجاح تقديم الطلب أو توفر موعد.",
+    "fees": [
+      [
+        "كندا: الإقامة الاقتصادية للمتقدم الرئيسي",
+        "990 CAD + 600 CAD = 1,590 CAD",
+        "عند انطباق الرسمين؛ دون الأسرة والبصمات والإقليم"
+      ],
+      [
+        "كندا: تصريح العمل",
+        "155 CAD؛ إضافة التصريح المفتوح 100 CAD",
+        "البصمات عادة 85 CAD للفرد إن لزمت؛ توجد إعفاءات"
+      ],
+      [
+        "ألمانيا: تأشيرة وطنية قياسية للبالغ",
+        "75 EUR",
+        "دون الاعتراف والتأمين وأموال المعيشة؛ توجد استثناءات"
+      ],
+      [
+        "هولندا: طلب المهاجر عالي المهارة",
+        "423 EUR",
+        "رسم IND القياسي؛ الأسرة والاستثناءات منفصلة"
+      ],
+      [
+        "أمريكا: طلب قنصلي لفئة H",
+        "205 USD",
+        "ليست كل تكلفة الالتماس؛ الرسوم الأخرى منفصلة"
+      ]
+    ],
+    "directoryEntries": [
+      {
+        "country": "كندا",
+        "links": [
+          {
+            "label": "بنك الوظائف: المتقدمون الدوليون",
+            "url": "https://www.jobbank.gc.ca/findajob/foreign-candidates",
+            "kind": "بحث وظائف"
+          },
+          {
+            "label": "IRCC: إنشاء ملف إكسبريس إنتري",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/create-profile.html",
+            "kind": "معلومات"
+          },
+          {
+            "label": "IRCC: حساب التقديم الآمن",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+            "kind": "بوابة تقديم"
+          }
+        ]
+      },
+      {
+        "country": "أوروبا",
+        "links": [
+          {
+            "label": "EURES: البحث الرسمي عن وظائف في أوروبا",
+            "url": "https://eures.europa.eu/index_en",
+            "kind": "بحث وظائف"
+          },
+          {
+            "label": "المفوضية الأوروبية: البطاقة الزرقاء",
+            "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en",
+            "kind": "معلومات"
+          }
+        ]
+      },
+      {
+        "country": "ألمانيا",
+        "links": [
+          {
+            "label": "ألمانيا: الوظائف الرسمية للعمال المهرة",
+            "url": "https://www.make-it-in-germany.com/en/working-in-germany/job-listings",
+            "kind": "بحث وظائف"
+          },
+          {
+            "label": "ألمانيا: بوابة الخدمات القنصلية",
+            "url": "https://digital.diplo.de/visa-ewt",
+            "kind": "بوابة تقديم"
+          }
+        ]
+      },
+      {
+        "country": "فرنسا",
+        "links": [
+          {
+            "label": "فرانس ترافاي: البحث عن عروض العمل",
+            "url": "https://candidat.francetravail.fr/rechercheoffre/emploi",
+            "kind": "بحث وظائف"
+          },
+          {
+            "label": "فرانس فيزا: التحقق من متطلبات التأشيرة",
+            "url": "https://www.france-visas.gouv.fr/assistant-visa",
+            "kind": "معلومات"
+          },
+          {
+            "label": "فرانس فيزا: بدء طلب رسمي",
+            "url": "https://www.france-visas.gouv.fr/demande-de-visa",
+            "kind": "بوابة تقديم"
+          }
+        ]
+      },
+      {
+        "country": "إسبانيا",
+        "links": [
+          {
+            "label": "SEPE: الوصول إلى بوابات الوظائف الرسمية",
+            "url": "https://sepe.es/HomeSepe/encontrar-trabajo/ofertas-empleo.html",
+            "kind": "بحث وظائف"
+          },
+          {
+            "label": "إسبانيا: تصريح العمل الأولي للموظفين",
+            "url": "https://www.inclusion.gob.es/es/web/migraciones/w/autorizacion-inicial-de-residencia-temporal-y-trabajo-por-cuenta-ajena-hi-16-",
+            "kind": "إجراء المشغّل"
+          }
+        ]
+      },
+      {
+        "country": "هولندا",
+        "links": [
+          {
+            "label": "IND: سجل أصحاب العمل المعترف بهم",
+            "url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-work",
+            "kind": "سجل المشغّلين"
+          },
+          {
+            "label": "IND: بوابة طلبات أصحاب العمل",
+            "url": "https://ind.nl/en/business-portal",
+            "kind": "إجراء المشغّل"
+          }
+        ]
+      },
+      {
+        "country": "أيرلندا",
+        "links": [
+          {
+            "label": "أيرلندا: تصريح العمل وشروط الدخول",
+            "url": "https://www.irishimmigration.ie/coming-to-work-in-ireland/",
+            "kind": "معلومات"
+          }
+        ]
+      },
+      {
+        "country": "الولايات المتحدة",
+        "links": [
+          {
+            "label": "وزارة العمل الأمريكية: إعلانات الوظائف الموسمية",
+            "url": "https://seasonaljobs.dol.gov/",
+            "kind": "بحث وظائف"
+          },
+          {
+            "label": "وزارة الخارجية: DS-160 بعد الموافقة على الالتماس",
+            "url": "https://ceac.state.gov/genniv/",
+            "kind": "بوابة تقديم"
+          },
+          {
+            "label": "USCIS: مواعيد ورسوم تسجيل السنة المالية 2027",
+            "url": "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/406da02",
+            "kind": "نافذة التسجيل مغلقة"
+          },
+          {
+            "label": "وزارة الخارجية: توجيهات تأشيرة التنوع في 31 أغسطس",
+            "url": "https://travel.state.gov/content/travel/en/News/visas-news/diversity-visa-issuance-updated-guidance.html",
+            "kind": "الإصدار متوقف"
+          }
+        ]
+      }
+    ],
+    "routeTitle": "قارن المسارات لا احتمالات الموافقة"
+  },
+  "es": {
+    "directory": "PUNTOS DE ENTRADA OFICIALES",
+    "note": "Los portales laborales muestran vacantes. Las páginas informativas explican vías. Los portales de solicitud exigen elegibilidad, documentos y a veces empresa o invitación. Los enlaces abren otra pestaña.",
+    "routes": [
+      [
+        "Canadá: Express Entry",
+        "No siempre",
+        "Elegibilidad federal e invitación CRS",
+        "Perfil primero; residencia tras invitación"
+      ],
+      [
+        "Canadá: PNP",
+        "Depende de la vía",
+        "Criterios provinciales y aprobación federal",
+        "Admisión varía por provincia y vía"
+      ],
+      [
+        "Alemania: Tarjeta Azul",
+        "Sí",
+        "Cualificación, contrato y sueldo 2026",
+        "Empleo elegible y solicitud de visado/residencia"
+      ],
+      [
+        "Alemania: Tarjeta de Oportunidades",
+        "No exige oferta previa",
+        "Reconocimiento o puntos y fondos",
+        "Solicitud elegible para buscar empleo"
+      ],
+      [
+        "Francia: empleo asalariado",
+        "Normalmente sí",
+        "Autorización salvo exención",
+        "Autorización y luego visado si procede"
+      ],
+      [
+        "España: cuenta ajena",
+        "Sí",
+        "Contrato y reglas laborales/excepción",
+        "Empresa solicita; consulado tras aprobación"
+      ],
+      [
+        "Países Bajos: migrante cualificado",
+        "Empresa reconocida IND",
+        "Contrato, mercado y umbral salarial",
+        "Solicitud empresarial, no búsqueda personal"
+      ],
+      [
+        "Irlanda: permiso laboral",
+        "Empleo elegible",
+        "Ocupación y contrato según permiso",
+        "Permiso y luego entrada/registro"
+      ],
+      [
+        "EE. UU.: H-1B",
+        "Sí",
+        "Ocupación especializada; cupo o exención",
+        "Inscripción inicial FY 2027 cerrada"
+      ],
+      [
+        "EE. UU.: H-2A / H-2B",
+        "Sí",
+        "Empleo temporal, certificación y petición",
+        "Empresa inicia; importan fechas y cupos H-2B"
+      ],
+      [
+        "EE. UU.: residencia por empleo",
+        "Muchas vías; excepciones de autopetición",
+        "Categoría y disponibilidad de número",
+        "Revise boletín y restricciones nacionales"
+      ],
+      [
+        "EE. UU.: Diversity Visa",
+        "No es programa laboral",
+        "Elegibilidad e instrucciones anuales",
+        "Sin inscripción abierta verificada; expedición pausada"
+      ]
+    ],
+    "routeNote": "Verificado el 9 de octubre de 2026. Comparación práctica de vías seleccionadas, no promesa de plazas abiertas ni clasificación de éxito.",
+    "headers": [
+      "Vía",
+      "¿Oferta o empresa?",
+      "Requisito principal",
+      "Estado del trámite"
+    ],
+    "budget": "TASAS VERIFICADAS: SEPARE LOS TIPOS DE COSTE",
+    "budgetNote": "Cargos estándar seleccionados en moneda original, verificados el 9 de octubre de 2026. Excepciones y suplementos posibles. Manutención y umbrales no son tasas.",
+    "feeHeaders": [
+      "Vía / servicio",
+      "Cargo seleccionado",
+      "Qué excluye"
+    ],
+    "steps": "DE LA ELEGIBILIDAD A LA SALIDA",
+    "stepNote": "Secuencia preparatoria. La autoridad determina la lista y calendario aplicables.",
+    "source": "Fuentes oficiales",
+    "stepsList": [
+      "Identifique derechos laborales y vía exacta.",
+      "Compruebe cualificación, idioma y restricciones nacionales.",
+      "Busque empresa elegible o prepare el perfil adecuado.",
+      "Presente por vía oficial con pruebas completas.",
+      "Espere la decisión y cumpla condiciones de entrada.",
+      "Complete registro o validación al llegar cuando proceda."
+    ],
+    "country": [
+      "Canadá",
+      "Europa",
+      "Alemania",
+      "Francia",
+      "España",
+      "Países Bajos",
+      "Irlanda",
+      "Estados Unidos"
+    ],
+    "kinds": {
+      "info": "Información",
+      "jobs": "Buscar empleo",
+      "portal": "Portal de solicitud",
+      "employer": "Trámite empresarial",
+      "register": "Registro de empresas",
+      "closed": "Inscripción cerrada",
+      "paused": "Expedición pausada"
+    },
+    "access": "Algunos portales exigen JavaScript, cuenta o credenciales empresariales. Verificar la dirección oficial no demuestra presentación exitosa ni cita disponible.",
+    "fees": [
+      [
+        "Canadá: residencia económica principal",
+        "990 CAD + 600 CAD = 1.590 CAD",
+        "Si proceden ambos; excluye familia, biometría y provincia"
+      ],
+      [
+        "Canadá: permiso laboral",
+        "155 CAD; suplemento abierto 100 CAD",
+        "Biometría normalmente 85 CAD por persona si procede; excepciones"
+      ],
+      [
+        "Alemania: visado nacional adulto estándar",
+        "75 EUR",
+        "Excluye reconocimiento, seguro y manutención; excepciones"
+      ],
+      [
+        "Países Bajos: solicitud cualificada",
+        "423 EUR",
+        "Tasa IND estándar; familia y excepciones aparte"
+      ],
+      [
+        "EE. UU.: solicitud consular categoría H",
+        "205 USD",
+        "No es coste total de petición; otros cargos aparte"
+      ]
+    ],
+    "directoryEntries": [
+      {
+        "country": "Canadá",
+        "links": [
+          {
+            "label": "Job Bank: candidatos internacionales",
+            "url": "https://www.jobbank.gc.ca/findajob/foreign-candidates",
+            "kind": "Buscar empleo"
+          },
+          {
+            "label": "IRCC: crear un perfil Express Entry",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/create-profile.html",
+            "kind": "Información"
+          },
+          {
+            "label": "IRCC: cuenta segura de solicitud",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+            "kind": "Portal de solicitud"
+          }
+        ]
+      },
+      {
+        "country": "Europa",
+        "links": [
+          {
+            "label": "EURES: búsqueda oficial de empleo europeo",
+            "url": "https://eures.europa.eu/index_en",
+            "kind": "Buscar empleo"
+          },
+          {
+            "label": "Comisión Europea: Tarjeta Azul de la UE",
+            "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en",
+            "kind": "Información"
+          }
+        ]
+      },
+      {
+        "country": "Alemania",
+        "links": [
+          {
+            "label": "Alemania: vacantes oficiales para trabajadores cualificados",
+            "url": "https://www.make-it-in-germany.com/en/working-in-germany/job-listings",
+            "kind": "Buscar empleo"
+          },
+          {
+            "label": "Alemania: portal de servicios consulares",
+            "url": "https://digital.diplo.de/visa-ewt",
+            "kind": "Portal de solicitud"
+          }
+        ]
+      },
+      {
+        "country": "Francia",
+        "links": [
+          {
+            "label": "France Travail: buscar ofertas de empleo",
+            "url": "https://candidat.francetravail.fr/rechercheoffre/emploi",
+            "kind": "Buscar empleo"
+          },
+          {
+            "label": "France-Visas: comprobar requisitos de visado",
+            "url": "https://www.france-visas.gouv.fr/assistant-visa",
+            "kind": "Información"
+          },
+          {
+            "label": "France-Visas: iniciar una solicitud oficial",
+            "url": "https://www.france-visas.gouv.fr/demande-de-visa",
+            "kind": "Portal de solicitud"
+          }
+        ]
+      },
+      {
+        "country": "España",
+        "links": [
+          {
+            "label": "SEPE: acceso a portales oficiales de empleo",
+            "url": "https://sepe.es/HomeSepe/encontrar-trabajo/ofertas-empleo.html",
+            "kind": "Buscar empleo"
+          },
+          {
+            "label": "España: autorización inicial de trabajo por cuenta ajena",
+            "url": "https://www.inclusion.gob.es/es/web/migraciones/w/autorizacion-inicial-de-residencia-temporal-y-trabajo-por-cuenta-ajena-hi-16-",
+            "kind": "Trámite empresarial"
+          }
+        ]
+      },
+      {
+        "country": "Países Bajos",
+        "links": [
+          {
+            "label": "IND: registro de empresas reconocidas",
+            "url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-work",
+            "kind": "Registro de empresas"
+          },
+          {
+            "label": "IND: portal de solicitudes empresariales",
+            "url": "https://ind.nl/en/business-portal",
+            "kind": "Trámite empresarial"
+          }
+        ]
+      },
+      {
+        "country": "Irlanda",
+        "links": [
+          {
+            "label": "Irlanda: permiso laboral y requisitos de entrada",
+            "url": "https://www.irishimmigration.ie/coming-to-work-in-ireland/",
+            "kind": "Información"
+          }
+        ]
+      },
+      {
+        "country": "Estados Unidos",
+        "links": [
+          {
+            "label": "Departamento de Trabajo: ofertas estacionales",
+            "url": "https://seasonaljobs.dol.gov/",
+            "kind": "Buscar empleo"
+          },
+          {
+            "label": "Departamento de Estado: DS-160 tras aprobación de la petición",
+            "url": "https://ceac.state.gov/genniv/",
+            "kind": "Portal de solicitud"
+          },
+          {
+            "label": "USCIS: fechas y tasas de inscripción FY 2027",
+            "url": "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/406da02",
+            "kind": "Inscripción cerrada"
+          },
+          {
+            "label": "Departamento de Estado: orientación DV del 31 de agosto",
+            "url": "https://travel.state.gov/content/travel/en/News/visas-news/diversity-visa-issuance-updated-guidance.html",
+            "kind": "Expedición pausada"
+          }
+        ]
+      }
+    ],
+    "routeTitle": "COMPARE VÍAS, NO PROBABILIDADES DE APROBACIÓN"
+  }
+}
