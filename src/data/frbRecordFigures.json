@@ -1,0 +1,42 @@
+{
+  "en": {
+    "titles": ["A flash from cosmic noon", "From radio pulse to measured host", "The signal’s journey through matter", "A redshift record, not twice the travel time"],
+    "notes": ["Rounded cosmic ages. Event order is chronological; spacing is illustrative, not a distance scale.", "Detection, localization and galaxy spectroscopy are separate measurements.", "Conceptual path, not a spatial map. The contributions of host gas, foreground structures and diffuse gas must be separated.", "Bars compare dimensionless host redshift from zero. Light-travel times below are rounded and are not represented by bar length."],
+    "timeline": ["Big Bang: start of the cosmic timeline", "Burst emitted: Universe about 3 billion years old", "March 4, 2024: arrival detected by MeerKAT", "October 8, 2026: Science publication announced"],
+    "process": ["MeerTRAP detects a brief pulse in MeerKAT data", "Recorded radio data narrow its sky position", "Webb NIRCam identifies the faint host galaxy", "Webb NIRSpec measures its redshift: 2.148"],
+    "journey": ["Host galaxy and source environment", "Intergalactic ionized gas and intervening galaxies", "Foreground structure near redshift 0.3", "Nearby Virgo Cluster", "Milky Way and telescope at Earth"],
+    "times": ["About 8 billion years of light travel", "More than 10 billion years of light travel"],
+    "uncertainty": "Reported redshift uncertainties: ±0.002 (older), ±0.001 (new). These do not express uncertainty in a rounded travel time.",
+    "sources": "Sources", "record": "Measured host redshift, z", "today": "Universe today: about 13.8 billion years old"
+  },
+  "fr": {
+    "titles": ["Une impulsion au midi cosmique", "De l’impulsion radio à la galaxie mesurée", "Le trajet du signal à travers la matière", "Un record de redshift, pas un trajet doublé"],
+    "notes": ["Âges cosmiques arrondis. Ordre chronologique ; espacement illustratif, sans échelle de distance.", "Détection, localisation et spectroscopie de la galaxie sont des mesures distinctes.", "Trajet conceptuel, pas une carte spatiale. Gaz de l’hôte, structures intermédiaires et gaz diffus doivent être distingués.", "Les barres comparent le redshift sans unité depuis zéro. Leur longueur ne représente pas les temps de trajet arrondis."],
+    "timeline": ["Big Bang : début de la chronologie cosmique", "Émission : Univers âgé d’environ 3 milliards d’années", "4 mars 2024 : arrivée détectée par MeerKAT", "8 octobre 2026 : publication dans Science annoncée"],
+    "process": ["MeerTRAP détecte une impulsion dans les données de MeerKAT", "Les données radio précisent la position dans le ciel", "NIRCam de Webb identifie la faible galaxie hôte", "NIRSpec de Webb mesure son redshift : 2,148"],
+    "journey": ["Galaxie hôte et environnement de la source", "Gaz intergalactique ionisé et galaxies intermédiaires", "Structure intermédiaire à redshift proche de 0,3", "Amas voisin de la Vierge", "Voie lactée et télescope terrestre"],
+    "times": ["Environ 8 milliards d’années de trajet lumineux", "Plus de 10 milliards d’années de trajet lumineux"],
+    "uncertainty": "Incertitudes du redshift : ±0,002 pour l’ancien, ±0,001 pour le nouveau. Elles ne décrivent pas l’incertitude du temps de trajet arrondi.",
+    "sources": "Sources", "record": "Redshift mesuré de l’hôte, z", "today": "Univers actuel : environ 13,8 milliards d’années"
+  },
+  "es": {
+    "titles": ["Un destello del mediodía cósmico", "Del pulso de radio a la galaxia medida", "El viaje de la señal a través de la materia", "Un récord de redshift, no el doble de viaje"],
+    "notes": ["Edades cósmicas redondeadas. Orden cronológico con espaciado ilustrativo, no una escala de distancia.", "Detección, localización y espectroscopia son mediciones distintas.", "Trayectoria conceptual, no un mapa espacial. Deben separarse el gas local, las estructuras interpuestas y el gas difuso.", "Las barras comparan el redshift sin unidades desde cero. Su longitud no representa los tiempos de viaje redondeados."],
+    "timeline": ["Big Bang: comienzo de la cronología cósmica", "Emisión: universo de unos 3.000 millones de años", "4 de marzo de 2024: MeerKAT detecta la llegada", "8 de octubre de 2026: anuncio de publicación en Science"],
+    "process": ["MeerTRAP detecta el pulso en los datos de MeerKAT", "Los registros de radio precisan la posición celeste", "NIRCam de Webb identifica la tenue galaxia", "NIRSpec de Webb mide su redshift: 2,148"],
+    "journey": ["Galaxia anfitriona y entorno de la fuente", "Gas ionizado intergaláctico y galaxias interpuestas", "Estructura interpuesta cerca de redshift 0,3", "Cercano cúmulo de Virgo", "Vía Láctea y telescopio terrestre"],
+    "times": ["Unos 8.000 millones de años de viaje de la luz", "Más de 10.000 millones de años de viaje de la luz"],
+    "uncertainty": "Incertidumbres del redshift: ±0,002 en el anterior y ±0,001 en el nuevo. No son incertidumbres del tiempo de viaje redondeado.",
+    "sources": "Fuentes", "record": "Redshift medido de la galaxia, z", "today": "Universo actual: unos 13.800 millones de años"
+  },
+  "ar": {
+    "titles": ["ومضة من الظهيرة الكونية", "من النبضة الراديوية إلى قياس المجرة", "رحلة الإشارة عبر المادة", "رقم قياسي للانزياح الأحمر، لا ضعف زمن السفر"],
+    "notes": ["أعمار كونية تقريبية. الترتيب زمني والمسافات بين العناصر توضيحية، وليست مقياسا للمسافة.", "الرصد وتحديد الموقع والتحليل الطيفي للمجرة قياسات منفصلة.", "مسار تصوري وليس خريطة مكانية. يجب فصل مساهمات الغاز المحلي والبنى في المقدمة والغاز المنتشر.", "تقارن الأعمدة الانزياح الأحمر بلا وحدة بدءا من الصفر. ولا تمثل أطوالها أزمنة سفر الضوء التقريبية."],
+    "timeline": ["الانفجار العظيم: بداية الخط الزمني الكوني", "انطلاق الإشارة: عمر الكون نحو 3 مليارات سنة", "4 مارس 2024: ميركات يرصد وصول الإشارة", "8 أكتوبر 2026: إعلان النشر في Science"],
+    "process": ["MeerTRAP يرصد نبضة قصيرة في بيانات ميركات", "البيانات الراديوية المسجلة تحدد الموقع في السماء", "NIRCam على ويب تحدد المجرة الخافتة", "NIRSpec على ويب تقيس الانزياح الأحمر: 2.148"],
+    "journey": ["المجرة المضيفة والبيئة المحيطة بالمصدر", "الغاز المتأين بين المجرات والمجرات الواقعة في المسار", "بنية في المقدمة عند انزياح أحمر يقارب 0.3", "عنقود العذراء القريب", "درب التبانة والتلسكوب على الأرض"],
+    "times": ["نحو 8 مليارات سنة من سفر الضوء", "أكثر من 10 مليارات سنة من سفر الضوء"],
+    "uncertainty": "عدم اليقين في الانزياح الأحمر: ±0.002 للسابق و±0.001 للجديد. لا تمثل هذه القيم عدم اليقين في زمن السفر التقريبي.",
+    "sources": "المصادر", "record": "الانزياح الأحمر المقاس للمجرة، z", "today": "عمر الكون اليوم: نحو 13.8 مليار سنة"
+  }
+}

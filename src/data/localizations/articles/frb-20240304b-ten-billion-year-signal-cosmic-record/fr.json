@@ -1,0 +1,241 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/frb-20240304b-ten-billion-year-signal-cosmic-record/",
+  "path": "/fr/articles/frb-20240304b-ten-billion-year-signal-cosmic-record/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr editorial and source-parity review",
+    "reviewedAt": "2026-10-09",
+    "terminologyChecked": true
+  },
+  "title": "UN SIGNAL VENU D’IL Y A 10 MILLIARDS D’ANNÉES : UN RECORD COSMIQUE",
+  "seoTitle": "FRB 20240304B : un signal de plus de 10 milliards d’années",
+  "description": "MeerKAT a détecté le sursaut, Webb a retrouvé sa galaxie. Un décalage spectral record éclaire l’histoire cosmique, mais l’origine du flash reste incertaine.",
+  "excerpt": "MeerKAT a détecté le sursaut, Webb a retrouvé sa galaxie. Un décalage spectral record éclaire l’histoire cosmique, mais l’origine du flash reste incertaine.",
+  "headlineHighlights": {
+    "red": "10 MILLIARDS D’ANNÉES",
+    "gold": "UN RECORD COSMIQUE"
+  },
+  "keywords": [
+    "FRB 20240304B",
+    "MeerKAT",
+    "Webb",
+    "FRB 20240304B : un signal de plus de 10 milliards d’années"
+  ],
+  "searchIntent": "MeerKAT a détecté le sursaut, Webb a retrouvé sa galaxie. Un décalage spectral record éclaire l’histoire cosmique, mais l’origine du flash reste incertaine.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-09",
+  "updatedAt": "2026-10-09",
+  "image": {
+    "src": "/articles/frb-distant-universe-radio-observatory.png",
+    "alt": "Illustration conceptuelle générée par IA d’un observatoire radio sous les étoiles, avec un scientifique à droite et un trajet de signal imaginaire, pas une photographie de la découverte"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un éclair radio de quelques millisecondes nous est parvenu depuis l’Univers lointain. Selon l’équipe de découverte, FRB 20240304B a voyagé pendant plus de 10 milliards d’années. Le décalage vers le rouge de sa galaxie hôte atteint 2,148 : l’événement remonte à une époque où l’Univers n’avait qu’environ trois milliards d’années. [Université de Sydney : annonce du 8 octobre](https://www.eurekalert.org/news-releases/1146455)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’intérêt du record tient à la localisation du sursaut et à la mesure du décalage spectral de son hôte. Sa distance ne repose donc pas seulement sur les délais d’arrivée des différentes fréquences radio. Le signal renseigne à la fois sur son lieu de naissance et sur la matière rencontrée jusqu’à nous. [Caleb et al. : prépublication des auteurs, août 2025](https://arxiv.org/html/2508.01648v1)"
+    },
+    {
+      "type": "heading",
+      "text": "LA DÉCOUVERTE : TROIS DATES À DISTINGUER"
+    },
+    {
+      "type": "paragraph",
+      "text": "La collaboration MeerTRAP a détecté FRB 20240304B le 4 mars 2024 avec le radiotélescope sud-africain MeerKAT. Manisha Caleb a dirigé l’étude internationale, avec Themiya Nanayakkara et ses collègues pour l’analyse de la galaxie hôte. L’Université de Sydney a annoncé le 8 octobre 2026 sa publication dans Science, consacrée à un sursaut à redshift 2, trois milliards d’années après le Big Bang. [Caleb et al. : Science, 2026](https://doi.org/10.1126/science.adz2675) [Université de Sydney : annonce du 8 octobre](https://www.eurekalert.org/news-releases/1146455)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La détection et la publication sont deux événements différents. Une prépublication des auteurs était disponible dès le 3 août 2025. L’étude publiée cette semaine développe donc une découverte déjà signalée, plutôt qu’un flash arrivé ces derniers jours. La désignation reprend la date de détection de 2024. [Caleb et al. : prépublication des auteurs, août 2025](https://arxiv.org/html/2508.01648v1)"
+    },
+    {
+      "type": "heading",
+      "text": "COMMENT MEERKAT ET WEBB ONT RETROUVÉ LA SOURCE"
+    },
+    {
+      "type": "paragraph",
+      "text": "MeerTRAP recherche des phénomènes radio très brefs dans les données de MeerKAT. L’équipe a exploité les enregistrements pour localiser précisément le sursaut et chercher sa galaxie. Les premières observations au sol, notamment avec Keck et MMT, n’ont pas révélé cet hôte très faible. Cela justifiait une exploration infrarouge plus profonde, pas l’affirmation qu’aucune galaxie n’existait. [NASA : identification de l’hôte par Webb](https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/) [Caleb et al. : prépublication des auteurs, août 2025](https://arxiv.org/html/2508.01648v1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "NIRCam, à bord de Webb, a révélé une galaxie au bon endroit. NIRSpec a mesuré son spectre et son décalage cosmologique vers le rouge. L’imagerie identifie un hôte candidat ; la spectroscopie mesure le déplacement de ses signatures spectrales. Webb a caractérisé la galaxie, sans détecter lui-même l’impulsion radio initiale. [ESA/Webb : distance, galaxie et interprétation](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "heading",
+      "text": "QUE SIGNIFIENT CES « 10 MILLIARDS D’ANNÉES » ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le manuscrit des auteurs donne z = 2,148 ± 0,001, cohérent avec la valeur 2,148 des annonces actuelles. Le redshift est sans unité. Il mesure l’étirement des longueurs d’onde provoqué par l’expansion cosmique, et non une distance en années-lumière. [Caleb et al. : prépublication des auteurs, août 2025](https://arxiv.org/html/2508.01648v1) [ESA/Webb : distance, galaxie et interprétation](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le titre évoque le temps de parcours de la lumière, ou temps de regard en arrière. Émis environ trois milliards d’années après le Big Bang, le sursaut est arrivé plus de dix milliards d’années plus tard. L’Univers a aujourd’hui environ 13,8 milliards d’années. Ces âges sont arrondis, pas chronométrés exactement. [NASA : redshift et âge du cosmos](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La séparation actuelle est une autre grandeur. L’espace s’est dilaté pendant le trajet : multiplier sa durée par la vitesse de la lumière ne donne pas la distance actuelle de la galaxie. La distance de luminosité relie, quant à elle, la brillance reçue à la puissance émise. Ces distances dépendent du modèle cosmologique et ne remplacent pas le temps de parcours. [NASA : redshift et âge du cosmos](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/)"
+    },
+    {
+      "type": "heading",
+      "text": "QU’EST-CE QU’UN SURSAUT RADIO RAPIDE ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un FRB est une impulsion radio brève et intense. Les premiers exemples reconnus ont lancé ce domaine en 2007. Certaines sources se répètent, d’autres n’ont été observées qu’une fois. L’absence de répétition détectée ne prouve pas qu’une source ne pourra jamais produire un autre sursaut. Les instruments mesurent fréquences, temps d’arrivée et polarisation. [Petroff et al. : synthèse scientifique sur les FRB](https://link.springer.com/article/10.1007/s00159-022-00139-w)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La puissance impressionne, mais les comparaisons exigent de la précision. Pour l’ancien record FRB 20220610A, l’ESO estimait une énergie radio équivalente à plusieurs décennies d’émission totale du Soleil, libérée en une fraction de seconde. Cette estimation concerne ce sursaut, pas le bilan énergétique mesuré de FRB 20240304B ni tous les FRB. [ESO : ancien record FRB 20220610A](https://www.eso.org/public/news/eso2317/)"
+    },
+    {
+      "type": "heading",
+      "text": "UNE PETITE GALAXIE, UN INDICE SUR LE MOTEUR"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’hôte est une galaxie naine formant activement des étoiles. Selon ESA/Webb, son rythme de formation stellaire suggère une population qui aurait pu se constituer en environ 30 millions d’années. C’est une estimation fondée sur un modèle, pas l’âge directement mesuré de chaque étoile. Cet environnement jeune rend plausible une source formée rapidement. [ESA/Webb : distance, galaxie et interprétation](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un magnétar est une étoile à neutrons possédant un champ magnétique exceptionnellement intense, susceptible de subsister après la mort d’une étoile massive. En 2020, la collaboration CHIME/FRB a rapporté un sursaut radio du magnétar galactique SGR 1935+2154, établissant un lien observationnel important avec des émissions de type FRB. [CHIME/FRB : sursaut d’un magnétar galactique](https://www.nature.com/articles/s41586-020-2863-y)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour ce sursaut lointain, un jeune magnétar reste une interprétation privilégiée, pas un objet identifié. Les propriétés de l’hôte rendent moins convaincante une fusion après un long délai. Elles n’écartent pas toutes les alternatives et ne prouvent pas une origine unique de tous les FRB. La conversion de l’énergie en impulsion radio reste débattue. [ESA/Webb : distance, galaxie et interprétation](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "heading",
+      "text": "SONDER LA MATIÈRE ENTRE LES GALAXIES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le gaz ionisé retarde davantage les basses fréquences radio que les hautes. La mesure de dispersion renseigne sur les électrons intégrés le long du trajet. Avec un redshift mesuré indépendamment, les astronomes comparent la matière rencontrée et la profondeur cosmique explorée. [Macquart et al. : recensement des baryons](https://pubmed.ncbi.nlm.nih.gov/32461651/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Macquart et ses collègues ont démontré cette méthode avec des FRB localisés dans Nature en 2020. Elle étudie la matière ordinaire diffuse de la toile cosmique, difficile à observer directement. Les « baryons manquants » sont de la matière ordinaire échappant à un recensement complet, pas de la matière noire. [Macquart et al. : recensement des baryons](https://pubmed.ncbi.nlm.nih.gov/32461651/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon l’observatoire, ce trajet porte l’empreinte de l’amas voisin de la Vierge et d’une autre structure à redshift proche de 0,3. Ces contributions intermédiaires comptent : une forte dispersion ne peut être attribuée automatiquement au seul gaz intergalactique diffus ou à une distance extrême. [Observatoire Keck : hôte et structures intermédiaires](https://keckobservatory.org/frb20240304b/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’analyse des auteurs examine aussi la polarisation et les champs magnétiques. Des champs de sens opposés peuvent compenser partiellement leurs effets. Transformer une seule impulsion en carte tridimensionnelle unique exige des hypothèses et des données supplémentaires. Ce sursaut est une nouvelle sonde, pas une reconstruction complète de la toile cosmique. [Caleb et al. : prépublication des auteurs, août 2025](https://arxiv.org/html/2508.01648v1)"
+    },
+    {
+      "type": "heading",
+      "text": "COMMENT CE RECORD SE COMPARE AUX PRÉCÉDENTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "FRB 20220610A, détecté par ASKAP en juin 2022 et présenté en 2023, avait un redshift d’environ 1,016 et un temps de parcours de huit milliards d’années. FRB 20240304B atteint 2,148 et plus de dix milliards d’années. Le nouveau redshift dépasse le double du précédent ; le temps de voyage n’a pas doublé. [ESO : ancien record FRB 20220610A](https://www.eso.org/public/news/eso2317/) [Ryder et al. : manuscrit du FRB à redshift 1](https://arxiv.org/abs/2210.04680)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il s’agit précisément d’un record pour un FRB localisé dont le redshift de l’hôte est mesuré, selon l’étude et les annonces du 8 octobre. Sans hôte solidement identifié, une forte dispersion ne suffit pas à établir un record de distance. Ce n’est pas non plus la lumière la plus ancienne ou l’objet astronomique le plus lointain jamais observé. [Caleb et al. : prépublication des auteurs, août 2025](https://arxiv.org/html/2508.01648v1) [Ryder et al. : manuscrit du FRB à redshift 1](https://arxiv.org/abs/2210.04680)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE RÉVÈLE CET UNIVERS PLUS JEUNE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le sursaut démontre une activité FRB pendant le « midi cosmique », période de forte formation d’étoiles. Il étend nettement la portée des observations associant sursauts et hôtes. Il relie les résidus stellaires compacts à l’évolution galactique, sans provenir du Big Bang lui-même ni des toutes premières étoiles. [ESA/Webb : distance, galaxie et interprétation](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un hôte inhabituel ne décrit pas toute la population lointaine. Les sursauts lumineux et les galaxies caractérisables sont plus faciles à intégrer aux échantillons. Il faut tenir compte de cette sélection, du gaz des hôtes et des modèles incertains avant de déduire l’évolution globale des FRB. [Petroff et al. : synthèse scientifique sur les FRB](https://link.springer.com/article/10.1007/s00159-022-00139-w)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La suite exige davantage de sources lointaines, des relevés radio sensibles, une localisation précise et une imagerie ou une spectroscopie profonde. L’équipe évoque MeerKAT et les futures capacités du SKA. Un suivi peut contraindre cette source, sans garantir une répétition ou l’identification définitive d’un magnétar. [Université de Sydney : annonce du 8 octobre](https://www.eurekalert.org/news-releases/1146455)"
+    },
+    {
+      "type": "heading",
+      "text": "CE QUE LA DÉCOUVERTE PROUVE, ET NE PROUVE PAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le résultat solide est un sursaut lointain associé à un hôte dont le redshift ouvre un nouveau domaine d’observation. Son mécanisme reste inconnu. Le reportage indépendant de Sky & Telescope le replace dans cette recherche plus large. Rien ne justifie d’y voir un message d’une civilisation. [Sky & Telescope : reportage du 8 octobre](https://skyandtelescope.org/astronomy-news/fast-radio-burst-shatters-distance-record/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le visuel principal est une illustration conceptuelle générée par IA, pas une photographie de la découverte, une configuration réelle de télescopes ou un signal visible dans le ciel. Retrouvez notre [portrait de Carl Sagan](/articles/carl-sagan-journey-through-our-universe/) et notre enquête sur [les communications lunaires de la NASA](/articles/nasa-moon-5g-wifi6-lunar-communications/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Caleb et al. : Science, 2026",
+      "url": "https://doi.org/10.1126/science.adz2675"
+    },
+    {
+      "label": "Caleb et al. : prépublication des auteurs, août 2025",
+      "url": "https://arxiv.org/html/2508.01648v1"
+    },
+    {
+      "label": "NASA : identification de l’hôte par Webb",
+      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/"
+    },
+    {
+      "label": "ESA/Webb : distance, galaxie et interprétation",
+      "url": "https://esawebb.org/news/weic2621/"
+    },
+    {
+      "label": "Université de Sydney : annonce du 8 octobre",
+      "url": "https://www.eurekalert.org/news-releases/1146455"
+    },
+    {
+      "label": "Observatoire Keck : hôte et structures intermédiaires",
+      "url": "https://keckobservatory.org/frb20240304b/"
+    },
+    {
+      "label": "ESO : ancien record FRB 20220610A",
+      "url": "https://www.eso.org/public/news/eso2317/"
+    },
+    {
+      "label": "Ryder et al. : manuscrit du FRB à redshift 1",
+      "url": "https://arxiv.org/abs/2210.04680"
+    },
+    {
+      "label": "Petroff et al. : synthèse scientifique sur les FRB",
+      "url": "https://link.springer.com/article/10.1007/s00159-022-00139-w"
+    },
+    {
+      "label": "CHIME/FRB : sursaut d’un magnétar galactique",
+      "url": "https://www.nature.com/articles/s41586-020-2863-y"
+    },
+    {
+      "label": "Macquart et al. : recensement des baryons",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32461651/"
+    },
+    {
+      "label": "NASA : redshift et âge du cosmos",
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/"
+    },
+    {
+      "label": "Sky & Telescope : reportage du 8 octobre",
+      "url": "https://skyandtelescope.org/astronomy-news/fast-radio-burst-shatters-distance-record/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le FRB est-il exactement à 10 milliards d’années-lumière ?",
+      "answer": "Le titre décrit plus de 10 milliards d’années de trajet lumineux. Le redshift mesuré de l’hôte est 2,148. La séparation actuelle et la distance de luminosité sont des grandeurs différentes dépendant du modèle."
+    },
+    {
+      "question": "Webb a-t-il détecté le sursaut radio ?",
+      "answer": "MeerKAT a détecté l’impulsion le 4 mars 2024. Webb a ensuite photographié et mesuré le spectre de sa galaxie hôte."
+    },
+    {
+      "question": "Un magnétar est-il confirmé ?",
+      "answer": "Non. Les propriétés de l’hôte favorisent un jeune magnétar, mais l’objet émetteur et le mécanisme radio ne sont pas confirmés."
+    }
+  ]
+}

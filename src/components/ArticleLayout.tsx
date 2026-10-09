@@ -1,3 +1,4 @@
+import { FrbRecordGraphics } from "@/components/FrbRecordGraphics";
 import { RobotRaceGraphics } from "@/components/RobotRaceGraphics";
 import { MinoansGraphics } from "@/components/MinoansGraphics";
 import { WorldCup2030Graphics } from "@/components/WorldCup2030Graphics";
@@ -314,6 +315,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "frb-20240304b-ten-billion-year-signal-cosmic-record" && [7, 11, 23, 26].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FrbRecordGraphics locale={locale} kind={originalIndex === 7 ? "process" : originalIndex === 11 ? "timeline" : originalIndex === 23 ? "journey" : "record"} /></div>;
+              }
               if (article.slug === "tesla-optimus-vs-unitree-humanoid-robots-2026" && [8, 13, 14, 29].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><RobotRaceGraphics locale={locale} kind={originalIndex === 8 ? "prices" : originalIndex === 13 ? "production" : originalIndex === 14 ? "shipments" : "forecast"} /></div>;
               }

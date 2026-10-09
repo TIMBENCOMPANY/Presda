@@ -1,0 +1,241 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/frb-20240304b-ten-billion-year-signal-cosmic-record/",
+  "path": "/es/articles/frb-20240304b-ten-billion-year-signal-cosmic-record/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es editorial and source-parity review",
+    "reviewedAt": "2026-10-09",
+    "terminologyChecked": true
+  },
+  "title": "UNA SEÑAL DE HACE 10.000 MILLONES DE AÑOS: UN RÉCORD CÓSMICO",
+  "seoTitle": "FRB 20240304B: una señal de más de 10.000 millones de años",
+  "description": "MeerKAT detectó el destello y Webb encontró su galaxia. Un corrimiento al rojo récord permite explorar el pasado cósmico, pero su origen sigue sin confirmarse.",
+  "excerpt": "MeerKAT detectó el destello y Webb encontró su galaxia. Un corrimiento al rojo récord permite explorar el pasado cósmico, pero su origen sigue sin confirmarse.",
+  "headlineHighlights": {
+    "red": "10.000 MILLONES DE AÑOS",
+    "gold": "UN RÉCORD CÓSMICO"
+  },
+  "keywords": [
+    "FRB 20240304B",
+    "MeerKAT",
+    "Webb",
+    "FRB 20240304B: una señal de más de 10.000 millones de años"
+  ],
+  "searchIntent": "MeerKAT detectó el destello y Webb encontró su galaxia. Un corrimiento al rojo récord permite explorar el pasado cósmico, pero su origen sigue sin confirmarse.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-09",
+  "updatedAt": "2026-10-09",
+  "image": {
+    "src": "/articles/frb-distant-universe-radio-observatory.png",
+    "alt": "Ilustración conceptual generada con IA de un observatorio de radio bajo las estrellas, con un científico a la derecha y una trayectoria imaginaria, no una fotografía del descubrimiento"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un destello de radio de milisegundos ha llegado desde el universo lejano. Según el equipo, FRB 20240304B viajó durante más de 10.000 millones de años. Su galaxia anfitriona tiene un corrimiento al rojo medido de 2,148, situando el episodio cuando el universo solo tenía unos 3.000 millones de años. [Universidad de Sídney: anuncio del 8 de octubre](https://www.eurekalert.org/news-releases/1146455)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El récord importa porque se localizó el estallido y se midió el corrimiento al rojo de su galaxia. La distancia no se dedujo únicamente de los retrasos entre frecuencias de radio. La señal aporta información sobre su lugar de origen y sobre la materia que encontró hasta llegar a nosotros. [Caleb y colaboradores: prepublicación de agosto de 2025](https://arxiv.org/html/2508.01648v1)"
+    },
+    {
+      "type": "heading",
+      "text": "EL DESCUBRIMIENTO: TRES FECHAS DIFERENTES"
+    },
+    {
+      "type": "paragraph",
+      "text": "La colaboración MeerTRAP detectó FRB 20240304B el 4 de marzo de 2024 con el radiotelescopio sudafricano MeerKAT. Manisha Caleb dirigió el estudio internacional, con Themiya Nanayakkara y otros investigadores en el análisis de la galaxia. La Universidad de Sídney anunció el 8 de octubre de 2026 la publicación en Science sobre un FRB a redshift 2, tres mil millones de años después del Big Bang. [Caleb y colaboradores: Science, 2026](https://doi.org/10.1126/science.adz2675) [Universidad de Sídney: anuncio del 8 de octubre](https://www.eurekalert.org/news-releases/1146455)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La detección y la publicación son acontecimientos distintos. Los autores difundieron una prepublicación el 3 de agosto de 2025. El estudio publicado ahora desarrolla un hallazgo ya presentado, no un destello recibido esta semana. La denominación refleja la fecha de detección de 2024. [Caleb y colaboradores: prepublicación de agosto de 2025](https://arxiv.org/html/2508.01648v1)"
+    },
+    {
+      "type": "heading",
+      "text": "CÓMO MEERKAT Y WEBB ENCONTRARON LA FUENTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "MeerTRAP busca fenómenos de radio fugaces en los datos de MeerKAT. El equipo analizó registros para localizar el estallido con precisión y buscar su galaxia. Las primeras observaciones terrestres, incluidas las de Keck y MMT, no revelaron el tenue objeto. Eso justificó observaciones infrarrojas más profundas, no concluir que no existía una galaxia. [NASA: Webb identifica la galaxia](https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/) [Caleb y colaboradores: prepublicación de agosto de 2025](https://arxiv.org/html/2508.01648v1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "NIRCam, en Webb, reveló una galaxia en la posición adecuada. NIRSpec midió su espectro y corrimiento cosmológico al rojo. Son pasos diferentes: las imágenes identifican un candidato y la espectroscopia mide el desplazamiento de sus rasgos espectrales. Webb caracterizó la galaxia, no el pulso de radio original. [ESA/Webb: distancia e interpretación](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ SIGNIFICAN LOS «10.000 MILLONES DE AÑOS»"
+    },
+    {
+      "type": "paragraph",
+      "text": "El manuscrito da un corrimiento espectroscópico z = 2,148 ± 0,001, coherente con el valor 2,148 de los anuncios actuales. El redshift no tiene unidades: mide cuánto se estiran las longitudes de onda con la expansión del universo. No es una distancia expresada en años luz. [Caleb y colaboradores: prepublicación de agosto de 2025](https://arxiv.org/html/2508.01648v1) [ESA/Webb: distancia e interpretación](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El titular describe el tiempo de viaje de la luz, o tiempo de mirada retrospectiva. La emisión ocurrió unos 3.000 millones de años después del Big Bang y llegó más de 10.000 millones de años después. Hoy el universo tiene aproximadamente 13.800 millones de años. Son edades redondeadas, no mediciones exactas de un cronómetro. [NASA: corrimiento al rojo y edad cósmica](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La separación actual es otra magnitud. El espacio se expandió durante el viaje, por lo que multiplicar su duración por la velocidad de la luz no proporciona la distancia actual a la galaxia. La distancia de luminosidad relaciona el brillo recibido con la potencia emitida. Estas medidas dependen del modelo cosmológico y no sustituyen el tiempo de viaje. [NASA: corrimiento al rojo y edad cósmica](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ ES UN ESTALLIDO RÁPIDO DE RADIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un FRB es un pulso breve e intenso de emisión de radio. Los primeros ejemplos reconocidos impulsaron este campo en 2007. Algunas fuentes se repiten y otras solo se han observado una vez. No detectar repeticiones no demuestra que una fuente nunca pueda emitir de nuevo. Se estudian las frecuencias, los tiempos de llegada y la polarización. [Petroff y colaboradores: revisión científica](https://link.springer.com/article/10.1007/s00159-022-00139-w)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su potencia impresiona, pero exige comparaciones cuidadosas. Para el anterior récord FRB 20220610A, ESO estimó una energía de radio equivalente a décadas de emisión total del Sol, liberada en una fracción de segundo. Esa estimación corresponde a aquel estallido, no al balance medido de FRB 20240304B ni a todos los FRB. [ESO: anterior récord FRB 20220610A](https://www.eso.org/public/news/eso2317/)"
+    },
+    {
+      "type": "heading",
+      "text": "UNA GALAXIA PEQUEÑA Y UNA PISTA SOBRE EL MOTOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "La anfitriona es una galaxia enana que forma estrellas activamente. ESA/Webb informa de una población que podría haberse formado en unos 30 millones de años, según su ritmo de formación estelar. Es una escala inferida con un modelo, no la edad medida de cada estrella. El entorno joven favorece una fuente formada rápidamente. [ESA/Webb: distancia e interpretación](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un magnetar es una estrella de neutrones con un campo magnético extraordinariamente intenso, que puede quedar tras la muerte de una estrella masiva. La colaboración CHIME/FRB informó en 2020 de un pulso del magnetar galáctico SGR 1935+2154, estableciendo una importante conexión observacional con emisiones similares a los FRB. [CHIME/FRB: pulso de un magnetar galáctico](https://www.nature.com/articles/s41586-020-2863-y)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En este caso lejano, un magnetar joven es una interpretación favorecida, no un objeto identificado. Las propiedades de la galaxia hacen menos atractiva una fusión tras un largo retraso. No descartan todas las alternativas ni prueban un único origen para todos los FRB. El mecanismo que convierte energía en el pulso de radio sigue debatido. [ESA/Webb: distancia e interpretación](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "heading",
+      "text": "UNA SONDA DE LA MATERIA ENTRE GALAXIAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "El gas ionizado retrasa más las frecuencias bajas que las altas. La medida de dispersión refleja los electrones acumulados a lo largo de la trayectoria. Con un redshift independiente, los astrónomos comparan la materia encontrada y el alcance del viaje por la historia cósmica. [Macquart y colaboradores: censo de bariones](https://pubmed.ncbi.nlm.nih.gov/32461651/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Macquart y sus colegas demostraron este método con FRB localizados en Nature en 2020. Permite investigar materia ordinaria dispersa en la red cósmica, difícil de observar directamente. Los «bariones desaparecidos» son materia ordinaria que faltaba en un censo observacional completo, no materia oscura. [Macquart y colaboradores: censo de bariones](https://pubmed.ncbi.nlm.nih.gov/32461651/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el observatorio, la trayectoria lleva la huella del cercano cúmulo de Virgo y de otra estructura interpuesta con redshift próximo a 0,3. Esas contribuciones importan: una dispersión elevada no puede atribuirse automáticamente al gas intergaláctico difuso o a una distancia extrema. [Observatorio Keck: estructuras interpuestas](https://keckobservatory.org/frb20240304b/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El análisis de los autores también considera la polarización y los campos magnéticos. Campos de dirección opuesta pueden compensar parcialmente sus efectos. Convertir un pulso en un mapa tridimensional único requiere supuestos y más pruebas. El hallazgo ofrece una nueva sonda, no una reconstrucción completa de la red cósmica. [Caleb y colaboradores: prepublicación de agosto de 2025](https://arxiv.org/html/2508.01648v1)"
+    },
+    {
+      "type": "heading",
+      "text": "CÓMO SE COMPARA CON LOS RÉCORDS ANTERIORES"
+    },
+    {
+      "type": "paragraph",
+      "text": "FRB 20220610A, detectado por ASKAP en junio de 2022 y presentado en 2023, tenía un redshift cercano a 1,016 y unos 8.000 millones de años de viaje. FRB 20240304B alcanza 2,148 y más de 10.000 millones de años. El redshift supera el doble del anterior; el tiempo de viaje no se ha duplicado. [ESO: anterior récord FRB 20220610A](https://www.eso.org/public/news/eso2317/) [Ryder y colaboradores: FRB a redshift 1](https://arxiv.org/abs/2210.04680)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La formulación precisa es un récord para un FRB localizado con redshift medido de su galaxia, respaldado por el estudio y los anuncios del 8 de octubre. Una gran dispersión sin anfitriona identificada no basta para establecer una distancia mayor. Tampoco es la luz más antigua o el objeto astronómico más distante jamás observado. [Caleb y colaboradores: prepublicación de agosto de 2025](https://arxiv.org/html/2508.01648v1) [Ryder y colaboradores: FRB a redshift 1](https://arxiv.org/abs/2210.04680)"
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ NOS DICE SOBRE UN UNIVERSO MÁS JOVEN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Demuestra actividad FRB durante el «mediodía cósmico», una época de intensa formación estelar. Extiende las observaciones vinculadas a galaxias hasta un período mucho más temprano. Conecta restos estelares compactos con la evolución galáctica, sin proceder del Big Bang ni de las primeras estrellas del universo. [ESA/Webb: distancia e interpretación](https://esawebb.org/news/weic2621/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una galaxia inusual no representa toda la población lejana. Los destellos brillantes y las anfitrionas que pueden caracterizarse entran más fácilmente en las muestras. Los sesgos de selección, el gas local y los modelos inciertos deben considerarse antes de deducir cómo evolucionaron todos los FRB. [Petroff y colaboradores: revisión científica](https://link.springer.com/article/10.1007/s00159-022-00139-w)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El siguiente paso es reunir más fuentes de alto redshift mediante observaciones sensibles, localización precisa e imágenes o espectros profundos. El equipo señala MeerKAT y futuras capacidades del SKA. El seguimiento podría acotar esta fuente, pero no garantiza repeticiones ni una identificación definitiva del magnetar. [Universidad de Sídney: anuncio del 8 de octubre](https://www.eurekalert.org/news-releases/1146455)"
+    },
+    {
+      "type": "heading",
+      "text": "LO QUE ESTE HALLAZGO DEMUESTRA Y LO QUE NO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado sólido es un estallido lejano asociado a una galaxia cuyo redshift abre un nuevo alcance observacional. El mecanismo emisor sigue sin resolverse. Sky & Telescope sitúa el hallazgo en el contexto de la investigación. No existe base científica para presentarlo como un mensaje de una civilización. [Sky & Telescope: información del 8 de octubre](https://skyandtelescope.org/astronomy-news/fast-radio-burst-shatters-distance-record/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen principal es una ilustración conceptual generada con IA, no una fotografía del descubrimiento, una configuración real de telescopios o una señal visible en el cielo. Continúe con nuestro [perfil de Carl Sagan](/articles/carl-sagan-journey-through-our-universe/) y los [planes de comunicaciones lunares de la NASA](/articles/nasa-moon-5g-wifi6-lunar-communications/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Caleb y colaboradores: Science, 2026",
+      "url": "https://doi.org/10.1126/science.adz2675"
+    },
+    {
+      "label": "Caleb y colaboradores: prepublicación de agosto de 2025",
+      "url": "https://arxiv.org/html/2508.01648v1"
+    },
+    {
+      "label": "NASA: Webb identifica la galaxia",
+      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/"
+    },
+    {
+      "label": "ESA/Webb: distancia e interpretación",
+      "url": "https://esawebb.org/news/weic2621/"
+    },
+    {
+      "label": "Universidad de Sídney: anuncio del 8 de octubre",
+      "url": "https://www.eurekalert.org/news-releases/1146455"
+    },
+    {
+      "label": "Observatorio Keck: estructuras interpuestas",
+      "url": "https://keckobservatory.org/frb20240304b/"
+    },
+    {
+      "label": "ESO: anterior récord FRB 20220610A",
+      "url": "https://www.eso.org/public/news/eso2317/"
+    },
+    {
+      "label": "Ryder y colaboradores: FRB a redshift 1",
+      "url": "https://arxiv.org/abs/2210.04680"
+    },
+    {
+      "label": "Petroff y colaboradores: revisión científica",
+      "url": "https://link.springer.com/article/10.1007/s00159-022-00139-w"
+    },
+    {
+      "label": "CHIME/FRB: pulso de un magnetar galáctico",
+      "url": "https://www.nature.com/articles/s41586-020-2863-y"
+    },
+    {
+      "label": "Macquart y colaboradores: censo de bariones",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32461651/"
+    },
+    {
+      "label": "NASA: corrimiento al rojo y edad cósmica",
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/"
+    },
+    {
+      "label": "Sky & Telescope: información del 8 de octubre",
+      "url": "https://skyandtelescope.org/astronomy-news/fast-radio-burst-shatters-distance-record/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Está exactamente a 10.000 millones de años luz?",
+      "answer": "El titular describe más de 10.000 millones de años de viaje de la luz. El redshift medido es 2,148. Separación actual y distancia de luminosidad son magnitudes distintas dependientes del modelo."
+    },
+    {
+      "question": "¿Webb detectó el pulso de radio?",
+      "answer": "MeerKAT lo detectó el 4 de marzo de 2024. Webb obtuvo después imágenes y espectros de la galaxia anfitriona."
+    },
+    {
+      "question": "¿Se ha confirmado un magnetar?",
+      "answer": "No. La galaxia favorece esa interpretación, pero el objeto emisor y el mecanismo de radio siguen sin confirmarse."
+    }
+  ]
+}
