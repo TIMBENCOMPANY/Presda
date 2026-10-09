@@ -1,0 +1,229 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/humans-apes-dna-similarity-chimpanzees-evolution/",
+  "path": "/es/articles/humans-apes-dna-similarity-chimpanzees-evolution/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es genomics terminology and source parity review",
+    "reviewedAt": "2026-10-09",
+    "terminologyChecked": true
+  },
+  "title": "HUMANOS Y SIMIOS: ¿POR QUÉ COMPARTIMOS EL 98 % DEL ADN?",
+  "seoTitle": "ADN humano y simios: qué significa el 98–99 %",
+  "description": "Qué mide la semejanza genética con chimpancés y bonobos: ascendencia común, cromosoma 2 y regulación de genes, sin confundirla con identidad de todo el genoma.",
+  "excerpt": "Qué mide la semejanza genética con chimpancés y bonobos: ascendencia común, cromosoma 2 y regulación de genes, sin confundirla con identidad de todo el genoma.",
+  "headlineHighlights": {
+    "red": "HUMANOS Y SIMIOS",
+    "gold": "98 % DEL ADN"
+  },
+  "keywords": [
+    "ADN humano y simios: qué significa el 98–99 %",
+    "DNA",
+    "Pan",
+    "Homo sapiens"
+  ],
+  "searchIntent": "Qué mide la semejanza genética con chimpancés y bonobos: ascendencia común, cromosoma 2 y regulación de genes, sin confundirla con identidad de todo el genoma.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-09",
+  "updatedAt": "2026-10-09",
+  "image": {
+    "src": "/articles/human-chimpanzee-dna-conceptual-illustration.png",
+    "alt": "Ilustración conceptual generada con IA de un humano y un chimpancé junto a un motivo de ADN, no un experimento real ni sujetos identificados"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El rostro de un chimpancé puede resultar familiar antes de examinar su genoma. La semejanza tiene una explicación profunda: humanos, chimpancés y bonobos heredaron gran parte de su biología de antepasados comunes. El famoso 98–99 % describe parte de ese parentesco. No significa que dos genomas completos sean idénticos salvo una fracción restante perfectamente delimitada."
+    },
+    {
+      "type": "paragraph",
+      "text": "La precisión fundamental es el alineamiento. [El informe del NHGRI sobre la comparación de 2005](https://www.genome.gov/15515096/2005-release-new-genome-comparison-finds-chimps-humans-very-similar-at-dna-level) describió las secuencias humanas y de chimpancé directamente comparables como casi un 99 % idénticas. Su cálculo más amplio, con inserciones y deleciones, fue del 96 %. Son resúmenes distintos de una comparación histórica, no mediciones rivales de una cantidad universal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilustración: la imagen principal es una creación conceptual generada con IA de un humano, un chimpancé y un motivo de ADN. No muestra un experimento genético real, un participante identificado ni un individuo ancestral."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué mide realmente el 98–99 %?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El ADN es una secuencia de cuatro bases químicas, abreviadas A, C, G y T. La secuenciación lee su orden. Comparar genomas exige encontrar segmentos correspondientes heredados de las mismas regiones ancestrales. En un segmento alineado se cuentan las posiciones donde cambia una base: una definición útil de identidad de secuencia. [El NHGRI explica el proceso de secuenciación](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet)."
+    },
+    {
+      "type": "paragraph",
+      "text": "La evolución también añade o elimina segmentos, duplica genes, invierte regiones y modifica ADN repetitivo. Comparar bases en regiones alineables no resume todos esos cambios. El resultado depende de los genomas de referencia, las regiones incluidas, las reglas de alineamiento y el tratamiento de huecos. [El estudio original del genoma del chimpancé](https://www.nature.com/articles/nature04072) comparaba ensamblajes preliminares, no inventarios perfectos de todos los individuos."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2025, [ensamblajes completos publicados en Nature](https://www.nature.com/articles/s41586-025-08816-3) permitieron estudiar mejor regiones repetitivas y estructuralmente complejas. Incluyeron chimpancés, bonobos, gorilas, dos especies de orangután y el siamang. El trabajo distingue cambios de una base, variación estructural y huecos de alineamiento. Una región difícil de alinear no es automáticamente ADN sin parentesco. Los nuevos ensamblajes afinan la comparación sin borrar la ascendencia común."
+    },
+    {
+      "type": "heading",
+      "text": "Chimpancés, bonobos, gorilas y orangutanes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chimpancés y bonobos, las dos especies vivas de Pan, son por igual nuestros parientes vivos más cercanos en el árbol de especies. [El estudio del genoma del bonobo de 2012](https://www.nature.com/articles/nature11128) halló un 98,7 % de identidad con ADN humano y un 99,6 % con ADN de chimpancé en regiones autosómicas correspondientes de copia única. El denominador está definido. No son porcentajes de personalidad, inteligencia o semejanza biológica total y no deben mezclarse con otros métodos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los gorilas se separaron antes que humanos y Pan; los orangutanes pertenecen a una rama anterior. Ese árbol general puede coexistir con historias distintas para algunos segmentos. [El estudio del genoma del gorila](https://www.nature.com/articles/nature10842) encontró regiones donde su secuencia se agrupa más cerca de una humana o de chimpancé. Es una retención de variación ancestral entre separaciones sucesivas, llamada clasificación incompleta de linajes. No convierte al gorila en nuestro pariente vivo más cercano en conjunto."
+    },
+    {
+      "type": "heading",
+      "text": "Un antepasado común, no un chimpancé actual"
+    },
+    {
+      "type": "paragraph",
+      "text": "[La síntesis genética del Smithsonian](https://humanorigins.si.edu/evidence/genetics) sitúa el antepasado común de humanos y chimpancés hace aproximadamente 8–6 millones de años. Es una estimación, no un encuentro fechado entre dos individuos. Fósiles y modelos genéticos delimitan esa historia de formas distintas. Ambas ramas siguieron evolucionando: un chimpancé actual es un pariente, no un retrato inmutable de nuestro antepasado. El modelo del estudio de genomas completos de 2025 estimó la separación humano–chimpancé en 5,5–6,3 millones de años. Supuestos sobre mutaciones, modelos y regiones analizadas contribuyen a las diferencias. El marco general de 6–8 millones de años no es una fecha exacta. [modelo genómico de 2025](https://www.nature.com/articles/s41586-025-08816-3)."
+    },
+    {
+      "type": "paragraph",
+      "text": "La evolución es una historia ramificada, no una escalera con humanos en su cima inevitable. Chimpancés y bonobos se separaron después, hace unos dos millones de años según la reconstrucción del estudio del bonobo. Gorilas y orangutanes tienen historias propias. Que sigan existiendo otros simios se explica como la coexistencia de cualquier especie emparentada: una rama superviviente no tiene que reemplazar a otra."
+    },
+    {
+      "type": "heading",
+      "text": "Cromosoma 2: una huella de la ascendencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los humanos suelen tener 46 cromosomas, frente a 48 en los demás grandes simios vivos. El cromosoma humano 2 corresponde a dos cromosomas ancestrales fusionados. [Un estudio molecular de 1991](https://doi.org/10.1073/pnas.88.20.9051) identificó repeticiones teloméricas opuestas dentro del cromosoma, donde se esperaba una antigua unión. [El análisis posterior de la región](https://genome.cshlp.org/content/12/11/1651.full.pdf) reforzó su correspondencia con extremos ancestrales. Un centrómero permaneció activo y el otro se inactivó."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fusión demuestra descendencia con modificación, no que un solo cambio creara el lenguaje o la inteligencia humanos. El número de cromosomas no mide complejidad. La fecha estimada de separación de Pan tampoco fecha con precisión la fusión. Lo importante es la concordancia entre estructura cromosómica y árbol de parentesco."
+    },
+    {
+      "type": "heading",
+      "text": "Biología compartida, desarrollo diferente"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ascendencia común ayuda a explicar la organización básica de órganos y extremidades y la maquinaria celular conservada para crecimiento, metabolismo y mantenimiento del ADN. Muchos genes correspondientes participan en procesos similares. Pero una lista de genes no es un plano independiente del contexto. [La genómica comparativa](https://www.genome.gov/about-genomics/fact-sheets/Comparative-Genomics-Fact-Sheet) estudia secuencias conservadas y sus funciones, incluidas regiones reguladoras que influyen en cuándo y dónde se utilizan los genes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cambios en proteínas, dosis génica, regulación y ritmo de desarrollo pueden importar sin sustituir la mayor parte del genoma. [Un estudio de organoides cerebrales de 2019](https://www.nature.com/articles/s41586-019-1654-9) comparó humanos, chimpancés y macacos a resolución celular e identificó diferencias de maduración y regulación. Los organoides modelan aspectos del desarrollo, no un cerebro completo, una cultura o una capacidad lingüística."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Un experimento publicado en Science en 2020](https://doi.org/10.1126/science.abb2401) mostró que expresar el gen humano ARHGAP11B aumentaba el tamaño y plegamiento del neocórtex de fetos de tití. Demuestra un mecanismo de desarrollo en un contexto experimental, no que un gen convierta un animal en humano o le dé inteligencia humana. La evolución cerebral implica cambios interactivos; lenguaje y cognición no se reducen a un porcentaje de ADN o un interruptor molecular."
+    },
+    {
+      "type": "heading",
+      "text": "Del cambio genético a Homo sapiens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las mutaciones generan variación cuyo destino no depende solo de su utilidad. La selección natural puede favorecer variantes heredables que afecten a la reproducción en un entorno concreto. [La deriva genética](https://www.genome.gov/genetics-glossary/Genetic-Drift) también cambia sus frecuencias por azar, especialmente en poblaciones pequeñas. Migraciones e historia demográfica importan. No toda diferencia con un chimpancé fue seleccionada para producir nuestras capacidades actuales."
+    },
+    {
+      "type": "paragraph",
+      "text": "La aparición de Homo sapiens es mucho más reciente que la separación de Pan. [Los fósiles de Jebel Irhoud](https://www.nature.com/articles/nature22336) combinan una cara relativamente moderna con un cráneo más alargado; [los sílex calentados asociados se dataron en unos 315.000 años, con incertidumbre de ±34.000 años](https://www.nature.com/articles/nature22335). Documentan la evolución de sapiens, no el antepasado común de hace millones de años. Nuestro [reportaje sobre Jebel Irhoud](/articles/we-are-all-moroccans-jebel-irhoud/) explica el contexto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los genomas reconstruyen parentescos y cambios heredados; los fósiles documentan cuerpos en lugares y épocas concretos. Ninguno cuenta por sí solo toda la historia. Siguen abiertas la clasificación de homininos tempranos, la identidad del último antepasado común con Pan y muchas transiciones conductuales. Nuestro [árbol de la familia humana](/articles/human-family-tree-human-evolution-species/) sigue las ramas posteriores sin convertir la evolución en una línea recta."
+    },
+    {
+      "type": "heading",
+      "text": "Lo que el porcentaje no nos dice"
+    },
+    {
+      "type": "paragraph",
+      "text": "Decir que los humanos no son simios confunde lenguaje cotidiano y clasificación biológica: pertenecemos a los grandes simios. Afirmar que el 1–2 % restante explica todo lo humano convierte una estadística en causa. Pensar que el chimpancé dejó de evolucionar confunde un pariente vivo con un fósil. Y ADN parecido no implica mentes idénticas: importan desarrollo, cuerpo, aprendizaje y entorno. Son preguntas que el porcentaje no fue diseñado para medir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las semejanzas no borran nuestra singularidad y las diferencias tampoco la explican por completo. La genética nos sitúa dentro de una familia antigua y ramificada de primates y plantea preguntas precisas: qué cambios afectan al desarrollo, cuáles reflejan demografía y cómo interactúan. La conclusión sólida no es que seamos «un 98 % chimpancé», sino que la ascendencia común deja huellas medibles que requieren interpretación cuidadosa."
+    }
+  ],
+  "sources": [
+    {
+      "label": "NHGRI, 2005 genome comparison: comparable sequences versus insertions and deletions",
+      "url": "https://www.genome.gov/15515096/2005-release-new-genome-comparison-finds-chimps-humans-very-similar-at-dna-level"
+    },
+    {
+      "label": "Chimpanzee Sequencing and Analysis Consortium, Nature (2005), Initial sequence of the chimpanzee genome",
+      "url": "https://www.nature.com/articles/nature04072"
+    },
+    {
+      "label": "Yoo et al., Nature (2025), Complete sequencing of ape genomes",
+      "url": "https://www.nature.com/articles/s41586-025-08816-3"
+    },
+    {
+      "label": "NHGRI, DNA Sequencing Fact Sheet",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet"
+    },
+    {
+      "label": "NHGRI, Comparative Genomics Fact Sheet",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/Comparative-Genomics-Fact-Sheet"
+    },
+    {
+      "label": "Prüfer et al., Nature (2012), The bonobo genome compared with chimpanzee and human genomes",
+      "url": "https://www.nature.com/articles/nature11128"
+    },
+    {
+      "label": "Scally et al., Nature (2012), Insights into hominid evolution from the gorilla genome sequence",
+      "url": "https://www.nature.com/articles/nature10842"
+    },
+    {
+      "label": "Smithsonian Human Origins, Genetics: human and chimpanzee ancestry",
+      "url": "https://humanorigins.si.edu/evidence/genetics"
+    },
+    {
+      "label": "Ijdo et al., PNAS (1991), Origin of human chromosome 2: an ancestral telomere-telomere fusion",
+      "url": "https://doi.org/10.1073/pnas.88.20.9051"
+    },
+    {
+      "label": "Fan et al., Genome Research (2002), Genomic structure of the ancestral chromosome fusion site",
+      "url": "https://genome.cshlp.org/content/12/11/1651.full.pdf"
+    },
+    {
+      "label": "Kanton et al., Nature (2019), Organoid single-cell genomic atlas of brain development",
+      "url": "https://www.nature.com/articles/s41586-019-1654-9"
+    },
+    {
+      "label": "Heide et al., Science (2020), ARHGAP11B and fetal marmoset neocortex development",
+      "url": "https://doi.org/10.1126/science.abb2401"
+    },
+    {
+      "label": "NHGRI, Genetic Drift",
+      "url": "https://www.genome.gov/genetics-glossary/Genetic-Drift"
+    },
+    {
+      "label": "Hublin et al., Nature (2017), New fossils from Jebel Irhoud and the pan-African origin of Homo sapiens",
+      "url": "https://www.nature.com/articles/nature22336"
+    },
+    {
+      "label": "Richter et al., Nature (2017), The age of the hominin fossils from Jebel Irhoud",
+      "url": "https://www.nature.com/articles/nature22335"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿El 98–99 % describe todo el genoma?",
+      "answer": "La cifra describe comparaciones concretas de ADN alineado. El resultado global depende de cómo se cuentan inserciones, deleciones, variación estructural y regiones difíciles de alinear."
+    },
+    {
+      "question": "¿Evolucionamos de los chimpancés actuales?",
+      "answer": "No. Humanos y chimpancés descienden de antepasados comunes y ambas ramas siguieron evolucionando."
+    },
+    {
+      "question": "¿Son más cercanos los chimpancés o los bonobos?",
+      "answer": "Ambos son por igual nuestros parientes vivos más cercanos en el árbol de especies, aunque algunos segmentos tienen historias distintas."
+    },
+    {
+      "question": "¿Qué demuestra la fusión del cromosoma 2?",
+      "answer": "La correspondencia con dos cromosomas ancestrales, repeticiones teloméricas internas opuestas y restos de un centrómero inactivado respaldan una fusión antigua."
+    },
+    {
+      "question": "¿Un gen explica la inteligencia humana?",
+      "answer": "No. Interactúan regulación génica, desarrollo, proteínas y entorno. Un efecto experimental sobre el desarrollo cerebral no demuestra inteligencia humana."
+    }
+  ]
+}

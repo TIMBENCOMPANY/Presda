@@ -1,3 +1,4 @@
+import { HumanApeDnaGraphics } from "@/components/HumanApeDnaGraphics";
 import { TaiwanCaptivesGraphics } from "@/components/TaiwanCaptivesGraphics";
 import { WorkAbroadGraphics } from "@/components/WorkAbroadGraphics";
 import { JonathanGraphics } from "@/components/JonathanGraphics";
@@ -318,6 +319,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "humans-apes-dna-similarity-chimpanzees-evolution" && [6, 9, 15, 23].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HumanApeDnaGraphics locale={locale} kind={originalIndex === 6 ? "similarity" : originalIndex === 9 ? "tree" : originalIndex === 15 ? "fusion" : "timeline"} /></div>;
+              }
               if (article.slug === "dutch-women-taiwan-1662-zeelandia-captives" && [4, 5, 12].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><TaiwanCaptivesGraphics locale={locale} kind={originalIndex === 4 ? "map" : originalIndex === 5 ? "timeline" : "siege"} /></div>;
               }

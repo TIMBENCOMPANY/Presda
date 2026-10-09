@@ -1,3 +1,4 @@
+import { humanApeDnaArticle } from "@/data/humanApeDnaArticle";
 import { taiwanCaptivesArticle } from "@/data/taiwanCaptivesArticle";
 import { workAbroadArticle } from "@/data/workAbroadArticle";
 import { jonathanArticle } from "@/data/jonathanArticle";
@@ -35641,7 +35642,8 @@ export const articles: Article[] = [
   frbRecordArticle,
   jonathanArticle,
   workAbroadArticle,
-  taiwanCaptivesArticle
+  taiwanCaptivesArticle,
+  humanApeDnaArticle
 ];
 
 export const categories: ArticleCategory[] = [
