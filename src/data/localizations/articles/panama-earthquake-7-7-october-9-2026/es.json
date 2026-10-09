@@ -1,0 +1,200 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/panama-earthquake-7-7-october-9-2026/",
+  "path": "/es/articles/panama-earthquake-7-7-october-9-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es seismic terminology and source parity review",
+    "reviewedAt": "2026-10-10",
+    "terminologyChecked": true
+  },
+  "title": "UN TERREMOTO DE MAGNITUD 7,7 SACUDE PANAMÁ Y ACTIVA ALERTAS DE TSUNAMI",
+  "seoTitle": "Terremoto en Panamá: magnitud 7,7 y fin de amenaza de tsunami",
+  "description": "El USGS confirma un sismo de 7,7 en Panamá el 9 de octubre. La amenaza de tsunami pasó; daños, heridos y servicios siguen bajo evaluación.",
+  "excerpt": "El USGS confirma un sismo de 7,7 en Panamá el 9 de octubre. La amenaza de tsunami pasó; daños, heridos y servicios siguen bajo evaluación.",
+  "headlineHighlights": {
+    "red": "MAGNITUD 7,7",
+    "gold": "PANAMÁ"
+  },
+  "keywords": [
+    "Terremoto en Panamá: magnitud 7,7 y fin de amenaza de tsunami",
+    "USGS",
+    "SINAPROC"
+  ],
+  "searchIntent": "El USGS confirma un sismo de 7,7 en Panamá el 9 de octubre. La amenaza de tsunami pasó; daños, heridos y servicios siguen bajo evaluación.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-10",
+  "updatedAt": "2026-10-10",
+  "image": {
+    "src": "/articles/panama-earthquake-ai-editorial-illustration.png",
+    "alt": "Ilustración editorial generada con IA de rescatistas entre destrucción imaginada en Ciudad de Panamá, no una fotografía auténtica de daños"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un terremoto de magnitud 7,7 sacudió el sur de Panamá el 9 de octubre de 2026, dañando edificios y alterando servicios. El [registro revisado del USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive) sitúa el epicentro a 12 km al oeste-suroeste de Pitaloza Arriba. Una amenaza inicial de tsunami en el Pacífico activó alertas regionales, pero [el centro de alerta del Pacífico de la NOAA la dio posteriormente por concluida](https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/4/WEPA40/WEPA40.txt). Las alertas iniciales no deben interpretarse como una advertencia todavía vigente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verificación hasta el 9 de octubre de 2026 a las 22:30 UTC, las 17:30 en Panamá. Las mediciones y los balances pueden cambiar. Este informe distingue datos sísmicos revisados, evaluaciones preliminares atribuidas e información todavía no establecida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviso sobre la imagen: la portada es una ilustración editorial generada con IA, no una fotografía auténtica de daños o rescates. No acredita la destrucción que representa en Ciudad de Panamá. El mapa del USGS incluido más abajo es un producto científico oficial independiente."
+    },
+    {
+      "type": "heading",
+      "text": "Las mediciones sísmicas verificadas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los [datos del USGS](https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u18k&format=geojson) registran una magnitud de momento revisada de 7,7, una hora de origen de 17:56:06 UTC, las 12:56:06 en Panamá, y coordenadas de 7,5868° norte y 80,7690° oeste. La profundidad es de 12,647 km, redondeada a 12,6 km. El identificador es us6000u18k. Son los valores utilizados aquí, no los 33 km de los primeros boletines de tsunami."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las estimaciones iniciales cambiaron. [AP informó del paso de 8,0 a 7,6 y después a 7,7](https://apnews.com/article/e4e5dc85829714db88a74de3b7019d55). La prensa local también citó una estimación de 7,2 del instituto geocientífico panameño. Deben atribuirse a cada organismo, no promediarse. Incluso un registro revisado puede cambiar con nuevos análisis. La [ShakeMap oficial del USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/shakemap) estima la intensidad de las sacudidas; no es un inventario de daños de cada edificio."
+    },
+    {
+      "type": "heading",
+      "text": "Daños y límites del balance de víctimas"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Panamá América, en su informe de las 15:00 locales, citó a Malitzie Rivera, subdirectora del Sinaproc](https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las), quien señaló que no había fallecidos reportados en ese momento y que personas lesionadas en las provincias centrales habían sido trasladadas a hospitales. No dio un total nacional de heridos. Al cierre no se había establecido de forma independiente un balance definitivo. La ausencia inicial de fallecidos reportados no demuestra que se hayan evaluado todas las comunidades."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Reuters verificó videos de una iglesia dañada y edificios cercanos derrumbados en Penonomé](https://uk.marketscreener.com/news/strong-panama-quake-damages-buildings-disrupts-power-and-air-travel-ce785ddcdb8cf323). También informó de daños en viviendas de Las Minas, Herrera. Por separado, [el relato local atribuido al Sinaproc](https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las) señaló afectaciones a infraestructura en Los Santos, Veraguas y Coclé. Las inspecciones continúan. Las fuentes revisadas no ofrecen un total nacional oficial de edificios destruidos ni una lista completa de comunidades afectadas."
+    },
+    {
+      "type": "heading",
+      "text": "Alertas de tsunami y posterior fin de la amenaza"
+    },
+    {
+      "type": "paragraph",
+      "text": "[El primer boletín del PTWC, a las 18:01 UTC](https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/1/WEPA40/WEPA40.txt), advirtió de posibles olas peligrosas en partes de las costas del Pacífico de Panamá, Colombia, Costa Rica, Ecuador, Perú, Nicaragua, Guatemala, El Salvador y México. Era un pronóstico basado en parámetros preliminares, no una confirmación de olas destructivas en todos esos países. Las autoridades nacionales determinan las alertas locales y las instrucciones de evacuación."
+    },
+    {
+      "type": "paragraph",
+      "text": "[El mensaje final de amenaza del PTWC, fechado a las 19:39 UTC](https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/4/WEPA40/WEPA40.txt), indicó que la amenaza del sismo principal había pasado, aunque podían persistir pequeñas variaciones del nivel del mar cerca del origen durante unas horas. Sus parámetros preliminares de 7,6 y 33 km no sustituyen las mediciones revisadas del USGS. Se evacuaron edificios, pero aquí no se estableció un total nacional verificado de evacuados costeros ni una altura medida de tsunami destructivo. Deben seguirse las instrucciones locales actuales, no capturas de boletines vencidos."
+    },
+    {
+      "type": "heading",
+      "text": "Interrupciones de electricidad, agua y transporte"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Reuters informó de cortes eléctricos en seis provincias, citando a Naturgy](https://uk.marketscreener.com/news/strong-panama-quake-damages-buildings-disrupts-power-and-air-travel-ce785ddcdb8cf323), además de vuelos suspendidos en Tocumen y una interrupción del Metro. [La prensa local, citando al Sinaproc y a la ministra de Gobierno](https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las), describió afectaciones a potabilizadoras y una inspección preventiva del Puente Centenario. Son interrupciones reportadas, no prueba de que cada servicio siguiera suspendido al publicar. Este informe no establece horas confirmadas de restablecimiento ni un total nacional de usuarios afectados."
+    },
+    {
+      "type": "heading",
+      "text": "Respuesta de emergencia y declaraciones oficiales"
+    },
+    {
+      "type": "paragraph",
+      "text": "[La Estrella de Panamá informó de vigilancia del Sinaproc en hospitales, iglesias y escuelas del país](https://www.laestrella.com.pa/panama/nacional/sinaproc-sismo-72-en-panama-inicio-en-provincias-centrales-replicas-seguiran-LC26355943). También recogió el llamado a la calma del presidente José Raúl Mulino y su solicitud de balances detallados al Gobierno y los organismos de emergencia. Las declaraciones se atribuyen al reporte citado, no a una nueva entrevista presidencial. Las inspecciones y la atención a los afectados seguían siendo prioridades inmediatas."
+    },
+    {
+      "type": "heading",
+      "text": "Réplicas y riesgos persistentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "El [catálogo revisado del USGS registra otro sismo de magnitud 6,6](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w/executive) a las 20:25:39 UTC, las 15:25:39 locales, a 14 km al oeste de Río Grande y 10 km de profundidad. La información inicial de organismos de tsunami utilizó 6,9 para este evento posterior, no para el principal. El USGS advierte que pueden seguir fuertes sacudidas. Ninguna predicción fiable puede precisar la hora, el lugar y la magnitud exactos del próximo sismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los residentes deben seguir las [orientaciones del Sinaproc](https://www.sinaproc.gob.pa/sismos/) y las instrucciones locales, evitando estructuras dañadas hasta su evaluación. El fin de la amenaza de tsunami no certifica la seguridad de edificios, puentes o laderas. Nuestra [guía sobre terremotos, volcanes y tsunamis](/articles/natural-disasters-earthquakes-volcanoes-tsunamis/) explica la diferencia entre un fenómeno natural, la exposición y el riesgo de desastre."
+    },
+    {
+      "type": "heading",
+      "text": "El Canal de Panamá y el impacto económico"
+    },
+    {
+      "type": "paragraph",
+      "text": "[TVN Panamá recogió el comunicado de la Autoridad del Canal: las operaciones continuaban con normalidad](https://www.tvn-2.com/nacionales/temblor-panama-canal-activa-protocolos_1_2265262.html), mientras se activaban protocolos y revisiones. Reuters también informó de operaciones normales. Una cola de buques no demuestra un cierre causado por el terremoto. Al corte no se estableció una interrupción verificada de los tránsitos ni una evaluación nacional completa de pérdidas. Los daños pueden generar costes, pero las estimaciones modelizadas no son dinero ya perdido."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué esta región tiene actividad sísmica"
+    },
+    {
+      "type": "paragraph",
+      "text": "La [síntesis tectónica del USGS](https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u18k&format=geojson) describe una falla de desgarre sinistral, con movimiento principalmente horizontal. Panamá se encuentra en una zona compleja entre las placas de Cocos, Nazca, Caribe y Sudamérica, alrededor de la microplaca de Panamá. No todo sismo local es, por ello, un evento simple de subducción. Responsables regionales relacionaron las sacudidas con el sistema de fallas Azuero Soná. Interpretar la ruptura es una evaluación científica, no algo demostrado por la ilustración."
+    },
+    {
+      "type": "paragraph",
+      "text": "El USGS señala que buena parte de la sismicidad histórica regional se concentra más al oeste, cerca de la zona de fractura de Panamá, y cita los eventos de julio de 1934, magnitud 7,5, y julio de 1962, magnitud 7,2. Aportan contexto, no prueba de mecanismos idénticos ni un calendario para otro terremoto. Las cuestiones pendientes son el balance final de víctimas, el alcance de los daños estructurales y la reanudación segura de servicios."
+    }
+  ],
+  "sources": [
+    {
+      "label": "USGS: reviewed main earthquake, us6000u18k",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive"
+    },
+    {
+      "label": "USGS: event data and tectonic summary",
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u18k&format=geojson"
+    },
+    {
+      "label": "USGS: ShakeMap, October 9, 2026",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/shakemap"
+    },
+    {
+      "label": "NOAA/PTWC: initial tsunami threat bulletin",
+      "url": "https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/1/WEPA40/WEPA40.txt"
+    },
+    {
+      "label": "NOAA/PTWC: final tsunami threat bulletin",
+      "url": "https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/4/WEPA40/WEPA40.txt"
+    },
+    {
+      "label": "USGS: later magnitude 6.6 event, us6000u19w",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w/executive"
+    },
+    {
+      "label": "Reuters via MarketScreener: damage, power and transport, October 9",
+      "url": "https://uk.marketscreener.com/news/strong-panama-quake-damages-buildings-disrupts-power-and-air-travel-ce785ddcdb8cf323"
+    },
+    {
+      "label": "Associated Press: earthquake sequence and evacuations",
+      "url": "https://apnews.com/article/e4e5dc85829714db88a74de3b7019d55"
+    },
+    {
+      "label": "Panamá América: SINAPROC preliminary casualty assessment",
+      "url": "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las"
+    },
+    {
+      "label": "La Estrella de Panamá: SINAPROC and presidential response",
+      "url": "https://www.laestrella.com.pa/panama/nacional/sinaproc-sismo-72-en-panama-inicio-en-provincias-centrales-replicas-seguiran-LC26355943"
+    },
+    {
+      "label": "TVN Panamá: Canal Authority statement on operations",
+      "url": "https://www.tvn-2.com/nacionales/temblor-panama-canal-activa-protocolos_1_2265262.html"
+    },
+    {
+      "label": "SINAPROC: earthquake safety guidance",
+      "url": "https://www.sinaproc.gob.pa/sismos/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿El terremoto fue de magnitud 7,6 o 7,7?",
+      "answer": "El registro revisado del USGS utilizado aquí indica 7,7. Las primeras estimaciones y los boletines de tsunami usaron otros valores preliminares."
+    },
+    {
+      "question": "¿Sigue activa la amenaza de tsunami del sismo principal?",
+      "answer": "El boletín final del PTWC la dio por concluida. Deben seguirse las instrucciones nacionales y locales vigentes, especialmente tras nuevos sismos."
+    },
+    {
+      "question": "¿Está confirmado el balance de víctimas?",
+      "answer": "La prensa local citó al Sinaproc: no había fallecidos reportados en ese momento y se trasladaron heridos a hospitales. Al corte no se estableció un balance nacional definitivo verificado."
+    },
+    {
+      "question": "¿Cerró el Canal de Panamá?",
+      "answer": "TVN recogió el comunicado de la Autoridad del Canal y Reuters informó de operaciones normales. Aquí no se establece un cierre de tránsitos por el terremoto."
+    }
+  ]
+}

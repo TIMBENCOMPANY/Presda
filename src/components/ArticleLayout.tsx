@@ -1,3 +1,4 @@
+import { PanamaEarthquakeGraphic } from "@/components/PanamaEarthquakeGraphic";
 import { AiDangerGraphics } from "@/components/AiDangerGraphics";
 import { HumanApeDnaGraphics } from "@/components/HumanApeDnaGraphics";
 import { TaiwanCaptivesGraphics } from "@/components/TaiwanCaptivesGraphics";
@@ -320,6 +321,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "panama-earthquake-7-7-october-9-2026" && originalIndex === 5) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><PanamaEarthquakeGraphic locale={locale} /></div>;
+              }
               if (article.slug === "ai-danger-development-pause-coxon-hinton-sanders" && [11, 15, 24].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><AiDangerGraphics locale={locale} kind={originalIndex === 11 ? "timeline" : originalIndex === 15 ? "risks" : "companies"} /></div>;
               }

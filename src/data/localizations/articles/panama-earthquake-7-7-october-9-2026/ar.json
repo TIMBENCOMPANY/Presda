@@ -1,0 +1,200 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/panama-earthquake-7-7-october-9-2026/",
+  "path": "/ar/articles/panama-earthquake-7-7-october-9-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex ar seismic terminology and source parity review",
+    "reviewedAt": "2026-10-10",
+    "terminologyChecked": true
+  },
+  "title": "زلزال بقوة 7.7 يضرب بنما ويطلق تنبيهات تسونامي",
+  "seoTitle": "زلزال بنما: USGS تؤكد قوة 7.7 وانتهاء خطر التسونامي",
+  "description": "تؤكد USGS زلزالاً بقوة 7.7 في بنما يوم 9 أكتوبر. انتهى خطر التسونامي، فيما يستمر تقييم الأضرار والإصابات وتعطل الخدمات.",
+  "excerpt": "تؤكد USGS زلزالاً بقوة 7.7 في بنما يوم 9 أكتوبر. انتهى خطر التسونامي، فيما يستمر تقييم الأضرار والإصابات وتعطل الخدمات.",
+  "headlineHighlights": {
+    "red": "زلزال بقوة 7.7",
+    "gold": "بنما"
+  },
+  "keywords": [
+    "زلزال بنما: USGS تؤكد قوة 7.7 وانتهاء خطر التسونامي",
+    "USGS",
+    "SINAPROC"
+  ],
+  "searchIntent": "تؤكد USGS زلزالاً بقوة 7.7 في بنما يوم 9 أكتوبر. انتهى خطر التسونامي، فيما يستمر تقييم الأضرار والإصابات وتعطل الخدمات.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-10",
+  "updatedAt": "2026-10-10",
+  "image": {
+    "src": "/articles/panama-earthquake-ai-editorial-illustration.png",
+    "alt": "رسم تحريري مولد بالذكاء الاصطناعي لفرق طوارئ وسط دمار متخيل في مدينة بنما، وليس صورة حقيقية للأضرار"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "ضرب زلزال بقوة 7.7 جنوب بنما في 9 أكتوبر 2026، فألحق أضراراً بمبانٍ وعطل خدمات. يحدد [السجل المراجع لهيئة المسح الجيولوجي الأمريكية](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive) مركزه على بعد 12 كم غرب جنوب غرب بيتالوزا أريبا. أدى خطر أولي لتسونامي في المحيط الهادئ إلى تنبيهات إقليمية، لكن [مركز التحذير من التسونامي في المحيط الهادئ التابع لـ NOAA أعلن لاحقاً انتهاء ذلك الخطر](https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/4/WEPA40/WEPA40.txt). لا تعني التنبيهات السابقة أن تحذيراً ما زال سارياً."
+    },
+    {
+      "type": "paragraph",
+      "text": "آخر تحقق: 9 أكتوبر 2026، الساعة 22:30 بالتوقيت العالمي، أي 17:30 في بنما. قد تتغير القياسات وتقديرات الأضرار. يميز التقرير بين البيانات الزلزالية المراجعة والتقييمات الأولية المنسوبة إلى مصادرها والمعلومات التي لم تثبت بعد."
+    },
+    {
+      "type": "paragraph",
+      "text": "تنويه الصورة: الغلاف رسم تحريري مولد بالذكاء الاصطناعي، وليس صورة حقيقية للأضرار أو عمليات الإنقاذ. لا يثبت هذا الرسم الدمار الذي يصوره في مدينة بنما. خريطة USGS أدناه منتج علمي رسمي مستقل."
+    },
+    {
+      "type": "heading",
+      "text": "القياسات الزلزالية المثبتة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تسجل [بيانات USGS](https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u18k&format=geojson) قوة عزم مراجعة تبلغ 7.7، ووقت حدوث عند 17:56:06 بالتوقيت العالمي، أو 12:56:06 في بنما، وإحداثيات 7.5868 درجة شمالاً و80.7690 درجة غرباً. العمق 12.647 كم، ويقرب إلى 12.6 كم. معرف الحدث us6000u18k. يعتمد المقال هذه القيم، لا عمق 33 كم الوارد في نشرات التسونامي الأولى."
+    },
+    {
+      "type": "paragraph",
+      "text": "تغيرت التقديرات المبكرة. [نقلت أسوشيتد برس الانتقال من 8.0 إلى 7.6 ثم 7.7](https://apnews.com/article/e4e5dc85829714db88a74de3b7019d55). ونقلت وسائل محلية أيضاً تقديراً بقوة 7.2 من معهد علوم الأرض في بنما. يجب نسب هذه القيم إلى الجهات التي أصدرتها، لا حساب متوسطها. وقد يتغير حتى السجل المراجع مع تحليل بيانات إضافية. تقدر [خريطة الاهتزاز الرسمية لـ USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/shakemap) شدة الاهتزاز في المنطقة، ولا تمثل مسحاً لأضرار كل مبنى."
+    },
+    {
+      "type": "heading",
+      "text": "الأضرار وحدود حصيلة الضحايا"
+    },
+    {
+      "type": "paragraph",
+      "text": "نقل [تقرير Panamá América المنشور عند 15:00 محلياً عن نائبة مدير SINAPROC ماليتيزي ريفيرا](https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las) أنه لم ترد بلاغات عن وفيات في تلك المرحلة، وأن مصابين من المقاطعات الوسطى نقلوا إلى المستشفيات. لم يقدم التقرير عدداً وطنياً للإصابات. لم تثبت حصيلة نهائية مستقلة للوفيات أو الإصابات عند وقت التحقق. غياب بلاغات الوفاة الأولية لا يثبت تقييم جميع المجتمعات."
+    },
+    {
+      "type": "paragraph",
+      "text": "[تحققت رويترز من فيديو يظهر أضراراً بكنيسة وانهيار مبانٍ قريبة في بينونومي](https://uk.marketscreener.com/news/strong-panama-quake-damages-buildings-disrupts-power-and-air-travel-ce785ddcdb8cf323). وتحدث تقريرها عن أضرار بمنازل في منطقة لاس ميناس في إيريرا. وبصورة منفصلة، حدد [التقرير المحلي المنسوب إلى SINAPROC](https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las) أضراراً بالبنية الأساسية في لوس سانتوس وفيراغواس وكوكليه. ما زالت المعاينات جارية. لم تتوفر في المصادر المفحوصة حصيلة وطنية رسمية للمباني المدمرة أو قائمة شاملة بالمجتمعات المتأثرة."
+    },
+    {
+      "type": "heading",
+      "text": "تنبيهات تسونامي ثم إعلان انتهاء الخطر"
+    },
+    {
+      "type": "paragraph",
+      "text": "حذرت [نشرة PTWC الأولى عند 18:01 بالتوقيت العالمي](https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/1/WEPA40/WEPA40.txt) من احتمال موجات خطرة على أجزاء من سواحل المحيط الهادئ في بنما وكولومبيا وكوستاريكا والإكوادور وبيرو ونيكاراغوا وغواتيمالا والسلفادور والمكسيك. كان ذلك توقعاً مبنياً على معطيات أولية، لا تأكيداً لوصول موجات مدمرة إلى كل هذه الدول. تحدد السلطات الوطنية مستوى التنبيه وتعليمات الإخلاء المحلية."
+    },
+    {
+      "type": "paragraph",
+      "text": "قالت [رسالة الخطر النهائية من PTWC، المؤرخة عند 19:39 بالتوقيت العالمي](https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/4/WEPA40/WEPA40.txt) إن خطر الزلزال الرئيسي انتهى، مع احتمال تقلبات طفيفة في مستوى البحر قرب المصدر لعدة ساعات. لا تحل قيمها الأولية الباقية، بقوة 7.6 وعمق 33 كم، محل قياسات USGS المراجعة. وردت تقارير عن إخلاء مبانٍ، لكن لم تثبت هنا حصيلة وطنية لإخلاءات الساحل أو قياس لموجة تسونامي مدمرة. اتبع التعليمات المحلية الحالية، لا صور النشرات المنتهية."
+    },
+    {
+      "type": "heading",
+      "text": "اضطرابات الكهرباء والمياه والنقل"
+    },
+    {
+      "type": "paragraph",
+      "text": "أفادت [رويترز بانقطاع الكهرباء في ست مقاطعات، نقلاً عن Naturgy](https://uk.marketscreener.com/news/strong-panama-quake-damages-buildings-disrupts-power-and-air-travel-ce785ddcdb8cf323)، وتعليق رحلات مطار توكومين الدولي وتوقف خدمة المترو. ووصف [تقرير محلي يستند إلى SINAPROC ووزيرة الحكومة](https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las) اضطراب محطات معالجة المياه وفحصاً احترازياً لجسر سينتيناريو. هذه انقطاعات منقولة، وليست دليلاً على استمرار تعليق كل خدمة عند النشر. لم تثبت في هذا التقرير مواعيد عودة الخدمات أو أعداد المتضررين على المستوى الوطني."
+    },
+    {
+      "type": "heading",
+      "text": "الاستجابة الطارئة والتصريحات الحكومية"
+    },
+    {
+      "type": "paragraph",
+      "text": "ذكرت [La Estrella de Panamá أن SINAPROC يراقب المستشفيات والكنائس والمدارس على مستوى البلاد](https://www.laestrella.com.pa/panama/nacional/sinaproc-sismo-72-en-panama-inicio-en-provincias-centrales-replicas-seguiran-LC26355943). ونقلت دعوة الرئيس خوسيه راوول مولينو إلى الهدوء وطلبه تقييمات مفصلة من الحكومة وأجهزة الطوارئ. تنسب هذه التصريحات إلى التقرير المحدد، ولا تقدم بوصفها مقابلة رئاسية جديدة. ظلت معاينة الأضرار ورعاية المتضررين أولويات فورية."
+    },
+    {
+      "type": "heading",
+      "text": "الهزات اللاحقة والمخاطر المستمرة"
+    },
+    {
+      "type": "paragraph",
+      "text": "يسجل [كتالوج USGS المراجع زلزالاً لاحقاً بقوة 6.6](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w/executive) عند 20:25:39 بالتوقيت العالمي، أو 15:25:39 محلياً، على بعد 14 كم غرب ريو غراندي وعمق 10 كم. استخدمت معلومات أولية لجهات التحذير من التسونامي قوة 6.9 لهذا الحدث اللاحق، وليست قوة الزلزال الرئيسي. تحذر USGS من احتمال هزات أخرى قوية. لا يمكن لتنبؤ موثوق تحديد وقت ومكان وقوة الهزة القادمة بدقة."
+    },
+    {
+      "type": "paragraph",
+      "text": "ينبغي للسكان اتباع [إرشادات SINAPROC للزلازل](https://www.sinaproc.gob.pa/sismos/) وتعليمات الطوارئ المحلية، وتجنب المنشآت المتضررة حتى تقييمها. انتهاء خطر التسونامي لا يثبت سلامة المباني والجسور والمنحدرات. يوضح [دليلنا عن الزلازل والبراكين والتسونامي](/articles/natural-disasters-earthquakes-volcanoes-tsunamis/) الفرق بين الحدث الطبيعي والتعرض له ومخاطر الكارثة."
+    },
+    {
+      "type": "heading",
+      "text": "قناة بنما والأثر الاقتصادي"
+    },
+    {
+      "type": "paragraph",
+      "text": "نقلت [TVN Panamá بيان هيئة القناة بأن العمليات استمرت بصورة طبيعية](https://www.tvn-2.com/nacionales/temblor-panama-canal-activa-protocolos_1_2265262.html) مع تفعيل بروتوكولات الطوارئ والفحوص. وأفادت رويترز أيضاً باستمرار التشغيل الطبيعي. وجود طابور سفن لا يثبت إغلاقاً بسبب الزلزال. لم يثبت توقف عبور القناة أو تقييم وطني مكتمل للخسائر عند وقت التحقق. قد تترتب تكاليف على الأضرار، لكن سيناريوهات الخسارة المحسوبة ليست أموالاً فقدت فعلياً."
+    },
+    {
+      "type": "heading",
+      "text": "لماذا تنشط الزلازل في هذه المنطقة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يصف [الملخص التكتوني لـ USGS](https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u18k&format=geojson) انزلاقاً جانبياً يسارياً، بحركة أفقية أساساً على امتداد صدع. تقع بنما في منطقة معقدة تضم صفائح كوكوس ونازكا والكاريبي وأمريكا الجنوبية حول صفيحة بنما الصغيرة. لا يعني ذلك أن كل زلزال محلي ينشأ ببساطة عن الاندساس. ربط مسؤولون إقليميون الاهتزاز بنظام صدوع أزويرو سونا. يظل تفسير التمزق تقييماً علمياً، ولا يستند إلى الرسم التوضيحي."
+    },
+    {
+      "type": "paragraph",
+      "text": "تشير USGS إلى أن جانباً كبيراً من النشاط التاريخي في المنطقة الأوسع يقع غرباً قرب منطقة كسر بنما، وتذكر زلزالاً بقوة 7.5 في يوليو 1934 وآخر بقوة 7.2 في يوليو 1962. يقدم ذلك سياقاً إقليمياً، ولا يثبت تطابق آليات التمزق أو جدولاً لزلزال آخر. تتعلق الأسئلة المفتوحة بالحصيلة النهائية للضحايا وحجم الأضرار الإنشائية ومواعيد استئناف الخدمات بأمان."
+    }
+  ],
+  "sources": [
+    {
+      "label": "USGS: reviewed main earthquake, us6000u18k",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive"
+    },
+    {
+      "label": "USGS: event data and tectonic summary",
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u18k&format=geojson"
+    },
+    {
+      "label": "USGS: ShakeMap, October 9, 2026",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/shakemap"
+    },
+    {
+      "label": "NOAA/PTWC: initial tsunami threat bulletin",
+      "url": "https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/1/WEPA40/WEPA40.txt"
+    },
+    {
+      "label": "NOAA/PTWC: final tsunami threat bulletin",
+      "url": "https://www.tsunami.gov/events/PHEB/2026/10/09/26282000/4/WEPA40/WEPA40.txt"
+    },
+    {
+      "label": "USGS: later magnitude 6.6 event, us6000u19w",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w/executive"
+    },
+    {
+      "label": "Reuters via MarketScreener: damage, power and transport, October 9",
+      "url": "https://uk.marketscreener.com/news/strong-panama-quake-damages-buildings-disrupts-power-and-air-travel-ce785ddcdb8cf323"
+    },
+    {
+      "label": "Associated Press: earthquake sequence and evacuations",
+      "url": "https://apnews.com/article/e4e5dc85829714db88a74de3b7019d55"
+    },
+    {
+      "label": "Panamá América: SINAPROC preliminary casualty assessment",
+      "url": "https://www.panamaamerica.com.pa/sociedad/sinaproc-descarta-victimas-fatales-tras-sismo-de-72-y-monitorea-el-nivel-del-mar-en-las"
+    },
+    {
+      "label": "La Estrella de Panamá: SINAPROC and presidential response",
+      "url": "https://www.laestrella.com.pa/panama/nacional/sinaproc-sismo-72-en-panama-inicio-en-provincias-centrales-replicas-seguiran-LC26355943"
+    },
+    {
+      "label": "TVN Panamá: Canal Authority statement on operations",
+      "url": "https://www.tvn-2.com/nacionales/temblor-panama-canal-activa-protocolos_1_2265262.html"
+    },
+    {
+      "label": "SINAPROC: earthquake safety guidance",
+      "url": "https://www.sinaproc.gob.pa/sismos/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل بلغت قوة الزلزال 7.6 أم 7.7؟",
+      "answer": "يسجل الحدث الرئيسي المراجع في USGS والمعتمد هنا قوة 7.7. استخدمت التقديرات الأولى ونشرات التسونامي قيماً أولية مختلفة."
+    },
+    {
+      "question": "هل ما زال خطر التسونامي الناتج عن الزلزال الرئيسي قائماً؟",
+      "answer": "أعلنت نشرة PTWC النهائية انتهاء ذلك الخطر. اتبع التعليمات الوطنية والمحلية الحالية، خصوصاً بعد هزات جديدة."
+    },
+    {
+      "question": "هل تأكدت حصيلة الضحايا؟",
+      "answer": "نقلت تقارير محلية عن SINAPROC عدم ورود بلاغات وفاة في تلك المرحلة ونقل مصابين إلى المستشفيات. لم تثبت حصيلة وطنية نهائية عند وقت التحقق."
+    },
+    {
+      "question": "هل أغلقت قناة بنما؟",
+      "answer": "نقلت TVN بيان هيئة القناة وأفادت رويترز باستمرار التشغيل الطبيعي. لم يثبت هنا إغلاق لعبور السفن بسبب الزلزال."
+    }
+  ]
+}
