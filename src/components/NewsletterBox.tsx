@@ -47,6 +47,7 @@ export function NewsletterBox({ compact = false, locale = "en" }: { compact?: bo
 
   return (
     <section
+      data-ad-free
       id={compact ? undefined : "newsletter"}
       className={`rounded-lg border border-[#FF1A1A]/45 bg-[color:var(--card)] shadow-[var(--shadow)] ${compact ? "p-5" : "mx-auto w-[min(1500px,calc(100%-32px))] p-7 sm:p-10"}`}
     >

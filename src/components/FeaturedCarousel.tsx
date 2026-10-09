@@ -87,7 +87,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
     : sideStories;
 
   return (
-    <section aria-label={t.featured} className={`category-featured ${isHome ? "home-featured-carousel" : ""} grid gap-4 ${!isHome && sideStories.length ? "lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)]" : ""}`}>
+    <section data-ad-free aria-label={t.featured} className={`category-featured ${isHome ? "home-featured-carousel" : ""} grid gap-4 ${!isHome && sideStories.length ? "lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)]" : ""}`}>
       <div
         role="region" aria-roledescription={t.carousel} aria-label={locale === "en" ? (isHome ? "PRESDA featured stories" : `${categoryLabels[slides[0].category]} featured stories`) : t.featured}
         className="min-w-0 overflow-hidden rounded-2xl border border-[color:var(--border)] bg-black text-white"

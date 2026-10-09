@@ -1,23 +1,13 @@
 /** @type {import('next').NextConfig} */
+import { contentSecurityPolicy } from "./config/content-security-policy.mjs";
+
 const securityHeaders = [
   {
     key: "Content-Security-Policy",
-    value: [
-      "default-src 'self'",
-      "base-uri 'self'",
-      "object-src 'none'",
-      "frame-ancestors 'none'",
-      "form-action 'self'",
-      "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com",
-      "style-src 'self' 'unsafe-inline'",
-      "img-src 'self' data: blob: https:",
-      "font-src 'self' data:",
-      "connect-src 'self' https://vitals.vercel-insights.com https://*.vercel-insights.com https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com",
-      "media-src 'self'",
-      "worker-src 'self' blob:",
-      "manifest-src 'self'",
-      "upgrade-insecure-requests"
-    ].join("; ")
+    value: contentSecurityPolicy({
+      adsensePrepared: process.env.ADSENSE_CSP_PREPARED === "true",
+      cmpPrepared: process.env.GOOGLE_CMP_ENABLED === "true"
+    })
   },
   {
     key: "X-Frame-Options",

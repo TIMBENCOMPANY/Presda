@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
-import Script from "next/script";
 import { Barlow_Condensed, Inter, Orbitron } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import type { ReactNode } from "react";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
+import { AdSenseProvider } from "@/components/AdSenseProvider";
+import { ConsentAnalytics } from "@/components/ConsentAnalytics";
+import { parseAdSenseConfig } from "@/lib/adsenseConfig";
 import { discoveryRobots, organizationJsonLd } from "@/lib/seo";
 import "@/app/globals.css";
 import type { Locale } from "@/lib/i18n/routing";
@@ -66,6 +68,7 @@ export function PublicationDocument({ children, locale = "en" }: Readonly<{ chil
   return (
     <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"} className={`${orbitron.variable} ${inter.variable} ${articleDisplay.variable}`}>
       <body>
+        <AdSenseProvider config={parseAdSenseConfig(process.env)}>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
@@ -73,23 +76,9 @@ export function PublicationDocument({ children, locale = "en" }: Readonly<{ chil
         <Header locale={locale} />
         {children}
         <Analytics />
-        {process.env.NODE_ENV === "production" && (
-          <>
-            <Script
-              src="https://www.googletagmanager.com/gtag/js?id=G-9TNHCVQTTP"
-              strategy="afterInteractive"
-            />
-            <Script id="presda-ga4" strategy="afterInteractive">
-              {`
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){dataLayer.push(arguments);}
-                gtag('js', new Date());
-                gtag('config', 'G-9TNHCVQTTP');
-              `}
-            </Script>
-          </>
-        )}
+        <ConsentAnalytics />
         <Footer locale={locale} />
+        </AdSenseProvider>
       </body>
     </html>
   );

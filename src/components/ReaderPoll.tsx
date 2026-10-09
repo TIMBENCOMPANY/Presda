@@ -93,7 +93,7 @@ export function ReaderPoll({ locale }: { locale: Locale }) {
 
   const ui = presentation[locale];
   const voted = Boolean(result?.choice);
-  return <section ref={root} id="reader-poll" aria-labelledby="reader-poll-question" dir={locale === "ar" ? "rtl" : "ltr"} data-nosnippet className={styles.poll}>
+  return <section ref={root} id="reader-poll" aria-labelledby="reader-poll-question" dir={locale === "ar" ? "rtl" : "ltr"} data-nosnippet data-ad-free className={styles.poll}>
     <header className={styles.header}>
       <p className={`${styles.label} font-display`}>{t.label.replace(/ [\u2014·] /, " • ")}</p>
       <h2 id="reader-poll-question" className={`${styles.question} font-display`}>{t.question}</h2>

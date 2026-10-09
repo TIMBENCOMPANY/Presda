@@ -36,7 +36,7 @@ export function HomeLatestCarousel({ articles, locale = "en" }: { articles: Arti
   }
 
   return (
-    <section aria-labelledby="home-latest-heading" className="home-latest-row">
+    <section data-ad-free aria-labelledby="home-latest-heading" className="home-latest-row">
       <h2 id="home-latest-heading" className="home-latest-heading font-display text-2xl font-extrabold uppercase">{t.latest}</h2>
       <div className="home-latest-window relative min-w-0">
         <div ref={track} id="home-latest-track" className="home-latest-track flex snap-x snap-mandatory gap-3 overflow-x-auto overscroll-x-contain">
