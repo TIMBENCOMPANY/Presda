@@ -121,6 +121,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/ai-danger-development-pause-coxon-hinton-sanders/",
+    "path": "/ar/articles/ai-danger-development-pause-coxon-hinton-sanders/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/ai-danger-development-pause-coxon-hinton-sanders/",
+    "path": "/es/articles/ai-danger-development-pause-coxon-hinton-sanders/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/ai-danger-development-pause-coxon-hinton-sanders/",
+    "path": "/fr/articles/ai-danger-development-pause-coxon-hinton-sanders/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/alzheimers-disease-brain-memory-loss/",
     "path": "/ar/articles/alzheimers-disease-brain-memory-loss/"
   },

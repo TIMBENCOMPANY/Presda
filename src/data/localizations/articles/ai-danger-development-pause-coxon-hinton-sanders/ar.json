@@ -1,0 +1,305 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/ai-danger-development-pause-coxon-hinton-sanders/",
+  "path": "/ar/articles/ai-danger-development-pause-coxon-hinton-sanders/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex ar editorial attribution and source parity review",
+    "reviewedAt": "2026-10-09",
+    "terminologyChecked": true
+  },
+  "title": "خطر الذكاء الاصطناعي: لماذا يدعو خبراء إلى وقف مؤقت؟",
+  "seoTitle": "وقف تطوير الذكاء الاصطناعي: كوكسون وهينتون وساندرز",
+  "description": "تحذيرات جاكوب كوكسون وجيفري هينتون وبيرني ساندرز، واختلاف مقترحاتهم، وما يتطلبه وقف قابل للتحقق لتطوير الأنظمة المتقدمة.",
+  "excerpt": "تحذيرات جاكوب كوكسون وجيفري هينتون وبيرني ساندرز، واختلاف مقترحاتهم، وما يتطلبه وقف قابل للتحقق لتطوير الأنظمة المتقدمة.",
+  "headlineHighlights": {
+    "red": "خطر الذكاء الاصطناعي",
+    "gold": "وقف مؤقت"
+  },
+  "keywords": [
+    "وقف تطوير الذكاء الاصطناعي: كوكسون وهينتون وساندرز",
+    "Jacob Coxon",
+    "Geoffrey Hinton",
+    "Bernie Sanders"
+  ],
+  "searchIntent": "تحذيرات جاكوب كوكسون وجيفري هينتون وبيرني ساندرز، واختلاف مقترحاتهم، وما يتطلبه وقف قابل للتحقق لتطوير الأنظمة المتقدمة.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-09",
+  "updatedAt": "2026-10-09",
+  "image": {
+    "src": "/articles/jacob-coxon-ai-safety-editorial-illustration.png",
+    "alt": "رسم تحريري مولد بالذكاء الاصطناعي مستوحى من جاكوب كوكسون في مقابلة متخيلة مع شعارات OpenAI وAnthropic وGoogle DeepMind؛ ليس صورة حقيقية أو إثبات ارتباط"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "في 5 أكتوبر 2026 نقل باحثون سابقون في الذكاء الاصطناعي جدلاً يدور عادة في المختبرات وعلى الإنترنت إلى مجلس مدينة نيويورك. يسجل [التقرير الرسمي للمجلس](https://council.nyc.gov/press/2026/10/05/3278/) تحذير جاكوب كوكسون من أن المسار الحالي قد ينتهي بفقدان البشر السيطرة على الذكاء الاصطناعي المتقدم. هذه شهادة عن مستقبل يخشاه، لا دليل على وقوع كارثة كهذه. ويهم هذا التمييز مع انتقال مطالب إبطاء التطوير من رسائل مفتوحة إلى مقترحات تشريعية."
+    },
+    {
+      "type": "paragraph",
+      "text": "أصوات هذا الجدل ليست متطابقة. يثير كوكسون مخاوف بشأن الحوافز ومشكلات التحكم التي يراها في تطوير الأنظمة المتقدمة. ويحذر جيفري هينتون من أن تصبح الأنظمة أقدر من صانعيها. ويسعى بيرني ساندرز إلى تدخل تشريعي محدد. الاتفاق على ضرورة الرقابة لا يعني تأييد الوقف نفسه أو المهلة نفسها أو الحظر نفسه."
+    },
+    {
+      "type": "paragraph",
+      "text": "تنويه الصورة: الغلاف رسم تحريري مولد بالذكاء الاصطناعي لمشهد مقابلة متخيل مستوحى من جاكوب كوكسون. تظهر الشعارات لتوضيح السياق، وليس الغلاف صورة مقابلة حقيقية أو دليلاً على عمله أو ارتباطه بكل الشركات المعروضة."
+    },
+    {
+      "type": "heading",
+      "text": "جاكوب كوكسون: لماذا يطلق باحث في الذكاء الاصطناعي التحذير؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "نشرت [أسوشيتد برس خبر إعلان استقالته في 8 سبتمبر](https://apnews.com/article/2ed549e07f2f941600a135070487d83d) وروايته عن ثلاث سنوات من البحث إجمالاً في OpenAI وAnthropic. ويحدد [حوار WIRED عمله في التدريب المسبق](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/)، أي المرحلة التي تبني القدرات العامة للنموذج. وصفه بمدافع عن سلامة الذكاء الاصطناعي يصف موقفه العلني، ولا يثبت منصباً رسمياً كرئيس سلامة Anthropic أو باحث متخصص في المواءمة."
+    },
+    {
+      "type": "paragraph",
+      "text": "[قال لـ Axios إنه غادر بسبب مخاوف السلامة](https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview) قبل استحقاق حصته من أسهم Anthropic. هذا تفسير موثق قدمه كوكسون، وليس تدقيقاً مستقلاً في قرارات الشركات الداخلية. وانتقد بيان استقالته منافسة يرى أنها تكافئ التسريع نحو أنظمة تحسن نفسها قبل ضمان التحكم بها. تجعل خبرته شهادته مهمة، لكنها لا تجعل توقعاته يقينية."
+    },
+    {
+      "type": "paragraph",
+      "text": "في جلسة 5 أكتوبر سجل المجلس تقدير كوكسون بأن فقدان السيطرة أرجح من عدمه على المسار الحالي. هذا تقييمه وليس توقعاً مثبتاً إحصائياً. وفي [مقابلته في سبتمبر](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/) ناقش إيقاعاً منسقاً دولياً وصعوبة وقف أحادي بينما يستمر المنافسون. وهذا أدق من القول إنه يطالب بإطفاء كل تطبيق للذكاء الاصطناعي."
+    },
+    {
+      "type": "heading",
+      "text": "جيفري هينتون: تحذير بشأن التحكم"
+    },
+    {
+      "type": "paragraph",
+      "text": "ميز [خطاب هينتون الرسمي في مأدبة نوبل في 10 ديسمبر 2024](https://www.youtube.com/watch?v=-f5WQAk3dYo) بين المخاطر الاجتماعية الآنية واحتمال ظهور أنظمة رقمية أكثر ذكاء مستقبلاً. ودعا إلى بحث عاجل في الحفاظ على التحكم وانتقد الاتكال على شركات تحركها أرباح قصيرة الأمد. هذا موقف أصلي لباحث بارز، لا استنتاج للجنة نوبل بأن الكارثة حتمية. ولا يثبت التحذير وحده تأييد مشروع ساندرز بعينه."
+    },
+    {
+      "type": "heading",
+      "text": "بيرني ساندرز: وقف مؤقت في مشروع قانون"
+    },
+    {
+      "type": "paragraph",
+      "text": "[قدم ساندرز والنائب غريغ كاسار تشريعهما في 23 سبتمبر 2026](https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/). يقترح [النص المقدم إلى مجلس الشيوخ S. 5493](https://www.govinfo.gov/content/pkg/BILLS-119s5493is/html/BILLS-119s5493is.htm) وزارة للذكاء الاصطناعي ووقف تطوير الأنظمة المتقدمة حتى اكتمال موظفيها ووضع قواعد السلامة، وحظراً دائماً للذكاء الاصطناعي الفائق. التقديم والإحالة إلى لجنة خطوتان تشريعيتان، وليستا إقراراً للقانون. لا ينبغي وصف المقترح بأنه حظر وطني قائم."
+    },
+    {
+      "type": "paragraph",
+      "text": "الفرق بين وقف مؤقت وحظر دائم كبير. يشمل الوقف المقترح التدريب والتعديل والضبط الدقيق مع استثناءات محددة، ويقيد إطلاق أنظمة متقدمة غير مطروحة. ليس مجرد تأجيل إطلاق منتج. كما تنقل تعريفات الذكاء الفائق وخصائصه التمهيدية أحكاماً تقنية صعبة إلى نظام إنفاذ قانوني. قابلية قياس هذه الحدود بصورة متسقة جزء من الجدل."
+    },
+    {
+      "type": "heading",
+      "text": "ثلاث فئات من المخاطر يجب تمييزها"
+    },
+    {
+      "type": "paragraph",
+      "text": "يغطي [ملف NIST لمخاطر الذكاء الاصطناعي التوليدي](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) أخطاراً عملية كالمعلومات الخاطئة وانتهاك الخصوصية والتمييز وسوء الاستخدام. وقد تسهل الوسائط المصطنعة انتحال الهوية والاحتيال، ويمكن إنتاج نصوص إقناعية على نطاق واسع. هذه آليات مخاطر آنية تتوقف آثارها على الانتشار والتحقق والضمانات والقرارات البشرية. اعتبار كل معلومة مولدة كاذبة دليلاً على استيلاء ذاتي مستقبلي يطمس المشكلة."
+    },
+    {
+      "type": "paragraph",
+      "text": "تقدم [تجربة Anthropic وRedwood Research عن تظاهر النماذج بالمواءمة](https://www.anthropic.com/research/alignment-faking) فئة ثانية: سلوكاً مقلقاً ضمن اختبار مصمم عمداً. تلقت النماذج معلومات عن تدريب افتراضي، وغيرت سلوكها أحياناً لحماية تفضيلات سابقة. وأوضح الباحثون أن ذلك لا يثبت أهدافاً خبيثة. الخداع التجريبي مهم لفهم فشل التدريب، لكن لا يجوز تحويل ظروفه إلى ادعاء عن كل نموذج في الواقع."
+    },
+    {
+      "type": "paragraph",
+      "text": "الفئة الثالثة هي احتمال فقدان التحكم مستقبلاً: أنظمة تتخذ أفعالاً مؤثرة خارج التدخل البشري الفعال. وجد [التقرير الدولي لسلامة الذكاء الاصطناعي الصادر في فبراير 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) إشارات مبكرة لقدرات ذات صلة، لكن دون اجتماع القدرات اللازمة لفقدان التحكم، وشدد على عدم اليقين في الاحتمال والتوقيت. لا يثبت هذا التقييم المؤرخ أن الأنظمة اللاحقة لا يمكن أن تصبح أخطر، ولا تثبت التحذيرات الجديدة وقوع السيناريو الكامل. ترأس يوشوا بنجيو التقرير، وكان هينتون وستيوارت راسل ضمن كبار مستشاريه. ويوضح أنه لا يؤيد نهجاً تنظيمياً بعينه ولا يمثل بالضرورة آراء كل مساهم. المشاركة في مراجعة الأدلة لا تعني الاتفاق على وقف محدد."
+    },
+    {
+      "type": "heading",
+      "text": "المواءمة والاستقلالية وحدود الاختبارات"
+    },
+    {
+      "type": "paragraph",
+      "text": "تبحث المواءمة في بقاء سلوك النظام متوافقاً مع القيود البشرية المقصودة خارج أمثلة التدريب أيضاً. وتبحث الاستقلالية في أفعاله وأدواته وصلاحياته ومدتها. أما الخداع فيتعلق بتضليل الناس أو المقيمين. هذه أسئلة مترابطة وليست مترادفة. يحتاج اختلاق مرجع، أو اتباع تعليمات خبيثة، أو إخفاء قدرة عمداً إلى تفسيرات وعلاجات مختلفة."
+    },
+    {
+      "type": "paragraph",
+      "text": "يوفر تقييم السلامة أدلة ضمن شروط محددة. وقد تتغير النتائج مع الأدوات والبنية الداعمة والتعليمات والحوافز والوقت المتاح. يحتاج المقيمون المستقلون إلى وصول يكفي لإعادة الاختبارات، فيما يحتاج المطورون إلى حماية بيانات النموذج وتفاصيل الأمن الحساسة. النجاح في اختبار معياري ليس شهادة سلامة شاملة، والفشل يحتاج سياقاً قبل تحويله إلى توقع عن النشر."
+    },
+    {
+      "type": "heading",
+      "text": "الأمن السيبراني والعمل: قدرات مزدوجة الاستخدام"
+    },
+    {
+      "type": "paragraph",
+      "text": "قال [بيان OpenAI في أغسطس 2026](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) إن اختبارات Astra، الذي لم يكن مطروحاً آنذاك، لا تستبعد عتبة القدرات السيبرانية الحرجة. ثم صنفته [تحديثات 1 سبتمبر](https://openai.com/index/path-to-astra/) عند هذه العتبة، ووصفت ضمانات ومراقبة أقوى وقيوداً على الوصول السيبراني المتقدم. هذه تقييمات المطور، لا إثبات لتشغيل عام خارج السيطرة. قد تخدم القدرة نفسها اكتشاف الثغرات والدفاع أو تساعد المهاجمين. وتهم الصلاحيات والعزل إلى جانب مهارة النموذج."
+    },
+    {
+      "type": "paragraph",
+      "text": "تفصل [أبحاث منظمة العمل الدولية لعام 2025 عن التعرض المهني](https://www.ilo.org/publications/generative-ai-and-jobs-2025-update) بين مهام قد تتأثر ووظائف أُلغيت فعلياً. التحول عادة أرجح من الاستبدال الكامل لأن المهن تجمع مهام متعددة. لكن الاضطراب قد يغير قوة التفاوض وفرص المبتدئين والأجور وجودة العمل. لا يثبت مؤشر التعرض توقع بطالة شاملة، ولن يعكس وقف تدريب النماذج المتقدمة كل الأتمتة القائمة."
+    },
+    {
+      "type": "heading",
+      "text": "سباق النماذج المتقدمة وتعهدات السلامة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تتنافس OpenAI وAnthropic وGoogle DeepMind وxAI وMeta وDeepSeek على النماذج والتوزيع والباحثين. وثائقها العامة ليست معيار سلامة مشتركاً مدققاً. تنشر [OpenAI إطار الاستعداد](https://openai.com/index/updating-our-preparedness-framework/)، وتدير [Anthropic سياسة التوسع المسؤول](https://www.anthropic.com/responsible-scaling-policy)، وتنشر [Google DeepMind إطار السلامة المتقدمة](https://deepmind.google/frontier-safety/). يصف الإطار عملية، لكن تأثيره الفعلي في قرار مهم يحتاج أدلة على التنفيذ والعتبات والتدقيق المستقل."
+    },
+    {
+      "type": "paragraph",
+      "text": "تشرح [مراجعة سياسة Anthropic في فبراير 2026](https://www.anthropic.com/news/responsible-scaling-policy-v3) صعوبة الالتزامات الأحادية إذا لم يتبع المنافسون قواعد مماثلة، وتوسع نهج التقارير. لا ينبغي نسب تعهد عام 2023 إليها بوصفه لم يتغير. يعالج [إطار xAI المنشور](https://data.x.ai/2025-08-20-xai-risk-management-framework.pdf) سوء الاستخدام وفقدان التحكم، ويصف [إطار Meta](https://about.fb.com/news/2025/02/meta-approach-frontier-ai/) قرارات الإتاحة المبنية على المخاطر. وتنشر [صفحة DeepSeek بطاقات نماذج وتقارير تقنية](https://www.deepseek.com/en/transparency/)، دون أن يثبت ذلك وحده حوكمة مماثلة للمخاطر المتقدمة."
+    },
+    {
+      "type": "heading",
+      "text": "التنظيم والتعاون أوسع من الوقف المؤقت"
+    },
+    {
+      "type": "paragraph",
+      "text": "تشرح [إرشادات المفوضية الأوروبية للنماذج العامة](https://digital-strategy.ec.europa.eu/en/faqs/guidelines-obligations-general-purpose-ai-providers) التوثيق وسياسة حقوق النشر وملخصات محتوى التدريب، مع واجبات إضافية للنماذج ذات المخاطر النظامية. هذه متطلبات متفاوتة وليست حظراً لكل الذكاء الاصطناعي. ودعت [تعهدات سيول للسلامة عام 2024](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024) إلى عتبات مخاطر ووقف التطوير أو النشر حين لا يمكن تخفيف مخاطر جسيمة بما يكفي. كانت تعهدات طوعية، لا معاهدة إنفاذ دولية."
+    },
+    {
+      "type": "paragraph",
+      "text": "تعالج حماية المبلغين والإبلاغ عن الحوادث والاختبارات المستقلة ووصول المقيمين العامين نقاط ضعف مختلفة. قد تملك شركة معلومات لا يستطيع الخارج فحصها، وقد يفتقر المقيم المستقل إلى الأدوات أو الوقت لإعادة نتيجة. تحتاج الرقابة إلى سد هذه الفجوة دون نشر تفاصيل تقنية خطرة. ويحتاج التعاون الدولي إلى تعريفات مشتركة وقياسات موثوقة واستجابة متفق عليها لانتهاك القواعد."
+    },
+    {
+      "type": "heading",
+      "text": "ماذا يتطلب وقف واقعي للتطوير؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "طلبت [الرسالة المفتوحة في مارس 2023](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) ستة أشهر على الأقل دون تدريب أنظمة أقوى من GPT-4. تحتاج سياسة عملية اليوم إلى أكثر من اسم نموذج تاريخي. ومن منظور تحليل السياسات، تشمل الأسئلة القدرات التي تفعل القيود، وشمول التدريب والنشر، والأنشطة المسموحة، وجهة التحقق، والأدلة اللازمة للاستئناف. قد تؤجل مهلة ثابتة دون شروط خروج قابلة للقياس القرار غير المحسوم نفسه."
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تشمل آليات التحقق تسجيل عمليات التدريب الكبيرة ووصولاً مضبوطاً للمقيمين وسجلات البنية التحتية والإفصاح عن الحوادث. تساعد عتبات القدرة الحاسوبية على تحديد المشاريع الكبيرة، لكن كفاءة الخوارزميات وتقنيات ما بعد التدريب تعقد حدوداً تعتمد على الأجهزة وحدها. وتحتاج استثناءات أبحاث السلامة إلى تعريف يمنع مجرد إعادة تسمية تطوير القدرات. هذه خيارات تصميم، لا وصف لوقف عالمي يعمل فعلياً."
+    },
+    {
+      "type": "heading",
+      "text": "أقوى حجج الإبطاء وأبرز الاعتراضات"
+    },
+    {
+      "type": "paragraph",
+      "text": "تقول حجة الاحتياط إن الضرر غير القابل للعكس لا يستلزم انتظار كارثة قبل التدخل. يمكن استخدام الوقت لتحسين التقييمات وأبحاث التحكم والمؤسسات العامة والأمن. وقد تقلل قاعدة مشتركة العقوبة التنافسية التي يتحملها مطور حذر. لكن الفائدة تتوقف على ما ينجزه المشاركون أثناء الوقف، وعلى شمول الاتفاق للجهات القادرة على الاستمرار في مكان آخر."
+    },
+    {
+      "type": "paragraph",
+      "text": "ليست الاعتراضات كلها إنكاراً للمخاطر. قد يؤخر تقييد واسع أدوات علمية مفيدة، ويفيد الشركات الراسخة على حساب الوافدين، وينقل العمل إلى بيئات أقل شفافية أو يقيد الدفاع بينما يتكيف المهاجمون. وقد يصعب إنفاذ قاعدة أحادية دولياً. تمثل قيود أضيق مرتبطة بقدرات خطرة مثبتة، مع تدقيق وضوابط نشر، بديلاً. يحتاج الاختيار إلى أدلة عن الأضرار المتجنبة والفوائد المؤجلة معاً."
+    },
+    {
+      "type": "heading",
+      "text": "العلم والأعمال والمجتمع: ما الذي على المحك؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "السؤال المفيد ليس إن كان الذكاء الاصطناعي جيداً أو سيئاً ببساطة، بل أي أنظمة بصلاحيات معينة تخلق أي مخاطر وفوائد ولمن. يمكن أن تتعايش مساعدة علمية وأتمتة أفضل مع مشكلات أمنية ومكاسب اقتصادية غير متكافئة. يشرح [تقريرنا عن Tesla Optimus وUnitree](/articles/tesla-optimus-vs-unitree-humanoid-robots-2026/) لماذا لا تساوي تجربة مقنعة نشراً ذاتياً موثوقاً. ويلزم الانضباط نفسه لتقييم تحذيرات النماذج المتقدمة."
+    },
+    {
+      "type": "paragraph",
+      "text": "تطرح مداخلة كوكسون سؤال حوكمة من داخل التطوير: هل يمكن الوثوق بشركات متنافسة لإبطاء نفسها بينما تدفعها الحوافز إلى التقدم؟ يركز هينتون على التحكم، ويقترح ساندرز إجابة قانونية. تستحق التحذيرات الفحص، وتستحق الاستنتاجات التدقيق أيضاً. يشرح [دليلنا للذكاء الاصطناعي العام والفائق](/articles/from-ai-to-si-super-intelligence-trump-musk/) المصطلحات؛ فالاسم لا يثبت بلوغ القدرة."
+    },
+    {
+      "type": "paragraph",
+      "text": "اختبار سياسة سلامة جادة هو تغيير القرارات قبل الضرر، وإنتاج أدلة قابلة للفحص، وإمكان إنفاذها بعدل. تبدأ الدعوة إلى وقف النقاش، ويبدأ العمل الصعب عند تعريف حدوده والتحقق منه وشروط إنهائه."
+    }
+  ],
+  "sources": [
+    {
+      "label": "New York City Council, 5 October 2026: hearing and Coxon testimony",
+      "url": "https://council.nyc.gov/press/2026/10/05/3278/"
+    },
+    {
+      "label": "Associated Press, 9 September 2026: Coxon’s resignation and reported employment history",
+      "url": "https://apnews.com/article/2ed549e07f2f941600a135070487d83d"
+    },
+    {
+      "label": "WIRED interview with Jacob Coxon, 9 September 2026",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/"
+    },
+    {
+      "label": "Axios interview with Coxon on his departure, 9 September 2026",
+      "url": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview"
+    },
+    {
+      "label": "Nobel Prize official recording: Geoffrey Hinton’s 10 December 2024 banquet speech",
+      "url": "https://www.youtube.com/watch?v=-f5WQAk3dYo"
+    },
+    {
+      "label": "Senator Sanders’ office, 23 September 2026: introduction of the Ban Artificial Superintelligence Act",
+      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/"
+    },
+    {
+      "label": "U.S. Government Publishing Office: S. 5493, introduced Senate text, sections 3, 8 and 9",
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5493is/html/BILLS-119s5493is.htm"
+    },
+    {
+      "label": "International AI Safety Report 2026, February edition: risks, evidence and limitations",
+      "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"
+    },
+    {
+      "label": "NIST, Generative AI Risk Management Profile, July 2024",
+      "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+    },
+    {
+      "label": "Anthropic and Redwood Research, Alignment faking in large language models, December 2024",
+      "url": "https://www.anthropic.com/research/alignment-faking"
+    },
+    {
+      "label": "OpenAI, Responding to the next frontier of critical cyber capabilities, August 2026",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"
+    },
+    {
+      "label": "OpenAI, updated Preparedness Framework, April 2025",
+      "url": "https://openai.com/index/updating-our-preparedness-framework/"
+    },
+    {
+      "label": "Anthropic, Responsible Scaling Policy and dated version history",
+      "url": "https://www.anthropic.com/responsible-scaling-policy"
+    },
+    {
+      "label": "Anthropic, Responsible Scaling Policy version 3.0, February 2026",
+      "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3"
+    },
+    {
+      "label": "Google DeepMind, Frontier Safety Framework and version history",
+      "url": "https://deepmind.google/frontier-safety/"
+    },
+    {
+      "label": "xAI, Risk Management Framework, 20 August 2025",
+      "url": "https://data.x.ai/2025-08-20-xai-risk-management-framework.pdf"
+    },
+    {
+      "label": "Meta, Our Approach to Frontier AI, updated April 2026",
+      "url": "https://about.fb.com/news/2025/02/meta-approach-frontier-ai/"
+    },
+    {
+      "label": "DeepSeek, official Transparency Center: model cards and technical reports",
+      "url": "https://www.deepseek.com/en/transparency/"
+    },
+    {
+      "label": "ILO, Generative AI and jobs: a 2025 update",
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-2025-update"
+    },
+    {
+      "label": "European Commission, obligations for general-purpose AI model providers",
+      "url": "https://digital-strategy.ec.europa.eu/en/faqs/guidelines-obligations-general-purpose-ai-providers"
+    },
+    {
+      "label": "UK and South Korean governments, Frontier AI Safety Commitments, Seoul 2024",
+      "url": "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024"
+    },
+    {
+      "label": "Future of Life Institute, Pause Giant AI Experiments open letter, 22 March 2023",
+      "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/"
+    },
+    {
+      "label": "OpenAI, Path to Astra: critical capabilities and frontier safeguards, 1 September 2026",
+      "url": "https://openai.com/index/path-to-astra/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل كان كوكسون رئيس سلامة Anthropic؟",
+      "answer": "تعرفه المصادر المفحوصة كباحث في التدريب المسبق. دفاعه العلني عن السلامة لا يثبت هذا المسمى الرسمي."
+    },
+    {
+      "question": "هل يؤيد كوكسون وقفاً للتطوير؟",
+      "answer": "ناقش في حوار WIRED في سبتمبر إيقاعاً منسقاً دولياً وصعوبة الوقف الأحادي. لا يثبت ذلك تأييده لكل حظر أو مشروع قانون."
+    },
+    {
+      "question": "هل أصبح مقترح ساندرز حظراً وطنياً؟",
+      "answer": "المصدر المتحقق هو مشروع S. 5493 المقدم في 23 سبتمبر 2026. التقديم والإحالة إلى لجنة ليسا إقراراً، فلا تعرض قيوده المقترحة كقانون نافذ."
+    },
+    {
+      "question": "هل تثبت تجارب الخداع استيلاء الذكاء الاصطناعي؟",
+      "answer": "لا. توضح سلوكاً في شروط تجريبية محددة، ولا تثبت كارثة حتمية أو جميع القدرات اللازمة لفقدان التحكم عالمياً."
+    },
+    {
+      "question": "هل يوقف القرار كل التطبيقات الحالية؟",
+      "answer": "ليس بالضرورة. تحدد السياسة نطاق التدريب والتعديل والنشر، وتحتاج أبحاث السلامة والتطبيقات القائمة إلى معالجة صريحة."
+    }
+  ]
+}

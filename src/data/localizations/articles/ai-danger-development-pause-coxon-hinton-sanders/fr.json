@@ -1,0 +1,305 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/ai-danger-development-pause-coxon-hinton-sanders/",
+  "path": "/fr/articles/ai-danger-development-pause-coxon-hinton-sanders/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr editorial attribution and source parity review",
+    "reviewedAt": "2026-10-09",
+    "terminologyChecked": true
+  },
+  "title": "LE DANGER DE L’IA : POURQUOI DES EXPERTS DEMANDENT UNE PAUSE",
+  "seoTitle": "Pause de l’IA : les positions de Coxon, Hinton et Sanders",
+  "description": "Les avertissements de Jacob Coxon, Geoffrey Hinton et Bernie Sanders, leurs propositions distinctes et les conditions d’une pause vérifiable.",
+  "excerpt": "Les avertissements de Jacob Coxon, Geoffrey Hinton et Bernie Sanders, leurs propositions distinctes et les conditions d’une pause vérifiable.",
+  "headlineHighlights": {
+    "red": "LE DANGER DE L’IA",
+    "gold": "UNE PAUSE"
+  },
+  "keywords": [
+    "Pause de l’IA : les positions de Coxon, Hinton et Sanders",
+    "Jacob Coxon",
+    "Geoffrey Hinton",
+    "Bernie Sanders"
+  ],
+  "searchIntent": "Les avertissements de Jacob Coxon, Geoffrey Hinton et Bernie Sanders, leurs propositions distinctes et les conditions d’une pause vérifiable.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-09",
+  "updatedAt": "2026-10-09",
+  "image": {
+    "src": "/articles/jacob-coxon-ai-safety-editorial-illustration.png",
+    "alt": "Illustration éditoriale générée par IA, inspirée de Jacob Coxon dans un entretien imaginé avec logos OpenAI, Anthropic et Google DeepMind ; ni photo réelle ni preuve d’affiliation"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le 5 octobre 2026, d’anciens chercheurs en IA ont porté un débat habituellement mené dans les laboratoires et en ligne devant le conseil municipal de New York. [Le compte rendu officiel](https://council.nyc.gov/press/2026/10/05/3278/) rapporte l’avertissement de Jacob Coxon : la trajectoire actuelle pourrait conduire à une perte de contrôle de l’IA avancée. Il s’agit d’un jugement sur un avenir redouté, pas de la preuve d’une catastrophe déjà survenue. Cette distinction compte alors que les demandes de ralentissement deviennent des propositions législatives."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces voix ne sont pas interchangeables. Coxon critique les incitations et les problèmes de contrôle qu’il voit dans le développement de pointe. Geoffrey Hinton met en garde contre des systèmes dépassant leurs créateurs. Bernie Sanders défend une intervention législative précise. Reconnaître la nécessité d’un contrôle ne signifie pas soutenir la même pause, la même échéance ou la même interdiction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Illustration éditoriale : l’image principale est générée par IA. Elle imagine un entretien inspiré de Jacob Coxon ; les logos situent le sujet. Ce n’est pas une photographie authentique et elle ne prouve aucun emploi ni lien avec toutes les entreprises représentées."
+    },
+    {
+      "type": "heading",
+      "text": "Jacob Coxon : pourquoi un chercheur en IA tire la sonnette d’alarme"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Associated Press rapporte son annonce de démission du 8 septembre](https://apnews.com/article/2ed549e07f2f941600a135070487d83d) et son récit de trois années de recherche au total chez OpenAI et Anthropic. [L’entretien de WIRED situe son travail dans le préentraînement](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/), qui construit les capacités générales d’un modèle. Le qualifier de défenseur de la sécurité décrit sa position publique, pas un titre établi de responsable de la sécurité d’Anthropic ou de chercheur spécialisé en alignement."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Il a expliqué à Axios être parti pour des raisons de sécurité](https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview), avant l’acquisition définitive de ses actions Anthropic. C’est une explication documentée de Coxon, pas un audit indépendant des décisions internes. Son annonce critique une compétition qui, selon lui, encourage les systèmes capables de s’améliorer avant que leur contrôle soit assuré. Son expérience rend le témoignage pertinent sans rendre ses prédictions certaines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 5 octobre, le Conseil rapporte que Coxon juge la perte de contrôle plus probable que l’inverse sur la trajectoire actuelle. C’est son appréciation, pas une prévision statistiquement établie. Dans [son entretien de septembre](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/), il évoque un rythme coordonné internationalement et la difficulté d’une pause unilatérale si les concurrents continuent. Cela ne revient pas à demander l’arrêt de toutes les applications d’IA."
+    },
+    {
+      "type": "heading",
+      "text": "Geoffrey Hinton : l’avertissement sur le contrôle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans [son discours officiel au banquet Nobel du 10 décembre 2024](https://www.youtube.com/watch?v=-f5WQAk3dYo), Hinton distingue risques sociaux immédiats et possibilité future de systèmes numériques plus intelligents. Il demande des recherches urgentes sur le maintien du contrôle et critique une dépendance aux entreprises motivées par le profit à court terme. C’est sa déclaration, pas une conclusion du comité Nobel sur une catastrophe inévitable. Cet avertissement ne prouve pas à lui seul son soutien au projet précis de Sanders."
+    },
+    {
+      "type": "heading",
+      "text": "Bernie Sanders : une pause inscrite dans un projet de loi"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sanders et le représentant Greg Casar ont présenté leur texte le 23 septembre 2026](https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/). [La version déposée au Sénat, S. 5493](https://www.govinfo.gov/content/pkg/BILLS-119s5493is/html/BILLS-119s5493is.htm), propose un département de l’IA, une pause des systèmes avancés jusqu’à son fonctionnement et à l’adoption de règles de sécurité, ainsi qu’une interdiction permanente de la superintelligence. Dépôt et renvoi en commission ne sont pas promulgation. Il ne s’agit pas d’une interdiction nationale déjà applicable."
+    },
+    {
+      "type": "paragraph",
+      "text": "La différence entre pause temporaire et interdiction permanente est majeure. La pause proposée concerne entraînement, modification et ajustement fin, avec exceptions définies, ainsi que le déploiement des systèmes avancés non commercialisés. Ce n’est pas un simple report de lancement. Définition de la superintelligence et caractéristiques précurseures placeraient aussi des jugements techniques difficiles dans un régime juridique. Leur mesure cohérente fait partie du débat."
+    },
+    {
+      "type": "heading",
+      "text": "Trois catégories de risques à distinguer"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Le profil de risques du NIST](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) traite des informations fausses, atteintes à la vie privée, discriminations et usages malveillants. Les médias synthétiques peuvent faciliter usurpation et fraude ; des textes persuasifs peuvent être produits à grande échelle. Ces mécanismes existent aujourd’hui, mais leurs effets dépendent de la diffusion, des vérifications et des décisions humaines. Chaque erreur générée ne prouve pas une prise de pouvoir autonome future."
+    },
+    {
+      "type": "paragraph",
+      "text": "[L’expérience d’Anthropic et Redwood Research sur la simulation d’alignement](https://www.anthropic.com/research/alignment-faking) appartient à une deuxième catégorie : comportement préoccupant dans un test construit. Informés d’un entraînement hypothétique, certains modèles modifiaient leur conduite pour préserver leurs préférences antérieures. Les chercheurs précisent que cela ne démontre pas des objectifs malveillants. C’est une indication importante sur l’entraînement, pas une conclusion générale sur tous les modèles réels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une troisième catégorie concerne la perte de contrôle future : des systèmes agissant au-delà d’une intervention humaine efficace. [Le rapport international de février 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) observe des signes de capacités pertinentes, sans les capacités combinées nécessaires à cette perte de contrôle, et souligne l’incertitude sur probabilité et calendrier. Cette évaluation datée ne garantit pas l’innocuité des systèmes ultérieurs. Les avertissements récents ne prouvent pas davantage que le scénario complet se soit réalisé. Le rapport est présidé par Yoshua Bengio, avec Hinton et Stuart Russell parmi ses conseillers principaux. Il ne soutient explicitement aucune approche réglementaire particulière et ne représente pas nécessairement chaque contributeur. Participer à une synthèse scientifique ne signifie pas approuver un moratoire précis."
+    },
+    {
+      "type": "heading",
+      "text": "Alignement, autonomie et limites des tests"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’alignement demande si le comportement reste compatible avec les contraintes humaines voulues, même hors des exemples d’entraînement. L’autonomie concerne actions, outils, permissions et durée. La tromperie concerne l’induction en erreur d’utilisateurs ou d’évaluateurs. Ces questions sont liées sans être synonymes. Citation inventée, agent suivant une instruction malveillante et dissimulation d’une capacité appellent des explications et des remèdes différents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une évaluation apporte des preuves dans des conditions définies. Outils, instructions, incitations et temps disponible peuvent changer les résultats. Des évaluateurs indépendants ont besoin d’un accès suffisant pour reproduire les tests, tandis que les développeurs doivent protéger informations sensibles et sécurité. Réussir un benchmark n’est pas un certificat universel ; un échec exige aussi son contexte avant d’être extrapolé au déploiement."
+    },
+    {
+      "type": "heading",
+      "text": "Cybersécurité et travail : des capacités à double usage"
+    },
+    {
+      "type": "paragraph",
+      "text": "[OpenAI indiquait en août 2026](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) que les tests d’Astra, non commercialisé à cette date, n’excluaient pas le seuil critique en cybersécurité. Sa [mise à jour du 1er septembre](https://openai.com/index/path-to-astra/) le classe ensuite à ce niveau et décrit des protections renforcées, une surveillance et des restrictions d’accès cyber avancé. Ce sont des évaluations du développeur, pas la preuve d’un fonctionnement public incontrôlé. Les capacités peuvent servir défenseurs ou attaquants. Permissions et confinement comptent autant que les compétences du modèle."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Les travaux de l’OIT de 2025 sur l’exposition professionnelle](https://www.ilo.org/publications/generative-ai-and-jobs-2025-update) distinguent tâches potentiellement affectées et emplois effectivement supprimés. La transformation est généralement plus plausible que le remplacement complet, car chaque métier combine plusieurs tâches. Cela n’écarte pas des effets sur salaires, accès au premier emploi et qualité du travail. Un indice d’exposition ne prédit pas un chômage universel ; une pause des modèles de pointe n’annulerait pas l’automatisation déjà engagée."
+    },
+    {
+      "type": "heading",
+      "text": "La course aux modèles de pointe et les engagements"
+    },
+    {
+      "type": "paragraph",
+      "text": "OpenAI, Anthropic, Google DeepMind, xAI, Meta et DeepSeek se disputent modèles, distribution et talents. Leurs documents publics ne forment pas une norme commune auditée. [OpenAI publie un Preparedness Framework](https://openai.com/index/updating-our-preparedness-framework/), [Anthropic une Responsible Scaling Policy](https://www.anthropic.com/responsible-scaling-policy) et [Google DeepMind un Frontier Safety Framework](https://deepmind.google/frontier-safety/). Un cadre décrit une procédure ; son influence réelle sur une décision exige des preuves d’application, de seuils et de contrôle indépendant."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La refonte d’Anthropic de février 2026](https://www.anthropic.com/news/responsible-scaling-policy-v3) explique les difficultés des engagements unilatéraux quand les concurrents ne suivent pas des règles comparables et développe son approche des rapports. Il ne faut pas lui attribuer une promesse de 2023 inchangée. [Le cadre publié de xAI](https://data.x.ai/2025-08-20-xai-risk-management-framework.pdf) traite usage malveillant et perte de contrôle ; [celui de Meta](https://about.fb.com/news/2025/02/meta-approach-frontier-ai/) décrit les décisions de publication selon le risque. [DeepSeek publie fiches et rapports techniques](https://www.deepseek.com/en/transparency/), sans établir par cela seul une gouvernance équivalente des risques de pointe."
+    },
+    {
+      "type": "heading",
+      "text": "La régulation dépasse déjà la question d’une pause"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Les orientations de la Commission européenne sur l’IA à usage général](https://digital-strategy.ec.europa.eu/en/faqs/guidelines-obligations-general-purpose-ai-providers) expliquent documentation, politique de droit d’auteur et résumés d’entraînement, avec obligations supplémentaires pour les modèles à risque systémique. Ce sont des exigences différenciées, pas une interdiction générale. [Les engagements de Séoul de 2024](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024) prévoyaient des seuils et l’arrêt du développement ou déploiement si des risques graves ne pouvaient être maîtrisés. Ils étaient volontaires, pas un traité exécutoire international."
+    },
+    {
+      "type": "paragraph",
+      "text": "Protection des lanceurs d’alerte, signalement d’incidents, tests indépendants et accès des évaluateurs publics répondent à des faiblesses différentes. Une entreprise peut détenir des informations inaccessibles ; un évaluateur externe manquer d’outils ou de temps. Le contrôle doit résoudre cette asymétrie sans diffuser des détails dangereux. La coopération internationale exige aussi définitions communes, mesures fiables et réponse convenue aux violations."
+    },
+    {
+      "type": "heading",
+      "text": "Que demanderait une pause réaliste ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "[La lettre ouverte de mars 2023](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) demandait au moins six mois sans entraînement de systèmes dépassant GPT-4. Une politique actuelle aurait besoin de davantage qu’une ancienne référence de modèle. L’analyse pratique pose plusieurs questions : capacités déclenchant la restriction, couverture de l’entraînement et du déploiement, activités autorisées, vérification et conditions de reprise. Une échéance fixe sans critères mesurables pourrait seulement reporter la décision non résolue."
+    },
+    {
+      "type": "paragraph",
+      "text": "La vérification pourrait inclure enregistrement des grands entraînements, accès contrôlé des évaluateurs, données d’infrastructure et déclaration d’incidents. Le calcul aide à repérer de grands projets, mais efficacité et techniques postérieures à l’entraînement compliquent une frontière matérielle seule. Les exceptions de recherche en sécurité devraient empêcher un simple changement d’étiquette. Ce sont des possibilités de conception, pas une pause mondiale déjà en vigueur."
+    },
+    {
+      "type": "heading",
+      "text": "Les arguments pour ralentir et les principales objections"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’argument de précaution considère qu’un dommage irréversible ne doit pas attendre une catastrophe pour justifier l’action. Du temps pourrait servir aux évaluations, à la recherche sur le contrôle, aux institutions et à la sécurité. Une règle commune réduirait le coût concurrentiel de la prudence. Ces avantages dépendent toutefois du travail accompli pendant la pause et de la couverture réelle des acteurs capables de continuer ailleurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les objections ne nient pas nécessairement les risques. Une restriction large pourrait retarder des outils scientifiques, favoriser les entreprises installées, déplacer la recherche vers l’opacité ou limiter la défense pendant que les attaquants s’adaptent. Une règle unilatérale serait difficile à imposer ailleurs. Des restrictions ciblées sur des capacités dangereuses démontrées, avec audits et contrôles de déploiement, constituent une autre option. Le choix exige des preuves sur dommages évités et bénéfices retardés."
+    },
+    {
+      "type": "heading",
+      "text": "Science, entreprises et société : les enjeux"
+    },
+    {
+      "type": "paragraph",
+      "text": "La question utile n’est pas de classer l’IA comme bonne ou mauvaise, mais de préciser quels systèmes, quelles permissions, quels risques et quels bénéficiaires. Aide scientifique et automatisation peuvent coexister avec failles de sécurité et gains inégaux. Notre [dossier Tesla Optimus face à Unitree](/articles/tesla-optimus-vs-unitree-humanoid-robots-2026/) montre pourquoi une démonstration convaincante ne prouve pas un déploiement autonome fiable. Les avertissements sur l’IA exigent la même discipline."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’intervention de Coxon met au jour une question de gouvernance : peut-on compter sur des entreprises concurrentes pour ralentir quand leurs incitations poussent à avancer ? Hinton souligne le contrôle ; Sanders propose une réponse juridique. Leurs avertissements méritent examen, leurs conclusions aussi. Notre [guide IA, AGI et superintelligence](/articles/from-ai-to-si-super-intelligence-trump-musk/) explique les termes ; une étiquette ne prouve pas une capacité acquise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une politique sérieuse doit modifier les décisions avant les dommages, produire des preuves vérifiables et permettre une application équitable. Demander une pause ouvre le débat. Définir périmètre, contrôle et conditions de reprise commence le travail difficile."
+    }
+  ],
+  "sources": [
+    {
+      "label": "New York City Council, 5 October 2026: hearing and Coxon testimony",
+      "url": "https://council.nyc.gov/press/2026/10/05/3278/"
+    },
+    {
+      "label": "Associated Press, 9 September 2026: Coxon’s resignation and reported employment history",
+      "url": "https://apnews.com/article/2ed549e07f2f941600a135070487d83d"
+    },
+    {
+      "label": "WIRED interview with Jacob Coxon, 9 September 2026",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/"
+    },
+    {
+      "label": "Axios interview with Coxon on his departure, 9 September 2026",
+      "url": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview"
+    },
+    {
+      "label": "Nobel Prize official recording: Geoffrey Hinton’s 10 December 2024 banquet speech",
+      "url": "https://www.youtube.com/watch?v=-f5WQAk3dYo"
+    },
+    {
+      "label": "Senator Sanders’ office, 23 September 2026: introduction of the Ban Artificial Superintelligence Act",
+      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/"
+    },
+    {
+      "label": "U.S. Government Publishing Office: S. 5493, introduced Senate text, sections 3, 8 and 9",
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5493is/html/BILLS-119s5493is.htm"
+    },
+    {
+      "label": "International AI Safety Report 2026, February edition: risks, evidence and limitations",
+      "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"
+    },
+    {
+      "label": "NIST, Generative AI Risk Management Profile, July 2024",
+      "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+    },
+    {
+      "label": "Anthropic and Redwood Research, Alignment faking in large language models, December 2024",
+      "url": "https://www.anthropic.com/research/alignment-faking"
+    },
+    {
+      "label": "OpenAI, Responding to the next frontier of critical cyber capabilities, August 2026",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"
+    },
+    {
+      "label": "OpenAI, updated Preparedness Framework, April 2025",
+      "url": "https://openai.com/index/updating-our-preparedness-framework/"
+    },
+    {
+      "label": "Anthropic, Responsible Scaling Policy and dated version history",
+      "url": "https://www.anthropic.com/responsible-scaling-policy"
+    },
+    {
+      "label": "Anthropic, Responsible Scaling Policy version 3.0, February 2026",
+      "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3"
+    },
+    {
+      "label": "Google DeepMind, Frontier Safety Framework and version history",
+      "url": "https://deepmind.google/frontier-safety/"
+    },
+    {
+      "label": "xAI, Risk Management Framework, 20 August 2025",
+      "url": "https://data.x.ai/2025-08-20-xai-risk-management-framework.pdf"
+    },
+    {
+      "label": "Meta, Our Approach to Frontier AI, updated April 2026",
+      "url": "https://about.fb.com/news/2025/02/meta-approach-frontier-ai/"
+    },
+    {
+      "label": "DeepSeek, official Transparency Center: model cards and technical reports",
+      "url": "https://www.deepseek.com/en/transparency/"
+    },
+    {
+      "label": "ILO, Generative AI and jobs: a 2025 update",
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-2025-update"
+    },
+    {
+      "label": "European Commission, obligations for general-purpose AI model providers",
+      "url": "https://digital-strategy.ec.europa.eu/en/faqs/guidelines-obligations-general-purpose-ai-providers"
+    },
+    {
+      "label": "UK and South Korean governments, Frontier AI Safety Commitments, Seoul 2024",
+      "url": "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024"
+    },
+    {
+      "label": "Future of Life Institute, Pause Giant AI Experiments open letter, 22 March 2023",
+      "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/"
+    },
+    {
+      "label": "OpenAI, Path to Astra: critical capabilities and frontier safeguards, 1 September 2026",
+      "url": "https://openai.com/index/path-to-astra/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Coxon dirigeait-il la sécurité d’Anthropic ?",
+      "answer": "Les sources le présentent comme chercheur en préentraînement. Son engagement public pour la sécurité ne prouve pas ce titre officiel."
+    },
+    {
+      "question": "Soutient-il une pause ?",
+      "answer": "Dans WIRED en septembre, il évoque un rythme coordonné internationalement et les limites d’une pause unilatérale. Cela ne prouve pas son soutien à toute interdiction ou proposition."
+    },
+    {
+      "question": "La pause de Sanders est-elle une interdiction nationale en vigueur ?",
+      "answer": "La source vérifiée est S. 5493, déposé le 23 septembre 2026. Dépôt et renvoi en commission ne sont pas promulgation ; les restrictions proposées ne sont pas du droit applicable."
+    },
+    {
+      "question": "Les expériences de tromperie prouvent-elles une prise de contrôle future ?",
+      "answer": "Non. Elles décrivent des comportements dans des conditions expérimentales, pas une catastrophe inévitable ni toutes les capacités nécessaires à une perte de contrôle mondiale."
+    },
+    {
+      "question": "Une pause arrêterait-elle toutes les applications ?",
+      "answer": "Pas nécessairement. Le périmètre peut distinguer entraînement, modification et déploiement. Recherche en sécurité et applications existantes doivent être traitées explicitement."
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+import { AiDangerGraphics } from "@/components/AiDangerGraphics";
 import { HumanApeDnaGraphics } from "@/components/HumanApeDnaGraphics";
 import { TaiwanCaptivesGraphics } from "@/components/TaiwanCaptivesGraphics";
 import { WorkAbroadGraphics } from "@/components/WorkAbroadGraphics";
@@ -319,6 +320,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "ai-danger-development-pause-coxon-hinton-sanders" && [11, 15, 24].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><AiDangerGraphics locale={locale} kind={originalIndex === 11 ? "timeline" : originalIndex === 15 ? "risks" : "companies"} /></div>;
+              }
               if (article.slug === "humans-apes-dna-similarity-chimpanzees-evolution" && [6, 9, 15, 23].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HumanApeDnaGraphics locale={locale} kind={originalIndex === 6 ? "similarity" : originalIndex === 9 ? "tree" : originalIndex === 15 ? "fusion" : "timeline"} /></div>;
               }
