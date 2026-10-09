@@ -1,0 +1,38 @@
+{
+  "en": {
+    "titles": ["1832–2026: a life measured across centuries", "Exceptional lifespans, different evidence", "From a genetic clue to an aging treatment"],
+    "notes": ["Jonathan’s hatch year is estimated. Events are listed chronologically; spacing does not represent elapsed time.", "Individual records and estimates, not average life expectancy. Bars begin at zero and share a 520-year scale. The shark’s outlined band shows the published 95.4% probability interval.", "The new paper identifies associations and proposes a mechanism. It does not establish a causal chain or a human therapy."],
+    "timeline": ["Around 1832: conventional estimated hatch year.", "1882: arrives on Saint Helena from the Seychelles, already mature.", "Around 2009: nutritional decline leads to veterinary intervention and hand-feeding.", "June 2026: Saint Helena welcomes Guinness ICON recognition.", "October 7, 2026: genome study published online; Guinness reports Jonathan alive. Estimated age: 194."],
+    "labels": ["Jeanne Calment: authenticated human record", "Jonathan: historically estimated tortoise age in 2026", "Greenland shark: modeled age of one specimen"],
+    "values": ["122 years + 164 days", "About 194 years", "392 years; interval 272–512"],
+    "science": ["Observed: sequence variants and methylation patterns in Jonathan’s cheek samples.", "Interpretation: stable regulation of mitochondrial and RNA-processing genes may support cellular maintenance.", "Limits: small comparison, tissue-specific samples, approximately 10% of the promoter set assessed; causality unproven.", "Next steps: replication and functional experiments before any assessment of safe human applications."],
+    "sources": "Sources", "unit": "Years", "comparisonCaveat": "Jonathan’s uncertainty is not quantified as a statistical interval. His bar must not be read as an exact age. The shark estimate is not a documented birth date."
+  },
+  "fr": {
+    "titles": ["1832–2026 : une vie à travers les siècles", "Longévités exceptionnelles, preuves différentes", "D’un indice génétique à un traitement"],
+    "notes": ["L’année d’éclosion de Jonathan est estimée. Liste chronologique ; l’espacement ne mesure pas les durées.", "Records et estimations individuels, pas espérances de vie moyennes. Échelle commune de zéro à 520 ans. La bande encadrée indique l’intervalle de probabilité publié à 95,4 % du requin.", "L’étude identifie des associations et propose un mécanisme, sans établir de chaîne causale ni de traitement humain."],
+    "timeline": ["Vers 1832 : année d’éclosion estimée conventionnelle.", "1882 : arrivée des Seychelles à Sainte-Hélène, déjà adulte.", "Vers 2009 : déclin nutritionnel, intervention vétérinaire et nourrissage manuel.", "Juin 2026 : Sainte-Hélène célèbre la reconnaissance ICON de Guinness.", "7 octobre 2026 : publication génomique en ligne et confirmation Guinness de sa survie. Âge estimé : 194 ans."],
+    "labels": ["Jeanne Calment : record humain authentifié", "Jonathan : âge estimé historiquement en 2026", "Requin du Groenland : âge modélisé d’un individu"],
+    "values": ["122 ans et 164 jours", "Environ 194 ans", "392 ans ; intervalle 272–512"],
+    "science": ["Observation : variants génétiques et méthylation dans des cellules buccales de Jonathan.", "Interprétation : stabilité des gènes mitochondriaux et du traitement de l’ARN, possible soutien à l’entretien cellulaire.", "Limites : petite comparaison, tissu particulier, environ 10 % des promoteurs évalués ; causalité non démontrée.", "Suite : réplication et expériences fonctionnelles avant d’envisager un bénéfice humain sûr."],
+    "sources": "Sources", "unit": "Années", "comparisonCaveat": "L’incertitude sur Jonathan n’est pas un intervalle statistique quantifié. Sa barre ne représente pas un âge exact. Le requin n’a pas de date de naissance documentée."
+  },
+  "es": {
+    "titles": ["1832–2026: una vida a través de los siglos", "Vidas excepcionales, pruebas distintas", "De una pista genética a un tratamiento"],
+    "notes": ["El año de nacimiento de Jonathan es estimado. Lista cronológica; el espacio no representa tiempo transcurrido.", "Registros y estimaciones individuales, no esperanza de vida media. Escala común de cero a 520 años. La banda delimitada muestra el intervalo publicado de probabilidad del 95,4 % del tiburón.", "El estudio identifica asociaciones y propone un mecanismo, sin demostrar una cadena causal ni un tratamiento humano."],
+    "timeline": ["Hacia 1832: año de nacimiento estimado convencional.", "1882: llega desde Seychelles a Santa Elena, ya adulto.", "Hacia 2009: deterioro nutricional, intervención veterinaria y alimentación manual.", "Junio de 2026: Santa Elena celebra el reconocimiento ICON de Guinness.", "7 de octubre de 2026: publicación genética en línea y confirmación Guinness de que sigue vivo. Edad estimada: 194 años."],
+    "labels": ["Jeanne Calment: récord humano autentificado", "Jonathan: edad estimada históricamente en 2026", "Tiburón de Groenlandia: edad modelada de un ejemplar"],
+    "values": ["122 años y 164 días", "Unos 194 años", "392 años; intervalo 272–512"],
+    "science": ["Observado: variantes y metilación en muestras bucales de Jonathan.", "Interpretación: regulación estable de genes mitocondriales y procesamiento de ARN como posible apoyo al mantenimiento celular.", "Límites: comparación pequeña, un tejido y aproximadamente el 10 % de los promotores evaluados; causalidad no probada.", "Próximos pasos: replicación y experimentos funcionales antes de evaluar aplicaciones humanas seguras."],
+    "sources": "Fuentes", "unit": "Años", "comparisonCaveat": "La incertidumbre de Jonathan no se cuantifica como intervalo estadístico. Su barra no indica edad exacta. El tiburón no tiene una fecha de nacimiento documentada."
+  },
+  "ar": {
+    "titles": ["1832–2026: حياة تمتد عبر القرون", "أعمار استثنائية وأدلة مختلفة", "من دليل جيني إلى علاج للشيخوخة"],
+    "notes": ["سنة فقس جوناثان تقديرية. الأحداث مرتبة زمنيا، ولا تمثل المسافات الزمن المنقضي.", "أرقام وتقديرات لأفراد، وليست متوسطات العمر المتوقع. يبدأ المقياس المشترك من الصفر إلى 520 سنة. يوضح النطاق المحدد فترة الاحتمال المنشورة البالغة 95.4% لعمر القرش.", "تحدد الدراسة ارتباطات وتقترح آلية، لكنها لا تثبت سلسلة سببية أو علاجا بشريا."],
+    "timeline": ["نحو 1832: سنة الفقس التقديرية المتعارف عليها.", "1882: يصل من سيشل إلى سانت هيلينا مكتمل النمو.", "نحو 2009: تدهور غذائي يعقبه تدخل بيطري وإطعام باليد.", "يونيو 2026: سانت هيلينا تحتفي بتكريم غينيس ICON.", "7 أكتوبر 2026: نشر الدراسة الجينومية على الإنترنت وتأكيد غينيس أنه حي. العمر المقدر: 194 سنة."],
+    "labels": ["جان كالمون: الرقم البشري الموثق", "جوناثان: عمر مقدر تاريخيا في 2026", "قرش غرينلاند: عمر فرد مقدر بنموذج"],
+    "values": ["122 سنة و164 يوما", "نحو 194 سنة", "392 سنة؛ النطاق 272–512"],
+    "science": ["الرصد: متغيرات جينية وأنماط مثيلة في عينات فموية لجوناثان.", "التفسير: استقرار تنظيم جينات الميتوكوندريا ومعالجة الحمض النووي الريبي قد يدعم صيانة الخلايا.", "القيود: مقارنة صغيرة ونسيج واحد ونحو 10% من المحفزات؛ السببية غير مثبتة.", "الخطوة التالية: تكرار النتائج وتجارب وظيفية قبل تقييم تطبيقات بشرية آمنة."],
+    "sources": "المصادر", "unit": "سنوات", "comparisonCaveat": "عدم اليقين في عمر جوناثان ليس فترة إحصائية محددة. لا يمثل شريطه عمرا دقيقا. وليس للقرش تاريخ ولادة موثق."
+  }
+}
