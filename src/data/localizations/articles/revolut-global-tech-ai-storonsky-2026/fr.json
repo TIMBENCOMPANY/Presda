@@ -1,0 +1,269 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/revolut-global-tech-ai-storonsky-2026/",
+  "path": "/fr/articles/revolut-global-tech-ai-storonsky-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr financial terminology and source parity review",
+    "reviewedAt": "2026-10-10",
+    "terminologyChecked": true
+  },
+  "title": "REVOLUT : DE LA BANQUE NUMÉRIQUE AU GÉANT TECHNOLOGIQUE MONDIAL",
+  "seoTitle": "Revolut : ambition technologique, IA et valorisation privée",
+  "description": "Nik Storonsky veut dépasser la banque. Modèles d’IA, résultats 2025, valorisation privée annoncée de 115 milliards de dollars et défis réglementaires.",
+  "excerpt": "Nik Storonsky veut dépasser la banque. Modèles d’IA, résultats 2025, valorisation privée annoncée de 115 milliards de dollars et défis réglementaires.",
+  "headlineHighlights": {
+    "red": "REVOLUT",
+    "gold": "GÉANT TECHNOLOGIQUE MONDIAL"
+  },
+  "keywords": [
+    "Revolut : ambition technologique, IA et valorisation privée",
+    "Revolut",
+    "Nik Storonsky",
+    "PRAGMA"
+  ],
+  "searchIntent": "Nik Storonsky veut dépasser la banque. Modèles d’IA, résultats 2025, valorisation privée annoncée de 115 milliards de dollars et défis réglementaires.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-10",
+  "updatedAt": "2026-10-10",
+  "image": {
+    "src": "/articles/revolut-headquarters-ai-editorial-illustration.png",
+    "alt": "Illustration éditoriale cinématographique générée par IA d’un siège portant la marque Revolut à l’heure bleue, pas une photographie authentique"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "L’ambition de Revolut dépasse désormais le compte bancaire. Au forum Wave by Vento, à Turin, le 9 octobre 2026, son directeur général Nik Storonsky a exposé son projet d’entreprise technologique mondiale au-delà des services financiers. [Reuters rapporte](https://www.marketscreener.com/news/revolut-aims-to-become-global-tech-company-beyond-banking-ceo-says-ce785ddcd88dff2c) qu’il a décrit des modèles d’IA propriétaires entraînés sur les transactions et une ambition comparable à celle des grandes entreprises technologiques américaines. C’est une orientation stratégique, pas la preuve d’une transformation déjà accomplie."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’enjeu est de transformer une plateforme financière très utilisée en moteur de nouveaux services. Mais la banque exige toujours capitaux, agréments, continuité opérationnelle et confiance. Une activité technologique plus large ajouterait des responsabilités sans effacer ces obligations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Illustration : le visuel cinématographique du siège est généré par IA. Ce n’est ni une photographie authentique d’un bureau Revolut ni un projet architectural documenté ou une preuve de son implantation. Les faits et agréments ont été vérifiés pour cet article le 10 octobre 2026."
+    },
+    {
+      "type": "heading",
+      "text": "Du change à une plateforme financière"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Revolut a été lancé en 2015 par Nik Storonsky et Vlad Yatsenko](https://www.revolut.com/discover-our-company/), pour faciliter les dépenses et transferts à l’étranger. Storonsky apportait son expérience des marchés financiers, Yatsenko celle du logiciel. Né à Londres, le groupe s’est développé autour d’une application plutôt que d’agences classiques. Le change a ouvert la voie à une relation beaucoup plus large avec les clients."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Le rapport annuel 2025](https://assets.revolut.com/pdf/annualreport2025.pdf) montre la diversification : paiements, abonnements, patrimoine, change et comptes professionnels. Onze lignes de produits ont chacune dépassé 100 millions de livres de revenus. Disponibilité et prestataires juridiques varient selon le pays. Une marque commune ne signifie pas les mêmes produits réglementés partout."
+    },
+    {
+      "type": "heading",
+      "text": "La stratégie d’IA derrière l’annonce de Storonsky"
+    },
+    {
+      "type": "paragraph",
+      "text": "Storonsky évoque 30 à 40 millions de transactions quotidiennes, selon [le compte rendu de Reuters à Turin](https://www.marketscreener.com/news/revolut-aims-to-become-global-tech-company-beyond-banking-ceo-says-ce785ddcd88dff2c). Cette fourchette est déclarée par le dirigeant, pas une série quotidienne auditée séparément. Les transactions ne sont pas des clients uniques. Un grand jeu de données ne prouve ni précision, ni sécurité, ni droit de réutiliser chaque information. L’argument stratégique porte sur les séquences financières et les tendances liées aux risques et aux besoins."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Revolut Research, annoncé le 25 août](https://www.revolut.com/news/revolut_announces_launch_of_dedicated_ai_research_division_revolut_research/), concrétise une partie du projet. Revolut présente PRAGMA comme son modèle fondation propriétaire pour les transactions. [L’étude technique de NVIDIA](https://www.nvidia.com/en-us/case-studies/revolut/) décrit des modèles à transformeurs exploitant profils, événements et historique pour la fraude, le crédit et les recommandations. Il s’agit de comportements financiers, pas de la preuve d’un chatbot général rival des grands modèles de langage. Les progrès annoncés reposent sur des tests internes, sans garantie indépendante pour chaque client."
+    },
+    {
+      "type": "paragraph",
+      "text": "[AIR, l’assistant intégré](https://help.revolut.com/help/profile-and-plan/getting-started-with-air/), est déjà présenté par l’aide britannique comme capable de suivre les dépenses et d’effectuer des actions demandées. L’annonce d’août le limitait au Royaume-Uni ; l’aide précise un déploiement progressif. Ce statut est plus concret qu’une promesse d’agents autonomes partout. L’automatisation financière devra prévoir autorisations claires, confirmation des actions importantes, gestion des erreurs et accès à un humain. Une réponse d’assistant n’équivaut pas à un conseil d’investissement réglementé."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que montrent les comptes de 2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Le compte de résultat consolidé audité, page 96](https://assets.revolut.com/pdf/annualreport2025.pdf), indique 4,516 milliards de livres de revenus en 2025, contre 3,090 milliards en 2024. Le bénéfice avant impôt passe de 1,089 à 1,713 milliard ; le bénéfice net de 790 millions à 1,305 milliard. Ce sont des résultats du groupe, pas de chaque banque agréée. [L’annonce des résultats](https://www.revolut.com/en-GB/news/revolut_reports_record_profit_of_2_3bn_for_2025_as_revenue_surges_to_6bn/) donne environ 6 milliards de dollars de revenus et 2,3 milliards de bénéfice avant impôt. Les taux de croissance sont calculés en GBP, pas à partir des conversions en dollars."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les clients particuliers passent de 52,5 à 68,3 millions entre les fins de 2024 et 2025 ; les entreprises de 578 000 à 767 000. La marge avant impôt atteint 37,9 %, contre 35,2 %. Les 50,2 milliards de livres de soldes clients incluent épargne chez des partenaires et Flexible Cash Funds, en plus des dépôts au bilan. Ce ne sont pas tous des dépôts détenus directement par les banques Revolut. Le seuil supérieur à 80 millions de clients annoncé en [août 2026](https://www.revolut.com/news/revolut_announces_launch_of_dedicated_ai_research_division_revolut_research/) est un jalon ultérieur, pas le bilan de fin d’année ni un nombre d’utilisateurs actifs mensuels."
+    },
+    {
+      "type": "heading",
+      "text": "Une valorisation privée de 115 milliards de dollars"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Reuters rapporte une valorisation implicite de 115 milliards de dollars pour la vente secondaire de juillet 2026](https://live.euronext.com/en/financial-news/revolut-starts-share-sale-115-billion-valuation-source-says), selon une source connaissant les conditions. Sa couverture d’octobre utilise encore cette valeur privée. Parmi les jalons antérieurs figurent [la série E de 800 millions de dollars à 33 milliards de valorisation en 2021](https://www.revolut.com/news/revolut_raises_800m_series_e_funding_from_softbank_vision_fund_2_and_tiger_global/) et [la vente d’actions finalisée à 75 milliards en novembre 2025](https://www.revolut.com/news/revolut_completes_fundraising_process_establishing_75_billion_valuation/), avec notamment Coatue, Greenoaks, Dragoneer, Fidelity et NVentures. Ce sont des opérations différentes, pas un cours boursier continu."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une vente secondaire, des actionnaires existants cèdent leurs titres. Ils reçoivent des liquidités, sans que le groupe obtienne automatiquement un financement neuf équivalent. Une valorisation privée des capitaux propres n’est ni un revenu ni de la trésorerie, et n’est pas une capitalisation boursière. Comparer avec des banques cotées suppose de tenir compte de la liquidité, des droits des titres, de l’information et des dates."
+    },
+    {
+      "type": "heading",
+      "text": "Expansion mondiale : des agréments différents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au Royaume-Uni, [Revolut annonce le 11 mars 2026 la levée des restrictions de mobilisation par la PRA](https://www.revolut.com/news/revolut_launches_uk_bank/) et l’autorisation de lancer Revolut Bank UK Ltd. La [liste actuelle de la Banque d’Angleterre](https://www.bankofengland.co.uk/prudential-regulation/new-bank-start-up-unit/new-banks-authorised-since-2013) confirme son statut autorisé. La migration annoncée était progressive : monnaie électronique et dépôts bancaires relèvent de dispositifs distincts. Un jalon du groupe ne détermine pas le prestataire ou la protection de chaque compte individuel."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Revolut annonce un agrément bancaire français complet pour Revolut Bank S.A. le 10 août](https://www.revolut.com/fr-FR/news/revolut_receives_french_banking_licence/), après examen de l’ACPR et de la BCE et décision de la BCE. Le groupe conserve Revolut Bank UAB en Lituanie dans un modèle à deux pôles. Le service d’autres marchés d’Europe occidentale via l’entité française reste progressif. Le nouveau siège régional parisien est prévu pour 2027, pas déjà ouvert selon cette annonce."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aux États-Unis, le statut est conditionnel. [La décision OCC 1390 du 2 septembre](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1390.pdf) accorde explicitement un accord préliminaire conditionnel, pas une ouverture immédiate. L’autorisation finale nécessite les conditions préalables, l’assurance FDIC et les dispositions liées à la Réserve fédérale ; le change de détail exige aussi une non-objection prudentielle. [Revolut vise 2027 pour cette banque proposée](https://www.revolut.com/news/revolut_receives_conditional_approval_from_u_s_office_of_the_comptroller_of_the_currency_to_form_a_national_bank/). Le document OCC décrit des services américains existants via des banques partenaires. Ce modèle actuel est distinct de la future banque nationale."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’implantation comprend des opérations bancaires au Mexique et les agréments annoncés en 2026 en Australie et en France, ainsi qu’une licence de paiement aux Émirats. Ces autorisations diffèrent. [L’engagement d’investissement de 10 milliards de livres sur cinq ans](https://www.revolut.com/en-GB/news/revolut_reports_record_profit_of_2_3bn_for_2025_as_revenue_surges_to_6bn/) est un projet de croissance et d’innovation, pas une dépense achevée ou la garantie de tous les agréments visés. L’exécution locale compte autant que la technologie."
+    },
+    {
+      "type": "heading",
+      "text": "Le défi réglementaire et de cybersécurité"
+    },
+    {
+      "type": "paragraph",
+      "text": "En avril 2025, [la Banque de Lituanie annonce une amende de 3,5 millions d’euros](https://www.lb.lt/lt/naujienos/lietuvos-banko-valdybos-nutarimai-235) pour des faiblesses des contrôles antiblanchiment et de surveillance des transactions de Revolut Bank UAB. Le régulateur précise que la banque a reconnu les lacunes et convenu d’un plan correctif. Ce sont des défaillances de contrôle, pas la preuve que chaque transaction signalée était du blanchiment. Croître vite renforce l’importance du suivi, des réclamations et des responsabilités."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Reuters rapporte le 12 septembre 2026](https://www.lse.co.uk/news/revolut-confirms-sensitive-customer-data-breach-falling-for-fake-government-requests-aw6p46xmcdep86r.html?mobile_view=desktop) une transmission de données sensibles à un tiers non autorisé après de fausses demandes provenant d’un domaine électronique d’agence gouvernementale légitime. Revolut dit avoir bloqué l’adresse, alerté les autorités, et que ses systèmes et fonds clients n’étaient pas affectés. Aucun nombre exact de clients touchés n’est donné à Reuters. L’incident concerne divulgation et usurpation, pas un vol de fonds établi ou une fuite causée par l’IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La notice des assistants IA de Revolut](https://www.revolut.com/legal/rita-disclaimer/) indique l’usage possible des données de l’application et des dépenses, ainsi que le partage d’informations pertinentes avec des partenaires technologiques. Elle avertit aussi des erreurs ou réponses incomplètes. Elle concerne les assistants, pas tous les aspects de l’entraînement de PRAGMA. Limitation des finalités, accès, conservation, biais et contrôle des décisions financières sont des enjeux distincts. L’automatisation ne devrait pas supprimer des choix compréhensibles sur les données sensibles."
+    },
+    {
+      "type": "heading",
+      "text": "Rivaliser avec banques et fintechs simultanément"
+    },
+    {
+      "type": "paragraph",
+      "text": "[L’analyse de Reuters en octobre](https://www.investing.com/news/economy-news/revoluts-rise-to-become-europes-115-billion-big-bank-rival-4930922) souligne l’écart entre le nombre de clients de Revolut et son crédit ou revenu par client plus limité que celui des banques établies. Barclays, HSBC et Santander disposent de relations de crédit plus profondes et de bilans installés. Wise, Monzo, N26 et Nubank concurrencent des marchés voisins de paiements, comptes et services numériques. Produits, géographie et définitions des clients diffèrent. Une valorisation privée supérieure ne prouve pas davantage de profits, de prêts ou une meilleure maîtrise des risques."
+    },
+    {
+      "type": "heading",
+      "text": "Préférer une IPO américaine n’est pas annoncer une cotation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon [Reuters le 9 octobre](https://www.marketscreener.com/news/revolut-aims-to-become-global-tech-company-beyond-banking-ceo-says-ce785ddcd88dff2c), Storonsky a indiqué la veille à Bloomberg TV préférer une cotation principale aux États-Unis si Revolut entrait en Bourse. Les sources établissent une préférence, pas une date d’IPO, une place, un prospectus ou un prix approuvés. La liquidité secondaire privée peut permettre une sortie sans offre publique. Une cotation future ajouterait des attentes de marché et de transparence, sans retirer les obligations réglementaires des filiales bancaires."
+    },
+    {
+      "type": "heading",
+      "text": "Revolut peut-il devenir un géant technologique européen ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les atouts sont importants : activité rentable, nombreux clients, modèles financiers propriétaires et plateforme multinationale. Une entreprise technologique plus large aurait besoin de services choisis au-delà de la finance, de revenus durables issus de ces services et d’une gouvernance à grande échelle. L’annonce d’octobre expose l’ambition ; comptes et agréments documentent le point de départ. Ils ne déterminent pas l’issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinction entre capacités et déploiement responsable traverse aussi notre enquête sur [le développement et la sécurité de l’IA](/articles/ai-danger-development-pause-coxon-hinton-sanders/). Notre [article sur les lunettes Meta](/articles/meta-ray-ban-privacy-europe/) aborde une autre dimension de la vie privée. La prochaine étape de Revolut se mesurera à l’utilité, aux contrôles fiables et à l’économie durable, pas à l’étiquette technologique."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Reuters, October 9, 2026: Storonsky’s technology vision",
+      "url": "https://www.marketscreener.com/news/revolut-aims-to-become-global-tech-company-beyond-banking-ceo-says-ce785ddcd88dff2c"
+    },
+    {
+      "label": "Revolut: founders and company background",
+      "url": "https://www.revolut.com/discover-our-company/"
+    },
+    {
+      "label": "Revolut Group Holdings: audited 2025 annual report, pp. 12, 96, 199",
+      "url": "https://assets.revolut.com/pdf/annualreport2025.pdf"
+    },
+    {
+      "label": "Revolut: 2025 results and currency methodology",
+      "url": "https://www.revolut.com/en-GB/news/revolut_reports_record_profit_of_2_3bn_for_2025_as_revenue_surges_to_6bn/"
+    },
+    {
+      "label": "Revolut Research announcement, August 25, 2026",
+      "url": "https://www.revolut.com/news/revolut_announces_launch_of_dedicated_ai_research_division_revolut_research/"
+    },
+    {
+      "label": "NVIDIA: PRAGMA transaction foundation model case study",
+      "url": "https://www.nvidia.com/en-us/case-studies/revolut/"
+    },
+    {
+      "label": "Revolut Help Centre: AIR capabilities and gradual rollout",
+      "url": "https://help.revolut.com/help/profile-and-plan/getting-started-with-air/"
+    },
+    {
+      "label": "Revolut: AI assistant personal-data notice",
+      "url": "https://www.revolut.com/legal/rita-disclaimer/"
+    },
+    {
+      "label": "Revolut: $800 million Series E, July 2021",
+      "url": "https://www.revolut.com/news/revolut_raises_800m_series_e_funding_from_softbank_vision_fund_2_and_tiger_global/"
+    },
+    {
+      "label": "Revolut: 2024 annual report and $45 billion secondary valuation",
+      "url": "https://assets.revolut.com/pdf/annualreport2024.pdf"
+    },
+    {
+      "label": "Revolut: completed $75 billion share sale, November 24, 2025",
+      "url": "https://www.revolut.com/news/revolut_completes_fundraising_process_establishing_75_billion_valuation/"
+    },
+    {
+      "label": "Reuters via Euronext: reported $115 billion secondary valuation, July 22, 2026",
+      "url": "https://live.euronext.com/en/financial-news/revolut-starts-share-sale-115-billion-valuation-source-says"
+    },
+    {
+      "label": "Revolut: UK bank launch, March 11, 2026",
+      "url": "https://www.revolut.com/news/revolut_launches_uk_bank/"
+    },
+    {
+      "label": "Bank of England: current authorised-bank list",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/new-bank-start-up-unit/new-banks-authorised-since-2013"
+    },
+    {
+      "label": "Revolut: French banking licence, August 10, 2026",
+      "url": "https://www.revolut.com/fr-FR/news/revolut_receives_french_banking_licence/"
+    },
+    {
+      "label": "OCC Corporate Decision 1390, September 2, 2026",
+      "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1390.pdf"
+    },
+    {
+      "label": "Revolut: conditional U.S. approval and remaining requirements",
+      "url": "https://www.revolut.com/news/revolut_receives_conditional_approval_from_u_s_office_of_the_comptroller_of_the_currency_to_form_a_national_bank/"
+    },
+    {
+      "label": "Bank of Lithuania: April 2025 administrative agreement and fine",
+      "url": "https://www.lb.lt/lt/naujienos/lietuvos-banko-valdybos-nutarimai-235"
+    },
+    {
+      "label": "Reuters, September 12, 2026: customer-data disclosure",
+      "url": "https://www.lse.co.uk/news/revolut-confirms-sensitive-customer-data-breach-falling-for-fake-government-requests-aw6p46xmcdep86r.html?mobile_view=desktop"
+    },
+    {
+      "label": "Reuters, October 4, 2026: Revolut and established-bank competition",
+      "url": "https://www.investing.com/news/economy-news/revoluts-rise-to-become-europes-115-billion-big-bank-rival-4930922"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Revolut vaut-il 115 milliards de dollars en Bourse ?",
+      "answer": "Non. Il s’agit d’une valorisation privée implicite rapportée pour une vente secondaire, pas d’une capitalisation boursière."
+    },
+    {
+      "question": "Quel était le bénéfice de Revolut en 2025 ?",
+      "answer": "Les comptes audités du groupe indiquent 1,713 milliard de livres avant impôt et 1,305 milliard de bénéfice net. Ce sont deux mesures différentes."
+    },
+    {
+      "question": "La banque nationale américaine de Revolut fonctionne-t-elle déjà ?",
+      "answer": "La décision OCC examinée donne un accord préliminaire conditionnel. Autorisation finale et conditions préalables restent nécessaires ; Revolut vise 2027."
+    },
+    {
+      "question": "Les 30 à 40 millions de transactions quotidiennes sont-ils audités ?",
+      "answer": "La fourchette est attribuée aux propos du 9 octobre de Storonsky rapportés par Reuters. Ce n’est pas une série quotidienne auditée indépendamment."
+    },
+    {
+      "question": "Les services d’IA sont-ils disponibles partout ?",
+      "answer": "Non. AIR était décrit comme limité au Royaume-Uni en août, avec déploiement progressif. Produits et prestataires varient selon les marchés."
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+import { revolutArticle } from "@/data/revolutArticle";
 import { panamaEarthquakeArticle } from "@/data/panamaEarthquakeArticle";
 import { virginTrainsArticle } from "@/data/virginTrainsArticle";
 import { aiDangerArticle } from "@/data/aiDangerArticle";
@@ -35649,7 +35650,8 @@ export const articles: Article[] = [
   humanApeDnaArticle,
   aiDangerArticle,
   virginTrainsArticle,
-  panamaEarthquakeArticle
+  panamaEarthquakeArticle,
+  revolutArticle
 ];
 
 export const categories: ArticleCategory[] = [
