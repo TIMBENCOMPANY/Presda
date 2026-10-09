@@ -6,7 +6,7 @@ import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { AdSenseProvider } from "@/components/AdSenseProvider";
 import { ConsentAnalytics } from "@/components/ConsentAnalytics";
-import { parseAdSenseConfig } from "@/lib/adsenseConfig";
+import { getAdSenseAccountConfig } from "@/lib/adsenseAccountConfig";
 import { discoveryRobots, organizationJsonLd } from "@/lib/seo";
 import "@/app/globals.css";
 import type { Locale } from "@/lib/i18n/routing";
@@ -68,7 +68,7 @@ export function PublicationDocument({ children, locale = "en" }: Readonly<{ chil
   return (
     <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"} className={`${orbitron.variable} ${inter.variable} ${articleDisplay.variable}`}>
       <body>
-        <AdSenseProvider config={parseAdSenseConfig(process.env)}>
+        <AdSenseProvider config={getAdSenseAccountConfig(process.env)}>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
