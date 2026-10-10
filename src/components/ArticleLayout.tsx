@@ -46,6 +46,7 @@ import type { CSSProperties } from "react";
 import type { Article } from "@/data/articles";
 import { ArticleReadingProgress } from "@/components/ArticleReadingProgress";
 import { HeadlineText } from "@/components/HeadlineText";
+import { getPremiumHeroHighlights, PremiumHeroHeadline } from "@/components/PremiumHeroHeadline";
 import { NewsletterBox } from "@/components/NewsletterBox";
 import { RelatedArticles } from "@/components/RelatedArticles";
 import { ShareButtons } from "@/components/ShareButtons";
@@ -204,6 +205,7 @@ function formatHeroDate(date: string) {
 export function ArticleLayout({ article, relatedArticles, locale = "en", canonicalPath, relatedPaths, localizedBlocks }: ArticleLayoutProps) {
   const t = messages[locale];
   const labels = articleLabels[locale];
+  const premiumHeroHighlights = getPremiumHeroHighlights(article.slug, locale);
   const dateLabel = (date: string) => locale === "en" ? formatDate(date) : new Intl.DateTimeFormat(locale, { dateStyle: "medium", timeZone: "UTC" }).format(new Date(date));
   const canonicalUrl = `https://presda.com${canonicalPath ?? `/articles/${article.slug}/`}`;
   const sections = getArticleSections(article);
@@ -262,7 +264,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
 
             <div className="article-hero-heading min-w-0 max-w-[800px]">
               <h1 className={`article-hero-title text-white${article.slug === "meta-ray-ban-privacy-europe" ? " article-hero-title-meta-privacy" : ""}${locale === "en" && article.slug === "iran-hormuz-closed-conditions-energy-shipping" ? " article-hero-title-hormuz" : ""}`}>
-                <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} whiteText={locale === "en" && article.slug === "casablanca-madrid-2030-world-cup-final" ? "vs" : undefined} />
+                {premiumHeroHighlights ? <PremiumHeroHeadline title={article.title} highlights={premiumHeroHighlights} /> : <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} whiteText={locale === "en" && article.slug === "casablanca-madrid-2030-world-cup-final" ? "vs" : undefined} />}
               </h1>
               <div className="mt-5 max-w-[29rem] border-s-[5px] border-[#FF1A1A] ps-4 sm:mt-6 sm:ps-5">
                 <p className="editorial-deck article-hero-deck">
