@@ -1081,6 +1081,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/france-student-protests-macron-october-2026/",
+    "path": "/ar/articles/france-student-protests-macron-october-2026/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/france-student-protests-macron-october-2026/",
+    "path": "/es/articles/france-student-protests-macron-october-2026/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/france-student-protests-macron-october-2026/",
+    "path": "/fr/articles/france-student-protests-macron-october-2026/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/frb-20240304b-ten-billion-year-signal-cosmic-record/",
     "path": "/ar/articles/frb-20240304b-ten-billion-year-signal-cosmic-record/"
   },

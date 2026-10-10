@@ -1,3 +1,4 @@
+import { FranceProtestsGraphics } from "@/components/FranceProtestsGraphics";
 import { RevolutGraphics } from "@/components/RevolutGraphics";
 import { PanamaEarthquakeGraphic } from "@/components/PanamaEarthquakeGraphic";
 import { AiDangerGraphics } from "@/components/AiDangerGraphics";
@@ -322,6 +323,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "france-student-protests-macron-october-2026" && [10, 13].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FranceProtestsGraphics locale={locale} kind={originalIndex === 10 ? "timeline" : "turnout"} /></div>;
+              }
               if (article.slug === "revolut-global-tech-ai-storonsky-2026" && [12, 15].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><RevolutGraphics locale={locale} kind={originalIndex === 12 ? "finance" : "valuation"} /></div>;
               }
