@@ -1,3 +1,4 @@
+import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { ArtificialBloodGraphics } from "@/components/ArtificialBloodGraphics";
 import { PassportGraphics } from "@/components/PassportGraphics";
 import { RobotaxiGraphics } from "@/components/RobotaxiGraphics";
@@ -326,6 +327,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "world-most-expensive-watches-2026" && originalIndex === 4) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WatchPriceComparison locale={locale} /></div>;
+              }
               if (article.slug === "artificial-blood-lab-grown-red-cells-restore-japan" && [18, 23].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ArtificialBloodGraphics locale={locale} kind={originalIndex === 18 ? "trials" : "comparison"} /></div>;
               }
