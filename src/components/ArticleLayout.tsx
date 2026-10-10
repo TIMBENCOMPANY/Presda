@@ -1,3 +1,4 @@
+import { PassportGraphics } from "@/components/PassportGraphics";
 import { RobotaxiGraphics } from "@/components/RobotaxiGraphics";
 import { FranceProtestsGraphics } from "@/components/FranceProtestsGraphics";
 import { RevolutGraphics } from "@/components/RevolutGraphics";
@@ -324,6 +325,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "world-most-powerful-passports-2026-henley-index" && [4, 13, 15, 17].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><PassportGraphics locale={locale} kind={originalIndex === 4 ? "global" : originalIndex === 13 ? "africa" : originalIndex === 15 ? "arab" : "gap"} /></div>;
+              }
               if (article.slug === "robotaxi-revolution-tesla-waymo-zoox-baidu-2026" && [4, 18, 29, 32].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><RobotaxiGraphics locale={locale} kind={originalIndex === 4 ? "comparison" : originalIndex === 18 ? "levels" : originalIndex === 29 ? "cities" : "timeline"} /></div>;
               }
