@@ -1,3 +1,4 @@
+import { ArtificialBloodGraphics } from "@/components/ArtificialBloodGraphics";
 import { PassportGraphics } from "@/components/PassportGraphics";
 import { RobotaxiGraphics } from "@/components/RobotaxiGraphics";
 import { FranceProtestsGraphics } from "@/components/FranceProtestsGraphics";
@@ -325,6 +326,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "artificial-blood-lab-grown-red-cells-restore-japan" && [18, 23].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ArtificialBloodGraphics locale={locale} kind={originalIndex === 18 ? "trials" : "comparison"} /></div>;
+              }
               if (article.slug === "world-most-powerful-passports-2026-henley-index" && [4, 13, 15, 17].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><PassportGraphics locale={locale} kind={originalIndex === 4 ? "global" : originalIndex === 13 ? "africa" : originalIndex === 15 ? "arab" : "gap"} /></div>;
               }

@@ -1,0 +1,310 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/artificial-blood-lab-grown-red-cells-restore-japan/",
+  "path": "/es/articles/artificial-blood-lab-grown-red-cells-restore-japan/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es scientific terminology and primary-source parity review",
+    "reviewedAt": "2026-10-10",
+    "terminologyChecked": true
+  },
+  "title": "¿PUEDEN LOS CIENTÍFICOS CREAR SANGRE ARTIFICIAL?",
+  "seoTitle": "Sangre artificial en 2026: RESTORE, células cultivadas y Japón",
+  "description": "Qué pueden hacer las células cultivadas y los transportadores de oxígeno, qué muestran RESTORE y Japón y por qué las donaciones siguen siendo esenciales.",
+  "excerpt": "Qué pueden hacer las células cultivadas y los transportadores de oxígeno, qué muestran RESTORE y Japón y por qué las donaciones siguen siendo esenciales.",
+  "headlineHighlights": {
+    "red": "¿PUEDEN LOS CIENTÍFICOS CREAR",
+    "gold": "SANGRE ARTIFICIAL"
+  },
+  "keywords": [
+    "Sangre artificial",
+    "Glóbulos rojos cultivados",
+    "Ensayo RESTORE",
+    "Vesículas de hemoglobina",
+    "Ciencia transfusional"
+  ],
+  "searchIntent": "Qué pueden hacer las células cultivadas y los transportadores de oxígeno, qué muestran RESTORE y Japón y por qué las donaciones siguen siendo esenciales.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-10",
+  "updatedAt": "2026-10-10",
+  "image": {
+    "src": "/articles/artificial-blood-donation-ai-editorial-illustration.png",
+    "alt": "Ilustración editorial generada por IA de una bolsa de donación, no una fotografía auténtica de un ensayo ni un producto de sangre artificial"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Los científicos pueden cultivar glóbulos rojos humanos y fabricar partículas que transportan oxígeno. No han establecido un reemplazo fabricado de todas las funciones de la sangre. En octubre de 2026, la pregunta útil es qué función sustituye cada producto, qué se ha probado en personas y qué sigue siendo experimental."
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación separa células biológicas cultivadas, transportadores de oxígeno no celulares y sangre completa. Las pruebas se verificaron hasta el 10 de octubre de 2026. Registro, autorización del ensayo y final del seguimiento no equivalen a beneficio demostrado ni aprobación rutinaria. Las fuentes revisadas no establecen resultados comparativos finales de RESTORE ni eficacia de NMU-HbV en pacientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilustración: la bolsa de donación es una creación editorial de IA, no una fotografía de un participante RESTORE, un ensayo japonés o un producto aprobado. Bolsa y etiqueta no prueban transfusión real, dosis ni compatibilidad universal."
+    },
+    {
+      "type": "heading",
+      "text": "La sangre es un sistema, no solo un líquido rojo"
+    },
+    {
+      "type": "paragraph",
+      "text": "[El NIH explica los componentes sanguíneos](https://www.nhlbi.nih.gov/health/blood-tests): glóbulos rojos para oxígeno, blancos inmunitarios, plaquetas que ayudan a detener hemorragias y plasma líquido. La hemoglobina de los glóbulos rojos fija oxígeno. El plasma contiene proteínas y otras sustancias; coagular requiere más que transportar oxígeno. Reproducir una función no reproduce el sistema entero."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conseguir células compatibles puede ser difícil para grupos raros o personas con anticuerpos tras transfusiones. Hay emergencias lejos de bancos de sangre. Un transportador almacenable podría ganar tiempo; células cultivadas podrían aportar compatibilidades difíciles. Son problemas diferentes, sin una única solución necesariamente."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo cultivar un glóbulo rojo"
+    },
+    {
+      "type": "paragraph",
+      "text": "[RESTORE usa células madre y progenitoras CD34 positivas de sangre adulta de donantes](https://www.nhsbt.nhs.uk/clinical-trials-unit/trials-and-studies/blood-and-transfusion/restore/). Los investigadores las expanden y orientan su maduración con nutrientes y señales controlados. Obtienen células jóvenes, reticulocitos, y eliminan material no deseado. El producto transfusional es biológico, no un químico sintético ni un trasplante de células madre. El cultivo no elimina automáticamente sus marcadores sanguíneos."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Un estudio de Blood de 2011](https://pubmed.ncbi.nlm.nih.gov/21885599/) aportó una prueba humana al reinfundir células cultivadas a quien había proporcionado las células madre. Esa experiencia autóloga precede a posteriores titulares de primicia mundial. RESTORE compara células cultivadas de un donante con células estándar en otros voluntarios compatibles. La viabilidad inicial no demuestra un reemplazo industrial."
+    },
+    {
+      "type": "paragraph",
+      "text": "[El trabajo BEL-A de Nature Communications de 2017](https://www.nature.com/articles/ncomms14750) mostró una línea eritroide adulta continuamente expandible que produce células jóvenes funcionales. Esas líneas y las células pluripotentes inducidas ofrecen posibles rutas más allá de recolectar material repetidamente. Expansión, maduración, eliminación de células nucleadas residuales y calidad siguen siendo retos distintos. Una línea de laboratorio no es un producto transfusional autorizado."
+    },
+    {
+      "type": "heading",
+      "text": "RESTORE: qué ha establecido el ensayo británico"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHSBT describe RESTORE como fase I aleatorizada, de cegamiento simple y cruzada](https://www.nhsbt.nhs.uk/clinical-trials-unit/trials-and-studies/blood-and-transfusion/restore/), dirigida por Cedric Ghevaert y Rebecca Cardigan con socios británicos. Voluntarios sanos reciben células cultivadas y estándar del mismo donante en visitas separadas. El [registro ISRCTN42886452](https://www.isrctn.com/pdf/42886452) especifica seguridad, supervivencia y recuperación. La mayor permanencia de una población uniformemente joven es una hipótesis a comprobar."
+    },
+    {
+      "type": "paragraph",
+      "text": "[El anuncio de noviembre de 2022](https://www.nhsbt.nhs.uk/news/first-ever-clinical-trial-of-laboratory-grown-red-blood-cells-being-transfused-into-another-person/) describió minitransfusiones de unos 5–10 mL y ausencia de efectos indeseados reportados en los dos primeros receptores. Eran observaciones iniciales, no el análisis final ni prueba de mayor supervivencia. Pequeñas dosis en voluntarios sanos no demuestran beneficios terapéuticos en anemia falciforme, talasemia o hemorragia grave."
+    },
+    {
+      "type": "paragraph",
+      "text": "[NIHR BioResource anunció el 11 de febrero de 2026 que el último lote se había producido y administrado](https://bioresource.nihr.ac.uk/news/final-batch-of-red-blood-cells-produced-in-restore). La [página actual de NHSBT](https://www.nhsbt.nhs.uk/component-development-laboratory/our-work/translational-projects/) indica seguimiento finalizado y resultados esperados en 2026 o 2027. Es un hito del estudio, no un resultado publicado de mayor supervivencia. No inventamos tamaño del efecto ni éxito terapéutico."
+    },
+    {
+      "type": "heading",
+      "text": "Las vesículas japonesas son otra tecnología"
+    },
+    {
+      "type": "paragraph",
+      "text": "El programa japonés asociado a Nara Medical University encapsula hemoglobina humana purificada en cápsulas lipídicas, las HbV. NMU-HbV imita una función de transporte de oxígeno sin ser un glóbulo vivo. La materia prima humana impide llamarlo totalmente sintético o necesariamente independiente de donaciones. La cápsula busca aislar interacciones que dificultaron transportadores anteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "[El primer estudio humano, publicado en Blood Advances en 2022](https://pubmed.ncbi.nlm.nih.gov/35939788/), examinó dosis hasta 100 mL en voluntarios sanos. Hubo reacciones de infusión y fiebre; se detuvo una infusión tras una erupción. Las anomalías notificadas se resolvieron; el pequeño análisis farmacocinético halló una semivida circulante de unas ocho horas. Es evidencia preliminar de seguridad y eliminación, no supervivencia mejorada en shock hemorrágico ni una duración aplicable a cualquier formulación futura."
+    },
+    {
+      "type": "paragraph",
+      "text": "[El artículo BMJ Open del 22 de enero de 2026](https://doi.org/10.1136/bmjopen-2025-110183) es un protocolo de fase Ib, no resultados. Propone 16 adultos sanos en cuatro cohortes: dos de 100 mL con velocidades distintas, luego 200 y 400 mL. Evalúa seguridad y farmacocinética. Los 400 mL son una dosis prevista, no eficacia establecida, una unidad aprobada ni prueba de que todos la recibieran."
+    },
+    {
+      "type": "paragraph",
+      "text": "El [registro japonés jRCT2051240249](https://rctportal.mhlw.go.jp/s/detail/um?trial_id=jRCT2051240249) figura sin reclutamiento al comprobarlo el 10 de octubre. Eso no revela resultados finales de eficacia. El final previsto para junio de 2026 en el protocolo es un calendario, no una prueba de éxito. Deben evaluarse por separado actualizaciones y resultados. Los experimentos animales no reemplazan resultados en pacientes."
+    },
+    {
+      "type": "heading",
+      "text": "Transportadores: hemoglobina frente a química sintética"
+    },
+    {
+      "type": "paragraph",
+      "text": "[La FDA describe los transportadores de hemoglobina](https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/fda-comparison-characteristics-hemoglobin-based-oxygen-carriers-could-guide-development-safe-and) como productos modificados o diseñados. Fuera de la célula protectora, la hemoglobina puede oxidarse y afectar los vasos. Productos anteriores suscitaron riesgos de hipertensión y complicaciones cardiovasculares. La encapsulación intenta reducirlos, pero un diseño plausible no prueba seguridad. Cada producto requiere evaluación propia."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Una revisión de alcance de 2026 sobre perfluorocarbonos](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1874098/full) examina compuestos fluorados que disuelven gases y se administran en emulsión. No fijan oxígeno mediante hemoglobina. Su desempeño depende de condiciones de oxígeno, formulación y eliminación; mucha evidencia translacional sigue siendo animal o de laboratorio. No son lo mismo que vesículas o células cultivadas aunque se llamen sangre artificial."
+    },
+    {
+      "type": "heading",
+      "text": "Comparación con la sangre donada"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los componentes de glóbulos rojos donados tienen un papel clínico establecido. Las células cultivadas buscan reproducir ese componente; los transportadores buscan una función temporal. Ninguna opción experimental presentada aporta simultáneamente glóbulos, plaquetas, proteínas plasmáticas de coagulación y células inmunitarias. La comparación distingue pruebas humanas y objetivos, sin clasificar eficacia mediante ensayos incompatibles."
+    },
+    {
+      "type": "heading",
+      "text": "Tipos sanguíneos y límites de la sangre universal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[NHS Blood Donation explica la importancia de O negativo en emergencias](https://www.blood.co.uk/why-give-blood/blood-types/o-negative-blood-type/). Donante universal de glóbulos rojos no significa que toda bolsa o componente sea intercambiable. ABO y RhD no son los únicos marcadores relevantes. RESTORE exige pruebas de compatibilidad; cultivar perfiles raros puede ser útil precisamente porque las células conservan identidades biológicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cápsula acelular no tiene la superficie normal con antígenos ABO, lo que hace atractiva la compatibilidad amplia. Evitar esa incompatibilidad no elimina reacciones a ingredientes ni todo riesgo inmunitario y fisiológico. [Modificar genes para cambiar antígenos](https://pubmed.ncbi.nlm.nih.gov/29700043/) es otra vía, no prueba de que RESTORE ya produzca células universales. Compatibilidad, cribado y vigilancia siguen siendo esenciales."
+    },
+    {
+      "type": "heading",
+      "text": "Dónde podría ayudar un producto eficaz"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pacientes de grupos raros y con transfusiones repetidas podrían ser beneficiarios iniciales. Si se demuestra mayor supervivencia celular, menos transfusiones podrían reducir visitas y sobrecarga de hierro. Ese beneficio es condicional: RESTORE no lo ha probado en esos pacientes. Las células también importan en algunos tratamientos de cáncer cuando enfermedad o terapia alteran la producción sanguínea."
+    },
+    {
+      "type": "paragraph",
+      "text": "En emergencias y cirugía, un transportador estable podría sostener oxigenación mientras faltan células compatibles. No detendría el origen del sangrado ni aportaría toda la coagulación. Almacenamiento, caducidad y universalidad deben verificarse por producto. Una ventaja logística en áreas remotas sigue siendo objetivo hasta demostrar seguridad, eficacia y uso apropiado."
+    },
+    {
+      "type": "heading",
+      "text": "Fabricación: calidad antes que volumen"
+    },
+    {
+      "type": "paragraph",
+      "text": "[Freire y colegas, Scientific Reports de enero de 2026](https://pubmed.ncbi.nlm.nih.gov/41611853/) mostraron que los suplementos lipídicos cambian rendimiento y características de reticulocitos. La fuente de plasma probada produjo déficits relacionados con colesterol; suplementarlo corrigió muchos. Es evidencia de laboratorio de ese sistema, no resultado clínico RESTORE. Deformabilidad, integridad de membrana y función importan además del número de células."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fabricar comercialmente exige lotes reproducibles, medios adecuados, procesamiento cerrado estéril, purificación, pruebas, almacenamiento y distribución. Pasar de minidosis a cantidades terapéuticas puede aumentar recursos y pérdidas de células útiles. Las líneas podrían facilitar suministro sin resolver maduración y purificación. Los informes no establecen un precio comercial validado por unidad para RESTORE o NMU-HbV; objetivos de coste no son costes auditados."
+    },
+    {
+      "type": "heading",
+      "text": "Seguridad, aprobación y acceso excepcional"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estudios celulares deben evaluar supervivencia, hemólisis, inmunidad y contaminación. Los transportadores necesitan además valorar vasos, oxidación, reacciones y eliminación. Pequeños ensayos en sanos detectan mal daños infrecuentes y no establecen seguridad repetida en pacientes críticos. Autorizar investigación no significa autorizar transfusión rutinaria sin restricciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "El estado depende del producto y el país. [ClinicalTrials.gov registra HBOC-201, Hemopure, bajo acceso ampliado](https://clinicaltrials.gov/study/NCT01881503), y la [FDA explica que ese acceso es experimental](https://www.fda.gov/news-events/public-health-focus/expanded-access). No equivale a autorización comercial. La [lista FDA de productos aprobados](https://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products) es una referencia distinta. Los registros revisados de RESTORE y NMU-HbV no establecen aprobación rutinaria ni un sustituto completo de sangre humana."
+    },
+    {
+      "type": "heading",
+      "text": "Próximos pasos sin prometer una fecha de lanzamiento"
+    },
+    {
+      "type": "paragraph",
+      "text": "RESTORE necesita publicar la comparación de seguridad y supervivencia. El programa japonés necesita resultados de escalada antes de atribuir eficacia en emergencias. Resultados útiles guiarían estudios en pacientes, validación industrial y revisión regulatoria. El final previsto de un ensayo no es disponibilidad hospitalaria. Ninguno da una fecha verificada para abandonar las donaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "También [se investigan células cultivadas como vehículos terapéuticos](https://www.nhsbt.nhs.uk/news/the-nhsbt-led-restore-trial-into-growing-blood-featured-in-the-new-yorker/) y transportadores para usos dirigidos. Debe indicarse su etapa, a menudo preclínica, y el uso concreto. Preservar órganos, modelar enfermedad en laboratorio y tratar sangrado intravenosamente son indicaciones diferentes; un éxito no establece los otros."
+    },
+    {
+      "type": "heading",
+      "text": "¿Podría reemplazar las donaciones?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La perspectiva cercana realista es complementar donaciones para necesidades concretas. RESTORE comienza con células de donantes y las vesículas japonesas con hemoglobina humana. Incluso un transportador eficaz no eliminaría plaquetas, plasma y otros productos donados. NHSBT prevé uso inicial limitado para transfusiones complejas y donantes esenciales en el futuro previsible."
+    },
+    {
+      "type": "paragraph",
+      "text": "El logro científico es considerable: fabricar células biológicas y probar transportadores diseñados en humanos. Falta demostrar beneficio a dosis útiles, riesgos aceptables y suministro fiable. Lea también [cincuenta años de progreso contra el cáncer](/articles/50-years-cancer-survival-progress-hardest-cancers/) y [similitudes y diferencias genéticas humanas](/articles/humans-apes-dna-similarity-chimpanzees-evolution/). Ni una imagen impactante ni un protocolo prometedor sustituyen resultados clínicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Existe un reemplazo completo de la sangre humana?",
+      "answer": "Las pruebas revisadas no establecen un reemplazo completo. Células cultivadas y transportadores buscan funciones concretas."
+    },
+    {
+      "question": "¿Ya están los resultados finales de RESTORE?",
+      "answer": "NHSBT indica seguimiento terminado y resultados esperados en 2026 o 2027. No se establecen resultados comparativos finales al 10 de octubre de 2026."
+    },
+    {
+      "question": "¿Japón ha aprobado su sangre artificial para uso rutinario?",
+      "answer": "Los registros NMU-HbV describen una fase Ib experimental de seguridad, no aprobación comercial ni eficacia demostrada en pacientes."
+    },
+    {
+      "question": "¿Son universales los glóbulos cultivados?",
+      "answer": "No. Conservan características sanguíneas y RESTORE exige pruebas de compatibilidad."
+    },
+    {
+      "question": "¿Dejará de ser necesaria la donación?",
+      "answer": "No en el futuro previsible. Se buscan funciones seleccionadas y algunos productos también parten de material donado."
+    }
+  ],
+  "sources": [
+    {
+      "label": "NIH NHLBI: células sanguíneas, hemoglobina y plasma",
+      "url": "https://www.nhlbi.nih.gov/health/blood-tests"
+    },
+    {
+      "label": "NHSBT: diseño RESTORE de fase I",
+      "url": "https://www.nhsbt.nhs.uk/clinical-trials-unit/trials-and-studies/blood-and-transfusion/restore/"
+    },
+    {
+      "label": "NHSBT: lanzamiento de noviembre de 2022 y primeras observaciones",
+      "url": "https://www.nhsbt.nhs.uk/news/first-ever-clinical-trial-of-laboratory-grown-red-blood-cells-being-transfused-into-another-person/"
+    },
+    {
+      "label": "NIHR BioResource: último lote RESTORE, 11 de febrero de 2026",
+      "url": "https://bioresource.nihr.ac.uk/news/final-batch-of-red-blood-cells-produced-in-restore"
+    },
+    {
+      "label": "NHSBT: seguimiento finalizado y resultados esperados en 2026 o 2027",
+      "url": "https://www.nhsbt.nhs.uk/component-development-laboratory/our-work/translational-projects/"
+    },
+    {
+      "label": "ISRCTN42886452: PDF oficial del registro RESTORE",
+      "url": "https://www.isrctn.com/pdf/42886452"
+    },
+    {
+      "label": "Giarratana et al., Blood, 2011: prueba autóloga",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21885599/"
+    },
+    {
+      "label": "Trakarnsanga et al., Nature Communications, 2017: línea BEL-A",
+      "url": "https://www.nature.com/articles/ncomms14750"
+    },
+    {
+      "label": "Freire et al., Scientific Reports, 29 de enero de 2026: lípidos y calidad",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41611853/"
+    },
+    {
+      "label": "Azuma et al., Blood Advances, 2022: primer estudio humano de vesículas",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35939788/"
+    },
+    {
+      "label": "Sakai et al., BMJ Open, 22 de enero de 2026: protocolo de fase Ib",
+      "url": "https://doi.org/10.1136/bmjopen-2025-110183"
+    },
+    {
+      "label": "Registro japonés MHLW: jRCT2051240249, verificado el 10 de octubre de 2026",
+      "url": "https://rctportal.mhlw.go.jp/s/detail/um?trial_id=jRCT2051240249"
+    },
+    {
+      "label": "FDA: bioquímica y toxicidad de los transportadores de hemoglobina",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/fda-comparison-characteristics-hemoglobin-based-oxygen-carriers-could-guide-development-safe-and"
+    },
+    {
+      "label": "Frontiers in Medicine, 2026: revisión de perfluorocarbonos",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1874098/full"
+    },
+    {
+      "label": "ClinicalTrials.gov: acceso ampliado HBOC-201, NCT01881503",
+      "url": "https://clinicaltrials.gov/study/NCT01881503"
+    },
+    {
+      "label": "FDA: acceso ampliado y productos experimentales",
+      "url": "https://www.fda.gov/news-events/public-health-focus/expanded-access"
+    },
+    {
+      "label": "NHS Blood Donation: células O negativo en emergencias",
+      "url": "https://www.blood.co.uk/why-give-blood/blood-types/o-negative-blood-type/"
+    },
+    {
+      "label": "FDA: productos sanguíneos aprobados",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products"
+    },
+    {
+      "label": "Hawksworth et al., British Journal of Haematology, 2018: compatibilidad mediante edición genética",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29700043/"
+    },
+    {
+      "label": "NHSBT: células cultivadas y aplicaciones terapéuticas futuras",
+      "url": "https://www.nhsbt.nhs.uk/news/the-nhsbt-led-restore-trial-into-growing-blood-featured-in-the-new-yorker/"
+    }
+  ]
+}
