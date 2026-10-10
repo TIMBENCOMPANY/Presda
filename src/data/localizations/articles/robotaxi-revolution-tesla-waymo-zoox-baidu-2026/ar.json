@@ -1,0 +1,318 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/robotaxi-revolution-tesla-waymo-zoox-baidu-2026/",
+  "path": "/ar/articles/robotaxi-revolution-tesla-waymo-zoox-baidu-2026/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex ar terminology and source parity review",
+    "reviewedAt": "2026-10-10",
+    "terminologyChecked": true
+  },
+  "title": "ثورة سيارات الأجرة الذاتية: من سيهيمن على القيادة المستقلة؟",
+  "seoTitle": "Tesla وWaymo وZoox وBaidu: سباق سيارات الأجرة الذاتية في 2026",
+  "description": "مقارنة Tesla Cybercab وWaymo وZoox وBaidu: الخدمات والمدن والسلامة والاستقلالية وحجم الرحلات والتكاليف حتى 10 أكتوبر 2026.",
+  "excerpt": "مقارنة Tesla Cybercab وWaymo وZoox وBaidu: الخدمات والمدن والسلامة والاستقلالية وحجم الرحلات والتكاليف حتى 10 أكتوبر 2026.",
+  "headlineHighlights": {
+    "red": "ثورة سيارات الأجرة الذاتية",
+    "gold": "القيادة المستقلة"
+  },
+  "keywords": [
+    "Tesla وWaymo وZoox وBaidu: سباق سيارات الأجرة الذاتية في 2026",
+    "Tesla Cybercab",
+    "Waymo",
+    "Zoox",
+    "Baidu Apollo Go"
+  ],
+  "searchIntent": "مقارنة Tesla Cybercab وWaymo وZoox وBaidu: الخدمات والمدن والسلامة والاستقلالية وحجم الرحلات والتكاليف حتى 10 أكتوبر 2026.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-10",
+  "updatedAt": "2026-10-10",
+  "image": {
+    "src": "/articles/robotaxi-showroom-ai-editorial-illustration.png",
+    "alt": "تصور تحريري مولد بالذكاء الاصطناعي لمركبات Tesla وWaymo وZoox في صالة عرض، وليس معرضاً مشتركاً حقيقياً"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "دخل سباق سيارات الأجرة الذاتية مرحلة جديدة: لم يعد السؤال إمكان نقل الركاب دون سائق، بل مدى انتشار الخدمة وموثوقيتها وجدواها الاقتصادية. حتى 10 أكتوبر 2026، تمتلك Waymo أوسع حضور تجاري أمريكي موثق بين الشركات الأربع. ولدى Baidu نشاط كبير دون سائق في الصين ودبي، فيما انتقلت Tesla وZoox التابعة لأمازون إلى رحلات مدفوعة بمركبات مصممة لهذا الغرض. لا يحدد مؤشر واحد الفائز العالمي."
+    },
+    {
+      "type": "paragraph",
+      "text": "تقارن هذه الدراسة الخدمات المتاحة بإفصاحات الشركات المؤرخة والسجلات التنظيمية. لا تعني منطقة خدمة تغطية المدينة بأكملها، ولا يساوي تصريح الاختبار إطلاقاً تجارياً، ولا يمثل هدف الإنتاج أسطولاً تم تسليمه. يفصل الجدول هذه المراحل."
+    },
+    {
+      "type": "paragraph",
+      "text": "توضيح الصورة: صالة العرض تصور تحريري مولد بالذكاء الاصطناعي، وليست صورة معرض مشترك حقيقي لـTesla وWaymo وZoox، ولا مواصفات مركبات موثقة أو دليلاً على تشغيلها. آخر تحقق: 10 أكتوبر 2026. قد تتغير مناطق الخدمة والقرارات التنظيمية."
+    },
+    {
+      "type": "heading",
+      "text": "Tesla وWaymo وZoox وBaidu: ما الخدمات العاملة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يجمع الجدول الموثق تصميم المركبة والحالة التجارية والاستشعار والحجم المعلن. وهو لقطة للوضع الراهن، لا ترتيب للذكاء الاصطناعي. تسجيل المركبات ورحلات الركاب والأميال المدفوعة وعدد مدن الاختبار مقاييس مختلفة. توضيح غياب البيانات المالية أدق من تقديرات بلا سند."
+    },
+    {
+      "type": "heading",
+      "text": "Tesla: Cybercab مرحلة تشغيلية وليست استقلالية شاملة"
+    },
+    {
+      "type": "paragraph",
+      "text": "[أعلنت Tesla إطلاق Cybercab في أوستن يوم 3 سبتمبر 2026](https://www.youtube.com/watch?v=grdt05okn3Q). المركبة ذات المقعدين بلا مقود تقليدي أو دواسات. [ويذكر تحديث الربع الثاني بدء الإنتاج](https://ir.tesla.com/_flysystem/s3/sec/000162828026049213/tsla-20260722-gen.pdf). لذلك لا يصح وصفها بعد إطلاق سبتمبر بأنها مجرد نموذج أولي معروض. يقيس الرسم أميال Robotaxi المدفوعة المتراكمة، لا رحلات الركاب ولا سلسلة حصرية للأميال دون سائق. لا يمكن تحويلها إلى عدد رحلات أسبوعي دون بيانات إضافية."
+    },
+    {
+      "type": "paragraph",
+      "text": "[تدرج صفحة دعم Tesla مناطق محدودة في أوستن ودالاس وهيوستن وميامي وأورلاندو وتامبا](https://www.tesla.com/support/robotaxi). تعتمد الساعات والإتاحة والأسعار على التطبيق الذي يعرض تقديراً قبل الحجز. لا تثبت القائمة وجود Cybercab في كل مدينة. وتختلف طموحات التوسع عن الرحلات المتاحة محلياً. والأهم أن [برنامج Full Self-Driving (Supervised) للمستهلكين ما زال يتطلب سائقاً منتبهاً](https://www.tesla.com/support/fsd). لا تصبح سيارة Tesla خاصة مزودة به سيارة أجرة دون سائق تلقائياً. ويحدد تحديث الربع الثاني خدمة خليج سان فرانسيسكو بصورة منفصلة بوصفها تستخدم FSD الخاضع للإشراف، فلا تحتسب سوقاً إضافية دون سائق."
+    },
+    {
+      "type": "heading",
+      "text": "Waymo: انتشار تجاري ونشاط رحلات قابل للقياس"
+    },
+    {
+      "type": "paragraph",
+      "text": "[يسرد دليل Waymo الحالي 15 سوقاً أمريكية](https://waymo.com/updates/), بينها منطقة خليج سان فرانسيسكو وفينيكس ولوس أنجلوس وخدمات تكساس وفلوريدا الأحدث. يتم الحجز في أوستن وأتلانتا عبر Uber. [واستقبلت لاس فيغاس أول الركاب من الجمهور يوم 14 سبتمبر](https://blog.waymo.com/blog/2026/09/ride-in-las-vegas/), ضمن إطلاق أولي بقائمة اهتمام. تعتمد الإتاحة على حدود الخدمة ومرحلة قبول الركاب، لا اسم المدينة وحده. لا تعادل إعلانات لندن وطوكيو الخدمات الأمريكية المفتوحة."
+    },
+    {
+      "type": "paragraph",
+      "text": "[تعلن صفحة الاستدامة لدى Waymo أكثر من 500,000 رحلة كهربائية مستقلة بالكامل أسبوعياً](https://waymo.com/sustainability/). هذا مقياس تشغيلي تعلنه الشركة، لا عداد يومي مدقق ليوم 10 أكتوبر. ويظل [هدف تجاوز مليون رحلة أسبوعية بنهاية 2026](https://www.waymo.com/blog/2026/02/dallas-houston-san-antonio-orlando/) هدفاً ما لم يثبت إفصاح لاحق تحقيقه. يكمن تفوقها في خدمة ركاب متكررة ضمن بيئات حضرية متعددة، لا في إثارة العروض التجريبية."
+    },
+    {
+      "type": "heading",
+      "text": "Zoox: مركبة مصممة حول الركاب"
+    },
+    {
+      "type": "paragraph",
+      "text": "[أعلنت أمازون الاستحواذ على Zoox في 2020](https://www.aboutamazon.com/news/company-news/were-acquiring-zoox-to-help-bring-their-vision-of-autonomous-ride-hailing-to-reality). [تستخدم مركبتها المخصصة أربعة مقاعد متقابلة وتصميماً ثنائي الاتجاه](https://zoox.com/know-your-ride), بدلاً من تعديل مقصورة سائق تقليدية. يجمع الاستشعار كاميرات وليدار ورادار وأشعة تحت حمراء طويلة الموجة. يتيح التصميم تجربة مختلفة، لكنه يحتاج مسار تصنيع وصيانة وتنظيم خاصاً. لا تثبت غرابة المركبة استقلالية أفضل."
+    },
+    {
+      "type": "paragraph",
+      "text": "[أعلنت NHTSA إعفاءً تجارياً مؤقتاً يوم 30 يوليو 2026](https://www.nhtsa.gov/press-releases/cutting-red-tape-safely-fast-track-automated-vehicle), يسمح بما يصل إلى 2,500 مركبة Zoox سنوياً لعامين بشروط رقابية. هذا سقف مصرح به، لا عدد مركبات مسلمة. [أكدت تغطية محلية الخدمة المدفوعة في لاس فيغاس خلال أغسطس](https://www.fox5vegas.com/2026/08/11/zoox-begins-charging-robotaxi-rides-las-vegas-more-autonomous-vehicle-companies-look-move-traditional-driver-moves-out/), بعد البداية في 10 أغسطس. [ووثقت AP رحلات مجانية في لاس فيغاس وسان فرانسيسكو قبل الموافقة](https://apnews.com/article/1bdb3bb8ecc80a23721504315cfa50ce). لا تحتسب التجارب المجانية والاختبارات الأخرى أسواقاً إضافية مثبتة للرحلات المدفوعة."
+    },
+    {
+      "type": "heading",
+      "text": "Baidu والمنافسون الصينيون"
+    },
+    {
+      "type": "paragraph",
+      "text": "[أعلنت Baidu تنفيذ 3.2 مليون رحلة تشغيلية دون سائق بالكامل في الربع الأول من 2026](https://ir.baidu.com/news-releases/news-release-details/baidu-announces-first-quarter-2026-results/), مع ذروة أسبوعية تجاوزت 350,000 في مارس. الذروة ليست متوسطاً أسبوعياً، والرحلات التشغيلية ليست بالضرورة جميعها مدفوعة. [تشمل مدن تشغيلها في البر الرئيسي بكين وشنغهاي وشنتشن ووهان وتشنغدو وتشونغتشينغ وهايكو وسانيا](https://baidu.gcs-web.com/baidu-general-business). وتقول الشركة إن عمليات البر الرئيسي دون سائق بالكامل منذ فبراير 2025. لا يثبت هذا تغطية جميع طرق تلك المدن."
+    },
+    {
+      "type": "paragraph",
+      "text": "[يؤكد بيان Baidu للربع الثاني المنشور في 18 أغسطس عمليات تجارية دون سائق في دبي واختبارات طرق عامة في لندن وسويسرا](https://ir.baidu.com/news-releases/news-release-details/baidu-announces-second-quarter-2026-results). وتصنف عمليات Airport Island في هونغ كونغ اختبارات. لذا يجمع حضورها في 28 مدينة مراحل مختلفة. [أعلنت WeRide وUber خدمات مدفوعة دون سائق في دبي يوم 2 أبريل](https://www.weride.ai/posts/wto0bxj7pxpdn174wokkr0g4). [وتعلن نتائج Pony.ai للربع الثاني إيرادات Robotaxi قدرها 12.1 مليون دولار وخسارة صافية عائدة للشركة قدرها 59.8 مليوناً](https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-reports-second-quarter-2026-financial-results-total). إيراد القطاع وخسائر المجموعة ليسا مقياساً واحداً."
+    },
+    {
+      "type": "heading",
+      "text": "المستوى 2 ليس المستوى 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "يفصل [إطار NHTSA للأتمتة](https://www.nhtsa.gov/vehicle-safety/automated-vehicle-safety) المساعدة عن مسؤولية القيادة. في المستوى 2 يمكن للنظام التحكم بالتوجيه والسرعة معاً، لكن الإنسان يراقب ويتدخل. في المستوى 4 يتولى النظام القيادة والتعامل الاحتياطي ضمن شروط تشغيل محددة، قد تقيد الموقع والطرق والسرعة والطقس. لا يعني ذلك القيادة في كل مكان؛ المستوى 5 يزيل هذه القيود. يمكن لفريق مساعدة عن بُعد دعم الأسطول دون قيادة كل رحلة عن بُعد. يجب توثيق دوره لا افتراضه."
+    },
+    {
+      "type": "heading",
+      "text": "الكاميرات والليدار والرادار: خيارات هندسية متنافسة"
+    },
+    {
+      "type": "paragraph",
+      "text": "يسعى نهج Tesla القائم على الكاميرات إلى استنتاج بيئة القيادة من الصور والنماذج المتعلمة. [تجمع Waymo الكاميرات والليدار والرادار](https://waymo.com/waymo-driver/): يقيس الليدار المسافة بالليزر، ويساعد الرادار في قياس المسافة والحركة. [تضيف Zoox الأشعة تحت الحمراء طويلة الموجة](https://zoox.com/know-your-ride). [وتوثق مواصفات RT6 الأصلية لدى Baidu الكاميرات والليدار أيضاً](https://www.prnewswire.com/news-releases/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares-301590644.html). تضيف الحساسات معلومات مكملة مع كلفة وتنظيف ومعايرة. يقلل الاعتماد على الكاميرات وحدها بعض تعقيد العتاد ويزيد متطلبات الاستنتاج البصري. لا يحسم اختيار الحساسات وحده السلامة أو التعميم."
+    },
+    {
+      "type": "heading",
+      "text": "السلامة: الأدلة أهم من ترتيب الشركات"
+    },
+    {
+      "type": "paragraph",
+      "text": "[فتحت NHTSA تدقيقاً في التصديق الذاتي لـCybercab يوم 4 سبتمبر](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification), بعد نشرها في أوستن. [وأوردت رويترز التحقيق بصورة مستقلة](https://www.investing.com/news/stock-market-news/us-auto-safety-regulator-opens-probe-into-nearly-1000-tesla-cybercabs-4889162). تتعلق القضية بمعايير المركبات الفيدرالية، وليست حكماً نهائياً بأن كل مركبة غير آمنة. لا يحسم تصريح الولاية التصديق الفيدرالي. كما لا يعني التحقيق حظراً أو قرار عيب نهائياً. يصبح التنفيذ التنظيمي جزءاً من التحدي التجاري لـTesla."
+    },
+    {
+      "type": "paragraph",
+      "text": "[تنشر Waymo مقارنات حوادث مع معايير بشرية ملائمة](https://waymo.com/safety/impact/) تشمل المنهجية وبيانات المسافات. هذه نتائج مفيدة لكن مصدرها الشركة ونطاقها جغرافي محدد، وليست ضماناً عاماً. [يحقق NTSB في حادث 12 يناير 2026 بأوستن، تجاوزت فيه Waymo حافلة مدرسية تصعد إليها مجموعة أطفال](https://www-s.ntsb.gov/investigations/Pages/HWY26FH007.aspx). يذكر السجل أيضاً الاستدعاء البرمجي السابق. [تحذر NHTSA من حدود جمع بيانات الحوادث والتعرض](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting). لا ترتب الأعداد الخام الأساطيل بعدالة مع اختلاف المسافات والنطاقات والإبلاغ. ينبغي عرض الإصلاحات ونتائج التحقيقات بجانب ادعاءات السلامة الإجمالية. يصف [ملف استدعاء Zoox في يوليو](https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26E044-2993.pdf) دخول مركبة خالية موقع طوارئ حجبه الدخان يوم 20 يونيو. يشمل 105 مركبات، ويذكر عدم تحديد إصابات وإصدار تحديث برمجي يوم 15 يوليو. لا يمثل نطاق الاستدعاء تقديراً للأسطول الحالي."
+    },
+    {
+      "type": "heading",
+      "text": "الأسعار واضحة نسبياً، لكن الاقتصاد الكامل أصعب للمقارنة"
+    },
+    {
+      "type": "paragraph",
+      "text": "إزالة السائق لا تزيل العمل البشري: تحتاج الأساطيل تنظيفاً وشحناً وصيانة ودعم عملاء ومساعدة عن بُعد واستجابة للحوادث وإدارة مستودعات. تعتمد الربحية على الاستخدام المدفوع والمسافات الفارغة والاستهلاك والتأمين وكلفة النظام. هذا إطار تحليلي للتكاليف، لا كشف تكلفة صادر عن شركة بعينها. قد يجذب السعر التمهيدي المنخفض الركاب بينما يبقى النشاط مدعوماً."
+    },
+    {
+      "type": "paragraph",
+      "text": "[تعرض Tesla تقدير الرحلة في تطبيقها](https://www.tesla.com/support/robotaxi). تختلف الأسعار بحسب المسار والوقت والشروط والإتاحة. لا تقدم الإفصاحات المراجعة حسابات أرباح robotaxi مدققة وقابلة للمقارنة للشركات الأربع. أهداف سعر العتاد ليست أجرة الركاب، وتعادل مدينة لا يعني ربحية المجموعة. [أعلنت Waymo تمويلاً بالأسهم بقيمة 16 مليار دولار في فبراير وتقييماً بعد التمويل قدره 126 ملياراً](https://waymo.com/blog/2026/02/waymo-raises-usd16-billion-investment-round/). [وأضاف إعلان 8 أكتوبر قرضاً لأجل بقيمة 5 مليارات](https://www.waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing/). الدين تمويل واجب السداد لا إيراد، والتقييم الخاص ليس قيمة سوقية مدرجة. تثبت الإعلانات الوصول لرأس المال لا تحقيق الأرباح."
+    },
+    {
+      "type": "heading",
+      "text": "التوسع مراحل وليس خريطة بيانات صحفية"
+    },
+    {
+      "type": "paragraph",
+      "text": "يمر التوسع عادة باختبارات محلية وتصاريح وإتاحة محدودة وخدمة ركاب ثم توسيع التغطية. قد يكشف الطقس وأعمال الطرق نقاط ضعف لا يظهرها عرض مضبوط. تتطلب الأمطار والثلوج والوهج والحساسات المحجوبة ومركبات الطوارئ والإشارات البشرية غير المألوفة معالجة متينة. المهم شروط التشغيل المسموحة وسلوك المركبة عند بلوغ حدودها. لا يثبت إطلاق ناجح بمدينة مشمسة تشغيل الشتاء بلا قيود."
+    },
+    {
+      "type": "paragraph",
+      "text": "[تصف تغطية AP في سبتمبر خدمة Uber وWayve بلندن بوجود سائقي سلامة بشريين](https://apnews.com/article/uber-robotaxi-britain-london-330871ae708637f9d7afa12d0ebce478), وتميز أيضاً العمليات الخاضعة للإشراف في زغرب. [وتصف إفصاحات Baidu لندن وسويسرا باختبارات طرق عامة](https://ir.baidu.com/news-releases/news-release-details/baidu-announces-second-quarter-2026-results). لا تغني كلمة robotaxi عن تصنيف التشغيل الدقيق. توفر شراكات التطبيقات ركاباً ودعم أسطول، لكنها لا تمنح تلقائياً تصريحاً دون سائق. كما تختلف إتاحة المطارات والطرق السريعة والحجز بين المدن."
+    },
+    {
+      "type": "heading",
+      "text": "الثقة والوظائف وسباق الريادة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تحتاج ثقة الركاب استقبالاً موثوقاً وطريقة واضحة لطلب المساعدة ومقصورات ميسرة ومعالجة مفهومة للحوادث وحماية بيانات الرحلات والكاميرات. وتشمل ثقة المدن وصول الطوارئ والازدحام والمساءلة. قد تقلل الأساطيل الطلب على بعض وظائف سائقي الأجرة وتخلق وظائف صيانة وتشغيل. يعتمد حجم التغير وموعده على التبني المحلي والكلفة والسياسات؛ لا تسوغ الأدلة توقعاً رقمياً دقيقاً لخسائر الوظائف عالمياً. ليست الوظائف الجديدة بالضرورة مكافئة في الأجر والمكان والإتاحة."
+    },
+    {
+      "type": "paragraph",
+      "text": "تدعم الأدلة جواباً مشروطاً: تتصدر Waymo المقارنة في الانتشار التجاري الأمريكي الموثق والحجم الأسبوعي المعلن. وتعد Baidu مشغلاً كبيراً دون سائق بنطاق جغرافي وإبلاغ مختلفين. تتحدى Tesla المنافسين بالتصنيع والكاميرات، مع رحلات Cybercab مدفوعة وتصديق يخضع للتدقيق. وحولت Zoox التصميم المخصص إلى خدمة مدفوعة في لاس فيغاس لكن نطاقها المدفوع الموثق أصغر. لا تحدد الإفصاحات غير المتجانسة بطلاً عالمياً للتكنولوجيا أو الربحية. الحاسم المقبل خدمة آمنة متكررة وتغطية أوسع مصرح بها واقتصاد شفاف."
+    },
+    {
+      "type": "paragraph",
+      "text": "استكشف منافسة الذكاء الاصطناعي المادي في [تحقيق Tesla Optimus وUnitree](/articles/tesla-optimus-vs-unitree-humanoid-robots-2026/)، وأسئلة الرقابة في [ملف تطوير الذكاء الاصطناعي وسلامته](/articles/ai-danger-development-pause-coxon-hinton-sanders/). يتطلب السباقان التمييز بين قدرة تظهر مرة وخدمة موثوقة على نطاق واسع."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tesla: Robotaxi service areas and passenger terms",
+      "url": "https://www.tesla.com/support/robotaxi"
+    },
+    {
+      "label": "Tesla, September 3, 2026: Cybercab launch in Austin",
+      "url": "https://www.youtube.com/watch?v=grdt05okn3Q"
+    },
+    {
+      "label": "Tesla: Q2 2026 shareholder update",
+      "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026049213/tsla-20260722-gen.pdf"
+    },
+    {
+      "label": "Tesla: Full Self-Driving (Supervised) responsibilities",
+      "url": "https://www.tesla.com/support/fsd"
+    },
+    {
+      "label": "NHTSA: automation levels and vehicle safety",
+      "url": "https://www.nhtsa.gov/vehicle-safety/automated-vehicle-safety"
+    },
+    {
+      "label": "Waymo: current rider cities and upcoming markets",
+      "url": "https://waymo.com/updates/"
+    },
+    {
+      "label": "Waymo: current sustainability disclosure and weekly trips",
+      "url": "https://waymo.com/sustainability/"
+    },
+    {
+      "label": "Waymo, February 24, 2026: expansion and year-end ride target",
+      "url": "https://www.waymo.com/blog/2026/02/dallas-houston-san-antonio-orlando/"
+    },
+    {
+      "label": "Waymo, September 14, 2026: first public riders in Las Vegas",
+      "url": "https://blog.waymo.com/blog/2026/09/ride-in-las-vegas/"
+    },
+    {
+      "label": "Waymo: cameras, lidar, radar and computing",
+      "url": "https://waymo.com/waymo-driver/"
+    },
+    {
+      "label": "Zoox: vehicle and sensor architecture",
+      "url": "https://zoox.com/know-your-ride"
+    },
+    {
+      "label": "Amazon: acquisition of Zoox, June 2020",
+      "url": "https://www.aboutamazon.com/news/company-news/were-acquiring-zoox-to-help-bring-their-vision-of-autonomous-ride-hailing-to-reality"
+    },
+    {
+      "label": "NHTSA, July 30, 2026: Zoox commercial exemption",
+      "url": "https://www.nhtsa.gov/press-releases/cutting-red-tape-safely-fast-track-automated-vehicle"
+    },
+    {
+      "label": "FOX5, August 11, 2026: Zoox begins charging in Las Vegas",
+      "url": "https://www.fox5vegas.com/2026/08/11/zoox-begins-charging-robotaxi-rides-las-vegas-more-autonomous-vehicle-companies-look-move-traditional-driver-moves-out/"
+    },
+    {
+      "label": "AP, July 30, 2026: Zoox approval and free rides",
+      "url": "https://apnews.com/article/1bdb3bb8ecc80a23721504315cfa50ce"
+    },
+    {
+      "label": "Baidu: Q1 2026 results, driverless rides and reporting scope",
+      "url": "https://ir.baidu.com/news-releases/news-release-details/baidu-announces-first-quarter-2026-results/"
+    },
+    {
+      "label": "Baidu: Q2 2026 results, Dubai operations and overseas testing",
+      "url": "https://ir.baidu.com/news-releases/news-release-details/baidu-announces-second-quarter-2026-results"
+    },
+    {
+      "label": "Baidu: mainland driverless operations and cities",
+      "url": "https://baidu.gcs-web.com/baidu-general-business"
+    },
+    {
+      "label": "Baidu: original Apollo RT6 announcement, July 2022",
+      "url": "https://www.prnewswire.com/news-releases/baidu-unveils-next-gen-autonomous-vehicle-ready-to-provide-driverless-robotaxi-half-of-taxi-fares-301590644.html"
+    },
+    {
+      "label": "NHTSA, September 4, 2026: Cybercab certification audit",
+      "url": "https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification"
+    },
+    {
+      "label": "Reuters, September 4, 2026: Cybercab certification investigation",
+      "url": "https://www.investing.com/news/stock-market-news/us-auto-safety-regulator-opens-probe-into-nearly-1000-tesla-cybercabs-4889162"
+    },
+    {
+      "label": "NHTSA: crash reporting data and comparison limitations",
+      "url": "https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting"
+    },
+    {
+      "label": "Waymo: safety impact, methodology and human benchmarks",
+      "url": "https://waymo.com/safety/impact/"
+    },
+    {
+      "label": "NTSB: January 2026 Waymo school-bus investigation",
+      "url": "https://www-s.ntsb.gov/investigations/Pages/HWY26FH007.aspx"
+    },
+    {
+      "label": "Waymo, February 2, 2026: $16 billion equity financing",
+      "url": "https://waymo.com/blog/2026/02/waymo-raises-usd16-billion-investment-round/"
+    },
+    {
+      "label": "Waymo, October 8, 2026: $5 billion debt financing",
+      "url": "https://www.waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing/"
+    },
+    {
+      "label": "Pony.ai: Q2 2026 financial results",
+      "url": "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-reports-second-quarter-2026-financial-results-total"
+    },
+    {
+      "label": "WeRide, April 2, 2026: paid driverless Dubai launch with Uber",
+      "url": "https://www.weride.ai/posts/wto0bxj7pxpdn174wokkr0g4"
+    },
+    {
+      "label": "AP: Uber and Wayve London service with safety drivers",
+      "url": "https://apnews.com/article/uber-robotaxi-britain-london-330871ae708637f9d7afa12d0ebce478"
+    },
+    {
+      "label": "NHTSA: Zoox recall 26E044, July 16, 2026",
+      "url": "https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26E044-2993.pdf"
+    }
+  ],
+  "faq": [
+    {
+      "question": "من يتصدر سباق سيارات الأجرة الذاتية في 2026؟",
+      "answer": "تتصدر Waymo المقارنة بالانتشار التجاري الأمريكي الموثق والرحلات الأسبوعية المعلنة. ولدى Baidu نشاط كبير دون سائق. لا تحدد البيانات غير المتجانسة فائزاً عالمياً للتكنولوجيا أو الربحية."
+    },
+    {
+      "question": "هل تنقل Tesla Cybercab الركاب؟",
+      "answer": "أعلنت Tesla إطلاقها في أوستن يوم 3 سبتمبر 2026. فتحت NHTSA تدقيق التصديق في اليوم التالي. يظل FSD (Supervised) منتجاً منفصلاً لمساعدة السائق."
+    },
+    {
+      "question": "هل تتقاضى Zoox أجرة؟",
+      "answer": "بدأت الخدمة المدفوعة في لاس فيغاس خلال أغسطس 2026. التجارب المجانية والاختبارات في مدن أخرى مراحل مختلفة، لا أسواق مدفوعة مثبتة."
+    },
+    {
+      "question": "هل يعني المستوى 4 القيادة في كل مكان؟",
+      "answer": "لا. يقود النظام دون سائق بشري ضمن نطاق تشغيل محدد، قد يقيد الموقع والطرق والطقس والسرعة."
+    },
+    {
+      "question": "هل سيارات الأجرة الذاتية مربحة؟",
+      "answer": "لا توفر الإفصاحات المراجعة حسابات أرباح مدققة وقابلة للمقارنة للمشغلين الأربعة. التمويل والأسعار المنخفضة والتعادل المحلي لا تثبت ربحية المجموعة."
+    }
+  ]
+}
