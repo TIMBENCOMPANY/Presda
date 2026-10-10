@@ -1,4 +1,5 @@
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
+import { SonghaiGraphics } from "@/components/SonghaiGraphics";
 import { PlasticSurgeryGraphics } from "@/components/PlasticSurgeryGraphics";
 import { ArtificialBloodGraphics } from "@/components/ArtificialBloodGraphics";
 import { PassportGraphics } from "@/components/PassportGraphics";
@@ -330,6 +331,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "songhai-empire-gao-askia-tondibi-1591" && [1, 13, 17, 21, 41].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><SonghaiGraphics locale={locale} kind={originalIndex === 1 ? "timeline" : originalIndex === 13 ? "rulers" : originalIndex === 17 ? "cities" : originalIndex === 21 ? "economy" : "invasion"} /></div>;
+              }
               if (article.slug === "plastic-surgery-revolution-beauty-at-any-cost" && [13, 17, 23, 30, 44].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><PlasticSurgeryGraphics locale={locale} kind={originalIndex === 13 ? "demographics" : originalIndex === 17 ? "totals" : originalIndex === 23 ? "procedures" : originalIndex === 30 ? "risks" : "countries"} /></div>;
               }
