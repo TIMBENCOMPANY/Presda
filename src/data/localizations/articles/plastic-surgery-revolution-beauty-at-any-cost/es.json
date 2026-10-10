@@ -1,0 +1,394 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/plastic-surgery-revolution-beauty-at-any-cost/",
+  "path": "/es/articles/plastic-surgery-revolution-beauty-at-any-cost/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es source attribution and terminology review",
+    "reviewedAt": "2026-10-10",
+    "terminologyChecked": true
+  },
+  "title": "LA REVOLUCIÓN DE LA CIRUGÍA ESTÉTICA: BELLEZA A CUALQUIER PRECIO",
+  "seoTitle": "Cirugía estética en 2026: datos ISAPS, beneficios y riesgos",
+  "description": "Investigación sobre cirugía estética, redes sociales, satisfacción, turismo médico y riesgos específicos, basada en la encuesta ISAPS 2025.",
+  "excerpt": "Investigación sobre cirugía estética, redes sociales, satisfacción, turismo médico y riesgos específicos, basada en la encuesta ISAPS 2025.",
+  "headlineHighlights": {
+    "red": "CIRUGÍA ESTÉTICA",
+    "gold": "BELLEZA"
+  },
+  "keywords": [
+    "Cirugía estética",
+    "ISAPS 2025",
+    "Seguridad de procedimientos",
+    "Imagen corporal",
+    "Turismo médico"
+  ],
+  "searchIntent": "Investigación sobre cirugía estética, redes sociales, satisfacción, turismo médico y riesgos específicos, basada en la encuesta ISAPS 2025.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-10",
+  "updatedAt": "2026-10-10",
+  "image": {
+    "src": "/articles/plastic-surgery-clinic-ai-editorial-illustration.png",
+    "alt": "Ilustración editorial generada por IA de inyecciones estéticas en una clínica, no una paciente real ni una demostración de técnica recomendada"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La cirugía estética modifica la anatomía para alterar la apariencia; los tratamientos estéticos no quirúrgicos cambian rasgos sin una operación. Ninguno promete felicidad. En 2026, su atractivo combina autonomía personal, capacidad médica y una cultura comercial de mejorar la imagen. La pregunta esencial es si la decisión está informada, resulta proporcionada y pertenece realmente al paciente."
+    },
+    {
+      "type": "paragraph",
+      "text": "La escala impresiona. La nueva encuesta ISAPS estima más de 35 millones de procedimientos realizados por cirujanos plásticos en 2025. Detrás hay cambios modestos, grandes transformaciones, malestar antiguo o el deseo de reconocerse mejor en el espejo. También hay complicaciones, decepción y presión para seguir cambiando. Ambas realidades merecen atención sin convertir a las personas en caricaturas ni ejemplos alarmistas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Por qué cambiamos nuestra apariencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "No existe una personalidad única del paciente estético. [La revisión de la psiquiatra Martha Ward de 2025](https://pubmed.ncbi.nlm.nih.gov/40516983/) describe la interacción de medios, relaciones y acontecimientos vitales. Una consulta útil explora objetivos individuales sin presuponer vanidad: un rasgo no deseado, cambios tras embarazo o pérdida de peso, envejecimiento, confianza, identidad o el deseo de dejar de pensar constantemente en una parte del cuerpo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La elección personal puede coexistir con influencias externas. Alguien puede querer libremente un procedimiento mientras vive en un entorno que recompensa determinados rostros, siluetas o signos de juventud. Las críticas de una pareja, expectativas laborales percibidas y comparaciones repetidas pueden modificar lo deseable. Son influencias posibles que explorar, no explicaciones que imponer a todos. Una misma operación puede significar cosas muy distintas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conviene distinguir un objetivo anatómico limitado de la promesa de reparar una relación o transformar el estatus social. El profesional puede explicar qué tejido modificar. Nadie garantiza amor, ascensos o confianza duradera. Respetar la autonomía permite proceder tras una evaluación equilibrada, pero también aplazar o rechazar sin afirmar que el cuerpo está defectuoso."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Redes sociales: asociación no es causalidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Instagram y TikTok multiplican las comparaciones de apariencia. Filtros, iluminación, ángulos seleccionados y retoques pueden hacer que una variación normal parezca un defecto corregible. Los selfis dependen además de distancia y perspectiva. Comparar el rostro con una imagen procesada difiere de comparar dos rostros sin editar, incluso cuando el filtro es discreto y la publicación transmite intimidad o autenticidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Una revisión sistemática de 2024](https://pubmed.ncbi.nlm.nih.gov/39205749/) relaciona redes sociales, insatisfacción corporal y consideración de cirugía estética. Esa asociación no establece una cadena causal sencilla. Quienes ya tienen preocupaciones pueden buscar contenidos de belleza; edad, amistades e insatisfacción previa influyen en ambos fenómenos. Los cuestionarios transversales no separan bien estas vías. Interesarse por una operación tampoco equivale a realizarla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Influencers y cultura de celebridades pueden normalizar intervenciones cuando omiten recuperación, complicaciones o relaciones comerciales. Pero la apariencia no demuestra que una celebridad se haya operado. Esta investigación no formula tales diagnósticos. Examina cómo la promoción presenta opciones: alternativas e incertidumbres visibles, remuneración declarada y la posible conversión de una decisión médica en una mejora de consumo rápida."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mujeres, hombres y nuevas generaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "ISAPS atribuye a mujeres el 85,6 % de los procedimientos quirúrgicos y el 84,8 % de los no quirúrgicos estimados en 2025. Son proporciones de procedimientos dentro de las categorías mujer/hombre de la encuesta, no el porcentaje de mujeres que reciben tratamiento. Tampoco representan toda la identidad de género. Las visitas repetidas cuentan varias veces. Una diferencia de volumen no explica sus causas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tablas por edad muestran patrones específicos, no un auge juvenil uniforme. Aumento de pecho y rinoplastia se concentran más en adultos jóvenes; liposucción y toxina botulínica, en edades intermedias. El gráfico identifica porcentajes y denominadores. No demuestra que todas las personas jóvenes actúen por las plataformas ni que todos los adultos respondan al envejecimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "La cultura, capacidad económica, disponibilidad de profesionales y formas de hablar del aspecto pueden influir. No conviene reducir las decisiones masculinas a un estereotipo ni las femeninas a inseguridad. En adolescentes, preferencias en desarrollo, vulnerabilidad y límites legales requieren atención especial. Que los padres paguen no sustituye deseos, madurez, valoración médica o legislación aplicable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Las cifras detrás de la revolución"
+    },
+    {
+      "type": "paragraph",
+      "text": "[El informe ISAPS 2025](https://www.isaps.org/media/ua4leneo/isaps-global-survey_2025.pdf), publicado el 29 de septiembre de 2026, estima 35.204.030 procedimientos: 17.883.610 quirúrgicos y 17.320.420 no quirúrgicos. Extrapola mundialmente datos de 2.900 cirujanos plásticos. Mide su actividad, no todo el trabajo de dermatólogos, otros clínicos o proveedores no médicos. Cuenta tratamientos, no pacientes únicos. Las cifras precisas siguen siendo estimaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "La metodología importa al hablar de auge. Más territorios y nuevas categorías modificaron la cobertura. ISAPS publica variaciones interanuales comparables de −8,7 % total, −0,4 % quirúrgica y −15,7 % no quirúrgica, excluyendo procedimientos añadidos. No deben confundirse con restar los totales brutos, que produce cambios diferentes. Los gráficos conservan esta distinción y evitan una curva de crecimiento continua engañosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un volumen grande no mide calidad, seguridad, ingresos ni necesidades pendientes. Una variación tampoco demuestra que todo el mundo haya perdido interés por la estética. Es una perspectiva importante sobre una población definida de profesionales. Antes de convertir millones de actos en una explicación social, hay que preguntar qué se contó, cómo se estimó y qué cambió entre ediciones."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué hacen los procedimientos más populares"
+    },
+    {
+      "type": "paragraph",
+      "text": "El gráfico ordena las categorías principales. [Las guías de ASPS](https://www.plasticsurgery.org/cosmetic-procedures) explican que la cirugía de párpados elimina o recoloca tejidos alrededor de los ojos; la rinoplastia remodela la nariz. No transforman universalmente un rostro. Anatomía y función importan, incluido cerrar los párpados o respirar. Hinchazón y hematomas ocultan resultados iniciales; el aspecto definitivo puede tardar mucho más que volver al trabajo de oficina."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La liposucción](https://www.plasticsurgery.org/cosmetic-procedures/liposuction/) elimina grasa localizada para cambiar contornos. No trata la obesidad ni resuelve de forma fiable la celulitis. El aumento mamario aporta volumen, a menudo con implantes; la elevación remodela y sube tejidos existentes, con otras cicatrices y compromisos. No son intercambiables. Elegir implantes implica materiales, seguimiento y posibles operaciones futuras, no una compra permanente única."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La abdominoplastia](https://www.plasticsurgery.org/cosmetic-procedures/tummy-tuck/recovery) elimina piel abdominal sobrante y puede abordar musculatura debilitada. Es más extensa que una inyección o un pequeño remodelado. La recuperación puede requerir apósitos, compresión, drenajes y límites temporales al esfuerzo. Importa cuándo es seguro recuperar actividades y qué apoyo se necesita en casa, no solamente cuándo la persona vuelve a resultar presentable."
+    },
+    {
+      "type": "paragraph",
+      "text": "La toxina botulínica reduce temporalmente actividad muscular específica. Botox es una marca, no todo producto inyectable. Los rellenos de ácido hialurónico aportan volumen o cambian contornos, con indicaciones diferentes. La hinchazón altera inicialmente lo visible. Puede requerirse mantenimiento; disolución y retirada tienen límites. «Mínimamente invasivo» describe el método, no asegura riesgo trivial ni reversibilidad perfecta."
+    },
+    {
+      "type": "paragraph",
+      "text": "La recuperación depende del procedimiento y de cada paciente. Se necesita un plan escrito para heridas, viajes, conducción, trabajo, ejercicio y seguimiento, no una cuenta atrás tomada de un influencer. Decidir por etapas puede ser preferible a comprar varias operaciones juntas. La comodidad debe sopesarse frente a la extensión, la exposición anestésica y la valoración individual."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Es segura la cirugía estética?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No puede responderse con un porcentaje único. Anestesia, infección, sangrado, trombos, cicatrices, lesiones nerviosas e insatisfacción son resultados distintos. El riesgo cambia con salud, técnica, centro y seguimiento. Registrar solo hospitalizaciones arroja menos eventos que contar todos los problemas menores. Para ordenar porcentajes hacen falta definiciones, poblaciones y periodos de observación comparables."
+    },
+    {
+      "type": "paragraph",
+      "text": "[El estudio de Julian Winocour y colaboradores de 2015](https://ednet.plasticsurgery.org/Listing/Abdominoplasty-Risk-Factors-Complication-Rates-and-Safety-of-Combined-Procedures-10707) examinó 25.478 pacientes de abdominoplastia en la base estadounidense CosmetAssure durante 2008–2013. Encontró un 4,0 % de complicaciones mayores, frente al 1,4 % de otros procedimientos de esa base. Es una población histórica, seleccionada y asegurada, no la probabilidad de todas las operaciones de 2026. No incluye todos los problemas de recuperación ni insatisfacción prolongada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las operaciones combinadas se asociaron con más complicaciones. Una relación con el tipo de centro no prueba que evitar hospitales sea más seguro: la selección de casos difiere. Conviene preguntar qué complicaciones registra una clínica, durante cuánto tiempo y a quién incluye. Sin definiciones y denominadores, una cifra comercial impresionante dice poco."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La FDA](https://www.fda.gov/medical-devices/breast-implants/risks-and-complications-breast-implants) identifica rotura, contractura capsular, dolor y operaciones adicionales entre los riesgos de implantes mamarios. No son dispositivos para toda la vida. BIA-ALCL es un linfoma especialmente asociado a implantes texturizados, distinto del cáncer mamario habitual. Importan datos específicos y vigilancia; no existe un riesgo vital único para cada dispositivo. Conserve información del implante y consulte nuevos síntomas."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La advertencia de la FDA sobre rellenos](https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers) explica que entrar accidentalmente en un vaso puede dañar tejidos y causar ceguera o ictus. Son eventos poco frecuentes, pero potencialmente permanentes. Una base de notificaciones no proporciona el denominador para calcular una incidencia universal fiable. La tabla explica el peligro sin inventar probabilidades ni equiparar todas las zonas de inyección."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La información de BOTOX Cosmetic](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=485d9b71-6881-42c5-a620-a4360c7192ab) distingue efectos habituales de su advertencia sobre difusión de la toxina. Dificultades al tragar o respirar necesitan asistencia urgente. La ficha indica que no hay casos confirmados de difusión distante grave a dosis cosméticas recomendadas para las indicaciones listadas. La advertencia importa, pero no equipara uso autorizado con productos falsificados o dosificación inadecuada."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Por qué el BBL exige atención especial"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transferir grasa a los glúteos difiere de una elevación, implantes o rellenos corporales. [La declaración conjunta ASPS de 2022](https://www.plasticsurgery.org/for-medical-professionals/publications/psn-extra/news/gluteal-fat-grafting-a-joint-safety-statement) aborda embolias grasas mortales y respalda ecografía para comprobar que la grasa queda por encima de la fascia muscular. La grasa que entra en grandes venas puede alcanzar los pulmones. La popularidad o el nombre no resuelven la seguridad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las estimaciones históricas de mortalidad procedentes de encuestas y fallecimientos notificados varían y no son una tasa mundial actual. Ecografía y precauciones técnicas son avances, no promesas de riesgo cero. Para un BBL deben explicarse cualificación, entorno autorizado, imagen, traslado urgente y seguimiento. Un paquete barato o anunciado como sencillo no sustituye esas respuestas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La psicología de la perfección"
+    },
+    {
+      "type": "paragraph",
+      "text": "[El NHS describe el trastorno dismórfico corporal](https://www.nhs.uk/mental-health/conditions/body-dysmorphia/) como una preocupación angustiante por defectos percibidos. No equivale simplemente a querer otro aspecto; un periodista no puede diagnosticarlo por el número de operaciones. El cribado debe detectar sufrimiento y expectativas irreales sin estigmatizar. Si la preocupación es importante, una evaluación de salud mental puede ayudar más que otra modificación anatómica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe satisfacción, con matices. [El estudio prospectivo de David Sarwer y colaboradores de 2005](https://pubmed.ncbi.nlm.nih.gov/19338818/) reportó un 87 % de satisfacción y mejoras de imagen corporal en una pequeña muestra quirúrgica. Pérdidas de seguimiento y contexto limitan la generalización. Apreciar un rasgo modificado no significa curar depresión, mejorar todas las relaciones o demostrar beneficios psicológicos duraderos para todos los procedimientos."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La revisión sistemática de Kirsty Garbett y colaboradores de 2025](https://pubmed.ncbi.nlm.nih.gov/40156948/) examinó 17 estudios prospectivos controlados y consideró generalmente débil la evidencia. Mejoraron algunos resultados a corto plazo, pero quedaron inciertas conclusiones amplias sobre salud mental. Cuestiona condenas generales y promesas publicitarias. La experiencia satisfactoria de una persona es real, aunque no predice lo que ganarán todas las demás."
+    },
+    {
+      "type": "paragraph",
+      "text": "El arrepentimiento puede relacionarse con resultado, complicaciones, coste o preferencias cambiantes. Una revisión puede corregir un problema técnico; sesiones repetidas pueden ser mantenimiento previsto. Nada demuestra automáticamente patología. Pero un objetivo que nunca se alcanza merece discusión cuidadosa. Las clínicas deberían registrar resultados declarados y quejas, no solo fotos seleccionadas, dejando espacio para experiencias que no encajan en su publicidad."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El negocio de la belleza y el turismo médico"
+    },
+    {
+      "type": "paragraph",
+      "text": "El gráfico compara actividad estimada, no ingresos o seguridad nacional. Estados Unidos lidera el total ISAPS y Brasil el volumen quirúrgico; Corea del Sur y Turquía son mercados importantes con mezclas distintas. No son prevalencia entre residentes, clasificación por habitante o medida de destreza. Pacientes internacionales y tratamientos repetidos contribuyen al volumen registrado."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Las tablas de honorarios ASPS 2024](https://www.plasticsurgery.org/documents/news/statistics/2024/plastic-surgery-statistics-report-2024.pdf) presentan rangos de honorarios del cirujano, no todos los gastos. Anestesia, centro, pruebas, prendas, ausencias laborales y revisiones cambian la factura. No multiplicamos tarifas estadounidenses por procedimientos mundiales para inventar ingresos. Las previsiones comerciales varían por cobertura y son estimaciones, no una contabilidad mundial auditada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Turquía, Brasil, Estados Unidos y Corea del Sur no son sistemas de calidad uniforme. Las clínicas varían. Un presupuesto menor puede reflejar costes distintos o un paquete incompleto; un precio nacional elevado tampoco garantiza calidad. Pregunte quién opera, dónde, qué gastos quedan fuera y quién paga si necesita tratamiento tras volver a casa."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La investigación CDC de junio de 2026](https://wwwnc.cdc.gov/eid/article/32/6/25-1883_article) revisó efectos adversos en estadounidenses que viajaban para operarse, incluyendo viajes nacionales. Documenta problemas de infección y seguimiento, pero sus consultas seleccionadas no dan una tasa para todos los turistas médicos. [Las recomendaciones CDC](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html) también explican dificultades y costes de tratar complicaciones entre países. No justifican transformar una advertencia en clasificación nacional engañosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La tensión económica es evidente: los proveedores venden intervenciones y los pacientes necesitan información independiente sobre límites. Financiamiento y suscripciones facilitan acceso inicial mientras amplían compromisos futuros. Precio completo, seguimiento realista y libertad de rechazar extras forman parte de la calidad. Un hotel atractivo o coordinador convincente no demuestran que la atención médica haya sido verificada."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La pregunta ética: cuándo la elección se vuelve presión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consentimiento informado significa conversar sobre beneficios, riesgos, alternativas e incertidumbre, no firmar después de un discurso comercial. [Las normas GMC](https://www.gmc-uk.org/professional-standards/the-professional-standards/cosmetic-interventions/communication-partnership-and-teamwork) exigen especial responsabilidad al tratar jóvenes y prohíben dirigirles publicidad. También abordan continuidad asistencial. Las leyes locales difieren; poder comprar un tratamiento no elimina el deber profesional de evaluar su adecuación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los pacientes necesitan tiempo, ejemplos realistas y saber qué ocurrirá si quedan descontentos. Ofrecer únicamente más intervenciones limita la decisión de entrada. Rechazar un tratamiento inadecuado es responsabilidad profesional, no un insulto. Por otra parte, suponer que toda demanda indica daño psicológico desprecia la autonomía. Ambos errores sustituyen la evaluación individual por un estereotipo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resultados editados, patrocinios ocultos, ofertas urgentes y promesas de transformación distorsionan expectativas. Lo decisivo es comprender limitaciones antes de pagar. [Los consejos independientes del NHS](https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/before-you-have-a-cosmetic-procedure/) ofrecen un inicio útil. Credenciales, complicaciones, resultados realistas y seguimiento importan más que cuántos seguidores tiene un centro."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El futuro: mejores decisiones, no una humanidad perfecta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Avanzan las comprobaciones ecográficas, medición de resultados, trazabilidad e información de dispositivos. Las novedades necesitan estudios comparativos y vigilancia duradera. Un instrumento, producto o simulación debe evaluarse para indicaciones concretas, no suponerse superior por ser nuevo. Un rostro proyectado ayuda a conversar; no garantiza contractualmente el resultado de la cicatrización."
+    },
+    {
+      "type": "paragraph",
+      "text": "[La respuesta a la consulta inglesa de agosto de 2025](https://www.gov.uk/government/consultations/licensing-of-non-surgical-cosmetic-procedures) plantea restricciones y autorizaciones sujetas a nuevos procesos legales. Un compromiso no significa que todas las normas estén vigentes. [La acción FDA de noviembre de 2025 contra toxina comercializada ilegalmente](https://www.fda.gov/news-events/press-announcements/fda-warns-companies-over-illegal-marketing-botox-and-related-products) muestra el problema de autenticidad, incluso donde existen alternativas aprobadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La revolución realista es decidir mejor y reducir daño evitable. No elimina envejecimiento, impone un ideal universal ni garantiza una vida satisfactoria. Investigar longevidad, como en [nuestro artículo sobre Jonathan](/articles/jonathan-oldest-tortoise-194-years-aging/), difiere de cambiar signos visibles de edad. Intervención estética y rejuvenecimiento biológico requieren pruebas distintas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué establece esta investigación"
+    },
+    {
+      "type": "paragraph",
+      "text": "La evidencia sostiene un sector grande y diverso, riesgos específicos y pacientes satisfechos. No sostiene una tasa mundial única de complicaciones, una explicación universal mediante redes sociales ni una promesa de mejor salud mental. «Revolución» describe acceso y cultura, no una garantía médica. La elección resulta más auténtica cuando no tratarse sigue siendo una opción respetada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Última verificación: 10 de octubre de 2026. Es información sanitaria general, no una recomendación individual. Las perspectivas expertas provienen de investigación y guías publicadas, sin entrevistas originales. La imagen es una ilustración editorial generada por IA, no una paciente ni una demostración técnica. Se conservan fechas, poblaciones y límites para distinguir evidencia e interpretación."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuántos procedimientos estéticos se realizaron en 2025?",
+      "answer": "ISAPS estima 35.204.030 procedimientos realizados por cirujanos plásticos: 17.883.610 quirúrgicos y 17.320.420 no quirúrgicos. No son pacientes únicos ni incluyen toda la actividad de otros proveedores."
+    },
+    {
+      "question": "¿Las redes sociales causan la cirugía estética?",
+      "answer": "Los estudios relacionan su uso centrado en la apariencia con insatisfacción e interés por los procedimientos. Generalmente no demuestran causalidad; también intervienen preocupaciones previas y otras influencias."
+    },
+    {
+      "question": "¿Los rellenos son más seguros que una operación?",
+      "answer": "Evitan una incisión, pero una inyección accidental en un vaso puede causar necrosis, ceguera o un ictus. El riesgo depende del producto, la zona y el profesional; no existe una clasificación universal."
+    },
+    {
+      "question": "¿La cirugía trata el trastorno dismórfico corporal?",
+      "answer": "No debe presentarse como una cura. Una preocupación angustiante requiere evaluación profesional y atención de salud mental adecuada, no diagnósticos basados en fotografías."
+    },
+    {
+      "question": "¿Operarse en otro país siempre es peligroso?",
+      "answer": "Ningún país es uniformemente seguro o inseguro. Compruebe profesional, centro, urgencias y seguimiento. Los viajes y la fragmentación de la atención pueden añadir riesgos."
+    },
+    {
+      "question": "¿Qué debe incluir una consulta?",
+      "answer": "Objetivo concreto, alternativas incluida la ausencia de tratamiento, resultados realistas, riesgos, coste completo, recuperación, dispositivos y seguimiento, con tiempo para decidir sin presión comercial."
+    }
+  ],
+  "sources": [
+    {
+      "label": "ISAPS: encuesta 2025, metodología y tablas",
+      "url": "https://www.isaps.org/media/ua4leneo/isaps-global-survey_2025.pdf"
+    },
+    {
+      "label": "ISAPS: comunicado oficial 2025",
+      "url": "https://www.isaps.org/discover/about-isaps/global-statistics/global-survey-2025-full-report-and-press-releases/"
+    },
+    {
+      "label": "Ward: motivaciones psicológicas, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40516983/"
+    },
+    {
+      "label": "Redes sociales e imagen corporal: revisión 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39205749/"
+    },
+    {
+      "label": "Garbett: resultados psicosociales, revisión 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40156948/"
+    },
+    {
+      "label": "Sarwer: satisfacción, estudio prospectivo 2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19338818/"
+    },
+    {
+      "label": "NHS: trastorno dismórfico corporal",
+      "url": "https://www.nhs.uk/mental-health/conditions/body-dysmorphia/"
+    },
+    {
+      "label": "ASPS: procedimientos estéticos",
+      "url": "https://www.plasticsurgery.org/cosmetic-procedures"
+    },
+    {
+      "label": "ASPS: límites de liposucción",
+      "url": "https://www.plasticsurgery.org/cosmetic-procedures/liposuction/"
+    },
+    {
+      "label": "ASPS: recuperación de abdominoplastia",
+      "url": "https://www.plasticsurgery.org/cosmetic-procedures/tummy-tuck/recovery"
+    },
+    {
+      "label": "ASPS: riesgos de cirugía de párpados",
+      "url": "https://www.plasticsurgery.org/cosmetic-procedures/eyelid-surgery/safety"
+    },
+    {
+      "label": "FDA: riesgos de rellenos",
+      "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers"
+    },
+    {
+      "label": "FDA: riesgos de implantes mamarios",
+      "url": "https://www.fda.gov/medical-devices/breast-implants/risks-and-complications-breast-implants"
+    },
+    {
+      "label": "DailyMed: ficha de BOTOX Cosmetic",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=485d9b71-6881-42c5-a620-a4360c7192ab"
+    },
+    {
+      "label": "ASPS: seguridad de injertos de grasa, 2022",
+      "url": "https://www.plasticsurgery.org/for-medical-professionals/publications/psn-extra/news/gluteal-fat-grafting-a-joint-safety-statement"
+    },
+    {
+      "label": "Winocour: complicaciones de abdominoplastia, 2015",
+      "url": "https://ednet.plasticsurgery.org/Listing/Abdominoplasty-Risk-Factors-Complication-Rates-and-Safety-of-Combined-Procedures-10707"
+    },
+    {
+      "label": "CDC: complicaciones de viajes, junio de 2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1883_article"
+    },
+    {
+      "label": "CDC: turismo médico",
+      "url": "https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html"
+    },
+    {
+      "label": "ASPS: estadísticas y honorarios 2024",
+      "url": "https://www.plasticsurgery.org/documents/news/statistics/2024/plastic-surgery-statistics-report-2024.pdf"
+    },
+    {
+      "label": "GMC: consentimiento, jóvenes y publicidad",
+      "url": "https://www.gmc-uk.org/professional-standards/the-professional-standards/cosmetic-interventions/communication-partnership-and-teamwork"
+    },
+    {
+      "label": "DHSC: consulta sobre autorizaciones, 2025",
+      "url": "https://www.gov.uk/government/consultations/licensing-of-non-surgical-cosmetic-procedures"
+    },
+    {
+      "label": "NHS: antes de elegir un tratamiento",
+      "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/before-you-have-a-cosmetic-procedure/"
+    },
+    {
+      "label": "FDA: toxinas comercializadas ilegalmente, 2025",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-warns-companies-over-illegal-marketing-botox-and-related-products"
+    }
+  ]
+}

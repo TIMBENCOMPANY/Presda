@@ -1,4 +1,5 @@
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
+import { PlasticSurgeryGraphics } from "@/components/PlasticSurgeryGraphics";
 import { ArtificialBloodGraphics } from "@/components/ArtificialBloodGraphics";
 import { PassportGraphics } from "@/components/PassportGraphics";
 import { RobotaxiGraphics } from "@/components/RobotaxiGraphics";
@@ -329,6 +330,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "plastic-surgery-revolution-beauty-at-any-cost" && [13, 17, 23, 30, 44].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><PlasticSurgeryGraphics locale={locale} kind={originalIndex === 13 ? "demographics" : originalIndex === 17 ? "totals" : originalIndex === 23 ? "procedures" : originalIndex === 30 ? "risks" : "countries"} /></div>;
+              }
               if (article.slug === "world-most-expensive-watches-2026" && originalIndex === 4) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WatchPriceComparison locale={locale} /></div>;
               }
