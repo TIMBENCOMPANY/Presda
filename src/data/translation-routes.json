@@ -2686,6 +2686,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/psychology-of-brands-why-we-pay-more-for-a-name/",
+    "path": "/ar/articles/psychology-of-brands-why-we-pay-more-for-a-name/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/psychology-of-brands-why-we-pay-more-for-a-name/",
+    "path": "/es/articles/psychology-of-brands-why-we-pay-more-for-a-name/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/psychology-of-brands-why-we-pay-more-for-a-name/",
+    "path": "/fr/articles/psychology-of-brands-why-we-pay-more-for-a-name/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/real-history-of-coffee/",
     "path": "/ar/articles/real-history-of-coffee/"
   },

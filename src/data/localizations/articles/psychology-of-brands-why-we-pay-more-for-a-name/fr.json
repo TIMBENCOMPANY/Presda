@@ -1,0 +1,331 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/psychology-of-brands-why-we-pay-more-for-a-name/",
+  "path": "/fr/articles/psychology-of-brands-why-we-pay-more-for-a-name/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr terminology, translation parity and attribution review",
+    "reviewedAt": "2026-10-11",
+    "terminologyChecked": true
+  },
+  "title": "LA PSYCHOLOGIE DES MARQUES : POURQUOI NOUS PAYONS PLUS POUR UN NOM",
+  "seoTitle": "Psychologie des marques : pourquoi payer plus pour un nom ?",
+  "description": "Neurosciences, identité, statut social et fidélité : comprendre le prix des marques à travers des études vérifiées et cinq exemples familiers.",
+  "excerpt": "Neurosciences, identité, statut social et fidélité : comprendre le prix des marques à travers des études vérifiées et cinq exemples familiers.",
+  "headlineHighlights": {
+    "red": "MARQUES",
+    "gold": "PAYONS PLUS"
+  },
+  "keywords": [
+    "Psychologie des marques",
+    "Comportement du consommateur",
+    "Luxe",
+    "Neurosciences",
+    "Signalement du statut",
+    "Fidélité aux marques"
+  ],
+  "searchIntent": "Neurosciences, identité, statut social et fidélité : comprendre le prix des marques à travers des études vérifiées et cinq exemples familiers.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-11",
+  "updatedAt": "2026-10-11",
+  "image": {
+    "src": "/articles/luxury-brands-avenue-ai-editorial.png",
+    "alt": "Illustration éditoriale générée par IA d’une avenue commerçante de luxe imaginaire au coucher du soleil, sans représenter un lieu réel ni un soutien des marques"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Imaginez-vous devant une boutique à la tombée du jour. Deux sacs pourraient transporter les mêmes affaires ; deux montres donner la même heure. Pourtant, un nom vous fait ralentir. Avant d’examiner une couture ou un mouvement, l’objet possède déjà une histoire, un public et une place possible dans votre vie. Cette scène est imaginaire, pas un entretien avec un client. Elle illustre une énigme commerciale familière : pourquoi un nom reconnaissable peut-il modifier la valeur apparente d’un objet ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous payons les marques pour un mélange d’avantages fonctionnels, d’attentes, de confiance, de significations affectives et de reconnaissance sociale. Les expériences neuroscientifiques éclairent certains aspects ; les théories économiques expliquent des incitations particulières. Aucune ne démontre que tout achat coûteux est irrationnel. La question essentielle est ce que l’acheteur reçoit en échange du supplément et sa capacité à distinguer un avantage mesurable d’un récit séduisant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’achetons-nous vraiment lorsque nous achetons une marque ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une marque dépasse son logo. Elle réunit des associations liées à un vendeur identifiable : les fonctions du produit, son apparence, les conséquences d’une panne et le message que son utilisation peut transmettre. Un nom familier condense ces informations et accélère le choix. Cela peut être utile lorsque comparer toutes les options prendrait trop de temps. Mais la familiarité peut aussi remplacer une comparaison précisément lorsque celle-ci serait la plus importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le supplément de prix ne correspond donc pas à une seule chose. Il peut payer l’ingénierie, un réseau de réparation fiable, le design, le service en boutique ou une esthétique particulière. Il peut aussi acheter de la réassurance, un sentiment d’appartenance ou un signal reconnaissable. Ces avantages coexistent parfois. Réduire tout le supplément au savoir-faire est aussi trompeur que le réduire à une manipulation. Il faut examiner quels bénéfices existent, lesquels sont documentés et lesquels reposent surtout sur l’interprétation de l’acheteur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi un prix élevé semble-t-il parfois annoncer une meilleure qualité ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le prix se voit immédiatement ; la qualité, beaucoup moins. Avant de porter une chaussure pendant des mois ou de réparer un appareil, l’acheteur doit estimer la durabilité avec des informations incomplètes. La synthèse de Rao et Monroe, publiée en 1989, relève des relations positives entre les indices de prix ou de marque et la qualité perçue, avec des réserves contextuelles et méthodologiques. Elle concerne des perceptions, pas la preuve qu’un objet coûteux fonctionne mieux. [Rao et Monroe : qualité perçue, 1989](https://journals.sagepub.com/doi/10.1177/002224378902600309)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prenons une veste inconnue dans une belle boutique. Son prix peut suggérer une fabrication soignée, mais il peut également refléter le loyer, la distribution, le marketing ou le positionnement. Rien de cela ne démontre qu’elle sera confortable, durable ou chaude. La qualité réelle exige des preuves propres au produit. La qualité perçue est un jugement construit avec les indices disponibles. On peut raisonnablement utiliser ces indices tout en sachant qu’ils ne constituent pas un rapport d’essai."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L’expérience de Plassmann : les attentes au cœur de la dégustation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une étude de 2008 publiée dans PNAS, Hilke Plassmann et ses collègues ont observé par imagerie 20 participants dégustant du vin. Des vins identiques présentés avec des prix différents ont reçu des évaluations de plaisir différentes, accompagnées de variations des signaux d’oxygénation dans le cortex orbitofrontal médian. Cette expérience contrôlée portait sur le prix annoncé, pas sur les sacs de luxe ni sur une supériorité objective des vins chers. [Plassmann et collègues : prix et plaisir, PNAS, 2008](https://www.rnl.caltech.edu/publications/pdf/plassmann2008.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinction est importante. Une attente ne reste pas forcément extérieure à l’expérience, comme une étiquette posée sur une sensation inchangée. Elle peut participer à son évaluation. Cela ne signifie pas que toute préférence est fausse. L’expérience était petite, particulière et réalisée dans un appareil d’imagerie. L’appliquer à l’achat d’une montre nécessite de la prudence. Elle propose un mécanisme à considérer, pas une formule indiquant combien un logo ajoute au plaisir de chacun."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L’étude de McClure : un nom familier peut compter"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude de Samuel McClure et de ses collègues, publiée dans Neuron en 2004, comparait des réponses à des colas anonymes ou accompagnés d’un indice de marque. L’indice Coca-Cola influençait les préférences et des régions comprenant l’hippocampe et le cortex préfrontal dorsolatéral ; la condition Pepsi équivalente ne produisait pas le même effet. Cette asymétrie compte : les résultats concernent des boissons familières et des tâches précises, pas un pouvoir universel de toute marque sur le goût. [McClure et collègues : boissons familières, Neuron, 2004](https://mcclurelab.org/pdf/McClureLi2004.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les images du cerveau se prêtent particulièrement aux exagérations. L’IRM fonctionnelle mesure des variations d’oxygénation associées à l’activité neuronale, pas une photographie du désir. Une région activée ne prouve ni addiction, ni manipulation irrésistible, ni recherche secrète d’approbation. Une interprétation responsable associe comportement, protocole et limites statistiques. L’étude montre que l’information culturelle peut contribuer à la préférence. Elle n’abolit pas la liberté des consommateurs et n’identifie pas les motivations de tous les amateurs d’une boisson."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Veblen, statut social et attrait d’un signal coûteux"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans La Théorie de la classe de loisir, en 1899, Thorstein Veblen décrivait la consommation ostentatoire : une dépense qui communique une position sociale. Il s’agit d’une théorie sociale historique, pas d’une expérience clinique moderne. Elle invite à regarder le public entourant l’achat. Une montre peut être utile à son propriétaire et lisible pour autrui. Sa signification dépend parfois de son prix supposé, de sa reconnaissance et des réussites qu’on lui associe. [Veblen : texte original, 1899, Université Fordham](https://sourcebooks.web.fordham.edu/mod/1899veblen.asp)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’effet Veblen est une proposition plus précise : un prix supérieur peut accroître l’attrait lié au statut dans certaines conditions. Le modèle économique de Bagwell et Bernheim, publié en 1996, examine ces conditions. Il ne prouve pas que chaque article de luxe possède une demande croissante avec son prix. Des ventes et des prix en hausse peuvent refléter des revenus, des goûts ou une offre limitée. Qualifier automatiquement toute Rolex, tout sac Gucci ou toute basket chère de bien de Veblen ignore ces explications concurrentes. [Bagwell et Bernheim : effets Veblen, AER, 1996](https://www.jstor.org/stable/2118201)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le luxe discret et ceux qui savent le reconnaître"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le signalement du statut n’exige pas le plus grand logo possible. Les recherches de Han, Nunes et Drèze de 2010 sur la visibilité des marques relient les préférences pour un luxe apparent ou discret à différentes intentions sociales. Un petit cercle peut reconnaître un détail invisible aux autres. Un design discret peut donc porter du sens, sans que chaque objet sans logo soit luxueux ni que chaque objet marqué révèle un manque d’assurance. [Han, Nunes et Drèze : visibilité des marques, 2010](https://journals.sagepub.com/doi/10.1509/jmkg.74.4.015)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un même objet transmet des messages différents selon le contexte. Un passionné de mode remarque une finition ; un collègue ne voit qu’un sac. Une personne choisit peut-être un signe visible pour son esthétique, parce qu’il s’agit d’un cadeau ou pour évoquer une communauté. Ce sont des possibilités analytiques, pas des diagnostics. Observer une tenue ne suffit pas à établir la richesse, la confiance en soi ou les motivations. Le public participe au récit, mais ne le raconte jamais entièrement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Belk et les objets qui participent à notre identité"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans Possessions and the Extended Self, publié en 1988, Russell Belk synthétise des travaux et des théories sur la contribution des possessions à l’identité. Ce n’est pas un essai d’imagerie cérébrale. Ce cadre aide à comprendre pourquoi un objet importe au-delà de sa fonction : un cadeau, une réussite ou une possession familière peut participer au récit de soi. Une marque peut intégrer ce récit, mais une identité ne se réduit jamais à un panier d’achats. [Belk : possessions et identité étendue, 1988](https://academic.oup.com/jcr/article-abstract/15/2/139/1841428)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaginez une montre achetée après des années d’épargne ou des chaussures associées à une première course. Ces exemples hypothétiques montrent comment une biographie transforme un objet en repère personnel. Un remplacement techniquement équivalent ne remplacerait pas nécessairement le souvenir. Ce sens peut être réel même si la valeur financière est modeste. Inversement, posséder le bon nom ne garantit ni appartenance, ni accomplissement, ni respect. Le risque apparaît lorsque le symbole doit, à lui seul, fournir une identité complète."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Attachement, confiance et différentes formes de fidélité"
+    },
+    {
+      "type": "paragraph",
+      "text": "Racheter ne signifie pas forcément aimer. Un client revient parce que le produit fonctionne, que les alternatives lui sont inconnues ou qu’un changement serait contraignant. Les travaux de Chaudhuri et Holbrook de 2001 distinguent fidélité d’achat et fidélité d’attitude, et étudient leurs relations avec la confiance, l’affect et les performances de la marque. Cette distinction sépare comportement et attachement, sans supposer que tout client régulier apprécie le vendeur ou acceptera n’importe quel prix. [Chaudhuri et Holbrook : confiance et fidélité, 2001](https://journals.sagepub.com/doi/10.1509/jmkg.65.2.81.18255)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fidélité peut se gagner par une performance fiable et un traitement équitable. Elle peut aussi persister parce que l’acheteur possède des accessoires compatibles, maîtrise une interface ou préfère éviter une nouvelle recherche. Ces raisons n’ont pas les mêmes conséquences. Un choix familier réduit l’effort aujourd’hui mais peut décourager la comparaison demain. Se demander si la relation sert encore l’acheteur est plus utile que célébrer toute fidélité ou la condamner comme une crédulité automatique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Apple : quand le supplément comprend une intégration utile"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apple illustre une valeur qui ne s’analyse pas uniquement par le logo. Sa documentation officielle Continuity décrit des fonctions reliant des appareils compatibles, notamment la poursuite d’un travail d’un appareil à l’autre. Pour un utilisateur dont les habitudes reposent sur elles, l’intégration constitue un avantage pratique. Cette documentation précise des capacités et des conditions ; elle ne prouve pas qu’Apple est idéal pour chaque tâche, que toutes les fonctions existent sur tous les appareils ou que tout supplément est justifié. [Apple : fonctions et conditions de Continuity](https://www.apple.com/macos/continuity/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les dimensions psychologiques et pratiques peuvent se renforcer. Une personne apprécie simultanément le design, une interface familière et son organisation existante. Comparer une seule caractéristique peut manquer cet ensemble. Mais la commodité de l’écosystème mérite aussi un examen : le coût du changement d’appareils, de services et d’habitudes appartient à la comparaison. Il faut évaluer si l’ensemble répond aux besoins à un coût acceptable, plutôt que considérer la fidélité comme une preuve de goût ou le refus de la marque comme une preuve d’indépendance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nike : performance, aspiration et langage du sport"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mission officielle de Nike relie ses produits à l’inspiration, à l’innovation et à la pratique sportive. Elle documente la présentation de l’entreprise, pas une supériorité indépendante des produits. L’intérêt analytique est la façon dont une catégorie fonctionnelle porte une aspiration. Une chaussure protège un pied et accompagne une activité ; une image d’effort ou de réussite peut lui ajouter du sens. Il convient d’examiner ces dimensions séparément plutôt que d’en faire une seule promesse de performance. [Nike : mission officielle](https://about.nike.com/en/mission/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un coureur doit toujours trouver une chaussure adaptée à sa morphologie et à son usage. Un nom célèbre ne détermine pas ces besoins. Un amateur qui choisit un style quotidien cherche autre chose qu’un compétiteur évaluant son matériel. Aucun choix n’est intrinsèquement ridicule. Le problème apparaît lorsqu’un message d’aspiration devient une preuve qu’un produit produira un résultat précis. La publicité peut rapprocher symboliquement un objectif ; elle ne parcourt pas les kilomètres et ne garantit ni absence de blessures ni progression."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rolex, Gucci et Louis Vuitton : le patrimoine et son interprétation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rolex documente son histoire horlogère et ses étapes techniques. L’histoire officielle de Gucci situe sa fondation à Florence en 1921 ; celle de Louis Vuitton décrit ses débuts en 1854 et l’apparition ultérieure de la toile Monogram. Ces sources montrent comment les marques documentent leur patrimoine. Ce sont des récits d’entreprise intéressés, pas des mesures neutres de qualité. La longévité et un design reconnaissable peuvent soutenir une continuité sans prouver la supériorité de chaque produit actuel. [Rolex : documentation historique officielle](https://newsroom.rolex.com/about-rolex/history-of-rolex) [Gucci : histoire officielle](https://www.gucci.com/us/en/nst/history-of-gucci) [Louis Vuitton : patrimoine officiel](https://us.louisvuitton.com/eng-us/magazine/articles/heritage)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour un futur propriétaire, un nom évoque l’ingénierie, le design, la collection, la reconnaissance ou une étape personnelle. Le prix d’une Rolex ne s’explique pas uniquement par l’heure affichée ; celui d’un sac Gucci ou Louis Vuitton par le transport des affaires. Ce sont des comparaisons entre fonctions et significations, pas une négation des matériaux et du savoir-faire. Elles ne garantissent pas non plus un rendement à la revente. Modèle, état, frais et demande comptent ; le prestige ne protège pas de toute perte."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment le marketing construit un monde autour de l’objet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le marketing situe l’objet dans un décor : une boutique, une photographie, un partenariat, un récit d’origine ou un langage visuel reconnaissable. Il suggère qui pourrait l’utiliser et pourquoi il importe. Cette interprétation s’appuie sur les travaux concernant les attentes, l’identité et les signaux sociaux ; elle n’affirme pas que chaque campagne a un effet neurologique mesurable. Une présentation soignée peut informer sur le design tout en restant sélective sur ce qu’elle montre."
+    },
+    {
+      "type": "paragraph",
+      "text": "La mise en scène devient particulièrement persuasive lorsqu’on oublie qu’elle est une présentation. Un éclairage doux ne démontre pas la durabilité. Un patrimoine raconté avec soin ne remplace pas une garantie. L’association à une personne accomplie ne promet pas les accomplissements du client. Pourtant, apprécier un beau cadre n’est pas dépourvu de valeur. Il faut garder le décor et le produit distincts : savourer le récit, puis vérifier les affirmations qui devraient rester vraies une fois sorti du magasin."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rareté, influence sociale et prix de l’appartenance"
+    },
+    {
+      "type": "paragraph",
+      "text": "La rareté a plusieurs explications possibles. Matériaux, temps ou capacité peuvent réellement limiter la production ; la disponibilité peut aussi dépendre de décisions de distribution. Sans preuves, une liste d’attente ne révèle pas l’explication dominante. Une disponibilité limitée peut accroître le désir sans démontrer une qualité supérieure. L’acheteur doit distinguer pourquoi l’objet est difficile à obtenir et pourquoi il serait utile ou agréable de le posséder."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’influence sociale ajoute une dimension. Ce que reconnaissent les amis, ce que célèbre une communauté et ce qui revient dans un fil d’actualité modifient les options auxquelles on pense. Ce sont des voies plausibles vers l’attention et la comparaison, pas l’affirmation qu’un influenceur fait acheter tout le monde. La popularité peut orienter vers un produit utile ou un choix inadapté. Un soutien public devrait susciter des questions sur la pertinence, les preuves et l’intérêt commercial, plutôt que clore l’examen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Évaluer équitablement la valeur perçue et la valeur réelle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Commencez par la fonction de l’objet. Pour un appareil, examinez les tâches, le suivi et la compatibilité ; pour un vêtement, la coupe, les matériaux et l’entretien ; pour une montre, les fonctions, le service et le plaisir du design. Séparez ensuite les avantages du supplément. Lesquels se vérifient avant l’achat ? Lesquels demandent de l’expérience ? Lesquels sont surtout symboliques ? Cette méthode pratique proposée par PRESDA n’est ni un test psychologique validé ni une prévision de prix de revente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparez sans mépriser vos préférences. Le plaisir esthétique et la valeur sentimentale sont des raisons légitimes, si leur coût est compris. Si le nom vous attire, reconnaissez-le. Cette franchise empêche une préférence symbolique de se déguiser en nécessité technique. Un budget rend aussi le compromis visible : l’argent consacré à une marque ne peut simultanément financer une autre expérience, une dépense essentielle ou un projet futur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que la science permet de dire et ce qu’elle ne dit pas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces sources répondent à des questions différentes. Plassmann et McClure proposent des observations contrôlées sur des expériences et des indices précis. Belk offre un cadre conceptuel sur les possessions et l’identité. Veblen formule une critique historique ; les travaux économiques et marketing ultérieurs examinent des mécanismes particuliers. Leur rapprochement enrichit l’interprétation des marques sans en faire une expérience unique. Dates, échantillons, protocoles et contexte culturel restent essentiels à la portée des conclusions."
+    },
+    {
+      "type": "paragraph",
+      "text": "On ne peut raisonnablement déduire une motivation d’un logo, attribuer une part universelle du prix à la psychologie ou tirer un prix juste d’une image cérébrale. Les consommateurs, les produits et les préférences varient. Une analyse critique doit reconnaître les avantages réels et les plaisirs réels. L’objectif est un achat plus clair, pas un achat vide d’émotion. Les preuves éclairent ce qu’offre le produit ; le jugement décide de son importance dans une vie particulière."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand le nom demeure, que vaut-il pour vous ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les reportages LIFESTYLE de PRESDA abordent aussi l’économie et le savoir-faire des pièces exceptionnelles dans [Les montres les plus chères du monde en 2026](/articles/world-most-expensive-watches-2026/). Croiser les catégories révèle une tension commune : un objet peut être utile, beau, socialement significatif et coûteux pour des raisons différentes. Comprendre l’une ne doit pas effacer les autres. La comparaison la plus révélatrice oppose souvent la vie imaginée autour de l’achat à la vie ordinaire dans laquelle il sera utilisé."
+    },
+    {
+      "type": "paragraph",
+      "text": "Revenez à la boutique imaginaire au crépuscule. La vitrine brille encore ; le nom compte toujours. Comprendre son attrait ne vous oblige pas à partir. Cela ouvre une autre possibilité : entrer sans demander à l’objet de prouver votre valeur. Une marque enrichit parfois une expérience, organise une habitude ou marque un souvenir. Elle ne décide pas qui vous êtes. L’achat le plus solide est celui dont vous pouvez nommer les avantages, lorsque la publicité a cessé de parler."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Pourquoi payons-nous davantage pour une marque ?",
+      "answer": "Une marque peut apporter une fiabilité perçue, des services utiles, du plaisir, une identité et une reconnaissance sociale. Le supplément peut combiner des avantages réels et une valeur symbolique."
+    },
+    {
+      "question": "Une marque peut-elle modifier le goût ressenti ?",
+      "answer": "Des expériences contrôlées montrent que le prix annoncé et certaines informations de marque peuvent influencer les préférences ou le plaisir déclaré. Ces effets dépendent du contexte et ne concernent pas nécessairement toutes les marques ni tous les consommateurs."
+    },
+    {
+      "question": "Tous les produits de luxe sont-ils des biens de Veblen ?",
+      "answer": "Non. Un effet Veblen désigne une situation où un prix supérieur accroît l’attrait lié au statut. Le prix élevé ou la popularité d’une marque ne suffit pas à démontrer que la demande augmente avec le prix."
+    },
+    {
+      "question": "L’imagerie cérébrale prouve-t-elle que le marketing nous contrôle ?",
+      "answer": "Non. L’IRM fonctionnelle mesure des variations d’oxygénation du sang associées à l’activité neuronale. Elle ne lit pas directement les motivations, ne diagnostique pas une addiction et ne prouve pas une perte de liberté."
+    },
+    {
+      "question": "Une marque chère offre-t-elle toujours une meilleure qualité ?",
+      "answer": "Non. Il faut comparer les performances, matériaux, durabilité, réparabilité, garantie et services du modèle précis. Une réputation renseigne, mais ne remplace pas les preuves sur le produit."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Rao et Monroe : qualité perçue, 1989",
+      "url": "https://journals.sagepub.com/doi/10.1177/002224378902600309"
+    },
+    {
+      "label": "Plassmann et collègues : prix et plaisir, PNAS, 2008",
+      "url": "https://www.rnl.caltech.edu/publications/pdf/plassmann2008.pdf"
+    },
+    {
+      "label": "McClure et collègues : boissons familières, Neuron, 2004",
+      "url": "https://mcclurelab.org/pdf/McClureLi2004.pdf"
+    },
+    {
+      "label": "Veblen : texte original, 1899, Université Fordham",
+      "url": "https://sourcebooks.web.fordham.edu/mod/1899veblen.asp"
+    },
+    {
+      "label": "Bagwell et Bernheim : effets Veblen, AER, 1996",
+      "url": "https://www.jstor.org/stable/2118201"
+    },
+    {
+      "label": "Han, Nunes et Drèze : visibilité des marques, 2010",
+      "url": "https://journals.sagepub.com/doi/10.1509/jmkg.74.4.015"
+    },
+    {
+      "label": "Belk : possessions et identité étendue, 1988",
+      "url": "https://academic.oup.com/jcr/article-abstract/15/2/139/1841428"
+    },
+    {
+      "label": "Chaudhuri et Holbrook : confiance et fidélité, 2001",
+      "url": "https://journals.sagepub.com/doi/10.1509/jmkg.65.2.81.18255"
+    },
+    {
+      "label": "Apple : fonctions et conditions de Continuity",
+      "url": "https://www.apple.com/macos/continuity/"
+    },
+    {
+      "label": "Nike : mission officielle",
+      "url": "https://about.nike.com/en/mission/"
+    },
+    {
+      "label": "Rolex : documentation historique officielle",
+      "url": "https://newsroom.rolex.com/about-rolex/history-of-rolex"
+    },
+    {
+      "label": "Gucci : histoire officielle",
+      "url": "https://www.gucci.com/us/en/nst/history-of-gucci"
+    },
+    {
+      "label": "Louis Vuitton : patrimoine officiel",
+      "url": "https://us.louisvuitton.com/eng-us/magazine/articles/heritage"
+    }
+  ]
+}
