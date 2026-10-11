@@ -3421,6 +3421,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/world-most-expensive-paintings-ever-sold/",
+    "path": "/ar/articles/world-most-expensive-paintings-ever-sold/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/world-most-expensive-paintings-ever-sold/",
+    "path": "/es/articles/world-most-expensive-paintings-ever-sold/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/world-most-expensive-paintings-ever-sold/",
+    "path": "/fr/articles/world-most-expensive-paintings-ever-sold/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/world-most-expensive-watches-2026/",
     "path": "/ar/articles/world-most-expensive-watches-2026/"
   },

@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "world-most-expensive-paintings-ever-sold": {
+    en: { red: "PAINTINGS", gold: "SOLD" },
+    fr: { red: "TABLEAUX", gold: "VENDUS" },
+    ar: { red: "اللوحات", gold: "بيعت" },
+    es: { red: "PINTURAS", gold: "VENDIDAS" }
+  },
   "beyond-luxury-world-most-unique-hotels": {
     en: { red: "HOTELS", gold: "LUXURY" },
     fr: { red: "HÔTELS", gold: "LUXE" },
