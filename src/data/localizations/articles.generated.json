@@ -272663,6 +272663,1260 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/seljuk-empire-origins-manzikert-culture-decline/",
+    "path": "/ar/articles/seljuk-empire-origins-manzikert-culture-decline/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex ar historical terminology and source attribution review",
+      "reviewedAt": "2026-10-11",
+      "terminologyChecked": true
+    },
+    "title": "الإمبراطورية السلجوقية: السلالة التركية التي أعادت تشكيل الشرق الأوسط",
+    "seoTitle": "الإمبراطورية السلجوقية: الأصول وملاذكرد والثقافة والأفول",
+    "description": "تاريخ السلاجقة الكبار وألب أرسلان وملاذكرد وملكشاه، مع تسلسل زمني ومصادر علمية وتمييز واضح عن سلطنة سلاجقة الروم.",
+    "excerpt": "تاريخ السلاجقة الكبار وألب أرسلان وملاذكرد وملكشاه، مع تسلسل زمني ومصادر علمية وتمييز واضح عن سلطنة سلاجقة الروم.",
+    "headlineHighlights": {
+      "red": "الإمبراطورية السلجوقية",
+      "gold": "تشكيل"
+    },
+    "keywords": [
+      "الإمبراطورية السلجوقية",
+      "ألب أرسلان",
+      "ملاذكرد",
+      "ملكشاه",
+      "نظام الملك",
+      "سلاجقة الروم"
+    ],
+    "searchIntent": "تاريخ السلاجقة الكبار وألب أرسلان وملاذكرد وملكشاه، مع تسلسل زمني ومصادر علمية وتمييز واضح عن سلطنة سلاجقة الروم.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-11",
+    "updatedAt": "2026-10-11",
+    "image": {
+      "src": "/articles/seljuk-palace-ai-historical-reconstruction.png",
+      "alt": "إعادة بناء تاريخية مولدة بالذكاء الاصطناعي لقصر سلجوقي متخيل وحاكم على اليمين، وليست صورة أصيلة لألب أرسلان أو لحاكم محدد"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "السلاجقة سلالة ذات أصول تركية أوغوزية غير توسعها في القرن الحادي عشر تاريخ إيران والعراق والمناطق المجاورة. أنشأت انتصاراتهم نظاما عسكريا جديدا حول الخلافة العباسية، وأسهم الإداريون والعلماء والبناؤون الفرس في تشكيل الحياة الإمبراطورية. كانت دولة السلاجقة الكبار وسلطنة سلاجقة الروم اللاحقة دولتين متقاربتين أسريا لكن مختلفتين سياسيا. ولم تكن أي منهما الدولة العثمانية تحت اسم قديم."
+      },
+      {
+        "type": "paragraph",
+        "text": "تختزل الحكاية أحيانا في فارس وقوس ومعركة شهيرة. لكن التاريخ الأوسع أشد إثارة: أسر رعوية تصبح صاحبة عروش، وخليفة يتفاوض مع سلطان، ومدن تمول بلاطات متنقلة، وإمبراطورية تكافئ قادتها ولا تستطيع حسم الخلافة على الحكم سلميا. نشأت إنجازاتها وهشاشتها من المهمة نفسها: إدارة سكان متنوعين عبر مسافات كبيرة، وربط مصالح المدن والجنود وأفراد الأسرة دون جعل السلطة متطابقة في كل مكان. هذه العلاقات تفسر القوة بقدر ما تفسر التفكك."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الأصول الأوغوزية: من سلجوق بك إلى حفيديه"
+      },
+      {
+        "type": "paragraph",
+        "text": "حملت الأسرة اسم سلجوق بك، الزعيم الأوغوزي المرتبط بتخوم نهر سير داريا السفلى. تربط روايات انتقال الأسرة نحو العالم الإسلامي باعتناق الإسلام، لكن تاريخها المبكر وصل عبر نصوص تحتوي عناصر أسطورية. يضع [مقال إيرانكا عن جند](https://www.iranicaonline.org/articles/jand-2/) المدينة صراحة ضمن هذه الروايات شبه الأسطورية. لذلك لا ينبغي التعامل مع قصة تأسيس مصقولة باعتبارها سجلا عائليا معاصرا، أو افتراض أن كل مرحلة من الهجرة موثقة بالدرجة نفسها. الاعتراف بحدود المعرفة لا يلغي الأصول الأوغوزية المثبتة."
+      },
+      {
+        "type": "paragraph",
+        "text": "حقق حفيدا سلجوق، طغرل بك وجغري بك، الاختراق السياسي الأكثر استمرارا. يشرح [كلود كاهن في دراسته لجغري](https://www.iranicaonline.org/articles/cagri-beg-dawud-b/) الهجرة إلى خراسان والتفاوض والصراع والبحث عن المراعي. لم تكن الأراضي خالية؛ فقد تنافس المزارعون والمدن والولاة والجماعات الرعوية على الموارد. احتاج الأخوان إلى تنظيم الأتباع وإيجاد موقع داخل نظام قائم قبل تغيير أجزاء منه. لم ينشأ الحكم من المهارة العسكرية وحدها، بل من القدرة على بناء التحالفات والتعامل مع سلطات ومجتمعات لها تاريخ سابق."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "دندانقان عام 1040: هزيمة الغزنويين"
+      },
+      {
+        "type": "paragraph",
+        "text": "في دندانقان قرب مرو، في تركمانستان الحالية، هزمت القوات السلجوقية عام 1040 جيش السلطان الغزنوي مسعود الأول. يشدد [المؤرخ كليفورد إدموند بوزورث](https://www.iranicaonline.org/articles/dandanqan-a-small-town-of-medieval-khorasan-in-the-qara-qum-or-sandy-desert-between-marv-and-saraks-10-farsaks-from/) على مشكلات التموين وسط الجفاف والمجاعة. ثبت النصر موقع السلاجقة في خراسان، لكنه لم يدمر السلالة الغزنوية التي احتفظت بأراض أخرى. كما أن تكرار عدد ضخم للجنود في رواية وسيطة لا يجعله إحصاء حديثا موثوقا. يركز هذا المقال على النتيجة والسياق بدلا من تقديم الأعداد المختلف عليها بوصفها يقينا."
+      },
+      {
+        "type": "paragraph",
+        "text": "اختبرت المعركة قدرة الجيش على الحركة والتغذي والتنسيق، ولم تثبت أن سلاحا واحدا يهزم جميع الأسلحة دائما. ظل جغري أساسيا في المناطق الشرقية بينما توسع طغرل غربا. تذكرنا الشراكة بأن بناء الدولة كان مشروعا عائليا متعدد المراكز. تصلح دندانقان نقطة بداية للإمبراطورية، مع أن طغرل كان قد رسخ سلطته في نيسابور عام 1038. لذلك لا تتطابق نشأة الدولة مع يوم واحد؛ فالانتصار العسكري عزز مسارا سياسيا سابقا، ثم احتاج إلى إدارة المدن والموارد والأقاليم المكتسبة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "بغداد عام 1055: سلطان إلى جانب الخليفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "دخل طغرل بغداد عام 1055 وأنهى السيطرة البويهية فيها، مقدما نفسه حاميا للخلافة العباسية. تعد [السردية التاريخية لمتحف المتروبوليتان](https://www.metmuseum.org/essays/the-art-of-the-seljuqs-of-iran-ca-1040-1196) ذلك تحولا سياسيا أساسيا. انتقلت الغلبة العسكرية أكثر إلى السلطان، بينما احتفظ الخليفة بالمكانة الدينية ودور مهم في إضفاء الشرعية. كانت العلاقة موضع تفاوض وتوتر أحيانا، وليست انتقالا بسيطا لكل أنواع السلطة. لا يعني ضعف الجيش العباسي أن المؤسسة التي تمنح الاعتراف والألقاب فقدت قدرتها على التأثير في السياسة وموازين الهيبة."
+      },
+      {
+        "type": "paragraph",
+        "text": "يحتاج وصف الحدث بالاستعادة إلى تحديد ما استعيد. فلم يرجع النظام المركزي للخلافة العباسية المبكرة. ربط الاعتراف والتكريم والمصاهرة مؤسسات قد تتباين مصالحها. وامتلك العلماء والتجار والجماعات البغدادية نفوذا خاصا، وكان الحكم يمر عبر تلك العلاقات. يوضح [تاريخ العباسيين في PRESDA](/articles/abbasid-caliphate-baghdad-islamic-golden-age/) لماذا لا تمحو محدودية القوة السياسية الأهمية الرمزية والمؤسسية للخلافة. ظلت بغداد مدينة حية وليست مجرد منصة احتفالية للسلطان، وكان التعامل مع مجتمعها جزءا من ممارسة الحكم لا تفصيلا ثانويا."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ألب أرسلان خارج إطار معركة واحدة"
+      },
+      {
+        "type": "paragraph",
+        "text": "بعد وفاة طغرل عام 1063 برز ابن أخيه ألب أرسلان سلطانا. يؤرخ حكمه عادة بين 1063 و1072. قاد حملات في القوقاز وواجه خصوما على الجبهات الشرقية والغربية. تضع [سيرته العلمية في إيرانكا](https://www.iranicaonline.org/articles/alp-arslan-saljuq-sultan/) ملاذكرد ضمن مسيرة أوسع. يحجب التركيز على بيزنطة وحدها اهتماماته في سوريا ومنافسات الأسرة. لم يكن السلطان يتحرك على خريطة ذات عدو واحد؛ وكان توازن الأقاليم وولاء القادة واستعداد الأقارب للمطالبة بالحكم يؤثر في اختيار الحملات وتوقيتها."
+      },
+      {
+        "type": "paragraph",
+        "text": "سعى الإمبراطور البيزنطي رومانوس الرابع ديوجينيس، الذي حكم بين 1068 و1071، إلى استعادة أمن الحدود الشرقية. ضغطت الغارات والحصون المتنازع عليها على إمبراطورية تعاني توترات في الموارد والولاءات. تصرف الحاكمان في بيئتين استراتيجيتين معقدتين. أصبحت مواجهتهما مهمة لأنها ربطت هذه الضغوط بأسر إمبراطور، لا لأن مصيرا محتوما جعل أحد الطرفين فاتحا والآخر محكوما بالاختفاء. فهم أهداف الحملة وحدودها يفسر القرار العسكري أفضل من قراءة النتيجة اللاحقة كما لو كانت معروفة مسبقا لكل المشاركين."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ملاذكرد عام 1071: انتصار وأسر وتفسيرات متنافسة"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 26 أغسطس 1071 هزم ألب أرسلان رومانوس قرب ملاذكرد، الواقعة في شرق تركيا الحالية، وأسر الإمبراطور. ضغطت حركة الفرسان والرماية السلجوقية على التشكيلات البيزنطية، واحتلت الفوضى وضعف التنسيق مكانا مركزيا في روايات الهزيمة. تختلف التفاصيل عن الانتشار والانسحاب ونوايا القادة بين المصادر. لهذا لا يقدم المقال أعدادا دقيقة للجيشين أو نسبا مؤكدة للخسائر أو حوارا مزعوما بين السلطان وأسيره. وضوح النتيجة لا يتيح ملء الفراغات بمشاهد درامية غير موثقة أو تفسير كل انسحاب باعتباره خيانة ثابتة."
+      },
+      {
+        "type": "paragraph",
+        "text": "تراجع [دراسة جورجيوس ثيوتوكس للحملة](https://www.cambridge.org/core/books/abs/campaign-and-battle-of-manzikert-1071/introduction/1BA88135BD13CE16C32E2AD716335296) الصورة القديمة للإبادة العسكرية الكاملة وتشدد على العواقب السياسية. أطلق رومانوس، لكن سلطته انهارت ثم وقعت صراعات داخلية. وتفحص [أبحاث كارول هيلنبراند](https://edinburghuniversitypress.com/book-turkish-myth-and-muslim-symbol.html) كيف حولت الروايات الإسلامية اللاحقة المعركة إلى رمز قوي. النصر حقيقة ثابتة، لكن المشاهد المرتبطة به لا تتساوى في قيمتها الإثباتية. تاريخ الذاكرة موضوع مهم بذاته، ولا ينبغي خلطه بتقرير ميداني معاصر لكل ما حدث خلال القتال."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "تحول الأناضول كان تدريجيا"
+      },
+      {
+        "type": "paragraph",
+        "text": "سبقت التحركات التركية نحو الأناضول ملاذكرد. وبعدها وسعت الحروب الأهلية والتحالفات مع قادة أتراك والهجرات والإمارات المتنافسة فرص الاستقرار. يؤكد [أندرو بيكوك في تاريخ سلاجقة الروم](https://www.iranicaonline.org/articles/saljuqs/saljuqs-iii/) تفاوت هذه المرحلة وضعف توثيقها. لم يختف الموظفون والمجتمعات البيزنطية في كل مكان عام 1071. تغير التحكم العسكري والرعي والحكم الحضري واللغة والدين بوتيرة مختلفة من منطقة إلى أخرى. لذلك لا تصلح نتيجة المعركة وحدها لشرح قرون من التغير الاجتماعي والسياسي أو لتحديد تاريخ واحد لتحول السكان."
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يعني التتريك استبدالا فوريا للسكان. بقي اليونانيون والأرمن وغيرهم جزءا من تاريخ الأناضول، بينما رسخت جماعات ناطقة بالتركية وجودها. جلبت الحروب عنفا ونزوحا، لكن التعايش والعمل والتفاوض أسهمت أيضا في التغير. تفتح المعركة إمكانية ولا تحدد جميع النتائج اللاحقة. يضع [مقال بيزنطة في PRESDA](/articles/byzantine-empire-eastern-rome-constantinople-1453/) الخسائر ضمن تاريخ يشمل استعادة أراض وبقاء إمبراطوري أطول. هذا لا يقلل من أهمية ملاذكرد؛ بل يميز بين أثرها السياسي وبين العملية السكانية والثقافية التي استمرت بعدها وتفاوتت محليا."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ملكشاه الأول وحدود العصر الذهبي"
+      },
+      {
+        "type": "paragraph",
+        "text": "حكم ملكشاه الأول بين 1072 و1092 وبلغت الإمبراطورية في عهده أوسع امتداد. كان مركزها في إيران، مع سلطة في العراق وأجزاء من سوريا وعلاقات تبعية أبعد شرقا. يوضح [ديفيد دوران غيدي](https://www.iranicaonline.org/articles/maleksah/) اختلاف ترتيبات الحكم بين القادة والأقارب والحكام التابعين. تخفي الخريطة الملونة بلون واحد الفرق بين الإدارة المباشرة والانتساب الأسري والاعتراف بالسيادة العليا. لا يعني الامتداد الأكبر حدودا حديثة ثابتة أو جهازا إداريا واحدا يطبق الإجراءات نفسها دون استثناء، ولذلك تحتاج خرائط الإمبراطوريات إلى شرح درجات النفوذ."
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت أصفهان مهمة خصوصا في عهده، لكن الحكم بقي متنقلا. لم يشغل البلاط والمعسكر العسكري والإدارة الحضرية الموقع نفسه دائما. اعتمد الاستقرار على مكافأة القادة واستمرار التوسع إلى جانب تعيين الموظفين. يعبر العصر الذهبي عن الرعاية الثقافية والقوة النسبية، لكنه حكم استرجاعي أيضا. لا يثبت ازدهارا متساويا لكل مزارع أو غياب القمع والتنافس وانعدام الأمن. يمكن أن يزدهر البناء والعلم في مركز بينما تتحمل مناطق أخرى أعباء الحرب، وأن تبدو المملكة متماسكة رغم وجود توترات مؤجلة داخلها."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "نظام الملك: الإدارة والنصيحة والمدارس"
+      },
+      {
+        "type": "paragraph",
+        "text": "خدم الوزير الفارسي نظام الملك ألب أرسلان وملكشاه وأصبح أساسيا في الحكم. جمع نفوذه خبرة إدارية وشبكات رعاية وصلات بالمجتمع العلمي الحضري. تبين [دراسة نغين ياوري](https://www.iranicaonline.org/articles/nezam-al-molk/) ضرورة قراءة السير المثالية اللاحقة بنقد. الوزير المقتدر شخصية تاريخية، لكن المستشار الذي تتنبأ كل كلماته بالمستقبل ينتمي أيضا إلى أدب الحكام ومستشاريهم. لا يعني ذلك رفض الأخبار كلها؛ بل السؤال عن زمن النص وغرضه وكيف يستخدم نموذجا أدبيا لتفسير العلاقة بين السلطان والوزير وأسباب نجاحها أو انهيارها."
+      },
+      {
+        "type": "paragraph",
+        "text": "دعمت المدارس النظامية المرتبطة برعايته التعليم السني والفقه في مدن مثل بغداد ونيسابور. كانت مؤثرة دون أن تخترع التعليم أو تشكل نظام جامعات وطنيا حديثا. يقدم [سياست نامه، المعروف أيضا بسير الملوك](https://www.iranicaonline.org/articles/siar-al-moluk/)، نصائح عن العدل والضرائب والموظفين والانضباط العسكري. تكشف طبيعته الإرشادية وتاريخ نقله المختلف عليه مثالا للحكم ومخاوف سياسية. لكنه ليس دليلا على تطبيق كل توصية في جميع الأقاليم، ولا سجلا محايدا يتيح إعادة بناء الواقع الإداري دون مقارنته بنصوص وشواهد أخرى."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الشرعية السنية في عالم ديني متنوع"
+      },
+      {
+        "type": "paragraph",
+        "text": "دعم السلاطين المؤسسات السنية واستمدوا شرعية من روابطهم بالعباسيين. وضعهم ذلك في منافسة مع الخلافة الفاطمية ومصادر أخرى للسلطة. لكن الإسلام السني ضم مدارس فقهية وكلامية متنوعة، واشتملت المناطق الخاضعة لهم على شيعة ومسيحيين وجماعات أخرى. أثرت الهوية الدينية في الرعاية والصراع، لكنها لا تفسر وحدها كل تحالف أو ضريبة أو نزاع أسري. لم تتبع المصالح السياسية دائما خطا مذهبيا واحدا، ولا تحول اختيار المذهب الرسمي مجتمع الأقاليم كله تلقائيا إلى صورة متجانسة."
+      },
+      {
+        "type": "paragraph",
+        "text": "ربطت المساجد والمدارس والأوقاف بين العلماء والحكام والمجتمع المحلي. اعتمد نفوذها على الموارد والتعيينات والعلاقات إلى جانب العقيدة. إن نقد الخصوم في الأدب السياسي دليل على لغة الصراع، لا وصف محايد لكل أفراد طائفة. تتجنب هذه القراءة خطأين: تصور إمبراطورية موحدة دينيا، أو اختزال الشرعية الدينية إلى زينة أضيفت للقوة العسكرية. كانت المؤسسات تعمل عبر أشخاص ومصالح وحاجات تعليمية وقانونية، وقد تستمر أهميتها عندما يتغير الحاكم أو تتبدل حدود سيطرته الفعلية."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "العلوم والأدب والتأثير الثقافي الفارسي"
+      },
+      {
+        "type": "paragraph",
+        "text": "ازدهرت التقاليد الإدارية والأدبية الفارسية تحت حكام ذوي أصول تركية، وظلت العربية مهمة في الدين والمعرفة. يصف [عرض الأدب السلجوقي في إيرانكا](https://www.iranicaonline.org/articles/saljuqs/v-literature/) الرعاية في بلاطات متعددة، لا برنامجا ثقافيا مركزيا واحدا. بحث الشعراء والعلماء عن داعمين، ومدحوا الكرم أو انتقدوا ظروفهم أو قدموا قراءات مختلفة للسلطة. كانت الأصول التركية والتأثير الفارسي عنصرين متوافقين في هذا العالم، لا هويتين لا يمكن الجمع بينهما. انتقال الخبرات واللغات لا يلغي أدوار أصحابها ولا يختزل الثقافة في هوية الأسرة الحاكمة."
+      },
+      {
+        "type": "paragraph",
+        "text": "يمثل عمر الخيام البعد العلمي. ارتبطت مسيرته الرياضية والفلكية بمشروع ملكشاه للتقويم، المنسوب عادة إلى الإصلاح الجلالي عام 1079. تميز [سيرته العلمية](https://www.iranicaonline.org/articles/khayyam-omar/khayyam-omar-i-life/) الأدلة عن القصص المتأخرة. اعتمد الإنجاز على خبرة العلماء والرعاية، لا على ذكاء الحاكم وحده. كما لا يمكن التعامل مع كل بيت نسب لاحقا إلى الخيام باعتباره تصريحا مؤرخا من البلاط السلجوقي. تساعد هذه الدقة على احترام الإنجاز العلمي الحقيقي دون تحويل شهرة الشاعر إلى دليل على مواقف ومشاهد لا يمكن توثيقها."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "العمارة: تطوير مدن لها تاريخ أقدم"
+      },
+      {
+        "type": "paragraph",
+        "text": "يشكل مسجد الجمعة في أصفهان إرثا ملموسا. طورت توسعته السلجوقية الصحن ذي الإيوانات الأربعة والفضاءات المقببة المميزة، وفقا [لليونسكو](https://whc.unesco.org/en/list/1397/). يضم المجمع مراحل أقدم وأحدث، وليس مبنى أنشأه سلطان واحد كاملا في لحظة واحدة. يهم استمرار وظيفته الدينية إلى جانب مكانته المعمارية. تعيش المباني والمؤسسات بعد الحكومات التي مولت تطويرها، لكنها قد تتغير وتتراكم فيها إضافات جديدة. لذلك لا يكفي وصف أثر بأنه سلجوقي لإسناد كل جدار وزخرفة فيه إلى القرن الحادي عشر."
+      },
+      {
+        "type": "paragraph",
+        "text": "تشهد أعمال الآجر والزخرفة والخزف والمعادن على مهارة الإنتاج وتعدد الرعاة. يحذر [التحليل الأكاديمي للفن](https://www.iranicaonline.org/articles/saljuqs/vi-art-and-architecture/) من مساواة اسم الأسرة بفترة فنية محددة بدقة. قد تأتي القطع المسماة سلجوقية من ورش وسياقات سياسية مختلفة، ومنها دول لاحقة. عمل الصانعون والمستخدمون ضمن شبكات تتجاوز حدود البلاط. لذا يجب فصل المشهد المعماري المتخيل في صورة المقال عن أدلة الآثار والمجموعات المتحفية. الصورة تجسد إحساسا تحريريا بالعصر، لكنها لا توثق قاعة عرش أو لباسا أو شخصا تاريخيا بعينه."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "التجارة والزراعة والقاعدة المالية"
+      },
+      {
+        "type": "paragraph",
+        "text": "ربطت القوافل والمدن إيران والعراق بطرق آسيا الوسطى والمتوسط، لكن الزراعة وفرت الغذاء والموارد التي اعتمدت عليها المدن والجيوش. تطلب الري والوصول إلى المياه وحركة الرعاة والزراعة تفاوضا مستمرا. لم تكن الإمبراطورية المتصلة تجاريا سلمية بالضرورة. أثقلت الحملات والمصادرات والصراعات على الإيرادات المنتجين حتى حين استفاد تجار ورعاة من الطرق والأسواق. لا تكفي جودة المنتجات أو شهرة المدينة لافتراض رفاه متساو للسكان، كما أن التواصل الاقتصادي لا يلغي أثر الحرب في المزارع والقرى وحركة القوافل."
+      },
+      {
+        "type": "paragraph",
+        "text": "كان الإقطاع ترتيبا مهما ومتعدد الأشكال يتعلق بالمنح وحقوق الإيراد. تنبه [آن كاثرين لامبتون](https://www.iranicaonline.org/articles/eqta/) إلى أن المصطلح لا يحمل المعنى نفسه في جميع النصوص. أمكن أن يمول الجنود والموظفين دون أن يعادل دائما ملكية الأرض كاملة. لا تتوفر هنا حصيلة موثوقة للناتج الإمبراطوري أو حجم التجارة السنوي أو معدل ضريبي عام. شرح المؤسسة أكثر فائدة من تحويل إيرادات وسيطة غير مؤكدة إلى دولارات معاصرة مختلقة. كما ينبغي تجنب إسقاط نموذج إقطاع أوروبي موحد على ترتيبات تتفاوت محليا وتاريخيا."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الفرسان والرماية وتغير التنظيم العسكري"
+      },
+      {
+        "type": "paragraph",
+        "text": "وفرت الرماية من ظهور الخيل لدى التركمان الحركة والمرونة، لكن القوات السلجوقية لم تكن كتلة بدوية واحدة. أصبح المحترفون والأتباع العسكريون والقادة ذوو الأصول المختلفة مهمين للحكم. يصف [بوزورث في تاريخ الجيوش](https://www.iranicaonline.org/articles/army-ii/) قوات دائمة مختلطة تمولها الرواتب وحقوق الإيراد. تساوت أهمية الانضباط والخيول والعلف والقيادة مع أهمية السلاح. تعاون الأتباع القبليون والمحترفون وتنافسوا أيضا على المكافآت والنفوذ. لم ينته دور الجماعات الأولى تماما حين ظهرت المؤسسة العسكرية الجديدة، بل تغير موقعها وعلاقتها بالدولة التي ساعدت على بنائها."
+      },
+      {
+        "type": "paragraph",
+        "text": "جمعت الجيوش البيزنطية بدورها فرسانا ومشاة ورماة ووحدات متعددة الأصول. امتلكت حصونا ومؤسسات تموين، ولم تكن مجرد جنود ثقلاء عاجزين عن مواجهة الخيالة. في ملاذكرد أثرت الاستراتيجية وانفصال القوات وضعف التنسيق بقدر المقارنة العامة للمعدات. يقارن الجدول التنظيم والخيارات التكتيكية وصفيا، لا بمحاكاة عددية. ولا يثبت أن كل جيش استخدم دائما طريقة ثابتة. اختلاف السياق والقيادة والإمداد قد يغير أداء القوات نفسها، ولهذا يجب فصل الإمكانات العسكرية العامة عن النتائج الخاصة بحملة أو مواجهة محددة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "المجتمع والنساء خارج دائرة العرش"
+      },
+      {
+        "type": "paragraph",
+        "text": "شملت الحياة الإمبراطورية مزارعين وأسر رعاة وتجارا وحرفيين وعلماء وجنودا وأشخاصا خضعوا للاسترقاق أو الخدمة القسرية. اختلفت مصالحهم. تصف المصادر الحكام أكثر من القرارات اليومية للعائلات العادية، ولذلك يعترف التاريخ الدقيق بتفاوت الرؤية. لا تدل قطعة فاخرة محفوظة أو صورة قصر على ما امتلكه معظم الناس أو ارتدوه أو عاشوه. تفتح ثقافة النخبة نافذة مهمة، لكنها ليست تعدادا ممثلا للسكان ولا تسمح بملء سير الأشخاص الأقل ظهورا بتجارب أو شهادات مختلقة لتجميل السرد أو زيادة تأثيره العاطفي."
+      },
+      {
+        "type": "paragraph",
+        "text": "شاركت نساء في السياسة الأسرية والرعاية. لعبت تركان خاتون، زوجة ملكشاه، دورا في صراع الخلافة بعد وفاته. قد تعرض أخبار البلاط النساء الفاعلات عبر أعراف سردية عدائية؛ لذا يلزم السياق والإسناد. لا يثبت الاعتراف بنفوذهن حرية متساوية للنساء في جميع الطبقات. جعلت المصاهرة وتنافس البيوت الأمومية وطموحات الأمراء الأسرة مؤسسة سياسية إلى جانب الدواوين والقيادة. كانت هذه العلاقات جزءا من بنية الحكم، وليست مجرد حكايات خاصة خلف الأحداث العسكرية الكبرى، مع بقاء ظروف النساء العاديات أقل توثيقا من أدوار الأميرات."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "بيزنطة والفاطميون والقوى المجاورة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تغيرت الاستراتيجية باختلاف الحدود. ظل الغزنويون في الشرق مهمين، وأعقد حكام القراخانيين والقوقاز والسلالات الإقليمية صورة التوسع غربا. في سوريا واجه الأمراء والقادة النفوذ الفاطمي والحكام المحليين وبعضهم بعضا. قد تختلف السيطرة على مدينة عن الريف المحيط بها. وربما اعترف حاكم بالتبعية في عام ثم تمرد لاحقا. كانت الجغرافيا السياسية مجموعة متحركة من العلاقات، لا مساحة ثابتة تسير كلها بأوامر واحدة. ينبغي للخرائط والنصوص تفسير ذلك كي لا تخلق الألوان انطباعا بيقين أكبر مما تسمح به الأدلة."
+      },
+      {
+        "type": "paragraph",
+        "text": "تضع [الدراسة العلمية لتاريخ إيران الوسيط](https://www.iranicaonline.org/articles/iran-ii2-islamic-period-page-3/) تلك التحولات في سياقها الأسري والإقليمي. صاحبت الدبلوماسية والمصاهرة والتسويات الحروب. تنافس السلاجقة وبيزنطة، لكن الحكام المسلمين والمسيحيين لم يشكلوا معسكرين موحدين دائما. خدمت التحالفات مصالح فورية. يقدم [تاريخ جورجيا في PRESDA](/articles/kingdom-georgia-david-builder-queen-tamar-golden-age/) منظورا آخر للقوقاز، حيث تابع الحكام المحليون استراتيجياتهم ولم يكونوا مجرد متلقين للتوسع. يساعد هذا المنظور على إعادة فاعلين مهمين قد يغيبون عن سرد يركز حصرا على السلطان ومسار جيشه."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "أزمة الخلافة بعد عام 1092"
+      },
+      {
+        "type": "paragraph",
+        "text": "توفي نظام الملك وملكشاه في عام 1092. أضعف التنافس بين الأبناء والأقارب والبيوت والقادة تماسك الحكم. شارك بركيارق ومحمد تبر في أبرز الصراعات على السلطنة الغربية، بينما بنى سنجر مركزا شرقيا. لم تنظم الخلافة قاعدة تلقائية مقبولة دون نزاع. اعتمد الاعتراف على الدعم العسكري والتحالفات، وأمكن لبلاطات متنافسة المطالبة بالسلطة في الوقت نفسه. لم يكن مجد الحكم السابق كافيا لتسوية حقوق الورثة أو توزيع الأقاليم والعوائد، ولذلك حولت الوفاة توترات قائمة إلى منافسة مفتوحة على الموارد والولاء والشرعية."
+      },
+      {
+        "type": "paragraph",
+        "text": "امتلكت اللامركزية جذورا مؤسسية أيضا. حكم الأمراء أقاليم، وتمكن الأتابكة، المرتبطون أصلا برعاية الحكام الشباب، من تكوين نفوذ محلي واسع. تطورت الفروع السلجوقية ودول أخرى بشكل مختلف في كرمان وسوريا والعراق والأناضول. لم تنقسم الخريطة إلى قطع متساوية في يوم واحد. احتفظ بعضهم بالألقاب وفقد السلطة الفعلية، وبنى آخرون دولا قوية. أعاد التفكك توزيع القوة دون إلغاء جميع المؤسسات فورا. يجب التمييز بين تراجع سلطة السلطان الأكبر واستمرار حكم ذي جذور سلجوقية في مناطق أخرى ذات تاريخ خاص."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الحملات الصليبية في منطقة منقسمة"
+      },
+      {
+        "type": "paragraph",
+        "text": "دخلت الحملة الصليبية الأولى منطقة تشكلت بالفعل بهذه المنافسات. ضربت استعادة نيقية عام 1097 بمشاركة بيزنطية والانتصار في دوريليوم السلاجقة الأناضوليين. أما سوريا وفلسطين فاشتملتا على حكام وصراعات مختلفة. من المضلل اعتبار كل خصوم الصليبيين جيشا واحدا للسلاجقة الكبار. كانت القدس تحت السيطرة الفاطمية حين استولى عليها الصليبيون عام 1099، وليست مركز جبهة سلجوقية متماسكة. لا يعادل الاشتراك في الدين قيادة سياسية موحدة، كما أن الانتقال بين المسارح الجغرافية يغير القوى الفاعلة وأهدافها وتحالفاتها. توثق [دراسة كامبريدج لتاريخ الفاطميين](https://sahistory.org.za/sites/default/files/archive-files3/roland_oliver_the_cambridge_history_of_africa_vbook4you.pdf) تغير حكام المدينة."
+      },
+      {
+        "type": "paragraph",
+        "text": "يوضح بيكوك كيف نجت سلطنة الروم من الخسائر وأعادت بناء موقعها تدريجيا. استعادت بيزنطة أراضي، وأنشأ حكام مسلمون لاحقون تحالفات جديدة. لا تفسر الحملات الصليبية حصرا برد على ملاذكرد، ولم تتسبب في هزيمة سنجر الشرقية اللاحقة. تفصل الجغرافيا بين قصص متصلة تختزل أحيانا في حرب مستمرة بين حضارتين. يوضح هذا الفصل لماذا اختلفت النتائج في الأناضول وسوريا وفلسطين وخراسان، ويعيد أهمية القرارات المحلية بدل تفسير كل حدث كنتيجة آلية للمعركة الشهيرة قبل عقود."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "سنجر: قوة شرقية ونظام يتصدع"
+      },
+      {
+        "type": "paragraph",
+        "text": "حكم سنجر خراسان منذ 1097 وامتلك السلطة السلطانية العليا من 1118 حتى وفاته عام 1157، وكانت مرو مركزا أساسيا. يصف [تاريخ خراسان](https://www.iranicaonline.org/articles/khorasan-vii-history-from-the-ghaznavids-to-the-mongol-conquest/) ازدهار المنطقة وهشاشتها معا. في 1141 هزمه القراخطائيون في قطوان. أضعفت النكسة سلطته وراء جيحون وشجعت تحديات التابعين، لكنها لم تمح قدرته على الحملات والتأثير فورا. استمرار حكمه بعد الهزيمة يوضح أن تراجع الإمبراطوريات قد يكون عملية متفاوتة، وأن النصر والاعتراف والتبعية لا ترتبط دائما في تسلسل بسيط وثابت."
+      },
+      {
+        "type": "paragraph",
+        "text": "في عام 1153 هزمت جماعات أوغوزية متمردة سنجر وأسرته، وتعرضت خراسان لاضطراب وتدمير. تعد وفاته عام 1157 النهاية التقليدية للإمبراطورية الشرقية. لكن خطا سلجوقيا غربيا استمر حتى 1194 عندما هزم طغرل الثالث أمام خوارزمشاه. تخص النهايات تشكيلات سياسية مختلفة. تساعد [الكرونولوجيا العلمية](https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/) على إبقاء الفروق واضحة بدلا من محو الأسرة كلها بوفاة سلطان واحد. كما بقيت سلطنة الروم مدة أطول، فلا ينبغي إنهاء تاريخها بتاريخ سنجر أو التعامل مع 1157 بوصفه توقفا لكل النفوذ السلجوقي دون استثناء."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الروم والعثمانيون: وراثة ثقافية لا هوية واحدة"
+      },
+      {
+        "type": "paragraph",
+        "text": "نشأت سلطنة الروم في الأناضول تحت فرع قريب ارتبط بسليمان بن قتلمش. توضع بداياتها في أواخر القرن الحادي عشر، لكن تاريخ التأسيس الدقيق يختلف باختلاف الحدث المختار. تطورها حول قونية وتوسعها ورعايتها المعمارية وخضوعها للمغول لاحقا تشكل تاريخا منفصلا امتد إلى أوائل القرن الرابع عشر. عاشت بعد سنجر والسلاجقة الغربيين. استحضر اسم الروم الأرض الرومانية السابقة، لا حدود دولة قومية معاصرة. لم تكن السلطنة مجرد إقليم يعمل دائما بالطريقة نفسها التي حكم بها السلاطين الكبار المناطق الإيرانية والعراقية."
+      },
+      {
+        "type": "paragraph",
+        "text": "ظهر العثمانيون لاحقا بين الإمارات الأناضولية تحت عثمان وخلفائه. كانت التقاليد الحضرية والدينية والسياسية السلجوقية جزءا من البيئة التي ورثوها، لكن السلاجقة لم يؤسسوا سلالة عثمان. يتضمن [التاريخ العثماني](/articles/ottoman-empire-rise-and-fall/) تحالفات حدودية جديدة ومؤسسات خاصة. يفيد الربط حين يشرح التأثيرات، ويضلل حين يحول التطورات الإقليمية إلى سلالة واحدة بخلافة متصلة. الإرث الثقافي والاستمرار الجغرافي والقرابة الأسرية مفاهيم مختلفة. يمكن للدولة اللاحقة استخدام تقاليد قديمة دون أن تكون استمرارها المباشر أو أن يكون منشئوها هم مؤسسي النظام السابق."
+      },
+      {
+        "type": "paragraph",
+        "text": "يبقى الإرث السلجوقي واضحا في تركيا وإيران والشرق الأوسط من خلال الآثار والمؤسسات والثقافة السياسية والذاكرة. تكمن أهميته في الروابط بين القوة العسكرية الرعوية والمجتمعات الحضرية، وفي استمرار تلك الروابط رغم تغير الحدود. أعادت الإمبراطورية تشكيل عالمها، لكنه لم يكن قط صنيعة السلاطين وحدهم. تذكر السكان والمؤسسات من حولهم يجعل الإنجاز أكثر قابلية للفهم والأفول أقل غموضا. لا تحتاج القصة إلى أرقام عسكرية مختلقة أو نسب عثماني مباشر كي تظل إحدى أهم حكايات التحول في تاريخ المنطقة."
+      },
+      {
+        "type": "paragraph",
+        "text": "الصورة الرئيسية إعادة بناء تاريخية مولدة بالذكاء الاصطناعي لقصر سلجوقي متخيل. الحاكم على اليمين ليس صورة أصيلة موثقة لألب أرسلان أو ملكشاه أو شخص آخر محدد، ولا يمثل المكان دليلا توثيقيا على بلاط بعينه."
+      }
+    ],
+    "faq": [
+      {
+        "question": "من هم السلاجقة؟",
+        "answer": "سلالة ذات أصول تركية أوغوزية. جمع حكم السلاجقة الكبار القيادة العسكرية التركية والتقاليد الإدارية والثقافية الفارسية والمؤسسات الإسلامية السنية."
+      },
+      {
+        "question": "ماذا حدث في ملاذكرد عام 1071؟",
+        "answer": "هزم ألب أرسلان الإمبراطور البيزنطي رومانوس الرابع وأسره في 26 أغسطس 1071. وأسهمت الحروب الأهلية والهجرة اللاحقة في التحول التدريجي للأناضول، لا المعركة وحدها."
+      },
+      {
+        "question": "هل كانت سلطنة الروم هي دولة السلاجقة الكبار نفسها؟",
+        "answer": "لا. حكمها فرع قريب من الأسرة، لكن لها تاريخ سياسي منفصل وعلاقات متوترة أحيانا مع السلاجقة الكبار."
+      },
+      {
+        "question": "من هو نظام الملك؟",
+        "answer": "وزير فارسي بارز مرتبط بألب أرسلان وملكشاه والإدارة والمدارس النظامية. تحتاج كتاباته إلى قراءة سياقية ولا تمثل أرشيفا حكوميا محايدا."
+      },
+      {
+        "question": "متى انتهت الإمبراطورية؟",
+        "answer": "تعد وفاة سنجر عام 1157 نهاية تقليدية للإمبراطورية الشرقية. واستمر الفرع الغربي حتى 1194، بينما بقيت سلطنة الروم مدة أطول بكثير."
+      },
+      {
+        "question": "هل أسس السلاجقة الدولة العثمانية؟",
+        "answer": "لا. نشأت سلالة عثمان لاحقا في سياق أناضولي مختلف. كانت التقاليد السلجوقية جزءا من البيئة الموروثة، دون أن يكون ألب أرسلان مؤسس السلالة العثمانية."
+      }
+    ],
+    "sources": [
+      {
+        "label": "بوزورث: جند وروايات الأصول",
+        "url": "https://www.iranicaonline.org/articles/jand-2/"
+      },
+      {
+        "label": "كاهن: جغري بك",
+        "url": "https://www.iranicaonline.org/articles/cagri-beg-dawud-b/"
+      },
+      {
+        "label": "بوزورث: دندانقان",
+        "url": "https://www.iranicaonline.org/articles/dandanqan-a-small-town-of-medieval-khorasan-in-the-qara-qum-or-sandy-desert-between-marv-and-saraks-10-farsaks-from/"
+      },
+      {
+        "label": "المتروبوليتان: إيران السلجوقية",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-seljuqs-of-iran-ca-1040-1196"
+      },
+      {
+        "label": "بوزورث: ألب أرسلان",
+        "url": "https://www.iranicaonline.org/articles/alp-arslan-saljuq-sultan/"
+      },
+      {
+        "label": "ثيوتوكس: حملة ملاذكرد وتفسيرها",
+        "url": "https://www.cambridge.org/core/books/abs/campaign-and-battle-of-manzikert-1071/introduction/1BA88135BD13CE16C32E2AD716335296"
+      },
+      {
+        "label": "هيلنبراند: مصادر ملاذكرد وذاكرتها",
+        "url": "https://edinburghuniversitypress.com/book-turkish-myth-and-muslim-symbol.html"
+      },
+      {
+        "label": "بيكوك: سلاجقة الروم",
+        "url": "https://www.iranicaonline.org/articles/saljuqs/saljuqs-iii/"
+      },
+      {
+        "label": "دوران غيدي: ملكشاه",
+        "url": "https://www.iranicaonline.org/articles/maleksah/"
+      },
+      {
+        "label": "ياوري: نظام الملك",
+        "url": "https://www.iranicaonline.org/articles/nezam-al-molk/"
+      },
+      {
+        "label": "ياوري: سياست نامه ونقد النص",
+        "url": "https://www.iranicaonline.org/articles/siar-al-moluk/"
+      },
+      {
+        "label": "إيرانكا: الأدب السلجوقي",
+        "url": "https://www.iranicaonline.org/articles/saljuqs/v-literature/"
+      },
+      {
+        "label": "إيرانكا: حياة عمر الخيام",
+        "url": "https://www.iranicaonline.org/articles/khayyam-omar/khayyam-omar-i-life/"
+      },
+      {
+        "label": "اليونسكو: مسجد الجمعة في أصفهان",
+        "url": "https://whc.unesco.org/en/list/1397/"
+      },
+      {
+        "label": "إيرانكا: الفن والعمارة السلجوقيان",
+        "url": "https://www.iranicaonline.org/articles/saljuqs/vi-art-and-architecture/"
+      },
+      {
+        "label": "لامبتون: الإقطاع وحقوق الإيراد",
+        "url": "https://www.iranicaonline.org/articles/eqta/"
+      },
+      {
+        "label": "بوزورث: التنظيم العسكري الوسيط",
+        "url": "https://www.iranicaonline.org/articles/army-ii/"
+      },
+      {
+        "label": "إيرانكا: تاريخ إيران الوسيط",
+        "url": "https://www.iranicaonline.org/articles/iran-ii2-islamic-period-page-3/"
+      },
+      {
+        "label": "إيرانكا: خراسان وسنجر",
+        "url": "https://www.iranicaonline.org/articles/khorasan-vii-history-from-the-ghaznavids-to-the-mongol-conquest/"
+      },
+      {
+        "label": "إيرانكا: التسلسل التاريخي",
+        "url": "https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/"
+      },
+      {
+        "label": "بوزورث: أخبار الدولة السلجوقية ونقل النص",
+        "url": "https://www.iranicaonline.org/articles/akbar-al-dawlat-al-saljuqiya/"
+      },
+      {
+        "label": "كامبريدج: القدس الفاطمية",
+        "url": "https://sahistory.org.za/sites/default/files/archive-files3/roland_oliver_the_cambridge_history_of_africa_vbook4you.pdf"
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/seljuk-empire-origins-manzikert-culture-decline/",
+    "path": "/es/articles/seljuk-empire-origins-manzikert-culture-decline/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex es historical terminology and source attribution review",
+      "reviewedAt": "2026-10-11",
+      "terminologyChecked": true
+    },
+    "title": "EL IMPERIO SELYÚCIDA: LA DINASTÍA TÚRQUICA QUE TRANSFORMÓ ORIENTE MEDIO",
+    "seoTitle": "Imperio selyúcida: orígenes, Manzikert, cultura y caída",
+    "description": "Los grandes selyúcidas, Alp Arslan, Manzikert y Malik Shah: historia documentada, cronología y diferencias con el Sultanato de Rum.",
+    "excerpt": "Los grandes selyúcidas, Alp Arslan, Manzikert y Malik Shah: historia documentada, cronología y diferencias con el Sultanato de Rum.",
+    "headlineHighlights": {
+      "red": "IMPERIO SELYÚCIDA",
+      "gold": "TRANSFORMÓ"
+    },
+    "keywords": [
+      "Imperio selyúcida",
+      "Alp Arslan",
+      "Manzikert",
+      "Malik Shah",
+      "Nizam al-Mulk",
+      "Sultanato de Rum"
+    ],
+    "searchIntent": "Los grandes selyúcidas, Alp Arslan, Manzikert y Malik Shah: historia documentada, cronología y diferencias con el Sultanato de Rum.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-11",
+    "updatedAt": "2026-10-11",
+    "image": {
+      "src": "/articles/seljuk-palace-ai-historical-reconstruction.png",
+      "alt": "Reconstrucción histórica generada por IA de un palacio selyúcida imaginado con un gobernante a la derecha, no un retrato auténtico de Alp Arslan ni de otro gobernante identificado"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Los selyúcidas fueron una dinastía de origen túrquico oguz cuya expansión en el siglo XI transformó Irán, Irak y regiones vecinas. Sus victorias establecieron un nuevo orden militar alrededor del califato abasí, mientras administradores, estudiosos y constructores persas contribuían a la vida imperial. El Gran Imperio selyúcida y el posterior Sultanato de Rum eran Estados relacionados pero distintos. Ninguno fue el Imperio otomano con otro nombre."
+      },
+      {
+        "type": "paragraph",
+        "text": "Su historia suele reducirse a un jinete, un arco y una batalla célebre. El relato completo resulta más interesante: familias pastoriles convertidas en gobernantes, un califa negociando con un sultán, ciudades sosteniendo cortes itinerantes y un imperio capaz de recompensar a sus comandantes pero incapaz de resolver pacíficamente la sucesión. Logros y fragilidad nacieron del mismo desafío: gobernar poblaciones diversas a través de enormes distancias y conservar lealtades sin una autoridad idéntica en todos sus territorios."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Orígenes oguz: de Selyuq Beg a sus nietos"
+      },
+      {
+        "type": "paragraph",
+        "text": "La dinastía tomó su nombre de Selyuq Beg, dirigente oguz asociado con la frontera del bajo Sir Daria. Las tradiciones relacionan el movimiento de su familia hacia el mundo musulmán con su conversión al islam, pero esos relatos contienen elementos legendarios. [La entrada de Iranica sobre Jand](https://www.iranicaonline.org/articles/jand-2/) sitúa expresamente la ciudad en esas narraciones semilegendarias. Una historia fundacional cuidadosamente ordenada no debe confundirse con un archivo familiar contemporáneo ni proporcionar certeza sobre cada episodio temprano."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sus nietos Tughril Beg y Chaghri Beg lograron el avance político duradero. [Claude Cahen, al estudiar a Chaghri](https://www.iranicaonline.org/articles/cagri-beg-dawud-b/), describe migración hacia Jorasán, negociación, conflicto y búsqueda de pastos. No atravesaban tierras vacías: agricultores, ciudades, gobernadores y grupos pastoriles rivales competían por los recursos. Los hermanos tuvieron que organizar seguidores y encontrar un lugar en un orden regional existente antes de modificarlo. La movilidad y la construcción de alianzas fueron parte de su ascenso, no simples antecedentes pintorescos."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Dandanaqan, 1040: la derrota de los gaznávidas"
+      },
+      {
+        "type": "paragraph",
+        "text": "En Dandanaqan, cerca de Merv en el actual Turkmenistán, las fuerzas selyúcidas derrotaron en 1040 al ejército gaznávida de Masud I. [C. Edmund Bosworth](https://www.iranicaonline.org/articles/dandanqan-a-small-town-of-medieval-khorasan-in-the-qara-qum-or-sandy-desert-between-marv-and-saraks-10-farsaks-from/) destaca los problemas de abastecimiento asociados a sequía y hambruna. La victoria aseguró su posición en Jorasán, pero no destruyó la dinastía gaznávida, que conservó otros dominios. Repetir una cifra espectacular de una crónica no la convierte en un recuento militar moderno fiable."
+      },
+      {
+        "type": "paragraph",
+        "text": "La batalla enfrentó maneras de desplazar, alimentar y coordinar un ejército; no prueba que una sola arma venciera siempre a las demás. Chaghri conservó un papel importante en las tierras orientales y Tughril se expandió hacia el oeste. Su asociación muestra una empresa familiar con varios centros. Dandanaqan es un punto inicial útil para el imperio, aunque Tughril ya había establecido autoridad en Nishapur en 1038. La formación estatal fue un proceso y no una única ceremonia de fundación perfectamente documentada."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Bagdad, 1055: el sultán y el califa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tughril entró en Bagdad en 1055, terminó con el control búyida y se presentó como protector del califato abasí. [La síntesis histórica del Metropolitan Museum](https://www.metmuseum.org/essays/the-art-of-the-seljuqs-of-iran-ca-1040-1196) identifica ese cambio decisivo. La supremacía militar correspondía cada vez más al sultán; el califa conservaba prestigio religioso y una función esencial de legitimación. La relación se negociaba y podía resultar tensa. No fue una transferencia sencilla de todas las formas de autoridad de una institución a otra."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hablar de restauración exige definir lo restaurado. No regresó el mando centralizado de los primeros abasíes. Reconocimiento, honores ceremoniales y vínculos familiares asociaban instituciones cuyos intereses podían divergir. Bagdad también albergaba estudiosos, comerciantes y comunidades con influencia propia. Los selyúcidas gobernaban mediante esas relaciones. La [historia abasí de PRESDA](/articles/abbasid-caliphate-baghdad-islamic-golden-age/) explica por qué la debilidad política del califato no eliminaba su importancia simbólica e institucional, ni lo convertía en un participante completamente irrelevante en las negociaciones."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Alp Arslan más allá de una sola batalla"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tras la muerte de Tughril en 1063, su sobrino Alp Arslan se impuso como sultán. Su reinado se fecha convencionalmente entre 1063 y 1072. Emprendió campañas en el Cáucaso y enfrentó rivales en fronteras orientales y occidentales. [Su biografía académica en Iranica](https://www.iranicaonline.org/articles/alp-arslan-saljuq-sultan/) sitúa Manzikert dentro de una carrera más extensa. Concentrarse únicamente en Bizancio oculta sus preocupaciones en Siria y la competencia entre parientes selyúcidas. El frente occidental no agotaba las prioridades políticas del gobernante."
+      },
+      {
+        "type": "paragraph",
+        "text": "El emperador bizantino Romano IV Diógenes, que reinó de 1068 a 1071, buscaba recuperar la seguridad en la frontera oriental. Incursiones y fortalezas disputadas presionaban un imperio con dificultades de recursos y lealtad política. Ambos soberanos actuaban en entornos estratégicos complejos. Su encuentro fue trascendente porque vinculó esas tensiones con la captura de un emperador, no porque existiera un destino predeterminado que obligara a un bando a conquistar y al otro a desaparecer de inmediato."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Manzikert, 1071: victoria y explicaciones discutidas"
+      },
+      {
+        "type": "paragraph",
+        "text": "El 26 de agosto de 1071, Alp Arslan derrotó a Romano cerca de Manzikert, la actual Malazgirt en el este de Türkiye, y capturó al emperador. Caballería móvil y arquería selyúcidas presionaron las formaciones bizantinas; confusión y fallos de coordinación ocupan un lugar central en los relatos. Despliegues, retiradas e intenciones de los comandantes varían entre fuentes. Este artículo no presenta efectivos exactos, porcentajes de bajas ni conversaciones supuestamente literales entre el sultán y su prisionero."
+      },
+      {
+        "type": "paragraph",
+        "text": "[Georgios Theotokis](https://www.cambridge.org/core/books/abs/campaign-and-battle-of-manzikert-1071/introduction/1BA88135BD13CE16C32E2AD716335296) cuestiona la imagen antigua de aniquilación militar total y destaca las consecuencias políticas. Romano fue liberado, pero perdió autoridad y siguieron conflictos civiles. [La investigación de Carole Hillenbrand](https://edinburghuniversitypress.com/book-turkish-myth-and-muslim-symbol.html) analiza cómo relatos musulmanes posteriores convirtieron la batalla en un símbolo poderoso. La victoria está establecida; todas las escenas memorables asociadas a ella no tienen el mismo valor documental. La historia de la memoria también merece distinguirse del resultado del combate."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Anatolia cambió gradualmente"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los movimientos túrquicos hacia Anatolia precedieron Manzikert. Después, guerras civiles, alianzas con dirigentes turcos, migración y principados rivales ampliaron las oportunidades de asentamiento. [Andrew Peacock, en su historia de Rum](https://www.iranicaonline.org/articles/saljuqs/saljuqs-iii/), subraya un período formativo desigual y mal documentado. Funcionarios y comunidades bizantinas no desaparecieron de todas partes en 1071. Control militar, desplazamiento pastoril, gobierno urbano, lengua y religión cambiaron a velocidades diferentes. Una explicación responsable mantiene esa variedad geográfica y temporal visible."
+      },
+      {
+        "type": "paragraph",
+        "text": "La turquificación no equivale a un reemplazo demográfico instantáneo. Griegos, armenios y otras comunidades siguieron formando parte de Anatolia mientras las poblaciones turcófonas consolidaban raíces sociales y políticas. Hubo violencia y desplazamientos, pero también coexistencia, empleo y negociación. Una batalla abre posibilidades sin determinar toda la historia posterior. El [artículo de PRESDA sobre Bizancio](/articles/byzantine-empire-eastern-rome-constantinople-1453/) coloca esas pérdidas junto a recuperaciones territoriales y una supervivencia imperial mucho más prolongada. La derrota no fue el final inmediato de toda presencia romana oriental."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Malik Shah I y el significado de una edad de oro"
+      },
+      {
+        "type": "paragraph",
+        "text": "Malik Shah I reinó de 1072 a 1092 y el imperio alcanzó entonces su máxima extensión. Su centro estaba en Irán, con autoridad en Irak y partes de Siria y vínculos tributarios más al este. [David Durand-Guédy](https://www.iranicaonline.org/articles/maleksah/) distingue los arreglos mediante los que comandantes, familiares y vasallos gobernaban territorios diferentes. Un mapa de un único color ocultaría la diferencia entre control directo, parentesco dinástico y reconocimiento de soberanía superior. La extensión máxima no implica una administración uniforme ni fronteras modernas estables."
+      },
+      {
+        "type": "paragraph",
+        "text": "Isfahán era particularmente importante, pero el gobierno seguía siendo móvil. Corte, campamento militar y administración urbana no siempre compartían residencia. La estabilidad dependía de recompensar a los comandantes y mantener expansión, además de nombrar funcionarios. La expresión edad de oro describe patrocinio y fuerza relativa, pero también es un juicio retrospectivo. No demuestra prosperidad idéntica para cada agricultor ni ausencia de represión, rivalidad e inseguridad detrás del éxito cortesano. Los beneficios y los costes podían distribuirse de manera desigual."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Nizam al-Mulk: administración, consejos y escuelas"
+      },
+      {
+        "type": "paragraph",
+        "text": "El visir persa Nizam al-Mulk sirvió a Alp Arslan y Malik Shah y se convirtió en figura central del gobierno. Su influencia enlazaba experiencia burocrática, redes de patrocinio y relaciones con la sociedad urbana instruida. [Neguin Yavari](https://www.iranicaonline.org/articles/nezam-al-molk/) explica por qué las biografías ejemplares posteriores deben leerse críticamente. El ministro competente pertenece a la historia, pero el consejero perfecto cuya palabra siempre anticipa el futuro también pertenece a una tradición literaria sobre la relación entre monarcas y asesores."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las escuelas Nizamiyya vinculadas a su patrocinio apoyaron saber suní y estudios jurídicos, especialmente en Bagdad y Nishapur. Fueron instituciones influyentes, no la invención de la educación ni un sistema universitario nacional moderno. El [Siyasatnama, también llamado Siar al-moluk](https://www.iranicaonline.org/articles/siar-al-moluk/), aconseja sobre justicia, impuestos, funcionarios y disciplina militar. Su carácter prescriptivo y su transmisión discutida requieren contexto. Revela ideales y preocupaciones, sin probar que cada recomendación se aplicara sistemáticamente en todas las provincias del imperio."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Legitimidad suní en una sociedad diversa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los gobernantes promovían instituciones suníes y obtenían legitimidad mediante vínculos con los abasíes. Eso los enfrentaba al califato fatimí y a otras autoridades. Sin embargo, el islam suní incluía tradiciones jurídicas y teológicas distintas, y sus territorios albergaban musulmanes chiíes, cristianos y otras comunidades. La religión moldeaba patrocinio y conflicto, pero no explica por sí sola cada alianza, decisión tributaria o disputa sucesoria. Los intereses políticos podían atravesar fronteras confesionales sin borrar las diferencias doctrinales."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mezquitas, madrasas y fundaciones piadosas vinculaban élites instruidas, dirigentes y sociedad local. Su influencia dependía de recursos, nombramientos y relaciones personales, además de doctrina. La crítica cortesana contra adversarios muestra lenguaje político, no una descripción neutral de comunidades enteras. Este enfoque evita imaginar un imperio religioso uniforme y también reducir la legitimidad religiosa a una decoración del poder militar. Las instituciones tenían actores y usos propios, y su funcionamiento no se agotaba en los objetivos del sultán."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Ciencia, literatura e influencia cultural persa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las tradiciones administrativas y literarias persas prosperaron bajo gobernantes túrquicos; el árabe seguía siendo importante para religión y estudios. [El panorama de literatura selyúcida de Iranica](https://www.iranicaonline.org/articles/saljuqs/v-literature/) describe patrocinio en varias cortes, no un programa cultural único. Poetas y estudiosos buscaban protectores, podían elogiar generosidad, criticar su situación y preservar lecturas diferentes del poder. Origen túrquico e influencia persa eran componentes compatibles de ese mundo. No es necesario elegir uno para negar el otro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Omar Jayyam ilustra su dimensión científica. Su carrera matemática y astronómica incluyó el proyecto de calendario de Malik Shah, asociado convencionalmente a la reforma jalalí de 1079. [Su biografía académica](https://www.iranicaonline.org/articles/khayyam-omar/khayyam-omar-i-life/) separa evidencia y relatos posteriores. Los avances dependían de especialistas y patrocinio, no solamente de la inteligencia de un monarca. Tampoco cada verso atribuido después a Jayyam puede tratarse como una afirmación fechada con seguridad en la corte selyúcida. La fama literaria no sustituye la verificación histórica."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Arquitectura sobre ciudades más antiguas"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Mezquita del Viernes de Isfahán conserva una herencia tangible. Su ampliación selyúcida desarrolló el patio de cuatro iwanes y espacios abovedados extraordinarios, según [UNESCO](https://whc.unesco.org/en/list/1397/). El conjunto incluye fases anteriores y posteriores; no fue construido entero en un único momento por un solo sultán. Su uso religioso continuado importa junto a su influencia arquitectónica. Los edificios y las instituciones sobreviven a los gobiernos que financiaron sus transformaciones, aunque acumulen reformas y nuevos significados a lo largo del tiempo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ladrillo trabajado, decoración tallada, cerámica y metalistería documentan producción especializada y patrocinio diverso. [El análisis académico del arte](https://www.iranicaonline.org/articles/saljuqs/vi-art-and-architecture/) advierte que una etiqueta dinástica no delimita exactamente un período artístico. Objetos llamados selyúcidas pueden proceder de talleres y contextos políticos diferentes, incluidos territorios sucesores. Artesanos y usuarios pertenecían a redes mayores que las fronteras cortesanas. El palacio imaginado del hero debe mantenerse separado de las pruebas aportadas por monumentos y colecciones. La ilustración evoca un ambiente, no autentica un edificio."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Comercio, agricultura y fiscalidad"
+      },
+      {
+        "type": "paragraph",
+        "text": "Caravanas y ciudades conectaban Irán e Irak con rutas centroasiáticas y mediterráneas, pero la agricultura suministraba alimento e ingresos esenciales. Irrigación, acceso al agua, desplazamiento pastoril y cultivo requerían negociación constante. Un imperio comercialmente conectado no era necesariamente pacífico. Campañas, requisiciones y disputas por ingresos podían perjudicar a productores mientras comerciantes y patrocinadores se beneficiaban de ciudades y rutas. El intercambio económico no debe convertirse automáticamente en un relato de prosperidad universal que haga invisibles esos costes y tensiones."
+      },
+      {
+        "type": "paragraph",
+        "text": "El iqta comprendía distintos arreglos de concesiones y derechos sobre ingresos. [A. K. S. Lambton](https://www.iranicaonline.org/articles/eqta/) advierte que no todas sus menciones designan lo mismo. Podía sostener servicio militar o funcionarios sin equivaler siempre a propiedad plena de la tierra. No disponemos aquí de un PIB imperial fiable, un total anual del comercio ni un tipo impositivo universal. Explicar las instituciones resulta más útil que convertir ingresos medievales inciertos en valores modernos inventados o presentar estimaciones como registros auditados."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Caballería, arquería y organización militar"
+      },
+      {
+        "type": "paragraph",
+        "text": "La arquería montada turcomana aportaba movilidad y flexibilidad, pero las fuerzas selyúcidas eran más diversas que una horda nomádica. Tropas profesionales, servidores militares y comandantes de varios orígenes resultaron cruciales. [La síntesis militar de Bosworth](https://www.iranicaonline.org/articles/army-ii/) describe fuerzas permanentes mixtas sostenidas por salarios y asignaciones de ingresos. Disciplina, caballos de reemplazo, forraje y liderazgo importaban junto a las armas. Seguidores tribales y profesionales podían colaborar mientras competían por recompensas e influencia. Esa combinación cambió con la construcción del imperio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los ejércitos bizantinos también reunían caballería, infantería, arqueros y contingentes diversos. Disponían de fortalezas y logística, no simplemente de soldados pesados incapaces de enfrentar jinetes. En Manzikert, situación estratégica, fuerzas separadas y fallos de coordinación pesaron tanto como una comparación general del equipo. La tabla asociada compara cualitativamente organización y posibilidades tácticas. No es una simulación numérica ni prueba de que cada ejército luchara siempre de una forma fija. Las capacidades potenciales y el resultado de una campaña son cuestiones diferentes."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Sociedad y mujeres más allá de la corte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Agricultores, familias pastoriles, comerciantes, artesanos, estudiosos, soldados y personas sometidas a esclavitud o servicio forzoso tenían intereses distintos. Las fuentes son más abundantes sobre dirigentes que sobre decisiones cotidianas de familias ordinarias. Una historia rigurosa reconoce esa visibilidad desigual. Un objeto lujoso conservado o una escena palaciega no demuestra lo que la mayoría poseía, vestía o experimentaba. La cultura de élite abre una ventana importante, pero no constituye un censo representativo ni sustituye la experiencia social que permanece poco documentada."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las mujeres también participaron en política dinástica y patrocinio. Terken Khatun, esposa de Malik Shah, intervino en las maniobras sucesorias después de su muerte. Las crónicas pueden representar a mujeres influyentes mediante convenciones hostiles; atribución y contexto son imprescindibles. Reconocer su poder no demuestra libertad uniforme en todas las clases. Matrimonios, hogares maternos rivales y ambiciones de príncipes hacían de la familia una institución política, junto a oficinas y mandos militares. No era un espacio ajeno a las decisiones imperiales."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Bizancio, los fatimíes y los vecinos"
+      },
+      {
+        "type": "paragraph",
+        "text": "La estrategia variaba en cada frontera. Gaznávidas orientales, gobernantes qarajánidas, poderes caucásicos y dinastías regionales complican una simple narración de expansión occidental. En Siria, príncipes y comandantes enfrentaban influencia fatimí, dirigentes locales y rivales propios. Controlar una ciudad no equivalía siempre a controlar sus campos. Una soberanía reconocida podía discutirse después. La geografía política era una red cambiante de relaciones, no una superficie homogénea gobernada sin oposición. Eso debe reflejarse en mapas y explicaciones, en lugar de ocultarse."
+      },
+      {
+        "type": "paragraph",
+        "text": "[La historia académica del Irán medieval](https://www.iranicaonline.org/articles/iran-ii2-islamic-period-page-3/) sitúa esos cambios en su contexto dinástico regional. Diplomacia, matrimonios y acuerdos podían acompañar la guerra. Bizantinos y selyúcidas eran adversarios, pero cristianos y musulmanes no constituían bloques permanentemente unificados. Las alianzas atendían intereses inmediatos. La [historia de Georgia en PRESDA](/articles/kingdom-georgia-david-builder-queen-tamar-golden-age/) muestra dirigentes caucásicos con estrategias propias, no simples espectadores de la expansión imperial. Su perspectiva ayuda a recuperar actores que una historia centrada exclusivamente en sultanes puede marginar."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "La crisis sucesoria de 1092"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nizam al-Mulk y Malik Shah murieron en 1092. La competencia entre hijos, parientes, hogares y comandantes debilitó la coherencia imperial. Barkiyaruq y Muhammad Tapar protagonizaron luchas por el sultanato occidental, mientras Sanjar consolidaba una base oriental. La sucesión carecía de una regla automática aceptada sin disputas. Reconocimiento, apoyo militar y alianzas eran decisivos, y varias cortes podían reclamar autoridad simultáneamente. La fuerza del reinado anterior no garantizaba obediencia al siguiente candidato ni resolvía la distribución de territorios y recompensas."
+      },
+      {
+        "type": "paragraph",
+        "text": "La descentralización tenía raíces institucionales. Los príncipes gobernaban territorios y los atabegs, inicialmente asociados a la tutela de jóvenes dirigentes, podían construir poder local. Ramas selyúcidas y otras dinastías siguieron caminos diferentes en Kermán, Siria, Irak y Anatolia. El mapa no se dividió en fragmentos iguales un día concreto. Algunos conservaron títulos sin autoridad efectiva; otros reconstruyeron Estados fuertes. La fragmentación redistribuyó poder sin terminar inmediatamente con cada institución. Distinguir continuidad y ruptura evita imaginar una caída única y simultánea en todas partes."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cruzadas en un paisaje fragmentado"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Primera Cruzada entró en una región marcada previamente por esas rivalidades. La toma de Nicea en 1097 con participación bizantina y la victoria de Dorilea golpearon a los selyúcidas anatolios. Siria y Palestina implicaban otro conjunto de poderes. Todos los enemigos de los cruzados no formaban un ejército unificado del Gran Imperio selyúcida. Jerusalén estaba bajo control fatimí cuando fue conquistada en 1099, no era el centro de un frente selyúcida coherente. Una misma etiqueta religiosa no identifica un mando político único. [La historia de los fatimíes publicada por Cambridge](https://sahistory.org.za/sites/default/files/archive-files3/roland_oliver_the_cambridge_history_of_africa_vbook4you.pdf) documenta esos cambios de gobernantes."
+      },
+      {
+        "type": "paragraph",
+        "text": "Peacock explica cómo Rum sobrevivió a las pérdidas y reconstruyó su posición. Bizancio recuperó territorios y nuevos dirigentes musulmanes formaron otras coaliciones. Las cruzadas no se explican exclusivamente como respuesta a Manzikert ni causaron la derrota oriental posterior de Sanjar. La geografía separa historias relacionadas que los resúmenes convierten en una guerra continua entre civilizaciones. Esa precisión devuelve protagonismo a decisiones, rivales y alianzas cambiantes, y permite comprender por qué los resultados variaron entre Anatolia, Siria, Palestina y Jorasán."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Sanjar: poder oriental y ruptura"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sanjar gobernó Jorasán desde 1097 y ejerció autoridad sultánica superior desde 1118 hasta su muerte en 1157, con Merv como centro fundamental. [La historia de Jorasán](https://www.iranicaonline.org/articles/khorasan-vii-history-from-the-ghaznavids-to-the-mongol-conquest/) explica prosperidad y vulnerabilidad. En 1141, los Qara Khitai lo derrotaron en Qatwan. El revés debilitó su autoridad al otro lado del Oxus y alentó desafíos de subordinados, sin eliminar inmediatamente su capacidad militar e influencia. La trayectoria posterior importa tanto como el momento de la derrota."
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1153, grupos oguz rebeldes derrotaron y capturaron a Sanjar; Jorasán sufrió graves destrucciones. Su muerte en 1157 marca convencionalmente el final del imperio oriental. Una línea occidental continuó hasta 1194, cuando Tughril III fue derrotado por el jorezmshah. Los finales corresponden a formaciones políticas diferentes. [La cronología académica](https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/) mantiene esa distinción, sin hacer desaparecer a toda la dinastía con un solo soberano. Rum continuó durante mucho más tiempo y no debe terminarse por error en la misma fecha."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Rum y la conexión otomana"
+      },
+      {
+        "type": "paragraph",
+        "text": "Rum surgió en Anatolia bajo una rama relacionada con Suleiman ibn Qutalmish. Sus comienzos se sitúan a finales del siglo XI, aunque las fechas fundacionales cambian según el acontecimiento elegido. Su desarrollo alrededor de Konya, expansión, arquitectura y posterior subordinación mongola forman una historia distinta que llega a principios del siglo XIV. Sobrevivió a Sanjar y a los selyúcidas occidentales. El nombre Rum evocaba antiguas tierras romanas, no una frontera nacional moderna ni una administración idéntica al imperio centrado en Irán."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los otomanos surgieron más tarde entre principados anatolios, bajo Osman y sus sucesores. Las tradiciones urbanas, religiosas y políticas selyúcidas formaban parte del entorno heredado, pero los selyúcidas no fundaron su dinastía. La [historia otomana](/articles/ottoman-empire-rise-and-fall/) incluye nuevas coaliciones fronterizas e instituciones propias. Relacionar ambas historias ayuda a comprender influencias; resulta engañoso transformarlas en una sola dinastía con sucesión ininterrumpida. Herencia cultural, continuidad territorial y parentesco dinástico son conceptos diferentes que no deben intercambiarse."
+      },
+      {
+        "type": "paragraph",
+        "text": "El legado selyúcida continúa en Türkiye, Irán y Oriente Medio mediante monumentos, instituciones, cultura política y memoria histórica. Su importancia radica en las conexiones entre poder militar pastoril y sociedades urbanas, que sobrevivieron a fronteras cambiantes. El imperio transformó su mundo, pero ese mundo nunca fue exclusivamente creación de sus sultanes. Recordar a las personas y las instituciones que los rodeaban hace sus logros más comprensibles y su declive menos misterioso. La precisión histórica añade profundidad al relato en lugar de restarle interés."
+      },
+      {
+        "type": "paragraph",
+        "text": "El hero es una reconstrucción histórica generada por inteligencia artificial de un palacio selyúcida imaginado. El gobernante a la derecha no es un retrato autenticado de Alp Arslan, Malik Shah ni otra persona identificada. El escenario no documenta una corte concreta."
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Quiénes fueron los selyúcidas?",
+        "answer": "Una dinastía de origen túrquico oguz. Su imperio combinó liderazgo militar túrquico, tradiciones administrativas y culturales persas e instituciones islámicas suníes."
+      },
+      {
+        "question": "¿Qué ocurrió en Manzikert en 1071?",
+        "answer": "Alp Arslan derrotó y capturó al emperador bizantino Romano IV el 26 de agosto de 1071. Las guerras civiles y las migraciones posteriores contribuyeron a transformar Anatolia gradualmente."
+      },
+      {
+        "question": "¿Rum era el mismo Estado que el Gran Imperio selyúcida?",
+        "answer": "No. Una rama emparentada gobernaba ese Estado anatolio, con historia política propia y relaciones a veces hostiles con los grandes selyúcidas."
+      },
+      {
+        "question": "¿Quién fue Nizam al-Mulk?",
+        "answer": "Un influyente visir persa asociado con Alp Arslan, Malik Shah, la administración y las escuelas Nizamiyya. Sus escritos requieren contexto y no son un archivo gubernamental neutral."
+      },
+      {
+        "question": "¿Cuándo terminó el imperio?",
+        "answer": "La muerte de Sanjar en 1157 marca convencionalmente el final del imperio oriental. La rama occidental continuó hasta 1194 y Rum sobrevivió mucho más tiempo."
+      },
+      {
+        "question": "¿Fundaron los selyúcidas el Imperio otomano?",
+        "answer": "No. La dinastía de Osman surgió después en otro contexto anatolio. Las tradiciones selyúcidas formaron parte de ese entorno, pero Alp Arslan no fundó la dinastía otomana."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Bosworth: Jand y relatos de origen",
+        "url": "https://www.iranicaonline.org/articles/jand-2/"
+      },
+      {
+        "label": "Cahen: Chaghri Beg",
+        "url": "https://www.iranicaonline.org/articles/cagri-beg-dawud-b/"
+      },
+      {
+        "label": "Bosworth: Dandanaqan",
+        "url": "https://www.iranicaonline.org/articles/dandanqan-a-small-town-of-medieval-khorasan-in-the-qara-qum-or-sandy-desert-between-marv-and-saraks-10-farsaks-from/"
+      },
+      {
+        "label": "Metropolitan Museum: Irán selyúcida",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-seljuqs-of-iran-ca-1040-1196"
+      },
+      {
+        "label": "Bosworth: Alp Arslan",
+        "url": "https://www.iranicaonline.org/articles/alp-arslan-saljuq-sultan/"
+      },
+      {
+        "label": "Theotokis: campaña e interpretación de Manzikert",
+        "url": "https://www.cambridge.org/core/books/abs/campaign-and-battle-of-manzikert-1071/introduction/1BA88135BD13CE16C32E2AD716335296"
+      },
+      {
+        "label": "Hillenbrand: fuentes y memoria de Manzikert",
+        "url": "https://edinburghuniversitypress.com/book-turkish-myth-and-muslim-symbol.html"
+      },
+      {
+        "label": "Peacock: selyúcidas de Rum",
+        "url": "https://www.iranicaonline.org/articles/saljuqs/saljuqs-iii/"
+      },
+      {
+        "label": "Durand-Guédy: Malik Shah",
+        "url": "https://www.iranicaonline.org/articles/maleksah/"
+      },
+      {
+        "label": "Yavari: Nizam al-Mulk",
+        "url": "https://www.iranicaonline.org/articles/nezam-al-molk/"
+      },
+      {
+        "label": "Yavari: Siyasatnama y crítica textual",
+        "url": "https://www.iranicaonline.org/articles/siar-al-moluk/"
+      },
+      {
+        "label": "Iranica: literatura selyúcida",
+        "url": "https://www.iranicaonline.org/articles/saljuqs/v-literature/"
+      },
+      {
+        "label": "Iranica: vida de Omar Jayyam",
+        "url": "https://www.iranicaonline.org/articles/khayyam-omar/khayyam-omar-i-life/"
+      },
+      {
+        "label": "UNESCO: Mezquita del Viernes de Isfahán",
+        "url": "https://whc.unesco.org/en/list/1397/"
+      },
+      {
+        "label": "Iranica: arte y arquitectura selyúcidas",
+        "url": "https://www.iranicaonline.org/articles/saljuqs/vi-art-and-architecture/"
+      },
+      {
+        "label": "Lambton: iqta y derechos sobre ingresos",
+        "url": "https://www.iranicaonline.org/articles/eqta/"
+      },
+      {
+        "label": "Bosworth: organización militar medieval",
+        "url": "https://www.iranicaonline.org/articles/army-ii/"
+      },
+      {
+        "label": "Iranica: historia del Irán medieval",
+        "url": "https://www.iranicaonline.org/articles/iran-ii2-islamic-period-page-3/"
+      },
+      {
+        "label": "Iranica: Jorasán y Sanjar",
+        "url": "https://www.iranicaonline.org/articles/khorasan-vii-history-from-the-ghaznavids-to-the-mongol-conquest/"
+      },
+      {
+        "label": "Iranica: cronología histórica",
+        "url": "https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/"
+      },
+      {
+        "label": "Bosworth: crónica selyúcida y transmisión",
+        "url": "https://www.iranicaonline.org/articles/akbar-al-dawlat-al-saljuqiya/"
+      },
+      {
+        "label": "Cambridge: Jerusalén fatimí",
+        "url": "https://sahistory.org.za/sites/default/files/archive-files3/roland_oliver_the_cambridge_history_of_africa_vbook4you.pdf"
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/seljuk-empire-origins-manzikert-culture-decline/",
+    "path": "/fr/articles/seljuk-empire-origins-manzikert-culture-decline/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex fr historical terminology and source attribution review",
+      "reviewedAt": "2026-10-11",
+      "terminologyChecked": true
+    },
+    "title": "L’EMPIRE SELDJOUKIDE : LA DYNASTIE TURCIQUE QUI A TRANSFORMÉ LE MOYEN-ORIENT",
+    "seoTitle": "Empire seldjoukide : origines, Manzikert, culture et déclin",
+    "description": "Les Grands Seldjoukides, Alp Arslan, Manzikert et Malik Shah : une histoire sourcée distinguant leur empire du sultanat de Roum.",
+    "excerpt": "Les Grands Seldjoukides, Alp Arslan, Manzikert et Malik Shah : une histoire sourcée distinguant leur empire du sultanat de Roum.",
+    "headlineHighlights": {
+      "red": "EMPIRE SELDJOUKIDE",
+      "gold": "TRANSFORMÉ"
+    },
+    "keywords": [
+      "Empire seldjoukide",
+      "Alp Arslan",
+      "Manzikert",
+      "Malik Shah",
+      "Nizam al-Mulk",
+      "Sultanat de Roum"
+    ],
+    "searchIntent": "Les Grands Seldjoukides, Alp Arslan, Manzikert et Malik Shah : une histoire sourcée distinguant leur empire du sultanat de Roum.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-11",
+    "updatedAt": "2026-10-11",
+    "image": {
+      "src": "/articles/seljuk-palace-ai-historical-reconstruction.png",
+      "alt": "Reconstitution historique générée par IA d’un palais seldjoukide imaginaire avec un souverain à droite, pas un portrait authentique d’Alp Arslan ou d’un souverain identifié"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Les Seldjoukides étaient une dynastie turcique oghouze dont l’expansion au XIe siècle transforma l’Iran, l’Irak et les régions voisines. Leurs victoires instaurèrent un nouvel ordre militaire autour du califat abbasside, tandis qu’administrateurs, savants et bâtisseurs persans façonnaient la vie impériale. L’empire des Grands Seldjoukides et le sultanat de Roum étaient apparentés, mais distincts. Aucun n’était l’Empire ottoman sous un nom antérieur."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette histoire se réduit souvent à un cavalier, un arc et une bataille célèbre. Le récit complet est plus captivant : des familles pastorales devenant souveraines, un calife négociant avec un sultan, des villes soutenant des cours itinérantes et un empire capable de récompenser ses commandants mais incapable de régler pacifiquement sa succession. Ses réussites et sa fragilité naquirent de la même difficulté : gouverner des populations diverses sur des distances immenses."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Des origines oghouzes aux petits-fils de Seldjouk Beg"
+      },
+      {
+        "type": "paragraph",
+        "text": "La dynastie doit son nom à Seldjouk Beg, chef oghouz associé à la frontière du bas Syr-Daria. Des traditions relient le déplacement de la famille vers le monde musulman à sa conversion à l’islam, mais les récits anciens comportent des éléments légendaires. [L’article d’Iranica sur Jand](https://www.iranicaonline.org/articles/jand-2/) situe explicitement cette ville dans ces traditions semi-légendaires. Une histoire de fondation parfaitement ordonnée ne doit pas être prise pour une archive familiale contemporaine."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ses petits-fils Tughril Beg et Chaghri Beg réalisèrent la percée politique durable. [L’étude de Claude Cahen sur Chaghri](https://www.iranicaonline.org/articles/cagri-beg-dawud-b/) décrit migration au Khorasan, négociations, conflits et recherche de pâturages. Ces déplacements ne traversaient pas un territoire vide : agriculteurs, villes, gouverneurs et groupes pastoraux concurrents y disputaient déjà les ressources. Les frères durent organiser leurs partisans et trouver une place dans un ordre existant avant d’en renverser certaines composantes. Leur ascension ne fut ni instantanée ni inévitable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Dandanaqan, 1040 : la victoire sur les Ghaznévides"
+      },
+      {
+        "type": "paragraph",
+        "text": "À Dandanaqan, près de Merv dans l’actuel Turkménistan, les forces seldjoukides vainquirent en 1040 l’armée ghaznévide de Masud Ier. [La notice historique de C. Edmund Bosworth](https://www.iranicaonline.org/articles/dandanqan-a-small-town-of-medieval-khorasan-in-the-qara-qum-or-sandy-desert-between-marv-and-saraks-10-farsaks-from/) souligne les difficultés d’approvisionnement liées à la sécheresse et à la famine. La victoire assura leur position au Khorasan, sans détruire la dynastie ghaznévide, qui conserva d’autres territoires. Un effectif spectaculaire dans une chronique ne devient pas un décompte fiable par répétition."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’affrontement portait aussi sur la capacité de déplacer, nourrir et coordonner une armée ; il ne prouve pas la supériorité universelle d’une arme. Chaghri resta essentiel dans les terres orientales, tandis que Tughril poursuivait son expansion vers l’ouest. L’entreprise familiale possédait plusieurs centres. Dandanaqan est un point de départ utile pour l’empire, même si Tughril avait déjà établi son autorité à Nishapur en 1038. La formation d’un État ne se confond donc pas avec une seule journée."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Bagdad, 1055 : un sultan auprès du calife"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tughril entra à Bagdad en 1055, mettant fin au contrôle bouyide et se présentant comme protecteur du califat abbasside. [La synthèse du Metropolitan Museum](https://www.metmuseum.org/essays/the-art-of-the-seljuqs-of-iran-ca-1040-1196) identifie ce changement politique majeur. La puissance militaire appartenait davantage au sultan ; le calife conservait prestige religieux et rôle de légitimation. Leurs rapports étaient négociés, parfois tendus, plutôt qu’un transfert simple et complet de toutes les formes d’autorité. Le titre ne résolvait pas chaque rivalité."
+      },
+      {
+        "type": "paragraph",
+        "text": "Parler de restauration impose de préciser ce qui fut restauré. L’administration centralisée des premiers Abbassides ne renaquit pas. Reconnaissance, honneurs cérémoniels et alliances familiales associaient des institutions aux intérêts parfois divergents. Savants, marchands et communautés urbaines disposaient aussi d’influence. Les Seldjoukides gouvernaient au travers de ces relations. L’[histoire abbasside de PRESDA](/articles/abbasid-caliphate-baghdad-islamic-golden-age/) explique pourquoi la faiblesse politique du califat n’effaçait pas son importance symbolique et institutionnelle, ni sa capacité de participer aux négociations."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Alp Arslan au-delà d’un seul champ de bataille"
+      },
+      {
+        "type": "paragraph",
+        "text": "Après la mort de Tughril en 1063, son neveu Alp Arslan s’imposa comme sultan. Son règne est conventionnellement daté de 1063 à 1072. Il mena des campagnes dans le Caucase et affronta des rivaux sur plusieurs frontières. [Sa biographie scientifique dans Iranica](https://www.iranicaonline.org/articles/alp-arslan-saljuq-sultan/) replace Manzikert dans cette carrière plus vaste. Une histoire centrée exclusivement sur Byzance manquerait notamment l’importance de la Syrie et les rivalités au sein de la famille seldjoukide."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’empereur byzantin Romain IV Diogène, au pouvoir de 1068 à 1071, cherchait à sécuriser la frontière orientale. Raids et forteresses disputées pesaient sur un empire dont les ressources et les fidélités politiques subissaient des tensions. Les deux souverains affrontaient des environnements stratégiques complexes. Leur rencontre devint décisive en reliant ces pressions à la capture d’un empereur. Elle ne découlait pas d’un destin prédéterminé imposant à l’un de conquérir et à l’autre de disparaître."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Manzikert, 1071 : victoire et interprétations contestées"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le 26 août 1071, Alp Arslan vainquit Romain près de Manzikert, l’actuelle Malazgirt en Türkiye orientale, et captura l’empereur. La mobilité de la cavalerie seldjoukide et le tir à l’arc éprouvèrent les formations byzantines ; confusion et défauts de coordination occupent une place centrale dans les récits. Déploiements, retraits et intentions des commandants restent discutés. Cet article ne donne donc ni effectifs exacts, ni pourcentages de pertes, ni dialogue prétendument verbatim entre le sultan et son prisonnier."
+      },
+      {
+        "type": "paragraph",
+        "text": "[L’étude de Georgios Theotokis](https://www.cambridge.org/core/books/abs/campaign-and-battle-of-manzikert-1071/introduction/1BA88135BD13CE16C32E2AD716335296) conteste le tableau d’une annihilation militaire totale et souligne les conséquences politiques. Romain fut libéré, mais son autorité s’effondra et des conflits civils suivirent. [Les recherches de Carole Hillenbrand](https://edinburghuniversitypress.com/book-turkish-myth-and-muslim-symbol.html) examinent aussi comment les récits musulmans ultérieurs firent de la bataille un symbole puissant. La victoire est établie ; toutes les scènes mémorables qui lui sont associées n’ont pas la même valeur documentaire."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Une transformation progressive de l’Anatolie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les mouvements turciques en Anatolie précédèrent Manzikert. Ensuite, guerres civiles, alliances avec des chefs turcs, migrations et principautés concurrentes élargirent les possibilités d’établissement. [Andrew Peacock, dans son histoire de Roum](https://www.iranicaonline.org/articles/saljuqs/saljuqs-iii/), souligne cette période initiale inégale et mal documentée. Fonctionnaires et communautés byzantines ne disparurent pas partout en 1071. Contrôle militaire, mouvement pastoral, gouvernement urbain, langue et religion changèrent à des rythmes différents selon les lieux. Le processus ne se réduit pas à une conquête uniforme."
+      },
+      {
+        "type": "paragraph",
+        "text": "La turquification n’est donc pas un remplacement instantané de population. Grecs, Arméniens et autres communautés restèrent présents, tandis que des populations turcophones établissaient des racines sociales et politiques durables. La conquête pouvait provoquer violence et déplacements, mais coexistence, emploi et négociation comptaient aussi. Une bataille crée une ouverture sans déterminer toute la suite. L’[article de PRESDA sur Byzance](/articles/byzantine-empire-eastern-rome-constantinople-1453/) replace les pertes anatoliennes dans une histoire comprenant aussi des reconquêtes et une longue survie impériale."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Malik Shah Ier et les limites de l’expression âge d’or"
+      },
+      {
+        "type": "paragraph",
+        "text": "Malik Shah Ier régna de 1072 à 1092 ; l’empire atteignit alors sa plus grande extension. Centré sur l’Iran, son pouvoir couvrait l’Irak et des parties de la Syrie, avec des relations tributaires plus orientales. [La biographie de David Durand-Guédy](https://www.iranicaonline.org/articles/maleksah/) insiste sur la diversité des arrangements : commandants, parents et vassaux gouvernaient différemment. Une carte moderne uniformément colorée dissimulerait les distinctions entre contrôle direct, parenté dynastique et reconnaissance d’une suzeraineté. L’extension maximale n’est pas une administration identique partout."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ispahan occupait une place majeure, mais le gouvernement impérial demeurait itinérant. Cour, camp militaire et administration urbaine ne résidaient pas toujours ensemble. La stabilité dépendait des récompenses accordées aux commandants et de l’expansion, autant que des nominations. L’âge d’or évoque mécénat et puissance relative, mais constitue aussi un jugement rétrospectif. Il ne signifie ni prospérité égale pour chaque paysan, ni absence de répression et d’insécurité derrière la réussite visible de la cour."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Nizam al-Mulk : gouvernement, conseils et écoles"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le vizir persan Nizam al-Mulk servit Alp Arslan et Malik Shah et joua un rôle central dans le gouvernement. Son influence associait expérience bureaucratique, réseaux de clientèle et relations avec les milieux savants urbains. [Les recherches de Neguin Yavari](https://www.iranicaonline.org/articles/nezam-al-molk/) montrent pourquoi les biographies exemplaires tardives exigent une lecture critique. Le ministre capable appartient à l’histoire ; le conseiller parfaitement sage dont chaque parole annonce l’avenir appartient aussi à une tradition littéraire sur les souverains et leurs proches."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les écoles Nizamiyya liées à son patronage soutenaient le savoir sunnite et les études juridiques, notamment à Bagdad et Nishapur. Elles furent influentes, sans inventer l’éducation ni former un système universitaire national moderne. Le [Siyasatnama, également appelé Siar al-moluk](https://www.iranicaonline.org/articles/siar-al-moluk/), conseille justice, fiscalité, contrôle des agents et discipline militaire. Texte prescriptif dont la transmission est discutée, il révèle idéaux et préoccupations. Il ne prouve pas que chaque recommandation fut appliquée dans tous les territoires du sultan."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "La légitimité sunnite dans une société religieuse diverse"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les souverains favorisaient les institutions sunnites et tiraient une part de leur légitimité de leurs liens abbassides. Ils concurrençaient ainsi le califat fatimide et d’autres autorités. Mais le sunnisme contenait plusieurs traditions juridiques et théologiques ; leurs territoires abritaient aussi musulmans chiites, chrétiens et autres communautés. L’appartenance religieuse influençait mécénat et conflits sans expliquer à elle seule chaque alliance, décision fiscale ou lutte de succession. Les intérêts politiques ne suivaient pas toujours une frontière confessionnelle stable."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mosquées, madrasas et fondations pieuses reliaient élites savantes, dirigeants et société locale. Ressources, nominations et réseaux personnels comptaient autant que doctrines. Les attaques de la littérature de cour contre des adversaires éclairent un langage politique, pas nécessairement des communautés entières. Cette lecture évite deux erreurs : imaginer un empire religieusement uniforme ou considérer la légitimité religieuse comme un simple ornement de la force militaire. Les institutions possédaient des usages et des acteurs propres."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Sciences, littérature et influence persane"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les traditions administratives et littéraires persanes prospérèrent sous des souverains turciques, tandis que l’arabe restait essentiel au savoir religieux et savant. [Le panorama littéraire d’Iranica](https://www.iranicaonline.org/articles/saljuqs/v-literature/) décrit un mécénat réparti entre plusieurs cours, plutôt qu’un programme culturel central. Poètes et savants recherchaient des protecteurs ; ils pouvaient louer leur générosité, critiquer leur situation ou préserver plusieurs lectures du pouvoir. Origines turciques et influence persane étaient des composantes compatibles, non des identités nécessairement rivales."
+      },
+      {
+        "type": "paragraph",
+        "text": "Omar Khayyam illustre la dimension scientifique. Sa carrière mathématique et astronomique comprend un lien avec le projet calendaire de Malik Shah, associé à la réforme jalali de 1079. [Sa biographie scientifique](https://www.iranicaonline.org/articles/khayyam-omar/khayyam-omar-i-life/) distingue les documents historiques des récits ultérieurs. Les réalisations dépendaient d’expertise et de patronage, pas seulement du génie d’un monarque. Tous les vers plus tard attribués à Khayyam ne sont pas des déclarations sûrement datées de la cour seldjoukide."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Architecture : transformer des villes déjà anciennes"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Mosquée du vendredi d’Ispahan constitue un héritage concret. Son agrandissement seldjoukide développa la cour à quatre iwans et des espaces sous coupole remarquables, selon [l’UNESCO](https://whc.unesco.org/en/list/1397/). Le monument comprend des phases antérieures et postérieures : il n’est pas un édifice intégralement créé en une fois par un sultan. Son usage religieux continu importe autant que son influence architecturale. Bâtiments et institutions peuvent survivre aux gouvernements qui financèrent leurs transformations majeures, sans rester parfaitement inchangés."
+      },
+      {
+        "type": "paragraph",
+        "text": "Briques travaillées, décors sculptés, céramiques et métaux témoignent de productions qualifiées et de commanditaires variés. [L’analyse universitaire de l’art](https://www.iranicaonline.org/articles/saljuqs/vi-art-and-architecture/) rappelle qu’un nom dynastique ne délimite pas exactement une période artistique. Les objets dits seldjoukides peuvent provenir d’ateliers et de contextes politiques différents, y compris de territoires successeurs. Artisans et utilisateurs appartenaient à des réseaux dépassant les frontières des cours. L’imaginaire du visuel principal reste donc distinct des preuves offertes par les monuments et les collections."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Commerce, agriculture et ressources fiscales"
+      },
+      {
+        "type": "paragraph",
+        "text": "Caravanes et villes reliaient l’Iran et l’Irak à l’Asie centrale et aux routes méditerranéennes, mais l’agriculture fournissait nourriture et revenus nécessaires aux armées. Irrigation, accès à l’eau, déplacements pastoraux et cultures exigeaient des négociations constantes. Un empire connecté commercialement n’était pas automatiquement pacifié. Campagnes, réquisitions et disputes fiscales pouvaient peser sur les producteurs, même lorsque marchands et mécènes profitaient des villes prospères et de routes plus étendues. La richesse visible n’efface pas ses coûts sociaux."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’iqta désignait divers arrangements de concessions et de droits sur des revenus. [A. K. S. Lambton](https://www.iranicaonline.org/articles/eqta/) avertit qu’il ne faut pas donner un sens unique à toutes ses occurrences. Ces attributions pouvaient soutenir soldats ou agents sans correspondre partout à la pleine propriété du sol. Aucun PIB impérial fiable, total annuel des échanges ou taux d’imposition universel n’est disponible ici. Expliquer les institutions est plus utile que convertir des revenus médiévaux incertains en dollars modernes inventés."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cavalerie et armées en transformation"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le tir à l’arc monté turkmène apportait mobilité et souplesse, mais les forces seldjoukides ne formaient pas une seule horde nomade. Troupes professionnelles, soldats attachés aux chefs et commandants d’origines variées devinrent essentiels. [La synthèse militaire de Bosworth](https://www.iranicaonline.org/articles/army-ii/) décrit des forces permanentes mixtes, soutenues par soldes et concessions de revenus. Discipline, chevaux, fourrage et commandement comptaient autant que l’armement. Les partisans tribaux et les professionnels pouvaient coopérer tout en disputant récompenses et influence."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les armées byzantines combinaient elles aussi cavalerie, infanterie, archers et contingents divers. Fortifications et logistique faisaient partie de leurs capacités ; elles ne se réduisaient pas à des soldats lourds incapables d’affronter des cavaliers. À Manzikert, contexte stratégique, détachements séparés et coordination pesèrent autant qu’une comparaison générale des armes. Le tableau associé compare qualitativement organisations et possibilités tactiques. Il ne simule pas numériquement la bataille et ne suppose pas une façon immuable de combattre pour chaque camp."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Société et femmes au-delà du récit des sultans"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cultivateurs, familles pastorales, marchands, artisans, savants, soldats et personnes soumises à l’esclavage ou au service contraint avaient des intérêts différents. Les sources renseignent mieux les souverains que les décisions quotidiennes des familles ordinaires. Une histoire rigoureuse reconnaît cette visibilité inégale. Un objet luxueux conservé ou une scène de palais ne montre pas ce que la majorité possédait, portait ou vivait. La culture d’élite fournit une fenêtre précieuse, sans constituer un recensement représentatif de la population impériale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Des femmes participaient aussi à la politique dynastique et au mécénat. Terken Khatun, épouse de Malik Shah, joua un rôle important dans la succession après sa mort. Les récits de cour peuvent présenter les femmes influentes au travers de conventions hostiles : attribution et contexte sont indispensables. Reconnaître ce pouvoir ne prouve pas une liberté identique pour toutes les classes. Mariages, foyers maternels concurrents et ambitions princières faisaient de la famille une institution politique aux côtés des bureaux et des armées."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Byzance, les Fatimides et les puissances voisines"
+      },
+      {
+        "type": "paragraph",
+        "text": "La stratégie variait selon les frontières. Ghaznévides, Qarakhanides, puissances caucasiennes et dynasties régionales compliquent l’image d’une simple conquête vers l’ouest. En Syrie, princes et commandants affrontaient influence fatimide, autorités locales et rivaux seldjoukides. Gouverner une ville ne signifiait pas toujours gouverner ses campagnes. Une suzeraineté reconnue une année pouvait être contestée ensuite. La géographie politique formait donc un ensemble changeant de relations, et non une surface stable administrée d’une seule manière."
+      },
+      {
+        "type": "paragraph",
+        "text": "[La synthèse scientifique sur l’Iran médiéval](https://www.iranicaonline.org/articles/iran-ii2-islamic-period-page-3/) inscrit ces changements dans l’histoire régionale. Diplomatie, mariages et accords accompagnaient les guerres. Les Byzantins étaient des adversaires, mais musulmans et chrétiens ne constituaient pas deux camps toujours unifiés. Les alliances servaient des intérêts immédiats. L’[histoire de la Géorgie dans PRESDA](/articles/kingdom-georgia-david-builder-queen-tamar-golden-age/) montre des souverains caucasiens poursuivant leurs propres stratégies, plutôt que réagissant uniquement à une expansion impériale venue d’ailleurs."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Après 1092 : une succession conflictuelle"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nizam al-Mulk et Malik Shah moururent en 1092. Rivalités entre fils, parents, foyers et commandants affaiblirent ensuite la cohérence impériale. Barkiyaruq et Muhammad Tapar participèrent aux principales luttes pour le sultanat occidental, tandis que Sanjar consolidait une base orientale. Aucune règle de succession automatique et incontestée ne s’imposait à tous. Reconnaissance, soutien militaire et alliances étaient déterminants ; plusieurs cours pouvaient revendiquer simultanément l’autorité. La puissance passée ne suffisait pas à régler ces conflits."
+      },
+      {
+        "type": "paragraph",
+        "text": "La décentralisation avait aussi des racines institutionnelles. Les princes gouvernaient des territoires, et les atabegs, initialement liés à la tutelle de jeunes souverains, pouvaient acquérir un pouvoir local considérable. Branches seldjoukides et autres dynasties suivirent des trajectoires différentes au Kerman, en Syrie, en Irak et en Anatolie. La carte ne se divisa pas en morceaux égaux un jour précis. Certains conservaient leurs titres sans pouvoir effectif ; d’autres construisaient des États solides. Toutes les institutions ne disparurent pas immédiatement."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Les croisades dans un paysage politique fragmenté"
+      },
+      {
+        "type": "paragraph",
+        "text": "La première croisade arriva dans une région déjà marquée par ces rivalités. La prise de Nicée en 1097 avec participation byzantine, puis la victoire de Dorylée, frappèrent les Seldjoukides anatoliens. Syrie et Palestine impliquaient d’autres pouvoirs. Tous les adversaires des croisés ne formaient pas une armée unifiée des Grands Seldjoukides. Jérusalem était sous contrôle fatimide lors de sa conquête en 1099, et non le centre d’un front seldjoukide cohérent. Les noms et les territoires doivent rester distincts. [L’histoire des Fatimides publiée par Cambridge](https://sahistory.org.za/sites/default/files/archive-files3/roland_oliver_the_cambridge_history_of_africa_vbook4you.pdf) documente ces changements de souverains."
+      },
+      {
+        "type": "paragraph",
+        "text": "Peacock montre comment Roum survécut aux pertes et reconstruisit progressivement sa position. Byzance récupéra aussi des territoires, tandis que de nouveaux dirigeants musulmans assemblèrent d’autres coalitions. Les croisades ne s’expliquent pas exclusivement par Manzikert et ne causèrent pas la défaite orientale bien plus tardive de Sanjar. La géographie aide à séparer des histoires liées que les résumés populaires condensent souvent en une guerre continue entre deux civilisations. Cette séparation rend les choix des acteurs plus compréhensibles."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Sanjar : puissance orientale et rupture de l’ordre impérial"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sanjar gouverna le Khorasan à partir de 1097 et détenait l’autorité sultanienne supérieure de 1118 à sa mort en 1157, avec Merv comme centre majeur. [L’histoire du Khorasan](https://www.iranicaonline.org/articles/khorasan-vii-history-from-the-ghaznavids-to-the-mongol-conquest/) décrit prospérité et vulnérabilité. En 1141, les Qara Khitai le vainquirent à Qatwan. Sa suzeraineté au-delà de l’Oxus fut affaiblie et ses dépendants contestèrent davantage son pouvoir. Pourtant, le revers n’effaça pas immédiatement sa capacité à conduire des campagnes ou exercer une influence."
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1153, des groupes oghouz révoltés vainquirent et capturèrent Sanjar ; le Khorasan subit de graves destructions. Sa mort en 1157 marque conventionnellement la fin de l’empire oriental. Une lignée occidentale continua néanmoins jusqu’en 1194, lorsque Tughril III fut vaincu par le Khwarazmshah. Ces dates correspondent à des formations différentes. [La chronologie universitaire](https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/) permet de conserver cette distinction, au lieu de faire disparaître toute la dynastie avec un seul souverain. Roum suivit encore une autre trajectoire."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Roum et les Ottomans : des héritages, pas une identité"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le sultanat de Roum apparut en Anatolie sous une branche liée à Suleiman ibn Qutalmish. Ses débuts remontent à la fin du XIe siècle, mais la date précise de fondation varie selon l’événement retenu. Développement autour de Konya, expansion, mécénat architectural et domination mongole ultérieure composent une histoire distincte allant jusqu’au début du XIVe siècle. Roum survécut à Sanjar et aux Seldjoukides occidentaux. Son nom évoquait les anciennes terres romaines, pas une frontière nationale moderne."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les Ottomans apparurent plus tard parmi les principautés anatoliennes, sous Osman et ses successeurs. Les traditions urbaines, religieuses et politiques de l’époque seldjoukide faisaient partie de cet environnement, mais les Seldjoukides ne fondèrent pas sa dynastie. L’[histoire ottomane](/articles/ottoman-empire-rise-and-fall/) implique de nouvelles coalitions frontalières et ses propres institutions. Relier ces histoires est utile pour expliquer des influences ; les transformer en une dynastie unique à succession ininterrompue est trompeur. L’héritage ne supprime pas la différence."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’héritage seldjoukide demeure visible en Türkiye, en Iran et au Moyen-Orient à travers monuments, institutions, culture politique et mémoire historique. Il réside dans les liens entre puissance militaire pastorale et sociétés urbaines, qui survécurent à des frontières changeantes. L’empire transforma son monde, mais celui-ci ne fut jamais exclusivement l’œuvre de ses sultans. Se rappeler les populations et les institutions autour d’eux rend leurs réussites plus compréhensibles et leur déclin moins mystérieux, sans remplacer l’histoire par une légende impériale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le visuel principal est une reconstitution historique générée par intelligence artificielle d’un palais seldjoukide imaginaire. Le souverain à droite n’est pas un portrait authentifié d’Alp Arslan, de Malik Shah ou d’une autre personne nommée. Le décor ne documente pas une cour précise."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Qui étaient les Seldjoukides ?",
+        "answer": "Une dynastie d’origine turcique oghouze. L’empire des Grands Seldjoukides associait commandement militaire turcique, traditions administratives et culturelles persanes et institutions sunnites."
+      },
+      {
+        "question": "Que s’est-il passé à Manzikert en 1071 ?",
+        "answer": "Alp Arslan vainquit et captura l’empereur byzantin Romain IV le 26 août 1071. Les guerres civiles et les migrations ultérieures contribuèrent ensuite à transformer progressivement l’Anatolie."
+      },
+      {
+        "question": "Roum était-il le même État que l’empire des Grands Seldjoukides ?",
+        "answer": "Non. Une branche apparentée gouvernait cet État anatolien, qui possédait une histoire distincte et entretenait parfois des relations hostiles avec les Grands Seldjoukides."
+      },
+      {
+        "question": "Qui était Nizam al-Mulk ?",
+        "answer": "Un puissant vizir persan associé à Alp Arslan, Malik Shah, au gouvernement et aux écoles Nizamiyya. Ses écrits doivent être contextualisés, pas traités comme des archives administratives neutres."
+      },
+      {
+        "question": "Quand l’empire a-t-il pris fin ?",
+        "answer": "La mort de Sanjar en 1157 marque conventionnellement la fin de l’empire oriental. La branche occidentale régna jusqu’en 1194 ; Roum survécut beaucoup plus longtemps."
+      },
+      {
+        "question": "Les Seldjoukides ont-ils fondé l’Empire ottoman ?",
+        "answer": "Non. La dynastie d’Osman apparut plus tard dans un autre contexte anatolien. Elle hérita d’un environnement marqué notamment par les traditions seldjoukides, sans avoir été fondée par Alp Arslan."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Bosworth : Jand et traditions d’origine",
+        "url": "https://www.iranicaonline.org/articles/jand-2/"
+      },
+      {
+        "label": "Cahen : Chaghri Beg",
+        "url": "https://www.iranicaonline.org/articles/cagri-beg-dawud-b/"
+      },
+      {
+        "label": "Bosworth : Dandanaqan",
+        "url": "https://www.iranicaonline.org/articles/dandanqan-a-small-town-of-medieval-khorasan-in-the-qara-qum-or-sandy-desert-between-marv-and-saraks-10-farsaks-from/"
+      },
+      {
+        "label": "Metropolitan Museum : Iran seldjoukide",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-seljuqs-of-iran-ca-1040-1196"
+      },
+      {
+        "label": "Bosworth : Alp Arslan",
+        "url": "https://www.iranicaonline.org/articles/alp-arslan-saljuq-sultan/"
+      },
+      {
+        "label": "Theotokis : campagne et interprétation de Manzikert",
+        "url": "https://www.cambridge.org/core/books/abs/campaign-and-battle-of-manzikert-1071/introduction/1BA88135BD13CE16C32E2AD716335296"
+      },
+      {
+        "label": "Hillenbrand : sources et mémoire de Manzikert",
+        "url": "https://edinburghuniversitypress.com/book-turkish-myth-and-muslim-symbol.html"
+      },
+      {
+        "label": "Peacock : Seldjoukides de Roum",
+        "url": "https://www.iranicaonline.org/articles/saljuqs/saljuqs-iii/"
+      },
+      {
+        "label": "Durand-Guédy : Malik Shah",
+        "url": "https://www.iranicaonline.org/articles/maleksah/"
+      },
+      {
+        "label": "Yavari : Nizam al-Mulk",
+        "url": "https://www.iranicaonline.org/articles/nezam-al-molk/"
+      },
+      {
+        "label": "Yavari : Siyasatnama et critique du texte",
+        "url": "https://www.iranicaonline.org/articles/siar-al-moluk/"
+      },
+      {
+        "label": "Iranica : littérature seldjoukide",
+        "url": "https://www.iranicaonline.org/articles/saljuqs/v-literature/"
+      },
+      {
+        "label": "Iranica : vie d’Omar Khayyam",
+        "url": "https://www.iranicaonline.org/articles/khayyam-omar/khayyam-omar-i-life/"
+      },
+      {
+        "label": "UNESCO : Mosquée du vendredi d’Ispahan",
+        "url": "https://whc.unesco.org/en/list/1397/"
+      },
+      {
+        "label": "Iranica : art et architecture seldjoukides",
+        "url": "https://www.iranicaonline.org/articles/saljuqs/vi-art-and-architecture/"
+      },
+      {
+        "label": "Lambton : iqta et droits sur les revenus",
+        "url": "https://www.iranicaonline.org/articles/eqta/"
+      },
+      {
+        "label": "Bosworth : organisation militaire médiévale",
+        "url": "https://www.iranicaonline.org/articles/army-ii/"
+      },
+      {
+        "label": "Iranica : histoire de l’Iran médiéval",
+        "url": "https://www.iranicaonline.org/articles/iran-ii2-islamic-period-page-3/"
+      },
+      {
+        "label": "Iranica : Khorasan et Sanjar",
+        "url": "https://www.iranicaonline.org/articles/khorasan-vii-history-from-the-ghaznavids-to-the-mongol-conquest/"
+      },
+      {
+        "label": "Iranica : chronologie historique",
+        "url": "https://www.iranicaonline.org/articles/chronology-of-iranian-history-part-1/"
+      },
+      {
+        "label": "Bosworth : chronique seldjoukide et transmission",
+        "url": "https://www.iranicaonline.org/articles/akbar-al-dawlat-al-saljuqiya/"
+      },
+      {
+        "label": "Cambridge : Jérusalem fatimide",
+        "url": "https://sahistory.org.za/sites/default/files/archive-files3/roland_oliver_the_cambridge_history_of_africa_vbook4you.pdf"
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/seoul-physical-ai-robots-living-lab/",
     "path": "/ar/articles/seoul-physical-ai-robots-living-lab/",
     "kind": "article",

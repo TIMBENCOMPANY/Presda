@@ -1,6 +1,7 @@
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { SonghaiGraphics } from "@/components/SonghaiGraphics";
 import { JellyfishGraphics } from "@/components/JellyfishGraphics";
+import { SeljukGraphics } from "@/components/SeljukGraphics";
 import { PlasticSurgeryGraphics } from "@/components/PlasticSurgeryGraphics";
 import { ArtificialBloodGraphics } from "@/components/ArtificialBloodGraphics";
 import { PassportGraphics } from "@/components/PassportGraphics";
@@ -290,6 +291,8 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </div>
         </header>
 
+        {article.slug === "seljuk-empire-origins-manzikert-culture-decline" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "Reconstitution historique générée par IA. Le souverain n’est pas un portrait authentique d’Alp Arslan ou d’une autre personne identifiée." : locale === "es" ? "Reconstrucción histórica generada por IA. El gobernante no es un retrato auténtico de Alp Arslan ni de otra persona identificada." : locale === "ar" ? "إعادة بناء تاريخية مولدة بالذكاء الاصطناعي. الحاكم ليس صورة أصيلة لألب أرسلان أو لشخص تاريخي محدد." : "AI-generated historical reconstruction. The ruler is not an authentic portrait of Alp Arslan or another identified historical person."}</p>}
+
         {article.slug === "immortal-jellyfish-turritopsis-dohrnii-life-cycle" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "Illustration éditoriale générée par IA. Ce n’est ni une photographie scientifique ni une représentation exacte de Turritopsis dohrnii." : locale === "es" ? "Ilustración editorial generada por IA. No es una fotografía científica ni una representación exacta de Turritopsis dohrnii." : locale === "ar" ? "رسم تحريري مولد بالذكاء الاصطناعي، وليس صورة علمية أو تمثيلا دقيقا لقنديل Turritopsis dohrnii." : "AI-generated editorial illustration. Not a scientific photograph or an exact depiction of Turritopsis dohrnii."}</p>}
 
         <div className="mt-10">
@@ -334,6 +337,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "seljuk-empire-origins-manzikert-culture-decline" && [7, 16, 22, 25, 34, 40].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><SeljukGraphics locale={locale} kind={originalIndex === 7 ? "timeline" : originalIndex === 16 ? "battle" : originalIndex === 22 ? "map" : originalIndex === 25 ? "rulers" : originalIndex === 34 ? "architecture" : "military"} /></div>;
+              }
               if (article.slug === "immortal-jellyfish-turritopsis-dohrnii-life-cycle" && [10, 32, 35].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><JellyfishGraphics locale={locale} kind={originalIndex === 10 ? "cycle" : originalIndex === 32 ? "comparison" : "timeline"} /></div>;
               }
