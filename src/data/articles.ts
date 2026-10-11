@@ -1,3 +1,4 @@
+import { hypnosisArticle } from "@/data/hypnosisArticle";
 import { architectureArticle } from "@/data/architectureArticle";
 import { paintingsArticle } from "@/data/paintingsArticle";
 import { uniqueHotelsArticle } from "@/data/uniqueHotelsArticle";
@@ -35681,7 +35682,8 @@ export const articles: Article[] = [
   shoppingArticle,
   uniqueHotelsArticle,
   paintingsArticle,
-  architectureArticle
+  architectureArticle,
+  hypnosisArticle
 ];
 
 export const categories: ArticleCategory[] = [

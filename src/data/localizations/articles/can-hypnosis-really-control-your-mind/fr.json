@@ -1,0 +1,310 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/can-hypnosis-really-control-your-mind/",
+  "path": "/fr/articles/can-hypnosis-really-control-your-mind/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "PRESDA scientific and localization review: neuroscience, clinical evidence and memory safety",
+    "reviewedAt": "2026-10-11",
+    "terminologyChecked": true
+  },
+  "title": "L’HYPNOSE PEUT-ELLE VRAIMENT CONTRÔLER VOTRE ESPRIT ?",
+  "seoTitle": "Hypnose et contrôle de l’esprit : ce que démontre la science",
+  "description": "Ce que l’hypnose peut modifier, ses limites et les études cérébrales et cliniques qui distinguent une aide thérapeutique des mythes du contrôle mental.",
+  "excerpt": "Ce que l’hypnose peut modifier, ses limites et les études cérébrales et cliniques qui distinguent une aide thérapeutique des mythes du contrôle mental.",
+  "headlineHighlights": {
+    "red": "HYPNOSE",
+    "gold": "ESPRIT"
+  },
+  "keywords": [
+    "science de l’hypnose",
+    "hypnotisabilité",
+    "hypnose clinique",
+    "hypnose et mémoire",
+    "neurosciences"
+  ],
+  "searchIntent": "Ce que l’hypnose peut modifier, ses limites et les études cérébrales et cliniques qui distinguent une aide thérapeutique des mythes du contrôle mental.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-11",
+  "updatedAt": "2026-10-11",
+  "image": {
+    "src": "/articles/hypnosis-pocket-watch-ai.png",
+    "alt": "Illustration éditoriale générée par IA d’une femme allongée et d’un praticien tenant une montre, pas une photographie de soins réels"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Imaginez qu’on vous suggère que votre main devient plus légère. Vous savez qu’aucun fil invisible ne la soulève. Pourtant, dans une expérience hypnotique convaincante, son mouvement peut sembler moins décidé que spontané. La question troublante ne concerne pas seulement la main qui monte : qui paraît être à l’origine du geste ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’hypnose peut modifier l’attention, la perception et le sentiment d’être l’auteur de ses actes. Cela ne démontre pas qu’un hypnotiseur puisse s’approprier l’esprit d’autrui. L’énigme scientifique dépasse la réponse du cinéma : comment des mots peuvent-ils changer une expérience aussi immédiate que la douleur, sans supprimer l’éveil ni la possibilité de refuser ? Les données vérifiées au 11 octobre 2026 soutiennent certains usages, mais révèlent aussi l’écart entre expériences saisissantes et affirmations générales."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Du fluide invisible de Mesmer au sommeil nerveux de Braid"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans l’Europe du XVIIIe siècle, Franz Anton Mesmer expliquait ses traitements par le magnétisme animal, un fluide supposé relier les corps. En 1784, des commissaires royaux français examinèrent les pratiques magnétiques et rejetèrent ce fluide comme explication. Leur enquête attira l’attention sur l’imagination et les attentes. Elle ne démontrait ni que toutes les expériences rapportées étaient frauduleuses, ni que la question moderne de l’hypnose était réglée.  [Histoire de l’hypnose : revue de 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12233205/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "James Braid, chirurgien écossais installé à Manchester, orienta le débat vers l’attention et la physiologie. Son livre Neurypnology, paru en 1843, popularisa l’hypnotisme en décrivant un sommeil nerveux. L’hypnose clinique moderne s’est construite à travers des désaccords sur la suggestion, la conscience et le traitement, plutôt que grâce à un inventeur unique. "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que se passe-t-il pendant une séance ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La définition révisée de la Division 30 de l’APA, publiée en 2015, privilégie une attention concentrée, une moindre conscience de l’environnement et une réponse accrue aux suggestions. Elle décrit une expérience, pas un test cérébral universel. L’induction cherche à favoriser cette concentration par la respiration, l’imagerie mentale ou une sensation. Une montre oscillante n’est pas nécessaire. Une relaxation profonde n’est pas non plus l’unique voie possible. [Définition APA Division 30, 2015](https://pubmed.ncbi.nlm.nih.gov/25365125/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un praticien peut inviter une personne à ressentir différemment une sensation douloureuse ou à imaginer une réponse plus calme avant un examen. Ce ne sont pas forcément des ordres. Dans l’autohypnose, la personne devient son propre guide. Elle peut savoir qu’elle participe tout en éprouvant une réponse comme étonnamment automatique. La distinction entre accomplir un geste et se sentir son auteur traverse toute la recherche. [APA : hypnose clinique et interprétations concurrentes](https://www.apa.org/monitor/2024/04/science-of-hypnosis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les chercheurs débattent : faut-il un état de conscience particulier, ou suffit-il de considérer attention, attentes, motivation et contexte social ? Ces interprétations ne réduisent pas les participants à jouer la comédie. Une explication psychologique peut décrire un changement réel. Inversement, des modifications neuronales ne prouvent pas à elles seules une transe séparée des processus cognitifs ordinaires. "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dans l’étude cérébrale de Stanford de 2016"
+    },
+    {
+      "type": "paragraph",
+      "text": "Heidi Jiang, David Spiegel et leurs collègues évaluèrent 545 volontaires sains et analysèrent l’imagerie de 57 personnes situées aux extrêmes de l’hypnotisabilité. L’étude fut publiée en ligne en 2016, puis dans le volume imprimé de Cerebral Cortex de 2017. Les analyses durant l’hypnose montrèrent une activité réduite du cortex cingulaire antérieur dorsal, un couplage accru entre cortex préfrontal dorsolatéral et insula, et un couplage réduit entre réseaux du contrôle exécutif et du mode par défaut. Ces réseaux interviennent dans l’attention, le traitement corporel et les pensées relatives à soi. [Annonce de Stanford, juillet 2016](https://med.stanford.edu/news/all-news/2016/07/study-identifies-brain-areas-altered-during-hypnotic-trances.html) [Jiang et coll. : étude IRMf et méthodes originales](https://med.stanford.edu/content/dam/sm/nbc/documents/journalclub/2023/Jiang%20et%20al.%202017%20final%20cerebral%20cortex.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce n’était pas l’image d’un cerveau capitulant. L’IRM fonctionnelle mesure indirectement l’activité neuronale par les variations d’oxygénation sanguine. La connectivité fonctionnelle désigne des signaux corrélés, pas une nouvelle connexion anatomique. Certaines analyses comparaient 21 participants très réceptifs à 21 peu réceptifs ; d’autres utilisaient les 36 très réceptifs. Cette sélection limite la généralisation aux personnes intermédiaires. Imagerie mentale, attentes et tâches compliquent également l’interprétation. Les résultats indiquent des associations, pas une signature diagnostique universelle ni la disparition du libre arbitre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand les mots changent une expérience"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une expérience de Stroop menée en 2002 par Amir Raz et ses collègues, des participants très suggestibles reçurent une suggestion selon laquelle les mots écrits paraîtraient dépourvus de sens. Habituellement, lire un nom de couleur gêne l’identification d’une couleur d’encre incompatible. Cette interférence fut fortement réduite chez les personnes très réceptives. Le résultat montre que des opérations familières ne sont pas entièrement imperméables au contexte. Il ne démontre pas l’effacement du langage, de l’intelligence ou du jugement. [Raz et coll. : expérience de Stroop, 2002](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/206991)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2000, Stephen Kosslyn et ses collègues utilisèrent des suggestions de couleur et l’imagerie cérébrale pour étudier la perception visuelle et l’activité associée au traitement des couleurs. La sélection de participants très hypnotisables était également centrale. Ces expériences invitent à ne pas rejeter les sensations modifiées comme du théâtre. Toutefois, un groupe sélectionné accomplissant une tâche définie ne permet pas de conclure ce qu’on pourrait faire voir ou faire à n’importe quelle personne dans la vie quotidienne. [Kosslyn et coll. : expérience sur les couleurs, 2000](https://kosslynlab.fas.harvard.edu/publications/hypnotic-visual-illusion-alters-color-processing-brain)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Peut-on vous faire agir contre votre volonté ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’hypnose clinique n’est pas un moyen fiable de prendre le contrôle d’une personne contre ses souhaits. Les participants peuvent refuser des suggestions et terminer une séance. Mais l’influence humaine ne disparaît pas sous l’étiquette hypnotique. Autorité, gêne, persuasion et pression peuvent modifier un comportement avec ou sans hypnose. Rejeter la domination magique ne garantit donc pas l’innocuité de tous les praticiens ou contextes. Le consentement et les limites professionnelles restent essentiels. [NHS : participation et sécurité](https://111.wales.nhs.uk/encyclopaedia/h/article/hypnotherapy?locale=en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sur scène s’ajoutent sélection et attentes du public. Les volontaires réceptifs et disposés à continuer ont davantage de chances d’occuper le centre du spectacle. Un geste ressenti comme involontaire peut coexister avec la coopération.  "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La mémoire : la vivacité ne garantit pas l’exactitude"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’hypnose n’est ni un sérum de vérité ni un dispositif récupérant un enregistrement. Suggestions et questions orientées peuvent favoriser des souvenirs déformés ou faux, parfois vécus avec assurance. Un souvenir d’enfance ne devient pas vérifié parce qu’il apparaît en transe. Les récits de vies antérieures ne constituent pas des preuves scientifiques d’une autre existence. L’importance émotionnelle d’une expérience et son exactitude historique doivent être évaluées séparément. [Mémoire de l’APA : suggestion et faux souvenirs](https://www.apa.org/about/offices/ogc/amicus/flores.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela ne signifie pas que tout souvenir évoqué en thérapie soit faux. Le problème est que la procédure ne l’authentifie pas. Un praticien devrait éviter de conduire le patient vers un récit attendu ou de considérer une image vive comme une preuve. Quand des accusations ou décisions importantes reposent sur un souvenir, une corroboration indépendante compte. Notre exploration du [déjà-vu](/articles/deja-vu-why-does-it-happen-brain-science/) rappelle pourquoi se souvenir est plus complexe qu’ouvrir un fichier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand la médecine trouve un outil utile"
+    },
+    {
+      "type": "paragraph",
+      "text": "La douleur est un domaine majeur, mais le comparateur change l’interprétation. Une méta-analyse de 2019 portant sur 85 expériences contrôlées trouva un effet antalgique chez des volontaires sains exposés à une douleur provoquée, modulé par la réceptivité. Une douleur expérimentale n’est pas interchangeable avec une maladie clinique durable et fluctuante. Ces résultats justifiaient des essais supplémentaires, pas la promesse que chacun pourrait remplacer les médicaments par une suggestion. [Thompson et coll. : douleur expérimentale, revue de 2019](https://pubmed.ncbi.nlm.nih.gov/30790634/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une revue systématique de septembre 2026, signée Titus H. Yim et Stuart W. G. Derbyshire, inclut 106 études cliniques. Elle observa une réduction modeste de la douleur après traitement face à des témoins non actifs, sans avantage clair sur la relaxation, l’éducation à la douleur ou les thérapies cognitives et comportementales. Cela ne signifie pas que personne ne bénéficie de l’hypnose. Cela interdit de la présenter comme systématiquement supérieure. L’hétérogénéité, les informations incomplètes et les mesures différentes limitent les conclusions simples. [Yim et Derbyshire : douleur clinique, septembre 2026](https://pubmed.ncbi.nlm.nih.gov/42682265/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’hypnothérapie orientée vers l’intestin est étudiée dans le syndrome de l’intestin irritable. IMAGINE, publié en 2019, répartit aléatoirement 354 patients entre hypnose individuelle, collective et accompagnement éducatif. L’hypnose améliora le soulagement adéquat rapporté par les patients, comparativement au groupe témoin, avec un suivi à trois et douze mois. Il s’agissait de gérer des symptômes, pas de montrer une maladie imaginaire. Le NCCIH des NIH souligne que la recommandation gastroentérologique de 2021 reste conditionnelle, avec des preuves de très faible qualité. Essais encourageants et recommandations prudentes peuvent coexister. [Essai randomisé IMAGINE, 2019](https://pubmed.ncbi.nlm.nih.gov/30473202/) [NIH NCCIH : données cliniques et incertitude des recommandations](https://www.nccih.nih.gov/health/hypnosis)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Chirurgie, anxiété et traitement psychologique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un essai dirigé en 2007 par Guy Montgomery répartit 200 patientes opérées du sein entre une brève hypnose préopératoire et une écoute empathique. Le groupe hypnose rapporta moins de symptômes et nécessita moins de certains médicaments anesthésiques. Les patientes connaissaient cependant leur groupe. L’essai français HYPNOSEIN, publié en 2019, ne montra pas de bénéfice pour son critère principal de douleur mammaire postopératoire. Protocoles, comparateurs et critères différents expliquent pourquoi un essai positif ne règle pas tout un domaine. [Montgomery et coll. : chirurgie mammaire, 2007](https://pubmed.ncbi.nlm.nih.gov/17728216/) [HYPNOSEIN : résultat chirurgical discordant, 2019](https://pubmed.ncbi.nlm.nih.gov/30646110/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En chirurgie, l’hypnose complète une prise en charge encadrée ; elle ne justifie pas de refuser une anesthésie nécessaire. Pour l’anxiété autour de soins médicaux ou dentaires, le NCCIH décrit des résultats prometteurs mais un bilan global non concluant. En psychothérapie, l’hypnose peut accompagner des approches établies, sans remplacer évaluation et soins adaptés. Guérison garantie des traumatismes, traitement universel des addictions ou réparation instantanée de la personnalité dépassent les preuves. La revue Cochrane de 2019 sur l’arrêt du tabac conclut à des preuves insuffisantes de supériorité sur d’autres aides ou un arrêt sans assistance. [Cochrane : arrêt du tabac, revue de 2019](https://www.cochrane.org/evidence/CD001008_does-hypnotherapy-help-people-who-are-trying-stop-smoking)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hypnose, sommeil, méditation et placebo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des yeux fermés rapprochent visuellement ces pratiques, mais l’hypnose n’est pas le sommeil ordinaire. Les personnes restent généralement conscientes du guide et capables de répondre. Méditation et hypnose peuvent mobiliser l’attention ; de nombreuses pratiques de pleine conscience privilégient observation et acceptation, alors que les suggestions hypnotiques invitent souvent à modifier une perception ou sensation. Leur diversité interdit une opposition absolue. Notre dossier sur [les rêves et le sommeil](/articles/why-do-we-dream/) examine la biologie distincte du sommeil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les attentes et la relation thérapeutique peuvent contribuer aux résultats, comme dans les effets placebo. Cela ne rend pas nécessairement le soulagement fictif. Cela ne démontre pas non plus que tous les effets hypnotiques se résument au placebo. Pour isoler une contribution, il faut des témoins actifs crédibles, une attention comparable et une évaluation des attentes. "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mythes et faits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : l’hypnotiseur éteint le cerveau rationnel. Fait : l’imagerie révèle des profils d’activité et de connectivité liés à des tâches, pas la disparition du jugement. Une activité réduite dans une région ne signifie pas que la personne perd sa capacité de choisir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : seuls les esprits faibles répondent. Fait : l’hypnotisabilité décrit une réponse aux suggestions, pas la crédulité, l’intelligence ou le caractère moral. Les réponses varient selon les personnes et les suggestions. Un faible score n’est pas un échec personnel. Les résultats les plus spectaculaires proviennent souvent de groupes très réceptifs sélectionnés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mythe : un souvenir hypnotique vivant est forcément vrai. Fait : confiance et exactitude sont distinctes. L’hypnose ne certifie pas un événement, et les suggestions peuvent introduire des erreurs. Une présentation responsable distingue l’expérience vécue des éléments établis indépendamment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La sécurité commence avant l’induction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Définissez objectifs, méthodes et droit d’arrêter avant les soins. Choisissez un professionnel qualifié pour le problème traité, plutôt que sur son seul certificat d’hypnose. Le consentement devrait aborder incertitude, alternatives et gestion de la détresse. Les promesses de souvenirs récupérés ou la pression pour abandonner des soins sont inquiétantes. Le NHS déconseille l’hypnothérapie en cas de psychose et de certains troubles de la personnalité. Les situations psychiatriques complexes nécessitent une évaluation spécialisée, pas les essais d’un intervenant non qualifié."
+    },
+    {
+      "type": "paragraph",
+      "text": "La surveillance des effets indésirables mérite également examen. Une revue comportant peu d’événements signalés ne remplace pas une étude conçue pour détecter des risques rares. Détresse émotionnelle, suggestions trompeuses et retard de soins appropriés comptent avec les bénéfices possibles. Une application commerciale n’hérite pas des preuves d’un essai clinique simplement parce qu’elle emploie le même mot. Intervention, population et résultat doivent correspondre à l’affirmation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La question que la science continue de poser"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans un essai de Stanford de 2024, comparé à une stimulation simulée et impliquant 80 personnes atteintes de fibromyalgie, une stimulation magnétique ciblée augmenta temporairement l’hypnotisabilité mesurée. L’expérience portait sur la réceptivité, pas sur une amélioration démontrée de la douleur à long terme ni une technologie de contrôle mental à distance. Elle suggère qu’une caractéristique relativement stable peut être modulée, tout en laissant ouvertes durabilité, utilité clinique et différences individuelles. [SHIFT : stimulation comparée à un placebo, 2024](https://www.nature.com/articles/s44220-023-00184-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La possibilité la plus révélatrice n’est pas qu’autrui confisque votre conscience. C’est que la relation ordinaire entre intention, attention et expérience soit plus souple qu’elle ne le paraît. L’hypnose permet d’explorer cette souplesse et parfois de l’utiliser dans les soins. Respecter ses limites rend le sujet plus passionnant. Une sensation modifiée mérite une explication ; une affirmation extraordinaire mérite toujours des preuves."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Peut-on m’hypnotiser contre ma volonté ?",
+      "answer": "Ce n’est pas un contrôle mental fiable. On peut refuser et arrêter ; le consentement reste essentiel."
+    },
+    {
+      "question": "L’hypnose fait-elle dormir ?",
+      "answer": "Habituellement non. La personne reste généralement consciente et capable de répondre, même les yeux fermés."
+    },
+    {
+      "question": "Peut-elle récupérer des souvenirs exacts ?",
+      "answer": "Elle ne les authentifie pas. Les suggestions peuvent déformer les souvenirs ; une corroboration indépendante compte."
+    },
+    {
+      "question": "Supprime-t-elle sûrement la douleur ?",
+      "answer": "Non. La revue de 2026 observe un bénéfice modeste, sans supériorité claire sur les alternatives actives."
+    },
+    {
+      "question": "Peut-elle traiter l’intestin irritable ?",
+      "answer": "Elle peut aider certains symptômes. La recommandation est conditionnelle, et un diagnostic demeure nécessaire."
+    },
+    {
+      "question": "Convient-elle à tout le monde ?",
+      "answer": "Aucune garantie universelle. Choisissez une évaluation qualifiée et évitez les pratiques non qualifiées de récupération de souvenirs."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Histoire de l’hypnose : revue de 2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12233205/"
+    },
+    {
+      "label": "Définition APA Division 30, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25365125/"
+    },
+    {
+      "label": "APA : hypnose clinique et interprétations concurrentes",
+      "url": "https://www.apa.org/monitor/2024/04/science-of-hypnosis"
+    },
+    {
+      "label": "Annonce de Stanford, juillet 2016",
+      "url": "https://med.stanford.edu/news/all-news/2016/07/study-identifies-brain-areas-altered-during-hypnotic-trances.html"
+    },
+    {
+      "label": "Jiang et coll. : étude IRMf et méthodes originales",
+      "url": "https://med.stanford.edu/content/dam/sm/nbc/documents/journalclub/2023/Jiang%20et%20al.%202017%20final%20cerebral%20cortex.pdf"
+    },
+    {
+      "label": "Raz et coll. : expérience de Stroop, 2002",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/206991"
+    },
+    {
+      "label": "Kosslyn et coll. : expérience sur les couleurs, 2000",
+      "url": "https://kosslynlab.fas.harvard.edu/publications/hypnotic-visual-illusion-alters-color-processing-brain"
+    },
+    {
+      "label": "NHS : participation et sécurité",
+      "url": "https://111.wales.nhs.uk/encyclopaedia/h/article/hypnotherapy?locale=en"
+    },
+    {
+      "label": "Mémoire de l’APA : suggestion et faux souvenirs",
+      "url": "https://www.apa.org/about/offices/ogc/amicus/flores.pdf"
+    },
+    {
+      "label": "Thompson et coll. : douleur expérimentale, revue de 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30790634/"
+    },
+    {
+      "label": "Yim et Derbyshire : douleur clinique, septembre 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682265/"
+    },
+    {
+      "label": "Essai randomisé IMAGINE, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30473202/"
+    },
+    {
+      "label": "NIH NCCIH : données cliniques et incertitude des recommandations",
+      "url": "https://www.nccih.nih.gov/health/hypnosis"
+    },
+    {
+      "label": "Montgomery et coll. : chirurgie mammaire, 2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17728216/"
+    },
+    {
+      "label": "HYPNOSEIN : résultat chirurgical discordant, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30646110/"
+    },
+    {
+      "label": "Cochrane : arrêt du tabac, revue de 2019",
+      "url": "https://www.cochrane.org/evidence/CD001008_does-hypnotherapy-help-people-who-are-trying-stop-smoking"
+    },
+    {
+      "label": "SHIFT : stimulation comparée à un placebo, 2024",
+      "url": "https://www.nature.com/articles/s44220-023-00184-z"
+    }
+  ]
+}

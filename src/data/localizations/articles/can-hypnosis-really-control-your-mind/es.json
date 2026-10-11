@@ -1,0 +1,310 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/can-hypnosis-really-control-your-mind/",
+  "path": "/es/articles/can-hypnosis-really-control-your-mind/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "PRESDA scientific and localization review: neuroscience, clinical evidence and memory safety",
+    "reviewedAt": "2026-10-11",
+    "terminologyChecked": true
+  },
+  "title": "¿PUEDE LA HIPNOSIS CONTROLAR REALMENTE TU MENTE?",
+  "seoTitle": "¿Puede la hipnosis controlar la mente? Ciencia y evidencia",
+  "description": "Qué puede cambiar la hipnosis, cuáles son sus límites y cómo los estudios cerebrales y clínicos separan la utilidad terapéutica de los mitos del control mental.",
+  "excerpt": "Qué puede cambiar la hipnosis, cuáles son sus límites y cómo los estudios cerebrales y clínicos separan la utilidad terapéutica de los mitos del control mental.",
+  "headlineHighlights": {
+    "red": "HIPNOSIS",
+    "gold": "MENTE"
+  },
+  "keywords": [
+    "ciencia de la hipnosis",
+    "hipnotizabilidad",
+    "hipnosis clínica",
+    "hipnosis y memoria",
+    "neurociencia"
+  ],
+  "searchIntent": "Qué puede cambiar la hipnosis, cuáles son sus límites y cómo los estudios cerebrales y clínicos separan la utilidad terapéutica de los mitos del control mental.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-11",
+  "updatedAt": "2026-10-11",
+  "image": {
+    "src": "/articles/hypnosis-pocket-watch-ai.png",
+    "alt": "Ilustración editorial generada por IA de una mujer recostada y un profesional con un reloj de bolsillo, no una fotografía de un tratamiento real"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Imagina que te dicen que tu mano se vuelve más ligera. Sabes que ningún hilo invisible tira de ella. Sin embargo, en una experiencia hipnótica convincente, el movimiento puede sentirse menos como una decisión que como algo que sucede por sí solo. La pregunta inquietante no es únicamente si la mano sube, sino quién parece estar levantándola."
+    },
+    {
+      "type": "paragraph",
+      "text": "La hipnosis puede modificar la atención, la percepción y la sensación de ser autor de nuestros actos. Eso no demuestra que un hipnotizador pueda apropiarse de otra mente. El enigma científico es más interesante que la respuesta cinematográfica: ¿cómo puede el lenguaje cambiar algo tan inmediato como el dolor mientras la persona permanece despierta y puede negarse? La evidencia verificada hasta el 11 de octubre de 2026 respalda algunos usos, pero también revela la distancia entre experimentos sorprendentes y afirmaciones generales."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Del fluido invisible de Mesmer al sueño nervioso de Braid"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la Europa del siglo XVIII, Franz Anton Mesmer explicaba sus tratamientos mediante el magnetismo animal, un supuesto fluido que conectaba los cuerpos. En 1784, comisionados reales franceses investigaron las prácticas magnéticas y rechazaron el fluido como explicación. Su trabajo dirigió la atención hacia la imaginación y las expectativas. No demostró que todas las experiencias descritas fueran fraudulentas ni resolvió todo lo que hoy llamamos hipnosis.  [Historia de la hipnosis: revisión de 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12233205/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "James Braid, cirujano escocés que trabajaba en Manchester, acercó el debate a la atención y la fisiología. Su libro Neurypnology, de 1843, popularizó el hipnotismo y describió un sueño nervioso. El vocabulario sobrevivió a esa analogía. La hipnosis clínica moderna surgió de posteriores desacuerdos sobre sugestión, conciencia y tratamiento, no del descubrimiento de un único inventor. "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué sucede realmente durante una sesión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La definición revisada de la División 30 de la APA, publicada en 2015, destaca la atención concentrada, una menor conciencia del entorno y mayor respuesta a las sugestiones. Describe una experiencia, no una prueba cerebral universal. La inducción busca favorecer esa concentración mediante respiración, imágenes mentales o atención a una sensación. No hace falta un reloj oscilante. La relajación profunda tampoco es la única vía posible para participar. [Definición de la División 30 de la APA, 2015](https://pubmed.ncbi.nlm.nih.gov/25365125/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las sugestiones orientan después la atención. Un profesional puede invitar a experimentar de otra manera una sensación dolorosa o imaginar una respuesta más tranquila ante un procedimiento próximo. No tienen que ser órdenes. En la autohipnosis, la propia persona actúa como guía. La sensación de facilidad puede ser intensa: alguien sabe que participa y, a la vez, siente una respuesta como sorprendentemente automática. La diferencia entre realizar una acción y sentirse su autor atraviesa toda la investigación. [APA: hipnosis clínica e interpretaciones alternativas](https://www.apa.org/monitor/2024/04/science-of-hypnosis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los investigadores discrepan sobre si hace falta un estado alterado específico o si bastan atención, expectativas, motivación y contexto social. Estas interpretaciones no obligan a considerar que los participantes fingen. Una explicación psicológica puede describir un cambio real. Del mismo modo, observar cambios neuronales no demuestra por sí solo un trance independiente de los procesos cognitivos habituales. "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dentro del estudio cerebral de Stanford de 2016"
+    },
+    {
+      "type": "paragraph",
+      "text": "Heidi Jiang, David Spiegel y sus colegas evaluaron a 545 voluntarios sanos y analizaron imágenes de 57 personas con hipnotizabilidad muy alta o muy baja. El trabajo apareció en línea en 2016 y en el volumen impreso de Cerebral Cortex de 2017. Los análisis durante la hipnosis encontraron menor actividad en la corteza cingulada anterior dorsal, mayor acoplamiento entre corteza prefrontal dorsolateral e ínsula y menor acoplamiento entre redes de control ejecutivo y modo predeterminado. Estas redes participan en atención, procesamiento corporal y pensamiento referido a uno mismo. [Anuncio de Stanford, julio de 2016](https://med.stanford.edu/news/all-news/2016/07/study-identifies-brain-areas-altered-during-hypnotic-trances.html) [Jiang y colaboradores: estudio y métodos originales de resonancia funcional](https://med.stanford.edu/content/dam/sm/nbc/documents/journalclub/2023/Jiang%20et%20al.%202017%20final%20cerebral%20cortex.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No era la imagen de un cerebro rindiéndose a un operador. La resonancia magnética funcional mide cambios de oxigenación sanguínea asociados indirectamente con actividad neuronal. La conectividad funcional significa señales correlacionadas, no una conexión anatómica recién instalada. Algunos análisis compararon 21 participantes muy receptivos con 21 poco receptivos; otros utilizaron los 36 muy receptivos. Elegir extremos limita la generalización a las personas intermedias. Imágenes mentales, expectativas y diferencias entre tareas complican la interpretación. Son asociaciones, no una firma diagnóstica universal ni prueba de pérdida del libre albedrío."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuando las palabras cambian un experimento"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el experimento de Stroop de Amir Raz y sus colegas, de 2002, participantes muy sugestionables recibieron la sugestión de que las palabras escritas parecerían carecer de significado. Normalmente, leer un nombre de color dificulta identificar una tinta de color incompatible. Esa interferencia disminuyó notablemente en el grupo muy receptivo. El resultado cuestiona que las operaciones mentales familiares sean completamente inmunes al contexto. No demuestra que desaparecieran lenguaje, inteligencia o juicio. [Raz y colaboradores: experimento de Stroop, 2002](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/206991)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2000, Stephen Kosslyn y sus colegas combinaron sugestiones de color con imágenes cerebrales para estudiar cambios en la experiencia visual y en la actividad del procesamiento del color. Los participantes muy hipnotizables también fueron centrales. Ambos experimentos muestran que las experiencias modificadas no deben descartarse como simple actuación. Pero un grupo seleccionado que completa una tarea definida no establece qué podría hacerse ver o hacer a cualquier desconocido en la vida cotidiana. [Kosslyn y colaboradores: procesamiento del color, 2000](https://kosslynlab.fas.harvard.edu/publications/hypnotic-visual-illusion-alters-color-processing-brain)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Puede alguien hacerte actuar contra tu voluntad?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La hipnosis clínica no es un mecanismo fiable para controlar a alguien contra sus deseos. Los participantes pueden rechazar sugestiones y terminar una sesión. Sin embargo, la influencia humana no desaparece al llamar hipnótico a un procedimiento. Autoridad, vergüenza, persuasión y presión pueden cambiar conductas dentro o fuera de la hipnosis. Rechazar la dominación mágica no garantiza que todos los profesionales o contextos sean inocuos. El consentimiento y los límites profesionales siguen siendo esenciales. [NHS: participación y seguridad](https://111.wales.nhs.uk/encyclopaedia/h/article/hypnotherapy?locale=en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los espectáculos añaden selección y expectativas del público. Los voluntarios que responden fácilmente y quieren continuar tienen más posibilidades de protagonizar la actuación. El público ve un resultado preparado, no un experimento representativo de todos los voluntarios. Una acción sentida como involuntaria puede coexistir con la cooperación.  Esa experiencia subjetiva de autoría es precisamente una de las cuestiones que se investigan."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Memoria: lo vívido no garantiza lo exacto"
+    },
+    {
+      "type": "paragraph",
+      "text": "La hipnosis no es un suero de la verdad ni un dispositivo para recuperar grabaciones. Las sugestiones y preguntas dirigidas pueden favorecer recuerdos distorsionados o falsos, a veces acompañados de gran seguridad. Un recuerdo de infancia no queda verificado porque aparezca durante un trance. Las supuestas vidas pasadas no constituyen evidencia científica de una existencia anterior. El significado emocional y la exactitud histórica deben evaluarse por separado. [Informe de la APA: sugestión y recuerdos falsos](https://www.apa.org/about/offices/ogc/amicus/flores.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El problema no es que todos los recuerdos tratados en terapia sean falsos, sino que el procedimiento no puede autenticarlos. El profesional debe evitar conducir al paciente hacia una historia esperada o considerar una imagen vívida como prueba. Cuando una acusación o decisión importante depende de un recuerdo, importa la corroboración independiente. Nuestra explicación del [déjà vu](/articles/deja-vu-why-does-it-happen-brain-science/) muestra por qué recordar es más complejo que abrir un archivo almacenado."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dónde encuentra la medicina una herramienta útil"
+    },
+    {
+      "type": "paragraph",
+      "text": "El dolor es un ámbito importante, pero el comparador cambia la interpretación. Un metaanálisis de 2019 con 85 experimentos controlados encontró analgesia hipnótica en voluntarios sanos expuestos a dolor provocado, con beneficios relacionados con la receptividad. El dolor experimental no equivale a una enfermedad clínica prolongada y fluctuante. Los resultados justificaban investigar en pacientes, no prometer que cualquiera podría sustituir medicamentos por sugestiones. [Thompson y colaboradores: dolor experimental, revisión de 2019](https://pubmed.ncbi.nlm.nih.gov/30790634/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una revisión sistemática de septiembre de 2026, de Titus H. Yim y Stuart W. G. Derbyshire, incluyó 106 estudios clínicos. Encontró reducciones modestas del dolor después del tratamiento frente a controles no activos, pero ninguna ventaja clara sobre relajación, educación sobre el dolor o terapia cognitivo-conductual. Eso no significa que nadie se beneficie. Significa que no debe anunciarse como una opción sistemáticamente superior. La heterogeneidad, la información incompleta y los distintos resultados medidos limitan las conclusiones simples. [Yim y Derbyshire: dolor clínico, septiembre de 2026](https://pubmed.ncbi.nlm.nih.gov/42682265/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La hipnoterapia dirigida al intestino se ha estudiado para el síndrome del intestino irritable. IMAGINE, publicado en 2019, asignó aleatoriamente a 354 pacientes a hipnosis individual, grupal o apoyo educativo. La hipnosis mejoró el alivio adecuado de síntomas comunicado por los pacientes frente al control, con seguimiento a tres y doce meses. Era manejo de síntomas, no prueba de una enfermedad imaginaria. El NCCIH de los NIH señala que la recomendación gastroenterológica de 2021 es condicional y parte de evidencia de calidad muy baja. Ensayos prometedores y guías cautelosas pueden coexistir. [Ensayo aleatorizado IMAGINE, 2019](https://pubmed.ncbi.nlm.nih.gov/30473202/) [NIH NCCIH: evidencia clínica e incertidumbre de las guías](https://www.nccih.nih.gov/health/hypnosis)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cirugía, ansiedad y tratamiento psicológico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un ensayo de Guy Montgomery de 2007 asignó a 200 pacientes de cirugía mamaria a una breve sesión preoperatoria o escucha empática. El grupo de hipnosis informó menos síntomas y necesitó menos de algunos fármacos anestésicos. Sin embargo, las pacientes conocían su asignación. Otro ensayo francés, HYPNOSEIN, publicado en 2019, no apoyó un beneficio para su resultado principal de dolor mamario posoperatorio. Protocolos, comparadores y resultados diferentes explican por qué un ensayo positivo no resuelve todo un campo clínico. [Montgomery y colaboradores: cirugía mamaria, 2007](https://pubmed.ncbi.nlm.nih.gov/17728216/) [HYPNOSEIN: resultado quirúrgico diferente, 2019](https://pubmed.ncbi.nlm.nih.gov/30646110/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En cirugía, la hipnosis complementa un plan atendido por profesionales; no es motivo para rechazar anestesia necesaria. Para la ansiedad ante procedimientos médicos o dentales, el NCCIH describe estudios prometedores pero evidencia global no concluyente. En psicoterapia puede acompañar enfoques establecidos, sin sustituir evaluación y atención específica. Las curaciones garantizadas de trauma, el tratamiento universal de adicciones o la reparación instantánea de la personalidad exceden las pruebas. Cochrane concluyó en 2019 que faltaba evidencia de superioridad para dejar de fumar frente a otras ayudas o intentos sin asistencia. [Cochrane: revisión sobre dejar de fumar, 2019](https://www.cochrane.org/evidence/CD001008_does-hypnotherapy-help-people-who-are-trying-stop-smoking)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hipnosis, sueño, meditación y placebo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ojos cerrados pueden hacer que estas prácticas se parezcan, pero la hipnosis no es sueño ordinario. Las personas suelen seguir conscientes del guía y pueden responder. Meditación e hipnosis pueden utilizar atención concentrada; muchas prácticas de atención plena favorecen conciencia y aceptación, mientras las sugestiones suelen invitar a un cambio concreto de percepción o sensación. Son prácticas diversas, por lo que una oposición absoluta sería engañosa. Nuestro artículo sobre [los sueños y el dormir](/articles/why-do-we-dream/) explora la biología distinta del sueño."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las expectativas relacionadas con el placebo y la relación terapéutica pueden contribuir a los resultados. Eso no significa que el alivio sea necesariamente inventado ni demuestra que todo efecto hipnótico sea simplemente placebo. Para aislar una contribución hacen falta controles activos creíbles, atención comparable y evaluación de expectativas. "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mitos y hechos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: el hipnotizador apaga el cerebro racional. Hecho: las imágenes muestran patrones de actividad y conectividad asociados con tareas, no la desaparición del juicio. Menor actividad en una región no significa que la persona pierda su capacidad para elegir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: solo responden las personas de mente débil. Hecho: la hipnotizabilidad describe respuesta a sugestiones, no credulidad, inteligencia ni carácter moral. Varía entre personas y sugestiones; una puntuación baja no es un fracaso personal. Los hallazgos más llamativos suelen proceder de grupos muy receptivos seleccionados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mito: un recuerdo hipnótico vívido tiene que ser verdadero. Hecho: confianza y exactitud son distintas. La hipnosis no certifica un suceso y las sugestiones pueden introducir errores. Un relato responsable distingue la experiencia de una persona de lo que demuestra la evidencia independiente."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La seguridad comienza antes de la inducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Acuerda objetivos, métodos y derecho a detener la sesión antes del tratamiento. Busca un profesional cualificado para el problema concreto, no solo un certificado de hipnosis. El consentimiento debe incluir incertidumbre, alternativas y manejo del malestar. Promesas de recuperar recuerdos y presión para abandonar atención médica son señales de alerta. El NHS desaconseja la hipnoterapia con psicosis y ciertos trastornos de personalidad; los problemas complejos requieren evaluación especializada, no experimentación por personas sin cualificación adecuada."
+    },
+    {
+      "type": "paragraph",
+      "text": "También importa cómo se registran los efectos adversos. Una revisión con pocos eventos comunicados no equivale a un estudio diseñado para detectar daños raros. Malestar emocional, sugestiones engañosas y retraso de tratamientos apropiados cuentan junto a los beneficios posibles. Una aplicación comercial no hereda las pruebas de un ensayo profesional solo porque ambos se llamen hipnosis. La intervención, población y resultado deben corresponder con la afirmación."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La pregunta que la ciencia sigue planteando"
+    },
+    {
+      "type": "paragraph",
+      "text": "En un estudio de Stanford de 2024 con 80 personas con fibromialgia y control de estimulación simulada, la estimulación magnética cerebral dirigida aumentó temporalmente la hipnotizabilidad medida. Se estudió receptividad, no una mejora demostrada del dolor a largo plazo ni una tecnología de control mental remoto. Sugiere que una característica relativamente estable puede modificarse, pero deja abiertas duración, utilidad clínica y diferencias individuales. [SHIFT: estimulación con control simulado, 2024](https://www.nature.com/articles/s44220-023-00184-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La posibilidad más reveladora no es que otra persona capture tu conciencia. Es que la relación cotidiana entre intención, atención y experiencia sea más flexible de lo que parece. La hipnosis permite investigar esa flexibilidad y, a veces, aprovecharla en la atención sanitaria. Respetar sus límites hace el tema más fascinante. Una sensación modificada merece explicación; una afirmación extraordinaria sigue necesitando pruebas."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Pueden hipnotizarme contra mi voluntad?",
+      "answer": "No es control mental fiable. Puedes rechazar sugestiones y detener la sesión; el consentimiento importa."
+    },
+    {
+      "question": "¿La hipnosis te duerme?",
+      "answer": "Generalmente no. La persona suele permanecer consciente y puede responder, aunque cierre los ojos."
+    },
+    {
+      "question": "¿Recupera recuerdos olvidados exactos?",
+      "answer": "No los autentica. Las sugestiones pueden distorsionarlos; las afirmaciones importantes necesitan corroboración independiente."
+    },
+    {
+      "question": "¿Elimina el dolor de forma fiable?",
+      "answer": "No. La revisión de 2026 encontró beneficio modesto, sin superioridad clara sobre alternativas activas."
+    },
+    {
+      "question": "¿Sirve para el intestino irritable?",
+      "answer": "Puede ayudar con síntomas. El respaldo es condicional y no sustituye el diagnóstico."
+    },
+    {
+      "question": "¿Es segura para todo el mundo?",
+      "answer": "No hay garantía universal. Busca evaluación cualificada y evita prácticas no profesionales de recuperación de recuerdos."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Historia de la hipnosis: revisión de 2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12233205/"
+    },
+    {
+      "label": "Definición de la División 30 de la APA, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25365125/"
+    },
+    {
+      "label": "APA: hipnosis clínica e interpretaciones alternativas",
+      "url": "https://www.apa.org/monitor/2024/04/science-of-hypnosis"
+    },
+    {
+      "label": "Anuncio de Stanford, julio de 2016",
+      "url": "https://med.stanford.edu/news/all-news/2016/07/study-identifies-brain-areas-altered-during-hypnotic-trances.html"
+    },
+    {
+      "label": "Jiang y colaboradores: estudio y métodos originales de resonancia funcional",
+      "url": "https://med.stanford.edu/content/dam/sm/nbc/documents/journalclub/2023/Jiang%20et%20al.%202017%20final%20cerebral%20cortex.pdf"
+    },
+    {
+      "label": "Raz y colaboradores: experimento de Stroop, 2002",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/206991"
+    },
+    {
+      "label": "Kosslyn y colaboradores: procesamiento del color, 2000",
+      "url": "https://kosslynlab.fas.harvard.edu/publications/hypnotic-visual-illusion-alters-color-processing-brain"
+    },
+    {
+      "label": "NHS: participación y seguridad",
+      "url": "https://111.wales.nhs.uk/encyclopaedia/h/article/hypnotherapy?locale=en"
+    },
+    {
+      "label": "Informe de la APA: sugestión y recuerdos falsos",
+      "url": "https://www.apa.org/about/offices/ogc/amicus/flores.pdf"
+    },
+    {
+      "label": "Thompson y colaboradores: dolor experimental, revisión de 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30790634/"
+    },
+    {
+      "label": "Yim y Derbyshire: dolor clínico, septiembre de 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682265/"
+    },
+    {
+      "label": "Ensayo aleatorizado IMAGINE, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30473202/"
+    },
+    {
+      "label": "NIH NCCIH: evidencia clínica e incertidumbre de las guías",
+      "url": "https://www.nccih.nih.gov/health/hypnosis"
+    },
+    {
+      "label": "Montgomery y colaboradores: cirugía mamaria, 2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17728216/"
+    },
+    {
+      "label": "HYPNOSEIN: resultado quirúrgico diferente, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30646110/"
+    },
+    {
+      "label": "Cochrane: revisión sobre dejar de fumar, 2019",
+      "url": "https://www.cochrane.org/evidence/CD001008_does-hypnotherapy-help-people-who-are-trying-stop-smoking"
+    },
+    {
+      "label": "SHIFT: estimulación con control simulado, 2024",
+      "url": "https://www.nature.com/articles/s44220-023-00184-z"
+    }
+  ]
+}

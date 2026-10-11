@@ -1,6 +1,7 @@
 import { PaintingArtwork, PaintingSalesComparison } from "@/components/PaintingSalesGraphics";
 import { ArchitectureComparison, ArchitecturePhotograph } from "@/components/ArchitectureMedia";
 import architectureMedia from "@/data/architectureMedia.json";
+import hypnosisHeroCaptions from "@/data/hypnosisHeroCaptions.json";
 import { UniqueHotelsComparison } from "@/components/UniqueHotelsComparison";
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { SonghaiGraphics } from "@/components/SonghaiGraphics";
@@ -294,6 +295,8 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </div>
           </div>
         </header>
+
+        {article.slug === "can-hypnosis-really-control-your-mind" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{hypnosisHeroCaptions[locale]}</p>}
 
         {article.slug === "modern-architecture-world-most-breathtaking-buildings" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{architectureMedia[locale].heroCaption}</p>}
 

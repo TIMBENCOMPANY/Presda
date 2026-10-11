@@ -1,0 +1,188 @@
+{
+  "checkedAt": "2026-10-11",
+  "sources": {
+    "history": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12233205/",
+      "labels": [
+        "History of hypnosis, 2025 review",
+        "Histoire de l’hypnose : revue de 2025",
+        "Historia de la hipnosis: revisión de 2025",
+        "تاريخ التنويم: مراجعة 2025"
+      ]
+    },
+    "definition": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25365125/",
+      "labels": [
+        "APA Division 30 definition, 2015",
+        "Définition APA Division 30, 2015",
+        "Definición de la División 30 de la APA, 2015",
+        "تعريف القسم 30 في الجمعية الأمريكية لعلم النفس، 2015"
+      ]
+    },
+    "apa": {
+      "url": "https://www.apa.org/monitor/2024/04/science-of-hypnosis",
+      "labels": [
+        "APA: clinical hypnosis and competing interpretations",
+        "APA : hypnose clinique et interprétations concurrentes",
+        "APA: hipnosis clínica e interpretaciones alternativas",
+        "الجمعية الأمريكية لعلم النفس: التنويم السريري والتفسيرات المتنافسة"
+      ]
+    },
+    "stanford": {
+      "url": "https://med.stanford.edu/news/all-news/2016/07/study-identifies-brain-areas-altered-during-hypnotic-trances.html",
+      "labels": [
+        "Stanford announcement, July 2016",
+        "Annonce de Stanford, juillet 2016",
+        "Anuncio de Stanford, julio de 2016",
+        "إعلان ستانفورد، يوليو 2016"
+      ]
+    },
+    "brain": {
+      "url": "https://med.stanford.edu/content/dam/sm/nbc/documents/journalclub/2023/Jiang%20et%20al.%202017%20final%20cerebral%20cortex.pdf",
+      "labels": [
+        "Jiang et al.: original fMRI study and methods",
+        "Jiang et coll. : étude IRMf et méthodes originales",
+        "Jiang y colaboradores: estudio y métodos originales de resonancia funcional",
+        "جيانغ وزملاؤها: دراسة التصوير الوظيفي وطرقها الأصلية"
+      ]
+    },
+    "stroop": {
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/206991",
+      "labels": [
+        "Raz et al.: Stroop experiment, 2002",
+        "Raz et coll. : expérience de Stroop, 2002",
+        "Raz y colaboradores: experimento de Stroop, 2002",
+        "راز وزملاؤه: تجربة ستروب، 2002"
+      ]
+    },
+    "colour": {
+      "url": "https://kosslynlab.fas.harvard.edu/publications/hypnotic-visual-illusion-alters-color-processing-brain",
+      "labels": [
+        "Kosslyn et al.: colour-processing experiment, 2000",
+        "Kosslyn et coll. : expérience sur les couleurs, 2000",
+        "Kosslyn y colaboradores: procesamiento del color, 2000",
+        "كوسلين وزملاؤه: تجربة معالجة اللون، 2000"
+      ]
+    },
+    "nhs": {
+      "url": "https://111.wales.nhs.uk/encyclopaedia/h/article/hypnotherapy?locale=en",
+      "labels": [
+        "NHS: participation and safety",
+        "NHS : participation et sécurité",
+        "NHS: participación y seguridad",
+        "NHS: المشاركة والسلامة"
+      ]
+    },
+    "memory": {
+      "url": "https://www.apa.org/about/offices/ogc/amicus/flores.pdf",
+      "labels": [
+        "APA amicus brief: suggestion and false memories",
+        "Mémoire de l’APA : suggestion et faux souvenirs",
+        "Informe de la APA: sugestión y recuerdos falsos",
+        "مذكرة الجمعية الأمريكية لعلم النفس: الإيحاء والذكريات الزائفة"
+      ]
+    },
+    "pain2019": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30790634/",
+      "labels": [
+        "Thompson et al.: experimental-pain review, 2019",
+        "Thompson et coll. : douleur expérimentale, revue de 2019",
+        "Thompson y colaboradores: dolor experimental, revisión de 2019",
+        "طومسون وزملاؤه: مراجعة الألم التجريبي، 2019"
+      ]
+    },
+    "pain2026": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682265/",
+      "labels": [
+        "Yim and Derbyshire: clinical-pain review, September 2026",
+        "Yim et Derbyshire : douleur clinique, septembre 2026",
+        "Yim y Derbyshire: dolor clínico, septiembre de 2026",
+        "ييم وديربيشير: مراجعة الألم السريري، سبتمبر 2026"
+      ]
+    },
+    "ibs": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30473202/",
+      "labels": [
+        "IMAGINE randomised trial, 2019",
+        "Essai randomisé IMAGINE, 2019",
+        "Ensayo aleatorizado IMAGINE, 2019",
+        "تجربة IMAGINE العشوائية، 2019"
+      ]
+    },
+    "nih": {
+      "url": "https://www.nccih.nih.gov/health/hypnosis",
+      "labels": [
+        "NIH NCCIH: clinical evidence and guideline uncertainty",
+        "NIH NCCIH : données cliniques et incertitude des recommandations",
+        "NIH NCCIH: evidencia clínica e incertidumbre de las guías",
+        "NIH NCCIH: الأدلة السريرية وعدم يقين التوصيات"
+      ]
+    },
+    "surgery": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17728216/",
+      "labels": [
+        "Montgomery et al.: breast-surgery trial, 2007",
+        "Montgomery et coll. : chirurgie mammaire, 2007",
+        "Montgomery y colaboradores: cirugía mamaria, 2007",
+        "مونتغومري وزملاؤه: تجربة جراحة الثدي، 2007"
+      ]
+    },
+    "hypnosein": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30646110/",
+      "labels": [
+        "HYPNOSEIN: conflicting surgical outcome, 2019",
+        "HYPNOSEIN : résultat chirurgical discordant, 2019",
+        "HYPNOSEIN: resultado quirúrgico diferente, 2019",
+        "HYPNOSEIN: نتيجة جراحية متباينة، 2019"
+      ]
+    },
+    "cochrane": {
+      "url": "https://www.cochrane.org/evidence/CD001008_does-hypnotherapy-help-people-who-are-trying-stop-smoking",
+      "labels": [
+        "Cochrane: smoking-cessation review, 2019",
+        "Cochrane : arrêt du tabac, revue de 2019",
+        "Cochrane: revisión sobre dejar de fumar, 2019",
+        "كوكرين: مراجعة الإقلاع عن التدخين، 2019"
+      ]
+    },
+    "stimulation": {
+      "url": "https://www.nature.com/articles/s44220-023-00184-z",
+      "labels": [
+        "SHIFT: sham-controlled stimulation study, 2024",
+        "SHIFT : stimulation comparée à un placebo, 2024",
+        "SHIFT: estimulación con control simulado, 2024",
+        "SHIFT: تجربة تحفيز بضابط صوري، 2024"
+      ]
+    },
+    "memoryInternal": {
+      "url": "/articles/deja-vu-why-does-it-happen-brain-science/",
+      "labels": [
+        "déjà vu",
+        "déjà-vu",
+        "déjà vu",
+        "إحساس سبق الرؤية"
+      ]
+    },
+    "sleepInternal": {
+      "url": "/articles/why-do-we-dream/",
+      "labels": [
+        "dreaming and sleep",
+        "les rêves et le sommeil",
+        "los sueños y el dormir",
+        "الأحلام والنوم"
+      ]
+    }
+  },
+  "review": [
+    "2016 online fMRI paper / 2017 print; 57 selected extremes, subsets 21 versus 21; association not diagnostic signature or causal mind-control evidence",
+    "2019 laboratory analgesia differs from 2026 clinical review; active-control comparison retained",
+    "IMAGINE 354 randomised, adequate patient-reported relief, not guaranteed cure; very-low-certainty guideline qualification",
+    "2007 surgery trial versus 2019 null primary breast-pain result; adjunct not replacement anaesthesia",
+    "2024 SHIFT recruited 80 fibromyalgia patients; temporary responsiveness result, not established long-term analgesia",
+    "False-memory risk, consent, specialist assessment and adverse-event reporting limitations",
+    "Hero is an approved AI editorial illustration; pocket watch not medically necessary"
+  ],
+  "quotePolicy": "No invented or direct quotations",
+  "blocks": 41,
+  "faqs": 6
+}

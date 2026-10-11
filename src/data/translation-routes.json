@@ -676,6 +676,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/can-hypnosis-really-control-your-mind/",
+    "path": "/ar/articles/can-hypnosis-really-control-your-mind/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/can-hypnosis-really-control-your-mind/",
+    "path": "/es/articles/can-hypnosis-really-control-your-mind/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/can-hypnosis-really-control-your-mind/",
+    "path": "/fr/articles/can-hypnosis-really-control-your-mind/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/carl-sagan-journey-through-our-universe/",
     "path": "/ar/articles/carl-sagan-journey-through-our-universe/"
   },
