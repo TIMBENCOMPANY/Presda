@@ -1,0 +1,289 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/lie-detectors-can-science-really-detect-deception/",
+  "path": "/es/articles/lie-detectors-can-science-really-detect-deception/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "PRESDA scientific and localization review: forensic validity, physiological measurements and legal scope",
+    "reviewedAt": "2026-10-12",
+    "terminologyChecked": true
+  },
+  "title": "DETECTORES DE MENTIRAS: ¿PUEDE LA CIENCIA DETECTAR EL ENGAÑO?",
+  "seoTitle": "Detectores de mentiras: precisión, fallos y nueva ciencia",
+  "description": "Qué mide el polígrafo, por qué los nervios no prueban una mentira y qué revelan los estudios sobre IA, seguimiento ocular e imágenes cerebrales.",
+  "excerpt": "Qué mide el polígrafo, por qué los nervios no prueban una mentira y qué revelan los estudios sobre IA, seguimiento ocular e imágenes cerebrales.",
+  "headlineHighlights": {
+    "red": "DETECTORES DE MENTIRAS",
+    "gold": "ENGAÑO"
+  },
+  "keywords": [
+    "precisión del polígrafo",
+    "detección de mentiras",
+    "psicología del engaño",
+    "falsos positivos",
+    "ciencia forense"
+  ],
+  "searchIntent": "Qué mide el polígrafo, por qué los nervios no prueban una mentira y qué revelan los estudios sobre IA, seguimiento ocular e imágenes cerebrales.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-11",
+  "updatedAt": "2026-10-11",
+  "image": {
+    "src": "/articles/polygraph-interrogation-ai.png",
+    "alt": "Ilustración editorial generada por IA de un interrogatorio, con una persona sentada a la derecha y un polígrafo visible, sin representar un caso real"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Imagina una máquina que transforma tu respiración en una línea móvil. Un manguito aprieta el brazo; unos sensores tocan tus dedos. El examinador pregunta y el trazado cambia. Has respondido honestamente, pero sabes cuánto depende de que te crean. El aparato registra ese instante con precisión. ¿Qué ha descubierto realmente? Esta escena imaginada plantea un problema más complejo que la revelación instantánea habitual en televisión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una reacción medible no explica automáticamente su causa. Los polígrafos registran fisiología y, en ciertas condiciones, distinguen grupos mejor que el azar. No observan directamente la deshonestidad. Desde los primeros aparatos policiales hasta la inteligencia artificial, hay que separar engaño de otros motivos para reaccionar. Las fuentes verificadas el 12 de octubre de 2026 muestran una realidad más compleja que una máquina infalible o unas señales carentes por completo de significado."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un siglo intentando hacer visible la verdad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ningún invento único hizo detectable la mentira de repente. Investigadores anteriores estudiaron la presión arterial; William Moulton Marston desarrolló un enfoque basado en la presión sistólica. En 1921, John Augustus Larson construyó con la policía de Berkeley un instrumento que registraba varios parámetros. Leonarde Keeler perfeccionó después equipos y técnicas. El Smithsonian conserva el aparato temprano de Larson: testimonio de una ambición científica, no prueba de que medir estableciera la verdad. [Smithsonian: polígrafo de Larson](https://americanhistory.si.edu/collections/object/nmah_1286189) [Informe histórico del Congreso](https://www.govinfo.gov/content/pkg/SERIALSET-12667_05_00-003-0198-0000/pdf/SERIALSET-12667_05_00-003-0198-0000.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Polígrafo significa múltiples registros. Describe mejor el instrumento que detector de mentiras. Los trazos en papel dieron paso a sensores y programas, pero mejorar el registro no resuelve la interpretación. Una línea aparentemente objetiva promete zanjar disputas. Sin embargo, el examinador sigue eligiendo preguntas, aplicando procedimientos e interpretando patrones dentro de un encuentro humano. La precisión técnica no elimina esas decisiones ni determina por sí sola qué significan."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué miden realmente los sensores"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un examen convencional registra actividad cardiovascular, movimientos respiratorios y actividad electrodérmica. Esta última refleja cambios de conductancia cutánea relacionados con las glándulas sudoríparas. Manguitos y bandas no leen afirmaciones cerebrales; los sensores no identifican intención moral. Sus canales responden a activación, atención y anticipación. Un registro puede ser técnicamente fiable mientras su interpretación como deshonestidad sigue siendo incierta. La distinción entre medir y explicar es decisiva. [APA: ciencia del polígrafo](https://www.apa.org/topics/cognitive-neuroscience/polygraph)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prueba de preguntas de comparación contrasta reacciones a cuestiones pertinentes para la investigación con otras sobre conductas pasadas más generales. Supone que personas sinceras y engañosas se preocuparán por preguntas diferentes. El resultado depende de comparar, no simplemente de un pulso elevado. Preparación, formulación, comprensión y puntuación importan. Un resultado inconcluyente no debe convertirse silenciosamente en prueba de mentira ni en certificado de inocencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prueba de información oculta plantea otra hipótesis: ¿reconoce alguien un detalle que no debería ser público? Reconocerlo puede generar una reacción sin demostrar quién cometió un delito. Un testigo podría conocerlo, el autor olvidarlo y la publicidad contaminarlo. Deben protegerse los datos pertinentes y distinguir conocimiento de culpabilidad. Llamar detección de mentiras a ambos procedimientos puede ocultar que responden a preguntas científicas diferentes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La precisión no es un porcentaje universal"
+    },
+    {
+      "type": "paragraph",
+      "text": "La revisión del National Research Council de 2003 concluyó que las pruebas sobre incidentes concretos, en las poblaciones estudiadas sin entrenamiento en contramedidas, distinguían respuestas mejor que el azar, pero lejos de la perfección. Advirtió que los sesgos probablemente exageraban el rendimiento real y que no cabía trasladarlo directamente al control de seguridad. Esto no equivale a negar toda capacidad de detección ni a asignar una cifra impresionante a cada examen. [National Research Council, 2003](https://www.nationalacademies.org/read/10420/chapter/2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2019, William Iacono y Gershon Ben-Shakhar argumentaron que la calidad de la investigación había cambiado poco y persistían las principales reservas. Validar exige saber independientemente si alguien mintió. Si una confesión influida por el examen sirve como etiqueta para validarlo, el razonamiento puede hacerse circular. Los delitos simulados ofrecen referencias más claras, pero reproducen peor las consecuencias de una investigación auténtica. [Iacono y Ben-Shakhar, 2019](https://pubmed.ncbi.nlm.nih.gov/30284848/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un falso positivo clasifica como engañosa una respuesta sincera; un falso negativo no detecta el engaño. Sensibilidad, especificidad y tratamiento de resultados inconcluyentes describen dimensiones distintas. Fiabilidad significa consistencia; validez significa demostrar lo que se afirma. Cuando las infracciones son raras, incluso pocas falsas alarmas pueden superar las detecciones verdaderas. La precisión global no explica por sí sola qué significa el resultado para una persona acusada."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nervios, sospechas y dos casos documentados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Miedo a una acusación, vergüenza por una pregunta o presión del examen pueden provocar reacciones intensas en alguien honesto. Un mentiroso experimentado o poco preocupado puede mostrar otro patrón. Eso no implica que todos los nerviosos fallen o todos los tranquilos pasen. No existe una firma fisiológica única de la mentira independiente del contexto. La ansiedad informa sobre un estado personal, no dicta un veredicto sobre una declaración."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una investigación del Senado estadounidense documentó que el agente de la CIA Aldrich Ames pasó exámenes en 1986 y 1991 mientras espiaba. Identificó deficiencias del procedimiento y señaló que el resultado de 1991 redujo las sospechas. No demuestra una técnica universal para burlar pruebas. El fallo implicó un proceso y confianza institucional en su conclusión, no solamente un sensor. Un resultado tranquilizador contribuyó a ocultar una amenaza que requería investigación independiente. [Investigación del Senado: Ames, 1994](https://www.intelligence.senate.gov/sites/default/files/publications/10390.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gary Gauger ilustra otro peligro. El Center on Wrongful Convictions de Northwestern informa que, tras el asesinato de sus padres en 1993, la policía le dijo que había fallado un polígrafo; el resultado era inconcluyente. Su condena se anuló en 1996 y recibió un indulto por inocencia en 2002 después de identificarse otros autores. No es un falso positivo demostrado de la máquina. Es una tergiversación documentada de un resultado incierto durante un interrogatorio de consecuencias devastadoras. [Northwestern: Gary Gauger](https://cwc.law.northwestern.edu/freed-exonerated/gary-gauger/)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Pueden las personas entrenadas burlar el polígrafo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas investigaciones de laboratorio muestran que las contramedidas reducen la detección. En 1994, Charles Honts, David Raskin y John Kircher estudiaron a 120 participantes en un delito simulado. De los 100 asignados a la condición culpable, 80 recibieron entrenamiento. Los autores informaron que contramedidas mentales y físicas permitieron, cada una, burlar el examen a aproximadamente la mitad de los entrenados y eran difíciles de identificar. Son resultados de ese experimento, no probabilidades universales. [Honts y colaboradores, 1994](https://pubmed.ncbi.nlm.nih.gov/8206815/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuestión científica es que modificar conscientemente reacciones puede alterar una comparación fisiológica. No garantiza éxito ni demuestra que un trazado sospechoso refleje interferencia deliberada. Condiciones reales, procedimientos y diferencias individuales dificultan generalizar. Una tecnología de detección debe probarse frente a intentos plausibles de manipulación, no solo con voluntarios cooperativos que siguen el guion. Su vulnerabilidad merece estudio sin transformarse en una receta infalible de evasión."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El lenguaje corporal no contiene un código secreto"
+    },
+    {
+      "type": "paragraph",
+      "text": "También intentamos detectar sin aparatos. El metaanálisis de Charles Bond y Bella DePaulo de 2006 sintetizó 206 documentos con 24.483 evaluadores. Sin ayudas ni entrenamiento especial, los juicios verdad-mentira acertaban alrededor del 54 %. Estadísticamente supera el azar, pero ofrece una ventaja modesta. No es una cifra de precisión del polígrafo ni una puntuación universal para profesionales, conversaciones o tipos de engaño. Hay que mantener separados esos resultados. [Bond y DePaulo, 2006](https://pubmed.ncbi.nlm.nih.gov/16859438/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apartar la mirada, moverse o mostrar una emoción no identifica independientemente una mentira. La revisión de Vrij, Hartwig y Granhag de 2019 describió indicios no verbales generalmente débiles y poco fiables. Las microexpresiones pueden revelar una expresión fugaz, no su causa. Ocultar vergüenza no equivale a inventar una coartada. Las diferencias culturales e individuales hacen peligrosos los estereotipos visuales. Nuestro artículo sobre [la psicología de las sectas](/articles/psychology-of-cults-why-people-follow-blindly/) examina por qué una autoridad aparente sigue siendo convincente. [Vrij y colaboradores, 2019](https://doi.org/10.1146/annurev-psych-010418-103135)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Voces y ojos: nuevas medidas, problemas conocidos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El análisis de estrés vocal busca indicios en el habla. Un estudio penitenciario financiado por el NIJ, publicado en 2007 y resumido en 2008, evaluó dos sistemas frente a declaraciones sobre consumo reciente de drogas, comprobadas con análisis de orina. El NIJ informó que detectaron aproximadamente el 15 % de las mentiras. Describe productos y circunstancias concretos, no todo algoritmo futuro. Que la presencia del aparato favorezca admisiones difiere también de clasificar correctamente las declaraciones. [NIJ: estudio de estrés vocal](https://nij.ojp.gov/topics/articles/voice-stress-analysis-only-15-percent-lies-about-drug-use-detected-field-test)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El seguimiento ocular estudia pupilas, fijaciones y lectura, no solamente dirección de la mirada. Anne Cook y sus colegas investigaron en 2012 respuestas a frases informatizadas sobre un delito simulado. Exploran esfuerzo cognitivo y atención, sin validar el supuesto código popular de la mirada. Las pruebas de lectura necesitan evaluación independiente entre idiomas y poblaciones. Iluminación, tarea y características individuales deben considerarse antes de interpretar cualquier cambio pupilar como engaño. [Cook y colaboradores, 2012](https://pubmed.ncbi.nlm.nih.gov/22545928/)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La inteligencia artificial hereda las etiquetas de verdad"
+    },
+    {
+      "type": "paragraph",
+      "text": "El aprendizaje automático combina voz, palabras y movimientos que una persona no puede calcular fácilmente. Pero una revisión sistemática de PLOS ONE de 2023 identificó escasez de datos reales etiquetados y importantes riesgos de sesgo. Los modelos solían entrenarse con simulaciones o conjuntos reutilizados. Una puntuación alta dentro de una colección no demuestra juicios fiables sobre personas nuevas en entornos distintos. Más capacidad de cálculo no garantiza mejores referencias de verdad. [PLOS ONE: revisión sistemática, 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281323)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pruebas independientes deben separar personas entre entrenamiento y evaluación, examinar errores pertinentes e incluir escenarios desconocidos. De lo contrario, un sistema podría aprender rasgos del hablante, grabación o papel experimental en lugar del engaño. Son riesgos metodológicos que comprobar, no acusaciones contra todos los modelos. Vender una puntuación de confianza como verdad objetiva oculta incertidumbre. La automatización puede reforzar la autoridad de una decisión dudosa sin reforzar sus pruebas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El cerebro no ofrece un veredicto legible"
+    },
+    {
+      "type": "paragraph",
+      "text": "La resonancia funcional mide cambios de oxigenación sanguínea asociados a actividad neuronal. En 2016, Daniel Langleben y sus colegas compararon métodos con 28 participantes que ocultaban un número escrito. Expertos independientes examinaron resonancia y polígrafo; el estudio informó una ventaja para la resonancia en esa tarea. Era una prueba de información oculta, no un escáner capaz de detectar la verdad de cualquier afirmación o reconstruir un delito desconocido. [Langleben y colaboradores, 2016](https://pubmed.ncbi.nlm.nih.gov/26794034/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Atención, conflicto e inhibición no son exclusivos de mentir. Un voluntario cooperativo en un escáner difiere de alguien que defiende su relato bajo sospecha criminal. Clasificación individual, contramedidas, reproducibilidad y validación independiente siguen siendo esenciales. La imagen coloreada invita al mismo error del papel: confundir una medición sofisticada con una respuesta que se interpreta sola. Nuestro artículo sobre [la hipnosis](/articles/can-hypnosis-really-control-your-mind/) aborda una distancia semejante entre hallazgos cerebrales y afirmaciones sobre la mente."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué deben preguntar el derecho y la ética"
+    },
+    {
+      "type": "paragraph",
+      "text": "El tratamiento jurídico varía por jurisdicción y finalidad. En United States v. Scheffer, en 1998, el Tribunal Supremo estadounidense sostuvo la regla militar que excluía pruebas poligráficas frente al recurso constitucional analizado. No prohibió globalmente cualquier uso investigativo. En Estados Unidos, la Employee Polygraph Protection Act generalmente impide estos exámenes a la mayoría de empleadores privados, con excepciones y restricciones. Las reglas locales actuales requieren comprobación; credibilidad científica y admisibilidad son cuestiones distintas. [Tribunal Supremo: Scheffer, 1998](https://www.law.cornell.edu/supct/html/96-1133.ZO.html) [Departamento de Trabajo: EPPA](https://www.dol.gov/agencies/whd/polygraph)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consentimiento, privacidad y posibilidad de impugnar resultados importan fuera del tribunal. ¿Quién ve los datos, cuánto se conservan y quién puede cuestionar la interpretación? Un detector no debería convertir la negativa en sospecha automática ni resultados inciertos en presión para confesar. Procedimientos que afectan libertad o empleo necesitan transparencia, escrutinio de errores y recursos. La responsabilidad no puede recaer únicamente en quien está conectado al equipo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La mentira más peligrosa puede ser la certeza"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia puede estudiar engaño, identificar diferencias estadísticas y mejorar la obtención de información comprobable. No convierte cada latido, gesto o escaneo en veredicto. Entrevistar rigurosamente significa buscar relatos y evidencia verificable, no una supuesta marca corporal de deshonestidad. Incluso un recuerdo inconsistente necesita interpretación: memoria, estrés y malentendidos pueden complicar una narración honesta. La investigación no mejora ignorando esas posibilidades."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fascinación del polígrafo refleja un deseo humano: que la verdad deje un rastro inconfundible y alguien sepa leerlo. Los rastros existen; la certeza, muchas veces, no. Una investigación responsable separa lo que produce el instrumento de la conclusión deseada. Quizá el avance más valioso no sea una máquina que jamás dude, sino un sistema de pruebas suficientemente cuidadoso para dudar de sus propias máquinas."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Mide directamente las mentiras el polígrafo?",
+      "answer": "No. Registra reacciones fisiológicas. Inferir engaño exige procedimiento e interpretación; la activación no es exclusiva de mentir."
+    },
+    {
+      "question": "¿Los nervios demuestran una mentira?",
+      "answer": "No. Miedo, vergüenza y presión pueden alterar respuestas honestas. Importan contexto y pruebas independientes."
+    },
+    {
+      "question": "¿Cuál es su porcentaje de precisión?",
+      "answer": "No hay cifra universal. Tarea, población, puntuación y resultados inconcluyentes afectan estimaciones; el control de seguridad difiere de investigar un incidente."
+    },
+    {
+      "question": "¿Se puede burlar un detector?",
+      "answer": "Algunos participantes entrenados lo lograron experimentalmente. Demuestra vulnerabilidad, no un método garantizado ni una tasa universal."
+    },
+    {
+      "question": "¿La IA y los escáneres son sustitutos probados?",
+      "answer": "Muestran posibilidades para tareas concretas, pero no establecen un detector universal de verdad ni prueba automática de culpabilidad."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Smithsonian: polígrafo de Larson",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1286189"
+    },
+    {
+      "label": "Informe histórico del Congreso",
+      "url": "https://www.govinfo.gov/content/pkg/SERIALSET-12667_05_00-003-0198-0000/pdf/SERIALSET-12667_05_00-003-0198-0000.pdf"
+    },
+    {
+      "label": "APA: ciencia del polígrafo",
+      "url": "https://www.apa.org/topics/cognitive-neuroscience/polygraph"
+    },
+    {
+      "label": "National Research Council, 2003",
+      "url": "https://www.nationalacademies.org/read/10420/chapter/2"
+    },
+    {
+      "label": "Iacono y Ben-Shakhar, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30284848/"
+    },
+    {
+      "label": "Investigación del Senado: Ames, 1994",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/publications/10390.pdf"
+    },
+    {
+      "label": "Northwestern: Gary Gauger",
+      "url": "https://cwc.law.northwestern.edu/freed-exonerated/gary-gauger/"
+    },
+    {
+      "label": "Honts y colaboradores, 1994",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8206815/"
+    },
+    {
+      "label": "Bond y DePaulo, 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16859438/"
+    },
+    {
+      "label": "Vrij y colaboradores, 2019",
+      "url": "https://doi.org/10.1146/annurev-psych-010418-103135"
+    },
+    {
+      "label": "NIJ: estudio de estrés vocal",
+      "url": "https://nij.ojp.gov/topics/articles/voice-stress-analysis-only-15-percent-lies-about-drug-use-detected-field-test"
+    },
+    {
+      "label": "Cook y colaboradores, 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22545928/"
+    },
+    {
+      "label": "PLOS ONE: revisión sistemática, 2023",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281323"
+    },
+    {
+      "label": "Langleben y colaboradores, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26794034/"
+    },
+    {
+      "label": "Tribunal Supremo: Scheffer, 1998",
+      "url": "https://www.law.cornell.edu/supct/html/96-1133.ZO.html"
+    },
+    {
+      "label": "Departamento de Trabajo: EPPA",
+      "url": "https://www.dol.gov/agencies/whd/polygraph"
+    }
+  ]
+}

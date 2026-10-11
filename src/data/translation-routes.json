@@ -2041,6 +2041,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/lie-detectors-can-science-really-detect-deception/",
+    "path": "/ar/articles/lie-detectors-can-science-really-detect-deception/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/lie-detectors-can-science-really-detect-deception/",
+    "path": "/es/articles/lie-detectors-can-science-really-detect-deception/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/lie-detectors-can-science-really-detect-deception/",
+    "path": "/fr/articles/lie-detectors-can-science-really-detect-deception/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/lionel-messi-last-dance-argentina-farewell/",
     "path": "/ar/articles/lionel-messi-last-dance-argentina-farewell/"
   },

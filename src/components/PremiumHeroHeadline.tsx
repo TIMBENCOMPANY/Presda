@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "lie-detectors-can-science-really-detect-deception": {
+    en: { red: "DETECTORS", gold: "DECEPTION" },
+    fr: { red: "MENSONGES", gold: "TROMPERIE" },
+    ar: { red: "كشف الكذب", gold: "الخداع" },
+    es: { red: "MENTIRAS", gold: "ENGAÑO" }
+  },
   "psychology-of-cults-why-people-follow-blindly": {
     en: { red: "CULTS", gold: "BLINDLY" },
     fr: { red: "SECTES", gold: "AVEUGLÉMENT" },

@@ -1,0 +1,356 @@
+{
+  "local": [
+    {
+      "canonical": "https://presda.com/articles/lie-detectors-can-science-really-detect-deception/",
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "LIE "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "DETECTORS"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": CAN SCIENCE REALLY DETECT "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "DECEPTION"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "?"
+        }
+      ],
+      "dir": "ltr",
+      "faq": [
+        "Table Of Contents",
+        "Does a polygraph measure lies directly?",
+        "Is nervousness proof that someone is lying?",
+        "What is a polygraph's accuracy rate?",
+        "Can someone fool a lie detector?",
+        "Are AI and brain scans proven replacements?"
+      ],
+      "fit": "cover",
+      "heroHeight": 641.3333740234375,
+      "lang": "en",
+      "loaded": true,
+      "naturalRatio": 1.778723404255319,
+      "overflow": false,
+      "overlay": true,
+      "ratio": 1.9239583969116212,
+      "url": "http://127.0.0.1:4251/articles/lie-detectors-can-science-really-detect-deception/",
+      "width": 1280
+    },
+    {
+      "canonical": "https://presda.com/fr/articles/lie-detectors-can-science-really-detect-deception/",
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "DÉTECTEURS DE "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "MENSONGES"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " : LA SCIENCE PEUT-ELLE VRAIMENT DÉTECTER LA "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "TROMPERIE"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " ?"
+        }
+      ],
+      "dir": "ltr",
+      "faq": [
+        "Sommaire",
+        "Le polygraphe mesure-t-il directement les mensonges ?",
+        "La nervosité prouve-t-elle le mensonge ?",
+        "Quel est le taux de précision du polygraphe ?",
+        "Peut-on tromper un détecteur ?",
+        "L’IA et les scanners sont-ils des remplacements prouvés ?"
+      ],
+      "fit": "cover",
+      "heroHeight": 641.3333740234375,
+      "lang": "fr",
+      "loaded": true,
+      "naturalRatio": 1.7777777777777777,
+      "overflow": false,
+      "overlay": true,
+      "ratio": 1.9239583969116212,
+      "url": "http://127.0.0.1:4251/fr/articles/lie-detectors-can-science-really-detect-deception/",
+      "width": 1280
+    },
+    {
+      "canonical": "https://presda.com/ar/articles/lie-detectors-can-science-really-detect-deception/",
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "أجهزة "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "كشف الكذب"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": هل يستطيع العلم حقا اكتشاف "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "الخداع"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "؟"
+        }
+      ],
+      "dir": "rtl",
+      "faq": [
+        "فهرس المقال",
+        "هل يقيس البوليغراف الكذب مباشرة؟",
+        "هل يثبت التوتر أن الشخص يكذب؟",
+        "ما نسبة دقة البوليغراف؟",
+        "هل يمكن خداع كاشف الكذب؟",
+        "هل الذكاء الاصطناعي والتصوير بدائل مثبتة؟"
+      ],
+      "fit": "cover",
+      "heroHeight": 641.3333740234375,
+      "lang": "ar",
+      "loaded": true,
+      "naturalRatio": 1.779552715654952,
+      "overflow": false,
+      "overlay": true,
+      "ratio": 1.9239583969116212,
+      "url": "http://127.0.0.1:4251/ar/articles/lie-detectors-can-science-really-detect-deception/",
+      "width": 1280
+    },
+    {
+      "canonical": "https://presda.com/es/articles/lie-detectors-can-science-really-detect-deception/",
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "DETECTORES DE "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "MENTIRAS"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": ¿PUEDE LA CIENCIA DETECTAR EL "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "ENGAÑO"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "?"
+        }
+      ],
+      "dir": "ltr",
+      "faq": [
+        "Índice del artículo",
+        "¿Mide directamente las mentiras el polígrafo?",
+        "¿Los nervios demuestran una mentira?",
+        "¿Cuál es su porcentaje de precisión?",
+        "¿Se puede burlar un detector?",
+        "¿La IA y los escáneres son sustitutos probados?"
+      ],
+      "fit": "cover",
+      "heroHeight": 641.3333740234375,
+      "lang": "es",
+      "loaded": true,
+      "naturalRatio": 1.7777777777777777,
+      "overflow": false,
+      "overlay": true,
+      "ratio": 1.9239583969116212,
+      "url": "http://127.0.0.1:4251/es/articles/lie-detectors-can-science-really-detect-deception/",
+      "width": 1280
+    },
+    {
+      "canonical": "https://presda.com/articles/lie-detectors-can-science-really-detect-deception/",
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "LIE "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "DETECTORS"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": CAN SCIENCE REALLY DETECT "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "DECEPTION"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "?"
+        }
+      ],
+      "dir": "ltr",
+      "faq": [
+        "Table Of Contents",
+        "Does a polygraph measure lies directly?",
+        "Is nervousness proof that someone is lying?",
+        "What is a polygraph's accuracy rate?",
+        "Can someone fool a lie detector?",
+        "Are AI and brain scans proven replacements?"
+      ],
+      "fit": "contain",
+      "heroHeight": 581.6354370117188,
+      "lang": "en",
+      "loaded": true,
+      "naturalRatio": 1.7808219178082192,
+      "overflow": false,
+      "overlay": false,
+      "ratio": 1.7777778295463582,
+      "url": "http://127.0.0.1:4251/articles/lie-detectors-can-science-really-detect-deception/",
+      "width": 390
+    },
+    {
+      "canonical": "https://presda.com/fr/articles/lie-detectors-can-science-really-detect-deception/",
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "DÉTECTEURS DE "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "MENSONGES"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " : LA SCIENCE PEUT-ELLE VRAIMENT DÉTECTER LA "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "TROMPERIE"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " ?"
+        }
+      ],
+      "dir": "ltr",
+      "faq": [
+        "Sommaire",
+        "Le polygraphe mesure-t-il directement les mensonges ?",
+        "La nervosité prouve-t-elle le mensonge ?",
+        "Quel est le taux de précision du polygraphe ?",
+        "Peut-on tromper un détecteur ?",
+        "L’IA et les scanners sont-ils des remplacements prouvés ?"
+      ],
+      "fit": "contain",
+      "heroHeight": 649.25,
+      "lang": "fr",
+      "loaded": true,
+      "naturalRatio": 1.7808219178082192,
+      "overflow": false,
+      "overlay": false,
+      "ratio": 1.7777778295463582,
+      "url": "http://127.0.0.1:4251/fr/articles/lie-detectors-can-science-really-detect-deception/",
+      "width": 390
+    },
+    {
+      "canonical": "https://presda.com/ar/articles/lie-detectors-can-science-really-detect-deception/",
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "أجهزة "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "كشف الكذب"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": هل يستطيع العلم حقا اكتشاف "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "الخداع"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "؟"
+        }
+      ],
+      "dir": "rtl",
+      "faq": [
+        "فهرس المقال",
+        "هل يقيس البوليغراف الكذب مباشرة؟",
+        "هل يثبت التوتر أن الشخص يكذب؟",
+        "ما نسبة دقة البوليغراف؟",
+        "هل يمكن خداع كاشف الكذب؟",
+        "هل الذكاء الاصطناعي والتصوير بدائل مثبتة؟"
+      ],
+      "fit": "contain",
+      "heroHeight": 524.8646240234375,
+      "lang": "ar",
+      "loaded": true,
+      "naturalRatio": 1.7808219178082192,
+      "overflow": false,
+      "overlay": false,
+      "ratio": 1.7777778295463582,
+      "url": "http://127.0.0.1:4251/ar/articles/lie-detectors-can-science-really-detect-deception/",
+      "width": 390
+    },
+    {
+      "canonical": "https://presda.com/es/articles/lie-detectors-can-science-really-detect-deception/",
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "DETECTORES DE "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "MENTIRAS"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": ¿PUEDE LA CIENCIA DETECTAR EL "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "ENGAÑO"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "?"
+        }
+      ],
+      "dir": "ltr",
+      "faq": [
+        "Índice del artículo",
+        "¿Mide directamente las mentiras el polígrafo?",
+        "¿Los nervios demuestran una mentira?",
+        "¿Cuál es su porcentaje de precisión?",
+        "¿Se puede burlar un detector?",
+        "¿La IA y los escáneres son sustitutos probados?"
+      ],
+      "fit": "contain",
+      "heroHeight": 640.0104370117188,
+      "lang": "es",
+      "loaded": true,
+      "naturalRatio": 1.7808219178082192,
+      "overflow": false,
+      "overlay": false,
+      "ratio": 1.7777778295463582,
+      "url": "http://127.0.0.1:4251/es/articles/lie-detectors-can-science-really-detect-deception/",
+      "width": 390
+    }
+  ]
+}

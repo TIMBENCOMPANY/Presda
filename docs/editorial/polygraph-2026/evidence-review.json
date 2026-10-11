@@ -1,0 +1,189 @@
+{
+  "checkedAt": "2026-10-12",
+  "verificationTimezone": "Europe/Istanbul",
+  "publicationDateBasis": "UTC day, consistent with the site’s publication scheduler",
+  "sources": {
+    "history": {
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1286189",
+      "labels": [
+        "Smithsonian: Larson polygraph",
+        "Smithsonian : polygraphe de Larson",
+        "Smithsonian: polígrafo de Larson",
+        "سميثسونيان: بوليغراف لارسون"
+      ]
+    },
+    "historyReport": {
+      "url": "https://www.govinfo.gov/content/pkg/SERIALSET-12667_05_00-003-0198-0000/pdf/SERIALSET-12667_05_00-003-0198-0000.pdf",
+      "labels": [
+        "US congressional historical report",
+        "Rapport historique du Congrès",
+        "Informe histórico del Congreso",
+        "تقرير الكونغرس التاريخي"
+      ]
+    },
+    "apa": {
+      "url": "https://www.apa.org/topics/cognitive-neuroscience/polygraph",
+      "labels": [
+        "APA: polygraph science",
+        "APA : science du polygraphe",
+        "APA: ciencia del polígrafo",
+        "الجمعية الأمريكية لعلم النفس: البوليغراف"
+      ]
+    },
+    "academies": {
+      "url": "https://www.nationalacademies.org/read/10420/chapter/2",
+      "labels": [
+        "National Research Council, 2003",
+        "National Research Council, 2003",
+        "National Research Council, 2003",
+        "المجلس القومي للبحوث، 2003"
+      ]
+    },
+    "update": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30284848/",
+      "labels": [
+        "Iacono and Ben-Shakhar, 2019",
+        "Iacono et Ben-Shakhar, 2019",
+        "Iacono y Ben-Shakhar, 2019",
+        "إياكونو وبن شاخار، 2019"
+      ]
+    },
+    "ames": {
+      "url": "https://www.intelligence.senate.gov/sites/default/files/publications/10390.pdf",
+      "labels": [
+        "Senate investigation: Ames, 1994",
+        "Enquête du Sénat : Ames, 1994",
+        "Investigación del Senado: Ames, 1994",
+        "تحقيق مجلس الشيوخ: إيمز، 1994"
+      ]
+    },
+    "gauger": {
+      "url": "https://cwc.law.northwestern.edu/freed-exonerated/gary-gauger/",
+      "labels": [
+        "Northwestern: Gary Gauger",
+        "Northwestern : Gary Gauger",
+        "Northwestern: Gary Gauger",
+        "نورث وسترن: غاري غوغر"
+      ]
+    },
+    "counter": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8206815/",
+      "labels": [
+        "Honts et al., 1994",
+        "Honts et coll., 1994",
+        "Honts y colaboradores, 1994",
+        "هونتس وزملاؤه، 1994"
+      ]
+    },
+    "judgments": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16859438/",
+      "labels": [
+        "Bond and DePaulo, 2006",
+        "Bond et DePaulo, 2006",
+        "Bond y DePaulo, 2006",
+        "بوند وديباولو، 2006"
+      ]
+    },
+    "nonverbal": {
+      "url": "https://doi.org/10.1146/annurev-psych-010418-103135",
+      "labels": [
+        "Vrij et al., 2019",
+        "Vrij et coll., 2019",
+        "Vrij y colaboradores, 2019",
+        "فري وزملاؤه، 2019"
+      ]
+    },
+    "voice": {
+      "url": "https://nij.ojp.gov/topics/articles/voice-stress-analysis-only-15-percent-lies-about-drug-use-detected-field-test",
+      "labels": [
+        "NIJ: voice-stress field study",
+        "NIJ : étude du stress vocal",
+        "NIJ: estudio de estrés vocal",
+        "المعهد الوطني للعدالة: الإجهاد الصوتي"
+      ]
+    },
+    "eyes": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22545928/",
+      "labels": [
+        "Cook et al., 2012",
+        "Cook et coll., 2012",
+        "Cook y colaboradores, 2012",
+        "كوك وزملاؤها، 2012"
+      ]
+    },
+    "ai": {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281323",
+      "labels": [
+        "PLOS ONE: systematic review, 2023",
+        "PLOS ONE : revue systématique, 2023",
+        "PLOS ONE: revisión sistemática, 2023",
+        "PLOS ONE: مراجعة منهجية، 2023"
+      ]
+    },
+    "brain": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26794034/",
+      "labels": [
+        "Langleben et al., 2016",
+        "Langleben et coll., 2016",
+        "Langleben y colaboradores, 2016",
+        "لانغليبن وزملاؤه، 2016"
+      ]
+    },
+    "court": {
+      "url": "https://www.law.cornell.edu/supct/html/96-1133.ZO.html",
+      "labels": [
+        "Supreme Court: Scheffer, 1998",
+        "Cour suprême : Scheffer, 1998",
+        "Tribunal Supremo: Scheffer, 1998",
+        "المحكمة العليا: شيفر، 1998"
+      ]
+    },
+    "employment": {
+      "url": "https://www.dol.gov/agencies/whd/polygraph",
+      "labels": [
+        "US Department of Labor: EPPA",
+        "Ministère américain du Travail : EPPA",
+        "Departamento de Trabajo: EPPA",
+        "وزارة العمل الأمريكية: قانون حماية الموظفين"
+      ]
+    },
+    "cultsInternal": {
+      "url": "/articles/psychology-of-cults-why-people-follow-blindly/",
+      "labels": [
+        "cult psychology",
+        "la psychologie des sectes",
+        "la psicología de las sectas",
+        "سيكولوجية الجماعات المغلقة"
+      ]
+    },
+    "hypnosisInternal": {
+      "url": "/articles/can-hypnosis-really-control-your-mind/",
+      "labels": [
+        "hypnosis",
+        "l’hypnose",
+        "la hipnosis",
+        "التنويم الإيحائي"
+      ]
+    }
+  },
+  "review": [
+    "History: Larson 1921 multi-channel instrument; earlier Marston systolic work and later Keeler refinements, no sole inventor of proven lie detection",
+    "Physiological recording versus inference; CQT versus CIT, recognition not proof of guilt",
+    "NRC 2003 above-chance specific-incident results in studied populations untrained in countermeasures, below perfection; screening extrapolation and bias caveats",
+    "2019 Iacono-Ben-Shakhar critical review identified persistent research-quality limitations, no universal accuracy figure",
+    "Sensitivity, specificity, false positives, false negatives, reliability, validity and inconclusive results distinguished; no fabricated empirical rates",
+    "Senate 1994 Ames investigation: passed in 1986 and 1991, deficiencies and misplaced reassurance; no claim that Ames was trained in a successful cheating method",
+    "Gary Gauger: reported inconclusive result misrepresented as failure; not a verified machine false positive; 1996 reversal and 2002 innocence pardon",
+    "Honts 1994: 120 participants, 100 mock-guilty, 80 trained; roughly half defeated test per training type, not universal field success; no procedural countermeasure instructions",
+    "Bond-DePaulo 2006: 206 documents, 24483 judges, roughly 54% human judgments without aids/training; not polygraph performance",
+    "NIJ 2007 study/2008 summary: two specific voice-stress systems, recent drug-use reports/urine tests; about 15% of lies detected, not a general rate for all voice algorithms",
+    "Cook 2012 ocular-motor task: mock crime, reading and pupil measures; no gaze-direction lie code",
+    "PLOS ONE 2023 ML review: limited reused datasets, risk of bias; generalisation demands independent validation",
+    "Langleben 2016 N28 concealed-number task; published advantage does not establish spontaneous-deception detector or courtroom guilt",
+    "Scheffer 1998 military evidence rule upheld, not worldwide investigative ban; US EPPA most private employers with exemptions, local rules vary",
+    "Approved image preserved; AI imagined interrogation, fictional readings and no real case/individual identification"
+  ],
+  "quotePolicy": "No invented quotations or testimony",
+  "blocks": 38,
+  "faqs": 5
+}

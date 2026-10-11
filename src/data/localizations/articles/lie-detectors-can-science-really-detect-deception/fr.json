@@ -1,0 +1,289 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/lie-detectors-can-science-really-detect-deception/",
+  "path": "/fr/articles/lie-detectors-can-science-really-detect-deception/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "PRESDA scientific and localization review: forensic validity, physiological measurements and legal scope",
+    "reviewedAt": "2026-10-12",
+    "terminologyChecked": true
+  },
+  "title": "DÉTECTEURS DE MENSONGES : LA SCIENCE PEUT-ELLE VRAIMENT DÉTECTER LA TROMPERIE ?",
+  "seoTitle": "Détecteurs de mensonges : fiabilité du polygraphe et science",
+  "description": "Ce que mesure le polygraphe, pourquoi le stress ne prouve pas le mensonge et ce que révèlent les études sur l’IA, les yeux et l’imagerie cérébrale.",
+  "excerpt": "Ce que mesure le polygraphe, pourquoi le stress ne prouve pas le mensonge et ce que révèlent les études sur l’IA, les yeux et l’imagerie cérébrale.",
+  "headlineHighlights": {
+    "red": "DÉTECTEURS DE MENSONGES",
+    "gold": "TROMPERIE"
+  },
+  "keywords": [
+    "fiabilité du polygraphe",
+    "détection du mensonge",
+    "psychologie de la tromperie",
+    "faux positifs",
+    "science médico-légale"
+  ],
+  "searchIntent": "Ce que mesure le polygraphe, pourquoi le stress ne prouve pas le mensonge et ce que révèlent les études sur l’IA, les yeux et l’imagerie cérébrale.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-11",
+  "updatedAt": "2026-10-11",
+  "image": {
+    "src": "/articles/polygraph-interrogation-ai.png",
+    "alt": "Illustration éditoriale générée par IA d’un interrogatoire avec une personne assise à droite et un polygraphe visible, sans représenter une affaire réelle"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Imaginez une machine qui transforme votre respiration en ligne mouvante. Un brassard serre votre bras, des capteurs touchent vos doigts. L’examinateur pose une question et le tracé change. Vous avez répondu honnêtement, mais vous savez aussi combien il importe d’être cru. L’appareil enregistre précisément cet instant. Qu’a-t-il réellement découvert ? Cette scène imaginée pose un véritable problème scientifique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une réaction mesurable n’en fournit pas automatiquement l’explication. Les polygraphes enregistrent la physiologie et distinguent parfois des groupes mieux que le hasard, dans certaines conditions. Ils n’observent pas directement la malhonnêteté. Des premiers instruments policiers à l’intelligence artificielle, il faut séparer la tromperie des autres causes d’une réaction corporelle ou mentale. Nos sources, vérifiées le 12 octobre 2026, dessinent une réalité plus nuancée qu’une machine infaillible ou des signaux entièrement dépourvus de sens."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un siècle à vouloir rendre la vérité visible"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aucune invention unique n’a soudain rendu le mensonge détectable. Des chercheurs étudiaient déjà la pression artérielle ; William Moulton Marston développa une méthode fondée sur la pression systolique. En 1921, John Augustus Larson construisit avec la police de Berkeley un instrument enregistrant plusieurs paramètres. Leonarde Keeler perfectionna ensuite appareils et méthodes. Le Smithsonian conserve l’instrument de Larson : une trace historique de cette ambition scientifique, sans démonstration que mesurer suffisait à établir la vérité. [Smithsonian : polygraphe de Larson](https://americanhistory.si.edu/collections/object/nmah_1286189) [Rapport historique du Congrès](https://www.govinfo.gov/content/pkg/SERIALSET-12667_05_00-003-0198-0000/pdf/SERIALSET-12667_05_00-003-0198-0000.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Polygraphe signifie plusieurs enregistrements. Ce terme décrit mieux l’instrument que détecteur de mensonges. Les tracés sur papier ont cédé la place aux capteurs et logiciels, sans résoudre l’interprétation. Une ligne apparemment objective promet d’arbitrer un conflit entre personnes. Pourtant, l’examinateur choisit toujours des questions, applique une procédure et interprète les réactions dans une rencontre humaine. La précision ne supprime pas ces décisions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que mesurent réellement les capteurs"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’examen classique enregistre l’activité cardiovasculaire, les mouvements respiratoires et l’activité électrodermale. Cette dernière correspond aux variations de conductance cutanée liées aux glandes sudoripares. Brassards et ceintures ne lisent pas une proposition dans le cerveau ; les capteurs ne révèlent pas l’intention morale. Leurs mesures réagissent à l’activation physiologique, à l’attention et à l’anticipation. L’enregistrement peut être fiable techniquement, tandis que son interprétation comme preuve de malhonnêteté reste incertaine. [APA : science du polygraphe](https://www.apa.org/topics/cognitive-neuroscience/polygraph)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le test à questions de comparaison confronte les réactions à des questions concernant l’enquête à celles suscitées par des questions générales sur le passé. Il suppose que personnes sincères et menteuses seront davantage préoccupées par des questions différentes. Le résultat dépend de la comparaison, pas seulement d’un pouls accéléré. Préparation, formulation, compréhension et cotation comptent. Un résultat indéterminé ne doit devenir discrètement ni preuve de mensonge ni certificat d’innocence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le test d’information dissimulée poursuit une autre hypothèse : la personne reconnaît-elle un détail qui ne devrait pas être public ? Cette reconnaissance peut provoquer une réaction sans établir qui a commis un crime. Un témoin peut connaître le détail ; un auteur peut l’oublier ; sa diffusion peut contaminer le test. Il faut protéger les informations pertinentes et distinguer connaissance et culpabilité. Parler indistinctement de détection du mensonge masque cette différence."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La précision n’est pas un pourcentage universel"
+    },
+    {
+      "type": "paragraph",
+      "text": "La revue du National Research Council de 2003 concluait que, dans les populations étudiées sans entraînement aux contre-mesures, les tests sur un incident précis distinguaient les réponses mieux que le hasard, mais loin de la perfection. Les biais pouvaient surestimer la performance réelle ; les résultats ne se transposaient pas simplement au contrôle de sécurité. Cette conclusion ne signifie ni absence totale de détection ni justification d’un taux impressionnant applicable à chaque examen. [National Research Council, 2003](https://www.nationalacademies.org/read/10420/chapter/2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2019, William Iacono et Gershon Ben-Shakhar estimaient que la qualité des recherches avait peu évolué et que les principales réserves subsistaient. Valider un test exige de savoir indépendamment si une personne a menti. Utiliser comme référence un aveu influencé par ce même examen crée un risque de raisonnement circulaire. Les simulations volontaires fournissent des étiquettes plus claires, mais reproduisent moins bien les enjeux d’une véritable enquête. [Iacono et Ben-Shakhar, 2019](https://pubmed.ncbi.nlm.nih.gov/30284848/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un faux positif classe une personne sincère comme trompeuse ; un faux négatif manque une tromperie. Sensibilité, spécificité et traitement des résultats indéterminés décrivent des dimensions différentes. La fidélité concerne la constance des mesures ; la validité concerne ce qu’elles démontrent. Quand les infractions sont rares, même un taux modeste de fausses alertes peut dépasser les véritables détections. Une précision globale ne dit donc pas à un individu accusé ce que signifie son résultat."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nervosité, soupçon et deux affaires documentées"
+    },
+    {
+      "type": "paragraph",
+      "text": "La peur d’être accusé, l’embarras devant une question ou la pression de l’examen peuvent faire réagir vivement une personne honnête. Un menteur habitué ou peu inquiet peut présenter un autre profil. Cela ne signifie pas que tous les anxieux échouent ou tous les calmes réussissent. Il n’existe pas de signature physiologique unique du mensonge indépendante du contexte. L’anxiété renseigne sur un état, pas sur la véracité d’une déclaration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une enquête du Sénat américain rapporte que l’agent de la CIA Aldrich Ames a réussi des examens en 1986 et 1991 alors qu’il espionnait. Elle relève des défauts de procédure et explique que le résultat de 1991 a réduit les soupçons. Elle ne prouve aucune méthode universelle de contournement. L’échec impliquait une procédure et la confiance institutionnelle accordée à son résultat. Une conclusion rassurante a contribué à masquer une menace exigeant une enquête indépendante. [Enquête du Sénat : Ames, 1994](https://www.intelligence.senate.gov/sites/default/files/publications/10390.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’affaire Gary Gauger montre un danger différent. Le Center on Wrongful Convictions de Northwestern rapporte que la police lui a annoncé un échec au polygraphe après le meurtre de ses parents en 1993 ; le résultat était en réalité indéterminé. Sa condamnation a été annulée en 1996, puis une grâce fondée sur son innocence accordée en 2002, après l’identification d’autres auteurs. Il s’agit d’une présentation trompeuse d’un résultat incertain, pas d’un faux positif produit par l’appareil et scientifiquement établi. [Northwestern : Gary Gauger](https://cwc.law.northwestern.edu/freed-exonerated/gary-gauger/)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Peut-on apprendre à tromper un polygraphe ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des recherches en laboratoire montrent que des contre-mesures peuvent réduire la détection. En 1994, Charles Honts, David Raskin et John Kircher ont étudié 120 participants dans une simulation de crime. Parmi les 100 affectés à la condition coupable, 80 ont reçu un entraînement. Selon les auteurs, les contre-mesures mentales et physiques permettaient chacune à environ la moitié des participants entraînés de déjouer le test, et étaient difficiles à repérer. Ces chiffres décrivent cette expérience seulement. [Honts et coll., 1994](https://pubmed.ncbi.nlm.nih.gov/8206815/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le point scientifique est qu’une modification consciente des réactions peut perturber une comparaison physiologique. Cela ne garantit pas la réussite, ni ne prouve qu’un tracé suspect traduit une tentative délibérée. Les conditions réelles, les procédures et les différences individuelles compliquent la généralisation. Toute technologie de détection doit être évaluée face à des tentatives plausibles de manipulation, pas seulement auprès de volontaires coopératifs suivant un scénario expérimental."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le langage corporel n’offre pas de code secret"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous essayons aussi de détecter sans appareil. La méta-analyse de Charles Bond et Bella DePaulo de 2006 rassemblait 206 documents et 24 483 évaluateurs. Sans aide ni entraînement particulier, leurs jugements vérité-mensonge étaient corrects en moyenne à environ 54 %. C’est statistiquement supérieur au hasard, mais l’avantage reste modeste. Ce n’est ni un taux du polygraphe ni une note universelle pour tous les professionnels, conversations ou types de tromperie. [Bond et DePaulo, 2006](https://pubmed.ncbi.nlm.nih.gov/16859438/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Détourner le regard, remuer ou laisser apparaître une émotion ne permet pas d’identifier un mensonge isolément. La revue de Vrij, Hartwig et Granhag de 2019 décrit des indices non verbaux généralement faibles et peu fiables. Les microexpressions peuvent révéler une expression fugace, pas sa cause. Cacher son embarras n’est pas inventer un alibi. Les différences individuelles et culturelles rendent les stéréotypes visuels dangereux. Notre enquête sur [la psychologie des sectes](/articles/psychology-of-cults-why-people-follow-blindly/) explique pourquoi une autorité apparente reste néanmoins persuasive. [Vrij et coll., 2019](https://doi.org/10.1146/annurev-psych-010418-103135)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Voix et yeux : nouvelles mesures, difficultés familières"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les systèmes d’analyse du stress vocal recherchent des indices dans la parole. Une étude financée par le NIJ, publiée en 2007 puis présentée en 2008, comparait deux systèmes aux déclarations de consommation récente de drogues, contrôlées par analyses urinaires. Le NIJ rapporte environ 15 % des mensonges identifiés. Le résultat concerne ces produits et ce contexte, pas tout futur algorithme vocal. Encourager des aveux par la présence d’un appareil diffère également d’une classification exacte de ses mesures. [NIJ : étude du stress vocal](https://nij.ojp.gov/topics/articles/voice-stress-analysis-only-15-percent-lies-about-drug-use-detected-field-test)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’oculométrie étudie pupilles, fixations et lecture, pas simplement la direction du regard. Les expériences d’Anne Cook et de ses collègues de 2012 portaient sur des réponses à des propositions informatisées concernant un crime simulé. Elles explorent effort cognitif et attention, sans valider un code populaire du regard. Les tests de lecture nécessitent des évaluations indépendantes selon langues et populations. Éclairage, tâche et caractéristiques individuelles doivent être examinés avant d’interpréter toute variation pupillaire comme tromperie. [Cook et coll., 2012](https://pubmed.ncbi.nlm.nih.gov/22545928/)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L’IA hérite du problème des étiquettes de vérité"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’apprentissage automatique peut combiner voix, mots et mouvements difficiles à calculer humainement. Mais une revue systématique de PLOS ONE de 2023 souligne la rareté des données réelles étiquetées et d’importants risques de biais. Les modèles étaient souvent entraînés sur des simulations ou des jeux de données réutilisés. Un score élevé sur une collection ne démontre pas des jugements fiables concernant de nouvelles personnes dans un autre environnement. [PLOS ONE : revue systématique, 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281323)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les évaluations indépendantes doivent séparer les personnes entre entraînement et test, examiner les erreurs pertinentes et intégrer des contextes inconnus. Sinon, le système pourrait apprendre l’identité du locuteur, l’enregistrement ou le rôle expérimental plutôt que la tromperie. Ce sont des risques méthodologiques à vérifier, pas des accusations contre chaque modèle. Présenter un score de confiance comme une vérité objective dissimule l’incertitude des données. Automatiser peut renforcer l’autorité apparente sans renforcer les preuves."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L’imagerie cérébrale ne lit pas un verdict"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’IRM fonctionnelle mesure les variations d’oxygénation sanguine associées à l’activité neuronale. En 2016, Daniel Langleben et ses collègues ont comparé les méthodes chez 28 participants dissimulant un nombre écrit. Des experts indépendants examinaient IRMf et polygraphe ; l’étude rapporte un avantage de l’IRMf dans cette tâche définie. C’était une expérience d’information dissimulée, pas une lecture de la vérité de n’importe quelle affirmation ou la reconstitution d’un crime inconnu. [Langleben et coll., 2016](https://pubmed.ncbi.nlm.nih.gov/26794034/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attention, conflit et inhibition ne sont pas propres au mensonge. Un volontaire coopératif dans un scanner diffère d’une personne soupçonnée d’un crime. Classification individuelle, contre-mesures, reproductibilité et validation indépendante restent essentielles. L’image colorée peut susciter la même confusion que le tracé ancien : prendre une mesure sophistiquée pour une réponse qui s’interprète seule. Notre article sur [l’hypnose](/articles/can-hypnosis-really-control-your-mind/) étudie aussi l’écart entre résultats cérébraux et affirmations générales sur l’esprit."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les questions du droit et de l’éthique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le droit varie selon pays et usages. Dans United States v. Scheffer, en 1998, la Cour suprême américaine a confirmé la règle militaire excluant le polygraphe face au recours constitutionnel examiné. Ce n’est pas une interdiction mondiale de toute utilisation. Aux États-Unis, l’Employee Polygraph Protection Act interdit généralement les tests chez la plupart des employeurs privés, avec exceptions et restrictions. Il faut vérifier les règles locales actuelles ; crédibilité scientifique et recevabilité juridique sont différentes. [Cour suprême : Scheffer, 1998](https://www.law.cornell.edu/supct/html/96-1133.ZO.html) [Ministère américain du Travail : EPPA](https://www.dol.gov/agencies/whd/polygraph)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consentement, confidentialité et contestation importent aussi hors des tribunaux. Qui consulte les données, combien de temps sont-elles conservées et peut-on questionner leur interprétation ? Un appareil ne devrait pas transformer un refus en soupçon automatique ni un résultat incertain en pression à avouer. Les procédures affectant liberté ou emploi exigent transparence, analyse des erreurs et voies de recours. La charge ne peut incomber uniquement à la personne reliée aux capteurs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le mensonge le plus dangereux serait la certitude"
+    },
+    {
+      "type": "paragraph",
+      "text": "La science peut étudier la tromperie, identifier des différences statistiques et améliorer l’obtention d’informations vérifiables. Elle ne transforme pas chaque battement, expression ou image cérébrale en verdict. Un entretien rigoureux cherche des récits et des preuves indépendamment contrôlables, plutôt qu’une marque physique de malhonnêteté. Même un souvenir incohérent demande interprétation : stress, mémoire et malentendus peuvent compliquer une déclaration honnête."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fascination du polygraphe exprime un désir humain : que la vérité laisse une trace incontestable et que quelqu’un sache la lire. Les traces existent ; la certitude, souvent, non. Une enquête responsable distingue ce que produit l’instrument de la conclusion espérée. Le progrès scientifique le plus précieux est peut-être moins une machine qui ne doute jamais qu’un système de preuves assez rigoureux pour douter de ses propres machines."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le polygraphe mesure-t-il directement les mensonges ?",
+      "answer": "Non. Il enregistre des réactions physiologiques. Déduire une tromperie exige procédure et interprétation ; l’activation n’est pas propre au mensonge."
+    },
+    {
+      "question": "La nervosité prouve-t-elle le mensonge ?",
+      "answer": "Non. Peur, embarras et pression peuvent modifier les réactions d’une personne honnête. Contexte et preuves indépendantes comptent."
+    },
+    {
+      "question": "Quel est le taux de précision du polygraphe ?",
+      "answer": "Il n’existe pas de taux universel. Tâche, population, cotation et résultats indéterminés influencent les estimations."
+    },
+    {
+      "question": "Peut-on tromper un détecteur ?",
+      "answer": "Certains participants entraînés y sont parvenus expérimentalement. Cela montre une vulnérabilité, sans garantir une méthode ou un succès universel."
+    },
+    {
+      "question": "L’IA et les scanners sont-ils des remplacements prouvés ?",
+      "answer": "Ils présentent des possibilités propres à certaines tâches, sans établir un détecteur universel de vérité ou une preuve automatique de culpabilité."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Smithsonian : polygraphe de Larson",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1286189"
+    },
+    {
+      "label": "Rapport historique du Congrès",
+      "url": "https://www.govinfo.gov/content/pkg/SERIALSET-12667_05_00-003-0198-0000/pdf/SERIALSET-12667_05_00-003-0198-0000.pdf"
+    },
+    {
+      "label": "APA : science du polygraphe",
+      "url": "https://www.apa.org/topics/cognitive-neuroscience/polygraph"
+    },
+    {
+      "label": "National Research Council, 2003",
+      "url": "https://www.nationalacademies.org/read/10420/chapter/2"
+    },
+    {
+      "label": "Iacono et Ben-Shakhar, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30284848/"
+    },
+    {
+      "label": "Enquête du Sénat : Ames, 1994",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/publications/10390.pdf"
+    },
+    {
+      "label": "Northwestern : Gary Gauger",
+      "url": "https://cwc.law.northwestern.edu/freed-exonerated/gary-gauger/"
+    },
+    {
+      "label": "Honts et coll., 1994",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8206815/"
+    },
+    {
+      "label": "Bond et DePaulo, 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16859438/"
+    },
+    {
+      "label": "Vrij et coll., 2019",
+      "url": "https://doi.org/10.1146/annurev-psych-010418-103135"
+    },
+    {
+      "label": "NIJ : étude du stress vocal",
+      "url": "https://nij.ojp.gov/topics/articles/voice-stress-analysis-only-15-percent-lies-about-drug-use-detected-field-test"
+    },
+    {
+      "label": "Cook et coll., 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22545928/"
+    },
+    {
+      "label": "PLOS ONE : revue systématique, 2023",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281323"
+    },
+    {
+      "label": "Langleben et coll., 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26794034/"
+    },
+    {
+      "label": "Cour suprême : Scheffer, 1998",
+      "url": "https://www.law.cornell.edu/supct/html/96-1133.ZO.html"
+    },
+    {
+      "label": "Ministère américain du Travail : EPPA",
+      "url": "https://www.dol.gov/agencies/whd/polygraph"
+    }
+  ]
+}
