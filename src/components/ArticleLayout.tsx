@@ -1,3 +1,4 @@
+import { UniqueHotelsComparison } from "@/components/UniqueHotelsComparison";
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { SonghaiGraphics } from "@/components/SonghaiGraphics";
 import { JellyfishGraphics } from "@/components/JellyfishGraphics";
@@ -291,6 +292,8 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </div>
         </header>
 
+        {article.slug === "beyond-luxury-world-most-unique-hotels" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "Illustration éditoriale générée par IA. Igloo et paysage imaginaires, pas une photographie d’un établissement présenté." : locale === "es" ? "Ilustración editorial generada por IA. Iglú y paisaje imaginarios, no una fotografía de los establecimientos presentados." : locale === "ar" ? "رسم تحريري مولد بالذكاء الاصطناعي لقبة ومنظر متخيلين، وليس صورة لأحد الأماكن المعروضة." : "AI-generated editorial illustration. Imagined glass igloo and landscape, not a photograph of any featured property."}</p>}
+
         {article.slug === "shopping-psychology-what-drives-women-to-buy" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "Illustration éditoriale générée par IA. Centre commercial imaginaire, sans représenter une cliente réelle ni un soutien des marques." : locale === "es" ? "Ilustración editorial generada por IA. Centro comercial imaginario, no una compradora real ni prueba de respaldo de las marcas." : locale === "ar" ? "رسم تحريري مولد بالذكاء الاصطناعي لمركز تجاري متخيل، وليس صورة لمتسوقة حقيقية أو دليلا على تأييد العلامات." : "AI-generated editorial illustration of an imagined mall, not a real shopper or evidence of brand endorsement."}</p>}
 
         {article.slug === "psychology-of-brands-why-we-pay-more-for-a-name" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "Illustration éditoriale générée par IA. Avenue imaginaire, sans représenter un lieu réel ni un soutien des marques." : locale === "es" ? "Ilustración editorial generada por IA. Avenida imaginaria, no un lugar real ni prueba de respaldo de las marcas." : locale === "ar" ? "رسم تحريري مولد بالذكاء الاصطناعي لشارع متخيل، وليس صورة لمكان حقيقي أو دليلا على تأييد العلامات." : "AI-generated editorial illustration of an imagined avenue, not a real location or evidence of brand endorsement."}</p>}
@@ -341,6 +344,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "beyond-luxury-world-most-unique-hotels" && originalIndex === 4) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><UniqueHotelsComparison locale={locale} /></div>;
+              }
               if (article.slug === "seljuk-empire-origins-manzikert-culture-decline" && [7, 16, 22, 25, 34, 40].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><SeljukGraphics locale={locale} kind={originalIndex === 7 ? "timeline" : originalIndex === 16 ? "battle" : originalIndex === 22 ? "map" : originalIndex === 25 ? "rulers" : originalIndex === 34 ? "architecture" : "military"} /></div>;
               }

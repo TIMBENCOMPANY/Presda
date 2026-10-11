@@ -481,6 +481,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/beyond-luxury-world-most-unique-hotels/",
+    "path": "/ar/articles/beyond-luxury-world-most-unique-hotels/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/beyond-luxury-world-most-unique-hotels/",
+    "path": "/es/articles/beyond-luxury-world-most-unique-hotels/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/beyond-luxury-world-most-unique-hotels/",
+    "path": "/fr/articles/beyond-luxury-world-most-unique-hotels/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/bill-gates-foundation-impact/",
     "path": "/ar/articles/bill-gates-foundation-impact/"
   },

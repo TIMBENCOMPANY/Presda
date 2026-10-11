@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "beyond-luxury-world-most-unique-hotels": {
+    en: { red: "HOTELS", gold: "LUXURY" },
+    fr: { red: "HÔTELS", gold: "LUXE" },
+    ar: { red: "فنادق", gold: "الفخامة" },
+    es: { red: "HOTELES", gold: "LUJO" }
+  },
   "megan-fox-subs-co-owner-tim-stokely": {
     en: { red: "CO-OWNER", gold: "SUBS.COM" },
     fr: { red: "COPROPRIÉTAIRE", gold: "SUBS.COM" },
