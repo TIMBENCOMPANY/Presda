@@ -77,7 +77,7 @@ export const brandsArticle: Article = {
     "These sources answer different questions. Plassmann and McClure offer controlled evidence about specific experiences and cues. Belk supplies a conceptual account of possessions and identity. Veblen offers a historical critique, while later economic and marketing work examines particular mechanisms. Combining them gives a richer interpretation of branding, but does not convert them into one unified experiment. Publication dates, sample sizes, task design and cultural context remain relevant to what can reasonably be concluded.",
     "No responsible account can infer a shopper’s motive from a logo, assign a universal percentage of price to psychology or claim that a brain scan reveals the correct retail price. Consumers vary, products vary and preferences evolve. Critical analysis should also allow genuine advantages and genuine pleasure. The goal is a clearer purchase, not an emotionally empty one. Evidence helps determine what the product offers; judgment decides how much those benefits matter in a particular life.",
     "## When the name remains, what is it worth to you?",
-    "PRESDA’s related lifestyle reporting includes the economics and craftsmanship of exceptional timepieces in [The World’s Most Expensive Watches in 2026](/articles/world-most-expensive-watches-2026/). Reading across categories exposes a common tension: objects can be useful, beautiful, socially meaningful and expensive for different reasons. Understanding one reason should not erase the others. The most revealing comparison is often between the life imagined around a purchase and the ordinary life in which the object will actually be used.",
+    "PRESDA’s related lifestyle reporting includes the economics and craftsmanship of exceptional timepieces in [The World’s Most Expensive Watches in 2026](/articles/world-most-expensive-watches-2026/). Reading across categories exposes a common tension: objects can be useful, beautiful, socially meaningful and expensive for different reasons. Understanding one reason should not erase the others. The most revealing comparison is often between the life imagined around a purchase and the ordinary life in which the object will actually be used. Explore [Shopping Psychology: What Drives Women to Buy?](/articles/shopping-psychology-what-drives-women-to-buy/) for the research on emotion, reward and everyday purchase decisions.",
     "Return to the imagined shop at dusk. The window still glows, and the name still matters. Understanding its appeal does not require walking away. It creates another possibility: entering without asking the object to prove your worth. A brand can enrich an experience, organize a routine or mark a memory. It cannot settle who you are. The strongest purchase is one whose benefits you can name yourself, after the advertising has stopped speaking."
   ],
   "faq": [
@@ -157,6 +157,7 @@ export const brandsArticle: Article = {
     }
   ],
   "relatedSlugs": [
+    "shopping-psychology-what-drives-women-to-buy",
     "world-most-expensive-watches-2026",
     "plastic-surgery-revolution-beauty-at-any-cost"
   ]

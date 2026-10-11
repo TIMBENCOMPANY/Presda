@@ -1,0 +1,328 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/shopping-psychology-what-drives-women-to-buy/",
+  "path": "/fr/articles/shopping-psychology-what-drives-women-to-buy/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr psychology terminology, translation parity and attribution review",
+    "reviewedAt": "2026-10-11",
+    "terminologyChecked": true
+  },
+  "title": "PSYCHOLOGIE DU SHOPPING : QU’EST-CE QUI POUSSE LES FEMMES À ACHETER ?",
+  "seoTitle": "Psychologie du shopping : pourquoi les femmes achètent-elles ?",
+  "description": "Émotions, récompense, identité et influence sociale : comprendre les achats grâce à des recherches vérifiées, sans stéréotypes ni mythes sur la dopamine.",
+  "excerpt": "Émotions, récompense, identité et influence sociale : comprendre les achats grâce à des recherches vérifiées, sans stéréotypes ni mythes sur la dopamine.",
+  "headlineHighlights": {
+    "red": "SHOPPING",
+    "gold": "FEMMES"
+  },
+  "keywords": [
+    "Psychologie du shopping",
+    "Comportement du consommateur",
+    "Femmes",
+    "Shopping et émotions",
+    "Achats impulsifs",
+    "Dopamine",
+    "Identité"
+  ],
+  "searchIntent": "Émotions, récompense, identité et influence sociale : comprendre les achats grâce à des recherches vérifiées, sans stéréotypes ni mythes sur la dopamine.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-11",
+  "updatedAt": "2026-10-11",
+  "image": {
+    "src": "/articles/shopping-mall-ai-editorial-illustration.png",
+    "alt": "Illustration éditoriale générée par IA d’une femme portant des sacs de marques dans un centre commercial imaginaire, sans représenter une cliente réelle ni un soutien des marques"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Imaginez une femme entrant dans un centre commercial avec une mission précise : remplacer des chaussures usées. Une vitrine suggère une autre tenue ; un message annonce une promotion ; un sac familier évoque un souvenir. À la caisse, la démarche pratique a peut-être acquis des dimensions affectives et sociales. Cette scène est imaginaire, pas un reportage sur une cliente réelle. Elle montre comment un achat dépasse parfois la transaction sans révéler une vérité universelle sur les femmes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les décisions d’achat naissent des besoins, des attentes, des émotions, des ressources et de l’environnement. Les femmes ne forment pas une catégorie psychologique uniforme, et les hommes n’échappent pas aux mêmes mécanismes. Les recherches sur la récompense, l’identité et l’impulsion offrent des explications utiles, mais ne prouvent pas une programmation biologique des femmes pour dépenser. La question intéressante est comment une personne particulière, soumise à des pressions particulières, en vient à désirer un objet particulier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire les courses, vivre une expérience ou partager un moment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Acheter des aliments, remplacer des vêtements professionnels, choisir un cadeau et parcourir les rayons de mode sont des activités différentes, même dans un même magasin. Leurs objectifs varient : efficacité, attention à autrui, curiosité, plaisir ou solution pratique. Une sortie peut en réunir plusieurs. Lire chaque sac comme une indulgence efface le travail derrière de nombreux achats ; considérer toute dépense comme nécessaire efface le plaisir qui peut aussi l’accompagner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deux clientes hypothétiques dans le même rayon peuvent chercher une tenue fiable pour un nouvel emploi ou simplement explorer des couleurs. Elles pourraient choisir le même vêtement pour des raisons différentes. Une personne peut également acheter autrement selon les jours. Une explication utile commence donc par la tâche et le contexte, pas uniquement par le genre. Revenus, temps, accessibilité et conséquences d’un mauvais choix comptent aux côtés des émotions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que disent réellement les différences de genre ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La revue de Janet Shibley Hyde de 2005 défend l’hypothèse des similarités entre genres, soulignant des ressemblances importantes sur de nombreuses variables psychologiques. Il s’agit d’une analyse générale, pas d’une preuve que les habitudes d’achat sont identiques. Sa pertinence est méthodologique : une différence moyenne doit être interprétée selon son ampleur, son contexte et le chevauchement des distributions. Un titre sur les femmes ne doit pas attribuer à chacune une personnalité tirée d’une comparaison statistique. [Hyde : similarités entre genres, 2005](https://pubmed.ncbi.nlm.nih.gov/16173891/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des différences observées peuvent refléter les intérêts, l’exposition, les responsabilités, les revenus ou les attentes sociales, ainsi que les préférences individuelles. Un échantillon d’abonnées à des comptes de mode ne représente pas toutes les femmes ; une enquête nationale ne décrit pas toutes les cultures. Les études utilisent aussi souvent des catégories binaires limitées, qui ne couvrent pas toutes les identités et situations. Expliquer une différence exige davantage qu’une étiquette ; comprendre une personne, davantage qu’une moyenne."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dopamine : désirer n’est pas la même chose qu’apprécier"
+    },
+    {
+      "type": "paragraph",
+      "text": "La récompense n’est pas une sensation unique produite par une molécule unique. La revue de Kent Berridge et Terry Robinson de 2016 distingue le désir motivationnel du plaisir ressenti et discute le rôle de la dopamine dans la motivation incitative. Une grande partie de ces travaux concerne les mécanismes de récompense et l’addiction, notamment chez l’animal. Elle ne démontre ni un pic mesuré de dopamine provoqué par un sac chez toutes les femmes ni une addiction liée au simple plaisir du shopping. [Berridge et Robinson : plaisir et désir, 2016](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction permet de penser prudemment l’anticipation. Attendre un colis et apprécier son contenu n’ont pas nécessairement la même intensité ou durée. C’est une illustration quotidienne, pas un diagnostic ni une mesure chimique. Une image colorée du cerveau ne détermine pas un ressenti ; une habitude d’achat ne révèle pas un niveau de neurotransmetteur. L’idée d’un cerveau féminin spécialement destiné au shopping exige des preuves directes, pas des présupposés culturels."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Une décision d’achat : attrait et coût du paiement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une expérience publiée dans Neuron en 2007, Brian Knutson et ses collègues ont étudié des décisions d’achat par IRM fonctionnelle. La préférence pour un produit et les prix jugés excessifs étaient associés à des profils d’activité différents, notamment dans le noyau accumbens et l’insula ; ces signaux contribuaient à prédire les choix suivants. Ces observations contrôlées concernent un processus décisionnel. Elles n’expliquent pas chaque achat en magasin et ne mesurent pas directement la dopamine libérée. [Knutson et collègues : prédiction des achats, 2007](https://www.cmu.edu/dietrich/sds/docs/loewenstein/NeuralPredPuchase.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’intérêt pratique est de considérer ensemble l’attrait et le coût. Un objet désirable demande de l’argent, du rangement, de l’entretien et renonce à d’autres usages de cette somme. Ces compromis se voient facilement à certains moments et s’oublient à d’autres. Les neurosciences permettent de les étudier sans découvrir un bouton unique de l’achat. Elles ne dispensent pas les entreprises d’afficher des prix clairs et ne rendent pas les consommateurs incapables de réflexion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Shopping et émotions : soulagement, contrôle et limites"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude de Scott Rick, Beatriz Pereira et Katherine Burson, publiée en 2014 dans le Journal of Consumer Psychology, constate que faire des choix d’achat réduisait une tristesse persistante dans des expériences, avec des résultats soutenant le rôle du contrôle retrouvé. Cet effet ne s’étendait pas à la colère. Certains choix étaient hypothétiques. Le résultat est donc plus étroit qu’une promesse de guérison de la détresse, de bonheur permanent ou de traitement de la dépression. [Rick, Pereira et Burson : choix et tristesse, 2014](https://scottrick.com/wp-content/uploads/2019/07/RetailTherapy.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Choisir offre parfois un petit domaine dans lequel on décide de la suite. Cela aide à comprendre l’expression retail therapy sans la transformer en thérapie clinique. Il faut aussi examiner les conséquences du soulagement. Une dépense abordable et une obligation impossible à payer sont des situations différentes. L’étude ne démontre pas qu’un achat plus cher soulage davantage. Un après-midi agréable peut être apprécié pour lui-même sans devoir résoudre un problème émotionnel persistant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mode et identité : s’habiller pour un soi possible"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le texte de Russell Belk de 1988 sur les possessions et l’identité étendue propose un cadre conceptuel pour comprendre les objets qui participent au sentiment de soi. C’est une synthèse de travaux, pas un essai neurologique. Les vêtements peuvent entrer dans ce cadre : ils expriment une continuité avec le passé, une affiliation ou un nouveau rôle. Cela ne signifie ni que la mode est superficielle ni que l’on achète une identité entière. [Belk : possessions et identité étendue, 1988](https://academic.oup.com/jcr/article-abstract/15/2/139/1841428)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une femme choisissant une tenue pour une présentation peut rechercher confort, formalité et sentiment de préparation. Une autre aime simplement l’apparence d’un manteau coloré. Ce sont des possibilités illustratives, pas des témoignages ou des cas cliniques. Un objet aide parfois à exprimer une identité existante. La charge devient plus lourde lorsqu’il doit fournir confiance, acceptation ou une vie entièrement nouvelle. Aucun vêtement ne garantit la réponse des autres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pression sociale : quelles attentes entrent dans la cabine ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’achat se négocie parfois avec un public imaginé : collègues, proches ou personnes vues en ligne. Une tenue est évaluée selon sa place dans un contexte autant que selon le goût de celle qui la porte. C’est une lecture de l’identité et des signaux sociaux, pas une affirmation que toutes les femmes cherchent l’approbation. Les hommes rencontrent aussi des attentes concernant apparence, équipement ou statut, et le public pertinent varie selon les communautés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il faut distinguer préférence et pression. Apprécier une tendance peut être volontaire ; se sentir incapable d’assister à une occasion sans acheter du neuf peut être pesant. L’achat visible ne révèle pas ce qui s’est passé. Une photo de nombreux sacs ne montre ni satisfaction, ni dette, ni motivation. L’analyse doit reconnaître plaisir et autonomie tout en interrogeant les attentes qui restreignent les choix que les personnes pensent pouvoir faire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Influenceurs : la familiarité n’est pas une preuve indépendante"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les recherches de Sokolova et Kefi, publiées dans un numéro de 2020 du Journal of Retailing and Consumer Services, étudient crédibilité, interaction parasociale et intentions d’achat. Une association avec une intention ne prouve pas un achat réel chez chaque abonné ni une vente causée par le visionnage. L’étude concerne un public et un protocole précis. Elle aide à distinguer intérêt, proximité perçue et comportement effectivement observé. [Sokolova et Kefi : influenceurs et intentions, 2020](https://www.sciencedirect.com/science/article/abs/pii/S0969698918307963)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un influenceur peut proposer une démonstration utile, mais une recommandation séduisante laisse des questions. Le produit a-t-il été payé, offert ou associé à une commission ? Correspond-il aux besoins du public ? Les recommandations de la Federal Trade Commission américaine demandent une divulgation claire des liens commerciaux importants. Ce principe de protection ne signifie pas que toute critique sponsorisée est fausse. L’information commerciale aide à juger avec contexte, plutôt qu’à confondre une présentation familière avec de l’indépendance. [FTC : influenceurs et transparence commerciale](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L’achat impulsif dépasse les stéréotypes de genre"
+    },
+    {
+      "type": "paragraph",
+      "text": "La méta-analyse d’Iyer, Blut, Xiao et Grewal, publiée en ligne en 2019 puis dans un volume de 2020, rassemble 231 échantillons et plus de 75 000 consommateurs. Elle identifie des facteurs internes et externes associés à l’achat impulsif et souligne les variations contextuelles. L’âge et le genre y sont moins utiles pour prédire le phénomène qu’un stéréotype simpliste le laisserait croire. C’est une synthèse d’études variées, pas une expérience établissant une cause unique. [Iyer et collègues : méta-analyse des achats impulsifs, 2020](https://link.springer.com/article/10.1007/s11747-019-00670-w)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un achat impulsif implique une envie soudaine ; un achat non prévu n’est pas forcément impulsif. Se rappeler que le foyer a besoin de piles en les voyant diffère d’acheter immédiatement un objet inconnu sous une forte envie. La distinction évite de qualifier une spontanéité utile d’échec. Elle clarifie aussi la situation lorsque l’envie dépasse les priorités de l’acheteur. La catégorie du produit ne suffit pas à déterminer le type de décision."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le magasin : un espace de choix soigneusement organisé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Placement, présentoirs, emballages et assistance organisent ce qui attire l’attention et la facilité de comparaison. Les travaux sur les achats impulsifs incluent des stimuli commerciaux, mais leurs effets dépendent du contexte. Ils ne permettent pas d’affirmer qu’un parfum fait acheter les femmes, que toute musique augmente les dépenses ou que chaque miroir trompe. Une analyse responsable distingue présentation ordinaire et techniques particulières nécessitant leurs propres preuves."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaginez une veste placée près d’un sac assorti. L’ensemble se visualise plus facilement, sans prouver qu’un achat est nécessaire. Essayer un vêtement adapté réduit réellement l’incertitude sur la coupe ; un compliment peut rendre la décision plus agréable sans établir la qualité. Ces exemples hypothétiques montrent comment le contexte accompagne ou influence le choix. Ils ne doivent pas devenir des accusations contre une enseigne ni une explication universelle de la vulnérabilité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "En ligne : commodité et architecture de l’urgence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les achats en ligne réduisent certaines contraintes pratiques en facilitant comparaison et accès. Ils présentent aussi des choix au moyen de minuteries, de sollicitations répétées et d’informations sélectionnées. Dans Bringing Dark Patterns to Light, son rapport de 2022, la FTC documente fausse urgence, informations dissimulées et obstacles à la résiliation. Il fournit des exemples réels de conception problématique, sans démontrer que chaque compte à rebours ou paiement rapide est trompeur. [FTC : interfaces trompeuses, 2022](https://www.ftc.gov/reports/bringing-dark-patterns-light)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La différence tient à une présentation qui informe ou déforme la décision. Une échéance réelle précise la fin d’une offre ; une minuterie sans fondement qui se réinitialise crée une pression sans limite réelle. Des frais de livraison clairs facilitent la comparaison ; des frais tardivement révélés peuvent la compromettre. Ces problèmes concernent tous les genres. La question éthique est de savoir si les personnes ont une possibilité équitable de comprendre et de refuser l’offre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Promotions, noms prestigieux et sentiment de bonne affaire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une remise compare des prix, pas l’utilité de l’objet pour l’acheteur. Un produit réduit depuis un prix élevé peut encore dépasser celui d’une alternative adaptée. Un nom connu façonne aussi les attentes. [Psychologie des marques](/articles/psychology-of-brands-why-we-pay-more-for-a-name/), notre article PRESDA, explore ce processus avec Plassmann, McClure, Belk et Veblen. Une remise ou un nom prestigieux ne prouve pas l’adéquation à un besoin. Le prix de référence mérite vérification : l’économie annoncée n’informe que si la comparaison est pertinente et le total, livraison comprise, clair."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demandez-vous ce qui rendrait l’achat intéressant sans le message promotionnel. Une bonne affaire peut répondre à un besoin existant à un coût compétitif ; elle peut devenir une dépense évitable si l’offre crée le besoin. C’est une comparaison pratique, pas une règle contre les promotions. Séparez prix, qualité et moment, pour apprécier la valeur trouvée sans confondre économie sur un prix et économie réelle d’argent."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Paiements fractionnés : de petites échéances font un prix entier"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fractionner un prix change sa présentation sans effacer l’obligation. Le Consumer Financial Protection Bureau américain avertit que le paiement différé peut comporter des frais de retard et, selon les modalités, des frais bancaires de découvert ou de provision insuffisante. Les contrats varient. Il s’agit d’informations officielles sur des coûts possibles, pas d’une affirmation que toutes les offres facturent des intérêts ou que tous les utilisateurs rencontrent des difficultés. [CFPB : frais du paiement différé](https://www.consumerfinance.gov/ask-cfpb/do-buy-now-pay-later-bnpl-loans-have-fees-en-2118/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mettez le prix entier et les dates d’échéance en regard des obligations existantes. Plusieurs petites mensualités peuvent tomber ensemble. Retours, remboursements et prélèvements automatiques doivent être examinés avant l’engagement. Il s’agit de visibilité et de compréhension, pas d’un jugement moral sur le crédit. Une petite échéance ne démontre pas l’accessibilité financière ; une offre sans intérêts doit encore être lue pour ses frais, conditions et conséquences d’un paiement manqué."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand l’achat devient nocif : ni honte ni diagnostic improvisé"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’achat compulsif concerne un comportement répété, difficile à contrôler et lourd de conséquences, pas simplement une garde-robe fournie. Les enquêtes britanniques de Helga Dittmar de 2005 examinent genre, âge et valeurs matérialistes ; ces dernières y constituent le prédicteur le plus fort. Ces associations ne démontrent pas une cause innée. Elles ne permettent pas non plus de diagnostiquer quelqu’un à partir d’une photo ou d’un ticket de caisse. [Dittmar : achats compulsifs, genre et valeurs, 2005](https://pubmed.ncbi.nlm.nih.gov/16248937/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’enquête téléphonique américaine de Koran et collègues de 2006 estimait le phénomène à 6,0 % chez les femmes et 5,5 % chez les hommes interrogés. Ce sont des estimations historiques fondées sur un instrument, pas des taux mondiaux actuels. Elles contestent l’idée d’un problème exclusivement féminin sans prouver une égalité partout. Détresse durable, dommages financiers ou perte de contrôle justifient une discussion bienveillante et une évaluation appropriée. Moqueries et étiquettes n’expliquent ni ne résolvent les conséquences. [Koran et collègues : enquête américaine historique, 2006](https://pubmed.ncbi.nlm.nih.gov/17012693/)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Donner de l’espace à une décision réfléchie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant une dépense imprévue, nommez le besoin et le bénéfice attendu. Remplacer un objet, apprécier un design, exprimer une identité ou changer un sentiment ? Comparez le total, vérifiez les retours et envisagez une pause si l’urgence vient surtout de la présentation. Ces étapes proposées par PRESDA sont pratiques, pas un traitement clinique ni une technique scientifiquement garantie pour supprimer tout achat impulsif."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’objectif n’est pas de retirer tout plaisir au shopping. Un budget lui réserve une place tout en protégeant les priorités. Une liste sauvegardée conserve une idée sans engagement immédiat. Demander si l’objet convient à ce que vous possédez peut être plus utile que lui demander de compléter une vie idéale. Si les achats causent des dommages répétés, une pause peut être insuffisante. Chercher du soutien reste compatible avec l’autonomie et n’exige pas d’avoir honte d’aimer les belles choses."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que reste-t-il une fois les sacs ouverts ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La recherche propose plusieurs perspectives, pas un portrait unique des femmes. Décisions en laboratoire, questionnaires, méta-analyses et théories répondent à des questions différentes ; leurs limites doivent accompagner leurs résultats. Les exemples commerciaux éclairent l’environnement sans identifier les motivations individuelles. L’image du centre commercial est une illustration éditoriale générée par IA, pas une preuve des dépenses, émotions ou relations d’une cliente avec les marques affichées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Revenons à la démarche imaginaire pour des chaussures. La bonne paire peut satisfaire parce qu’elle résout un problème, parce que choisir redonne un peu de contrôle ou parce que le design correspond à la personne. Ces raisons coexistent. La question n’est pas pourquoi les femmes achètent comme si elles partageaient un secret, mais ce que chacun attend d’un achat. Une fois les sacs ouverts, le meilleur choix reste cohérent avec la vie qu’il devait servir."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Les femmes aiment-elles naturellement plus le shopping que les hommes ?",
+      "answer": "Il n’existe pas de règle universelle. Les motivations dépendent de la personne, du produit, des responsabilités, des ressources et du contexte social. Une différence moyenne ne prouve pas une disposition féminine innée."
+    },
+    {
+      "question": "Le shopping libère-t-il de la dopamine ?",
+      "answer": "Les neurosciences associent la dopamine à la motivation et à l’apprentissage. Mais un achat ou un signal d’imagerie ne démontre pas directement une libération précise. La dopamine n’est pas simplement la molécule du plaisir, et cette réponse n’est pas propre aux femmes."
+    },
+    {
+      "question": "Le shopping aide-t-il à se sentir mieux ?",
+      "answer": "Des expériences ont montré que faire des choix d’achat pouvait réduire une tristesse persistante dans certaines conditions, en partie par un sentiment de contrôle retrouvé. Cela ne prouve pas un bénéfice durable ni un traitement de la dépression."
+    },
+    {
+      "question": "Achat impulsif et achat compulsif sont-ils identiques ?",
+      "answer": "Non. L’achat impulsif répond à une envie soudaine. L’achat compulsif concerne une répétition d’achats mal contrôlés avec des conséquences importantes ; une évaluation est nécessaire, pas un diagnostic à partir d’une sortie shopping."
+    },
+    {
+      "question": "Comment acheter de manière plus réfléchie ?",
+      "answer": "Identifier le besoin, comparer le coût total, vérifier les liens commerciaux et envisager une pause avant un achat imprévu. Ce sont des conseils pratiques, pas un remplacement de l’aide professionnelle lorsque les achats causent des dommages durables."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Hyde : similarités entre genres, 2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16173891/"
+    },
+    {
+      "label": "Berridge et Robinson : plaisir et désir, 2016",
+      "url": "https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf"
+    },
+    {
+      "label": "Knutson et collègues : prédiction des achats, 2007",
+      "url": "https://www.cmu.edu/dietrich/sds/docs/loewenstein/NeuralPredPuchase.pdf"
+    },
+    {
+      "label": "Rick, Pereira et Burson : choix et tristesse, 2014",
+      "url": "https://scottrick.com/wp-content/uploads/2019/07/RetailTherapy.pdf"
+    },
+    {
+      "label": "Belk : possessions et identité étendue, 1988",
+      "url": "https://academic.oup.com/jcr/article-abstract/15/2/139/1841428"
+    },
+    {
+      "label": "Sokolova et Kefi : influenceurs et intentions, 2020",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0969698918307963"
+    },
+    {
+      "label": "FTC : influenceurs et transparence commerciale",
+      "url": "https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews"
+    },
+    {
+      "label": "Iyer et collègues : méta-analyse des achats impulsifs, 2020",
+      "url": "https://link.springer.com/article/10.1007/s11747-019-00670-w"
+    },
+    {
+      "label": "FTC : interfaces trompeuses, 2022",
+      "url": "https://www.ftc.gov/reports/bringing-dark-patterns-light"
+    },
+    {
+      "label": "CFPB : frais du paiement différé",
+      "url": "https://www.consumerfinance.gov/ask-cfpb/do-buy-now-pay-later-bnpl-loans-have-fees-en-2118/"
+    },
+    {
+      "label": "Dittmar : achats compulsifs, genre et valeurs, 2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16248937/"
+    },
+    {
+      "label": "Koran et collègues : enquête américaine historique, 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17012693/"
+    }
+  ]
+}
