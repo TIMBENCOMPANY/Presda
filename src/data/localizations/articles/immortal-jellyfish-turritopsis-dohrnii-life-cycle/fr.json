@@ -1,0 +1,337 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/immortal-jellyfish-turritopsis-dohrnii-life-cycle/",
+  "path": "/fr/articles/immortal-jellyfish-turritopsis-dohrnii-life-cycle/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex fr source attribution and terminology review",
+    "reviewedAt": "2026-10-11",
+    "terminologyChecked": true
+  },
+  "title": "LA MÉDUSE IMMORTELLE : L’ANIMAL CAPABLE D’INVERSER SON CYCLE DE VIE",
+  "seoTitle": "Méduse immortelle : le cycle inversé de Turritopsis dohrnii",
+  "description": "Comment Turritopsis dohrnii redevient un polype, ce que révèlent les études génétiques et pourquoi cette capacité ne constitue pas un traitement anti-âge humain.",
+  "excerpt": "Comment Turritopsis dohrnii redevient un polype, ce que révèlent les études génétiques et pourquoi cette capacité ne constitue pas un traitement anti-âge humain.",
+  "headlineHighlights": {
+    "red": "MÉDUSE IMMORTELLE",
+    "gold": "INVERSER"
+  },
+  "keywords": [
+    "Turritopsis dohrnii",
+    "méduse immortelle",
+    "inversion du cycle de vie",
+    "transdifférenciation",
+    "régénération",
+    "vieillissement"
+  ],
+  "searchIntent": "Comment Turritopsis dohrnii redevient un polype, ce que révèlent les études génétiques et pourquoi cette capacité ne constitue pas un traitement anti-âge humain.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-11",
+  "updatedAt": "2026-10-11",
+  "image": {
+    "src": "/articles/immortal-jellyfish-ai-editorial-illustration.png",
+    "alt": "Illustration éditoriale générée par IA d’une méduse imaginaire à droite dans une eau bleue éclairée par le soleil, ni photographie scientifique ni représentation exacte de Turritopsis dohrnii"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Turritopsis dohrnii est un minuscule hydrozoaire marin dont la méduse nageuse peut revenir au stade polype et engendrer une nouvelle colonie. Cette inversion du développement explique son surnom de méduse immortelle. C’est une capacité biologique démontrée, pas une garantie de survie éternelle, et elle n’a fourni aucun traitement permettant d’inverser le vieillissement humain."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fascination est légitime. Les récits familiers du vieillissement suivent généralement une direction : l’animal se développe, se reproduit puis décline. Cette méduse peut emprunter un autre chemin. Pour comprendre cette possibilité, il faut regarder au-delà de la jolie cloche flottante et examiner une colonie fixée, une masse tissulaire intermédiaire et les expériences qui rendent visible une transformation autrement difficile à suivre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un animal remarquable de quelques millimètres"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cloche adulte mesure environ 4,5 millimètres de diamètre selon le [Natural History Museum](https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html). Son corps transparent entoure une structure digestive rougeâtre bien visible ; ses tentacules capturent de petites proies. Elle appartient aux hydrozoaires, dans le groupe des cnidaires qui comprend aussi les coraux et les anémones de mer. Malgré sa taille, elle possède des tissus organisés, des structures alimentaires et un système nerveux."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ses deux formes principales occupent des milieux différents. La méduse nage dans la colonne d’eau ; les polypes se fixent sur des surfaces et constituent des colonies. La [fiche du Smithsonian Environmental Research Center](https://invasions.si.edu/nemesis/calnemo/species_summary/-502) décrit des habitats rocheux méditerranéens et des occurrences plus lointaines, notamment au Panama. Son aire d’origine reste incertaine. Les navires peuvent transporter de petits organismes marins, mais une répartition mondiale ne prouve pas un rajeunissement continu partout où l’espèce est présente."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Une espèce ancienne, une surprise biologique plus récente"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nom de l’espèce remonte à la description de Weismann en 1883. L’inversion de son développement est devenue un sujet de recherche distinct bien plus tard. Un [article majeur du Biological Bulletin de 1996](https://doi.org/10.2307/1543022), signé Stefano Piraino, Ferdinando Boero, Brigitte Aeschbach et Volker Schmid, décrivait le retour de méduses en hydraires coloniaux, y compris après la maturité sexuelle. Son titre utilisait Turritopsis nutricula, conformément à la taxonomie alors appliquée aux animaux étudiés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette histoire des noms entretient encore la confusion. Le 19 janvier 2026, [Miglietta et ses collègues, dans Zootaxa](https://www.mapress.com/zt/article/view/zootaxa.5750.1.5), ont distingué la véritable T. nutricula de lignées voisines grâce à des individus collectés près de sa localité type en Caroline du Nord et à leur ADN mitochondrial. Les animaux testés ne présentaient pas la capacité associée à T. dohrnii. Les anciens titres exigent donc un contexte : ces noms ne sont pas interchangeables pour toutes les méduses du genre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le parcours habituel : planula, polype et méduse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans le cycle normal de Turritopsis, la fécondation produit une planula, petite larve qui finit par se fixer et devenir un polype. Celui-ci grandit sur une surface et étend une colonie par des structures connectées. Il peut se reproduire de façon asexuée en faisant bourgeonner des méduses. Ces animaux nageurs mûrissent et produisent des ovules ou des spermatozoïdes, ouvrant une nouvelle génération sexuée. L’[American Museum of Natural History](https://www.amnh.org/explore/news-blogs/immortal-jellyfish) explique cette alternance de stades fixés et nageurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un polype n’est pas simplement une version enfantine de la cloche flottante. Son organisation corporelle et son mode de vie diffèrent. Une colonie n’est pas non plus une méduse géante : elle comprend des unités alimentaires reliées. Ces distinctions rendent l’inversion spectaculaire. L’animal reconstruit une forme de développement aux tissus et fonctions différents, au lieu de seulement remplacer un tentacule ou de suspendre le vieillissement d’un corps qui resterait inchangé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que se passe-t-il pendant l’inversion ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La méduse qui inverse son cycle perd sa forme nageuse, se contracte et traverse un stade ressemblant à un kyste. Un stolon, structure de fixation qui s’étend, se développe ensuite et produit des polypes. La colonie pourra bourgeonner de nouvelles méduses. Des [travaux morphologiques publiés en 2003 dans Tissue and Cell](https://doi.org/10.1016/S0040-8166%2803%2900028-4) ont documenté les transformations corporelles, la dégénérescence cellulaire et l’apoptose. L’inversion implique un remodelage tissulaire, pas la conservation intacte de toutes les structures adultes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il faut suivre la flèche correctement. Le retour de méduse à polype contourne la fécondation et la planula ; il ne recrée pas l’œuf initial. Une méduse morte ne ressuscite pas non plus : des tissus vivants capables de se réorganiser doivent subsister. Une photographie d’un animal qui se contracte ne suffit pas à établir qu’il produira une colonie viable, que celle-ci donnera des méduses ou que ces dernières accompliront une nouvelle inversion."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand les cellules changent d’identité"
+    },
+    {
+      "type": "paragraph",
+      "text": "La transdifférenciation désigne le passage d’une cellule différenciée à une autre identité spécialisée. La reprogrammation cellulaire est un terme plus large pour la modification de certains aspects de l’état cellulaire et de l’activité des gènes. Les expériences de 1996 ont montré un potentiel inhabituel de transformation dans des tissus différenciés. La transdifférenciation fait légitimement partie de cette histoire, mais il serait prématuré de prétendre que le destin de chaque cellule a déjà été suivi à tous les stades."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’[étude transcriptomique de Matsumoto, Piraino et Miglietta de 2019](https://doi.org/10.1534/g3.119.400487) comparait l’activité génique des méduses, kystes et polypes. Le [profilage d’expression de Matsumoto et Miglietta de 2021](https://doi.org/10.1093/gbe/evab136) approfondissait les réseaux candidats associés à l’inversion. Un transcriptome relève l’activité des ARN et aide à choisir des processus à tester. Il ne prouve pas, à lui seul, qu’une cellule adulte donnée est devenue une cellule précise du polype ni qu’un gène est indispensable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le stress peut déclencher l’inversion, sans garantie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des expériences ont provoqué l’inversion par blessure, privation alimentaire, changements de température et autres traitements. Ce sont des contraintes biologiques, pas des conseils pour maintenir des méduses en bonne santé. La réponse dépend des individus, de leur stade, du traitement et du résultat retenu. Une intervention favorisant les kystes dans certaines conditions peut tuer des animaux ou ne pas produire de polypes pleinement développés dans d’autres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une [étude de 2025 de Juliana Giraldo-Meneses et Maria Pia Miglietta](https://doi.org/10.71161/ivb.144.1.2024.00023) a testé 102 méduses nouveau-nées exposées à la chaleur, à une salinité réduite, à des blessures et à un contrôle par privation alimentaire. Elle indiquait que 22 % n’avaient pas formé de kyste, tous traitements confondus. Ce résultat concerne une expérience définie et une étape intermédiaire, pas un taux de mortalité propre à toute l’espèce. Il contredit l’idée que toute méduse menacée rajeunit inévitablement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le laboratoire n’est pas une vie infinie dans l’océan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les preuves les plus solides viennent d’animaux suivis au fil des stades en culture. L’entretien des cultures permet de comparer tissus, activité génique et temporalité. Dans la nature, le problème est plus difficile : l’animal est minuscule, se déplace avec l’eau et peut disparaître de l’observation. Trouver méduses et polypes dans une région ne démontre pas qu’un individu suivi est passé de l’une de ces formes à l’autre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Présence naturelle et capacité expérimentale sont donc deux affirmations distinctes. Les recherches démontrent que le parcours est biologiquement possible, sans mesurer sa fréquence de réussite dans la nature. Une survie indéfinie exigerait davantage qu’une suite d’inversions réussies. Aucun individu âgé de plusieurs siècles ne possède une histoire continue vérifiée apportant cette preuve. La promesse populaire de vivre éternellement dépasse ce que peut établir toute observation de durée finie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que les études du génome ont réellement trouvé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 29 août 2022, [Maria Pascual-Torner et ses collègues de l’Université d’Oviedo ont publié dans PNAS](https://pmc.ncbi.nlm.nih.gov/articles/PMC9459311/) une comparaison entre T. dohrnii et T. rubra. Ils identifiaient des différences candidates dans des gènes associés à la réplication et à la réparation de l’ADN, aux télomères, aux processus oxydatifs et à la communication cellulaire. Des profils d’expression impliquaient aussi des voies de reprogrammation. Il s’agissait de mécanismes à explorer, pas d’un interrupteur expliquant définitivement l’immortalité."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une ressource indépendante a suivi. L’[article de Yoshinori Hasegawa et ses collègues dans DNA Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC9835754/), paru en ligne en décembre 2022 puis dans le numéro de février 2023, assemblait un génome grâce à des lectures longues et courtes. L’ADN provenait d’environ 1 500 jeunes méduses issues d’un clone. Ce travail élargissait les outils d’étude du développement et montrait l’importance de l’élevage et de la préparation des échantillons chez un animal si petit."
+    },
+    {
+      "type": "paragraph",
+      "text": "La réparation de l’ADN participe à l’entretien cellulaire ; les télomères sont des structures terminales des chromosomes qui contribuent à la stabilité génomique. Aucun de ces termes ne garantit simplement la longévité. La présence d’un gène, ses copies supplémentaires ou son expression peuvent suggérer une fonction sans prouver son effet sur l’organisme entier. Comparer des génomes génère des hypothèses ; modifier les candidats et observer les conséquences permet de tester une explication causale."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi un débat scientifique publié compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une [lettre publiée par PNAS en 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089194/), la biologiste marine Maria Pia Miglietta contestait certains aspects de la comparaison, de l’identification des espèces et de l’interprétation expérimentale. [Pascual-Torner et Víctor Quesada ont répondu](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089189/) en défendant leurs méthodes et conclusions. Une [correction ultérieure](https://pmc.ncbi.nlm.nih.gov/articles/PMC10083558/) ajoutait des séquences documentant l’identification. C’était un complément documentaire, pas l’annonce d’une rétractation intégrale de l’étude."
+    },
+    {
+      "type": "paragraph",
+      "text": "La leçon concerne les méthodes plutôt que les personnes. Un parent décrit comme incapable de rajeunir dans une expérience ne devient pas automatiquement un contraste universel et permanent. Espèce, maturité et durée d’observation modifient ce qui est mesuré. Ce débat n’efface pas l’inversion observée chez T. dohrnii. Il signifie que les explications génomiques précises doivent être examinées et rester des hypothèses jusqu’à l’obtention de preuves fonctionnelles plus robustes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les autres méduses enrichissent la comparaison"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe pas un cycle ordinaire identique chez toutes les méduses. Hydrozoaires et grandes méduses véritables ont des développements différents ; certains cnidaires régressent ou se régénèrent autrement que T. dohrnii. Une comparaison utile précise l’espèce, le stade, le traitement et le résultat. Répartir toutes les méduses dans deux cases, immortelles ou mortelles, fait perdre ces informations essentielles pour comprendre les observations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une [étude de Nature Communications de 2024](https://www.nature.com/articles/s41467-024-49848-z) a produit des ressources génomiques pour T. rubra et Aurelia coerulea, puis étudié le développement inverse de T. rubra par des analyses unicellulaires. Elle associait le kyste à une activité liée à la diapause, suggérant une stratégie de survie reposant sur un état de repos. Ce n’était pas la preuve d’une vie éternelle : inversion, dormance prolongée et rajeunissement répété démontré restent à distinguer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les recherches de 2026 : des indices ARN, pas un remède"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 24 août 2026, [Chunhui Ai, Lisheng He et Yong Wang ont publié dans Marine Biotechnology](https://link.springer.com/article/10.1007/s10126-026-10697-0) une analyse de 82 échantillons de séquençage ARN. Ils identifiaient des ARN longs non codants candidats associés au développement inverse et à l’activité de gènes intervenant dans réparation, différenciation et mort cellulaire. Ces ARN ne sont pas traduits en protéines mais peuvent participer à la régulation. L’étude ajoute des liens possibles dans un réseau complexe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les auteurs parlent de corrélations et de candidats, distinctions à conserver hors du journal. Deux signaux ARN évoluant ensemble ne prouvent ni que l’un cause l’autre ni que l’un contrôle le rajeunissement. Tester leur fonction et suivre les résultats de développement constitue une prochaine étape utile. Aucun médicament, complément ou acte médical humain ne découle de cette analyse. Le résultat est une ressource scientifique, pas une avancée clinique démontrée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi une méduse immortelle peut mourir"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’immortalité biologique désigne ici une possibilité d’échapper à un développement autrement unidirectionnel. Elle n’implique aucune immunité contre les prédateurs, les infections ou des conditions destructrices. Si des tissus indispensables sont dévorés ou irrémédiablement lésés, l’inversion ne sauve pas l’animal. Celui-ci doit toujours se nourrir, vivre dans un milieu adapté et survivre aux transitions. Une remarquable option de survie reste exposée aux risques écologiques ordinaires."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cela modifie aussi la question de la continuité individuelle. Une méduse devenue polype colonial donnant plusieurs méduses ne conserve pas un corps adulte inchangé. Continuité génétique, continuité du développement et idée quotidienne de l’âge individuel diffèrent. Les chercheurs peuvent étudier le rajeunissement répété sans résoudre chaque question philosophique d’identité. La difficulté à séparer ces notions ne suffit pas à attribuer une durée de vie infinie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Une aide possible pour la recherche sur la longévité humaine ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’espoir pertinent est de mieux comprendre la réparation et la plasticité cellulaires. Comment un tissu vivant change-t-il d’identité, coordonne-t-il sa reconstruction et survit-il à un remodelage radical ? Une [revue publiée en 2025 dans Revista Española de Geriatría y Gerontología](https://pubmed.ncbi.nlm.nih.gov/39719736/) discute des liens possibles avec le vieillissement. C’est une analyse de possibilités biologiques, pas un essai humain démontrant une inversion de l’âge ; sa portée doit rester celle d’une revue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les humains possèdent des organes, contraintes de développement et risques pathologiques très différents. Reprogrammer des cellules indistinctement ne préserverait pas leurs fonctions indispensables ; la prolifération incontrôlée constitue aussi un enjeu médical. Toute application exige des preuves causales, une intervention contrôlée et des tests de sécurité. La méduse suggère des questions, pas un calendrier thérapeutique. Elle ne démontre ni un retour de l’adulte humain à l’enfance ni les promesses commerciales de rajeunissement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les inconnues qui méritent encore d’être étudiées"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il faut des descriptions plus précises cellule par cellule, des tests fonctionnels des gènes candidats et des comparaisons de populations sûrement identifiées. Pourquoi certains animaux échouent-ils là où d’autres survivent ? Comment les transformations répétées influencent-elles la reproduction ultérieure ? L’observation écologique aiderait à établir leur contribution à la survie hors culture. Ces questions scientifiques sont importantes même sans perspective de produit destiné à prolonger la vie humaine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les articles PRESDA consacrés à [Jonathan, la tortue géante](/articles/jonathan-oldest-tortoise-194-years-aging/) et aux [cellules sanguines cultivées en laboratoire](/articles/artificial-blood-lab-grown-red-cells-restore-japan/) explorent d’autres dimensions de la longévité et de la biologie cellulaire. Longue vie, régénération tissulaire et inversion du développement sont des accomplissements distincts. Les comparer est utile précisément parce qu’ils ne doivent pas être confondus avec l’affirmation que toutes les formes du vieillissement seraient déjà vaincues."
+    },
+    {
+      "type": "paragraph",
+      "text": "La leçon majeure de la méduse immortelle est que le développement peut être plus souple que nos vies animales familières ne le suggèrent. Son avenir ne se limite pas à la forme nageuse reconnaissable. L’émerveillement résiste aux limites exactes : un organisme minuscule peut se réorganiser en un autre stade tout en restant vulnérable et imparfaitement compris. Cette découverte sur le vivant est profonde, sans nécessiter une promesse d’éternité."
+    },
+    {
+      "type": "paragraph",
+      "text": "À propos de l’image : le visuel principal est une illustration éditoriale générée par IA d’une méduse dans une eau bleue ensoleillée. Il ne s’agit ni d’une photographie scientifique authentique, ni d’une anatomie exacte de Turritopsis dohrnii, ni d’un enregistrement de l’inversion du cycle."
+    }
+  ],
+  "faq": [
+    {
+      "question": "La méduse immortelle est-elle vraiment immortelle ?",
+      "answer": "Ce surnom désigne sa capacité à inverser son développement et à répéter potentiellement son cycle. Il ne signifie ni qu’un individu ne peut mourir ni qu’une durée de vie infinie a été mesurée."
+    },
+    {
+      "question": "Comment Turritopsis dohrnii rajeunit-elle ?",
+      "answer": "Dans certaines conditions, la méduse se contracte en un stade ressemblant à un kyste, produit un stolon puis des polypes. Ceux-ci peuvent ensuite donner de nouvelles méduses par bourgeonnement. Elle ne redevient pas un œuf fécondé."
+    },
+    {
+      "question": "Quelle taille atteint Turritopsis dohrnii ?",
+      "answer": "Sa cloche adulte mesure environ 4,5 millimètres de diamètre selon le Natural History Museum. La taille dépend du développement ; l’image générée par IA n’est pas une référence de dimensions."
+    },
+    {
+      "question": "Toutes les méduses stressées réussissent-elles à inverser leur cycle ?",
+      "answer": "Non. La réussite dépend des conditions et du résultat mesuré. Une étude de 2025 sur 102 méduses nouveau-nées indiquait que 22 % n’avaient pas formé de kyste, tous traitements confondus. La formation d’un kyste ne suffit pas à prouver l’accomplissement de tout le cycle."
+    },
+    {
+      "question": "Peut-on utiliser cette biologie pour inverser le vieillissement humain ?",
+      "answer": "Ces études ne démontrent aucun traitement humain inversant l’âge. Elles fournissent des hypothèses sur la plasticité et la réparation cellulaires, qui nécessitent des expériences fonctionnelles et une évaluation médicale distinctes."
+    },
+    {
+      "question": "Un rajeunissement illimité a-t-il été observé dans la nature ?",
+      "answer": "Les études contrôlées démontrent l’inversion au laboratoire. Elles n’établissent pas la fréquence de cycles répétés dans la nature ni la survie indéfinie d’un individu sauvage."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Muséum d’histoire naturelle : biologie et taille",
+      "url": "https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html"
+    },
+    {
+      "label": "Smithsonian : fiche de l’espèce",
+      "url": "https://invasions.si.edu/nemesis/calnemo/species_summary/-502"
+    },
+    {
+      "label": "Piraino et collègues : inversion du cycle, 1996",
+      "url": "https://doi.org/10.2307/1543022"
+    },
+    {
+      "label": "Miglietta et collègues : identification de T. nutricula, janvier 2026",
+      "url": "https://www.mapress.com/zt/article/view/zootaxa.5750.1.5"
+    },
+    {
+      "label": "Muséum américain d’histoire naturelle : cycle de vie",
+      "url": "https://www.amnh.org/explore/news-blogs/immortal-jellyfish"
+    },
+    {
+      "label": "Carla’ et collègues : remodelage des tissus, 2003",
+      "url": "https://doi.org/10.1016/S0040-8166%2803%2900028-4"
+    },
+    {
+      "label": "Matsumoto et collègues : transcriptome, 2019",
+      "url": "https://doi.org/10.1534/g3.119.400487"
+    },
+    {
+      "label": "Matsumoto et Miglietta : expression génétique, 2021",
+      "url": "https://doi.org/10.1093/gbe/evab136"
+    },
+    {
+      "label": "Giraldo-Meneses et Miglietta : expérience de stress, 2025",
+      "url": "https://doi.org/10.71161/ivb.144.1.2024.00023"
+    },
+    {
+      "label": "Pascual-Torner et collègues : génomique comparative, 2022",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9459311/"
+    },
+    {
+      "label": "Hasegawa et collègues : génome, en ligne 2022 / numéro 2023",
+      "url": "https://doi.org/10.1093/dnares/dsac047"
+    },
+    {
+      "label": "Miglietta : critique scientifique, 2023",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10089194/"
+    },
+    {
+      "label": "Pascual-Torner et Quesada : réponse, 2023",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10089189/"
+    },
+    {
+      "label": "PNAS : correction d’identification, 2023",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10083558/"
+    },
+    {
+      "label": "Nature Communications : diapause et inversion, 2024",
+      "url": "https://www.nature.com/articles/s41467-024-49848-z"
+    },
+    {
+      "label": "Ai, He et Wang : ARN non codifiants, 24 août 2026",
+      "url": "https://link.springer.com/article/10.1007/s10126-026-10697-0"
+    },
+    {
+      "label": "Velasco-Muñoz et collègues : revue sur le vieillissement, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39719736/"
+    }
+  ]
+}

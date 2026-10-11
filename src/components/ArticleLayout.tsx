@@ -1,5 +1,6 @@
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { SonghaiGraphics } from "@/components/SonghaiGraphics";
+import { JellyfishGraphics } from "@/components/JellyfishGraphics";
 import { PlasticSurgeryGraphics } from "@/components/PlasticSurgeryGraphics";
 import { ArtificialBloodGraphics } from "@/components/ArtificialBloodGraphics";
 import { PassportGraphics } from "@/components/PassportGraphics";
@@ -289,6 +290,8 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </div>
         </header>
 
+        {article.slug === "immortal-jellyfish-turritopsis-dohrnii-life-cycle" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "Illustration éditoriale générée par IA. Ce n’est ni une photographie scientifique ni une représentation exacte de Turritopsis dohrnii." : locale === "es" ? "Ilustración editorial generada por IA. No es una fotografía científica ni una representación exacta de Turritopsis dohrnii." : locale === "ar" ? "رسم تحريري مولد بالذكاء الاصطناعي، وليس صورة علمية أو تمثيلا دقيقا لقنديل Turritopsis dohrnii." : "AI-generated editorial illustration. Not a scientific photograph or an exact depiction of Turritopsis dohrnii."}</p>}
+
         <div className="mt-10">
           {article.slug === "casablanca-madrid-2030-world-cup-final" && <div className="mb-7"><ReaderPoll locale={locale} /></div>}
           <div className="flow-root min-w-0 space-y-7 rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] sm:p-8 lg:p-10">
@@ -331,6 +334,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "immortal-jellyfish-turritopsis-dohrnii-life-cycle" && [10, 32, 35].includes(originalIndex)) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><JellyfishGraphics locale={locale} kind={originalIndex === 10 ? "cycle" : originalIndex === 32 ? "comparison" : "timeline"} /></div>;
+              }
               if (article.slug === "songhai-empire-gao-askia-tondibi-1591" && [1, 13, 17, 21, 41].includes(originalIndex)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><SonghaiGraphics locale={locale} kind={originalIndex === 1 ? "timeline" : originalIndex === 13 ? "rulers" : originalIndex === 17 ? "cities" : originalIndex === 21 ? "economy" : "invasion"} /></div>;
               }
