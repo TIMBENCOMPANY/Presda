@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "psychology-of-serial-killers-what-science-knows": {
+    en: { red: "SERIAL KILLERS", gold: "SCIENCE" },
+    fr: { red: "TUEURS", gold: "SCIENCE" },
+    ar: { red: "القتلة المتسلسلين", gold: "العلم" },
+    es: { red: "ASESINOS", gold: "CIENCIA" }
+  },
   "lie-detectors-can-science-really-detect-deception": {
     en: { red: "DETECTORS", gold: "DECEPTION" },
     fr: { red: "MENSONGES", gold: "TROMPERIE" },

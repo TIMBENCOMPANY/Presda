@@ -1,0 +1,173 @@
+{
+  "checkedAt": "2026-10-12",
+  "verificationTimezone": "Europe/Istanbul",
+  "publicationDateBasis": "UTC day; do not future-date against the publication scheduler",
+  "sources": {
+    "fbi": {
+      "url": "https://www.fbi.gov/stats-services/publications/serial-murder/serial-murder-july-2008-pdf",
+      "labels": [
+        "FBI multidisciplinary report, 2008",
+        "Rapport multidisciplinaire du FBI, 2008",
+        "Informe multidisciplinar del FBI, 2008",
+        "تقرير مكتب التحقيقات الفيدرالي، 2008"
+      ]
+    },
+    "primer": {
+      "url": "https://www.nature.com/articles/s41572-021-00282-1",
+      "labels": [
+        "De Brito et al.: psychopathy, 2021",
+        "De Brito et coll. : psychopathie, 2021",
+        "De Brito y colaboradores: psicopatía, 2021",
+        "دي بريتو وزملاؤه: السيكوباتية، 2021"
+      ]
+    },
+    "narcissism": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34292012/",
+      "labels": [
+        "Kjærvik and Bushman, 2021",
+        "Kjærvik et Bushman, 2021",
+        "Kjærvik y Bushman, 2021",
+        "كيرفيك وبوشمان، 2021"
+      ]
+    },
+    "brain": {
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1681369",
+      "labels": [
+        "Decety, Skelly and Kiehl, 2013",
+        "Decety, Skelly et Kiehl, 2013",
+        "Decety, Skelly y Kiehl, 2013",
+        "ديسيتي وسكيلي وكيل، 2013"
+      ]
+    },
+    "biology": {
+      "url": "https://www.cambridge.org/core/journals/personality-neuroscience/article/born-this-way-a-review-of-neurobiological-and-environmental-evidence-for-the-etiology-of-psychopathy/3303021C554B8D3AB5476C31F6CC4E7A",
+      "labels": [
+        "Frazier et al.: biology and environment review",
+        "Frazier et coll. : biologie et environnement",
+        "Frazier y colaboradores: biología y ambiente",
+        "فريزر وزملاؤه: مراجعة البيولوجيا والبيئة"
+      ]
+    },
+    "genes": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12161658/",
+      "labels": [
+        "Caspi et al., Science, 2002",
+        "Caspi et coll., Science, 2002",
+        "Caspi y colaboradores, Science, 2002",
+        "كاسبي وزملاؤه، Science، 2002"
+      ]
+    },
+    "trauma": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30122119/",
+      "labels": [
+        "Fitton et al.: prospective-study review, 2020 issue",
+        "Fitton et coll. : revue prospective, numéro de 2020",
+        "Fitton y colaboradores: revisión prospectiva, edición de 2020",
+        "فيتون وزملاؤه: مراجعة الدراسات المستقبلية، عدد 2020"
+      ]
+    },
+    "bundy": {
+      "url": "https://www.fbi.gov/news/stories/serial-killers-part-3-ted-bundys-campaign-of-terror1",
+      "labels": [
+        "FBI: Bundy investigation",
+        "FBI : enquête Bundy",
+        "FBI: investigación Bundy",
+        "مكتب التحقيقات الفيدرالي: قضية بندي"
+      ]
+    },
+    "dahmer": {
+      "url": "https://www.fbi.gov/news/stories/serial-killers-part-7-jeffrey-dahmer",
+      "labels": [
+        "FBI: Dahmer investigation",
+        "FBI : enquête Dahmer",
+        "FBI: investigación Dahmer",
+        "مكتب التحقيقات الفيدرالي: قضية دامر"
+      ]
+    },
+    "gacy": {
+      "url": "https://www.cookcountysheriff.org/departments/c-c-s-p-d/history-of-the-cook-county-sheriffs-police/",
+      "labels": [
+        "Cook County Sheriff: investigative history",
+        "Shérif du comté de Cook : histoire des enquêtes",
+        "Sheriff de Cook: historia de investigaciones",
+        "شريف مقاطعة كوك: تاريخ التحقيقات"
+      ]
+    },
+    "ramirez": {
+      "url": "https://law.justia.com/cases/california/supreme-court/2006/s012944.html",
+      "labels": [
+        "California Supreme Court: Ramirez, 2006",
+        "Cour suprême de Californie : Ramirez, 2006",
+        "Tribunal Supremo de California: Ramirez, 2006",
+        "محكمة كاليفورنيا العليا: راميريز، 2006"
+      ]
+    },
+    "profiling": {
+      "url": "https://eprints.hud.ac.uk/id/eprint/8639/1/CanterOrganised.pdf",
+      "labels": [
+        "Canter et al.: typology test, 2004",
+        "Canter et coll. : examen de la typologie, 2004",
+        "Canter y colaboradores: prueba de tipología, 2004",
+        "كانتر وزملاؤه: اختبار التصنيف، 2004"
+      ]
+    },
+    "triad": {
+      "url": "https://kar.kent.ac.uk/66782/",
+      "labels": [
+        "Parfitt and Alleyne: critical review, 2018/2020",
+        "Parfitt et Alleyne : revue critique, 2018/2020",
+        "Parfitt y Alleyne: revisión crítica, 2018/2020",
+        "بارفيت وألاين: مراجعة نقدية، 2018/2020"
+      ]
+    },
+    "mental": {
+      "url": "https://www.apa.org/monitor/2021/04/ce-mental-illness",
+      "labels": [
+        "APA: mental illness and violence, updated 2022",
+        "APA : troubles mentaux et violence, actualisé en 2022",
+        "APA: trastornos mentales y violencia, actualizado en 2022",
+        "الجمعية الأمريكية لعلم النفس: الاضطراب والعنف، تحديث 2022"
+      ]
+    },
+    "polygraphInternal": {
+      "url": "/articles/lie-detectors-can-science-really-detect-deception/",
+      "labels": [
+        "lie detectors",
+        "les détecteurs de mensonges",
+        "los detectores de mentiras",
+        "أجهزة كشف الكذب"
+      ]
+    },
+    "moralityInternal": {
+      "url": "/articles/good-vs-evil-human-nature-morality/",
+      "labels": [
+        "human nature and morality",
+        "la nature humaine et la morale",
+        "la naturaleza humana y la moral",
+        "الطبيعة البشرية والأخلاق"
+      ]
+    }
+  },
+  "review": [
+    "No duplicate article found; id 243",
+    "FBI 2008 definition: at least two victims, separate events, behavioural category rather than clinical diagnosis",
+    "Psychopathy versus psychosis and ASPD; no retrospective named-case diagnoses; dimensions and cognitive/affective empathy distinguished",
+    "Kjærvik-Bushman 2021: 437 independent studies, 123043 participants; broader aggression association, not serial-murder prediction",
+    "Decety-Skelly-Kiehl JAMA Psychiatry 2013: 80 incarcerated men, not 121 from a different study and not a serial-murder sample; regional responses varied, no mind-reading or causality",
+    "Caspi Science 2002 male cohort MAOA interaction, broader antisocial outcomes, no serial-killer gene, deterministic screening or individual inherited-crime percentage",
+    "Frazier review: sample and measurement variability, developmental/environmental influences, inconsistent findings",
+    "Fitton prospective-study meta-analysis, first online 2018 and journal issue 2020: association with general violent outcomes, not inevitable violence or serial homicide",
+    "Bundy: FBI interstate investigation, February 1978 stolen-car arrest, identification material; no exact uncertain victim total",
+    "Dahmer: 1991 arrest, FBI laboratory and victim identification, Wisconsin 1992 and subsequent Ohio proceedings; no sexual-orientation causal inference",
+    "Gacy: official Cook Sheriff timeline December 1978 arrest following Des Plaines missing juvenile investigation; no clown/profession diagnostic stereotype",
+    "Ramirez: primary California Supreme Court August 2006 S012944 appellate opinion, acts and evidentiary issues rather than clinical diagnosis",
+    "Canter 2004: 39 scene features, 100 murders from 100 offenders; organised/disorganised dichotomy unsupported; own archival selection limits acknowledged",
+    "Parfitt-Alleyne narrative critical review online 2018/issue2020, DOI10.1177/1524838018764164: combined childhood triad not established serial-homicide predictor",
+    "APA review created2021 updated2022: most people with mental disorders not violent; contextual assessment, no sweeping denial of symptom-associated risks",
+    "No invented interviews, quotations, prevalence percentages, causal claims or offender glorification",
+    "Approved hero copied unchanged, generated portraits and evidence board explicitly not authentic evidence",
+    "Shared Jellyfish desktop layout reused; no CSS or mobile design changes"
+  ],
+  "blocks": 39,
+  "faqs": 5
+}

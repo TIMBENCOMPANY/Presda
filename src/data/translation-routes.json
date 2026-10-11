@@ -2776,6 +2776,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/psychology-of-serial-killers-what-science-knows/",
+    "path": "/ar/articles/psychology-of-serial-killers-what-science-knows/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/psychology-of-serial-killers-what-science-knows/",
+    "path": "/es/articles/psychology-of-serial-killers-what-science-knows/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/psychology-of-serial-killers-what-science-knows/",
+    "path": "/fr/articles/psychology-of-serial-killers-what-science-knows/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/real-history-of-coffee/",
     "path": "/ar/articles/real-history-of-coffee/"
   },

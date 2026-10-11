@@ -1,0 +1,283 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/psychology-of-serial-killers-what-science-knows/",
+  "path": "/es/articles/psychology-of-serial-killers-what-science-knows/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "PRESDA scientific and localization review: offender samples, diagnosis, causality and forensic evidence",
+    "reviewedAt": "2026-10-12",
+    "terminologyChecked": true
+  },
+  "title": "LA PSICOLOGÍA DE LOS ASESINOS EN SERIE: LO QUE SABE LA CIENCIA",
+  "seoTitle": "Asesinos en serie: psicología, cerebro y límites científicos",
+  "description": "Qué sabe la psicología forense sobre el asesinato en serie, la psicopatía, el trauma y el cerebro, con casos documentados y límites del perfilado.",
+  "excerpt": "Qué sabe la psicología forense sobre el asesinato en serie, la psicopatía, el trauma y el cerebro, con casos documentados y límites del perfilado.",
+  "headlineHighlights": {
+    "red": "ASESINOS",
+    "gold": "CIENCIA"
+  },
+  "keywords": [
+    "psicología de asesinos en serie",
+    "psicología forense",
+    "investigación de psicopatía",
+    "perfilado criminal",
+    "neurociencia y violencia"
+  ],
+  "searchIntent": "Qué sabe la psicología forense sobre el asesinato en serie, la psicopatía, el trauma y el cerebro, con casos documentados y límites del perfilado.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-11",
+  "updatedAt": "2026-10-11",
+  "image": {
+    "src": "/articles/serial-killers-investigation-ai.png",
+    "alt": "Ilustración generada por IA de un tablero de investigación imaginario y una persona sentada a la derecha, sin valor de prueba policial"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un investigador contempla un tablero lleno de fotografías. Resulta tentador imaginar que los hilos acabarán revelando una explicación única: un cerebro dañado, una infancia maltratada, una personalidad sin conciencia. El tablero de nuestra ilustración es ficticio. El deseo de comprender es real. Los asesinatos repetidos nos llevan a buscar una frontera entre las personas corrientes y quienes pueden causar daños extraordinarios."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia no ofrece una frontera tan clara. Ofrece definiciones, observaciones imperfectas y explicaciones alternativas. Un expediente establece actos; una entrevista sugiere motivos; una imagen cerebral revela una diferencia estadística. Nada permite observar directamente una vida interior. Esta investigación utiliza documentación oficial y estudios revisados por pares, comprobados en octubre de 2026, manteniendo presentes a las víctimas y los límites del conocimiento."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Una categoría delictiva, no un diagnóstico"
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe multidisciplinar del FBI de 2008 define el asesinato en serie como la muerte ilícita de al menos dos víctimas causada por el mismo autor o autores en sucesos separados. Es una definición investigativa, no un trastorno mental. Distingue un patrón repetido de varias muertes en un solo episodio sin explicar sus causas. El informe rechaza un perfil universal y cuestiona mitos sobre inteligencia, motivaciones y aislamiento social. [Informe multidisciplinar del FBI, 2008](https://www.fbi.gov/stats-services/publications/serial-murder/serial-murder-july-2008-pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción cambia la pregunta. Los investigadores estudian procesos que pueden contribuir al comportamiento de determinados autores, en lugar de una personalidad obligatoria compartida por todos. Gratificación sexual, poder, beneficios económicos y otros motivos pueden superponerse. La violencia repetida puede combinar planificación y oportunismo. Una categoría que reúne delitos no debería borrar las diferencias entre personas, víctimas, circunstancias y pruebas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pruebas son desiguales. No podemos asignar experimentalmente infancias adversas ni carreras criminales. Gran parte del conocimiento forense procede de condenados, archivos y entrevistas posteriores a los hechos. Los autores no identificados quedan fuera. Las investigaciones exitosas pueden estar mejor documentadas que las fallidas. Esa selección dificulta defender afirmaciones generales sobre todas las personas que cometen asesinatos en serie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Psicopatía, narcisismo y formas de empatía"
+    },
+    {
+      "type": "paragraph",
+      "text": "La psicopatía describe un conjunto estudiado de rasgos: manipulación interpersonal, insensibilidad, remordimiento reducido y aspectos de conducta impulsiva o antisocial. No equivale a psicosis, que puede alterar el contacto con la realidad. Tampoco es intercambiable con el trastorno de personalidad antisocial, cuyos criterios se solapan parcialmente pero difieren. Instrumentos como la PCL-R requieren evaluación profesional y documentación, no la impresión que deja un documental. [De Brito y colaboradores: psicopatía, 2021](https://www.nature.com/articles/s41572-021-00282-1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La empatía incluye capacidades distintas. Comprender la perspectiva de alguien no equivale a compartir su angustia o preocuparse por su bienestar. Una persona puede detectar vulnerabilidad sin sentir preocupación. A la inversa, interpretar mal las emociones no implica crueldad. Los investigadores discuten cómo interactúan emoción, atención y aprendizaje en la psicopatía. Decir que alguien carece completamente de empatía reduce esas diferencias a un interruptor engañosamente simple."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los rasgos narcisistas, como el sentimiento de superioridad y de merecer privilegios, pueden relacionarse con la agresividad sin explicar el asesinato en serie. En 2021, Sophie Kjærvik y Brad Bushman reunieron 437 estudios independientes con 123,043 participantes en un metaanálisis que encontró una asociación entre narcisismo y agresión. Los resultados estudiados eran mucho más amplios que el homicidio serial. No diagnostican a ningún autor concreto ni permiten predecir asesinatos con fiabilidad. [Kjærvik y Bushman, 2021](https://pubmed.ncbi.nlm.nih.gov/34292012/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La vanidad corriente, los comportamientos desagradables y las etiquetas psiquiátricas no deberían convertirse en atajos hacia la sospecha. Los rasgos varían en intensidad, las mediciones cambian y un mismo rasgo acompaña conductas muy diferentes. Hay que preguntar quién fue estudiado, cómo se midió y qué se consideró agresión. Sin esas preguntas, un resultado científico puede convertirse en un estereotipo presentado como hecho clínico."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué puede mostrar realmente una imagen cerebral"
+    },
+    {
+      "type": "paragraph",
+      "text": "En un estudio publicado en JAMA Psychiatry en 2013, Jean Decety, Laurie Skelly y Kent Kiehl examinaron a 80 hombres encarcelados con distintos niveles de psicopatía mientras observaban escenas de dolor. Las respuestas diferían entre grupos en redes relacionadas con el procesamiento afectivo. Algunas regiones mostraban respuestas mayores y otras menores. No apareció un sistema de empatía uniformemente inactivo ni una firma cerebral del asesinato en serie. [Decety, Skelly y Kiehl, 2013](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1681369)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La resonancia funcional mide variaciones vinculadas a la oxigenación sanguínea, no pensamientos ni carácter moral directamente. Un estudio transversal en prisión no determina si las diferencias precedieron al delito, siguieron a experiencias adversas o reflejaron otras influencias. Comparar grupos no diagnostica individuos. Un mapa de colores no predice un crimen, y esos participantes no representaban a la población de asesinos en serie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las revisiones neurocientíficas examinan aprendizaje del miedo, recompensa, decisiones y conexiones cerebrales. También señalan resultados inconsistentes y preguntas sobre el desarrollo. Sustancias, lesiones, experiencias sociales y tareas experimentales complican la interpretación. Investigar la biología importa porque la conducta tiene mecanismos biológicos. Resulta engañoso presentar un mecanismo como causa completa o utilizar una asociación estadística como veredicto sobre la responsabilidad personal. [Frazier y colaboradores: biología y ambiente](https://www.cambridge.org/core/journals/personality-neuroscience/article/born-this-way-a-review-of-neurobiological-and-environmental-evidence-for-the-etiology-of-psychopathy/3303021C554B8D3AB5476C31F6CC4E7A)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nacer o hacerse plantea una falsa alternativa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Genes y ambiente interactúan durante el desarrollo. En Science en 2002, Avshalom Caspi y sus colegas investigaron si variaciones del gen MAOA modificaban la relación entre maltrato infantil y conducta antisocial posterior. La interacción descrita correspondía a una cohorte masculina y a resultados antisociales generales. No descubrió un gen del asesino en serie, una variante que causara violencia inevitable ni una prueba para identificar niños peligrosos. [Caspi y colaboradores, Science, 2002](https://pubmed.ncbi.nlm.nih.gov/12161658/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los hallazgos sobre genes candidatos requieren cautela: muestras, definición de experiencias y decisiones analíticas pueden influir en los efectos. La función biológica de un gen no establece un camino directo del ADN al homicidio. La literatura apunta a múltiples influencias, no a un interruptor hereditario. Una contribución genética a diferencias poblacionales no mide qué porcentaje de un crimen individual fue heredado ni demuestra ausencia de alternativas. [Frazier y colaboradores: biología y ambiente](https://www.cambridge.org/core/journals/personality-neuroscience/article/born-this-way-a-review-of-neurobiological-and-environmental-evidence-for-the-etiology-of-psychopathy/3303021C554B8D3AB5476C31F6CC4E7A)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una revisión sistemática publicada en su número de revista de 2020 encontró asociación entre maltrato infantil y violencia posterior en estudios prospectivos. Asociación no significa destino, y las investigaciones abordan violencia general, no específicamente asesinatos en serie. La mayoría de supervivientes no se convierten en agresores. Debemos proteger a los niños porque el maltrato les hace daño, sin tratar a cada víctima infantil como futuro delincuente. [Fitton y colaboradores: revisión prospectiva, edición de 2020](https://pubmed.ncbi.nlm.nih.gov/30122119/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los relatos retrospectivos necesitan un examen adicional. Un autor puede recordar selectivamente, minimizar sus decisiones o presentar una infancia que haga parecer inevitables sus actos. Los registros pueden respaldar o contradecir el relato. El desarrollo incluye relaciones protectoras y circunstancias cambiantes junto a las vulnerabilidades. Comprender debería mostrar oportunidades preventivas sin convertir el sufrimiento en destino ni confundir explicación con excusa."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Motivos, fantasías y supuestas compulsiones irresistibles"
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe del FBI describe motivaciones sexuales, económicas y relacionadas con el poder, y señala que algunos autores dejan de matar sin ser detenidos. El homicidio repetido no implica necesariamente un impulso continuo e irresistible. Los investigadores deben separar las explicaciones del autor de la conducta establecida independientemente. Alegar compulsión puede describir una experiencia subjetiva, servir de justificación o ambas cosas; no resuelve por sí solo la responsabilidad jurídica. [Informe multidisciplinar del FBI, 2008](https://www.fbi.gov/stats-services/publications/serial-murder/serial-murder-july-2008-pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fantasía por sí sola no permite predicciones fiables. Muchas personas tienen pensamientos perturbadores que rechazan y nunca ejecutan. La preocupación investigativa debe centrarse en conductas probadas: selección de objetivos, coerción, amenazas y daños. Aunque aparezcan fantasías en un expediente, ese relato no revela cuántas personas con pensamientos similares nunca cometieron delitos. Estudiar solamente a quienes mataron oculta esa comparación imprescindible."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuatro casos y cuatro límites de las explicaciones fáciles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ted Bundy muestra que una aparente competencia social puede coexistir con violencia grave. El FBI documenta investigaciones entre estados, fugas y su detención en febrero de 1978 tras interceptar un coche robado. La documentación de identificación ayudó a establecer quién estaba detenido. Testigos, coordinación y pruebas materiales fueron fundamentales, no un tipo psicológico exclusivo. Su número total incierto de víctimas no debe convertirse en una medida macabra de éxito. [FBI: investigación Bundy](https://www.fbi.gov/news/stories/serial-killers-part-3-ted-bundys-campaign-of-terror1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Después de detener a Jeffrey Dahmer en Milwaukee en 1991, el FBI colaboró en análisis de laboratorio e identificación de víctimas. Su relato describe perfiles de ADN, procesos en Wisconsin en 1992 y una condena posterior en Ohio. Esas pruebas establecen actos mejor que las especulaciones sobre la vida emocional del autor. Ni su orientación sexual ni la de las víctimas explica científicamente los homicidios. [FBI: investigación Dahmer](https://www.fbi.gov/news/stories/serial-killers-part-7-jeffrey-dahmer)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según la oficina del sheriff del condado de Cook, la detención de John Wayne Gacy en diciembre de 1978 siguió a una investigación de desaparición de la policía de Des Plaines. Los registros y la recuperación de pruebas resultaron centrales. La lección no vincula una profesión conocida o una imagen respetable con un diagnóstico oculto. Exige atender desapariciones, perseguir pruebas y recordar las identidades de las víctimas más allá de la notoriedad del criminal. [Sheriff de Cook: historia de investigaciones](https://www.cookcountysheriff.org/departments/c-c-s-p-d/history-of-the-cook-county-sheriffs-police/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los delitos de Richard Ramirez están documentados en la resolución del Tribunal Supremo de California de 2006. El expediente describe asesinatos, agresiones sexuales, robos y otras infracciones, y examina pruebas y cuestiones procesales. Es un documento judicial, no un experimento neurocientífico. Convertir su personaje público en explicación universal confundiría apariencia con mecanismo. Ninguno de estos cuatro casos ofrece una comparación controlada que establezca el origen del asesinato en serie. [Tribunal Supremo de California: Ramirez, 2006](https://law.justia.com/cases/california/supreme-court/2006/s012944.html)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un perfil plantea hipótesis, no identifica como una huella"
+    },
+    {
+      "type": "paragraph",
+      "text": "El análisis conductual puede ordenar preguntas sobre patrones delictivos, acceso a víctimas y conexiones entre casos. Su valor depende del método concreto. Predecir características de un autor desconocido exige evaluación independiente; construir un relato después de detenerlo resulta más fácil. Los perfiles deben guiar sin excluir pruebas contradictorias. Nuestra investigación sobre [los detectores de mentiras](/articles/lie-detectors-can-science-really-detect-deception/) examina un problema parecido: la inferencia no debe hacerse pasar por observación directa."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2004, David Canter y sus colegas estudiaron 39 características de escenas delictivas en 100 asesinatos cometidos por 100 autores estadounidenses. No respaldaron una división clara entre tipos organizados y desorganizados. Cuestionaron una dicotomía popular, no cualquier análisis investigativo imaginable. Sus propias limitaciones de selección de archivos y codificación también importan. La crítica científica debe mejorar métodos, no sustituir una certeza general por otra. [Canter y colaboradores: prueba de tipología, 2004](https://eprints.hud.ac.uk/id/eprint/8639/1/CanterOrganised.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sesgo de confirmación amenaza la investigación: una explicación atractiva puede convertir detalles ambiguos en supuestas corroboraciones. Un perfil no es una huella y parecerse a una descripción no establece culpabilidad. Conectar crímenes requiere pruebas convergentes. Comparaciones, transparencia y evaluación prospectiva distinguen predicción útil de reconstrucción retrospectiva. La humildad tiene valor práctico: una pista equivocada consume recursos y puede dejar sin protección a otras víctimas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mitos, señales de alerta y estigma"
+    },
+    {
+      "type": "paragraph",
+      "text": "La supuesta tríada infantil de enuresis, incendios y crueldad hacia animales suele presentarse como alarma temprana. La revisión crítica de Parfitt y Alleyne, publicada en línea en 2018 y en un número de revista de 2020, encontró respaldo insuficiente para esa combinación predictiva. Esas conductas pueden indicar malestar o ambientes disfuncionales. Crueldad e incendios peligrosos requieren intervención por sus daños inmediatos; mojar la cama no demuestra un futuro homicida. [Parfitt y Alleyne: revisión crítica, 2018/2020](https://kar.kent.ac.uk/66782/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otro mito convierte trastorno mental en sinónimo de violencia. La mayoría de personas con trastornos mentales no son violentas. La revisión de la APA señala antecedentes violentos, consumo de sustancias y circunstancias sociales junto a síntomas específicos. Un diagnóstico aislado es insuficiente. Eso no niega que ciertos síntomas puedan contribuir al riesgo; exige considerar el contexto en vez de presentar a toda una población de pacientes como amenaza. [APA: trastornos mentales y violencia, actualizado en 2022](https://www.apa.org/monitor/2021/04/ce-mental-illness)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No existe una lista cotidiana validada que identifique a un futuro asesino en serie. Amenazas concretas, acoso y coerción creciente requieren respuestas proporcionadas porque pueden causar daño ahora. Apoyo y evaluación profesional deben seguir necesidades observadas, no etiquetas alarmistas. Ante peligro inmediato, recurra a los servicios locales de emergencia. Prevenir también exige atender seriamente las desapariciones, sin considerar unas vidas menos merecedoras de investigación que otras."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprender sin abandonar el juicio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá la pregunta científica más útil sea dónde podría haberse interrumpido el daño. Mejor coordinación, manejo cuidadoso de pruebas, apoyo a víctimas y atención adecuada ofrecen direcciones prácticas sin prometer eliminar el asesinato en serie. Hay que evaluar intervenciones y métodos respetando a las personas estudiadas. Explicar aporta valor cuando aumenta responsabilidad y protección, no solamente cuando crea un retrato memorable del autor."
+    },
+    {
+      "type": "paragraph",
+      "text": "El asesinato en serie expone los límites de nuestra necesidad de certeza. Queremos que una pieza dañada explique una vida entera, pero los hallazgos sobre rasgos, desarrollo y cerebro siguen siendo parciales. Nuestro artículo sobre [la naturaleza humana y la moral](/articles/good-vs-evil-human-nature-morality/) también distingue condiciones del comportamiento y responsabilidad moral. La ciencia afina preguntas, corrige mitos y cuestiona relatos tranquilizadores. Una etiqueta definitiva para el autor no puede hacer comprensibles las pérdidas de sus víctimas."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Todos los asesinos en serie son psicópatas?",
+      "answer": "No. El asesinato en serie describe delitos; la psicopatía describe rasgos evaluados. Algunos autores los presentan, pero ninguna categoría establece automáticamente la otra."
+    },
+    {
+      "question": "¿Una imagen cerebral identifica a un futuro asesino en serie?",
+      "answer": "No existe una prueba validada que lo permita. Las diferencias entre grupos más amplios de delincuentes no establecen una predicción individual ni una causa del asesinato en serie."
+    },
+    {
+      "question": "¿El trauma infantil causa estos asesinatos?",
+      "answer": "Puede asociarse con dificultades posteriores y riesgo general de violencia, pero no determina el futuro. La mayoría de supervivientes no son agresores y no existe una causa única establecida."
+    },
+    {
+      "question": "¿Es fiable el perfilado criminal?",
+      "answer": "Depende del método y las pruebas. Puede organizar hipótesis, pero no establece identidad ni culpabilidad. Algunas tipologías populares han recibido importantes críticas empíricas."
+    },
+    {
+      "question": "¿Un trastorno mental convierte a alguien en peligroso?",
+      "answer": "La mayoría de personas afectadas no son violentas. La evaluación requiere contexto, incluyendo conducta, antecedentes, sustancias y síntomas relevantes, no solamente un diagnóstico."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Informe multidisciplinar del FBI, 2008",
+      "url": "https://www.fbi.gov/stats-services/publications/serial-murder/serial-murder-july-2008-pdf"
+    },
+    {
+      "label": "De Brito y colaboradores: psicopatía, 2021",
+      "url": "https://www.nature.com/articles/s41572-021-00282-1"
+    },
+    {
+      "label": "Kjærvik y Bushman, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34292012/"
+    },
+    {
+      "label": "Decety, Skelly y Kiehl, 2013",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1681369"
+    },
+    {
+      "label": "Frazier y colaboradores: biología y ambiente",
+      "url": "https://www.cambridge.org/core/journals/personality-neuroscience/article/born-this-way-a-review-of-neurobiological-and-environmental-evidence-for-the-etiology-of-psychopathy/3303021C554B8D3AB5476C31F6CC4E7A"
+    },
+    {
+      "label": "Caspi y colaboradores, Science, 2002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12161658/"
+    },
+    {
+      "label": "Fitton y colaboradores: revisión prospectiva, edición de 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30122119/"
+    },
+    {
+      "label": "FBI: investigación Bundy",
+      "url": "https://www.fbi.gov/news/stories/serial-killers-part-3-ted-bundys-campaign-of-terror1"
+    },
+    {
+      "label": "FBI: investigación Dahmer",
+      "url": "https://www.fbi.gov/news/stories/serial-killers-part-7-jeffrey-dahmer"
+    },
+    {
+      "label": "Sheriff de Cook: historia de investigaciones",
+      "url": "https://www.cookcountysheriff.org/departments/c-c-s-p-d/history-of-the-cook-county-sheriffs-police/"
+    },
+    {
+      "label": "Tribunal Supremo de California: Ramirez, 2006",
+      "url": "https://law.justia.com/cases/california/supreme-court/2006/s012944.html"
+    },
+    {
+      "label": "Canter y colaboradores: prueba de tipología, 2004",
+      "url": "https://eprints.hud.ac.uk/id/eprint/8639/1/CanterOrganised.pdf"
+    },
+    {
+      "label": "Parfitt y Alleyne: revisión crítica, 2018/2020",
+      "url": "https://kar.kent.ac.uk/66782/"
+    },
+    {
+      "label": "APA: trastornos mentales y violencia, actualizado en 2022",
+      "url": "https://www.apa.org/monitor/2021/04/ce-mental-illness"
+    }
+  ]
+}
