@@ -1,0 +1,158 @@
+{
+  "checkedAt": "2026-10-12",
+  "sources": {
+    "belong": {
+      "url": "https://doi.org/10.1037/0033-2909.117.3.497",
+      "labels": [
+        "Baumeister and Leary, 1995",
+        "Baumeister et Leary, 1995",
+        "Baumeister y Leary, 1995",
+        "باوميستر وليري، 1995"
+      ]
+    },
+    "asch": {
+      "url": "https://www.panarchy.org/asch/social.pressure.1955.html",
+      "labels": [
+        "Asch’s original account, 1955",
+        "Compte rendu original d’Asch, 1955",
+        "Exposición original de Asch, 1955",
+        "عرض آش الأصلي، 1955"
+      ]
+    },
+    "milgram": {
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Milgrim_1963_Behavioral_study_of_obedience.pdf",
+      "labels": [
+        "Milgram’s original report, 1963",
+        "Rapport original de Milgram, 1963",
+        "Informe original de Milgram, 1963",
+        "تقرير ميلغرام الأصلي، 1963"
+      ]
+    },
+    "follow": {
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001426",
+      "labels": [
+        "Haslam and Reicher, 2012",
+        "Haslam et Reicher, 2012",
+        "Haslam y Reicher, 2012",
+        "هاسلام ورايشر، 2012"
+      ]
+    },
+    "identity": {
+      "url": "https://doi.org/10.1002/ejsp.2420010202",
+      "labels": [
+        "Tajfel et al., 1971",
+        "Tajfel et coll., 1971",
+        "Tajfel y colaboradores, 1971",
+        "تاجفيل وزملاؤه، 1971"
+      ]
+    },
+    "taxonomy": {
+      "url": "https://scielo.isciii.es/pdf/ejpalc/v7n1/original4.pdf",
+      "labels": [
+        "Rodríguez-Carballeira et al., 2015",
+        "Rodríguez-Carballeira et coll., 2015",
+        "Rodríguez-Carballeira y colaboradores, 2015",
+        "رودريغيز كاربالييرا وزملاؤه، 2015"
+      ]
+    },
+    "dissonance": {
+      "url": "https://psychclassics.yorku.ca/Festinger/",
+      "labels": [
+        "Festinger and Carlsmith, 1959",
+        "Festinger et Carlsmith, 1959",
+        "Festinger y Carlsmith, 1959",
+        "فستنغر وكارلسميث، 1959"
+      ]
+    },
+    "groupthink": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9705801/",
+      "labels": [
+        "Aldag and Fuller’s critique, 1998",
+        "Critique d’Aldag et Fuller, 1998",
+        "Crítica de Aldag y Fuller, 1998",
+        "نقد ألداغ وفولر، 1998"
+      ]
+    },
+    "nxivm": {
+      "url": "https://www.justice.gov/usao-edny/pr/nxivm-leader-keith-raniere-sentenced-120-years-prison-racketeering-and-sex-trafficking",
+      "labels": [
+        "US Justice Department: Raniere sentencing",
+        "Ministère américain de la Justice : condamnation",
+        "Departamento de Justicia: sentencia de Raniere",
+        "وزارة العدل الأمريكية: حكم رانييري"
+      ]
+    },
+    "jonestown": {
+      "url": "https://www.fbi.gov/history/cases-and-criminals/jonestown",
+      "labels": [
+        "FBI: Jonestown investigation",
+        "FBI : enquête sur Jonestown",
+        "FBI: investigación de Jonestown",
+        "مكتب التحقيقات الفيدرالي: جونزتاون"
+      ]
+    },
+    "online": {
+      "url": "https://doi.org/10.1073/pnas.2023301118",
+      "labels": [
+        "Cinelli et al., PNAS 2021",
+        "Cinelli et coll., PNAS 2021",
+        "Cinelli y colaboradores, PNAS 2021",
+        "تشينيللي وزملاؤه، PNAS 2021"
+      ]
+    },
+    "distress": {
+      "url": "https://doi.org/10.1017/sjp.2019.32",
+      "labels": [
+        "Saldaña et al., 2019",
+        "Saldaña et coll., 2019",
+        "Saldaña y colaboradores, 2019",
+        "سالدانيا وزملاؤه، 2019"
+      ]
+    },
+    "apa": {
+      "url": "https://www.apa.org/monitor/nov02/pc.html",
+      "labels": [
+        "APA presidential column, 2002: a perspective",
+        "Chronique du président de l’APA, 2002 : une perspective",
+        "Columna del presidente de la APA, 2002: una perspectiva",
+        "مقال رئيس الجمعية الأمريكية لعلم النفس، 2002: وجهة نظر"
+      ]
+    },
+    "hypnosisInternal": {
+      "url": "/articles/can-hypnosis-really-control-your-mind/",
+      "labels": [
+        "hypnosis",
+        "l’hypnose",
+        "la hipnosis",
+        "التنويم الإيحائي"
+      ]
+    },
+    "moralityInternal": {
+      "url": "/articles/good-vs-evil-human-nature-morality/",
+      "labels": [
+        "good and evil",
+        "le bien et le mal",
+        "el bien y el mal",
+        "الخير والشر"
+      ]
+    }
+  },
+  "review": [
+    "Asch: 123 male students, 36.8% of critical answers, under 1% control errors; not a population susceptibility rate",
+    "Milgram 1963 condition: 26 of 40 men at 450 V marked simulated maximum; variants, belief and ethics limit inference",
+    "Haslam and Reicher 2012 is a perspective/interpretation, not a settled causal conclusion",
+    "Tajfel 1971 minimal-group allocations distinguished from later social identity theory and violence",
+    "Festinger-Carlsmith 1959 narrow lab task; do not extrapolate as causal proof of cult retention",
+    "Groupthink critique and disputed historical causal claims retained",
+    "2015 Delphi taxonomy: 31 experts, conceptual classification not prevalence",
+    "2019 distress scale: 706 Spanish-speaking former members; retrospective selected sample, no population prevalence or individual diagnoses",
+    "NXIVM documented 2019 conviction and 2020 sentence, DOS coercive collateral; not collective guilt",
+    "Jonestown murder/suicide wording preserves coercion, no invented victim totals or universal voluntary choice",
+    "PNAS 2021 observational echo chambers, no causal algorithmic brainwashing claim",
+    "APA 2002 presidential column listed as perspective, not APA diagnostic consensus",
+    "Approved hero bytes preserved; imagined generic scene, no text overlays or real-group identification"
+  ],
+  "quotePolicy": "No invented testimony or quotations",
+  "blocks": 43,
+  "faqs": 5
+}

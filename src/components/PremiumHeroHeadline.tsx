@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "psychology-of-cults-why-people-follow-blindly": {
+    en: { red: "CULTS", gold: "BLINDLY" },
+    fr: { red: "SECTES", gold: "AVEUGLÉMENT" },
+    ar: { red: "الجماعات المغلقة", gold: "تمحيص" },
+    es: { red: "SECTAS", gold: "CIEGAMENTE" }
+  },
   "world-most-expensive-paintings-ever-sold": {
     en: { red: "PAINTINGS", gold: "SOLD" },
     fr: { red: "TABLEAUX", gold: "VENDUS" },

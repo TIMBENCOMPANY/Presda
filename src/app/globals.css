@@ -689,3 +689,10 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
 @media (min-width: 1280px) {
   .article-hero .article-hero-content { padding: 56px; }
 }
+/* This feature requests a standalone illustration with no text over the image. */
+.article-hero.article-hero--standalone { min-height: 0; }
+.article-hero.article-hero--standalone .article-hero-media { position: relative; inset: auto; height: auto; }
+.article-hero.article-hero--standalone .article-hero-image { height: auto; object-fit: contain; }
+.article-hero.article-hero--standalone .article-hero-shade,
+.article-hero.article-hero--standalone .article-hero-shade + div { display: none; }
+.article-hero.article-hero--standalone .article-hero-content { min-height: 0; }

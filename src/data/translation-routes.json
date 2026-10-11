@@ -2746,6 +2746,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/psychology-of-cults-why-people-follow-blindly/",
+    "path": "/ar/articles/psychology-of-cults-why-people-follow-blindly/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/psychology-of-cults-why-people-follow-blindly/",
+    "path": "/es/articles/psychology-of-cults-why-people-follow-blindly/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/psychology-of-cults-why-people-follow-blindly/",
+    "path": "/fr/articles/psychology-of-cults-why-people-follow-blindly/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/real-history-of-coffee/",
     "path": "/ar/articles/real-history-of-coffee/"
   },

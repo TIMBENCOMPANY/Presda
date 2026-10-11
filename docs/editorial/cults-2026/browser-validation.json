@@ -1,0 +1,159 @@
+{
+  "local": [
+    {
+      "dateBelow": true,
+      "dir": "ltr",
+      "faq": [
+        "Sommaire",
+        "Seules les personnes crédules rejoignent-elles des groupes abusifs ?",
+        "Milgram a-t-il prouvé que 65 % des gens obéissent à tout ?",
+        "Qu’est-ce qui distingue appartenance et emprise ?",
+        "Tout groupe religieux ou politique est-il une secte ?",
+        "Peut-on retrouver son autonomie ?"
+      ],
+      "h2": 15,
+      "lang": "fr",
+      "loaded": true,
+      "overflow": false,
+      "ratio": 1.7777778365254466,
+      "titleBelow": true,
+      "url": "http://127.0.0.1:4251/fr/articles/psychology-of-cults-why-people-follow-blindly/",
+      "width": 1280
+    },
+    {
+      "dateBelow": true,
+      "dir": "rtl",
+      "faq": [
+        "فهرس المقال",
+        "هل ينضم السذج فقط إلى الجماعات شديدة السيطرة؟",
+        "هل أثبت ميلغرام أن 65% يطيعون أي أمر؟",
+        "كيف يختلف الانتماء الصحي عن السيطرة القسرية؟",
+        "هل كل جماعة دينية أو سياسية مسيئة؟",
+        "هل يمكن استعادة الاستقلالية؟"
+      ],
+      "h2": 15,
+      "lang": "ar",
+      "loaded": true,
+      "overflow": false,
+      "ratio": 1.7777778365254466,
+      "titleBelow": true,
+      "url": "http://127.0.0.1:4251/ar/articles/psychology-of-cults-why-people-follow-blindly/",
+      "width": 1280
+    },
+    {
+      "dateBelow": true,
+      "dir": "ltr",
+      "faq": [
+        "Índice del artículo",
+        "¿Solo las personas crédulas entran en grupos de alto control?",
+        "¿Milgram probó que el 65 % obedece cualquier orden?",
+        "¿Qué distingue pertenencia saludable y control coercitivo?",
+        "¿Todo grupo religioso o político es una secta?",
+        "¿Es posible recuperar la autonomía?"
+      ],
+      "h2": 15,
+      "lang": "es",
+      "loaded": true,
+      "overflow": false,
+      "ratio": 1.7777778365254466,
+      "titleBelow": true,
+      "url": "http://127.0.0.1:4251/es/articles/psychology-of-cults-why-people-follow-blindly/",
+      "width": 1280
+    },
+    {
+      "dateBelow": true,
+      "dir": "ltr",
+      "faq": [
+        "Table Of Contents",
+        "Are only gullible people drawn into high-control groups?",
+        "Did Milgram prove that 65% of people obey any order?",
+        "How is healthy belonging different from coercive control?",
+        "Is every religious or political group a cult?",
+        "Can people recover their autonomy?"
+      ],
+      "lang": "en",
+      "loaded": true,
+      "overflow": false,
+      "ratio": 1.7777778365254466,
+      "titleBelow": true,
+      "url": "http://127.0.0.1:4251/articles/psychology-of-cults-why-people-follow-blindly/",
+      "width": 1280
+    },
+    {
+      "dateBelow": true,
+      "dir": "ltr",
+      "faq": [
+        "Table Of Contents",
+        "Are only gullible people drawn into high-control groups?",
+        "Did Milgram prove that 65% of people obey any order?",
+        "How is healthy belonging different from coercive control?",
+        "Is every religious or political group a cult?",
+        "Can people recover their autonomy?"
+      ],
+      "lang": "en",
+      "loaded": true,
+      "overflow": false,
+      "ratio": 1.7777778295463582,
+      "titleBelow": true,
+      "url": "http://127.0.0.1:4251/articles/psychology-of-cults-why-people-follow-blindly/",
+      "width": 390
+    },
+    {
+      "dateBelow": true,
+      "dir": "ltr",
+      "faq": [
+        "Sommaire",
+        "Seules les personnes crédules rejoignent-elles des groupes abusifs ?",
+        "Milgram a-t-il prouvé que 65 % des gens obéissent à tout ?",
+        "Qu’est-ce qui distingue appartenance et emprise ?",
+        "Tout groupe religieux ou politique est-il une secte ?",
+        "Peut-on retrouver son autonomie ?"
+      ],
+      "lang": "fr",
+      "loaded": true,
+      "overflow": false,
+      "ratio": 1.7777778295463582,
+      "titleBelow": true,
+      "url": "http://127.0.0.1:4251/fr/articles/psychology-of-cults-why-people-follow-blindly/",
+      "width": 390
+    },
+    {
+      "dateBelow": true,
+      "dir": "rtl",
+      "faq": [
+        "فهرس المقال",
+        "هل ينضم السذج فقط إلى الجماعات شديدة السيطرة؟",
+        "هل أثبت ميلغرام أن 65% يطيعون أي أمر؟",
+        "كيف يختلف الانتماء الصحي عن السيطرة القسرية؟",
+        "هل كل جماعة دينية أو سياسية مسيئة؟",
+        "هل يمكن استعادة الاستقلالية؟"
+      ],
+      "lang": "ar",
+      "loaded": true,
+      "overflow": false,
+      "ratio": 1.7777778295463582,
+      "titleBelow": true,
+      "url": "http://127.0.0.1:4251/ar/articles/psychology-of-cults-why-people-follow-blindly/",
+      "width": 390
+    },
+    {
+      "dateBelow": true,
+      "dir": "ltr",
+      "faq": [
+        "Índice del artículo",
+        "¿Solo las personas crédulas entran en grupos de alto control?",
+        "¿Milgram probó que el 65 % obedece cualquier orden?",
+        "¿Qué distingue pertenencia saludable y control coercitivo?",
+        "¿Todo grupo religioso o político es una secta?",
+        "¿Es posible recuperar la autonomía?"
+      ],
+      "lang": "es",
+      "loaded": true,
+      "overflow": false,
+      "ratio": 1.7777778295463582,
+      "titleBelow": true,
+      "url": "http://127.0.0.1:4251/es/articles/psychology-of-cults-why-people-follow-blindly/",
+      "width": 390
+    }
+  ]
+}

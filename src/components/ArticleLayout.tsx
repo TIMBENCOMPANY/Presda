@@ -2,6 +2,7 @@ import { PaintingArtwork, PaintingSalesComparison } from "@/components/PaintingS
 import { ArchitectureComparison, ArchitecturePhotograph } from "@/components/ArchitectureMedia";
 import architectureMedia from "@/data/architectureMedia.json";
 import hypnosisHeroCaptions from "@/data/hypnosisHeroCaptions.json";
+import cultsHeroCaptions from "@/data/cultsHeroCaptions.json";
 import { UniqueHotelsComparison } from "@/components/UniqueHotelsComparison";
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { SonghaiGraphics } from "@/components/SonghaiGraphics";
@@ -222,6 +223,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const articleContent = getArticleContentWithoutInlineFaq(article);
   const lastUpdated = getArticleLastUpdated(article);
   const heroDimensions = getArticleImageDimensions(article.coverImage);
+  const standaloneHero = article.slug === "psychology-of-cults-why-people-follow-blindly";
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
@@ -243,7 +245,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header className="article-hero relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]">
+        <header className={`article-hero${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
           <div className="article-hero-media relative">
             <Image
               src={article.coverImage}
@@ -261,7 +263,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           <div className="article-hero-shade hidden absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.82)_0%,rgba(0,0,0,0.58)_33%,rgba(0,0,0,0.20)_62%,rgba(0,0,0,0.03)_100%)]" />
           <div className="hidden absolute inset-0 bg-[linear-gradient(0deg,rgba(0,0,0,0.42)_0%,rgba(0,0,0,0.08)_48%,rgba(0,0,0,0.30)_100%)]" />
 
-          <time className="article-hero-publication-date absolute right-5 top-5 z-20 rounded bg-black/40 px-2 py-1 text-right font-display text-[11px] font-extrabold uppercase tracking-wide text-white/86 sm:right-7 sm:top-7 sm:text-sm lg:right-8 lg:top-8 lg:text-base" dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
+          <time className={`article-hero-publication-date ${standaloneHero ? "relative block px-5 pt-5 sm:px-7 lg:px-12 xl:px-14" : "absolute right-5 top-5 z-20 rounded bg-black/40 px-2 py-1 text-right sm:right-7 sm:top-7 lg:right-8 lg:top-8"} font-display text-[11px] font-extrabold uppercase tracking-wide text-white/86 sm:text-sm lg:text-base`} dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
 
           <div className="article-hero-content relative z-10 flex flex-col gap-5 p-5 sm:p-7 lg:p-12 xl:p-14">
             <div className="flex flex-wrap items-start justify-between gap-3 font-display text-[11px] lg:flex-nowrap lg:gap-4 font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
@@ -296,6 +298,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </div>
         </header>
 
+        {standaloneHero && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{cultsHeroCaptions[locale]}</p>}
         {article.slug === "can-hypnosis-really-control-your-mind" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{hypnosisHeroCaptions[locale]}</p>}
 
         {article.slug === "modern-architecture-world-most-breathtaking-buildings" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{architectureMedia[locale].heroCaption}</p>}
