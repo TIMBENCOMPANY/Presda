@@ -1,4 +1,6 @@
 import { PaintingArtwork, PaintingSalesComparison } from "@/components/PaintingSalesGraphics";
+import { ArchitectureComparison, ArchitecturePhotograph } from "@/components/ArchitectureMedia";
+import architectureMedia from "@/data/architectureMedia.json";
 import { UniqueHotelsComparison } from "@/components/UniqueHotelsComparison";
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { SonghaiGraphics } from "@/components/SonghaiGraphics";
@@ -293,6 +295,8 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </div>
         </header>
 
+        {article.slug === "modern-architecture-world-most-breathtaking-buildings" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{architectureMedia[locale].heroCaption}</p>}
+
         {article.slug === "world-most-expensive-paintings-ever-sold" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "Illustration éditoriale générée par IA. Galerie imaginaire, pas une exposition réelle ni des reproductions fidèles des tableaux." : locale === "es" ? "Ilustración editorial generada por IA. Galería imaginaria, no una exposición real ni reproducciones fieles de las pinturas." : locale === "ar" ? "رسم تحريري مولد بالذكاء الاصطناعي لمعرض متخيل، وليس معرضاً حقيقياً أو نسخاً أمينة للوحات." : "AI-generated editorial illustration. Imagined gallery, not a real exhibition or faithful reproductions of the paintings."}</p>}
 
         {article.slug === "beyond-luxury-world-most-unique-hotels" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "Illustration éditoriale générée par IA. Igloo et paysage imaginaires, pas une photographie d’un établissement présenté." : locale === "es" ? "Ilustración editorial generada por IA. Iglú y paisaje imaginarios, no una fotografía de los establecimientos presentados." : locale === "ar" ? "رسم تحريري مولد بالذكاء الاصطناعي لقبة ومنظر متخيلين، وليس صورة لأحد الأماكن المعروضة." : "AI-generated editorial illustration. Imagined glass igloo and landscape, not a photograph of any featured property."}</p>}
@@ -347,6 +351,12 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </aside>
 
             {articleContent.map(({ block, originalIndex }) => {
+              if (article.slug === "modern-architecture-world-most-breathtaking-buildings" && originalIndex === 3) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ArchitectureComparison locale={locale} /></div>;
+              }
+              if (article.slug === "modern-architecture-world-most-breathtaking-buildings" && originalIndex >= 4 && originalIndex <= 32 && (originalIndex - 4) % 2 === 0) {
+                return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ArchitecturePhotograph locale={locale} index={(originalIndex - 4) / 2} /></div>;
+              }
               if (article.slug === "world-most-expensive-paintings-ever-sold" && originalIndex === 3) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><PaintingSalesComparison locale={locale} /></div>;
               }

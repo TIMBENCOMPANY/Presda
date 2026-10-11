@@ -1,0 +1,2146 @@
+[
+  {
+    "kind": "building",
+    "locale": "en",
+    "dir": "ltr",
+    "items": [
+      {
+        "heading": "H2",
+        "link": "https://www.zha.com/projects/architecture/heydar-aliyev-centre?disclaimer=true",
+        "loaded": null,
+        "rank": 1,
+        "ratioError": null
+      },
+      {
+        "alt": "Leeza SOHO exterior at dusk",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 2,
+        "ratioError": 0.001241768846503177,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/leeza-soho-1600.webp"
+      },
+      {
+        "alt": "Morpheus exterior showing the exoskeleton and central openings",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.00035576879094512126,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/morpheus-1200.webp"
+      },
+      {
+        "alt": "Daxing terminal interior beneath the vaulted roof",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.0007724990343760396,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/daxing-airport-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://museumofthefuture.ae/en/the-building",
+        "loaded": null,
+        "rank": 5,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.henninglarsen.com/projects/harpa",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "alt": "Elbphilharmonie glass volume above the brick warehouse",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 7,
+        "ratioError": 0.0013340187225079347,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/elbphilharmonie-1600.webp"
+      },
+      {
+        "alt": "Oodi upper reading hall",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 8,
+        "ratioError": 0.0013340187225079347,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oodi-1600.webp"
+      },
+      {
+        "alt": "Shanghai Tower seen from ground level",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0003887974494887203,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/shanghai-tower-1200.webp"
+      },
+      {
+        "alt": "Marina Bay Sands integrated resort at night",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 10,
+        "ratioError": 0.0017179094514470084,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/marina-bay-sands-1600.webp"
+      },
+      {
+        "alt": "The Interlace stacked residential blocks",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 11,
+        "ratioError": 0.002335421950198313,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/interlace-1600.webp"
+      },
+      {
+        "alt": "Jewel Rain Vortex and indoor garden",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.002479999265185384,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/jewel-changi-1600.webp"
+      },
+      {
+        "alt": "Vancouver House seen from the southwest",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 13,
+        "ratioError": 0.00047825820945301967,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/vancouver-house-1200.webp"
+      },
+      {
+        "alt": "CopenHill sloping roof and climbing wall",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.0006983727913960625,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/copenhill-1600.webp"
+      },
+      {
+        "alt": "Oslo Opera House waterfront and walkable roof",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 15,
+        "ratioError": 0.0005887045262547019,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oslo-opera-1600.webp"
+      }
+    ],
+    "lang": "en",
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "kind": "building",
+    "locale": "fr",
+    "dir": "ltr",
+    "items": [
+      {
+        "heading": "H2",
+        "link": "https://www.zha.com/projects/architecture/heydar-aliyev-centre?disclaimer=true",
+        "loaded": null,
+        "rank": 1,
+        "ratioError": null
+      },
+      {
+        "alt": "Extérieur de Leeza SOHO au crépuscule",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 2,
+        "ratioError": 0.001241768846503177,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/leeza-soho-1600.webp"
+      },
+      {
+        "alt": "Extérieur du Morpheus, exosquelette et ouvertures centrales",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.00035576879094512126,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/morpheus-1200.webp"
+      },
+      {
+        "alt": "Intérieur du terminal de Daxing sous sa voûte",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.0007724990343760396,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/daxing-airport-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://museumofthefuture.ae/en/the-building",
+        "loaded": null,
+        "rank": 5,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.henninglarsen.com/projects/harpa",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "alt": "Volume vitré de l’Elbphilharmonie au-dessus de l’entrepôt en briques",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 7,
+        "ratioError": 0.0013340187225079347,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/elbphilharmonie-1600.webp"
+      },
+      {
+        "alt": "Salle de lecture supérieure d’Oodi",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 8,
+        "ratioError": 0.0013340187225079347,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oodi-1600.webp"
+      },
+      {
+        "alt": "Shanghai Tower vue depuis le sol",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0003887974494887203,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/shanghai-tower-1200.webp"
+      },
+      {
+        "alt": "Complexe intégré Marina Bay Sands de nuit",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 10,
+        "ratioError": 0.0017179094514470084,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/marina-bay-sands-1600.webp"
+      },
+      {
+        "alt": "Blocs résidentiels superposés de The Interlace",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 11,
+        "ratioError": 0.002335421950198313,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/interlace-1600.webp"
+      },
+      {
+        "alt": "Rain Vortex et jardin intérieur de Jewel",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.002479999265185384,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/jewel-changi-1600.webp"
+      },
+      {
+        "alt": "Vancouver House vue du sud-ouest",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 13,
+        "ratioError": 0.00047825820945301967,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/vancouver-house-1200.webp"
+      },
+      {
+        "alt": "Toit incliné et mur d’escalade de CopenHill",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.0006983727913960625,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/copenhill-1600.webp"
+      },
+      {
+        "alt": "Opéra d’Oslo, front de mer et toit accessible",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 15,
+        "ratioError": 0.0005887045262547019,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oslo-opera-1600.webp"
+      }
+    ],
+    "lang": "fr",
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "kind": "building",
+    "locale": "ar",
+    "dir": "rtl",
+    "items": [
+      {
+        "heading": "H2",
+        "link": "https://www.zha.com/projects/architecture/heydar-aliyev-centre?disclaimer=true",
+        "loaded": null,
+        "rank": 1,
+        "ratioError": null
+      },
+      {
+        "alt": "واجهة ليزا سوهو عند الغسق",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 2,
+        "ratioError": 0.001241768846503177,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/leeza-soho-1600.webp"
+      },
+      {
+        "alt": "واجهة مورفيوس مع الهيكل الخارجي والفتحات الوسطى",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.00035576879094512126,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/morpheus-1200.webp"
+      },
+      {
+        "alt": "داخل محطة داكسينغ تحت السقف المقوس",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.0007724990343760396,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/daxing-airport-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://museumofthefuture.ae/en/the-building",
+        "loaded": null,
+        "rank": 5,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.henninglarsen.com/projects/harpa",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "alt": "الكتلة الزجاجية لإلبفيلهارموني فوق المستودع الآجري",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 7,
+        "ratioError": 0.0013340187225079347,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/elbphilharmonie-1600.webp"
+      },
+      {
+        "alt": "قاعة القراءة العليا في أودي",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 8,
+        "ratioError": 0.0013340187225079347,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oodi-1600.webp"
+      },
+      {
+        "alt": "برج شنغهاي من مستوى الأرض",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0003887974494887203,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/shanghai-tower-1200.webp"
+      },
+      {
+        "alt": "منتجع مارينا باي ساندز المتكامل ليلاً",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 10,
+        "ratioError": 0.0017179094514470084,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/marina-bay-sands-1600.webp"
+      },
+      {
+        "alt": "الكتل السكنية المتراكبة في إنترليس",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 11,
+        "ratioError": 0.002335421950198313,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/interlace-1600.webp"
+      },
+      {
+        "alt": "شلال رين فورتكس والحديقة الداخلية في جويل",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.002479999265185384,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/jewel-changi-1600.webp"
+      },
+      {
+        "alt": "فانكوفر هاوس من جهة الجنوب الغربي",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 13,
+        "ratioError": 0.00047825820945301967,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/vancouver-house-1200.webp"
+      },
+      {
+        "alt": "سقف كوبن هيل المائل وجدار التسلق",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.0006983727913960625,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/copenhill-1600.webp"
+      },
+      {
+        "alt": "دار أوبرا أوسلو والواجهة البحرية والسقف المتاح للمشي",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 15,
+        "ratioError": 0.0005887045262547019,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oslo-opera-1600.webp"
+      }
+    ],
+    "lang": "ar",
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "kind": "building",
+    "locale": "es",
+    "dir": "ltr",
+    "items": [
+      {
+        "heading": "H2",
+        "link": "https://www.zha.com/projects/architecture/heydar-aliyev-centre?disclaimer=true",
+        "loaded": null,
+        "rank": 1,
+        "ratioError": null
+      },
+      {
+        "alt": "Exterior de Leeza SOHO al anochecer",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 2,
+        "ratioError": 0.001241768846503177,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/leeza-soho-1600.webp"
+      },
+      {
+        "alt": "Exterior del Morpheus con exoesqueleto y huecos centrales",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.00035576879094512126,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/morpheus-1200.webp"
+      },
+      {
+        "alt": "Interior de la terminal de Daxing bajo su cubierta abovedada",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.0007724990343760396,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/daxing-airport-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://museumofthefuture.ae/en/the-building",
+        "loaded": null,
+        "rank": 5,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.henninglarsen.com/projects/harpa",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "alt": "Volumen acristalado de Elbphilharmonie sobre el almacén de ladrillo",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 7,
+        "ratioError": 0.0013340187225079347,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/elbphilharmonie-1600.webp"
+      },
+      {
+        "alt": "Sala superior de lectura de Oodi",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 8,
+        "ratioError": 0.0013340187225079347,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oodi-1600.webp"
+      },
+      {
+        "alt": "Shanghai Tower vista desde el suelo",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0003887974494887203,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/shanghai-tower-1200.webp"
+      },
+      {
+        "alt": "Complejo integrado Marina Bay Sands de noche",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 10,
+        "ratioError": 0.0017179094514470084,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/marina-bay-sands-1600.webp"
+      },
+      {
+        "alt": "Bloques residenciales apilados de The Interlace",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 11,
+        "ratioError": 0.002335421950198313,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/interlace-1600.webp"
+      },
+      {
+        "alt": "Rain Vortex y jardín interior de Jewel",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.002479999265185384,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/jewel-changi-1600.webp"
+      },
+      {
+        "alt": "Vancouver House vista desde el suroeste",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 13,
+        "ratioError": 0.00047825820945301967,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/vancouver-house-1200.webp"
+      },
+      {
+        "alt": "Cubierta inclinada y muro de escalada de CopenHill",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.0006983727913960625,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/copenhill-1600.webp"
+      },
+      {
+        "alt": "Ópera de Oslo, frente marítimo y cubierta transitable",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 15,
+        "ratioError": 0.0005887045262547019,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oslo-opera-1600.webp"
+      }
+    ],
+    "lang": "es",
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "kind": "painting",
+    "locale": "en",
+    "dir": "ltr",
+    "items": [
+      {
+        "alt": "Salvator Mundi attributed to Leonardo, Christ holding an orb and raising a hand",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 1,
+        "ratioError": 0.0003309692671394915,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/salvator-mundi-1200.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Interchange_(de_Kooning)",
+        "loaded": null,
+        "rank": 2,
+        "ratioError": null
+      },
+      {
+        "alt": "Cézanne’s privately held Card Players, two men at an orange table",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.0011053352955665563,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/card-players-1600.webp"
+      },
+      {
+        "alt": "Klimt’s full-length Elisabeth Lederer in a patterned dress and decorative setting",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.000588416224240107,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/elisabeth-lederer-1200.webp"
+      },
+      {
+        "alt": "Gauguin’s Nafea faa ipoipo, two women in a colourful Tahitian landscape",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 5,
+        "ratioError": 0.0002760721042216474,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nafea-1200.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Number_17A",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6369449",
+        "loaded": null,
+        "rank": 7,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/No._6_(Violet,_Green_and_Red)",
+        "loaded": null,
+        "rank": 8,
+        "ratioError": null
+      },
+      {
+        "alt": "Klimt’s Water Serpents II, intertwined reclining figures and floral ornament",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/water-serpents-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6585089",
+        "loaded": null,
+        "rank": 10,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://press.christies.com/post-sale-looking-forward-to-the-past-christies-curated-evening-sale-of-impressionist-modern-and-contemporary-art-achieves-us705858000/",
+        "loaded": null,
+        "rank": 11,
+        "ratioError": null
+      },
+      {
+        "alt": "Modigliani’s 2015 auction Nu couché, reclining figure on a red background",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.0010946907498630145,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=418",
+        "loaded": null,
+        "rank": 13,
+        "ratioError": null
+      },
+      {
+        "alt": "Modigliani’s Nu couché sur le côté gauche, full reclining figure seen from behind",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.001167624118443733,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-left-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.artsy.net/artwork/pablo-picasso-le-reve-the-dream",
+        "loaded": null,
+        "rank": 15,
+        "ratioError": null
+      }
+    ],
+    "lang": "en",
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "kind": "painting",
+    "locale": "fr",
+    "dir": "ltr",
+    "items": [
+      {
+        "alt": "Salvator Mundi attribué à Léonard, le Christ tenant une sphère et levant une main",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 1,
+        "ratioError": 0.0003309692671394915,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/salvator-mundi-1200.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Interchange_(de_Kooning)",
+        "loaded": null,
+        "rank": 2,
+        "ratioError": null
+      },
+      {
+        "alt": "Les Joueurs de cartes de Cézanne, version privée avec deux hommes et une table orange",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.0011053352955665563,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/card-players-1600.webp"
+      },
+      {
+        "alt": "Elisabeth Lederer en pied, robe et décor à motifs, par Klimt",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.000588416224240107,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/elisabeth-lederer-1200.webp"
+      },
+      {
+        "alt": "Nafea faa ipoipo de Gauguin, deux femmes dans un paysage tahitien coloré",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 5,
+        "ratioError": 0.0002760721042216474,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nafea-1200.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Number_17A",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6369449",
+        "loaded": null,
+        "rank": 7,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/No._6_(Violet,_Green_and_Red)",
+        "loaded": null,
+        "rank": 8,
+        "ratioError": null
+      },
+      {
+        "alt": "Wasserschlangen II de Klimt, figures allongées et ornements floraux",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/water-serpents-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6585089",
+        "loaded": null,
+        "rank": 10,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://press.christies.com/post-sale-looking-forward-to-the-past-christies-curated-evening-sale-of-impressionist-modern-and-contemporary-art-achieves-us705858000/",
+        "loaded": null,
+        "rank": 11,
+        "ratioError": null
+      },
+      {
+        "alt": "Nu couché vendu en 2015, figure allongée sur fond rouge, Modigliani",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.0010946907498630145,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=418",
+        "loaded": null,
+        "rank": 13,
+        "ratioError": null
+      },
+      {
+        "alt": "Nu couché sur le côté gauche de Modigliani, figure entière vue de dos",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.001167624118443733,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-left-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.artsy.net/artwork/pablo-picasso-le-reve-the-dream",
+        "loaded": null,
+        "rank": 15,
+        "ratioError": null
+      }
+    ],
+    "lang": "fr",
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "kind": "painting",
+    "locale": "ar",
+    "dir": "rtl",
+    "items": [
+      {
+        "alt": "سالفاتور موندي المنسوبة إلى ليوناردو، المسيح يحمل كرة ويرفع يده",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 1,
+        "ratioError": 0.0003309692671394915,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/salvator-mundi-1200.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Interchange_(de_Kooning)",
+        "loaded": null,
+        "rank": 2,
+        "ratioError": null
+      },
+      {
+        "alt": "نسخة لاعبي الورق الخاصة لسيزان، رجلان عند طاولة برتقالية",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.0011053352955665563,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/card-players-1600.webp"
+      },
+      {
+        "alt": "إليزابيث ليديرر لكليمت بكامل قامتها وثوب وخلفية مزخرفين",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.000588416224240107,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/elisabeth-lederer-1200.webp"
+      },
+      {
+        "alt": "نافيا فا إيبويبو لغوغان، امرأتان في مشهد تاهيتي ملون",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 5,
+        "ratioError": 0.0002760721042216474,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nafea-1200.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Number_17A",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6369449",
+        "loaded": null,
+        "rank": 7,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/No._6_(Violet,_Green_and_Red)",
+        "loaded": null,
+        "rank": 8,
+        "ratioError": null
+      },
+      {
+        "alt": "ثعابين الماء الثانية لكليمت، أجساد مستلقية وزخارف زهرية",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/water-serpents-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6585089",
+        "loaded": null,
+        "rank": 10,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://press.christies.com/post-sale-looking-forward-to-the-past-christies-curated-evening-sale-of-impressionist-modern-and-contemporary-art-achieves-us705858000/",
+        "loaded": null,
+        "rank": 11,
+        "ratioError": null
+      },
+      {
+        "alt": "نو كوشيه لموديلياني المباعة في 2015، جسد مستلق على خلفية حمراء",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.0010946907498630145,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=418",
+        "loaded": null,
+        "rank": 13,
+        "ratioError": null
+      },
+      {
+        "alt": "نو كوشيه على الجانب الأيسر لموديلياني، جسد كامل مستلق من الخلف",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.001167624118443733,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-left-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.artsy.net/artwork/pablo-picasso-le-reve-the-dream",
+        "loaded": null,
+        "rank": 15,
+        "ratioError": null
+      }
+    ],
+    "lang": "ar",
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "kind": "painting",
+    "locale": "es",
+    "dir": "ltr",
+    "items": [
+      {
+        "alt": "Salvator Mundi atribuido a Leonardo, Cristo con una esfera y la mano levantada",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 1,
+        "ratioError": 0.0003309692671394915,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/salvator-mundi-1200.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Interchange_(de_Kooning)",
+        "loaded": null,
+        "rank": 2,
+        "ratioError": null
+      },
+      {
+        "alt": "Los jugadores de cartas de Cézanne, versión privada con dos hombres y mesa naranja",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.0011053352955665563,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/card-players-1600.webp"
+      },
+      {
+        "alt": "Elisabeth Lederer de cuerpo entero, vestido y entorno decorativos, por Klimt",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.000588416224240107,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/elisabeth-lederer-1200.webp"
+      },
+      {
+        "alt": "Nafea faa ipoipo de Gauguin, dos mujeres en un paisaje tahitiano de colores",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 5,
+        "ratioError": 0.0002760721042216474,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nafea-1200.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Number_17A",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6369449",
+        "loaded": null,
+        "rank": 7,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/No._6_(Violet,_Green_and_Red)",
+        "loaded": null,
+        "rank": 8,
+        "ratioError": null
+      },
+      {
+        "alt": "Wasserschlangen II de Klimt, figuras recostadas y ornamentos florales",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/water-serpents-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6585089",
+        "loaded": null,
+        "rank": 10,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://press.christies.com/post-sale-looking-forward-to-the-past-christies-curated-evening-sale-of-impressionist-modern-and-contemporary-art-achieves-us705858000/",
+        "loaded": null,
+        "rank": 11,
+        "ratioError": null
+      },
+      {
+        "alt": "Nu couché subastado en 2015, figura recostada sobre fondo rojo, Modigliani",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.0010946907498630145,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=418",
+        "loaded": null,
+        "rank": 13,
+        "ratioError": null
+      },
+      {
+        "alt": "Nu couché sur le côté gauche de Modigliani, figura completa vista desde atrás",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.001167624118443733,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-left-1600.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.artsy.net/artwork/pablo-picasso-le-reve-the-dream",
+        "loaded": null,
+        "rank": 15,
+        "ratioError": null
+      }
+    ],
+    "lang": "es",
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "kind": "painting",
+    "locale": "en",
+    "dir": "ltr",
+    "items": [
+      {
+        "alt": "Salvator Mundi attributed to Leonardo, Christ holding an orb and raising a hand",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 1,
+        "ratioError": 0.001414831303257813,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/salvator-mundi-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Interchange_(de_Kooning)",
+        "loaded": null,
+        "rank": 2,
+        "ratioError": null
+      },
+      {
+        "alt": "Cézanne’s privately held Card Players, two men at an orange table",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.00019944156362194931,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/card-players-400.webp"
+      },
+      {
+        "alt": "Klimt’s full-length Elisabeth Lederer in a patterned dress and decorative setting",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.0007824726134585402,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/elisabeth-lederer-400.webp"
+      },
+      {
+        "alt": "Gauguin’s Nafea faa ipoipo, two women in a colourful Tahitian landscape",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 5,
+        "ratioError": 0.0007414199040116642,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nafea-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Number_17A",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6369449",
+        "loaded": null,
+        "rank": 7,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/No._6_(Violet,_Green_and_Red)",
+        "loaded": null,
+        "rank": 8,
+        "ratioError": null
+      },
+      {
+        "alt": "Klimt’s Water Serpents II, intertwined reclining figures and floral ornament",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0010936714847329387,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/water-serpents-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6585089",
+        "loaded": null,
+        "rank": 10,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://press.christies.com/post-sale-looking-forward-to-the-past-christies-curated-evening-sale-of-impressionist-modern-and-contemporary-art-achieves-us705858000/",
+        "loaded": null,
+        "rank": 11,
+        "ratioError": null
+      },
+      {
+        "alt": "Modigliani’s 2015 auction Nu couché, reclining figure on a red background",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.002263012320844693,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=418",
+        "loaded": null,
+        "rank": 13,
+        "ratioError": null
+      },
+      {
+        "alt": "Modigliani’s Nu couché sur le côté gauche, full reclining figure seen from behind",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.0031162690737158716,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-left-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.artsy.net/artwork/pablo-picasso-le-reve-the-dream",
+        "loaded": null,
+        "rank": 15,
+        "ratioError": null
+      }
+    ],
+    "lang": "en",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "kind": "painting",
+    "locale": "fr",
+    "dir": "ltr",
+    "items": [
+      {
+        "alt": "Salvator Mundi attribué à Léonard, le Christ tenant une sphère et levant une main",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 1,
+        "ratioError": 0.001414831303257813,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/salvator-mundi-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Interchange_(de_Kooning)",
+        "loaded": null,
+        "rank": 2,
+        "ratioError": null
+      },
+      {
+        "alt": "Les Joueurs de cartes de Cézanne, version privée avec deux hommes et une table orange",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.00019944156362194931,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/card-players-400.webp"
+      },
+      {
+        "alt": "Elisabeth Lederer en pied, robe et décor à motifs, par Klimt",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.0007824726134585402,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/elisabeth-lederer-400.webp"
+      },
+      {
+        "alt": "Nafea faa ipoipo de Gauguin, deux femmes dans un paysage tahitien coloré",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 5,
+        "ratioError": 0.0007414199040116642,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nafea-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Number_17A",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6369449",
+        "loaded": null,
+        "rank": 7,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/No._6_(Violet,_Green_and_Red)",
+        "loaded": null,
+        "rank": 8,
+        "ratioError": null
+      },
+      {
+        "alt": "Wasserschlangen II de Klimt, figures allongées et ornements floraux",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0010936714847329387,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/water-serpents-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6585089",
+        "loaded": null,
+        "rank": 10,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://press.christies.com/post-sale-looking-forward-to-the-past-christies-curated-evening-sale-of-impressionist-modern-and-contemporary-art-achieves-us705858000/",
+        "loaded": null,
+        "rank": 11,
+        "ratioError": null
+      },
+      {
+        "alt": "Nu couché vendu en 2015, figure allongée sur fond rouge, Modigliani",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.002263012320844693,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=418",
+        "loaded": null,
+        "rank": 13,
+        "ratioError": null
+      },
+      {
+        "alt": "Nu couché sur le côté gauche de Modigliani, figure entière vue de dos",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.0031162690737158716,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-left-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.artsy.net/artwork/pablo-picasso-le-reve-the-dream",
+        "loaded": null,
+        "rank": 15,
+        "ratioError": null
+      }
+    ],
+    "lang": "fr",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "kind": "painting",
+    "locale": "ar",
+    "dir": "rtl",
+    "items": [
+      {
+        "alt": "سالفاتور موندي المنسوبة إلى ليوناردو، المسيح يحمل كرة ويرفع يده",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 1,
+        "ratioError": 0.001414831303257813,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/salvator-mundi-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Interchange_(de_Kooning)",
+        "loaded": null,
+        "rank": 2,
+        "ratioError": null
+      },
+      {
+        "alt": "نسخة لاعبي الورق الخاصة لسيزان، رجلان عند طاولة برتقالية",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.00019944156362194931,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/card-players-400.webp"
+      },
+      {
+        "alt": "إليزابيث ليديرر لكليمت بكامل قامتها وثوب وخلفية مزخرفين",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.0007824726134585402,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/elisabeth-lederer-400.webp"
+      },
+      {
+        "alt": "نافيا فا إيبويبو لغوغان، امرأتان في مشهد تاهيتي ملون",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 5,
+        "ratioError": 0.0007414199040116642,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nafea-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Number_17A",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6369449",
+        "loaded": null,
+        "rank": 7,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/No._6_(Violet,_Green_and_Red)",
+        "loaded": null,
+        "rank": 8,
+        "ratioError": null
+      },
+      {
+        "alt": "ثعابين الماء الثانية لكليمت، أجساد مستلقية وزخارف زهرية",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0010936714847329387,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/water-serpents-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6585089",
+        "loaded": null,
+        "rank": 10,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://press.christies.com/post-sale-looking-forward-to-the-past-christies-curated-evening-sale-of-impressionist-modern-and-contemporary-art-achieves-us705858000/",
+        "loaded": null,
+        "rank": 11,
+        "ratioError": null
+      },
+      {
+        "alt": "نو كوشيه لموديلياني المباعة في 2015، جسد مستلق على خلفية حمراء",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.002263012320844693,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=418",
+        "loaded": null,
+        "rank": 13,
+        "ratioError": null
+      },
+      {
+        "alt": "نو كوشيه على الجانب الأيسر لموديلياني، جسد كامل مستلق من الخلف",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.0031162690737158716,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-left-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.artsy.net/artwork/pablo-picasso-le-reve-the-dream",
+        "loaded": null,
+        "rank": 15,
+        "ratioError": null
+      }
+    ],
+    "lang": "ar",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "kind": "painting",
+    "locale": "es",
+    "dir": "ltr",
+    "items": [
+      {
+        "alt": "Salvator Mundi atribuido a Leonardo, Cristo con una esfera y la mano levantada",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 1,
+        "ratioError": 0.001414831303257813,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/salvator-mundi-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Interchange_(de_Kooning)",
+        "loaded": null,
+        "rank": 2,
+        "ratioError": null
+      },
+      {
+        "alt": "Los jugadores de cartas de Cézanne, versión privada con dos hombres y mesa naranja",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.00019944156362194931,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/card-players-400.webp"
+      },
+      {
+        "alt": "Elisabeth Lederer de cuerpo entero, vestido y entorno decorativos, por Klimt",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.0007824726134585402,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/elisabeth-lederer-400.webp"
+      },
+      {
+        "alt": "Nafea faa ipoipo de Gauguin, dos mujeres en un paisaje tahitiano de colores",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 5,
+        "ratioError": 0.0007414199040116642,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nafea-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/Number_17A",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6369449",
+        "loaded": null,
+        "rank": 7,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://en.wikipedia.org/wiki/No._6_(Violet,_Green_and_Red)",
+        "loaded": null,
+        "rank": 8,
+        "ratioError": null
+      },
+      {
+        "alt": "Wasserschlangen II de Klimt, figuras recostadas y ornamentos florales",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0010936714847329387,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/water-serpents-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.christies.com/lot/lot-6585089",
+        "loaded": null,
+        "rank": 10,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://press.christies.com/post-sale-looking-forward-to-the-past-christies-curated-evening-sale-of-impressionist-modern-and-contemporary-art-achieves-us705858000/",
+        "loaded": null,
+        "rank": 11,
+        "ratioError": null
+      },
+      {
+        "alt": "Nu couché subastado en 2015, figura recostada sobre fondo rojo, Modigliani",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.002263012320844693,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=418",
+        "loaded": null,
+        "rank": 13,
+        "ratioError": null
+      },
+      {
+        "alt": "Nu couché sur le côté gauche de Modigliani, figura completa vista desde atrás",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.0031162690737158716,
+        "source": "http://127.0.0.1:4251/articles/paintings/responsive/nu-couche-left-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.artsy.net/artwork/pablo-picasso-le-reve-the-dream",
+        "loaded": null,
+        "rank": 15,
+        "ratioError": null
+      }
+    ],
+    "lang": "es",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "kind": "building",
+    "locale": "en",
+    "dir": "ltr",
+    "items": [
+      {
+        "heading": "H2",
+        "link": "https://www.zha.com/projects/architecture/heydar-aliyev-centre?disclaimer=true",
+        "loaded": null,
+        "rank": 1,
+        "ratioError": null
+      },
+      {
+        "alt": "Leeza SOHO exterior at dusk",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 2,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/leeza-soho-400.webp"
+      },
+      {
+        "alt": "Morpheus exterior showing the exoskeleton and central openings",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.000527797325826973,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/morpheus-400.webp"
+      },
+      {
+        "alt": "Daxing terminal interior beneath the vaulted roof",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.00136612021857907,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/daxing-airport-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://museumofthefuture.ae/en/the-building",
+        "loaded": null,
+        "rank": 5,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.henninglarsen.com/projects/harpa",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "alt": "Elbphilharmonie glass volume above the brick warehouse",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 7,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/elbphilharmonie-400.webp"
+      },
+      {
+        "alt": "Oodi upper reading hall",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 8,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oodi-400.webp"
+      },
+      {
+        "alt": "Shanghai Tower seen from ground level",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0023715859278408136,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/shanghai-tower-400.webp"
+      },
+      {
+        "alt": "Marina Bay Sands integrated resort at night",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 10,
+        "ratioError": 0.00324324324324321,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/marina-bay-sands-400.webp"
+      },
+      {
+        "alt": "The Interlace stacked residential blocks",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 11,
+        "ratioError": 0.0034965034965035446,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/interlace-400.webp"
+      },
+      {
+        "alt": "Jewel Rain Vortex and indoor garden",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.0010691209966067206,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/jewel-changi-400.webp"
+      },
+      {
+        "alt": "Vancouver House seen from the southwest",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 13,
+        "ratioError": 0.0017458498368082551,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/vancouver-house-400.webp"
+      },
+      {
+        "alt": "CopenHill sloping roof and climbing wall",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.003904440473826875,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/copenhill-400.webp"
+      },
+      {
+        "alt": "Oslo Opera House waterfront and walkable roof",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 15,
+        "ratioError": 0.0027143600803154477,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oslo-opera-400.webp"
+      }
+    ],
+    "lang": "en",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "kind": "building",
+    "locale": "fr",
+    "dir": "ltr",
+    "items": [
+      {
+        "heading": "H2",
+        "link": "https://www.zha.com/projects/architecture/heydar-aliyev-centre?disclaimer=true",
+        "loaded": null,
+        "rank": 1,
+        "ratioError": null
+      },
+      {
+        "alt": "Extérieur de Leeza SOHO au crépuscule",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 2,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/leeza-soho-400.webp"
+      },
+      {
+        "alt": "Extérieur du Morpheus, exosquelette et ouvertures centrales",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.000527797325826973,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/morpheus-400.webp"
+      },
+      {
+        "alt": "Intérieur du terminal de Daxing sous sa voûte",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.00136612021857907,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/daxing-airport-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://museumofthefuture.ae/en/the-building",
+        "loaded": null,
+        "rank": 5,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.henninglarsen.com/projects/harpa",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "alt": "Volume vitré de l’Elbphilharmonie au-dessus de l’entrepôt en briques",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 7,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/elbphilharmonie-400.webp"
+      },
+      {
+        "alt": "Salle de lecture supérieure d’Oodi",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 8,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oodi-400.webp"
+      },
+      {
+        "alt": "Shanghai Tower vue depuis le sol",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0023715859278408136,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/shanghai-tower-400.webp"
+      },
+      {
+        "alt": "Complexe intégré Marina Bay Sands de nuit",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 10,
+        "ratioError": 0.00324324324324321,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/marina-bay-sands-400.webp"
+      },
+      {
+        "alt": "Blocs résidentiels superposés de The Interlace",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 11,
+        "ratioError": 0.0034965034965035446,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/interlace-400.webp"
+      },
+      {
+        "alt": "Rain Vortex et jardin intérieur de Jewel",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.0010691209966067206,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/jewel-changi-400.webp"
+      },
+      {
+        "alt": "Vancouver House vue du sud-ouest",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 13,
+        "ratioError": 0.0017458498368082551,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/vancouver-house-400.webp"
+      },
+      {
+        "alt": "Toit incliné et mur d’escalade de CopenHill",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.003904440473826875,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/copenhill-400.webp"
+      },
+      {
+        "alt": "Opéra d’Oslo, front de mer et toit accessible",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 15,
+        "ratioError": 0.0027143600803154477,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oslo-opera-400.webp"
+      }
+    ],
+    "lang": "fr",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "kind": "building",
+    "locale": "ar",
+    "dir": "rtl",
+    "items": [
+      {
+        "heading": "H2",
+        "link": "https://www.zha.com/projects/architecture/heydar-aliyev-centre?disclaimer=true",
+        "loaded": null,
+        "rank": 1,
+        "ratioError": null
+      },
+      {
+        "alt": "واجهة ليزا سوهو عند الغسق",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 2,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/leeza-soho-400.webp"
+      },
+      {
+        "alt": "واجهة مورفيوس مع الهيكل الخارجي والفتحات الوسطى",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.000527797325826973,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/morpheus-400.webp"
+      },
+      {
+        "alt": "داخل محطة داكسينغ تحت السقف المقوس",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.00136612021857907,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/daxing-airport-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://museumofthefuture.ae/en/the-building",
+        "loaded": null,
+        "rank": 5,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.henninglarsen.com/projects/harpa",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "alt": "الكتلة الزجاجية لإلبفيلهارموني فوق المستودع الآجري",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 7,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/elbphilharmonie-400.webp"
+      },
+      {
+        "alt": "قاعة القراءة العليا في أودي",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 8,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oodi-400.webp"
+      },
+      {
+        "alt": "برج شنغهاي من مستوى الأرض",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0023715859278408136,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/shanghai-tower-400.webp"
+      },
+      {
+        "alt": "منتجع مارينا باي ساندز المتكامل ليلاً",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 10,
+        "ratioError": 0.00324324324324321,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/marina-bay-sands-400.webp"
+      },
+      {
+        "alt": "الكتل السكنية المتراكبة في إنترليس",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 11,
+        "ratioError": 0.0034965034965035446,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/interlace-400.webp"
+      },
+      {
+        "alt": "شلال رين فورتكس والحديقة الداخلية في جويل",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.0010691209966067206,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/jewel-changi-400.webp"
+      },
+      {
+        "alt": "فانكوفر هاوس من جهة الجنوب الغربي",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 13,
+        "ratioError": 0.0017458498368082551,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/vancouver-house-400.webp"
+      },
+      {
+        "alt": "سقف كوبن هيل المائل وجدار التسلق",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.003904440473826875,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/copenhill-400.webp"
+      },
+      {
+        "alt": "دار أوبرا أوسلو والواجهة البحرية والسقف المتاح للمشي",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 15,
+        "ratioError": 0.0027143600803154477,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oslo-opera-400.webp"
+      }
+    ],
+    "lang": "ar",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "kind": "building",
+    "locale": "es",
+    "dir": "ltr",
+    "items": [
+      {
+        "heading": "H2",
+        "link": "https://www.zha.com/projects/architecture/heydar-aliyev-centre?disclaimer=true",
+        "loaded": null,
+        "rank": 1,
+        "ratioError": null
+      },
+      {
+        "alt": "Exterior de Leeza SOHO al anochecer",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 2,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/leeza-soho-400.webp"
+      },
+      {
+        "alt": "Exterior del Morpheus con exoesqueleto y huecos centrales",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 3,
+        "ratioError": 0.000527797325826973,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/morpheus-400.webp"
+      },
+      {
+        "alt": "Interior de la terminal de Daxing bajo su cubierta abovedada",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 4,
+        "ratioError": 0.00136612021857907,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/daxing-airport-400.webp"
+      },
+      {
+        "heading": "H2",
+        "link": "https://museumofthefuture.ae/en/the-building",
+        "loaded": null,
+        "rank": 5,
+        "ratioError": null
+      },
+      {
+        "heading": "H2",
+        "link": "https://www.henninglarsen.com/projects/harpa",
+        "loaded": null,
+        "rank": 6,
+        "ratioError": null
+      },
+      {
+        "alt": "Volumen acristalado de Elbphilharmonie sobre el almacén de ladrillo",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 7,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/elbphilharmonie-400.webp"
+      },
+      {
+        "alt": "Sala superior de lectura de Oodi",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 8,
+        "ratioError": 0.0025502214666011103,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oodi-400.webp"
+      },
+      {
+        "alt": "Shanghai Tower vista desde el suelo",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 9,
+        "ratioError": 0.0023715859278408136,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/shanghai-tower-400.webp"
+      },
+      {
+        "alt": "Complejo integrado Marina Bay Sands de noche",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 10,
+        "ratioError": 0.00324324324324321,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/marina-bay-sands-400.webp"
+      },
+      {
+        "alt": "Bloques residenciales apilados de The Interlace",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 11,
+        "ratioError": 0.0034965034965035446,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/interlace-400.webp"
+      },
+      {
+        "alt": "Rain Vortex y jardín interior de Jewel",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 12,
+        "ratioError": 0.0010691209966067206,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/jewel-changi-400.webp"
+      },
+      {
+        "alt": "Vancouver House vista desde el suroeste",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 13,
+        "ratioError": 0.0017458498368082551,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/vancouver-house-400.webp"
+      },
+      {
+        "alt": "Cubierta inclinada y muro de escalada de CopenHill",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 14,
+        "ratioError": 0.003904440473826875,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/copenhill-400.webp"
+      },
+      {
+        "alt": "Ópera de Oslo, frente marítimo y cubierta transitable",
+        "heading": "H2",
+        "link": null,
+        "loaded": true,
+        "rank": 15,
+        "ratioError": 0.0027143600803154477,
+        "source": "http://127.0.0.1:4251/articles/architecture/responsive/oslo-opera-400.webp"
+      }
+    ],
+    "lang": "es",
+    "overflow": false,
+    "width": 390
+  }
+]

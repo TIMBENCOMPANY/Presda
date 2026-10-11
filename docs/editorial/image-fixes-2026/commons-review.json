@@ -1,0 +1,881 @@
+{
+  "checkedAt": "2026-10-11",
+  "records": [
+    {
+      "kind": "painting",
+      "slug": "salvator-mundi",
+      "title": "File:Leonardo da Vinci, Salvator Mundi, c.1500, oil on walnut, 45.4 × 65.6 cm.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Salvator_Mundi,_c.1500,_oil_on_walnut,_45.4_%C3%97_65.6_cm.jpg",
+      "license": "Public domain faithful two-dimensional reproduction",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-Art",
+      "width": 1600,
+      "height": 2354,
+      "src": "/articles/paintings/salvator-mundi.webp",
+      "changes": "Resized and converted to WebP; no crop",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "kind": "painting",
+      "slug": "card-players",
+      "title": "File:Les Joueurs de cartes, par Paul Cézanne, collection Al-Thani, Yorck.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne,_collection_Al-Thani,_Yorck.jpg",
+      "license": "Public domain faithful two-dimensional reproduction",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-Art",
+      "width": 1600,
+      "height": 1132,
+      "src": "/articles/paintings/card-players.webp",
+      "changes": "Resized and converted to WebP; no crop",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "kind": "painting",
+      "slug": "elisabeth-lederer",
+      "title": "File:Gustav Klimt - Bildnis der Elisabeth Lederer (1914-1916).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Bildnis_der_Elisabeth_Lederer_(1914-1916).jpg",
+      "license": "Public domain faithful two-dimensional reproduction",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-Art",
+      "width": 1600,
+      "height": 2213,
+      "src": "/articles/paintings/elisabeth-lederer.webp",
+      "changes": "Resized and converted to WebP; no crop",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "kind": "painting",
+      "slug": "nafea",
+      "title": "File:Paul Gauguin, Nafea Faa Ipoipo? 1892, oil on canvas, 101 x 77 cm.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin,_Nafea_Faa_Ipoipo%3F_1892,_oil_on_canvas,_101_x_77_cm.jpg",
+      "license": "Public domain faithful two-dimensional reproduction",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-Art",
+      "width": 1600,
+      "height": 2123,
+      "src": "/articles/paintings/nafea.webp",
+      "changes": "Resized and converted to WebP; no crop",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "kind": "painting",
+      "slug": "water-serpents",
+      "title": "File:Gustav Klimt - Water Serpents II.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Water_Serpents_II.jpg",
+      "license": "Public domain faithful two-dimensional reproduction",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-Art",
+      "width": 1600,
+      "height": 928,
+      "src": "/articles/paintings/water-serpents.webp",
+      "changes": "Resized and converted to WebP; no crop",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "kind": "painting",
+      "slug": "nu-couche",
+      "title": "File:Modigliani - Nu couché.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Modigliani_-_Nu_couch%C3%A9.jpg",
+      "license": "Public domain faithful two-dimensional reproduction",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-Art",
+      "width": 1600,
+      "height": 1008,
+      "src": "/articles/paintings/nu-couche.webp",
+      "changes": "Resized and converted to WebP; no crop",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "kind": "painting",
+      "slug": "nu-couche-left",
+      "title": "File:Amedeo Modigliani 014.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amedeo_Modigliani_014.jpg",
+      "license": "Public domain faithful two-dimensional reproduction",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-Art",
+      "width": 1600,
+      "height": 977,
+      "src": "/articles/paintings/nu-couche-left.webp",
+      "changes": "Resized and converted to WebP; no crop",
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "kind": "building",
+      "slug": "leeza-soho",
+      "name": "Leeza SOHO",
+      "title": "File:Leeza SOHO.jpg",
+      "src": "/articles/architecture/leeza-soho.webp",
+      "width": 1600,
+      "height": 1068,
+      "author": "AsAuSo",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:AsAuSo\" title=\"User:AsAuSo\">AsAuSo</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Leeza_SOHO.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Leeza_SOHO.jpg/1920px-Leeza_SOHO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2020-08-05 12:14:16",
+      "description": "Leeza SOHO, designed by Zaha Hadid Architects.",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Leeza SOHO exterior at dusk",
+      "caption": "Leeza SOHO exterior at dusk"
+    },
+    {
+      "kind": "building",
+      "slug": "morpheus",
+      "name": "Morpheus hotel",
+      "title": "File:Macau Morpheus Hotel 2024 dllu.webp",
+      "src": "/articles/architecture/morpheus.webp",
+      "width": 1600,
+      "height": 2408,
+      "author": "Dllu",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:Dllu\" title=\"User:Dllu\">Dllu</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Macau_Morpheus_Hotel_2024_dllu.webp",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Macau_Morpheus_Hotel_2024_dllu.webp/1920px-Macau_Morpheus_Hotel_2024_dllu.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2024-09-22",
+      "description": "The Morpheus Hotel in Macau. The building was designed by Zaha Hadid Architects. It has no internal columns and is entirely supported by its exoskeleton.",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Morpheus exterior showing the exoskeleton and central openings",
+      "caption": "Morpheus exterior showing the exoskeleton and central openings"
+    },
+    {
+      "kind": "building",
+      "slug": "daxing-airport",
+      "name": "Beijing Daxing International Airport",
+      "title": "File:Interior of Beijing Daxing International Airport 1.jpg",
+      "src": "/articles/architecture/daxing-airport.webp",
+      "width": 1600,
+      "height": 1200,
+      "author": "H2v5o68z",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:H2v5o68z\" class=\"mw-redirect\" title=\"User:H2v5o68z\">H2v5o68z</a>",
+      "licence": "CC0",
+      "licenceURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Beijing_Daxing_International_Airport_1.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Interior_of_Beijing_Daxing_International_Airport_1.jpg/1920px-Interior_of_Beijing_Daxing_International_Airport_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2024-05-13 07:02:09",
+      "description": "​Interior of Beijing Daxing International Airport",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Daxing terminal interior beneath the vaulted roof",
+      "caption": "Daxing terminal interior beneath the vaulted roof"
+    },
+    {
+      "kind": "building",
+      "slug": "harpa",
+      "name": "Harpa concert hall",
+      "title": "File:Harpa (concert hall).jpg",
+      "src": "/articles/architecture/harpa.webp",
+      "width": 1600,
+      "height": 1200,
+      "author": "Manuelarosi",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:Manuelarosi\" title=\"User:Manuelarosi\">Manuelarosi</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Harpa_(concert_hall).jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Harpa_%28concert_hall%29.jpg/1920px-Harpa_%28concert_hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2025-11-09 19:49:10",
+      "description": "Harpa (concert hall)",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Harpa auditorium with red balconies",
+      "caption": "Harpa auditorium with red balconies"
+    },
+    {
+      "kind": "building",
+      "slug": "elbphilharmonie",
+      "name": "Elbphilharmonie",
+      "title": "File:Elbphilharmonie 3920.jpg",
+      "src": "/articles/architecture/elbphilharmonie.webp",
+      "width": 1600,
+      "height": 1067,
+      "author": "Henry Kellner",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:Hamster28\" title=\"User:Hamster28\">Henry Kellner</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Elbphilharmonie_3920.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Elbphilharmonie_3920.jpg/1920px-Elbphilharmonie_3920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2015-07-21 11:39:34",
+      "description": "Elbphilharmonie, Hamburg",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Elbphilharmonie glass volume above the brick warehouse",
+      "caption": "Elbphilharmonie glass volume above the brick warehouse"
+    },
+    {
+      "kind": "building",
+      "slug": "oodi",
+      "name": "Oodi",
+      "title": "File:Oodi library.jpg",
+      "src": "/articles/architecture/oodi.webp",
+      "width": 1600,
+      "height": 1067,
+      "author": "WanderingTrad",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:WanderingTrad\" title=\"User:WanderingTrad\">WanderingTrad</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Oodi_library.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Oodi_library.jpg/1920px-Oodi_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2019-05-31 19:22:54",
+      "description": "Helsinki Oodi library interior, June 2019",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Oodi upper reading hall",
+      "caption": "Oodi upper reading hall"
+    },
+    {
+      "kind": "building",
+      "slug": "shanghai-tower",
+      "name": "Shanghai Tower",
+      "title": "File:Shanghai Shanghai Tower 5166304.jpg",
+      "src": "/articles/architecture/shanghai-tower.webp",
+      "width": 1600,
+      "height": 2133,
+      "author": "Ermell",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+      "licence": "CC0",
+      "licenceURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Shanghai_Tower_5166304.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Shanghai_Shanghai_Tower_5166304.jpg/1920px-Shanghai_Shanghai_Tower_5166304.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2015-05-16 15:29:07",
+      "description": "View upwards Shanghai tower",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Shanghai Tower seen from ground level",
+      "caption": "Shanghai Tower seen from ground level"
+    },
+    {
+      "kind": "building",
+      "slug": "marina-bay-sands",
+      "name": "Marina Bay Sands",
+      "title": "File:Puente Helix, museo ArtScience y hotel Marina Bay Sands, Marina Bay, Singapur, 2023-08-17, DD 67-69 HDR.jpg",
+      "src": "/articles/architecture/marina-bay-sands.webp",
+      "width": 1600,
+      "height": 909,
+      "author": "Diego Delso",
+      "authorHTML": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Puente_Helix,_museo_ArtScience_y_hotel_Marina_Bay_Sands,_Marina_Bay,_Singapur,_2023-08-17,_DD_67-69_HDR.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Puente_Helix%2C_museo_ArtScience_y_hotel_Marina_Bay_Sands%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_67-69_HDR.jpg/1920px-Puente_Helix%2C_museo_ArtScience_y_hotel_Marina_Bay_Sands%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_67-69_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2023-08-17 13:48:58",
+      "description": "View of the Helix Bridge, the Marina Bay Sands Hotel and the ArtScience Museum during the blue hour, Marina Bay, Singapore.",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Marina Bay Sands integrated resort at night",
+      "caption": "Marina Bay Sands integrated resort at night"
+    },
+    {
+      "kind": "building",
+      "slug": "interlace",
+      "name": "The Interlace",
+      "title": "File:The Interlace Singapore.jpg",
+      "src": "/articles/architecture/interlace.webp",
+      "width": 1600,
+      "height": 1082,
+      "author": "kallerna",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Interlace_Singapore.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/The_Interlace_Singapore.jpg/1920px-The_Interlace_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2026-01-10 03:42:50",
+      "description": "The Interlace, an apartment building complex located at the boundary between Bukit Merah and Queenstown, Singapore.",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "The Interlace stacked residential blocks",
+      "caption": "The Interlace stacked residential blocks"
+    },
+    {
+      "kind": "building",
+      "slug": "jewel-changi",
+      "name": "Jewel Changi Airport",
+      "title": "File:Rain Vortex Jewel Changi Airport.jpg",
+      "src": "/articles/architecture/jewel-changi.webp",
+      "width": 1600,
+      "height": 1050,
+      "author": "kallerna",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rain_Vortex_Jewel_Changi_Airport.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Rain_Vortex_Jewel_Changi_Airport.jpg/1920px-Rain_Vortex_Jewel_Changi_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2026-01-29 10:42:14",
+      "description": "World's tallest indoor waterfall, the Rain Vortex, inside Jewel Changi Airport in Singapore.",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Jewel Rain Vortex and indoor garden",
+      "caption": "Jewel Rain Vortex and indoor garden"
+    },
+    {
+      "kind": "building",
+      "slug": "vancouver-house",
+      "name": "Vancouver House",
+      "title": "File:Vancouver House, southwest view 20240831 1.jpg",
+      "src": "/articles/architecture/vancouver-house.webp",
+      "width": 1600,
+      "height": 2758,
+      "author": "DXR",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:DXR\" title=\"User:DXR\">DXR</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vancouver_House,_southwest_view_20240831_1.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Vancouver_House%2C_southwest_view_20240831_1.jpg/1920px-Vancouver_House%2C_southwest_view_20240831_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2024-08-31",
+      "description": "A southwest view of Vancouver House, from Granville Bridge",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Vancouver House seen from the southwest",
+      "caption": "Vancouver House seen from the southwest"
+    },
+    {
+      "kind": "building",
+      "slug": "copenhill",
+      "name": "CopenHill",
+      "title": "File:Copenhill 5.jpg",
+      "src": "/articles/architecture/copenhill.webp",
+      "width": 1600,
+      "height": 1077,
+      "author": "kallerna",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Copenhill_5.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Copenhill_5.jpg/1920px-Copenhill_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2023-03-12 16:49",
+      "description": "Amager Bakke, Copenhagen: the world's tallest climbing wall at 85 meters.",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "CopenHill sloping roof and climbing wall",
+      "caption": "CopenHill sloping roof and climbing wall"
+    },
+    {
+      "kind": "building",
+      "slug": "oslo-opera",
+      "name": "Oslo Opera House",
+      "title": "File:Oslo Opera House 2023 1.jpg",
+      "src": "/articles/architecture/oslo-opera.webp",
+      "width": 1600,
+      "height": 1173,
+      "author": "kallerna",
+      "authorHTML": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+      "licence": "CC BY-SA 4.0",
+      "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Oslo_Opera_House_2023_1.jpg",
+      "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Oslo_Opera_House_2023_1.jpg/1920px-Oslo_Opera_House_2023_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "date": "2023-03-26 17:57:14",
+      "description": "Oslo Opera House",
+      "credit": "Own work",
+      "changes": "Resized and converted to WebP, not cropped",
+      "verifiedAt": "2026-10-11",
+      "alt": "Oslo Opera House waterfront and walkable roof",
+      "caption": "Oslo Opera House waterfront and walkable roof"
+    }
+  ],
+  "verified": [
+    {
+      "kind": "painting",
+      "slug": "salvator-mundi",
+      "title": "File:Leonardo da Vinci, Salvator Mundi, c.1500, oil on walnut, 45.4 × 65.6 cm.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Salvator_Mundi,_c.1500,_oil_on_walnut,_45.4_%C3%97_65.6_cm.jpg",
+      "license": "Public domain",
+      "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Leonardo_da_Vinci\" class=\"extiw\" title=\"w:en:Leonardo da Vinci\"><span title=\"Italian Renaissance polymath (1452−1519)\">Leonardo da Vinci</span></a></bdi>",
+      "warnings": [],
+      "wikitext": "== {{int:filedesc}} ==\n{{artwork\n|wikidata       = Q1892745\n|Artist         = {{creator:Leonardo da Vinci}}\n|title          = \n|Description    = {{en|Reproduction of the painting after restoration by Dianne Dwyer Modestini, a research professor at New York University.}}\n|Date           = {{other date|circa|1500}}\n|Source         = [http://www.gettyimages.fr/detail/photo-d'actualit%C3%A9/circa-1490-1519-oil-on-panel-45-4-cm-65-6-cm-photo-dactualit%C3%A9/544250620#circa-14901519-oil-on-panel-454-cm-656-cm-private-collection-picture-id544250620 Getty Images]\n|Medium         = {{technique|oil|walnut}}\n|Dimensions     = {{size|cm|65.6|45.4}}\n|institution    =\n|department     = {{unknown|location}}\n|references     = \n|object history = \n|credit line    = \n|inscriptions   = \n|notes          = {{wn|1=The painting was sold at Christie's New York, November 15, 2017, for $450.3 million, making it the most expensive painting ever sold.}} It’s current location is unknown. \n|Permission     =\n|other_versions =\n<gallery>\nFile:Leonardo da Vinci, Salvator Mundi, c.1500, oil on walnut (framed).jpg|Framed\nFile:Leonardo da Vinci, Salvator Mundi, c.1500, Department of Culture and Tourism, Abu Dhabi.jpg|Department of Culture and Tourism, Abu Dhabi\nFile:Salvator Mundi, 2006-07 photograph, after cleaning.jpg|High resolution 2006-07 photograph, after cleaning\nFile:Leonardo da Vinci, Salvator Mundi, 2005 auction catalogue.jpg|2005 auction catalogue\n</gallery>\n}}\n{{Assessments|featured=1|valued=1|val-cat=[[:Category:Salvator Mundi by Leonardo Da Vinci|Salvator Mundi by Leonardo Da Vinci]]}}\n== {{int:license-header}} ==\n{{PD-Art|PD-old-100-expired}}\n\n{{DEFAULTSORT:Leonardo da Vinci; Salvador Mundi; 1500; Charles I, Charles II}}\n[[Category:Salvator Mundi (attributed to Leonardo da Vinci)]]\n[[Category:Featured pictures of paintings by Leonardo da Vinci]]\n[[Category:Featured pictures of Christian paintings]]\n[[Category:Featured pictures of Jesus Christ]]\n[[Category:Featured pictures by others nominated by Yann Forget]]\n[[Category:Featured pictures in the public domain]]\n[[Category:Collection of James Hamilton, 1st Duke of Hamilton]]"
+    },
+    {
+      "kind": "painting",
+      "slug": "card-players",
+      "title": "File:Les Joueurs de cartes, par Paul Cézanne, collection Al-Thani, Yorck.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne,_collection_Al-Thani,_Yorck.jpg",
+      "license": "Public domain",
+      "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paul_C%C3%A9zanne\" class=\"extiw\" title=\"w:en:Paul Cézanne\"><span title=\"French painter (1839–1906)\">Paul Cézanne</span></a></bdi>",
+      "warnings": [],
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist           = {{Creator:Paul Cézanne}}\n |title            = {{de|1=Zwei Kartenspieler}}{{en|The Card Players}}\n |description      = \n |date             = {{other date|between|1892|1893}}\n |object type      = painting \n |medium           = {{technique|oil|canvas}}\n |dimensions       = {{Size|cm|97|130}}\n |institution      = Royal Family of Qatar\n |location         = \n |accession number = \n |object history   = \n |credit line      = \n |inscriptions     = \n |notes            = {{Genre works}}\n |references       = \n |source           = {{Yorck}}\n |permission       = [http://mail.wikipedia.org/pipermail/wikide-l/2005-April/012195.html]\n |other_versions   = \n |wikidata         = Q46276042\n}}\n{{Assessments|trwiki=1}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1906}}\n{{PD-Art-YorckProject}}\n\n[[Category:Men smoking (activity) in art]]\n[[Category:Paintings of card players by Paul Cézanne]]\n[[Category:Al Thani]]"
+    },
+    {
+      "kind": "painting",
+      "slug": "elisabeth-lederer",
+      "title": "File:Gustav Klimt - Bildnis der Elisabeth Lederer (1914-1916).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Bildnis_der_Elisabeth_Lederer_(1914-1916).jpg",
+      "license": "Public domain",
+      "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Gustav_Klimt\" class=\"extiw\" title=\"w:en:Gustav Klimt\"><span title=\"Austrian symbolist painter (1862–1918)\">Gustav Klimt</span></a></bdi>",
+      "warnings": [],
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |wikidata           = Q136433749\n |object type        = \n |genre              = \n |artist             = \n |title              = \n |description        = \n |date               = \n |medium             = \n |dimensions         = \n |institution        = \n |department         = \n |accession number   = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = {{inscription|Gustav Klimt|lang=~|position=lr|type=signatur}}\n |notes              = \n |place of creation  = \n |references         = \n |source             = [https://www.sothebys.com/en/buy/auction/2025/leonard-a-lauder-collector-evening-auction/bildnis-elisabeth-lederer-portrait-of-elisabeth Sotheby's, New York, {{date|2025|11|18}}, lot 8]\n |permission         = \n |other_versions     = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1918}}\n{{DEFAULTSORT:Klimt, Gustav}}\n\n[[Category:Portrait of Elisabeth Lederer| ]]\n[[Category:Images from Sotheby's]]"
+    },
+    {
+      "kind": "painting",
+      "slug": "nafea",
+      "title": "File:Paul Gauguin, Nafea Faa Ipoipo? 1892, oil on canvas, 101 x 77 cm.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin,_Nafea_Faa_Ipoipo%3F_1892,_oil_on_canvas,_101_x_77_cm.jpg",
+      "license": "Public domain",
+      "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paul_Gauguin\" class=\"extiw\" title=\"w:en:Paul Gauguin\"><span title=\"French painter and printmaker (1848–1903)\">Paul Gauguin</span></a></bdi>",
+      "warnings": [],
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n| wikidata = Q3869871\n|Title= {{title|lang=ty|Nafea Faaipoipo\n         |ca=Quan et cases?\n         |de=Wann heiratest du?\n         |en=When Will You Marry?\n         |fr=Quand te maries-tu?\n         |pt=Quando te casarás?\n         |ty=Nāfea fa’aipoipo\n        }}\n|Technique= {{oil on canvas}}\n|Dimensions= {{size|cm|101|77}}\n|Institution= {{private collection}}\n|Location= \n|Notes= \n|inscriptions = \n{{inscription|language=ty|NAFEA Faa ipoipo|position=bottomright}}\n{{inscription|type=signature/date|language=~|P. Gauguin 92}}\n|Source= [http://www.museoreinasofia.es/sites/default/files/descargas/gauguin-nafea_faa_ipoipo_0.jpg Kunstmuseum Basel, Martin P. Bühler]\n|Year=1892\n|Artist= {{Creator:Paul Gauguin}}\n|References = {{Gauguin catalogues|W=454|S=276}}\n*F.35 : Richard S. Field (1977), ''Paul Gauguin: The Paintings of the First Trip to Tahiti'', New York and London: Garland, no. 35.\n|Permission= {{PD-Art|PD-old-auto-expired|deathyear=1903}}\n|Other versions=<gallery>File:Paul Gauguin, Nafea Faa Ipoipo? (When Will You Marry?) 1892, oil on canvas, 101 x 77 cm.jpg\n</gallery>\n}}\n\n{{Assessments|fawiki=1|fawiki-nom=Paul Gauguin, Nafea Faa Ipoipo? 1892, oil on canvas, 101 x 77 cm.jpg|enwiki=1|enwiki-nom=When Will You Marry? redux}}\n\n[[Category:When Will You Marry? by Paul Gauguin]]\n[[Category:Post-Impressionist paintings]]\n[[Category:1892 paintings]]\n[[Category:Polynesia by Paul Gauguin|1892]]\n[[Category:1890s paintings by Paul Gauguin|1892]]\n[[Category:Depictions of natives in European works]]"
+    },
+    {
+      "kind": "painting",
+      "slug": "water-serpents",
+      "title": "File:Gustav Klimt - Water Serpents II.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Water_Serpents_II.jpg",
+      "license": "Public domain",
+      "artist": "Gustav Klimt",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Wasserschlangen II}}\n|date=1907-01-01\n|source=https://i.warosu.org/data/lit/img/0055/83/1413326363460.jpg\n|author=Gustav Klimt\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-70}}\n\n[[Category:Wasserschlangen II (Klimt)]]"
+    },
+    {
+      "kind": "painting",
+      "slug": "nu-couche",
+      "title": "File:Modigliani - Nu couché.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Modigliani_-_Nu_couch%C3%A9.jpg",
+      "license": "Public domain",
+      "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amedeo_Modigliani\" class=\"extiw\" title=\"w:en:Amedeo Modigliani\"><span title=\"Italian painter and sculptor (1884–1920)\">Amedeo Modigliani</span></a></bdi>",
+      "warnings": [],
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n|Title={{title|lang=fr|[[:en:Nu couché|Nu couché]]}}\n|Technique={{technique|oil|canvas}}\n|Dimensions= {{size|cm|60|92}}\n|Location= Shanghai, China\n|Institution= Liu Yiqian, owner\n|Notes= * The painting realized $170,405,000 <sub>(Hammer price & Buyer's premium)</sub> at a Christie's New York 9 November 2015 sale. This was the second highest price ever paid for a work of art at the time.\n|Source= [https://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5946114 Christie's sale, New York, 9 November 2015]\n|inscriptions = {{inscription|modigliani|type=signature|position=upper right}}\n|Year=[[1917]]\n|Artist={{Creator:Amedeo Modigliani}}\n|Permission=\n|Other versions= <gallery>\nFile:Amedeo Modigliani 012.jpg| Yorck Project\n</gallery>\n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1920}}\n\n[[Category:1917 oil on canvas paintings|Modigliani]]\n[[Category:1917 nude paintings|Modigliani]]\n[[Category:Paintings of nude recumbent females (supine)|Modigliani]]\n[[Category:Paintings of nude women in bed|Modigliani]]\n[[Category:Reclining Nude by Amedeo Modigliani]]\n[[Category:1917 paintings by Amedeo Modigliani]]\n[[Category:Nude or partially nude women in bed in art]]\n[[Category:Collezione Riccardo Gualino]]"
+    },
+    {
+      "kind": "painting",
+      "slug": "nu-couche-left",
+      "title": "File:Amedeo Modigliani 014.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amedeo_Modigliani_014.jpg",
+      "license": "Public domain",
+      "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amedeo_Modigliani\" class=\"extiw\" title=\"w:en:Amedeo Modigliani\"><span title=\"Italian painter and sculptor (1884–1920)\">Amedeo Modigliani</span></a></bdi>",
+      "warnings": [],
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |wikidata         = Q3879263\n |artist           = {{Creator:Amedeo Modigliani}}\n |title            = \n |description      = \n |date             = \n |medium           = \n |dimensions       = {{size|cm|89|146}}\n |institution      = {{private collection}}, {{Paris}}\n |accession number = \n |object history   = {{w|Léopold Zborowski}}, Paris.<br />Jacques Netter, Paris.<br />By descent from the above to the previous owner.<br />Private collection, USA (acquired from the above).<br />Sold on Christie's for 26,887,500 USD. Sale 1299 Impressionist and Modern Art (Evening Sale) 4 November 2003, {{New York}}\n |exhibition history = Brussels, Palais des Beaux-Arts, ''Modigliani'', November 1933, no. 15. (titled ''Grand nu couché'').<br />Basel, Kunsthalle, ''Rétrospective Modigliani'', January-February 1934, no. 7.<br />Paris, Musée des Arts Décoratifs, ''Cinquante ans de peinture française dans les collections particulières de Cézanne et Matisse'', March-April 1952, no. 114.<br />Paris, Galerie Bernheim-Jeune, ''Le nu à travers les Ages'', 1954.<br />Paris, Galerie Charpentier, ''Cent tableaux de Modigliani'', 1958, no. 63 (illustrated, p. 34).<br />Marseille, Musée Cantini, ''Modigliani'', June-July 1958, no. 21 (illustrated, p. 7).<br />Paris, Musée d'Art Moderne de la Ville de Paris, ''Amedeo Modigliani 1884-1920'', March-June 1981, no. 53 (illustrated in color, p. 136).<br />Lausanne, Fondation de l'Hermitage, ''Les peintres de Zborowski: Modigliani, Utrillo, Soutine et leurs amis'', June-October 1994, no. 19.\n |notes            = A. Salmon, ''Modigliani: sa vie et son oeuvre'', Paris, 1926 (illustrated, pl. 22).<br />\nM. Schwarz, ''Modigliani'', Paris, 1927, pl. VI (illustrated).<br />\nS. Taguchi, ''Modigliani'', Tokyo, 1936, pl. 18 (illustrated).<br />\nJ. Cocteau, ''Modigliani'', Paris, 1950, pl. 15 (illustrated in color).<br />\nP. d'Ancona, ''Modigliani, Chagall, Soutine, Pascin'', Milan, 1952, p. 22 (illustrated in color).<br />\nA. Pfannstiel, ''Modigliani et son oeuvre'', Paris, 1956, p. 129, no. 231.<br />\nJ. A. Cartier, ''Modigliani nus'', Paris, 1958, pl. 8 (illustrated).<br />\nA. Ceroni, ''Amedeo Modigliani'', Milan, 1958, p. 61, no. 120 (illustrated in color).<br />\nF. Russoli, ''Modigliani'', Paris, 1958, pl. 27 (illustrated in color).<br />\nC. Geza, ''Modigliani'', Budapest, 1969, pl. 32 (illustrated).<br />\nJ. Lanthemann, ''Amedeo Modigliani 1884-1920, Catalogue raisonné: sa vie, son oeuvre complet, son art'', Barcelona, 1970, p. 198, no. 149 (illustrated).<br />\nJ. Dalevèze, ''Modigliani'', Lausanne, 1971, pl. 1 (illustrated).<br />\nD. Hall, ''Modigliani'', Edinburgh, 1979, pl. 37 (illustrated).<br />\n''Modigliani'', exh. cat., Liège, 1980, p. 39 (illustrated).<br />\nT. Castieau-Barrielle, ''La vie et l'oeuvre de Amedeo Modigliani'', Paris, 1987, p. 177 (illustrated).<br />\nA. Ceroni, ''Amedeo Modigliani: Les nus'', Düdingen, 1989, no. 11 (illustrated in color, p. 59).<br />\nO. Patani, ''Amedeo Modigliani, catalogo generale: Dipinti'', Milan, 1991, no. 198 (illustrated in color, p. 208).<br />\nC. Parisot, ''Modigliani catalogue raisonné: peintures, dessins, aquarelles'', Livorno, 1991, vol. II, no. 38 (illustrated in color, p. 174).<br />\nA. Kruszynski, ''Amedeo Modigliani--Portraits and Nudes'', New York, 1996 (illustrated in color, p. 97).\n |inscriptions     = {{inscription|modigliani|type=signature|position=lower left}} \n |references       = \n |source           = {{christies online|ID=4181499}}<br />http://www.christies.com/Features/Modigliani-at-Tate-Modern-8765-1.aspx ([http://www.christies.com/media-library/images/features/articles/2017/11/23/modigliani/id26_nude_-_1917.jpg direct link])<br />{{Yorck}}\n |permission       = [http://mail.wikipedia.org/pipermail/wikide-l/2005-April/012195.html]\n |other_versions   = \n}}\n== {{int:license-header}} ==\n{{PD-Art|PD-old-100-expired}}\n{{PD-Art-YorckProject}}\n\n{{DEFAULTSORT:Modigliani, Amedeo; Reclining nude (on the left side)}}\n\n[[Category:Reclining nude (on the left side) (Amedeo Modigliani)|001]]\n[[Category:Paintings with signatures (lower left)]]\n[[Category:1917 oil on canvas paintings]]\n[[Category:1917 paintings by Amedeo Modigliani]]"
+    },
+    {
+      "kind": "building",
+      "slug": "leeza-soho",
+      "title": "File:Leeza SOHO.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Leeza_SOHO.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:AsAuSo\" title=\"User:AsAuSo\">AsAuSo</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Leeza SOHO, designed by Zaha Hadid Architects.}}\n{{zh-hans|1=丽泽SOHO}}\n|date=2020-08-05 12:14:16\n|source={{own}}\n|author=[[User:AsAuSo|AsAuSo]]\n|permission={{PermissionTicket|id=2020081310009325}}\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n[[Category:Leeza SOHO]]\n[[Category:August 2020 in Beijing]]\n[[Category:China photographs taken on 2020-08-05]]\n{{QualityImage}}"
+    },
+    {
+      "kind": "building",
+      "slug": "morpheus",
+      "title": "File:Macau Morpheus Hotel 2024 dllu.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Macau_Morpheus_Hotel_2024_dllu.webp",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dllu\" title=\"User:Dllu\">Dllu</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{LargeImage}} \n{{Information\n|description={{en|1=The {{w|Morpheus (hotel)|Morpheus Hotel}} in Macau. The building was designed by {{w|Zaha Hadid Architects}}. It has no internal columns and is entirely supported by its exoskeleton.}}\n|date=2024-09-22\n|source={{own}}\n|author=[[User:Dllu|Dllu]]\n|permission=\n|other versions=\n}}\n{{Panorama |1=Morpheus Macau |2=9 |3=Hugin |4=Rectilinear }}\n\n=={{int:license-header}}==\n{{Licensed-FOP\n|1={{FoP-Macau}}\n|2={{self|cc-by-sa-4.0}}\n}}\n\n[[Category:Morpheus Macau]]\n[[Category:Quality images by dllu]]\n[[Category:Valued images by dllu]]\n{{QualityImage}}\n{{VI|[[:Category:Morpheus Macau|Morpheus Macau]] -- Front View|00:19, 11 March 2025 (UTC)|\nsubpage=Macau Morpheus Hotel 2024 dllu.webp}}"
+    },
+    {
+      "kind": "building",
+      "slug": "daxing-airport",
+      "title": "File:Interior of Beijing Daxing International Airport 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Beijing_Daxing_International_Airport_1.jpg",
+      "license": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:H2v5o68z\" class=\"mw-redirect\" title=\"User:H2v5o68z\">H2v5o68z</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{zh|1=Interior of Beijing Daxing International Airport}}\n|date=2024-05-13 07:02:09\n|source={{own}}\n|author=[[User:H2v5o68z|H2v5o68z]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n[[Category:Interior of Beijing Daxing International Airport]]\n[[Category:2024 at Beijing Daxing International Airport]]\n[[Category:May 2024 in transport in Beijing]]\n[[Category:China photographs taken on 2024-05-13]]"
+    },
+    {
+      "kind": "building",
+      "slug": "harpa",
+      "title": "File:Harpa (concert hall).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Harpa_(concert_hall).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Manuelarosi\" title=\"User:Manuelarosi\">Manuelarosi</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{it|1=Harpa (concert hall)}}\n|date=2025-11-09 19:49:10\n|source={{own}}\n|author=[[User:Manuelarosi|Manuelarosi]]\n|permission=\n|other versions=\n}}\n{{Location|64.150094|-21.932069|heading:207.45098114364555}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Harpa (concert hall)]]"
+    },
+    {
+      "kind": "building",
+      "slug": "elbphilharmonie",
+      "title": "File:Elbphilharmonie 3920.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Elbphilharmonie_3920.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Hamster28\" title=\"User:Hamster28\">Henry Kellner</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Elbphilharmonie, Hamburg}}\n|date=2015-07-21 11:39:34\n|source={{own}}\n|author=[[User:Hamster28|Henry Kellner]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n \n{{QualityImage}}\n\n[[Category:Construction of the Elbphilharmonie in 2015]]\n[[Category:July 2015 in Hamburg]]\n[[Category:Germany photographs taken on 2015-07-21]]\n[[Category:Quality images by user:Hamster28]]\n[[Category:Quality images of buildings in Hamburg]]"
+    },
+    {
+      "kind": "building",
+      "slug": "oodi",
+      "title": "File:Oodi library.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Oodi_library.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:WanderingTrad\" title=\"User:WanderingTrad\">WanderingTrad</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Helsinki Oodi library interior, June 2019}}\n{{fr|1=L'intérieur de la bibliothèque Oodi de Helsinki, juin 2019}}\n|date=2019-05-31 19:22:54\n|source={{own}}\n|author=[[User:WanderingTrad|WanderingTrad]]\n|permission=\n|other versions={{Image extracted|1=Oodi book area.jpeg}}\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Libraries in Finland photographed in 2019]]\n[[Category:3rd floor of Helsinki Central Library Oodi]]"
+    },
+    {
+      "kind": "building",
+      "slug": "shanghai-tower",
+      "title": "File:Shanghai Shanghai Tower 5166304.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Shanghai_Tower_5166304.jpg",
+      "license": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+      "warnings": [],
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description    ={{en|1=View upwards Shanghai tower}}\n{{de|1=Blick aufwärts zum Shanghai tower}}\n|Source         ={{own}}\n|Author         =[[User:Ermell|Ermell]]\n|Date           =2015-05-16 15:29:07\n|Permission     =\n|other_versions =\n}}\n{{Location|31.235261111112|121.49972222222}}\n== {{int:license-header}} ==\n{{self|Cc-zero}}\n{{QualityImage}}\n\n[[Category:Shanghai Tower]]\n[[Category:Quality images by Ermell]]\n[[Category:Taken with Olympus OM-D E-M5 Mark II]]\n[[Category:Images by User:Ermell taken in 2015]]\n[[Category:Quality images of Shanghai]]\n[[Category:China photographs taken on 2015-05-16]]\n[[Category:Images of China by Ermell]]\n[[Category:May 2015 in Shanghai]]\n[[Category:2015 photographs of Shanghai]]"
+    },
+    {
+      "kind": "building",
+      "slug": "marina-bay-sands",
+      "title": "File:Puente Helix, museo ArtScience y hotel Marina Bay Sands, Marina Bay, Singapur, 2023-08-17, DD 67-69 HDR.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Puente_Helix,_museo_ArtScience_y_hotel_Marina_Bay_Sands,_Marina_Bay,_Singapur,_2023-08-17,_DD_67-69_HDR.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=View of the [[:en:Helix Bridge|Helix Bridge]], the [[:en:Marina Bay Sands|Marina Bay Sands Hotel]] and the [[:en:ArtScience Museum|ArtScience Museum]] during the blue hour, Marina Bay, Singapore.}}\n{{es|1=Puente Helix, museo ArtScience y hotel Marina Bay Sands, Marina Bay, Singapur}}\n|date=2023-08-17 13:48:58\n|source={{own}}\n|author={{creator:Diego Delso}}\n|permission=\n|other versions=\n}}\n{{Assessments|featured=1}}\n\n\n{{Supported by Wikimedia Deutschland}}\n\n=={{int:license-header}}==\n{{User:Poco a poco/credit|license version=4.0}}\n{{self|cc-by-sa-4.0|attribution=Diego Delso}}\n\n[[Category:Singapore photographs taken on 2023-08-17]]\n[[Category:Images by User:Poco a poco]]\n[[Category:Images of Singapore by User:Poco a poco]]\n[[Category:Images by User:Poco a poco taken in 2023]]\n[[Category:Taken with Canon EOS 5DS R]]\n[[Category:Marina Bay Sands Hotel at night]]\n[[Category:ArtScience Museum, Marina Bay Sands, at night]]\n[[Category:The Helix Bridge at night]]\n[[Category:Quality images by User:Poco a poco]]\n[[Category:Quality images of Singapore by User:Poco a poco]]\n[[Category:Quality images of buildings in Singapore]]\n[[Category:Quality images of Marina Bay Sands]]\n[[Category:Quality images of bridges in Singapore]]\n[[Category:Quality night photography in Singapore]]\n[[Category:Featured pictures of Singapore by User:Poco a poco]]\n[[Category:Featured pictures of Singapore]]\n[[Category:Featured pictures by User:Poco a poco]]\n[[Category:Featured pictures of buildings]]\n[[Category:Featured pictures on Commons by User:Poco a poco]]\n[[Category:Featured pictures of buildings by User:Poco a poco]]\n[[Category:Exposure time 2/5 sec]]\n[[Category:Water reflections of lights in Singapore]]\n[[Category:Long exposures (water reflections)]]\n[[Category:Quality images with long exposure]]\n{{QualityImage}}\n[[Category:Quality images of water reflections]]"
+    },
+    {
+      "kind": "building",
+      "slug": "interlace",
+      "title": "File:The Interlace Singapore.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Interlace_Singapore.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=The Interlace, an apartment building complex located at the boundary between Bukit Merah and Queenstown, Singapore.}}\n|date=2026-01-10 03:42:50\n|source={{own}}\n|author=[[User:Kallerna|kallerna]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:January 2026 in Singapore]]\n[[Category:The Interlace]]"
+    },
+    {
+      "kind": "building",
+      "slug": "jewel-changi",
+      "title": "File:Rain Vortex Jewel Changi Airport.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rain_Vortex_Jewel_Changi_Airport.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=World's tallest indoor waterfall, the Rain Vortex, inside Jewel Changi Airport in Singapore.}}\n|date=2026-01-29 10:42:14\n|source={{own}}\n|author=[[User:Kallerna|kallerna]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:The Rain Vortex]]\n{{QualityImage}}"
+    },
+    {
+      "kind": "building",
+      "slug": "vancouver-house",
+      "title": "File:Vancouver House, southwest view 20240831 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vancouver_House,_southwest_view_20240831_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:DXR\" title=\"User:DXR\">DXR</a>",
+      "warnings": [],
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n | Description = {{en|1=A southwest view of Vancouver House, from Granville Bridge}}\n | Date = 2024-08-31 19:31:43.86-07:00\n | Source = {{own}}\n | Author = [[User:DXR|DXR]]\n | Permission = \n | Other versions = \n | Other fields = \n}}\n{{Location|49.270921750688|-123.1359603944}}\n\n== {{int:license-header}} ==\n{{Cc-by-sa-4.0}}\n\n[[Category:Vancouver House]]\n[[Category:Uploads by User:DXR]]\n[[Category:Uploads by User:DXR in 2024]]\n[[Category:Uploads by User:DXR in British Columbia]]\n[[Category:Uploaded with LrMediaWiki]]\n[[Category:Quality Images by User:DXR]]\n{{QualityImage}}"
+    },
+    {
+      "kind": "building",
+      "slug": "copenhill",
+      "title": "File:Copenhill 5.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Copenhill_5.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Amager Bakke, Copenhagen: the world's tallest climbing wall at 85 meters.}}\n|date=2023-03-12 16:49\n|source={{own}}\n|author=[[User:Kallerna|kallerna]]\n|permission=\n|other versions=<gallery>\nFile:Copenhill 1.jpg\nFile:Copenhill 2.jpg\nFile:Copenhill 3.jpg\nFile:Copenhill 4.jpg\nFile:Copenhill 5.jpg\nFile:Copenhill 6.jpg\n</gallery>\n}}\n{{Object location|55.68452|12.61903}}\n\n\n=={{int:license-header}}==\n{{Licensed-FoP|{{FoP-Denmark}}|\n{{self|cc-by-sa-4.0}}}}\n\n[[Category:Amager Bakke]]\n[[Category:Climbing walls in Denmark]]\n[[Category:Denmark photographs taken on 2023-03-12]]\n[[Category:Taken with Fujifilm X-T30]]\n[[Category:Quality images of Copenhagen]]\n{{QualityImage}}"
+    },
+    {
+      "kind": "building",
+      "slug": "oslo-opera",
+      "title": "File:Oslo Opera House 2023 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Oslo_Opera_House_2023_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+      "warnings": [],
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Oslo Opera House}}\n|date=2023-03-26 17:57:14\n|source={{own}}\n|author=[[User:Kallerna|kallerna]]\n|permission=\n|other versions=<gallery>\nFile:Oslo Opera House 2023 1.jpg\nFile:Oslo Opera House 2023 2.jpg\nFile:Oslo Opera House 2023 3.jpg\nFile:Oslo Opera House 2023 4.jpg\nFile:Oslo Opera House 2023 5.jpg\nFile:Oslo Opera House 2023 6.jpg\n</gallery>\n}}\n\n=={{int:license-header}}==\n{{Licensed-FoP|{{FoP-Norway}}|\n{{self|cc-by-sa-4.0}}}}\n\n[[Category:Oslo Opera house rooftop]]\n[[Category:Norway photographs taken on 2023-03-26]]\n{{QualityImage}}"
+    }
+  ],
+  "searches": {
+    "Interchange de Kooning": [
+      {
+        "title": "File:Tsuen Kam Interchange 200808.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tsuen_Kam_Interchange_200808.jpg",
+        "license": "CC BY 3.0",
+        "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description=Tsuen Kam Interchange\n|Source={{own}}\n|Date= 2008-08-27\n|Author= [[User:Wing1990hk|Wing1990hk]]\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{self|cc-by-3.0}}\n\n[[Category:Tsuen Kam Interchange]]"
+      },
+      {
+        "title": "File:View of interchange from Reunion Tower August 2015 02.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:View_of_interchange_from_Reunion_Tower_August_2015_02.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=A view of the interchange between [[:en:Interstate 35E (Texas)|Interstate 35E]] and [[:en:Texas State Highway Spur 366|Texas State Highway Spur 366]] from the GeO-Deck of [[:en:Reunion Tower|Reunion Tower]] in [[:en:Dallas|Dallas]], [[:en:Texas|Texas]] ([[:en:United States|United States]]).}}\n|date={{Taken on|2015-08-08|location=United States}}\n|source={{own}}\n|author=[[User:Michael Barera|Michael Barera]]\n|permission=\n|other versions=\n}}\n{{Location|32|46|31.18|N|96|48|32.68|W|region:US}}\n\n=={{int:license-header}}==\n{{User:Michael Barera/License}}\n\n=={{assessment}}==\n{{QualityImage}}\n{{VI|Aerial view of the interchange between [[:Category:Interstate 35E (Texas)|Interstate 35E]] and [[:Category:Texas State Highway Spur 366|Texas State Highway Spur 366]]|06:29, 18 September 2015 (UTC)|subpage=View from Reunion Tower August 2015 02.jpg}}\n\n[[Category:Aerial photographs of interchanges in the United States]]\n[[Category:Interstate 35E (Texas)]]\n[[Category:Texas State Highway Spur 366]]\n[[Category:Views from Reunion Tower]]\n[[Category:2015 in Dallas]]\n[[Category:August 2015 in Texas]]\n[[Category:Taken with Sony ILCE-5100]]\n[[Category:Quality images of the United States]]"
+      },
+      {
+        "title": "File:Yan'an East Road Interchange, Shanghai, China (Unsplash).jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Yan%27an_East_Road_Interchange,_Shanghai,_China_(Unsplash).jpg",
+        "license": "CC0",
+        "wikitext": "{{Assessments|zhwiki=1}}\n{{Picture of week on the Czech Wikipedia|týden-en=48th |týden=48 |rok=2019 }}\n=={{int:filedesc}}==\n{{Information\n|description={{en|1=The Yan'an East Road Interchange in Shanghai, China. North is on the right side of photo.}}\n|date=2016-06-09\n|source=https://unsplash.com/photos/7nrsVjvALnA\n{{Wayback|url=https%3A//unsplash.com/photos/7nrsVjvALnA|date=20160812171419}}\n{{Wayback|title=Image|url=https%3A//images.unsplash.com/photo-1465447142348-e9952c393450|date=20170424090259}}\n|author=Denys Nevozhai [https://unsplash.com/@dnevozhai dnevozhai]\n|permission=\n|other versions=\n|other_fields=\n  {{information field|name=Unsplash title|value=Unavailable}}\n  {{information field|name=<abbr title='Tags in Unsplash'>Categories</abbr>|value=Buildings}}\n  {{information field|name=EXIF|value=exposure_time: 1/4000 · make: DJI · iso: 100 · focal_length: 3.6 · aperture: 2.8 · model: FC300S}}\n  {{information field|name=Place|value=Shanghai, China}}\n}}\n{{camera location|31.2262833333|121.46453}}\n\n=={{int:license-header}}==\n{{Unsplash}}{{LicenseReview|site=https://unsplash.com/photos/7nrsVjvALnA|user=廣九直通車|date=2021-04-05}}\n\n[[Category:Images uploaded by Fæ]]\n[[Category:Taken with DJI FC300S]]\n[[Category:Aerial photographs of Shanghai]]\n[[Category:Yanzhong Green Land]]\n[[Category:June 2015 in Shanghai]]\n[[Category:Autumn in Shanghai]]\n[[Category:Expressways in Shanghai]]\n[[Category:Stack interchanges]]\n[[Category:Interchanges in Shanghai]]\n[[Category:Aerial photographs of interchanges]]"
+      },
+      {
+        "title": "File:Jane M. Byrne Interchange 4-1-22.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jane_M._Byrne_Interchange_4-1-22.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{de|1=Jane M. Byrne Interchange, in Chicago, IL, im April 2022}}{{en|1=The Jane M. Byrne Interchange, in Chicago, IL, in April 2022.}}\n{{es|1=Vista aérea del ''Jane M. Byrne Interchange'', un [[:es:enlace viario|enlace viario]] en el centro de [[:es:Chicago|Chicago]], Illinois, Estados Unidos.}}{{id|1=Simpang susun Jane M. Byrne, di Chicago, IL, pada bulan April 2022.}}\n{{uk|1=Автомобільна розв'язка {{w|Jane Byrne Interchange|Джейн Бірн}} у центрі {{wu|Чикаго}}, штат {{wu|Іллінойс}}, США.}}\n|date=2022-04-01 15:50:24\n|source={{own}}\n|author=[[User:Sea Cow|Sea Cow]]\n|permission=\n|other versions={{Image extracted|1=Jane M. Byrne Interchange 4-1-22 (Greyhound Harrison Street Station 1).jpg}}\n}}{{Location|41.87719|-87.647659}}\n\n== {{Assessment}} ==\n{{Assessments|featured=1}}\n{{picture of the day|year=2022|month=07|day=20}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Construction at the Jane Byrne Interchange]]\n[[Category:Taken with DJI FC7303]]\n[[Category:Aerial photographs of roads in the United States]]\n[[Category:Aerial photographs of Chicago]]\n[[Category:United States photographs taken on 2022-04-01]]\n[[Category:April 2022 in Chicago]]\n[[Category:Chicago Greyhound Harrison Street Station]]\n[[Category:UIC-Halsted (CTA)]]\n[[Category:Old Chicago Main Post Office]]\n[[Category:Featured pictures from unmanned aerial vehicles]]"
+      },
+      {
+        "title": "File:Springfield Interchange in September 2022.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Springfield_Interchange_in_September_2022.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Springfield Interchange in Springfield, Virginia.}}\n|date=2022-09-21 15:41:42\n|source={{own}}\n|author=[[User:DiscoA340|DiscoA340]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Springfield Interchange (Fairfax County, Virginia)]]\n[[Category:Road signs for the Springfield Interchange (Fairfax County, Virginia)]]\n[[Category:Uploads by DiscoA340]]\n[[Category:Exits numbered 170]]"
+      },
+      {
+        "title": "File:Roundabout interchange.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Roundabout_interchange.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Roundabout interchange in Belgrade, Serbia ( blvd. Arsenija Čarnojevića - Španski borci street) also called I-roundabout}}\n{{sr|1=Кружни ток бул. Арсенија Чарнојевића - Шпански борци, Нови Београд, Србија}}\n{{sl|1=Krožno križišče z izvennivojskimi vodenji krakov (bulevar Arsenija Čarnojevića - ulica Španski borci, Beograd, Srbija) [https://www.gov.si/assets/organi-v-sestavi/DRSI/Dokumenti-DRSI/Tehnicne-specifikacije/TSPI-PCPV-PGV.03.244-Krozna-krizisca.pdf] }}\n|date=2025-04-07 12:30:44\n|source={{own}}\n|author=[[User:PetarM|Petar Milošević]]\n|permission={{PetarM/license}}\n|other versions=\n}}\n{{Location|44.813237|20.418573}}\n{{Assessments|featured=1|quality=1|enwiki=1|enwiki-nom=Roundabout interchange.jpg}}\n\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Roundabout interchanges in Serbia]]\n[[Category:Aerial photographs by PetarM]]\n[[Category:Aerial photographs of roundabouts]]\n[[Category:2025 in Belgrade]]\n[[Category:Interchanges in Belgrade]]\n[[Category:Black and white photographs of transport infrastructure]]\n[[Category:Black and white photographs of Serbia]]\n[[Category:2025 black and white photographs]]\n[[Category:2025 aerial photographs]]\n[[Category:Aerial photographs of Belgrade]]\n[[Category:Featured photos of PetarM]]\n[[Category:April 2025 Serbia photographs]]"
+      }
+    ],
+    "Number 17A Pollock": [
+      {
+        "title": "File:Women's standing superg skier number 17a.JPG",
+        "source": "https://commons.wikimedia.org/wiki/File:Women%27s_standing_superg_skier_number_17a.JPG",
+        "license": "CC BY-SA 3.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Women's standing Super-G event at the IPC Alpine World Championships in 2013 in La Molina, Spain. Katja Saarinen of Finland.}}\n|date=2013-02-21 20:53:44\n|source={{own}}\n|author=[[User:LauraHale|LauraHale]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:La Molina (ski resort)]]\n[[Category:2013 IPC Alpine World Championships]]\n[[Category:Katja Saarinen]]\n[[Category:Taken with Canon EOS 550D]]"
+      },
+      {
+        "title": "File:Св.№17а.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2.%E2%84%9617%D0%B0.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{uk|1=Свердловина № 17а, Стрийський р-н, курорт «Моршин»}}{{UkrainianNaturalHeritageSite|46-107-5006}}{{WLE2017-UA-SN|_empty_}}\n|date=2013-09-10 02:42:54\n|source={{own}}\n|author=[[User:Svitljak1|Svitljak1]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Earth 2018|ua}}\n\n[[Category:Well number 17a]]\n[[Category:Uploaded via Campaign:wle-ua]]\n[[Category:Ukraine photographs taken on 2013-09-10]]"
+      },
+      {
+        "title": "File:Св. 17а всередині.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2._17%D0%B0_%D0%B2%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D1%96.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{uk|1=Свердловина № 17а, Стрийський р-н, курорт «Моршин»}}{{UkrainianNaturalHeritageSite|46-107-5006}}{{WLE2017-UA-SN|_empty_}}\n|date=2013-09-10 02:44:28\n|source={{own}}\n|author=[[User:Svitljak1|Svitljak1]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Earth 2018|ua}}\n\n[[Category:Well number 17a]]\n[[Category:Uploaded via Campaign:wle-ua]]\n[[Category:Ukraine photographs taken on 2013-09-10]]"
+      },
+      {
+        "title": "File:Ashby Canal, Bridge Number 17A - geograph.org.uk - 3563950.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ashby_Canal,_Bridge_Number_17A_-_geograph.org.uk_-_3563950.jpg",
+        "license": "CC BY-SA 2.0",
+        "wikitext": "{{Geograph from structured data}}\n[[Category:Borough of Hinckley and Bosworth]]"
+      },
+      {
+        "title": "File:1376217 17A Eastgate Street, 11 Eastgate Row Chester 20240528 0247.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:1376217_17A_Eastgate_Street,_11_Eastgate_Row_Chester_20240528_0247.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n |description ={{On Wikidata|Q26656845}}{{Listed building England|1376217}} {{en|Chester: 17A Eastgate Street, 11 Eastgate Row}}\n |date = 2024-05-28 16:27\n |source = {{own}}\n |author = [[User:Tilman2007|Tilman2007]]\n |permission = {{cc-by-sa-4.0}}\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-4.0}}\n\n{{Wiki Loves Monuments 2024|gb-eng}}\n\n[[Category:Grade II listed buildings in Chester]]\n[[Category:WLM-UK_2024_unfiltered_09-08]]\n[[Category:Images from Wiki Loves Monuments 2024 in the United Kingdom not for prejury]]\n[[Category:Uploaded with pattypan]]\n[[Category:Eastgate Street, Chester|17A]]\n[[Category:Buildings numbered 17|Eastgate Street, Chester]]\n[[Category:Shops in Chester]]\n[[Category:Chester Rows|11 Eastgate Row]]\n[[Category:O2 shops in England|Chester]]"
+      },
+      {
+        "title": "File:Cima da Conegliano (um 1455 - 1517-18) - Coastal Landscape with two Men Fighting - 17A - Gemäldegalerie.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Cima_da_Conegliano_(um_1455_-_1517-18)_-_Coastal_Landscape_with_two_Men_Fighting_-_17A_-_Gem%C3%A4ldegalerie.jpg",
+        "license": "Public domain",
+        "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n|department = {{label|Q139044523}}\n}}\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1517}}\n\n{{DEFAULTSORT:Cima da Conegliano, Giovanni Battista; Cima da Conegliano, Giovanni Battista}}\n\n[[Category:Paintings by Cima da Conegliano]]\n[[Category:Paintings by Cima da Conegliano in the Gemäldegalerie (Berlin)]]\n[[Category:Paintings in the Gemäldegalerie, Berlin - Room 35]]"
+      }
+    ],
+    "Shot Sage Blue Marilyn": [],
+    "Rothko No. 6 Violet Green Red": [
+      {
+        "title": "File:MG PA 6 Race, 1300 cm³, Bj. 1936 (2008-06-28 Sp).jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:MG_PA_6_Race,_1300_cm%C2%B3,_Bj._1936_(2008-06-28_Sp).jpg",
+        "license": "CC BY-SA 2.0 de",
+        "wikitext": "==Summary==\n{{Information\n|Description =\n{{de|MG PA 6 Race, Baujahr 1936, im alten Fahrerlager des Nürburgrings vor den Rollläden der Boxen. Amtliches Kennzeichen verändert. Veranstaltung: Oldtimer Festival 2008 des DAMC 05.}}\n{{ca|MG PA special, a l'antic corral a Nürburgring abans de les persianes de les caixes. Número de registre va canviar. Esdeveniment: Festival Oldtimer 2008 DAMC 05.}}\n{{cs|MG PA-založený závodník s 1300cc šestiválcovým motorem, ve starém paddocku na Nürburgringu před rolety krabic. Registrační číslo změnit. Událost: Oldtimer Festival 2008 DAMC 05.}}\n{{en|MG PA-based racer with a 1300cc six-cylinder engine, in the historic paddock of the Nürburgring before closed boxes. The license plate is modified. Event: DAMC 05 Oldtimer Festival 2008.}}\n{{es|Especial racer seis cilindros, en un chassi de un 1936 MG PA, en el antiguo corral en Nurburgring antes de las persianas de las cajas. Número de registro cambió. Evento: Festival Oldtimer 2008 DAMC 05.}}\n{{fi|MG PA-pohjainen racer kanssa 1300cc kuusisylinterinen moottori, vanhassa tarhassa Nürburgring ennen ikkunaluukut laatikot. Rekisterinumero muuttunut. Tapahtuma: Oldtimer Festival 2008 DAMC 05.}}\n{{fr|Une voiture \"spécial\" six cylindres en base d'un 1936 [[:fr:MG|Morris Garage]] PA, dans le box historique de Nürburgring. La plaque d’immatriculation a été modifiée. Photo prise lors du festival [[:fr:Düsseldorfer Automobil- und Motorsport-Club 05|DAMC 05]] Oldtimer de 2008.}}\n{{ru|MG PA Race 6, построенный в 1936 году, в старом загоне на Нюрбургринге перед слепых коробки. Регистрационный номер изменения. Событие: Олдтаймер фестиваль 2008 DAMC 05.}}\n{{uk|1=Гоночний автомобіль на базі {{wu|MG_P-type#MG_PA|MG PA}} з {{wu|Конфігурація двигуна внутрішнього згоряння|шестициліндровим двигуном}} об'ємом 1300 куб.см в історичному паддоку {{wu|Нюрбургринг|Нюрбургрингу}} перед закритими боксами. Номерний знак змінено. Подія: Фестиваль олдтаймерів DAMC 05 2008.}}\n\n|other_versions = [[Image:MG PA 6 Race, 1300 cm³, Bj. 1936 - Typschild (2008-06-28 Sp).jpg|thumb|left]]\n[[Image:MG PA 6 Race, 1300 cm³, Bj. 1936, Heck (2008-06-28).jpg|thumb|left]]\n|Source      = {{Own}}\n|Date        = 2008-06-28\n|Author      = [[User:Spurzem|Spurzem]] – Lothar Spurzem <small>(edited by [[User:Alchemist-hp|Alchemist-hp]])</small>\n|Permission  =\n}}{{Location|50|20|13.054165|N|6|57|1.952391|E|alt:622.95_source:exif_heading:?}}\n\n=={{Assessment}}==\n{{Assessments|dewiki=1|featured=1}}\n{{picture of the day|year=2025|month=06|day=28}}\n{{POTD viwiki|2023-10-5}}\n\n== {{int:license-header}} ==\n{{cc-by-sa-2.0-de}}\n\n[[Category:MG PA]]\n[[Category:Oldtimer Festival Nürburgring]]\n[[Category:Featured pictures of Rhineland-Palatinate]]\n[[Category:Featured pictures of automobiles]]\n[[Category:Automobiles with license plates of Bavaria]]\n[[Category:Historic paddock Nürburgring]]"
+      },
+      {
+        "title": "File:Hamburg, Speicherstadt, Block P -- 2016 -- 3330-6.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hamburg,_Speicherstadt,_Block_P_--_2016_--_3330-6.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "== {{int:filedesc}} ==\n{{Information\n |description    = {{de|Block P am [[:de:Fleet|Wandrahmsfleet]] (mit der Wandbereiterbrücke) in der [[:de:Speicherstadt|Speicherstadt]] bei Nacht, [[:de:Hamburg|Hamburg]], Deutschland<br /><small>Die Speicherstadt entstand zwischen 1885 und 1927 als größtes zusammenhängendes Lagerhaus-Ensemble der Welt auf über 100.000 Eichen- und Pappelpfählen, um Waren zollfrei zu lagern, was durch die Integration Hamburgs in das deutsche Zollgebiet 1888 erforderlich wurde. Ihre Besonderheit liegt in der einzigartigen Kombination aus roten Backsteinbauten im neugotischen Stil, Wasserstraßen (Fleeten), Brücken und Straßen, die sie zusammen mit dem [[:de:Kontorhausviertel|Kontorhausviertel]] zu einem maritimen [[:de:UNESCO-Welterbe|UNESCO-Welterbe]] macht. Als besondere Gebäude sind das ikonische [[:de:Wasserschloss (Hamburg)|Wasserschloss]] und die Museen wie dem Speicherstadtmuseum, dem Kaffeemuseum, dem Gewürzmuseum und dem Deutschen Zollmuseum hervorzuheben.</small>}}\n{{en|Block P (and Wandbereiterbrücke) in the [[:en:Speicherstadt|Speicherstadt]], [[:en:Hamburg|Hamburg]] at night, Germany<br /><small>The Speicherstadt was built between 1885 and 1927 as the world’s largest contiguous warehouse complex on over 100,000 oak and poplar piles to store goods duty-free, which became necessary when Hamburg was integrated into the German customs territory in 1888. Its special feature is the unique combination of red brick buildings in neo-Gothic style, waterways (fleets), bridges, and streets, which, together with the Kontorhaus district, make it a maritime UNESCO World Heritage Site. Noteworthy buildings include the iconic moated castle and museums such as the Speicherstadtmuseum, the Coffee Museum, the Spice Museum, and the German Customs Museum.</small>}}\n{{cs|Blok P, World Heritage Monument ''([[:cs:Světové dědictví|Světové dědictví]])'', ve čtvrti [[:Category:Speicherstadt|Speicherstadt]] v [[:cs:Hamburk|Hamburku]] během noci}}\n{{es|Vista nocturna de «Block P» en [[:es:Speicherstadt|Speicherstadt]], [[:es:Hamburgo|Hamburgo]], [[:es:Alemania|Alemania]]}}\n{{fr|Block P au Wandrahmsfleet (avec le pont Wandbereiter) dans la [[:fr:Speicherstadt|Speicherstadt]] de nuit, [[:fr:Hambourg|Hambourg]], [[:fr:Allemagne|Allemagne]]}}\n{{hu|A [[:hu:Speicherstadt|Speicherstadt]] éjszakai megvilágításban ([[:hu:Hamburg|Hamburg]], [[:hu:Németország|Németország]])}}\n{{it|Il Blocco P del complesso di magazzini [[:it:Speicherstadt (Amburgo)|Speicherstadt]] ad [[:it:Amburgo|Amburgo]], dichiarato [[:it:Patrimonio dell'umanità|patrimonio dell’umanità]] nel 2015}}\n{{mk|Блокот P во [[:Category:Speicherstadt|Складишниот град]] (Шпајхерштат) во [[:mk:Хамбург|Хамбург]], прогласен за [[:mk:Светско наследство|светско наследство]] на [[:mk:УНЕСКО|УНЕСКО]]}}\n{{nl|Het [[Peblinge Sø|Peblinge Sø]][[:nl:Werelderfgoedlijst|werelderfgoed]] [[:nl:Speicherstadt|Speicherstadt]] in de [[:nl:Duitsland|Duitse]] stad [[:nl:Hamburg|Hamburg]]}}\n{{pl|Nocny widok na „[[:pl:Blok mieszkalny|Blok]]&nbsp;P” i most ''Wandbereiterbrücke'' we wpisanym na [[:pl:Lista światowego dziedzictwa UNESCO|listę światowego dziedzictwa UNESCO]] [[:pl:Speicherstadt|Speicherstadt]] w [[:pl:Hamburg|Hamburgu]], w [[:pl:Niemcy|Niemczech]]}}\n{{pt|Vista noturna de «Block P» em [[:pt:Speicherstadt|Speicherstadt]], [[:pt:Hamburgo|Hamburgo]], [[:pt:Alemanha|Alemanha]]}}\n{{uk|Блок P на Вандрахмсфліт (з Вандберейтербрюкке) у Шпайхерштадті вночі, [[:uk:Гамбург|Гамбург]], [[:uk:Німеччина|Німеччина]]}}\n----\n{{Object description|wikidata=Q117313483|subject=bridge|title={{Title|Wandbereiterbrücke|lang=de}}|architect={{Unknown|architect}}|date={{ISOdate|1903}}}}\n{{Object description|wikidata=Q117348050|subject=building|title={{Title|Block S (Speicherstadt)|lang=de}}|architect={{Unknown|architect}}|date={{Other date|unknown}}}}\n{{Object description|wikidata=Q117355560|subject=building|title={{Title|Block H (Speicherstadt)|lang=de}}|architect={{Unknown|architect}}|date={{Other date|unknown}}}}\n{{Object description|wikidata=Q117355531|subject=building|title={{Title|Block P (Speicherstadt)|lang=de}}|architect={{Unknown|architect}}|date={{Other date|unknown}}}}\n{{Kulturdenkmal|Ort=Hamburg|Nummer=11793|Wikidata=Q117355560}}\n{{Kulturdenkmal|Ort=Hamburg|Nummer=12277|Wikidata=Q96375991}}\n{{Kulturdenkmal|Ort=Hamburg|Nummer=12428|Wikidata=Q117355531}}\n{{Kulturdenkmal|Ort=Hamburg|Nummer=12435|Wikidata=Q117348050}}\n{{Kulturdenkmal|Ort=Hamburg|Nummer=12481|Wikidata=Q117313483}}\n |date           = {{Taken on|2016-06-11 23:10|cat=no}}\n |source         = {{own}}\n |author         = {{User:XRay/Templates/Author|scope=creator}}\n |permission     = {{User:XRay/Templates/Credits/cc-by-sa}}\n |other_versions =\n |other_fields   = {{User:XRay/Templates/Credits/Attribution}}\n{{User:XRay/Templates/Tags|nmb=8|Block P|Deutschland|Fleet|Germany|Hamburg|Nacht|Night|Speicherstadt|Architectural photography|Architekturfotografie|Available light|Available light photography|Bild des Tages|Bridge|Brücke|Canal|Castle|Cinematic style|Cinematic style photography|Denkmal|Exzellentes Bild|Featured picture|Filmstil|Fluss|Fotografie im Filmstil|Fotokunst|Fotowettbewerb|Geographie|Geschichte|HafenCity|Haus|HDR|HDRI|HDR-Image|High Dynamic Range Image|Himmel|Himmelsfotografie|Historisches|Hochkontrastbild|Kanal|Kontorhausviertel|Kreativität|Kultur|Kulturdenkmal|Langzeit|Langzeitaufnahme|Langzeitbelichtung|Licht|Long exposure|Monument|Nachtaufnahme|Nachtfotografie|Natur|Night shot|Photo art|Photographic art|Picture of the day|Qualitätsbild|Quality image|Reflection|Reflexion|River|Road|Schloss|Schutzgebiet|Skyscape photography|Slow-shutter photography|Spiegelbild|Spiegelung|Straße|Street|Tone-mapped HDR image|UNESCO-Welterbe|Verkehr|Wasser|Wasserschloss|Welterbe|Wiki Loves Monuments|World Heritage Site|2016}}\n{{User:XRay/Templates/Hashtags|ArchitecturalPhotography|Architekturfotografie|Fotokunst|HafenHamburg|HamburgerHafen|HDRI|HighDynamicRangeImage|LongExposurePhotography|Nachtfotografie|NightPhotography|photoart|Reflections|SpeicherstadtHamburg|SpeicherstadtHH}}\n |other_fields_1 = {{User:XRay/Templates/Location|continent=Europe|country=Germany|state=Hamburg|province=Bezirk Hamburg-Mitte|district=HafenCity}}\n{{Depicted|Q117355531|infofield=yes}}\n{{User:XRay/Templates/Technical specifications|camera=Canon EOS 70D|lens=EF-S15-85mm f/3.5-5.6 IS USM|focal length=63|exposure time=2|aperture=8|iso=100|width=5436|height=3624|mpx=19.7|ratio=3:2|size=9.4|bitdepth=8|mime=image/jpeg|colorspace=sRGB|tonemapped=y|featured=y|POTD=y|quality=y|wiki=y|WLM.de=2016}}\n}}\n{{Object location|53.543333|9.991944|region:DE-HH_prec:750_type:landmark_dim:1500m}}\n{{Location|53.545555|9.999445|region:DE-HH}}\n{{HDR image}}\n{{World Heritage Site|1467|Speicherstadt and Kontorhaus District with Chilehaus}}\n{{Wiki Loves Monuments 2016|de}}\n\n== {{Assessment}} ==\n{{Assessments|featured=1|com-nom=Hamburg, Speicherstadt, Block S -- 2016 -- 3330-6.jpg|POTD=1|POTDyear=2017|POTDmonth=01|POTDday=13|quality=1|fawiki=1|fawiki-nom=Hamburg, Speicherstadt, Block P -- 2016 -- 3330-6.jpg}}\n{{Picture of the day|year=2017|month=1|day=13}}\n{{WLM de Gewinnerbild|year=2016|place=27}}\n\n== {{anchor|ImgLic}}{{int:license-header}} ==\n{{self|author={{User:XRay/Templates/Author}}|cc-by-sa-4.0}}\n\n{{User:XRay/Templates/Notes|genre=photo art|howto1=hdri|howto2=long exposure|howto3=night|howto4=reflections|howto5=chromatic aberration|maxim=y|region=DE-HH|subject=buildings}}\n\n{{ImageNote|id=1|x=1155|y=2074|w=2935|h=626|dimx=5436|dimy=3624|style=2}}\n{{Label|Q117313483|link=commons}}\n{{ImageNoteEnd|id=1}}\n{{ImageNote|id=2|x=4104|y=7|w=1325|h=3610|dimx=5436|dimy=3624|style=2}}\n[[:Category:Block S (Speicherstadt)|Block S]]\n{{ImageNoteEnd|id=2}}\n{{ImageNote|id=3|x=7|y=7|w=1318|h=3610|dimx=5436|dimy=3624|style=2}}\n[[:Category:Block U (Speicherstadt)|Block U]]\n{{ImageNoteEnd|id=3}}\n{{ImageNote|id=4|x=1862|y=122|w=2229|h=1965|dimx=5436|dimy=3624|style=2}}\n[[:Category:Block P (Speicherstadt)|Block P]]\n{{ImageNoteEnd|id=4}}\n{{ImageNote|id=5|x=1277|y=714|w=625|h=1652|dimx=5436|dimy=3624|style=2}}\n[[:Category:Block H (Speicherstadt)|Block H]]\n{{ImageNoteEnd|id=5}}\n{{ImageNote|id=6|x=1162|y=2686|w=2956|h=925|dimx=5436|dimy=3624|style=2}}\n{{Label|Q96375991|link=commons}}\n{{ImageNoteEnd|id=6}}\n\n[[Category:Block H (Speicherstadt)]]\n[[Category:Block P (Speicherstadt)]]\n[[Category:Block S (Speicherstadt)]]\n[[Category:Block U (Speicherstadt)]]\n[[Category:Wandbereiterbrücke]]\n[[Category:Bridges in Hamburg-HafenCity]]\n[[Category:Water reflections of buildings in Germany at night]]\n[[Category:Water reflections of lights in Germany]]\n[[Category:Illuminated buildings in Hamburg]]\n[[Category:Bridges in Hamburg at night]]\n[[Category:Dark skies in Hamburg]]\n[[Category:Long exposure photography in architecture]]\n[[Category:Long exposure photographs of Hamburg]]\n[[Category:Long exposures (water reflections)]]\n[[Category:Cinematic style photography]]\n[[Category:Photo art of architecture]]\n[[Category:Photo art in Hamburg]]\n[[Category:Tone-mapped HDR images of Hamburg]]\n[[Category:Tone-mapped HDR images of buildings in Germany]]\n[[Category:1 bridge in Hamburg]]\n[[Category:Canals in 2016|0611]]\n[[Category:Bridges in Germany photographed in 2016|0611]]\n[[Category:Hamburg photographs taken on 2016-06-11]]\n[[Category:Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM]]\n[[Category:Taken with Canon EOS 70D]]\n[[Category:Photographs with aspect ratio of 3:2]]\n[[Category:Exposure time 2 sec]]\n[[Category:F-number f/8]]\n[[Category:ISO speed rating 100]]\n[[Category:Lens focal length 63 mm]]\n[[Category:Images from Wiki Loves Monuments 2016, DE-HH]]\n[[Category:Uploaded with VicuñaUploader]]\n[[Category:Featured pictures of World Heritage Sites]]\n[[Category:Featured pictures of Hamburg]]\n[[Category:Featured pictures of cultural heritage monuments in Hamburg]]\n[[Category:Featured pictures of bridges in Germany]]\n[[Category:Featured pictures of buildings in Germany]]\n[[Category:Featured pictures of reflections]]\n[[Category:Featured pictures with long exposure]]\n[[Category:Featured night photography]]\n[[Category:Featured pictures from Wiki Loves Monuments Germany 2016]]\n[[Category:Featured pictures on Wikimedia Commons]]\n[[Category:Quality images of Speicherstadt and Kontorhaus District with Chilehaus]]\n[[Category:Quality images of photo art]]\n[[Category:Quality images of bridges in Hamburg]]\n[[Category:Quality images of canals in Hamburg]]\n[[Category:Quality images of cultural heritage monuments in Hamburg]]\n[[Category:Quality images of water reflections]]\n[[Category:Quality night photography in Hamburg]]\n[[Category:Quality images with long exposure]]\n[[Category:Quality images from Wiki Loves Monuments 2016 in Germany]]\n[[Category:Photographs by Dietmar Rabich/Architectural photography/Bridges]]\n[[Category:Photographs by Dietmar Rabich/Available light photography/Night]]\n[[Category:Photographs by Dietmar Rabich/Hamburg]]\n[[Category:Photographs by Dietmar Rabich/Reflections]]\n[[Category:Photographs by Dietmar Rabich/Long exposure]]\n[[Category:Photographs by Dietmar Rabich/Cinematic style photography]]\n[[Category:Photographs by Dietmar Rabich/Tone-mapped HDR images]]\n[[Category:Photographs by Dietmar Rabich/Year/2016]]\n[[Category:Photographs by Dietmar Rabich/Wiki Loves Monuments/2016]]\n[[Category:Photographs by Dietmar Rabich/Wiki Loves Monuments/Winners]]\n[[Category:Photographs by Dietmar Rabich/Featured pictures]]\n[[Category:Photographs by Dietmar Rabich/Featured pictures on Wikimedia Commons]]\n[[Category:Photographs by Dietmar Rabich/Featured pictures of Germany]]\n[[Category:Photographs by Dietmar Rabich/Featured pictures on Wikipedia]]\n[[Category:Photographs by Dietmar Rabich/Featured pictures from Wiki Loves Monuments]]\n[[Category:Photographs by Dietmar Rabich/Quality images]]\n[[Category:Photographs by Dietmar Rabich/Quality images of bridges]]\n[[Category:Photographs by Dietmar Rabich/Quality images of canals]]\n[[Category:Photographs by Dietmar Rabich/Quality images of natural phenomena]]\n[[Category:Photographs by Dietmar Rabich/Quality images of photo art]]\n[[Category:Photographs by Dietmar Rabich/Quality images of World Heritage Sites]]\n[[Category:Photographs by Dietmar Rabich/Quality images of Hamburg]]\n[[Category:Photographs by Dietmar Rabich/Quality images from Wiki Loves Monuments]]"
+      },
+      {
+        "title": "File:Gedore No. 7 combination wrenches 6–19 mm.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Gedore_No._7_combination_wrenches_6%E2%80%9319_mm.jpg",
+        "license": "CC BY-SA 3.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{de|1=Gedore No. 7 Ring-Maulschlüssel-Satz von 6 bis 19 mm Schlüsselweite. Die Maulschlüssel lagen auf einer Acrylglas-Platte mit vollständig schwarzer Umgebung. Lichtquelle war eine 60×60 cm Softbox, schräg nach unten auf die Platte gerichtet, im Foto von rechts unten kommend. Die das an der Canon EOS 6D montierte TS-E 90 mm wurde geschiftet, um eine größere Fläche abzudecken. Zusätzlich ist dies ein Fokus Stack aus 5–6 Einzelaufnahmen, in Helicon Focus gestacked und in Photoshop nachbearbeitet.}}\n{{en|1=Set of Gedore No. 7 combination wrenches in 6 to 19 mm sizes.}}\n{{es|1=Juego de [[:es:Llave (herramienta)|llaves de boca mixta]] Gedore No. 7.}}\n{{pl|1=Zestaw kluczy płasko-oczkowych ''Gedore&nbsp;No.&nbsp;7'' w&nbsp;rozmiarach od&nbsp;6 do&nbsp;19&nbsp;mm.}}\n{{ru|1=Набор комбинированных [[:ru:Гаечный ключ|гаечных ключей]] Gedore № 7 размером от 6 до 19 мм}}\n|date=2017-01-15 11:31:24\n|source={{own}}\n|author=[[User:Lucasbosch|Lucasbosch]]\n|permission=\n|other versions=\n}}\n{{Retouched picture |1=removed background reflections, merged two shots into one}}\n\n=={{Assessment}}==\n{{picture of the day|year=2017|month=10|day=12}}\n{{Assessments|featured=1|quality=1}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Tools on black background]]\n[[Category:Created with Helicon Focus]]\n[[Category:Taken with Canon EOS 6D]]\n[[Category:Taken with Canon TS-E 90mm F2.8]]\n[[Category:Combination wrenches]]\n[[Category:Studio photographs by Lucasbosch]]\n[[Category:Montages of objects]]\n[[Category:Quality images by Lucasbosch]]\n[[Category:Focus stacking images of tools]]\n[[Category:Featured pictures by Lucasbosch]]\n[[Category:Featured pictures of objects]]\n[[Category:Gedore]]\n[[Category:Quality images of tools]]\n[[Category:Quality photo composites and montages]]"
+      },
+      {
+        "title": "File:Pinacoteca de São Paulo 6.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pinacoteca_de_S%C3%A3o_Paulo_6.jpg",
+        "license": "CC0",
+        "wikitext": "{{Picture of the day|year=2027|month=12|day=28}}\n=={{int:filedesc}}==\n{{Information\n|description={{Multilingual description|en=Pinacoteca of Sao Paulo|es=Pinacoteca de Sao Paulo|fr=Pinacothèque de Sao Paulo|pt=Pinacoteca de São Paulo|ru=Пинакотека из Сан-Паулу|zh=圣保罗的皮纳科特卡|de=Pinacoteca von Sao Paulo}}\n|date=2019-12-22 \n|source={{own}}\n|author={{Creator:Wilfredo Rafael Rodriguez Hernandez}}\n|permission=\n|other versions=\n}}\n{{Assessments|featured=1}}\n\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n{{QualityImage}}\n\n[[Category:Interior of the Pinacoteca do Estado de São Paulo]]\n[[Category:Quality images by Wilfredor]]\n[[Category:Featured pictures of São Paulo]]\n[[Category:Featured pictures of Brazil by User:Wilfredor]][[Category:Photographs of São Paulo by Wilfredor]][[Category:Pinacoteca do Estado de São Paulo by Wilfredor]]\n[[Category:Featured photographs in the public domain]]\n[[Category:Rocking chairs in Brazil]]\n[[Category:Empty seats]]\n[[Category:Featured pictures by User:Wilfredor]]\n[[Category:Hanging lamps]]"
+      },
+      {
+        "title": "File:Chess game Staunton No. 6 perfil view 8.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg",
+        "license": "CC0",
+        "wikitext": "{{Picture of the day|year=2028|month=08|day=28}}\n=={{int:filedesc}}==\n{{Information\n|description={{es|1=Conjunto compuesto por piezas de ajedrez de estilo Staunton, modelo Rio Staunton de House of Chess, y tablero de madera Wegiel Handmade Wooden Chess Board. Las piezas están fabricadas en palisandro Ringy y boj, con ponderación interna triple, bases biseladas y fieltro verde en la parte inferior para reducir el desgaste por fricción sobre el tablero. El caballo presenta talla manual con rasgos anatómicos marcados, entre ellos ojos definidos y crin trenzada. Las piezas tienen acabado pulido semibrillante y el conjunto incluye reinas adicionales para promoción de peones. El peso aproximado de las piezas es de 3,5 libras.\n\nEl tablero Wegiel es un tablero de ajedrez de madera de formato torneo, con dimensiones aproximadas de 18,9 × 18,9 pulgadas y una altura de 0,6 pulgadas. Está fabricado en caoba y sicómoro, con casillas de 2 pulgadas e incrustaciones contrastantes. Incorpora coordenadas algebraicas en los bordes para identificación de casillas, registro de partidas y análisis. El peso aproximado del tablero es de 6,5 libras, con un peso total combinado cercano a 10 libras.}}\n\n{{en|1=Chess set composed of Rio Staunton pieces by House of Chess and a Wegiel Handmade Wooden Chess Board. The pieces are made of Ringy rosewood and boxwood, with triple internal weighting, beveled bases, and green felt pads on the underside to reduce frictional wear on the board. The knight is hand-carved, with defined anatomical features including pronounced eyes and a braided mane. The pieces have a semi-gloss polished finish, and the set includes additional queens for pawn promotion. The approximate weight of the pieces is 3.5 lb.\n\nThe Wegiel board is a wooden tournament-format chessboard measuring approximately 18.9 × 18.9 in, with a height of 0.6 in. It is made of mahogany and sycamore, with 2-inch squares and contrasting inlays. Algebraic coordinates are printed along the borders for square identification, game notation, and analysis. The approximate weight of the board is 6.5 lb, giving a combined total weight of about 10 lb.}}\n\n{{fr|1=Ensemble d’échecs composé de pièces Rio Staunton de House of Chess et d’un échiquier en bois Wegiel Handmade Wooden Chess Board. Les pièces sont fabriquées en palissandre Ringy et en buis, avec un lestage interne triple, des bases biseautées et des patins de feutre vert sous les pièces afin de réduire l’usure par frottement sur l’échiquier. Le cavalier est sculpté à la main, avec des traits anatomiques définis, notamment des yeux marqués et une crinière tressée. Les pièces présentent une finition polie semi-brillante et l’ensemble comprend des dames supplémentaires pour la promotion des pions. Le poids approximatif des pièces est de 3,5 livres.\n\nL’échiquier Wegiel est un échiquier en bois de format tournoi, mesurant environ 18,9 × 18,9 pouces, avec une hauteur de 0,6 pouce. Il est fabriqué en acajou et en sycomore, avec des cases de 2 pouces et des incrustations contrastées. Des coordonnées algébriques sont disposées sur les bords pour l’identification des cases, la notation des parties et l’analyse. Le poids approximatif de l’échiquier est de 6,5 livres, pour un poids total combiné d’environ 10 livres.}}\n\n{{de|1=Schachensemble bestehend aus Rio-Staunton-Figuren von House of Chess und einem Wegiel Handmade Wooden Chess Board. Die Figuren bestehen aus Ringy-Palisander und Buchsbaum, mit dreifacher Innengewichtung, abgeschrägten Sockeln und grünen Filzauflagen an der Unterseite zur Verringerung von Reibungsverschleiß auf dem Brett. Der Springer ist handgeschnitzt und weist ausgeprägte anatomische Merkmale auf, darunter deutlich modellierte Augen und eine geflochtene Mähne. Die Figuren besitzen eine halbglänzend polierte Oberfläche; das Set enthält zusätzliche Damen für Bauernumwandlungen. Das ungefähre Gewicht der Figuren beträgt 3,5 Pfund.\n\nDas Wegiel-Brett ist ein hölzernes Schachbrett im Turnierformat mit Abmessungen von etwa 18,9 × 18,9 Zoll und einer Höhe von 0,6 Zoll. Es besteht aus Mahagoni und Sykomore, mit 2-Zoll-Feldern und kontrastierenden Einlegearbeiten. An den Rändern befinden sich algebraische Koordinaten zur Feldidentifikation, Partienotation und Analyse. Das Brett wiegt ungefähr 6,5 Pfund; das kombinierte Gesamtgewicht liegt bei etwa 10 Pfund.}}\n\n{{it|1=Set di scacchi composto da pezzi Rio Staunton di House of Chess e da una scacchiera in legno Wegiel Handmade Wooden Chess Board. I pezzi sono realizzati in palissandro Ringy e bosso, con tripla ponderazione interna, basi smussate e feltrini verdi nella parte inferiore per ridurre l’usura da attrito sulla scacchiera. Il cavallo è intagliato a mano, con caratteristiche anatomiche definite, tra cui occhi marcati e criniera intrecciata. I pezzi hanno una finitura lucidata semilucida e il set comprende regine aggiuntive per la promozione dei pedoni. Il peso approssimativo dei pezzi è di 3,5 libbre.\n\nLa scacchiera Wegiel è una scacchiera in legno in formato torneo, con dimensioni di circa 18,9 × 18,9 pollici e altezza di 0,6 pollici. È realizzata in mogano e sicomoro, con caselle da 2 pollici e intarsi contrastanti. I bordi includono coordinate algebriche per l’identificazione delle caselle, la notazione delle partite e l’analisi. Il peso approssimativo della scacchiera è di 6,5 libbre, per un peso totale combinato di circa 10 libbre.}}\n\n{{pt|1=Conjunto de xadrez composto por peças Rio Staunton da House of Chess e por um tabuleiro de madeira Wegiel Handmade Wooden Chess Board. As peças são feitas de pau-rosa Ringy e buxo, com tripla ponderação interna, bases chanfradas e feltro verde na parte inferior para reduzir o desgaste por atrito sobre o tabuleiro. O cavalo é entalhado à mão, com características anatômicas definidas, incluindo olhos marcados e crina trançada. As peças têm acabamento polido semibrilhante, e o conjunto inclui damas adicionais para promoção de peões. O peso aproximado das peças é de 3,5 libras.\n\nO tabuleiro Wegiel é um tabuleiro de xadrez de madeira em formato de torneio, com dimensões aproximadas de 18,9 × 18,9 polegadas e altura de 0,6 polegada. É fabricado em mogno e sicômoro, com casas de 2 polegadas e incrustações contrastantes. Inclui coordenadas algébricas nas bordas para identificação das casas, registro de partidas e análise. O peso aproximado do tabuleiro é de 6,5 libras, com peso total combinado próximo de 10 libras.}}\n\n{{nl|1=Schaakset bestaande uit Rio Staunton-schaakstukken van House of Chess en een Wegiel Handmade Wooden Chess Board. De stukken zijn vervaardigd uit Ringy-palissander en buxushout, met drievoudige interne verzwaring, afgeschuinde bases en groene vilten onderzijden om wrijvingsslijtage op het bord te beperken. Het paard is met de hand gesneden en heeft duidelijke anatomische kenmerken, waaronder uitgesproken ogen en gevlochten manen. De stukken hebben een halfglanzend gepolijste afwerking; de set bevat extra dames voor pionpromotie. Het geschatte gewicht van de stukken bedraagt 3,5 pond.\n\nHet Wegiel-bord is een houten schaakbord in toernooiformaat, met afmetingen van ongeveer 18,9 × 18,9 inch en een hoogte van 0,6 inch. Het is gemaakt van mahonie en plataanhout, met velden van 2 inch en contrasterende inleg. Langs de randen staan algebraïsche coördinaten voor veldidentificatie, partijregistratie en analyse. Het bord weegt ongeveer 6,5 pond, met een gecombineerd totaalgewicht van circa 10 pond.}}\n\n{{sv|1=Schackuppsättning bestående av Rio Staunton-pjäser från House of Chess och ett Wegiel Handmade Wooden Chess Board. Pjäserna är tillverkade av Ringy-rosenträ och buxbom, med tredubbel intern viktning, fasade baser och gröna filtdynor på undersidan för att minska friktionsslitage på brädet. Springaren är handskuren och har tydligt definierade anatomiska drag, bland annat markerade ögon och flätad man. Pjäserna har en halvblank polerad yta, och uppsättningen innehåller extra damer för bondeförvandling. Pjäsernas ungefärliga vikt är 3,5 pund.\n\nWegiel-brädet är ett schackbräde i trä i turneringsformat, med måtten cirka 18,9 × 18,9 tum och en höjd på 0,6 tum. Det är tillverkat av mahogny och sykomor, med 2-tums rutor och kontrasterande inläggningar. Algebraiska koordinater finns längs kanterna för rutidentifiering, partinotering och analys. Brädets ungefärliga vikt är 6,5 pund, med en sammanlagd totalvikt på cirka 10 pund.}}\n\n{{pl|1=Zestaw szachowy składający się z figur Rio Staunton firmy House of Chess oraz drewnianej szachownicy Wegiel Handmade Wooden Chess Board. Figury wykonano z palisandru Ringy i bukszpanu, z potrójnym wewnętrznym obciążeniem, fazowanymi podstawami oraz zielonymi podkładkami filcowymi od spodu, ograniczającymi zużycie powierzchni szachownicy przez tarcie. Skoczek jest rzeźbiony ręcznie i ma wyraźnie zaznaczone cechy anatomiczne, w tym oczy oraz plecioną grzywę. Figury mają półpołyskliwe polerowane wykończenie, a zestaw zawiera dodatkowe hetmany do promocji pionów. Przybliżona masa figur wynosi 3,5 funta.\n\nSzachownica Wegiel jest drewnianą szachownicą w formacie turniejowym, o wymiarach około 18,9 × 18,9 cala i wysokości 0,6 cala. Wykonano ją z mahoniu i sykomory, z polami o boku 2 cali oraz kontrastowymi intarsjami. Na krawędziach znajdują się współrzędne algebraiczne służące do identyfikacji pól, zapisu partii i analizy. Przybliżona masa szachownicy wynosi 6,5 funta, a łączna masa zestawu około 10 funtów.}}\n\n{{ru|1=Шахматный комплект состоит из фигур Rio Staunton компании House of Chess и деревянной доски Wegiel Handmade Wooden Chess Board. Фигуры изготовлены из палисандра Ringy и самшита, имеют тройное внутреннее утяжеление, скошенные основания и зелёные войлочные накладки снизу для уменьшения износа поверхности доски от трения. Конь вырезан вручную и имеет выраженные анатомические детали, включая обозначенные глаза и плетёную гриву. Фигуры имеют полированную полуглянцевую отделку; в комплект входят дополнительные ферзи для превращения пешек. Примерный вес фигур составляет 3,5 фунта.\n\nДоска Wegiel представляет собой деревянную шахматную доску турнирного формата размером приблизительно 18,9 × 18,9 дюйма и высотой 0,6 дюйма. Она изготовлена из махагони и сикомора, с клетками размером 2 дюйма и контрастными вставками. По краям нанесены алгебраические координаты для идентификации полей, записи партий и анализа. Примерный вес доски составляет 6,5 фунта, а общий вес комплекта — около 10 фунтов.}}\n\n{{uk|1=Шаховий комплект складається з фігур Rio Staunton від House of Chess і дерев’яної дошки Wegiel Handmade Wooden Chess Board. Фігури виготовлені з палісандра Ringy та самшиту, мають потрійне внутрішнє обважнення, скошені основи й зелені повстяні накладки знизу для зменшення зношування дошки через тертя. Кінь вирізьблений вручну та має виразні анатомічні ознаки, зокрема окреслені очі й плетену гриву. Фігури мають поліроване напівглянцеве покриття; комплект містить додаткових ферзів для перетворення пішаків. Орієнтовна вага фігур становить 3,5 фунта.\n\nДошка Wegiel є дерев’яною шахівницею турнірного формату з розмірами приблизно 18,9 × 18,9 дюйма та висотою 0,6 дюйма. Вона виготовлена з махагоні та сикомора, має клітини розміром 2 дюйми й контрастні інкрустації. Уздовж країв нанесені алгебраїчні координати для ідентифікації клітин, запису партій та аналізу. Орієнтовна вага дошки становить 6,5 фунта, а загальна вага комплекту — близько 10 фунтів.}}\n\n{{ar|1=طقم شطرنج يتكوّن من قطع Rio Staunton من House of Chess ولوح خشبي Wegiel Handmade Wooden Chess Board. صُنعت القطع من خشب الورد Ringy وخشب البقس، مع تثقيل داخلي ثلاثي، وقواعد مشطوفة، ولبادات خضراء من اللباد في الجهة السفلية لتقليل التآكل الناتج عن الاحتكاك بسطح اللوح. قطعة الحصان منحوتة يدويًا وتضم سمات تشريحية واضحة، منها عينان بارزتان وعُرف مضفّر. تتميز القطع بسطح مصقول نصف لامع، ويتضمن الطقم وزيرات إضافيات لترقية البيادق. يبلغ الوزن التقريبي للقطع 3.5 أرطال.\n\nلوح Wegiel هو لوح شطرنج خشبي بصيغة بطولات، تبلغ أبعاده التقريبية 18.9 × 18.9 بوصة وارتفاعه 0.6 بوصة. صُنع من خشبي الماهوغني والجميز، مع مربعات بقياس 2 بوصة وتطعيمات متباينة اللون. تتضمن الحواف إحداثيات جبرية لتحديد المربعات وتدوين النقلات والتحليل. يبلغ الوزن التقريبي للوح 6.5 أرطال، ويبلغ الوزن الإجمالي للطقم نحو 10 أرطال.}}\n\n{{zh|1=该国际象棋套装由 House of Chess 的 Rio Staunton 棋子和 Wegiel Handmade Wooden Chess Board 木质棋盘组成。棋子采用 Ringy 玫瑰木和黄杨木制作，内部为三重配重结构，底座带倒角，底部设有绿色毡垫，以减少棋子与棋盘表面之间的摩擦磨损。马棋为手工雕刻，具有较明确的解剖特征，包括突出的眼部和编束状鬃毛。棋子表面为半光泽抛光处理，套装包含用于兵升变的额外后。棋子总重量约为 3.5 磅。\n\nWegiel 棋盘为木质比赛规格棋盘，尺寸约为 18.9 × 18.9 英寸，高度约为 0.6 英寸。棋盘由桃花心木和悬铃木制成，格子边长为 2 英寸，并采用对比色镶嵌结构。边缘标有代数坐标，用于识别格位、记录棋局和进行分析。棋盘重量约为 6.5 磅，整套总重量约为 10 磅。}}\n\n{{ja|1=House of Chess の Rio Staunton 駒と Wegiel Handmade Wooden Chess Board の木製盤から成るチェスセット。駒は Ringy ローズウッドおよびツゲ材で作られ、内部に三重の重りを備え、面取りされた台座と、盤面との摩擦摩耗を低減するための緑色フェルトが底面に取り付けられている。ナイトは手彫りで、目や編み込まれたたてがみなどの解剖学的特徴が明確に表現されている。駒は半光沢の研磨仕上げで、ポーンの昇格用に追加のクイーンが含まれる。駒の重量は約3.5ポンドである。\n\nWegiel の盤は木製のトーナメント形式チェス盤で、寸法は約18.9 × 18.9インチ、高さは約0.6インチである。マホガニーとシカモアで作られ、2インチ角のマスと対照的な象嵌を備える。縁にはマスの識別、棋譜記録、分析に用いる代数座標が表示されている。盤の重量は約6.5ポンドで、セット全体の重量は約10ポンドである。}}\n\n{{ko|1=House of Chess의 Rio Staunton 기물과 Wegiel Handmade Wooden Chess Board 목제 체스판으로 구성된 체스 세트이다. 기물은 Ringy 로즈우드와 회양목으로 제작되었으며, 내부 삼중 중량 구조, 모따기된 받침, 체스판 표면의 마찰 마모를 줄이기 위한 녹색 펠트 패드를 하부에 갖추고 있다. 나이트는 손으로 조각되었으며, 뚜렷한 눈과 땋은 갈기 등 해부학적 특징이 명확하게 표현되어 있다. 기물은 반광택 연마 마감이며, 폰 승격을 위한 추가 퀸이 포함되어 있다. 기물의 대략적인 중량은 3.5파운드이다.\n\nWegiel 체스판은 목제 토너먼트 규격 체스판으로, 크기는 약 18.9 × 18.9인치, 높이는 약 0.6인치이다. 마호가니와 시커모어로 제작되었으며, 2인치 정사각형 칸과 대비되는 상감 구조를 갖는다. 가장자리에는 칸 식별, 기보 기록 및 분석을 위한 대수 좌표가 표시되어 있다. 체스판의 대략적인 중량은 6.5파운드이며, 전체 세트의 합산 중량은 약 10파운드이다.}}\n\n{{tr|1=House of Chess tarafından üretilen Rio Staunton taşları ile Wegiel Handmade Wooden Chess Board ahşap satranç tahtasından oluşan satranç takımı. Taşlar Ringy gül ağacı ve şimşir ağacından yapılmıştır; iç kısımlarında üçlü ağırlıklandırma, eğimli tabanlar ve tahta yüzeyindeki sürtünme aşınmasını azaltmak için alt kısımda yeşil keçe pedler bulunur. At taşı elle oyulmuştur ve belirgin gözler ile örgülü yele gibi tanımlı anatomik özellikler içerir. Taşlar yarı parlak cilalı yüzeye sahiptir ve takımda piyon terfisi için ek vezirler yer alır. Taşların yaklaşık ağırlığı 3,5 libredir.\n\nWegiel tahtası, yaklaşık 18,9 × 18,9 inç boyutlarında ve 0,6 inç yüksekliğinde ahşap turnuva formatında bir satranç tahtasıdır. Maun ve çınar ağacından yapılmış olup 2 inçlik karelere ve kontrast oluşturan kakmalara sahiptir. Kenarlarda kare tanımlama, oyun kaydı ve analiz için cebirsel koordinatlar bulunur. Tahtanın yaklaşık ağırlığı 6,5 libre, toplam set ağırlığı ise yaklaşık 10 libredir.}}\n\n{{he|1=ערכת שחמט המורכבת מכלי Rio Staunton של House of Chess ומלוח עץ Wegiel Handmade Wooden Chess Board. הכלים עשויים מעץ רוזווד Ringy ומעץ תאשור, עם משקול פנימי משולש, בסיסים משופעים ורפידות לבד ירוקות בחלק התחתון להפחתת שחיקה כתוצאה מחיכוך על פני הלוח. הפרש מגולף ביד וכולל מאפיינים אנטומיים מוגדרים, בהם עיניים מודגשות ורעמה קלועה. לכלים גימור מלוטש חצי-מבריק, והערכה כוללת מלכות נוספות לקידום רגלים. משקל הכלים המשוער הוא 3.5 ליברות.\n\nלוח Wegiel הוא לוח שחמט מעץ בפורמט תחרותי, במידות משוערות של 18.9 × 18.9 אינץ' ובגובה 0.6 אינץ'. הוא עשוי מהגוני ושקמה, עם משבצות בגודל 2 אינץ' ושיבוצים מנוגדים. לאורך השוליים מופיעות קואורדינטות אלגבריות לזיהוי משבצות, רישום משחקים וניתוח. משקל הלוח המשוער הוא 6.5 ליברות, והמשקל הכולל של הערכה הוא כ-10 ליברות.}}\n\n{{hi|1=यह शतरंज सेट House of Chess के Rio Staunton मोहरों और Wegiel Handmade Wooden Chess Board लकड़ी के बोर्ड से बना है। मोहरे Ringy रोज़वुड और बॉक्सवुड से निर्मित हैं, जिनमें आंतरिक तिहरा भार, तिरछे आधार और बोर्ड की सतह पर घर्षण से होने वाले क्षरण को कम करने के लिए नीचे हरे फेल्ट पैड लगे हैं। घोड़ा हाथ से तराशा गया है और इसमें स्पष्ट शारीरिक विशेषताएँ हैं, जैसे उभरी हुई आँखें और गुँथी हुई अयाल। मोहरों पर अर्ध-चमकदार पॉलिश फिनिश है, और सेट में प्यादे के पदोन्नयन के लिए अतिरिक्त रानियाँ शामिल हैं। मोहरों का अनुमानित वजन 3.5 पाउंड है।\n\nWegiel बोर्ड लकड़ी का टूर्नामेंट-प्रारूप शतरंज बोर्ड है, जिसका आकार लगभग 18.9 × 18.9 इंच और ऊँचाई 0.6 इंच है। यह महोगनी और साइकामोर लकड़ी से बना है, जिसमें 2 इंच के खाने और विपरीत रंगों की जड़ाई है। किनारों पर खानों की पहचान, चालों के लेखन और विश्लेषण के लिए बीजीय निर्देशांक दिए गए हैं। बोर्ड का अनुमानित वजन 6.5 पाउंड है, और पूरे सेट का संयुक्त वजन लगभग 10 पाउंड है।}}\n\n{{id|1=Set catur yang terdiri atas bidak Rio Staunton dari House of Chess dan papan kayu Wegiel Handmade Wooden Chess Board. Bidak dibuat dari kayu rosewood Ringy dan boxwood, dengan pemberat internal tiga lapis, alas miring, serta bantalan felt hijau di bagian bawah untuk mengurangi keausan akibat gesekan pada permukaan papan. Bidak kuda diukir dengan tangan dan memiliki ciri anatomi yang jelas, termasuk mata yang menonjol dan surai yang dikepang. Bidak memiliki hasil akhir poles semi-kilap, dan set ini mencakup ratu tambahan untuk promosi pion. Berat perkiraan bidak adalah 3,5 pon.\n\nPapan Wegiel adalah papan catur kayu berformat turnamen, berukuran sekitar 18,9 × 18,9 inci dengan tinggi 0,6 inci. Papan ini dibuat dari kayu mahoni dan sycamore, dengan petak berukuran 2 inci dan tatahan kontras. Koordinat aljabar ditempatkan di sepanjang tepi untuk identifikasi petak, pencatatan permainan, dan analisis. Berat perkiraan papan adalah 6,5 pon, sehingga berat total gabungan sekitar 10 pon.}}\n\n|date=2024-04-26 13:32:11\n|source={{own}}\n|author=[[User:Wilfredor|Wilfredor]]\n|permission=\n|other versions=\n}}\n\n{{QCWC-Z7II}}\n{{Focus stacked image |1= |2= 30 |3= Helicon Focus}}\n{{Assessments|featured=1|com-nom=Chess game Staunton No. 6 perfil view 8.jpg}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n[[Category:Chess games]]\n[[Category:Chess sets]]\n[[Category:Staunton Chess Set]]\n[[Category:Chessboards]]\n[[Category:Chess pieces]]\n[[Category:Chess starting position]]\n[[Category:Chess by Wilfredor]]\n[[Category:Studio photography by Wilfredor]]\n[[Category:Featured pictures by User:Wilfredor]]\n{{QualityImage}}\n[[Category:Quality images by Wilfredor]]"
+      },
+      {
+        "title": "File:SBB Ce 6-8 II 14253 Wassen - Gurtnellen.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:SBB_Ce_6-8_II_14253_Wassen_-_Gurtnellen.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=SBB \"crocodile\" Ce 6-8 II 14253 crosses the lower Wattingen bridge with the \"Gotthard Experience Train\" 31066 Lavorgo - Erstfeld. Pictured near Wassen, Switzerland.}}\n{{de|1=SBB-Krokodil Ce 6/8 II 14253 überquert die Untere Wattingerbrücke mit dem „Erlebniszug Gotthard Bergstrecke“ 31066 Lavorgo - Erstfeld. Aufgenommen bei Wassen, Schweiz.}}\n|date=2025-08-09 16:28:01\n|source={{own}}, also available at https://bahnbilder.ch/60217\n|author=[[User:Kabelleger|Kabelleger]]\n|permission=\n|other versions=\n}}\n{{Location|46.698007|8.598752}}\n{{Assessments|featured=1|com-nom=SBB Ce 6-8 II 14253 Wassen - Gurtnellen.jpg}}\n{{Picture of the day|year=2026|month=08|day=22}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Bahnbilder.ch]]\n[[Category:SBB Ce 6/8 II]]\n[[Category:Trains on bridges in Switzerland]]\n[[Category:Rail transport in Wassen]]\n[[Category:Untere Wattingerbrücke]]\n[[Category:August 2025 in rail transport in Switzerland]]\n[[Category:August 2025 in the canton of Uri]]\n[[Category:Featured pictures of Switzerland]]\n[[Category:Featured pictures of rail vehicles]]\n[[Category:Featured pictures by User:Kabelleger]]\n[[Category:Vehicles in motion]]\n[[Category:Trains facing left]]"
+      }
+    ],
+    "Number 7A Pollock": [
+      {
+        "title": "File:Pennsylvania- PHILADELPHIA County, Enumeration District 680, Sheet No. 7A - DPLA - d05f6c93017f7054d8f5b9b7d2363129.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pennsylvania-_PHILADELPHIA_County,_Enumeration_District_680,_Sheet_No._7A_-_DPLA_-_d05f6c93017f7054d8f5b9b7d2363129.jpg",
+        "license": "Public domain",
+        "wikitext": "== {{int:filedesc}} ==\n {{ Artwork\n   | Other fields 1 = {{ InFi | Creator | Department of Commerce and Labor. Bureau of the Census. 7/1/1903-1913 }}\n   | title = Pennsylvania: PHILADELPHIA County, Enumeration District 680, Sheet No. 7A\n   | description = Surname, Given Name; Family Number; Age; Birth Year; Place of Birth Moerk, Edward; 122; 18; 1892; Pennsylvania Moerk, Mary; 122; 10; 1900; Pennsylvania Moerk, Emma; 122; 5; 1905; Pennsylvania Pfueller, Max; 123; 36; 1874; Germany Pfueller, Amelia; 123; 35; 1875; Germany Pfueller, Max; 123; 9; 1901; Germany Pfueller, Albert; 123; 2; 1908; Pennsylvania Pfueller, Adolph; 123; 0; 1910; Pennsylvania Wolf, Emma L; 124; 49; 1861; Pennsylvania Wolf, Emma L; 124; 29; 1881; Pennsylvania Wolf, Eliza; 124; 19; 1891; Pennsylvania Wolf, Adeline F; 124; 16; 1894; Pennsylvania Wolf, James M; 124; 13; 1897; Pennsylvania Wolf, David; 124; 7; 1903; Pennsylvania Tranger, Harvey; 125; 46; 1864; Pennsylvania Tranger, Annie; 125; 45; 1865; Pennsylvania Tranger, Helen; 125; 16; 1894; Pennsylvania Tranger, Franklin; 125; 11; 1899; Pennsylvania Tranger, Charles; 125; 4; 1906; Pennsylvania Garman, Elizabeth; 125; 32; 1878; Pennsylvania Tranger, Catharine; 125; 43; 1867; Pennsylvania Mueller, Fred; 126; 27; 1883; Pennsylvania Mueller, Alice; 126; 27; 1883; Pennsylvania Mueller, Agnes; 126; 3; 1907; Pennsylvania Collins, John R; 127; 29; 1881; Pennsylvania Collins, Martha A; 127; 29; 1881; Pennsylvania Hines, George H; 127; 24; 1886; New Jersey Hines, Agnes; 127; 22; 1888; Pennsylvania Hines, Agnes C; 127; 0; 1910; Pennsylvania Hines, William; 127; 65; 1845; Pennsylvania Glanzman, Frederick; 128; 40; 1870; Pennsylvania Glanzman, Josephine; 128; 36; 1874; New York Glanzman, Maria; 128; 15; 1895; Pennsylvania Glanzman, Elsie; 128; 6; 1904; Pennsylvania Furlong, John J; 128; 30; 1880; Pennsylvania Town, Arthur; 129; 39; 1871; Pennsylvania Town, Elizabeth; 129; 37; 1873; Pennsylvania Town, Thomas; 129; 10; 1900; Pennsylvania Town, Edward; 129; 9; 1901; Pennsylvania Town, Elizabeth; 129; 7; 1903; Pennsylvania Town, Florence; 129; 2; 1908; Pennsylvania Pollock, James; 130; 49; 1861; Scotland Pollock, Agnes; 130; 49; 1861; Ireland Pollock, Elizabeth; 130; 16; 1894; Pennsylvania Stevens, Carl; 131; 50; 1860; Pennsylvania Stevens, Emma; 131; 51; 1859; Pennsylvania Rice, Emma; 131; 22; 1888; Pennsylvania Gross, John; 132; 53; 1857; Pennsylvania Gross, Sophia L; 132; 54; 1856; Pennsylvania Kaetley, Elizabeth; 133; 60; 1850; Ireland\n   | date = 1910-01-01/1910-12-31\n   | permission = {{PD-US}}\n   | source = {{ DPLA\n       | Q59661072\n       | hub = National Archives and Records Administration\n       | url = http://catalog.archives.gov/id/91576959\n       | dpla_id = d05f6c93017f7054d8f5b9b7d2363129\n       | local_id = 91576959\n   }}\n   | Institution = {{ Institution | wikidata = Q59661072 }}\n   | Other fields = {{ InFi | Standardized rights statement | {{ rights statement | http://rightsstatements.org/vocab/NoC-US/1.0/ }} }}\n }}\n\n[[Category:United States Department of Commerce and Labor]]"
+      },
+      {
+        "title": "File:Ohio- BELMONT County, Enumeration District 32, Sheet No. 7A - DPLA - a2c834730d0344cd40ada05376c7cd53.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ohio-_BELMONT_County,_Enumeration_District_32,_Sheet_No._7A_-_DPLA_-_a2c834730d0344cd40ada05376c7cd53.jpg",
+        "license": "Public domain",
+        "wikitext": "== {{int:filedesc}} ==\n {{ Artwork\n   | Other fields 1 = {{ InFi | Creator | Department of the Interior. 12th Decennial Census Office. ca. 1899-7/1/1902 }}\n   | title = Ohio: BELMONT County, Enumeration District 32, Sheet No. 7A\n   | description = Surname, Given Name; Family Number; Age; Birth Year; Place of Birth Stelwell, William; 140; 28; 1872; Ohio Stelwell, Walter; 140; 21; 1879; Ohio Laisure, Anna M; 140; 40; 1860; Ohio Nichol, Mitchell; 141; 40; 1860; Ohio Nichol, Lue; 141; 36; 1864; Ohio Nichol, Harriet E; 141; 53; 1847; Ohio Lyon, Ross; 141; 8; 1892; Ohio Robison, Hiram; 142; 43; 1857; Ohio Robison, Bell; 142; 40; 1860; Ohio Robison, Margaret E; 142; 13; 1887; Ohio Robison, Emma; 142; 11; 1889; Ohio Robison, Nora B; 142; 9; 1891; Ohio Robison, Erl A; 142; 4; 1896; Ohio Robison, William R; 142; 1; 1899; Ohio Cameron, William; 143; 31; 1869; Ohio Cameron, Ellen; 143; 25; 1875; Ohio Cameron, Victor; 143; 4; 1896; Ohio Cameron, Bessie; 143; 2; 1898; Ohio Rop, John C; 144; 33; 1867; Ohio Rop, Nancy Ellen; 144; 33; 1867; Ohio Rop, Jessie; 144; 10; 1890; Ohio Rop, Stella; 144; 9; 1891; Ohio Rop, Clayton; 144; 8; 1892; Ohio Rop, Barkley C; 144; 6; 1894; Ohio Rop, Mary M; 144; 4; 1896; Ohio Rop, Lela B; 144; 2; 1898; Ohio Abel, John; 144; 18; 1882; Ohio McCracken, M F; 145; 31; 1869; Ohio McCracken, Flora M; 145; 30; 1870; Ohio Alexander, John; 146; 41; 1859; Ohio McCormick, May; 146; 78; 1822; Ohio Arters, Susanna; 146; 27; 1873; Ohio Coates, Hayes; 146; 20; 1880; Ohio Shatzer, Temperence; 147; 84; 1816; Virginia Howard, Emaline; 147; 33; 1867; Ohio Morgan, John A; 148; 46; 1854; Ohio Morgan, Mary; 148; 42; 1858; Ohio Morgan, Wilber; 148; 17; 1883; Ohio Morgan, Lyle; 148; 16; 1884; Ohio Morgan, Marshall; 148; 13; 1887; Ohio Morgan, Robert; 148; 10; 1890; Ohio Morgan, Sarah; 148; 5; 1895; Ohio Gordon, James; 149; 23; 1877; Ohio Gordon, Lorena M; 149; 18; 1882; Ohio Abel, Bessie M; 149; 16; 1884; Ohio Pollock, Robert; 150; 75; 1825; Ohio Pollock, Martha A; 150; 33; 1867; Ohio Pollock, James; 151; 35; 1865; Ohio Pollock, Mabel; 151; 30; 1870; Ohio Pollock, Robert J; 151; 3; 1897; Ohio\n   | date = 1900-01-01/1900-12-31\n   | permission = {{PD-US}}\n   | source = {{ DPLA\n       | Q59661072\n       | hub = National Archives and Records Administration\n       | url = http://catalog.archives.gov/id/89565158\n       | dpla_id = a2c834730d0344cd40ada05376c7cd53\n       | local_id = 89565158\n   }}\n   | Institution = {{ Institution | wikidata = Q59661072 }}\n   | Other fields = {{ InFi | Standardized rights statement | {{ rights statement | http://rightsstatements.org/vocab/NoC-US/1.0/ }} }}\n }}\n[[Category:1900 United States Census in Belmont County, Ohio]]"
+      }
+    ],
+    "Picasso Femmes Alger Version O": [],
+    "Lichtenstein Masterpiece": [
+      {
+        "title": "File:Depha masterpiece live.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Depha_masterpiece_live.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Depha masterpiece on stage}}\n|date=2011-08-13\n|source={{own}}\n|author=[[User:Ciscopb84|Ciscopb84]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Depha Masterpiece]]"
+      },
+      {
+        "title": "File:Depha masterpiece 2014.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Depha_masterpiece_2014.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Live in Dataran Sibu}}\n|date=2014-08-09\n|source={{own}}\n|author=[[User:Ciscopb84|Ciscopb84]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Depha Masterpiece]]"
+      },
+      {
+        "title": "File:Depha masterpiece 2009.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Depha_masterpiece_2009.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Live in Sibu}}\n|date=2009-07-04\n|source={{own}}\n|author=[[User:Ciscopb84|Ciscopb84]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Depha Masterpiece]]"
+      },
+      {
+        "title": "File:Depha Masterpiece 2012.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Depha_Masterpiece_2012.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Live in RTM Sibu}}\n|date=2012-10-20\n|source={{own}}\n|author=[[User:Ciscopb84|Ciscopb84]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Depha Masterpiece]]\n[[Category:Masterpiece (band)]]\n[[Category:Photographs taken on 2012-10-20]]"
+      },
+      {
+        "title": "File:Depha masterpiece in Sibu.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Depha_masterpiece_in_Sibu.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Live in Sibu}}\n|date=2014-10-25\n|source={{own}}\n|author=[[User:Ciscopb84|Ciscopb84]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Depha Masterpiece]]"
+      },
+      {
+        "title": "File:Depha masterpiece 2011.jpeg",
+        "source": "https://commons.wikimedia.org/wiki/File:Depha_masterpiece_2011.jpeg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Live in stadium negeri Kuching}}\n|date=2011-12-31\n|source={{own}}\n|author=[[User:Ciscopb84|Ciscopb84]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Depha Masterpiece]]"
+      }
+    ],
+    "Picasso Le Reve": [
+      {
+        "title": "File:Henri Rousseau - Le Rêve - Google Art Project.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Le_R%C3%AAve_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "wikitext": "{{Artwork\n | wikidata = Q548141\n |artist         = {{Creator:Henri Rousseau}}\n |title          = {{title|lang=fr|Le Rêve|en=The Dream}}\n |description    =\n |date           = 1910\n |medium         = {{technique|Oil|canvas}}\n |dimensions     = {{size|cm|height=204.50|width=298.50}}\n |gallery        = {{Institution:Museum of Modern Art}}\n |location       = Gallery 1\n |references     =\n |object history =\n |credit line    =\n |inscriptions   =\n |notes          =\n |accession number=\n |source         = {{From Google Cultural Institute|LwEt57AOdD6SGA}}\n |permission     = {{PD-Art|PD-old-auto-expired|deathyear=1919}}\n |other_versions = [[File:Henri Rousseau - Le Rêve - Google Art ProjectFXD.jpg|thumb|none|upright=.5|Remastered color]]\n}}\n\n== {{Assessment}} ==\n{{Assessments|fawiki=1|fawiki-nom=Henri Rousseau - Le Rêve - Google Art Project.jpg}}\n\n[[Category:Google Art Project works in MoMA, The Museum of Modern Art]]\n[[Category:The Dream (Rousseau)]]\n[[Category:Google Art Project works by Henri Rousseau]]\n[[Category:Jungles in art]]"
+      },
+      {
+        "title": "File:Edouard Detaille - The Dream - Google Art Project.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Edouard_Detaille_-_The_Dream_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "wikitext": "=={{int:filedesc}}==\n{{Google Art Project\n | wikidata = Q15709560\n|commons_artist={{Creator:Édouard Detaille}}\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium={{oil on canvas}}\n|commons_dimensions=\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_date_display = 1848\n|artist_birth_year = 1848\n|artist_death_date_display = 1912\n|artist_death_year = 1912\n|artist_first_name = Edouard\n|artist_gender = Male\n|artist_id = 811234\n|artist_last_name = Detaille\n|artist_nationality = French\n|artist_pretty_display_date = (1848 - 1912)\n|absolute_url = /collection/musee-dorsay-paris/artwork/the-dream-edouard-detaille/804246/\n|alternate_object_id = RF 524\n|artist_display_name = Edouard Detaille\n|artist_role = Painter\n|canonical_artist_detail_url = /artist/edouard-detaille/4131201/\n|canonical_artist_id = 4131201\n|collection_detail_url = /collection/musee-dorsay-paris/\n|collection_display_name = Musée d’Orsay, Paris\n|collection_id = 433902\n|collection_website = http://www.musee-orsay.fr/fr/accueil.html\n|created = 2/10/2012 4:08:39 PM\n|detail_url = /collection/musee-dorsay-paris/artwork/the-dream-edouard-detaille/804246/\n|earliest_date = 1888\n|facet_place = Bought in 1888\n|height = 3000\n|id = 804246\n|in_streetview = True\n|latest_date = 1888\n|level_detail_url = /collection/musee-dorsay-paris/level/2/474094/\n|level_display_name = 2\n|modified = 3/24/2012 10:13:31 AM\n|museum_internal_id = 9171\n|object_link = http://www.musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/the-dream-7166.html?tx_commentaire_pi1%5BpidLi%5D=509&tx_commentaire_pi1%5Bfrom%5D=841&cHash=ec54f7a82e\n|object_work_type = painting\n|pivot_earliest_decade = 1880\n|pivot_latest_decade = 1890\n|pretty_dimensions = w4000 x h3000 cm\n|pretty_display_date = 1888\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 1.33681462140992\n|primary_image_rights = © RMN (Musée d'Orsay) / Hervé Lewandowski\n|record_type = Object\n|room_detail_url = /collection/musee-dorsay-paris/level/2/474094/55/519264/\n|room_display_name = 55\n|slug = the-dream-edouard-detaille\n|title = The Dream\n|title_firstletter = d\n|width = 4000\n|Credit_Line = © RMN (Musée d'Orsay) / Hervé Lewandowski\n|Original_Title = {{en|Le Rêve}}\n|Provenance = Bought in 1888\n|special:url_id = rgE-JeyaNoWBvQ\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-100-1923|deathyear=1912}}\n\n== {{Assessment}} ==\n{{Assessments|fawiki=1|fawiki-nom=Edouard Detaille - The Dream - Google Art Project.jpg}}\n\n[[Category:Paintings by Édouard Detaille]]\n[[Category:Google Art Project works by Edouard Detaille]]\n[[Category:Sleeping men in art]]\n[[Category:Paintings of dreaming]]\n[[Category:Salon of 1888]]"
+      },
+      {
+        "title": "File:Dante Gabriel Rossetti - The Day Dream - Google Art Project.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_The_Day_Dream_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "wikitext": "\n{{Assessments|featured=1|enwiki=1|enwiki-nom=The Day Dream}}\n=={{int:filedesc}}==\n{{Google Art Project\n|wikidata=Q19897951\n|commons_artist={{Creator:Dante Gabriel Rossetti}}\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium=\n|commons_dimensions={{size|cm|92.7|157.5}}\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_date_display = 1828\n|artist_birth_year = 1828\n|artist_death_date_display = 1882\n|artist_death_year = 1882\n|artist_first_name = Dante\n|artist_id = 3499457\n|artist_last_name = Gabriel Rossetti\n|artist_pretty_display_date = (1828 - 1882)\n|absolute_url = /collection/victoria-and-albert-museum/artwork/the-day-dream-dante-gabriel-rossetti/3485536/\n|alternate_object_id = O14962\n|artist_display_name = Dante Gabriel Rossetti\n|artist_role = painter (artist)\n|canonical_artist_detail_url = /artist/dante-gabriel-rossetti/4127024/\n|canonical_artist_id = 4127024\n|collection_detail_url = /collection/victoria-and-albert-museum/\n|collection_display_name = Victoria and Albert Museum\n|collection_id = 2572078\n|collection_website = http://www.vam.ac.uk/\n|created = 3/5/2012 2:43:48 PM\n|detail_url = /collection/victoria-and-albert-museum/artwork/the-day-dream-dante-gabriel-rossetti/3485536/\n|earliest_date = 1880\n|earliest_date_display = 1880 (painted)\n|id = 3485536\n|in_streetview = False\n|latest_date = 1880\n|latest_date_display = 1880\n|modified = 3/25/2012 4:39:30 AM\n|museum_internal_id = CAI.3\n|object_link = https://collections.vam.ac.uk/item/O14962\n|object_rights = Bequeathed by Constantine Alexander Ionides\n|object_work_type = painting\n|pivot_earliest_decade = 1880\n|pivot_latest_decade = 1890\n|place_classification = country\n|place_name = England\n|place_type = painted\n|pretty_display_date = (1880 (painted) - 1880)\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 0.576171875\n|record_type = Object\n|slug = the-day-dream-dante-gabriel-rossetti\n|title = The Day Dream\n|title_firstletter = d\n|Dimensions = {{en|Height: 158.7 cm estimate, Width: 92.7 cm estimate, Height: 195.3 cm frame, Width: 128.8 cm frame}}\n|Materials_and_Techniques = {{en|oil on canvas}}\n|Subjects_Depicted = {{en|Morris, Jane; romanticism; reading; books; trees; women; dresses; honeysuckle; flowers}}\n|special:url_id = cAH3bOzjJ3e7Dg\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-100-1923|deathyear=1882}}\n\n[[Category:The Day Dream by Dante Gabriel Rossetti]]\n[[Category:Google Art Project works by Dante Gabriel Rossetti]]\n[[Category:The Botticelli Renaissance]]\n[[Category:Featured pictures of paintings from the United Kingdom]]\n[[Category:Featured pictures of paintings in London]]\n[[Category:Featured pictures from the Google Art Project]]\n[[Category:Featured pictures in the public domain]]"
+      },
+      {
+        "title": "File:Camille Claudel.- Le Rêve au coin du feu (2).jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Camille_Claudel.-_Le_R%C3%AAve_au_coin_du_feu_(2).jpg",
+        "license": "Public domain",
+        "wikitext": "=={{int:filedesc}}==\n<table cellpadding=\"4\" class=\"toccolours vevent\" style=\"width:100%;direction:{{#dir:{{int:lang}}}}\">\n<tr><td colspan=\"2\" style=\"vertical-align:top;background:#E3E3E3;text-align:center;font-size:1.6em;font-weight:bold\">\n{{c|Le Rêve au coin du feu by Camille Claudel (Musée d'Art et d'Industrie de Roubaix)}}\n</td></tr>\n<tr><td colspan=\"2\" style=\"vertical-align:top;background:#E3E3E3;text-align:left\">\n{{Art Photo\n|Wikidata       = \n|Artist         = {{Creator:Camille Claudel}}\n|Description={{fr|1=''Rêve au coin du feu'', vers 1899, bronze et marbre blanc, par [[:fr: Camille_Claudel| Camille Claudel]]. Exposition  \"Au miroir d'un art nouveau\" du  [[:fr:La_Piscine_(musée)| Musée d'Art et d'Industrie de Roubaix dit \"la Piscine\"]], [[:fr:Roubaix| Roubaix]], France.}}\n|Medium          = {{Technique|Bronze|marble}}\n|Dimensions      = 22 cm x 22 cm  ( P. 24.5 cm)\n|Gallery          = Camille Claudel. Au miroir d'un art nouveau .- [[:fr:La Piscine (musée)|musée d'art et d'industrie André-Diligent]] (2014-2015)\n | Credit line       = {{PD-old-100-1923|deathyear=1943}}\n |photo description  = \n |photo date         = {{taken on|2015-01-21}}\n |photographer       = [[User:Pierre André Leclercq|Pierre André Leclercq]]\n |source             = {{own}}\n |other_versions     = [[File:Camille Claudel.- Le Rêve au coin du feu (1).jpg|200px]]\n}}\n{{Location dec|50.692577|3.16756}}\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-all}}\n\n[[Category:Files by User:Pierre André Leclercq]]\n[[Category:Dpt du Nord by PIERRE ANDRE LECLERCQ]]\n[[Category:Artworks by PIERRE ANDRE LECLERCQ/Camille Claudel]]\n[[Category:France photographs taken on 2015-01-21]]\n[[Category:Le Rêve au coin du feu by Camille Claudel (Musée d'Art et d'Industrie de Roubaix)]]\n[[Category:Valued images by PIERRE ANDRE LECLERCQ]]\n[[Category:Valued images of Métropole européenne de Lille]]\n{{VI|{{C|Le Rêve au coin du feu by Camille Claudel (Musée d'Art et d'Industrie de Roubaix)}}, (Fr)|00:18, 14 May 2024 (UTC)|\nsubpage=Camille Claudel.- Le Rêve au coin du feu (2).jpg}}"
+      },
+      {
+        "title": "File:Le rêve blanc Musée dauphinois 2020 abc2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Le_r%C3%AAve_blanc_Mus%C3%A9e_dauphinois_2020_abc2.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{fr|1=Expo \"Le rêve blanc. L'épopée des sports d'hiver dans les Alpes\" au Musée dauphinois, Grenoble}}\n|date=2020-05-25 11:39:18\n|source={{own}}\n|author=[[User:Patafisik|Patafisik]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Le rêve blanc]]"
+      },
+      {
+        "title": "File:Le rêve blanc Musée dauphinois 2020 abc1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Le_r%C3%AAve_blanc_Mus%C3%A9e_dauphinois_2020_abc1.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{fr|1=Expo \"Le rêve blanc. L'épopée des sports d'hiver dans les Alpes\" au Musée dauphinois, Grenoble}}\n|date=2020-05-25 11:38:39\n|source={{own}}\n|author=[[User:Patafisik|Patafisik]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Le rêve blanc]]"
+      }
+    ],
+    "Heydar Aliyev Center": [
+      {
+        "title": "File:Heydar Aliyev Center 1.3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Heydar_Aliyev_Center_1.3.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{az|1=Heydər Əliyev Mərkəzi}}\n{{en|1=Heydar Aliyev Center}}\n|date=2018-06-05 19:28:09\n|source={{own}}\n|author=[[User:Eminn|Emin Allahverdi]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Heydar Aliyev Cultural Center]]\n[[Category:Taken with Xiaomi Redmi 5]]"
+      },
+      {
+        "title": "File:Heydar Aliyev International Conference Center Baku Azerbaijan.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Heydar_Aliyev_International_Conference_Center_Baku_Azerbaijan.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Heydar Aliyev International Conference Center Baku Azerbaijan}}\n|date=2017-08-15 11:58:13\n|source={{own}}\n|author=[[User:Fanti Salms|Fanti Salms]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Heydar Aliyev Cultural Center]]"
+      },
+      {
+        "title": "File:Heydar Aliyev International Conference Center Museum Baku Azerbaijan.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Heydar_Aliyev_International_Conference_Center_Museum_Baku_Azerbaijan.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Heydar Aliyev International Conference Center Museum}}\n|date=2017-08-15 12:18:13\n|source={{own}}\n|author=[[User:Fanti Salms|Fanti Salms]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Heydar Aliyev Cultural Center]]"
+      },
+      {
+        "title": "File:Heydar Aliyev International Conference Center Museum Baku Azerbaijan 2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Heydar_Aliyev_International_Conference_Center_Museum_Baku_Azerbaijan_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Heydar Aliyev International Conference Center Museum Baku Azerbaijan}}\n|date=2017-08-15 12:19:16\n|source={{own}}\n|author=[[User:Fanti Salms|Fanti Salms]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Heydar Aliyev Cultural Center]]"
+      },
+      {
+        "title": "File:Heydar Aliyev International Conference Center Museum Baku Azerbaijan 5.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Heydar_Aliyev_International_Conference_Center_Museum_Baku_Azerbaijan_5.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Heydar Aliyev International Conference Center Museum Baku Azerbaijan}}\n|date=2017-08-15 12:19:27\n|source={{own}}\n|author=[[User:Fanti Salms|Fanti Salms]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Heydar Aliyev Cultural Center]]"
+      },
+      {
+        "title": "File:HEYDAR ALIYEV CENTER INDOORS.חלל פנימי מודרני במרכז היידר אלייב.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:HEYDAR_ALIYEV_CENTER_INDOORS.%D7%97%D7%9C%D7%9C_%D7%A4%D7%A0%D7%99%D7%9E%D7%99_%D7%9E%D7%95%D7%93%D7%A8%D7%A0%D7%99_%D7%91%D7%9E%D7%A8%D7%9B%D7%96_%D7%94%D7%99%D7%99%D7%93%D7%A8_%D7%90%D7%9C%D7%99%D7%99%D7%91.jpg",
+        "license": "CC0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{he|1=חלל פנימי מודרני במרכז היידר אלייב}}\n{{en|1=HEYDAR ALIYEV CENTER MODERN INDOORS}}\n|date=2018-03-07 16:24:51\n|source={{own}}\n|author=[[User:Avisadehh|Avisadehh]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n[[Category:Heydar Aliyev Cultural Center]]"
+      }
+    ],
+    "Museum of the Future": [
+      {
+        "title": "File:Museum of the Future 8.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Future_8.jpg",
+        "license": "CC0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Museum of the Future}}\n|date=2023-11-01\n|source={{own}}\n|author=[[User:EditQ|EditQ]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n[[Category:Museum of the Future]]"
+      },
+      {
+        "title": "File:Museum of the Future 11.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Future_11.jpg",
+        "license": "CC0",
+        "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Museum of the Future}}\n|date=2023-11-01\n|source={{own}}\n|author=[[User:EditQ|EditQ]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n[[Category:Museum of the Future]]"
+      },
+      {
+        "title": "File:Museum of the Future.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Future.jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "== {{int:filedesc}} ==\n{{Information\n|description={{en|1=Museum of the Future}}\n{{ on Wikidata|Q22948398}}|source={{own}}\n|author=[[User:Александр Сигачёв|Александр Сигачёв]]\n|date={{According to Exif data|2025-11-10}}\n}}\n{{Location|25.218950271388888|55.28201293944444}}\n\n== {{int:license-header}} ==\n{{self|cc-by-sa-4.0}}\n\n{{Uploaded from Mobile|platform=Android|version=6.1.0~9550974cd}}\n\n[[Category:Museum of the Future]]"
+      },
+      {
+        "title": "File:Museum of the Future (58918).jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Future_(58918).jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "== {{int:filedesc}} ==\n{{Information\n|description={{en|1=Museum of the Future}}\n{{ on Wikidata|Q22948398}}|source={{own}}\n|author=[[User:Александр Сигачёв|Александр Сигачёв]]\n|date={{According to Exif data|2025-11-10}}\n}}\n{{Location|25.21856307972222|55.28194046}}\n\n== {{int:license-header}} ==\n{{self|cc-by-sa-4.0}}\n\n{{Uploaded from Mobile|platform=Android|version=6.1.0~9550974cd}}\n\n[[Category:Museum of the Future]]"
+      },
+      {
+        "title": "File:Museum of the Future (10398).jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Future_(10398).jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "== {{int:filedesc}} ==\n{{Information\n|description={{en|1=Museum of the Future}}\n{{ on Wikidata|Q22948398}}|source={{own}}\n|author=[[User:Александр Сигачёв|Александр Сигачёв]]\n|date={{According to Exif data|2025-11-10}}\n}}\n{{Location|25.21895980833333|55.28181838972222}}\n\n== {{int:license-header}} ==\n{{self|cc-by-sa-4.0}}\n\n{{Uploaded from Mobile|platform=Android|version=6.1.0~9550974cd}}\n\n[[Category:Museum of the Future]]"
+      },
+      {
+        "title": "File:Museum of the Future (98156).jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Future_(98156).jpg",
+        "license": "CC BY-SA 4.0",
+        "wikitext": "== {{int:filedesc}} ==\n{{Information\n|description={{en|1=Museum of the Future}}\n{{ on Wikidata|Q22948398}}|source={{own}}\n|author=[[User:Александр Сигачёв|Александр Сигачёв]]\n|date={{According to Exif data|2025-11-10}}\n}}\n{{Location|25.21895980833333|55.28181838972222}}\n\n== {{int:license-header}} ==\n{{self|cc-by-sa-4.0}}\n\n{{Uploaded from Mobile|platform=Android|version=6.1.0~9550974cd}}\n\n[[Category:Museum of the Future]]"
+      }
+    ]
+  }
+}

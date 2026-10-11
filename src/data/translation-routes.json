@@ -2236,6 +2236,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/modern-architecture-world-most-breathtaking-buildings/",
+    "path": "/ar/articles/modern-architecture-world-most-breathtaking-buildings/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/modern-architecture-world-most-breathtaking-buildings/",
+    "path": "/es/articles/modern-architecture-world-most-breathtaking-buildings/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/modern-architecture-world-most-breathtaking-buildings/",
+    "path": "/fr/articles/modern-architecture-world-most-breathtaking-buildings/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/mongol-empire-genghis-khan-conquests-legacy/",
     "path": "/ar/articles/mongol-empire-genghis-khan-conquests-legacy/"
   },

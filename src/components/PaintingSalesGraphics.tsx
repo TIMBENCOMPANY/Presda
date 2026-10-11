@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { LicensedEditorialImage } from "@/components/LicensedEditorialImage";
 import { paintingSales, type PaintingSale } from "@/data/paintingSales";
 import type { Locale } from "@/lib/i18n/routing";
 
@@ -30,7 +30,7 @@ export function PaintingSalesComparison({ locale }: { locale: Locale }) {
 export function PaintingArtwork({ locale, index }: { locale: Locale; index: number }) {
   const r = paintingSales[index], c = copy[locale];
   return <figure data-painting-rank={index + 1} data-artwork-key={r.key} style={{ display: "flow-root" }} className="my-6 min-w-0 overflow-hidden rounded-xl border border-white/15 bg-[#10131A] text-white">
-    {r.image ? <Image src={r.image.src} alt={r.image.alt[localeIndex[locale]]} width={r.image.width} height={r.image.height} unoptimized sizes="(max-width: 768px) 100vw, 800px" className={`mx-auto h-auto w-full ${r.image.height > r.image.width ? "max-w-[680px]" : "max-w-[1100px]"}`} loading="lazy" /> : <div className="p-6 sm:p-8"><p className="mb-2 text-sm font-semibold text-[#D9AD55]">{c.original}: <bdi>{r.title}</bdi></p><a href={r.artwork} target="_blank" rel="noopener noreferrer" className="text-lg font-bold underline decoration-[#D9AD55] underline-offset-4">{c.view}: <bdi>{r.title}</bdi></a><p className="mt-3 text-sm leading-6 text-white/80">{c.linked}</p></div>}
+    {r.image ? <LicensedEditorialImage src={r.image.src} alt={r.image.alt[localeIndex[locale]]} width={r.image.width} height={r.image.height} /> : <div className="p-6 sm:p-8"><p className="mb-2 text-sm font-semibold text-[#D9AD55]">{c.original}: <bdi>{r.title}</bdi></p><a href={r.artwork} target="_blank" rel="noopener noreferrer" className="text-lg font-bold underline decoration-[#D9AD55] underline-offset-4">{c.view}: <bdi>{r.title}</bdi></a><p className="mt-3 text-sm leading-6 text-white/80">{c.linked}</p></div>}
     <figcaption className="p-4 text-sm leading-6 sm:p-6"><p><bdi>{r.title}</bdi>, {locale === "ar" ? r.artistAr : r.artist}, <bdi>{r.created}</bdi>.</p>{r.image ? <p className="mt-2 text-xs text-white/80">{c.pd}. <a href={r.image.source} target="_blank" rel="noopener noreferrer" className="underline underline-offset-4">{r.image.credit}</a>. <a href={r.image.licenseURL} target="_blank" rel="noopener noreferrer" className="underline underline-offset-4">PD-Art</a>. {c.change}.</p> : <p className="mt-2 text-xs text-white/80">{c.art}: <bdi>{r.artworkCredit}</bdi>.</p>}<p className="mt-3 font-semibold"><bdi>{price(r)}</bdi> · {saleDate(r.date, locale)}</p><p className="mt-1 text-xs text-white/80">{evidence(r, locale)}{r.house && <> · <bdi>{r.house}</bdi></>}</p></figcaption>
   </figure>;
 }

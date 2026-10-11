@@ -200,5 +200,25 @@
     "blocks": {
       "10": "Taj Mahal: Agra, India."
     }
+  },
+  {
+    "slug": "modern-architecture-world-most-breathtaking-buildings",
+    "locales": [
+      "fr"
+    ],
+    "blocks": {
+      "28": "13. Vancouver House, Canada"
+    },
+    "reason": "Reviewed invariant building and geographic proper names; preserve existing manuscript headings."
+  },
+  {
+    "slug": "modern-architecture-world-most-breathtaking-buildings",
+    "locales": [
+      "es"
+    ],
+    "blocks": {
+      "20": "9. Shanghai Tower, China"
+    },
+    "reason": "Reviewed invariant building and geographic proper names; preserve existing manuscript headings."
   }
 ]

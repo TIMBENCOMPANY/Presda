@@ -1,0 +1,420 @@
+{
+  "/articles/paintings/salvator-mundi.webp": [
+    {
+      "width": 400,
+      "src": "/articles/paintings/responsive/salvator-mundi-400.webp",
+      "bytes": 31200
+    },
+    {
+      "width": 800,
+      "src": "/articles/paintings/responsive/salvator-mundi-800.webp",
+      "bytes": 215054
+    },
+    {
+      "width": 1200,
+      "src": "/articles/paintings/responsive/salvator-mundi-1200.webp",
+      "bytes": 477250
+    },
+    {
+      "width": 1600,
+      "src": "/articles/paintings/responsive/salvator-mundi-1600.webp",
+      "bytes": 1102324
+    }
+  ],
+  "/articles/paintings/card-players.webp": [
+    {
+      "width": 400,
+      "src": "/articles/paintings/responsive/card-players-400.webp",
+      "bytes": 24878
+    },
+    {
+      "width": 800,
+      "src": "/articles/paintings/responsive/card-players-800.webp",
+      "bytes": 92048
+    },
+    {
+      "width": 1200,
+      "src": "/articles/paintings/responsive/card-players-1200.webp",
+      "bytes": 161920
+    },
+    {
+      "width": 1600,
+      "src": "/articles/paintings/responsive/card-players-1600.webp",
+      "bytes": 283264
+    }
+  ],
+  "/articles/paintings/elisabeth-lederer.webp": [
+    {
+      "width": 400,
+      "src": "/articles/paintings/responsive/elisabeth-lederer-400.webp",
+      "bytes": 67098
+    },
+    {
+      "width": 800,
+      "src": "/articles/paintings/responsive/elisabeth-lederer-800.webp",
+      "bytes": 276804
+    },
+    {
+      "width": 1200,
+      "src": "/articles/paintings/responsive/elisabeth-lederer-1200.webp",
+      "bytes": 626590
+    },
+    {
+      "width": 1600,
+      "src": "/articles/paintings/responsive/elisabeth-lederer-1600.webp",
+      "bytes": 1471904
+    }
+  ],
+  "/articles/paintings/nafea.webp": [
+    {
+      "width": 400,
+      "src": "/articles/paintings/responsive/nafea-400.webp",
+      "bytes": 36604
+    },
+    {
+      "width": 800,
+      "src": "/articles/paintings/responsive/nafea-800.webp",
+      "bytes": 135850
+    },
+    {
+      "width": 1200,
+      "src": "/articles/paintings/responsive/nafea-1200.webp",
+      "bytes": 255728
+    },
+    {
+      "width": 1600,
+      "src": "/articles/paintings/responsive/nafea-1600.webp",
+      "bytes": 500572
+    }
+  ],
+  "/articles/paintings/water-serpents.webp": [
+    {
+      "width": 400,
+      "src": "/articles/paintings/responsive/water-serpents-400.webp",
+      "bytes": 24584
+    },
+    {
+      "width": 800,
+      "src": "/articles/paintings/responsive/water-serpents-800.webp",
+      "bytes": 99044
+    },
+    {
+      "width": 1200,
+      "src": "/articles/paintings/responsive/water-serpents-1200.webp",
+      "bytes": 199342
+    },
+    {
+      "width": 1600,
+      "src": "/articles/paintings/responsive/water-serpents-1600.webp",
+      "bytes": 431606
+    }
+  ],
+  "/articles/paintings/nu-couche.webp": [
+    {
+      "width": 400,
+      "src": "/articles/paintings/responsive/nu-couche-400.webp",
+      "bytes": 13510
+    },
+    {
+      "width": 800,
+      "src": "/articles/paintings/responsive/nu-couche-800.webp",
+      "bytes": 53968
+    },
+    {
+      "width": 1200,
+      "src": "/articles/paintings/responsive/nu-couche-1200.webp",
+      "bytes": 106956
+    },
+    {
+      "width": 1600,
+      "src": "/articles/paintings/responsive/nu-couche-1600.webp",
+      "bytes": 234700
+    }
+  ],
+  "/articles/paintings/nu-couche-left.webp": [
+    {
+      "width": 400,
+      "src": "/articles/paintings/responsive/nu-couche-left-400.webp",
+      "bytes": 10420
+    },
+    {
+      "width": 800,
+      "src": "/articles/paintings/responsive/nu-couche-left-800.webp",
+      "bytes": 47826
+    },
+    {
+      "width": 1200,
+      "src": "/articles/paintings/responsive/nu-couche-left-1200.webp",
+      "bytes": 116148
+    },
+    {
+      "width": 1600,
+      "src": "/articles/paintings/responsive/nu-couche-left-1600.webp",
+      "bytes": 334012
+    }
+  ],
+  "/articles/architecture/leeza-soho.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/leeza-soho-400.webp",
+      "bytes": 23704
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/leeza-soho-800.webp",
+      "bytes": 94838
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/leeza-soho-1200.webp",
+      "bytes": 181202
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/leeza-soho-1600.webp",
+      "bytes": 350972
+    }
+  ],
+  "/articles/architecture/morpheus.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/morpheus-400.webp",
+      "bytes": 61216
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/morpheus-800.webp",
+      "bytes": 180350
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/morpheus-1200.webp",
+      "bytes": 291838
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/morpheus-1600.webp",
+      "bytes": 507020
+    }
+  ],
+  "/articles/architecture/daxing-airport.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/daxing-airport-400.webp",
+      "bytes": 38536
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/daxing-airport-800.webp",
+      "bytes": 143244
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/daxing-airport-1200.webp",
+      "bytes": 269734
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/daxing-airport-1600.webp",
+      "bytes": 518468
+    }
+  ],
+  "/articles/architecture/elbphilharmonie.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/elbphilharmonie-400.webp",
+      "bytes": 18228
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/elbphilharmonie-800.webp",
+      "bytes": 64998
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/elbphilharmonie-1200.webp",
+      "bytes": 126016
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/elbphilharmonie-1600.webp",
+      "bytes": 254830
+    }
+  ],
+  "/articles/architecture/oodi.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/oodi-400.webp",
+      "bytes": 14118
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/oodi-800.webp",
+      "bytes": 53108
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/oodi-1200.webp",
+      "bytes": 114028
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/oodi-1600.webp",
+      "bytes": 317272
+    }
+  ],
+  "/articles/architecture/shanghai-tower.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/shanghai-tower-400.webp",
+      "bytes": 42072
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/shanghai-tower-800.webp",
+      "bytes": 146586
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/shanghai-tower-1200.webp",
+      "bytes": 269286
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/shanghai-tower-1600.webp",
+      "bytes": 484194
+    }
+  ],
+  "/articles/architecture/marina-bay-sands.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/marina-bay-sands-400.webp",
+      "bytes": 16984
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/marina-bay-sands-800.webp",
+      "bytes": 58036
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/marina-bay-sands-1200.webp",
+      "bytes": 112810
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/marina-bay-sands-1600.webp",
+      "bytes": 216064
+    }
+  ],
+  "/articles/architecture/interlace.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/interlace-400.webp",
+      "bytes": 27432
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/interlace-800.webp",
+      "bytes": 97544
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/interlace-1200.webp",
+      "bytes": 179812
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/interlace-1600.webp",
+      "bytes": 342458
+    }
+  ],
+  "/articles/architecture/jewel-changi.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/jewel-changi-400.webp",
+      "bytes": 37872
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/jewel-changi-800.webp",
+      "bytes": 156456
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/jewel-changi-1200.webp",
+      "bytes": 315192
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/jewel-changi-1600.webp",
+      "bytes": 626244
+    }
+  ],
+  "/articles/architecture/vancouver-house.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/vancouver-house-400.webp",
+      "bytes": 44200
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/vancouver-house-800.webp",
+      "bytes": 141366
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/vancouver-house-1200.webp",
+      "bytes": 235894
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/vancouver-house-1600.webp",
+      "bytes": 445856
+    }
+  ],
+  "/articles/architecture/copenhill.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/copenhill-400.webp",
+      "bytes": 17978
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/copenhill-800.webp",
+      "bytes": 52906
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/copenhill-1200.webp",
+      "bytes": 97684
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/copenhill-1600.webp",
+      "bytes": 186298
+    }
+  ],
+  "/articles/architecture/oslo-opera.webp": [
+    {
+      "width": 400,
+      "src": "/articles/architecture/responsive/oslo-opera-400.webp",
+      "bytes": 14202
+    },
+    {
+      "width": 800,
+      "src": "/articles/architecture/responsive/oslo-opera-800.webp",
+      "bytes": 51582
+    },
+    {
+      "width": 1200,
+      "src": "/articles/architecture/responsive/oslo-opera-1200.webp",
+      "bytes": 98688
+    },
+    {
+      "width": 1600,
+      "src": "/articles/architecture/responsive/oslo-opera-1600.webp",
+      "bytes": 196992
+    }
+  ]
+}
