@@ -689,10 +689,18 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
 @media (min-width: 1280px) {
   .article-hero .article-hero-content { padding: 56px; }
 }
-/* This feature requests a standalone illustration with no text over the image. */
-.article-hero.article-hero--standalone { min-height: 0; }
-.article-hero.article-hero--standalone .article-hero-media { position: relative; inset: auto; height: auto; }
-.article-hero.article-hero--standalone .article-hero-image { height: auto; object-fit: contain; }
-.article-hero.article-hero--standalone .article-hero-shade,
-.article-hero.article-hero--standalone .article-hero-shade + div { display: none; }
-.article-hero.article-hero--standalone .article-hero-content { min-height: 0; }
+/* Preserve this feature's standalone mobile composition. Desktop uses the shared hero. */
+@media (max-width: 1023px) {
+  .article-hero.article-hero--standalone { min-height: 0; }
+  .article-hero.article-hero--standalone .article-hero-media { position: relative; inset: auto; height: auto; }
+  .article-hero.article-hero--standalone .article-hero-image { height: auto; object-fit: contain; }
+  .article-hero.article-hero--standalone .article-hero-shade,
+  .article-hero.article-hero--standalone .article-hero-shade + div { display: none; }
+  .article-hero.article-hero--standalone .article-hero-content { min-height: 0; }
+}
+@media (min-width: 1024px) {
+  .article-hero--standalone .article-hero-publication-date {
+    position: absolute; right: 32px; top: 32px; z-index: 20;
+    padding: 4px 8px; border-radius: 4px; background: rgb(0 0 0 / 40%); text-align: right;
+  }
+}
