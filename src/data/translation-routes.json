@@ -2791,6 +2791,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/psychology-of-conspiracy-theories-why-we-believe-hidden-plots/",
+    "path": "/ar/articles/psychology-of-conspiracy-theories-why-we-believe-hidden-plots/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/psychology-of-conspiracy-theories-why-we-believe-hidden-plots/",
+    "path": "/es/articles/psychology-of-conspiracy-theories-why-we-believe-hidden-plots/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/psychology-of-conspiracy-theories-why-we-believe-hidden-plots/",
+    "path": "/fr/articles/psychology-of-conspiracy-theories-why-we-believe-hidden-plots/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/psychology-of-cults-why-people-follow-blindly/",
     "path": "/ar/articles/psychology-of-cults-why-people-follow-blindly/"
   },

@@ -1,4 +1,5 @@
 import { feminismArticle } from "@/data/feminismArticle";
+import { conspiracyArticle } from "@/data/conspiracyArticle";
 import { jealousyArticle } from "@/data/jealousyArticle";
 import { sleepParalysisArticle } from "@/data/sleepParalysisArticle";
 import { paranoiaArticle } from "@/data/paranoiaArticle";
@@ -35697,7 +35698,8 @@ export const articles: Article[] = [
   paranoiaArticle,
   sleepParalysisArticle,
   jealousyArticle,
-  feminismArticle
+  feminismArticle,
+  conspiracyArticle
 ];
 
 export const categories: ArticleCategory[] = [

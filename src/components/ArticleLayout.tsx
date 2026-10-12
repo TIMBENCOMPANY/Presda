@@ -9,6 +9,7 @@ import paranoiaHeroCaptions from "@/data/paranoiaHeroCaptions.json";
 import sleepParalysisHeroCaptions from "@/data/sleepParalysisHeroCaptions.json";
 import jealousyHeroCaptions from "@/data/jealousyHeroCaptions.json";
 import feminismHeroCaptions from "@/data/feminismHeroCaptions.json";
+import conspiracyHeroCaptions from "@/data/conspiracyHeroCaptions.json";
 import { UniqueHotelsComparison } from "@/components/UniqueHotelsComparison";
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { SonghaiGraphics } from "@/components/SonghaiGraphics";
@@ -311,6 +312,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "sleep-paralysis-when-you-wake-up-but-cannot-move" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{sleepParalysisHeroCaptions[locale]}</p>}
         {article.slug === "psychology-of-jealousy-when-love-turns-into-suspicion" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{jealousyHeroCaptions[locale]}</p>}
         {article.slug === "feminism-movement-redefined-womens-rights" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{feminismHeroCaptions[locale]}</p>}
+        {article.slug === "psychology-of-conspiracy-theories-why-we-believe-hidden-plots" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{conspiracyHeroCaptions[locale]}</p>}
         {article.slug === "can-hypnosis-really-control-your-mind" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{hypnosisHeroCaptions[locale]}</p>}
 
         {article.slug === "modern-architecture-world-most-breathtaking-buildings" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{architectureMedia[locale].heroCaption}</p>}
