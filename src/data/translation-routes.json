@@ -511,6 +511,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/black-death-pandemic-transform-europe/",
+    "path": "/ar/articles/black-death-pandemic-transform-europe/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/black-death-pandemic-transform-europe/",
+    "path": "/es/articles/black-death-pandemic-transform-europe/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/black-death-pandemic-transform-europe/",
+    "path": "/fr/articles/black-death-pandemic-transform-europe/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/blacktip-shark-hearing-underwater-sound-study/",
     "path": "/ar/articles/blacktip-shark-hearing-underwater-sound-study/"
   },

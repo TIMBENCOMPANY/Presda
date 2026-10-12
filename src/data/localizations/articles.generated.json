@@ -37826,6 +37826,774 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/black-death-pandemic-transform-europe/",
+    "path": "/ar/articles/black-death-pandemic-transform-europe/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "PRESDA Editorial localization and citation parity review",
+      "reviewedAt": "2026-10-13",
+      "terminologyChecked": true
+    },
+    "title": "الموت الأسود: الوباء الذي غيّر أوروبا",
+    "seoTitle": "الموت الأسود: الأصول وكافا وتحولات أوروبا",
+    "description": "تتبّع الموت الأسود من آسيا الوسطى إلى أوروبا، وافحص رواية حصار كافا المختلف عليها، واكتشف آثاره السكانية والاقتصادية والاجتماعية.",
+    "excerpt": "من قبور تعود إلى قيرغيزستان الحالية إلى قوانين العمل الإنجليزية، غيّر الموت الأسود مجتمعات أوراسيا. يوضح الحمض النووي القديم أصوله، بينما تظل رواية كافا موضع نقاش.",
+    "headlineHighlights": {
+      "red": "الموت الأسود",
+      "gold": "غيّر أوروبا"
+    },
+    "keywords": [
+      "الموت الأسود",
+      "يرسينيا بيستيس",
+      "أوروبا في العصور الوسطى",
+      "كافا",
+      "الحمض النووي القديم",
+      "تاريخ الطاعون"
+    ],
+    "searchIntent": "فهم أصول الموت الأسود وانتشاره وآثاره، بما في ذلك الخلاف التاريخي حول حصار كافا.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
+    "image": {
+      "src": "/articles/black-death-plague-doctor-ai-editorial.png",
+      "alt": "رسم تاريخي تحريري مولد بالذكاء الاصطناعي لميناء أوروبي زمن الطاعون عند الغروب، وفي المقدمة شخصية ترتدي قناعاً ذا منقار. القناع مفارقة تاريخية، إذ ظهر بعد الموت الأسود بقرون."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "في عام 1348، كان يمكن لسفينة تصل إلى الميناء أن تحمل أكثر من البضائع. فقد ربطت السفن والطرق والأنهار الموانئ المزدحمة بالبلدات والقرى في أنحاء أوروبا. ثم جاءت الحمى وتضخم العقد اللمفاوية وضيق التنفس والموت. اجتاح الوباء الذي سُمّي لاحقاً الموت الأسود القارة في منتصف القرن الرابع عشر، وأودى بحياة نسبة مدمرة من سكانها. ويربط الحمض النووي القديم العامل الممرض الآن بتفشٍ موثق في عامي 1338 و1339 في قيرغيزستان الحالية. لكن إحدى أشهر روايات وصوله إلى البحر المتوسط، وهي حصار كافا، لا تزال مسألة أدلة وليست حقيقة محسومة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ما الموت الأسود؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان الموت الأسود أول موجة كارثية من جائحة الطاعون الثانية، التي تكررت موجاتها في أوراسيا وشمال أفريقيا قروناً. وكان مسببها الرئيس بكتيريا يرسينيا بيستيس، التي ما زالت تسبب الطاعون اليوم. وصف كتّاب العصور الوسطى مرضاً مفاجئاً واسوداد الجلد وتورمات مؤلمة وموتاً عمّ الأسر. شاع وصف «الأسود» لاحقاً، وهو ليس وصفاً طبياً دقيقاً لمرض واحد. وتُميّز [منظمة الصحة العالمية بين الطاعون الدبلي والرئوي والإنتاني](https://www.who.int/news-room/fact-sheets/detail/plague)."
+      },
+      {
+        "type": "paragraph",
+        "text": "غالباً ما يأتي الطاعون الدبلي بعد لدغة برغوث مصاب ويسبب الحمى وتضخم العقد اللمفاوية المؤلم، أو الدبل. ويصيب الطاعون الرئوي الرئتين، ويمكن أن ينتقل بين الأشخاص عبر الرذاذ التنفسي. أما الطاعون الإنتاني فيصيب مجرى الدم. وقد تتداخل هذه الأشكال. ومن المرجح أن الجائحة الوسيطة اشتملت على أكثر من صورة سريرية، لكن الأوصاف الباقية لا تسمح دائماً بتحديد الصورة التي أصابت شخصاً بعينه. تساعد المصطلحات الحديثة على شرح البيولوجيا، لكنها لا تحوّل كل عبارة في السجلات إلى تشخيص بأثر رجعي."
+      },
+      {
+        "type": "paragraph",
+        "text": "لا تختصر قصة الطاعون في جرذان تحمل البراغيث من مدينة إلى أخرى. فالبكتيريا تدور في مستودعات حيوانية، ويتوقف انتقالها على البيئة والمناخ وحركة البشر والناقل. ولا يزال الباحثون يناقشون الأدوار النسبية للبراغيث والقمل والانتقال التنفسي في جائحة العصور الوسطى. لكن طرق التجارة البرية والبحرية نقلت الأشخاص والبضائع ومسببات المرض. وتراجع [مراكز مكافحة الأمراض والوقاية منها الأسئلة الطبية والتاريخية المتعلقة بكافا](https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article)."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "دليل محفوظ في قيرغيزستان"
+      },
+      {
+        "type": "paragraph",
+        "text": "ظل تحديد الأصول البعيدة للجائحة صعباً قروناً. وفي عام 2022، درس الباحثون رفاتاً بشرية من مقبرتي كارا-جيغاتش وبورانا في وادي تشوي بقيرغيزستان الحالية. وذكرت بعض شواهد القبور المؤرخة بعامي 1338 و1339 كلمة تعني «الوباء». كشف الحمض النووي القديم لشخصين عن جينومات يرسينيا بيستيس وثيقة الصلة بالسلالة السلف التي تفرعت عنها السلالات الكبرى المرتبطة بالموت الأسود. وكانت دراسة [سبيرو وزملائه في مجلة Nature](https://doi.org/10.1038/s41586-022-04800-3) اكتشافاً مفصلياً."
+      },
+      {
+        "type": "paragraph",
+        "text": "تشير النتيجة إلى تفشٍ في منطقة تيان شان الأوسع قبل امتداد الجائحة غرباً بوقت قصير. لكنها لا تثبت أن هذين الشخصين كانا أول المصابين، ولا تعيد بناء كل مرحلة من انتقال المرض، ولا تحدد قافلة بعينها. ويربط الباحثون السلالة أيضاً بفترة تنوع بكتيري سريع توصف أحياناً بأنها «انفجار كبير». تقدم الجينومات القديمة مرتكزاً بيولوجياً أساسياً، لكن ينبغي قراءتها إلى جانب النقوش وتاريخ التجارة والأدلة المناخية وحدود العينات الأثرية."
+      },
+      {
+        "type": "paragraph",
+        "text": "يغيّر هذا الاكتشاف خريطة السؤال، لا طبيعة الكارثة. لم تكن آسيا الوسطى ممراً خالياً بين أوروبا والصين. فقد ربطت مدنها ومجتمعات الرعي وشبكات التجارة جبال تيان شان بأسواق أوراسيا الأوسع. وكان [الإمبراطور المغولي وشبكات التجارة الوسيطة](/articles/mongol-empire-genghis-khan-conquests-legacy/) جزءاً من الإطار التاريخي، رغم تفكك الإمبراطورية بحلول القرن الرابع عشر. ربما سرّعت الروابط حركة الناس والبضائع، لكنها لا تجعل سكان منطقة بأكملها مسؤولين عن انتشار بكتيريا."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الطريق غرباً: السفن والموانئ ورواية كافا"
+      },
+      {
+        "type": "paragraph",
+        "text": "تظهر الطاعون في سجلات البحر الأسود والبحر المتوسط أواخر أربعينيات القرن الرابع عشر. وفي عام 1347 وصل إلى القسطنطينية وموانئ مثل ميسينا، ثم ظهرت الحالات في مرسيليا وأفينيون وفلورنسا وباريس خلال العام التالي. وانتقل عبر البحر والطرق البرية. واختلف التسلسل الزمني من مكان إلى آخر، كما تفاوتت السجلات. لذلك فإن خريطة الطرق إعادة بناء من روايات متفرقة وليست مساراً يومياً دقيقاً. ويشرح فصل [جامعة كامبريدج عن انتشار الموت الأسود](https://www.cambridge.org/core/books/complete-history-of-the-black-death/patterns-of-conquest-dynamics-of-spread/8BC8FE6B2E05A65E85A5E2EC867AEA63) أهمية الروابط البحرية والانتقالات السريعة بين الموانئ."
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت كافا، فيودوسيا الحالية في القرم، مركزاً تجارياً جنوياً حاصرته قوات القبيلة الذهبية. وتقول الرواية الشائعة إن المهاجمين المصابين بالطاعون قذفوا الجثث فوق أسوار المدينة عام 1346. وصف غابرييلي دي موسي، وهو كاتب عدل من بياتشنزا، الحادثة باللاتينية. لكن روايته، على حيويتها، ليست شهادة عيان على الحصار. إنها شهادة واحدة كُتبت بعيداً عن المكان، وليست تقريراً تؤيده روايات الطرفين."
+      },
+      {
+        "type": "paragraph",
+        "text": "رأى بعض المؤرخين أن قصة الجثث معقولة، واعتبر مؤرخ الطب مارك ويليس أنها قد تفسر دخول الطاعون إلى المدينة. لكن باحثين آخرين يشككون في أن الحادثة أطلقت الجائحة الأوروبية. تشير هانا باركر إلى أن الرواية تعتمد على نص واحد غير مباشر، وأن التوقيت وأدلة التجارة يعقدان القصة المعتادة. كما تراجع دراسة نقدية لأوليه يورغن بنديكتو الرواية الشائعة للانتقال. وتوضح دراسة باركر في [مجلة Speculum](https://doi.org/10.1086/711596) و[مراجعة انتقال الطاعون](https://doi.org/10.1080/09518967.2017.1314920) سبب استمرار الجدل حول كافا."
+      },
+      {
+        "type": "paragraph",
+        "text": "حتى لو قُذفت جثث مصابة إلى المدينة، فإن ذلك وحده لا يفسر وصول الجائحة إلى البحر المتوسط. كان ميناء كافا جزءاً من شبكة سفن وتجار وإمدادات غذائية. هل كان الطاعون موجوداً في المنطقة أصلاً؟ هل حملته سفن جنوة معها بعد فرارها؟ وكيف وصل إلى موانئ مختلفة؟ إنها أسئلة منفصلة. والخلاصة الحذرة أضيق من الحكاية الشعبية: تربط رواية من العصور الوسطى الحصار بالطاعون، لكن دور الجثث في انتقاله محل خلاف، بينما توفر طرق التجارة إطاراً أوسع تدعمه الأدلة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "إلى أي مدى انتشر الطاعون، وكم شخصاً مات؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "بين عامي 1347 و1353، اجتاح الطاعون مساحات واسعة من أوروبا وشمال أفريقيا وغرب آسيا. وكانت صقلية وشبه الجزيرة الإيطالية من أوائل المناطق الأوروبية التي أصيبت، ثم وصل إلى فرنسا وشبه الجزيرة الإيبيرية والجزر البريطانية وأوروبا الوسطى وإسكندنافيا. وعانت بعض المناطق موجات متكررة، في حين تبدو مناطق أخرى أقل تضرراً أو أن سجلاتها ناقصة. وقد حددت المواسم والبيئة المحلية وجداول السفن وتوافر الوثائق ما يمكن إعادة بنائه."
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يوجد سجل موثوق للوفيات على مستوى القارة. تختلف التقديرات، لكن المؤرخين غالباً ما يصفون الخسائر بأنها تراوحت بين نحو ثلث ونصف سكان أوروبا، مع تفاوت محلي كبير واستمرار النقاش. فقدت بعض المدن نسبة كبيرة من سكانها، بينما تشير الأدلة في أماكن أخرى إلى وفيات أقل أو تظل غير حاسمة. وأرقام 25 أو 50 مليوناً تقديرات لا إحصاءات. فهي تعتمد على افتراضات عن السكان قبل الوباء والسجلات الباقية والنطاق المكاني والسنوات المدروسة. وتعيد [أبحاث كامبريدج تقييم أدلة الوفيات في العصور الوسطى](https://www.cambridge.org/core/books/fourteenth-century-england-vi/black-death-and-mortality-a-reassessment/AA308C01F4BE44F11B3AEC47249F868C)."
+      },
+      {
+        "type": "paragraph",
+        "text": "انهارت أسر، وهُجرت ورش، وتعرضت نظم الدفن لضغط بالغ. وفقدت المجتمعات الريفية العمال والمستأجرين والمسؤولين المحليين. ومات رجال دين وأطباء أيضاً. ولأن آلية العدوى لم تكن معروفة، بحث المراقبون عن تفسيرات دينية وفلكية أو عن هواء فاسد. لكن تصوير الناس في العصور الوسطى على أنهم استسلموا للخرافة وحدها مضلل. فقد عزلوا المرضى، وقيّدوا الحركة، وغيّروا ممارسات الدفن، وبحثوا عن علاجات، وحققت تلك الإجراءات نتائج متفاوتة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الخوف والإيمان والاضطهاد"
+      },
+      {
+        "type": "paragraph",
+        "text": "تباينت الاستجابات الدينية. صلى بعض الناس وتصدقوا أو شاركوا في المواكب، وانسحب آخرون من الحياة العامة أو فروا حين استطاعوا. وظهر أصحاب جلد الذات في بعض المناطق، لكنهم لم يكونوا استجابة موحدة، ثم أدانتهم السلطات الكنسية. وفسر بعض الناس الوباء من خلال أفكار الخطيئة والعقاب الإلهي. وربما أعادت الطقوس شعوراً بالنظام حين غابت التفسيرات المألوفة، لكنها لم تحدد يرسينيا بيستيس أو توقف انتقال العدوى."
+      },
+      {
+        "type": "paragraph",
+        "text": "استهدف رد عنيف بوجه خاص المجتمعات اليهودية. واتهمتهم شائعات كاذبة بتسميم الآبار، وانتُزعت الاعترافات بالتعذيب. وأعقب ذلك قتل جماعي وطرد وتدمير مجتمعات في مناطق الراين وأماكن أخرى، وأحياناً قبل وصول الطاعون. وقد عانى اليهود من المرض أيضاً، ولم يكن لاتهام المؤامرة أي أساس. وأدان البابا كليمنت السادس الاعتداءات وأصدر إجراءات حماية عام 1348، لكنه لم يستطع دوماً حماية المجتمعات من السلطات المحلية أو الحشود. ويحفظ [مركز مصادر جامعة فوردهام وثائق من تلك الحقبة](https://sourcebooks.fordham.edu/jewish/1348-jewsblackdeath.asp)."
+      },
+      {
+        "type": "paragraph",
+        "text": "لم تكن المذابح استجابة حتمية للمرض. فقد غذّاها عداء قديم لليهود وصراعات سياسية وديون وقرارات السلطات بحماية الجيران أو التخلي عنهم. لا تخلق الأوبئة التحيز من العدم بالضرورة، لكنها قد تجعل آليات البحث عن كبش فداء أكثر فتكاً. واختزال القتل في الذعر يخفي مسؤولية الجناة والمؤسسات التي سمحت بالعنف."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "أزمة العمل تعيد تشكيل الاقتصاد"
+      },
+      {
+        "type": "paragraph",
+        "text": "حين مات هذا العدد من الناس، شحت العمالة في مناطق كثيرة. احتاج ملاك الأراضي إلى المستأجرين والعمال؛ وتمكن بعض الحرفيين والعمال الزراعيين من التفاوض على أجور أفضل أو الانتقال إلى أصحاب عمل جدد أو استئجار الأرض بشروط أحسن. لكن المكاسب لم تكن فورية ولا عامة. فقد انخفض الطلب أيضاً، وهُجرت مزارع، وتباينت الأسعار والأجور بحسب المهنة والمكان. وتولت بعض النساء أعمالاً جديدة في بعض الظروف، بينما استمرت القيود القانونية والعرفية على الأجر والملكية."
+      },
+      {
+        "type": "paragraph",
+        "text": "في إنجلترا، ردت الحكومة بمرسوم العمال عام 1349 وقانون العمال عام 1351، محاولة تثبيت الأجور قرب مستوياتها السابقة وتقييد حركة العمال. وتكشف القوانين قلق النخب من قوة التفاوض لدى العاملين. ولا يعني إقرارها أن كل عامل نال أجراً أعلى أو أن السلطات نفذتها بالكامل. ويؤكد مؤرخو الاقتصاد أن الآثار امتدت عقوداً واختلفت بين المناطق. وتتبع أبحاث مارك بيلي تشريعات العمل وتحولات السوق من دون اختزال القصة إلى إلغاء فوري للإقطاع. وتوثق [دراسته المنشورة عام 2025 في Economic History Review](https://doi.org/10.1111/ehr.13355) الاستجابة غير المتكافئة."
+      },
+      {
+        "type": "paragraph",
+        "text": "أضعفت الصدمة السكانية بعض ترتيبات الإقطاع وغيرت التوازن بين الأرض والعمل. وتراجع القنانة مع الوقت في أجزاء من أوروبا الغربية، بينما استمرت أنظمة العمل القسري أو تطورت بشكل مختلف في مناطق أخرى. وتغيرت الإيجارات والميراث واستخدام الأرض والاستهلاك. وخسرت المؤسسات الدينية موظفين ودخلاً، لكن نفوذها لم يختف ببساطة. سرّع الوباء الضغوط القائمة، وكانت النتيجة تحولاً من خلال الصراع والتكيف، لا ثورة موحدة سببها الطاعون وحده."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ما الذي غيّره الطاعون وما الذي لم يغيّره"
+      },
+      {
+        "type": "paragraph",
+        "text": "ترك الوباء أثراً في الفن والأدب والذاكرة. وبرزت صور الموت في أعمال أكثر، وكتب مؤلفون عن هشاشة الروابط الاجتماعية. لكن الفن ليس مقياساً مباشراً لليأس الجماعي، ولم تنهَر الحياة الدينية في كل مكان. أعاد الناجون بناء الأسر والمؤسسات والتجارة. وأسهمت أنماط العمل الجديدة وتحولات الثروة واستعمال الأراضي في اقتصادات لاحقة، وإن اختلف العلماء بشأن مقدار ما يعزى إلى الطاعون وحده. ويستعرض [بحث في Journal of Economic Literature هذه الآثار](https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639)."
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت النتائج عالمية أيضاً. فقد أصاب الموت الأسود مجتمعات خارج أوروبا المسيحية اللاتينية، منها مجتمعات شمال أفريقيا والشرق الأوسط، حيث اختلفت البنى السياسية وأنظمة العمل والاستجابات الدينية. ووصفه بأنه نقطة تحول أوروبية لا يعني أن أوروبا هي العالم كله. كما لا يصح القول إن الوباء تسبب مباشرة في عصر النهضة أو نهاية الإقطاع أو نشوء الرأسمالية الحديثة. نشأت هذه النتائج ضمن مسارات تاريخية أطول غيّرها الطاعون لكنه لم يمْلِها."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "القناع ينتمي إلى تاريخ لاحق للطاعون"
+      },
+      {
+        "type": "paragraph",
+        "text": "صورة الطبيب ذي القناع الشبيه بمنقار الطائر مؤثرة، لكنها لا تعود إلى الموجة الأولى من الموت الأسود. ظهر الزي المعروف في ممارسات مكافحة الطاعون بأوروبا منذ منتصف القرن السابع عشر، بعد الكارثة بقرون. اعتقد الأطباء أن المواد العطرية الموضوعة في المنقار تحميهم من الهواء الفاسد. ويعكس القناع أفكاراً طبية وثقافة بصرية لاحقة، لا ما كان سيرتديه طبيب في كافا أو عام 1348. هذه الصورة رسم فني تحريري مولد بالذكاء الاصطناعي، وليست وثيقة تاريخية؛ والقناع مفارقة زمنية مقصودة. ويتتبع [بحث تاريخ القناع في مجموعات المتاحف](https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/)."
+      },
+      {
+        "type": "paragraph",
+        "text": "لم يكن الموت الأسود حدثاً مرضياً فحسب. لقد كان كارثة بيولوجية تحركت عبر شبكات البشر والبيئة، وصدمة سكانية تشكلت آثارها بفعل الطبقة والقانون، وامتحاناً لطريقة تعامل المجتمعات مع الجيران المستضعفين. ويساعد الحمض النووي القديم اليوم على توضيح أصوله. لكن الشهادات الوسيطة لا تزال تحتاج إلى قراءة دقيقة، خاصة حين تتحول حكاية درامية إلى تفسير بسيط. لا يمكن اختزال الموتى إلى رقم واحد أو مشهد حصار. ويطلب منا تاريخهم أن نجمع الأدلة العلمية والتجربة الإنسانية والشك المنهجي."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "المصادر ومزيد من القراءة"
+      },
+      {
+        "type": "paragraph",
+        "text": "يستند هذا المقال إلى أبحاث الحمض النووي القديم وعلوم الطاعون ونقد المصادر الوسيطة والتاريخ الاقتصادي. من المراجع الرئيسة: [سبيرو وآخرون، Nature، 2022](https://doi.org/10.1038/s41586-022-04800-3)؛ [منظمة الصحة العالمية، الطاعون](https://www.who.int/news-room/fact-sheets/detail/plague)؛ [The Complete History of the Black Death، مطبعة جامعة كامبريدج](https://www.cambridge.org/core/books/complete-history-of-the-black-death/)؛ [ويليس، Emerging Infectious Diseases، 2002](https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article)؛ [باركر، Speculum، 2021](https://doi.org/10.1086/711596)؛ و[بيلي، Economic History Review، 2025](https://doi.org/10.1111/ehr.13355)."
+      },
+      {
+        "type": "paragraph",
+        "text": "تشمل الدراسات الإضافية [مراجعة بنديكتو لانتقال الطاعون إلى أوروبا الغربية](https://doi.org/10.1080/09518967.2017.1314920)، و[بحث كامبريدج في الوفيات](https://www.cambridge.org/core/books/fourteenth-century-england-vi/black-death-and-mortality-a-reassessment/AA308C01F4BE44F11B3AEC47249F868C)، و[مراجعة الأثر الاقتصادي في Journal of Economic Literature](https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639)، و[مجموعة المصادر الوسيطة في جامعة فوردهام عن اليهود](https://sourcebooks.fordham.edu/jewish/1348-jewsblackdeath.asp)، و[دراسة قناع طبيب الطاعون](https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/). تختلف هذه الدراسات بشأن بعض الآليات والنتائج؛ ويعرض المقال مواضع النقاش بدلاً من إخفائها."
+      }
+    ],
+    "sources": [
+      {
+        "label": "سبيرو وآخرون، Nature (2022)",
+        "url": "https://doi.org/10.1038/s41586-022-04800-3"
+      },
+      {
+        "label": "منظمة الصحة العالمية، الطاعون",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/plague"
+      },
+      {
+        "label": "The Complete History of the Black Death، مطبعة جامعة كامبريدج",
+        "url": "https://www.cambridge.org/core/books/complete-history-of-the-black-death/"
+      },
+      {
+        "label": "ويليس، Emerging Infectious Diseases (2002)",
+        "url": "https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article"
+      },
+      {
+        "label": "باركر، Speculum (2021)",
+        "url": "https://doi.org/10.1086/711596"
+      },
+      {
+        "label": "بنديكتو، انتقال الطاعون إلى أوروبا الغربية (2017)",
+        "url": "https://doi.org/10.1080/09518967.2017.1314920"
+      },
+      {
+        "label": "إعادة تقييم الوفيات، مطبعة جامعة كامبريدج",
+        "url": "https://www.cambridge.org/core/books/fourteenth-century-england-vi/black-death-and-mortality-a-reassessment/AA308C01F4BE44F11B3AEC47249F868C"
+      },
+      {
+        "label": "بيلي، Economic History Review (2025)",
+        "url": "https://doi.org/10.1111/ehr.13355"
+      },
+      {
+        "label": "الأثر الاقتصادي للموت الأسود، Journal of Economic Literature",
+        "url": "https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639"
+      },
+      {
+        "label": "جامعة فوردهام، مصادر وسيطة عن الطاعون واليهود",
+        "url": "https://sourcebooks.fordham.edu/jewish/1348-jewsblackdeath.asp"
+      },
+      {
+        "label": "دراسة قناع طبيب الطاعون",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "ما الذي تسبب في الموت الأسود؟",
+        "answer": "تسببت بكتيريا يرسينيا بيستيس في الموت الأسود. وينتشر الطاعون الدبلي غالباً بلسعة برغوث مصاب، بينما يمكن أن ينتقل الطاعون الرئوي عبر الرذاذ التنفسي. ويكشف الحمض النووي القديم من قيرغيزستان والمؤرخ بعامي 1338 و1339 عن تفشٍ بسلالة وثيقة الصلة بأصل السلالات المرتبطة بالجائحة."
+      },
+      {
+        "question": "هل قذف المغول ضحايا الطاعون إلى كافا بالمقاليع؟",
+        "answer": "وصف غابرييلي دي موسي المهاجمين وهم يقذفون الجثث إلى كافا، لكنه لم يكن شاهداً. ويناقش المؤرخون موثوقية الرواية ودورها المحتمل في انتقال المرض إلى البحر المتوسط."
+      },
+      {
+        "question": "كم شخصاً مات في الموت الأسود؟",
+        "answer": "لا يُعرف العدد الدقيق. ويقدّر المؤرخون عادة أن نحو ثلث إلى نصف سكان أوروبا ماتوا خلال الموجة الأولى، لكن الخسائر اختلفت كثيراً كما أن تقديرات السكان غير مؤكدة."
+      },
+      {
+        "question": "هل أنهى الموت الأسود الإقطاع؟",
+        "answer": "لم ينه حدث واحد الإقطاع. فقد عزز نقص العمال قوة التفاوض لدى بعض العاملين وغيّر علاقات الأرض والعمل، لكن الآثار اختلفت بين المناطق وامتدت لأجيال."
+      },
+      {
+        "question": "هل ارتدى أطباء العصور الوسطى أقنعة ذات مناقير؟",
+        "answer": "ارتبط القناع المعروف بأطباء الطاعون منذ منتصف القرن السابع عشر، أي بعد قرون من الموجة الأولى بين عامي 1347 و1353."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/black-death-pandemic-transform-europe/",
+    "path": "/es/articles/black-death-pandemic-transform-europe/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "PRESDA Editorial localization and citation parity review",
+      "reviewedAt": "2026-10-13",
+      "terminologyChecked": true
+    },
+    "title": "LA PESTE NEGRA: LA PANDEMIA QUE TRANSFORMÓ EUROPA",
+    "seoTitle": "La peste negra: origen, Caffa y transformación de Europa",
+    "description": "Sigue la peste negra desde Asia Central hasta Europa, examina el controvertido relato de Caffa y descubre sus consecuencias demográficas, económicas y sociales.",
+    "excerpt": "Desde las tumbas del actual Kirguistán hasta las leyes laborales inglesas, la peste negra transformó sociedades de Eurasia. El ADN antiguo precisa su origen, mientras el relato de Caffa sigue en debate.",
+    "headlineHighlights": {
+      "red": "LA PESTE NEGRA",
+      "gold": "TRANSFORMÓ EUROPA"
+    },
+    "keywords": [
+      "peste negra",
+      "Yersinia pestis",
+      "Europa medieval",
+      "Caffa",
+      "ADN antiguo",
+      "historia de la peste"
+    ],
+    "searchIntent": "Comprender el origen, la propagación y las consecuencias de la peste negra, incluidas las incertidumbres sobre Caffa.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
+    "image": {
+      "src": "/articles/black-death-plague-doctor-ai-editorial.png",
+      "alt": "Ilustración histórica generada por IA de un puerto europeo durante la peste al atardecer, con una figura con máscara de pico en primer plano. La máscara es anacrónica, pues apareció siglos después de la peste negra."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "En 1348, un barco podía traer mucho más que mercancías. Por toda Europa, las naves, los caminos y los ríos conectaban puertos concurridos con pueblos y aldeas. Después llegaron la fiebre, los ganglios inflamados, la dificultad para respirar y la muerte. La pandemia que más tarde se llamó peste negra recorrió el continente a mediados del siglo XIV y mató a una proporción devastadora de la población. El ADN antiguo la vincula ahora con un brote registrado en 1338–1339 en el actual Kirguistán. Sin embargo, uno de los relatos más conocidos sobre su llegada al Mediterráneo, el asedio de Caffa, sigue siendo una cuestión de pruebas y no un hecho demostrado."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "¿Qué fue la peste negra?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La peste negra fue la primera ola catastrófica de la segunda pandemia de peste, cuyos brotes se repitieron durante siglos por Eurasia y el norte de África. Su principal patógeno fue Yersinia pestis, una bacteria que todavía causa peste. Los cronistas medievales describieron enfermedades repentinas, piel oscurecida, hinchazones dolorosas y muertes que arrasaban hogares. El término «negra» se popularizó después; no es una descripción clínica precisa de una sola enfermedad. La [Organización Mundial de la Salud distingue las formas bubónica, neumónica y septicémica](https://www.who.int/news-room/fact-sheets/detail/plague)."
+      },
+      {
+        "type": "paragraph",
+        "text": "La peste bubónica suele seguir a la picadura de una pulga infectada y provoca fiebre y ganglios linfáticos dolorosos e inflamados, llamados bubones. La peste neumónica infecta los pulmones y puede transmitirse entre personas mediante gotículas respiratorias. La forma septicémica afecta la sangre. Las formas pueden solaparse. La pandemia medieval probablemente incluyó más de una presentación clínica, pero los relatos conservados no siempre permiten identificar la forma concreta. Las categorías modernas ayudan a explicar la biología, aunque no permiten convertir cada frase de un cronista en un diagnóstico retrospectivo."
+      },
+      {
+        "type": "paragraph",
+        "text": "La peste no se explica simplemente por ratas que llevan pulgas de una ciudad a otra. La bacteria circula en reservorios animales y su transmisión depende de la ecología, el clima, los desplazamientos y el vector. Los especialistas todavía debaten el peso relativo de pulgas, piojos y transmisión respiratoria en la pandemia medieval. El comercio marítimo y terrestre trasladó personas, mercancías y patógenos. El [CDC repasa las preguntas médicas e históricas del asedio de Caffa](https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article)."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Una pista conservada en Kirguistán"
+      },
+      {
+        "type": "paragraph",
+        "text": "Durante siglos fue difícil localizar los orígenes remotos de la pandemia. En 2022, investigadores estudiaron restos humanos de los cementerios de Kara-Djigach y Burana, en el valle de Chüy del actual Kirguistán. Algunas lápidas fechadas en 1338 y 1339 mencionaban una «pestilencia». El ADN antiguo de dos personas reveló genomas de Y. pestis estrechamente relacionados con la población ancestral de la que surgieron los principales linajes asociados a la peste negra. El estudio de [Spyrou y sus colegas en Nature](https://doi.org/10.1038/s41586-022-04800-3) fue un hallazgo decisivo."
+      },
+      {
+        "type": "paragraph",
+        "text": "El resultado apunta a un brote en la región más amplia del Tian Shan poco antes de que la pandemia se expandiera hacia el oeste. No demuestra que esas dos personas fueran los primeros casos, no reconstruye cada etapa de transmisión ni identifica una caravana concreta. Los investigadores también relacionan la cepa con una rápida diversificación bacteriana descrita a veces como un «big bang». Los genomas antiguos aportan un anclaje biológico crucial, pero deben leerse junto con inscripciones, historia comercial, pruebas climáticas y los límites del muestreo arqueológico."
+      },
+      {
+        "type": "paragraph",
+        "text": "El hallazgo cambia el mapa de la investigación, no la naturaleza de la catástrofe. Asia Central no era un corredor vacío entre Europa y China. Sus ciudades, comunidades pastoriles y redes comerciales conectaban el Tian Shan con mercados euroasiáticos. El [Imperio mongol medieval y sus redes de intercambio](/articles/mongol-empire-genghis-khan-conquests-legacy/) forman parte del contexto, aunque el imperio se había fragmentado en el siglo XIV. Las conexiones pudieron acelerar los movimientos; no hacen responsable a toda una población de la propagación de una bacteria."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "La ruta al oeste: barcos, puertos y el relato de Caffa"
+      },
+      {
+        "type": "paragraph",
+        "text": "La enfermedad aparece en los registros del mar Negro y del Mediterráneo a fines de la década de 1340. En 1347 llegó a Constantinopla y a puertos como Mesina; al año siguiente se notificaron casos en Marsella, Aviñón, Florencia y París. Se desplazó por mar y por tierra. La cronología variaba según el lugar y los archivos son desiguales. Un mapa de rutas es una reconstrucción a partir de testimonios dispersos, no una trayectoria diaria exacta. El capítulo de [Cambridge sobre la propagación de la peste negra](https://www.cambridge.org/core/books/complete-history-of-the-black-death/patterns-of-conquest-dynamics-of-spread/8BC8FE6B2E05A65E85A5E2EC867AEA63) destaca las conexiones marítimas y los rápidos saltos entre puertos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Caffa, la actual Feodosia en Crimea, era un enclave comercial genovés asediado por fuerzas de la Horda de Oro. El relato más repetido afirma que en 1346 los atacantes, afectados por la peste, arrojaron cadáveres por encima de las murallas. Gabriele de’ Mussi, notario de Piacenza, describió el episodio en latín. Su relato es vívido, pero no presenció el asedio. Es un testimonio escrito lejos del lugar, no un informe corroborado por ambos bandos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Algunos historiadores consideran plausible la historia de los cadáveres, y el historiador de la medicina Mark Wheelis sostuvo que podría explicar la entrada de la peste en la ciudad. Otros cuestionan que el episodio desencadenara la pandemia europea. Hannah Barker señala que el relato depende de un solo texto indirecto y que la cronología y las pruebas comerciales complican la narración habitual. La revisión crítica de Ole Jørgen Benedictow también cuestiona el relato de transmisión más difundido. Su estudio en [Speculum](https://doi.org/10.1086/711596) y la [revisión sobre la transmisión](https://doi.org/10.1080/09518967.2017.1314920) explican por qué Caffa sigue siendo objeto de debate."
+      },
+      {
+        "type": "paragraph",
+        "text": "Aunque se arrojaran cuerpos infectados a la ciudad, ese acto por sí solo no explica la llegada de la pandemia al Mediterráneo. El puerto de Caffa formaba parte de redes de barcos, comerciantes y abastecimiento. ¿La peste ya circulaba por la región? ¿La llevaron barcos genoveses al huir? ¿Cómo llegó a cada puerto? Son preguntas distintas. La conclusión prudente es más limitada que el relato popular: una crónica vincula el asedio con la peste, pero se discute el papel de los cadáveres en la transmisión; las rutas comerciales ofrecen un contexto más amplio."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "¿Hasta dónde llegó y cuántas personas murieron?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entre 1347 y 1353, la peste recorrió gran parte de Europa, el norte de África y Asia occidental. Sicilia y la península italiana estuvieron entre las primeras regiones europeas afectadas; después llegó a Francia, la península ibérica, las islas británicas, Europa central y Escandinavia. Algunas zonas sufrieron brotes repetidos, mientras que otras parecen menos afectadas o están mal documentadas. Las estaciones, la ecología local, los horarios marítimos y los archivos determinaron lo que puede reconstruirse."
+      },
+      {
+        "type": "paragraph",
+        "text": "No se conserva un registro continental fiable de muertes. Las estimaciones varían, pero los historiadores suelen hablar de la muerte de aproximadamente entre un tercio y la mitad de la población europea, con grandes variaciones locales y debates persistentes. Algunas ciudades perdieron una proporción muy alta; en otros lugares las pruebas apuntan a una mortalidad menor o siguen siendo inciertas. Las cifras de 25 o 50 millones son estimaciones, no recuentos. Dependen de la población previa, los registros disponibles, el territorio y los años incluidos. [La investigación de Cambridge reevalúa las pruebas de mortalidad medieval](https://www.cambridge.org/core/books/fourteenth-century-england-vi/black-death-and-mortality-a-reassessment/AA308C01F4BE44F11B3AEC47249F868C)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los hogares se desmoronaron, los talleres quedaron vacíos y los sistemas funerarios soportaron una presión extrema. Las comunidades rurales perdieron trabajadores, arrendatarios y funcionarios locales. También murieron sacerdotes y médicos. Sin conocer el mecanismo del contagio, los testigos buscaron explicaciones religiosas, astrológicas o en el aire corrupto. Pero es engañoso imaginar a la gente medieval entregada pasivamente a la superstición. También aisló enfermos, restringió desplazamientos, cambió las prácticas funerarias y buscó remedios, con resultados desiguales."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Miedo, fe y persecución"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las respuestas religiosas fueron diversas. Algunas personas rezaban, daban limosna o participaban en procesiones; otras se apartaban de la vida pública o huían cuando podían. Los Flagelantes cobraron importancia en algunas regiones, pero no fueron una reacción universal y las autoridades eclesiásticas acabaron condenando el movimiento. Algunas personas interpretaron la peste mediante ideas de pecado y juicio divino. Los ritos podían devolver orden a un mundo sin explicaciones claras, pero no identificaban Y. pestis ni detenían la transmisión."
+      },
+      {
+        "type": "paragraph",
+        "text": "Una respuesta especialmente violenta tuvo como blanco a las comunidades judías. Rumores falsos las acusaban de envenenar pozos, y se utilizó la tortura para obtener confesiones. En zonas del Rin y otros lugares siguieron masacres, expulsiones y destrucción de comunidades, a veces antes de que llegara la peste. Los judíos también padecieron la enfermedad; la acusación conspirativa carecía de fundamento. En 1348, el papa Clemente VI condenó los ataques y emitió medidas de protección, aunque no siempre pudo proteger a las comunidades de autoridades locales o turbas. [La colección de fuentes de la Universidad de Fordham conserva documentos contemporáneos](https://sourcebooks.fordham.edu/jewish/1348-jewsblackdeath.asp)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los pogromos no fueron una reacción inevitable a la enfermedad. Se apoyaron en antisemitismo preexistente, conflictos políticos, deudas y en la decisión de las autoridades de proteger o abandonar a sus vecinos. Las epidemias no crean necesariamente los prejuicios, pero pueden volver más letales las prácticas de buscar chivos expiatorios. Reducir los asesinatos al pánico ocultaría la responsabilidad de quienes los cometieron y de las instituciones que permitieron la violencia."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Una crisis laboral transforma la economía"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cuando murió tanta gente, la mano de obra escaseó en muchas regiones. Los propietarios necesitaban arrendatarios y trabajadores; algunos artesanos y trabajadores agrícolas pudieron negociar mejores salarios, cambiar de empleador o arrendar tierras en condiciones más favorables. Pero las ganancias no fueron inmediatas ni universales. También cayó la demanda, se abandonaron granjas y los precios y salarios evolucionaron de manera distinta según el oficio y el lugar. Algunas mujeres asumieron nuevos trabajos, aunque las restricciones legales y habituales siguieron limitando su salario y propiedad."
+      },
+      {
+        "type": "paragraph",
+        "text": "En Inglaterra, el gobierno respondió con la Ordenanza de los Trabajadores de 1349 y el Estatuto de los Trabajadores de 1351, que intentaron mantener los salarios cerca de sus niveles anteriores y restringir los desplazamientos. Las leyes revelan la preocupación de las élites por el poder negociador de los trabajadores. Su aprobación no significó que todos recibieran más ni que se pudieran hacer cumplir en todas partes. Los historiadores económicos subrayan que los efectos se extendieron durante décadas y variaron por Europa. Los estudios de Mark Bailey siguen la legislación y el mercado laboral sin reducir la historia a una abolición instantánea del feudalismo. [Su estudio de 2025 en Economic History Review](https://doi.org/10.1111/ehr.13355) documenta la respuesta desigual."
+      },
+      {
+        "type": "paragraph",
+        "text": "El impacto demográfico debilitó algunos sistemas señoriales y alteró el equilibrio entre tierra y trabajo. En partes de Europa occidental, la servidumbre disminuyó con el tiempo; en otras regiones, los sistemas coercitivos persistieron o evolucionaron de otro modo. Cambiaron las rentas, las herencias, el uso de la tierra y el consumo. Las instituciones religiosas perdieron personal e ingresos, pero su autoridad no desapareció de golpe. La pandemia aceleró tensiones previas. Fue una transformación mediante conflicto y adaptación, no una revolución uniforme provocada por la peste."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Lo que cambió la peste, y lo que no"
+      },
+      {
+        "type": "paragraph",
+        "text": "La catástrofe dejó huella en el arte, la literatura y la memoria. Se hicieron más prominentes las imágenes de la muerte y los escritores describieron la fragilidad de los vínculos sociales. Pero el arte no mide directamente la desesperación colectiva y la vida religiosa no se derrumbó por igual. Los supervivientes reconstruyeron hogares, instituciones e intercambios. Nuevos patrones laborales y cambios de riqueza y uso del suelo contribuyeron a las economías posteriores, aunque los especialistas debaten cuánto se debió a la peste. Una revisión del [Journal of Economic Literature analiza estos efectos](https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las consecuencias también fueron globales. La peste negra afectó a sociedades fuera de la Europa cristiana latina, incluidas las del norte de África y Oriente Medio, con estructuras políticas, sistemas laborales y respuestas religiosas diferentes. Llamarla un punto de inflexión europeo no significa que Europa fuera el mundo entero. Tampoco es correcto afirmar que la pandemia causó directamente el Renacimiento, el fin del feudalismo o el capitalismo moderno. Esos cambios surgieron de historias más largas que la peste alteró, pero no determinó."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "La máscara pertenece a una historia posterior de la peste"
+      },
+      {
+        "type": "paragraph",
+        "text": "La imagen del médico con pico es poderosa, pero no pertenece a la primera ola de peste negra. El traje conocido apareció en prácticas europeas contra la peste a partir de mediados del siglo XVII, siglos después. Los médicos creían que las sustancias aromáticas del pico los protegerían del aire corrupto. La máscara refleja ideas médicas y una cultura visual posteriores, no lo que habría llevado un médico en Caffa o en 1348. Esta imagen es una ilustración artística generada por IA, no un documento histórico; su máscara de pico es deliberadamente anacrónica. [Un estudio sobre la máscara en las colecciones museísticas](https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/) reconstruye las pruebas."
+      },
+      {
+        "type": "paragraph",
+        "text": "La peste negra no fue solo un episodio médico. Fue una catástrofe biológica propagada por redes humanas y ecológicas, un impacto demográfico cuyos efectos dependieron de la clase y la ley, y una prueba de cómo las comunidades trataron a sus vecinos vulnerables. El ADN antiguo permite ahora comprender mejor sus orígenes. Los testimonios medievales aún exigen una lectura crítica, sobre todo cuando un relato vívido se convierte en una explicación demasiado sencilla. Las víctimas no pueden reducirse a una sola cifra ni a una escena de asedio. Su historia nos invita a mantener juntas la evidencia científica, la experiencia humana y la incertidumbre."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Fuentes y lecturas adicionales"
+      },
+      {
+        "type": "paragraph",
+        "text": "Este artículo se basa en estudios de ADN antiguo, ciencia de la peste, análisis de fuentes medievales e historia económica. Entre las referencias principales: [Spyrou et al., Nature, 2022](https://doi.org/10.1038/s41586-022-04800-3); [Organización Mundial de la Salud, peste](https://www.who.int/news-room/fact-sheets/detail/plague); [The Complete History of the Black Death, Cambridge University Press](https://www.cambridge.org/core/books/complete-history-of-the-black-death/); [Wheelis, Emerging Infectious Diseases, 2002](https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article); [Barker, Speculum, 2021](https://doi.org/10.1086/711596); y [Bailey, Economic History Review, 2025](https://doi.org/10.1111/ehr.13355)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Otras referencias: [Benedictow sobre la transmisión en Europa occidental](https://doi.org/10.1080/09518967.2017.1314920), [Cambridge sobre la mortalidad](https://www.cambridge.org/core/books/fourteenth-century-england-vi/black-death-and-mortality-a-reassessment/AA308C01F4BE44F11B3AEC47249F868C), [Journal of Economic Literature sobre el impacto económico](https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639), [la colección de fuentes medievales de Fordham sobre los judíos](https://sourcebooks.fordham.edu/jewish/1348-jewsblackdeath.asp) y [el estudio de la máscara de médico de la peste](https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/). Estos trabajos discrepan sobre algunos mecanismos y consecuencias; el artículo identifica los debates en lugar de ocultarlos."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Spyrou et al., Nature (2022)",
+        "url": "https://doi.org/10.1038/s41586-022-04800-3"
+      },
+      {
+        "label": "Organización Mundial de la Salud, peste",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/plague"
+      },
+      {
+        "label": "The Complete History of the Black Death, Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/complete-history-of-the-black-death/"
+      },
+      {
+        "label": "Wheelis, Emerging Infectious Diseases (2002)",
+        "url": "https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article"
+      },
+      {
+        "label": "Barker, Speculum (2021)",
+        "url": "https://doi.org/10.1086/711596"
+      },
+      {
+        "label": "Benedictow, transmisión a Europa occidental (2017)",
+        "url": "https://doi.org/10.1080/09518967.2017.1314920"
+      },
+      {
+        "label": "Reevaluación de la mortalidad, Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/fourteenth-century-england-vi/black-death-and-mortality-a-reassessment/AA308C01F4BE44F11B3AEC47249F868C"
+      },
+      {
+        "label": "Bailey, Economic History Review (2025)",
+        "url": "https://doi.org/10.1111/ehr.13355"
+      },
+      {
+        "label": "Impacto económico de la peste negra, Journal of Economic Literature",
+        "url": "https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639"
+      },
+      {
+        "label": "Universidad de Fordham, fuentes medievales sobre peste y judíos",
+        "url": "https://sourcebooks.fordham.edu/jewish/1348-jewsblackdeath.asp"
+      },
+      {
+        "label": "Estudio de la máscara del médico de la peste",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Qué causó la peste negra?",
+        "answer": "La peste negra fue causada por Yersinia pestis. La peste bubónica suele propagarse por la picadura de pulgas infectadas; la neumónica puede transmitirse mediante gotículas respiratorias. El ADN antiguo de Kirguistán, fechado en 1338–1339, identifica un brote con una cepa estrechamente relacionada con el origen de los linajes pandémicos."
+      },
+      {
+        "question": "¿Los mongoles catapultaron víctimas de la peste a Caffa?",
+        "answer": "Gabriele de’ Mussi describió a los atacantes arrojando cadáveres a Caffa, pero no fue testigo. Los historiadores debaten la fiabilidad del relato y su posible papel en la transmisión hacia el Mediterráneo."
+      },
+      {
+        "question": "¿Cuántas personas murieron por la peste negra?",
+        "answer": "No se conoce el total. Los historiadores suelen estimar que murió aproximadamente entre un tercio y la mitad de la población europea durante la primera ola, pero las pérdidas variaron mucho y las cifras de población son inciertas."
+      },
+      {
+        "question": "¿La peste negra acabó con el feudalismo?",
+        "answer": "No hubo un acontecimiento único que acabara con el feudalismo. La escasez de trabajadores fortaleció la capacidad negociadora de algunos y cambió las relaciones de tierra y trabajo, pero los efectos variaron y se extendieron por generaciones."
+      },
+      {
+        "question": "¿Los médicos medievales llevaban máscaras con pico?",
+        "answer": "La máscara de pico conocida se asocia a médicos de peste desde mediados del siglo XVII, siglos después de la primera ola de 1347–1353."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/black-death-pandemic-transform-europe/",
+    "path": "/fr/articles/black-death-pandemic-transform-europe/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "PRESDA Editorial localization and citation parity review",
+      "reviewedAt": "2026-10-13",
+      "terminologyChecked": true
+    },
+    "title": "LA PESTE NOIRE : LA PANDÉMIE QUI A TRANSFORMÉ L’EUROPE",
+    "seoTitle": "La peste noire : origines, Caffa et transformation de l’Europe",
+    "description": "De l’Asie centrale à l’Europe, suivez la peste noire, examinez le récit contesté de Caffa et ses conséquences démographiques, économiques et sociales.",
+    "excerpt": "Des sépultures de l’actuel Kirghizstan aux lois du travail anglaises, la peste noire a bouleversé les sociétés d’Eurasie. L’ADN ancien précise son origine, tandis que le récit de Caffa reste discuté.",
+    "headlineHighlights": {
+      "red": "LA PESTE NOIRE",
+      "gold": "TRANSFORMÉ L’EUROPE"
+    },
+    "keywords": [
+      "peste noire",
+      "Yersinia pestis",
+      "Europe médiévale",
+      "Caffa",
+      "ADN ancien",
+      "histoire de la peste"
+    ],
+    "searchIntent": "Comprendre les origines, la diffusion et les conséquences de la peste noire, ainsi que les incertitudes historiques autour de Caffa.",
+    "category": "History",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
+    "image": {
+      "src": "/articles/black-death-plague-doctor-ai-editorial.png",
+      "alt": "Illustration historique générée par IA d’un port européen à l’époque de la peste, au coucher du soleil, avec une silhouette portant un masque à bec au premier plan. Ce masque est anachronique, car il est apparu plusieurs siècles après la peste noire."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "En 1348, un navire pouvait transporter bien davantage que des marchandises. Partout en Europe, bateaux, routes et fleuves reliaient des ports très fréquentés aux bourgs et aux villages. Puis vinrent la fièvre, les ganglions enflés, l’essoufflement et la mort. La pandémie appelée plus tard peste noire traversa le continent au milieu du XIVe siècle et tua une part dévastatrice de sa population. L’ADN ancien relie désormais son agent pathogène à une épidémie attestée en 1338–1339 dans l’actuel Kirghizstan. Pourtant, l’un des récits les plus célèbres de son arrivée en Méditerranée, celui du siège de Caffa, reste une question de preuves, pas un fait établi."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Qu’était la peste noire ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La peste noire fut la première vague catastrophique de la deuxième pandémie de peste, dont les épisodes se répétèrent pendant des siècles en Eurasie et en Afrique du Nord. Son principal agent était Yersinia pestis, une bactérie qui cause encore la peste aujourd’hui. Les chroniqueurs médiévaux décrivent maladie soudaine, peau assombrie, tuméfactions douloureuses et morts qui frappaient des familles entières. Le terme « noire » s’est imposé par la suite ; il ne désigne pas précisément une maladie clinique unique. L’[Organisation mondiale de la Santé distingue les formes bubonique, pulmonaire et septicémique](https://www.who.int/news-room/fact-sheets/detail/plague)."
+      },
+      {
+        "type": "paragraph",
+        "text": "La peste bubonique suit souvent la piqûre d’une puce infectée et provoque fièvre et ganglions douloureux, les bubons. La peste pulmonaire atteint les poumons et peut se transmettre entre personnes par des gouttelettes respiratoires. La forme septicémique touche le sang. Ces formes peuvent se chevaucher. La pandémie médiévale a probablement compris plusieurs manifestations, mais les descriptions ne permettent pas toujours d’identifier celle d’un malade. Les catégories modernes éclairent la biologie sans transformer chaque formule de chroniqueur en diagnostic rétrospectif."
+      },
+      {
+        "type": "paragraph",
+        "text": "La peste ne se résume pas à des rats transportant des puces d’une ville à l’autre. La bactérie circule dans des réservoirs animaux et sa transmission dépend de l’écologie, du climat, des déplacements et du vecteur. Les spécialistes débattent encore du rôle relatif des puces, des poux et de la transmission respiratoire au Moyen Âge. Les échanges maritimes et terrestres ont toutefois déplacé personnes, marchandises et agents pathogènes. Le [CDC examine les questions médicales et historiques du siège de Caffa](https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article)."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Un indice conservé au Kirghizstan"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pendant des siècles, les origines lointaines de la pandémie furent difficiles à situer. En 2022, des chercheurs ont étudié des restes humains provenant des cimetières de Kara-Djigach et de Burana, dans la vallée de Chüy, au Kirghizstan actuel. Certaines pierres tombales datées de 1338 et 1339 mentionnaient une « pestilence ». L’ADN ancien de deux individus a révélé des génomes de Y. pestis étroitement liés à la population ancestrale dont sont issues les grandes lignées associées à la peste noire. L’étude de [Spyrou et ses collègues dans Nature](https://doi.org/10.1038/s41586-022-04800-3) constitue une découverte majeure."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le résultat indique une épidémie dans la région du Tian Shan peu avant l’expansion vers l’ouest. Il ne prouve pas que ces deux personnes furent les premières infectées, ne reconstitue pas chaque étape de transmission et n’identifie pas une caravane précise. Les chercheurs relient aussi la souche à une diversification rapide, parfois appelée « big bang ». Les génomes anciens offrent un repère biologique essentiel, mais doivent être confrontés aux inscriptions, à l’histoire des échanges, au climat et aux limites des fouilles."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette découverte déplace la carte du problème, non la nature de la catastrophe. L’Asie centrale n’était pas un couloir vide entre l’Europe et la Chine. Villes, communautés pastorales et réseaux d’échange reliaient le Tian Shan à l’Eurasie. L’[Empire mongol médiéval et ses réseaux commerciaux](/articles/mongol-empire-genghis-khan-conquests-legacy/) forment une partie du contexte, même si l’empire s’était fragmenté au XIVe siècle. Les connexions ont pu accélérer les déplacements ; elles ne rendent pas une population entière responsable de la propagation d’une bactérie."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "La route vers l’ouest : navires, ports et récit de Caffa"
+      },
+      {
+        "type": "paragraph",
+        "text": "La peste apparaît dans les témoignages de la mer Noire et de la Méditerranée à la fin des années 1340. En 1347, elle atteignit Constantinople et des ports comme Messine ; l’année suivante, Marseille, Avignon, Florence et Paris étaient touchées. Elle circula par mer et par voie terrestre. La chronologie différait selon les lieux et les archives sont inégales. Une carte des routes est une reconstruction à partir de récits dispersés, non un itinéraire quotidien exact. Le chapitre de [Cambridge sur la diffusion de la peste noire](https://www.cambridge.org/core/books/complete-history-of-the-black-death/patterns-of-conquest-dynamics-of-spread/8BC8FE6B2E05A65E85A5E2EC867AEA63) souligne le rôle des liaisons maritimes et des bonds rapides entre ports."
+      },
+      {
+        "type": "paragraph",
+        "text": "Caffa, aujourd’hui Feodossia en Crimée, était un comptoir génois assiégé par les forces de la Horde d’Or. Le récit souvent répété affirme qu’en 1346, les assaillants frappés par la peste projetèrent des cadavres par-dessus les remparts. Gabriele de’ Mussi, notaire de Plaisance, décrivit l’épisode en latin. Son récit est saisissant, mais il n’était pas témoin du siège. C’est un témoignage unique, écrit loin des lieux, et non un rapport corroboré par les deux camps."
+      },
+      {
+        "type": "paragraph",
+        "text": "Certains historiens jugent l’histoire des cadavres plausible ; l’historien de la médecine Mark Wheelis a estimé qu’elle pouvait expliquer l’introduction de la peste dans la ville. D’autres doutent que cet épisode ait déclenché la pandémie européenne. Hannah Barker souligne que le récit repose sur un seul texte indirect et que la chronologie comme les échanges commerciaux le compliquent. La revue critique d’Ole Jørgen Benedictow remet également en cause le récit habituel. Son étude dans [Speculum](https://doi.org/10.1086/711596) et la [revue sur la transmission](https://doi.org/10.1080/09518967.2017.1314920) montrent pourquoi Caffa reste débattue."
+      },
+      {
+        "type": "paragraph",
+        "text": "Même si des corps infectés furent projetés dans la ville, cet acte ne suffit pas à expliquer l’arrivée de la pandémie en Méditerranée. Le port de Caffa appartenait à un réseau de navires, de marchands et d’approvisionnement. La peste était-elle déjà présente dans la région ? Des navires génois l’ont-ils emportée après le siège ? Comment a-t-elle atteint les différents ports ? Ce sont des questions distinctes. La conclusion prudente est plus limitée que le récit populaire : une chronique relie siège et peste, mais le rôle des cadavres dans la transmission est contesté, tandis que les routes commerciales fournissent un cadre plus large."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Jusqu’où la maladie s’est-elle propagée et combien de personnes sont mortes ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entre 1347 et 1353, la peste traversa une grande partie de l’Europe, de l’Afrique du Nord et de l’Asie occidentale. La Sicile et la péninsule italienne comptent parmi les premières régions européennes touchées, avant la France, la péninsule Ibérique, les îles Britanniques, l’Europe centrale et la Scandinavie. Certaines zones furent frappées à plusieurs reprises ; d’autres semblent moins touchées ou restent mal documentées. Les saisons, l’écologie locale, les calendriers maritimes et les archives ont façonné ce que l’on peut reconstituer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Aucun registre continental fiable des décès ne subsiste. Les estimations varient, mais les historiens évoquent souvent la mort d’environ un tiers à la moitié de la population européenne, avec de fortes variations locales et un débat persistant. Certains bourgs perdirent une part considérable de leurs habitants ; ailleurs, les preuves indiquent une mortalité moindre ou restent incertaines. Les chiffres de 25 ou 50 millions sont des estimations, non des décomptes. Ils dépendent des hypothèses sur la population avant la peste, les archives conservées, la région et la période étudiées. [Les recherches de Cambridge réévaluent les données de mortalité](https://www.cambridge.org/core/books/fourteenth-century-england-vi/black-death-and-mortality-a-reassessment/AA308C01F4BE44F11B3AEC47249F868C)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Des foyers entiers s’effondrèrent, des ateliers furent abandonnés et les systèmes funéraires furent mis à rude épreuve. Les campagnes perdirent des travailleurs, des locataires et des responsables locaux. Des prêtres et des médecins moururent aussi. Faute de connaître l’infection, les témoins cherchèrent des explications religieuses, astrologiques ou liées à l’air corrompu. Mais l’image de populations médiévales passives face à la superstition est trompeuse : elles isolèrent des malades, limitèrent les déplacements, adaptèrent les inhumations et recherchèrent des remèdes, avec des résultats inégaux."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Peur, foi et persécutions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les réponses religieuses furent variées. Certains prièrent, firent l’aumône ou participèrent à des processions ; d’autres se retirèrent de la vie publique ou prirent la fuite. Le mouvement des Flagellants fut visible dans certaines régions, mais il ne fut pas universel et les autorités ecclésiastiques le condamnèrent ensuite. La peste fut interprétée par certains à travers le péché et le jugement divin. Les rites pouvaient rétablir un sentiment d’ordre quand les explications ordinaires échouaient, sans pour autant identifier Y. pestis ni interrompre la transmission."
+      },
+      {
+        "type": "paragraph",
+        "text": "Une réponse particulièrement violente visa les communautés juives. Des rumeurs les accusèrent à tort d’empoisonner les puits et la torture servit à extorquer des aveux. Des massacres, expulsions et destructions suivirent dans des régions du Rhin et ailleurs, parfois avant l’arrivée de la peste. Les Juifs furent eux aussi victimes de la maladie ; l’accusation de complot n’avait aucun fondement. En 1348, le pape Clément VI condamna les violences et publia des mesures de protection, sans pouvoir toujours protéger ces communautés des autorités locales ou des foules. [Le recueil de sources de l’Université Fordham conserve des documents de l’époque](https://sourcebooks.fordham.edu/jewish/1348-jewsblackdeath.asp)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les pogroms ne furent pas une réaction inévitable à la maladie. Ils puisèrent leur force dans l’antisémitisme ancien, les conflits politiques, les dettes et la décision des autorités de protéger leurs voisins ou de les abandonner. Les épidémies ne créent pas nécessairement les préjugés, mais elles peuvent rendre plus meurtrières les logiques de bouc émissaire. Réduire ces meurtres à la panique ferait disparaître la responsabilité des auteurs et des institutions qui permirent les violences."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Une crise du travail transforme l’économie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Quand tant de personnes moururent, la main-d’œuvre se raréfia dans de nombreuses régions. Les propriétaires avaient besoin de locataires et de travailleurs ; certains artisans et ouvriers agricoles purent négocier une meilleure rémunération, changer d’employeur ou louer des terres à de meilleures conditions. Mais ces gains ne furent ni immédiats ni universels. La demande s’effondra aussi, des fermes furent abandonnées et prix comme salaires évoluèrent différemment selon les métiers et les lieux. Les femmes assumèrent parfois de nouveaux travaux, tandis que les restrictions juridiques continuaient de limiter leurs revenus et leurs biens."
+      },
+      {
+        "type": "paragraph",
+        "text": "En Angleterre, le gouvernement adopta l’Ordonnance des travailleurs en 1349, puis le Statut des travailleurs en 1351, tentant de maintenir les salaires à leur niveau antérieur et de limiter les déplacements. Ces lois révèlent l’inquiétude des élites face au pouvoir de négociation des travailleurs. Elles ne signifient pas que chacun fut mieux payé ni que les autorités purent les appliquer partout. Les historiens de l’économie soulignent que les effets s’étalèrent sur des décennies et varièrent à travers l’Europe. Les travaux de Mark Bailey retracent législation et marché du travail sans réduire l’histoire à l’abolition instantanée du féodalisme. [Son étude de 2025 dans Economic History Review](https://doi.org/10.1111/ehr.13355) documente cette réponse inégale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le choc démographique fragilisa certaines structures seigneuriales et modifia le rapport entre terres et main-d’œuvre. Dans certaines parties de l’Europe occidentale, le servage recula au fil du temps ; ailleurs, les systèmes de travail contraint persistèrent ou évoluèrent différemment. Les loyers, les héritages, l’usage des terres et la consommation changèrent. Les institutions religieuses perdirent du personnel et des revenus, sans que leur autorité disparaisse simplement. La pandémie accéléra des tensions préexistantes. L’histoire est celle d’une transformation par le conflit et l’adaptation, non d’une révolution uniforme provoquée par la peste."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Ce que la peste a changé, et ce qu’elle n’a pas changé"
+      },
+      {
+        "type": "paragraph",
+        "text": "La catastrophe marqua l’art, la littérature et la mémoire. Les images de la mort devinrent plus présentes et les écrivains décrivirent la fragilité des liens sociaux. Pourtant, l’art ne mesure pas mécaniquement le désespoir collectif et la vie religieuse ne s’effondra pas partout. Les survivants reconstruisirent foyers, institutions et échanges. Les nouvelles habitudes de travail, les changements de richesse et d’usage des terres contribuèrent aux économies ultérieures, même si les historiens débattent de la part propre à la peste. Une synthèse du [Journal of Economic Literature analyse ces effets](https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les conséquences furent aussi mondiales. La peste noire toucha au-delà de l’Europe latine chrétienne des sociétés d’Afrique du Nord et du Moyen-Orient, où structures politiques, systèmes de travail et réponses religieuses différaient. Parler d’un tournant européen ne revient pas à faire de l’Europe le monde entier. On ne peut pas non plus affirmer que la pandémie causa directement la Renaissance, la fin du féodalisme ou le capitalisme moderne. Ces transformations relèvent de processus plus longs, modifiés mais non déterminés par la peste."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Le masque appartient à une histoire ultérieure de la peste"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’image du médecin à bec est saisissante, mais elle ne date pas de la première vague de peste noire. Le costume familier apparaît dans les pratiques européennes à partir du milieu du XVIIe siècle, plusieurs siècles plus tard. Les médecins pensaient que les substances aromatiques placées dans le bec les protégeraient de l’air corrompu. Ce masque reflète une époque et une conception médicale ultérieures, pas ce qu’un médecin de Caffa ou de 1348 aurait porté. Cette image est une illustration artistique générée par IA, non un document d’époque ; le masque à bec est volontairement anachronique. [Une étude retrace l’histoire du masque dans les collections muséales](https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/)."
+      },
+      {
+        "type": "paragraph",
+        "text": "La peste noire ne fut pas seulement une maladie. Ce fut une catastrophe biologique propagée par des réseaux humains et écologiques, un choc démographique dont les effets dépendirent du droit et de la classe sociale, et une épreuve de la façon dont les communautés traitaient leurs voisins vulnérables. L’ADN ancien éclaire désormais ses origines. Les témoignages médiévaux exigent toujours une lecture attentive, surtout lorsqu’un récit spectaculaire devient une explication trop simple. Les morts ne se réduisent ni à un chiffre unique ni à une scène de siège. Leur histoire nous demande de tenir ensemble science, expérience humaine et incertitude."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Sources et lectures complémentaires"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cet article s’appuie sur des recherches en ADN ancien, en science de la peste, en critique des sources médiévales et en histoire économique. Parmi les références principales : [Spyrou et al., Nature, 2022](https://doi.org/10.1038/s41586-022-04800-3) ; [Organisation mondiale de la Santé, peste](https://www.who.int/news-room/fact-sheets/detail/plague) ; [The Complete History of the Black Death, Cambridge University Press](https://www.cambridge.org/core/books/complete-history-of-the-black-death/) ; [Wheelis, Emerging Infectious Diseases, 2002](https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article) ; [Barker, Speculum, 2021](https://doi.org/10.1086/711596) ; et [Bailey, Economic History Review, 2025](https://doi.org/10.1111/ehr.13355)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Autres références : [Benedictow sur la transmission en Europe occidentale](https://doi.org/10.1080/09518967.2017.1314920), [Cambridge sur la mortalité](https://www.cambridge.org/core/books/fourteenth-century-england-vi/black-death-and-mortality-a-reassessment/AA308C01F4BE44F11B3AEC47249F868C), [Journal of Economic Literature sur les conséquences économiques](https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639), [les sources médiévales de l’Université Fordham sur les Juifs](https://sourcebooks.fordham.edu/jewish/1348-jewsblackdeath.asp) et [l’étude du masque de médecin de peste](https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/). Ces travaux ne s’accordent pas sur tous les mécanismes et toutes les conséquences ; l’article présente les débats au lieu de les dissimuler."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Spyrou et al., Nature (2022)",
+        "url": "https://doi.org/10.1038/s41586-022-04800-3"
+      },
+      {
+        "label": "Organisation mondiale de la Santé, peste",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/plague"
+      },
+      {
+        "label": "The Complete History of the Black Death, Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/complete-history-of-the-black-death/"
+      },
+      {
+        "label": "Wheelis, Emerging Infectious Diseases (2002)",
+        "url": "https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article"
+      },
+      {
+        "label": "Barker, Speculum (2021)",
+        "url": "https://doi.org/10.1086/711596"
+      },
+      {
+        "label": "Benedictow, transmission vers l’Europe occidentale (2017)",
+        "url": "https://doi.org/10.1080/09518967.2017.1314920"
+      },
+      {
+        "label": "Réévaluation de la mortalité, Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/fourteenth-century-england-vi/black-death-and-mortality-a-reassessment/AA308C01F4BE44F11B3AEC47249F868C"
+      },
+      {
+        "label": "Bailey, Economic History Review (2025)",
+        "url": "https://doi.org/10.1111/ehr.13355"
+      },
+      {
+        "label": "Impact économique de la peste noire, Journal of Economic Literature",
+        "url": "https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639"
+      },
+      {
+        "label": "Université Fordham, documents médiévaux sur la peste et les Juifs",
+        "url": "https://sourcebooks.fordham.edu/jewish/1348-jewsblackdeath.asp"
+      },
+      {
+        "label": "Étude du masque de médecin de peste",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quelle est la cause de la peste noire ?",
+        "answer": "La peste noire est due à Yersinia pestis. La forme bubonique se transmet souvent par la piqûre de puces infectées ; la forme pulmonaire peut passer par des gouttelettes respiratoires. L’ADN ancien du Kirghizstan, daté de 1338–1339, révèle une souche étroitement liée à l’ascendance des lignées pandémiques."
+      },
+      {
+        "question": "Les Mongols ont-ils catapulté des victimes de la peste dans Caffa ?",
+        "answer": "Gabriele de’ Mussi décrit des assaillants projetant des cadavres dans Caffa, mais il n’était pas témoin. Les historiens débattent de la fiabilité du récit et de son rôle dans la transmission vers la Méditerranée."
+      },
+      {
+        "question": "Combien de personnes sont mortes de la peste noire ?",
+        "answer": "Le total est inconnu. Les historiens estiment souvent qu’environ un tiers à la moitié de la population européenne est morte lors de la première vague, avec de grandes variations régionales et des chiffres de population incertains."
+      },
+      {
+        "question": "La peste noire a-t-elle mis fin au féodalisme ?",
+        "answer": "Non. La pénurie de main-d’œuvre renforça le pouvoir de négociation de certains travailleurs et modifia les relations foncières, mais les effets varièrent selon les régions et se déroulèrent sur plusieurs générations."
+      },
+      {
+        "question": "Les médecins médiévaux portaient-ils un masque à bec ?",
+        "answer": "Le masque à bec familier est associé aux médecins de peste à partir du milieu du XVIIe siècle, plusieurs siècles après la première vague de 1347–1353."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/blacktip-shark-hearing-underwater-sound-study/",
     "path": "/ar/articles/blacktip-shark-hearing-underwater-sound-study/",
     "kind": "article",
