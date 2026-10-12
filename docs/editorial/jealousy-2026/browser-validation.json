@@ -1,0 +1,455 @@
+{
+  "checkedAt": "2026-10-12T05:24:27.936Z",
+  "checks": [
+    {
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "THE PSYCHOLOGY OF "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "JEALOUSY"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": WHEN LOVE TURNS INTO "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "SUSPICION"
+        }
+      ],
+      "dir": "ltr",
+      "faq": 6,
+      "fit": "cover",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 778.5000457763672,
+        "height": 641.3333740234375,
+        "width": 1232.666748046875,
+        "x": 16,
+        "y": 137.1666717529297
+      },
+      "loaded": true,
+      "locale": "en",
+      "media": {
+        "bottom": 777.8333435058594,
+        "height": 640,
+        "width": 1231.3333740234375,
+        "x": 16.666667938232422,
+        "y": 137.83334350585938
+      },
+      "mediaPosition": "absolute",
+      "naturalWidth": 838,
+      "overflow": false,
+      "title": {
+        "bottom": 539.0416870117188,
+        "height": 149.28125,
+        "width": 472.7708435058594,
+        "x": 72.66667175292969,
+        "y": 389.7604370117187
+      },
+      "size": "desktop",
+      "stage": "local"
+    },
+    {
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "LA PSYCHOLOGIE DE LA "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "JALOUSIE"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " : QUAND L’AMOUR DEVIENT "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "SUSPICION"
+        }
+      ],
+      "dir": "ltr",
+      "faq": 6,
+      "fit": "cover",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 778.5000457763672,
+        "height": 641.3333740234375,
+        "width": 1232.666748046875,
+        "x": 16,
+        "y": 137.1666717529297
+      },
+      "loaded": true,
+      "locale": "fr",
+      "media": {
+        "bottom": 777.8333435058594,
+        "height": 640,
+        "width": 1231.3333740234375,
+        "x": 16.666667938232422,
+        "y": 137.83334350585938
+      },
+      "mediaPosition": "absolute",
+      "naturalWidth": 559,
+      "overflow": false,
+      "title": {
+        "bottom": 539.0416717529297,
+        "height": 199.0416717529297,
+        "width": 472.7708435058594,
+        "x": 72.66667175292969,
+        "y": 340
+      },
+      "size": "desktop",
+      "stage": "local"
+    },
+    {
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "LA PSICOLOGÍA DE LOS "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "CELOS"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": CUANDO EL AMOR SE CONVIERTE EN "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "SOSPECHA"
+        }
+      ],
+      "dir": "ltr",
+      "faq": 6,
+      "fit": "cover",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 778.5000457763672,
+        "height": 641.3333740234375,
+        "width": 1232.666748046875,
+        "x": 16,
+        "y": 137.1666717529297
+      },
+      "loaded": true,
+      "locale": "es",
+      "media": {
+        "bottom": 777.8333435058594,
+        "height": 640,
+        "width": 1231.3333740234375,
+        "x": 16.666667938232422,
+        "y": 137.83334350585938
+      },
+      "mediaPosition": "absolute",
+      "naturalWidth": 559,
+      "overflow": false,
+      "title": {
+        "bottom": 568.6146087646484,
+        "height": 199.0416717529297,
+        "width": 472.7708435058594,
+        "x": 72.66667175292969,
+        "y": 369.5729370117187
+      },
+      "size": "desktop",
+      "stage": "local"
+    },
+    {
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "سيكولوجية "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "الغيرة"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": حين يتحول الحب إلى "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "الشك"
+        }
+      ],
+      "dir": "rtl",
+      "faq": 6,
+      "fit": "cover",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 778.5000457763672,
+        "height": 641.3333740234375,
+        "width": 1232.666748046875,
+        "x": 16,
+        "y": 137.1666717529297
+      },
+      "loaded": true,
+      "locale": "ar",
+      "media": {
+        "bottom": 777.8333435058594,
+        "height": 640,
+        "width": 1231.3333740234375,
+        "x": 16.666667938232422,
+        "y": 137.83334350585938
+      },
+      "mediaPosition": "absolute",
+      "naturalWidth": 559,
+      "overflow": false,
+      "title": {
+        "bottom": 598.1875152587891,
+        "height": 124.41667175292967,
+        "width": 472.7708435058594,
+        "x": 719.2291870117188,
+        "y": 473.7708435058594
+      },
+      "size": "desktop",
+      "stage": "local"
+    },
+    {
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "سيكولوجية "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "الغيرة"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": حين يتحول الحب إلى "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "الشك"
+        }
+      ],
+      "dir": "rtl",
+      "faq": 6,
+      "fit": "contain",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 648.9375457763672,
+        "height": 523.7708740234375,
+        "width": 350.66668701171875,
+        "x": 12,
+        "y": 125.16667175292967
+      },
+      "loaded": true,
+      "locale": "ar",
+      "media": {
+        "bottom": 321.23958587646484,
+        "height": 195.40625,
+        "width": 349.3333435058594,
+        "x": 12.666666984558104,
+        "y": 125.83333587646484
+      },
+      "mediaPosition": "relative",
+      "naturalWidth": 390,
+      "overflow": false,
+      "title": {
+        "bottom": 471.8645935058594,
+        "height": 78.625,
+        "width": 309.3333435058594,
+        "x": 32.66666793823242,
+        "y": 393.2395935058594
+      },
+      "size": "mobile",
+      "stage": "local"
+    },
+    {
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "LA PSICOLOGÍA DE LOS "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "CELOS"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": CUANDO EL AMOR SE CONVIERTE EN "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "SOSPECHA"
+        }
+      ],
+      "dir": "ltr",
+      "faq": 6,
+      "fit": "contain",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 737.9479217529297,
+        "height": 612.78125,
+        "width": 350.66668701171875,
+        "x": 12,
+        "y": 125.16667175292967
+      },
+      "loaded": true,
+      "locale": "es",
+      "media": {
+        "bottom": 321.23958587646484,
+        "height": 195.40625,
+        "width": 349.3333435058594,
+        "x": 12.666666984558104,
+        "y": 125.83333587646484
+      },
+      "mediaPosition": "relative",
+      "naturalWidth": 390,
+      "overflow": false,
+      "title": {
+        "bottom": 534.7395935058594,
+        "height": 141.5,
+        "width": 309.3333435058594,
+        "x": 32.66666793823242,
+        "y": 393.2395935058594
+      },
+      "size": "mobile",
+      "stage": "local"
+    },
+    {
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "LA PSYCHOLOGIE DE LA "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "JALOUSIE"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " : QUAND L’AMOUR DEVIENT "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "SUSPICION"
+        }
+      ],
+      "dir": "ltr",
+      "faq": 6,
+      "fit": "contain",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 764.0833587646484,
+        "height": 638.9166870117188,
+        "width": 350.66668701171875,
+        "x": 12,
+        "y": 125.16667175292967
+      },
+      "loaded": true,
+      "locale": "fr",
+      "media": {
+        "bottom": 321.23958587646484,
+        "height": 195.40625,
+        "width": 349.3333435058594,
+        "x": 12.666666984558104,
+        "y": 125.83333587646484
+      },
+      "mediaPosition": "relative",
+      "naturalWidth": 390,
+      "overflow": false,
+      "title": {
+        "bottom": 534.7395935058594,
+        "height": 141.5,
+        "width": 309.3333435058594,
+        "x": 32.66666793823242,
+        "y": 393.2395935058594
+      },
+      "size": "mobile",
+      "stage": "local"
+    },
+    {
+      "colors": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "THE PSYCHOLOGY OF "
+        },
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "JEALOUSY"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": WHEN LOVE TURNS INTO "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "SUSPICION"
+        }
+      ],
+      "dir": "ltr",
+      "faq": 6,
+      "fit": "contain",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 705.7083587646484,
+        "height": 580.5416870117188,
+        "width": 350.66668701171875,
+        "x": 12,
+        "y": 125.16667175292967
+      },
+      "loaded": true,
+      "locale": "en",
+      "media": {
+        "bottom": 321.23958587646484,
+        "height": 195.40625,
+        "width": 349.3333435058594,
+        "x": 12.666666984558104,
+        "y": 125.83333587646484
+      },
+      "mediaPosition": "relative",
+      "naturalWidth": 390,
+      "overflow": false,
+      "title": {
+        "bottom": 499.3645935058594,
+        "height": 106.125,
+        "width": 309.3333435058594,
+        "x": 32.66666793823242,
+        "y": 393.2395935058594
+      },
+      "size": "mobile",
+      "stage": "local"
+    }
+  ],
+  "faqInteraction": "English mobile first FAQ opened and answer visible",
+  "sharedLayout": "Existing desktop Jellyfish layout, mobile CSS unchanged"
+}

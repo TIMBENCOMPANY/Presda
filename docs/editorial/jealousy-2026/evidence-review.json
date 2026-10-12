@@ -1,0 +1,226 @@
+{
+  "checkedAt": "2026-10-12",
+  "sources": {
+    "apa": {
+      "url": "https://dictionary.apa.org/jealousy",
+      "labels": [
+        "APA: jealousy",
+        "APA : jalousie",
+        "APA: celos",
+        "تعريف الغيرة في APA"
+      ]
+    },
+    "envy": {
+      "url": "https://dictionary.apa.org/envy",
+      "labels": [
+        "APA: envy",
+        "APA : envie",
+        "APA: envidia",
+        "تعريف الحسد في APA"
+      ]
+    },
+    "evolution": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12676643/",
+      "labels": [
+        "Harris, 2003 review",
+        "Revue de Harris, 2003",
+        "Revisión de Harris, 2003",
+        "مراجعة هاريس، 2003"
+      ]
+    },
+    "choices": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11892782/",
+      "labels": [
+        "Harris, 2002 study",
+        "Étude de Harris, 2002",
+        "Estudio de Harris, 2002",
+        "دراسة هاريس، 2002"
+      ]
+    },
+    "brain": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16829139/",
+      "labels": [
+        "Takahashi et al., 2006",
+        "Takahashi et collègues, 2006",
+        "Takahashi y colegas, 2006",
+        "تاكاهاشي وزملاؤه، 2006"
+      ]
+    },
+    "self": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17014289/",
+      "labels": [
+        "DeSteno et al., 2006",
+        "DeSteno et collègues, 2006",
+        "DeSteno y colegas, 2006",
+        "ديستينو وزملاؤه، 2006"
+      ]
+    },
+    "attachment": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38024565/",
+      "labels": [
+        "Chursina, 2023",
+        "Chursina, 2023",
+        "Chursina, 2023",
+        "تشورسينا، 2023"
+      ]
+    },
+    "social": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19366318/",
+      "labels": [
+        "Muise et al., 2009",
+        "Muise et collègues, 2009",
+        "Muise y colegas, 2009",
+        "ميوز وزملاؤه، 2009"
+      ]
+    },
+    "control": {
+      "url": "https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/",
+      "labels": [
+        "NHS: coercive control",
+        "NHS : contrôle coercitif",
+        "NHS: control coercitivo",
+        "NHS: السيطرة القسرية"
+      ]
+    },
+    "clinical": {
+      "url": "https://doi.org/10.1192/apt.10.3.207",
+      "labels": [
+        "Kingham and Gordon, 2004",
+        "Kingham et Gordon, 2004",
+        "Kingham y Gordon, 2004",
+        "كينغهام وغوردون، 2004"
+      ]
+    },
+    "othello": {
+      "url": "https://doi.org/10.1111/j.1468-1331.2011.03412.x",
+      "labels": [
+        "Graff-Radford et al., 2012",
+        "Graff-Radford et collègues, 2012",
+        "Graff-Radford y colegas, 2012",
+        "غراف رادفورد وزملاؤه، 2012"
+      ]
+    },
+    "therapy": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8733797/",
+      "labels": [
+        "Dolan and Bishay, 1996",
+        "Dolan et Bishay, 1996",
+        "Dolan y Bishay, 1996",
+        "دولان وبشاي، 1996"
+      ]
+    },
+    "couples": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15709841/",
+      "labels": [
+        "Atkins et al., 2005",
+        "Atkins et collègues, 2005",
+        "Atkins y colegas, 2005",
+        "أتكينز وزملاؤه، 2005"
+      ]
+    },
+    "safety": {
+      "url": "https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/",
+      "labels": [
+        "Specialist counselling guidance",
+        "Conseils spécialisés sur la consultation",
+        "Orientación especializada sobre terapia",
+        "إرشادات متخصصة بشأن الاستشارة"
+      ]
+    },
+    "lieInternal": {
+      "url": "/articles/lie-detectors-can-science-really-detect-deception/",
+      "labels": [
+        "lie detectors",
+        "les détecteurs de mensonges",
+        "detectores de mentiras",
+        "أجهزة كشف الكذب"
+      ]
+    },
+    "paranoiaInternal": {
+      "url": "/articles/paranoia-why-do-we-feel-watched/",
+      "labels": [
+        "paranoia",
+        "la paranoïa",
+        "paranoia",
+        "الارتياب"
+      ]
+    }
+  },
+  "blocks": 39,
+  "faqs": 5,
+  "review": {
+    "scope": "Original investigation. No invented patient testimony, diagnoses, quotations, gender rules or cure rates. Opening and checking sequence explicitly illustrative.",
+    "distinctions": [
+      "Emotion is not evidence of infidelity or permission to control. Jealousy differs from envy, suspicion and possessiveness. Agreements and consent determine boundaries.",
+      "Evolutionary proposals and social-cognitive accounts are hypotheses at different explanatory levels. Forced-choice studies cannot prescribe individual gender responses.",
+      "fMRI of imagined infidelity is not a lie detector, a unique jealousy centre or proof of an innate module.",
+      "Attachment questionnaires and 2009 Facebook survey show associations, not demonstrated causal direction.",
+      "Othello syndrome is particularly delusional jealousy; broader morbid jealousy can include obsessional and overvalued forms. No remote diagnosis.",
+      "Clinical series is selected, not prevalence. Dopamine associations are not a simple cause and require prescriber assessment.",
+      "Treatment evidence limited. Actual betrayal deserves acknowledgement. Abuse requires confidential safety support, not password surrender or blanket couples-therapy advice."
+    ],
+    "verifiedStudies": [
+      {
+        "year": 2002,
+        "author": "Harris",
+        "n": 196,
+        "design": "Heterosexual and homosexual adults; forced choice and other measures differ."
+      },
+      {
+        "year": 2003,
+        "author": "Harris",
+        "design": "Critical review of strong innate sex-specific module account; not consensus that no differences exist."
+      },
+      {
+        "year": 2006,
+        "author": "Takahashi et al.",
+        "design": "fMRI imagined sexual and emotional infidelity, activation differences without sex difference in self-ratings; no sample size claimed."
+      },
+      {
+        "year": 2006,
+        "author": "DeSteno et al.",
+        "design": "Two orchestrated social experiments concerning threatened self-evaluation; limited generalisation to romantic relationships."
+      },
+      {
+        "year": 2023,
+        "author": "Chursina",
+        "n": 171,
+        "design": "Heterosexual self-report sample; emotional jealousy across attachment types. Publication wording about primacy not accepted as causal proof."
+      },
+      {
+        "year": 2009,
+        "author": "Muise et al.",
+        "n": 308,
+        "design": "Undergraduate cross-sectional Facebook survey; proposed feedback loop, not observed universal causal sequence."
+      },
+      {
+        "year": 2004,
+        "author": "Kingham and Gordon",
+        "design": "Clinical review, DOI publication year 2004, not website upload 2018."
+      },
+      {
+        "year": 2012,
+        "author": "Graff-Radford et al.",
+        "n": 105,
+        "neurological": 73,
+        "design": "Retrospective selected Mayo Clinic series, journal issue 2012, online 2011."
+      },
+      {
+        "year": 1996,
+        "author": "Dolan and Bishay",
+        "n": 30,
+        "design": "Non-psychotic morbid jealousy outpatient referrals, immediate/delayed treatment, improvement includes partner ratings. No invented randomisation or cure rate."
+      },
+      {
+        "year": 2005,
+        "author": "Atkins et al.",
+        "infidelitySubgroup": 19,
+        "parentTrial": 134,
+        "design": "Exploratory subgroup in marital-therapy RCT, cannot guarantee reconciliation."
+      }
+    ],
+    "hero": "Approved source copied unchanged with optimized derivatives, explicitly AI-generated imagined dispute, not documentary evidence.",
+    "localization": "39 matching blocks, identical citation destinations per block, 5 FAQs, natural EN/FR/AR/ES terminology. No em dashes.",
+    "medicalReview": "Evidence and localization reviewed by PRESDA Editorial; no invented named clinical reviewer or credential."
+  }
+}

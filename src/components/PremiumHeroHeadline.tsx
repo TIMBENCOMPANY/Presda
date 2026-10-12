@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "psychology-of-jealousy-when-love-turns-into-suspicion": {
+    en: { red: "JEALOUSY", gold: "SUSPICION" },
+    fr: { red: "JALOUSIE", gold: "SUSPICION" },
+    ar: { red: "الغيرة", gold: "الشك" },
+    es: { red: "CELOS", gold: "SOSPECHA" }
+  },
   "sleep-paralysis-when-you-wake-up-but-cannot-move": {
     en: { red: "PARALYSIS", gold: "WAKE UP" },
     fr: { red: "PARALYSIE", gold: "RÉVEILLE" },

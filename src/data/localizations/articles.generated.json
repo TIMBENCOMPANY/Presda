@@ -254696,6 +254696,861 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/psychology-of-jealousy-when-love-turns-into-suspicion/",
+    "path": "/ar/articles/psychology-of-jealousy-when-love-turns-into-suspicion/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "PRESDA evidence and localization review: attachment associations, experimental limits, clinical distinctions and limited treatment evidence",
+      "reviewedAt": "2026-10-12",
+      "terminologyChecked": true
+    },
+    "title": "سيكولوجية الغيرة: حين يتحول الحب إلى الشك",
+    "seoTitle": "سيكولوجية الغيرة: التعلق والشك وإعادة بناء الثقة",
+    "description": "لماذا نشعر بالغيرة؟ تحقيق في علم النفس والدماغ والتعلق، والفارق بين الخوف والسيطرة، وحدود الأدلة على العلاج واستعادة الثقة.",
+    "excerpt": "لماذا نشعر بالغيرة؟ تحقيق في علم النفس والدماغ والتعلق، والفارق بين الخوف والسيطرة، وحدود الأدلة على العلاج واستعادة الثقة.",
+    "headlineHighlights": {
+      "red": "الغيرة",
+      "gold": "الشك"
+    },
+    "keywords": [
+      "سيكولوجية الغيرة",
+      "الغيرة العاطفية",
+      "التعلق",
+      "متلازمة عطيل",
+      "الثقة في العلاقات"
+    ],
+    "searchIntent": "لماذا نشعر بالغيرة؟ تحقيق في علم النفس والدماغ والتعلق، والفارق بين الخوف والسيطرة، وحدود الأدلة على العلاج واستعادة الثقة.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-12",
+    "updatedAt": "2026-10-12",
+    "image": {
+      "src": "/articles/jealousy-couple-argument-ai.png",
+      "alt": "رسم تحريري مولد بالذكاء الاصطناعي لزوجين متخيلين يتجادلان حول رسائل هاتفية في غرفة معيشة"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "يضيء هاتف بين شخصين كانا يظنان أنهما يعرفان بعضهما جيدا. يظهر اسم، ويتأخر رد، فتكتسب الأمسية العادية قصة ثانية. ربما توجد خيانة، وربما لا يوجد شيء من ذلك. في هذا المشهد المتخيل يحدث التحول الأهم قبل أن ينطق أحدهما: يبدأ الغموض في اكتساب قوة الدليل، ويصبح احتمال عابر رواية تبدو مكتملة رغم أن التفاصيل الحقيقية ما زالت مجهولة."
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تجعل الغيرة علاقة ثمينة تبدو فجأة قابلة للانهيار. تمتزج فيها مشاعر الخوف والغضب والحزن والمقارنة، وقد تقود إلى حوار معقول أو تحقيق لا يصل إلى نهاية مقنعة. فهمها يتطلب الفصل بين الشعور والتفسير والتصرف. الإحساس بالتهديد لا يثبت الخيانة، والألم لا يمنح صاحبه حق التحكم بحرية شخص آخر. يستند هذا التحقيق إلى أبحاث تحققت منها PRESDA في أكتوبر 2026، مع بيان حدودها وعدم تحويل نتائجها إلى أحكام على الأفراد."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الغيرة ليست مجرد اسم آخر للحسد"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعرّف الجمعية الأمريكية لعلم النفس الغيرة بالتهديد الذي يطال علاقة مهمة بسبب منافس حقيقي أو متصور. أما الحسد فيتعلق بالرغبة في ميزة أو صفة يمتلكها شخص آخر. قد تحسد ثقته بنفسه وتخشى في الوقت نفسه أن يراه شريكك أكثر جاذبية. تتداخل التجربتان، لكن الرغبة فيما يملكه الآخر تختلف عن الخوف من فقدان ارتباط يهمك. هذا الفرق يساعد على فهم السؤال الذي يخفيه الشعور. [تعريف الغيرة في APA](https://dictionary.apa.org/jealousy) [تعريف الحسد في APA](https://dictionary.apa.org/envy)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الشك تفسير يفترض أن أمرا ما قد يكون غير سليم. والتملك سلوك يقوم على الاعتقاد بأن لك حق تقييد اختيارات الشريك. لذلك تختلف وخزة شعورية عابرة عن اتهام أو مطالبة بتسليم كلمة المرور. تختلف العلاقات أيضا في اتفاقاتها بشأن الحصرية العاطفية والجنسية. المهم هو الاتفاق الفعلي والرضا المتبادل، لا قاعدة مفترضة تعتبر أي حديث ودي خيانة. ولا يكفي أن يسمي أحد الطرفين مطلبه حبا ليصبح مقبولا لدى الطرف الآخر."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "احتمال تطوري لا أمر بيولوجي"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقترح تفسيرات تطورية أن الحساسية تجاه تهديد العلاقة ربما ساعدت على الحفاظ على الروابط وفرص التكاثر. وتركز تفسيرات اجتماعية ومعرفية على التوقعات المتعلمة والمقارنات وتأويل الأحداث. تعمل هذه المقاربات على مستويات مختلفة ولا يلزم أن تتعارض جميعها. اقتراح أصل محتمل للشعور لا يثبت أن كل تعبير عنه مفيد اليوم. كما لا يحول التخويف إلى غريزة لا يمكن ضبطها، ولا يلغي مسؤولية الإنسان عن السلوك الذي يختاره عندما يخاف."
+      },
+      {
+        "type": "paragraph",
+        "text": "القول الشائع إن الرجال يخافون بطبيعتهم الخيانة الجنسية والنساء الخيانة العاطفية يختزل نقاشا أكثر تعقيدا. انتقدت مراجعة كريستين هاريس المنشورة عام 2003 نسخة قوية من تفسير الغيرة بوحدات فطرية خاصة بكل جنس. تتأثر النتائج بطريقة السؤال، وبالتمييز بين المواقف المتخيلة والتجارب الفعلية، وبالأشخاص الذين تشملهم العينة. لا يحدد فرق إحصائي في دراسة ما ما ينبغي لشخص معين أن يشعر به، ولا يبرر توقعات نمطية عن النساء والرجال. [مراجعة هاريس، 2003](https://pubmed.ncbi.nlm.nih.gov/12676643/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "شملت دراسة هاريس عام 2002 عدد 196 بالغا من مغايري ومثليي التوجه الجنسي. أظهر الاختيار الإجباري بين خيانتين متخيلتين أنماطا مختلفة عن بعض المقاييس الأخرى والتجارب المبلغ عنها. اختيار الاحتمال الأكثر إيلاما لا يعني أن الاحتمال الثاني غير مهم. لذلك يجب أن تراعي الأبحاث التوجه الجنسي والثقافة وسياق العلاقة، بدلا من تقديم إجابة عن استبيان محدود باعتبارها وصفا شاملا لكل البشر أو برهانا نهائيا على طبيعتهم. [دراسة هاريس، 2002](https://pubmed.ncbi.nlm.nih.gov/11892782/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ما الذي تستطيع صورة الدماغ أن تكشفه؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "في دراسة بالرنين المغناطيسي الوظيفي عام 2006، طلب هيديهيكو تاكاهاشي وزملاؤه تخيل سيناريوهات للخيانة الجنسية أو العاطفية. وجدوا فروقا في التنشيط بين الرجال والنساء، رغم عدم وجود فرق بحسب الجنس في تقييم المشاركين الذاتي للغيرة. كانت المهمة استجابة لجمل معدة، لا اكتشاف علاقات خفية حقيقية. توفر التجربة مؤشرات لفهم معالجة تهديدات اجتماعية معقدة، لكن نقل نتائجها مباشرة إلى الحياة اليومية يتجاوز ما اختبرته بالفعل. [تاكاهاشي وزملاؤه، 2006](https://pubmed.ncbi.nlm.nih.gov/16829139/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تنشيط الدماغ لا يقرأ نوايا الشريك. مناطق الانفعال والانتباه والتفسير الاجتماعي تشارك في تجارب كثيرة، لذلك لا يحدد التصوير مركزا حصريا للغيرة ولا يصادق على صحة اتهام. كما لا يثبت اختلاف النشاط وجود وحدة تطورية فطرية. قوة الشعور حقيقية، لكنها لا تتحول بفضل علم الأعصاب إلى جهاز موثوق لكشف الخيانة. يشرح تحقيقنا عن [أجهزة كشف الكذب](/articles/lie-detectors-can-science-really-detect-deception/) الفرق نفسه بين الاستجابة الجسدية والحقيقة: ما يحدث داخل الشخص ليس بالضرورة دليلا على ما يفعله الآخر."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "حين تصبح العلاقة المهددة تهديدا لقيمة الذات"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يبدو فقدان الشريك تهديدا يتجاوز الرفقة، فيمس الإحساس بالجاذبية وبأنك مختار وجدير بالرعاية. استخدمت تجربتا ديستينو وفالديسولو وبارتليت المنشورتان عام 2006 لقاءات اجتماعية مدبرة لدراسة الغيرة وتقييم الذات. تدعم النتائج دورا لتهديد تقدير الذات. لكن لقاء مختبريا لا يعيد إنتاج تاريخ علاقة طويلة ومسؤولياتها وتبعاتها العملية. ولا ينبغي أن يتحول تفسير نفسي محتمل إلى افتراض أن كل من يغار يحمل بالضرورة المشكلة الداخلية نفسها. [ديستينو وزملاؤه، 2006](https://pubmed.ncbi.nlm.nih.gov/17014289/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يخفي الاتهام سؤالا آخر: ماذا سيقول هذا الفقد عن قيمتي؟ يصبح المنافس مقياسا للنقص الشخصي حتى إن لم تقع خيانة. لكن الغيرة لا تثبت انخفاض تقدير الذات، والثقة بالنفس لا تمنح حصانة من الألم. وقد تمنح خيانة سابقة أسبابا مفهومة للحذر. اعتبار كل قلق مجرد انعدام أمان قد يصبح وسيلة لتجنب مناقشة كذب حقيقي. التوازن هو أخذ الشعور بجدية دون اعتباره وحده حكما نهائيا على الواقع أو على صاحبه."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "التعلق يشكل التوقعات ولا يقرر المصير"
+      },
+      {
+        "type": "paragraph",
+        "text": "تبحث دراسات التعلق كيف يطلب الناس القرب ويتعاملون مع احتمال الرفض. يتضمن قلق التعلق الخوف بشأن توافر الشريك والهجر، بينما يرتبط التجنب بعدم الارتياح للاعتماد أو القرب. هذه أبعاد للتجربة وليست تشخيصات أو هويات ثابتة. قد يستجيب الشخص نفسه بصورة مختلفة في علاقات تختلف في الأمان والاستقرار والرعاية المتبادلة. ولهذا تكون ملاحظة ما يحدث بين الطرفين أكثر فائدة من اختزال أحدهما في تسمية سريعة مأخوذة من اختبار على الإنترنت."
+      },
+      {
+        "type": "paragraph",
+        "text": "درست أبوليناريا تشورسينا عام 2023 عينة من 171 مشاركا مغاير التوجه الجنسي باستخدام استبيانات. ارتبطت أنماط التعلق بأشكال من الغيرة؛ ظهرت الغيرة الانفعالية عبر الأنماط، بينما اختلفت أبعاد الأفكار والسلوك. لم تكن تجربة تعدل الخبرات الطفولية. لذلك لا تثبت البيانات الذاتية أن نمط التعلق يسبب الغيرة، ولا تمثل العينة كل الثقافات والعلاقات. استعمال كلمة تأثير في عنوان الدراسة لا يعوض الحاجة إلى التمييز بين الارتباط والسببية عند قراءة نتائجها. [تشورسينا، 2023](https://pubmed.ncbi.nlm.nih.gov/38024565/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يؤثر الماضي في معنى الرد المتأخر دون أن يحدد معناه الآن. يمكن الاعتراف بالحساسية الناتجة عن خيانة سابقة مع فحص الأدلة في العلاقة الحالية. فهم هذا الضعف مفيد عندما يعزز المسؤولية والحوار. ويصبح مؤذيا عندما يستخدم لفرض توافر دائم على الآخر كي يمنع كل شعور مزعج. يحتاج التاريخ المؤلم إلى اهتمام، لكن الشريك الحالي ليس مسؤولا عن إزالة كل غموض من العالم أو تقديم ضمان يستحيل تحقيقه."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "وسائل التواصل تمنح قرائن بلا سياق"
+      },
+      {
+        "type": "paragraph",
+        "text": "إعجاب ومتابع جديد وصورة ورسالة تمت قراءتها: آثار سهلة العد وصعبة الفهم. تعرض المنصة شذرات دون الحديث المحيط بها، وقد تمنح شعورا وهميا بالوصول إلى حياة الشريك الداخلية. رؤية معلومات أكثر لا تعني دائما فهم دوافعه أو اتفاقات العلاقة أو يومه بصورة أفضل. وقد تتحول سرعة الرد إلى مقياس متخيل للمحبة، رغم أن السياق الذي يفسرها لا يظهر على الشاشة ولا يمكن استنتاجه من توقيت واحد."
+      },
+      {
+        "type": "paragraph",
+        "text": "ربط استبيان ميوز وكريستوفيدس وديزماريه عام 2009، الذي شمل 308 طلاب جامعيين، كثرة استخدام فيسبوك بالغيرة المرتبطة بالمنصة. اقترح الباحثون حلقة بين المعلومات الغامضة ومزيد من التحقق. لا يثبت هذا الارتباط المقطعي ما الذي يسبق الآخر. وعينة طلابية من مرحلة مبكرة لفيسبوك لا تقيس أثر جميع المنصات والعلاقات في 2026. تبقى الدراسة مهمة بوصفها سؤالا بحثيا، لا نسبة جاهزة لتفسير كل خلاف معاصر. [ميوز وزملاؤه، 2009](https://pubmed.ncbi.nlm.nih.gov/19366318/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تبدأ حلقة توضيحية بقلق يدفع إلى البحث، ثم تهدأ مؤقتا بعد طمأنة وتعود مع غموض جديد. قد لا يقدم المزيد من التحقق اليقين المطلوب. وتثير الرسائل الخاصة وتعقب الموقع مسألة مستقلة هي الرضا. الاتفاق الحر على حدود رقمية يختلف عن دخول حساب سرا أو المطالبة بإثبات دائم للبراءة. قد تسهل التكنولوجيا السيطرة القسرية، لا مجرد الفضول القلق، ولا يجعل توفر أداة المراقبة استعمالها حقا مكتسبا في العلاقة. [NHS: السيطرة القسرية](https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الشعور لا يمنح ترخيصا للسيطرة"
+      },
+      {
+        "type": "paragraph",
+        "text": "يقصد بعض الناس بالغيرة الصحية شعورا متناسبا يمكن التعبير عنه باحترام مع تحمل قدر من عدم اليقين. لا يعني ذلك أن الغيرة لازمة للحب أو أن افتعالها يقوي العلاقة. غيابها لا يثبت اللامبالاة أيضا. التمييز المفيد هو احترام الاستجابة للواقع والتناسب واستقلال الطرفين. قد يشير الانفعال إلى سؤال يستحق الحوار، لكنه لا يحول الخوف إلى التزام على الآخر بتنفيذ كل طلب أو التخلي عن حياته الخاصة."
+      },
+      {
+        "type": "paragraph",
+        "text": "الاستجواب المتكرر والإهانة والعزل وفرض القيود على الملابس والصداقات والعمل سلوكيات خطيرة حتى إن سميت إخلاصا. تدرج إرشادات الحماية في NHS المراقبة والعزل ضمن سلوكيات السيطرة. لا تعني مشاجرة واحدة تلقائيا وجود علاقة مسيئة. لكن نمطا يجعل الإنسان يخاف ممارسة حريته المعتادة يستلزم الاهتمام بالأمان وتوزيع القوة، لا مجرد زيادة الطمأنة. تفسير سبب الغيرة لا ينبغي أن يحجب أثر السلوك على الشخص الذي يتعرض له. [NHS: السيطرة القسرية](https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "حين يستحوذ الشك على الحياة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف الغيرة المرضية انشغالا ذا أهمية سريرية قد يأخذ صورا مختلفة. الشكوك الاقتحامية التي يقر صاحبها باحتمال عدم معقوليتها تختلف عن اعتقاد ثابت بالخيانة يقاوم الأدلة المناقضة. ميزت مراجعة كينغهام وغوردون السريرية عام 2004 بين الوساوس والأفكار المبالغ في قيمتها والأوهام. ترتبط تسمية متلازمة عطيل خصوصا بالغيرة الوهمية، ولا يجوز استخدامها لتشخيص شخص بعد خلاف واحد أو استبيان إلكتروني. تتطلب اللغة السريرية فحصا حقيقيا لا مجرد انطباع عن شدة المشاعر. [كينغهام وغوردون، 2004](https://doi.org/10.1192/apt.10.3.207)"
+      },
+      {
+        "type": "paragraph",
+        "text": "فحصت سلسلة حالات استعادية من مايو كلينك، نشرت عام 2012، عدد 105 مرضى بهذه المتلازمة؛ كان لدى 73 منهم اضطرابات عصبية. ليست هذه العينة السريرية المنتقاة مسحا لانتشار الحالة بين الشركاء الغيورين. توضح الحاجة إلى تقييم الأمراض العصبية والأعراض النفسية والمواد والأدوية عند ظهور اعتقاد جديد وثابت. ولا تعني الارتباطات الدوائية أن الدوبامين سبب بسيط للغيرة. تعديل العلاج يتطلب الطبيب الواصف، لا تجربة ذاتية بناء على مقال. [غراف رادفورد وزملاؤه، 2012](https://doi.org/10.1111/j.1468-1331.2011.03412.x)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يراعي التقييم المعاناة وقوة الاعتقاد والأداء والمخاطر على جميع المعنيين. تستدعي التغيرات المفاجئة والاتهامات المستمرة دون أدلة والتهديدات المتصاعدة مساعدة مهنية. ويجب أيضا فحص الأحداث الفعلية في العلاقة دون افتراض كذب كل ادعاء. معظم مشاعر الغيرة ليست أوهاما، والتفسير النفسي لا يعذر الإساءة ولا يعني أن أصحاب الاضطرابات النفسية خطرون عموما. يوضح تحقيقنا عن [الارتياب](/articles/paranoia-why-do-we-feel-watched/) الفروق القريبة بين الشك والاعتقاد الاضطهادي الثابت، مع تجنب التشخيص عن بعد."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "إدارة الغيرة تعني تغيير الاستجابة"
+      },
+      {
+        "type": "paragraph",
+        "text": "في النوبات العادية، نقطة البداية المفيدة هي فصل الملاحظة عن الاستنتاج: تأخر الرد ملاحظة، ووجود علاقة خفية استنتاج. يمكن التوقف قبل المواجهة أو التفتيش، وتحديد الفقد المخيف، ومناقشة قلق محدد دون تهديد. هذه تطبيقات عملية لمبادئ معرفية وسلوكية، وليست وصفة مضمونة. قد تحتاج المشاعر الشديدة إلى وقت ودعم بدلا من حكم فوري. ويمكن صياغة السؤال بطريقة تترك مجالا للإجابة، بدلا من تقديم اتهام لا تقبل فيه إلا الاعتراف."
+      },
+      {
+        "type": "paragraph",
+        "text": "درست دولان وبشاي عام 1996 العلاج المعرفي لدى 30 مريضا خارجيا بغيرة مرضية غير ذهانية، مع مجموعتي علاج فوري ومؤجل. ارتبط العلاج بتحسن شمل تقييمات الشركاء أيضا. تدعم الدراسة الصغيرة الاهتمام بعلاج موجه، ولا تثبت شفاء عاما أو قاعدة ضخمة من التجارب الحديثة. قد يشمل العمل التفسيرات وطلب الطمأنة والاستجابات السلوكية، ويجب أن يناسب التقييم وأي حالة كامنة. قوة الدليل هنا أقل من وعد تجاري بإزالة الغيرة نهائيا. [دولان وبشاي، 1996](https://pubmed.ncbi.nlm.nih.gov/8733797/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تساعد الحدود المتفق عليها على توضيح معنى الخيانة والتواصل مع الشركاء السابقين والخصوصية المقبولة. ينبغي أن تكون الاتفاقات طوعية وقابلة للنقاش. تسليم كلمات المرور بالإكراه ليس علاجا مثبتا، وإثبات البراءة بلا نهاية قد يترك مطلب اليقين كما هو. وقد تشمل استعادة الثقة بالنفس الحفاظ على الصداقات والأنشطة المهمة وقيمة شخصية لا تعتمد فقط على قبول الشريك. الخصوصية لا تساوي الخداع تلقائيا، كما أن الحوار الصادق لا يقتضي التخلي عن كل مساحة مستقلة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الثقة بعد الخيانة وحدود المصالحة"
+      },
+      {
+        "type": "paragraph",
+        "text": "عندما تقع خيانة بالفعل، فإن اختزال المشكلة في غيرة الطرف المجروح يتهرب من المسؤولية. قد تحتاج الثقة إلى اعتراف صادق وسلوك متسق ووقت. حلل أتكينز وزملاؤه عام 2005 مجموعة من 19 زوجا تعرضوا للخيانة ضمن تجربة علاج زوجي شملت 134 زوجا. أشارت التحسينات بعد كشف العلاقات إلى إمكان التعافي. لا تضمن هذه المجموعة الصغيرة المصالحة، ولا تثبت أن الاستمرار معا هو النتيجة الصحيحة لكل شخص أو أن المسامحة واجب عليه. [أتكينز وزملاؤه، 2005](https://pubmed.ncbi.nlm.nih.gov/15709841/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحتاج العلاج المشترك إلى حذر خاص عندما توجد سيطرة أو إساءة. تنصح National Domestic Violence Hotline بعدم الاستشارة المشتركة مع شريك مسيء، إذ قد يستخدم ما يقال ضد الشخص المتضرر. للدعم الفردي السري والتخطيط للأمان الأولوية على المساومة بشأن الاستقلال. يستطيع من يواجه تهديدا أو مراقبة طلب دعم محلي متخصص؛ والخطر المباشر يستدعي مساعدة طارئة. لا يدين أحد بالمصالحة لإثبات التعاطف، ولا تعني الرعاية إلغاء حقه في الحماية. [إرشادات متخصصة بشأن الاستشارة](https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الحب لا يلغي عدم اليقين"
+      },
+      {
+        "type": "paragraph",
+        "text": "تكشف الغيرة صعوبة في الحميمية: للشخص الذي يهمنا اهتمامه حياة وعقل خارج سيطرتنا. يستطيع العلم إضاءة الروابط المهددة وتقييم الذات وعادات التفكير، لكنه لا يمنح يقينا كاملا بشأن إنسان آخر. التغيير المهم هو تعلم تقييم الأدلة واحتمال المجهول واختيار سلوك يحفظ الكرامة. ليست الثقة ألا نخاف أبدا، بل ألا نسمح للخوف بأن يكتب وحده قصة العلاقة. بين الشعور والفعل توجد مساحة يمكن فيها للحب أن يبقى اهتماما، لا أن يتحول إلى حراسة."
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل الغيرة دليل على الحب؟",
+        "answer": "لا. قد ترافق ارتباطا مهما لكنها ليست شرطا للحب ولا دليلا كافيا عليه. الاحترام والرضا والسلوك الموثوق مؤشرات أنفع من شدة الشك، ولا يثبت غياب الغيرة اللامبالاة."
+      },
+      {
+        "question": "ما الفرق بين الغيرة والحسد؟",
+        "answer": "تتعلق الغيرة بتهديد متصور لعلاقة ثمينة، بينما يتعلق الحسد بالرغبة في ميزة أو صفة لدى شخص آخر. وقد يجتمعان عندما تؤثر المقارنة بمنافس متصور في قيمة الذات."
+      },
+      {
+        "question": "هل تسبب وسائل التواصل الغيرة؟",
+        "answer": "تربط أبحاث بين بعض الاستخدامات والغيرة، لكن الارتباط لا يثبت السببية. قد يتفاعل الغموض وانعدام الأمان السابق وكثرة التحقق. ولا تمثل العينات الطلابية القديمة كل منصة أو علاقة في الوقت الراهن."
+      },
+      {
+        "question": "ما متلازمة عطيل؟",
+        "answer": "تستخدم التسمية عادة للغيرة الوهمية، أي اعتقاد ثابت بالخيانة لا تدعمه الأدلة. تحتاج إلى تقييم مهني، ولا ينبغي استعمالها لوصف قلق عادي أو مشاجرة واحدة أو لتشخيص الشريك عن بعد."
+      },
+      {
+        "question": "هل يمكن أن يساعد العلاج؟",
+        "answer": "توجد نتائج مشجعة للعلاج المعرفي والتدخلات العلائقية، مع أدلة محدودة خاصة بالغيرة. يحدد التقييم الدعم المناسب. وعند وجود إساءة أو سيطرة قسرية تكون الأولوية للأمان والمساعدة الفردية السرية، لا للاستشارة المشتركة."
+      }
+    ],
+    "sources": [
+      {
+        "label": "تعريف الغيرة في APA",
+        "url": "https://dictionary.apa.org/jealousy"
+      },
+      {
+        "label": "تعريف الحسد في APA",
+        "url": "https://dictionary.apa.org/envy"
+      },
+      {
+        "label": "مراجعة هاريس، 2003",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12676643/"
+      },
+      {
+        "label": "دراسة هاريس، 2002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11892782/"
+      },
+      {
+        "label": "تاكاهاشي وزملاؤه، 2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16829139/"
+      },
+      {
+        "label": "ديستينو وزملاؤه، 2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17014289/"
+      },
+      {
+        "label": "تشورسينا، 2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38024565/"
+      },
+      {
+        "label": "ميوز وزملاؤه، 2009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19366318/"
+      },
+      {
+        "label": "NHS: السيطرة القسرية",
+        "url": "https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/"
+      },
+      {
+        "label": "كينغهام وغوردون، 2004",
+        "url": "https://doi.org/10.1192/apt.10.3.207"
+      },
+      {
+        "label": "غراف رادفورد وزملاؤه، 2012",
+        "url": "https://doi.org/10.1111/j.1468-1331.2011.03412.x"
+      },
+      {
+        "label": "دولان وبشاي، 1996",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8733797/"
+      },
+      {
+        "label": "أتكينز وزملاؤه، 2005",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15709841/"
+      },
+      {
+        "label": "إرشادات متخصصة بشأن الاستشارة",
+        "url": "https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/"
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/psychology-of-jealousy-when-love-turns-into-suspicion/",
+    "path": "/es/articles/psychology-of-jealousy-when-love-turns-into-suspicion/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "PRESDA evidence and localization review: attachment associations, experimental limits, clinical distinctions and limited treatment evidence",
+      "reviewedAt": "2026-10-12",
+      "terminologyChecked": true
+    },
+    "title": "LA PSICOLOGÍA DE LOS CELOS: CUANDO EL AMOR SE CONVIERTE EN SOSPECHA",
+    "seoTitle": "Psicología de los celos: apego, sospecha y confianza",
+    "description": "Por qué aparecen los celos, qué muestran los estudios del cerebro y el apego, y cómo afrontar la sospecha sin controlar a la pareja.",
+    "excerpt": "Por qué aparecen los celos, qué muestran los estudios del cerebro y el apego, y cómo afrontar la sospecha sin controlar a la pareja.",
+    "headlineHighlights": {
+      "red": "CELOS",
+      "gold": "SOSPECHA"
+    },
+    "keywords": [
+      "psicología de los celos",
+      "celos románticos",
+      "apego",
+      "síndrome de Otelo",
+      "confianza en la pareja"
+    ],
+    "searchIntent": "Por qué aparecen los celos, qué muestran los estudios del cerebro y el apego, y cómo afrontar la sospecha sin controlar a la pareja.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-12",
+    "updatedAt": "2026-10-12",
+    "image": {
+      "src": "/articles/jealousy-couple-argument-ai.png",
+      "alt": "Ilustración editorial generada por IA de una pareja imaginaria discutiendo sobre mensajes del teléfono en un salón"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un teléfono se ilumina entre dos personas que creían conocerse. Aparece un nombre, una respuesta tarda y la noche adquiere otra historia. Quizá existe una traición. Quizá no hay nada. En esta escena imaginada, lo fundamental ocurre antes de la primera palabra: la incertidumbre empieza a parecer una prueba."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los celos pueden volver precaria una relación valiosa. Mezclan miedo, rabia, tristeza y comparación, y pueden desembocar en una conversación o en una investigación interminable. Comprenderlos exige separar emoción, interpretación y conducta. Sentirse amenazado no demuestra una infidelidad; sentirse herido no concede autoridad sobre la libertad ajena. Esta investigación utiliza estudios comprobados en octubre de 2026, con atención tanto a sus hallazgos como a sus límites."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Los celos no son simplemente envidia"
+      },
+      {
+        "type": "paragraph",
+        "text": "La American Psychological Association define los celos en torno a una relación importante amenazada por un rival real o percibido. La envidia consiste en desear una ventaja o cualidad de otra persona. Podemos envidiar su seguridad y temer que nuestra pareja la encuentre más atractiva. Ambas experiencias pueden coincidir, pero querer algo ajeno difiere de temer una pérdida afectiva. [APA: celos](https://dictionary.apa.org/jealousy) [APA: envidia](https://dictionary.apa.org/envy)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La sospecha es una interpretación de que algo podría estar mal. La posesividad supone creerse con derecho a restringir la conducta de la pareja. Una punzada emocional, una acusación y exigir una contraseña son hechos distintos. Las relaciones también tienen acuerdos diferentes sobre exclusividad. Importa el acuerdo real y el consentimiento, no una regla universal que convierta una conversación amistosa en traición."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Una posibilidad antigua, no una orden biológica"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las explicaciones evolutivas proponen que detectar amenazas a una relación pudo ayudar a conservar vínculos y oportunidades reproductivas. Las perspectivas sociales y cognitivas destacan expectativas aprendidas, comparaciones e interpretaciones. Son niveles explicativos que pueden coexistir. Proponer un origen no demuestra que cualquier manifestación resulte útil hoy, ni convierte la intimidación en un instinto imposible de controlar. Comprender una emoción no equivale a justificar toda acción que se realiza en su nombre."
+      },
+      {
+        "type": "paragraph",
+        "text": "La afirmación de que los hombres temen naturalmente la infidelidad sexual y las mujeres la emocional simplifica demasiado el debate. La revisión de Christine Harris de 2003 cuestionó una teoría fuerte de módulos innatos distintos por sexo. Los resultados dependen de las preguntas, las situaciones hipotéticas o vividas y las muestras. Una diferencia encontrada en un estudio no prescribe lo que debe sentir una persona. [Revisión de Harris, 2003](https://pubmed.ncbi.nlm.nih.gov/12676643/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El estudio de Harris de 2002 incluyó a 196 adultos heterosexuales y homosexuales. Elegir forzosamente entre dos traiciones imaginarias produjo patrones distintos de otras medidas y experiencias declaradas. Escoger la opción más dolorosa no significa que la otra carezca de importancia. Orientación sexual, cultura y contexto relacional deben formar parte de la investigación, evitando convertir un cuestionario limitado en una descripción universal de hombres y mujeres. [Estudio de Harris, 2002](https://pubmed.ncbi.nlm.nih.gov/11892782/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Qué muestra realmente un escáner cerebral"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2006, Hidehiko Takahashi y sus colegas emplearon resonancia magnética funcional mientras los participantes imaginaban escenarios de infidelidad sexual o emocional. Encontraron diferencias de activación entre hombres y mujeres sin diferencias por sexo en los celos autovalorados. Se trataba de frases preparadas, no del descubrimiento de aventuras reales. El experimento aporta pistas sobre amenazas sociales complejas, pero no reproduce todo el contexto emocional de una relación. [Takahashi y colegas, 2006](https://pubmed.ncbi.nlm.nih.gov/16829139/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La activación cerebral no permite leer las intenciones de la pareja. Las regiones relacionadas con emoción, atención e interpretación social intervienen en muchas experiencias. Un escáner no identifica un centro exclusivo de los celos ni certifica una sospecha. Tampoco una diferencia de activación prueba un módulo evolutivo innato. La fuerza emocional es real; no es un detector fiable de engaño. Nuestra investigación sobre [detectores de mentiras](/articles/lie-detectors-can-science-really-detect-deception/) distingue asimismo activación fisiológica y verdad."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cuando la amenaza alcanza al propio valor"
+      },
+      {
+        "type": "paragraph",
+        "text": "Perder una pareja puede amenazar más que la compañía: sentirse deseable, elegido o digno de afecto. Los experimentos de DeSteno, Valdesolo y Bartlett de 2006 utilizaron encuentros sociales organizados para estudiar celos y autoevaluación. Sus resultados apoyan un papel de la autoestima amenazada. Sin embargo, el laboratorio no reproduce la historia, las responsabilidades ni las consecuencias prácticas de una relación prolongada. [DeSteno y colegas, 2006](https://pubmed.ncbi.nlm.nih.gov/17014289/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una acusación puede ocultar otra pregunta: ¿qué significaría esta pérdida sobre mí? El rival se convierte en una medida de insuficiencia personal, incluso sin traición. Pero los celos no demuestran baja autoestima, y la confianza en uno mismo no garantiza inmunidad. Una traición previa puede justificar prudencia. Presentar toda inquietud como inseguridad también puede servir para evitar hablar de una deshonestidad real."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "El apego influye, pero no determina el destino"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación del apego examina cómo buscamos cercanía y afrontamos la posibilidad de rechazo. La ansiedad de apego incluye preocupación por disponibilidad y abandono; la evitación, incomodidad ante dependencia o intimidad. Son dimensiones de experiencia, no diagnósticos ni identidades inmutables. Una misma persona puede responder de manera distinta en relaciones que ofrecen diferentes grados de seguridad, previsibilidad y cuidado mutuo. Una etiqueta rápida aporta menos que observar el contexto concreto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Apollinaria Chursina estudió en 2023 a 171 participantes heterosexuales mediante cuestionarios. Encontró asociaciones entre patrones de apego y formas de celos. Los celos emocionales aparecían en todos los perfiles, mientras las dimensiones cognitivas y conductuales variaban. No fue un experimento que modificara experiencias infantiles. Los autoinformes no prueban causalidad y esta muestra no representa todas las culturas, edades u orientaciones. [Chursina, 2023](https://pubmed.ncbi.nlm.nih.gov/38024565/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El pasado puede influir en cómo se interpreta una respuesta tardía sin determinar su significado actual. Es posible reconocer una sensibilidad tras una traición y examinar los hechos presentes. Comprender la vulnerabilidad ayuda si promueve responsabilidad y diálogo. Resulta perjudicial cuando exige que la pareja evite cualquier emoción incómoda mediante disponibilidad permanente. Una historia dolorosa merece atención, pero no convierte a otra persona en responsable de eliminar toda incertidumbre."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Las redes ofrecen indicios sin contexto"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un «me gusta», un nuevo seguidor, una fotografía o un mensaje leído son rastros fáciles de contar y difíciles de interpretar. La plataforma presenta fragmentos sin la conversación que los rodea. Esa visibilidad puede crear una ilusión de acceso. Saber más detalles de una pareja no siempre significa comprender mejor sus motivos, los acuerdos compartidos o su vida cotidiana. También podemos confundir la rapidez de una respuesta con una medida exacta de afecto."
+      },
+      {
+        "type": "paragraph",
+        "text": "La encuesta de Muise, Christofides y Desmarais de 2009, con 308 universitarios, relacionó un mayor uso de Facebook con celos vinculados a la plataforma. Propusieron un bucle entre información ambigua y nuevas comprobaciones. La asociación transversal no establece qué ocurre primero. Una muestra estudiantil del Facebook de entonces no mide los efectos de todas las plataformas y relaciones de 2026. [Muise y colegas, 2009](https://pubmed.ncbi.nlm.nih.gov/19366318/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un bucle ilustrativo empieza con inquietud, continúa con búsquedas, se calma brevemente y vuelve ante otra ambigüedad. Comprobar más puede no ofrecer la certeza deseada. Los mensajes privados y el rastreo de ubicación plantean además el consentimiento. Acordar límites digitales no equivale a acceder secretamente a una cuenta o exigir pruebas permanentes de inocencia. La tecnología puede facilitar control coercitivo, no solo curiosidad ansiosa. [NHS: control coercitivo](https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Una emoción no autoriza a controlar"
+      },
+      {
+        "type": "paragraph",
+        "text": "Al hablar de celos «sanos» se suele pensar en una reacción proporcionada, expresada con respeto y compatible con tolerar incertidumbre. Eso no significa que sean necesarios para amar ni que provocarlos fortalezca la relación. Su ausencia tampoco demuestra indiferencia. La distinción útil es si la respuesta respeta hechos, proporción y autonomía. Un sentimiento puede señalar una preocupación que merece conversación sin convertirse en una obligación para el otro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Interrogatorios repetidos, humillación, aislamiento y restricciones sobre ropa, amistades o trabajo son conductas graves aunque se presenten como devoción. El NHS identifica vigilancia y aislamiento como comportamientos de control. Una discusión no define automáticamente una relación abusiva. Pero un patrón que hace temer el ejercicio de libertades ordinarias exige atender a seguridad y poder, no simplemente tranquilizar más al miembro celoso. [NHS: control coercitivo](https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cuando la sospecha consume la vida"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los celos patológicos o mórbidos describen una preocupación clínicamente significativa con formas diferentes. Dudas intrusivas reconocidas como posiblemente irracionales difieren de una convicción fija resistente a pruebas contrarias. La revisión clínica de Kingham y Gordon de 2004 distingue obsesiones, ideas sobrevaloradas y delirios. El síndrome de Otelo se asocia especialmente a celos delirantes, pero una discusión o un cuestionario en línea no permiten diagnosticarlo. [Kingham y Gordon, 2004](https://doi.org/10.1192/apt.10.3.207)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una serie retrospectiva de Mayo Clinic publicada en 2012 estudió a 105 pacientes con ese síndrome; 73 tenían trastornos neurológicos. Es una muestra clínica seleccionada, no una encuesta de prevalencia entre parejas celosas. Ilustra por qué convicciones nuevas y fijas pueden requerir evaluación neurológica, psiquiátrica y de sustancias o medicamentos. Las asociaciones farmacológicas no hacen de la dopamina una causa simple. Cambiar medicación exige supervisión del prescriptor. [Graff-Radford y colegas, 2012](https://doi.org/10.1111/j.1468-1331.2011.03412.x)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La evaluación considera malestar, convicción, funcionamiento y riesgos para todos. Cambios súbitos, acusaciones persistentes sin pruebas o amenazas crecientes justifican ayuda profesional. También deben examinarse los acontecimientos reales de la relación. La mayoría de los sentimientos celosos no son delirios. Una explicación psicológica no excusa abusos ni implica que las personas con trastornos mentales sean generalmente peligrosas. Nuestra investigación sobre [paranoia](/articles/paranoia-why-do-we-feel-watched/) distingue sospecha y creencias persecutorias firmes."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Gestionar los celos implica cambiar la respuesta"
+      },
+      {
+        "type": "paragraph",
+        "text": "En episodios habituales, conviene distinguir observación e inferencia: una respuesta tardía se observa; una aventura se supone. Hacer una pausa antes de acusar o comprobar, identificar la pérdida temida y hablar de una preocupación concreta sin amenazas puede ayudar. Son aplicaciones prácticas de principios cognitivos y conductuales, no una fórmula garantizada. Las emociones intensas pueden necesitar tiempo y apoyo, en lugar de una sentencia inmediata."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolan y Bishay estudiaron en 1996 a 30 pacientes ambulatorios con celos mórbidos no psicóticos, repartidos entre terapia cognitiva inmediata y diferida. Se observaron mejoras, también según valoraciones de las parejas. Este pequeño estudio apoya explorar tratamientos específicos, no una cura universal ni una gran base moderna de ensayos. Pueden abordarse interpretaciones, búsqueda de tranquilidad y comportamientos, adaptando la intervención a cada evaluación. [Dolan y Bishay, 1996](https://pubmed.ncbi.nlm.nih.gov/8733797/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los límites acordados aclaran qué significa infidelidad, el contacto con exparejas y la privacidad aceptable. Deben ser voluntarios y revisables. Compartir contraseñas por obligación no es un tratamiento validado. Probar interminablemente la inocencia puede dejar intacta la exigencia de certeza. Recuperar seguridad puede incluir amistades, actividades significativas y una valoración personal que no dependa exclusivamente de la aprobación de la pareja. Privacidad no equivale automáticamente a engaño."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "La confianza después de una traición"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tras una infidelidad, reducir el problema a los celos de la persona herida evita responsabilidad. La confianza puede necesitar reconocimiento honesto, coherencia y tiempo. El análisis exploratorio de Atkins y colegas de 2005 examinó a 19 parejas con infidelidad dentro de un ensayo de terapia matrimonial de 134 parejas. Las mejoras tras revelar aventuras sugirieron que recuperarse es posible. El pequeño subgrupo no garantiza reconciliación ni demuestra que permanecer juntos sea lo adecuado. [Atkins y colegas, 2005](https://pubmed.ncbi.nlm.nih.gov/15709841/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La terapia conjunta requiere cautela ante control o abuso. La National Domestic Violence Hotline la desaconseja con una pareja abusiva porque lo revelado puede utilizarse contra la persona dañada. Apoyo individual confidencial y seguridad tienen prioridad sobre negociar autonomía. Quien afronta vigilancia o amenazas puede acudir a servicios especializados locales; el peligro inmediato requiere asistencia de emergencia. Nadie debe reconciliarse para demostrar compasión. [Orientación especializada sobre terapia](https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Amar no elimina la incertidumbre"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los celos revelan una dificultad de la intimidad: la persona cuya atención más importa conserva una vida y una mente fuera de nuestro control. La ciencia ilumina vínculos amenazados, autoevaluación y hábitos de pensamiento, pero no ofrece certeza absoluta sobre otro. El cambio significativo consiste en valorar pruebas, tolerar lo desconocido y elegir conductas que preserven dignidad. Confiar no significa no sentir miedo. Significa impedir que el miedo escriba, por sí solo, la historia de una relación."
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Los celos demuestran amor?",
+        "answer": "No. Pueden acompañar un vínculo importante, pero no son necesarios ni suficientes para demostrar amor. Respeto, consentimiento y comportamiento fiable orientan mejor que la intensidad de la sospecha."
+      },
+      {
+        "question": "¿En qué se diferencian celos y envidia?",
+        "answer": "Los celos conciernen a una amenaza percibida sobre una relación valiosa. La envidia implica desear ventajas o cualidades ajenas. Pueden coincidir cuando compararse con un rival afecta a la autoestima."
+      },
+      {
+        "question": "¿Las redes sociales causan celos?",
+        "answer": "Algunos usos se asocian con celos, pero esa relación no demuestra causalidad. Información ambigua, inseguridad previa y comprobaciones pueden interactuar. Las muestras estudiantiles antiguas no representan todas las plataformas o parejas."
+      },
+      {
+        "question": "¿Qué es el síndrome de Otelo?",
+        "answer": "El término suele referirse a celos delirantes: una convicción fija de infidelidad sin pruebas que la respalden. Necesita evaluación profesional y no debe etiquetar una preocupación corriente o una discusión."
+      },
+      {
+        "question": "¿Puede ayudar un tratamiento?",
+        "answer": "Las terapias cognitivas y las intervenciones relacionales ofrecen resultados alentadores, con evidencia específica limitada. La evaluación determina el apoyo adecuado. Si existen abuso o control coercitivo, seguridad y apoyo individual confidencial tienen prioridad sobre terapia conjunta."
+      }
+    ],
+    "sources": [
+      {
+        "label": "APA: celos",
+        "url": "https://dictionary.apa.org/jealousy"
+      },
+      {
+        "label": "APA: envidia",
+        "url": "https://dictionary.apa.org/envy"
+      },
+      {
+        "label": "Revisión de Harris, 2003",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12676643/"
+      },
+      {
+        "label": "Estudio de Harris, 2002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11892782/"
+      },
+      {
+        "label": "Takahashi y colegas, 2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16829139/"
+      },
+      {
+        "label": "DeSteno y colegas, 2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17014289/"
+      },
+      {
+        "label": "Chursina, 2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38024565/"
+      },
+      {
+        "label": "Muise y colegas, 2009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19366318/"
+      },
+      {
+        "label": "NHS: control coercitivo",
+        "url": "https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/"
+      },
+      {
+        "label": "Kingham y Gordon, 2004",
+        "url": "https://doi.org/10.1192/apt.10.3.207"
+      },
+      {
+        "label": "Graff-Radford y colegas, 2012",
+        "url": "https://doi.org/10.1111/j.1468-1331.2011.03412.x"
+      },
+      {
+        "label": "Dolan y Bishay, 1996",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8733797/"
+      },
+      {
+        "label": "Atkins y colegas, 2005",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15709841/"
+      },
+      {
+        "label": "Orientación especializada sobre terapia",
+        "url": "https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/"
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/psychology-of-jealousy-when-love-turns-into-suspicion/",
+    "path": "/fr/articles/psychology-of-jealousy-when-love-turns-into-suspicion/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "PRESDA evidence and localization review: attachment associations, experimental limits, clinical distinctions and limited treatment evidence",
+      "reviewedAt": "2026-10-12",
+      "terminologyChecked": true
+    },
+    "title": "LA PSYCHOLOGIE DE LA JALOUSIE : QUAND L’AMOUR DEVIENT SUSPICION",
+    "seoTitle": "Psychologie de la jalousie : attachement, suspicion et confiance",
+    "description": "Pourquoi la jalousie apparaît, ce que montrent les recherches sur le cerveau et l’attachement, et comment gérer la suspicion sans contrôler son partenaire.",
+    "excerpt": "Pourquoi la jalousie apparaît, ce que montrent les recherches sur le cerveau et l’attachement, et comment gérer la suspicion sans contrôler son partenaire.",
+    "headlineHighlights": {
+      "red": "JALOUSIE",
+      "gold": "SUSPICION"
+    },
+    "keywords": [
+      "psychologie de la jalousie",
+      "jalousie amoureuse",
+      "attachement",
+      "syndrome d’Othello",
+      "confiance dans le couple"
+    ],
+    "searchIntent": "Pourquoi la jalousie apparaît, ce que montrent les recherches sur le cerveau et l’attachement, et comment gérer la suspicion sans contrôler son partenaire.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-12",
+    "updatedAt": "2026-10-12",
+    "image": {
+      "src": "/articles/jealousy-couple-argument-ai.png",
+      "alt": "Illustration éditoriale générée par IA représentant un couple imaginaire qui se dispute au sujet de messages téléphoniques dans un salon"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un téléphone s’allume entre deux personnes qui pensaient se connaître. Un nom apparaît, une réponse tarde, et la soirée se charge d’une autre histoire. Il y a peut-être une trahison. Peut-être rien. Dans cette scène imaginée, l’essentiel se joue avant la première parole : l’incertitude commence à ressembler à une preuve."
+      },
+      {
+        "type": "paragraph",
+        "text": "La jalousie peut rendre soudain fragile une relation précieuse. Peur, colère, tristesse et comparaison s’y mêlent, pour aboutir parfois à une conversation, parfois à une enquête sans fin. Pour la comprendre, il faut distinguer émotion, interprétation et comportement. Se sentir menacé ne prouve pas une infidélité ; souffrir ne donne aucun droit sur la liberté d’autrui. Les recherches de cette enquête ont été vérifiées en octobre 2026."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Jalousie et envie ne désignent pas la même chose"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’American Psychological Association définit la jalousie autour d’une relation importante menacée par un rival réel ou supposé. L’envie concerne un avantage ou une qualité que possède quelqu’un d’autre. On peut envier son assurance et craindre que son partenaire le trouve plus séduisant. Ces émotions se croisent, mais vouloir ce qu’autrui possède diffère de redouter une perte affective. [APA : jalousie](https://dictionary.apa.org/jealousy) [APA : envie](https://dictionary.apa.org/envy)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La suspicion est l’hypothèse que quelque chose ne va pas. La possessivité consiste à s’estimer autorisé à restreindre les comportements du partenaire. Une émotion passagère, une accusation et l’exigence d’un mot de passe sont donc distinctes. Les couples ont aussi des accords différents concernant l’exclusivité. Le critère pertinent reste l’accord réel et le consentement, pas une règle universelle assimilant une conversation amicale à une trahison."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Une hypothèse ancienne, pas un ordre biologique"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les explications évolutionnistes proposent qu’une sensibilité aux menaces relationnelles ait pu préserver des liens et des possibilités de reproduction. Les approches sociales et cognitives privilégient les attentes apprises, les comparaisons et les interprétations. Ces niveaux d’explication peuvent coexister. Une origine possible ne démontre pas que chaque manifestation est utile aujourd’hui. Elle ne transforme pas davantage l’intimidation en instinct incontrôlable et excusable."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’idée populaire selon laquelle les hommes craignent naturellement l’infidélité sexuelle et les femmes l’infidélité émotionnelle simplifie le débat. Dans sa revue de 2003, Christine Harris contestait une théorie forte de modules innés propres à chaque sexe. Les résultats varient selon les questions, les situations imaginées ou vécues et les populations étudiées. Une différence statistique ne dicte jamais les sentiments d’un individu. [Revue de Harris, 2003](https://pubmed.ncbi.nlm.nih.gov/12676643/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Son étude de 2002 portait sur 196 adultes hétérosexuels et homosexuels. Un choix imposé entre deux trahisons imaginaires produisait des tendances différentes d’autres mesures et des expériences rapportées. Choisir la situation la plus pénible ne signifie pas que l’autre importe peu. Orientation sexuelle, culture et contexte relationnel comptent : un questionnaire limité ne constitue pas un portrait universel des femmes et des hommes. [Étude de Harris, 2002](https://pubmed.ncbi.nlm.nih.gov/11892782/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Ce qu’une image cérébrale peut réellement montrer"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2006, Hidehiko Takahashi et ses collègues ont utilisé l’IRM fonctionnelle pendant l’évocation de scénarios d’infidélité sexuelle ou émotionnelle. Ils ont observé des différences d’activation entre hommes et femmes, sans différence selon le sexe dans la jalousie autoévaluée. Les participants réagissaient à des phrases préparées, pas à la découverte d’une liaison réelle. L’expérience renseigne sur le traitement de menaces sociales, avec des limites importantes. [Takahashi et collègues, 2006](https://pubmed.ncbi.nlm.nih.gov/16829139/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une activation cérébrale ne révèle pas les intentions du partenaire. Les régions impliquées dans l’émotion, l’attention et l’interprétation sociale interviennent dans beaucoup d’expériences. L’imagerie n’isole donc pas un centre unique de la jalousie et ne justifie pas une suspicion. Une différence d’activation ne prouve pas non plus un module évolutionnaire inné. Notre enquête sur [les détecteurs de mensonges](/articles/lie-detectors-can-science-really-detect-deception/) distingue également réaction physiologique et vérité."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Quand la menace touche aussi l’image de soi"
+      },
+      {
+        "type": "paragraph",
+        "text": "Perdre un partenaire peut menacer plus que la compagnie : le sentiment d’être désirable, choisi ou digne d’affection. En 2006, DeSteno, Valdesolo et Bartlett ont étudié jalousie et autoévaluation dans des interactions sociales mises en scène. Leurs résultats soutiennent un rôle de l’estime de soi menacée. Mais une situation expérimentale ne reproduit ni l’histoire, ni les obligations, ni les conséquences d’une longue relation. [DeSteno et collègues, 2006](https://pubmed.ncbi.nlm.nih.gov/17014289/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une accusation peut masquer cette question : que dirait cette perte de ma valeur ? Le rival devient parfois l’étalon d’une insuffisance personnelle, même sans trahison. Cela ne signifie pas que toute jalousie révèle une faible estime de soi, ni que l’assurance protège toujours. Une trahison passée peut justifier la prudence. Réduire chaque inquiétude à l’insécurité peut aussi servir à esquiver une malhonnêteté réelle."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "L’attachement façonne les attentes sans fixer le destin"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les recherches sur l’attachement examinent la recherche de proximité et la gestion du rejet possible. L’anxiété d’attachement concerne la disponibilité du partenaire et l’abandon ; l’évitement, l’inconfort face à la dépendance ou à l’intimité. Ce sont des dimensions, pas des diagnostics ou des identités immuables. Une même personne peut réagir différemment selon la sécurité, la prévisibilité et l’attention mutuelle offertes par la relation."
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2023, Apollinaria Chursina a étudié 171 participants hétérosexuels à l’aide de questionnaires. Des formes de jalousie étaient associées aux profils d’attachement. La jalousie émotionnelle apparaissait dans tous les profils, tandis que pensées et comportements variaient. L’étude ne manipulait pas les expériences infantiles. Ses données déclaratives ne prouvent pas une causalité et ne représentent pas toutes les cultures ou relations. [Chursina, 2023](https://pubmed.ncbi.nlm.nih.gov/38024565/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le passé peut influencer le sens donné à une réponse tardive sans en déterminer le sens actuel. On peut reconnaître une sensibilité héritée d’une trahison et examiner les faits de la relation présente. Comprendre cette vulnérabilité aide si cela favorise responsabilité et dialogue. Cela devient problématique lorsqu’elle impose à l’autre une disponibilité permanente pour empêcher toute émotion inconfortable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Les réseaux sociaux donnent des indices sans contexte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un « j’aime », un nouvel abonné, une photographie ou un message lu constituent des traces faciles à compter, difficiles à interpréter. La plateforme expose des fragments sans leur contexte. Cette visibilité peut donner une illusion d’accès. Disposer de davantage d’informations sur un partenaire ne signifie pas forcément mieux comprendre ses intentions, les accords du couple ou son quotidien."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’enquête de Muise, Christofides et Desmarais publiée en 2009 auprès de 308 étudiants associait une utilisation accrue de Facebook à davantage de jalousie liée au réseau. Les auteurs proposaient une boucle entre informations ambiguës et vérifications supplémentaires. Cette étude transversale n’établit pas l’ordre causal. Un échantillon étudiant de cette époque ne mesure pas tous les usages numériques de 2026. [Muise et collègues, 2009](https://pubmed.ncbi.nlm.nih.gov/19366318/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans une boucle illustrative, l’inquiétude conduit à chercher, une réponse rassure brièvement, puis une ambiguïté relance la recherche. La certitude espérée peut rester inaccessible. Messages privés et géolocalisation posent aussi la question du consentement. Discuter librement de limites numériques diffère d’accéder secrètement à un compte ou d’exiger des preuves permanentes d’innocence. Ces technologies peuvent soutenir un contrôle coercitif. [NHS : contrôle coercitif](https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Une émotion ne donne pas le droit de contrôler"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’expression « jalousie saine » désigne parfois une réaction proportionnée, discutée respectueusement, qui laisse place à l’incertitude. Elle ne signifie pas que la jalousie soit nécessaire à l’amour, ni qu’il faille la provoquer pour renforcer le couple. Son absence ne prouve pas l’indifférence. La distinction utile porte sur le respect des faits, de la proportion et de l’autonomie de chacun."
+      },
+      {
+        "type": "paragraph",
+        "text": "Interrogatoires répétés, humiliations, isolement et restrictions vestimentaires, amicales ou professionnelles restent graves, même présentés comme de la dévotion. Le NHS identifie surveillance et isolement parmi les comportements de contrôle. Une dispute ne définit pas automatiquement une relation abusive. Mais avoir peur d’exercer sa liberté ordinaire exige de considérer sécurité et pouvoir, pas seulement de rassurer davantage son partenaire. [NHS : contrôle coercitif](https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Quand la suspicion envahit la vie"
+      },
+      {
+        "type": "paragraph",
+        "text": "La jalousie pathologique ou morbide désigne une préoccupation cliniquement importante aux formes diverses. Des doutes intrusifs reconnus comme peut-être déraisonnables diffèrent d’une conviction fixe résistant aux faits contraires. La revue clinique de Kingham et Gordon, publiée en 2004, distingue obsessions, idées surinvesties et idées délirantes. Le syndrome d’Othello est particulièrement associé à la jalousie délirante ; une dispute ou un questionnaire en ligne ne permettent pas de le diagnostiquer. [Kingham et Gordon, 2004](https://doi.org/10.1192/apt.10.3.207)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une série rétrospective de la Mayo Clinic, publiée en 2012, examinait 105 patients présentant ce syndrome ; 73 avaient des troubles neurologiques. Cet échantillon clinique sélectionné ne mesure pas sa fréquence parmi les partenaires jaloux. Il montre l’intérêt d’évaluer maladies neurologiques, symptômes psychiatriques, substances et médicaments devant une conviction nouvelle et fixe. Cela ne fait pas de la dopamine une cause simple. Toute modification médicamenteuse relève du prescripteur. [Graff-Radford et collègues, 2012](https://doi.org/10.1111/j.1468-1331.2011.03412.x)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’évaluation prend en compte souffrance, conviction, fonctionnement et risques pour chacun. Un changement soudain, des accusations persistantes sans preuves ou des menaces croissantes justifient une aide professionnelle. Les événements réels du couple doivent aussi être examinés. La plupart des émotions jalouses ne sont pas délirantes. Un trouble psychique n’excuse pas les abus et ne rend pas généralement dangereux. Notre enquête sur [la paranoïa](/articles/paranoia-why-do-we-feel-watched/) approfondit la distinction entre soupçon et conviction persécutrice."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Gérer la jalousie, c’est modifier sa réponse"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour un épisode ordinaire, distinguer observation et interprétation constitue un point de départ : une réponse tardive est observée ; une liaison est supposée. Faire une pause, identifier la perte redoutée et discuter d’un souci précis sans menacer peut aider. Ces applications de principes cognitifs et comportementaux ne garantissent rien. Une émotion intense demande parfois du temps et du soutien plutôt qu’un verdict immédiat."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolan et Bishay ont étudié en 1996 une thérapie cognitive auprès de 30 patients ambulatoires présentant une jalousie morbide non psychotique, répartis entre traitement immédiat et différé. Une amélioration était rapportée, également par les partenaires. Ce petit travail soutient l’intérêt d’une prise en charge ciblée, pas une guérison universelle. Interprétations, recherche de réassurance et comportements peuvent être travaillés selon l’évaluation clinique. [Dolan et Bishay, 1996](https://pubmed.ncbi.nlm.nih.gov/8733797/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des limites convenues clarifient l’infidélité, les contacts avec d’anciens partenaires et la vie privée. L’accord doit être volontaire et discutable. Imposer un mot de passe n’est pas un traitement validé. Des démonstrations interminables d’innocence peuvent laisser intacte l’exigence de certitude. Retrouver de l’assurance peut aussi passer par les amitiés, des activités importantes et une valeur personnelle indépendante de l’approbation amoureuse."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Reconstruire la confiance ne signifie pas devoir rester"
+      },
+      {
+        "type": "paragraph",
+        "text": "Après une infidélité réelle, réduire le problème à la jalousie de la personne blessée évite la responsabilité. La confiance peut demander reconnaissance, cohérence et temps. L’analyse exploratoire d’Atkins et collègues, publiée en 2005, portait sur 19 couples concernés par l’infidélité dans un essai de thérapie conjugale de 134 couples. Les progrès après divulgation suggéraient une récupération possible. Ce petit sous-groupe ne garantit ni réconciliation ni obligation de poursuivre la relation. [Atkins et collègues, 2005](https://pubmed.ncbi.nlm.nih.gov/15709841/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La thérapie de couple exige une prudence particulière face aux abus. La National Domestic Violence Hotline déconseille de consulter avec un partenaire abusif : les confidences peuvent être retournées contre la personne victime. Un soutien individuel confidentiel et la sécurité priment sur la négociation de l’autonomie. Menaces et surveillance justifient un accompagnement spécialisé local ; un danger immédiat exige une aide d’urgence. Nul ne doit se réconcilier pour prouver sa compassion. [Conseils spécialisés sur la consultation](https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "L’amour ne supprime pas l’incertitude"
+      },
+      {
+        "type": "paragraph",
+        "text": "La jalousie révèle une difficulté de l’intimité : la personne dont l’attention nous importe conserve une vie et une pensée hors de notre contrôle. La science éclaire liens menacés, autoévaluation et habitudes mentales. Elle ne garantit pas une certitude totale sur autrui. Le changement essentiel consiste à apprécier les faits, tolérer l’inconnu et préserver la dignité. Faire confiance ne signifie pas ne jamais avoir peur, mais empêcher la peur d’écrire seule l’histoire du couple."
+      }
+    ],
+    "faq": [
+      {
+        "question": "La jalousie prouve-t-elle l’amour ?",
+        "answer": "Non. Elle peut accompagner un lien important, sans être nécessaire ni suffisante pour prouver l’amour. Respect, consentement et comportements fiables renseignent davantage que l’intensité du soupçon."
+      },
+      {
+        "question": "Quelle différence entre jalousie et envie ?",
+        "answer": "La jalousie concerne une menace perçue sur une relation précieuse. L’envie porte sur un avantage ou une qualité d’autrui. Elles peuvent coexister lorsqu’une comparaison avec un rival supposé affecte la valeur personnelle."
+      },
+      {
+        "question": "Les réseaux sociaux causent-ils la jalousie ?",
+        "answer": "Certains usages sont associés à la jalousie, sans que cette association démontre une causalité. Ambiguïté, insécurité préalable et vérifications peuvent interagir. Les anciens échantillons étudiants ne représentent pas chaque plateforme ou couple."
+      },
+      {
+        "question": "Qu’est-ce que le syndrome d’Othello ?",
+        "answer": "Ce terme désigne couramment une jalousie délirante, avec une conviction fixe d’infidélité sans preuves suffisantes. Une évaluation professionnelle est nécessaire. Il ne faut pas l’appliquer à une inquiétude ordinaire ou une dispute."
+      },
+      {
+        "question": "Un traitement peut-il aider ?",
+        "answer": "Thérapies cognitives et interventions relationnelles ont des résultats encourageants, mais des preuves spécifiques limitées. L’évaluation détermine le soutien adapté. En cas de contrôle coercitif ou d’abus, sécurité et aide individuelle confidentielle priment sur une consultation conjointe."
+      }
+    ],
+    "sources": [
+      {
+        "label": "APA : jalousie",
+        "url": "https://dictionary.apa.org/jealousy"
+      },
+      {
+        "label": "APA : envie",
+        "url": "https://dictionary.apa.org/envy"
+      },
+      {
+        "label": "Revue de Harris, 2003",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12676643/"
+      },
+      {
+        "label": "Étude de Harris, 2002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11892782/"
+      },
+      {
+        "label": "Takahashi et collègues, 2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16829139/"
+      },
+      {
+        "label": "DeSteno et collègues, 2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17014289/"
+      },
+      {
+        "label": "Chursina, 2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38024565/"
+      },
+      {
+        "label": "Muise et collègues, 2009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19366318/"
+      },
+      {
+        "label": "NHS : contrôle coercitif",
+        "url": "https://safeguarding-guide.nhs.uk/types-of-abuse-exploitation-and-neglect/s3-05/"
+      },
+      {
+        "label": "Kingham et Gordon, 2004",
+        "url": "https://doi.org/10.1192/apt.10.3.207"
+      },
+      {
+        "label": "Graff-Radford et collègues, 2012",
+        "url": "https://doi.org/10.1111/j.1468-1331.2011.03412.x"
+      },
+      {
+        "label": "Dolan et Bishay, 1996",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8733797/"
+      },
+      {
+        "label": "Atkins et collègues, 2005",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15709841/"
+      },
+      {
+        "label": "Conseils spécialisés sur la consultation",
+        "url": "https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/"
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/psychology-of-serial-killers-what-science-knows/",
     "path": "/ar/articles/psychology-of-serial-killers-what-science-knows/",
     "kind": "article",
