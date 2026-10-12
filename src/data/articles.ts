@@ -30,6 +30,7 @@ import { humanApeDnaArticle } from "@/data/humanApeDnaArticle";
 import { taiwanCaptivesArticle } from "@/data/taiwanCaptivesArticle";
 import { workAbroadArticle } from "@/data/workAbroadArticle";
 import { jonathanArticle } from "@/data/jonathanArticle";
+import { womenGoldArticle } from "@/data/womenGoldArticle";
 import { frbRecordArticle } from "@/data/frbRecordArticle";
 import { robotRaceArticle } from "@/data/robotRaceArticle";
 import { minoansArticle } from "@/data/minoansArticle";
@@ -35669,6 +35670,7 @@ export const articles: Article[] = [
   robotRaceArticle,
   frbRecordArticle,
   jonathanArticle,
+  womenGoldArticle,
   workAbroadArticle,
   taiwanCaptivesArticle,
   humanApeDnaArticle,
