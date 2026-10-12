@@ -1,0 +1,344 @@
+{
+  "checkedAt": "2026-10-12",
+  "sources": {
+    "wollstonecraft": {
+      "url": "https://plato.stanford.edu/entries/wollstonecraft/",
+      "labels": [
+        "Stanford: Wollstonecraft",
+        "Stanford : Wollstonecraft",
+        "Stanford: Wollstonecraft",
+        "ستانفورد: وولستونكرافت"
+      ]
+    },
+    "waves": {
+      "url": "https://www.womenshistory.org/exhibits/feminism-first-wave-0",
+      "labels": [
+        "Women’s History Museum",
+        "Musée d’histoire des femmes",
+        "Museo de Historia de las Mujeres",
+        "متحف تاريخ النساء"
+      ]
+    },
+    "seneca": {
+      "url": "https://home.nps.gov/articles/000/-all-men-and-women-are-created-equal-the-life-of-elizabeth-cady-stanton.htm",
+      "labels": [
+        "NPS: Stanton and suffrage",
+        "NPS : Stanton et suffrage",
+        "NPS: Stanton y sufragio",
+        "خدمة المتنزهات: ستانتون والاقتراع"
+      ]
+    },
+    "pankhurst": {
+      "url": "https://www.parliament.uk/globalassets/documents/works-of-art/women-in-parliament-catalogue.pdf",
+      "labels": [
+        "Parliament: Pankhurst",
+        "Parlement : Pankhurst",
+        "Parlamento: Pankhurst",
+        "البرلمان: بانكهورست"
+      ]
+    },
+    "uk": {
+      "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/overview/thevote/",
+      "labels": [
+        "UK Parliament",
+        "Parlement britannique",
+        "Parlamento británico",
+        "البرلمان البريطاني"
+      ]
+    },
+    "nz": {
+      "url": "https://nzhistory.govt.nz/womens-suffrage-day",
+      "labels": [
+        "New Zealand history",
+        "Histoire néo-zélandaise",
+        "Historia neozelandesa",
+        "تاريخ نيوزيلندا"
+      ]
+    },
+    "us": {
+      "url": "https://www.archives.gov/milestone-documents/19th-amendment",
+      "labels": [
+        "US National Archives",
+        "Archives nationales américaines",
+        "Archivos Nacionales estadounidenses",
+        "الأرشيف الوطني الأمريكي"
+      ]
+    },
+    "france": {
+      "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/l-accession-des-femmes-au-droit-de-vote",
+      "labels": [
+        "French National Assembly",
+        "Assemblée nationale française",
+        "Asamblea Nacional francesa",
+        "الجمعية الوطنية الفرنسية"
+      ]
+    },
+    "education": {
+      "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/title-ix-and-sex-discrimination/sex-discrimination-overview-of-law",
+      "labels": [
+        "US Education Department",
+        "Ministère américain de l’Éducation",
+        "Departamento de Educación estadounidense",
+        "وزارة التعليم الأمريكية"
+      ]
+    },
+    "beauvoir": {
+      "url": "https://plato.stanford.edu/entries/beauvoir/",
+      "labels": [
+        "Stanford: Beauvoir",
+        "Stanford : Beauvoir",
+        "Stanford: Beauvoir",
+        "ستانفورد: بوفوار"
+      ]
+    },
+    "political": {
+      "url": "https://plato.stanford.edu/entries/feminism-political/",
+      "labels": [
+        "Feminist political philosophy",
+        "Philosophie politique féministe",
+        "Filosofía política feminista",
+        "الفلسفة السياسية النسوية"
+      ]
+    },
+    "work": {
+      "url": "https://plato.stanford.edu/entries/feminism-class/",
+      "labels": [
+        "Feminism, class and work",
+        "Féminisme, classe et travail",
+        "Feminismo, clase y trabajo",
+        "النسوية والطبقة والعمل"
+      ]
+    },
+    "crenshaw": {
+      "url": "https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8/",
+      "labels": [
+        "Crenshaw, 1989",
+        "Crenshaw, 1989",
+        "Crenshaw, 1989",
+        "كرينشو، 1989"
+      ]
+    },
+    "africa": {
+      "url": "https://shop.unesco.org/en/products/funmilayo-ransome-kuti-and-the-womens-union-of-abeokuta",
+      "labels": [
+        "UNESCO: Ransome-Kuti",
+        "UNESCO : Ransome-Kuti",
+        "UNESCO: Ransome-Kuti",
+        "اليونسكو: رانسوم كوتي"
+      ]
+    },
+    "southAfrica": {
+      "url": "https://sahistory.org.za/article/1956-womens-march-pretoria-9-august",
+      "labels": [
+        "South African History Online",
+        "South African History Online",
+        "South African History Online",
+        "أرشيف تاريخ جنوب أفريقيا"
+      ]
+    },
+    "arab": {
+      "url": "https://hdr.undp.org/system/files/documents/rbasahdr2005en.pdf",
+      "labels": [
+        "UNDP: Arab historical context",
+        "PNUD : contexte historique arabe",
+        "PNUD: contexto histórico árabe",
+        "UNDP: السياق التاريخي العربي"
+      ]
+    },
+    "cedaw": {
+      "url": "https://legal.un.org/avl/ha/cedaw/cedaw.html",
+      "labels": [
+        "UN legal history: CEDAW",
+        "Histoire juridique de l’ONU : CEDAW",
+        "Historia jurídica de la ONU: CEDAW",
+        "الأمم المتحدة: تاريخ سيداو"
+      ]
+    },
+    "beijing": {
+      "url": "https://www.un.org/en/conferences/women/beijing1995",
+      "labels": [
+        "UN: Beijing 1995",
+        "ONU : Beijing 1995",
+        "ONU: Beijing 1995",
+        "الأمم المتحدة: بيجين 1995"
+      ]
+    },
+    "snapshot": {
+      "url": "https://unstats.un.org/sdgs/gender-snapshot/2026/GenderSnapshot2026.pdf",
+      "labels": [
+        "UN Gender Snapshot 2026",
+        "Gender Snapshot 2026 de l’ONU",
+        "Gender Snapshot 2026 de la ONU",
+        "تقرير الأمم المتحدة لعام 2026"
+      ]
+    },
+    "metoo": {
+      "url": "https://metoomvmt.org/get-to-know-us/history-inception/",
+      "labels": [
+        "me too.: official history",
+        "me too. : histoire officielle",
+        "me too.: historia oficial",
+        "التاريخ الرسمي لحركة me too."
+      ]
+    },
+    "law": {
+      "url": "https://plato.stanford.edu/entries/feminism-law/",
+      "labels": [
+        "Feminist philosophy of law",
+        "Philosophie féministe du droit",
+        "Filosofía feminista del derecho",
+        "الفلسفة النسوية للقانون"
+      ]
+    },
+    "gender": {
+      "url": "https://plato.stanford.edu/entries/feminism-gender/",
+      "labels": [
+        "Sex and gender debates",
+        "Débats sur le sexe et le genre",
+        "Debates sobre sexo y género",
+        "نقاشات الجنس والنوع الاجتماعي"
+      ]
+    },
+    "beautyInternal": {
+      "url": "/articles/plastic-surgery-revolution-beauty-at-any-cost/",
+      "labels": [
+        "PRESDA’s beauty investigation",
+        "notre enquête sur la beauté",
+        "nuestra investigación sobre belleza",
+        "تحقيق PRESDA عن صناعة الجمال"
+      ]
+    },
+    "brandsInternal": {
+      "url": "/articles/psychology-of-brands-why-we-pay-more-for-a-name/",
+      "labels": [
+        "brand psychology",
+        "la psychologie des marques",
+        "psicología de las marcas",
+        "سيكولوجية العلامات التجارية"
+      ]
+    },
+    "shoppingInternal": {
+      "url": "/articles/shopping-psychology-what-drives-women-to-buy/",
+      "labels": [
+        "shopping psychology",
+        "la psychologie des achats",
+        "psicología de las compras",
+        "سيكولوجية التسوق"
+      ]
+    }
+  },
+  "blocks": 44,
+  "faqs": 5,
+  "review": {
+    "scope": "Original historical analysis, not advocacy. 44 matching narrative blocks and five FAQs in EN/FR/AR/ES. Different feminist traditions and criticisms represented without invented quotes or assigning one position to all feminists.",
+    "history": [
+      {
+        "year": 1791,
+        "event": "Olympe de Gouges Declaration of the Rights of Woman and of the Female Citizen, historical text, not origin of all women’s agency."
+      },
+      {
+        "year": 1792,
+        "event": "Wollstonecraft Vindication, educational argument, no fabricated quotation."
+      },
+      {
+        "year": 1848,
+        "event": "Seneca Falls; Stanton and Mott; NPS historian documents racial exclusions and abolitionist links."
+      },
+      {
+        "year": 1893,
+        "event": "New Zealand first self-governing country granting women parliamentary franchise, not all political power."
+      },
+      {
+        "year": 1903,
+        "event": "Pankhurst and others establish WSPU; parliamentary historical catalogue."
+      },
+      {
+        "year": 1918,
+        "event": "British women aged 30 and over meeting qualifications, not all adult women."
+      },
+      {
+        "year": 1928,
+        "event": "Equal franchise terms with men in Britain."
+      },
+      {
+        "year": 1920,
+        "event": "US Nineteenth Amendment ratified 18 August; racial barriers persisted."
+      },
+      {
+        "year": 1923,
+        "event": "Huda Shaarawi Egyptian Feminist Union, UNDP historical account, not a source for current Arab law."
+      },
+      {
+        "year": 1944,
+        "event": "France ordinance 21 April recognising voting and eligibility, not claim every colonial woman immediately enfranchised."
+      },
+      {
+        "year": 1949,
+        "event": "Beauvoir The Second Sex, not fabricated quote or denial of biological facts."
+      },
+      {
+        "year": 1956,
+        "event": "Pretoria march 9 August against apartheid pass laws, historian reports turnout range 10,000–20,000; displayed without em dash."
+      },
+      {
+        "year": 1972,
+        "event": "Title IX signed, federal education funding scope verified from US Education Department."
+      },
+      {
+        "year": 1979,
+        "event": "CEDAW adoption, treaty distinguished from implementation."
+      },
+      {
+        "year": 1989,
+        "event": "Crenshaw original legal article, intersectionality not identity checklist."
+      },
+      {
+        "year": 1995,
+        "event": "189 countries Beijing declaration and platform, not a binding treaty."
+      },
+      {
+        "year": 2006,
+        "event": "Tarana Burke me too. founded, movement’s official history."
+      },
+      {
+        "year": 2017,
+        "event": "Hashtag global visibility, not original founding date or prevalence survey."
+      }
+    ],
+    "data": {
+      "source": "UN Women and UN DESA, Gender Snapshot 2026, September 2026",
+      "parliament": {
+        "value": 27.4,
+        "unit": "percent",
+        "date": "January 2026",
+        "denominator": "national parliament single or lower chambers",
+        "comparison": {
+          "value": 22.3,
+          "year": 2015
+        }
+      },
+      "management": {
+        "value": 30.5,
+        "unit": "percent of managerial positions",
+        "year": 2025
+      },
+      "care": {
+        "value": 2.5,
+        "unit": "female-to-male daily hours ratio, unpaid domestic and care work, global average",
+        "year": 2023
+      },
+      "limits": "Different reference dates and indicators. Not equal-pay statistics, not each household, not causal estimate of feminist movement’s effects. No forecast presented as certainty."
+    },
+    "editorial": [
+      "Wave boundaries disputed and Western-centric; African and Arab examples treated in own contexts.",
+      "Liberal, radical, socialist/Marxist and intersectional accounts distinguished. Radical does not inherently mean violent.",
+      "Class, race, religion and regional variation acknowledged. Autonomy not inferred from clothing.",
+      "Claims about policy must be supported; fair representation not false equivalence.",
+      "Sex work and gender-identity disagreements presented without group-danger stereotypes.",
+      "#MeToo testimony distinct from verified investigation and judicial findings.",
+      "No expert or named reviewer credentials invented."
+    ],
+    "sourceAccess": "Britannica could not be accessed. Historical and conceptual claims verified against accessible primary archives, UN publications and academic scholarship instead.",
+    "hero": "Approved original preserved; AI illustration combining imagined demonstrators and historic references, not documentary evidence or authentic activist portrait."
+  }
+}

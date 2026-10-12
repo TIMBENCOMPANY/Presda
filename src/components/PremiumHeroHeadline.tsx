@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "feminism-movement-redefined-womens-rights": {
+    en: { red: "FEMINISM", gold: "RIGHTS" },
+    fr: { red: "FÉMINISME", gold: "DROITS" },
+    ar: { red: "النسوية", gold: "حقوق" },
+    es: { red: "FEMINISMO", gold: "DERECHOS" }
+  },
   "psychology-of-jealousy-when-love-turns-into-suspicion": {
     en: { red: "JEALOUSY", gold: "SUSPICION" },
     fr: { red: "JALOUSIE", gold: "SUSPICION" },

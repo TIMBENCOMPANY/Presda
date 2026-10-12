@@ -1096,6 +1096,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/feminism-movement-redefined-womens-rights/",
+    "path": "/ar/articles/feminism-movement-redefined-womens-rights/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/feminism-movement-redefined-womens-rights/",
+    "path": "/es/articles/feminism-movement-redefined-womens-rights/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/feminism-movement-redefined-womens-rights/",
+    "path": "/fr/articles/feminism-movement-redefined-womens-rights/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/football-fans-psychology-passion-rivalry-violence/",
     "path": "/ar/articles/football-fans-psychology-passion-rivalry-violence/"
   },
