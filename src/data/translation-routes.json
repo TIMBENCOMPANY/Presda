@@ -2596,6 +2596,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/paranoia-why-do-we-feel-watched/",
+    "path": "/ar/articles/paranoia-why-do-we-feel-watched/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/paranoia-why-do-we-feel-watched/",
+    "path": "/es/articles/paranoia-why-do-we-feel-watched/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/paranoia-why-do-we-feel-watched/",
+    "path": "/fr/articles/paranoia-why-do-we-feel-watched/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/persian-empire-cyrus-great-achaemenid-history/",
     "path": "/ar/articles/persian-empire-cyrus-great-achaemenid-history/"
   },

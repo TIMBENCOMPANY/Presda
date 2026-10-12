@@ -1,0 +1,487 @@
+{
+  "checkedAt": "2026-10-12T01:51:22.486Z",
+  "checks": [
+    {
+      "locale": "en",
+      "size": "desktop",
+      "stage": "local",
+      "colors": [
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "PARANOIA"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": WHY DO WE FEEL "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "WATCHED"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "?"
+        }
+      ],
+      "dir": "ltr",
+      "fit": "cover",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 778.5000457763672,
+        "height": 641.3333740234375,
+        "width": 1232.666748046875,
+        "x": 16,
+        "y": 137.1666717529297
+      },
+      "image": {
+        "bottom": 777.8333435058594,
+        "height": 640,
+        "width": 1231.3333740234375,
+        "x": 16.666667938232422,
+        "y": 137.83334350585938
+      },
+      "lang": "en",
+      "loaded": true,
+      "mediaPosition": "absolute",
+      "natural": [
+        836,
+        470
+      ],
+      "overflow": false,
+      "title": {
+        "bottom": 539.0416793823242,
+        "height": 99.52083587646484,
+        "width": 472.7708435058594,
+        "x": 72.66667175292969,
+        "y": 439.5208435058594
+      },
+      "width": 1280
+    },
+    {
+      "locale": "fr",
+      "size": "desktop",
+      "stage": "local",
+      "colors": [
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "PARANOÏA"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " : POURQUOI SE SENT-ON "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "OBSERVÉ"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " ?"
+        }
+      ],
+      "dir": "ltr",
+      "fit": "cover",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 778.5000457763672,
+        "height": 641.3333740234375,
+        "width": 1232.666748046875,
+        "x": 16,
+        "y": 137.1666717529297
+      },
+      "image": {
+        "bottom": 777.8333435058594,
+        "height": 640,
+        "width": 1231.3333740234375,
+        "x": 16.666667938232422,
+        "y": 137.83334350585938
+      },
+      "lang": "fr",
+      "loaded": true,
+      "mediaPosition": "absolute",
+      "natural": [
+        557,
+        313
+      ],
+      "overflow": false,
+      "title": {
+        "bottom": 568.6145858764648,
+        "height": 99.52083587646484,
+        "width": 472.7708435058594,
+        "x": 72.66667175292969,
+        "y": 469.09375
+      },
+      "width": 1280
+    },
+    {
+      "locale": "ar",
+      "size": "desktop",
+      "stage": "local",
+      "colors": [
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "الارتياب"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": لماذا نشعر بأننا "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "مراقبون"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "؟"
+        }
+      ],
+      "dir": "rtl",
+      "fit": "cover",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 778.5000457763672,
+        "height": 641.3333740234375,
+        "width": 1232.666748046875,
+        "x": 16,
+        "y": 137.1666717529297
+      },
+      "image": {
+        "bottom": 777.8333435058594,
+        "height": 640,
+        "width": 1231.3333740234375,
+        "x": 16.666667938232422,
+        "y": 137.83334350585938
+      },
+      "lang": "ar",
+      "loaded": true,
+      "mediaPosition": "absolute",
+      "natural": [
+        557,
+        313
+      ],
+      "overflow": false,
+      "title": {
+        "bottom": 598.1875228881836,
+        "height": 62.20833587646485,
+        "width": 472.7708435058594,
+        "x": 719.2291870117188,
+        "y": 535.9791870117188
+      },
+      "width": 1280
+    },
+    {
+      "locale": "es",
+      "size": "desktop",
+      "stage": "local",
+      "colors": [
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "PARANOIA"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": ¿POR QUÉ NOS SENTIMOS "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "OBSERVADOS"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "?"
+        }
+      ],
+      "dir": "ltr",
+      "fit": "cover",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 778.5000457763672,
+        "height": 641.3333740234375,
+        "width": 1232.666748046875,
+        "x": 16,
+        "y": 137.1666717529297
+      },
+      "image": {
+        "bottom": 777.8333435058594,
+        "height": 640,
+        "width": 1231.3333740234375,
+        "x": 16.666667938232422,
+        "y": 137.83334350585938
+      },
+      "lang": "es",
+      "loaded": true,
+      "mediaPosition": "absolute",
+      "natural": [
+        557,
+        313
+      ],
+      "overflow": false,
+      "title": {
+        "bottom": 568.6145935058594,
+        "height": 149.28125,
+        "width": 472.7708435058594,
+        "x": 72.66667175292969,
+        "y": 419.3333435058594
+      },
+      "width": 1280
+    },
+    {
+      "locale": "en",
+      "size": "mobile",
+      "stage": "local",
+      "colors": [
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "PARANOIA"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": WHY DO WE FEEL "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "WATCHED"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "?"
+        }
+      ],
+      "dir": "ltr",
+      "fit": "contain",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 671.4271087646484,
+        "height": 546.2604370117188,
+        "width": 350.66668701171875,
+        "x": 12,
+        "y": 125.16667175292967
+      },
+      "image": {
+        "bottom": 322.33333587646484,
+        "height": 196.5,
+        "width": 349.3333435058594,
+        "x": 12.666666984558104,
+        "y": 125.83333587646484
+      },
+      "lang": "en",
+      "loaded": true,
+      "mediaPosition": "relative",
+      "natural": [
+        390,
+        219
+      ],
+      "overflow": false,
+      "title": {
+        "bottom": 465.0833435058594,
+        "height": 70.75,
+        "width": 309.3333435058594,
+        "x": 32.66666793823242,
+        "y": 394.3333435058594
+      },
+      "width": 390
+    },
+    {
+      "locale": "fr",
+      "size": "mobile",
+      "stage": "local",
+      "colors": [
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "PARANOÏA"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " : POURQUOI SE SENT-ON "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "OBSERVÉ"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": " ?"
+        }
+      ],
+      "dir": "ltr",
+      "fit": "contain",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 694.4271087646484,
+        "height": 569.2604370117188,
+        "width": 350.66668701171875,
+        "x": 12,
+        "y": 125.16667175292967
+      },
+      "image": {
+        "bottom": 322.33333587646484,
+        "height": 196.5,
+        "width": 349.3333435058594,
+        "x": 12.666666984558104,
+        "y": 125.83333587646484
+      },
+      "lang": "fr",
+      "loaded": true,
+      "mediaPosition": "relative",
+      "natural": [
+        390,
+        219
+      ],
+      "overflow": false,
+      "title": {
+        "bottom": 465.0833435058594,
+        "height": 70.75,
+        "width": 309.3333435058594,
+        "x": 32.66666793823242,
+        "y": 394.3333435058594
+      },
+      "width": 390
+    },
+    {
+      "locale": "ar",
+      "size": "mobile",
+      "stage": "local",
+      "colors": [
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "الارتياب"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": لماذا نشعر بأننا "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "مراقبون"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "؟"
+        }
+      ],
+      "dir": "rtl",
+      "fit": "contain",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 610.7187652587891,
+        "height": 485.5520935058594,
+        "width": 350.66668701171875,
+        "x": 12,
+        "y": 125.16667175292967
+      },
+      "image": {
+        "bottom": 322.33333587646484,
+        "height": 196.5,
+        "width": 349.3333435058594,
+        "x": 12.666666984558104,
+        "y": 125.83333587646484
+      },
+      "lang": "ar",
+      "loaded": true,
+      "mediaPosition": "relative",
+      "natural": [
+        390,
+        219
+      ],
+      "overflow": false,
+      "title": {
+        "bottom": 433.6458435058594,
+        "height": 39.3125,
+        "width": 309.3333435058594,
+        "x": 32.66666793823242,
+        "y": 394.3333435058594
+      },
+      "width": 390
+    },
+    {
+      "locale": "es",
+      "size": "mobile",
+      "stage": "local",
+      "colors": [
+        {
+          "color": "rgb(229, 57, 53)",
+          "text": "PARANOIA"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": ": ¿POR QUÉ NOS SENTIMOS "
+        },
+        {
+          "color": "rgb(217, 173, 85)",
+          "text": "OBSERVADOS"
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "text": "?"
+        }
+      ],
+      "dir": "ltr",
+      "fit": "contain",
+      "gradient": [
+        "linear-gradient(90deg, rgba(0, 0, 0, 0.82) 0%, rgba(0, 0, 0, 0.58) 33%, rgba(0, 0, 0, 0.2) 62%, rgba(0, 0, 0, 0.03) 100%)",
+        "linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.08) 48%, rgba(0, 0, 0, 0.3) 100%)"
+      ],
+      "h1Count": 1,
+      "hero": {
+        "bottom": 694.4271087646484,
+        "height": 569.2604370117188,
+        "width": 350.66668701171875,
+        "x": 12,
+        "y": 125.16667175292967
+      },
+      "image": {
+        "bottom": 322.33333587646484,
+        "height": 196.5,
+        "width": 349.3333435058594,
+        "x": 12.666666984558104,
+        "y": 125.83333587646484
+      },
+      "lang": "es",
+      "loaded": true,
+      "mediaPosition": "relative",
+      "natural": [
+        390,
+        219
+      ],
+      "overflow": false,
+      "title": {
+        "bottom": 465.0833435058594,
+        "height": 70.75,
+        "width": 309.3333435058594,
+        "x": 32.66666793823242,
+        "y": 394.3333435058594
+      },
+      "width": 390
+    }
+  ],
+  "faq": "Spanish first answer expanded correctly",
+  "cssChanges": false
+}

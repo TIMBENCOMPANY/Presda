@@ -1,0 +1,170 @@
+{
+  "checkedAt": "2026-10-12",
+  "sources": {
+    "perspective": {
+      "url": "https://academic.oup.com/schizophreniabulletin/article/50/2/233/7600406",
+      "labels": [
+        "Freeman: clinical perspective, 2024",
+        "Freeman : perspective clinique, 2024",
+        "Freeman: perspectiva clínica, 2024",
+        "فريمان: منظور سريري، 2024"
+      ]
+    },
+    "vr": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18378984/",
+      "labels": [
+        "Freeman et al.: virtual train, 2008",
+        "Freeman et coll. : train virtuel, 2008",
+        "Freeman y colaboradores: tren virtual, 2008",
+        "فريمان وزملاؤه: القطار الافتراضي، 2008"
+      ]
+    },
+    "threat": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15225975/",
+      "labels": [
+        "Green and Phillips: social-threat review, 2004",
+        "Green et Phillips : menace sociale, 2004",
+        "Green y Phillips: amenaza social, 2004",
+        "غرين وفيليبس: مراجعة التهديد الاجتماعي، 2004"
+      ]
+    },
+    "salience": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12505794/",
+      "labels": [
+        "Kapur: salience framework, 2003",
+        "Kapur : cadre de la saillance, 2003",
+        "Kapur: marco de saliencia, 2003",
+        "كابور: نموذج البروزية، 2003"
+      ]
+    },
+    "dopamine": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19325164/",
+      "labels": [
+        "Howes and Kapur: dopamine review, 2009",
+        "Howes et Kapur : dopamine, 2009",
+        "Howes y Kapur: dopamina, 2009",
+        "هاوز وكابور: مراجعة الدوبامين، 2009"
+      ]
+    },
+    "worry": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25834882/",
+      "labels": [
+        "Worry Intervention Trial, 2015",
+        "Worry Intervention Trial, 2015",
+        "Worry Intervention Trial, 2015",
+        "تجربة تدخل الانشغال، 2015"
+      ]
+    },
+    "trauma": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40165558/",
+      "labels": [
+        "Zhou et al.: adversity meta-analysis, 2025",
+        "Zhou et coll. : méta-analyse de l’adversité, 2025",
+        "Zhou y colaboradores: metaanálisis de adversidad, 2025",
+        "تشو وزملاؤه: تحليل شدائد الطفولة، 2025"
+      ]
+    },
+    "sleep": {
+      "url": "https://ora.ox.ac.uk/objects/uuid%3A7043720e-1dd3-4a19-9775-d59905e58e11",
+      "labels": [
+        "OASIS randomised trial, 2017",
+        "Essai randomisé OASIS, 2017",
+        "Ensayo aleatorizado OASIS, 2017",
+        "تجربة OASIS العشوائية، 2017"
+      ]
+    },
+    "symptoms": {
+      "url": "https://www.nhs.uk/mental-health/conditions/psychosis/symptoms/",
+      "labels": [
+        "NHS: psychosis symptoms",
+        "NHS : symptômes de psychose",
+        "NHS: síntomas de psicosis",
+        "NHS: أعراض الذهان"
+      ]
+    },
+    "psychosis": {
+      "url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis",
+      "labels": [
+        "NIMH: understanding psychosis",
+        "NIMH : comprendre la psychose",
+        "NIMH: entender la psicosis",
+        "المعهد الوطني للصحة النفسية: فهم الذهان"
+      ]
+    },
+    "genetics": {
+      "url": "https://www.nimh.nih.gov/health/publications/schizophrenia",
+      "labels": [
+        "NIMH: schizophrenia and risk factors",
+        "NIMH : schizophrénie et facteurs de risque",
+        "NIMH: esquizofrenia y factores de riesgo",
+        "المعهد الوطني للصحة النفسية: الفصام وعوامل الخطر"
+      ]
+    },
+    "apa": {
+      "url": "https://www.apa.org/monitor/2021/04/ce-mental-illness",
+      "labels": [
+        "APA: mental illness and violence",
+        "APA : troubles mentaux et violence",
+        "APA: trastornos mentales y violencia",
+        "الجمعية الأمريكية لعلم النفس: الاضطراب والعنف"
+      ]
+    },
+    "safe": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34246324/",
+      "labels": [
+        "Feeling Safe randomised trial, 2021",
+        "Essai randomisé Feeling Safe, 2021",
+        "Ensayo aleatorizado Feeling Safe, 2021",
+        "تجربة Feeling Safe العشوائية، 2021"
+      ]
+    },
+    "treatment": {
+      "url": "https://www.nhs.uk/mental-health/conditions/psychosis/treatment/",
+      "labels": [
+        "NHS: psychosis treatment",
+        "NHS : traitement des psychoses",
+        "NHS: tratamiento de psicosis",
+        "NHS: علاج الذهان"
+      ]
+    },
+    "lieInternal": {
+      "url": "/articles/lie-detectors-can-science-really-detect-deception/",
+      "labels": [
+        "lie detection",
+        "la détection du mensonge",
+        "la detección de mentiras",
+        "كشف الكذب"
+      ]
+    },
+    "hypnosisInternal": {
+      "url": "/articles/can-hypnosis-really-control-your-mind/",
+      "labels": [
+        "hypnosis",
+        "l’hypnose",
+        "la hipnosis",
+        "التنويم الإيحائي"
+      ]
+    }
+  },
+  "review": [
+    "No duplicate found; id244; publication UTC12October2026",
+    "Everyday suspicion versus unsupported harm attribution, real stalking/discrimination considered, no validation of imagined surveillance",
+    "Continuum useful but debated, not inevitable progression or one-symptom diagnosis",
+    "VR2008 N200 general-public neutral-avatar train; substantial minority reported concerns, no universal prevalence inference",
+    "Amygdala participates in distributed threat systems; functional imaging indirect and group-based, no standalone individual diagnosis",
+    "Kapur2003 aberrant salience framework explicitly hypothesis; HowesKapur2009 presynaptic striatal dopamine in broader psychosis, not a dopamine test for everyday suspicion",
+    "WIT2015 N150 six-session CBTworry, usualcare comparison; reduced worry and delusion severity, no causal exclusivity",
+    "Zhou2025 updated childhood-adversity/psychosis meta-analysis association, not trauma destiny or paranoia-specific outcome",
+    "OASIS2017 N3755 students with insomnia; tenweek paranoia effectsize0.19, not19percentcured, selfreport/attrition and student-sample limitations",
+    "Thoughts versus persecutory delusions versus hallucinations; psychosis not equivalent to schizophrenia; contextual differential",
+    "NIMH genetic/developmental/environmental factors no single gene or amateur familyhistory diagnosis",
+    "APA2021/2022 most people with mental disorders not violent; contextual assessment rather than diagnostic stigma",
+    "FeelingSafe2021 N130, active befriending comparator same therapists, usualcare continued; sixmonth conviction outcome benefit, assessors masked, participants/therapists unmasked; no invented case testimony",
+    "NHStreatment collaborative CBT, socialsupport, individual medication benefit/risk with prescriber; no dose/instruction to startstopmedication",
+    "Local emergency medical assistance only for immediate danger/sudden confusion; no unsolicited crisis phone number",
+    "Hero unchanged AIillustration explicitly imagined not evidence; shared Jellyfish desktop reused, mobile CSS unchanged",
+    "SEO/GEO: serverrendered definition/evidence sections, FAQs with limitations, inline primarylinks, localized metadata/schema/canonicals/hreflang/sitemap; no promised search richresults"
+  ],
+  "blocks": 38,
+  "faqs": 5
+}

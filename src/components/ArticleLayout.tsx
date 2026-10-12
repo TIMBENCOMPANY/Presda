@@ -5,6 +5,7 @@ import hypnosisHeroCaptions from "@/data/hypnosisHeroCaptions.json";
 import cultsHeroCaptions from "@/data/cultsHeroCaptions.json";
 import polygraphHeroCaptions from "@/data/polygraphHeroCaptions.json";
 import serialKillersHeroCaptions from "@/data/serialKillersHeroCaptions.json";
+import paranoiaHeroCaptions from "@/data/paranoiaHeroCaptions.json";
 import { UniqueHotelsComparison } from "@/components/UniqueHotelsComparison";
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { SonghaiGraphics } from "@/components/SonghaiGraphics";
@@ -303,6 +304,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {standaloneHero && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{cultsHeroCaptions[locale]}</p>}
         {article.slug === "lie-detectors-can-science-really-detect-deception" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{polygraphHeroCaptions[locale]}</p>}
         {article.slug === "psychology-of-serial-killers-what-science-knows" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{serialKillersHeroCaptions[locale]}</p>}
+        {article.slug === "paranoia-why-do-we-feel-watched" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{paranoiaHeroCaptions[locale]}</p>}
         {article.slug === "can-hypnosis-really-control-your-mind" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{hypnosisHeroCaptions[locale]}</p>}
 
         {article.slug === "modern-architecture-world-most-breathtaking-buildings" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{architectureMedia[locale].heroCaption}</p>}

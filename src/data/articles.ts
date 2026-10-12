@@ -1,3 +1,4 @@
+import { paranoiaArticle } from "@/data/paranoiaArticle";
 import { serialKillersArticle } from "@/data/serialKillersArticle";
 import { polygraphArticle } from "@/data/polygraphArticle";
 import { cultsArticle } from "@/data/cultsArticle";
@@ -35689,7 +35690,8 @@ export const articles: Article[] = [
   hypnosisArticle,
   cultsArticle,
   polygraphArticle,
-  serialKillersArticle
+  serialKillersArticle,
+  paranoiaArticle
 ];
 
 export const categories: ArticleCategory[] = [

@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "paranoia-why-do-we-feel-watched": {
+    en: { red: "PARANOIA", gold: "WATCHED" },
+    fr: { red: "PARANOÏA", gold: "OBSERVÉ" },
+    ar: { red: "الارتياب", gold: "مراقبون" },
+    es: { red: "PARANOIA", gold: "OBSERVADOS" }
+  },
   "psychology-of-serial-killers-what-science-knows": {
     en: { red: "SERIAL KILLERS", gold: "SCIENCE" },
     fr: { red: "TUEURS", gold: "SCIENCE" },
