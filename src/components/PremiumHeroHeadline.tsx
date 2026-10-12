@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "sleep-paralysis-when-you-wake-up-but-cannot-move": {
+    en: { red: "PARALYSIS", gold: "WAKE UP" },
+    fr: { red: "PARALYSIE", gold: "RÉVEILLE" },
+    ar: { red: "شلل", gold: "تستيقظ" },
+    es: { red: "PARÁLISIS", gold: "DESPIERTAS" }
+  },
   "paranoia-why-do-we-feel-watched": {
     en: { red: "PARANOIA", gold: "WATCHED" },
     fr: { red: "PARANOÏA", gold: "OBSERVÉ" },

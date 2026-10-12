@@ -1,0 +1,193 @@
+{
+  "checkedAt": "2026-10-12",
+  "sources": {
+    "nhs": {
+      "url": "https://www.nhs.uk/conditions/sleep-paralysis/",
+      "labels": [
+        "NHS: sleep paralysis",
+        "NHS : paralysie du sommeil",
+        "NHS: parálisis del sueño",
+        "NHS: شلل النوم"
+      ]
+    },
+    "rem": {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK20359/",
+      "labels": [
+        "NIH: sleep physiology",
+        "NIH : physiologie du sommeil",
+        "NIH: fisiología del sueño",
+        "المعاهد الوطنية للصحة: فسيولوجيا النوم"
+      ]
+    },
+    "lab": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1621022/",
+      "labels": [
+        "Takeuchi et al., 1992",
+        "Takeuchi et coll., 1992",
+        "Takeuchi y colaboradores, 1992",
+        "تاكيوتشي وزملاؤه، 1992"
+      ]
+    },
+    "eeg": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33283752/",
+      "labels": [
+        "Mainieri et al.: EEG study, 2021",
+        "Mainieri et coll. : EEG, 2021",
+        "Mainieri y colaboradores: EEG, 2021",
+        "مانييري وزملاؤها: EEG، 2021"
+      ]
+    },
+    "hallucinations": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10487786/",
+      "labels": [
+        "Cheyne et al.: hallucination model, 1999",
+        "Cheyne et coll. : modèle des hallucinations, 1999",
+        "Cheyne y colaboradores: modelo de alucinaciones, 1999",
+        "شاين وزملاؤه: نموذج الهلوسات، 1999"
+      ]
+    },
+    "breathing": {
+      "url": "https://health.osu.edu/health/sleep/whats-happening-to-the-body-during-sleep-paralysis",
+      "labels": [
+        "Ohio State: muscles and breathing",
+        "Ohio State : muscles et respiration",
+        "Ohio State: músculos y respiración",
+        "جامعة ولاية أوهايو: العضلات والتنفس"
+      ]
+    },
+    "prevalence": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21571556/",
+      "labels": [
+        "Sharpless and Barber: prevalence review, 2011",
+        "Sharpless et Barber : prévalence, 2011",
+        "Sharpless y Barber: prevalencia, 2011",
+        "شاربلس وباربر: مراجعة الانتشار، 2011"
+      ]
+    },
+    "hag": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/699620/",
+      "labels": [
+        "Ness: Newfoundland field study, 1978",
+        "Ness : enquête à Terre-Neuve, 1978",
+        "Ness: estudio de Terranova, 1978",
+        "نيس: دراسة نيوفاوندلاند، 1978"
+      ]
+    },
+    "jathoom": {
+      "url": "https://www.squ.edu.om/Portals/29/PDF/ETS-literature.pdf?ver=2020-03-16-123732-493",
+      "labels": [
+        "Sultan Qaboos University: literary account of Al Jathoom",
+        "Université Sultan Qaboos : récit littéraire du Jathoom",
+        "Universidad Sultán Qaboos: relato literario de Jathoom",
+        "جامعة السلطان قابوس: نص أدبي عن الجاثوم"
+      ]
+    },
+    "turkey": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8060736/",
+      "labels": [
+        "Jalal et al.: Karabasan interpretations",
+        "Jalal et coll. : interprétations du karabasan",
+        "Jalal y colaboradores: interpretaciones de karabasan",
+        "جلال وزملاؤه: تفسيرات كاراباسان"
+      ]
+    },
+    "culture": {
+      "url": "https://journals.sagepub.com/doi/10.1177/1363461513503378",
+      "labels": [
+        "Jalal et al.: Egypt–Denmark study, 2014 issue",
+        "Jalal et coll. : Égypte–Danemark, numéro de 2014",
+        "Jalal y colaboradores: Egipto–Dinamarca, edición de 2014",
+        "جلال وزملاؤه: مصر والدنمارك، عدد 2014"
+      ]
+    },
+    "risk": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28735779/",
+      "labels": [
+        "Denis et al.: systematic review, 2018 issue",
+        "Denis et coll. : revue systématique, numéro de 2018",
+        "Denis y colaboradores: revisión sistemática, edición de 2018",
+        "دينيس وزملاؤه: مراجعة منهجية، عدد 2018"
+      ]
+    },
+    "narcolepsy": {
+      "url": "https://www.nhs.uk/conditions/narcolepsy/",
+      "labels": [
+        "NHS: narcolepsy",
+        "NHS : narcolepsie",
+        "NHS: narcolepsia",
+        "NHS: النوم القهري"
+      ]
+    },
+    "foundation": {
+      "url": "https://www.sleepfoundation.org/parasomnias/sleep-paralysis",
+      "labels": [
+        "Sleep Foundation: coping and sleep health",
+        "Sleep Foundation : sommeil et stratégies",
+        "Sleep Foundation: afrontamiento y sueño",
+        "Sleep Foundation: التعامل وصحة النوم"
+      ]
+    },
+    "guide": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27486325/",
+      "labels": [
+        "Sharpless: clinical guide, 2016",
+        "Sharpless : guide clinique, 2016",
+        "Sharpless: guía clínica, 2016",
+        "شاربلس: دليل سريري، 2016"
+      ]
+    },
+    "pilot": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32903364/",
+      "labels": [
+        "Jalal et al.: pilot treatment study, 2020",
+        "Jalal et coll. : étude pilote, 2020",
+        "Jalal y colaboradores: estudio piloto, 2020",
+        "جلال وزملاؤه: دراسة علاج أولية، 2020"
+      ]
+    },
+    "paranoiaInternal": {
+      "url": "/articles/paranoia-why-do-we-feel-watched/",
+      "labels": [
+        "paranoia",
+        "la paranoïa",
+        "la paranoia",
+        "الارتياب"
+      ]
+    },
+    "hypnosisInternal": {
+      "url": "/articles/can-hypnosis-really-control-your-mind/",
+      "labels": [
+        "hypnosis",
+        "l’hypnose",
+        "la hipnosis",
+        "التنويم الإيحائي"
+      ]
+    }
+  },
+  "blocks": 40,
+  "faqs": 5,
+  "review": [
+    "No duplicate standalone feature; id245; existing possession article has a brief related section only",
+    "Sleep-transition inability to move/speak; hallucinations optional, experience real but entity not established",
+    "NIH sleep education: REM atonia and central regulation; dreams also occur outside REM",
+    "Takeuchi1992 N16 participants, six recorded episodes, selected sample and induced sleep interruptions; no home induction instructions",
+    "Mainieri2021 five episodes/five participants, mixed REM/wake EEG and prominent REM-like activity; no fully-wake-brain claim or universal signature",
+    "Cheyne1999 three-factor model intruder/incubus/unusualbody, proposed mechanisms not a demon-generating brain circuit",
+    "OhioState breathing explanation: diaphragm continues, not all respiratory difficulty is harmless; persistent/acute symptoms need assessment",
+    "SharplessBarber2011 N36533 lifetime general7.6/student28.3/psychiatric31.9 percent; dated group estimates not latest universal rate/recurrent-disorder prevalence",
+    "Ness1978 13months fieldwork Newfoundland OldHag cultural account, not evidence of entity",
+    "Jathoom Arabic term: SultanQaboosUniversity primary literary account explicitly cultural not clinical evidence; no religious stereotype",
+    "Jalal2014issue/online2013: Cairo89/Copenhagen59/AUC44 experiencers, differing explanations, no country-wide or causal belief inference",
+    "Karabasan/kanashibari primary crosscultural research; variable beliefs within societies",
+    "DenisFrenchGregory2018issue/online2017 systematic associations, observational directionality cautions",
+    "Narcolepsy distinct diagnosis, EDS/cataplexy sleepattacks need evaluation; paralysis alone not diagnostic",
+    "NHS regularsleep7–9hours/adults, schedule/position recommendations conditional not guaranteed; no unsupervised medication changes",
+    "SleepFoundation smallmovement/relaxation possible coping, no instant escape or breathholding/extreme techniques",
+    "Sharpless2016 clinical guidance: specific treatment evidence limited, not extrapolate CBT success from other conditions",
+    "Jalal2020 pilot ten narcolepsypatients six intervention/fourcomparison, preliminary exploratory not universal cure or established isolated-SP treatment",
+    "No invented patient quotes, statistics, supernatural proof or sensational medical advice",
+    "Approved original hero unchanged and explicitly imagined hallucination, no realentity/photo claim",
+    "Shared Jellyfish desktop component and established mobile CSS unchanged",
+    "SEO/GEO: sourced definitions/uncertainty, serverrendered localizedbody/metadata, FAQs, reciprocalhreflang/selfcanonicals/schema/sitemap; no promised Google richresult eligibility"
+  ]
+}

@@ -285284,6 +285284,897 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/",
+    "path": "/ar/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "PRESDA scientific and localization review: REM physiology, prevalence denominators, cultural attribution and limited treatment evidence",
+      "reviewedAt": "2026-10-12",
+      "terminologyChecked": true
+    },
+    "title": "شلل النوم: عندما تستيقظ ولا تستطيع الحركة",
+    "seoTitle": "شلل النوم والجاثوم: مرحلة REM والهلوسات وما الذي يساعد",
+    "description": "لماذا يبدو شلل النوم كوجود شخص أو ضغط على الصدر، وماذا تكشف أبحاث النوم، وكيف يمكن تقليل النوبات وطلب الرعاية المناسبة؟",
+    "excerpt": "لماذا يبدو شلل النوم كوجود شخص أو ضغط على الصدر، وماذا تكشف أبحاث النوم، وكيف يمكن تقليل النوبات وطلب الرعاية المناسبة؟",
+    "headlineHighlights": {
+      "red": "شلل",
+      "gold": "تستيقظ"
+    },
+    "keywords": [
+      "شلل النوم",
+      "الجاثوم",
+      "ارتخاء العضلات في REM",
+      "هلوسات النوم",
+      "شلل النوم المعزول المتكرر"
+    ],
+    "searchIntent": "لماذا يبدو شلل النوم كوجود شخص أو ضغط على الصدر، وماذا تكشف أبحاث النوم، وكيف يمكن تقليل النوبات وطلب الرعاية المناسبة؟",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-12",
+    "updatedAt": "2026-10-12",
+    "image": {
+      "src": "/articles/sleep-paralysis-jathoom-ai.png",
+      "alt": "رسم مولد بالذكاء الاصطناعي لشخص خائف في السرير مع هيئة مظلمة متخيلة، يجسد هلوسة مرتبطة بالنوم وليس كيانا حقيقيا"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تبدو الغرفة مألوفة. تحاول تحريك رأسك ثم النداء، لكن الفعل لا يتبع النية. يبدو أن هيئة تقف قرب السرير. هذا مشهد توضيحي لا شهادة مختلقة لمريض. بالنسبة لمن يختبر شلل النوم، تكمن الرهبة في الشعور بوجود الوعي بينما لا تعود القدرة على الحركة الإرادية. قد تبدو التفاصيل المحيطة عادية إلى درجة تجعل الإحساس غير العادي أشد إقناعا وإخافة."
+      },
+      {
+        "type": "paragraph",
+        "text": "شلل النوم عجز مؤقت عن الحركة أو الكلام عند الاستغراق في النوم أو الاستيقاظ. يرتبط باستمرار تثبيط العضلات من مرحلة حركة العين السريعة، المعروفة باسم REM. قد ترافقه هلوسات لكنها ليست شرطا. الخوف تجربة حقيقية؛ إدراك متسلل لا يثبت وجوده. جرى التحقق من مصادر هذا التحقيق في أكتوبر 2026، مع فصل تفسير الخبرة عن صدق شعور الشخص بأنه عاشها فعلا. [NHS: شلل النوم](https://www.nhs.uk/conditions/sleep-paralysis/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الاستيقاظ ليس مفتاحا يعمل دائما دفعة واحدة"
+      },
+      {
+        "type": "paragraph",
+        "text": "يتنقل النوم بين مراحل REM وغير REM، ولا يطفئ الدماغ كله بالتساوي. خلال REM يدعم النشاط أحلاما حية وينخفض توتر عضلات الذراعين والساقين كثيرا. يساعد هذا الارتخاء على منع تنفيذ الأحلام بالحركة. إنه تنظيم نشط عبر إشارات جذع الدماغ والمسارات الشوكية، لا نفاد طاقة الجسم. تحدث الأحلام خارج REM أيضا، لذلك لا تعني كلمة حلم أن الشخص كان بالضرورة في هذه المرحلة دون غيرها. [المعاهد الوطنية للصحة: فسيولوجيا النوم](https://www.ncbi.nlm.nih.gov/books/NBK20359/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "عادة يتغير الوعي والإدراك والتحكم الحركي معا عند انتهاء النوم. يوضح الشلل أن المكونات قد لا تنتقل بتزامن كامل. قد يدرك الشخص غرفة نومه ويتذكر النوبة بينما يستمر ارتخاء REM. عبارة دماغ مستيقظ تماما داخل جسم نائم اختصار مفيد، لكنها قد تخفي فسيولوجيا أكثر تعقيدا تجمع خصائص النوم واليقظة. ليس الشعور بالاستيقاظ قياسا مباشرا لكل ما يفعله الدماغ أو الجهاز الحركي في تلك اللحظة."
+      },
+      {
+        "type": "paragraph",
+        "text": "في دراسة مختبرية سنة 1992، بحث تاكيوتشي وزملاؤه 16 مشاركا باستخدام انقطاع النوم. سجلوا ست نوبات مع تقارير لفظية، وجمعت القياسات علامات مرتبطة باليقظة مع استمرار الارتخاء العضلي. يدعم ذلك انفصالا قابلا للقياس بين حالات النوم. تحد العينة الصغيرة المنتقاة والجدول المعدل من التعميم؛ ولا يعد البروتوكول نصيحة لإحداث النوبات في المنزل. أهمية التجربة أنها ربطت الوصف الشخصي بتسجيل فسيولوجي، لا أنها قدمت حيلة لتحفيز تجربة غريبة. [تاكيوتشي وزملاؤه، 1992](https://pubmed.ncbi.nlm.nih.gov/1621022/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ما تكشفه التسجيلات وما لا تكشفه"
+      },
+      {
+        "type": "paragraph",
+        "text": "سجلت غريتا مانييري وزملاؤها سنة 2021 خمس نوبات لدى خمسة مشاركين، إلى جانب استيقاظات كاذبة. وجد تحليل EEG الطيفي خصائص بين REM واليقظة مع نشاط بارز يشبه REM. حددت النوبات بإشارات أو صوت أو تقارير لاحقة. لم يعن الشعور بالاستيقاظ يقظة عادية في جميع الجوانب الفسيولوجية. تقترح النتائج أن التجربة التي نسميها استيقاظا قد تحتوي على مكونات لم تغادر النوم بالكامل بعد. [مانييري وزملاؤها: EEG، 2021](https://pubmed.ncbi.nlm.nih.gov/33283752/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا تثبت خمس نوبات نمطا عصبيا عالميا. يصعب تسجيل حدث تلقائي في المختبر، ويتوقف تحديد بدايته جزئيا على تقرير الشخص أو إشارته. يقيس EEG النشاط الكهربائي عند فروة الرأس، لا حقيقة الخبرة البصرية. يستطيع الباحثون دراسة السياق مع عدم معرفة الكيفية الدقيقة لبناء ظل أو صوت أو إحساس محدد بوجود أحد. الاعتراف بحدود التسجيل لا ينفي الظاهرة، بل يحدد الأسئلة التي لا تجيب عنها الأجهزة بعد."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "لماذا تبدو غرفة فارغة كأنها مأهولة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يبلغ الأشخاص عن خطوات أو أصوات أو هيئات أو لمس أو يقين بأن أحدا قريب. توصف هلوسات الانتقال بأنها تنويمية عند بدء النوم واستيقاظية عند الخروج منه. الهلوسة إدراك بلا المنبه الخارجي المقابل، وليست بالضرورة اضطرابا ذهانيا. يهم التوقيت والأعراض الأخرى. قد تكون الصور شديدة الإقناع لأنها تبدو جزءا من المكان الذي يرقد فيه الشخص، لا مشهدا حلميا بعيد السياق يسهل تمييزه بعد الاستيقاظ."
+      },
+      {
+        "type": "paragraph",
+        "text": "وصف شاين وروفر ونيوبي كلارك سنة 1999 ثلاث مجموعات: متسلل أو حضور، وضغط الصدر وصعوبة التنفس، وأحاسيس جسدية غير معتادة كالطفو. استعان نموذجهم بفسيولوجيا REM ومعالجة التهديد. نظم أنماطا مروية ولم يثبت دائرة منفردة تنتج كل ظهور. تختلف الهلوسات؛ تتضمن بعض النوبات عدم الحركة فقط، بلا هيئة أو صور مخيفة. وجود تقسيم بحثي لا يعني أن كل شخص سيمر بالتجارب الثلاث أو يصفها بالطريقة نفسها. [شاين وزملاؤه: نموذج الهلوسات، 1999](https://pubmed.ncbi.nlm.nih.gov/10487786/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يفترض أحد التفسيرات أن الجمود والأحاسيس غير المعتادة يخلقان عدم تطابق مقلقا، فيفسر الذهن المعلومات الملتبسة كتهديد. قد تزود الصور الشبيهة بالحلم هذا الإحساس بتفسير ظاهري. لا يعني ذلك مشاهدة منطقة تصنع الشياطين مباشرة في الدماغ. يفصل تحقيقنا عن [الارتياب](/articles/paranoia-why-do-we-feel-watched/) أيضا بين شدة الخبرة المهددة والدليل على تفسيرها. الإحساس القوي يستحق الفهم، لكنه لا يحسم وحده ما يوجد في العالم خارج الخبرة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ضغط الصدر ليس دليلا على الاختناق"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يكون الثقل وصعوبة التنفس أشد ما يخيف. تؤثر REM في نشاط العضلات وإدراك الجهد التنفسي، بينما يستمر الحجاب الحاجز في العمل. يميز شرح جامعة ولاية أوهايو السريري هذه العضلة عن عضلات الأطراف الإرادية. قد يجمع شعور جلوس شيء على الصدر أحاسيس الجسم والخوف والإدراك الحلمي؛ لا يثبت قوة خارجية ولا يعني أن التنفس يتوقف بالضرورة. تفسير هذا الفرق قد يخفف الرعب من دون إنكار أن الإحساس نفسه مؤلم ومزعج. [جامعة ولاية أوهايو: العضلات والتنفس](https://health.osu.edu/health/sleep/whats-happening-to-the-body-during-sleep-paralysis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "للطمأنة حدود. قد تترافق اضطرابات تنفسية مع شلل النوم، وليس لكل عرض ليلي السبب نفسه. تحتاج صعوبة التنفس المستمرة أو ألم الصدر المهم أو ضعف خارج انتقالات النوم أو أعراض حادة أخرى إلى تقييم مناسب. تنتهي النوبات المعزولة المعتادة بعودة الحركة، غالبا خلال ثوان أو دقائق. لا يعمل الإحساس المخيف بالمدة كساعة دقيقة، خاصة عندما يتعذر النداء طلبا للمساعدة أو تحريك الجسم للتأكد من الزمن."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ما مدى شيوعه؟ تحديد الفئة أساسي"
+      },
+      {
+        "type": "paragraph",
+        "text": "جمعت مراجعة شاربلس وباربر المنهجية سنة 2011 دراسات تضم 36,533 مشاركا. قدرت التعرض لنوبة واحدة على الأقل في الحياة بنسبة 7.6% في عينات السكان العامة و28.3% لدى الطلاب و31.9% لدى المرضى النفسيين. إنها تقديرات مؤرخة لفئات مختلفة، لا معدل عالمي حالي واحد. لا تعني النسب نفسها نوبات متكررة أو إصابة بالنوم القهري أو حاجة إلى علاج. يغير السؤال الذي نطرحه المعنى الطبي للرقم حتى لو بدا العنوان الإحصائي واضحا. [شاربلس وباربر: مراجعة الانتشار، 2011](https://pubmed.ncbi.nlm.nih.gov/21571556/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تغير صياغة الأسئلة والاختيار والتذكر والتعريفات التقديرات. قد يحصى حدث طوال الحياة أو حديث، أو شلل نوم معزول متكرر: نوبات لا يفسرها سبب آخر أفضل وتسبب ضيقا مهما. عينة طلاب متاحة لا تمثل الجميع. ينبغي قياس التكرار والشدة وتعطل الحياة منفصلة، بدلا من دمجها في رقم واحد يوحي بأن كل من عاش لحظة شلل يواجه اضطرابا سريريا مستمرا."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "العجوز والجاثوم والقصص الموروثة"
+      },
+      {
+        "type": "paragraph",
+        "text": "يربط تقليد Old Hag في نيوفاوندلاند حضورا ليليا بعدم الحركة والضغط. اعتمد بحث آر سي نيس سنة 1978 على 13 شهرا من العمل الميداني وفحص التشابه مع شلل النوم. وثق تفسيرات محلية، لا وجود زائر متخيل. قد يكتسب عرض اسما وحكاية قبل تفسيره الفسيولوجي بزمن طويل. وتفيد هذه الأبحاث في فهم كيف يتحدث الناس عن خبرة شخصية لا يجدون لها كلمات طبية في محيطهم اليومي. [نيس: دراسة نيوفاوندلاند، 1978](https://pubmed.ncbi.nlm.nih.gov/699620/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الجاثوم، أو Jathoom، اسم عربي يرتبط بهذه الخبرة الليلية. يوضح نص أدبي نشرته جامعة السلطان قابوس استخدامه الثقافي؛ إنه مصدر ثقافي لا إثبات سريري. تناقش أبحاث عابرة للثقافات أيضا كاناشيباري في اليابان وكاراباسان في تركيا. تختلف الأسماء والتفسيرات داخل المجتمعات؛ لا تحدد اللغة أو الديانة ما يجب أن يؤمن به كل فرد. قد يستخدم شخص الاسم الموروث مع تقبله التفسير الطبي، فلا تتعارض المفردة بالضرورة مع المعرفة العلمية. [جامعة السلطان قابوس: نص أدبي عن الجاثوم](https://www.squ.edu.om/Portals/29/PDF/ETS-literature.pdf?ver=2020-03-16-123732-493) [جلال وزملاؤه: تفسيرات كاراباسان](https://pmc.ncbi.nlm.nih.gov/articles/PMC8060736/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قارنت دراسة منشورة في عدد سنة 2014 أشخاصا عاشوا النوبات من القاهرة وكوبنهاغن والجامعة الأمريكية بالقاهرة، بعينات 89 و59 و44. اختلفت تفسيراتهم ومنها التأويلات الخارقة. تصف النتائج تلك المجموعات لا دولا كاملة، ولا تثبت أن الاعتقادات وحدها تسبب الشلل. قد تؤثر التوقعات الثقافية في الخوف من دون جعل المصابين ساذجين. كما لا تسمح المقارنة المحدودة بالحكم على معتقدات كل شخص يحمل جنسية معينة أو ينتمي إلى تعليم أو تقليد بعينه. [جلال وزملاؤه: مصر والدنمارك، عدد 2014](https://journals.sagepub.com/doi/10.1177/1363461513503378)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يميز العلم الإدراك والتفسير. تدعم فسيولوجيا REM حسابا طبيعيا للنوبات، ولا تتحقق الروايات عن حضور من دعاوى خارقة بصورة مستقلة. لا يتطلب ذلك السخرية. يفيد فهم الاعتقاد الأطباء في تقديم شرح بلغة يثق بها الشخص. ولا يفسر اسم شلل النوم كل حدث ليلي مزعوم: يبقى التوقيت والحالة الجسدية والأدلة المتاحة مهمة. يمكن احترام الخبرة من دون تأكيد سبب لا تدعمه الملاحظة أو البحث."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "عوامل الخطر ليست ضمانات"
+      },
+      {
+        "type": "paragraph",
+        "text": "بحثت مراجعة دينيس وفرنش وغريغوري المنهجية المنشورة في عدد 2018 متغيرات التكرار والشدة. تظهر علاقات بسوء النوم والضغط وعوامل نفسية، لكن أدلة كثيرة رصدية. لا يبين الارتباط دائما هل سبق اضطراب النوم النوبات أم تبع الخوف منها أم يشترك معها في سبب. الحرمان من النوم والعمل بنظام المناوبات وعدم انتظام المواعيد مساهمات محتملة، لا تفسير كامل لكل حالة. والارتباط النفسي لا يعني أن الشخص اختار تجربته أو يستطيع إنهاءها بالإرادة وحدها. [دينيس وزملاؤه: مراجعة منهجية، عدد 2018](https://pubmed.ncbi.nlm.nih.gov/28735779/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يرتبط النوم على الظهر بالنوبات في بعض الأبحاث، وتقترح إرشادات NHS تجنبه عندما يبدو ذا صلة. التاريخ العائلي ارتباط آخر، وليس إرثا حتميا. قد يؤثر الكحول والمواد وتغييرات الأدوية في النوم وتستحق مناقشة أثناء التقييم. لا توقف أدوية موصوفة فجأة أو تقيد النوم عمدا لاختبار فكرة. وقد تحدث نوبات من دون عامل واضح يسبقها؛ غياب محفز معروف لا يجعل الخبرة خيالية أو خارقة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "متى يدخل النوم القهري في الصورة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يحدث شلل النوم مع النوم القهري، وهو اضطراب في تنظيم النوم واليقظة، لكن نوبة وحدها لا تشخصه. يستدعي النعاس النهاري الشديد المستمر أو النوم المفاجئ أو ضعف العضلات الذي تثيره العاطفة، المسمى الجمدة، تقييما. تختلف الجمدة عن الجمود عند الاستغراق أو الاستيقاظ. تصف NHS الأعراض مع توضيح أن المصابين لا يختبرون جميعها بالضرورة. لذلك يفيد الجمع بين القصة الليلية وما يحدث في النهار بدلا من الاعتماد على عرض واحد. [NHS: النوم القهري](https://www.nhs.uk/conditions/narcolepsy/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يسأل الطبيب عن التوقيت والتكرار والمواعيد والتنفس والأداء النهاري والأدوية. لا يحتاج كل حدث معتاد إلى اختبارات؛ قد تساعد دراسة النوم عند الشك باضطراب آخر. لا تشخص صور انتقالات النوم الذهان وحدها. الأحداث خارج تلك الانتقالات أو الضعف المستمر تحتاج إلى تفسير أوسع. هدف التقييم أن يحدد ما يلزم فعلا، لا أن يحول كل نوبة قصيرة إلى قائمة فحوص لا تنتهي."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الوقاية والتعامل من دون وعود معجزة"
+      },
+      {
+        "type": "paragraph",
+        "text": "النوم المنتظم والفرصة الكافية للراحة بداية عملية. تقترح NHS للبالغين نحو 7–9 ساعات ومواعيد ثابتة للنوم والاستيقاظ. قد يفيد التعامل مع الأرق والضغط أو مرض آخر في تقليل النوبات. تدعم هذه الخطوات صحة النوم ولا تضمن الوقاية. من يخاف النوم قد يحتاج إلى مساعدة لاستعادة الإيقاع، لا ضغط إضافي للنوم بشكل مثالي. تصبح التوصية مفيدة عندما تناسب ظروف الشخص، لا حين تزيد لومه لنفسه بعد ليلة صعبة. [NHS: شلل النوم](https://www.nhs.uk/conditions/sleep-paralysis/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "خلال نوبة مألوفة، قد يقلل تذكر أنها مؤقتة وأن الصور مرتبطة بالنوم من الهلع. تصف Sleep Foundation الحركات الصغيرة والاسترخاء كوسائل محتملة، لا طرق خروج فوري مضمونة. قد تساعد ملاحظة التنفس العادي الهادئ بعض الناس؛ لا سبب لحبس النفس أو تجربة أساليب متطرفة. تستدعي صعوبة التنفس المستمرة بعد عودة الحركة عناية طبية. لا ينبغي أن يتحول اقتراح بسيط إلى اختبار قوة أو وسيلة تعاقب الشخص إذا لم تنجح. [Sleep Foundation: التعامل وصحة النوم](https://www.sleepfoundation.org/parasomnias/sleep-paralysis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "سجل بإيجاز النوبات ومواعيد النوم وأعراض النهار إذا تكررت، وناقشها مع مختص. قد يطمئن شريك يعرف الحالة بدلا من تفسير هجوم. الهدف تقليل الضيق وتحديد الأنماط، لا جعل كل ليلة مراقبة مكثفة. قد يزيد تجنب النوم خوفا اضطرابه الذي يحتاج إلى الاهتمام. تساعد المفكرة العملية إذا قدمت معلومات، لا إذا أصبحت سببا للترقب المستمر والقلق من حدوث شيء في أي لحظة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ما الذي تدعمه أبحاث العلاج فعلا؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف مراجعة شاربلس السريرية سنة 2016 التثقيف والانتباه إلى اضطراب النوم وطرقا معرفية سلوكية للنوبات المعزولة المتكررة. الأدلة العلاجية المحددة محدودة، وتستند بعض التوصيات إلى الممارسة وأبحاث حالات قريبة. تستهدف علاجات دوائية متخصصة أحيانا عمليات REM، لكن الاختيار والفوائد والآثار الجانبية تحتاج إلى إشراف فردي. ليست الصورة المخيفة أو المقال سببا لبدء مضاد اكتئاب. ويتعلق القرار بتكرار المشكلة وأثرها وحالات الشخص الأخرى، لا باسم العرض وحده. [شاربلس: دليل سريري، 2016](https://pubmed.ncbi.nlm.nih.gov/27486325/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "شملت دراسة تجريبية صغيرة لجلال وزملائه سنة 2020 عشرة مرضى بالنوم القهري وشلل النوم. تلقى ستة تدخلا تأمليا استرخائيا وأربعة تدخلا مقارنا. كانت انخفاضات النوبات المروية مشجعة، لكن العينة ضئيلة والبحث استكشافي. لا يثبت علاجا عاما أو الفاعلية للنوبات المعزولة ولا يستبدل تجارب مضبوطة أكبر. تستحق النتيجة الأولية اهتماما، من دون تسويقها علاجا محسوم النجاح أو نقل حجم فائدتها إلى جميع من يشعرون بالخوف في الليل. [جلال وزملاؤه: دراسة علاج أولية، 2020](https://pubmed.ncbi.nlm.nih.gov/32903364/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "اطلب مشورة طبية عند كثرة النوبات أو الخوف من النوم أو تعطل الراحة أو نعاس نهاري مهم. قد يعني التعافي نوبات أقل أو هلعا أقل أو عودة الثقة قبل اختفاء الخبرة تماما. الهدف حياة أوسع ونوم أكثر أمانا، لا مطالبة الناس بالتوقف الفوري عن الخوف لأن آلية قد شرحت لهم. الفهم خطوة مهمة لكنه قد يحتاج إلى دعم ومتابعة كي يغير التجربة اليومية فعلا."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "حد يكشف شيئا عن الذهن العادي"
+      },
+      {
+        "type": "paragraph",
+        "text": "يكشف شلل النوم أن الإدراك والوعي والحركة قد تنفصل لحظات. تبدو الغرفة حقيقية بينما تنشأ صور داخل حالة مرتبطة بـREM. يفصل تحقيقنا عن [التنويم الإيحائي](/articles/can-hypnosis-really-control-your-mind/) أيضا اليقين الذاتي والتفسير. لا يقلل الفهم من الرهبة؛ يمنحها سياقا، ويستبدل الزائر المحتوم بمشكلة يمكن أن تتلقى رعاية، ويجعل العودة إلى النوم أقل غموضا. ليست الفكرة إنكار ما شعر به الشخص، بل إتاحة تفسير لا يحكم عليه بالبقاء خائفا من كيانات لا يثبت وجودها."
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل شلل النوم خطر؟",
+        "answer": "النوبات المعزولة المعتادة غالبا مؤقتة وغير مؤذية رغم الضيق. التكرار واضطراب النوم أو أعراض مرض آخر تستدعي تقييما طبيا."
+      },
+      {
+        "question": "لماذا أرى هيئة مظلمة؟",
+        "answer": "قد تشمل هلوسات الانتقال هيئة أو حضورا. تبدو حقيقية للنائم لكنها لا تثبت وجودا خارج التجربة."
+      },
+      {
+        "question": "هل يتوقف التنفس؟",
+        "answer": "يستمر الحجاب الحاجز عادة في العمل. قد يخيف الضغط وصعوبة التنفس؛ إذا استمرت المشكلة بعد النوبة فاطلب عناية طبية."
+      },
+      {
+        "question": "هل تعني النوبة أنني مصاب بالنوم القهري؟",
+        "answer": "لا. قد يحدث الشلل مستقلا. النعاس النهاري المهم أو النوم المفاجئ أو الجمدة أسباب لمناقشة تقييم أوسع."
+      },
+      {
+        "question": "ما الذي يساعد على منع التكرار؟",
+        "answer": "قد يفيد انتظام النوم والراحة الكافية ومعالجة الحالات الأساسية. أدلة التقنيات المحددة محدودة وينبغي تخصيص الرعاية للاحتياجات الفردية."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NHS: شلل النوم",
+        "url": "https://www.nhs.uk/conditions/sleep-paralysis/"
+      },
+      {
+        "label": "المعاهد الوطنية للصحة: فسيولوجيا النوم",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK20359/"
+      },
+      {
+        "label": "تاكيوتشي وزملاؤه، 1992",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1621022/"
+      },
+      {
+        "label": "مانييري وزملاؤها: EEG، 2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33283752/"
+      },
+      {
+        "label": "شاين وزملاؤه: نموذج الهلوسات، 1999",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10487786/"
+      },
+      {
+        "label": "جامعة ولاية أوهايو: العضلات والتنفس",
+        "url": "https://health.osu.edu/health/sleep/whats-happening-to-the-body-during-sleep-paralysis"
+      },
+      {
+        "label": "شاربلس وباربر: مراجعة الانتشار، 2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21571556/"
+      },
+      {
+        "label": "نيس: دراسة نيوفاوندلاند، 1978",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/699620/"
+      },
+      {
+        "label": "جامعة السلطان قابوس: نص أدبي عن الجاثوم",
+        "url": "https://www.squ.edu.om/Portals/29/PDF/ETS-literature.pdf?ver=2020-03-16-123732-493"
+      },
+      {
+        "label": "جلال وزملاؤه: تفسيرات كاراباسان",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8060736/"
+      },
+      {
+        "label": "جلال وزملاؤه: مصر والدنمارك، عدد 2014",
+        "url": "https://journals.sagepub.com/doi/10.1177/1363461513503378"
+      },
+      {
+        "label": "دينيس وزملاؤه: مراجعة منهجية، عدد 2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28735779/"
+      },
+      {
+        "label": "NHS: النوم القهري",
+        "url": "https://www.nhs.uk/conditions/narcolepsy/"
+      },
+      {
+        "label": "Sleep Foundation: التعامل وصحة النوم",
+        "url": "https://www.sleepfoundation.org/parasomnias/sleep-paralysis"
+      },
+      {
+        "label": "شاربلس: دليل سريري، 2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27486325/"
+      },
+      {
+        "label": "جلال وزملاؤه: دراسة علاج أولية، 2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32903364/"
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/",
+    "path": "/es/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "PRESDA scientific and localization review: REM physiology, prevalence denominators, cultural attribution and limited treatment evidence",
+      "reviewedAt": "2026-10-12",
+      "terminologyChecked": true
+    },
+    "title": "PARÁLISIS DEL SUEÑO: CUANDO DESPIERTAS PERO NO PUEDES MOVERTE",
+    "seoTitle": "Parálisis del sueño: fase REM, alucinaciones y qué ayuda",
+    "description": "Por qué la parálisis del sueño parece una presencia o presión en el pecho, qué muestran los estudios y cómo prevenir episodios o buscar atención adecuada.",
+    "excerpt": "Por qué la parálisis del sueño parece una presencia o presión en el pecho, qué muestran los estudios y cómo prevenir episodios o buscar atención adecuada.",
+    "headlineHighlights": {
+      "red": "PARÁLISIS",
+      "gold": "DESPIERTAS"
+    },
+    "keywords": [
+      "parálisis del sueño",
+      "Jathoom",
+      "atonía REM",
+      "alucinaciones del sueño",
+      "parálisis aislada recurrente"
+    ],
+    "searchIntent": "Por qué la parálisis del sueño parece una presencia o presión en el pecho, qué muestran los estudios y cómo prevenir episodios o buscar atención adecuada.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-12",
+    "updatedAt": "2026-10-12",
+    "image": {
+      "src": "/articles/sleep-paralysis-jathoom-ai.png",
+      "alt": "Ilustración generada por IA de una persona asustada en la cama con una sombra imaginaria, representación de una alucinación del sueño y no una entidad real"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La habitación parece familiar. Intentas girar la cabeza y después llamar, pero ninguna acción sigue a la intención. Una forma parece estar cerca. Esta escena ilustrativa no es un testimonio clínico. Para quien experimenta parálisis del sueño, lo aterrador es sentir conciencia presente mientras el movimiento voluntario no regresa."
+      },
+      {
+        "type": "paragraph",
+        "text": "La parálisis del sueño es una incapacidad temporal para moverse o hablar al dormirse o despertar. Se relaciona con la persistencia de inhibición muscular del sueño de movimientos oculares rápidos, REM. Puede haber alucinaciones, pero no son necesarias. El miedo es real; percibir un intruso no demuestra su existencia. Las fuentes de esta investigación se comprobaron en octubre de 2026. [NHS: parálisis del sueño](https://www.nhs.uk/conditions/sleep-paralysis/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Despertar no siempre funciona como un interruptor"
+      },
+      {
+        "type": "paragraph",
+        "text": "El sueño alterna etapas REM y no REM, sin apagar uniformemente el cerebro. Durante REM, la actividad favorece sueños vívidos y disminuye mucho el tono de brazos y piernas. Esa atonía ayuda a impedir que representemos físicamente los sueños. La regulan señales del tronco cerebral y vías espinales; no significa quedarse sin energía. También soñamos fuera de REM, por lo que sueño onírico y fase REM no son equivalentes. [NIH: fisiología del sueño](https://www.ncbi.nlm.nih.gov/books/NBK20359/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Normalmente, conciencia, percepción y control motor cambian juntos al despertar. La parálisis muestra que la transición puede desincronizarse. Alguien percibe el dormitorio y recuerda el episodio mientras persiste atonía asociada a REM. Describir un cerebro totalmente despierto atrapado en un cuerpo dormido resulta útil, pero oculta la fisiología más compleja de un estado que combina características de sueño y vigilia."
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1992, Takeuchi y colaboradores estudiaron a 16 participantes con interrupciones del sueño. Captaron seis episodios mediante registros y relatos, combinando señales relacionadas con vigilia y atonía persistente. Es evidencia de disociación medible entre estados. La muestra pequeña y seleccionada y los horarios manipulados limitan generalización; el protocolo no recomienda provocar episodios en casa. [Takeuchi y colaboradores, 1992](https://pubmed.ncbi.nlm.nih.gov/1621022/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Qué revelan los registros y qué no"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2021, Greta Mainieri y sus colegas captaron cinco episodios en cinco participantes, además de falsos despertares. El análisis espectral del EEG mostró características intermedias entre REM y vigilia, con actividad destacada semejante a REM. Los episodios se identificaron mediante señales, sonidos o relatos retrospectivos. Sentirse despierto no significaba vigilia ordinaria en todos los aspectos fisiológicos. [Mainieri y colaboradores: EEG, 2021](https://pubmed.ncbi.nlm.nih.gov/33283752/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cinco episodios no establecen un patrón universal. Registrar un evento espontáneo en laboratorio es difícil, y determinar su comienzo depende parcialmente del relato o señal del participante. El EEG mide actividad eléctrica superficial, no la verdad de una visión. Los investigadores pueden estudiar el contexto fisiológico sin conocer exactamente cómo se construye una sombra, una voz o una presencia concreta."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Por qué una habitación vacía parece ocupada"
+      },
+      {
+        "type": "paragraph",
+        "text": "Se describen pasos, voces, figuras, tacto o convicción de que alguien está cerca. Estas alucinaciones son hipnagógicas al dormirse e hipnopómpicas al despertar. Una alucinación es una percepción sin el estímulo externo correspondiente, no necesariamente un trastorno psicótico. Momento y otros síntomas importan. Las imágenes resultan convincentes porque parecen insertadas en el lugar donde la persona realmente está acostada."
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1999, Cheyne, Rueffer y Newby-Clark describieron tres grupos: intruso o presencia, presión torácica y molestias respiratorias, y sensaciones corporales inusuales como flotar. Su modelo recurría a fisiología REM y procesamiento de amenazas. Organizaba patrones relatados, sin demostrar un circuito único que produzca todas las apariciones. Las alucinaciones varían; algunos episodios incluyen solamente inmovilidad, sin figuras ni imágenes aterradoras. [Cheyne y colaboradores: modelo de alucinaciones, 1999](https://pubmed.ncbi.nlm.nih.gov/10487786/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una explicación propuesta sostiene que inmovilidad y sensaciones inusuales generan una discrepancia alarmante, y la mente interpreta información ambigua como amenaza. Las imágenes oníricas pueden aportar una explicación aparente. No es observación directa de una región cerebral creadora de demonios. Nuestra investigación sobre [la paranoia](/articles/paranoia-why-do-we-feel-watched/) también distingue intensidad de una experiencia amenazante y pruebas sobre su interpretación."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Presión en el pecho no demuestra asfixia"
+      },
+      {
+        "type": "paragraph",
+        "text": "El peso percibido o la dificultad respiratoria pueden asustar especialmente. REM afecta actividad muscular y percepción del esfuerzo respiratorio, mientras el diafragma continúa funcionando. La explicación clínica de Ohio State distingue ese músculo de los músculos voluntarios de las extremidades. Sentir algo sentado en el pecho puede combinar sensaciones, miedo y percepción onírica; no demuestra una fuerza externa ni significa que necesariamente se detenga la respiración. [Ohio State: músculos y respiración](https://health.osu.edu/health/sleep/whats-happening-to-the-body-during-sleep-paralysis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tranquilizar tiene límites. Pueden coexistir trastornos respiratorios y no todo síntoma nocturno pertenece a la misma condición. Falta de aire persistente, dolor torácico importante, debilidad fuera de una transición del sueño u otros síntomas agudos requieren evaluación adecuada. Los episodios aislados típicos terminan al volver el movimiento, a menudo en segundos o minutos. La duración percibida con miedo no funciona como cronómetro fiable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "¿Cuán frecuente es? Importa el denominador"
+      },
+      {
+        "type": "paragraph",
+        "text": "La revisión sistemática de Sharpless y Barber de 2011 reunió 36.533 participantes. Estimó al menos un episodio durante la vida en 7,6 % de muestras generales, 28,3 % de estudiantes y 31,9 % de pacientes psiquiátricos. Son estimaciones fechadas de grupos diferentes, no una tasa universal actual. No equivalen a esas proporciones con ataques frecuentes, narcolepsia o necesidad de tratamiento. [Sharpless y Barber: prevalencia, 2011](https://pubmed.ncbi.nlm.nih.gov/21571556/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Preguntas, selección, memoria y definiciones cambian estimaciones. Las encuestas pueden contar eventos vitales, recientes o parálisis aislada recurrente: episodios repetidos no mejor explicados por otra causa, con angustia importante. Una muestra estudiantil de conveniencia no representa a todos. Frecuencia, intensidad e interferencia deben medirse separadamente en lugar de convertirse en una única cifra alarmante."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Old Hag, Jathoom e historias heredadas"
+      },
+      {
+        "type": "paragraph",
+        "text": "El relato de Old Hag en Terranova describe una presencia nocturna con inmovilidad y opresión. El artículo de R. C. Ness de 1978 se basó en 13 meses de trabajo de campo y examinó semejanzas con parálisis del sueño. Documentó interpretaciones locales, no la existencia de un visitante. Un síntoma puede recibir nombre y relato mucho antes de una explicación fisiológica. [Ness: estudio de Terranova, 1978](https://pubmed.ncbi.nlm.nih.gov/699620/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jathoom, o الجاثوم, es un término árabe asociado a esta experiencia. Un relato literario publicado por la Universidad Sultán Qaboos ilustra su uso cultural; no aporta una prueba clínica. La investigación transcultural también aborda kanashibari en Japón y karabasan en Türkiye. Nombres e interpretaciones varían dentro de las sociedades; ni lengua ni religión determinan qué debe creer cada individuo. [Universidad Sultán Qaboos: relato literario de Jathoom](https://www.squ.edu.om/Portals/29/PDF/ETS-literature.pdf?ver=2020-03-16-123732-493) [Jalal y colaboradores: interpretaciones de karabasan](https://pmc.ncbi.nlm.nih.gov/articles/PMC8060736/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un estudio publicado en su edición de revista de 2014 comparó personas de El Cairo, Copenhague y la American University in Cairo, con muestras de 89, 59 y 44. Sus explicaciones diferían, incluyendo interpretaciones sobrenaturales. Los grupos no representan países ni demuestran que las creencias causen por sí solas parálisis. Las expectativas culturales pueden influir en el miedo sin convertir a quienes lo sufren en personas ingenuas. [Jalal y colaboradores: Egipto–Dinamarca, edición de 2014](https://journals.sagepub.com/doi/10.1177/1363461513503378)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La ciencia distingue percepción y explicación. La fisiología REM respalda una explicación natural; los relatos de presencia no verifican independientemente afirmaciones sobrenaturales. Esa distinción no justifica burlas. Comprender creencias ayuda a explicar síntomas con un lenguaje confiable. La etiqueta tampoco explica automáticamente cualquier evento nocturno: momento, estado corporal y pruebas disponibles siguen necesitando consideración."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Factores de riesgo no son garantías"
+      },
+      {
+        "type": "paragraph",
+        "text": "La revisión sistemática de Denis, French y Gregory, publicada en su edición de 2018, examinó frecuencia e intensidad. Aparecen relaciones con mal sueño, estrés y factores psicológicos, pero muchas pruebas son observacionales. No siempre distinguen si las alteraciones preceden episodios, siguen al miedo o comparten otra causa. Privación de sueño, turnos y horarios irregulares son contribuyentes plausibles, no una explicación completa de todos los casos. [Denis y colaboradores: revisión sistemática, edición de 2018](https://pubmed.ncbi.nlm.nih.gov/28735779/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dormir boca arriba se asocia a episodios en ciertas investigaciones, y el NHS aconseja evitar esa postura cuando parece relevante. La historia familiar es otra asociación, no herencia inevitable. Alcohol, sustancias y cambios de medicación afectan el sueño y merecen conversación clínica. No suspenda bruscamente tratamientos prescritos ni restrinja sueño para probar una teoría. A veces no existe un desencadenante evidente identificable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cuándo considerar narcolepsia"
+      },
+      {
+        "type": "paragraph",
+        "text": "La parálisis puede aparecer con narcolepsia, un trastorno de regulación de sueño y vigilia, pero un episodio aislado no la diagnostica. Somnolencia diurna excesiva persistente, sueño súbito o debilidad muscular desencadenada por emociones, llamada cataplejía, merecen evaluación. Esta última difiere de inmovilidad al dormirse o despertar. El NHS describe esos síntomas aclarando que no todas las personas con narcolepsia presentan todos ellos. [NHS: narcolepsia](https://www.nhs.uk/conditions/narcolepsy/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El profesional pregunta por momento, frecuencia, horarios, respiración, funcionamiento diurno y medicamentos. No todo episodio típico necesita pruebas; estudios del sueño ayudan si se sospecha otra condición. Las imágenes de transición no diagnostican por sí solas psicosis. Eventos fuera de esas transiciones o debilidad persistente necesitan una explicación más amplia."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Prevenir y afrontar sin promesas milagrosas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Regularidad y oportunidad suficiente de descansar son puntos de partida prácticos. Para adultos, el NHS sugiere unas 7–9 horas y horarios constantes. Atender insomnio, estrés u otras condiciones puede reducir episodios. Son medidas de salud del sueño, no una garantía preventiva. Quien teme dormir quizá necesite apoyo para recuperar una rutina, no más presión para dormir perfectamente. [NHS: parálisis del sueño](https://www.nhs.uk/conditions/sleep-paralysis/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Durante un episodio conocido, recordar su carácter temporal y el origen asociado al sueño de las imágenes puede reducir pánico. Sleep Foundation describe movimientos pequeños y relajación como posibilidades, no salidas instantáneas fiables. Algunas personas encuentran útil atender a la respiración habitual y tranquila; no hay motivo para contenerla o intentar técnicas extremas. Dificultad persistente después de recuperar movimiento requiere atención médica. [Sleep Foundation: afrontamiento y sueño](https://www.sleepfoundation.org/parasomnias/sleep-paralysis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Si se repite, anote brevemente episodios, horarios y síntomas diurnos y coméntelos con un profesional. Una pareja informada puede tranquilizar en lugar de interpretar un ataque. El objetivo es reducir angustia e identificar patrones, no vigilar intensamente cada noche. Evitar dormir por miedo puede empeorar las alteraciones que necesitan atención."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Qué respalda realmente la investigación terapéutica"
+      },
+      {
+        "type": "paragraph",
+        "text": "La revisión clínica de Sharpless de 2016 describe psicoeducación, atención a alteraciones del sueño y enfoques cognitivo-conductuales para episodios aislados recurrentes. La evidencia específica es limitada; algunas recomendaciones provienen de práctica clínica y condiciones relacionadas. Tratamientos especializados pueden actuar sobre REM, con elección, beneficios y efectos adversos bajo supervisión individual. Un artículo o una ilustración aterradora no justifican comenzar un antidepresivo. [Sharpless: guía clínica, 2016](https://pubmed.ncbi.nlm.nih.gov/27486325/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En un piloto de 2020, Jalal y colaboradores incluyeron diez pacientes con narcolepsia y parálisis del sueño. Seis recibieron meditación-relajación y cuatro una intervención comparativa. La reducción de episodios comunicada era prometedora, pero la muestra era diminuta y el estudio exploratorio. No establece cura universal, eficacia en episodios aislados ni sustitución de ensayos controlados mayores. Una pista preliminar merece interés sin presentarla comercialmente como tratamiento resuelto. [Jalal y colaboradores: estudio piloto, 2020](https://pubmed.ncbi.nlm.nih.gov/32903364/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Busque consejo médico si los episodios son frecuentes, generan miedo a dormir, alteran descanso o acompañan somnolencia diurna importante. Recuperarse puede significar menos episodios, menos pánico o confianza recuperada antes de desaparecer completamente. El objetivo es una vida más plena y sueño seguro, no exigir que alguien deje inmediatamente de sentir miedo porque recibió una explicación."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Una frontera que ilumina la mente cotidiana"
+      },
+      {
+        "type": "paragraph",
+        "text": "La parálisis muestra que percepción, conciencia y movimiento pueden separarse brevemente. La habitación parece real mientras surgen imágenes en un estado relacionado con REM. Nuestra investigación de [la hipnosis](/articles/can-hypnosis-really-control-your-mind/) distingue también certeza subjetiva y explicación. Comprender no disminuye el terror: le aporta contexto, sustituye un visitante inevitable por una preocupación que puede recibir atención y hace menos misterioso volver a dormir."
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Es peligrosa la parálisis del sueño?",
+        "answer": "Los episodios aislados típicos son generalmente temporales e inofensivos, aunque angustiosos. Repetición, sueño alterado o síntomas de otra condición requieren evaluación."
+      },
+      {
+        "question": "¿Por qué veo una figura oscura?",
+        "answer": "Las alucinaciones de transición pueden incluir figuras o presencias. Son percepciones reales para quien duerme, sin demostrar que existan fuera de la experiencia."
+      },
+      {
+        "question": "¿Se detiene la respiración?",
+        "answer": "El diafragma suele continuar funcionando. Presión y molestias pueden asustar; dificultad persistente después del episodio requiere atención médica."
+      },
+      {
+        "question": "¿Un episodio significa narcolepsia?",
+        "answer": "No. Puede ocurrir independientemente. Somnolencia diurna importante, sueño súbito o cataplejía justifican valorar un cuadro más amplio."
+      },
+      {
+        "question": "¿Cómo prevenir episodios repetidos?",
+        "answer": "Sueño regular, descanso suficiente y atención a causas pueden ayudar. La evidencia de técnicas específicas es limitada y el tratamiento debe individualizarse."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NHS: parálisis del sueño",
+        "url": "https://www.nhs.uk/conditions/sleep-paralysis/"
+      },
+      {
+        "label": "NIH: fisiología del sueño",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK20359/"
+      },
+      {
+        "label": "Takeuchi y colaboradores, 1992",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1621022/"
+      },
+      {
+        "label": "Mainieri y colaboradores: EEG, 2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33283752/"
+      },
+      {
+        "label": "Cheyne y colaboradores: modelo de alucinaciones, 1999",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10487786/"
+      },
+      {
+        "label": "Ohio State: músculos y respiración",
+        "url": "https://health.osu.edu/health/sleep/whats-happening-to-the-body-during-sleep-paralysis"
+      },
+      {
+        "label": "Sharpless y Barber: prevalencia, 2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21571556/"
+      },
+      {
+        "label": "Ness: estudio de Terranova, 1978",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/699620/"
+      },
+      {
+        "label": "Universidad Sultán Qaboos: relato literario de Jathoom",
+        "url": "https://www.squ.edu.om/Portals/29/PDF/ETS-literature.pdf?ver=2020-03-16-123732-493"
+      },
+      {
+        "label": "Jalal y colaboradores: interpretaciones de karabasan",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8060736/"
+      },
+      {
+        "label": "Jalal y colaboradores: Egipto–Dinamarca, edición de 2014",
+        "url": "https://journals.sagepub.com/doi/10.1177/1363461513503378"
+      },
+      {
+        "label": "Denis y colaboradores: revisión sistemática, edición de 2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28735779/"
+      },
+      {
+        "label": "NHS: narcolepsia",
+        "url": "https://www.nhs.uk/conditions/narcolepsy/"
+      },
+      {
+        "label": "Sleep Foundation: afrontamiento y sueño",
+        "url": "https://www.sleepfoundation.org/parasomnias/sleep-paralysis"
+      },
+      {
+        "label": "Sharpless: guía clínica, 2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27486325/"
+      },
+      {
+        "label": "Jalal y colaboradores: estudio piloto, 2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32903364/"
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/",
+    "path": "/fr/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "PRESDA scientific and localization review: REM physiology, prevalence denominators, cultural attribution and limited treatment evidence",
+      "reviewedAt": "2026-10-12",
+      "terminologyChecked": true
+    },
+    "title": "PARALYSIE DU SOMMEIL : QUAND ON SE RÉVEILLE SANS POUVOIR BOUGER",
+    "seoTitle": "Paralysie du sommeil : sommeil paradoxal, visions et solutions",
+    "description": "Pourquoi la paralysie du sommeil évoque une présence ou une pression thoracique, ce que montrent les recherches et comment prévenir les épisodes ou consulter.",
+    "excerpt": "Pourquoi la paralysie du sommeil évoque une présence ou une pression thoracique, ce que montrent les recherches et comment prévenir les épisodes ou consulter.",
+    "headlineHighlights": {
+      "red": "PARALYSIE",
+      "gold": "RÉVEILLE"
+    },
+    "keywords": [
+      "paralysie du sommeil",
+      "Jathoom",
+      "atonie du sommeil paradoxal",
+      "hallucinations du sommeil",
+      "paralysie isolée récurrente"
+    ],
+    "searchIntent": "Pourquoi la paralysie du sommeil évoque une présence ou une pression thoracique, ce que montrent les recherches et comment prévenir les épisodes ou consulter.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-12",
+    "updatedAt": "2026-10-12",
+    "image": {
+      "src": "/articles/sleep-paralysis-jathoom-ai.png",
+      "alt": "Illustration générée par IA d’une personne effrayée au lit avec une silhouette imaginaire, représentant une hallucination liée au sommeil, pas une entité réelle"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La chambre semble familière. Vous essayez de tourner la tête, puis d’appeler, mais aucune action ne suit l’intention. Une forme paraît se tenir à proximité. Cette scène illustrative n’est pas un témoignage de patient. Pour quelqu’un vivant une paralysie du sommeil, le plus terrifiant est de ressentir une conscience présente alors que le mouvement volontaire ne revient pas."
+      },
+      {
+        "type": "paragraph",
+        "text": "La paralysie du sommeil est une incapacité temporaire à bouger ou parler à l’endormissement ou au réveil. Elle est associée à la persistance d’une inhibition musculaire du sommeil paradoxal, ou REM. Des hallucinations peuvent l’accompagner, sans être nécessaires. La peur est réelle ; percevoir un intrus ne prouve pas sa présence. Les sources de cette enquête ont été vérifiées en octobre 2026. [NHS : paralysie du sommeil](https://www.nhs.uk/conditions/sleep-paralysis/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Le réveil n’est pas toujours instantané"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le sommeil alterne phases non paradoxales et paradoxales ; il n’éteint pas uniformément le cerveau. Pendant le REM, l’activité permet des rêves vivaces tandis que le tonus des bras et jambes diminue fortement. Cette atonie aide à empêcher l’exécution des rêves. Des voies du tronc cérébral et de la moelle la régulent activement ; ce n’est pas un épuisement physique. Des rêves surviennent aussi hors REM : rêve et sommeil paradoxal ne sont pas synonymes. [NIH : physiologie du sommeil](https://www.ncbi.nlm.nih.gov/books/NBK20359/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Normalement, conscience, perception et contrôle moteur évoluent ensemble au réveil. La paralysie montre que cette transition peut être désynchronisée. Une personne perçoit sa chambre et se souvient de l’épisode tandis que l’atonie persiste. Parler d’un cerveau entièrement éveillé prisonnier d’un corps endormi est un raccourci utile, mais masque la physiologie plus complexe d’un état associant sommeil et veille."
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1992, Takeuchi et ses collègues ont étudié 16 participants avec des interruptions du sommeil. Ils ont enregistré six épisodes, associant signes de veille et atonie persistante, puis recueilli des récits. Cela soutient une dissociation mesurable des états. Petit échantillon sélectionné et horaires manipulés limitent la généralisation ; ce protocole n’est pas une invitation à provoquer des épisodes chez soi. [Takeuchi et coll., 1992](https://pubmed.ncbi.nlm.nih.gov/1621022/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Ce que les enregistrements révèlent"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2021, Greta Mainieri et ses collègues ont enregistré cinq épisodes chez cinq participants, ainsi que de faux réveils. L’analyse spectrale de l’EEG trouvait des caractéristiques intermédiaires entre REM et veille, avec une activité importante ressemblant au REM. Les épisodes étaient repérés par signaux, son ou récit rétrospectif. Se sentir éveillé ne signifiait pas nécessairement une veille ordinaire sur tous les plans physiologiques. [Mainieri et coll. : EEG, 2021](https://pubmed.ncbi.nlm.nih.gov/33283752/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cinq épisodes n’établissent pas un schéma universel. Enregistrer un événement spontané en laboratoire est difficile, et son début dépend parfois du signal ou du récit du participant. L’EEG mesure une activité électrique à la surface du crâne, pas la vérité d’une vision. On peut étudier le contexte physiologique tout en ignorant précisément comment se construit une ombre, une voix ou une présence particulière."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Pourquoi une chambre vide paraît occupée"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des personnes rapportent pas, voix, silhouettes, toucher ou certitude d’une présence. Ces hallucinations sont hypnagogiques à l’endormissement et hypnopompiques au réveil. Une hallucination est une perception sans stimulus extérieur correspondant, pas nécessairement un signe de trouble psychotique. Moment et symptômes associés comptent. Les images deviennent convaincantes parce qu’elles semblent s’inscrire dans la pièce où la personne se trouve réellement."
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1999, Cheyne, Rueffer et Newby-Clark ont décrit trois groupes d’expériences : intrus ou présence, pression thoracique et gêne respiratoire, sensations corporelles inhabituelles comme flotter. Leur modèle utilisait physiologie REM et traitement de la menace. Il organisait des récits, sans prouver qu’un circuit unique produit toutes les apparitions. Les hallucinations varient ; certains épisodes comportent seulement l’immobilité, sans figure ni image effrayante. [Cheyne et coll. : modèle des hallucinations, 1999](https://pubmed.ncbi.nlm.nih.gov/10487786/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Selon une hypothèse, immobilité et sensations inhabituelles créent un décalage alarmant, tandis que l’esprit interprète des informations ambiguës comme menaçantes. Une imagerie proche du rêve peut fournir une explication apparente. Ce n’est pas l’observation directe d’une région fabriquant des démons. Notre enquête sur [la paranoïa](/articles/paranoia-why-do-we-feel-watched/) distingue également intensité de l’expérience menaçante et preuves de son interprétation."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Une pression ne prouve pas l’étouffement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Poids ressenti et difficulté respiratoire peuvent être particulièrement inquiétants. Le REM affecte l’activité musculaire et la perception de l’effort respiratoire, tandis que le diaphragme continue de fonctionner. L’explication clinique d’Ohio State distingue ce muscle des muscles volontaires des membres. La sensation d’une présence sur le thorax peut combiner corps, peur et perception onirique ; elle n’établit ni force extérieure ni arrêt nécessaire de la respiration. [Ohio State : muscles et respiration](https://health.osu.edu/health/sleep/whats-happening-to-the-body-during-sleep-paralysis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les assurances ont leurs limites. Un trouble respiratoire peut coexister, et tous les symptômes nocturnes n’ont pas la même cause. Essoufflement persistant, douleur thoracique importante, faiblesse hors d’une transition de sommeil ou symptômes aigus nécessitent une évaluation adaptée. Les épisodes isolés typiques cessent avec le retour du mouvement, souvent en secondes ou minutes. La durée ressentie dans la peur n’est pas un chronomètre fiable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Quelle fréquence ? Il faut préciser la population"
+      },
+      {
+        "type": "paragraph",
+        "text": "La revue systématique de Sharpless et Barber de 2011 réunissait 36 533 participants. Elle estimait au moins un épisode au cours de la vie chez 7,6 % des échantillons généraux, 28,3 % des étudiants et 31,9 % des patients psychiatriques. Ce sont des estimations datées de groupes différents, pas un taux universel actuel. Elles ne signifient pas autant d’épisodes fréquents, de narcolepsies ou de traitements nécessaires. [Sharpless et Barber : prévalence, 2011](https://pubmed.ncbi.nlm.nih.gov/21571556/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Questions, recrutement, mémoire et définitions modifient les estimations. On peut compter événements au cours de la vie, récents ou paralysie isolée récurrente : épisodes répétés non mieux expliqués par une autre cause, avec souffrance importante. Un échantillon étudiant de convenance n’est pas représentatif de tous. Fréquence, intensité et perturbation doivent être mesurées séparément."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Old Hag, Jathoom et récits hérités"
+      },
+      {
+        "type": "paragraph",
+        "text": "À Terre-Neuve, le récit de l’Old Hag associe une présence nocturne à l’immobilité et à l’oppression. L’article de R. C. Ness de 1978 reposait sur 13 mois de terrain et examinait la ressemblance avec la paralysie du sommeil. Il documentait des interprétations, pas l’existence d’un visiteur. Un symptôme peut recevoir un nom et une histoire bien avant son explication physiologique. [Ness : enquête à Terre-Neuve, 1978](https://pubmed.ncbi.nlm.nih.gov/699620/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jathoom, ou الجاثوم, est un terme arabe associé à cette expérience nocturne. Un récit littéraire publié par l’université Sultan Qaboos illustre cet usage culturel, sans constituer une preuve clinique. Les recherches interculturelles évoquent aussi kanashibari au Japon et karabasan en Türkiye. Noms et interprétations varient au sein des sociétés ; langue et religion ne déterminent pas ce qu’une personne doit croire. [Université Sultan Qaboos : récit littéraire du Jathoom](https://www.squ.edu.om/Portals/29/PDF/ETS-literature.pdf?ver=2020-03-16-123732-493) [Jalal et coll. : interprétations du karabasan](https://pmc.ncbi.nlm.nih.gov/articles/PMC8060736/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une étude parue dans son numéro de revue de 2014 comparait des personnes du Caire, Copenhague et de l’American University in Cairo, avec des groupes de 89, 59 et 44. Les explications différaient, notamment les interprétations surnaturelles. Ces groupes ne représentent pas des nations et ne prouvent pas que les croyances causent seules les épisodes. La culture peut influencer la peur sans rendre les personnes naïves. [Jalal et coll. : Égypte–Danemark, numéro de 2014](https://journals.sagepub.com/doi/10.1177/1363461513503378)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La science distingue perception et explication. La physiologie du REM soutient une explication naturelle ; les récits de présence ne vérifient pas indépendamment des affirmations surnaturelles. Cela ne justifie aucune moquerie. Comprendre les croyances permet aux cliniciens d’expliquer dans un langage digne de confiance. La paralysie du sommeil n’explique pas automatiquement tout événement nocturne : moment, état corporel et preuves disponibles restent à considérer."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Les facteurs de risque ne sont pas des garanties"
+      },
+      {
+        "type": "paragraph",
+        "text": "La revue systématique de Denis, French et Gregory, publiée dans son numéro de 2018, examinait fréquence et intensité. Mauvais sommeil, stress et associations psychologiques apparaissent dans la littérature, mais beaucoup de données sont observationnelles. Elles ne déterminent pas toujours si les perturbations précèdent les épisodes, suivent leur peur ou partagent une cause. Manque de sommeil, travail posté et horaires irréguliers sont des contributions plausibles, pas une explication complète. [Denis et coll. : revue systématique, numéro de 2018](https://pubmed.ncbi.nlm.nih.gov/28735779/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dormir sur le dos est associé aux épisodes dans certaines recherches ; le NHS conseille d’éviter cette position lorsqu’elle semble pertinente. L’histoire familiale est une association, pas un héritage inévitable. Alcool, substances et changements médicamenteux influencent le sommeil et méritent discussion. N’arrêtez pas brutalement un médicament prescrit et ne réduisez pas volontairement votre sommeil pour tester une idée. Aucun déclencheur évident n’est parfois identifiable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Quand envisager une narcolepsie ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La paralysie peut accompagner une narcolepsie, trouble de régulation du sommeil et de la veille, sans qu’un épisode suffise au diagnostic. Somnolence diurne persistante, endormissements soudains ou faiblesse musculaire déclenchée par l’émotion, appelée cataplexie, justifient une évaluation. La cataplexie diffère de l’immobilité à l’endormissement ou au réveil. Le NHS décrit ces symptômes tout en précisant que toutes les personnes n’en présentent pas l’ensemble. [NHS : narcolepsie](https://www.nhs.uk/conditions/narcolepsy/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le clinicien examine moment, fréquence, horaires, respiration, fonctionnement diurne et médicaments. Tout épisode typique n’exige pas des examens ; une étude du sommeil peut aider si un autre trouble est suspecté. L’imagerie au seuil du sommeil ne diagnostique pas une psychose. Les événements hors de ces transitions ou une faiblesse persistante nécessitent une explication plus large."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Prévenir et faire face sans promesse miracle"
+      },
+      {
+        "type": "paragraph",
+        "text": "Régularité et temps de repos suffisant sont des points de départ pratiques. Pour les adultes, le NHS suggère environ 7–9 heures et des horaires constants. Traiter insomnie, stress ou affection sous-jacente peut réduire les épisodes. Ces mesures soutiennent la santé du sommeil sans garantir la prévention. Une personne anxieuse peut avoir besoin d’aide pour retrouver un rythme, pas d’une obligation supplémentaire de dormir parfaitement. [NHS : paralysie du sommeil](https://www.nhs.uk/conditions/sleep-paralysis/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pendant un épisode familier, se rappeler son caractère temporaire et l’origine liée au sommeil des images peut réduire la panique. Sleep Foundation décrit petits mouvements et détente comme pistes possibles, pas méthodes fiables de sortie instantanée. Une attention à la respiration habituelle et calme peut aider certaines personnes ; aucune raison de retenir son souffle ou d’adopter des techniques extrêmes. Une gêne persistante après le retour du mouvement nécessite une aide médicale. [Sleep Foundation : sommeil et stratégies](https://www.sleepfoundation.org/parasomnias/sleep-paralysis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Si cela se répète, notez brièvement épisodes, horaires et symptômes diurnes pour en parler au clinicien. Un partenaire informé peut rassurer plutôt qu’interpréter une attaque. Le but est de réduire la souffrance et repérer des tendances, pas de surveiller intensément chaque nuit. Éviter le sommeil par peur peut aggraver les perturbations demandant déjà de l’attention."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Ce que soutient réellement la recherche thérapeutique"
+      },
+      {
+        "type": "paragraph",
+        "text": "La revue clinique de Sharpless de 2016 décrit psychoéducation, attention aux perturbations et approches cognitivo-comportementales des épisodes isolés récurrents. Les preuves spécifiques restent limitées ; certaines recommandations viennent de la pratique et de troubles apparentés. Des traitements médicamenteux spécialisés ciblent parfois le REM, avec choix, bénéfices et risques sous supervision individuelle. Une illustration ou un article ne justifie pas de commencer un antidépresseur. [Sharpless : guide clinique, 2016](https://pubmed.ncbi.nlm.nih.gov/27486325/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2020, Jalal et ses collègues ont inclus dix patients avec narcolepsie et paralysie du sommeil dans une étude pilote. Six recevaient une intervention méditation-détente, quatre une intervention de comparaison. Les diminutions rapportées étaient prometteuses, mais l’effectif minuscule et l’étude exploratoire. Rien ne prouve une guérison universelle, une efficacité dans les épisodes isolés ou un remplacement des essais contrôlés plus larges. Une piste préliminaire mérite intérêt sans publicité triomphale. [Jalal et coll. : étude pilote, 2020](https://pubmed.ncbi.nlm.nih.gov/32903364/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Consultez lorsque les épisodes sont fréquents, rendent le sommeil effrayant, perturbent le repos ou accompagnent une somnolence importante. Le rétablissement peut signifier moins d’épisodes, moins de panique ou davantage de confiance avant la disparition complète. L’objectif est une vie plus riche et un sommeil plus sûr, pas d’exiger une absence immédiate de peur parce qu’un mécanisme a été expliqué."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Une frontière qui éclaire l’esprit ordinaire"
+      },
+      {
+        "type": "paragraph",
+        "text": "La paralysie révèle que perception, conscience et mouvement peuvent brièvement se séparer. La pièce paraît réelle tandis que des images émergent dans un état lié au REM. Notre enquête sur [l’hypnose](/articles/can-hypnosis-really-control-your-mind/) distingue aussi certitude subjective et explication. Comprendre ne diminue pas la terreur. Cela lui donne un contexte, remplace un visiteur inévitable par une difficulté pouvant recevoir des soins et rend le retour au sommeil moins mystérieux."
+      }
+    ],
+    "faq": [
+      {
+        "question": "La paralysie du sommeil est-elle dangereuse ?",
+        "answer": "Les épisodes isolés typiques sont généralement temporaires et sans danger, malgré la détresse. Répétition, sommeil perturbé ou symptômes d’une autre affection justifient une évaluation."
+      },
+      {
+        "question": "Pourquoi vois-je une silhouette ?",
+        "answer": "Les hallucinations de transition peuvent inclure une figure ou une présence. La perception est réelle pour la personne, sans établir une existence extérieure."
+      },
+      {
+        "question": "La respiration s’arrête-t-elle ?",
+        "answer": "Le diaphragme continue généralement de fonctionner. Pression et gêne peuvent effrayer ; une difficulté persistante après l’épisode nécessite une aide médicale."
+      },
+      {
+        "question": "Un épisode signifie-t-il narcolepsie ?",
+        "answer": "Non. La paralysie peut être indépendante. Somnolence diurne importante, endormissements soudains ou cataplexie justifient une discussion médicale plus large."
+      },
+      {
+        "question": "Comment prévenir les répétitions ?",
+        "answer": "Sommeil régulier, repos suffisant et traitement des causes peuvent aider. Les preuves des techniques spécifiques restent limitées ; les soins doivent être personnalisés."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NHS : paralysie du sommeil",
+        "url": "https://www.nhs.uk/conditions/sleep-paralysis/"
+      },
+      {
+        "label": "NIH : physiologie du sommeil",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK20359/"
+      },
+      {
+        "label": "Takeuchi et coll., 1992",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1621022/"
+      },
+      {
+        "label": "Mainieri et coll. : EEG, 2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33283752/"
+      },
+      {
+        "label": "Cheyne et coll. : modèle des hallucinations, 1999",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10487786/"
+      },
+      {
+        "label": "Ohio State : muscles et respiration",
+        "url": "https://health.osu.edu/health/sleep/whats-happening-to-the-body-during-sleep-paralysis"
+      },
+      {
+        "label": "Sharpless et Barber : prévalence, 2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21571556/"
+      },
+      {
+        "label": "Ness : enquête à Terre-Neuve, 1978",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/699620/"
+      },
+      {
+        "label": "Université Sultan Qaboos : récit littéraire du Jathoom",
+        "url": "https://www.squ.edu.om/Portals/29/PDF/ETS-literature.pdf?ver=2020-03-16-123732-493"
+      },
+      {
+        "label": "Jalal et coll. : interprétations du karabasan",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8060736/"
+      },
+      {
+        "label": "Jalal et coll. : Égypte–Danemark, numéro de 2014",
+        "url": "https://journals.sagepub.com/doi/10.1177/1363461513503378"
+      },
+      {
+        "label": "Denis et coll. : revue systématique, numéro de 2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28735779/"
+      },
+      {
+        "label": "NHS : narcolepsie",
+        "url": "https://www.nhs.uk/conditions/narcolepsy/"
+      },
+      {
+        "label": "Sleep Foundation : sommeil et stratégies",
+        "url": "https://www.sleepfoundation.org/parasomnias/sleep-paralysis"
+      },
+      {
+        "label": "Sharpless : guide clinique, 2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27486325/"
+      },
+      {
+        "label": "Jalal et coll. : étude pilote, 2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32903364/"
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/songhai-empire-gao-askia-tondibi-1591/",
     "path": "/ar/articles/songhai-empire-gao-askia-tondibi-1591/",
     "kind": "article",
