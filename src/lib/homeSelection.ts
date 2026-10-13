@@ -4,24 +4,24 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Homepage editorial placements only. Category selections remain independent.
 export const homeHeroSlugs = [
-  "bradley-cooper-gigi-hadid-paris-marriage-speculation",
-  "paramount-warner-bros-110-billion-hollywood-deal",
-  "tom-cruise-digger-box-office-opening-losses",
-  "saudi-arabia-gulf-cup-27-champions",
-  "casablanca-madrid-2030-world-cup-final",
-  "meta-ray-ban-privacy-europe",
-  "angela-merkel-freedom-memoir-million-copies",
-  "barack-obama-after-white-house-life-2026",
-  "byd-overtakes-tesla-annual-bev-sales",
-  "from-ai-to-si-super-intelligence-trump-musk",
-  "luis-de-la-fuente-ucam-honorary-doctorate",
-  "anne-hathaway-baby-bump-verity-premiere-2026"
+  "breaking-bad-actor-rj-mitte-dies-at-34",
+  "world-most-expensive-paintings-ever-sold",
+  "megan-fox-subs-co-owner-tim-stokely",
+  "black-death-pandemic-transform-europe",
+  "modern-architecture-world-most-breathtaking-buildings",
+  "revolut-global-tech-ai-storonsky-2026",
+  "feminism-movement-redefined-womens-rights",
+  "paranoia-why-do-we-feel-watched",
+  "humans-apes-dna-similarity-chimpanzees-evolution",
+  "plastic-surgery-revolution-beauty-at-any-cost",
+  "sarco-capsule-assisted-dying-switzerland",
+  "virgin-trains-eurostar-cross-channel-rival"
 ] as const;
 
 export const homeSideSlugs = [
-  "de-extinction-bringing-extinct-animals-back-science",
-  "brain-drain-why-skilled-workers-leave-home",
-  "morocco-history-dynasties-kingdom-independence"
+  "lonely-genius-great-minds-solitude-creativity",
+  "kim-kardashian-lewis-hamilton-romance-public",
+  "immortal-jellyfish-turritopsis-dohrnii-life-cycle"
 ] as const;
 
 export function selectHomeArticles(articles: readonly Article[], now: Date, locale: Locale = "en", translations: readonly Translation[] = []) {
