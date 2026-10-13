@@ -2,6 +2,7 @@ import { Facebook, Instagram, Mail } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { PrivacyChoices } from "@/components/PrivacyChoices";
+import { AnalyticsPrivacyChoices } from "@/components/AnalyticsConsentProvider";
 import { categories } from "@/data/articles";
 import { toCategorySlug } from "@/lib/categories";
 
@@ -84,6 +85,7 @@ export function Footer({ locale = "en" }: { locale?: Locale }) {
                 <Link prefetch={false} key={link.href} href={destination(link.href)} className={linkClass}>{link.label}</Link>
               ))}
               <PrivacyChoices locale={locale} className={linkClass} />
+              <AnalyticsPrivacyChoices locale={locale} className={linkClass} />
             </div>
           </div>
         </div>

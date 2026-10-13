@@ -20,7 +20,7 @@ export default function PrivacyPage() {
           title: "Information We Collect",
           body: [
             "Readers may provide names, email addresses, contact messages, newsletter signups, and correction requests. Technical information may include device and browser details, approximate location, page views, referrals, and interactions.",
-            "PRESDA has Google Analytics and Vercel Analytics integrations for audience and operational measurement. Google Analytics is prepared to load only after an explicit analytics consent grant from the configured Google consent platform; with that platform disabled, it remains unloaded. Vercel Analytics provides aggregate measurement. Reader polls use a signed browser identifier to limit duplicate voting."
+            "PRESDA has Google Analytics and Vercel Analytics integrations for audience and operational measurement. Google Analytics loads only after you accept analytics in PRESDA's independent analytics preferences. Rejecting or withdrawing consent disables collection and removes its measurement cookies. Vercel Analytics provides aggregate measurement. Reader polls use a signed browser identifier to limit duplicate voting."
           ]
         },
         {
@@ -50,6 +50,7 @@ export default function PrivacyPage() {
         {
           title: "Consent And Reader Choices",
           body: [
+            "Analytics is optional and denied by default worldwide. You can accept or reject it in the analytics message and change or withdraw your choice through Analytics preferences in the footer. A first-party localStorage preference records either choice for 180 days; if browser storage is unavailable, the choice applies only to the current tab. Global Privacy Control and Do Not Track signals keep Google Analytics disabled. Advertising remains disabled and its consent platform is separate.",
             "Before advertising launches, PRESDA will configure a Google-certified consent platform compatible with the IAB Transparency and Consent Framework for readers in the European Economic Area, United Kingdom, and Switzerland. The planned platform is Google's Privacy & messaging service. It has not yet been configured or published for PRESDA.",
             "Once activated, the consent message will describe purposes and participating vendors, provide applicable choices, and offer a persistent way to revisit or withdraw consent. Non-personalized ads may still use cookies and require consent where applicable. Browser controls and Google Ads Settings do not replace PRESDA's future site consent controls.",
             "Readers may unsubscribe from requested communications and contact contact@presda.com with privacy questions or requests concerning access, correction, deletion, objection, or consent. Available rights depend on applicable law."

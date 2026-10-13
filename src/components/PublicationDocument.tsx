@@ -5,7 +5,7 @@ import type { ReactNode } from "react";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { AdSenseProvider } from "@/components/AdSenseProvider";
-import { ConsentAnalytics } from "@/components/ConsentAnalytics";
+import { AnalyticsConsentProvider } from "@/components/AnalyticsConsentProvider";
 import { getAdSenseAccountConfig } from "@/lib/adsenseAccountConfig";
 import { discoveryRobots, organizationJsonLd } from "@/lib/seo";
 import "@/app/globals.css";
@@ -69,6 +69,7 @@ export function PublicationDocument({ children, locale = "en" }: Readonly<{ chil
     <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"} className={`${orbitron.variable} ${inter.variable} ${articleDisplay.variable}`}>
       <body>
         <AdSenseProvider config={getAdSenseAccountConfig(process.env)}>
+        <AnalyticsConsentProvider locale={locale}>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
@@ -76,8 +77,8 @@ export function PublicationDocument({ children, locale = "en" }: Readonly<{ chil
         <Header locale={locale} />
         {children}
         <Analytics />
-        <ConsentAnalytics />
         <Footer locale={locale} />
+        </AnalyticsConsentProvider>
         </AdSenseProvider>
       </body>
     </html>

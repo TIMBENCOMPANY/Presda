@@ -26,6 +26,7 @@ export default function CookiePolicyPage() {
           title: "Current Technologies",
           body: [
             "Google Analytics may set measurement cookies, including _ga and property-specific _ga cookies when permitted by the enabled configuration and privacy choices. Their expiration depends on Google's settings and the account configuration. Vercel Analytics measures readership without analytics cookies.",
+            "PRESDA stores your explicit analytics acceptance or rejection in first-party localStorage under presda.analytics-consent.v1 for 180 days. This preference is used only to apply your privacy choice. Analytics preferences in the footer lets you change or withdraw consent; withdrawal disables Google Analytics and removes its measurement cookies. Browser privacy signals keep analytics disabled. If storage is unavailable, your choice applies only to the current tab.",
             "The first-party presda_reader_poll cookie stores a signed identifier for duplicate-vote prevention. It is HttpOnly and expires after up to one year. It is not used to select advertising. Deleting it may affect duplicate-vote checks.",
             "Provider configuration and browser behavior can affect cookie lifetimes. A browser cookie's expiration does not establish how long associated server-side records are kept."
           ],
