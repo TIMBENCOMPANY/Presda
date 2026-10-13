@@ -17,6 +17,7 @@ import { immortalJellyfishArticle } from "@/data/immortalJellyfishArticle";
 import { songhaiArticle } from "@/data/songhaiArticle";
 import { plasticSurgeryArticle } from "@/data/plasticSurgeryArticle";
 import { meganFoxSubsArticle } from "@/data/meganFoxSubsArticle";
+import { rjMitteArticle } from "@/data/rjMitteArticle";
 import { watchesArticle } from "@/data/watchesArticle";
 import { artificialBloodArticle } from "@/data/artificialBloodArticle";
 import { passportsArticle } from "@/data/passportsArticle";
@@ -35686,6 +35687,7 @@ export const articles: Article[] = [
   artificialBloodArticle,
   watchesArticle,
   meganFoxSubsArticle,
+  rjMitteArticle,
   plasticSurgeryArticle,
   songhaiArticle,
   immortalJellyfishArticle,
