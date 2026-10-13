@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "crows-intelligence-tools-memory-science": {
+    en: { red: "CROWS", gold: "OUTSMART" },
+    fr: { red: "CORBEAUX", gold: "DÉJOUENT" },
+    ar: { red: "الغربان", gold: "بذكائها" },
+    es: { red: "CUERVOS", gold: "BURLAN" }
+  },
   "psychology-of-conspiracy-theories-why-we-believe-hidden-plots": {
     en: { red: "CONSPIRACY THEORIES", gold: "HIDDEN PLOTS" },
     fr: { red: "THÉORIES DU COMPLOT", gold: "PLOTS CACHÉS" },
