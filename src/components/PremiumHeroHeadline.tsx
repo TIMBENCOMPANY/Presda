@@ -9,6 +9,12 @@ const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
     ar: { red: "نظريات المؤامرة", gold: "مخططات خفية" },
     es: { red: "TEORÍAS DE LA CONSPIRACIÓN", gold: "PLANES OCULTOS" }
   },
+  "culture-of-tattoos-ancient-rituals-modern-art": {
+    en: { red: "TATTOOS", gold: "MODERN ART" },
+    fr: { red: "TATOUAGE", gold: "ART MODERNE" },
+    ar: { red: "الوشم", gold: "الفن الحديث" },
+    es: { red: "TATUAJE", gold: "ARTE MODERNO" }
+  },
   "feminism-movement-redefined-womens-rights": {
     en: { red: "FEMINISM", gold: "RIGHTS" },
     fr: { red: "FÉMINISME", gold: "DROITS" },

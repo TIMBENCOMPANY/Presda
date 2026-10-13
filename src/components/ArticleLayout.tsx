@@ -12,6 +12,7 @@ import feminismHeroCaptions from "@/data/feminismHeroCaptions.json";
 import conspiracyHeroCaptions from "@/data/conspiracyHeroCaptions.json";
 import womenGoldHeroCaptions from "@/data/womenGoldHeroCaptions.json";
 import blackDeathHeroCaptions from "@/data/blackDeathHeroCaptions.json";
+import tattooHeroCaptions from "@/data/tattooHeroCaptions.json";
 import { UniqueHotelsComparison } from "@/components/UniqueHotelsComparison";
 import { WatchPriceComparison } from "@/components/WatchPriceComparison";
 import { SonghaiGraphics } from "@/components/SonghaiGraphics";
@@ -318,6 +319,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "psychology-of-conspiracy-theories-why-we-believe-hidden-plots" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{conspiracyHeroCaptions[locale]}</p>}
         {article.slug === "women-and-gold-a-timeless-love-story" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{womenGoldHeroCaptions[locale]}</p>}
         {article.slug === "black-death-pandemic-transform-europe" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{blackDeathHeroCaptions[locale]}</p>}
+        {article.slug === "culture-of-tattoos-ancient-rituals-modern-art" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{tattooHeroCaptions[locale]}</p>}
         {article.slug === "can-hypnosis-really-control-your-mind" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{hypnosisHeroCaptions[locale]}</p>}
 
         {article.slug === "modern-architecture-world-most-breathtaking-buildings" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{architectureMedia[locale].heroCaption}</p>}

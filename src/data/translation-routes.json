@@ -841,6 +841,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/culture-of-tattoos-ancient-rituals-modern-art/",
+    "path": "/ar/articles/culture-of-tattoos-ancient-rituals-modern-art/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/culture-of-tattoos-ancient-rituals-modern-art/",
+    "path": "/es/articles/culture-of-tattoos-ancient-rituals-modern-art/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/culture-of-tattoos-ancient-rituals-modern-art/",
+    "path": "/fr/articles/culture-of-tattoos-ancient-rituals-modern-art/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/david-beckhams-unexpected-passion-beyond-football/",
     "path": "/ar/articles/david-beckhams-unexpected-passion-beyond-football/"
   },

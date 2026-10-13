@@ -18,6 +18,7 @@ import { songhaiArticle } from "@/data/songhaiArticle";
 import { plasticSurgeryArticle } from "@/data/plasticSurgeryArticle";
 import { meganFoxSubsArticle } from "@/data/meganFoxSubsArticle";
 import { rjMitteArticle } from "@/data/rjMitteArticle";
+import { tattooCultureArticle } from "@/data/tattooCultureArticle";
 import { watchesArticle } from "@/data/watchesArticle";
 import { artificialBloodArticle } from "@/data/artificialBloodArticle";
 import { passportsArticle } from "@/data/passportsArticle";
@@ -35688,6 +35689,7 @@ export const articles: Article[] = [
   watchesArticle,
   meganFoxSubsArticle,
   rjMitteArticle,
+  tattooCultureArticle,
   plasticSurgeryArticle,
   songhaiArticle,
   immortalJellyfishArticle,
