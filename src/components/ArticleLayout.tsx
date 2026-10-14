@@ -1,3 +1,4 @@
+import celineDionHeroCaptions from "@/data/celineDionHeroCaptions.json";
 import knowlesRowlandHeroCaptions from "@/data/knowlesRowlandHeroCaptions.json";
 import sexEducationHeroCaptions from "@/data/sexEducationHeroCaptions.json";
 import odysseyHeroCaptions from "@/data/odysseyHeroCaptions.json";
@@ -327,6 +328,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "culture-of-tattoos-ancient-rituals-modern-art" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{tattooHeroCaptions[locale]}</p>}
         {article.slug === "first-giraffe-china-1414-bengal-yongle" && <GiraffeHeroCaption locale={locale} />}
         {article.slug === "beyonce-kelly-rowland-houston-knowles-rowland-house" && <p data-knowles-rowland-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{knowlesRowlandHeroCaptions[locale]}</p>}
+        {article.slug === "celine-dion-returns-stage-six-years-paris-2026" && <p data-celine-dion-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{celineDionHeroCaptions[locale]}</p>}
         {article.slug === "sex-education-beyond-the-taboo" && <p data-sex-education-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{sexEducationHeroCaptions[locale]}</p>}
         {article.slug === "nolan-the-odyssey-universal-box-office-record" && <p data-odyssey-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{odysseyHeroCaptions[locale]}</p>}
         {article.slug === "netflix-cuts-1000-jobs-biggest-layoffs-since-2022" && <p data-netflix-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{netflixHeroCaptions[locale]}</p>}

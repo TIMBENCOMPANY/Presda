@@ -826,6 +826,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/celine-dion-returns-stage-six-years-paris-2026/",
+    "path": "/ar/articles/celine-dion-returns-stage-six-years-paris-2026/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/celine-dion-returns-stage-six-years-paris-2026/",
+    "path": "/es/articles/celine-dion-returns-stage-six-years-paris-2026/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/celine-dion-returns-stage-six-years-paris-2026/",
+    "path": "/fr/articles/celine-dion-returns-stage-six-years-paris-2026/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/charles-darwin-theory-of-evolution/",
     "path": "/ar/articles/charles-darwin-theory-of-evolution/"
   },
