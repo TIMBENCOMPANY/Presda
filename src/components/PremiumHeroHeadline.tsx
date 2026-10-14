@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "artificial-wombs-future-human-birth": {"en":{"red":"ARTIFICIAL WOMBS","gold":"HUMAN BIRTH"},"fr":{"red":"UTÉRUS ARTIFICIELS","gold":"NAISSANCE HUMAINE"},"es":{"red":"ÚTEROS ARTIFICIALES","gold":"NACIMIENTO HUMANO"},"ar":{"red":"الأرحام الاصطناعية","gold":"الولادة البشرية"}},
   "formula-1-returns-africa-rwanda-deal": {"en":{"red":"FORMULA 1","gold":"RWANDA"},"fr":{"red":"FORMULE 1","gold":"RWANDA"},"es":{"red":"FÓRMULA 1","gold":"RUANDA"},"ar":{"red":"الفورمولا 1","gold":"رواندا"}},
   "beyonce-kelly-rowland-houston-knowles-rowland-house": {"en":{"red":"BEYONCÉ","gold":"HOUSTON"},"fr":{"red":"BEYONCÉ","gold":"HOUSTON"},"es":{"red":"BEYONCÉ","gold":"HOUSTON"},"ar":{"red":"بيونسيه","gold":"هيوستن"}},
   "celine-dion-returns-stage-six-years-paris-2026": {"en":{"red":"CÉLINE DION","gold":"SIX YEARS"},"fr":{"red":"CÉLINE DION","gold":"SIX ANS"},"es":{"red":"CÉLINE DION","gold":"SEIS AÑOS"},"ar":{"red":"سيلين ديون","gold":"ست سنوات"}},

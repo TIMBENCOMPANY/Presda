@@ -1,0 +1,244 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/artificial-wombs-future-human-birth/",
+  "path": "/es/articles/artificial-wombs-future-human-birth/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-14",
+    "terminologyChecked": true
+  },
+  "title": "ÚTEROS ARTIFICIALES: ¿EL FUTURO DEL NACIMIENTO HUMANO?",
+  "seoTitle": "Úteros artificiales: ciencia, riesgos y futuro del nacimiento",
+  "description": "De los corderos del CHOP a la investigación de 2026: úteros artificiales, prematuridad extrema, riesgos médicos y límites de la ectogénesis.",
+  "excerpt": "De los corderos del CHOP a la investigación de 2026: úteros artificiales, prematuridad extrema, riesgos médicos y límites de la ectogénesis.",
+  "headlineHighlights": {
+    "red": "ÚTEROS ARTIFICIALES",
+    "gold": "NACIMIENTO HUMANO"
+  },
+  "keywords": [
+    "ÚTEROS ARTIFICIALES",
+    "NACIMIENTO HUMANO"
+  ],
+  "searchIntent": "De los corderos del CHOP a la investigación de 2026: úteros artificiales, prematuridad extrema, riesgos médicos y límites de la ectogénesis.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-14",
+  "updatedAt": "2026-10-14",
+  "image": {
+    "src": "/articles/artificial-wombs-hero.png",
+    "alt": "Ilustración editorial conceptual generada por IA, no un dispositivo real, un experimento humano ni una pantalla médicamente exacta."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La imagen más impactante de esta investigación no es un bebé que crece desde la concepción dentro de una cápsula de cristal. Es un cordero prematuro, suspendido en líquido, que sigue desarrollándose mientras su corazón impulsa sangre por un circuito externo. Entre ambas imágenes está la distancia entre un puente médico experimental y una fantasía tecnológica. Entender esa diferencia hace más extraordinaria la ciencia real."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la revisión de fuentes realizada para este artículo el 14 de octubre de 2026, no se ha logrado una gestación humana completa en un útero artificial. Una revisión científica de enero de 2026 informa de que no se habían realizado ensayos humanos en su base de evidencia. Su búsqueda terminó el 27 de agosto de 2025, por lo que no es un registro permanentemente actualizado. Las fuentes citadas aquí no establecen un ensayo clínico humano ni un tratamiento disponible para familias. [Revisión preclínica de 2026](https://www.cureus.com/articles/428509-artificial-womb-technology-a-systematic-review-of-preclinical-evidence-and-implications-for-neonatal-viability-and-intensive-care.pdf)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El objetivo inmediato es tiempo, no embarazo a la carta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un bebé extremadamente prematuro puede nacer antes de que sus órganos estén preparados para la vida fuera del útero. La propuesta es conservar durante un tiempo parte de la fisiología fetal, permitiendo más maduración antes de los cuidados neonatales convencionales. La FDA lo describe como un puente hacia una etapa gestacional posterior. No consiste en introducir un óvulo fecundado en una máquina y recoger un recién nacido a término meses después. [Resumen de la FDA](https://www.fda.gov/media/172441/download)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ectogestación parcial significa continuar fuera del cuerpo una parte de la gestación ya iniciada dentro. La ectogénesis completa exigiría todo el proceso, incluidas las relaciones biológicas tempranas de implantación y desarrollo placentario. Ambas ideas suelen ilustrarse con la misma cápsula futurista. No son el mismo logro científico, y avanzar en una no demuestra que la otra esté cerca."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué demostró realmente el experimento Biobag de 2017"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 25 de abril de 2017, Emily Partridge y sus colegas del Children’s Hospital of Philadelphia publicaron su estudio emblemático en Nature Communications. Mantuvieron corderos fetales prematuros durante un máximo de cuatro semanas en un sistema líquido conectado a un oxigenador mediante los vasos umbilicales. Registraron crecimiento y medidas de maduración pulmonar y cerebral, conservando la circulación fetal. Eran animales trasladados durante la gestación, no embriones desarrollados fuera del útero desde la concepción. [Partridge y colaboradores, 2017](https://www.nature.com/articles/ncomms15112)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El modelo ovino se eligió por su relevancia para el desarrollo, no porque una oveja sea un humano en miniatura. El artículo señala que los corderos comparables eran mayores que los bebés humanos de peso extremadamente bajo. Los experimentos con animales más pequeños y tempranos encontraron flujo sanguíneo excesivo y acumulación de líquido, con períodos de soporte más cortos. El éxito en unas condiciones fisiológicas no prueba seguridad en otras. [Estudio y limitaciones](https://www.nature.com/articles/ncomms15112)"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHOP presentó la investigación como una posible vía futura para reducir daños de la prematuridad extrema. Su anuncio describía un entorno casi estéril, de temperatura controlada, destinado a permitir el desarrollo sin obligar a unos pulmones inmaduros a respirar aire inmediatamente. Biobag es el nombre de la envoltura; la innovación está en la fisiología coordinada a su alrededor. [Explicación original de CHOP](https://www.chop.edu/news/unique-womb-device-could-reduce-mortality-and-disability-extremely-premature-babies)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cómo recibe oxígeno un feto sin respirar aire?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el diseño de CHOP, el líquido amniótico sintético rodea al animal y se renueva continuamente. Ofrece protección y permite mantener los pulmones llenos de líquido. No es la principal vía de entrada del oxígeno en la sangre. Esa tarea corresponde a un oxigenador externo conectado a la circulación umbilical, que intercambia oxígeno y dióxido de carbono a través de una membrana. [CHOP: líquido e intercambio gaseoso](https://www.chop.edu/news/unique-womb-device-could-reduce-mortality-and-disability-extremely-premature-babies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "EXTEND utiliza un circuito de baja resistencia impulsado por el corazón fetal, no por una bomba sanguínea mecánica. La sangre atraviesa el dispositivo y regresa por la conexión umbilical. Un estudio de 2018 examinó cómo la canulación umbilical afecta al flujo. Es un detalle decisivo: una conexión sencilla sobre el papel debe mantener una circulación adecuada sin imponer una carga peligrosa a un corazón pequeño. [Investigación de circulación umbilical](https://pmc.ncbi.nlm.nih.gov/articles/PMC5924826/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La oxigenación es solo una necesidad. Nutrición, temperatura, equilibrio de líquidos y vigilancia deben funcionar conjuntamente. La placenta hace más que intercambiar gases, así que llamar placenta artificial a un oxigenador no significa reproducir todas sus funciones. La investigación pregunta qué puede sustituirse suficientemente durante un período limitado, no si un embarazo completo se reduce a una bolsa, un tubo y una pantalla."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Por qué no es simplemente una incubadora"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una incubadora convencional ayuda a cuidar a un bebé que ha entrado en la vida neonatal; el soporte respiratorio puede asistir a sus pulmones llenos de aire. Los sistemas de útero artificial buscan retrasar parte de esa transición manteniendo un entorno fetal y una vía externa de intercambio gaseoso. La discusión de la FDA en 2023 se limitó a una alternativa a los cuidados intensivos de prematuros extremos, no a máquinas reproductivas para consumidores. [Alcance de la reunión FDA](https://www.fda.gov/advisory-committees/advisory-committee-calendar/pediatric-advisory-committee-meeting-announcement-09192023)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción explica la esperanza y la dificultad. No se trata solo de calentar o sofisticar una incubadora, sino de preservar un estado fisiológico en un momento muy vulnerable. Si el sistema falla, el equipo necesitaría una vía de rescate viable. Un futuro ensayo debe considerar la transferencia al dispositivo y la salida posterior, no únicamente los días de soporte."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué ha avanzado en 2026 y qué sigue pendiente"
+    },
+    {
+      "type": "paragraph",
+      "text": "La revisión de Lubna Bashier y sus colegas, publicada en Cureus el 9 de enero de 2026, examina sistemas preclínicos, distintos circuitos y modelos animales. Señala problemas persistentes de coagulación, hemorragia, infección, fallo de canulación e inestabilidad circulatoria. Las diferencias entre estudios impidieron un metaanálisis cuantitativo. Es una síntesis de trabajos anteriores, no un experimento nuevo ni la demostración de un tratamiento humano. [Revisión de 2026](https://www.cureus.com/articles/428509-artificial-womb-technology-a-systematic-review-of-preclinical-evidence-and-implications-for-neonatal-viability-and-intensive-care.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una revisión ética de febrero de 2026 en Journal of Pediatric Surgery también describe el avance hacia primeros estudios humanos como dependiente de investigación preclínica adicional. La designación de dispositivo innovador de la FDA que menciona no equivale a autorización comercial, ensayos terminados o beneficio clínico demostrado. La atención regulatoria implica examen, no que se hayan resuelto todas las incógnitas. [Revisión de ética clínica de 2026](https://www.sciencedirect.com/science/article/pii/S0022346825006748)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La descripción prudente es, por tanto, la de sistemas experimentales de soporte fetal más desarrollados, con traducción clínica humana aún pendiente. La evidencia no permite fijar una fecha para sustituir el embarazo. Una imagen realista, una afirmación comercial o un vídeo tampoco son resultados clínicos. Un hito creíble exige estudio fechado, participantes o modelo identificados, métodos, resultados y explicación de los daños."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La seguridad continúa después del dispositivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un resultado inmediato atractivo no bastaría. Hay que estudiar la estabilidad del oxígeno, la tolerancia vascular y el control de infección y coágulos, además de lo ocurrido al terminar el soporte. En su resumen, la FDA preguntó expresamente cómo evaluar resultados inmediatos y a largo plazo en animales pese a las diferencias entre especies. [FDA: requisitos de evidencia](https://www.fda.gov/media/172441/download)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sobrevivir es fundamental, pero no es el único resultado importante para un niño y su familia. La evaluación deberá seguir la salud y el desarrollo después del alta. Eso no significa prometer una vida sin discapacidad ni considerar menos valiosas las vidas de personas con discapacidad. Significa medir beneficios y daños relevantes, con participación familiar para definir qué resultados importan."
+    },
+    {
+      "type": "paragraph",
+      "text": "La transferencia también afecta a la persona embarazada. No puede explicarse solo desde el punto de vista fetal: el procedimiento de parto, los riesgos médicos y el consentimiento deben abordarse por separado. Sería engañoso presentar la ectogestación como una salida sencilla y sin riesgos del embarazo. La revisión ética prioriza esas dificultades prácticas frente a escenarios lejanos que desplazan las preguntas clínicas inmediatas. [Ética clínica](https://www.sciencedirect.com/science/article/pii/S0022346825006748)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Supervisión de la FDA no significa luz verde"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Comité Asesor Pediátrico de la FDA se reunió públicamente el 19 de septiembre de 2023 para examinar desarrollo, seguridad y ética de posibles primeros ensayos humanos. Las presentaciones trataron las garantías para menores, la evidencia animal y la relación entre beneficios y riesgos. Una reunión sobre cómo diseñar estudios no anuncia que esos estudios hayan comenzado. [Presentaciones de la FDA](https://www.fda.gov/advisory-committees/pediatric-advisory-committee/presentations-september-19-2023-meeting-pediatric-advisory-committee)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un primer estudio responsable necesitaría criterios claros, una comparación defendible con los cuidados existentes, vigilancia independiente, reglas de interrupción y seguimiento. Los padres ante un parto prematuro angustioso deben entender la incertidumbre y que participar no garantiza un rescate. Consentir debe ser algo más que firmar durante una crisis. Son razones para investigar con cuidado, no para confundir prudencia con indiferencia ante el sufrimiento."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Maternidad, autonomía y límites de la ingeniería"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una revisión de alcance de 2026 en Journal of Perinatology encontró una literatura ética dividida entre soporte para prematuridad extrema y ectogénesis completa hipotética. Identificó temas como decisiones, estatus moral y jurídico, acceso, perspectivas culturales y ética investigadora. Esa división ayuda a explicar el salto público desde un experimento con corderos hasta afirmaciones sobre el fin de la maternidad. [Revisión ética de 2026](https://pubmed.ncbi.nlm.nih.gov/41975204/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un oxigenador eficaz no resuelve las preguntas profundas. ¿Quién decidiría comenzar o suspender el soporte? ¿Cómo participarían las familias? ¿Dependería el acceso de riqueza o geografía? ¿Podría una opción destinada a ampliar decisiones convertirse en presión? Son cuestiones éticas, no predicciones de un desenlace jurídico o social inevitable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los derechos reproductivos requieren especial cuidado. Una tecnología futura no resolvería automáticamente conflictos sobre autonomía corporal, filiación legal u obligaciones hacia un niño en desarrollo. Un estudio animal no produce una conclusión jurídica universal. La maternidad y la paternidad son también relaciones de cuidado, responsabilidad e identidad. Una máquina no puede determinar su significado social."
+    },
+    {
+      "type": "paragraph",
+      "text": "La gestación artificial es distinta de seleccionar embriones o editar genes. Sostener el desarrollo no selecciona por sí mismo los rasgos de un niño. Para esas otras preguntas, la investigación de PRESDA sobre [bebés de diseño](/articles/designer-babies-ivf-embryo-selection-genetics/) explica FIV, selección embrionaria y genética. Separar las tecnologías evita mezclar debates científicos y éticos distintos en una historia engañosa."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El futuro no debe ocultar los cuidados actuales"
+    },
+    {
+      "type": "paragraph",
+      "text": "La OMS estima que 13,4 millones de bebés nacieron prematuramente en 2020. Su ficha de 2023 destaca desigualdades de supervivencia y el valor de cuidados existentes: calor, apoyo a la alimentación, tratamiento de infecciones y soporte respiratorio adecuado. Son cifras de prematuridad mundial, no el número de bebés que podrían participar en un ensayo de útero artificial. [OMS: nacimiento prematuro](https://www.who.int/news-room/fact-sheets/detail/preterm-birth)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una técnica especializada podría ayudar a un grupo limitado y dejar muchas muertes evitables fuera de su alcance. Invertir en soporte experimental y en servicios maternos y neonatales accesibles no tiene por qué ser incompatible, pero la novedad no debe invisibilizar necesidades conocidas. Importa tanto lo que la medicina puede inventar como la atención que llega realmente a las familias."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Podrían sustituir el embarazo los úteros artificiales?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La evidencia examinada no demuestra un camino hacia la gestación humana completa en un útero artificial. Sostener un feto después de meses dentro del cuerpo no equivale a reproducir toda la secuencia. Sería injustificado convertir un éxito parcial en una fecha para la ectogénesis completa o afirmar que el embarazo quedará inevitablemente obsoleto."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen principal es una ilustración editorial conceptual generada por IA, no una fotografía de un experimento humano, un dispositivo aprobado ni un diseño validado. El feto, las conexiones y las lecturas mostradas no deben interpretarse como evidencia clínica. La investigación real es menos cinematográfica y más exigente: coordinar sistemas frágiles y demostrar después que esa coordinación ayuda a pacientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El futuro más importante podría empezar por una ambición aparentemente modesta: dar más tiempo de desarrollo a un niño extremadamente prematuro. Si resultara seguro y eficaz en humanos, sería un gran logro sin producir ningún embarazo completo fuera del cuerpo. La esperanza debe guardar proporción con la evidencia. La promesa no es sustituir el cuidado humano, sino darle otra forma de proteger un comienzo vulnerable."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bashier et al., 2026: preclinical review",
+      "url": "https://www.cureus.com/articles/428509-artificial-womb-technology-a-systematic-review-of-preclinical-evidence-and-implications-for-neonatal-viability-and-intensive-care.pdf"
+    },
+    {
+      "label": "Partridge et al., Nature Communications, 2017",
+      "url": "https://www.nature.com/articles/ncomms15112"
+    },
+    {
+      "label": "CHOP: extra-uterine support research",
+      "url": "https://www.chop.edu/news/unique-womb-device-could-reduce-mortality-and-disability-extremely-premature-babies"
+    },
+    {
+      "label": "Umbilical cannulation and EXTEND, 2018",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5924826/"
+    },
+    {
+      "label": "FDA: September 2023 meeting summary",
+      "url": "https://www.fda.gov/media/172441/download"
+    },
+    {
+      "label": "FDA: scope of artificial womb discussion",
+      "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/pediatric-advisory-committee-meeting-announcement-09192023"
+    },
+    {
+      "label": "FDA: scientific presentations",
+      "url": "https://www.fda.gov/advisory-committees/pediatric-advisory-committee/presentations-september-19-2023-meeting-pediatric-advisory-committee"
+    },
+    {
+      "label": "Journal of Pediatric Surgery, 2026: ethics",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022346825006748"
+    },
+    {
+      "label": "Journal of Perinatology, 2026: ethical scoping review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41975204/"
+    },
+    {
+      "label": "WHO: preterm birth",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/preterm-birth"
+    }
+  ],
+  "faq": []
+}
