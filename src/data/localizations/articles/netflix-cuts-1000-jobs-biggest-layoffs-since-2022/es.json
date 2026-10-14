@@ -1,0 +1,153 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/netflix-cuts-1000-jobs-biggest-layoffs-since-2022/",
+  "path": "/es/articles/netflix-cuts-1000-jobs-biggest-layoffs-since-2022/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and localization review",
+    "reviewedAt": "2026-10-14",
+    "terminologyChecked": true
+  },
+  "title": "NETFLIX RECORTA 1.000 EMPLEOS EN SU MAYOR OLA DE DESPIDOS DESDE 2022",
+  "seoTitle": "Netflix recorta unos 1.000 empleos: los hechos confirmados",
+  "description": "Netflix reduce su plantilla aproximadamente un 6 %. Departamentos afectados, resultados y estrategia de IA, con los hechos separados de las incógnitas.",
+  "excerpt": "Netflix reduce su plantilla aproximadamente un 6 %. Departamentos afectados, resultados y estrategia de IA, con los hechos separados de las incógnitas.",
+  "headlineHighlights": {
+    "red": "NETFLIX"
+  },
+  "keywords": [
+    "Netflix",
+    "despidos",
+    "streaming",
+    "inteligencia artificial"
+  ],
+  "searchIntent": "Netflix reduce su plantilla aproximadamente un 6 %. Departamentos afectados, resultados y estrategia de IA, con los hechos separados de las incógnitas.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-14",
+  "updatedAt": "2026-10-14",
+  "image": {
+    "src": "/articles/netflix-layoffs-hero.png",
+    "alt": "Ilustración editorial con IA de la entrada de un campus de Netflix de día, no una fotografía documental"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Netflix elimina aproximadamente 1.000 empleos, cerca del 6 % de su plantilla, en su mayor ronda de despidos desde 2022. Reuters informó de la decisión el 14 de octubre de 2026, citando al Wall Street Journal y un mensaje interno dirigido a los trabajadores. [Reuters, vía Boursorama](https://www.boursorama.com/bourse/actualites/netflix-supprime-environ-6-de-ses-effectifs-dans-le-cadre-de-la-plus-importante-vague-de-licenciements-depuis-2022-selon-le-wsj-8cd433f3f3dd1451cdfe2da948726960)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Netflix también confirmó directamente la reducción de plantilla a TechCrunch. [TechCrunch](https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras el porcentaje aparece una contradicción empresarial difícil: una compañía puede ganar miles de millones y decidir que emplea a demasiadas personas en determinadas funciones. La cuestión es qué cree necesitar la dirección para su siguiente etapa y qué perderán los trabajadores durante esa transición."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué equipos están afectados?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Según Reuters, que recoge la información del Journal, los codirectores ejecutivos Greg Peters y Ted Sarandos comunicaron que la mayoría de los recortes afectaría a producto, tecnología, asuntos jurídicos y recursos humanos. Las cifras son aproximadas, no un recuento final y auditado de salidas individuales. [Reuters](https://www.boursorama.com/bourse/actualites/netflix-supprime-environ-6-de-ses-effectifs-dans-le-cadre-de-la-plus-importante-vague-de-licenciements-depuis-2022-selon-le-wsj-8cd433f3f3dd1451cdfe2da948726960)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Importa distinguir los departamentos. No se ha anunciado la cancelación de 1.000 producciones ni se está contando a actores y técnicos que pierden contratos. Producto y tecnología configuran el servicio; jurídico y recursos humanos sostienen la organización. Tampoco puede deducirse qué países, oficinas o equipos soportarán el mayor impacto."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reestructurar una empresa rentable"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mensaje de los dirigentes, recogido por el Journal y resumido por Reuters, sitúa los recortes en una revisión de personas y recursos. Eso explica las prioridades de la dirección, pero no demuestra de forma independiente que cada puesto eliminado fuese innecesario. Enlazamos el reportaje original del Journal; los detalles departamentales se atribuyen a través de Reuters. [The Wall Street Journal](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La carta de Netflix del 16 de julio registró ingresos trimestrales de 12.560 millones de dólares, un 13,4 % más interanual, y un beneficio neto de 3.401 millones. El margen operativo fue del 33,4 %. Son resultados de una empresa rentable y en expansión. [Netflix: carta del segundo trimestre de 2026](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000211/ex991_q226.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Crecer y hacerlo a mayor velocidad no son lo mismo. Las ventas pueden aumentar más despacio mientras los inversores exigen eficiencia. Los despidos pueden reducir costes recurrentes, pero también generar gastos de transición, pérdida de conocimientos y riesgos operativos. El anuncio no resuelve ese balance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Competir por una noche, no solo por una suscripción"
+    },
+    {
+      "type": "paragraph",
+      "text": "El streaming enfrenta servicios y también distintas maneras de ocupar un tiempo libre limitado. Una suscripción puede seguir activa mientras otra aplicación concentra la atención. Ayudar al público a encontrar algo que merezca la pena tiene importancia comercial, además de producir un gran éxito."
+    },
+    {
+      "type": "paragraph",
+      "text": "En julio, Netflix proyectó ingresos anuales de entre 51.000 y 51.400 millones de dólares y un margen operativo del 31,5 %. Eran previsiones, no resultados definitivos. La publicidad figuraba entre sus prioridades, con aproximadamente 3.000 millones de dólares previstos para 2026. [Netflix: perspectivas y publicidad](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000211/ex991_q226.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Captar un hogar de pago no equivale a crear la audiencia que buscan los anunciantes. Añadir formatos y fuentes de ingresos también aumenta la complejidad operativa. Reducir personal mientras se amplía el negocio plantea un desafío de gestión que va más allá de la contabilidad."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La IA forma parte de la estrategia. ¿Explica los recortes?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Netflix describe herramientas de IA para descubrir contenidos, buscar mediante voz y lenguaje natural, gestionar publicidad y apoyar la producción. Su carta afirma que unos 300 títulos habían utilizado IA generativa en 2026, principalmente en posproducción. Son declaraciones empresariales sobre adopción, no mediciones independientes de calidad creativa. [Netflix: estrategia tecnológica](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000211/ex991_q226.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las fuentes revisadas no demuestran que la IA haya causado esta ronda de despidos ni sustituido a 1.000 empleados. La coincidencia de inversión tecnológica y reducción de plantilla no prueba una sustitución directa. Hacen falta datos sobre los puestos eliminados, las tareas trasladadas y la aplicación de los cambios."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué falta por saber para los empleados?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La información examinada no establece un desglose completo por países, una indemnización universal ni un calendario individual de notificaciones. PRESDA no atribuye condiciones no verificadas a los afectados. Las protecciones laborales y los contratos varían según la jurisdicción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para quienes salen, las preguntas inmediatas giran en torno a ingresos, prestaciones, referencias y próximo empleo. Para quienes permanecen, alrededor de responsabilidades, carga de trabajo y confianza. Son las consecuencias humanas de una reestructuración, sin presumir que todos vivirán lo mismo. Un plan de ahorro también debe evaluarse por cómo se ejecuta."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué conviene observar ahora?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo relevante serán las pruebas: gastos de reestructuración publicados, cambios presupuestarios, detalles sobre los puestos afectados y próximos resultados. Ni el número de despidos ni una reacción bursátil aislada demuestran que el servicio vaya a mejorar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Netflix debe adaptar su organización a sus ambiciones sin debilitar las capacidades que las hacen posibles. Para los inversores, es un problema de ejecución. Para los trabajadores, su vida laboral ya está cambiando. Ambas perspectivas pertenecen a la misma historia. Más información en [PRESDA Business](/category/business/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Reuters vía Boursorama",
+      "url": "https://www.boursorama.com/bourse/actualites/netflix-supprime-environ-6-de-ses-effectifs-dans-le-cadre-de-la-plus-importante-vague-de-licenciements-depuis-2022-selon-le-wsj-8cd433f3f3dd1451cdfe2da948726960"
+    },
+    {
+      "label": "TechCrunch: confirmación de Netflix",
+      "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/"
+    },
+    {
+      "label": "Wall Street Journal, citado a través de Reuters",
+      "url": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3"
+    },
+    {
+      "label": "Netflix: resultados del segundo trimestre de 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000211/ex991_q226.htm"
+    }
+  ],
+  "faq": []
+}

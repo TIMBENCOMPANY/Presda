@@ -1,3 +1,4 @@
+import { netflixLayoffsArticle } from "@/data/netflixLayoffsArticle";
 import { giraffeChinaArticle } from "@/data/giraffeChinaArticle";
 import { feminismArticle } from "@/data/feminismArticle";
 import { conspiracyArticle } from "@/data/conspiracyArticle";
@@ -158,6 +159,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  netflixLayoffsArticle,
   giraffeChinaArticle,
   bukangiArticle,
   metaGlassesArticle,

@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "netflix-cuts-1000-jobs-biggest-layoffs-since-2022": { en: { red: "NETFLIX" }, fr: { red: "NETFLIX" }, es: { red: "NETFLIX" }, ar: { red: "نتفليكس" } },
   "first-giraffe-china-1414-bengal-yongle": {
     en: { red: "GIRAFFE", gold: "CHINA" },
     fr: { red: "GIRAFE", gold: "CHINE" },
@@ -111,10 +112,10 @@ export function getPremiumHeroHighlights(slug: string, locale: Locale) {
   return Object.hasOwn(accents, slug) ? accents[slug][locale] : undefined;
 }
 
-export function PremiumHeroHeadline({ title, highlights }: { title: string; highlights: HeadlineHighlights }) {
+export function PremiumHeroHeadline({ title, highlights, whiteSecondary = false }: { title: string; highlights: HeadlineHighlights; whiteSecondary?: boolean }) {
   return <>
     {headlineParts(title, highlights).map((part, index) => (
-      <span key={index} style={{ color: part.tone === "red" ? "#E53935" : part.tone === "gold" ? "#D9AD55" : "#FFFFFF" }}>
+      <span key={index} style={{ color: part.tone === "red" ? "#E53935" : part.tone === "gold" && !whiteSecondary ? "#D9AD55" : "#FFFFFF" }}>
         {part.text}
       </span>
     ))}
