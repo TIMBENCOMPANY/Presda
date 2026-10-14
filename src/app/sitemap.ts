@@ -1,5 +1,6 @@
 import { listingRoutes } from "@/lib/i18n/listing-routes";
 import { articleSitemapImages } from "@/lib/articleImageSeo";
+import { articleEditorialSitemapImages } from "@/lib/articleEditorialImages";
 import type { MetadataRoute } from "next";
 import { publishedTranslations, getLanguageAlternates } from "@/lib/i18n/registry";
 import { isEnglishPage } from "@/lib/i18n/english";
@@ -55,7 +56,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...publishedTranslations.map((record) => ({
       url: `${siteUrl}${record.path}`,
       lastModified: new Date(record.updatedAt),
-      ...(record.kind === "article" && record.image ? { images: articleSitemapImages(record.image.src) } : {}),
+      ...(record.kind === "article" && record.image ? { images: [...articleSitemapImages(record.image.src), ...articleEditorialSitemapImages(record.englishPath.split("/").filter(Boolean).at(-1)!, record.locale)] } : {}),
       alternates: { languages: getLanguageAlternates(record.path) }
     })),
     ...publicRoutes.map((route) => ({
@@ -67,7 +68,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
     ...articles.map((article) => ({
       url: getArticleCanonicalUrl(article.slug),
-      images: articleSitemapImages(article.coverImage),
+      images: [...articleSitemapImages(article.coverImage), ...articleEditorialSitemapImages(article.slug)],
       alternates: { languages: getLanguageAlternates(`/articles/${article.slug}/`) },
       lastModified: new Date(getArticleLastUpdated(article)),
       changeFrequency: "weekly" as const,
