@@ -416,5 +416,23 @@
       "src": "/articles/architecture/responsive/oslo-opera-1600.webp",
       "bytes": 196992
     }
+  ],
+  "/articles/giraffe-china/met-giraffe-two-keepers.webp": [
+    {
+      "width": 400,
+      "src": "/articles/giraffe-china/met-giraffe-two-keepers-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/giraffe-china/met-giraffe-two-keepers-800.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/giraffe-china/met-giraffe-two-keepers-1400.webp"
+    },
+    {
+      "width": 2185,
+      "src": "/articles/giraffe-china/met-giraffe-two-keepers.webp"
+    }
   ]
 }

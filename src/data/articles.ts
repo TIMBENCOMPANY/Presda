@@ -1,3 +1,4 @@
+import { giraffeChinaArticle } from "@/data/giraffeChinaArticle";
 import { feminismArticle } from "@/data/feminismArticle";
 import { conspiracyArticle } from "@/data/conspiracyArticle";
 import { jealousyArticle } from "@/data/jealousyArticle";
@@ -157,6 +158,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  giraffeChinaArticle,
   bukangiArticle,
   metaGlassesArticle,
   paramountWarnerArticle,

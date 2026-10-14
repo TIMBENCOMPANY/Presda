@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "first-giraffe-china-1414-bengal-yongle": {
+    en: { red: "GIRAFFE", gold: "CHINA" },
+    fr: { red: "GIRAFE", gold: "CHINE" },
+    es: { red: "JIRAFA", gold: "CHINA" },
+    ar: { red: "زرافة", gold: "الصين" }
+  },
   "airplanes-wright-brothers-modern-aviation": {
     en: { red: "AIRPLANES", gold: "WRIGHT BROTHERS" },
     fr: { red: "AVIONS", gold: "FRÈRES WRIGHT" },
