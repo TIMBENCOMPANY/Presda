@@ -3,6 +3,12 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "airplanes-wright-brothers-modern-aviation": {
+    en: { red: "AIRPLANES", gold: "WRIGHT BROTHERS" },
+    fr: { red: "AVIONS", gold: "FRÈRES WRIGHT" },
+    ar: { red: "الطائرات", gold: "الأخوين رايت" },
+    es: { red: "AVIONES", gold: "HERMANOS WRIGHT" }
+  },
   "crows-intelligence-tools-memory-science": {
     en: { red: "CROWS", gold: "OUTSMART" },
     fr: { red: "CORBEAUX", gold: "DÉJOUENT" },

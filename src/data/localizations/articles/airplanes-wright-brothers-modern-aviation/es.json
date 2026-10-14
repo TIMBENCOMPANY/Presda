@@ -1,0 +1,362 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/airplanes-wright-brothers-modern-aviation/",
+  "path": "/es/articles/airplanes-wright-brothers-modern-aviation/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex es aviation terminology and source-parity review",
+    "reviewedAt": "2026-10-14",
+    "terminologyChecked": true
+  },
+  "title": "AVIONES: DE LOS HERMANOS WRIGHT A LA AVIACIÓN MODERNA",
+  "seoTitle": "Aviones: de los hermanos Wright a la aviación moderna",
+  "description": "Del Flyer a los reactores actuales: historia de la aviación, aerodinámica, motores, Boeing y Airbus, seguridad y retos ambientales del vuelo.",
+  "excerpt": "Doce segundos sobre la arena cambiaron lo que parecía posible. Convertir aquel instante en transporte cotidiano exigió un siglo de ingeniería, cooperación y lecciones difíciles.",
+  "headlineHighlights": {
+    "red": "AVIONES",
+    "gold": "HERMANOS WRIGHT"
+  },
+  "keywords": [
+    "historia de la aviación",
+    "hermanos Wright",
+    "aerodinámica",
+    "motores a reacción",
+    "Boeing y Airbus",
+    "futuro del vuelo"
+  ],
+  "searchIntent": "Del Flyer a los reactores actuales: historia de la aviación, aerodinámica, motores, Boeing y Airbus, seguridad y retos ambientales del vuelo.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-14",
+  "updatedAt": "2026-10-14",
+  "image": {
+    "src": "/articles/wright-brothers-aviation-reconstruction.png",
+    "alt": "Reconstrucción artística generada por IA de los hermanos Wright junto a un biplano antiguo, no una fotografía de archivo ni una recreación técnica exacta"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Durante doce segundos, el futuro permaneció sobre la arena. El 17 de diciembre de 1903, Orville Wright recorrió unos 36,6 metros en un avión propulsado por motor en Kill Devil Hills, cerca de Kitty Hawk, Carolina del Norte. La distancia era modesta; la combinación, revolucionaria: piloto, motor, sustentación y control efectivo. Un avión es una máquina voladora propulsada, más pesada que el aire, cuyas alas generan sustentación aerodinámica. Separarla del suelo solo resolvía parte del problema. Lograr que obedeciera fue el avance decisivo. [Fuente institucional](https://science.nasa.gov/photojournal/the-wright-brothers/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El pasajero actual conoce otro ritual: luces de pista, el sonido creciente de los motores y una cabina que se inclina hacia las nubes. Detrás del ascenso familiar hay laboratorios de materiales, pronósticos meteorológicos, registros de mantenimiento, programas informáticos y acuerdos internacionales. La aviación no se volvió cotidiana porque volar se hiciera sencillo. Miles de tareas difíciles se hicieron repetibles. Su historia conecta el taller artesanal con un sistema tecnológico mundial, con logros extraordinarios y consecuencias que los ingenieros no pueden resolver solos."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Antes del motor, el problema del control"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wilbur y Orville Wright heredaron preguntas, no un cielo vacío. George Cayley contribuyó a distinguir superficies sustentadoras, propulsión y control. Otto Lilienthal probó planeadores y produjo observaciones aerodinámicas que estudiaron investigadores posteriores. Los globos ya habían transportado personas, pero la flotabilidad no planteaba el mismo desafío que el vuelo sostenido de un avión. El logro de los Wright pertenece a esa tradición experimental, sin perder su significado preciso: vuelo controlado, sostenido y propulsado con una persona a bordo de una máquina más pesada que el aire. [Fuente institucional](https://airandspace.si.edu/explore/stories/flight-airplane)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los hermanos abordaron el vuelo como un problema de ingeniería interconectado. Probaron planeadores, cuestionaron los datos aerodinámicos disponibles y utilizaron un túnel de viento. La torsión de las alas permitía controlar el alabeo; una superficie de mando controlaba el cabeceo y un timón móvil, la guiñada. Sus hélices eran dispositivos aerodinámicos, no simples hélices navales en miniatura. El avión funcional surgió de experimentos que conectaban unas dificultades con otras. Ese método importa más que la leyenda reconfortante de una inspiración repentina que conquistó el aire. [Fuente institucional](https://airandspace.si.edu/explore/stories/researching-wright-way)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Flyer de 1903 todavía no era un negocio de transporte aéreo. La estructura abierta, las alas recubiertas de tela y el piloto expuesto correspondían a una máquina experimental. Nuevos trabajos produjeron un avión más práctico en 1905. Conviene distinguir la primera demostración exitosa de un sistema de transporte fiable: son hitos diferentes. La ilustración de este reportaje es una reconstrucción artística, no una fotografía que documente a los hermanos, su ropa o la construcción exacta del Flyer original. [Fuente institucional](https://airandspace.si.edu/collection-objects/wright-1903-flyer/nasm_A19610048000)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cómo puede volar algo tan pesado?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuatro fuerzas ofrecen un punto de partida útil: el peso actúa hacia abajo, la sustentación perpendicularmente al flujo, el empuje impulsa el aparato y la resistencia se opone a su movimiento por el aire. En vuelo recto, nivelado y sin aceleración, las fuerzas se equilibran. Durante el despegue, la aceleración, el ascenso y los virajes cambian esas relaciones. Un motor no sostiene normalmente un avión comercial dirigiendo el escape hacia el suelo. Proporciona empuje mientras las alas interactúan con el aire para generar sustentación. [Fuente institucional](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/four-forces-on-an-airplane/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un ala crea una distribución de presiones sobre su superficie y desvía el flujo circundante. Las diferencias de presión y el cambio descendente de la cantidad de movimiento del aire son descripciones compatibles del mismo proceso. Es falsa la idea de que las partículas que pasan por encima y por debajo deban reunirse simultáneamente. La NASA rechaza expresamente esa explicación del tiempo de tránsito igual. Importan la forma, la velocidad, la densidad del aire y el ángulo de ataque entre la referencia del ala y el flujo que llega. [Fuente institucional](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/what-is-lift/) · [Fuente institucional](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/wrong1.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo práctico no consiste simplemente en producir más sustentación. Los diseñadores deben conciliar resistencia, peso, estabilidad y capacidad de control. Un ala eficaz a una velocidad puede funcionar peor a otra. Los flaps modifican sus características para el vuelo lento durante despegue y aterrizaje. La pérdida aerodinámica implica alteración del flujo y reducción de sustentación por un ángulo de ataque excesivo, no necesariamente un motor detenido. El vocabulario importa: una explicación incorrecta puede convertir un fenómeno conocido en una avería aparentemente misteriosa. [Fuente institucional](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/learn-about-aerodynamics/)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La guerra acelera la máquina"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Primera Guerra Mundial transformó la escala y el propósito de la aviación. Los aviones de reconocimiento observaban posiciones enemigas; después surgía la necesidad de impedirlo. Cazas, fotografía aérea y bombardeo evolucionaron dentro de esa escalada. Los gobiernos financiaban motores, producción y formación a un ritmo difícil de alcanzar mediante experimentación civil. El progreso técnico tuvo consecuencias mortales. Reconocer la aceleración de la ingeniería no exige presentar la guerra como una inventora benévola ni olvidar a las personas que estaban bajo los aviones. [Fuente institucional](https://airandspace.si.edu/explore/stories/world-war-i-laboratory-air)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Segunda Guerra Mundial intensificó las exigencias de velocidad, alcance y producción. El Messerschmitt Me 262 alemán demostró el rendimiento operativo del caza a reacción, mientras los trabajos británicos se apoyaban en el desarrollo de motores de Frank Whittle. Hans von Ohain representa otra vertiente fundamental en Alemania. Los reactores no aparecieron plenamente maduros: motores, materiales y fiabilidad debían avanzar. Aquellos logros influirían en la posguerra, pero adaptarlos a pasajeros de pago requería otras prioridades, otra economía y una disciplina operativa distinta. [Fuente institucional](https://airandspace.si.edu/collection-objects/messerschmitt-me-262-a-1a-schwalbe-swallow/nasm_A19600328000) · [Fuente institucional](https://www.rafmuseum.org.uk/documents/research/RAF-Historical-Society-Journals/Journal-39.pdf)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "De la tela a la estructura moderna"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre las guerras, el avión de pasajeros se convirtió en un producto más coherente. El Boeing 247 de 1933 ayudó a definir el avión comercial moderno mediante un diseño integrado; el Douglas DC-3 fue decisivo para la economía práctica de las aerolíneas. Cabinas cerradas, mejores prestaciones y servicio fiable importaban tanto como las demostraciones espectaculares. La pregunta comercial cambiaba: ¿podía transportar personas regularmente a un coste sostenible para el operador? Una aerolínea necesitaba cumplir horarios, no limitarse a realizar un vuelo de récord. [Fuente institucional](https://airandspace.si.edu/stories/editorial/making-modern-airliner)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La construcción metálica abrió posibilidades, pero ningún material eliminó los compromisos de ingeniería. Los compuestos modernos combinan fibras resistentes con una matriz que permite adaptar propiedades estructurales. Conviven con aluminio, titanio y acero porque cada pieza enfrenta cargas, temperaturas y necesidades de reparación diferentes. Una estructura más ligera puede reducir el combustible necesario para transportarla; la calidad de fabricación y las inspecciones siguen siendo esenciales. Progresar no significa sustituir un material primitivo por otro perfecto, sino elegir mejor para cada función. [Fuente institucional](https://www.airbus.com/en/newsroom/stories/2018-04-metals-and-composites-finding-the-right-material-for-each-application)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dentro del motor a reacción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una turbina de gas aspira aire, lo comprime, añade combustible y quema la mezcla. Los gases calientes en expansión accionan turbinas que mueven el compresor y, en un turbofán, el ventilador. El flujo restante sale por el escape. En un turbofán de alta relación de derivación, gran parte del aire movido por el ventilador delantero rodea el núcleo. Acelerar una gran masa de aire de forma relativamente moderada ayuda a que esta configuración resulte eficiente para el transporte subsónico. [Fuente institucional](https://www.grc.nasa.gov/www/k-12/airplane/Animation/turbtyp/etfm.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La elegante secuencia esconde exigencias extremas. Las piezas giratorias soportan esfuerzos enormes; las zonas calientes necesitan materiales y refrigeración adecuados. El motor debe rendir en condiciones variables. Más grande no siempre significa mejor: diámetro del ventilador, peso, distancia al suelo, ruido y resistencia deben conciliarse. El trabajo de la NASA ilustra cómo se acumulan mejoras mediante componentes y pruebas. La máquina bajo el ala es un sistema de compromisos perfeccionado hasta resultar suficientemente fiable como para parecer ordinario. [Fuente institucional](https://spinoff.nasa.gov/node/9964)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuando el mundo adquirió un horario"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOAC inició servicios de pasajeros exclusivamente a reacción con el de Havilland Comet en 1952. La era del reactor se amplió después con modelos como el Boeing 707, mientras el 747 entró en servicio comercial en 1970. Cabinas mayores y productividad transformaron los viajes largos. Las fechas no son intercambiables: primer vuelo de un prototipo, primera entrega y primer servicio comercial son acontecimientos distintos. Confundirlos genera historias aparentemente ordenadas, pero engañosas. [Fuente institucional](https://www.britishairways.com/en-es/information/about-ba/history-and-heritage/explore-our-past) · [Fuente institucional](https://airandspace.si.edu/jet-age)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los viajes aéreos crecieron mediante redes, además de aviones: aeropuertos, reservas, servicios de tránsito aéreo y conexiones transformaron trayectos individuales en un sistema global. El informe de seguridad 2025 de la OACI describe unos 4.528 millones de pasajeros transportados en 2024 según su serie de datos. Es una medida de tráfico fechada, no un recuento de personas únicas ni una previsión para 2026. La magnitud explica su importancia económica, pero oculta desigualdades: una red concurrida no significa que cualquiera pueda pagar el acceso. [Fuente institucional](https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Boeing y Airbus: competencia y restricciones compartidas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Boeing y Airbus compiten en mucho más que los aviones reconocibles desde la terminal. Las compañías evalúan costes operativos, alcance, capacidad, formación, mantenimiento y certeza de entrega. Un diseño puede ser técnicamente impresionante y no adaptarse a una red concreta. Comparar fabricantes exige misiones equivalentes y supuestos claros. Un porcentaje promocional de ahorro de combustible no se aplica universalmente a todas las rutas, configuraciones de cabina y generaciones rivales. La competencia resulta instructiva cuando sus afirmaciones de ingeniería son específicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Airbus introdujo los controles de vuelo digitales fly-by-wire en servicio comercial con el A320 en 1988. Las acciones del piloto se convierten en órdenes electrónicas interpretadas por ordenadores, en lugar de transmitirse simplemente mediante cables mecánicos. La similitud de cabinas entre familias puede facilitar las transiciones, cumpliendo la formación correspondiente. La automatización transforma la relación entre piloto y máquina; no elimina la necesidad de comprender los modos y las limitaciones del sistema. [Fuente institucional](https://www.airbus.com/en/newsroom/stories/2018-06-airbus-jetliners-a-standard-setting-history)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Boeing 787 y el Airbus A350 muestran otra dirección: un uso extensivo de materiales compuestos. Boeing documenta aproximadamente un 50 % de compuestos por peso estructural en el 787; Airbus identifica un 53 % en la estructura del A350. Son porcentajes de materiales, no de ahorro de combustible. Su importancia pertenece a una estrategia que reúne alas, motores, aerodinámica y fabricación. Ni una estadística material ni una marca establecen por sí solas la eficiencia o seguridad total de un avión. [Fuente institucional](https://www.boeing.com/content/dam/boeing/boeingdotcom/commercial/airports/faqs/787_composite_arff_data.pdf) · [Fuente institucional](https://www.aircraft.airbus.com/en/newsroom/case-study/2022-01-a350-less-weight-less-fuel-more-sustainable)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Iconos y récords: importa la categoría"
+    },
+    {
+      "type": "paragraph",
+      "text": "Concorde transportaba pasajeros aproximadamente a Mach 2, el doble de la velocidad local del sonido. Sus servicios regulares comenzaron en 1976 y terminaron en 2003. Su logro no fue únicamente correr, sino mantener operaciones supersónicas de pasajeros con exigencias aerodinámicas, térmicas y comerciales. También muestra por qué la aviación no avanza en línea recta hacia billetes cada vez más rápidos: una capacidad extraordinaria no produce automáticamente un modelo empresarial duradero. [Fuente institucional](https://hotline.britishairways.com/content/en/at/information/about-ba/history-and-heritage/celebrating-concorde)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El X-15 de la NASA alcanzó Mach 6,7 en 1967, una categoría muy distinta. Era un avión de investigación propulsado por cohete y lanzado desde un B-52, no un reactor comercial que despegaba con turistas. El Airbus A380, incorporado al servicio comercial en 2007, priorizaba capacidad: dos cubiertas de pasajeros de longitud completa y 79,8 metros de envergadura. Velocidad, capacidad y envergadura miden cosas diferentes. Integrarlas en una única clasificación del mayor o mejor borra la misión que hace interesante cada máquina. [Fuente institucional](https://www.nasa.gov/aeronautics/x-15/) · [Fuente institucional](https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a380)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La seguridad es un sistema, no una promesa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un avión comercial depende de capas de protección: evaluación del diseño, pruebas, supervisión de producción, mantenimiento, tripulaciones formadas y procedimientos. La certificación de la FAA aborda el cumplimiento de requisitos de aeronavegabilidad; no declara imposible un fallo. Una máquina sofisticada puede verse comprometida por información deficiente, trabajos defectuosos o decisiones organizativas. Aprender de incidentes y accidentes es esencial porque el sistema debe enfrentarse a lo que sucede realmente, no solo a lo previsto por sus diseñadores. [Fuente institucional](https://www.faa.gov/aircraft/air_cert/airworthiness_certification)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La navegación y la vigilancia también evolucionaron. La navegación por satélite ayuda a determinar la posición; ADS-B transmite información de la aeronave para vigilancia. Son funciones relacionadas, no sinónimos de piloto automático. La FAA advierte que las señales satelitales pueden sufrir interferencias o resultar engañosas, y destaca la comprobación cruzada y la notificación de anomalías. La precisión actual depende de procedimientos resistentes e información alternativa, no de una confianza ciega en un símbolo móvil en pantalla. [Fuente institucional](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html) · [Fuente institucional](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/chap1_section_2.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sistemas automáticos pueden reducir la carga de trabajo y ejecutar trayectorias precisas, pero gestionarlos requiere habilidad. Las orientaciones de la FAA reúnen vuelo manual, gestión de automatismos, vigilancia de los pilotos y gestión de energía. Esa imagen es más realista que el ordenador infalible o el piloto obsoleto. La mejor cabina funciona como un sistema coordinado entre humanos y máquinas: reconoce incertidumbre, entiende cambios de modo y responde cuando las circunstancias se apartan de lo planificado. [Fuente institucional](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1041433)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La siguiente frontera no será solo la velocidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "El desafío ambiental supera el dióxido de carbono. Las estelas persistentes pueden influir en el clima, y su formación depende de condiciones atmosféricas y emisiones. Una investigación de NASA y DLR encontró que determinadas mezclas de combustible sostenible podían reducir la formación de hollín y cristales de hielo bajo las condiciones estudiadas. Eso no significa que toda mezcla elimine estelas ni que cada trazo visible tenga el mismo efecto de calentamiento. El rendimiento climático exige examinar el sistema completo, incluidas las condiciones de vuelo. [Fuente institucional](https://www.nasa.gov/news-release/nasa-dlr-study-finds-sustainable-aviation-fuel-can-reduce-contrails/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El combustible sostenible de aviación es asimismo una propuesta de ciclo de vida, no un combustible sin escape. La contabilidad de la OACI comprende materias primas, producción, transporte y combustión, junto con otros criterios de sostenibilidad. Los beneficios dependen de cómo se produce y qué sustituye. En 2022, la OACI adoptó una meta colectiva aspiracional de emisiones netas de carbono cero para la aviación internacional en 2050. Es un objetivo político, no una prueba de que los desafíos técnicos, financieros y de suministro ya estén resueltos. [Fuente institucional](https://www.icao.int/CORSIA/fuels-lifecycle) · [Fuente institucional](https://www.icao.int/environmental-protection/climate-change)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La propulsión eléctrica, mejores estructuras y motores más eficientes ofrecen caminos diferentes. La NASA estudia motores eléctricos, sistemas de potencia y materiales. Electrificar no equivale a instalar una batería en el avión de largo recorrido actual: almacenamiento de energía, potencia, peso y calor deben funcionar conjuntamente. Los demostradores responden preguntas importantes sin garantizar un producto listo para una aerolínea o una fecha comercial. El futuro se juzgará probablemente por prestaciones útiles en misiones reales, más que por el atractivo de una imagen conceptual. [Fuente institucional](https://www.nasa.gov/mission/eap/)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La invención inconclusa"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cronología va del vuelo propulsado controlado de 1903 al Boeing 247 de 1933, los servicios a reacción de 1952, el estreno comercial del 747 en 1970, Concorde en 1976 y el A380 en 2007. La continuidad profunda es un método: probar, medir, revisar y explicar el fracaso. Nuestra investigación sobre el Triángulo de las Bermudas también analiza las pruebas detrás de historias de aviación. Puede encontrar otros reportajes en PRESDA IA Y TECNOLOGÍA. [Nuestra investigación sobre el Triángulo de las Bermudas](/articles/bermuda-triangle-ships-planes-mystery-reality/) · [PRESDA IA Y TECNOLOGÍA](/category/ai/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los hermanos Wright no inventaron la terminal abarrotada, la visita familiar transcontinental ni el debate sobre el futuro de la atmósfera. Contribuyeron a hacerlos posibles. Su máquina preguntaba si podíamos controlar el vuelo propulsado. Las nuestras plantean una cuestión mayor: ¿cómo puede un mundo organizado alrededor del avión hacer esa libertad más segura, accesible y menos dañina? El siguiente gran logro quizá no sea el aparato más veloz, sino el sistema que merezca la confianza de quienes transporta."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Cuándo volaron por primera vez los hermanos Wright?",
+      "answer": "El 17 de diciembre de 1903, en Kill Devil Hills, cerca de Kitty Hawk. Orville recorrió unos 36,6 metros en doce segundos, demostrando vuelo controlado, sostenido y propulsado."
+    },
+    {
+      "question": "¿Cómo generan sustentación las alas?",
+      "answer": "Crean una distribución de presiones y modifican la cantidad de movimiento del aire. Importan forma, velocidad, densidad y ángulo de ataque. El aire superior e inferior no debe reunirse simultáneamente."
+    },
+    {
+      "question": "¿Los aviones comerciales actuales superan a Concorde?",
+      "answer": "Concorde volaba aproximadamente a Mach 2. Los reactores comerciales habituales operan por debajo del sonido; aumentar eficiencia y capacidad no exige superar esa velocidad."
+    },
+    {
+      "question": "¿La automatización hace innecesarios a los pilotos?",
+      "answer": "No. Gestionar sistemas automáticos, vigilar sus modos y mantener habilidades manuales son aspectos centrales de las orientaciones de la FAA. Cambian las funciones, no desaparece la responsabilidad."
+    },
+    {
+      "question": "¿El combustible sostenible tiene cero emisiones?",
+      "answer": "No. La OACI evalúa emisiones durante producción, transporte y combustión, entre otras etapas. No significa volar sin escape; los beneficios dependen del proceso de producción."
+    }
+  ],
+  "sources": [
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://science.nasa.gov/photojournal/the-wright-brothers/"
+    },
+    {
+      "label": "Smithsonian: Fuente institucional",
+      "url": "https://airandspace.si.edu/explore/stories/flight-airplane"
+    },
+    {
+      "label": "Smithsonian: Fuente institucional",
+      "url": "https://airandspace.si.edu/explore/stories/researching-wright-way"
+    },
+    {
+      "label": "Smithsonian: Fuente institucional",
+      "url": "https://airandspace.si.edu/collection-objects/wright-1903-flyer/nasm_A19610048000"
+    },
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/four-forces-on-an-airplane/"
+    },
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/what-is-lift/"
+    },
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/wrong1.html"
+    },
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/learn-about-aerodynamics/"
+    },
+    {
+      "label": "Smithsonian: Fuente institucional",
+      "url": "https://airandspace.si.edu/explore/stories/world-war-i-laboratory-air"
+    },
+    {
+      "label": "Smithsonian: Fuente institucional",
+      "url": "https://airandspace.si.edu/collection-objects/messerschmitt-me-262-a-1a-schwalbe-swallow/nasm_A19600328000"
+    },
+    {
+      "label": "RAF historical scholarship: Fuente institucional",
+      "url": "https://www.rafmuseum.org.uk/documents/research/RAF-Historical-Society-Journals/Journal-39.pdf"
+    },
+    {
+      "label": "Smithsonian: Fuente institucional",
+      "url": "https://airandspace.si.edu/stories/editorial/making-modern-airliner"
+    },
+    {
+      "label": "Airbus: Fuente institucional",
+      "url": "https://www.airbus.com/en/newsroom/stories/2018-04-metals-and-composites-finding-the-right-material-for-each-application"
+    },
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://www.grc.nasa.gov/www/k-12/airplane/Animation/turbtyp/etfm.html"
+    },
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://spinoff.nasa.gov/node/9964"
+    },
+    {
+      "label": "British Airways: Fuente institucional",
+      "url": "https://www.britishairways.com/en-es/information/about-ba/history-and-heritage/explore-our-past"
+    },
+    {
+      "label": "Smithsonian: Fuente institucional",
+      "url": "https://airandspace.si.edu/jet-age"
+    },
+    {
+      "label": "ICAO: Fuente institucional",
+      "url": "https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2025.pdf"
+    },
+    {
+      "label": "Airbus: Fuente institucional",
+      "url": "https://www.airbus.com/en/newsroom/stories/2018-06-airbus-jetliners-a-standard-setting-history"
+    },
+    {
+      "label": "Boeing: Fuente institucional",
+      "url": "https://www.boeing.com/content/dam/boeing/boeingdotcom/commercial/airports/faqs/787_composite_arff_data.pdf"
+    },
+    {
+      "label": "Airbus: Fuente institucional",
+      "url": "https://www.aircraft.airbus.com/en/newsroom/case-study/2022-01-a350-less-weight-less-fuel-more-sustainable"
+    },
+    {
+      "label": "British Airways: Fuente institucional",
+      "url": "https://hotline.britishairways.com/content/en/at/information/about-ba/history-and-heritage/celebrating-concorde"
+    },
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://www.nasa.gov/aeronautics/x-15/"
+    },
+    {
+      "label": "Airbus: Fuente institucional",
+      "url": "https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a380"
+    },
+    {
+      "label": "FAA: Fuente institucional",
+      "url": "https://www.faa.gov/aircraft/air_cert/airworthiness_certification"
+    },
+    {
+      "label": "FAA: Fuente institucional",
+      "url": "https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html"
+    },
+    {
+      "label": "FAA: Fuente institucional",
+      "url": "https://www.faa.gov/air_traffic/publications/atpubs/aip_html/chap1_section_2.html"
+    },
+    {
+      "label": "FAA: Fuente institucional",
+      "url": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1041433"
+    },
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://www.nasa.gov/news-release/nasa-dlr-study-finds-sustainable-aviation-fuel-can-reduce-contrails/"
+    },
+    {
+      "label": "ICAO: Fuente institucional",
+      "url": "https://www.icao.int/CORSIA/fuels-lifecycle"
+    },
+    {
+      "label": "ICAO: Fuente institucional",
+      "url": "https://www.icao.int/environmental-protection/climate-change"
+    },
+    {
+      "label": "NASA: Fuente institucional",
+      "url": "https://www.nasa.gov/mission/eap/"
+    }
+  ]
+}

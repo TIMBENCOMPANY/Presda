@@ -136,6 +136,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/airplanes-wright-brothers-modern-aviation/",
+    "path": "/ar/articles/airplanes-wright-brothers-modern-aviation/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/airplanes-wright-brothers-modern-aviation/",
+    "path": "/es/articles/airplanes-wright-brothers-modern-aviation/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/airplanes-wright-brothers-modern-aviation/",
+    "path": "/fr/articles/airplanes-wright-brothers-modern-aviation/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/alzheimers-disease-brain-memory-loss/",
     "path": "/ar/articles/alzheimers-disease-brain-memory-loss/"
   },
