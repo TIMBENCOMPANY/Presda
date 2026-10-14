@@ -7,7 +7,7 @@ export const aviationArticle: Article = {
   seoTitle: "Airplanes: From the Wright Brothers to Modern Aviation",
   metaDescription: "From the Wright Flyer to modern jetliners: explore aviation history, the science of flight, Boeing and Airbus, safety and the environmental challenge.",
   excerpt: "Twelve seconds above the sand changed what humans thought possible. Turning that moment into everyday flight required a century of engineering, cooperation and hard lessons.",
-  category: "AI", schemaType: "Article", date: "2026-10-14", lastUpdated: "2026-10-14",
+  category: "Business", schemaType: "Article", date: "2026-10-14", lastUpdated: "2026-10-14",
   author: "PRESDA Editorial", status: "published", readingTime: "11 min read",
   coverImage: "/articles/wright-brothers-aviation-reconstruction.png",
   coverAlt: "AI-generated artistic reconstruction of the Wright brothers beside an early biplane, not an archival photograph or an exact technical reconstruction",

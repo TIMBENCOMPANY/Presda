@@ -7,7 +7,7 @@ const { validateArticleParity } = require("./translation-parity.cjs");
 
 const locales = ["fr", "es", "ar"];
 assert.equal(article.status, "published");
-assert.equal(article.category, "AI");
+assert.equal(article.category, "Business");
 assert.equal(article.schemaType, "Article");
 assert.ok(article.content.join(" ").split(" ").length >= 2000 && article.content.join(" ").split(" ").length <= 2400, "English article length");
 assert.ok(article.references.some(item => item.name.includes("NASA")), "official aerospace source");
@@ -47,10 +47,10 @@ const read = async route => {
     assert.ok(html.includes(`href="${prefix}/category/ai/"`), `${route} localized AI & Tech link`);
     assert.ok(html.includes('https://science.nasa.gov/photojournal/the-wright-brothers/'), `${route} primary research citation`);
   }
-  const [sitemap, home, category] = await Promise.all([read("/sitemap.xml"), read("/"), read("/category/ai/")]);
+  const [sitemap, home, category] = await Promise.all([read("/sitemap.xml"), read("/"), read("/category/business/")]);
   assert.ok(sitemap.includes(`https://presda.com/articles/${article.slug}/`), "English sitemap URL");
   for (const locale of locales) assert.ok(sitemap.includes(`https://presda.com/${locale}/articles/${article.slug}/`), `${locale} sitemap URL`);
   assert.ok(home.includes(`/articles/${article.slug}/`), "Latest Articles homepage listing");
-  assert.ok(category.includes(`/articles/${article.slug}/`), "AI & Tech category listing");
+  assert.ok(category.includes(`/articles/${article.slug}/`), "Business category listing");
   console.log("PASS: aviation feature, 3 localized editions, image optimization, hreflang, canonicals, schema, sitemap and listings.");
 })().catch(error => { console.error(error); process.exit(1); });
