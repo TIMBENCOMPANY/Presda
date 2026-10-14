@@ -5,7 +5,9 @@ import type { Locale } from "@/lib/i18n/routing";
 
 /** Only images embedded in the article body, never related-story thumbnails. */
 export function articleEditorialSitemapImages(slug: string, locale: Locale = "en") {
-  const sources = slug === "modern-architecture-world-most-breathtaking-buildings"
+  const sources = slug === "first-giraffe-china-1414-bengal-yongle"
+    ? ["/articles/giraffe-china/met-giraffe-two-keepers.webp"]
+    : slug === "modern-architecture-world-most-breathtaking-buildings"
     ? architectureMedia[locale].photographs.map(photo => photo.src)
     : slug === "world-most-expensive-paintings-ever-sold"
       ? paintingSales.flatMap(sale => sale.image ? [sale.image.src] : [])
