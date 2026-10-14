@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "nolan-the-odyssey-universal-box-office-record": {"en":{"red":"THE ODYSSEY","gold":"RECORD"},"fr":{"red":"L’ODYSSÉE","gold":"RECORD"},"es":{"red":"LA ODISEA","gold":"RÉCORD"},"ar":{"red":"الأوديسة","gold":"القياسي"}},
   "netflix-cuts-1000-jobs-biggest-layoffs-since-2022": { en: { red: "NETFLIX" }, fr: { red: "NETFLIX" }, es: { red: "NETFLIX" }, ar: { red: "نتفليكس" } },
   "first-giraffe-china-1414-bengal-yongle": {
     en: { red: "GIRAFFE", gold: "CHINA" },

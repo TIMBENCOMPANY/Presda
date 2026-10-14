@@ -2566,6 +2566,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/nolan-the-odyssey-universal-box-office-record/",
+    "path": "/ar/articles/nolan-the-odyssey-universal-box-office-record/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/nolan-the-odyssey-universal-box-office-record/",
+    "path": "/es/articles/nolan-the-odyssey-universal-box-office-record/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/nolan-the-odyssey-universal-box-office-record/",
+    "path": "/fr/articles/nolan-the-odyssey-universal-box-office-record/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/numidia-berber-kingdom-challenged-rome/",
     "path": "/ar/articles/numidia-berber-kingdom-challenged-rome/"
   },
