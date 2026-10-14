@@ -3226,6 +3226,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/sex-education-beyond-the-taboo/",
+    "path": "/ar/articles/sex-education-beyond-the-taboo/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/sex-education-beyond-the-taboo/",
+    "path": "/es/articles/sex-education-beyond-the-taboo/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/sex-education-beyond-the-taboo/",
+    "path": "/fr/articles/sex-education-beyond-the-taboo/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/shopping-psychology-what-drives-women-to-buy/",
     "path": "/ar/articles/shopping-psychology-what-drives-women-to-buy/"
   },

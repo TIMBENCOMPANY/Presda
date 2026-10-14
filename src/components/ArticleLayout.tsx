@@ -1,3 +1,4 @@
+import sexEducationHeroCaptions from "@/data/sexEducationHeroCaptions.json";
 import odysseyHeroCaptions from "@/data/odysseyHeroCaptions.json";
 import netflixHeroCaptions from "@/data/netflixHeroCaptions.json";
 import { GiraffeMuseumImage, GiraffeHeroCaption } from "@/components/GiraffeMuseumImage";
@@ -288,7 +289,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
 
             <div className="article-hero-heading min-w-0 max-w-[800px]">
               <h1 className={`article-hero-title text-white${article.slug === "meta-ray-ban-privacy-europe" ? " article-hero-title-meta-privacy" : ""}${locale === "en" && article.slug === "iran-hormuz-closed-conditions-energy-shipping" ? " article-hero-title-hormuz" : ""}`}>
-                {premiumHeroHighlights ? <PremiumHeroHeadline title={article.title} highlights={premiumHeroHighlights} whiteSecondary={article.slug === "netflix-cuts-1000-jobs-biggest-layoffs-since-2022"} /> : <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} whiteText={locale === "en" && article.slug === "casablanca-madrid-2030-world-cup-final" ? "vs" : undefined} />}
+                {premiumHeroHighlights ? <PremiumHeroHeadline title={article.title} highlights={premiumHeroHighlights} yellowSecondary={["sex-education-beyond-the-taboo", "netflix-cuts-1000-jobs-biggest-layoffs-since-2022"].includes(article.slug)} /> : <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} whiteText={locale === "en" && article.slug === "casablanca-madrid-2030-world-cup-final" ? "vs" : undefined} />}
               </h1>
               <div className="mt-5 max-w-[29rem] border-s-[5px] border-[#FF1A1A] ps-4 sm:mt-6 sm:ps-5">
                 <p className="editorial-deck article-hero-deck">
@@ -324,6 +325,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "black-death-pandemic-transform-europe" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{blackDeathHeroCaptions[locale]}</p>}
         {article.slug === "culture-of-tattoos-ancient-rituals-modern-art" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{tattooHeroCaptions[locale]}</p>}
         {article.slug === "first-giraffe-china-1414-bengal-yongle" && <GiraffeHeroCaption locale={locale} />}
+        {article.slug === "sex-education-beyond-the-taboo" && <p data-sex-education-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{sexEducationHeroCaptions[locale]}</p>}
         {article.slug === "nolan-the-odyssey-universal-box-office-record" && <p data-odyssey-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{odysseyHeroCaptions[locale]}</p>}
         {article.slug === "netflix-cuts-1000-jobs-biggest-layoffs-since-2022" && <p data-netflix-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{netflixHeroCaptions[locale]}</p>}
         {article.slug === "airplanes-wright-brothers-modern-aviation" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "Reconstitution artistique générée par IA des frères Wright et d’un ancien biplan. Ce n’est ni une photographie historique ni une restitution technique exacte du Flyer de 1903." : locale === "es" ? "Reconstrucción artística generada por IA de los hermanos Wright y un biplano antiguo. No es una fotografía histórica ni una recreación técnica exacta del Flyer de 1903." : locale === "ar" ? "إعادة تصور فنية مولدة بالذكاء الاصطناعي للأخوين رايت وطائرة مبكرة ذات جناحين. ليست صورة تاريخية أو إعادة بناء تقنية دقيقة لطائرة فلاير عام 1903." : "AI-generated artistic reconstruction of the Wright brothers and an early biplane. Not a historical photograph or an exact technical reconstruction of the 1903 Flyer."}</p>}
