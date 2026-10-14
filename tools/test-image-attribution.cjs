@@ -40,6 +40,7 @@ async function main() {
     verify(articleJsonLd(article), metadata, article.coverImage, article.coverAlt, `https://presda.com/articles/${article.slug}/`, entries);
     const {props} = getImgProps({src:article.coverImage,alt:article.coverAlt,fill:true,sizes:'(max-width: 1500px) 100vw, 1500px',unoptimized:article.slug==='phoenicians-history-sailors-alphabet-tyrian-purple',loader}, {defaultLoader:loader,imgConf:{...imageConfigDefault,...config.images}});
     assert.equal(articleImageUrl(article.coverImage), 'https://presda.com'+props.src, 'Metadata must match rendered hero fallback');
+    for (const candidate of props.srcSet?.split(',') ?? []) assert.ok(articleSitemapImages(article.coverImage).includes('https://presda.com'+candidate.trim().split(' ')[0]), 'Every rendered hero variant is associated with its article');
   }
   for (const record of publishedTranslations.filter(r=>r.kind==='article')) verify(translationJsonLd(record),translationMetadata(record),record.image.src,record.image.alt,'https://presda.com'+record.path,entries);
   for (const entry of entries.filter(e=>!e.url.includes('/articles/') || /\/articles\/$/.test(e.url))) assert.equal(entry.images,undefined,'No article-image sitemap attribution to listings');

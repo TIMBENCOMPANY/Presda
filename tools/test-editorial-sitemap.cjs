@@ -5,7 +5,7 @@ const { articleEditorialSitemapImages } = require('../src/lib/articleEditorialIm
 const sitemap = require('../src/app/sitemap.ts').default;
 const entries = sitemap();
 for (const locale of ['en','fr','ar','es']) {
-  for (const [slug,count] of [['modern-architecture-world-most-breathtaking-buildings',24],['world-most-expensive-paintings-ever-sold',14],['panama-earthquake-7-7-october-9-2026',1]]) {
+  for (const [slug,count] of [['modern-architecture-world-most-breathtaking-buildings',60],['world-most-expensive-paintings-ever-sold',35],['panama-earthquake-7-7-october-9-2026',1]]) {
     const images = articleEditorialSitemapImages(slug,locale);
     assert.equal(images.length,count);
     assert.equal(new Set(images).size,count);

@@ -17,6 +17,7 @@ export function articleEditorialSitemapImages(slug: string, locale: Locale = "en
   const variants = editorialVariants as Record<string, { src: string; width: number }[]>;
   return Array.from(new Set(sources.flatMap(source => [
     variants[source]?.at(-1)?.src ?? source,
-    source
+    source,
+    ...(variants[source] ?? []).map(file => file.src)
   ]))).map(source => `https://presda.com${source}`);
 }

@@ -33,7 +33,13 @@ export function articleImagePage(canonical: string) {
   };
 }
 
-/** Associate both the delivered hero and its already-published original with the article. */
+/** Associate the original, fallback and responsive URLs actually rendered by the hero. */
 export function articleSitemapImages(source: string) {
-  return Array.from(new Set([articleImageUrl(source), absoluteImageUrl(source)]));
+  const existing = [articleImageUrl(source), absoluteImageUrl(source)];
+  if (source === "/articles/phoenicians-tyrian-purple-sea-ships.png") return Array.from(new Set(existing));
+  const variants = require("@/lib/image-manifest.generated.json") as Record<string, [number, string][]>;
+  // Next's hero sizes select device widths >= 640px. Smaller card-only variants
+  // are not embedded in this article and must not be claimed in its sitemap.
+  const responsive = (variants[source] ?? []).filter(([width]) => width >= 640).map(([, url]) => absoluteImageUrl(url));
+  return Array.from(new Set([...existing, ...responsive]));
 }
