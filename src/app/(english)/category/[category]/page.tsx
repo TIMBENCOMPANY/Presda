@@ -8,7 +8,7 @@ import {
   fromCategorySlug,
   toCategorySlug
 } from "@/lib/categories";
-import { absoluteUrl } from "@/lib/seo";
+import { absoluteUrl, defaultOgImage } from "@/lib/seo";
 
 type CategoryPageProps = {
   params: Promise<{
@@ -45,7 +45,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
       type: "website",
       images: [
         {
-          url: absoluteUrl("/presda-p-transparent.png"),
+          url: absoluteUrl(defaultOgImage),
           alt: "PRESDA red P brand mark"
         }
       ]
@@ -54,7 +54,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
       card: "summary_large_image",
       title: `${categoryLabels[category]} News`,
       description: categoryDescriptions[category],
-      images: [absoluteUrl("/presda-p-transparent.png")]
+      images: [absoluteUrl(defaultOgImage)]
     }
   };
 }

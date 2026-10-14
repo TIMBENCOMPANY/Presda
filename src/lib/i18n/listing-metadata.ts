@@ -3,7 +3,7 @@ import type { TranslationRoute } from "./routing";
 import { localizedCategories } from "./messages";
 import { listingMessages } from "./listing-messages";
 import { fromCategorySlug } from "@/lib/categories";
-import { createPageMetadata, absoluteUrl } from "@/lib/seo";
+import { createPageMetadata, absoluteUrl, defaultOgImage } from "@/lib/seo";
 
 const categoryDescriptions = {
   fr: {
@@ -50,7 +50,7 @@ export function listingMetadata(route: TranslationRoute): Metadata {
   const metadata = createPageMetadata({ title, description, path: route.path });
   return {
     ...metadata,
-    openGraph: { ...metadata.openGraph, locale: { fr: "fr_FR", ar: "ar_AR", es: "es_ES" }[route.locale], images: [{ url: absoluteUrl("/presda-p-transparent.png"), alt: t.brandAlt }] }
+    openGraph: { ...metadata.openGraph, locale: { fr: "fr_FR", ar: "ar_AR", es: "es_ES" }[route.locale], images: [{ url: absoluteUrl(defaultOgImage), alt: t.brandAlt }] }
   };
 }
 

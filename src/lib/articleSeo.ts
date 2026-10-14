@@ -2,7 +2,7 @@ import type { Article } from "@/data/articles";
 import { articleImageJsonLd, articleImagePage } from "@/lib/articleImageSeo";
 import { getAuthorProfile, getAuthorSchemaType, toAuthorSlug } from "@/lib/authors";
 import { categoryLabels } from "@/lib/categories";
-import { absoluteUrl, siteName, siteUrl } from "@/lib/seo";
+import { absoluteUrl, defaultOgImage, siteName, siteUrl } from "@/lib/seo";
 
 export type ArticleSection = {
   id: string;
@@ -180,7 +180,7 @@ export function articleJsonLd(article: Article) {
       name: siteName,
       logo: {
         "@type": "ImageObject",
-        url: absoluteUrl("/presda-p-transparent.png")
+        url: absoluteUrl(defaultOgImage)
       }
     },
     mainEntityOfPage: articleImagePage(url)

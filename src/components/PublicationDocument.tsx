@@ -55,12 +55,12 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
-      { url: "/favicon.png" },
-      { url: "/favicon-dark.png" }
+      { url: "/favicon-dark.png", sizes: "1254x1254", type: "image/png" }
     ],
     shortcut: "/favicon.ico",
     apple: "/favicon-dark.png"
-  }
+  },
+  manifest: "/manifest.webmanifest"
 };
 
 export function PublicationDocument({ children, locale = "en" }: Readonly<{ children: ReactNode; locale?: Locale }>) {

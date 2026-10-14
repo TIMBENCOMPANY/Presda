@@ -38,7 +38,7 @@ export function Footer({ locale = "en" }: { locale?: Locale }) {
           <Link prefetch={false} href={destination("/")} aria-label={brandLabels[locale].home} className="inline-grid h-12 w-16 place-items-center">
             <Image src="/presda-p-transparent.png" alt={brandLabels[locale].logo} width={156} height={104} className="h-10 w-auto object-contain drop-shadow-[0_0_18px_rgba(255,26,26,0.36)]" />
           </Link>
-          <p className="mt-2 max-w-md text-sm leading-5 text-[color:var(--muted)]">{t.footer}</p>
+          <p className="mt-2 max-w-md text-sm leading-5 text-[color:var(--muted)]"><span data-nosnippet>{t.footer}</span></p>
           <h3 className={`mt-4 ${headingClass}`}>{t.social}</h3>
           <div className="mt-2 flex flex-wrap gap-2">
             <a href="https://www.instagram.com/presdaofficial" target="_blank" rel="noopener noreferrer" aria-label={`${brandLabels[locale].on} Instagram`} className={socialClass}>

@@ -4,7 +4,8 @@ import { getLanguageAlternates } from "@/lib/i18n/registry";
 export const siteUrl = "https://presda.com";
 export const siteName = "PRESDA";
 export const discoveryRobots = { index: true, follow: true, "max-image-preview": "large" as const };
-export const defaultOgImage = "/presda-p-transparent.png";
+// Search surfaces need an opaque background; keep the transparent UI mark separate.
+export const defaultOgImage = "/favicon-dark.png";
 
 export function absoluteUrl(path: string) {
   if (path.startsWith("http")) {

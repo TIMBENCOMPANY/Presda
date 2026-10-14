@@ -3,7 +3,7 @@ import { createPageMetadata } from "@/lib/seo";
 import { ArticlesPageContent } from "@/components/ArticlesPageContent";
 export const metadata: Metadata = createPageMetadata({
   title: "Latest Articles",
-  description: "Search and filter the latest PRESDA articles across AI, business, sport, world, paparazzi, lifestyle, travel, science, and World Cup 2026 coverage.",
+  description: "Search PRESDA's article archive by topic, category and date, from world news and business to sport, AI, science, history, travel and culture.",
   path: "/articles/"
 });
 

@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 import { contentSecurityPolicy } from "./config/content-security-policy.mjs";
+import { readFile } from "node:fs/promises";
 
 const securityHeaders = [
   {
@@ -56,7 +57,12 @@ const nextConfig = {
     optimizePackageImports: ["framer-motion"]
   },
   async headers() {
+    // The transparent UI mark is not the opaque search logo. Do not remove or
+    // block fetching it: exclude only these exact assets from image indexing.
+    const manifest = JSON.parse(await readFile(new URL("./src/lib/image-manifest.generated.json", import.meta.url), "utf8"));
+    const uiBrandImages = ["/presda-p-transparent.png", ...(manifest["/presda-p-transparent.png"] ?? []).map(([, url]) => url)];
     return [
+      ...uiBrandImages.map(source => ({ source, headers: [{ key: "X-Robots-Tag", value: "noindex" }] })),
       {
         source: "/image-assets/:path*",
         headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }]
