@@ -8,7 +8,9 @@ import { selectHomeArticles } from "@/lib/homeSelection";
 
 // Give only routes rendering the homepage an hourly cache dependency, including
 // localized homepages. Article/category route caching remains unchanged.
-const homeEditionTime = unstable_cache(async () => new Date().toISOString(), ["home-edition-time-v1"], { revalidate: 3600 });
+// A new publication must not inherit a cached edition time from the previous day.
+const publicationRevision = getPublishedArticles().map(article => `${article.slug}:${article.date}`).sort().join("|");
+const homeEditionTime = unstable_cache(async () => new Date().toISOString(), ["home-edition-time-v1", publicationRevision], { revalidate: 3600 });
 
 export async function HomePageContent({ locale = "en" }: { locale?: Locale }) {
   const edition = new Date(await homeEditionTime());
