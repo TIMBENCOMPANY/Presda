@@ -496,6 +496,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/beyonce-kelly-rowland-houston-knowles-rowland-house/",
+    "path": "/ar/articles/beyonce-kelly-rowland-houston-knowles-rowland-house/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/beyonce-kelly-rowland-houston-knowles-rowland-house/",
+    "path": "/es/articles/beyonce-kelly-rowland-houston-knowles-rowland-house/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/beyonce-kelly-rowland-houston-knowles-rowland-house/",
+    "path": "/fr/articles/beyonce-kelly-rowland-houston-knowles-rowland-house/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/beyond-luxury-world-most-unique-hotels/",
     "path": "/ar/articles/beyond-luxury-world-most-unique-hotels/"
   },

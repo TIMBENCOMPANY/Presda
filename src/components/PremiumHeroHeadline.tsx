@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "beyonce-kelly-rowland-houston-knowles-rowland-house": {"en":{"red":"BEYONCÉ","gold":"HOUSTON"},"fr":{"red":"BEYONCÉ","gold":"HOUSTON"},"es":{"red":"BEYONCÉ","gold":"HOUSTON"},"ar":{"red":"بيونسيه","gold":"هيوستن"}},
   "sex-education-beyond-the-taboo": {"en":{"red":"SEX EDUCATION","gold":"THE TABOO"},"fr":{"red":"ÉDUCATION SEXUELLE","gold":"DU TABOU"},"es":{"red":"EDUCACIÓN SEXUAL","gold":"DEL TABÚ"},"ar":{"red":"التثقيف الجنسي","gold":"التابو"}},
   "nolan-the-odyssey-universal-box-office-record": {"en":{"red":"THE ODYSSEY","gold":"RECORD"},"fr":{"red":"L’ODYSSÉE","gold":"RECORD"},"es":{"red":"LA ODISEA","gold":"RÉCORD"},"ar":{"red":"الأوديسة","gold":"القياسي"}},
   "netflix-cuts-1000-jobs-biggest-layoffs-since-2022": { en: { red: "NETFLIX", gold: "1,000 JOBS" }, fr: { red: "NETFLIX", gold: "1 000 EMPLOIS" }, es: { red: "NETFLIX", gold: "1.000 EMPLEOS" }, ar: { red: "نتفليكس", gold: "1,000 وظيفة" } },

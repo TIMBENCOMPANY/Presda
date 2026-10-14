@@ -1,3 +1,4 @@
+import { knowlesRowlandArticle } from "@/data/knowlesRowlandArticle";
 import { sexEducationArticle } from "@/data/sexEducationArticle";
 import { odysseyArticle } from "@/data/odysseyArticle";
 import { netflixLayoffsArticle } from "@/data/netflixLayoffsArticle";
@@ -161,6 +162,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  knowlesRowlandArticle,
   sexEducationArticle,
   odysseyArticle,
   netflixLayoffsArticle,

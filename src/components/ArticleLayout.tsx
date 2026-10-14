@@ -1,3 +1,4 @@
+import knowlesRowlandHeroCaptions from "@/data/knowlesRowlandHeroCaptions.json";
 import sexEducationHeroCaptions from "@/data/sexEducationHeroCaptions.json";
 import odysseyHeroCaptions from "@/data/odysseyHeroCaptions.json";
 import netflixHeroCaptions from "@/data/netflixHeroCaptions.json";
@@ -325,6 +326,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "black-death-pandemic-transform-europe" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{blackDeathHeroCaptions[locale]}</p>}
         {article.slug === "culture-of-tattoos-ancient-rituals-modern-art" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{tattooHeroCaptions[locale]}</p>}
         {article.slug === "first-giraffe-china-1414-bengal-yongle" && <GiraffeHeroCaption locale={locale} />}
+        {article.slug === "beyonce-kelly-rowland-houston-knowles-rowland-house" && <p data-knowles-rowland-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{knowlesRowlandHeroCaptions[locale]}</p>}
         {article.slug === "sex-education-beyond-the-taboo" && <p data-sex-education-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{sexEducationHeroCaptions[locale]}</p>}
         {article.slug === "nolan-the-odyssey-universal-box-office-record" && <p data-odyssey-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{odysseyHeroCaptions[locale]}</p>}
         {article.slug === "netflix-cuts-1000-jobs-biggest-layoffs-since-2022" && <p data-netflix-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{netflixHeroCaptions[locale]}</p>}
