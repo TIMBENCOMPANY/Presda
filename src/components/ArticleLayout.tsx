@@ -1,3 +1,5 @@
+import photographyHeroCaptions from "@/data/photographyHeroCaptions.json";
+import { PhotographyHistoricalImage, photographyImageAtBlock } from "@/components/PhotographyHistoricalImage";
 import medicalCannabisHeroCaptions from "@/data/medicalCannabisHeroCaptions.json";
 import butterflyEffectHeroCaptions from "@/data/butterflyEffectHeroCaptions.json";
 import artificialWombsHeroCaptions from "@/data/artificialWombsHeroCaptions.json";
@@ -333,6 +335,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "first-giraffe-china-1414-bengal-yongle" && <GiraffeHeroCaption locale={locale} />}
         {article.slug === "beyonce-kelly-rowland-houston-knowles-rowland-house" && <p data-knowles-rowland-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{knowlesRowlandHeroCaptions[locale]}</p>}
         {article.slug === "celine-dion-returns-stage-six-years-paris-2026" && <p data-celine-dion-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{celineDionHeroCaptions[locale]}</p>}
+        {article.slug === "invention-photography-first-photo-digital-age" && <p data-photography-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{photographyHeroCaptions[locale]}</p>}
         {article.slug === "medical-cannabis-science-benefits-risks" && <p data-medical-cannabis-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{medicalCannabisHeroCaptions[locale]}</p>}
         {article.slug === "butterfly-effect-small-changes-big-consequences" && <p data-butterfly-effect-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{butterflyEffectHeroCaptions[locale]}</p>}
         {article.slug === "artificial-wombs-future-human-birth" && <p data-artificial-wombs-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{artificialWombsHeroCaptions[locale]}</p>}
@@ -526,6 +529,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "bryan-johnson-blueprint-anti-aging-longevity" && (originalIndex === 13 || originalIndex === 40)) {
                 return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BryanJohnsonGraphics locale={locale} kind={originalIndex === 13 ? "routine" : "evidence"} /></div>;
               }
+              if (article.slug === "invention-photography-first-photo-digital-age" && photographyImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><PhotographyHistoricalImage id={photographyImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "first-giraffe-china-1414-bengal-yongle" && originalIndex === 18) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GiraffeMuseumImage locale={locale} /></div>;
               const structured = localizedBlocks?.[originalIndex];
               if (structured?.type === "table" && structured.sourceMarker === "[[ASTROLOGY_SCIENCE_TABLE]]") return <AstrologyComparisonTable key={originalIndex} table={{ headers: structured.headings, rows: structured.rows }} />;

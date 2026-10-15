@@ -1,0 +1,450 @@
+[
+  {
+    "id": "niepce",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_the_Window_at_Le_Gras,_by_Joseph_Nicephore_Niepce,_1826_or_1827,_France_-_Harry_Ransom_Center_-_University_of_Texas_at_Austin_-_DSC08424.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/View_from_the_Window_at_Le_Gras%2C_by_Joseph_Nicephore_Niepce%2C_1826_or_1827%2C_France_-_Harry_Ransom_Center_-_University_of_Texas_at_Austin_-_DSC08424.jpg",
+    "originalSha256": "d8b89d3586672d4968922d41c0bd9347887971ac14160b9b1f5c4b53f5713db5",
+    "width": 5472,
+    "height": 3648,
+    "credit": "Joseph Nicéphore Niépce / Harry Ransom Center; photograph: Daderot, 2015",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercialReuse": true,
+    "processing": "PRESDA resized and converted to WebP without additional cropping or color alteration. Published Morio derivatives remain CC BY-SA 3.0.",
+    "note": "View from the Window at Le Gras, 1826/1827 (catalogued 1827 by the Harry Ransom Center). Modern photograph of the surviving plate, not a contrast-enhanced reconstruction.",
+    "metadata": {
+      "DateTime": {
+        "value": "2016-11-06 11:14:49",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "View from the Window at Le Gras, by Joseph Nicephore Niepce, 1826 or 1827, France - Harry Ransom Center - University of Texas at Austin - DSC08424",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Point de vue du Gras|Author died more than 100 years ago public domain images|Self-published work|CC-PD-Mark|Files uploaded by Daderot",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Exhibit in the Harry Ransom Center - University of Texas at Austin, Austin, Texas, USA. This work is old enough so that it is in the public domain.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2015-11-17 16:39:39",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "daguerre",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Susse_Fr%C3%A8res_Daguerreotype_camera_1839.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Susse_Fr%C3%A8res_Daguerreotype_camera_1839.jpg",
+    "originalSha256": "9e7b1433f300f6dc21d101c8cb4fd22c438e04acf5c5897b3fa3e482a9e78f29",
+    "width": 1738,
+    "height": 1385,
+    "credit": "Liudmila & Nelson, 2010 / Wikimedia Commons",
+    "license": "Public-domain dedication",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Susse_Fr%C3%A8res_Daguerreotype_camera_1839.jpg#Licensing",
+    "commercialReuse": true,
+    "processing": "PRESDA resized and converted to WebP without additional cropping or color alteration. Published Morio derivatives remain CC BY-SA 3.0.",
+    "note": "Susse Frères daguerreotype camera, 1839. Photographed in 2010 at WestLicht, Vienna; an authentic historical instrument, not an AI reconstruction.",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-08-05 18:34:49",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Susse Frères Daguerreotype camera 1839",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Susse Frères|Self-published work|PD-self|Daguerreotype cameras|Cameras of France|Black cameras|Chevalier lens",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "The image shows the Susse Frères Daguerreotype camera from 1839, in exhibition in the Westlicht Photography Museum in Vienna, Austria. Two months before the public announce at the French Academy of Arts and Science of the process of Daguerreotype, Jacques Louis Mandé Daguerre signed a contract with his relative Alphonse Giroux and with the Maison Susse Frères to produce the cameras according to his instructions. Both cameras used the same lens produce by the Maison Charles Chevalier a lens f15 380 mm.\nReference: <a rel=\"nofollow\" class=\"external free\" href=\"http://image.eastmanhouse.org/taxonomy/term/289\">http://image.eastmanhouse.org/taxonomy/term/289</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-08-05",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Susse Frére camera in the collection of the Westlicht Photography Museum in Vienna, Austria",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Liudmila &amp; Nelson",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "kodak",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:2014-365-233_The_Basic_Brownie_Camera_(14809795240).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/2014-365-233_The_Basic_Brownie_Camera_%2814809795240%29.jpg",
+    "originalSha256": "f9b7972c49a6c2bf0d093ca17bb45c88b16b3ac606f9baf0ba507b42973a2a64",
+    "width": 4980,
+    "height": 3320,
+    "credit": "Alan Levine (cogdogblog), 2014 / Wikimedia Commons",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercialReuse": true,
+    "processing": "PRESDA resized and converted to WebP without additional cropping or color alteration. Published Morio derivatives remain CC BY-SA 3.0.",
+    "note": "A later Kodak Brownie box camera, photographed in 2014. The Brownie range began in 1900; this is not the original 1888 Kodak or the first Brownie model.",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-03-09 15:49:54",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "2014-365-233 The Basic Brownie Camera (14809795240)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Kodak Brownie|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Photographs by Alan Levine|620 film cameras",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Found a Brownie camera in good shape at Granny's Antiques in Payson.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2014-08-21 15:09:57",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/cogdog/14809795240/\">https://www.flickr.com/photos/cogdog/14809795240/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37996646802@N01\">cogdogblog</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "film",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Migrant_Mother_(LOC_fsa.8b29516).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Migrant_Mother_%28LOC_fsa.8b29516%29.jpg",
+    "originalSha256": "9822585c2fab685cb653347e528e19ff2cfff2b3b2489902a0699dff25e9e407",
+    "width": 6309,
+    "height": 8099,
+    "credit": "Dorothea Lange, 1936 / Library of Congress, FSA/OWI, fsa.8b29516; scan preparation: Trialsanderrors",
+    "license": "Public domain (US); LOC: no known publication restrictions",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Migrant_Mother_(LOC_fsa.8b29516).jpg#Licensing",
+    "commercialReuse": true,
+    "processing": "PRESDA resized and converted to WebP without additional cropping or color alteration. Published Morio derivatives remain CC BY-SA 3.0.",
+    "note": "Migrant Mother, Nipomo, California, March 1936. Digitization from a nitrate film negative. The archival negative had a thumb retouched out in the 1930s; this Commons scan also has documented cleanup, slight rotation and border cropping.",
+    "metadata": {
+      "DateTime": {
+        "value": "2009-08-12 14:24:36",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "<div class=\"fn\">\nDestitute pea pickers in California. Mother of seven children. Age thirty-two. Nipomo, California</div>",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images from the Library of Congress|Migrant Mother by Dorothea Lange|PD US FSA/OWI",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/Category:Dorothea_Lange\" title=\"Category:Dorothea Lange\">Lange, Dorothea</a><i><sup><a href=\"https://en.wikipedia.org/wiki/Dorothea_Lange\" class=\"extiw\" title=\"w:Dorothea Lange\">(w)</a></sup></i>, photographer.</div>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "<div class=\"description\">\nPhotograph shows Florence Thompson with three of her children in a photograph known as \"Migrant Mother.\" For background information, see \"Dorothea Lange's Migrant Mother' photographs ...\" <a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/rr/print/list/128_migm.html\">https://www.loc.gov/rr/print/list/128_migm.html</a></div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1936 Feb. or Mar.",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/fsa.8b29516\">fsa.8b29516</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "RIGHTS INFORMATION:  No known restrictions on publication.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "digital",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Kodak_DCS_system_and_Nikon_F3_2014_CP%2B.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kodak_DCS_system_and_Nikon_F3_2014_CP%2B.jpg",
+    "originalSha256": "19cfa6e821660370ced06bcb482f3bc3c33f71d1272b2c6c4885a2d0dfe3d96f",
+    "width": 3840,
+    "height": 2560,
+    "credit": "Morio, 2014 / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "commercialReuse": true,
+    "processing": "PRESDA resized and converted to WebP without additional cropping or color alteration. Published Morio derivatives remain CC BY-SA 3.0.",
+    "note": "Kodak DCS system of 1991, with Nikon F3 and separate digital storage unit. Photographed at CP+ in Yokohama in 2014. This is not Sasson’s 1975 prototype.",
+    "metadata": {
+      "DateTime": {
+        "value": "2014-02-26 17:03:18",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Kodak DCS system and Nikon F3 2014 CP+",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon EOS 5D Mark III|JCII Camera Museum|Kodak DCS 100|Self-published work|CP+ 2014|Nikon F3HP|Kodak digital camera backs|Photos taken by Morio/Cameras/Nikon|Photos taken by Morio/CP+/2014",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<b><a href=\"//commons.wikimedia.org/wiki/Category:CP%2B\" title=\"Category:CP+\">CP+</a></b> 2014: 1991 Kodak DCS system and Nikon F3",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2014-02-13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Morio\" title=\"User:Morio\">Morio</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "niepce": {
+    "src": "/articles/photography/niepce.webp",
+    "width": 5472,
+    "height": 3648,
+    "credit": "Joseph Nicéphore Niépce / Harry Ransom Center; photograph: Daderot, 2015",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_the_Window_at_Le_Gras,_by_Joseph_Nicephore_Niepce,_1826_or_1827,_France_-_Harry_Ransom_Center_-_University_of_Texas_at_Austin_-_DSC08424.jpg",
+    "copy": {
+      "en": {
+        "alt": "The framed pewter plate of Niépce’s View from the Window at Le Gras, faintly visible under reflected light",
+        "caption": "View from the Window at Le Gras, 1826/1827 (catalogued 1827 by the Harry Ransom Center). Modern photograph of the surviving plate, not a contrast-enhanced reconstruction."
+      },
+      "fr": {
+        "alt": "Plaque encadrée du Point de vue du Gras de Niépce, peu visible sous la lumière réfléchie",
+        "caption": "Point de vue du Gras, 1826/1827 (catalogué en 1827 par le Harry Ransom Center). Photographie moderne de la plaque conservée, pas une reconstitution au contraste renforcé."
+      },
+      "es": {
+        "alt": "Placa enmarcada de Vista desde la ventana en Le Gras de Niépce, tenue bajo la luz reflejada",
+        "caption": "Vista desde la ventana en Le Gras, 1826/1827 (catalogada en 1827 por el Harry Ransom Center). Fotografía moderna de la placa conservada, no una reconstrucción de contraste aumentado."
+      },
+      "ar": {
+        "alt": "لوح صورة نييبس منظر من نافذة لو غرا داخل إطار، بتفاصيل خافتة تحت الضوء المنعكس",
+        "caption": "منظر من نافذة لو غرا، 1826/1827، ويفهرسها مركز هاري رانسوم بتاريخ 1827. صورة حديثة للوح الأصلي الباقي، وليست إعادة إنشاء معززة التباين."
+      }
+    }
+  },
+  "daguerre": {
+    "src": "/articles/photography/daguerre.webp",
+    "width": 1738,
+    "height": 1385,
+    "credit": "Liudmila & Nelson, 2010 / Wikimedia Commons",
+    "license": "Public-domain dedication",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Susse_Fr%C3%A8res_Daguerreotype_camera_1839.jpg#Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Susse_Fr%C3%A8res_Daguerreotype_camera_1839.jpg",
+    "copy": {
+      "en": {
+        "alt": "Black wooden Susse Frères daguerreotype camera of 1839 with a brass lens",
+        "caption": "Susse Frères daguerreotype camera, 1839. Photographed in 2010 at WestLicht, Vienna; an authentic historical instrument, not an AI reconstruction."
+      },
+      "fr": {
+        "alt": "Appareil à daguerréotype Susse Frères de 1839 en bois noir avec un objectif en laiton",
+        "caption": "Appareil à daguerréotype Susse Frères, 1839. Photographié en 2010 à WestLicht, Vienne ; instrument historique authentique, pas une reconstitution par IA."
+      },
+      "es": {
+        "alt": "Cámara de daguerrotipo Susse Frères de 1839, de madera negra y objetivo de latón",
+        "caption": "Cámara de daguerrotipo Susse Frères, 1839. Fotografiada en 2010 en WestLicht, Viena; instrumento histórico auténtico, no una reconstrucción con IA."
+      },
+      "ar": {
+        "alt": "كاميرا داغيروتيب سوداء خشبية من سوس فرير سنة 1839 بعدسة نحاسية",
+        "caption": "كاميرا داغيروتيب من سوس فرير، 1839. صُوّرت عام 2010 في وستليخت بفيينا؛ أداة تاريخية أصلية وليست إعادة إنشاء بالذكاء الاصطناعي."
+      }
+    }
+  },
+  "kodak": {
+    "src": "/articles/photography/kodak.webp",
+    "width": 4980,
+    "height": 3320,
+    "credit": "Alan Levine (cogdogblog), 2014 / Wikimedia Commons",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:2014-365-233_The_Basic_Brownie_Camera_(14809795240).jpg",
+    "copy": {
+      "en": {
+        "alt": "Kodak Brownie box camera with a carrying handle and circular front lens",
+        "caption": "A later Kodak Brownie box camera, photographed in 2014. The Brownie range began in 1900; this is not the original 1888 Kodak or the first Brownie model."
+      },
+      "fr": {
+        "alt": "Appareil-boîte Kodak Brownie avec poignée et objectif circulaire en façade",
+        "caption": "Un modèle ultérieur de Kodak Brownie, photographié en 2014. La gamme apparaît en 1900 ; ce n’est ni le Kodak original de 1888 ni le premier modèle Brownie."
+      },
+      "es": {
+        "alt": "Cámara de caja Kodak Brownie con asa y objetivo frontal circular",
+        "caption": "Una Kodak Brownie posterior, fotografiada en 2014. La gama comenzó en 1900; no es la Kodak original de 1888 ni el primer modelo Brownie."
+      },
+      "ar": {
+        "alt": "كاميرا كوداك براوني صندوقية بمقبض حمل وعدسة أمامية دائرية",
+        "caption": "طراز لاحق من كاميرات كوداك براوني الصندوقية، صُوّر عام 2014. بدأت السلسلة سنة 1900؛ وهذه ليست كوداك الأصلية لعام 1888 ولا أول طراز براوني."
+      }
+    }
+  },
+  "film": {
+    "src": "/articles/photography/film.webp",
+    "width": 6309,
+    "height": 8099,
+    "credit": "Dorothea Lange, 1936 / Library of Congress, FSA/OWI, fsa.8b29516; scan preparation: Trialsanderrors",
+    "license": "Public domain (US); LOC: no known publication restrictions",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Migrant_Mother_(LOC_fsa.8b29516).jpg#Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Migrant_Mother_(LOC_fsa.8b29516).jpg",
+    "copy": {
+      "en": {
+        "alt": "Florence Owens Thompson with children in Dorothea Lange’s black-and-white Migrant Mother photograph",
+        "caption": "Migrant Mother, Nipomo, California, March 1936. Digitization from a nitrate film negative. The archival negative had a thumb retouched out in the 1930s; this Commons scan also has documented cleanup, slight rotation and border cropping."
+      },
+      "fr": {
+        "alt": "Florence Owens Thompson et ses enfants dans la photographie noir et blanc Migrant Mother de Dorothea Lange",
+        "caption": "Migrant Mother, Nipomo, Californie, mars 1936. Numérisation d’un négatif sur film nitrate. Un pouce a été effacé sur le négatif dans les années 1930 ; le fichier Commons comporte aussi un nettoyage, une légère rotation et un recadrage des bordures documentés."
+      },
+      "es": {
+        "alt": "Florence Owens Thompson y sus hijos en la fotografía en blanco y negro Madre migrante de Dorothea Lange",
+        "caption": "Madre migrante, Nipomo, California, marzo de 1936. Digitalización de un negativo de película de nitrato. Un pulgar se eliminó del negativo en los años treinta; el archivo Commons también tiene limpieza, ligera rotación y recorte de bordes documentados."
+      },
+      "ar": {
+        "alt": "فلورنس أوينز تومبسون وأطفالها في صورة دوروثيا لانغ بالأبيض والأسود الأم المهاجرة",
+        "caption": "الأم المهاجرة، نيبومو، كاليفورنيا، مارس 1936. نسخة رقمية من سالب فيلم نترات. أزيل إبهام بالرتوش من السالب في الثلاثينيات؛ وتوثق نسخة كومنز أيضاً تنظيفاً وتدويراً طفيفاً واقتصاصاً للحدود."
+      }
+    }
+  },
+  "digital": {
+    "src": "/articles/photography/digital.webp",
+    "width": 3840,
+    "height": 2560,
+    "credit": "Morio, 2014 / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Kodak_DCS_system_and_Nikon_F3_2014_CP%2B.jpg",
+    "copy": {
+      "en": {
+        "alt": "1991 Kodak DCS digital camera based on a Nikon F3 beside its separate storage unit",
+        "caption": "Kodak DCS system of 1991, with Nikon F3 and separate digital storage unit. Photographed at CP+ in Yokohama in 2014. This is not Sasson’s 1975 prototype."
+      },
+      "fr": {
+        "alt": "Système numérique Kodak DCS de 1991 sur Nikon F3 avec unité de stockage séparée",
+        "caption": "Système Kodak DCS de 1991, avec Nikon F3 et unité de stockage numérique séparée. Photographié au salon CP+ à Yokohama en 2014. Ce n’est pas le prototype de Sasson de 1975."
+      },
+      "es": {
+        "alt": "Sistema digital Kodak DCS de 1991 basado en Nikon F3 junto a su unidad de almacenamiento separada",
+        "caption": "Sistema Kodak DCS de 1991, con Nikon F3 y unidad de almacenamiento digital separada. Fotografiado en CP+, Yokohama, en 2014. No es el prototipo de Sasson de 1975."
+      },
+      "ar": {
+        "alt": "نظام كوداك DCS الرقمي لعام 1991 المعتمد على نيكون F3 بجوار وحدة تخزين منفصلة",
+        "caption": "نظام كوداك DCS لعام 1991 مع نيكون F3 ووحدة تخزين رقمية منفصلة. صُوّر في معرض CP+ بيوكوهاما عام 2014. ليس نموذج ساسون الأولي لعام 1975."
+      }
+    }
+  }
+}

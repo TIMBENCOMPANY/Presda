@@ -434,5 +434,115 @@
       "width": 2185,
       "src": "/articles/giraffe-china/met-giraffe-two-keepers.webp"
     }
+  ],
+  "/articles/photography/niepce.webp": [
+    {
+      "width": 400,
+      "src": "/articles/photography/responsive/niepce-400.webp",
+      "bytes": 26740
+    },
+    {
+      "width": 800,
+      "src": "/articles/photography/responsive/niepce-800.webp",
+      "bytes": 86562
+    },
+    {
+      "width": 1200,
+      "src": "/articles/photography/responsive/niepce-1200.webp",
+      "bytes": 170024
+    },
+    {
+      "width": 1600,
+      "src": "/articles/photography/responsive/niepce-1600.webp",
+      "bytes": 259146
+    }
+  ],
+  "/articles/photography/daguerre.webp": [
+    {
+      "width": 400,
+      "src": "/articles/photography/responsive/daguerre-400.webp",
+      "bytes": 13536
+    },
+    {
+      "width": 800,
+      "src": "/articles/photography/responsive/daguerre-800.webp",
+      "bytes": 48556
+    },
+    {
+      "width": 1200,
+      "src": "/articles/photography/responsive/daguerre-1200.webp",
+      "bytes": 102178
+    },
+    {
+      "width": 1600,
+      "src": "/articles/photography/responsive/daguerre-1600.webp",
+      "bytes": 164970
+    }
+  ],
+  "/articles/photography/kodak.webp": [
+    {
+      "width": 400,
+      "src": "/articles/photography/responsive/kodak-400.webp",
+      "bytes": 16172
+    },
+    {
+      "width": 800,
+      "src": "/articles/photography/responsive/kodak-800.webp",
+      "bytes": 69232
+    },
+    {
+      "width": 1200,
+      "src": "/articles/photography/responsive/kodak-1200.webp",
+      "bytes": 154808
+    },
+    {
+      "width": 1600,
+      "src": "/articles/photography/responsive/kodak-1600.webp",
+      "bytes": 246628
+    }
+  ],
+  "/articles/photography/film.webp": [
+    {
+      "width": 400,
+      "src": "/articles/photography/responsive/film-400.webp",
+      "bytes": 36424
+    },
+    {
+      "width": 800,
+      "src": "/articles/photography/responsive/film-800.webp",
+      "bytes": 130238
+    },
+    {
+      "width": 1200,
+      "src": "/articles/photography/responsive/film-1200.webp",
+      "bytes": 266800
+    },
+    {
+      "width": 1600,
+      "src": "/articles/photography/responsive/film-1600.webp",
+      "bytes": 525616
+    }
+  ],
+  "/articles/photography/digital.webp": [
+    {
+      "width": 400,
+      "src": "/articles/photography/responsive/digital-400.webp",
+      "bytes": 14502
+    },
+    {
+      "width": 800,
+      "src": "/articles/photography/responsive/digital-800.webp",
+      "bytes": 45836
+    },
+    {
+      "width": 1200,
+      "src": "/articles/photography/responsive/digital-1200.webp",
+      "bytes": 90232
+    },
+    {
+      "width": 1600,
+      "src": "/articles/photography/responsive/digital-1600.webp",
+      "bytes": 160620
+    }
   ]
 }

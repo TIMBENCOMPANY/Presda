@@ -1,0 +1,300 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/invention-photography-first-photo-digital-age/",
+  "path": "/es/articles/invention-photography-first-photo-digital-age/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-15",
+    "terminologyChecked": true
+  },
+  "title": "LA INVENCIÓN DE LA FOTOGRAFÍA: DE LA PRIMERA FOTO A LA ERA DIGITAL",
+  "seoTitle": "La invención de la fotografía: de Niépce a la era digital",
+  "description": "De Niépce y Daguerre a la película, los móviles y la IA: la historia de la fotografía con imágenes históricas auténticas y fuentes verificadas.",
+  "excerpt": "De Niépce y Daguerre a la película, los móviles y la IA: la historia de la fotografía con imágenes históricas auténticas y fuentes verificadas.",
+  "headlineHighlights": {
+    "red": "LA INVENCIÓN DE LA FOTOGRAFÍA",
+    "gold": "LA ERA DIGITAL"
+  },
+  "keywords": [
+    "LA INVENCIÓN DE LA FOTOGRAFÍA",
+    "Niépce",
+    "Daguerre",
+    "Kodak"
+  ],
+  "searchIntent": "De Niépce y Daguerre a la película, los móviles y la IA: la historia de la fotografía con imágenes históricas auténticas y fuentes verificadas.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-15",
+  "updatedAt": "2026-10-15",
+  "image": {
+    "src": "/articles/photography-hero.png",
+    "alt": "Reconstrucción artística con IA de un estudio fotográfico del siglo XIX, con un fotógrafo, una cámara de madera y copias."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Antes de poder detener el tiempo, la fotografía tuvo que conseguir que la luz dejara una huella. Ya era posible proyectar una escena dentro de una habitación oscura: tejados, una figura que pasa, hojas en movimiento. Pero la imagen desaparecía con la luz. El invento extraordinario no fue simplemente una cámara, sino una forma de hacer perdurar aquel encuentro fugaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "La fotografía surgió de varios descubrimientos, no de un momento milagroso. Niépce conservó una imagen de cámara, Daguerre produjo vistas de enorme precisión sobre metal y Talbot desarrolló un negativo reproducible. La película hizo transportables las imágenes; la electrónica permitió transmitirlas; el software contribuye ahora a construirlas. Esta historia también trata de la confianza: ¿qué demuestra realmente una imagen?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Antes de la fotografía: la luz en una cámara oscura"
+    },
+    {
+      "type": "paragraph",
+      "text": "Camera obscura significa habitación oscura. La luz que atraviesa una abertura pequeña proyecta una vista invertida del exterior sobre la superficie opuesta. Las lentes mejoraron después la luminosidad y el enfoque; los espejos podían redirigir la proyección. Los artistas utilizaban versiones portátiles para dibujar mucho antes de que existiera la química fotográfica. Había una imagen óptica real, pero todavía no se había registrado nada. [National Science and Media Museum](https://blog.scienceandmediamuseum.org.uk/introduction-camera-obscura/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción importa. Una cámara forma una imagen; la fotografía necesita una superficie sensible y una forma de conservar su reacción. Los primeros investigadores afrontaban dos problemas distintos: obtener una impresión reconocible e impedir que la luz posterior la destruyera. Un material que se oscurece al sol resulta prometedor, pero una imagen que sigue oscureciéndose no puede convertirse en un registro útil."
+    },
+    {
+      "type": "paragraph",
+      "text": "En 1816, Niépce ya obtenía imágenes de cámara legibles, aunque temporales. Sus experimentos desembocaron gradualmente en la heliografía, la escritura del sol. Convertir una curiosidad óptica en un objeto duradero exigió años de pruebas con sustancias y soportes. La fotografía comenzó como una negociación entre luz, materia y tiempo, no como una captura instantánea. [Harry Ransom Center](https://www.hrc.utexas.edu/niepce-heliograph/)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Niépce: la primera fotografía de cámara conservada, 1826/1827"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vista desde la ventana en Le Gras muestra el entorno de la propiedad de Joseph Nicéphore Niépce en Borgoña. Habitualmente fechada en 1826 o 1827, figura como una obra de 1827 en el Harry Ransom Center, que la conserva. La descripción rigurosa es la fotografía realizada con cámara oscura más antigua que ha sobrevivido, no la primera imagen jamás producida mediante sustancias fotosensibles. [Harry Ransom Center](https://www.hrc.utexas.edu/niepce-heliograph/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Niépce utilizó una placa de peltre recubierta de betún sensible a la luz. La exposición endurecía partes del recubrimiento y permitía obtener una imagen duradera. El centro describe una exposición de varios días, por lo que la conocida afirmación de que duró exactamente ocho horas no debe tratarse como un hecho establecido. La imagen es tenue y difícil de leer: esa fragilidad material pertenece a su historia, no es un defecto que deba reemplazarse con una vista inventada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al mirar la placa conservada, la distancia hasta el teléfono inteligente parece inmensa. Sin embargo, reconocemos la ambición: guardar lo que hay fuera de esta ventana. El logro fue la permanencia. La nitidez, la rapidez, el precio y la facilidad de reproducción seguían siendo problemas distintos que requerían nuevas invenciones."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Daguerre y la presentación pública de 1839"
+    },
+    {
+      "type": "paragraph",
+      "text": "Niépce se asoció con Louis Daguerre en 1829 y murió en 1833. Daguerre continuó investigando. Sus resultados se presentaron ante la Academia de Ciencias francesa el 7 de enero de 1839; el procedimiento se explicó públicamente el 19 de agosto. Son fechas de distintas etapas del anuncio, no versiones contradictorias de un único acontecimiento. [The Met](https://www.metmuseum.org/essays/daguerre-1787-1851-and-the-invention-of-photography)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un daguerrotipo es una imagen única sobre cobre plateado. Podía ofrecer un detalle extraordinario, pero no existía un negativo para imprimir una serie de copias. También era un objeto físico cuya apariencia dependía de las condiciones de observación. El método combinaba óptica y un complejo proceso químico, incluido el revelado con mercurio, muy lejos de la sencillez que hoy asociamos con pulsar el disparador. [The Met](https://www.metmuseum.org/essays/daguerre-1787-1851-and-the-invention-of-photography)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cámara que aparece aquí es un auténtico instrumento Susse Frères de 1839, fotografiado mucho después. Corrige una simplificación visual: los primeros equipos no se parecían todos a las cámaras de fuelle habituales en las recreaciones históricas. El estudio ilustrado al comienzo del artículo evoca una época; este aparato conservado documenta una tecnología concreta."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El negativo de Talbot: una exposición, muchas imágenes"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Inglaterra, William Henry Fox Talbot buscó otra solución. Entre sus primeros negativos de papel había una ventana de la abadía de Lacock, fechada hacia 1835. En el negativo se invertían luces y sombras; al imprimir a través de él sobre otra hoja sensible se recuperaba su relación tonal. La ventaja decisiva era la reproducibilidad: una escena registrada podía generar múltiples copias positivas. [The Met](https://www.metmuseum.org/essays/william-henry-fox-talbot-1800-1877-and-the-invention-of-photography)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Talbot patentó el calotipo en 1841 tras descubrir cómo revelar una imagen latente, inicialmente invisible. Su libro ilustrado con fotografías The Pencil of Nature apareció por entregas entre 1844 y 1846. El principio negativo-positivo ofrecía una vía hacia los libros, los archivos y la circulación muy diferente de la imagen metálica única del daguerrotipo. Ninguno de los dos métodos debe reducirse a una nota al margen de la historia del otro. [The Met](https://www.metmuseum.org/essays/william-henry-fox-talbot-1800-1877-and-the-invention-of-photography)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Placas de vidrio y búsqueda de rapidez"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frederick Scott Archer publicó el procedimiento del colodión húmedo en 1851. Los negativos de vidrio proporcionaban detalle y copias reproducibles, pero la placa debía prepararse y procesarse mientras seguía húmeda. Un fotógrafo que trabajara al aire libre necesitaba algo más que una cámara: también debía transportar el laboratorio. Esa carga práctica condicionaba los lugares y los momentos que podían registrarse. [Archivos Nacionales de Estados Unidos](https://www.archives.gov/research/still-pictures/still-picture-glass-holdings)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los trabajos de Richard Leach Maddox con placas secas de gelatina, en 1871, contribuyeron a abrir otra vía. Las placas secas separaban la preparación del momento de exposición, y las mejoras posteriores simplificaron la práctica. Los estudios de conservación del Smithsonian explican su difusión antes de que la película flexible las desplazara en el uso cotidiano. El progreso transformó todo el proceso de trabajo, no solo el objetivo. [Archivos del Smithsonian](https://siarchives.si.edu/blog/highlight-photo-cold-vault-gelatin-dry-plate-negatives)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kodak lleva la cámara a la vida cotidiana"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cámara Kodak de George Eastman llegó en 1888 con una propuesta comercial revolucionaria: tomar fotografías sin dominar su procesamiento. El modelo original contenía película en rollo con soporte de papel para 100 exposiciones. No debe confundirse con la película transparente posterior ni con la familia Brownie, presentada en 1900. [George Eastman Museum](https://collections.eastman.org/objects/560428/1888-kodak-camera) [Kodak](https://www.kodak.com/en/company/page/photography-history/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La transformación fue organizativa y técnica. Una cámara práctica, suministros estandarizados y un servicio de procesamiento facilitaron la participación. El George Eastman Museum destaca la sencillez de los controles de la Kodak original y su atractivo para principiantes. La Brownie mostrada aquí es un ejemplo posterior de cámara de caja, no la Kodak original de 1888. [George Eastman Museum](https://www.eastman.org/camera-obscura-revolutionary-kodak)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fotografía familiar cambió lo que parecía digno de conservarse. Un retrato formal y una instantánea piden cosas distintas a la memoria. El primero puede expresar quién desea ser una persona; la segunda puede guardar una tarde corriente. Ninguno ofrece una versión sin filtros de la vida. Cada álbum también documenta decisiones sobre quién entraba en el encuadre y qué momentos merecían sobrevivir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El color llega por etapas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fotografía en color no comenzó con una única película moderna. El procedimiento autocromo de los hermanos Lumière, comercializado en 1907, utilizaba granos de almidón coloreados en una placa de vidrio. Kodachrome apareció en 1935, inicialmente como película cinematográfica, seguida de formatos para fotografía fija. Eran soluciones técnicas diferentes, no nombres sucesivos de un mismo invento. [Museo de Bellas Artes de Boston: CAMEO](https://cameo.mfa.org/wiki/Photography) [Nature, 1935](https://www.nature.com/articles/136098a0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El color amplió las posibilidades expresivas, pero también planteó problemas de conservación. Los tintes, el procesamiento y el almacenamiento influyen en el envejecimiento. El Instituto Canadiense de Conservación distingue varios procedimientos de color y sus vulnerabilidades. Una copia familiar descolorida es, por tanto, un recuerdo y un objeto químico cambiante; su escaneo registra el estado actual, no necesariamente su aspecto original. [Instituto Canadiense de Conservación](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-colour-photographic-materials.html)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La fotografía de película se convierte en testigo público"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dorothea Lange fotografió a Florence Owens Thompson y sus hijos en Nipomo, California, en marzo de 1936. La imagen conocida como Madre migrante pertenece a una secuencia, no a un encuentro reducido a una sola toma. La Biblioteca del Congreso identifica el soporte original como un negativo de película de 4 × 5 pulgadas. Su conservación permite estudiar tanto la imagen famosa como las decisiones que la rodean. [Biblioteca del Congreso](https://guides.loc.gov/migrant-mother)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí se vuelve tangible el poder social de la fotografía. Un rostro puede dar a una crisis económica una inmediatez que no ofrece una cifra global. Sin embargo, una imagen no aporta una biografía completa, no explica todas las causas de la pobreza ni valida cualquier pie de foto añadido después. El buen fotoperiodismo une el registro visual con investigación, contexto y respeto hacia las personas representadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa obligación sigue vigente en la época de las imágenes virales. Una fotografía auténtica puede engañar si la fecha, el lugar o la explicación son incorrectos. La fuerza emocional y el valor probatorio no son equivalentes, una diferencia que también ayuda a entender por qué algunas teorías sin fundamento resultan persuasivas. [Por qué resultan persuasivas las teorías sin fundamento](/articles/psychology-of-conspiracy-theories-why-we-believe-hidden-plots/)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un instrumento científico y una forma de arte"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fotografía extendió la observación más allá de la visión a simple vista. Las exposiciones repetidas, la ampliación y el registro controlado hicieron útiles las imágenes para comparar y medir. Su valor científico depende, sin embargo, de conocer su elaboración: exposición, escala, procesamiento y selección modifican las inferencias posibles. Una imagen hermosa puede ser también una medición fiable, pero no son cualidades intercambiables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los artistas también cuestionaron la idea de que la cámara solo copiaba. Alfred Stieglitz y la Photo-Secession, fundada en 1902, defendieron sus posibilidades artísticas mediante exposiciones y publicaciones. La composición, el trabajo de impresión y la interpretación podían importar tanto como el tema. El debate no se resolvió con un mecanismo nuevo: exigió que las instituciones reconsideraran la autoría artística. [MoMA](https://www.moma.org/collection/terms/photo-secession)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fotografía digital: la luz se convierte en datos"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Kodak, el ingeniero Steven Sasson construyó una cámara digital experimental en 1975, utilizando un dispositivo de carga acoplada para captar una imagen electrónica. El National Inventors Hall of Fame fecha el prototipo en diciembre. Fue un hito de investigación, no la llegada de una cámara económica para consumidores. Convertir la demostración en un sistema práctico requería más avances en almacenamiento, electrónica y tratamiento de imágenes. [National Inventors Hall of Fame](https://www.invent.org/inductees/steven-sasson)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kodak presentó su Professional Digital Camera System en 1991, combinando una Nikon F3 con un sensor de 1,3 megapíxeles. La cámara y la unidad de almacenamiento separada que se muestran aquí revelan el volumen que podía tener un primer sistema profesional. Las prácticas analógicas y digitales coexistieron; no hubo un día universal en que los fotógrafos guardaran definitivamente sus negativos. [Kodak](https://www.kodak.com/en/company/page/photography-history/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La captura digital transforma mediciones de luz en información numérica que el software puede procesar, almacenar y transmitir. Revisar inmediatamente el resultado cambia el acto de fotografiar: permite ajustar y volver a intentarlo. Copiar se vuelve fácil, pero conservar no es automático. Los archivos requieren almacenamiento organizado y migraciones, igual que las fotografías físicas necesitan cuidados adecuados."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Teléfonos inteligentes: la fotografía ensamblada por software"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una fotografía de móvil puede combinar varias exposiciones en lugar de reproducir un solo fotograma intacto. En un artículo de investigación de 2016, el equipo HDR+ de Google describió la alineación y fusión de una ráfaga de exposiciones cortas para reducir el ruido y mejorar el rango dinámico. El resultado puede conservar información que una única exposición con una cámara pequeña difícilmente captaría. [Hasinoff y colaboradores, 2016](https://research.google/pubs/burst-photography-for-high-dynamic-range-and-low-light-imaging-on-mobile-cameras/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fotografía computacional hace más visible la frontera entre captura y procesamiento. Combinar luz medida en varias tomas difiere de generar una escena que nunca existió, aunque ambas operaciones utilicen software. Una imagen nocturna convincente, un retrato alterado y una ilustración histórica sintética no constituyen el mismo tipo de prueba por el mero hecho de llegar como archivos de imagen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La IA y el futuro de la autenticidad fotográfica"
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA generativa puede reproducir el lenguaje visual de la fotografía sin un encuentro correspondiente entre cámara y realidad. Esa capacidad sirve para ilustraciones claramente identificadas, como el estudio decimonónico imaginado para este artículo. Resulta engañosa cuando una apariencia plausible se presenta como documentación. Los equipos históricos y las fotografías de archivo necesitan fuentes rastreables, no solo una atmósfera de época convincente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las Content Credentials, basadas en los estándares C2PA, pueden incorporar información de procedencia verificable mediante criptografía. Ayudan a describir el origen y el historial de edición; no certifican que una afirmación representada sea verdadera. Su ausencia tampoco demuestra falsificación. La autenticación es una cadena de pruebas que incluye fuente, contexto y procedencia, no una insignia aislada ni una impresión intuitiva de realismo. [C2PA](https://spec.c2pa.org/specifications/specifications/2.2/explainer/Explainer.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fotografía de cámara más antigua que conservamos nos exige esfuerzo para distinguir un patio. Una imagen sintética puede ofrecer hoy claridad inmediata sobre algo que nunca sucedió. Entre ambos extremos está la promesa duradera de la fotografía: una conexión significativa entre la imagen y el mundo. Su futuro dependerá de lo que las cámaras puedan mostrar y de la honestidad con que expliquemos qué estamos mirando."
+    }
+  ],
+  "sources": [
+    {
+      "label": "National Science and Media Museum",
+      "url": "https://blog.scienceandmediamuseum.org.uk/introduction-camera-obscura/"
+    },
+    {
+      "label": "Harry Ransom Center",
+      "url": "https://www.hrc.utexas.edu/niepce-heliograph/"
+    },
+    {
+      "label": "The Met",
+      "url": "https://www.metmuseum.org/essays/daguerre-1787-1851-and-the-invention-of-photography"
+    },
+    {
+      "label": "The Met",
+      "url": "https://www.metmuseum.org/essays/william-henry-fox-talbot-1800-1877-and-the-invention-of-photography"
+    },
+    {
+      "label": "Archivos Nacionales de Estados Unidos",
+      "url": "https://www.archives.gov/research/still-pictures/still-picture-glass-holdings"
+    },
+    {
+      "label": "Archivos del Smithsonian",
+      "url": "https://siarchives.si.edu/blog/highlight-photo-cold-vault-gelatin-dry-plate-negatives"
+    },
+    {
+      "label": "George Eastman Museum",
+      "url": "https://collections.eastman.org/objects/560428/1888-kodak-camera"
+    },
+    {
+      "label": "Kodak",
+      "url": "https://www.kodak.com/en/company/page/photography-history/"
+    },
+    {
+      "label": "George Eastman Museum",
+      "url": "https://www.eastman.org/camera-obscura-revolutionary-kodak"
+    },
+    {
+      "label": "Museo de Bellas Artes de Boston: CAMEO",
+      "url": "https://cameo.mfa.org/wiki/Photography"
+    },
+    {
+      "label": "Nature, 1935",
+      "url": "https://www.nature.com/articles/136098a0"
+    },
+    {
+      "label": "Instituto Canadiense de Conservación",
+      "url": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-colour-photographic-materials.html"
+    },
+    {
+      "label": "Biblioteca del Congreso",
+      "url": "https://guides.loc.gov/migrant-mother"
+    },
+    {
+      "label": "MoMA",
+      "url": "https://www.moma.org/collection/terms/photo-secession"
+    },
+    {
+      "label": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/steven-sasson"
+    },
+    {
+      "label": "Hasinoff y colaboradores, 2016",
+      "url": "https://research.google/pubs/burst-photography-for-high-dynamic-range-and-low-light-imaging-on-mobile-cameras/"
+    },
+    {
+      "label": "C2PA",
+      "url": "https://spec.c2pa.org/specifications/specifications/2.2/explainer/Explainer.html"
+    }
+  ],
+  "faq": []
+}

@@ -1861,6 +1861,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/invention-photography-first-photo-digital-age/",
+    "path": "/ar/articles/invention-photography-first-photo-digital-age/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/invention-photography-first-photo-digital-age/",
+    "path": "/es/articles/invention-photography-first-photo-digital-age/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/invention-photography-first-photo-digital-age/",
+    "path": "/fr/articles/invention-photography-first-photo-digital-age/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/iran-hormuz-closed-conditions-energy-shipping/",
     "path": "/ar/articles/iran-hormuz-closed-conditions-energy-shipping/"
   },
