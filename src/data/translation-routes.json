@@ -2656,6 +2656,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/nikola-tesla-genius-helped-electrify-world/",
+    "path": "/ar/articles/nikola-tesla-genius-helped-electrify-world/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/nikola-tesla-genius-helped-electrify-world/",
+    "path": "/es/articles/nikola-tesla-genius-helped-electrify-world/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/nikola-tesla-genius-helped-electrify-world/",
+    "path": "/fr/articles/nikola-tesla-genius-helped-electrify-world/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/nobel-prize-history-winners-discoveries/",
     "path": "/ar/articles/nobel-prize-history-winners-discoveries/"
   },

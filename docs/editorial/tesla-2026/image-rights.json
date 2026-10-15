@@ -1,0 +1,513 @@
+[
+  {
+    "id": "portrait",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla_by_Sarony_c1893.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nikola_Tesla_by_Sarony_c1893.jpg",
+    "originalSha256": "6983f30373ea79701d3a48844446dca1993e2a58c462f828084ba7557f795d16",
+    "credit": "Napoleon Sarony / Harvard Art Museums, via Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla_by_Sarony_c1893.jpg#Licensing",
+    "commercialReuse": true,
+    "processing": "Resized without upscaling and converted to WebP. No further cropping, recoloring or AI alteration. CC BY-SA derivatives retain CC BY-SA 4.0.",
+    "note": "Nikola Tesla, photographed by Napoleon Sarony between 1890 and 1896. Albumen silver print on card.",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-07-27 08:00:28",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Nikola_Tesla\" class=\"extiw\" title=\"w:Nikola Tesla\">Nikola Tesla</a>",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "PD-old-100-expired|CC-PD-Mark|PD-old missing SDC copyright status|Nikola Tesla by Napoleon Sarony|Cabinet cards published by Napoleon Sarony",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Napol%C3%A9on_Sarony\" class=\"extiw\" title=\"w:en:Napoléon Sarony\"><span title=\"American artist (1821-1896)\">Napoleon Sarony</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "<div class=\"description\">\nAlbumen silver print on card.</div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "between 1890 and 1896<div style=\"display: none;\">date QS:P571,+1890-00-00T00:00:00Z/8,P1319,+1890-00-00T00:00:00Z/9,P1326,+1896-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://via.lib.harvard.edu:80/via/deliver/deepLinkItem?recordId=FAL15283&amp;componentId=HUAM:INV135504_mddl\">[1]</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "motor",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_Induction_Motor_from_1888.png",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Model_of_the_Induction_Motor_from_1888.png",
+    "originalSha256": "fb2d0f00a9a3a07d9506e3ba5854056e153f95032c212c2c1711e3a076b21808",
+    "credit": "Nikola Tesla Museum / Wikimedia Commons, CC BY-SA 4.0",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commercialReuse": true,
+    "processing": "Resized without upscaling and converted to WebP. No further cropping, recoloring or AI alteration. CC BY-SA derivatives retain CC BY-SA 4.0.",
+    "note": "Museum photograph of an induction-motor model associated with Tesla’s 1888 work, identified by the Nikola Tesla Museum with patent 382,279. This is a photograph of a museum object, not a photograph taken in 1888; the record does not establish the date of this photograph.",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-05-01 10:07:01",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Model of the Induction Motor from 1888",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Nikola Tesla|Nikola Tesla Museum|Items with VRTS permission confirmed|Files with PermissionTicket template but without P6305 SDC statement|Wikipedian in residence - The Nikola Tesla Museum 2026|Content donations by The Nikola Tesla Museum 2026",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Induction motor, patent No. 382.279, that Tesla presented to members of the American Institute of Electrical Engeneers in 1888.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1888",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Nikola Tesla Museum",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Nikola Tesla Museum",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2026050510005688\n2%3D2026050510005688\"><span typeof=\"mw:Entity\"> </span></span></p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\" typeof=\"mw:Extension/templatestyles\" about=\"#mwt3\" data-mw='{\"name\":\"templatestyles\",\"attrs\":{\"src\":\"Module:Message box/mbox.css\"},\"body\":{\"extsrc\":\"\"}}'>.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\" data-mw='{\"caption\":\"VRT Wikimedia\"}'><span title=\"VRT Wikimedia\"><img resource=\"https://commons.wikimedia.org/wiki/File:Permission_logo_2021.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"VRT Wikimedia\" data-file-width=\"935\" data-file-height=\"600\" data-file-type=\"drawing\" height=\"48\" width=\"75\" class=\"mw-file-element\"></span></span></td><td class=\"mbox-text\">This work is <a rel=\"mw:WikiLink/Interwiki\" href=\"https://freedomdefined.org/Definition\" title=\"freedomdefined:Definition\" class=\"extiw\">free</a> and may be used by anyone for any purpose. If you wish to <b><a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a rel=\"mw:WikiLink/Interwiki\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026050510005688\" title=\"ticket:2026050510005688\" class=\"extiw\">ticket #2026050510005688</a></b>.</p>\n\n<p><small>If you have questions about the archived correspondence, please use the <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a rel=\"mw:ExtLink\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026050510005688\" class=\"external free\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026050510005688</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\" data-mw='{\"caption\":\"SDC query (SPARQL)\"}'><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222026050510005688%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" rel=\"nofollow\" title=\"SDC query (SPARQL)\"><img resource=\"https://commons.wikimedia.org/wiki/File:Wikimedia_Commons_Query_Service_Logo.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"SDC query (SPARQL)\" data-file-width=\"512\" data-file-height=\"688\" data-file-type=\"drawing\" height=\"20\" width=\"15\" class=\"mw-file-element\"></a></span></p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026050510005688\"></span></td></tr></tbody></table>\n<span class=\"mw-empty-elt\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Files_with_PermissionTicket_template_but_without_P6305_SDC_statement\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Items_with_VRTS_permission_confirmed\"></span>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "niagara",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Photocopy_of_photograph_Photographer_and_date_unknown_GENERATOR_-_Edward_D._Adams_Station_Power_Plant,_Niagara_River_and_Buffalo_Avenue,_Niagara_Falls,_Niagara_County,_NY_HABS_NY,32-NIAF,3-5.tif",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Photocopy_of_photograph_Photographer_and_date_unknown_GENERATOR_-_Edward_D._Adams_Station_Power_Plant%2C_Niagara_River_and_Buffalo_Avenue%2C_Niagara_Falls%2C_Niagara_County%2C_NY_HABS_NY%2C32-NIAF%2C3-5.tif",
+    "originalSha256": "761c07216c1c5afc746d7be87918f7c51a3c231051b5535d5a3a7d8825a8ee18",
+    "credit": "Historic American Buildings Survey / Library of Congress, HABS NY,32-NIAF,3-5; original photographer unknown",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Photocopy_of_photograph_Photographer_and_date_unknown_GENERATOR_-_Edward_D._Adams_Station_Power_Plant,_Niagara_River_and_Buffalo_Avenue,_Niagara_Falls,_Niagara_County,_NY_HABS_NY,32-NIAF,3-5.tif#Licensing",
+    "commercialReuse": true,
+    "processing": "Resized without upscaling and converted to WebP. No further cropping, recoloring or AI alteration. CC BY-SA derivatives retain CC BY-SA 4.0.",
+    "note": "Generator at the Edward D. Adams Station, Niagara Falls. Archival copy photograph held by the Library of Congress; the original photographer and date are unknown. It is not presented as a photograph of the 1895 opening.",
+    "metadata": {
+      "DateTime": {
+        "value": "2014-07-29 13:26:56",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "<div class=\"fn\">\nPhotocopy of photograph Photographer and date unknown GENERATOR - Edward D. Adams Station Power Plant, Niagara River and Buffalo Avenue, Niagara Falls, Niagara County, NY</div>",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Files with no machine-readable author|Images uploaded by Fæ|PD US NPS|Files from the Historic American Buildings Survey|GWToolset Batch Upload|Edward D. Adams Station Power Plant",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/pictures/item/ny1014.photos.120721p\">https://www.loc.gov/pictures/item/ny1014.photos.120721p</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td><i>This image or media file contains material based on a work of a <a href=\"https://en.wikipedia.org/wiki/National_Park_Service\" class=\"extiw\" title=\"w:National Park Service\">National Park Service</a> employee, created as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"w:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States\" class=\"extiw\" title=\"w:Federal Government of the United States\">U.S. federal government</a>, such work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> in the United States. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/\">NPS website</a> and <a rel=\"nofollow\" class=\"external text\" href=\"https://www.nps.gov/aboutus/disclaimer.htm\">NPS copyright policy</a> for more information.</i>\n</td>\n<td><figure class=\"mw-halign-right\" typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/60px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"52\" height=\"68\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_the_United_States_National_Park_Service.svg/120px-Logo_of_the_United_States_National_Park_Service.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"553\" data-file-height=\"720\"></span><figcaption></figcaption></figure>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "lab",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla_in_his_laboratory_in_New_York.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nikola_Tesla_in_his_laboratory_in_New_York.jpg",
+    "originalSha256": "4e52a8351e85625aa63131006e0090d7751afb62bd08b1e0d95beb0c216988a0",
+    "credit": "Nikola Tesla Museum / Wikimedia Commons, CC BY-SA 4.0",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commercialReuse": true,
+    "processing": "Resized without upscaling and converted to WebP. No further cropping, recoloring or AI alteration. CC BY-SA derivatives retain CC BY-SA 4.0.",
+    "note": "Tesla in his laboratory at 46 Houston Street, New York, 1896, as dated by the Nikola Tesla Museum. The spiral winding behind him is part of a high-frequency transformer.",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-04-23 18:10:45",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Nikola Tesla in his laboratory in New York",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "1896 in New York City|Nikola Tesla|Houston Street (Manhattan)|Nikola Tesla Museum|Items with VRTS permission confirmed|Files with PermissionTicket template but without P6305 SDC statement|Black and white photographs of people in Manhattan, New York City|Black and white photographs of Manhattan, New York City in the 1890s|Sitting men in Manhattan, New York City|Men facing right in New York City|Wikipedian in residence - The Nikola Tesla Museum 2026|Content donations by The Nikola Tesla Museum 2026",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Nikola Tesla in his laboratory on 46 Houston Street in New York. Tesla is in front of the spiral secondary of a high-frequency transformer",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1896",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "The Nikola Tesla Museum",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "The Nikola Tesla Museum",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2026050510005688 2%3D2026050510005688\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026050510005688\" class=\"extiw\" title=\"ticket:2026050510005688\">ticket #2026050510005688</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026050510005688\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026050510005688</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222026050510005688%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026050510005688\"></span></td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "colorado",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Nikola_Tesla%2C_with_his_equipment_Wellcome_M0014782.jpg",
+    "originalSha256": "7fe81c13dfa5a27d8c7269ca124456c50f2567ccc68437ad9284b16cc8d7ace4",
+    "credit": "Dickenson V. Alley / Wellcome Collection, M0014782, via Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg#Licensing",
+    "commercialReuse": true,
+    "processing": "Resized without upscaling and converted to WebP. No further cropping, recoloring or AI alteration. CC BY-SA derivatives retain CC BY-SA 4.0.",
+    "note": "Colorado Springs, circa 1899. An authentic historical double exposure: the discharges and Tesla seated beside the magnifying transmitter were photographed separately. This inscribed print was sent to William Crookes in 1901.",
+    "metadata": {
+      "DateTime": {
+        "value": "2014-10-24 17:38:58",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Nikola Tesla, with his equipment",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "William Crookes|Files with no machine-readable author|Double exposure|Electrical phenomena|Images uploaded by Fæ|Artworks without Wikidata item|1901-06-17|PD US expired|Black and white photographs of Colorado|Black and white photographs of the United States in the 1890s|December 1899 in Colorado|December 1899 United States photographs|Dickenson V. Alley|Electric discharge from Tesla coils|Colorado Springs Tesla Laboratory",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Famous photograph of Serbian-American inventor <a href=\"https://en.wikipedia.org/wiki/Nikola_Tesla\" class=\"extiw\" title=\"w:Nikola Tesla\">Nikola Tesla</a> in his laboratory in Colorado Springs around 1899, supposedly sitting reading next to his giant \"<a href=\"https://en.wikipedia.org/wiki/magnifying_transmitter\" class=\"extiw\" title=\"w:magnifying transmitter\">magnifying transmitter</a>\" high voltage generator while the machine produced huge bolts of electricity.  The photo was a promotional stunt by photographer Dickenson V. Alley; a double exposure. First the machine's huge sparks were photographed in the darkened room, then the photographic plate was exposed again with the machine off and Tesla sitting in the chair.  In his <i>Colorado Springs Notes</i> Tesla admitted that the photo is false:  \n<dl><dd>\"<i>Of course, the discharge was playing when the experimenter was photographed, as might be imagined!</i>\"</dd></dl>\n<p>Tesla's biographers Carl Willis and Mark Seifer confirm this.\n</p>\nDuring 1899-1900 Tesla built this laboratory and researched <a href=\"https://en.wikipedia.org/wiki/wireless_power\" class=\"extiw\" title=\"w:wireless power\">wireless transmission of electric power</a> there. The Magnifying Transmitter, one of the largest <a href=\"https://en.wikipedia.org/wiki/Tesla_coil\" class=\"extiw\" title=\"w:Tesla coil\">Tesla coils</a> ever built, with input power of 300 kW could produce potentials of around 12 million volts at a frequency of about 150 kHz, creating 130 ft. (41 m) \"lightning bolts\". The arcs in the image are 22 feet long. When he first turned it on, the machine blew out the Colorado Springs power company's generator. These long arcs were not a feature of the normal operation of the coil because they wasted energy; for these photos Tesla forced the machine to produce arcs by switching the power rapidly on and off.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "circa 1899<div style=\"display: none;\">date QS:P571,+1899-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/4c/6e/da5709a57832dbbb048ba4a17fe6.jpg\">https://wellcomeimages.org/indexplus/obf_images/4c/6e/da5709a57832dbbb048ba4a17fe6.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/M0014782.html\">https://wellcomeimages.org/indexplus/image/M0014782.html</a></li>\n<li>Photographer: Dickenson V. Alley</li>\n<li>Wellcome Collection gallery (2018-03-31): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/zncts6ch\">https://wellcomecollection.org/works/zncts6ch</a></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "tower",
+    "verifiedAt": "2026-10-15",
+    "source": "https://commons.wikimedia.org/wiki/File:Tesla_Broadcast_Tower_1904.jpeg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tesla_Broadcast_Tower_1904.jpeg",
+    "originalSha256": "959cb1d24c21fdc38abd75bd01fda22753bf4a910b3c4d7e34fc605a12c543d9",
+    "credit": "Unknown photographer / Popular Electricity, June 1911, via Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Broadcast_Tower_1904.jpeg#Licensing",
+    "commercialReuse": true,
+    "processing": "Resized without upscaling and converted to WebP. No further cropping, recoloring or AI alteration. CC BY-SA derivatives retain CC BY-SA 4.0.",
+    "note": "Wardenclyffe wireless station, dated 1904 in the image record and published in Popular Electricity in June 1911. The tower stands behind the laboratory, not on its roof. The Commons file has documented border cropping.",
+    "metadata": {
+      "DateTime": {
+        "value": "2016-10-08 12:26:06",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Tesla Broadcast Tower 1904",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Wardenclyffe Tower|Global atmospheric electrical circuit|PD US expired|Template Unknown (author)|Inventions by Nikola Tesla",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Nikola_Tesla\" class=\"extiw\" title=\"w:Nikola Tesla\">Nikola Tesla</a>'s <a href=\"https://en.wikipedia.org/wiki/Wardenclyffe_tower\" class=\"extiw\" title=\"w:Wardenclyffe tower\">Wardenclyffe wireless station</a>, located in <a href=\"https://en.wikipedia.org/wiki/Shoreham,_New_York\" class=\"extiw\" title=\"w:Shoreham, New York\">Shoreham, New York</a>, seen in 1904.  The 187 foot (57 m) transmitting tower appears to rise from the building but actually stands on the ground behind it.  Built by Tesla from 1901 to 1904 with backing from Wall Street banker <a href=\"https://en.wikipedia.org/wiki/J._P._Morgan\" class=\"extiw\" title=\"w:J. P. Morgan\">J. P. Morgan</a>, the experimental facility was intended to be a transatlantic <a href=\"https://en.wikipedia.org/wiki/radiotelegraphy\" class=\"extiw\" title=\"w:radiotelegraphy\">radiotelegraphy</a> station and <a href=\"https://en.wikipedia.org/wiki/wireless_power\" class=\"extiw\" title=\"w:wireless power\">wireless power</a> transmitter, but was never completed.  The tower was torn down in 1916 but the lab building, designed by noted New York architect <a href=\"https://en.wikipedia.org/wiki/Stanford_White\" class=\"extiw\" title=\"w:Stanford White\">Stanford White</a> remains.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1904",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<ul><li>Retrieved from <a rel=\"nofollow\" class=\"external free\" href=\"http://www.sftesla.org/images/Tesla_Broadcast_Tower.JPG\">http://www.sftesla.org/images/Tesla_Broadcast_Tower.JPG</a></li>\n<li>Previously published in <a rel=\"nofollow\" class=\"external text\" href=\"https://books.google.com/books?id=ELAeAQAAMAAJ&amp;pg=PA98-IA3\">Arthur B. Reeve, \"Tesla and his Wireless Age\" in <i>Popular Electricity</i> magazine, Popular Electricity Publishing Co., Chicago, Vol. 4, No. 2, June 1911, p. 97</a></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<p>Unknown author<span style=\"display: none;\">Unknown author</span>\n</p>\n(Life time: Unattributed)",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+]

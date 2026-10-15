@@ -1,0 +1,164 @@
+{
+  "portrait": {
+    "src": "/articles/tesla/portrait.webp",
+    "width": 585,
+    "height": 885,
+    "credit": "Napoleon Sarony / Harvard Art Museums, via Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla_by_Sarony_c1893.jpg#Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla_by_Sarony_c1893.jpg",
+    "copy": {
+      "en": {
+        "alt": "Portrait of Nikola Tesla by Napoleon Sarony",
+        "caption": "Nikola Tesla, photographed by Napoleon Sarony between 1890 and 1896. Albumen silver print on card."
+      },
+      "fr": {
+        "alt": "Portrait de Nikola Tesla par Napoleon Sarony",
+        "caption": "Nikola Tesla, photographié par Napoleon Sarony entre 1890 et 1896. Tirage à l’albumine sur carton."
+      },
+      "es": {
+        "alt": "Retrato de Nikola Tesla por Napoleon Sarony",
+        "caption": "Nikola Tesla, fotografiado por Napoleon Sarony entre 1890 y 1896. Copia a la albúmina sobre cartón."
+      },
+      "ar": {
+        "alt": "صورة نيكولا تسلا بعدسة نابليون ساروني",
+        "caption": "نيكولا تسلا بعدسة نابليون ساروني بين 1890 و1896. طبعة فضية بالألبومين على ورق مقوّى."
+      }
+    }
+  },
+  "motor": {
+    "src": "/articles/tesla/motor.webp",
+    "width": 926,
+    "height": 764,
+    "credit": "Nikola Tesla Museum / Wikimedia Commons, CC BY-SA 4.0",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_Induction_Motor_from_1888.png",
+    "copy": {
+      "en": {
+        "alt": "Museum photograph of a model of Tesla’s 1888 induction motor under a transparent cover",
+        "caption": "Museum photograph of an induction-motor model associated with Tesla’s 1888 work, identified by the Nikola Tesla Museum with patent 382,279. This is a photograph of a museum object, not a photograph taken in 1888; the record does not establish the date of this photograph."
+      },
+      "fr": {
+        "alt": "Photographie muséale d’un modèle du moteur à induction de Tesla de 1888 sous une protection transparente",
+        "caption": "Photographie d’un modèle de moteur lié aux travaux de Tesla de 1888, associé au brevet 382 279 par le musée Nikola Tesla. C’est un objet muséal photographié, pas une photographie prise en 1888 ; la notice ne précise pas la date de la prise de vue."
+      },
+      "es": {
+        "alt": "Fotografía de museo de un modelo del motor de inducción de Tesla de 1888 bajo una cubierta transparente",
+        "caption": "Fotografía de un modelo de motor relacionado con el trabajo de Tesla de 1888, vinculado por el Museo Nikola Tesla a la patente 382.279. Es una fotografía de un objeto de museo, no una fotografía tomada en 1888; la ficha no establece la fecha de la toma."
+      },
+      "ar": {
+        "alt": "صورة متحفية لنموذج محرك تسلا الحثي المرتبط بعام 1888 تحت غطاء شفاف",
+        "caption": "صورة متحفية لنموذج محرك مرتبط بأعمال تسلا لعام 1888، يربطه متحف نيكولا تسلا بالبراءة 382279. هذه صورة لقطعة متحفية وليست صورة التُقطت سنة 1888؛ ولا يحدد السجل تاريخ التصوير."
+      }
+    }
+  },
+  "niagara": {
+    "src": "/articles/tesla/niagara.webp",
+    "width": 5000,
+    "height": 3589,
+    "credit": "Historic American Buildings Survey / Library of Congress, HABS NY,32-NIAF,3-5; original photographer unknown",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Photocopy_of_photograph_Photographer_and_date_unknown_GENERATOR_-_Edward_D._Adams_Station_Power_Plant,_Niagara_River_and_Buffalo_Avenue,_Niagara_Falls,_Niagara_County,_NY_HABS_NY,32-NIAF,3-5.tif#Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Photocopy_of_photograph_Photographer_and_date_unknown_GENERATOR_-_Edward_D._Adams_Station_Power_Plant,_Niagara_River_and_Buffalo_Avenue,_Niagara_Falls,_Niagara_County,_NY_HABS_NY,32-NIAF,3-5.tif",
+    "copy": {
+      "en": {
+        "alt": "Historical photograph of a large generator inside the Edward D. Adams power station at Niagara Falls",
+        "caption": "Generator at the Edward D. Adams Station, Niagara Falls. Archival copy photograph held by the Library of Congress; the original photographer and date are unknown. It is not presented as a photograph of the 1895 opening."
+      },
+      "fr": {
+        "alt": "Photographie historique d’un grand générateur dans la centrale Edward D. Adams à Niagara",
+        "caption": "Générateur de la centrale Edward D. Adams, Niagara. Copie photographique d’archives conservée par la Bibliothèque du Congrès ; auteur et date de l’original inconnus. Ce n’est pas une photographie identifiée de l’ouverture de 1895."
+      },
+      "es": {
+        "alt": "Fotografía histórica de un gran generador en la central Edward D. Adams de Niagara",
+        "caption": "Generador de la central Edward D. Adams, Niagara. Copia fotográfica de archivo de la Biblioteca del Congreso; se desconocen fotógrafo y fecha originales. No se presenta como imagen de la inauguración de 1895."
+      },
+      "ar": {
+        "alt": "صورة تاريخية لمولد كبير داخل محطة إدوارد دي آدمز في نياغارا",
+        "caption": "مولد في محطة إدوارد دي آدمز بنياغارا. نسخة تصويرية أرشيفية محفوظة في مكتبة الكونغرس؛ مصور الأصل وتاريخه مجهولان. لا تُقدَّم بوصفها صورة لافتتاح سنة 1895."
+      }
+    }
+  },
+  "lab": {
+    "src": "/articles/tesla/lab.webp",
+    "width": 1152,
+    "height": 1503,
+    "credit": "Nikola Tesla Museum / Wikimedia Commons, CC BY-SA 4.0",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla_in_his_laboratory_in_New_York.jpg",
+    "copy": {
+      "en": {
+        "alt": "Tesla seated before a spiral high-frequency transformer coil in his New York laboratory",
+        "caption": "Tesla in his laboratory at 46 Houston Street, New York, 1896, as dated by the Nikola Tesla Museum. The spiral winding behind him is part of a high-frequency transformer."
+      },
+      "fr": {
+        "alt": "Tesla assis devant la bobine en spirale d’un transformateur à haute fréquence dans son laboratoire new-yorkais",
+        "caption": "Tesla au laboratoire du 46 Houston Street, New York, en 1896 selon le musée Nikola Tesla. L’enroulement derrière lui appartient à un transformateur à haute fréquence."
+      },
+      "es": {
+        "alt": "Tesla sentado ante una bobina espiral de un transformador de alta frecuencia en su laboratorio de Nueva York",
+        "caption": "Tesla en su laboratorio de 46 Houston Street, Nueva York, en 1896 según el Museo Nikola Tesla. La espiral situada detrás forma parte de un transformador de alta frecuencia."
+      },
+      "ar": {
+        "alt": "تسلا جالس أمام ملف حلزوني لمحولة عالية التردد في مختبره بنيويورك",
+        "caption": "تسلا في مختبره في 46 شارع هيوستن بنيويورك سنة 1896، بحسب تأريخ متحف نيكولا تسلا. الملف الحلزوني خلفه جزء من محولة عالية التردد."
+      }
+    }
+  },
+  "colorado": {
+    "src": "/articles/tesla/colorado.webp",
+    "width": 7441,
+    "height": 5619,
+    "credit": "Dickenson V. Alley / Wellcome Collection, M0014782, via Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg#Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg",
+    "copy": {
+      "en": {
+        "alt": "Double-exposure archival photograph combining seated Tesla and electrical discharges in the Colorado Springs laboratory",
+        "caption": "Colorado Springs, circa 1899. An authentic historical double exposure: the discharges and Tesla seated beside the magnifying transmitter were photographed separately. This inscribed print was sent to William Crookes in 1901."
+      },
+      "fr": {
+        "alt": "Photographie d’archives à double exposition réunissant Tesla assis et les décharges du laboratoire de Colorado Springs",
+        "caption": "Colorado Springs, vers 1899. Double exposition historique authentique : les décharges et Tesla assis près du transmetteur amplificateur ont été photographiés séparément. Ce tirage dédicacé fut envoyé à William Crookes en 1901."
+      },
+      "es": {
+        "alt": "Fotografía histórica de doble exposición que combina a Tesla sentado y descargas en Colorado Springs",
+        "caption": "Colorado Springs, hacia 1899. Doble exposición histórica auténtica: las descargas y Tesla junto al transmisor amplificador se fotografiaron por separado. Esta copia dedicada se envió a William Crookes en 1901."
+      },
+      "ar": {
+        "alt": "صورة أرشيفية بتعريض مزدوج تجمع تسلا جالساً والتفريغات الكهربائية في مختبر كولورادو سبرينغز",
+        "caption": "كولورادو سبرينغز، نحو 1899. صورة تاريخية أصلية بتعريض مزدوج: صُوّرت التفريغات وتسلا الجالس قرب المرسل المكبّر كل على حدة. أُرسلت هذه الطبعة الموقعة إلى ويليام كروكس سنة 1901."
+      }
+    }
+  },
+  "tower": {
+    "src": "/articles/tesla/tower.webp",
+    "width": 472,
+    "height": 512,
+    "credit": "Unknown photographer / Popular Electricity, June 1911, via Wikimedia Commons",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Broadcast_Tower_1904.jpeg#Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Tesla_Broadcast_Tower_1904.jpeg",
+    "copy": {
+      "en": {
+        "alt": "Wardenclyffe Tower rising behind the brick laboratory on Long Island",
+        "caption": "Wardenclyffe wireless station, dated 1904 in the image record and published in Popular Electricity in June 1911. The tower stands behind the laboratory, not on its roof. The Commons file has documented border cropping."
+      },
+      "fr": {
+        "alt": "Tour de Wardenclyffe derrière le laboratoire en briques de Long Island",
+        "caption": "Station de Wardenclyffe, datée de 1904 dans la notice et publiée dans Popular Electricity en juin 1911. La tour se trouve derrière le laboratoire, pas sur son toit. Le fichier Commons comporte un recadrage documenté des bordures."
+      },
+      "es": {
+        "alt": "Torre Wardenclyffe detrás del laboratorio de ladrillo en Long Island",
+        "caption": "Estación Wardenclyffe, fechada en 1904 en la ficha y publicada en Popular Electricity en junio de 1911. La torre está detrás del laboratorio, no sobre su tejado. El archivo Commons incluye un recorte de bordes documentado."
+      },
+      "ar": {
+        "alt": "برج واردنكليف خلف المختبر المبني بالطوب في لونغ آيلاند",
+        "caption": "محطة واردنكليف اللاسلكية، مؤرخة في سجل الصورة بسنة 1904 ومنشورة في Popular Electricity في يونيو 1911. يقف البرج خلف المختبر لا فوق سقفه. تتضمن نسخة كومنز اقتصاصاً موثقاً للحواف."
+      }
+    }
+  }
+}

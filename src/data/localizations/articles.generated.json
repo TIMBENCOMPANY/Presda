@@ -233658,6 +233658,900 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/nikola-tesla-genius-helped-electrify-world/",
+    "path": "/ar/articles/nikola-tesla-genius-helped-electrify-world/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-15",
+      "terminologyChecked": true
+    },
+    "title": "نيكولا تسلا: العبقري الذي ساعد على كهربة العالم",
+    "seoTitle": "نيكولا تسلا: اختراعاته والتيار المتناوب وحقيقة الأساطير",
+    "description": "من المحرك الحثي ونياغارا إلى الراديو وواردنكليف: سيرة موثقة لنيكولا تسلا بصور أرشيفية أصلية وتمييز بين الإنجازات والأساطير.",
+    "excerpt": "من المحرك الحثي ونياغارا إلى الراديو وواردنكليف: سيرة موثقة لنيكولا تسلا بصور أرشيفية أصلية وتمييز بين الإنجازات والأساطير.",
+    "headlineHighlights": {
+      "red": "نيكولا تسلا",
+      "gold": "كهربة العالم"
+    },
+    "keywords": [
+      "نيكولا تسلا",
+      "Tesla",
+      "Westinghouse"
+    ],
+    "searchIntent": "من المحرك الحثي ونياغارا إلى الراديو وواردنكليف: سيرة موثقة لنيكولا تسلا بصور أرشيفية أصلية وتمييز بين الإنجازات والأساطير.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "image": {
+      "src": "/articles/tesla-hero.png",
+      "alt": "تصور فني لنيكولا تسلا جالساً في مختبر كهربائي قديم مع ملفات ورسوم هندسية."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "في صورة أرشيفية من كولورادو سبرينغز، يجلس نيكولا تسلا هادئاً تحت عاصفة من الشرر الكهربائي. يحمل كتاباً، فيما تشق فروع بيضاء من الضوء ظلام المختبر فوقه. إنها من صور العلم التي يصعب نسيانها، لكنها أيضاً درس في صناعة الأسطورة. فصورة كولورادو سبرينغز أُنتجت بتعريض مزدوج: صُوّر تسلا والتفريغ الكهربائي كل على حدة. كانت الأجهزة حقيقية، أما اللامبالاة الظاهرة بالخطر فكانت إخراجاً فوتوغرافياً."
+      },
+      {
+        "type": "paragraph",
+        "text": "تستحق حياته الفصل نفسه بين الإنجاز والاستعراض. أسهم تسلا في تحويل محركات التيار المتناوب ومنظوماته إلى تقنيات صناعية مؤثرة، واستكشف الكهرباء عالية التردد وعرض التحكم اللاسلكي. لكنه أيضاً تابع مشروعات فاشلة وطرح ادعاءات لم تثبتها التجارب. لا تنقص هذه التمييزات أهميته؛ بل تجعل قصته أكثر إثارة عندما يظهر المهندس خلف صورة الساحر."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "طفولة سبقت العصر الكهربائي"
+      },
+      {
+        "type": "paragraph",
+        "text": "وُلد تسلا في 10 يوليو 1856 في سميلْيان، التي كانت ضمن الإمبراطورية النمساوية وتقع اليوم في كرواتيا، ونشأ في أسرة صربية أرثوذكسية. كان والده ميلوتين كاهناً، وكانت والدته جوكا تصنع أدوات منزلية عملية رغم عدم حصولها على تعليم نظامي. وقد نسب تسلا إليها موهبة ابتكارية. اجتمع الطموح الفكري والمهارة اليدوية في ذلك البيت قبل أن يتحولا إلى مهنة بالنسبة إليه. [متحف نيكولا تسلا: تاريخ الأسرة](https://artsandculture.google.com/story/the-genius-of-nikola-tesla-it-runs-in-the-family-nikola-tesla-museum/hAUR_LMwKdkBIw?hl=en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "درس في كارلوفاتس، والتحق بالمعهد التقني العالي في غراتس سنة 1875، لكنه لم يتخرج. وفي براغ حضر محاضرات من دون إكمال شهادة جامعية. وهذا تمييز مهم: لا ينبغي الخلط بين التكريمات الفخرية التي حصل عليها لاحقاً والمؤهلات التي نالها طالباً. واستمر تعليمه العملي في قطاع الهاتف ببودابست، ثم في الصناعة الكهربائية الأوروبية المتوسعة. [مركز تسلا التذكاري: التسلسل الزمني](https://mcnikolatesla.hr/lenta-vremena-nikole-tesle/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وصف تسلا في ذكرياته كيف كان يتخيل الآليات قبل بنائها. تكشف هذه الشهادة عن فهمه لإبداعه، لكنها ليست قياساً تجريبياً لعقل خارق. فقد تضمنت بداياته أيضاً أعمال الهندسة المعتادة: إصلاح الآلات، وفهم الأعطال، والعثور على من يقبل تمويل محاولة جديدة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "نيويورك سنة 1884: داخل عالم إديسون"
+      },
+      {
+        "type": "paragraph",
+        "text": "وصل تسلا إلى الولايات المتحدة سنة 1884 بعد عمله لدى مؤسسة كونتيننتال إديسون في أوروبا. وفي ورش إديسون للآلات بنيويورك تعامل مع تجهيزات التيار المستمر. كانت مؤسسة إديسون تبني منظومة تجارية كاملة، لا مجرد مصباح أفضل: مولدات وأسلاك ومفاتيح وعدادات ومستخدمون يجب أن تعمل عناصرها معاً. [سميثسونيان: حياة إديسون الابتكارية](https://invention.si.edu/invention-stories/thomas-edisons-inventive-life)"
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت العلاقة المهنية قصيرة. غادر تسلا ليعمل مستقلاً، بما في ذلك تطوير الإضاءة بالقوس الكهربائي، قبل أن يجد دعماً لتجاربه على المحركات. تحوّل بعض السير هذا الانفصال إلى مواجهة مثالية بين الاستغلال والعبقرية. أما روايات المكافأة الضخمة الموعودة فتستند بدرجة كبيرة إلى ذكريات لاحقة، ولا يصح تقديمها كعقد عمل موثق بالكامل. كان الخلاف الأعمق متعلقاً بالأولويات الهندسية والحوافز التجارية وشكل الشبكة الكهربائية المقبلة."
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يمكن اختزال أحد الرجلين في كونه نقيض الآخر. كان إديسون يبني منظومات بالتجربة، واستثمرت شركاته في بنية التيار المستمر. ورأى تسلا فرصاً في التيارات التي يتغير اتجاهها. أما الصراع اللاحق فشمل شركات وبراءات ومستثمرين ومخاوف عامة، متجاوزاً بكثير علاقة عمل غير موفقة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "المحرك الذي جعل المجال المغناطيسي يدور"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحوّل المحرك الحثي الطاقة الكهربائية إلى حركة من دون الحاجة إلى تلامس كهربائي انزلاقي لتغذية الجزء الدوار مباشرة. تولّد التيارات المتناوبة في ملفات ثابتة مجالاً مغناطيسياً متغيراً. وعند ترتيب فروق التوقيت بينها بصورة مناسبة يدور المجال، فيحث تيارات داخل الجزء الدوار وينتج عن التفاعل عزم دوران. يتبع المحور المجال المتحرك مع فرق السرعة اللازم لحدوث الحث."
+      },
+      {
+        "type": "paragraph",
+        "text": "استخدم نهج تسلا متعدد الأطوار تيارات متناوبة متزاحة زمنياً. وبدلاً من الاعتماد على نبضة واحدة، نسّق عدة أطوار لإنتاج تأثير دوراني. شملت براءاته سنة 1888 محركات وترتيبات مرتبطة بتوزيع الكهرباء. كان الاختراع آلة وجزءاً من منظومة معاً. وتوضح الرسوم التقنية هذا الطموح بصورة أدق من القول إنه ببساطة «اخترع الكهرباء». [البراءة الأمريكية 381968](https://patents.google.com/patent/US381968A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لم يكن وحده. درس غاليليو فيراريس المجالات المغناطيسية الدوارة بصورة مستقلة، وعرض أبحاثه عن المحركات في مارس 1888، قبل محاضرة تسلا في مايو أمام المعهد الأمريكي للمهندسين الكهربائيين. ثم طوّر ميخائيل دوليفو دوبروفولسكي آلات مهمة ثلاثية الأطوار. كان تأثير تسلا استثنائياً، لكن تاريخاً متعدد الرواد أدق من منافسة لا تسمح إلا بفائز شرعي واحد. [IEEE Spectrum: محركات سنة 1888](https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "وستنغهاوس وحرب التيارات"
+      },
+      {
+        "type": "paragraph",
+        "text": "حصل جورج وستنغهاوس على حقوق في براءات تسلا الخاصة بالتيار المتناوب سنة 1888، ووفر موارد صناعية لتطويرها. ويربط المحرك المحفوظ في سميثسونيان بين البراءات والمعدات المصنّعة. فالمبدأ القابل للعمل يحتاج إلى مواد وطرق إنتاج وموثوقية وسوق. قدم تسلا ملكية فكرية أساسية، وساعدت مؤسسة وستنغهاوس على تحويلها إلى نشاط صناعي. [سميثسونيان: محرك وستنغهاوس](https://www.si.edu/object/westinghouse-alternating-current-induction-motor:nmah_713594)"
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت ميزة توزيع التيار المتناوب كبيرة خصوصاً قبل ظهور إلكترونيات القدرة الحديثة. ترفع المحولات الجهد للنقل ثم تخفضه قرب المستهلكين. وعند نقل القدرة نفسها، يعني الجهد الأعلى تياراً أقل، بينما تتناسب الفواقد المقاومة مع مربع شدة التيار. وهكذا تتبدد طاقة أقل في صورة حرارة على الخطوط. كانت الحجة الاقتصادية تُقاس بالنحاس والمسافة والوقود."
+      },
+      {
+        "type": "paragraph",
+        "text": "تحولت حرب التيارات أيضاً إلى صراع على السلامة والثقة العامة. كان الجهد العالي قاتلاً، لكن العروض المسرحية والدعاية لا تثبت أن منظومة كاملة آمنة والأخرى غير مقبولة بطبيعتها. السؤال العملي هو كيفية تصميم الشبكة وحمايتها وتشغيلها. هيمن التيار المتناوب لاحقاً على التوزيع الواسع، وبقي المستمر مفيداً وله اليوم أدوار مهمة في الإلكترونيات والبطاريات والنقل عالي الجهد. نادراً ما يعني الانتصار التقني اختفاء الحلول الأخرى."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "أضواء شيكاغو وآلات نياغارا"
+      },
+      {
+        "type": "paragraph",
+        "text": "في المعرض الكولومبي العالمي بشيكاغو سنة 1893، وفرت وستنغهاوس منظومة إضاءة بالتيار المتناوب، وعرضت تقنية تسلا متعددة الأطوار. أصبحت الكهرباء مشهداً عاماً إلى جانب كونها خدمة صناعية. وتحفظ سجلات سميثسونيان وثائق عن ذلك العرض. جعل المعرض بنية جديدة مرئية لجمهور ربما لم يقرأ براءة اختراع قط. [سميثسونيان: عرض المنظومة متعددة الأطوار سنة 1893](https://www.si.edu/object/archives/components/sova-nmah-ac-0069-ref3939)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قدمت شلالات نياغارا اختباراً أصعب. بدأت محطة آدمز تزويد الصناعة المحلية بالكهرباء في 26 أغسطس 1895، ووصلت الطاقة إلى بافالو سنة 1896. اعتمد الإنجاز على توربينات ومولدات ومحولات وتجهيزات نقل وهندسة منسقة، لا على مخترع منفرد بجوار شلال. كانت براءات تسلا مهمة للمنظومة متعددة الأطوار، لكن مهندسي وستنغهاوس وجنرال إلكتريك ومشاركين آخرين أسهموا في المشروع أيضاً. [IEEE: محطة آدمز](https://ethw.org/Milestones:Adams_Hydroelectric_Generating_Plant,_1895) [IEEE: لويس بي ستيلويل](https://ethw.org/Straphanger_History%3A_Lewis_B._Stillwell_and_Alternating_Current)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ما تغير هو جغرافيا الطاقة القابلة للاستخدام. لم تعد القدرة الميكانيكية مضطرة للبقاء بجوار العجلة المائية المنتجة لها؛ أمكن للكهرباء وصل موقع التوليد بمصانع بعيدة. لم تنشئ نياغارا الكهربة من العدم، بل أظهرت ما تستطيع المنظومات المترابطة الطموحة تحقيقه. اندمج نجاح تسلا الأشد بقاءً في بنية تحتية ستبدو لاحقاً عادية."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الملفات والرنين والمختبر بوصفه مسرحاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "خلال تسعينيات القرن التاسع عشر، استكشف تسلا الكهرباء عالية التردد والجهد. واقترن اسمه بملف تسلا، وهو ترتيب لمحولة رنينية قادر على إنتاج تفريغات لافتة. يسمح الرنين بتراكم الطاقة عبر اهتزازات متوافقة التوقيت، كما تزيد الدفعات المتتابعة حركة الأرجوحة. لكنه لا يخلق الطاقة؛ إذ يجب أن يوفر مصدر خارجي ما يخزنه الجهاز وينقله ويفقده. [البراءة الأمريكية 454622](https://patents.google.com/patent/US454622A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "بحثت التجارب في الإضاءة والعزل والسلوك الكهربائي خارج ترددات شبكات القدرة المعتادة. لكنها ليست تجارب آمنة ليعيدها الزائر بنفسه. فالجهد العالي وتيارات الترددات الراديوية يحملان أخطاراً جسيمة. كذلك لم يتحول كل تأثير مخبري إلى منتج عملي؛ فالأنبوب المضيء وبراءة الاختراع والخدمة الموثوقة تجيب عن أسئلة مختلفة."
+      },
+      {
+        "type": "paragraph",
+        "text": "تُظهر صورة مختبر نيويورك الأرشيفية تسلا أمام ملف حلزوني كبير. وهي توثق جهازاً حقيقياً، لكنها تظهر أيضاً مخترعاً يهتم بصورته العامة. وكما يشرح تحقيقنا عن تاريخ التصوير، قد تكون الصورة الأصلية معدّة مسبقاً أو انتقائية التأطير أو معالجة تقنياً. تحتاج الأدلة التاريخية إلى التفسير بقدر ما تستحق الإعجاب. [التصوير وبناء الصورة](/articles/invention-photography-first-photo-digital-age/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الراديو والتحكم عن بُعد: اختراع شارك فيه كثيرون"
+      },
+      {
+        "type": "paragraph",
+        "text": "في سنة 1898، عرض تسلا قارباً يُتحكم فيه عن بُعد، وحصل على براءة للتحكم في مركبات من دون اتصال مادي. فصلت الإشارات المرسلة المشغّل عن الآلية. كان ذلك عرضاً مبكراً مهماً للتحكم اللاسلكي، لا روبوتاً مستقلاً بالمعنى الحديث؛ فتلقي التعليمات واتخاذ القرار بصورة مستقلة قدرتان مختلفتان. [براءة تسلا للتحكم عن بُعد سنة 1898](https://patents.google.com/patent/US613809A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "نشأ الراديو من مساهمات متعددة شملت النظرية الكهرومغناطيسية والكشف التجريبي وضبط الدوائر والهوائيات وشبكات الاتصال العملية. تنتمي أعمال تسلا عالية التردد إلى هذا التاريخ إلى جانب هرتز ولودج وماركوني. أما نسبة جميع العناصر الأساسية إلى فرد واحد فتخفي الطبيعة التراكمية للتقنية."
+      },
+      {
+        "type": "paragraph",
+        "text": "كثيراً ما يُقدَّم حكم المحكمة العليا الأمريكية في قضية ماركوني سنة 1943 على أنه إعلان بأن تسلا وحده اخترع الراديو. لكنه حكم بشأن مطالبات محددة في براءات وأعمال سابقة، منها أعمال تسلا ولودج وجون ستون ستون. إبطال مطالبات في براءة متنازع عليها لا يساوي منح شخص واحد ملكية فكرية تاريخية لمجال تقني كامل. [حكم ماركوني ضد الولايات المتحدة سنة 1943](https://supreme.justia.com/cases/federal/us/320/1/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "كولورادو سبرينغز: شرر وأسئلة مفتوحة"
+      },
+      {
+        "type": "paragraph",
+        "text": "في سنة 1899، أنشأ تسلا مختبراً تجريبياً في كولورادو سبرينغز. أتاحت أجهزته الكبيرة دراسة الاهتزازات والتفريغات والنقل اللاسلكي بحجم يصعب استيعابه في مانهاتن. تعود الصورة الشهيرة المنشورة هنا إلى تلك الفترة. جمع التعريض المزدوج الشرر مع المخترع الجالس؛ فلم يكن يقرأ وسط تلك التفريغات وهي تعمل. [سجل صورة ويلكوم الأرشيفية](https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg)"
+      },
+      {
+        "type": "paragraph",
+        "text": "فسّر تسلا ملاحظاته بوصفها دعماً لطموح أوسع: إرسال قدرة مفيدة لمسافات كبيرة من دون أسلاك تقليدية. والتمييز بين الملاحظة والاستنتاج أساسي. فتوليد تفريغ أو إضاءة جهاز استقبال قريب لا يثبت إمكان إنشاء شبكة كهرباء عالمية عالية الكفاءة. تصبح المسافة والاقتران والفواقد والتداخل والسلامة عوامل حاسمة عند توسيع نطاق الظاهرة المخبرية."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "واردنكليف: برج أكبر من تمويله"
+      },
+      {
+        "type": "paragraph",
+        "text": "ابتداءً من سنة 1901، طوّر تسلا مشروع واردنكليف في لونغ آيلاند بدعم مالي من جيه بي مورغان. ارتفع برج طويل خلف مختبر صممه ستانفورد وايت. تخيل تسلا اتصالات لاسلكية عالمية، وسعى كذلك إلى نقل الطاقة الكهربائية. لكن اشتراك المعلومات والقدرة في الاعتماد على ظواهر كهرومغناطيسية لا يجعل متطلباتهما الهندسية قابلة للتبادل. [مركز تسلا العلمي: واردنكليف](https://teslasciencecenter.org/history/tower/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "واجه المشروع صعوبات مالية ولم يتحول إلى المنظومة العالمية العاملة التي أرادها تسلا. وهُدم البرج غير المكتمل سنة 1917. كثيراً ما يعاد تفسير الفشل كدليل على قمع الممولين كهرباء مجانية غير محدودة. لا تثبت الأدلة الباقية وجود جهاز عامل يوفر طاقة بلا حدود ومن دون مصدر. يفسر الانهيار المالي توقف البناء، لكنه لا يثبت صحة الفيزياء المقترحة."
+      },
+      {
+        "type": "paragraph",
+        "text": "يبين الشحن اللاسلكي اليوم إمكان نقل القدرة من دون كابل ضمن مسافات وترتيبات مناسبة. لكنه لا يثبت بأثر رجعي كل عناصر مشروع تسلا الكوكبي. يؤكد التحليل التقني لدى IEEE صعوبة نقل الطاقة بكفاءة بين أجهزة متباعدة. قد يلهم السؤال الرؤيوي أبحاثاً لاحقة حتى حين تفشل الإجابة الأولى. [IEEE Spectrum: حدود نقل القدرة لاسلكياً](https://spectrum.ieee.org/a-critical-look-at-wireless-power)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "براءات وخيبات والسنوات الأخيرة"
+      },
+      {
+        "type": "paragraph",
+        "text": "واصل تسلا تطوير اختراعات، منها توربين يستخدم أقراصاً متقاربة بدلاً من الريش التقليدية. وتغطي براءاته مجالات كهربائية وميكانيكية. يدل هذا الاتساع على ابتكار مستمر، لكن أعداد البراءات قد تتضخم عند احتساب الاختراع نفسه في بلدان متعددة. تحمي البراءة مطالبات محددة؛ ولا تصادق على النجاح التجاري أو تثبت تحقيق كل أداء أُعلن عنه. [متحف نيكولا تسلا: مجموعة البراءات](https://tesla-museum.org/nikola-tesla/patenti/) [براءة توربين تسلا](https://patents.google.com/patent/US1061206A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "جمعت سنواته الأخيرة بين الاعتراف وتراجع الموارد. منحه المعهد الأمريكي للمهندسين الكهربائيين ميدالية إديسون سنة 1917، وهي واقعة لا تنسجم مع سيرة تقوم كلياً على الرفض الدائم. بقي معروفاً رغم تدهور وضعه المالي. وتوفي في نيويورك في 7 يناير 1943 عن 86 عاماً. كانت الفجوة بين طموحاته وظروفه حقيقية، ولا تحتاج إلى حوارات مختلقة أو تشخيصات طبية بأثر رجعي. [سميثسونيان: أوراق كينيث إم سويزي](https://www.si.edu/object/archives/sova-nmah-ac-0047)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ماذا يبقى عندما تتراجع الأساطير؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "هل اخترع تسلا التيار المتناوب؟ لا. كان إنجازه الأساسي تطوير محركات حثية ومنظومات متعددة الأطوار مهمة ضمن مجال نامٍ بالفعل. هل اكتشف طاقة مجانية بلا مصدر؟ لا يثبت أي جهاز متحقق منه خلق الطاقة من دون مدخل. هل اخترع وحده الراديو أو الحضارة الحديثة؟ لا. تستبدل هذه الادعاءات تاريخ الاكتشاف المشترك باختصار جذاب لكنه مضلل."
+      },
+      {
+        "type": "paragraph",
+        "text": "مع ذلك، يبقى تأثيره هائلاً. تظل المحركات الحثية أساسية للصناعة، وتحتل القدرة متعددة الأطوار موقعاً مركزياً في الشبكات. استفادت الآلات الحديثة من أجيال من التحسينات في المواد والتحكم والتصنيع. لا ينتقص الاعتراف بذلك من تسلا؛ بل يفسر كيف يتحول الاختراع إلى إرث بدلاً من قطعة منفردة في متحف."
+      },
+      {
+        "type": "paragraph",
+        "text": "ليست المقارنة الأكثر دلالة بين تسلا وإديسون، ولا بين العبقرية والمال، بل بين طريقتين لتذكر الاختراع. تبحث الأولى عن بطل خفي يجب أن تكون جميع ادعاءاته صحيحة. وتتبع الثانية الأفكار عبر التجارب والإخفاقات والورش والشبكات حتى تغير الحياة اليومية. ساعد تسلا على كهربة العالم بالمعنى الثاني الأكثر صعوبة. ولا تصبح الأضواء أقل إدهاشاً عندما نفهم العمل الكامن وراءها."
+      }
+    ],
+    "sources": [
+      {
+        "label": "متحف نيكولا تسلا: تاريخ الأسرة",
+        "url": "https://artsandculture.google.com/story/the-genius-of-nikola-tesla-it-runs-in-the-family-nikola-tesla-museum/hAUR_LMwKdkBIw?hl=en"
+      },
+      {
+        "label": "مركز تسلا التذكاري: التسلسل الزمني",
+        "url": "https://mcnikolatesla.hr/lenta-vremena-nikole-tesle/"
+      },
+      {
+        "label": "سميثسونيان: حياة إديسون الابتكارية",
+        "url": "https://invention.si.edu/invention-stories/thomas-edisons-inventive-life"
+      },
+      {
+        "label": "البراءة الأمريكية 381968",
+        "url": "https://patents.google.com/patent/US381968A/en"
+      },
+      {
+        "label": "IEEE Spectrum: محركات سنة 1888",
+        "url": "https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor"
+      },
+      {
+        "label": "سميثسونيان: محرك وستنغهاوس",
+        "url": "https://www.si.edu/object/westinghouse-alternating-current-induction-motor:nmah_713594"
+      },
+      {
+        "label": "سميثسونيان: عرض المنظومة متعددة الأطوار سنة 1893",
+        "url": "https://www.si.edu/object/archives/components/sova-nmah-ac-0069-ref3939"
+      },
+      {
+        "label": "IEEE: محطة آدمز",
+        "url": "https://ethw.org/Milestones:Adams_Hydroelectric_Generating_Plant,_1895"
+      },
+      {
+        "label": "IEEE: لويس بي ستيلويل",
+        "url": "https://ethw.org/Straphanger_History%3A_Lewis_B._Stillwell_and_Alternating_Current"
+      },
+      {
+        "label": "البراءة الأمريكية 454622",
+        "url": "https://patents.google.com/patent/US454622A/en"
+      },
+      {
+        "label": "براءة تسلا للتحكم عن بُعد سنة 1898",
+        "url": "https://patents.google.com/patent/US613809A/en"
+      },
+      {
+        "label": "حكم ماركوني ضد الولايات المتحدة سنة 1943",
+        "url": "https://supreme.justia.com/cases/federal/us/320/1/"
+      },
+      {
+        "label": "سجل صورة ويلكوم الأرشيفية",
+        "url": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg"
+      },
+      {
+        "label": "مركز تسلا العلمي: واردنكليف",
+        "url": "https://teslasciencecenter.org/history/tower/"
+      },
+      {
+        "label": "IEEE Spectrum: حدود نقل القدرة لاسلكياً",
+        "url": "https://spectrum.ieee.org/a-critical-look-at-wireless-power"
+      },
+      {
+        "label": "متحف نيكولا تسلا: مجموعة البراءات",
+        "url": "https://tesla-museum.org/nikola-tesla/patenti/"
+      },
+      {
+        "label": "براءة توربين تسلا",
+        "url": "https://patents.google.com/patent/US1061206A/en"
+      },
+      {
+        "label": "سميثسونيان: أوراق كينيث إم سويزي",
+        "url": "https://www.si.edu/object/archives/sova-nmah-ac-0047"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/nikola-tesla-genius-helped-electrify-world/",
+    "path": "/es/articles/nikola-tesla-genius-helped-electrify-world/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-15",
+      "terminologyChecked": true
+    },
+    "title": "NIKOLA TESLA: EL GENIO QUE AYUDÓ A ELECTRIFICAR EL MUNDO",
+    "seoTitle": "Nikola Tesla: inventos, corriente alterna y mitos",
+    "description": "Del motor de inducción y Niagara a la radio y Wardenclyffe: una biografía documentada de Tesla con fotografías históricas y los hechos detrás de los mitos.",
+    "excerpt": "Del motor de inducción y Niagara a la radio y Wardenclyffe: una biografía documentada de Tesla con fotografías históricas y los hechos detrás de los mitos.",
+    "headlineHighlights": {
+      "red": "NIKOLA TESLA",
+      "gold": "ELECTRIFICAR EL MUNDO"
+    },
+    "keywords": [
+      "NIKOLA TESLA",
+      "Tesla",
+      "Westinghouse"
+    ],
+    "searchIntent": "Del motor de inducción y Niagara a la radio y Wardenclyffe: una biografía documentada de Tesla con fotografías históricas y los hechos detrás de los mitos.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "image": {
+      "src": "/articles/tesla-hero.png",
+      "alt": "Reconstrucción artística de Nikola Tesla sentado en un antiguo laboratorio eléctrico con bobinas y planos técnicos."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "En una fotografía histórica de Colorado Springs, Nikola Tesla lee tranquilamente bajo una tormenta de chispas. Sobre el libro que sostiene, ramas de luz blanca atraviesan la oscuridad del laboratorio. Es una imagen inolvidable de la ciencia y también una lección sobre cómo nacen las leyendas. El retrato de Colorado Springs fue una doble exposición: Tesla y las descargas se fotografiaron por separado. El equipo era real. La aparente indiferencia ante el peligro era teatro fotográfico."
+      },
+      {
+        "type": "paragraph",
+        "text": "Su vida merece esa misma separación entre logro y espectáculo. Tesla contribuyó a convertir los motores y sistemas de corriente alterna en tecnologías industriales decisivas, exploró la electricidad de alta frecuencia y demostró el control inalámbrico. También persiguió proyectos fallidos y sostuvo afirmaciones que los experimentos nunca establecieron. Su importancia resiste esos matices. De hecho, resulta más interesante cuando el ingeniero ocupa el lugar del mago."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Una infancia anterior a la era eléctrica"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla nació el 10 de julio de 1856 en Smiljan, entonces parte del Imperio austríaco y hoy de Croacia, en una familia serbia ortodoxa. Su padre, Milutin, era sacerdote; su madre, Đuka, elaboraba ingeniosos utensilios domésticos pese a no haber recibido educación formal. Tesla reconocería su capacidad inventiva. En aquel hogar convivían la ambición intelectual y la habilidad manual mucho antes de convertirse para él en una profesión. [Museo Nikola Tesla: historia familiar](https://artsandculture.google.com/story/the-genius-of-nikola-tesla-it-runs-in-the-family-nikola-tesla-museum/hAUR_LMwKdkBIw?hl=en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estudió en Karlovac e ingresó en el centro técnico superior de Graz en 1875, pero no se graduó. En Praga asistió a clases sin completar una titulación. La distinción importa: los reconocimientos honoríficos posteriores no deben confundirse con títulos obtenidos como estudiante. Su aprendizaje práctico continuó en la telefonía de Budapest y en la creciente industria eléctrica europea. [Centro conmemorativo Tesla: cronología](https://mcnikolatesla.hr/lenta-vremena-nikole-tesle/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En sus recuerdos, Tesla describió cómo visualizaba mecanismos antes de construirlos. Ese testimonio ayuda a entender su concepción de la creatividad, pero no constituye una medición experimental de una mente milagrosa. Sus comienzos también incluyeron las tareas habituales de la ingeniería: reparar máquinas, comprender averías y encontrar personas dispuestas a financiar otro intento."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Nueva York, 1884: en el mundo de Edison"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla llegó a Estados Unidos en 1884 tras trabajar para la organización Continental Edison en Europa. En Edison Machine Works, en Nueva York, se ocupó de maquinaria de corriente continua. La empresa de Edison construía un sistema comercial completo, no solo una lámpara mejor: generadores, conductores, interruptores, contadores y clientes debían funcionar conjuntamente. [Smithsonian: la vida inventiva de Edison](https://invention.si.edu/invention-stories/thomas-edisons-inventive-life)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La colaboración fue breve. Tesla emprendió trabajos independientes, entre ellos la iluminación por arco, antes de conseguir apoyo para experimentar con motores. Algunas biografías convierten la separación en una confrontación perfecta entre explotación y genialidad. Las historias de una enorme bonificación prometida proceden en gran medida de relatos retrospectivos; no deben presentarse como un contrato laboral completamente documentado. El desacuerdo duradero concernía a prioridades técnicas, incentivos comerciales y al futuro de la red eléctrica."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ninguno de los dos puede reducirse al contrario del otro. Edison construía sistemas mediante la experimentación y sus empresas habían invertido en infraestructura de corriente continua. Tesla veía oportunidades en corrientes que cambiaban de dirección. La lucha posterior involucró compañías, patentes, inversores y temores públicos, mucho más allá de una relación laboral desafortunada."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "El motor que hizo girar un campo magnético"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un motor de inducción convierte energía eléctrica en movimiento sin necesitar un contacto eléctrico deslizante que alimente directamente el rotor. Corrientes alternas en bobinas estacionarias crean un campo magnético variable. Al ajustar sus desfases, el campo gira; induce corrientes en el rotor y la interacción produce par. El eje sigue al campo con la diferencia de velocidad necesaria para la inducción."
+      },
+      {
+        "type": "paragraph",
+        "text": "El enfoque polifásico de Tesla utilizaba corrientes alternas desfasadas en el tiempo. Coordinaba varias fases para generar un efecto giratorio. Sus patentes de 1888 incluían motores y disposiciones relacionadas con la distribución eléctrica. La invención era, por tanto, una máquina y parte de un sistema. Los planos expresan esa ambición con mucha más precisión que decir que Tesla simplemente «inventó la electricidad». [Patente estadounidense 381.968](https://patents.google.com/patent/US381968A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "No trabajaba solo en ese terreno. Galileo Ferraris investigó independientemente los campos magnéticos giratorios y presentó públicamente sus motores en marzo de 1888, antes de la conferencia de Tesla de mayo ante el American Institute of Electrical Engineers. Mijaíl Dolivo-Dobrovolski desarrolló después importantes máquinas trifásicas. La influencia de Tesla fue excepcional, pero una historia con varios pioneros resulta más exacta que una competición con un único vencedor legítimo. [IEEE Spectrum: motores de 1888](https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Westinghouse y la guerra de las corrientes"
+      },
+      {
+        "type": "paragraph",
+        "text": "George Westinghouse adquirió derechos sobre las patentes de corriente alterna de Tesla en 1888 y aportó recursos industriales para desarrollarlas. El motor Westinghouse conservado en el Smithsonian conecta las patentes con la fabricación. Un principio funcional necesitaba materiales, métodos, fiabilidad y mercado. Tesla proporcionó propiedad intelectual crucial; la organización de Westinghouse ayudó a convertirla en una actividad industrial. [Smithsonian: motor Westinghouse](https://www.si.edu/object/westinghouse-alternating-current-induction-motor:nmah_713594)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La distribución en corriente alterna ofrecía una ventaja especialmente importante antes de la electrónica de potencia moderna. Los transformadores elevaban la tensión para el transporte y la reducían cerca de los consumidores. Para una misma potencia, una tensión mayor implica una intensidad menor; las pérdidas resistivas dependen del cuadrado de esa intensidad. Por tanto, se disipaba menos energía en forma de calor en las líneas. Era un argumento económico medido en cobre, distancia y combustible."
+      },
+      {
+        "type": "paragraph",
+        "text": "La guerra de las corrientes también fue una batalla por la seguridad y la confianza. La alta tensión podía matar, pero la publicidad y las demostraciones teatrales no probaban que un sistema entero fuera seguro y el otro inaceptable. Había que diseñar, proteger y operar adecuadamente las redes. La alterna terminó dominando la distribución a gran escala; la continua siguió siendo útil y hoy es importante en electrónica, baterías y transmisión de alta tensión. Una victoria tecnológica rara vez elimina todas las alternativas."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Las luces de Chicago, las máquinas de Niagara"
+      },
+      {
+        "type": "paragraph",
+        "text": "En la Exposición Universal de Chicago de 1893, Westinghouse suministró un sistema de iluminación con corriente alterna y exhibió la tecnología polifásica de Tesla. La electricidad se convirtió en espectáculo público además de servicio industrial. Los archivos del Smithsonian conservan documentación de aquella exposición. La feria hizo visible una infraestructura emergente para personas que quizá nunca leerían una patente. [Smithsonian: exposición polifásica de 1893](https://www.si.edu/object/archives/components/sova-nmah-ac-0069-ref3939)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Niagara ofreció una demostración más exigente. La central Adams comenzó a suministrar electricidad a la industria local el 26 de agosto de 1895. La energía llegó a Buffalo en 1896. El logro dependía de turbinas, generadores, transformadores, transmisión e ingeniería coordinada, no de un inventor solitario ante una cascada. Las patentes de Tesla fueron importantes para el sistema polifásico, pero los ingenieros de Westinghouse, General Electric y otros participantes también dieron forma al proyecto. [IEEE: central Adams](https://ethw.org/Milestones:Adams_Hydroelectric_Generating_Plant,_1895) [IEEE: Lewis B. Stillwell](https://ethw.org/Straphanger_History%3A_Lewis_B._Stillwell_and_Alternating_Current)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lo que cambió fue la geografía de la energía útil. La potencia mecánica ya no debía permanecer junto a la rueda hidráulica que la producía: la electricidad conectaba la generación con fábricas distantes. Niagara no creó la electrificación de la nada; demostró las posibilidades de sistemas ambiciosos e interconectados. El éxito más duradero de Tesla quedó integrado en una infraestructura que acabaría pareciendo cotidiana."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Bobinas, resonancia y el laboratorio como escenario"
+      },
+      {
+        "type": "paragraph",
+        "text": "Durante la década de 1890, Tesla exploró altas frecuencias y tensiones. Su nombre quedó asociado a la bobina Tesla, un transformador resonante capaz de producir descargas espectaculares. La resonancia permite acumular energía mediante oscilaciones sincronizadas, como los impulsos repetidos amplían el movimiento de un columpio. No crea energía: una fuente externa debe aportar lo que el dispositivo almacena, transfiere y pierde. [Patente estadounidense 454.622](https://patents.google.com/patent/US454622A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estos experimentos investigaban iluminación, aislamiento y comportamientos eléctricos fuera de las frecuencias habituales de las redes. Su espectacularidad no los convierte en pruebas seguras para repetir en casa. La alta tensión y las corrientes de radiofrecuencia presentan riesgos graves. Tampoco todo efecto de laboratorio se convirtió en producto: un tubo iluminado, una patente y un servicio público fiable responden a exigencias distintas."
+      },
+      {
+        "type": "paragraph",
+        "text": "La fotografía histórica del laboratorio neoyorquino muestra a Tesla ante una gran bobina en espiral. Documenta equipo real, pero también a un inventor que cultivaba su imagen. Como explica nuestra historia de la fotografía, una imagen auténtica puede estar escenificada, encuadrada selectivamente o manipulada técnicamente. La evidencia histórica necesita interpretación además de admiración. [Fotografía y construcción de una imagen](/articles/invention-photography-first-photo-digital-age/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Radio y control remoto: una invención compartida"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1898, Tesla demostró un barco teledirigido y obtuvo una patente para controlar vehículos sin conexión física. Las señales separaban al operador del mecanismo. Fue una demostración temprana importante del control inalámbrico, no un robot autónomo moderno: recibir instrucciones y decidir de forma independiente son capacidades distintas. [Patente de control remoto de Tesla, 1898](https://patents.google.com/patent/US613809A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La radio surgió de numerosas contribuciones: teoría electromagnética, detección experimental, sintonización, antenas y redes prácticas de comunicación. Las investigaciones de Tesla pertenecen a esa historia junto a las de Hertz, Lodge y Marconi. Atribuir a una sola persona todos los elementos esenciales oculta la naturaleza acumulativa de la tecnología."
+      },
+      {
+        "type": "paragraph",
+        "text": "La sentencia Marconi del Tribunal Supremo estadounidense de 1943 suele presentarse como una declaración de que Tesla inventó por sí solo la radio. Fue una resolución sobre determinadas reivindicaciones de patente y trabajos anteriores, incluidos los de Tesla, Lodge y John Stone Stone. Invalidar reivindicaciones no equivale a conceder la autoría exclusiva de todo un campo tecnológico. [Sentencia Marconi contra Estados Unidos, 1943](https://supreme.justia.com/cases/federal/us/320/1/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Colorado Springs: chispas y preguntas abiertas"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1899, Tesla estableció un laboratorio experimental en Colorado Springs. Sus grandes equipos permitían estudiar oscilaciones, descargas y transmisión inalámbrica a una escala difícil de alojar en Manhattan. La célebre fotografía reproducida aquí pertenece a ese período. La doble exposición combinó las chispas y al inventor sentado: no estaba leyendo dentro de aquellas descargas activas. [Ficha de la fotografía histórica de Wellcome](https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla interpretó sus observaciones como apoyo a una ambición mayor: enviar potencia útil a grandes distancias sin cables convencionales. La diferencia entre observación e inferencia es esencial. Producir una descarga o iluminar un receptor cercano no demuestra una red eléctrica mundial eficiente. Distancia, acoplamiento, pérdidas, interferencias y seguridad resultan decisivos al aumentar la escala."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Wardenclyffe: una torre mayor que su financiación"
+      },
+      {
+        "type": "paragraph",
+        "text": "Desde 1901, Tesla desarrolló Wardenclyffe, en Long Island, con respaldo financiero de J. P. Morgan. Una alta torre se levantó detrás del laboratorio diseñado por Stanford White. Tesla imaginaba comunicaciones inalámbricas mundiales y perseguía además la transmisión de energía. Información y potencia pueden propagarse mediante fenómenos electromagnéticos sin que sus requisitos de ingeniería sean intercambiables. [Centro de Ciencias Tesla: Wardenclyffe](https://teslasciencecenter.org/history/tower/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las dificultades financieras impidieron que el proyecto se convirtiera en el sistema mundial operativo previsto. La torre inconclusa fue demolida en 1917. Su fracaso suele reinterpretarse como prueba de que los financieros suprimieron una electricidad gratuita e ilimitada. Los documentos no establecen la existencia de un aparato funcional que proporcionara energía infinita sin fuente energética. El colapso financiero explica la paralización de las obras; no valida la física propuesta."
+      },
+      {
+        "type": "paragraph",
+        "text": "La carga inalámbrica actual demuestra que transferir potencia sin cable es posible con distancias y configuraciones adecuadas. No prueba retrospectivamente cada parte del proyecto planetario de Tesla. El análisis técnico de IEEE subraya la dificultad de acoplar energía eficientemente entre dispositivos separados. Una pregunta visionaria puede inspirar investigaciones posteriores aunque falle la respuesta inicial. [IEEE Spectrum: límites de la potencia inalámbrica](https://spectrum.ieee.org/a-critical-look-at-wireless-power)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Patentes, decepciones y últimos años"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla siguió inventando, entre otras cosas una turbina con discos próximos en lugar de álabes convencionales. Sus patentes abarcan campos eléctricos y mecánicos. Esa amplitud demuestra inventiva sostenida, pero los totales pueden distorsionarse al contar una misma invención en varios países. Una patente protege reivindicaciones definidas; no certifica éxito comercial ni todas las prestaciones anunciadas. [Museo Nikola Tesla: colección de patentes](https://tesla-museum.org/nikola-tesla/patenti/) [Patente de turbina de Tesla](https://patents.google.com/patent/US1061206A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sus últimos años combinaron reconocimiento y recursos menguantes. El American Institute of Electrical Engineers le concedió la Medalla Edison en 1917, un detalle incómodo para una biografía basada únicamente en el rechazo. Siguió siendo conocido mientras empeoraban sus finanzas. Murió en Nueva York el 7 de enero de 1943, a los 86 años. La distancia entre sus ambiciones y sus circunstancias fue real; no necesita conversaciones inventadas ni diagnósticos médicos retrospectivos. [Smithsonian: archivo de Kenneth M. Swezey](https://www.si.edu/object/archives/sova-nmah-ac-0047)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "¿Qué queda cuando desaparecen los mitos?"
+      },
+      {
+        "type": "paragraph",
+        "text": "¿Inventó Tesla la corriente alterna? No. Desarrolló importantes sistemas polifásicos y motores de inducción dentro de un campo que ya crecía. ¿Descubrió energía gratuita sin fuente? Ningún aparato verificado demuestra creación de energía sin aporte. ¿Inventó solo la radio o la civilización moderna? No. Esas afirmaciones sustituyen la historia del descubrimiento compartido por un atajo halagador pero engañoso."
+      },
+      {
+        "type": "paragraph",
+        "text": "Su influencia sigue siendo inmensa. Los motores de inducción son fundamentales para la industria y la potencia polifásica ocupa un lugar central en las redes. Generaciones de mejoras en materiales, control y fabricación han transformado las máquinas modernas. Reconocerlo no reduce a Tesla: explica cómo una invención se convierte en legado y no en una pieza aislada de museo."
+      },
+      {
+        "type": "paragraph",
+        "text": "El contraste más revelador no enfrenta a Tesla con Edison ni al genio con el dinero. Separa dos formas de recordar la invención. Una busca un héroe oculto cuyas afirmaciones debían ser todas correctas. La otra sigue las ideas por experimentos, fracasos, talleres y redes hasta que cambian la vida cotidiana. Tesla ayudó a electrificar el mundo en ese segundo sentido, más exigente. Comprender el trabajo detrás de las luces no las hace menos extraordinarias."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Museo Nikola Tesla: historia familiar",
+        "url": "https://artsandculture.google.com/story/the-genius-of-nikola-tesla-it-runs-in-the-family-nikola-tesla-museum/hAUR_LMwKdkBIw?hl=en"
+      },
+      {
+        "label": "Centro conmemorativo Tesla: cronología",
+        "url": "https://mcnikolatesla.hr/lenta-vremena-nikole-tesle/"
+      },
+      {
+        "label": "Smithsonian: la vida inventiva de Edison",
+        "url": "https://invention.si.edu/invention-stories/thomas-edisons-inventive-life"
+      },
+      {
+        "label": "Patente estadounidense 381.968",
+        "url": "https://patents.google.com/patent/US381968A/en"
+      },
+      {
+        "label": "IEEE Spectrum: motores de 1888",
+        "url": "https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor"
+      },
+      {
+        "label": "Smithsonian: motor Westinghouse",
+        "url": "https://www.si.edu/object/westinghouse-alternating-current-induction-motor:nmah_713594"
+      },
+      {
+        "label": "Smithsonian: exposición polifásica de 1893",
+        "url": "https://www.si.edu/object/archives/components/sova-nmah-ac-0069-ref3939"
+      },
+      {
+        "label": "IEEE: central Adams",
+        "url": "https://ethw.org/Milestones:Adams_Hydroelectric_Generating_Plant,_1895"
+      },
+      {
+        "label": "IEEE: Lewis B. Stillwell",
+        "url": "https://ethw.org/Straphanger_History%3A_Lewis_B._Stillwell_and_Alternating_Current"
+      },
+      {
+        "label": "Patente estadounidense 454.622",
+        "url": "https://patents.google.com/patent/US454622A/en"
+      },
+      {
+        "label": "Patente de control remoto de Tesla, 1898",
+        "url": "https://patents.google.com/patent/US613809A/en"
+      },
+      {
+        "label": "Sentencia Marconi contra Estados Unidos, 1943",
+        "url": "https://supreme.justia.com/cases/federal/us/320/1/"
+      },
+      {
+        "label": "Ficha de la fotografía histórica de Wellcome",
+        "url": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg"
+      },
+      {
+        "label": "Centro de Ciencias Tesla: Wardenclyffe",
+        "url": "https://teslasciencecenter.org/history/tower/"
+      },
+      {
+        "label": "IEEE Spectrum: límites de la potencia inalámbrica",
+        "url": "https://spectrum.ieee.org/a-critical-look-at-wireless-power"
+      },
+      {
+        "label": "Museo Nikola Tesla: colección de patentes",
+        "url": "https://tesla-museum.org/nikola-tesla/patenti/"
+      },
+      {
+        "label": "Patente de turbina de Tesla",
+        "url": "https://patents.google.com/patent/US1061206A/en"
+      },
+      {
+        "label": "Smithsonian: archivo de Kenneth M. Swezey",
+        "url": "https://www.si.edu/object/archives/sova-nmah-ac-0047"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/nikola-tesla-genius-helped-electrify-world/",
+    "path": "/fr/articles/nikola-tesla-genius-helped-electrify-world/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-15",
+      "terminologyChecked": true
+    },
+    "title": "NIKOLA TESLA : LE GÉNIE QUI A CONTRIBUÉ À ÉLECTRIFIER LE MONDE",
+    "seoTitle": "Nikola Tesla : inventions, courant alternatif et mythes",
+    "description": "Du moteur à induction à Niagara, de la radio à Wardenclyffe : une biographie documentée de Nikola Tesla, avec photographies d’archives et examen des mythes.",
+    "excerpt": "Du moteur à induction à Niagara, de la radio à Wardenclyffe : une biographie documentée de Nikola Tesla, avec photographies d’archives et examen des mythes.",
+    "headlineHighlights": {
+      "red": "NIKOLA TESLA",
+      "gold": "ÉLECTRIFIER LE MONDE"
+    },
+    "keywords": [
+      "NIKOLA TESLA",
+      "Tesla",
+      "Westinghouse"
+    ],
+    "searchIntent": "Du moteur à induction à Niagara, de la radio à Wardenclyffe : une biographie documentée de Nikola Tesla, avec photographies d’archives et examen des mythes.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "image": {
+      "src": "/articles/tesla-hero.png",
+      "alt": "Reconstitution artistique de Nikola Tesla assis dans un ancien laboratoire électrique, avec bobines et dessins techniques."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Sur une photographie d’archives de Colorado Springs, Nikola Tesla lit tranquillement sous un orage d’étincelles. Au-dessus du livre posé dans ses mains, des branches de lumière blanche traversent l’obscurité du laboratoire. Cette image inoubliable raconte aussi la fabrication d’une légende. Le portrait de Colorado Springs est une double exposition : Tesla et les décharges ont été photographiés séparément. L’appareillage était réel. L’apparente indifférence au danger relevait de la mise en scène photographique."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sa vie mérite la même distinction entre réussite et spectacle. Tesla a contribué à transformer les moteurs et les réseaux à courant alternatif en technologies industrielles majeures. Il a exploré les hautes fréquences et démontré la commande sans fil. Il a aussi poursuivi des projets infructueux et formulé des affirmations que l’expérience n’a jamais établies. Son importance résiste à ces nuances. Elle devient même plus intéressante lorsque l’ingénieur remplace le magicien."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Une enfance avant l’âge électrique"
+      },
+      {
+        "type": "paragraph",
+        "text": "Né le 10 juillet 1856 à Smiljan, alors dans l’Empire d’Autriche et aujourd’hui en Croatie, Tesla grandit dans une famille serbe orthodoxe. Son père, Milutin, est prêtre. Sa mère, Đuka, fabrique des ustensiles domestiques ingénieux sans avoir reçu d’instruction scolaire. Tesla rendra hommage à ses talents d’inventrice. Dans cette maison, ambition intellectuelle et habileté manuelle se côtoient bien avant de devenir pour lui une profession. [Musée Nikola Tesla : histoire familiale](https://artsandculture.google.com/story/the-genius-of-nikola-tesla-it-runs-in-the-family-nikola-tesla-museum/hAUR_LMwKdkBIw?hl=en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Après ses études à Karlovac, il entre à l’établissement technique supérieur de Graz en 1875, mais n’obtient pas de diplôme. À Prague, il assiste à des cours sans achever de cursus. Cette distinction compte : les distinctions honorifiques reçues plus tard ne doivent pas devenir rétrospectivement des diplômes d’étudiant. Sa formation pratique se poursuit dans la téléphonie à Budapest, puis dans l’industrie électrique européenne en expansion. [Centre mémorial Tesla : chronologie](https://mcnikolatesla.hr/lenta-vremena-nikole-tesle/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans ses souvenirs, Tesla décrit sa capacité à visualiser des mécanismes avant de les construire. Ce témoignage éclaire sa conception de la créativité, mais ne constitue pas une mesure expérimentale d’un esprit miraculeux. Ses débuts comportent aussi les tâches ordinaires de l’ingénieur : réparer, comprendre les pannes et trouver des personnes disposées à financer une nouvelle tentative."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "New York, 1884 : dans le monde d’Edison"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla arrive aux États-Unis en 1884 après avoir travaillé pour l’organisation Continental Edison en Europe. Aux Edison Machine Works de New York, il intervient sur les machines du courant continu. L’entreprise d’Edison construit un système commercial complet, et pas seulement une meilleure lampe : générateurs, conducteurs, interrupteurs, compteurs et utilisateurs doivent fonctionner ensemble. [Smithsonian : la vie inventive d’Edison](https://invention.si.edu/invention-stories/thomas-edisons-inventive-life)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La collaboration est brève. Tesla part travailler à son compte, notamment sur l’éclairage à arc, avant de trouver des soutiens pour ses moteurs. Certaines biographies transforment cette rupture en affrontement parfait entre exploitation et génie. Le récit d’une énorme prime promise repose largement sur des souvenirs tardifs ; il ne faut pas le présenter comme un contrat de travail entièrement documenté. Le désaccord durable concerne les priorités techniques, les intérêts commerciaux et l’avenir du réseau électrique."
+      },
+      {
+        "type": "paragraph",
+        "text": "Aucun des deux hommes ne se résume au contraire de l’autre. Edison développe des systèmes par l’expérimentation, et ses entreprises ont investi dans le courant continu. Tesla entrevoit les possibilités de courants qui changent de sens. Le conflit ultérieur mobilise sociétés, brevets, investisseurs et inquiétudes publiques, bien au-delà d’une relation professionnelle malheureuse."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Le moteur qui fait tourner le champ magnétique"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un moteur à induction transforme l’électricité en mouvement sans contact électrique glissant nécessaire pour alimenter directement son rotor. Des courants alternatifs dans des bobines fixes créent un champ magnétique variable. En organisant leur décalage temporel, on fait tourner ce champ : il induit des courants dans le rotor, et leur interaction produit un couple. L’arbre suit le champ avec l’écart de vitesse nécessaire à l’induction."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’approche polyphasée de Tesla utilise plusieurs courants alternatifs décalés dans le temps. Elle coordonne leurs phases pour produire une rotation. Ses brevets de 1888 portent sur les moteurs et sur des dispositifs associés à la distribution électrique. L’invention est donc une machine intégrée à un système. Les dessins techniques exposent cette ambition bien plus précisément que l’affirmation selon laquelle Tesla aurait simplement « inventé l’électricité ». [Brevet américain 381 968](https://patents.google.com/patent/US381968A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il n’est pas seul. Galileo Ferraris étudie indépendamment les champs tournants et présente publiquement ses recherches sur les moteurs en mars 1888, avant la conférence de Tesla en mai devant l’American Institute of Electrical Engineers. Mikhaïl Dolivo-Dobrovolski développe ensuite d’importantes machines triphasées. L’influence de Tesla est exceptionnelle, mais une histoire à plusieurs pionniers est plus fidèle qu’une compétition ne pouvant avoir qu’un vainqueur légitime. [IEEE Spectrum : les moteurs de 1888](https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Westinghouse et la guerre des courants"
+      },
+      {
+        "type": "paragraph",
+        "text": "George Westinghouse acquiert des droits sur les brevets de Tesla en 1888 et apporte des moyens industriels à leur développement. Le moteur Westinghouse conservé au Smithsonian relie les brevets à la fabrication concrète. Un principe prometteur exige des matériaux, des procédés, de la fiabilité et un marché. Tesla fournit une propriété intellectuelle essentielle ; l’organisation de Westinghouse contribue à en faire une activité industrielle. [Smithsonian : moteur Westinghouse](https://www.si.edu/object/westinghouse-alternating-current-induction-motor:nmah_713594)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’avantage du courant alternatif est particulièrement important avant l’électronique de puissance moderne. Les transformateurs élèvent la tension pour le transport, puis l’abaissent à proximité des consommateurs. À puissance égale, une tension plus élevée réduit l’intensité ; les pertes résistives dépendent du carré de cette intensité. Moins d’énergie se dissipe donc en chaleur le long des lignes. L’argument économique se mesure en cuivre, en distance et en combustible."
+      },
+      {
+        "type": "paragraph",
+        "text": "La guerre des courants porte également sur la sécurité et la confiance. La haute tension peut tuer, mais démonstrations théâtrales et publicité ne prouvent pas qu’un système entier est sûr et l’autre forcément inacceptable. Il faut concevoir, protéger et exploiter correctement un réseau. L’alternatif finit par dominer la distribution à grande échelle ; le continu reste utile et occupe aujourd’hui une place importante dans l’électronique, les batteries et le transport à haute tension. Une victoire technologique efface rarement toutes les autres solutions."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Les lumières de Chicago, les machines de Niagara"
+      },
+      {
+        "type": "paragraph",
+        "text": "À l’Exposition universelle de Chicago de 1893, Westinghouse fournit un éclairage à courant alternatif et expose la technologie polyphasée de Tesla. L’électricité devient un spectacle public autant qu’un service industriel. Les archives du Smithsonian conservent la trace de cette présentation. L’exposition rend visible une infrastructure nouvelle à des visiteurs qui ne liront peut-être jamais un brevet. [Smithsonian : exposition polyphasée de 1893](https://www.si.edu/object/archives/components/sova-nmah-ac-0069-ref3939)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Niagara constitue une épreuve plus exigeante. La centrale Adams commence à alimenter l’industrie locale le 26 août 1895. L’électricité atteint Buffalo en 1896. Cette réussite associe turbines, générateurs, transformateurs, équipements de transport et travail collectif, et non un inventeur isolé au bord d’une cascade. Les brevets de Tesla comptent dans le système polyphasé, mais les ingénieurs de Westinghouse, General Electric et d’autres participants façonnent aussi le projet. [IEEE : centrale Adams](https://ethw.org/Milestones:Adams_Hydroelectric_Generating_Plant,_1895) [IEEE : Lewis B. Stillwell](https://ethw.org/Straphanger_History%3A_Lewis_B._Stillwell_and_Alternating_Current)"
+      },
+      {
+        "type": "paragraph",
+        "text": "C’est la géographie de l’énergie utile qui change. La puissance mécanique n’a plus à rester près de la roue hydraulique qui la produit : l’électricité relie la production à des usines éloignées. Niagara ne crée pas l’électrification à partir de rien ; le projet démontre l’ambition possible des réseaux. Le succès le plus durable de Tesla s’inscrit dans une infrastructure appelée à devenir banale."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Bobines, résonance et mise en scène du laboratoire"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans les années 1890, Tesla explore les hautes fréquences et les hautes tensions. Son nom s’attache à la bobine Tesla, un dispositif transformateur résonant capable de produire des décharges spectaculaires. La résonance permet d’accumuler de l’énergie grâce à des oscillations convenablement synchronisées, comme des poussées successives amplifient le mouvement d’une balançoire. Elle ne crée pas d’énergie : une alimentation extérieure fournit ce que le dispositif stocke, transmet et dissipe. [Brevet américain 454 622](https://patents.google.com/patent/US454622A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces expériences explorent l’éclairage, l’isolation et les comportements électriques au-delà des fréquences ordinaires des réseaux. Leur caractère spectaculaire n’en fait pas des expériences à reproduire soi-même. Hautes tensions et courants à radiofréquence présentent des dangers sérieux. Tous les effets de laboratoire ne deviennent pas non plus des produits : un tube lumineux, un brevet et un service fiable répondent à des exigences différentes."
+      },
+      {
+        "type": "paragraph",
+        "text": "La photographie d’archives du laboratoire new-yorkais montre Tesla devant une grande bobine en spirale. Elle documente un équipement réel tout en révélant un inventeur attentif à son image. Comme l’explique notre histoire de la photographie, une image authentique peut néanmoins être mise en scène, cadrée sélectivement ou manipulée techniquement. Les documents historiques demandent de l’interprétation autant que de l’admiration. [Photographie et construction d’une image](/articles/invention-photography-first-photo-digital-age/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Radio et télécommande : une invention collective"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1898, Tesla présente un bateau télécommandé et obtient un brevet pour commander des véhicules sans liaison matérielle. Des signaux transmis séparent l’opérateur du mécanisme. Cette démonstration précoce de commande sans fil ne correspond pas à un robot autonome moderne : recevoir des instructions et décider seul sont deux capacités distinctes. [Brevet de télécommande de Tesla, 1898](https://patents.google.com/patent/US613809A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La radio naît de nombreuses contributions : théorie électromagnétique, détection expérimentale, accord des circuits, antennes et réseaux de communication. Les hautes fréquences de Tesla ont leur place dans cette histoire aux côtés de Hertz, Lodge et Marconi. Attribuer tous les éléments essentiels à un seul homme masque la construction cumulative de la technologie."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’arrêt Marconi de la Cour suprême américaine, rendu en 1943, est souvent présenté comme une déclaration faisant de Tesla l’unique inventeur de la radio. Il s’agit d’un jugement sur certaines revendications de brevet et des travaux antérieurs, notamment ceux de Tesla, Lodge et John Stone Stone. Invalider des revendications ne revient pas à attribuer exclusivement tout un domaine technologique. [Arrêt Marconi contre les États-Unis, 1943](https://supreme.justia.com/cases/federal/us/320/1/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Colorado Springs : des étincelles et des questions ouvertes"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1899, Tesla installe un laboratoire expérimental à Colorado Springs. Ses grands appareils permettent d’étudier oscillations, décharges et transmission sans fil à une échelle difficilement envisageable à Manhattan. La célèbre photographie reproduite ici date de cette période. Sa double exposition réunit les étincelles et l’inventeur assis : il ne lisait pas au milieu de ces décharges actives. [Notice de la photographie d’archives Wellcome](https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla voit dans ses observations un appui à une ambition plus vaste : transmettre une puissance utile sur de grandes distances sans fils ordinaires. La différence entre observation et déduction est essentielle. Produire une décharge ou allumer un récepteur voisin ne démontre pas l’efficacité d’un réseau électrique mondial. Distance, couplage, pertes, interférences et sécurité deviennent décisifs lors du changement d’échelle."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Wardenclyffe : une tour plus grande que son financement"
+      },
+      {
+        "type": "paragraph",
+        "text": "À partir de 1901, Tesla développe Wardenclyffe sur Long Island avec l’appui financier de J. P. Morgan. Une haute tour s’élève derrière le laboratoire dessiné par Stanford White. Tesla imagine des communications mondiales sans fil et poursuit aussi le transport d’énergie électrique. Information et puissance peuvent emprunter des phénomènes électromagnétiques sans que leurs exigences techniques soient interchangeables. [Centre scientifique Tesla : Wardenclyffe](https://teslasciencecenter.org/history/tower/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les difficultés financières empêchent le projet de devenir le système mondial prévu. La tour inachevée est démolie en 1917. Cet échec est souvent présenté comme la preuve que des financiers ont étouffé une électricité gratuite et illimitée. Les documents ne démontrent pas l’existence d’un appareil fonctionnel fournissant une énergie infinie sans source. L’effondrement financier explique l’arrêt du chantier ; il ne valide pas la physique proposée."
+      },
+      {
+        "type": "paragraph",
+        "text": "La recharge sans fil montre aujourd’hui qu’un transfert électrique sans câble est possible dans certaines configurations et sur certaines distances. Elle ne prouve pas rétroactivement tout le projet planétaire de Tesla. L’analyse technique d’IEEE souligne la difficulté de transférer efficacement l’énergie entre dispositifs séparés. Une question visionnaire peut inspirer des recherches ultérieures même lorsque la réponse initiale échoue. [IEEE Spectrum : limites du transfert sans fil](https://spectrum.ieee.org/a-critical-look-at-wireless-power)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Brevets, désillusions et dernières années"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla poursuit ses inventions, dont une turbine à disques rapprochés plutôt qu’à pales conventionnelles. Ses brevets couvrent des domaines électriques et mécaniques. Cette diversité témoigne de sa créativité persistante, mais les totaux peuvent être gonflés lorsque la même invention est comptée dans plusieurs pays. Un brevet protège des revendications définies ; il ne certifie ni le succès commercial ni toutes les performances annoncées. [Musée Nikola Tesla : collection de brevets](https://tesla-museum.org/nikola-tesla/patenti/) [Brevet de turbine de Tesla](https://patents.google.com/patent/US1061206A/en)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La fin de sa vie associe reconnaissance et ressources déclinantes. L’American Institute of Electrical Engineers lui décerne la médaille Edison en 1917, détail embarrassant pour un récit fondé sur un rejet permanent. Il reste connu tandis que ses finances se dégradent. Il meurt à New York le 7 janvier 1943, à 86 ans. L’écart entre ses ambitions et sa situation est réel ; nul besoin d’y ajouter des conversations inventées ou des diagnostics médicaux rétrospectifs. [Smithsonian : archives Kenneth M. Swezey](https://www.si.edu/object/archives/sova-nmah-ac-0047)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Que reste-t-il lorsque les mythes disparaissent ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla a-t-il inventé le courant alternatif ? Non. Il a surtout développé d’importants systèmes polyphasés et moteurs à induction dans un domaine déjà actif. A-t-il découvert une énergie gratuite sans source ? Aucun appareil vérifié ne démontre une création d’énergie sans apport. A-t-il inventé seul la radio ou la civilisation moderne ? Non. Ces affirmations remplacent l’histoire collective par un raccourci flatteur mais trompeur."
+      },
+      {
+        "type": "paragraph",
+        "text": "Son influence demeure immense. Les moteurs à induction sont fondamentaux dans l’industrie, et les réseaux reposent largement sur l’électricité polyphasée. Des générations de progrès dans les matériaux, la commande et la fabrication ont amélioré les machines modernes. Reconnaître cette évolution ne diminue pas Tesla : cela explique comment une invention devient un héritage plutôt qu’un objet isolé dans un musée."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le contraste le plus révélateur n’oppose pas Tesla à Edison, ni le génie à l’argent. Il sépare deux façons de raconter l’invention. L’une cherche un héros caché dont toutes les affirmations auraient été justes. L’autre suit les idées à travers expériences, échecs, ateliers et réseaux jusqu’à leur entrée dans la vie quotidienne. Tesla a contribué à électrifier le monde dans ce second sens, plus exigeant. Comprendre le travail derrière la lumière ne la rend pas moins extraordinaire."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Musée Nikola Tesla : histoire familiale",
+        "url": "https://artsandculture.google.com/story/the-genius-of-nikola-tesla-it-runs-in-the-family-nikola-tesla-museum/hAUR_LMwKdkBIw?hl=en"
+      },
+      {
+        "label": "Centre mémorial Tesla : chronologie",
+        "url": "https://mcnikolatesla.hr/lenta-vremena-nikole-tesle/"
+      },
+      {
+        "label": "Smithsonian : la vie inventive d’Edison",
+        "url": "https://invention.si.edu/invention-stories/thomas-edisons-inventive-life"
+      },
+      {
+        "label": "Brevet américain 381 968",
+        "url": "https://patents.google.com/patent/US381968A/en"
+      },
+      {
+        "label": "IEEE Spectrum : les moteurs de 1888",
+        "url": "https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor"
+      },
+      {
+        "label": "Smithsonian : moteur Westinghouse",
+        "url": "https://www.si.edu/object/westinghouse-alternating-current-induction-motor:nmah_713594"
+      },
+      {
+        "label": "Smithsonian : exposition polyphasée de 1893",
+        "url": "https://www.si.edu/object/archives/components/sova-nmah-ac-0069-ref3939"
+      },
+      {
+        "label": "IEEE : centrale Adams",
+        "url": "https://ethw.org/Milestones:Adams_Hydroelectric_Generating_Plant,_1895"
+      },
+      {
+        "label": "IEEE : Lewis B. Stillwell",
+        "url": "https://ethw.org/Straphanger_History%3A_Lewis_B._Stillwell_and_Alternating_Current"
+      },
+      {
+        "label": "Brevet américain 454 622",
+        "url": "https://patents.google.com/patent/US454622A/en"
+      },
+      {
+        "label": "Brevet de télécommande de Tesla, 1898",
+        "url": "https://patents.google.com/patent/US613809A/en"
+      },
+      {
+        "label": "Arrêt Marconi contre les États-Unis, 1943",
+        "url": "https://supreme.justia.com/cases/federal/us/320/1/"
+      },
+      {
+        "label": "Notice de la photographie d’archives Wellcome",
+        "url": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_Wellcome_M0014782.jpg"
+      },
+      {
+        "label": "Centre scientifique Tesla : Wardenclyffe",
+        "url": "https://teslasciencecenter.org/history/tower/"
+      },
+      {
+        "label": "IEEE Spectrum : limites du transfert sans fil",
+        "url": "https://spectrum.ieee.org/a-critical-look-at-wireless-power"
+      },
+      {
+        "label": "Musée Nikola Tesla : collection de brevets",
+        "url": "https://tesla-museum.org/nikola-tesla/patenti/"
+      },
+      {
+        "label": "Brevet de turbine de Tesla",
+        "url": "https://patents.google.com/patent/US1061206A/en"
+      },
+      {
+        "label": "Smithsonian : archives Kenneth M. Swezey",
+        "url": "https://www.si.edu/object/archives/sova-nmah-ac-0047"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/nobel-prize-history-winners-discoveries/",
     "path": "/ar/articles/nobel-prize-history-winners-discoveries/",
     "kind": "article",

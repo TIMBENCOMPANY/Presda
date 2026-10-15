@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "nikola-tesla-genius-helped-electrify-world": {"en":{"red":"NIKOLA TESLA","gold":"ELECTRIFY THE WORLD"},"fr":{"red":"NIKOLA TESLA","gold":"ÉLECTRIFIER LE MONDE"},"es":{"red":"NIKOLA TESLA","gold":"ELECTRIFICAR EL MUNDO"},"ar":{"red":"نيكولا تسلا","gold":"كهربة العالم"}},
   "invention-photography-first-photo-digital-age": {"en":{"red":"THE INVENTION OF PHOTOGRAPHY","gold":"THE DIGITAL AGE"},"fr":{"red":"L’INVENTION DE LA PHOTOGRAPHIE","gold":"L’ÈRE NUMÉRIQUE"},"es":{"red":"LA INVENCIÓN DE LA FOTOGRAFÍA","gold":"LA ERA DIGITAL"},"ar":{"red":"اختراع التصوير الفوتوغرافي","gold":"العصر الرقمي"}},
   "medical-cannabis-science-benefits-risks": {"en":{"red":"MEDICAL CANNABIS","gold":"BENEFITS AND RISKS"},"fr":{"red":"CANNABIS MÉDICAL","gold":"BÉNÉFICES ET SES RISQUES"},"es":{"red":"CANNABIS MEDICINAL","gold":"BENEFICIOS Y RIESGOS"},"ar":{"red":"القنب الطبي","gold":"فوائده ومخاطره"}},
   "butterfly-effect-small-changes-big-consequences": {"en":{"red":"THE BUTTERFLY EFFECT","gold":"BIG CONSEQUENCES"},"fr":{"red":"L’EFFET PAPILLON","gold":"GRANDES CONSÉQUENCES"},"es":{"red":"EL EFECTO MARIPOSA","gold":"GRANDES CONSECUENCIAS"},"ar":{"red":"تأثير الفراشة","gold":"نتائج كبيرة"}},

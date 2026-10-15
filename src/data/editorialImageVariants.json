@@ -544,5 +544,107 @@
       "src": "/articles/photography/responsive/digital-1600.webp",
       "bytes": 160620
     }
+  ],
+  "/articles/tesla/portrait.webp": [
+    {
+      "width": 400,
+      "src": "/articles/tesla/responsive/portrait-400.webp",
+      "bytes": 49122
+    },
+    {
+      "width": 585,
+      "src": "/articles/tesla/responsive/portrait-585.webp",
+      "bytes": 97812
+    }
+  ],
+  "/articles/tesla/motor.webp": [
+    {
+      "width": 400,
+      "src": "/articles/tesla/responsive/motor-400.webp",
+      "bytes": 11530
+    },
+    {
+      "width": 800,
+      "src": "/articles/tesla/responsive/motor-800.webp",
+      "bytes": 33458
+    },
+    {
+      "width": 926,
+      "src": "/articles/tesla/responsive/motor-926.webp",
+      "bytes": 38888
+    }
+  ],
+  "/articles/tesla/niagara.webp": [
+    {
+      "width": 400,
+      "src": "/articles/tesla/responsive/niagara-400.webp",
+      "bytes": 28668
+    },
+    {
+      "width": 800,
+      "src": "/articles/tesla/responsive/niagara-800.webp",
+      "bytes": 88718
+    },
+    {
+      "width": 1200,
+      "src": "/articles/tesla/responsive/niagara-1200.webp",
+      "bytes": 175934
+    },
+    {
+      "width": 1600,
+      "src": "/articles/tesla/responsive/niagara-1600.webp",
+      "bytes": 294238
+    }
+  ],
+  "/articles/tesla/lab.webp": [
+    {
+      "width": 400,
+      "src": "/articles/tesla/responsive/lab-400.webp",
+      "bytes": 62758
+    },
+    {
+      "width": 800,
+      "src": "/articles/tesla/responsive/lab-800.webp",
+      "bytes": 235934
+    },
+    {
+      "width": 1152,
+      "src": "/articles/tesla/responsive/lab-1152.webp",
+      "bytes": 430556
+    }
+  ],
+  "/articles/tesla/colorado.webp": [
+    {
+      "width": 400,
+      "src": "/articles/tesla/responsive/colorado-400.webp",
+      "bytes": 47272
+    },
+    {
+      "width": 800,
+      "src": "/articles/tesla/responsive/colorado-800.webp",
+      "bytes": 161860
+    },
+    {
+      "width": 1200,
+      "src": "/articles/tesla/responsive/colorado-1200.webp",
+      "bytes": 340652
+    },
+    {
+      "width": 1600,
+      "src": "/articles/tesla/responsive/colorado-1600.webp",
+      "bytes": 581356
+    }
+  ],
+  "/articles/tesla/tower.webp": [
+    {
+      "width": 400,
+      "src": "/articles/tesla/responsive/tower-400.webp",
+      "bytes": 32328
+    },
+    {
+      "width": 472,
+      "src": "/articles/tesla/responsive/tower-472.webp",
+      "bytes": 42588
+    }
   ]
 }
