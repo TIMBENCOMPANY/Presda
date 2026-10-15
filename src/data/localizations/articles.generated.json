@@ -208929,6 +208929,954 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/medical-cannabis-science-benefits-risks/",
+    "path": "/ar/articles/medical-cannabis-science-benefits-risks/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-15",
+      "terminologyChecked": true
+    },
+    "title": "القنب الطبي: العلم وراء فوائده ومخاطره",
+    "seoTitle": "القنب الطبي: الفوائد والمخاطر والأدلة العلمية",
+    "description": "ما الذي تعالجه مركبات THC وCBD؟ مراجعة للأدوية المعتمدة والأدلة والمخاطر وتنظيم القنب في المغرب، مع تحقق في أكتوبر 2026.",
+    "excerpt": "ما الذي تعالجه مركبات THC وCBD؟ مراجعة للأدوية المعتمدة والأدلة والمخاطر وتنظيم القنب في المغرب، مع تحقق في أكتوبر 2026.",
+    "headlineHighlights": {
+      "red": "القنب الطبي",
+      "gold": "فوائده ومخاطره"
+    },
+    "keywords": [
+      "القنب الطبي",
+      "THC",
+      "CBD",
+      "ANRAC"
+    ],
+    "searchIntent": "ما الذي تعالجه مركبات THC وCBD؟ مراجعة للأدوية المعتمدة والأدلة والمخاطر وتنظيم القنب في المغرب، مع تحقق في أكتوبر 2026.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "image": {
+      "src": "/articles/medical-cannabis-hero.png",
+      "alt": "رسم تحريري مولد بالذكاء الاصطناعي لمختبر يضم القنب وعبوات ومعدات؛ الملصقات والرسوم ليست إرشادات طبية."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "قد تضم خزانة الأدوية عبوتين مرتبطتين بالنبتة نفسها، من دون أن تتشابها كثيراً فيما عدا ذلك. تحتوي الأولى على دواء مضبوط التركيب اختُبر لنوع محدد من اضطرابات النوبات، والثانية على زيت يُباع بوعد عام بتحسين العافية. وصف كليهما بالقنب الطبي يختصر القصة، لكنه يخفي أيضاً الفروق التي تتوقف عليها سلامة العلاج."
+      },
+      {
+        "type": "paragraph",
+        "text": "القنب الطبي مصطلح جامع لمنتجات القنب أو القنبيات المستخدمة لعلاج أعراض أو أمراض، وليس دواءً واحداً. أقوى الاستنتاجات تخص مستحضرات واستطبابات محددة؛ فلا يمكن تعميم دليل يخص جزيئاً منقّى على زهرة النبات أو منتج غذائي أو مستخلص مختلف. لذلك لا يقتصر السؤال على ما إذا كان القنب مفيداً، بل يتعلق بالمنتج الذي يفيد مريضاً بعينه، مقارنة بأي بديل، وبأي ثمن من الآثار الجانبية. [NCCIH](https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "علاج قديم أمام اختبار التجربة السريرية"
+      },
+      {
+        "type": "paragraph",
+        "text": "للقنب تاريخ طويل من الاستخدام الطبي في مجتمعات مختلفة. وفي عام 1839، أسهم وليام بروك أوشوغنيسي في إدخاله إلى الطب الغربي بعد عمله في الهند. يستحق هذا التاريخ الاهتمام، لكنه ليس إثباتاً للفعالية: فالخبرة التقليدية لا تحدد تركيب مستحضر حديث أو علاجه الأمثل أو سلامته على المدى البعيد. ويوثق المعهد الوطني للسرطان هذا التاريخ الطبي والقيود اللاحقة التي أثرت في البحث. [National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq)"
+      },
+      {
+        "type": "paragraph",
+        "text": "التقدم العلمي اليوم هو القدرة على فصل أسئلة كانت تُطرح معاً. يستطيع الباحثون تحديد الجزيئات وقياس التعرض ومقارنة علاج مضبوط بدواء وهمي ورصد الآثار غير المرغوبة. هكذا تصبح النبتة المألوفة مدخلاً إلى بيولوجيا معقدة. وما زال تاريخها السياسي يؤثر في الإتاحة والمواقف، لكن الحماس والمنع لا يعوضان تجربة مصممة بعناية."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "THC وCBD وشبكة الإشارات داخل الجسم"
+      },
+      {
+        "type": "paragraph",
+        "text": "يشمل نظام القنبيات الداخلي مستقبلات وجزيئات إشارية ينتجها الجسم، مثل الأنانداميد و2-أراكيدونويل غليسيرول، وإنزيمات تصنع هذه الجزيئات وتفككها. ويشارك المستقبِلان CB1 وCB2 في شبكة مرتبطة بوظائف الجهاز العصبي والمناعة. هذا النظام لا ينتظر وصول القنب؛ فالجسم يستخدم بالفعل رسائله الكيميائية الخاصة. [Nature Reviews Neurology, 2020](https://www.nature.com/articles/s41582-019-0284-z)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يؤثر رباعي هيدروكانابينول، أو THC، في المستقبلات القنبية ويسبب التأثير المسكر المميز. أما الكانابيديول، أو CBD، فله خصائص دوائية مختلفة ولا ينتج التأثير المسكر المعتاد للـTHC. وصفه بأنه غير مسكر أدق من الإيحاء بأنه غير نشط بيولوجياً. فالأثر المطلوب وغير المطلوب كلاهما نتيجة للكيمياء، لا للمظهر الطبيعي للمنتج. [NCCIH](https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تساعد المستقبلات في تفسير سبب احتمال نجاح دواء، لكنها لا تثبت نجاحه السريري. فالنظام المرتبط بالألم والذاكرة والتوتر قد يقدم أهدافاً علاجية، وفي الوقت نفسه يسبب آثاراً في مواضع أخرى. لذلك يبحث العلماء عن إمكان فصل الفائدة عن إضعاف القدرات. الآلية المعقولة بداية للتحقيق العلمي وليست نهايته. [Nature Reviews Neurology, 2020](https://www.nature.com/articles/s41582-019-0284-z)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الصرع: نجاح محدد وليس علاجاً شاملاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "في تجربة عشوائية نُشرت عام 2017 وشملت 120 طفلاً وشاباً مصابين بمتلازمة درافيه، أُضيف الكانابيديول أو دواء وهمي إلى العلاج القائم. انخفض وسيط عدد النوبات الاختلاجية الشهرية من 12.4 إلى 5.9 في مجموعة CBD، مقابل انخفاض من 14.9 إلى 14.1 مع الدواء الوهمي. كان الفرق ذا دلالة إحصائية. وكان الإسهال والنعاس واضطراب اختبارات وظائف الكبد من الآثار التي سُجلت أكثر مع CBD. [Devinsky et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28538134/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "اختبرت الدراسة مستحضراً دوائياً محدداً ومتلازمة بعينها خلال فترة محدودة، ولم تختبر الزيوت التجارية لجميع أشكال الصرع. أظهرت أن دواءً مشتقاً من القنب قد يقدم فائدة مهمة مع استمرار الحاجة إلى المراقبة. ولا تبرر النتيجة استبدال العلاج الموصوف المضاد للنوبات بمنتج غير منظم. [Devinsky et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28538134/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "اعتمدت إدارة الغذاء والدواء الأمريكية دواء إيبيديوليكس المحتوي على الكانابيديول للنوبات المرتبطة بمتلازمتي لينوكس-غاستو ودرافيه أو بمركب التصلب الحدبي لدى المرضى من عمر سنة فأكثر. وتتضمن معلومات وصفه مراقبة الكبد وتحذيرات من التداخلات الدوائية. الاعتماد يخص الدواء واستطباباته، ولا يشمل كل ما يحتوي على CBD. [FDA: Epidiolex, 2025](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210365s023lbl.pdf)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ما الأدوية التي اعتمدتها FDA فعلاً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تميز الإدارة بين دواء واحد مشتق من القنب، هو إيبيديوليكس، وثلاثة منتجات اصطناعية ذات صلة: مارينول وسيندروس يحتويان على درونابينول، وهو شكل اصطناعي من THC، وسيساميت يحتوي على نابيلون، وهو مركب اصطناعي قريب منه. لدرونابينول ونابيلون استطبابات لعلاج الغثيان والقيء المرتبطين بالعلاج الكيميائي عندما لا تكفي مضادات القيء التقليدية. ولدرونابينول أيضاً استطباب لفقدان الشهية المصحوب بفقدان الوزن لدى المصابين بالإيدز. [FDA](https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لم تعتمد الإدارة نبات القنب نفسه علاجاً. ترخيص متجر متخصص وملصق مكمل غذائي واعتماد دواء هي أمور تجيب عن أسئلة تنظيمية مختلفة. ويجب أيضاً التمييز بين دواء معتمد وعلاج موصى به أو مشمول بالتغطية الصحية في بلد القارئ، حيث قد تختلف القواعد ومسارات الرعاية. [FDA](https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "غثيان العلاج الكيميائي وحدود الادعاءات بشأن السرطان"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يكون للأدوية القنبية دور عندما يستمر الغثيان والقيء رغم الرعاية المعتادة. لكن كثيراً من التجارب القديمة سبق التركيبات الحديثة لمضادات القيء، ولذلك لا يثبت تفوقها على كل البدائل الحالية. تخفيف أثر جانبي للعلاج نتيجة مهمة، لكنه ادعاء مختلف عن علاج السرطان نفسه. [National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لم تثبت قدرة القنب على شفاء السرطان. فالنتائج في الخلايا أو الحيوانات لا تثبت أن منتجاً يطيل بقاء الإنسان على قيد الحياة. وتوصي إرشادات الجمعية الأمريكية لعلم الأورام السريري لعام 2024 بعدم استخدام القنب أو القنبيات علاجاً موجهاً ضد السرطان خارج تجربة سريرية. وقد يؤدي استبدال الرعاية الفعالة بزيت مُروَّج له إلى خسارة وقت لا يمكن استعادته. [ASCO, 2024](https://ascopubs.org/doi/10.1200/JCO.23.02596)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "التشنج العضلي والألم المزمن: فوائد لها حدود"
+      },
+      {
+        "type": "paragraph",
+        "text": "في التصلب المتعدد، خلصت مراجعة كوكرين عام 2022 إلى أن نابيكسيمولز يُرجح أن يحسن التشنج العضلي بحسب تقييم المرضى على المدى القصير. هذا المستحضر المضبوط من THC وCBD لا يعادل أي منتج قنبي آخر. وكانت الأدلة أقل يقيناً بشأن الألم العصبي المزمن في هذا المرض، مع أهمية الآثار العصبية أو النفسية غير المرغوبة. تخفيف الأعراض لا يعني عكس مسار المرض. [Cochrane, 2022](https://www.cochrane.org/evidence/CD013444_cannabis-and-cannabinoids-people-multiple-sclerosis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعتمد نتائج أبحاث الألم بدورها على التركيب. وجدت المراجعة المنهجية لوكالة AHRQ لعام 2025 تحسناً صغيراً، خصوصاً في الألم العصبي، مع مستحضرات معينة تحتوي على THC خلال شهر إلى ستة أشهر، ترافق مع زيادة الدوار والتهدئة والغثيان. وكانت قوة الأدلة منخفضة إلى متوسطة. قد تهم الفائدة المتوسطة المحدودة شخصاً بعينه، لكنها لا تضمن تحسن كل مصاب بألم الظهر أو التهاب المفاصل أو الألم العضلي الليفي. [AHRQ, 2025](https://www.ncbi.nlm.nih.gov/books/NBK618045/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تكشف المراجعة أيضاً المسافة بين تجربة قصيرة وعلاج يستمر سنوات. فما زالت النتائج الطويلة الأمد والمقارنات بين المنتجات غير مكتملة. ينبغي أن يشمل النقاش القدرة على أداء الأنشطة والآثار الجانبية، لا درجة الألم وحدها: هل يتحرك الشخص أو يعمل أو ينام بصورة أفضل من دون إضعاف غير مقبول لقدراته؟ شعبية المنتج لا تجيب عن هذا السؤال الفردي. [AHRQ, 2025](https://www.ncbi.nlm.nih.gov/books/NBK618045/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الغرض الطبي لا يلغي مخاطر الاعتماد والصحة النفسية"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يؤدي الاستخدام المتكرر إلى اضطراب استخدام القنب، بما يشمله من ضعف السيطرة والاستمرار رغم الضرر. يختلف الخطر باختلاف التعرض والقابلية الفردية، وليس نتيجة حتمية لكل مريض. وتستدعي تراكيز THC المرتفعة حذراً خاصاً. البدء لسبب طبي لا يجعل تصاعد الاستخدام أو الرغبة الملحة أو اضطراب الحياة اليومية أموراً هامشية. [CDC](https://www.cdc.gov/cannabis/faq/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يسبب القنب القلق والأفكار الارتيابية. وارتبط الاستخدام المتكرر بارتفاع خطر الذهان، خصوصاً لدى الأشخاص الأكثر قابلية له. لا يعني الارتباط أن كل مستخدم سيصاب باضطراب، ولا أن عاملاً واحداً يفسر مرض شخص معين. ويجب مناقشة التاريخ النفسي الشخصي والعائلي قبل الوصف. يوضح تحقيقنا عن [الارتياب وإدراك التهديد](/articles/paranoia-why-do-we-feel-watched/) أهمية تفسير هذه الخبرات بعناية ومن دون وصم. [CDC](https://www.cdc.gov/cannabis/health-effects/mental-health.html)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الحمل والتداخلات الدوائية والقيادة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تنصح FDA بتجنب القنب وTHC وCBD خلال الحمل والرضاعة. عدم اليقين بشأن بعض النتائج ليس دليلاً على السلامة. ومن تتناول دواءً قنبياً موصوفاً وهي حامل أو تخطط للحمل ينبغي أن تناقشه سريعاً مع الطبيب، بدلاً من إيقاف دواء أساسي للنوبات بصورة مفاجئة. فالقرار يتعلق بمخاطر التعرض ومخاطر المرض غير المضبوط معاً. [FDA](https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يغير CBD طريقة معالجة أدوية أخرى في الجسم وقد يسبب إصابة كبدية. ويمكن أن يزداد النعاس عند الجمع بينه وبين مواد مهدئة أخرى. يحتاج الطبيب أو الصيدلي إلى معرفة جميع الأدوية والمكملات ومنتجات القنب، لا العبوة المسماة دواءً وحدها. المراقبة جزء من العلاج وليست إضافة اختيارية. [FDA](https://www.fda.gov/consumers/consumer-updates/what-you-need-know-and-what-were-working-find-out-about-products-containing-cannabis-or-cannabis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يضعف THC سرعة الاستجابة والتنسيق والحكم على المواقف. وجود وصفة لا يجعل القيادة تحت تأثيره آمنة، وقد يزيد الكحول هذا الضعف. وتوضح مراكز مكافحة الأمراض والوقاية منها أن تركيز THC المقاس لا يحدد بصورة موثوقة درجة تأثر سائق بعينه. لذلك يعد التخطيط للتنقل جزءاً عملياً من مناقشة العلاج. [CDC](https://www.cdc.gov/cannabis/health-effects/driving.html)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "قانونية المنتج لا تعني أنه دواء مثبت"
+      },
+      {
+        "type": "paragraph",
+        "text": "الاستخدام الطبي والترفيهي يصفان أغراضاً ومسارات قانونية، لا نباتين منفصلين تماماً. ضبط التركيب والجودة وتحديد الاستطباب والمتابعة السريرية هي الفروق الطبية المهمة. البيع القانوني لا يثبت أن تجربة أكدت الفائدة المعلنة، كما أن السماح بالحيازة لا يعني بالضرورة السماح بادعاء علاجي."
+      },
+      {
+        "type": "paragraph",
+        "text": "في عام 2020، حذفت لجنة المخدرات التابعة للأمم المتحدة القنب وراتنجه من الجدول الرابع لاتفاقية 1961، اعترافاً بالإمكانات العلاجية مع إبقاء الرقابة الدولية بموجب الجدول الأول. وتوضح منظمة الصحة العالمية أن ذلك كان قرار تصنيف. لم يعتمد القرار كل علاجات القنب، ولم يفرض تقنين الاستخدام الترفيهي عالمياً. [WHO, 2020](https://www.who.int/news/item/04-12-2020-un-commission-on-narcotic-drugs-reclassifies-cannabis-to-recognize-its-therapeutic-uses)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تظل الأنظمة الوطنية مختلفة. تحتفظ كندا بمسار طبي قائم على تصريح من مختص صحي إلى جانب إطارها الأوسع للقنب. وفي إنجلترا، يصف NHS الحصول عليه بوصفة بأنه محدود بظروف معينة. لذا فإن القول إن القنب قانوني لا يكفي: فالمنتج والاستطباب والواصف والتغطية والبلد عوامل أساسية. وعلى المسافر مراجعة قواعد وجهته، لا افتراض أن التصريح المحلي صالح في كل مكان. [Health Canada](https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/medical-use-cannabis.html) [NHS](https://www.nhs.uk/medicines/medical-cannabis/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "المغرب: القانون 13-21 والتطورات المؤكدة في 2026"
+      },
+      {
+        "type": "paragraph",
+        "text": "أرسى القانون المغربي 13-21 إطاراً للاستعمالات المشروعة للقنب الهندي. وتشرف الوكالة الوطنية لتقنين الأنشطة المتعلقة بالقنب الهندي، ANRAC، على الأنشطة ذات الأغراض الطبية والصيدلانية والصناعية، بما فيها التراخيص وتتبع سلسلة الإنتاج. لا يعادل هذا الإطار المنظم إذناً عاماً بالاستهلاك الترفيهي، ولا يثبت أن كل منتج ناتج عنه دواء فعال. [ANRAC: 13-21](https://www.anrac.gov.ma/fr/loi1321/) [ANRAC](https://www.anrac.gov.ma/fr/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "من التطورات الموثقة في 2026 تسجيل الوكالة ندوة علمية بتاريخ 29 يناير حول التطبيقات السريرية للكانابيديول وآفاقه العلاجية في المغرب، ويوماً علمياً حول الاستخدام العلاجي للقنب في الدار البيضاء بتاريخ 6 يونيو. تثبت هذه السجلات وجود نشاط علمي ومهني، لكنها لا تثبت وحدها اعتماد دواء جديد أو اكتمال تجربة سريرية أو تحسن نتائج المرضى. [ANRAC, 29/01/2026](https://www.anrac.gov.ma/fr/2026/01/29/phototheque-colloque-scientifique-le-cannabidiol-cbd-applications-cliniques-et-perspectives-therapeutiques-au-maroc-2/) [ANRAC, 06/06/2026](https://www.anrac.gov.ma/fr/2026/06/06/premiere-journee-scientifique-sur-lusage-therapeutique-du-cannabis-a-casablanca/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الأسئلة المقبلة عملية وعلمية معاً: أي مستحضرات تستوفي المعايير الصيدلانية، وأي استطبابات تدعمها أدلة كافية، وكيف يقيم الأطباء المنافع والأضرار؟ ينبغي إبقاء الترخيص الزراعي والفرصة التجارية والتوصية السريرية مفاهيم منفصلة. أُجريت المراجعة التنظيمية لهذا المقال في 15 أكتوبر 2026، وهي لا تحول الطموح المعلن إلى نتيجة طبية مثبتة."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "الجيل المقبل من الأدلة"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحتاج التطوير السريري إلى تركيب قابل للتكرار ومقارنة مناسبة ونتائج تهم المرضى فعلاً. كما تلزم متابعة أطول لفهم استمرار الفائدة والأضرار. وتواجه التجارب مشكلة التعمية: فقد تكشف التأثيرات المسكرة الملحوظة للمشارك المجموعة التي ينتمي إليها، فتؤثر في تقييماته الذاتية. تسجيل تجربة أو بدء دراسة مبكرة لا يساوي نجاح العلاج. [National Academies, 2017](https://www.ncbi.nlm.nih.gov/books/NBK425757/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يفتح الاهتمام بقنبيات أخرى غير THC وCBD، وبالتأثير في إشارات الجسم الداخلية، أسئلة بحثية حقيقية. لكنه يتيح أيضاً وعوداً مبكرة. المستقبل المفيد يقدم أدوية أوضح تعريفاً وخيارات أكثر موثوقية، بدلاً من قائمة متنامية من الأمراض بجوار صورة ورقة نبات. يجب أن يبقى المعيار العلمي واحداً للمستخلص النباتي والجزيء المصنوع في المختبر. [Nature Reviews Neurology, 2020](https://www.nature.com/articles/s41582-019-0284-z)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "السؤال الذي يستحق أن يُطرح في العيادة"
+      },
+      {
+        "type": "paragraph",
+        "text": "الأسئلة المفيدة محددة: ما محتوى المنتج، وما الدليل عليه لهذه الحالة، وما البدائل، وأي تداخلات مهمة، وما التحسن الذي يبرر الاستمرار؟ هذه قرارات تُتخذ مع مختص مؤهل. يقدم هذا المقال معلومات عامة، وليس وصفة فردية أو سبباً لتغيير العلاج من دون مشورة طبية."
+      },
+      {
+        "type": "paragraph",
+        "text": "القنب ليس معجزة تنتظر التحرير، ولا موضوعاً ينبغي للعلم رفض دراسته. قصته الطبية الأكثر إقناعاً أدق من ذلك: قد تساعد جزيئات معينة أشخاصاً معينين، والدقة التي تكشف فوائدها تكشف حدودها أيضاً. يبدأ التقدم عندما يصبح الأمل محدداً بما يكفي لاختباره."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NCCIH",
+        "url": "https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know"
+      },
+      {
+        "label": "National Cancer Institute",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq"
+      },
+      {
+        "label": "Nature Reviews Neurology, 2020",
+        "url": "https://www.nature.com/articles/s41582-019-0284-z"
+      },
+      {
+        "label": "Devinsky et al., 2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28538134/"
+      },
+      {
+        "label": "FDA: Epidiolex, 2025",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210365s023lbl.pdf"
+      },
+      {
+        "label": "FDA",
+        "url": "https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd"
+      },
+      {
+        "label": "ASCO, 2024",
+        "url": "https://ascopubs.org/doi/10.1200/JCO.23.02596"
+      },
+      {
+        "label": "Cochrane, 2022",
+        "url": "https://www.cochrane.org/evidence/CD013444_cannabis-and-cannabinoids-people-multiple-sclerosis"
+      },
+      {
+        "label": "AHRQ, 2025",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK618045/"
+      },
+      {
+        "label": "CDC",
+        "url": "https://www.cdc.gov/cannabis/faq/"
+      },
+      {
+        "label": "CDC",
+        "url": "https://www.cdc.gov/cannabis/health-effects/mental-health.html"
+      },
+      {
+        "label": "FDA",
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding"
+      },
+      {
+        "label": "FDA",
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-you-need-know-and-what-were-working-find-out-about-products-containing-cannabis-or-cannabis"
+      },
+      {
+        "label": "CDC",
+        "url": "https://www.cdc.gov/cannabis/health-effects/driving.html"
+      },
+      {
+        "label": "WHO, 2020",
+        "url": "https://www.who.int/news/item/04-12-2020-un-commission-on-narcotic-drugs-reclassifies-cannabis-to-recognize-its-therapeutic-uses"
+      },
+      {
+        "label": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/medical-use-cannabis.html"
+      },
+      {
+        "label": "NHS",
+        "url": "https://www.nhs.uk/medicines/medical-cannabis/"
+      },
+      {
+        "label": "ANRAC: 13-21",
+        "url": "https://www.anrac.gov.ma/fr/loi1321/"
+      },
+      {
+        "label": "ANRAC",
+        "url": "https://www.anrac.gov.ma/fr/"
+      },
+      {
+        "label": "ANRAC, 29/01/2026",
+        "url": "https://www.anrac.gov.ma/fr/2026/01/29/phototheque-colloque-scientifique-le-cannabidiol-cbd-applications-cliniques-et-perspectives-therapeutiques-au-maroc-2/"
+      },
+      {
+        "label": "ANRAC, 06/06/2026",
+        "url": "https://www.anrac.gov.ma/fr/2026/06/06/premiere-journee-scientifique-sur-lusage-therapeutique-du-cannabis-a-casablanca/"
+      },
+      {
+        "label": "National Academies, 2017",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK425757/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/medical-cannabis-science-benefits-risks/",
+    "path": "/es/articles/medical-cannabis-science-benefits-risks/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-15",
+      "terminologyChecked": true
+    },
+    "title": "CANNABIS MEDICINAL: LA CIENCIA DE SUS BENEFICIOS Y RIESGOS",
+    "seoTitle": "Cannabis medicinal: beneficios, riesgos y evidencia científica",
+    "description": "THC, CBD, medicamentos aprobados, evidencia clínica y riesgos: una guía del cannabis medicinal y la regulación marroquí, revisada en octubre de 2026.",
+    "excerpt": "THC, CBD, medicamentos aprobados, evidencia clínica y riesgos: una guía del cannabis medicinal y la regulación marroquí, revisada en octubre de 2026.",
+    "headlineHighlights": {
+      "red": "CANNABIS MEDICINAL",
+      "gold": "BENEFICIOS Y RIESGOS"
+    },
+    "keywords": [
+      "CANNABIS MEDICINAL",
+      "THC",
+      "CBD",
+      "ANRAC"
+    ],
+    "searchIntent": "THC, CBD, medicamentos aprobados, evidencia clínica y riesgos: una guía del cannabis medicinal y la regulación marroquí, revisada en octubre de 2026.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "image": {
+      "src": "/articles/medical-cannabis-hero.png",
+      "alt": "Ilustración editorial por IA de un laboratorio con cannabis, frascos y equipos; las etiquetas y los diagramas no son orientación médica."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "En un botiquín puede haber dos frascos asociados a la misma planta que apenas compartan nada más. Uno contiene un medicamento de composición precisa, estudiado para un trastorno convulsivo concreto. El otro es un aceite vendido con una promesa general de bienestar. Llamar cannabis medicinal a ambos simplifica la historia. También oculta las diferencias de las que depende un tratamiento seguro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cannabis medicinal es un término que engloba productos de cannabis o cannabinoides utilizados para tratar síntomas o enfermedades. No es un único medicamento. Las conclusiones más sólidas corresponden a preparaciones e indicaciones específicas: la evidencia de una molécula purificada no valida automáticamente una flor, un comestible u otro extracto. La pregunta es qué producto ayuda a qué paciente, frente a qué alternativa y con qué efectos adversos. [NCCIH](https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Un remedio antiguo ante el ensayo clínico"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cannabis tiene una larga historia medicinal en distintas sociedades. En 1839, William Brooke O’Shaughnessy contribuyó a introducirlo en la medicina occidental tras trabajar en la India. Esa historia merece atención, pero no constituye una prueba de eficacia: la experiencia tradicional no determina la composición, el tratamiento óptimo ni la seguridad prolongada de una preparación actual. El Instituto Nacional del Cáncer documenta esa trayectoria y las restricciones posteriores que condicionaron la investigación. [National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El avance científico permite separar preguntas antes confundidas. Se pueden identificar moléculas, medir la exposición, comparar un tratamiento definido con placebo y registrar efectos adversos. Una planta conocida abre así una puerta a una biología compleja. Su historia política sigue influyendo en el acceso y las actitudes, pero ni el entusiasmo ni la prohibición sustituyen un experimento bien diseñado."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "THC, CBD y la red de señales del organismo"
+      },
+      {
+        "type": "paragraph",
+        "text": "El sistema endocannabinoide incluye receptores, moléculas producidas por el organismo, como la anandamida y el 2-araquidonoilglicerol, y enzimas que las producen y degradan. Los receptores CB1 y CB2 participan en una red relacionada con funciones nerviosas e inmunitarias. No es un sistema que esté esperando al cannabis: el cuerpo ya dispone de sus propios mensajes químicos. [Nature Reviews Neurology, 2020](https://www.nature.com/articles/s41582-019-0284-z)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El THC, o delta-9-tetrahidrocannabinol, actúa sobre receptores cannabinoides y produce la intoxicación característica. El CBD, o cannabidiol, tiene una farmacología distinta y no provoca ese efecto típico del THC. Describirlo como no intoxicante resulta más útil que sugerir que es biológicamente inactivo. Tanto el efecto deseado como el adverso proceden de la química, no de la apariencia natural del producto. [NCCIH](https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los receptores ayudan a explicar por qué un fármaco podría funcionar, pero no demuestran que lo haga. Un sistema implicado en dolor, memoria y estrés puede ofrecer dianas terapéuticas y generar efectos no deseados en otros lugares. La investigación busca separar las acciones útiles del deterioro de capacidades. Un mecanismo plausible es el comienzo de la investigación, no su conclusión. [Nature Reviews Neurology, 2020](https://www.nature.com/articles/s41582-019-0284-z)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Epilepsia: un éxito específico, no una cura universal"
+      },
+      {
+        "type": "paragraph",
+        "text": "En un ensayo aleatorizado de 2017 con 120 niños y adultos jóvenes con síndrome de Dravet, se añadió cannabidiol o placebo al tratamiento habitual. La mediana de crisis convulsivas mensuales descendió de 12,4 a 5,9 con CBD, frente a una reducción de 14,9 a 14,1 con placebo. La diferencia fue estadísticamente significativa. Diarrea, somnolencia y alteraciones de las pruebas hepáticas fueron algunos de los efectos más frecuentes con CBD. [Devinsky et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28538134/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Se estudió una preparación farmacéutica definida, un síndrome seleccionado y un período limitado, no los aceites comerciales para todas las epilepsias. El resultado mostró que un medicamento derivado del cannabis podía aportar un beneficio relevante y seguir necesitando vigilancia. No justifica sustituir un tratamiento anticonvulsivo recetado por un producto sin regulación. [Devinsky et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28538134/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FDA ha autorizado Epidiolex, un medicamento con cannabidiol, para las crisis asociadas a los síndromes de Lennox-Gastaut y Dravet o al complejo de esclerosis tuberosa en pacientes desde un año de edad. Su información de prescripción contempla vigilancia hepática y advertencias sobre interacciones. La autorización corresponde a ese medicamento y esas indicaciones, no a todo producto que contenga CBD. [FDA: Epidiolex, 2025](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210365s023lbl.pdf)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Qué ha aprobado realmente la FDA"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FDA distingue un medicamento derivado del cannabis, Epidiolex, y tres productos sintéticos relacionados: Marinol y Syndros contienen dronabinol, una forma sintética del THC; Cesamet contiene nabilona, un compuesto sintético afín. Dronabinol y nabilona tienen indicaciones contra las náuseas y los vómitos por quimioterapia cuando la respuesta a los antieméticos convencionales ha sido insuficiente. Dronabinol también está indicado para la pérdida de apetito asociada a pérdida de peso en el sida. [FDA](https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La agencia no ha aprobado la planta de cannabis como tratamiento. Una autorización de dispensario, la etiqueta de un suplemento y la aprobación de un medicamento responden a preguntas regulatorias distintas. También hay que distinguir un fármaco autorizado de un tratamiento recomendado o financiado en el país del paciente, donde las normas y los circuitos asistenciales pueden ser diferentes. [FDA](https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Náuseas por quimioterapia y el límite del cáncer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los medicamentos cannabinoides pueden tener un lugar cuando las náuseas y los vómitos persisten pese a la atención habitual. Buena parte de los ensayos antiguos precede a las combinaciones antieméticas actuales y no demuestra superioridad frente a todas las alternativas modernas. Aliviar un efecto adverso del tratamiento es un resultado valioso, pero constituye una afirmación distinta de tratar el cáncer. [National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cannabis no es una cura demostrada del cáncer. Los hallazgos en células o animales no acreditan que un producto prolongue la supervivencia humana. La guía de ASCO de 2024 desaconseja utilizar cannabis o cannabinoides como tratamiento dirigido contra el cáncer fuera de un ensayo clínico. Sustituir una atención eficaz por un aceite publicitado puede hacer perder un tiempo irrecuperable. [ASCO, 2024](https://ascopubs.org/doi/10.1200/JCO.23.02596)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Espasticidad y dolor crónico: beneficios con límites"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para la esclerosis múltiple, una revisión Cochrane de 2022 concluyó que nabiximols probablemente mejora a corto plazo la espasticidad comunicada por los pacientes. Esta preparación estandarizada de THC y CBD no equivale a cualquier producto de cannabis. La evidencia era menos segura para el dolor neuropático crónico en esa enfermedad, y los efectos neurológicos o psiquiátricos adversos seguían siendo relevantes. Aliviar síntomas no significa revertir la enfermedad. [Cochrane, 2022](https://www.cochrane.org/evidence/CD013444_cannabis-and-cannabinoids-people-multiple-sclerosis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación sobre dolor también depende de la formulación. La revisión sistemática de AHRQ de 2025 encontró pequeñas mejoras, principalmente en dolor neuropático, con ciertas preparaciones que contenían THC durante uno a seis meses, acompañadas de más mareo, sedación y náuseas. La solidez de la evidencia era baja o moderada. Un beneficio medio modesto puede importar a una persona sin garantizar mejoría para todos los pacientes con lumbalgia, artritis o fibromialgia. [AHRQ, 2025](https://www.ncbi.nlm.nih.gov/books/NBK618045/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La revisión muestra además la distancia entre un ensayo breve y años de tratamiento. Los resultados prolongados y las comparaciones entre productos siguen incompletos. La conversación debe incluir funcionamiento y efectos adversos, no solo una puntuación de dolor: ¿permite moverse, trabajar o dormir mejor sin una alteración inaceptable de capacidades? La popularidad no responde a esa pregunta individual. [AHRQ, 2025](https://www.ncbi.nlm.nih.gov/books/NBK618045/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "El propósito médico no elimina los riesgos"
+      },
+      {
+        "type": "paragraph",
+        "text": "El uso repetido puede conducir a un trastorno por consumo de cannabis, con dificultades para controlar el consumo y persistencia pese al daño. El riesgo cambia según la exposición y la vulnerabilidad; no es inevitable para todo paciente. Las concentraciones altas de THC merecen especial cautela. Comenzar por una razón médica no vuelve irrelevantes el aumento del consumo, el deseo intenso o los problemas cotidianos. [CDC](https://www.cdc.gov/cannabis/faq/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cannabis puede provocar ansiedad y experiencias paranoides. El consumo frecuente se ha asociado a mayor riesgo de psicosis, especialmente en personas vulnerables. Esa asociación no significa que todos desarrollen un trastorno ni que un solo factor explique una enfermedad. Los antecedentes psiquiátricos personales y familiares forman parte de la evaluación. Nuestra investigación sobre [paranoia y percepción de amenazas](/articles/paranoia-why-do-we-feel-watched/) explica por qué estas experiencias requieren una interpretación cuidadosa y sin estigmas. [CDC](https://www.cdc.gov/cannabis/health-effects/mental-health.html)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Embarazo, interacciones y conducción"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FDA desaconseja cannabis, THC y CBD durante el embarazo y la lactancia. La incertidumbre sobre algunos resultados no equivale a seguridad. Quien tome un cannabinoide recetado y esté embarazada o planifique un embarazo debe consultarlo pronto con su médico, en lugar de suspender bruscamente un anticonvulsivo esencial. La decisión debe considerar tanto la exposición como el riesgo de una enfermedad no controlada. [FDA](https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El CBD puede alterar el procesamiento de otros medicamentos y causar daño hepático. La somnolencia puede aumentar al combinarlo con otras sustancias sedantes. El médico o farmacéutico necesita conocer todas las recetas, suplementos y productos de cannabis, no solo el frasco etiquetado como medicamento. La vigilancia es parte del tratamiento, no un complemento opcional. [FDA](https://www.fda.gov/consumers/consumer-updates/what-you-need-know-and-what-were-working-find-out-about-products-containing-cannabis-or-cannabis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El THC puede perjudicar el tiempo de reacción, la coordinación y el juicio. Tener receta no convierte en segura la conducción bajo sus efectos; el alcohol puede agravar la alteración. Los CDC advierten que una concentración de THC medida no se traduce de manera fiable en el grado de incapacidad de un conductor concreto. Planificar el transporte forma parte de la conversación terapéutica. [CDC](https://www.cdc.gov/cannabis/health-effects/driving.html)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Un producto legal no es automáticamente un medicamento probado"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los usos médico y recreativo describen propósitos y vías legales, no dos plantas completamente separadas. La estandarización, el control de calidad, una indicación definida y el seguimiento clínico son las diferencias médicas importantes. Una venta legal no demuestra que un ensayo respalde el beneficio anunciado, y permitir la posesión no equivale necesariamente a autorizar una afirmación terapéutica."
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2020, la Comisión de Estupefacientes de la ONU retiró el cannabis y su resina de la Lista IV de la convención de 1961, reconociendo su potencial terapéutico y manteniendo el control internacional de la Lista I. La OMS explica que fue una decisión de clasificación. No aprobó todos los tratamientos ni impuso una legalización recreativa mundial. [WHO, 2020](https://www.who.int/news/item/04-12-2020-un-commission-on-narcotic-drugs-reclassifies-cannabis-to-recognize-its-therapeutic-uses)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los sistemas nacionales siguen siendo distintos. Canadá mantiene una vía médica con autorización de un profesional sanitario junto a su marco general del cannabis. En Inglaterra, el NHS describe un acceso con receta limitado a determinadas circunstancias. Decir que el cannabis es legal aporta poca información: importan producto, indicación, prescriptor, financiación y país. Al viajar, hay que comprobar las normas de destino y no asumir que una autorización nacional sirve en todas partes. [Health Canada](https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/medical-use-cannabis.html) [NHS](https://www.nhs.uk/medicines/medical-cannabis/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Marruecos: Ley 13-21 y novedades verificadas de 2026"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Ley 13-21 de Marruecos estableció un marco para los usos lícitos del cannabis. ANRAC, la agencia nacional reguladora, supervisa actividades con fines médicos, farmacéuticos e industriales, incluidas autorizaciones y trazabilidad de la cadena. Este marco no equivale a una autorización general del consumo recreativo ni demuestra que cada producto resultante sea un medicamento eficaz. [ANRAC: 13-21](https://www.anrac.gov.ma/fr/loi1321/) [ANRAC](https://www.anrac.gov.ma/fr/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entre las novedades verificadas de 2026, ANRAC documenta un simposio científico del 29 de enero sobre aplicaciones clínicas del CBD y perspectivas terapéuticas en Marruecos, y una jornada sobre cannabis terapéutico en Casablanca el 6 de junio. Estos registros acreditan actividad científica y profesional. No demuestran por sí solos una nueva aprobación farmacéutica, un ensayo completado o una mejoría de los pacientes. [ANRAC, 29/01/2026](https://www.anrac.gov.ma/fr/2026/01/29/phototheque-colloque-scientifique-le-cannabidiol-cbd-applications-cliniques-et-perspectives-therapeutiques-au-maroc-2/) [ANRAC, 06/06/2026](https://www.anrac.gov.ma/fr/2026/06/06/premiere-journee-scientifique-sur-lusage-therapeutique-du-cannabis-a-casablanca/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las próximas preguntas son prácticas y científicas: qué preparaciones cumplen estándares farmacéuticos, qué indicaciones cuentan con evidencia suficiente y cómo valoran los clínicos beneficios y daños. Autorización agrícola, oportunidad comercial y recomendación médica deben seguir diferenciadas. La revisión regulatoria de este artículo está fechada el 15 de octubre de 2026; no convierte una ambición anunciada en un resultado médico verificado."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "La próxima generación de evidencia"
+      },
+      {
+        "type": "paragraph",
+        "text": "El desarrollo clínico exige una formulación reproducible, un comparador apropiado y resultados relevantes para los pacientes. Hace falta seguimiento prolongado para comprender beneficios sostenidos y daños. Los ensayos también deben afrontar el enmascaramiento: unos efectos intoxicantes reconocibles pueden revelar al participante su grupo e influir en respuestas subjetivas. Registrar un ensayo o iniciar una fase temprana no equivale a lograr un tratamiento eficaz. [National Academies, 2017](https://www.ncbi.nlm.nih.gov/books/NBK425757/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El interés por cannabinoides distintos del THC y el CBD, y por modificar las señales del propio organismo, abre preguntas reales. También invita a promesas prematuras. Un futuro útil ofrecería medicamentos mejor definidos y decisiones más fiables, en lugar de una lista creciente de enfermedades junto a una hoja. La exigencia científica debe ser igual para un extracto vegetal y una molécula de laboratorio. [Nature Reviews Neurology, 2020](https://www.nature.com/articles/s41582-019-0284-z)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "La pregunta que merece llegar a la consulta"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las preguntas útiles son concretas: qué contiene el producto, qué evidencia lo respalda para esta enfermedad, qué alternativas existen, qué interacciones importan y qué mejoría justificaría continuar. Son decisiones que deben tomarse con un profesional cualificado. Este artículo ofrece información general, no una prescripción individual ni una razón para cambiar el tratamiento sin consejo médico."
+      },
+      {
+        "type": "paragraph",
+        "text": "El cannabis no es un milagro pendiente de liberación ni un asunto que la ciencia deba negarse a estudiar. Su historia médica más convincente es más precisa: determinadas moléculas pueden ayudar a determinadas personas, y el rigor que revela sus beneficios también descubre sus límites. El progreso comienza cuando la esperanza es lo bastante concreta como para ponerla a prueba."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NCCIH",
+        "url": "https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know"
+      },
+      {
+        "label": "National Cancer Institute",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq"
+      },
+      {
+        "label": "Nature Reviews Neurology, 2020",
+        "url": "https://www.nature.com/articles/s41582-019-0284-z"
+      },
+      {
+        "label": "Devinsky et al., 2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28538134/"
+      },
+      {
+        "label": "FDA: Epidiolex, 2025",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210365s023lbl.pdf"
+      },
+      {
+        "label": "FDA",
+        "url": "https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd"
+      },
+      {
+        "label": "ASCO, 2024",
+        "url": "https://ascopubs.org/doi/10.1200/JCO.23.02596"
+      },
+      {
+        "label": "Cochrane, 2022",
+        "url": "https://www.cochrane.org/evidence/CD013444_cannabis-and-cannabinoids-people-multiple-sclerosis"
+      },
+      {
+        "label": "AHRQ, 2025",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK618045/"
+      },
+      {
+        "label": "CDC",
+        "url": "https://www.cdc.gov/cannabis/faq/"
+      },
+      {
+        "label": "CDC",
+        "url": "https://www.cdc.gov/cannabis/health-effects/mental-health.html"
+      },
+      {
+        "label": "FDA",
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding"
+      },
+      {
+        "label": "FDA",
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-you-need-know-and-what-were-working-find-out-about-products-containing-cannabis-or-cannabis"
+      },
+      {
+        "label": "CDC",
+        "url": "https://www.cdc.gov/cannabis/health-effects/driving.html"
+      },
+      {
+        "label": "WHO, 2020",
+        "url": "https://www.who.int/news/item/04-12-2020-un-commission-on-narcotic-drugs-reclassifies-cannabis-to-recognize-its-therapeutic-uses"
+      },
+      {
+        "label": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/medical-use-cannabis.html"
+      },
+      {
+        "label": "NHS",
+        "url": "https://www.nhs.uk/medicines/medical-cannabis/"
+      },
+      {
+        "label": "ANRAC: 13-21",
+        "url": "https://www.anrac.gov.ma/fr/loi1321/"
+      },
+      {
+        "label": "ANRAC",
+        "url": "https://www.anrac.gov.ma/fr/"
+      },
+      {
+        "label": "ANRAC, 29/01/2026",
+        "url": "https://www.anrac.gov.ma/fr/2026/01/29/phototheque-colloque-scientifique-le-cannabidiol-cbd-applications-cliniques-et-perspectives-therapeutiques-au-maroc-2/"
+      },
+      {
+        "label": "ANRAC, 06/06/2026",
+        "url": "https://www.anrac.gov.ma/fr/2026/06/06/premiere-journee-scientifique-sur-lusage-therapeutique-du-cannabis-a-casablanca/"
+      },
+      {
+        "label": "National Academies, 2017",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK425757/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/medical-cannabis-science-benefits-risks/",
+    "path": "/fr/articles/medical-cannabis-science-benefits-risks/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-15",
+      "terminologyChecked": true
+    },
+    "title": "CANNABIS MÉDICAL : LA SCIENCE DERRIÈRE SES BÉNÉFICES ET SES RISQUES",
+    "seoTitle": "Cannabis médical : bénéfices, risques et preuves scientifiques",
+    "description": "THC, CBD, médicaments autorisés, preuves cliniques et risques : comprendre le cannabis médical et le cadre marocain, vérifiés en octobre 2026.",
+    "excerpt": "THC, CBD, médicaments autorisés, preuves cliniques et risques : comprendre le cannabis médical et le cadre marocain, vérifiés en octobre 2026.",
+    "headlineHighlights": {
+      "red": "CANNABIS MÉDICAL",
+      "gold": "BÉNÉFICES ET SES RISQUES"
+    },
+    "keywords": [
+      "CANNABIS MÉDICAL",
+      "THC",
+      "CBD",
+      "ANRAC"
+    ],
+    "searchIntent": "THC, CBD, médicaments autorisés, preuves cliniques et risques : comprendre le cannabis médical et le cadre marocain, vérifiés en octobre 2026.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "image": {
+      "src": "/articles/medical-cannabis-hero.png",
+      "alt": "Illustration éditoriale par IA d’un laboratoire avec du cannabis, des flacons et du matériel ; étiquettes et schémas ne sont pas des conseils médicaux."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Dans une armoire à pharmacie, deux flacons peuvent évoquer la même plante et n’avoir presque rien d’autre en commun. L’un contient un médicament précisément formulé, testé contre une forme particulière d’épilepsie. L’autre est une huile vendue avec une promesse générale de bien-être. Les appeler tous deux cannabis médical simplifie le récit. Cela masque aussi les distinctions dont dépend la sécurité du traitement."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le cannabis médical désigne un ensemble de produits à base de cannabis ou de cannabinoïdes utilisés contre des symptômes ou des maladies. Ce n’est pas un médicament unique. Les conclusions les plus solides concernent des préparations et des indications précises : les résultats obtenus avec une molécule purifiée ne valident pas automatiquement une fleur, un aliment ou un autre extrait. La question est donc de savoir quel produit aide quel patient, par rapport à quoi, et au prix de quels effets indésirables. [NCCIH](https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Un remède ancien à l’épreuve des essais cliniques"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’usage médicinal du cannabis traverse l’histoire de différentes sociétés. En 1839, William Brooke O’Shaughnessy contribue à l’introduire dans la médecine occidentale après avoir travaillé en Inde. Cette histoire mérite attention sans devenir une preuve d’efficacité : l’expérience traditionnelle ne détermine ni la composition, ni le traitement optimal, ni la sécurité à long terme d’une préparation actuelle. Le National Cancer Institute retrace cette histoire médicale et les restrictions ultérieures qui ont marqué la recherche. [National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’avancée scientifique consiste aujourd’hui à séparer des questions autrefois confondues. On peut identifier les molécules, mesurer l’exposition, comparer un traitement défini à un placebo et suivre ses effets indésirables. Une plante familière ouvre ainsi sur une biologie complexe. Son histoire politique influence toujours l’accès et les attitudes, mais ni l’enthousiasme ni l’interdiction ne remplacent une expérience bien conçue."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "THC, CBD et système de signalisation interne"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le système endocannabinoïde comprend des récepteurs, des molécules produites par l’organisme, comme l’anandamide et le 2-arachidonoylglycérol, ainsi que les enzymes qui les fabriquent et les dégradent. Les récepteurs CB1 et CB2 participent à un réseau impliqué dans les fonctions nerveuses et immunitaires. Ce système n’attend pas l’arrivée du cannabis : le corps possède déjà ses propres messagers chimiques. [Nature Reviews Neurology, 2020](https://www.nature.com/articles/s41582-019-0284-z)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le THC, ou delta-9-tétrahydrocannabinol, agit sur les récepteurs cannabinoïdes et provoque l’intoxication caractéristique. Le CBD, ou cannabidiol, possède une pharmacologie différente et ne produit pas cet effet euphorisant typique. Dire qu’il n’est pas intoxicant est plus juste que de laisser entendre qu’il serait biologiquement inactif. Effets recherchés et effets indésirables relèvent de la chimie, pas de l’apparence naturelle du produit. [NCCIH](https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les récepteurs expliquent pourquoi une substance pourrait agir ; ils ne prouvent pas son efficacité clinique. Un système impliqué dans la douleur, la mémoire et le stress peut offrir des cibles thérapeutiques tout en produisant des effets ailleurs. La recherche cherche donc à dissocier les actions utiles de l’altération des capacités. Un mécanisme plausible ouvre l’enquête, il ne la clôt pas. [Nature Reviews Neurology, 2020](https://www.nature.com/articles/s41582-019-0284-z)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Épilepsie : un succès précis, pas un remède universel"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans un essai randomisé publié en 2017, 120 enfants et jeunes adultes atteints du syndrome de Dravet ont reçu du cannabidiol ou un placebo en complément de leur traitement. La fréquence mensuelle médiane des crises convulsives est passée de 12,4 à 5,9 avec le CBD, contre 14,9 à 14,1 avec le placebo. La différence était statistiquement significative. Diarrhée, somnolence et anomalies des tests hépatiques figuraient parmi les effets plus fréquents avec le CBD. [Devinsky et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28538134/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’essai portait sur une préparation pharmaceutique définie, un syndrome particulier et une durée limitée. Il ne testait pas les huiles du commerce contre toutes les épilepsies. Il montrait qu’un médicament issu du cannabis pouvait apporter un bénéfice réel tout en nécessitant une surveillance. Ces résultats ne justifient pas de remplacer un traitement antiépileptique prescrit par un produit non réglementé. [Devinsky et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28538134/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aux États-Unis, Epidiolex, médicament au cannabidiol autorisé par la FDA, traite les crises associées aux syndromes de Lennox-Gastaut et de Dravet, ainsi qu’à la sclérose tubéreuse de Bourneville, à partir d’un an. Sa notice prévoit une surveillance hépatique et signale des interactions. L’autorisation concerne ce médicament et ses indications, pas tous les produits contenant du CBD. [FDA: Epidiolex, 2025](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210365s023lbl.pdf)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Ce que la FDA a réellement autorisé"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FDA distingue un médicament dérivé du cannabis, Epidiolex, et trois produits synthétiques apparentés : Marinol et Syndros contiennent du dronabinol, une forme synthétique du THC ; Cesamet contient du nabilone, un composé synthétique proche. Le dronabinol et le nabilone ont des indications contre les nausées et vomissements liés à la chimiothérapie lorsque les antiémétiques habituels ont été insuffisants. Le dronabinol est également indiqué contre la perte d’appétit associée à un amaigrissement dans le sida. [FDA](https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FDA n’a pas autorisé la plante elle-même comme traitement. Une autorisation de vente en dispensaire, une étiquette de complément alimentaire et l’autorisation d’un médicament répondent à des questions différentes. Il faut aussi distinguer un médicament autorisé d’un traitement recommandé ou remboursé dans son propre pays, où les règles et les parcours de soins peuvent différer. [FDA](https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Nausées de chimiothérapie : ne pas confondre soulagement et guérison"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les médicaments cannabinoïdes peuvent avoir une place lorsque les nausées et vomissements persistent malgré les soins habituels. Une grande partie des anciens essais précède les associations antiémétiques actuelles : elle ne démontre donc pas leur supériorité sur toutes les options modernes. Soulager un effet secondaire du traitement constitue un résultat précieux, mais ce n’est pas traiter le cancer lui-même. [National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le cannabis n’est pas un traitement curatif démontré du cancer. Des observations sur des cellules ou des animaux ne prouvent pas qu’un produit prolonge la survie humaine. Les recommandations de l’ASCO publiées en 2024 déconseillent son emploi, ou celui de cannabinoïdes, comme traitement dirigé contre le cancer hors essai clinique. Remplacer des soins efficaces par une huile vantée en ligne peut faire perdre un temps irrécupérable. [ASCO, 2024](https://ascopubs.org/doi/10.1200/JCO.23.02596)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Spasticité et douleur chronique : des bénéfices limités"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour la sclérose en plaques, une revue Cochrane de 2022 conclut que le nabiximols améliore probablement à court terme la spasticité évaluée par les patients. Cette préparation standardisée de THC et de CBD n’équivaut pas à n’importe quel produit cannabique. Les données sont moins certaines pour la douleur neuropathique chronique dans cette maladie, et les effets indésirables neurologiques ou psychiatriques restent importants. Soulager un symptôme ne signifie pas inverser la maladie. [Cochrane, 2022](https://www.cochrane.org/evidence/CD013444_cannabis-and-cannabinoids-people-multiple-sclerosis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les résultats sur la douleur dépendent eux aussi de la formulation. La revue systématique de l’AHRQ de 2025 observe de faibles améliorations, surtout pour les douleurs neuropathiques, avec certaines préparations contenant du THC pendant un à six mois. Vertiges, sédation et nausées augmentent parallèlement. Le niveau de preuve est faible à modéré. Un bénéfice moyen modeste peut compter pour une personne sans garantir un résultat à tous les patients souffrant de lombalgie, d’arthrite ou de fibromyalgie. [AHRQ, 2025](https://www.ncbi.nlm.nih.gov/books/NBK618045/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette revue rappelle aussi la distance entre quelques mois d’essai et plusieurs années de traitement. Les résultats à long terme et les comparaisons entre produits restent incomplets. La discussion doit porter sur le fonctionnement quotidien et les effets indésirables : peut-on mieux bouger, travailler ou dormir sans altération excessive des capacités ? La popularité d’un produit ne répond pas à cette question individuelle. [AHRQ, 2025](https://www.ncbi.nlm.nih.gov/books/NBK618045/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Une intention médicale n’efface pas les risques psychiques"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’usage répété peut conduire à un trouble de l’usage du cannabis, caractérisé notamment par une perte de contrôle et la poursuite de la consommation malgré ses conséquences. Le risque dépend de l’exposition et des vulnérabilités ; ce n’est pas une issue inévitable pour chaque patient. Les concentrations élevées de THC appellent une prudence particulière. Commencer pour une raison médicale ne rend pas anodins l’augmentation de la consommation, les envies difficiles à maîtriser ou les perturbations du quotidien. [CDC](https://www.cdc.gov/cannabis/faq/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le cannabis peut provoquer anxiété et idées paranoïaques. L’usage fréquent est associé à un risque accru de psychose, notamment chez les personnes vulnérables. Cette association ne signifie pas que chaque consommateur développera un trouble, ni qu’un facteur unique explique une maladie. Les antécédents personnels et familiaux doivent être abordés avant une prescription. Notre enquête sur [la paranoïa et la perception de la menace](/articles/paranoia-why-do-we-feel-watched/) éclaire la nécessité d’une interprétation prudente, sans stigmatisation. [CDC](https://www.cdc.gov/cannabis/health-effects/mental-health.html)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Grossesse, interactions et conduite"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FDA déconseille cannabis, THC et CBD pendant la grossesse et l’allaitement. L’incertitude sur certains effets ne prouve pas l’innocuité. Une personne prenant un cannabinoïde prescrit et enceinte, ou envisageant une grossesse, doit en parler rapidement à son médecin plutôt que d’arrêter brutalement un médicament antiépileptique essentiel. La décision doit tenir compte des risques de l’exposition comme de ceux d’une maladie mal contrôlée. [FDA](https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le CBD peut modifier le devenir d’autres médicaments dans l’organisme et provoquer une atteinte hépatique. La somnolence peut s’accentuer avec d’autres substances sédatives. Le médecin ou le pharmacien a besoin de connaître l’ensemble des traitements, compléments et produits cannabiques, et pas uniquement le flacon présenté comme médicament. La surveillance fait partie du soin. [FDA](https://www.fda.gov/consumers/consumer-updates/what-you-need-know-and-what-were-working-find-out-about-products-containing-cannabis-or-cannabis)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le THC peut altérer le temps de réaction, la coordination et le jugement. Une ordonnance ne rend pas sûre la conduite sous influence ; l’alcool peut aggraver l’altération. Les CDC précisent aussi qu’une concentration mesurée de THC ne permet pas de déduire avec fiabilité le degré d’incapacité d’un conducteur. Prévoir son transport fait donc partie de la discussion thérapeutique. [CDC](https://www.cdc.gov/cannabis/health-effects/driving.html)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Un produit légal n’est pas forcément un médicament validé"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les usages médical et récréatif décrivent des objectifs et des voies juridiques, pas deux plantes entièrement distinctes. Standardisation, contrôle qualité, indication définie et suivi clinique constituent les distinctions médicales essentielles. Une vente légale ne prouve pas qu’un essai a confirmé le bénéfice annoncé, et une règle autorisant la possession n’autorise pas nécessairement une allégation thérapeutique."
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2020, la Commission des stupéfiants des Nations unies a retiré le cannabis et sa résine du Tableau IV de la convention de 1961, reconnaissant leur potentiel thérapeutique tout en maintenant le contrôle international au Tableau I. L’OMS explique qu’il s’agissait d’une décision de classement. Elle n’autorisait pas chaque traitement et n’imposait pas une légalisation récréative mondiale. [WHO, 2020](https://www.who.int/news/item/04-12-2020-un-commission-on-narcotic-drugs-reclassifies-cannabis-to-recognize-its-therapeutic-uses)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les systèmes nationaux restent différents. Le Canada conserve une voie d’accès médical fondée sur une autorisation professionnelle, parallèlement à son cadre général du cannabis. En Angleterre, le NHS décrit un accès sur ordonnance limité à certaines situations. Dire que le cannabis est légal ne suffit donc pas : produit, indication, prescripteur, remboursement et pays comptent. Les voyageurs doivent vérifier les règles de destination sans supposer qu’une autorisation nationale les accompagne partout. [Health Canada](https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/medical-use-cannabis.html) [NHS](https://www.nhs.uk/medicines/medical-cannabis/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Maroc : loi 13-21 et évolutions vérifiées en 2026"
+      },
+      {
+        "type": "paragraph",
+        "text": "La loi marocaine 13-21 a établi un cadre pour les usages licites du cannabis. L’ANRAC supervise les activités à finalité médicale, pharmaceutique et industrielle, notamment les autorisations et la traçabilité de la filière. Ce dispositif réglementé ne doit être confondu ni avec une autorisation générale de consommation récréative, ni avec la preuve que chaque produit issu de la filière constitue un médicament efficace. [ANRAC: 13-21](https://www.anrac.gov.ma/fr/loi1321/) [ANRAC](https://www.anrac.gov.ma/fr/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Parmi les évolutions vérifiées de 2026, l’ANRAC documente un colloque scientifique du 29 janvier consacré aux applications cliniques du CBD et à ses perspectives thérapeutiques au Maroc, ainsi qu’une journée scientifique sur le cannabis thérapeutique à Casablanca le 6 juin. Ces documents attestent une mobilisation scientifique et professionnelle. Ils ne prouvent pas, à eux seuls, une nouvelle autorisation de médicament, l’achèvement d’un essai clinique ou une amélioration de la santé des patients. [ANRAC, 29/01/2026](https://www.anrac.gov.ma/fr/2026/01/29/phototheque-colloque-scientifique-le-cannabidiol-cbd-applications-cliniques-et-perspectives-therapeutiques-au-maroc-2/) [ANRAC, 06/06/2026](https://www.anrac.gov.ma/fr/2026/06/06/premiere-journee-scientifique-sur-lusage-therapeutique-du-cannabis-a-casablanca/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les prochaines questions sont autant pratiques que scientifiques : quelles préparations satisfont aux normes pharmaceutiques, quelles indications disposent de preuves suffisantes et comment les cliniciens évaluent-ils bénéfices et risques ? Autorisation agricole, opportunité commerciale et recommandation clinique doivent rester distinctes. Cette vérification réglementaire est datée du 15 octobre 2026 ; elle ne transforme pas une ambition annoncée en résultat médical démontré."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Les preuves qu’il reste à construire"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le développement clinique exige une formulation reproductible, un comparateur pertinent et des résultats qui comptent pour les patients. Un suivi prolongé doit préciser la persistance des bénéfices et les risques. Les essais rencontrent aussi un problème d’aveugle : des effets intoxicants reconnaissables peuvent révéler aux participants leur groupe et influencer les évaluations subjectives. L’enregistrement d’un essai ou une étude précoce ne valent pas succès thérapeutique. [National Academies, 2017](https://www.ncbi.nlm.nih.gov/books/NBK425757/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’étude d’autres cannabinoïdes, au-delà du THC et du CBD, et la modulation de la signalisation propre à l’organisme ouvrent de véritables pistes. Elles suscitent aussi des promesses prématurées. Un avenir utile offrirait des médicaments mieux définis et des choix plus fiables, plutôt qu’une liste croissante de maladies accolée à une feuille. Un extrait végétal doit répondre à la même exigence scientifique qu’une molécule de laboratoire. [Nature Reviews Neurology, 2020](https://www.nature.com/articles/s41582-019-0284-z)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Les questions à poser en consultation"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les questions utiles sont concrètes : que contient exactement le produit, quelles preuves existent pour cette affection, quelles alternatives sont disponibles, quelles interactions importent et quelle amélioration justifierait la poursuite ? Ces décisions se prennent avec un professionnel qualifié. Cet article apporte une information générale, pas une ordonnance individuelle ni une raison de modifier seul son traitement."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le cannabis n’est ni un miracle attendant d’être libéré ni un sujet auquel la science devrait renoncer. Son histoire médicale la plus convaincante est plus précise : certaines molécules peuvent aider certaines personnes, et la rigueur qui révèle leurs bénéfices révèle aussi leurs limites. Le progrès commence lorsque l’espoir devient assez précis pour être mis à l’épreuve."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NCCIH",
+        "url": "https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know"
+      },
+      {
+        "label": "National Cancer Institute",
+        "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq"
+      },
+      {
+        "label": "Nature Reviews Neurology, 2020",
+        "url": "https://www.nature.com/articles/s41582-019-0284-z"
+      },
+      {
+        "label": "Devinsky et al., 2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28538134/"
+      },
+      {
+        "label": "FDA: Epidiolex, 2025",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210365s023lbl.pdf"
+      },
+      {
+        "label": "FDA",
+        "url": "https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd"
+      },
+      {
+        "label": "ASCO, 2024",
+        "url": "https://ascopubs.org/doi/10.1200/JCO.23.02596"
+      },
+      {
+        "label": "Cochrane, 2022",
+        "url": "https://www.cochrane.org/evidence/CD013444_cannabis-and-cannabinoids-people-multiple-sclerosis"
+      },
+      {
+        "label": "AHRQ, 2025",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK618045/"
+      },
+      {
+        "label": "CDC",
+        "url": "https://www.cdc.gov/cannabis/faq/"
+      },
+      {
+        "label": "CDC",
+        "url": "https://www.cdc.gov/cannabis/health-effects/mental-health.html"
+      },
+      {
+        "label": "FDA",
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding"
+      },
+      {
+        "label": "FDA",
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-you-need-know-and-what-were-working-find-out-about-products-containing-cannabis-or-cannabis"
+      },
+      {
+        "label": "CDC",
+        "url": "https://www.cdc.gov/cannabis/health-effects/driving.html"
+      },
+      {
+        "label": "WHO, 2020",
+        "url": "https://www.who.int/news/item/04-12-2020-un-commission-on-narcotic-drugs-reclassifies-cannabis-to-recognize-its-therapeutic-uses"
+      },
+      {
+        "label": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/medical-use-cannabis.html"
+      },
+      {
+        "label": "NHS",
+        "url": "https://www.nhs.uk/medicines/medical-cannabis/"
+      },
+      {
+        "label": "ANRAC: 13-21",
+        "url": "https://www.anrac.gov.ma/fr/loi1321/"
+      },
+      {
+        "label": "ANRAC",
+        "url": "https://www.anrac.gov.ma/fr/"
+      },
+      {
+        "label": "ANRAC, 29/01/2026",
+        "url": "https://www.anrac.gov.ma/fr/2026/01/29/phototheque-colloque-scientifique-le-cannabidiol-cbd-applications-cliniques-et-perspectives-therapeutiques-au-maroc-2/"
+      },
+      {
+        "label": "ANRAC, 06/06/2026",
+        "url": "https://www.anrac.gov.ma/fr/2026/06/06/premiere-journee-scientifique-sur-lusage-therapeutique-du-cannabis-a-casablanca/"
+      },
+      {
+        "label": "National Academies, 2017",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK425757/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/megan-fox-subs-co-owner-tim-stokely/",
     "path": "/ar/articles/megan-fox-subs-co-owner-tim-stokely/",
     "kind": "article",

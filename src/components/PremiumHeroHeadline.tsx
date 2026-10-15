@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "medical-cannabis-science-benefits-risks": {"en":{"red":"MEDICAL CANNABIS","gold":"BENEFITS AND RISKS"},"fr":{"red":"CANNABIS MÉDICAL","gold":"BÉNÉFICES ET SES RISQUES"},"es":{"red":"CANNABIS MEDICINAL","gold":"BENEFICIOS Y RIESGOS"},"ar":{"red":"القنب الطبي","gold":"فوائده ومخاطره"}},
   "butterfly-effect-small-changes-big-consequences": {"en":{"red":"THE BUTTERFLY EFFECT","gold":"BIG CONSEQUENCES"},"fr":{"red":"L’EFFET PAPILLON","gold":"GRANDES CONSÉQUENCES"},"es":{"red":"EL EFECTO MARIPOSA","gold":"GRANDES CONSECUENCIAS"},"ar":{"red":"تأثير الفراشة","gold":"نتائج كبيرة"}},
   "artificial-wombs-future-human-birth": {"en":{"red":"ARTIFICIAL WOMBS","gold":"HUMAN BIRTH"},"fr":{"red":"UTÉRUS ARTIFICIELS","gold":"NAISSANCE HUMAINE"},"es":{"red":"ÚTEROS ARTIFICIALES","gold":"NACIMIENTO HUMANO"},"ar":{"red":"الأرحام الاصطناعية","gold":"الولادة البشرية"}},
   "formula-1-returns-africa-rwanda-deal": {"en":{"red":"FORMULA 1","gold":"RWANDA"},"fr":{"red":"FORMULE 1","gold":"RWANDA"},"es":{"red":"FÓRMULA 1","gold":"RUANDA"},"ar":{"red":"الفورمولا 1","gold":"رواندا"}},
