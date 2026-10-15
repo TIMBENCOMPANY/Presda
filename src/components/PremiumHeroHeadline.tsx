@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "butterfly-effect-small-changes-big-consequences": {"en":{"red":"THE BUTTERFLY EFFECT","gold":"BIG CONSEQUENCES"},"fr":{"red":"L’EFFET PAPILLON","gold":"GRANDES CONSÉQUENCES"},"es":{"red":"EL EFECTO MARIPOSA","gold":"GRANDES CONSECUENCIAS"},"ar":{"red":"تأثير الفراشة","gold":"نتائج كبيرة"}},
   "artificial-wombs-future-human-birth": {"en":{"red":"ARTIFICIAL WOMBS","gold":"HUMAN BIRTH"},"fr":{"red":"UTÉRUS ARTIFICIELS","gold":"NAISSANCE HUMAINE"},"es":{"red":"ÚTEROS ARTIFICIALES","gold":"NACIMIENTO HUMANO"},"ar":{"red":"الأرحام الاصطناعية","gold":"الولادة البشرية"}},
   "formula-1-returns-africa-rwanda-deal": {"en":{"red":"FORMULA 1","gold":"RWANDA"},"fr":{"red":"FORMULE 1","gold":"RWANDA"},"es":{"red":"FÓRMULA 1","gold":"RUANDA"},"ar":{"red":"الفورمولا 1","gold":"رواندا"}},
   "beyonce-kelly-rowland-houston-knowles-rowland-house": {"en":{"red":"BEYONCÉ","gold":"HOUSTON"},"fr":{"red":"BEYONCÉ","gold":"HOUSTON"},"es":{"red":"BEYONCÉ","gold":"HOUSTON"},"ar":{"red":"بيونسيه","gold":"هيوستن"}},

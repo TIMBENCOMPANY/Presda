@@ -691,6 +691,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/butterfly-effect-small-changes-big-consequences/",
+    "path": "/ar/articles/butterfly-effect-small-changes-big-consequences/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/butterfly-effect-small-changes-big-consequences/",
+    "path": "/es/articles/butterfly-effect-small-changes-big-consequences/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/butterfly-effect-small-changes-big-consequences/",
+    "path": "/fr/articles/butterfly-effect-small-changes-big-consequences/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/byd-overtakes-tesla-annual-bev-sales/",
     "path": "/ar/articles/byd-overtakes-tesla-annual-bev-sales/"
   },
