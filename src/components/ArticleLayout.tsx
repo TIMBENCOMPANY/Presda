@@ -1,3 +1,4 @@
+import pillCultureHeroCaptions from "@/data/pillCultureHeroCaptions.json";
 import fischerHeroCaptions from "@/data/fischerHeroCaptions.json";
 import { FischerHistoricalImage, fischerImageAtBlock } from "@/components/FischerHistoricalImage";
 import teslaHeroCaptions from "@/data/teslaHeroCaptions.json";
@@ -342,6 +343,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "invention-photography-first-photo-digital-age" && <p data-photography-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{photographyHeroCaptions[locale]}</p>}
         {article.slug === "nikola-tesla-genius-helped-electrify-world" && <p data-tesla-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{teslaHeroCaptions[locale]}</p>}
         {article.slug === "bobby-fischer-chess-legend-america-iceland" && <p data-fischer-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{fischerHeroCaptions[locale]}</p>}
+        {article.slug === "pill-culture-red-blue-black-pills-modern-thinking" && <p data-pill-culture-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{pillCultureHeroCaptions[locale]}</p>}
         {article.slug === "medical-cannabis-science-benefits-risks" && <p data-medical-cannabis-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{medicalCannabisHeroCaptions[locale]}</p>}
         {article.slug === "butterfly-effect-small-changes-big-consequences" && <p data-butterfly-effect-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{butterflyEffectHeroCaptions[locale]}</p>}
         {article.slug === "artificial-wombs-future-human-birth" && <p data-artificial-wombs-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{artificialWombsHeroCaptions[locale]}</p>}

@@ -8,6 +8,49 @@ export type ArticleTableConfig = {
 };
 
 export const articleTables: Record<string, ArticleTableConfig> = {
+  "[[PILL_CULTURE_COMPARISON]]": {
+  "caption": "Pill-color meanings vary by context. These are community labels, not scientific categories.",
+  "headers": [
+    "Color",
+    "Recurring meaning",
+    "Associated spaces and limits"
+  ],
+  "rows": [
+    [
+      "Red",
+      "Claimed awakening to hidden rules.",
+      "Manosphere and wider political debate; agreement about gender is not universal."
+    ],
+    [
+      "Blue",
+      "Acceptance of conventional explanations.",
+      "Often a label applied by opponents, not a coherent movement."
+    ],
+    [
+      "Black",
+      "Fatalism about appearance and romantic prospects.",
+      "Some incel communities; biological destiny is a belief, not an established prognosis."
+    ],
+    [
+      "White",
+      "Hope or optimism despite adversity.",
+      "Varied online groups, including extremist uses; optimism alone does not define the ideology."
+    ],
+    [
+      "Purple",
+      "A claimed middle ground or mixture of red and blue.",
+      "Relationship-debate spaces; calling a view moderate does not verify it."
+    ],
+    [
+      "Pink",
+      "Female-centered interpretations of gender, beauty or exclusion.",
+      "Some femcel, beauty and feminist spaces; meanings conflict and do not represent feminism as a whole."
+    ]
+  ],
+  "minWidthClass": "min-w-[620px]",
+  "boldColumnIndex": 0,
+  "rowKeyIndex": 0
+},
   "[[ROBOT_RACE_COMPARE]]": {
   "caption": "Manufacturer disclosures reviewed October 9, 2026. Listed USD prices exclude tax and shipping; EDU/options and local availability differ. No common independent test.",
   "headers": [
