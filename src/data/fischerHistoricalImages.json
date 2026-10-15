@@ -1,0 +1,83 @@
+{
+  "young": {
+    "src": "/articles/fischer/young.webp",
+    "width": 531,
+    "height": 800,
+    "credit": "Bundesarchiv, Bild 183-76052-0053 / Kohls, Ulrich / CC BY-SA 3.0 DE",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-76052-0053,_XIV._Schacholympiade_in_Leipzig.jpg",
+    "copy": {
+      "en": {
+        "alt": "Bobby Fischer standing beside William Lombardy at the 1960 Leipzig Chess Olympiad",
+        "caption": "Fischer observes William Lombardy’s game at the Leipzig Chess Olympiad, October 1960. Photograph by Ulrich Kohls."
+      },
+      "fr": {
+        "alt": "Bobby Fischer debout près de William Lombardy à l’Olympiade de Leipzig en 1960",
+        "caption": "Fischer observe la partie de William Lombardy à l’Olympiade de Leipzig, en octobre 1960. Photographie d’Ulrich Kohls."
+      },
+      "es": {
+        "alt": "Bobby Fischer de pie junto a William Lombardy en la Olimpiada de Leipzig de 1960",
+        "caption": "Fischer observa la partida de William Lombardy en la Olimpiada de Leipzig, octubre de 1960. Fotografía de Ulrich Kohls."
+      },
+      "ar": {
+        "alt": "بوبي فيشر واقفاً بجوار ويليام لومباردي في أولمبياد لايبزيغ للشطرنج عام 1960",
+        "caption": "فيشر يراقب مباراة ويليام لومباردي في أولمبياد لايبزيغ، أكتوبر 1960. تصوير أولريش كولس."
+      }
+    }
+  },
+  "champion": {
+    "src": "/articles/fischer/champion.webp",
+    "width": 2441,
+    "height": 3671,
+    "credit": "W. Punt / Anefo / Nationaal Archief, 925-3509 / CC0",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Bobby_Fischer_in_Amsterdam_voor_besprekingen_met_FIDE-voorzitter_Max_Euwe_over_d,_Bestanddeelnr_925-3509.jpg",
+    "copy": {
+      "en": {
+        "alt": "Bobby Fischer carrying a newspaper in Amsterdam in January 1972",
+        "caption": "Fischer in Amsterdam on January 31, 1972, during a visit for championship negotiations with FIDE president Max Euwe. This photograph predates his victory in Iceland."
+      },
+      "fr": {
+        "alt": "Bobby Fischer tenant un journal à Amsterdam en janvier 1972",
+        "caption": "Fischer à Amsterdam le 31 janvier 1972, lors d’une visite pour les négociations du championnat avec Max Euwe, président de la FIDE. Cette photographie précède son titre islandais."
+      },
+      "es": {
+        "alt": "Bobby Fischer con un periódico en Ámsterdam en enero de 1972",
+        "caption": "Fischer en Ámsterdam el 31 de enero de 1972, durante una visita para negociar el campeonato con Max Euwe, presidente de la FIDE. La imagen es anterior a su victoria en Islandia."
+      },
+      "ar": {
+        "alt": "بوبي فيشر يحمل صحيفة في أمستردام في يناير 1972",
+        "caption": "فيشر في أمستردام يوم 31 يناير 1972، خلال زيارة لمفاوضات البطولة مع رئيس الاتحاد الدولي ماكس إيوي. تسبق الصورة فوزه في آيسلندا."
+      }
+    }
+  },
+  "grave": {
+    "src": "/articles/fischer/grave.webp",
+    "width": 2688,
+    "height": 3584,
+    "credit": "AxelBoldt / Wikimedia Commons / Public domain",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bobby_Fischer_grave.JPG#Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Bobby_Fischer_grave.JPG",
+    "copy": {
+      "en": {
+        "alt": "Flower-covered grave of Robert James Fischer at Laugardælir in Iceland",
+        "caption": "Fischer’s grave in the Laugardælir churchyard near Selfoss, photographed by AxelBoldt on July 21, 2009. This is a later photograph of the grave, not an image of the 2008 funeral."
+      },
+      "fr": {
+        "alt": "Tombe fleurie de Robert James Fischer à Laugardælir en Islande",
+        "caption": "Tombe de Fischer au cimetière de Laugardælir, près de Selfoss, photographiée par AxelBoldt le 21 juillet 2009. Ce n’est pas une image des obsèques de 2008."
+      },
+      "es": {
+        "alt": "Tumba de Robert James Fischer cubierta de flores en Laugardælir, Islandia",
+        "caption": "Tumba de Fischer en el cementerio de Laugardælir, cerca de Selfoss, fotografiada por AxelBoldt el 21 de julio de 2009. No es una imagen del funeral de 2008."
+      },
+      "ar": {
+        "alt": "قبر روبرت جيمس فيشر المغطى بالأزهار في لوغارديلير بآيسلندا",
+        "caption": "قبر فيشر في مقبرة لوغارديلير قرب سيلفوس، تصوير AxelBoldt في 21 يوليو 2009. هذه صورة لاحقة للقبر وليست صورة لجنازة 2008."
+      }
+    }
+  }
+}

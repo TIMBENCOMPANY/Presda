@@ -646,5 +646,61 @@
       "src": "/articles/tesla/responsive/tower-472.webp",
       "bytes": 42588
     }
+  ],
+  "/articles/fischer/young.webp": [
+    {
+      "width": 400,
+      "src": "/articles/fischer/responsive/young-400.webp",
+      "bytes": 33972
+    },
+    {
+      "width": 531,
+      "src": "/articles/fischer/responsive/young-531.webp",
+      "bytes": 48052
+    }
+  ],
+  "/articles/fischer/champion.webp": [
+    {
+      "width": 400,
+      "src": "/articles/fischer/responsive/champion-400.webp",
+      "bytes": 41746
+    },
+    {
+      "width": 800,
+      "src": "/articles/fischer/responsive/champion-800.webp",
+      "bytes": 151512
+    },
+    {
+      "width": 1200,
+      "src": "/articles/fischer/responsive/champion-1200.webp",
+      "bytes": 379990
+    },
+    {
+      "width": 1600,
+      "src": "/articles/fischer/responsive/champion-1600.webp",
+      "bytes": 661378
+    }
+  ],
+  "/articles/fischer/grave.webp": [
+    {
+      "width": 400,
+      "src": "/articles/fischer/responsive/grave-400.webp",
+      "bytes": 87372
+    },
+    {
+      "width": 800,
+      "src": "/articles/fischer/responsive/grave-800.webp",
+      "bytes": 334394
+    },
+    {
+      "width": 1200,
+      "src": "/articles/fischer/responsive/grave-1200.webp",
+      "bytes": 733128
+    },
+    {
+      "width": 1600,
+      "src": "/articles/fischer/responsive/grave-1600.webp",
+      "bytes": 1226120
+    }
   ]
 }

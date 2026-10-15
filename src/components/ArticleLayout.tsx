@@ -1,3 +1,5 @@
+import fischerHeroCaptions from "@/data/fischerHeroCaptions.json";
+import { FischerHistoricalImage, fischerImageAtBlock } from "@/components/FischerHistoricalImage";
 import teslaHeroCaptions from "@/data/teslaHeroCaptions.json";
 import { TeslaHistoricalImage, teslaImageAtBlock } from "@/components/TeslaHistoricalImage";
 import photographyHeroCaptions from "@/data/photographyHeroCaptions.json";
@@ -339,6 +341,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "celine-dion-returns-stage-six-years-paris-2026" && <p data-celine-dion-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{celineDionHeroCaptions[locale]}</p>}
         {article.slug === "invention-photography-first-photo-digital-age" && <p data-photography-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{photographyHeroCaptions[locale]}</p>}
         {article.slug === "nikola-tesla-genius-helped-electrify-world" && <p data-tesla-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{teslaHeroCaptions[locale]}</p>}
+        {article.slug === "bobby-fischer-chess-legend-america-iceland" && <p data-fischer-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{fischerHeroCaptions[locale]}</p>}
         {article.slug === "medical-cannabis-science-benefits-risks" && <p data-medical-cannabis-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{medicalCannabisHeroCaptions[locale]}</p>}
         {article.slug === "butterfly-effect-small-changes-big-consequences" && <p data-butterfly-effect-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{butterflyEffectHeroCaptions[locale]}</p>}
         {article.slug === "artificial-wombs-future-human-birth" && <p data-artificial-wombs-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{artificialWombsHeroCaptions[locale]}</p>}
@@ -534,6 +537,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               }
               if (article.slug === "invention-photography-first-photo-digital-age" && photographyImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><PhotographyHistoricalImage id={photographyImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "nikola-tesla-genius-helped-electrify-world" && teslaImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><TeslaHistoricalImage id={teslaImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "bobby-fischer-chess-legend-america-iceland" && fischerImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FischerHistoricalImage id={fischerImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "first-giraffe-china-1414-bengal-yongle" && originalIndex === 18) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GiraffeMuseumImage locale={locale} /></div>;
               const structured = localizedBlocks?.[originalIndex];
               if (structured?.type === "table" && structured.sourceMarker === "[[ASTROLOGY_SCIENCE_TABLE]]") return <AstrologyComparisonTable key={originalIndex} table={{ headers: structured.headings, rows: structured.rows }} />;

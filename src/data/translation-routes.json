@@ -586,6 +586,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/bobby-fischer-chess-legend-america-iceland/",
+    "path": "/ar/articles/bobby-fischer-chess-legend-america-iceland/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/bobby-fischer-chess-legend-america-iceland/",
+    "path": "/es/articles/bobby-fischer-chess-legend-america-iceland/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/bobby-fischer-chess-legend-america-iceland/",
+    "path": "/fr/articles/bobby-fischer-chess-legend-america-iceland/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/bradley-cooper-gigi-hadid-paris-marriage-speculation/",
     "path": "/ar/articles/bradley-cooper-gigi-hadid-paris-marriage-speculation/"
   },
