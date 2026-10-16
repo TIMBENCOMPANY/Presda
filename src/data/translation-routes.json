@@ -256,6 +256,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/animal-testing-hidden-cost-scientific-progress/",
+    "path": "/ar/articles/animal-testing-hidden-cost-scientific-progress/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/animal-testing-hidden-cost-scientific-progress/",
+    "path": "/es/articles/animal-testing-hidden-cost-scientific-progress/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/animal-testing-hidden-cost-scientific-progress/",
+    "path": "/fr/articles/animal-testing-hidden-cost-scientific-progress/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/anime-how-japanese-animation-conquered-the-world/",
     "path": "/ar/articles/anime-how-japanese-animation-conquered-the-world/"
   },

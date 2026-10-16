@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "animal-testing-hidden-cost-scientific-progress": {"en":{"red":"ANIMAL TESTING","gold":"SCIENTIFIC PROGRESS"},"fr":{"red":"EXPÉRIMENTATION ANIMALE","gold":"PROGRÈS SCIENTIFIQUE"},"es":{"red":"EXPERIMENTACIÓN ANIMAL","gold":"PROGRESO CIENTÍFICO"},"ar":{"red":"التجارب على الحيوانات","gold":"للتقدم العلمي"}},
   "pill-culture-red-blue-black-pills-modern-thinking": {"en":{"red":"THE PILL CULTURE","gold":"MODERN THINKING"},"fr":{"red":"LA CULTURE DES PILULES","gold":"LA PENSÉE MODERNE"},"es":{"red":"LA CULTURA DE LAS PÍLDORAS","gold":"EL PENSAMIENTO MODERNO"},"ar":{"red":"ثقافة الحبوب","gold":"التفكير المعاصر"}},
   "bobby-fischer-chess-legend-america-iceland": {"en":{"red":"BOBBY FISCHER","gold":"ICELAND"},"fr":{"red":"BOBBY FISCHER","gold":"ISLANDE"},"es":{"red":"BOBBY FISCHER","gold":"ISLANDIA"},"ar":{"red":"بوبي فيشر","gold":"آيسلندا"}},
   "nikola-tesla-genius-helped-electrify-world": {"en":{"red":"NIKOLA TESLA","gold":"ELECTRIFY THE WORLD"},"fr":{"red":"NIKOLA TESLA","gold":"ÉLECTRIFIER LE MONDE"},"es":{"red":"NIKOLA TESLA","gold":"ELECTRIFICAR EL MUNDO"},"ar":{"red":"نيكولا تسلا","gold":"كهربة العالم"}},

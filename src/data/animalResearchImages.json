@@ -1,0 +1,56 @@
+{
+  "mouse": {
+    "src": "/articles/animal-testing/mouse-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "credit": "Rama / Wikimedia Commons / CC BY-SA 2.0 France",
+    "license": "CC BY-SA 2.0 France",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+    "source": "https://commons.wikimedia.org/wiki/File:Lab_mouse_mg_3213.jpg",
+    "copy": {
+      "en": {
+        "alt": "A brown laboratory mouse standing on a blue gloved hand.",
+        "caption": "Laboratory mouse photographed by Rama in 2008. The image illustrates a research species; its record does not establish a specific experiment."
+      },
+      "fr": {
+        "alt": "Une souris brune de laboratoire sur une main gantée de bleu.",
+        "caption": "Souris de laboratoire photographiée par Rama en 2008. L’image présente une espèce utilisée en recherche ; sa notice ne documente pas une expérience précise."
+      },
+      "es": {
+        "alt": "Un ratón de laboratorio marrón sobre una mano con guante azul.",
+        "caption": "Ratón de laboratorio fotografiado por Rama en 2008. La imagen muestra una especie de investigación; su ficha no documenta un experimento concreto."
+      },
+      "ar": {
+        "alt": "فأر مختبر بني يقف على يد ترتدي قفازا أزرق.",
+        "caption": "فأر مختبر صوره راما عام 2008. توضح الصورة نوعا مستخدما في البحث، ولا يوثق سجلها تجربة محددة."
+      }
+    }
+  },
+  "chip": {
+    "src": "/articles/animal-testing/chip-1200.webp",
+    "width": 1200,
+    "height": 800,
+    "credit": "Wyss Institute, Harvard University / NIH-NCATS / Wikimedia Commons / CC BY 2.0",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Lung-on-a-chip-wyss.jpg",
+    "copy": {
+      "en": {
+        "alt": "Lung-on-a-chip research device connected to clear tubing and illuminated in blue.",
+        "caption": "An authentic photograph of a Wyss Institute lung-on-a-chip device. Such systems reproduce selected tissue functions, not an entire human lung or body."
+      },
+      "fr": {
+        "alt": "Dispositif de poumon sur puce relié à des tubes transparents et éclairé en bleu.",
+        "caption": "Photographie authentique d’un poumon sur puce du Wyss Institute. Ces systèmes reproduisent certaines fonctions tissulaires, pas un poumon humain entier ni un organisme complet."
+      },
+      "es": {
+        "alt": "Dispositivo de pulmón en chip conectado a tubos transparentes e iluminado en azul.",
+        "caption": "Fotografía auténtica de un pulmón en chip del Wyss Institute. Estos sistemas reproducen funciones tisulares seleccionadas, no un pulmón humano entero ni un organismo completo."
+      },
+      "ar": {
+        "alt": "جهاز رئة على رقاقة متصل بأنابيب شفافة ومضاء باللون الأزرق.",
+        "caption": "صورة حقيقية لجهاز رئة على رقاقة من معهد ويس. تحاكي هذه الأنظمة وظائف نسيجية مختارة، لا رئة بشرية كاملة أو جسما كاملا."
+      }
+    }
+  }
+}

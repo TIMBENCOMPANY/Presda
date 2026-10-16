@@ -702,5 +702,33 @@
       "src": "/articles/fischer/responsive/grave-1600.webp",
       "bytes": 1226120
     }
+  ],
+  "/articles/animal-testing/mouse-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/animal-testing/mouse-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/animal-testing/mouse-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/animal-testing/mouse-1200.webp"
+    }
+  ],
+  "/articles/animal-testing/chip-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/animal-testing/chip-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/animal-testing/chip-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/animal-testing/chip-1200.webp"
+    }
   ]
 }

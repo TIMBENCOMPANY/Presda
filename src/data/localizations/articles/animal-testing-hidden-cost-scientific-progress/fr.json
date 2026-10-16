@@ -1,0 +1,290 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/animal-testing-hidden-cost-scientific-progress/",
+  "path": "/fr/articles/animal-testing-hidden-cost-scientific-progress/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-16",
+    "terminologyChecked": true
+  },
+  "title": "EXPÉRIMENTATION ANIMALE : LE COÛT CACHÉ DU PROGRÈS SCIENTIFIQUE",
+  "seoTitle": "Expérimentation animale : bénéfices, limites et alternatives",
+  "description": "Apports médicaux, souffrance animale, limites scientifiques et méthodes alternatives : comprendre les enjeux et les évolutions de la FDA en 2025–2026.",
+  "excerpt": "Apports médicaux, souffrance animale, limites scientifiques et méthodes alternatives : comprendre les enjeux et les évolutions de la FDA en 2025–2026.",
+  "headlineHighlights": {
+    "red": "EXPÉRIMENTATION ANIMALE",
+    "gold": "PROGRÈS SCIENTIFIQUE"
+  },
+  "keywords": [
+    "EXPÉRIMENTATION ANIMALE",
+    "PROGRÈS SCIENTIFIQUE"
+  ],
+  "searchIntent": "Apports médicaux, souffrance animale, limites scientifiques et méthodes alternatives : comprendre les enjeux et les évolutions de la FDA en 2025–2026.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-16",
+  "updatedAt": "2026-10-16",
+  "image": {
+    "src": "/articles/animal-testing-hero.png",
+    "alt": "Illustration conceptuelle présentant un chien, un rongeur, des lapins et un primate dans un laboratoire imaginaire."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un médicament parvient au patient dans une petite boîte. Le travail qui le précède dépasse largement son étiquette : molécules abandonnées, cultures cellulaires, modèles informatiques, volontaires et, souvent, animaux. Certains ont contribué à des découvertes qui ont transformé la médecine. D’autres ont subi des procédures dont les promesses ne sont jamais devenues des traitements. L’histoire de l’expérimentation animale contient ces deux réalités."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’expérimentation animale ne désigne pas une pratique unique. Une souris génétiquement modifiée, un lapin utilisé dans une étude de sécurité et un primate étudié en infectiologie répondent à des questions différentes. Il faut donc demander précisément ce que l’expérience permettra d’apprendre, dans quelle mesure ses résultats seront pertinents pour l’être humain, ce que subira l’animal et si une méthode moins dommageable pourrait apporter la réponse."
+    },
+    {
+      "type": "heading",
+      "text": "De l’anatomie aux traitements qui sauvent des vies"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les expériences sur les animaux précèdent largement l’industrie pharmaceutique. L’étude historique de Nuno Henrique Franco retrace leur place dans l’anatomie antique et l’essor de la médecine expérimentale, notamment avec Claude Bernard au XIXe siècle. La contestation s’est développée parallèlement. Le désaccord ne portait pas seulement sur la production de connaissances, mais aussi sur la possibilité de justifier les souffrances infligées pour les obtenir. [Franco : perspective historique](https://pmc.ncbi.nlm.nih.gov/articles/PMC4495509/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’insuline illustre un bénéfice documenté sans imposer un récit triomphaliste. En 1921, des chercheurs de Toronto montrèrent que des extraits pancréatiques réduisaient la glycémie de chiens rendus diabétiques expérimentalement. La mise au point d’une insuline utilisable nécessita ensuite purification et traitement humain en 1922. Frederick Banting, Charles Best, John Macleod et James Collip y participèrent. Les animaux occupèrent une place importante dans cet enchaînement, aux côtés des recherches antérieures, de la chimie et du travail clinique. [NIDDK : découverte de l’insuline](https://www.niddk.nih.gov/news/archive/2021/celebrating-discovery-development-insulin)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’histoire de la poliomyélite est tout aussi imbriquée. Les singes et les cultures de tissus ont contribué aux travaux précédant et accompagnant la vaccination. Des historiens ont étudié le lien entre le commerce des macaques rhésus et le développement des cultures cellulaires. Aucune méthode n’explique seule cette avancée. Le progrès associe souvent plusieurs approches, et les techniques de remplacement peuvent naître au sein même d’un système dépendant des animaux. [Poliomyélite, singes et cultures de tissus](https://pubmed.ncbi.nlm.nih.gov/35233686/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi les chercheurs utilisent encore des animaux"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un organisme vivant relie circulation, métabolisme, immunité, signaux hormonaux et comportement. Reproduire ensemble ces processus reste difficile. Les chercheurs peuvent vouloir connaître le trajet d’un médicament, sa dégradation, ses effets sur un organe ou l’évolution d’une maladie. Les NIH demandent aux candidats à un financement de justifier le choix des animaux et l’impossibilité de recourir à d’autres méthodes. Une espèce modélise une question particulière ; ce n’est pas un humain miniature. [NIH : pourquoi utiliser des animaux](https://grants.nih.gov/policy-and-compliance/policy-topics/air/why-animals-are-used-in-research)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les souris et les rats sont largement employés en génétique, dans l’étude des maladies et en toxicologie. Les lapins ont servi à produire des anticorps et à évaluer la sécurité ; les chiens interviennent dans certains programmes pharmacologiques et toxicologiques ; les primates non humains dans certaines recherches neurologiques et infectieuses. Les poissons, notamment le poisson-zèbre, permettent des travaux sur le développement et la génétique. Cela ne signifie pas que chaque médicament exige chacune de ces espèces. Le choix doit reposer sur la pertinence biologique et les alternatives disponibles. [Histoire des modèles animaux](https://pubmed.ncbi.nlm.nih.gov/23829102/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le développement pharmaceutique pose également plusieurs questions distinctes. Un traitement peut agir sur un mécanisme pathologique tout en devenant dangereux à la dose nécessaire. Un vaccin peut déclencher une réponse immunitaire sans protéger suffisamment. Les études non cliniques éclairent les décisions concernant les essais humains, mais n’en garantissent pas le succès. Recherche animale, évaluation réglementaire de la sécurité et contrôle courant des produits ne sont pas des catégories interchangeables. [FDA : bien-être animal et recherche](https://www.fda.gov/consumers/consumer-updates/animal-welfare-testing-and-research-fda-regulated-products)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que mesurent réellement les chiffres"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il n’existe pas de recensement mondial complet et harmonisé. Une étude évaluée par les pairs, signée Katy Taylor et Laura Rego Alvarez, estime à 79,9 millions les animaux utilisés dans des procédures scientifiques dans le monde en 2015. Son estimation élargie de 192,1 millions inclut notamment les animaux tués pour leurs tissus, certaines utilisations liées à l’élevage et ceux élevés sans être utilisés. Ce sont des estimations historiques modélisées, pas un décompte vérifié pour 2026. Les autrices étaient affiliées à une organisation de protection animale ; les hypothèses d’extrapolation méritent autant d’attention que le résultat. [Taylor et Alvarez : estimation mondiale](https://journals.sagepub.com/doi/full/10.1177/0261192919899853)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les statistiques officielles régionales mesurent autre chose. Un rapport de la Commission européenne publié en 2026 indique que 7,97 millions d’animaux ont été utilisés pour la première fois dans des procédures au sein de l’Union européenne en 2023, soit 4,9 % de moins qu’en 2022. Ce n’est ni un total mondial ni un comptage de chaque réutilisation comme nouvel animal. Il n’est pas directement comparable à l’estimation élargie de 192,1 millions. L’année, le territoire et la méthode de comptage doivent accompagner le chiffre. [Commission européenne : statistiques 2018–2023](https://data.consilium.europa.eu/doc/document/ST-7917-2026-INIT/en/pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les données américaines exigent une autre précaution. Les instructions de déclaration de l’USDA excluent de ce dispositif relevant de l’Animal Welfare Act les rats et souris des genres Rattus et Mus élevés pour la recherche, ainsi que les oiseaux élevés à cette fin. Ces rapports ne représentent donc pas tous les animaux utilisés aux États-Unis. Cette exclusion statistique ne signifie pas absence de toute surveillance : les recherches sur les vertébrés soutenues par les NIH sont soumises à d’autres obligations. [USDA : instructions de déclaration](https://www.aphis.usda.gov/sites/default/files/fy24-annual-report-packet-ac.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que coûte l’expérience à l’animal"
+    },
+    {
+      "type": "paragraph",
+      "text": "La charge subie peut comprendre douleur, maladie provoquée, manipulations répétées, contention ou limitation des comportements habituels. La gravité varie considérablement. Une observation et un modèle de maladie ne sont identiques ni biologiquement ni moralement ; une photographie ne permet pas de déterminer ce qui s’est passé dans un laboratoire. Reconnaître cette variabilité ne diminue cependant pas l’importance de la souffrance pour l’animal qui l’éprouve."
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon les normes du Public Health Service américain, des comités institutionnels examinent les protocoles. Au-delà d’une douleur ou détresse légère ou momentanée, une sédation, une analgésie ou une anesthésie adaptée est requise, sauf justification scientifique écrite. Des points limites permettent d’interrompre une expérience avant une dégradation prédéfinie. Ces garanties ne signifient pas que toute recherche autorisée soit indolore, ni que l’euthanasie efface le coût éthique de l’utilisation d’un animal. [NIH OLAW : critères d’examen](https://olaw.nih.gov/resources/tutorials/iacufoot.htm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le désaccord éthique demeure profond. Une approche fondée sur les bénéfices peut autoriser un dommage soigneusement justifié au service d’un objectif sanitaire important. Une approche fondée sur les droits des animaux peut refuser leur instrumentalisation même lorsqu’un bénéfice paraît plausible. Entre les deux, les débats concernent gravité, nécessité, espèces et poids à donner à des bénéfices futurs incertains. L’examen éthique ne résout pas toute la philosophie, mais doit rendre les arbitrages visibles. [Éthique de la recherche animale](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684868/)"
+    },
+    {
+      "type": "heading",
+      "text": "Quand les modèles animaux prédisent mal la réponse humaine"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les ressemblances biologiques sont utiles, mais incomplètes. Les espèces diffèrent par leur métabolisme, leurs signaux immunitaires et l’évolution des maladies. Une affection provoquée chez de jeunes animaux génétiquement proches ne reproduit parfois qu’une partie d’une maladie humaine influencée par l’âge, les comorbidités et les expositions cumulées. Un modèle peut éclairer un mécanisme sans prédire correctement le bénéfice d’un traitement. [Transposition et reproductibilité](https://pmc.ncbi.nlm.nih.gov/articles/PMC9291343/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La conception des études ajoute une incertitude. Des échantillons insuffisants, l’absence de randomisation ou d’évaluation en aveugle et des comptes rendus incomplets fragilisent les résultats, quelle que soit l’espèce. Le NC3Rs encourage des outils de conception expérimentale et les recommandations ARRIVE. Une mauvaise expérience gaspille davantage que de l’argent : elle utilise des animaux sans produire les connaissances fiables invoquées pour la justifier. [NC3Rs : recherche rigoureuse](https://nc3rs.org.uk/3rs-resources/reliable-reproducible-and-rigorous-research)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les taux d’échec clinique doivent aussi être interprétés prudemment. Un médicament peut ne pas obtenir d’autorisation pour des raisons d’efficacité, de sécurité ou d’autres motifs après plusieurs sélections. La proportion de candidats abandonnés ne mesure donc pas directement celle des expériences animales erronées. Inversement, un résultat animal ne prouve jamais à un patient qu’un traitement expérimental fonctionnera. Les données humaines demeurent indispensables. Cette distinction est aussi essentielle pour évaluer les [allégations sur le cannabis médical](/articles/medical-cannabis-science-benefits-risks/)."
+    },
+    {
+      "type": "heading",
+      "text": "Cosmétiques : un autre paysage réglementaire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les interdictions européennes d’expérimentation et de commercialisation des cosmétiques ont atteint leur dernière étape d’application le 11 mars 2013. Elles concernent les essais réalisés à des fins cosmétiques, pas toute étude portant sur une substance susceptible d’entrer aussi dans un cosmétique. Cette distinction est essentielle pour comprendre l’historique d’un ingrédient. [Commission européenne : interdiction cosmétique](https://single-market-economy.ec.europa.eu/sectors/cosmetics/ban-animal-testing_en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le règlement distinct REACH peut encore exiger des informations de sécurité pour protéger les travailleurs ou l’environnement, l’expérimentation animale constituant un dernier recours lorsque les alternatives adaptées manquent. Aux États-Unis, la législation fédérale sur les cosmétiques n’exige pas spécifiquement ces essais, indique la FDA. Une interdiction cosmétique, une exigence pharmaceutique et la mention « cruelty-free » ne signifient donc pas nécessairement la même chose d’un pays à l’autre. [ECHA : cosmétiques et REACH](https://echa.europa.eu/documents/10162/9015407/Cosmetics_REACH_interface_en.pdf) [FDA : essais cosmétiques](https://www.fda.gov/cosmetics/product-testing-cosmetics/animal-testing-cosmetics)"
+    },
+    {
+      "type": "heading",
+      "text": "Les 3R : repenser l’expérience"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remplacement, réduction et raffinement constituent le cadre formulé par William Russell et Rex Burch en 1959. Le remplacement vise à éviter l’utilisation d’animaux. La réduction cherche une information robuste avec moins d’animaux, grâce notamment à une meilleure conception et au partage des données. Le raffinement améliore les procédures et les soins pour limiter douleur, détresse et dommages durables. Un effectif trop faible pour répondre correctement ne constitue pas une réduction réussie ; qualifier une procédure d’humaine ne démontre pas son raffinement. [NC3Rs : les 3R](https://nc3rs.org.uk/who-we-are/3rs)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces principes modifient les décisions avant l’expérience. Les connaissances existantes suffisent-elles ? Un test sur cellules humaines pourrait-il éliminer d’abord les molécules inadaptées ? Une mesure moins invasive peut-elle remplacer des prélèvements répétés ? Un point d’arrêt est-il prévu ? L’intention éthique devient ainsi évaluable. Un engagement gagne en crédibilité lorsqu’un laboratoire explique ce qu’il a remplacé, réduit et amélioré concrètement."
+    },
+    {
+      "type": "heading",
+      "text": "La biologie humaine sur une puce"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les cultures cellulaires permettent d’étudier des réponses dans un environnement contrôlé. Les organoïdes organisent les cellules en structures tridimensionnelles reproduisant certaines caractéristiques d’un tissu. Les organes sur puce ajoutent des canaux et des dispositifs capables de reproduire circulation de fluides et contraintes mécaniques. Le programme des NIH développe ces plateformes humaines pour modéliser des maladies et tester des médicaments, notamment lorsque les modèles animaux reflètent mal la pathologie humaine. [NIH NCATS : puces tissulaires](https://ncats.nih.gov/research/research-activities/tissue-chip)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces technologies ont aussi leurs limites. Les organoïdes peuvent manquer de fonctions cellulaires matures, de vaisseaux intégrés ou d’un système immunitaire complet. Une puce représentant un tissu n’est pas une personne ; relier plusieurs puces crée des difficultés d’échelle et de validation. Il faut établir ce qu’un modèle reproduit et ce qu’il omet. Son origine humaine représente un avantage pour certaines questions, pas une garantie automatique de précision. [Organoïdes sur puce : possibilités et limites](https://pmc.ncbi.nlm.nih.gov/articles/PMC11970821/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les modèles informatiques et l’IA peuvent organiser les données, prédire certaines propriétés et hiérarchiser les expériences. Leur fiabilité dépend des données d’apprentissage, de l’estimation de l’incertitude et de l’usage prévu. Un modèle performant sur des molécules connues peut échouer sur une biologie différente. Les alternatives doivent être évaluées selon des résultats humains pertinents et leur reproductibilité. Notre enquête sur [la recherche sur les utérus artificiels](/articles/artificial-wombs-future-human-birth/) explore une autre technologie dont les promesses dépendent de la distinction entre modèle et résultat clinique."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que la FDA a changé en 2025 et 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 10 avril 2025, la FDA a annoncé une feuille de route visant à réduire, améliorer ou éventuellement remplacer les essais animaux dans le développement des médicaments, en ciblant d’abord les anticorps monoclonaux. Elle encourageait les données issues de nouvelles méthodes et présentait un projet pilote pour certains développeurs. Il s’agissait d’une orientation réglementaire, pas de l’annonce de la fin de toutes les expériences animales. [FDA : feuille de route d’avril 2025](https://www.fda.gov/news-events/press-announcements/fda-announces-plan-phase-out-animal-testing-requirement-monoclonal-antibodies-and-other-drugs)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 18 mars 2026, l’agence a publié un projet de recommandations pour valider ces nouvelles méthodes. Ses principes comprennent un contexte d’utilisation défini, une pertinence biologique humaine, une fiabilité technique et une adéquation à la décision réglementaire. Son bilan d’avril 2026 évoquait aussi les anticorps monoclonaux et les réactifs recombinants remplaçant certains produits issus des limules pour rechercher les endotoxines. Projets de recommandations, étapes annoncées et améliorations cliniques démontrées relèvent de niveaux de preuve différents. [FDA : projet de mars 2026](https://www.fda.gov/news-events/press-announcements/fda-releases-draft-guidance-alternatives-animal-testing-drug-development) [FDA : bilan d’avril 2026](https://www.fda.gov/news-events/press-announcements/fda-achieves-year-1-goals-reducing-animal-testing-drug-development)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Federal Register du 22 septembre 2026 a ensuite publié une règle finale directe remplaçant certaines références aux essais animaux par la notion plus large d’essais non cliniques. À la date de notre vérification, le 16 octobre, son entrée en vigueur annoncée est le 4 février 2027, sous réserve de la procédure de commentaires et de retrait. Elle n’ajoute pas d’exigences et n’interdit pas les études animales. La présenter comme une suppression universelle déjà effective serait inexact. [Federal Register : terminologie des essais non cliniques](https://www.govinfo.gov/content/pkg/FR-2026-09-22/html/2026-19350.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "Peut-on finalement remplacer l’expérimentation animale ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certaines questions trouvent déjà réponse sans expérience sur un animal entier ; d’autres n’ont pas de substitut suffisamment validé. Le remplacement progressera donc selon les objectifs et les critères mesurés, pas grâce à une machine unique remplaçant toutes les espèces. L’enjeu est la fiabilité de l’information nécessaire à la décision. Le choix des NIH, en 2025, de privilégier les technologies fondées sur la biologie humaine traduit un investissement dans cette transition, pas son achèvement. [NIH : technologies fondées sur la biologie humaine](https://www.nih.gov/news-events/news-releases/nih-prioritize-human-based-research-technologies)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le meilleur argument pour évoluer n’exige ni de nier l’histoire de l’insuline ni de négliger les patients. Il demande de vérifier si une expérience justifiée hier reste nécessaire aujourd’hui, et si une meilleure méthode protégerait les animaux comme les humains. Le progrès scientifique mérite plus qu’un inventaire de découvertes : un bilan honnête des vies utilisées pour les obtenir, et un effort constant pour en utiliser moins demain."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Franco : perspective historique",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4495509/"
+    },
+    {
+      "label": "NIDDK : découverte de l’insuline",
+      "url": "https://www.niddk.nih.gov/news/archive/2021/celebrating-discovery-development-insulin"
+    },
+    {
+      "label": "Poliomyélite, singes et cultures de tissus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35233686/"
+    },
+    {
+      "label": "NIH : pourquoi utiliser des animaux",
+      "url": "https://grants.nih.gov/policy-and-compliance/policy-topics/air/why-animals-are-used-in-research"
+    },
+    {
+      "label": "Histoire des modèles animaux",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23829102/"
+    },
+    {
+      "label": "FDA : bien-être animal et recherche",
+      "url": "https://www.fda.gov/consumers/consumer-updates/animal-welfare-testing-and-research-fda-regulated-products"
+    },
+    {
+      "label": "Taylor et Alvarez : estimation mondiale",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0261192919899853"
+    },
+    {
+      "label": "Commission européenne : statistiques 2018–2023",
+      "url": "https://data.consilium.europa.eu/doc/document/ST-7917-2026-INIT/en/pdf"
+    },
+    {
+      "label": "USDA : instructions de déclaration",
+      "url": "https://www.aphis.usda.gov/sites/default/files/fy24-annual-report-packet-ac.pdf"
+    },
+    {
+      "label": "NIH OLAW : critères d’examen",
+      "url": "https://olaw.nih.gov/resources/tutorials/iacufoot.htm"
+    },
+    {
+      "label": "Éthique de la recherche animale",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5684868/"
+    },
+    {
+      "label": "Transposition et reproductibilité",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9291343/"
+    },
+    {
+      "label": "NC3Rs : recherche rigoureuse",
+      "url": "https://nc3rs.org.uk/3rs-resources/reliable-reproducible-and-rigorous-research"
+    },
+    {
+      "label": "Commission européenne : interdiction cosmétique",
+      "url": "https://single-market-economy.ec.europa.eu/sectors/cosmetics/ban-animal-testing_en"
+    },
+    {
+      "label": "ECHA : cosmétiques et REACH",
+      "url": "https://echa.europa.eu/documents/10162/9015407/Cosmetics_REACH_interface_en.pdf"
+    },
+    {
+      "label": "FDA : essais cosmétiques",
+      "url": "https://www.fda.gov/cosmetics/product-testing-cosmetics/animal-testing-cosmetics"
+    },
+    {
+      "label": "NC3Rs : les 3R",
+      "url": "https://nc3rs.org.uk/who-we-are/3rs"
+    },
+    {
+      "label": "NIH NCATS : puces tissulaires",
+      "url": "https://ncats.nih.gov/research/research-activities/tissue-chip"
+    },
+    {
+      "label": "Organoïdes sur puce : possibilités et limites",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11970821/"
+    },
+    {
+      "label": "FDA : feuille de route d’avril 2025",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-announces-plan-phase-out-animal-testing-requirement-monoclonal-antibodies-and-other-drugs"
+    },
+    {
+      "label": "FDA : projet de mars 2026",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-releases-draft-guidance-alternatives-animal-testing-drug-development"
+    },
+    {
+      "label": "FDA : bilan d’avril 2026",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-achieves-year-1-goals-reducing-animal-testing-drug-development"
+    },
+    {
+      "label": "Federal Register : terminologie des essais non cliniques",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-22/html/2026-19350.htm"
+    },
+    {
+      "label": "NIH : technologies fondées sur la biologie humaine",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-prioritize-human-based-research-technologies"
+    }
+  ],
+  "faq": []
+}
