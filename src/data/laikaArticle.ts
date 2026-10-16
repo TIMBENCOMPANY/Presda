@@ -2,8 +2,8 @@ import type { Article } from "@/data/articles";
 export const laikaArticle: Article = {
   "id": "270",
   "slug": "laika-first-dog-orbit-never-came-home",
-  "title": "LAIKA: THE FIRST DOG IN ORBIT WHO NEVER CAME HOME",
-  "seoTitle": "Laika: The First Dog in Orbit and the Cost of Sputnik 2",
+  "title": "LAIKA: THE SOVIET DOG WHO WENT TO SPACE AND NEVER RETURNED",
+  "seoTitle": "Laika: The Soviet Dog Who Went to Space and Never Returned",
   "metaDescription": "From Moscow’s streets to Sputnik 2: Laika’s 1957 mission, fatal overheating, concealed death and the scientific and ethical legacy of a flight without return.",
   "excerpt": "From Moscow’s streets to Sputnik 2: Laika’s 1957 mission, fatal overheating, concealed death and the scientific and ethical legacy of a flight without return.",
   "category": "Science",
@@ -17,7 +17,7 @@ export const laikaArticle: Article = {
   "coverAlt": "Artistic reconstruction of a dog beside an imagined Soviet spacecraft in a laboratory.",
   "headlineHighlights": {
     "red": "LAIKA",
-    "gold": "NEVER CAME HOME"
+    "gold": "NEVER RETURNED"
   },
   "tags": [
     "Laika",
