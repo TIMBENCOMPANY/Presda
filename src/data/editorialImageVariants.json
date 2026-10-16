@@ -836,5 +836,19 @@
       "width": 1200,
       "src": "/articles/dolly/museum-1200.webp"
     }
+  ],
+  "/articles/felicette/habitat-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/felicette/habitat-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/felicette/habitat-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/felicette/habitat-1200.webp"
+    }
   ]
 }

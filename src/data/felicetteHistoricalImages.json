@@ -1,0 +1,30 @@
+{
+  "habitat": {
+    "credit": "Guilhem Vellut / Wikimedia Commons",
+    "creditUrl": "https://www.flickr.com/photos/22539273@N00/32732123665",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Véronique_rocket_habitat_@_Musée_du_Service_de_Santé_des_Armées_@_Val-de-Grâce_@_Paris_(32732123665).jpg",
+    "copy": {
+      "en": {
+        "alt": "A tall Véronique rocket nose section with an open instrument bay displayed in a Paris museum.",
+        "caption": "A Véronique rocket habitat displayed at the Musée du Service de Santé des Armées, Paris, photographed on 5 February 2017. Authentic museum photograph of research hardware; the source does not establish that this particular artifact flew with Félicette."
+      },
+      "fr": {
+        "alt": "Une pointe de fusée Véronique avec un compartiment instrumental ouvert, exposée dans un musée parisien.",
+        "caption": "Habitat de fusée Véronique exposé au Musée du Service de Santé des Armées, à Paris, photographié le 5 février 2017. Photographie authentique de matériel de recherche ; la source ne permet pas d’affirmer que cet objet précis a volé avec Félicette."
+      },
+      "es": {
+        "alt": "Sección delantera de un cohete Véronique con un compartimento instrumental abierto en un museo de París.",
+        "caption": "Habitáculo de un cohete Véronique en el Musée du Service de Santé des Armées de París, fotografiado el 5 de febrero de 2017. Fotografía auténtica de equipo de investigación; la fuente no establece que esta pieza concreta volara con Félicette."
+      },
+      "ar": {
+        "alt": "قسم أمامي طويل لصاروخ فيرونيك مع حجرة أجهزة مفتوحة في متحف بباريس.",
+        "caption": "حجرة لصاروخ فيرونيك معروضة في متحف الخدمات الصحية للقوات المسلحة بباريس، صُورت في 5 فبراير 2017. صورة متحفية حقيقية لمعدات بحثية؛ لا يثبت المصدر أن هذه القطعة بعينها طارت مع فيليسيت."
+      }
+    },
+    "src": "/articles/felicette/habitat-1200.webp",
+    "width": 1200,
+    "height": 1800
+  }
+}

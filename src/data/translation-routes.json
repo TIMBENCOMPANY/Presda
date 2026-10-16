@@ -1276,6 +1276,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/felicette-french-cat-space-tragic-end/",
+    "path": "/ar/articles/felicette-french-cat-space-tragic-end/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/felicette-french-cat-space-tragic-end/",
+    "path": "/es/articles/felicette-french-cat-space-tragic-end/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/felicette-french-cat-space-tragic-end/",
+    "path": "/fr/articles/felicette-french-cat-space-tragic-end/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/feminism-movement-redefined-womens-rights/",
     "path": "/ar/articles/feminism-movement-redefined-womens-rights/"
   },

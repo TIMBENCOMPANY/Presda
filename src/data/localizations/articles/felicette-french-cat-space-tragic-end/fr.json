@@ -1,0 +1,218 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/felicette-french-cat-space-tragic-end/",
+  "path": "/fr/articles/felicette-french-cat-space-tragic-end/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-16",
+    "terminologyChecked": true
+  },
+  "title": "FÉLICETTE : LA CHATTE FRANÇAISE PARTIE DANS L’ESPACE AU DESTIN TRAGIQUE",
+  "seoTitle": "Félicette : la chatte de l’espace au destin tragique",
+  "description": "Le vol suborbital de Félicette en 1963, son retour vivant, puis son euthanasie : science, questions éthiques et mémoire d’une pionnière française.",
+  "excerpt": "Le vol suborbital de Félicette en 1963, son retour vivant, puis son euthanasie : science, questions éthiques et mémoire d’une pionnière française.",
+  "headlineHighlights": {
+    "red": "FÉLICETTE",
+    "gold": "AU DESTIN TRAGIQUE"
+  },
+  "keywords": [
+    "FÉLICETTE",
+    "AU DESTIN TRAGIQUE"
+  ],
+  "searchIntent": "Le vol suborbital de Félicette en 1963, son retour vivant, puis son euthanasie : science, questions éthiques et mémoire d’une pionnière française.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-16",
+  "updatedAt": "2026-10-16",
+  "image": {
+    "src": "/articles/felicette-hero.png",
+    "alt": "Reconstitution historique assistée par IA d’une chatte noire et blanche près d’une capsule spatiale imaginée."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le parachute l’a ramenée vivante. C’est précisément ce qui empêche de conclure l’histoire de Félicette par le récit habituel d’un triomphe. Le 18 octobre 1963, une fusée française emporte une petite chatte au-delà de l’atmosphère, puis la ramène dans le désert algérien. Le danger du vol est passé. L’expérience, elle, n’est pas terminée."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle sera ensuite euthanasiée pour permettre aux chercheurs d’examiner son cerveau. Son histoire associe une réussite de la médecine spatiale à une décision prise au sol : survivre ne signifiait pas être mise à la retraite. Félicette fut la première chatte à atteindre l’espace et à en revenir vivante. Elle n’a pas tourné autour de la Terre. Cette distinction préserve à la fois la réalité technique du voyage et celle de sa fin tragique. [Smithsonian : histoire et mémorial](https://www.smithsonianmag.com/smart-news/felicette-first-cat-space-finally-gets-memorial-180974062/)"
+    },
+    {
+      "type": "heading",
+      "text": "Une histoire française dans la course à l’espace"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les débuts de la conquête spatiale sont souvent racontés à travers les exploits américains et soviétiques. La France cherchait une autre voie, réunissant savoir-faire militaire, recherche atmosphérique et ambitions nationales. Son agence spatiale, le CNES, fut créée le 19 décembre 1961. En 1965, le lanceur Diamant ferait de la France le troisième pays capable de placer un satellite en orbite avec sa propre fusée. Félicette appartient à la phase expérimentale précédente. [CNES : histoire de l’agence](https://cnes.fr/histoire)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fusées-sondes permettaient de brèves incursions au-delà de la basse atmosphère sans les moyens nécessaires à une mise en orbite durable. Dans son histoire publiée par l’ESA, Hervé Moulin inscrit le programme Véronique dans cette infrastructure scientifique naissante. La première expérience biologique française en fusée emporta le rat Hector le 22 février 1961. Le vol félin prolongeait donc des recherches déjà consacrées aux réactions du vivant au lancement et à l’impesanteur. [ESA : la France dans l’espace](https://www.esa.int/esapub/hsr/HSR_37.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La géographie compte également. Félicette décolla de Hammaguir, en Algérie, et non de France métropolitaine ou du futur centre spatial de Guyane. La mission reliait un laboratoire français à un champ de tir saharien. La réduire à une aventure parisienne efface le lieu où la fusée s’éleva et où la récupération eut lieu."
+    },
+    {
+      "type": "heading",
+      "text": "Avant le nom, C 341"
+    },
+    {
+      "type": "paragraph",
+      "text": "Félicette est couramment présentée comme une ancienne chatte errante de Paris. Sa première vie reste moins solidement documentée que son vol : rien ne permet de lui inventer une date de naissance, un propriétaire ou une scène pittoresque de sauvetage. Entrée dans un programme français de recherche, elle était désignée C 341 avant sa mission. Les récits ultérieurs ne devraient pas combler les lacunes par une enfance imaginaire dans la rue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle faisait partie de quatorze chats préparés au vol spatial. La sélection et l’entraînement comportaient confinement, exposition au bruit et séances en centrifugeuse. Il s’agissait d’animaux habitués à supporter des conditions expérimentales, non de volontaires apprenant un métier. Le mot « entraînement » peut rassurer ; il ne doit masquer ni la contention ni l’absence de choix. [Space.com : préparation des chats](https://www.space.com/38702-felicette-first-space-cat-memorial-kickstarter.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au CERMA, centre français de recherches de médecine aéronautique, les chercheurs étudiaient l’activité du système nerveux dans des conditions physiques inhabituelles. Des électrodes implantées permettaient d’enregistrer les signaux électriques du cerveau. La petite taille de Félicette convenait à la charge utile limitée de la fusée, tandis que la neurophysiologie féline était déjà familière aux expérimentateurs. L’objectif était précis, même si la mémoire populaire l’a résumé à « un chat dans l’espace ». [Air & Cosmos : expérience et mesures](https://air-cosmos.latribune.fr/article/espace/7109769620493/hommage-flicette)"
+    },
+    {
+      "type": "heading",
+      "text": "Le 18 octobre 1963 : partir et revenir"
+    },
+    {
+      "type": "paragraph",
+      "text": "La chronologie historique de la NASA identifie le lanceur comme Véronique AGI 47 et confirme la récupération réussie par parachute. La mission était suborbitale : la fusée élevait sa passagère très haut, sans donner à la capsule la vitesse horizontale nécessaire pour rester en orbite. Sa trajectoire la ramenait au sol. [NASA : animaux dans l’espace](https://www.nasa.gov/history/a-brief-history-of-animals-in-space/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les synthèses publiées divergent sur l’altitude maximale exacte et sur la durée totale. La formulation prudente est celle d’un bref voyage à environ 150 kilomètres, comprenant plusieurs minutes d’impesanteur. Associer une durée à la seconde près tirée d’un récit à une altitude précise provenant d’un autre donnerait une certitude que les documents accessibles ne permettent pas."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’impesanteur ne signifie pas que la gravité disparaît. Pendant la portion non propulsée d’une telle trajectoire, la capsule et son contenu tombent ensemble. Les forces de soutien normalement ressenties comme le poids deviennent très faibles. L’ESA explique ce principe à travers le vol parabolique : c’est la chute libre, et non l’absence de gravité terrestre, qui crée cette sensation. Même un vol bref pouvait ainsi offrir une fenêtre d’observation scientifique. [ESA : comprendre la microgravité](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Falling_upwards_how_to_create_microgravity)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que les chercheurs mesuraient"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mission associait enregistrements neurologiques, réponses à des stimulations et suivi physiologique. Elle devait observer certaines fonctions pendant l’accélération et l’impesanteur, non révéler les pensées de l’animal. Le récit historique décrit des signaux cérébraux transmis au sol et l’absence de dysfonctionnement majeur dans les structures étudiées pendant l’expérience. Ces résultats restent limités par la brièveté de l’observation et par les paramètres réellement mesurés. [Air & Cosmos : expérience et mesures](https://air-cosmos.latribune.fr/article/espace/7109769620493/hommage-flicette)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un tracé électrique atteste une activité ; il ne décrit pas tout le bien-être d’un être vivant. Il ne permet pas de savoir exactement ce que Félicette a vécu, ni de la déclarer heureuse ou intrépide. À l’inverse, juger son vol scientifiquement inutile exigerait davantage que notre malaise devant les méthodes employées. Mesure et jugement moral répondent à des questions différentes. Une histoire rigoureuse doit accueillir les deux."
+    },
+    {
+      "type": "paragraph",
+      "text": "La mission ne démontra pas non plus, pour la première fois, que l’être humain pouvait aller dans l’espace. Youri Gagarine avait accompli une orbite le 12 avril 1961, plus de deux ans auparavant. Félicette s’inscrivait dans la poursuite des recherches physiologiques, et non dans une dernière épreuve ayant rendu possible le premier lancement humain. [ESA : vol de Youri Gagarine](https://www.esa.int/Science_Exploration/Space_Science/12_April)"
+    },
+    {
+      "type": "heading",
+      "text": "La mort après la survie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Félicette fut ensuite euthanasiée afin de permettre l’examen post-mortem de son cerveau. Le récit de Smithsonian situe cette décision quelques mois après son retour. Les résumés populaires évoquent souvent deux mois ; les sources utilisées ici ne permettent pas d’établir une date de décès précise. L’essentiel est certain : elle n’est morte ni au lancement, ni à cause d’un parachute défaillant, ni perdue en orbite. [Smithsonian : histoire et mémorial](https://www.smithsonianmag.com/smart-news/felicette-first-cat-space-finally-gets-memorial-180974062/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le terme « euthanasiée » reprend la manière dont sa mort est rapportée, mais peut en brouiller la finalité pour le lecteur actuel. Les récits décrivent la mise à mort d’un animal ayant survécu, en vue d’un examen, et non simplement le soulagement d’une maladie terminale documentée. Nul besoin d’inventer une dernière caresse, le remords intime d’un scientifique ou les sensations ultimes de la chatte. La succession des faits suffit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dans une histoire spatiale, le retour réussi apporte normalement la résolution émotionnelle. Ici, il constituait une étape du protocole. Ce renversement est au cœur du destin de Félicette : l’appareil conçu pour maintenir en vie une passagère avait fonctionné, mais la préserver au-delà du programme de recherche ne fut pas l’issue choisie."
+    },
+    {
+      "type": "heading",
+      "text": "Laïka, Ham et les différents destins des survivants"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mission de Laïka à bord de Spoutnik 2, en 1957, était orbitale et ne prévoyait aucun retour. Elle mourut en quelques heures. Celle de Félicette était suborbitale et intégrait une récupération. Ces animaux n’ont donc partagé ni le même voyage ni la même fin. Le récit de PRESDA sur [le vol de Laïka et ses conséquences](/articles/laika-first-dog-orbit-never-came-home/) examine en détail la mission soviétique antérieure."
+    },
+    {
+      "type": "paragraph",
+      "text": "La chronologie de la NASA rapporte aussi la récupération du chimpanzé Ham après un vol suborbital en janvier 1961. Un second chat français fut lancé le 24 octobre 1963, mais ne put être récupéré vivant. Dire « le seul chat jamais lancé » est donc un raccourci trompeur. Félicette se distingue par son vol pionnier et son retour en vie. L’histoire des animaux spatiaux comporte plusieurs issues, pas un récit uniforme de sacrifice ou de sauvetage. [NASA : animaux dans l’espace](https://www.nasa.gov/history/a-brief-history-of-animals-in-space/)"
+    },
+    {
+      "type": "heading",
+      "text": "Une question éthique qui dépasse le vol"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expliquer les objectifs des chercheurs ne suffit pas à justifier leurs méthodes. Une évaluation éthique utile interroge les connaissances attendues, l’existence d’autres méthodes, la limitation de la souffrance et le devenir de l’animal après l’expérience. Ces questions portent sur la conception du protocole, pas seulement sur l’émotion suscitée par son participant le plus reconnaissable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les principes aujourd’hui appelés les 3R furent proposés en 1959 : remplacement, réduction et raffinement. Ils visent à trouver des alternatives, à limiter les effectifs sur des bases scientifiques solides et à diminuer douleur et détresse lorsque des animaux sont utilisés. Leur formulation avant le vol de Félicette rappelle que cette préoccupation n’est pas née avec les réseaux sociaux. Elle ne démontre cependant pas quelles garanties encadraient cette mission française particulière. [NC3Rs : origine des 3R](https://nc3rs.org.uk/3rs-public)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le NC3Rs décrit aujourd’hui des approches fondées notamment sur les tissus humains, les systèmes cellulaires et les modèles informatiques. Aucun substitut ne reproduit toutes les interactions d’un organisme vivant ; sa pertinence dépend de la question étudiée. L’objectif responsable consiste à démontrer quelles méthodes sont nécessaires et fiables, sans présumer que les animaux sont toujours indispensables ni que toute alternative est déjà suffisante. Notre enquête sur [l’expérimentation animale et ses coûts scientifiques et éthiques](/articles/animal-testing-hidden-cost-scientific-progress/) approfondit cette tension. [NC3Rs : les trois principes](https://nc3rs.org.uk/who-we-are/3rs)"
+    },
+    {
+      "type": "heading",
+      "text": "Retrouver un nom dans les marges de l’histoire"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2017, Matthew Serge Guy lança une campagne de financement participatif pour un mémorial. Une sculpture en bronze de Gill Parker fut dévoilée à l’International Space University, près de Strasbourg, en décembre 2019. Elle représente Félicette au-dessus d’un globe, regardant vers le ciel. Cette commémoration a donné une place visible à une histoire souvent éclipsée par les missions animales américaines et soviétiques les plus célèbres. [Space.com : inauguration du mémorial](https://www.space.com/felicette-first-cat-in-space-statue-unveiled-in-france.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La reconnaissance impose une autre responsabilité : distinguer l’animal des images créées autour de lui. Le CNES conserve un document audiovisuel présentant Félicette avec d’autres animaux de recherche. Ces archives sont précieuses parce qu’elles peuvent être identifiées et contextualisées. L’image reconstituée en ouverture de cet article est une illustration, non une preuve de l’aspect de son harnais, de sa capsule ou de sa préparation réelle. [Archives du CNES : animaux dans l’espace](https://videotheque.cnes.fr/index.php?id_doc=20331&urlaction=doc)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Félicette n’a pas besoin d’un héroïsme inventé pour mériter le souvenir. Elle a survécu à un véritable voyage dans l’espace, puis des êtres humains ont pris une décision qui a mis fin à sa vie. Maintenir ces deux faits ensemble donne sa force à son histoire. Le progrès scientifique peut être réel, et le prix payé par un sujet vivant demeurer une question à laquelle le progrès seul ne répond pas."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Smithsonian : histoire et mémorial",
+      "url": "https://www.smithsonianmag.com/smart-news/felicette-first-cat-space-finally-gets-memorial-180974062/"
+    },
+    {
+      "label": "CNES : histoire de l’agence",
+      "url": "https://cnes.fr/histoire"
+    },
+    {
+      "label": "ESA : la France dans l’espace",
+      "url": "https://www.esa.int/esapub/hsr/HSR_37.pdf"
+    },
+    {
+      "label": "Space.com : préparation des chats",
+      "url": "https://www.space.com/38702-felicette-first-space-cat-memorial-kickstarter.html"
+    },
+    {
+      "label": "Air & Cosmos : expérience et mesures",
+      "url": "https://air-cosmos.latribune.fr/article/espace/7109769620493/hommage-flicette"
+    },
+    {
+      "label": "NASA : animaux dans l’espace",
+      "url": "https://www.nasa.gov/history/a-brief-history-of-animals-in-space/"
+    },
+    {
+      "label": "ESA : comprendre la microgravité",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Falling_upwards_how_to_create_microgravity"
+    },
+    {
+      "label": "ESA : vol de Youri Gagarine",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/12_April"
+    },
+    {
+      "label": "NC3Rs : origine des 3R",
+      "url": "https://nc3rs.org.uk/3rs-public"
+    },
+    {
+      "label": "NC3Rs : les trois principes",
+      "url": "https://nc3rs.org.uk/who-we-are/3rs"
+    },
+    {
+      "label": "Space.com : inauguration du mémorial",
+      "url": "https://www.space.com/felicette-first-cat-in-space-statue-unveiled-in-france.html"
+    },
+    {
+      "label": "Archives du CNES : animaux dans l’espace",
+      "url": "https://videotheque.cnes.fr/index.php?id_doc=20331&urlaction=doc"
+    }
+  ],
+  "faq": []
+}
