@@ -1,0 +1,86 @@
+{
+  "portrait": {
+    "credit": "Museum of Cosmonautics / Moscow Main Archive / Mos.ru",
+    "creditUrl": "https://www.mos.ru/news/item/94754073/",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Laika_in_1957.jpg",
+    "copy": {
+      "en": {
+        "alt": "Black-and-white archival portrait of Laika wearing a harness before her 1957 flight.",
+        "caption": "Laika before her 1957 flight, in a photograph preserved by the Museum of Cosmonautics and Moscow Main Archive. This portrait does not show her in orbit."
+      },
+      "fr": {
+        "alt": "Portrait d’archive en noir et blanc de Laïka portant un harnais avant son vol de 1957.",
+        "caption": "Laïka avant son vol de 1957, sur une photographie conservée par le Musée de la cosmonautique et les Archives principales de Moscou. Ce portrait ne la montre pas en orbite."
+      },
+      "es": {
+        "alt": "Retrato de archivo en blanco y negro de Laika con un arnés antes de su vuelo de 1957.",
+        "caption": "Laika antes de su vuelo de 1957, en una fotografía conservada por el Museo de la Cosmonáutica y el Archivo Principal de Moscú. No muestra a la perra en órbita."
+      },
+      "ar": {
+        "alt": "صورة أرشيفية بالأبيض والأسود للايكا وهي ترتدي حزاما قبل رحلتها عام 1957.",
+        "caption": "لايكا قبل رحلة 1957 في صورة محفوظة لدى متحف الملاحة الفضائية وأرشيف موسكو الرئيسي. لا تظهرها الصورة في المدار."
+      }
+    },
+    "src": "/articles/laika/portrait-1318.webp",
+    "width": 1318,
+    "height": 911
+  },
+  "orbit": {
+    "credit": "U.S. Air Force / Air Force Missile Test Center, Patrick AFB",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Photograph_of_Sputnik_2_taken_from_Patrick_AFB_in_March_1958.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Air_Force",
+    "source": "https://commons.wikimedia.org/wiki/File:Photograph_of_Sputnik_2_taken_from_Patrick_AFB_in_March_1958.jpg",
+    "copy": {
+      "en": {
+        "alt": "Grainy archival photograph of Sputnik 2 and its attached rocket stage against a dark sky.",
+        "caption": "Sputnik 2 photographed from Patrick Air Force Base, Florida, in March 1958. The satellite was still orbiting months after Laika had died; this is not a photograph of a living animal in flight."
+      },
+      "fr": {
+        "alt": "Photographie d’archive granuleuse de Spoutnik 2 et de son étage de fusée sur un ciel sombre.",
+        "caption": "Spoutnik 2 photographié depuis la base aérienne Patrick, en Floride, en mars 1958. Le satellite tournait encore plusieurs mois après la mort de Laïka ; cette image ne montre pas un animal vivant en vol."
+      },
+      "es": {
+        "alt": "Fotografía de archivo granulada del Sputnik 2 y su etapa del cohete sobre un cielo oscuro.",
+        "caption": "Sputnik 2 fotografiado desde la base aérea Patrick, Florida, en marzo de 1958. El satélite seguía en órbita meses después de morir Laika; no es una imagen de un animal vivo durante el vuelo."
+      },
+      "ar": {
+        "alt": "صورة أرشيفية محببة لسبوتنيك 2 ومرحلة الصاروخ المتصلة به أمام سماء مظلمة.",
+        "caption": "سبوتنيك 2 كما صور من قاعدة باتريك الجوية في فلوريدا في مارس 1958. ظل القمر في المدار بعد موت لايكا بأشهر؛ وليست هذه صورة لحيوان حي أثناء الرحلة."
+      }
+    },
+    "src": "/articles/laika/orbit-659.webp",
+    "width": 659,
+    "height": 399
+  },
+  "mission": {
+    "credit": "NASA / U.S. Senate, Report 1014 (1959), p. 86",
+    "creditUrl": "https://ntrs.nasa.gov/citations/20150018617",
+    "license": "Public domain",
+    "licenseUrl": "https://www.copyright.gov/title17/92chap1.html#105",
+    "source": "https://ntrs.nasa.gov/api/citations/20150018617/downloads/20150018617.pdf#page=93",
+    "copy": {
+      "en": {
+        "alt": "1959 NASA satellite chronology reproduced in a US Senate report, with a row for Sputnik II.",
+        "caption": "NASA’s satellite chronology in a 1959 U.S. Senate report, page 86. Its Sputnik II row records the spacecraft’s lifetime, not Laika’s survival. This is a period American summary, not a Soviet flight log. Rotated for readability."
+      },
+      "fr": {
+        "alt": "Chronologie des satellites de la NASA reproduite dans un rapport du Sénat américain de 1959, avec une ligne Spoutnik II.",
+        "caption": "Chronologie de la NASA publiée dans un rapport du Sénat américain de 1959, page 86. La ligne Spoutnik II donne la durée du satellite, pas la survie de Laïka. Il s’agit d’une synthèse américaine d’époque, non d’un journal de vol soviétique. Rotation pour faciliter la lecture."
+      },
+      "es": {
+        "alt": "Cronología de satélites de la NASA en un informe del Senado estadounidense de 1959, con una fila del Sputnik II.",
+        "caption": "Cronología de la NASA en un informe del Senado de Estados Unidos de 1959, página 86. La fila del Sputnik II registra la duración de la nave, no la supervivencia de Laika. Es un resumen estadounidense de la época, no un diario de vuelo soviético. Girado para facilitar la lectura."
+      },
+      "ar": {
+        "alt": "جدول ناسا الزمني للأقمار الصناعية في تقرير لمجلس الشيوخ الأمريكي عام 1959، يتضمن صفا لسبوتنيك 2.",
+        "caption": "جدول ناسا الزمني في تقرير مجلس الشيوخ الأمريكي لعام 1959، الصفحة 86. يسجل صف سبوتنيك 2 عمر المركبة، لا مدة بقاء لايكا حية. هذه خلاصة أمريكية من تلك الفترة وليست سجل رحلة سوفيتيا. أديرت الصفحة لتسهيل القراءة."
+      }
+    },
+    "src": "/articles/laika/mission-1318.webp",
+    "width": 1318,
+    "height": 778
+  }
+}

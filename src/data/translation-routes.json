@@ -2266,6 +2266,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/laika-first-dog-orbit-never-came-home/",
+    "path": "/ar/articles/laika-first-dog-orbit-never-came-home/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/laika-first-dog-orbit-never-came-home/",
+    "path": "/es/articles/laika-first-dog-orbit-never-came-home/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/laika-first-dog-orbit-never-came-home/",
+    "path": "/fr/articles/laika-first-dog-orbit-never-came-home/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/lie-detectors-can-science-really-detect-deception/",
     "path": "/ar/articles/lie-detectors-can-science-really-detect-deception/"
   },
