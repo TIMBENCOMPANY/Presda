@@ -892,5 +892,47 @@
       "width": 1200,
       "src": "/articles/ham/recovery-1200.webp"
     }
+  ],
+  "/articles/chocolate/history-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/chocolate/history-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/chocolate/history-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/chocolate/history-1200.webp"
+    }
+  ],
+  "/articles/chocolate/farm-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/chocolate/farm-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/chocolate/farm-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/chocolate/farm-1200.webp"
+    }
+  ],
+  "/articles/chocolate/factory-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/chocolate/factory-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/chocolate/factory-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/chocolate/factory-1200.webp"
+    }
   ]
 }

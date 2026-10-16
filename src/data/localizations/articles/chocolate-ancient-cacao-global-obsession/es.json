@@ -1,0 +1,246 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/chocolate-ancient-cacao-global-obsession/",
+  "path": "/es/articles/chocolate-ancient-cacao-global-obsession/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-17",
+    "terminologyChecked": true
+  },
+  "title": "CHOCOLATE: DEL CACAO ANCESTRAL A UNA PASIÓN MUNDIAL",
+  "seoTitle": "Chocolate: del cacao ancestral a una pasión mundial",
+  "description": "La historia del cacao, la ciencia del chocolate, su producción, salud y desafíos sociales, con fotografías auténticas y fuentes verificadas.",
+  "excerpt": "La historia del cacao, la ciencia del chocolate, su producción, salud y desafíos sociales, con fotografías auténticas y fuentes verificadas.",
+  "headlineHighlights": {
+    "red": "CHOCOLATE",
+    "gold": "PASIÓN MUNDIAL"
+  },
+  "keywords": [
+    "CHOCOLATE",
+    "PASIÓN MUNDIAL"
+  ],
+  "searchIntent": "La historia del cacao, la ciencia del chocolate, su producción, salud y desafíos sociales, con fotografías auténticas y fuentes verificadas.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-17",
+  "updatedAt": "2026-10-17",
+  "image": {
+    "src": "/articles/chocolate-hero.png",
+    "alt": "Ilustración generada por IA de chocolateros junto a una línea de producción con chocolate líquido."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Parta una onza de chocolate y escuche. Ese chasquido limpio es una estructura de cristales de grasa cuidadosamente organizada que se rompe. Al dejarla fundir, aparece otra historia: fruta tropical, fermentación microbiana, conocimientos indígenas, comercio colonial e ingeniería industrial. Un alimento asociado al consuelo resulta ser una de las colaboraciones más elaboradas entre la naturaleza y la técnica humana."
+    },
+    {
+      "type": "paragraph",
+      "text": "El chocolate comienza con las semillas de Theobroma cacao. No nació como una tableta dulce, y Europa no inventó su importancia cultural. Comprender su recorrido exige considerar juntos el placer y sus costes, desde el conocimiento de quienes cultivan cacao hasta la diferencia entre un resultado prometedor de laboratorio y un beneficio real para la salud."
+    },
+    {
+      "type": "heading",
+      "text": "Antes de la tableta: el cacao en la América antigua"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uno de los hallazgos decisivos de esta historia procede de cerámicas antiguas del sureste de Ecuador. Un estudio de 2018 sobre Santa Ana-La Florida identificó granos de almidón de cacao, residuos de teobromina y ADN antiguo en materiales de aproximadamente 5.300 años. Estas pruebas independientes situaron un uso temprano del cacao en la Alta Amazonía, mucho antes de lo que sugeriría un relato exclusivamente mesoamericano. La arqueología documenta su utilización, no el nombre de la primera persona que lo probó ni una receta completa de la primera bebida. [Zarrillo y colaboradores: cacao antiguo](https://pubmed.ncbi.nlm.nih.gov/30374172/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Mesoamérica, el cacao se integró en la vida social maya y, posteriormente, mexica, conocida habitualmente como azteca. Formaba parte de bebidas, intercambios ceremoniales y sistemas de valor; los granos podían emplearse como pago y tributo. Eran tradiciones vivas con diferencias regionales, no una receta inmutable. Una bebida espumosa y un dulce moderno de chocolate con leche comparten una historia botánica, pero pertenecen a culturas culinarias distintas. Sus asociaciones sagradas revelan creencias y valores, sin demostrar propiedades medicinales según los criterios clínicos actuales. [Smithsonian: arqueología del cacao](https://www.smithsonianmag.com/history/archaeology-chocolate-180954243/)"
+    },
+    {
+      "type": "heading",
+      "text": "Europa descubre un nuevo sabor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los encuentros coloniales españoles llevaron el cacao y los conocimientos sobre el chocolate al otro lado del Atlántico durante el siglo XVI. Los consumidores europeos fueron endulzando la bebida, que se puso de moda entre los sectores acomodados antes de llegar a públicos más amplios. No fue un descubrimiento instantáneo ni simplemente una historia de cocineros europeos ingeniosos. La preparación indígena proporcionó la base; el comercio colonial reorganizó quién producía, vendía y disfrutaba el alimento. [Smithsonian: historia del chocolate](https://www.smithsonianmag.com/arts-culture/a-brief-history-of-chocolate-21860917/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como el recorrido del [café, del cultivo al ritual mundial](/articles/international-coffee-day-2026-world-consumption/), la historia del chocolate une agricultura y cultura. Un placer cotidiano puede ocultar cuántos lugares y personas lo hacen posible. Preguntarse dónde comenzó una tableta resulta más revelador que leer únicamente el país junto a la dirección del fabricante."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo el chocolate se convirtió en algo que morder"
+    },
+    {
+      "type": "paragraph",
+      "text": "El siglo XIX transformó la propia materia. La prensa de cacao Van Houten, patentada en 1828, separaba buena parte de la manteca de los sólidos. En 1847, el desarrollo de chocolate moldeable para comer por parte de Fry contribuyó a consolidar la tableta. Estos avances permitieron ajustar grasas, azúcar y cacao con creciente precisión, en lugar de limitarse a moler ingredientes para una bebida. [Afoakwa: ciencia del chocolate](https://catalogimages.wiley.com/images/db/pdf/9781118913789.excerpt.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El chocolate con leche avanzó gracias a experimentos asociados a Daniel Peter en Suiza durante la década de 1870, con un papel importante de la leche condensada. La historia corporativa de Nestlé recoge su relación con este desarrollo. En 1879, Rodolphe Lindt introdujo el conchado, un trabajo prolongado de la masa que mejoraba textura y sabor. Las máquinas no eliminaron el oficio: cambiaron los problemas que había que resolver. La finura, la conservación y la uniformidad del gusto se convirtieron en objetivos industriales. [Nestlé: historia de la empresa](https://www.nestle.com/about/history/nestle-company-history) [Lindt: historia del conchado](https://www.lindt-spruengli.com/company/history/)"
+    },
+    {
+      "type": "heading",
+      "text": "En la finca ya se está creando el sabor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una mazorca de cacao contiene semillas rodeadas de pulpa clara. La cosecha es solo el principio. Tras abrir los frutos, los agricultores fermentan pulpa y semillas, habitualmente en montones o cajas, antes de secarlas. Levaduras y bacterias transforman ese material azucarado; el calor y los ácidos desencadenan cambios dentro de las semillas que preparan el sabor futuro. Fermentar no significa simplemente dejar que los granos se pudran. Es un proceso biológico exigente cuyo resultado depende del manejo y las condiciones locales. [Schwan y Wheals: microbiología](https://pubmed.ncbi.nlm.nih.gov/15462126/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación encuentra una considerable diversidad en las comunidades microbianas participantes. No existe una combinación universal de microbios que funcione igual en todas las fincas. Esto tiene consecuencias comerciales: la calidad puede deteriorarse mucho antes de que una marca prestigiosa reciba el cacao. El conocimiento de los agricultores merece figurar en cualquier explicación seria del oficio chocolatero, junto al trabajo del maestro artesano. [Revisión sistemática: fermentación](https://pmc.ncbi.nlm.nih.gov/articles/PMC9478497/)"
+    },
+    {
+      "type": "heading",
+      "text": "Dentro de la fábrica: calor, partículas y cristales"
+    },
+    {
+      "type": "paragraph",
+      "text": "El tostado desarrolla sabores a partir de los precursores creados durante la fermentación. El descascarillado separa la cubierta de los fragmentos de semilla, y la molienda convierte estos en pasta de cacao, también llamada licor de cacao aunque no contiene alcohol. El prensado puede dividirla en manteca y torta de cacao, destinada a convertirse en polvo. Para fabricar chocolate se combinan ingredientes de cacao, azúcar y, cuando corresponde, leche, y después se refinan las partículas. [ICCO: procesamiento del cacao](https://www.icco.org/processing-cocoa/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El conchado trabaja y airea la mezcla, modifica su sabor y ayuda a distribuir la grasa alrededor de las partículas. El templado resuelve otro problema: la manteca de cacao puede solidificarse en distintas formas cristalinas. El calentamiento y enfriamiento controlados favorecen una estructura deseable que proporciona brillo, una rotura limpia y una buena fusión. Una superficie opaca o veteada puede reflejar cambios en la cristalización de la grasa, no una variedad diferente de cacao. La fábrica es, por tanto, cocina y laboratorio de materiales a la vez. [Royal Society of Chemistry: estructura](https://edu.rsc.org/experiments/the-structure-and-properties-of-chocolate/688.article)"
+    },
+    {
+      "type": "heading",
+      "text": "Negro, con leche, blanco y ruby: ¿qué cambia?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El chocolate negro se basa en ingredientes de cacao y azúcar; el chocolate con leche añade ingredientes lácteos. Las recetas varían mucho, y el porcentaje de cacao describe la composición, no una clasificación garantizada de calidad o de beneficios para la salud. El blanco contiene manteca de cacao, pero carece de los sólidos de cacao no grasos que dan su color al negro. Afirmar que no contiene cacao pasa por alto esa distinción. Las definiciones legales y las proporciones mínimas dependen del mercado. [ICCO: procesamiento del cacao](https://www.icco.org/processing-cocoa/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El chocolate ruby entró en el panorama comercial en 2017 de la mano de Barry Callebaut. La compañía atribuye su tono rosado y su carácter afrutado al cacao seleccionado y al procesamiento, sin colorantes ni aromas de frutos rojos añadidos en el producto que presentó. Es la explicación de un fabricante sobre un producto desarrollado, no la prueba de una nueva especie botánica ni de ventajas sanitarias. El color invita a probar, pero no sustituye la lectura de los ingredientes. [Barry Callebaut: presentación del ruby](https://www.barry-callebaut.com/en-IN/about-us/media/news-stories/barry-callebaut-reveals-fourth-type-chocolate-ruby)"
+    },
+    {
+      "type": "heading",
+      "text": "Un cultivo tropical, una industria mundial"
+    },
+    {
+      "type": "paragraph",
+      "text": "Costa de Marfil es el mayor productor de cacao, y Ghana y Ecuador también figuran entre los principales proveedores. Camerún, Nigeria, Brasil, Perú e Indonesia ocupan lugares importantes en el mapa. Esta geografía queda fácilmente oculta tras la asociación del chocolate terminado con Suiza, Bélgica u otros países fabricantes. El origen del cacao y el lugar donde se elabora un dulce son datos diferentes. [ICCO: informe 2024/25](https://www.icco.org/wp-content/uploads/ICCO-Annual-Report-2024-2025-EN.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El boletín de agosto de 2026 de la ICCO estimó la producción mundial de cacao en 4,733 millones de toneladas para la campaña 2024/25. Es una estimación fechada y revisable de una campaña agrícola, no un dato de año natural ni un volumen de chocolate terminado. Ese mismo boletín no publicó las estimaciones de producción y molienda de 2025/26. Ser preciso implica explicar estos límites en lugar de inventar una cifra más reciente. [ICCO: boletín de agosto de 2026](https://www.icco.org/august-2026-quarterly-bulletin-of-cocoa-statistics/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nombres como Lindt y Nestlé hacen reconocible el chocolate internacionalmente, mientras que procesadores especializados como Barry Callebaut suministran ingredientes a otras empresas. La historia de Lindt muestra además cómo las adquisiciones, incluida Ghirardelli, contribuyeron a su expansión internacional. Marcas, procesadores, confiteros y agricultores realizan trabajos distintos. Un envoltorio elegante no explica por sí solo cómo se reparte el valor de esas actividades. [Lindt: historia del conchado](https://www.lindt-spruengli.com/company/history/) [Barry Callebaut: presentación del ruby](https://www.barry-callebaut.com/en-IN/about-us/media/news-stories/barry-callebaut-reveals-fourth-type-chocolate-ruby)"
+    },
+    {
+      "type": "heading",
+      "text": "Salud: moléculas prometedoras, conclusiones prudentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cacao contiene flavanoles estudiados por sus posibles efectos cardiovasculares. Pero cacao, extracto purificado y tableta azucarada no son intervenciones equivalentes. En el ensayo aleatorizado COSMOS, 21.442 adultos mayores estadounidenses recibieron extracto de cacao o placebo. Durante un seguimiento mediano de 3,6 años, el resultado principal, el conjunto de eventos cardiovasculares, no disminuyó de forma estadísticamente significativa. La reducción de muertes cardiovasculares apareció como resultado secundario y exige más investigación, no una recomendación de comer chocolate. El ensayo contó con apoyo de Mars Edge, otro dato pertinente para evaluar la investigación. [COSMOS: ensayo original](https://pmc.ncbi.nlm.nih.gov/articles/PMC9170467/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El chocolate habitual puede aportar cantidades importantes de energía, azúcares añadidos y grasas saturadas. El procesamiento también modifica los flavanoles: ni el color oscuro ni un porcentaje alto de cacao revelan la dosis empleada en un estudio. El disfrute es una razón legítima para comer algo sin presentarlo como medicamento. Ni la reputación tradicional ni la palabra antioxidante demuestran que una tableta prevenga enfermedades. [NIH: afirmaciones de salud](https://newsinhealth.nih.gov/2021/02/chocolate-health-claims)"
+    },
+    {
+      "type": "heading",
+      "text": "Las personas detrás del dulzor"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia laboral exige la misma precisión. La investigación de NORC informó de casi 1,5 millones de niños realizando trabajos peligrosos relacionados con el cacao en zonas cacaoteras de Costa de Marfil y Ghana en 2018/19. Es un resultado de países y un periodo de encuesta concretos, no un recuento mundial actual. Esas tareas pueden exponer a los menores a peligros incompatibles con su salud y desarrollo. Trabajo infantil y trabajo forzoso no son categorías estadísticas intercambiables. [NORC: trabajo infantil](https://www.norc.org/research/library/child-labor-grows-in-certain-areas-of-cocoa-production.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta evidencia hace que la sostenibilidad exija más que una etiqueta atractiva. Las preguntas importantes se refieren a los ingresos familiares, la escolarización, el trabajo adulto seguro y la capacidad de identificar y corregir abusos en las cadenas de suministro. Un precio de venta elevado no demuestra que los agricultores cobren mejor. Tampoco debe suponerse que una persona fotografiada en este artículo representa los abusos documentados en otros lugares. El examen debe centrarse en sistemas y pruebas, no en prejuicios sobre personas o países."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué futuro puede tener el chocolate?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El próximo capítulo depende tanto de paisajes saludables como de fábricas. La FAO impulsa en Costa de Marfil la agroforestería, que combina cacao con otros árboles, dentro de los esfuerzos por proteger bosques y reforzar los medios de vida. La sombra y la diversificación pueden ser útiles, pero deben adaptarse a las condiciones locales. Plantar más cacao dondequiera que haya tierra disponible no es una respuesta creíble a la pérdida forestal. [FAO: sombra y cacao](https://www.fao.org/newsroom/story/more-shade-for-more-cocoa-in-c%C3%B4te-d-ivoire/en)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La investigación sobre fermentación controlada ofrece otra vía para lograr una calidad más uniforme. No sustituye unas relaciones comerciales justas, y ningún atajo de laboratorio elimina la necesidad de cultivar con conocimiento. El futuro difícilmente dependerá de un grano milagroso, sino de combinar agronomía, técnicas de transformación y responsabilidad. [FEMS: investigación sobre fermentación](https://academic.oup.com/femsre/article/44/4/432/5838746)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El gran logro del chocolate es transformar: una semilla se vuelve bebida, regalo, tableta o recuerdo. Su reto pendiente consiste en hacer que esa transformación esté a la altura de las personas y los paisajes que la sostienen. La próxima vez que una onza cruja entre sus dedos habrá más que dulzor: un cultivo antiguo, un proceso sofisticado y una relación mundial que merece entenderse con el mismo cuidado con que se elabora el chocolate."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Zarrillo y colaboradores: cacao antiguo",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30374172/"
+    },
+    {
+      "label": "Smithsonian: arqueología del cacao",
+      "url": "https://www.smithsonianmag.com/history/archaeology-chocolate-180954243/"
+    },
+    {
+      "label": "Smithsonian: historia del chocolate",
+      "url": "https://www.smithsonianmag.com/arts-culture/a-brief-history-of-chocolate-21860917/"
+    },
+    {
+      "label": "Afoakwa: ciencia del chocolate",
+      "url": "https://catalogimages.wiley.com/images/db/pdf/9781118913789.excerpt.pdf"
+    },
+    {
+      "label": "Nestlé: historia de la empresa",
+      "url": "https://www.nestle.com/about/history/nestle-company-history"
+    },
+    {
+      "label": "Lindt: historia del conchado",
+      "url": "https://www.lindt-spruengli.com/company/history/"
+    },
+    {
+      "label": "Schwan y Wheals: microbiología",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15462126/"
+    },
+    {
+      "label": "Revisión sistemática: fermentación",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9478497/"
+    },
+    {
+      "label": "ICCO: procesamiento del cacao",
+      "url": "https://www.icco.org/processing-cocoa/"
+    },
+    {
+      "label": "Royal Society of Chemistry: estructura",
+      "url": "https://edu.rsc.org/experiments/the-structure-and-properties-of-chocolate/688.article"
+    },
+    {
+      "label": "Barry Callebaut: presentación del ruby",
+      "url": "https://www.barry-callebaut.com/en-IN/about-us/media/news-stories/barry-callebaut-reveals-fourth-type-chocolate-ruby"
+    },
+    {
+      "label": "ICCO: informe 2024/25",
+      "url": "https://www.icco.org/wp-content/uploads/ICCO-Annual-Report-2024-2025-EN.pdf"
+    },
+    {
+      "label": "ICCO: boletín de agosto de 2026",
+      "url": "https://www.icco.org/august-2026-quarterly-bulletin-of-cocoa-statistics/"
+    },
+    {
+      "label": "COSMOS: ensayo original",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9170467/"
+    },
+    {
+      "label": "NIH: afirmaciones de salud",
+      "url": "https://newsinhealth.nih.gov/2021/02/chocolate-health-claims"
+    },
+    {
+      "label": "NORC: trabajo infantil",
+      "url": "https://www.norc.org/research/library/child-labor-grows-in-certain-areas-of-cocoa-production.html"
+    },
+    {
+      "label": "FAO: sombra y cacao",
+      "url": "https://www.fao.org/newsroom/story/more-shade-for-more-cocoa-in-c%C3%B4te-d-ivoire/en"
+    },
+    {
+      "label": "FEMS: investigación sobre fermentación",
+      "url": "https://academic.oup.com/femsre/article/44/4/432/5838746"
+    }
+  ],
+  "faq": []
+}

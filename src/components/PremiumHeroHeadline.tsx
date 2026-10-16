@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "chocolate-ancient-cacao-global-obsession": {"en":{"red":"CHOCOLATE","gold":"GLOBAL OBSESSION"},"fr":{"red":"CHOCOLAT","gold":"PASSION MONDIALE"},"es":{"red":"CHOCOLATE","gold":"PASIÓN MUNDIAL"},"ar":{"red":"الشوكولاتة","gold":"شغف عالمي"}},
   "ham-chimpanzee-space-before-americas-first-astronaut": {"en":{"red":"HAM","gold":"FIRST ASTRONAUT"},"fr":{"red":"HAM","gold":"PREMIER ASTRONAUTE AMÉRICAIN"},"es":{"red":"HAM","gold":"PRIMER ASTRONAUTA ESTADOUNIDENSE"},"ar":{"red":"هام","gold":"أول رائد فضاء أمريكي"}},
   "felicette-french-cat-space-tragic-end": {"en":{"red":"FÉLICETTE","gold":"A TRAGIC END"},"fr":{"red":"FÉLICETTE","gold":"AU DESTIN TRAGIQUE"},"es":{"red":"FÉLICETTE","gold":"UN FINAL TRÁGICO"},"ar":{"red":"فيليسيت","gold":"نهاية مأساوية"}},
   "dolly-cloned-sheep-changed-science": {"en":{"red":"DOLLY","gold":"CHANGED SCIENCE FOREVER"},"fr":{"red":"DOLLY","gold":"CHANGÉ LA SCIENCE À JAMAIS"},"es":{"red":"DOLLY","gold":"CAMBIÓ LA CIENCIA PARA SIEMPRE"},"ar":{"red":"دولي","gold":"غيرت العلم إلى الأبد"}},

@@ -1,0 +1,86 @@
+{
+  "history": {
+    "credit": "National Photo Company Collection / Library of Congress, npcc.20363",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Scene_in_chocolate_factory_LCCN2016821906.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://www.loc.gov/rr/print/res/275_npco.html",
+    "source": "https://commons.wikimedia.org/wiki/File:Scene_in_chocolate_factory_LCCN2016821906.jpg",
+    "copy": {
+      "en": {
+        "alt": "Black-and-white archival view of workers packing products inside a chocolate factory.",
+        "caption": "Chocolate factory scene, dated 1909–1920 by the Library of Congress. The catalogue does not identify the factory. Authentic archival photograph."
+      },
+      "fr": {
+        "alt": "Vue ancienne en noir et blanc des ouvrières emballant des produits dans une chocolaterie.",
+        "caption": "Scène dans une chocolaterie, datée de 1909–1920 par la Bibliothèque du Congrès. L’établissement n’est pas identifié dans la notice. Photographie d’archives authentique."
+      },
+      "es": {
+        "alt": "Fotografía histórica en blanco y negro de trabajadoras empaquetando productos en una fábrica de chocolate.",
+        "caption": "Escena en una fábrica de chocolate, fechada entre 1909 y 1920 por la Biblioteca del Congreso. El catálogo no identifica la fábrica. Fotografía de archivo auténtica."
+      },
+      "ar": {
+        "alt": "صورة أرشيفية بالأبيض والأسود لعاملات يعبئن المنتجات داخل مصنع شوكولاتة.",
+        "caption": "مشهد من مصنع شوكولاتة تؤرخه مكتبة الكونغرس بين 1909 و1920. لا يحدد الفهرس اسم المصنع. صورة أرشيفية أصلية."
+      }
+    },
+    "src": "/articles/chocolate/history-1200.webp",
+    "width": 1200,
+    "height": 861
+  },
+  "farm": {
+    "credit": "Irene Scott / AusAID",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Cocoa_farmer_Flora_Kebu_explains_her_farming_process_at_Kebu_farm._(10687144284).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Cocoa_farmer_Flora_Kebu_explains_her_farming_process_at_Kebu_farm._(10687144284).jpg",
+    "copy": {
+      "en": {
+        "alt": "Cocoa farmer Flora Kebu explains her farming process among cacao trees.",
+        "caption": "Flora Kebu explains cocoa farming at Kebu farm, Solomon Islands, 25 June 2013. Authentic photograph, unrelated to the child-labor findings discussed later."
+      },
+      "fr": {
+        "alt": "La cultivatrice Flora Kebu explique son travail parmi les cacaoyers.",
+        "caption": "Flora Kebu présente la culture du cacao à la ferme Kebu, aux Îles Salomon, le 25 juin 2013. Photographie authentique, sans lien avec les résultats sur le travail des enfants évoqués plus loin."
+      },
+      "es": {
+        "alt": "La agricultora Flora Kebu explica su trabajo entre árboles de cacao.",
+        "caption": "Flora Kebu explica el cultivo del cacao en la finca Kebu, Islas Salomón, 25 de junio de 2013. Fotografía auténtica, sin relación con los hallazgos sobre trabajo infantil tratados después."
+      },
+      "ar": {
+        "alt": "مزارعة الكاكاو فلورا كيبو تشرح عملها بين أشجار الكاكاو.",
+        "caption": "فلورا كيبو تشرح زراعة الكاكاو في مزرعة كيبو بجزر سليمان، 25 يونيو 2013. صورة أصلية لا ترتبط بنتائج عمل الأطفال المذكورة لاحقا."
+      }
+    },
+    "src": "/articles/chocolate/farm-1200.webp",
+    "width": 1200,
+    "height": 803
+  },
+  "factory": {
+    "credit": "Ken Lund",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ethel_M_Chocolate_Factory,_Henderson,_Nevada_(11396821565).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Ethel_M_Chocolate_Factory,_Henderson,_Nevada_(11396821565).jpg",
+    "copy": {
+      "en": {
+        "alt": "Production equipment inside the Ethel M chocolate factory in Henderson, Nevada.",
+        "caption": "Ethel M Chocolate Factory in Henderson, Nevada, photographed on 14 December 2013. Authentic factory photograph; the resized image remains available under CC BY-SA 2.0."
+      },
+      "fr": {
+        "alt": "Équipements de production dans la chocolaterie Ethel M à Henderson, Nevada.",
+        "caption": "Chocolaterie Ethel M à Henderson, Nevada, photographiée le 14 décembre 2013. Photographie authentique ; l’image redimensionnée reste disponible sous licence CC BY-SA 2.0."
+      },
+      "es": {
+        "alt": "Equipos de producción en la fábrica de chocolate Ethel M de Henderson, Nevada.",
+        "caption": "Fábrica de chocolate Ethel M en Henderson, Nevada, fotografiada el 14 de diciembre de 2013. Fotografía auténtica; la imagen redimensionada sigue disponible bajo CC BY-SA 2.0."
+      },
+      "ar": {
+        "alt": "معدات إنتاج داخل مصنع إيثل إم للشوكولاتة في هندرسون بولاية نيفادا.",
+        "caption": "مصنع إيثل إم للشوكولاتة في هندرسون بولاية نيفادا، 14 ديسمبر 2013. صورة أصلية؛ تظل النسخة المعدلة الحجم متاحة بترخيص CC BY-SA 2.0."
+      }
+    },
+    "src": "/articles/chocolate/factory-1200.webp",
+    "width": 1200,
+    "height": 900
+  }
+}

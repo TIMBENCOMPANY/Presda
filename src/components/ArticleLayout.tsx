@@ -1,3 +1,5 @@
+import chocolateHeroCaptions from "@/data/chocolateHeroCaptions.json";
+import { ChocolateHistoricalImage, chocolateImageAtBlock } from "@/components/ChocolateHistoricalImage";
 import hamHeroCaptions from "@/data/hamHeroCaptions.json";
 import { HamHistoricalImage, hamImageAtBlock } from "@/components/HamHistoricalImage";
 import felicetteHeroCaptions from "@/data/felicetteHeroCaptions.json";
@@ -358,6 +360,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "pill-culture-red-blue-black-pills-modern-thinking" && <p data-pill-culture-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{pillCultureHeroCaptions[locale]}</p>}
         {article.slug === "felicette-french-cat-space-tragic-end" && <p data-felicette-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{felicetteHeroCaptions[locale]}</p>}
         {article.slug === "ham-chimpanzee-space-before-americas-first-astronaut" && <p data-ham-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{hamHeroCaptions[locale]}</p>}
+        {article.slug === "chocolate-ancient-cacao-global-obsession" && <p data-chocolate-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{chocolateHeroCaptions[locale]}</p>}
         {article.slug === "dolly-cloned-sheep-changed-science" && <p data-dolly-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dollyHeroCaptions[locale]}</p>}
         {article.slug === "winter-dolphin-prosthetic-tail" && <p data-winter-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{winterHeroCaptions[locale]}</p>}
         {article.slug === "laika-first-dog-orbit-never-came-home" && <p data-laika-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{laikaHeroCaptions[locale]}</p>}
@@ -561,6 +564,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "laika-first-dog-orbit-never-came-home" && laikaImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><LaikaHistoricalImage id={laikaImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "felicette-french-cat-space-tragic-end" && felicetteImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FelicetteHistoricalImage id={felicetteImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "ham-chimpanzee-space-before-americas-first-astronaut" && hamImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HamHistoricalImage id={hamImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "chocolate-ancient-cacao-global-obsession" && chocolateImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ChocolateHistoricalImage id={chocolateImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "dolly-cloned-sheep-changed-science" && dollyImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DollyHistoricalImage id={dollyImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "winter-dolphin-prosthetic-tail" && winterImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WinterHistoricalImage id={winterImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "bobby-fischer-chess-legend-america-iceland" && fischerImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FischerHistoricalImage id={fischerImageAtBlock[originalIndex]} locale={locale} /></div>;
