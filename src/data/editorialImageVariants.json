@@ -806,5 +806,35 @@
       "width": 727,
       "src": "/articles/winter/care-727.webp"
     }
+  ],
+  "/articles/dolly/wilmut-278.webp": [
+    {
+      "width": 278,
+      "src": "/articles/dolly/wilmut-278.webp"
+    }
+  ],
+  "/articles/dolly/research-788.webp": [
+    {
+      "width": 480,
+      "src": "/articles/dolly/research-480.webp"
+    },
+    {
+      "width": 788,
+      "src": "/articles/dolly/research-788.webp"
+    }
+  ],
+  "/articles/dolly/museum-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/dolly/museum-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/dolly/museum-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/dolly/museum-1200.webp"
+    }
   ]
 }

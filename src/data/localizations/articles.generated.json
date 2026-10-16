@@ -85017,6 +85017,732 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/dolly-cloned-sheep-changed-science/",
+    "path": "/ar/articles/dolly-cloned-sheep-changed-science/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-16",
+      "terminologyChecked": true
+    },
+    "title": "دولي: النعجة المستنسخة التي غيرت العلم إلى الأبد",
+    "seoTitle": "دولي: قصة الاستنساخ وحياتها وإرثها العلمي",
+    "description": "كيف استُنسخت دولي من خلية بالغة؟ وما معنى الرقم 277؟ الأدلة على صحتها وشيخوختها وإرثها في إعادة البرمجة الخلوية والتقانة الحيوية.",
+    "excerpt": "كيف استُنسخت دولي من خلية بالغة؟ وما معنى الرقم 277؟ الأدلة على صحتها وشيخوختها وإرثها في إعادة البرمجة الخلوية والتقانة الحيوية.",
+    "headlineHighlights": {
+      "red": "دولي",
+      "gold": "غيرت العلم إلى الأبد"
+    },
+    "keywords": [
+      "دولي",
+      "غيرت العلم إلى الأبد"
+    ],
+    "searchIntent": "كيف استُنسخت دولي من خلية بالغة؟ وما معنى الرقم 277؟ الأدلة على صحتها وشيخوختها وإرثها في إعادة البرمجة الخلوية والتقانة الحيوية.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "image": {
+      "src": "/articles/dolly-hero.png",
+      "alt": "إعادة تصور فنية لنعجة داخل صندوق عرض متحفي، مستوحاة من دولي."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "حملت نعجة صغيرة بيضاء الوجه، وُلدت في اسكتلندا في 5 يوليو 1996، سؤالا أكبر بكثير من حجمها: هل تستطيع نواة خلية مأخوذة من حيوان بالغ أن تسهم في تكوين حيوان جديد كامل؟ قدمت دولي إجابة حية. لم تكن أهميتها في مظهر استثنائي أو آلة مستقبلية، بل في تاريخ الخلية التي نشأت منها."
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت دولي أول حيوان ثديي يُستنسخ من خلية جسدية بالغة، أي خلية من خلايا الجسم غير البويضة والحيوان المنوي. لكنها لم تكن أول حيوان مستنسخ، ولا حتى أول نعجة مستنسخة. وهذا التمييز أساسي: فقد أثبتت إمكان إعادة برمجة نواة خلية بالغة في الثدييات بما يسمح بتطور كائن كامل. كان الإنجاز استثنائيا من دون الأساطير التي أحاطت به لاحقا. [روزلين: حياة دولي](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly)"
+      },
+      {
+        "type": "heading",
+        "text": "مختبر وقطيع وسؤال صعب"
+      },
+      {
+        "type": "paragraph",
+        "text": "في معهد روزلين قرب إدنبرة، كان باحثون يعملون مع شركة التقانة الحيوية PPL Therapeutics يدرسون طرق إنتاج حيوانات مزرعة معدلة وراثيا. أصبح إيان ويلموت وكيث كامبل أكثر الأسماء ارتباطا بدولي، لكن ولادتها اعتمدت على فريق أوسع. حملت ورقة نيتشر المنشورة عام 1997 أسماء ويلموت وأنجليكا شنيكه وجيم ماكوير وألكسندر كايند وكامبل. وكانت علوم الأجنة والجراحة البيطرية وزراعة الخلايا والرعاية اليومية للحيوانات جميعا جزءا من التجربة. [ويلموت وزملاؤه: نيتشر 1997](https://www.nature.com/articles/385810a0)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لم يبدأ هذا البحث من فراغ. فقد أنتجت تجارب سابقة لنقل النواة برمائيات، واستُنسخت أغنام باستخدام خلايا جنينية. وأظهرت ميغان وموراغ، اللتان وُلدتا في روزلين عام 1995، فائدة الخلايا الجنينية المزروعة. أما دولي فتجاوزت حاجزا آخر: جاءت المادة المانحة من حيوان بالغ. واختزالها في وصف «أول كائن مستنسخ» يمحو اكتشافات مهدت لوجودها. [جامعة يوتا: تاريخ الاستنساخ](https://learn.genetics.utah.edu/content/cloning/clonezone/)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف تحولت خلية من الغدة الثديية إلى نعجة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تُسمى الطريقة نقل نواة الخلية الجسدية، أو SCNT. أزال الباحثون المادة الوراثية النووية من بويضة غير مخصبة، ثم دمجوها مع خلية مانحة مزروعة. وفي حالة دولي، جاءت الخلية من نسيج الغدة الثديية لنعجة من سلالة فين دورست عمرها ست سنوات. ساعدت نبضة كهربائية في دمج الخليتين وبدء التطور. وإذا تقدم الجنين إلى مرحلة مناسبة، أمكن نقله إلى رحم نعجة حاضنة. [المركز الوطني: التكافؤ الجينومي](https://www.ncbi.nlm.nih.gov/books/NBK10131/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت البويضة عنصرا لا غنى عنه. فقد وفرت آليات خلوية قادرة على إعادة ضبط جزء كبير من برنامج التطور في النواة المانحة. فالخلية الثديية لا تتصرف عادة كجنين؛ إذ تعتمد هويتها بدرجة كبيرة على الجينات النشطة وكيفية تنظيم الحمض النووي. أعاد نقل النواة فتح هذه الهوية من دون الحاجة إلى مجموعة جديدة من الجينات النووية. وكان تنسيق دورة الخلية المانحة مع حالة البويضة المستقبلة جزءا مهما من طريقة الفريق. [مراجعة علمية: إعادة البرمجة بنقل النواة](https://pmc.ncbi.nlm.nih.gov/articles/PMC6173619/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "أسهمت ثلاثة حيوانات بأدوار مختلفة: قدمت نعجة فين دورست الخلية المانحة، وقدمت نعجة اسكتلندية سوداء الوجه البويضة، وحملت نعجة أخرى من السلالة نفسها الجنين. جاء الحمض النووي النووي لدولي من الخلية المانحة، بينما قدمت البويضة أيضا مادة وراثية من الميتوكوندريا. لذلك لا يمثل الاستنساخ نسخة مطابقة لحياة كاملة. فالتطور والبيئة والخبرة تظل مؤثرة، ونسخ الجينوم النووي لا ينسخ الذكريات أو الشخصية. [روزلين: الاستنساخ والصحة](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/cloning)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يعني الرقم الشهير 277؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "شملت تجربة الخلايا البالغة 277 تركيبا أُعيد بناؤه بدمج بويضة وخلية بنجاح. ووصل 29 جنينا إلى مراحل مناسبة لنقلها إلى أرحام 13 نعجة مستقبلة، وكانت النتيجة مولودة حية واحدة: دولي. هذه مراحل مختلفة، ولكل منها عدد مرجعي مختلف. لا يعني الرقم وجود 277 نعجة حاملا، ولا ولادة 276 حملا ثم نفوقها. بل يصف التناقص الكبير بين إعادة البناء الخلوي والولادة الحية. [اللجنة الوطنية للأخلاقيات الحيوية: تقرير 1997](https://www.govinfo.gov/content/pkg/GOVPUB-PREX-PURL-LPS439/pdf/GOVPUB-PREX-PURL-LPS439.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يجعل هذا التوضيح رفاه الحيوان مسألة ثانوية. فضعف كفاءة التطور يثير أسئلة حول جمع البويضات والتعامل مع الأجنة والحيوانات الحاضنة وحالات الحمل غير الناجحة في برامج الاستنساخ. لكن التدقيق الأخلاقي يصبح أقوى حين تكون أرقامه دقيقة. والسؤال المناسب هو ما الذي حدث في كل مرحلة، لا أي رواية تبدو أشد إثارة للقلق. يناقش تحقيق بريسدا عن [التجارب على الحيوانات وكلفتها الأخلاقية](/articles/animal-testing-hidden-cost-scientific-progress/) هذا التوتر الأوسع بين الأهداف العلمية وتجربة الحيوان."
+      },
+      {
+        "type": "heading",
+        "text": "فبراير 1997: ولادة هادئة تصبح حدثا عالميا"
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت دولي قد وُلدت قبل أشهر من معرفة العالم باسمها. جاء الإعلان العام في 22 فبراير 1997، بينما نُشرت ورقة نيتشر في 27 فبراير. ويساعد الفصل بين التاريخين على تجنب الخلط بين التجربة وإعلانها ونشرها العلمي. فجأة أصبحت نعجة صغيرة تعيش بالفعل في روزلين رمزا لقدرة البشر على التدخل في التكاثر. [متاحف اسكتلندا: التاريخ الطبي](https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تكشف المقابلات اللاحقة مع الباحثين عن عمل جماعي محفوف بعدم اليقين، لا عن انتصار محتوم. فقد ربط العمل المخبري والخبرة العملية ورعاية الحيوانات الفكرة بالنتيجة. لكن رد الفعل العام انتقل سريعا من الأغنام إلى نسخ بشرية افتراضية. وصارت الإمكانية العلمية والجاهزية التقنية والمقبولية الأخلاقية تُناقش معا، رغم أنها أسئلة مختلفة. [نيتشر: التاريخ الشفوي للاكتشاف](https://www.scientificamerican.com/article/dolly-at-20-the-inside-story-on-the-world-s-most-famous-sheep/)"
+      },
+      {
+        "type": "heading",
+        "text": "نعجة مشهورة عاشت بين الأغنام"
+      },
+      {
+        "type": "paragraph",
+        "text": "بقيت دولي في روزلين مع أغنام أخرى، بدلا من أن تصبح كائنا معزولا للفرجة داخل المختبر. وتكاثرت بالتزاوج المعتاد مع كبش من سلالة ويلش ماونتن اسمه ديفيد، وأنجبت ستة حملان. وُلدت أولى صغارها، بوني، عام 1998. أثبت ذلك أن حيوانا نتج عن نقل نواة خلية بالغة يمكن أن ينمو إلى حيوان بالغ قادر على الإنجاب. وكانت صغارها ثمرة تكاثر جنسي، وليست نسخا مستنسخة من دولي. [روزلين: حياة دولي](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لم تجب الخصوبة عن كل الأسئلة الصحية. فقد يثبت نجاح حيوان واحد إمكان حدوث شيء، مع بقاء أسئلة عن معدل نجاح التقنية وما حدث للأجنة الأخرى وما إذا كان الناجون يواجهون مخاطر خاصة. جعلت الشهرة دولي فردا يحظى بمتابعة استثنائية، لكنها جعلت كل مرض يصيبها قابلا للتحول إلى حكم على الاستنساخ كله."
+      },
+      {
+        "type": "heading",
+        "text": "المفاصل والرئتان ونهاية الحياة"
+      },
+      {
+        "type": "paragraph",
+        "text": "أصيبت دولي بالفصال العظمي عام 2001. حسّنت الأدوية المضادة للالتهاب علاماتها السريرية، لكن السبب لم يُحسم. وفي فبراير 2003، استدعى سعالها إجراء فحوص. أظهر التصوير المقطعي أوراما واسعة في الرئتين مرتبطة بمرض فيروسي يصيب الأغنام. وأنهى الأطباء حياتها بالقتل الرحيم في 14 فبراير 2003، وعمرها ست سنوات ونصف. لم يكن مرضها الأخير مجرد تحول مرض المفاصل إلى حالة قاتلة، ولا يكفي عمرها وحده لتفسير سببه. [متاحف اسكتلندا: التاريخ الطبي](https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ارتبط المرض الرئوي بفيروس جاغسيكتي الارتجاعي في الأغنام، الذي أصاب أغناما أخرى في القطيع. ومن المهم التمييز بين مرض معد ونتيجة ثبت أن نقل النواة تسبب بها. كانت وفاة دولي تستحق التحقيق، لكن التسلسل «استُنسخت ثم مرضت» لا يثبت بمفرده أن الاستنساخ سبب المرض. [روزلين: حياة دولي](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly)"
+      },
+      {
+        "type": "heading",
+        "text": "هل وُلدت دولي مسنة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان لهذا القلق أساس بيولوجي يستحق الدراسة. فالتيلوميرات، وهي تراكيب واقية في نهايات الكروموسومات، قد تقصر مع انقسام الخلايا. ووجد الباحثون أن تيلوميرات دولي قصيرة نسبيا، مما أثار سؤالا عن انتقال أثر تاريخ الخلية المانحة إليها. لكن طول التيلومير ليس ساعة بسيطة تمنح المولود عمر الحيوان المانح. وقد أظهرت حيوانات مستنسخة أنماطا مختلفة؛ فلا يكفي قياس واحد لإثبات شيخوخة كائن كامل. [روزلين: الاستنساخ والصحة](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/cloning)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قيّمت دراسة عام 2016 صحة 13 خروفا مستنسخا تراوحت أعمارها بين سبع وتسع سنوات، بينها أربع نعاج نتجت من السلالة الخلوية الثديية نفسها التي أنتجت دولي. ولم تظهر التقييمات الأيضية والقلبية الوعائية والعضلية الهيكلية دليلا على متلازمة عامة للشيخوخة المبكرة في هذه المجموعة. لكنها كانت حيوانات نجت ضمن دراسة صغيرة نسبيا، وليست برهانا على سلامة كل محاولة استنساخ. وكانت نعاج فين دورست الأربع نفسها ناجيات من مجموعة أكبر من الحملان المستنسخة، وهو قيد مهم عند تفسير النتائج المشجعة. [سينكلير وزملاؤه: شيخوخة الأغنام المستنسخة](https://www.nature.com/articles/ncomms12359)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وفي عام 2017، فحص باحثون الهياكل العظمية المحفوظة لدولي وأغنام أخرى مرتبطة بتاريخ روزلين. ولم يجدوا نمطا غير طبيعي للفصال العظمي يوحي بعملية استثنائية مرتبطة بالاستنساخ. لم تكن السجلات السريرية الأصلية متاحة، كما أن دراسة العظام لا تعيد بناء تاريخ الألم أو تكشف كل تغير في الأنسجة الرخوة. كانت الخلاصة أضيق من القول إن دولي لم تُصب بمرض المفاصل قط: هيكلها لم يدعم الادعاء الشائع بحدوث شيخوخة مفصلية استثنائية. [كور وزملاؤها: فحص الهياكل العظمية](https://www.nature.com/articles/s41598-017-15902-8)"
+      },
+      {
+        "type": "heading",
+        "text": "دولي الحقيقية في المتحف"
+      },
+      {
+        "type": "paragraph",
+        "text": "انضم جسد دولي المحفوظ إلى مجموعات متاحف اسكتلندا الوطنية بعد وفاتها. ويحتفظ المتحف أيضا بمواد تتيح رواية تتجاوز العينة الشهيرة وحدها. ففي عام 2023 أعلن اقتناء جزة صوف ومعدات تبرع بها عالم الأجنة ويليام ريتشي، منها ماصات زجاجية وجهاز للدمج الكهربائي. وصُنعت بعض الأدوات في ورشة روزلين نفسها. [متاحف اسكتلندا: الصوف والأدوات](https://media.nms.ac.uk/news/national-museums-scotland-gifted-fleece-of-dolly-the-sheep)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعيد هذه الأشياء الاكتشاف إلى حجمه المادي: نعجة وأدوات دقيقة وأيد حذرة وسلسلة طويلة من الاحتمالات البيولوجية غير المضمونة. توثق الصورة الحقيقية المنشورة هنا بقايا دولي المحنطة. أما الصورة الافتتاحية فهي إعادة تصور فنية، وليست صورة تاريخية أو توثيقا دقيقا لقاعة العرض. وإظهار هذا الفرق جزء من رواية تاريخها بأمانة."
+      },
+      {
+        "type": "heading",
+        "text": "إرث أكبر من إنتاج نعجة أخرى"
+      },
+      {
+        "type": "paragraph",
+        "text": "تنتمي دولي إلى تاريخ إعادة البرمجة الخلوية، وليس إلى الاستنساخ التكاثري وحده. فقد بينت أعمال جون غوردون السابقة على البرمائيات وتجارب شينيا ياماناكا اللاحقة طرقا مختلفة لإعادة النظر في هوية الخلايا الناضجة. وفي عام 2006 أظهر فريق ياماناكا أن إدخال مجموعة صغيرة من العوامل يستطيع إنتاج خلايا جذعية مستحثة متعددة القدرات من خلايا فأر. وحصل غوردون وياماناكا على نوبل في علم وظائف الأعضاء أو الطب عام 2012. كانت دولي محطة مهمة في هذا التاريخ الأوسع، وليست المنشأ الوحيد لعلم الخلايا الجذعية. [لجنة نوبل: إعادة البرمجة الخلوية](https://www.nobelprize.org/prizes/medicine/2012/advanced-information/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وفي عام 2013، أعلن باحثون إنتاج خطوط من الخلايا الجذعية الجنينية البشرية باستخدام نقل نواة الخلية الجسدية. كان ذلك بحثا على الخلايا، لا ولادة إنسان مستنسخ. ويفصل هذا التمييز بين الاستنساخ التكاثري الذي يستهدف إنتاج حيوان أو إنسان، والبحوث التي تستهدف الحصول على خلايا لدراسة التطور أو الأمراض. فلا الخط الخلوي ولا النتيجة المخبرية الواعدة يتحولان تلقائيا إلى علاج طبي مثبت. [تاتشيبانا وزملاؤه: الخلايا الجذعية البشرية](https://pmc.ncbi.nlm.nih.gov/articles/PMC3772789/)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا ينبغي أن يحدث بعد ذلك؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن استخدام الاستنساخ الحيواني لتكرار خلفيات وراثية مختارة ودعم بحوث تتضمن التعديل الوراثي. لكن نسخ الجينوم ليس تحريره، ولا تعادل أي من العمليتين اختيار جنين بعد الإخصاب في المختبر. تثير هذه التقنيات أسئلة متداخلة عن الرفاه والمسؤولية، مع اختلاف ما تفعله بيولوجيا. يوضح دليل بريسدا عن [الإخصاب في المختبر واختيار الأجنة والوراثة](/articles/designer-babies-ivf-embryo-selection-genetics/) جانبا آخر من هذا المجال. [معهد أبحاث الجينوم: فهم الاستنساخ](https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ليس الاستنساخ التكاثري البشري علاجا سريريا معتمدا. وتضع الجمعية الدولية لأبحاث الخلايا الجذعية زرع الأجنة البشرية الناتجة عن إعادة البرمجة النووية لأغراض تكاثرية ضمن الأنشطة البحثية المحظورة في إرشاداتها. ليست الإرشادات المهنية مطابقة لقانون كل دولة، لكنها توضح المسافة بين تجربة ناجحة على نعجة وخدمة مقبولة للتكاثر البشري. [الجمعية الدولية: حدود البحث](https://www.isscr.org/guidelines-online/laboratory-based-human-embryonic-stem-cell-research-embryo-research-and-related-research-activities)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يلزم أن تتوقف أهمية دولي المستقبلية على إنتاج نسخة من إنسان. السؤال الأعمق هو كيف تكتسب الخلايا هويتها، وكيف تتغير، وكيف تُستخدم هذه المعرفة بمسؤولية. تجمع قصتها بين نجاح مدهش وتحذير من توسيع دلالة النجاح أكثر مما تسمح الأدلة. لقد غيرت ما يعرفه العلماء عن قدرات الخلية، لكنها لم تُسقط عنهم واجب السؤال عما ينبغي فعله بعد ذلك."
+      }
+    ],
+    "sources": [
+      {
+        "label": "روزلين: حياة دولي",
+        "url": "https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly"
+      },
+      {
+        "label": "ويلموت وزملاؤه: نيتشر 1997",
+        "url": "https://www.nature.com/articles/385810a0"
+      },
+      {
+        "label": "جامعة يوتا: تاريخ الاستنساخ",
+        "url": "https://learn.genetics.utah.edu/content/cloning/clonezone/"
+      },
+      {
+        "label": "المركز الوطني: التكافؤ الجينومي",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10131/"
+      },
+      {
+        "label": "مراجعة علمية: إعادة البرمجة بنقل النواة",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6173619/"
+      },
+      {
+        "label": "روزلين: الاستنساخ والصحة",
+        "url": "https://vet.ed.ac.uk/roslin/about/history/dolly/facts/cloning"
+      },
+      {
+        "label": "اللجنة الوطنية للأخلاقيات الحيوية: تقرير 1997",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PREX-PURL-LPS439/pdf/GOVPUB-PREX-PURL-LPS439.pdf"
+      },
+      {
+        "label": "متاحف اسكتلندا: التاريخ الطبي",
+        "url": "https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep"
+      },
+      {
+        "label": "نيتشر: التاريخ الشفوي للاكتشاف",
+        "url": "https://www.scientificamerican.com/article/dolly-at-20-the-inside-story-on-the-world-s-most-famous-sheep/"
+      },
+      {
+        "label": "سينكلير وزملاؤه: شيخوخة الأغنام المستنسخة",
+        "url": "https://www.nature.com/articles/ncomms12359"
+      },
+      {
+        "label": "كور وزملاؤها: فحص الهياكل العظمية",
+        "url": "https://www.nature.com/articles/s41598-017-15902-8"
+      },
+      {
+        "label": "متاحف اسكتلندا: الصوف والأدوات",
+        "url": "https://media.nms.ac.uk/news/national-museums-scotland-gifted-fleece-of-dolly-the-sheep"
+      },
+      {
+        "label": "لجنة نوبل: إعادة البرمجة الخلوية",
+        "url": "https://www.nobelprize.org/prizes/medicine/2012/advanced-information/"
+      },
+      {
+        "label": "تاتشيبانا وزملاؤه: الخلايا الجذعية البشرية",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3772789/"
+      },
+      {
+        "label": "معهد أبحاث الجينوم: فهم الاستنساخ",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet"
+      },
+      {
+        "label": "الجمعية الدولية: حدود البحث",
+        "url": "https://www.isscr.org/guidelines-online/laboratory-based-human-embryonic-stem-cell-research-embryo-research-and-related-research-activities"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/dolly-cloned-sheep-changed-science/",
+    "path": "/es/articles/dolly-cloned-sheep-changed-science/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-16",
+      "terminologyChecked": true
+    },
+    "title": "DOLLY: LA OVEJA CLONADA QUE CAMBIÓ LA CIENCIA PARA SIEMPRE",
+    "seoTitle": "Dolly: clonación, vida y legado científico",
+    "description": "Cómo se clonó a Dolly a partir de una célula adulta, qué significa la cifra 277 y qué sabemos de su salud, envejecimiento y legado científico.",
+    "excerpt": "Cómo se clonó a Dolly a partir de una célula adulta, qué significa la cifra 277 y qué sabemos de su salud, envejecimiento y legado científico.",
+    "headlineHighlights": {
+      "red": "DOLLY",
+      "gold": "CAMBIÓ LA CIENCIA PARA SIEMPRE"
+    },
+    "keywords": [
+      "DOLLY",
+      "CAMBIÓ LA CIENCIA PARA SIEMPRE"
+    ],
+    "searchIntent": "Cómo se clonó a Dolly a partir de una célula adulta, qué significa la cifra 277 y qué sabemos de su salud, envejecimiento y legado científico.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "image": {
+      "src": "/articles/dolly-hero.png",
+      "alt": "Reconstrucción artística de una oveja en una vitrina de museo, inspirada en Dolly."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Una cordera de cara blanca nacida en Escocia el 5 de julio de 1996 llevaba consigo una pregunta mucho mayor que ella: ¿podía el núcleo de una célula de un animal adulto ayudar a formar otro animal completo? Dolly ofreció una respuesta viva. Su importancia no estaba en una apariencia extraordinaria ni en una máquina futurista, sino en la historia de la célula de la que procedía."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolly fue el primer mamífero clonado a partir de una célula somática adulta, una célula del cuerpo distinta de un óvulo o un espermatozoide. No fue el primer animal clonado, ni siquiera la primera oveja clonada. La distinción importa: demostró que el núcleo de una célula adulta de mamífero podía reprogramarse para permitir el desarrollo de un organismo. El avance era extraordinario sin necesidad de los mitos que lo rodearon después. [Roslin: vida de Dolly](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly)"
+      },
+      {
+        "type": "heading",
+        "text": "Un laboratorio, un rebaño y una pregunta difícil"
+      },
+      {
+        "type": "paragraph",
+        "text": "En el Instituto Roslin, cerca de Edimburgo, investigadores que colaboraban con la empresa biotecnológica PPL Therapeutics estudiaban cómo producir ganado modificado genéticamente. Ian Wilmut y Keith Campbell se convirtieron en los nombres más vinculados a Dolly, pero su creación dependió de un equipo más amplio. El artículo de Nature de 1997 está firmado por Wilmut, Angelika Schnieke, Jim McWhir, Alexander Kind y Campbell. La embriología, la cirugía veterinaria, el cultivo celular y el cuidado diario de los animales formaban parte del experimento. [Wilmut y colaboradores: Nature, 1997](https://www.nature.com/articles/385810a0)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación no partía de cero. Experimentos anteriores de transferencia nuclear habían producido anfibios, y ya se habían clonado ovejas utilizando células embrionarias. Megan y Morag, nacidas en Roslin en 1995, demostraron la utilidad de las células embrionarias cultivadas. Dolly cruzó otra frontera: el material donante procedía de un animal adulto. Llamarla simplemente el primer clon borra los descubrimientos que la hicieron posible. [Universidad de Utah: historia de la clonación](https://learn.genetics.utah.edu/content/cloning/clonezone/)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo una célula mamaria dio lugar a una cordera"
+      },
+      {
+        "type": "paragraph",
+        "text": "El método se llama transferencia nuclear de células somáticas, o SCNT. Los investigadores retiraron el material genético nuclear de un ovocito sin fecundar y lo fusionaron con una célula donante cultivada. En el caso de Dolly, procedía del tejido mamario de una oveja Finn Dorset de seis años. Un pulso eléctrico ayudaba a unir las células e iniciar el desarrollo. Un embrión que avanzara lo suficiente podía transferirse después a una oveja gestante sustituta. [NCBI: equivalencia genómica](https://www.ncbi.nlm.nih.gov/books/NBK10131/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El ovocito era indispensable. Aportaba la maquinaria celular capaz de reiniciar buena parte del programa de desarrollo del núcleo donante. Una célula mamaria normalmente no se comporta como un embrión: su identidad depende en gran medida de qué genes están activos y de cómo se regula su ADN. La transferencia nuclear alteraba esa identidad sin aportar un nuevo conjunto de genes nucleares. Coordinar el ciclo de la célula donante con el ovocito receptor fue una parte importante del procedimiento. [Revisión: reprogramación por transferencia nuclear](https://pmc.ncbi.nlm.nih.gov/articles/PMC6173619/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tres animales aportaron elementos distintos: la Finn Dorset proporcionó la célula donante, una Scottish Blackface el ovocito y otra Scottish Blackface llevó la gestación. El ADN nuclear de Dolly procedía de la célula donante, mientras que el ovocito también aportaba material genético mitocondrial. Por tanto, un clon no es la fotocopia de una vida entera. El desarrollo, el entorno y la experiencia siguen importando; reproducir un genoma nuclear no reproduce recuerdos ni personalidad. [Roslin: clonación y salud](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/cloning)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué significa realmente el número 277"
+      },
+      {
+        "type": "paragraph",
+        "text": "El experimento con células adultas incluyó 277 combinaciones de ovocito y célula reconstruidas mediante fusiones exitosas. Veintinueve embriones alcanzaron etapas adecuadas para transferirlos a los úteros de 13 ovejas receptoras. El resultado fue una sola cordera viva: Dolly. Son etapas diferentes, con denominadores diferentes. La cifra no significa 277 ovejas preñadas ni 276 corderos nacidos y muertos. Describe la gran reducción entre la reconstrucción celular y un nacimiento vivo. [Comisión Nacional de Bioética: informe de 1997](https://www.govinfo.gov/content/pkg/GOVPUB-PREX-PURL-LPS439/pdf/GOVPUB-PREX-PURL-LPS439.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La precisión no vuelve irrelevante el bienestar animal. Una baja eficiencia del desarrollo plantea preguntas sobre la obtención de ovocitos, la manipulación embrionaria, las hembras receptoras y las gestaciones fallidas en los programas de clonación. Pero el análisis ético es más sólido cuando utiliza cifras correctas. Conviene preguntar qué ocurrió en cada etapa, no qué versión resulta más alarmante. La investigación de PRESDA sobre [la experimentación animal y sus costes éticos](/articles/animal-testing-hidden-cost-scientific-progress/) examina esa tensión entre los objetivos científicos y la experiencia de los animales."
+      },
+      {
+        "type": "heading",
+        "text": "Febrero de 1997: una noticia que dio la vuelta al mundo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolly había nacido meses antes de que el mundo conociera su nombre. El anuncio público llegó el 22 de febrero de 1997; el artículo de Nature apareció el 27 de febrero. Separar esas fechas evita confundir el experimento, su anuncio y su publicación científica. Una cordera que ya vivía en Roslin se convirtió de pronto en un símbolo de la capacidad humana de intervenir en la reproducción. [National Museums Scotland: historia médica](https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las entrevistas retrospectivas con los investigadores revelan una empresa colectiva e incierta, no un triunfo inevitable. El trabajo de laboratorio, la destreza práctica y el cuidado de los animales conectaron la idea con el resultado. Sin embargo, la reacción pública pasó rápidamente de las ovejas a hipotéticas copias humanas. Posibilidad científica, preparación tecnológica y aceptabilidad moral se discutían a la vez, aunque eran preguntas distintas. [Nature: historia oral del descubrimiento](https://www.scientificamerican.com/article/dolly-at-20-the-inside-story-on-the-world-s-most-famous-sheep/)"
+      },
+      {
+        "type": "heading",
+        "text": "Una oveja famosa seguía viviendo como oveja"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolly permaneció en Roslin junto a otras ovejas, sin convertirse en una curiosidad de laboratorio aislada. Se reprodujo mediante apareamiento ordinario con un carnero Welsh Mountain llamado David y tuvo seis corderos. Su primera cría, Bonnie, nació en 1998. Aquello demostraba que un animal obtenido por transferencia nuclear de una célula adulta podía convertirse en un adulto fértil. Sus crías procedían de la reproducción sexual, no eran clones de Dolly. [Roslin: vida de Dolly](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La fertilidad no resolvía todas las preguntas sobre su salud. Un solo animal podía demostrar una posibilidad y dejar abiertas las dudas sobre la frecuencia de éxito, los problemas de otros embriones y los riesgos particulares para los supervivientes. La fama convirtió a Dolly en un individuo excepcionalmente visible. También hizo que cada enfermedad pudiera interpretarse como un veredicto sobre la clonación misma."
+      },
+      {
+        "type": "heading",
+        "text": "Artrosis, enfermedad pulmonar y final de su vida"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2001 Dolly desarrolló artrosis. Los antiinflamatorios mejoraron sus signos clínicos, pero no se estableció la causa. En febrero de 2003, la aparición de tos motivó nuevas pruebas. Una tomografía reveló extensos tumores pulmonares asociados a una enfermedad vírica ovina. Fue sometida a eutanasia el 14 de febrero de 2003, a los seis años y medio. Su enfermedad final no fue simplemente una artrosis que se volvió mortal, y su edad por sí sola no explica su causa. [National Museums Scotland: historia médica](https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La enfermedad pulmonar estaba asociada al retrovirus ovino de Jaagsiekte, que había afectado a otras ovejas del rebaño. Es importante distinguir una infección de una consecuencia demostrada de la transferencia nuclear. La muerte de Dolly merecía investigación, pero la secuencia «fue clonada y después enfermó» no establece por sí misma que la clonación causara la enfermedad. [Roslin: vida de Dolly](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Nació vieja Dolly?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La preocupación tenía una base biológica que merecía estudiarse. Los telómeros, estructuras protectoras situadas en los extremos de los cromosomas, pueden acortarse con las divisiones celulares. Los de Dolly eran relativamente cortos, lo que planteó si la historia de la célula donante se había transmitido. Pero su longitud no es un reloj sencillo que asigne al recién nacido la edad del donante. Los animales clonados han presentado patrones distintos; una medición no determina el envejecimiento de todo un organismo. [Roslin: clonación y salud](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/cloning)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un estudio de 2016 evaluó 13 ovejas clonadas de entre siete y nueve años, incluidas cuatro procedentes de la misma línea de células mamarias utilizada para Dolly. Las evaluaciones metabólicas, cardiovasculares y musculoesqueléticas no mostraron un síndrome general de envejecimiento prematuro en ese grupo. Eran animales supervivientes en un estudio relativamente pequeño, no una prueba de que cada intento de clonación fuera seguro. Las cuatro Finn Dorset adultas habían sobrevivido a un grupo mayor de corderos clonados, una salvedad importante para interpretar los resultados alentadores. [Sinclair y colaboradores: envejecimiento de clones](https://www.nature.com/articles/ncomms12359)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2017, investigadores examinaron los esqueletos conservados de Dolly y otras ovejas relacionadas con Roslin. No encontraron un patrón anormal de artrosis que sugiriera un proceso excepcional vinculado a la clonación. Los registros clínicos originales no estaban disponibles, y estudiar huesos no reconstruye el dolor que sufrió un animal ni todos los cambios de los tejidos blandos. La conclusión era más limitada que «Dolly nunca tuvo artrosis»: su esqueleto no respaldaba la idea popular de un envejecimiento articular extraordinario. [Corr y colaboradores: estudio radiográfico](https://www.nature.com/articles/s41598-017-15902-8)"
+      },
+      {
+        "type": "heading",
+        "text": "La verdadera Dolly en un museo"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cuerpo conservado de Dolly entró en las colecciones de National Museums Scotland después de su muerte. El museo también reúne materiales que permiten contar la historia más allá de un ejemplar célebre. En 2023 anunció la adquisición de un vellón y equipos donados por el embriólogo William Ritchie, incluidas pipetas de vidrio y una máquina de fusión eléctrica. Algunas herramientas se habían fabricado en el propio taller de Roslin. [National Museums Scotland: vellón e instrumentos](https://media.nms.ac.uk/news/national-museums-scotland-gifted-fleece-of-dolly-the-sheep)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Esos objetos devuelven al descubrimiento su escala material: una oveja, instrumentos delicados, manos cuidadosas y una larga sucesión de incertidumbres biológicas. La fotografía auténtica reproducida aquí documenta los restos naturalizados de Dolly. La imagen de apertura es una reconstrucción artística, no una fotografía histórica ni un registro exacto de la galería. Mantener visible esa diferencia forma parte de contar su historia con rigor."
+      },
+      {
+        "type": "heading",
+        "text": "Un legado mayor que producir otra oveja"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolly pertenece a la historia de la reprogramación celular, no solo a la clonación reproductiva. Los trabajos anteriores de John Gurdon con anfibios y los experimentos posteriores de Shinya Yamanaka demostraron caminos distintos para reconsiderar la identidad de las células maduras. En 2006, el equipo de Yamanaka mostró que un pequeño conjunto de factores podía producir células madre pluripotentes inducidas a partir de células de ratón. Gurdon y Yamanaka recibieron el Nobel de Fisiología o Medicina en 2012. Dolly fue un hito de esa historia, no el único origen de la ciencia de las células madre. [Comité Nobel: reprogramación celular](https://www.nobelprize.org/prizes/medicine/2012/advanced-information/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2013, investigadores describieron líneas de células madre embrionarias humanas obtenidas mediante transferencia nuclear de células somáticas. Era investigación celular, no el nacimiento de un ser humano clonado. La distinción separa la clonación reproductiva, destinada a producir un animal o una persona, del trabajo que busca obtener células para estudiar el desarrollo o las enfermedades. Ni una línea celular ni un resultado prometedor de laboratorio equivalen automáticamente a un tratamiento médico demostrado. [Tachibana y colaboradores: células madre humanas](https://pmc.ncbi.nlm.nih.gov/articles/PMC3772789/)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué debería hacerse ahora?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La clonación animal permite reproducir determinados fondos genéticos y apoyar investigaciones que implican modificación genética. Pero copiar un genoma no es lo mismo que editarlo. Tampoco equivale a elegir un embrión después de una fecundación in vitro. Estas tecnologías plantean cuestiones relacionadas de bienestar y responsabilidad, aunque hacen cosas distintas desde el punto de vista biológico. La guía de PRESDA sobre [FIV, selección embrionaria y genética](/articles/designer-babies-ivf-embryo-selection-genetics/) explica otra parte de este panorama. [NHGRI: entender la clonación](https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La clonación reproductiva humana no es un tratamiento clínico establecido. La Sociedad Internacional para la Investigación con Células Madre incluye la implantación de embriones humanos producidos por reprogramación nuclear con fines reproductivos entre las actividades de investigación prohibidas en sus directrices. Las recomendaciones profesionales no equivalen a la legislación de cada país, pero dejan clara la distancia entre un experimento exitoso con una oveja y un servicio aceptable de reproducción humana. [ISSCR: límites de la investigación](https://www.isscr.org/guidelines-online/laboratory-based-human-embryonic-stem-cell-research-embryo-research-and-related-research-activities)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La importancia futura de Dolly no depende de que alguien produzca una copia humana. La pregunta más duradera es cómo adquieren identidad las células, cómo cambia esa identidad y cómo utilizar responsablemente ese conocimiento. Su historia reúne un éxito asombroso y una advertencia contra las interpretaciones demasiado amplias del éxito. Cambió lo que los científicos sabían que podía hacer una célula. No eliminó su obligación de preguntarse qué deberían hacer después."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Roslin: vida de Dolly",
+        "url": "https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly"
+      },
+      {
+        "label": "Wilmut y colaboradores: Nature, 1997",
+        "url": "https://www.nature.com/articles/385810a0"
+      },
+      {
+        "label": "Universidad de Utah: historia de la clonación",
+        "url": "https://learn.genetics.utah.edu/content/cloning/clonezone/"
+      },
+      {
+        "label": "NCBI: equivalencia genómica",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10131/"
+      },
+      {
+        "label": "Revisión: reprogramación por transferencia nuclear",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6173619/"
+      },
+      {
+        "label": "Roslin: clonación y salud",
+        "url": "https://vet.ed.ac.uk/roslin/about/history/dolly/facts/cloning"
+      },
+      {
+        "label": "Comisión Nacional de Bioética: informe de 1997",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PREX-PURL-LPS439/pdf/GOVPUB-PREX-PURL-LPS439.pdf"
+      },
+      {
+        "label": "National Museums Scotland: historia médica",
+        "url": "https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep"
+      },
+      {
+        "label": "Nature: historia oral del descubrimiento",
+        "url": "https://www.scientificamerican.com/article/dolly-at-20-the-inside-story-on-the-world-s-most-famous-sheep/"
+      },
+      {
+        "label": "Sinclair y colaboradores: envejecimiento de clones",
+        "url": "https://www.nature.com/articles/ncomms12359"
+      },
+      {
+        "label": "Corr y colaboradores: estudio radiográfico",
+        "url": "https://www.nature.com/articles/s41598-017-15902-8"
+      },
+      {
+        "label": "National Museums Scotland: vellón e instrumentos",
+        "url": "https://media.nms.ac.uk/news/national-museums-scotland-gifted-fleece-of-dolly-the-sheep"
+      },
+      {
+        "label": "Comité Nobel: reprogramación celular",
+        "url": "https://www.nobelprize.org/prizes/medicine/2012/advanced-information/"
+      },
+      {
+        "label": "Tachibana y colaboradores: células madre humanas",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3772789/"
+      },
+      {
+        "label": "NHGRI: entender la clonación",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet"
+      },
+      {
+        "label": "ISSCR: límites de la investigación",
+        "url": "https://www.isscr.org/guidelines-online/laboratory-based-human-embryonic-stem-cell-research-embryo-research-and-related-research-activities"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/dolly-cloned-sheep-changed-science/",
+    "path": "/fr/articles/dolly-cloned-sheep-changed-science/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-16",
+      "terminologyChecked": true
+    },
+    "title": "DOLLY : LA BREBIS CLONÉE QUI A CHANGÉ LA SCIENCE À JAMAIS",
+    "seoTitle": "Dolly : clonage, vie et héritage scientifique",
+    "description": "Comment Dolly fut clonée à partir d’une cellule adulte, le sens du chiffre 277 et les preuves sur sa santé, son vieillissement et son héritage.",
+    "excerpt": "Comment Dolly fut clonée à partir d’une cellule adulte, le sens du chiffre 277 et les preuves sur sa santé, son vieillissement et son héritage.",
+    "headlineHighlights": {
+      "red": "DOLLY",
+      "gold": "CHANGÉ LA SCIENCE À JAMAIS"
+    },
+    "keywords": [
+      "DOLLY",
+      "CHANGÉ LA SCIENCE À JAMAIS"
+    ],
+    "searchIntent": "Comment Dolly fut clonée à partir d’une cellule adulte, le sens du chiffre 277 et les preuves sur sa santé, son vieillissement et son héritage.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "image": {
+      "src": "/articles/dolly-hero.png",
+      "alt": "Reconstitution artistique d’une brebis dans une vitrine de musée, inspirée de Dolly."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Une agnelle au visage blanc, née en Écosse le 5 juillet 1996, portait une question bien plus vaste qu’elle : le noyau d’une cellule prélevée sur un animal adulte pouvait-il contribuer à former un nouvel animal entier ? Dolly apporta une réponse vivante. Son importance ne tenait ni à une apparence extraordinaire ni à une machine futuriste, mais à l’histoire de la cellule dont elle était issue."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolly fut le premier mammifère cloné à partir d’une cellule somatique adulte, autrement dit une cellule du corps, et non un ovule ou un spermatozoïde. Elle ne fut ni le premier animal cloné ni même la première brebis clonée. La distinction est fondamentale : elle montrait que le noyau d’une cellule adulte de mammifère pouvait être reprogrammé pour permettre le développement d’un organisme. L’avancée était considérable, sans les mythes qui l’ont ensuite entourée. [Roslin : vie de Dolly](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly)"
+      },
+      {
+        "type": "heading",
+        "text": "Un laboratoire, un troupeau et une question difficile"
+      },
+      {
+        "type": "paragraph",
+        "text": "À l’Institut Roslin, près d’Édimbourg, des chercheurs associés à l’entreprise de biotechnologie PPL Therapeutics étudiaient les moyens de produire des animaux d’élevage génétiquement modifiés. Ian Wilmut et Keith Campbell sont devenus les noms les plus souvent associés à Dolly, mais sa création mobilisa une équipe plus large. L’article paru dans Nature en 1997 porte les signatures de Wilmut, Angelika Schnieke, Jim McWhir, Alexander Kind et Campbell. Embryologie, chirurgie vétérinaire, culture cellulaire et soins quotidiens faisaient partie de l’expérience. [Wilmut et ses collègues : Nature, 1997](https://www.nature.com/articles/385810a0)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces travaux ne partaient pas de rien. Des expériences de transfert nucléaire avaient déjà produit des amphibiens, et des moutons avaient été clonés à partir de cellules embryonnaires. Megan et Morag, nées à Roslin en 1995, avaient démontré l’intérêt de cellules embryonnaires cultivées. Avec Dolly, une autre frontière était franchie : le matériel donneur provenait d’un animal adulte. La présenter simplement comme le premier clone efface les découvertes qui l’ont rendue possible. [Université de l’Utah : histoire du clonage](https://learn.genetics.utah.edu/content/cloning/clonezone/)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment une cellule mammaire a donné une agnelle"
+      },
+      {
+        "type": "paragraph",
+        "text": "La méthode s’appelle le transfert nucléaire de cellule somatique, ou SCNT. Les chercheurs ont retiré le matériel génétique nucléaire d’un ovocyte non fécondé, puis l’ont fusionné avec une cellule donneuse cultivée. Celle de Dolly provenait du tissu mammaire d’une brebis Finn Dorset de six ans. Une impulsion électrique aidait à fusionner les cellules et à amorcer le développement. Un embryon suffisamment développé pouvait ensuite être transféré dans une brebis porteuse. [NCBI : équivalence génomique](https://www.ncbi.nlm.nih.gov/books/NBK10131/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’ovocyte était indispensable. Il apportait une machinerie cellulaire capable de réinitialiser une grande partie du programme de développement du noyau donneur. Une cellule mammaire ne se comporte normalement pas comme un embryon : son identité dépend largement des gènes actifs et de la régulation de son ADN. Le transfert nucléaire remettait cette identité en jeu sans fournir un nouvel ensemble de gènes nucléaires. La coordination du cycle de la cellule donneuse avec celui de l’ovocyte constituait un élément important de la méthode. [Synthèse : reprogrammation par transfert nucléaire](https://pmc.ncbi.nlm.nih.gov/articles/PMC6173619/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trois animaux apportaient des contributions différentes : la Finn Dorset fournissait la cellule donneuse, une Scottish Blackface l’ovocyte, et une autre Scottish Blackface portait la gestation. L’ADN nucléaire de Dolly provenait de la cellule donneuse, tandis que l’ovocyte apportait aussi du matériel génétique mitochondrial. Un clone n’est donc pas la photocopie d’une vie entière. Développement, environnement et expérience restent déterminants : reproduire un génome nucléaire ne reproduit ni les souvenirs ni la personnalité. [Roslin : clonage et santé](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/cloning)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que signifie réellement le nombre 277"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’expérience utilisant les cellules adultes comptait 277 associations ovocyte–cellule reconstruites par fusion réussie. Vingt-neuf embryons ont atteint un stade permettant leur transfert dans l’utérus de 13 brebis receveuses. Une seule agnelle vivante en est issue : Dolly. Il s’agit d’étapes différentes, avec des dénominateurs différents. Ce chiffre ne signifie ni 277 brebis gestantes ni 276 agneaux nés puis morts. Il décrit la forte diminution entre la reconstruction cellulaire et une naissance vivante. [Commission nationale de bioéthique : rapport de 1997](https://www.govinfo.gov/content/pkg/GOVPUB-PREX-PURL-LPS439/pdf/GOVPUB-PREX-PURL-LPS439.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette précision ne rend pas le bien-être animal secondaire. Une faible efficacité du développement soulève des questions sur la collecte d’ovocytes, les manipulations embryonnaires, les animaux porteurs et les gestations infructueuses dans les programmes de clonage. Mais l’examen éthique gagne en force lorsque ses chiffres sont exacts. Il faut demander ce qui s’est passé à chaque étape, plutôt que retenir la version la plus alarmante. L’enquête de PRESDA sur [l’expérimentation animale et ses coûts éthiques](/articles/animal-testing-hidden-cost-scientific-progress/) examine cette tension entre objectifs scientifiques et expérience des animaux."
+      },
+      {
+        "type": "heading",
+        "text": "Février 1997 : une naissance discrète devient historique"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolly était née plusieurs mois avant que le monde connaisse son nom. L’annonce publique eut lieu le 22 février 1997 ; l’article de Nature parut le 27 février. Distinguer ces dates évite de confondre l’expérience, son annonce et sa publication scientifique. Une agnelle qui vivait déjà à Roslin devenait soudain un symbole de la capacité humaine à intervenir dans la reproduction. [National Museums Scotland : histoire médicale](https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les entretiens rétrospectifs avec les chercheurs révèlent une entreprise collective et incertaine, plutôt qu’un triomphe inévitable. Travail de laboratoire, savoir-faire pratique et soins aux animaux reliaient l’idée au résultat. Pourtant, la réaction publique passa rapidement des moutons aux hypothétiques copies humaines. Possibilité scientifique, maturité technique et acceptabilité morale étaient discutées ensemble, alors qu’il s’agissait de questions distinctes. [Nature : histoire orale de la découverte](https://www.scientificamerican.com/article/dolly-at-20-the-inside-story-on-the-world-s-most-famous-sheep/)"
+      },
+      {
+        "type": "heading",
+        "text": "Une brebis célèbre restait une brebis"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolly demeura à Roslin, au milieu d’autres moutons, sans devenir une curiosité de laboratoire isolée. Elle se reproduisit par accouplement ordinaire avec un bélier Welsh Mountain nommé David et donna naissance à six agneaux. Le premier, Bonnie, naquit en 1998. Un animal obtenu par transfert nucléaire d’une cellule adulte pouvait donc devenir un adulte fertile. Ses petits étaient issus de la reproduction sexuée, pas des clones de Dolly. [Roslin : vie de Dolly](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La fertilité ne répondait pas à toutes les questions de santé. Un seul animal pouvait démontrer une possibilité tout en laissant ouvertes les interrogations sur la fréquence de réussite, les problèmes rencontrés par d’autres embryons et les risques particuliers pour les survivants. Sa célébrité faisait de Dolly un individu exceptionnellement observé. Elle exposait aussi chacune de ses maladies à devenir un jugement sur le clonage lui-même."
+      },
+      {
+        "type": "heading",
+        "text": "Arthrose, maladie pulmonaire et fin de vie"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2001, Dolly développa de l’arthrose. Un traitement anti-inflammatoire améliora ses signes cliniques, sans que la cause soit établie. En février 2003, une toux conduisit à des examens. Un scanner révéla d’importantes tumeurs pulmonaires associées à une maladie virale ovine. Elle fut euthanasiée le 14 février 2003, à six ans et demi. Son affection finale n’était pas simplement une arthrose devenue mortelle, et son âge ne suffit pas à en expliquer la cause. [National Museums Scotland : histoire médicale](https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La maladie pulmonaire était associée au rétrovirus ovin de Jaagsiekte, qui avait touché d’autres moutons du troupeau. Il faut distinguer une maladie infectieuse d’une conséquence démontrée du transfert nucléaire. La mort de Dolly méritait une investigation ; l’enchaînement « elle a été clonée, puis elle est tombée malade » ne prouve cependant pas, à lui seul, que le clonage ait causé la maladie. [Roslin : vie de Dolly](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly)"
+      },
+      {
+        "type": "heading",
+        "text": "Dolly était-elle née vieille ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’inquiétude avait un fondement biologique qui méritait d’être étudié. Les télomères, structures protectrices situées aux extrémités des chromosomes, peuvent raccourcir au fil des divisions cellulaires. Ceux de Dolly étaient relativement courts, ce qui soulevait la question d’une transmission de l’histoire de la cellule donneuse. Mais leur longueur n’est pas une horloge simple attribuant au nouveau-né l’âge du donneur. Les animaux clonés présentent des profils variés ; une mesure ne suffit pas à caractériser le vieillissement d’un organisme entier. [Roslin : clonage et santé](https://vet.ed.ac.uk/roslin/about/history/dolly/facts/cloning)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une étude de 2016 a examiné 13 moutons clonés âgés de sept à neuf ans, dont quatre issus de la même lignée de cellules mammaires que Dolly. Les évaluations métaboliques, cardiovasculaires et musculosquelettiques n’indiquaient pas de syndrome général de vieillissement prématuré dans ce groupe. Il s’agissait de survivants étudiés en petit nombre, et non d’une preuve que toute tentative de clonage était sûre. Les quatre Finn Dorset adultes provenaient eux-mêmes d’un ensemble plus important d’agneaux clonés : une réserve essentielle pour interpréter ces résultats encourageants. [Sinclair et ses collègues : vieillissement des clones](https://www.nature.com/articles/ncomms12359)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2017, des chercheurs ont examiné les squelettes conservés de Dolly et d’autres moutons associés à l’histoire de Roslin. Ils n’ont pas trouvé de profil anormal d’arthrose suggérant un processus exceptionnel lié au clonage. Les dossiers cliniques originaux n’étaient plus disponibles ; examiner des os ne reconstitue ni l’histoire de la douleur ni toutes les modifications des tissus mous. La conclusion était plus limitée que « Dolly n’a jamais eu d’arthrose » : son squelette n’étayait pas l’idée d’un vieillissement articulaire extraordinaire. [Corr et ses collègues : étude radiographique](https://www.nature.com/articles/s41598-017-15902-8)"
+      },
+      {
+        "type": "heading",
+        "text": "La véritable Dolly au musée"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le corps conservé de Dolly a rejoint les collections de National Museums Scotland après sa mort. Le musée détient aussi des objets qui permettent de dépasser le seul spécimen célèbre. En 2023, il a annoncé l’acquisition d’une toison et d’équipements donnés par l’embryologiste William Ritchie, notamment des pipettes en verre et une machine de fusion électrique. Certains outils avaient été fabriqués dans l’atelier de Roslin. [National Museums Scotland : toison et instruments](https://media.nms.ac.uk/news/national-museums-scotland-gifted-fleece-of-dolly-the-sheep)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces objets redonnent à la découverte son échelle matérielle : une brebis, des instruments délicats, des gestes précis et une longue succession d’incertitudes biologiques. La photographie authentique reproduite ici montre les restes naturalisés de Dolly. L’image d’ouverture est une reconstitution artistique, pas une photographie historique ni un relevé fidèle de la galerie. Rendre cette distinction visible participe à la rigueur de son histoire."
+      },
+      {
+        "type": "heading",
+        "text": "Un héritage qui dépasse la reproduction d’une brebis"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dolly appartient à l’histoire de la reprogrammation cellulaire, pas seulement à celle du clonage reproductif. Les travaux antérieurs de John Gurdon sur les amphibiens et les expériences ultérieures de Shinya Yamanaka ont ouvert des voies différentes pour repenser l’identité des cellules matures. En 2006, l’équipe de Yamanaka montra qu’un petit ensemble de facteurs pouvait produire des cellules souches pluripotentes induites à partir de cellules de souris. Gurdon et Yamanaka reçurent le prix Nobel de physiologie ou médecine en 2012. Dolly fut un jalon de cette histoire, pas l’unique origine des recherches sur les cellules souches. [Comité Nobel : reprogrammation cellulaire](https://www.nobelprize.org/prizes/medicine/2012/advanced-information/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2013, des chercheurs ont décrit des lignées de cellules souches embryonnaires humaines obtenues par transfert nucléaire de cellules somatiques. Il s’agissait de recherches cellulaires, pas de la naissance d’un humain cloné. Cette distinction sépare le clonage reproductif, destiné à produire un animal ou une personne, des travaux visant à obtenir des cellules pour étudier le développement ou les maladies. Une lignée cellulaire, comme un résultat de laboratoire prometteur, n’est pas automatiquement un traitement médical validé. [Tachibana et ses collègues : cellules souches humaines](https://pmc.ncbi.nlm.nih.gov/articles/PMC3772789/)"
+      },
+      {
+        "type": "heading",
+        "text": "Que faire de cette possibilité ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le clonage animal peut reproduire des patrimoines génétiques choisis et soutenir des recherches impliquant la modification génétique. Copier un génome n’est pourtant pas le modifier. Aucune de ces opérations n’équivaut non plus au choix d’un embryon après une FIV. Ces technologies soulèvent des questions voisines de bien-être et de responsabilité, mais leurs mécanismes diffèrent. Le dossier de PRESDA sur [la FIV, la sélection embryonnaire et la génétique](/articles/designer-babies-ivf-embryo-selection-genetics/) éclaire un autre aspect de ce paysage. [NHGRI : comprendre le clonage](https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le clonage reproductif humain n’est pas un traitement clinique établi. Dans ses recommandations, la Société internationale pour la recherche sur les cellules souches classe l’implantation d’embryons humains produits par reprogrammation nucléaire à des fins reproductives parmi les activités de recherche interdites. Des recommandations professionnelles ne se confondent pas avec la loi de chaque pays. Elles soulignent néanmoins la distance entre la réussite d’une expérience sur une brebis et un service de reproduction humaine acceptable. [ISSCR : limites de la recherche](https://www.isscr.org/guidelines-online/laboratory-based-human-embryonic-stem-cell-research-embryo-research-and-related-research-activities)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’importance future de Dolly ne dépend pas de la création d’une copie humaine. La question la plus durable reste celle de l’identité des cellules, de sa transformation et de l’utilisation responsable de ces connaissances. Son histoire associe une réussite étonnante à une mise en garde contre les conclusions trop vastes. Elle a changé ce que les scientifiques savaient des possibilités d’une cellule. Elle n’a pas supprimé leur obligation de réfléchir à ce qu’ils devraient faire ensuite."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Roslin : vie de Dolly",
+        "url": "https://vet.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly"
+      },
+      {
+        "label": "Wilmut et ses collègues : Nature, 1997",
+        "url": "https://www.nature.com/articles/385810a0"
+      },
+      {
+        "label": "Université de l’Utah : histoire du clonage",
+        "url": "https://learn.genetics.utah.edu/content/cloning/clonezone/"
+      },
+      {
+        "label": "NCBI : équivalence génomique",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10131/"
+      },
+      {
+        "label": "Synthèse : reprogrammation par transfert nucléaire",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6173619/"
+      },
+      {
+        "label": "Roslin : clonage et santé",
+        "url": "https://vet.ed.ac.uk/roslin/about/history/dolly/facts/cloning"
+      },
+      {
+        "label": "Commission nationale de bioéthique : rapport de 1997",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-PREX-PURL-LPS439/pdf/GOVPUB-PREX-PURL-LPS439.pdf"
+      },
+      {
+        "label": "National Museums Scotland : histoire médicale",
+        "url": "https://www.nms.ac.uk/discover-catalogue/the-story-of-dolly-the-sheep"
+      },
+      {
+        "label": "Nature : histoire orale de la découverte",
+        "url": "https://www.scientificamerican.com/article/dolly-at-20-the-inside-story-on-the-world-s-most-famous-sheep/"
+      },
+      {
+        "label": "Sinclair et ses collègues : vieillissement des clones",
+        "url": "https://www.nature.com/articles/ncomms12359"
+      },
+      {
+        "label": "Corr et ses collègues : étude radiographique",
+        "url": "https://www.nature.com/articles/s41598-017-15902-8"
+      },
+      {
+        "label": "National Museums Scotland : toison et instruments",
+        "url": "https://media.nms.ac.uk/news/national-museums-scotland-gifted-fleece-of-dolly-the-sheep"
+      },
+      {
+        "label": "Comité Nobel : reprogrammation cellulaire",
+        "url": "https://www.nobelprize.org/prizes/medicine/2012/advanced-information/"
+      },
+      {
+        "label": "Tachibana et ses collègues : cellules souches humaines",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3772789/"
+      },
+      {
+        "label": "NHGRI : comprendre le clonage",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet"
+      },
+      {
+        "label": "ISSCR : limites de la recherche",
+        "url": "https://www.isscr.org/guidelines-online/laboratory-based-human-embryonic-stem-cell-research-embryo-research-and-related-research-activities"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/domain-investing-premium-domain-sales/",
     "path": "/ar/articles/domain-investing-premium-domain-sales/",
     "kind": "article",

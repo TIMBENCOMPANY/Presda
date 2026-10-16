@@ -1111,6 +1111,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/dolly-cloned-sheep-changed-science/",
+    "path": "/ar/articles/dolly-cloned-sheep-changed-science/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/dolly-cloned-sheep-changed-science/",
+    "path": "/es/articles/dolly-cloned-sheep-changed-science/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/dolly-cloned-sheep-changed-science/",
+    "path": "/fr/articles/dolly-cloned-sheep-changed-science/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/domain-investing-premium-domain-sales/",
     "path": "/ar/articles/domain-investing-premium-domain-sales/"
   },

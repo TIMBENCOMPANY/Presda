@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "dolly-cloned-sheep-changed-science": {"en":{"red":"DOLLY","gold":"CHANGED SCIENCE FOREVER"},"fr":{"red":"DOLLY","gold":"CHANGÉ LA SCIENCE À JAMAIS"},"es":{"red":"DOLLY","gold":"CAMBIÓ LA CIENCIA PARA SIEMPRE"},"ar":{"red":"دولي","gold":"غيرت العلم إلى الأبد"}},
   "winter-dolphin-prosthetic-tail": {"en":{"red":"WINTER","gold":"PROSTHETIC TAIL"},"fr":{"red":"WINTER","gold":"QUEUE PROTHÉTIQUE"},"es":{"red":"WINTER","gold":"COLA PROTÉSICA"},"ar":{"red":"وينتر","gold":"بذيل اصطناعي"}},
   "laika-first-dog-orbit-never-came-home": {"en":{"red":"LAIKA","gold":"NEVER RETURNED"},"fr":{"red":"LAÏKA","gold":"N’EST JAMAIS REVENUE"},"es":{"red":"LAIKA","gold":"NUNCA REGRESÓ"},"ar":{"red":"لايكا","gold":"لم تعد أبدا"}},
   "animal-testing-hidden-cost-scientific-progress": {"en":{"red":"ANIMAL TESTING","gold":"SCIENTIFIC PROGRESS"},"fr":{"red":"EXPÉRIMENTATION ANIMALE","gold":"PROGRÈS SCIENTIFIQUE"},"es":{"red":"EXPERIMENTACIÓN ANIMAL","gold":"PROGRESO CIENTÍFICO"},"ar":{"red":"التجارب على الحيوانات","gold":"للتقدم العلمي"}},
