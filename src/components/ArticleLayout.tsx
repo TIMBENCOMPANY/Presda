@@ -1,3 +1,5 @@
+import winterHeroCaptions from "@/data/winterHeroCaptions.json";
+import { WinterHistoricalImage, winterImageAtBlock } from "@/components/WinterHistoricalImage";
 import laikaHeroCaptions from "@/data/laikaHeroCaptions.json";
 import { LaikaHistoricalImage, laikaImageAtBlock } from "@/components/LaikaHistoricalImage";
 import animalTestingHeroCaptions from "@/data/animalTestingHeroCaptions.json";
@@ -348,6 +350,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "nikola-tesla-genius-helped-electrify-world" && <p data-tesla-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{teslaHeroCaptions[locale]}</p>}
         {article.slug === "bobby-fischer-chess-legend-america-iceland" && <p data-fischer-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{fischerHeroCaptions[locale]}</p>}
         {article.slug === "pill-culture-red-blue-black-pills-modern-thinking" && <p data-pill-culture-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{pillCultureHeroCaptions[locale]}</p>}
+        {article.slug === "winter-dolphin-prosthetic-tail" && <p data-winter-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{winterHeroCaptions[locale]}</p>}
         {article.slug === "laika-first-dog-orbit-never-came-home" && <p data-laika-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{laikaHeroCaptions[locale]}</p>}
         {article.slug === "animal-testing-hidden-cost-scientific-progress" && <p data-animal-testing-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{animalTestingHeroCaptions[locale]}</p>}
         {article.slug === "medical-cannabis-science-benefits-risks" && <p data-medical-cannabis-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{medicalCannabisHeroCaptions[locale]}</p>}
@@ -547,6 +550,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "nikola-tesla-genius-helped-electrify-world" && teslaImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><TeslaHistoricalImage id={teslaImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "animal-testing-hidden-cost-scientific-progress" && animalImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><AnimalResearchImage id={animalImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "laika-first-dog-orbit-never-came-home" && laikaImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><LaikaHistoricalImage id={laikaImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "winter-dolphin-prosthetic-tail" && winterImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WinterHistoricalImage id={winterImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "bobby-fischer-chess-legend-america-iceland" && fischerImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FischerHistoricalImage id={fischerImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "first-giraffe-china-1414-bengal-yongle" && originalIndex === 18) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GiraffeMuseumImage locale={locale} /></div>;
               const structured = localizedBlocks?.[originalIndex];

@@ -1,0 +1,86 @@
+{
+  "swim": {
+    "credit": "Paul / Flickr",
+    "creditUrl": "https://www.flickr.com/photos/81565156@N00/6102449595",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Winter_tailless_bottlenose_dolphin.jpg",
+    "copy": {
+      "en": {
+        "alt": "Winter swimming underwater without her tail flukes at Clearwater Marine Aquarium.",
+        "caption": "The real Winter without her prosthetic tail, photographed on 29 August 2011. Her ability to swim without the device is an essential part of her rehabilitation story."
+      },
+      "fr": {
+        "alt": "Winter nage sous l’eau sans nageoire caudale au Clearwater Marine Aquarium.",
+        "caption": "La véritable Winter sans sa prothèse, photographiée le 29 août 2011. Sa capacité à nager sans cet appareil est un élément essentiel de son histoire de rééducation."
+      },
+      "es": {
+        "alt": "Winter nada bajo el agua sin aleta caudal en el Clearwater Marine Aquarium.",
+        "caption": "La verdadera Winter sin su cola protésica, fotografiada el 29 de agosto de 2011. Su capacidad para nadar sin el dispositivo es esencial para entender su rehabilitación."
+      },
+      "ar": {
+        "alt": "وينتر تسبح تحت الماء من دون زعنفتها الذيلية في كليرووتر مارين أكواريوم.",
+        "caption": "وينتر الحقيقية من دون ذيلها الاصطناعي، في صورة بتاريخ 29 أغسطس 2011. قدرتها على السباحة بلا الجهاز جزء أساسي من قصة تأهيلها."
+      }
+    },
+    "src": "/articles/winter/swim-1200.webp",
+    "width": 1200,
+    "height": 800
+  },
+  "tail": {
+    "credit": "Ula0601 / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/User:Ula0601",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tale_IMG_4311.jpg",
+    "copy": {
+      "en": {
+        "alt": "A prosthetic tail associated with Winter rests on an orange towel, showing the socket and artificial flukes.",
+        "caption": "Winter’s prosthetic tail photographed on 3 December 2011, as identified in the photographer’s record. The external socket and artificial flukes are visible; this is an authentic photograph, not the imagined device in the hero illustration."
+      },
+      "fr": {
+        "alt": "Une prothèse de queue associée à Winter repose sur une serviette orange, avec son emboîture et ses lobes artificiels.",
+        "caption": "Prothèse de queue de Winter photographiée le 3 décembre 2011, selon la notice du photographe. L’emboîture externe et les lobes artificiels sont visibles. Il s’agit d’une photographie authentique, et non de l’appareil imaginé dans l’illustration principale."
+      },
+      "es": {
+        "alt": "Una cola protésica asociada a Winter sobre una toalla naranja muestra el encaje y los lóbulos artificiales.",
+        "caption": "Cola protésica de Winter fotografiada el 3 de diciembre de 2011, según el registro del fotógrafo. Se ven el encaje externo y los lóbulos artificiales. Es una fotografía auténtica, no el dispositivo imaginario de la ilustración principal."
+      },
+      "ar": {
+        "alt": "ذيل اصطناعي مرتبط بوينتر فوق منشفة برتقالية، يظهر التجويف الحاضن والفصين الاصطناعيين.",
+        "caption": "ذيل وينتر الاصطناعي في صورة بتاريخ 3 ديسمبر 2011، وفق وصف المصور. يظهر التجويف الخارجي والفصان الاصطناعيان. هذه صورة حقيقية، وليست الجهاز المتخيل في الرسم الرئيسي."
+      }
+    },
+    "src": "/articles/winter/tail-1200.webp",
+    "width": 1200,
+    "height": 1600
+  },
+  "care": {
+    "credit": "Ula0601 / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/User:Ula0601",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Winter_IMG_4493_s.jpg",
+    "copy": {
+      "en": {
+        "alt": "Winter seen from above swimming near the surface without a prosthetic tail.",
+        "caption": "Winter near the surface, photographed on 3 December 2011. This image documents her altered body and swimming; it does not show a clinical rehabilitation session."
+      },
+      "fr": {
+        "alt": "Winter vue de dessus nage près de la surface sans prothèse de queue.",
+        "caption": "Winter près de la surface, photographiée le 3 décembre 2011. L’image montre son corps transformé et sa nage, pas une séance clinique de rééducation."
+      },
+      "es": {
+        "alt": "Winter vista desde arriba nadando cerca de la superficie sin cola protésica.",
+        "caption": "Winter cerca de la superficie, fotografiada el 3 de diciembre de 2011. La imagen documenta su cuerpo y su forma de nadar, no una sesión clínica de rehabilitación."
+      },
+      "ar": {
+        "alt": "وينتر من أعلى وهي تسبح قرب سطح الماء من دون ذيل اصطناعي.",
+        "caption": "وينتر قرب السطح في صورة بتاريخ 3 ديسمبر 2011. توثق الصورة جسدها المتغير وسباحتها، ولا تُظهر جلسة تأهيل سريرية."
+      }
+    },
+    "src": "/articles/winter/care-727.webp",
+    "width": 727,
+    "height": 526
+  }
+}
