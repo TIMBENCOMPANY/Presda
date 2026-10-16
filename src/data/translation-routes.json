@@ -1561,6 +1561,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/ham-chimpanzee-space-before-americas-first-astronaut/",
+    "path": "/ar/articles/ham-chimpanzee-space-before-americas-first-astronaut/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/ham-chimpanzee-space-before-americas-first-astronaut/",
+    "path": "/es/articles/ham-chimpanzee-space-before-americas-first-astronaut/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/ham-chimpanzee-space-before-americas-first-astronaut/",
+    "path": "/fr/articles/ham-chimpanzee-space-before-americas-first-astronaut/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/han-dynasty-china-silk-road-history-legacy/",
     "path": "/ar/articles/han-dynasty-china-silk-road-history-legacy/"
   },

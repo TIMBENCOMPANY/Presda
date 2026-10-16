@@ -850,5 +850,47 @@
       "width": 1200,
       "src": "/articles/felicette/habitat-1200.webp"
     }
+  ],
+  "/articles/ham/training-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/ham/training-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/ham/training-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/ham/training-1200.webp"
+    }
+  ],
+  "/articles/ham/sensors-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/ham/sensors-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/ham/sensors-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/ham/sensors-1200.webp"
+    }
+  ],
+  "/articles/ham/recovery-1200.webp": [
+    {
+      "width": 480,
+      "src": "/articles/ham/recovery-480.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/ham/recovery-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/ham/recovery-1200.webp"
+    }
   ]
 }

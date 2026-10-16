@@ -1,0 +1,86 @@
+{
+  "training": {
+    "credit": "NASA / 61C-0109 (GPN-2000-001003)",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ham_Checks_Out_Equipment_-_GPN-2000-001003.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "source": "https://commons.wikimedia.org/wiki/File:Ham_Checks_Out_Equipment_-_GPN-2000-001003.jpg",
+    "copy": {
+      "en": {
+        "alt": "Ham sits beside flight equipment while a technician checks the apparatus.",
+        "caption": "Ham and a technician during preparations, 23 January 1961. Authentic NASA archival photograph of preflight equipment."
+      },
+      "fr": {
+        "alt": "Ham est assis près de son équipement pendant qu’un technicien vérifie les appareils.",
+        "caption": "Ham et un technicien pendant les préparatifs, le 23 janvier 1961. Photographie authentique des archives de la NASA."
+      },
+      "es": {
+        "alt": "Ham junto al equipo de vuelo mientras un técnico revisa los aparatos.",
+        "caption": "Ham y un técnico durante los preparativos, 23 de enero de 1961. Fotografía auténtica del archivo de la NASA."
+      },
+      "ar": {
+        "alt": "هام يجلس قرب تجهيزات الطيران بينما يفحص فني الأجهزة.",
+        "caption": "هام مع فني أثناء التحضير في 23 يناير 1961. صورة أصلية من أرشيف ناسا لتجهيزات ما قبل الرحلة."
+      }
+    },
+    "src": "/articles/ham/training-1200.webp",
+    "width": 1200,
+    "height": 943
+  },
+  "sensors": {
+    "credit": "NASA / S61-00203",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ham_with_bio-sensors_attached.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "source": "https://commons.wikimedia.org/wiki/File:Ham_with_bio-sensors_attached.jpg",
+    "copy": {
+      "en": {
+        "alt": "Handlers prepare Ham with biological sensors attached to his body.",
+        "caption": "Biological sensors attached to Ham during preparations for Mercury-Redstone 2, 31 January 1961. Authentic NASA photograph."
+      },
+      "fr": {
+        "alt": "Des techniciens préparent Ham avec des capteurs biologiques fixés sur son corps.",
+        "caption": "Ham équipé de capteurs biologiques avant Mercury-Redstone 2, le 31 janvier 1961. Photographie authentique de la NASA."
+      },
+      "es": {
+        "alt": "Los encargados preparan a Ham con sensores biológicos colocados en su cuerpo.",
+        "caption": "Ham con sensores biológicos durante los preparativos de Mercury-Redstone 2, 31 de enero de 1961. Fotografía auténtica de la NASA."
+      },
+      "ar": {
+        "alt": "فنيون يعدون هام ومجسات بيولوجية مثبتة على جسمه.",
+        "caption": "مجسات بيولوجية على جسم هام أثناء التحضير لميركوري ريدستون 2 في 31 يناير 1961. صورة أصلية من ناسا."
+      }
+    },
+    "src": "/articles/ham/sensors-1200.webp",
+    "width": 1200,
+    "height": 910
+  },
+  "recovery": {
+    "credit": "NASA / S63-18198",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ham_receives_his_well_deserved_apple.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "source": "https://commons.wikimedia.org/wiki/File:Ham_receives_his_well_deserved_apple.jpg",
+    "copy": {
+      "en": {
+        "alt": "Ham receives an apple while seated in his flight equipment after recovery.",
+        "caption": "Ham receives an apple after his recovery from the Atlantic, 31 January 1961. Authentic NASA photograph; his expression alone cannot establish his emotional state."
+      },
+      "fr": {
+        "alt": "Ham reçoit une pomme, encore installé dans son équipement après le sauvetage.",
+        "caption": "Ham reçoit une pomme après son sauvetage dans l’Atlantique, le 31 janvier 1961. Photographie authentique de la NASA ; son expression seule ne permet pas de connaître son état émotionnel."
+      },
+      "es": {
+        "alt": "Ham recibe una manzana sentado en su equipo de vuelo después del rescate.",
+        "caption": "Ham recibe una manzana tras ser recuperado del Atlántico, 31 de enero de 1961. Fotografía auténtica de la NASA; su expresión por sí sola no establece su estado emocional."
+      },
+      "ar": {
+        "alt": "هام يتلقى تفاحة وهو جالس داخل تجهيزات الرحلة بعد إنقاذه.",
+        "caption": "هام يتلقى تفاحة بعد انتشاله من الأطلسي في 31 يناير 1961. صورة أصلية من ناسا؛ لا يكفي تعبير وجهه وحده لتحديد حالته العاطفية."
+      }
+    },
+    "src": "/articles/ham/recovery-1200.webp",
+    "width": 1200,
+    "height": 946
+  }
+}

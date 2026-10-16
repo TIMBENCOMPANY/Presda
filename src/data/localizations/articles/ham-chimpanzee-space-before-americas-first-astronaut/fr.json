@@ -1,0 +1,226 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/ham-chimpanzee-space-before-americas-first-astronaut/",
+  "path": "/fr/articles/ham-chimpanzee-space-before-americas-first-astronaut/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-16",
+    "terminologyChecked": true
+  },
+  "title": "HAM : LE CHIMPANZÉ PARTI DANS L’ESPACE AVANT LE PREMIER ASTRONAUTE AMÉRICAIN",
+  "seoTitle": "Ham : le chimpanzé qui a volé avant Alan Shepard",
+  "description": "Le vol suborbital de Ham en 1961, son entraînement, les problèmes techniques, son sauvetage et sa vie après la mission, entre archives et questions éthiques.",
+  "excerpt": "Le vol suborbital de Ham en 1961, son entraînement, les problèmes techniques, son sauvetage et sa vie après la mission, entre archives et questions éthiques.",
+  "headlineHighlights": {
+    "red": "HAM",
+    "gold": "PREMIER ASTRONAUTE AMÉRICAIN"
+  },
+  "keywords": [
+    "HAM",
+    "PREMIER ASTRONAUTE AMÉRICAIN"
+  ],
+  "searchIntent": "Le vol suborbital de Ham en 1961, son entraînement, les problèmes techniques, son sauvetage et sa vie après la mission, entre archives et questions éthiques.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-16",
+  "updatedAt": "2026-10-16",
+  "image": {
+    "src": "/articles/ham-hero.png",
+    "alt": "Reconstitution assistée par IA d’un chimpanzé préparé près d’une capsule spatiale imaginée."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une pomme figure sur l’une des photographies les plus marquantes des débuts du programme spatial américain. Ham, encore installé dans son équipement de vol, la reçoit après son sauvetage dans l’Atlantique. L’image atteste sa survie. Elle ne révèle pas ce que le chimpanzé comprenait de la fusée, de l’océan ou des personnes qui l’entouraient. Cette distinction compte dans une histoire trop souvent racontée comme une simple aventure. [NASA : photographie du sauvetage](https://commons.wikimedia.org/wiki/File:Ham_receives_his_well_deserved_apple.jpg)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le 31 janvier 1961, Ham voyage à bord de Mercury-Redstone 2 et devient le premier chimpanzé à atteindre l’espace. Son vol est suborbital : la capsule monte au-delà de l’atmosphère puis retombe vers la Terre sans en faire le tour. Trois mois plus tard, Alan Shepard devient le premier Américain dans l’espace. Entre ces deux vols se trouvent une expérience importante, de graves problèmes techniques et un animal qui n’a jamais choisi de participer. [NASA : chronologie de Mercury](https://www.nasa.gov/project-mercury/)"
+    },
+    {
+      "type": "heading",
+      "text": "Du Cameroun au statut de sujet numéroté"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ham vient du Cameroun, puis passe par le commerce d’animaux avant d’intégrer la recherche aérospatiale américaine. L’organisation de protection Save the Chimps situe son transfert d’un marchand de Floride vers la base aérienne de Holloman, au Nouveau-Mexique, en juillet 1959. Les récits divergent sur son année de naissance exacte. Lui attribuer une date certaine reviendrait donc à combler artificiellement une lacune documentaire. [Save the Chimps : origines de Ham](https://savethechimps.org/ham-space-chimp/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant que le public ne le connaisse sous le nom de Ham, les chercheurs le désignent par le numéro 65. Son nom renvoie ensuite à l’organisme de médecine aéronautique de Holloman. Il appartient à un groupe de chimpanzés préparés pour Mercury ; six candidats sont amenés en Floride. Le raisonnement scientifique repose sur des ressemblances avec les humains, notamment la capacité d’apprentissage. Ces mêmes ressemblances rendent les questions éthiques incontournables : un animal capable d’apprendre ne se réduit pas à un instrument biologique. [Smithsonian : histoire de Ham](https://www.smithsonianmag.com/air-space-magazine/ham-the-astrochimp-140718786/)"
+    },
+    {
+      "type": "heading",
+      "text": "Apprendre les signaux et les leviers"
+    },
+    {
+      "type": "paragraph",
+      "text": "La préparation ne consiste pas simplement à rester assis dans une capsule. Ham apprend à actionner des leviers en réponse à des signaux. L’histoire publiée par la NASA décrit un conditionnement associant récompenses alimentaires et évitement de décharges électriques. En vol, il accomplit correctement la tâche de gauche et commet deux erreurs sur 50 réponses à droite. Ces mesures évaluent une performance dans des conditions inhabituelles, pas sa compréhension du but de la mission. [NASA : histoire du programme spatial](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4537.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le dispositif transforme de petits gestes en données. Une réponse peut être chronométrée et comparée aux résultats au sol. Les chercheurs veulent savoir si un organisme peut encore percevoir un signal puis exécuter une action apprise pendant l’accélération et l’apesanteur. La question dépasse donc la seule survie d’un passager vivant. Elle porte sur une chaîne comportementale précise, et non sur toutes les facultés de jugement nécessaires à un astronaute humain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ham est maintenu dans une couchette spécialement conçue, intégrée à un système de soutien biologique. Une partie des préparatifs se déroule au Hangar S de cap Canaveral. Des photographies de la NASA montrent les techniciens travaillant avec lui et son équipement. Ces archives restituent l’échelle concrète de l’expérience : un jeune chimpanzé, un espace étroit et des machines organisées autour de son corps. Elles ne doivent pas être confondues avec les illustrations ultérieures d’animaux habillés comme de petits astronautes humains. [NASA : préparation de Ham](https://www.nasa.gov/image-article/chimpanzee-ham-with-trainers/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un passager vivant dans une course politique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mercury s’inscrit dans une compétition où les démonstrations techniques ont une immense portée politique. L’Union soviétique a lancé Spoutnik 1 en 1957, puis envoyé Laïka en orbite en novembre. Les ingénieurs américains préparent leurs propres vols habités, alors que subsistent des questions sur le soutien vital, la récupération et les performances humaines. Des animaux ont déjà dépassé l’atmosphère avant Ham et Laïka. Aucun des deux n’est le premier animal dans l’espace. [NASA : animaux dans l’espace](https://www.nasa.gov/history/a-brief-history-of-animals-in-space/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La recherche d’une première nationale ne rend pas toutes les expériences identiques. Le vol de Laïka concerne la survie orbitale sans possibilité de retour. Celui de Ham inclut des comportements appris et une récupération prévue. Ces différences empêchent de transformer les animaux en symboles interchangeables. Elles invitent aussi à examiner les décisions humaines : quels risques imposer, et pour obtenir quelles connaissances ?"
+    },
+    {
+      "type": "heading",
+      "text": "31 janvier 1961 : au-delà de la trajectoire prévue"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mercury-Redstone 2 décolle de cap Canaveral avec Ham dans la capsule numéro 5. Une référence historique de la NASA indique un vol d’environ 16 minutes et 39 secondes, une altitude d’environ 157 miles, soit 253 kilomètres, et une distance parcourue de 422 miles, soit 679 kilomètres. Ces chiffres historiques arrondis ne décrivent pas une distance orbitale. Au sommet de sa trajectoire, la capsule connaît une période d’apesanteur avant de redescendre. [NASA : référence historique](https://ntrs.nasa.gov/api/citations/20000027506/downloads/20000027506.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suborbital ne signifie pas que l’espace n’a jamais été atteint. Cela signifie que le véhicule n’a pas acquis la vitesse horizontale permettant de continuer à tomber autour de la Terre. Ham suit un grand arc balistique. La distinction est essentielle pour comparer son vol à celui d’Enos, le chimpanzé placé en orbite plus tard en 1961, ou aux missions humaines orbitales nécessitant d’autres capacités de lancement et de récupération."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que les instruments pouvaient révéler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les photographies du jour du lancement montrent Ham équipé de capteurs biologiques pendant sa préparation. En associant les réactions corporelles aux mouvements des leviers, les chercheurs peuvent rapprocher le comportement des contraintes physiques du vol. Ces enregistrements concernent un animal précis lors d’un trajet précis. Ils ne garantissent pas que chaque organisme humain, chaque système spatial ou une mission beaucoup plus longue réagirait de la même manière. [NASA : photographie des capteurs](https://commons.wikimedia.org/wiki/File:Ham_with_bio-sensors_attached.jpg)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sa survie et le maintien de ses réponses constituent des résultats importants. Leurs limites le sont tout autant. Actionner correctement un levier ne mesure ni le confort, ni l’absence de détresse, ni le consentement. Une photographie du visage d’un chimpanzé ne prouve pas davantage son bonheur. Lire cette mission avec rigueur exige de considérer ensemble le résultat technique et la vulnérabilité de l’animal."
+    },
+    {
+      "type": "heading",
+      "text": "Des problèmes en altitude, puis le danger de l’océan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le vol ne suit pas la trajectoire prévue. Le bilan technique de Mercury décrit un épuisement des ergols déclenchant la séquence d’abandon avant le changement d’état des protections de coupure concernées. Le système de sauvetage ajoute de la vitesse, et la capsule dépasse la zone d’amerrissage prévue d’environ 110 milles nautiques. Le sauvetage réussi ne doit donc pas être confondu avec un fonctionnement entièrement satisfaisant du lanceur. [NASA : bilan technique de Mercury](https://sma.nasa.gov/SignificantIncidents/assets/1.-project-review.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La rentrée impose une décélération maximale d’environ 14,7 fois la gravité terrestre. Après l’amerrissage, de l’eau pénètre dans la capsule, tandis que Ham reste protégé dans son propre habitacle. Les équipes le ramènent vivant. La mission montre qu’un primate entraîné peut continuer à exécuter ses tâches pendant ce bref voyage, tout en révélant des problèmes que les ingénieurs doivent résoudre avant d’embarquer un humain. [NASA : histoire du programme spatial](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4537.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "La route vers Alan Shepard"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’histoire du lanceur publiée par la NASA relie les difficultés de MR-2 à la décision de mener un nouvel essai sans équipage. Mercury-Redstone BD réussit le 24 mars 1961. Shepard suit le 5 mai à bord de Freedom 7. Ham contribue aux connaissances qui permettent cette étape, avec les essais au sol, les modifications techniques et d’autres vols. Affirmer qu’il a rendu possible à lui seul le vol spatial humain exagérerait sa place dans un programme collectif. [NASA : développement de Redstone](https://www.nasa.gov/history/mercury-redstone-launch-vehicle/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shepard est le premier voyageur spatial américain, pas le premier au monde. Youri Gagarine a effectué une orbite le 12 avril. Les vols de Ham et de Shepard sont suborbitaux ; Enos atteint l’orbite le 29 novembre, et John Glenn devient le premier Américain à tourner autour de la Terre en février 1962. Une chronologie précise éclaire mieux l’histoire qu’une compétition de premières mal définies. [NASA : chronologie de Mercury](https://www.nasa.gov/project-mercury/)"
+    },
+    {
+      "type": "heading",
+      "text": "Une vie après les gros titres"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ham ne meurt pas pendant sa mission. Il vit au National Zoo de Washington à partir de 1963, puis rejoint le parc zoologique de Caroline du Nord en 1980. Une notice des archives du Smithsonian documente ce transfert en septembre, après 17 ans au National Zoo, et évoque son rapprochement avec d’autres chimpanzés. Sa vie après le vol dure bien plus longtemps que les minutes qui le rendent célèbre. [Smithsonian : transfert au zoo](https://siarchives.si.edu/collections/siris_sic_1874)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il meurt en janvier 1983. La rétrospective du Smithsonian mentionne une maladie cardiaque. Les récits de ses dernières années comprennent des souvenirs de soigneurs, mais ces témoignages ne donnent pas accès à toute sa vie intérieure. Une biographie honnête peut décrire la captivité, les soins et les conditions sociales sans lui inventer des pensées. Ham mérite une histoire au-delà du lancement, même lorsqu’elle est moins spectaculaire qu’une fusée. [Smithsonian : histoire de Ham](https://www.smithsonianmag.com/air-space-magazine/ham-the-astrochimp-140718786/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ham, Laïka et Félicette : des destins différents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Laïka ne revient jamais de son vol orbital de 1957. Félicette survit à un vol suborbital français en 1963, puis est euthanasiée pour la recherche. Ham survit et vit encore plusieurs décennies. Ces fins différentes comptent : tous les animaux spatiaux n’ont pas vécu la même expérience. Nos récits sur [la mission de Laïka](/articles/laika-first-dog-orbit-never-came-home/) et [le vol de Félicette et sa fin tragique](/articles/felicette-french-cat-space-tragic-end/) détaillent ces histoires."
+    },
+    {
+      "type": "paragraph",
+      "text": "La recherche animale est souvent défendue par les bénéfices qu’elle produit. Une évaluation sérieuse doit également examiner les méthodes, la nécessité de chaque expérience et les solutions de remplacement. Les 3R demandent de remplacer les animaux lorsque c’est possible, de réduire leur nombre et de raffiner les procédures pour limiter la souffrance. Ce cadre offre un langage plus précis que de qualifier toute expérience d’héroïque ou d’inutile. [NC3Rs : principes des 3R](https://nc3rs.org.uk/the-3rs)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces questions relient Ham à l’histoire de [l’expérimentation animale et du progrès scientifique](/articles/animal-testing-hidden-cost-scientific-progress/). Le contexte historique explique les décisions des chercheurs ; il ne suffit pas à les justifier. Reconnaître la souffrance n’oblige pas non plus à nier l’existence des mesures obtenues ou des connaissances techniques acquises."
+    },
+    {
+      "type": "heading",
+      "text": "Se souvenir du passager autant que de la mission"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le vol de Ham laisse deux sortes de traces : celles d’un véhicule spatial et celles d’un être vivant placé à l’intérieur. Les premières aident les ingénieurs à préparer le vol humain. Les secondes interrogent le prix payé pour rendre ce chemin plus sûr pour nous. Les deux appartiennent à la même histoire."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pomme de la photographie du sauvetage est un détail concret face aux grands discours de la course à l’espace. Ham est revenu. On peut reconnaître ce fait sans transformer la survie en consentement, ni l’utilité scientifique en réponse morale complète. Le souvenir fidèle préserve l’exploit tout en refusant de laisser l’animal disparaître derrière lui."
+    }
+  ],
+  "sources": [
+    {
+      "label": "NASA : photographie du sauvetage",
+      "url": "https://commons.wikimedia.org/wiki/File:Ham_receives_his_well_deserved_apple.jpg"
+    },
+    {
+      "label": "NASA : chronologie de Mercury",
+      "url": "https://www.nasa.gov/project-mercury/"
+    },
+    {
+      "label": "Save the Chimps : origines de Ham",
+      "url": "https://savethechimps.org/ham-space-chimp/"
+    },
+    {
+      "label": "Smithsonian : histoire de Ham",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/ham-the-astrochimp-140718786/"
+    },
+    {
+      "label": "NASA : histoire du programme spatial",
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/04/sp-4537.pdf"
+    },
+    {
+      "label": "NASA : préparation de Ham",
+      "url": "https://www.nasa.gov/image-article/chimpanzee-ham-with-trainers/"
+    },
+    {
+      "label": "NASA : animaux dans l’espace",
+      "url": "https://www.nasa.gov/history/a-brief-history-of-animals-in-space/"
+    },
+    {
+      "label": "NASA : référence historique",
+      "url": "https://ntrs.nasa.gov/api/citations/20000027506/downloads/20000027506.pdf"
+    },
+    {
+      "label": "NASA : photographie des capteurs",
+      "url": "https://commons.wikimedia.org/wiki/File:Ham_with_bio-sensors_attached.jpg"
+    },
+    {
+      "label": "NASA : bilan technique de Mercury",
+      "url": "https://sma.nasa.gov/SignificantIncidents/assets/1.-project-review.pdf"
+    },
+    {
+      "label": "NASA : développement de Redstone",
+      "url": "https://www.nasa.gov/history/mercury-redstone-launch-vehicle/"
+    },
+    {
+      "label": "Smithsonian : transfert au zoo",
+      "url": "https://siarchives.si.edu/collections/siris_sic_1874"
+    },
+    {
+      "label": "NC3Rs : principes des 3R",
+      "url": "https://nc3rs.org.uk/the-3rs"
+    }
+  ],
+  "faq": []
+}
