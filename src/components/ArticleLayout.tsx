@@ -275,10 +275,10 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const lastUpdated = getArticleLastUpdated(article);
   const heroDimensions = getArticleImageDimensions(article.coverImage);
   const standaloneHero = article.slug === "psychology-of-cults-why-people-follow-blindly";
+  const intrinsicHero = ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy", "giordano-bruno-philosopher-heresy"].includes(article.slug);
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
-    objectFit: ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy", "giordano-bruno-philosopher-heresy"].includes(article.slug) ? "contain" : undefined,
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
   } as CSSProperties;
@@ -297,7 +297,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header className={`article-hero${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
+        <header className={`article-hero${standaloneHero ? " article-hero--standalone" : ""}${intrinsicHero ? " article-hero--intrinsic" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
           <div className="article-hero-media relative">
             <Image
               src={article.coverImage}
