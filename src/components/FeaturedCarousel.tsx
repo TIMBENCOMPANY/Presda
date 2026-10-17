@@ -10,6 +10,7 @@ import { ChevronLeft, ChevronRight, Pause, Play } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 import { HomeImage } from "@/components/HomeImage";
 import { HeadlineText } from "@/components/HeadlineText";
+import { getPremiumHeroHighlights, PremiumHeroHeadline } from "@/components/PremiumHeroHeadline";
 import { getArticleCardImage, getArticleCardImagePosition, getArticleHeroImagePosition } from "@/lib/articleImages";
 import type { CategoryStory } from "@/lib/categoryCuration";
 
@@ -118,6 +119,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
         <div className="category-featured-slides relative grid" aria-live={paused ? "polite" : "off"}>
           {slides.map((article, index) => {
             const Title = isHome && index === active ? "h1" : "h2";
+            const heroHighlights = isHome ? getPremiumHeroHighlights(article.slug, locale) : undefined;
             const preload = isHome && (index === (active + 1) % slides.length || index === (active + slides.length - 1) % slides.length || index === pending);
             return (
             <article key={article.slug} aria-hidden={index !== active} aria-label={`${index + 1} ${t.of} ${slides.length}`} aria-roledescription={t.slide}
@@ -137,7 +139,9 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
                 <div className={`category-featured-copy relative flex flex-col justify-end p-5 sm:p-7 lg:p-8 ${isHome ? "lg:pb-14" : ""}`}>
                   <p className="mb-3 hidden font-display text-xs font-extrabold uppercase text-[#FF1A1A] sm:block">{categoryLabels[article.category]}</p>
                   <Title className="max-w-[28ch] text-balance font-display text-2xl font-extrabold uppercase leading-tight sm:text-3xl lg:text-4xl">
-                    <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />
+                    {heroHighlights
+                      ? <PremiumHeroHeadline title={article.title} highlights={heroHighlights} yellowSecondary={article.slug === "megan-fox-subs-co-owner-tim-stokely"} />
+                      : <HeadlineText title={article.title} highlights={article.headlineHighlights} legacyRed={article.headlineAccent} />}
                   </Title>
                   {!isHome && <p className="mt-4 hidden flex-wrap gap-x-3 gap-y-1 text-xs text-white/80 sm:flex">{locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} /> : <><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span></>}</p>}
                 </div>

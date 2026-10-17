@@ -4,24 +4,20 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Homepage editorial placements only. Category selections remain independent.
 export const homeHeroSlugs = [
-  "breaking-bad-actor-rj-mitte-dies-at-34",
-  "world-most-expensive-paintings-ever-sold",
+  "vincent-van-gogh-life-art-legacy",
+  "nikola-tesla-genius-helped-electrify-world",
   "megan-fox-subs-co-owner-tim-stokely",
-  "black-death-pandemic-transform-europe",
-  "modern-architecture-world-most-breathtaking-buildings",
-  "revolut-global-tech-ai-storonsky-2026",
-  "feminism-movement-redefined-womens-rights",
-  "paranoia-why-do-we-feel-watched",
-  "humans-apes-dna-similarity-chimpanzees-evolution",
-  "plastic-surgery-revolution-beauty-at-any-cost",
-  "sarco-capsule-assisted-dying-switzerland",
-  "virgin-trains-eurostar-cross-channel-rival"
+  "chocolate-ancient-cacao-global-obsession",
+  "bobby-fischer-chess-legend-america-iceland",
+  "dostoevsky-life-death-human-darkness",
+  "dolly-cloned-sheep-changed-science",
+  "invention-photography-first-photo-digital-age"
 ] as const;
 
 export const homeSideSlugs = [
-  "lonely-genius-great-minds-solitude-creativity",
-  "kim-kardashian-lewis-hamilton-romance-public",
-  "immortal-jellyfish-turritopsis-dohrnii-life-cycle"
+  "giordano-bruno-philosopher-heresy",
+  "winter-dolphin-prosthetic-tail",
+  "princess-diana-life-tragedy-legacy"
 ] as const;
 
 export function selectHomeArticles(articles: readonly Article[], now: Date, locale: Locale = "en", translations: readonly Translation[] = []) {

@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useId, useRef, useState } from "react";
-import { Check, Globe } from "lucide-react";
+import { Check, Languages } from "lucide-react";
 import { usePathname } from "next/navigation";
 import { languageDestination, languageNames, locales, type Locale, type TranslationRoute } from "@/lib/i18n/routing";
 import { messages } from "@/lib/i18n/messages";
@@ -46,7 +46,7 @@ export function LanguageSelector({ locale, routes, dismiss = false, onOpen }: { 
           if (!open) { onOpen?.(); setNotice(false); }
           setOpen(!open);
         }}>
-        <Globe className="h-5 w-5" strokeWidth={1.6} aria-hidden="true" />
+        <Languages className="h-5 w-5" strokeWidth={1.8} aria-hidden="true" />
       </button>
       {open && <div id={panelId} className="language-dropdown">
       <nav aria-label={messages[locale].language} className="language-options">
