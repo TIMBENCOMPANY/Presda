@@ -1,3 +1,4 @@
+import mw4HeroCaptions from "@/data/mw4HeroCaptions.json";
 import roadsterHeroCaptions from "@/data/roadsterHeroCaptions.json";
 import chocolateHeroCaptions from "@/data/chocolateHeroCaptions.json";
 import { ChocolateHistoricalImage, chocolateImageAtBlock } from "@/components/ChocolateHistoricalImage";
@@ -363,6 +364,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "ham-chimpanzee-space-before-americas-first-astronaut" && <p data-ham-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{hamHeroCaptions[locale]}</p>}
         {article.slug === "chocolate-ancient-cacao-global-obsession" && <p data-chocolate-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{chocolateHeroCaptions[locale]}</p>}
         {article.slug === "tesla-roadster-rocket-thrusters-2028" && <p data-roadster-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{roadsterHeroCaptions[locale]}</p>}
+        {article.slug === "modern-warfare-4-campaign-early-access" && <p data-mw4-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mw4HeroCaptions[locale]}</p>}
         {article.slug === "dolly-cloned-sheep-changed-science" && <p data-dolly-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dollyHeroCaptions[locale]}</p>}
         {article.slug === "winter-dolphin-prosthetic-tail" && <p data-winter-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{winterHeroCaptions[locale]}</p>}
         {article.slug === "laika-first-dog-orbit-never-came-home" && <p data-laika-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{laikaHeroCaptions[locale]}</p>}

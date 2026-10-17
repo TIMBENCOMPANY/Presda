@@ -2596,6 +2596,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/modern-warfare-4-campaign-early-access/",
+    "path": "/ar/articles/modern-warfare-4-campaign-early-access/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/modern-warfare-4-campaign-early-access/",
+    "path": "/es/articles/modern-warfare-4-campaign-early-access/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/modern-warfare-4-campaign-early-access/",
+    "path": "/fr/articles/modern-warfare-4-campaign-early-access/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/mongol-empire-genghis-khan-conquests-legacy/",
     "path": "/ar/articles/mongol-empire-genghis-khan-conquests-legacy/"
   },
