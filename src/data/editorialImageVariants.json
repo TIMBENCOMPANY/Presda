@@ -1224,5 +1224,61 @@
       "src": "/articles/bruno/execution-1400.webp",
       "bytes": 1041624
     }
+  ],
+  "/articles/moon/launch.webp": [
+    {
+      "width": 400,
+      "src": "/articles/moon/launch-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/moon/launch-800.webp"
+    },
+    {
+      "width": 1068,
+      "src": "/articles/moon/launch-1068.webp"
+    }
+  ],
+  "/articles/moon/flag.webp": [
+    {
+      "width": 400,
+      "src": "/articles/moon/flag-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/moon/flag-800.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/moon/flag-1400.webp"
+    }
+  ],
+  "/articles/moon/experiments.webp": [
+    {
+      "width": 400,
+      "src": "/articles/moon/experiments-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/moon/experiments-800.webp"
+    },
+    {
+      "width": 1222,
+      "src": "/articles/moon/experiments-1222.webp"
+    }
+  ],
+  "/articles/moon/geology.webp": [
+    {
+      "width": 400,
+      "src": "/articles/moon/geology-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/moon/geology-800.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/moon/geology-1400.webp"
+    }
   ]
 }

@@ -1,0 +1,114 @@
+{
+  "launch": {
+    "src": "/articles/moon/launch.webp",
+    "width": 1068,
+    "height": 1600,
+    "credit": "NASA / 7012482",
+    "creditUrl": "https://images.nasa.gov/details/7012482",
+    "source": "https://images.nasa.gov/details/7012482",
+    "license": "NASA editorial reuse",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Apollo 11’s Saturn V lifts off on July 16, 1969, photographed by a fisheye camera on the launch tower. NASA/MSFC, 7012482.",
+        "alt": "Saturn V rises beside its launch tower above a bright exhaust plume."
+      },
+      "fr": {
+        "caption": "Décollage de la Saturn V d’Apollo 11 le 16 juillet 1969, photographié par un objectif fisheye sur la tour. NASA/MSFC, 7012482.",
+        "alt": "Saturn V s’élève près de sa tour au-dessus des flammes."
+      },
+      "es": {
+        "caption": "El Saturn V de Apolo 11 despega el 16 de julio de 1969, visto por una cámara de ojo de pez en la torre. NASA/MSFC, 7012482.",
+        "alt": "Saturn V asciende junto a su torre sobre una columna de llamas."
+      },
+      "ar": {
+        "caption": "إقلاع ساتورن 5 لأبولو 11 في 16 يوليو 1969، بعدسة عين السمكة على برج الإطلاق. ناسا، 7012482.",
+        "alt": "صاروخ ساتورن 5 يصعد بجوار برج الإطلاق فوق لهب العادم."
+      }
+    }
+  },
+  "flag": {
+    "src": "/articles/moon/flag.webp",
+    "width": 1400,
+    "height": 1448,
+    "credit": "NASA / Neil Armstrong / as11-40-5875",
+    "creditUrl": "https://images.nasa.gov/details/as11-40-5875",
+    "source": "https://images.nasa.gov/details/as11-40-5875",
+    "license": "NASA editorial reuse",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Buzz Aldrin beside the deployed flag during Apollo 11’s lunar excursion, July 1969. Photograph by Neil Armstrong, NASA, AS11-40-5875.",
+        "alt": "Buzz Aldrin stands beside the supported American flag on the lunar surface."
+      },
+      "fr": {
+        "caption": "Buzz Aldrin près du drapeau déployé pendant la sortie lunaire d’Apollo 11, juillet 1969. Neil Armstrong, NASA, AS11-40-5875.",
+        "alt": "Buzz Aldrin debout près du drapeau américain soutenu sur le sol lunaire."
+      },
+      "es": {
+        "caption": "Buzz Aldrin junto a la bandera durante la salida lunar de Apolo 11, julio de 1969. Neil Armstrong, NASA, AS11-40-5875.",
+        "alt": "Buzz Aldrin junto a la bandera estadounidense sostenida en la superficie lunar."
+      },
+      "ar": {
+        "caption": "باز ألدرين بجوار العلم خلال نشاط أبولو 11 على سطح القمر، يوليو 1969. تصوير نيل أرمسترونغ، ناسا، AS11-40-5875.",
+        "alt": "باز ألدرين يقف بجوار العلم الأمريكي المثبت بدعامة على السطح القمري."
+      }
+    }
+  },
+  "experiments": {
+    "src": "/articles/moon/experiments.webp",
+    "width": 1222,
+    "height": 1600,
+    "credit": "NASA / KSC-as11-40-5927",
+    "creditUrl": "https://images.nasa.gov/details/KSC-as11-40-5927",
+    "source": "https://images.nasa.gov/details/KSC-as11-40-5927",
+    "license": "NASA editorial reuse",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Aldrin removes scientific experiment packages from Eagle during Apollo 11, July 1969. NASA, AS11-40-5927. This shows equipment deployment, not a close-up of a reflector in operation.",
+        "alt": "Aldrin handles experiment packages beside the lunar module’s descent stage."
+      },
+      "fr": {
+        "caption": "Aldrin retire les équipements scientifiques d’Eagle pendant Apollo 11, juillet 1969. NASA, AS11-40-5927. Installation de matériel, non gros plan d’un réflecteur en fonctionnement.",
+        "alt": "Aldrin manipule les expériences près de l’étage de descente du module."
+      },
+      "es": {
+        "caption": "Aldrin extrae equipos científicos de Eagle durante Apolo 11, julio de 1969. NASA, AS11-40-5927. Muestra el despliegue, no un reflector funcionando en primer plano.",
+        "alt": "Aldrin manipula experimentos junto a la etapa de descenso del módulo."
+      },
+      "ar": {
+        "caption": "ألدرين يخرج حزم التجارب العلمية من إيغل خلال أبولو 11، يوليو 1969. ناسا، AS11-40-5927. الصورة لتجهيز المعدات وليست لقطة مقربة لعاكس يعمل.",
+        "alt": "ألدرين يتعامل مع التجارب بجوار مرحلة الهبوط في المركبة القمرية."
+      }
+    }
+  },
+  "geology": {
+    "src": "/articles/moon/geology.webp",
+    "width": 1400,
+    "height": 1383,
+    "credit": "NASA / Eugene Cernan / as17-140-21497",
+    "creditUrl": "https://images.nasa.gov/details/as17-140-21497",
+    "source": "https://images.nasa.gov/details/as17-140-21497",
+    "license": "NASA editorial reuse",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Geologist Harrison Schmitt beside a split boulder at Taurus-Littrow during Apollo 17, December 13, 1972. Photograph by Eugene Cernan, NASA, AS17-140-21497.",
+        "alt": "Harrison Schmitt stands beside a large split lunar boulder."
+      },
+      "fr": {
+        "caption": "Le géologue Harrison Schmitt près d’un bloc fracturé à Taurus-Littrow, Apollo 17, 13 décembre 1972. Eugene Cernan, NASA, AS17-140-21497.",
+        "alt": "Harrison Schmitt près d’un grand bloc rocheux lunaire fracturé."
+      },
+      "es": {
+        "caption": "El geólogo Harrison Schmitt junto a una roca fracturada en Taurus-Littrow, Apolo 17, 13 de diciembre de 1972. Eugene Cernan, NASA, AS17-140-21497.",
+        "alt": "Harrison Schmitt junto a una gran roca lunar fracturada."
+      },
+      "ar": {
+        "caption": "الجيولوجي هاريسون شميت بجوار صخرة متشققة في توروس ليترو، أبولو 17، 13 ديسمبر 1972. تصوير يوجين سيرنان، ناسا، AS17-140-21497.",
+        "alt": "هاريسون شميت يقف بجوار صخرة قمرية كبيرة متشققة."
+      }
+    }
+  }
+}
