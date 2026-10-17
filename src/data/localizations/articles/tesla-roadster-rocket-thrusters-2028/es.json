@@ -1,0 +1,190 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/tesla-roadster-rocket-thrusters-2028/",
+  "path": "/es/articles/tesla-roadster-rocket-thrusters-2028/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-17",
+    "terminologyChecked": true
+  },
+  "title": "TESLA PRESENTA UN ROADSTER CON PROPULSORES Y PREVÉ PRODUCIRLO EN 2028",
+  "seoTitle": "Tesla presenta el Roadster con propulsores para 2028",
+  "description": "El Roadster en Texas: maniobras del prototipo, aire comprimido, aceleración anunciada, depósitos y obstáculos antes de la producción prevista para 2028.",
+  "excerpt": "El Roadster en Texas: maniobras del prototipo, aire comprimido, aceleración anunciada, depósitos y obstáculos antes de la producción prevista para 2028.",
+  "headlineHighlights": {
+    "red": "TESLA",
+    "gold": "2028"
+  },
+  "keywords": [
+    "TESLA",
+    "2028"
+  ],
+  "searchIntent": "El Roadster en Texas: maniobras del prototipo, aire comprimido, aceleración anunciada, depósitos y obstáculos antes de la producción prevista para 2028.",
+  "category": "Business",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-17",
+  "updatedAt": "2026-10-17",
+  "image": {
+    "src": "/articles/roadster-hero.png",
+    "alt": "Ilustración editorial asistida por IA de un coche futurista sobre una plataforma de demostración nocturna."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "En un centro de pruebas de cohetes de Texas, Tesla convirtió su deportivo largamente aplazado en un espectáculo de conducción invertida y maniobras aéreas. La empresa presentó el Roadster rediseñado el 15 de octubre de 2026 en las instalaciones de SpaceX en McGregor y fijó 2028 como objetivo de producción. Reuters confirmó la presentación, con un recorrido bajo una rampa curva mediante succión y un salto sobre vehículos asistido por propulsores. Eran demostraciones de un prototipo, no pruebas de que ya pueda comprarse un coche volador autorizado. [Reuters: presentación del Roadster](https://live.euronext.com/en/financial-news/teslas-new-roadster-turns-air-spacex-thrusters-wont-land-until-2028)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La distinción fundamental separa lo que muestra una demostración, lo que promete un fabricante y lo que un vehículo terminado puede repetir. Tesla ha ofrecido un espectáculo extraordinario y afirmaciones ambiciosas. Las especificaciones de producción, los precios de compra y los límites prácticos de sus funciones más llamativas siguen pendientes."
+    },
+    {
+      "type": "heading",
+      "text": "Qué demostró la presentación de Texas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El vídeo oficial muestra un deportivo blanco y anguloso recorriendo una rampa invertida, separándose de su superficie y girando en el aire. Una secuencia posterior presenta otra maniobra aérea. La presentación atribuye las capacidades a la colaboración entre ingenieros de Tesla y SpaceX: la succión proporciona adherencia y los propulsores de aire comprimido aportan fuerza. Las imágenes son una fuente directa de la demostración organizada por la empresa, no una certificación independiente del sistema. [Tesla: vídeo oficial](https://www.youtube.com/watch?v=qt5p-_tE8d0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "AP informó de que la demostración utilizó funcionamiento autónomo en lugar de un especialista humano, mientras que el vehículo previsto tendría conducción manual. La diferencia importa: una maniobra controlada sin ocupantes no acredita las tolerancias, protecciones ni autorizaciones necesarias para un cliente corriente. AP también destacó los obstáculos regulatorios. [AP: demostración y regulación](https://apnews.com/article/7d5f19665435b7408025bfb7a2f2f0b7)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Describir estas maniobras como vuelo sostenido excedería las pruebas disponibles. Un salto, una rotación controlada y un aterrizaje no demuestran alcance aéreo útil, autonomía ni navegación habitual en el aire. La distinción va más allá del vocabulario. Cada segundo adicional requiere contrarrestar la gravedad, mantener el control y responder de forma segura a los fallos."
+    },
+    {
+      "type": "heading",
+      "text": "Propulsión de tipo cohete sin combustión"
+    },
+    {
+      "type": "paragraph",
+      "text": "La propulsión de gas frío libera gas almacenado a presión a través de una tobera. El gas que sale transporta cantidad de movimiento en una dirección y genera fuerza en la contraria. La NASA describe estos sistemas como tecnología espacial consolidada, apreciada por su sencillez pero limitada por sus prestaciones y reservas de gas. Aquí, «propulsado por cohetes» no debe confundirse con un motor que quema los propelentes de un lanzador espacial. [NASA: propulsión espacial](https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En un automóvil, el empuje puede añadir temporalmente una fuerza que no depende del agarre de las ruedas motrices. Las toberas orientadas en distintas direcciones también pueden producir momentos de giro. Eso explica su atractivo técnico y su contrapartida: un depósito contiene una cantidad finita de gas, y recargarlo requiere equipos, energía y tiempo. La pregunta para el comprador no es únicamente cuánta fuerza produce una vez, sino con qué frecuencia y en qué condiciones puede repetirla."
+    },
+    {
+      "type": "paragraph",
+      "text": "La succión aborda otro problema. Reducir la presión bajo un vehículo permite que la presión exterior, más alta, lo empuje hacia la superficie. El principio difiere del de un alerón cuya carga aerodinámica depende del aire que pasa al desplazarse. Este principio físico ayuda a entender el mecanismo, pero no valida su aplicación por Tesla. Una rampa invertida exige suficiente adherencia durante toda la maniobra; una carretera también presenta superficies cambiantes, huecos, residuos y transiciones."
+    },
+    {
+      "type": "heading",
+      "text": "Menos de un segundo: una afirmación que exige un protocolo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tesla afirma que el Roadster rediseñado puede alcanzar 60 mph en menos de un segundo y superar 230 mph. Su presentación también describe dos plazas, dirección electrónica y elementos aerodinámicos. Son afirmaciones del fabricante y descripciones del prototipo, no especificaciones de producción verificadas de forma independiente. [Tesla: vídeo oficial](https://www.youtube.com/watch?v=qt5p-_tE8d0)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparar aceleraciones exige más que un cronómetro en pantalla. ¿Se mide desde el reposo real? ¿Se excluye una distancia inicial mediante la convención del rollout? ¿Qué superficie, neumáticos, nivel de carga y ajustes de propulsión se emplearon? ¿Podría repetir el resultado un vehículo entregado a un cliente? Sin un protocolo comparable y resultados reproducibles, lo responsable es hablar de un tiempo anunciado inferior a un segundo, no de un récord mundial establecido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesenta millas por hora equivalen aproximadamente a 96,6 km/h, no exactamente a 100 km/h. Mezclar ambos umbrales distorsiona la comparación incluso antes de considerar el rollout y el pavimento. La aceleración máxima, la velocidad punta y el rendimiento en circuito también miden capacidades diferentes: ganar en una no resuelve automáticamente las demás."
+    },
+    {
+      "type": "heading",
+      "text": "Las reservas no son precios de compra"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters informó de depósitos de reserva de 50.000 dólares para Performance y 250.000 dólares para Thrust, además de una configuración Rocket disponible por invitación. Tesla no anunció precios finales de compra durante el evento. La cifra de 200.000 dólares que se repite con frecuencia corresponde a una propuesta anterior y no debe presentarse como precio confirmado del modelo rediseñado. [Reuters: presentación del Roadster](https://live.euronext.com/en/financial-news/teslas-new-roadster-turns-air-spacex-thrusters-wont-land-until-2028)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La página actual de Tesla incluye condiciones según la configuración: algunas funciones anunciadas dependen de una mejora opcional Thrust y la disponibilidad de Rocket varía por región. Conviene diferenciar un depósito, una capacidad específica de una versión y una venta completada. Una presentación impresionante no aclara el seguro, el mantenimiento, los repuestos, la garantía ni el coste total de propiedad. [Tesla: página del Roadster](https://www.tesla.com/roadster)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué 2028 sigue siendo un objetivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Roadster de nueva generación se mostró por primera vez en 2017. Iniciar la producción en 2028 supondría hacerlo más de una década después, tras repetidos retrasos. Un objetivo expresa intención; no demuestra que la fabricación y las entregas estén aseguradas. [Reuters: presentación del Roadster](https://live.euronext.com/en/financial-news/teslas-new-roadster-turns-air-spacex-thrusters-wont-land-until-2028)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para analizar el negocio, los siguientes hitos son menos teatrales: un diseño de producción estable, compromisos de proveedores, validación documentada, capacidad industrial y condiciones de entrega. Un prototipo puede priorizar un momento excepcional. Un automóvil comercial debe reproducir el comportamiento prometido durante años de uso y mantenimiento. En esa distancia se encuentra ahora la historia empresarial del Roadster."
+    },
+    {
+      "type": "heading",
+      "text": "La legalidad vial plantea un desafío distinto"
+    },
+    {
+      "type": "paragraph",
+      "text": "En Estados Unidos, los fabricantes certifican por sí mismos el cumplimiento de las normas federales de seguridad automovilística aplicables. La NHTSA explica que el sistema no equivale a una aprobación gubernamental previa y general de cada modelo. Las obligaciones y la supervisión siguen siendo reales. Cumplir las normas tampoco autorizaría por sí solo una maniobra aérea en una vía pública: también importarían las reglas de circulación y la jurisdicción correspondiente. [NHTSA: certificación](https://www.nhtsa.gov/interpretations/22492)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las preguntas técnicas incluyen la protección de los depósitos presurizados en una colisión, la descarga segura del gas, las cargas del aterrizaje, los fallos y el comportamiento cuando se interrumpe la succión. Son cuestiones que requieren validación, no afirmaciones de que el diseño haya fracasado. Las demostraciones públicas aportan información insuficiente para juzgar su resolución. Las pruebas deberían incluir un funcionamiento degradado predecible y protección tanto para los ocupantes como para quienes estén fuera del vehículo."
+    },
+    {
+      "type": "heading",
+      "text": "Rimac, Porsche y BYD establecen referencias diferentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Roadster entra en un sector eléctrico de altas prestaciones con rivales consolidados. El Nevera R de Rimac destaca la aceleración y el comportamiento dinámico, mientras el Taycan Turbo GT de Porsche combina potencia y preparación para circuito. Porsche anuncia 2,2 segundos de 0 a 100 km/h para la versión con paquete Weissach, un indicador distinto del 0 a 60 mph de Tesla. Las cifras de cada fabricante tienen condiciones propias: eliminarlas impide compararlas con rigor. [Rimac: Nevera R](https://www.rimac-automobili.com/NeveraR/) [Porsche: Taycan Turbo GT](https://newsroom.porsche.com/en_AU/2024/products/porsche-taycan-turbo-gt-product-highlights-37958.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "BYD informó de que su Yangwang U9 Xtreme alcanzó 496,22 km/h en la pista ATP Papenburg de Alemania el 14 de septiembre de 2025. Es un logro de velocidad punta comunicado por el fabricante, no la misma prueba que una aceleración o una maniobra aérea. El análisis de PRESDA sobre [la competencia entre BYD y Tesla en ventas eléctricas](/articles/byd-overtakes-tesla-annual-bev-sales/) explora el mercado mucho mayor que existe más allá de estos vehículos escaparate. [BYD: prueba de velocidad U9 Xtreme](https://www.byd.com/mea/news-list/yangwang-u9-xtreme-is-the-worlds-fastest-production-car-with-top-speed-of-496kmh)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Puede cambiar los coches cotidianos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas ideas podrían transferirse mejor que otras. Controlar las fuerzas aerodinámicas, mejorar la percepción del vehículo e integrar más estrechamente los sistemas mecánicos y el software puede aportar valor fuera de un deportivo exclusivo. Determinar si los propulsores de aire comprimido ofrecen suficientes ventajas diarias para justificar su peso, complejidad y restricciones es otra cuestión. Un uso espectacular no la responde por sí solo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La presentación ha dado al Roadster una nueva identidad y un nuevo plazo. No ha eliminado la distancia entre experimento y producto. El logro decisivo llegará cuando la tecnología se mida de forma independiente, se documenten sus límites y los clientes reciban un vehículo seguro y consistente. Hasta entonces, la imagen más reveladora no es solo un coche sobre el suelo, sino el recorrido técnico y comercial que todavía queda por completar."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Reuters: presentación del Roadster",
+      "url": "https://live.euronext.com/en/financial-news/teslas-new-roadster-turns-air-spacex-thrusters-wont-land-until-2028"
+    },
+    {
+      "label": "Tesla: vídeo oficial",
+      "url": "https://www.youtube.com/watch?v=qt5p-_tE8d0"
+    },
+    {
+      "label": "AP: demostración y regulación",
+      "url": "https://apnews.com/article/7d5f19665435b7408025bfb7a2f2f0b7"
+    },
+    {
+      "label": "NASA: propulsión espacial",
+      "url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion/"
+    },
+    {
+      "label": "Tesla: página del Roadster",
+      "url": "https://www.tesla.com/roadster"
+    },
+    {
+      "label": "NHTSA: certificación",
+      "url": "https://www.nhtsa.gov/interpretations/22492"
+    },
+    {
+      "label": "Rimac: Nevera R",
+      "url": "https://www.rimac-automobili.com/NeveraR/"
+    },
+    {
+      "label": "Porsche: Taycan Turbo GT",
+      "url": "https://newsroom.porsche.com/en_AU/2024/products/porsche-taycan-turbo-gt-product-highlights-37958.html"
+    },
+    {
+      "label": "BYD: prueba de velocidad U9 Xtreme",
+      "url": "https://www.byd.com/mea/news-list/yangwang-u9-xtreme-is-the-worlds-fastest-production-car-with-top-speed-of-496kmh"
+    }
+  ],
+  "faq": []
+}
