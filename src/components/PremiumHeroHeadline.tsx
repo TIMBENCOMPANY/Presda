@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "dostoevsky-life-death-human-darkness": {"en":{"red":"DOSTOEVSKY","gold":"HUMAN DARKNESS"},"fr":{"red":"DOSTOÏEVSKI","gold":"TÉNÈBRES HUMAINES"},"es":{"red":"DOSTOYEVSKI","gold":"OSCURIDAD HUMANA"},"ar":{"red":"دوستويفسكي","gold":"ظلام الإنسان"}},
   "princess-diana-life-tragedy-legacy": {"en":{"red":"PRINCESS DIANA","gold":"PEOPLE'S PRINCESS"},"fr":{"red":"PRINCESSE DIANA","gold":"PRINCESSE DU PEUPLE"},"es":{"red":"PRINCESA DIANA","gold":"PRINCESA DEL PUEBLO"},"ar":{"red":"الأميرة ديانا","gold":"أميرة الشعب"}},
   "modern-warfare-4-campaign-early-access": {"en":{"red":"CALL OF DUTY","gold":"EARLY ACCESS"},"fr":{"red":"CALL OF DUTY","gold":"ACCÈS ANTICIPÉ"},"es":{"red":"CALL OF DUTY","gold":"ACCESO ANTICIPADO"},"ar":{"red":"كول أوف ديوتي","gold":"الوصول المبكر"}},
   "tesla-roadster-rocket-thrusters-2028": {"en":{"red":"TESLA","gold":"2028 PRODUCTION"},"fr":{"red":"TESLA","gold":"PRODUCTION EN 2028"},"es":{"red":"TESLA","gold":"2028"},"ar":{"red":"تسلا","gold":"الإنتاج في 2028"}},

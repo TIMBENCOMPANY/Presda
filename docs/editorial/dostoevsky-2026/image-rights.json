@@ -1,0 +1,99 @@
+{
+  "checkedAt": "2026-10-17",
+  "hero": {
+    "source": "User supplied Dostoevsky in a Candlelit Study.png",
+    "classification": "Editorial portrait illustration, not archival evidence"
+  },
+  "images": {
+    "portrait": {
+      "credit": "Constantin Shapiro, 1879 / Wikimedia Commons",
+      "copy": {
+        "en": {
+          "alt": "Archival studio photograph of Dostoevsky in a dark jacket, with a long beard.",
+          "caption": "Dostoevsky photographed by Constantin Shapiro in 1879. Authentic studio photograph, not the reconstructed scene used in the hero."
+        },
+        "fr": {
+          "alt": "Photographie d’archive de Dostoïevski en veste sombre, portant une longue barbe.",
+          "caption": "Dostoïevski photographié par Constantin Shapiro en 1879. Photographie de studio authentique, distincte de la scène reconstituée en ouverture."
+        },
+        "es": {
+          "alt": "Fotografía de archivo de Dostoyevski con chaqueta oscura y barba larga.",
+          "caption": "Dostoyevski fotografiado por Constantin Shapiro en 1879. Fotografía de estudio auténtica, distinta de la escena reconstruida de apertura."
+        },
+        "ar": {
+          "alt": "صورة فوتوغرافية أرشيفية لدوستويفسكي بسترة داكنة ولحية طويلة.",
+          "caption": "دوستويفسكي في صورة التقطها قسطنطين شابيرو عام 1879. صورة استوديو حقيقية، وليست المشهد الفني المعاد تصوره في الافتتاحية."
+        }
+      },
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Fyodor_Dostoyevsky_%28Shapiro%2C_1879%29_-_4.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fyodor_Dostoyevsky_%28Shapiro%2C_1879%29_-_4.jpg#Licensing",
+      "source": "https://commons.wikimedia.org/wiki/File:Fyodor_Dostoyevsky_%28Shapiro%2C_1879%29_-_4.jpg",
+      "src": "/articles/dostoevsky/portrait.webp",
+      "width": 800,
+      "height": 1118,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fyodor_Dostoyevsky_%28Shapiro%2C_1879%29_-_4.jpg",
+      "modification": "Resized and converted to WebP. Full supplied composition preserved. Public-domain archival work; source record retained."
+    },
+    "painting": {
+      "credit": "Vasily Perov, 1872 / State Tretyakov Gallery / Wikimedia Commons",
+      "copy": {
+        "en": {
+          "alt": "Vasily Perov’s painted portrait of Dostoevsky seated with his hands clasped.",
+          "caption": "Vasily Perov’s Portrait of Fyodor Dostoevsky, 1872, State Tretyakov Gallery. Reproduction of an authentic historical painting, not a photograph or a newly generated portrait."
+        },
+        "fr": {
+          "alt": "Portrait peint par Vassili Perov représentant Dostoïevski assis, les mains jointes.",
+          "caption": "Portrait de Fiodor Dostoïevski par Vassili Perov, 1872, galerie nationale Tretiakov. Reproduction d’une peinture historique authentique, et non photographie ou portrait nouvellement généré."
+        },
+        "es": {
+          "alt": "Retrato de Dostoyevski pintado por Vasili Perov, sentado con las manos juntas.",
+          "caption": "Retrato de Fiódor Dostoyevski de Vasili Perov, 1872, Galería Estatal Tretiakov. Reproducción de una pintura histórica auténtica, no una fotografía ni un retrato generado recientemente."
+        },
+        "ar": {
+          "alt": "لوحة فاسيلي بيروف لدوستويفسكي جالساً ويداه متشابكتان.",
+          "caption": "بورتريه فيودور دوستويفسكي لفاسيلي بيروف، 1872، معرض تريتياكوف الحكومي. نسخة من لوحة تاريخية حقيقية، وليست صورة فوتوغرافية أو بورتريهاً مولداً حديثاً."
+        }
+      },
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Dostoevsky_1872.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dostoevsky_1872.jpg#Licensing",
+      "source": "https://commons.wikimedia.org/wiki/File:Dostoevsky_1872.jpg",
+      "src": "/articles/dostoevsky/painting.webp",
+      "width": 1400,
+      "height": 1746,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Dostoevsky_1872.jpg",
+      "modification": "Resized and converted to WebP. Full supplied composition preserved. Public-domain archival work; source record retained."
+    },
+    "manuscript": {
+      "credit": "Fyodor Dostoevsky, 1870–1871 / Wikimedia Commons",
+      "copy": {
+        "en": {
+          "alt": "Manuscript page with handwritten notes, a drawn face and architectural sketches.",
+          "caption": "A manuscript page associated with Demons, 1870–1871, with handwriting and drawings by Dostoevsky. The archive’s modern upload date is not the date of the manuscript."
+        },
+        "fr": {
+          "alt": "Page manuscrite avec notes, visage dessiné et croquis architecturaux.",
+          "caption": "Page manuscrite liée aux Démons, 1870–1871, avec écriture et dessins de Dostoïevski. La date moderne de mise en ligne ne correspond pas à celle du manuscrit."
+        },
+        "es": {
+          "alt": "Página manuscrita con anotaciones, un rostro dibujado y bocetos arquitectónicos.",
+          "caption": "Página manuscrita vinculada a Los demonios, 1870–1871, con escritura y dibujos de Dostoyevski. La fecha moderna de subida al archivo no es la del manuscrito."
+        },
+        "ar": {
+          "alt": "صفحة مخطوطة تضم ملاحظات بخط اليد ووجهاً مرسوماً ورسومات معمارية.",
+          "caption": "صفحة مخطوطة مرتبطة برواية الشياطين، 1870–1871، تضم كتابة ورسومات لدوستويفسكي. تاريخ الرفع الحديث إلى الأرشيف ليس تاريخ إنشاء المخطوط."
+        }
+      },
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Dostoyevsky_The_Demons_Manuscript.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dostoyevsky_The_Demons_Manuscript.jpg#Licensing",
+      "source": "https://commons.wikimedia.org/wiki/File:Dostoyevsky_The_Demons_Manuscript.jpg",
+      "src": "/articles/dostoevsky/manuscript.webp",
+      "width": 578,
+      "height": 704,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dostoyevsky_The_Demons_Manuscript.jpg",
+      "modification": "Resized and converted to WebP. Full supplied composition preserved. Public-domain archival work; source record retained."
+    }
+  }
+}

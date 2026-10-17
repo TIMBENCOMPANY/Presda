@@ -1002,5 +1002,56 @@
       "src": "/articles/diana/funeral-624.webp",
       "bytes": 71700
     }
+  ],
+  "/articles/dostoevsky/portrait.webp": [
+    {
+      "width": 384,
+      "src": "/articles/dostoevsky/portrait-384.webp",
+      "bytes": 30394
+    },
+    {
+      "width": 768,
+      "src": "/articles/dostoevsky/portrait-768.webp",
+      "bytes": 99464
+    },
+    {
+      "width": 800,
+      "src": "/articles/dostoevsky/portrait-800.webp",
+      "bytes": 100348
+    }
+  ],
+  "/articles/dostoevsky/painting.webp": [
+    {
+      "width": 384,
+      "src": "/articles/dostoevsky/painting-384.webp",
+      "bytes": 18634
+    },
+    {
+      "width": 768,
+      "src": "/articles/dostoevsky/painting-768.webp",
+      "bytes": 118006
+    },
+    {
+      "width": 1100,
+      "src": "/articles/dostoevsky/painting-1100.webp",
+      "bytes": 258394
+    },
+    {
+      "width": 1400,
+      "src": "/articles/dostoevsky/painting-1400.webp",
+      "bytes": 397172
+    }
+  ],
+  "/articles/dostoevsky/manuscript.webp": [
+    {
+      "width": 384,
+      "src": "/articles/dostoevsky/manuscript-384.webp",
+      "bytes": 60328
+    },
+    {
+      "width": 578,
+      "src": "/articles/dostoevsky/manuscript-578.webp",
+      "bytes": 93904
+    }
   ]
 }

@@ -1156,6 +1156,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/dostoevsky-life-death-human-darkness/",
+    "path": "/ar/articles/dostoevsky-life-death-human-darkness/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/dostoevsky-life-death-human-darkness/",
+    "path": "/es/articles/dostoevsky-life-death-human-darkness/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/dostoevsky-life-death-human-darkness/",
+    "path": "/fr/articles/dostoevsky-life-death-human-darkness/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/down-syndrome-trisomy-21-genetics-health-life/",
     "path": "/ar/articles/down-syndrome-trisomy-21-genetics-health-life/"
   },
