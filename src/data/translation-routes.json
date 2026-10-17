@@ -1501,6 +1501,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/giordano-bruno-philosopher-heresy/",
+    "path": "/ar/articles/giordano-bruno-philosopher-heresy/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/giordano-bruno-philosopher-heresy/",
+    "path": "/es/articles/giordano-bruno-philosopher-heresy/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/giordano-bruno-philosopher-heresy/",
+    "path": "/fr/articles/giordano-bruno-philosopher-heresy/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/good-vs-evil-human-nature-morality/",
     "path": "/ar/articles/good-vs-evil-human-nature-morality/"
   },

@@ -1,0 +1,69 @@
+{
+  "checkedAt": "2026-10-17",
+  "hero": {
+    "source": "User supplied GIORDANO BRUNO The Astronomer Reveals the Cosmos.png",
+    "classification": "AI symbolic illustration, not an authenticated likeness or event record"
+  },
+  "images": {
+    "supper": {
+      "credit": "Giordano Bruno, Opere, edited by A. Wagner (1830) / Wellcome Library, London / Wikimedia Commons",
+      "creditUrl": "https://wellcomecollection.org/works/es9gvvym",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "copy": {
+        "en": {
+          "caption": "Opening of The Ash Wednesday Supper in Opere, edited by A. Wagner, 1830. Wellcome Library, London, L0015153. This is a later edition of the dialogue first published in 1584, not its original printing.",
+          "alt": "An 1830 printed page listing the speakers and opening dialogue of The Ash Wednesday Supper."
+        },
+        "fr": {
+          "caption": "Début du Souper des Cendres dans Opere, édition A. Wagner, 1830. Wellcome Library, Londres, L0015153. Édition postérieure du dialogue paru en 1584, non son impression originale.",
+          "alt": "Page imprimée de 1830 présentant les interlocuteurs et le début du Souper des Cendres."
+        },
+        "es": {
+          "caption": "Inicio de La cena de las cenizas en Opere, edición de A. Wagner, 1830. Wellcome Library, Londres, L0015153. Edición posterior del diálogo publicado en 1584, no su impresión original.",
+          "alt": "Página impresa de 1830 con los interlocutores y el comienzo de La cena de las cenizas."
+        },
+        "ar": {
+          "caption": "افتتاح عشاء أربعاء الرماد في الأعمال، بتحرير أ. فاغنر، 1830. مكتبة ويلكوم، لندن، L0015153. طبعة لاحقة للحوار المنشور أول مرة في 1584، وليست الطباعة الأصلية.",
+          "alt": "صفحة مطبوعة سنة 1830 تعرض أسماء المتحاورين وبداية عشاء أربعاء الرماد."
+        }
+      },
+      "source": "https://commons.wikimedia.org/wiki/File:Giordano_Brun%2C_beginning_of_%27La_cena_delle_ceneri%27_in_%22Opere%22_Wellcome_L0015153.jpg",
+      "src": "/articles/bruno/supper.webp",
+      "width": 1070,
+      "height": 1782,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Giordano_Brun%2C_beginning_of_%27La_cena_delle_ceneri%27_in_%22Opere%22_Wellcome_L0015153.jpg",
+      "modification": "Resized and converted to WebP without cropping. Credits and license links displayed in all four editions."
+    },
+    "execution": {
+      "credit": "Engraving in Camille Flammarion, Les Terres du ciel (1884) / Smithsonian Libraries source via Wikimedia Commons",
+      "creditUrl": "https://library.si.edu/digital-library/book/terresduciel00flam",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Giordano_Bruno_burned_at_the_stake.jpg#Licensing",
+      "copy": {
+        "en": {
+          "caption": "Bruno’s execution as imagined in an engraving published in Camille Flammarion’s Les Terres du ciel, 1884. A nineteenth-century interpretation, not an eyewitness image of 1600. Its original caption foregrounds the plurality of worlds; the trial involved multiple beliefs.",
+          "alt": "Nineteenth-century engraving representing Bruno bound at a stake, with a cleric and onlookers."
+        },
+        "fr": {
+          "caption": "L’exécution de Bruno imaginée dans une gravure des Terres du ciel de Camille Flammarion, 1884. Interprétation du XIXe siècle, non un témoignage de 1600. La légende originale privilégie la pluralité des mondes ; le procès portait sur plusieurs convictions.",
+          "alt": "Gravure du XIXe siècle représentant Bruno attaché au bûcher, avec un religieux et des spectateurs."
+        },
+        "es": {
+          "caption": "La ejecución de Bruno imaginada en un grabado de Les Terres du ciel de Camille Flammarion, 1884. Interpretación del siglo XIX, no testimonio de 1600. La leyenda original destaca la pluralidad de mundos; el proceso abarcó varias creencias.",
+          "alt": "Grabado del siglo XIX que representa a Bruno atado a una estaca, junto a un clérigo y espectadores."
+        },
+        "ar": {
+          "caption": "إعدام برونو كما تخيله نقش نُشر في عوالم السماء لكاميل فلاماريون، 1884. تفسير من القرن التاسع عشر، لا شهادة بصرية من 1600. تبرز عبارته الأصلية تعدد العوالم؛ لكن المحاكمة شملت معتقدات متعددة.",
+          "alt": "نقش من القرن التاسع عشر يصور برونو مقيداً إلى عمود بحضور رجل دين ومتفرجين."
+        }
+      },
+      "source": "https://commons.wikimedia.org/wiki/File:Giordano_Bruno_burned_at_the_stake.jpg",
+      "src": "/articles/bruno/execution.webp",
+      "width": 1400,
+      "height": 2139,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Giordano_Bruno_burned_at_the_stake.jpg",
+      "modification": "Resized and converted to WebP without cropping. Credits and license links displayed in all four editions."
+    }
+  }
+}

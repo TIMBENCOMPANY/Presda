@@ -1,3 +1,5 @@
+import { BrunoHistoricalImage, brunoImageAtBlock } from "@/components/BrunoHistoricalImage";
+import brunoHeroCaptions from "@/data/brunoHeroCaptions.json";
 import { VangoghHistoricalImage, vangoghImageAtBlock } from "@/components/VangoghHistoricalImage";
 import vangoghHeroCaptions from "@/data/vangoghHeroCaptions.json";
 import { DostoevskyHistoricalImage, dostoevskyImageAtBlock } from "@/components/DostoevskyHistoricalImage";
@@ -276,7 +278,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
-    objectFit: ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy"].includes(article.slug) ? "contain" : undefined,
+    objectFit: ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy", "giordano-bruno-philosopher-heresy"].includes(article.slug) ? "contain" : undefined,
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
   } as CSSProperties;
@@ -374,6 +376,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "modern-warfare-4-campaign-early-access" && <p data-mw4-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mw4HeroCaptions[locale]}</p>}
         {article.slug === "princess-diana-life-tragedy-legacy" && <p data-diana-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dianaHeroCaptions[locale]}</p>}
         {article.slug === "dostoevsky-life-death-human-darkness" && <p data-dostoevsky-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dostoevskyHeroCaptions[locale]}</p>}
+        {article.slug === "giordano-bruno-philosopher-heresy" && <p data-bruno-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{brunoHeroCaptions[locale]}</p>}
         {article.slug === "vincent-van-gogh-life-art-legacy" && <p data-vangogh-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{vangoghHeroCaptions[locale]}</p>}
         {article.slug === "dolly-cloned-sheep-changed-science" && <p data-dolly-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dollyHeroCaptions[locale]}</p>}
         {article.slug === "winter-dolphin-prosthetic-tail" && <p data-winter-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{winterHeroCaptions[locale]}</p>}
@@ -581,6 +584,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "chocolate-ancient-cacao-global-obsession" && chocolateImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ChocolateHistoricalImage id={chocolateImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "princess-diana-life-tragedy-legacy" && dianaImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DianaHistoricalImage id={dianaImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "dostoevsky-life-death-human-darkness" && dostoevskyImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DostoevskyHistoricalImage id={dostoevskyImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "giordano-bruno-philosopher-heresy" && brunoImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BrunoHistoricalImage id={brunoImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "vincent-van-gogh-life-art-legacy" && vangoghImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><VangoghHistoricalImage id={vangoghImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "dolly-cloned-sheep-changed-science" && dollyImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DollyHistoricalImage id={dollyImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "winter-dolphin-prosthetic-tail" && winterImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WinterHistoricalImage id={winterImageAtBlock[originalIndex]} locale={locale} /></div>;

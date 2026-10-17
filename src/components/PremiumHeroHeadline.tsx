@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "giordano-bruno-philosopher-heresy": {"en":{"red":"GIORDANO BRUNO","gold":"FOR HERESY"},"fr":{"red":"GIORDANO BRUNO","gold":"POUR HÉRÉSIE"},"es":{"red":"GIORDANO BRUNO","gold":"POR HEREJÍA"},"ar":{"red":"جوردانو برونو","gold":"بتهمة الهرطقة"}},
   "vincent-van-gogh-life-art-legacy": {"en":{"red":"VINCENT VAN GOGH","gold":"PAINTED HIS PAIN"},"fr":{"red":"VINCENT VAN GOGH","gold":"PEIGNAIT SA DOULEUR"},"es":{"red":"VINCENT VAN GOGH","gold":"PINTÓ SU DOLOR"},"ar":{"red":"فنسنت فان غوخ","gold":"رسم ألمه"}},
   "dostoevsky-life-death-human-darkness": {"en":{"red":"DOSTOEVSKY","gold":"HUMAN DARKNESS"},"fr":{"red":"DOSTOÏEVSKI","gold":"TÉNÈBRES HUMAINES"},"es":{"red":"DOSTOYEVSKI","gold":"OSCURIDAD HUMANA"},"ar":{"red":"دوستويفسكي","gold":"ظلام الإنسان"}},
   "princess-diana-life-tragedy-legacy": {"en":{"red":"PRINCESS DIANA","gold":"PEOPLE'S PRINCESS"},"fr":{"red":"PRINCESSE DIANA","gold":"PRINCESSE DU PEUPLE"},"es":{"red":"PRINCESA DIANA","gold":"PRINCESA DEL PUEBLO"},"ar":{"red":"الأميرة ديانا","gold":"أميرة الشعب"}},

@@ -1185,5 +1185,44 @@
       "src": "/articles/vangogh/crows-1280.webp",
       "bytes": 356088
     }
+  ],
+  "/articles/bruno/supper.webp": [
+    {
+      "width": 384,
+      "src": "/articles/bruno/supper-384.webp",
+      "bytes": 69190
+    },
+    {
+      "width": 768,
+      "src": "/articles/bruno/supper-768.webp",
+      "bytes": 273766
+    },
+    {
+      "width": 1070,
+      "src": "/articles/bruno/supper-1070.webp",
+      "bytes": 509980
+    }
+  ],
+  "/articles/bruno/execution.webp": [
+    {
+      "width": 384,
+      "src": "/articles/bruno/execution-384.webp",
+      "bytes": 72846
+    },
+    {
+      "width": 768,
+      "src": "/articles/bruno/execution-768.webp",
+      "bytes": 349110
+    },
+    {
+      "width": 1100,
+      "src": "/articles/bruno/execution-1100.webp",
+      "bytes": 710204
+    },
+    {
+      "width": 1400,
+      "src": "/articles/bruno/execution-1400.webp",
+      "bytes": 1041624
+    }
   ]
 }
