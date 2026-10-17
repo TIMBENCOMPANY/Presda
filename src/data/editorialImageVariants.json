@@ -1053,5 +1053,137 @@
       "src": "/articles/dostoevsky/manuscript-578.webp",
       "bytes": 93904
     }
+  ],
+  "/articles/vangogh/starry.webp": [
+    {
+      "width": 384,
+      "src": "/articles/vangogh/starry-384.webp",
+      "bytes": 46668
+    },
+    {
+      "width": 768,
+      "src": "/articles/vangogh/starry-768.webp",
+      "bytes": 192782
+    },
+    {
+      "width": 1100,
+      "src": "/articles/vangogh/starry-1100.webp",
+      "bytes": 406504
+    },
+    {
+      "width": 1280,
+      "src": "/articles/vangogh/starry-1280.webp",
+      "bytes": 565736
+    }
+  ],
+  "/articles/vangogh/sunflowers.webp": [
+    {
+      "width": 384,
+      "src": "/articles/vangogh/sunflowers-384.webp",
+      "bytes": 39358
+    },
+    {
+      "width": 768,
+      "src": "/articles/vangogh/sunflowers-768.webp",
+      "bytes": 171022
+    },
+    {
+      "width": 1100,
+      "src": "/articles/vangogh/sunflowers-1100.webp",
+      "bytes": 388122
+    },
+    {
+      "width": 1400,
+      "src": "/articles/vangogh/sunflowers-1400.webp",
+      "bytes": 670492
+    }
+  ],
+  "/articles/vangogh/bedroom.webp": [
+    {
+      "width": 384,
+      "src": "/articles/vangogh/bedroom-384.webp",
+      "bytes": 30086
+    },
+    {
+      "width": 768,
+      "src": "/articles/vangogh/bedroom-768.webp",
+      "bytes": 140968
+    },
+    {
+      "width": 1100,
+      "src": "/articles/vangogh/bedroom-1100.webp",
+      "bytes": 318084
+    },
+    {
+      "width": 1280,
+      "src": "/articles/vangogh/bedroom-1280.webp",
+      "bytes": 449202
+    }
+  ],
+  "/articles/vangogh/irises.webp": [
+    {
+      "width": 384,
+      "src": "/articles/vangogh/irises-384.webp",
+      "bytes": 53008
+    },
+    {
+      "width": 768,
+      "src": "/articles/vangogh/irises-768.webp",
+      "bytes": 200486
+    },
+    {
+      "width": 1100,
+      "src": "/articles/vangogh/irises-1100.webp",
+      "bytes": 408496
+    },
+    {
+      "width": 1280,
+      "src": "/articles/vangogh/irises-1280.webp",
+      "bytes": 565746
+    }
+  ],
+  "/articles/vangogh/self.webp": [
+    {
+      "width": 384,
+      "src": "/articles/vangogh/self-384.webp",
+      "bytes": 62434
+    },
+    {
+      "width": 768,
+      "src": "/articles/vangogh/self-768.webp",
+      "bytes": 256398
+    },
+    {
+      "width": 1100,
+      "src": "/articles/vangogh/self-1100.webp",
+      "bytes": 574686
+    },
+    {
+      "width": 1400,
+      "src": "/articles/vangogh/self-1400.webp",
+      "bytes": 1000622
+    }
+  ],
+  "/articles/vangogh/crows.webp": [
+    {
+      "width": 384,
+      "src": "/articles/vangogh/crows-384.webp",
+      "bytes": 30544
+    },
+    {
+      "width": 768,
+      "src": "/articles/vangogh/crows-768.webp",
+      "bytes": 122818
+    },
+    {
+      "width": 1100,
+      "src": "/articles/vangogh/crows-1100.webp",
+      "bytes": 255408
+    },
+    {
+      "width": 1280,
+      "src": "/articles/vangogh/crows-1280.webp",
+      "bytes": 356088
+    }
   ]
 }

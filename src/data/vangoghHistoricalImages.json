@@ -1,0 +1,170 @@
+{
+  "starry": {
+    "credit": "Vincent van Gogh / The Museum of Modern Art, New York / Google Art Project via Wikimedia Commons",
+    "creditUrl": "https://www.moma.org/collection/works/79802",
+    "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg#Licensing",
+    "copy": {
+      "en": {
+        "caption": "The Starry Night, June 1889. Oil on canvas. The Museum of Modern Art, New York, 472.1941; acquired through the Lillie P. Bliss Bequest (by exchange). Authentic artwork reproduction.",
+        "alt": "A dark cypress and village beneath a blue night sky filled with swirling stars."
+      },
+      "fr": {
+        "caption": "La Nuit étoilée, juin 1889. Huile sur toile. Museum of Modern Art, New York, 472.1941 ; acquisition par échange grâce au legs Lillie P. Bliss. Reproduction de l’œuvre authentique.",
+        "alt": "Un cyprès sombre et un village sous un ciel bleu parcouru de tourbillons étoilés."
+      },
+      "es": {
+        "caption": "La noche estrellada, junio de 1889. Óleo sobre lienzo. Museum of Modern Art, Nueva York, 472.1941; adquirida mediante intercambio con el legado Lillie P. Bliss. Reproducción de la obra auténtica.",
+        "alt": "Un ciprés oscuro y un pueblo bajo un cielo azul con estrellas y remolinos."
+      },
+      "ar": {
+        "caption": "ليلة النجوم، يونيو 1889. زيت على قماش. متحف الفن الحديث، نيويورك، 472.1941؛ اقتناء بالمبادلة بفضل وصية ليلي ب. بليس. نسخة مصورة للعمل الأصلي.",
+        "alt": "شجرة سرو داكنة وقرية تحت سماء ليلية زرقاء تملؤها النجوم والدوامات."
+      }
+    },
+    "src": "/articles/vangogh/starry.webp",
+    "width": 1280,
+    "height": 1014
+  },
+  "sunflowers": {
+    "credit": "Vincent van Gogh / National Gallery, London / Wikimedia Commons",
+    "creditUrl": "https://www.nationalgallery.org.uk/paintings/vincent-van-gogh-sunflowers",
+    "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg#Licensing",
+    "copy": {
+      "en": {
+        "caption": "Sunflowers, August 1888. Oil on canvas. National Gallery, London, NG3863; bought, Courtauld Fund, 1924. This is the London version, not one of the later repetitions.",
+        "alt": "Yellow sunflowers at different stages of bloom in an ochre vase against a yellow background."
+      },
+      "fr": {
+        "caption": "Les Tournesols, août 1888. Huile sur toile. National Gallery, Londres, NG3863 ; acquis grâce au fonds Courtauld en 1924. Version londonienne, distincte des répétitions ultérieures.",
+        "alt": "Tournesols jaunes à différents stades de floraison dans un vase ocre sur fond jaune."
+      },
+      "es": {
+        "caption": "Los girasoles, agosto de 1888. Óleo sobre lienzo. National Gallery, Londres, NG3863; adquirido con el Fondo Courtauld en 1924. Versión londinense, no una repetición posterior.",
+        "alt": "Girasoles amarillos en distintas fases de floración dentro de un jarrón ocre sobre fondo amarillo."
+      },
+      "ar": {
+        "caption": "دوّار الشمس، أغسطس 1888. زيت على قماش. المعرض الوطني، لندن، NG3863؛ اقتناء بصندوق كورتولد عام 1924. هذه نسخة لندن وليست إحدى الإعادات اللاحقة.",
+        "alt": "زهور دوّار الشمس الصفراء في مراحل مختلفة داخل مزهرية بلون المغرة أمام خلفية صفراء."
+      }
+    },
+    "src": "/articles/vangogh/sunflowers.webp",
+    "width": 1400,
+    "height": 1780
+  },
+  "bedroom": {
+    "credit": "Vincent van Gogh / Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation) / Google Art Project via Wikimedia Commons",
+    "creditUrl": "https://www.vangoghmuseum.nl/en/collection/s0047V1962",
+    "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg#Licensing",
+    "copy": {
+      "en": {
+        "caption": "The Bedroom, October 1888, first version. Oil on canvas. Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation), s0047V1962. The original Arles composition, reproduced without cropping.",
+        "alt": "A wooden bed with a red cover, two chairs and pictures on pale walls in Van Gogh’s bedroom."
+      },
+      "fr": {
+        "caption": "La Chambre, octobre 1888, première version. Huile sur toile. Musée Van Gogh, Amsterdam (Fondation Vincent van Gogh), s0047V1962. Composition originale d’Arles reproduite sans recadrage.",
+        "alt": "Lit de bois à couverture rouge, deux chaises et tableaux sur les murs pâles de la chambre."
+      },
+      "es": {
+        "caption": "El dormitorio, octubre de 1888, primera versión. Óleo sobre lienzo. Museo Van Gogh, Ámsterdam (Fundación Vincent van Gogh), s0047V1962. Composición original de Arlés, sin recorte.",
+        "alt": "Cama de madera con colcha roja, dos sillas y cuadros en las paredes claras del dormitorio."
+      },
+      "ar": {
+        "caption": "غرفة النوم، أكتوبر 1888، النسخة الأولى. زيت على قماش. متحف فان غوخ، أمستردام (مؤسسة فنسنت فان غوخ)، s0047V1962. تكوين آرل الأصلي معروض من دون اقتصاص.",
+        "alt": "سرير خشبي بغطاء أحمر وكرسيان وصور على الجدران الفاتحة لغرفة نوم فان غوخ."
+      }
+    },
+    "src": "/articles/vangogh/bedroom.webp",
+    "width": 1280,
+    "height": 1016
+  },
+  "irises": {
+    "credit": "Vincent van Gogh / J. Paul Getty Museum, Los Angeles / Wikimedia Commons",
+    "creditUrl": "https://www.getty.edu/projects/van-goghs-irises-a-closer-look/",
+    "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Irises_%281889%29.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Irises_%281889%29.jpg#Licensing",
+    "copy": {
+      "en": {
+        "caption": "Irises, May 1889. Oil on canvas. J. Paul Getty Museum, Los Angeles, 90.PA.20. Painted at Saint-Rémy; pigment fading has altered some original violet tones.",
+        "alt": "Blue-violet irises, a white flower and long green leaves above reddish soil."
+      },
+      "fr": {
+        "caption": "Les Iris, mai 1889. Huile sur toile. J. Paul Getty Museum, Los Angeles, 90.PA.20. Peint à Saint-Rémy ; la décoloration de pigments a modifié certains violets d’origine.",
+        "alt": "Iris bleu-violet, fleur blanche et longues feuilles vertes sur une terre rougeâtre."
+      },
+      "es": {
+        "caption": "Los lirios, mayo de 1889. Óleo sobre lienzo. J. Paul Getty Museum, Los Ángeles, 90.PA.20. Pintado en Saint-Rémy; la pérdida de pigmento ha alterado algunos violetas originales.",
+        "alt": "Lirios azul violáceo, una flor blanca y largas hojas verdes sobre tierra rojiza."
+      },
+      "ar": {
+        "caption": "السوسن، مايو 1889. زيت على قماش. متحف ج. بول غيتي، لوس أنجلوس، 90.PA.20. رُسمت في سان ريمي؛ غيّر تلاشي الأصباغ بعض الدرجات البنفسجية الأصلية.",
+        "alt": "زهور سوسن زرقاء بنفسجية وزهرة بيضاء وأوراق خضراء طويلة فوق تربة محمرة."
+      }
+    },
+    "src": "/articles/vangogh/irises.webp",
+    "width": 1280,
+    "height": 988
+  },
+  "self": {
+    "credit": "Vincent van Gogh / National Gallery of Art, Washington / Collection of Mr. and Mrs. John Hay Whitney / Wikimedia Commons",
+    "creditUrl": "https://www.nga.gov/artworks/106382-self-portrait",
+    "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh%2C_Self-Portrait%2C_1889%2C_NGA_106382.jpg",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "copy": {
+      "en": {
+        "caption": "Self-Portrait, 1889. Oil on canvas. National Gallery of Art, Washington, Collection of Mr. and Mrs. John Hay Whitney, 1998.74.5. Van Gogh presents himself with the tools of his profession.",
+        "alt": "Van Gogh with a reddish beard, blue painter’s coat, brushes and palette against a dark blue background."
+      },
+      "fr": {
+        "caption": "Autoportrait, 1889. Huile sur toile. National Gallery of Art, Washington, collection de M. et Mme John Hay Whitney, 1998.74.5. Van Gogh se représente avec ses outils de peintre.",
+        "alt": "Van Gogh à barbe rousse, blouse bleue, pinceaux et palette devant un fond bleu sombre."
+      },
+      "es": {
+        "caption": "Autorretrato, 1889. Óleo sobre lienzo. National Gallery of Art, Washington, colección del Sr. y la Sra. John Hay Whitney, 1998.74.5. Se representa con las herramientas de su oficio.",
+        "alt": "Van Gogh con barba rojiza, bata azul, pinceles y paleta ante un fondo azul oscuro."
+      },
+      "ar": {
+        "caption": "صورة ذاتية، 1889. زيت على قماش. المعرض الوطني للفنون، واشنطن، مجموعة السيد والسيدة جون هاي ويتني، 1998.74.5. يقدم فان غوخ نفسه ومعه أدوات مهنته.",
+        "alt": "فان غوخ بلحية محمرة ومعطف رسم أزرق وفرش ولوحة مزج أمام خلفية زرقاء داكنة."
+      }
+    },
+    "src": "/articles/vangogh/self.webp",
+    "width": 1400,
+    "height": 1825
+  },
+  "crows": {
+    "credit": "Vincent van Gogh / Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation) / Wikimedia Commons",
+    "creditUrl": "https://www.vangoghmuseum.nl/en/collection/s0149V1962",
+    "source": "https://commons.wikimedia.org/wiki/File:Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg#Licensing",
+    "copy": {
+      "en": {
+        "caption": "Wheatfield with Crows, July 1890. Oil on canvas. Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation), s0149V1962. This was not Van Gogh’s last painting. Digital reproductions may differ in colour from the original.",
+        "alt": "Dark crows fly over yellow wheat and branching paths beneath an intense blue sky."
+      },
+      "fr": {
+        "caption": "Champ de blé aux corbeaux, juillet 1890. Huile sur toile. Musée Van Gogh, Amsterdam (Fondation Vincent van Gogh), s0149V1962. Ce n’est pas son dernier tableau. Les couleurs numériques peuvent différer de l’original.",
+        "alt": "Corbeaux sombres au-dessus du blé jaune et de chemins divergents sous un ciel bleu intense."
+      },
+      "es": {
+        "caption": "Trigal con cuervos, julio de 1890. Óleo sobre lienzo. Museo Van Gogh, Ámsterdam (Fundación Vincent van Gogh), s0149V1962. No fue su última pintura. El color digital puede diferir del original.",
+        "alt": "Cuervos oscuros sobre trigo amarillo y caminos que se bifurcan bajo un cielo azul intenso."
+      },
+      "ar": {
+        "caption": "حقل القمح مع الغربان، يوليو 1890. زيت على قماش. متحف فان غوخ، أمستردام (مؤسسة فنسنت فان غوخ)، s0149V1962. ليست آخر لوحاته. قد تختلف ألوان النسخة الرقمية عن الأصل.",
+        "alt": "غربان داكنة فوق قمح أصفر وطرق متفرعة تحت سماء زرقاء قوية اللون."
+      }
+    },
+    "src": "/articles/vangogh/crows.webp",
+    "width": 1280,
+    "height": 613
+  }
+}

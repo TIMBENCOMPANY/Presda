@@ -3886,6 +3886,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/vincent-van-gogh-life-art-legacy/",
+    "path": "/ar/articles/vincent-van-gogh-life-art-legacy/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/vincent-van-gogh-life-art-legacy/",
+    "path": "/es/articles/vincent-van-gogh-life-art-legacy/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/vincent-van-gogh-life-art-legacy/",
+    "path": "/fr/articles/vincent-van-gogh-life-art-legacy/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/virgin-trains-eurostar-cross-channel-rival/",
     "path": "/ar/articles/virgin-trains-eurostar-cross-channel-rival/"
   },
