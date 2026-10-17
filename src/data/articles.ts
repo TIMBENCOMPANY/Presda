@@ -1,3 +1,4 @@
+import { dianaArticle } from "@/data/dianaArticle";
 import { mw4Article } from "@/data/mw4Article";
 import { roadsterArticle } from "@/data/roadsterArticle";
 import { chocolateArticle } from "@/data/chocolateArticle";
@@ -187,6 +188,7 @@ export const articles: Article[] = [
   chocolateArticle,
   roadsterArticle,
   mw4Article,
+  dianaArticle,
   dollyArticle,
   winterArticle,
   laikaArticle,

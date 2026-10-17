@@ -1,3 +1,5 @@
+import { DianaHistoricalImage, dianaImageAtBlock } from "@/components/DianaHistoricalImage";
+import dianaHeroCaptions from "@/data/dianaHeroCaptions.json";
 import mw4HeroCaptions from "@/data/mw4HeroCaptions.json";
 import roadsterHeroCaptions from "@/data/roadsterHeroCaptions.json";
 import chocolateHeroCaptions from "@/data/chocolateHeroCaptions.json";
@@ -365,6 +367,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "chocolate-ancient-cacao-global-obsession" && <p data-chocolate-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{chocolateHeroCaptions[locale]}</p>}
         {article.slug === "tesla-roadster-rocket-thrusters-2028" && <p data-roadster-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{roadsterHeroCaptions[locale]}</p>}
         {article.slug === "modern-warfare-4-campaign-early-access" && <p data-mw4-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mw4HeroCaptions[locale]}</p>}
+        {article.slug === "princess-diana-life-tragedy-legacy" && <p data-diana-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dianaHeroCaptions[locale]}</p>}
         {article.slug === "dolly-cloned-sheep-changed-science" && <p data-dolly-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dollyHeroCaptions[locale]}</p>}
         {article.slug === "winter-dolphin-prosthetic-tail" && <p data-winter-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{winterHeroCaptions[locale]}</p>}
         {article.slug === "laika-first-dog-orbit-never-came-home" && <p data-laika-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{laikaHeroCaptions[locale]}</p>}
@@ -569,6 +572,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "felicette-french-cat-space-tragic-end" && felicetteImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FelicetteHistoricalImage id={felicetteImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "ham-chimpanzee-space-before-americas-first-astronaut" && hamImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><HamHistoricalImage id={hamImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "chocolate-ancient-cacao-global-obsession" && chocolateImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ChocolateHistoricalImage id={chocolateImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "princess-diana-life-tragedy-legacy" && dianaImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DianaHistoricalImage id={dianaImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "dolly-cloned-sheep-changed-science" && dollyImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DollyHistoricalImage id={dollyImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "winter-dolphin-prosthetic-tail" && winterImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><WinterHistoricalImage id={winterImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "bobby-fischer-chess-legend-america-iceland" && fischerImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><FischerHistoricalImage id={fischerImageAtBlock[originalIndex]} locale={locale} /></div>;

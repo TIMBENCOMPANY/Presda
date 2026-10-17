@@ -934,5 +934,73 @@
       "width": 1200,
       "src": "/articles/chocolate/factory-1200.webp"
     }
+  ],
+  "/articles/diana/wedding.webp": [
+    {
+      "width": 384,
+      "src": "/articles/diana/wedding-384.webp",
+      "bytes": 13428
+    },
+    {
+      "width": 768,
+      "src": "/articles/diana/wedding-768.webp",
+      "bytes": 34956
+    },
+    {
+      "width": 1100,
+      "src": "/articles/diana/wedding-1100.webp",
+      "bytes": 58618
+    },
+    {
+      "width": 1400,
+      "src": "/articles/diana/wedding-1400.webp",
+      "bytes": 81622
+    }
+  ],
+  "/articles/diana/portrait.webp": [
+    {
+      "width": 384,
+      "src": "/articles/diana/portrait-384.webp",
+      "bytes": 24600
+    },
+    {
+      "width": 600,
+      "src": "/articles/diana/portrait-600.webp",
+      "bytes": 49364
+    }
+  ],
+  "/articles/diana/memorial.webp": [
+    {
+      "width": 384,
+      "src": "/articles/diana/memorial-384.webp",
+      "bytes": 25600
+    },
+    {
+      "width": 768,
+      "src": "/articles/diana/memorial-768.webp",
+      "bytes": 79986
+    },
+    {
+      "width": 1100,
+      "src": "/articles/diana/memorial-1100.webp",
+      "bytes": 134324
+    },
+    {
+      "width": 1400,
+      "src": "/articles/diana/memorial-1400.webp",
+      "bytes": 200696
+    }
+  ],
+  "/articles/diana/funeral.webp": [
+    {
+      "width": 384,
+      "src": "/articles/diana/funeral-384.webp",
+      "bytes": 31416
+    },
+    {
+      "width": 624,
+      "src": "/articles/diana/funeral-624.webp",
+      "bytes": 71700
+    }
   ]
 }

@@ -3151,6 +3151,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/princess-diana-life-tragedy-legacy/",
+    "path": "/ar/articles/princess-diana-life-tragedy-legacy/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/princess-diana-life-tragedy-legacy/",
+    "path": "/es/articles/princess-diana-life-tragedy-legacy/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/princess-diana-life-tragedy-legacy/",
+    "path": "/fr/articles/princess-diana-life-tragedy-legacy/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/psychology-of-brands-why-we-pay-more-for-a-name/",
     "path": "/ar/articles/psychology-of-brands-why-we-pay-more-for-a-name/"
   },
