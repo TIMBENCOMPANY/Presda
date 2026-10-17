@@ -3,7 +3,7 @@
 import { Info, Mail, Menu, Newspaper, Search, UserPlus, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import { usePathname, useRouter } from "next/navigation";
+import { usePathname, useRouter, useSelectedLayoutSegments } from "next/navigation";
 import type { FocusEvent, FormEvent } from "react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { ArticleSearchRecord } from "@/lib/articleSearch";
@@ -11,7 +11,7 @@ import { loadSearchIndex } from "@/lib/loadSearchIndex";
 import { searchArticles } from "@/lib/articleSearch";
 import { formatDate, toCategorySlug } from "@/lib/categories";
 import { LanguageSelector } from "@/components/LanguageSelector";
-import { languageDestination, englishPathFor, type Locale } from "@/lib/i18n/routing";
+import { languageDestination, type Locale } from "@/lib/i18n/routing";
 import { brandLabels, localizedCategories, messages } from "@/lib/i18n/messages";
 import { middlewareTranslationRoutes as routes } from "@/lib/i18n/route-index";
 
@@ -54,9 +54,10 @@ export function Header({ locale = "en" }: { locale?: Locale }) {
   const searchToggleRef = useRef<HTMLButtonElement | null>(null);
   const closeTimer = useRef<number | null>(null);
   const pathname = usePathname();
+  const routeSegments = useSelectedLayoutSegments().filter(segment => segment && !segment.startsWith("("));
   const router = useRouter();
-  const englishPath = englishPathFor(pathname, routes);
-  const showCategoryNavigation = englishPath === "/" || englishPath.startsWith("/category/");
+  // Use the shared route tree so prerendered HTML and hydration agree.
+  const showCategoryNavigation = routeSegments.length === 0 || routeSegments[0] === "category" || routeSegments[0].startsWith("category/");
   const trimmedQuery = query.trim();
   const showSearchResults = (searchFocused || searchOpen) && trimmedQuery.length >= minimumSearchLength;
   const matchingArticles = useMemo(() => {
