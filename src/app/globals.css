@@ -685,9 +685,21 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
 @media (min-width: 1280px) {
   .article-hero .article-hero-content { padding: 56px; }
 }
-/* Preserve the artwork inside the standard cinematic frame and text spacing. */
+/* These full-composition heroes size the frame from the image, not a fixed height.
+   Overlay direction changes with the text; the image never moves for RTL. */
 @media (min-width: 1024px) {
-  .article-hero--contained .article-hero-image { object-fit: contain; object-position: right center; }
+  .article-hero.article-hero--contained { display: grid; min-height: 0; }
+  .article-hero--contained .article-hero-media {
+    position: relative; inset: auto; grid-area: 1 / 1; height: auto; align-self: start;
+  }
+  .article-hero--contained .article-hero-image {
+    display: block; width: 100%; height: auto; object-fit: contain; object-position: center;
+  }
+  .article-hero--contained .article-hero-content {
+    grid-area: 1 / 1; min-height: 0; align-self: end;
+    padding: clamp(28px, 3.9vw, 56px);
+  }
+  .article-hero--contained .article-hero-title { font-size: clamp(40px, 4.05vw, 64px); }
 }
 
 /* Preserve this feature's standalone mobile composition. Desktop uses the shared hero. */
