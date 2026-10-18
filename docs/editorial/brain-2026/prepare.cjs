@@ -1,0 +1,25 @@
+const fs = require('node:fs');
+const path = require('node:path');
+const root = path.resolve(__dirname, '../../..');
+const slug = 'human-brain-most-complex-organ';
+const data = {
+  en: {title:'The Human Brain: The Most Complex Organ We Know',seoTitle:'The Human Brain: Memory, Consciousness and Neuroscience',description:'Explore brain anatomy, 86 billion neurons, memory, consciousness, sleep and neuroplasticity, separating discoveries from unanswered questions.',red:'The Human Brain',gold:'The Most Complex Organ We Know',alt:'PRESDA AI-generated anatomical illustration of a pink human brain viewed from the side on a grey background'},
+  fr: {title:'Le cerveau humain : l’organe le plus complexe que nous connaissions',seoTitle:'Le cerveau humain : mémoire, conscience et neurosciences',description:'Anatomie, 86 milliards de neurones, mémoire, conscience, sommeil et neuroplasticité : explorez les découvertes et les mystères du cerveau.',red:'Le cerveau humain',gold:'le plus complexe',alt:'Illustration anatomique générée par IA pour PRESDA : cerveau humain rose vu de profil sur fond gris'},
+  es: {title:'El cerebro humano: el órgano más complejo que conocemos',seoTitle:'El cerebro humano: memoria, conciencia y neurociencia',description:'Anatomía, 86.000 millones de neuronas, memoria, conciencia, sueño y neuroplasticidad: descubrimientos y preguntas abiertas sobre el cerebro.',red:'El cerebro humano',gold:'el órgano más complejo',alt:'Ilustración anatómica generada por IA para PRESDA de un cerebro humano rosado de perfil sobre fondo gris'},
+  ar: {title:'الدماغ البشري: أعقد عضو نعرفه',seoTitle:'الدماغ البشري: الذاكرة والوعي وأسرار علوم الأعصاب',description:'استكشف تشريح الدماغ و86 مليار عصبون والذاكرة والوعي والنوم والمرونة العصبية، مع التمييز بين الاكتشافات العلمية والأسئلة المفتوحة.',red:'الدماغ البشري',gold:'أعقد عضو نعرفه',alt:'رسم تشريحي مولد بالذكاء الاصطناعي لصالح PRESDA لدماغ بشري وردي من الجانب على خلفية رمادية'},
+};
+const read = locale => fs.readFileSync(path.join(__dirname,locale+'.md'),'utf8').trim().split(/\r?\n\s*\r?\n/);
+const en = read('en').map(p=>p.replace('https://www.ncbi.nlm.nih.gov/books/NBK11106/','https://www.ncbi.nlm.nih.gov/books/NBK10882/'));
+en[46] += ' The ethical questions surrounding these models are examined in [Animal Testing](/articles/animal-testing-hidden-cost-scientific-progress/).';
+const links = p => [...p.matchAll(/\[([^\]]+)\]\(([^)]+)\)/g)];
+const references = [...new Map(en.flatMap(links).filter(x=>x[2].startsWith('https:')).map(x=>[x[2],{name:x[1],url:x[2]}])).values()];
+const a = {id:'288',slug,title:data.en.title,seoTitle:data.en.seoTitle,metaDescription:data.en.description,excerpt:data.en.description,category:'Science',schemaType:'Article',date:'2026-10-19',lastUpdated:'2026-10-19',author:'PRESDA Editorial',status:'published',readingTime:'15 min read',coverImage:'/articles/brain-hero.png',coverAlt:data.en.alt,headlineHighlights:{red:data.en.red,gold:data.en.gold},tags:['Human Brain','Neuroscience','Memory','Consciousness','Neuroplasticity'],content:en,references,relatedSlugs:['bacteria-good-bad-microbes-shape-our-lives','history-future-of-medicine','sleep-paralysis-when-you-wake-up-but-cannot-move','animal-testing-hidden-cost-scientific-progress'],faq:[]};
+fs.writeFileSync(path.join(root,'src/data/brainArticle.ts'),'import type { Article } from "@/data/articles";\nexport const brainArticle: Article = '+JSON.stringify(a,null,2)+';\n');
+const internal = {fr:['PRESDA : paralysie du sommeil','PRESDA : histoire de la médecine','PRESDA : expérimentation animale'],es:['PRESDA: parálisis del sueño','PRESDA: historia de la medicina','PRESDA: experimentación animal'],ar:['PRESDA: شلل النوم','PRESDA: تاريخ الطب','PRESDA: التجارب على الحيوانات']};
+for(const locale of ['fr','es','ar']) {
+ const d=data[locale], text=read(locale); if(text.length!==en.length)throw Error(locale+' block parity');
+ const content=text.map((p,i)=>({type:p.startsWith('## ')?'heading':'paragraph',text:p.replace(/^## /,'')+links(en[i]).map(m=>{const label=m[2].startsWith('/')?internal[locale][m[2].includes('sleep-')?0:m[2].includes('history-')?1:2]:({fr:'Source',es:'Fuente',ar:'المصدر'}[locale])+': '+new URL(m[2]).hostname.replace('www.','');return ` [${label}](${m[2]})`}).join('')}));
+ const r={locale,englishPath:`/articles/${slug}/`,path:`/${locale}/articles/${slug}/`,kind:'article',status:'published',review:{reviewer:'Codex source and terminology review',reviewedAt:'2026-10-19',terminologyChecked:true},title:d.title,seoTitle:d.seoTitle,description:d.description,excerpt:d.description,headlineHighlights:{red:d.red,gold:d.gold},keywords:[d.red,d.gold],searchIntent:d.description,category:'Science',author:a.author,publishedAt:a.date,updatedAt:a.date,image:{src:a.coverImage,alt:d.alt},content,sources:references.map(r=>({label:r.name,url:r.url})),faq:[]};
+ const dest=path.join(root,'src/data/localizations/articles',slug);fs.mkdirSync(dest,{recursive:true});fs.writeFileSync(path.join(dest,locale+'.json'),JSON.stringify(r,null,2)+'\n');
+}
+console.log('Prepared four complete editions and '+references.length+' scientific sources.');

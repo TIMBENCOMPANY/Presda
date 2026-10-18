@@ -1634,5 +1634,25 @@
       "src": "/articles/bacteria/responsive/influenza-700.webp",
       "bytes": 123996
     }
+  ],
+  "/articles/brain/neuron.webp": [
+    {
+      "width": 480,
+      "src": "/articles/brain/neuron-480.webp"
+    },
+    {
+      "width": 825,
+      "src": "/articles/brain/neuron-825.webp"
+    }
+  ],
+  "/articles/brain/mri.webp": [
+    {
+      "width": 480,
+      "src": "/articles/brain/mri-480.webp"
+    },
+    {
+      "width": 1080,
+      "src": "/articles/brain/mri-1080.webp"
+    }
   ]
 }

@@ -1921,6 +1921,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/human-brain-most-complex-organ/",
+    "path": "/ar/articles/human-brain-most-complex-organ/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/human-brain-most-complex-organ/",
+    "path": "/es/articles/human-brain-most-complex-organ/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/human-brain-most-complex-organ/",
+    "path": "/fr/articles/human-brain-most-complex-organ/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/human-family-tree-human-evolution-species/",
     "path": "/ar/articles/human-family-tree-human-evolution-species/"
   },

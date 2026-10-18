@@ -171155,6 +171155,996 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/human-brain-most-complex-organ/",
+    "path": "/ar/articles/human-brain-most-complex-organ/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "الدماغ البشري: أعقد عضو نعرفه",
+    "seoTitle": "الدماغ البشري: الذاكرة والوعي وأسرار علوم الأعصاب",
+    "description": "استكشف تشريح الدماغ و86 مليار عصبون والذاكرة والوعي والنوم والمرونة العصبية، مع التمييز بين الاكتشافات العلمية والأسئلة المفتوحة.",
+    "excerpt": "استكشف تشريح الدماغ و86 مليار عصبون والذاكرة والوعي والنوم والمرونة العصبية، مع التمييز بين الاكتشافات العلمية والأسئلة المفتوحة.",
+    "headlineHighlights": {
+      "red": "الدماغ البشري",
+      "gold": "أعقد عضو نعرفه"
+    },
+    "keywords": [
+      "الدماغ البشري",
+      "أعقد عضو نعرفه"
+    ],
+    "searchIntent": "استكشف تشريح الدماغ و86 مليار عصبون والذاكرة والوعي والنوم والمرونة العصبية، مع التمييز بين الاكتشافات العلمية والأسئلة المفتوحة.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/brain-hero.png",
+      "alt": "رسم تشريحي مولد بالذكاء الاصطناعي لصالح PRESDA لدماغ بشري وردي من الجانب على خلفية رمادية"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "قبل أن تنهي قراءة هذه الجملة، يكون دماغك قد أنجز عملاً مدهشاً. تحوّل الضوء إلى نشاط كهربائي، وصارت العلامات لغة، واكتسبت اللغة معنى. ربما تسمع صوتاً داخلياً أو تتذكر شيئاً قرأته منذ سنوات أو تنتبه إلى صوت في الغرفة. يحدث ذلك من دون أن تشرف بنفسك على كل خلية مشاركة. والعضو الذي يؤدي هذا العمل هو نفسه الذي يصنع تجربتك الواعية لما يجري."
+      },
+      {
+        "type": "paragraph",
+        "text": "الدماغ البشري هو العضو المركزي للجهاز العصبي، وينسق الإحساس والحركة وتنظيم وظائف الجسم والإدراك. ووصفه بأنه أعقد عضو نعرفه يعبر عن حجم شبكاته المتفاعلة، وليس ترتيباً علمياً يقوم على مقياس متفق عليه عالمياً. تفسر علوم الأعصاب كثيراً من خصائص خلاياه ودوائره، لكنها لا تقدم بعد وصفاً كاملاً لكيفية إنتاج هذه العمليات لذكرى من الطفولة أو قرار صعب أو شعور الإنسان بأنه ذاته."
+      },
+      {
+        "type": "heading",
+        "text": "عالم حي داخل الجمجمة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحمي الجمجمة الدماغ، وتحيط به أغشية تسمى السحايا وسائل دماغي شوكي. وينتمي سطحه المطوي إلى المخ، الذي يتواصل نصفاه عبر مسارات منها الجسم الثفني. تسمح الطيات باستيعاب مساحة قشرية أكبر داخل الرأس. تحتوي المادة الرمادية على كثير من أجسام الخلايا العصبية والوصلات المحلية، بينما تتكون المادة البيضاء من حزم محاور عصبية يحيط بكثير منها غلاف عازل من الميالين. هذه أنسجة متفاعلة، وليست قسمين مستقلين أحدهما للتفكير والآخر للتوصيل. [المصدر: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تسهم المناطق الجبهية في التخطيط والحركة وضبط السلوك، وتدمج المناطق الجدارية المعلومات الجسدية والمكانية، وتشارك المناطق الصدغية في السمع واللغة والذاكرة، وتؤدي المناطق القذالية دوراً أساسياً في الرؤية. لكن هذه التسميات تشير إلى تخصصات نسبية لا إلى مناطق مغلقة الوظائف. فقراءة تعبير وجه أو متابعة حديث تستدعي مناطق متعددة. والصورة الملونة التي تظهر منطقة واحدة مضيئة تختزل نشاطاً منسقاً يحدث أصلاً عبر أجزاء الدماغ."
+      },
+      {
+        "type": "paragraph",
+        "text": "أسفل نصفي المخ، يشارك المخيخ في التنسيق والتوقيت والتعلم، وله أدوار تتجاوز الحركة. ويساعد جذع الدماغ في تنظيم وظائف حيوية مثل التنفس، ويربط الدماغ بالحبل الشوكي. وتشمل البنى العميقة المهاد، المشارك في تبادل المعلومات، والوطاء الذي يسهم في تنظيم حالات الجسم، والحُصين المهم لتكوين بعض الذكريات. لا يوجد مراقب صغير جالس في المركز؛ بل تنشأ السيطرة من العلاقات بين الأنظمة المختلفة. [المصدر: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يعتمد الدماغ أيضاً على تبادل مستمر مع الجسم. يجلب الدم الأكسجين والمغذيات، وتنظم حواجز متخصصة مرور المواد من الدورة الدموية إلى النسيج العصبي. هذه الحماية انتقائية وليست مطلقة. وتؤثر الإشارات الهرمونية والعمليات المناعية والمعلومات الحسية باستمرار في وظائفه. حتى التركيز على مسألة تبدو داخلية تماماً يجري ضمن هذه الفسيولوجيا الأوسع. قد تكون صورة دماغ يطفو وحده في وعاء مفيدة للخيال، لكنها بداية ضعيفة لفهم عضو لا ينفصل عمله الطبيعي عن الجسم الحي الذي يحمله ويغذيه."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يعني وجود نحو 86 مليار عصبون؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يرجع التقدير الشائع بنحو 86 مليار عصبون إلى بحث نشره فريدريكو أزيفيدو وسوزانا هيركولانو هوزيل وزملاؤهما عام 2009. اعتمدت طريقتهم على عد نوى الخلايا في أنسجة معالجة والتمييز بين النوى العصبية وغير العصبية. وكانت النتيجة متوسطاً لعينة من أدمغة رجال بالغين، لا إحصاءً لكل إنسان. لذلك تظل الفروق الفردية وطريقة أخذ العينات والقياس مهمة. الرقم تقدير مفيد، وليس ثابتاً بيولوجياً ولا مقياساً لذكاء شخص بعينه. [المصدر: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/19226510/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تختلف العصبونات نفسها اختلافاً كبيراً. بعضها يرسل امتدادات طويلة، وبعضها يؤثر في دوائر قريبة. وتقع غالبية عصبونات الدماغ في المخيخ، مما يذكرنا بأن عدد الخلايا لا يساوي مقدار التفكير الواعي. والخلايا غير العصبية ضرورية أيضاً: تساعد الخلايا النجمية في تنظيم البيئة الخلوية، وتصنع الخلايا قليلة التغصن الميالين في الجهاز العصبي المركزي، وتشارك الخلايا الدبقية الصغيرة في المراقبة المناعية وصيانة الأنسجة. إن تصور العصبونات نجوماً تحيط بها مادة دعم خاملة يهمل جانباً كبيراً من هذه البيولوجيا. [المصدر: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK207181/)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف تتحول الخلايا إلى حوار؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحافظ العصبون على فروق كهربائية عبر غشائه. وعندما تبلغ الظروف عتبة معينة، يمكن لجهد فعل أن ينتقل على طول المحور العصبي. وفي كثير من المشابك يؤدي ذلك إلى إطلاق نواقل عصبية ترتبط بمستقبلات خلية أخرى. وتدمج الخلية المستقبلة تأثيرات عديدة، بعضها يعزز نشاطها وبعضها يثبطه. وتوجد كذلك مشابك كهربائية. لذلك ليست الفكرة شرارة واحدة تسير في سلك واحد، بل أنماط متغيرة ضمن شبكات تعمل على مقاييس زمنية مختلفة. [المصدر: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK10882/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصبح أسماء المواد الكيميائية مضللة حين تتحول إلى أوصاف للشخصية. فالدوبامين ليس المتعة وحدها، والسيروتونين ليس السعادة وحدها، ولا يمكن استنتاج عاطفة من كمية ناقل واحد. تتوقف التأثيرات على المستقبلات والمسارات والتوقيت والسياق. وبالمثل، ليس الدماغ حاسوباً يحتوي على حجرة معطلة تنتظر التشغيل. تستدعي المهام المختلفة أنماطاً مختلفة من النشاط، لكن الادعاء الشائع بأننا نستخدم عادة عشرة في المئة فقط من الدماغ لا يقوم على أساس علمي عصبي متين."
+      },
+      {
+        "type": "paragraph",
+        "text": "تحتاج الإشارات أيضاً إلى التنسيق. فزيادة الاستثارة من دون تثبيط مناسب لن تجعل التفكير أقوى؛ إذ يتطلب العمل المستقر تنظيماً متوازناً. وتعتمد استجابة العصبون جزئياً على الإشارات السابقة والخلايا الأخرى النشطة وحالة الشبكة. لذلك يدرس الباحثون التوقيت والعلاقات إلى جانب الوصلات التشريحية. وقد يساعد تشبيه الدماغ بمدينة: معرفة طرقها لا تكشف الرحلات الجارية أو أسباب اختيارها أو تغير الحركة عند تبدل الظروف. لكل استعارة حدود، لكن هذه المقارنة توضح الفرق بين معرفة البنية وفهم ما يحدث داخلها فعلياً."
+      },
+      {
+        "type": "heading",
+        "text": "الذاكرة إعادة بناء وليست تسجيلاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "تذكر رحلة، ومعرفة معنى كلمة، وركوب الدراجة إنجازات مختلفة. تتعلق الذاكرة العرضية بالأحداث، والذاكرة الدلالية بالمعرفة، بينما تعتمد المهارات على أنظمة تعلم أخرى. للحُصين والبنى المحيطة به أهمية خاصة في تكوين ذكريات جديدة عن الأحداث والحقائق، وتسهم شبكات قشرية موزعة في تمثيلها. لا يعني التذكر استرجاع ملف فيديو لم يتغير. فالانتباه والمعرفة اللاحقة وظروف الاستدعاء يمكن أن تؤثر في ما يعود إلى الذهن."
+      },
+      {
+        "type": "paragraph",
+        "text": "تبحث دراسات آثار الذاكرة، أو الإنغرامات، في مجموعات الخلايا والتغيرات المرتبطة بالتعلم. ويمكن للباحثين في القوارض وسم خلايا نشطت خلال تجربة ثم التدخل فيها لاختبار دورها في السلوك اللاحق. وتقدم هذه التجارب أدلة سببية أقوى من مجرد مشاهدة منطقة دماغية تنشط. لكنها لا تعني أن العلماء يستطيعون تنزيل السيرة الذاتية لإنسان. قياس الذاكرة في حيوان مختبري وفهم ذكرى بشرية غنية بالتفاصيل مسألتان مترابطتان، وليستا شيئاً واحداً. [المصدر: nature.com](https://www.nature.com/articles/nrn4000)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يغير التعلم غالباً قوة المشابك وبنيتها. تصبح بعض الوصلات أكثر فاعلية وأخرى أقل، وتهم أيضاً قابلية الخلايا للاستثارة وتنظيم الشبكات الأوسع. تساعد هذه المرونة على تفسير بقاء أثر بيولوجي للتجربة من دون تخصيص عصبون منفصل لكل لحظة محفوظة. وقد يعكس النسيان صعوبة الوصول إلى المعلومات، فضلاً عن فقدانها أو تغيرها. والسؤال الصعب هو كيف يحفظ نظام يتغير باستمرار بعض الذكريات لعقود، مع احتفاظه بقدرته على تعلم أشياء جديدة. [المصدر: nature.com](https://www.nature.com/articles/nrn1301)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجعل الهفوات اليومية هذه الفروق ملموسة. فنسيان سبب دخول غرفة لا يعني تعطل نظام ذاكرة كامل. قد يمنع تشتت الانتباه ترميز المعلومات بقوة، وقد يصعب مؤشر غير مناسب استرجاع ما خُزن. وقد يولد تكرار مشاهدة معلومة شعوراً بالألفة من دون القدرة على شرحها. لذلك يتطلب التعلم أكثر من مجرد التعرض. ويتمثل التحدي العلمي في ربط السلوك بالآليات من دون القفز من هفوة شائعة إلى تشخيص، أو من اكتشاف مختبري إلى وصفة عامة لذاكرة مثالية. الذاكرة قابلة للتكيف وقيمة وانتقائية بطبيعتها."
+      },
+      {
+        "type": "heading",
+        "text": "الذكاء ليس له عنوان واحد"
+      },
+      {
+        "type": "paragraph",
+        "text": "تدرس أبحاث الذكاء قدرات مثل الاستدلال والتعلم وحل المشكلات غير المألوفة. وتشير دراسات الدماغ إلى شبكات موزعة، منها وصلات بين مناطق جبهية وجدارية. لا يكشف تصوير واحد كامل الإمكانات العقلية لشخص. فالاختبارات تقيس أداءً محدداً في ظروف محددة، والارتباط بين خصائص الدماغ والدرجات لا يثبت سبباً بسيطاً. يجب أن يبقى التعليم والصحة والفرص والتجربة جزءاً من التفسير. [المصدر: nature.com](https://www.nature.com/articles/nrn2793)"
+      },
+      {
+        "type": "paragraph",
+        "text": "والذكاء ليس مرادفاً للإبداع أو حسن الحكم أو التعاطف أو الخبرة العملية. فقد يتعثر إنسان في مهمة ويتفوق في أخرى. أما تقسيم الناس إلى منطقيين يعتمدون على النصف الأيسر ومبدعين يعتمدون على الأيمن، فيحول بعض الاختلافات الوظيفية الحقيقية إلى نظرية شاملة للشخصية. يتعاون النصفان في الحياة اليومية. وتحويل صورة دماغية ملونة إلى قدر محتوم يخفي ما تدرسه علوم الأعصاب نفسها: نظاماً بيولوجياً يتطور عبر تفاعل مستمر مع العالم."
+      },
+      {
+        "type": "heading",
+        "text": "العواطف تصل المعنى بالجسم"
+      },
+      {
+        "type": "paragraph",
+        "text": "تتجاوز العاطفة شعوراً يقع في بنية صغيرة واحدة. فقد تشمل تغيرات في الانتباه وحالة الجسم والاستعداد للفعل والذاكرة والتفسير الواعي. تساعد اللوزة الدماغية في تقييم المعلومات ذات الأهمية البيولوجية وتسهم في التعلم، لكن وصفها بزر الخوف مضلل. فهي تشارك في عمليات ذات دلالات إيجابية وسلبية، ويجب فهم نشاطها ضمن شبكات أكبر. [المصدر: nature.com](https://www.nature.com/articles/nrn2920)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لذلك ليس العقل والعاطفة ساكنين متنافسين داخل الجمجمة. تسهم الإشارات الجسدية والنتائج المتذكرة في تحديد ما يهم عند اتخاذ القرار. وقد يتغير معنى تسارع القلب باختلاف السياق، بين الجري والقلق والحماس. وتختلف النظريات بشأن نشأة الفئات العاطفية ومدى اعتمادها على دوائر مشتركة أو التعلم أو التفسير. الاعتراف بهذا النقاش يمنع خطأ شائعاً، هو تقديم رسم دماغي مبسط باعتباره تفسيراً كاملاً للحب أو الحزن أو الغضب. [المصدر: nature.com](https://www.nature.com/articles/nrn3403)"
+      },
+      {
+        "type": "heading",
+        "text": "الوعي: السؤال الذي يبقى مفتوحاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "يشمل الوعي التجربة الذاتية، مثل رؤية لون أو الشعور بألم. يستطيع العلماء بحث التغيرات المصاحبة للنوم والتخدير والإصابة والإدراك الواعي، واختبار الإشارات التي ترافق تجربة والتدخلات التي تغيرها. لكن تحديد ارتباط عصبي لا يفسر تلقائياً لماذا يُشعر بهذا النشاط من الداخل. هذه الفجوة مسألة بحثية، وليست دليلاً على تفسير خارق أو تقني نفضله مسبقاً."
+      },
+      {
+        "type": "paragraph",
+        "text": "تركز نظريات فضاء العمل العصبي العالمي على إتاحة المعلومات على نطاق واسع بين أنظمة المعالجة. وتقدم نظرية المعلومات المتكاملة تصوراً مختلفاً يتمحور حول التنظيم السببي والمعلوماتي للنظام. واختبرت دراسة تعاونية كبيرة بين اتجاهات متنافسة، نشرتها Nature عام 2025، تنبؤات من النهجين، وتحدت توقعات أساسية لدى كليهما. لم تعلن فائزاً نهائياً. وتكمن بعض قيمتها في جعل الخلاف قابلاً للاختبار، مع تحديد التنبؤات قبل معرفة النتائج. [المصدر: nature.com](https://www.nature.com/articles/s41586-025-08888-1)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لهذا الغموض آثار عملية. فعند تقييم شخص لا يستطيع الاستجابة، يجب التمييز بين غياب السلوك الظاهر وغياب الوعي. ويناقش الباحثون أيضاً الأدلة التي قد تبرر نسبة الوعي إلى حيوان أو نظام اصطناعي. لا تحسم اللغة الطليقة ولا خريطة الوصلات المعقدة المسألة بمفردها. تصبح علوم الأعصاب أقوى عندما تميز بين الملاحظة والتفسير والموقف الفلسفي، بدلاً من دمجها في ادعاء واحد."
+      },
+      {
+        "type": "paragraph",
+        "text": "هناك صعوبة أخرى هي فصل التجربة عن الإبلاغ عنها. فطلب الضغط على زر عند رؤية صورة يضيف الانتباه واتخاذ القرار والحركة إلى التجربة. وقد تعكس إشارة مرتبطة بهذه الاستجابة عملية الإبلاغ لا الوعي وحده. يستخدم الباحثون تصاميم متكاملة لمعالجة المشكلة، لكن لا يوجد قياس بسيط تماماً. لهذا تحتاج الادعاءات اللافتة إلى تكرار وتفسير حذر. ليس السؤال فقط أين يظهر النشاط، بل أي جانب من المهمة يفسره، وهل يصمد هذا التفسير عند استخدام نهج تجريبي مختلف."
+      },
+      {
+        "type": "heading",
+        "text": "المرونة العصبية: التغير ضمن حدود"
+      },
+      {
+        "type": "paragraph",
+        "text": "المرونة العصبية هي قدرة الجهاز العصبي على التغير مع النمو أو الخبرة أو الإصابة. يمكن لتعلم حركة أن يعدل طريقة عمل الدوائر، ويمكن للتأهيل أن يساعد في استعادة وظائف أو تطوير استراتيجيات تعويضية. لا يشترط التغير إعادة بناء الدماغ كله؛ فقد يشمل الوصلات وأنماط النشاط واستخدام المسارات الموجودة. المرونة أساس بيولوجي للتعلم، وليست وعداً بأن قوة الإرادة وحدها تستطيع عكس أي إصابة. [المصدر: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/post-stroke-rehabilitation.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يؤثر التوقيت ومكان الضرر وحجمه والعلاج وظروف الشخص في التعافي. وقد تدعم التغيرات اللدنة أنماطاً غير مرغوبة، مثل الألم المستمر أو العادات الراسخة. أما تولد العصبونات لدى البالغين فهو سؤال أضيق من المرونة. وقد حددت دراسة في Nature عام 2026 أدلة جزيئية على مجموعات خلوية مولدة للعصبونات في عينات من الحُصين البشري البالغ. وما تزال وفرتها ونضجها ومساهمتها الوظيفية بحاجة إلى دراسة دقيقة؛ فهذا ليس دليلاً على أن البالغين يستبدلون الدماغ كله بصورة اعتيادية. [المصدر: nature.com](https://www.nature.com/articles/s41586-026-10169-4)"
+      },
+      {
+        "type": "heading",
+        "text": "النوم عمل دماغي نشط"
+      },
+      {
+        "type": "paragraph",
+        "text": "يغير النوم نشاط الدماغ ولا يطفئه ببساطة. تتعاقب مراحل النوم غير المصحوب بحركات العين السريعة والنوم المصحوب بها خلال الليل، مع اختلافات كهربائية وعضلية وفسيولوجية. يزداد ضغط النوم مع طول اليقظة، بينما تساعد الأنظمة اليومية في مواءمة إيقاعات الجسم مع اليوم. يتفاعل المساران، ولذلك لا يتطابق الإرهاق دائماً مع سهولة النوم. يدعم النوم الانتباه والتعلم ووظائف أخرى، وقد تؤثر اضطراباته في أداء اليوم التالي. [المصدر: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تكون الأحلام حية كثيراً خلال نوم حركة العين السريعة، لكن تقارير الأحلام تحدث أيضاً خارجه. يبحث العلماء في روابط محتملة مع معالجة الذاكرة والعاطفة وبناء الدماغ التلقائي للتجربة. لا يوجد تفسير واحد يحسم وظيفة كل حلم، ولا قاموس علمي عالمي يحول كل صورة حلمية إلى رسالة خفية. أما التجربة الغريبة للوعي مع العجز المؤقت عن الحركة فلها سياق فسيولوجي يشرحه تقرير PRESDA عن شلل النوم. [PRESDA: شلل النوم](/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تواجه دراسة الأحلام مشكلة قياس خاصة بها. يعرف العلماء عادة ما حلم به الشخص من روايته بعد الاستيقاظ. وهذه الرواية أصبحت بالفعل ذكرى تتأثر بما احتُفظ به وما يمكن وصفه. يوفر تسجيل نشاط الدماغ أثناء النوم مصدراً آخر للأدلة، لكن مطابقته مع التفاصيل الخاصة للتجربة يظل صعباً. ويجب فصل وظيفة مقترحة للأحلام عن فائدة مثبتة للنوم. فالدليل على أن النوم يساعد التعلم لا يثبت بمفرده أن قصة حلم بعينها أدت ذلك العمل المفيد."
+      },
+      {
+        "type": "heading",
+        "text": "شيخوخة الدماغ ليست مرضاً بالضرورة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تتغير بعض القدرات المعرفية مع العمر، ومنها سرعة بعض العمليات وسهولة استرجاع معلومات معينة. وقد تبقى المعرفة والمهارات المألوفة قوية، مع اختلافات كبيرة بين الأفراد. الخرف ليس نتيجة حتمية للتقدم في السن؛ إنه تراجع شديد بما يكفي لتعطيل الحياة اليومية، وقد ينجم عن أمراض مختلفة. لا ينبغي التعامل مع نسيان عابر وفقدان تدريجي للاستقلالية باعتبارهما الظاهرة نفسها. [المصدر: nia.nih.gov](https://www.nia.nih.gov/health/brain-health/how-aging-brain-affects-thinking)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعتمد صحة الدماغ على بقية الجسم أيضاً. فقد تؤثر صحة الأوعية والنوم والقدرات الحسية والأدوية والظروف الاجتماعية في الإدراك. النشاط البدني وتدبير المشكلات الصحية جزءان معقولان من الرعاية العامة، لكن لا مكمل غذائي ولا لعبة ذهنية يضمنان الوقاية من الخرف. الارتباطات الرصدية قرائن مفيدة، لا برهان على أن عادة معينة سببت نتيجة محددة. الحفاظ على هذا التمييز ضروري كي لا تضلل الوعود الوقائية المبالغ فيها أسراً تواجه أصلاً قرارات صعبة. [المصدر: nia.nih.gov](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)"
+      },
+      {
+        "type": "heading",
+        "text": "عندما تضطرب الأنظمة العصبية"
+      },
+      {
+        "type": "paragraph",
+        "text": "تكشف الاضطرابات العصبية كيف تنتج الأعطال المختلفة عواقب مختلفة. تقطع السكتة الدماغية إمداد الدم أو تتضمن نزفاً، وقد تتلف الأنسجة سريعاً. وينطوي الصرع على استعداد مستمر لنوبات مرتبطة بنشاط دماغي غير طبيعي؛ ولا تعني نوبة منفردة دائماً وجود الصرع. يؤثر مرض باركنسون في الحركة، وقد يشمل النوم والمزاج ووظائف أخرى. ليست هذه أمثلة متبادلة لدماغ أصبح ضعيفاً، بل حالات ذات آليات ومسارات واحتياجات علاجية مختلفة. [المصدر: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures) [المصدر: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/parkinsons-disease)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يتضمن مرض ألزهايمر تغيرات متقدمة تشمل اضطرابات الأميلويد وتاو والخلل المشبكي وفقدان العصبونات. وهو سبب رئيسي للخرف، لكن للخرف أسباباً أخرى وقد تتداخل أمراض متعددة. وتتضمن الأمراض النفسية كذلك وظائف الدماغ المتفاعلة مع النمو والبيولوجيا والبيئة. لذلك لا يكفي اختزال الاكتئاب أو القلق أو معاناة إنسان إلى خلل كيميائي واحد. ويتناول تقريرنا عن تاريخ الطب مسيرة التقدم هذه والتفسيرات التي ما تزال غير مكتملة. [PRESDA: تاريخ الطب](/articles/history-future-of-medicine/) [المصدر: nia.nih.gov](https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف ينظر العلماء إلى الداخل؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجيب الأدوات المختلفة عن أسئلة مختلفة. يكشف التصوير بالرنين المغناطيسي البنية، ويقيس الرنين الوظيفي عادة تغيرات أكسجة الدم المرتبطة بالنشاط بدلاً من تسجيل كل عصبون مباشرة. ويسجل تخطيط كهربائية الدماغ النشاط عند فروة الرأس بدقة زمنية ممتازة وتحديد مكاني محدود. وتكشف المجاهر الخلايا والمشابك في أنسجة معدة للفحص. لا توفر أي أداة نافذة مطلقة على الأفكار. يجب تفسير النتائج وفق ما تقيسه الأداة والمهمة التجريبية والأشخاص أو الحيوانات المدروسة. [المصدر: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/neurological-diagnostic-tests-and-procedures)"
+      },
+      {
+        "type": "paragraph",
+        "text": "في عام 2024 أعاد باحثون بناء مليمتر مكعب من نسيج دماغ بشري باستخدام المجهر الإلكتروني والتحليل الحاسوبي، وكشفوا قرابة 150 مليون مشبك. جاءت العينة من نسيج أزيل خلال جراحة، لا من مسح دماغ إنسان حي بالكامل. يوضح تعقيدها حجم الإنجاز والمسافة المتبقية معاً. ترسم خريطة الاتصال العصبي الوصلات، لكن شرح نشاطها المتغير وتعديلها الكيميائي وصلتها بالسلوك يحتاج إلى أدلة إضافية. خريطة التوصيلات بداية، وليست سيرة ذاتية كاملة للعقل. [المصدر: nih.gov](https://www.nih.gov/news-events/nih-research-matters/study-reveals-unseen-details-human-brain-structure)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجمع التفسيرات الأقوى طرقاً مختلفة. قد يقترح التصوير علاقة، وتكشف الملاحظة السريرية أثر الإصابة، وتختبر تجربة مضبوطة آلية معينة. ولكل طريقة حدود: قد لا يمثل المتطوعون الجميع، وتلتقط النماذج الحيوانية أجزاء فقط من الحالات البشرية، وقد تتداخل الفروق الإحصائية بين المجموعات على مستوى الأفراد. تساعد العينات الكبيرة والتحليلات الشفافة والتكرارات المستقلة في فصل النتائج الموثوقة عن القصص الجذابة. في علوم الأعصاب لا تكون الصورة دليلاً إلا إذا رافقها شرح واضح لكيفية إنتاجها وما تستطيع إظهاره بالفعل. [PRESDA: التجارب على الحيوانات](/articles/animal-testing-hidden-cost-scientific-progress/)"
+      },
+      {
+        "type": "heading",
+        "text": "المستقبل: استعادة الوظائف بعيداً عن وعود الخيال العلمي"
+      },
+      {
+        "type": "paragraph",
+        "text": "تترجم واجهات الدماغ والحاسوب إشارات عصبية منتقاة إلى أوامر لأجهزة خارجية. وفي عام 2025 أظهرت دراسة في Nature Neuroscience توليد كلام متدفق من نشاط دماغ مشاركة مصابة بشلل شديد. هذا إنجاز مساعد مهم، وليس قراءة غير محدودة للأفكار ولا دليلاً على أن النظام يعمل بالقدر نفسه لدى الجميع. وتبقى الموثوقية الطويلة والتدريب ومخاطر الجراحة وإمكان الوصول والأداء خارج البحث أسئلة أساسية. [المصدر: nature.com](https://www.nature.com/articles/s41593-025-01905-6)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشمل المقاربات الأخرى التحفيز والدراسات الجزيئية والأطالس الخلوية ونماذج مختبرية تعيد إنتاج جوانب منتقاة من النمو العصبي. يساعد التحفيز العميق للدماغ بالفعل في علاج أعراض اضطرابات محددة، لكنه لا يصلح جميع أسبابها. ويمكن للنماذج وأدوات الذكاء الاصطناعي اكتشاف أنماط وتوجيه التجارب من دون أن تصبح نسخاً كاملة لإنسان. ومع تطور هذه الأدوات تصبح الموافقة والخصوصية والسيطرة على البيانات العصبية أولويات علمية واجتماعية، لا مسائل تؤجل إلى ما بعد وصول التقنية. [المصدر: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/deep-brain-stimulation-dbs)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تبقى الأسئلة الأعمق مفتوحة: كيف تستقر الذكريات داخل نسيج متغير؟ وكيف تصوغ الاختلافات البيولوجية حيوات الأفراد؟ وكيف تتعافى الشبكات المصابة؟ وكيف تدعم العمليات المادية التجربة؟ لكن عدم اليقين لا يلغي الدهشة. إنجاز الدماغ ليس احتواءه على مركز سحري مجهول، بل أن خلايا حية يدعمها جسم ويشكلها عالم تجعل الفهم ممكناً. تضيف كل تجربة دقيقة قطعة جديدة إلى هذا الفهم، بما في ذلك وصف أوضح لما لا نعرفه بعد."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NINDS: brain anatomy",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf"
+      },
+      {
+        "label": "Azevedo and colleagues, 2009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19226510/"
+      },
+      {
+        "label": "Herculano-Houzel: brain scaling",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK207181/"
+      },
+      {
+        "label": "NCBI: neuronal signalling",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10882/"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: finding the engram",
+        "url": "https://www.nature.com/articles/nrn4000"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: structural plasticity and memory",
+        "url": "https://www.nature.com/articles/nrn1301"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: intelligence differences",
+        "url": "https://www.nature.com/articles/nrn2793"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: emotion and the amygdala",
+        "url": "https://www.nature.com/articles/nrn2920"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: the nature of feelings",
+        "url": "https://www.nature.com/articles/nrn3403"
+      },
+      {
+        "label": "Nature: testing theories of consciousness",
+        "url": "https://www.nature.com/articles/s41586-025-08888-1"
+      },
+      {
+        "label": "NINDS: rehabilitation after stroke",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/post-stroke-rehabilitation.pdf"
+      },
+      {
+        "label": "Nature: adult human hippocampal neurogenesis",
+        "url": "https://www.nature.com/articles/s41586-026-10169-4"
+      },
+      {
+        "label": "NINDS: understanding sleep",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf"
+      },
+      {
+        "label": "NIA: aging and thinking",
+        "url": "https://www.nia.nih.gov/health/brain-health/how-aging-brain-affects-thinking"
+      },
+      {
+        "label": "NIA: cognitive health",
+        "url": "https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults"
+      },
+      {
+        "label": "NINDS: epilepsy",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures"
+      },
+      {
+        "label": "NINDS: Parkinson's disease",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/parkinsons-disease"
+      },
+      {
+        "label": "NIA: Alzheimer's disease",
+        "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet"
+      },
+      {
+        "label": "NINDS: neurological tests",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/neurological-diagnostic-tests-and-procedures"
+      },
+      {
+        "label": "NIH: human brain structure",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/study-reveals-unseen-details-human-brain-structure"
+      },
+      {
+        "label": "Nature Neuroscience: a speech neuroprosthesis",
+        "url": "https://www.nature.com/articles/s41593-025-01905-6"
+      },
+      {
+        "label": "NINDS: deep brain stimulation",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/deep-brain-stimulation-dbs"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/human-brain-most-complex-organ/",
+    "path": "/es/articles/human-brain-most-complex-organ/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "El cerebro humano: el órgano más complejo que conocemos",
+    "seoTitle": "El cerebro humano: memoria, conciencia y neurociencia",
+    "description": "Anatomía, 86.000 millones de neuronas, memoria, conciencia, sueño y neuroplasticidad: descubrimientos y preguntas abiertas sobre el cerebro.",
+    "excerpt": "Anatomía, 86.000 millones de neuronas, memoria, conciencia, sueño y neuroplasticidad: descubrimientos y preguntas abiertas sobre el cerebro.",
+    "headlineHighlights": {
+      "red": "El cerebro humano",
+      "gold": "el órgano más complejo"
+    },
+    "keywords": [
+      "El cerebro humano",
+      "el órgano más complejo"
+    ],
+    "searchIntent": "Anatomía, 86.000 millones de neuronas, memoria, conciencia, sueño y neuroplasticidad: descubrimientos y preguntas abiertas sobre el cerebro.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/brain-hero.png",
+      "alt": "Ilustración anatómica generada por IA para PRESDA de un cerebro humano rosado de perfil sobre fondo gris"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Antes de terminar esta frase, tu cerebro ya ha realizado algo extraordinario. La luz se ha convertido en actividad eléctrica, los signos en lenguaje y el lenguaje en significado. Quizá escuches una voz interior, recuerdes algo leído hace años o percibas un ruido en la habitación. No necesitas supervisar las células que intervienen. El órgano que realiza ese trabajo también está creando tu experiencia de observar lo que sucede."
+      },
+      {
+        "type": "paragraph",
+        "text": "El cerebro humano es el órgano central del sistema nervioso: coordina sensaciones, movimientos, regulación corporal y cognición. Llamarlo el órgano más complejo que conocemos expresa la magnitud de sus redes interactivas, no una competición científica con una puntuación universalmente aceptada. La neurociencia explica mucho sobre sus células y circuitos. Todavía no puede describir por completo cómo esos procesos producen un recuerdo infantil, una decisión difícil o la sensación de ser alguien."
+      },
+      {
+        "type": "heading",
+        "text": "Un paisaje vivo dentro del cráneo"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cráneo, unas membranas llamadas meninges y el líquido cefalorraquídeo protegen el cerebro. Su superficie plegada forma parte de los hemisferios cerebrales, que se comunican mediante vías como el cuerpo calloso. Los pliegues permiten alojar más superficie cortical dentro de la cabeza. La sustancia gris contiene numerosos cuerpos celulares y conexiones locales; la sustancia blanca incluye haces de axones, muchos recubiertos de mielina aislante. Son tejidos que interactúan, no departamentos separados de pensamiento y cableado. [Fuente: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las regiones frontales contribuyen a planificar, moverse y controlar la conducta. Las parietales integran información corporal y espacial; las temporales participan en audición, lenguaje y memoria; las occipitales son fundamentales para la visión. Estas etiquetas describen especializaciones, no territorios exclusivos. Interpretar una cara o seguir una conversación moviliza múltiples áreas. Un mapa de colores donde se ilumina una sola región simplifica una actividad que ya se está coordinando en el conjunto del cerebro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bajo los hemisferios, el cerebelo participa en coordinación, sincronización y aprendizaje, con funciones que van más allá del movimiento. El tronco encefálico ayuda a regular funciones esenciales como la respiración y conecta el encéfalo con la médula espinal. Entre las estructuras profundas están el tálamo, implicado en el intercambio de información; el hipotálamo, que ayuda a regular estados corporales; y el hipocampo, importante para formar ciertos recuerdos. No hay un pequeño observador sentado en el centro. El control surge de las relaciones entre sistemas. [Fuente: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cerebro también depende de intercambios constantes con el cuerpo. La sangre aporta oxígeno y nutrientes, mientras barreras especializadas regulan qué sustancias pasan de la circulación al tejido nervioso. Esa protección es selectiva, no absoluta. Las señales hormonales, los procesos inmunitarios y la información sensorial influyen continuamente en su funcionamiento. Incluso concentrarse en un problema ocurre dentro de esta fisiología más amplia. La imagen de un cerebro flotando solo en un recipiente resulta útil para la ficción, pero es un mal punto de partida para entender un órgano cuyo trabajo normal es inseparable de un cuerpo vivo."
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué significan realmente 86.000 millones de neuronas?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La conocida estimación de unos 86.000 millones de neuronas procede de una investigación publicada en 2009 por Frederico Azevedo, Suzana Herculano-Houzel y sus colaboradores. Su método contaba núcleos celulares en tejido procesado y distinguía los neuronales de los no neuronales. El resultado era una media de una muestra de cerebros masculinos adultos, no un censo de cada ser humano. Importan la variación individual, el muestreo y la medición. Es una estimación útil, no una constante biológica ni una medida de la inteligencia personal. [Fuente: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/19226510/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las neuronas también difieren enormemente. Algunas envían proyecciones largas; otras influyen en circuitos cercanos. La mayoría de las neuronas del encéfalo está en el cerebelo, lo que recuerda que contar células no equivale a medir pensamiento consciente. Las células no neuronales son igualmente indispensables: los astrocitos regulan el entorno celular, los oligodendrocitos forman mielina en el sistema nervioso central y la microglía participa en vigilancia inmunitaria y mantenimiento del tejido. Imaginar neuronas protagonistas rodeadas de material de apoyo pasivo deja fuera buena parte de la biología. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK207181/)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo las células entablan una conversación"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una neurona mantiene diferencias eléctricas a ambos lados de su membrana. Cuando se alcanza un umbral, un potencial de acción puede recorrer el axón. En muchas sinapsis, esto provoca la liberación de neurotransmisores que se unen a receptores de otra célula. La receptora integra numerosas influencias: algunas favorecen su actividad y otras la frenan. También existen sinapsis eléctricas. Un pensamiento no es una chispa que viaja por un único cable, sino patrones cambiantes en redes que operan a diferentes escalas temporales. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK10882/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los nombres químicos pueden confundir cuando se convierten en etiquetas de personalidad. La dopamina no es simplemente placer, la serotonina no es simplemente felicidad y una emoción no se deduce de la cantidad de un solo transmisor. Los efectos dependen de receptores, vías, tiempos y contexto. Del mismo modo, el cerebro no es un ordenador con un compartimento sin usar esperando a activarse. Distintas tareas requieren patrones diferentes, pero la afirmación popular de que normalmente utilizamos solo el diez por ciento carece de una base neurocientífica sólida."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las señales necesitan coordinación. La excitación sin una inhibición adecuada no haría más poderoso el pensamiento: una regulación equilibrada resulta esencial para procesar de forma estable. La respuesta neuronal depende en parte de las señales previas, de las otras células activas y del estado de la red. Por eso se estudian tiempos y relaciones además de conexiones anatómicas. Compararlo con una ciudad puede ayudar: conocer sus carreteras no revela qué viajes se realizan, por qué se eligieron ni cómo cambia el tráfico. Toda metáfora tiene límites, pero esta permite comprender una distinción importante."
+      },
+      {
+        "type": "heading",
+        "text": "La memoria reconstruye, no graba"
+      },
+      {
+        "type": "paragraph",
+        "text": "Recordar unas vacaciones, conocer el significado de una palabra y montar en bicicleta son logros diferentes. La memoria episódica se refiere a acontecimientos, la semántica a conocimientos y las habilidades dependen de otros sistemas de aprendizaje. El hipocampo y las estructuras próximas son especialmente importantes para formar nuevos recuerdos de hechos y sucesos, mientras redes corticales distribuidas contribuyen a representarlos. Recordar no equivale a recuperar un vídeo intacto. La atención, el conocimiento posterior y las circunstancias del recuerdo pueden influir en lo que vuelve a la mente."
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación sobre huellas de memoria, o engramas, estudia poblaciones celulares y cambios asociados al aprendizaje. En roedores, los científicos pueden marcar células activas durante una experiencia y manipularlas para comprobar su contribución a una conducta posterior. Estos experimentos aportan pruebas causales más sólidas que observar una región activada. No demuestran que sea posible descargar la autobiografía de alguien. Medir memoria en un animal de laboratorio y comprender un recuerdo humano narrado con riqueza son problemas relacionados, no intercambiables. [Fuente: nature.com](https://www.nature.com/articles/nrn4000)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aprender suele modificar la fuerza y la estructura de las sinapsis. Algunas conexiones se vuelven más eficaces y otras menos, mientras también importan la excitabilidad celular y la organización global de la red. Esa flexibilidad explica cómo la experiencia deja una huella biológica sin exigir una neurona distinta para cada momento recordado. El olvido puede reflejar dificultades de acceso, además de pérdida o alteración de información. La pregunta difícil es cómo un sistema que cambia continuamente conserva ciertos recuerdos durante décadas sin perder la capacidad de aprender. [Fuente: nature.com](https://www.nature.com/articles/nrn1301)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los errores cotidianos vuelven tangibles estas diferencias. Olvidar por qué entramos en una habitación no significa que haya fallado todo un sistema de memoria. Una atención dividida puede impedir una codificación sólida; una pista inadecuada puede dificultar la recuperación. Encontrarse repetidamente con un dato puede generar familiaridad sin permitir explicarlo. Aprender exige, por tanto, algo más que exposición. El reto científico consiste en conectar conducta y mecanismos sin convertir un despiste común en diagnóstico ni una investigación de laboratorio en técnica universal de recuerdo perfecto. La memoria es adaptable, valiosa y necesariamente selectiva."
+      },
+      {
+        "type": "heading",
+        "text": "La inteligencia no tiene una dirección única"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación sobre inteligencia examina capacidades como razonar, aprender y resolver problemas nuevos. Los estudios cerebrales implican redes distribuidas, incluidas conexiones entre regiones frontales y parietales. Ninguna exploración revela todo el potencial intelectual individual. Las pruebas miden desempeños concretos en condiciones concretas; una correlación entre características cerebrales y puntuaciones no establece una causa simple. Educación, salud, oportunidades y experiencia deben formar parte de la interpretación. [Fuente: nature.com](https://www.nature.com/articles/nrn2793)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La inteligencia tampoco equivale a creatividad, juicio, compasión o experiencia práctica. Una persona puede tener dificultades en una tarea y destacar en otra. La división entre personas lógicas de cerebro izquierdo y creativas de cerebro derecho transforma algunas asimetrías funcionales reales en una teoría completa de personalidad. Ambos hemisferios cooperan en la vida cotidiana. Tratar una imagen cerebral coloreada como destino oculta precisamente lo que estudia la neurociencia: un sistema biológico que se desarrolla mediante una interacción sostenida con el mundo."
+      },
+      {
+        "type": "heading",
+        "text": "Las emociones conectan el significado con el cuerpo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una emoción es más que un sentimiento situado en una pequeña estructura. Puede incluir cambios en atención, estado corporal, preparación para actuar, memoria e interpretación consciente. La amígdala ayuda a evaluar información biológicamente significativa y participa en el aprendizaje, pero llamarla botón del miedo resulta engañoso. Interviene en procesos de significado positivo y negativo, y su actividad debe comprenderse dentro de redes más amplias. [Fuente: nature.com](https://www.nature.com/articles/nrn2920)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Razón y emoción no son, por tanto, habitantes rivales del cráneo. Las señales corporales y las consecuencias recordadas contribuyen a decidir qué importa. El contexto puede cambiar el significado de un corazón acelerado: correr, sentir ansiedad o estar emocionado no son lo mismo. Las teorías discrepan sobre el origen de las categorías emocionales y el peso de circuitos compartidos, aprendizaje e interpretación. Reconocer ese debate evita presentar un esquema cerebral simplificado como explicación completa del amor, el duelo o la ira. [Fuente: nature.com](https://www.nature.com/articles/nrn3403)"
+      },
+      {
+        "type": "heading",
+        "text": "La conciencia: la pregunta que sigue abierta"
+      },
+      {
+        "type": "paragraph",
+        "text": "La conciencia incluye la experiencia subjetiva, como ver colores o sentir dolor. Los científicos investigan cambios asociados al sueño, la anestesia, las lesiones y la percepción consciente. Pueden comprobar qué señales acompañan una experiencia y qué intervenciones la modifican. Pero identificar un correlato neuronal no explica automáticamente por qué esa actividad se siente de alguna manera desde dentro. Esa distancia constituye un problema de investigación, no una prueba a favor de una explicación sobrenatural o tecnológica preferida."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las teorías del espacio de trabajo neuronal global destacan que la información se vuelve ampliamente accesible entre sistemas de procesamiento. La teoría de la información integrada propone otra explicación, centrada en la organización causal e informacional del sistema. Una gran colaboración entre perspectivas rivales, publicada en Nature en 2025, probó predicciones de ambas y cuestionó expectativas importantes de cada una. No estableció un vencedor definitivo. Parte de su valor reside en hacer comprobable el desacuerdo, con predicciones formuladas antes de conocer los resultados. [Fuente: nature.com](https://www.nature.com/articles/s41586-025-08888-1)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Esta incertidumbre tiene consecuencias prácticas. Al evaluar a alguien incapaz de responder, los médicos deben distinguir ausencia de conducta externa y ausencia de conciencia. También se debate qué pruebas justificarían atribuir conciencia a un animal o un sistema artificial. Ni el lenguaje fluido ni un complejo diagrama de conexiones resuelven por sí solos la cuestión. La neurociencia se fortalece cuando distingue observación, interpretación y posición filosófica, en lugar de permitir que se confundan."
+      },
+      {
+        "type": "paragraph",
+        "text": "Otra dificultad consiste en separar la experiencia del acto de comunicarla. Pedir que alguien pulse un botón cuando ve una imagen introduce atención, decisiones y movimiento en el experimento. Una señal relacionada con la respuesta podría reflejar el informe, no solo la conciencia. Se emplean diseños complementarios para abordar el problema, pero no existe una medición perfectamente sencilla. Por eso las afirmaciones llamativas necesitan réplica e interpretación cuidadosa. No basta preguntar dónde aparece actividad: hay que establecer qué parte de la tarea explica y si la explicación resiste otro método experimental."
+      },
+      {
+        "type": "heading",
+        "text": "Neuroplasticidad: cambio con límites"
+      },
+      {
+        "type": "paragraph",
+        "text": "La neuroplasticidad es la capacidad del sistema nervioso de cambiar con el desarrollo, la experiencia o una lesión. Aprender un movimiento puede modificar el funcionamiento de circuitos; la rehabilitación puede ayudar a recuperar funciones o desarrollar estrategias compensatorias. No hace falta reconstruir todo el cerebro. Pueden cambiar conexiones, patrones de actividad y uso de vías existentes. La plasticidad constituye una base biológica del aprendizaje, no una promesa de que la determinación por sí sola pueda revertir cualquier lesión. [Fuente: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/post-stroke-rehabilitation.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El momento, la localización y extensión del daño, el tratamiento y las circunstancias personales influyen en la recuperación. Los cambios plásticos también pueden sostener patrones indeseados, como dolor persistente o hábitos arraigados. La neurogénesis adulta, producción de nuevas neuronas, es una cuestión más específica. Un estudio de Nature de 2026 identificó indicios moleculares de poblaciones celulares neurogénicas en muestras de hipocampo humano adulto. Su abundancia, maduración y contribución funcional todavía requieren investigación; no demuestra que los adultos sustituyan habitualmente todo el cerebro. [Fuente: nature.com](https://www.nature.com/articles/s41586-026-10169-4)"
+      },
+      {
+        "type": "heading",
+        "text": "Dormir es trabajo cerebral activo"
+      },
+      {
+        "type": "paragraph",
+        "text": "El sueño cambia la actividad cerebral en lugar de apagarla. A lo largo de la noche se alternan fases no REM y REM, con diferencias eléctricas, musculares y fisiológicas. La presión de sueño aumenta con el tiempo despierto, mientras los sistemas circadianos ayudan a sincronizar los ritmos corporales con el día. Ambos procesos interactúan, por lo que agotamiento y facilidad para dormir no siempre coinciden. El sueño sostiene atención, aprendizaje y otras funciones, y sus alteraciones pueden afectar al rendimiento del día siguiente. [Fuente: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los sueños suelen ser vívidos durante la fase REM, pero también se comunican en otras fases. Se investigan posibles vínculos con procesamiento de recuerdos, emociones y construcción espontánea de experiencias. Ninguna explicación única describe de forma concluyente todos los sueños, y no existe un diccionario universal validado que traduzca cada imagen en un mensaje oculto. La extraña experiencia de estar consciente sin poder moverse tiene un contexto fisiológico que explicamos en nuestro reportaje sobre parálisis del sueño. [PRESDA: parálisis del sueño](/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación onírica tiene su propio problema de medición. Normalmente se conoce lo soñado mediante un relato después de despertar. Ese relato ya es un recuerdo, condicionado por lo retenido y lo que se puede describir. Registrar actividad durante el sueño añade información, pero relacionarla con detalles privados sigue siendo difícil. También hay que distinguir una función propuesta de los sueños de un beneficio demostrado del sueño como estado. Que dormir facilite el aprendizaje no demuestra que una narración onírica concreta haya realizado ese trabajo útil."
+      },
+      {
+        "type": "heading",
+        "text": "Un cerebro que envejece no es necesariamente un cerebro enfermo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Algunas capacidades cognitivas cambian con la edad, como la velocidad de ciertas operaciones o la facilidad para recuperar información. Los conocimientos y habilidades familiares pueden mantenerse sólidos, con diferencias importantes entre personas. La demencia no es una consecuencia inevitable de envejecer. Describe un deterioro suficientemente intenso para interferir en la vida diaria y puede resultar de enfermedades distintas. Un olvido ocasional y una pérdida progresiva de independencia no deben tratarse como el mismo fenómeno. [Fuente: nia.nih.gov](https://www.nia.nih.gov/health/brain-health/how-aging-brain-affects-thinking)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La salud cerebral también depende del resto del cuerpo. Salud vascular, sueño, función sensorial, medicamentos y circunstancias sociales pueden influir en la cognición. La actividad física y el control de problemas de salud son componentes razonables del cuidado, pero ningún suplemento o rompecabezas garantiza protección frente a la demencia. Las asociaciones observacionales son pistas útiles, no pruebas de que un hábito causara un resultado. Mantener esa incertidumbre evita que promesas preventivas exageradas engañen a familias que ya afrontan decisiones difíciles. [Fuente: nia.nih.gov](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)"
+      },
+      {
+        "type": "heading",
+        "text": "Cuando se alteran los sistemas neuronales"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los trastornos neurológicos muestran cómo fallos diferentes producen consecuencias diferentes. Un ictus interrumpe el suministro sanguíneo o implica una hemorragia, con posible daño rápido del tejido. La epilepsia supone una predisposición persistente a crisis asociadas con actividad cerebral anormal; una crisis aislada no siempre significa epilepsia. El párkinson afecta al movimiento y puede implicar sueño, estado de ánimo y otras funciones. No son ejemplos intercambiables de un cerebro debilitado: tienen mecanismos, evolución y necesidades terapéuticas distintos. [Fuente: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures) [Fuente: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/parkinsons-disease)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La enfermedad de Alzheimer implica cambios progresivos que incluyen patología amiloide y tau, disfunción sináptica y pérdida neuronal. Es una causa importante de demencia, pero existen otras y pueden coexistir varias patologías. Las enfermedades mentales también involucran función cerebral en interacción con desarrollo, biología y ambiente. Reducir depresión, ansiedad o sufrimiento a un único desequilibrio químico resulta insuficiente. Nuestro recorrido por la historia de la medicina examina estos avances y las explicaciones todavía incompletas. [PRESDA: historia de la medicina](/articles/history-future-of-medicine/) [Fuente: nia.nih.gov](https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Cómo observan los científicos el interior?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cada herramienta responde a preguntas distintas. La resonancia magnética muestra anatomía; la resonancia funcional suele medir cambios de oxigenación sanguínea asociados a actividad, no registrar directamente cada neurona. El EEG capta actividad eléctrica en el cuero cabelludo con gran precisión temporal y localización limitada. La microscopía revela células y sinapsis en tejidos preparados. Ninguna abre una ventana sin restricciones a los pensamientos. Los resultados deben interpretarse según lo que mide el instrumento, la tarea experimental y las personas o animales estudiados. [Fuente: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/neurological-diagnostic-tests-and-procedures)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2024 se reconstruyó un milímetro cúbico de tejido cerebral humano mediante microscopía electrónica y análisis computacional, revelando casi 150 millones de sinapsis. La muestra procedía de tejido retirado durante una operación, no del escaneo de todo un cerebro vivo. Su complejidad muestra tanto el logro como el camino pendiente. Un conectoma cartografía conexiones; explicar su actividad cambiante, modulación química y relación con la conducta exige pruebas adicionales. Un mapa de cableado es un comienzo, no la biografía completa de una mente. [Fuente: nih.gov](https://www.nih.gov/news-events/nih-research-matters/study-reveals-unseen-details-human-brain-structure)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las explicaciones más sólidas reúnen métodos. Una exploración puede sugerir una relación, una observación clínica mostrar las consecuencias de una lesión y un experimento controlado probar un mecanismo. Todos tienen limitaciones: los voluntarios quizá no representen a todos, los modelos animales solo reflejan parte de las condiciones humanas y las diferencias estadísticas entre grupos pueden solaparse a nivel individual. Muestras grandes, análisis transparentes y réplica independiente ayudan a separar hallazgos fiables de relatos atractivos. Una imagen solo es evidencia si se explica cómo se produjo y qué puede mostrar legítimamente. [PRESDA: experimentación animal](/articles/animal-testing-hidden-cost-scientific-progress/)"
+      },
+      {
+        "type": "heading",
+        "text": "El futuro: restaurar funciones sin vender ciencia ficción"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las interfaces cerebro-ordenador traducen señales neuronales seleccionadas en órdenes para dispositivos externos. En 2025, un estudio de Nature Neuroscience demostró síntesis de voz en continuo a partir de actividad cerebral en una participante con parálisis grave. Es un avance asistencial importante, no lectura ilimitada de la mente ni prueba de que funcione igual para todos. Fiabilidad prolongada, entrenamiento, riesgos quirúrgicos, acceso y rendimiento fuera de la investigación siguen siendo cuestiones esenciales. [Fuente: nature.com](https://www.nature.com/articles/s41593-025-01905-6)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Otras aproximaciones incluyen estimulación, estudios moleculares, atlas celulares y modelos de laboratorio que reproducen ciertos aspectos del desarrollo neural. La estimulación cerebral profunda ya ayuda a tratar síntomas de algunos trastornos, pero no repara todas las causas subyacentes. Los modelos y la IA pueden detectar patrones y orientar experimentos sin convertirse en réplicas completas de una persona. Con su avance, consentimiento, privacidad y control de datos neuronales se vuelven prioridades científicas y sociales, no asuntos para aplazar hasta que llegue la tecnología. [Fuente: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/deep-brain-stimulation-dbs)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Siguen abiertas las preguntas más profundas: cómo permanecen estables los recuerdos en tejidos cambiantes, cómo moldean las diferencias biológicas las vidas individuales, cómo se recuperan las redes dañadas y cómo los procesos físicos sostienen la experiencia. La incertidumbre no tiene por qué reducir el asombro. El logro cerebral no consiste en contener un centro mágico inexplicado. Consiste en que células vivas, sostenidas por un cuerpo y moldeadas por el mundo, hacen posible comprender. Cada experimento riguroso aporta otra pieza, incluida una descripción más clara de lo que todavía desconocemos."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NINDS: brain anatomy",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf"
+      },
+      {
+        "label": "Azevedo and colleagues, 2009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19226510/"
+      },
+      {
+        "label": "Herculano-Houzel: brain scaling",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK207181/"
+      },
+      {
+        "label": "NCBI: neuronal signalling",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10882/"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: finding the engram",
+        "url": "https://www.nature.com/articles/nrn4000"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: structural plasticity and memory",
+        "url": "https://www.nature.com/articles/nrn1301"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: intelligence differences",
+        "url": "https://www.nature.com/articles/nrn2793"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: emotion and the amygdala",
+        "url": "https://www.nature.com/articles/nrn2920"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: the nature of feelings",
+        "url": "https://www.nature.com/articles/nrn3403"
+      },
+      {
+        "label": "Nature: testing theories of consciousness",
+        "url": "https://www.nature.com/articles/s41586-025-08888-1"
+      },
+      {
+        "label": "NINDS: rehabilitation after stroke",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/post-stroke-rehabilitation.pdf"
+      },
+      {
+        "label": "Nature: adult human hippocampal neurogenesis",
+        "url": "https://www.nature.com/articles/s41586-026-10169-4"
+      },
+      {
+        "label": "NINDS: understanding sleep",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf"
+      },
+      {
+        "label": "NIA: aging and thinking",
+        "url": "https://www.nia.nih.gov/health/brain-health/how-aging-brain-affects-thinking"
+      },
+      {
+        "label": "NIA: cognitive health",
+        "url": "https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults"
+      },
+      {
+        "label": "NINDS: epilepsy",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures"
+      },
+      {
+        "label": "NINDS: Parkinson's disease",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/parkinsons-disease"
+      },
+      {
+        "label": "NIA: Alzheimer's disease",
+        "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet"
+      },
+      {
+        "label": "NINDS: neurological tests",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/neurological-diagnostic-tests-and-procedures"
+      },
+      {
+        "label": "NIH: human brain structure",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/study-reveals-unseen-details-human-brain-structure"
+      },
+      {
+        "label": "Nature Neuroscience: a speech neuroprosthesis",
+        "url": "https://www.nature.com/articles/s41593-025-01905-6"
+      },
+      {
+        "label": "NINDS: deep brain stimulation",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/deep-brain-stimulation-dbs"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/human-brain-most-complex-organ/",
+    "path": "/fr/articles/human-brain-most-complex-organ/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "Le cerveau humain : l’organe le plus complexe que nous connaissions",
+    "seoTitle": "Le cerveau humain : mémoire, conscience et neurosciences",
+    "description": "Anatomie, 86 milliards de neurones, mémoire, conscience, sommeil et neuroplasticité : explorez les découvertes et les mystères du cerveau.",
+    "excerpt": "Anatomie, 86 milliards de neurones, mémoire, conscience, sommeil et neuroplasticité : explorez les découvertes et les mystères du cerveau.",
+    "headlineHighlights": {
+      "red": "Le cerveau humain",
+      "gold": "le plus complexe"
+    },
+    "keywords": [
+      "Le cerveau humain",
+      "le plus complexe"
+    ],
+    "searchIntent": "Anatomie, 86 milliards de neurones, mémoire, conscience, sommeil et neuroplasticité : explorez les découvertes et les mystères du cerveau.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/brain-hero.png",
+      "alt": "Illustration anatomique générée par IA pour PRESDA : cerveau humain rose vu de profil sur fond gris"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Avant même la fin de cette phrase, votre cerveau a accompli quelque chose d’extraordinaire. La lumière est devenue activité électrique, les signes sont devenus langage et le langage a pris un sens. Une voix intérieure accompagne peut-être votre lecture, un souvenir ancien revient ou un bruit attire votre attention. Vous n’avez pas à diriger les cellules engagées dans ce travail. L’organe qui le réalise produit aussi votre expérience consciente de ce qui se passe."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le cerveau humain est l’organe central du système nerveux. Il coordonne les sensations, les mouvements, la régulation du corps et la cognition. Le qualifier d’organe le plus complexe que nous connaissions traduit l’ampleur de ses réseaux en interaction, plutôt qu’un classement scientifique fondé sur un critère universel. Les neurosciences expliquent beaucoup de choses sur ses cellules et ses circuits. Elles ne savent pas encore décrire entièrement comment ces processus font naître un souvenir d’enfance, une décision difficile ou le sentiment d’être soi."
+      },
+      {
+        "type": "heading",
+        "text": "Un paysage vivant à l’intérieur du crâne"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le crâne, des membranes appelées méninges et le liquide cérébrospinal protègent le cerveau. Sa surface plissée appartient au cerveau antérieur, dont les deux hémisphères communiquent notamment par le corps calleux. Les plis permettent de loger une plus grande surface corticale dans la tête. La substance grise comprend de nombreux corps cellulaires et connexions locales ; la substance blanche contient des faisceaux d’axones, souvent enveloppés de myéline isolante. Ces tissus fonctionnent ensemble : ce ne sont pas deux services indépendants consacrés à la pensée et au câblage. [Source: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les régions frontales contribuent à la planification, aux mouvements et au contrôle du comportement. Les régions pariétales intègrent des informations corporelles et spatiales ; les régions temporales participent à l’audition, au langage et à la mémoire ; les régions occipitales jouent un rôle majeur dans la vision. Ces désignations indiquent toutefois des spécialisations, pas des territoires exclusifs. Reconnaître un visage ou suivre une conversation mobilise plusieurs régions. Une carte colorée où une seule zone s’allume simplifie une activité déjà coordonnée à l’échelle du cerveau."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sous les hémisphères, le cervelet participe à la coordination, au rythme des actions et à l’apprentissage, avec des fonctions dépassant le mouvement. Le tronc cérébral contribue à des fonctions vitales comme la respiration et relie le cerveau à la moelle épinière. Parmi les structures profondes figurent le thalamus, impliqué dans les échanges d’informations, l’hypothalamus, qui participe à la régulation du corps, et l’hippocampe, important pour former certains souvenirs. Aucun observateur miniature ne siège au centre : le contrôle résulte des relations entre systèmes. [Source: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le cerveau dépend aussi d’échanges continus avec le corps. Le sang apporte oxygène et nutriments, tandis que des barrières spécialisées régulent le passage de substances vers les tissus nerveux. Cette protection est sélective, jamais absolue. Signaux hormonaux, processus immunitaires et informations sensorielles influencent constamment son fonctionnement. Même une activité aussi intérieure que réfléchir à un problème s’inscrit dans cette physiologie. Le cerveau flottant seul dans un bocal constitue une image de fiction efficace, mais un mauvais point de départ pour comprendre un organe dont le fonctionnement normal reste indissociable du corps vivant."
+      },
+      {
+        "type": "heading",
+        "text": "Que signifie le chiffre de 86 milliards de neurones ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’estimation souvent citée d’environ 86 milliards de neurones provient d’une étude publiée en 2009 par Frederico Azevedo, Suzana Herculano-Houzel et leurs collègues. Leur méthode comptait les noyaux cellulaires dans des tissus préparés et distinguait les noyaux neuronaux des autres. Il s’agissait d’une moyenne obtenue sur un échantillon de cerveaux masculins adultes, pas d’un recensement de tous les humains. Variations individuelles, échantillonnage et mesures comptent. Ce nombre constitue un repère utile, ni une constante biologique ni une mesure de l’intelligence individuelle. [Source: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/19226510/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les neurones diffèrent aussi considérablement entre eux. Certains possèdent de longues projections ; d’autres influencent des circuits proches. La majorité des neurones du cerveau se trouve dans le cervelet, ce qui rappelle que leur nombre ne se confond pas avec la pensée consciente. Les cellules non neuronales sont également indispensables : les astrocytes régulent l’environnement cellulaire, les oligodendrocytes fabriquent la myéline du système nerveux central et la microglie participe à la surveillance immunitaire et à l’entretien des tissus. Imaginer les neurones entourés d’un simple matériau de soutien passif laisse échapper une grande part de cette biologie. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK207181/)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment les cellules communiquent"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un neurone maintient des différences électriques de part et d’autre de sa membrane. Lorsqu’un seuil est atteint, un potentiel d’action peut parcourir son axone. Dans de nombreuses synapses, cela provoque la libération de neurotransmetteurs qui se fixent sur les récepteurs d’une autre cellule. Celle-ci intègre de multiples influences, certaines favorisant son activité, d’autres la freinant. Il existe aussi des synapses électriques. Une pensée n’est donc pas une étincelle circulant sur un fil unique, mais une configuration changeante de réseaux fonctionnant à différentes échelles de temps. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK10882/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les noms des molécules deviennent trompeurs lorsqu’ils servent d’étiquettes psychologiques. La dopamine n’est pas simplement le plaisir, la sérotonine n’est pas simplement le bonheur et une émotion ne se déduit pas de la quantité d’un seul neurotransmetteur. Les effets dépendent des récepteurs, des circuits, du moment et du contexte. Le cerveau n’est pas davantage un ordinateur doté d’un compartiment inutilisé à activer. Les tâches mobilisent des configurations différentes, mais l’idée selon laquelle nous n’utilisons ordinairement que dix pour cent de notre cerveau ne repose pas sur des données neuroscientifiques solides."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les signaux ont également besoin d’être coordonnés. Une excitation privée d’inhibition adaptée ne rendrait pas la pensée plus puissante : la stabilité du traitement exige une régulation équilibrée. La réponse d’un neurone dépend notamment des signaux précédents, des autres cellules actives et de l’état du réseau. Les chercheurs étudient donc les relations temporelles autant que l’anatomie. Une comparaison avec une ville peut aider : connaître ses routes ne révèle pas quels trajets sont effectués, pourquoi ils sont choisis ou comment la circulation évolue. Toute métaphore a ses limites, mais celle-ci souligne une distinction essentielle."
+      },
+      {
+        "type": "heading",
+        "text": "La mémoire reconstruit, elle n’enregistre pas simplement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Se souvenir de vacances, connaître le sens d’un mot et faire du vélo sont des capacités différentes. La mémoire épisodique concerne les événements, la mémoire sémantique les connaissances, tandis que les savoir-faire mobilisent d’autres systèmes d’apprentissage. L’hippocampe et les structures voisines sont particulièrement importants pour former de nouveaux souvenirs de faits et d’événements ; des réseaux corticaux distribués contribuent à leur représentation. Se rappeler n’équivaut pas à récupérer une vidéo intacte. L’attention, les connaissances acquises ensuite et les circonstances du rappel peuvent modifier ce qui revient à l’esprit."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’étude des traces mnésiques, ou engrammes, porte sur les populations cellulaires et les changements associés à l’apprentissage. Chez les rongeurs, les chercheurs peuvent marquer des cellules actives pendant une expérience puis les manipuler pour tester leur contribution au comportement ultérieur. Ces expériences apportent des arguments causaux plus forts que la simple observation d’une région activée. Elles ne montrent pas que l’on sait télécharger l’autobiographie d’une personne. Mesurer une mémoire en laboratoire chez l’animal et comprendre un souvenir humain richement raconté sont des problèmes liés, mais différents. [Source: nature.com](https://www.nature.com/articles/nrn4000)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’apprentissage modifie souvent la force et la structure des synapses. Certaines connexions deviennent plus efficaces, d’autres moins, tandis que l’excitabilité des cellules et l’organisation générale des réseaux comptent également. Cette souplesse explique comment l’expérience laisse une trace biologique sans exiger un neurone distinct pour chaque instant mémorisé. L’oubli peut correspondre à un défaut d’accès autant qu’à une perte ou une modification de l’information. Reste une question difficile : comment un système qui change continuellement conserve-t-il certains souvenirs pendant des décennies tout en continuant d’apprendre ? [Source: nature.com](https://www.nature.com/articles/nrn1301)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les petits oublis quotidiens rendent ces distinctions concrètes. Oublier pourquoi on est entré dans une pièce ne signifie pas qu’un système entier a cessé de fonctionner. Une attention partagée peut empêcher un encodage solide ; un indice inadapté peut compliquer la récupération. Rencontrer souvent une information crée parfois de la familiarité sans permettre de l’expliquer. Apprendre demande donc davantage qu’une exposition répétée. Le défi scientifique consiste à relier comportement et mécanismes sans transformer une distraction ordinaire en diagnostic, ni une découverte de laboratoire en recette universelle pour une mémoire parfaite. La mémoire demeure adaptable, précieuse et sélective."
+      },
+      {
+        "type": "heading",
+        "text": "L’intelligence n’a pas une adresse unique"
+      },
+      {
+        "type": "paragraph",
+        "text": "La recherche sur l’intelligence examine notamment le raisonnement, l’apprentissage et la résolution de problèmes nouveaux. Les études cérébrales impliquent des réseaux distribués, dont les connexions entre régions frontales et pariétales. Aucun examen ne révèle tout le potentiel intellectuel d’une personne. Les tests mesurent certaines performances dans certaines conditions ; une corrélation entre caractéristiques cérébrales et scores n’établit pas une cause simple. L’éducation, la santé, les possibilités offertes et l’expérience doivent rester présentes dans l’interprétation. [Source: nature.com](https://www.nature.com/articles/nrn2793)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’intelligence ne se confond pas non plus avec la créativité, le jugement, la compassion ou l’expertise pratique. Une personne peut rencontrer des difficultés dans une tâche et exceller dans une autre. Opposer des individus logiques utilisant le cerveau gauche à des créatifs utilisant le cerveau droit transforme certaines asymétries réelles en théorie générale de la personnalité. Les deux hémisphères coopèrent dans la vie courante. Faire d’une image cérébrale un destin masque précisément ce que les neurosciences étudient : un système biologique qui se développe au contact durable du monde."
+      },
+      {
+        "type": "heading",
+        "text": "Les émotions relient le sens au corps"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une émotion ne se réduit pas à une sensation localisée dans une petite structure. Elle peut comprendre des changements d’attention, d’état corporel, de préparation à l’action, de mémoire et d’interprétation consciente. L’amygdale contribue à évaluer les informations biologiquement importantes et participe à l’apprentissage, mais la présenter comme un bouton de la peur est trompeur. Elle intervient aussi dans des processus de signification positive et doit être comprise au sein de réseaux plus vastes. [Source: nature.com](https://www.nature.com/articles/nrn2920)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La raison et l’émotion ne sont donc pas deux occupants rivaux du crâne. Les signaux corporels et les conséquences mémorisées orientent les décisions sur ce qui importe. Selon le contexte, un cœur accéléré peut accompagner la course, l’inquiétude ou l’enthousiasme. Les théories divergent sur l’origine des catégories émotionnelles et sur la part des circuits partagés, de l’apprentissage et de l’interprétation. Reconnaître ce débat évite de présenter un schéma cérébral simplifié comme une explication complète de l’amour, du deuil ou de la colère. [Source: nature.com](https://www.nature.com/articles/nrn3403)"
+      },
+      {
+        "type": "heading",
+        "text": "La conscience, une question encore ouverte"
+      },
+      {
+        "type": "paragraph",
+        "text": "La conscience comprend l’expérience subjective, comme voir une couleur ou ressentir une douleur. Les scientifiques étudient les changements associés au sommeil, à l’anesthésie, aux lésions et à la perception consciente. Ils testent quels signaux accompagnent une expérience et quelles interventions la modifient. Identifier un corrélat neuronal n’explique toutefois pas automatiquement pourquoi cette activité est ressentie de l’intérieur. Cet écart constitue un problème de recherche, pas une preuve en faveur d’une explication surnaturelle ou technologique particulière."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les théories de l’espace de travail neuronal global mettent l’accent sur la disponibilité étendue de l’information entre systèmes de traitement. La théorie de l’information intégrée propose une autre explication, centrée sur l’organisation causale et informationnelle d’un système. Une vaste collaboration contradictoire publiée dans Nature en 2025 a testé des prédictions des deux approches et remis en question des attentes importantes de chacune. Elle n’a pas désigné de vainqueur définitif. Son intérêt tient notamment à la mise à l’épreuve de désaccords, avec des prédictions formulées avant les résultats. [Source: nature.com](https://www.nature.com/articles/s41586-025-08888-1)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette incertitude a des conséquences pratiques. Face à une personne incapable de répondre, les cliniciens doivent distinguer l’absence de comportement observable de l’absence de conscience. Les chercheurs discutent aussi des preuves qui permettraient d’attribuer une expérience consciente à un animal ou à un système artificiel. Ni un langage fluide ni un schéma de connexions complexe ne suffisent. Les neurosciences gagnent en solidité lorsqu’elles séparent observation, interprétation et engagement philosophique au lieu de les confondre."
+      },
+      {
+        "type": "paragraph",
+        "text": "Une difficulté supplémentaire consiste à distinguer l’expérience de son signalement. Demander d’appuyer sur un bouton lorsqu’une image apparaît introduit attention, décision et mouvement dans l’expérience. Un signal associé à cette réponse peut refléter le compte rendu plutôt que la conscience elle-même. Les chercheurs combinent des protocoles pour limiter ce problème, sans disposer d’une mesure parfaitement simple. D’où la nécessité de reproduire les résultats et d’interpréter avec prudence les annonces spectaculaires. Il faut déterminer non seulement où l’activité apparaît, mais quelle composante de la tâche elle explique et si l’explication résiste à une autre méthode."
+      },
+      {
+        "type": "heading",
+        "text": "La neuroplasticité : changer dans certaines limites"
+      },
+      {
+        "type": "paragraph",
+        "text": "La neuroplasticité désigne la capacité du système nerveux à se modifier avec le développement, l’expérience ou une lésion. Apprendre un mouvement peut changer le fonctionnement des circuits ; la rééducation peut aider à récupérer des fonctions ou à développer des stratégies de compensation. Le cerveau n’a pas besoin d’être entièrement reconstruit : connexions, configurations d’activité et utilisation des voies existantes peuvent évoluer. La plasticité fonde biologiquement l’apprentissage, mais ne promet pas que la volonté suffise à réparer toute lésion. [Source: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/post-stroke-rehabilitation.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le moment de l’intervention, la localisation et l’étendue des dommages, le traitement et la situation personnelle influencent la récupération. Des changements plastiques peuvent aussi entretenir des phénomènes indésirables, comme une douleur persistante ou des habitudes profondément ancrées. La neurogenèse adulte, production de nouveaux neurones, est une question plus précise. Une étude de Nature parue en 2026 a identifié des indices moléculaires de populations neurogéniques dans des hippocampes humains adultes. Leur abondance, leur maturation et leur contribution fonctionnelle demandent encore des investigations ; cela ne montre pas que le cerveau adulte se renouvelle intégralement. [Source: nature.com](https://www.nature.com/articles/s41586-026-10169-4)"
+      },
+      {
+        "type": "heading",
+        "text": "Dormir est une activité cérébrale"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le sommeil modifie l’activité du cerveau plutôt qu’il ne l’éteint. Sommeil non paradoxal et sommeil paradoxal se succèdent, avec des différences électriques, musculaires et physiologiques. La pression de sommeil augmente avec le temps passé éveillé, tandis que les systèmes circadiens contribuent à synchroniser les rythmes corporels avec la journée. Leur interaction explique pourquoi épuisement et facilité à dormir ne coïncident pas toujours. Le sommeil soutient l’attention, l’apprentissage et d’autres fonctions ; sa perturbation peut affecter les performances du lendemain. [Source: ninds.nih.gov](https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les rêves sont souvent vifs pendant le sommeil paradoxal, mais ils sont également rapportés dans d’autres phases. Les chercheurs examinent leurs liens possibles avec la mémoire, les émotions et la construction spontanée de l’expérience. Aucune explication unique ne rend définitivement compte de tous les rêves et aucun dictionnaire universel validé ne transforme chaque image en message caché. L’expérience étrange d’être conscient sans pouvoir bouger possède un contexte physiologique présenté dans notre article sur la paralysie du sommeil. [PRESDA : paralysie du sommeil](/articles/sleep-paralysis-when-you-wake-up-but-cannot-move/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La recherche sur les rêves rencontre son propre problème de mesure. Ce que la personne a rêvé est généralement connu par un récit après le réveil. Ce récit est déjà un souvenir, influencé par ce qui a été retenu et peut être décrit. L’enregistrement cérébral apporte une autre source d’informations, mais le relier aux détails privés d’une expérience reste difficile. Il faut aussi distinguer une fonction supposée du rêve d’un bénéfice démontré du sommeil. Montrer que dormir facilite l’apprentissage ne prouve pas qu’un scénario onirique particulier a réalisé ce travail."
+      },
+      {
+        "type": "heading",
+        "text": "Vieillir ne signifie pas nécessairement développer une maladie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Certaines capacités cognitives évoluent avec l’âge, notamment la rapidité de certaines opérations ou la facilité à retrouver une information. Les connaissances et les compétences familières peuvent rester solides, avec de grandes différences individuelles. La démence n’est pas une conséquence inévitable du vieillissement. Elle désigne un déclin suffisamment important pour perturber la vie quotidienne et peut résulter de plusieurs maladies. Un oubli occasionnel et une perte progressive d’autonomie ne doivent pas être considérés comme le même phénomène. [Source: nia.nih.gov](https://www.nia.nih.gov/health/brain-health/how-aging-brain-affects-thinking)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La santé cérébrale dépend aussi du reste du corps. Santé vasculaire, sommeil, fonctions sensorielles, effets des médicaments et situation sociale peuvent influencer la cognition. L’activité physique et la prise en charge des problèmes de santé sont des composantes raisonnables des soins, mais aucun complément ni jeu ne garantit une protection contre la démence. Les associations observées constituent des indices, pas la preuve qu’une habitude a causé un résultat. Préserver cette nuance est essentiel pour ne pas tromper des familles déjà confrontées à des décisions difficiles. [Source: nia.nih.gov](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)"
+      },
+      {
+        "type": "heading",
+        "text": "Quand les systèmes nerveux sont perturbés"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les maladies neurologiques montrent comment des perturbations différentes produisent des conséquences distinctes. Un AVC interrompt l’apport sanguin ou implique une hémorragie, avec un risque de dommage rapide. L’épilepsie correspond à une prédisposition durable à des crises liées à une activité cérébrale anormale ; une crise isolée ne signifie pas toujours épilepsie. La maladie de Parkinson affecte les mouvements, mais aussi parfois le sommeil, l’humeur et d’autres fonctions. Ces maladies ne sont pas des variantes interchangeables d’un cerveau affaibli : mécanismes, évolution et besoins thérapeutiques diffèrent. [Source: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures) [Source: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/parkinsons-disease)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La maladie d’Alzheimer comporte des modifications progressives associant notamment pathologies amyloïde et tau, dysfonction synaptique et perte neuronale. Elle constitue une cause majeure de démence, mais il en existe d’autres et plusieurs pathologies peuvent coexister. Les troubles psychiques impliquent également le fonctionnement cérébral en interaction avec le développement, la biologie et l’environnement. Réduire dépression, anxiété ou souffrance à un déséquilibre chimique unique est insuffisant. Notre histoire de la médecine examine ces progrès et les explications qui restent incomplètes. [PRESDA : histoire de la médecine](/articles/history-future-of-medicine/) [Source: nia.nih.gov](https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment les scientifiques regardent-ils à l’intérieur ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les outils répondent à des questions différentes. L’IRM révèle l’anatomie ; l’IRM fonctionnelle mesure généralement des changements d’oxygénation sanguine associés à l’activité, sans enregistrer directement chaque neurone. L’EEG capte l’activité électrique au niveau du cuir chevelu avec une excellente précision temporelle mais une localisation limitée. La microscopie révèle cellules et synapses dans des tissus préparés. Aucun outil n’ouvre une fenêtre illimitée sur les pensées. Un résultat doit être interprété selon la mesure effectuée, la tâche expérimentale et les humains ou animaux étudiés. [Source: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/neurological-diagnostic-tests-and-procedures)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2024, des chercheurs ont reconstruit un millimètre cube de tissu cérébral humain grâce à la microscopie électronique et à l’analyse informatique, révélant près de 150 millions de synapses. L’échantillon provenait de tissus retirés lors d’une opération, pas du balayage intégral d’un cerveau vivant. Sa complexité montre à la fois l’accomplissement et le chemin restant. Un connectome cartographie les connexions ; expliquer leur activité changeante, leur modulation chimique et leur lien avec le comportement nécessite d’autres preuves. Une carte du câblage ne constitue pas la biographie complète d’un esprit. [Source: nih.gov](https://www.nih.gov/news-events/nih-research-matters/study-reveals-unseen-details-human-brain-structure)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les explications les plus solides réunissent plusieurs méthodes. Une image suggère une relation, une observation clinique montre les conséquences d’une lésion et une expérience contrôlée teste un mécanisme. Chacune a ses limites : les volontaires ne représentent pas nécessairement tout le monde, les modèles animaux ne reproduisent qu’une partie des maladies humaines et les différences statistiques entre groupes peuvent recouvrir un fort chevauchement individuel. Des échantillons importants, des analyses transparentes et des réplications indépendantes aident à séparer résultats fiables et récits séduisants. Une image n’a de valeur probante qu’accompagnée de sa méthode et de ses limites. [PRESDA : expérimentation animale](/articles/animal-testing-hidden-cost-scientific-progress/)"
+      },
+      {
+        "type": "heading",
+        "text": "Restaurer des fonctions sans vendre de science-fiction"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les interfaces cerveau-ordinateur traduisent certains signaux neuronaux en commandes pour des appareils. En 2025, une étude de Nature Neuroscience a démontré une synthèse vocale en continu à partir de l’activité cérébrale d’une participante atteinte de paralysie sévère. C’est une avancée importante pour l’assistance, pas une lecture illimitée de la pensée ni la preuve d’une efficacité identique pour tous. Fiabilité à long terme, apprentissage, risques chirurgicaux, accessibilité et fonctionnement hors du laboratoire restent des questions essentielles. [Source: nature.com](https://www.nature.com/articles/s41593-025-01905-6)"
+      },
+      {
+        "type": "paragraph",
+        "text": "D’autres approches mobilisent stimulation, études moléculaires, atlas cellulaires et modèles de laboratoire reproduisant certaines caractéristiques du développement nerveux. La stimulation cérébrale profonde traite déjà des symptômes dans certaines maladies, sans réparer toutes leurs causes. Les modèles et l’IA peuvent repérer des configurations et guider les expériences sans devenir des copies complètes d’une personne. À mesure que ces méthodes progressent, consentement, confidentialité et contrôle des données neuronales deviennent des priorités scientifiques et sociales, à traiter dès maintenant. [Source: ninds.nih.gov](https://www.ninds.nih.gov/health-information/disorders/deep-brain-stimulation-dbs)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les questions profondes restent ouvertes : comment les souvenirs demeurent-ils stables dans des tissus changeants, comment les différences biologiques façonnent-elles les vies, comment les réseaux endommagés récupèrent-ils et comment les processus physiques soutiennent-ils l’expérience ? L’incertitude ne diminue pas nécessairement l’émerveillement. L’exploit du cerveau ne réside pas dans un centre magique inexpliqué. Des cellules vivantes, soutenues par un corps et façonnées par le monde, rendent la compréhension possible. Chaque expérience rigoureuse enrichit cette compréhension, y compris en précisant ce que nous ignorons encore."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NINDS: brain anatomy",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf"
+      },
+      {
+        "label": "Azevedo and colleagues, 2009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19226510/"
+      },
+      {
+        "label": "Herculano-Houzel: brain scaling",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK207181/"
+      },
+      {
+        "label": "NCBI: neuronal signalling",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10882/"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: finding the engram",
+        "url": "https://www.nature.com/articles/nrn4000"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: structural plasticity and memory",
+        "url": "https://www.nature.com/articles/nrn1301"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: intelligence differences",
+        "url": "https://www.nature.com/articles/nrn2793"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: emotion and the amygdala",
+        "url": "https://www.nature.com/articles/nrn2920"
+      },
+      {
+        "label": "Nature Reviews Neuroscience: the nature of feelings",
+        "url": "https://www.nature.com/articles/nrn3403"
+      },
+      {
+        "label": "Nature: testing theories of consciousness",
+        "url": "https://www.nature.com/articles/s41586-025-08888-1"
+      },
+      {
+        "label": "NINDS: rehabilitation after stroke",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/post-stroke-rehabilitation.pdf"
+      },
+      {
+        "label": "Nature: adult human hippocampal neurogenesis",
+        "url": "https://www.nature.com/articles/s41586-026-10169-4"
+      },
+      {
+        "label": "NINDS: understanding sleep",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf"
+      },
+      {
+        "label": "NIA: aging and thinking",
+        "url": "https://www.nia.nih.gov/health/brain-health/how-aging-brain-affects-thinking"
+      },
+      {
+        "label": "NIA: cognitive health",
+        "url": "https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults"
+      },
+      {
+        "label": "NINDS: epilepsy",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures"
+      },
+      {
+        "label": "NINDS: Parkinson's disease",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/parkinsons-disease"
+      },
+      {
+        "label": "NIA: Alzheimer's disease",
+        "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet"
+      },
+      {
+        "label": "NINDS: neurological tests",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/neurological-diagnostic-tests-and-procedures"
+      },
+      {
+        "label": "NIH: human brain structure",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/study-reveals-unseen-details-human-brain-structure"
+      },
+      {
+        "label": "Nature Neuroscience: a speech neuroprosthesis",
+        "url": "https://www.nature.com/articles/s41593-025-01905-6"
+      },
+      {
+        "label": "NINDS: deep brain stimulation",
+        "url": "https://www.ninds.nih.gov/health-information/disorders/deep-brain-stimulation-dbs"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/human-family-tree-human-evolution-species/",
     "path": "/ar/articles/human-family-tree-human-evolution-species/",
     "kind": "article",
