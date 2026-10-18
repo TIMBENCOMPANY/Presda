@@ -30,7 +30,7 @@ const base = process.env.BASE_URL || 'http://localhost:3001';
       assert.ok([...s.matchAll(/<link[^>]*>/g)].some(m => m[0].includes(`hrefLang="${lang}"`) && m[0].includes(`href="${target}"`)));
     }
     assert.equal((s.match(/data-universe-image=/g)||[]).length,4);
-    for (const token of ['data-universe-hero-caption','universe-hero','article-hero-title','/image-assets/']) assert.ok(s.includes(token), token);
+    for (const token of ['data-universe-hero-caption','universe-presda-hero','article-hero-title','/image-assets/']) assert.ok(s.includes(token), token);
 
   }
   const sitemap = await (await fetch(base + '/sitemap.xml')).text();

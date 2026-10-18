@@ -1,0 +1,10 @@
+{
+  "reviewed": "2026-10-18",
+  "asset": "/articles/universe-presda-hero.png",
+  "source": "User-provided Cosmic Panorama of Galaxies and Nebulae.png",
+  "sha256": "3ce4939b9c7f82234fd288e0dce93b4da8ab7d4d5a154fe0e37d25efdef827b4",
+  "type": "PRESDA AI-generated symbolic illustration, not NASA or ESA photography",
+  "preservation": "Original PNG copied byte for byte; responsive derivatives resize proportionally. CSS cover and focal positioning only.",
+  "supersedes": "The hero entry in image-rights.json records the previous Webb hero, which is no longer used as this article cover.",
+  "scope": "Hero layout, asset, alt text and credit only. Article content, translations apart from image alt, SEO titles, descriptions and supporting images unchanged."
+}

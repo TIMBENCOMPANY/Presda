@@ -286,7 +286,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const lastUpdated = getArticleLastUpdated(article);
   const heroDimensions = getArticleImageDimensions(article.coverImage);
   const standaloneHero = article.slug === "psychology-of-cults-why-people-follow-blindly";
-  const containedHero = ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy", "giordano-bruno-philosopher-heresy", "moon-landing-conspiracy-apollo-evidence", "artemis-2028-nasa-return-moon", "graffiti-city-walls-canvases", "our-universe-big-bang-end-of-time", "our-solar-system-sun-eight-planets-beyond"].includes(article.slug);
+  const containedHero = ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy", "giordano-bruno-philosopher-heresy", "moon-landing-conspiracy-apollo-evidence", "artemis-2028-nasa-return-moon", "graffiti-city-walls-canvases", "our-solar-system-sun-eight-planets-beyond"].includes(article.slug);
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
@@ -308,7 +308,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header className={`article-hero${standaloneHero ? " article-hero--standalone" : ""}${containedHero ? " article-hero--contained" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
+        <header className={`article-hero${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""}${containedHero ? " article-hero--contained" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
           <div className="article-hero-media relative">
             <Image
               src={article.coverImage}
@@ -328,7 +328,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
 
           <time className={`article-hero-publication-date ${standaloneHero ? "relative block px-5 pt-5 sm:px-7 lg:px-12 xl:px-14" : "absolute right-5 top-5 z-20 rounded bg-black/40 px-2 py-1 text-right sm:right-7 sm:top-7 lg:right-8 lg:top-8"} font-display text-[11px] font-extrabold uppercase tracking-wide text-white/86 sm:text-sm lg:text-base`} dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
 
-          <div className="article-hero-content relative z-10 flex flex-col gap-5 p-5 sm:p-7 lg:p-12 xl:p-14" style={article.slug === "our-universe-big-bang-end-of-time" ? { alignSelf: "start" } : undefined}>
+          <div className="article-hero-content relative z-10 flex flex-col gap-5 p-5 sm:p-7 lg:p-12 xl:p-14">
             <div className="flex flex-wrap items-start justify-between gap-3 font-display text-[11px] lg:flex-nowrap lg:gap-4 font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
               <Link href={languageDestination(`/category/${toCategorySlug(article.category)}/`, locale, translationRoutes)} className="flex items-center gap-3 transition hover:text-[#FF1A1A]">
                 <span className="h-8 w-1.5 rounded-full bg-[#FF1A1A]" aria-hidden="true" />

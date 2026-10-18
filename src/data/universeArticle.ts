@@ -13,8 +13,8 @@ export const universeArticle: Article = {
   "author": "PRESDA Editorial",
   "status": "published",
   "readingTime": "15 min read",
-  "coverImage": "/articles/universe-hero.jpg",
-  "coverAlt": "Webb’s authentic SMACS 0723 deep field, with distant galaxies and curved gravitationally lensed arcs among bright foreground stars.",
+  "coverImage": "/articles/universe-presda-hero.png",
+  "coverAlt": "PRESDA AI-generated artistic panorama of galaxies, glowing nebulae and a symbolic black hole, not an astronomical photograph.",
   "headlineHighlights": {
     "red": "OUR UNIVERSE",
     "gold": "THE END OF TIME"
