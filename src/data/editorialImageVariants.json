@@ -1467,5 +1467,136 @@
       "src": "/articles/universe/responsive/earth-1400.webp",
       "bytes": 35830
     }
+  ],
+  "/articles/solar/mercury.webp": [
+    {
+      "width": 400,
+      "src": "/articles/solar/responsive/mercury-400.webp",
+      "bytes": 32722
+    },
+    {
+      "width": 800,
+      "src": "/articles/solar/responsive/mercury-800.webp",
+      "bytes": 129900
+    },
+    {
+      "width": 1400,
+      "src": "/articles/solar/responsive/mercury-1400.webp",
+      "bytes": 455900
+    }
+  ],
+  "/articles/solar/venus.webp": [
+    {
+      "width": 400,
+      "src": "/articles/solar/responsive/venus-400.webp",
+      "bytes": 4416
+    },
+    {
+      "width": 800,
+      "src": "/articles/solar/responsive/venus-800.webp",
+      "bytes": 11372
+    },
+    {
+      "width": 1400,
+      "src": "/articles/solar/responsive/venus-1400.webp",
+      "bytes": 26804
+    }
+  ],
+  "/articles/solar/earth.webp": [
+    {
+      "width": 400,
+      "src": "/articles/solar/responsive/earth-400.webp",
+      "bytes": 35316
+    },
+    {
+      "width": 800,
+      "src": "/articles/solar/responsive/earth-800.webp",
+      "bytes": 119758
+    },
+    {
+      "width": 1400,
+      "src": "/articles/solar/responsive/earth-1400.webp",
+      "bytes": 361836
+    }
+  ],
+  "/articles/solar/mars.webp": [
+    {
+      "width": 400,
+      "src": "/articles/solar/responsive/mars-400.webp",
+      "bytes": 16802
+    },
+    {
+      "width": 540,
+      "src": "/articles/solar/responsive/mars-540.webp",
+      "bytes": 35334
+    }
+  ],
+  "/articles/solar/jupiter.webp": [
+    {
+      "width": 400,
+      "src": "/articles/solar/responsive/jupiter-400.webp",
+      "bytes": 10752
+    },
+    {
+      "width": 800,
+      "src": "/articles/solar/responsive/jupiter-800.webp",
+      "bytes": 28468
+    },
+    {
+      "width": 840,
+      "src": "/articles/solar/responsive/jupiter-840.webp",
+      "bytes": 34836
+    }
+  ],
+  "/articles/solar/saturn.webp": [
+    {
+      "width": 400,
+      "src": "/articles/solar/responsive/saturn-400.webp",
+      "bytes": 5440
+    },
+    {
+      "width": 800,
+      "src": "/articles/solar/responsive/saturn-800.webp",
+      "bytes": 13848
+    },
+    {
+      "width": 1400,
+      "src": "/articles/solar/responsive/saturn-1400.webp",
+      "bytes": 36380
+    }
+  ],
+  "/articles/solar/uranus.webp": [
+    {
+      "width": 400,
+      "src": "/articles/solar/responsive/uranus-400.webp",
+      "bytes": 3782
+    },
+    {
+      "width": 800,
+      "src": "/articles/solar/responsive/uranus-800.webp",
+      "bytes": 9344
+    },
+    {
+      "width": 1400,
+      "src": "/articles/solar/responsive/uranus-1400.webp",
+      "bytes": 23966
+    }
+  ],
+  "/articles/solar/neptune.webp": [
+    {
+      "width": 400,
+      "src": "/articles/solar/responsive/neptune-400.webp",
+      "bytes": 6780
+    },
+    {
+      "width": 800,
+      "src": "/articles/solar/responsive/neptune-800.webp",
+      "bytes": 28410
+    },
+    {
+      "width": 1400,
+      "src": "/articles/solar/responsive/neptune-1400.webp",
+      "bytes": 106744
+    }
   ]
 }

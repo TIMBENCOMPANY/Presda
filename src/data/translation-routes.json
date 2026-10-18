@@ -2971,6 +2971,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/our-solar-system-sun-eight-planets-beyond/",
+    "path": "/ar/articles/our-solar-system-sun-eight-planets-beyond/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/our-solar-system-sun-eight-planets-beyond/",
+    "path": "/es/articles/our-solar-system-sun-eight-planets-beyond/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/our-solar-system-sun-eight-planets-beyond/",
+    "path": "/fr/articles/our-solar-system-sun-eight-planets-beyond/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/our-universe-big-bang-end-of-time/",
     "path": "/ar/articles/our-universe-big-bang-end-of-time/"
   },

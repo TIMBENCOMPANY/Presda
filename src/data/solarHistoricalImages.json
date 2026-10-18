@@ -1,0 +1,226 @@
+{
+  "mercury": {
+    "src": "/articles/solar/mercury.webp",
+    "width": 1400,
+    "height": 1400,
+    "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+    "creditUrl": "https://images.nasa.gov/details/PIA15160",
+    "source": "https://images.nasa.gov/details/PIA15160",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "MESSENGER global view of Mercury, released in 2011.",
+        "alt": "Cratered grey globe of Mercury"
+      },
+      "fr": {
+        "caption": "Vue globale de Mercure par MESSENGER, publiée en 2011.",
+        "alt": "Globe gris criblé de cratères de Mercure"
+      },
+      "es": {
+        "caption": "Vista global de Mercurio de MESSENGER, publicada en 2011.",
+        "alt": "Globo gris de Mercurio cubierto de cráteres"
+      },
+      "ar": {
+        "caption": "مشهد عالمي لعطارد من مسنجر، نشر عام 2011.",
+        "alt": "كرة عطارد الرمادية المليئة بالفوهات"
+      }
+    }
+  },
+  "venus": {
+    "src": "/articles/solar/venus.webp",
+    "width": 1400,
+    "height": 683,
+    "credit": "NASA/JPL-Caltech; processing: Kevin M. Gill",
+    "creditUrl": "https://images.nasa.gov/details/PIA23791",
+    "source": "https://images.nasa.gov/details/PIA23791",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Mariner 10 observations from February 1974, reprocessed in 2020 by Kevin M. Gill. False-colour views combine ultraviolet and orange filters; the right view has enhanced contrast.",
+        "alt": "Two processed globes showing Venus’s swirling cloud patterns"
+      },
+      "fr": {
+        "caption": "Observations de Mariner 10 de février 1974, retraitées en 2020 par Kevin M. Gill. Ces vues en fausses couleurs combinent filtres ultraviolet et orange ; le contraste est renforcé à droite.",
+        "alt": "Deux globes traités montrant les nuages tourbillonnants de Vénus"
+      },
+      "es": {
+        "caption": "Observaciones de Mariner 10 de febrero de 1974, reprocesadas en 2020 por Kevin M. Gill. Las vistas en falso color combinan filtros ultravioleta y naranja; la derecha tiene contraste aumentado.",
+        "alt": "Dos globos procesados muestran las nubes arremolinadas de Venus"
+      },
+      "ar": {
+        "caption": "أرصاد مارينر 10 من فبراير 1974، أعاد كيفن إم. غيل معالجتها عام 2020. تجمع المشاهد ذات الألوان التمثيلية مرشحي الأشعة فوق البنفسجية والبرتقالي، مع تعزيز التباين في الصورة اليمنى.",
+        "alt": "كرتان معالجتان تظهران أنماط سحب الزهرة الدوامية"
+      }
+    }
+  },
+  "earth": {
+    "src": "/articles/solar/earth.webp",
+    "width": 1400,
+    "height": 1400,
+    "credit": "NASA",
+    "creditUrl": "https://images.nasa.gov/details/PIA18033",
+    "source": "https://images.nasa.gov/details/PIA18033",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Blue Marble composite from four Suomi NPP satellite orbits in January 2012. This is a projected composite, not a single exposure.",
+        "alt": "Blue oceans, white clouds and continents on a composite Earth globe"
+      },
+      "fr": {
+        "caption": "Composite Blue Marble issu de quatre orbites du satellite Suomi NPP en janvier 2012. Il s’agit d’un assemblage projeté, non d’une prise unique.",
+        "alt": "Océans bleus, nuages blancs et continents sur un globe terrestre composite"
+      },
+      "es": {
+        "caption": "Composición Blue Marble de cuatro órbitas del satélite Suomi NPP en enero de 2012. Es un mosaico proyectado, no una sola exposición.",
+        "alt": "Océanos azules, nubes blancas y continentes en un globo terrestre compuesto"
+      },
+      "ar": {
+        "caption": "صورة الرخام الأزرق المركبة من أربعة مدارات للقمر الصناعي سومي إن بي بي في يناير 2012. هي تجميع مسقط على كرة، وليست لقطة واحدة.",
+        "alt": "محيطات زرقاء وسحب بيضاء وقارات على صورة مركبة للأرض"
+      }
+    }
+  },
+  "mars": {
+    "src": "/articles/solar/mars.webp",
+    "width": 540,
+    "height": 810,
+    "credit": "NASA/JPL/Malin Space Science Systems",
+    "creditUrl": "https://images.nasa.gov/details/PIA04591",
+    "source": "https://images.nasa.gov/details/PIA04591",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Mars Global Surveyor view of Mars, published by NASA in 2003.",
+        "alt": "Spacecraft views of Mars with reddish terrain and bright polar ice"
+      },
+      "fr": {
+        "caption": "Vue de Mars par Mars Global Surveyor, publiée par la NASA en 2003.",
+        "alt": "Vues spatiales de Mars avec terrains rougeâtres et glace polaire brillante"
+      },
+      "es": {
+        "caption": "Vista de Marte de Mars Global Surveyor, publicada por la NASA en 2003.",
+        "alt": "Vistas de Marte con terreno rojizo y hielo polar brillante"
+      },
+      "ar": {
+        "caption": "مشهد للمريخ من مارس غلوبال سيرفيور، نشرته ناسا عام 2003.",
+        "alt": "مشاهد للمريخ بتضاريس محمرة وجليد قطبي ساطع"
+      }
+    }
+  },
+  "jupiter": {
+    "src": "/articles/solar/jupiter.webp",
+    "width": 840,
+    "height": 840,
+    "credit": "NASA/JPL/USGS",
+    "creditUrl": "https://images.nasa.gov/details/PIA00343",
+    "source": "https://images.nasa.gov/details/PIA00343",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Jupiter from Voyager observations in 1979, processed by the US Geological Survey in 1990.",
+        "alt": "Jupiter’s striped cloud bands and Great Red Spot"
+      },
+      "fr": {
+        "caption": "Jupiter à partir des observations de Voyager de 1979, traitées par le service géologique américain en 1990.",
+        "alt": "Bandes nuageuses de Jupiter et Grande Tache rouge"
+      },
+      "es": {
+        "caption": "Júpiter a partir de observaciones de Voyager de 1979, procesadas por el Servicio Geológico de Estados Unidos en 1990.",
+        "alt": "Bandas de nubes de Júpiter y Gran Mancha Roja"
+      },
+      "ar": {
+        "caption": "المشتري من أرصاد فوياجر عام 1979، عالجتها هيئة المسح الجيولوجي الأمريكية عام 1990.",
+        "alt": "أحزمة سحب المشتري والبقعة الحمراء العظيمة"
+      }
+    }
+  },
+  "saturn": {
+    "src": "/articles/solar/saturn.webp",
+    "width": 1400,
+    "height": 724,
+    "credit": "NASA/JPL-Caltech/Space Science Institute",
+    "creditUrl": "https://images.nasa.gov/details/PIA21345",
+    "source": "https://images.nasa.gov/details/PIA21345",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Cassini colour composite of Saturn and its rings from October 28, 2016 observations, released in 2017.",
+        "alt": "Saturn’s pale globe surrounded by its broad ring system"
+      },
+      "fr": {
+        "caption": "Composite en couleurs de Saturne et de ses anneaux par Cassini, issu des observations du 28 octobre 2016 et publié en 2017.",
+        "alt": "Globe pâle de Saturne entouré de ses larges anneaux"
+      },
+      "es": {
+        "caption": "Composición en color de Saturno y sus anillos de Cassini, con observaciones del 28 de octubre de 2016, publicada en 2017.",
+        "alt": "Globo pálido de Saturno rodeado de sus amplios anillos"
+      },
+      "ar": {
+        "caption": "صورة ملونة مركبة لزحل وحلقاته من كاسيني، بأرصاد 28 أكتوبر 2016، نشرت عام 2017.",
+        "alt": "كرة زحل الشاحبة تحيط بها منظومة حلقاته الواسعة"
+      }
+    }
+  },
+  "uranus": {
+    "src": "/articles/solar/uranus.webp",
+    "width": 1400,
+    "height": 1400,
+    "credit": "NASA/JPL-Caltech",
+    "creditUrl": "https://images.nasa.gov/details/PIA18182",
+    "source": "https://images.nasa.gov/details/PIA18182",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Uranus observed by Voyager 2 in 1986.",
+        "alt": "Pale blue-green Uranus against dark space"
+      },
+      "fr": {
+        "caption": "Uranus observée par Voyager 2 en 1986.",
+        "alt": "Uranus bleu-vert pâle sur fond spatial sombre"
+      },
+      "es": {
+        "caption": "Urano observado por Voyager 2 en 1986.",
+        "alt": "Urano de color azul verdoso pálido sobre el espacio oscuro"
+      },
+      "ar": {
+        "caption": "أورانوس كما رصدته فوياجر 2 عام 1986.",
+        "alt": "أورانوس بلون أزرق مخضر شاحب أمام الفضاء الداكن"
+      }
+    }
+  },
+  "neptune": {
+    "src": "/articles/solar/neptune.webp",
+    "width": 1400,
+    "height": 1398,
+    "credit": "NASA/JPL",
+    "creditUrl": "https://images.nasa.gov/details/PIA01492",
+    "source": "https://images.nasa.gov/details/PIA01492",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Voyager 2 view of Neptune in 1989, assembled from green and orange filter observations. Processed colour should not be read as a naked-eye view.",
+        "alt": "Processed blue Neptune with dark storm features and white clouds"
+      },
+      "fr": {
+        "caption": "Vue de Neptune par Voyager 2 en 1989, assemblée à partir de filtres vert et orange. Les couleurs traitées ne correspondent pas nécessairement à une vue à l’œil nu.",
+        "alt": "Neptune bleue en couleurs traitées, avec tempêtes sombres et nuages blancs"
+      },
+      "es": {
+        "caption": "Vista de Neptuno de Voyager 2 en 1989, compuesta con filtros verde y naranja. El color procesado no debe interpretarse como una vista a simple vista.",
+        "alt": "Neptuno azul procesado, con tormentas oscuras y nubes blancas"
+      },
+      "ar": {
+        "caption": "مشهد لنبتون من فوياجر 2 عام 1989، مركب من أرصاد بمرشحين أخضر وبرتقالي. لا ينبغي اعتبار اللون المعالج مطابقاً للرؤية بالعين المجردة.",
+        "alt": "نبتون الأزرق المعالج مع عواصف داكنة وسحب بيضاء"
+      }
+    }
+  }
+}
