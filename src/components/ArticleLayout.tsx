@@ -1,3 +1,5 @@
+import { BacteriaHeroCaption } from "@/components/BacteriaHeroCaption";
+import { BacteriaHistoricalImage, bacteriaImageAtBlock } from "@/components/BacteriaHistoricalImage";
 import { SolarSystemTable } from "@/components/SolarSystemTable";
 import { SolarHeroCaption } from "@/components/SolarHeroCaption";
 import { SolarHistoricalImage, solarImageAtBlock } from "@/components/SolarHistoricalImage";
@@ -308,7 +310,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header className={`article-hero${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""}${containedHero ? " article-hero--contained" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
+        <header className={`article-hero${article.slug === "bacteria-good-bad-microbes-shape-our-lives" ? " article-hero--bacteria" : ""}${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""}${containedHero ? " article-hero--contained" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
           <div className="article-hero-media relative">
             <Image
               src={article.coverImage}
@@ -391,6 +393,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "graffiti-city-walls-canvases" && <p data-graffiti-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{graffitiHeroCaptions[locale]}</p>}
         {article.slug === "our-universe-big-bang-end-of-time" && <UniverseHeroCaption locale={locale} />}
         {article.slug === "our-solar-system-sun-eight-planets-beyond" && <SolarHeroCaption locale={locale} />}
+        {article.slug === "bacteria-good-bad-microbes-shape-our-lives" && <BacteriaHeroCaption locale={locale} />}
         {article.slug === "moon-landing-conspiracy-apollo-evidence" && <p data-moon-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{moonHeroCaptions[locale]}</p>}
         {article.slug === "giordano-bruno-philosopher-heresy" && <p data-bruno-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{brunoHeroCaptions[locale]}</p>}
         {article.slug === "vincent-van-gogh-life-art-legacy" && <p data-vangogh-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{vangoghHeroCaptions[locale]}</p>}
@@ -604,6 +607,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "graffiti-city-walls-canvases" && graffitiImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GraffitiHistoricalImage id={graffitiImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "our-universe-big-bang-end-of-time" && universeImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><UniverseHistoricalImage id={universeImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "our-solar-system-sun-eight-planets-beyond" && (solarImageAtBlock[originalIndex] || originalIndex === 12)) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} />{originalIndex === 12 && <SolarSystemTable locale={locale} />}<SolarHistoricalImage id={solarImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "bacteria-good-bad-microbes-shape-our-lives" && bacteriaImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BacteriaHistoricalImage id={bacteriaImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "moon-landing-conspiracy-apollo-evidence" && moonImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MoonHistoricalImage id={moonImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "giordano-bruno-philosopher-heresy" && brunoImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BrunoHistoricalImage id={brunoImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "vincent-van-gogh-life-art-legacy" && vangoghImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><VangoghHistoricalImage id={vangoghImageAtBlock[originalIndex]} locale={locale} /></div>;

@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "source": "User-uploaded Vivid False-Color Bacterial Landscape.png",
+    "type": "AI-generated scientific illustration",
+    "sha256": "36ea34c66d5c7322f106208d64054cd0976f32e9f7a758fa1c161f4bee32e8d0",
+    "changes": "Original file preserved. Responsive derivatives only."
+  },
+  "microscopy": [
+    {
+      "key": "salmonella",
+      "id": 10971,
+      "source": "https://wwwn.cdc.gov/phil/Details.aspx?pid=10971",
+      "download": "https://wwwn.cdc.gov/phil///PHIL_Images/10971/10971_lores.jpg",
+      "credit": "CDC / Bette Jensen; photograph: Janice Haney Carr",
+      "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+      "reviewed": "2026-10-18",
+      "rights": "Permission is not required for public domain images, however, these images are provided by CDC and are available for personal, professional, and educational use with appropriate attribution. Redistribution must credit CDC and, where known, the individual photographer, and identify the CDC website as the free source. For additional terms see <a href=\"https://www.cdc.gov/other/agencymaterials.html\">Use of Agency Materials | Other | CDC</a>",
+      "description": "</strong><br />Under a magnification of 12000X, this digitally-colorized scanning electron microscopic (SEM) image revealed the presence of numbers of clustered Gram-negative, <i>Salmonella typhimurium</i> bacteria, which had been grown in a pure culture. See PHIL 10970 for a black and white version of this image.<strong><!--salmonellosis--><!--scanning electron micrograph (SEM)-->",
+      "changes": "Proportional responsive resizing and WebP conversion. Source digital colorization retained; no substantive changes.",
+      "sha256": "350ba32cbc51043df178bd56531bb31b6b2faf4e4153e3667fd8a1bd67240b79"
+    },
+    {
+      "key": "staphylococcus",
+      "id": 11157,
+      "source": "https://wwwn.cdc.gov/phil/Details.aspx?pid=11157",
+      "download": "https://wwwn.cdc.gov/phil///PHIL_Images/11157/11157_lores.jpg",
+      "credit": "CDC / Matthew J. Arduino, DrPH; photograph: Janice Haney Carr",
+      "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+      "reviewed": "2026-10-18",
+      "rights": "Permission is not required for public domain images, however, these images are provided by CDC and are available for personal, professional, and educational use with appropriate attribution. Redistribution must credit CDC and, where known, the individual photographer, and identify the CDC website as the free source. For additional terms see <a href=\"https://www.cdc.gov/other/agencymaterials.html\">Use of Agency Materials | Other | CDC</a>",
+      "description": "</strong><br />Under a high magnification of 20,000X, this digitally-colorized scanning electron microscopic (SEM) image shows a strain of <i>Staphylococcus aureus</i> bacteria taken from a vancomycin intermediate resistant culture (VISA). See PHIL 11156 for a black and white version of image.<strong><!--Staphylococcus--><!--scanning electron micrograph (SEM)-->",
+      "changes": "Proportional responsive resizing and WebP conversion. Source digital colorization retained; no substantive changes.",
+      "sha256": "ee9e83d6c82db1e85eb56c348c71bc4bcf68a9cc1fae2021545d8116678b9ec5"
+    },
+    {
+      "key": "influenza",
+      "id": 18157,
+      "source": "https://wwwn.cdc.gov/phil/Details.aspx?pid=18157",
+      "download": "https://wwwn.cdc.gov/phil///PHIL_Images/18157/18157_lores.jpg",
+      "credit": "NIAID / NIH; source: CDC Public Health Image Library",
+      "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+      "reviewed": "2026-10-18",
+      "rights": "Permission is not required for public domain images, however, these images are provided by CDC and are available for personal, professional, and educational use with appropriate attribution. Redistribution must credit CDC and, where known, the individual photographer, and identify the CDC website as the free source. For additional terms see <a href=\"https://www.cdc.gov/other/agencymaterials.html\">Use of Agency Materials | Other | CDC</a>",
+      "description": "</strong><br />Produced by the National Institute of Allergy and Infectious Diseases (NIAID), this digitally colorized transmission electron microscopic (TEM) image, depicts a small grouping of H1N1 influenza virus particles.<strong><!--transmission electron micrograph (TEM)-->",
+      "changes": "Proportional responsive resizing and WebP conversion. Source digital colorization retained; no substantive changes.",
+      "sha256": "9d69a31a351fd1a24799586aa3eb2a0b2b7a0839219fd56a50566a1b6fea4a23"
+    }
+  ]
+}

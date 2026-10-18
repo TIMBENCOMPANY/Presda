@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "bacteria-good-bad-microbes-shape-our-lives": {"en":{"red":"Bacteria","gold":"Shape Our Lives"},"fr":{"red":"Bactéries","gold":"façonnent nos vies"},"es":{"red":"Bacterias","gold":"moldean nuestras vidas"},"ar":{"red":"البكتيريا","gold":"تشكل حياتنا"}},
   "our-solar-system-sun-eight-planets-beyond": {"en":{"red":"OUR SOLAR SYSTEM","gold":"EIGHT PLANETS"},"fr":{"red":"NOTRE SYSTÈME SOLAIRE","gold":"HUIT PLANÈTES"},"es":{"red":"NUESTRO SISTEMA SOLAR","gold":"OCHO PLANETAS"},"ar":{"red":"نظامنا الشمسي","gold":"الكواكب الثمانية"}},
   "our-universe-big-bang-end-of-time": {"en":{"red":"OUR UNIVERSE","gold":"THE END OF TIME"},"fr":{"red":"NOTRE UNIVERS","gold":"LA FIN DU TEMPS"},"es":{"red":"NUESTRO UNIVERSO","gold":"FIN DEL TIEMPO"},"ar":{"red":"كوننا","gold":"نهاية الزمن"}},
   "graffiti-city-walls-canvases": {"en":{"red":"GRAFFITI:","gold":"CANVASES"},"fr":{"red":"GRAFFITI :","gold":"DES TOILES"},"es":{"red":"GRAFITI:","gold":"LIENZOS"},"ar":{"red":"الغرافيتي:","gold":"لوحات فنية"}},

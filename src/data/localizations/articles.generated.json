@@ -33926,6 +33926,1068 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/bacteria-good-bad-microbes-shape-our-lives/",
+    "path": "/ar/articles/bacteria-good-bad-microbes-shape-our-lives/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-18",
+      "terminologyChecked": true
+    },
+    "title": "البكتيريا: الميكروبات النافعة والضارة التي تشكل حياتنا",
+    "seoTitle": "البكتيريا: فوائدها ومخاطرها ودورها في حياتنا",
+    "description": "اكتشف البكتيريا والميكروبيوم والمضادات الحيوية والمقاومة، ودور الميكروبات في الغذاء والمحيطات والحياة على الأرض.",
+    "excerpt": "اكتشف البكتيريا والميكروبيوم والمضادات الحيوية والمقاومة، ودور الميكروبات في الغذاء والمحيطات والحياة على الأرض.",
+    "headlineHighlights": {
+      "red": "البكتيريا",
+      "gold": "تشكل حياتنا"
+    },
+    "keywords": [
+      "البكتيريا",
+      "تشكل حياتنا"
+    ],
+    "searchIntent": "اكتشف البكتيريا والميكروبيوم والمضادات الحيوية والمقاومة، ودور الميكروبات في الغذاء والمحيطات والحياة على الأرض.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-18",
+    "updatedAt": "2026-10-18",
+    "image": {
+      "src": "/articles/bacteria-hero.png",
+      "alt": "رسم علمي مولد بالذكاء الاصطناعي لميكروبات عصوية ملونة ضمن مشهد يوحي بالتصوير المجهري"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تبدو ملعقة من اللبن الزبادي وحفنة من التربة وسطح أحد الأسنان عوالم متباعدة. لكن البكتيريا تسهم في تشكيلها جميعاً. فهي تحوّل الأغذية وتعيد تدوير المغذيات وتدعم مجتمعات حية، فيما يسبب بعضها أمراضاً مدمرة. لذلك لا يكفي وصفها بالأعداء أو الحلفاء: المهم هو نوع البكتيريا الموجودة، ومكان عيشها، وما تفعله، وكيف يستجيب محيطها."
+      },
+      {
+        "type": "paragraph",
+        "text": "البكتيريا خلايا حية، وليست فيروسات مصغرة. تطورت طوال مليارات السنين واكتسبت طرقاً لاستغلال بيئات تمتد من مياه البحر المضيئة إلى الأمعاء الفقيرة بالأكسجين. وفهمها يغير المقياس الذي نرى به أنفسنا. فأجسامنا موائل، والنظم البيئية تعتمد على عمليات مجهرية، ووصفة المضاد الحيوي قد تمارس ضغطاً تطورياً. إنها قصة شخصية وكوكبية في آن، تربط الحياة اليومية بتاريخ الغلاف الجوي للأرض."
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي يجعل البكتيريا بكتيريا؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحيط الخلية البكتيرية محتوياتها بغشاء وتحمل معلوماتها الوراثية في الحمض النووي. تصنع الريبوسومات البروتينات وتتيح الإنزيمات التفاعلات الكيميائية الضرورية للحياة. وبخلاف الخلايا البشرية، لا تملك البكتيريا نواة محاطة بغشاء. يشغل حمضها النووي منطقة تسمى المنطقة النووية، وتحمل كثير منها عناصر وراثية أصغر تسمى البلازميدات. ولدى معظمها جدار يحتوي على الببتيدوغليكان، لكن استثناءات مثل الميكوبلازما تذكّر بضرورة الحذر عند وضع التعريفات البيولوجية. صغر الحجم لا يعني بساطة الكيمياء. [المصدر: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "من أشكالها المألوفة الكرات والعصيات واللوالب، وقد تنتظم في سلاسل أو تجمعات أو خيوط. يساعد الشكل في الوصف، لكنه لا يكفي وحده لتحديد النوع أو توقع خطورته. تتحرك بعض البكتيريا بأسواط، وتلتصق أخرى بالأسطح ببنى متخصصة. ويمكن للمحافظ والطبقات الخارجية التأثير في علاقتها بالعائل والبيئة. وتقسم صبغة غرام كثيراً من البكتيريا إلى مجموعات تعكس اختلاف أغلفتها الخلوية. إنها قرينة مخبرية، وليست خريطة شاملة للتنوع البكتيري. [المصدر: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK1945/)"
+      },
+      {
+        "type": "heading",
+        "text": "البكتيريا والفيروسات والعتائق كائنات مختلفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعتمد الفيروسات على خلايا العائل لإنتاج جسيمات فيروسية جديدة، ولا تمتلك الأجهزة الخلوية المستقلة الموجودة لدى البكتيريا. وهذا يفسر لماذا لا تعالج المضادات الحيوية المستهدفة للبنى أو العمليات البكتيرية عدوى فيروسية كالإنفلونزا. ولا يكشف عرض مثل السعال سببه وحده؛ فقد تولد كائنات مختلفة أمراضاً متشابهة، ويحدد التشخيص فائدة العلاج. ووصف كل تهديد مجهري بأنه بكتيريا يخلط بين حقائق البيولوجيا والطب. [المصدر: cdc.gov](https://www.cdc.gov/antibiotic-use/about/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "العتائق كائنات خلوية قد تشبه البكتيريا تحت المجهر، لكنها تنتمي إلى سلالة تطورية متميزة تختلف في الأغشية والآليات الجزيئية. ليست مجرد بكتيريا غريبة، ولا تعيش كلها في ظروف قاسية؛ إذ توجد في التربة والمحيطات والمجتمعات المرتبطة بالحيوانات. ويحتوي الميكروبيوم البشري أيضاً على فطريات وفيروسات. لذلك فإن دراسة الحمض النووي البكتيري ترصد جزءاً فقط من مجتمع بيولوجي أوسع. [المصدر: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/mesh/68001105) [المصدر: nigms.nih.gov](https://www.nigms.nih.gov/biobeat/2015/04/our-microbial-menagerie)"
+      },
+      {
+        "type": "heading",
+        "text": "تاريخ أقدم من الحيوانات والغابات"
+      },
+      {
+        "type": "paragraph",
+        "text": "تمتد الحياة الميكروبية إلى أعماق تاريخ الأرض. وتحفظ صخور عمرها نحو 3.5 مليارات سنة أدلة تتصل بنظم ميكروبية قديمة، لكن تحديد الكائنات المسؤولة عنها بدقة صعب. فقد تشبه المعادن الأشكال الحيوية، وقد تطمس التغيرات الجيولوجية الإشارات الكيميائية. لذا يجمع العلماء بين الأدلة البنيوية والكيميائية والجيولوجية، بدلاً من تأريخ أول بكتيريا انطلاقاً من صورة موحية. البكتيريا الحديثة حصيلة تاريخ تطوري طويل، لا عينات ثابتة من الحياة الأولى. [المصدر: nature.com](https://www.nature.com/articles/s41467-021-21323-z) [المصدر: nature.com](https://www.nature.com/articles/nature08793)"
+      },
+      {
+        "type": "paragraph",
+        "text": "أعاد التطور تشكيل الأيض البكتيري والعلاقات مع الكائنات الأخرى مراراً. وتظل شجرة النسب المتفرعة مفيدة، لكن تبادل الجينات يضيف وصلات بين فروعها. وقد يتعقد حتى تعريف النوع البكتيري عندما تحمل سلالات متقاربة جينات إضافية مختلفة. والنتيجة تنوع وظيفي هائل: تستمد كائنات طاقتها من الضوء، وتستهلك أخرى مركبات عضوية، وتستغل أخرى تفاعلات غير عضوية. هذا التاريخ تنوع متشعب، لا سلّم كانت غايته النهائية ظهور البشر."
+      },
+      {
+        "type": "heading",
+        "text": "التكاثر والطفرات والجينات المكتسبة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تتكاثر بكتيريا كثيرة بالانشطار الثنائي، حيث تنسخ الخلية مادتها الوراثية ثم تنقسم. وتعتمد السرعة على الكائن والظروف، ومنها الحرارة والمغذيات وتوافر الأكسجين. والتضاعف السريع المشاهد أحياناً في المختبر ليس جدولاً زمنياً عاماً لكل البكتيريا. ففي الطبيعة تواجه الخلايا الندرة والمنافسة والافتراس، وتنمو أنواع كثيرة ببطء أو تدخل حالات خمول. لذا فإن نمو الجماعة نتيجة بيئية، لا وعد رياضي غير محدود. تضيف الطفرات تنوعاً وراثياً، ويغير الانتخاب الطبيعي المتغيرات التي تستمر."
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للبكتيريا أيضاً اكتساب حمض نووي من غير أسلافها المباشرين. فالتحول الوراثي يشمل أخذ الحمض النووي من المحيط، والنقل بالعاثيات يتم بوساطة فيروسات تصيب البكتيريا، أما الاقتران فينقل الحمض النووي عبر اتصال الخلايا. وقد تنشر هذه الآليات صفات مفيدة، منها بعض آليات مقاومة المضادات الحيوية. لكنها لا تعني أن كل بكتيريا تستطيع تبادل أي جين مع جميع البكتيريا الأخرى. فالتوافق والاتصال البيئي وكلفة حمل المادة الوراثية الجديدة عوامل مهمة. يجمع التطور بين التاريخ الموروث وفرص التقارب. [المصدر: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK7908/)"
+      },
+      {
+        "type": "heading",
+        "text": "النافع والضار يتوقفان على السياق"
+      },
+      {
+        "type": "paragraph",
+        "text": "توضح الإشريكية القولونية حدود التصنيف الأخلاقي البسيط. تعيش سلالات كثيرة منها عادة في الأمعاء دون إحداث مرض، بينما تسبب سلالات محددة أمراضاً شديدة. ويمكن للجينات التي تتيح إنتاج السموم أو الالتصاق بالعائل تغيير نتائج اللقاء. وللموقع أهمية أيضاً؛ فقد يصبح كائن مقبول في موضع من الجسم مؤذياً في موضع آخر. لذلك فإن اسم النوع بداية للتفسير السريري، وليس وصفاً كاملاً للخطر. [المصدر: cdc.gov](https://www.cdc.gov/ecoli/about/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتوضح أمثلة أخرى هذا التباين. ترتبط الريزوبيا بالنباتات البقولية وتساعد على إتاحة النيتروجين لها. وتشارك المكورات العقدية المحبة للحرارة في صناعة اللبن الزبادي. وتسبب المتفطرة السلية مرض السل، بينما يمكن لبعض السالمونيلا إحداث عدوى معوية. هذه أدوار حقيقية، لكن كلمتي نافع وضار تختصران النتائج من منظورنا. لا تختار البكتيريا مساعدتنا أو إيذاءنا؛ فقد تطورت صفاتها في بيئات معينة، وينشأ المرض من تفاعل الكائن والعائل والظروف. [المصدر: who.int](https://www.who.int/news-room/fact-sheets/detail/tuberculosis) [المصدر: cdc.gov](https://www.cdc.gov/salmonella/about/)"
+      },
+      {
+        "type": "heading",
+        "text": "الجسم البشري مجموعة من الموائل الميكروبية"
+      },
+      {
+        "type": "paragraph",
+        "text": "توفر البشرة والفم والأمعاء ظروفاً مختلفة، فلا يمكن اعتبار مجتمعاتها البكتيرية متبادلة. تؤثر الرطوبة والحموضة والأكسجين والمغذيات في الكائنات القادرة على البقاء، وقد تختلف المجتمعات حتى بين مواقع متجاورة. تشير الميكروبيوتا إلى الكائنات نفسها، فيما يستخدم الميكروبيوم غالباً بمعنى أوسع يشمل مادتها الوراثية وسياقها البيئي. وتختلف التعريفات بين الدراسات، لذا ينبغي معرفة ما قاسه الباحثون فعلاً. فعينة البراز لا تمثل جميع أسطح الأمعاء بالقدر نفسه. [المصدر: nigms.nih.gov](https://www.nigms.nih.gov/biobeat/tag/microbes)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تتفاعل هذه المجتمعات مع أنسجة العائل ومع بعضها. ويمكن للتنافس على الموارد أن يحد من فرص الكائنات الوافدة، كما قد تؤثر المنتجات الميكروبية في وظائف الجسم. لكن لا توجد قائمة بكتيرية واحدة تعرّف الصحة لدى الجميع. فالعمر والغذاء والأدوية والتعرضات الأخرى تؤثر في التركيب. ومن المضلل علمياً التعامل مع الميكروبيوم كدرجة يجب رفعها أو شيء يجب تنقيته. والسؤال المفيد هو ما إذا ثبت أن وظيفة مجتمعية محددة تؤثر في نتيجة صحية مهمة ضمن ظروف واضحة."
+      },
+      {
+        "type": "heading",
+        "text": "الهضم وصحة الأمعاء: الآليات قبل التسويق"
+      },
+      {
+        "type": "paragraph",
+        "text": "تخمّر بعض بكتيريا الأمعاء كربوهيدرات تفلت من الهضم في الأمعاء الدقيقة. ومن نواتجها الأحماض الدهنية قصيرة السلسلة كالأسيتات والبروبيونات والبيوتيرات. توفر هذه الجزيئات مصادر للطاقة وتشارك في مسارات الإشارة؛ والبيوتيرات وقود مهم للخلايا المبطنة للقولون. لكن آثارها تتوقف على السياق والتركيز والتفاعل مع العائل. والعثور على ناتج أيضي محتمل الفائدة لا يثبت أن إضافة بكتيريا معينة ستمنع المرض أو تحسن صحة الجميع. [المصدر: nature.com](https://www.nature.com/articles/s41579-025-01183-w)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تبدأ أبحاث الميكروبيوم كثيراً بملاحظة ارتباطات: فقد تختلف السمات الميكروبية لدى المصابين بحالة صحية عن مجموعات المقارنة. لا تثبت هذه الملاحظة أي التغيرات سبق الآخر، ولا أن البكتيريا سببت المرض. فالطعام والأدوية والمرض نفسه قد تغير الميكروبيوم. وتجمع التفسيرات الأقوى بين دراسات بشرية مضبوطة وتجارب تفسر الآليات وتجارب سريرية. قد تكشف تجربة على الفئران مساراً يستحق الدراسة دون أن تثبت فعالية مكمل مسوّق للبشر. وهذا تمييز أساسي عند قراءة أخبار الوزن أو المناعة أو المزاج. [المصدر: nature.com](https://www.nature.com/articles/s41586-020-2881-9) [المصدر: nature.com](https://www.nature.com/articles/s41589-021-00861-z)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا ليست البروبيوتيك حلاً عاماً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "البروبيوتيك ليست مجرد أي غذاء يحتوي على بكتيريا. تعتمد فائدتها المقترحة على الكائنات المحددة والتركيبة والجرعة والاستخدام والأدلة. ولا تنتقل نتائج سلالة أو حالة تلقائياً إلى منتج آخر. تدعم الأبحاث بعض التطبيقات، لكن ادعاءات تجارية كثيرة تتجاوز الأدلة السريرية الموثوقة. وتتوقف السلامة أيضاً على الشخص؛ فقد حدثت عدوى خطيرة لدى مرضى معرضين للخطر. وينصح المركز الأمريكي للصحة التكميلية والتكاملية بعدم استبدال العلاجات المثبتة بمنتجات غير مثبتة. المزيد من البكتيريا ليس أفضل بالضرورة، والطبيعي لا يعني الخالي من المخاطر. [المصدر: nccih.nih.gov](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety)"
+      },
+      {
+        "type": "heading",
+        "text": "التربة: اقتصاد التحلل والتبادل"
+      },
+      {
+        "type": "paragraph",
+        "text": "تساعد البكتيريا على تحويل المواد العضوية الميتة وإطلاق المغذيات في صور تستفيد منها كائنات أخرى. وتعمل مع الفطريات والعتائق وسائر سكان التربة، ولا تنجز التحلل كله وحدها. يتوقف نشاطها على الماء والحرارة والأكسجين وكيمياء المواد المتاحة. لذلك فالتربة ليست دعامة خاملة للنباتات، بل تضم كائنات متفاعلة يؤثر أيضها في الخصوبة وتخزين الكربون وتبادل غازات الدفيئة. ويمكن لتغير استخدام الأرض أو المناخ أن يعدل هذه العلاقات بنتائج تختلف حسب النظام البيئي. [المصدر: nature.com](https://www.nature.com/articles/s41579-019-0265-7)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يبرز النيتروجين هذه العلاقات بوضوح. تثبّت بعض البكتيريا النيتروجين الجوي في مركبات قابلة للاستخدام الحيوي، ومنها الريزوبيا المرتبطة بالبقوليات. وتحول تفاعلات ميكروبية أخرى مركبات النيتروجين أو تعيده إلى الجو. إنها شبكات، لا خط إنتاج منظم تتولاه سلالة واحدة. وتستخدم معالجة مياه الصرف أيضاً تحولات ميكروبية لإزالة المغذيات الزائدة. وفهم التفاعلات الغالبة مهم، إذ تستطيع الميكروبات الحد من التلوث أو إنتاج غازات مؤثرة بيئياً تبعاً للظروف. [المصدر: nature.com](https://www.nature.com/articles/nrmicro.2018.9)"
+      },
+      {
+        "type": "heading",
+        "text": "المحيطات وازدياد أكسجين الأرض"
+      },
+      {
+        "type": "paragraph",
+        "text": "في المحيطات المضاءة، تسهم بكتيريا زرقاء مثل بروكلوروكوكوس في البناء الضوئي والشبكات الغذائية البحرية. وتستهلك بكتيريا أخرى المواد العضوية الذائبة وتشارك في تدوير الكربون والمغذيات. وهي مجتمعات متنوعة، لا قوة عمل واحدة قابلة للاستبدال. تؤثر الحرارة والضوء والمغذيات في توزيعها ونشاطها. ولا يقلل صغرها من أهميتها البيئية، لكن نسبة إنتاج الأكسجين البحري كله إليها تتجاهل كائنات ضوئية أخرى. [المصدر: nature.com](https://www.nature.com/articles/nrmicro3378) [المصدر: nature.com](https://www.nature.com/articles/s41579-024-01018-0)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ساعدت البكتيريا الزرقاء أيضاً على تغيير الغلاف الجوي عبر البناء الضوئي المنتج للأكسجين. ويمثل حدث الأكسدة العظيم، الذي بدأ قبل نحو 2.4 مليار سنة، تحولاً مهماً في الوجود المستمر للأكسجين الجوي. لم يكن انتقالاً فورياً إلى الهواء الحالي؛ فقد تداخل الإنتاج والاستهلاك الكيميائي والعمليات الجيولوجية، وما زالت جوانب التوقيت والآليات محل بحث. أتاح الأكسجين إمكانات جديدة، لكنه تحدى كائنات اعتادت بيئات فقيرة به. وللسياق الكوكبي الأوسع، يمكن قراءة ملف PRESDA عن [النظام الشمسي](/articles/our-solar-system-sun-eight-planets-beyond/). [المصدر: nature.com](https://www.nature.com/articles/nature13068) [المصدر: nature.com](https://www.nature.com/articles/nature20826)"
+      },
+      {
+        "type": "heading",
+        "text": "العدوى وأهمية تحديد السبب"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تتلف البكتيريا الممرضة الأنسجة مباشرة، أو تنتج سموماً، أو تثير استجابات التهابية ضارة. وليست العدوى مرادفة لمجرد الوجود؛ إذ قد يحمل الإنسان كائناً دون أن يمرض. وفي المقابل قد يسبب الكائن نفسه مرضاً شديداً لدى عائل معرض للإصابة. وتختلف طرق الانتقال بين الممرضات، فلا تختزل الوقاية في إجراء واحد. يعالج التطعيم حين يتاح، والماء الآمن، والصرف الصحي، وسلامة الغذاء، ومكافحة العدوى جوانب مختلفة من المشكلة. تجعل الأحياء الدقيقة الوقاية أدق، بدلاً من تشجيع الخوف من كل سطح."
+      },
+      {
+        "type": "paragraph",
+        "text": "تقتل المضادات الحيوية البكتيريا أو تثبط نموها باستهداف عمليات مثل بناء الجدار الخلوي أو إنتاج البروتين. وتختلف فعالية الأدوية، وتعتمد القرارات على العدوى والمريض. ويمكن للتعرف المخبري واختبارات الحساسية توجيه الاختيار. غيّرت هذه الأدوية الرعاية، لكنها قد تسبب آثاراً جانبية وتؤثر في المجتمعات المقيمة. وتنصح مراكز مكافحة الأمراض الأمريكية بأخذ المضادات وفق الوصفة تماماً، وعدم مشاركتها أو الاحتفاظ بها لمرض لاحق. لا تصبح العدوى الفيروسية قابلة للعلاج بالمضادات لمجرد شدة الأعراض. [المصدر: cdc.gov](https://www.cdc.gov/antibiotic-use/about/)"
+      },
+      {
+        "type": "heading",
+        "text": "المقاومة: تطور له عواقب صحية"
+      },
+      {
+        "type": "paragraph",
+        "text": "تخص مقاومة المضادات الحيوية الميكروبات، ولا تعني اعتياد جسم الشخص على العلاج. قد تغير الطفرات أو الجينات المكتسبة أهداف الدواء، أو تحطمه، أو تقلل دخوله، أو تساعد على إخراجه من الخلية. ويمكن للتعرض أن يرجح كفة الكائنات المقاومة التي تنتشر لاحقاً. يسرّع الاستخدام غير الملائم المشكلة، لكن الوصول إلى التشخيص والعلاج الفعالين مهم أيضاً. ولا تقتصر المقاومة على المستشفيات أو الحدود الوطنية؛ فصحة الإنسان والحيوان والبيئة مترابطة. [المصدر: who.int](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يشمل المصطلح الأوسع، مقاومة مضادات الميكروبات، مقاومة الفيروسات والفطريات والطفيليات إلى جانب البكتيريا. ويساعد الفصل بين الفئات على تجنب الإحصاءات المضللة والحلول غير الواقعية. يجب أن يتكامل تحسين الوصف الطبي والوقاية والترصد وتطوير العلاجات. فالمركب الواعد مخبرياً ليس تلقائياً دواءً آمناً، والمضاد الجديد ليس مورداً غير محدود. ويتمثل التحدي في حفظ فعالية العلاج وضمان وصوله لمن يحتاجه. تقدم البحث والإنصاف في الوصول هدفان متكاملان."
+      },
+      {
+        "type": "heading",
+        "text": "الأغشية الحيوية: العيش معاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعيش بكتيريا كثيرة ملتصقة بالأسطح ضمن مجتمعات محاطة بمصفوفة خارج الخلايا. وقد تحتوي هذه المصفوفة على سكريات متعددة وبروتينات وحمض نووي، فتخلق ظروفاً تختلف عن السائل المحيط. اللويحة السنية مثال مألوف، وتوجد الأغشية الحيوية أيضاً على الصخور وداخل الأنابيب وعلى الأجهزة الطبية. وقد تضم أنواعاً متعددة، بعضها ليس بكتيرياً. وتشبيهها بمدن بكتيرية يساعد على تصورها، لكنه لا يعني تخطيطاً واعياً أو تعاوناً شبيهاً بالبشر. [المصدر: nature.com](https://www.nature.com/articles/nrmicro2415)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تواجه خلايا الغشاء الحيوي مستويات مختلفة من الأكسجين والمغذيات وتتغير حساسيتها للعلاج. وتسهم البنية المادية وبطء النمو والتغيرات الفسيولوجية في البقاء. وهذا التحمل ليس مطابقاً لمقاومة المضادات الموروثة، وإن أمكن اجتماعهما. والتمييز مهم عند تصميم التدخلات: تفكيك المصفوفة وتغيير فسيولوجيا الخلية واستهداف جين مقاومة استراتيجيات مختلفة. يبحث علم الأغشية الحيوية كيف يغير التنظيم المجتمعي السلوك، لا مجرد وجود البكتيريا. [المصدر: nature.com](https://www.nature.com/articles/s41579-022-00791-0)"
+      },
+      {
+        "type": "heading",
+        "text": "استراتيجيات البقاء وحدود الحياة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تنتج بعض البكتيريا أبواغاً داخلية، وهي بنى خاملة متينة تتحمل ظروفاً تضر الخلايا النامية. وتعد العصوية الرقيقة مثالاً مدروساً جيداً. البوغ مرحلة للبقاء، وليس دليلاً على أن البكتيريا كلها لا تُدمّر، كما أن تكوينه لا يزيد عدد الخلايا. وعندما تتحسن الظروف، يسمح الإنبات باستئناف النمو. وهذا يفسر ضرورة استخدام طرائق مثبتة في تصنيع الغذاء والتعقيم، بدلاً من افتراض استجابة كل ميكروب بالطريقة نفسها للحرارة أو المواد الكيميائية. [المصدر: nature.com](https://www.nature.com/articles/nrmicro2921)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الكائنات المحبة للظروف القاسية متكيفة مع بيئات نعدها نحن شديدة، مثل الحرارة أو الحموضة أو الملوحة العالية. بعضها بكتيريا وبعضها عتائق، والمصطلحان غير مترادفين. والتكيف مع ضغط واحد لا يمنح تحملاً غير محدود لكل الضغوط. تساعد دراسة البقاء الميكروبي على فهم الأغشية والبروتينات وآليات الإصلاح، وتوجه أسئلة عن بيئات خارج الأرض. لكنها لا تثبت حياة خارج كوكبنا. فالقابلية للسكن والاكتشاف الفعلي مسألتان مختلفتان، كما يوضح ملف [كوننا](/articles/our-universe-big-bang-end-of-time/)."
+      },
+      {
+        "type": "heading",
+        "text": "التخمير والتقنية الحيوية"
+      },
+      {
+        "type": "paragraph",
+        "text": "استخدم البشر النشاط الميكروبي في الطعام قبل فهم الخلايا بزمن طويل. يسهم التخمير البكتيري في اللبن الزبادي والأجبان والخضروات المخمرة بتغيير الحموضة والنكهة والقوام. وتعتمد صناعة الزبادي عادة على Streptococcus thermophilus وLactobacillus delbrueckii subsp. bulgaricus. وتشارك الخمائر أو فطريات أخرى في عمليات تخمير كثيرة. والمخمّر ليس مرادفاً للبروبيوتيك؛ فقد تزيل المعالجة الكائنات الحية أو تقتلها، والادعاء الصحي يحتاج إلى أدلة تتجاوز وقوع التخمير. يعتمد الإنتاج الآمن على ظروف مضبوطة ومكونات ونظافة، لا افتراض أن كل ميكروب ينمو مرغوب فيه. [المصدر: nature.com](https://www.nature.com/articles/s41575-020-00390-5)"
+      },
+      {
+        "type": "paragraph",
+        "text": "أصبحت البكتيريا أيضاً أدوات للتقنية الحيوية. فإدخال تعليمات وراثية مناسبة إلى سلالات مخبرية يمكن أن يتيح إنتاج بروتينات مفيدة، منها الإنسولين المؤتلف. ويتطلب الإنتاج الصناعي تصنيعاً مضبوطاً وتنقية، وليس مجرد استهلاك البكتيريا. وتمثل كريسبر مثالاً آخر، إذ طُورت إلى أدوات للتحرير الجيني انطلاقاً من أنظمة دفاع ميكروبية. تكشف هذه الإنجازات كيف يتيح البحث الأساسي آليات مفيدة للطب، مع ضرورة الفصل بين عملية طبيعية وتطبيق مصمم بعناية. [المصدر: nigms.nih.gov](https://www.nigms.nih.gov/image-gallery/2565) [المصدر: nigms.nih.gov](https://nigms.nih.gov/biobeat/tag/crispr)"
+      },
+      {
+        "type": "heading",
+        "text": "الاكتشاف ما زال يغير الصورة"
+      },
+      {
+        "type": "paragraph",
+        "text": "أتاح المجهر مشاهدة كائنات كانت غير مرئية، وربطت التجارب ميكروبات بعينها بالمرض والتخمير. ثم غيرت المضادات الحيوية قدرة الأطباء على علاج العدوى البكتيرية. وكرمت جائزة نوبل لعام 1945 ألكسندر فليمنغ وإرنست تشين وهوارد فلوري عن البنسلين وآثاره العلاجية، تذكيراً بأن الاكتشاف والتطوير إنجازان متميزان. وأضاف التسلسل الجيني تحولاً جديداً: فحص الحمض النووي لمجتمعات يصعب تنميتها بطرائق المختبر المعتادة. ويستعرض ملف [تاريخ الطب](/articles/history-future-of-medicine/) هذا التحول أيضاً. [المصدر: nobelprize.org](https://www.nobelprize.org/prizes/medicine/1945/summary/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تبقى أسئلة مهمة: أي تغيرات المجتمع الميكروبي تسبب المرض بدلاً من مرافقته؟ وإلى أي مدى تتنبأ نتائج المختبر بسلوك النظام البيئي الحي؟ وأي كائنات ووظائف لا تزال غائبة عن مسوحنا؟ يكشف الحمض النووي الإمكانات، لكن النشاط يتوقف على التعبير الجيني والبيئة. وستجمع الإجابات الأفضل بين الزرع والتصوير والكيمياء والتسلسل وتجارب دقيقة التصميم. لا تستحق البكتيريا خوفاً شاملاً ولا احتفاءً مطلقاً، بل اهتماماً دقيقاً بكائنات تساعد على جعل الكوكب صالحاً للحياة، وقد تجعل حياة البشر أحياناً هشة."
+      }
+    ],
+    "sources": [
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK8477/"
+      },
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1945/"
+      },
+      {
+        "label": "www.cdc.gov",
+        "url": "https://www.cdc.gov/antibiotic-use/about/"
+      },
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/mesh/68001105"
+      },
+      {
+        "label": "www.nigms.nih.gov",
+        "url": "https://www.nigms.nih.gov/biobeat/2015/04/our-microbial-menagerie"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41467-021-21323-z"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nature08793"
+      },
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7908/"
+      },
+      {
+        "label": "www.cdc.gov",
+        "url": "https://www.cdc.gov/ecoli/about/"
+      },
+      {
+        "label": "www.who.int",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+      },
+      {
+        "label": "www.cdc.gov",
+        "url": "https://www.cdc.gov/salmonella/about/"
+      },
+      {
+        "label": "www.nigms.nih.gov",
+        "url": "https://www.nigms.nih.gov/biobeat/tag/microbes"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-025-01183-w"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41586-020-2881-9"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41589-021-00861-z"
+      },
+      {
+        "label": "www.nccih.nih.gov",
+        "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-019-0265-7"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro.2018.9"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro3378"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-024-01018-0"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nature13068"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nature20826"
+      },
+      {
+        "label": "www.who.int",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro2415"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-022-00791-0"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro2921"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41575-020-00390-5"
+      },
+      {
+        "label": "www.nigms.nih.gov",
+        "url": "https://www.nigms.nih.gov/image-gallery/2565"
+      },
+      {
+        "label": "nigms.nih.gov",
+        "url": "https://nigms.nih.gov/biobeat/tag/crispr"
+      },
+      {
+        "label": "www.nobelprize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/bacteria-good-bad-microbes-shape-our-lives/",
+    "path": "/es/articles/bacteria-good-bad-microbes-shape-our-lives/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-18",
+      "terminologyChecked": true
+    },
+    "title": "Bacterias: los microbios beneficiosos y dañinos que moldean nuestras vidas",
+    "seoTitle": "Bacterias: beneficios, riesgos y su papel en la vida",
+    "description": "Explora las bacterias, el microbioma, los antibióticos y la resistencia, y su papel en los alimentos, los océanos y la vida terrestre.",
+    "excerpt": "Explora las bacterias, el microbioma, los antibióticos y la resistencia, y su papel en los alimentos, los océanos y la vida terrestre.",
+    "headlineHighlights": {
+      "red": "Bacterias",
+      "gold": "moldean nuestras vidas"
+    },
+    "keywords": [
+      "Bacterias",
+      "moldean nuestras vidas"
+    ],
+    "searchIntent": "Explora las bacterias, el microbioma, los antibióticos y la resistencia, y su papel en los alimentos, los océanos y la vida terrestre.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-18",
+    "updatedAt": "2026-10-18",
+    "image": {
+      "src": "/articles/bacteria-hero.png",
+      "alt": "Ilustración científica con IA de microbios de colores con forma de bastón en un paisaje de apariencia microscópica"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Una cucharada de yogur, un puñado de tierra y la superficie de un diente pertenecen a mundos distintos. Sin embargo, todos están modelados por bacterias. Estos organismos transforman alimentos, reciclan nutrientes y sostienen comunidades vivas. Algunos también causan enfermedades devastadoras. Llamarlos enemigos o aliados resulta insuficiente: importa qué bacteria está presente, dónde vive, qué hace y cómo responde su entorno."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las bacterias son células vivas, no virus diminutos. Han evolucionado durante miles de millones de años y desarrollado formas de aprovechar ambientes tan diferentes como el agua marina iluminada y los intestinos pobres en oxígeno. Comprenderlas cambia nuestra escala de percepción. El cuerpo es un hábitat, los ecosistemas dependen de procesos microscópicos y una receta de antibióticos puede ejercer presión evolutiva. Su historia, íntima y planetaria, conecta la vida cotidiana con la atmósfera terrestre."
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué define a una bacteria?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una célula bacteriana encierra su contenido en una membrana y conserva información genética en el ADN. Los ribosomas fabrican proteínas y las enzimas facilitan las reacciones químicas de la vida. A diferencia de las células humanas, las bacterias carecen de núcleo rodeado por membrana. Su ADN ocupa una región llamada nucleoide; muchas poseen también elementos genéticos menores, los plásmidos. La mayoría tiene una pared con peptidoglucano, aunque excepciones como Mycoplasma aconsejan cautela con las definiciones. Ser pequeña no implica ser químicamente simple. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sus formas conocidas incluyen esferas, bastones y espirales, a veces organizados en cadenas, agrupaciones o filamentos. La forma ayuda a describirlas, pero no basta para identificar una especie ni anticipar su peligrosidad. Algunas se desplazan mediante flagelos; otras se adhieren a superficies con estructuras especializadas. Las cápsulas y otras capas externas influyen en sus interacciones con huéspedes y ambientes. La tinción de Gram distingue grupos según diferencias en su envoltura celular. Es una pista de laboratorio, no un mapa completo de la diversidad bacteriana. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK1945/)"
+      },
+      {
+        "type": "heading",
+        "text": "Bacterias, virus y arqueas son diferentes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los virus dependen de células huésped para producir nuevas partículas virales. No poseen la maquinaria celular independiente de las bacterias. Por eso los antibióticos que actúan sobre estructuras o procesos bacterianos no tratan infecciones virales como la gripe. Un síntoma como la tos no revela por sí solo la causa: organismos distintos pueden provocar enfermedades similares y el diagnóstico orienta la utilidad del tratamiento. Llamar bacteria a cualquier amenaza microscópica confunde tanto la biología como la medicina. [Fuente: cdc.gov](https://www.cdc.gov/antibiotic-use/about/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las arqueas son organismos celulares que pueden parecer bacterias al microscopio, pero constituyen un linaje evolutivo diferente, con importantes diferencias en membranas y maquinaria molecular. No son simplemente bacterias extrañas. Tampoco viven todas en condiciones extremas: habitan suelos, océanos y comunidades asociadas con animales. El microbioma humano contiene además hongos y virus. Un estudio que mide ADN bacteriano observa, por tanto, solo una parte de una comunidad biológica más amplia. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/mesh/68001105) [Fuente: nigms.nih.gov](https://www.nigms.nih.gov/biobeat/2015/04/our-microbial-menagerie)"
+      },
+      {
+        "type": "heading",
+        "text": "Una historia anterior a los animales y los bosques"
+      },
+      {
+        "type": "paragraph",
+        "text": "La vida microbiana se remonta a etapas muy antiguas de la Tierra. Rocas de unos 3.500 millones de años conservan evidencias relevantes para antiguos ecosistemas microbianos, pero identificar los organismos concretos resulta difícil. Los minerales pueden imitar formas biológicas y las alteraciones geológicas pueden borrar señales químicas. Por ello se combinan indicios estructurales, químicos y geológicos, en lugar de fechar la primera bacteria mediante una fotografía sugerente. Las bacterias actuales descienden de largas historias evolutivas; no son copias inalteradas de las primeras formas de vida. [Fuente: nature.com](https://www.nature.com/articles/s41467-021-21323-z) [Fuente: nature.com](https://www.nature.com/articles/nature08793)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La evolución ha transformado repetidamente el metabolismo bacteriano y sus relaciones con otros organismos. El árbol ramificado de la ascendencia sigue siendo útil, pero el intercambio de genes añade conexiones entre ramas. Incluso definir una especie bacteriana puede complicarse cuando cepas próximas poseen genes accesorios diferentes. El resultado es una extraordinaria diversidad funcional. Algunos organismos obtienen energía de la luz, otros consumen compuestos orgánicos y otros aprovechan reacciones inorgánicas. Se trata de diversificación, no de una escalera cuyo destino final fuera la humanidad."
+      },
+      {
+        "type": "heading",
+        "text": "Multiplicarse, mutar e incorporar genes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Muchas bacterias se reproducen por fisión binaria: la célula copia su material genético y se divide. La velocidad depende del organismo y de condiciones como temperatura, nutrientes y oxígeno. Las duplicaciones rápidas observadas en ciertos laboratorios no constituyen un calendario universal. En la naturaleza hay escasez, competencia y depredadores; numerosas células crecen lentamente o entran en estados inactivos. El crecimiento de una población es un resultado ecológico, no una promesa matemática ilimitada. Las mutaciones introducen variación genética y la selección natural modifica qué variantes persisten."
+      },
+      {
+        "type": "paragraph",
+        "text": "También pueden adquirir ADN de fuentes distintas de sus antepasados inmediatos. La transformación consiste en incorporar ADN del entorno; la transducción implica transferencia mediante virus bacterianos; la conjugación permite transferir ADN por contacto celular. Estas formas de transferencia horizontal pueden difundir características útiles, incluidos ciertos mecanismos de resistencia a antibióticos. No significan que cualquier bacteria pueda intercambiar cualquier gen con todas las demás. Importan la compatibilidad, el contacto ecológico y el coste de mantener ADN nuevo. La evolución combina herencia y oportunidades de proximidad. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK7908/)"
+      },
+      {
+        "type": "heading",
+        "text": "Buenas y malas: el contexto importa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Escherichia coli muestra los límites de una clasificación moral sencilla. Muchas cepas habitan normalmente el intestino sin causar enfermedad; otras pueden provocar cuadros graves. Los genes que permiten fabricar toxinas o adherirse al huésped cambian las consecuencias del encuentro. La ubicación también importa: un organismo tolerado en una zona corporal puede resultar perjudicial en otra. El nombre de la especie inicia la interpretación clínica, pero no describe por completo el riesgo. [Fuente: cdc.gov](https://www.cdc.gov/ecoli/about/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Otros ejemplos aclaran el contraste. Los rizobios se asocian con leguminosas y contribuyen a poner nitrógeno a disposición de la planta. Streptococcus thermophilus participa en la elaboración del yogur. Mycobacterium tuberculosis causa tuberculosis y determinadas Salmonella producen infecciones intestinales. Son funciones reales, pero los términos bueno y malo resumen consecuencias desde nuestra perspectiva. Las bacterias no deciden ayudarnos o perjudicarnos: sus características evolucionaron en ambientes concretos y la enfermedad surge de la interacción entre organismo, huésped y circunstancias. [Fuente: who.int](https://www.who.int/news-room/fact-sheets/detail/tuberculosis) [Fuente: cdc.gov](https://www.cdc.gov/salmonella/about/)"
+      },
+      {
+        "type": "heading",
+        "text": "El cuerpo humano reúne distintos hábitats microbianos"
+      },
+      {
+        "type": "paragraph",
+        "text": "La piel, la boca y el intestino ofrecen condiciones diferentes; sus comunidades bacterianas no son intercambiables. Humedad, acidez, oxígeno y nutrientes condicionan qué organismos pueden persistir. Incluso lugares vecinos pueden alojar comunidades distintas. Microbiota designa a los organismos; microbioma suele abarcar también su material genético y contexto ecológico. Las definiciones varían entre estudios, por lo que conviene revisar qué se midió realmente. Una muestra de heces, por ejemplo, no representa por igual todas las superficies intestinales. [Fuente: nigms.nih.gov](https://www.nigms.nih.gov/biobeat/tag/microbes)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estas comunidades interactúan entre sí y con los tejidos del huésped. La competencia por recursos puede limitar la llegada de organismos nuevos y los productos microbianos pueden afectar a la fisiología humana. Pero no existe una lista única de bacterias que defina la salud de todas las personas. Edad, alimentación, medicamentos y otras exposiciones modifican la composición. Tratar el microbioma como una puntuación que debe maximizarse o purificarse resulta engañoso. La pregunta útil es si una función concreta ha demostrado influir en un resultado de salud significativo y bajo condiciones definidas."
+      },
+      {
+        "type": "heading",
+        "text": "Digestión y salud intestinal: mecanismos antes que publicidad"
+      },
+      {
+        "type": "paragraph",
+        "text": "Algunas bacterias intestinales fermentan carbohidratos que escapan a la digestión en el intestino delgado. Producen, entre otras sustancias, ácidos grasos de cadena corta como acetato, propionato y butirato. Estas moléculas aportan energía y participan en vías de señalización; el butirato es un combustible importante para las células que recubren el colon. Sus efectos dependen del contexto, la concentración y la interacción con el huésped. Encontrar un metabolito potencialmente beneficioso no demuestra que añadir una bacteria prevenga enfermedades o mejore la salud de todo el mundo. [Fuente: nature.com](https://www.nature.com/articles/s41579-025-01183-w)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación del microbioma comienza a menudo con asociaciones: personas con una enfermedad pueden presentar perfiles microbianos diferentes de los grupos de comparación. Esto no establece qué cambio ocurrió primero ni si las bacterias causaron la enfermedad. La dieta, los medicamentos y la propia enfermedad pueden modificar el microbioma. Las explicaciones más sólidas combinan estudios humanos controlados, experimentos mecanísticos y ensayos clínicos. Un experimento con ratones puede revelar una vía interesante sin demostrar la eficacia de un suplemento comercial en humanos. Esta distinción es esencial ante titulares sobre peso, inmunidad o estado de ánimo. [Fuente: nature.com](https://www.nature.com/articles/s41586-020-2881-9) [Fuente: nature.com](https://www.nature.com/articles/s41589-021-00861-z)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué los probióticos no son una solución universal"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un probiótico no es simplemente cualquier alimento con bacterias. Su beneficio propuesto depende de los microorganismos identificados, la formulación, la dosis, el uso previsto y las pruebas. Los resultados para una cepa o enfermedad no se trasladan automáticamente a otro producto. Algunas aplicaciones cuentan con investigación favorable, pero muchas afirmaciones comerciales superan la evidencia clínica fiable. La seguridad también depende de la persona: se han producido infecciones graves en pacientes vulnerables. El NCCIH desaconseja sustituir tratamientos demostrados por productos no probados. Más bacterias no significa necesariamente mejor y natural no equivale a libre de riesgos. [Fuente: nccih.nih.gov](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety)"
+      },
+      {
+        "type": "heading",
+        "text": "El suelo: descomposición e intercambio"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las bacterias transforman materia orgánica muerta y liberan nutrientes en formas utilizables por otros organismos. Trabajan junto con hongos, arqueas y otros habitantes del suelo; no realizan toda la descomposición por sí solas. Su actividad depende del agua, la temperatura, el oxígeno y la química de los materiales disponibles. El suelo no es un soporte inerte: contiene organismos cuyo metabolismo afecta a la fertilidad, al almacenamiento de carbono y al intercambio de gases de efecto invernadero. Cambios de uso del terreno o del clima alteran esas relaciones de maneras distintas según el ecosistema. [Fuente: nature.com](https://www.nature.com/articles/s41579-019-0265-7)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El nitrógeno hace especialmente visibles estas conexiones. Algunas bacterias fijan nitrógeno atmosférico en compuestos biológicamente utilizables, como los rizobios asociados con leguminosas. Otras reacciones microbianas transforman compuestos nitrogenados o devuelven nitrógeno a la atmósfera. Son redes, no una cadena de montaje dirigida por una sola especie. El tratamiento de aguas residuales también aprovecha transformaciones microbianas para eliminar nutrientes sobrantes. Importa saber qué reacciones predominan: según las condiciones, los microbios pueden reducir contaminación o generar gases ambientalmente relevantes. [Fuente: nature.com](https://www.nature.com/articles/nrmicro.2018.9)"
+      },
+      {
+        "type": "heading",
+        "text": "Océanos y oxigenación de la Tierra"
+      },
+      {
+        "type": "paragraph",
+        "text": "En océanos iluminados, cianobacterias como Prochlorococcus contribuyen a la fotosíntesis y a las redes alimentarias marinas. Otras bacterias consumen materia orgánica disuelta y reciclan carbono y nutrientes. Las bacterias oceánicas forman comunidades diversas, no una fuerza de trabajo intercambiable. Temperatura, luz y disponibilidad de nutrientes condicionan su distribución y actividad. Su tamaño diminuto no reduce su importancia ecológica, pero atribuirles toda la producción marina de oxígeno borraría la contribución de otros organismos fotosintéticos. [Fuente: nature.com](https://www.nature.com/articles/nrmicro3378) [Fuente: nature.com](https://www.nature.com/articles/s41579-024-01018-0)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las cianobacterias también transformaron la atmósfera terrestre mediante fotosíntesis productora de oxígeno. La Gran Oxidación, iniciada hace unos 2.400 millones de años, marca un cambio fundamental en la presencia persistente de oxígeno atmosférico. No fue una transición instantánea al aire actual. Producción, consumo químico y procesos geológicos interactuaron; aún se debaten aspectos de la cronología y los mecanismos. El oxígeno abrió posibilidades y desafió a organismos adaptados a ambientes pobres en él. El contexto planetario se desarrolla en nuestro reportaje sobre el [Sistema Solar](/articles/our-solar-system-sun-eight-planets-beyond/). [Fuente: nature.com](https://www.nature.com/articles/nature13068) [Fuente: nature.com](https://www.nature.com/articles/nature20826)"
+      },
+      {
+        "type": "heading",
+        "text": "Infección: identificar la causa importa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las bacterias patógenas pueden dañar tejidos directamente, producir toxinas o desencadenar respuestas inflamatorias perjudiciales. Infección no significa mera presencia: una persona puede portar un organismo sin enfermar. A la inversa, el mismo organismo puede causar enfermedad grave en un huésped susceptible. Las vías de transmisión varían, por lo que la prevención no se reduce a una medida universal. Vacunación cuando existe, agua segura, saneamiento, seguridad alimentaria y control de infecciones abordan partes diferentes del problema. La microbiología permite prevenir con precisión, en lugar de temer cualquier superficie."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los antibióticos matan bacterias o inhiben su crecimiento actuando sobre procesos como la formación de la pared celular o la producción de proteínas. Cada fármaco tiene una actividad distinta y las decisiones dependen de la infección y del paciente. La identificación y las pruebas de sensibilidad ayudan a orientar la elección. Estos medicamentos transformaron la asistencia, pero también tienen efectos adversos y alteran comunidades residentes. Los CDC recomiendan tomarlos exactamente según la prescripción, no compartirlos ni guardarlos para otra enfermedad. Una infección viral no responde a antibióticos por el mero hecho de causar síntomas intensos. [Fuente: cdc.gov](https://www.cdc.gov/antibiotic-use/about/)"
+      },
+      {
+        "type": "heading",
+        "text": "Resistencia: evolución con consecuencias sanitarias"
+      },
+      {
+        "type": "paragraph",
+        "text": "La resistencia a antibióticos pertenece a los microbios; no significa que el cuerpo de una persona se acostumbre al tratamiento. Mutaciones o genes adquiridos pueden modificar dianas, destruir un medicamento, reducir su entrada o facilitar su expulsión. La exposición puede favorecer organismos resistentes que después se propagan. El uso inadecuado acelera el problema, pero también importa el acceso a diagnóstico y tratamiento eficaces. La resistencia no respeta hospitales ni fronteras: los sistemas humanos, animales y ambientales están conectados. [Fuente: who.int](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El término más amplio resistencia a los antimicrobianos incluye virus, hongos y parásitos, además de bacterias. Distinguir categorías evita estadísticas engañosas y soluciones irreales. Mejor prescripción, prevención, vigilancia y desarrollo de terapias deben actuar conjuntamente. Un compuesto prometedor en laboratorio no es automáticamente un medicamento seguro y un antibiótico nuevo tampoco es un recurso ilimitado. El desafío consiste en conservar tratamientos eficaces y garantizar que lleguen a quienes los necesitan. Investigación y acceso equitativo son objetivos complementarios."
+      },
+      {
+        "type": "heading",
+        "text": "Biopelículas: bacterias que viven juntas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Muchas bacterias viven adheridas a superficies en comunidades insertas en una matriz extracelular. Esta puede contener polisacáridos, proteínas y ADN, y generar condiciones distintas de las del líquido circundante. La placa dental es un ejemplo conocido; también hay biopelículas en rocas, tuberías y dispositivos médicos. Pueden reunir varias especies e incluir organismos no bacterianos. Llamarlas ciudades bacterianas ayuda a imaginarlas, pero no debe sugerir planificación consciente ni cooperación humana. [Fuente: nature.com](https://www.nature.com/articles/nrmicro2415)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dentro de una biopelícula, las células experimentan diferentes niveles de oxígeno y nutrientes y pueden mostrar una sensibilidad alterada al tratamiento. La estructura, el crecimiento lento y los cambios fisiológicos contribuyen a la supervivencia. Esta tolerancia no equivale a resistencia heredable a antibióticos, aunque ambas pueden coexistir. La diferencia importa para diseñar intervenciones: desorganizar la matriz, modificar la fisiología y actuar sobre un gen de resistencia son estrategias distintas. La investigación estudia cómo la organización comunitaria cambia el comportamiento, no solo si hay bacterias presentes. [Fuente: nature.com](https://www.nature.com/articles/s41579-022-00791-0)"
+      },
+      {
+        "type": "heading",
+        "text": "Estrategias de supervivencia y límites de la vida"
+      },
+      {
+        "type": "paragraph",
+        "text": "Algunas bacterias forman endosporas, estructuras duraderas e inactivas capaces de soportar condiciones que dañan células en crecimiento. Bacillus subtilis es un ejemplo bien estudiado. Una espora es una fase de supervivencia, no prueba de que todas las bacterias sean indestructibles; formarla tampoco multiplica el número de células. Cuando las condiciones mejoran, la germinación permite reanudar el crecimiento. Por eso la elaboración de alimentos y la esterilización requieren métodos validados, sin asumir que todos los microbios responden igual al calor o a productos químicos. [Fuente: nature.com](https://www.nature.com/articles/nrmicro2921)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los extremófilos están adaptados a condiciones que los humanos consideran extremas, como temperatura, acidez o salinidad elevadas. Algunos son bacterias y otros arqueas: los términos no son sinónimos. Adaptarse a una presión no confiere tolerancia ilimitada a todas. Estudiar esta supervivencia permite comprender membranas, proteínas y sistemas de reparación, e investigar ambientes fuera de la Tierra. No demuestra vida extraterrestre. Habitabilidad y detección real siguen siendo cuestiones distintas, como explica [Nuestro universo](/articles/our-universe-big-bang-end-of-time/)."
+      },
+      {
+        "type": "heading",
+        "text": "Fermentación y biotecnología"
+      },
+      {
+        "type": "paragraph",
+        "text": "La humanidad aprovechó la actividad microbiana mucho antes de comprender las células. La fermentación bacteriana contribuye a yogures, quesos y verduras fermentadas modificando acidez, sabor y textura. El yogur suele utilizar Streptococcus thermophilus y Lactobacillus delbrueckii subsp. bulgaricus. Muchas fermentaciones incorporan levaduras u otros hongos. Fermentado no significa probiótico: el procesamiento puede eliminar organismos vivos y una afirmación sanitaria exige pruebas adicionales. La producción segura depende de condiciones controladas, ingredientes e higiene, no de suponer deseable cualquier microbio que crezca. [Fuente: nature.com](https://www.nature.com/articles/s41575-020-00390-5)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las bacterias se convirtieron además en herramientas biotecnológicas. Introducir instrucciones genéticas adecuadas en cepas de laboratorio permite producir proteínas útiles, incluida insulina recombinante. La fabricación industrial requiere control y purificación; no consiste simplemente en consumir las bacterias. Otro ejemplo es CRISPR, convertido en herramienta de edición genética a partir de defensas microbianas. Estos avances muestran cómo la investigación básica revela mecanismos aplicables a la medicina. También exigen distinguir un proceso natural de una aplicación diseñada cuidadosamente. [Fuente: nigms.nih.gov](https://www.nigms.nih.gov/image-gallery/2565) [Fuente: nigms.nih.gov](https://nigms.nih.gov/biobeat/tag/crispr)"
+      },
+      {
+        "type": "heading",
+        "text": "Los descubrimientos siguen cambiando el panorama"
+      },
+      {
+        "type": "paragraph",
+        "text": "La microscopía permitió observar organismos antes invisibles; los experimentos relacionaron microbios concretos con enfermedades y fermentación. Los antibióticos cambiaron después las posibilidades clínicas. El Nobel de 1945 reconoció a Alexander Fleming, Ernst Chain y Howard Florey por la penicilina y sus efectos terapéuticos, recordando que descubrir y desarrollar son logros distintos. La secuenciación moderna añadió otra transformación: investigar ADN de comunidades difíciles de cultivar con métodos habituales de laboratorio. Nuestro reportaje sobre la [historia de la medicina](/articles/history-future-of-medicine/) desarrolla este cambio. [Fuente: nobelprize.org](https://www.nobelprize.org/prizes/medicine/1945/summary/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Persisten preguntas fundamentales. ¿Qué cambios comunitarios causan enfermedad en vez de acompañarla? ¿Hasta dónde predice un resultado de laboratorio el comportamiento de un ecosistema vivo? ¿Qué organismos y funciones siguen ausentes de nuestros estudios? El ADN revela posibilidades, pero la actividad depende de la expresión genética y del ambiente. Las mejores respuestas combinarán cultivo, imágenes, química, secuenciación y experimentos rigurosos. Las bacterias no merecen miedo indiscriminado ni celebración generalizada, sino atención a su capacidad de hacer habitable el planeta y, a veces, precaria la vida humana."
+      }
+    ],
+    "sources": [
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK8477/"
+      },
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1945/"
+      },
+      {
+        "label": "www.cdc.gov",
+        "url": "https://www.cdc.gov/antibiotic-use/about/"
+      },
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/mesh/68001105"
+      },
+      {
+        "label": "www.nigms.nih.gov",
+        "url": "https://www.nigms.nih.gov/biobeat/2015/04/our-microbial-menagerie"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41467-021-21323-z"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nature08793"
+      },
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7908/"
+      },
+      {
+        "label": "www.cdc.gov",
+        "url": "https://www.cdc.gov/ecoli/about/"
+      },
+      {
+        "label": "www.who.int",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+      },
+      {
+        "label": "www.cdc.gov",
+        "url": "https://www.cdc.gov/salmonella/about/"
+      },
+      {
+        "label": "www.nigms.nih.gov",
+        "url": "https://www.nigms.nih.gov/biobeat/tag/microbes"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-025-01183-w"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41586-020-2881-9"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41589-021-00861-z"
+      },
+      {
+        "label": "www.nccih.nih.gov",
+        "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-019-0265-7"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro.2018.9"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro3378"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-024-01018-0"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nature13068"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nature20826"
+      },
+      {
+        "label": "www.who.int",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro2415"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-022-00791-0"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro2921"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41575-020-00390-5"
+      },
+      {
+        "label": "www.nigms.nih.gov",
+        "url": "https://www.nigms.nih.gov/image-gallery/2565"
+      },
+      {
+        "label": "nigms.nih.gov",
+        "url": "https://nigms.nih.gov/biobeat/tag/crispr"
+      },
+      {
+        "label": "www.nobelprize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/bacteria-good-bad-microbes-shape-our-lives/",
+    "path": "/fr/articles/bacteria-good-bad-microbes-shape-our-lives/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-18",
+      "terminologyChecked": true
+    },
+    "title": "Bactéries : les microbes utiles et dangereux qui façonnent nos vies",
+    "seoTitle": "Bactéries : bienfaits, risques et rôle dans le vivant",
+    "description": "Des bactéries du microbiote aux antibiotiques : découvrez leur rôle dans la santé, les aliments, les océans et la vie sur Terre.",
+    "excerpt": "Des bactéries du microbiote aux antibiotiques : découvrez leur rôle dans la santé, les aliments, les océans et la vie sur Terre.",
+    "headlineHighlights": {
+      "red": "Bactéries",
+      "gold": "façonnent nos vies"
+    },
+    "keywords": [
+      "Bactéries",
+      "façonnent nos vies"
+    ],
+    "searchIntent": "Des bactéries du microbiote aux antibiotiques : découvrez leur rôle dans la santé, les aliments, les océans et la vie sur Terre.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-18",
+    "updatedAt": "2026-10-18",
+    "image": {
+      "src": "/articles/bacteria-hero.png",
+      "alt": "Illustration scientifique par IA de microbes colorés en forme de bâtonnets dans un paysage évoquant la microscopie"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Une cuillerée de yaourt, une poignée de terre et la surface d’une dent appartiennent à des univers différents. Pourtant, les bactéries les façonnent tous. Elles transforment les aliments, recyclent les nutriments et entretiennent des communautés vivantes. Certaines provoquent aussi des maladies dévastatrices. Les qualifier d’ennemies ou d’alliées ne suffit donc pas : il faut savoir quelle bactérie est présente, où elle vit, ce qu’elle fait et comment son environnement réagit."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les bactéries sont des cellules vivantes, pas des virus miniatures. Depuis des milliards d’années, leur évolution leur a permis d’exploiter des milieux aussi différents que les eaux océaniques éclairées et les intestins pauvres en oxygène. Les comprendre change notre échelle de perception. Notre corps constitue un habitat, les écosystèmes dépendent de processus microscopiques et une prescription d’antibiotiques peut exercer une pression évolutive. Cette histoire intime et planétaire relie notre quotidien à celui de l’atmosphère terrestre."
+      },
+      {
+        "type": "heading",
+        "text": "Qu’est-ce qui définit une bactérie ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une cellule bactérienne renferme son contenu dans une membrane et porte son information génétique dans l’ADN. Ses ribosomes fabriquent des protéines, tandis que des enzymes permettent les réactions chimiques du vivant. Contrairement aux cellules humaines, les bactéries n’ont pas de noyau entouré d’une membrane. Leur ADN occupe une région appelée nucléoïde ; beaucoup possèdent aussi de petits éléments génétiques, les plasmides. La plupart ont une paroi contenant du peptidoglycane, mais des exceptions comme Mycoplasma rappellent la prudence nécessaire en biologie. Petite ne signifie pas chimiquement rudimentaire. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK8477/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Leurs formes familières sont les sphères, les bâtonnets et les spirales, parfois organisés en chaînes, en amas ou en filaments. La forme aide à décrire une cellule, mais ne permet pas, à elle seule, d’identifier une espèce ou de prévoir sa dangerosité. Certaines bactéries se déplacent grâce à des flagelles ; d’autres s’attachent aux surfaces par des structures spécialisées. Capsules et couches externes influencent leurs interactions avec un hôte. La coloration de Gram distingue des groupes selon leur enveloppe cellulaire. C’est un indice de laboratoire, pas une classification complète de leur diversité. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK1945/)"
+      },
+      {
+        "type": "heading",
+        "text": "Bactéries, virus et archées : trois réalités différentes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les virus dépendent de cellules hôtes pour produire de nouvelles particules virales. Ils ne disposent pas de l’organisation cellulaire autonome des bactéries. Voilà pourquoi les antibiotiques visant des structures ou des processus bactériens ne soignent pas les infections virales comme la grippe. Un symptôme tel que la toux ne révèle pas sa cause : différents organismes peuvent provoquer des maladies semblables. Le diagnostic permet de déterminer l’utilité d’un traitement. Appeler bactérie toute menace microscopique brouille la compréhension de la biologie comme celle de la médecine. [Source: cdc.gov](https://www.cdc.gov/antibiotic-use/about/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les archées sont des organismes cellulaires qui ressemblent parfois aux bactéries au microscope, mais appartiennent à une lignée évolutive distincte. Leurs membranes et leur machinerie moléculaire présentent des différences importantes. Ce ne sont pas simplement des bactéries inhabituelles. Toutes ne vivent pas non plus dans des conditions extrêmes : on les trouve dans les sols ordinaires, les océans et les communautés associées aux animaux. Le microbiome humain comprend également des champignons et des virus. Une étude de l’ADN bactérien ne décrit donc qu’une partie de cet ensemble biologique. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/mesh/68001105) [Source: nigms.nih.gov](https://www.nigms.nih.gov/biobeat/2015/04/our-microbial-menagerie)"
+      },
+      {
+        "type": "heading",
+        "text": "Une histoire antérieure aux animaux et aux forêts"
+      },
+      {
+        "type": "paragraph",
+        "text": "La vie microbienne plonge ses racines dans l’histoire profonde de la Terre. Des roches vieilles d’environ 3,5 milliards d’années conservent des indices d’écosystèmes microbiens anciens, sans qu’il soit toujours possible d’identifier précisément les organismes responsables. Les minéraux peuvent imiter des formes biologiques et les transformations géologiques brouiller les signaux chimiques. Les chercheurs croisent donc structure, chimie et contexte géologique, plutôt que de dater la première bactérie à partir d’une seule image évocatrice. Les bactéries actuelles descendent de longues histoires évolutives : ce ne sont pas des témoins inchangés des premières formes de vie. [Source: nature.com](https://www.nature.com/articles/s41467-021-21323-z) [Source: nature.com](https://www.nature.com/articles/nature08793)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’évolution a remodelé à plusieurs reprises leurs métabolismes et leurs relations avec les autres organismes. L’arbre ramifié des parentés reste utile, mais les échanges de gènes ajoutent des connexions entre ses branches. La notion même d’espèce bactérienne devient parfois complexe lorsque des souches proches possèdent des gènes accessoires différents. Il en résulte une remarquable diversité fonctionnelle. Certaines utilisent la lumière, d’autres consomment des composés organiques et d’autres exploitent la chimie minérale. Cette histoire est une diversification, pas une échelle dont l’apparition de l’être humain serait l’objectif final."
+      },
+      {
+        "type": "heading",
+        "text": "Se multiplier, muter et acquérir des gènes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Beaucoup de bactéries se reproduisent par division binaire : une cellule copie son matériel génétique puis se divise. La vitesse dépend de l’organisme et des conditions, notamment de la température, des nutriments et de l’oxygène disponible. Les doublements rapides observés dans certains laboratoires ne constituent pas une cadence universelle. Dans la nature, les cellules rencontrent pénurie, concurrence et prédateurs ; beaucoup croissent lentement ou deviennent inactives. La croissance d’une population est donc un résultat écologique, pas une promesse mathématique illimitée. Les mutations introduisent des variations génétiques, puis la sélection naturelle modifie leur persistance."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les bactéries peuvent aussi acquérir de l’ADN provenant d’autres sources que leurs ancêtres directs. La transformation consiste à prélever de l’ADN dans le milieu ; la transduction implique des virus bactériens ; la conjugaison transfère de l’ADN par contact entre cellules. Ces transferts horizontaux peuvent diffuser des caractères utiles, dont certains mécanismes de résistance aux antibiotiques. Cela ne signifie pas que toute bactérie puisse échanger n’importe quel gène avec toutes les autres. La compatibilité, les contacts écologiques et le coût du nouvel ADN comptent. L’évolution associe héritage et occasions offertes par la proximité. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK7908/)"
+      },
+      {
+        "type": "heading",
+        "text": "Le bien et le mal dépendent du contexte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Escherichia coli illustre les limites d’une classification morale. Beaucoup de souches vivent normalement dans l’intestin sans provoquer de maladie, alors que certaines peuvent causer des infections graves. Des gènes permettant la production de toxines ou l’attachement à un hôte changent les conséquences d’une rencontre. Le lieu compte aussi : un organisme toléré dans une région du corps peut être dangereux ailleurs. Le nom d’une espèce n’est donc que le début d’une interprétation clinique, pas un bilan complet du risque. [Source: cdc.gov](https://www.cdc.gov/ecoli/about/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "D’autres exemples précisent le contraste. Les rhizobiums s’associent aux légumineuses et contribuent à leur fournir de l’azote. Streptococcus thermophilus participe à la fabrication du yaourt. Mycobacterium tuberculosis cause la tuberculose, tandis que certaines salmonelles provoquent des infections intestinales. Ces rôles sont réels, mais les mots bonnes et mauvaises résument notre jugement sur leurs conséquences. Les bactéries ne choisissent pas de nous aider ou de nous nuire. Leurs caractères ont évolué dans des milieux particuliers ; la maladie résulte d’une interaction entre organisme, hôte et circonstances. [Source: who.int](https://www.who.int/news-room/fact-sheets/detail/tuberculosis) [Source: cdc.gov](https://www.cdc.gov/salmonella/about/)"
+      },
+      {
+        "type": "heading",
+        "text": "Le corps humain, mosaïque d’habitats microbiens"
+      },
+      {
+        "type": "paragraph",
+        "text": "Peau, bouche et intestin offrent des conditions différentes : leurs communautés bactériennes ne sont pas interchangeables. Humidité, acidité, oxygène et nutriments influencent les organismes capables de s’y maintenir. Même des sites voisins peuvent abriter des populations distinctes. Le microbiote désigne les organismes ; le terme microbiome englobe souvent plus largement leur matériel génétique et leur cadre écologique. Les définitions variant entre études, il faut examiner ce que les chercheurs ont réellement mesuré. Un échantillon de selles, par exemple, ne représente pas également toutes les surfaces intestinales. [Source: nigms.nih.gov](https://www.nigms.nih.gov/biobeat/tag/microbes)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces communautés interagissent avec les tissus de l’hôte et entre elles. La concurrence pour les ressources peut limiter l’installation d’organismes entrants, tandis que des produits microbiens influencent la physiologie. Il n’existe pourtant pas une liste unique de bactéries définissant la santé pour chacun. Âge, alimentation, médicaments et autres expositions modifient la composition. Présenter un microbiome comme un score qu’il faudrait maximiser ou purifier est trompeur. La question pertinente est de savoir si une fonction particulière a démontré, dans un cadre défini, une influence sur un résultat de santé significatif."
+      },
+      {
+        "type": "heading",
+        "text": "Digestion et santé intestinale : les mécanismes avant le marketing"
+      },
+      {
+        "type": "paragraph",
+        "text": "Certaines bactéries intestinales fermentent des glucides qui échappent à la digestion dans l’intestin grêle. Elles produisent notamment des acides gras à chaîne courte, dont l’acétate, le propionate et le butyrate. Ces molécules peuvent fournir de l’énergie et participer à des voies de signalisation ; le butyrate nourrit notamment des cellules qui tapissent le côlon. Leurs effets dépendent du contexte, de leur concentration et des interactions avec l’hôte. Identifier un métabolite potentiellement utile ne prouve pas que l’ajout d’une bactérie donnée préviendra une maladie ou améliorera la santé de tous. [Source: nature.com](https://www.nature.com/articles/s41579-025-01183-w)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les recherches sur le microbiome commencent souvent par des associations : des personnes atteintes d’une maladie présentent un profil microbien différent de celui d’un groupe témoin. Cela ne révèle ni l’ordre des changements ni une causalité bactérienne. L’alimentation, les médicaments et la maladie elle-même peuvent modifier le microbiome. Les explications solides combinent études humaines contrôlées, expériences mécanistiques et essais cliniques. Une expérience chez la souris peut révéler une piste sans démontrer l’efficacité d’un complément chez l’humain. Cette distinction est essentielle face aux annonces sur le poids, l’immunité ou l’humeur. [Source: nature.com](https://www.nature.com/articles/s41586-020-2881-9) [Source: nature.com](https://www.nature.com/articles/s41589-021-00861-z)"
+      },
+      {
+        "type": "heading",
+        "text": "Les probiotiques ne sont pas une solution universelle"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un probiotique n’est pas simplement un aliment contenant des bactéries. Son bénéfice supposé dépend des microorganismes identifiés, de la formulation, de la dose, de l’usage et des preuves. Les résultats concernant une souche ou une affection ne s’appliquent pas automatiquement à un autre produit. Certaines applications disposent de données favorables ; beaucoup de promesses commerciales dépassent toutefois les preuves cliniques fiables. La sécurité dépend aussi de la personne : des infections graves ont été observées chez des patients vulnérables. Le NCCIH déconseille de remplacer un traitement éprouvé par un produit non démontré. Davantage de bactéries n’est pas nécessairement préférable, et naturel ne signifie pas sans risque. [Source: nccih.nih.gov](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety)"
+      },
+      {
+        "type": "heading",
+        "text": "Le sol : décomposition et échanges"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les bactéries transforment la matière organique morte et libèrent des nutriments utilisables par d’autres organismes. Elles travaillent aux côtés des champignons, des archées et d’autres habitants du sol : elles n’assurent pas seules toute la décomposition. Leur activité dépend de l’eau, de la température, de l’oxygène et de la composition des matériaux disponibles. Le sol n’est donc pas un support inerte. Il contient des organismes dont les métabolismes influencent fertilité, stockage du carbone et échanges de gaz à effet de serre. Les changements climatiques et d’usage des terres modifient ces interactions différemment selon les écosystèmes. [Source: nature.com](https://www.nature.com/articles/s41579-019-0265-7)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’azote rend ces relations particulièrement visibles. Certaines bactéries fixent l’azote atmosphérique sous des formes utilisables, notamment les rhizobiums associés aux légumineuses. D’autres réactions microbiennes transforment les composés azotés ou renvoient l’azote vers l’atmosphère. Ces processus constituent des réseaux, pas une chaîne ordonnée opérée par une seule espèce. Le traitement des eaux usées utilise aussi des transformations microbiennes pour éliminer les nutriments en excès. Comprendre les réactions dominantes importe, car les microbes peuvent réduire la pollution ou produire des gaz importants pour l’environnement selon les conditions. [Source: nature.com](https://www.nature.com/articles/nrmicro.2018.9)"
+      },
+      {
+        "type": "heading",
+        "text": "Les océans et l’oxygénation terrestre"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans les eaux éclairées, des cyanobactéries comme Prochlorococcus contribuent à la photosynthèse et aux réseaux alimentaires marins. D’autres bactéries consomment la matière organique dissoute et recyclent carbone et nutriments. Ce sont des communautés diverses, pas une main-d’œuvre interchangeable. Température, lumière et ressources déterminent leur répartition et leur activité. Leur petite taille ne diminue pas leur importance écologique. Attribuer aux bactéries toute la production d’oxygène marin effacerait cependant la contribution des autres organismes photosynthétiques. [Source: nature.com](https://www.nature.com/articles/nrmicro3378) [Source: nature.com](https://www.nature.com/articles/s41579-024-01018-0)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les cyanobactéries ont également transformé l’atmosphère grâce à une photosynthèse libérant de l’oxygène. La Grande Oxydation, qui commence il y a environ 2,4 milliards d’années, marque un changement majeur vers la présence durable d’oxygène atmosphérique. Il ne s’agit pas d’un passage instantané à l’air actuel. Production, consommation chimique et processus géologiques ont interagi, et certains aspects du calendrier et des mécanismes restent débattus. L’oxygène ouvrait des possibilités nouvelles tout en mettant en difficulté des organismes adaptés à son absence. Pour le contexte planétaire, consultez notre dossier sur le [Système solaire](/articles/our-solar-system-sun-eight-planets-beyond/). [Source: nature.com](https://www.nature.com/articles/nature13068) [Source: nature.com](https://www.nature.com/articles/nature20826)"
+      },
+      {
+        "type": "heading",
+        "text": "Identifier la cause d’une infection"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des bactéries pathogènes peuvent endommager directement les tissus, produire des toxines ou déclencher une inflammation nocive. L’infection ne se confond pas avec la simple présence : une personne peut porter un organisme sans être malade. Le même organisme peut, à l’inverse, provoquer une maladie grave chez un hôte susceptible. Les voies de transmission varient ; aucune mesure unique ne suffit donc à tout prévenir. Vaccination lorsqu’elle existe, eau sûre, assainissement, sécurité alimentaire et prévention des infections répondent à des problèmes différents. La microbiologie permet une prévention précise plutôt qu’une peur générale de chaque surface."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les antibiotiques tuent les bactéries ou inhibent leur croissance en visant, par exemple, la construction de la paroi ou la fabrication des protéines. Leur activité varie ; le choix dépend de l’infection et du patient. Identification en laboratoire et tests de sensibilité peuvent l’orienter. Ces médicaments ont transformé les soins, mais entraînent aussi des effets indésirables et perturbent parfois les communautés résidentes. Le CDC recommande de les prendre exactement selon la prescription, sans les partager ni les conserver pour une autre maladie. La gravité ressentie de symptômes viraux ne rend pas les antibiotiques efficaces contre leur cause. [Source: cdc.gov](https://www.cdc.gov/antibiotic-use/about/)"
+      },
+      {
+        "type": "heading",
+        "text": "La résistance, évolution et santé publique"
+      },
+      {
+        "type": "paragraph",
+        "text": "La résistance aux antibiotiques concerne les microbes, pas un corps qui s’habituerait au traitement. Mutations et gènes acquis peuvent modifier une cible, détruire le médicament, réduire son entrée ou faciliter son expulsion. L’exposition favorise parfois les organismes résistants, qui se diffusent ensuite. Les usages inappropriés accélèrent ce phénomène, mais l’accès au diagnostic et aux traitements efficaces compte également. La résistance ne reste ni dans les hôpitaux ni à l’intérieur des frontières : systèmes humains, animaux et environnementaux sont liés. [Source: who.int](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’antibiorésistance bactérienne fait partie d’un phénomène plus large, la résistance aux antimicrobiens, qui concerne aussi virus, champignons et parasites. Distinguer ces catégories évite statistiques trompeuses et solutions irréalistes. Prescription adaptée, prévention, surveillance et nouveaux traitements doivent progresser ensemble. Une molécule prometteuse au laboratoire n’est pas automatiquement un médicament sûr ; un nouvel antibiotique n’est pas une ressource illimitée. Il faut préserver l’efficacité des traitements tout en assurant leur accès à ceux qui en ont besoin. Progrès scientifique et équité sont complémentaires."
+      },
+      {
+        "type": "heading",
+        "text": "Les biofilms : une vie collective"
+      },
+      {
+        "type": "paragraph",
+        "text": "Beaucoup de bactéries vivent attachées à des surfaces, dans des communautés entourées d’une matrice extracellulaire. Celle-ci peut contenir polysaccharides, protéines et ADN, et créer des conditions différentes du liquide environnant. La plaque dentaire en est un exemple familier ; des biofilms se développent aussi sur les roches, dans les canalisations et sur des dispositifs médicaux. Ils peuvent réunir plusieurs espèces, parfois autres que bactériennes. L’image de villes bactériennes facilite la compréhension, mais ne doit pas suggérer une planification consciente ou une coopération humaine. [Source: nature.com](https://www.nature.com/articles/nrmicro2415)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans un biofilm, les cellules rencontrent des niveaux différents d’oxygène et de nutriments et peuvent réagir autrement aux traitements. Structure physique, croissance lente et changements physiologiques contribuent à leur survie. Cette tolérance n’est pas identique à une résistance héréditaire, même si les deux coexistent parfois. La distinction guide les interventions : désorganiser une matrice, modifier une physiologie ou viser un gène de résistance sont des stratégies différentes. La recherche étudie comment l’organisation d’une communauté change son comportement, pas uniquement si des bactéries sont présentes. [Source: nature.com](https://www.nature.com/articles/s41579-022-00791-0)"
+      },
+      {
+        "type": "heading",
+        "text": "Survivre et comprendre les limites du vivant"
+      },
+      {
+        "type": "paragraph",
+        "text": "Certaines bactéries forment des endospores, structures dormantes durables qui résistent à des conditions nuisibles aux cellules en croissance. Bacillus subtilis constitue un modèle bien étudié. Une spore est un stade de survie, pas une preuve que toutes les bactéries seraient indestructibles ; sa formation ne multiplie pas le nombre de cellules. Lorsque les conditions redeviennent favorables, la germination permet la reprise de croissance. Cela explique pourquoi transformation alimentaire et stérilisation nécessitent des méthodes validées, plutôt que l’hypothèse d’une réaction identique de tous les microbes à la chaleur ou aux produits chimiques. [Source: nature.com](https://www.nature.com/articles/nrmicro2921)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les extrêmophiles sont adaptés à des conditions que nous considérons extrêmes, comme une température, une acidité ou une salinité élevées. Certains sont des bactéries, d’autres des archées : les termes ne sont pas synonymes. Résister à une contrainte ne signifie pas résister à toutes. L’étude de cette survie éclaire les membranes, les protéines et les mécanismes de réparation, tout en nourrissant les questions sur d’autres environnements planétaires. Elle ne démontre aucune vie extraterrestre. Habitabilité et détection restent distinctes, comme l’explique [Notre Univers](/articles/our-universe-big-bang-end-of-time/)."
+      },
+      {
+        "type": "heading",
+        "text": "Fermentation et biotechnologies"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’humanité a utilisé l’activité microbienne dans les aliments bien avant de comprendre les cellules. La fermentation bactérienne contribue aux yaourts, aux fromages et aux légumes fermentés en modifiant acidité, goût et texture. Le yaourt repose couramment sur Streptococcus thermophilus et Lactobacillus delbrueckii subsp. bulgaricus. Beaucoup de fermentations impliquent aussi des levures ou d’autres champignons. Fermenté ne signifie pas probiotique : la transformation peut éliminer ou tuer les organismes vivants, et une allégation de santé exige des preuves supplémentaires. La sécurité dépend de conditions maîtrisées, des ingrédients et de l’hygiène, pas de l’idée que tout microbe serait souhaitable. [Source: nature.com](https://www.nature.com/articles/s41575-020-00390-5)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les bactéries sont également devenues des outils biotechnologiques. L’introduction d’instructions génétiques adaptées dans des souches de laboratoire permet de produire des protéines utiles, dont l’insuline recombinante. La production industrielle exige fabrication contrôlée et purification : il ne suffit pas de consommer les bactéries. CRISPR offre un autre exemple, celui d’outils d’édition génétique issus de défenses microbiennes. Ces réalisations montrent comment la recherche fondamentale révèle des mécanismes utiles à la médecine. Elles demandent aussi de distinguer le processus naturel de son application soigneusement conçue. [Source: nigms.nih.gov](https://www.nigms.nih.gov/image-gallery/2565) [Source: nigms.nih.gov](https://nigms.nih.gov/biobeat/tag/crispr)"
+      },
+      {
+        "type": "heading",
+        "text": "Une découverte toujours en mouvement"
+      },
+      {
+        "type": "paragraph",
+        "text": "La microscopie a rendu observables des organismes invisibles, tandis que des expériences reliaient certains microbes aux maladies et aux fermentations. Les antibiotiques ont ensuite transformé les possibilités thérapeutiques. Le prix Nobel de 1945 a récompensé Alexander Fleming, Ernst Chain et Howard Florey pour la pénicilline et ses effets curatifs : découverte et développement sont des réalisations distinctes. Le séquençage moderne a apporté un autre tournant, permettant d’examiner l’ADN de communautés difficiles à cultiver par les méthodes habituelles. Ce tournant est également abordé dans notre [histoire de la médecine](/articles/history-future-of-medicine/). [Source: nobelprize.org](https://www.nobelprize.org/prizes/medicine/1945/summary/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des questions majeures demeurent. Quels changements microbiens provoquent une maladie plutôt qu’ils ne l’accompagnent ? Avec quelle fiabilité le laboratoire prédit-il le comportement d’un écosystème vivant ? Quels organismes et quelles fonctions échappent encore aux inventaires ? L’ADN révèle un potentiel, mais l’activité dépend de l’expression des gènes et du milieu. Les réponses combineront culture, imagerie, chimie, séquençage et expériences rigoureuses. Les bactéries ne méritent ni crainte systématique ni célébration aveugle, mais l’attention due à des organismes qui rendent la planète habitable et parfois notre vie précaire."
+      }
+    ],
+    "sources": [
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK8477/"
+      },
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1945/"
+      },
+      {
+        "label": "www.cdc.gov",
+        "url": "https://www.cdc.gov/antibiotic-use/about/"
+      },
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/mesh/68001105"
+      },
+      {
+        "label": "www.nigms.nih.gov",
+        "url": "https://www.nigms.nih.gov/biobeat/2015/04/our-microbial-menagerie"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41467-021-21323-z"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nature08793"
+      },
+      {
+        "label": "www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7908/"
+      },
+      {
+        "label": "www.cdc.gov",
+        "url": "https://www.cdc.gov/ecoli/about/"
+      },
+      {
+        "label": "www.who.int",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+      },
+      {
+        "label": "www.cdc.gov",
+        "url": "https://www.cdc.gov/salmonella/about/"
+      },
+      {
+        "label": "www.nigms.nih.gov",
+        "url": "https://www.nigms.nih.gov/biobeat/tag/microbes"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-025-01183-w"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41586-020-2881-9"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41589-021-00861-z"
+      },
+      {
+        "label": "www.nccih.nih.gov",
+        "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-019-0265-7"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro.2018.9"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro3378"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-024-01018-0"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nature13068"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nature20826"
+      },
+      {
+        "label": "www.who.int",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro2415"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41579-022-00791-0"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/nrmicro2921"
+      },
+      {
+        "label": "www.nature.com",
+        "url": "https://www.nature.com/articles/s41575-020-00390-5"
+      },
+      {
+        "label": "www.nigms.nih.gov",
+        "url": "https://www.nigms.nih.gov/image-gallery/2565"
+      },
+      {
+        "label": "nigms.nih.gov",
+        "url": "https://nigms.nih.gov/biobeat/tag/crispr"
+      },
+      {
+        "label": "www.nobelprize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/bajau-people-sea-nomads-diving/",
     "path": "/ar/articles/bajau-people-sea-nomads-diving/",
     "kind": "article",

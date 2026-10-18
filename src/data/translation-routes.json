@@ -481,6 +481,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/bacteria-good-bad-microbes-shape-our-lives/",
+    "path": "/ar/articles/bacteria-good-bad-microbes-shape-our-lives/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/bacteria-good-bad-microbes-shape-our-lives/",
+    "path": "/es/articles/bacteria-good-bad-microbes-shape-our-lives/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/bacteria-good-bad-microbes-shape-our-lives/",
+    "path": "/fr/articles/bacteria-good-bad-microbes-shape-our-lives/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/bajau-people-sea-nomads-diving/",
     "path": "/ar/articles/bajau-people-sea-nomads-diving/"
   },

@@ -1,0 +1,86 @@
+{
+  "salmonella": {
+    "src": "/articles/bacteria/salmonella.webp",
+    "width": 700,
+    "height": 475,
+    "credit": "CDC / Bette Jensen; photograph: Janice Haney Carr",
+    "creditUrl": "https://wwwn.cdc.gov/phil/Details.aspx?pid=10971",
+    "source": "https://wwwn.cdc.gov/phil/Details.aspx?pid=10971",
+    "license": "Public domain; CDC PHIL reuse terms",
+    "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+    "copy": {
+      "en": {
+        "caption": "Salmonella Typhimurium grown in pure culture, 2009. Authentic scanning electron micrograph, digitally colorized by the source.",
+        "alt": "Clustered rod-shaped Salmonella bacteria in a colorized electron micrograph"
+      },
+      "fr": {
+        "caption": "Salmonella Typhimurium en culture pure, 2009. Authentique micrographie électronique à balayage, colorisée numériquement par la source.",
+        "alt": "Bactéries Salmonella en bâtonnets regroupées sur une micrographie colorisée"
+      },
+      "es": {
+        "caption": "Salmonella Typhimurium en cultivo puro, 2009. Micrografía electrónica de barrido auténtica, coloreada digitalmente por la fuente.",
+        "alt": "Bacterias Salmonella en forma de bastón agrupadas en una micrografía coloreada"
+      },
+      "ar": {
+        "caption": "سالمونيلا تيفيموريوم في مزرعة نقية، 2009. صورة حقيقية بالمجهر الإلكتروني الماسح، لوّنها المصدر رقمياً.",
+        "alt": "تجمع بكتيريا السالمونيلا العصوية في صورة مجهرية إلكترونية ملونة"
+      }
+    }
+  },
+  "staphylococcus": {
+    "src": "/articles/bacteria/staphylococcus.webp",
+    "width": 700,
+    "height": 537,
+    "credit": "CDC / Matthew J. Arduino, DrPH; photograph: Janice Haney Carr",
+    "creditUrl": "https://wwwn.cdc.gov/phil/Details.aspx?pid=11157",
+    "source": "https://wwwn.cdc.gov/phil/Details.aspx?pid=11157",
+    "license": "Public domain; CDC PHIL reuse terms",
+    "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+    "copy": {
+      "en": {
+        "caption": "Staphylococcus aureus from a culture with intermediate vancomycin resistance (VISA), 2001. Authentic scanning electron micrograph, digitally colorized by the source. Appearance alone does not reveal resistance.",
+        "alt": "Spherical Staphylococcus aureus cells clustered in a colorized electron micrograph"
+      },
+      "fr": {
+        "caption": "Staphylococcus aureus issu d’une culture à résistance intermédiaire à la vancomycine (VISA), 2001. Authentique micrographie électronique à balayage, colorisée par la source. L’apparence seule ne révèle pas la résistance.",
+        "alt": "Cellules sphériques de Staphylococcus aureus regroupées sur une micrographie colorisée"
+      },
+      "es": {
+        "caption": "Staphylococcus aureus de un cultivo con resistencia intermedia a vancomicina (VISA), 2001. Micrografía electrónica de barrido auténtica, coloreada por la fuente. La apariencia no revela por sí sola la resistencia.",
+        "alt": "Células esféricas de Staphylococcus aureus agrupadas en una micrografía coloreada"
+      },
+      "ar": {
+        "caption": "مكورات عنقودية ذهبية من مزرعة ذات مقاومة متوسطة للفانكوميسين (VISA)، 2001. صورة حقيقية بالمجهر الإلكتروني الماسح لوّنها المصدر رقمياً. لا يكشف المظهر وحده المقاومة.",
+        "alt": "خلايا كروية من المكورات العنقودية الذهبية متجمعة في صورة مجهرية ملونة"
+      }
+    }
+  },
+  "influenza": {
+    "src": "/articles/bacteria/influenza.webp",
+    "width": 700,
+    "height": 528,
+    "credit": "NIAID / NIH; source: CDC Public Health Image Library",
+    "creditUrl": "https://wwwn.cdc.gov/phil/Details.aspx?pid=18157",
+    "source": "https://wwwn.cdc.gov/phil/Details.aspx?pid=18157",
+    "license": "Public domain; CDC PHIL reuse terms",
+    "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+    "copy": {
+      "en": {
+        "caption": "H1N1 influenza virus particles, 2012. Authentic transmission electron micrograph from NIAID, digitally colorized. These are viruses, not bacteria, and are shown here for comparison.",
+        "alt": "Colorized transmission electron micrograph of several H1N1 influenza virus particles"
+      },
+      "fr": {
+        "caption": "Particules du virus de la grippe H1N1, 2012. Authentique micrographie électronique en transmission du NIAID, colorisée numériquement. Ce sont des virus, pas des bactéries, présentés ici à titre de comparaison.",
+        "alt": "Micrographie électronique en transmission colorisée de particules du virus H1N1"
+      },
+      "es": {
+        "caption": "Partículas del virus de la gripe H1N1, 2012. Micrografía electrónica de transmisión auténtica del NIAID, coloreada digitalmente. Son virus, no bacterias, mostrados como comparación.",
+        "alt": "Micrografía electrónica de transmisión coloreada de partículas del virus H1N1"
+      },
+      "ar": {
+        "caption": "جسيمات فيروس إنفلونزا H1N1، 2012. صورة حقيقية بالمجهر الإلكتروني النافذ من NIAID، ملونة رقمياً. هذه فيروسات وليست بكتيريا، وتُعرض للمقارنة.",
+        "alt": "صورة ملونة بالمجهر الإلكتروني النافذ لجسيمات فيروس إنفلونزا H1N1"
+      }
+    }
+  }
+}

@@ -1598,5 +1598,41 @@
       "src": "/articles/solar/responsive/neptune-1400.webp",
       "bytes": 106744
     }
+  ],
+  "/articles/bacteria/salmonella.webp": [
+    {
+      "width": 400,
+      "src": "/articles/bacteria/responsive/salmonella-400.webp",
+      "bytes": 34178
+    },
+    {
+      "width": 700,
+      "src": "/articles/bacteria/responsive/salmonella-700.webp",
+      "bytes": 74086
+    }
+  ],
+  "/articles/bacteria/staphylococcus.webp": [
+    {
+      "width": 400,
+      "src": "/articles/bacteria/responsive/staphylococcus-400.webp",
+      "bytes": 41132
+    },
+    {
+      "width": 700,
+      "src": "/articles/bacteria/responsive/staphylococcus-700.webp",
+      "bytes": 81164
+    }
+  ],
+  "/articles/bacteria/influenza.webp": [
+    {
+      "width": 400,
+      "src": "/articles/bacteria/responsive/influenza-400.webp",
+      "bytes": 44140
+    },
+    {
+      "width": 700,
+      "src": "/articles/bacteria/responsive/influenza-700.webp",
+      "bytes": 123996
+    }
   ]
 }
