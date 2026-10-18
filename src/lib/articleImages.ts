@@ -57,6 +57,13 @@ export function getArticleHeroImagePosition(article: Pick<Article, "slug" | "hom
 
 export function getArticleDesktopHeroImagePosition(article: Pick<Article, "slug"> & Partial<Pick<Article, "homepageImagePosition">>) {
   switch (article.slug) {
+    // Keep the outer planets and book artwork above the crop in the shared frame.
+    case "our-solar-system-sun-eight-planets-beyond":
+    case "dostoevsky-life-death-human-darkness":
+      return "50% 0%";
+    case "vincent-van-gogh-life-art-legacy":
+    case "graffiti-city-walls-canvases":
+      return "50% 20%";
     case "epstein-island-little-st-james-investigation":
       return "50% 68%";
     default:
