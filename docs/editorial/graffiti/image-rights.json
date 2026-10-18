@@ -1,0 +1,279 @@
+[
+  {
+    "source": "https://commons.wikimedia.org/wiki/File:East_Side_Gallery_-_Thierry_Noir_-_2010-07-28.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/b/b8/East_Side_Gallery_-_Thierry_Noir_-_2010-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-02-21 23:49:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "East Side Gallery - Thierry Noir - 2010-07-28",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Thierry Noir|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Front views of the East Side Gallery",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "52.507784",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "13.435399",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Mural by Thierry Noir, entitled \"Hommage To The Young Generation\". Painted on remnants of the Berlin Wall at the East Side Gallery, Berlin.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-07-28 10:36",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/zazasvq/4866202793/\">East-Side Gallery</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9286726@N03\">Gonzalo Malpartida</a> from Madrid, España",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "artist": "Thierry Noir",
+    "photographer": "Gonzalo Malpartida",
+    "photoLicense": "CC BY-SA 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "artworkRights": "Permanent outdoor artwork photographed from public space in Germany; reproduction under German UrhG section 59. Artwork is not claimed to be CC-licensed by the photographer.",
+    "artworkRightsSource": "https://www.gesetze-im-internet.de/urhg/__59.html",
+    "reviewed": "2026-10-18",
+    "sha256": "28a2caa5dac421c06958e3f379084d147382adeb7ec84f6ace51847c32d7d77b",
+    "changes": "Proportional resizing and WebP conversion. No crop or artwork alterations. Derivative photo files remain under the original photo license."
+  },
+  {
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_Ash-02-1128_02.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Berlin_Ash-02-1128_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2013-04-11 10:13:02",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Berlin Ash-02-1128 02",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Astronaut Cosmonaut|Taken with Canon EOS 550D|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Victor Ash, Astronaut, 2007, Berlin-Kreuzberg, Cuvrystraße",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-08-05 12:01:33",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kamahele\" title=\"User:Kamahele\">Kamahele</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "artist": "Victor Ash",
+    "photographer": "Kamahele",
+    "photoLicense": "CC BY-SA 3.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "artworkRights": "Permanent outdoor artwork photographed from public space in Germany; reproduction under German UrhG section 59. Artwork is not claimed to be CC-licensed by the photographer.",
+    "artworkRightsSource": "https://www.gesetze-im-internet.de/urhg/__59.html",
+    "reviewed": "2026-10-18",
+    "sha256": "3c084a8647b8f5fe208ebb649cc9c1d16e75ae9e8b244edeec78e492b5663107",
+    "changes": "Proportional resizing and WebP conversion. No crop or artwork alterations. Derivative photo files remain under the original photo license."
+  },
+  {
+    "source": "https://commons.wikimedia.org/wiki/File:Birgit_Kinder_-_Test_the_Rest.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Birgit_Kinder_-_Test_the_Rest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-12-27 20:59:43",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Birgit Kinder - Test the Rest",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|FoP-Germany|Street art in Berlin|Front views of the East Side Gallery",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Birgit Kinder - Test the Rest\nStreet Art in der East Side Gallery in Berlin",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-12-27 15:53:44",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Schokifaktor",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "artist": "Birgit Kinder",
+    "photographer": "Schokifaktor",
+    "photoLicense": "CC BY 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "artworkRights": "Permanent outdoor artwork photographed from public space in Germany; reproduction under German UrhG section 59. Artwork is not claimed to be CC-licensed by the photographer.",
+    "artworkRightsSource": "https://www.gesetze-im-internet.de/urhg/__59.html",
+    "reviewed": "2026-10-18",
+    "sha256": "1cbe77e384e876fe94610575f68d8b771a602e67306c4ee7a2caca15c25419e5",
+    "changes": "Proportional resizing and WebP conversion. No crop or artwork alterations. Derivative photo files remain under the original photo license."
+  }
+]

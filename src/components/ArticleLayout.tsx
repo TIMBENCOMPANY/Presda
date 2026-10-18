@@ -1,3 +1,5 @@
+import { GraffitiHistoricalImage, graffitiImageAtBlock } from "@/components/GraffitiHistoricalImage";
+import graffitiHeroCaptions from "@/data/graffitiHeroCaptions.json";
 import { ArtemisHistoricalImage, artemisImageAtBlock } from "@/components/ArtemisHistoricalImage";
 import artemisHeroCaptions from "@/data/artemisHeroCaptions.json";
 import { MoonHistoricalImage, moonImageAtBlock } from "@/components/MoonHistoricalImage";
@@ -279,7 +281,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const lastUpdated = getArticleLastUpdated(article);
   const heroDimensions = getArticleImageDimensions(article.coverImage);
   const standaloneHero = article.slug === "psychology-of-cults-why-people-follow-blindly";
-  const containedHero = ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy", "giordano-bruno-philosopher-heresy", "moon-landing-conspiracy-apollo-evidence", "artemis-2028-nasa-return-moon"].includes(article.slug);
+  const containedHero = ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy", "giordano-bruno-philosopher-heresy", "moon-landing-conspiracy-apollo-evidence", "artemis-2028-nasa-return-moon", "graffiti-city-walls-canvases"].includes(article.slug);
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
@@ -381,6 +383,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "princess-diana-life-tragedy-legacy" && <p data-diana-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dianaHeroCaptions[locale]}</p>}
         {article.slug === "dostoevsky-life-death-human-darkness" && <p data-dostoevsky-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dostoevskyHeroCaptions[locale]}</p>}
         {article.slug === "artemis-2028-nasa-return-moon" && <p data-artemis-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{artemisHeroCaptions[locale]}</p>}
+        {article.slug === "graffiti-city-walls-canvases" && <p data-graffiti-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{graffitiHeroCaptions[locale]}</p>}
         {article.slug === "moon-landing-conspiracy-apollo-evidence" && <p data-moon-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{moonHeroCaptions[locale]}</p>}
         {article.slug === "giordano-bruno-philosopher-heresy" && <p data-bruno-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{brunoHeroCaptions[locale]}</p>}
         {article.slug === "vincent-van-gogh-life-art-legacy" && <p data-vangogh-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{vangoghHeroCaptions[locale]}</p>}
@@ -591,6 +594,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "princess-diana-life-tragedy-legacy" && dianaImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DianaHistoricalImage id={dianaImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "dostoevsky-life-death-human-darkness" && dostoevskyImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DostoevskyHistoricalImage id={dostoevskyImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "artemis-2028-nasa-return-moon" && artemisImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ArtemisHistoricalImage id={artemisImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "graffiti-city-walls-canvases" && graffitiImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GraffitiHistoricalImage id={graffitiImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "moon-landing-conspiracy-apollo-evidence" && moonImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MoonHistoricalImage id={moonImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "giordano-bruno-philosopher-heresy" && brunoImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BrunoHistoricalImage id={brunoImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "vincent-van-gogh-life-art-legacy" && vangoghImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><VangoghHistoricalImage id={vangoghImageAtBlock[originalIndex]} locale={locale} /></div>;

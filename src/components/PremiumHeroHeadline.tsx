@@ -3,6 +3,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Hero-only editorial accents. Keep catalogue/card styling and article data intact.
 const accents: Record<string, Record<Locale, HeadlineHighlights>> = {
+  "graffiti-city-walls-canvases": {"en":{"red":"GRAFFITI:","gold":"CANVASES"},"fr":{"red":"GRAFFITI :","gold":"DES TOILES"},"es":{"red":"GRAFITI:","gold":"LIENZOS"},"ar":{"red":"الغرافيتي:","gold":"لوحات فنية"}},
   "artemis-2028-nasa-return-moon": {"en":{"red":"RETURN TO THE MOON","gold":"ARTEMIS 2028"},"fr":{"red":"RETOUR SUR LA LUNE","gold":"ARTEMIS 2028"},"es":{"red":"VOLVER A LA LUNA","gold":"ARTEMIS 2028"},"ar":{"red":"العودة إلى القمر","gold":"أرتميس 2028"}},
   "moon-landing-conspiracy-apollo-evidence": {"en":{"red":"LAND ON THE MOON?","gold":"THE CONSPIRACY EXPLAINED"},"fr":{"red":"SUR LA LUNE ?","gold":"LA THÉORIE DU COMPLOT EXPLIQUÉE"},"es":{"red":"A LA LUNA?","gold":"LA CONSPIRACIÓN EXPLICADA"},"ar":{"red":"على القمر؟","gold":"تفسير نظرية المؤامرة"}},
   "giordano-bruno-philosopher-heresy": {"en":{"red":"GIORDANO BRUNO","gold":"FOR HERESY"},"fr":{"red":"GIORDANO BRUNO","gold":"POUR HÉRÉSIE"},"es":{"red":"GIORDANO BRUNO","gold":"POR HEREJÍA"},"ar":{"red":"جوردانو برونو","gold":"بتهمة الهرطقة"}},

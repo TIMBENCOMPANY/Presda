@@ -1546,6 +1546,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/graffiti-city-walls-canvases/",
+    "path": "/ar/articles/graffiti-city-walls-canvases/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/graffiti-city-walls-canvases/",
+    "path": "/es/articles/graffiti-city-walls-canvases/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/graffiti-city-walls-canvases/",
+    "path": "/fr/articles/graffiti-city-walls-canvases/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/great-zimbabwe-african-kingdom-built-stone/",
     "path": "/ar/articles/great-zimbabwe-african-kingdom-built-stone/"
   },

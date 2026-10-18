@@ -1348,5 +1348,56 @@
       "src": "/articles/artemis/responsive/orion-1400.webp",
       "bytes": 24430
     }
+  ],
+  "/articles/graffiti/noir.webp": [
+    {
+      "width": 400,
+      "src": "/articles/graffiti/responsive/noir-400.webp",
+      "bytes": 19600
+    },
+    {
+      "width": 800,
+      "src": "/articles/graffiti/responsive/noir-800.webp",
+      "bytes": 55204
+    },
+    {
+      "width": 1400,
+      "src": "/articles/graffiti/responsive/noir-1400.webp",
+      "bytes": 160112
+    }
+  ],
+  "/articles/graffiti/ash.webp": [
+    {
+      "width": 400,
+      "src": "/articles/graffiti/responsive/ash-400.webp",
+      "bytes": 53954
+    },
+    {
+      "width": 800,
+      "src": "/articles/graffiti/responsive/ash-800.webp",
+      "bytes": 168962
+    },
+    {
+      "width": 1067,
+      "src": "/articles/graffiti/responsive/ash-1067.webp",
+      "bytes": 309644
+    }
+  ],
+  "/articles/graffiti/kinder.webp": [
+    {
+      "width": 400,
+      "src": "/articles/graffiti/responsive/kinder-400.webp",
+      "bytes": 19850
+    },
+    {
+      "width": 800,
+      "src": "/articles/graffiti/responsive/kinder-800.webp",
+      "bytes": 61098
+    },
+    {
+      "width": 1400,
+      "src": "/articles/graffiti/responsive/kinder-1400.webp",
+      "bytes": 192732
+    }
   ]
 }

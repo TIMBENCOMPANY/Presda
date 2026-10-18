@@ -1,0 +1,92 @@
+{
+  "noir": {
+    "src": "/articles/graffiti/noir.webp",
+    "width": 1400,
+    "height": 1050,
+    "artist": "Thierry Noir",
+    "photographer": "Gonzalo Malpartida",
+    "credit": "Thierry Noir / Gonzalo Malpartida",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:East_Side_Gallery_-_Thierry_Noir_-_2010-07-28.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:East_Side_Gallery_-_Thierry_Noir_-_2010-07-28.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "copy": {
+      "en": {
+        "caption": "Thierry Noir’s Hommage to the Young Generation at Berlin’s East Side Gallery, photographed on July 28, 2010.",
+        "alt": "Colourful profiles by Thierry Noir extend along the Berlin Wall beside a public pavement."
+      },
+      "fr": {
+        "caption": "Hommage to the Young Generation de Thierry Noir à l’East Side Gallery de Berlin, photographié le 28 juillet 2010.",
+        "alt": "Les profils colorés de Thierry Noir longent le Mur de Berlin au bord du trottoir."
+      },
+      "es": {
+        "caption": "Hommage to the Young Generation de Thierry Noir en la East Side Gallery de Berlín, fotografiado el 28 de julio de 2010.",
+        "alt": "Perfiles coloridos de Thierry Noir se extienden por el Muro de Berlín junto a la acera."
+      },
+      "ar": {
+        "caption": "عمل Hommage to the Young Generation لتييري نوار في إيست سايد غاليري ببرلين، صُوّر في 28 يوليو 2010.",
+        "alt": "وجوه جانبية ملونة لتييري نوار تمتد على جدار برلين بمحاذاة الرصيف العام."
+      }
+    }
+  },
+  "ash": {
+    "src": "/articles/graffiti/ash.webp",
+    "width": 1067,
+    "height": 1600,
+    "artist": "Victor Ash",
+    "photographer": "Kamahele",
+    "credit": "Victor Ash / Kamahele",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Ash-02-1128_02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_Ash-02-1128_02.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "copy": {
+      "en": {
+        "caption": "Victor Ash’s astronaut mural (2007) in Berlin-Kreuzberg, photographed on August 5, 2012. The surrounding building and street remain visible.",
+        "alt": "A giant monochrome astronaut covers a building wall above trees and parked cars."
+      },
+      "fr": {
+        "caption": "La fresque de l’astronaute de Victor Ash (2007), à Berlin-Kreuzberg, photographiée le 5 août 2012 avec son environnement urbain.",
+        "alt": "Un astronaute monumental monochrome couvre un mur au-dessus des arbres et des voitures."
+      },
+      "es": {
+        "caption": "El mural del astronauta de Victor Ash (2007) en Berlín-Kreuzberg, fotografiado el 5 de agosto de 2012 con su entorno urbano.",
+        "alt": "Un astronauta monocromo gigante ocupa una pared sobre árboles y coches aparcados."
+      },
+      "ar": {
+        "caption": "جدارية رائد الفضاء لفيكتور آش (2007) في كرويتسبيرغ ببرلين، صُوّرت في 5 أغسطس 2012 مع محيطها العمراني.",
+        "alt": "رائد فضاء ضخم بلون أحادي يغطي جدار مبنى فوق أشجار وسيارات متوقفة."
+      }
+    }
+  },
+  "kinder": {
+    "src": "/articles/graffiti/kinder.webp",
+    "width": 1400,
+    "height": 1050,
+    "artist": "Birgit Kinder",
+    "photographer": "Schokifaktor",
+    "credit": "Birgit Kinder / Schokifaktor",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Birgit_Kinder_-_Test_the_Rest.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Birgit_Kinder_-_Test_the_Rest.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "copy": {
+      "en": {
+        "caption": "Birgit Kinder’s Test the Rest at Berlin’s East Side Gallery, photographed on December 27, 2023. This records a later appearance of the mural, not its original painting in 1990.",
+        "alt": "A painted Trabant appears to break through a blue wall in Birgit Kinder’s mural."
+      },
+      "fr": {
+        "caption": "Test the Rest de Birgit Kinder à l’East Side Gallery de Berlin, photographié le 27 décembre 2023. Il s’agit d’un état ultérieur, non de sa réalisation en 1990.",
+        "alt": "Une Trabant peinte semble traverser un mur bleu dans la fresque de Birgit Kinder."
+      },
+      "es": {
+        "caption": "Test the Rest de Birgit Kinder en la East Side Gallery de Berlín, fotografiado el 27 de diciembre de 2023. Documenta un estado posterior, no su realización en 1990.",
+        "alt": "Un Trabant pintado parece atravesar una pared azul en el mural de Birgit Kinder."
+      },
+      "ar": {
+        "caption": "عمل Test the Rest لبيرغيت كيندر في إيست سايد غاليري ببرلين، صُوّر في 27 ديسمبر 2023. يوثق حالة لاحقة للجدارية لا رسمها الأصلي في 1990.",
+        "alt": "سيارة ترابانت مرسومة تبدو كأنها تخترق جداراً أزرق في جدارية بيرغيت كيندر."
+      }
+    }
+  }
+}
