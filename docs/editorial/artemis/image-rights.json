@@ -1,0 +1,98 @@
+[
+  {
+    "id": "NHQ202211160030",
+    "record": {
+      "center": "HQ",
+      "date_created": "2022-11-16T00:00:00Z",
+      "description": "NASA’s Space Launch System rocket carrying the Orion spacecraft launches on the Artemis I flight test, Wednesday, Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. NASA’s Artemis I mission is the first integrated flight test of the agency’s deep space exploration systems: the Orion spacecraft, Space Launch System (SLS) rocket, and ground systems. SLS and Orion launched at 1:47 a.m. EST, from Launch Pad 39B at the Kennedy Space Center. Photo Credit: (NASA/Joel Kowsky)",
+      "keywords": [
+        "Artemis",
+        "Artemis I",
+        "Artemis I Launch",
+        "Cape Canaveral",
+        "Florida",
+        "Kennedy Space Center",
+        "Launch Complex 39B",
+        "Orion",
+        "Space Launch System (SLS)"
+      ],
+      "location": "Kennedy Space Center",
+      "media_type": "image",
+      "nasa_id": "NHQ202211160030",
+      "photographer": "NASA/Joel Kowsky",
+      "title": "Artemis I Launch"
+    },
+    "download": "https://images-assets.nasa.gov/image/NHQ202211160030/NHQ202211160030~large.jpg",
+    "sha256": "52bbe1dedbb320f5c8be6ba3919b030f53bf63cd8d3bde15a11f43d68ba33d60",
+    "reviewed": "2026-10-18",
+    "rights": "NASA original archival photography; no third-party copyright indicated. Factual editorial reuse with credit under NASA Images and Media Usage Guidelines. No endorsement implied.",
+    "changes": "Proportional resize and WebP conversion only."
+  },
+  {
+    "id": "JB5_0814",
+    "record": {
+      "center": "JSC",
+      "date_created": "2026-04-10T00:00:00Z",
+      "description": "U.S. Navy divers and Artemis II astronauts aboard an inflatable raft are approached by helicopters and lifted away to the recovery ship after egressing NASA’s Orion spacecraft carrying Artemis II Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, along with Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency), following splashdown in the Pacific Ocean near San Diego, California, at 5:07 p.m. PDT, (8:07 p.m. EDT) on Friday, April 10, 2026. The Artemis II test flight launched on Wednesday, April 1, from NASA’s Kennedy Space Center in Florida to begin its 10-day journey around the Moon for scientific discovery, economic benefits, and to build on our foundation for the first crewed missions to Mars. NASA’s Landing and Recovery team and the U.S. military are helping the Artemis II crew out of their Orion spacecraft. ",
+      "keywords": [
+        "Artemis ii",
+        "Artemis II Mission",
+        "Artemis 2 mission",
+        "Crew recovery"
+      ],
+      "media_type": "image",
+      "nasa_id": "JB5_0814",
+      "photographer": "NASA \\ James Blair",
+      "title": "Artemis II Crew Recovery"
+    },
+    "download": "https://images-assets.nasa.gov/image/JB5_0814/JB5_0814~large.jpg",
+    "sha256": "91ba55d9462c7344e508974975bb8c54342df5b50da3fa96bc0837da50d81cf7",
+    "reviewed": "2026-10-18",
+    "rights": "NASA original archival photography; no third-party copyright indicated. Factual editorial reuse with credit under NASA Images and Media Usage Guidelines. No endorsement implied.",
+    "changes": "Proportional resize and WebP conversion only."
+  },
+  {
+    "id": "NHQ20260609_admin_0007",
+    "record": {
+      "center": "KSC",
+      "date_created": "2026-06-09T00:00:00Z",
+      "description": "ESA (European Space Agency) astronaut Luca Parmitano, Artemis III pilot, is introduced during the Artemis III crew announcement event, Tuesday, June 9, 2026, at NASA’s Johnson Space Center in Houston, Texas. Photo Credit: (NASA/John Kraus)",
+      "keywords": [
+        "Artemis III",
+        "Artemis III Preflight",
+        "ESA (European Space Agency)",
+        "European Space Agency",
+        "Johnson",
+        "Johnson Space Center",
+        "Luca Parmitano",
+        "NASA"
+      ],
+      "location": "NASA's Johnson Space Center",
+      "media_type": "image",
+      "nasa_id": "NHQ20260609_admin_0007",
+      "photographer": "NASA/John Kraus",
+      "title": "Artemis III Crew Announcement"
+    },
+    "download": "https://images-assets.nasa.gov/image/NHQ20260609_admin_0007/NHQ20260609_admin_0007~large.jpg",
+    "sha256": "4ae0d2c0cbf22fa0d8a2f4f65b2959e676d7fd38db8d094e8c61a139e149d068",
+    "reviewed": "2026-10-18",
+    "rights": "NASA original archival photography; no third-party copyright indicated. Factual editorial reuse with credit under NASA Images and Media Usage Guidelines. No endorsement implied.",
+    "changes": "Proportional resize and WebP conversion only."
+  },
+  {
+    "id": "Artemis I FD 17 Orion and a Crescent Moon",
+    "record": {
+      "center": "JSC",
+      "date_created": "2022-12-03T00:00:00Z",
+      "description": "art001e001939 (Dec. 2, 2022) A camera mounted on one of Orion’s four solar arrays captured this image of the Moon on flight day 17 of the 25.5-day Artemis I mission from a distance of more than 222,000 miles. Orion has exited the distant lunar orbit and is heading for a Dec. 11 splashdown in the Pacific Ocean.",
+      "media_type": "image",
+      "nasa_id": "Artemis I FD 17 Orion and a Crescent Moon",
+      "title": "Artemis I FD 17 Orion and a Crescent Moon"
+    },
+    "download": "https://images-assets.nasa.gov/image/Artemis I FD 17 Orion and a Crescent Moon/Artemis I FD 17 Orion and a Crescent Moon~large.jpg",
+    "sha256": "c622616d8831619fcc9182f2d17c9736de2a53583dd9780dbb3713528a34ac47",
+    "reviewed": "2026-10-18",
+    "rights": "NASA original archival photography; no third-party copyright indicated. Factual editorial reuse with credit under NASA Images and Media Usage Guidelines. No endorsement implied.",
+    "changes": "Proportional resize and WebP conversion only."
+  }
+]

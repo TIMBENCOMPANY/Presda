@@ -1,0 +1,254 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/artemis-2028-nasa-return-moon/",
+  "path": "/es/articles/artemis-2028-nasa-return-moon/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-18",
+    "terminologyChecked": true
+  },
+  "title": "LA NASA BUSCA VOLVER A LA LUNA TRAS 56 AÑOS: ARTEMIS 2028",
+  "seoTitle": "Artemis 2028: el plan de regreso lunar de la NASA",
+  "description": "Artemis II ha terminado. La NASA apunta a un ensayo orbital en 2027 y un alunizaje en 2028: tripulaciones, tecnología, polo sur, costes y riesgos.",
+  "excerpt": "Artemis II ha terminado. La NASA apunta a un ensayo orbital en 2027 y un alunizaje en 2028: tripulaciones, tecnología, polo sur, costes y riesgos.",
+  "headlineHighlights": {
+    "red": "VOLVER A LA LUNA",
+    "gold": "ARTEMIS 2028"
+  },
+  "keywords": [
+    "VOLVER A LA LUNA",
+    "ARTEMIS 2028"
+  ],
+  "searchIntent": "Artemis II ha terminado. La NASA apunta a un ensayo orbital en 2027 y un alunizaje en 2028: tripulaciones, tecnología, polo sur, costes y riesgos.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-18",
+  "updatedAt": "2026-10-18",
+  "image": {
+    "src": "/articles/artemis-hero.png",
+    "alt": "Ilustración por IA de cuatro astronautas con trajes naranjas sobre fondo azul, no un retrato oficial de la NASA."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La NASA apunta a principios de 2028 para Artemis IV, la misión destinada a devolver astronautas a la superficie lunar. A fecha de 18 de octubre de 2026, es un objetivo de planificación, no una fecha garantizada. Artemis II ya ha llevado personas alrededor de la Luna y de regreso; Artemis III está prevista como demostración en órbita terrestre en 2027. Confundir las misiones convierte un exigente programa técnico en una cuenta atrás engañosa. [Fuente: nasa.gov](https://www.nasa.gov/humans-in-space/artemis/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los 56 años del titular expresan la diferencia entre 1972, año del Apolo 17, y el objetivo de 2028. No significan que los seres humanos hayan permanecido cerca de la Tierra todo ese tiempo: el sobrevuelo lunar de Artemis II en 2026 cambió esa situación. Falta completar un alunizaje tripulado, ascender y regresar con seguridad. Sobrevolar un mundo y permanecer en él requieren máquinas, procedimientos y márgenes distintos."
+    },
+    {
+      "type": "heading",
+      "text": "El largo intervalo después del Apolo 17"
+    },
+    {
+      "type": "paragraph",
+      "text": "En diciembre de 1972, Eugene Cernan y Harrison Schmitt exploraron Taurus-Littrow mientras Ronald Evans orbitaba sobre ellos. Apolo 17 fue la última de seis expediciones que alunizaron con éxito. El programa terminó entre restricciones presupuestarias y cambios de prioridades políticas; se cancelaron vuelos posteriores. La interrupción no demostraba que los alunizajes anteriores fueran imposibles. La producción, los equipos especializados y la financiación no permanecen disponibles indefinidamente después de una hazaña. [Fuente: nasa.gov](https://www.nasa.gov/history/50-years-ago-nasa-cancels-apollo-20-mission/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apolo dejó un registro científico que sigue investigándose. Nuestro análisis de las [teorías conspirativas sobre los alunizajes](/articles/moon-landing-conspiracy-apollo-evidence/) examina las muestras, el seguimiento y las fotografías. Artemis plantea otra cuestión: ¿puede una red de agencias públicas y proveedores comerciales convertir las operaciones lunares en una actividad repetible, más allá de una visita espectacular?"
+    },
+    {
+      "type": "heading",
+      "text": "Artemis I: probar el sistema integrado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Artemis I despegó el 16 de noviembre de 2022 y regresó el 11 de diciembre. El vuelo sin tripulación probó conjuntamente el cohete Space Launch System, la nave Orion y las operaciones terrestres durante un viaje alrededor de la Luna. Demostró que podían salir de la Tierra, funcionar en el espacio profundo y traer Orion de vuelta. No probó un alunizaje ni transportó astronautas. [Fuente: nasa.gov](https://www.nasa.gov/mission/artemis-i/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El éxito no significó que cada componente funcionara exactamente como se esperaba. El escudo térmico perdió más material carbonizado del previsto, lo que exigió investigaciones y ensayos. Para Artemis II, la NASA ajustó la trayectoria de reentrada para reducir el tiempo en el intervalo de temperaturas relacionado con aquel comportamiento. Los vuelos de prueba tienen valor precisamente porque revelan problemas. [Fuente: nasa.gov](https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/)"
+    },
+    {
+      "type": "heading",
+      "text": "Artemis II: un sobrevuelo lunar tripulado completado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Artemis II despegó el 1 de abril de 2026 y amerizó el 10 de abril. Reid Wiseman, Victor Glover y Christina Koch, de la NASA, viajaron con Jeremy Hansen, de la Agencia Espacial Canadiense. La NASA registra nueve días, una hora y 32 minutos de misión. Fue el primer vuelo tripulado de Orion y una prueba de operaciones humanas más allá de la órbita terrestre, no un alunizaje. [Fuente: nasa.gov](https://www.nasa.gov/mission/artemis-ii/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El informe científico preliminar de la NASA del 7 de octubre describe cinco destellos de impacto observados y variaciones sutiles del color superficial. Sirven para comparar la percepción humana con instrumentos y preparar a las tripulaciones para la iluminación lunar. Son resultados preliminares, no descubrimientos de reservas de hielo explotables ni prueba de que una base pueda abastecerse ya con recursos locales. [Fuente: science.nasa.gov](https://science.nasa.gov/feature/artemis-ii-preliminary-lunar-science-report/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 15 de octubre, la NASA comunicó que el análisis confirmó el funcionamiento esperado del escudo térmico de Artemis II, con menos grietas y pérdida de material carbonizado que en Artemis I. Es un resultado importante ya conseguido. No certifica los módulos de descenso, los trajes de superficie ni todas las configuraciones futuras. Un regreso seguro valida lo que realmente voló en sus condiciones concretas. [Fuente: nasa.gov](https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/)"
+    },
+    {
+      "type": "heading",
+      "text": "Artemis III en 2027: ensayo en órbita terrestre"
+    },
+    {
+      "type": "paragraph",
+      "text": "El plan revisado prevé que Artemis III demuestre sistemas esenciales en órbita terrestre baja. Orion practicaría encuentros y acoplamientos con uno o ambos sistemas de alunizaje comerciales desarrollados por SpaceX y Blue Origin. La NASA también ha descrito evaluaciones de las interfaces entre trajes y módulos. Son pruebas previstas, todavía no capacidades demostradas. Los artículos que asignan a Artemis III el primer alunizaje reflejan un calendario anterior. [Fuente: nasa.gov](https://www.nasa.gov/mission/artemis-iii/) [Fuente: nasa.gov](https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La tripulación anunciada incluye al comandante Randy Bresnik, al piloto Luca Parmitano de la ESA y a los especialistas de la NASA Andre Douglas y Frank Rubio. Están asignados a la demostración Artemis III, no automáticamente al alunizaje de 2028. La ilustración de apertura está identificada como generada por IA; no es una fotografía oficial de esta tripulación ni una prueba de un vuelo realizado. [Fuente: nasa.gov](https://www.nasa.gov/our-artemis-iii-crew/)"
+    },
+    {
+      "type": "heading",
+      "text": "Artemis IV en 2028: el objetivo de alunizaje"
+    },
+    {
+      "type": "paragraph",
+      "text": "La página actual de Artemis IV describe cuatro astronautas viajando en Orion y dos descendiendo en un sistema de alunizaje para pasar aproximadamente una semana cerca del polo sur lunar. Volverían a la órbita para reunirse con sus compañeros y regresar a la Tierra. El lanzamiento se sitúa como objetivo a principios de 2028. Cada paso depende de la preparación, no solo del calendario. [Fuente: nasa.gov](https://www.nasa.gov/mission/artemis-iv/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lanzamiento, tránsito, encuentro, acoplamiento, traslado, descenso, operaciones de superficie, ascenso y reentrada deben funcionar conjuntamente. Un retraso en un módulo o traje esencial puede desplazar toda la misión aunque Orion y SLS estén listos. El calendario debe entenderse como una secuencia de hitos que permiten avanzar al siguiente paso."
+    },
+    {
+      "type": "heading",
+      "text": "Orion, SLS y la colaboración internacional"
+    },
+    {
+      "type": "paragraph",
+      "text": "SLS lanza Orion y su tripulación; Orion proporciona transporte y cápsula de regreso. No es el vehículo que aterriza en la Luna. La ESA suministra el Módulo de Servicio Europeo, responsable de propulsión, electricidad, control térmico, aire y agua. Europa forma así parte de la infraestructura operativa de la nave. [Fuente: esa.int](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/Orion_spacecraft)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El programa combina operaciones de la NASA, contribuciones internacionales y contratos industriales. SpaceX y Blue Origin desarrollan sistemas de alunizaje; Axiom Space desarrolla el traje de superficie descrito en el plan de Artemis IV. Un traje naranja de lanzamiento y reentrada no es un traje lunar: caminar allí exige movilidad, protección térmica, soporte vital y resistencia al polvo abrasivo. Una imagen no demuestra la certificación de otro equipo. [Fuente: nasa.gov](https://www.nasa.gov/mission/artemis-iv/)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Por qué el polo sur lunar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apolo exploró lugares alejados de los polos. El sur ofrece terrenos antiguos y zonas en sombra permanente que pueden preservar sustancias volátiles. El Sol bajo genera sombras profundas y dificulta la navegación visual. Lugares con iluminación útil pueden estar cerca de terrenos extremadamente fríos y oscuros, sin que la región sea uniformemente soleada ni fácil de recorrer. [Fuente: nasa.gov](https://www.nasa.gov/reference/moonbase-environment/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las misiones lunares aportan pruebas de hielo de agua en regiones permanentemente sombreadas. Podría revelar la historia del agua del Sistema Solar y, con el tiempo, proporcionar agua potable u oxígeno e hidrógeno. Pero detectar hielo no equivale a tener una mina. Deben establecerse concentración, accesibilidad, energía de extracción y fiabilidad de las máquinas bajo frío extremo. [Fuente: science.nasa.gov](https://science.nasa.gov/moon/moon-water-and-ices/)"
+    },
+    {
+      "type": "heading",
+      "text": "Una base requiere más que una fotografía del aterrizaje"
+    },
+    {
+      "type": "paragraph",
+      "text": "La iniciativa Moon Base busca actividad sostenida cerca del polo sur, con energía, comunicaciones, movilidad, hábitats y suministros. En 2026 la NASA trasladó el énfasis a infraestructuras superficiales; la Government Accountability Office informó de su intención de pausar la capacidad inicial de Gateway. Los antiguos diagramas que presentan aquella secuencia como inalterada deben leerse en su contexto histórico. [Fuente: nasa.gov](https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/) [Fuente: files.gao.gov](https://files.gao.gov/assets/gao-26-108556.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Explorar de forma sostenida implica mantener equipos, afrontar el polvo, sustituir piezas y apoyar a tripulaciones sucesivas. Los recursos locales podrían reducir las cargas enviadas desde la Tierra, pero sigue siendo un objetivo tecnológico y logístico. Un primer alunizaje exitoso no crea por sí solo un asentamiento autosuficiente."
+    },
+    {
+      "type": "heading",
+      "text": "NASA y China: ambiciones competidoras"
+    },
+    {
+      "type": "paragraph",
+      "text": "China también persigue un alunizaje tripulado. Un informe gubernamental de mayo de 2026 reiteró el objetivo de 2030 junto a su programa robótico. Planes oficiales anteriores describen el cohete Gran Marcha 10, una nave tripulada, un módulo de descenso y equipos de superficie. Son objetivos declarados, no fechas garantizadas, igual que la meta estadounidense de 2028 no es un logro consumado. [Fuente: english.gov.cn](https://english.www.gov.cn/news/202605/23/content_WS6a118ca1c6d00ca5f9a0b33c.html) [Fuente: english.gov.cn](https://english.www.gov.cn/news/202307/12/content_WS64ae9f96c6d0868f4e8ddb88.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La competencia puede impulsar financiación y atención política, pero no sustituye los ensayos. Una comparación útil pregunta qué se ha demostrado, qué equipos quedan por certificar y cómo se sostendrán las operaciones posteriores. Proclamar un vencedor a partir de dos años objetivo confunde ambición y ejecución. La ciencia también depende de las mediciones y de compartirlas."
+    },
+    {
+      "type": "heading",
+      "text": "El coste y los riesgos detrás de la fecha"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inspección general de la NASA informó en marzo de 2026 de que Human Landing System había comprometido 6.900 millones de dólares desde 2019 y estimó gastos de 18.300 millones hasta el ejercicio fiscal 2030. Son cifras del programa de alunizadores, no del conjunto de Artemis ni del precio de un aterrizaje. La auditoría señaló riesgos de calendario y seguridad, incluidos problemas de desarrollo y falta de capacidad de rescate para ciertas emergencias. [Fuente: oig.nasa.gov](https://oig.nasa.gov/wp-content/uploads/2026/03/final-report-ig-26-004-nasas-management-of-the-human-landing-system-contracts.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sistemas complejos deben cooperar lejos de reparaciones y evacuaciones fáciles. Gestión de propelentes, acoplamiento, precisión de descenso, soporte vital y ascenso son hitos distintos. Radiación, polvo y temperaturas extremas añaden riesgos. La arquitectura de SpaceX requiere además operaciones orbitales exigentes con propelentes. El calendario depende de demostraciones, financiación estable y producción. Un contrato o una prueba parcial no certifica toda la misión."
+    },
+    {
+      "type": "heading",
+      "text": "Qué significaría regresar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Artemis pretende acumular experiencia para viajes más largos, incluidas futuras misiones humanas a Marte. La Luna permite aprender sobre autonomía, mantenimiento, hábitats y recursos locales. No reproduce todas las condiciones marcianas: distancia, retrasos de comunicación, atmósfera y opciones de regreso son diferentes. Aprender en un destino reduce incertidumbres sin eliminar los riesgos del siguiente. [Fuente: nasa.gov](https://www.nasa.gov/humans-in-space/artemis/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La pregunta decisiva para 2028 es si las pruebas completadas, los equipos fiables y la preparación operativa justifican el siguiente vuelo. Artemis I y II son logros documentados. Artemis III y IV son los próximos pasos previstos. Separar ambas categorías mantiene la ambición sin convertir un objetivo en certeza."
+    }
+  ],
+  "sources": [
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/humans-in-space/artemis/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/history/50-years-ago-nasa-cancels-apollo-20-mission/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/mission/artemis-i/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/mission/artemis-ii/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/feature/artemis-ii-preliminary-lunar-science-report/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/mission/artemis-iii/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/our-artemis-iii-crew/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/mission/artemis-iv/"
+    },
+    {
+      "label": "www.esa.int",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/Orion_spacecraft"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/reference/moonbase-environment/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/moon/moon-water-and-ices/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/"
+    },
+    {
+      "label": "files.gao.gov",
+      "url": "https://files.gao.gov/assets/gao-26-108556.pdf"
+    },
+    {
+      "label": "english.www.gov.cn",
+      "url": "https://english.www.gov.cn/news/202605/23/content_WS6a118ca1c6d00ca5f9a0b33c.html"
+    },
+    {
+      "label": "english.www.gov.cn",
+      "url": "https://english.www.gov.cn/news/202307/12/content_WS64ae9f96c6d0868f4e8ddb88.html"
+    },
+    {
+      "label": "oig.nasa.gov",
+      "url": "https://oig.nasa.gov/wp-content/uploads/2026/03/final-report-ig-26-004-nasas-management-of-the-human-landing-system-contracts.pdf"
+    }
+  ],
+  "faq": []
+}

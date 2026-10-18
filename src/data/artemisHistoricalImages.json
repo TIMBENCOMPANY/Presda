@@ -1,0 +1,114 @@
+{
+  "launch": {
+    "src": "/articles/artemis/launch.webp",
+    "width": 1400,
+    "height": 1400,
+    "credit": "NASA/Joel Kowsky",
+    "creditUrl": "https://images.nasa.gov/details/NHQ202211160030",
+    "source": "https://images.nasa.gov/details/NHQ202211160030",
+    "license": "NASA editorial reuse",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Artemis I launches from Kennedy Space Center on November 16, 2022.",
+        "alt": "The SLS rocket launches at night above bright exhaust and clouds."
+      },
+      "fr": {
+        "caption": "Artemis I décolle du centre spatial Kennedy le 16 novembre 2022.",
+        "alt": "La fusée SLS décolle de nuit dans un panache lumineux."
+      },
+      "es": {
+        "caption": "Artemis I despega del Centro Espacial Kennedy el 16 de noviembre de 2022.",
+        "alt": "El cohete SLS despega de noche sobre una nube iluminada."
+      },
+      "ar": {
+        "caption": "إطلاق أرتميس 1 من مركز كينيدي في 16 نوفمبر 2022.",
+        "alt": "صاروخ SLS ينطلق ليلاً فوق عادم مضيء وسحب كثيفة."
+      }
+    }
+  },
+  "recovery": {
+    "src": "/articles/artemis/recovery.webp",
+    "width": 1400,
+    "height": 933,
+    "credit": "NASA/James Blair",
+    "creditUrl": "https://images.nasa.gov/details/JB5_0814",
+    "source": "https://images.nasa.gov/details/JB5_0814",
+    "license": "NASA editorial reuse",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Recovery operations after Artemis II’s Pacific splashdown, April 10, 2026. U.S. Navy divers and recovery personnel assist the returning crew.",
+        "alt": "Artemis II recovery operation with a raft and helicopters over the Pacific."
+      },
+      "fr": {
+        "caption": "Récupération après l’amerrissage d’Artemis II dans le Pacifique, le 10 avril 2026. Plongeurs et équipes assistent l’équipage.",
+        "alt": "Opération de récupération d’Artemis II avec canot et hélicoptères dans le Pacifique."
+      },
+      "es": {
+        "caption": "Recuperación tras el amerizaje de Artemis II en el Pacífico, 10 de abril de 2026. Buzos y personal ayudan a la tripulación.",
+        "alt": "Operación de recuperación de Artemis II con balsa y helicópteros en el Pacífico."
+      },
+      "ar": {
+        "caption": "عمليات الاستعادة بعد هبوط أرتميس 2 في المحيط الهادئ في 10 أبريل 2026، بمساعدة الغواصين وفرق الاستعادة.",
+        "alt": "عملية استعادة أرتميس 2 مع قارب ومروحيات فوق المحيط الهادئ."
+      }
+    }
+  },
+  "crew": {
+    "src": "/articles/artemis/crew.webp",
+    "width": 1400,
+    "height": 933,
+    "credit": "NASA/John Kraus",
+    "creditUrl": "https://images.nasa.gov/details/NHQ20260609_admin_0007",
+    "source": "https://images.nasa.gov/details/NHQ20260609_admin_0007",
+    "license": "NASA editorial reuse",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "ESA astronaut Luca Parmitano at the Artemis III crew announcement in Houston, June 9, 2026.",
+        "alt": "Luca Parmitano waves to the audience at the Artemis III crew announcement."
+      },
+      "fr": {
+        "caption": "L’astronaute de l’ESA Luca Parmitano lors de l’annonce de l’équipage d’Artemis III à Houston, le 9 juin 2026.",
+        "alt": "Luca Parmitano salue le public lors de l’annonce de l’équipage d’Artemis III."
+      },
+      "es": {
+        "caption": "El astronauta de la ESA Luca Parmitano durante el anuncio de la tripulación de Artemis III en Houston, 9 de junio de 2026.",
+        "alt": "Luca Parmitano saluda al público durante el anuncio de la tripulación de Artemis III."
+      },
+      "ar": {
+        "caption": "رائد وكالة الفضاء الأوروبية لوكا بارميتانو أثناء إعلان طاقم أرتميس 3 في هيوستن، 9 يونيو 2026.",
+        "alt": "لوكا بارميتانو يلوح للجمهور خلال إعلان طاقم أرتميس 3."
+      }
+    }
+  },
+  "orion": {
+    "src": "/articles/artemis/orion.webp",
+    "width": 1400,
+    "height": 1050,
+    "credit": "NASA / art001e001939",
+    "creditUrl": "https://images.nasa.gov/details/Artemis%20I%20FD%2017%20Orion%20and%20a%20Crescent%20Moon",
+    "source": "https://images.nasa.gov/details/Artemis%20I%20FD%2017%20Orion%20and%20a%20Crescent%20Moon",
+    "license": "NASA editorial reuse",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Orion and a crescent Moon, photographed by a solar-array camera on December 2, 2022, during Artemis I.",
+        "alt": "Orion spacecraft hardware with a crescent Moon against black space."
+      },
+      "fr": {
+        "caption": "Orion et un croissant de Lune, photographiés par une caméra de panneau solaire le 2 décembre 2022 pendant Artemis I.",
+        "alt": "Éléments d’Orion avec un croissant de Lune dans le noir spatial."
+      },
+      "es": {
+        "caption": "Orion y la Luna creciente, captados por una cámara del panel solar el 2 de diciembre de 2022 durante Artemis I.",
+        "alt": "Partes de Orion y una Luna creciente sobre el fondo negro del espacio."
+      },
+      "ar": {
+        "caption": "أوريون وهلال القمر كما صورتهما كاميرا اللوح الشمسي في 2 ديسمبر 2022 خلال أرتميس 1.",
+        "alt": "أجزاء من مركبة أوريون مع هلال القمر في الفضاء المظلم."
+      }
+    }
+  }
+}

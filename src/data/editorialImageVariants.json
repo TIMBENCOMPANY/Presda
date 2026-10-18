@@ -1280,5 +1280,73 @@
       "width": 1400,
       "src": "/articles/moon/geology-1400.webp"
     }
+  ],
+  "/articles/artemis/launch.webp": [
+    {
+      "width": 400,
+      "src": "/articles/artemis/responsive/launch-400.webp",
+      "bytes": 17178
+    },
+    {
+      "width": 800,
+      "src": "/articles/artemis/responsive/launch-800.webp",
+      "bytes": 62808
+    },
+    {
+      "width": 1400,
+      "src": "/articles/artemis/responsive/launch-1400.webp",
+      "bytes": 293362
+    }
+  ],
+  "/articles/artemis/recovery.webp": [
+    {
+      "width": 400,
+      "src": "/articles/artemis/responsive/recovery-400.webp",
+      "bytes": 17866
+    },
+    {
+      "width": 800,
+      "src": "/articles/artemis/responsive/recovery-800.webp",
+      "bytes": 52968
+    },
+    {
+      "width": 1400,
+      "src": "/articles/artemis/responsive/recovery-1400.webp",
+      "bytes": 157198
+    }
+  ],
+  "/articles/artemis/crew.webp": [
+    {
+      "width": 400,
+      "src": "/articles/artemis/responsive/crew-400.webp",
+      "bytes": 16930
+    },
+    {
+      "width": 800,
+      "src": "/articles/artemis/responsive/crew-800.webp",
+      "bytes": 44850
+    },
+    {
+      "width": 1400,
+      "src": "/articles/artemis/responsive/crew-1400.webp",
+      "bytes": 112316
+    }
+  ],
+  "/articles/artemis/orion.webp": [
+    {
+      "width": 400,
+      "src": "/articles/artemis/responsive/orion-400.webp",
+      "bytes": 4100
+    },
+    {
+      "width": 800,
+      "src": "/articles/artemis/responsive/orion-800.webp",
+      "bytes": 9766
+    },
+    {
+      "width": 1400,
+      "src": "/articles/artemis/responsive/orion-1400.webp",
+      "bytes": 24430
+    }
   ]
 }

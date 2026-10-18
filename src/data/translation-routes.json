@@ -361,6 +361,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/artemis-2028-nasa-return-moon/",
+    "path": "/ar/articles/artemis-2028-nasa-return-moon/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/artemis-2028-nasa-return-moon/",
+    "path": "/es/articles/artemis-2028-nasa-return-moon/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/artemis-2028-nasa-return-moon/",
+    "path": "/fr/articles/artemis-2028-nasa-return-moon/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/artificial-blood-lab-grown-red-cells-restore-japan/",
     "path": "/ar/articles/artificial-blood-lab-grown-red-cells-restore-japan/"
   },
