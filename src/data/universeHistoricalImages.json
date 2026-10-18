@@ -1,0 +1,114 @@
+{
+  "carina": {
+    "src": "/articles/universe/carina.webp",
+    "width": 1400,
+    "height": 811,
+    "credit": "NASA, ESA, CSA, and STScI",
+    "creditUrl": "https://esawebb.org/images/weic2205a/",
+    "source": "https://esawebb.org/images/weic2205a/",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://esawebb.org/copyright/",
+    "copy": {
+      "en": {
+        "caption": "Webb’s 2022 NIRCam view of the Cosmic Cliffs in NGC 3324, a star-forming region in the Carina Nebula. Measured infrared wavelengths are represented with visible colours.",
+        "alt": "Glowing gas and dark dust form a jagged ridge beneath numerous stars in Webb’s infrared view of NGC 3324."
+      },
+      "fr": {
+        "caption": "Vue NIRCam de Webb des Falaises cosmiques de NGC 3324, région de formation stellaire de la nébuleuse de la Carène, publiée en 2022. Les longueurs d’onde infrarouges mesurées sont représentées par des couleurs visibles.",
+        "alt": "Gaz lumineux et poussière sombre dessinent une crête dentelée sous les étoiles dans la vue infrarouge de NGC 3324."
+      },
+      "es": {
+        "caption": "Vista NIRCam de Webb de los Acantilados Cósmicos de NGC 3324, región de formación estelar de la nebulosa de Carina, publicada en 2022. Las longitudes de onda infrarrojas medidas se representan con colores visibles.",
+        "alt": "Gas brillante y polvo oscuro dibujan una cresta irregular bajo numerosas estrellas en la vista infrarroja de NGC 3324."
+      },
+      "ar": {
+        "caption": "مشهد نيركام من ويب للجروف الكونية في NGC 3324، وهي منطقة لتشكل النجوم في سديم القاعدة، نشر عام 2022. تمثل الأطوال الموجية تحت الحمراء المقاسة بألوان مرئية.",
+        "alt": "غاز مضيء وغبار داكن يرسمان حافة متعرجة تحت نجوم كثيرة في مشهد ويب تحت الأحمر لمنطقة NGC 3324."
+      }
+    }
+  },
+  "milkyway": {
+    "src": "/articles/universe/milkyway.webp",
+    "width": 1400,
+    "height": 700,
+    "credit": "ESO/S. Brunier",
+    "creditUrl": "https://www.eso.org/public/images/eso0932a/",
+    "source": "https://www.eso.org/public/images/eso0932a/",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://www.eso.org/public/copyright/",
+    "copy": {
+      "en": {
+        "caption": "Serge Brunier’s photographic panorama of the sky, released by ESO in 2009. This mosaic looks outward from Earth along the Milky Way; it is not a photograph of our galaxy from outside.",
+        "alt": "The Milky Way’s bright central bulge and dark dust lanes stretch across a full-sky photographic panorama."
+      },
+      "fr": {
+        "caption": "Panorama photographique du ciel de Serge Brunier, publié par l’ESO en 2009. Cette mosaïque regarde la Voie lactée depuis la Terre ; ce n’est pas une vue extérieure de notre galaxie.",
+        "alt": "Le bulbe lumineux et les bandes de poussière sombre de la Voie lactée traversent un panorama photographique du ciel entier."
+      },
+      "es": {
+        "caption": "Panorama fotográfico del cielo de Serge Brunier, publicado por ESO en 2009. El mosaico mira hacia la Vía Láctea desde la Tierra; no muestra nuestra galaxia desde fuera.",
+        "alt": "El bulbo brillante y las bandas oscuras de polvo de la Vía Láctea atraviesan un panorama fotográfico de todo el cielo."
+      },
+      "ar": {
+        "caption": "بانوراما فوتوغرافية للسماء التقطها سيرج برونييه ونشرها المرصد الأوروبي الجنوبي عام 2009. تنظر هذه الفسيفساء إلى درب التبانة من الأرض، وليست صورة لمجرتنا من الخارج.",
+        "alt": "الانتفاخ المركزي المضيء ومسارات الغبار الداكن في درب التبانة تمتد عبر بانوراما فوتوغرافية للسماء كاملة."
+      }
+    }
+  },
+  "blackhole": {
+    "src": "/articles/universe/blackhole.webp",
+    "width": 1400,
+    "height": 1400,
+    "credit": "EHT Collaboration",
+    "creditUrl": "https://www.eso.org/public/images/eso2208-eht-mwa/",
+    "source": "https://www.eso.org/public/images/eso2208-eht-mwa/",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://www.eso.org/public/copyright/",
+    "copy": {
+      "en": {
+        "caption": "Sagittarius A*, released in 2022 from Event Horizon Telescope observations made in 2017. This averaged reconstruction shows radio emission around the black hole’s shadow, not a visible-light photograph of a surface.",
+        "alt": "An orange ring of reconstructed radio emission surrounds the dark shadow of Sagittarius A*."
+      },
+      "fr": {
+        "caption": "Sagittarius A*, image publiée en 2022 à partir des observations de l’Event Horizon Telescope de 2017. Cette reconstruction moyenne montre l’émission radio autour de l’ombre du trou noir, non une surface photographiée en lumière visible.",
+        "alt": "Un anneau orange d’émission radio reconstruite entoure l’ombre sombre de Sagittarius A*."
+      },
+      "es": {
+        "caption": "Sagittarius A*, publicado en 2022 a partir de observaciones del Event Horizon Telescope de 2017. Esta reconstrucción promediada muestra emisión de radio alrededor de la sombra del agujero negro, no una superficie fotografiada con luz visible.",
+        "alt": "Un anillo naranja de emisión de radio reconstruida rodea la sombra oscura de Sagittarius A*."
+      },
+      "ar": {
+        "caption": "القوس A*، صورة نشرت عام 2022 من أرصاد تلسكوب أفق الحدث لعام 2017. تظهر إعادة البناء المتوسطة إشعاعاً راديوياً حول ظل الثقب الأسود، لا صورة بالضوء المرئي لسطح.",
+        "alt": "حلقة برتقالية من الإشعاع الراديوي المعاد بناؤه تحيط بالظل الداكن للقوس A*."
+      }
+    }
+  },
+  "earth": {
+    "src": "/articles/universe/earth.webp",
+    "width": 1400,
+    "height": 1385,
+    "credit": "NASA/JPL-Caltech",
+    "creditUrl": "https://science.nasa.gov/resource/voyager-pale-blue-dot-download/",
+    "source": "https://science.nasa.gov/resource/voyager-pale-blue-dot-download/",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "copy": {
+      "en": {
+        "caption": "Earth in Voyager 1’s Pale Blue Dot photograph, taken on February 14, 1990. This is NASA’s 2020 reprocessing of the original data. The streaks are scattered sunlight inside the camera.",
+        "alt": "Earth appears as a tiny bright dot within a pale streak of scattered sunlight against dark space."
+      },
+      "fr": {
+        "caption": "La Terre dans Pale Blue Dot, photographiée par Voyager 1 le 14 février 1990. Il s’agit du retraitement NASA de 2020 des données originales. Les traînées proviennent de lumière solaire diffusée dans l’appareil.",
+        "alt": "La Terre apparaît comme un minuscule point brillant dans une traînée claire de lumière solaire diffusée sur fond sombre."
+      },
+      "es": {
+        "caption": "La Tierra en Pale Blue Dot, fotografiada por Voyager 1 el 14 de febrero de 1990. Es el reprocesamiento de NASA de 2020 de los datos originales. Las franjas son luz solar dispersada dentro de la cámara.",
+        "alt": "La Tierra aparece como un punto diminuto y brillante en una franja de luz solar dispersada sobre el espacio oscuro."
+      },
+      "ar": {
+        "caption": "الأرض في صورة النقطة الزرقاء الباهتة التي التقطتها فوياجر 1 في 14 فبراير 1990. هذه معالجة ناسا لعام 2020 للبيانات الأصلية. تنشأ الخطوط من ضوء الشمس المتشتت داخل الكاميرا.",
+        "alt": "تظهر الأرض نقطة مضيئة ضئيلة داخل شريط باهت من ضوء الشمس المتشتت أمام فضاء مظلم."
+      }
+    }
+  }
+}

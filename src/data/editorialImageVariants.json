@@ -1399,5 +1399,73 @@
       "src": "/articles/graffiti/responsive/kinder-1400.webp",
       "bytes": 192732
     }
+  ],
+  "/articles/universe/carina.webp": [
+    {
+      "width": 400,
+      "src": "/articles/universe/responsive/carina-400.webp",
+      "bytes": 29590
+    },
+    {
+      "width": 800,
+      "src": "/articles/universe/responsive/carina-800.webp",
+      "bytes": 93668
+    },
+    {
+      "width": 1400,
+      "src": "/articles/universe/responsive/carina-1400.webp",
+      "bytes": 261662
+    }
+  ],
+  "/articles/universe/milkyway.webp": [
+    {
+      "width": 400,
+      "src": "/articles/universe/responsive/milkyway-400.webp",
+      "bytes": 4398
+    },
+    {
+      "width": 800,
+      "src": "/articles/universe/responsive/milkyway-800.webp",
+      "bytes": 30402
+    },
+    {
+      "width": 1400,
+      "src": "/articles/universe/responsive/milkyway-1400.webp",
+      "bytes": 183032
+    }
+  ],
+  "/articles/universe/blackhole.webp": [
+    {
+      "width": 400,
+      "src": "/articles/universe/responsive/blackhole-400.webp",
+      "bytes": 5052
+    },
+    {
+      "width": 800,
+      "src": "/articles/universe/responsive/blackhole-800.webp",
+      "bytes": 12906
+    },
+    {
+      "width": 1400,
+      "src": "/articles/universe/responsive/blackhole-1400.webp",
+      "bytes": 32530
+    }
+  ],
+  "/articles/universe/earth.webp": [
+    {
+      "width": 400,
+      "src": "/articles/universe/responsive/earth-400.webp",
+      "bytes": 4472
+    },
+    {
+      "width": 800,
+      "src": "/articles/universe/responsive/earth-800.webp",
+      "bytes": 14492
+    },
+    {
+      "width": 1400,
+      "src": "/articles/universe/responsive/earth-1400.webp",
+      "bytes": 35830
+    }
   ]
 }

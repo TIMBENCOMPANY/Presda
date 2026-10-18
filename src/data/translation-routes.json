@@ -2971,6 +2971,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/our-universe-big-bang-end-of-time/",
+    "path": "/ar/articles/our-universe-big-bang-end-of-time/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/our-universe-big-bang-end-of-time/",
+    "path": "/es/articles/our-universe-big-bang-end-of-time/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/our-universe-big-bang-end-of-time/",
+    "path": "/fr/articles/our-universe-big-bang-end-of-time/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/pablo-escobar-medellin-cartel-wealth-rise-fall/",
     "path": "/ar/articles/pablo-escobar-medellin-cartel-wealth-rise-fall/"
   },

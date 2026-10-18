@@ -1,0 +1,342 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/our-universe-big-bang-end-of-time/",
+  "path": "/es/articles/our-universe-big-bang-end-of-time/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-18",
+    "terminologyChecked": true
+  },
+  "title": "NUESTRO UNIVERSO: DEL BIG BANG AL FIN DEL TIEMPO",
+  "seoTitle": "Nuestro universo: Big Bang y futuros cósmicos | PRESDA",
+  "description": "Explora 13.800 millones de años de historia cósmica, los hallazgos de Webb, los agujeros negros y futuros posibles, distinguiendo pruebas de hipótesis.",
+  "excerpt": "Explora 13.800 millones de años de historia cósmica, los hallazgos de Webb, los agujeros negros y futuros posibles, distinguiendo pruebas de hipótesis.",
+  "headlineHighlights": {
+    "red": "NUESTRO UNIVERSO",
+    "gold": "FIN DEL TIEMPO"
+  },
+  "keywords": [
+    "NUESTRO UNIVERSO",
+    "FIN DEL TIEMPO"
+  ],
+  "searchIntent": "Explora 13.800 millones de años de historia cósmica, los hallazgos de Webb, los agujeros negros y futuros posibles, distinguiendo pruebas de hipótesis.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-18",
+  "updatedAt": "2026-10-18",
+  "image": {
+    "src": "/articles/universe-hero.jpg",
+    "alt": "Campo profundo auténtico SMACS 0723 de Webb, con galaxias lejanas y arcos de lentes gravitacionales entre estrellas brillantes en primer plano."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El universo comprende todo lo físico que podemos investigar: espacio, tiempo, materia, radiación y las estructuras que forman. Su historia observable se remonta a unos 13.800 millones de años, desde un estado temprano caliente y denso hasta un cosmos poblado de galaxias. Esta explicación descansa en pruebas convergentes. No significa que la ciencia haya explicado por qué existe algo, identificado todos sus componentes o descubierto cómo terminará el tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observe detenidamente una imagen de campo profundo y el cielo cambia de carácter. Lo que parecía una dispersión de estrellas se convierte en una multitud de galaxias, cada una contemplada en una etapa distinta de su pasado. Un telescopio recoge luz, pero también historia. El reto consiste en reconstruirla sin permitir que una imagen hermosa, una ecuación elegante o un titular irresistible afirmen más de lo que permiten las pruebas."
+    },
+    {
+      "type": "heading",
+      "text": "El Big Bang no fue una explosión en el vacío"
+    },
+    {
+      "type": "paragraph",
+      "text": "El modelo del Big Bang describe un universo en expansión que antes era mucho más caliente y denso. No sitúa una explosión en un punto de un vacío preexistente. A escalas suficientemente grandes, las distancias entre galaxias que siguen el movimiento cósmico crecen mientras el espacio se expande. Retroceder en esa historia conduce a condiciones más densas. Las mediciones de la expansión, la abundancia de elementos ligeros y el fondo cósmico de microondas respaldan esta descripción de manera independiente. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/overview/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La edad de 13.800 millones de años, tan citada, se infiere de mediciones interpretadas mediante un modelo cosmológico; no es una fecha leída en un único reloj cósmico. El análisis del cielo de microondas de la colaboración Planck proporciona una estimación especialmente precisa dentro del modelo estándar, que incluye materia ordinaria, materia oscura fría y una constante cosmológica. La precisión dentro de ese marco no equivale a un conocimiento completo: los científicos siguen comprobando sus supuestos e investigando discrepancias entre distintas mediciones. [Fuente: aanda.org](https://www.aanda.org/articles/aa/abs/2020/09/aa33910-18/aa33910-18.html)"
+    },
+    {
+      "type": "heading",
+      "text": "La inflación y los límites del primer capítulo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inflación propone que un episodio extraordinariamente breve de expansión acelerada precedió a la conocida fase caliente. Ofrece explicaciones para la uniformidad del universo observable a gran escala y para una geometría cercana a la planitud espacial. En muchas versiones, fluctuaciones cuánticas microscópicas se estiraron hasta convertirse en las semillas de estructuras posteriores. Es un marco teórico influyente con éxitos observacionales, pero todavía no se ha identificado el campo o mecanismo responsable de producirlo. [Fuente: esa.int](https://www.esa.int/Science_Exploration/Space_Science/Planck/The_cosmic_microwave_background_and_inflation)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cronología rigurosa cambia, por tanto, de lenguaje al aproximarse al comienzo. Podemos describir un plasma que se enfría y la formación de núcleos ligeros con mucha más confianza que el origen último del espacio y el tiempo. Extrapolar la relatividad general clásica hasta una singularidad indica un límite de la teoría; no ofrece una fotografía de la creación. Las propuestas de un rebote, una fase anterior u otros universos siguen siendo hipótesis. Ninguna convierte el Big Bang caliente, sólidamente respaldado, en una explicación demostrada de un comienzo absoluto."
+    },
+    {
+      "type": "heading",
+      "text": "La luz más antigua que podemos cartografiar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante sus primeros cientos de miles de años, el universo fue un plasma eléctricamente cargado en el que la luz se dispersaba repetidamente al encontrarse con electrones libres. Unos 380.000 años después del comienzo caliente, el enfriamiento permitió formar átomos neutros y que los fotones viajaran con mucha más libertad. Recibimos aquella radiación como fondo cósmico de microondas, o CMB. La expansión estiró sus longitudes de onda; hoy su temperatura es de aproximadamente 2,7 kelvin, apenas por encima del cero absoluto. [Fuente: esa.int](https://www.esa.int/Science_Exploration/Space_Science/Planck/Why_the_microwave)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El CMB no es una fotografía del propio Big Bang. Registra una transición muy posterior, aunque todavía extraordinariamente temprana en la historia cósmica. Sus pequeñas variaciones de temperatura conservan información sobre diferencias de densidad y procesos físicos del universo joven. Observatorios como COBE, WMAP y Planck midieron ese resplandor residual con detalle creciente. Los mapas moteados de la astronomía exageran diferencias minúsculas para estudiarlas; sus colores espectaculares no significan que el cielo primordial pareciera un globo pintado con tonos intensos. [Fuente: esa.int](https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_and_the_cosmic_microwave_background)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Cómo puede medir 92.000 millones de años luz el universo observable?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un año luz es una distancia: la que recorre la luz en un año. El universo observable tiene unos 92.000 millones de años luz de diámetro, cifra que también se redondea a 93.000 millones según las convenciones numéricas y los parámetros cosmológicos utilizados. Supera ampliamente el doble de su edad multiplicado por la velocidad de la luz porque el espacio se expandió mientras viajaba la luz más antigua. La distancia actual hasta la materia que emitió un fotón no equivale simplemente al tiempo que ese fotón tardó en llegar convertido en distancia. [Fuente: nasa.gov](https://www.nasa.gov/science-research/astrophysics/how-big-is-space-we-asked-a-nasa-expert-episode-61/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La palabra observable es fundamental. Describe la región desde la cual las señales han tenido tiempo de alcanzarnos, no una frontera medida alrededor de todo lo existente. Más allá podría haber un universo muchísimo mayor. La expansión cosmológica tampoco implica que los objetos superen localmente la velocidad de la luz y violen la relatividad: el crecimiento de distancias a gran escala difiere del movimiento de un objeto por el espacio cercano. Nuestro horizonte limita la información disponible; no es un muro contra el que chocaría una nave."
+    },
+    {
+      "type": "heading",
+      "text": "Cómo la oscuridad dio paso a estrellas y galaxias"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras formarse los átomos neutros, todavía no había estrellas. La gravedad amplificó gradualmente pequeñas diferencias de densidad. El gas se acumuló en estructuras crecientes, se enfrió y se comprimió hasta que algunas regiones alcanzaron temperaturas suficientes para la fusión nuclear. Las primeras generaciones estelares transformaron su entorno mediante radiación, vientos y, en ciertos casos, explosiones. Sus propiedades precisas y fechas de formación siguen investigándose. Los astrónomos reconstruyen esta época mediante observaciones y simulaciones, sin disponer de un inventario completo de las primeras estrellas. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/webb/early-universe/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las galaxias crecieron mediante acumulación de gas, formación de estrellas y fusiones, no siguiendo una única secuencia ordenada. La radiación de estrellas jóvenes contribuyó a ionizar de nuevo el hidrógeno intergaláctico durante la reionización. Webb ha relacionado galaxias tempranas con regiones más transparentes del gas circundante, reforzando la idea de que impulsaron esa transformación. Fue un proceso gradual y desigual en el espacio. Las espirales cercanas son supervivientes de historias largas y complejas, no moldes en los que encajara inmediatamente cada objeto primordial. [Fuente: nasa.gov](https://www.nasa.gov/universe/nasas-webb-proves-galaxies-transformed-the-early-universe/)"
+    },
+    {
+      "type": "heading",
+      "text": "La fabricación de elementos, planetas y nosotros mismos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El universo temprano produjo principalmente núcleos de hidrógeno y helio, con trazas de otros elementos ligeros. Más tarde, las estrellas fabricaron buena parte de los materiales más pesados mediante reacciones nucleares. Su evolución devolvió gas enriquecido al espacio, permitiendo que nuevas estrellas y planetas nacieran de una reserva químicamente más diversa. Una estrella es tanto un objeto con una duración determinada como parte de un ciclo mayor. Su masa influye decisivamente en su evolución y en si su remanente final será una enana blanca, una estrella de neutrones o un agujero negro. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/stars/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los elementos proceden del mismo proceso estelar. Las fusiones de estrellas de neutrones son una fuente importante de elementos muy pesados mediante captura rápida de neutrones. Las observaciones del evento GW170817, en 2017, relacionaron ondas gravitacionales con una kilonova y aportaron pruebas de esta vía. Los planetas, por su parte, se ensamblan con material de discos alrededor de estrellas jóvenes. Nuestro sistema solar se formó hace unos 4.600 millones de años. Decir que estamos hechos de materia estelar expresa una herencia química real, aunque gran parte de nuestro hidrógeno tenga un origen primordial todavía más antiguo. [Fuente: eso.org](https://www.eso.org/public/news/eso1733/) [Fuente: science.nasa.gov](https://science.nasa.gov/astrobiology/learning-resources/alp/how-did-our-solar-system-form/)"
+    },
+    {
+      "type": "heading",
+      "text": "Nuestra dirección en la Vía Láctea"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Sol pertenece a la Vía Láctea, una galaxia espiral barrada con más de 100.000 millones de estrellas. Vivimos dentro de su disco, lejos de la región central, y vemos su poblado plano como una franja luminosa en el cielo oscuro. Como estamos dentro, una imagen de toda la galaxia que muestre nuestra posición exacta desde arriba es necesariamente una reconstrucción, no una fotografía tomada por una cámara distante. La diferencia entre observación e ilustración importa incluso en los diagramas escolares más conocidos. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/stars/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Sol está a unos 26.000 años luz del centro galáctico y se formó hace aproximadamente 4.600 millones de años. Su gravedad mantiene unido nuestro sistema planetario, mientras este participa en el movimiento de la galaxia. La expansión cósmica no infla continuamente su cuerpo, la órbita terrestre ni todas las estructuras ligadas gravitacionalmente: las fuerzas locales dominan a esas escalas. Recorrer nuestra dirección cósmica revela la pequeñez física humana, pero el tamaño no responde preguntas sobre valor, responsabilidad o sentido. Esas son interpretaciones humanas, no mediciones proporcionadas por un telescopio. [Fuente: science.nasa.gov](https://science.nasa.gov/sun/facts/)"
+    },
+    {
+      "type": "heading",
+      "text": "Agujeros negros: el espacio-tiempo llevado al extremo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La relatividad general describe la gravedad mediante la geometría del espacio-tiempo. Un agujero negro posee un horizonte de sucesos, una frontera más allá de la cual la luz no puede escapar hacia observadores distantes. No es un agujero perforado en una superficie ordinaria ni absorbe indiscriminadamente todo lo que hay en una galaxia. Desde lejos, su influencia gravitacional depende de su masa, como ocurre con otros objetos. Los efectos más extremos aparecen cerca, donde las fuerzas de marea y las trayectorias posibles de la luz resultan decisivas. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/black-holes/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen de Sagittarius A* del Event Horizon Telescope, publicada en 2022, muestra emisión de material caliente alrededor del agujero negro central de la Vía Láctea y una sombra central oscura. No es una fotografía en luz visible de una superficie sólida. Reconstruida mediante observaciones de radio, relaciona una imagen impactante con pruebas físicas precisas. Las órbitas estelares, la radiación de material en acreción y las detecciones de ondas gravitacionales aportan pruebas complementarias. El interior de los agujeros negros y una reconciliación completa entre gravedad y física cuántica siguen fuera de nuestra explicación establecida. [Fuente: eso.org](https://www.eso.org/public/images/eso2208-eht-mwa/)"
+    },
+    {
+      "type": "heading",
+      "text": "Materia oscura: invisible no significa imaginaria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las galaxias y los cúmulos se comportan como si contuvieran más materia gravitante de la que pueden aportar sus estrellas y su gas visibles. Las mediciones de rotación, las lentes gravitacionales y la estructura a gran escala contribuyen al argumento a favor de la materia oscura. En cúmulos que colisionan, la distribución de masa inferida puede separarse de gran parte del gas ordinario caliente. Son observaciones que cualquier teoría satisfactoria debe explicar. La materia oscura no es simplemente una etiqueta para una zona especialmente negra de una fotografía. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-dark-matter/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el modelo cosmológico estándar, la materia ordinaria representa aproximadamente el 5 % del presupuesto energético cósmico actual; la materia oscura, el 27 %; y la energía oscura, el 68 %. Son estimaciones basadas en un modelo, no tres montones recogidos en un laboratorio. La materia oscura parece agruparse y contribuir a construir estructuras, pero su naturaleza microscópica es desconocida. También se investigan modificaciones de la gravedad, que deben responder al conjunto de pruebas. Detectar una partícula concreta resolvería una pregunta distinta de inferir masa adicional mediante sus efectos gravitacionales. [Fuente: esa.int](https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_science_highlights)"
+    },
+    {
+      "type": "heading",
+      "text": "La energía oscura y la historia inconclusa de la expansión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Energía oscura es el nombre del componente o explicación desconocidos asociados con la aceleración de la expansión. No es otro nombre para la materia oscura. La descripción estándar más sencilla es una constante cosmológica: una densidad de energía asociada al espacio que no se diluye cuando el universo se expande. Ese modelo explica muchos fenómenos, pero deja abierta una pregunta profunda sobre su fundamento físico. Observar la aceleración no significa que los astrónomos hayan aislado la sustancia que la provoca. [Fuente: science.nasa.gov](https://science.nasa.gov/dark-energy/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las mediciones siguen comprobando si esa descripción es suficiente. Los resultados de DESI publicados en 2025 reforzaron indicios, al combinarse con otros conjuntos de datos, de que la energía oscura podría evolucionar. La colaboración no anunció un descubrimiento definitivo de ese cambio. La distinción importa porque la inferencia depende de datos, modelos e incertidumbres sistemáticas. La preferencia de un análisis invita a nuevas comprobaciones; no constituye una cuenta atrás fiable hacia el colapso cósmico. Un relato duradero debe conservar esa incertidumbre, sin convertir un debate abierto en una certeza espectacular. [Fuente: newscenter.lbl.gov](https://newscenter.lbl.gov/2025/03/19/new-desi-results-strengthen-hints-that-dark-energy-may-evolve/)"
+    },
+    {
+      "type": "heading",
+      "text": "Lo que James Webb realmente ha cambiado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Webb observa luz infrarroja mediante imágenes y espectroscopía. Esto permite estudiar galaxias distantes cuya luz se estiró con la expansión, viveros estelares polvorientos y atmósferas de planetas alrededor de otras estrellas. Sus campos profundos son observaciones reales compuestas a partir de longitudes de onda medidas, traducidas a menudo en colores visibles representativos. No son vistas ordinarias a simple vista ni escenas inventadas. La imagen principal de este reportaje es el campo profundo oficial SMACS 0723, acreditado a NASA, ESA, CSA y STScI, cuya composición original se conserva. [Fuente: esawebb.org](https://esawebb.org/images/weic2209a/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre sus grandes logros, la espectroscopía confirmó galaxias luminosas extraordinariamente tempranas, incluida JADES-GS-z14-0 en una investigación publicada en 2024. Posteriormente, la NASA presentó MoM-z14, observada como era unos 280 millones de años después del Big Bang. Estas observaciones ponen a prueba la rapidez de formación de estrellas y galaxias. No demuestran por sí solas que el universo sea más antiguo de lo que permite el modelo del Big Bang. Deben distinguirse brillo, masa estelar, polvo, agujeros negros activos y estimaciones de distancia antes de convertir un problema de formación galáctica en un cuestionamiento de la cosmología. [Fuente: nature.com](https://www.nature.com/articles/s41586-024-07860-9) [Fuente: science.nasa.gov](https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Webb también detectó dióxido de carbono en la atmósfera de WASP-39 b mediante espectroscopía de transmisión. Los investigadores midieron cómo cambiaba la luz estelar al atravesar la atmósfera planetaria, identificando una firma molecular en lugar de fotografiar moléculas individuales. El logro abrió nuevas posibilidades para comparar planetas. No fue un descubrimiento de vida: WASP-39 b es un gigante gaseoso caliente, y el dióxido de carbono puede existir sin biología. Los avances científicos más importantes suelen mejorar lo que podemos distinguir, no solamente la distancia a la que podemos mirar. [Fuente: nature.com](https://www.nature.com/articles/s41586-022-05269-w)"
+    },
+    {
+      "type": "heading",
+      "text": "La vida extraterrestre y la pregunta de Fermi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los planetas abundan y los ingredientes de una química compleja existen fuera de la Tierra. Ninguno de esos hechos demuestra que la vida sea común. La habitabilidad describe condiciones que podrían sostenerla, no pruebas de organismos en un mundo concreto. Una molécula atmosférica prometedora exige un examen cuidadoso, porque geología, química, actividad estelar y errores de medición pueden imitar o complicar una interpretación biológica. El programa de astrobiología de la NASA sigue distinguiendo la búsqueda de vida de una detección confirmada: no se ha establecido la existencia de vida extraterrestre. [Fuente: astrobiology.nasa.gov](https://astrobiology.nasa.gov/about/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La paradoja de Fermi expresa la tensión entre las aparentes oportunidades para que existan civilizaciones tecnológicas y nuestra falta de pruebas confirmadas. Es una pregunta construida sobre supuestos inciertos acerca del origen de la vida, la inteligencia, la longevidad, las comunicaciones y los viajes interestelares. Las civilizaciones podrían ser escasas, breves, lejanas o difíciles de reconocer para nuestros instrumentos. Son posibles explicaciones, no descubrimientos. La búsqueda cubre una parte limitada de señales y entornos posibles. El silencio no prueba que estemos solos ni justifica afirmar que nos visitan en secreto. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/exoplanets/life-in-the-universe-what-are-the-odds/)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Tiene el universo un centro o un borde?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la descripción estándar a gran escala, el universo carece de un centro espacial privilegiado. Cada observador ocupa el centro de su propia región observable porque la información le llega desde el espacio circundante. Eso no convierte su posición en el lugar del Big Bang. La expansión puede describirse sin atribuir un papel central a una galaxia, igual que las distancias pueden aumentar sobre una superficie sin elegir un punto de ella como origen de todo movimiento. La analogía ilustra un principio, no la forma literal del universo. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/overview/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "No sabemos si el universo completo es infinito. Un espacio finito no necesita tener borde, y unas observaciones compatibles con una geometría casi plana no prueban una extensión infinita. Conviene separar tres preguntas: hasta dónde podemos observar, qué geometría respaldan las mediciones y qué podría existir más allá del horizonte. Los filósofos imaginaron innumerables mundos mucho antes de que la cosmología pudiera comprobar algo comparable. Nuestra biografía de [Giordano Bruno](/articles/giordano-bruno-philosopher-heresy/) explora esa historia, manteniendo la diferencia entre una visión filosófica y las pruebas astronómicas."
+    },
+    {
+      "type": "heading",
+      "text": "¿Gran congelación, Big Crunch o Big Rip?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si la expansión continúa y la energía oscura se comporta como una constante cosmológica positiva, la expectativa general es un universo cada vez más frío y diluido. La formación estelar acabará disminuyendo a medida que el gas aprovechable resulte menos disponible. Las estrellas existentes agotarán su combustible en escalas temporales muy diferentes. Esta familia de futuros se denomina gran congelación o muerte térmica. Describe la reducción de diferencias de energía capaces de sostener actividad, no un instante repentino en que todos los objetos alcancen la misma temperatura. [Fuente: science.nasa.gov](https://science.nasa.gov/asset/hubble/possible-fates-of-the-universe/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un Big Crunch exigiría que la expansión finalmente se invirtiera y comenzara una contracción. El Big Rip aparece en ciertos modelos hipotéticos donde la energía oscura podría desgarrar estructuras, posiblemente hasta escalas mucho menores. Ninguno es un destino observado. El comportamiento futuro de la energía oscura no puede deducirse directamente de sus efectos presentes, y una expansión acelerada no implica por sí sola un desgarramiento. Son extrapolaciones condicionales de modelos físicos, no tres finales igualmente demostrados entre los que los astrónomos deban elegir. [Fuente: nasa.gov](https://www.nasa.gov/missions/roman-space-telescope/nasas-wfirst-will-help-uncover-universes-fate/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Incluso la expresión fin del tiempo merece cautela. Que el universo se vuelva frío y disperso no implica necesariamente que el tiempo se detenga. Las predicciones sobre épocas extremadamente remotas también dependen de física no comprobada en todas las condiciones pertinentes. La ciencia útil identifica qué supuestos conducen a cada desenlace y pregunta cómo distinguirlos mediante observaciones. Asignar una fecha segura al final de todo sustituiría esa disciplina por un relato. La incertidumbre forma parte del tema; no es un inconveniente que deba eliminarse."
+    },
+    {
+      "type": "heading",
+      "text": "Carl Sagan y la escala de nuestra responsabilidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 14 de febrero de 1990, Voyager 1 fotografió la Tierra desde el sistema solar exterior. En la imagen conocida como Pale Blue Dot, nuestro planeta es un punto diminuto entre luz solar dispersada. Carl Sagan defendió aquella mirada hacia atrás y después convirtió la imagen en un elemento central de sus reflexiones sobre la humanidad. Su fuerza procede de un cambio auténtico de perspectiva: todos los paisajes humanos desaparecen en una mota, sin que las vidas que albergan se vuelvan menos reales. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cosmología explica por qué ese punto contiene hidrógeno antiguo, elementos estelares reciclados y un planeta capaz de formular preguntas. No vuelve inevitables la bondad ni el cuidado del entorno: son decisiones. La perspectiva cósmica de Sagan conserva su valor porque une curiosidad y humildad. Habitamos un mundo pequeño dentro de una historia inmensa, con conocimientos extraordinarios pero incompletos. Nuestro reportaje sobre [los alunizajes Apollo y sus pruebas](/articles/moon-landing-conspiracy-apollo-evidence/) cuenta una etapa más cercana de esa exploración. Comprender el universo comienza mirando hacia fuera, pero puede cambiar el cuidado que dedicamos a nuestro hogar."
+    }
+  ],
+  "sources": [
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/universe/overview/"
+    },
+    {
+      "label": "www.aanda.org",
+      "url": "https://www.aanda.org/articles/aa/abs/2020/09/aa33910-18/aa33910-18.html"
+    },
+    {
+      "label": "www.esa.int",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Planck/The_cosmic_microwave_background_and_inflation"
+    },
+    {
+      "label": "www.esa.int",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Why_the_microwave"
+    },
+    {
+      "label": "www.esa.int",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_and_the_cosmic_microwave_background"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/science-research/astrophysics/how-big-is-space-we-asked-a-nasa-expert-episode-61/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/webb/early-universe/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/universe/nasas-webb-proves-galaxies-transformed-the-early-universe/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/universe/stars/"
+    },
+    {
+      "label": "www.eso.org",
+      "url": "https://www.eso.org/public/news/eso1733/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/astrobiology/learning-resources/alp/how-did-our-solar-system-form/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/sun/facts/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/universe/black-holes/"
+    },
+    {
+      "label": "www.eso.org",
+      "url": "https://www.eso.org/public/images/eso2208-eht-mwa/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-dark-matter/"
+    },
+    {
+      "label": "www.esa.int",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_science_highlights"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/dark-energy/"
+    },
+    {
+      "label": "newscenter.lbl.gov",
+      "url": "https://newscenter.lbl.gov/2025/03/19/new-desi-results-strengthen-hints-that-dark-energy-may-evolve/"
+    },
+    {
+      "label": "esawebb.org",
+      "url": "https://esawebb.org/images/weic2209a/"
+    },
+    {
+      "label": "www.nature.com",
+      "url": "https://www.nature.com/articles/s41586-024-07860-9"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/"
+    },
+    {
+      "label": "www.nature.com",
+      "url": "https://www.nature.com/articles/s41586-022-05269-w"
+    },
+    {
+      "label": "astrobiology.nasa.gov",
+      "url": "https://astrobiology.nasa.gov/about/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/universe/exoplanets/life-in-the-universe-what-are-the-odds/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/asset/hubble/possible-fates-of-the-universe/"
+    },
+    {
+      "label": "www.nasa.gov",
+      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-wfirst-will-help-uncover-universes-fate/"
+    },
+    {
+      "label": "science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/"
+    }
+  ],
+  "faq": []
+}

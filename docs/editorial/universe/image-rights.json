@@ -1,0 +1,72 @@
+[
+  {
+    "image": "hero",
+    "source": "https://esawebb.org/images/weic2209a/",
+    "download": "https://cdn.esawebb.org/archives/images/large/weic2209a.jpg",
+    "credit": "NASA, ESA, CSA, and STScI",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://esawebb.org/copyright/",
+    "reviewed": "2026-10-18",
+    "originalWidth": 4537,
+    "originalHeight": 4630,
+    "sha256": "746ccafe3569b816cd6e906f89d192b61faae187af38b805853af9d3da8d40b6",
+    "changes": "Source JPEG preserved byte for byte. Responsive site derivatives proportionally resized, no crop or AI.",
+    "notes": "Source record carries no separate restrictive notice; provider CC BY 4.0 policy applies."
+  },
+  {
+    "image": "carina",
+    "source": "https://esawebb.org/images/weic2205a/",
+    "download": "https://cdn.esawebb.org/archives/images/large/weic2205a.jpg",
+    "credit": "NASA, ESA, CSA, and STScI",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://esawebb.org/copyright/",
+    "reviewed": "2026-10-18",
+    "originalWidth": 14575,
+    "originalHeight": 8441,
+    "sha256": "99771479d4d83f439c95792b54069e7fd368f416c021346b1aa85058b3ca4d79",
+    "changes": "Proportional resizing and WebP conversion. Full composition preserved, no AI.",
+    "notes": "Source record carries no separate restrictive notice; provider CC BY 4.0 policy applies."
+  },
+  {
+    "image": "milkyway",
+    "source": "https://www.eso.org/public/images/eso0932a/",
+    "download": "https://cdn.eso.org/images/large/eso0932a.jpg",
+    "credit": "ESO/S. Brunier",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://www.eso.org/public/copyright/",
+    "reviewed": "2026-10-18",
+    "originalWidth": 6000,
+    "originalHeight": 3000,
+    "sha256": "60400c92c54b7c1bd12299c69e83b16e5b6256e7dabacc478c021758ecd28179",
+    "changes": "Proportional resizing and WebP conversion. Full composition preserved, no AI.",
+    "notes": "Publicly supplied 6000 x 3000 rendition only. The separately withheld 800-million-pixel file is not used."
+  },
+  {
+    "image": "blackhole",
+    "source": "https://www.eso.org/public/images/eso2208-eht-mwa/",
+    "download": "https://cdn.eso.org/images/large/eso2208-eht-mwa.jpg",
+    "credit": "EHT Collaboration",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://www.eso.org/public/copyright/",
+    "reviewed": "2026-10-18",
+    "originalWidth": 4076,
+    "originalHeight": 4076,
+    "sha256": "372c24c62809ee4455648fc520296d649c5d11751650cce146fb5013a261fd1c",
+    "changes": "Proportional resizing and WebP conversion. Full composition preserved, no AI.",
+    "notes": "Source record carries no separate restrictive notice; provider CC BY 4.0 policy applies."
+  },
+  {
+    "image": "earth",
+    "source": "https://science.nasa.gov/resource/voyager-pale-blue-dot-download/",
+    "download": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia23/pia23645/PIA23645.jpg",
+    "credit": "NASA/JPL-Caltech",
+    "license": "NASA media usage guidelines",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "reviewed": "2026-10-18",
+    "originalWidth": 5230,
+    "originalHeight": 5175,
+    "sha256": "b783a29a134377ba41ffe8f644fd1f066b591b77b316daac3d32b315cc265c34",
+    "changes": "Proportional resizing and WebP conversion. Full composition preserved, no AI.",
+    "notes": "NASA editorial media reuse, attribution and no endorsement; record credits NASA/JPL-Caltech."
+  }
+]

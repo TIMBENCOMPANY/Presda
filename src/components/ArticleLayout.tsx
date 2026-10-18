@@ -1,3 +1,5 @@
+import { UniverseHeroCaption } from "@/components/UniverseHeroCaption";
+import { UniverseHistoricalImage, universeImageAtBlock } from "@/components/UniverseHistoricalImage";
 import { GraffitiHistoricalImage, graffitiImageAtBlock } from "@/components/GraffitiHistoricalImage";
 import graffitiHeroCaptions from "@/data/graffitiHeroCaptions.json";
 import { ArtemisHistoricalImage, artemisImageAtBlock } from "@/components/ArtemisHistoricalImage";
@@ -281,7 +283,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const lastUpdated = getArticleLastUpdated(article);
   const heroDimensions = getArticleImageDimensions(article.coverImage);
   const standaloneHero = article.slug === "psychology-of-cults-why-people-follow-blindly";
-  const containedHero = ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy", "giordano-bruno-philosopher-heresy", "moon-landing-conspiracy-apollo-evidence", "artemis-2028-nasa-return-moon", "graffiti-city-walls-canvases"].includes(article.slug);
+  const containedHero = ["dostoevsky-life-death-human-darkness", "vincent-van-gogh-life-art-legacy", "giordano-bruno-philosopher-heresy", "moon-landing-conspiracy-apollo-evidence", "artemis-2028-nasa-return-moon", "graffiti-city-walls-canvases", "our-universe-big-bang-end-of-time"].includes(article.slug);
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
@@ -323,7 +325,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
 
           <time className={`article-hero-publication-date ${standaloneHero ? "relative block px-5 pt-5 sm:px-7 lg:px-12 xl:px-14" : "absolute right-5 top-5 z-20 rounded bg-black/40 px-2 py-1 text-right sm:right-7 sm:top-7 lg:right-8 lg:top-8"} font-display text-[11px] font-extrabold uppercase tracking-wide text-white/86 sm:text-sm lg:text-base`} dateTime={article.date}>{locale === "en" ? formatHeroDate(article.date) : new Intl.DateTimeFormat(locale, { dateStyle: "long", timeZone: "UTC" }).format(new Date(article.date))}</time>
 
-          <div className="article-hero-content relative z-10 flex flex-col gap-5 p-5 sm:p-7 lg:p-12 xl:p-14">
+          <div className="article-hero-content relative z-10 flex flex-col gap-5 p-5 sm:p-7 lg:p-12 xl:p-14" style={article.slug === "our-universe-big-bang-end-of-time" ? { alignSelf: "start" } : undefined}>
             <div className="flex flex-wrap items-start justify-between gap-3 font-display text-[11px] lg:flex-nowrap lg:gap-4 font-extrabold uppercase tracking-wide text-white/84 sm:text-sm lg:text-base">
               <Link href={languageDestination(`/category/${toCategorySlug(article.category)}/`, locale, translationRoutes)} className="flex items-center gap-3 transition hover:text-[#FF1A1A]">
                 <span className="h-8 w-1.5 rounded-full bg-[#FF1A1A]" aria-hidden="true" />
@@ -384,6 +386,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "dostoevsky-life-death-human-darkness" && <p data-dostoevsky-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{dostoevskyHeroCaptions[locale]}</p>}
         {article.slug === "artemis-2028-nasa-return-moon" && <p data-artemis-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{artemisHeroCaptions[locale]}</p>}
         {article.slug === "graffiti-city-walls-canvases" && <p data-graffiti-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{graffitiHeroCaptions[locale]}</p>}
+        {article.slug === "our-universe-big-bang-end-of-time" && <UniverseHeroCaption locale={locale} />}
         {article.slug === "moon-landing-conspiracy-apollo-evidence" && <p data-moon-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{moonHeroCaptions[locale]}</p>}
         {article.slug === "giordano-bruno-philosopher-heresy" && <p data-bruno-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{brunoHeroCaptions[locale]}</p>}
         {article.slug === "vincent-van-gogh-life-art-legacy" && <p data-vangogh-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{vangoghHeroCaptions[locale]}</p>}
@@ -595,6 +598,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "dostoevsky-life-death-human-darkness" && dostoevskyImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DostoevskyHistoricalImage id={dostoevskyImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "artemis-2028-nasa-return-moon" && artemisImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><ArtemisHistoricalImage id={artemisImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "graffiti-city-walls-canvases" && graffitiImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GraffitiHistoricalImage id={graffitiImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "our-universe-big-bang-end-of-time" && universeImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><UniverseHistoricalImage id={universeImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "moon-landing-conspiracy-apollo-evidence" && moonImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><MoonHistoricalImage id={moonImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "giordano-bruno-philosopher-heresy" && brunoImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BrunoHistoricalImage id={brunoImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "vincent-van-gogh-life-art-legacy" && vangoghImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><VangoghHistoricalImage id={vangoghImageAtBlock[originalIndex]} locale={locale} /></div>;
