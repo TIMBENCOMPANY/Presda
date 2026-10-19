@@ -526,6 +526,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/bee-colony-order-intelligence/",
+    "path": "/ar/articles/bee-colony-order-intelligence/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/bee-colony-order-intelligence/",
+    "path": "/es/articles/bee-colony-order-intelligence/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/bee-colony-order-intelligence/",
+    "path": "/fr/articles/bee-colony-order-intelligence/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/before-religion-why-humans-believe-worship/",
     "path": "/ar/articles/before-religion-why-humans-believe-worship/"
   },

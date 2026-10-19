@@ -1,3 +1,4 @@
+import { BeeHeroCaption, BeeScientificImage } from "@/components/BeeEditorialMedia";
 import { DnaHeroCaption, DnaScientificImage } from "@/components/DnaEditorialMedia";
 import { BrainHeroCaption, BrainScientificImage } from "@/components/BrainEditorialMedia";
 import { DesktopArticleHeroFit } from "@/components/DesktopArticleHeroFit";
@@ -397,6 +398,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "our-universe-big-bang-end-of-time" && <UniverseHeroCaption locale={locale} />}
         {article.slug === "our-solar-system-sun-eight-planets-beyond" && <SolarHeroCaption locale={locale} />}
         {article.slug === "bacteria-good-bad-microbes-shape-our-lives" && <BacteriaHeroCaption locale={locale} />}
+        {article.slug === "bee-colony-order-intelligence" && <BeeHeroCaption locale={locale} />}
         {article.slug === "human-dna-code-that-builds-us" && <DnaHeroCaption locale={locale} />}
         {article.slug === "human-brain-most-complex-organ" && <BrainHeroCaption locale={locale} />}
         {article.slug === "moon-landing-conspiracy-apollo-evidence" && <p data-moon-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{moonHeroCaptions[locale]}</p>}
@@ -612,6 +614,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "graffiti-city-walls-canvases" && graffitiImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GraffitiHistoricalImage id={graffitiImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "our-universe-big-bang-end-of-time" && universeImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><UniverseHistoricalImage id={universeImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "our-solar-system-sun-eight-planets-beyond" && (solarImageAtBlock[originalIndex] || originalIndex === 12)) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} />{originalIndex === 12 && <SolarSystemTable locale={locale} />}<SolarHistoricalImage id={solarImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "bee-colony-order-intelligence" && [7, 37].includes(originalIndex)) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BeeScientificImage index={originalIndex} locale={locale} /></div>;
               if (article.slug === "human-dna-code-that-builds-us" && [4, 17].includes(originalIndex)) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DnaScientificImage index={originalIndex} locale={locale} /></div>;
               if (article.slug === "human-brain-most-complex-organ" && [11, 44].includes(originalIndex)) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BrainScientificImage index={originalIndex} locale={locale} /></div>;
               if (article.slug === "bacteria-good-bad-microbes-shape-our-lives" && bacteriaImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BacteriaHistoricalImage id={bacteriaImageAtBlock[originalIndex]} locale={locale} /></div>;

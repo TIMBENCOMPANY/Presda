@@ -1674,5 +1674,25 @@
       "width": 819,
       "src": "/articles/dna/replication-819.webp"
     }
+  ],
+  "/articles/bee/comb.webp": [
+    {
+      "width": 480,
+      "src": "/articles/bee/comb-480.webp"
+    },
+    {
+      "width": 1080,
+      "src": "/articles/bee/comb-1080.webp"
+    }
+  ],
+  "/articles/bee/pollen.webp": [
+    {
+      "width": 480,
+      "src": "/articles/bee/pollen-480.webp"
+    },
+    {
+      "width": 1080,
+      "src": "/articles/bee/pollen-1080.webp"
+    }
   ]
 }
