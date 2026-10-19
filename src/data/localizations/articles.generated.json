@@ -184574,6 +184574,636 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/isaac-newton-life-gravity-laws-motion/",
+    "path": "/ar/articles/isaac-newton-life-gravity-laws-motion/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "إسحاق نيوتن: حياته والجاذبية وقوانين الحركة",
+    "seoTitle": "إسحاق نيوتن: الجاذبية والحساب والضوء والإرث",
+    "description": "اكتشف حياة نيوتن وقوانين الحركة والجاذبية والتفاضل والتكامل وتجارب المنشور، مع الأدلة وراء قصة التفاحة وإرثه العلمي.",
+    "excerpt": "اكتشف حياة نيوتن وقوانين الحركة والجاذبية والتفاضل والتكامل وتجارب المنشور، مع الأدلة وراء قصة التفاحة وإرثه العلمي.",
+    "headlineHighlights": {
+      "red": "إسحاق نيوتن",
+      "gold": "قوانين الحركة"
+    },
+    "keywords": [
+      "إسحاق نيوتن",
+      "Physics"
+    ],
+    "searchIntent": "اكتشف حياة نيوتن وقوانين الحركة والجاذبية والتفاضل والتكامل وتجارب المنشور، مع الأدلة وراء قصة التفاحة وإرثه العلمي.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/newton-2026-hero.jpg",
+      "alt": "رسم تحريري لنيوتن يحمل منشوراً: إعادة تصور وليست صورة تاريخية أو مخططاً تجريبياً دقيقاً."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تسقط تفاحة، لكن القمر لا يسقط إلى الأرض. كان إنجاز إسحاق نيوتن إدراك أن الحدثين قد ينتميان إلى القصة الفيزيائية نفسها. يغير القمر اتجاهه باستمرار حول الأرض، ويتسارع الجسم الساقط نحوها. ويمكن لوصف رياضي للتجاذب أن يصل بينهما. لكن تحويل الفكرة إلى نظرية احتاج إلى أكثر بكثير من لحظة ملهمة تحت شجرة."
+      },
+      {
+        "type": "paragraph",
+        "text": "ساهم نيوتن في بناء إطار لدراسة الحركة والجاذبية والضوء كمياً. غير الرياضيات والفلسفة الطبيعية، لكن حياته شملت أيضاً السرية والبحث الديني وتجارب الخيمياء والنزاعات. نيوتن التاريخي أكثر إثارة من العبقري المنعزل في الأسطورة: ورث أفكاراً، وطور وسائل استثنائية، وخاض معارك حول استحقاق الفضل."
+      },
+      {
+        "type": "heading",
+        "text": "طفولة في إنجلترا متغيرة"
+      },
+      {
+        "type": "paragraph",
+        "text": "ولد نيوتن في وولسثورب بلينكولنشير يوم 25 ديسمبر 1642 وفق التقويم اليولياني المستخدم آنذاك في إنجلترا، الموافق 4 يناير 1643 بالتقويم الغريغوري. التاريخان يشيران إلى الميلاد نفسه. توفي والده قبل ولادته، وبعد زواج أمه مجدداً تولت جدته لأمه جانباً كبيراً من تربيته. وقادته دراسته في غرانثام لاحقاً إلى كامبريدج بدلاً من الحياة الزراعية التي خُططت له. [المصدر: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/his-life-and-work-at-a-glance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "دخل كلية ترينيتي عام 1661. ظل التدريس متأثراً بالتقاليد القديمة، لكنه درس بنفسه رياضيات وفلسفة طبيعية أحدث. مهدت القراءة والدفاتر والحساب والتجريب لاكتشافاته. وعندما عطل الطاعون كامبريدج في منتصف ستينيات القرن السابع عشر، كان ابتعاده جزءاً من فترة خصبة. تختصرها الروايات اللاحقة في سنة معجزات، بينما تكشف الأوراق الباقية أفكاراً تشكلت بالعمل المتواصل."
+      },
+      {
+        "type": "heading",
+        "text": "التفاضل والتكامل: لغة للتغير"
+      },
+      {
+        "type": "paragraph",
+        "text": "بحث نيوتن كميات تتغير باستمرار. تصف السرعة تغير الموضع، ويصف التسارع تغير السرعة المتجهة. يدرس التفاضل معدلات التغير، بينما يتناول التكامل الكميات المتراكمة. وأصبحت الصلة بينهما مركزية. طور نيوتن طريقة الفلوكسونات في ستينيات القرن السابع عشر، لكن نشرها كان بطيئاً ومعقداً. وتكشف المخطوطات تطوراً تدريجياً، لا كتاباً مكتملاً ظهر فجأة. [المصدر: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/texts/introduction)"
+      },
+      {
+        "type": "paragraph",
+        "text": "طور غوتفريد فيلهلم لايبنتس حساب التفاضل والتكامل بصورة مستقلة، ونشر قبل ظهور عرض نيوتن الكامل. وكان لترميزه تأثير كبير. تحول نزاع الأسبقية بين أتباعهما إلى اتهامات وصراع مؤسسي. ينسب التأريخ الحديث الفضل إلى كليهما، مع الاعتراف بالرياضيين السابقين. فالاكتشاف والتواصل والنشر والترميز إنجازات مترابطة لكنها مختلفة، وهو تمييز ما زال مهماً للعلم. [المصدر: fileserver-az.core.ac.uk](https://fileserver-az.core.ac.uk/download/pdf/187993169.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا تفسر قوانين الحركة الثلاثة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يعبر القانون الأول عن القصور الذاتي: في إطار مرجعي عطالي، يحافظ الجسم على السكون أو السرعة الثابتة بخط مستقيم ما لم تغير قوة خارجية محصلة حالته. لا تحتاج الحركة إلى دفع متواصل؛ تتباطأ الأشياء اليومية بسبب الاحتكاك وتفاعلات أخرى. يربط القانون الثاني القوة المحصلة بمعدل تغير الزخم. وعند ثبات الكتلة يكون F = ma. أما الثالث فيقرر أن الجسمين المتفاعلين يؤثر كل منهما في الآخر بقوة مساوية ومعاكسة. ولأن القوتين تؤثران في جسمين مختلفين، فلا تلغيان حركة كل جسم ببساطة. [المصدر: www1.grc.nasa.gov](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تستبدل المبادئ التفسيرات الغامضة بعلاقات قابلة للاختبار. يتسارع الصاروخ بطرد المادة، ويحتاج الجسم الذي يدور إلى تسارع ولو ثبت مقدار سرعته. تعمل القوانين مع وصف القوى المحددة والشروط الابتدائية، ولا تعين وحدها جميع قوى الطبيعة. تكمن فائدتها في تنظيم أسئلة ما الذي يتغير، وما الذي يُحفظ، وما المشاهدات التي يجب على التفسير إعادة إنتاجها."
+      },
+      {
+        "type": "heading",
+        "text": "الجاذبية توحد الأرض والسماء"
+      },
+      {
+        "type": "paragraph",
+        "text": "يصف قانون الجذب قوة تتناسب مع حاصل ضرب الكتلتين وعكسياً مع مربع المسافة بينهما. وللكتل النقطية: F = Gm₁m₂/r². ومع قوانين الحركة، يفسر مدارات كبلر في نظام مثالي من جسمين، ويصل الأجسام الساقطة بالأقمار والكواكب والمذنبات. لم يكتشف نيوتن سقوط الأشياء؛ بل أسس وصفاً رياضياً قوياً يجمع الحركة الأرضية والسماوية. [المصدر: science.nasa.gov](https://science.nasa.gov/earth/earth-observatory/planetary-motion/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "المدار ليس غياباً للجاذبية. ينحرف الجسم باستمرار عن الخط المستقيم الذي كان سيسلكه دونها. وتمنعه حركته العرضية من السقوط مباشرة على الجسم المركزي. تحتوي الأنظمة الحقيقية أجساماً أكثر، فتتعقد المسارات بتفاعلاتها. أصبحت هذه الصعوبات اختبارات منتجة لا أسباباً للتخلي عن الحساب. وغير الجمع بين الملاحظة والتنبؤ الرياضي معنى تفسير الطبيعة."
+      },
+      {
+        "type": "heading",
+        "text": "التفاحة: ذكرى وليست برهاناً فورياً"
+      },
+      {
+        "type": "paragraph",
+        "text": "للقصة أساس تاريخي، لكن صورتها الكاريكاتورية تتجاوز الدليل. سجل ويليام ستوكلي تذكر نيوتن أن رؤية تفاحة تسقط دفعته للتفكير في الجاذبية. يعود مخطوط ستوكلي إلى 1752 ويتناول حديثاً مع نيوتن في أواخر حياته، بعد زمن طويل من الأحداث. إنه دليل على حكاية مستعادة، لا سجل مختبر معاصر. ولا يثبت أن تفاحة ضربت رأسه أو أنه اكتشف القانون كاملاً في مساء واحد. [المصدر: royalsociety.org](https://royalsociety.org/news/2010/apple-tree-gravity/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "هذا الفرق مهم لأن الأسطورة قد تخفي الإنجاز الحقيقي. ملاحظة سقوط ثمرة سهلة، لكن إثبات أن قانوناً كمياً يفسر الحركة السماوية يتطلب تعريفات واستدلالاً رياضياً ومقارنة بالمشاهدات. التفاحة مدخل مفيد إلى أسئلة نيوتن، وليست بديلاً عن سنوات العمل التي جعلتها تحولاً علمياً."
+      },
+      {
+        "type": "heading",
+        "text": "المنشور يكشف تركيب الضوء الأبيض"
+      },
+      {
+        "type": "paragraph",
+        "text": "استخدم نيوتن المناشير لدراسة الانكسار وفصل الألوان. وكان استنتاجه الجوهري أن الضوء الأبيض يحتوي مكونات تختلف في قابليتها للانكسار. لم يكن المنشور يصبغ ضوءاً متجانساً. وباختيار أجزاء الطيف واختبارها، بحث احتفاظها بخصائصها عند انكسار آخر. ظهر عرضه عام 1672، ثم كتاب البصريات الأوسع عام 1704. [المصدر: royalsociety.org](https://royalsociety.org/blog/2021/11/colour-wheel/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الاكتشاف الدائم هو تركيب الضوء الأبيض، لا بقاء كل نظرية نيوتن البصرية صحيحة. تصف الفيزياء الحديثة الضوء بالكهرومغناطيسية وميكانيكا الكم. وبنى نيوتن أيضاً تلسكوباً عاكساً يستخدم مرآة، متجنباً مشكلة فصل الألوان في عدسة شيئية كاسرة بسيطة. تقدمت الأدوات والنظرية معاً؛ كانت الورشة جزءاً من حياته الفكرية. [المصدر: makingscience.royalsociety.org](https://makingscience.royalsociety.org/items/rbo_4_44/a-discourse-of-mr-isaac-newton-containing-his-new-theory-about-light-and-colours-sent-by-him-from-cambridge-february-6-1672)"
+      },
+      {
+        "type": "heading",
+        "text": "المبادئ والعمل وراء المنعطف"
+      },
+      {
+        "type": "paragraph",
+        "text": "نشر كتاب المبادئ الرياضية للفلسفة الطبيعية عام 1687، وقدم قوانين نيوتن ومعالجة رياضية للجاذبية. ساهم تشجيع إدموند هالي ودعمه العملي في نشره. كان الكتاب صعباً، واستند إلى حجج هندسية بدرجة كبيرة، ولم يجعل كل مسائل الفلك سهلة. لكنه أسس إطاراً بالغ الخصوبة. تحتفظ ترينيتي بنسخة نيوتن الأولى المشروحة بخطه، لتذكرنا بأن العمل الكبير نفسه ظل مفتوحاً للتصحيح والتوسيع. [المصدر: www.trin.cam.ac.uk](https://www.trin.cam.ac.uk/library/highlights/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتنبع أهميته أيضاً مما لم يدع حسمه. فوصف الجاذبية رياضياً لا يحدد تلقائياً سببها الفيزيائي النهائي. وصل نيوتن الظواهر بقوانين يمكن استخدامها ومساءلتها وتحسينها. اكتسب العلم طريقة لتنبؤات دقيقة مع إبقاء أسئلة أعمق مفتوحة. هذا الجمع بين القوة والتحفظ أهم من أسطورة الإجابة النهائية عن كل شيء."
+      },
+      {
+        "type": "heading",
+        "text": "الخلافات والمعتقد والسلطة"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان نيوتن شديد الدفاع عن عمله. وتظهر خلافاته مع روبرت هوك حول الضوء والجاذبية، ثم نزاع التفاضل والتكامل، أن العلم عالم بشري من السمعة والسلطة أيضاً. وبصفته رئيس الجمعية الملكية منذ 1703، جمع النفوذ والمكانة الفكرية. ويعقد تدخله في معالجة المؤسسة لخلاف لايبنتس صورة التحكيم المحايد في الأسبقية. [المصدر: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/tour/newtons-character)"
+      },
+      {
+        "type": "paragraph",
+        "text": "كما لا تنسجم اهتماماته غير المنشورة مع فصل حديث بسيط بين العلمي وغير العلمي. درس اللاهوت والتأريخ والخيمياء بإسهاب. لا ينبغي تقديمها كاكتشافات حديثة سرية أو محوها لأنها تبدو غريبة بجوار المبادئ. لقد انتمت إلى أسئلة عصره. وتكشف الأوراق بحثاً عن النظام في مجالات فصلتها الأجيال اللاحقة بوضوح أكبر. [المصدر: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/)"
+      },
+      {
+        "type": "heading",
+        "text": "من المختبر إلى دار السك"
+      },
+      {
+        "type": "paragraph",
+        "text": "أصبح نيوتن ناظراً لدار السك الملكية عام 1696، ثم رئيساً لها عام 1699. أخذ مسؤولياته بجدية، وشارك في إعادة سك العملة وحقق في التزييف. كانت سلطة عملية من نوع آخر، تشمل الإدارة والأدلة وقوة الدولة القسرية. لا تختزل سنواته المتأخرة في تأمل هادئ للسماء. توفي عام 1727 بعدما أصبح من أشهر الشخصيات الفكرية البريطانية. [المصدر: www.royalmintmuseum.org.uk](https://www.royalmintmuseum.org.uk/journal/people/isaac-newton/)"
+      },
+      {
+        "type": "heading",
+        "text": "حدود النظرية لا تمحو الإنجاز"
+      },
+      {
+        "type": "paragraph",
+        "text": "تظل ميكانيكا نيوتن مفيدة جداً عند السرعات العادية وفي حسابات هندسية وفلكية كثيرة، لكنها ليست الوصف النهائي للطبيعة. نحتاج النسبية للسرعات العالية والتأثيرات الجاذبية الشديدة، ونظرية الكم لظواهر تتجاوز الإطار الكلاسيكي. وقد فتح وصف أينشتاين للجاذبية كهندسة للزمكان الأسئلة التي بحثها ستيفن هوكينغ ودراسة أعماق الثقوب السوداء. [ستيفن هوكينغ: الثقوب السوداء والزمن وحياة في العلم](/articles/stephen-hawking-black-holes-cosmology/) [ماذا يحدث داخل الثقب الأسود؟](/articles/what-happens-inside-black-hole/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لذلك ليس إرث نيوتن أن معادلاته تفسر كل شيء. بل إنها جعلت طيفاً هائلاً من الظواهر مفهوماً ضمن بنية مشتركة قابلة للاختبار. ومن التفاحة إلى الكواكب بقي طموح: تفسير المزيد بمبادئ متماسكة، وتمييز الدليل من القصص الجذابة، ومعرفة حدود أكثر النظريات نجاحاً."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Newton Project chronology",
+        "url": "https://newtonproject.ox.ac.uk/his-life-and-work-at-a-glance"
+      },
+      {
+        "label": "Newton Project manuscripts",
+        "url": "https://newtonproject.ox.ac.uk/texts/introduction"
+      },
+      {
+        "label": "Oxford scholarship on the calculus controversy",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/187993169.pdf"
+      },
+      {
+        "label": "NASA: laws of motion",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
+      },
+      {
+        "label": "NASA: planetary motion",
+        "url": "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+      },
+      {
+        "label": "Royal Society: the apple account",
+        "url": "https://royalsociety.org/news/2010/apple-tree-gravity/"
+      },
+      {
+        "label": "Royal Society: light and color",
+        "url": "https://royalsociety.org/blog/2021/11/colour-wheel/"
+      },
+      {
+        "label": "Royal Society: Newton’s optical manuscript",
+        "url": "https://makingscience.royalsociety.org/items/rbo_4_44/a-discourse-of-mr-isaac-newton-containing-his-new-theory-about-light-and-colours-sent-by-him-from-cambridge-february-6-1672"
+      },
+      {
+        "label": "Trinity College: Principia",
+        "url": "https://www.trin.cam.ac.uk/library/highlights/"
+      },
+      {
+        "label": "Newton Project: character and evidence",
+        "url": "https://newtonproject.ox.ac.uk/tour/newtons-character"
+      },
+      {
+        "label": "The Newton Project",
+        "url": "https://newtonproject.ox.ac.uk/"
+      },
+      {
+        "label": "Royal Mint Museum",
+        "url": "https://www.royalmintmuseum.org.uk/journal/people/isaac-newton/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/isaac-newton-life-gravity-laws-motion/",
+    "path": "/es/articles/isaac-newton-life-gravity-laws-motion/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "Isaac Newton: vida, gravedad y leyes del movimiento",
+    "seoTitle": "Isaac Newton: gravedad, cálculo, óptica y legado",
+    "description": "Explora la vida de Newton, gravedad, leyes del movimiento, cálculo y prismas, con los hechos detrás de la manzana y su legado científico.",
+    "excerpt": "Explora la vida de Newton, gravedad, leyes del movimiento, cálculo y prismas, con los hechos detrás de la manzana y su legado científico.",
+    "headlineHighlights": {
+      "red": "Isaac Newton",
+      "gold": "leyes del movimiento"
+    },
+    "keywords": [
+      "Isaac Newton",
+      "Physics"
+    ],
+    "searchIntent": "Explora la vida de Newton, gravedad, leyes del movimiento, cálculo y prismas, con los hechos detrás de la manzana y su legado científico.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/newton-2026-hero.jpg",
+      "alt": "Ilustración editorial de Newton con un prisma: reconstrucción, no fotografía histórica ni diagrama experimental exacto."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Una manzana cae. La Luna no cae al suelo. Isaac Newton comprendió que ambos hechos podían formar parte de la misma historia física. La Luna cambia continuamente de dirección alrededor de la Tierra; un objeto en caída acelera hacia ella. Una descripción matemática de la atracción podía conectarlos. Convertir esa intuición en teoría exigió mucho más que un momento memorable bajo un árbol."
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton ayudó a construir un marco para investigar cuantitativamente movimiento, gravedad y luz. Transformó las matemáticas y la filosofía natural, pero su vida también incluyó secretismo, religión, alquimia y disputas. El Newton histórico supera al genio solitario de la leyenda: heredó ideas, desarrolló métodos extraordinarios y luchó por el reconocimiento."
+      },
+      {
+        "type": "heading",
+        "text": "Una infancia en una Inglaterra cambiante"
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton nació en Woolsthorpe, Lincolnshire, el 25 de diciembre de 1642 según el calendario juliano utilizado entonces en Inglaterra, equivalente al 4 de enero de 1643 del gregoriano. Ambas fechas describen el mismo nacimiento. Su padre murió antes de que naciera. Tras el nuevo matrimonio de su madre, su abuela materna asumió gran parte de su crianza. Sus estudios en Grantham terminaron conduciéndolo a Cambridge, en lugar de la vida agrícola prevista para él. [Fuente: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/his-life-and-work-at-a-glance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ingresó en Trinity College en 1661. La enseñanza seguía apoyándose en antiguas tradiciones, pero Newton exploró por su cuenta matemáticas y filosofía natural más recientes. Lecturas, cuadernos, cálculos y experimentos prepararon sus descubrimientos. Cuando la peste interrumpió Cambridge a mediados de la década de 1660, su estancia fuera de la universidad formó parte de un período productivo. Los relatos posteriores lo comprimen en un año milagroso; los documentos muestran ideas desarrolladas con trabajo sostenido."
+      },
+      {
+        "type": "heading",
+        "text": "Cálculo: un lenguaje para el cambio"
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton estudiaba cantidades que varían continuamente. La velocidad describe el cambio de posición; la aceleración, el de velocidad. La diferenciación permite investigar esas tasas y la integración aborda cantidades acumuladas. Su conexión se volvió central para el cálculo. Newton desarrolló su método de fluxiones en la década de 1660, aunque su publicación fue lenta y compleja. Los manuscritos muestran un desarrollo gradual, no un manual acabado que apareciera de repente. [Fuente: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/texts/introduction)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Gottfried Wilhelm Leibniz desarrolló el cálculo independientemente y publicó antes de que apareciera la exposición completa de Newton. Su notación fue especialmente influyente. La disputa de prioridad entre sus seguidores se convirtió en acusaciones y conflictos institucionales. El reconocimiento histórico corresponde a ambos, junto con sus predecesores. Descubrimiento, comunicación, publicación y notación son logros relacionados, pero diferentes: una distinción todavía importante para la ciencia. [Fuente: fileserver-az.core.ac.uk](https://fileserver-az.core.ac.uk/download/pdf/187993169.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué explican las tres leyes"
+      },
+      {
+        "type": "paragraph",
+        "text": "La primera expresa la inercia: en un sistema de referencia inercial, un cuerpo mantiene reposo o velocidad rectilínea constante mientras ninguna fuerza externa neta cambie su estado. El movimiento no necesita un empuje continuo; los objetos cotidianos frenan por rozamiento y otras interacciones. La segunda relaciona la fuerza neta con la variación temporal del momento lineal. Para masa constante, F = ma. La tercera establece fuerzas iguales y opuestas entre cuerpos que interactúan. Actúan sobre cuerpos distintos, por lo que no cancelan simplemente el movimiento de cada uno. [Fuente: www1.grc.nasa.gov](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estos principios sustituyen explicaciones vagas por relaciones comprobables. Un cohete acelera al expulsar materia; un objeto que gira necesita aceleración aunque mantenga su rapidez. Las leyes se combinan con las fuerzas específicas y las condiciones iniciales. No determinan por sí solas todas las fuerzas naturales. Su utilidad consiste en estructurar preguntas sobre qué cambia, qué se conserva y qué observaciones debe reproducir una explicación."
+      },
+      {
+        "type": "heading",
+        "text": "La gravedad reúne Tierra y cielo"
+      },
+      {
+        "type": "paragraph",
+        "text": "La ley gravitatoria describe una atracción proporcional al producto de las masas e inversamente proporcional al cuadrado de la distancia. Para masas puntuales: F = Gm₁m₂/r². Junto con las leyes del movimiento, explica las órbitas keplerianas de un sistema ideal de dos cuerpos. Vincula objetos que caen, lunas, planetas y cometas. Newton no descubrió que los objetos caen: estableció una descripción matemática que conectaba movimientos terrestres y celestes. [Fuente: science.nasa.gov](https://science.nasa.gov/earth/earth-observatory/planetary-motion/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Orbitar no significa ausencia de gravedad. El cuerpo se desvía continuamente de la trayectoria recta que seguiría de otro modo. Su movimiento transversal evita que caiga directamente sobre el cuerpo central. Los sistemas reales contienen más objetos y sus interacciones complican las trayectorias. Esas dificultades se convirtieron en pruebas productivas, no en razones para abandonar el cálculo. La combinación de observación y predicción transformó las explicaciones de la naturaleza."
+      },
+      {
+        "type": "heading",
+        "text": "La manzana: recuerdo, no demostración instantánea"
+      },
+      {
+        "type": "paragraph",
+        "text": "La historia tiene fundamento histórico, pero su caricatura excede las pruebas. William Stukeley recogió el recuerdo de Newton de que ver caer una manzana lo llevó a reflexionar sobre la gravedad. Su manuscrito es de 1752 y relata una conversación con Newton anciano, mucho después de los acontecimientos. Es evidencia de una anécdota recordada, no un registro contemporáneo de laboratorio. No demuestra que una manzana le golpeara la cabeza ni que descubriera la ley completa en una tarde. [Fuente: royalsociety.org](https://royalsociety.org/news/2010/apple-tree-gravity/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La diferencia importa porque la leyenda oculta el logro real. Observar una fruta cayendo es fácil. Demostrar que una ley cuantitativa explica movimientos celestes requiere definiciones, razonamiento matemático y comparación con observaciones. La manzana abre una puerta a sus preguntas. No debe sustituir los años de trabajo que las hicieron transformadoras."
+      },
+      {
+        "type": "heading",
+        "text": "Un prisma revela la luz blanca"
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton utilizó prismas para investigar refracción y separación de colores. Su conclusión esencial fue que la luz blanca contiene componentes con distinta refrangibilidad. El prisma no teñía una luz uniforme. Al seleccionar partes del espectro, examinó si conservaban sus propiedades tras otra refracción. Su exposición apareció en 1672 y el libro Opticks en 1704. [Fuente: royalsociety.org](https://royalsociety.org/blog/2021/11/colour-wheel/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La aportación duradera es la composición de la luz blanca, no la vigencia de todos los aspectos de su teoría óptica. La física moderna describe la luz mediante electromagnetismo y mecánica cuántica. Newton también construyó un telescopio reflector, con un espejo que evitaba el problema de separación cromática de un objetivo refractor simple. Instrumentos y teoría avanzaron juntos: el taller formaba parte de su vida intelectual. [Fuente: makingscience.royalsociety.org](https://makingscience.royalsociety.org/items/rbo_4_44/a-discourse-of-mr-isaac-newton-containing-his-new-theory-about-light-and-colours-sent-by-him-from-cambridge-february-6-1672)"
+      },
+      {
+        "type": "heading",
+        "text": "Principia y el trabajo tras un hito"
+      },
+      {
+        "type": "paragraph",
+        "text": "Philosophiae Naturalis Principia Mathematica, publicado en 1687, presentó las leyes y un tratamiento matemático de la gravitación. El estímulo y apoyo práctico de Edmond Halley fueron importantes para publicarlo. Exigente y expresado principalmente con argumentos geométricos, no resolvía fácilmente todos los problemas astronómicos. Establecía un marco extraordinariamente fértil. Trinity College conserva el ejemplar anotado de Newton: incluso una obra decisiva permanecía abierta a correcciones y ampliaciones. [Fuente: www.trin.cam.ac.uk](https://www.trin.cam.ac.uk/library/highlights/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "También importa lo que no pretendía resolver. Describir matemáticamente la gravedad no identificaba automáticamente su causa física última. Newton conectó fenómenos mediante leyes utilizables, cuestionables y perfeccionables. La ciencia ganó predicciones precisas sin cerrar preguntas profundas. Esa combinación de potencia y prudencia vale más que el mito de una respuesta definitiva a todo."
+      },
+      {
+        "type": "heading",
+        "text": "Controversias, creencias y poder"
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton podía defender su trabajo con intensidad. Sus diferencias con Robert Hooke sobre óptica y gravedad, y la controversia del cálculo, revelan una ciencia atravesada por reputación y autoridad. Como presidente de la Royal Society desde 1703, tuvo influencia además de prestigio. Su intervención en el tratamiento institucional del conflicto con Leibniz complica la imagen de un arbitraje neutral de la prioridad. [Fuente: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/tour/newtons-character)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sus intereses inéditos tampoco encajan en una separación moderna sencilla entre científico y no científico. Estudió extensamente teología, cronología y alquimia. No deben presentarse como descubrimientos modernos secretos ni borrarse por parecer incompatibles con los Principia. Pertenecían a las preguntas de su época. Los documentos muestran una búsqueda de orden en campos que generaciones posteriores separarían más claramente. [Fuente: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/)"
+      },
+      {
+        "type": "heading",
+        "text": "Del laboratorio a la Casa de la Moneda"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1696 Newton fue nombrado supervisor de la Royal Mint y en 1699 su director, Master of the Mint. Participó seriamente en la renovación de la moneda e investigó falsificaciones. Era otra autoridad práctica, vinculada a administración, pruebas y poder coercitivo estatal. Su madurez no se reduce a contemplar tranquilamente el cielo. Murió en 1727, convertido en una de las figuras intelectuales más célebres de Gran Bretaña. [Fuente: www.royalmintmuseum.org.uk](https://www.royalmintmuseum.org.uk/journal/people/isaac-newton/)"
+      },
+      {
+        "type": "heading",
+        "text": "Los límites no borran el logro"
+      },
+      {
+        "type": "paragraph",
+        "text": "La mecánica newtoniana sigue siendo extraordinariamente útil a velocidades ordinarias y en muchos cálculos técnicos y astronómicos. No es la descripción final de la naturaleza. La relatividad resulta necesaria a altas velocidades y con efectos gravitatorios intensos; la teoría cuántica también supera el marco clásico. La gravedad como geometría del espacio-tiempo abrió las preguntas investigadas por Stephen Hawking y el estudio moderno de los interiores de agujeros negros. [Stephen Hawking: agujeros negros, tiempo y una vida científica](/articles/stephen-hawking-black-holes-cosmology/) [¿Qué ocurre dentro de un agujero negro?](/articles/what-happens-inside-black-hole/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Su legado no consiste en haberlo explicado todo. Sus ecuaciones hicieron comprensibles innumerables fenómenos dentro de una estructura compartida y verificable. De la manzana a los planetas persiste una ambición: explicar más con principios coherentes, distinguir evidencia y relatos atractivos, y reconocer dónde terminan incluso las teorías más eficaces."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Newton Project chronology",
+        "url": "https://newtonproject.ox.ac.uk/his-life-and-work-at-a-glance"
+      },
+      {
+        "label": "Newton Project manuscripts",
+        "url": "https://newtonproject.ox.ac.uk/texts/introduction"
+      },
+      {
+        "label": "Oxford scholarship on the calculus controversy",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/187993169.pdf"
+      },
+      {
+        "label": "NASA: laws of motion",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
+      },
+      {
+        "label": "NASA: planetary motion",
+        "url": "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+      },
+      {
+        "label": "Royal Society: the apple account",
+        "url": "https://royalsociety.org/news/2010/apple-tree-gravity/"
+      },
+      {
+        "label": "Royal Society: light and color",
+        "url": "https://royalsociety.org/blog/2021/11/colour-wheel/"
+      },
+      {
+        "label": "Royal Society: Newton’s optical manuscript",
+        "url": "https://makingscience.royalsociety.org/items/rbo_4_44/a-discourse-of-mr-isaac-newton-containing-his-new-theory-about-light-and-colours-sent-by-him-from-cambridge-february-6-1672"
+      },
+      {
+        "label": "Trinity College: Principia",
+        "url": "https://www.trin.cam.ac.uk/library/highlights/"
+      },
+      {
+        "label": "Newton Project: character and evidence",
+        "url": "https://newtonproject.ox.ac.uk/tour/newtons-character"
+      },
+      {
+        "label": "The Newton Project",
+        "url": "https://newtonproject.ox.ac.uk/"
+      },
+      {
+        "label": "Royal Mint Museum",
+        "url": "https://www.royalmintmuseum.org.uk/journal/people/isaac-newton/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/isaac-newton-life-gravity-laws-motion/",
+    "path": "/fr/articles/isaac-newton-life-gravity-laws-motion/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "Isaac Newton : sa vie, la gravitation et les lois du mouvement",
+    "seoTitle": "Isaac Newton : gravitation, calcul et lumière",
+    "description": "La vie de Newton, ses lois, la gravitation, le calcul et les prismes : découvrez les faits derrière la pomme et son héritage scientifique.",
+    "excerpt": "La vie de Newton, ses lois, la gravitation, le calcul et les prismes : découvrez les faits derrière la pomme et son héritage scientifique.",
+    "headlineHighlights": {
+      "red": "Isaac Newton",
+      "gold": "lois du mouvement"
+    },
+    "keywords": [
+      "Isaac Newton",
+      "Physics"
+    ],
+    "searchIntent": "La vie de Newton, ses lois, la gravitation, le calcul et les prismes : découvrez les faits derrière la pomme et son héritage scientifique.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/newton-2026-hero.jpg",
+      "alt": "Illustration éditoriale de Newton avec un prisme : reconstitution, pas une photographie historique ni un schéma expérimental exact."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Une pomme tombe. La Lune ne tombe pas au sol. Isaac Newton comprit que ces événements apparemment différents pouvaient relever d’une même histoire physique. La Lune change continuellement de direction autour de la Terre ; un objet en chute accélère vers elle. Une théorie mathématique de l’attraction pouvait relier les deux. Transformer cette intuition en théorie exigea bien davantage qu’un instant mémorable sous un arbre."
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton contribua à construire un cadre permettant d’étudier quantitativement mouvement, gravitation et lumière. Il transforma les mathématiques et la philosophie naturelle, mais sa vie comporta aussi secret, recherches religieuses, expériences alchimiques et querelles. Le Newton historique dépasse le génie solitaire de la légende : héritier d’idées, inventeur de méthodes extraordinaires, il défendit âprement sa reconnaissance."
+      },
+      {
+        "type": "heading",
+        "text": "Une enfance dans une Angleterre en transformation"
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton naquit à Woolsthorpe, dans le Lincolnshire, le 25 décembre 1642 selon le calendrier julien alors employé en Angleterre, soit le 4 janvier 1643 dans le calendrier grégorien. Les deux dates désignent la même naissance. Son père mourut avant sa venue au monde. Après le remariage de sa mère, sa grand-mère maternelle assura largement son éducation. Ses études à Grantham le conduisirent finalement à Cambridge plutôt qu’à la vie agricole envisagée pour lui. [Source: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/his-life-and-work-at-a-glance)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il entra au Trinity College en 1661. L’enseignement universitaire restait fortement marqué par les traditions anciennes, mais Newton étudia personnellement les nouvelles mathématiques et la philosophie naturelle. Lecture, carnets, calcul et expérimentation préparèrent ses découvertes. Quand la peste perturba Cambridge au milieu des années 1660, son éloignement de l’université s’inscrivit dans une période féconde. Les récits ultérieurs la condensent en année miraculeuse ; les manuscrits montrent plutôt des idées élaborées par un travail soutenu."
+      },
+      {
+        "type": "heading",
+        "text": "Le calcul infinitésimal : un langage du changement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton étudiait des quantités variant continuellement. La vitesse décrit le changement de position ; l’accélération, celui de la vitesse. La dérivation analyse de tels taux, tandis que l’intégration concerne les quantités accumulées. Leur relation devint centrale pour le calcul infinitésimal. Newton développa sa méthode des fluxions dans les années 1660, mais sa publication fut lente et complexe. Les manuscrits révèlent une construction progressive, pas l’apparition soudaine d’un manuel achevé. [Source: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/texts/introduction)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Gottfried Wilhelm Leibniz développa indépendamment le calcul infinitésimal et publia avant la présentation complète de Newton. Sa notation exerça une influence particulière. La querelle de priorité entre leurs partisans entraîna accusations et conflits institutionnels. L’histoire reconnaît aujourd’hui les deux contributions, ainsi que celles des prédécesseurs qui les rendirent possibles. Découverte, communication, publication et notation sont des accomplissements liés, mais distincts : une différence toujours pertinente dans les sciences. [Source: fileserver-az.core.ac.uk](https://fileserver-az.core.ac.uk/download/pdf/187993169.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce qu’expliquent les trois lois de Newton"
+      },
+      {
+        "type": "paragraph",
+        "text": "La première loi exprime l’inertie : dans un référentiel inertiel, un corps conserve le repos ou une vitesse rectiligne constante si aucune force extérieure résultante ne modifie cet état. Le mouvement n’exige pas une poussée continue ; les objets usuels ralentissent sous l’effet du frottement et d’autres interactions. La deuxième loi relie la force résultante à la variation temporelle de la quantité de mouvement. À masse constante, elle prend la forme F = ma. La troisième affirme que deux corps en interaction exercent des forces égales et opposées. Appliquées à des corps différents, elles n’annulent pas simplement le mouvement de chacun. [Source: www1.grc.nasa.gov](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces principes remplacent les explications vagues par des relations vérifiables. Une fusée accélère en expulsant de la matière ; un corps qui tourne subit une accélération même si la valeur de sa vitesse reste constante. Il faut associer ces lois aux forces particulières et aux conditions initiales. Elles ne définissent pas seules toutes les forces de la nature. Leur puissance réside dans un cadre cohérent pour déterminer ce qui change, ce qui se conserve et les observations qu’une explication doit reproduire."
+      },
+      {
+        "type": "heading",
+        "text": "La gravitation réunit la Terre et le ciel"
+      },
+      {
+        "type": "paragraph",
+        "text": "La loi gravitationnelle décrit une attraction proportionnelle au produit des masses et inversement proportionnelle au carré de leur distance. Pour des masses ponctuelles : F = Gm₁m₂/r². Avec les lois du mouvement, elle explique les orbites képlériennes d’un système idéal à deux corps. Elle relie corps en chute, lunes, planètes et comètes. Newton ne découvrit pas que les objets tombent ; il établit une description mathématique puissante unifiant mouvements terrestres et célestes. [Source: science.nasa.gov](https://science.nasa.gov/earth/earth-observatory/planetary-motion/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une orbite n’est pas une absence de gravité. Le corps est continuellement dévié de la trajectoire rectiligne qu’il suivrait autrement. Son mouvement transversal l’empêche de tomber directement sur le corps central. Les systèmes réels comportent davantage d’objets, dont les interactions compliquent les trajectoires. Ces difficultés devinrent des tests féconds plutôt que des raisons d’abandonner le calcul. L’association des observations et des prédictions transforma l’explication de la nature."
+      },
+      {
+        "type": "heading",
+        "text": "La pomme : un souvenir, pas une preuve instantanée"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’histoire possède une base historique, mais sa version caricaturale dépasse les preuves. William Stukeley rapporta le souvenir de Newton : voir tomber une pomme l’avait amené à réfléchir à la gravitation. Son manuscrit date de 1752 et évoque une conversation avec Newton âgé, longtemps après les événements. C’est le témoignage d’une anecdote remémorée, pas un compte rendu de laboratoire contemporain. Il n’établit ni qu’une pomme frappa sa tête ni que la loi complète fut découverte en un après-midi. [Source: royalsociety.org](https://royalsociety.org/news/2010/apple-tree-gravity/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La nuance importe, car la légende masque l’accomplissement réel. Observer un fruit tomber est facile. Démontrer qu’une loi quantitative explique les mouvements célestes exige définitions, raisonnement mathématique et confrontation aux observations. La pomme ouvre utilement les questions de Newton. Elle ne doit pas remplacer les années de travail qui les rendirent révolutionnaires."
+      },
+      {
+        "type": "heading",
+        "text": "Le prisme révèle la lumière blanche"
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton utilisa des prismes pour étudier la réfraction et la séparation des couleurs. Sa conclusion essentielle fut que la lumière blanche contient des composantes différemment réfrangibles. Le prisme ne colorait pas simplement une lumière uniforme. En sélectionnant des parties du spectre, il vérifia leur comportement lors d’une nouvelle réfraction. Son exposé parut en 1672 ; le livre plus large Opticks suivit en 1704. [Source: royalsociety.org](https://royalsociety.org/blog/2021/11/colour-wheel/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La découverte durable est la composition de la lumière blanche, pas la validité éternelle de toute sa théorie optique. La physique moderne décrit la lumière par l’électromagnétisme et la mécanique quantique. Newton construisit aussi un télescope réflecteur, utilisant un miroir et évitant le problème de séparation des couleurs d’un objectif réfracteur simple. Instruments et théorie progressaient ensemble : l’atelier appartenait pleinement à sa vie intellectuelle. [Source: makingscience.royalsociety.org](https://makingscience.royalsociety.org/items/rbo_4_44/a-discourse-of-mr-isaac-newton-containing-his-new-theory-about-light-and-colours-sent-by-him-from-cambridge-february-6-1672)"
+      },
+      {
+        "type": "heading",
+        "text": "Principia : le travail derrière le monument"
+      },
+      {
+        "type": "paragraph",
+        "text": "Publié en 1687, Philosophiae Naturalis Principia Mathematica présenta les lois du mouvement et un traitement mathématique de la gravitation. Les encouragements et l’aide pratique d’Edmond Halley comptèrent dans sa publication. Exigeant, largement géométrique, le livre ne rendit pas tous les problèmes astronomiques faciles. Il établit un cadre exceptionnellement fécond. Trinity College conserve l’exemplaire personnel annoté de Newton : même une œuvre majeure restait ouverte aux corrections et aux développements. [Source: www.trin.cam.ac.uk](https://www.trin.cam.ac.uk/library/highlights/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Son importance tient aussi à ce qu’elle ne prétendait pas résoudre. Décrire mathématiquement la gravitation n’en identifiait pas automatiquement la cause physique ultime. Newton relia les phénomènes par des lois utilisables, contestables et perfectibles. La science gagna une méthode de prédiction précise laissant ouvertes des questions plus profondes. Cette combinaison de puissance et de retenue vaut davantage que le mythe d’une réponse définitive à tout."
+      },
+      {
+        "type": "heading",
+        "text": "Querelles, croyances et pouvoir institutionnel"
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton pouvait défendre son œuvre avec intensité. Les désaccords avec Robert Hooke sur l’optique et la gravitation, puis la controverse du calcul, montrent un monde scientifique traversé par la réputation et l’autorité. Président de la Royal Society à partir de 1703, il possédait influence et prestige. Son intervention dans le traitement institutionnel de la querelle avec Leibniz complique l’idée d’un arbitrage neutre de la priorité. [Source: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/tour/newtons-character)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ses intérêts inédits résistent aussi à une séparation moderne entre scientifique et non-scientifique. Il étudia beaucoup théologie, chronologie et alchimie. Il ne faut ni y projeter des découvertes modernes secrètes ni les effacer parce qu’elles semblent mal s’accorder avec les Principia. Elles appartenaient aux interrogations de son époque. Les manuscrits révèlent une recherche d’ordre dans des domaines que les générations suivantes séparèrent plus nettement. [Source: newtonproject.ox.ac.uk](https://newtonproject.ox.ac.uk/)"
+      },
+      {
+        "type": "heading",
+        "text": "Du laboratoire à la Monnaie royale"
+      },
+      {
+        "type": "paragraph",
+        "text": "Newton devint gardien de la Monnaie royale en 1696, puis maître en 1699. Il prit ses responsabilités au sérieux, participa aux travaux de refonte monétaire et enquêta sur la contrefaçon. Cette autorité pratique impliquait administration, preuves et pouvoir coercitif de l’État. Sa vieillesse ne se résume pas à une contemplation paisible du ciel. Il mourut en 1727, devenu l’une des figures intellectuelles les plus célèbres de Grande-Bretagne. [Source: www.royalmintmuseum.org.uk](https://www.royalmintmuseum.org.uk/journal/people/isaac-newton/)"
+      },
+      {
+        "type": "heading",
+        "text": "Les limites d’une théorie n’effacent pas son apport"
+      },
+      {
+        "type": "paragraph",
+        "text": "La mécanique newtonienne reste extrêmement utile aux vitesses ordinaires et pour de nombreux calculs techniques et astronomiques. Elle n’est pas la description finale de la nature. La relativité est nécessaire aux grandes vitesses et dans les champs gravitationnels intenses ; la théorie quantique dépasse aussi la mécanique classique. La gravitation comme géométrie de l’espace-temps ouvrit ensuite les questions explorées par Stephen Hawking et l’étude moderne de l’intérieur des trous noirs. [Stephen Hawking : trous noirs, temps et vie scientifique](/articles/stephen-hawking-black-holes-cosmology/) [Que se passe-t-il à l’intérieur d’un trou noir ?](/articles/what-happens-inside-black-hole/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’héritage de Newton n’est donc pas d’avoir tout expliqué. Ses équations rendirent intelligible une immense diversité de phénomènes dans une structure commune et vérifiable. De la pomme aux planètes persiste une ambition : expliquer davantage par des principes cohérents, distinguer preuves et récits séduisants, et reconnaître les limites des théories les plus efficaces."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Newton Project chronology",
+        "url": "https://newtonproject.ox.ac.uk/his-life-and-work-at-a-glance"
+      },
+      {
+        "label": "Newton Project manuscripts",
+        "url": "https://newtonproject.ox.ac.uk/texts/introduction"
+      },
+      {
+        "label": "Oxford scholarship on the calculus controversy",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/187993169.pdf"
+      },
+      {
+        "label": "NASA: laws of motion",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
+      },
+      {
+        "label": "NASA: planetary motion",
+        "url": "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+      },
+      {
+        "label": "Royal Society: the apple account",
+        "url": "https://royalsociety.org/news/2010/apple-tree-gravity/"
+      },
+      {
+        "label": "Royal Society: light and color",
+        "url": "https://royalsociety.org/blog/2021/11/colour-wheel/"
+      },
+      {
+        "label": "Royal Society: Newton’s optical manuscript",
+        "url": "https://makingscience.royalsociety.org/items/rbo_4_44/a-discourse-of-mr-isaac-newton-containing-his-new-theory-about-light-and-colours-sent-by-him-from-cambridge-february-6-1672"
+      },
+      {
+        "label": "Trinity College: Principia",
+        "url": "https://www.trin.cam.ac.uk/library/highlights/"
+      },
+      {
+        "label": "Newton Project: character and evidence",
+        "url": "https://newtonproject.ox.ac.uk/tour/newtons-character"
+      },
+      {
+        "label": "The Newton Project",
+        "url": "https://newtonproject.ox.ac.uk/"
+      },
+      {
+        "label": "Royal Mint Museum",
+        "url": "https://www.royalmintmuseum.org.uk/journal/people/isaac-newton/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/japan-enters-ai-care-era/",
     "path": "/ar/articles/japan-enters-ai-care-era/",
     "kind": "article",
@@ -325459,6 +326089,660 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/stephen-hawking-black-holes-cosmology/",
+    "path": "/ar/articles/stephen-hawking-black-holes-cosmology/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "ستيفن هوكينغ: الثقوب السوداء والزمن وحياة في العلم",
+    "seoTitle": "ستيفن هوكينغ: حياته والثقوب السوداء وإشعاع هوكينغ",
+    "description": "تعرف إلى حياة ستيفن هوكينغ والتصلب الجانبي الضموري ومبرهنات التفرد وإشعاع الثقوب السوداء وعلم الكون وتقنيات التواصل.",
+    "excerpt": "تعرف إلى حياة ستيفن هوكينغ والتصلب الجانبي الضموري ومبرهنات التفرد وإشعاع الثقوب السوداء وعلم الكون وتقنيات التواصل.",
+    "headlineHighlights": {
+      "red": "ستيفن هوكينغ",
+      "gold": "حياة في العلم"
+    },
+    "keywords": [
+      "ستيفن هوكينغ",
+      "Physics"
+    ],
+    "searchIntent": "تعرف إلى حياة ستيفن هوكينغ والتصلب الجانبي الضموري ومبرهنات التفرد وإشعاع الثقوب السوداء وعلم الكون وتقنيات التواصل.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/hawking-2026-hero.jpg",
+      "alt": "صورة تحريرية لستيفن هوكينغ قدمها المستخدم. لم يثبت بصورة مستقلة مصدرها أو تاريخها أو أصلها الفوتوغرافي."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "جعل ستيفن هوكينغ الثقوب السوداء أقل بساطة والكون أصعب تجاهلاً. بدت تلك الأجرام مصائد نهائية لا يعود منها شيء، لكن حساباته أشارت إلى أن الفيزياء الكمية تغير القصة: ينبغي أن تكون للثقب الأسود درجة حرارة وأن يصدر إشعاعاً. وتحول الحد الفاصل بين المعروف والمجهول إلى ملتقى للجاذبية والحرارة والمعلومات."
+      },
+      {
+        "type": "paragraph",
+        "text": "كانت حياته العامة لافتة أيضاً، لكنها لا ينبغي أن تحل محل علمه. أصبح الكرسي المتحرك والصوت الاصطناعي رمزين معروفين عالمياً. وخلفهما كان فيزيائي يعمل ويتعاون ويناقش ويراجع أفكاره، معتمداً على شبكة واسعة من الرعاية والدعم التقني. وفهم هوكينغ يقتضي النظر إلى الرياضيات وإلى الظروف الإنسانية التي أتاحت عمله معاً."
+      },
+      {
+        "type": "heading",
+        "text": "من أكسفورد إلى أسئلة البداية"
+      },
+      {
+        "type": "paragraph",
+        "text": "ولد ستيفن وليام هوكينغ في أكسفورد في 8 يناير 1942. درس العلوم الطبيعية في الكلية الجامعية بأكسفورد، ثم انتقل إلى كامبريدج عام 1962 لدراسة علم الكون بإشراف دينيس سياما. وربطه مشرفه بباحثين يتساءلون كيف تصف نظرية أينشتاين كوناً متطوراً. وأكمل الدكتوراه في كامبريدج عام 1966. [المصدر: www.cam.ac.uk](https://www.cam.ac.uk/stories/stephen-hawking)"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان علم الكون يتحول إلى تخصص تقيده المشاهدات بصورة متزايدة. تصف النسبية العامة الجاذبية من خلال هندسة الزمكان، لكن معادلاتها تسمح بأكوان رياضية عديدة. سأل هوكينغ إن كانت بعض السمات، ومنها تعطل الوصف الكلاسيكي في الماضي، تنتج من مبادئ عامة لا من افتراضات تناظر مريحة. وتحتفظ أوراقه المؤرشفة بآثار الجهد المتواصل وراء تلك الأسئلة. [المصدر: www.cam.ac.uk](https://www.cam.ac.uk/stories/hawking-archive)"
+      },
+      {
+        "type": "heading",
+        "text": "المرض والتكيف والأشخاص المحيطون به"
+      },
+      {
+        "type": "paragraph",
+        "text": "شخص هوكينغ بمرض العصبون الحركي في نحو الحادية والعشرين، ويشار إلى حالته عادة بالتصلب الجانبي الضموري. قيد المرض حركته تدريجياً ثم قدرته على الكلام. ولا ينبغي اعتبار بقائه الاستثنائي على قيد الحياة توقعاً نموذجياً للمرضى الآخرين. كذلك لا يثبت إنجازه أن المرض يولد العبقرية؛ يمكن تقدير المثابرة دون تصوير المعاناة كهدية. [المصدر: archivesearch.lib.cam.ac.uk](https://archivesearch.lib.cam.ac.uk/repositories/2/resources/14315)"
+      },
+      {
+        "type": "paragraph",
+        "text": "أسهمت الأسرة والمساعدون والممرضون والزملاء والمهندسون في استمرار عمله. وأدت جين وايلد، التي تزوجها عام 1965 وأنجب منها ثلاثة أطفال، دوراً كبيراً في حياته العائلية المبكرة ورعايته. كان التنقل والسفر والتواصل والحصول على المساعدة يتطلب وقتاً وموارد. أما صورة العقل المستقل عن الجسد فتحجب هذه الشروط المادية ومساهمات الآخرين. [المصدر: www.hawking.org.uk](https://www.hawking.org.uk/biography)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا أثبتت مبرهنات التفرد فعلاً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ساهم هوكينغ مع روجر بنروز في إثبات أن التفردات ليست مجرد عيوب في نماذج مفرطة التبسيط. حدد بحثهما المشترك عام 1970 ظروفاً يصبح فيها الزمكان الكلاسيكي غير مكتمل جيوديسياً: بعض مسارات السقوط الحر لا يمكن تمديدها بلا نهاية ضمن الوصف الرياضي. وتهم هنا الافتراضات المتعلقة بالجاذبية والبنية السببية والمناطق المحصورة. إنها مبرهنة مشروطة، وليست صورة للحظة الكون الأولى. [المصدر: doi.org](https://doi.org/10.1098/rspa.1970.0021)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يشير التفرد بهذا المعنى إلى عجز الوصف الكلاسيكي عن تقديم امتداد كامل، لا إلى تأكيد تجريبي لنقطة كثافتها لا نهائية حرفياً. وقد تعدل نظرية كمية للجاذبية هذا الوصف عند حدود النسبية. كان إنجاز هوكينغ إذاً تحديد الموضع الذي تتوقف فيه نظرية ناجحة عن أن تكون كافية، دون الادعاء بامتلاك تفسير نهائي لما يحل محلها."
+      },
+      {
+        "type": "heading",
+        "text": "الثقوب السوداء والمساحة والحرارة"
+      },
+      {
+        "type": "paragraph",
+        "text": "أثبت هوكينغ في النسبية العامة الكلاسيكية، وتحت شروط مناسبة، أن المساحة الإجمالية لآفاق الثقوب السوداء لا تتناقص. يشبه ذلك سلوك الإنتروبيا في الديناميكا الحرارية. وأخذ جاكوب بيكنشتاين التشابه بجدية واقترح أن للثقوب السوداء إنتروبيا مرتبطة بمساحة الأفق. تحدت الفكرة تصورها كأجرام باردة تمتص كل شيء دون خصائص داخلية ذات صلة بالحرارة. [المصدر: doi.org](https://doi.org/10.1103/PhysRevD.7.2333)"
+      },
+      {
+        "type": "paragraph",
+        "text": "منح حساب هوكينغ الكمي اللاحق هذه الصلة مضموناً فيزيائياً. لم تعد الحرارة والإنتروبيا والجاذبية فصولاً مستقلة. فالإنتروبيا الناتجة تتناسب مع المساحة بدلاً من الحجم المعتاد، وهي إشارة مهمة لبحوث الجاذبية الكمية. ولا يتناقض ازدياد المساحة الكلاسيكي مع التبخر الكمي تحت افتراضات متطابقة؛ فالثاني يضيف تأثيرات غائبة عن الأول."
+      },
+      {
+        "type": "heading",
+        "text": "إشعاع هوكينغ: تنبؤ لا وهج مرصود"
+      },
+      {
+        "type": "paragraph",
+        "text": "تنبأ هوكينغ عام 1974 بأن الحقول الكمية حول الثقب الأسود تنتج تدفقاً حرارياً يمكن رصده من بعيد. في الحالة البسيطة غير الدوارة تنخفض الحرارة مع ازدياد الكتلة. والثقب المعزول الذي يفقد طاقة أكثر مما يمتص يفقد كتلته تدريجياً. ولثقب بكتلة الشمس تبلغ الحرارة المتوقعة نحو ستين جزءاً من مليار كلفن، أي أقل كثيراً من حرارة الخلفية الكونية الميكروية الحالية. [المصدر: doi.org](https://doi.org/10.1038/248030a0)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تساعد الصورة الشائعة لأزواج جسيمات تظهر قرب الأفق على تذكر الفكرة، لكنها ليست اشتقاقاً كاملاً. يتعلق الحساب بالحقول الكمية في الزمكان المنحني، ولا يمثل الإشعاع رسالة تفلت من داخل محصور أصلاً. لم يرصد إشعاع هوكينغ مباشرة من ثقوب سوداء فلكية. أما التجارب التناظرية في المختبر فتدرس رياضيات متقاربة في نظم أخرى، ولا تعادل مشاهدة ثقب أسود حقيقي يتبخر. [المصدر: doi.org](https://doi.org/10.1007/BF02345020)"
+      },
+      {
+        "type": "heading",
+        "text": "مشكلة المعلومات التي لم تختف"
+      },
+      {
+        "type": "paragraph",
+        "text": "إذا سقطت أشياء مختلفة في ثقب أسود ثم اختفى في إشعاع يبدو حرارياً، فما مصير المعلومات الكمية التي ميزت تلك الأشياء؟ يحفظ التطور الكمي المعتاد المعلومات بمعناها التقني، حتى لو كانت استعادتها غير عملية. وضع تحليل هوكينغ هذا المبدأ في توتر مع الوصف شبه الكلاسيكي للثقوب السوداء. [المصدر: doi.org](https://doi.org/10.1103/PhysRevD.14.2460)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعني المعلومات هنا تحديد الحالة الفيزيائية وارتباطاتها، لا مكتبة ذكريات قابلة للقراءة. قدمت عقود من الأبحاث حججاً قوية لصالح حفظ المعلومات ضمن أطر نظرية معينة. لكنها لا تمنح الفلكيين وصفاً مثبتاً تجريبياً لداخل ثقب يتبخر. وتظل المفارقة مفيدة لأنها تكشف افتراضات تحتاج إلى تفسير إضافي."
+      },
+      {
+        "type": "heading",
+        "text": "كون بلا حد ابتدائي؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "اقترح هوكينغ وجيمس هارتل عام 1983 وصفاً كمياً للكون يعرف بمقترح اللاتحددية أو الكون بلا حدود. بدلاً من وضع حافة زمنية ابتدائية عادية، سعيا إلى بناء دالة موجية باستخدام هندسات منتظمة بالشكل المناسب. كانت محاولة لصياغة علم الكون كمياً، حيث قد لا يؤدي الزمن دور الساعة الخارجية المألوفة. [المصدر: doi.org](https://doi.org/10.1103/PhysRevD.28.2960)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يبقى ذلك مقترحاً لا رواية مرصودة لنشأة الكون. يعتمد تفسيره وتنبؤاته على اختيارات تقنية ما زالت موضوع بحث. ولا يحسم جميع أسئلة الوجود، كما لا تجعل شهرة صاحبه نموذجه صحيحاً وحده. تتضح جرأة هوكينغ العلمية أكثر حين نحافظ على الفاصل بين الاحتمال الرياضي والوصف المثبت."
+      },
+      {
+        "type": "heading",
+        "text": "صوت أتاحته الهندسة"
+      },
+      {
+        "type": "paragraph",
+        "text": "بعد مرض شديد عام 1985، أفقدت عملية فغر الرغامى هوكينغ صوته الطبيعي. مكنته نظم حاسوبية لاحقاً من اختيار النص ونطقه بواسطة مولد صوت. وتطورت الأجهزة مع تراجع حركته. كان الغرض منحه تحكماً عملياً في التواصل، لا قراءة أفكاره مباشرة. [المصدر: www.hawking.org.uk](https://www.hawking.org.uk/biography)"
+      },
+      {
+        "type": "paragraph",
+        "text": "جمع عمل إنتل اللاحق على مجموعة أدوات التواصل المساعدة المعروفة باسم ACAT بين واجهات ميسرة وأدوات لبناء النص ونقله. والدرس أوسع من سيرة فرد: تعتمد المشاركة الفكرية أيضاً على بيئات قابلة للاستخدام وتقنيات قابلة للتكيف. كان للصوت المعروف عالمياً دور يومي أساسي، هو تمكين صاحبه من الكتابة والإجابة والمحادثة. [المصدر: www.intel.com](https://www.intel.com/content/www/us/en/support/articles/000015001/programs.html)"
+      },
+      {
+        "type": "heading",
+        "text": "تاريخ موجز للزمن والكون أمام الجمهور"
+      },
+      {
+        "type": "paragraph",
+        "text": "صدر كتاب تاريخ موجز للزمن عام 1988، وجذب جمهوراً واسعاً إلى علم الكون والثقوب السوداء وطبيعة الزمن. لا يعني نجاحه أن كل قارئ أتقن النسبية، بل أن الأفكار الصعبة تستطيع إثارة فضول الجمهور. أصبح هوكينغ شخصية ثقافية وباحثاً معاً، دون أن تتحول الشعبية إلى برهان علمي. [المصدر: www.iop.org](https://www.iop.org/physics-community/obituaries/stephen-hawking)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يوضح الكتاب كذلك مخاطر الاختصار. يفتح التشبيه باباً للفهم، لكنه قد يخفي تحفظات تقنية. ليست الأدلة الرصدية على التوسع والنتائج الرياضية للنسبية ومقترحات علم الكون الكمي في المرتبة المعرفية نفسها. يمكن للسرد العلمي جمعها شرط إبقاء الفروق واضحة."
+      },
+      {
+        "type": "heading",
+        "text": "إرث جعل الأسئلة أكثر دقة"
+      },
+      {
+        "type": "paragraph",
+        "text": "شغل هوكينغ كرسي لوكاس للرياضيات في كامبريدج من 1979 إلى 2009، وتوفي في 14 مارس 2018. ينتمي تأثيره إلى تاريخ تعاوني يضم بنروز وسياما وبيكنشتاين وهارتل وجورج إليس وأجيالاً من الطلاب. استمر برنامجه البحثي لأنه وصل بين بداية الكون وانهيار النجوم وطبيعة المعلومات. [المصدر: doi.org](https://doi.org/10.1098/rsbm.2019.0001)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تروي الصلة بنيوتن تاريخ تحول الأسئلة، لا مسابقة بين عباقرة. وحد نيوتن الحركة السماوية والأرضية في نظام رياضي، وكشف هوكينغ حدوداً للجاذبية الكلاسيكية عندما تصبح التأثيرات الكمية مهمة. ويتابع مقالنا عن داخل الثقوب السوداء هذه الحدود المفتوحة. لم يجعل إرثه الكون مألوفاً، بل أظهر بوضوح نادر لماذا يظل غريباً. [إسحاق نيوتن: حياته والجاذبية وقوانين الحركة](/articles/isaac-newton-life-gravity-laws-motion/) [ماذا يحدث داخل الثقب الأسود؟](/articles/what-happens-inside-black-hole/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Cambridge’s account of his life",
+        "url": "https://www.cam.ac.uk/stories/stephen-hawking"
+      },
+      {
+        "label": "Cambridge’s scientific archive",
+        "url": "https://www.cam.ac.uk/stories/hawking-archive"
+      },
+      {
+        "label": "Cambridge archive biography",
+        "url": "https://archivesearch.lib.cam.ac.uk/repositories/2/resources/14315"
+      },
+      {
+        "label": "Hawking’s account of communication",
+        "url": "https://www.hawking.org.uk/biography"
+      },
+      {
+        "label": "Hawking and Penrose, 1970",
+        "url": "https://doi.org/10.1098/rspa.1970.0021"
+      },
+      {
+        "label": "Bekenstein’s 1973 paper",
+        "url": "https://doi.org/10.1103/PhysRevD.7.2333"
+      },
+      {
+        "label": "Hawking’s original Nature paper",
+        "url": "https://doi.org/10.1038/248030a0"
+      },
+      {
+        "label": "Hawking’s detailed calculation",
+        "url": "https://doi.org/10.1007/BF02345020"
+      },
+      {
+        "label": "Hawking on predictability, 1976",
+        "url": "https://doi.org/10.1103/PhysRevD.14.2460"
+      },
+      {
+        "label": "Hartle and Hawking’s original paper",
+        "url": "https://doi.org/10.1103/PhysRevD.28.2960"
+      },
+      {
+        "label": "Intel on ACAT",
+        "url": "https://www.intel.com/content/www/us/en/support/articles/000015001/programs.html"
+      },
+      {
+        "label": "Institute of Physics obituary",
+        "url": "https://www.iop.org/physics-community/obituaries/stephen-hawking"
+      },
+      {
+        "label": "Royal Society scientific memoir",
+        "url": "https://doi.org/10.1098/rsbm.2019.0001"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/stephen-hawking-black-holes-cosmology/",
+    "path": "/es/articles/stephen-hawking-black-holes-cosmology/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "Stephen Hawking: agujeros negros, tiempo y una vida científica",
+    "seoTitle": "Stephen Hawking: vida, agujeros negros y radiación",
+    "description": "Conoce la vida de Stephen Hawking, la ELA, singularidades, radiación de agujeros negros, cosmología y tecnología de comunicación.",
+    "excerpt": "Conoce la vida de Stephen Hawking, la ELA, singularidades, radiación de agujeros negros, cosmología y tecnología de comunicación.",
+    "headlineHighlights": {
+      "red": "Stephen Hawking",
+      "gold": "vida científica"
+    },
+    "keywords": [
+      "Stephen Hawking",
+      "Physics"
+    ],
+    "searchIntent": "Conoce la vida de Stephen Hawking, la ELA, singularidades, radiación de agujeros negros, cosmología y tecnología de comunicación.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/hawking-2026-hero.jpg",
+      "alt": "Retrato editorial de Stephen Hawking aportado por el usuario. Fuente, fecha y procedencia fotográfica no establecidas independientemente."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Stephen Hawking hizo que los agujeros negros fueran menos simples y que resultara más difícil ignorar el universo. Parecían trampas definitivas de las que nada podía regresar. Sus cálculos indicaron que la física cuántica cambia la historia: un agujero negro debería tener temperatura y emitir radiación. La frontera de lo conocible se convirtió en un encuentro entre gravedad, calor e información."
+      },
+      {
+        "type": "paragraph",
+        "text": "Su vida pública fue igualmente llamativa, pero no debe sustituir a su ciencia. La silla de ruedas y la voz sintetizada se volvieron símbolos universales. Detrás trabajaba un físico que colaboraba, discutía y revisaba ideas, apoyado por una extensa red de cuidados y tecnología. Comprenderlo exige atender tanto a las matemáticas como a las condiciones humanas que hicieron posible su carrera."
+      },
+      {
+        "type": "heading",
+        "text": "De Oxford a las preguntas sobre el comienzo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Stephen William Hawking nació en Oxford el 8 de enero de 1942. Estudió ciencias naturales en University College y pasó a Cambridge en 1962 para investigar cosmología bajo la dirección de Dennis Sciama. Su supervisor lo vinculó con investigadores que estudiaban cómo la teoría de Einstein describía un universo cambiante. Completó el doctorado en Cambridge en 1966. [Fuente: www.cam.ac.uk](https://www.cam.ac.uk/stories/stephen-hawking)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cosmología se convertía en una disciplina cada vez más limitada por la observación. La relatividad general explicaba la gravedad mediante la geometría del espacio-tiempo, pero admitía muchos universos matemáticos. Hawking preguntaba si ciertas características, incluida una ruptura de la descripción clásica en el pasado, surgían de principios generales y no de simetrías convenientes. Sus archivos conservan el trabajo paciente detrás de esas preguntas. [Fuente: www.cam.ac.uk](https://www.cam.ac.uk/stories/hawking-archive)"
+      },
+      {
+        "type": "heading",
+        "text": "La ELA, la adaptación y el entorno del físico"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hacia los 21 años recibió un diagnóstico de enfermedad de la neurona motora, descrita habitualmente en su caso como esclerosis lateral amiotrófica, o ELA. La enfermedad limitó progresivamente sus movimientos y después su habla. Su supervivencia excepcional no constituye un pronóstico típico para otras personas. Tampoco demuestra que la enfermedad produzca genialidad: reconocer la perseverancia no exige convertir el sufrimiento en un regalo. [Fuente: archivesearch.lib.cam.ac.uk](https://archivesearch.lib.cam.ac.uk/repositories/2/resources/14315)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Familiares, asistentes, personal sanitario, colegas e ingenieros hicieron posible su actividad. Jane Wilde, con quien se casó en 1965 y tuvo tres hijos, desempeñó un papel fundamental en sus primeros años familiares y en los cuidados. Moverse, viajar, comunicarse y conseguir ayuda exigían tiempo y recursos. La imagen de una mente independiente del cuerpo oculta esas condiciones y las aportaciones de otras personas. [Fuente: www.hawking.org.uk](https://www.hawking.org.uk/biography)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué establecieron los teoremas de singularidad"
+      },
+      {
+        "type": "paragraph",
+        "text": "Junto con Roger Penrose, Hawking mostró que las singularidades no eran simples defectos de modelos demasiado simétricos. Su artículo conjunto de 1970 estableció circunstancias en las que el espacio-tiempo clásico es geodésicamente incompleto: algunas trayectorias de caída libre no pueden prolongarse indefinidamente dentro de la descripción. Importan las hipótesis sobre gravedad, causalidad y regiones atrapadas. Un teorema condicionado no es una fotografía del primer instante. [Fuente: doi.org](https://doi.org/10.1098/rspa.1970.0021)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La singularidad señala aquí que la teoría clásica no proporciona una continuación completa. No confirma experimentalmente un punto de densidad literalmente infinita. Una teoría cuántica de la gravedad podría modificar esa descripción. Hawking contribuyó a localizar dónde una teoría extraordinariamente eficaz deja de bastar, sin presentar una explicación definitiva de lo que debe reemplazarla."
+      },
+      {
+        "type": "heading",
+        "text": "Agujeros negros, área y calor"
+      },
+      {
+        "type": "paragraph",
+        "text": "En relatividad general clásica y bajo ciertas condiciones, Hawking demostró que el área total de los horizontes no puede disminuir. Se parece al comportamiento de la entropía en termodinámica. Jacob Bekenstein tomó en serio esa semejanza y propuso una entropía de los agujeros negros relacionada con el área del horizonte. La idea cuestionaba su imagen como absorbentes fríos y sin estructura. [Fuente: doi.org](https://doi.org/10.1103/PhysRevD.7.2333)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cálculo cuántico posterior de Hawking dio contenido físico a la conexión. Temperatura, entropía y gravedad dejaron de ser capítulos independientes. La entropía resultante es proporcional al área, no al volumen ordinario, una pista decisiva para la gravedad cuántica. El crecimiento clásico del área y la evaporación cuántica no son afirmaciones incompatibles bajo idénticas hipótesis: la segunda incorpora efectos ausentes en la primera."
+      },
+      {
+        "type": "heading",
+        "text": "Radiación de Hawking: una predicción"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1974 Hawking predijo que los campos cuánticos alrededor de un agujero negro producen un flujo térmico observable a gran distancia. En el caso sencillo sin rotación, la temperatura disminuye al aumentar la masa. Un agujero aislado que pierda más energía de la que absorbe perdería masa gradualmente. Para una masa solar, la temperatura calculada es de apenas sesenta milmillonésimas de kelvin, muy inferior al fondo cósmico de microondas actual. [Fuente: doi.org](https://doi.org/10.1038/248030a0)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La imagen popular de pares de partículas que aparecen junto al horizonte puede servir como recordatorio, pero no es una derivación completa. El cálculo trata campos cuánticos en espacio-tiempo curvo. La radiación no es un mensaje que sale de un interior ya atrapado. No se ha detectado directamente en agujeros negros astrofísicos. Los experimentos análogos de laboratorio estudian matemáticas relacionadas en otros sistemas, sin observar la evaporación de un agujero negro real. [Fuente: doi.org](https://doi.org/10.1007/BF02345020)"
+      },
+      {
+        "type": "heading",
+        "text": "El problema de la información"
+      },
+      {
+        "type": "paragraph",
+        "text": "Si objetos distintos caen en un agujero negro que termina desapareciendo en radiación aparentemente térmica, ¿qué sucede con la información cuántica que los distinguía? La evolución cuántica habitual conserva la información en sentido técnico, aunque recuperarla resulte impracticable. El análisis de Hawking puso esa expectativa en tensión con la descripción semiclásica de los agujeros negros. [Fuente: doi.org](https://doi.org/10.1103/PhysRevD.14.2460)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Información significa aquí la especificación y las correlaciones de un estado físico, no una biblioteca de recuerdos legibles. Décadas de investigación han proporcionado argumentos sólidos a favor de su conservación en determinados marcos teóricos. No equivalen a una descripción experimentalmente establecida del interior de un agujero que se evapora. La paradoja sigue siendo fértil porque revela supuestos que requieren una explicación adicional."
+      },
+      {
+        "type": "heading",
+        "text": "¿Un universo sin frontera inicial?"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1983 Hawking y James Hartle propusieron una descripción cuántica del universo conocida como propuesta sin frontera. En lugar de fijar un borde temporal inicial ordinario, buscaban una función de onda construida con geometrías adecuadamente regulares. Intentaban formular la cosmología cuánticamente, donde el tiempo quizá no pueda funcionar como un reloj externo familiar. [Fuente: doi.org](https://doi.org/10.1103/PhysRevD.28.2960)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sigue siendo una propuesta, no una narración observada de la creación. Su interpretación y sus predicciones dependen de decisiones técnicas sometidas a investigación. No resuelve todas las preguntas sobre la existencia, ni la celebridad de su autor la convierte en la única explicación correcta. La audacia científica de Hawking se aprecia mejor manteniendo la distinción entre posibilidad matemática y descripción establecida."
+      },
+      {
+        "type": "heading",
+        "text": "Una voz construida mediante ingeniería"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tras una enfermedad grave en 1985, una traqueotomía dejó a Hawking sin su voz natural. Los sistemas informáticos le permitieron seleccionar texto y reproducirlo mediante un sintetizador. Los dispositivos evolucionaron al reducirse su movilidad. Le daban control práctico sobre la comunicación, sin leer directamente sus pensamientos. [Fuente: www.hawking.org.uk](https://www.hawking.org.uk/biography)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El trabajo posterior de Intel en Assistive Context-Aware Toolkit, o ACAT, combinó interfaces accesibles con herramientas para construir y comunicar texto. La enseñanza supera una biografía: la participación intelectual depende también de entornos utilizables y tecnología adaptable. La voz conocida mundialmente tenía una función cotidiana esencial: permitir escribir, responder y conversar. [Fuente: www.intel.com](https://www.intel.com/content/www/us/en/support/articles/000015001/programs.html)"
+      },
+      {
+        "type": "heading",
+        "text": "Breve historia del tiempo y el público"
+      },
+      {
+        "type": "paragraph",
+        "text": "Publicado en 1988, Breve historia del tiempo acercó cosmología, agujeros negros y naturaleza del tiempo a muchísimos lectores. Su éxito no significa que todos dominaran la relatividad. Demostró que las ideas difíciles podían despertar curiosidad pública. Hawking se convirtió en una figura cultural además de investigador, sin que popularidad y prueba científica sean equivalentes. [Fuente: www.iop.org](https://www.iop.org/physics-community/obituaries/stephen-hawking)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El libro también ilustra los riesgos de simplificar. Una analogía abre una puerta, pero puede ocultar reservas técnicas. Las pruebas observacionales de la expansión, los resultados matemáticos de la relatividad y las propuestas de cosmología cuántica no tienen el mismo respaldo. Una narración puede reunirlos siempre que conserve esas diferencias."
+      },
+      {
+        "type": "heading",
+        "text": "Un legado de preguntas más precisas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hawking ocupó la cátedra lucasiana de Cambridge entre 1979 y 2009 y murió el 14 de marzo de 2018. Su influencia pertenece a una historia colectiva que incluye a Penrose, Sciama, Bekenstein, Hartle, George Ellis y generaciones de estudiantes. Su programa de investigación perdura porque conectó el comienzo del universo, el colapso estelar y la naturaleza de la información. [Fuente: doi.org](https://doi.org/10.1098/rsbm.2019.0001)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La relación con Newton cuenta una transformación de preguntas, no una competición entre genios. Newton integró el movimiento celeste y terrestre en un sistema matemático. Hawking reveló límites de la gravedad clásica cuando intervienen efectos cuánticos. Nuestro artículo sobre el interior de los agujeros negros sigue esa frontera abierta. Su legado no volvió familiar al universo: mostró con singular claridad por qué continúa siendo extraño. [Isaac Newton: vida, gravedad y leyes del movimiento](/articles/isaac-newton-life-gravity-laws-motion/) [¿Qué ocurre dentro de un agujero negro?](/articles/what-happens-inside-black-hole/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Cambridge’s account of his life",
+        "url": "https://www.cam.ac.uk/stories/stephen-hawking"
+      },
+      {
+        "label": "Cambridge’s scientific archive",
+        "url": "https://www.cam.ac.uk/stories/hawking-archive"
+      },
+      {
+        "label": "Cambridge archive biography",
+        "url": "https://archivesearch.lib.cam.ac.uk/repositories/2/resources/14315"
+      },
+      {
+        "label": "Hawking’s account of communication",
+        "url": "https://www.hawking.org.uk/biography"
+      },
+      {
+        "label": "Hawking and Penrose, 1970",
+        "url": "https://doi.org/10.1098/rspa.1970.0021"
+      },
+      {
+        "label": "Bekenstein’s 1973 paper",
+        "url": "https://doi.org/10.1103/PhysRevD.7.2333"
+      },
+      {
+        "label": "Hawking’s original Nature paper",
+        "url": "https://doi.org/10.1038/248030a0"
+      },
+      {
+        "label": "Hawking’s detailed calculation",
+        "url": "https://doi.org/10.1007/BF02345020"
+      },
+      {
+        "label": "Hawking on predictability, 1976",
+        "url": "https://doi.org/10.1103/PhysRevD.14.2460"
+      },
+      {
+        "label": "Hartle and Hawking’s original paper",
+        "url": "https://doi.org/10.1103/PhysRevD.28.2960"
+      },
+      {
+        "label": "Intel on ACAT",
+        "url": "https://www.intel.com/content/www/us/en/support/articles/000015001/programs.html"
+      },
+      {
+        "label": "Institute of Physics obituary",
+        "url": "https://www.iop.org/physics-community/obituaries/stephen-hawking"
+      },
+      {
+        "label": "Royal Society scientific memoir",
+        "url": "https://doi.org/10.1098/rsbm.2019.0001"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/stephen-hawking-black-holes-cosmology/",
+    "path": "/fr/articles/stephen-hawking-black-holes-cosmology/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "Stephen Hawking : trous noirs, temps et vie scientifique",
+    "seoTitle": "Stephen Hawking : vie, trous noirs et rayonnement",
+    "description": "Découvrez la vie de Stephen Hawking, la SLA, les singularités, le rayonnement des trous noirs, la cosmologie et ses technologies de communication.",
+    "excerpt": "Découvrez la vie de Stephen Hawking, la SLA, les singularités, le rayonnement des trous noirs, la cosmologie et ses technologies de communication.",
+    "headlineHighlights": {
+      "red": "Stephen Hawking",
+      "gold": "vie scientifique"
+    },
+    "keywords": [
+      "Stephen Hawking",
+      "Physics"
+    ],
+    "searchIntent": "Découvrez la vie de Stephen Hawking, la SLA, les singularités, le rayonnement des trous noirs, la cosmologie et ses technologies de communication.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/hawking-2026-hero.jpg",
+      "alt": "Portrait éditorial de Stephen Hawking fourni par l’utilisateur. Source, date et provenance photographique non établies indépendamment."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Stephen Hawking a rendu les trous noirs moins simples et l’Univers plus difficile à ignorer. Ces objets semblaient être des pièges définitifs dont rien ne pouvait revenir. Ses calculs ont montré que la physique quantique changeait la question : un trou noir devrait avoir une température et émettre un rayonnement. La frontière du connaissable devenait un lieu de rencontre entre gravitation, chaleur et information."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sa vie publique était tout aussi frappante, mais elle ne doit pas remplacer sa science. Le fauteuil roulant et la voix synthétique sont devenus des symboles universels. Derrière eux travaillait un physicien qui collaborait, discutait et révisait ses idées, avec un vaste réseau de soins et de soutien technique. Comprendre Hawking exige de regarder les mathématiques autant que les conditions humaines qui ont rendu son travail possible."
+      },
+      {
+        "type": "heading",
+        "text": "D’Oxford aux questions sur le commencement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Stephen William Hawking naît à Oxford le 8 janvier 1942. Après des études de sciences naturelles à University College, il rejoint Cambridge en 1962 pour étudier la cosmologie sous la direction de Dennis Sciama. Ce dernier le rapproche de chercheurs qui explorent la description d’un univers en évolution par la théorie d’Einstein. Hawking obtient son doctorat à Cambridge en 1966. [Source: www.cam.ac.uk](https://www.cam.ac.uk/stories/stephen-hawking)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cosmologie devient alors une discipline de plus en plus contrainte par l’observation. La relativité générale décrit la gravitation par la géométrie de l’espace-temps, mais autorise de nombreux univers mathématiques. Hawking cherche à savoir si certaines caractéristiques, notamment une limite de la description classique dans le passé, découlent de principes généraux plutôt que de symétries commodes. Ses archives conservent les traces de ce travail patient. [Source: www.cam.ac.uk](https://www.cam.ac.uk/stories/hawking-archive)"
+      },
+      {
+        "type": "heading",
+        "text": "La SLA, l’adaptation et l’entourage du physicien"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vers 21 ans, Hawking reçoit un diagnostic de maladie du motoneurone, généralement désignée dans son cas comme une sclérose latérale amyotrophique, ou SLA. Elle restreint progressivement ses mouvements puis sa parole. Sa longévité exceptionnelle ne constitue pas un pronostic typique pour les autres malades. Son œuvre ne prouve pas non plus que la maladie crée le génie : reconnaître sa persévérance n’oblige pas à présenter la souffrance comme un cadeau. [Source: archivesearch.lib.cam.ac.uk](https://archivesearch.lib.cam.ac.uk/repositories/2/resources/14315)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Famille, auxiliaires, personnel soignant, collègues et ingénieurs rendent son activité possible. Jane Wilde, qu’il épouse en 1965 et avec qui il a trois enfants, joue un rôle majeur dans ses premières années familiales et dans les soins. Se déplacer, voyager, communiquer et obtenir de l’assistance demandent du temps et des moyens. L’image d’un esprit indépendant du corps efface ces réalités et le travail des autres. [Source: www.hawking.org.uk](https://www.hawking.org.uk/biography)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que démontrent réellement les théorèmes de singularité"
+      },
+      {
+        "type": "paragraph",
+        "text": "Avec Roger Penrose, Hawking contribue à établir que les singularités ne sont pas de simples défauts de modèles trop symétriques. Leur article commun de 1970 définit des circonstances dans lesquelles l’espace-temps classique est géodésiquement incomplet : certaines trajectoires de chute libre ne peuvent pas être prolongées indéfiniment dans cette description. Les hypothèses sur la gravitation, la causalité et les régions piégées sont essentielles. Un théorème conditionnel n’est pas une photographie du premier instant. [Source: doi.org](https://doi.org/10.1098/rspa.1970.0021)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une singularité indique ici l’incapacité de la théorie classique à fournir un prolongement complet. Elle n’est pas la confirmation expérimentale d’un point de densité réellement infinie. Une théorie quantique de la gravitation pourrait modifier cette description. L’apport de Hawking consiste donc aussi à montrer où une théorie efficace cesse de suffire, sans prétendre disposer d’une explication définitive de ce qui la remplace."
+      },
+      {
+        "type": "heading",
+        "text": "Trous noirs, aire et chaleur"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans le cadre classique et sous certaines conditions, Hawking démontre que l’aire totale des horizons des trous noirs ne peut pas diminuer. Cette propriété ressemble à la croissance de l’entropie en thermodynamique. Jacob Bekenstein prend cette analogie au sérieux et propose une entropie des trous noirs liée à l’aire de leur horizon. L’idée remet en cause leur représentation comme de simples absorbeurs froids et sans structure. [Source: doi.org](https://doi.org/10.1103/PhysRevD.7.2333)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le calcul quantique ultérieur de Hawking donne une portée physique à ce rapprochement. Température, entropie et gravitation ne sont plus des domaines indépendants. L’entropie obtenue est proportionnelle à une aire, plutôt qu’à un volume ordinaire, un indice majeur pour la gravitation quantique. La croissance classique de l’aire et l’évaporation quantique ne se contredisent pas sous des hypothèses identiques : la seconde ajoute précisément des effets absents de la première."
+      },
+      {
+        "type": "heading",
+        "text": "Le rayonnement de Hawking : une prédiction"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 1974, Hawking prédit que les champs quantiques autour d’un trou noir produisent un flux thermique observable à grande distance. Dans le cas simple sans rotation, la température diminue lorsque la masse augmente. Un trou noir isolé qui perd plus d’énergie qu’il n’en absorbe perdrait progressivement de la masse. Pour une masse solaire, la température calculée n’est que d’environ soixante milliardièmes de kelvin, bien inférieure au fond diffus cosmologique actuel. [Source: doi.org](https://doi.org/10.1038/248030a0)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’image populaire de paires de particules apparaissant près de l’horizon peut aider à retenir l’idée, mais ne constitue pas la démonstration. Celle-ci concerne les champs quantiques dans l’espace-temps courbe. Le rayonnement n’est pas un message qui s’échappe d’un intérieur déjà piégé. Il n’a pas été détecté directement autour de trous noirs astrophysiques. Les expériences analogues en laboratoire étudient des mathématiques apparentées dans d’autres systèmes, sans observer l’évaporation d’un véritable trou noir. [Source: doi.org](https://doi.org/10.1007/BF02345020)"
+      },
+      {
+        "type": "heading",
+        "text": "Le problème de l’information"
+      },
+      {
+        "type": "paragraph",
+        "text": "Si des objets différents tombent dans un trou noir qui disparaît ensuite en rayonnement apparemment thermique, que devient l’information quantique qui les distinguait ? L’évolution quantique habituelle conserve l’information au sens technique, même lorsque sa récupération serait impraticable. L’analyse de Hawking met cette exigence en tension avec la description semi-classique des trous noirs. [Source: doi.org](https://doi.org/10.1103/PhysRevD.14.2460)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il s’agit de la spécification d’un état physique et de ses corrélations, pas d’une bibliothèque de souvenirs lisibles. Des décennies de recherche ont fourni de puissants arguments en faveur de la conservation de l’information dans certains cadres théoriques. Cela ne donne pas aux astronomes une description expérimentalement établie de l’intérieur d’un trou noir en évaporation. Le paradoxe reste fécond parce qu’il révèle des hypothèses qui nécessitent une explication supplémentaire."
+      },
+      {
+        "type": "heading",
+        "text": "Un univers sans frontière initiale ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Avec James Hartle, Hawking propose en 1983 une description quantique de l’Univers aujourd’hui appelée proposition sans bord. Au lieu de fixer une frontière initiale ordinaire dans le temps, les deux chercheurs construisent une fonction d’onde à partir de géométries suffisamment régulières. Ils tentent de formuler une cosmologie quantique dans laquelle le temps ne joue pas nécessairement le rôle d’une horloge extérieure familière. [Source: doi.org](https://doi.org/10.1103/PhysRevD.28.2960)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette construction demeure une proposition, pas un récit observé de la création. Son interprétation et ses prédictions dépendent de choix techniques encore discutés. Elle ne résout pas toutes les questions sur l’existence et la célébrité de son auteur ne la rend pas exclusivement correcte. L’audace scientifique de Hawking apparaît mieux lorsque l’on conserve la distinction entre possibilité mathématique et description établie."
+      },
+      {
+        "type": "heading",
+        "text": "Une voix rendue possible par l’ingénierie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Après une grave maladie en 1985, une trachéotomie prive Hawking de sa voix naturelle. Des systèmes informatiques lui permettent ensuite de sélectionner du texte et de le faire prononcer par un synthétiseur. Les dispositifs évoluent avec la réduction de sa mobilité. Ils lui donnent une maîtrise pratique de la communication, sans lire directement ses pensées. [Source: www.hawking.org.uk](https://www.hawking.org.uk/biography)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le travail ultérieur d’Intel sur l’Assistive Context-Aware Toolkit, ou ACAT, associe interfaces accessibles et outils de construction du texte. La leçon dépasse une biographie : la participation intellectuelle dépend aussi d’environnements utilisables et de technologies adaptables. Cette voix connue dans le monde entier avait d’abord une fonction concrète : écrire, répondre et prendre part aux conversations. [Source: www.intel.com](https://www.intel.com/content/www/us/en/support/articles/000015001/programs.html)"
+      },
+      {
+        "type": "heading",
+        "text": "Une brève histoire du temps et le public"
+      },
+      {
+        "type": "paragraph",
+        "text": "Publié en 1988, Une brève histoire du temps fait découvrir cosmologie, trous noirs et nature du temps à un immense lectorat. Son succès ne signifie pas que chacun maîtrise la relativité. Il montre que des idées difficiles peuvent nourrir la curiosité publique. Hawking devient une figure culturelle autant qu’un chercheur, sans que cette popularité constitue une preuve scientifique. [Source: www.iop.org](https://www.iop.org/physics-community/obituaries/stephen-hawking)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le livre illustre aussi les limites de la simplification. Une analogie ouvre une porte tout en pouvant masquer des réserves techniques. Les preuves observationnelles de l’expansion, les résultats mathématiques de la relativité et les propositions de cosmologie quantique n’ont pas le même statut. Un récit scientifique peut les réunir, mais doit préserver ces différences."
+      },
+      {
+        "type": "heading",
+        "text": "Des questions devenues plus précises"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hawking occupe la chaire lucasienne de Cambridge de 1979 à 2009 et meurt le 14 mars 2018. Son influence appartient à une histoire collective où figurent Penrose, Sciama, Bekenstein, Hartle, George Ellis et de nombreux étudiants. Le programme de recherche lui survit parce qu’il relie le commencement de l’Univers, l’effondrement des étoiles et la nature de l’information. [Source: doi.org](https://doi.org/10.1098/rsbm.2019.0001)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le rapprochement avec Newton raconte une transformation des questions plutôt qu’une compétition entre génies. Newton unifie les mouvements célestes et terrestres dans un système mathématique. Hawking révèle certaines limites de la gravitation classique face aux effets quantiques. Notre article consacré à l’intérieur des trous noirs explore cette frontière inachevée. Son héritage ne rend pas l’Univers banal : il explique avec une rare netteté pourquoi celui-ci reste étrange. [Isaac Newton : sa vie, la gravitation et les lois du mouvement](/articles/isaac-newton-life-gravity-laws-motion/) [Que se passe-t-il à l’intérieur d’un trou noir ?](/articles/what-happens-inside-black-hole/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Cambridge’s account of his life",
+        "url": "https://www.cam.ac.uk/stories/stephen-hawking"
+      },
+      {
+        "label": "Cambridge’s scientific archive",
+        "url": "https://www.cam.ac.uk/stories/hawking-archive"
+      },
+      {
+        "label": "Cambridge archive biography",
+        "url": "https://archivesearch.lib.cam.ac.uk/repositories/2/resources/14315"
+      },
+      {
+        "label": "Hawking’s account of communication",
+        "url": "https://www.hawking.org.uk/biography"
+      },
+      {
+        "label": "Hawking and Penrose, 1970",
+        "url": "https://doi.org/10.1098/rspa.1970.0021"
+      },
+      {
+        "label": "Bekenstein’s 1973 paper",
+        "url": "https://doi.org/10.1103/PhysRevD.7.2333"
+      },
+      {
+        "label": "Hawking’s original Nature paper",
+        "url": "https://doi.org/10.1038/248030a0"
+      },
+      {
+        "label": "Hawking’s detailed calculation",
+        "url": "https://doi.org/10.1007/BF02345020"
+      },
+      {
+        "label": "Hawking on predictability, 1976",
+        "url": "https://doi.org/10.1103/PhysRevD.14.2460"
+      },
+      {
+        "label": "Hartle and Hawking’s original paper",
+        "url": "https://doi.org/10.1103/PhysRevD.28.2960"
+      },
+      {
+        "label": "Intel on ACAT",
+        "url": "https://www.intel.com/content/www/us/en/support/articles/000015001/programs.html"
+      },
+      {
+        "label": "Institute of Physics obituary",
+        "url": "https://www.iop.org/physics-community/obituaries/stephen-hawking"
+      },
+      {
+        "label": "Royal Society scientific memoir",
+        "url": "https://doi.org/10.1098/rsbm.2019.0001"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/sumerians-first-cities-cuneiform-civilization/",
     "path": "/ar/articles/sumerians-first-cities-cuneiform-civilization/",
     "kind": "article",
@@ -345461,6 +346745,648 @@
       "gold": "Nous sommes tous marocains"
     },
     "readingTimeMinutes": 7
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/what-happens-inside-black-hole/",
+    "path": "/ar/articles/what-happens-inside-black-hole/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "ماذا يحدث داخل الثقب الأسود؟",
+    "seoTitle": "داخل الثقب الأسود: أفق الحدث والزمكان والأسئلة المفتوحة",
+    "description": "استكشف تشكل الثقوب السوداء وأفق الحدث وقوى المد والتفرد وإشعاع هوكينغ ومفارقة المعلومات، وما لا يزال العلم يجهله.",
+    "excerpt": "استكشف تشكل الثقوب السوداء وأفق الحدث وقوى المد والتفرد وإشعاع هوكينغ ومفارقة المعلومات، وما لا يزال العلم يجهله.",
+    "headlineHighlights": {
+      "red": "الثقب الأسود",
+      "gold": "داخل"
+    },
+    "keywords": [
+      "الثقب الأسود",
+      "Physics"
+    ],
+    "searchIntent": "استكشف تشكل الثقوب السوداء وأفق الحدث وقوى المد والتفرد وإشعاع هوكينغ ومفارقة المعلومات، وما لا يزال العلم يجهله.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/blackhole-2026-hero.jpg",
+      "alt": "رسم مقدم لقرص مضيء تشوهه العدسات الجاذبية، وليس رصداً لداخل الثقب أو مخططاً بمقياس حقيقي."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "الثقب الأسود ليس ثقباً في خلفية مرصعة بالنجوم، بل منطقة من الزمكان لا تستطيع إشاراتها الوصول إلى الكون الخارجي البعيد. حدها، المسمى أفق الحدث، مفهوم دقيق في الفيزياء الحديثة. أما مصير المادة في الأعماق فأقل يقيناً بكثير. تتنبأ النسبية العامة بتعطل حتمي للوصف في أبسط نموذج كلاسيكي، لكن لا توجد مشاهدة تكشف النهاية التي تبلغها المادة الساقطة."
+      },
+      {
+        "type": "paragraph",
+        "text": "يجعل هذا التمييز السؤال أكثر إثارة. تقدم مدارات النجوم وإشعاعات الغاز القريب والموجات الثقالية والصور بمقياس الأفق أدلة قوية على الثقوب السوداء الفلكية. لكننا لا نملك تقريراً مصوراً من الداخل. لذلك تمر الرحلة الافتراضية إلى العمق عبر طبقات معرفية: الرصد أولاً، ثم النظرية المختبرة، وأخيراً أسئلة تحتاج إلى فيزياء لا نملكها بعد."
+      },
+      {
+        "type": "heading",
+        "text": "كيف تصنع الطبيعة ثقباً أسود؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يبدأ أحد المسارات المعروفة عندما يعجز نجم ضخم عن دعم قلبه في مواجهة الجاذبية. قد يترك الانهيار نجماً نيوترونياً أو ينتج ثقباً أسود، بحسب خصائص القلب وتاريخ النجم. لا يتحول كل نجم ميت إلى ثقب أسود، ولا تملك الشمس كتلة كافية لسلوك هذا المسار. وتنمو الثقوب أيضاً بتراكم المادة والاندماج، دون أن تكون مكانس كونية تسحب كل شيء مهما ابتعد. [المصدر: science.nasa.gov](https://science.nasa.gov/universe/black-holes/types/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "توجد ثقوب فائقة الكتلة في مراكز مجرات عديدة، لكن نشأة بذورها الأولى ونموها ما زالا موضوع بحث. تشمل الاحتمالات انهيار سحب غاز ضخمة والنمو من بقايا نجمية. أما الثقوب البدائية المقترح تشكلها في الكون المبكر فتبقى فرضية لا مجموعة مثبتة رصدياً. يصف المصطلح نوعاً من المناطق الفيزيائية، لا آلية ولادة وحيدة معروفة."
+      },
+      {
+        "type": "heading",
+        "text": "أفق الحدث حد سببي"
+      },
+      {
+        "type": "paragraph",
+        "text": "الأفق ليس سطحاً صلباً. في الوصف الكلاسيكي يفصل الأحداث القادرة على إرسال الضوء إلى مراقبين بعيدين عن الأحداث التي فقدت هذه القدرة. داخل ثقب بسيط غير دوار، تقود جميع المسارات المستقبلية المتاحة للضوء والمادة إلى نصف قطر أصغر. لا تتعلق استحالة الهرب بمجرد ضعف المحرك، بل بعدم وجود طريق إلى الخارج ضمن حد سرعة الضوء."
+      },
+      {
+        "type": "paragraph",
+        "text": "للثقب المثالي غير الدوار وغير المشحون، يساوي نصف قطر الأفق 2GM/c²، حيث G ثابت الجاذبية وM الكتلة وc سرعة الضوء. تقابل كتلة الشمس نصف قطر يقارب ثلاثة كيلومترات. هذه علاقة مقياس، وليست ادعاء بأن ثقبا بهذه الكتلة يتشكل بالضرورة من انهيار نجمي معتاد. يغير الدوران الهندسة، ولذلك ليست الصيغة نصف قطر عاماً لكل الثقوب. [المصدر: www.nasa.gov](https://www.nasa.gov/wp-content/uploads/2013/05/black_hole_math.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا قد تكون البيئة المحيطة شديدة السطوع؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للغاز الساقط نحو الثقب أن يشكل قرص تراكم ساخناً خارج الأفق. تطلق العمليات التبددية والمغناطيسية الطاقة في التدفق. وتحني الجاذبية مسارات الضوء فتشوه صورة القرص. تمثل الأقواس المضيئة في الرسوم هذه المادة وتأثير العدسات، لا ألسنة نار مرئية داخل تجويف. [المصدر: science.nasa.gov](https://science.nasa.gov/universe/black-holes/anatomy/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تطلق بعض النظم كذلك نفاثات قوية من محيطها. وهي ليست مادة تعود بعد عبور أفق الحدث. وبالمقابل، لا يلزم أن يظهر ثقب يفتقر إلى الغاز القريب قرصاً لامعاً. الحلقة المضيئة الشائعة صورة لبيئة بشروط معينة، لا مظهر إلزامي لكل ثقب. وصورة افتتاح المقال توضيح لهذه البيئة، وليست صورة فوتوغرافية للداخل."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يختبر المراقب الساقط؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "لنتخيل مراقباً يسقط بحرية نحو ثقب كبير وهادئ بما يكفي. في النسبية الكلاسيكية لا يفرض عبور الأفق اصطداماً محلياً بجدار. تستمر ساعته في العمل طبيعياً، ويعبر بعد زمن ذاتي محدود. إنها تجربة فكرية لا خطة سفر: قد يجعل الغاز والإشعاع ومخاطر أخرى البيئة الحقيقية قاتلة قبل بلوغ الأفق."
+      },
+      {
+        "type": "paragraph",
+        "text": "تستكشف تصورات ناسا النسبية هذه الرحلات بحساب مسارات الضوء وحركة الكاميرا. إنها توضح نموذجاً مختاراً، لا ترصد نزولاً فعلياً. وقد تكون قوى المد عند أفق ثقب كبير نسبياً معتدلة. لكن ذلك لا يوفر تذكرة عودة: قد تبدو الظروف المحلية عادية فيما تتغير القدرة العامة على التواصل مع الخارج بصورة لا رجعة فيها. [المصدر: science.nasa.gov](https://science.nasa.gov/universe/black-holes/supermassive-black-holes/new-nasa-black-hole-visualization-takes-viewers-beyond-the-brink/)"
+      },
+      {
+        "type": "heading",
+        "text": "تمدد الزمن لا يوقف ساعة المسافر"
+      },
+      {
+        "type": "paragraph",
+        "text": "لنقارن المراقب الساقط بشخص بعيد يتلقى إشاراته الضوئية. في النموذج المثالي تصل الإشارات الصادرة قرب الأفق بتأخير متزايد وانزياح نحو الأحمر. لا يرى المراقب الخارجي شخصاً مضيئاً متجمداً إلى الأبد على الحد؛ تضعف الإشارة وتخرج من النطاقات القابلة للكشف. أما ساعة الساقط فلم تتوقف."
+      },
+      {
+        "type": "paragraph",
+        "text": "تميز النسبية الزمن المقاس على طول المسار عن الإحداثيات المستخدمة لوصف الأحداث. يخلق الخلط بينهما انطباعاً بأن المسافر يعبر الأفق ولا يعبره أبداً. يصبح إحداثي زمن شفارتزشيلد الخارجي غير ملائم عند الحد، وهذا ليس دليلاً على جدار مادي. كما لا يمنح السقوط تلقائياً رؤية كامل المستقبل اللانهائي للكون. [المصدر: www.as.utexas.edu](https://www.as.utexas.edu/astronomy/education/fall13/wheeler/secure/rev.ex4.fall.13.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "الاستطالة الخيطية تنتج من الفروق"
+      },
+      {
+        "type": "paragraph",
+        "text": "ينشأ التمدد الخطير من قوى المد: تختلف الجاذبية بين أجزاء الجسم المتجاورة. لا تتبع القدمان الأقرب إلى الثقب والرأس الأبعد الميل نفسه تماماً. في إطار سقوط مناسب يتمدد الجسم في اتجاه وينضغط في اتجاهات أخرى. يعمل المبدأ العام نفسه في المد المعتاد، لكن التدرجات قرب جرم مدمج قد تصبح مدمرة. [المصدر: science.nasa.gov](https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "للكتلة دور غير بديهي. يمكن أن يكون تدرج المد عند أفق ثقب أكبر أضعف منه عند أفق ثقب أصغر. لذا قد يمزق ثقب نجمي الكتلة جسماً قبل العبور، بينما يسمح ثقب فائق الكتلة كبير بما يكفي بعبور ألطف يتبعه التدمير في العمق. لا توجد نقطة استطالة عامة مستقلة عن الثقب والمسار والجسم. والجسم البشري ليس جسيم اختبار رياضياً، لذلك لا تعني المسارات وحدها توقع النجاة."
+      },
+      {
+        "type": "heading",
+        "text": "التفرد حد للوصف الكلاسيكي"
+      },
+      {
+        "type": "paragraph",
+        "text": "في حل شفارتزشيلد المثالي ينتهي المسار الداخلي إلى تفرد تنمو عنده انحناءات الزمكان دون حد. تثبت مبرهنات التفرد، تحت افتراضات محددة، أن بعض مسارات السقوط الحر لا يمكن تمديدها إلى ما لا نهاية. لكنها لا تحدد التركيب المجهري لجسم نهائي. تصوير التفرد كحبة مادة مصورة بكثافة لانهائية يخلط الحد الرياضي بالمشاهدة. [المصدر: doi.org](https://doi.org/10.1098/rspa.1970.0021)"
+      },
+      {
+        "type": "paragraph",
+        "text": "للحلول الدوارة بنى داخلية أعقد، وتصعب الاضطرابات الواقعية تفسيرها. لا يبرر امتداد رياضي مثالي الادعاء بوجود ممر صالح إلى كون آخر. يتوقع الباحثون أهمية الجاذبية الكمية عندما تصبح الانحناءات شديدة، لكن هذا النظام لا يملك وصفاً مثبتاً تجريبياً. الإجابة المسؤولة عما يحل أخيراً محل التفرد هي أننا لا نعرف."
+      },
+      {
+        "type": "heading",
+        "text": "هل يمكن أن يتبخر الثقب الأسود؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يتنبأ حساب ستيفن هوكينغ بإشعاع حراري من الحقول الكمية في زمكان الثقب الأسود. إذا فقد الثقب طاقة أكثر مما يمتص تناقصت كتلته. في الحالة البسيطة تكون الثقوب الأصغر أعلى حرارة. ويتوقع أن تكون الثقوب الفلكية شديدة البرودة، ولم يرصد إشعاعها مباشرة. الضوء الساخن من قرص التراكم آلية مختلفة، ولا يصح تقديمه بوصفه إشعاع هوكينغ. [المصدر: doi.org](https://doi.org/10.1007/BF02345020)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يوفر الإشعاع طريق هرب كلاسيكياً لشخص أو رسالة وراء الأفق. إنه يغير ميزانية الطاقة طويلة الأمد بتأثير كمي. ويتجاوز الاستقراء إلى آخر التبخر في نهاية المطاف الافتراضات شبه الكلاسيكية للحساب. الجزم بانفجار نهائي أو بقايا ثابتة أو كون جديد يتجاوز الأدلة. وتشرح سيرة هوكينغ لدينا كيف غيّر هذا التنبؤ مجاله العلمي. [ستيفن هوكينغ: الثقوب السوداء والزمن وحياة في العلم](/articles/stephen-hawking-black-holes-cosmology/)"
+      },
+      {
+        "type": "heading",
+        "text": "أين تذهب المعلومات؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحفظ التطور الكمي المعتاد المعلومات المتعلقة بالحالة الفيزيائية الكاملة. بدا أن صورة التبخر الأصلية تسمح باختفائها في إشعاع حراري بلا سمات مميزة. هذا التوتر هو مفارقة المعلومات. المقصود الحالات الكمية وارتباطاتها، لا قدرة مراقب على إعادة بناء جسم بأدوات يومية. فقدان الوصول العملي وتدمير المعلومات على المستوى الأساسي ادعاءان مختلفان. [المصدر: doi.org](https://doi.org/10.1103/PhysRevD.14.2460)"
+      },
+      {
+        "type": "paragraph",
+        "text": "حققت أبحاث الهولوغرافيا والتشابك الكمي تقدماً كبيراً في نظم نموذجية. تستعيد حسابات إنتروبيا الإشعاع سلوكاً ينسجم مع حفظ المعلومات. إنها قرائن مهمة، لا مشاهدة مباشرة لداخل ثقب فلكي. ولم تنتج وصفاً مثبتاً بشكل شامل لما يختبره كل مراقب يسقط. حل مسألة في إطار نظري مضبوط وإثبات تفسير للطبيعة تجريبياً يظلان إنجازين مختلفين. [المصدر: doi.org](https://doi.org/10.1038/s42254-019-0146-z)"
+      },
+      {
+        "type": "heading",
+        "text": "ما تثبته المشاهدات وما يبقى محجوباً"
+      },
+      {
+        "type": "paragraph",
+        "text": "توافقت أول إشارة موجات ثقالية رصدها ليغو في 14 سبتمبر 2015 وأعلنت في فبراير 2016 مع اندماج ثقبين أسودين. نشر تلسكوب أفق الحدث صورة محيط M87* عام 2019 وصورة محيط القوس A* عام 2022. تختبر هذه المشاهدات الجاذبية القوية عبر إشارات خارجية. الظل المظلم ليس صورة مفصلة للداخل، وحدوده الظاهرة لا تساوي ببساطة قطر الأفق. [المصدر: ligo.org](https://ligo.org/detections/gw150914/) [المصدر: www.eso.org](https://www.eso.org/public/news/eso2208-eht-mw/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الإنجاز كبير دون اختراع جواب نهائي. نقيس آثار أجرام لا يستطيع داخلها إرسال تقرير، ونقارن القياسات بالنسبية ونحدد مواضع نقص النظرية. من قوانين نيوتن إلى فيزياء الثقوب السوداء، تصبح الأوصاف أدق ولكل منها نطاق صلاحية. تقدم الفيزياء وراء الأفق تنبؤات مشروطة قوية. وعند أعمق الحدود، تقتضي الأمانة سؤالاً مفتوحاً لا وجهة خيالية. [إسحاق نيوتن: حياته والجاذبية وقوانين الحركة](/articles/isaac-newton-life-gravity-laws-motion/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "NASA on black-hole types",
+        "url": "https://science.nasa.gov/universe/black-holes/types/"
+      },
+      {
+        "label": "NASA’s black-hole mathematics",
+        "url": "https://www.nasa.gov/wp-content/uploads/2013/05/black_hole_math.pdf"
+      },
+      {
+        "label": "NASA’s anatomy guide",
+        "url": "https://science.nasa.gov/universe/black-holes/anatomy/"
+      },
+      {
+        "label": "NASA’s simulated plunge",
+        "url": "https://science.nasa.gov/universe/black-holes/supermassive-black-holes/new-nasa-black-hole-visualization-takes-viewers-beyond-the-brink/"
+      },
+      {
+        "label": "University of Texas astronomy notes",
+        "url": "https://www.as.utexas.edu/astronomy/education/fall13/wheeler/secure/rev.ex4.fall.13.pdf"
+      },
+      {
+        "label": "NASA on tidal disruption",
+        "url": "https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/"
+      },
+      {
+        "label": "Hawking and Penrose’s singularity theorem",
+        "url": "https://doi.org/10.1098/rspa.1970.0021"
+      },
+      {
+        "label": "Hawking’s detailed radiation calculation",
+        "url": "https://doi.org/10.1007/BF02345020"
+      },
+      {
+        "label": "Hawking’s 1976 analysis",
+        "url": "https://doi.org/10.1103/PhysRevD.14.2460"
+      },
+      {
+        "label": "Maldacena’s research perspective",
+        "url": "https://doi.org/10.1038/s42254-019-0146-z"
+      },
+      {
+        "label": "LIGO’s detection record",
+        "url": "https://ligo.org/detections/gw150914/"
+      },
+      {
+        "label": "ESO on Sagittarius A*",
+        "url": "https://www.eso.org/public/news/eso2208-eht-mw/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/what-happens-inside-black-hole/",
+    "path": "/es/articles/what-happens-inside-black-hole/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "¿Qué ocurre dentro de un agujero negro?",
+    "seoTitle": "Dentro de un agujero negro: horizontes y misterios",
+    "description": "Explora horizontes, espacio-tiempo, fuerzas de marea, singularidades y radiación de Hawking, distinguiendo las pruebas de las incógnitas.",
+    "excerpt": "Explora horizontes, espacio-tiempo, fuerzas de marea, singularidades y radiación de Hawking, distinguiendo las pruebas de las incógnitas.",
+    "headlineHighlights": {
+      "red": "agujero negro",
+      "gold": "dentro"
+    },
+    "keywords": [
+      "agujero negro",
+      "Physics"
+    ],
+    "searchIntent": "Explora horizontes, espacio-tiempo, fuerzas de marea, singularidades y radiación de Hawking, distinguiendo las pruebas de las incógnitas.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/blackhole-2026-hero.jpg",
+      "alt": "Ilustración aportada de un disco luminoso deformado por lente gravitatoria. No muestra una observación del interior ni una escala real."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un agujero negro no es una perforación en un decorado de estrellas. Es una región del espacio-tiempo desde la que las señales no pueden alcanzar el universo exterior lejano. Su frontera, el horizonte de sucesos, es una idea precisa. El destino final de la materia más adentro resulta mucho menos seguro. La relatividad general predice una ruptura inevitable de la descripción en el modelo clásico más sencillo, pero ninguna observación muestra ese destino."
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinción vuelve más interesante la pregunta. Órbitas estelares, radiación del gas cercano, ondas gravitacionales e imágenes a escala del horizonte aportan pruebas sólidas de agujeros negros astrofísicos. No tenemos un reportaje desde su interior. Un viaje hipotético hacia dentro atraviesa niveles de conocimiento: observación, teoría comprobada y finalmente preguntas que requieren una física todavía desconocida."
+      },
+      {
+        "type": "heading",
+        "text": "Cómo se forma un agujero negro"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una vía establecida comienza cuando una estrella masiva deja de sostener su núcleo contra la gravedad. Según el núcleo y la historia estelar, el colapso puede dejar una estrella de neutrones o producir un agujero negro. No todas las estrellas que mueren se convierten en uno, y el Sol carece de masa suficiente para seguir esa ruta. Los agujeros negros también crecen al acumular materia y fusionarse, sin absorber automáticamente todo a cualquier distancia. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/black-holes/types/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Muchos centros galácticos contienen agujeros negros supermasivos, pero el origen de sus primeras semillas sigue investigándose. Entre los escenarios figuran el colapso de grandes nubes de gas y el crecimiento de restos estelares. Los agujeros negros primordiales, propuestos para el universo temprano, siguen siendo una hipótesis, no una población confirmada. El término describe una región física, no un único mecanismo conocido de nacimiento."
+      },
+      {
+        "type": "heading",
+        "text": "El horizonte es una frontera causal"
+      },
+      {
+        "type": "paragraph",
+        "text": "El horizonte no es una superficie sólida. En la descripción clásica separa acontecimientos capaces de enviar luz a observadores lejanos de los que ya no pueden hacerlo. Dentro de un agujero sencillo sin rotación, todas las trayectorias futuras disponibles para luz y materia conducen hacia un radio menor. No se trata solamente de disponer de un motor insuficiente: no existe una ruta de salida compatible con el límite de velocidad de la luz."
+      },
+      {
+        "type": "paragraph",
+        "text": "Para un agujero ideal sin rotación ni carga, el radio del horizonte es 2GM/c²: G representa la constante gravitatoria, M la masa y c la velocidad de la luz. Una masa solar corresponde aproximadamente a tres kilómetros de radio. Es una relación de escala, no la afirmación de que ese objeto deba formarse mediante colapso estelar ordinario. La rotación modifica la geometría, por lo que la fórmula no es universal. [Fuente: www.nasa.gov](https://www.nasa.gov/wp-content/uploads/2013/05/black_hole_math.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué el entorno puede brillar"
+      },
+      {
+        "type": "paragraph",
+        "text": "El gas que cae hacia un agujero negro puede formar un disco de acreción caliente fuera del horizonte. Procesos disipativos y magnéticos liberan energía en el flujo. La gravedad curva las trayectorias luminosas y deforma la imagen del disco. Los arcos brillantes de las ilustraciones representan esa materia y las lentes gravitacionales, no llamas visibles dentro de una cavidad. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/black-holes/anatomy/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Algunos sistemas también lanzan potentes chorros desde su entorno. No son materiales que salen después de cruzar el horizonte. Un agujero sin suministro de gas cercano tampoco necesita mostrar un disco espectacular. El anillo luminoso familiar corresponde a condiciones concretas, no a una apariencia obligatoria. Nuestra imagen de apertura ilustra ese entorno, sin fotografiar el interior."
+      },
+      {
+        "type": "heading",
+        "text": "La experiencia de quien cae"
+      },
+      {
+        "type": "paragraph",
+        "text": "Imaginemos un observador en caída libre hacia un agujero suficientemente grande y tranquilo. En relatividad clásica, cruzar el horizonte no exige chocar localmente con una pared. Su reloj sigue funcionando normalmente y el cruce sucede tras un tiempo propio finito. Es un experimento mental, no un viaje practicable: gas, radiación y otros peligros pueden hacer letal el entorno mucho antes del horizonte."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las visualizaciones relativistas de la NASA calculan trayectorias de luz y movimiento de cámara para explorar estos recorridos. Ilustran un modelo, no observan un descenso real. En un agujero bastante grande, las fuerzas de marea en el horizonte pueden ser relativamente modestas. Eso no permite regresar: unas condiciones locales normales pueden coexistir con la pérdida irreversible de comunicación hacia fuera. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/black-holes/supermassive-black-holes/new-nasa-black-hole-visualization-takes-viewers-beyond-the-brink/)"
+      },
+      {
+        "type": "heading",
+        "text": "La dilatación temporal no detiene el reloj"
+      },
+      {
+        "type": "paragraph",
+        "text": "Comparemos al observador que cae con alguien distante que recibe sus señales luminosas. En el modelo idealizado, las señales enviadas cerca del horizonte llegan cada vez más tarde y desplazadas al rojo. El observador exterior no ve una persona brillante congelada eternamente en la frontera: la señal se debilita y sale de las bandas detectables. El reloj de quien cae no se ha detenido."
+      },
+      {
+        "type": "paragraph",
+        "text": "La relatividad distingue el tiempo medido a lo largo de una trayectoria de las coordenadas usadas para describir los acontecimientos. Confundirlos crea la impresión de que alguien cruza y nunca cruza el horizonte. La coordenada temporal exterior de Schwarzschild deja de funcionar adecuadamente allí, sin demostrar una pared física. Caer tampoco concede automáticamente una visión de todo el futuro infinito del universo. [Fuente: www.as.utexas.edu](https://www.as.utexas.edu/astronomy/education/fall13/wheeler/secure/rev.ex4.fall.13.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "La espaguetificación depende de diferencias"
+      },
+      {
+        "type": "paragraph",
+        "text": "El estiramiento peligroso procede de fuerzas de marea: la gravedad cambia entre distintas partes de un objeto. Unos pies más próximos y una cabeza más alejada no siguen exactamente la misma tendencia. En un marco de caída apropiado, el cuerpo se estira en una dirección y se comprime en otras. El principio también interviene en las mareas comunes, pero cerca de objetos compactos los gradientes pueden ser destructivos. [Fuente: science.nasa.gov](https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La masa interviene de forma sorprendente. En el horizonte de un agujero grande, el gradiente puede ser menor que en el de uno pequeño. Uno de masa estelar puede destrozar un objeto antes del cruce; uno supermasivo suficientemente grande puede permitir un cruce menos violento seguido de destrucción más adentro. No existe un punto universal de espaguetificación independiente del objeto, la trayectoria y el agujero. Un cuerpo humano no es una partícula matemática."
+      },
+      {
+        "type": "heading",
+        "text": "La singularidad señala un límite teórico"
+      },
+      {
+        "type": "paragraph",
+        "text": "En la solución ideal de Schwarzschild, el movimiento interior termina en una singularidad donde la curvatura crece sin límite. Los teoremas generales establecen, bajo determinados supuestos, que no todas las trayectorias de caída libre pueden prolongarse indefinidamente. No describen la composición microscópica de un objeto final. Presentar la singularidad como una bolita fotografiada de densidad infinita convierte un límite matemático en una falsa observación. [Fuente: doi.org](https://doi.org/10.1098/rspa.1970.0021)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las soluciones con rotación tienen interiores más elaborados, cuya interpretación se complica con perturbaciones realistas. Una extensión matemática ideal no demuestra un paso utilizable hacia otro universo. La gravedad cuántica debería importar cuando la curvatura es extrema, pero ese régimen no dispone de una descripción confirmada experimentalmente. No sabemos qué reemplaza finalmente a la singularidad."
+      },
+      {
+        "type": "heading",
+        "text": "¿Puede evaporarse un agujero negro?"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cálculo de Stephen Hawking predice radiación térmica de campos cuánticos en el espacio-tiempo de un agujero negro. Si pierde más energía de la que absorbe, disminuye su masa. En el caso simple, los menores son más calientes. Los agujeros astrofísicos deberían ser extremadamente fríos y su radiación no se ha detectado directamente. La luz caliente de un disco de acreción responde a otro mecanismo. [Fuente: doi.org](https://doi.org/10.1007/BF02345020)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La radiación no ofrece una salida clásica para una persona o mensaje detrás del horizonte. Modifica el balance energético a largo plazo mediante un efecto cuántico. Extrapolar hasta la etapa final de evaporación termina superando los supuestos semiclásicos del cálculo. Presentar como seguro un estallido final, un remanente o un universo nuevo va más allá de las pruebas. Nuestra biografía de Hawking explica la importancia de esta predicción. [Stephen Hawking: agujeros negros, tiempo y una vida científica](/articles/stephen-hawking-black-holes-cosmology/)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Adónde va la información?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La evolución cuántica ordinaria conserva la información que describe un estado físico completo. El escenario inicial de evaporación parecía permitir su desaparición en radiación térmica sin rasgos distintivos. Esa tensión es la paradoja de la información. Trata estados cuánticos y correlaciones, no la posibilidad de reconstruir un objeto con herramientas cotidianas. Perder acceso práctico y destruir información fundamentalmente son afirmaciones distintas. [Fuente: doi.org](https://doi.org/10.1103/PhysRevD.14.2460)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación sobre holografía y entrelazamiento cuántico ha progresado mucho en modelos controlados. Cálculos de entropía de la radiación recuperan comportamientos compatibles con conservar información. Son pistas importantes, no observaciones directas del interior de agujeros astrofísicos. Tampoco ofrecen un relato universalmente verificado de cualquier caída. Resolver un modelo y establecer experimentalmente una explicación de la naturaleza siguen siendo logros diferentes. [Fuente: doi.org](https://doi.org/10.1038/s42254-019-0146-z)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué muestran las observaciones"
+      },
+      {
+        "type": "paragraph",
+        "text": "La primera señal gravitacional observada por LIGO el 14 de septiembre de 2015, anunciada en febrero de 2016, correspondía a la fusión de dos agujeros negros. El Event Horizon Telescope publicó una imagen del entorno de M87* en 2019 y de Sagitario A* en 2022. Estas observaciones prueban la gravedad intensa mediante señales exteriores. La sombra oscura no es una fotografía resuelta del interior, ni su tamaño aparente equivale simplemente al diámetro del horizonte. [Fuente: ligo.org](https://ligo.org/detections/gw150914/) [Fuente: www.eso.org](https://www.eso.org/public/news/eso2208-eht-mw/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El logro es enorme sin inventarle una conclusión definitiva. Medimos efectos de objetos cuyos interiores no pueden comunicarse, los contrastamos con la relatividad e identificamos sus límites. De Newton a la física de los agujeros negros, las descripciones ganan precisión, cada una en su ámbito de validez. Más allá del horizonte, la ciencia ofrece predicciones condicionales poderosas. En el límite más profundo, la honestidad exige una pregunta abierta. [Isaac Newton: vida, gravedad y leyes del movimiento](/articles/isaac-newton-life-gravity-laws-motion/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "NASA on black-hole types",
+        "url": "https://science.nasa.gov/universe/black-holes/types/"
+      },
+      {
+        "label": "NASA’s black-hole mathematics",
+        "url": "https://www.nasa.gov/wp-content/uploads/2013/05/black_hole_math.pdf"
+      },
+      {
+        "label": "NASA’s anatomy guide",
+        "url": "https://science.nasa.gov/universe/black-holes/anatomy/"
+      },
+      {
+        "label": "NASA’s simulated plunge",
+        "url": "https://science.nasa.gov/universe/black-holes/supermassive-black-holes/new-nasa-black-hole-visualization-takes-viewers-beyond-the-brink/"
+      },
+      {
+        "label": "University of Texas astronomy notes",
+        "url": "https://www.as.utexas.edu/astronomy/education/fall13/wheeler/secure/rev.ex4.fall.13.pdf"
+      },
+      {
+        "label": "NASA on tidal disruption",
+        "url": "https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/"
+      },
+      {
+        "label": "Hawking and Penrose’s singularity theorem",
+        "url": "https://doi.org/10.1098/rspa.1970.0021"
+      },
+      {
+        "label": "Hawking’s detailed radiation calculation",
+        "url": "https://doi.org/10.1007/BF02345020"
+      },
+      {
+        "label": "Hawking’s 1976 analysis",
+        "url": "https://doi.org/10.1103/PhysRevD.14.2460"
+      },
+      {
+        "label": "Maldacena’s research perspective",
+        "url": "https://doi.org/10.1038/s42254-019-0146-z"
+      },
+      {
+        "label": "LIGO’s detection record",
+        "url": "https://ligo.org/detections/gw150914/"
+      },
+      {
+        "label": "ESO on Sagittarius A*",
+        "url": "https://www.eso.org/public/news/eso2208-eht-mw/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/what-happens-inside-black-hole/",
+    "path": "/fr/articles/what-happens-inside-black-hole/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "Que se passe-t-il à l’intérieur d’un trou noir ?",
+    "seoTitle": "Dans un trou noir : horizon, espace-temps et inconnues",
+    "description": "Explorez les horizons, forces de marée, singularités, rayonnement de Hawking et limites de la science sur l’intérieur des trous noirs.",
+    "excerpt": "Explorez les horizons, forces de marée, singularités, rayonnement de Hawking et limites de la science sur l’intérieur des trous noirs.",
+    "headlineHighlights": {
+      "red": "trou noir",
+      "gold": "l’intérieur"
+    },
+    "keywords": [
+      "trou noir",
+      "Physics"
+    ],
+    "searchIntent": "Explorez les horizons, forces de marée, singularités, rayonnement de Hawking et limites de la science sur l’intérieur des trous noirs.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/blackhole-2026-hero.jpg",
+      "alt": "Illustration fournie : disque lumineux déformé par lentille gravitationnelle. Ni observation de l’intérieur ni schéma à l’échelle."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un trou noir n’est pas une perforation dans un décor d’étoiles. C’est une région de l’espace-temps dont les signaux ne peuvent pas atteindre l’Univers extérieur lointain. Sa frontière, l’horizon des événements, est une idée précise. Le destin ultime de la matière plus profondément à l’intérieur reste bien moins assuré. La relativité générale prédit une rupture inévitable de la description dans le modèle classique le plus simple, mais aucune observation n’en montre l’aboutissement."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette distinction rend la question plus intéressante. Orbites d’étoiles, rayonnement du gaz environnant, ondes gravitationnelles et images à l’échelle de l’horizon fournissent des preuves solides de l’existence des trous noirs astrophysiques. Nous n’avons cependant aucun reportage depuis l’intérieur. Un voyage hypothétique vers le centre traverse donc plusieurs niveaux de connaissance : observation, théorie éprouvée, puis questions nécessitant une physique encore inconnue."
+      },
+      {
+        "type": "heading",
+        "text": "Comment se forme un trou noir"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une voie établie commence lorsqu’une étoile massive ne peut plus soutenir son cœur contre la gravité. Selon le cœur et l’histoire de l’étoile, l’effondrement peut laisser une étoile à neutrons ou produire un trou noir. Toutes les étoiles mourantes ne deviennent pas des trous noirs, et le Soleil n’est pas assez massif pour suivre cette voie. Les trous noirs grandissent aussi par accrétion et par fusion, sans aspirer automatiquement tout ce qui existe à n’importe quelle distance. [Source: science.nasa.gov](https://science.nasa.gov/universe/black-holes/types/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Des trous noirs supermassifs occupent le centre de nombreuses galaxies, mais l’origine de leurs premières graines reste étudiée. L’effondrement de grands nuages de gaz et la croissance de vestiges stellaires figurent parmi les scénarios. Les trous noirs primordiaux, supposés naître dans l’Univers très jeune, demeurent une hypothèse, pas une population confirmée. Le terme définit une région physique, non un mécanisme unique de naissance."
+      },
+      {
+        "type": "heading",
+        "text": "L’horizon est une frontière causale"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’horizon n’est pas une surface solide. Dans la description classique, il sépare les événements capables d’envoyer de la lumière vers des observateurs lointains de ceux qui ne le peuvent plus. À l’intérieur d’un trou noir simple sans rotation, toutes les trajectoires futures possibles de la lumière et de la matière conduisent vers un rayon plus petit. Le problème n’est pas seulement la puissance insuffisante d’un moteur : aucune route extérieure ne reste accessible dans la limite de la vitesse de la lumière."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour un trou noir idéal sans rotation ni charge, le rayon de l’horizon vaut 2GM/c² : G est la constante gravitationnelle, M la masse et c la vitesse de la lumière. Une masse solaire correspond à environ trois kilomètres de rayon. Cette relation d’échelle ne signifie pas qu’un tel objet se forme nécessairement par effondrement stellaire ordinaire. La rotation modifie la géométrie, donc cette formule simple n’est pas universelle. [Source: www.nasa.gov](https://www.nasa.gov/wp-content/uploads/2013/05/black_hole_math.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi l’environnement peut être lumineux"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le gaz attiré vers un trou noir peut former un disque d’accrétion chaud à l’extérieur de l’horizon. Les processus dissipatifs et magnétiques libèrent de l’énergie dans cet écoulement. La gravité courbe les trajets lumineux et déforme l’image du disque. Les arcs brillants des illustrations représentent cette matière et les effets de lentille, pas des flammes visibles au fond d’une cavité. [Source: science.nasa.gov](https://science.nasa.gov/universe/black-holes/anatomy/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Certains systèmes produisent également de puissants jets depuis leur environnement. Ce ne sont pas des matériaux ressortant après avoir franchi l’horizon. Inversement, un trou noir privé de gaz proche n’a pas nécessairement de disque spectaculaire. L’anneau lumineux familier correspond à des conditions particulières. Notre image d’ouverture illustre un tel environnement, sans photographier l’intérieur."
+      },
+      {
+        "type": "heading",
+        "text": "L’expérience d’un observateur en chute"
+      },
+      {
+        "type": "paragraph",
+        "text": "Imaginons un observateur en chute libre vers un trou noir suffisamment grand et calme. En relativité classique, le franchissement de l’horizon ne nécessite pas une collision locale avec une paroi. Sa montre continue à fonctionner normalement et le passage survient après une durée propre finie. Ce raisonnement n’est pas un projet de voyage : gaz, rayonnement et autres dangers peuvent rendre l’environnement réel mortel bien avant l’horizon."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les visualisations relativistes de la NASA calculent les trajets de lumière et le mouvement d’une caméra pour explorer de tels parcours. Elles illustrent un modèle, sans observer une descente réelle. Pour un trou noir assez grand, les forces de marée à l’horizon peuvent être relativement modestes. Cela ne permet aucun retour : des conditions locales ordinaires peuvent coexister avec la perte irréversible de communication vers l’extérieur. [Source: science.nasa.gov](https://science.nasa.gov/universe/black-holes/supermassive-black-holes/new-nasa-black-hole-visualization-takes-viewers-beyond-the-brink/)"
+      },
+      {
+        "type": "heading",
+        "text": "La dilatation du temps n’arrête pas la montre"
+      },
+      {
+        "type": "paragraph",
+        "text": "Comparons cet observateur avec une personne éloignée recevant ses signaux lumineux. Dans le modèle idéalisé, les signaux émis près de l’horizon arrivent de plus en plus tard et décalés vers le rouge. L’observateur extérieur ne voit pas une personne brillante éternellement figée à la frontière : le signal faiblit et quitte les bandes détectables. La montre de la personne qui tombe ne s’est pourtant pas arrêtée."
+      },
+      {
+        "type": "paragraph",
+        "text": "La relativité distingue le temps mesuré le long d’une trajectoire des coordonnées utilisées pour décrire les événements. Leur confusion donne l’impression qu’un voyageur franchit et ne franchit jamais l’horizon. La coordonnée temporelle extérieure de Schwarzschild devient inadéquate à cette frontière, ce qui ne prouve pas l’existence d’un mur. Tomber ne donne pas non plus automatiquement accès à tout l’avenir infini de l’Univers. [Source: www.as.utexas.edu](https://www.as.utexas.edu/astronomy/education/fall13/wheeler/secure/rev.ex4.fall.13.pdf)"
+      },
+      {
+        "type": "heading",
+        "text": "La spaghettification vient des différences"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’étirement dangereux provient des forces de marée : la gravité varie entre les différentes parties d’un objet. Des pieds plus proches du trou noir et une tête plus éloignée ne suivent pas la même tendance. Dans un référentiel de chute adapté, l’objet s’allonge dans une direction et se comprime dans les autres. Le principe existe dans les marées ordinaires, mais les gradients près d’un objet compact peuvent devenir destructeurs. [Source: science.nasa.gov](https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La masse joue un rôle surprenant. À l’horizon d’un grand trou noir, le gradient peut être plus faible qu’à celui d’un petit. Un trou noir de masse stellaire peut donc déchirer un objet avant le passage, tandis qu’un trou noir supermassif suffisamment grand autorise un franchissement moins violent, puis une destruction plus profonde. Il n’existe pas de point universel de spaghettification indépendant de la trajectoire, de l’objet et du trou noir. Un corps humain n’est pas une particule mathématique."
+      },
+      {
+        "type": "heading",
+        "text": "La singularité marque une limite théorique"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans la solution idéale de Schwarzschild, le mouvement intérieur aboutit à une singularité où la courbure diverge. Les théorèmes généraux de singularité établissent, sous certaines hypothèses, que les trajectoires de chute libre ne peuvent pas toujours être prolongées indéfiniment. Ils ne décrivent pas la composition microscopique d’un objet final. Présenter la singularité comme un grain photographié de matière infiniment dense transforme une limite mathématique en fausse observation. [Source: doi.org](https://doi.org/10.1098/rspa.1970.0021)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les solutions en rotation possèdent des structures intérieures plus complexes, dont les perturbations réalistes compliquent l’interprétation. Une extension mathématique idéale ne constitue pas un passage utilisable vers un autre univers. La gravitation quantique devrait devenir importante lorsque la courbure est extrême, mais ce régime n’a pas de description expérimentalement confirmée. Nous ignorons ce qui remplace finalement la singularité."
+      },
+      {
+        "type": "heading",
+        "text": "Un trou noir peut-il s’évaporer ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le calcul de Stephen Hawking prédit un rayonnement thermique des champs quantiques dans l’espace-temps d’un trou noir. Si celui-ci perd plus d’énergie qu’il n’en absorbe, sa masse diminue. Dans le cas simple, les plus petits sont les plus chauds. Les trous noirs astrophysiques devraient être extrêmement froids et leur rayonnement n’a pas été détecté directement. La lumière chaude d’un disque d’accrétion relève d’un autre mécanisme. [Source: doi.org](https://doi.org/10.1007/BF02345020)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ce rayonnement ne constitue pas une issue classique pour une personne ou un message derrière l’horizon. Il modifie le bilan énergétique à long terme par un effet quantique. Extrapoler jusqu’au dernier stade de l’évaporation dépasse finalement les hypothèses semi-classiques du calcul. Affirmer une explosion finale, un vestige ou un nouvel univers comme une certitude va au-delà des preuves. Notre biographie de Hawking retrace l’importance de cette prédiction. [Stephen Hawking : trous noirs, temps et vie scientifique](/articles/stephen-hawking-black-holes-cosmology/)"
+      },
+      {
+        "type": "heading",
+        "text": "Que devient l’information ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’évolution quantique ordinaire conserve l’information décrivant un état physique complet. Le scénario initial d’évaporation semblait permettre sa disparition dans un rayonnement thermique sans particularités. Cette tension constitue le paradoxe de l’information. Il concerne les états quantiques et leurs corrélations, pas la capacité à reconstruire un objet avec des outils ordinaires. Perdre un accès pratique et détruire fondamentalement l’information sont deux affirmations distinctes. [Source: doi.org](https://doi.org/10.1103/PhysRevD.14.2460)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les recherches sur l’holographie et l’intrication quantique ont beaucoup progressé dans des modèles contrôlés. Des calculs d’entropie du rayonnement retrouvent un comportement compatible avec la conservation de l’information. Ces résultats sont des indices importants, pas une observation directe de l’intérieur d’un trou noir astrophysique. Ils ne fournissent pas un récit universellement vérifié de chaque chute. Résoudre un modèle et établir expérimentalement une explication de la nature restent différents. [Source: doi.org](https://doi.org/10.1038/s42254-019-0146-z)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que montrent les observations"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le premier signal gravitationnel observé par LIGO le 14 septembre 2015, annoncé en février 2016, correspond à la fusion de deux trous noirs. L’Event Horizon Telescope publie une image de l’environnement de M87* en 2019, puis de Sagittarius A* en 2022. Ces observations testent la gravité forte par des signaux extérieurs. L’ombre sombre n’est pas une photographie résolue de l’intérieur, et sa taille apparente n’est pas simplement le diamètre de l’horizon. [Source: ligo.org](https://ligo.org/detections/gw150914/) [Source: www.eso.org](https://www.eso.org/public/news/eso2208-eht-mw/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces résultats sont majeurs sans qu’on leur invente une conclusion définitive. Nous mesurons les effets d’objets dont l’intérieur ne peut pas communiquer, confrontons les résultats à la relativité et repérons ses limites. De Newton à la physique des trous noirs, les descriptions deviennent plus précises, chacune dans son domaine de validité. Au-delà de l’horizon, la science offre des prédictions conditionnelles puissantes. À la limite la plus profonde, l’honnêteté impose une question ouverte. [Isaac Newton : sa vie, la gravitation et les lois du mouvement](/articles/isaac-newton-life-gravity-laws-motion/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "NASA on black-hole types",
+        "url": "https://science.nasa.gov/universe/black-holes/types/"
+      },
+      {
+        "label": "NASA’s black-hole mathematics",
+        "url": "https://www.nasa.gov/wp-content/uploads/2013/05/black_hole_math.pdf"
+      },
+      {
+        "label": "NASA’s anatomy guide",
+        "url": "https://science.nasa.gov/universe/black-holes/anatomy/"
+      },
+      {
+        "label": "NASA’s simulated plunge",
+        "url": "https://science.nasa.gov/universe/black-holes/supermassive-black-holes/new-nasa-black-hole-visualization-takes-viewers-beyond-the-brink/"
+      },
+      {
+        "label": "University of Texas astronomy notes",
+        "url": "https://www.as.utexas.edu/astronomy/education/fall13/wheeler/secure/rev.ex4.fall.13.pdf"
+      },
+      {
+        "label": "NASA on tidal disruption",
+        "url": "https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/"
+      },
+      {
+        "label": "Hawking and Penrose’s singularity theorem",
+        "url": "https://doi.org/10.1098/rspa.1970.0021"
+      },
+      {
+        "label": "Hawking’s detailed radiation calculation",
+        "url": "https://doi.org/10.1007/BF02345020"
+      },
+      {
+        "label": "Hawking’s 1976 analysis",
+        "url": "https://doi.org/10.1103/PhysRevD.14.2460"
+      },
+      {
+        "label": "Maldacena’s research perspective",
+        "url": "https://doi.org/10.1038/s42254-019-0146-z"
+      },
+      {
+        "label": "LIGO’s detection record",
+        "url": "https://ligo.org/detections/gw150914/"
+      },
+      {
+        "label": "ESO on Sagittarius A*",
+        "url": "https://www.eso.org/public/news/eso2208-eht-mw/"
+      }
+    ],
+    "faq": []
   },
   {
     "locale": "ar",

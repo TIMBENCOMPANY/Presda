@@ -1,0 +1,61 @@
+Une pomme tombe. La Lune ne tombe pas au sol. Isaac Newton comprit que ces événements apparemment différents pouvaient relever d’une même histoire physique. La Lune change continuellement de direction autour de la Terre ; un objet en chute accélère vers elle. Une théorie mathématique de l’attraction pouvait relier les deux. Transformer cette intuition en théorie exigea bien davantage qu’un instant mémorable sous un arbre.
+
+Newton contribua à construire un cadre permettant d’étudier quantitativement mouvement, gravitation et lumière. Il transforma les mathématiques et la philosophie naturelle, mais sa vie comporta aussi secret, recherches religieuses, expériences alchimiques et querelles. Le Newton historique dépasse le génie solitaire de la légende : héritier d’idées, inventeur de méthodes extraordinaires, il défendit âprement sa reconnaissance.
+
+## Une enfance dans une Angleterre en transformation
+
+Newton naquit à Woolsthorpe, dans le Lincolnshire, le 25 décembre 1642 selon le calendrier julien alors employé en Angleterre, soit le 4 janvier 1643 dans le calendrier grégorien. Les deux dates désignent la même naissance. Son père mourut avant sa venue au monde. Après le remariage de sa mère, sa grand-mère maternelle assura largement son éducation. Ses études à Grantham le conduisirent finalement à Cambridge plutôt qu’à la vie agricole envisagée pour lui.
+
+Il entra au Trinity College en 1661. L’enseignement universitaire restait fortement marqué par les traditions anciennes, mais Newton étudia personnellement les nouvelles mathématiques et la philosophie naturelle. Lecture, carnets, calcul et expérimentation préparèrent ses découvertes. Quand la peste perturba Cambridge au milieu des années 1660, son éloignement de l’université s’inscrivit dans une période féconde. Les récits ultérieurs la condensent en année miraculeuse ; les manuscrits montrent plutôt des idées élaborées par un travail soutenu.
+
+## Le calcul infinitésimal : un langage du changement
+
+Newton étudiait des quantités variant continuellement. La vitesse décrit le changement de position ; l’accélération, celui de la vitesse. La dérivation analyse de tels taux, tandis que l’intégration concerne les quantités accumulées. Leur relation devint centrale pour le calcul infinitésimal. Newton développa sa méthode des fluxions dans les années 1660, mais sa publication fut lente et complexe. Les manuscrits révèlent une construction progressive, pas l’apparition soudaine d’un manuel achevé.
+
+Gottfried Wilhelm Leibniz développa indépendamment le calcul infinitésimal et publia avant la présentation complète de Newton. Sa notation exerça une influence particulière. La querelle de priorité entre leurs partisans entraîna accusations et conflits institutionnels. L’histoire reconnaît aujourd’hui les deux contributions, ainsi que celles des prédécesseurs qui les rendirent possibles. Découverte, communication, publication et notation sont des accomplissements liés, mais distincts : une différence toujours pertinente dans les sciences.
+
+## Ce qu’expliquent les trois lois de Newton
+
+La première loi exprime l’inertie : dans un référentiel inertiel, un corps conserve le repos ou une vitesse rectiligne constante si aucune force extérieure résultante ne modifie cet état. Le mouvement n’exige pas une poussée continue ; les objets usuels ralentissent sous l’effet du frottement et d’autres interactions. La deuxième loi relie la force résultante à la variation temporelle de la quantité de mouvement. À masse constante, elle prend la forme F = ma. La troisième affirme que deux corps en interaction exercent des forces égales et opposées. Appliquées à des corps différents, elles n’annulent pas simplement le mouvement de chacun.
+
+Ces principes remplacent les explications vagues par des relations vérifiables. Une fusée accélère en expulsant de la matière ; un corps qui tourne subit une accélération même si la valeur de sa vitesse reste constante. Il faut associer ces lois aux forces particulières et aux conditions initiales. Elles ne définissent pas seules toutes les forces de la nature. Leur puissance réside dans un cadre cohérent pour déterminer ce qui change, ce qui se conserve et les observations qu’une explication doit reproduire.
+
+## La gravitation réunit la Terre et le ciel
+
+La loi gravitationnelle décrit une attraction proportionnelle au produit des masses et inversement proportionnelle au carré de leur distance. Pour des masses ponctuelles : F = Gm₁m₂/r². Avec les lois du mouvement, elle explique les orbites képlériennes d’un système idéal à deux corps. Elle relie corps en chute, lunes, planètes et comètes. Newton ne découvrit pas que les objets tombent ; il établit une description mathématique puissante unifiant mouvements terrestres et célestes.
+
+Une orbite n’est pas une absence de gravité. Le corps est continuellement dévié de la trajectoire rectiligne qu’il suivrait autrement. Son mouvement transversal l’empêche de tomber directement sur le corps central. Les systèmes réels comportent davantage d’objets, dont les interactions compliquent les trajectoires. Ces difficultés devinrent des tests féconds plutôt que des raisons d’abandonner le calcul. L’association des observations et des prédictions transforma l’explication de la nature.
+
+## La pomme : un souvenir, pas une preuve instantanée
+
+L’histoire possède une base historique, mais sa version caricaturale dépasse les preuves. William Stukeley rapporta le souvenir de Newton : voir tomber une pomme l’avait amené à réfléchir à la gravitation. Son manuscrit date de 1752 et évoque une conversation avec Newton âgé, longtemps après les événements. C’est le témoignage d’une anecdote remémorée, pas un compte rendu de laboratoire contemporain. Il n’établit ni qu’une pomme frappa sa tête ni que la loi complète fut découverte en un après-midi.
+
+La nuance importe, car la légende masque l’accomplissement réel. Observer un fruit tomber est facile. Démontrer qu’une loi quantitative explique les mouvements célestes exige définitions, raisonnement mathématique et confrontation aux observations. La pomme ouvre utilement les questions de Newton. Elle ne doit pas remplacer les années de travail qui les rendirent révolutionnaires.
+
+## Le prisme révèle la lumière blanche
+
+Newton utilisa des prismes pour étudier la réfraction et la séparation des couleurs. Sa conclusion essentielle fut que la lumière blanche contient des composantes différemment réfrangibles. Le prisme ne colorait pas simplement une lumière uniforme. En sélectionnant des parties du spectre, il vérifia leur comportement lors d’une nouvelle réfraction. Son exposé parut en 1672 ; le livre plus large Opticks suivit en 1704.
+
+La découverte durable est la composition de la lumière blanche, pas la validité éternelle de toute sa théorie optique. La physique moderne décrit la lumière par l’électromagnétisme et la mécanique quantique. Newton construisit aussi un télescope réflecteur, utilisant un miroir et évitant le problème de séparation des couleurs d’un objectif réfracteur simple. Instruments et théorie progressaient ensemble : l’atelier appartenait pleinement à sa vie intellectuelle.
+
+## Principia : le travail derrière le monument
+
+Publié en 1687, Philosophiae Naturalis Principia Mathematica présenta les lois du mouvement et un traitement mathématique de la gravitation. Les encouragements et l’aide pratique d’Edmond Halley comptèrent dans sa publication. Exigeant, largement géométrique, le livre ne rendit pas tous les problèmes astronomiques faciles. Il établit un cadre exceptionnellement fécond. Trinity College conserve l’exemplaire personnel annoté de Newton : même une œuvre majeure restait ouverte aux corrections et aux développements.
+
+Son importance tient aussi à ce qu’elle ne prétendait pas résoudre. Décrire mathématiquement la gravitation n’en identifiait pas automatiquement la cause physique ultime. Newton relia les phénomènes par des lois utilisables, contestables et perfectibles. La science gagna une méthode de prédiction précise laissant ouvertes des questions plus profondes. Cette combinaison de puissance et de retenue vaut davantage que le mythe d’une réponse définitive à tout.
+
+## Querelles, croyances et pouvoir institutionnel
+
+Newton pouvait défendre son œuvre avec intensité. Les désaccords avec Robert Hooke sur l’optique et la gravitation, puis la controverse du calcul, montrent un monde scientifique traversé par la réputation et l’autorité. Président de la Royal Society à partir de 1703, il possédait influence et prestige. Son intervention dans le traitement institutionnel de la querelle avec Leibniz complique l’idée d’un arbitrage neutre de la priorité.
+
+Ses intérêts inédits résistent aussi à une séparation moderne entre scientifique et non-scientifique. Il étudia beaucoup théologie, chronologie et alchimie. Il ne faut ni y projeter des découvertes modernes secrètes ni les effacer parce qu’elles semblent mal s’accorder avec les Principia. Elles appartenaient aux interrogations de son époque. Les manuscrits révèlent une recherche d’ordre dans des domaines que les générations suivantes séparèrent plus nettement.
+
+## Du laboratoire à la Monnaie royale
+
+Newton devint gardien de la Monnaie royale en 1696, puis maître en 1699. Il prit ses responsabilités au sérieux, participa aux travaux de refonte monétaire et enquêta sur la contrefaçon. Cette autorité pratique impliquait administration, preuves et pouvoir coercitif de l’État. Sa vieillesse ne se résume pas à une contemplation paisible du ciel. Il mourut en 1727, devenu l’une des figures intellectuelles les plus célèbres de Grande-Bretagne.
+
+## Les limites d’une théorie n’effacent pas son apport
+
+La mécanique newtonienne reste extrêmement utile aux vitesses ordinaires et pour de nombreux calculs techniques et astronomiques. Elle n’est pas la description finale de la nature. La relativité est nécessaire aux grandes vitesses et dans les champs gravitationnels intenses ; la théorie quantique dépasse aussi la mécanique classique. La gravitation comme géométrie de l’espace-temps ouvrit ensuite les questions explorées par Stephen Hawking et l’étude moderne de l’intérieur des trous noirs.
+
+L’héritage de Newton n’est donc pas d’avoir tout expliqué. Ses équations rendirent intelligible une immense diversité de phénomènes dans une structure commune et vérifiable. De la pomme aux planètes persiste une ambition : expliquer davantage par des principes cohérents, distinguer preuves et récits séduisants, et reconnaître les limites des théories les plus efficaces.

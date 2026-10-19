@@ -1,0 +1,450 @@
+[
+  {
+    "l": "en",
+    "width": 1366,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 608,
+      "bottom": 745.5
+    },
+    "title": {
+      "x": 73,
+      "y": 429.046875,
+      "width": 504.515625,
+      "height": 106.21875,
+      "bottom": 535.265625
+    },
+    "meta": {
+      "x": 73,
+      "y": 672,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 688.5
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "en",
+    "width": 1440,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1408,
+      "height": 693.1875,
+      "bottom": 830.6875
+    },
+    "title": {
+      "x": 73,
+      "y": 508.515625,
+      "width": 531.875,
+      "height": 111.9375,
+      "bottom": 620.453125
+    },
+    "meta": {
+      "x": 73,
+      "y": 757.1875,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 773.6875
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "en",
+    "width": 1920,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5
+    },
+    "title": {
+      "x": 267,
+      "y": 526.390625,
+      "width": 583.671875,
+      "height": 122.875,
+      "bottom": 649.265625
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "en",
+    "width": 390,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 529.0625,
+      "bottom": 654.5625
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 70.75,
+      "bottom": 474
+    },
+    "meta": {
+      "x": 33,
+      "y": 618.5625,
+      "width": 324,
+      "height": 15,
+      "bottom": 633.5625
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "fr",
+    "width": 1366,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 608,
+      "bottom": 745.5
+    },
+    "title": {
+      "x": 73,
+      "y": 375.9375,
+      "width": 504.515625,
+      "height": 159.328125,
+      "bottom": 535.265625
+    },
+    "meta": {
+      "x": 73,
+      "y": 672,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 688.5
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "fr",
+    "width": 1440,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1408,
+      "height": 693.1875,
+      "bottom": 830.6875
+    },
+    "title": {
+      "x": 73,
+      "y": 452.546875,
+      "width": 531.875,
+      "height": 167.90625,
+      "bottom": 620.453125
+    },
+    "meta": {
+      "x": 73,
+      "y": 757.1875,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 773.6875
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "fr",
+    "width": 1920,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5
+    },
+    "title": {
+      "x": 267,
+      "y": 464.953125,
+      "width": 583.671875,
+      "height": 184.3125,
+      "bottom": 649.265625
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "fr",
+    "width": 390,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 587.4375,
+      "bottom": 712.9375
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 106.125,
+      "bottom": 509.375
+    },
+    "meta": {
+      "x": 33,
+      "y": 653.9375,
+      "width": 324,
+      "height": 38,
+      "bottom": 691.9375
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "ar",
+    "width": 1366,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 608,
+      "bottom": 745.5
+    },
+    "title": {
+      "x": 73,
+      "y": 498.453125,
+      "width": 504.515625,
+      "height": 66.390625,
+      "bottom": 564.84375
+    },
+    "meta": {
+      "x": 73,
+      "y": 672,
+      "width": 388.03125,
+      "height": 16.5,
+      "bottom": 688.5
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "ar",
+    "width": 1440,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1408,
+      "height": 693.1875,
+      "bottom": 830.6875
+    },
+    "title": {
+      "x": 73,
+      "y": 580.0625,
+      "width": 531.875,
+      "height": 69.96875,
+      "bottom": 650.03125
+    },
+    "meta": {
+      "x": 73,
+      "y": 757.1875,
+      "width": 388.03125,
+      "height": 16.5,
+      "bottom": 773.6875
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "ar",
+    "width": 1920,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5
+    },
+    "title": {
+      "x": 267,
+      "y": 602.046875,
+      "width": 583.671875,
+      "height": 76.796875,
+      "bottom": 678.84375
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 388.03125,
+      "height": 16.5,
+      "bottom": 802.5
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "ar",
+    "width": 390,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 494.484375,
+      "bottom": 619.984375
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 39.3125,
+      "bottom": 442.5625
+    },
+    "meta": {
+      "x": 33,
+      "y": 560.984375,
+      "width": 324,
+      "height": 38,
+      "bottom": 598.984375
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "es",
+    "width": 1366,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 608,
+      "bottom": 745.5
+    },
+    "title": {
+      "x": 73,
+      "y": 429.046875,
+      "width": 504.515625,
+      "height": 106.21875,
+      "bottom": 535.265625
+    },
+    "meta": {
+      "x": 73,
+      "y": 672,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 688.5
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "es",
+    "width": 1440,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1408,
+      "height": 693.1875,
+      "bottom": 830.6875
+    },
+    "title": {
+      "x": 73,
+      "y": 508.515625,
+      "width": 531.875,
+      "height": 111.9375,
+      "bottom": 620.453125
+    },
+    "meta": {
+      "x": 73,
+      "y": 757.1875,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 773.6875
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "es",
+    "width": 1920,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5
+    },
+    "title": {
+      "x": 267,
+      "y": 526.390625,
+      "width": 583.671875,
+      "height": 122.875,
+      "bottom": 649.265625
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "l": "es",
+    "width": 390,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 552.0625,
+      "bottom": 677.5625
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 70.75,
+      "bottom": 474
+    },
+    "meta": {
+      "x": 33,
+      "y": 618.5625,
+      "width": 324,
+      "height": 38,
+      "bottom": 656.5625
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/what-happens-inside-black-hole/"
+  }
+]

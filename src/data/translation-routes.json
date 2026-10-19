@@ -2101,6 +2101,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/isaac-newton-life-gravity-laws-motion/",
+    "path": "/ar/articles/isaac-newton-life-gravity-laws-motion/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/isaac-newton-life-gravity-laws-motion/",
+    "path": "/es/articles/isaac-newton-life-gravity-laws-motion/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/isaac-newton-life-gravity-laws-motion/",
+    "path": "/fr/articles/isaac-newton-life-gravity-laws-motion/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/japan-enters-ai-care-era/",
     "path": "/ar/articles/japan-enters-ai-care-era/"
   },
@@ -3811,6 +3826,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/stephen-hawking-black-holes-cosmology/",
+    "path": "/ar/articles/stephen-hawking-black-holes-cosmology/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/stephen-hawking-black-holes-cosmology/",
+    "path": "/es/articles/stephen-hawking-black-holes-cosmology/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/stephen-hawking-black-holes-cosmology/",
+    "path": "/fr/articles/stephen-hawking-black-holes-cosmology/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/sumerians-first-cities-cuneiform-civilization/",
     "path": "/ar/articles/sumerians-first-cities-cuneiform-civilization/"
   },
@@ -4078,6 +4108,21 @@
     "locale": "fr",
     "englishPath": "/articles/we-are-all-moroccans-jebel-irhoud/",
     "path": "/fr/articles/we-are-all-moroccans-jebel-irhoud/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/what-happens-inside-black-hole/",
+    "path": "/ar/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/what-happens-inside-black-hole/",
+    "path": "/es/articles/what-happens-inside-black-hole/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/what-happens-inside-black-hole/",
+    "path": "/fr/articles/what-happens-inside-black-hole/"
   },
   {
     "locale": "ar",

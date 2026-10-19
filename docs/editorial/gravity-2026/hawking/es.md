@@ -1,0 +1,63 @@
+Stephen Hawking hizo que los agujeros negros fueran menos simples y que resultara más difícil ignorar el universo. Parecían trampas definitivas de las que nada podía regresar. Sus cálculos indicaron que la física cuántica cambia la historia: un agujero negro debería tener temperatura y emitir radiación. La frontera de lo conocible se convirtió en un encuentro entre gravedad, calor e información.
+
+Su vida pública fue igualmente llamativa, pero no debe sustituir a su ciencia. La silla de ruedas y la voz sintetizada se volvieron símbolos universales. Detrás trabajaba un físico que colaboraba, discutía y revisaba ideas, apoyado por una extensa red de cuidados y tecnología. Comprenderlo exige atender tanto a las matemáticas como a las condiciones humanas que hicieron posible su carrera.
+
+## De Oxford a las preguntas sobre el comienzo
+
+Stephen William Hawking nació en Oxford el 8 de enero de 1942. Estudió ciencias naturales en University College y pasó a Cambridge en 1962 para investigar cosmología bajo la dirección de Dennis Sciama. Su supervisor lo vinculó con investigadores que estudiaban cómo la teoría de Einstein describía un universo cambiante. Completó el doctorado en Cambridge en 1966.
+
+La cosmología se convertía en una disciplina cada vez más limitada por la observación. La relatividad general explicaba la gravedad mediante la geometría del espacio-tiempo, pero admitía muchos universos matemáticos. Hawking preguntaba si ciertas características, incluida una ruptura de la descripción clásica en el pasado, surgían de principios generales y no de simetrías convenientes. Sus archivos conservan el trabajo paciente detrás de esas preguntas.
+
+## La ELA, la adaptación y el entorno del físico
+
+Hacia los 21 años recibió un diagnóstico de enfermedad de la neurona motora, descrita habitualmente en su caso como esclerosis lateral amiotrófica, o ELA. La enfermedad limitó progresivamente sus movimientos y después su habla. Su supervivencia excepcional no constituye un pronóstico típico para otras personas. Tampoco demuestra que la enfermedad produzca genialidad: reconocer la perseverancia no exige convertir el sufrimiento en un regalo.
+
+Familiares, asistentes, personal sanitario, colegas e ingenieros hicieron posible su actividad. Jane Wilde, con quien se casó en 1965 y tuvo tres hijos, desempeñó un papel fundamental en sus primeros años familiares y en los cuidados. Moverse, viajar, comunicarse y conseguir ayuda exigían tiempo y recursos. La imagen de una mente independiente del cuerpo oculta esas condiciones y las aportaciones de otras personas.
+
+## Qué establecieron los teoremas de singularidad
+
+Junto con Roger Penrose, Hawking mostró que las singularidades no eran simples defectos de modelos demasiado simétricos. Su artículo conjunto de 1970 estableció circunstancias en las que el espacio-tiempo clásico es geodésicamente incompleto: algunas trayectorias de caída libre no pueden prolongarse indefinidamente dentro de la descripción. Importan las hipótesis sobre gravedad, causalidad y regiones atrapadas. Un teorema condicionado no es una fotografía del primer instante.
+
+La singularidad señala aquí que la teoría clásica no proporciona una continuación completa. No confirma experimentalmente un punto de densidad literalmente infinita. Una teoría cuántica de la gravedad podría modificar esa descripción. Hawking contribuyó a localizar dónde una teoría extraordinariamente eficaz deja de bastar, sin presentar una explicación definitiva de lo que debe reemplazarla.
+
+## Agujeros negros, área y calor
+
+En relatividad general clásica y bajo ciertas condiciones, Hawking demostró que el área total de los horizontes no puede disminuir. Se parece al comportamiento de la entropía en termodinámica. Jacob Bekenstein tomó en serio esa semejanza y propuso una entropía de los agujeros negros relacionada con el área del horizonte. La idea cuestionaba su imagen como absorbentes fríos y sin estructura.
+
+El cálculo cuántico posterior de Hawking dio contenido físico a la conexión. Temperatura, entropía y gravedad dejaron de ser capítulos independientes. La entropía resultante es proporcional al área, no al volumen ordinario, una pista decisiva para la gravedad cuántica. El crecimiento clásico del área y la evaporación cuántica no son afirmaciones incompatibles bajo idénticas hipótesis: la segunda incorpora efectos ausentes en la primera.
+
+## Radiación de Hawking: una predicción
+
+En 1974 Hawking predijo que los campos cuánticos alrededor de un agujero negro producen un flujo térmico observable a gran distancia. En el caso sencillo sin rotación, la temperatura disminuye al aumentar la masa. Un agujero aislado que pierda más energía de la que absorbe perdería masa gradualmente. Para una masa solar, la temperatura calculada es de apenas sesenta milmillonésimas de kelvin, muy inferior al fondo cósmico de microondas actual.
+
+La imagen popular de pares de partículas que aparecen junto al horizonte puede servir como recordatorio, pero no es una derivación completa. El cálculo trata campos cuánticos en espacio-tiempo curvo. La radiación no es un mensaje que sale de un interior ya atrapado. No se ha detectado directamente en agujeros negros astrofísicos. Los experimentos análogos de laboratorio estudian matemáticas relacionadas en otros sistemas, sin observar la evaporación de un agujero negro real.
+
+## El problema de la información
+
+Si objetos distintos caen en un agujero negro que termina desapareciendo en radiación aparentemente térmica, ¿qué sucede con la información cuántica que los distinguía? La evolución cuántica habitual conserva la información en sentido técnico, aunque recuperarla resulte impracticable. El análisis de Hawking puso esa expectativa en tensión con la descripción semiclásica de los agujeros negros.
+
+Información significa aquí la especificación y las correlaciones de un estado físico, no una biblioteca de recuerdos legibles. Décadas de investigación han proporcionado argumentos sólidos a favor de su conservación en determinados marcos teóricos. No equivalen a una descripción experimentalmente establecida del interior de un agujero que se evapora. La paradoja sigue siendo fértil porque revela supuestos que requieren una explicación adicional.
+
+## ¿Un universo sin frontera inicial?
+
+En 1983 Hawking y James Hartle propusieron una descripción cuántica del universo conocida como propuesta sin frontera. En lugar de fijar un borde temporal inicial ordinario, buscaban una función de onda construida con geometrías adecuadamente regulares. Intentaban formular la cosmología cuánticamente, donde el tiempo quizá no pueda funcionar como un reloj externo familiar.
+
+Sigue siendo una propuesta, no una narración observada de la creación. Su interpretación y sus predicciones dependen de decisiones técnicas sometidas a investigación. No resuelve todas las preguntas sobre la existencia, ni la celebridad de su autor la convierte en la única explicación correcta. La audacia científica de Hawking se aprecia mejor manteniendo la distinción entre posibilidad matemática y descripción establecida.
+
+## Una voz construida mediante ingeniería
+
+Tras una enfermedad grave en 1985, una traqueotomía dejó a Hawking sin su voz natural. Los sistemas informáticos le permitieron seleccionar texto y reproducirlo mediante un sintetizador. Los dispositivos evolucionaron al reducirse su movilidad. Le daban control práctico sobre la comunicación, sin leer directamente sus pensamientos.
+
+El trabajo posterior de Intel en Assistive Context-Aware Toolkit, o ACAT, combinó interfaces accesibles con herramientas para construir y comunicar texto. La enseñanza supera una biografía: la participación intelectual depende también de entornos utilizables y tecnología adaptable. La voz conocida mundialmente tenía una función cotidiana esencial: permitir escribir, responder y conversar.
+
+## Breve historia del tiempo y el público
+
+Publicado en 1988, Breve historia del tiempo acercó cosmología, agujeros negros y naturaleza del tiempo a muchísimos lectores. Su éxito no significa que todos dominaran la relatividad. Demostró que las ideas difíciles podían despertar curiosidad pública. Hawking se convirtió en una figura cultural además de investigador, sin que popularidad y prueba científica sean equivalentes.
+
+El libro también ilustra los riesgos de simplificar. Una analogía abre una puerta, pero puede ocultar reservas técnicas. Las pruebas observacionales de la expansión, los resultados matemáticos de la relatividad y las propuestas de cosmología cuántica no tienen el mismo respaldo. Una narración puede reunirlos siempre que conserve esas diferencias.
+
+## Un legado de preguntas más precisas
+
+Hawking ocupó la cátedra lucasiana de Cambridge entre 1979 y 2009 y murió el 14 de marzo de 2018. Su influencia pertenece a una historia colectiva que incluye a Penrose, Sciama, Bekenstein, Hartle, George Ellis y generaciones de estudiantes. Su programa de investigación perdura porque conectó el comienzo del universo, el colapso estelar y la naturaleza de la información.
+
+La relación con Newton cuenta una transformación de preguntas, no una competición entre genios. Newton integró el movimiento celeste y terrestre en un sistema matemático. Hawking reveló límites de la gravedad clásica cuando intervienen efectos cuánticos. Nuestro artículo sobre el interior de los agujeros negros sigue esa frontera abierta. Su legado no volvió familiar al universo: mostró con singular claridad por qué continúa siendo extraño.

@@ -1,3 +1,4 @@
+import gravityHeroCaptions from "@/data/gravityHeroCaptions.json";
 import { BeeHeroCaption, BeeScientificImage } from "@/components/BeeEditorialMedia";
 import { DnaHeroCaption, DnaScientificImage } from "@/components/DnaEditorialMedia";
 import { BrainHeroCaption, BrainScientificImage } from "@/components/BrainEditorialMedia";
@@ -398,6 +399,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "our-universe-big-bang-end-of-time" && <UniverseHeroCaption locale={locale} />}
         {article.slug === "our-solar-system-sun-eight-planets-beyond" && <SolarHeroCaption locale={locale} />}
         {article.slug === "bacteria-good-bad-microbes-shape-our-lives" && <BacteriaHeroCaption locale={locale} />}
+        {article.slug in gravityHeroCaptions && <p data-gravity-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gravityHeroCaptions[article.slug as keyof typeof gravityHeroCaptions][locale]}</p>}
         {article.slug === "bee-colony-order-intelligence" && <BeeHeroCaption locale={locale} />}
         {article.slug === "human-dna-code-that-builds-us" && <DnaHeroCaption locale={locale} />}
         {article.slug === "human-brain-most-complex-organ" && <BrainHeroCaption locale={locale} />}
