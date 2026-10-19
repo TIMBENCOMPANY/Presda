@@ -1,0 +1,242 @@
+[
+  {
+    "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/museum/museum3.html",
+    "status": 403,
+    "final": "https://www.ucl.ac.uk/museums-static/digitalegypt/museum/museum3.html",
+    "bytes": 5751
+  },
+  {
+    "url": "https://static.perseus.tufts.edu/publications/Berti-Costa_Alexandria_Kentucky.pdf",
+    "status": 200,
+    "final": "https://static.perseus.tufts.edu/publications/Berti-Costa_Alexandria_Kentucky.pdf",
+    "bytes": 217435
+  },
+  {
+    "url": "https://www.aps.org/apsnews/2006/06/eratosthenes-measures-earth",
+    "status": 403,
+    "final": "https://www.aps.org/apsnews/2006/06/eratosthenes-measures-earth",
+    "bytes": 5669
+  },
+  {
+    "url": "https://www.bibalex.org/callima/en/About.aspx",
+    "status": 200,
+    "final": "https://www.bibalex.org/callima/en/About.aspx",
+    "bytes": 22154
+  },
+  {
+    "url": "https://archive.nyu.edu/handle/2451/28263",
+    "status": 200,
+    "final": "https://archive.nyu.edu/handle/2451/28263",
+    "bytes": 13026
+  },
+  {
+    "url": "https://www.open.edu/openlearn/history-the-arts/library-alexandria/content-section-3",
+    "status": 403,
+    "final": "https://www.open.edu/openlearn/history-the-arts/library-alexandria/content-section-3",
+    "bytes": 5816
+  },
+  {
+    "url": "https://www.sds.ox.ac.uk/oxyrhynchus-papyri",
+    "status": 200,
+    "final": "https://www.sds.ox.ac.uk/oxyrhynchus-papyri",
+    "bytes": 36732
+  },
+  {
+    "url": "https://www.bibalex.org/en/default?direct=true",
+    "status": 200,
+    "final": "https://www.bibalex.org/en/default?direct=true",
+    "bytes": 165053
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/14049516/",
+    "status": 203,
+    "final": "https://pubmed.ncbi.nlm.nih.gov/14049516/",
+    "bytes": 5590
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26168469/",
+    "status": 203,
+    "final": "https://pubmed.ncbi.nlm.nih.gov/26168469/",
+    "bytes": 5590
+  },
+  {
+    "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-lawsocsci-110316-113710",
+    "status": 403,
+    "final": "https://www.annualreviews.org/content/journals/10.1146/annurev-lawsocsci-110316-113710",
+    "bytes": 5761
+  },
+  {
+    "url": "https://doi.org/10.1037/h0093718",
+    "status": 200,
+    "final": "https://psycnet.apa.org/doiLanding?doi=10.1037/h0093718",
+    "bytes": 8161
+  },
+  {
+    "url": "https://www.apa.org/monitor/2009/03/milgram",
+    "status": 200,
+    "final": "https://www.apa.org/monitor/2009/03/milgram",
+    "bytes": 212
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40415529/",
+    "status": 203,
+    "final": "https://pubmed.ncbi.nlm.nih.gov/40415529/",
+    "bytes": 5590
+  },
+  {
+    "url": "https://doi.org/10.1037/a0010932",
+    "status": 200,
+    "final": "https://psycnet.apa.org/doiLanding?doi=10.1037/a0010932",
+    "bytes": 8161
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24570118/",
+    "status": 203,
+    "final": "https://pubmed.ncbi.nlm.nih.gov/24570118/",
+    "bytes": 5590
+  },
+  {
+    "url": "https://doi.org/10.1037/0033-2909.119.1.111",
+    "status": 200,
+    "final": "https://psycnet.apa.org/doiLanding?doi=10.1037/0033-2909.119.1.111",
+    "bytes": 8162
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31380664/",
+    "status": 203,
+    "final": "https://pubmed.ncbi.nlm.nih.gov/31380664/",
+    "bytes": 5590
+  },
+  {
+    "url": "https://oceanservice.noaa.gov/facts/biolum.html",
+    "status": 200,
+    "final": "https://oceanservice.noaa.gov/facts/biolum.html",
+    "bytes": 29414
+  },
+  {
+    "url": "https://sos.noaa.gov/education/phenomenon-based-learning/the-ocean-is-glowing/",
+    "status": 200,
+    "final": "https://sos.noaa.gov/education/phenomenon-based-learning/the-ocean-is-glowing/",
+    "bytes": 23678
+  },
+  {
+    "url": "https://www.weather.gov/abq/features_acsl",
+    "status": 200,
+    "final": "https://www.weather.gov/abq/features_acsl",
+    "bytes": 56069
+  },
+  {
+    "url": "https://www.weather.gov/otx/Strange_Rainbow_Over_the_Spokane_Post_Falls_Area-June32006",
+    "status": 200,
+    "final": "https://www.weather.gov/otx/Strange_Rainbow_Over_the_Spokane_Post_Falls_Area-June32006",
+    "bytes": 50080
+  },
+  {
+    "url": "https://volcanoes.usgs.gov/volcanic_ash/lightning.html",
+    "status": 200,
+    "final": "https://volcanoes.usgs.gov/volcanic_ash/lightning.html",
+    "bytes": 15031
+  },
+  {
+    "url": "https://www.nasa.gov/missions/aim/meteor-smoke-makes-strange-clouds/",
+    "status": 200,
+    "final": "https://www.nasa.gov/missions/aim/meteor-smoke-makes-strange-clouds/",
+    "bytes": 275978
+  },
+  {
+    "url": "https://www.weather.gov/arx/why_halos_sundogs_pillars",
+    "status": 200,
+    "final": "https://www.weather.gov/arx/why_halos_sundogs_pillars",
+    "bytes": 56743
+  },
+  {
+    "url": "https://umbra.nascom.nasa.gov/spd/sprites.html",
+    "status": 200,
+    "final": "https://umbra.nascom.nasa.gov/spd/sprites.html",
+    "bytes": 6445
+  },
+  {
+    "url": "https://science.nasa.gov/missions/aim/nasa-noctilucent-clouds/",
+    "status": 200,
+    "final": "https://science.nasa.gov/missions/aim/nasa-noctilucent-clouds/",
+    "bytes": 279516
+  },
+  {
+    "url": "https://hub.jhu.edu/2023/06/26/blood-falls-mystery/",
+    "status": 403,
+    "final": "https://hub.jhu.edu/2023/06/26/blood-falls-mystery/",
+    "bytes": 5509
+  },
+  {
+    "url": "https://media.bom.gov.au/social/blog/2272/whats-the-science-behind-these-spectacular-weather-photos/-8023-42d2-b941-3ca967ae9f14",
+    "status": 200,
+    "final": "https://media.bom.gov.au/social/blog/2272/whats-the-science-behind-these-spectacular-weather-photos/-8023-42d2-b941-3ca967ae9f14",
+    "bytes": 32603
+  },
+  {
+    "url": "https://physics.aps.org/articles/v7/5",
+    "status": 403,
+    "final": "https://physics.aps.org/articles/v7/5",
+    "bytes": 5562
+  },
+  {
+    "url": "https://science.nasa.gov/earth/earth-observatory/satellites-size-up-bubbles-of-methane-in-lake-ice-146940/",
+    "status": 200,
+    "final": "https://science.nasa.gov/earth/earth-observatory/satellites-size-up-bubbles-of-methane-in-lake-ice-146940/",
+    "bytes": 312673
+  },
+  {
+    "url": "https://www.nasa.gov/science-research/heliophysics/mystery-of-purple-lights-in-sky-solved-with-help-from-citizen-scientists/",
+    "status": 200,
+    "final": "https://www.nasa.gov/science-research/heliophysics/mystery-of-purple-lights-in-sky-solved-with-help-from-citizen-scientists/",
+    "bytes": 283865
+  },
+  {
+    "url": "https://glossary.ametsoc.org/wiki/green-flash/",
+    "status": 403,
+    "final": "https://glossary.ametsoc.org/wiki/green-flash/",
+    "bytes": 21
+  },
+  {
+    "url": "https://arxiv.org/abs/1511.01725",
+    "status": 200,
+    "final": "https://arxiv.org/abs/1511.01725",
+    "bytes": 41978
+  },
+  {
+    "url": "https://www.nps.gov/deva/planyourvisit/the-racetrack.htm",
+    "status": 200,
+    "final": "https://www.nps.gov/deva/planyourvisit/the-racetrack.htm",
+    "bytes": 47945
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23551166/",
+    "status": 203,
+    "final": "https://pubmed.ncbi.nlm.nih.gov/23551166/",
+    "bytes": 5590
+  },
+  {
+    "url": "https://arxiv.org/abs/1510.06505",
+    "status": 200,
+    "final": "https://arxiv.org/abs/1510.06505",
+    "bytes": 41959
+  },
+  {
+    "url": "https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/",
+    "status": 200,
+    "final": "https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/",
+    "bytes": 275584
+  },
+  {
+    "url": "https://www.weather.gov/owlie/weird-weather",
+    "status": 200,
+    "final": "https://www.weather.gov/owlie/weird-weather",
+    "bytes": 57897
+  },
+  {
+    "url": "https://weather.metoffice.gov.uk/learn-about/weather/optical-effects",
+    "status": 200,
+    "final": "https://weather.metoffice.gov.uk/learn-about/weather/optical-effects",
+    "bytes": 99382
+  }
+]

@@ -1,0 +1,1190 @@
+[
+  {
+    "route": "/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 1366,
+    "height": 768,
+    "images": 0,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 329.328125,
+      "width": 504.515625,
+      "height": 212.4375,
+      "bottom": 541.765625,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 873
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 1920,
+    "height": 1080,
+    "images": 0,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 403.515625,
+      "width": 583.671875,
+      "height": 245.75,
+      "bottom": 649.265625,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 1067
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 390,
+    "height": 844,
+    "images": 0,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 599.8125,
+      "bottom": 725.3125,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 141.5,
+      "bottom": 544.75,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 689.3125,
+      "width": 324,
+      "height": 15,
+      "bottom": 704.3125,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/fr/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 1366,
+    "height": 768,
+    "images": 0,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 382.4375,
+      "width": 504.515625,
+      "height": 159.328125,
+      "bottom": 541.765625,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 873
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/fr/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 1920,
+    "height": 1080,
+    "images": 0,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 464.953125,
+      "width": 583.671875,
+      "height": 184.3125,
+      "bottom": 649.265625,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 1067
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/fr/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 390,
+    "height": 844,
+    "images": 0,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 587.4375,
+      "bottom": 712.9375,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 106.125,
+      "bottom": 509.375,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 653.9375,
+      "width": 324,
+      "height": 38,
+      "bottom": 691.9375,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/ar/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 1366,
+    "height": 768,
+    "images": 0,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 438.5625,
+      "width": 504.515625,
+      "height": 132.78125,
+      "bottom": 571.34375,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 388.03125,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 461.03125
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/ar/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 1920,
+    "height": 1080,
+    "images": 0,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 525.25,
+      "width": 583.671875,
+      "height": 153.59375,
+      "bottom": 678.84375,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 388.03125,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 655.03125
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/ar/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 390,
+    "height": 844,
+    "images": 0,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 533.796875,
+      "bottom": 659.296875,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 78.625,
+      "bottom": 481.875,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 600.296875,
+      "width": 324,
+      "height": 38,
+      "bottom": 638.296875,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/es/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 1366,
+    "height": 768,
+    "images": 0,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 382.4375,
+      "width": 504.515625,
+      "height": 159.328125,
+      "bottom": 541.765625,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 873
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/es/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 1920,
+    "height": 1080,
+    "images": 0,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 464.953125,
+      "width": 583.671875,
+      "height": 184.3125,
+      "bottom": 649.265625,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 1067
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/es/articles/lost-library-alexandria-knowledge-vanished/",
+    "width": 390,
+    "height": 844,
+    "images": 0,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 587.4375,
+      "bottom": 712.9375,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 106.125,
+      "bottom": 509.375,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 653.9375,
+      "width": 324,
+      "height": 38,
+      "bottom": 691.9375,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "route": "/articles/anatomy-power-why-people-obey-authority/",
+    "width": 1366,
+    "height": 768,
+    "images": 0,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 382.4375,
+      "width": 504.515625,
+      "height": 159.328125,
+      "bottom": 541.765625,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 873
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/articles/anatomy-power-why-people-obey-authority/",
+    "width": 1920,
+    "height": 1080,
+    "images": 0,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 464.953125,
+      "width": 583.671875,
+      "height": 184.3125,
+      "bottom": 649.265625,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 1067
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/articles/anatomy-power-why-people-obey-authority/",
+    "width": 390,
+    "height": 844,
+    "images": 0,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 564.4375,
+      "bottom": 689.9375,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 106.125,
+      "bottom": 509.375,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 653.9375,
+      "width": 324,
+      "height": 15,
+      "bottom": 668.9375,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/fr/articles/anatomy-power-why-people-obey-authority/",
+    "width": 1366,
+    "height": 768,
+    "images": 0,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 382.4375,
+      "width": 504.515625,
+      "height": 159.328125,
+      "bottom": 541.765625,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 873
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/fr/articles/anatomy-power-why-people-obey-authority/",
+    "width": 1920,
+    "height": 1080,
+    "images": 0,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 464.953125,
+      "width": 583.671875,
+      "height": 184.3125,
+      "bottom": 649.265625,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 1067
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/fr/articles/anatomy-power-why-people-obey-authority/",
+    "width": 390,
+    "height": 844,
+    "images": 0,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 587.4375,
+      "bottom": 712.9375,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 106.125,
+      "bottom": 509.375,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 653.9375,
+      "width": 324,
+      "height": 38,
+      "bottom": 691.9375,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/ar/articles/anatomy-power-why-people-obey-authority/",
+    "width": 1366,
+    "height": 768,
+    "images": 0,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 438.5625,
+      "width": 504.515625,
+      "height": 132.78125,
+      "bottom": 571.34375,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 388.03125,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 461.03125
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/ar/articles/anatomy-power-why-people-obey-authority/",
+    "width": 1920,
+    "height": 1080,
+    "images": 0,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 525.25,
+      "width": 583.671875,
+      "height": 153.59375,
+      "bottom": 678.84375,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 388.03125,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 655.03125
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/ar/articles/anatomy-power-why-people-obey-authority/",
+    "width": 390,
+    "height": 844,
+    "images": 0,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 533.796875,
+      "bottom": 659.296875,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 78.625,
+      "bottom": 481.875,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 600.296875,
+      "width": 324,
+      "height": 38,
+      "bottom": 638.296875,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/es/articles/anatomy-power-why-people-obey-authority/",
+    "width": 1366,
+    "height": 768,
+    "images": 0,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 329.328125,
+      "width": 504.515625,
+      "height": 212.4375,
+      "bottom": 541.765625,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 873
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/es/articles/anatomy-power-why-people-obey-authority/",
+    "width": 1920,
+    "height": 1080,
+    "images": 0,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 403.515625,
+      "width": 583.671875,
+      "height": 245.75,
+      "bottom": 649.265625,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 1067
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/es/articles/anatomy-power-why-people-obey-authority/",
+    "width": 390,
+    "height": 844,
+    "images": 0,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 587.4375,
+      "bottom": 712.9375,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 106.125,
+      "bottom": 509.375,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 653.9375,
+      "width": 324,
+      "height": 38,
+      "bottom": 691.9375,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "route": "/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 1366,
+    "height": 768,
+    "images": 20,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 382.4375,
+      "width": 504.515625,
+      "height": 159.328125,
+      "bottom": 541.765625,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 873
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 1920,
+    "height": 1080,
+    "images": 20,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 464.953125,
+      "width": 583.671875,
+      "height": 184.3125,
+      "bottom": 649.265625,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 1067
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 390,
+    "height": 844,
+    "images": 20,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 564.4375,
+      "bottom": 689.9375,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 106.125,
+      "bottom": 509.375,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 653.9375,
+      "width": 324,
+      "height": 15,
+      "bottom": 668.9375,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/fr/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 1366,
+    "height": 768,
+    "images": 20,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 382.4375,
+      "width": 504.515625,
+      "height": 159.328125,
+      "bottom": 541.765625,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 873
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/fr/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 1920,
+    "height": 1080,
+    "images": 20,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 464.953125,
+      "width": 583.671875,
+      "height": 184.3125,
+      "bottom": 649.265625,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 1067
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/fr/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 390,
+    "height": 844,
+    "images": 20,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 587.4375,
+      "bottom": 712.9375,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 106.125,
+      "bottom": 509.375,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 653.9375,
+      "width": 324,
+      "height": 38,
+      "bottom": 691.9375,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/fr/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/ar/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 1366,
+    "height": 768,
+    "images": 20,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 438.5625,
+      "width": 504.515625,
+      "height": 132.78125,
+      "bottom": 571.34375,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 393.78125,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 466.78125
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/ar/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 1920,
+    "height": 1080,
+    "images": 20,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 525.25,
+      "width": 583.671875,
+      "height": 153.59375,
+      "bottom": 678.84375,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 393.78125,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 660.78125
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/ar/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 390,
+    "height": 844,
+    "images": 20,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 468.34375,
+      "bottom": 593.84375,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 39.3125,
+      "bottom": 442.5625,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 534.84375,
+      "width": 324,
+      "height": 38,
+      "bottom": 572.84375,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "rtl",
+    "canonical": "https://presda.com/ar/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/es/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 1366,
+    "height": 768,
+    "images": 20,
+    "hero": {
+      "x": 16,
+      "y": 137.5,
+      "width": 1334,
+      "height": 614.5,
+      "bottom": 752,
+      "right": 1350
+    },
+    "title": {
+      "x": 73,
+      "y": 382.4375,
+      "width": 504.515625,
+      "height": 159.328125,
+      "bottom": 541.765625,
+      "right": 577.515625
+    },
+    "meta": {
+      "x": 73,
+      "y": 678.5,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 695,
+      "right": 873
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/es/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 1920,
+    "height": 1080,
+    "images": 20,
+    "hero": {
+      "x": 210,
+      "y": 137.5,
+      "width": 1500,
+      "height": 722,
+      "bottom": 859.5,
+      "right": 1710
+    },
+    "title": {
+      "x": 267,
+      "y": 464.953125,
+      "width": 583.671875,
+      "height": 184.3125,
+      "bottom": 649.265625,
+      "right": 850.671875
+    },
+    "meta": {
+      "x": 267,
+      "y": 786,
+      "width": 800,
+      "height": 16.5,
+      "bottom": 802.5,
+      "right": 1067
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "route": "/es/articles/20-rare-natural-phenomena-seem-impossible/",
+    "width": 390,
+    "height": 844,
+    "images": 20,
+    "hero": {
+      "x": 12,
+      "y": 125.5,
+      "width": 366,
+      "height": 587.4375,
+      "bottom": 712.9375,
+      "right": 378
+    },
+    "title": {
+      "x": 33,
+      "y": 403.25,
+      "width": 324,
+      "height": 106.125,
+      "bottom": 509.375,
+      "right": 357
+    },
+    "meta": {
+      "x": 33,
+      "y": 653.9375,
+      "width": 324,
+      "height": 38,
+      "bottom": 691.9375,
+      "right": 357
+    },
+    "overflow": false,
+    "dir": "ltr",
+    "canonical": "https://presda.com/es/articles/20-rare-natural-phenomena-seem-impossible/"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "route": "/articles/lost-library-alexandria-knowledge-vanished/",
+    "status": 200,
+    "canonical": "https://presda.com/articles/lost-library-alexandria-knowledge-vanished/",
+    "figures": 0
+  },
+  {
+    "route": "/fr/articles/lost-library-alexandria-knowledge-vanished/",
+    "status": 200,
+    "canonical": "https://presda.com/fr/articles/lost-library-alexandria-knowledge-vanished/",
+    "figures": 0
+  },
+  {
+    "route": "/ar/articles/lost-library-alexandria-knowledge-vanished/",
+    "status": 200,
+    "canonical": "https://presda.com/ar/articles/lost-library-alexandria-knowledge-vanished/",
+    "figures": 0
+  },
+  {
+    "route": "/es/articles/lost-library-alexandria-knowledge-vanished/",
+    "status": 200,
+    "canonical": "https://presda.com/es/articles/lost-library-alexandria-knowledge-vanished/",
+    "figures": 0
+  },
+  {
+    "route": "/articles/anatomy-power-why-people-obey-authority/",
+    "status": 200,
+    "canonical": "https://presda.com/articles/anatomy-power-why-people-obey-authority/",
+    "figures": 0
+  },
+  {
+    "route": "/fr/articles/anatomy-power-why-people-obey-authority/",
+    "status": 200,
+    "canonical": "https://presda.com/fr/articles/anatomy-power-why-people-obey-authority/",
+    "figures": 0
+  },
+  {
+    "route": "/ar/articles/anatomy-power-why-people-obey-authority/",
+    "status": 200,
+    "canonical": "https://presda.com/ar/articles/anatomy-power-why-people-obey-authority/",
+    "figures": 0
+  },
+  {
+    "route": "/es/articles/anatomy-power-why-people-obey-authority/",
+    "status": 200,
+    "canonical": "https://presda.com/es/articles/anatomy-power-why-people-obey-authority/",
+    "figures": 0
+  },
+  {
+    "route": "/articles/20-rare-natural-phenomena-seem-impossible/",
+    "status": 200,
+    "canonical": "https://presda.com/articles/20-rare-natural-phenomena-seem-impossible/",
+    "figures": 20
+  },
+  {
+    "route": "/fr/articles/20-rare-natural-phenomena-seem-impossible/",
+    "status": 200,
+    "canonical": "https://presda.com/fr/articles/20-rare-natural-phenomena-seem-impossible/",
+    "figures": 20
+  },
+  {
+    "route": "/ar/articles/20-rare-natural-phenomena-seem-impossible/",
+    "status": 200,
+    "canonical": "https://presda.com/ar/articles/20-rare-natural-phenomena-seem-impossible/",
+    "figures": 20
+  },
+  {
+    "route": "/es/articles/20-rare-natural-phenomena-seem-impossible/",
+    "status": 200,
+    "canonical": "https://presda.com/es/articles/20-rare-natural-phenomena-seem-impossible/",
+    "figures": 20
+  }
+]

@@ -61,6 +61,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/20-rare-natural-phenomena-seem-impossible/",
+    "path": "/ar/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/20-rare-natural-phenomena-seem-impossible/",
+    "path": "/es/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/20-rare-natural-phenomena-seem-impossible/",
+    "path": "/fr/articles/20-rare-natural-phenomena-seem-impossible/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/50-years-cancer-survival-progress-hardest-cancers/",
     "path": "/ar/articles/50-years-cancer-survival-progress-hardest-cancers/"
   },
@@ -178,6 +193,21 @@
     "locale": "fr",
     "englishPath": "/articles/amazigh-imazighen-north-africa-history/",
     "path": "/fr/articles/amazigh-imazighen-north-africa-history/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/anatomy-power-why-people-obey-authority/",
+    "path": "/ar/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/anatomy-power-why-people-obey-authority/",
+    "path": "/es/articles/anatomy-power-why-people-obey-authority/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/anatomy-power-why-people-obey-authority/",
+    "path": "/fr/articles/anatomy-power-why-people-obey-authority/"
   },
   {
     "locale": "ar",
@@ -2518,6 +2548,21 @@
     "locale": "fr",
     "englishPath": "/articles/lonely-genius-great-minds-solitude-creativity/",
     "path": "/fr/articles/lonely-genius-great-minds-solitude-creativity/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/lost-library-alexandria-knowledge-vanished/",
+    "path": "/ar/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/lost-library-alexandria-knowledge-vanished/",
+    "path": "/es/articles/lost-library-alexandria-knowledge-vanished/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/lost-library-alexandria-knowledge-vanished/",
+    "path": "/fr/articles/lost-library-alexandria-knowledge-vanished/"
   },
   {
     "locale": "ar",

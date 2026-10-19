@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-19",
+  "articles": [
+    {
+      "slug": "lost-library-alexandria-knowledge-vanished",
+      "category": "World",
+      "englishWords": 1542,
+      "sourceCount": 8,
+      "heroSha256": "62bca716b5344fe36bc5ee13fbd41e5cac63ee5520065d9a446b5dae0e37bc95",
+      "routes": [
+        "https://presda.com/articles/lost-library-alexandria-knowledge-vanished/",
+        "https://presda.com/fr/articles/lost-library-alexandria-knowledge-vanished/",
+        "https://presda.com/ar/articles/lost-library-alexandria-knowledge-vanished/",
+        "https://presda.com/es/articles/lost-library-alexandria-knowledge-vanished/"
+      ]
+    },
+    {
+      "slug": "anatomy-power-why-people-obey-authority",
+      "category": "Lifestyle",
+      "englishWords": 1624,
+      "sourceCount": 10,
+      "heroSha256": "cf1ce5a89a0a2f1d82be77000c022c5d7d1787bd84e2f2761766e8a712b79d24",
+      "routes": [
+        "https://presda.com/articles/anatomy-power-why-people-obey-authority/",
+        "https://presda.com/fr/articles/anatomy-power-why-people-obey-authority/",
+        "https://presda.com/ar/articles/anatomy-power-why-people-obey-authority/",
+        "https://presda.com/es/articles/anatomy-power-why-people-obey-authority/"
+      ]
+    },
+    {
+      "slug": "20-rare-natural-phenomena-seem-impossible",
+      "category": "Science",
+      "englishWords": 2563,
+      "sourceCount": 22,
+      "heroSha256": "fb96098266c4cdba198dad4b0580ec125d83f11fe81857e4822b065b7f5aa11a",
+      "routes": [
+        "https://presda.com/articles/20-rare-natural-phenomena-seem-impossible/",
+        "https://presda.com/fr/articles/20-rare-natural-phenomena-seem-impossible/",
+        "https://presda.com/ar/articles/20-rare-natural-phenomena-seem-impossible/",
+        "https://presda.com/es/articles/20-rare-natural-phenomena-seem-impossible/"
+      ]
+    }
+  ],
+  "images": {
+    "count": 20,
+    "photographic": 18,
+    "historicalDepictions": 1,
+    "explanatoryDiagrams": 1,
+    "licenses": "Recorded per image in image-rights.json",
+    "review": "All twenty compositions visually inspected; original creators credited; responsive variants retain full composition and applicable ShareAlike terms."
+  },
+  "sourceReview": {
+    "method": "Institutional sources, original studies and scholarly syntheses; sources cited beside claims; limits and contested interpretations stated.",
+    "httpChecks": "source-http-checks.json",
+    "limitations": "Some academic hosts return automation denials. Those sources were reviewed through accessible institutional pages or indexed research records; denials are not reported as broken links."
+  },
+  "editorialChecks": [
+    "No em dashes in new editorial content",
+    "Four-language block and citation parity",
+    "Alexandria destruction legends distinguished from secure evidence",
+    "Milgram percentages limited to their experimental conditions",
+    "Burger partial replication distinguished from a 450-volt experiment",
+    "Ball-lightning uncertainty and two nonphotographic images clearly labeled",
+    "Hero illustrations distinguished from documentary evidence"
+  ],
+  "technicalChecks": [
+    "Next.js production build passed with local-only Windows filesystem compatibility fallback",
+    "TypeScript and headline checks passed",
+    "Full translation-library and reading-time checks passed",
+    "Twelve page metadata and visible-localization checks passed",
+    "Final run passed: 36 viewport/locale checks, 12 metadata/localization checks, exact image-license schema and all 20 image compositions."
+  ],
+  "scope": "Three new articles and nine translations; existing 292 articles and unrelated untracked files preserved."
+}

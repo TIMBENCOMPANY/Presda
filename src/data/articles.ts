@@ -1,3 +1,4 @@
+import { premiumBatch2026Articles } from "@/data/premiumBatch2026Articles";
 import { blackhole2026Article } from "@/data/blackhole2026Article";
 import { hawking2026Article } from "@/data/hawking2026Article";
 import { newton2026Article } from "@/data/newton2026Article";
@@ -196,6 +197,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  ...premiumBatch2026Articles,
   teslaArticle,
   photographyArticle,
   felicetteArticle,

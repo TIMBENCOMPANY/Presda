@@ -1,0 +1,128 @@
+{
+  "alexandria": {
+    "id": "294",
+    "slug": "lost-library-alexandria-knowledge-vanished",
+    "category": "World",
+    "asset": "Alexandria",
+    "data": {
+      "en": [
+        "The Lost Library of Alexandria: The Knowledge That Vanished",
+        "Library of Alexandria: History, Lost Books and Myths",
+        "Explore Alexandria’s library, its scholars and lost texts. Separate evidence from myths about Caesar, the Serapeum and its destruction.",
+        "Alexandria",
+        "Knowledge"
+      ],
+      "fr": [
+        "La bibliothèque perdue d’Alexandrie : le savoir disparu",
+        "Bibliothèque d’Alexandrie : histoire, pertes et mythes",
+        "Origines, savants et manuscrits perdus : distinguez les sources des légendes sur César, le Sérapéum et la fin de la bibliothèque.",
+        "Alexandrie",
+        "savoir"
+      ],
+      "es": [
+        "La biblioteca perdida de Alejandría: el saber que desapareció",
+        "Biblioteca de Alejandría: historia, pérdidas y mitos",
+        "Descubre sus orígenes, estudiosos y textos perdidos. Separa las pruebas de los mitos sobre César, el Serapeo y su destrucción.",
+        "Alejandría",
+        "saber"
+      ],
+      "ar": [
+        "مكتبة الإسكندرية المفقودة: المعرفة التي اختفت",
+        "مكتبة الإسكندرية: تاريخها والكتب المفقودة وأساطير الحريق",
+        "تعرف إلى أصول مكتبة الإسكندرية وعلمائها ونصوصها المفقودة، وافصل الأدلة عن أساطير قيصر والسيرابيوم ونهاية المكتبة.",
+        "الإسكندرية",
+        "المعرفة"
+      ]
+    },
+    "hero": {
+      "en": "Approved editorial reconstruction of a library fire in ancient Alexandria. The architecture and scene are illustrative, not an authenticated reconstruction of a documented single destruction.",
+      "fr": "Reconstitution éditoriale approuvée d’un incendie à Alexandrie. Architecture et scène illustratives, sans restitution certifiée d’une destruction unique.",
+      "es": "Recreación editorial aprobada de un incendio en Alejandría. Escena y arquitectura ilustrativas, no reconstrucción certificada de una destrucción única.",
+      "ar": "إعادة تصور تحريرية معتمدة لحريق في الإسكندرية القديمة. العمارة والمشهد توضيحيان، وليسا إعادة بناء موثقة لحادثة تدمير واحدة."
+    }
+  },
+  "authority": {
+    "id": "295",
+    "slug": "anatomy-power-why-people-obey-authority",
+    "category": "Lifestyle",
+    "asset": "Sunlit",
+    "data": {
+      "en": [
+        "The Anatomy of Power: Why Do People Obey Authority?",
+        "Why People Obey Authority: Milgram, Conformity and Power",
+        "Understand obedience, Milgram’s experiments, conformity, manipulation and resistance, with scientific evidence and the limits of famous studies.",
+        "Power",
+        "Authority"
+      ],
+      "fr": [
+        "L’anatomie du pouvoir : pourquoi obéit-on à l’autorité ?",
+        "Pourquoi obéit-on ? Milgram, conformisme et autorité",
+        "Obéissance, expériences de Milgram, conformisme, manipulation et résistance : ce que montrent les recherches et leurs limites.",
+        "pouvoir",
+        "autorité"
+      ],
+      "es": [
+        "La anatomía del poder: ¿por qué obedecemos a la autoridad?",
+        "Por qué obedecemos: Milgram, conformidad y autoridad",
+        "Explora obediencia, Milgram, conformidad, manipulación y resistencia con pruebas científicas y límites de los experimentos célebres.",
+        "poder",
+        "autoridad"
+      ],
+      "ar": [
+        "تشريح السلطة: لماذا يطيع الناس أصحاب النفوذ؟",
+        "لماذا نطيع السلطة؟ ميلغرام والمسايرة والمقاومة",
+        "استكشف علم نفس الطاعة وتجارب ميلغرام والمسايرة والتلاعب والسلطوية والمقاومة، مع الأدلة العلمية وحدود تفسير الدراسات الشهيرة.",
+        "السلطة",
+        "النفوذ"
+      ]
+    },
+    "hero": {
+      "en": "Approved editorial illustration of an imagined Roman assembly. Symbolic imagery for authority, not a photograph or a reconstruction of Milgram’s laboratory.",
+      "fr": "Illustration éditoriale approuvée d’une assemblée romaine imaginée. Évocation symbolique de l’autorité, pas photographie ni reconstitution du laboratoire de Milgram.",
+      "es": "Ilustración editorial aprobada de una asamblea romana imaginada. Imagen simbólica de autoridad, no fotografía ni recreación del laboratorio de Milgram.",
+      "ar": "رسم تحريري معتمد لمجلس روماني متخيل، يرمز للسلطة. ليس صورة فوتوغرافية ولا إعادة بناء لمختبر ميلغرام."
+    }
+  },
+  "phenomena": {
+    "id": "296",
+    "slug": "20-rare-natural-phenomena-seem-impossible",
+    "category": "Science",
+    "asset": "Bioluminescent",
+    "data": {
+      "en": [
+        "20 Rare Natural Phenomena That Seem Impossible",
+        "20 Rare Natural Phenomena Explained With Scientific Evidence",
+        "Discover 20 extraordinary natural phenomena, their science, documented locations and licensed images, from red sprites to Catatumbo lightning.",
+        "Natural Phenomena",
+        "Impossible"
+      ],
+      "fr": [
+        "20 phénomènes naturels rares qui semblent impossibles",
+        "20 phénomènes naturels rares expliqués par la science",
+        "Découvrez vingt phénomènes extraordinaires, leurs mécanismes, lieux documentés et images sous licence, des sylphes au Catatumbo.",
+        "phénomènes naturels",
+        "impossibles"
+      ],
+      "es": [
+        "20 fenómenos naturales raros que parecen imposibles",
+        "20 fenómenos naturales raros explicados por la ciencia",
+        "Explora veinte fenómenos extraordinarios con explicaciones, lugares documentados e imágenes con licencia, desde sprites hasta el Catatumbo.",
+        "fenómenos naturales",
+        "imposibles"
+      ],
+      "ar": [
+        "20 ظاهرة طبيعية نادرة تبدو مستحيلة",
+        "20 ظاهرة طبيعية نادرة يفسرها العلم بالصور",
+        "اكتشف عشرين ظاهرة مذهلة مع تفسير علمي وأماكن موثقة وصور مرخصة، من العفاريت الحمراء إلى برق كاتاتومبو.",
+        "طبيعية",
+        "مستحيلة"
+      ]
+    },
+    "hero": {
+      "en": "Approved editorial illustration combining luminous surf and auroral scenery. Not a documentary photograph of a verified simultaneous event.",
+      "fr": "Illustration éditoriale approuvée associant vagues lumineuses et aurore. Pas une photographie documentaire d’un événement simultané vérifié.",
+      "es": "Ilustración editorial aprobada que combina olas luminosas y aurora. No es fotografía documental de un acontecimiento simultáneo verificado.",
+      "ar": "رسم تحريري معتمد يجمع أمواجاً متلألئة ومشهداً للشفق، وليس توثيقاً فوتوغرافياً لاجتماعهما في حدث مثبت."
+    }
+  }
+}

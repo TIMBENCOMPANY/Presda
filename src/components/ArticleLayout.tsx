@@ -1,4 +1,6 @@
 import gravityHeroCaptions from "@/data/gravityHeroCaptions.json";
+import premiumBatchHeroCaptions from "@/data/premiumBatchHeroCaptions.json";
+import { Phenomena2026Image } from "@/components/Phenomena2026Image";
 import { BeeHeroCaption, BeeScientificImage } from "@/components/BeeEditorialMedia";
 import { DnaHeroCaption, DnaScientificImage } from "@/components/DnaEditorialMedia";
 import { BrainHeroCaption, BrainScientificImage } from "@/components/BrainEditorialMedia";
@@ -400,6 +402,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug === "our-solar-system-sun-eight-planets-beyond" && <SolarHeroCaption locale={locale} />}
         {article.slug === "bacteria-good-bad-microbes-shape-our-lives" && <BacteriaHeroCaption locale={locale} />}
         {article.slug in gravityHeroCaptions && <p data-gravity-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gravityHeroCaptions[article.slug as keyof typeof gravityHeroCaptions][locale]}</p>}
+        {article.slug in premiumBatchHeroCaptions && <p data-premium-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{premiumBatchHeroCaptions[article.slug as keyof typeof premiumBatchHeroCaptions][locale]}</p>}
         {article.slug === "bee-colony-order-intelligence" && <BeeHeroCaption locale={locale} />}
         {article.slug === "human-dna-code-that-builds-us" && <DnaHeroCaption locale={locale} />}
         {article.slug === "human-brain-most-complex-organ" && <BrainHeroCaption locale={locale} />}
@@ -616,6 +619,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
               if (article.slug === "graffiti-city-walls-canvases" && graffitiImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><GraffitiHistoricalImage id={graffitiImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "our-universe-big-bang-end-of-time" && universeImageAtBlock[originalIndex]) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><UniverseHistoricalImage id={universeImageAtBlock[originalIndex]} locale={locale} /></div>;
               if (article.slug === "our-solar-system-sun-eight-planets-beyond" && (solarImageAtBlock[originalIndex] || originalIndex === 12)) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} />{originalIndex === 12 && <SolarSystemTable locale={locale} />}<SolarHistoricalImage id={solarImageAtBlock[originalIndex]} locale={locale} /></div>;
+              if (article.slug === "20-rare-natural-phenomena-seem-impossible" && originalIndex >= 4 && originalIndex <= 61 && (originalIndex - 4) % 3 === 0) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><Phenomena2026Image number={(originalIndex - 4) / 3 + 1} locale={locale} /></div>;
               if (article.slug === "bee-colony-order-intelligence" && [7, 37].includes(originalIndex)) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BeeScientificImage index={originalIndex} locale={locale} /></div>;
               if (article.slug === "human-dna-code-that-builds-us" && [4, 17].includes(originalIndex)) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><DnaScientificImage index={originalIndex} locale={locale} /></div>;
               if (article.slug === "human-brain-most-complex-organ" && [11, 44].includes(originalIndex)) return <div key={originalIndex}><ArticleContentBlock block={block} index={originalIndex} locale={locale} /><BrainScientificImage index={originalIndex} locale={locale} /></div>;
