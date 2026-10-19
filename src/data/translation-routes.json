@@ -1381,6 +1381,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/extinct-animals-lost-creatures-planet/",
+    "path": "/ar/articles/extinct-animals-lost-creatures-planet/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/extinct-animals-lost-creatures-planet/",
+    "path": "/es/articles/extinct-animals-lost-creatures-planet/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/extinct-animals-lost-creatures-planet/",
+    "path": "/fr/articles/extinct-animals-lost-creatures-planet/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/felicette-french-cat-space-tragic-end/",
     "path": "/ar/articles/felicette-french-cat-space-tragic-end/"
   },
@@ -3913,6 +3928,21 @@
     "locale": "fr",
     "englishPath": "/articles/swedish-empire-great-european-power-history/",
     "path": "/fr/articles/swedish-empire-great-european-power-history/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/tartaria-lost-empire-history-conspiracy/",
+    "path": "/ar/articles/tartaria-lost-empire-history-conspiracy/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/tartaria-lost-empire-history-conspiracy/",
+    "path": "/es/articles/tartaria-lost-empire-history-conspiracy/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/tartaria-lost-empire-history-conspiracy/",
+    "path": "/fr/articles/tartaria-lost-empire-history-conspiracy/"
   },
   {
     "locale": "ar",

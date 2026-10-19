@@ -1,0 +1,1600 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 7.0609713,
+      "title": "Tracking “Tartary” on Western Maps",
+      "url": "https://blogs.loc.gov/maps/2025/06/tracking-tartary-on-western-maps/"
+    }
+  ],
+  "cite_this": {
+    "apa": "Cóvens, J., L'Isle, G. D. &amp; Mortier, C. (1757) <cite>Map of the Great Tartary. Established upon the Accounts of Several Travelers from Various Nations and Several Observations Made in that Country</cite>. Amsterdam: Covens and Mortier. [Map] Retrieved from the Library of Congress, https://www.loc.gov/item/2021668613/.",
+    "chicago": "Cóvens, Johannes,  Contributor, Guillaume De L'Isle, and Corneille Mortier. <cite>Map of the Great Tartary. Established upon the Accounts of Several Travelers from Various Nations and Several Observations Made in that Country</cite>. Amsterdam: Covens and Mortier, 1757. Map. https://www.loc.gov/item/2021668613/.",
+    "mla": "Cóvens, Johannes,  Contributor, Guillaume De L'Isle, and Corneille Mortier. <cite>Map of the Great Tartary. Established upon the Accounts of Several Travelers from Various Nations and Several Observations Made in that Country</cite>. Amsterdam: Covens and Mortier, 1757. Map. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2021668613/&gt;."
+  },
+  "item": {
+    "_version_": 1743711294655037400,
+    "access_restricted": false,
+    "aka": [
+      "http://lccn.loc.gov/2021668613",
+      "https://hdl.loc.gov/loc.wdl/wdl.15038",
+      "http://www.loc.gov/resource/wdl.15038/",
+      "http://www.loc.gov/resource/gdcwdl.wdl_15038/",
+      "http://www.loc.gov/item/2021668613/"
+    ],
+    "campaigns": [],
+    "contributor_names": [
+      "Cóvens, Johannes, 1697-1774 Contributor.",
+      "L'Isle, Guillaume de, 1675-1726 Cartographer.",
+      "Mortier, Corneille, 1699-1783 Contributor."
+    ],
+    "contributors": [
+      {
+        "cóvens, johannes": "https://www.loc.gov/search/?fa=contributor:c%C3%B3vens,+johannes&fo=json"
+      },
+      {
+        "l'isle, guillaume de": "https://www.loc.gov/search/?fa=contributor:l%27isle,+guillaume+de&fo=json"
+      },
+      {
+        "mortier, corneille": "https://www.loc.gov/search/?fa=contributor:mortier,+corneille&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created_published": [
+      "Amsterdam : Covens and Mortier, 1757."
+    ],
+    "date": "1757-01-01",
+    "dates": [
+      {
+        "1757": "https://www.loc.gov/search/?dates=1757/1757&fo=json"
+      }
+    ],
+    "description": [
+      "The French cartographer Guillaume de l'Isle (1675-1726) was admitted into the French Académie Royale des Sciences when he was 27 years old and subsequently became the first person to receive the title Premier Géographe du Roi (principal geographer to the king). At the time de l'Isle was engaged in cartographic research, the prestige of a cartographer and the authority of his maps were gauged by the veracity of the cartographer's sources, i.e., the explorers and travelers who reported details of their travels to geographers and cartographers in Europe. De l'Isle's map covers much of Asia as well as portions of Scandinavia and of Russia east of the Ural Mountains. Vast areas depicted in the map, such as Siberia and the regions north of the Arctic Circle in Asia, were only visited by European explorers starting in the 17th century. Many of de l'Isle's maps were reissued by the publishing house of Cornelis Mortier and Johannes Coven in Amsterdam in their Atlas Nouveau, which was published in multiple editions, the earliest of which dates to 1733. The map shown here is a later version of a map that was published in 1706, during de l'Isle's lifetime. The map shows forested areas, drainage, and other natural features, as well as the Great Wall of China, roads, and political boundaries. Distance scales are given in French, Russian, Chinese, and Persian units of measurement. The decorative title cartouche features native male figures and horses."
+    ],
+    "digital_id": [
+      "https://hdl.loc.gov/loc.wdl/wdl.15038"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-07-24T06:05:13.207Z",
+    "extract_urls": [
+      "http://lccn.loc.gov/2021668613#wdlpartner",
+      "http://lccn.loc.gov/2021668613#catalog-split-03"
+    ],
+    "format": [
+      {
+        "map": "https://www.loc.gov/search/?fa=original_format:map&fo=json"
+      }
+    ],
+    "group": [
+      "wdlpartner",
+      "catalog-split-03",
+      "catalog",
+      "world-digital-library-partners",
+      "main-catalog-split-03",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2021668613/",
+    "iiif_manifest_url": "https://www.loc.gov/item/2021668613/manifest.json",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:6.25/0/default.jpg",
+      "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:6.25/0/default.jpg#h=397&w=475",
+      "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:12.5/0/default.jpg#h=794&w=950",
+      "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:25/0/default.jpg#h=1589&w=1900",
+      "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:50/0/default.jpg#h=3178&w=3801",
+      "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:100/0/default.jpg#h=6356&w=7602"
+    ],
+    "index": 1,
+    "item": {
+      "contributors": [
+        "Cóvens, Johannes, 1697-1774 Contributor.",
+        "L'Isle, Guillaume de, 1675-1726 Cartographer.",
+        "Mortier, Corneille, 1699-1783 Contributor."
+      ],
+      "created_published": [
+        "Amsterdam : Covens and Mortier, 1757."
+      ],
+      "date": "1757",
+      "digital_id": [
+        "https://hdl.loc.gov/loc.wdl/wdl.15038"
+      ],
+      "format": [
+        "cartographic"
+      ],
+      "language": [
+        "fre"
+      ],
+      "medium": [
+        "1 online resource."
+      ],
+      "notes": [
+        "Title devised, in English, by Library staff.",
+        "\"Scale around 1:11,000,000\"--Note extracted from World Digital Library.",
+        "Original resource extent: 1 map : hand color ; 47 x 61 centimeters.",
+        "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+        "Content in French.",
+        "Description based on data extracted from World Digital Library, which may be extracted from partner institutions."
+      ],
+      "other_title": [
+        "Carte de Tartarie: dressée sur les Relations de plusieurs Voyageurs de différentes Nations et sur quelques Observations qui ont été faites dans ce pais la"
+      ],
+      "source_collection": [
+        "American Geographical Society Library Digital Map Collection"
+      ],
+      "subjects": [
+        "1757",
+        "Library of Congress Afghanistan Project"
+      ],
+      "summary": [
+        "The French cartographer Guillaume de l'Isle (1675-1726) was admitted into the French Académie Royale des Sciences when he was 27 years old and subsequently became the first person to receive the title Premier Géographe du Roi (principal geographer to the king). At the time de l'Isle was engaged in cartographic research, the prestige of a cartographer and the authority of his maps were gauged by the veracity of the cartographer's sources, i.e., the explorers and travelers who reported details of their travels to geographers and cartographers in Europe. De l'Isle's map covers much of Asia as well as portions of Scandinavia and of Russia east of the Ural Mountains. Vast areas depicted in the map, such as Siberia and the regions north of the Arctic Circle in Asia, were only visited by European explorers starting in the 17th century. Many of de l'Isle's maps were reissued by the publishing house of Cornelis Mortier and Johannes Coven in Amsterdam in their Atlas Nouveau, which was published in multiple editions, the earliest of which dates to 1733. The map shown here is a later version of a map that was published in 1706, during de l'Isle's lifetime. The map shows forested areas, drainage, and other natural features, as well as the Great Wall of China, roads, and political boundaries. Distance scales are given in French, Russian, Chinese, and Persian units of measurement. The decorative title cartouche features native male figures and horses."
+      ],
+      "title": "Map of the Great Tartary. Established upon the Accounts of Several Travelers from Various Nations and Several Observations Made in that Country."
+    },
+    "language": [
+      "french"
+    ],
+    "languages": [
+      {
+        "french": "https://www.loc.gov/search/?fa=language:french&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2021668613",
+    "medium": [
+      "1 online resource."
+    ],
+    "mime_type": [
+      "application/zip",
+      "image/jpeg",
+      "image/jp2"
+    ],
+    "notes": [
+      "Title devised, in English, by Library staff.",
+      "\"Scale around 1:11,000,000\"--Note extracted from World Digital Library.",
+      "Original resource extent: 1 map : hand color ; 47 x 61 centimeters.",
+      "Original resource at: University of Wisconsin-Milwaukee Libraries.",
+      "Content in French.",
+      "Description based on data extracted from World Digital Library, which may be extracted from partner institutions."
+    ],
+    "number": [
+      "2021-07-14t08:39:19",
+      "2021668613"
+    ],
+    "number_lccn": [
+      "2021668613"
+    ],
+    "number_source_modified": [
+      "2021-07-14t08:39:19"
+    ],
+    "online_format": [
+      "compressed data",
+      "image"
+    ],
+    "original_format": [
+      "map"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2021668613/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2021668613/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2021668613/dc"
+      }
+    ],
+    "other_title": [
+      "Carte de Tartarie: dressée sur les Relations de plusieurs Voyageurs de différentes Nations et sur quelques Observations qui ont été faites dans ce pais la"
+    ],
+    "partof": [
+      {
+        "count": 195,
+        "title": "university of wisconsin-milwaukee libraries",
+        "url": "https://www.loc.gov/search/?fa=partof:university+of+wisconsin-milwaukee+libraries&fo=json"
+      },
+      {
+        "count": 5089,
+        "title": "world digital library - partner items",
+        "url": "https://www.loc.gov/search/?fa=partof:world+digital+library+-+partner+items&fo=json"
+      },
+      {
+        "count": 20940,
+        "title": "world digital library",
+        "url": "https://www.loc.gov/collections/world-digital-library/?fo=json"
+      },
+      {
+        "count": 1910564,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "resources": [
+      {
+        "files": 1,
+        "image": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:6.25/0/default.jpg",
+        "url": "https://www.loc.gov/resource/gdcwdl.wdl_15038/",
+        "zip": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/03/8/wdl_15038/wdl_15038.zip"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, <a href=\"https://webarchive.loc.gov/all/2/https://www.wdl.org/en/partners/\">see this archived list of partners</a></p>\n<p>The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here.</p>\n<p>Credit Line: [Original Source citation], World Digital Library</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a></p>\n<p>For additional information and contact information for many of the partner organizations, see this archived <a href=\"/item/lcwaN0018836/\">capture of the World Digital Library site</a> from 2021.</p>\n<p>For guidance about compiling full citations consult <a href=\"/programs/teachers/getting-started-with-primary-sources/citing/\">Citing Primary Sources</a>.</p>"
+    ],
+    "score": 17.04398,
+    "shard": "01",
+    "shelf_id": "http://lccn.loc.gov/2021668613",
+    "site": [
+      "catalog"
+    ],
+    "source_collection": [
+      "American Geographical Society Library Digital Map Collection"
+    ],
+    "subject": [
+      "library of congress afghanistan project"
+    ],
+    "subject_headings": [
+      "1757",
+      "Library of Congress Afghanistan Project"
+    ],
+    "subjects": [
+      {
+        "library of congress afghanistan project": "https://www.loc.gov/search/?fa=subject:library+of+congress+afghanistan+project&fo=json"
+      }
+    ],
+    "summary": [
+      "The French cartographer Guillaume de l'Isle (1675-1726) was admitted into the French Académie Royale des Sciences when he was 27 years old and subsequently became the first person to receive the title Premier Géographe du Roi (principal geographer to the king). At the time de l'Isle was engaged in cartographic research, the prestige of a cartographer and the authority of his maps were gauged by the veracity of the cartographer's sources, i.e., the explorers and travelers who reported details of their travels to geographers and cartographers in Europe. De l'Isle's map covers much of Asia as well as portions of Scandinavia and of Russia east of the Ural Mountains. Vast areas depicted in the map, such as Siberia and the regions north of the Arctic Circle in Asia, were only visited by European explorers starting in the 17th century. Many of de l'Isle's maps were reissued by the publishing house of Cornelis Mortier and Johannes Coven in Amsterdam in their Atlas Nouveau, which was published in multiple editions, the earliest of which dates to 1733. The map shown here is a later version of a map that was published in 1706, during de l'Isle's lifetime. The map shows forested areas, drainage, and other natural features, as well as the Great Wall of China, roads, and political boundaries. Distance scales are given in French, Russian, Chinese, and Persian units of measurement. The decorative title cartouche features native male figures and horses."
+    ],
+    "timestamp": "2022-09-11T21:44:36.781Z",
+    "title": "Map of the Great Tartary. Established upon the Accounts of Several Travelers from Various Nations and Several Observations Made in that Country.",
+    "type": [
+      "cartographic"
+    ],
+    "url": "https://www.loc.gov/item/2021668613/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2021668596/",
+        "https://hdl.loc.gov/loc.wdl/wdl.15020",
+        "http://www.loc.gov/resource/wdl.15020/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_15020/",
+        "http://lccn.loc.gov/2021668596"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "holdich, thomas hungerford, sir",
+        "royal geographical society (great britain)",
+        "weller, edward, 1884"
+      ],
+      "date": "1885-01-01",
+      "dates": [
+        "1885"
+      ],
+      "description": [
+        "In the early 1880s, Great Britain (which at that time effectively controlled the foreign policy of Afghanistan) and the Russian Empire opened negotiations to define the northern border of Afghanistan. The two sides formed a joint Afghan Boundary Commission, which began work in the fall of 1885. This map shows the routes taken by the members of the commission in the Badghis area (present-day Badghis Province) in the northwestern part of the country, on the border with present-day Turkmenistan, which at that time was part of the Russian Empire. The map shows rivers and populated places. Relief is shown by hachures; the height of mountains is given in feet. The scale is one inch to 24 miles (2.54 centimeters to 38.62 kilometers). The map was drawn by Major T.H. Holdich, an officer with the Royal Engineers of the British Army in India, and was prepared for a paper on the Afghan Boundary Commission that was read to the Royal Geographical Society in London in March 1885. The map was produced by lithographer Edward Weller (1819-84), a London-based cartographer and engraver who was the unofficial geographer of the Royal Geographical Society."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:05:00.551Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-13",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021668596/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:0:wdl_15020:am002879c/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:0:wdl_15020:am002879c/full/pct:12.5/0/default.jpg#h=340&w=333",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:0:wdl_15020:am002879c/full/pct:25/0/default.jpg#h=680&w=667",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:0:wdl_15020:am002879c/full/pct:50/0/default.jpg#h=1361&w=1334",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:0:wdl_15020:am002879c/full/pct:100/0/default.jpg#h=2723&w=2668"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "afghanistan",
+        "bādghīs"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021-07-14t08:39:13",
+        "2021668596"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 18.833765,
+      "shelf_id": "http://lccn.loc.gov/2021668596",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "expeditions and surveys",
+        "bādghīs",
+        "territorial questions",
+        "library of congress afghanistan project",
+        "1879 to 1880",
+        "afghanistan",
+        "afghan boundary commission"
+      ],
+      "timestamp": "2022-09-11T21:44:36.781Z",
+      "title": "Preliminary Map of the Routes Followed by the Members of the Afghan Boundary Commission.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2021668596/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gdcwdl.wdl_15021/",
+        "https://hdl.loc.gov/loc.wdl/wdl.15021",
+        "http://www.loc.gov/resource/wdl.15021/",
+        "http://www.loc.gov/item/2021668597/",
+        "http://lccn.loc.gov/2021668597"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "carl flemming (firm)",
+        "handtke, f. (friedrich)"
+      ],
+      "date": "1914-01-01",
+      "dates": [
+        "1914"
+      ],
+      "description": [
+        "This map of Afghanistan and its neighbors was printed in multiple editions by the publishing house of Carl Flemming in Glogau, Germany (present-day Głogów, Poland). The areas covered by the map were the site of an intense rivalry between Great Britain and Imperial Russia during the course of the 19th and early 20th centuries. The borders of Afghanistan changed repeatedly during the latter part of the 19th century: the border between Baluchistan and Afghanistan was redrawn with the establishment of the Durand Line in 1893, and the borders between Afghanistan and Russian Turkestan to the north and with Persia to the west changed as well. The issuing of new editions of this map would have been complicated by these shifting boundaries. An 1890 printing of the map credits the German cartographer Friedrich Handtke (1815-79) with the original design. The map was published as number 44 of the Generalkarte (general maps) published by the Carl Flemming firm. Its designation \"general\" distinguishes this map from those used for educational purposes, as well as from those that were used for specialized scientific purposes."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:05:00.551Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-14",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021668597/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:1:wdl_15021:am002895cb/full/pct:3.125/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:1:wdl_15021:am002895cb/full/pct:3.125/0/default.jpg#h=259&w=301",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:1:wdl_15021:am002895cb/full/pct:6.25/0/default.jpg#h=519&w=602",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:1:wdl_15021:am002895cb/full/pct:12.5/0/default.jpg#h=1038&w=1205",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:1:wdl_15021:am002895cb/full/pct:25/0/default.jpg#h=2077&w=2410",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:1:wdl_15021:am002895cb/full/pct:50/0/default.jpg#h=4155&w=4821",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:1:wdl_15021:am002895cb/full/pct:100/0/default.jpg#h=8311&w=9643"
+      ],
+      "index": 2,
+      "language": [
+        "german"
+      ],
+      "location": [
+        "tajikistan",
+        "uzbekistan",
+        "turkmenistan",
+        "afghanistan",
+        "iran, islamic republic of",
+        "pakistan"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021-07-14t08:39:13",
+        "2021668597"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "other_title": [
+        "Afghanistan und seine Nachbarländer"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 18.833765,
+      "shelf_id": "http://lccn.loc.gov/2021668597",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "tajikistan",
+        "uzbekistan",
+        "turkmenistan",
+        "library of congress afghanistan project",
+        "afghanistan",
+        "iran, islamic republic of",
+        "pakistan"
+      ],
+      "timestamp": "2022-09-11T21:44:36.781Z",
+      "title": "Afghanistan and Its Neighboring Countries.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2021668597/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021668598",
+        "https://hdl.loc.gov/loc.wdl/wdl.15022",
+        "http://www.loc.gov/resource/gdcwdl.wdl_15022/",
+        "http://www.loc.gov/resource/wdl.15022/",
+        "http://www.loc.gov/item/2021668598/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "survey of india",
+        "thuillier, h. r. (henry ravenshaw)"
+      ],
+      "date": "1891-01-01",
+      "dates": [
+        "1891"
+      ],
+      "description": [
+        "The Survey of India was founded in 1767 in order to map the vast holdings of the British East India Company. It remained in operation following Indian independence and is currently the national mapping organization of the government of India, under the Department of Science and Technology. The map shows portions of Afghanistan and present-day Pakistan (then part of British India). It is dated July 1891, although it is a reissue of an earlier map of November 1886, with updated information on political boundaries and railways. The border between Afghanistan and Baluchistan was to be redrawn in 1893, just two years after the publication of this map, by the establishment of the Durand Line. An arbitrary political demarcation, the Durand Line cut through the boundaries of the various tribal entities residing in a region recognized for the fierce independence of its inhabitants. The area remains a source of political volatility today. The map was published during the directorship of the Survey of India of Colonel Sir Henry Ravenshaw Thuillier (1838--1922). Sir Henry was educated at the Addiscombe Military Seminary (also known as the East India Company Military Seminary), and led the Survey of India from 1886 to his retirement in 1895. Sir Henry's father, Sir Henry Edward Landor Thuillier, also led the Survey of India, in 1861-78. The map was reproduced by photozincography, a process of photolithography using a zinc plate. The scale is one inch to 32 miles (2.54 centimeters to 51.49 kilometers)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:05:00.551Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-15",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021668598/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:2:wdl_15022:am002897c/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:2:wdl_15022:am002897c/full/pct:6.25/0/default.jpg#h=375&w=508",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:2:wdl_15022:am002897c/full/pct:12.5/0/default.jpg#h=751&w=1016",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:2:wdl_15022:am002897c/full/pct:25/0/default.jpg#h=1503&w=2033",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:2:wdl_15022:am002897c/full/pct:50/0/default.jpg#h=3007&w=4066",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:2:wdl_15022:am002897c/full/pct:100/0/default.jpg#h=6015&w=8132"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "balochistan",
+        "pakistan",
+        "afghanistan"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021668598",
+        "2021-07-14t08:39:13"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 18.833765,
+      "shelf_id": "http://lccn.loc.gov/2021668598",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "expeditions and surveys",
+        "library of congress afghanistan project",
+        "balochistan",
+        "afghanistan",
+        "1886 to 1891",
+        "pakistan",
+        "survey of india"
+      ],
+      "timestamp": "2022-09-11T21:44:36.781Z",
+      "title": "Skeleton Map of the Afghanistan and Punjab Frontier.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2021668598/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gdcwdl.wdl_15023/",
+        "http://lccn.loc.gov/2021668599",
+        "http://www.loc.gov/item/2021668599/",
+        "http://www.loc.gov/resource/wdl.15023/",
+        "https://hdl.loc.gov/loc.wdl/wdl.15023"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sharbau, henry",
+        "royal geographical society (great britain)"
+      ],
+      "date": "1881-01-01",
+      "dates": [
+        "1881"
+      ],
+      "description": [
+        "The term Kafiristan (\"The land of the infidel\" in Persian) refers to the fact that the inhabitants of this region in the northeast of Afghanistan were non-Muslims, following Buddhism and other pre-Islamic religious practices long after neighboring regions had converted to Islam. Indeed, the region as a whole did not adopt Islam until late in the 19th century, when it was forcibly converted by the Afghan emir ʻAbd al-Rahman Khan (also called Abdur Rahman, reigned 1880--1901). The term Kafiristan has become obsolete, and the area is now referred to as Nuristan (\"The land of light\"). Nestled within the Hindu Kush mountain range, the area remains remote and underdeveloped, and local traditions live on in the form of the Nuristani languages, a group of Indo-Iranian languages spoken by more than 100,000 inhabitants of the area. The map was produced by Edward Stanford (1827--1904), a prominent 19th century cartographer best known for his Library Map of London, first published in 1862. This map dates from 1881 and was produced for the Royal Geographical Society. Elevations on the map are shown in feet and the scale of distances is one inch to 15 miles (2.54 centimeters to 24.14 kilometers)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:05:00.551Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-00",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021668599/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:3:wdl_15023:am002899c/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:3:wdl_15023:am002899c/full/pct:12.5/0/default.jpg#h=349&w=472",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:3:wdl_15023:am002899c/full/pct:25/0/default.jpg#h=698&w=944",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:3:wdl_15023:am002899c/full/pct:50/0/default.jpg#h=1397&w=1889",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:3:wdl_15023:am002899c/full/pct:100/0/default.jpg#h=2795&w=3778"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "nūrestān",
+        "afghanistan"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021668599",
+        "2021-07-14t08:39:14"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 18.833765,
+      "shelf_id": "http://lccn.loc.gov/2021668599",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "nūrestān",
+        "afghanistan",
+        "library of congress afghanistan project"
+      ],
+      "timestamp": "2022-09-11T21:44:36.781Z",
+      "title": "Map of Kafiristan.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2021668599/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gdcwdl.wdl_15024/",
+        "http://www.loc.gov/item/2021668600/",
+        "http://lccn.loc.gov/2021668600",
+        "https://hdl.loc.gov/loc.wdl/wdl.15024",
+        "http://www.loc.gov/resource/wdl.15024/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sharbau, henry",
+        "royal geographical society (great britain)",
+        "weller, edward, 1884",
+        "russia. general staff. military topography directorate",
+        "afghan boundary commission"
+      ],
+      "date": "1885-01-01",
+      "dates": [
+        "1885"
+      ],
+      "description": [
+        "The city of Herat and the adjoining region of Badghis were part of the territory to which the Qajar dynasty of Persia was forced to relinquish its claims following the Anglo--Persian War of 1856--57. Under the terms of 1857 Treaty of Paris, the Persians were compelled to withdraw from Herat, leaving the city under Afghan control. Britain's interest in Herat was linked to the intense rivalry between it and Russia in what has come to be known as the Great Game. The object of this rivalry was the control of Central Asia. The annexation of Merv by imperial Russia in 1884 sent waves of concern reverberating throughout the British Empire. The British feared that from Merv the Russians had gained new access to British India via the Hari Rud valley and the city of Herat. The map depicts the Badghis region and surrounding areas stretching from the Merv oasis in the north to Herat in the south, an area of great strategic concern for the British in 1885. The map was compiled from a survey conducted by the Afghan Boundary Commission, a joint British and Russian body, and was published in 1885 by the Royal Geographical Society in London. The scale is given in miles and versts, a Russian unit of measurement equal to 1.07 kilometers."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:05:00.551Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-15",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021668600/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:4:wdl_15024:am002900c/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:4:wdl_15024:am002900c/full/pct:6.25/0/default.jpg#h=424&w=240",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:4:wdl_15024:am002900c/full/pct:12.5/0/default.jpg#h=849&w=481",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:4:wdl_15024:am002900c/full/pct:25/0/default.jpg#h=1698&w=962",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:4:wdl_15024:am002900c/full/pct:50/0/default.jpg#h=3396&w=1924",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:4:wdl_15024:am002900c/full/pct:100/0/default.jpg#h=6792&w=3848"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "afghanistan",
+        "uzbekistan",
+        "turkmenistan"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021668600",
+        "2021-07-14t08:39:14"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 18.833765,
+      "shelf_id": "http://lccn.loc.gov/2021668600",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "uzbekistan",
+        "expeditions and surveys",
+        "murgab river (afghanistan and turkmenistan)",
+        "territorial questions",
+        "turkmenistan",
+        "library of congress afghanistan project",
+        "afghanistan",
+        "hari rud (afghanistan)",
+        "afghan boundary commission"
+      ],
+      "timestamp": "2022-09-11T21:44:36.781Z",
+      "title": "The Heri-Rud and Murghab Rivers and Intermediate Territory from Merv to Herat.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2021668600/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2021668601/",
+        "http://www.loc.gov/resource/wdl.15025/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_15025/",
+        "http://lccn.loc.gov/2021668601",
+        "https://hdl.loc.gov/loc.wdl/wdl.15025"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "russia",
+        "united states. army. office of the chief of engineers",
+        "great britain"
+      ],
+      "date": "1878-01-01",
+      "dates": [
+        "1878"
+      ],
+      "description": [
+        "This 1878 map depicts Afghanistan and portions of Central Asia, Persia, and British India based on surveys carried out by British and Russian officers up to 1875. An inset map shows the wider Asian context and notes distances from London of the most important places. The year 1878 is significant in the history of Afghanistan in that it marked the beginning of the Second Anglo-Afghan War, launched by a British invasion on November 21, 1878. The pretext for military action was the refusal of the Afghan government to admit the British envoy, Sir Neville Chamberlain, who had been dispatched to Kabul by the orders of Lord Lytton, the governor-general of India. The Afghan ruler Sher Ali Khan (reigned 1863-66 and 1868-79) had already and with some reluctance admitted into Kabul a Russian delegation led by General Nikolai Grigorevich Stoletov. In the context of the political rivalry that existed between Russia and Great Britain over the control of Central Asia, this preference toward Russia was a slight which, from the British perspective, could not be allowed to stand unchallenged. Major fighting in the Second Anglo-Afghan War did not cease until the Battle of Kandahar in September 1880, after which Afghanistan ceded control of its foreign affairs to the British government. Compiled and printed by the Office of the Chief of Engineers of the United States Army \"for the information of the officers of the U.S. Army,\" the map includes along its western edge markings indicating the latitude of a number of cities in the United States to be used as reference for its North American readers."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:05:00.551Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-00",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021668601/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:5:wdl_15025:am002901c/full/pct:3.125/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:5:wdl_15025:am002901c/full/pct:3.125/0/default.jpg#h=227&w=310",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:5:wdl_15025:am002901c/full/pct:6.25/0/default.jpg#h=455&w=621",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:5:wdl_15025:am002901c/full/pct:12.5/0/default.jpg#h=910&w=1242",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:5:wdl_15025:am002901c/full/pct:25/0/default.jpg#h=1820&w=2484",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:5:wdl_15025:am002901c/full/pct:50/0/default.jpg#h=3641&w=4969",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:02:5:wdl_15025:am002901c/full/pct:100/0/default.jpg#h=7282&w=9938"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "afghanistan"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021668601",
+        "2021-07-14t08:39:14"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 18.833765,
+      "shelf_id": "http://lccn.loc.gov/2021668601",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "military maps",
+        "expeditions and surveys",
+        "united states. army",
+        "territorial questions",
+        "library of congress afghanistan project",
+        "afghanistan",
+        "1868 to 1875",
+        "afghan wars",
+        "afghan boundary commission"
+      ],
+      "timestamp": "2022-09-11T21:44:36.781Z",
+      "title": "Seat of War in Asia. Map of Afghanistan from Surveys Made by British and Russian Officers up to 1875.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2021668601/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_shim": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "wdlpartner",
+      "catalog-split-03",
+      "catalog",
+      "world-digital-library-partners",
+      "main-catalog-split-03",
+      "main-catalog",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "catalog-split-02",
+      "main-catalog-split-02"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 25,
+    "delimiter": null,
+    "digital_id": null,
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.4873921871185303,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": "2021668613/",
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/item/2021668613/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/item/2021668613/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "shards": [
+      "01"
+    ],
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "layouts/item/layout",
+    "timestamp": 1792450470.8353634,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gdcwdl.wdl_17794/",
+        "http://www.loc.gov/item/2021667053/",
+        "http://www.loc.gov/resource/wdl.17794/",
+        "https://hdl.loc.gov/loc.wdl/wdl.17794",
+        "http://lccn.loc.gov/2021667053"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "atkinson, james"
+      ],
+      "date": "1842-01-01",
+      "dates": [
+        "1842"
+      ],
+      "description": [
+        "James Atkinson (1780--1852) was a man of many talents, best known for his early translations into English of Persian poetry and prose. He was born in England and studied medicine in London and Edinburgh. He was appointed an assistant surgeon in the Bengal service of the East India Company in 1805, and spent most of the rest of his life in India. In his spare time he mastered Persian, and by 1814 he had published a translation of part of the Shahnamah (Book of kings), the first time the Persian epic was made accessible to an English audience. In 1838 Atkinson was appointed chief surgeon of the Army of the Indus, and in that capacity he accompanied the army on its march to Kabul in the First Anglo-Afghan War (1839--42). The Expedition into Affghanistan: Notes and Sketches Descriptive of the Country, published in London in 1842, is Atkinson's account of the war. It begins with a chapter on the causes of the expedition (the perceived Russian threat to Afghanistan and by extension to India), which is followed by a history of Shah Shujaʻ and of the Durrani dynasty. Subsequent chapters describe the advance of the army to the Indus, to Kandahar, the march from Kandahar to Ghazni, the capture of Kabul, and the march to Jalalabad. Atkinson returned to Bengal in 1841 and thus escaped the disaster that befell the Anglo-Indian army of occupation the following year, when Afghan tribesmen annihilated the Kabul garrison, a British and Indian force of 4,500 men. Atkinson was a talented artist who, in the same year in which this book appeared, published a book of lithographs entitled Sketches in Afghaunistan, based on drawings he made in Afghanistan. Atkinson also published translations of Italian verse and wrote a medical treatise on the bladder. He is regarded as a pioneer of oriental research who helped to make Persian and Afghan culture better known in Britain and beyond."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T00:14:01.821Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-00",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021667053/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:79:4:wdl_17794:0008/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:79:4:wdl_17794:0008/full/pct:6.25/0/default.jpg#h=296&w=169",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:79:4:wdl_17794:0008/full/pct:12.5/0/default.jpg#h=592&w=338",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:79:4:wdl_17794:0008/full/pct:25/0/default.jpg#h=1184&w=677",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:79:4:wdl_17794:0008/full/pct:50/0/default.jpg#h=2368&w=1354",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:17:79:4:wdl_17794:0008/full/pct:100/0/default.jpg#h=4736&w=2709"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kandahar",
+        "ghazni",
+        "jalālābād",
+        "ferozepore",
+        "nangarhār",
+        "punjab",
+        "india",
+        "ghaznī",
+        "qandahār",
+        "afghanistan",
+        "kābul"
+      ],
+      "mime_type": [
+        "application/zip",
+        "application/pdf",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021667053",
+        "2021-05-27t08:40:28"
+      ],
+      "online_format": [
+        "compressed data",
+        "pdf",
+        "image"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 18.833765,
+      "shelf_id": "http://lccn.loc.gov/2021667053",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "ghazni",
+        "jalālābād",
+        "india",
+        "foreign relations",
+        "military campaigns",
+        "kandahar",
+        "shāh shujāʻ, amir of afghanistan",
+        "punjab",
+        "ghaznī",
+        "1839 to 1840",
+        "eastern question (central asia)",
+        "durrani empire",
+        "exploration and encounters",
+        "library of congress afghanistan project",
+        "description and travel",
+        "qandahār",
+        "atkinson, james",
+        "afghan wars",
+        "dōst moḥammad khān, amir of afghanistan",
+        "great britain. army of the indus",
+        "great game (south asia)",
+        "ferozepore",
+        "nangarhār",
+        "afghanistan",
+        "kābul"
+      ],
+      "timestamp": "2022-09-11T21:22:33.749Z",
+      "title": "The Expedition into Affghanistan: Notes and Sketches Descriptive of the Country, Contained in a Personal Narrative during the Campaign of 1839 & 1840, up to the Surrender of Dost Mahomed Khan.",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2021667053/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.wdl/wdl.11636",
+        "http://www.loc.gov/resource/wdl.11636/",
+        "http://www.loc.gov/item/2021667924/",
+        "http://lccn.loc.gov/2021667924",
+        "http://www.loc.gov/resource/gdcwdl.wdl_11636/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "grigoriev, alexander, flourished",
+        "tsybikov, g. ts. (gonbochzhab tsebekovich)",
+        "american geographical society",
+        "norzunov, ovshe m.",
+        "imperial russian geographical society"
+      ],
+      "date": "1904-01-01",
+      "dates": [
+        "1904"
+      ],
+      "description": [
+        "These handwritten notes accompany a collection of 50 photographs of central Tibet acquired from the Imperial Russian Geographical Society in Saint Petersburg by the American Geographical Society on August 2, 1904. The photographs in this collection were taken by two Mongolian Buddhist lamas, G.Ts. Tsybikov and Ovshe (O.M.) Norzunov, who visited Tibet in 1900 and 1901. The notes were written in Russian for the Imperial Russian Geographical Society by Tsybikov, Norzunov, and other Mongolians familiar with central Tibet. Alexander Grigoriev, corresponding member of the American Geographical Society, translated the notes from Russian into English in April 1904."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T04:50:20.265Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-07",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021667924/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:6:wdl_11636:01_Page_1/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:6:wdl_11636:01_Page_1/full/pct:6.25/0/default.jpg#h=261&w=163",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:6:wdl_11636:01_Page_1/full/pct:12.5/0/default.jpg#h=522&w=326",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:6:wdl_11636:01_Page_1/full/pct:25/0/default.jpg#h=1045&w=653",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:6:wdl_11636:01_Page_1/full/pct:50/0/default.jpg#h=2090&w=1306",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:6:wdl_11636:01_Page_1/full/pct:100/0/default.jpg#h=4180&w=2612"
+      ],
+      "index": 2,
+      "language": [
+        "russian",
+        "english"
+      ],
+      "location": [
+        "tibet",
+        "china"
+      ],
+      "mime_type": [
+        "application/zip",
+        "application/pdf",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021667924",
+        "2021-06-01t15:57:50"
+      ],
+      "online_format": [
+        "compressed data",
+        "pdf",
+        "image"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 12.042498,
+      "shelf_id": "http://lccn.loc.gov/2021667924",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "buddhist temples",
+        "china",
+        "tibet",
+        "castles and palaces",
+        "shrines",
+        "buddhist architecture",
+        "description and travel",
+        "monasteries, buddhist",
+        "mountains",
+        "architecture, tibetan",
+        "cities and towns",
+        "1900 to 1901"
+      ],
+      "timestamp": "2022-09-11T21:38:03.364Z",
+      "title": "Views of Great Tibet.",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2021667924/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2021670590/",
+        "https://hdl.loc.gov/loc.wdl/wdl.11637",
+        "http://lccn.loc.gov/2021670590",
+        "http://www.loc.gov/resource/gdcwdl.wdl_11637/",
+        "http://www.loc.gov/resource/wdl.11637/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "norzunov, ovshe m.",
+        "tsybikov, g. ts. (gonbochzhab tsebekovich)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "\"Lhasa from the East\" is from a collection of 50 photographs of central Tibet acquired in 1904 from the Imperial Russian Geographical Society in Saint Petersburg by the American Geographical Society. In the background and nearly in the center of this photograph is the \"iron mountain\" Ch'agpori (also seen as Chagpori, Chiakpori, Chapori, Chakpori, Chaga, or Chag-pa hill in other sources) with the Man-ba Ta-ts'an (also seen as Man-bo-datsang or Vaidurya Ta-tsan), where Tibetan medicine was taught. On the right in the photograph is the hill Marpori with Potala, the palace of the Dalai Lama. To the left of Ch'agpori, behind a white building, is a rather faint view of the cathedral of Lhasa (the Great Cathedral), the Jowo-k'an (also seen as TsoKhang or Ihio). The buildings in the foreground are those of Banak sho, the traders' quarters (also seen as Banagshio or Banashag). The photographs in this collection were taken by two Mongolian Buddhist lamas, G.Ts. Tsybikov and Ovshe (O.M.) Norzunov, who visited Tibet in 1900 and 1901. Accompanying the photos is a set of notes written in Russian for the Imperial Russian Geographical Society by Tsybikov, Norzunov, and other Mongolians familiar with central Tibet. Alexander Grigoriev, corresponding member of the American Geographical Society, translated the notes from Russian into English in April 1904."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:23:19.895Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-00",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021670590/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:7:wdl_11637:pr000177/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:7:wdl_11637:pr000177/full/pct:6.25/0/default.jpg#h=203&w=309",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:7:wdl_11637:pr000177/full/pct:12.5/0/default.jpg#h=407&w=619",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:7:wdl_11637:pr000177/full/pct:25/0/default.jpg#h=814&w=1239",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:7:wdl_11637:pr000177/full/pct:50/0/default.jpg#h=1628&w=2478",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:7:wdl_11637:pr000177/full/pct:100/0/default.jpg#h=3256&w=4956"
+      ],
+      "index": 3,
+      "language": [
+        "not applicable",
+        "no linguistic content"
+      ],
+      "location": [
+        "tibet",
+        "lhasa",
+        "china"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021-07-16t09:18:31",
+        "2021670590"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 12.042498,
+      "shelf_id": "http://lccn.loc.gov/2021670590",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "buddhist temples",
+        "cathedrals",
+        "china",
+        "tibet",
+        "castles and palaces",
+        "buddhist architecture",
+        "monasteries, buddhist",
+        "mountains",
+        "architecture, tibetan",
+        "lhasa",
+        "cities and towns",
+        "1900 to 1901",
+        "universities and colleges"
+      ],
+      "timestamp": "2022-09-11T21:48:42.391Z",
+      "title": "Lhasa from the East.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021670590/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/wdl.11638/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_11638/",
+        "http://www.loc.gov/item/2021670591/",
+        "http://lccn.loc.gov/2021670591",
+        "https://hdl.loc.gov/loc.wdl/wdl.11638"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "norzunov, ovshe m.",
+        "tsybikov, g. ts. (gonbochzhab tsebekovich)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "This general view of Sera monastery from the south is from a collection of 50 photographs of central Tibet acquired in 1904 from the Imperial Russian Geographical Society in Saint Petersburg by the American Geographical Society. The monastery consists of very high buildings, with three gilded temples. The 1899 edition of The Buddhism of Tibet or Lamaism by L.A. Waddell states that it is called \"Ser-ra, or the 'Merciful Hail.' It is said to have been so named out of rivalry to its neighbour, 'The rice-heap' (De-pung), as hail is destructive of rice, and the two monasteries have frequent feuds. [. . .] It is romantically situated about a mile and a half to the north of Lhasa, on the lower slopes of a range of barren hills named Ta-ti-pu, famous for silver ore, and which surround the monastery like an amphitheatre.\" The photographs in this collection were taken by two Mongolian Buddhist lamas, G.Ts. Tsybikov and Ovshe (O.M.) Norzunov, who visited Tibet in 1900 and 1901. Accompanying the photos is a set of notes written in Russian for the Imperial Russian Geographical Society by Tsybikov, Norzunov, and other Mongolians familiar with central Tibet. Alexander Grigoriev, corresponding member of the American Geographical Society, translated the notes from Russian into English in April 1904."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:23:19.895Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-01",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021670591/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:8:wdl_11638:pr000197/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:8:wdl_11638:pr000197/full/pct:6.25/0/default.jpg#h=203&w=311",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:8:wdl_11638:pr000197/full/pct:12.5/0/default.jpg#h=407&w=623",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:8:wdl_11638:pr000197/full/pct:25/0/default.jpg#h=814&w=1247",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:8:wdl_11638:pr000197/full/pct:50/0/default.jpg#h=1628&w=2495",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:8:wdl_11638:pr000197/full/pct:100/0/default.jpg#h=3256&w=4991"
+      ],
+      "index": 4,
+      "language": [
+        "not applicable",
+        "no linguistic content"
+      ],
+      "location": [
+        "tibet",
+        "china"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021-07-16t09:18:31",
+        "2021670591"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 12.042498,
+      "shelf_id": "http://lccn.loc.gov/2021670591",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "buddhist temples",
+        "china",
+        "tibet",
+        "buddhist architecture",
+        "monasteries, buddhist",
+        "mountains",
+        "architecture, tibetan",
+        "1900 to 1901"
+      ],
+      "timestamp": "2022-09-11T21:48:42.391Z",
+      "title": "Sera Monastery.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021670591/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/wdl.11639/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_11639/",
+        "https://hdl.loc.gov/loc.wdl/wdl.11639",
+        "http://www.loc.gov/item/2021670592/",
+        "http://lccn.loc.gov/2021670592"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "norzunov, ovshe m.",
+        "tsybikov, g. ts. (gonbochzhab tsebekovich)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "\"Tibetan Manor\" is from a collection of 50 photographs of central Tibet acquired in 1904 from the Imperial Russian Geographical Society in Saint Petersburg by the American Geographical Society. In the center of the photograph is a Tibetan manor, located near the Ch'agla pass. The photographs in this collection were taken by two Mongolian Buddhist lamas, G.Ts. Tsybikov and Ovshe (O.M.) Norzunov, who visited Tibet in 1900 and 1901. Accompanying the photos is a set of notes written in Russian for the Imperial Russian Geographical Society by Tsybikov, Norzunov, and other Mongolians familiar with central Tibet. Alexander Grigoriev, corresponding member of the American Geographical Society, translated the notes from Russian into English in April 1904."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:23:19.895Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-02",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021670592/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:9:wdl_11639:pr000223/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:9:wdl_11639:pr000223/full/pct:6.25/0/default.jpg#h=219&w=309",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:9:wdl_11639:pr000223/full/pct:12.5/0/default.jpg#h=439&w=618",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:9:wdl_11639:pr000223/full/pct:25/0/default.jpg#h=878&w=1237",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:9:wdl_11639:pr000223/full/pct:50/0/default.jpg#h=1756&w=2475",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:63:9:wdl_11639:pr000223/full/pct:100/0/default.jpg#h=3512&w=4950"
+      ],
+      "index": 5,
+      "language": [
+        "not applicable",
+        "no linguistic content"
+      ],
+      "location": [
+        "tibet",
+        "china"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021670592",
+        "2021-07-16t09:18:32"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 12.042498,
+      "shelf_id": "http://lccn.loc.gov/2021670592",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "architecture, tibetan",
+        "tibet",
+        "1900 to 1901",
+        "china"
+      ],
+      "timestamp": "2022-09-11T21:48:42.391Z",
+      "title": "Tibetan Manor.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021670592/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2021670593/",
+        "http://www.loc.gov/resource/wdl.11640/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_11640/",
+        "https://hdl.loc.gov/loc.wdl/wdl.11640",
+        "http://lccn.loc.gov/2021670593"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "norzunov, ovshe m.",
+        "tsybikov, g. ts. (gonbochzhab tsebekovich)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "\"Tibetan Women\" is from a collection of 50 photographs of central Tibet acquired in 1904 from the Imperial Russian Geographical Society in Saint Petersburg by the American Geographical Society. The photograph shows two Tibetan women of the lower class, walking barefoot, carrying loads on their backs. W.W. Rockhill, in his 1890 edition of Tibet, states: \"Tibetan women are robust and the men weak, and one may frequently see women performing in the place of their husbands the socage services which the people owe. As a consequence (of the superior physique of the women), three or four brothers sometimes marry one wife, and if children are born to them, they take their choice of them and divide them among themselves. The woman who is able to live with three or four brothers is called by every one 'a belle', because she knows how to manage a whole family.\" The photographs in this collection were taken by two Mongolian Buddhist lamas, G.Ts. Tsybikov and Ovshe (O.M.) Norzunov, who visited Tibet in 1900 and 1901. Accompanying the photos is a set of notes written in Russian for the Imperial Russian Geographical Society by Tsybikov, Norzunov, and other Mongolians familiar with central Tibet. Alexander Grigoriev, corresponding member of the American Geographical Society, translated the notes from Russian into English in April 1904."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:23:19.895Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-03",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021670593/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:64:0:wdl_11640:pr000224/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:64:0:wdl_11640:pr000224/full/pct:6.25/0/default.jpg#h=214&w=305",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:64:0:wdl_11640:pr000224/full/pct:12.5/0/default.jpg#h=428&w=610",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:64:0:wdl_11640:pr000224/full/pct:25/0/default.jpg#h=856&w=1220",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:64:0:wdl_11640:pr000224/full/pct:50/0/default.jpg#h=1713&w=2441",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:64:0:wdl_11640:pr000224/full/pct:100/0/default.jpg#h=3426&w=4882"
+      ],
+      "index": 6,
+      "language": [
+        "not applicable",
+        "no linguistic content"
+      ],
+      "location": [
+        "tibet",
+        "china"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021-07-16t09:18:32",
+        "2021670593"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "world digital library",
+        "university of wisconsin-milwaukee libraries"
+      ],
+      "score": 12.042498,
+      "shelf_id": "http://lccn.loc.gov/2021670593",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "china",
+        "tibetans",
+        "tibet",
+        "mountains",
+        "women",
+        "1900 to 1901",
+        "clothing and dress"
+      ],
+      "timestamp": "2022-09-11T21:48:42.391Z",
+      "title": "Tibetan Women.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021670593/"
+    }
+  ],
+  "resources": [
+    {
+      "files": [
+        [
+          {
+            "height": 397,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:6.25/0/default.jpg",
+            "width": 475
+          },
+          {
+            "height": 794,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:12.5/0/default.jpg",
+            "width": 950
+          },
+          {
+            "height": 1589,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:25/0/default.jpg",
+            "width": 1900
+          },
+          {
+            "height": 3178,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:50/0/default.jpg",
+            "width": 3801
+          },
+          {
+            "height": 6356,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:100/0/default.jpg",
+            "width": 7602
+          },
+          {
+            "height": 6356,
+            "info": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/info.json",
+            "levels": 7,
+            "mimetype": "image/jp2",
+            "size": 14141816,
+            "url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/03/8/wdl_15038/am004751.jp2",
+            "width": 7602
+          }
+        ]
+      ],
+      "image": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:6.25/0/default.jpg",
+      "url": "https://www.loc.gov/resource/gdcwdl.wdl_15038/",
+      "zip": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/15/03/8/wdl_15038/wdl_15038.zip"
+    }
+  ],
+  "timestamp": 1792450471323
+}

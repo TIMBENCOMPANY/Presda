@@ -1,0 +1,29 @@
+{
+  "extinct-animals-lost-creatures-planet": {
+    "4": "smilodon",
+    "7": "megalodon",
+    "10": "titanoboa",
+    "13": "megatherium",
+    "16": "deinosuchus",
+    "19": "quetzalcoatlus",
+    "22": "thylacine",
+    "25": "dodo",
+    "28": "great-auk",
+    "31": "passenger-pigeon",
+    "34": "sea-cow",
+    "37": "quagga",
+    "40": "irish-elk",
+    "43": "arthropleura",
+    "46": "dunkleosteus",
+    "49": "helicoprion",
+    "52": "woolly-rhino",
+    "55": "haast-eagle",
+    "58": "moa",
+    "61": "ibex"
+  },
+  "tartaria-lost-empire-history-conspiracy": {
+    "2": "tartary-map",
+    "11": "tartary-1757",
+    "23": "fair-plan"
+  }
+}

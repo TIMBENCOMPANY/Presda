@@ -1694,5 +1694,399 @@
       "width": 1080,
       "src": "/articles/bee/pollen-1080.webp"
     }
+  ],
+  "/articles/extinction-tartary/smilodon.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/smilodon-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/smilodon-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/smilodon-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/smilodon-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/megalodon.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/megalodon-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/megalodon-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/megalodon-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/megalodon-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/titanoboa.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/titanoboa-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/titanoboa-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/titanoboa-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/titanoboa-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/megatherium.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/megatherium-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/megatherium-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/megatherium-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/megatherium-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/deinosuchus.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/deinosuchus-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/deinosuchus-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/deinosuchus-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/deinosuchus-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/quetzalcoatlus.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/quetzalcoatlus-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/quetzalcoatlus-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/quetzalcoatlus-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/quetzalcoatlus-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/thylacine.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/thylacine-400.webp"
+    },
+    {
+      "width": 425,
+      "src": "/articles/extinction-tartary/variants/thylacine-425.webp"
+    }
+  ],
+  "/articles/extinction-tartary/dodo.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/dodo-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/dodo-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/dodo-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/dodo-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/great-auk.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/great-auk-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/great-auk-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/great-auk-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/great-auk-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/passenger-pigeon.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/passenger-pigeon-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/passenger-pigeon-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/passenger-pigeon-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/passenger-pigeon-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/sea-cow.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/sea-cow-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/sea-cow-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/sea-cow-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/sea-cow-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/quagga.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/quagga-400.webp"
+    },
+    {
+      "width": 569,
+      "src": "/articles/extinction-tartary/variants/quagga-569.webp"
+    }
+  ],
+  "/articles/extinction-tartary/irish-elk.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/irish-elk-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/irish-elk-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/irish-elk-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/irish-elk-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/arthropleura.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/arthropleura-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/arthropleura-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/arthropleura-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/arthropleura-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/dunkleosteus.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/dunkleosteus-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/dunkleosteus-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/dunkleosteus-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/dunkleosteus-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/helicoprion.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/helicoprion-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/helicoprion-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/helicoprion-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/helicoprion-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/woolly-rhino.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/woolly-rhino-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/woolly-rhino-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/woolly-rhino-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/woolly-rhino-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/haast-eagle.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/haast-eagle-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/haast-eagle-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/haast-eagle-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/haast-eagle-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/moa.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/moa-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/moa-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/moa-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/moa-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/ibex.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/ibex-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/ibex-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/ibex-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/ibex-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/tartary-map.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/tartary-map-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/tartary-map-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/tartary-map-1200.webp"
+    },
+    {
+      "width": 1400,
+      "src": "/articles/extinction-tartary/variants/tartary-map-1400.webp"
+    }
+  ],
+  "/articles/extinction-tartary/fair-plan.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/fair-plan-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/fair-plan-800.webp"
+    },
+    {
+      "width": 947,
+      "src": "/articles/extinction-tartary/variants/fair-plan-947.webp"
+    }
+  ],
+  "/articles/extinction-tartary/tartary-1757.webp": [
+    {
+      "width": 400,
+      "src": "/articles/extinction-tartary/variants/tartary-1757-400.webp"
+    },
+    {
+      "width": 800,
+      "src": "/articles/extinction-tartary/variants/tartary-1757-800.webp"
+    },
+    {
+      "width": 1200,
+      "src": "/articles/extinction-tartary/variants/tartary-1757-1200.webp"
+    },
+    {
+      "width": 1600,
+      "src": "/articles/extinction-tartary/variants/tartary-1757-1600.webp"
+    }
   ]
 }

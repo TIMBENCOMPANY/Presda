@@ -1,0 +1,784 @@
+[
+  {
+    "id": "smilodon",
+    "src": "/articles/extinction-tartary/smilodon.webp",
+    "width": 1400,
+    "height": 885,
+    "title": "File:Smilodon californicus skeleton UCMP.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Smilodon_californicus_skeleton_UCMP.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Smilodon_californicus_skeleton_UCMP.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "© BrokenSphere / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "The skeleton of a Smilodon californicus in the collection of the University of California Museum of Paleontology and on display at the Valley Life Sciences Building on the UC Berkeley campus in Berkeley, California.  The skeleton of a domestic cat is displayed for scale.",
+    "permission": "This file (photograph, motion picture, graphic or audio recording) was created by BrokenSphere. It is not in the public domain and use of this file outside of the licensing terms is a copyright violation. If you would like to use this image outside of Wikimedia projects, I would appreciate it if you let me know by sending me an email (preferred) or leaving a note on my talk page as a courtesy. I would appreciate notice of where image(s) are being used so that I can link to them.\nPlease credit authorship as follows:   © BrokenSphere / Wikimedia Commons. Where source attribution is required, you may link to this file page.\nFor use within the terms of the CC-BY-SA license, no permission is required. If you would like special permission to use, license, or purchase the file for use without the BY and/or SA requirements, please contact me to negotiate licensing terms.",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Mounted Smilodon skeleton at UC Berkeley, with a domestic cat skeleton for comparison. The historical label uses Smilodon californicus.",
+        "alt": "Mounted Smilodon skeleton at UC Berkeley, with a domestic cat skeleton for comparison. The historical label uses Smilodon californicus."
+      },
+      "fr": {
+        "caption": "Squelette monté de Smilodon à Berkeley, avec un chat domestique pour comparaison. L’ancienne désignation est Smilodon californicus.",
+        "alt": "Squelette monté de Smilodon à Berkeley, avec un chat domestique pour comparaison. L’ancienne désignation est Smilodon californicus."
+      },
+      "es": {
+        "caption": "Esqueleto montado de Smilodon en Berkeley, comparado con un gato doméstico. La denominación histórica es Smilodon californicus.",
+        "alt": "Esqueleto montado de Smilodon en Berkeley, comparado con un gato doméstico. La denominación histórica es Smilodon californicus."
+      },
+      "ar": {
+        "caption": "هيكل سميلودون في بيركلي مع هيكل قط منزلي للمقارنة. تستخدم التسمية التاريخية اسم Smilodon californicus.",
+        "alt": "هيكل سميلودون في بيركلي مع هيكل قط منزلي للمقارنة. تستخدم التسمية التاريخية اسم Smilodon californicus."
+      }
+    }
+  },
+  {
+    "id": "megalodon",
+    "src": "/articles/extinction-tartary/megalodon.webp",
+    "width": 1400,
+    "height": 902,
+    "title": "File:Megalodon tooth great white shark teeth.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Megalodon_tooth_great_white_shark_teeth.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Megalodon_tooth_great_white_shark_teeth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Brocken Inaglory",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "Carcharodon megalodon () tooth with two great white shark teeth and with a US 25 cent coin (23 mm in diameter) as a scale object",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "A megalodon tooth beside two great white shark teeth and a coin. This is a comparison of teeth, not complete body sizes.",
+        "alt": "A megalodon tooth beside two great white shark teeth and a coin. This is a comparison of teeth, not complete body sizes."
+      },
+      "fr": {
+        "caption": "Dent de mégalodon à côté de deux dents de grand requin blanc et d’une pièce. Comparaison des dents, pas des corps.",
+        "alt": "Dent de mégalodon à côté de deux dents de grand requin blanc et d’une pièce. Comparaison des dents, pas des corps."
+      },
+      "es": {
+        "caption": "Diente de megalodón junto a dos dientes de tiburón blanco y una moneda. Compara dientes, no cuerpos completos.",
+        "alt": "Diente de megalodón junto a dos dientes de tiburón blanco y una moneda. Compara dientes, no cuerpos completos."
+      },
+      "ar": {
+        "caption": "سن ميغالودون بجانب سني قرش أبيض وقطعة نقدية. المقارنة للأسنان لا لأحجام الأجسام الكاملة.",
+        "alt": "سن ميغالودون بجانب سني قرش أبيض وقطعة نقدية. المقارنة للأسنان لا لأحجام الأجسام الكاملة."
+      }
+    }
+  },
+  {
+    "id": "titanoboa",
+    "src": "/articles/extinction-tartary/titanoboa.webp",
+    "width": 1400,
+    "height": 1369,
+    "title": "File:Titanoboa paratype precloacal vertebra UF-IGM 2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Titanoboa_paratype_precloacal_vertebra_UF-IGM_2.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Titanoboa_paratype_precloacal_vertebra_UF-IGM_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Anfecaro",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Fossilized Titanoboa vertebra on display at the José Royo & Gómez Geological Museum in Bogotá, Colombia.",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Titanoboa vertebra displayed at the José Royo y Gómez Geological Museum in Bogotá.",
+        "alt": "Titanoboa vertebra displayed at the José Royo y Gómez Geological Museum in Bogotá."
+      },
+      "fr": {
+        "caption": "Vertèbre de Titanoboa exposée au musée géologique José Royo y Gómez de Bogotá.",
+        "alt": "Vertèbre de Titanoboa exposée au musée géologique José Royo y Gómez de Bogotá."
+      },
+      "es": {
+        "caption": "Vértebra de Titanoboa expuesta en el Museo Geológico José Royo y Gómez de Bogotá.",
+        "alt": "Vértebra de Titanoboa expuesta en el Museo Geológico José Royo y Gómez de Bogotá."
+      },
+      "ar": {
+        "caption": "فقرة تيتانوبوا معروضة في متحف خوسيه رويو إي غوميز الجيولوجي ببوغوتا.",
+        "alt": "فقرة تيتانوبوا معروضة في متحف خوسيه رويو إي غوميز الجيولوجي ببوغوتا."
+      }
+    }
+  },
+  {
+    "id": "megatherium",
+    "src": "/articles/extinction-tartary/megatherium.webp",
+    "width": 1400,
+    "height": 1394,
+    "title": "File:Megatherium americanum skeleton at the Natural History Museum, London.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Megatherium_americanum_skeleton_at_the_Natural_History_Museum,_London.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Megatherium_americanum_skeleton_at_the_Natural_History_Museum%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "APK",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "description": "Megatherium americanum skeleton at the Natural History Museum, London",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Mounted Megatherium americanum skeleton, Natural History Museum, London.",
+        "alt": "Mounted Megatherium americanum skeleton, Natural History Museum, London."
+      },
+      "fr": {
+        "caption": "Squelette monté de Megatherium americanum au Natural History Museum de Londres.",
+        "alt": "Squelette monté de Megatherium americanum au Natural History Museum de Londres."
+      },
+      "es": {
+        "caption": "Esqueleto montado de Megatherium americanum en el Museo de Historia Natural de Londres.",
+        "alt": "Esqueleto montado de Megatherium americanum en el Museo de Historia Natural de Londres."
+      },
+      "ar": {
+        "caption": "هيكل مركب لميغاثيريوم أمريكانوم في متحف التاريخ الطبيعي بلندن.",
+        "alt": "هيكل مركب لميغاثيريوم أمريكانوم في متحف التاريخ الطبيعي بلندن."
+      }
+    }
+  },
+  {
+    "id": "deinosuchus",
+    "src": "/articles/extinction-tartary/deinosuchus.webp",
+    "width": 1400,
+    "height": 1275,
+    "title": "File:Deinosuchus hatcheri skull.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Deinosuchus_hatcheri_skull.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Deinosuchus_hatcheri_skull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Wilson44691",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Deinosuchus hatcheri skull at the Natural History Museum of Utah.",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Deinosuchus hatcheri skull exhibit, Natural History Museum of Utah. Museum mounts may include restored elements.",
+        "alt": "Deinosuchus hatcheri skull exhibit, Natural History Museum of Utah. Museum mounts may include restored elements."
+      },
+      "fr": {
+        "caption": "Crâne de Deinosuchus hatcheri au musée d’histoire naturelle de l’Utah. Les montages peuvent inclure des parties restaurées.",
+        "alt": "Crâne de Deinosuchus hatcheri au musée d’histoire naturelle de l’Utah. Les montages peuvent inclure des parties restaurées."
+      },
+      "es": {
+        "caption": "Cráneo de Deinosuchus hatcheri en el Museo de Historia Natural de Utah. El montaje puede incluir elementos restaurados.",
+        "alt": "Cráneo de Deinosuchus hatcheri en el Museo de Historia Natural de Utah. El montaje puede incluir elementos restaurados."
+      },
+      "ar": {
+        "caption": "جمجمة دينوسوكس هاتشيري في متحف التاريخ الطبيعي بيوتا. قد تتضمن المعروضات أجزاء مرممة.",
+        "alt": "جمجمة دينوسوكس هاتشيري في متحف التاريخ الطبيعي بيوتا. قد تتضمن المعروضات أجزاء مرممة."
+      }
+    }
+  },
+  {
+    "id": "quetzalcoatlus",
+    "src": "/articles/extinction-tartary/quetzalcoatlus.webp",
+    "width": 1400,
+    "height": 1575,
+    "title": "File:Quetzalcoatlus from below.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Quetzalcoatlus_from_below.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Quetzalcoatlus_from_below.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Geekgecko",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "description": "Mounted skeleton cast of Quetzalcoatlus, seen from below. At Perot Museum",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Quetzalcoatlus skeletal cast viewed from below at the Perot Museum. A reconstructed mount, not a complete original fossil.",
+        "alt": "Quetzalcoatlus skeletal cast viewed from below at the Perot Museum. A reconstructed mount, not a complete original fossil."
+      },
+      "fr": {
+        "caption": "Moulage du squelette de Quetzalcoatlus vu du dessous au Perot Museum. Montage reconstitué, pas fossile original complet.",
+        "alt": "Moulage du squelette de Quetzalcoatlus vu du dessous au Perot Museum. Montage reconstitué, pas fossile original complet."
+      },
+      "es": {
+        "caption": "Molde del esqueleto de Quetzalcoatlus visto desde abajo en el Museo Perot. Reconstrucción, no fósil original completo.",
+        "alt": "Molde del esqueleto de Quetzalcoatlus visto desde abajo en el Museo Perot. Reconstrucción, no fósil original completo."
+      },
+      "ar": {
+        "caption": "قالب هيكل كويتزالكواتلس من الأسفل في متحف بيروت. تركيب معاد البناء لا أحفورة أصلية كاملة.",
+        "alt": "قالب هيكل كويتزالكواتلس من الأسفل في متحف بيروت. تركيب معاد البناء لا أحفورة أصلية كاملة."
+      }
+    }
+  },
+  {
+    "id": "thylacine",
+    "src": "/articles/extinction-tartary/thylacine.webp",
+    "width": 425,
+    "height": 366,
+    "title": "File:ThylacineHobart1933.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:ThylacineHobart1933.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/75/ThylacineHobart1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "(Series relates to Australian Information Bureau and successor agencies)",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "description": "Tasmanian Tiger (Thylacine) photographed at the Hobart Zoo",
+    "permission": "Public domain pre 1955 photo",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Historical photograph of a living thylacine at Hobart Zoo, 1933.",
+        "alt": "Historical photograph of a living thylacine at Hobart Zoo, 1933."
+      },
+      "fr": {
+        "caption": "Photographie historique d’un thylacine vivant au zoo de Hobart, 1933.",
+        "alt": "Photographie historique d’un thylacine vivant au zoo de Hobart, 1933."
+      },
+      "es": {
+        "caption": "Fotografía histórica de un tilacino vivo en el zoológico de Hobart, 1933.",
+        "alt": "Fotografía histórica de un tilacino vivo en el zoológico de Hobart, 1933."
+      },
+      "ar": {
+        "caption": "صورة تاريخية لثايلسين حي في حديقة حيوان هوبارت عام 1933.",
+        "alt": "صورة تاريخية لثايلسين حي في حديقة حيوان هوبارت عام 1933."
+      }
+    }
+  },
+  {
+    "id": "dodo",
+    "src": "/articles/extinction-tartary/dodo.webp",
+    "width": 1400,
+    "height": 1414,
+    "title": "File:Dodo-Skeleton Natural History Museum London England.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dodo-Skeleton_Natural_History_Museum_London_England.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Dodo-Skeleton_Natural_History_Museum_London_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Heinz-Josef Lücking",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "description": "Dodo-Skeleton (Raphus cucullatus), Natural History Museum, London, England",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Dodo skeletal display, Natural History Museum, London. A museum skeleton, not a photograph of the living bird.",
+        "alt": "Dodo skeletal display, Natural History Museum, London. A museum skeleton, not a photograph of the living bird."
+      },
+      "fr": {
+        "caption": "Squelette de dodo au Natural History Museum de Londres, et non photographie d’un oiseau vivant.",
+        "alt": "Squelette de dodo au Natural History Museum de Londres, et non photographie d’un oiseau vivant."
+      },
+      "es": {
+        "caption": "Esqueleto de dodo en el Museo de Historia Natural de Londres, no fotografía del ave viva.",
+        "alt": "Esqueleto de dodo en el Museo de Historia Natural de Londres, no fotografía del ave viva."
+      },
+      "ar": {
+        "caption": "هيكل دودو معروض في متحف التاريخ الطبيعي بلندن، وليس صورة لطائر حي.",
+        "alt": "هيكل دودو معروض في متحف التاريخ الطبيعي بلندن، وليس صورة لطائر حي."
+      }
+    }
+  },
+  {
+    "id": "great-auk",
+    "src": "/articles/extinction-tartary/great-auk.webp",
+    "width": 1400,
+    "height": 2152,
+    "title": "File:Great auk in winter plumage, Copenhagen.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Great_auk_in_winter_plumage,_Copenhagen.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/63/Great_auk_in_winter_plumage%2C_Copenhagen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "FunkMonk",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "One of four known great auk specimens in winter plumage (Copenhagen's winter auk, bird no. 24 per Fuller 1999), caught in Qeqertarsuaq, Greenland, in 1815. Natural History Museum of Denmark, Copenhagen.",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Preserved great auk in winter plumage, collected in Greenland in 1815; Natural History Museum of Denmark.",
+        "alt": "Preserved great auk in winter plumage, collected in Greenland in 1815; Natural History Museum of Denmark."
+      },
+      "fr": {
+        "caption": "Grand Pingouin conservé en plumage hivernal, collecté au Groenland en 1815 ; musée d’histoire naturelle du Danemark.",
+        "alt": "Grand Pingouin conservé en plumage hivernal, collecté au Groenland en 1815 ; musée d’histoire naturelle du Danemark."
+      },
+      "es": {
+        "caption": "Alca gigante conservada con plumaje invernal, recogida en Groenlandia en 1815; Museo de Historia Natural de Dinamarca.",
+        "alt": "Alca gigante conservada con plumaje invernal, recogida en Groenlandia en 1815; Museo de Historia Natural de Dinamarca."
+      },
+      "ar": {
+        "caption": "عينة أوك كبير بريش شتوي جُمعت في غرينلاند عام 1815، متحف التاريخ الطبيعي في الدنمارك.",
+        "alt": "عينة أوك كبير بريش شتوي جُمعت في غرينلاند عام 1815، متحف التاريخ الطبيعي في الدنمارك."
+      }
+    }
+  },
+  {
+    "id": "passenger-pigeon",
+    "src": "/articles/extinction-tartary/passenger-pigeon.webp",
+    "width": 1400,
+    "height": 1946,
+    "title": "File:Martha last passenger pigeon 1912.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Martha_last_passenger_pigeon_1912.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Martha_last_passenger_pigeon_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Enno Meyer",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "description": "Martha the last passenger pigeon.",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Martha, the last known passenger pigeon, photographed in 1912 by Enno Meyer.",
+        "alt": "Martha, the last known passenger pigeon, photographed in 1912 by Enno Meyer."
+      },
+      "fr": {
+        "caption": "Martha, dernier pigeon migrateur connu, photographiée en 1912 par Enno Meyer.",
+        "alt": "Martha, dernier pigeon migrateur connu, photographiée en 1912 par Enno Meyer."
+      },
+      "es": {
+        "caption": "Martha, última paloma migratoria conocida, fotografiada en 1912 por Enno Meyer.",
+        "alt": "Martha, última paloma migratoria conocida, fotografiada en 1912 por Enno Meyer."
+      },
+      "ar": {
+        "caption": "مارثا، آخر حمامة مهاجرة معروفة، في صورة لإنو ماير عام 1912.",
+        "alt": "مارثا، آخر حمامة مهاجرة معروفة، في صورة لإنو ماير عام 1912."
+      }
+    }
+  },
+  {
+    "id": "sea-cow",
+    "src": "/articles/extinction-tartary/sea-cow.webp",
+    "width": 1400,
+    "height": 609,
+    "title": "File:Hydrodamalis gigas skeleton - Finnish Museum of Natural History - DSC04529.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Hydrodamalis_gigas_skeleton_-_Finnish_Museum_of_Natural_History_-_DSC04529.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hydrodamalis_gigas_skeleton_-_Finnish_Museum_of_Natural_History_-_DSC04529.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Exhibit in the Finnish Museum of Natural History, Helsinki, Finland. Photography was permitted in the museum without restriction.",
+    "permission": "This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication.\n\n\nThe person who associated a work with this deed has dedicated the work to the public domain by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\nhttp://creativecommons.org/publicdomain/zero/1.0/deed.enCC0Creative Commons Zero, Public Domain Dedicationfalsefalse",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Steller’s sea cow skeletal display, Finnish Museum of Natural History, Helsinki.",
+        "alt": "Steller’s sea cow skeletal display, Finnish Museum of Natural History, Helsinki."
+      },
+      "fr": {
+        "caption": "Squelette exposé de rhytine de Steller au musée finlandais d’histoire naturelle, Helsinki.",
+        "alt": "Squelette exposé de rhytine de Steller au musée finlandais d’histoire naturelle, Helsinki."
+      },
+      "es": {
+        "caption": "Esqueleto expuesto de vaca marina de Steller en el Museo Finlandés de Historia Natural, Helsinki.",
+        "alt": "Esqueleto expuesto de vaca marina de Steller en el Museo Finlandés de Historia Natural, Helsinki."
+      },
+      "ar": {
+        "caption": "هيكل بقرة البحر لستيلر في المتحف الفنلندي للتاريخ الطبيعي بهلسنكي.",
+        "alt": "هيكل بقرة البحر لستيلر في المتحف الفنلندي للتاريخ الطبيعي بهلسنكي."
+      }
+    }
+  },
+  {
+    "id": "quagga",
+    "src": "/articles/extinction-tartary/quagga.webp",
+    "width": 569,
+    "height": 399,
+    "title": "File:Quagga photo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Quagga_photo.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Quagga_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Frederick York (d. 1903)",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "description": "Quagga (Equus quagga quagga) is an extinct sub-species of zebra. Mare, London, Regent's Park ZOO.",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Historical photograph of a living quagga mare at London Zoo.",
+        "alt": "Historical photograph of a living quagga mare at London Zoo."
+      },
+      "fr": {
+        "caption": "Photographie historique d’une femelle quagga vivante au zoo de Londres.",
+        "alt": "Photographie historique d’une femelle quagga vivante au zoo de Londres."
+      },
+      "es": {
+        "caption": "Fotografía histórica de una cuaga hembra viva en el zoológico de Londres.",
+        "alt": "Fotografía histórica de una cuaga hembra viva en el zoológico de Londres."
+      },
+      "ar": {
+        "caption": "صورة تاريخية لأنثى كواغا حية في حديقة حيوان لندن.",
+        "alt": "صورة تاريخية لأنثى كواغا حية في حديقة حيوان لندن."
+      }
+    }
+  },
+  {
+    "id": "irish-elk",
+    "src": "/articles/extinction-tartary/irish-elk.webp",
+    "width": 1400,
+    "height": 1001,
+    "title": "File:Megaloceros giganteus Paris 25 05 2013 01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Megaloceros_giganteus_Paris_25_05_2013_01.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Megaloceros_giganteus_Paris_25_05_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Vassil",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Megaloceros giganteus, a fossil skeleton in the Muséum National d'Histoire Naturelle in Paris.",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Detail of a Megaloceros giganteus skeletal mount in Paris, showing the skull and broad antlers.",
+        "alt": "Detail of a Megaloceros giganteus skeletal mount in Paris, showing the skull and broad antlers."
+      },
+      "fr": {
+        "caption": "Détail d’un squelette de Megaloceros giganteus à Paris : crâne et grands bois.",
+        "alt": "Détail d’un squelette de Megaloceros giganteus à Paris : crâne et grands bois."
+      },
+      "es": {
+        "caption": "Detalle de un esqueleto de Megaloceros giganteus en París, con cráneo y grandes astas.",
+        "alt": "Detalle de un esqueleto de Megaloceros giganteus en París, con cráneo y grandes astas."
+      },
+      "ar": {
+        "caption": "تفصيل لهيكل ميغالوسيروس غيغانتيوس في باريس يظهر الجمجمة والقرون العريضة.",
+        "alt": "تفصيل لهيكل ميغالوسيروس غيغانتيوس في باريس يظهر الجمجمة والقرون العريضة."
+      }
+    }
+  },
+  {
+    "id": "arthropleura",
+    "src": "/articles/extinction-tartary/arthropleura.webp",
+    "width": 1400,
+    "height": 1074,
+    "title": "File:Arthropleura fossil Poland.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Arthropleura_fossil_Poland.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Arthropleura_fossil_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Prehistorica CM",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "description": "A fossil tergite (axial region) of Arthropleura sp. from the Carboniferous of Poland, surrounded by various fossil plants.",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "An Arthropleura dorsal plate fossil from Carboniferous Poland, surrounded by plant impressions. Not a complete animal.",
+        "alt": "An Arthropleura dorsal plate fossil from Carboniferous Poland, surrounded by plant impressions. Not a complete animal."
+      },
+      "fr": {
+        "caption": "Plaque dorsale fossile d’Arthropleura du Carbonifère polonais, entourée d’empreintes végétales. Pas un animal complet.",
+        "alt": "Plaque dorsale fossile d’Arthropleura du Carbonifère polonais, entourée d’empreintes végétales. Pas un animal complet."
+      },
+      "es": {
+        "caption": "Placa dorsal fósil de Arthropleura del Carbonífero de Polonia, entre impresiones vegetales. No es un animal completo.",
+        "alt": "Placa dorsal fósil de Arthropleura del Carbonífero de Polonia, entre impresiones vegetales. No es un animal completo."
+      },
+      "ar": {
+        "caption": "صفيحة ظهرية أحفورية لأرثروبليورا من كربوني بولندا تحيط بها طبعات نباتية، وليست حيواناً كاملاً.",
+        "alt": "صفيحة ظهرية أحفورية لأرثروبليورا من كربوني بولندا تحيط بها طبعات نباتية، وليست حيواناً كاملاً."
+      }
+    }
+  },
+  {
+    "id": "dunkleosteus",
+    "src": "/articles/extinction-tartary/dunkleosteus.webp",
+    "width": 1400,
+    "height": 1050,
+    "title": "File:Dunkleosteus skull side.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Dunkleosteus_skull_side.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Dunkleosteus_skull_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "LadyofHats",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "description": "Dunkleosteus",
+    "permission": "Public domainPublic domainfalsefalse\n\n\n\n\n\nI, the copyright holder of this work, release this work into the public domain. This applies worldwide.In some countries this may not be legally possible; if so:I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Side view of a Dunkleosteus skull exhibit, showing the armored head and cutting jaw edges.",
+        "alt": "Side view of a Dunkleosteus skull exhibit, showing the armored head and cutting jaw edges."
+      },
+      "fr": {
+        "caption": "Vue latérale d’un crâne exposé de Dunkleosteus : tête cuirassée et bords tranchants des mâchoires.",
+        "alt": "Vue latérale d’un crâne exposé de Dunkleosteus : tête cuirassée et bords tranchants des mâchoires."
+      },
+      "es": {
+        "caption": "Vista lateral de un cráneo expuesto de Dunkleosteus, con cabeza acorazada y bordes cortantes.",
+        "alt": "Vista lateral de un cráneo expuesto de Dunkleosteus, con cabeza acorazada y bordes cortantes."
+      },
+      "ar": {
+        "caption": "منظر جانبي لجمجمة دنكليوستيوس معروضة، يظهر درع الرأس وحواف الفك القاطعة.",
+        "alt": "منظر جانبي لجمجمة دنكليوستيوس معروضة، يظهر درع الرأس وحواف الفك القاطعة."
+      }
+    }
+  },
+  {
+    "id": "helicoprion",
+    "src": "/articles/extinction-tartary/helicoprion.webp",
+    "width": 1400,
+    "height": 1360,
+    "title": "File:Helicoprion tooth whorl.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Helicoprion_tooth_whorl.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Helicoprion_tooth_whorl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "James St. John",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "description": "Helicoprion sp. - fossil shark tooth whorl from the Permian of Idaho, USA. (public display, FHPR L2003-2, Utah Field House of Natural History, Vernal, Utah, USA)\nThis remarkable fossil is a symphyseal tooth whorl from the lower jaw of an edestoid shark.  It is in fossiliferous limestone of the Permian-aged Phosphoria Formation in Idaho.  Sharks have a cartilaginous skeleton and mineralized, phosphatic teeth (as are all vertebrate teeth).  Helicoprion is undoubtedly the strangest shark in geologic history (see reconstructions elsewhere in this photo album).\nSome paleontologists have interpreted the tooth whorl of this shark as part of a coiled lower jaw that may have been whipped outward and back to capture fish prey.  Although intriguing, this type of reconstruction is almost certainly incorrect.  Instead of an external lower tooth whorl, the tooth whorl was likely internal.  The latter interpretation is based on well-preserved specimens with soft-part preservation from Idaho Phosphoria Formation concretions.\n\n\nFrom museum signage:\nThis stunning fossil is a shark tooth-whorl.  A whorl is a spiral of teeth that Helicoprion sharks evolved 250 million years ago.  This species of early shark may have been more than 10 feet long and used its unusual teeth to injure and disable prey.\n\n\nClassification: Animalia, Chordata, Vertebrata, Chondrichthyes, Elasmobranchii, Eugeneodontida, Edestoidea, Agassizodontidae/Helicoprionidae\nStratigraphy: Phosphoria Formation (a.k.a. Park City Formation), Roadian Stage to Wordian Stage, mid-Permian\n\nLocality: unrecorded/undisclosed site in Idaho (likely southeastern Idaho), USA",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Helicoprion tooth whorl from Permian Idaho, displayed at the Utah Field House of Natural History.",
+        "alt": "Helicoprion tooth whorl from Permian Idaho, displayed at the Utah Field House of Natural History."
+      },
+      "fr": {
+        "caption": "Spirale dentaire d’Helicoprion du Permien de l’Idaho, exposée à l’Utah Field House of Natural History.",
+        "alt": "Spirale dentaire d’Helicoprion du Permien de l’Idaho, exposée à l’Utah Field House of Natural History."
+      },
+      "es": {
+        "caption": "Espiral dental de Helicoprion del Pérmico de Idaho, expuesta en Utah Field House of Natural History.",
+        "alt": "Espiral dental de Helicoprion del Pérmico de Idaho, expuesta en Utah Field House of Natural History."
+      },
+      "ar": {
+        "caption": "لولب أسنان هيليكوبريون من برمي آيداهو، معروض في متحف يوتا للتاريخ الطبيعي.",
+        "alt": "لولب أسنان هيليكوبريون من برمي آيداهو، معروض في متحف يوتا للتاريخ الطبيعي."
+      }
+    }
+  },
+  {
+    "id": "woolly-rhino",
+    "src": "/articles/extinction-tartary/woolly-rhino.webp",
+    "width": 1400,
+    "height": 721,
+    "title": "File:Coelodonta antiquitatis .jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coelodonta_antiquitatis_.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Coelodonta_antiquitatis_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Woolly Rhinoceros (Coelodonta antiquitatis Blumenbach, 1807)\nStage :  370 000 - 10 000 Years Pleistocene\nLocality : Yamalo-Nenetsky region, Siberia, Russia\nMuseum of Toulouse\nSize : 4x1.75 m",
+    "permission": "I, the copyright holder of this work, hereby publish it under the following license:",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Woolly rhinoceros skeletal mount, Muséum de Toulouse.",
+        "alt": "Woolly rhinoceros skeletal mount, Muséum de Toulouse."
+      },
+      "fr": {
+        "caption": "Squelette monté de rhinocéros laineux au Muséum de Toulouse.",
+        "alt": "Squelette monté de rhinocéros laineux au Muséum de Toulouse."
+      },
+      "es": {
+        "caption": "Esqueleto montado de rinoceronte lanudo en el Museo de Toulouse.",
+        "alt": "Esqueleto montado de rinoceronte lanudo en el Museo de Toulouse."
+      },
+      "ar": {
+        "caption": "هيكل مركب لوحيد القرن الصوفي في متحف تولوز.",
+        "alt": "هيكل مركب لوحيد القرن الصوفي في متحف تولوز."
+      }
+    }
+  },
+  {
+    "id": "haast-eagle",
+    "src": "/articles/extinction-tartary/haast-eagle.webp",
+    "width": 1400,
+    "height": 602,
+    "title": "File:Harpagornis moorei skull.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Harpagornis_moorei_skull.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/Harpagornis_moorei_skull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Transactions and Proceedings of the Royal Society of New Zealand",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "description": "Art. XI.—On the Fissures and Caves at the Castle Rocks, Southland; with a Description of the Remains of the Existing and Extinct Birds found in them from Transactions and Proceedings of the Royal Society of New Zealand (1892).\n\nResult of a Further Exploration of the Bonefissure at the Castle Rocks, Southland from Transactions and Proceedings of the Royal Society of New Zealand (1893).",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Historical scientific plate of Haast’s eagle skull material, published in Transactions of the Royal Society of New Zealand in 1892.",
+        "alt": "Historical scientific plate of Haast’s eagle skull material, published in Transactions of the Royal Society of New Zealand in 1892."
+      },
+      "fr": {
+        "caption": "Planche scientifique historique du crâne de l’aigle de Haast, publiée en 1892 dans les Transactions de la Royal Society of New Zealand.",
+        "alt": "Planche scientifique historique du crâne de l’aigle de Haast, publiée en 1892 dans les Transactions de la Royal Society of New Zealand."
+      },
+      "es": {
+        "caption": "Lámina científica histórica del cráneo del águila de Haast, publicada en 1892 en Transactions de la Royal Society of New Zealand.",
+        "alt": "Lámina científica histórica del cráneo del águila de Haast, publicada en 1892 en Transactions de la Royal Society of New Zealand."
+      },
+      "ar": {
+        "caption": "لوحة علمية تاريخية لجمجمة عقاب هاست نُشرت عام 1892 في دورية الجمعية الملكية النيوزيلندية.",
+        "alt": "لوحة علمية تاريخية لجمجمة عقاب هاست نُشرت عام 1892 في دورية الجمعية الملكية النيوزيلندية."
+      }
+    }
+  },
+  {
+    "id": "moa",
+    "src": "/articles/extinction-tartary/moa.webp",
+    "width": 1400,
+    "height": 933,
+    "title": "File:Dinornis robustus (AM LB723) 601381.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dinornis_robustus_(AM_LB723)_601381.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Dinornis_robustus_%28AM_LB723%29_601381.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Auckland War Memorial Museum Tāmaki Paenga Hira",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "description": "Dinornis robustus, Takaka, Nelson district: fossil bones",
+    "permission": "This file has been released under a CC BY 4.0 license by Auckland Museum",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Skull of the South Island giant moa, Dinornis robustus, specimen AM LB723, Auckland Museum. This represents one of nine moa species.",
+        "alt": "Skull of the South Island giant moa, Dinornis robustus, specimen AM LB723, Auckland Museum. This represents one of nine moa species."
+      },
+      "fr": {
+        "caption": "Crâne du moa géant de l’île du Sud, Dinornis robustus, spécimen AM LB723, Auckland Museum. Une des neuf espèces de moa.",
+        "alt": "Crâne du moa géant de l’île du Sud, Dinornis robustus, spécimen AM LB723, Auckland Museum. Une des neuf espèces de moa."
+      },
+      "es": {
+        "caption": "Cráneo de moa gigante de la Isla Sur, Dinornis robustus, espécimen AM LB723, Museo de Auckland. Una de nueve especies.",
+        "alt": "Cráneo de moa gigante de la Isla Sur, Dinornis robustus, espécimen AM LB723, Museo de Auckland. Una de nueve especies."
+      },
+      "ar": {
+        "caption": "جمجمة موا الجزيرة الجنوبية العملاقة، Dinornis robustus، العينة AM LB723 في متحف أوكلاند، وهي واحدة من تسعة أنواع.",
+        "alt": "جمجمة موا الجزيرة الجنوبية العملاقة، Dinornis robustus، العينة AM LB723 في متحف أوكلاند، وهي واحدة من تسعة أنواع."
+      }
+    }
+  },
+  {
+    "id": "ibex",
+    "src": "/articles/extinction-tartary/ibex.webp",
+    "width": 1400,
+    "height": 1120,
+    "title": "File:Capra pyrenaica pyrenaica MHNT ART 39.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Capra_pyrenaica_pyrenaica_MHNT_ART_39.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Capra_pyrenaica_pyrenaica_MHNT_ART_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Roger Culos",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "taxidermied specimen, Pyrenean ibex, size : 135 x 35 x 110 cm",
+    "permission": "I, the copyright holder of this work, hereby publish it under the following license:",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Preserved Pyrenean ibex specimen, Muséum de Toulouse. Not a photograph of Celia or the cloned kid.",
+        "alt": "Preserved Pyrenean ibex specimen, Muséum de Toulouse. Not a photograph of Celia or the cloned kid."
+      },
+      "fr": {
+        "caption": "Spécimen conservé de bouquetin des Pyrénées au Muséum de Toulouse. Ni Celia ni le chevreau cloné.",
+        "alt": "Spécimen conservé de bouquetin des Pyrénées au Muséum de Toulouse. Ni Celia ni le chevreau cloné."
+      },
+      "es": {
+        "caption": "Ejemplar conservado de bucardo en el Museo de Toulouse. No es Celia ni la cría clonada.",
+        "alt": "Ejemplar conservado de bucardo en el Museo de Toulouse. No es Celia ni la cría clonada."
+      },
+      "ar": {
+        "caption": "عينة محفوظة لوعل البرانس في متحف تولوز، وليست صورة لسيليا أو الصغير المستنسخ.",
+        "alt": "عينة محفوظة لوعل البرانس في متحف تولوز، وليست صورة لسيليا أو الصغير المستنسخ."
+      }
+    }
+  },
+  {
+    "id": "tartary-map",
+    "src": "/articles/extinction-tartary/tartary-map.webp",
+    "width": 1400,
+    "height": 1072,
+    "title": "File:1706 map - Carte De Tartarie.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:1706_map_-_Carte_De_Tartarie.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1706_map_-_Carte_De_Tartarie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "credit": "Guillaume de L'Isle",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "description": "1706 map - Carte De Tartarie",
+    "permission": "",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Guillaume Delisle’s Carte de Tartarie, 1706. A genuine historical map whose geographical labels require interpretation.",
+        "alt": "Guillaume Delisle’s Carte de Tartarie, 1706. A genuine historical map whose geographical labels require interpretation."
+      },
+      "fr": {
+        "caption": "Carte de Tartarie de Guillaume Delisle, 1706. Carte historique authentique dont les désignations doivent être interprétées.",
+        "alt": "Carte de Tartarie de Guillaume Delisle, 1706. Carte historique authentique dont les désignations doivent être interprétées."
+      },
+      "es": {
+        "caption": "Carte de Tartarie de Guillaume Delisle, 1706. Mapa histórico auténtico cuyas etiquetas requieren interpretación.",
+        "alt": "Carte de Tartarie de Guillaume Delisle, 1706. Mapa histórico auténtico cuyas etiquetas requieren interpretación."
+      },
+      "ar": {
+        "caption": "خريطة تارتاري لغيوم ديليل عام 1706، وثيقة تاريخية أصلية تحتاج تسمياتها الجغرافية إلى تفسير.",
+        "alt": "خريطة تارتاري لغيوم ديليل عام 1706، وثيقة تاريخية أصلية تحتاج تسمياتها الجغرافية إلى تفسير."
+      }
+    }
+  },
+  {
+    "id": "fair-plan",
+    "src": "/articles/extinction-tartary/fair-plan.webp",
+    "width": 947,
+    "height": 1024,
+    "source": "https://www.loc.gov/item/2024636088/",
+    "original": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/73100/73183v.jpg",
+    "credit": "Richard Morris Hunt (architect), A. Riquois (drawing), 1893. Library of Congress, Prints and Photographs Division, LC-DIG-ppmsca-73183",
+    "license": "Public domain; no known restrictions",
+    "licenseUrl": "https://www.loc.gov/item/2024636088/#rights-and-access",
+    "description": "[World's Columbian Exposition, Chicago, Illinois. Administrative Building]. [Elevation and plan]",
+    "permission": "No known restrictions on publication.",
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Elevation and plan of Chicago’s 1893 exposition Administration Building: Richard Morris Hunt, architect; A. Riquois, drawing.",
+        "alt": "Elevation and plan of Chicago’s 1893 exposition Administration Building: Richard Morris Hunt, architect; A. Riquois, drawing."
+      },
+      "fr": {
+        "caption": "Élévation et plan du bâtiment administratif de l’exposition de Chicago de 1893 : Richard Morris Hunt, architecte ; A. Riquois, dessin.",
+        "alt": "Élévation et plan du bâtiment administratif de l’exposition de Chicago de 1893 : Richard Morris Hunt, architecte ; A. Riquois, dessin."
+      },
+      "es": {
+        "caption": "Elevación y plano del edificio administrativo de la exposición de Chicago de 1893: arquitecto Richard Morris Hunt; dibujo de A. Riquois.",
+        "alt": "Elevación y plano del edificio administrativo de la exposición de Chicago de 1893: arquitecto Richard Morris Hunt; dibujo de A. Riquois."
+      },
+      "ar": {
+        "caption": "واجهة ومخطط المبنى الإداري لمعرض شيكاغو عام 1893: المعماري ريتشارد موريس هانت، والرسم لأ. ريكوا.",
+        "alt": "واجهة ومخطط المبنى الإداري لمعرض شيكاغو عام 1893: المعماري ريتشارد موريس هانت، والرسم لأ. ريكوا."
+      }
+    }
+  },
+  {
+    "id": "tartary-1757",
+    "src": "/articles/extinction-tartary/tartary-1757.webp",
+    "width": 1600,
+    "height": 1337,
+    "source": "https://www.loc.gov/item/2021668613/",
+    "original": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:03:8:wdl_15038:am004751/full/pct:25/0/default.jpg",
+    "credit": "Guillaume Delisle, 1757 edition. University of Wisconsin-Milwaukee Libraries, World Digital Library / Library of Congress",
+    "license": "Public domain; no known restrictions",
+    "licenseUrl": "https://www.loc.gov/item/2021668613/#rights-and-access",
+    "description": "Map of the Great Tartary. Established upon the Accounts of Several Travelers from Various Nations and Several Observations Made in that Country.",
+    "permission": [
+      "<p>The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, <a href=\"https://webarchive.loc.gov/all/2/https://www.wdl.org/en/partners/\">see this archived list of partners</a></p>\n<p>The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here.</p>\n<p>Credit Line: [Original Source citation], World Digital Library</p>\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a></p>\n<p>For additional information and contact information for many of the partner organizations, see this archived <a href=\"/item/lcwaN0018836/\">capture of the World Digital Library site</a> from 2021.</p>\n<p>For guidance about compiling full citations consult <a href=\"/programs/teachers/getting-started-with-primary-sources/citing/\">Citing Primary Sources</a>.</p>"
+    ],
+    "changes": "Resized and converted to WebP; proportions and image content preserved.",
+    "verifiedAt": "2026-10-20",
+    "copy": {
+      "en": {
+        "caption": "Map of Great Tartary, 1757 edition after Guillaume Delisle, from the University of Wisconsin-Milwaukee Libraries.",
+        "alt": "Map of Great Tartary, 1757 edition after Guillaume Delisle, from the University of Wisconsin-Milwaukee Libraries."
+      },
+      "fr": {
+        "caption": "Carte de la Grande Tartarie, édition de 1757 d’après Guillaume Delisle, bibliothèques de l’Université du Wisconsin à Milwaukee.",
+        "alt": "Carte de la Grande Tartarie, édition de 1757 d’après Guillaume Delisle, bibliothèques de l’Université du Wisconsin à Milwaukee."
+      },
+      "es": {
+        "caption": "Mapa de la Gran Tartaria, edición de 1757 según Guillaume Delisle, bibliotecas de la Universidad de Wisconsin-Milwaukee.",
+        "alt": "Mapa de la Gran Tartaria, edición de 1757 según Guillaume Delisle, bibliotecas de la Universidad de Wisconsin-Milwaukee."
+      },
+      "ar": {
+        "caption": "خريطة تارتاري الكبرى، طبعة 1757 وفق غيوم ديليل، من مكتبات جامعة ويسكونسن ميلووكي.",
+        "alt": "خريطة تارتاري الكبرى، طبعة 1757 وفق غيوم ديليل، من مكتبات جامعة ويسكونسن ميلووكي."
+      }
+    }
+  }
+]
