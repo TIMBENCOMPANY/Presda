@@ -1,0 +1,220 @@
+import type { Article } from "@/data/articles";
+export const dnaArticle: Article = {
+  "id": "289",
+  "slug": "human-dna-code-that-builds-us",
+  "title": "Human DNA: The Code That Builds Us",
+  "seoTitle": "Human DNA: Genes, Inheritance, CRISPR and the Genome",
+  "metaDescription": "Explore human DNA, genes, chromosomes, inheritance and CRISPR, with clear explanations of genetic disease, evolution and what genes can determine.",
+  "excerpt": "Explore human DNA, genes, chromosomes, inheritance and CRISPR, with clear explanations of genetic disease, evolution and what genes can determine.",
+  "category": "Science",
+  "schemaType": "Article",
+  "date": "2026-10-19",
+  "lastUpdated": "2026-10-19",
+  "author": "PRESDA Editorial",
+  "status": "published",
+  "readingTime": "15 min read",
+  "coverImage": "/articles/dna-hero.png",
+  "coverAlt": "PRESDA AI-generated illustration of a blue DNA double helix against a black background",
+  "headlineHighlights": {
+    "red": "Human DNA",
+    "gold": "The Code"
+  },
+  "tags": [
+    "DNA",
+    "Genetics",
+    "Human Genome",
+    "CRISPR",
+    "Inheritance"
+  ],
+  "content": [
+    "Every time a wound closes, a growing child gains height or an immune cell multiplies, molecular information is being copied and interpreted. DNA, short for deoxyribonucleic acid, stores the hereditary information that cells use to make functional molecules and regulate biological processes. Its sequence connects the chemistry inside a cell with the history of a family and, further back, the evolution of life.",
+    "Yet the familiar description of DNA as a blueprint needs care. A genome does not contain a miniature person or a complete script for a future life. Development depends on cells communicating, genes being regulated, nutrients arriving and environments changing. Understanding DNA means understanding both the extraordinary power of inherited information and the limits of treating a human being as a sequence of letters.",
+    "## What is DNA, and why does its shape matter?",
+    "DNA is a long molecule assembled from nucleotides. Each contains a sugar, a phosphate group and one of four bases: adenine, thymine, cytosine or guanine, abbreviated A, T, C and G. Two strands generally wind around one another to form a double helix. Their sugar-phosphate backbones run in opposite directions, while bases pair across the interior: A with T, and C with G. The sequence matters because different arrangements carry different biological information. The pairing matters because each strand can provide a template for building a complementary partner. [NHGRI: DNA fact sheet](https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet)",
+    "The helix is neither a rigid ladder nor a glowing structure like an editorial illustration. In cells it bends, twists, interacts with proteins and becomes accessible in particular places at particular times. Chemical attractions stabilize the molecule without preventing it from being opened when necessary. This combination of stability and accessibility helps explain why DNA works as an information store. Information must survive, but it must also be read. A sequence locked permanently beyond the reach of cellular machinery would be biologically useless, however accurately it had been preserved.",
+    "## How scientists learned to read the molecule",
+    "The discovery of DNA's structure was a collective achievement, not the invention of DNA itself. In 1953, James Watson and Francis Crick proposed the double-helix model. X-ray diffraction work by Rosalind Franklin and Maurice Wilkins provided crucial structural evidence, alongside other chemical findings. The importance of the model was explanatory: complementary base pairing suggested how hereditary information could be copied. Remembering the experimental work behind the famous model gives a more accurate picture of discovery than a story about a sudden insight detached from evidence. [NHGRI: the 1953 double helix](https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix)",
+    "Later discoveries transformed structure into readable information. DNA sequencing determines the order of bases; it does not automatically reveal what every stretch does. Modern instruments read enormous numbers of DNA fragments, while computational methods assemble or align those reads and identify differences. Repeated regions, technical errors and interpretation remain important challenges. The revolution was not simply that scientists could see a molecule more clearly. They could begin comparing sequences, connecting particular changes with biological effects and asking questions that older methods could not resolve. [NHGRI: DNA sequencing](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet)",
+    "## Genes, chromosomes and the scale of a genome",
+    "A gene is a DNA sequence whose expression produces a functional product, often a protein or an RNA molecule. A chromosome is a much larger package of DNA and associated proteins containing many genes and other sequences. Most human body cells with a nucleus normally have 46 chromosomes arranged in 23 pairs, with one set inherited from each parent. Egg and sperm cells normally carry 23. Mature red blood cells have no nucleus, so the familiar statement that every cell holds a complete nuclear genome has exceptions. [MedlinePlus: genes](https://medlineplus.gov/genetics/understanding/basics/gene/)",
+    "One set of human nuclear chromosomes contains roughly three billion base pairs. An ordinary diploid cell therefore holds about twice that amount before DNA replication. Humans have around 20,000 protein-coding genes, not one gene for every characteristic. DNA also exists in mitochondria, the cellular compartments involved in energy metabolism, where a small genome operates alongside many nuclear genes. Mitochondrial DNA is ordinarily inherited through the mother. Genome size, chromosome number and biological complexity are different measurements; none is a simple ranking of how advanced an organism is. [NHGRI: human genomic variation](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation)",
+    "DNA packaging is itself functional. Nuclear DNA winds around histone proteins and forms chromatin, whose organization helps manage access to particular sequences. The familiar X-shaped chromosome is a condensed, replicated form seen around cell division, not the permanent appearance of every chromosome in every cell. Its two sister chromatids contain copied DNA, whereas a chromosome pair consists of the corresponding maternal and paternal chromosomes. Confusing those two relationships makes inheritance harder to understand. Packaging keeps long molecules manageable while allowing cells to copy, protect and use them. [NHGRI: chromosomes](https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet)",
+    "## Most DNA does not directly encode proteins",
+    "Only a small fraction of the human genome, roughly one to two percent depending on definitions, directly encodes protein sequences. The rest is not one uniform category. It includes regulatory regions, genes for functional RNAs, introns removed from many RNA transcripts, repeated sequences and structures important to chromosome organization. Some regions have well-established functions; others remain poorly understood or lack evidence of a specific selected function. Calling all noncoding DNA useless is inaccurate, but declaring that every base has an essential purpose goes beyond the evidence. [MedlinePlus: noncoding DNA](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/)",
+    "Consider a gene that produces a useful protein. Making that protein in the wrong tissue, at the wrong developmental stage or in an inappropriate amount can still cause harm. Regulatory DNA helps control those circumstances. A variant outside a protein-coding region can therefore affect health by changing when a gene is used rather than altering the protein's sequence. To understand a genome, researchers must study both the molecular products and the systems that control their production. Reading only the protein instructions leaves much of the regulatory story unseen. [MedlinePlus: variants in noncoding DNA](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/noncondingdnahealth/)",
+    "## Replication: copying a genome without starting over",
+    "Before a typical body cell divides, it copies its DNA. The strands separate, and each becomes a template for a new complementary strand. Enzymes called DNA polymerases build the copies, with additional proteins opening DNA, providing starting points and joining fragments. Because the strands run in opposite directions, their synthesis is organized differently: one can be extended continuously at a moving replication fork, while the other is assembled in short segments. Each completed double helix contains an old strand and a newly synthesized one, the principle called semiconservative replication. [NHGRI: DNA replication](https://www.genome.gov/genetics-glossary/DNA-Replication)",
+    "Copying is remarkably accurate, but it is not infallible. Polymerase proofreading and DNA repair mechanisms detect and correct many problems. Damage can also occur between divisions through ordinary chemical reactions or environmental exposures. The distinction between damage and mutation matters: damage is a chemical lesion, whereas a mutation is a lasting sequence change. Cells may repair damage, stop dividing or die; not every lesion becomes an inherited alteration. Biological continuity relies on active maintenance, not on a molecule that is immune to wear. [NCBI Bookshelf: DNA replication and repair](https://www.ncbi.nlm.nih.gov/books/NBK26879/)",
+    "## Gene expression: the same library, different readers",
+    "A liver cell and a neuron can contain essentially the same nuclear DNA while doing very different work. Gene expression explains much of this difference. During transcription, an RNA copy is produced from a DNA template. For protein-coding genes, processed messenger RNA is read by ribosomes, which assemble amino acids into proteins. RNA codons, groups of three bases, specify amino acids or stop signals. Other genes produce RNAs that function without being translated. DNA does not personally build a muscle or transmit a thought; cellular systems use its information. [MedlinePlus: making proteins](https://medlineplus.gov/genetics/understanding/howgeneswork/makingprotein/)",
+    "Expression is regulated at several stages, including transcription, RNA processing and protein production. Transcription factors bind particular DNA regions, and signals from other cells influence their activity. Alternative splicing allows some genes to produce different RNA forms, helping explain why counting genes alone cannot describe the variety of cellular products. Development unfolds through networks of these interactions. The brain, explored in [PRESDA's human brain feature](/articles/human-brain-most-complex-organ/), depends on gene activity, cellular organization and experience together. A DNA sequence is part of that explanation, not a substitute for it. [MedlinePlus: gene regulation](https://medlineplus.gov/genetics/understanding/howgeneswork/geneonoff/)",
+    "## Epigenetics: regulation without rewriting the letters",
+    "Epigenetics concerns changes in gene activity associated with mechanisms that do not alter the underlying DNA sequence. Chemical modifications to DNA and its associated histone proteins can influence how accessible a region is to cellular machinery. Some patterns are maintained when cells divide, helping a specialized cell retain its identity. These mechanisms are essential to development and are involved in disease. They are not a mystical layer above biology, but measurable molecular processes that interact with other forms of gene regulation. [MedlinePlus: epigenetics](https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/)",
+    "Environmental conditions can influence epigenetic patterns, but popular claims often outrun the research. A change observed after an exposure does not by itself show that it caused an illness, will last for life or will pass to grandchildren. Much epigenetic information is reset during reproduction. Demonstrating inheritance across generations requires separating genetic, environmental and developmental explanations. The reasonable conclusion is that biology responds to circumstances, not that thoughts can freely rewrite the genome or that an epigenetic test can reveal an entire personal history. [NHGRI: epigenomics](https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet)",
+    "## Inheritance: why families resemble one another",
+    "Inheritance begins with the formation of egg and sperm cells through meiosis. Chromosome pairs separate, and recombination exchanges DNA between corresponding chromosomes. Children therefore inherit new combinations rather than a simple intact half of each parent's visible traits. Different versions of a sequence are called alleles. For some conditions, a disease-associated change in one copy of a gene is sufficient to cause disease; for others, both copies must be affected. These dominant and recessive patterns describe relationships between variants and outcomes, not whether a trait is stronger or better. [MedlinePlus: inheritance patterns](https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/)",
+    "For a classic autosomal recessive condition, two unaffected carriers each holding one disease-causing variant in the relevant gene have a 25 percent chance of an affected child in each pregnancy. That probability starts again with every pregnancy; it does not promise one affected child in a family of four. Other conditions follow X-linked or mitochondrial patterns, and some arise through new variants rather than a family history. Penetrance and variable expression add complexity: people carrying a particular variant may differ in whether, when or how severely a condition develops. [MedlinePlus: inheritance probabilities](https://medlineplus.gov/genetics/understanding/inheritance/riskassessment/)",
+    "## Mutations are changes, not moral judgments",
+    "A genetic variant can involve a single substituted base, a small insertion or deletion, or a much larger rearrangement. Some changes alter a protein, some affect regulation and many have little detectable effect in a given context. The word mutation does not mean that something monstrous or inevitably harmful has occurred. Variants are part of normal biological diversity as well as a source of disease. Their consequences depend on their position, the molecular change, other genetic factors and the environment in which an organism lives. [MedlinePlus: types of variants](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/)",
+    "Germline variants can be transmitted through eggs or sperm. Somatic variants arise in other cells and can produce populations of genetically different cells within one person, a phenomenon known as mosaicism. Cancer often involves acquired changes that disrupt controls on growth, although inherited variants can increase susceptibility. A condition can therefore be genetic without being inherited. This distinction matters for families: finding a DNA change in a tumour does not automatically mean that relatives carry it, and finding a risk variant does not guarantee disease. [MedlinePlus: how variants arise](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/)",
+    "## Genetic disease and the limits of prediction",
+    "Sickle cell disease illustrates how a change affecting haemoglobin can alter red blood cell behaviour and cause serious illness. Cystic fibrosis involves disease-causing variants in CFTR, affecting a protein involved in salt transport. Chromosomal conditions operate at another scale: Down syndrome usually involves an extra copy of chromosome 21. These examples are not interchangeable. The effects of a sequence variant, a missing chromosome segment and an extra chromosome depend on different mechanisms. Diagnosis requires more than noticing that a DNA result differs from a reference. [MedlinePlus: genetic disorders](https://medlineplus.gov/geneticdisorders.html)",
+    "Many common conditions, including type 2 diabetes and heart disease, involve numerous genetic influences alongside environmental and social factors. Height and many behavioural traits are also complex. Heritability describes variation within a studied population under particular conditions; it is not the percentage of an individual determined by genes. A high heritability estimate does not prove that a trait cannot change. Genetic findings cannot justify a fixed hierarchy of human worth or a claim that someone has a single gene for intelligence, ambition or moral character. [MedlinePlus: complex disorders](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/complexdisorders/)",
+    "Testing also requires asking a practical question: what would knowing change? A result may clarify a rare diagnosis, inform reproductive decisions or help guide a treatment. It can also leave uncertainty or reveal an unexpected risk unrelated to the original question. A negative result does not exclude every genetic explanation, because tests differ in what they detect and science has not linked every relevant variant to disease. Interpretation combines laboratory findings with clinical and family information. Genetic counselling helps people understand those limits rather than treating a report as a prediction of destiny. [MedlinePlus: types of genetic tests](https://medlineplus.gov/genetics/understanding/testing/types/)",
+    "## From one reference genome to human diversity",
+    "The Human Genome Project ran from 1990 to 2003 and established a foundational human reference sequence. Its completion did not mean that every region had been resolved: difficult repetitive sequences remained. In 2022, the Telomere-to-Telomere consortium reported a gapless sequence of the autosomes and X chromosome from a particular cell line. A complete Y chromosome sequence followed in 2023. These achievements improved the map, but no single sequence can represent every person's genome. A reference is a tool for comparison, not a standard of biological perfection. [NHGRI: Human Genome Project](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project) [Nature: complete Y chromosome](https://www.nature.com/articles/s41586-023-06457-y)",
+    "A 2023 draft human pangenome incorporated genomes from 47 individuals, moving toward a reference that represents alternative sequences and structural variation. Diversity is also important for medical prediction. Polygenic risk scores combine information from many variants, but their performance depends on the populations and data used to develop them. A score may transfer poorly to an underrepresented population. Improving representation, consent and interpretation is therefore part of scientific accuracy, not an optional addition after discovery. The challenge is to make genomic medicine informative for more people. [Nature: draft human pangenome](https://www.nature.com/articles/s41586-023-05896-x) [NHGRI: diverse genetic risk prediction](https://www.genome.gov/news/news-release/researchers-optimize-genetic-tests-for-diverse-populations-to-tackle-health-disparities)",
+    "Association is another essential distinction. When a genomic region appears more often among people with a trait, that is a starting point for investigation, not proof that a particular base causes the trait. Nearby variants can travel together through inheritance, and study design can introduce misleading patterns. Researchers combine statistical evidence with molecular experiments, replication and clinical observation to identify mechanisms. The strongest findings explain not only that a sequence differs, but how that difference changes biology. Many discoveries remain at intermediate stages of that process. [NHGRI: genome-wide association studies](https://www.genome.gov/about-genomics/fact-sheets/Genome-Wide-Association-Studies-Fact-Sheet)",
+    "## DNA as a record of evolution",
+    "Mutations create new variation; recombination reshuffles existing variation. Natural selection can increase variants that improve reproductive success in a particular environment, while genetic drift changes frequencies through chance. Migration moves variants between populations. Evolution is therefore not a ladder toward perfection, and mutations do not appear because an organism knows what it needs. A variant helpful in one setting may be neutral or harmful in another. Comparing DNA reveals relationships among species because their sequences carry traces of shared ancestry and subsequent change. [MedlinePlus: variants and evolution](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/evolution/)",
+    "The same molecular principles connect human genetics with the wider living world. Bacteria also copy and express DNA, although their organization and gene regulation differ in important ways. Their evolutionary history helped provide the tools now used to alter human cells: CRISPR systems originated as part of microbial defences. These connections are explored further in [PRESDA's bacteria feature](/articles/bacteria-good-bad-microbes-shape-our-lives/). Human biology becomes more intelligible when placed within evolution, rather than treated as a separate invention whose molecular rules have no counterparts elsewhere in life. [NHGRI: genome editing](https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing)",
+    "## CRISPR: from a research tool to treatment",
+    "CRISPR-based editing uses a guide RNA to direct an associated protein toward a target DNA sequence. In a common Cas9 approach, the protein cuts DNA and the cell's repair processes help produce an alteration. This does not make editing automatically precise or safe: unintended changes, incomplete editing, delivery to the right cells and immune responses all require investigation. Gene therapy is broader than CRISPR. Some treatments add genetic material without editing the original sequence, while others modify cells outside the body before returning them to a patient. [MedlinePlus: gene therapy mechanisms](https://medlineplus.gov/genetics/understanding/therapy/procedures/)",
+    "In December 2023, the US FDA approved Casgevy for certain patients aged 12 and older with sickle cell disease, the first FDA-approved treatment using CRISPR/Cas9. It edits a patient's blood-forming stem cells to increase fetal haemoglobin production, rather than simply repairing the sickle variant in every cell. Treatment involves specialized collection, manufacturing, conditioning chemotherapy and transplantation, with significant risks and follow-up needs. This is a major clinical advance, not a universal cure for genetic disease. The distinction between laboratory possibility and established treatment remains central to [the history and future of medicine](/articles/history-future-of-medicine/). [FDA: first CRISPR-based approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)",
+    "Research applications are equally important. Editing a selected sequence in cultured cells can help test whether it changes gene activity or alters a response to a drug. A convincing experiment needs suitable comparisons and checks for unintended effects. A result in a cell dish is not automatically a treatment for a whole person, whose tissues interact and whose immune system may respond differently. Models help narrow questions, while clinical studies establish whether an intervention actually benefits patients. This stepwise approach is slower than a dramatic headline, but it is how useful technologies become trustworthy.",
+    "## The future: engineering with humility",
+    "Base editing and prime editing aim to make selected changes without relying on the same double-strand cutting strategy as conventional Cas9 editing. A 2019 Nature study introduced prime editing as a way to write specified changes using a guide and an engineered enzyme system. Such methods expand the experimental toolkit; they do not eliminate the need to test delivery, unwanted effects, durability and clinical benefit. Likewise, sequencing a genome can identify a promising clue without producing a diagnosis. A variant of uncertain significance remains uncertain until sufficient evidence supports interpretation. [Nature: prime editing](https://www.nature.com/articles/s41586-019-1711-4) [MedlinePlus: genetic testing](https://www.medlineplus.gov/genetictesting.html)",
+    "Editing non-reproductive cells to treat a person differs fundamentally from making heritable changes in embryos or reproductive cells. The latter could affect future generations who cannot consent, with consequences that may be difficult to predict or reverse. Access, disability rights, privacy and the boundary between treatment and enhancement belong inside the scientific discussion. DNA data also concern relatives, not only the person tested. The most credible future for genetics combines technical capability with careful evidence and public accountability. The code helps build us, but understanding it should deepen respect for human complexity rather than reduce a life to a molecular verdict. [NHGRI: ethics of genome editing](https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns)"
+  ],
+  "references": [
+    {
+      "name": "NHGRI: DNA fact sheet",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
+    },
+    {
+      "name": "NHGRI: the 1953 double helix",
+      "url": "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix"
+    },
+    {
+      "name": "NHGRI: DNA sequencing",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet"
+    },
+    {
+      "name": "MedlinePlus: genes",
+      "url": "https://medlineplus.gov/genetics/understanding/basics/gene/"
+    },
+    {
+      "name": "NHGRI: human genomic variation",
+      "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation"
+    },
+    {
+      "name": "NHGRI: chromosomes",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet"
+    },
+    {
+      "name": "MedlinePlus: noncoding DNA",
+      "url": "https://medlineplus.gov/genetics/understanding/basics/noncodingdna/"
+    },
+    {
+      "name": "MedlinePlus: variants in noncoding DNA",
+      "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/noncondingdnahealth/"
+    },
+    {
+      "name": "NHGRI: DNA replication",
+      "url": "https://www.genome.gov/genetics-glossary/DNA-Replication"
+    },
+    {
+      "name": "NCBI Bookshelf: DNA replication and repair",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK26879/"
+    },
+    {
+      "name": "MedlinePlus: making proteins",
+      "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/makingprotein/"
+    },
+    {
+      "name": "MedlinePlus: gene regulation",
+      "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/geneonoff/"
+    },
+    {
+      "name": "MedlinePlus: epigenetics",
+      "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/"
+    },
+    {
+      "name": "NHGRI: epigenomics",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet"
+    },
+    {
+      "name": "MedlinePlus: inheritance patterns",
+      "url": "https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/"
+    },
+    {
+      "name": "MedlinePlus: inheritance probabilities",
+      "url": "https://medlineplus.gov/genetics/understanding/inheritance/riskassessment/"
+    },
+    {
+      "name": "MedlinePlus: types of variants",
+      "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/"
+    },
+    {
+      "name": "MedlinePlus: how variants arise",
+      "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/"
+    },
+    {
+      "name": "MedlinePlus: genetic disorders",
+      "url": "https://medlineplus.gov/geneticdisorders.html"
+    },
+    {
+      "name": "MedlinePlus: complex disorders",
+      "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/complexdisorders/"
+    },
+    {
+      "name": "MedlinePlus: types of genetic tests",
+      "url": "https://medlineplus.gov/genetics/understanding/testing/types/"
+    },
+    {
+      "name": "NHGRI: Human Genome Project",
+      "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project"
+    },
+    {
+      "name": "Nature: complete Y chromosome",
+      "url": "https://www.nature.com/articles/s41586-023-06457-y"
+    },
+    {
+      "name": "Nature: draft human pangenome",
+      "url": "https://www.nature.com/articles/s41586-023-05896-x"
+    },
+    {
+      "name": "NHGRI: diverse genetic risk prediction",
+      "url": "https://www.genome.gov/news/news-release/researchers-optimize-genetic-tests-for-diverse-populations-to-tackle-health-disparities"
+    },
+    {
+      "name": "NHGRI: genome-wide association studies",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/Genome-Wide-Association-Studies-Fact-Sheet"
+    },
+    {
+      "name": "MedlinePlus: variants and evolution",
+      "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/evolution/"
+    },
+    {
+      "name": "NHGRI: genome editing",
+      "url": "https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing"
+    },
+    {
+      "name": "MedlinePlus: gene therapy mechanisms",
+      "url": "https://medlineplus.gov/genetics/understanding/therapy/procedures/"
+    },
+    {
+      "name": "FDA: first CRISPR-based approval",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease"
+    },
+    {
+      "name": "Nature: prime editing",
+      "url": "https://www.nature.com/articles/s41586-019-1711-4"
+    },
+    {
+      "name": "MedlinePlus: genetic testing",
+      "url": "https://www.medlineplus.gov/genetictesting.html"
+    },
+    {
+      "name": "NHGRI: ethics of genome editing",
+      "url": "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns"
+    }
+  ],
+  "relatedSlugs": [
+    "human-brain-most-complex-organ",
+    "bacteria-good-bad-microbes-shape-our-lives",
+    "history-future-of-medicine",
+    "dolly-cloned-sheep-changed-science"
+  ],
+  "faq": []
+};

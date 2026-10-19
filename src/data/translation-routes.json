@@ -1936,6 +1936,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/human-dna-code-that-builds-us/",
+    "path": "/ar/articles/human-dna-code-that-builds-us/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/human-dna-code-that-builds-us/",
+    "path": "/es/articles/human-dna-code-that-builds-us/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/human-dna-code-that-builds-us/",
+    "path": "/fr/articles/human-dna-code-that-builds-us/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/human-family-tree-human-evolution-species/",
     "path": "/ar/articles/human-family-tree-human-evolution-species/"
   },

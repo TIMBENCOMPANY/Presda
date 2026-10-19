@@ -1654,5 +1654,25 @@
       "width": 1080,
       "src": "/articles/brain/mri-1080.webp"
     }
+  ],
+  "/articles/dna/structure.webp": [
+    {
+      "width": 480,
+      "src": "/articles/dna/structure-480.webp"
+    },
+    {
+      "width": 817,
+      "src": "/articles/dna/structure-817.webp"
+    }
+  ],
+  "/articles/dna/replication.webp": [
+    {
+      "width": 480,
+      "src": "/articles/dna/replication-480.webp"
+    },
+    {
+      "width": 819,
+      "src": "/articles/dna/replication-819.webp"
+    }
   ]
 }

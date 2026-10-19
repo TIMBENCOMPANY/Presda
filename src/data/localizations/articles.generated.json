@@ -172145,6 +172145,1095 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/human-dna-code-that-builds-us/",
+    "path": "/ar/articles/human-dna-code-that-builds-us/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "الحمض النووي البشري: الشفرة التي تبنينا",
+    "seoTitle": "الحمض النووي البشري: الجينات والوراثة وكريسبر",
+    "description": "استكشف الحمض النووي البشري والجينات والكروموسومات والوراثة وكريسبر، مع شرح الأمراض الجينية والتطور وحدود ما تحدده الجينات.",
+    "excerpt": "استكشف الحمض النووي البشري والجينات والكروموسومات والوراثة وكريسبر، مع شرح الأمراض الجينية والتطور وحدود ما تحدده الجينات.",
+    "headlineHighlights": {
+      "red": "الحمض النووي البشري",
+      "gold": "الشفرة"
+    },
+    "keywords": [
+      "الحمض النووي البشري",
+      "DNA",
+      "CRISPR"
+    ],
+    "searchIntent": "استكشف الحمض النووي البشري والجينات والكروموسومات والوراثة وكريسبر، مع شرح الأمراض الجينية والتطور وحدود ما تحدده الجينات.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/dna-hero.png",
+      "alt": "رسم مولد بالذكاء الاصطناعي لصالح PRESDA للولب مزدوج أزرق من الحمض النووي على خلفية سوداء"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "كلما التأم جرح أو ازداد طول طفل أو تكاثرت خلية مناعية، كانت معلومات جزيئية تُنسخ وتُفسر. يحتفظ الحمض النووي الريبوزي منقوص الأكسجين، المعروف اختصاراً بـ DNA، بالمعلومات الوراثية التي تستخدمها الخلايا لصنع جزيئات وظيفية وتنظيم عملياتها الحيوية. وتصل تسلسلاته بين الكيمياء داخل الخلية وتاريخ الأسرة، ثم بتاريخ تطور الحياة الأبعد بكثير."
+      },
+      {
+        "type": "paragraph",
+        "text": "لكن وصف الحمض النووي بأنه مخطط بناء يحتاج إلى دقة. فالجينوم لا يحتوي على إنسان مصغر ولا على سيناريو كامل لحياته المقبلة. يعتمد النمو على تواصل الخلايا وتنظيم الجينات ووصول المغذيات وتغير البيئة. وفهم DNA يعني إدراك قوة المعلومات الموروثة وحدود اختزال الإنسان في تسلسل من الحروف في الوقت نفسه."
+      },
+      {
+        "type": "heading",
+        "text": "ما الحمض النووي، ولماذا يهم شكله؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "الحمض النووي جزيء طويل يتكون من وحدات تسمى النيوكليوتيدات. تضم كل وحدة سكراً ومجموعة فوسفات وإحدى أربع قواعد: الأدينين والثايمين والسيتوسين والغوانين، التي يرمز إليها بالحروف A وT وC وG. يلتف شريطان عادة حول بعضهما ليشكلا لولباً مزدوجاً. ويسير الهيكل المؤلف من السكر والفوسفات في اتجاهين متعاكسين، بينما تتزاوج القواعد داخله: A مع T وC مع G. يحمل ترتيبها المعلومات الحيوية، وتسمح تكامليتها لكل شريط بأن يكون قالباً لبناء شريك مكمل له. [المصدر: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ليس اللولب سلماً صلباً ولا بنية مضيئة كما يظهر في الرسوم التحريرية. فهو ينحني ويلتوي ويتفاعل مع البروتينات، وتصبح مناطق منه متاحة في أوقات محددة داخل الخلايا. تثبته تفاعلات كيميائية من دون منع فتحه عند الحاجة. ويساعد الجمع بين الاستقرار وإمكانية الوصول على تفسير كفاءته في حفظ المعلومات. فلا بد للمعلومة أن تبقى، لكن لا بد أيضاً أن تُقرأ. والتسلسل المغلق إلى الأبد أمام الآلات الخلوية لن تكون له فائدة حيوية، مهما بلغت دقة حفظه."
+      },
+      {
+        "type": "heading",
+        "text": "كيف تعلم العلماء قراءة الجزيء؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان اكتشاف بنية DNA إنجازاً جماعياً، وليس اختراعاً للحمض النووي نفسه. اقترح جيمس واتسون وفرانسيس كريك نموذج اللولب المزدوج عام 1953. وقدمت أبحاث حيود الأشعة السينية التي أجرتها روزاليند فرانكلين وموريس ويلكنز أدلة بنيوية أساسية، إلى جانب نتائج كيميائية أخرى. وأوضح النموذج كيف يمكن لتزاوج القواعد المتكاملة أن يسمح بنسخ المعلومات الوراثية. وتذكر التجارب التي سبقته يقدم صورة أدق للاكتشاف من حكاية إلهام مفاجئ منفصل عن الأدلة. [المصدر: genome.gov](https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix)"
+      },
+      {
+        "type": "paragraph",
+        "text": "حولت الاكتشافات اللاحقة هذه البنية إلى معلومات قابلة للقراءة. يحدد تسلسل الحمض النووي ترتيب القواعد، لكنه لا يكشف تلقائياً وظيفة كل مقطع. تقرأ الأجهزة الحديثة أعداداً هائلة من القطع، ثم تجمع الطرق الحاسوبية القراءات أو تحاذيها وتحدد الفروق بينها. وتظل المناطق المتكررة والأخطاء التقنية وتفسير النتائج تحديات مهمة. لم تقتصر الثورة على رؤية جزيء بوضوح أكبر، بل أتاحت مقارنة التسلسلات وربط تغيرات محددة بتأثيرات حيوية وطرح أسئلة عجزت الطرق الأقدم عن حلها. [المصدر: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "الجينات والكروموسومات وحجم الجينوم"
+      },
+      {
+        "type": "paragraph",
+        "text": "الجين تسلسل من DNA ينتج التعبير عنه عنصراً وظيفياً، غالباً بروتيناً أو جزيئاً من RNA. أما الكروموسوم فهو حزمة أكبر بكثير من الحمض النووي والبروتينات المرتبطة به، تضم جينات عديدة وتسلسلات أخرى. تحتوي معظم خلايا الجسم البشرية ذات النواة عادة على 46 كروموسوماً مرتبة في 23 زوجاً، مجموعة من كل والد. وتحمل البويضات والحيوانات المنوية عادة 23 كروموسوماً. ولا تملك كريات الدم الحمراء الناضجة نواة، لذلك فإن القول إن كل خلية تحتوي على جينوم نووي كامل له استثناءات. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/basics/gene/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تضم المجموعة الواحدة من الكروموسومات النووية البشرية نحو ثلاثة مليارات زوج من القواعد. وتحتوي الخلية العادية ثنائية الصيغة الصبغية على ضعف ذلك تقريباً قبل تضاعف DNA. لدى الإنسان نحو عشرين ألف جين مشفر للبروتينات، وليس جيناً لكل صفة. ويوجد حمض نووي أيضاً في الميتوكوندريا، وهي حجرات تشارك في استقلاب الطاقة، حيث يعمل جينوم صغير بالتعاون مع جينات نووية عديدة. ويُورث DNA الميتوكوندريا عادة عبر الأم. وحجم الجينوم وعدد الكروموسومات والتعقيد الحيوي مقاييس مختلفة، لا ترتيباً لمدى تقدم الكائنات. [المصدر: genome.gov](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لتعبئة الحمض النووي وظيفة أيضاً. يلتف DNA النووي حول بروتينات الهستون ويشكل الكروماتين، الذي يساعد تنظيمه على ضبط الوصول إلى التسلسلات. والكروموسوم الشهير على هيئة X صورة مكثفة ومتضاعفة تظهر قرب انقسام الخلية، لا الشكل الدائم لكل كروموسوم. يحتوي الكروماتيدان الشقيقان على نسخ من DNA، بينما يضم الزوج الكروموسومي الكروموسومين المتناظرين من الأم والأب. والخلط بين العلاقتين يعقد فهم الوراثة. تتيح التعبئة إدارة الجزيئات الطويلة وحمايتها ونسخها واستخدامها. [المصدر: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "معظم الحمض النووي لا يشفر البروتينات مباشرة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشفر نسبة صغيرة من الجينوم البشري، نحو واحد إلى اثنين في المئة بحسب التعريف، تسلسلات البروتينات مباشرة. أما البقية فليست فئة واحدة متجانسة. تضم مناطق تنظيمية وجينات تنتج RNA وظيفياً وإنترونات تُزال من نسخ كثيرة وتسلسلات متكررة وبنى مهمة لتنظيم الكروموسومات. لبعض المناطق وظائف مثبتة، بينما تبقى أخرى غير مفهومة جيداً أو بلا دليل على وظيفة محددة حافظ عليها الانتقاء. وصف كل DNA غير المشفر بأنه عديم الفائدة غير دقيق، لكن إعلان أن لكل قاعدة وظيفة ضرورية يتجاوز الأدلة أيضاً. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لنتأمل جيناً ينتج بروتيناً مفيداً. صنع هذا البروتين في النسيج الخطأ أو مرحلة نمو غير مناسبة أو بكمية غير ملائمة قد يسبب الضرر. ويساعد DNA التنظيمي على ضبط هذه الظروف. لذلك قد يؤثر متغير خارج منطقة مشفرة في الصحة عبر تغيير توقيت استخدام الجين، بدلاً من تغيير تسلسل البروتين نفسه. لفهم الجينوم، يجب دراسة المنتجات الجزيئية والأنظمة التي تتحكم في إنتاجها معاً. وقراءة تعليمات البروتينات وحدها تترك جانباً كبيراً من قصة التنظيم بعيداً عن النظر. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/noncondingdnahealth/)"
+      },
+      {
+        "type": "heading",
+        "text": "التضاعف: نسخ الجينوم من دون البدء من الصفر"
+      },
+      {
+        "type": "paragraph",
+        "text": "قبل انقسام خلية جسدية نموذجية، تنسخ حمضها النووي. ينفصل الشريطان ويعمل كل منهما قالباً لشريط مكمل جديد. تبني إنزيمات تسمى بوليميرازات DNA النسخ، وتفتح بروتينات أخرى الجزيء وتوفر نقاط البداية وتصل القطع. ولأن الشريطين يسيران في اتجاهين متعاكسين، يختلف تنظيم بنائهما: يمتد أحدهما باستمرار عند شوكة التضاعف، بينما يُجمع الآخر في مقاطع قصيرة. ويحتوي كل لولب مكتمل على شريط قديم وآخر حديث التصنيع، وهو مبدأ التضاعف شبه المحافظ. [المصدر: genome.gov](https://www.genome.gov/genetics-glossary/DNA-Replication)"
+      },
+      {
+        "type": "paragraph",
+        "text": "النسخ دقيق بصورة مذهلة لكنه ليس معصوماً من الخطأ. تصحح آليات تدقيق البوليميراز وإصلاح DNA مشكلات كثيرة. وقد يحدث التلف بين الانقسامات نتيجة تفاعلات كيميائية عادية أو تعرضات بيئية. والتمييز بين التلف والطفرة مهم: الأول آفة كيميائية، والثانية تغير دائم في التسلسل. قد تصلح الخلايا الضرر أو تتوقف عن الانقسام أو تموت، ولا تتحول كل آفة إلى تغير قابل للانتقال. تعتمد الاستمرارية الحيوية على صيانة نشطة، لا على جزيء محصن ضد الاهتراء. [المصدر: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK26879/)"
+      },
+      {
+        "type": "heading",
+        "text": "التعبير الجيني: المكتبة نفسها وقراءات مختلفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تحتوي خلية كبدية وعصبون على DNA نووي متطابق تقريباً، مع أداء وظيفتين مختلفتين تماماً. يفسر التعبير الجيني جانباً كبيراً من ذلك. خلال النسخ، تتكون نسخة RNA من قالب DNA. وفي الجينات المشفرة للبروتين، تقرأ الريبوسومات RNA الرسول بعد معالجته وتجمع الأحماض الأمينية. تحدد الكودونات، وهي مجموعات من ثلاث قواعد، الأحماض الأمينية أو إشارات التوقف. وتنتج جينات أخرى RNA يعمل من دون ترجمة. لا يبني DNA عضلة بنفسه ولا ينقل فكرة مباشرة، بل تستخدم الأنظمة الخلوية معلوماته. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/howgeneswork/makingprotein/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يُنظم التعبير في مراحل عدة، منها النسخ ومعالجة RNA وإنتاج البروتين. ترتبط عوامل النسخ بمناطق محددة، وتؤثر إشارات الخلايا الأخرى في نشاطها. يسمح التضفير البديل لبعض الجينات بإنتاج أشكال مختلفة من RNA، ولذلك لا يكفي عد الجينات لوصف تنوع المنتجات الخلوية. ينشأ النمو من شبكات هذه التفاعلات. ويعتمد الدماغ على النشاط الجيني والتنظيم الخلوي والخبرة معاً. إن تسلسل DNA جزء من هذا التفسير، وليس بديلاً عن بقية أبعاده. [PRESDA: الدماغ البشري](/articles/human-brain-most-complex-organ/) [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/howgeneswork/geneonoff/)"
+      },
+      {
+        "type": "heading",
+        "text": "علم التخلق: تنظيم النشاط من دون تغيير الحروف"
+      },
+      {
+        "type": "paragraph",
+        "text": "يدرس علم التخلق تغيرات النشاط الجيني المرتبطة بآليات لا تبدل تسلسل DNA الأساسي. ويمكن للتعديلات الكيميائية على الحمض النووي وبروتينات الهستون أن تؤثر في مدى وصول الآلات الخلوية إلى منطقة معينة. وتستمر بعض الأنماط عند انقسام الخلايا، فتساعد الخلية المتخصصة على الاحتفاظ بهويتها. هذه الآليات أساسية للنمو وتشارك في الأمراض. وليست طبقة غامضة فوق علم الأحياء، بل عمليات جزيئية قابلة للقياس تتفاعل مع أشكال أخرى من التنظيم الجيني. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تؤثر الظروف البيئية في الأنماط التخلقية، لكن الادعاءات الشائعة كثيراً ما تتجاوز البحث. فالتغير المرصود بعد تعرض ما لا يثبت وحده أنه سبب مرضاً أو سيبقى مدى الحياة أو سينتقل إلى الأحفاد. ويُعاد ضبط كثير من المعلومات التخلقية أثناء التكاثر. يتطلب إثبات انتقالها بين الأجيال فصل التفسيرات الجينية والبيئية والنمائية. الاستنتاج المعقول هو أن البيولوجيا تستجيب للظروف، لا أن الأفكار تعيد كتابة الجينوم بحرية أو أن فحصاً تخلقياً يكشف التاريخ الكامل لشخص ما. [المصدر: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "الوراثة: لماذا يتشابه أفراد الأسرة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تبدأ الوراثة بتكون البويضات والحيوانات المنوية عبر الانقسام المنصف. تنفصل أزواج الكروموسومات، وتتبادل الكروموسومات المتناظرة أجزاء من DNA بإعادة التركيب. لذلك يرث الأطفال توليفات جديدة، وليس نصفاً سليماً من الصفات الظاهرة لكل والد. وتسمى النسخ المختلفة من التسلسل أليلات. في بعض الأمراض، يكفي تغير ممرض في نسخة واحدة من الجين، بينما تتطلب أمراض أخرى تأثر النسختين. تصف السيادة والتنحي علاقة المتغيرات بالنتائج، ولا تعنيان أن صفة أقوى أو أفضل من أخرى. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "في مرض جسمي متنح كلاسيكي، تكون لدى والدين غير مصابين يحمل كل منهما متغيراً ممرضاً في الجين المعني فرصة مقدارها 25 في المئة لإنجاب طفل مصاب في كل حمل. تبدأ هذه الاحتمالية من جديد مع كل حمل، ولا تضمن طفلاً مصاباً واحداً بين أربعة أطفال. تتبع حالات أخرى أنماطاً مرتبطة بالكروموسوم X أو الميتوكوندريا، وقد تنشأ حالات من متغيرات جديدة بلا تاريخ عائلي. وتضيف النفوذية والتعبير المتفاوت تعقيداً: قد يختلف حاملو المتغير نفسه في ظهور الحالة أو سن بدايتها أو شدتها. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/inheritance/riskassessment/)"
+      },
+      {
+        "type": "heading",
+        "text": "الطفرات تغيرات وليست أحكاماً أخلاقية"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يكون المتغير الجيني استبدال قاعدة واحدة أو إدخالاً أو حذفاً صغيراً أو إعادة ترتيب أكبر بكثير. تغير بعض المتغيرات بروتيناً، ويؤثر بعضها في التنظيم، بينما لا يكون لكثير منها أثر ملحوظ في سياق معين. لا تعني كلمة طفرة أن شيئاً مخيفاً أو ضاراً حتماً قد حدث. المتغيرات جزء من التنوع الحيوي الطبيعي ومصدر للأمراض أيضاً. وتتوقف نتائجها على موقعها والتغير الجزيئي والعوامل الجينية الأخرى والبيئة التي يعيش فيها الكائن. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للمتغيرات في الخط الجرثومي أن تنتقل عبر البويضات أو الحيوانات المنوية. أما المتغيرات الجسدية فتنشأ في خلايا أخرى وقد تنتج تجمعات مختلفة جينياً داخل الشخص نفسه، فيما يسمى الفسيفسائية. يتضمن السرطان غالباً تغيرات مكتسبة تعطل ضوابط النمو، وإن كانت المتغيرات الموروثة قد تزيد القابلية للإصابة. لذلك قد يكون المرض جينياً من دون أن يكون موروثاً. العثور على تغير في DNA ورم لا يعني تلقائياً أن الأقارب يحملونه، كما أن العثور على متغير خطر لا يضمن حدوث المرض. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/)"
+      },
+      {
+        "type": "heading",
+        "text": "الأمراض الجينية وحدود التنبؤ"
+      },
+      {
+        "type": "paragraph",
+        "text": "يوضح مرض الخلايا المنجلية كيف يمكن لتغير يؤثر في الهيموغلوبين أن يبدل سلوك كريات الدم الحمراء ويسبب مرضاً خطيراً. ويتضمن التليف الكيسي متغيرات ممرضة في CFTR تؤثر في بروتين يشارك في نقل الأملاح. أما الحالات الكروموسومية فتعمل على مستوى آخر: تتضمن متلازمة داون عادة نسخة إضافية من الكروموسوم 21. هذه الأمثلة ليست متكافئة. تختلف آليات تأثير تغير التسلسل وغياب جزء كروموسومي ووجود كروموسوم إضافي. ويتطلب التشخيص أكثر من مجرد ملاحظة اختلاف النتيجة عن مرجع. [المصدر: medlineplus.gov](https://medlineplus.gov/geneticdisorders.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجمع حالات شائعة كثيرة، مثل السكري من النوع الثاني وأمراض القلب، تأثيرات جينية عديدة مع عوامل بيئية واجتماعية. والطول وصفات سلوكية كثيرة معقدة أيضاً. تصف قابلية التوريث التباين داخل مجموعة سكانية دُرست في ظروف محددة، لا النسبة التي تحددها الجينات من الفرد. ولا يثبت ارتفاعها أن الصفة غير قابلة للتغيير. لا تبرر النتائج الجينية ترتيباً ثابتاً لقيمة البشر ولا الادعاء بوجود جين منفرد للذكاء أو الطموح أو الشخصية الأخلاقية. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/complexdisorders/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يتطلب الفحص سؤالاً عملياً أيضاً: ماذا ستغير المعرفة؟ قد توضح النتيجة تشخيصاً نادراً أو تساعد في قرار إنجابي أو توجه علاجاً. وقد تبقي الشكوك أو تكشف خطراً غير متوقع لا علاقة له بالسؤال الأصلي. لا تستبعد النتيجة السلبية جميع التفسيرات الجينية، لأن الفحوص تختلف فيما تكشفه ولأن العلم لم يربط كل متغير ذي صلة بالمرض. يجمع التفسير نتائج المختبر مع المعلومات السريرية والعائلية. وتساعد الاستشارة الوراثية على فهم الحدود بدلاً من قراءة التقرير بوصفه تنبؤاً بالمصير. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/testing/types/)"
+      },
+      {
+        "type": "heading",
+        "text": "من جينوم مرجعي واحد إلى التنوع البشري"
+      },
+      {
+        "type": "paragraph",
+        "text": "امتد مشروع الجينوم البشري من 1990 إلى 2003 وأسس تسلسلاً مرجعياً مهماً. لم يعن اكتماله أن كل المناطق قد حُلّت، إذ بقيت تسلسلات متكررة صعبة. وفي 2022 نشر اتحاد Telomere-to-Telomere تسلسلاً بلا فجوات للكروموسومات الجسمية والكروموسوم X من خط خلوي معين. وتبعه تسلسل كامل للكروموسوم Y في 2023. حسنت هذه الإنجازات الخريطة، لكن لا يمكن لتسلسل واحد أن يمثل جينوم كل إنسان. المرجع أداة للمقارنة، لا معيار للكمال الحيوي. [المصدر: genome.gov](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project) [المصدر: nature.com](https://www.nature.com/articles/s41586-023-06457-y)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ضمت مسودة للجينوم البشري الشامل نشرت في 2023 جينومات 47 شخصاً، في اتجاه تمثيل التسلسلات البديلة والتنوع البنيوي بصورة أوسع. والتنوع مهم للتنبؤ الطبي أيضاً. تجمع درجات الخطر متعدد الجينات معلومات من متغيرات كثيرة، لكن أداءها يعتمد على المجموعات والبيانات المستخدمة لتطويرها. وقد لا تنتقل دقتها جيداً إلى مجموعة ضعيفة التمثيل. لذا فإن تحسين التمثيل والموافقة وتفسير النتائج جزء من الدقة العلمية، وليس إضافة اختيارية بعد الاكتشاف. والتحدي هو جعل الطب الجينومي مفيداً لعدد أكبر من الناس. [المصدر: nature.com](https://www.nature.com/articles/s41586-023-05896-x) [المصدر: genome.gov](https://www.genome.gov/news/news-release/researchers-optimize-genetic-tests-for-diverse-populations-to-tackle-health-disparities)"
+      },
+      {
+        "type": "paragraph",
+        "text": "هناك تمييز أساسي آخر يتعلق بالارتباط. ظهور منطقة جينومية بوتيرة أعلى عند أصحاب صفة ما نقطة بداية للتحقيق، وليس إثباتاً أن قاعدة معينة تسببها. فقد تنتقل المتغيرات المتجاورة معاً بالوراثة، وقد يولد تصميم الدراسة أنماطاً مضللة. يجمع الباحثون الأدلة الإحصائية والتجارب الجزيئية وتكرار النتائج والملاحظات السريرية لتحديد الآليات. تفسر النتائج الأقوى ليس فقط أن التسلسل مختلف، بل كيف يغير ذلك الاختلاف البيولوجيا. وتبقى اكتشافات كثيرة في مراحل وسيطة من هذه العملية. [المصدر: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Genome-Wide-Association-Studies-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "الحمض النووي سجل للتطور"
+      },
+      {
+        "type": "paragraph",
+        "text": "تنشئ الطفرات تنوعاً جديداً، وتعيد إعادة التركيب ترتيب التنوع الموجود. قد يزيد الانتقاء الطبيعي انتشار متغيرات تحسن النجاح التكاثري في بيئة معينة، بينما يغير الانجراف الجيني التواتر بفعل المصادفة. وتنقل الهجرة المتغيرات بين المجموعات. لذلك ليس التطور سلماً نحو الكمال، ولا تظهر الطفرات لأن الكائن يعرف ما يحتاجه. قد يكون متغير مفيد في سياق ما محايداً أو ضاراً في سياق آخر. وتكشف مقارنة DNA القرابة بين الأنواع لأن التسلسلات تحمل آثار الأصل المشترك والتغيرات اللاحقة. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/evolution/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصل المبادئ الجزيئية نفسها الوراثة البشرية بعالم الأحياء الأوسع. فالبكتيريا تنسخ DNA وتعبر عنه أيضاً، مع اختلافات مهمة في التنظيم والتحكم الجيني. وقد وفر تاريخها التطوري أدوات تُستخدم اليوم لتعديل الخلايا البشرية، إذ نشأت أنظمة كريسبر ضمن دفاعات ميكروبية. وتتناول مقالة PRESDA عن البكتيريا هذه الروابط بتوسع. تصبح البيولوجيا البشرية أوضح عندما توضع ضمن التطور، لا عندما تُعامل كاختراع منفصل لا نظير لقواعده الجزيئية في بقية الحياة. [PRESDA: البكتيريا](/articles/bacteria-good-bad-microbes-shape-our-lives/) [المصدر: genome.gov](https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing)"
+      },
+      {
+        "type": "heading",
+        "text": "كريسبر: من أداة بحث إلى علاج"
+      },
+      {
+        "type": "paragraph",
+        "text": "يستخدم التحرير القائم على كريسبر RNA مرشداً لتوجيه بروتين مرتبط به نحو تسلسل مستهدف. وفي نهج شائع يستعمل Cas9، يقطع البروتين DNA وتساعد عمليات الإصلاح الخلوية على إنتاج التعديل. لا يجعل ذلك التحرير دقيقاً أو آمناً تلقائياً: يجب فحص التغيرات غير المقصودة والتحرير غير المكتمل والوصول إلى الخلايا الصحيحة والاستجابات المناعية. والعلاج الجيني أوسع من كريسبر. تضيف بعض العلاجات مادة وراثية من دون تحرير التسلسل الأصلي، وتعدل أخرى خلايا خارج الجسم قبل إعادتها إلى المريض. [المصدر: medlineplus.gov](https://medlineplus.gov/genetics/understanding/therapy/procedures/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "في ديسمبر 2023، وافقت إدارة الغذاء والدواء الأمريكية على كاسجيفي لبعض مرضى الخلايا المنجلية من عمر 12 عاماً فما فوق، بوصفه أول علاج توافق عليه يستخدم CRISPR/Cas9. يعدل العلاج الخلايا الجذعية المكونة للدم لزيادة إنتاج الهيموغلوبين الجنيني، بدلاً من إصلاح المتغير المنجلي ببساطة في كل خلية. ويتطلب جمعاً متخصصاً للخلايا وتصنيعاً وعلاجاً كيميائياً تحضيرياً وزرعاً، مع مخاطر مهمة وحاجة للمتابعة. إنه تقدم سريري كبير، لا علاج شامل لكل مرض جيني. ويظل الفرق بين الإمكان التجريبي والعلاج المثبت أساسياً في الطب. [PRESDA: تاريخ الطب](/articles/history-future-of-medicine/) [المصدر: fda.gov](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)"
+      },
+      {
+        "type": "paragraph",
+        "text": "التطبيقات البحثية مهمة بالقدر نفسه. فتعديل تسلسل محدد في خلايا مزروعة يساعد على اختبار أثره في نشاط الجينات أو الاستجابة لدواء. وتتطلب التجربة المقنعة مقارنات مناسبة وفحص التأثيرات غير المقصودة. لا تتحول نتيجة في طبق خلوي تلقائياً إلى علاج لإنسان كامل تتفاعل أنسجته وقد يستجيب جهازه المناعي بشكل مختلف. تساعد النماذج على تضييق الأسئلة، بينما تثبت الدراسات السريرية الفائدة الفعلية للمرضى. هذا التدرج أبطأ من عنوان مثير، لكنه الطريق إلى تقنيات جديرة بالثقة."
+      },
+      {
+        "type": "heading",
+        "text": "المستقبل: هندسة تتحلى بالتواضع"
+      },
+      {
+        "type": "paragraph",
+        "text": "يسعى تحرير القواعد والتحرير الأولي، أو prime editing، إلى إدخال تغيرات مختارة من دون الاعتماد على استراتيجية قطع الشريطين نفسها في تحرير Cas9 التقليدي. وقدمت دراسة في Nature عام 2019 التحرير الأولي طريقة لكتابة تعديلات محددة باستخدام مرشد ونظام إنزيمي مهندس. توسع هذه الطرق أدوات التجربة، لكنها لا تلغي ضرورة اختبار التوصيل والآثار غير المرغوبة واستمرار المفعول والفائدة السريرية. وكذلك قد يقدم تسلسل الجينوم دليلاً واعداً من دون تشخيص. ويظل المتغير مجهول الدلالة غير محسوم حتى تتوافر أدلة كافية لتفسيره. [المصدر: nature.com](https://www.nature.com/articles/s41586-019-1711-4) [المصدر: medlineplus.gov](https://www.medlineplus.gov/genetictesting.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يختلف تعديل خلايا غير تناسلية لعلاج شخص جذرياً عن إجراء تغييرات قابلة للتوريث في أجنة أو خلايا تناسلية. فقد تؤثر الأخيرة في أجيال لا تستطيع الموافقة، بنتائج يصعب توقعها أو عكسها. ويجب أن يشمل النقاش العلمي الوصول للعلاج وحقوق ذوي الإعاقة والخصوصية والحد بين العلاج والتحسين. كما أن بيانات DNA تخص الأقارب أيضاً، لا صاحب الفحص وحده. يجمع المستقبل الأكثر مصداقية بين القدرة التقنية والدليل المتين والمساءلة العامة. تسهم الشفرة في بنائنا، لكن فهمها ينبغي أن يعمق احترام تعقيد الإنسان، لا أن يختزل الحياة في حكم جزيئي. [المصدر: genome.gov](https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "NHGRI: DNA fact sheet",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
+      },
+      {
+        "label": "NHGRI: the 1953 double helix",
+        "url": "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix"
+      },
+      {
+        "label": "NHGRI: DNA sequencing",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: genes",
+        "url": "https://medlineplus.gov/genetics/understanding/basics/gene/"
+      },
+      {
+        "label": "NHGRI: human genomic variation",
+        "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation"
+      },
+      {
+        "label": "NHGRI: chromosomes",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: noncoding DNA",
+        "url": "https://medlineplus.gov/genetics/understanding/basics/noncodingdna/"
+      },
+      {
+        "label": "MedlinePlus: variants in noncoding DNA",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/noncondingdnahealth/"
+      },
+      {
+        "label": "NHGRI: DNA replication",
+        "url": "https://www.genome.gov/genetics-glossary/DNA-Replication"
+      },
+      {
+        "label": "NCBI Bookshelf: DNA replication and repair",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26879/"
+      },
+      {
+        "label": "MedlinePlus: making proteins",
+        "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/makingprotein/"
+      },
+      {
+        "label": "MedlinePlus: gene regulation",
+        "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/geneonoff/"
+      },
+      {
+        "label": "MedlinePlus: epigenetics",
+        "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/"
+      },
+      {
+        "label": "NHGRI: epigenomics",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: inheritance patterns",
+        "url": "https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/"
+      },
+      {
+        "label": "MedlinePlus: inheritance probabilities",
+        "url": "https://medlineplus.gov/genetics/understanding/inheritance/riskassessment/"
+      },
+      {
+        "label": "MedlinePlus: types of variants",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/"
+      },
+      {
+        "label": "MedlinePlus: how variants arise",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/"
+      },
+      {
+        "label": "MedlinePlus: genetic disorders",
+        "url": "https://medlineplus.gov/geneticdisorders.html"
+      },
+      {
+        "label": "MedlinePlus: complex disorders",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/complexdisorders/"
+      },
+      {
+        "label": "MedlinePlus: types of genetic tests",
+        "url": "https://medlineplus.gov/genetics/understanding/testing/types/"
+      },
+      {
+        "label": "NHGRI: Human Genome Project",
+        "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project"
+      },
+      {
+        "label": "Nature: complete Y chromosome",
+        "url": "https://www.nature.com/articles/s41586-023-06457-y"
+      },
+      {
+        "label": "Nature: draft human pangenome",
+        "url": "https://www.nature.com/articles/s41586-023-05896-x"
+      },
+      {
+        "label": "NHGRI: diverse genetic risk prediction",
+        "url": "https://www.genome.gov/news/news-release/researchers-optimize-genetic-tests-for-diverse-populations-to-tackle-health-disparities"
+      },
+      {
+        "label": "NHGRI: genome-wide association studies",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Genome-Wide-Association-Studies-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: variants and evolution",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/evolution/"
+      },
+      {
+        "label": "NHGRI: genome editing",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing"
+      },
+      {
+        "label": "MedlinePlus: gene therapy mechanisms",
+        "url": "https://medlineplus.gov/genetics/understanding/therapy/procedures/"
+      },
+      {
+        "label": "FDA: first CRISPR-based approval",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease"
+      },
+      {
+        "label": "Nature: prime editing",
+        "url": "https://www.nature.com/articles/s41586-019-1711-4"
+      },
+      {
+        "label": "MedlinePlus: genetic testing",
+        "url": "https://www.medlineplus.gov/genetictesting.html"
+      },
+      {
+        "label": "NHGRI: ethics of genome editing",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/human-dna-code-that-builds-us/",
+    "path": "/es/articles/human-dna-code-that-builds-us/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "ADN humano: el código que nos construye",
+    "seoTitle": "ADN humano: genes, herencia, CRISPR y genoma",
+    "description": "Explora el ADN humano, los genes, la herencia y CRISPR: enfermedades genéticas, evolución y límites de lo que pueden determinar los genes.",
+    "excerpt": "Explora el ADN humano, los genes, la herencia y CRISPR: enfermedades genéticas, evolución y límites de lo que pueden determinar los genes.",
+    "headlineHighlights": {
+      "red": "ADN humano",
+      "gold": "el código"
+    },
+    "keywords": [
+      "ADN humano",
+      "DNA",
+      "CRISPR"
+    ],
+    "searchIntent": "Explora el ADN humano, los genes, la herencia y CRISPR: enfermedades genéticas, evolución y límites de lo que pueden determinar los genes.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/dna-hero.png",
+      "alt": "Ilustración generada por IA para PRESDA de una doble hélice azul de ADN sobre fondo negro"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Cada vez que una herida se cierra, un niño crece o una célula inmunitaria se multiplica, se copia e interpreta información molecular. El ADN, ácido desoxirribonucleico, almacena la información hereditaria que las células utilizan para fabricar moléculas funcionales y regular procesos biológicos. Su secuencia conecta la química de una célula con la historia de una familia y, mucho más atrás, con la evolución de la vida."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sin embargo, la conocida comparación del ADN con un plano necesita matices. Un genoma no contiene una persona en miniatura ni el guion completo de su vida. El desarrollo depende de la comunicación celular, la regulación de los genes, la llegada de nutrientes y los cambios del entorno. Comprender el ADN significa reconocer tanto el poder de la información heredada como los límites de reducir a un ser humano a una secuencia de letras."
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué es el ADN y por qué importa su forma?"
+      },
+      {
+        "type": "paragraph",
+        "text": "El ADN es una molécula larga formada por nucleótidos. Cada uno contiene un azúcar, un grupo fosfato y una de cuatro bases: adenina, timina, citosina o guanina, abreviadas A, T, C y G. Dos cadenas suelen enrollarse formando una doble hélice. Sus esqueletos de azúcar y fosfato discurren en direcciones opuestas, mientras las bases se emparejan en el interior: A con T y C con G. El orden transmite información biológica. La complementariedad permite que cada cadena sirva como molde para construir su pareja. [Fuente: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La hélice no es una escalera rígida ni una estructura luminosa como una ilustración editorial. En las células se curva, se retuerce, interactúa con proteínas y se vuelve accesible en lugares y momentos concretos. Las interacciones químicas estabilizan la molécula sin impedir que se abra cuando hace falta. Esa combinación de estabilidad y accesibilidad explica su utilidad como almacén de información. La información debe sobrevivir, pero también debe poder leerse. Una secuencia inaccesible para siempre a la maquinaria celular sería biológicamente inútil, aunque se conservara con absoluta fidelidad."
+      },
+      {
+        "type": "heading",
+        "text": "Cómo aprendimos a leer la molécula"
+      },
+      {
+        "type": "paragraph",
+        "text": "Descubrir la estructura del ADN fue un logro colectivo, no la invención del propio ADN. En 1953, James Watson y Francis Crick propusieron el modelo de doble hélice. Los trabajos de difracción de rayos X de Rosalind Franklin y Maurice Wilkins aportaron pruebas estructurales decisivas, junto con otros resultados químicos. El modelo explicaba cómo el emparejamiento complementario podía permitir copiar la información hereditaria. Recordar el trabajo experimental ofrece una imagen más fiel del descubrimiento que una historia de inspiración repentina desconectada de las pruebas. [Fuente: genome.gov](https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los avances posteriores transformaron una estructura en información legible. La secuenciación determina el orden de las bases, pero no revela automáticamente la función de cada tramo. Los instrumentos modernos leen enormes cantidades de fragmentos, mientras los métodos informáticos ensamblan o alinean esas lecturas e identifican diferencias. Las regiones repetidas, los errores técnicos y la interpretación siguen planteando dificultades. La revolución no consistió simplemente en observar mejor una molécula. Permitió comparar secuencias, conectar cambios específicos con efectos biológicos y formular preguntas que los métodos anteriores no podían resolver. [Fuente: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "Genes, cromosomas y dimensiones de un genoma"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un gen es una secuencia de ADN cuya expresión produce un elemento funcional, a menudo una proteína o una molécula de ARN. Un cromosoma es un conjunto mucho mayor de ADN y proteínas asociadas, con numerosos genes y otras secuencias. La mayoría de las células humanas con núcleo tienen normalmente 46 cromosomas organizados en 23 pares, un juego heredado de cada progenitor. Los óvulos y espermatozoides suelen llevar 23. Los glóbulos rojos maduros carecen de núcleo: la afirmación de que cada célula posee un genoma nuclear completo tiene excepciones. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/basics/gene/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un juego de cromosomas nucleares humanos contiene unos tres mil millones de pares de bases. Por tanto, una célula diploide ordinaria contiene aproximadamente el doble antes de replicar su ADN. Los humanos tenemos alrededor de 20.000 genes que codifican proteínas, no uno para cada característica. También hay ADN en las mitocondrias, compartimentos implicados en el metabolismo energético, donde un pequeño genoma trabaja junto con numerosos genes nucleares. El ADN mitocondrial se hereda habitualmente de la madre. Tamaño del genoma, número de cromosomas y complejidad biológica son medidas diferentes, no una clasificación del progreso de los organismos. [Fuente: genome.gov](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El empaquetamiento del ADN también cumple una función. El ADN nuclear se enrolla alrededor de histonas y forma cromatina, cuya organización ayuda a controlar el acceso a las secuencias. El cromosoma con forma de X es una estructura condensada y replicada que se observa alrededor de la división celular, no la apariencia permanente de todos los cromosomas. Sus dos cromátidas hermanas contienen ADN copiado; una pareja cromosómica reúne los cromosomas correspondientes de origen materno y paterno. Confundir ambas relaciones dificulta comprender la herencia. El empaquetamiento permite manejar, proteger, copiar y utilizar moléculas muy largas. [Fuente: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "La mayor parte del ADN no codifica proteínas directamente"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una pequeña fracción del genoma humano, aproximadamente entre el uno y el dos por ciento según la definición, codifica directamente secuencias proteicas. El resto no forma una categoría uniforme. Incluye regiones reguladoras, genes de ARN funcionales, intrones eliminados de muchos transcritos, secuencias repetidas y estructuras importantes para organizar los cromosomas. Algunas regiones tienen funciones bien establecidas; otras siguen poco comprendidas o carecen de pruebas de una función específica seleccionada. Llamar inútil a todo el ADN no codificante es incorrecto, pero afirmar que cada base tiene una función esencial también excede las pruebas. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pensemos en un gen que produce una proteína útil. Fabricarla en el tejido equivocado, en una fase inadecuada del desarrollo o en una cantidad incorrecta puede causar daño. El ADN regulador ayuda a controlar esas circunstancias. Una variante fuera de una región codificante puede afectar a la salud cambiando cuándo se utiliza un gen, sin alterar la secuencia de su proteína. Para comprender un genoma hay que estudiar sus productos moleculares y los sistemas que controlan su producción. Leer únicamente las instrucciones proteicas deja buena parte de la regulación sin explicar. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/noncondingdnahealth/)"
+      },
+      {
+        "type": "heading",
+        "text": "Replicación: copiar el genoma sin empezar de cero"
+      },
+      {
+        "type": "paragraph",
+        "text": "Antes de dividirse, una célula corporal típica copia su ADN. Las cadenas se separan y cada una sirve de molde para una nueva cadena complementaria. Las ADN polimerasas construyen las copias, con otras proteínas que abren el ADN, proporcionan puntos de inicio y unen fragmentos. Como las cadenas tienen orientaciones opuestas, su síntesis se organiza de forma diferente: una se extiende continuamente en la horquilla de replicación y la otra se ensambla en segmentos cortos. Cada doble hélice resultante contiene una cadena antigua y una nueva: es la replicación semiconservativa. [Fuente: genome.gov](https://www.genome.gov/genetics-glossary/DNA-Replication)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La copia es extraordinariamente precisa, pero no infalible. La corrección de las polimerasas y los mecanismos de reparación detectan muchos problemas. También pueden producirse daños entre divisiones por reacciones químicas ordinarias o exposiciones ambientales. Daño y mutación no son lo mismo: el primero es una lesión química y la segunda un cambio duradero de secuencia. Las células pueden reparar el daño, dejar de dividirse o morir; no toda lesión se convierte en una alteración transmisible. La continuidad biológica depende de un mantenimiento activo, no de una molécula inmune al desgaste. [Fuente: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK26879/)"
+      },
+      {
+        "type": "heading",
+        "text": "Expresión génica: la misma biblioteca, distintas lecturas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una célula del hígado y una neurona pueden contener prácticamente el mismo ADN nuclear y realizar tareas muy distintas. La expresión génica explica buena parte de esa diferencia. Durante la transcripción se produce una copia de ARN a partir de un molde de ADN. En los genes que codifican proteínas, los ribosomas leen el ARN mensajero procesado y ensamblan aminoácidos. Los codones, grupos de tres bases del ARN, especifican aminoácidos o señales de parada. Otros genes producen ARN que funcionan sin traducirse. El ADN no construye por sí solo un músculo ni transmite un pensamiento: los sistemas celulares utilizan su información. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/howgeneswork/makingprotein/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La expresión se regula en varias etapas, incluidas transcripción, procesamiento del ARN y producción de proteínas. Los factores de transcripción se unen a regiones concretas, y las señales de otras células influyen en su actividad. El empalme alternativo permite que algunos genes produzcan distintas formas de ARN, por lo que contar genes no describe toda la diversidad de productos celulares. El desarrollo surge de estas redes. El cerebro depende simultáneamente de actividad genética, organización celular y experiencia. La secuencia de ADN forma parte de la explicación, pero no sustituye a las demás dimensiones. [PRESDA: cerebro humano](/articles/human-brain-most-complex-organ/) [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/howgeneswork/geneonoff/)"
+      },
+      {
+        "type": "heading",
+        "text": "Epigenética: regular sin reescribir las letras"
+      },
+      {
+        "type": "paragraph",
+        "text": "La epigenética estudia cambios de actividad génica asociados a mecanismos que no alteran la secuencia del ADN. Las modificaciones químicas del ADN y de sus histonas pueden influir en el acceso de la maquinaria celular a una región. Algunos patrones se conservan durante las divisiones y ayudan a mantener la identidad de células especializadas. Estos mecanismos son esenciales para el desarrollo y participan en enfermedades. No constituyen una capa misteriosa por encima de la biología, sino procesos moleculares medibles que interactúan con otras formas de regulación. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El entorno puede influir en los patrones epigenéticos, pero muchas afirmaciones populares van más allá de la investigación. Un cambio observado después de una exposición no demuestra por sí mismo que cause una enfermedad, dure toda la vida o pase a los nietos. Gran parte de la información epigenética se reinicia durante la reproducción. Demostrar transmisión entre generaciones exige separar explicaciones genéticas, ambientales y del desarrollo. La conclusión razonable es que la biología responde a las circunstancias, no que los pensamientos reescriban libremente el genoma o que una prueba epigenética revele toda una historia personal. [Fuente: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "Herencia: por qué nos parecemos a nuestra familia"
+      },
+      {
+        "type": "paragraph",
+        "text": "La herencia comienza con la formación de óvulos y espermatozoides mediante meiosis. Las parejas cromosómicas se separan y la recombinación intercambia ADN entre cromosomas correspondientes. Los hijos reciben combinaciones nuevas, no una mitad intacta de los rasgos visibles de cada progenitor. Las distintas versiones de una secuencia se llaman alelos. En algunas enfermedades basta una variante patógena en una copia del gen; en otras deben estar afectadas ambas. Dominancia y recesividad describen relaciones entre variantes y resultados, no que un rasgo sea más fuerte o mejor. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En una enfermedad autosómica recesiva clásica, dos portadores sanos con una variante patógena cada uno en el gen correspondiente tienen un 25 por ciento de probabilidad de tener un hijo afectado en cada embarazo. Esa probabilidad comienza de nuevo en cada ocasión: no garantiza un hijo afectado entre cuatro. Otras enfermedades siguen patrones ligados al X o mitocondriales, y algunas proceden de variantes nuevas sin antecedentes familiares. La penetrancia y la expresividad variable añaden complejidad: personas con una misma variante pueden diferir en si aparece la enfermedad, cuándo comienza y con qué gravedad. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/inheritance/riskassessment/)"
+      },
+      {
+        "type": "heading",
+        "text": "Las mutaciones son cambios, no juicios de valor"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una variante genética puede ser la sustitución de una sola base, una pequeña inserción o eliminación, o un reordenamiento mucho mayor. Algunas alteran una proteína; otras afectan a la regulación; muchas tienen escaso efecto detectable en un contexto determinado. Mutación no significa que haya ocurrido algo monstruoso o inevitablemente dañino. Las variantes forman parte de la diversidad biológica normal y también pueden causar enfermedades. Sus consecuencias dependen de su ubicación, del cambio molecular, de otros factores genéticos y del entorno en que vive el organismo. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las variantes germinales pueden transmitirse mediante óvulos o espermatozoides. Las somáticas aparecen en otras células y pueden producir poblaciones celulares genéticamente diferentes dentro de una persona, fenómeno llamado mosaicismo. El cáncer suele implicar cambios adquiridos que alteran los controles del crecimiento, aunque variantes heredadas pueden aumentar la susceptibilidad. Una enfermedad puede ser genética sin ser hereditaria. Hallar un cambio de ADN en un tumor no implica automáticamente que lo tengan los familiares, y encontrar una variante de riesgo no garantiza que se desarrolle la enfermedad. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/)"
+      },
+      {
+        "type": "heading",
+        "text": "Enfermedades genéticas y límites de la predicción"
+      },
+      {
+        "type": "paragraph",
+        "text": "La enfermedad de células falciformes muestra cómo un cambio que afecta a la hemoglobina modifica el comportamiento de los glóbulos rojos y puede causar enfermedad grave. La fibrosis quística implica variantes patógenas de CFTR, que afectan a una proteína relacionada con el transporte de sales. Las alteraciones cromosómicas operan a otra escala: el síndrome de Down suele implicar una copia adicional del cromosoma 21. Estos ejemplos no son intercambiables. Una variante de secuencia, un segmento cromosómico ausente y un cromosoma extra actúan mediante mecanismos distintos. Diagnosticar exige más que detectar una diferencia respecto a una referencia. [Fuente: medlineplus.gov](https://medlineplus.gov/geneticdisorders.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Muchas enfermedades frecuentes, como la diabetes tipo 2 y las cardiopatías, combinan numerosas influencias genéticas con factores ambientales y sociales. La estatura y muchos rasgos de conducta también son complejos. La heredabilidad describe la variación en una población estudiada bajo determinadas condiciones, no el porcentaje de una persona determinado por sus genes. Una heredabilidad elevada no demuestra que un rasgo sea inmutable. Los resultados genéticos no justifican jerarquías fijas del valor humano ni la idea de un único gen para la inteligencia, la ambición o el carácter moral. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/complexdisorders/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una prueba también exige una pregunta práctica: ¿qué cambiaría al conocer el resultado? Puede aclarar un diagnóstico raro, informar decisiones reproductivas u orientar un tratamiento. También puede dejar incertidumbre o revelar un riesgo inesperado ajeno a la pregunta original. Un resultado negativo no descarta todas las explicaciones genéticas, porque las pruebas detectan cosas distintas y no se conocen todos los vínculos entre variantes y enfermedades. La interpretación reúne datos de laboratorio, clínicos y familiares. El asesoramiento genético ayuda a entender esos límites sin convertir un informe en una predicción del destino. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/testing/types/)"
+      },
+      {
+        "type": "heading",
+        "text": "De un genoma de referencia a la diversidad humana"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Proyecto Genoma Humano, desarrollado entre 1990 y 2003, estableció una secuencia de referencia fundamental. Su finalización no significó resolver todas las regiones: quedaban secuencias repetitivas difíciles. En 2022, el consorcio Telomere-to-Telomere presentó una secuencia sin huecos de los autosomas y del cromosoma X de una línea celular concreta. En 2023 llegó una secuencia completa del cromosoma Y. Estos logros mejoraron el mapa, pero ninguna secuencia representa el genoma de todas las personas. Una referencia es una herramienta comparativa, no un modelo de perfección biológica. [Fuente: genome.gov](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project) [Fuente: nature.com](https://www.nature.com/articles/s41586-023-06457-y)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un borrador del pangenoma humano de 2023 incorporó genomas de 47 personas para representar mejor secuencias alternativas y variación estructural. La diversidad también importa para la predicción médica. Las puntuaciones de riesgo poligénico combinan muchas variantes, pero su rendimiento depende de las poblaciones y los datos utilizados para desarrollarlas. Pueden transferirse mal a una población infrarrepresentada. Mejorar representación, consentimiento e interpretación forma parte de la precisión científica, no es un complemento opcional posterior al descubrimiento. El reto es conseguir que la medicina genómica resulte informativa para más personas. [Fuente: nature.com](https://www.nature.com/articles/s41586-023-05896-x) [Fuente: genome.gov](https://www.genome.gov/news/news-release/researchers-optimize-genetic-tests-for-diverse-populations-to-tackle-health-disparities)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La asociación exige otra distinción. Cuando una región genómica aparece más a menudo entre personas con un rasgo, empieza una investigación; no se demuestra que una base concreta cause ese rasgo. Variantes cercanas pueden heredarse juntas y el diseño del estudio puede introducir patrones engañosos. Los investigadores combinan estadística, experimentos moleculares, replicación y observaciones clínicas para identificar mecanismos. Los hallazgos más sólidos explican no solo que una secuencia difiere, sino cómo esa diferencia cambia la biología. Muchos descubrimientos permanecen en etapas intermedias de ese proceso. [Fuente: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Genome-Wide-Association-Studies-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "El ADN como registro de la evolución"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las mutaciones crean variación nueva; la recombinación reorganiza la existente. La selección natural puede favorecer variantes que mejoran el éxito reproductivo en un entorno concreto, mientras la deriva genética cambia frecuencias por azar. Las migraciones trasladan variantes entre poblaciones. La evolución no es una escalera hacia la perfección y las mutaciones no aparecen porque un organismo sepa lo que necesita. Una variante útil en un contexto puede ser neutra o perjudicial en otro. Comparar ADN revela parentescos entre especies porque las secuencias conservan huellas de ascendencia compartida y cambios posteriores. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/evolution/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estos principios conectan la genética humana con el resto de los seres vivos. Las bacterias también copian y expresan ADN, aunque su organización y regulación difieren de manera importante. Su historia evolutiva proporcionó herramientas que hoy modifican células humanas: los sistemas CRISPR surgieron como parte de defensas microbianas. El artículo de PRESDA sobre bacterias profundiza en esas conexiones. La biología humana se entiende mejor dentro de la evolución que como una invención aislada cuyas reglas moleculares no tuvieran equivalentes en otras formas de vida. [PRESDA: bacterias](/articles/bacteria-good-bad-microbes-shape-our-lives/) [Fuente: genome.gov](https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing)"
+      },
+      {
+        "type": "heading",
+        "text": "CRISPR: de herramienta experimental a tratamiento"
+      },
+      {
+        "type": "paragraph",
+        "text": "La edición basada en CRISPR utiliza un ARN guía para dirigir una proteína asociada hacia una secuencia concreta. En un enfoque habitual con Cas9, la proteína corta el ADN y los mecanismos celulares de reparación ayudan a producir la modificación. Eso no vuelve la edición automáticamente precisa o segura: deben investigarse cambios imprevistos, edición incompleta, transporte a las células correctas y respuestas inmunitarias. La terapia génica es más amplia que CRISPR. Algunos tratamientos añaden material genético sin editar la secuencia original; otros modifican células fuera del organismo antes de devolverlas al paciente. [Fuente: medlineplus.gov](https://medlineplus.gov/genetics/understanding/therapy/procedures/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En diciembre de 2023, la FDA estadounidense aprobó Casgevy para determinados pacientes de 12 años o más con enfermedad de células falciformes, la primera terapia autorizada por esa agencia que utiliza CRISPR/Cas9. Modifica células madre hematopoyéticas del paciente para aumentar la hemoglobina fetal, en lugar de reparar simplemente la variante falciforme en todas las células. Requiere recogida especializada, fabricación, quimioterapia de acondicionamiento y trasplante, con riesgos importantes y seguimiento. Es un gran avance clínico, no una cura universal para las enfermedades genéticas. Distinguir posibilidades experimentales de tratamientos establecidos sigue siendo esencial en medicina. [PRESDA: historia de la medicina](/articles/history-future-of-medicine/) [Fuente: fda.gov](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las aplicaciones de investigación son igual de importantes. Editar una secuencia en células cultivadas permite estudiar si cambia la actividad de un gen o la respuesta a un fármaco. Un experimento convincente necesita comparaciones adecuadas y controles de efectos imprevistos. Un resultado en una placa de cultivo no es automáticamente un tratamiento para una persona, cuyos tejidos interactúan y cuyo sistema inmunitario puede responder de otra manera. Los modelos delimitan preguntas y los estudios clínicos establecen beneficios reales. Es un proceso más lento que un titular espectacular, pero así se construye la confianza."
+      },
+      {
+        "type": "heading",
+        "text": "El futuro: intervenir con humildad"
+      },
+      {
+        "type": "paragraph",
+        "text": "La edición de bases y la edición de calidad, o prime editing, buscan introducir cambios específicos sin recurrir a la misma estrategia de corte de ambas cadenas que Cas9 convencional. Un estudio de Nature de 2019 presentó prime editing como un método para escribir cambios mediante una guía y un sistema enzimático modificado. Amplía las herramientas experimentales, pero no elimina la necesidad de evaluar transporte, efectos no deseados, duración y beneficio clínico. Asimismo, secuenciar un genoma puede proporcionar una pista sin establecer un diagnóstico. Una variante de significado incierto sigue siendo incierta hasta disponer de pruebas suficientes. [Fuente: nature.com](https://www.nature.com/articles/s41586-019-1711-4) [Fuente: medlineplus.gov](https://www.medlineplus.gov/genetictesting.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Editar células no reproductivas para tratar a una persona difiere fundamentalmente de introducir cambios heredables en embriones o células reproductivas. Estos podrían afectar a generaciones que no pueden consentir, con consecuencias difíciles de predecir o revertir. Acceso, derechos de las personas con discapacidad, privacidad y límites entre tratamiento y mejora pertenecen al debate científico. Los datos del ADN también conciernen a los familiares. El futuro más creíble combina capacidad técnica, pruebas rigurosas y responsabilidad pública. El código contribuye a construirnos; comprenderlo debería aumentar el respeto por la complejidad humana, no reducir una vida a un veredicto molecular. [Fuente: genome.gov](https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "NHGRI: DNA fact sheet",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
+      },
+      {
+        "label": "NHGRI: the 1953 double helix",
+        "url": "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix"
+      },
+      {
+        "label": "NHGRI: DNA sequencing",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: genes",
+        "url": "https://medlineplus.gov/genetics/understanding/basics/gene/"
+      },
+      {
+        "label": "NHGRI: human genomic variation",
+        "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation"
+      },
+      {
+        "label": "NHGRI: chromosomes",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: noncoding DNA",
+        "url": "https://medlineplus.gov/genetics/understanding/basics/noncodingdna/"
+      },
+      {
+        "label": "MedlinePlus: variants in noncoding DNA",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/noncondingdnahealth/"
+      },
+      {
+        "label": "NHGRI: DNA replication",
+        "url": "https://www.genome.gov/genetics-glossary/DNA-Replication"
+      },
+      {
+        "label": "NCBI Bookshelf: DNA replication and repair",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26879/"
+      },
+      {
+        "label": "MedlinePlus: making proteins",
+        "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/makingprotein/"
+      },
+      {
+        "label": "MedlinePlus: gene regulation",
+        "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/geneonoff/"
+      },
+      {
+        "label": "MedlinePlus: epigenetics",
+        "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/"
+      },
+      {
+        "label": "NHGRI: epigenomics",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: inheritance patterns",
+        "url": "https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/"
+      },
+      {
+        "label": "MedlinePlus: inheritance probabilities",
+        "url": "https://medlineplus.gov/genetics/understanding/inheritance/riskassessment/"
+      },
+      {
+        "label": "MedlinePlus: types of variants",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/"
+      },
+      {
+        "label": "MedlinePlus: how variants arise",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/"
+      },
+      {
+        "label": "MedlinePlus: genetic disorders",
+        "url": "https://medlineplus.gov/geneticdisorders.html"
+      },
+      {
+        "label": "MedlinePlus: complex disorders",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/complexdisorders/"
+      },
+      {
+        "label": "MedlinePlus: types of genetic tests",
+        "url": "https://medlineplus.gov/genetics/understanding/testing/types/"
+      },
+      {
+        "label": "NHGRI: Human Genome Project",
+        "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project"
+      },
+      {
+        "label": "Nature: complete Y chromosome",
+        "url": "https://www.nature.com/articles/s41586-023-06457-y"
+      },
+      {
+        "label": "Nature: draft human pangenome",
+        "url": "https://www.nature.com/articles/s41586-023-05896-x"
+      },
+      {
+        "label": "NHGRI: diverse genetic risk prediction",
+        "url": "https://www.genome.gov/news/news-release/researchers-optimize-genetic-tests-for-diverse-populations-to-tackle-health-disparities"
+      },
+      {
+        "label": "NHGRI: genome-wide association studies",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Genome-Wide-Association-Studies-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: variants and evolution",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/evolution/"
+      },
+      {
+        "label": "NHGRI: genome editing",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing"
+      },
+      {
+        "label": "MedlinePlus: gene therapy mechanisms",
+        "url": "https://medlineplus.gov/genetics/understanding/therapy/procedures/"
+      },
+      {
+        "label": "FDA: first CRISPR-based approval",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease"
+      },
+      {
+        "label": "Nature: prime editing",
+        "url": "https://www.nature.com/articles/s41586-019-1711-4"
+      },
+      {
+        "label": "MedlinePlus: genetic testing",
+        "url": "https://www.medlineplus.gov/genetictesting.html"
+      },
+      {
+        "label": "NHGRI: ethics of genome editing",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/human-dna-code-that-builds-us/",
+    "path": "/fr/articles/human-dna-code-that-builds-us/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-19",
+      "terminologyChecked": true
+    },
+    "title": "ADN humain : le code qui nous construit",
+    "seoTitle": "ADN humain : gènes, hérédité, CRISPR et génome",
+    "description": "Découvrez l’ADN humain, les gènes, l’hérédité et CRISPR : maladies génétiques, évolution et limites de ce que les gènes peuvent déterminer.",
+    "excerpt": "Découvrez l’ADN humain, les gènes, l’hérédité et CRISPR : maladies génétiques, évolution et limites de ce que les gènes peuvent déterminer.",
+    "headlineHighlights": {
+      "red": "ADN humain",
+      "gold": "le code"
+    },
+    "keywords": [
+      "ADN humain",
+      "DNA",
+      "CRISPR"
+    ],
+    "searchIntent": "Découvrez l’ADN humain, les gènes, l’hérédité et CRISPR : maladies génétiques, évolution et limites de ce que les gènes peuvent déterminer.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "image": {
+      "src": "/articles/dna-hero.png",
+      "alt": "Illustration générée par IA pour PRESDA : double hélice d’ADN bleue sur fond noir"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Chaque fois qu’une plaie se referme, qu’un enfant grandit ou qu’une cellule immunitaire se multiplie, des informations moléculaires sont copiées et interprétées. L’ADN, ou acide désoxyribonucléique, conserve l’information héréditaire que les cellules utilisent pour fabriquer des molécules fonctionnelles et réguler leurs processus biologiques. Sa séquence relie la chimie d’une cellule à l’histoire d’une famille et, plus loin encore, à l’évolution du vivant."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mais l’image familière d’un plan de construction mérite quelques précautions. Un génome ne contient ni une personne miniature ni le scénario complet de sa vie. Le développement dépend de la communication entre cellules, de la régulation des gènes, de l’arrivée des nutriments et des changements de milieu. Comprendre l’ADN, c’est reconnaître à la fois la puissance de l’information héritée et les limites d’une vision qui réduirait un être humain à une suite de lettres."
+      },
+      {
+        "type": "heading",
+        "text": "Qu’est-ce que l’ADN, et pourquoi sa forme compte-t-elle ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’ADN est une longue molécule composée de nucléotides. Chacun comprend un sucre, un groupement phosphate et une des quatre bases : adénine, thymine, cytosine ou guanine, désignées par A, T, C et G. Deux brins s’enroulent généralement l’un autour de l’autre pour former une double hélice. Leurs squelettes sucre-phosphate sont orientés en sens opposés, tandis que les bases s’apparient à l’intérieur : A avec T, C avec G. Leur ordre porte l’information biologique. Leur complémentarité permet à chaque brin de servir de modèle pour construire son partenaire. [Source: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette hélice n’est ni une échelle rigide ni une structure lumineuse comme dans une illustration éditoriale. Dans les cellules, elle se courbe, se tord, interagit avec des protéines et devient accessible à certains endroits et à certains moments. Des interactions chimiques la stabilisent tout en permettant son ouverture. Cette alliance entre stabilité et accessibilité explique son efficacité comme support d’information. L’information doit être conservée, mais aussi lue. Une séquence définitivement inaccessible à la machinerie cellulaire serait biologiquement inutile, même si elle était parfaitement préservée."
+      },
+      {
+        "type": "heading",
+        "text": "Comment la science a appris à lire cette molécule"
+      },
+      {
+        "type": "paragraph",
+        "text": "La découverte de la structure de l’ADN fut une réalisation collective, pas l’invention de l’ADN lui-même. En 1953, James Watson et Francis Crick proposèrent le modèle de la double hélice. Les travaux de diffraction des rayons X de Rosalind Franklin et Maurice Wilkins apportèrent des éléments structuraux essentiels, aux côtés d’autres résultats chimiques. Le modèle expliquait notamment comment l’appariement complémentaire pouvait permettre la copie de l’information héréditaire. Rappeler ces expériences donne une image plus juste de la découverte qu’un récit d’intuition soudaine détachée de ses preuves. [Source: genome.gov](https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les découvertes suivantes ont transformé une structure en information lisible. Le séquençage détermine l’ordre des bases sans révéler automatiquement la fonction de chaque portion. Les instruments modernes lisent un nombre immense de fragments d’ADN ; les méthodes informatiques assemblent ou alignent ces lectures et repèrent leurs différences. Les régions répétées, les erreurs techniques et l’interprétation restent des difficultés importantes. La révolution n’a donc pas seulement consisté à mieux voir une molécule. Elle a permis de comparer des séquences, de relier des changements à des effets biologiques et d’aborder des questions auparavant inaccessibles. [Source: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "Gènes, chromosomes et dimensions d’un génome"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un gène est une séquence d’ADN dont l’expression produit un élément fonctionnel, souvent une protéine ou une molécule d’ARN. Un chromosome est un ensemble beaucoup plus vaste d’ADN et de protéines associées, comprenant de nombreux gènes et d’autres séquences. La plupart des cellules humaines nucléées possèdent normalement 46 chromosomes organisés en 23 paires, un jeu provenant de chaque parent. Les ovules et les spermatozoïdes en portent normalement 23. Les globules rouges matures n’ont pas de noyau : l’affirmation selon laquelle chaque cellule contient un génome nucléaire complet admet donc des exceptions. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/basics/gene/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un jeu de chromosomes nucléaires humains représente environ trois milliards de paires de bases. Une cellule diploïde ordinaire en contient donc approximativement le double avant la réplication. L’être humain possède autour de 20 000 gènes codant des protéines, et non un gène pour chaque caractéristique. Les mitochondries, compartiments impliqués dans le métabolisme énergétique, possèdent aussi un petit génome qui fonctionne avec de nombreux gènes nucléaires. L’ADN mitochondrial est habituellement transmis par la mère. Taille du génome, nombre de chromosomes et complexité biologique sont des mesures différentes, pas une échelle du progrès des organismes. [Source: genome.gov](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’emballage de l’ADN a lui-même une fonction. L’ADN nucléaire s’enroule autour de protéines histones et forme la chromatine, dont l’organisation contribue à contrôler l’accès aux séquences. Le chromosome en X représente une forme condensée et répliquée visible autour de la division cellulaire, pas l’aspect permanent de tous les chromosomes. Ses deux chromatides sœurs contiennent des copies d’ADN, tandis qu’une paire chromosomique réunit les chromosomes correspondants d’origine maternelle et paternelle. Confondre ces relations complique la compréhension de l’hérédité. Ce conditionnement permet de gérer, protéger, copier et utiliser de très longues molécules. [Source: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "La majeure partie de l’ADN ne code pas directement des protéines"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une petite fraction du génome humain, environ un à deux pour cent selon les définitions, code directement des séquences protéiques. Le reste n’est pas une catégorie uniforme. Il comprend des régions régulatrices, des gènes produisant des ARN fonctionnels, des introns éliminés de nombreux transcrits, des répétitions et des structures importantes pour l’organisation chromosomique. Certaines fonctions sont bien établies ; d’autres régions restent mal comprises ou sans preuve d’une fonction spécifique sélectionnée. Qualifier tout l’ADN non codant d’inutile est inexact, mais affirmer que chaque base possède une fonction essentielle dépasse également les preuves. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prenons un gène produisant une protéine utile. Fabriquer cette protéine dans le mauvais tissu, au mauvais stade du développement ou en quantité inadaptée peut néanmoins être nocif. L’ADN régulateur contribue à contrôler ces circonstances. Un variant situé hors d’une région codante peut donc affecter la santé en modifiant l’utilisation du gène plutôt que la séquence de sa protéine. Comprendre un génome exige d’étudier ses produits moléculaires autant que les systèmes qui contrôlent leur fabrication. Lire seulement les instructions protéiques laisse une grande partie de la régulation dans l’ombre. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/noncondingdnahealth/)"
+      },
+      {
+        "type": "heading",
+        "text": "Réplication : copier un génome sans repartir de zéro"
+      },
+      {
+        "type": "paragraph",
+        "text": "Avant de se diviser, une cellule somatique typique copie son ADN. Les brins se séparent et servent chacun de modèle à un nouveau brin complémentaire. Des enzymes appelées ADN polymérases construisent les copies ; d’autres protéines ouvrent l’ADN, fournissent les points de départ et réunissent les fragments. Les brins étant orientés en sens opposés, leur synthèse diffère : l’un peut être prolongé en continu au niveau de la fourche de réplication, l’autre est assemblé en courts segments. Chaque double hélice obtenue contient un ancien brin et un nouveau : c’est la réplication semi-conservative. [Source: genome.gov](https://www.genome.gov/genetics-glossary/DNA-Replication)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La copie est remarquablement fidèle, mais pas infaillible. La relecture des polymérases et les mécanismes de réparation corrigent de nombreuses erreurs. Des lésions peuvent aussi survenir entre les divisions, lors de réactions chimiques ordinaires ou d’expositions environnementales. Il faut distinguer dommage et mutation : le premier est une lésion chimique, la seconde un changement durable de séquence. Les cellules peuvent réparer les dégâts, cesser de se diviser ou mourir ; toute lésion ne devient pas une modification transmissible. La continuité biologique repose sur un entretien actif, pas sur une molécule invulnérable à l’usure. [Source: ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK26879/)"
+      },
+      {
+        "type": "heading",
+        "text": "Expression des gènes : une bibliothèque, plusieurs lectures"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une cellule hépatique et un neurone peuvent contenir pratiquement le même ADN nucléaire tout en accomplissant des tâches très différentes. L’expression des gènes explique largement cette différence. La transcription produit une copie d’ARN à partir de l’ADN. Pour les gènes codant des protéines, l’ARN messager maturé est lu par les ribosomes, qui assemblent des acides aminés. Les codons, groupes de trois bases de l’ARN, désignent un acide aminé ou un signal d’arrêt. D’autres gènes produisent des ARN fonctionnant sans traduction. L’ADN ne construit pas lui-même un muscle et ne transmet pas directement une pensée : des systèmes cellulaires utilisent son information. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/howgeneswork/makingprotein/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’expression est régulée à plusieurs étapes, notamment la transcription, la maturation des ARN et la production protéique. Des facteurs de transcription se fixent sur certaines régions d’ADN, sous l’influence de signaux provenant d’autres cellules. L’épissage alternatif permet à certains gènes de produire différentes formes d’ARN, ce qui explique pourquoi compter les gènes ne décrit pas toute la diversité des produits cellulaires. Le développement repose sur ces réseaux d’interactions. Le cerveau dépend à la fois de l’activité génétique, de l’organisation cellulaire et de l’expérience. La séquence d’ADN contribue à l’explication, sans s’y substituer. [PRESDA : cerveau humain](/articles/human-brain-most-complex-organ/) [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/howgeneswork/geneonoff/)"
+      },
+      {
+        "type": "heading",
+        "text": "Épigénétique : réguler sans réécrire les lettres"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’épigénétique étudie des changements d’activité des gènes associés à des mécanismes qui ne modifient pas la séquence d’ADN. Des modifications chimiques de l’ADN et des histones influencent l’accessibilité des régions à la machinerie cellulaire. Certains profils se maintiennent lors des divisions, aidant une cellule spécialisée à conserver son identité. Ces mécanismes sont essentiels au développement et interviennent dans des maladies. Ce n’est pas une couche mystérieuse au-dessus de la biologie, mais un ensemble de processus moléculaires mesurables qui interagissent avec d’autres formes de régulation. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le milieu peut influencer les profils épigénétiques, mais les affirmations populaires dépassent souvent les recherches. Observer un changement après une exposition ne prouve pas qu’il provoque une maladie, dure toute la vie ou se transmet aux petits-enfants. Une grande partie de l’information épigénétique est réinitialisée lors de la reproduction. Démontrer une transmission entre générations exige de distinguer les explications génétiques, environnementales et développementales. La conclusion raisonnable est que la biologie répond aux circonstances, non que les pensées réécrivent librement le génome ou qu’un test épigénétique révèle toute une histoire personnelle. [Source: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "Hérédité : pourquoi les membres d’une famille se ressemblent"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’hérédité commence avec la formation des ovules et des spermatozoïdes par méiose. Les paires chromosomiques se séparent et la recombinaison échange de l’ADN entre chromosomes correspondants. Les enfants héritent donc de combinaisons nouvelles, pas d’une moitié intacte des caractères visibles de chaque parent. Les différentes versions d’une séquence sont appelées allèles. Pour certaines maladies, une modification pathogène d’une seule copie du gène suffit ; pour d’autres, les deux doivent être affectées. Dominance et récessivité décrivent une relation entre variants et conséquences, pas la force ou la valeur d’un caractère. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans une maladie autosomique récessive classique, deux porteurs non malades possédant chacun un variant pathogène du gène concerné ont, à chaque grossesse, une probabilité de 25 pour cent d’avoir un enfant atteint. Cette probabilité recommence à chaque grossesse : elle ne garantit pas un enfant atteint parmi quatre. D’autres affections suivent une transmission liée à l’X ou mitochondriale, et certaines résultent de nouveaux variants sans antécédents familiaux. La pénétrance et l’expressivité variable ajoutent de la complexité : des porteurs du même variant peuvent différer quant à l’apparition, l’âge de début ou la gravité de la maladie. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/inheritance/riskassessment/)"
+      },
+      {
+        "type": "heading",
+        "text": "Les mutations sont des changements, pas des jugements"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un variant génétique peut être une substitution d’une base, une petite insertion ou délétion, ou un réarrangement beaucoup plus vaste. Certains modifient une protéine, d’autres la régulation, et beaucoup ont peu d’effets détectables dans un contexte donné. Le mot mutation ne signifie pas qu’un événement monstrueux ou nécessairement nocif s’est produit. Les variants participent à la diversité biologique ordinaire tout en pouvant provoquer des maladies. Leurs conséquences dépendent de leur position, du changement moléculaire, d’autres facteurs génétiques et du milieu dans lequel vit l’organisme. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les variants germinaux peuvent être transmis par les ovules ou les spermatozoïdes. Les variants somatiques apparaissent dans d’autres cellules et peuvent créer, chez une même personne, des populations cellulaires génétiquement différentes : c’est le mosaïcisme. Le cancer implique souvent des changements acquis perturbant le contrôle de la croissance, même si des variants hérités peuvent accroître la susceptibilité. Une maladie peut donc être génétique sans être héréditaire. Trouver un changement d’ADN dans une tumeur ne signifie pas automatiquement que les proches le portent, et découvrir un variant de risque ne garantit pas une maladie. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/)"
+      },
+      {
+        "type": "heading",
+        "text": "Maladies génétiques et limites de la prédiction"
+      },
+      {
+        "type": "paragraph",
+        "text": "La drépanocytose montre comment une modification de l’hémoglobine peut transformer le comportement des globules rouges et provoquer une maladie grave. La mucoviscidose implique des variants pathogènes de CFTR, affectant une protéine du transport des sels. Les affections chromosomiques se situent à une autre échelle : la trisomie 21 comporte généralement une copie supplémentaire du chromosome 21. Ces exemples ne sont pas interchangeables. Un variant de séquence, un segment chromosomique manquant et un chromosome supplémentaire agissent par des mécanismes différents. Le diagnostic exige davantage que le constat d’une différence avec une référence. [Source: medlineplus.gov](https://medlineplus.gov/geneticdisorders.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "De nombreuses affections fréquentes, dont le diabète de type 2 et les maladies cardiaques, associent plusieurs influences génétiques à des facteurs environnementaux et sociaux. La taille et beaucoup de traits comportementaux sont également complexes. L’héritabilité décrit la variation dans une population étudiée dans certaines conditions, pas le pourcentage d’un individu déterminé par ses gènes. Une forte héritabilité ne prouve pas qu’un caractère est immuable. Les résultats génétiques ne justifient ni une hiérarchie figée de la valeur humaine ni l’idée d’un gène unique de l’intelligence, de l’ambition ou du sens moral. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/complexdisorders/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un test impose aussi une question concrète : que changerait cette connaissance ? Un résultat peut éclaircir un diagnostic rare, guider une décision reproductive ou orienter un traitement. Il peut aussi laisser des incertitudes ou révéler un risque inattendu sans rapport avec la question initiale. Un résultat négatif n’exclut pas toutes les causes génétiques : les tests ne détectent pas tous les mêmes anomalies et les liens entre variants et maladies restent incomplets. L’interprétation associe résultats de laboratoire, données cliniques et histoire familiale. Le conseil génétique aide à comprendre ces limites plutôt qu’à lire un rapport comme un destin. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/testing/types/)"
+      },
+      {
+        "type": "heading",
+        "text": "D’un génome de référence à la diversité humaine"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le Projet génome humain, mené de 1990 à 2003, a établi une séquence de référence fondamentale. Son achèvement ne signifiait pas que toutes les régions étaient résolues : des séquences répétitives difficiles demeuraient. En 2022, le consortium Telomere-to-Telomere a présenté une séquence sans lacunes des autosomes et du chromosome X d’une lignée cellulaire particulière. Une séquence complète du chromosome Y a suivi en 2023. Ces progrès ont amélioré la carte, mais aucune séquence ne représente le génome de tout le monde. Une référence est un outil de comparaison, pas une norme de perfection biologique. [Source: genome.gov](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project) [Source: nature.com](https://www.nature.com/articles/s41586-023-06457-y)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une première version du pangénome humain publiée en 2023 a intégré les génomes de 47 personnes pour mieux représenter les séquences alternatives et les variations structurales. La diversité compte aussi en médecine prédictive. Les scores de risque polygénique combinent de nombreux variants, mais leur performance dépend des populations et des données utilisées pour les établir. Ils peuvent mal se transférer à une population sous-représentée. Améliorer représentation, consentement et interprétation fait donc partie de l’exactitude scientifique. L’enjeu est de rendre la médecine génomique informative pour davantage de personnes. [Source: nature.com](https://www.nature.com/articles/s41586-023-05896-x) [Source: genome.gov](https://www.genome.gov/news/news-release/researchers-optimize-genetic-tests-for-diverse-populations-to-tackle-health-disparities)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’association mérite une autre distinction essentielle. Lorsqu’une région génomique apparaît plus souvent chez les personnes présentant un caractère, c’est le début d’une enquête, pas la preuve qu’une base particulière le provoque. Des variants voisins peuvent être transmis ensemble et le protocole d’étude peut introduire des signaux trompeurs. Les chercheurs associent statistiques, expériences moléculaires, réplication des résultats et observations cliniques pour identifier les mécanismes. Les découvertes les plus solides expliquent non seulement qu’une séquence diffère, mais comment cette différence agit sur la biologie. Beaucoup de résultats restent à des étapes intermédiaires. [Source: genome.gov](https://www.genome.gov/about-genomics/fact-sheets/Genome-Wide-Association-Studies-Fact-Sheet)"
+      },
+      {
+        "type": "heading",
+        "text": "L’ADN, archive de l’évolution"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les mutations créent de nouvelles variations ; la recombinaison réorganise celles qui existent. La sélection naturelle peut favoriser des variants améliorant le succès reproductif dans un milieu donné, tandis que la dérive génétique modifie les fréquences par hasard. Les migrations déplacent les variants entre populations. L’évolution n’est donc pas une marche vers la perfection, et les mutations n’apparaissent pas parce qu’un organisme sait ce dont il a besoin. Un variant utile dans un contexte peut être neutre ou défavorable ailleurs. Les comparaisons d’ADN révèlent les traces d’ancêtres communs et des changements ultérieurs. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/evolution/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces principes moléculaires relient la génétique humaine au reste du vivant. Les bactéries copient et expriment aussi leur ADN, malgré des différences importantes d’organisation et de régulation. Leur évolution a fourni des outils aujourd’hui employés pour modifier les cellules humaines : les systèmes CRISPR proviennent de mécanismes de défense microbiens. Ces liens sont approfondis dans le dossier de PRESDA consacré aux bactéries. La biologie humaine devient plus compréhensible lorsqu’on la replace dans l’évolution, plutôt que d’en faire une invention séparée dont les règles moléculaires n’auraient aucun équivalent dans le vivant. [PRESDA : bactéries](/articles/bacteria-good-bad-microbes-shape-our-lives/) [Source: genome.gov](https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing)"
+      },
+      {
+        "type": "heading",
+        "text": "CRISPR : du laboratoire au traitement"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’édition fondée sur CRISPR utilise un ARN guide pour diriger une protéine associée vers une séquence cible. Dans une approche courante avec Cas9, la protéine coupe l’ADN et les mécanismes de réparation cellulaire contribuent à produire la modification. Cela ne rend pas l’édition automatiquement précise ou sûre : changements imprévus, édition incomplète, acheminement vers les bonnes cellules et réponses immunitaires doivent être étudiés. La thérapie génique dépasse CRISPR. Certains traitements ajoutent du matériel génétique sans modifier la séquence initiale ; d’autres transforment des cellules hors du corps avant de les réinjecter. [Source: medlineplus.gov](https://medlineplus.gov/genetics/understanding/therapy/procedures/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En décembre 2023, la FDA américaine a autorisé Casgevy pour certains patients de 12 ans et plus atteints de drépanocytose : le premier traitement autorisé par cette agence utilisant CRISPR/Cas9. Il modifie les cellules souches hématopoïétiques du patient pour augmenter l’hémoglobine fœtale, plutôt que de réparer simplement le variant drépanocytaire dans toutes les cellules. Il exige prélèvement spécialisé, fabrication, chimiothérapie de conditionnement et transplantation, avec des risques importants et un suivi prolongé. C’est une avancée clinique majeure, pas un remède universel. La distinction entre possibilité expérimentale et traitement établi reste centrale dans l’histoire de la médecine. [PRESDA : histoire de la médecine](/articles/history-future-of-medicine/) [Source: fda.gov](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les applications de recherche comptent tout autant. Modifier une séquence dans des cellules cultivées aide à déterminer si elle change l’activité d’un gène ou la réponse à un médicament. Une expérience convaincante exige des comparaisons appropriées et une recherche des effets indésirables. Un résultat dans une boîte de culture ne devient pas automatiquement un traitement pour une personne entière, dont les tissus interagissent et dont le système immunitaire peut réagir autrement. Les modèles précisent les questions ; les études cliniques établissent le bénéfice réel. Cette progression est moins spectaculaire qu’un titre, mais construit la fiabilité."
+      },
+      {
+        "type": "heading",
+        "text": "L’avenir : intervenir avec humilité"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’édition de bases et le prime editing cherchent à introduire certains changements sans suivre la même stratégie de coupure des deux brins que Cas9 conventionnel. Une étude publiée dans Nature en 2019 a présenté le prime editing comme une méthode pour inscrire des modifications précises avec un guide et un système enzymatique modifié. Ces outils élargissent l’expérimentation sans supprimer l’évaluation de l’acheminement, des effets indésirables, de la durabilité et du bénéfice clinique. De même, séquencer un génome peut fournir un indice sans établir un diagnostic. Un variant de signification incertaine reste incertain jusqu’à l’obtention de preuves suffisantes. [Source: nature.com](https://www.nature.com/articles/s41586-019-1711-4) [Source: medlineplus.gov](https://www.medlineplus.gov/genetictesting.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Modifier des cellules non reproductrices pour soigner une personne diffère fondamentalement de changements héréditaires dans des embryons ou cellules reproductrices. Ces derniers pourraient toucher des générations incapables de consentir, avec des conséquences difficiles à prévoir ou inverser. Accès aux soins, droits des personnes handicapées, vie privée et frontière entre traitement et amélioration appartiennent au débat scientifique. Les données d’ADN concernent aussi les proches. L’avenir le plus crédible associe capacité technique, preuves rigoureuses et responsabilité publique. Le code contribue à nous construire ; le comprendre devrait approfondir le respect de notre complexité, pas réduire une vie à un verdict moléculaire. [Source: genome.gov](https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "NHGRI: DNA fact sheet",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
+      },
+      {
+        "label": "NHGRI: the 1953 double helix",
+        "url": "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix"
+      },
+      {
+        "label": "NHGRI: DNA sequencing",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: genes",
+        "url": "https://medlineplus.gov/genetics/understanding/basics/gene/"
+      },
+      {
+        "label": "NHGRI: human genomic variation",
+        "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation"
+      },
+      {
+        "label": "NHGRI: chromosomes",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: noncoding DNA",
+        "url": "https://medlineplus.gov/genetics/understanding/basics/noncodingdna/"
+      },
+      {
+        "label": "MedlinePlus: variants in noncoding DNA",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/noncondingdnahealth/"
+      },
+      {
+        "label": "NHGRI: DNA replication",
+        "url": "https://www.genome.gov/genetics-glossary/DNA-Replication"
+      },
+      {
+        "label": "NCBI Bookshelf: DNA replication and repair",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26879/"
+      },
+      {
+        "label": "MedlinePlus: making proteins",
+        "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/makingprotein/"
+      },
+      {
+        "label": "MedlinePlus: gene regulation",
+        "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/geneonoff/"
+      },
+      {
+        "label": "MedlinePlus: epigenetics",
+        "url": "https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/"
+      },
+      {
+        "label": "NHGRI: epigenomics",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: inheritance patterns",
+        "url": "https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/"
+      },
+      {
+        "label": "MedlinePlus: inheritance probabilities",
+        "url": "https://medlineplus.gov/genetics/understanding/inheritance/riskassessment/"
+      },
+      {
+        "label": "MedlinePlus: types of variants",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/"
+      },
+      {
+        "label": "MedlinePlus: how variants arise",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/"
+      },
+      {
+        "label": "MedlinePlus: genetic disorders",
+        "url": "https://medlineplus.gov/geneticdisorders.html"
+      },
+      {
+        "label": "MedlinePlus: complex disorders",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/complexdisorders/"
+      },
+      {
+        "label": "MedlinePlus: types of genetic tests",
+        "url": "https://medlineplus.gov/genetics/understanding/testing/types/"
+      },
+      {
+        "label": "NHGRI: Human Genome Project",
+        "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project"
+      },
+      {
+        "label": "Nature: complete Y chromosome",
+        "url": "https://www.nature.com/articles/s41586-023-06457-y"
+      },
+      {
+        "label": "Nature: draft human pangenome",
+        "url": "https://www.nature.com/articles/s41586-023-05896-x"
+      },
+      {
+        "label": "NHGRI: diverse genetic risk prediction",
+        "url": "https://www.genome.gov/news/news-release/researchers-optimize-genetic-tests-for-diverse-populations-to-tackle-health-disparities"
+      },
+      {
+        "label": "NHGRI: genome-wide association studies",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Genome-Wide-Association-Studies-Fact-Sheet"
+      },
+      {
+        "label": "MedlinePlus: variants and evolution",
+        "url": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/evolution/"
+      },
+      {
+        "label": "NHGRI: genome editing",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing"
+      },
+      {
+        "label": "MedlinePlus: gene therapy mechanisms",
+        "url": "https://medlineplus.gov/genetics/understanding/therapy/procedures/"
+      },
+      {
+        "label": "FDA: first CRISPR-based approval",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease"
+      },
+      {
+        "label": "Nature: prime editing",
+        "url": "https://www.nature.com/articles/s41586-019-1711-4"
+      },
+      {
+        "label": "MedlinePlus: genetic testing",
+        "url": "https://www.medlineplus.gov/genetictesting.html"
+      },
+      {
+        "label": "NHGRI: ethics of genome editing",
+        "url": "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/human-family-tree-human-evolution-species/",
     "path": "/ar/articles/human-family-tree-human-evolution-species/",
     "kind": "article",

@@ -1,3 +1,4 @@
+import { dnaArticle } from "@/data/dnaArticle";
 import { brainArticle } from "@/data/brainArticle";
 import { bacteriaArticle } from "@/data/bacteriaArticle";
 import { solarArticle } from "@/data/solarArticle";
@@ -203,6 +204,7 @@ export const articles: Article[] = [
   vangoghArticle,
   brunoArticle,
   moonArticle,
+  dnaArticle,
   brainArticle,
   bacteriaArticle,
   solarArticle,
