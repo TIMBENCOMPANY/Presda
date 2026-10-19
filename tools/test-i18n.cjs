@@ -25,7 +25,7 @@ let testPath = '/';
 const originalLoad = Module._load;
 Module._load = function(name, parent, isMain) {
   if (name === 'server-only') return {};
-  if (name === 'next/navigation') return { usePathname: () => testPath, useRouter: () => ({ push() {} }) };
+  if (name === 'next/navigation') return { usePathname: () => testPath, useSelectedLayoutSegments: () => [], useRouter: () => ({ push() {} }) };
   if (name === 'next/font/google') return { Barlow_Condensed: () => ({ variable: '' }), Inter: () => ({ variable: '' }), Orbitron: () => ({ variable: '' }) };
   return originalLoad.call(this, name, parent, isMain);
 };

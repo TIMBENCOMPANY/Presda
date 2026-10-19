@@ -6,7 +6,7 @@ const Module = require('node:module');
 const load = Module._load;
 let pathname = '/';
 Module._load = function(name, parent, isMain) {
-  if (name === 'next/navigation') return { usePathname: () => pathname, useRouter: () => ({ push() {} }) };
+  if (name === 'next/navigation') return { usePathname: () => pathname, useSelectedLayoutSegments: () => [], useRouter: () => ({ push() {} }) };
   if (name === 'next/font/google') return { Barlow_Condensed: () => ({ variable: '' }), Inter: () => ({ variable: '' }), Orbitron: () => ({ variable: '' }) };
   return load.call(this, name, parent, isMain);
 };
