@@ -1,3 +1,4 @@
+import { psgQsiArticle } from "@/data/psgQsiArticle";
 import { bilingualBrainsArticle } from "@/data/bilingualBrainsArticle";
 import { electricCarsArticle } from "@/data/electricCarsArticle";
 import { supermarketArticle } from "@/data/supermarketArticle";
@@ -220,6 +221,7 @@ export const articles: Article[] = [
   ...extinctionTartary2026Articles,
   supermarketArticle,
   bilingualBrainsArticle,
+  psgQsiArticle,
   electricCarsArticle,
   beeArticle,
   dnaArticle,
