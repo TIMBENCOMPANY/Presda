@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { presdaImageCreator } from "@/lib/imageCreators";
 import { getLanguageAlternates } from "@/lib/i18n/registry";
 
 export const siteUrl = "https://presda.com";
@@ -74,7 +75,8 @@ export function organizationJsonLd() {
     correctionsPolicy: absoluteUrl("/corrections-policy/"),
     logo: {
       "@type": "ImageObject",
-      url: absoluteUrl(defaultOgImage)
+      url: absoluteUrl(defaultOgImage),
+      creator: presdaImageCreator
     },
     sameAs: [
       "https://www.instagram.com/presdaofficial",

@@ -1,4 +1,5 @@
 import media from "@/data/phenomena2026Media.json";
+import { getPhenomenonImageCreator } from "@/lib/imageCreators";
 import type { Locale } from "@/lib/i18n/routing";
 
 const copy = {
@@ -12,13 +13,14 @@ export function Phenomena2026Image({ number, locale }: { number: number; locale:
   const item = media.find(image => image.number === number);
   if (!item) return null;
   const c = copy[locale];
+  const creator = getPhenomenonImageCreator(number, item.author);
   return <figure data-phenomenon-image={number} className="my-10 overflow-hidden rounded-xl border border-white/15 bg-[#10131A] text-white">
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
       "@context": "https://schema.org", "@type": "ImageObject",
       contentUrl: `https://presda.com${item.variants[item.variants.length - 1].src}`,
       caption: item.captions[locale], inLanguage: locale,
       license: item.licenseUrl, acquireLicensePage: item.source,
-      ...(number === 11 ? {} : { creator: { "@type": /^(NASA|National Science Foundation)/.test(item.author) ? "Organization" : "Person", name: item.author } }),
+      ...(creator ? { creator } : {}),
       creditText: item.author, copyrightNotice: `${item.author} · ${item.license}`
     }).replace(/</g, "\\u003c") }} />
     {/* Native responsive images retain each licensed composition without a runtime transform. */}

@@ -4,6 +4,7 @@ require.extensions['.css'] = m => { m.exports = {}; };
 const { getPublishedArticles } = require('../src/data/articles.ts');
 const { articleJsonLd } = require('../src/lib/articleSeo.ts');
 const { articleImageUrl, articleSitemapImages } = require('../src/lib/articleImageSeo.ts');
+const { getImageCreator } = require('../src/lib/imageCreators.ts');
 const { publishedTranslations } = require('../src/lib/i18n/registry.ts');
 const { translationJsonLd, translationMetadata } = require('../src/lib/i18n/metadata.ts');
 const { generateMetadata } = require('../src/app/(english)/articles/[slug]/page.tsx');
@@ -30,7 +31,7 @@ function verify(schema, metadata, source, alt, canonical, entries) {
   assert.deepEqual(entries.find(e=>e.url===canonical).images.slice(0, articleSitemapImages(source).length), articleSitemapImages(source));
   assert.ok(!image.contentUrl.includes('/_next/image'));
   assert.equal(image.license, undefined, 'Do not invent licensing');
-  assert.equal(image.creator, undefined, 'Do not invent image authorship');
+  assert.deepEqual(image.creator, getImageCreator(source), 'Only verified image authorship');
 }
 async function main() {
   const {default: config} = await import('../next.config.mjs');

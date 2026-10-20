@@ -1,4 +1,5 @@
 import type { Article } from "@/data/articles";
+import { presdaImageCreator } from "@/lib/imageCreators";
 import { articleImageJsonLd, articleImagePage } from "@/lib/articleImageSeo";
 import { getAuthorProfile, getAuthorSchemaType, toAuthorSlug } from "@/lib/authors";
 import { categoryLabels } from "@/lib/categories";
@@ -180,7 +181,8 @@ export function articleJsonLd(article: Article) {
       name: siteName,
       logo: {
         "@type": "ImageObject",
-        url: absoluteUrl(defaultOgImage)
+        url: absoluteUrl(defaultOgImage),
+        creator: presdaImageCreator
       }
     },
     mainEntityOfPage: articleImagePage(url)

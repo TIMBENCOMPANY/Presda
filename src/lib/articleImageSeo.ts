@@ -1,3 +1,5 @@
+import { getImageCreator } from "@/lib/imageCreators";
+
 const absoluteImageUrl = (path: string) => /^https?:\/\//.test(path) ? path : `https://presda.com${path}`;
 
 /** Match the existing article hero's fallback src, without generating any images. */
@@ -13,11 +15,13 @@ export function articleImageUrl(source: string) {
 
 export function articleImageJsonLd(source: string, alt: string, canonical: string) {
   const image = articleImageUrl(source);
+  const creator = getImageCreator(source);
   return {
     "@type": "ImageObject",
     "@id": `${canonical}#primaryimage`,
     url: image,
     contentUrl: image,
+    ...(creator ? { creator } : {}),
     description: alt,
     representativeOfPage: true,
     mainEntityOfPage: canonical
