@@ -1,0 +1,157 @@
+import type { Article } from "@/data/articles";
+export const electricCarsArticle: Article = {
+  "id": "300",
+  "slug": "electric-cars-global-shift-future-gasoline-diesel",
+  "title": "Electric Cars: The Global Shift and the Future of Gasoline and Diesel",
+  "seoTitle": "Electric Cars: Global EV Shift, Gasoline and Diesel’s Future",
+  "metaDescription": "A global analysis of electric cars, hybrids, batteries and charging, with IEA 2026 data, evolving EU rules and scenarios for 2030, 2035 and 2050.",
+  "excerpt": "A global analysis of electric cars, hybrids, batteries and charging, with IEA 2026 data, evolving EU rules and scenarios for 2030, 2035 and 2050.",
+  "category": "Business",
+  "schemaType": "Article",
+  "date": "2026-10-20",
+  "lastUpdated": "2026-10-20",
+  "author": "PRESDA Editorial",
+  "status": "published",
+  "readingTime": "15 min read",
+  "coverImage": "/articles/electric-cars-2026-hero.png",
+  "coverAlt": "PRESDA AI-generated editorial illustration of a car transporter on an imagined coastal highway. Not a photograph of an actual shipment, location or manufacturer event.",
+  "headlineHighlights": {
+    "red": "Electric Cars",
+    "gold": "Gasoline and Diesel"
+  },
+  "tags": [
+    "Electric vehicles",
+    "Automotive industry",
+    "Energy",
+    "Batteries",
+    "Global economy"
+  ],
+  "content": [
+    "A car transporter carries more than vehicles. It carries bets on energy prices, battery factories, charging networks and the habits of millions of drivers. Around the world, those bets are changing. Electric cars are moving into the mass market, but the transition is neither uniform nor a simple countdown to the disappearance of gasoline and diesel.",
+    "The central distinction is between what people buy today and what remains on the road. Electric cars accounted for one-quarter of global new-car sales in 2025, according to the International Energy Agency, yet only about 5% of the existing car fleet. Both facts can be true. Replacing a fleet takes much longer than changing a showroom. This feature uses the IEA’s 2026 report, its July market update and official company disclosures, with policy checked on 20 October 2026. [IEA: electric car market trends](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)",
+    "## First, what counts as an electric car?",
+    "A battery electric vehicle, or BEV, stores electricity in a rechargeable battery and drives through an electric motor, without a gasoline or diesel engine. Regenerative braking recovers some energy during deceleration. A plug-in hybrid, or PHEV, combines external charging with a combustion engine. Its fuel consumption depends heavily on how often it is charged, the length of its journeys and when its engine operates. [US Alternative Fuels Data Center: electric vehicles](https://afdc.energy.gov/vehicles/electric)",
+    "A conventional hybrid, or HEV, cannot normally be plugged in. It uses fuel, a smaller battery and an electric motor to improve efficiency. Mild hybrids provide more limited electrical assistance. In this article, the IEA’s electric-car totals mean BEVs plus PHEVs, not ordinary hybrids. Hydrogen fuel-cell cars are another electric-drive technology, with a much smaller market. Mixing these categories can make a manufacturer’s electrification claim look far larger than its battery-only business.",
+    "## The global market: a record year, followed by an uneven 2026",
+    "Worldwide electric-car sales exceeded 20 million in 2025, growing 20% year on year. Battery-only models represented 65% of electric-car sales. The geographical contrast was striking: electric cars approached 55% of new-car sales in China, reached 28% across Europe and remained just below 10% in the United States. These are shares of new sales, not all vehicles in use, and Europe is not interchangeable with the European Union. [IEA: Global EV Outlook 2026](https://www.iea.org/reports/global-ev-outlook-2026/executive-summary)",
+    "The July 2026 update complicates any straight-line growth story. Electric cars represented 24% of global car sales in the first half, while their sales volume was slightly below the same period of 2025. Second-quarter growth almost offset an earlier decline. The IEA then expected a 29% share for the full year and roughly 10% annual sales growth. That is a forecast, not a completed 2026 result, and it supersedes the May report’s 28% share estimate. [IEA: July 2026 market update](https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary)",
+    "This matters because market share can rise even when volumes weaken, if the overall car market falls faster. A temporary regional setback does not prove that electrification has failed; equally, a strong quarter does not guarantee uninterrupted expansion. Interest rates, incentives, model launches, trade restrictions and fuel prices all affect purchase decisions. A credible assessment follows several measures rather than selecting whichever headline supports a preferred conclusion.",
+    "## China: the transition’s industrial centre",
+    "China combines a very large domestic market with battery manufacturing, component suppliers and intense competition. Its advantage is not simply that it sells many electric cars. It can develop platforms, source cells and scale production within a dense industrial ecosystem. The IEA estimates that China produced nearly three-quarters of the world’s electric cars in 2025. Companies based elsewhere also manufacture there, so production location and brand nationality must be distinguished. [IEA: manufacturing and trade](https://www.iea.org/reports/global-ev-outlook-2026)",
+    "For consumers, competition creates more choice and downward pressure on prices. For producers, it can compress margins and encourage exports. The July IEA update identified a growing gap between vehicles exported from China and those registered as sold abroad. Shipments are not the same as final demand. Export success, overseas inventories, import duties and the cost of establishing service networks will all determine how much of China’s manufacturing strength becomes durable global market share.",
+    "## Europe and the United States: different policy signals",
+    "Europe’s 2025 rebound was substantial: electric-car sales reached 4.2 million, with tighter emissions standards helping stimulate supply and pricing. Within the EU, the corresponding sales share was just under 27%. Norway, Germany, France and southern European markets nevertheless remain very different. Company-car taxation, household income, apartment charging and the availability of smaller affordable vehicles shape adoption as much as the continent-wide debate. [IEA: regional sales](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)",
+    "The United States illustrates the sensitivity of demand to policy changes. The IEA recorded approximately 1.5 million electric-car sales in 2025, slightly below 2024. Federal purchase tax credits ended after September 2025, contributing to purchases being brought forward and a subsequent fourth-quarter decline. That history should not be confused with the elimination of every state, utility or local incentive. Buyers must check the rules applicable to their purchase rather than rely on an old national subsidy headline.",
+    "American electrification also varies by housing and geography. A driver with a garage and inexpensive overnight electricity faces a different calculation from an apartment resident dependent on public fast charging. Long distances, large vehicles, towing and cold weather can increase the battery capacity or charging access a household needs. These are practical design and infrastructure challenges, not reasons to assume every American driver has the same requirements.",
+    "## Japan, India and the markets beyond the usual headlines",
+    "Japan remains a reminder that hybrid success is not the same as rapid plug-in adoption. In 2025, electric cars accounted for less than 3% of new-car sales, while conventional hybrids represented around one-third, according to the IEA. Toyota’s multi-pathway strategy spans hybrids, plug-in hybrids, battery-electric vehicles and hydrogen. It seeks to address different markets, but also leaves the company facing the strategic question of how quickly battery-only demand will grow. [Toyota: integrated report](https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf)",
+    "India’s electric-car sales rose 75% in 2025 to around 165,000, nearly 4% of car sales. Tata and Mahindra accounted for roughly 60% of those sales through domestic production. Yet cars tell only part of India’s transport story. Electric scooters, motorcycles and three-wheelers serve different price points and daily travel needs. Measuring the whole transition solely through expensive passenger cars misses some of its most relevant applications. [IEA: India and emerging markets](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)",
+    "Southeast Asia and Latin America are increasingly important markets rather than peripheral footnotes. Vietnam’s domestic VinFast, Chinese brands expanding in Thailand and Indonesia, and growing Brazilian and Mexican demand demonstrate different routes to electrification. Across Africa and other lower-income markets, used imports, financing, electricity reliability and access to repairs complicate the picture. A technology can become globally cheaper while remaining unaffordable to a particular household. Local conditions will decide how quickly these markets move.",
+    "## Tesla, BYD, Volkswagen and Toyota: competing on different terms",
+    "Tesla delivered 1,636,129 vehicles in 2025. BYD reported 2,256,714 battery-electric passenger vehicles, alongside a large plug-in hybrid business. These disclosures show why comparing Tesla with BYD’s entire new-energy-vehicle total exaggerates the battery-only difference. BYD’s battery-electric passenger volume alone was larger, but the categories should still be stated explicitly. Sales scale is important; profitability, warranty support and sustainable pricing are separate questions. [Tesla: 2025 deliveries](https://ir.tesla.com/_flysystem/s3/sec/000162828026000016/tsla-20260102-gen.pdf) [BYD: December and full-year 2025 disclosure](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100129.pdf)",
+    "Volkswagen Group reported 983,120 battery-electric deliveries in 2025, up 32%, including heavy commercial vehicles. Its brands and factories make it a different organisation from either Tesla or BYD. Toyota’s extensive hybrid business provides another model: improving combustion efficiency while developing other powertrains. Hyundai, Kia, BMW, Renault, Geely and numerous newer manufacturers add further competition. There is no single strategy that removes execution risk. [Volkswagen Group: 2025 deliveries](https://annualreport2025.volkswagen-group.com/group-management-report/business-development/deliveries.html)",
+    "Established automakers must fund new platforms while maintaining existing factories, suppliers and service networks. Newer entrants must prove that rapid innovation can become consistent manufacturing quality and lasting customer support. Software, battery management and charging integration matter increasingly, but a car remains a physical product expected to work for years. PRESDA’s examination of the wider automation transition explores the related challenge of changing skills and industrial organisation. [The robot revolution](/articles/robot-revolution-ai-future-2030/)",
+    "## Batteries: progress without a single miracle chemistry",
+    "Lithium-ion batteries are a family of technologies. Lithium iron phosphate, or LFP, avoids nickel and cobalt in its cathode and is widely used where affordability and durability matter. Nickel-rich chemistries can offer greater energy density, useful when weight and range are priorities. Pack design, thermal management and manufacturing quality also matter. A chemistry name alone cannot tell a buyer how a particular vehicle will perform. [IEA: electric vehicle batteries](https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries)",
+    "The IEA reports that average battery prices fell 8% in 2025, although the measure spans electric-vehicle and stationary-storage applications. It is not an 8% reduction in the retail price of every electric car. Sodium-ion and solid-state designs could broaden future options, but laboratory performance, initial production and affordable high-volume manufacturing are different milestones. Consumers should assess products actually available, not assume an announced breakthrough has already transformed every showroom.",
+    "## Charging: the everyday advantage and the public bottleneck",
+    "Home charging can turn parking time into refuelling time. Workplace charging offers a similar opportunity. Public fast charging is especially important for long journeys and households without private parking, but the number of plugs is only a starting measure. Reliability, accessibility, payment systems, connector compatibility and the capacity available when several cars arrive together determine whether infrastructure works in practice. [IEA: charging infrastructure](https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10)",
+    "A charger’s maximum power is not a constant delivery rate. The car, battery temperature, state of charge and station conditions can all limit it, and charging usually slows as the battery fills. An advertised short charging stop applies to specified conditions and a particular charge interval. Grid connections and local transformers may need upgrades even where national electricity supply is adequate. Managed charging can shift demand away from busy periods; vehicle-to-grid services add possibilities but require compatible equipment and workable commercial arrangements.",
+    "## The purchase price is only the beginning",
+    "The meaningful comparison is total ownership cost: purchase or lease payments, financing, depreciation, insurance, energy, maintenance and resale. BEVs avoid engine oil changes and many combustion-engine components, but tyres, suspension, collision repairs and insurance remain real expenses. A cheaper electricity bill does not automatically offset a high purchase price or rapid depreciation. Used vehicles widen access, making battery condition and transferable warranties increasingly important. [US Alternative Fuels Data Center: ownership considerations](https://afdc.energy.gov/vehicles/electric)",
+    "Consider an illustrative calculation, not a market average. An electric car using 18 kWh per 100 km at an assumed electricity price of 0.20 currency units per kWh costs 3.60 per 100 km for energy, before charging losses. A gasoline car using 6 litres at 1.50 per litre costs 9.00. If public electricity instead costs 0.60 per kWh, the electric figure becomes 10.80. The arithmetic explains why access to affordable charging can matter more than a broad claim that one powertrain is always cheaper.",
+    "## Environmental impact: compare entire life cycles",
+    "An electric car has no exhaust emissions while driving, but it is not impact-free. Producing its battery requires energy and materials; generating electricity can emit greenhouse gases; tyres and roads still produce particles. A fair comparison includes extraction, manufacturing, fuel or electricity supply, driving and end-of-life treatment for both vehicles. It must also compare reasonably similar vehicle sizes and usage rather than an electric SUV with a very small gasoline car. [IEA: battery supply-chain sustainability](https://www.iea.org/reports/ev-battery-supply-chain-sustainability)",
+    "A 2025 ICCT analysis estimated 73% lower life-cycle greenhouse-gas emissions for battery-electric cars sold in the EU than gasoline equivalents, using its projected electricity mix and other study assumptions. That is a modelled European result, not a universal percentage for every country or vehicle. Cleaner electricity improves the comparison, while a carbon-intensive grid, a very large battery or limited lifetime use can reduce the advantage. Climate emissions also should not be treated as a complete measure of environmental harm. [ICCT: European life-cycle assessment](https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25/)",
+    "Lithium, graphite, nickel and cobalt supply chains raise concerns over water, land, labour conditions and geopolitical concentration. Not every chemistry uses all these materials. Recycling can recover valuable inputs, but cannot immediately supply a rapidly expanding fleet when many batteries are still in service. Smaller, efficient vehicles, responsible sourcing, longer product lives and public transport complement electrification. Replacing the engine does not by itself solve congestion or the space cities devote to cars.",
+    "## EU 2035: the law, the proposed revision and the political debate",
+    "The adopted EU framework sets a 100% reduction in fleet-average tailpipe CO2 emissions for new cars and vans from 2035 compared with the 2021 target. It concerns new vehicles, not an order to scrap all existing gasoline and diesel cars. In December 2025 the Commission proposed changing the 2035 target to 90%, with compensation provisions involving sustainable fuels and low-carbon European steel. A Commission proposal is not itself an adopted replacement regulation. [European Parliament: adopted framework](https://www.europarl.europa.eu/news/en/press-room/20230210IPR74715/fit-for-55-zero-co2-emissions-for-new-cars-and-vans-in-2035) [Council: revision under discussion](https://www.consilium.europa.eu/en/meetings/env/2026/03/17/)",
+    "The debate was still evolving in the material checked for this article. On 16 October 2026, France and Germany announced a common approach linking decarbonisation, regulatory flexibility and European production, while saying they would work with European partners towards an agreement. That statement documents political alignment, not completion of the EU legislative process. Investors should therefore distinguish the existing framework, the Commission’s proposed mechanism and subsequent negotiating positions. [Élysée: joint declaration of 16 October 2026](https://www.elysee.fr/emmanuel-macron/2026/10/16/declaration-de-presse-conjointe-franco-allemande-sur-lavenir-de-lindustrie-automobile-europeenne)",
+    "## What happens to gasoline and diesel?",
+    "Combustion vehicles will remain on roads long after electric models dominate some new-car markets. Existing fleets, used-car trade, repair economics and uneven infrastructure ensure a long overlap. Efficient hybrids may reduce fuel use during that period, while PHEVs deliver their strongest fuel savings when regularly charged and driven electrically. Neither label removes the need to examine actual operation. A plug-in hybrid driven mainly on fuel remains a fuel-consuming car.",
+    "Diesel’s outlook also differs between passenger cars and heavy transport. Trucks have demanding payload, range and utilisation requirements, but high daily mileage can strengthen the economics of electric alternatives where charging is well organised. Synthetic fuels and biofuels may serve particular applications, yet cost, energy inputs, feedstocks and availability constrain claims that they can effortlessly preserve the whole combustion fleet. A credible outlook allows several technologies to coexist without assuming they all deliver equal emissions reductions.",
+    "## 2030, 2035 and 2050: scenarios, not appointments with destiny",
+    "For 2030, the practical questions are whether affordable models, dependable charging and industrial capacity expand together. The IEA’s 2026 outlook projects that EVs across road transport could displace around 5 million barrels of oil a day by 2030. This is avoided demand compared with a counterfactual without those vehicles, not a claim that total oil consumption must fall by exactly that amount. Passenger cars are only one part of road electrification. [IEA: outlook for electric mobility](https://www.iea.org/reports/global-ev-outlook-2026/outlook-for-electric-mobility-chap-9-11)",
+    "For 2035, the IEA’s exploratory scenarios put electric cars at around half of global new-car sales. The report distinguishes the Current Policies Scenario from the Stated Policies Scenario, reflecting different policy assumptions. These projections are conditional, with much higher penetration in some markets than others. They should not be presented as a worldwide ban on combustion engines or as proof that half of the entire fleet will be electric by that date. [IEA: scenario summary](https://www.iea.org/reports/global-ev-outlook-2026/executive-summary)",
+    "For 2050, an exact global sales or fleet percentage would imply more certainty than this evidence supports. Deep transport decarbonisation would require cleaner electricity, lower vehicle emissions, infrastructure investment and changes in mobility beyond private cars. A faster transition could reduce exposure to imported oil; a slower one would prolong fuel demand and emissions. Technology, affordability and durable policy will decide the outcome. A climate objective is not the same thing as a market forecast.",
+    "## The implications reach far beyond the showroom",
+    "Consumers gain more options but need better information on charging costs, battery condition and long-term support. Automakers and suppliers face a redistribution of value from engines and fuel systems towards cells, power electronics and software. Workers need training and investment that arrives where existing jobs are affected. Governments face a difficult balance between affordable imports, domestic manufacturing, competition and resilient supply chains. Tariffs may protect a factory while raising costs for its prospective customers.",
+    "For oil producers, electrification changes demand growth before it eliminates demand. Refineries, fuel retailers and exporters must consider regional vehicle fleets, freight, aviation and petrochemicals rather than extrapolate from electric-car sales alone. Oil prices also reflect supply decisions and geopolitical events. PRESDA’s analysis of oil power provides the wider context for this changing relationship between transport and energy security. [Who controls the world’s oil?](/articles/who-controls-world-oil-middle-east-opec/)",
+    "The future of the car will not arrive everywhere on the same day. It will appear in the price of a small electric hatchback, the reliability of an apartment-block charger, the viability of a battery plant and the resale value of an ageing diesel. Electric propulsion is already reshaping the global industry. How far and how fairly that transformation travels will depend on the systems built around the vehicle as much as the vehicle itself."
+  ],
+  "references": [
+    {
+      "name": "IEA: India and emerging markets",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars"
+    },
+    {
+      "name": "US Alternative Fuels Data Center: ownership considerations",
+      "url": "https://afdc.energy.gov/vehicles/electric"
+    },
+    {
+      "name": "IEA: scenario summary",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/executive-summary"
+    },
+    {
+      "name": "IEA: July 2026 market update",
+      "url": "https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary"
+    },
+    {
+      "name": "IEA: manufacturing and trade",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026"
+    },
+    {
+      "name": "Toyota: integrated report",
+      "url": "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf"
+    },
+    {
+      "name": "Tesla: 2025 deliveries",
+      "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026000016/tsla-20260102-gen.pdf"
+    },
+    {
+      "name": "BYD: December and full-year 2025 disclosure",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100129.pdf"
+    },
+    {
+      "name": "Volkswagen Group: 2025 deliveries",
+      "url": "https://annualreport2025.volkswagen-group.com/group-management-report/business-development/deliveries.html"
+    },
+    {
+      "name": "IEA: electric vehicle batteries",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries"
+    },
+    {
+      "name": "IEA: charging infrastructure",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10"
+    },
+    {
+      "name": "IEA: battery supply-chain sustainability",
+      "url": "https://www.iea.org/reports/ev-battery-supply-chain-sustainability"
+    },
+    {
+      "name": "ICCT: European life-cycle assessment",
+      "url": "https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25/"
+    },
+    {
+      "name": "European Parliament: adopted framework",
+      "url": "https://www.europarl.europa.eu/news/en/press-room/20230210IPR74715/fit-for-55-zero-co2-emissions-for-new-cars-and-vans-in-2035"
+    },
+    {
+      "name": "Council: revision under discussion",
+      "url": "https://www.consilium.europa.eu/en/meetings/env/2026/03/17/"
+    },
+    {
+      "name": "Élysée: joint declaration of 16 October 2026",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/10/16/declaration-de-presse-conjointe-franco-allemande-sur-lavenir-de-lindustrie-automobile-europeenne"
+    },
+    {
+      "name": "IEA: outlook for electric mobility",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/outlook-for-electric-mobility-chap-9-11"
+    }
+  ],
+  "relatedSlugs": [
+    "robot-revolution-ai-future-2030",
+    "who-controls-world-oil-middle-east-opec"
+  ],
+  "faq": []
+};

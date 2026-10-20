@@ -1,0 +1,70 @@
+[
+  {
+    "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+    "status": 200
+  },
+  {
+    "url": "https://afdc.energy.gov/vehicles/electric",
+    "status": 200
+  },
+  {
+    "url": "https://www.iea.org/reports/global-ev-outlook-2026/executive-summary",
+    "status": 200
+  },
+  {
+    "url": "https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary",
+    "status": 200
+  },
+  {
+    "url": "https://www.iea.org/reports/global-ev-outlook-2026",
+    "status": 200
+  },
+  {
+    "url": "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026000016/tsla-20260102-gen.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100129.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://annualreport2025.volkswagen-group.com/group-management-report/business-development/deliveries.html",
+    "status": 200
+  },
+  {
+    "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries",
+    "status": 200
+  },
+  {
+    "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10",
+    "status": 200
+  },
+  {
+    "url": "https://www.iea.org/reports/ev-battery-supply-chain-sustainability",
+    "status": 200
+  },
+  {
+    "url": "https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25/",
+    "status": 200
+  },
+  {
+    "url": "https://www.europarl.europa.eu/news/en/press-room/20230210IPR74715/fit-for-55-zero-co2-emissions-for-new-cars-and-vans-in-2035",
+    "status": 202
+  },
+  {
+    "url": "https://www.consilium.europa.eu/en/meetings/env/2026/03/17/",
+    "status": 403
+  },
+  {
+    "url": "https://www.elysee.fr/emmanuel-macron/2026/10/16/declaration-de-presse-conjointe-franco-allemande-sur-lavenir-de-lindustrie-automobile-europeenne",
+    "status": 200
+  },
+  {
+    "url": "https://www.iea.org/reports/global-ev-outlook-2026/outlook-for-electric-mobility-chap-9-11",
+    "status": 200
+  }
+]

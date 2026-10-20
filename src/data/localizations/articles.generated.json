@@ -97980,6 +97980,936 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/electric-cars-global-shift-future-gasoline-diesel/",
+    "path": "/ar/articles/electric-cars-global-shift-future-gasoline-diesel/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-20",
+      "terminologyChecked": true
+    },
+    "title": "السيارات الكهربائية: التحول العالمي ومستقبل البنزين والديزل",
+    "seoTitle": "السيارات الكهربائية ومستقبل البنزين والديزل عالمياً",
+    "description": "تحليل عالمي للسيارات الكهربائية ببيانات وكالة الطاقة الدولية 2026: الهجين والبطاريات والشحن وقواعد أوروبا وسيناريوهات 2030 و2035 و2050.",
+    "excerpt": "تحليل عالمي للسيارات الكهربائية ببيانات وكالة الطاقة الدولية 2026: الهجين والبطاريات والشحن وقواعد أوروبا وسيناريوهات 2030 و2035 و2050.",
+    "headlineHighlights": {
+      "red": "السيارات الكهربائية",
+      "gold": "البنزين والديزل"
+    },
+    "keywords": [
+      "السيارات الكهربائية",
+      "البنزين والديزل"
+    ],
+    "searchIntent": "تحليل عالمي للسيارات الكهربائية ببيانات وكالة الطاقة الدولية 2026: الهجين والبطاريات والشحن وقواعد أوروبا وسيناريوهات 2030 و2035 و2050.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "image": {
+      "src": "/articles/electric-cars-2026-hero.png",
+      "alt": "رسم تحريري مولد بالذكاء الاصطناعي لصالح PRESDA لشاحنة سيارات على طريق ساحلي متخيل. ليس صورة لشحنة أو موقع أو حدث فعلي لشركة سيارات."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "لا تنقل شاحنة السيارات مركبات فحسب، بل تحمل أيضاً رهانات على أسعار الطاقة ومصانع البطاريات وشبكات الشحن وعادات ملايين السائقين. وتتغير هذه الرهانات حول العالم. فالسيارة الكهربائية تتقدم نحو السوق الواسعة، لكن التحول ليس متساوياً بين البلدان، ولا مجرد عد تنازلي لاختفاء البنزين والديزل."
+      },
+      {
+        "type": "paragraph",
+        "text": "التمييز الأساسي هو بين ما يشتريه الناس اليوم وما يبقى على الطرق. وفق وكالة الطاقة الدولية، شكلت السيارات الكهربائية ربع مبيعات السيارات الجديدة عالمياً في 2025، لكنها لم تتجاوز نحو 5% من أسطول السيارات القائم. لا تناقض بين الرقمين، فتجديد الأسطول أبطأ بكثير من تغيير معروض صالات البيع. يعتمد هذا المقال على تقرير الوكالة لعام 2026 وتحديث يوليو وبيانات الشركات الرسمية، مع مراجعة السياسات في 20 أكتوبر 2026. [المصدر: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+      },
+      {
+        "type": "heading",
+        "text": "ما المقصود بالسيارة الكهربائية؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تخزن السيارة الكهربائية بالبطارية، أو BEV، الكهرباء في بطارية قابلة للشحن، وتتحرك بمحرك كهربائي دون محرك بنزين أو ديزل. ويستعيد الكبح المتجدد بعض الطاقة عند التباطؤ. أما الهجينة القابلة للشحن الخارجي، أو PHEV، فتجمع الشحن من الشبكة ومحرك احتراق. ويتوقف استهلاكها للوقود بدرجة كبيرة على انتظام شحنها وطول رحلاتها ومتى يعمل المحرك الحراري. [المصدر: afdc.energy.gov](https://afdc.energy.gov/vehicles/electric)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الهجينة التقليدية، أو HEV، لا توصل عادة بمقبس. فهي تستخدم الوقود وبطارية أصغر ومحركاً كهربائياً لتحسين الكفاءة، بينما تقدم الهجينة الخفيفة مساعدة كهربائية أكثر محدودية. في هذا المقال تشمل أرقام الوكالة للسيارات الكهربائية مركبات BEV وPHEV، ولا تشمل الهجينة العادية. وتعد سيارات خلايا الوقود الهيدروجينية تقنية دفع كهربائي أخرى بسوق أصغر كثيراً. الخلط بين الفئات قد يضخم الانطباع عن حجم نشاط الشركة في السيارات العاملة بالبطارية وحدها."
+      },
+      {
+        "type": "heading",
+        "text": "السوق العالمية: سنة قياسية ثم 2026 متفاوتة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجاوزت المبيعات العالمية للسيارات الكهربائية 20 مليون سيارة في 2025، بزيادة سنوية قدرها 20%. وشكلت السيارات العاملة بالبطارية وحدها 65% من المبيعات الكهربائية. وكانت الفوارق الإقليمية واضحة: اقتربت حصة الكهربائية من 55% من المبيعات الجديدة في الصين، وبلغت 28% في أوروبا، وبقيت دون 10% بقليل في الولايات المتحدة. هذه حصص من المبيعات الجديدة وليست من كل المركبات المستخدمة، كما أن أوروبا ليست مرادفاً للاتحاد الأوروبي. [المصدر: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/executive-summary)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يضع تحديث يوليو 2026 حدوداً لفكرة النمو المتواصل في خط مستقيم. فقد مثلت الكهربائية 24% من مبيعات السيارات العالمية في النصف الأول، بينما كان حجم مبيعاتها أقل قليلاً من الفترة نفسها في 2025. وكاد ارتفاع الربع الثاني يعوض تراجع الربع الأول. وتوقعت الوكالة حينها حصة سنوية تبلغ 29% ونمواً في المبيعات بنحو 10%. هذه توقعات وليست نتيجة نهائية لعام 2026، وتحل نسبة 29% محل تقدير مايو البالغ 28%. [المصدر: www.iea.org](https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد ترتفع الحصة رغم انخفاض عدد السيارات المبيعة إذا تقلصت السوق الكلية بسرعة أكبر. لذلك لا يثبت التعثر الإقليمي المؤقت فشل التحول، ولا يضمن ربع قوي استمرار النمو. تؤثر الفائدة والحوافز والطرازات الجديدة والقيود التجارية وأسعار الوقود في الشراء. والتحليل الجاد يتابع مؤشرات متعددة بدلاً من انتقاء عنوان يؤيد رأياً مسبقاً."
+      },
+      {
+        "type": "heading",
+        "text": "الصين: المركز الصناعي للتحول"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجمع الصين سوقاً محلية ضخمة وتصنيعاً للبطاريات وموردي مكونات ومنافسة شديدة. ولا تقتصر ميزتها على كثرة السيارات الكهربائية التي تبيعها، بل تشمل تطوير المنصات وتوفير الخلايا وتوسيع الإنتاج داخل منظومة صناعية مترابطة. وتقدر الوكالة أنها أنتجت قرابة ثلاثة أرباع السيارات الكهربائية العالمية في 2025. وتنتج شركات أجنبية سياراتها هناك أيضاً، لذا ينبغي الفصل بين مكان التصنيع وجنسية العلامة. [المصدر: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تمنح المنافسة المستهلك خيارات أكثر وتضغط الأسعار نزولاً، لكنها قد تقلص هوامش المنتجين وتدفعهم للتصدير. وأشار تحديث الوكالة في يوليو إلى اتساع الفارق بين السيارات المصدرة من الصين وتلك المسجلة كمبيعات خارجها. فالشحنات ليست طلباً نهائياً. وستحدد المخزونات والرسوم الجمركية وكلفة شبكات الصيانة مقدار ما يتحول من القوة الصناعية الصينية إلى حصة عالمية مستدامة."
+      },
+      {
+        "type": "heading",
+        "text": "أوروبا والولايات المتحدة: إشارات سياسية مختلفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان انتعاش أوروبا في 2025 كبيراً، إذ بلغت المبيعات الكهربائية 4.2 مليون سيارة، وساعد تشديد معايير الانبعاثات في تحفيز العرض وتعديل الأسعار. وداخل الاتحاد الأوروبي كانت الحصة دون 27% بقليل. ومع ذلك تختلف النرويج وألمانيا وفرنسا وأسواق الجنوب كثيراً. فضرائب سيارات الشركات ودخل الأسر والشحن في العمارات وتوافر الطرازات الصغيرة الميسورة تؤثر بقدر النقاشات القارية. [المصدر: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+      },
+      {
+        "type": "paragraph",
+        "text": "توضح الولايات المتحدة حساسية الطلب لتغير السياسات. سجلت الوكالة نحو 1.5 مليون سيارة كهربائية مبيعة في 2025، أقل قليلاً من 2024. وانتهت الإعفاءات الضريبية الفدرالية للشراء بعد سبتمبر 2025، ما ساهم في تقديم بعض المشتريات ثم انخفاض الربع الرابع. لكن ذلك لا يعني إلغاء كل حوافز الولايات والبلديات وشركات الكهرباء. ينبغي للمشتري مراجعة القواعد التي تنطبق على معاملته تحديداً."
+      },
+      {
+        "type": "paragraph",
+        "text": "ويختلف التحول الأمريكي باختلاف السكن والجغرافيا. فمن يملك مرآباً وكهرباء ليلية رخيصة يواجه حساباً مختلفاً عن ساكن شقة يعتمد على الشحن السريع العام. وقد تزيد المسافات الطويلة والمركبات الكبيرة والجر والبرد الحاجة إلى سعة البطارية أو سهولة الشحن. هذه تحديات عملية في التصميم والبنية التحتية، وليست دليلاً على أن جميع السائقين الأمريكيين لديهم الاحتياجات نفسها."
+      },
+      {
+        "type": "heading",
+        "text": "اليابان والهند والأسواق خارج العناوين المعتادة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تذكرنا اليابان بأن نجاح الهجين لا يعني انتشاراً سريعاً للسيارات القابلة للشحن. ففي 2025 كانت حصة الكهربائية أقل من 3% من المبيعات الجديدة، مقابل نحو الثلث للهجينة التقليدية، بحسب الوكالة. وتشمل استراتيجية تويوتا متعددة المسارات الهجين والهجين القابل للشحن والبطاريات والهيدروجين. وهي تستجيب لاختلاف الأسواق، لكنها تترك سؤال سرعة نمو الطلب على السيارات العاملة بالبطارية وحدها مفتوحاً. [المصدر: global.toyota](https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ارتفعت مبيعات السيارات الكهربائية في الهند 75% في 2025، إلى نحو 165 ألف سيارة، أي قرابة 4% من السوق. ومثلت تاتا وماهيندرا نحو 60% من هذه المبيعات عبر إنتاج محلي. لكن السيارات ليست القصة الهندية كلها. فالدراجات والسكوترات والمركبات الكهربائية الثلاثية العجلات تلبي ميزانيات ورحلات يومية مختلفة. وحصر قياس التحول في سيارات الركوب المرتفعة الثمن يخفي تطبيقات مهمة. [المصدر: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تزداد أهمية جنوب شرق آسيا وأمريكا اللاتينية. تقدم فينفاست الفيتنامية، وتوسع العلامات الصينية في تايلاند وإندونيسيا، ونمو الطلب البرازيلي والمكسيكي، مسارات مختلفة للكهرباء. وفي أفريقيا وأسواق أقل دخلاً، تعقد واردات المستعمل والتمويل وموثوقية الكهرباء والصيانة المشهد. قد تصبح التقنية أرخص عالمياً وتبقى خارج قدرة أسرة بعينها. وستحسم الظروف المحلية سرعة التبني."
+      },
+      {
+        "type": "heading",
+        "text": "تسلا وبي واي دي وفولكسفاغن وتويوتا: منافسة بشروط مختلفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "سلمت تسلا 1,636,129 مركبة في 2025. وأعلنت بي واي دي مبيعات قدرها 2,256,714 سيارة ركوب كهربائية بالبطارية، إلى جانب نشاط كبير في الهجين القابل للشحن. لذلك فإن مقارنة تسلا بكل مركبات الطاقة الجديدة لدى بي واي دي تضخم الفارق في سوق البطارية وحدها. وكان حجم سيارات الركوب الكهربائية بالكامل لدى بي واي دي أكبر بالفعل، لكن تحديد الفئات يبقى ضرورياً. أما الربحية والضمان والأسعار المستدامة فهي أسئلة منفصلة عن الحجم. [المصدر: ir.tesla.com](https://ir.tesla.com/_flysystem/s3/sec/000162828026000016/tsla-20260102-gen.pdf) [المصدر: www1.hkexnews.hk](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100129.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "أعلنت مجموعة فولكسفاغن تسليم 983,120 مركبة كهربائية بالبطارية في 2025، بزيادة 32%، وتشمل المركبات التجارية الثقيلة. وتجعلها علاماتها ومصانعها منظمة مختلفة عن تسلا وبي واي دي. ويقدم نشاط تويوتا الهجين نموذجاً آخر، يحسن كفاءة الاحتراق مع تطوير أنظمة دفع أخرى. وتزيد هيونداي وكيا وبي إم دبليو ورينو وجيلي وشركات أحدث المنافسة. ولا توجد استراتيجية تزيل مخاطر التنفيذ. [المصدر: annualreport2025.volkswagen-group.com](https://annualreport2025.volkswagen-group.com/group-management-report/business-development/deliveries.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحتاج الشركات التقليدية إلى تمويل منصات جديدة مع الحفاظ على مصانعها ومورديها وشبكاتها القائمة. وعلى الوافدين الجدد تحويل الابتكار السريع إلى جودة مستقرة وخدمة طويلة الأمد. تزداد أهمية البرمجيات وإدارة البطارية وتكامل الشحن، لكن السيارة تظل منتجاً مادياً يفترض أن يعمل لسنوات. ويتناول تحليل PRESDA للأتمتة التحدي المرتبط بتغير المهارات والتنظيم الصناعي. [اقرأ أيضاً في PRESDA](/articles/robot-revolution-ai-future-2030/)"
+      },
+      {
+        "type": "heading",
+        "text": "البطاريات: تقدم دون كيمياء سحرية واحدة"
+      },
+      {
+        "type": "paragraph",
+        "text": "بطاريات الليثيوم أيون عائلة من التقنيات. لا يستخدم فوسفات حديد الليثيوم، أو LFP، النيكل أو الكوبالت في المهبط، ويناسب تطبيقات تهتم بالكلفة والمتانة. وقد توفر التركيبات الغنية بالنيكل كثافة طاقة أعلى عندما تكون الكتلة والمدى أولوية. كما تؤثر هندسة الحزمة والإدارة الحرارية وجودة التصنيع. ولا يكفي اسم الكيمياء لمعرفة أداء سيارة محددة. [المصدر: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشير الوكالة إلى انخفاض متوسط أسعار البطاريات 8% في 2025، لكن المقياس يشمل المركبات والتخزين الثابت. وهو لا يعني انخفاض سعر كل سيارة كهربائية بالنسبة نفسها. وقد توسع بطاريات الصوديوم أيون والحالة الصلبة الخيارات مستقبلاً، إلا أن نجاح المختبر وبدء الإنتاج والتصنيع الواسع الميسور مراحل مختلفة. ينبغي تقييم المنتجات المتاحة، لا افتراض أن اختراقاً معلناً قد غير جميع صالات العرض بالفعل."
+      },
+      {
+        "type": "heading",
+        "text": "الشحن: ميزة يومية وعقبة في الأماكن العامة"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للشحن المنزلي تحويل وقت الوقوف إلى وقت للتزود بالطاقة، ويتيح مكان العمل فرصة مشابهة. ويهم الشحن السريع العام الرحلات الطويلة والأسر التي لا تملك موقفاً خاصاً، لكن عدد المقابس مجرد بداية. تحدد الموثوقية وإمكانية الوصول والدفع والتوافق والقدرة المتاحة عند وصول عدة سيارات معاً جودة البنية التحتية الفعلية. [المصدر: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10)"
+      },
+      {
+        "type": "paragraph",
+        "text": "القدرة القصوى للشاحن ليست معدل توصيل ثابتاً. فالسيارة وحرارة البطارية ومستوى شحنها وظروف المحطة قد تحدها، وغالباً يتباطأ الشحن عند الاقتراب من الامتلاء. ويشير زمن الشحن القصير المعلن إلى شروط ونطاق شحن محددين. وقد تحتاج التوصيلات والمحولات المحلية إلى تطوير حتى مع كفاية الإنتاج الوطني. يمكن للشحن المدار نقل الطلب خارج الذروة، بينما تتطلب إعادة الكهرباء من السيارة للشبكة معدات متوافقة وترتيبات تجارية قابلة للتطبيق."
+      },
+      {
+        "type": "heading",
+        "text": "سعر الشراء ليس سوى البداية"
+      },
+      {
+        "type": "paragraph",
+        "text": "تشمل المقارنة المفيدة الشراء أو التأجير والتمويل وفقدان القيمة والتأمين والطاقة والصيانة وإعادة البيع. تتجنب الكهربائية تغييرات زيت المحرك وكثيراً من مكوناته، لكن الإطارات والتعليق وإصلاح الحوادث والتأمين تظل تكاليف فعلية. ولا تعوض فاتورة الكهرباء المنخفضة تلقائياً سعراً مرتفعاً أو تراجعاً سريعاً في القيمة. توسع السيارات المستعملة الوصول، وتجعل حالة البطارية والضمان القابل للتحويل أكثر أهمية. [المصدر: afdc.energy.gov](https://afdc.energy.gov/vehicles/electric)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لنأخذ حساباً توضيحياً لا متوسطاً للسوق. سيارة كهربائية تستهلك 18 كيلوواط ساعة لكل 100 كيلومتر، بسعر مفترض قدره 0.20 وحدة نقدية للكيلوواط ساعة، تكلف 3.60 لكل 100 كيلومتر قبل خسائر الشحن. وسيارة بنزين تستهلك 6 لترات بسعر 1.50 للتر تكلف 9.00. وإذا بلغ سعر الكهرباء العامة 0.60 للكيلوواط ساعة، يصبح الرقم الكهربائي 10.80. لذلك قد يكون الوصول إلى شحن ميسور أهم من الادعاء بأن نظام دفع معين أرخص دائماً."
+      },
+      {
+        "type": "heading",
+        "text": "الأثر البيئي: مقارنة دورة الحياة كاملة"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا تطلق الكهربائية عوادم أثناء السير، لكنها ليست بلا أثر. تصنيع بطاريتها يحتاج طاقة ومواد، وتوليد الكهرباء قد ينتج غازات دفيئة، كما تستمر الإطارات والطرق في إنتاج الجسيمات. يجب أن تشمل المقارنة الاستخراج والتصنيع وإمدادات الطاقة والقيادة ونهاية العمر لكلا المركبتين، وأن تقارن أحجاماً واستخدامات متقاربة، لا مركبة كهربائية ضخمة بسيارة بنزين صغيرة جداً. [المصدر: www.iea.org](https://www.iea.org/reports/ev-battery-supply-chain-sustainability)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قدر تحليل للمجلس الدولي للنقل النظيف في 2025 أن انبعاثات غازات الدفيئة طوال دورة حياة الكهربائية المبيعة في الاتحاد الأوروبي أقل 73% من نظيراتها البنزين، وفق مزيج الكهرباء المتوقع وافتراضات الدراسة. هذه نتيجة أوروبية نمذجية، وليست نسبة عامة لكل بلد وسيارة. تحسن الكهرباء الأنظف المقارنة، بينما قد تقلص الشبكة عالية الكربون أو البطارية الكبيرة جداً أو الاستخدام المحدود الفائدة. والانبعاثات المناخية ليست مقياساً كاملاً لكل الضرر البيئي. [المصدر: theicct.org](https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تثير سلاسل الليثيوم والغرافيت والنيكل والكوبالت مسائل المياه والأرض والعمل والتركز الجيوسياسي، ولا تستخدم كل كيمياء جميع هذه المواد. يستعيد التدوير موارد مهمة، لكنه لا يستطيع إمداد أسطول متوسع فوراً بينما كثير من البطاريات لا يزال في الخدمة. تكمل السيارات الصغيرة الكفؤة والتوريد المسؤول وإطالة العمر والنقل العام التحول الكهربائي. تغيير المحرك وحده لا يحل الازدحام ولا المساحة التي تستحوذ عليها السيارات في المدن."
+      },
+      {
+        "type": "heading",
+        "text": "الاتحاد الأوروبي و2035: القانون والمقترح والنقاش السياسي"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحدد الإطار الأوروبي المعتمد خفضاً بنسبة 100% في متوسط انبعاثات ثاني أكسيد الكربون من عوادم السيارات والشاحنات الخفيفة الجديدة ابتداء من 2035، مقارنة بهدف 2021. وهو لا يأمر بإتلاف كل السيارات القائمة. وفي ديسمبر 2025 اقترحت المفوضية خفض الهدف إلى 90%، مع تعويضات تتعلق بالوقود المستدام والفولاذ الأوروبي منخفض الكربون. المقترح لا يصبح بمجرد تقديمه لائحة بديلة نافذة. [المصدر: www.europarl.europa.eu](https://www.europarl.europa.eu/news/en/press-room/20230210IPR74715/fit-for-55-zero-co2-emissions-for-new-cars-and-vans-in-2035) [المصدر: www.consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/env/2026/03/17/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "كان النقاش لا يزال يتطور في الوثائق التي راجعناها. ففي 16 أكتوبر 2026 أعلنت فرنسا وألمانيا نهجاً مشتركاً يجمع خفض الكربون والمرونة التنظيمية والإنتاج الأوروبي، مع التعهد بالعمل مع الشركاء للوصول إلى اتفاق. يوثق البيان تقارباً سياسياً، لا اكتمال التشريع الأوروبي. لذلك ينبغي التمييز بين الإطار القائم وآلية المفوضية المقترحة ومواقف التفاوض اللاحقة. [المصدر: www.elysee.fr](https://www.elysee.fr/emmanuel-macron/2026/10/16/declaration-de-presse-conjointe-franco-allemande-sur-lavenir-de-lindustrie-automobile-europeenne)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا سيحدث للبنزين والديزل؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ستبقى مركبات الاحتراق على الطرق بعد أن تتصدر الكهربائية بعض أسواق السيارات الجديدة. يضمن الأسطول القائم وتجارة المستعمل وكلفة الإصلاح وتفاوت البنية التحتية فترة تعايش طويلة. وقد تقلل الهجينة الكفؤة الوقود، بينما تحقق القابلة للشحن وفوراتها الأقوى حين تشحن بانتظام وتقود كهربائياً. لا يغني الاسم عن فحص الاستخدام الفعلي. الهجينة القابلة للشحن التي تعمل أساساً بالوقود تظل سيارة مستهلكة للوقود."
+      },
+      {
+        "type": "paragraph",
+        "text": "ويختلف مستقبل الديزل بين سيارات الركوب والنقل الثقيل. تفرض الحمولة والمدى وكثافة الاستخدام شروطاً صعبة على الشاحنات، لكن المسافات اليومية الكبيرة قد تعزز جدوى البديل الكهربائي إذا نظم الشحن جيداً. وقد تخدم أنواع الوقود الاصطناعي والحيوي تطبيقات محددة، إلا أن الكلفة والطاقة والمواد والتوافر تحد الادعاء بإبقاء أسطول الاحتراق كله بسهولة. يمكن للتقنيات التعايش دون أن تحقق تخفيضات متساوية للانبعاثات."
+      },
+      {
+        "type": "heading",
+        "text": "2030 و2035 و2050: سيناريوهات لا مواعيد حتمية"
+      },
+      {
+        "type": "paragraph",
+        "text": "السؤال العملي لعام 2030 هو هل تتوسع السيارات الميسورة والشحن الموثوق والقدرة الصناعية معاً. يتوقع تقرير الوكالة لعام 2026 أن تتجنب المركبات الكهربائية في النقل البري استهلاك نحو 5 ملايين برميل نفط يومياً بحلول 2030. هذا طلب متجنب مقارنة بحالة افتراضية دون تلك المركبات، وليس ضماناً بانخفاض الاستهلاك النفطي الكلي بالقدر نفسه. وسيارات الركوب جزء من كهربة النقل البري وليست كلها. [المصدر: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/outlook-for-electric-mobility-chap-9-11)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لعام 2035، تضع السيناريوهات الاستكشافية للوكالة الكهربائية عند نحو نصف مبيعات السيارات الجديدة عالمياً. ويميز التقرير بين سيناريو السياسات الحالية وسيناريو السياسات المعلنة، بافتراضات مختلفة. هذه توقعات مشروطة مع تفاوت كبير بين الأسواق، وليست حظراً عالمياً لمحرك الاحتراق، ولا دليلاً على أن نصف الأسطول القائم سيصبح كهربائياً حينها. [المصدر: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/executive-summary)"
+      },
+      {
+        "type": "paragraph",
+        "text": "أما 2050، فإن إعطاء نسبة عالمية دقيقة للمبيعات أو الأسطول يوحي بيقين لا تدعمه هذه الأدلة. يتطلب الخفض العميق لكربون النقل كهرباء أنظف ومركبات أقل انبعاثاً واستثمارات وتغيرات في التنقل تتجاوز السيارة الخاصة. وقد يقلص التحول السريع الاعتماد على النفط المستورد، بينما يطيل البطيء الطلب والانبعاثات. ستحسم التقنية والقدرة الشرائية واستمرار السياسات النتيجة. الهدف المناخي ليس توقعاً للسوق."
+      },
+      {
+        "type": "heading",
+        "text": "آثار تتجاوز صالات البيع"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحصل المستهلك على خيارات أوسع لكنه يحتاج معلومات أفضل عن الشحن وحالة البطارية والدعم الطويل. ويتحول جانب من القيمة لدى المصنعين والموردين من المحركات وأنظمة الوقود إلى الخلايا وإلكترونيات القدرة والبرمجيات. يحتاج العمال إلى تدريب واستثمار حيث تتأثر الوظائف. وتوازن الحكومات بين الواردات الميسورة والتصنيع المحلي والمنافسة ومرونة التوريد. قد تحمي الرسوم مصنعاً وترفع في الوقت نفسه الكلفة على مشتريه."
+      },
+      {
+        "type": "paragraph",
+        "text": "بالنسبة لمنتجي النفط، تغير الكهرباء نمو الطلب قبل أن تزيل الطلب نفسه. يجب على المصافي والموزعين والمصدرين النظر إلى الأساطيل الإقليمية والشحن والطيران والبتروكيماويات، لا استنتاج كل شيء من مبيعات السيارات الكهربائية. كما تتأثر الأسعار بقرارات العرض والجغرافيا السياسية. يقدم تحليل PRESDA للقوة النفطية سياقاً أوسع لتغير العلاقة بين النقل وأمن الطاقة. [اقرأ أيضاً في PRESDA](/articles/who-controls-world-oil-middle-east-opec/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لن يصل مستقبل السيارة في اليوم نفسه إلى كل مكان. سيظهر في سعر سيارة كهربائية صغيرة وموثوقية شاحن عمارة وجدوى مصنع بطاريات وقيمة ديزل قديم عند بيعه. الدفع الكهربائي يعيد تشكيل الصناعة العالمية بالفعل. وسيعتمد مدى هذا التحول وعدالته على الأنظمة المبنية حول المركبة بقدر اعتماده على المركبة ذاتها."
+      }
+    ],
+    "sources": [
+      {
+        "label": "IEA: India and emerging markets",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars"
+      },
+      {
+        "label": "US Alternative Fuels Data Center: ownership considerations",
+        "url": "https://afdc.energy.gov/vehicles/electric"
+      },
+      {
+        "label": "IEA: scenario summary",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/executive-summary"
+      },
+      {
+        "label": "IEA: July 2026 market update",
+        "url": "https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary"
+      },
+      {
+        "label": "IEA: manufacturing and trade",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026"
+      },
+      {
+        "label": "Toyota: integrated report",
+        "url": "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf"
+      },
+      {
+        "label": "Tesla: 2025 deliveries",
+        "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026000016/tsla-20260102-gen.pdf"
+      },
+      {
+        "label": "BYD: December and full-year 2025 disclosure",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100129.pdf"
+      },
+      {
+        "label": "Volkswagen Group: 2025 deliveries",
+        "url": "https://annualreport2025.volkswagen-group.com/group-management-report/business-development/deliveries.html"
+      },
+      {
+        "label": "IEA: electric vehicle batteries",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries"
+      },
+      {
+        "label": "IEA: charging infrastructure",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10"
+      },
+      {
+        "label": "IEA: battery supply-chain sustainability",
+        "url": "https://www.iea.org/reports/ev-battery-supply-chain-sustainability"
+      },
+      {
+        "label": "ICCT: European life-cycle assessment",
+        "url": "https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25/"
+      },
+      {
+        "label": "European Parliament: adopted framework",
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20230210IPR74715/fit-for-55-zero-co2-emissions-for-new-cars-and-vans-in-2035"
+      },
+      {
+        "label": "Council: revision under discussion",
+        "url": "https://www.consilium.europa.eu/en/meetings/env/2026/03/17/"
+      },
+      {
+        "label": "Élysée: joint declaration of 16 October 2026",
+        "url": "https://www.elysee.fr/emmanuel-macron/2026/10/16/declaration-de-presse-conjointe-franco-allemande-sur-lavenir-de-lindustrie-automobile-europeenne"
+      },
+      {
+        "label": "IEA: outlook for electric mobility",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/outlook-for-electric-mobility-chap-9-11"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/electric-cars-global-shift-future-gasoline-diesel/",
+    "path": "/es/articles/electric-cars-global-shift-future-gasoline-diesel/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-20",
+      "terminologyChecked": true
+    },
+    "title": "Coches eléctricos: la transición mundial y el futuro de la gasolina y el diésel",
+    "seoTitle": "Coches eléctricos: el futuro de la gasolina y el diésel",
+    "description": "Análisis mundial del coche eléctrico con datos AIE 2026: híbridos, baterías, recarga, normas europeas y escenarios para 2030, 2035 y 2050.",
+    "excerpt": "Análisis mundial del coche eléctrico con datos AIE 2026: híbridos, baterías, recarga, normas europeas y escenarios para 2030, 2035 y 2050.",
+    "headlineHighlights": {
+      "red": "Coches eléctricos",
+      "gold": "la gasolina y el diésel"
+    },
+    "keywords": [
+      "Coches eléctricos",
+      "la gasolina y el diésel"
+    ],
+    "searchIntent": "Análisis mundial del coche eléctrico con datos AIE 2026: híbridos, baterías, recarga, normas europeas y escenarios para 2030, 2035 y 2050.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "image": {
+      "src": "/articles/electric-cars-2026-hero.png",
+      "alt": "Ilustración editorial generada por IA para PRESDA: un camión portavehículos en una carretera costera imaginaria. No es una fotografía de un envío, lugar o evento real."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un camión portavehículos transporta también apuestas sobre precios energéticos, fábricas de baterías, redes de recarga y hábitos de millones de conductores. Esas apuestas están cambiando en todo el mundo. El coche eléctrico avanza hacia el mercado de masas, pero la transición no es uniforme ni una simple cuenta atrás hasta la desaparición de la gasolina y el diésel."
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinción central es entre lo que se compra hoy y lo que sigue circulando. Según la Agencia Internacional de la Energía, los eléctricos representaron una cuarta parte de las ventas mundiales de coches nuevos en 2025, pero alrededor del 5% del parque existente. Ambas cifras son compatibles: renovar un parque requiere mucho más tiempo que cambiar un escaparate. Este artículo utiliza el informe de la AIE de 2026, su actualización de julio y publicaciones oficiales de fabricantes. Las políticas se comprobaron el 20 de octubre de 2026. [Fuente: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué se considera un coche eléctrico?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un vehículo eléctrico de batería, o BEV, almacena electricidad en una batería recargable y utiliza un motor eléctrico, sin motor de gasolina ni diésel. El frenado regenerativo recupera parte de la energía al desacelerar. Un híbrido enchufable, o PHEV, combina recarga externa y motor de combustión. Su consumo depende mucho de la frecuencia de carga, la longitud de los trayectos y cuándo funciona el motor térmico. [Fuente: afdc.energy.gov](https://afdc.energy.gov/vehicles/electric)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un híbrido convencional, o HEV, normalmente no se enchufa. Combina combustible, una batería pequeña y un motor eléctrico para mejorar la eficiencia. Los híbridos ligeros aportan una asistencia más limitada. Aquí, las cifras de coches eléctricos de la AIE incluyen BEV y PHEV, no los híbridos convencionales. Los coches de pila de combustible de hidrógeno son otra tecnología de propulsión eléctrica con un mercado mucho menor. Mezclar categorías puede exagerar el tamaño del negocio exclusivamente eléctrico de una marca."
+      },
+      {
+        "type": "heading",
+        "text": "El mercado mundial: un récord y un 2026 desigual"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las ventas mundiales de coches eléctricos superaron los 20 millones en 2025, un 20% más que el año anterior. Los modelos exclusivamente de batería representaron el 65% de esas ventas. Las diferencias regionales fueron grandes: los eléctricos se acercaron al 55% de las ventas nuevas en China, alcanzaron el 28% en Europa y quedaron justo por debajo del 10% en Estados Unidos. Son porcentajes de ventas nuevas, no de vehículos en circulación, y Europa no equivale a la Unión Europea. [Fuente: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/executive-summary)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La actualización de julio de 2026 complica cualquier relato de crecimiento lineal. Los eléctricos representaron el 24% de las ventas mundiales de coches en el primer semestre, mientras su volumen fue ligeramente inferior al del mismo periodo de 2025. El crecimiento del segundo trimestre casi compensó la caída inicial. La AIE pasó a prever una cuota anual del 29% y un crecimiento de ventas de aproximadamente el 10%. Es una previsión, no el resultado definitivo de 2026, y sustituye la estimación del 28% publicada en mayo. [Fuente: www.iea.org](https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cuota puede aumentar aunque disminuya el volumen si el mercado total cae más. Un retroceso regional temporal no demuestra el fracaso de la electrificación; un trimestre fuerte tampoco garantiza una expansión continua. Tipos de interés, ayudas, lanzamientos, restricciones comerciales y precios de combustibles influyen en las decisiones. Una evaluación rigurosa sigue varios indicadores en lugar de elegir el titular que confirma una opinión previa."
+      },
+      {
+        "type": "heading",
+        "text": "China: el centro industrial de la transición"
+      },
+      {
+        "type": "paragraph",
+        "text": "China reúne un enorme mercado interno, fabricantes de baterías, proveedores y una competencia intensa. Su ventaja no consiste solo en vender muchos coches eléctricos. Puede desarrollar plataformas, obtener celdas y ampliar la producción dentro de un ecosistema industrial denso. La AIE estima que produjo casi tres cuartas partes de los coches eléctricos mundiales en 2025. También fabrican allí empresas extranjeras, por lo que hay que distinguir ubicación de producción y nacionalidad de marca. [Fuente: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para el comprador, la competencia amplía opciones y presiona los precios a la baja. Para el fabricante, puede estrechar márgenes y fomentar exportaciones. La actualización de julio de la AIE señaló una brecha creciente entre los vehículos exportados desde China y los registrados como vendidos fuera. Los envíos no son demanda final. Inventarios, aranceles y costes de establecer redes de servicio determinarán cuánto de esa fortaleza industrial se convierte en cuota internacional duradera."
+      },
+      {
+        "type": "heading",
+        "text": "Europa y Estados Unidos: señales políticas diferentes"
+      },
+      {
+        "type": "paragraph",
+        "text": "El repunte europeo de 2025 fue considerable: se vendieron 4,2 millones de coches eléctricos, con normas de emisiones más exigentes impulsando oferta y precios. Dentro de la UE, la cuota quedó ligeramente por debajo del 27%. Sin embargo, Noruega, Alemania, Francia y los mercados del sur siguen siendo distintos. Fiscalidad de vehículos de empresa, ingresos, recarga en edificios y modelos pequeños asequibles importan tanto como el debate continental. [Fuente: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estados Unidos muestra la sensibilidad de la demanda a las políticas. La AIE registró alrededor de 1,5 millones de ventas eléctricas en 2025, algo menos que en 2024. Los créditos fiscales federales a la compra finalizaron después de septiembre de 2025, favoreciendo compras adelantadas y una posterior caída trimestral. Eso no significa que desaparecieran todas las ayudas estatales, locales o de compañías eléctricas. Los compradores deben comprobar las reglas concretas de su operación."
+      },
+      {
+        "type": "paragraph",
+        "text": "La electrificación estadounidense también depende de vivienda y geografía. Tener garaje y electricidad nocturna barata cambia la cuenta frente a depender de cargadores rápidos públicos. Largas distancias, vehículos grandes, remolque y frío pueden elevar las necesidades de batería o recarga. Son retos prácticos de diseño e infraestructura, no motivos para suponer que todos los conductores estadounidenses necesitan lo mismo."
+      },
+      {
+        "type": "heading",
+        "text": "Japón, India y los mercados fuera del foco habitual"
+      },
+      {
+        "type": "paragraph",
+        "text": "Japón recuerda que el éxito híbrido no equivale a una rápida adopción enchufable. En 2025, los eléctricos fueron menos del 3% de las ventas nuevas, mientras los híbridos convencionales representaron alrededor de un tercio, según la AIE. La estrategia multivía de Toyota abarca híbridos, enchufables, eléctricos de batería e hidrógeno. Intenta responder a mercados distintos, pero mantiene abierta la cuestión estratégica de cuánto crecerá la demanda exclusivamente eléctrica. [Fuente: global.toyota](https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las ventas de coches eléctricos en India aumentaron un 75% en 2025, hasta unas 165.000 unidades y cerca del 4% del mercado. Tata y Mahindra representaron aproximadamente el 60% mediante producción nacional. Pero los coches solo cuentan una parte de la movilidad india. Escúteres, motos y vehículos de tres ruedas eléctricos atienden otros presupuestos y desplazamientos diarios. Medir la transición únicamente mediante turismos caros deja fuera aplicaciones importantes. [Fuente: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El sudeste asiático y América Latina son mercados cada vez más relevantes. VinFast en Vietnam, las marcas chinas en Tailandia e Indonesia y la demanda de Brasil y México muestran distintas vías de electrificación. En África y otros mercados de menores ingresos, importaciones usadas, financiación, fiabilidad eléctrica y reparaciones complican el panorama. Una tecnología puede abaratarse mundialmente y seguir fuera del alcance de una familia. Las condiciones locales decidirán el ritmo."
+      },
+      {
+        "type": "heading",
+        "text": "Tesla, BYD, Volkswagen y Toyota: estrategias distintas"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla entregó 1.636.129 vehículos en 2025. BYD declaró 2.256.714 turismos eléctricos de batería, además de una gran actividad de híbridos enchufables. Comparar Tesla con todos los vehículos de nueva energía de BYD exagera la diferencia exclusivamente eléctrica. El volumen de turismos de batería de BYD ya era mayor, pero las categorías deben explicitarse. Rentabilidad, garantías y precios sostenibles son cuestiones diferentes del volumen de ventas. [Fuente: ir.tesla.com](https://ir.tesla.com/_flysystem/s3/sec/000162828026000016/tsla-20260102-gen.pdf) [Fuente: www1.hkexnews.hk](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100129.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Volkswagen Group declaró 983.120 entregas eléctricas de batería en 2025, un 32% más, incluidos vehículos comerciales pesados. Sus marcas y fábricas forman una organización distinta de Tesla o BYD. El negocio híbrido de Toyota ofrece otra estrategia: mejorar la eficiencia térmica mientras desarrolla otras motorizaciones. Hyundai, Kia, BMW, Renault, Geely y nuevos fabricantes amplían la competencia. Ninguna estrategia elimina el riesgo de ejecución. [Fuente: annualreport2025.volkswagen-group.com](https://annualreport2025.volkswagen-group.com/group-management-report/business-development/deliveries.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los grupos tradicionales deben financiar nuevas plataformas mientras mantienen fábricas, proveedores y redes existentes. Los recién llegados deben convertir innovación rápida en calidad constante y atención duradera. Software, gestión de baterías e integración de recarga ganan importancia, pero un coche sigue siendo un producto físico que debe funcionar durante años. El análisis de PRESDA sobre automatización aborda el desafío paralelo de transformar capacidades y organización industrial. [También en PRESDA](/articles/robot-revolution-ai-future-2030/)"
+      },
+      {
+        "type": "heading",
+        "text": "Baterías: avances sin una química milagrosa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las baterías de ion-litio constituyen una familia tecnológica. El litio-ferrofosfato, o LFP, evita níquel y cobalto en el cátodo y se utiliza donde importan coste y durabilidad. Las químicas ricas en níquel pueden ofrecer mayor densidad energética cuando peso y autonomía son prioritarios. Diseño del conjunto, gestión térmica y calidad de fabricación también cuentan. El nombre de una química no predice por sí solo el rendimiento de un vehículo. [Fuente: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La AIE calcula una caída media del 8% en los precios de baterías en 2025, con una medida que incluye vehículos y almacenamiento estacionario. No significa que cada coche eléctrico se abaratara un 8%. El sodio-ion y el estado sólido podrían ampliar opciones, pero laboratorio, primeras series y fabricación asequible a gran escala son hitos distintos. Conviene evaluar productos disponibles sin asumir que un anuncio ya ha transformado todos los concesionarios."
+      },
+      {
+        "type": "heading",
+        "text": "Recarga: ventaja cotidiana y cuello de botella público"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cargar en casa convierte estacionamiento en repostaje. El lugar de trabajo ofrece una oportunidad similar. La carga rápida pública es crucial para viajes largos y hogares sin aparcamiento privado, pero contar enchufes es solo el principio. Fiabilidad, accesibilidad, pagos, compatibilidad y potencia cuando llegan varios coches a la vez determinan la utilidad real de la infraestructura. [Fuente: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La potencia máxima anunciada no es una entrega constante. Coche, temperatura, nivel de batería y condiciones de la estación pueden limitarla; normalmente disminuye al acercarse al lleno. Una parada breve anunciada corresponde a condiciones y a un intervalo de carga concretos. Conexiones y transformadores locales pueden necesitar mejoras aunque la generación nacional sea suficiente. La recarga gestionada desplaza demanda fuera de las horas punta; devolver energía a la red requiere equipos compatibles y acuerdos comerciales viables."
+      },
+      {
+        "type": "heading",
+        "text": "El precio de compra es solo el comienzo"
+      },
+      {
+        "type": "paragraph",
+        "text": "La comparación útil considera compra o arrendamiento, financiación, depreciación, seguro, energía, mantenimiento y reventa. Los BEV evitan cambios de aceite y muchos componentes térmicos, pero neumáticos, suspensión, reparaciones y seguro siguen costando dinero. Una factura energética menor no compensa automáticamente un precio alto o una depreciación rápida. La segunda mano amplía el acceso y da más importancia al estado de la batería y las garantías transferibles. [Fuente: afdc.energy.gov](https://afdc.energy.gov/vehicles/electric)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un ejemplo ilustrativo, no una media de mercado: un eléctrico que consume 18 kWh cada 100 km, con electricidad supuesta a 0,20 unidades monetarias por kWh, gasta 3,60 cada 100 km antes de pérdidas de recarga. Un coche de gasolina que consume 6 litros a 1,50 por litro gasta 9,00. Si la electricidad pública cuesta 0,60 por kWh, la primera cifra sube a 10,80. El acceso a carga asequible puede importar más que afirmar que una motorización siempre es más barata."
+      },
+      {
+        "type": "heading",
+        "text": "Impacto ambiental: comparar ciclos de vida completos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un eléctrico no emite gases de escape al circular, pero no carece de impactos. Su batería requiere energía y materiales; generar electricidad puede emitir gases de efecto invernadero; neumáticos y carreteras siguen produciendo partículas. La comparación debe incluir extracción, fabricación, suministro energético, conducción y fin de vida de ambos vehículos. También debe comparar tamaños y usos razonablemente similares, no un SUV eléctrico con un coche de gasolina diminuto. [Fuente: www.iea.org](https://www.iea.org/reports/ev-battery-supply-chain-sustainability)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un análisis del ICCT de 2025 estimó emisiones de gases de efecto invernadero durante el ciclo de vida un 73% menores para eléctricos vendidos en la UE que para equivalentes de gasolina, según su mezcla eléctrica proyectada y otras hipótesis. Es un resultado europeo modelizado, no un porcentaje universal. Electricidad más limpia mejora la comparación; una red intensiva en carbono, una batería enorme o poco uso durante la vida útil pueden reducir la ventaja. Las emisiones climáticas tampoco representan todo el daño ambiental. [Fuente: theicct.org](https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Litio, grafito, níquel y cobalto plantean cuestiones de agua, suelo, trabajo y concentración geopolítica. No todas las químicas utilizan todos esos materiales. El reciclaje recupera recursos, pero no puede abastecer inmediatamente un parque creciente cuando muchas baterías siguen en servicio. Vehículos pequeños y eficientes, suministro responsable, mayor duración y transporte público complementan la electrificación. Cambiar el motor no resuelve por sí solo congestión ni espacio urbano destinado a coches."
+      },
+      {
+        "type": "heading",
+        "text": "UE 2035: ley vigente, revisión propuesta y debate político"
+      },
+      {
+        "type": "paragraph",
+        "text": "El marco adoptado por la UE establece una reducción del 100% de las emisiones medias de CO2 del escape de coches y furgonetas nuevos desde 2035 respecto al objetivo de 2021. No ordena desguazar los vehículos existentes. En diciembre de 2025, la Comisión propuso cambiar el objetivo al 90%, con compensaciones relacionadas con combustibles sostenibles y acero europeo bajo en carbono. Una propuesta no constituye por sí misma un reglamento sustitutorio aprobado. [Fuente: www.europarl.europa.eu](https://www.europarl.europa.eu/news/en/press-room/20230210IPR74715/fit-for-55-zero-co2-emissions-for-new-cars-and-vans-in-2035) [Fuente: www.consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/env/2026/03/17/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los documentos comprobados muestran un debate aún cambiante. El 16 de octubre de 2026, Francia y Alemania anunciaron un enfoque común sobre descarbonización, flexibilidad regulatoria y fabricación europea, indicando que trabajarían con sus socios para alcanzar un acuerdo. Esa declaración documenta alineamiento político, no la finalización del proceso legislativo europeo. Hay que distinguir el marco existente, el mecanismo propuesto por la Comisión y las posteriores posiciones negociadoras. [Fuente: www.elysee.fr](https://www.elysee.fr/emmanuel-macron/2026/10/16/declaration-de-presse-conjointe-franco-allemande-sur-lavenir-de-lindustrie-automobile-europeenne)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué ocurrirá con la gasolina y el diésel?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los vehículos de combustión seguirán circulando mucho después de que los eléctricos dominen algunos mercados nuevos. Parque existente, comercio de segunda mano, reparaciones e infraestructura desigual prolongarán la convivencia. Los híbridos eficientes pueden reducir consumo; los enchufables ahorran más combustible cuando se cargan regularmente y circulan eléctricamente. Ninguna etiqueta sustituye el examen del uso real. Un híbrido enchufable utilizado principalmente con combustible sigue siendo un coche consumidor de combustible."
+      },
+      {
+        "type": "paragraph",
+        "text": "El diésel tampoco tiene el mismo horizonte en turismos que en transporte pesado. Los camiones exigen carga útil, autonomía y utilización intensiva, aunque un kilometraje alto puede favorecer alternativas eléctricas con recarga organizada. Combustibles sintéticos y biocombustibles pueden cubrir aplicaciones concretas, pero coste, energía, materias primas y disponibilidad limitan la idea de conservar sin dificultad todo el parque térmico. Varias tecnologías pueden coexistir sin ofrecer reducciones de emisiones equivalentes."
+      },
+      {
+        "type": "heading",
+        "text": "2030, 2035 y 2050: escenarios, no citas con el destino"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para 2030, importa que modelos asequibles, recarga fiable y capacidad industrial crezcan conjuntamente. El informe 2026 de la AIE proyecta que los vehículos eléctricos de carretera podrían evitar alrededor de 5 millones de barriles diarios de demanda petrolera en 2030. Es demanda evitada frente a un escenario sin esos vehículos, no una garantía de que el consumo total caiga exactamente esa cantidad. Los turismos son solo una parte de la electrificación vial. [Fuente: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/outlook-for-electric-mobility-chap-9-11)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para 2035, los escenarios exploratorios de la AIE sitúan los eléctricos alrededor de la mitad de las ventas mundiales de coches nuevos. El informe diferencia el escenario de políticas actuales del de políticas declaradas, con hipótesis distintas. Son proyecciones condicionales y con grandes diferencias entre mercados. No equivalen a una prohibición mundial del motor térmico ni demuestran que la mitad de todo el parque será eléctrica para entonces. [Fuente: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/executive-summary)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para 2050, ofrecer una cuota mundial exacta transmitiría más certeza de la que permite la evidencia. Descarbonizar profundamente el transporte requerirá electricidad más limpia, vehículos menos emisores, infraestructura y cambios de movilidad más allá del automóvil privado. Una transición rápida podría reducir dependencia petrolera; una lenta prolongaría consumo y emisiones. Tecnología, accesibilidad y estabilidad política decidirán el resultado. Un objetivo climático no es una previsión comercial."
+      },
+      {
+        "type": "heading",
+        "text": "Las consecuencias van mucho más allá del concesionario"
+      },
+      {
+        "type": "paragraph",
+        "text": "El consumidor gana opciones, pero necesita información sobre recarga, estado de baterías y servicio duradero. Fabricantes y proveedores afrontan un desplazamiento de valor desde motores y sistemas de combustible hacia celdas, electrónica de potencia y software. Los trabajadores necesitan formación e inversión allí donde cambian los empleos. Los gobiernos equilibran importaciones asequibles, fabricación nacional, competencia y resiliencia. Un arancel puede proteger una fábrica y encarecer sus productos para los compradores."
+      },
+      {
+        "type": "paragraph",
+        "text": "Para productores de petróleo, la electrificación cambia el crecimiento de la demanda antes de eliminarla. Refinerías, distribuidores y exportadores deben considerar parques regionales, mercancías, aviación y petroquímica, no extrapolar únicamente desde coches eléctricos. Los precios también dependen de decisiones de oferta y geopolítica. El análisis de PRESDA sobre poder petrolero aporta contexto a la relación cambiante entre transporte y seguridad energética. [También en PRESDA](/articles/who-controls-world-oil-middle-east-opec/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El futuro del automóvil no llegará el mismo día a todas partes. Se manifestará en el precio de un pequeño eléctrico, la fiabilidad de un cargador comunitario, la viabilidad de una fábrica de baterías y el valor de un diésel envejecido. La propulsión eléctrica ya transforma la industria mundial. Su alcance y equidad dependerán tanto de los sistemas construidos alrededor del vehículo como del propio vehículo."
+      }
+    ],
+    "sources": [
+      {
+        "label": "IEA: India and emerging markets",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars"
+      },
+      {
+        "label": "US Alternative Fuels Data Center: ownership considerations",
+        "url": "https://afdc.energy.gov/vehicles/electric"
+      },
+      {
+        "label": "IEA: scenario summary",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/executive-summary"
+      },
+      {
+        "label": "IEA: July 2026 market update",
+        "url": "https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary"
+      },
+      {
+        "label": "IEA: manufacturing and trade",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026"
+      },
+      {
+        "label": "Toyota: integrated report",
+        "url": "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf"
+      },
+      {
+        "label": "Tesla: 2025 deliveries",
+        "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026000016/tsla-20260102-gen.pdf"
+      },
+      {
+        "label": "BYD: December and full-year 2025 disclosure",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100129.pdf"
+      },
+      {
+        "label": "Volkswagen Group: 2025 deliveries",
+        "url": "https://annualreport2025.volkswagen-group.com/group-management-report/business-development/deliveries.html"
+      },
+      {
+        "label": "IEA: electric vehicle batteries",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries"
+      },
+      {
+        "label": "IEA: charging infrastructure",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10"
+      },
+      {
+        "label": "IEA: battery supply-chain sustainability",
+        "url": "https://www.iea.org/reports/ev-battery-supply-chain-sustainability"
+      },
+      {
+        "label": "ICCT: European life-cycle assessment",
+        "url": "https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25/"
+      },
+      {
+        "label": "European Parliament: adopted framework",
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20230210IPR74715/fit-for-55-zero-co2-emissions-for-new-cars-and-vans-in-2035"
+      },
+      {
+        "label": "Council: revision under discussion",
+        "url": "https://www.consilium.europa.eu/en/meetings/env/2026/03/17/"
+      },
+      {
+        "label": "Élysée: joint declaration of 16 October 2026",
+        "url": "https://www.elysee.fr/emmanuel-macron/2026/10/16/declaration-de-presse-conjointe-franco-allemande-sur-lavenir-de-lindustrie-automobile-europeenne"
+      },
+      {
+        "label": "IEA: outlook for electric mobility",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/outlook-for-electric-mobility-chap-9-11"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/electric-cars-global-shift-future-gasoline-diesel/",
+    "path": "/fr/articles/electric-cars-global-shift-future-gasoline-diesel/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-20",
+      "terminologyChecked": true
+    },
+    "title": "Voitures électriques : la transition mondiale et l’avenir de l’essence et du diesel",
+    "seoTitle": "Voitures électriques : quel avenir pour l’essence et le diesel ?",
+    "description": "Analyse mondiale des voitures électriques : données AIE 2026, hybrides, batteries, recharge, règles européennes et scénarios pour 2030, 2035 et 2050.",
+    "excerpt": "Analyse mondiale des voitures électriques : données AIE 2026, hybrides, batteries, recharge, règles européennes et scénarios pour 2030, 2035 et 2050.",
+    "headlineHighlights": {
+      "red": "Voitures électriques",
+      "gold": "l’essence et du diesel"
+    },
+    "keywords": [
+      "Voitures électriques",
+      "l’essence et du diesel"
+    ],
+    "searchIntent": "Analyse mondiale des voitures électriques : données AIE 2026, hybrides, batteries, recharge, règles européennes et scénarios pour 2030, 2035 et 2050.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "image": {
+      "src": "/articles/electric-cars-2026-hero.png",
+      "alt": "Illustration éditoriale générée par IA pour PRESDA : camion porte-voitures sur une route côtière imaginaire. Ce n’est pas une photographie d’un transport, d’un lieu ou d’un événement réel."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un camion porte-voitures transporte aussi des paris sur les prix de l’énergie, les usines de batteries, les réseaux de recharge et les habitudes de millions d’automobilistes. Partout, ces paris évoluent. La voiture électrique gagne le marché de masse, mais cette transition n’est ni uniforme ni un simple compte à rebours avant la disparition de l’essence et du diesel."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il faut distinguer les achats d’aujourd’hui des véhicules qui circulent déjà. Selon l’Agence internationale de l’énergie, les voitures électriques représentaient un quart des ventes mondiales de voitures neuves en 2025, mais environ 5 % du parc existant. Ces deux chiffres sont compatibles : renouveler un parc prend beaucoup plus longtemps que transformer une gamme commerciale. Cet article s’appuie sur le rapport 2026 de l’AIE, son actualisation de juillet et les publications officielles des constructeurs. Les politiques ont été vérifiées le 20 octobre 2026. [Source: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+      },
+      {
+        "type": "heading",
+        "text": "Qu’appelle-t-on une voiture électrique ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un véhicule électrique à batterie, ou BEV, stocke de l’électricité dans une batterie rechargeable et utilise un moteur électrique, sans moteur à essence ou diesel. Le freinage régénératif récupère une partie de l’énergie lors des décélérations. Un hybride rechargeable, ou PHEV, associe recharge externe et moteur thermique. Sa consommation dépend fortement de la fréquence des recharges, de la longueur des trajets et du fonctionnement du moteur thermique. [Source: afdc.energy.gov](https://afdc.energy.gov/vehicles/electric)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un hybride classique, ou HEV, ne se branche normalement pas. Il combine carburant, petite batterie et moteur électrique pour améliorer son efficacité. L’hybridation légère fournit une assistance plus limitée. Dans cet article, les statistiques de voitures électriques de l’AIE regroupent BEV et PHEV, sans inclure les hybrides classiques. Les véhicules électriques à pile à combustible constituent une autre technologie, beaucoup moins répandue. Confondre ces catégories peut gonfler artificiellement l’impression que donne l’activité électrique d’un constructeur."
+      },
+      {
+        "type": "heading",
+        "text": "Le marché mondial : un record, puis une année 2026 contrastée"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les ventes mondiales de voitures électriques ont dépassé 20 millions en 2025, en hausse de 20 % sur un an. Les modèles entièrement électriques représentaient 65 % de ces ventes. Les écarts géographiques étaient considérables : les électriques approchaient 55 % des ventes neuves en Chine, atteignaient 28 % en Europe et restaient légèrement sous 10 % aux États-Unis. Il s’agit des ventes neuves, pas de tous les véhicules en circulation. L’Europe et l’Union européenne ne sont pas des périmètres identiques. [Source: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/executive-summary)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’actualisation de juillet 2026 contredit l’idée d’une progression parfaitement régulière. Au premier semestre, les électriques représentaient 24 % des ventes mondiales de voitures, mais leur volume était légèrement inférieur à celui du premier semestre 2025. Le rebond du deuxième trimestre avait presque compensé le recul initial. L’AIE prévoyait alors une part annuelle de 29 % et une hausse des ventes d’environ 10 %. Ce sont des prévisions, pas le bilan définitif de 2026. L’estimation de 29 % remplace celle de 28 % publiée en mai. [Source: www.iea.org](https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une part de marché peut augmenter alors que les volumes baissent, si le marché total recule davantage. Une difficulté régionale temporaire ne prouve donc pas l’échec de l’électrification ; un bon trimestre ne garantit pas non plus une croissance continue. Taux d’intérêt, aides, nouveaux modèles, restrictions commerciales et prix des carburants influencent les décisions. Une analyse solide suit plusieurs indicateurs au lieu de retenir seulement celui qui conforte une conviction."
+      },
+      {
+        "type": "heading",
+        "text": "La Chine, centre industriel de la transition"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Chine associe un immense marché intérieur, des fabricants de batteries, des équipementiers et une concurrence intense. Son avantage dépasse le nombre de voitures vendues : elle peut développer des plateformes, approvisionner les cellules et industrialiser rapidement dans un écosystème dense. L’AIE estime qu’elle a produit près des trois quarts des voitures électriques mondiales en 2025. Des groupes étrangers y fabriquent aussi des véhicules : lieu de production et nationalité de la marque doivent être distingués. [Source: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour les consommateurs, cette concurrence élargit le choix et pèse sur les prix. Pour les fabricants, elle comprime parfois les marges et encourage les exportations. L’actualisation de juillet de l’AIE relève un écart croissant entre les véhicules exportés de Chine et ceux enregistrés comme vendus à l’étranger. Les expéditions ne sont pas la demande finale. Stocks, droits de douane et réseaux d’entretien détermineront quelle part de cette puissance industrielle deviendra une présence mondiale durable."
+      },
+      {
+        "type": "heading",
+        "text": "Europe et États-Unis : des signaux politiques différents"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le rebond européen de 2025 a été important : 4,2 millions de voitures électriques vendues, avec des normes d’émissions plus exigeantes stimulant l’offre et les ajustements de prix. Dans l’UE, leur part était légèrement inférieure à 27 %. La Norvège, l’Allemagne, la France et les marchés du sud restent pourtant très différents. Fiscalité des voitures de société, revenus, recharge en immeuble et petits modèles abordables comptent autant que les débats continentaux. [Source: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les États-Unis illustrent la sensibilité aux changements de politique. L’AIE y dénombre environ 1,5 million de ventes électriques en 2025, un peu moins qu’en 2024. Les crédits d’impôt fédéraux à l’achat ont pris fin après septembre 2025, favorisant des achats anticipés puis un recul au quatrième trimestre. Cela ne signifie pas que toutes les aides des États, collectivités ou fournisseurs d’électricité ont disparu. Il faut vérifier les règles applicables à l’achat envisagé."
+      },
+      {
+        "type": "paragraph",
+        "text": "La situation américaine varie aussi selon le logement et la géographie. Disposer d’un garage et d’électricité nocturne bon marché change le calcul par rapport à un appartement imposant la recharge rapide publique. Grandes distances, véhicules lourds, remorquage et froid peuvent accroître les besoins de batterie ou de recharge. Ce sont des enjeux concrets d’équipement et d’infrastructure, pas la preuve que tous les automobilistes américains ont les mêmes besoins."
+      },
+      {
+        "type": "heading",
+        "text": "Japon, Inde et marchés moins souvent cités"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le Japon rappelle que le succès des hybrides ne signifie pas une adoption rapide des modèles rechargeables. En 2025, les électriques représentaient moins de 3 % des ventes neuves, contre environ un tiers pour les hybrides classiques, selon l’AIE. La stratégie à plusieurs voies de Toyota englobe hybrides, hybrides rechargeables, électriques à batterie et hydrogène. Elle répond à différents marchés, tout en laissant ouverte la question stratégique de la vitesse de progression du tout électrique. [Source: global.toyota](https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En Inde, les ventes de voitures électriques ont augmenté de 75 % en 2025, atteignant environ 165 000 unités et près de 4 % du marché. Tata et Mahindra en représentaient environ 60 % grâce à leur production locale. Mais la voiture n’explique pas toute la mobilité indienne. Scooters, motos et trois-roues électriques répondent à d’autres budgets et usages quotidiens. Mesurer la transition uniquement par des automobiles coûteuses en masque des applications majeures. [Source: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’Asie du Sud-Est et l’Amérique latine prennent une importance croissante. VinFast au Vietnam, les marques chinoises en Thaïlande et en Indonésie, puis la demande brésilienne et mexicaine montrent plusieurs voies d’électrification. En Afrique et dans d’autres marchés à faibles revenus, véhicules d’occasion importés, financement, fiabilité électrique et réparations compliquent l’équation. Une technologie peut devenir moins chère à l’échelle mondiale sans être accessible à un ménage donné. Les conditions locales décideront du rythme."
+      },
+      {
+        "type": "heading",
+        "text": "Tesla, BYD, Volkswagen et Toyota : des modèles différents"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tesla a livré 1 636 129 véhicules en 2025. BYD a déclaré 2 256 714 voitures particulières entièrement électriques, en plus d’une importante activité d’hybrides rechargeables. Comparer Tesla à l’ensemble des véhicules à énergie nouvelle de BYD exagère donc l’écart du tout électrique. Le volume de voitures particulières électriques de BYD était déjà supérieur, mais les catégories doivent rester explicites. Rentabilité, garanties et prix soutenables sont d’autres questions que le seul volume. [Source: ir.tesla.com](https://ir.tesla.com/_flysystem/s3/sec/000162828026000016/tsla-20260102-gen.pdf) [Source: www1.hkexnews.hk](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100129.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Volkswagen Group a annoncé 983 120 livraisons entièrement électriques en 2025, en hausse de 32 %, poids lourds compris. Ses marques et ses usines en font une organisation différente de Tesla ou BYD. L’importante activité hybride de Toyota propose encore une autre approche : améliorer l’efficacité thermique tout en développant d’autres motorisations. Hyundai, Kia, BMW, Renault, Geely et de nouveaux entrants renforcent la concurrence. Aucune stratégie n’élimine le risque d’exécution. [Source: annualreport2025.volkswagen-group.com](https://annualreport2025.volkswagen-group.com/group-management-report/business-development/deliveries.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les groupes historiques doivent financer de nouvelles plateformes tout en entretenant usines, fournisseurs et réseaux existants. Les nouveaux entrants doivent convertir l’innovation rapide en qualité régulière et en service durable. Logiciels, gestion des batteries et intégration de la recharge prennent de la valeur, mais une voiture reste un objet physique censé fonctionner pendant des années. L’analyse de PRESDA sur l’automatisation explore aussi cette transformation des compétences et de l’organisation industrielle. [À lire sur PRESDA](/articles/robot-revolution-ai-future-2030/)"
+      },
+      {
+        "type": "heading",
+        "text": "Batteries : progresser sans chimie miracle"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les batteries lithium-ion forment une famille de technologies. Le lithium-fer-phosphate, ou LFP, n’emploie ni nickel ni cobalt dans sa cathode et convient notamment aux priorités de coût et de durabilité. Les chimies riches en nickel peuvent offrir une densité énergétique supérieure lorsque masse et autonomie sont déterminantes. Conception du bloc, gestion thermique et qualité industrielle comptent également. Le nom d’une chimie ne suffit pas à prédire les performances d’une voiture. [Source: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’AIE indique une baisse moyenne de 8 % du prix des batteries en 2025, sur un ensemble comprenant mobilité électrique et stockage stationnaire. Ce n’est pas une baisse de 8 % du prix de chaque voiture. Sodium-ion et batteries à électrolyte solide pourraient élargir les possibilités, mais performance en laboratoire, premières fabrications et production abordable à grande échelle sont des étapes distinctes. Il faut juger les produits disponibles, sans transformer une annonce en réalité commerciale généralisée."
+      },
+      {
+        "type": "heading",
+        "text": "Recharge : avantage quotidien et difficulté publique"
+      },
+      {
+        "type": "paragraph",
+        "text": "À domicile, le temps de stationnement peut devenir du temps de recharge. Le lieu de travail offre une possibilité comparable. La recharge rapide publique est essentielle pour les longs trajets et les ménages sans parking privé, mais compter les prises ne suffit pas. Fiabilité, accessibilité, paiement, compatibilité et puissance disponible quand plusieurs véhicules arrivent ensemble déterminent la qualité réelle du service. [Source: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La puissance maximale d’une borne n’est pas fournie en permanence. Véhicule, température, niveau de batterie et fonctionnement de la station peuvent la limiter ; la recharge ralentit généralement à l’approche du plein. Une durée annoncée correspond à des conditions et à un intervalle précis. Des raccordements ou transformateurs locaux peuvent nécessiter des travaux malgré une production nationale suffisante. Le pilotage de la recharge réduit les pointes ; la restitution d’électricité au réseau exige du matériel compatible et des contrats viables."
+      },
+      {
+        "type": "heading",
+        "text": "Le prix d’achat n’est que le début"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le coût pertinent comprend achat ou location, financement, décote, assurance, énergie, entretien et revente. Les BEV évitent vidanges et nombreux organes thermiques, mais pneus, suspension, réparations après collision et assurance restent des dépenses. Une facture électrique réduite ne compense pas automatiquement un prix élevé ou une forte décote. L’occasion élargit l’accès, ce qui rend l’état de la batterie et les garanties transférables particulièrement importants. [Source: afdc.energy.gov](https://afdc.energy.gov/vehicles/electric)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prenons un calcul illustratif, pas une moyenne de marché. Une électrique consommant 18 kWh aux 100 km, avec une électricité supposée à 0,20 unité monétaire par kWh, dépense 3,60 aux 100 km avant les pertes de recharge. Une voiture à essence consommant 6 litres à 1,50 le litre dépense 9,00. Si l’électricité publique coûte 0,60 par kWh, le premier montant devient 10,80. L’accès à une recharge abordable peut donc compter davantage qu’une affirmation générale sur la motorisation la moins chère."
+      },
+      {
+        "type": "heading",
+        "text": "L’environnement se mesure sur tout le cycle de vie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une électrique n’émet pas de gaz d’échappement en roulant, mais elle n’est pas sans impact. Sa batterie nécessite énergie et matériaux ; produire l’électricité peut émettre des gaz à effet de serre ; pneus et chaussées produisent toujours des particules. La comparaison doit inclure extraction, fabrication, énergie, utilisation et fin de vie pour les deux véhicules. Elle doit aussi rapprocher des tailles et usages comparables, pas un grand SUV électrique et une minuscule voiture à essence. [Source: www.iea.org](https://www.iea.org/reports/ev-battery-supply-chain-sustainability)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une analyse de l’ICCT publiée en 2025 estime les émissions de gaz à effet de serre sur le cycle de vie des électriques vendues dans l’UE inférieures de 73 % à celles de modèles à essence comparables, selon son mix électrique projeté et ses hypothèses. C’est un résultat modélisé européen, pas un pourcentage universel. Une électricité plus propre améliore le bilan ; une grande batterie, un réseau très carboné ou une faible utilisation peuvent réduire l’avantage. Les émissions climatiques ne résument pas tous les dommages environnementaux. [Source: theicct.org](https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lithium, graphite, nickel et cobalt posent des questions d’eau, de sols, de travail et de concentration géopolitique. Toutes les chimies n’utilisent pas tous ces matériaux. Le recyclage récupère des ressources, mais ne peut immédiatement alimenter un parc en forte croissance dont beaucoup de batteries fonctionnent encore. Petits véhicules efficaces, approvisionnement responsable, longévité et transports collectifs complètent l’électrification. Changer de moteur ne résout ni les embouteillages ni l’espace consacré aux voitures."
+      },
+      {
+        "type": "heading",
+        "text": "UE 2035 : droit adopté, révision proposée et débat politique"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le cadre adopté dans l’UE prévoit une réduction de 100 % des émissions moyennes de CO2 à l’échappement des voitures et camionnettes neuves à partir de 2035, par rapport à l’objectif de 2021. Il ne commande pas la mise au rebut des véhicules existants. En décembre 2025, la Commission a proposé un objectif de 90 %, avec des compensations liées aux carburants durables et à l’acier européen bas carbone. Une proposition ne constitue pas, à elle seule, un nouveau règlement adopté. [Source: www.europarl.europa.eu](https://www.europarl.europa.eu/news/en/press-room/20230210IPR74715/fit-for-55-zero-co2-emissions-for-new-cars-and-vans-in-2035) [Source: www.consilium.europa.eu](https://www.consilium.europa.eu/en/meetings/env/2026/03/17/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les documents vérifiés montrent un débat toujours évolutif. Le 16 octobre 2026, France et Allemagne ont annoncé une approche commune associant décarbonation, flexibilité réglementaire et production européenne, tout en indiquant vouloir parvenir à un accord avec leurs partenaires. Cette déclaration établit un rapprochement politique, pas l’achèvement de la procédure législative européenne. Il faut distinguer le cadre existant, le mécanisme proposé par la Commission et les positions de négociation ultérieures. [Source: www.elysee.fr](https://www.elysee.fr/emmanuel-macron/2026/10/16/declaration-de-presse-conjointe-franco-allemande-sur-lavenir-de-lindustrie-automobile-europeenne)"
+      },
+      {
+        "type": "heading",
+        "text": "Quel avenir pour l’essence et le diesel ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les thermiques circuleront longtemps après que les électriques seront devenues majoritaires dans certains marchés du neuf. Parc existant, commerce de l’occasion, coûts de réparation et infrastructures inégales prolongent la coexistence. Les hybrides efficaces peuvent réduire la consommation ; les rechargeables économisent surtout du carburant lorsqu’ils sont régulièrement branchés et utilisés en mode électrique. Aucun label ne dispense d’examiner l’usage réel. Un hybride rechargeable roulant principalement au carburant reste un consommateur de carburant."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le diesel n’a pas non plus le même avenir dans les voitures particulières et le transport lourd. Charge utile, autonomie et intensité d’utilisation imposent des contraintes aux camions, mais un fort kilométrage peut favoriser l’électrique lorsque la recharge est organisée. Carburants de synthèse et biocarburants peuvent répondre à certains besoins ; coûts, énergie, ressources et disponibilité limitent néanmoins l’idée de préserver facilement tout le parc thermique. Plusieurs technologies peuvent coexister sans offrir les mêmes réductions d’émissions."
+      },
+      {
+        "type": "heading",
+        "text": "2030, 2035 et 2050 : des scénarios, pas des certitudes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour 2030, l’enjeu concret est de développer ensemble modèles abordables, recharge fiable et capacité industrielle. L’AIE prévoit dans son rapport 2026 que les véhicules électriques routiers pourraient éviter une consommation d’environ 5 millions de barils de pétrole par jour en 2030. C’est une demande évitée par rapport à une situation sans ces véhicules, pas une baisse garantie de même ampleur de la consommation totale. Les voitures ne sont qu’une partie de l’électrification routière. [Source: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/outlook-for-electric-mobility-chap-9-11)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour 2035, les scénarios exploratoires de l’AIE situent les électriques autour de la moitié des ventes mondiales de voitures neuves. Le rapport distingue scénario des politiques actuelles et scénario des politiques déclarées, fondés sur des hypothèses différentes. Ces projections conditionnelles prévoient de grands écarts entre marchés. Elles ne constituent ni une interdiction mondiale des moteurs thermiques ni la preuve que la moitié du parc entier sera électrique à cette date. [Source: www.iea.org](https://www.iea.org/reports/global-ev-outlook-2026/executive-summary)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour 2050, annoncer un pourcentage mondial précis dépasserait la certitude permise par ces éléments. Une forte décarbonation nécessiterait une électricité plus propre, des véhicules moins émetteurs, des infrastructures et une évolution de la mobilité au-delà de la voiture privée. Une transition rapide pourrait réduire la dépendance pétrolière ; une transition lente prolongerait demande et émissions. Technologie, accessibilité et continuité politique décideront du résultat. Un objectif climatique n’est pas une prévision commerciale."
+      },
+      {
+        "type": "heading",
+        "text": "Des conséquences bien au-delà des concessions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les consommateurs disposent de davantage de choix, mais ont besoin d’informations sur la recharge, les batteries et le service dans la durée. Constructeurs et fournisseurs voient la valeur se déplacer des moteurs et circuits de carburant vers cellules, électronique de puissance et logiciels. Les salariés ont besoin de formation et d’investissements là où les emplois changent. Les gouvernements arbitrent entre importations abordables, production nationale, concurrence et résilience. Un droit de douane peut protéger une usine tout en renchérissant ses produits."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour les producteurs de pétrole, l’électrification modifie la croissance de la demande avant de la supprimer. Raffineurs, distributeurs et exportateurs doivent considérer parcs régionaux, fret, aviation et pétrochimie plutôt que les seules ventes électriques. Les prix dépendent aussi de l’offre et de la géopolitique. L’analyse de PRESDA sur le pouvoir pétrolier replace cette relation entre transports et sécurité énergétique dans son contexte mondial. [À lire sur PRESDA](/articles/who-controls-world-oil-middle-east-opec/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’avenir automobile n’arrivera pas partout le même jour. Il se lira dans le prix d’une petite électrique, la fiabilité d’une borne d’immeuble, la viabilité d’une usine de batteries et la valeur d’un vieux diesel. La propulsion électrique transforme déjà l’industrie mondiale. L’ampleur et l’équité de cette transformation dépendront autant des systèmes construits autour du véhicule que du véhicule lui-même."
+      }
+    ],
+    "sources": [
+      {
+        "label": "IEA: India and emerging markets",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars"
+      },
+      {
+        "label": "US Alternative Fuels Data Center: ownership considerations",
+        "url": "https://afdc.energy.gov/vehicles/electric"
+      },
+      {
+        "label": "IEA: scenario summary",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/executive-summary"
+      },
+      {
+        "label": "IEA: July 2026 market update",
+        "url": "https://www.iea.org/reports/electric-car-markets-in-a-time-of-uncertainty/executive-summary"
+      },
+      {
+        "label": "IEA: manufacturing and trade",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026"
+      },
+      {
+        "label": "Toyota: integrated report",
+        "url": "https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf"
+      },
+      {
+        "label": "Tesla: 2025 deliveries",
+        "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026000016/tsla-20260102-gen.pdf"
+      },
+      {
+        "label": "BYD: December and full-year 2025 disclosure",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100129.pdf"
+      },
+      {
+        "label": "Volkswagen Group: 2025 deliveries",
+        "url": "https://annualreport2025.volkswagen-group.com/group-management-report/business-development/deliveries.html"
+      },
+      {
+        "label": "IEA: electric vehicle batteries",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries"
+      },
+      {
+        "label": "IEA: charging infrastructure",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10"
+      },
+      {
+        "label": "IEA: battery supply-chain sustainability",
+        "url": "https://www.iea.org/reports/ev-battery-supply-chain-sustainability"
+      },
+      {
+        "label": "ICCT: European life-cycle assessment",
+        "url": "https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25/"
+      },
+      {
+        "label": "European Parliament: adopted framework",
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20230210IPR74715/fit-for-55-zero-co2-emissions-for-new-cars-and-vans-in-2035"
+      },
+      {
+        "label": "Council: revision under discussion",
+        "url": "https://www.consilium.europa.eu/en/meetings/env/2026/03/17/"
+      },
+      {
+        "label": "Élysée: joint declaration of 16 October 2026",
+        "url": "https://www.elysee.fr/emmanuel-macron/2026/10/16/declaration-de-presse-conjointe-franco-allemande-sur-lavenir-de-lindustrie-automobile-europeenne"
+      },
+      {
+        "label": "IEA: outlook for electric mobility",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2026/outlook-for-electric-mobility-chap-9-11"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/elon-mars-signal/",
     "path": "/ar/articles/elon-mars-signal/",
     "kind": "article",

@@ -1,3 +1,4 @@
+import { electricCarsArticle } from "@/data/electricCarsArticle";
 import { supermarketArticle } from "@/data/supermarketArticle";
 import { extinctionTartary2026Articles } from "@/data/extinctionTartary2026Articles";
 import { premiumBatch2026Articles } from "@/data/premiumBatch2026Articles";
@@ -217,6 +218,7 @@ export const articles: Article[] = [
   blackhole2026Article,
   ...extinctionTartary2026Articles,
   supermarketArticle,
+  electricCarsArticle,
   beeArticle,
   dnaArticle,
   brainArticle,
