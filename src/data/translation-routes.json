@@ -631,6 +631,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/bilingual-brains-speaking-two-languages-mind/",
+    "path": "/ar/articles/bilingual-brains-speaking-two-languages-mind/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/bilingual-brains-speaking-two-languages-mind/",
+    "path": "/es/articles/bilingual-brains-speaking-two-languages-mind/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/bilingual-brains-speaking-two-languages-mind/",
+    "path": "/fr/articles/bilingual-brains-speaking-two-languages-mind/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/bill-gates-foundation-impact/",
     "path": "/ar/articles/bill-gates-foundation-impact/"
   },
