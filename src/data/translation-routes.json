@@ -1546,6 +1546,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/future-supermarkets-ai-robots-cashierless-shopping/",
+    "path": "/ar/articles/future-supermarkets-ai-robots-cashierless-shopping/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/future-supermarkets-ai-robots-cashierless-shopping/",
+    "path": "/es/articles/future-supermarkets-ai-robots-cashierless-shopping/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/future-supermarkets-ai-robots-cashierless-shopping/",
+    "path": "/fr/articles/future-supermarkets-ai-robots-cashierless-shopping/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/galileo-and-the-church/",
     "path": "/ar/articles/galileo-and-the-church/"
   },

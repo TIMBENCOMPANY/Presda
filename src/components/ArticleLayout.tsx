@@ -1,3 +1,4 @@
+import supermarketHeroCaptions from "@/data/supermarketHeroCaptions.json";
 import extinctionTartaryHeroCaptions from "@/data/extinctionTartaryHeroCaptions.json";
 import extinctionTartaryImageBlocks from "@/data/extinctionTartaryImageBlocks.json";
 import { ExtinctionTartaryImage } from "@/components/ExtinctionTartaryMedia";
@@ -407,6 +408,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in extinctionTartaryHeroCaptions && <p data-extinction-tartary-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{extinctionTartaryHeroCaptions[article.slug as keyof typeof extinctionTartaryHeroCaptions][locale]}</p>}
         {article.slug in gravityHeroCaptions && <p data-gravity-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gravityHeroCaptions[article.slug as keyof typeof gravityHeroCaptions][locale]}</p>}
         {article.slug in premiumBatchHeroCaptions && <p data-premium-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{premiumBatchHeroCaptions[article.slug as keyof typeof premiumBatchHeroCaptions][locale]}</p>}
+        {article.slug === "future-supermarkets-ai-robots-cashierless-shopping" && <p data-supermarket-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{supermarketHeroCaptions[locale]}</p>}
         {article.slug === "bee-colony-order-intelligence" && <BeeHeroCaption locale={locale} />}
         {article.slug === "human-dna-code-that-builds-us" && <DnaHeroCaption locale={locale} />}
         {article.slug === "human-brain-most-complex-organ" && <BrainHeroCaption locale={locale} />}

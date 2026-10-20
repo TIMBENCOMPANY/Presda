@@ -116259,6 +116259,828 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/future-supermarkets-ai-robots-cashierless-shopping/",
+    "path": "/ar/articles/future-supermarkets-ai-robots-cashierless-shopping/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-20",
+      "terminologyChecked": true
+    },
+    "title": "مستقبل السوبرماركت: الذكاء الاصطناعي والروبوتات والتسوق دون صندوق دفع",
+    "seoTitle": "مستقبل السوبرماركت: الذكاء الاصطناعي والتسوق دون صندوق دفع",
+    "description": "اكتشف تقنيات أمازون ووولمارت وكارفور، من العربات الذكية إلى مساعدي التسوق، مع التكاليف ومخاطر الخصوصية وتصور واقعي لعام 2030.",
+    "excerpt": "اكتشف تقنيات أمازون ووولمارت وكارفور، من العربات الذكية إلى مساعدي التسوق، مع التكاليف ومخاطر الخصوصية وتصور واقعي لعام 2030.",
+    "headlineHighlights": {
+      "red": "مستقبل السوبرماركت",
+      "gold": "الذكاء الاصطناعي والروبوتات"
+    },
+    "keywords": [
+      "مستقبل السوبرماركت",
+      "الذكاء الاصطناعي والروبوتات"
+    ],
+    "searchIntent": "اكتشف تقنيات أمازون ووولمارت وكارفور، من العربات الذكية إلى مساعدي التسوق، مع التكاليف ومخاطر الخصوصية وتصور واقعي لعام 2030.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "image": {
+      "src": "/articles/supermarket-2026-hero.png",
+      "alt": "رسم تحريري مولد بالذكاء الاصطناعي لصالح PRESDA لمتسوقين وعربة ذكية في سوبرماركت متخيل. ليس صورة لتطبيق فعلي لدى أمازون أو وولمارت أو كارفور."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "قد يكون سوبرماركت المستقبل أكثر إبهاراً حين لا يبدو مستقبلياً أصلاً. تجد السلعة التي جئت من أجلها على الرف. تعرض العربة تكلفة مشترياتك قبل الوصول إلى المخرج. يعثر موظف سريعاً على منتج مفقود. وتغادر بالأغراض الصحيحة وإيصال مفهوم. وراء هذه النجاحات اليومية قد تعمل كاميرات وبرامج للتنبؤ وملصقات متصلة وروبوتات."
+      },
+      {
+        "type": "paragraph",
+        "text": "التسوق دون المرور بصندوق الدفع والعربات الذكية ومساعدو الذكاء الاصطناعي موجودون بالفعل، لكنها تقنيات مختلفة ذات حسابات اقتصادية مختلفة. ولا يثبت أي منها أن المتاجر ستعمل بلا موظفين بحلول 2030. يفصل هذا التحقيق بين التطبيقات الموثقة وطموحات الشركات وتصور PRESDA المشروط للمستقبل، استناداً إلى معلومات جرى التحقق منها في 20 أكتوبر 2026. السؤال الأساسي هو ما إذا كانت الأتمتة تجعل التسوق أكثر موثوقية وأيسر تكلفة، وليس أكثر إثارة فحسب."
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يعني التسوق دون المرور بصندوق الدفع؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يتطلب الدفع الذاتي التقليدي من العميل مسح المنتجات في جهاز مخصص. وينقل المسح أثناء التسوق هذه المهمة إلى هاتف أو قارئ محمول. ويمكن للعربة الذكية الجمع بين المسح والوزن والتعرف على المنتجات وحساب الفاتورة تباعاً. أما المتجر المزود بكاميرات فيحاول ربط المنتجات المختارة بسلة افتراضية للمتسوق ثم ترتيب الدفع. تلغي هذه الأساليب خطوات مختلفة. فقد يؤتمت متجر فحص الإيصال دون أن يؤتمت عملية الشراء نفسها."
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف أمازون تقنية Just Walk Out بأنها تجمع الرؤية الحاسوبية ودمج بيانات المستشعرات والذكاء الاصطناعي للتعرف على أفعال التسوق. إنها منظومة تستنتج ما أُخذ وما أُعيد وما اشتُري، وليست آلة تفهم التسوق بلا أخطاء. المنتجات المتشابهة وإعادة سلعة إلى مكان غير صحيح وتسوق عدة أشخاص معاً تخلق تحديات عملية. ويحتاج أي نظام موثوق إلى وسيلة لتصحيح المبلغ الخاطئ والتواصل مع شخص مسؤول. [المصدر: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/how-does-amazon-just-walk-out-work)"
+      },
+      {
+        "type": "heading",
+        "text": "أمازون: ابتكار حقيقي يواجه اقتصاد تجارة الغذاء"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحذر تجربة أمازون من اعتبار العرض التقني المبهر نموذجاً تجارياً حتمياً. ففي يناير 2026 أعلنت الشركة إغلاق متاجر Amazon Go وAmazon Fresh الفعلية وتحويل بعض المواقع إلى Whole Foods Market. وقالت إن صيغ متاجر الغذاء التي تحمل علامتها لم تحقق تجربة متميزة واقتصاديات تسمح بالتوسع الكبير. تعلق القرار بهذه المتاجر الفعلية، ولم يعن اختفاء نشاط أمازون لبيع المواد الغذائية عبر الإنترنت. [المصدر: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/amazon-just-walk-out-dash-cart-grocery-shopping-checkout-stores) [المصدر: apnews.com](https://apnews.com/article/6db095b6631fecfe03e5f2fc2ad63b69)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لذلك ينبغي تقييم التقنية والمتاجر بصورة منفصلة. تواصل أمازون تقديم Just Walk Out لمشغلين آخرين، بينما تطور عربات لرحلات شراء أغذية أكبر. تختلف عملية شراء سريعة في المطار عن مشتريات الأسرة الأسبوعية في حجم السلة وتصميم المكان وتوقعات العملاء. الدرس ليس أن كل أنظمة التسوق دون صندوق دفع فشلت، ولا أن جميع المتاجر ستتبناها. نجاح أتمتة الدفع يظل بحاجة إلى عرض تجاري قابل للاستمرار."
+      },
+      {
+        "type": "heading",
+        "text": "العربات الذكية تظهر الفاتورة قبل الخروج"
+      },
+      {
+        "type": "paragraph",
+        "text": "توضح عربة Dash Cart المعاد تصميمها نهجاً آخر. تشمل وظائفها المنشورة إجمالياً متجدداً للمشتريات وقارئاً وميزاناً للخضار والفواكه ومسار خروج خاصاً يعالج الدفع. تذكر أمازون فروع Whole Foods في ماكيني وريستون ووستفورد ضمن المواقع المبكرة للجيل الأحدث، وتصف التوسع إلى عشرات المتاجر بحلول نهاية 2026 بأنه خطة. لا ينبغي عرض هذا الهدف على أنه توسع اكتمل بالفعل. [المصدر: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/amazon-redesigned-dash-cart-whole-foods-market)"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تكون رؤية الفاتورة بأهمية توفير دقائق. فهي تتيح للمتسوق إزالة منتج يتجاوز ميزانيته قبل الدفع ومعرفة ما إذا طُبق الخصم. لكن المقابل هو معدات أشد تعقيداً: شاشات ومستشعرات وشحن وإصلاحات وبرامج تحتاج إلى دعم. وينبغي للتجار اختبار سهولة استخدامها، بما يشمل محدودي الحركة وضعاف البصر ومن لا يشعرون بالثقة تجاه الأدوات الرقمية. ليست العربة الأفضل بالضرورة الأكثر وظائف."
+      },
+      {
+        "type": "heading",
+        "text": "وولمارت: مساعد التسوق وتسريع الخروج مشروعان مختلفان"
+      },
+      {
+        "type": "paragraph",
+        "text": "قدمت وولمارت Sparky في يونيو 2025 باعتباره مساعداً يعتمد على الذكاء الاصطناعي التوليدي لمهام مثل تلخيص المراجعات واقتراح المنتجات. وتضمن إعلان الإطلاق وظائف مستقبلية، منها إعادة الطلب تلقائياً وحجز الخدمات. لا ينبغي الخلط بين تلك الوعود ووظائف كانت متاحة في كل مكان عند الإطلاق. قد تسهل واجهة المحادثة تصفح قائمة ضخمة، لكن الإجابات يجب أن تطابق المنتجات والمخزون والأسعار وشروط التوصيل الفعلية. [المصدر: corporate.walmart.com](https://corporate.walmart.com/news/2025/06/06/walmart-the-future-of-shopping-is-agentic-meet-sparky)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وفي Sam’s Club التابعة لوولمارت، يفحص مشروع منفصل للرؤية الحاسوبية المشتريات عند الخروج. أعلنت الشركة تشغيله في أكثر من 120 موقعاً في أبريل 2024. هذه محطة مؤرخة وليست العدد الحالي للمتاجر. تقلل التقنية الاعتماد على الفحص اليدوي للإيصال بعد الدفع، ولا يصح وصفها بأنها نسخة مطابقة لتتبع أمازون داخل المتجر كله. التمييز بين المعاملة والتحقق منها يجعل فهم التقنية وتقييم فوائدها أوضح. [المصدر: corporate.walmart.com](https://corporate.walmart.com/about/samsclub/news/2024/04/30/sams-club-deploys-ai-powered-exit-technology-at-120-locations-leading-retail-industry-with-customer-experience-innovation)"
+      },
+      {
+        "type": "heading",
+        "text": "كارفور: متجر تجريبي ومساعد للمحادثة"
+      },
+      {
+        "type": "paragraph",
+        "text": "افتتح متجر كارفور التجريبي Flash 10/10 في باريس في نوفمبر 2021 بتقنية AiFi. وصف الإعلان التعرف على المنتجات دون مسح كل واحدة منفردة، ثم تأكيد السلة والدفع اللاتلامسي في جهاز مخصص. كما نص على خيار للدفع النقدي وأربعة موظفين لتشغيل المتجر. لم يكن ذلك وعداً بتحويل جميع فروع كارفور إلى متاجر بلا موظفين، ولا يكفي إعلان الإطلاق وحده لإثبات نطاق التشغيل الحالي. [المصدر: www.carrefour.com](https://www.carrefour.com/en/news/2021/carrefour-launches-carrefour-flash-1010-its-next-generation-concept-store)"
+      },
+      {
+        "type": "paragraph",
+        "text": "اتبعت كارفور مساراً مختلفاً عبر الإنترنت مع Hopla، الذي أُعلن عنه في يونيو 2023 لمساعدة العملاء في تكوين سلال وفق ميزانياتهم وأفكار الوجبات والقيود الغذائية. ويصف تحديثها لعام 2026 وظائف إضافية لتحليل السلال والصور والمساعدة في اختيار الطعام. إنها إرشادات برمجية، لا روبوت مادي يرافق الناس في الممرات. ويجب أن تظل اقتراحات الطعام المخصصة اقتراحات: لا تستبدل المحادثة السلسة بأمان ملصقات المنتجات ومعلومات مسببات الحساسية والمشورة المهنية عند الحاجة. [المصدر: www.carrefour.com](https://www.carrefour.com/en/news/2023/carrefour-integrates-openai-technologies-and-launches-generative-ai-powered-shopping) [المصدر: www.carrefour.com](https://www.carrefour.com/en/news/2026/carrefour-puts-artificial-intelligence-service-eating-better-hopla)"
+      },
+      {
+        "type": "heading",
+        "text": "ربما يكون الروبوت الأكثر فائدة هو الذي يفحص الرفوف"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصرف صورة المساعد الشبيه بالإنسان الانتباه عن آلات أقل استعراضاً. ففي يناير 2022 أعلنت Sam’s Club إضافة أبراج لمسح المخزون إلى آلات تنظيف الأرضيات الروبوتية الموجودة لديها، بالتعاون مع Brain Corp وTennant. كانت الفكرة المزدوجة عملية: تجمع الآلات أثناء تجولها معلومات عن المخزون ومواقع المنتجات ومدى مطابقة ترتيبها للخطة والأسعار المعروضة، إلى جانب وظيفة التنظيف. [المصدر: corporate.walmart.com](https://corporate.walmart.com/about/samsclub/news/2022/01/27/sams-club-begins-national-deployment-of-automated-inventory-analytics-robots)"
+      },
+      {
+        "type": "paragraph",
+        "text": "رؤية فراغ على الرف لا تعني ملأه. قد يظل الموظف بحاجة إلى العثور على صندوق في المخزن وفحص حالته وإعادة تزويد الرف. كما تحتاج الروبوتات التي تتحرك بين العملاء إلى مسارات آمنة وصيانة وإجراءات عند انسداد الممرات. وفي المستقبل القريب، تبدو المساعدة في مهام محددة توقعاً أكثر واقعية من آلة تنفذ كل أعمال المتجر. وينظم التمييز نفسه بين الأتمتة المتخصصة والآلات العامة مقال PRESDA عن ثورة الروبوتات. [اقرأ أيضاً في PRESDA](/articles/robot-revolution-ai-future-2030/)"
+      },
+      {
+        "type": "heading",
+        "text": "إدارة المخزون الذكية تبدأ قبل فراغ الرف"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحاول أنظمة التنبؤ ربط الطلب بإعادة التزويد. ويجب أن يراعي التنبؤ المفيد العروض والطقس والأحداث المحلية وتغير عادات العملاء. وقد تضلل المبيعات وحدها: ربما يبدو منتج غير مرغوب لأنه لم يكن متاحاً. لذلك ينبغي مطابقة السجلات مع الموجود فعلياً. يصف عرض وولمارت لسلسلة إمدادها في 2025 التنبؤ المدعوم بالذكاء الاصطناعي وتوجيه المخزون والأتمتة كأجزاء من عملية أكبر. وهذه أوصاف تقدمها الشركة، وليست دليلاً مستقلاً على انتهاء النقص في كل متجر. [المصدر: corporate.walmart.com](https://corporate.walmart.com/news/2025/07/17/walmarts-us-supply-chain-playbook-goes-global-and-its-reinventing-retail-at-scale)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجعل الأغذية الطازجة المسألة أصعب. الطلب القليل يفوت مبيعات، والكثير يعرض الطعام للهدر. وعلى النظام الفعال مراعاة مدة الصلاحية والحرارة وموثوقية التوصيل والبدائل المقبولة لدى العملاء. أتمتة سجل خاطئ لا تفعل سوى تسريع الخطأ. لذلك تضاهي جودة القياس والفحوص المادية ووضوح المسؤوليات أهمية نموذج أكثر تطوراً. الرف نهاية سلسلة إمداد، وليس شاشة معزولة."
+      },
+      {
+        "type": "heading",
+        "text": "الملصقات الرقمية لا تعني تلقائياً أسعاراً شخصية"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحل الملصقات الإلكترونية محل بطاقات الأسعار الورقية، وقد تسهل نشر التغييرات المعتمدة. في مارس 2026 قالت وولمارت إن نحو 2300 موقع أمريكي يستخدمها، وإنها تتوقع شمول الشبكة خلال العام التالي. كما تصف إشارات ضوئية تساعد الموظفين في العثور على المنتجات لإعادة التزويد وتجهيز الطلبات الإلكترونية. الرقم لقطة زمنية أعلنتها الشركة، والتوسع الأوسع هدف مستقبلي. [المصدر: corporate.walmart.com](https://corporate.walmart.com/news/2026/03/02/how-the-shelf-got-smarter-and-our-jobs-got-easier)"
+      },
+      {
+        "type": "paragraph",
+        "text": "الشاشة الرقمية ليست بذاتها خوارزمية تقرر السعر الذي يدفعه فرد بعينه. تقول وولمارت إن ملصقاتها تعرض بصورة متسقة أسعاراً محددة مركزياً ولا تخصص أسعار الرفوف للأفراد. يجب التمييز بين هذه السياسة وما قد تتيحه التقنية نظرياً. ويظل على التاجر ضمان توافق الرف والتطبيق والعرض وصندوق الدفع. لا يكون التحديث الأسرع تحسيناً إلا إذا كانت المعلومات صحيحة ومفهومة. [المصدر: corporate.walmart.com](https://corporate.walmart.com/about/everyday-affordability/digital-shelf-labels)"
+      },
+      {
+        "type": "heading",
+        "text": "التخصيص: نصيحة مفيدة أم عرض بيع أكثر إقناعاً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قد يساعد المساعد أسرة على تخطيط وجبات ضمن الميزانية أو يجنبها البحث المتكرر عن الأساسيات. لكن التاجر يريد البيع أيضاً. قد يعكس الاقتراح عرضاً أو اتفاقاً إعلانياً أو مخزوناً متاحاً أو أولويات تجارية، لا أرخص خيار مناسب. ينبغي أن يفهم العملاء التوصيات المدفوعة ويقارنوا أسعار الوحدات ويروا البدائل. الإجابة المريحة ليست بالضرورة محايدة."
+      },
+      {
+        "type": "paragraph",
+        "text": "تزداد أهمية المخاطر عندما يُسمح للمساعد بالتصرف. اقتراح قائمة مختلف عن السماح بالبدائل أو إنفاق المال أو تكرار الطلب. التصميم المسؤول يوضح الميزانية والاستثناءات ورسوم التوصيل والموافقة النهائية. هذه معايير تحريرية لتقييم الخدمات المستقبلية، وليست ادعاء بأن كل الأدوات الحالية توفرها. ينبغي أن تحافظ الأتمتة على قدرة العميل على مراجعة القرار وتغييره وإلغائه."
+      },
+      {
+        "type": "heading",
+        "text": "الخصوصية جزء من التصميم وليست حاشية صغيرة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تتبع المنتجات بالكاميرات وملفات الولاء والتعرف البيومتري عمليات مختلفة. لا يعني أحدها وجود الآخرين تلقائياً. تقول أمازون إن Just Walk Out يتتبع نشاط التسوق دون الاعتماد على التعرف على الوجه أو تحديد الهوية بيومترياً. لكن ذلك لا يحسم جميع أسئلة الخصوصية: يستحق العملاء معلومات مفهومة عما يُجمع ومدة الاحتفاظ به ومن يصل إليه وصلته بسجلات الدفع أو الحساب. [المصدر: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/how-does-amazon-just-walk-out-work)"
+      },
+      {
+        "type": "paragraph",
+        "text": "بحثت النتائج الأولية للجنة التجارة الفيدرالية الأمريكية في يناير 2025 كيف يستطيع وسطاء التسعير استخدام المعلومات الشخصية للتأثير في الأسعار والعروض. وهي توفر سبباً لتدقيق التسعير المدفوع بالبيانات، لا دليلاً على أن كل متجر مذكور يطبق أسعاراً فردية. الأسئلة العملية محددة: هل يمكن التسوق دون عضوية ولاء ورفض التنميط الاختياري والطعن في سجل خاطئ؟ تبني الإجابات الواضحة ثقة أكبر من وصف نظام بالمجهول دون شرح حدود ذلك. [المصدر: www.ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-surveillance-pricing-study-indicates-wide-range-personal-data-used-set-individualized-consumer)"
+      },
+      {
+        "type": "heading",
+        "text": "كم تبلغ كلفة الأتمتة فعلياً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يوجد سعر موحد يمكن الدفاع عنه لتحويل سوبرماركت إلى متجر دون صندوق دفع. تغير المساحة والتصميم وتشكيلة المنتجات وأنظمة الدفع والعقد مع المورد الحساب. يشمل التقييم المفيد التركيب والمعدات والاشتراكات والشبكات والصيانة والتدريب ومعالجة المدفوعات والأخطاء والاستبدال مستقبلاً. ويجب مقارنة الكلفة بتحسينات مقاسة، لا بافتراض اختفاء كل عمل المحاسبة في اليوم الأول."
+      },
+      {
+        "type": "paragraph",
+        "text": "ينبغي قياس رحلة التسوق كاملة. هل يقلل النظام الانتظار والسلال المتروكة، أم ينقل التأخير إلى إنشاء الحسابات والنزاع حول الإيصالات؟ هل يقلل الهدر دون زيادة النقص؟ وهل يستمر المتجر في البيع خلال العطل؟ تحتاج التجربة إلى خط أساس قابل للمقارنة وميزانية صيانة واقعية ونتائج في الفترات الهادئة والمزدحمة. يجعل تراجع أمازون عن صيغها الغذائية هذه الأسئلة ملموسة. الإمكان التقني والجدوى الاقتصادية المستدامة اختباران منفصلان."
+      },
+      {
+        "type": "heading",
+        "text": "الوظائف تتغير، لكن المتجر بلا موظفين ليس حتمياً"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن للأتمتة تقليل الطلب على مهام معينة وإضافة عمل في أماكن أخرى. يتوقع مكتب إحصاءات العمل الأمريكي انخفاض توظيف أمناء الصناديق بنسبة 6 بالمئة بين 2025 و2035، مع استمرار فرص توظيف كثيرة لتعويض من ينتقلون إلى مهن أخرى أو يغادرون سوق العمل. هذا توقع أمريكي لمهنة عبر قطاع التجزئة، وليس توقعاً عالمياً للسوبرماركت ولا قياساً لوظائف ألغيت بسبب الذكاء الاصطناعي وحده. [المصدر: www.bls.gov](https://www.bls.gov/ooh/sales/cashiers.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ما زالت المتاجر تحتاج إلى الاستلام وإعادة التزويد وإعداد الطعام والتنظيف وخدمة العملاء والحكم البشري عند وقوع مشكلة. انتقال العاملين المتأثرين إلى تلك الوظائف يتوقف على قرارات التوظيف والتدريب المدفوع والجداول وظروف سوق العمل المحلي. يجب اختبار الوعد بتحرير الموظفين لعمل أفضل مقابل ساعاتهم وأجورهم وأعبائهم الفعلية. قصر الطابور فائدة للعميل، لكنه لا يثبت وحده انتقالاً عادلاً للعمال."
+      },
+      {
+        "type": "heading",
+        "text": "سهولة الوصول والموثوقية ستحسمان التبني"
+      },
+      {
+        "type": "paragraph",
+        "text": "يخدم السوبرماركت أشخاصاً يختلفون في اللغة والقدرة والميزانية والوصول إلى الخدمات المصرفية. اشتراط هاتف حديث أو حساب دفع معين قد يحول راحة أحد العملاء إلى إقصاء لآخر. تستحق النصوص الكبيرة وأدوات التحكم الممكن الوصول إليها والإشارات الصوتية والمرئية الواضحة والمساعدة وطرق الدفع البديلة اهتماماً يساوي دقة التعرف. يذكر تصميم Carrefour Flash الأصلي بأن الشراء الآلي السريع وخيار النقد ليسا متناقضين بالضرورة."
+      },
+      {
+        "type": "paragraph",
+        "text": "تشمل الموثوقية اللحظات غير المثيرة: بطارية فارغة واتصالاً معطلاً ورمزاً شريطياً تالفاً وسلعة مقيدة بالعمر أو رسماً محل اعتراض. ينبغي للمتجر توضيح المسار البديل. وتمتد الحماية إلى تحديثات البرامج وتكامل المدفوعات ووصول الموردين. التقنية الأكثر إقناعاً تسمح للعميل بإتمام شراء العشاء عندما يفشل المسار المفضل. إنه معيار تشغيلي، لا زينة مستقبلية."
+      },
+      {
+        "type": "heading",
+        "text": "تصور واقعي لسوبرماركت عام 2030"
+      },
+      {
+        "type": "paragraph",
+        "text": "السيناريو الأرجح في تحليل PRESDA هو نظام مختلط. قد تجمع متاجر أكثر بين التنبؤ والملصقات المتصلة والمساعدين الرقميين وأتمتة مهام محددة، مع الاحتفاظ بالموظفين وعدة طرق للدفع. وقد تتوسع العربات الذكية والصيغ دون صندوق حيث يبررها حجم السلال والطلب وتكاليف التشغيل. هذا استنتاج من الأمثلة المتباينة السابقة، وليس جدولاً مضموناً للتبني أو توقعاً للحصة السوقية."
+      },
+      {
+        "type": "paragraph",
+        "text": "أما السيناريو الأقل يقيناً فهو انتشار سوبرماركت تديره روبوتات عامة بلا موظفين ولا بدائل دفع تقليدية. موثوقية المعدات وكلفة الدمج وقبول العملاء والمساءلة عقبات مهمة. بحلول 2030 ينبغي أن تكون معايير النجاح أبسط: نقص أقل في الأساسيات وفواتير صحيحة وهدر يمكن تجنبه أقل وخدمة ميسرة وعمل لائق. المستقبل للمتاجر التي تحل هذه المشكلات، سواء لاحظ العميل الذكاء الاصطناعي أم لم يلاحظه. وللتعرف على الإنتاج وراء فئة غذائية مألوفة، اقرأ أيضاً تحقيق PRESDA عن تاريخ الشوكولاتة وعلمها. [اقرأ أيضاً في PRESDA](/articles/chocolate-ancient-cacao-global-obsession/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Amazon’s explanation of identification and tracking",
+        "url": "https://www.aboutamazon.com/news/retail/how-does-amazon-just-walk-out-work"
+      },
+      {
+        "label": "Amazon’s updated retail strategy",
+        "url": "https://www.aboutamazon.com/news/retail/amazon-just-walk-out-dash-cart-grocery-shopping-checkout-stores"
+      },
+      {
+        "label": "Associated Press on the closures",
+        "url": "https://apnews.com/article/6db095b6631fecfe03e5f2fc2ad63b69"
+      },
+      {
+        "label": "Amazon’s redesigned Dash Cart",
+        "url": "https://www.aboutamazon.com/news/retail/amazon-redesigned-dash-cart-whole-foods-market"
+      },
+      {
+        "label": "Walmart’s Sparky launch",
+        "url": "https://corporate.walmart.com/news/2025/06/06/walmart-the-future-of-shopping-is-agentic-meet-sparky"
+      },
+      {
+        "label": "Sam’s Club exit technology",
+        "url": "https://corporate.walmart.com/about/samsclub/news/2024/04/30/sams-club-deploys-ai-powered-exit-technology-at-120-locations-leading-retail-industry-with-customer-experience-innovation"
+      },
+      {
+        "label": "Carrefour’s Flash launch",
+        "url": "https://www.carrefour.com/en/news/2021/carrefour-launches-carrefour-flash-1010-its-next-generation-concept-store"
+      },
+      {
+        "label": "Hopla’s original launch",
+        "url": "https://www.carrefour.com/en/news/2023/carrefour-integrates-openai-technologies-and-launches-generative-ai-powered-shopping"
+      },
+      {
+        "label": "Carrefour’s 2026 Hopla update",
+        "url": "https://www.carrefour.com/en/news/2026/carrefour-puts-artificial-intelligence-service-eating-better-hopla"
+      },
+      {
+        "label": "Sam’s Club inventory robots",
+        "url": "https://corporate.walmart.com/about/samsclub/news/2022/01/27/sams-club-begins-national-deployment-of-automated-inventory-analytics-robots"
+      },
+      {
+        "label": "Walmart’s supply-chain account",
+        "url": "https://corporate.walmart.com/news/2025/07/17/walmarts-us-supply-chain-playbook-goes-global-and-its-reinventing-retail-at-scale"
+      },
+      {
+        "label": "Walmart’s March 2026 update",
+        "url": "https://corporate.walmart.com/news/2026/03/02/how-the-shelf-got-smarter-and-our-jobs-got-easier"
+      },
+      {
+        "label": "Walmart’s pricing explanation",
+        "url": "https://corporate.walmart.com/about/everyday-affordability/digital-shelf-labels"
+      },
+      {
+        "label": "FTC surveillance-pricing findings",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-surveillance-pricing-study-indicates-wide-range-personal-data-used-set-individualized-consumer"
+      },
+      {
+        "label": "BLS cashier outlook",
+        "url": "https://www.bls.gov/ooh/sales/cashiers.htm"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/future-supermarkets-ai-robots-cashierless-shopping/",
+    "path": "/es/articles/future-supermarkets-ai-robots-cashierless-shopping/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-20",
+      "terminologyChecked": true
+    },
+    "title": "El futuro de los supermercados: IA, robots y compras sin caja",
+    "seoTitle": "Supermercados del futuro: IA, robots y compras sin caja",
+    "description": "Explora las tecnologías de Amazon, Walmart y Carrefour: carritos inteligentes, asistentes de IA, costes, privacidad y una perspectiva realista para 2030.",
+    "excerpt": "Explora las tecnologías de Amazon, Walmart y Carrefour: carritos inteligentes, asistentes de IA, costes, privacidad y una perspectiva realista para 2030.",
+    "headlineHighlights": {
+      "red": "El futuro de los supermercados",
+      "gold": "IA, robots"
+    },
+    "keywords": [
+      "El futuro de los supermercados",
+      "IA, robots"
+    ],
+    "searchIntent": "Explora las tecnologías de Amazon, Walmart y Carrefour: carritos inteligentes, asistentes de IA, costes, privacidad y una perspectiva realista para 2030.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "image": {
+      "src": "/articles/supermarket-2026-hero.png",
+      "alt": "Ilustración editorial generada por IA para PRESDA: clientes y un carrito inteligente en un supermercado imaginario. No es una fotografía de una instalación de Amazon, Walmart o Carrefour."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "El supermercado del futuro quizá resulte más impresionante cuando no parezca futurista. El producto que buscabas está en el estante. Un carrito muestra cuánto cuesta la compra antes de llegar a la salida. Un empleado encuentra rápidamente un artículo. Te marchas con los productos correctos y un recibo comprensible. Detrás de esos logros cotidianos podrían funcionar cámaras, programas de previsión, etiquetas conectadas y robots."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las compras sin pasar por caja, los carritos inteligentes y los asistentes de IA ya existen, pero son tecnologías diferentes con economías distintas. Ninguna demuestra que los supermercados funcionarán sin personal en 2030. Este reportaje distingue los despliegues documentados, las ambiciones empresariales y las previsiones condicionales de PRESDA, con información verificada el 20 de octubre de 2026. La pregunta central es si la automatización hace las compras más fiables y asequibles, además de llamativas."
+      },
+      {
+        "type": "heading",
+        "text": "¿Qué significa realmente comprar sin pasar por caja?"
+      },
+      {
+        "type": "paragraph",
+        "text": "El autopago tradicional exige escanear los productos en un terminal. El sistema de escaneo móvil traslada esa tarea a un teléfono o lector portátil. Un carrito inteligente puede combinar escaneo, pesaje y reconocimiento de productos con una cuenta actualizada. Una tienda equipada con cámaras intenta asociar los productos seleccionados con la cesta virtual del comprador y organizar después el pago. Cada enfoque elimina pasos distintos. Una tienda puede automatizar la comprobación del recibo sin automatizar la compra."
+      },
+      {
+        "type": "paragraph",
+        "text": "Amazon describe Just Walk Out como una combinación de visión artificial, fusión de datos de sensores e IA para identificar acciones de compra. Es un sistema que deduce qué se tomó, devolvió y compró, no una máquina que entiende perfectamente cualquier situación. Los productos similares, un artículo devuelto al lugar equivocado o las personas que compran juntas plantean dificultades prácticas. Un servicio creíble necesita un mecanismo para corregir cobros erróneos y contactar con una persona. [Fuente: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/how-does-amazon-just-walk-out-work)"
+      },
+      {
+        "type": "heading",
+        "text": "Amazon: una innovación real frente a la economía alimentaria"
+      },
+      {
+        "type": "paragraph",
+        "text": "La experiencia de Amazon advierte del peligro de confundir una demostración impresionante con un modelo comercial inevitable. En enero de 2026, la empresa anunció el cierre de las tiendas físicas Amazon Go y Amazon Fresh, con la conversión de algunos locales en Whole Foods Market. Explicó que sus formatos alimentarios de marca Amazon no habían alcanzado la experiencia diferenciada y la economía necesarias para una expansión a gran escala. La decisión afectaba a esos formatos físicos, no suponía la desaparición de su negocio alimentario en línea. [Fuente: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/amazon-just-walk-out-dash-cart-grocery-shopping-checkout-stores) [Fuente: apnews.com](https://apnews.com/article/6db095b6631fecfe03e5f2fc2ad63b69)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Por tanto, hay que evaluar por separado la tecnología y las tiendas. Amazon continúa ofreciendo Just Walk Out a otros operadores mientras desarrolla carritos para compras alimentarias más grandes. Una compra rápida en un aeropuerto y la compra semanal familiar difieren en tamaño de cesta, distribución y expectativas. La lección no es que todos los sistemas sin caja hayan fracasado ni que todos los supermercados adoptarán uno. Automatizar el pago sigue requiriendo una propuesta comercial viable."
+      },
+      {
+        "type": "heading",
+        "text": "Los carritos inteligentes muestran la cuenta antes de salir"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Dash Cart rediseñado de Amazon ilustra otra vía. Sus funciones publicadas incluyen un total actualizado, un escáner, una báscula para productos frescos y un carril de salida específico que procesa el pago. Amazon cita los Whole Foods de McKinney, Reston y Westford entre los primeros establecimientos de esta generación y presenta la expansión a decenas de tiendas antes de terminar 2026 como un plan. Ese objetivo no debe describirse como un despliegue ya completado. [Fuente: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/amazon-redesigned-dash-cart-whole-foods-market)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ver la cuenta puede importar tanto como ahorrar minutos. Permite retirar un artículo que supera el presupuesto antes de pagar y comprobar si se aplicó un descuento. La contrapartida es un equipo más complejo: pantallas, sensores, carga, reparaciones y programas necesitan mantenimiento. Los distribuidores deberían probar su comodidad para personas con movilidad reducida, dificultades visuales o poca confianza digital. El mejor carrito no es necesariamente el que tiene más funciones."
+      },
+      {
+        "type": "heading",
+        "text": "Walmart: asistencia de compra y salidas rápidas son proyectos distintos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Walmart presentó Sparky en junio de 2025 como un asistente de IA generativa para tareas como resumir opiniones y recomendar productos. El anuncio también describía funciones futuras, entre ellas repetir pedidos automáticamente y reservar servicios. Esas promesas no deben confundirse con prestaciones disponibles en todas partes desde el lanzamiento. Una interfaz conversacional puede facilitar la navegación por un catálogo amplio, pero sus respuestas deben coincidir con productos, existencias, precios y condiciones de entrega reales. [Fuente: corporate.walmart.com](https://corporate.walmart.com/news/2025/06/06/walmart-the-future-of-shopping-is-agentic-meet-sparky)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En Sam’s Club, propiedad de Walmart, otro proyecto de visión artificial verifica las compras a la salida. La empresa informó de su instalación en más de 120 establecimientos en abril de 2024. Es un hito fechado, no un recuento actual. Reduce la dependencia de la revisión manual del recibo después del pago; no debe presentarse como una réplica del seguimiento de Amazon en toda la tienda. Distinguir la transacción de su verificación permite entender mejor la tecnología y evaluar sus ventajas. [Fuente: corporate.walmart.com](https://corporate.walmart.com/about/samsclub/news/2024/04/30/sams-club-deploys-ai-powered-exit-technology-at-120-locations-leading-retail-industry-with-customer-experience-innovation)"
+      },
+      {
+        "type": "heading",
+        "text": "Carrefour: una tienda de prueba y un asistente conversacional"
+      },
+      {
+        "type": "paragraph",
+        "text": "La tienda de prueba Flash 10/10 de Carrefour abrió en París en noviembre de 2021 con tecnología de AiFi. El anuncio describía el reconocimiento de productos sin escaneo individual, seguido de la validación de la cesta y el pago sin contacto en un terminal. También contemplaba una opción de pago en efectivo y cuatro empleados para operar el establecimiento. No prometía convertir todos los Carrefour en tiendas sin personal, y el registro del lanzamiento no demuestra su implantación actual. [Fuente: www.carrefour.com](https://www.carrefour.com/en/news/2021/carrefour-launches-carrefour-flash-1010-its-next-generation-concept-store)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Carrefour siguió otro camino en internet con Hopla, anunciado en junio de 2023 para crear cestas según presupuestos, menús y restricciones alimentarias. Su actualización de 2026 describe funciones adicionales de análisis de cestas e imágenes y orientación para elegir alimentos. Se trata de asesoramiento mediante software, no de un robot físico en los pasillos. Las recomendaciones personalizadas deben seguir siendo recomendaciones: una conversación fluida no sustituye de forma segura las etiquetas, la información sobre alérgenos ni el consejo profesional cuando corresponda. [Fuente: www.carrefour.com](https://www.carrefour.com/en/news/2023/carrefour-integrates-openai-technologies-and-launches-generative-ai-powered-shopping) [Fuente: www.carrefour.com](https://www.carrefour.com/en/news/2026/carrefour-puts-artificial-intelligence-service-eating-better-hopla)"
+      },
+      {
+        "type": "heading",
+        "text": "Quizá el robot más útil esté inspeccionando estantes"
+      },
+      {
+        "type": "paragraph",
+        "text": "La imagen de un asistente humanoide distrae de máquinas menos teatrales. En enero de 2022, Sam’s Club anunció la incorporación de torres de análisis de inventario a sus fregadoras robóticas, en colaboración con Brain Corp y Tennant. La doble función propuesta era práctica: las máquinas que recorren el edificio podían recoger información sobre existencias, ubicación, cumplimiento de la distribución prevista y precios visibles, además de desempeñar su función de limpieza. [Fuente: corporate.walmart.com](https://corporate.walmart.com/about/samsclub/news/2022/01/27/sams-club-begins-national-deployment-of-automated-inventory-analytics-robots)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Detectar un hueco no equivale a llenarlo. Un trabajador puede seguir necesitando localizar una caja en el almacén, comprobar su estado y reponer el estante. Los robots que circulan entre clientes también requieren rutas seguras, mantenimiento y protocolos para pasillos bloqueados. A corto plazo, la asistencia especializada resulta más razonable que una máquina capaz de realizar todas las tareas. Esta diferencia entre automatización especializada y máquinas de propósito general también estructura nuestro reportaje sobre la revolución robótica. [También en PRESDA](/articles/robot-revolution-ai-future-2030/)"
+      },
+      {
+        "type": "heading",
+        "text": "El inventario inteligente empieza antes de que falte el producto"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los sistemas de previsión intentan conectar demanda y reposición. Una predicción útil debe afrontar promociones, tiempo meteorológico, acontecimientos locales y hábitos cambiantes. Las ventas por sí solas pueden engañar: un producto puede parecer poco popular porque no estaba disponible. Es necesario contrastar los registros con la realidad física. El informe logístico de Walmart de 2025 describe previsiones apoyadas por IA, redistribución de inventario y automatización como partes de esa operación. Son explicaciones empresariales, no pruebas independientes de que todas sus tiendas hayan eliminado las roturas de existencias. [Fuente: corporate.walmart.com](https://corporate.walmart.com/news/2025/07/17/walmarts-us-supply-chain-playbook-goes-global-and-its-reinventing-retail-at-scale)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los alimentos frescos complican especialmente el problema. Pedir poco hace perder ventas; pedir demasiado genera riesgo de desperdicio. Un sistema eficaz debe considerar conservación, temperatura, fiabilidad de las entregas y sustituciones aceptables. Automatizar un registro incorrecto solo acelera el error. Una medición mejor, las comprobaciones físicas y las responsabilidades claras importan tanto como un modelo sofisticado. El estante es el final de una cadena de suministro, no una pantalla aislada."
+      },
+      {
+        "type": "heading",
+        "text": "Las etiquetas digitales no implican precios personalizados"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las etiquetas electrónicas sustituyen a las de papel y facilitan distribuir cambios de precio aprobados. En marzo de 2026, Walmart afirmaba que unas 2.300 tiendas estadounidenses las utilizaban y esperaba extenderlas a toda su red durante el año siguiente. También describe luces que ayudan a localizar productos para reposición y pedidos digitales. La cifra es una fotografía comunicada por la empresa; la ampliación es un objetivo. [Fuente: corporate.walmart.com](https://corporate.walmart.com/news/2026/03/02/how-the-shelf-got-smarter-and-our-jobs-got-easier)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una pantalla digital no es por sí misma un algoritmo que decide cuánto cobrar a cada persona. Walmart afirma que sus etiquetas muestran de forma uniforme precios fijados centralmente y no personalizan los precios del estante. Conviene distinguir esa política de lo que la tecnología podría permitir. El comercio sigue teniendo que hacer coincidir estante, aplicación, promoción y caja. Actualizar más rápido solo mejora el servicio si la información es correcta y comprensible. [Fuente: corporate.walmart.com](https://corporate.walmart.com/about/everyday-affordability/digital-shelf-labels)"
+      },
+      {
+        "type": "heading",
+        "text": "Personalización: ¿consejo útil o mejor argumento de venta?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un asistente podría ayudar a una familia a planificar comidas según su presupuesto o evitar búsquedas repetidas de productos básicos. Pero el vendedor también quiere vender. Una recomendación puede reflejar una promoción, un acuerdo publicitario, existencias disponibles o prioridades comerciales en vez de la alternativa adecuada más barata. Los clientes deberían identificar los contenidos patrocinados, comparar precios unitarios y ver otras opciones. Una respuesta cómoda no es necesariamente neutral."
+      },
+      {
+        "type": "paragraph",
+        "text": "El riesgo aumenta cuando el asistente puede actuar. Sugerir una lista no equivale a autorizar sustituciones, gastar dinero o repetir un pedido. Un diseño responsable explicitaría presupuesto, exclusiones, gastos de entrega y aprobación final. Son criterios editoriales para evaluar servicios futuros, no una afirmación de que todas las herramientas actuales los cumplen. La automatización debería conservar la capacidad del cliente de revisar, modificar y cancelar decisiones."
+      },
+      {
+        "type": "heading",
+        "text": "La privacidad debe formar parte del diseño"
+      },
+      {
+        "type": "paragraph",
+        "text": "El seguimiento de productos mediante cámaras, los perfiles de fidelización y la identificación biométrica son procesos distintos. Uno no implica automáticamente los otros. Amazon afirma que Just Walk Out sigue la actividad de compra sin recurrir al reconocimiento facial ni a la identificación biométrica. Eso no resuelve todas las preguntas: el cliente merece información comprensible sobre los datos recogidos, su conservación, los accesos y su relación con pagos o cuentas. [Fuente: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/how-does-amazon-just-walk-out-work)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los resultados preliminares de enero de 2025 de la Comisión Federal de Comercio estadounidense examinaron cómo los intermediarios de precios pueden usar información personal para influir en precios y promociones. Justifican analizar estas prácticas, pero no demuestran que todos los supermercados citados individualicen precios. Las preguntas prácticas son concretas: ¿puede alguien comprar sin afiliarse, rechazar perfiles opcionales y disputar un registro incorrecto? Las respuestas claras generan más confianza que llamar anónimo a un sistema sin explicar sus límites. [Fuente: www.ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-surveillance-pricing-study-indicates-wide-range-personal-data-used-set-individualized-consumer)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Cuánto cuesta realmente automatizar?"
+      },
+      {
+        "type": "paragraph",
+        "text": "No existe un precio universal defendible para convertir un supermercado en un establecimiento sin caja. Superficie, distribución, surtido, sistemas de pago existentes y contrato con el proveedor modifican el cálculo. Una evaluación útil incluye instalación, equipos, suscripciones, redes, mantenimiento, formación, procesamiento de pagos, gestión de errores y sustitución futura. Hay que contrastar esos costes con mejoras medidas, sin asumir que todo el trabajo de caja desaparece el primer día."
+      },
+      {
+        "type": "paragraph",
+        "text": "El comercio debería medir el recorrido completo. ¿Reduce el sistema las esperas y las cestas abandonadas o traslada los retrasos al registro de cuentas y las reclamaciones? ¿Reduce desperdicio sin aumentar faltantes? ¿Puede la tienda seguir vendiendo durante una avería? Una prueba necesita una referencia comparable, un presupuesto realista de mantenimiento y resultados en periodos tranquilos y concurridos. La retirada de Amazon de sus propios formatos alimentarios hace concretas estas preguntas. Viabilidad técnica y sostenibilidad económica son exámenes diferentes."
+      },
+      {
+        "type": "heading",
+        "text": "Cambian los empleos, pero una tienda sin personal no es inevitable"
+      },
+      {
+        "type": "paragraph",
+        "text": "La automatización puede reducir la demanda de tareas determinadas y crear trabajo en otros lugares. La Oficina de Estadísticas Laborales estadounidense prevé una caída del 6 % del empleo de cajeros entre 2025 y 2035, aunque anticipa numerosas vacantes para sustituir a quienes cambian de ocupación o abandonan la población activa. Es una proyección estadounidense para el comercio, no una previsión mundial de supermercados ni una medición de puestos perdidos exclusivamente por la IA. [Fuente: www.bls.gov](https://www.bls.gov/ooh/sales/cashiers.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las tiendas aún necesitan recepción, reposición, preparación de alimentos, limpieza, atención y criterio cuando algo falla. Que los cajeros desplazados pasen a esas funciones depende de contratación, formación remunerada, horarios y condiciones laborales locales. La promesa de liberar empleados para un trabajo mejor debe contrastarse con horas, salario y carga reales. Una cola más corta beneficia al comprador; por sí sola no demuestra una transición justa para los trabajadores."
+      },
+      {
+        "type": "heading",
+        "text": "Accesibilidad y fiabilidad decidirán la adopción"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un supermercado atiende a personas con idiomas, capacidades, presupuestos y acceso bancario distintos. Exigir un teléfono reciente o una cuenta concreta puede convertir la comodidad de unos en exclusión para otros. Texto grande, controles accesibles, señales visuales y sonoras claras, ayuda y pagos alternativos merecen tanta atención como la precisión del reconocimiento. El diseño original de Carrefour Flash recuerda que la compra automatizada rápida y la opción de efectivo no tienen por qué ser incompatibles."
+      },
+      {
+        "type": "paragraph",
+        "text": "La fiabilidad incluye situaciones poco vistosas: batería agotada, conexión fallida, código dañado, artículo con restricción de edad o cobro discutido. La solución alternativa debería ser evidente. La seguridad también abarca actualizaciones, integraciones de pago y accesos de proveedores. La tecnología más convincente permite terminar de comprar la cena cuando falla su recorrido preferido. Es una exigencia operativa, no un adorno futurista."
+      },
+      {
+        "type": "heading",
+        "text": "Una perspectiva realista para los supermercados de 2030"
+      },
+      {
+        "type": "paragraph",
+        "text": "El escenario más plausible para PRESDA es mixto. Más tiendas podrían combinar previsión, etiquetas conectadas, asistentes digitales y tareas automatizadas concretas, conservando empleados y varias formas de pagar. Los carritos inteligentes y los formatos sin caja podrían crecer donde el tamaño de las cestas, la demanda y los costes lo justifiquen. Es una inferencia de los ejemplos contrastados anteriores, no un calendario garantizado ni una previsión de cuota de mercado."
+      },
+      {
+        "type": "paragraph",
+        "text": "El escenario menos seguro sería la generalización de supermercados dirigidos por robots de propósito general, sin empleados ni alternativas convencionales de pago. La fiabilidad, los costes de integración, la aceptación y la responsabilidad siguen siendo obstáculos importantes. En 2030, los criterios relevantes deberían ser sencillos: menos productos esenciales agotados, cuentas exactas, menos desperdicio evitable, servicio accesible y trabajo digno. El futuro pertenece a las tiendas que resuelvan esos problemas, aunque nadie note la IA. Para conocer la producción detrás de una categoría alimentaria familiar, lee también nuestro reportaje sobre la historia y la ciencia del chocolate. [También en PRESDA](/articles/chocolate-ancient-cacao-global-obsession/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Amazon’s explanation of identification and tracking",
+        "url": "https://www.aboutamazon.com/news/retail/how-does-amazon-just-walk-out-work"
+      },
+      {
+        "label": "Amazon’s updated retail strategy",
+        "url": "https://www.aboutamazon.com/news/retail/amazon-just-walk-out-dash-cart-grocery-shopping-checkout-stores"
+      },
+      {
+        "label": "Associated Press on the closures",
+        "url": "https://apnews.com/article/6db095b6631fecfe03e5f2fc2ad63b69"
+      },
+      {
+        "label": "Amazon’s redesigned Dash Cart",
+        "url": "https://www.aboutamazon.com/news/retail/amazon-redesigned-dash-cart-whole-foods-market"
+      },
+      {
+        "label": "Walmart’s Sparky launch",
+        "url": "https://corporate.walmart.com/news/2025/06/06/walmart-the-future-of-shopping-is-agentic-meet-sparky"
+      },
+      {
+        "label": "Sam’s Club exit technology",
+        "url": "https://corporate.walmart.com/about/samsclub/news/2024/04/30/sams-club-deploys-ai-powered-exit-technology-at-120-locations-leading-retail-industry-with-customer-experience-innovation"
+      },
+      {
+        "label": "Carrefour’s Flash launch",
+        "url": "https://www.carrefour.com/en/news/2021/carrefour-launches-carrefour-flash-1010-its-next-generation-concept-store"
+      },
+      {
+        "label": "Hopla’s original launch",
+        "url": "https://www.carrefour.com/en/news/2023/carrefour-integrates-openai-technologies-and-launches-generative-ai-powered-shopping"
+      },
+      {
+        "label": "Carrefour’s 2026 Hopla update",
+        "url": "https://www.carrefour.com/en/news/2026/carrefour-puts-artificial-intelligence-service-eating-better-hopla"
+      },
+      {
+        "label": "Sam’s Club inventory robots",
+        "url": "https://corporate.walmart.com/about/samsclub/news/2022/01/27/sams-club-begins-national-deployment-of-automated-inventory-analytics-robots"
+      },
+      {
+        "label": "Walmart’s supply-chain account",
+        "url": "https://corporate.walmart.com/news/2025/07/17/walmarts-us-supply-chain-playbook-goes-global-and-its-reinventing-retail-at-scale"
+      },
+      {
+        "label": "Walmart’s March 2026 update",
+        "url": "https://corporate.walmart.com/news/2026/03/02/how-the-shelf-got-smarter-and-our-jobs-got-easier"
+      },
+      {
+        "label": "Walmart’s pricing explanation",
+        "url": "https://corporate.walmart.com/about/everyday-affordability/digital-shelf-labels"
+      },
+      {
+        "label": "FTC surveillance-pricing findings",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-surveillance-pricing-study-indicates-wide-range-personal-data-used-set-individualized-consumer"
+      },
+      {
+        "label": "BLS cashier outlook",
+        "url": "https://www.bls.gov/ooh/sales/cashiers.htm"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/future-supermarkets-ai-robots-cashierless-shopping/",
+    "path": "/fr/articles/future-supermarkets-ai-robots-cashierless-shopping/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-20",
+      "terminologyChecked": true
+    },
+    "title": "L’avenir des supermarchés : IA, robots et achats sans caisse",
+    "seoTitle": "Supermarchés du futur : IA, robots et achats sans caisse",
+    "description": "Amazon, Walmart, Carrefour : découvrez les chariots intelligents et assistants IA, leurs coûts, les enjeux de confidentialité et les perspectives pour 2030.",
+    "excerpt": "Amazon, Walmart, Carrefour : découvrez les chariots intelligents et assistants IA, leurs coûts, les enjeux de confidentialité et les perspectives pour 2030.",
+    "headlineHighlights": {
+      "red": "L’avenir des supermarchés",
+      "gold": "IA, robots"
+    },
+    "keywords": [
+      "L’avenir des supermarchés",
+      "IA, robots"
+    ],
+    "searchIntent": "Amazon, Walmart, Carrefour : découvrez les chariots intelligents et assistants IA, leurs coûts, les enjeux de confidentialité et les perspectives pour 2030.",
+    "category": "Business",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "image": {
+      "src": "/articles/supermarket-2026-hero.png",
+      "alt": "Illustration éditoriale générée par IA pour PRESDA : clients et chariot intelligent dans un supermarché imaginaire. Ce n’est pas une photographie d’un dispositif Amazon, Walmart ou Carrefour."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le supermarché du futur sera peut-être le plus impressionnant lorsqu’il n’aura rien de futuriste en apparence. Le produit recherché est en rayon. Un chariot affiche le coût du panier avant la sortie. Un employé retrouve rapidement un article. Vous repartez avec les bons achats et un ticket compréhensible. Derrière ces réussites ordinaires pourraient fonctionner des caméras, des logiciels de prévision, des étiquettes connectées et des robots."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les achats sans passage en caisse, les chariots intelligents et les assistants d’IA existent déjà, mais ce sont des technologies différentes, avec des équilibres économiques distincts. Aucune ne prouve que les supermarchés fonctionneront sans personnel en 2030. Cet article distingue les déploiements documentés, les ambitions des entreprises et l’analyse prospective conditionnelle de PRESDA, à partir d’informations vérifiées le 20 octobre 2026. La question centrale est de savoir si l’automatisation rend les courses plus fiables et abordables, au-delà de leur caractère spectaculaire."
+      },
+      {
+        "type": "heading",
+        "text": "Que signifie vraiment faire ses courses sans caisse ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La caisse automatique classique demande au client de scanner ses produits sur une borne. Le scan mobile déplace ce travail vers un téléphone ou un lecteur portable. Un chariot intelligent peut associer lecture des codes, pesée et reconnaissance des produits au calcul du montant des achats. Un magasin équipé de caméras cherche plutôt à attribuer les produits choisis au panier virtuel du client, puis à organiser le paiement. Ces solutions suppriment des étapes différentes. Un magasin peut automatiser le contrôle du ticket sans automatiser l’achat lui-même."
+      },
+      {
+        "type": "paragraph",
+        "text": "Amazon décrit Just Walk Out comme une combinaison de vision par ordinateur, de fusion de données issues de capteurs et d’IA pour identifier les actions d’achat. Le système déduit ce qui a été pris, reposé et acheté ; il ne comprend pas parfaitement toutes les situations. Des produits semblables, un article remis au mauvais endroit ou des personnes faisant leurs courses ensemble posent des difficultés concrètes. Un service crédible doit permettre de corriger une facturation erronée et de joindre quelqu’un. [Source: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/how-does-amazon-just-walk-out-work)"
+      },
+      {
+        "type": "heading",
+        "text": "Amazon : une invention réelle face à l’économie alimentaire"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’expérience d’Amazon invite à ne pas confondre démonstration impressionnante et modèle économique inévitable. En janvier 2026, l’entreprise a annoncé la fermeture des magasins physiques Amazon Go et Amazon Fresh, certains devant devenir des Whole Foods Market. Elle expliquait que ses formats alimentaires sous marque Amazon n’avaient pas atteint l’expérience différenciée et l’équilibre économique nécessaires à une expansion à grande échelle. Cette décision concernait ces formats physiques, sans signifier la disparition de son activité alimentaire en ligne. [Source: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/amazon-just-walk-out-dash-cart-grocery-shopping-checkout-stores) [Source: apnews.com](https://apnews.com/article/6db095b6631fecfe03e5f2fc2ad63b69)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il faut donc évaluer séparément la technologie et les magasins. Amazon continue de proposer Just Walk Out à d’autres exploitants tout en développant des chariots pour les achats alimentaires plus importants. Une course rapide dans un aéroport et les provisions hebdomadaires d’une famille diffèrent par la taille du panier, l’agencement et les attentes. La leçon n’est ni que tous les systèmes sans caisse ont échoué, ni que tous les supermarchés en adopteront un. L’automatisation du paiement doit toujours s’inscrire dans une offre commerciale viable."
+      },
+      {
+        "type": "heading",
+        "text": "Le chariot intelligent rend la facture visible avant la sortie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le Dash Cart remanié d’Amazon illustre une autre approche. Les fonctions présentées comprennent un total actualisé, un lecteur de codes, une balance pour les fruits et légumes et une voie de sortie dédiée qui déclenche le paiement. Amazon cite des Whole Foods à McKinney, Reston et Westford parmi les premiers sites de cette génération et annonce une extension à des dizaines de magasins d’ici fin 2026. Cet objectif ne doit pas être présenté comme un déploiement déjà achevé. [Source: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/amazon-redesigned-dash-cart-whole-foods-market)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Voir la facture peut compter autant que gagner quelques minutes. Le client peut retirer un produit trop cher avant de payer et vérifier l’application d’une réduction. En contrepartie, le matériel devient plus complexe : écrans, capteurs, recharge, réparations et logiciels nécessitent un suivi. Les distributeurs devraient tester son confort d’utilisation, notamment pour les personnes ayant une mobilité limitée, une déficience visuelle ou peu d’aisance numérique. Le meilleur chariot n’est pas nécessairement celui qui possède le plus de fonctions."
+      },
+      {
+        "type": "heading",
+        "text": "Walmart : assistance aux achats et sortie accélérée, deux projets"
+      },
+      {
+        "type": "paragraph",
+        "text": "Walmart a présenté Sparky en juin 2025 comme un assistant d’IA générative capable notamment de résumer les avis et de recommander des produits. L’annonce évoquait aussi des fonctions futures, dont le réapprovisionnement automatique et la réservation de services. Ces promesses ne doivent pas être confondues avec des fonctions disponibles partout dès le lancement. Une interface conversationnelle peut faciliter l’exploration d’un grand catalogue, mais ses réponses doivent correspondre aux produits, stocks, prix et conditions de livraison réels. [Source: corporate.walmart.com](https://corporate.walmart.com/news/2025/06/06/walmart-the-future-of-shopping-is-agentic-meet-sparky)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chez Sam’s Club, qui appartient à Walmart, un autre projet de vision par ordinateur contrôle les achats à la sortie. L’entreprise annonçait plus de 120 sites équipés en avril 2024. Il s’agit d’une étape datée, pas du nombre actuel de magasins. Le dispositif réduit le recours à la vérification manuelle du ticket après paiement ; il ne faut pas le présenter comme une copie du suivi dans tout le magasin d’Amazon. Distinguer transaction et vérification aide à comprendre la technologie et à évaluer ses bénéfices. [Source: corporate.walmart.com](https://corporate.walmart.com/about/samsclub/news/2024/04/30/sams-club-deploys-ai-powered-exit-technology-at-120-locations-leading-retail-industry-with-customer-experience-innovation)"
+      },
+      {
+        "type": "heading",
+        "text": "Carrefour : un magasin test et un assistant conversationnel"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le magasin test Flash 10/10 de Carrefour a ouvert à Paris en novembre 2021 avec la technologie d’AiFi. L’annonce décrivait une reconnaissance des produits sans scan individuel, suivie d’une validation du panier et d’un paiement sans contact sur une borne. Elle prévoyait également une solution de paiement en espèces et quatre employés pour faire fonctionner le magasin. Ce n’était pas une promesse de transformer tous les Carrefour en commerces sans personnel, et l’annonce de lancement ne suffit pas à établir son implantation actuelle. [Source: www.carrefour.com](https://www.carrefour.com/en/news/2021/carrefour-launches-carrefour-flash-1010-its-next-generation-concept-store)"
+      },
+      {
+        "type": "paragraph",
+        "text": "En ligne, Carrefour a suivi une autre voie avec Hopla, annoncé en juin 2023 pour composer des paniers selon un budget, des menus ou des contraintes alimentaires. Sa présentation de 2026 décrit des fonctions supplémentaires d’analyse du panier et des images ainsi qu’une aide au choix alimentaire. Il s’agit d’un accompagnement logiciel, pas d’un robot physique dans les allées. Les suggestions personnalisées doivent rester des suggestions : un dialogue fluide ne peut remplacer de manière sûre les étiquettes, les informations sur les allergènes et, si nécessaire, un avis professionnel. [Source: www.carrefour.com](https://www.carrefour.com/en/news/2023/carrefour-integrates-openai-technologies-and-launches-generative-ai-powered-shopping) [Source: www.carrefour.com](https://www.carrefour.com/en/news/2026/carrefour-puts-artificial-intelligence-service-eating-better-hopla)"
+      },
+      {
+        "type": "heading",
+        "text": "Le robot le plus utile observe peut-être les rayons"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’image de l’assistant humanoïde détourne l’attention de machines moins théâtrales. En janvier 2022, Sam’s Club a annoncé l’ajout de tours d’analyse des stocks à ses autolaveuses robotisées, avec Brain Corp et Tennant. Cette double fonction avait un objectif pratique : en circulant dans le bâtiment, les machines pouvaient recueillir des informations sur les stocks, l’emplacement des produits, la conformité de l’agencement et les prix affichés, tout en remplissant une fonction de nettoyage. [Source: corporate.walmart.com](https://corporate.walmart.com/about/samsclub/news/2022/01/27/sams-club-begins-national-deployment-of-automated-inventory-analytics-robots)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Repérer un espace vide ne revient pas à le remplir. Un employé peut encore devoir retrouver un carton en réserve, vérifier son état et réapprovisionner le rayon. Les robots circulant parmi les clients nécessitent aussi des trajets sûrs, de la maintenance et des procédures en cas d’allée bloquée. À court terme, une assistance spécialisée est plus plausible qu’une machine capable de toutes les tâches. Cette distinction entre automatisation spécialisée et machines polyvalentes est également au cœur de notre article sur la révolution robotique. [À lire sur PRESDA](/articles/robot-revolution-ai-future-2030/)"
+      },
+      {
+        "type": "heading",
+        "text": "Prévoir les stocks avant que le rayon se vide"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les systèmes de prévision cherchent à relier demande et réapprovisionnement. Une prévision utile doit composer avec les promotions, la météo, les événements locaux et les habitudes changeantes. Les ventes seules peuvent tromper : un produit peut sembler impopulaire parce qu’il était indisponible. Il faut donc rapprocher les données de stock de la réalité physique. Dans sa présentation logistique de 2025, Walmart décrit la prévision assistée par IA, l’orientation des stocks et l’automatisation comme des composantes d’un ensemble. Ce sont des descriptions de l’entreprise, pas une preuve indépendante de la disparition des ruptures. [Source: corporate.walmart.com](https://corporate.walmart.com/news/2025/07/17/walmarts-us-supply-chain-playbook-goes-global-and-its-reinventing-retail-at-scale)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les produits frais compliquent particulièrement l’exercice. Commander trop peu fait perdre des ventes ; trop commander risque de générer du gaspillage. Un système efficace doit tenir compte de la durée de conservation, de la température, de la fiabilité des livraisons et des substitutions acceptables. Automatiser une donnée de stock erronée ne fait qu’accélérer l’erreur. Une meilleure mesure, des contrôles physiques et des responsabilités claires comptent donc autant qu’un modèle sophistiqué. Le rayon est l’aboutissement d’une chaîne logistique, pas un écran isolé."
+      },
+      {
+        "type": "heading",
+        "text": "Étiquette numérique ne signifie pas prix individualisé"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les étiquettes électroniques remplacent les affichettes papier et facilitent la diffusion des changements de prix approuvés. En mars 2026, Walmart indiquait qu’environ 2 300 établissements américains les utilisaient et prévoyait une couverture nationale dans l’année suivante. L’entreprise décrit aussi des signaux lumineux aidant les salariés à localiser les produits pour le réassort et les commandes en ligne. Ce chiffre est un état des lieux communiqué par l’entreprise ; l’extension constitue un objectif. [Source: corporate.walmart.com](https://corporate.walmart.com/news/2026/03/02/how-the-shelf-got-smarter-and-our-jobs-got-easier)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un écran numérique n’est pas en soi un algorithme décidant du prix à facturer à une personne. Walmart affirme que ses étiquettes affichent uniformément des prix fixés de façon centrale et ne servent pas à personnaliser les prix en rayon. Il faut distinguer cette politique de ce que la technologie pourrait permettre. Le distributeur doit néanmoins faire concorder rayon, application, promotion et caisse. Une mise à jour plus rapide n’est un progrès que si l’information reste exacte et compréhensible. [Source: corporate.walmart.com](https://corporate.walmart.com/about/everyday-affordability/digital-shelf-labels)"
+      },
+      {
+        "type": "heading",
+        "text": "Personnalisation : conseil utile ou argumentaire plus efficace ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un assistant pourrait aider une famille à planifier ses repas selon son budget ou éviter de rechercher sans cesse les mêmes produits essentiels. Mais le distributeur cherche aussi à vendre. Une recommandation peut refléter une promotion, un accord publicitaire, les stocks ou des priorités commerciales plutôt que l’option adaptée la moins chère. Le client devrait pouvoir identifier les placements sponsorisés, comparer les prix unitaires et consulter des alternatives. Une réponse pratique n’est pas nécessairement neutre."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le risque augmente lorsque l’assistant est autorisé à agir. Proposer une liste n’équivaut pas à autoriser des substitutions, engager une dépense ou répéter une commande. Une conception responsable rendrait explicites le budget, les exclusions, les frais de livraison et l’approbation finale. Ce sont des critères éditoriaux d’évaluation des services futurs, pas l’affirmation que tous les outils actuels les respectent. L’automatisation devrait préserver la capacité du client à examiner, modifier et annuler une décision."
+      },
+      {
+        "type": "heading",
+        "text": "La confidentialité se conçoit dès le départ"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le suivi des produits par caméra, les profils de fidélité et l’identification biométrique sont des processus distincts. L’un n’implique pas automatiquement les autres. Amazon affirme que Just Walk Out suit l’activité d’achat sans recourir à la reconnaissance faciale ni à l’identification biométrique. Cela ne règle pas toutes les questions : les clients doivent comprendre quelles données sont collectées, combien de temps elles sont conservées, qui y accède et comment elles sont reliées aux paiements ou aux comptes. [Source: www.aboutamazon.com](https://www.aboutamazon.com/news/retail/how-does-amazon-just-walk-out-work)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les conclusions intermédiaires publiées en janvier 2025 par la Federal Trade Commission américaine examinaient l’utilisation possible de données personnelles par les intermédiaires de tarification pour influencer prix et promotions. Elles justifient l’examen de ces pratiques sans prouver que chaque supermarché cité individualise ses prix. Les questions concrètes sont précises : peut-on acheter sans programme de fidélité, refuser le profilage facultatif et contester une donnée erronée ? Des réponses claires inspirent davantage confiance qu’une promesse d’anonymat dont les limites ne sont pas expliquées. [Source: www.ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-surveillance-pricing-study-indicates-wide-range-personal-data-used-set-individualized-consumer)"
+      },
+      {
+        "type": "heading",
+        "text": "Combien coûte réellement l’automatisation ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il n’existe pas de prix universel défendable pour convertir un supermarché au sans-caisse. La surface, l’agencement, l’assortiment, les paiements existants et le contrat fournisseur modifient le calcul. Une évaluation sérieuse comprend installation, matériel, abonnements, réseau, maintenance, formation, traitement des paiements, gestion des erreurs et remplacement futur. Il faut comparer ces coûts aux améliorations mesurées, sans supposer que tout le travail d’encaissement disparaît dès le premier jour."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le distributeur devrait mesurer le parcours entier. Le système réduit-il l’attente et les paniers abandonnés, ou déplace-t-il les délais vers la création du compte et les contestations ? Diminue-t-il le gaspillage sans augmenter les ruptures ? Le magasin peut-il continuer à vendre pendant une panne ? Un essai exige une situation de référence comparable, un budget de maintenance réaliste et des résultats en périodes calmes comme chargées. Le recul d’Amazon sur ses propres formats alimentaires rend ces questions concrètes. Faisabilité technique et viabilité économique sont deux tests distincts."
+      },
+      {
+        "type": "heading",
+        "text": "Des métiers transformés, pas forcément des magasins sans salariés"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’automatisation peut réduire la demande pour certaines tâches tout en créant du travail ailleurs. Le Bureau of Labor Statistics américain prévoit une baisse de 6 % de l’emploi des caissiers entre 2025 et 2035, tout en anticipant de nombreux postes à pourvoir pour remplacer les personnes quittant le métier ou la vie active. Il s’agit d’une projection américaine pour le commerce, pas d’une prévision mondiale des supermarchés ni d’une mesure des pertes attribuables uniquement à l’IA. [Source: www.bls.gov](https://www.bls.gov/ooh/sales/cashiers.htm)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les magasins ont encore besoin de réceptionner, réassortir, préparer les aliments, nettoyer, assister les clients et exercer un jugement en cas de problème. La reconversion des caissiers dépend du recrutement, des formations rémunérées, des horaires et du marché du travail local. La promesse de libérer les employés pour un meilleur travail doit être confrontée aux heures, aux salaires et à la charge réels. Une file plus courte bénéficie au client ; elle ne démontre pas à elle seule une transition juste pour les salariés."
+      },
+      {
+        "type": "heading",
+        "text": "Accessibilité et fiabilité décideront de l’adoption"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un supermarché accueille des personnes aux langues, capacités, budgets et accès bancaires variés. Exiger un smartphone récent ou un compte de paiement particulier peut transformer la commodité des uns en exclusion des autres. Grands caractères, commandes accessibles, signaux sonores et visuels clairs, assistance et moyens de paiement alternatifs méritent autant d’attention que la reconnaissance des produits. Le concept initial de Carrefour Flash rappelle utilement que rapidité automatisée et possibilité de payer en espèces ne sont pas incompatibles."
+      },
+      {
+        "type": "paragraph",
+        "text": "La fiabilité inclut des situations peu spectaculaires : batterie épuisée, connexion interrompue, code-barres abîmé, article soumis à une limite d’âge ou facturation contestée. La solution de secours devrait être évidente. La sécurité concerne aussi les mises à jour, les intégrations de paiement et les accès des fournisseurs. La technologie la plus convaincante permet encore d’acheter son dîner lorsque le parcours prévu échoue. C’est une exigence opérationnelle, pas un effet futuriste."
+      },
+      {
+        "type": "heading",
+        "text": "Un scénario réaliste pour les supermarchés de 2030"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le scénario le plus plausible selon PRESDA est hybride. Davantage de magasins pourraient associer prévision, étiquettes connectées, assistants numériques et certaines tâches automatisées, tout en conservant des salariés et plusieurs moyens de payer. Chariots intelligents et formats sans caisse pourraient progresser là où la taille des paniers, la demande et les coûts le justifient. Cette analyse découle des exemples contrastés présentés ici ; ce n’est ni un calendrier garanti ni une prévision de part de marché."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le scénario plus incertain serait la généralisation de supermarchés gérés par des robots polyvalents, sans employés ni alternatives de paiement classiques. Fiabilité du matériel, coûts d’intégration, acceptation et responsabilité restent des obstacles importants. En 2030, les critères utiles devraient être simples : moins de produits essentiels indisponibles, des factures exactes, moins de gaspillage évitable, un service accessible et un travail décent. L’avenir appartient aux magasins qui résolvent ces problèmes, même si leur IA reste invisible. Pour explorer la production d’une catégorie alimentaire familière, découvrez aussi notre histoire scientifique du chocolat. [À lire sur PRESDA](/articles/chocolate-ancient-cacao-global-obsession/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Amazon’s explanation of identification and tracking",
+        "url": "https://www.aboutamazon.com/news/retail/how-does-amazon-just-walk-out-work"
+      },
+      {
+        "label": "Amazon’s updated retail strategy",
+        "url": "https://www.aboutamazon.com/news/retail/amazon-just-walk-out-dash-cart-grocery-shopping-checkout-stores"
+      },
+      {
+        "label": "Associated Press on the closures",
+        "url": "https://apnews.com/article/6db095b6631fecfe03e5f2fc2ad63b69"
+      },
+      {
+        "label": "Amazon’s redesigned Dash Cart",
+        "url": "https://www.aboutamazon.com/news/retail/amazon-redesigned-dash-cart-whole-foods-market"
+      },
+      {
+        "label": "Walmart’s Sparky launch",
+        "url": "https://corporate.walmart.com/news/2025/06/06/walmart-the-future-of-shopping-is-agentic-meet-sparky"
+      },
+      {
+        "label": "Sam’s Club exit technology",
+        "url": "https://corporate.walmart.com/about/samsclub/news/2024/04/30/sams-club-deploys-ai-powered-exit-technology-at-120-locations-leading-retail-industry-with-customer-experience-innovation"
+      },
+      {
+        "label": "Carrefour’s Flash launch",
+        "url": "https://www.carrefour.com/en/news/2021/carrefour-launches-carrefour-flash-1010-its-next-generation-concept-store"
+      },
+      {
+        "label": "Hopla’s original launch",
+        "url": "https://www.carrefour.com/en/news/2023/carrefour-integrates-openai-technologies-and-launches-generative-ai-powered-shopping"
+      },
+      {
+        "label": "Carrefour’s 2026 Hopla update",
+        "url": "https://www.carrefour.com/en/news/2026/carrefour-puts-artificial-intelligence-service-eating-better-hopla"
+      },
+      {
+        "label": "Sam’s Club inventory robots",
+        "url": "https://corporate.walmart.com/about/samsclub/news/2022/01/27/sams-club-begins-national-deployment-of-automated-inventory-analytics-robots"
+      },
+      {
+        "label": "Walmart’s supply-chain account",
+        "url": "https://corporate.walmart.com/news/2025/07/17/walmarts-us-supply-chain-playbook-goes-global-and-its-reinventing-retail-at-scale"
+      },
+      {
+        "label": "Walmart’s March 2026 update",
+        "url": "https://corporate.walmart.com/news/2026/03/02/how-the-shelf-got-smarter-and-our-jobs-got-easier"
+      },
+      {
+        "label": "Walmart’s pricing explanation",
+        "url": "https://corporate.walmart.com/about/everyday-affordability/digital-shelf-labels"
+      },
+      {
+        "label": "FTC surveillance-pricing findings",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-surveillance-pricing-study-indicates-wide-range-personal-data-used-set-individualized-consumer"
+      },
+      {
+        "label": "BLS cashier outlook",
+        "url": "https://www.bls.gov/ooh/sales/cashiers.htm"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/galileo-and-the-church/",
     "path": "/ar/articles/galileo-and-the-church/",
     "kind": "article",
