@@ -1,0 +1,57 @@
+The Orient Express has always been more than a way of reaching a destination. Its name suggests a dining-car lamp, a corridor at night and a continent unfolding beyond glass. Yet that powerful image can obscure an essential fact: there was never one unchanging train, travelling one route with one set of carriages for more than a century.
+
+There was a historic international service, a changing family of routes and, later, several distinct luxury and heritage projects. Understanding those differences makes the story more interesting and a modern booking less confusing. The original Orient Express, Belmond’s Venice Simplon-Orient-Express and La Dolce Vita Orient Express should not be treated as interchangeable products. The illustrated hero is an imagined luxury carriage, not proof of the interior, route or landscape of any actual service.
+
+## 1883: an international journey becomes an experience
+
+The project associated with Belgian entrepreneur Georges Nagelmackers and the Compagnie Internationale des Wagons-Lits joined sleeping and dining facilities to long-distance European travel. SNCF records the ceremonial inauguration in Paris on 4 October 1883. The achievement was not simply decorative. An international train required agreements between railway administrations and a coordinated journey across frontiers. Comfort became part of the transport proposition rather than something postponed until arrival. [SNCF: origins of the Orient Express](https://www.groupe-sncf.com/en/group/history-archives/orient-express)
+
+The first connection towards Constantinople, now Istanbul, was not an uninterrupted railway ride all the way. Passengers needed connecting transport, including a sea passage. A through rail connection became possible in 1889. That distinction matters: the familiar map of a seamless Paris-to-Istanbul journey should not be projected backwards onto every departure from the beginning. SNCF’s archives preserve the agreements behind this evolving service. [SNCF archives: international agreements and the 1889 connection](https://www.archives.sncf.com/de-lexpress-dorient-a-lorient-express-les-origines-dun-train-mythique/)
+
+## Routes changed with Europe
+
+The historic story includes the central European axis through cities such as Vienna and Budapest, and later a southern route through Switzerland and northern Italy. The Simplon-Orient-Express began in 1919, using the Simplon corridor and continuing through cities including Milan, Venice and Trieste. It belonged to the political and railway geography after the First World War, not merely to a marketing decision about a prettier view. [Railway timetable history: the Simplon service](https://www.forumtraineurope.eu/fileadmin/Downloads/FTE_Booklet_compressed.pdf)
+
+Wars, borders and changing transport markets disrupted and reshaped the services. It is therefore better to ask which year, route and carriage an account concerns than speak of a single eternal itinerary. A poster, a timetable and a surviving dining car tell different parts of the story. The apparent continuity of the name should not conceal the work, diplomacy and interruptions behind the journey.
+
+## Luxury was built by craftspeople and railway workers
+
+The visual language associated with the train includes polished wood, patterned textiles, glass and carefully arranged dining spaces. In the twentieth century, designers including René Lalique and René Prou contributed to selected coaches. Art Deco interiors belong to particular periods and vehicles; they were not all present on the inaugural 1883 train. A restored carriage can contain historic workmanship alongside later conservation and adaptation. [SNCF: carriage design and craftsmanship](https://www.groupe-sncf.com/en/group/history-archives/orient-express)
+
+Luxury on rails also depended on labour that the glamorous photographs tend to hide. Beds had to be prepared, meals served in motion, luggage handled and mechanical systems maintained. The compartment became a temporary private space within a tightly organised shared machine. That contrast still defines the appeal: privacy and sociability, movement and enclosure, a changing view outside and a carefully managed world within.
+
+## Famous travellers and a fictional detective
+
+Agatha Christie is a particularly well-documented passenger. Her official literary estate records her first Orient Express journey in 1928 and the publication of Murder on the Orient Express in 1934. The novel helped turn a train into a cultural setting: strangers confined together, social differences compressed into compartments, and a journey interrupted. Hercule Poirot is fictional; his presence in the train’s mythology should not be mistaken for an episode in railway history. [Agatha Christie: the journey and the novel](https://www.agathachristie.com/en/film-and-tv/murder-on-the-orient-express/facts-about-murder-on-the-orient-express)
+
+SNCF’s historical account also lists passengers including Marlene Dietrich and King Ferdinand of Bulgaria. Such names illustrate the train’s association with celebrity and political elites, but they are not a licence to invent conversations, romances or espionage scenes. Its cultural legacy rests as much on novels, film and advertising as on documented passenger records. A compelling travel story becomes stronger, not weaker, when it identifies the boundary between archive and imagination. [SNCF: recorded celebrity associations](https://www.groupe-sncf.com/en/group/history-archives/orient-express)
+
+## Belmond’s Venice Simplon-Orient-Express
+
+James Sherwood’s restoration project led to the launch of the Venice Simplon-Orient-Express in 1982. Today it is operated by Belmond and uses historic carriages as part of a contemporary luxury travel business. It is a revival with material links to railway heritage, not an unchanged continuation of the 1883 timetable. Understanding that distinction does not diminish the craftsmanship or pleasure of the journey. [Belmond: history of the revival](https://www.belmond.com/en/stories/history-of-the-venice-simplon-orient-express)
+
+The current journey programme includes different European city pairings and special itineraries. Do not assume that every departure runs between Paris and Istanbul, or that an old brochure’s London connection is included in a present booking. Read the actual departure station, arrival station, dates and transfer arrangements. Belmond has also marketed journeys combining rail travel with its Italian hotels, including a 2026 itinerary via Pompeii. A named destination in a package may involve a transfer or excursion, not a platform beside the hotel. [Current Belmond journeys](https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/journeys) [The Pompeii itinerary](https://mediahub.belmond.com/villeggiatura-by-train-the-venice-simplon-orient-express-a-belmond-train-europe-announces-first-ever-paris-to-the-amalfi-coast-journey/)
+
+## La Dolce Vita and the separate historic-carriage project
+
+La Dolce Vita Orient Express launched in 2025 as a distinct project developed with Arsenale and railway partners. Its identity draws on Italian design and travel, rather than pretending to be the same historic convoy as Belmond’s train. The operator offers its own itineraries, cabins, booking conditions and inclusions. Compare them directly instead of choosing on the shared words “Orient Express” alone. [La Dolce Vita: launch and partners](https://www.orient-express.com/la-dolce-vita/the-grand-premiere-of-la-dolce-vita-orient-express/)
+
+A further distinction concerns L’Orient Express, the restored-carriage project described by the Orient Express brand. At our 21 October 2026 review, its official page presented a 2027 return using 17 cars from the 1920s and 1930s, formerly associated with the Nostalgie-Istanbul-Orient-Express. That is a stated future plan, not a service this article claims to have taken or verified as already operating. Confirm launch, routes and sale conditions directly before arranging a journey around it. [Official L’Orient Express project](https://www.orient-express.com/en/trains/the-orient-express)
+
+## What the cabin description really means
+
+A photograph of a grand suite does not describe every berth on a train. Belmond distinguishes Historic Cabins from its suite products and other premium accommodation. Its published descriptions specify shared toilets at the ends of sleeper carriages for Historic Cabins. That practical detail matters more to some travellers than the upholstery. Check bed configuration, private washing facilities, storage, air-conditioning arrangements and the space available when beds are made up. [Belmond: accommodation categories](https://www.belmond.com/es/trains/europe/venice-simplon-orient-express/accommodation)
+
+Ask about mobility before committing to a non-refundable booking. Historic dimensions, steps and narrow corridors can limit access, and one train’s arrangements do not establish another’s. Dietary needs, assistance, luggage and medical requirements also deserve direct discussion. A high price is not proof that a particular need can be met. La Dolce Vita publishes its own health and accessibility guidance, which should be checked alongside the specific itinerary. [La Dolce Vita: practical questions](https://www.orient-express.com/la-dolce-vita/faq/)
+
+## Price the whole journey
+
+Luxury rail is sold by departure, cabin and package, not by a universal kilometre rate. Compare the total for the same number of travellers, nights and services. Clarify meals, drinks, excursions, hotels, station transfers, taxes and cancellation penalties. Ask whether a headline rate assumes two people sharing and what happens if the operator changes the route. Positioning flights or ordinary trains, a hotel before departure and the return journey can materially increase the final budget.
+
+There is no useful single evergreen price to promise here. A live quotation for a specified date is more reliable than recycling an old promotional starting fare. Save the itinerary and conditions supplied at booking. If your real priority is a European rail journey rather than a particular luxury carriage, compare conventional sleeper and daytime services separately. They offer a different experience, but the landscape does not belong exclusively to a luxury brand.
+
+## Travel slowly, but plan precisely
+
+Choose a route for what can actually be seen during daylight. A mountain crossing at night and a coastal section viewed from a transfer coach are different from the imagined journey in an advertisement. Ask how much time is spent on the train, whether there are scheduled overnight stops and how excursions work. Leave sensible margins around connecting travel. Even an elaborately planned luxury service operates on a real railway network with possible disruption.
+
+For travellers adding an Italian archaeological visit, [PRESDA’s Pompeii guide](https://presda.com/articles/pompeii-history-ruins-visitor-guide/) explains the evidence and practical choices behind the famous ruins. The lasting appeal of the Orient Express is not that it has escaped history. It is that the journey has accumulated histories: engineering, diplomacy, design, fiction and reinvention. Knowing which version you are boarding allows the romance to rest on something more durable than a name. Good planning protects the time and money that make such a special journey possible.

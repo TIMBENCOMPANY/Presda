@@ -10,6 +10,11 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // User-approved illustrations, with localized visible credits: docs/editorial/travel-batch/REVIEW.md.
+  "/articles/travel-africa-hero.png",
+  "/articles/travel-safari-hero.png",
+  "/articles/travel-pompeii-hero.png",
+  "/articles/travel-orient-hero.png",
   "/articles/bilingual-brains-hero.png",
   "/articles/electric-cars-2026-hero.png",
   "/articles/psg-qsi-hero.png",

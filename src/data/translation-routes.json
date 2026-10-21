@@ -136,6 +136,36 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/africa-underrated-travel-destinations/",
+    "path": "/ar/articles/africa-underrated-travel-destinations/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/africa-underrated-travel-destinations/",
+    "path": "/es/articles/africa-underrated-travel-destinations/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/africa-underrated-travel-destinations/",
+    "path": "/fr/articles/africa-underrated-travel-destinations/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/african-safaris-wildlife-conservation-travel/",
+    "path": "/ar/articles/african-safaris-wildlife-conservation-travel/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/african-safaris-wildlife-conservation-travel/",
+    "path": "/es/articles/african-safaris-wildlife-conservation-travel/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/african-safaris-wildlife-conservation-travel/",
+    "path": "/fr/articles/african-safaris-wildlife-conservation-travel/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/ai-danger-development-pause-coxon-hinton-sanders/",
     "path": "/ar/articles/ai-danger-development-pause-coxon-hinton-sanders/"
   },
@@ -3151,6 +3181,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/orient-express-history-luxury-train-travel/",
+    "path": "/ar/articles/orient-express-history-luxury-train-travel/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/orient-express-history-luxury-train-travel/",
+    "path": "/es/articles/orient-express-history-luxury-train-travel/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/orient-express-history-luxury-train-travel/",
+    "path": "/fr/articles/orient-express-history-luxury-train-travel/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/ottoman-empire-rise-and-fall/",
     "path": "/ar/articles/ottoman-empire-rise-and-fall/"
   },
@@ -3388,6 +3433,21 @@
     "locale": "fr",
     "englishPath": "/articles/plastic-surgery-revolution-beauty-at-any-cost/",
     "path": "/fr/articles/plastic-surgery-revolution-beauty-at-any-cost/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/pompeii-history-ruins-visitor-guide/",
+    "path": "/ar/articles/pompeii-history-ruins-visitor-guide/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/pompeii-history-ruins-visitor-guide/",
+    "path": "/es/articles/pompeii-history-ruins-visitor-guide/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/pompeii-history-ruins-visitor-guide/",
+    "path": "/fr/articles/pompeii-history-ruins-visitor-guide/"
   },
   {
     "locale": "ar",

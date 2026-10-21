@@ -1,3 +1,4 @@
+import travelBatchHeroCaptions from "@/data/travelBatchHeroCaptions.json";
 import psgQsiHeroCaptions from "@/data/psgQsiHeroCaptions.json";
 import bilingualBrainsHeroCaptions from "@/data/bilingualBrainsHeroCaptions.json";
 import electricCarsHeroCaptions from "@/data/electricCarsHeroCaptions.json";
@@ -412,6 +413,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in gravityHeroCaptions && <p data-gravity-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gravityHeroCaptions[article.slug as keyof typeof gravityHeroCaptions][locale]}</p>}
         {article.slug in premiumBatchHeroCaptions && <p data-premium-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{premiumBatchHeroCaptions[article.slug as keyof typeof premiumBatchHeroCaptions][locale]}</p>}
         {article.slug === "electric-cars-global-shift-future-gasoline-diesel" && <p data-electric-cars-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{electricCarsHeroCaptions[locale]}</p>}
+        {article.slug in travelBatchHeroCaptions && <p data-travel-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{travelBatchHeroCaptions[article.slug as keyof typeof travelBatchHeroCaptions][locale]}</p>}
         {article.slug === "nasser-al-khelaifi-psg-qsi-70-million-transformation" && <p data-psg-qsi-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{psgQsiHeroCaptions[locale]}</p>}
         {article.slug === "bilingual-brains-speaking-two-languages-mind" && <p data-bilingual-brains-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{bilingualBrainsHeroCaptions[locale]}</p>}
         {article.slug === "future-supermarkets-ai-robots-cashierless-shopping" && <p data-supermarket-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{supermarketHeroCaptions[locale]}</p>}

@@ -32,7 +32,7 @@ for (const article of articles) {
   if (article.coverImage !== '/images/editorial/yassine-bounou.jpg') assert.equal(image.copyrightNotice, undefined, 'No copyright inferred from creation credit');
   assert.deepEqual(rights(articleJsonLd(article).publisher.logo), brandRights);
 }
-assert.equal(credited, 21);
+assert.equal(credited, 25);
 assert.equal(licensed, 2);
 for (const record of publishedTranslations.filter(r => r.kind === 'article')) {
   const original = articles.find(a => '/articles/' + a.slug + '/' === record.englishPath);
@@ -45,4 +45,4 @@ assert.equal(getImageRights('/favicon-dark.png?different').license, undefined, '
 for (const source of ['/unknown.jpg', '/supplied-for-presda.webp', '/future-ai-hero.png', '/articles/brain-hero.png?other', 'toString', '__proto__']) {
   assert.deepEqual(getImageRights(source), {}, 'No guessed rights or prototype fallback');
 }
-console.log(`PASS: ${articles.length} EN heroes and all translations; 21 verified hero credits, two existing photo licenses, one embedded copyright notice, brand credit and unknown-rights safeguards`);
+console.log(`PASS: ${articles.length} EN heroes and all translations; 25 verified hero credits, two existing photo licenses, one embedded copyright notice, brand credit and unknown-rights safeguards`);
