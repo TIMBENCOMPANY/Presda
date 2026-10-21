@@ -19,7 +19,8 @@ const expectedNames = new Map([
   ['our-universe-big-bang-end-of-time', 'PRESDA'], ['our-solar-system-sun-eight-planets-beyond', 'PRESDA'],
   ['extinct-animals-lost-creatures-planet', 'PRESDA'], ['tartaria-lost-empire-history-conspiracy', 'PRESDA'],
   ['future-supermarkets-ai-robots-cashierless-shopping', 'PRESDA'],
-  ['breaking-bad-actor-rj-mitte-dies-at-34', 'Gage Skidmore']
+  ['breaking-bad-actor-rj-mitte-dies-at-34', 'Gage Skidmore'],
+  ['yassine-bounou-africas-safest-hands', 'Franco Arland']
 ]);
 let changedHeroes = 0;
 for (const article of articles) {
@@ -29,7 +30,7 @@ for (const article of articles) {
     assert.deepEqual(image.creator, { '@type': expected === 'PRESDA' ? 'Organization' : 'Person', name: expected });
     changedHeroes++;
   } else assert.equal(image.creator, undefined, 'No guessed ownership for an unverified hero: ' + article.slug);
-  assert.equal(image.license, undefined, 'No new license claims');
+  assert.equal(image.license, ({ 'breaking-bad-actor-rj-mitte-dies-at-34': 'https://creativecommons.org/licenses/by-sa/2.0/', 'yassine-bounou-africas-safest-hands': 'https://www.gettyimages.com/eula?utm_medium=organic&utm_source=google&utm_campaign=iptcurl' })[article.slug], 'Only verified existing photo licenses');
   assert.deepEqual(articleJsonLd(article).publisher.logo.creator, { '@type': 'Organization', name: 'PRESDA' });
 }
 assert.equal(changedHeroes, expectedNames.size);
@@ -58,4 +59,4 @@ for (const locale of ['en', 'fr', 'ar', 'es']) for (const item of media) {
     assert.equal(schema.creator['@type'], item.number === 2 ? 'Organization' : 'Person');
   }
 }
-console.log(`PASS: ${articles.length} EN heroes and all translations audited; 10 verified hero creators, PRESDA brand ownership, 80 licensed image schemas, accurate photographer/agency separation and unknown-creator safeguards`);
+console.log(`PASS: ${articles.length} EN heroes and all translations audited; 11 verified hero creators, PRESDA brand ownership, 80 licensed image schemas, accurate photographer/agency separation and unknown-creator safeguards`);

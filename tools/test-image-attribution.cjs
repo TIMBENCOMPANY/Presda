@@ -30,7 +30,7 @@ function verify(schema, metadata, source, alt, canonical, entries) {
   assert.equal(typeof twitterImage === 'string' ? twitterImage : twitterImage.url, image.contentUrl);
   assert.deepEqual(entries.find(e=>e.url===canonical).images.slice(0, articleSitemapImages(source).length), articleSitemapImages(source));
   assert.ok(!image.contentUrl.includes('/_next/image'));
-  assert.equal(image.license, undefined, 'Do not invent licensing');
+  assert.equal(image.license, ({ '/articles/rj-mitte-gage-skidmore-2018.jpg': 'https://creativecommons.org/licenses/by-sa/2.0/', '/images/editorial/yassine-bounou.jpg': 'https://www.gettyimages.com/eula?utm_medium=organic&utm_source=google&utm_campaign=iptcurl' })[source], 'Only verified existing photo licenses');
   assert.deepEqual(image.creator, getImageCreator(source), 'Only verified image authorship');
 }
 async function main() {

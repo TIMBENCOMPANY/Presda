@@ -1,0 +1,48 @@
+import { getImageCreator } from "@/lib/imageCreators";
+
+type ImageRights = {
+  creditText?: string;
+  copyrightNotice?: string;
+  license?: string;
+  acquireLicensePage?: string;
+};
+
+// Exact published credits, not ownership or licensing inferred from a filename.
+// Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
+const publishedPresdaCredits = new Set([
+  "/articles/bilingual-brains-hero.png",
+  "/articles/electric-cars-2026-hero.png",
+  "/articles/psg-qsi-hero.png",
+  "/articles/roman-empire-power-luxury-life-ancient-rome.png",
+  "/articles/natural-disasters-earthquakes-volcanoes-tsunamis.png",
+  "/articles/highest-paid-athletes-2026.png",
+  "/articles/history-future-of-medicine.png",
+  "/articles/denisovans-lost-humans-dna.png",
+  "/images/articles/peter-margaret-dolphin-experiment.webp",
+  "/images/articles/apple-iphone-18-foldable-future-products.webp"
+]);
+
+export function getImageRights(source: string): ImageRights {
+  if (source === "/images/editorial/yassine-bounou.jpg") {
+    // Original Getty IPTC/XMP: AssetID 2269536756. Both destinations verified.
+    return {
+      creditText: "Franco Arland/Getty Images",
+      copyrightNotice: "2026 Getty Images",
+      license: "https://www.gettyimages.com/eula?utm_medium=organic&utm_source=google&utm_campaign=iptcurl",
+      acquireLicensePage: "https://www.gettyimages.com/detail/2269536756?utm_medium=organic&utm_source=google&utm_campaign=iptcurl"
+    };
+  }
+  if (source === "/articles/rj-mitte-gage-skidmore-2018.jpg") {
+    return {
+      creditText: "Gage Skidmore / Wikimedia Commons",
+      license: "https://creativecommons.org/licenses/by-sa/2.0/",
+      acquireLicensePage: "https://commons.wikimedia.org/wiki/File:RJ_Mitte_at_San_Diego_Con.jpg#Licensing"
+    };
+  }
+  if (getImageCreator(source)?.name === "PRESDA" || publishedPresdaCredits.has(source)) {
+    return { creditText: "PRESDA" };
+  }
+  // Creation credits do not establish copyright ownership or reuse terms.
+  // No publisher, generic contact-page or blanket site-license fallback.
+  return {};
+}

@@ -1,4 +1,5 @@
 import { getImageCreator } from "@/lib/imageCreators";
+import { getImageRights } from "@/lib/imageRights";
 
 const absoluteImageUrl = (path: string) => /^https?:\/\//.test(path) ? path : `https://presda.com${path}`;
 
@@ -22,6 +23,7 @@ export function articleImageJsonLd(source: string, alt: string, canonical: strin
     url: image,
     contentUrl: image,
     ...(creator ? { creator } : {}),
+    ...getImageRights(source),
     description: alt,
     representativeOfPage: true,
     mainEntityOfPage: canonical

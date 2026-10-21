@@ -1,7 +1,7 @@
 export type ImageCreator = { "@type": "Person" | "Organization"; name: string };
 
 // The brand mark and illustrations explicitly credited as PRESDA productions.
-// Evidence for each source is recorded in docs/image-creator-metadata.md.
+// Evidence: docs/image-creator-metadata.md and docs/image-rights-metadata.md.
 export const presdaImageCreator: ImageCreator = { "@type": "Organization", name: "PRESDA" };
 
 const verifiedCreators: Record<string, ImageCreator> = {
@@ -15,7 +15,8 @@ const verifiedCreators: Record<string, ImageCreator> = {
   "/articles/bacteria-hero.png": presdaImageCreator,
   "/articles/universe-presda-hero.png": presdaImageCreator,
   "/articles/solar-hero.png": presdaImageCreator,
-  "/articles/rj-mitte-gage-skidmore-2018.jpg": { "@type": "Person", name: "Gage Skidmore" }
+  "/articles/rj-mitte-gage-skidmore-2018.jpg": { "@type": "Person", name: "Gage Skidmore" },
+  "/images/editorial/yassine-bounou.jpg": { "@type": "Person", name: "Franco Arland" }
 };
 
 /** Unknown sources have no default creator, including AI or supplied artwork. */
