@@ -23,6 +23,15 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (source === "/favicon-dark.png") {
+    // Existing Terms explicitly cover logos, permission and a contact channel.
+    // This applies only to the official brand asset, never to article images.
+    return {
+      creditText: "PRESDA",
+      license: "https://presda.com/terms/",
+      acquireLicensePage: "https://presda.com/terms/"
+    };
+  }
   if (source === "/images/editorial/yassine-bounou.jpg") {
     // Original Getty IPTC/XMP: AssetID 2269536756. Both destinations verified.
     return {

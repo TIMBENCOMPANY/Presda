@@ -9,6 +9,7 @@ const { translationJsonLd } = require('../src/lib/i18n/metadata.ts');
 const fields = ['creditText', 'copyrightNotice', 'license', 'acquireLicensePage'];
 const rights = image => Object.fromEntries(fields.filter(k => k in image).map(k => [k, image[k]]));
 const articles = getPublishedArticles();
+const brandRights = { creditText: 'PRESDA', license: 'https://presda.com/terms/', acquireLicensePage: 'https://presda.com/terms/' };
 let credited = 0, licensed = 0;
 for (const article of articles) {
   const image = articleJsonLd(article).image;
@@ -29,7 +30,7 @@ for (const article of articles) {
     }
   }
   if (article.coverImage !== '/images/editorial/yassine-bounou.jpg') assert.equal(image.copyrightNotice, undefined, 'No copyright inferred from creation credit');
-  assert.deepEqual(rights(articleJsonLd(article).publisher.logo), { creditText: 'PRESDA' });
+  assert.deepEqual(rights(articleJsonLd(article).publisher.logo), brandRights);
 }
 assert.equal(credited, 21);
 assert.equal(licensed, 2);
@@ -37,7 +38,10 @@ for (const record of publishedTranslations.filter(r => r.kind === 'article')) {
   const original = articles.find(a => '/articles/' + a.slug + '/' === record.englishPath);
   assert.deepEqual(rights(translationJsonLd(record).image), rights(articleJsonLd(original).image), record.path);
 }
-assert.deepEqual(rights(organizationJsonLd().logo), { creditText: 'PRESDA' });
+assert.deepEqual(rights(organizationJsonLd().logo), brandRights);
+assert.equal(organizationJsonLd().logo.copyrightNotice, undefined, 'Published general IP terms do not identify a copyright holder');
+assert.equal(getImageRights('/articles/brain-hero.png').license, undefined, 'Brand terms must never be inherited by an article image');
+assert.equal(getImageRights('/favicon-dark.png?different').license, undefined, 'Exact verified brand asset only');
 for (const source of ['/unknown.jpg', '/supplied-for-presda.webp', '/future-ai-hero.png', '/articles/brain-hero.png?other', 'toString', '__proto__']) {
   assert.deepEqual(getImageRights(source), {}, 'No guessed rights or prototype fallback');
 }

@@ -48,10 +48,21 @@ provides an explicit copyright-holder notice, and AI creation credits alone do
 not establish copyright status. We do not turn those credits into ownership
 claims.
 
-No verified image reuse terms or image-licensing page was found for the PRESDA
-brand mark or credited AI illustrations. Their license and acquireLicensePage
-remain omitted. The general site homepage, contact page, privacy policy and
-article URL are not substituted for actual licensing terms.
+Follow-up, 21 October: the live `/terms/` page explicitly covers PRESDA logos,
+requires permission for copying/redistribution, and provides contact information
+for questions about those terms. The exact official brand mark now uses
+`https://presda.com/terms/` for license and acquireLicensePage. This describes
+restricted use, not an open license or an ownership claim. No copyright holder
+is explicitly identified there; the brand PNG also has no embedded copyright
+notice, so copyrightNotice remains omitted. This is not applied to any article
+image or third-party asset. Reuse terms for the credited AI illustrations remain
+unverified and omitted. The homepage and privacy policy are not licensing pages.
+
+Live homepage and `/es/category/paparazzi/` each emit just one ImageObject at
+`NewsMediaOrganization.logo`, from `src/lib/seo.ts` via PublicationDocument.
+Neither emits an article-card ImageObject. CollectionPage and BreadcrumbList
+remain unchanged. Keep those aggregation cards free of redundant image-license
+schema; do not inherit an article's image license onto the brand logo.
 
 Other hero images have no verified exact-source rights record connected to their
 existing ImageObject. They receive no fallback credit, copyright or license.
