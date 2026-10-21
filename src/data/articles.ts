@@ -1,3 +1,4 @@
+import { gamingBatchArticles } from "@/data/gamingBatchArticles";
 import { travelBatchArticles } from "@/data/travelBatchArticles";
 import { psgQsiArticle } from "@/data/psgQsiArticle";
 import { bilingualBrainsArticle } from "@/data/bilingualBrainsArticle";
@@ -222,6 +223,7 @@ export const articles: Article[] = [
   ...extinctionTartary2026Articles,
   supermarketArticle,
   bilingualBrainsArticle,
+  ...gamingBatchArticles,
   ...travelBatchArticles,
   psgQsiArticle,
   electricCarsArticle,

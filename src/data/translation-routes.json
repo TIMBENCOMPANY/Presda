@@ -1066,6 +1066,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/console-wars-playstation-xbox-nintendo/",
+    "path": "/ar/articles/console-wars-playstation-xbox-nintendo/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/console-wars-playstation-xbox-nintendo/",
+    "path": "/es/articles/console-wars-playstation-xbox-nintendo/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/console-wars-playstation-xbox-nintendo/",
+    "path": "/fr/articles/console-wars-playstation-xbox-nintendo/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/cristiano-ronaldo-leaves-portugal-camp-2026/",
     "path": "/ar/articles/cristiano-ronaldo-leaves-portugal-camp-2026/"
   },
@@ -4258,6 +4273,21 @@
     "locale": "fr",
     "englishPath": "/articles/uzbekistan-wins-2026-chess-olympiad-samarkand/",
     "path": "/fr/articles/uzbekistan-wins-2026-chess-olympiad-samarkand/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/video-games-arcades-global-empire/",
+    "path": "/ar/articles/video-games-arcades-global-empire/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/video-games-arcades-global-empire/",
+    "path": "/es/articles/video-games-arcades-global-empire/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/video-games-arcades-global-empire/",
+    "path": "/fr/articles/video-games-arcades-global-empire/"
   },
   {
     "locale": "ar",

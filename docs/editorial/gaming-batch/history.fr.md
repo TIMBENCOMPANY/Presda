@@ -1,0 +1,87 @@
+Une pièce tombe dans une borne. Un téléviseur devient un court de tennis. Des décennies plus tard, un téléphone ouvre un monde partagé et une chambre se transforme en studio de diffusion. L’histoire du jeu vidéo ne se résume pas à des images toujours plus réalistes. Elle raconte qui peut jouer, créer et contrôler les lieux où les joueurs se rencontrent.
+
+En 2026, cet univers rassemble arcades, consoles, ordinateurs, smartphones, compétitions et communautés créatives. Ces marchés se recoupent sans évoluer au même rythme. Un succès commercial peut coexister avec des suppressions de postes, tandis qu’un petit jeu indépendant capte une attention considérable. Cette diversité compte davantage qu’un classement définitif des machines.
+
+## Avant Pong : plusieurs commencements
+
+Le jeu vidéo n’a pas une date de naissance incontestable. Expériences de laboratoire, programmes informatiques et dispositifs pour téléviseurs appartiennent à son histoire. Spacewar!, développé au MIT en 1962, proposait une interaction sur un coûteux ordinateur de recherche. La Magnavox Odyssey introduisit le jeu télévisé à domicile en 1972. Ces réalisations techniques et commerciales ne répondent pas à la même définition du « premier » jeu.
+
+Pong, conçu par Allan Alcorn pour Atari et commercialisé en 1972, rendait l’idée immédiatement compréhensible : déplacer une raquette, renvoyer une balle, affronter quelqu’un. Son écran était sommaire, son duel profondément humain. Le qualifier de premier jeu efface ses prédécesseurs. Y voir une percée commerciale décisive explique mieux son rôle.
+
+## L’arcade invente une culture publique
+
+Space Invaders en 1978 et Pac-Man en 1980 contribuèrent à donner aux salles des personnages, des sons et des rituels reconnaissables. On observait les autres, apprenait leurs techniques et poursuivait un meilleur score. La rentabilité d’une borne dépendait des parties répétées : sessions courtes, difficulté croissante et nouvelle tentative relevaient à la fois du jeu et du commerce.
+
+L’arcade rendait également le média visible aux spectateurs. Comprendre l’action ne demandait pas nécessairement de la maîtriser. Les compétitions connectées et la diffusion en ligne prolongeraient cette relation entre joueur, public et performance. Mais les salles n’ont pas disparu partout simultanément : leur place varie selon les pays et les genres.
+
+## Atari, les cartouches et les limites d’un krach
+
+L’Atari Video Computer System, lancé en 1977 puis connu comme l’Atari 2600, contribua à installer la console à cartouches dans les foyers. Séparer le logiciel de la machine permettait d’acheter de nouvelles expériences sans remplacer l’appareil. Cette organisation créait aussi une relation économique durable entre constructeurs, éditeurs et distributeurs.
+
+Le krach de 1983 frappa surtout le marché nord-américain des consoles. Il ne signifia pas la disparition mondiale du jeu vidéo. Stocks excessifs, qualité inégale des logiciels et concurrence des ordinateurs familiaux participèrent à la crise. Réduire cet effondrement au seul échec d’E.T. est séduisant, mais insuffisant pour expliquer tout un marché.
+
+## Nintendo et Sega donnent une identité aux machines
+
+La Famicom apparut au Japon en 1983, puis la Nintendo Entertainment System arriva en Amérique du Nord en 1985. Super Mario Bros. transforma course et saut en un vocabulaire expressif. Ses niveaux enseignaient par la disposition des obstacles, la répétition et la surprise. Mario permettait aussi de présenter de nouveaux mécanismes à travers un personnage familier.
+
+Sega imposa un autre rythme avec Sonic the Hedgehog en 1991, associé à la Mega Drive, appelée Genesis en Amérique du Nord. Vitesse et attitude nourrissaient une identité différente. La publicité accentuait l’opposition, mais les catalogues, la distribution et l’image que les adolescents avaient d’eux-mêmes comptaient autant que les processeurs.
+
+## PlayStation et la généralisation de la 3D
+
+Sony lança la PlayStation au Japon le 3 décembre 1994, puis en Amérique du Nord et en Europe en 1995. Le disque optique offrait d’autres possibilités de stockage et de fabrication que la cartouche. Décors polygonaux, son enregistré et mise en scène cinématographique élargissaient les ambitions, tout en compliquant les caméras, les déplacements et les budgets.
+
+Sony n’avait pas inventé la 3D, et celle-ci ne rendait pas les styles précédents inutiles. Le changement tenait surtout à la diffusion commerciale d’espaces explorables. Grand Theft Auto III, sorti en 2001, popularisa la ville ouverte comme terrain de déplacement et d’improvisation. Son influence dépasse les seules histoires criminelles.
+
+## Le PC développe sa propre grammaire
+
+Un ordinateur n’est pas simplement une console munie d’un clavier. Stratégie, simulation, jeu de rôle et modification y côtoient l’action. Doom, en 1993, montra comment distribution et participation pouvaient renforcer une œuvre : le partagiciel favorisait la découverte, le réseau transformait les relations et les modifications créées par les joueurs prolongeaient l’expérience.
+
+Cet héritage se retrouve dans les communautés de modding et la création indépendante. Les boutiques numériques réduisent certains obstacles de distribution, mais rendent la visibilité essentielle. Atteindre directement des clients n’assure pas d’être remarqué. La diversité des configurations impose aussi des essais de compatibilité qu’une console standardisée peut simplifier.
+
+## Xbox connecte le salon
+
+La première Xbox fut lancée en 2001, suivie de Xbox Live en 2002. Halo: Combat Evolved participa à l’identité de la plateforme. Comptes, listes d’amis et compétition connectée devinrent progressivement centraux. Microsoft n’inventa pas le jeu en réseau, mais contribua à en faire un service intégré au salon.
+
+La connexion modifia aussi la notion de produit terminé. Correctifs, extensions et saisons pouvaient suivre l’achat. Cela permettait de réparer et d’enrichir un jeu, mais faisait dépendre son accès de serveurs, de licences et des priorités de l’éditeur. Un monde persistant pose donc une question concrète : que reste-t-il lorsque son exploitant s’en retire ?
+
+## Football, guerre et rendez-vous récurrents
+
+Les FIFA d’EA ont fait du football sous licence un rituel annuel. La série a pris le nom EA Sports FC en 2023 après la fin de l’accord de marque avec FIFA. La fédération et sa marque restent distinctes. L’inscription imaginaire « FIFA 27 » sur l’illustration de cet article ne constitue donc pas l’annonce vérifiée d’un jeu.
+
+Call of Duty débuta en 2003 avant de devenir une importante franchise d’action militaire, entre campagnes et multijoueur. Commandes familières et rendez-vous récurrents peuvent installer des habitudes durables. GTA suit un autre rythme, avec de grandes sorties et une activité en ligne prolongée. Le succès commercial ne garantit ni exactitude historique ni qualité artistique.
+
+## Minecraft fait du joueur un créateur
+
+Les blocs de Minecraft ont transformé la construction en langage accessible par la pratique. Survie, exploration, collaboration et création coexistent sans imposer une seule trajectoire. La chronologie anniversaire de Mojang situe en 2023 le cap des 300 millions d’exemplaires vendus. C’est un jalon daté, pas le nombre de joueurs actifs aujourd’hui.
+
+Constructions, modifications, tutoriels et défis collectifs font circuler une partie de la culture au-delà du logiciel initial. Cette participation ne remplace pas les développeurs professionnels. Elle ajoute une couche d’auteur et soulève des questions de modération, de rémunération et de propriété lorsque la créativité alimente une plateforme commerciale.
+
+## Le smartphone change l’échelle
+
+Le mobile a élargi l’accès en proposant des jeux sur un appareil déjà présent dans la poche. Écran tactile, sessions brèves et distribution simplifiée ont favorisé d’autres créations et d’autres publics. Le téléchargement gratuit réduit le coût d’entrée, tandis que publicité, abonnements et achats facultatifs peuvent remplacer le paiement initial.
+
+Une installation gratuite n’implique pas l’absence de dépenses, et un téléchargement n’équivaut pas à un joueur actif. Certains titres offrent beaucoup sans achat ; d’autres organisent progression et sollicitations autour du paiement. La question utile est le respect du temps, du budget et de l’attention, non la légitimité du mobile comme forme de jeu.
+
+## Quelle taille atteint le marché en 2026 ?
+
+Dans sa rétrospective de juin 2026, Newzoo estimait les revenus mondiaux du jeu à 201,6 milliards de dollars pour 2025, soit une hausse de 9,1 % selon sa mesure. Le PC représentait 43,6 milliards. Il s’agit d’estimations de marché, pas d’un recensement mondial audité, et elles ne doivent pas être additionnées sans précaution aux revenus du matériel.
+
+Les prévisions évoluent avec les données. Au 21 octobre, l’année 2026 reste inachevée. Calendriers de sortie, disponibilité des machines, devises et dépenses des ménages peuvent changer le bilan. Les comparaisons spectaculaires avec plusieurs autres industries masquent souvent des périmètres différents. Une définition claire vaut mieux qu’un total impressionnant.
+
+## Des outils plus puissants, des choix artistiques différents
+
+Processeurs graphiques, stockage rapide, capture de mouvement et audio enrichissent les outils. Le ray tracing modélise certains comportements de la lumière ; la reconstruction peut améliorer la résolution apparente. Aucune technique ne garantit une direction artistique réussie. Réactivité, accessibilité et lisibilité restent des décisions de conception.
+
+Un monde plus vaste exige davantage de contenu, de maintenance et de tests. Un jeu plus petit peut gagner en cohérence. La 2D, les aventures textuelles et le tour par tour persistent parce qu’ils expriment autre chose. Le progrès élargit les possibilités plutôt qu’il ne range toutes les créations sur une seule échelle.
+
+## Communautés, culture et fragilités
+
+Le jeu fournit des références communes au cinéma, à la musique et aux conversations quotidiennes. Il peut réunir des amis éloignés et soutenir la création. Il peut aussi exposer au harcèlement, à des dépenses manipulatrices ou à l’exclusion. Ces effets dépendent de la conception, de la modération et du contexte, pas d’une vertu ou d’un vice universel du média.
+
+La conservation est culturelle autant que technique. Machines défaillantes, boutiques fermées et dépendances réseau peuvent rendre une expérience inaccessible. Préserver une cartouche ne suffit pas toujours à préserver un jeu connecté. Il faut aussi conserver logiciels, équipements, documents et souvenirs de ceux qui les ont conçus et pratiqués.
+
+## Un avenir au pluriel
+
+Cloud, PC portables de jeu, réalité mixte et outils génératifs peuvent modifier production et accès. Leur adoption dépend de la latence, du prix, du confort et des droits. L’IA générative pose notamment des questions sur les données d’entraînement, le travail créatif et la fiabilité. Une possibilité n’est ni un calendrier de sortie ni une transformation garantie.
+
+De l’arcade à 2026, le fil le plus solide est la capacité à donner du sens à des règles par l’action, la découverte et les autres. Notre analyse séparée de PlayStation, Xbox et Nintendo examine la compétition économique derrière ces expériences. Les machines comptent, mais le média les dépasse.
