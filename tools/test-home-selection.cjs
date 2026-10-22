@@ -7,13 +7,13 @@ const { getPublishedArticles } = require('../src/data/articles.ts');
 const { publishedTranslations } = require('../src/lib/i18n/registry.ts');
 const { listingCard } = require('../src/lib/i18n/listing-cards.ts');
 const { selectHomeArticles, homeHeroSlugs, homeSideSlugs } = require('../src/lib/homeSelection.ts');
-assert.equal(homeHeroSlugs[0], "breaking-bad-actor-rj-mitte-dies-at-34");
-assert.equal(homeHeroSlugs[10], "sarco-capsule-assisted-dying-switzerland");
+assert.deepEqual([...homeHeroSlugs], ["sir-nils-olav-penguin-major-general", "margot-robbie-hollywood-star-powerful-producer", "megan-fox-subs-co-owner-tim-stokely", "african-safaris-wildlife-conservation-travel", "console-wars-playstation-xbox-nintendo", "extinct-animals-lost-creatures-planet", "isaac-newton-life-gravity-laws-motion", "what-happens-inside-black-hole", "culture-of-tattoos-ancient-rituals-modern-art", "animal-testing-hidden-cost-scientific-progress", "airplanes-wright-brothers-modern-aviation", "lost-library-alexandria-knowledge-vanished"]);
+assert.deepEqual([...homeSideSlugs], ["giordano-bruno-philosopher-heresy", "moon-landing-conspiracy-apollo-evidence", "area-51-aliens-myth-reality-secret-aircraft"]);
 assert.equal(homeHeroSlugs.length, 12);
 assert.ok(!homeHeroSlugs.includes("bryan-johnson-blueprint-anti-aging-longevity"));
 const articles = getPublishedArticles();
 const snapshot = JSON.stringify(articles);
-const now = new Date('2026-10-13T12:00:00Z');
+const now = new Date('2026-10-23T12:00:00Z');
 const slugs = xs => xs.map(a=>a.slug);
 for(const locale of ['en','fr','ar','es']) {
  const groups = selectHomeArticles(articles,now,locale,publishedTranslations);
@@ -27,15 +27,15 @@ for(const locale of ['en','fr','ar','es']) {
  for(const a of all){const card=listingCard(a,locale);if(locale==='en')assert.equal(card.href,`/articles/${a.slug}/`);else{const t=publishedTranslations.find(t=>t.locale===locale&&t.englishPath===`/articles/${a.slug}/`);assert.equal(card.title,t.title);assert.equal(card.href,t.path);assert.equal(card.coverImage,t.image.src);}}
 }
 const base={...articles[0],slug:'new-test',date:now.toISOString(),status:'published',draft:false};
-const invalid=[{...base,slug:'draft',status:'draft'},{...base,slug:'legacy-draft',draft:true},{...base,slug:'archived',status:'archived'},{...base,slug:'archive-flag',archived:true},{...base,slug:'future',date:'2026-10-13T12:00:01Z'},{...base,slug:'bad-date',date:'invalid'}];
+const invalid=[{...base,slug:'draft',status:'draft'},{...base,slug:'legacy-draft',draft:true},{...base,slug:'archived',status:'archived'},{...base,slug:'archive-flag',archived:true},{...base,slug:'future',date:'2026-10-23T12:00:01Z'},{...base,slug:'bad-date',date:'invalid'}];
 const selected=selectHomeArticles([...articles,base,base,...invalid],now);
 assert.equal(selected.latest[0].slug,base.slug,'New publication appears without manual curation');
 assert.equal(selected.latest.filter(a=>a.slug===base.slug).length,1);
 assert.ok(Object.values(selected).flat().every(a=>!invalid.some(x=>x.slug===a.slug)));
-assert.equal(selectHomeArticles([invalid[4]],new Date('2026-10-13T12:00:01Z')).latest[0].slug,'future');
+assert.equal(selectHomeArticles([invalid[4]],new Date('2026-10-23T12:00:01Z')).latest[0].slug,'future');
 const t={...publishedTranslations[0],locale:'fr',englishPath:'/articles/new-test/',publishedAt:now.toISOString(),status:'published'};
 assert.equal(selectHomeArticles([base],now,'fr',[t]).latest.length,1);
-for(const record of [{...t,status:'draft'},{...t,status:'archived'},{...t,publishedAt:'2026-10-14'}])assert.equal(selectHomeArticles([base],now,'fr',[record]).latest.length,0);
+for(const record of [{...t,status:'draft'},{...t,status:'archived'},{...t,publishedAt:'2026-10-24'}])assert.equal(selectHomeArticles([base],now,'fr',[record]).latest.length,0);
 assert.equal(selectHomeArticles([base],now,'fr',[]).latest.length,0);
 assert.deepEqual(selectHomeArticles([],now),{featured:[],editorialPicks:[],latest:[],moreArticles:[]});
 assert.equal(JSON.stringify(articles),snapshot);

@@ -1,3 +1,4 @@
+import { birdBatchArticles } from "@/data/birdBatchArticles";
 import { discoveryBatchArticles } from "@/data/discoveryBatchArticles";
 import { ownershipBatchArticles } from "@/data/ownershipBatchArticles";
 import { gamingBatchArticles } from "@/data/gamingBatchArticles";
@@ -225,6 +226,7 @@ export const articles: Article[] = [
   ...extinctionTartary2026Articles,
   supermarketArticle,
   bilingualBrainsArticle,
+  ...birdBatchArticles,
   ...discoveryBatchArticles,
   ...ownershipBatchArticles,
   ...gamingBatchArticles,

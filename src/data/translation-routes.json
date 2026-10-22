@@ -196,6 +196,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/alex-parrot-irene-pepperberg-animal-intelligence/",
+    "path": "/ar/articles/alex-parrot-irene-pepperberg-animal-intelligence/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/alex-parrot-irene-pepperberg-animal-intelligence/",
+    "path": "/es/articles/alex-parrot-irene-pepperberg-animal-intelligence/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/alex-parrot-irene-pepperberg-animal-intelligence/",
+    "path": "/fr/articles/alex-parrot-irene-pepperberg-animal-intelligence/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/alzheimers-disease-brain-memory-loss/",
     "path": "/ar/articles/alzheimers-disease-brain-memory-loss/"
   },
@@ -4003,6 +4018,21 @@
     "locale": "fr",
     "englishPath": "/articles/singapore-how-tiny-island-became-rich/",
     "path": "/fr/articles/singapore-how-tiny-island-became-rich/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/sir-nils-olav-penguin-major-general/",
+    "path": "/ar/articles/sir-nils-olav-penguin-major-general/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/sir-nils-olav-penguin-major-general/",
+    "path": "/es/articles/sir-nils-olav-penguin-major-general/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/sir-nils-olav-penguin-major-general/",
+    "path": "/fr/articles/sir-nils-olav-penguin-major-general/"
   },
   {
     "locale": "ar",

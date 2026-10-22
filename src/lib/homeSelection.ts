@@ -4,20 +4,24 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Homepage editorial placements only. Category selections remain independent.
 export const homeHeroSlugs = [
-  "vincent-van-gogh-life-art-legacy",
-  "nikola-tesla-genius-helped-electrify-world",
+  "sir-nils-olav-penguin-major-general",
+  "margot-robbie-hollywood-star-powerful-producer",
   "megan-fox-subs-co-owner-tim-stokely",
-  "chocolate-ancient-cacao-global-obsession",
-  "bobby-fischer-chess-legend-america-iceland",
-  "dostoevsky-life-death-human-darkness",
-  "dolly-cloned-sheep-changed-science",
-  "invention-photography-first-photo-digital-age"
+  "african-safaris-wildlife-conservation-travel",
+  "console-wars-playstation-xbox-nintendo",
+  "extinct-animals-lost-creatures-planet",
+  "isaac-newton-life-gravity-laws-motion",
+  "what-happens-inside-black-hole",
+  "culture-of-tattoos-ancient-rituals-modern-art",
+  "animal-testing-hidden-cost-scientific-progress",
+  "airplanes-wright-brothers-modern-aviation",
+  "lost-library-alexandria-knowledge-vanished"
 ] as const;
 
 export const homeSideSlugs = [
   "giordano-bruno-philosopher-heresy",
-  "winter-dolphin-prosthetic-tail",
-  "princess-diana-life-tragedy-legacy"
+  "moon-landing-conspiracy-apollo-evidence",
+  "area-51-aliens-myth-reality-secret-aircraft"
 ] as const;
 
 export function selectHomeArticles(articles: readonly Article[], now: Date, locale: Locale = "en", translations: readonly Translation[] = []) {
