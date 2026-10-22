@@ -1,0 +1,242 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/undersea-cables-hidden-network-connecting-world/",
+  "path": "/fr/articles/undersea-cables-hidden-network-connecting-world/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-22",
+    "terminologyChecked": true
+  },
+  "title": "Câbles sous-marins : le réseau invisible qui relie le monde",
+  "seoTitle": "Câbles sous-marins : le réseau qui connecte le monde",
+  "description": "Découvrez les câbles internet sous-marins : fibre optique, pose, propriétaires, routes mondiales, réparations, pannes et enjeux géopolitiques.",
+  "excerpt": "Découvrez les câbles internet sous-marins : fibre optique, pose, propriétaires, routes mondiales, réparations, pannes et enjeux géopolitiques.",
+  "headlineHighlights": {
+    "red": "Câbles sous-marins",
+    "gold": "relie le monde"
+  },
+  "keywords": [
+    "Câbles sous-marins",
+    "relie le monde"
+  ],
+  "searchIntent": "Découvrez les câbles internet sous-marins : fibre optique, pose, propriétaires, routes mondiales, réparations, pannes et enjeux géopolitiques.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-22",
+  "updatedAt": "2026-10-22",
+  "image": {
+    "src": "/articles/discovery-cables-hero.png",
+    "alt": "Illustration d'un navire câblier et d'un robot près d'une coupe de câble sous-marin aux dimensions exagérées"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un câble sous-marin de télécommunications transporte des informations sous forme de lumière dans des fibres de verre au fond de la mer. Il relie les réseaux de différentes rives et permet à un appel vidéo, un message bancaire ou un service cloud de franchir l'océan. Votre téléphone se connecte sans fil, mais une grande partie du trajet lointain dépend de câbles, de stations côtières, d'équipements électriques, de navires et d'équipes spécialisées."
+    },
+    {
+      "type": "paragraph",
+      "text": "Selon l'Union internationale des télécommunications, les câbles sous-marins transportent plus de 99 % du trafic international de données. Cette proportion concerne la connectivité internationale, sans signifier que tout message entre deux appareils voisins passe par l'océan. Réseaux nationaux, liaisons terrestres transfrontalières, centres de données locaux et satellites comptent également. Cette précision rend l'infrastructure plus compréhensible sans diminuer son importance. [Source: www.itu.int](https://www.itu.int/hub/2025/02/strengthening-the-worlds-digital-backbone/)"
+    },
+    {
+      "type": "heading",
+      "text": "Du télégraphe au monde optique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le premier câble télégraphique transatlantique échangea des messages en 1858, mais fonctionna peu de temps. Une liaison réussie en 1866 établit une connexion plus durable. Ces systèmes transmettaient des signaux électriques, pas des paquets internet modernes. Leur portée était pourtant considérable : l'information n'était plus obligée de traverser l'Atlantique à la vitesse d'un navire. Les échecs techniques et les reconstructions patientes font autant partie de cette histoire que le premier message célèbre. [Source: blog.sciencemuseum.org.uk](https://blog.sciencemuseum.org.uk/sending-messages-across-the-atlantic-156-years-on-from-the-first-transatlantic-cable/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "TAT-1 inaugura le service téléphonique transatlantique par câble en 1956. TAT-8 suivit en 1988 comme premier câble transatlantique à fibre optique. Ces étapes correspondent à des transitions distinctes : du télégraphe à la voix, puis à une transmission optique au potentiel bien supérieur. Le réseau actuel conserve les contraintes géographiques et logistiques de ses prédécesseurs, avec une électronique et une ingénierie optique beaucoup plus sophistiquées. [Source: blog.sciencemuseum.org.uk](https://blog.sciencemuseum.org.uk/global-telephone-calls-for-all/) [Source: history.ieee.org](https://history.ieee.org/wp-content/uploads/2025/02/UndertheWaves-FNL-Web.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Que contient réellement un câble ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fibres qui transportent la lumière sont minuscules. Les fabricants les entourent de protections, d'éléments de résistance, de matériau conducteur et d'isolation selon le modèle et son environnement. En haute mer, un câble de télécommunications possède couramment un diamètre comparable à celui d'un tuyau d'arrosage ; près des côtes, son armure peut être plus importante. Ce n'est généralement pas le tube gigantesque des illustrations. Notre image amplifie l'échelle et expose une coupe pour rendre le sujet visible. [Source: www2.telegeography.com](https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les données circulent optiquement, tandis qu'un conducteur électrique alimente les équipements d'un système à répéteurs. Il ne faut pas confondre ces fonctions avec celles des câbles électriques sous-marins reliant des réseaux énergétiques ou des parcs éoliens. Les deux constituent des infrastructures importantes et vulnérables, mais leurs constructions, modèles économiques et réparations diffèrent. Un article sur un câble endommagé doit préciser de quel type il s'agit."
+    },
+    {
+      "type": "heading",
+      "text": "Comment la lumière traverse un océan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les signaux optiques s'affaiblissent avec la distance et deviennent plus difficiles à distinguer. Les répéteurs des longues liaisons modernes les amplifient optiquement. Le multiplexage en longueur d'onde permet à plusieurs canaux optiques de partager une fibre ; les équipements terminaux les séparent et les traitent. Les descriptions techniques de NEC expliquent ce rôle des amplificateurs et de la gestion des longueurs d'onde. Personne n'a besoin de relayer chaque message sur le fond marin. [Source: www.nec.com](https://www.nec.com/en/global/techrep/journal/g10/n01/pdf/100102.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La capacité n'est pas un chiffre immuable inscrit sur le câble. La structure physique impose des limites, mais les terminaux installés, les choix techniques et les améliorations influencent la transmission disponible. Capacité théorique annoncée, capacité effectivement équipée et trafic réel sont trois mesures différentes. De même, une liaison océanique rapide ne corrige pas à elle seule un routeur domestique lent, un réseau local saturé ou un serveur surchargé."
+    },
+    {
+      "type": "heading",
+      "text": "Tracer une route dans un océan partagé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le projet commence par des études et des relevés, pas par le simple déroulement d'un câble. Les ingénieurs examinent relief, pentes instables, infrastructures existantes, pêche, mouillage et approche du rivage. Autorisations et évaluations environnementales influencent aussi le parcours. L'enfouissement côtier réduit certains risques humains ; une grande partie des câbles profonds repose sur le fond. La protection varie avec les risques plutôt que de rester identique sur chaque kilomètre. [Source: www.iscpc.org](https://www.iscpc.org/publications/icpc-unep_report.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les navires câbliers transportent de grandes longueurs dans des installations spécialisées et contrôlent leur déploiement le long du parcours étudié. Raccordements côtiers, dispositifs de branchement et essais font partie du système. La pose tient compte de la tension et du relief sous-marin. Elle ressemble moins à une ligne tracée sur une carte qu'à la construction méthodique d'une longue infrastructure dans un espace utilisé par de nombreux acteurs."
+    },
+    {
+      "type": "heading",
+      "text": "Une carte économique autant que géographique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des corridors denses relient l'Amérique du Nord à l'Europe par l'Atlantique et à l'Asie par le Pacifique. Les systèmes Europe-Asie empruntent aussi la Méditerranée, l'Égypte et la mer Rouge, associant portions marines et terrestres. Afrique, Amérique latine et États insulaires disposent de réseaux aux degrés de diversification variables. La carte de TeleGeography aide à comprendre cet ensemble, mais ses lignes ne sont ni des itinéraires nautiques exacts ni la preuve que tous les projets fonctionnent déjà. [Source: www.submarinecablemap.com](https://www.submarinecablemap.com/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Marea montre comment les points d'arrivée desservent la géographie des centres de données. Microsoft, Facebook et Telxius ont achevé ce système transatlantique en 2017 entre Virginia Beach et la côte basque espagnole. Equiano, de Google, relie le Portugal à l'Afrique du Sud avec des atterrissements africains intermédiaires. Ces projets peuvent ajouter des alternatives, mais chaque arrivée doit être prolongée par des connexions terrestres efficaces pour bénéficier aux ménages et petites entreprises. [Source: blogs.microsoft.com](https://blogs.microsoft.com/blog/2017/09/21/celebrating-completion-advanced-subsea-cable-across-atlantic/) [Source: blog.google](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-wan-development/)"
+    },
+    {
+      "type": "heading",
+      "text": "À qui appartient ce réseau invisible ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La propriété est diverse. Consortiums de télécommunications, opérateurs spécialisés et grandes entreprises technologiques investissent, tandis que des clients achètent de la capacité sans posséder le câble entier. Le rôle croissant des entreprises cloud et de contenus traduit leur besoin de connexions fiables entre centres de données. Propriété, construction, exploitation et utilisation sont des questions distinctes : plusieurs organisations peuvent assumer des responsabilités différentes sur un même système. [Source: www.itu.int](https://www.itu.int/itu-d/reports/statistics/2025/11/17/gcr-2025-chapter-3/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L'économie du câble ne se résume donc pas à une carte de drapeaux. La station côtière dépend d'une juridiction, l'investisseur peut être établi ailleurs et le trafic servir plusieurs pays. Les gouvernements interviennent par les licences, la sécurité et la concurrence. L'enjeu consiste à sécuriser ces connexions sans concentrer ou renchérir l'accès au point que les nouvelles capacités n'améliorent pas le service quotidien."
+    },
+    {
+      "type": "heading",
+      "text": "Lorsqu'un câble se rompt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les pannes sont des événements techniques ordinaires dans un grand réseau, même si chaque incident peut être grave. En février 2026, l'UIT évoquait environ 200 défauts annuels, dont plus de 80 % liés à la pêche et au mouillage. Il s'agit d'estimations sectorielles, pas d'un total annuel immuable ni d'un diagnostic pour un événement particulier. Les autres causes comprennent les risques géologiques et les défaillances d'équipement. [Source: www.itu.int](https://www.itu.int/hub/2026/02/the-world-is-coming-together-to-strengthen-submarine-cable-resilience/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les phénomènes naturels peuvent toucher plusieurs routes à la fois. L'ICPC décrit de puissants écoulements de sédiments au large de l'Afrique occidentale en 2020 qui ont endommagé plusieurs câbles. Deux lignes ne constituent donc pas nécessairement deux protections indépendantes lorsqu'elles traversent le même corridor exposé. La diversification doit considérer le fond marin et les stations côtières, pas seulement compter les traits colorés d'une présentation. [Source: iscpc.org](https://iscpc.org/publications/submarine-cable-protection-and-the-environment/ICPC_Public_EU_September_2023.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Réparer est une opération maritime"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les opérateurs détectent et localisent d'abord le défaut grâce aux tests du réseau et du système câblé. Il faut ensuite un navire adapté, des pièces disponibles, des autorisations et une mer praticable. Le segment endommagé est généralement récupéré, remplacé et raccordé dans des conditions contrôlées à bord, avant d'être redéposé. Cela n'a rien à voir avec des plongeurs reconnectant tranquillement des fils lumineux sous l'eau. Technique et logistique sont indissociables. [Source: www.iscpc.org](https://www.iscpc.org/publications/icpc-unep_report.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alcatel Submarine Networks décrit un ensemble de maintenance comprenant réparation maritime, essais des pièces de réserve, assistance distante et surveillance. Le délai dépasse donc largement le seul raccordement des fibres. Trajet du navire, météo et autorisations peuvent prolonger l'interruption. Entretenir des équipages qualifiés et des accords régionaux de maintenance attire moins l'attention que l'annonce d'un nouveau câble, mais peut compter autant pour la résilience. [Source: www.asn.com](https://www.asn.com/services/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi certaines ruptures passent inaperçues"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un réseau disposant d'itinéraires alternatifs suffisants peut détourner le trafic. Les utilisateurs peuvent ne rien remarquer, ou subir des ralentissements lorsque d'autres voies absorbent la charge. Un territoire dépendant d'une seule connexion a moins de choix. La redondance doit aussi concerner stations, alimentation, liaisons terrestres et systèmes opérationnels. Deux câbles internationaux partageant un bâtiment vulnérable conservent un point commun de défaillance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les satellites peuvent fournir un accès utile et des solutions d'urgence, notamment dans les zones isolées, mais ne remplacent pas automatiquement toute la capacité des fibres océaniques. La combinaison pertinente dépend des coûts, de la couverture, de la capacité et du service recherché. Préserver les communications essentielles pendant une panne peut être plus réaliste que maintenir sans changement tous les usages habituels à haut débit. [Source: www.itu.int](https://www.itu.int/itu-d/reports/statistics/2025/11/17/gcr-2025-chapter-3/)"
+    },
+    {
+      "type": "heading",
+      "text": "Sécurité : ne pas confondre panne et sabotage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une intervention volontaire est un risque légitime, mais l'attribution exige des preuves. Un lieu suspect ou des tensions géopolitiques ne prouvent ni l'auteur ni l'intention. Les enquêteurs ont besoin de constats techniques, de mouvements de navires et d'autres éléments. L'ICPC souligne le poids des activités humaines accidentelles. Le journalisme doit distinguer dommages confirmés, accusations d'une enquête et conclusions établies. [Source: iscpc.org](https://iscpc.org/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L'Union européenne a adopté son plan de sécurité des câbles en février 2025 et publié une boîte à outils en février 2026. L'approche couvre prévention, détection, réponse, rétablissement et dissuasion. Ces politiques illustrent la dimension stratégique des réseaux, sans constituer des preuves pour un incident précis. La protection concerne aussi les bâtiments d'atterrissement, les contrôles d'accès et les systèmes informatiques, pas uniquement les patrouilles maritimes. [Source: digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/library/submarine-cable-security-toolbox-and-cable-projects-european-interest)"
+    },
+    {
+      "type": "heading",
+      "text": "Le prochain réseau dépendra encore des hommes et des lieux"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des systèmes plus capacitaires, une meilleure optique et de nouvelles routes répondront à une demande croissante, notamment liée au cloud et à l'IA. Mais un projet annoncé n'est pas un câble en service. Financement, fabrication, autorisations, navires et intégration séparent encore la proposition du fonctionnement fiable. Les comparaisons doivent préciser si elles décrivent un résultat de laboratoire, un objectif technique ou un système mis en service."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les fondations matérielles d'internet méritent l'attention précisément parce qu'elles disparaissent habituellement du regard. Une connexion fiable dépend de décisions sur l'accès, la concurrence, la maintenance et la coopération internationale. Même les logiciels les plus impressionnants s'appuient sur des équipements et sur ceux qui les entretiennent. Nos articles sur la rivalité autour de l'IA et les supermarchés automatisés montrent comment ces réseaux structurent les activités au-dessus de la mer. [Lecture associée 1](/articles/us-china-ai-race-control-powerful-technology/) [Lecture associée 2](/articles/future-supermarkets-ai-robots-cashierless-shopping/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "ITU: strengthening the digital backbone",
+      "url": "https://www.itu.int/hub/2025/02/strengthening-the-worlds-digital-backbone/"
+    },
+    {
+      "label": "Science Museum: the transatlantic telegraph",
+      "url": "https://blog.sciencemuseum.org.uk/sending-messages-across-the-atlantic-156-years-on-from-the-first-transatlantic-cable/"
+    },
+    {
+      "label": "Science Museum: TAT-1",
+      "url": "https://blog.sciencemuseum.org.uk/global-telephone-calls-for-all/"
+    },
+    {
+      "label": "IEEE: undersea communications history",
+      "url": "https://history.ieee.org/wp-content/uploads/2025/02/UndertheWaves-FNL-Web.pdf"
+    },
+    {
+      "label": "TeleGeography: submarine cable basics",
+      "url": "https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions"
+    },
+    {
+      "label": "NEC: optical submarine systems",
+      "url": "https://www.nec.com/en/global/techrep/journal/g10/n01/pdf/100102.pdf"
+    },
+    {
+      "label": "ICPC and UNEP: cable maintenance",
+      "url": "https://www.iscpc.org/publications/icpc-unep_report.pdf"
+    },
+    {
+      "label": "TeleGeography: cable map",
+      "url": "https://www.submarinecablemap.com/"
+    },
+    {
+      "label": "Microsoft: Marea completion",
+      "url": "https://blogs.microsoft.com/blog/2017/09/21/celebrating-completion-advanced-subsea-cable-across-atlantic/"
+    },
+    {
+      "label": "Google: Equiano and network resilience",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-wan-development/"
+    },
+    {
+      "label": "ITU: connectivity infrastructure and complementary networks",
+      "url": "https://www.itu.int/itu-d/reports/statistics/2025/11/17/gcr-2025-chapter-3/"
+    },
+    {
+      "label": "ITU: submarine cable resilience in 2026",
+      "url": "https://www.itu.int/hub/2026/02/the-world-is-coming-together-to-strengthen-submarine-cable-resilience/"
+    },
+    {
+      "label": "ICPC: natural hazards",
+      "url": "https://iscpc.org/publications/submarine-cable-protection-and-the-environment/ICPC_Public_EU_September_2023.pdf"
+    },
+    {
+      "label": "ASN: services and marine repair",
+      "url": "https://www.asn.com/services/"
+    },
+    {
+      "label": "ICPC: cable protection and fault context",
+      "url": "https://iscpc.org/"
+    },
+    {
+      "label": "European Commission: cable security toolbox",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/submarine-cable-security-toolbox-and-cable-projects-european-interest"
+    }
+  ],
+  "faq": []
+}

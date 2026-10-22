@@ -10,6 +10,10 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // Supplied illustrations with explanatory localized captions: docs/editorial/discovery-batch/REVIEW.md.
+  "/articles/discovery-darksky-hero.png",
+  "/articles/discovery-cables-hero.png",
+  "/articles/discovery-handedness-hero.png",
   // Approved editorial illustrations, not documentary photographs: docs/editorial/ownership-batch/REVIEW.md.
   "/articles/ownership-collecting-hero.png",
   "/articles/ownership-robbie-hero.png",

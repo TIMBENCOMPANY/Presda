@@ -1,0 +1,69 @@
+A submarine telecommunications cable carries information as light through glass fibres beneath the sea. It connects networks on different shores, allowing a video call, bank message or cloud service to cross an ocean. The internet may arrive at your phone wirelessly, but much of its long-distance journey depends on a physical system of cables, landing stations, electrical equipment, ships and skilled crews.
+
+The International Telecommunication Union says submarine cables carry more than 99 percent of international data traffic. That is a statement about cross-border connectivity, not a claim that every message between two nearby devices visits the ocean. Domestic networks, terrestrial border crossings, local data centres and satellites also matter. The distinction makes the infrastructure more understandable without diminishing its importance. [ITU: strengthening the digital backbone](https://www.itu.int/hub/2025/02/strengthening-the-worlds-digital-backbone/)
+
+## From telegraph pulses to an optical world
+
+The first transatlantic telegraph cable exchanged messages in 1858, but its service was short-lived. A successful 1866 cable established a more durable connection. These systems carried electrical signals, not modern internet packets. Their achievement was nevertheless transformative: information no longer had to travel across the Atlantic at the speed of a ship. Technical failure and patient rebuilding belong in the story alongside the celebrated first message. [Science Museum: the transatlantic telegraph](https://blog.sciencemuseum.org.uk/sending-messages-across-the-atlantic-156-years-on-from-the-first-transatlantic-cable/)
+
+TAT-1 introduced transatlantic telephone-cable service in 1956. TAT-8 followed in 1988 as the first transatlantic fibre-optic cable. These were different transitions: from telegraphy to voice and then to optical transmission with much greater potential capacity. Today's network inherits the geography and logistical problems of those earlier systems while using far more sophisticated electronics and optical engineering. [Science Museum: TAT-1](https://blog.sciencemuseum.org.uk/global-telephone-calls-for-all/) [IEEE: undersea communications history](https://history.ieee.org/wp-content/uploads/2025/02/UndertheWaves-FNL-Web.pdf)
+
+## What is actually inside a cable?
+
+The light-carrying fibres are tiny. Around them, manufacturers arrange protective structures, strength members, conductive material and outer insulation according to the design and environment. Deep-ocean telecommunications cable is commonly comparable in width to a garden hose; coastal sections can have substantially more armour. It is not usually the enormous pipe suggested by dramatic illustrations. Our hero exaggerates scale and exposes a cutaway to communicate an otherwise invisible subject. [TeleGeography: submarine cable basics](https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions)
+
+Data travels optically, while an electrical conductor supplies power to equipment along a repeatered system. These two functions should not be confused with the high-voltage submarine power cables that connect electricity grids or offshore wind farms. Both are important maritime infrastructure, and both can be damaged, but their construction, business models and repair requirements differ. A headline about a damaged sea cable should identify which kind it means.
+
+## How light survives an ocean crossing
+
+Optical signals weaken and become harder to distinguish over distance. Repeaters along modern long systems use optical amplification to help maintain them. Wavelength-division multiplexing carries multiple optical channels through a fibre; terminal equipment separates and processes the signals. NEC's technical descriptions explain how optical amplifiers and wavelength management support long-distance transmission. There is no need for a person on the seabed to relay each message. [NEC: optical submarine systems](https://www.nec.com/en/global/techrep/journal/g10/n01/pdf/100102.pdf)
+
+Capacity is not a single permanent number printed on the cable. The physical design constrains what is possible, but installed terminal equipment, engineering choices and upgrades affect usable transmission. A headline design capacity is different from capacity equipped for service and from traffic actually flowing today. Likewise, a fast ocean link cannot by itself fix a slow home router, congested local network or overloaded application server.
+
+## Laying a route through a working ocean
+
+A route begins with surveys and planning, not with dropping a cable from one continent toward another. Engineers consider seabed shape, unstable slopes, existing infrastructure, fishing, anchoring and the approach to land. Permits and environmental assessment influence the route as well. Near shore, burial can reduce exposure to human activity; much deep-water cable rests on the seabed. Protection is tailored to risk rather than applied identically along every kilometre. [ICPC and UNEP: submarine cables and the oceans](https://www.iscpc.org/publications/icpc-unep_report.pdf)
+
+Cable ships carry large lengths in specialised storage and control the cable's release as they follow a surveyed course. Shore connections, branching equipment and testing form part of the system, not optional finishing touches. Installation must account for tension and the shape of the seafloor. The result is less like drawing a straight line on a map than building a long, carefully managed piece of infrastructure through territory shared with many other users.
+
+## The map follows economics as well as geography
+
+Dense corridors connect North America and Europe across the Atlantic and link Asian markets with North America across the Pacific. Europe-to-Asia systems also use Mediterranean, Egyptian and Red Sea connections, combining marine and terrestrial sections. Africa, Latin America and island states connect through networks with different levels of route diversity. TeleGeography's map is useful for orientation, but its lines should not be treated as exact navigational tracks or proof that every planned system is already operating. [TeleGeography: cable map](https://www.submarinecablemap.com/)
+
+Marea illustrates how landing geography can serve data-centre geography. Microsoft, Facebook and Telxius completed the transatlantic system in 2017, linking Virginia Beach with Spain's Basque coast. Another example, Google's Equiano, connects Portugal and South Africa with intermediate African landings. Such projects can add alternatives, but a new landing still needs effective inland connections before its benefits reach a household or a small business. [Microsoft: Marea completion](https://blogs.microsoft.com/blog/2017/09/21/celebrating-completion-advanced-subsea-cable-across-atlantic/) [Google: Equiano and network resilience](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-wan-development/)
+
+## Who owns the hidden network?
+
+Ownership is mixed. Telecom consortia, specialist operators and large technology companies invest in systems, while customers may purchase capacity without owning the entire cable. The growing role of cloud and content companies reflects their demand for reliable connections between data centres. Ownership, construction, operation and use are separate questions; a cable can involve several organisations with different responsibilities. [ITU: Global Connectivity Report 2025, infrastructure](https://www.itu.int/itu-d/reports/statistics/2025/11/17/gcr-2025-chapter-3/)
+
+This is why the commercial story cannot be reduced to a map of national flags. A landing station sits within a jurisdiction, an investor may be headquartered elsewhere, and traffic can serve customers across many countries. Governments influence landing licences, security requirements and competition. The policy challenge is to secure essential connections without making access so concentrated or expensive that new capacity fails to improve everyday connectivity.
+
+## When a cable breaks
+
+Failures are normal engineering events in a large network, even though an individual incident can be serious. In February 2026, ITU described roughly 200 faults annually and attributed more than 80 percent to fishing and anchoring. These are approximate industry-wide figures, not a fixed annual count or a diagnosis of any particular incident. Other causes include geological hazards and equipment problems. [ITU: submarine cable resilience in 2026](https://www.itu.int/hub/2026/02/the-world-is-coming-together-to-strengthen-submarine-cable-resilience/)
+
+Natural hazards can be unusually disruptive because they affect several routes together. ICPC describes powerful sediment flows off West Africa in 2020 that damaged multiple cables. The lesson is that two cables are not necessarily two independent protections if they pass through the same exposed corridor. Diversity must consider the seabed and landing infrastructure, not merely the number of coloured lines on a presentation. [ICPC: natural hazards](https://iscpc.org/publications/submarine-cable-protection-and-the-environment/ICPC_Public_EU_September_2023.pdf)
+
+## Repair is a maritime operation
+
+Operators first detect and locate the fault using network and cable-system tests. A repair then requires a suitable vessel, available spare material, clearances and workable sea conditions. The damaged section is typically recovered, replaced and joined under controlled conditions aboard the ship before the repaired cable is returned to the seabed. This is very different from divers casually reconnecting luminous strands underwater. Technical and logistical work are inseparable. [ICPC and UNEP: cable maintenance](https://www.iscpc.org/publications/icpc-unep_report.pdf)
+
+Alcatel Submarine Networks describes a maintenance ecosystem that includes marine repair, spare testing, remote support and monitoring. A repair timetable therefore depends on more than the act of joining fibre. Vessel travel, weather and permission to operate can extend the interruption. Maintaining trained crews and regional repair arrangements is an investment in resilience that attracts less publicity than announcing a new cable, but can be equally consequential. [ASN: services and marine repair](https://www.asn.com/services/)
+
+## Why one break may be invisible and another devastating
+
+A network with sufficient alternative routes can move traffic away from a failed link. Users may notice little, or experience slower performance as other paths carry more load. A place dependent on one connection has fewer options. Redundancy must also include landing stations, power, terrestrial backhaul and operational systems. Two international cables sharing a single vulnerable building can still leave a common point of failure.
+
+Satellite links can provide useful access and emergency alternatives, particularly for remote areas, but should not be described as an automatic replacement for all ocean fibre capacity. The appropriate mix depends on capacity, cost, coverage and the service being supported. Resilience is a layered design problem: preserving critical communications during disruption may be a more realistic objective than maintaining every usual high-bandwidth activity unchanged. [ITU: connectivity infrastructure and complementary networks](https://www.itu.int/itu-d/reports/statistics/2025/11/17/gcr-2025-chapter-3/)
+
+## Security without turning every fault into sabotage
+
+Deliberate interference is a legitimate concern, but attribution requires evidence. A suspicious location or geopolitical tension does not establish who caused a break or whether it was intentional. Investigators need technical findings, vessel movements and other evidence. ICPC emphasises the large role of accidental human activity. Careful reporting should distinguish confirmed physical damage, an investigation's allegations and an established conclusion. [ICPC: cable protection and fault context](https://iscpc.org/)
+
+The European Union adopted its cable-security action plan in February 2025 and published a security toolbox in February 2026. The approach spans prevention, detection, response, recovery and deterrence. These policies show why governments regard connectivity as strategic infrastructure, but policy concern is not itself proof about a specific incident. Protection also involves landing facilities, access controls and information systems, not only patrols at sea. [European Commission: cable security toolbox](https://digital-strategy.ec.europa.eu/en/library/submarine-cable-security-toolbox-and-cable-projects-european-interest)
+
+## The next network will still need people and geography
+
+Higher-capacity systems, improved optical equipment and additional routes will help meet demand, including traffic associated with cloud services and AI. Yet an announced project is not an operating cable. Financing, manufacturing, permits, ships and integration still stand between a proposal and reliable service. Comparisons should identify whether they describe a laboratory result, a design target or a commissioned system rather than mixing those achievements together.
+
+The internet's physical foundations deserve attention precisely because they usually disappear from view. A dependable connection rests on choices about access, competition, maintenance and international cooperation. The same lesson appears in other technologies: impressive software still relies on material systems and people who keep them working. Our reporting on the AI rivalry and automated supermarkets explores how those connections shape industries above the waterline. [PRESDA: the AI race](https://presda.com/articles/us-china-ai-race-control-powerful-technology/) [PRESDA: future supermarkets](https://presda.com/articles/future-supermarkets-ai-robots-cashierless-shopping/)

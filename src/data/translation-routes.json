@@ -1126,6 +1126,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/dark-sky-tourism-traveling-to-see-the-universe/",
+    "path": "/ar/articles/dark-sky-tourism-traveling-to-see-the-universe/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/dark-sky-tourism-traveling-to-see-the-universe/",
+    "path": "/es/articles/dark-sky-tourism-traveling-to-see-the-universe/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/dark-sky-tourism-traveling-to-see-the-universe/",
+    "path": "/fr/articles/dark-sky-tourism-traveling-to-see-the-universe/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/david-beckhams-unexpected-passion-beyond-football/",
     "path": "/ar/articles/david-beckhams-unexpected-passion-beyond-football/"
   },
@@ -2623,6 +2638,21 @@
     "locale": "fr",
     "englishPath": "/articles/laika-first-dog-orbit-never-came-home/",
     "path": "/fr/articles/laika-first-dog-orbit-never-came-home/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/left-handed-people-science-behind-left-handedness/",
+    "path": "/ar/articles/left-handed-people-science-behind-left-handedness/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/left-handed-people-science-behind-left-handedness/",
+    "path": "/es/articles/left-handed-people-science-behind-left-handedness/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/left-handed-people-science-behind-left-handedness/",
+    "path": "/fr/articles/left-handed-people-science-behind-left-handedness/"
   },
   {
     "locale": "ar",
@@ -4273,6 +4303,21 @@
     "locale": "fr",
     "englishPath": "/articles/umayyad-caliphate-damascus-expansion-rise-fall/",
     "path": "/fr/articles/umayyad-caliphate-damascus-expansion-rise-fall/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/undersea-cables-hidden-network-connecting-world/",
+    "path": "/ar/articles/undersea-cables-hidden-network-connecting-world/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/undersea-cables-hidden-network-connecting-world/",
+    "path": "/es/articles/undersea-cables-hidden-network-connecting-world/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/undersea-cables-hidden-network-connecting-world/",
+    "path": "/fr/articles/undersea-cables-hidden-network-connecting-world/"
   },
   {
     "locale": "ar",
