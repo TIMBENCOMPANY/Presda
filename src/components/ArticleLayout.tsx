@@ -1,3 +1,4 @@
+import ownershipBatchHeroCaptions from "@/data/ownershipBatchHeroCaptions.json";
 import gamingBatchHeroCaptions from "@/data/gamingBatchHeroCaptions.json";
 import travelBatchHeroCaptions from "@/data/travelBatchHeroCaptions.json";
 import psgQsiHeroCaptions from "@/data/psgQsiHeroCaptions.json";
@@ -414,6 +415,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in gravityHeroCaptions && <p data-gravity-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gravityHeroCaptions[article.slug as keyof typeof gravityHeroCaptions][locale]}</p>}
         {article.slug in premiumBatchHeroCaptions && <p data-premium-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{premiumBatchHeroCaptions[article.slug as keyof typeof premiumBatchHeroCaptions][locale]}</p>}
         {article.slug === "electric-cars-global-shift-future-gasoline-diesel" && <p data-electric-cars-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{electricCarsHeroCaptions[locale]}</p>}
+        {article.slug in ownershipBatchHeroCaptions && <p data-ownership-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{ownershipBatchHeroCaptions[article.slug as keyof typeof ownershipBatchHeroCaptions][locale]}</p>}
         {article.slug in gamingBatchHeroCaptions && <p data-gaming-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gamingBatchHeroCaptions[article.slug as keyof typeof gamingBatchHeroCaptions][locale]}</p>}
         {article.slug in travelBatchHeroCaptions && <p data-travel-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{travelBatchHeroCaptions[article.slug as keyof typeof travelBatchHeroCaptions][locale]}</p>}
         {article.slug === "nasser-al-khelaifi-psg-qsi-70-million-transformation" && <p data-psg-qsi-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{psgQsiHeroCaptions[locale]}</p>}

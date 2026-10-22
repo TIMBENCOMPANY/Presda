@@ -1231,6 +1231,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/diamonds-marketing-story-precious-gem/",
+    "path": "/ar/articles/diamonds-marketing-story-precious-gem/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/diamonds-marketing-story-precious-gem/",
+    "path": "/es/articles/diamonds-marketing-story-precious-gem/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/diamonds-marketing-story-precious-gem/",
+    "path": "/fr/articles/diamonds-marketing-story-precious-gem/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/diego-maradona-genius-napoli-life-death-legacy/",
     "path": "/ar/articles/diego-maradona-genius-napoli-life-death-legacy/"
   },
@@ -2761,6 +2776,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/margot-robbie-hollywood-star-powerful-producer/",
+    "path": "/ar/articles/margot-robbie-hollywood-star-powerful-producer/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/margot-robbie-hollywood-star-powerful-producer/",
+    "path": "/es/articles/margot-robbie-hollywood-star-powerful-producer/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/margot-robbie-hollywood-star-powerful-producer/",
+    "path": "/fr/articles/margot-robbie-hollywood-star-powerful-producer/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/mark-zuckerberg-facebook-meta-story/",
     "path": "/ar/articles/mark-zuckerberg-facebook-meta-story/"
   },
@@ -3553,6 +3583,21 @@
     "locale": "fr",
     "englishPath": "/articles/psychology-of-brands-why-we-pay-more-for-a-name/",
     "path": "/fr/articles/psychology-of-brands-why-we-pay-more-for-a-name/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/psychology-of-collecting-why-we-love-owning-things/",
+    "path": "/ar/articles/psychology-of-collecting-why-we-love-owning-things/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/psychology-of-collecting-why-we-love-owning-things/",
+    "path": "/es/articles/psychology-of-collecting-why-we-love-owning-things/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/psychology-of-collecting-why-we-love-owning-things/",
+    "path": "/fr/articles/psychology-of-collecting-why-we-love-owning-things/"
   },
   {
     "locale": "ar",
