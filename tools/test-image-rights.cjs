@@ -32,7 +32,7 @@ for (const article of articles) {
   if (article.coverImage !== '/images/editorial/yassine-bounou.jpg') assert.equal(image.copyrightNotice, undefined, 'No copyright inferred from creation credit');
   assert.deepEqual(rights(articleJsonLd(article).publisher.logo), brandRights);
 }
-assert.equal(credited, 39);
+assert.equal(credited, 42);
 assert.equal(licensed, 2);
 for (const record of publishedTranslations.filter(r => r.kind === 'article')) {
   const original = articles.find(a => '/articles/' + a.slug + '/' === record.englishPath);

@@ -1,3 +1,4 @@
+import { newsOct23LateArticles } from "@/data/newsOct23LateArticles";
 import { newsOct23BatchArticles } from "@/data/newsOct23BatchArticles";
 import { birdBatchArticles } from "@/data/birdBatchArticles";
 import { discoveryBatchArticles } from "@/data/discoveryBatchArticles";
@@ -227,6 +228,7 @@ export const articles: Article[] = [
   ...extinctionTartary2026Articles,
   supermarketArticle,
   bilingualBrainsArticle,
+  ...newsOct23LateArticles,
   ...newsOct23BatchArticles,
   ...birdBatchArticles,
   ...discoveryBatchArticles,

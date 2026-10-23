@@ -1,0 +1,146 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/scentronic-smells-internet-ohio-state-research/",
+  "path": "/fr/articles/scentronic-smells-internet-ohio-state-research/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-23",
+    "terminologyChecked": true
+  },
+  "title": "Des scientifiques développent une technologie pour envoyer des odeurs par Internet",
+  "seoTitle": "Scentronic : transmettre des odeurs par Internet",
+  "description": "Le prototype Scentronic reconnaît cinq odeurs et déclenche leur diffusion à distance. Recherche de l'Ohio State, tests humains, limites et applications.",
+  "excerpt": "Le prototype Scentronic reconnaît cinq odeurs et déclenche leur diffusion à distance. Recherche de l'Ohio State, tests humains, limites et applications.",
+  "headlineHighlights": {
+    "red": "scientifiques",
+    "gold": "odeurs par Internet"
+  },
+  "keywords": [
+    "scientifiques",
+    "odeurs par Internet"
+  ],
+  "searchIntent": "Le prototype Scentronic reconnaît cinq odeurs et déclenche leur diffusion à distance. Recherche de l'Ohio State, tests humains, limites et applications.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-23",
+  "updatedAt": "2026-10-23",
+  "image": {
+    "src": "/articles/news-oct23-late-scent-hero.png",
+    "alt": "Illustration IA d'un laboratoire imaginaire avec une interface olfactive"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le café traverse déjà un appel vidéo sous forme d'image, de description ou de bruit de moulin. Son arôme reste plus difficile à partager. Des chercheurs de l'université d'État de l'Ohio et du Zhejiang Laboratory ont présenté Scentronic, un système reliant la détection électronique des odeurs à un diffuseur distant. La réalisation repose sur une chaîne fonctionnelle entre analyse et émission, avec une limite essentielle : les données passent par Internet, tandis que l'odeur est produite sur place à partir de substances déjà présentes dans le récepteur. [Source: europepmc.org](https://europepmc.org/article/MED/42905806)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Publié dans Science Advances le 21 octobre 2026, le travail de Chunyu Yang et de ses collègues associe apprentissage automatique, capteurs de gaz, communication en réseau et interface piézoélectrique portable. Parler d'envoi d'odeurs est un raccourci commode. Comprendre ce qui est réellement transmis permet de saisir l'intérêt de l'expérience, mais aussi pourquoi un téléphone ordinaire ne peut pas encore télécharger le parfum de n'importe quel objet placé devant lui. [Source: doi.org](https://doi.org/10.1126/sciadv.aee9266)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment Scentronic transmet-il une odeur ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le système recueille d'abord les réponses de capteurs de gaz exposés à une odeur. Un modèle entraîné les classe dans une catégorie connue. Une connexion en ligne transmet ce résultat au dispositif récepteur, qui diffuse une fragrance préparée correspondante. La démonstration portait sur le café, la bière, le gâteau, l'orange et le vin rouge. Ces cinq exemples familiers définissent le répertoire effectivement testé, sans établir une capacité illimitée à reproduire le monde chimique. [Source: www.channelnewsasia.com](https://www.channelnewsasia.com/business/new-scentronic-technology-can-detect-and-transmit-aromas-remotely-6486011)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La différence rappelle celle qui sépare l'identification d'une chanson de l'enregistrement de toutes les vibrations qui l'ont produite. Nommer une catégorie olfactive ne décrit pas chaque molécule, sa concentration et son évolution dans l'échantillon original. Une formulation de café peut créer une sensation reconnaissable, sans reproduire exactement une torréfaction, une préparation ou une cuisine particulière. L'innovation utile réside dans l'enchaînement automatique entre la rencontre d'une odeur et une réponse sensorielle à distance."
+    },
+    {
+      "type": "heading",
+      "text": "Un nez électronique reste un instrument entraîné"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un nez électronique ne sent pas au sens biologique. Les capteurs produisent des signaux ; le logiciel apprend leurs relations avec des exemples étiquetés. La réussite dépend donc des échantillons et des conditions d'entraînement. Reconnaître une catégorie parmi cinq possibilités attendues diffère de l'analyse d'un mélange inconnu. Un système destiné au public devrait gérer les variations, les interférences et l'incertitude, au lieu d'attribuer systématiquement une étiquette avec assurance."
+    },
+    {
+      "type": "paragraph",
+      "text": "La comparaison avec l'humain est instructive. Selon le National Institute on Deafness and Other Communication Disorders américain, des molécules présentes dans l'air stimulent les récepteurs de neurones sensoriels olfactifs, qui transmettent des signaux au cerveau. Une molécule peut activer plusieurs récepteurs. Les arômes qui remontent de la bouche vers le nez contribuent aussi fortement à la flaveur. Une interface numérique doit finalement fournir un stimulus chimique perceptible par ce système biologique ; une notification à l'écran ne suffit pas. [Source: www.nidcd.nih.gov](https://www.nidcd.nih.gov/health/smell-disorders)"
+    },
+    {
+      "type": "heading",
+      "text": "Qu'ont établi les expériences ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le résumé scientifique décrit une plateforme intégrée de détection distante et de stimulation olfactive, ainsi que des démonstrations associant odorat et goût. Il établit que ces éléments peuvent fonctionner ensemble. Il ne démontre ni un format universel de codage des odeurs, ni une efficacité clinique, ni l'exactitude de toutes les transmissions dans la vie réelle. Chacune de ces affirmations nécessiterait des expériences spécifiques. [Source: europepmc.org](https://europepmc.org/article/MED/42905806)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le compte rendu de Science X rapporte des essais auprès de 14 volontaires en bonne santé : les odeurs individuelles étaient reconnues dans environ 73 % des cas, et les paires dans environ 71 %. Il s'agit de résultats d'identification humaine dans une expérience limitée, pas d'un score global du détecteur IA. Le même compte rendu mentionne une réponse de 0,6 seconde pour une partie du système, alors que la classification d'odeurs alimentaires complexes demandait de quelques secondes à plusieurs dizaines de secondes. Ces chiffres ne promettent donc pas une transmission instantanée et parfaite. [Source: techxplore.com](https://techxplore.com/news/2026-10-scientists-aromas-internet.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces distinctions comptent, car une démonstration sensorielle peut rencontrer des difficultés à plusieurs étapes. Le détecteur peut sélectionner la mauvaise catégorie, le diffuseur émettre une quantité variable, ou une personne percevoir la fragrance attendue tout en la nommant autrement. Des études plus vastes, des contrôles plus précis et des essais hors laboratoire aideraient à distinguer ces situations. Les taux d'identification montrent une expérience mesurable, tout en laissant une marge importante de progression."
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi le récepteur a encore besoin de liquides parfumés"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le récepteur est un équipement matériel, pas une mise à jour qui ajouterait un sens à un appareil existant. Yang a expliqué à Reuters qu'élargir le répertoire demanderait à la fois d'entraîner le détecteur sur de nouvelles odeurs et de fournir les liquides correspondants. Les réservoirs et atomiseurs prennent de la place : un accessoire connecté paraît donc plus accessible qu'une bibliothèque illimitée de fragrances intégrée au téléphone. Les sources consultées n'établissent ni date de commercialisation ni prix public. [Source: www.channelnewsasia.com](https://www.channelnewsasia.com/business/new-scentronic-technology-can-detect-and-transmit-aromas-remotely-6486011)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le problème de distribution diffère ainsi du streaming musical. Un fichier téléchargé peut être recopié, mais une réserve de fragrance doit être fabriquée, livrée et renouvelée. Maintenir une expérience constante entre les recharges serait aussi important que réussir la connexion sans fil. Le consentement doit également guider la conception : chacun devrait pouvoir décider si, quand et avec quelle intensité un dispositif distant diffuse une odeur."
+    },
+    {
+      "type": "heading",
+      "text": "Une nouvelle étape dans un domaine déjà exploré"
+    },
+    {
+      "type": "paragraph",
+      "text": "Scentronic n'a pas inventé la diffusion électronique d'odeurs. Une autre étude, parue dans Nature Communications en 2024, examinait des générateurs miniaturisés et des interfaces portables assistées par IA pour la réalité mixte. Elle abordait les délais de réponse, la consommation et l'encombrement. Ces résultats éclairent les recherches du domaine, mais ne doivent pas être attribués au système de l'Ohio ou servir à exagérer ses performances. Les prototypes répondent à des questions expérimentales différentes. [Source: www.nature.com](https://www.nature.com/articles/s41467-024-48884-z.pdf)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction aide à évaluer ce que signifie une avancée. Le progrès peut résider dans l'intégration de composants au sein d'une chaîne expérimentale, plutôt que dans un principe physique entièrement nouveau. Comparer des systèmes exige les mêmes définitions de reconnaissance, de diffusion, de délai et d'expérience. Un actionneur rapide et un détecteur fiable sont utiles, mais aucun ne garantit à lui seul une reproduction convaincante."
+    },
+    {
+      "type": "heading",
+      "text": "Des applications à tester avant de les promettre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les auteurs évoquent des usages possibles dans la recherche sensorielle et les interactions multisensorielles. Une diffusion contrôlée pourrait aider à étudier la perception ; son association à des signaux visuels ou gustatifs pourrait créer de nouveaux environnements expérimentaux. Ces perspectives ne démontrent pas que Scentronic diagnostique ou traite une maladie. Un usage clinique demanderait une validation adaptée, et un usage grand public une évaluation des expositions répétées, de l'ergonomie et de la fiabilité. [Source: europepmc.org](https://europepmc.org/article/MED/42905806)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour le commerce, le divertissement ou les échanges à distance, la question est de savoir si une petite bibliothèque fiable apporte assez de valeur pour justifier un appareil dédié. C'est une question ouverte, pas une adoption inévitable. Comme le montre l'enquête de PRESDA sur les câbles sous-marins, les expériences numériques reposent sur une infrastructure physique. Scentronic rend cette dépendance particulièrement concrète : le réseau transporte des instructions et le dispositif local fournit la matière qui les transforme en sensation. [Lecture associée 1](/articles/undersea-cables-hidden-network-connecting-world/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: europepmc.org",
+      "url": "https://europepmc.org/article/MED/42905806"
+    },
+    {
+      "label": "Source: doi.org",
+      "url": "https://doi.org/10.1126/sciadv.aee9266"
+    },
+    {
+      "label": "Source: www.channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/business/new-scentronic-technology-can-detect-and-transmit-aromas-remotely-6486011"
+    },
+    {
+      "label": "Source: www.nidcd.nih.gov",
+      "url": "https://www.nidcd.nih.gov/health/smell-disorders"
+    },
+    {
+      "label": "Source: techxplore.com",
+      "url": "https://techxplore.com/news/2026-10-scientists-aromas-internet.html"
+    },
+    {
+      "label": "Source: www.nature.com",
+      "url": "https://www.nature.com/articles/s41467-024-48884-z.pdf"
+    }
+  ],
+  "faq": []
+}
