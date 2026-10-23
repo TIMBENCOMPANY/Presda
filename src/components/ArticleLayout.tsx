@@ -1,3 +1,4 @@
+import newsOct23BatchHeroCaptions from "@/data/newsOct23BatchHeroCaptions.json";
 import birdBatchHeroCaptions from "@/data/birdBatchHeroCaptions.json";
 import discoveryBatchHeroCaptions from "@/data/discoveryBatchHeroCaptions.json";
 import ownershipBatchHeroCaptions from "@/data/ownershipBatchHeroCaptions.json";
@@ -417,6 +418,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in gravityHeroCaptions && <p data-gravity-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gravityHeroCaptions[article.slug as keyof typeof gravityHeroCaptions][locale]}</p>}
         {article.slug in premiumBatchHeroCaptions && <p data-premium-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{premiumBatchHeroCaptions[article.slug as keyof typeof premiumBatchHeroCaptions][locale]}</p>}
         {article.slug === "electric-cars-global-shift-future-gasoline-diesel" && <p data-electric-cars-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{electricCarsHeroCaptions[locale]}</p>}
+        {article.slug in newsOct23BatchHeroCaptions && <p data-news-oct23-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsOct23BatchHeroCaptions[article.slug as keyof typeof newsOct23BatchHeroCaptions][locale]}</p>}
         {article.slug in birdBatchHeroCaptions && <p data-bird-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{birdBatchHeroCaptions[article.slug as keyof typeof birdBatchHeroCaptions][locale]}</p>}
         {article.slug in discoveryBatchHeroCaptions && <p data-discovery-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{discoveryBatchHeroCaptions[article.slug as keyof typeof discoveryBatchHeroCaptions][locale]}</p>}
         {article.slug in ownershipBatchHeroCaptions && <p data-ownership-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{ownershipBatchHeroCaptions[article.slug as keyof typeof ownershipBatchHeroCaptions][locale]}</p>}

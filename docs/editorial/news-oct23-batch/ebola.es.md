@@ -1,0 +1,45 @@
+Nigeria ha confirmado un caso importado de enfermedad por virus Bundibugyo, ampliando el alcance internacional del brote de ébola iniciado en la República Democrática del Congo en mayo de 2026. Confirmar una paciente en Abuya es un acontecimiento sanitario serio. Por sí solo, no demuestra transmisión comunitaria sostenida en Nigeria. El comunicado de la OMS del 20 de octubre describe una paciente aislada, una respuesta nacional activada e investigaciones sobre sus posibles exposiciones.
+
+La distinción es esencial. Un país puede diagnosticar a un viajero infectado en otro lugar, detectar casos secundarios entre contactos próximos o afrontar cadenas de transmisión comunitaria. Cada situación exige una evaluación diferente. Un mapa que colorea todos los países del mismo modo puede ocultar más de lo que explica.
+
+## Qué se sabe de la paciente en Nigeria
+
+Según la OMS, la mujer llegó desde Uganda el 3 de octubre, desarrolló síntomas el 7 y acudió a un centro privado de Abuya el 11. La confirmación de laboratorio llegó el 20. Las autoridades identificaron inicialmente 44 contactos para seguimiento y reforzaron la prevención de infecciones en el centro. Es un recuento fechado, no una garantía de haber localizado a todas las personas potencialmente expuestas.
+
+El 22 de octubre, AP informó de que Africa CDC investigaba si los primeros pacientes detectados en Kenia y Nigeria habían interactuado en el aeropuerto de Entebbe el 3 de octubre. El posible vínculo seguía bajo investigación. AP también recogió desacuerdos sobre la afirmación de que la paciente de Nigeria había viajado al Congo. Por ello, el origen de la infección permanece sin resolver en este relato; un itinerario no demuestra dónde ocurrió el contagio.
+
+## Las cifras, con sus fechas de referencia
+
+El informe semanal de la OMS con datos hasta el 19 de octubre registra 9.637 casos confirmados y 4.646 muertes confirmadas en el Congo, distribuidos en 66 zonas sanitarias de ocho provincias. Presenta una letalidad bruta del 48,2%. Son casos y muertes confirmados notificados, no una estimación de todas las infecciones. Las lagunas de vigilancia, los retrasos y la evolución de los pacientes afectan a su interpretación.
+
+Una actualización del ECDC publicada el 22 de octubre, basada en datos congoleños hasta el día 20, recoge 9.704 casos confirmados y 4.687 muertes relacionadas en el Congo. La diferencia responde a fechas de corte distintas; ambos registros no deben mezclarse en un total supuestamente simultáneo. El mismo documento contabiliza en Kenia nueve casos confirmados, incluida una muerte, hasta el 22 de octubre.
+
+La información de AP del 22 de octubre sobre datos de Africa CDC indica que solo alrededor del 20% de los casos confirmados eran contactos conocidos y aproximadamente el 60% de las muertes ocurrían en la comunidad, fuera de los centros de tratamiento. Estos indicadores describen problemas de detección y acceso a la atención. No son casos adicionales que deban sumarse a las cifras de la OMS.
+
+## Qué países han registrado casos y qué significa
+
+El Congo sigue siendo el centro de transmisión sostenida. En Kenia, los nueve casos estaban vinculados a un paciente importado e incluían familiares y personal sanitario. El resumen del CDC estadounidense del 20 de octubre señala que el ministerio keniano no había comunicado propagación comunitaria. Un grupo de casos relacionados implica transmisión, pero no demuestra circulación comunitaria extensa sin vínculos conocidos. El caso importado único de Nigeria también debe distinguirse de esa situación.
+
+Uganda registró anteriormente 20 casos confirmados y dos muertes confirmadas; el final de aquel brote fue reconocido internacionalmente el 27 de agosto tras el periodo de vigilancia. Francia notificó una infección importada en junio sin transmisión secundaria identificada. La OMS también documentó dos pacientes diagnosticados en el Congo y evacuados médicamente a Alemania. Están incluidos en el recuento congoleño, no demuestran contagio en Alemania. Las medidas de preparación y el riesgo geográfico de Sudán del Sur tampoco equivalen a un caso confirmado.
+
+## Cómo se transmite el virus Bundibugyo
+
+La enfermedad se transmite por contacto directo de piel lesionada o mucosas con sangre o líquidos corporales infectados, incluido el contacto con objetos contaminados. La OMS indica que las personas no transmiten la enfermedad antes de tener síntomas. La incubación dura entre dos y 21 días. Cuidar de cerca a una persona enferma, manipular un cuerpo sin protección y trabajar en centros sanitarios sin precauciones adecuadas son exposiciones importantes. Viajar por un país no demuestra infección.
+
+Los síntomas iniciales pueden parecerse a los de otras enfermedades. Confirmar una sospecha exige pruebas de laboratorio; una fotografía, fiebre o historial de viaje no permiten diagnosticarla. La atención rápida y organizada profesionalmente importa. La OMS subraya que los cuidados intensivos de apoyo, incluida la rehidratación y el tratamiento de síntomas, pueden mejorar la supervivencia. La ausencia de un medicamento específico aprobado no significa que no exista atención útil.
+
+## Por qué sigue siendo esencial rastrear contactos
+
+El rastreo identifica personas con una exposición plausible, vigila su salud y facilita una evaluación rápida si aparecen síntomas. No consiste solo en recopilar nombres. Los equipos necesitan acceso seguro, comunicaciones fiables, laboratorios y confianza suficiente para que las familias comuniquen enfermedades. La OMS describe la inseguridad, los desplazamientos y las restricciones humanitarias como obstáculos importantes en el Congo.
+
+El sistema nigeriano de gestión de incidentes y las medidas de control de infecciones buscan cortar pronto la transmisión. La OMS también reclama preparación en los puntos de entrada y centros sanitarios públicos y privados. Su comunicado del 20 de octubre desaconseja restricciones al comercio y los viajes con los países afectados. Esa recomendación es distinta de las normas de entrada que puedan imponer los gobiernos.
+
+## Investigar vacunas no equivale a demostrar protección
+
+Las orientaciones de octubre revisadas no establecen una vacuna autorizada ni un tratamiento específico probado para la enfermedad por Bundibugyo. No puede suponerse que las vacunas autorizadas contra la especie Zaire protejan igual frente a Bundibugyo. El ECDC describe plataformas candidatas y estudios sobre posible protección cruzada con Ervebo. Utilizar un producto dentro de un protocolo de investigación no demuestra eficacia contra este virus.
+
+En una entrevista con Channels Television el 22 de octubre, Jean Kaseya, director general de Africa CDC, habló de ensayos clínicos, incluido un candidato fabricado en Egipto. Eso describe investigación, no una autorización ni una reducción demostrada de muertes. Los resultados requieren evaluar seguridad y eficacia. El reportaje de PRESDA sobre la historia y el futuro de la medicina contextualiza la diferencia entre una intervención prometedora y un tratamiento establecido.
+
+## Qué permanece incierto
+
+La exposición exacta de la paciente de Nigeria, la integridad de las listas de contactos y la verdadera extensión de la transmisión no detectada siguen investigándose. Este artículo se comprobó el 23 de octubre de 2026 utilizando los informes fechados indicados. Nuevos casos o reclasificaciones pueden modificar la situación. La conclusión inmediata es precisa: Nigeria ha confirmado un caso importado mientras continúa el gran brote congoleño y Kenia gestiona un grupo vinculado. La imagen es una ilustración generada con IA, no una fotografía de esos pacientes ni de una operación real.
