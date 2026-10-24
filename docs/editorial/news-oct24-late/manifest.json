@@ -1,0 +1,20 @@
+[
+  {
+    "key": "dogs",
+    "slug": "peru-mummified-dogs-castillo-huarmey-wari",
+    "asset": "Archaeologists Unearth Wrapped Canine Burials.png",
+    "sha256": "31ff6403546058e052024e599b4323da08f61634a44c3201077a0f6361453218"
+  },
+  {
+    "key": "dexter",
+    "slug": "dexter-resurrection-season-2-october-30-2026",
+    "asset": "Dexter_ Resurrection Over Miami.png",
+    "sha256": "02beb7bddf618efdedb9912346657809a4bf947473b9919c9a27299e0fa57c36"
+  },
+  {
+    "key": "hotels",
+    "slug": "underwater-hotels-ocean-suites-real-prices",
+    "asset": "Luxury Underwater Reef Suite.png",
+    "sha256": "2596bcb5c52b4b0012ac250399e9d9004e09c1cddbe28442d4128f62558a270a"
+  }
+]

@@ -10,6 +10,10 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // Approved AI illustrations with localized disclosures: docs/editorial/news-oct24-late/REVIEW.md.
+  "/articles/news-oct24-late-dogs-hero.png",
+  "/articles/news-oct24-late-dexter-hero.png",
+  "/articles/news-oct24-late-hotels-hero.png",
   // Approved AI illustrations with localized disclosures: docs/editorial/news-oct24-batch/REVIEW.md.
   "/articles/news-oct24-batch-loris-hero.png",
   "/articles/news-oct24-batch-lupin-hero.png",

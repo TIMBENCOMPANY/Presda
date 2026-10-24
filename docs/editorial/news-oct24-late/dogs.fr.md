@@ -1,0 +1,45 @@
+Les dents absentes d'un chien peuvent raconter ce que l'or ne dit pas. À Castillo de Huarmey, sur la côte pacifique du Pérou, des restes canins, dont des spécimens naturellement momifiés, éclairent la vie auprès des humains à l'époque wari. Un mâle remarquablement conservé remonte à environ 1 200 ans. Cette découverte interroge la compagnie animale, les différences de traitement et la place des chiens parmi les morts.
+
+Les résultats figurent dans le volume de juin 2026 du Journal of Anthropological Archaeology et reposent sur des fouilles réalisées entre 2010 et 2025. Ils ne décrivent pas une rangée de chiens intacts et enveloppés découverte en octobre. L'étude croise ossements, contexte funéraire et signatures chimiques, tout en exposant les limites de ces indices pour reconstituer des existences.
+
+## Qu'a-t-on réellement découvert ?
+
+Les chercheurs ont recensé 341 éléments osseux canins, auxquels s'ajoutent les restes presque complets d'un mâle naturellement momifié. Ce nombre désigne des ossements, pas 341 chiens. Trois individus ont particulièrement retenu l'attention : un crâne conservant peau et oreilles, un autre crâne et le mâle momifié. Leur anatomie correspond à celle du chien nu du Pérou. Le compte rendu de Dartmouth attribue les ossements à au moins 19 chiens, en plus de ce mâle.
+
+Cette précision transforme le tableau. Les archéologues reconstituent une population diverse à partir d'os dispersés, de corps partiels et de vestiges exceptionnellement conservés. Un squelette en connexion préserve des relations anatomiques qu'un dépôt bouleversé peut effacer. Un crâne isolé renseigne sur l'anatomie sans nécessairement livrer les circonstances de son dépôt. Chaque pièce répond à une question différente, jamais à toute une biographie.
+
+## Un centre wari bien antérieur à l'empire inca
+
+Castillo de Huarmey était un centre cérémoniel et administratif doté de sépultures d'élite, associé au monde wari entre environ 600 et 1050 de notre ère. Il se situe à quelque 305 kilomètres au nord de Lima. Les animaux appartenaient ainsi à un paysage habité, fait de travail, d'alimentation et de cérémonies. L'agence péruvienne Andina a interrogé Miłosz Giersz, codirecteur des fouilles, sur l'importance de ces chiens nus pour comprendre les sociétés andines anciennes.
+
+L'archéologie dépend aussi de ce qui survient après l'inhumation. Les dégâts du séisme de 1970 ont exposé certaines parties du site au pillage, et de nombreux dépôts supérieurs ont été mélangés. Un os proche d'un objet précieux ne relève donc pas automatiquement de la même cérémonie. Une association intacte n'a pas la même valeur probante qu'un matériau déplacé, distinction indispensable pour comprendre cette découverte.
+
+## Pourquoi des dents absentes suggèrent-elles l'absence de poils ?
+
+Il ne suffit pas d'observer une momie peu velue pour diagnostiquer la nudité : la décomposition peut faire disparaître les poils. L'équipe a étudié l'absence congénitale de certaines dents, autrement dit des dents jamais formées, plutôt que des dents perdues pendant la vie ou après la mort. Une dentition réduite est associée au caractère héréditaire de nudité. La peau conservée et les caractéristiques dentaires soutiennent ensemble l'identification de trois probables chiens nus du Pérou.
+
+Le mot « probables » compte. Il s'agit d'une identification anatomique, pas d'une démonstration par ADN ancien d'une filiation ininterrompue avec tous les chiens actuels portant ce nom. Les chiens nus peuvent également conserver des zones poilues. Leur importance culturelle reste remarquable sans transformer une conclusion morphologique en certitude génétique ni annoncer le plus ancien chien domestique du monde.
+
+## Que signifie la datation de 1 200 ans ?
+
+L'étude donne une plage radiocarbone calibrée de 688 à 870 de notre ère pour le mâle momifié, identifié PIT-211. « Environ 1 200 ans » constitue une approximation lisible, pas une date de naissance exacte. Le radiocarbone estime l'âge d'un matériau organique ; la calibration traduit cette mesure en dates calendaires à l'aide de séries de référence. Cette plage concerne l'animal analysé, et non automatiquement tous les fragments canins du site.
+
+La momification naturelle appelle une autre distinction. Une sécheresse exceptionnelle peut préserver les tissus sans embaumement volontaire. Une momie ne prouve donc pas l'emploi d'une recette particulière de conservation. Notre illustration principale est une reconstitution générée par IA : textiles, disposition des animaux et scène de fouille imaginée ne documentent pas les découvertes réelles.
+
+## Sépultures, pigment et limites de l'interprétation rituelle
+
+Un crâne conservé portait du cinabre. D'autres restes canins accompagnaient des sépultures humaines, notamment un chiot auprès d'un artisan d'élite surnommé le Maître vannier. Ces associations rendent plausible une dimension cérémonielle sans démontrer une croyance wari unique concernant les chiens. Le compte rendu d'Andina souligne la diversité des rôles quotidiens et rituels : certains restes étaient déposés avec des personnes, d'autres rejetés après la mort.
+
+Le mâle momifié reposait dans une fosse peu profonde dépourvue d'offrandes funéraires. L'absence de la partie inférieure de ses membres antérieurs ne prouve pas une amputation rituelle. De même, un chiot dans une tombe humaine ne révèle pas à lui seul un sacrifice, une mort naturelle ou un déplacement ultérieur. Un récit rigoureux sépare l'association observée des explications proposées, sans inventer une scène émouvante que les fouilles ne peuvent confirmer.
+
+## L'empreinte chimique des repas et des déplacements
+
+Les chercheurs ont comparé les isotopes des dents et des os aux données disponibles sur les humains et les camélidés du site. Carbone et azote contribuent à l'étude de l'alimentation ; oxygène et strontium renseignent notamment sur l'eau et les parcours géographiques. Les tissus se forment ou se renouvellent à des moments différents, permettant de comparer certains aspects de la jeunesse et de la vie adulte. Les résultats suggèrent une alimentation liée aux activités humaines, avec un signal associé au maïs.
+
+Ce n'est pas un menu conservé. Le maïs peut être consommé directement ou parvenir au chien par d'autres aliments, et des signatures proches ne supposent pas des plats identiques. Nourrissage volontaire et consommation de déchets peuvent aussi produire des indices comparables. L'étude envisage un apport alimentaire particulier aux chiots nus et une reproduction organisée, mais reconnaît le petit échantillon et les autres explications possibles. Elle ne démontre ni élevage commercial wari ni régime standardisé pour les chiots.
+
+## Ces chiens étaient-ils aimés ?
+
+Les os montrent que les animaux vivaient près des humains, partageaient des circuits alimentaires et les accompagnaient parfois dans la mort. L'affection se laisse moins facilement fouiller. Un chien pouvait être utile à un foyer, toléré par un autre et indésirable ailleurs. « Compagnon » ne signifie pas forcément animal choyé au sens actuel ; une tombe modeste ne signifie pas non plus absence d'importance. Cette complexité donne à la découverte sa dimension humaine.
+
+Les progrès viendront de contextes mieux établis et de nouveaux spécimens datés indépendamment, plutôt que de récits plus affirmatifs. Le guide PRESDA consacré à Pompéi explore une difficulté comparable : une conservation exceptionnelle rend les vies anciennes plus visibles, sans rendre toutes les interprétations certaines. À Huarmey, les chiens restent des individus dont on peut étudier les traces, même lorsque leurs noms et les sentiments qu'ils inspiraient ont disparu.
