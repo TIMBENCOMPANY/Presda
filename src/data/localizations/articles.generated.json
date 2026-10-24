@@ -41407,6 +41407,408 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/bangka-slow-loris-rediscovered-conservation/",
+    "path": "/ar/articles/bangka-slow-loris-rediscovered-conservation/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-24",
+      "terminologyChecked": true
+    },
+    "title": "إعادة اكتشاف رئيسي سام بعد غياب علمي يقارب قرناً",
+    "seoTitle": "لوريس بانغكا: إعادة الاكتشاف والسم وحماية الموائل",
+    "description": "دراسة توثق أكثر من 90 عملية إنقاذ للوريس بانغكا. كيف يعمل سمه، وما مخاطر فقدان الموائل، ولماذا لا يعني الغياب عن السجل العلمي الانقراض؟",
+    "excerpt": "دراسة توثق أكثر من 90 عملية إنقاذ للوريس بانغكا. كيف يعمل سمه، وما مخاطر فقدان الموائل، ولماذا لا يعني الغياب عن السجل العلمي الانقراض؟",
+    "headlineHighlights": {
+      "red": "رئيسي سام",
+      "gold": "يقارب قرناً"
+    },
+    "keywords": [
+      "رئيسي سام",
+      "يقارب قرناً"
+    ],
+    "searchIntent": "دراسة توثق أكثر من 90 عملية إنقاذ للوريس بانغكا. كيف يعمل سمه، وما مخاطر فقدان الموائل، ولماذا لا يعني الغياب عن السجل العلمي الانقراض؟",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-24",
+    "updatedAt": "2026-10-24",
+    "image": {
+      "src": "/articles/news-oct24-batch-loris-hero.png",
+      "alt": "رسم تحريري مولد بالذكاء الاصطناعي للوريس بين أوراق استوائية"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "عاد رئيسي صغير ينشط ليلاً إلى دائرة الاهتمام العلمي في جزيرة بانغكا الإندونيسية، مع أن السكان الذين كانوا ينقذونه لم يحتاجوا يوماً إلى إقناع بوجوده. فلوريس بانغكا البطيء، واسمه العلمي Nycticebus bancanus، موضوع دراسة جديدة توثق حيوانات عُثر عليها خلال عقد كامل. والقصة أقرب إلى تصحيح السجل العلمي منها إلى عودة من الانقراض: نوع وُصف بأنه ربما انقرض كان يعيش بجوار مجتمعات لم تنعكس معارفها بما يكفي في ذلك السجل."
+      },
+      {
+        "type": "paragraph",
+        "text": "يستند الإعلان الصادر في أكتوبر 2026 إلى أكثر من 90 عملية إنقاذ نفذها مركز ALOBI المحلي لإنقاذ الحياة البرية بين عامي 2015 و2025. ويقدم دليلاً مرحباً به على استمرار النوع، لكنه يرسم أيضاً صورة مقلقة لحيوانات تتعرض مراراً لبنية تحتية خطرة وموائل متضررة. إعادة الاكتشاف بداية لمسؤولية الحماية، وليست برهاناً على أن النوع أصبح آمناً. [المصدر: www.rewild.org](https://www.rewild.org/press/bangka-slow-loris-rediscovered)"
+      },
+      {
+        "type": "heading",
+        "text": "غائب عن السجل العلمي لا يعني منقرضاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحتاج الفجوة التاريخية إلى صياغة دقيقة. تقول الدراسة الجديدة في مجلة Spixiana إن تقييم الاتحاد الدولي لحفظ الطبيعة أدرج الحيوان ضمن الأنواع المهددة بخطر انقراض أقصى مع احتمال انقراضه، وذكر 1937 بوصفه آخر عام لرصده. ويشكك الباحثون في دقة هذا التاريخ، إذ يبدو أنه يعود إلى منشور لم يحدد تواريخ جمع العينات. لذلك يظل توقيت آخر سجل تاريخي غير محسوم. ولم تكن الأدلة الحديثة غائبة تماماً أيضاً، فقد سبقت الدراسة صور ومشاهدات محلية وإشارات إلى أبحاث أخرى. [المصدر: pfeil-verlag.de](https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ولهذا تصف عبارة «نحو قرن» فجوة طويلة في السجل المعترف به على نطاق واسع، لا فترة محسوبة لم يرَ خلالها أحد حيوان اللوريس. كما أن «ربما انقرض» تختلف عن التصنيف الرسمي «منقرض». لم يعد الحيوان من الانقراض. ويوضح ملف PRESDA عن الأنواع التي اختفت فعلاً لماذا يغير إثبات وجود جماعة باقية طبيعة السؤال كله. [قراءة مرتبطة 1](/articles/extinct-animals-lost-creatures-planet/)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا تثبت سجلات الإنقاذ؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحلل الدراسة سجلات ALOBI حتى أغسطس 2025. وتوفرت تفاصيل ظروف الإنقاذ لـ43 حيواناً أُنقذت منذ 2021، مع مواقع لـ39 منها. شملت الحالات مناطق سكنية وطرقاً وأسر الحيوانات وحروقاً كهربائية. وخلال الفترة الأطول أُطلق 86 حيواناً. هذه تدخلات موثقة وليست إحصاءً لأعداد النوع في الجزيرة. ويصرح الباحثون بأن بيانات البقاء بعد الإطلاق لم تُجمع بعد. [المصدر: pfeil-verlag.de](https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجيب خريطة الإنقاذ عن سؤال أين وجد الناس الحيوانات واستطاعوا طلب المساعدة. لكنها لا تكشف وحدها أين يعيش معظم اللوريس. وقد تعكس كثرة البلاغات قرب المركز سهولة الإبلاغ أكثر مما تعكس جودة الموائل. كذلك لا يثبت العثور على حيوان في حديقة أن المزارع تستطيع تعويض الغابات. فالوجود والوفرة والقدرة على البقاء طويلاً أسئلة منفصلة، وعلى التغطية الجيدة لشؤون الحماية أن تفصل بينها."
+      },
+      {
+        "type": "heading",
+        "text": "رئيسي سام ذو حياة مختلفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "ينتمي اللوريس البطيء إلى فرع الرئيسيات رطبة الأنف، الذي يضم الليمور والغَلاغو، وليس إلى فرع القردة والسعادين. ويتحرك بتأنٍّ بين النباتات، وله عينان كبيرتان ترتبطان بحياته الليلية. وفي مقابلات مع رويترز وصف الباحثون ظهر حيوان بانغكا المائل إلى الحمرة وعلامات وجهه الفاتحة، مع التأكيد على محدودية المعرفة بغذائه. الحشرات والصموغ النباتية والرحيق أطعمة محتملة بالقياس إلى أقاربه، وليست قائمة غذائية كاملة جرى قياسها مباشرة في بانغكا. [المصدر: www.gmanetwork.com](https://www.gmanetwork.com/news/scitech/science/1006747/feared-extinct-bangka-slow-loris-primate-rediscovered-in-indonesia/story/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجعل منظومة السم اللوريس استثنائياً بين الثدييات. فإفرازات غدة قرب أعلى الذراع تختلط باللعاب ويمكن إيصالها بعضة. وتشكل الأسنان الأمامية السفلية مشطاً سنياً يُستخدم أيضاً في التنظيف. ولا ينبغي تفسير الوجه الهادئ على أنه دعوة للمس: فقد تسبب العضة إصابة شديدة، وفي البشر تفاعلاً تحسسياً خطراً. اللوريس البري ليس حيواناً أليفاً آمناً ولا وسيلة لالتقاط صورة عن قرب. [المصدر: www.gmanetwork.com](https://www.gmanetwork.com/news/scitech/science/1006747/feared-extinct-bangka-slow-loris-primate-rediscovered-in-indonesia/story/)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي يعرفه العلم عن السم؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "ربطت دراسة ميدانية استمرت ثمانية أعوام على اللوريس البطيء الجاوي، ونُشرت في Current Biology عام 2020، استخدام السم بالتنافس داخل النوع، بما في ذلك النزاع على مناطق النفوذ. وهي تتحدى افتراض أن السم تطور دائماً أساساً لاصطياد الفرائس. لكنها تقدم مقارنة، لا تفسيراً مكتملاً لسلوك حيوان بانغكا: لا يمكن ببساطة تحويل مشاهدات Nycticebus javanicus إلى مشاهدات Nycticebus bancanus. [المصدر: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/33080192/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "هذا التمييز مهم لأن قصص إعادة الاكتشاف تتقدم غالباً أسرع من المعرفة البيولوجية. إثبات بقاء النوع نتيجة علمية، أما وصف بيئته الغذائية وتكاثره وسلوكه الاجتماعي واتجاه أعداده فيحتاج إلى عمل إضافي. ولا تكمن جاذبية هذا الحيوان في حل جميع ألغاز حياته، بل في أن الباحثين باتوا قادرين على طرح أسئلة أفضل عن جماعة حية."
+      },
+      {
+        "type": "heading",
+        "text": "مشكلة الغابات وراء إعادة الاكتشاف"
+      },
+      {
+        "type": "paragraph",
+        "text": "يحدد لانغكا ساني، مدير ALOBI، إزالة الغابات المرتبطة بتعدين القصدير ومزارع نخيل الزيت بوصفها من أبرز الضغوط. وتفيد Re:wild بوجود سجلات إنقاذ من أقاليم بانغكا الأربعة ومدينة بانغكال بينانغ، بما يشير إلى انتشار أوسع مما وثقه السجل العلمي. ولا ينبغي الخلط بين اتساع الانتشار والأمان، فالطرق وخطوط الكهرباء والغطاء النباتي المجزأ تعرض الحيوانات للخطر مراراً. [المصدر: www.rewild.org](https://www.rewild.org/press/bangka-slow-loris-rediscovered)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتوضح هذه الوقائع الأولويات العملية: الحفاظ على الموائل، وتقليل العبور الخطر، والاستفادة من البلاغات المحلية في تخطيط الحماية. تستطيع عمليات الإنقاذ إنقاذ أفراد، لكنها لا تعوض بلا نهاية فقدان الأماكن التي يحتاجونها. ويجب أن تبقى معرفة المجتمعات المحلية في قلب العمل، لأن تواصل السكان مع المنقذين أسهم في إظهار هذا البقاء للمجتمع البحثي الأوسع."
+      },
+      {
+        "type": "heading",
+        "text": "كيف يبدو فصل تالٍ ناجح؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يوصي الباحثون بحماية الموائل ومراقبة الحيوانات بعد إطلاقها وإطلاق مبادرة للإكثار بغرض الحفظ. هذه مقترحات، وليست دليلاً على أن برنامجاً جديداً متكاملاً يعمل بالفعل. ويمكن للمسوحات تقدير الأعداد والتوزع، وللدراسات الجينية توضيح العلاقات، ولمتابعة ما بعد الإطلاق اختبار ما إذا كان التأهيل يحقق مكاسب مستدامة. [المصدر: pfeil-verlag.de](https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لذلك تحتاج البشرى المقبلة إلى أكثر من مشاهدة إضافية. تحتاج إلى دليل على قدرة اللوريس على البقاء في موائل مترابطة، ونجاة الحيوانات المُطلقة، وتوفر الموارد اللازمة لاستمرار فرق الحماية المحلية. لم يكن لوريس بانغكا ينتظر أن يعلنه العالم الخارجي حياً. ومستقبله الآن يتوقف على ما سيفعله ذلك العالم بهذه الأدلة."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.rewild.org",
+        "url": "https://www.rewild.org/press/bangka-slow-loris-rediscovered"
+      },
+      {
+        "label": "المصدر: pfeil-verlag.de",
+        "url": "https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf"
+      },
+      {
+        "label": "المصدر: www.gmanetwork.com",
+        "url": "https://www.gmanetwork.com/news/scitech/science/1006747/feared-extinct-bangka-slow-loris-primate-rediscovered-in-indonesia/story/"
+      },
+      {
+        "label": "المصدر: pubmed.ncbi.nlm.nih.gov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33080192/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/bangka-slow-loris-rediscovered-conservation/",
+    "path": "/es/articles/bangka-slow-loris-rediscovered-conservation/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-24",
+      "terminologyChecked": true
+    },
+    "title": "Redescubren un primate venenoso tras casi un siglo",
+    "seoTitle": "Loris de Bangka: redescubrimiento, veneno y conservación",
+    "description": "Más de 90 rescates documentan la supervivencia del loris de Bangka. Su veneno, las amenazas al bosque y por qué perdido para la ciencia no significa extinto.",
+    "excerpt": "Más de 90 rescates documentan la supervivencia del loris de Bangka. Su veneno, las amenazas al bosque y por qué perdido para la ciencia no significa extinto.",
+    "headlineHighlights": {
+      "red": "primate venenoso",
+      "gold": "casi un siglo"
+    },
+    "keywords": [
+      "primate venenoso",
+      "casi un siglo"
+    ],
+    "searchIntent": "Más de 90 rescates documentan la supervivencia del loris de Bangka. Su veneno, las amenazas al bosque y por qué perdido para la ciencia no significa extinto.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-24",
+    "updatedAt": "2026-10-24",
+    "image": {
+      "src": "/articles/news-oct24-batch-loris-hero.png",
+      "alt": "Ilustración editorial generada con IA de un loris entre vegetación tropical"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un pequeño primate nocturno ha vuelto a captar la atención científica en la isla indonesia de Bangka, aunque quienes lo rescataban nunca necesitaron pruebas de que existía. El loris lento de Bangka, Nycticebus bancanus, protagoniza un nuevo estudio sobre animales encontrados a lo largo de una década. Su historia es menos una resurrección que una corrección: una especie considerada posiblemente extinta vivía junto a comunidades cuyos conocimientos no estaban suficientemente reflejados en el registro científico."
+      },
+      {
+        "type": "paragraph",
+        "text": "El anuncio de octubre de 2026 se basa en más de 90 rescates realizados entre 2015 y 2025 por el centro local ALOBI Wildlife Rescue Center. Aporta una valiosa prueba de supervivencia, pero también muestra encuentros reiterados con infraestructuras peligrosas y hábitats dañados. El redescubrimiento abre una responsabilidad de conservación; no demuestra que la especie esté a salvo. [Fuente: www.rewild.org](https://www.rewild.org/press/bangka-slow-loris-rediscovered)"
+      },
+      {
+        "type": "heading",
+        "text": "Perdido para la ciencia no significa extinto"
+      },
+      {
+        "type": "paragraph",
+        "text": "El vacío histórico exige precisión. El nuevo artículo de Spixiana señala que la evaluación de la UICN clasificaba al animal En Peligro Crítico (Posiblemente Extinto), con 1937 como último año de avistamiento. Los autores cuestionan esa exactitud: la fecha parece corresponder a una publicación cuyos ejemplares carecían de fechas de recolección. El último registro histórico sigue siendo incierto. Tampoco había desaparecido toda evidencia moderna: ya existían fotografías, observaciones locales y referencias a investigaciones anteriores. [Fuente: pfeil-verlag.de](https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Por eso, casi un siglo describe una larga laguna en el registro ampliamente reconocido, no un periodo medido durante el cual nadie vio un loris. Posiblemente extinto tampoco equivale a una declaración formal de Extinto. El animal no ha regresado de la extinción. El análisis de PRESDA sobre especies realmente desaparecidas explica por qué demostrar la existencia de una población superviviente cambia por completo la pregunta. [Lectura relacionada 1](/articles/extinct-animals-lost-creatures-planet/)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué demuestran los rescates"
+      },
+      {
+        "type": "paragraph",
+        "text": "El estudio analiza los archivos de ALOBI hasta agosto de 2025. Había circunstancias detalladas para 43 animales rescatados desde 2021 y ubicaciones para 39. Los encuentros incluyeron asentamientos, carreteras, cautividad y quemaduras eléctricas. En el conjunto del periodo se liberaron 86 animales. Son intervenciones documentadas, no un censo de la isla. Los autores indican expresamente que todavía no se han recogido datos sobre supervivencia después de la liberación. [Fuente: pfeil-verlag.de](https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un mapa de rescates muestra dónde encontraron animales las personas y pudieron pedir ayuda. Por sí solo no revela dónde vive la mayoría de los loris. Más avisos cerca de un centro pueden reflejar una mejor comunicación, no un hábitat superior. Asimismo, encontrar un animal en un jardín no demuestra que las plantaciones puedan sustituir al bosque. Presencia, abundancia y viabilidad a largo plazo son preguntas diferentes, y un relato útil de conservación debe distinguirlas."
+      },
+      {
+        "type": "heading",
+        "text": "Un primate venenoso con una vida singular"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los loris lentos pertenecen a los estrepsirrinos, la rama de los primates que incluye lémures y gálagos, y no a la de los monos y simios. Se desplazan despacio por la vegetación y tienen grandes ojos asociados a su vida nocturna. En entrevistas con Reuters, los investigadores describieron el lomo rojizo y las marcas faciales claras del animal de Bangka, pero subrayaron lo poco que se conoce su dieta. Insectos, gomas vegetales y néctar son alimentos plausibles por comparación con sus parientes, no un menú completo medido directamente en Bangka. [Fuente: www.gmanetwork.com](https://www.gmanetwork.com/news/scitech/science/1006747/feared-extinct-bangka-slow-loris-primate-rediscovered-in-indonesia/story/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El sistema de veneno hace excepcionales a estos loris entre los mamíferos. Las secreciones de una glándula próxima a la parte superior del brazo se mezclan con saliva y pueden transmitirse mediante una mordedura. Sus dientes delanteros inferiores forman un peine dental que también sirve para el aseo. La apariencia dócil no debe interpretarse como permiso para tocarlos: una mordedura puede causar lesiones graves y una reacción alérgica peligrosa en humanos. Un loris silvestre no es una mascota segura ni un accesorio fotográfico. [Fuente: www.gmanetwork.com](https://www.gmanetwork.com/news/scitech/science/1006747/feared-extinct-bangka-slow-loris-primate-rediscovered-in-indonesia/story/)"
+      },
+      {
+        "type": "heading",
+        "text": "Lo que la ciencia sabe del veneno"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un estudio de campo de ocho años sobre loris lentos de Java, publicado en Current Biology en 2020, relacionó el uso del veneno con la competencia dentro de la especie, incluidos los conflictos territoriales. La investigación cuestiona la idea de que el veneno siempre evolucionó principalmente para capturar presas. También ofrece una comparación, no una explicación definitiva del comportamiento en Bangka: las observaciones de Nycticebus javanicus no pueden convertirse automáticamente en observaciones de Nycticebus bancanus. [Fuente: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/33080192/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinción importa porque los relatos de redescubrimiento suelen avanzar más deprisa que el conocimiento biológico. Demostrar que una especie sobrevive es un hallazgo; describir su alimentación, reproducción, comportamiento social y tendencia poblacional requiere más investigación. Lo fascinante del animal no es que todos sus misterios estén resueltos, sino que ahora pueden plantearse mejores preguntas sobre una población viva."
+      },
+      {
+        "type": "heading",
+        "text": "El problema del bosque detrás del redescubrimiento"
+      },
+      {
+        "type": "paragraph",
+        "text": "El director de ALOBI, Langka Sani, identifica la tala vinculada a la minería del estaño y las plantaciones de palma aceitera entre las principales presiones. Re:wild informa de rescates en las cuatro regencias de Bangka y en la ciudad de Pangkal Pinang, lo que sugiere una distribución más amplia de la documentada científicamente. Esa extensión no garantiza seguridad: carreteras, tendidos eléctricos y vegetación fragmentada exponen reiteradamente a los animales al peligro. [Fuente: www.rewild.org](https://www.rewild.org/press/bangka-slow-loris-rediscovered)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las prioridades prácticas se desprenden de esos encuentros: conservar el hábitat, reducir los cruces peligrosos e incorporar los avisos locales a la planificación. Los rescates pueden salvar individuos, pero no compensar indefinidamente la pérdida de los lugares que necesitan. Los conocimientos comunitarios deben ocupar un lugar central, porque el contacto entre habitantes y rescatistas ayudó a mostrar esa supervivencia al mundo científico."
+      },
+      {
+        "type": "heading",
+        "text": "Cómo sería un próximo capítulo exitoso"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los autores recomiendan proteger el hábitat, supervisar las liberaciones e impulsar la cría para conservación. Son propuestas, no pruebas de que ya funcione un programa nuevo y completo. Los muestreos ayudarían a establecer cantidades y distribución; la genética aclararía relaciones; el seguimiento tras la liberación comprobaría si la rehabilitación produce beneficios duraderos. [Fuente: pfeil-verlag.de](https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La próxima noticia que merezca celebrarse necesitará algo más que otro avistamiento. Hará falta demostrar que los loris pueden permanecer en hábitats conectados, que sobreviven los animales liberados y que los equipos locales tienen recursos para continuar. El loris de Bangka nunca esperó a que el mundo exterior lo declarara vivo. Su futuro depende ahora de lo que ese mundo haga con las pruebas."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.rewild.org",
+        "url": "https://www.rewild.org/press/bangka-slow-loris-rediscovered"
+      },
+      {
+        "label": "Fuente: pfeil-verlag.de",
+        "url": "https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf"
+      },
+      {
+        "label": "Fuente: www.gmanetwork.com",
+        "url": "https://www.gmanetwork.com/news/scitech/science/1006747/feared-extinct-bangka-slow-loris-primate-rediscovered-in-indonesia/story/"
+      },
+      {
+        "label": "Fuente: pubmed.ncbi.nlm.nih.gov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33080192/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/bangka-slow-loris-rediscovered-conservation/",
+    "path": "/fr/articles/bangka-slow-loris-rediscovered-conservation/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-24",
+      "terminologyChecked": true
+    },
+    "title": "Un primate venimeux redécouvert après près d'un siècle",
+    "seoTitle": "Loris de Bangka : redécouverte, venin et protection",
+    "description": "Plus de 90 sauvetages documentent la survie du loris de Bangka. Venin, menaces sur les forêts et distinction essentielle entre espèce oubliée et éteinte.",
+    "excerpt": "Plus de 90 sauvetages documentent la survie du loris de Bangka. Venin, menaces sur les forêts et distinction essentielle entre espèce oubliée et éteinte.",
+    "headlineHighlights": {
+      "red": "primate venimeux",
+      "gold": "près d'un siècle"
+    },
+    "keywords": [
+      "primate venimeux",
+      "près d'un siècle"
+    ],
+    "searchIntent": "Plus de 90 sauvetages documentent la survie du loris de Bangka. Venin, menaces sur les forêts et distinction essentielle entre espèce oubliée et éteinte.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-24",
+    "updatedAt": "2026-10-24",
+    "image": {
+      "src": "/articles/news-oct24-batch-loris-hero.png",
+      "alt": "Illustration éditoriale générée par IA d'un loris dans la végétation tropicale"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Un petit primate nocturne revient dans le champ de la recherche sur l'île indonésienne de Bangka, même si les habitants qui le secouraient n'avaient nul besoin d'être convaincus de son existence. Le loris lent de Bangka, Nycticebus bancanus, fait l'objet d'une nouvelle étude consacrée à des animaux rencontrés pendant une décennie. Son histoire relève moins d'une résurrection que d'une correction : une espèce considérée comme possiblement éteinte vivait auprès de communautés dont les connaissances étaient insuffisamment prises en compte par la science."
+      },
+      {
+        "type": "paragraph",
+        "text": "L'annonce d'octobre 2026 s'appuie sur plus de 90 sauvetages réalisés entre 2015 et 2025 par le centre local ALOBI Wildlife Rescue Center. Elle apporte une preuve bienvenue de survie, mais révèle aussi des contacts répétés avec des infrastructures dangereuses et un habitat dégradé. Une redécouverte crée une responsabilité de conservation ; elle ne démontre pas que l'espèce est désormais hors de danger. [Source: www.rewild.org](https://www.rewild.org/press/bangka-slow-loris-rediscovered)"
+      },
+      {
+        "type": "heading",
+        "text": "Perdu pour la science ne signifie pas éteint"
+      },
+      {
+        "type": "paragraph",
+        "text": "La lacune historique doit être formulée avec précision. Le nouvel article de Spixiana indique que l'évaluation de l'UICN classait l'animal En danger critique (Possiblement éteint), avec 1937 comme dernière année d'observation. Les auteurs contestent cette précision : cette date semble correspondre à une publication dont les spécimens ne portaient pas de date de collecte. Le dernier témoignage historique reste donc incertain. Toute trace moderne n'avait pas non plus disparu : photographies, observations locales et références à des recherches antérieures existaient déjà. [Source: pfeil-verlag.de](https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Près d'un siècle désigne ainsi un long vide dans les connaissances largement reconnues, et non une période mesurée pendant laquelle personne n'aurait vu de loris. Possiblement éteint ne signifie pas davantage officiellement classé Éteint. L'animal n'est pas revenu de l'extinction. Le dossier de PRESDA sur les espèces réellement disparues montre pourquoi la preuve d'une population survivante transforme entièrement la question. [Lecture associée 1](/articles/extinct-animals-lost-creatures-planet/)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que démontrent les sauvetages"
+      },
+      {
+        "type": "paragraph",
+        "text": "L'étude analyse les dossiers d'ALOBI jusqu'en août 2025. Les circonstances étaient détaillées pour 43 animaux secourus depuis 2021, avec une localisation pour 39 d'entre eux. Les situations comprenaient des zones habitées, des routes, la captivité et des brûlures électriques. Sur l'ensemble de la période, 86 animaux ont été relâchés. Il s'agit d'interventions documentées, pas d'un recensement de l'île. Les auteurs précisent qu'aucune donnée sur la survie après relâcher n'a encore été recueillie. [Source: pfeil-verlag.de](https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une carte des sauvetages indique où des personnes ont trouvé des animaux et pu appeler à l'aide. Elle ne révèle pas, à elle seule, où vivent la plupart des loris. Un nombre élevé de signalements près du centre peut refléter une meilleure remontée d'informations plutôt qu'un meilleur habitat. De même, trouver un animal dans un jardin ne prouve pas que des plantations remplacent la forêt. Présence, abondance et viabilité à long terme sont trois questions distinctes."
+      },
+      {
+        "type": "heading",
+        "text": "Un primate venimeux au mode de vie singulier"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les loris lents appartiennent aux strepsirrhiniens, la branche des primates qui comprend les lémuriens et les galagos, plutôt qu'à celle des singes. Ils se déplacent lentement dans la végétation et possèdent de grands yeux adaptés à une vie nocturne. Dans des entretiens avec Reuters, les chercheurs décrivent le dos roux et les marques faciales pâles de l'animal de Bangka, tout en soulignant le peu de connaissances sur son alimentation. Insectes, gommes végétales et nectar constituent des aliments plausibles par comparaison avec ses proches parents, pas un régime complet directement mesuré. [Source: www.gmanetwork.com](https://www.gmanetwork.com/news/scitech/science/1006747/feared-extinct-bangka-slow-loris-primate-rediscovered-in-indonesia/story/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le système venimeux des loris est inhabituel chez les mammifères. Les sécrétions d'une glande proche du haut du bras se mêlent à la salive et peuvent être transmises par morsure. Les dents antérieures inférieures forment un peigne dentaire également utilisé pour le toilettage. Leur visage apparemment doux n'invite donc pas au contact : une morsure peut provoquer des lésions graves et, chez l'humain, une réaction allergique dangereuse. Un loris sauvage n'est ni un animal de compagnie sûr ni un accessoire photographique. [Source: www.gmanetwork.com](https://www.gmanetwork.com/news/scitech/science/1006747/feared-extinct-bangka-slow-loris-primate-rediscovered-in-indonesia/story/)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que la science sait du venin"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une étude de terrain menée pendant huit ans sur des loris lents de Java, publiée dans Current Biology en 2020, a associé l'usage du venin à la compétition au sein de l'espèce, notamment aux conflits territoriaux. Elle remet en cause l'idée que le venin servirait toujours principalement à capturer des proies. Elle fournit aussi une comparaison, pas une explication achevée du comportement à Bangka : des observations de Nycticebus javanicus ne deviennent pas automatiquement des observations de Nycticebus bancanus. [Source: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/33080192/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette distinction compte, car les récits de redécouverte devancent souvent les connaissances biologiques. Démontrer qu'une espèce survit constitue un résultat ; décrire son écologie alimentaire, sa reproduction, son comportement social et l'évolution de sa population exige d'autres travaux. L'intérêt de cet animal ne tient pas à la résolution de tous ses mystères, mais à la possibilité de poser de meilleures questions sur une population vivante."
+      },
+      {
+        "type": "heading",
+        "text": "La question forestière derrière la redécouverte"
+      },
+      {
+        "type": "paragraph",
+        "text": "Langka Sani, directeur d'ALOBI, cite les défrichements liés à l'extraction d'étain et aux plantations de palmiers à huile parmi les principales pressions. Re:wild signale des sauvetages dans les quatre kabupaten de Bangka et dans la ville de Pangkal Pinang, ce qui suggère une répartition plus large que celle documentée scientifiquement. Cette présence étendue ne garantit pas la sécurité : routes, lignes électriques et végétation morcelée exposent régulièrement les animaux au danger. [Source: www.rewild.org](https://www.rewild.org/press/bangka-slow-loris-rediscovered)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces rencontres dessinent les priorités : conserver l'habitat, réduire les traversées dangereuses et intégrer les signalements locaux à la planification de la conservation. Sauver des individus ne peut compenser indéfiniment la disparition des milieux dont ils dépendent. Les savoirs des communautés doivent rester au cœur de ce travail : leurs échanges avec les secouristes ont contribué à rendre cette survie visible aux chercheurs."
+      },
+      {
+        "type": "heading",
+        "text": "À quoi ressemblerait une suite réussie ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les auteurs recommandent la protection des habitats, des relâchers suivis et une initiative d'élevage conservatoire. Ce sont des propositions, pas la preuve qu'un nouveau programme complet fonctionne déjà. Des prospections permettraient d'estimer les effectifs et leur répartition ; la génétique préciserait les relations entre populations ; un suivi après relâcher mesurerait les bénéfices durables de la réhabilitation. [Source: pfeil-verlag.de](https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La prochaine bonne nouvelle devra donc dépasser une simple observation supplémentaire. Elle devra montrer que les loris peuvent rester dans des habitats connectés, que les animaux relâchés survivent et que les équipes locales disposent de moyens pour poursuivre leur action. Le loris de Bangka n'attendait pas que le monde extérieur le déclare vivant. Son avenir dépend maintenant de ce que ce monde fera des preuves."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.rewild.org",
+        "url": "https://www.rewild.org/press/bangka-slow-loris-rediscovered"
+      },
+      {
+        "label": "Source: pfeil-verlag.de",
+        "url": "https://pfeil-verlag.de/wp-content/uploads/2026/10/spx49-1_22_sa.pdf"
+      },
+      {
+        "label": "Source: www.gmanetwork.com",
+        "url": "https://www.gmanetwork.com/news/scitech/science/1006747/feared-extinct-bangka-slow-loris-primate-rediscovered-in-indonesia/story/"
+      },
+      {
+        "label": "Source: pubmed.ncbi.nlm.nih.gov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33080192/"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/barack-obama-after-white-house-life-2026/",
     "path": "/ar/articles/barack-obama-after-white-house-life-2026/",
     "kind": "article",
@@ -271367,6 +271769,492 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/omar-sy-lupin-part-4-netflix-2026/",
+    "path": "/ar/articles/omar-sy-lupin-part-4-netflix-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-24",
+      "terminologyChecked": true
+    },
+    "title": "عمر سي يعود مع عرض الجزء الرابع من لوبان على نتفليكس",
+    "seoTitle": "لوبان الجزء الرابع: عمر سي يعود في ثماني حلقات",
+    "description": "عرضت نتفليكس حلقات لوبان الثماني في 23 أكتوبر 2026. القصة الأساسية والممثلون والإنتاج وردود الفعل المبكرة من دون كشف المنعطفات الكبرى.",
+    "excerpt": "عرضت نتفليكس حلقات لوبان الثماني في 23 أكتوبر 2026. القصة الأساسية والممثلون والإنتاج وردود الفعل المبكرة من دون كشف المنعطفات الكبرى.",
+    "headlineHighlights": {
+      "red": "عمر سي",
+      "gold": "الجزء الرابع من لوبان"
+    },
+    "keywords": [
+      "عمر سي",
+      "الجزء الرابع من لوبان"
+    ],
+    "searchIntent": "عرضت نتفليكس حلقات لوبان الثماني في 23 أكتوبر 2026. القصة الأساسية والممثلون والإنتاج وردود الفعل المبكرة من دون كشف المنعطفات الكبرى.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-24",
+    "updatedAt": "2026-10-24",
+    "image": {
+      "src": "/articles/news-oct24-batch-lupin-hero.png",
+      "alt": "رسم بالذكاء الاصطناعي مستلهم من شخصية عمر سي في لوبان أمام مشهد متخيل لباريس"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "لطالما كانت أكبر أوراق قوة أسان ديوب هي الحكاية التي يرويها الناس عنه. وفي الجزء الرابع من «لوبان» تتحول هذه السمعة إلى فخ. يعود عمر سي إلى دور اللص الأنيق المستلهم من شخصية أرسين لوبان التي ابتكرها موريس لوبلان، في فصل جديد يسأل عما يحدث حين يبدأ شخص آخر في استعارة الأسطورة التي صنعها البطل لنفسه."
+      },
+      {
+        "type": "paragraph",
+        "text": "طرحت نتفليكس الحلقات الثماني في 23 أكتوبر 2026. ويؤكد إعلانها المحدّث توفر الجزء الرابع كاملاً، وليس إصداراً أسبوعياً أو موعداً لم يُحسم بعد. يتناول هذا الدليل الفكرة الأساسية وفريق العمل والاستقبال المبكر حتى 24 أكتوبر، من دون كشف هوية المقلد أو نهاية الأحداث. [المصدر: www.netflix.com](https://www.netflix.com/tudum/articles/lupin-part-4-release-date-photos-news)"
+      },
+      {
+        "type": "heading",
+        "text": "قفزة أربع سنوات ولص يريد التوقف"
+      },
+      {
+        "type": "paragraph",
+        "text": "وفق الملخص الرسمي لنتفليكس، مرت أربع سنوات داخل القصة. ما زال أسان في السجن ويريد إنهاء عقوبته ثم الوفاء بوعده لابنه بالانضمام إلى عائلتهما في السنغال. لكن خطته تتعطل عندما يعلن شخص عن سرقات متزامنة لمتاحف باسم لوبان. تقع السرقات وتتجه الشبهات إلى الرجل الذي يُفترض أنه محجوز خلف القضبان. [المصدر: media.netflix.com](https://media.netflix.com/en/only-on-netflix/80994082)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقلب هذه الفكرة المتعة المعتادة في قصص اللصوص البارعين. فشهرة القدرة على الهرب من أي مكان تجعل السجن حجة غياب أقل إقناعاً. كما تمنح الوعد العائلي ثمناً عملياً: محاولة تبرئة اسمه تهدد بإعادة أسان إلى السلوك الذي يريد تركه. هذا هو السؤال الدرامي الذي يطرحه التقديم الرسمي، وليس تلميحاً إلى كيفية حله."
+      },
+      {
+        "type": "heading",
+        "text": "عمر سي يعود مع وجوه مألوفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تضم قائمة الممثلين المعلنة عمر سي ولوديفين سانييه وأنطوان غوي وسفيان غراب وشيرين بوتلة، إضافة إلى تيو كريستين ولايكا بلان-فرانكار. ويعرف المتابعون سانييه في دور كلير، وغوي في دور بنجامان، وغراب في دور غيديرا، وبوتلة في دور بلقاسم. وتظل العلاقات المحيطة بأسان ضرورية لقصة قد تتحول لولاها إلى مجرد سلسلة سرقات معقدة. [المصدر: www.tvline.com](https://www.tvline.com/news/lupin-renewed-part-4-cast-episode-count-netflix-1235448788/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ويمتد دور سي إلى ما وراء الأداء الرئيسي. تسميه نتفليكس مشرفاً إبداعياً على المسلسل إلى جانب لوي لوتيرييه، مع إنتاج غومون بالتعاون مع Carrousel Studios. وابتكر المسلسل جورج كاي بالتعاون مع فرانسوا أوزان. لهذه الاعتمادات أهميتها، لأن عودة النجم ومسؤوليته الإبداعية أمران مختلفان؛ وهنا يسهم الممثل أيضاً في تشكيل المشروع. [المصدر: www.netflix.com](https://www.netflix.com/tudum/articles/lupin-part-4-release-date-photos-news)"
+      },
+      {
+        "type": "heading",
+        "text": "من إعلان التصوير إلى العرض"
+      },
+      {
+        "type": "paragraph",
+        "text": "أُعلن بدء الإنتاج في باريس في مايو 2025. وتناول بيان نتفليكس مشاركة غومون وCarrousel ورغبة سي في رفع مستوى الطموح في الحلقات الجديدة. إعلان التصوير وإصدار أكتوبر 2026 مرحلتان منفصلتان، فلا ينبغي التعامل مع خبر قديم يقول إن العمل قيد الإنتاج بوصفه إشعاراً حالياً بتوفره للمشاهدة. [المصدر: www.pressparty.com](https://www.pressparty.com/pg/newsdesk/Netflix/view/460810/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ويقدم الجزء الرابع مساحة سردية تختلف عن البداية: ثماني حلقات مقابل خمس في الجزء الأول. وقد تسمح المساحة الأوسع بتطوير تبعات الأحداث، لكنها تفرض متطلبات أكبر على الإيقاع. فمسلسل السرقات يحتاج إلى كشف ما يكفي من الخطة كي يستمتع الجمهور بالخدعة، وإخفاء ما يكفي كي يكون الكشف اللاحق مُرضياً. وزيادة المشهدية لا تحل هذا التوازن تلقائياً. [المصدر: www.netflix.com](https://www.netflix.com/tudum/lupin)"
+      },
+      {
+        "type": "heading",
+        "text": "النجاح العالمي حقيقي لكن الأرقام تحتاج إلى تعريف"
+      },
+      {
+        "type": "paragraph",
+        "text": "يسجل تصنيف نتفليكس لأشهر المسلسلات غير الناطقة بالإنجليزية 99.5 مليون مشاهدة للجزء الأول من لوبان و68.4 مليوناً للجزء الثاني. هذه قياسات لأول 91 يوماً من كل جزء، وليست أعداد مشاهدين فريدين طوال عمر العمل أو نتائج عطلة افتتاح الجزء الرابع. وتحسب نتفليكس المشاهدات بقسمة ساعات المشاهدة على مدة العمل. ولا ينتج عن جمع الرقمين عدد أشخاص مختلفين، لأن المشترك نفسه قد يشاهد الجزأين. [المصدر: www.netflix.com](https://www.netflix.com/tudum/top10/most-popular/tv-non-english)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تثبت الأرقام انتشاراً دولياً واسعاً لمسلسل فرنسي اللغة، لكنها لا تضمن أن الحلقات الجديدة ستحققه مجدداً. وتتطلب مقارنة الإصدارات استخدام الفترة الزمنية والمؤشر نفسيهما؛ فعدد الأسر وفق مقياس قديم وإجمالي المشاهدات الحديث ورواج موضوع على الشبكات الاجتماعية أمور مختلفة. وفي تحقق PRESDA بتاريخ 24 أكتوبر لم يثبت رقم رسمي لإجمالي مشاهدات انطلاق الجزء الرابع، ولذلك لا ننسب إليه رقماً."
+      },
+      {
+        "type": "heading",
+        "text": "إشادة نقدية مبكرة وتحفظات لدى بعض المشاهدين على التقنية"
+      },
+      {
+        "type": "paragraph",
+        "text": "عند مراجعة Rotten Tomatoes في 24 أكتوبر، عرض الموقع نسبة 100% من المراجعات الإيجابية للجزء الرابع استناداً إلى خمسة نقاد. هذه العينة الصغيرة تصف نسبة المراجعات المصنفة إيجابية، لا متوسط تقييم كامل العلامة. وأظهرت الصفحة أقل من 50 تقييماً جماهيرياً من دون نسبة معروضة للجمهور. ومن المبكر التعامل مع عينة النقاد أو التعليقات المتاحة بوصفها حكماً عاماً مستقراً. [المصدر: www.rottentomatoes.com](https://www.rottentomatoes.com/tv/lupin/s04)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تضمنت بعض التعليقات الظاهرة اعتراضات على تقنيات غير مقنعة وشعوراً بفقدان البراعة الأقرب إلى الواقع في الأجزاء السابقة. وهذه ردود فردية وليست استطلاعاً تمثيلياً. وإلى جانب العينة النقدية الإيجابية، تحدد نقطة نقاش مفيدة: هل يوسع تصعيد الحركة متعة الخيال أم يجعل الحيل أقل إقناعاً؟ لا تكشف مجموعة صغيرة من التعليقات رأي معظم المشتركين. [المصدر: www.rottentomatoes.com](https://www.rottentomatoes.com/tv/lupin/s04)"
+      },
+      {
+        "type": "heading",
+        "text": "هوية أدبية لجمهور البث الرقمي"
+      },
+      {
+        "type": "paragraph",
+        "text": "التمييز بين أسان ديوب وأرسين لوبان جوهري. يؤدي سي شخصية معاصرة تستلهم ابتكار لوبلان، وليس اللص الأصلي منقولاً حرفياً إلى الحاضر. وتتيح هذه البنية الاستمتاع بالتعرف على الإشارات الأدبية من دون اشتراط قراءة الكتب. وتحدد نتفليكس فرنسا بلداً لمنشأ المسلسل وتقدمه مزيجاً من التشويق والغموض والحركة. [المصدر: media.netflix.com](https://media.netflix.com/en/only-on-netflix/80994082)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وبالنسبة إلى المشاهد العائد، تكمن الجاذبية فيما يبقى مألوفاً تحت التصعيد: رجل يتحكم في الانتباه، وخطة تعتمد على نظرة الآخرين إليه، وروابط عائلية تمنع الذكاء من أن يكون بلا عواقب. تجعل الفكرة الأساسية السمعة مورداً وعبئاً معاً. وهذا توتر أكثر دواماً من جهاز بعينه أو تنكر أو طريق هروب."
+      },
+      {
+        "type": "heading",
+        "text": "مشاهدة الجزء الرابع مع الحفاظ على المفاجأة"
+      },
+      {
+        "type": "paragraph",
+        "text": "يمكن مشاهدة الحلقات الثماني على نتفليكس بحسب توفر الخدمة محلياً. وتمنح متابعة الأجزاء السابقة سياقاً أكبر للعلاقات، بينما ينبغي لمن يريد مجرد تذكير أن ينتبه إلى أن الملخصات المفصلة قد تكشف نهايات سابقة. يتوقف هذا المقال عمداً عند الفكرة المعلنة، ولا يعيد سرد انعطافات الجزء الجديد. [المصدر: www.netflix.com](https://www.netflix.com/title/80994082)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ويندرج الإنتاج أيضاً ضمن تحول أوسع في الصناعة، حيث يجمع ممثلون ناجحون بين الأداء ومسؤوليات إبداعية أو إنتاجية. ويتناول ملف PRESDA عن مارغوت روبي وLuckyChap مثالاً آخر على هذا المسار. أما الاختبار المباشر للوبان فأبسط: هل تجعل الحلقات الجديدة المشاهد يهتم بالرجل وراء الحيل بقدر اهتمامه بالحيل نفسها؟ [قراءة مرتبطة 1](/articles/margot-robbie-hollywood-star-powerful-producer/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.netflix.com",
+        "url": "https://www.netflix.com/tudum/articles/lupin-part-4-release-date-photos-news"
+      },
+      {
+        "label": "المصدر: media.netflix.com",
+        "url": "https://media.netflix.com/en/only-on-netflix/80994082"
+      },
+      {
+        "label": "المصدر: www.tvline.com",
+        "url": "https://www.tvline.com/news/lupin-renewed-part-4-cast-episode-count-netflix-1235448788/"
+      },
+      {
+        "label": "المصدر: www.pressparty.com",
+        "url": "https://www.pressparty.com/pg/newsdesk/Netflix/view/460810/"
+      },
+      {
+        "label": "المصدر: www.netflix.com",
+        "url": "https://www.netflix.com/tudum/lupin"
+      },
+      {
+        "label": "المصدر: www.netflix.com",
+        "url": "https://www.netflix.com/tudum/top10/most-popular/tv-non-english"
+      },
+      {
+        "label": "المصدر: www.rottentomatoes.com",
+        "url": "https://www.rottentomatoes.com/tv/lupin/s04"
+      },
+      {
+        "label": "المصدر: www.netflix.com",
+        "url": "https://www.netflix.com/title/80994082"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/omar-sy-lupin-part-4-netflix-2026/",
+    "path": "/es/articles/omar-sy-lupin-part-4-netflix-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-24",
+      "terminologyChecked": true
+    },
+    "title": "Omar Sy regresa con el estreno de Lupin Parte 4 en Netflix",
+    "seoTitle": "Lupin Parte 4: Omar Sy vuelve con ocho episodios",
+    "description": "Lupin Parte 4 se estrenó el 23 de octubre de 2026. Reparto, trama sin grandes spoilers, producción, cifras históricas y primeras reacciones.",
+    "excerpt": "Lupin Parte 4 se estrenó el 23 de octubre de 2026. Reparto, trama sin grandes spoilers, producción, cifras históricas y primeras reacciones.",
+    "headlineHighlights": {
+      "red": "Omar Sy",
+      "gold": "Lupin Parte 4"
+    },
+    "keywords": [
+      "Omar Sy",
+      "Lupin Parte 4"
+    ],
+    "searchIntent": "Lupin Parte 4 se estrenó el 23 de octubre de 2026. Reparto, trama sin grandes spoilers, producción, cifras históricas y primeras reacciones.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-24",
+    "updatedAt": "2026-10-24",
+    "image": {
+      "src": "/articles/news-oct24-batch-lupin-hero.png",
+      "alt": "Ilustración con IA inspirada en el personaje de Omar Sy en Lupin ante un París imaginario"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La mayor ventaja de Assane Diop siempre ha sido la historia que los demás cuentan sobre él. En Lupin Parte 4, esa reputación se convierte en una trampa. Omar Sy regresa como el ladrón de guante blanco inspirado en el Arsène Lupin de Maurice Leblanc, en una nueva entrega que pregunta qué ocurre cuando otra persona empieza a utilizar la leyenda que él ha construido."
+      },
+      {
+        "type": "paragraph",
+        "text": "Netflix estrenó los ocho episodios el 23 de octubre de 2026. Su anuncio actualizado confirma que está disponible la cuarta parte completa, no un lanzamiento semanal ni una fecha pendiente de confirmación. Esta guía aborda la premisa, el equipo de producción y las primeras reacciones al 24 de octubre, sin revelar la identidad del imitador ni el desenlace. [Fuente: www.netflix.com](https://www.netflix.com/tudum/articles/lupin-part-4-release-date-photos-news)"
+      },
+      {
+        "type": "heading",
+        "text": "Cuatro años después, un ladrón quiere dejarlo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Según la sinopsis oficial de Netflix, han transcurrido cuatro años dentro de la historia. Assane sigue en prisión y quiere terminar su condena para cumplir la promesa hecha a su hijo de reunirse con su familia en Senegal. El plan se altera cuando alguien anuncia robos simultáneos en museos bajo el nombre de Lupin. Los delitos se consuman y las sospechas recaen en quien supuestamente estaba a buen recaudo entre rejas. [Fuente: media.netflix.com](https://media.netflix.com/en/only-on-netflix/80994082)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La premisa invierte el placer habitual de una historia sobre un ladrón extraordinario. Tener fama de poder escapar de cualquier lugar hace que el encierro resulte una coartada menos convincente. También da un coste concreto a la promesa familiar: limpiar su nombre amenaza con devolver a Assane a la conducta que quiere abandonar. Ese es el conflicto que plantea la presentación oficial, no una pista sobre cómo se resuelve."
+      },
+      {
+        "type": "heading",
+        "text": "Omar Sy vuelve junto a un reparto conocido"
+      },
+      {
+        "type": "paragraph",
+        "text": "El reparto anunciado incluye a Sy, Ludivine Sagnier, Antoine Gouy, Soufiane Guerrab y Shirine Boutella, con Théo Christine y Laïka Blanc-Francard también incorporados. Los seguidores conocen a Sagnier como Claire, Gouy como Benjamin, Guerrab como Guédira y Boutella como Belkacem. Las relaciones que rodean a Assane siguen siendo esenciales para una historia que, de otro modo, podría convertirse en una mera sucesión de robos elaborados. [Fuente: www.tvline.com](https://www.tvline.com/news/lupin-renewed-part-4-cast-episode-count-netflix-1235448788/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La responsabilidad de Sy va más allá del papel protagonista. Netflix lo acredita como showrunner junto a Louis Leterrier, con Gaumont en la producción y la colaboración de Carrousel Studios. George Kay creó la serie en colaboración con François Uzan. Estos créditos importan porque el regreso de una estrella y su responsabilidad creativa son cosas diferentes: aquí el actor también participa en dar forma al proyecto. [Fuente: www.netflix.com](https://www.netflix.com/tudum/articles/lupin-part-4-release-date-photos-news)"
+      },
+      {
+        "type": "heading",
+        "text": "Del anuncio del rodaje al estreno"
+      },
+      {
+        "type": "paragraph",
+        "text": "La producción se anunció públicamente en París en mayo de 2025. El comunicado de Netflix describía la participación de Gaumont y Carrousel y el deseo de Sy de aumentar la ambición de los episodios. El anuncio del rodaje y el estreno de octubre de 2026 son hitos distintos: una noticia antigua que situaba la serie en producción no equivale al aviso actual de disponibilidad. [Fuente: www.pressparty.com](https://www.pressparty.com/pg/newsdesk/Netflix/view/460810/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La cuarta parte también presenta una escala narrativa distinta de la entrega inicial: ocho episodios, frente a los cinco de la primera. Más espacio puede permitir desarrollar las consecuencias, pero también exige más al ritmo. Una serie de robos necesita explicar suficiente del plan para que se aprecie el engaño y ocultar lo necesario para que la revelación satisfaga. Un espectáculo mayor no resuelve automáticamente ese equilibrio. [Fuente: www.netflix.com](https://www.netflix.com/tudum/lupin)"
+      },
+      {
+        "type": "heading",
+        "text": "El éxito global es real, pero hay que etiquetar las cifras"
+      },
+      {
+        "type": "paragraph",
+        "text": "La clasificación oficial de Netflix de sus series de habla no inglesa más populares registra 99,5 millones de visualizaciones para Lupin Parte 1 y 68,4 millones para la Parte 2. Son mediciones de los primeros 91 días de cada entrega, no espectadores únicos durante toda su existencia ni resultados del primer fin de semana de la Parte 4. Netflix calcula las visualizaciones dividiendo las horas vistas por la duración. Sumar ambas cifras no produciría un recuento de personas distintas, pues un mismo suscriptor puede haber visto las dos partes. [Fuente: www.netflix.com](https://www.netflix.com/tudum/top10/most-popular/tv-non-english)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los datos demuestran el amplio alcance internacional de una serie francesa. No garantizan que los nuevos episodios lo igualen. Para comparar estrenos deben emplearse la misma ventana temporal y el mismo indicador: un antiguo recuento de hogares, las visualizaciones actuales y una tendencia en redes describen cosas diferentes. En su comprobación del 24 de octubre, PRESDA no había verificado un total oficial de visualizaciones del lanzamiento de la Parte 4 y no le atribuye ninguno."
+      },
+      {
+        "type": "heading",
+        "text": "Críticas positivas y dudas de algunos espectadores sobre la tecnología"
+      },
+      {
+        "type": "paragraph",
+        "text": "En la consulta del 24 de octubre, Rotten Tomatoes mostraba un 100 % de críticas positivas entre cinco críticos para la Parte 4. Esa pequeña muestra mide la proporción de reseñas consideradas favorables, no una nota media perfecta. La página indicaba menos de 50 valoraciones de usuarios y no mostraba un porcentaje de audiencia. Es demasiado pronto para presentar esa muestra o los comentarios disponibles como un veredicto público consolidado. [Fuente: www.rottentomatoes.com](https://www.rottentomatoes.com/tv/lupin/s04)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entre los comentarios visibles había objeciones a tecnologías poco creíbles y a una supuesta pérdida del ingenio más realista de las primeras entregas. Son respuestas individuales, no una encuesta representativa. Junto a las críticas profesionales favorables, señalan un debate útil: si ampliar la acción mejora el escapismo o hace que los trucos resulten menos convincentes. Un puñado de comentarios no demuestra qué piensa la mayoría de los suscriptores. [Fuente: www.rottentomatoes.com](https://www.rottentomatoes.com/tv/lupin/s04)"
+      },
+      {
+        "type": "heading",
+        "text": "Una identidad literaria para el público del streaming"
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinción entre Assane Diop y Arsène Lupin es fundamental. Sy interpreta a un personaje moderno inspirado en la creación de Leblanc, no al ladrón original trasladado literalmente al presente. Así, la serie puede aprovechar el reconocimiento literario sin exigir haber leído los libros. Netflix identifica Francia como país de origen y presenta la producción como una combinación de suspense, misterio y acción. [Fuente: media.netflix.com](https://media.netflix.com/en/only-on-netflix/80994082)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para quien regresa a la serie, el interés está en lo reconocible bajo la mayor espectacularidad: un hombre que controla la atención, un plan que depende de cómo lo ven los demás y unas relaciones familiares que impiden que la astucia carezca de consecuencias. La premisa convierte la reputación en un recurso y una carga. Esa tensión dura más que cualquier dispositivo, disfraz o vía de escape."
+      },
+      {
+        "type": "heading",
+        "text": "Cómo ver la Parte 4 sin perder la sorpresa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los ocho episodios pueden verse en Netflix, según la disponibilidad local del servicio. Empezar por las partes anteriores aporta contexto a las relaciones; quienes solo busquen un recordatorio deben tener presente que los resúmenes detallados pueden revelar desenlaces previos. Este artículo se limita deliberadamente a la premisa anunciada y no reproduce los giros de la nueva entrega. [Fuente: www.netflix.com](https://www.netflix.com/title/80994082)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La producción también encaja en una transformación más amplia: actores de éxito combinan cada vez más la interpretación con responsabilidades creativas o de producción. El perfil de Margot Robbie y LuckyChap publicado por PRESDA analiza otro ejemplo de ese cambio. Para Lupin, la prueba inmediata es más sencilla: conseguir que el público se interese tanto por el hombre detrás de los trucos como por los propios trucos. [Lectura relacionada 1](/articles/margot-robbie-hollywood-star-powerful-producer/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.netflix.com",
+        "url": "https://www.netflix.com/tudum/articles/lupin-part-4-release-date-photos-news"
+      },
+      {
+        "label": "Fuente: media.netflix.com",
+        "url": "https://media.netflix.com/en/only-on-netflix/80994082"
+      },
+      {
+        "label": "Fuente: www.tvline.com",
+        "url": "https://www.tvline.com/news/lupin-renewed-part-4-cast-episode-count-netflix-1235448788/"
+      },
+      {
+        "label": "Fuente: www.pressparty.com",
+        "url": "https://www.pressparty.com/pg/newsdesk/Netflix/view/460810/"
+      },
+      {
+        "label": "Fuente: www.netflix.com",
+        "url": "https://www.netflix.com/tudum/lupin"
+      },
+      {
+        "label": "Fuente: www.netflix.com",
+        "url": "https://www.netflix.com/tudum/top10/most-popular/tv-non-english"
+      },
+      {
+        "label": "Fuente: www.rottentomatoes.com",
+        "url": "https://www.rottentomatoes.com/tv/lupin/s04"
+      },
+      {
+        "label": "Fuente: www.netflix.com",
+        "url": "https://www.netflix.com/title/80994082"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/omar-sy-lupin-part-4-netflix-2026/",
+    "path": "/fr/articles/omar-sy-lupin-part-4-netflix-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-24",
+      "terminologyChecked": true
+    },
+    "title": "Omar Sy revient dans la partie 4 de Lupin sur Netflix",
+    "seoTitle": "Lupin partie 4 : Omar Sy de retour, huit épisodes",
+    "description": "Les huit épisodes de Lupin partie 4 sont sortis le 23 octobre 2026. Intrigue sans révélations majeures, distribution, production et premières réactions.",
+    "excerpt": "Les huit épisodes de Lupin partie 4 sont sortis le 23 octobre 2026. Intrigue sans révélations majeures, distribution, production et premières réactions.",
+    "headlineHighlights": {
+      "red": "Omar Sy",
+      "gold": "partie 4 de Lupin"
+    },
+    "keywords": [
+      "Omar Sy",
+      "partie 4 de Lupin"
+    ],
+    "searchIntent": "Les huit épisodes de Lupin partie 4 sont sortis le 23 octobre 2026. Intrigue sans révélations majeures, distribution, production et premières réactions.",
+    "category": "Paparazzi",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-24",
+    "updatedAt": "2026-10-24",
+    "image": {
+      "src": "/articles/news-oct24-batch-lupin-hero.png",
+      "alt": "Illustration IA inspirée du personnage d'Omar Sy dans Lupin devant un Paris imaginaire"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La meilleure arme d'Assane Diop a toujours été l'histoire que les autres racontent à son sujet. Dans la partie 4 de Lupin, cette réputation devient un piège. Omar Sy retrouve le gentleman cambrioleur inspiré de l'Arsène Lupin de Maurice Leblanc, dans un nouveau chapitre qui pose une question : que se passe-t-il quand quelqu'un d'autre emprunte la légende qu'il a construite ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Netflix a mis en ligne les huit épisodes le 23 octobre 2026. Son annonce actualisée confirme la disponibilité de toute la quatrième partie, et non une diffusion hebdomadaire ou une date encore incertaine. Ce dossier présente le point de départ, l'équipe de production et les premières réactions au 24 octobre, sans révéler l'identité de l'imitateur ni le dénouement. [Source: www.netflix.com](https://www.netflix.com/tudum/articles/lupin-part-4-release-date-photos-news)"
+      },
+      {
+        "type": "heading",
+        "text": "Quatre ans plus tard, un cambrioleur veut s'arrêter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Selon le synopsis officiel de Netflix, quatre années se sont écoulées dans l'histoire. Assane est toujours en prison et souhaite terminer sa peine, puis tenir la promesse faite à son fils en rejoignant leur famille au Sénégal. Son projet est bouleversé lorsque quelqu'un annonce des cambriolages simultanés de musées sous le nom de Lupin. Les vols ont lieu et les soupçons se portent sur celui qui était censé être derrière les barreaux. [Source: media.netflix.com](https://media.netflix.com/en/only-on-netflix/80994082)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ce point de départ inverse le plaisir habituel du récit de cambrioleur virtuose. Avoir la réputation de pouvoir s'évader de n'importe où rend l'enfermement moins convaincant comme alibi. La promesse familiale acquiert aussi un coût concret : prouver son innocence risque de ramener Assane aux comportements qu'il veut abandonner. C'est la question dramatique posée par le synopsis, pas un indice sur sa résolution."
+      },
+      {
+        "type": "heading",
+        "text": "Omar Sy retrouve des partenaires familiers"
+      },
+      {
+        "type": "paragraph",
+        "text": "La distribution annoncée réunit Sy, Ludivine Sagnier, Antoine Gouy, Soufiane Guerrab et Shirine Boutella, ainsi que Théo Christine et Laïka Blanc-Francard. Les fidèles connaissent Sagnier dans le rôle de Claire, Gouy dans celui de Benjamin, Guerrab en Guédira et Boutella en Belkacem. Ces relations restent essentielles à une histoire qui pourrait autrement se réduire à une succession de vols sophistiqués. [Source: www.tvline.com](https://www.tvline.com/news/lupin-renewed-part-4-cast-episode-count-netflix-1235448788/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le rôle de Sy dépasse l'interprétation principale. Netflix le crédite comme showrunner aux côtés de Louis Leterrier, avec une production Gaumont en collaboration avec Carrousel Studios. La série a été créée par George Kay en collaboration avec François Uzan. Ces fonctions comptent : le retour d'une vedette et sa responsabilité créative sont deux choses différentes. Ici, l'acteur participe également à la conception du projet. [Source: www.netflix.com](https://www.netflix.com/tudum/articles/lupin-part-4-release-date-photos-news)"
+      },
+      {
+        "type": "heading",
+        "text": "De l'annonce du tournage à la sortie"
+      },
+      {
+        "type": "paragraph",
+        "text": "La production a été annoncée publiquement à Paris en mai 2025. Le communiqué de Netflix évoquait l'implication de Gaumont et de Carrousel, ainsi que le souhait de Sy de donner davantage d'ambition aux épisodes. Le début du tournage et la sortie d'octobre 2026 sont deux étapes distinctes : un ancien article annonçant une série en production ne remplace pas l'information actuelle sur sa disponibilité. [Source: www.pressparty.com](https://www.pressparty.com/pg/newsdesk/Netflix/view/460810/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cette quatrième partie propose aussi une ampleur narrative différente du lancement : huit épisodes, contre cinq pour la première partie. Cet espace supplémentaire peut permettre de développer les conséquences des événements, mais rend le rythme plus exigeant. Une série de cambriolage doit révéler assez d'un plan pour que le public apprécie la tromperie, tout en gardant suffisamment de secrets pour réussir la révélation. Un spectacle plus imposant ne résout pas automatiquement cet équilibre. [Source: www.netflix.com](https://www.netflix.com/tudum/lupin)"
+      },
+      {
+        "type": "heading",
+        "text": "Un succès mondial réel, à mesurer correctement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le classement Netflix des séries non anglophones les plus populaires attribue 99,5 millions de vues à la partie 1 de Lupin et 68,4 millions à la partie 2. Ces chiffres couvrent leurs 91 premiers jours respectifs. Ils ne représentent ni des spectateurs uniques sur toute la durée de diffusion ni le premier week-end de la partie 4. Netflix calcule les vues en divisant les heures regardées par la durée du programme. Additionner les deux nombres ne donnerait pas un total de personnes distinctes, puisque les mêmes abonnés peuvent avoir regardé les deux parties. [Source: www.netflix.com](https://www.netflix.com/tudum/top10/most-popular/tv-non-english)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces résultats démontrent le rayonnement international d'une série francophone. Ils ne garantissent pas que les nouveaux épisodes feront aussi bien. Pour comparer des lancements, il faut conserver la même période et le même indicateur : un ancien nombre de foyers, un total moderne de vues et une tendance sur les réseaux sociaux décrivent des réalités différentes. Lors de sa vérification du 24 octobre, PRESDA n'avait pas établi de chiffre officiel de vues au lancement de la partie 4 et n'en avance donc aucun."
+      },
+      {
+        "type": "heading",
+        "text": "Des critiques positives et des réserves sur la technologie"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lors de la consultation du 24 octobre, Rotten Tomatoes affichait 100 % de critiques positives sur un échantillon de cinq critiques professionnels pour la partie 4. Ce petit échantillon mesure la part d'avis considérés comme favorables, pas une note moyenne parfaite. La page indiquait moins de 50 évaluations du public, sans pourcentage d'audience affiché. Il est trop tôt pour considérer ces critiques ou les commentaires disponibles comme un verdict collectif stabilisé. [Source: www.rottentomatoes.com](https://www.rottentomatoes.com/tv/lupin/s04)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Certains commentaires visibles reprochaient à la série une technologie peu plausible et l'abandon de l'ingéniosité plus ancrée dans le réel des débuts. Ce sont des réactions individuelles, pas un sondage représentatif. Confrontées à l'échantillon positif des critiques, elles éclairent un débat intéressant : l'action amplifiée nourrit-elle l'évasion, ou rend-elle les astuces moins convaincantes ? Quelques commentaires ne permettent pas de savoir ce que pense la majorité des abonnés. [Source: www.rottentomatoes.com](https://www.rottentomatoes.com/tv/lupin/s04)"
+      },
+      {
+        "type": "heading",
+        "text": "Une identité littéraire adaptée au streaming"
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinction entre Assane Diop et Arsène Lupin est fondamentale. Sy joue un personnage contemporain inspiré par la création de Leblanc, et non le héros original simplement transporté dans le présent. Cette structure conserve le plaisir de la référence littéraire sans exiger la lecture des livres. Netflix présente la France comme pays d'origine de la série et l'inscrit entre thriller, mystère et action. [Source: media.netflix.com](https://media.netflix.com/en/only-on-netflix/80994082)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour les fidèles, l'intérêt réside dans ce qui demeure reconnaissable sous la surenchère : un homme qui dirige l'attention, un plan dépendant du regard des autres et des liens familiaux qui donnent des conséquences à son habileté. Le point de départ transforme la réputation en ressource autant qu'en handicap. Cette tension peut durer davantage qu'un gadget, un déguisement ou un chemin de fuite."
+      },
+      {
+        "type": "heading",
+        "text": "Regarder la partie 4 en préservant la surprise"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les huit épisodes sont disponibles sur Netflix, selon l'offre locale du service. Voir les parties précédentes donne davantage de contexte aux relations. Les personnes qui cherchent seulement à se rafraîchir la mémoire doivent savoir que les résumés détaillés dévoilent parfois leurs dénouements. Cet article s'arrête volontairement au point de départ annoncé, sans reproduire les retournements de la nouvelle partie. [Source: www.netflix.com](https://www.netflix.com/title/80994082)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La production s'inscrit également dans une évolution du secteur : des acteurs reconnus associent de plus en plus leur interprétation à des fonctions créatives ou de production. Le portrait de Margot Robbie et de LuckyChap publié par PRESDA explore un autre exemple de cette évolution. Pour Lupin, l'épreuve immédiate est plus simple : intéresser autant les spectateurs à l'homme derrière les tours qu'aux tours eux-mêmes. [Lecture associée 1](/articles/margot-robbie-hollywood-star-powerful-producer/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.netflix.com",
+        "url": "https://www.netflix.com/tudum/articles/lupin-part-4-release-date-photos-news"
+      },
+      {
+        "label": "Source: media.netflix.com",
+        "url": "https://media.netflix.com/en/only-on-netflix/80994082"
+      },
+      {
+        "label": "Source: www.tvline.com",
+        "url": "https://www.tvline.com/news/lupin-renewed-part-4-cast-episode-count-netflix-1235448788/"
+      },
+      {
+        "label": "Source: www.pressparty.com",
+        "url": "https://www.pressparty.com/pg/newsdesk/Netflix/view/460810/"
+      },
+      {
+        "label": "Source: www.netflix.com",
+        "url": "https://www.netflix.com/tudum/lupin"
+      },
+      {
+        "label": "Source: www.netflix.com",
+        "url": "https://www.netflix.com/tudum/top10/most-popular/tv-non-english"
+      },
+      {
+        "label": "Source: www.rottentomatoes.com",
+        "url": "https://www.rottentomatoes.com/tv/lupin/s04"
+      },
+      {
+        "label": "Source: www.netflix.com",
+        "url": "https://www.netflix.com/title/80994082"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/openai-next-gen-model/",
     "path": "/ar/articles/openai-next-gen-model/",
     "kind": "article",
@@ -344587,6 +345475,528 @@
       {
         "label": "Royal Society scientific memoir",
         "url": "https://doi.org/10.1098/rsbm.2019.0001"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/sudan-famine-risk-war-drought-october-2026/",
+    "path": "/ar/articles/sudan-famine-risk-war-drought-october-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-24",
+      "terminologyChecked": true
+    },
+    "title": "خطر المجاعة يتفاقم في السودان مع تداخل الحرب والجفاف",
+    "seoTitle": "السودان: خطر المجاعة والحرب والجفاف في أكتوبر 2026",
+    "description": "شرح تحذير أكتوبر بشأن دارفور وكردفان: إل نينيو والنزوح وسوء تغذية الأطفال وأرقام الأمم المتحدة المؤرخة، مع التمييز بين خطر المجاعة وتصنيفها المؤكد.",
+    "excerpt": "شرح تحذير أكتوبر بشأن دارفور وكردفان: إل نينيو والنزوح وسوء تغذية الأطفال وأرقام الأمم المتحدة المؤرخة، مع التمييز بين خطر المجاعة وتصنيفها المؤكد.",
+    "headlineHighlights": {
+      "red": "خطر المجاعة",
+      "gold": "الحرب والجفاف"
+    },
+    "keywords": [
+      "خطر المجاعة",
+      "الحرب والجفاف"
+    ],
+    "searchIntent": "شرح تحذير أكتوبر بشأن دارفور وكردفان: إل نينيو والنزوح وسوء تغذية الأطفال وأرقام الأمم المتحدة المؤرخة، مع التمييز بين خطر المجاعة وتصنيفها المؤكد.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-24",
+    "updatedAt": "2026-10-24",
+    "image": {
+      "src": "/articles/news-oct24-batch-sudan-hero.png",
+      "alt": "رسم تحريري بالذكاء الاصطناعي لأم نازحة وطفلها في مشهد مخيم متخيل"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تدخل أزمة الجوع في السودان مرحلة خطرة جديدة. فقد سلبت الحرب أسرًا منازلها ودخلها وإمكانية الوصول إلى الخدمات الأساسية، ويضعف الجفاف الآن المحاصيل وسبل العيش التي يعتمد عليها التعافي. والسؤال العاجل ليس فقط ما إذا كان الغذاء موجوداً في مكان ما داخل البلاد، بل ما إذا كان الناس يستطيعون الوصول إليه وشراءه والحصول على الرعاية اللازمة للبقاء."
+      },
+      {
+        "type": "paragraph",
+        "text": "يحذر تنبيه أصدره التصنيف المرحلي المتكامل للأمن الغذائي، المعروف اختصاراً بـIPC، في 12 أكتوبر 2026 من تدهور سريع في دارفور الكبرى وكردفان الكبرى. ويحدد ضغوطاً متفاعلة تشمل سوء التغذية والصراع والنزوح وضعف الأمطار وقصور المساعدات. هذا تحذير من تزايد خطر المجاعة، وليس إعلاناً جديداً شاملاً بأن السودان كله يعيش مجاعة. [المصدر: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/)"
+      },
+      {
+        "type": "heading",
+        "text": "ماذا يقول تنبيه أكتوبر؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "يفيد التصنيف بأن المسوحات التغذوية التي أُجريت منذ يناير سجلت مستويات حرجة من سوء التغذية الحاد في أجزاء واسعة من دارفور الكبرى، مع ارتفاع حاد في حالات الدخول للعلاج من سوء التغذية الحاد الوخيم في مناطق من شمال دارفور وجنوبها. وفي كردفان الكبرى تتداخل المعارك والنزوح مع ضعف الأمطار وتقييد سبل العيش، فتتراجع فرص الحصاد والأمن الغذائي. تحدد هذه النتائج أماكن تحتاج إلى تدخل عاجل، ولا تعادل تقديراً وطنياً جديداً لأعداد السكان المتضررين. [المصدر: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "نُشر أحدث تحليل كامل نستشهد به هنا في مايو. وقدّر أن نحو 19.5 مليون شخص واجهوا المرحلة الثالثة أو أعلى بين فبراير ومايو 2026، بينهم قرابة 135 ألفاً في المرحلة الخامسة على مستوى الأسر، المسماة «كارثة». ولم تغطِّ توقعاته اللاحقة البلاد كلها، وحذر التصنيف صراحة من مقارنة فترات تختلف تغطيتها الجغرافية. لذلك تمثل هذه الأرقام خط أساس مؤرخاً، لا تعداداً لشهر أكتوبر. [المصدر: www.ipcinfo.org](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1163315/)"
+      },
+      {
+        "type": "heading",
+        "text": "خطر المجاعة والكارثة والمجاعة المؤكدة مفاهيم مختلفة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تسمى المرحلة الخامسة على مستوى الأسرة «كارثة». أما تصنيف منطقة في «مجاعة» فيتطلب أدلة متضافرة على الحرمان الغذائي الشديد وسوء التغذية الحاد والوفيات. ويصف التحذير من خطر المجاعة سيناريو تدهور ذا مصداقية، ولا يؤكد أن جميع عتبات التصنيف جرى تجاوزها بالفعل. وفي المقابل، لا يعني غياب تصنيف مؤكد لمنطقة أن سكانها يحصلون على غذاء كافٍ أو أن أحداً لا يموت. [المصدر: www.ipcinfo.org](https://www.ipcinfo.org/famine-facts/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "سبق أن شهد السودان مجاعات مؤكدة. فقد صنف IPC مدينة الفاشر في شمال دارفور وكادوقلي في جنوب كردفان في مرحلة المجاعة بأدلة معقولة لشهر سبتمبر 2025، مع توقع استمرارها حتى يناير 2026. وذكر ملخص وكالات الأمم المتحدة في مايو 2026 أن التحليل الساري حينها لم يحدد مناطق تعيش مجاعة في الوقت الراهن، مع التحذير من الخطر في 14 منطقة. ولا ينبغي لهذه النتيجة اللاحقة أو لتنبيه أكتوبر أن يمحوا التصنيفات السابقة أو أن يُعرضا دليلاً على زوال الخطر. [المصدر: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-137/en/) [المصدر: www.wfp.org](https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food)"
+      },
+      {
+        "type": "heading",
+        "text": "الحرب تجعل الإفلات من نقص الغذاء أصعب"
+      },
+      {
+        "type": "paragraph",
+        "text": "بدأ الصراع بين القوات المسلحة السودانية وقوات الدعم السريع في أبريل 2023. وتمتد آثاره الإنسانية إلى ما وراء الجبهات بكثير. فتضرر الأسواق والأصول الزراعية وتقييد الحركة وتعطل الخدمات يقوض إنتاج الغذاء والقدرة على شرائه معاً. وتصف منظمة الأغذية والزراعة وبرنامج الأغذية العالمي واليونيسف انعدام الأمن والعوائق الإدارية والهجمات على طرق الإمداد بأنها عقبات أمام إيصال المساعدات. وصول شحنة إلى البلاد لا يضمن وصولها إلى أسرة في مجتمع معزول. [المصدر: www.wfp.org](https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لهذا لا يمكن فهم الجوع بأطنان الحبوب وحدها. قد تحيط بأسرة أسواق تعمل لكنها تعجز عن دفع ثمن وجبة، وقد تمتلك أسرة أخرى المال من دون طريق آمن إلى السلع. واستعادة سبل العيش والوصول جزء من الاستجابة الطارئة، وليست مسألة منفصلة تؤجل إلى ما بعد انتهاء توزيع الغذاء."
+      },
+      {
+        "type": "heading",
+        "text": "الجفاف يضغط على نظام متضرر أصلاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "ينسب تنبيه أكتوبر الجفاف الشديد الذي يشمل أكثر من نصف السودان إلى ظاهرة إل نينيو، ويصف تلف المحاصيل وعجز المياه وتراجع الدخل وارتفاع أسعار الحبوب. ويجعل تفاعله مع الحرب الوضع أشد خطورة، لأن الأسر النازحة أو التي أفقرتها الحرب تملك خيارات أقل لتحمل خسارة جديدة. يدعم التنبيه وجود تدهور مرتبط بالجفاف، لكنه لا يثبت أن جميع المحليات متأثرة بالدرجة نفسها. [المصدر: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تجمع استجابة منظمة الأغذية والزراعة في السودان بين دعم المحاصيل والثروة الحيوانية ومصائد الأسماك لمساعدة الأسر على إنتاج الغذاء محلياً. تعالج هذه التدخلات جانباً مختلفاً عن المساعدة الغذائية الفورية. ففائدة البذور محدودة عندما يعجز المزارعون عن الوصول الآمن إلى الأرض، والحصص الطارئة لا تعيد وحدها بناء الموسم الزراعي التالي. ويعتمد النوعان من الدعم على الوصول والتوقيت والقدرة على العمل من دون التعرض لهجوم. [المصدر: www.fao.org](https://www.fao.org/emergencies/where-we-work/sdn/en)"
+      },
+      {
+        "type": "heading",
+        "text": "النزوح ليس رقماً واحداً بسيطاً"
+      },
+      {
+        "type": "paragraph",
+        "text": "في إحاطة أممية بتاريخ 18 سبتمبر، أفادت المنظمة الدولية للهجرة بوجود 8.6 مليون شخص ما زالوا نازحين داخل البلاد، إلى جانب 4.9 مليون عائد. وكان نحو 70% من النازحين داخلياً يعيشون مع أسر مضيفة أو في تجمعات غير رسمية. هذه فئات مؤرخة، وليست أرقاماً تُجمع لإنتاج عدد حالي واحد للاجئين. العائدون رجعوا، والنازحون داخلياً باقون داخل السودان، ومن عبروا الحدود يحتاجون إلى مقياس منفصل. [المصدر: www.ungeneva.org](https://www.ungeneva.org/en/news-media/press-briefing/2026/09/un-geneva-press-briefing-3)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ولا يخبر الرجوع إلى المنطقة الأصلية، بمفرده، كثيراً عن عودة المياه أو العيادات أو المدارس أو الدخل. ففي تخطيط المساعدات تهم ظروف العيش والمكان بقدر أهمية الحركة. ولا يمكن اعتبار انخفاض عدد المسجلين نازحين انخفاضاً مماثلاً تلقائياً في الاحتياج الإنساني."
+      },
+      {
+        "type": "heading",
+        "text": "الأطفال أمام طارئ تغذوي وصحي متداخل"
+      },
+      {
+        "type": "paragraph",
+        "text": "توقع تحليل مايو أن يعاني 825 ألف طفل دون الخامسة سوء التغذية الحاد الوخيم خلال 2026. هذا عدد حالات متوقع لسنة كاملة، وليس تعداد أطفال مرضى في يوم محدد من أكتوبر. وبشكل منفصل، أفادت منظمة الصحة العالمية في 12 أكتوبر بأنها دعمت مراكز تثبيت الحالة التغذوية العاملة البالغ عددها 161، وساعدت في علاج أكثر من 26 ألف طفل يعانون سوء التغذية الحاد الوخيم ومضاعفات طبية بين يناير وأغسطس. تغطي أرقام العلاج هذه فئة وفترة مختلفتين. [المصدر: www.wfp.org](https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food) [المصدر: www.who.int](https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert)"
+      },
+      {
+        "type": "paragraph",
+        "text": "توضح منظمة الصحة العالمية أن سوء التغذية يزيد القابلية للإصابة بأشكال شديدة من الأمراض، ومنها الكوليرا والحصبة، بينما يتعطل الوصول إلى المياه النظيفة والرعاية. وقال بيانها في أكتوبر إن 37% من المرافق الصحية كانت قد توقفت عن العمل بحلول 2026. لذلك تتطلب مواجهة الجوع أكثر من السعرات الحرارية: الرعاية التغذوية وعلاج العدوى والمياه الآمنة وأنظمة الإحالة العاملة أجزاء من استجابة واحدة. [المصدر: www.who.int](https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert)"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تستطيع المساعدات تحقيقه وما الذي يعرقلها؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "قالت منظمة الصحة العالمية في 12 أكتوبر إن التمويل لم يغطِّ سوى 23% من ندائها الإنساني البالغ 97.7 مليون دولار. تنطبق النسبة على نداء المنظمة، لا على الاستجابة الدولية بأكملها. وتدعو إلى حماية المدنيين وأنظمة الغذاء والمياه والصحة، وضمان الوصول المستمر عبر خطوط الجبهة وتمويل يمكن التنبؤ به. وتبرز أولوياتها شمال كردفان وغربها خصوصاً. [المصدر: www.who.int](https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert)"
+      },
+      {
+        "type": "paragraph",
+        "text": "أظهر تحذير المنظمة الدولية للهجرة في سبتمبر كيف يمكن لنقص التمويل أن يضر آلية الإغاثة نفسها: كان مخزون آلية الإمداد المشتركة من مستلزمات الإيواء مهدداً بالنفاد، بينما ستجعل خسارة المستودعات والقدرات التشغيلية إعادة العمل صعبة ومكلفة. كان ذلك تحذيراً في حينه، وليس تأكيداً هنا بأن كل توقف متوقع حدث لاحقاً. تحتاج المساعدات الفعالة إلى لوجستيات تعمل، إضافة إلى السلع المتبرع بها. [المصدر: www.ungeneva.org](https://www.ungeneva.org/en/news-media/press-briefing/2026/09/un-geneva-press-briefing-3)"
+      },
+      {
+        "type": "heading",
+        "text": "التحرك قبل أن يصبح تصنيف جديد ضرورياً"
+      },
+      {
+        "type": "paragraph",
+        "text": "الخلاصة الأساسية عاجلة من دون تعميم مطلق: أدلة أكتوبر تشير إلى تصاعد الخطر في مناطق مدمرة أصلاً، بينما تعود الإجماليات الوطنية والتصنيفات المحلية إلى تواريخ ومنهجيات مختلفة. وينبغي أن تستجيب المساعدات لهذه الإشارات الآن. انتظار إثبات رسمي للمجاعة يخلط بين أداة لوصف الكارثة وعتبة لاستحقاق العون."
+      },
+      {
+        "type": "paragraph",
+        "text": "وبالنسبة إلى القارئ، فإن أفضل منهج هو السؤال عما يقيسه كل رقم، ومتى جُمع، وأي أماكن يغطي. أما الاختبار العملي للاستجابة فهو قدرة الأسر على الحصول بانتظام على الغذاء والمياه النظيفة والرعاية. ويقدم ملف PRESDA عن تاريخ الطب سياقاً أوسع للأنظمة التي تقوم عليها صحة الإنسان؛ وفي السودان أصبح الحفاظ على إمكانية الوصول إليها مسألة بقاء فورية. [قراءة مرتبطة 1](/articles/history-future-of-medicine/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/"
+      },
+      {
+        "label": "المصدر: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1163315/"
+      },
+      {
+        "label": "المصدر: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/famine-facts/"
+      },
+      {
+        "label": "المصدر: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-137/en/"
+      },
+      {
+        "label": "المصدر: www.wfp.org",
+        "url": "https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food"
+      },
+      {
+        "label": "المصدر: www.fao.org",
+        "url": "https://www.fao.org/emergencies/where-we-work/sdn/en"
+      },
+      {
+        "label": "المصدر: www.ungeneva.org",
+        "url": "https://www.ungeneva.org/en/news-media/press-briefing/2026/09/un-geneva-press-briefing-3"
+      },
+      {
+        "label": "المصدر: www.who.int",
+        "url": "https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/sudan-famine-risk-war-drought-october-2026/",
+    "path": "/es/articles/sudan-famine-risk-war-drought-october-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-24",
+      "terminologyChecked": true
+    },
+    "title": "Crece el riesgo de hambruna en Sudán al confluir guerra y sequía",
+    "seoTitle": "Sudán: riesgo de hambruna, guerra y sequía en octubre",
+    "description": "La alerta de octubre de 2026 en Sudán: Darfur, Kordofán, El Niño, desplazamiento y malnutrición infantil, con cifras fechadas y clasificaciones precisas.",
+    "excerpt": "La alerta de octubre de 2026 en Sudán: Darfur, Kordofán, El Niño, desplazamiento y malnutrición infantil, con cifras fechadas y clasificaciones precisas.",
+    "headlineHighlights": {
+      "red": "riesgo de hambruna",
+      "gold": "guerra y sequía"
+    },
+    "keywords": [
+      "riesgo de hambruna",
+      "guerra y sequía"
+    ],
+    "searchIntent": "La alerta de octubre de 2026 en Sudán: Darfur, Kordofán, El Niño, desplazamiento y malnutrición infantil, con cifras fechadas y clasificaciones precisas.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-24",
+    "updatedAt": "2026-10-24",
+    "image": {
+      "src": "/articles/news-oct24-batch-sudan-hero.png",
+      "alt": "Ilustración editorial con IA de una madre desplazada y su hijo imaginarios en un campamento"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La crisis alimentaria de Sudán entra en otra fase peligrosa. La guerra ha privado a familias de sus hogares, ingresos y servicios esenciales; ahora la sequía debilita las cosechas y los medios de vida de los que depende la recuperación. La cuestión inmediata no es solo si hay alimentos en algún lugar del país, sino si las personas pueden llegar hasta ellos, comprarlos y mantenerse suficientemente sanas para sobrevivir."
+      },
+      {
+        "type": "paragraph",
+        "text": "Una alerta del 12 de octubre de 2026 de la Clasificación Integrada de la Seguridad Alimentaria en Fases, o IPC, advierte de un rápido deterioro en el Gran Darfur y el Gran Kordofán. Identifica presiones que interactúan: malnutrición, conflicto, desplazamiento, lluvias insuficientes y falta de ayuda. Es una advertencia de creciente riesgo de hambruna, no una nueva declaración general de que todo Sudán esté en hambruna. [Fuente: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué dice la alerta de octubre"
+      },
+      {
+        "type": "paragraph",
+        "text": "La IPC informa de que las encuestas nutricionales realizadas desde enero registraron niveles críticos de malnutrición aguda en gran parte del Gran Darfur. Los ingresos por malnutrición aguda grave aumentaron notablemente en zonas de Darfur del Norte y del Sur. En el Gran Kordofán, los combates y desplazamientos se combinan con pocas lluvias y medios de vida limitados, dañando la seguridad alimentaria y las perspectivas de cosecha. Estos hallazgos señalan lugares donde actuar urgentemente; no equivalen a una nueva estimación nacional de población. [Fuente: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El último análisis completo citado aquí se publicó en mayo. Estimó casi 19,5 millones de personas en fase IPC 3 o superior entre febrero y mayo de 2026, incluidas casi 135.000 en fase 5, Catástrofe, a nivel de hogar. Sus proyecciones posteriores no cubrían todo el país, y la IPC advirtió expresamente contra comparar periodos con distinta cobertura geográfica. Son una referencia fechada, no un censo de octubre. [Fuente: www.ipcinfo.org](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1163315/)"
+      },
+      {
+        "type": "heading",
+        "text": "Riesgo, catástrofe y hambruna confirmada son conceptos distintos"
+      },
+      {
+        "type": "paragraph",
+        "text": "La fase IPC 5 en el ámbito doméstico se llama Catástrofe. Clasificar una zona en Hambruna exige pruebas convergentes de privación alimentaria extrema, malnutrición aguda y mortalidad. Una advertencia de riesgo describe un escenario creíble de deterioro; no confirma que ya se hayan superado todos los umbrales. A la inversa, la ausencia de una clasificación territorial confirmada no significa que la población coma adecuadamente o que nadie esté muriendo. [Fuente: www.ipcinfo.org](https://www.ipcinfo.org/famine-facts/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sudán ya ha sufrido hambrunas confirmadas. La IPC clasificó El Fasher, en Darfur del Norte, y Kadugli, en Kordofán del Sur, en Hambruna con pruebas razonables para septiembre de 2025, y proyectó su persistencia hasta enero de 2026. El resumen de las agencias de la ONU de mayo de 2026 señaló que su análisis entonces vigente no identificaba zonas actualmente en Hambruna, aunque advertía del riesgo en 14 áreas. Ni ese resultado posterior ni la alerta de octubre deben borrar las clasificaciones previas o presentarse como prueba de que el peligro ha desaparecido. [Fuente: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-137/en/) [Fuente: www.wfp.org](https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food)"
+      },
+      {
+        "type": "heading",
+        "text": "La guerra dificulta escapar de la escasez"
+      },
+      {
+        "type": "paragraph",
+        "text": "El conflicto entre las fuerzas armadas sudanesas y las Fuerzas de Apoyo Rápido comenzó en abril de 2023. Sus efectos humanitarios se extienden mucho más allá del frente. Mercados y recursos agrícolas dañados, movimientos restringidos y servicios interrumpidos debilitan tanto la producción de alimentos como la capacidad de comprarlos. La FAO, el PMA y UNICEF describen la inseguridad, las trabas burocráticas y los ataques en rutas de suministro como obstáculos a la ayuda. Que un cargamento llegue al país no garantiza que alcance a una familia aislada. [Fuente: www.wfp.org](https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Por eso el hambre no puede comprenderse solo en toneladas de grano. Un hogar puede estar rodeado de mercados abiertos y no poder pagar una comida; otro puede tener dinero, pero ninguna ruta segura hasta los productos. Recuperar medios de vida y acceso forma parte de la respuesta urgente, no de una tarea que deba esperar al final de los repartos de alimentos."
+      },
+      {
+        "type": "heading",
+        "text": "La sequía presiona un sistema ya dañado"
+      },
+      {
+        "type": "paragraph",
+        "text": "La alerta de octubre atribuye a El Niño una sequía grave en más de la mitad de Sudán, con pérdidas de cosechas, déficits de agua, menores ingresos y encarecimiento de los cereales. Su interacción con la guerra resulta especialmente peligrosa: las familias desplazadas o empobrecidas disponen de menos recursos para absorber otra pérdida. La alerta respalda un deterioro asociado a la sequía; no establece que todas las localidades estén afectadas por igual. [Fuente: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La respuesta de la FAO combina apoyo a cultivos, ganadería y pesca para ayudar a producir alimentos localmente. Estas medidas abordan un aspecto distinto del problema que la asistencia alimentaria inmediata. Las semillas sirven de poco si el agricultor no puede llegar a su tierra con seguridad; las raciones de emergencia no recuperan por sí mismas la siguiente campaña. Ambas formas de apoyo dependen del acceso, del momento y de poder trabajar sin ataques. [Fuente: www.fao.org](https://www.fao.org/emergencies/where-we-work/sdn/en)"
+      },
+      {
+        "type": "heading",
+        "text": "El desplazamiento no cabe en una sola cifra"
+      },
+      {
+        "type": "paragraph",
+        "text": "En una rueda de prensa de la ONU del 18 de septiembre, la OIM informó de 8,6 millones de personas todavía desplazadas dentro del país y 4,9 millones de retornados. Casi el 70 % de los desplazados internos vivía con familias de acogida o en asentamientos informales. Son categorías fechadas, no cifras que deban sumarse como un único total actual de refugiados. Los retornados han vuelto; los desplazados internos permanecen en Sudán; quienes cruzan fronteras requieren una medición aparte. [Fuente: www.ungeneva.org](https://www.ungeneva.org/en/news-media/press-briefing/2026/09/un-geneva-press-briefing-3)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Regresar al lugar de origen tampoco demuestra, por sí solo, que hayan vuelto el agua, las clínicas, las escuelas o los ingresos. Para planificar la ayuda, la ubicación y las condiciones de vida importan tanto como el movimiento. Una reducción en el número registrado de desplazados no puede interpretarse automáticamente como una disminución equivalente de las necesidades humanitarias."
+      },
+      {
+        "type": "heading",
+        "text": "Una emergencia nutricional y sanitaria para la infancia"
+      },
+      {
+        "type": "paragraph",
+        "text": "El análisis de mayo proyectó que 825.000 menores de cinco años sufrirían malnutrición aguda grave durante 2026. Es una previsión anual de casos, no un recuento de niños enfermos en un día de octubre. Por separado, la OMS informó el 12 de octubre de que había apoyado los 161 centros operativos de estabilización nutricional y contribuido a tratar a más de 26.000 niños con malnutrición aguda grave y complicaciones médicas entre enero y agosto. Esas cifras de tratamiento abarcan otra población y otro periodo. [Fuente: www.wfp.org](https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food) [Fuente: www.who.int](https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La OMS explica que la malnutrición aumenta la vulnerabilidad a enfermedades graves, entre ellas el cólera y el sarampión, mientras el acceso al agua potable y la atención sanitaria es muy limitado. Su comunicado de octubre indicó que, para 2026, el 37 % de los establecimientos sanitarios había dejado de funcionar. Combatir el hambre requiere algo más que calorías: atención nutricional, tratamiento de infecciones, agua segura y sistemas de derivación deben formar parte de una misma respuesta. [Fuente: www.who.int](https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert)"
+      },
+      {
+        "type": "heading",
+        "text": "Qué puede lograr la ayuda y qué se lo impide"
+      },
+      {
+        "type": "paragraph",
+        "text": "El 12 de octubre, la OMS afirmó que solo se había financiado el 23 % de su llamamiento humanitario de 97,7 millones de dólares. Ese porcentaje corresponde a su llamamiento, no al conjunto de la respuesta internacional. Pide proteger a civiles y sistemas de alimentación, agua y salud, mantener el acceso a través de los frentes y garantizar financiación previsible. Sus prioridades destacan Kordofán del Norte y del Oeste. [Fuente: www.who.int](https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La advertencia de septiembre de la OIM mostró que la falta de fondos puede dañar la propia infraestructura del auxilio: su mecanismo compartido de suministros se enfrentaba al agotamiento de artículos para alojamiento, mientras perder almacenes y capacidad operativa haría costoso y difícil reanudar la actividad. Era una advertencia de entonces, no una confirmación aquí de que todos los cierres previstos ocurrieran después. La ayuda eficaz necesita logística operativa además de bienes donados. [Fuente: www.ungeneva.org](https://www.ungeneva.org/en/news-media/press-briefing/2026/09/un-geneva-press-briefing-3)"
+      },
+      {
+        "type": "heading",
+        "text": "Actuar antes de que sea necesaria otra clasificación"
+      },
+      {
+        "type": "paragraph",
+        "text": "La conclusión principal es urgente sin ser absoluta: los datos de octubre muestran un riesgo creciente en regiones devastadas, mientras los totales nacionales y las clasificaciones locales corresponden a fechas y métodos diferentes. La asistencia debe responder ahora a esas señales. Esperar una declaración formal de hambruna confundiría una herramienta para describir la catástrofe con un umbral para merecer ayuda."
+      },
+      {
+        "type": "paragraph",
+        "text": "Para el lector, la disciplina más útil consiste en preguntar qué mide cada cifra, cuándo se obtuvo y qué lugares abarca. Para la respuesta humanitaria, la prueba práctica es que las familias puedan conseguir comida, agua potable y atención de forma constante. La historia de la medicina de PRESDA ofrece más contexto sobre los sistemas que sostienen la salud humana; en Sudán, mantenerlos accesibles es una cuestión inmediata de supervivencia. [Lectura relacionada 1](/articles/history-future-of-medicine/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/"
+      },
+      {
+        "label": "Fuente: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1163315/"
+      },
+      {
+        "label": "Fuente: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/famine-facts/"
+      },
+      {
+        "label": "Fuente: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-137/en/"
+      },
+      {
+        "label": "Fuente: www.wfp.org",
+        "url": "https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food"
+      },
+      {
+        "label": "Fuente: www.fao.org",
+        "url": "https://www.fao.org/emergencies/where-we-work/sdn/en"
+      },
+      {
+        "label": "Fuente: www.ungeneva.org",
+        "url": "https://www.ungeneva.org/en/news-media/press-briefing/2026/09/un-geneva-press-briefing-3"
+      },
+      {
+        "label": "Fuente: www.who.int",
+        "url": "https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert"
+      }
+    ],
+    "faq": []
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/sudan-famine-risk-war-drought-october-2026/",
+    "path": "/fr/articles/sudan-famine-risk-war-drought-october-2026/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-10-24",
+      "terminologyChecked": true
+    },
+    "title": "Au Soudan, le risque de famine s'aggrave entre guerre et sécheresse",
+    "seoTitle": "Soudan : risque de famine, guerre et sécheresse en 2026",
+    "description": "Darfur, Kordofan, El Niño et malnutrition infantile : comprendre l'alerte d'octobre 2026 au Soudan, les chiffres de l'ONU et les classifications de famine.",
+    "excerpt": "Darfur, Kordofan, El Niño et malnutrition infantile : comprendre l'alerte d'octobre 2026 au Soudan, les chiffres de l'ONU et les classifications de famine.",
+    "headlineHighlights": {
+      "red": "risque de famine",
+      "gold": "guerre et sécheresse"
+    },
+    "keywords": [
+      "risque de famine",
+      "guerre et sécheresse"
+    ],
+    "searchIntent": "Darfur, Kordofan, El Niño et malnutrition infantile : comprendre l'alerte d'octobre 2026 au Soudan, les chiffres de l'ONU et les classifications de famine.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-10-24",
+    "updatedAt": "2026-10-24",
+    "image": {
+      "src": "/articles/news-oct24-batch-sudan-hero.png",
+      "alt": "Illustration éditoriale IA d'une mère déplacée et de son enfant imaginaires dans un camp"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La crise alimentaire du Soudan entre dans une nouvelle phase dangereuse. La guerre a privé des familles de leur logement, de leurs revenus et de services essentiels ; la sécheresse fragilise désormais les récoltes et les moyens de subsistance nécessaires au redressement. La question n'est pas seulement de savoir si des aliments existent quelque part dans le pays, mais si les habitants peuvent y accéder, les acheter et rester assez bien soignés pour survivre."
+      },
+      {
+        "type": "paragraph",
+        "text": "Une alerte du Cadre intégré de classification de la sécurité alimentaire, ou IPC, datée du 12 octobre 2026, décrit une dégradation rapide dans le Grand Darfour et le Grand Kordofan. Elle relève des pressions qui se renforcent : malnutrition, conflit, déplacements, faibles pluies et aide insuffisante. Il s'agit d'un avertissement sur l'augmentation du risque de famine, pas d'une nouvelle déclaration générale de famine dans tout le Soudan. [Source: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que dit l'alerte d'octobre"
+      },
+      {
+        "type": "paragraph",
+        "text": "L'IPC indique que les enquêtes nutritionnelles réalisées depuis janvier ont mesuré des niveaux critiques de malnutrition aiguë dans une grande partie du Grand Darfour. Les admissions pour malnutrition aiguë sévère ont fortement augmenté dans certaines zones du Darfour du Nord et du Sud. Au Grand Kordofan, combats, déplacements, faibles précipitations et moyens de subsistance limités compromettent la sécurité alimentaire et les perspectives de récolte. Ces constats désignent des lieux où agir d'urgence ; ils ne constituent pas une nouvelle estimation nationale de population. [Source: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La dernière analyse complète citée ici a été publiée en mai. Elle estimait à près de 19,5 millions le nombre de personnes en phase IPC 3 ou supérieure entre février et mai 2026, dont presque 135 000 en phase 5, Catastrophe, au niveau des ménages. Les projections ultérieures ne couvraient pas tout le pays, et l'IPC déconseillait explicitement les comparaisons entre périodes de couverture géographique différente. Ces chiffres forment un repère daté, pas un recensement d'octobre. [Source: www.ipcinfo.org](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1163315/)"
+      },
+      {
+        "type": "heading",
+        "text": "Risque, catastrophe et famine confirmée : trois notions distinctes"
+      },
+      {
+        "type": "paragraph",
+        "text": "La phase IPC 5 au niveau d'un ménage s'appelle Catastrophe. Classer une zone en Famine exige des éléments convergents sur la privation alimentaire extrême, la malnutrition aiguë et la mortalité. Un risque de famine décrit un scénario crédible de dégradation ; il ne confirme pas que tous les seuils ont déjà été franchis. Inversement, l'absence de classification confirmée ne signifie ni que les habitants mangent suffisamment ni que personne ne meurt. [Source: www.ipcinfo.org](https://www.ipcinfo.org/famine-facts/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le Soudan a déjà connu des famines confirmées. L'IPC a classé El Fasher, au Darfour du Nord, et Kadugli, au Kordofan du Sud, en Famine sur la base de preuves raisonnables pour septembre 2025, avec une persistance projetée jusqu'en janvier 2026. Le résumé des agences de l'ONU de mai 2026 indiquait que l'analyse alors en vigueur ne relevait aucune zone actuellement en Famine, tout en signalant un risque dans 14 zones. Ce constat ultérieur et l'alerte d'octobre ne doivent ni effacer les classifications précédentes ni être présentés comme la preuve que le danger a disparu. [Source: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-137/en/) [Source: www.wfp.org](https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food)"
+      },
+      {
+        "type": "heading",
+        "text": "La guerre rend la pénurie plus difficile à fuir"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le conflit entre l'armée soudanaise et les Forces de soutien rapide a commencé en avril 2023. Ses effets humanitaires dépassent largement les lignes de front. La destruction de marchés et d'équipements agricoles, les restrictions de déplacement et l'interruption des services fragilisent la production alimentaire autant que la capacité d'achat. La FAO, le PAM et l'UNICEF citent l'insécurité, les obstacles administratifs et les attaques le long des itinéraires d'approvisionnement parmi les freins à l'aide. Une cargaison entrée dans le pays n'atteint pas nécessairement une famille isolée. [Source: www.wfp.org](https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La faim ne se comprend donc pas seulement en tonnes de céréales. Un ménage peut vivre près de marchés actifs sans pouvoir acheter un repas ; un autre peut disposer d'argent sans itinéraire sûr vers les produits. Restaurer les moyens de subsistance et l'accès fait partie de l'urgence, et non d'un chantier à envisager uniquement après la fin des distributions."
+      },
+      {
+        "type": "heading",
+        "text": "La sécheresse aggrave un système déjà affaibli"
+      },
+      {
+        "type": "paragraph",
+        "text": "L'alerte IPC d'octobre attribue à El Niño une forte sécheresse sur plus de la moitié du Soudan, avec pertes de récoltes, déficits hydriques, baisse des revenus et hausse du prix des céréales. L'interaction avec la guerre rend cette situation particulièrement dangereuse : les familles déjà déplacées ou appauvries disposent de moins de moyens pour absorber une nouvelle perte. L'alerte étaye une dégradation liée à la sécheresse ; elle ne démontre pas que toutes les localités sont touchées de la même façon. [Source: www.ipcinfo.org](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La réponse de la FAO associe cultures, élevage et pêche pour aider les ménages à produire localement. Ces interventions traitent une autre dimension du problème que l'assistance alimentaire immédiate. Des semences servent peu si les agriculteurs ne peuvent rejoindre leurs terres en sécurité ; des rations d'urgence ne rétablissent pas à elles seules la saison agricole suivante. Les deux soutiens dépendent de l'accès, du calendrier et de la possibilité de travailler sans subir d'attaque. [Source: www.fao.org](https://www.fao.org/emergencies/where-we-work/sdn/en)"
+      },
+      {
+        "type": "heading",
+        "text": "Les déplacements ne se résument pas à un chiffre"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lors d'un point de presse de l'ONU le 18 septembre, l'OIM signalait 8,6 millions de personnes toujours déplacées à l'intérieur du pays et 4,9 millions de personnes retournées dans leur région d'origine. Près de 70 % des déplacés internes vivaient chez des familles d'accueil ou dans des installations informelles. Ces catégories datées ne doivent pas être additionnées pour produire un nombre actuel de réfugiés. Les personnes retournées sont revenues ; les déplacés internes restent au Soudan ; les passages de frontières exigent un indicateur distinct. [Source: www.ungeneva.org](https://www.ungeneva.org/en/news-media/press-briefing/2026/09/un-geneva-press-briefing-3)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Revenir dans sa région renseigne peu, à lui seul, sur le retour de l'eau, des cliniques, des écoles ou des revenus. Pour planifier l'aide, le lieu et les conditions de vie comptent autant que le mouvement. Une baisse du nombre de personnes enregistrées comme déplacées ne signifie donc pas automatiquement une baisse équivalente des besoins humanitaires."
+      },
+      {
+        "type": "heading",
+        "text": "Une urgence nutritionnelle et sanitaire pour les enfants"
+      },
+      {
+        "type": "paragraph",
+        "text": "L'analyse de mai projetait que 825 000 enfants de moins de cinq ans souffriraient de malnutrition aiguë sévère en 2026. C'est un nombre annuel projeté de cas, pas un décompte d'enfants malades un jour d'octobre. Séparément, l'OMS indiquait le 12 octobre avoir soutenu les 161 centres de stabilisation nutritionnelle opérationnels et contribué au traitement de plus de 26 000 enfants présentant une malnutrition aiguë sévère accompagnée de complications médicales entre janvier et août. Ces chiffres de traitement portent sur une population et une période différentes. [Source: www.wfp.org](https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food) [Source: www.who.int](https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L'OMS explique que la malnutrition accroît la vulnérabilité aux formes graves de maladies, notamment au choléra et à la rougeole, alors que l'accès à l'eau potable et aux soins est très limité. Son communiqué d'octobre indiquait que 37 % des établissements de santé avaient cessé de fonctionner à l'horizon 2026. Combattre la faim demande donc plus que des calories : soins nutritionnels, traitement des infections, eau salubre et circuits de prise en charge doivent fonctionner ensemble. [Source: www.who.int](https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert)"
+      },
+      {
+        "type": "heading",
+        "text": "Ce que l'aide peut faire et ce qui l'empêche d'agir"
+      },
+      {
+        "type": "paragraph",
+        "text": "L'OMS indiquait le 12 octobre que seuls 23 % de son appel humanitaire de 97,7 millions de dollars étaient financés. Ce pourcentage concerne son propre appel, pas toute la réponse internationale. Elle demande la protection des civils et des systèmes alimentaires, hydriques et sanitaires, un accès durable à travers les fronts et des financements prévisibles. Ses priorités mentionnent particulièrement le Kordofan du Nord et de l'Ouest. [Source: www.who.int](https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L'avertissement de l'OIM en septembre montrait comment le manque de financement menace l'infrastructure même des secours : son dispositif partagé d'approvisionnement risquait d'épuiser ses articles d'hébergement, tandis que la perte d'entrepôts et de capacités opérationnelles rendrait le redémarrage coûteux et difficile. C'était un avertissement à cette date, pas la confirmation ici que toutes les fermetures redoutées ont eu lieu. L'aide exige une logistique opérationnelle autant que des dons de marchandises. [Source: www.ungeneva.org](https://www.ungeneva.org/en/news-media/press-briefing/2026/09/un-geneva-press-briefing-3)"
+      },
+      {
+        "type": "heading",
+        "text": "Agir avant qu'une nouvelle classification ne soit nécessaire"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le constat essentiel est urgent sans être absolu : les éléments d'octobre signalent un risque accru dans des régions déjà dévastées, tandis que totaux nationaux et classifications locales correspondent à des dates et méthodes différentes. L'assistance doit répondre dès maintenant à ces signaux. Attendre un constat formel de famine reviendrait à confondre un outil décrivant la catastrophe avec un seuil donnant droit à l'aide."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour les lecteurs, le réflexe le plus utile consiste à demander ce que mesure chaque chiffre, quand il a été recueilli et quels lieux il couvre. Pour les secours, le test concret reste l'accès régulier des familles à la nourriture, à l'eau potable et aux soins. Le dossier de PRESDA sur l'histoire de la médecine éclaire les systèmes qui soutiennent la santé humaine ; au Soudan, maintenir leur accessibilité est une question immédiate de survie. [Lecture associée 1](/articles/history-future-of-medicine/)"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-157/en/"
+      },
+      {
+        "label": "Source: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1163315/"
+      },
+      {
+        "label": "Source: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/famine-facts/"
+      },
+      {
+        "label": "Source: www.ipcinfo.org",
+        "url": "https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-137/en/"
+      },
+      {
+        "label": "Source: www.wfp.org",
+        "url": "https://www.wfp.org/news/joint-news-release-wfpfaounicef-risk-famine-persists-nearly-195-million-people-face-acute-food"
+      },
+      {
+        "label": "Source: www.fao.org",
+        "url": "https://www.fao.org/emergencies/where-we-work/sdn/en"
+      },
+      {
+        "label": "Source: www.ungeneva.org",
+        "url": "https://www.ungeneva.org/en/news-media/press-briefing/2026/09/un-geneva-press-briefing-3"
+      },
+      {
+        "label": "Source: www.who.int",
+        "url": "https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert"
       }
     ],
     "faq": []

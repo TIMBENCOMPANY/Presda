@@ -1,0 +1,51 @@
+La crisis alimentaria de Sudán entra en otra fase peligrosa. La guerra ha privado a familias de sus hogares, ingresos y servicios esenciales; ahora la sequía debilita las cosechas y los medios de vida de los que depende la recuperación. La cuestión inmediata no es solo si hay alimentos en algún lugar del país, sino si las personas pueden llegar hasta ellos, comprarlos y mantenerse suficientemente sanas para sobrevivir.
+
+Una alerta del 12 de octubre de 2026 de la Clasificación Integrada de la Seguridad Alimentaria en Fases, o IPC, advierte de un rápido deterioro en el Gran Darfur y el Gran Kordofán. Identifica presiones que interactúan: malnutrición, conflicto, desplazamiento, lluvias insuficientes y falta de ayuda. Es una advertencia de creciente riesgo de hambruna, no una nueva declaración general de que todo Sudán esté en hambruna.
+
+## Qué dice la alerta de octubre
+
+La IPC informa de que las encuestas nutricionales realizadas desde enero registraron niveles críticos de malnutrición aguda en gran parte del Gran Darfur. Los ingresos por malnutrición aguda grave aumentaron notablemente en zonas de Darfur del Norte y del Sur. En el Gran Kordofán, los combates y desplazamientos se combinan con pocas lluvias y medios de vida limitados, dañando la seguridad alimentaria y las perspectivas de cosecha. Estos hallazgos señalan lugares donde actuar urgentemente; no equivalen a una nueva estimación nacional de población.
+
+El último análisis completo citado aquí se publicó en mayo. Estimó casi 19,5 millones de personas en fase IPC 3 o superior entre febrero y mayo de 2026, incluidas casi 135.000 en fase 5, Catástrofe, a nivel de hogar. Sus proyecciones posteriores no cubrían todo el país, y la IPC advirtió expresamente contra comparar periodos con distinta cobertura geográfica. Son una referencia fechada, no un censo de octubre.
+
+## Riesgo, catástrofe y hambruna confirmada son conceptos distintos
+
+La fase IPC 5 en el ámbito doméstico se llama Catástrofe. Clasificar una zona en Hambruna exige pruebas convergentes de privación alimentaria extrema, malnutrición aguda y mortalidad. Una advertencia de riesgo describe un escenario creíble de deterioro; no confirma que ya se hayan superado todos los umbrales. A la inversa, la ausencia de una clasificación territorial confirmada no significa que la población coma adecuadamente o que nadie esté muriendo.
+
+Sudán ya ha sufrido hambrunas confirmadas. La IPC clasificó El Fasher, en Darfur del Norte, y Kadugli, en Kordofán del Sur, en Hambruna con pruebas razonables para septiembre de 2025, y proyectó su persistencia hasta enero de 2026. El resumen de las agencias de la ONU de mayo de 2026 señaló que su análisis entonces vigente no identificaba zonas actualmente en Hambruna, aunque advertía del riesgo en 14 áreas. Ni ese resultado posterior ni la alerta de octubre deben borrar las clasificaciones previas o presentarse como prueba de que el peligro ha desaparecido.
+
+## La guerra dificulta escapar de la escasez
+
+El conflicto entre las fuerzas armadas sudanesas y las Fuerzas de Apoyo Rápido comenzó en abril de 2023. Sus efectos humanitarios se extienden mucho más allá del frente. Mercados y recursos agrícolas dañados, movimientos restringidos y servicios interrumpidos debilitan tanto la producción de alimentos como la capacidad de comprarlos. La FAO, el PMA y UNICEF describen la inseguridad, las trabas burocráticas y los ataques en rutas de suministro como obstáculos a la ayuda. Que un cargamento llegue al país no garantiza que alcance a una familia aislada.
+
+Por eso el hambre no puede comprenderse solo en toneladas de grano. Un hogar puede estar rodeado de mercados abiertos y no poder pagar una comida; otro puede tener dinero, pero ninguna ruta segura hasta los productos. Recuperar medios de vida y acceso forma parte de la respuesta urgente, no de una tarea que deba esperar al final de los repartos de alimentos.
+
+## La sequía presiona un sistema ya dañado
+
+La alerta de octubre atribuye a El Niño una sequía grave en más de la mitad de Sudán, con pérdidas de cosechas, déficits de agua, menores ingresos y encarecimiento de los cereales. Su interacción con la guerra resulta especialmente peligrosa: las familias desplazadas o empobrecidas disponen de menos recursos para absorber otra pérdida. La alerta respalda un deterioro asociado a la sequía; no establece que todas las localidades estén afectadas por igual.
+
+La respuesta de la FAO combina apoyo a cultivos, ganadería y pesca para ayudar a producir alimentos localmente. Estas medidas abordan un aspecto distinto del problema que la asistencia alimentaria inmediata. Las semillas sirven de poco si el agricultor no puede llegar a su tierra con seguridad; las raciones de emergencia no recuperan por sí mismas la siguiente campaña. Ambas formas de apoyo dependen del acceso, del momento y de poder trabajar sin ataques.
+
+## El desplazamiento no cabe en una sola cifra
+
+En una rueda de prensa de la ONU del 18 de septiembre, la OIM informó de 8,6 millones de personas todavía desplazadas dentro del país y 4,9 millones de retornados. Casi el 70 % de los desplazados internos vivía con familias de acogida o en asentamientos informales. Son categorías fechadas, no cifras que deban sumarse como un único total actual de refugiados. Los retornados han vuelto; los desplazados internos permanecen en Sudán; quienes cruzan fronteras requieren una medición aparte.
+
+Regresar al lugar de origen tampoco demuestra, por sí solo, que hayan vuelto el agua, las clínicas, las escuelas o los ingresos. Para planificar la ayuda, la ubicación y las condiciones de vida importan tanto como el movimiento. Una reducción en el número registrado de desplazados no puede interpretarse automáticamente como una disminución equivalente de las necesidades humanitarias.
+
+## Una emergencia nutricional y sanitaria para la infancia
+
+El análisis de mayo proyectó que 825.000 menores de cinco años sufrirían malnutrición aguda grave durante 2026. Es una previsión anual de casos, no un recuento de niños enfermos en un día de octubre. Por separado, la OMS informó el 12 de octubre de que había apoyado los 161 centros operativos de estabilización nutricional y contribuido a tratar a más de 26.000 niños con malnutrición aguda grave y complicaciones médicas entre enero y agosto. Esas cifras de tratamiento abarcan otra población y otro periodo.
+
+La OMS explica que la malnutrición aumenta la vulnerabilidad a enfermedades graves, entre ellas el cólera y el sarampión, mientras el acceso al agua potable y la atención sanitaria es muy limitado. Su comunicado de octubre indicó que, para 2026, el 37 % de los establecimientos sanitarios había dejado de funcionar. Combatir el hambre requiere algo más que calorías: atención nutricional, tratamiento de infecciones, agua segura y sistemas de derivación deben formar parte de una misma respuesta.
+
+## Qué puede lograr la ayuda y qué se lo impide
+
+El 12 de octubre, la OMS afirmó que solo se había financiado el 23 % de su llamamiento humanitario de 97,7 millones de dólares. Ese porcentaje corresponde a su llamamiento, no al conjunto de la respuesta internacional. Pide proteger a civiles y sistemas de alimentación, agua y salud, mantener el acceso a través de los frentes y garantizar financiación previsible. Sus prioridades destacan Kordofán del Norte y del Oeste.
+
+La advertencia de septiembre de la OIM mostró que la falta de fondos puede dañar la propia infraestructura del auxilio: su mecanismo compartido de suministros se enfrentaba al agotamiento de artículos para alojamiento, mientras perder almacenes y capacidad operativa haría costoso y difícil reanudar la actividad. Era una advertencia de entonces, no una confirmación aquí de que todos los cierres previstos ocurrieran después. La ayuda eficaz necesita logística operativa además de bienes donados.
+
+## Actuar antes de que sea necesaria otra clasificación
+
+La conclusión principal es urgente sin ser absoluta: los datos de octubre muestran un riesgo creciente en regiones devastadas, mientras los totales nacionales y las clasificaciones locales corresponden a fechas y métodos diferentes. La asistencia debe responder ahora a esas señales. Esperar una declaración formal de hambruna confundiría una herramienta para describir la catástrofe con un umbral para merecer ayuda.
+
+Para el lector, la disciplina más útil consiste en preguntar qué mide cada cifra, cuándo se obtuvo y qué lugares abarca. Para la respuesta humanitaria, la prueba práctica es que las familias puedan conseguir comida, agua potable y atención de forma constante. La historia de la medicina de PRESDA ofrece más contexto sobre los sistemas que sostienen la salud humana; en Sudán, mantenerlos accesibles es una cuestión inmediata de supervivencia.

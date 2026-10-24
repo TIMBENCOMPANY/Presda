@@ -1,0 +1,51 @@
+La crise alimentaire du Soudan entre dans une nouvelle phase dangereuse. La guerre a privé des familles de leur logement, de leurs revenus et de services essentiels ; la sécheresse fragilise désormais les récoltes et les moyens de subsistance nécessaires au redressement. La question n'est pas seulement de savoir si des aliments existent quelque part dans le pays, mais si les habitants peuvent y accéder, les acheter et rester assez bien soignés pour survivre.
+
+Une alerte du Cadre intégré de classification de la sécurité alimentaire, ou IPC, datée du 12 octobre 2026, décrit une dégradation rapide dans le Grand Darfour et le Grand Kordofan. Elle relève des pressions qui se renforcent : malnutrition, conflit, déplacements, faibles pluies et aide insuffisante. Il s'agit d'un avertissement sur l'augmentation du risque de famine, pas d'une nouvelle déclaration générale de famine dans tout le Soudan.
+
+## Ce que dit l'alerte d'octobre
+
+L'IPC indique que les enquêtes nutritionnelles réalisées depuis janvier ont mesuré des niveaux critiques de malnutrition aiguë dans une grande partie du Grand Darfour. Les admissions pour malnutrition aiguë sévère ont fortement augmenté dans certaines zones du Darfour du Nord et du Sud. Au Grand Kordofan, combats, déplacements, faibles précipitations et moyens de subsistance limités compromettent la sécurité alimentaire et les perspectives de récolte. Ces constats désignent des lieux où agir d'urgence ; ils ne constituent pas une nouvelle estimation nationale de population.
+
+La dernière analyse complète citée ici a été publiée en mai. Elle estimait à près de 19,5 millions le nombre de personnes en phase IPC 3 ou supérieure entre février et mai 2026, dont presque 135 000 en phase 5, Catastrophe, au niveau des ménages. Les projections ultérieures ne couvraient pas tout le pays, et l'IPC déconseillait explicitement les comparaisons entre périodes de couverture géographique différente. Ces chiffres forment un repère daté, pas un recensement d'octobre.
+
+## Risque, catastrophe et famine confirmée : trois notions distinctes
+
+La phase IPC 5 au niveau d'un ménage s'appelle Catastrophe. Classer une zone en Famine exige des éléments convergents sur la privation alimentaire extrême, la malnutrition aiguë et la mortalité. Un risque de famine décrit un scénario crédible de dégradation ; il ne confirme pas que tous les seuils ont déjà été franchis. Inversement, l'absence de classification confirmée ne signifie ni que les habitants mangent suffisamment ni que personne ne meurt.
+
+Le Soudan a déjà connu des famines confirmées. L'IPC a classé El Fasher, au Darfour du Nord, et Kadugli, au Kordofan du Sud, en Famine sur la base de preuves raisonnables pour septembre 2025, avec une persistance projetée jusqu'en janvier 2026. Le résumé des agences de l'ONU de mai 2026 indiquait que l'analyse alors en vigueur ne relevait aucune zone actuellement en Famine, tout en signalant un risque dans 14 zones. Ce constat ultérieur et l'alerte d'octobre ne doivent ni effacer les classifications précédentes ni être présentés comme la preuve que le danger a disparu.
+
+## La guerre rend la pénurie plus difficile à fuir
+
+Le conflit entre l'armée soudanaise et les Forces de soutien rapide a commencé en avril 2023. Ses effets humanitaires dépassent largement les lignes de front. La destruction de marchés et d'équipements agricoles, les restrictions de déplacement et l'interruption des services fragilisent la production alimentaire autant que la capacité d'achat. La FAO, le PAM et l'UNICEF citent l'insécurité, les obstacles administratifs et les attaques le long des itinéraires d'approvisionnement parmi les freins à l'aide. Une cargaison entrée dans le pays n'atteint pas nécessairement une famille isolée.
+
+La faim ne se comprend donc pas seulement en tonnes de céréales. Un ménage peut vivre près de marchés actifs sans pouvoir acheter un repas ; un autre peut disposer d'argent sans itinéraire sûr vers les produits. Restaurer les moyens de subsistance et l'accès fait partie de l'urgence, et non d'un chantier à envisager uniquement après la fin des distributions.
+
+## La sécheresse aggrave un système déjà affaibli
+
+L'alerte IPC d'octobre attribue à El Niño une forte sécheresse sur plus de la moitié du Soudan, avec pertes de récoltes, déficits hydriques, baisse des revenus et hausse du prix des céréales. L'interaction avec la guerre rend cette situation particulièrement dangereuse : les familles déjà déplacées ou appauvries disposent de moins de moyens pour absorber une nouvelle perte. L'alerte étaye une dégradation liée à la sécheresse ; elle ne démontre pas que toutes les localités sont touchées de la même façon.
+
+La réponse de la FAO associe cultures, élevage et pêche pour aider les ménages à produire localement. Ces interventions traitent une autre dimension du problème que l'assistance alimentaire immédiate. Des semences servent peu si les agriculteurs ne peuvent rejoindre leurs terres en sécurité ; des rations d'urgence ne rétablissent pas à elles seules la saison agricole suivante. Les deux soutiens dépendent de l'accès, du calendrier et de la possibilité de travailler sans subir d'attaque.
+
+## Les déplacements ne se résument pas à un chiffre
+
+Lors d'un point de presse de l'ONU le 18 septembre, l'OIM signalait 8,6 millions de personnes toujours déplacées à l'intérieur du pays et 4,9 millions de personnes retournées dans leur région d'origine. Près de 70 % des déplacés internes vivaient chez des familles d'accueil ou dans des installations informelles. Ces catégories datées ne doivent pas être additionnées pour produire un nombre actuel de réfugiés. Les personnes retournées sont revenues ; les déplacés internes restent au Soudan ; les passages de frontières exigent un indicateur distinct.
+
+Revenir dans sa région renseigne peu, à lui seul, sur le retour de l'eau, des cliniques, des écoles ou des revenus. Pour planifier l'aide, le lieu et les conditions de vie comptent autant que le mouvement. Une baisse du nombre de personnes enregistrées comme déplacées ne signifie donc pas automatiquement une baisse équivalente des besoins humanitaires.
+
+## Une urgence nutritionnelle et sanitaire pour les enfants
+
+L'analyse de mai projetait que 825 000 enfants de moins de cinq ans souffriraient de malnutrition aiguë sévère en 2026. C'est un nombre annuel projeté de cas, pas un décompte d'enfants malades un jour d'octobre. Séparément, l'OMS indiquait le 12 octobre avoir soutenu les 161 centres de stabilisation nutritionnelle opérationnels et contribué au traitement de plus de 26 000 enfants présentant une malnutrition aiguë sévère accompagnée de complications médicales entre janvier et août. Ces chiffres de traitement portent sur une population et une période différentes.
+
+L'OMS explique que la malnutrition accroît la vulnérabilité aux formes graves de maladies, notamment au choléra et à la rougeole, alors que l'accès à l'eau potable et aux soins est très limité. Son communiqué d'octobre indiquait que 37 % des établissements de santé avaient cessé de fonctionner à l'horizon 2026. Combattre la faim demande donc plus que des calories : soins nutritionnels, traitement des infections, eau salubre et circuits de prise en charge doivent fonctionner ensemble.
+
+## Ce que l'aide peut faire et ce qui l'empêche d'agir
+
+L'OMS indiquait le 12 octobre que seuls 23 % de son appel humanitaire de 97,7 millions de dollars étaient financés. Ce pourcentage concerne son propre appel, pas toute la réponse internationale. Elle demande la protection des civils et des systèmes alimentaires, hydriques et sanitaires, un accès durable à travers les fronts et des financements prévisibles. Ses priorités mentionnent particulièrement le Kordofan du Nord et de l'Ouest.
+
+L'avertissement de l'OIM en septembre montrait comment le manque de financement menace l'infrastructure même des secours : son dispositif partagé d'approvisionnement risquait d'épuiser ses articles d'hébergement, tandis que la perte d'entrepôts et de capacités opérationnelles rendrait le redémarrage coûteux et difficile. C'était un avertissement à cette date, pas la confirmation ici que toutes les fermetures redoutées ont eu lieu. L'aide exige une logistique opérationnelle autant que des dons de marchandises.
+
+## Agir avant qu'une nouvelle classification ne soit nécessaire
+
+Le constat essentiel est urgent sans être absolu : les éléments d'octobre signalent un risque accru dans des régions déjà dévastées, tandis que totaux nationaux et classifications locales correspondent à des dates et méthodes différentes. L'assistance doit répondre dès maintenant à ces signaux. Attendre un constat formel de famine reviendrait à confondre un outil décrivant la catastrophe avec un seuil donnant droit à l'aide.
+
+Pour les lecteurs, le réflexe le plus utile consiste à demander ce que mesure chaque chiffre, quand il a été recueilli et quels lieux il couvre. Pour les secours, le test concret reste l'accès régulier des familles à la nourriture, à l'eau potable et aux soins. Le dossier de PRESDA sur l'histoire de la médecine éclaire les systèmes qui soutiennent la santé humaine ; au Soudan, maintenir leur accessibilité est une question immédiate de survie.

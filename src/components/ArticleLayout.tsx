@@ -1,3 +1,4 @@
+import newsOct24BatchHeroCaptions from "@/data/newsOct24BatchHeroCaptions.json";
 import newsOct23LateHeroCaptions from "@/data/newsOct23LateHeroCaptions.json";
 import newsOct23BatchHeroCaptions from "@/data/newsOct23BatchHeroCaptions.json";
 import birdBatchHeroCaptions from "@/data/birdBatchHeroCaptions.json";
@@ -419,6 +420,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in gravityHeroCaptions && <p data-gravity-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gravityHeroCaptions[article.slug as keyof typeof gravityHeroCaptions][locale]}</p>}
         {article.slug in premiumBatchHeroCaptions && <p data-premium-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{premiumBatchHeroCaptions[article.slug as keyof typeof premiumBatchHeroCaptions][locale]}</p>}
         {article.slug === "electric-cars-global-shift-future-gasoline-diesel" && <p data-electric-cars-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{electricCarsHeroCaptions[locale]}</p>}
+        {article.slug in newsOct24BatchHeroCaptions && <p data-news-oct24-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsOct24BatchHeroCaptions[article.slug as keyof typeof newsOct24BatchHeroCaptions][locale]}</p>}
         {article.slug in newsOct23LateHeroCaptions && <p data-news-oct23-late-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsOct23LateHeroCaptions[article.slug as keyof typeof newsOct23LateHeroCaptions][locale]}</p>}
         {article.slug in newsOct23BatchHeroCaptions && <p data-news-oct23-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsOct23BatchHeroCaptions[article.slug as keyof typeof newsOct23BatchHeroCaptions][locale]}</p>}
         {article.slug in birdBatchHeroCaptions && <p data-bird-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{birdBatchHeroCaptions[article.slug as keyof typeof birdBatchHeroCaptions][locale]}</p>}
