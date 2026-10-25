@@ -1,3 +1,4 @@
+import featuresOct25HeroCaptions from "@/data/featuresOct25HeroCaptions.json";
 import businessOct25HeroCaptions from "@/data/businessOct25HeroCaptions.json";
 import newsOct24LateHeroCaptions from "@/data/newsOct24LateHeroCaptions.json";
 import newsOct24BatchHeroCaptions from "@/data/newsOct24BatchHeroCaptions.json";
@@ -422,6 +423,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in gravityHeroCaptions && <p data-gravity-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gravityHeroCaptions[article.slug as keyof typeof gravityHeroCaptions][locale]}</p>}
         {article.slug in premiumBatchHeroCaptions && <p data-premium-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{premiumBatchHeroCaptions[article.slug as keyof typeof premiumBatchHeroCaptions][locale]}</p>}
         {article.slug === "electric-cars-global-shift-future-gasoline-diesel" && <p data-electric-cars-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{electricCarsHeroCaptions[locale]}</p>}
+        {article.slug in featuresOct25HeroCaptions && <p data-features-oct25-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{featuresOct25HeroCaptions[article.slug as keyof typeof featuresOct25HeroCaptions][locale]}</p>}
         {article.slug in businessOct25HeroCaptions && <p data-business-oct25-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{businessOct25HeroCaptions[article.slug as keyof typeof businessOct25HeroCaptions][locale]}</p>}
         {article.slug in newsOct24LateHeroCaptions && <p data-news-oct24-late-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsOct24LateHeroCaptions[article.slug as keyof typeof newsOct24LateHeroCaptions][locale]}</p>}
         {article.slug in newsOct24BatchHeroCaptions && <p data-news-oct24-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsOct24BatchHeroCaptions[article.slug as keyof typeof newsOct24BatchHeroCaptions][locale]}</p>}

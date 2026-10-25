@@ -10,6 +10,10 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // Supplied AI illustrations, localized disclosures: docs/editorial/features-oct25/REVIEW.md.
+  "/articles/features-oct25-audi-hero.png",
+  "/articles/features-oct25-capsule-hero.png",
+  "/articles/features-oct25-lebron-hero.jpg",
   // Supplied historical illustrations, disclosed in docs/editorial/business-oct25/REVIEW.md.
   "/articles/business-oct25-mcdonalds-hero.png",
   "/articles/business-oct25-cocacola-hero.png",

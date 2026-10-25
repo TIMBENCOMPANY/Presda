@@ -1,0 +1,20 @@
+[
+  {
+    "key": "audi",
+    "slug": "audi-georgia-us-factory-four-billion-investment",
+    "asset": "Moody Audi Midtown Toronto Showroom.png",
+    "sha256": "896b0936b787b13560b6709a8ba2cc9031a2ce0601507805011b11eb72aedc01"
+  },
+  {
+    "key": "capsule",
+    "slug": "japan-capsule-hotels-history-prices-travel-guide",
+    "asset": "Futuristic Capsule Hotel Corridor.png",
+    "sha256": "dd051967846ff1cc857ac9556175539365e3dacde033560591ce5c7ba990609b"
+  },
+  {
+    "key": "lebron",
+    "slug": "lebron-james-science-basketball-longevity",
+    "asset": "1000086237.jpg",
+    "sha256": "ff404a50b023f441b70c99f0a7ad68df290ba12b2bd6ec63310596d1e95178f6"
+  }
+]
