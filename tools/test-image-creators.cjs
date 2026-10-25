@@ -14,6 +14,7 @@ const media = require('../src/data/phenomena2026Media.json');
 
 const articles = getPublishedArticles();
 const expectedNames = new Map([
+  ['kim-kardashian-skims-business-empire', 'Kevin Mazur'],
   ['bee-colony-order-intelligence', 'PRESDA'], ['human-dna-code-that-builds-us', 'PRESDA'],
   ['human-brain-most-complex-organ', 'PRESDA'], ['bacteria-good-bad-microbes-shape-our-lives', 'PRESDA'],
   ['our-universe-big-bang-end-of-time', 'PRESDA'], ['our-solar-system-sun-eight-planets-beyond', 'PRESDA'],
@@ -59,4 +60,4 @@ for (const locale of ['en', 'fr', 'ar', 'es']) for (const item of media) {
     assert.equal(schema.creator['@type'], item.number === 2 ? 'Organization' : 'Person');
   }
 }
-console.log(`PASS: ${articles.length} EN heroes and all translations audited; 11 verified hero creators, PRESDA brand ownership, 80 licensed image schemas, accurate photographer/agency separation and unknown-creator safeguards`);
+console.log(`PASS: ${articles.length} EN heroes and all translations audited; ${expectedNames.size} verified hero creators, PRESDA brand ownership, 80 licensed image schemas, accurate photographer/agency separation and unknown-creator safeguards`);

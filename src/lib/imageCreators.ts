@@ -5,6 +5,7 @@ export type ImageCreator = { "@type": "Person" | "Organization"; name: string };
 export const presdaImageCreator: ImageCreator = { "@type": "Organization", name: "PRESDA" };
 
 const verifiedCreators: Record<string, ImageCreator> = {
+  "/articles/business-oct25-skims-hero.jpg": { "@type": "Person", name: "Kevin Mazur" },
   "/favicon-dark.png": presdaImageCreator,
   "/articles/extinct-2026-hero.jpg": presdaImageCreator,
   "/articles/tartaria-2026-hero.jpg": presdaImageCreator,

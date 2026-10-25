@@ -1,0 +1,71 @@
+Une bouteille de Coca-Cola est un objet modeste chargé d'une quantité étonnante de significations. Elle peut évoquer un repas familial, une halte sur la route, la culture américaine ou simplement une boisson fraîche. Sa réussite commerciale ne tient pas à une interprétation universelle du symbole, mais à sa reconnaissance à travers les langues, les générations et les occasions depuis sa création dans l'Atlanta du XIXe siècle.
+
+L'entreprise derrière cette reconnaissance dépasse largement une recette secrète. Coca-Cola associe marques, publicité et concentrés à un réseau mondial d'embouteilleurs, de distributeurs et de commerces. Comprendre cet ensemble éclaire sa solidité et ses limites. Cet article utilise l'exercice 2025 pour les comptes annuels complets et précise les informations disponibles au 25 octobre 2026.
+
+## Atlanta, 1886 : de l'invention à l'entreprise
+
+Le pharmacien John Stith Pemberton crée Coca-Cola à Atlanta, où la boisson est servie pour la première fois à la pharmacie Jacobs le 8 mai 1886. Son comptable Frank M. Robinson propose le nom et l'écriture devenue la signature visuelle de la marque. Ce sont deux contributions distinctes : élaborer la boisson et lui donner une identité commerciale reconnaissable.
+
+Asa Candler prend ensuite le contrôle de l'activité et développe sa commercialisation. The Coca-Cola Company est constituée en société en 1892. Son rôle diffère donc de l'invention de Pemberton et du travail de Robinson : il contribue à transformer une préparation locale en entreprise organisée visant un marché plus large.
+
+Cette répartition des mérites compte, car les grandes marques se construisent souvent une légende simplifiée. Une boisson ne se distribue pas seule. La formule doit devenir un produit régulier, le nom doit être connu et l'organisation doit rendre l'achat suivant possible. La dimension acquise par Coca-Cola résulte de l'interaction entre ces tâches, plutôt que d'un unique éclair de génie.
+
+## La formule : l'histoire au-delà du mythe
+
+L'histoire publiée par la Royal Society of Chemistry décrit l'usage initial de feuilles de coca et de noix de kola, associées respectivement à la cocaïne et à la caféine. Ce passé ne doit pas être projeté sur la boisson actuelle : Coca-Cola indique que ses produits ne contiennent pas de cocaïne. L'existence d'une recette protégée ne permet pas non plus à un journaliste de la reconstituer à partir de rumeurs en ligne.
+
+Le secret possède une valeur à la fois pratique et culturelle. Il suggère un produit difficile à reproduire et fournit un récit capable de durer au-delà d'une campagne. Mais le consommateur rencontre aussi une liste d'ingrédients, un emballage, une température et un contexte. Le mystère ne dispense ni de respecter les règles alimentaires ni de répondre à l'évolution des préférences.
+
+## L'embouteillage permet de voyager
+
+En 1899, Benjamin Thomas et Joseph Whitehead obtiennent des droits d'embouteillage couvrant une grande partie des États-Unis ; John Lupton contribue au développement de l'entreprise. La bouteille permet de dépasser le comptoir des fontaines à soda. L'histoire de Coca-Cola présente cet accord comme une étape essentielle de son modèle de distribution.
+
+L'innovation est organisationnelle autant que matérielle. Transporter une boisson prête à consommer exige des contenants, des machines, des véhicules et des relations commerciales locales. Travailler avec des embouteilleurs répartit ces responsabilités tout en conservant une identité commune. Cela n'élimine pas les problèmes de coordination : un produit introuvable ou irrégulier porte toujours le même nom aux yeux du client.
+
+## La bouteille devient une signature
+
+La bouteille contour est issue de la Root Glass Company de Terre Haute, dans l'Indiana. Son brevet de dessin date du 16 novembre 1915 et son adoption commerciale de 1916. L'Archives Foundation documente sa place dans l'histoire du design américain. Cet emballage familier n'accompagnait donc pas les débuts de la boisson en 1886.
+
+L'histoire du design publiée par Coca-Cola précise qu'une cabosse de cacao, et non une noix de kola, a contribué à inspirer la forme. La silhouette devient un moyen d'identification, au-delà du récipient. Cette logique demeure lorsque la boisson passe en canette ou en plastique : certains signes distinctifs peuvent survivre au changement de format.
+
+## Vendre une émotion, pas seulement une boisson
+
+La publicité Hilltop de 1971 associe le produit à une scène idéalisée de fraternité internationale. Sa longévité montre comment une publicité peut relier une boisson à un sentiment social plutôt qu'à une caractéristique technique. Le récit de Coca-Cola documente sa création ; l'émotion du film ne prouve évidemment pas que l'achat du produit engendre l'harmonie.
+
+Un autre mythe attribue à Coca-Cola l'invention du Père Noël ou de son costume rouge. À partir de 1931, les illustrations d'Haddon Sundblom contribuent à populariser une représentation chaleureuse et ronde du personnage. Mais le Père Noël et ses habits rouges existaient déjà. Le St. Nicholas Center retrace cette histoire plus ancienne et permet de reconnaître l'influence de la marque sans lui attribuer toute une tradition culturelle.
+
+La stratégie repose plus largement sur la répétition avec variations. Une écriture, une couleur, une silhouette et une occasion familière reviennent dans des décors renouvelés. Cette familiarité facilite la reconnaissance. Elle peut aussi exposer l'entreprise aux critiques : un symbole facile à identifier est facile à célébrer, détourner ou rejeter.
+
+## Un réseau mondial et une histoire complexe
+
+La Seconde Guerre mondiale accélère l'infrastructure internationale de Coca-Cola. Ses archives décrivent l'installation de 64 usines d'embouteillage à l'étranger pendant le conflit, lorsque l'entreprise approvisionne les forces américaines. Ces installations soutiennent la distribution d'après-guerre. Le vocabulaire de l'amitié relève du récit de l'entreprise ; la conséquence commerciale documentée est un réseau physique plus étendu, lié à la logistique militaire et à l'influence américaine.
+
+Une reconnaissance mondiale n'implique ni emballage identique partout ni interprétation uniforme. Pouvoir d'achat, commerces, goûts et réglementations influencent l'exploitation locale. L'enjeu consiste à préserver une identité commune tout en adaptant la distribution et le portefeuille aux besoins du marché. La publicité présente une promesse ; l'organisation locale détermine si le client peut acheter le produit.
+
+## Comment Coca-Cola et ses embouteilleurs gagnent de l'argent
+
+The Coca-Cola Company et ses partenaires embouteilleurs constituent ensemble le système Coca-Cola. La maison mère ne possède, ne dirige ni ne contrôle la plupart des embouteilleurs locaux. Elle fournit concentrés et sirops et développe les marques ; les partenaires produisent, conditionnent et distribuent généralement les boissons. Elle conserve aussi des activités de produits finis et des participations dans l'embouteillage : la réduire à un vendeur de sirop serait incomplet.
+
+Cette répartition permet la spécialisation. Le propriétaire des marques investit dans les produits et la demande ; l'embouteilleur mobilise des installations industrielles et des circuits locaux. Commerces et restaurants assurent ensuite le contact avec le client. Le revenu d'un maillon n'est pas automatiquement celui des autres. Le prix affiché au supermarché n'est pas nécessairement le montant enregistré par Coca-Cola.
+
+Le rapport annuel 2025 présente 47,941 milliards de dollars de chiffre d'affaires net : 28,462 milliards pour les activités de concentrés et 19,479 milliards pour les produits finis. Le bénéfice net attribuable aux actionnaires atteint 13,107 milliards. Ces chiffres concernent la société et ses activités consolidées, pas les ventes cumulées de tous les embouteilleurs ni celles de la seule boisson Coca-Cola.
+
+Le chiffre d'affaires publié progresse de 2 %, contre 5 % de croissance organique, indicateur non conforme aux principes comptables GAAP qui exclut certains effets. Les deux mesures ne sont pas interchangeables et la croissance organique des revenus n'est pas celle du nombre de boissons vendues. Devises et changements de périmètre peuvent modifier le chiffre publié sans évolution équivalente de la consommation.
+
+## Pepsi, New Coke et les limites du test de goût
+
+Le Pepsi Challenge, lancé en 1975, donne une place importante aux dégustations comparatives dans la rivalité. Ces tests offrent au concurrent un argument publicitaire puissant, mais une comparaison brève ne résume pas les décisions d'achat. Familiarité, disponibilité, prix et occasion comptent aussi. Les archives de PepsiCo datent la campagne ; leurs affirmations promotionnelles restent le récit d'un concurrent.
+
+Coca-Cola lance une nouvelle formule de sa boisson principale le 23 avril 1985. Après les réactions négatives, le retour de l'ancienne formule sous le nom Coca-Cola Classic est annoncé le 11 juillet, 79 jours plus tard. La nouvelle version ne disparaît pas instantanément des ventes. La chronologie de l'entreprise documente ce revirement, souvent résumé de façon trop simple.
+
+L'épisode révèle la différence entre évaluer une gorgée et perdre un objet familier. Un test peut comparer des saveurs sans saisir complètement l'attachement à la continuité et au choix. La leçon n'est pas que les études sont inutiles ou que les produits anciens doivent rester immuables. Le sens associé au produit peut faire partie de ce que le client pense acheter.
+
+## Les responsabilités d'une présence mondiale
+
+Un réseau mondial de boissons porte des responsabilités matérielles. Disponibilité de l'eau, déchets d'emballage, transports et réglementation influencent directement production, vente et acceptabilité. Le rapport annuel identifie notamment les contraintes hydriques, les exigences environnementales et les taxes sur les boissons sucrées. Un objectif de durabilité reste un engagement à confronter aux résultats, pas la preuve qu'un impact a déjà disparu.
+
+Le portefeuille dépasse par ailleurs le cola original et comprend d'autres marques et catégories. Cette diversification peut répondre à de nouveaux goûts, mais complique l'interprétation de la croissance. De bons résultats du groupe ne prouvent pas que chaque marque progresse. Une critique visant une boisson ne cesse pas non plus d'être pertinente simplement parce que l'entreprise vend autre chose.
+
+Au 25 octobre 2026, date d'arrêt de cet article, la publication des résultats du troisième trimestre était programmée pour le 27 octobre. Ces résultats ne sont donc pas présentés ici comme connus. Préciser les périodes est particulièrement nécessaire lorsque la notoriété d'une entreprise encourage des affirmations trop assurées sur sa performance actuelle.
+
+L'histoire de Coca-Cola rejoint celle de McDonald's, qui associe marque, franchise et immobilier, et celle de SKIMS, qui cherche à transformer la visibilité en entreprise durable. Le nom attire l'attention ; une organisation doit fournir le produit. Coca-Cola est devenue une icône parce que ses symboles ont voyagé avec un réseau de distribution. Son avenir dépend de la crédibilité des deux.

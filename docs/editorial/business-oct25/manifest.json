@@ -1,0 +1,20 @@
+[
+  {
+    "key": "skims",
+    "slug": "kim-kardashian-skims-business-empire",
+    "asset": "gettyimages-2237352473.jpg",
+    "sha256": "4e215192c58e8dee8b3154b38a927c803371d7e0fadbcfad9811459ddc895ebc"
+  },
+  {
+    "key": "mcdonalds",
+    "slug": "mcdonalds-real-estate-empire-behind-burgers",
+    "asset": "Golden Hour at a Classic McDonald’s.png",
+    "sha256": "79c3cb8d47bc3bad4f79e914dec38b1a040f2a12c2f57d7aa3703da422f9acfb"
+  },
+  {
+    "key": "cocacola",
+    "slug": "coca-cola-drink-global-icon-business",
+    "asset": "Vintage Coca-Cola Delivery Truck Scene.png",
+    "sha256": "095bf7bc25b808242876c664c05690d68f2b75019a894b2f6c1e52d57f021a66"
+  }
+]

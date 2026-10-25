@@ -10,6 +10,9 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // Supplied historical illustrations, disclosed in docs/editorial/business-oct25/REVIEW.md.
+  "/articles/business-oct25-mcdonalds-hero.png",
+  "/articles/business-oct25-cocacola-hero.png",
   // Approved AI illustrations with localized disclosures: docs/editorial/news-oct24-late/REVIEW.md.
   "/articles/news-oct24-late-dogs-hero.png",
   "/articles/news-oct24-late-dexter-hero.png",
@@ -59,6 +62,10 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (source === "/articles/business-oct25-skims-hero.jpg") {
+    // Getty asset 2237352473 confirms the credit; no reuse terms inferred.
+    return { creditText: "Kevin Mazur/Getty Images for SKIMS" };
+  }
   if (source === "/favicon-dark.png") {
     // Existing Terms explicitly cover logos, permission and a contact channel.
     // This applies only to the official brand asset, never to article images.
