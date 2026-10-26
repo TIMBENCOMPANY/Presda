@@ -1,0 +1,63 @@
+Une petite lampe à huile change le caractère d'une pièce. Placée près d'une porte ou alignée avec d'autres, elle transforme la lumière en geste d'accueil. Diwali multiplie ce geste dans les maisons, les commerces et les espaces publics, mais ne se résume pas à une ville illuminée. Derrière les lumières existent des obligations familiales, des récits religieux, des savoir-faire et différentes façons d'imaginer le renouveau.
+
+Le calendrier touristique officiel indien fixe Diwali au dimanche 8 novembre 2026. Ce repère ne signifie pas que tous les rites ou événements publics auront lieu ce jour-là. La fête suit un calendrier lunaire et les célébrations associées varient selon les régions et communautés. Pour voyager, il faut distinguer le jour principal de la séquence qui l'entoure et vérifier les programmes locaux.
+
+## Ce que raconte le nom
+
+Deepavali, également appelé Diwali, se comprend couramment comme une rangée de lumières. Les éléments sanskrits renvoient aux lampes et à leur succession. L'image est concrète : une flamme devient une ligne et les foyers composent ensemble un paysage éclairé. Le ministère indien du Tourisme présente cette relation à la lumière et le culte de divinités comme Lakshmi et Ganesha.
+
+La lumière qui dissipe l'obscurité peut évoquer la connaissance, l'action morale, l'espoir ou la prospérité. Ce vocabulaire partagé ne prouve pas que tous les participants racontent la même histoire religieuse. Demander ce que signifie la fête dans une maison donnée apporte davantage qu'une explication universelle répétée sur son seuil.
+
+## Le retour de Rama et l'accueil de Lakshmi
+
+Pour de nombreux hindous, surtout dans le nord de l'Inde, Diwali se rattache au retour de Rama à Ayodhya après l'exil, raconté dans le Ramayana. Les lampes accueillent son retour et le rétablissement d'un ordre juste dans ce récit sacré. Il faut le présenter comme une tradition religieuse, pas comme un événement historique daté de façon indépendante.
+
+Lakshmi, associée à la prospérité et à la bonne fortune, occupe une place centrale dans de nombreux foyers. Nettoyer la maison, préparer les lampes et pratiquer le culte matérialisent l'accueil. Le National Museum of Asian Art du Smithsonian souligne ce rapport entre illumination et Lakshmi. La prospérité ne se réduit pas à un montant d'achats : elle peut inclure le bien-être familial et l'espoir d'un commencement favorable.
+
+## Une saison, plusieurs histoires religieuses
+
+D'autres traditions hindoues privilégient d'autres récits et divinités, notamment la victoire de Krishna sur Narakasura ou le culte de Kali dans certaines régions orientales. Ces différences ne sont pas des erreurs dans une fête uniforme. Elles montrent pourquoi une description régionale ne peut parler pour tout le pays. Le Rubin Museum suit cette diversité à travers l'Asie du Sud.
+
+Pour les jaïns, la période commémore le nirvana de Mahavira. Les sikhs observent autour de la même saison Bandi Chhor Divas, lié à la libération de Guru Hargobind. Ce sont des histoires religieuses distinctes, pas d'autres noms pour le retour de Rama. Le guide touristique officiel indien les distingue dans sa présentation du paysage festif.
+
+## Pourquoi la fête dépasse une journée
+
+Diwali est souvent décrit comme une fête de cinq jours comprenant des occasions comme Dhanteras, Naraka Chaturdashi, la principale nuit de culte, Govardhan Puja et Bhai Dooj. Noms, importance et dates varient. Certains calendriers relient aussi cette période à une nouvelle année, mais elle n'est pas le jour de l'an unique de tous les hindous ou de tous les Indiens.
+
+Pour préparer 2026, partez du 8 novembre puis demandez quelle célébration concerne votre hôte ou destination. Un rassemblement de la diaspora peut choisir un week-end pratique, tandis qu'un rite familial suit un horaire favorable précis. Jour férié, temps religieux et programme d'un organisateur ne sont pas équivalents, culturellement comme matériellement.
+
+## Le travail domestique derrière les lampes
+
+Motifs de rangoli, douceurs, cadeaux et pièces décorées rendent les préparatifs visibles. Leurs formes varient selon les foyers et les régions. Un décor élaboré peut représenter des heures de travail de personnes moins remarquées que la photographie finale. Apprécier la fête, c'est aussi voir la fabrication, l'agencement, la cuisine et l'accueil qui précèdent la soirée.
+
+La lampe relie également la célébration aux métiers et au commerce. Diyas en terre, objets décoratifs et aliments circulent dans les marchés locaux comme dans les grandes enseignes. Acheter auprès d'un artisan peut rendre cette relation visible. Le plaisir des achats n'oblige pas à considérer la dépense comme mesure de dévotion, ni à supposer que toutes les familles disposent des mêmes moyens.
+
+## La reconnaissance de l'UNESCO
+
+Deepavali a été inscrit sur la Liste représentative du patrimoine culturel immatériel de l'humanité en 2025. L'UNESCO a annoncé l'inscription le 10 décembre 2025, pendant la vingtième session du comité intergouvernemental. C'est un contexte important pour 2026 : la reconnaissance internationale est récente, alors que les traditions sont bien plus anciennes.
+
+Le patrimoine immatériel concerne des pratiques, des connaissances et leur transmission. La reconnaissance ne fige pas la fête dans un musée et ne certifie pas chaque manifestation commerciale utilisant son nom. Les familles adaptent leurs usages, les communautés débattent et les générations choisissent. Comprendre ce patrimoine suppose de regarder ceux qui le font vivre, pas seulement ses symboles les plus séduisants.
+
+## Diwali et Dev Deepavali ne sont pas identiques
+
+Les images de marches fluviales couvertes de lampes circulent beaucoup, sans représenter toutes la même occasion. À Varanasi, Dev Deepavali est une célébration distincte liée à Kartik Purnima, environ quinze jours après Diwali. Le guide touristique officiel indien distingue les deux. Réserver pour le 8 novembre ne garantit donc pas d'assister à la fête ultérieure sur les rives.
+
+Notre illustration principale, générée par IA, représente des lampes près d'un fleuve. Elle ne documente ni un ghat identifié, ni une cérémonie précise, ni l'apparence d'un événement de 2026. Cette distinction protège les attentes du lecteur et les traditions décrites. Pour un programme riverain particulier, confirmez directement la date, les accès et les transports.
+
+## Participer avec attention
+
+Dans une maison ou un espace religieux, renseignez-vous sur les chaussures, les vêtements, les photographies et la participation avant de présumer. Suivez les indications des hôtes pendant les prières et autour des offrandes. Les exigences alimentaires diffèrent ; demander ce qui convient est plus respectueux que supposer un menu universel. Un spectacle public ne donne pas permission de photographier un rite privé.
+
+La foule, la demande de transports et les fermetures temporaires peuvent modifier un voyage. Réservez les trajets nécessaires en amont, vérifiez les horaires des lieux et prévoyez du temps après les événements du soir. Il n'existe pas de billet national pour Diwali : une réunion familiale, une visite de temple et une représentation commerciale ont des conditions différentes.
+
+## Lumière et choix environnementaux
+
+Les feux d'artifice occupent une place importante dans certaines célébrations, sans constituer toute la fête. Bruit, fumée, déchets et restrictions locales méritent attention. Le gouvernement indien soutient des initiatives de réduction des impacts, dont des célébrations plus propres et des travaux sur les pétards dits verts. Cette appellation ne signifie ni pollution nulle ni absence de risque. Les règles doivent être vérifiées localement pour la date concernée.
+
+Décorations réutilisables, lampes surveillées et élimination responsable des déchets permettent de participer sans assimiler célébration et consommation maximale. Éloignez les flammes des tissus et surveillez les enfants. Le choix n'oppose pas préservation culturelle et soin de l'environnement : les communautés décident continuellement comment poursuivre les deux par leurs pratiques et leurs matériaux.
+
+## Voir au-delà de la photographie
+
+La force de Diwali tient en partie à sa capacité à rendre intimes de grandes idées : accueil à une porte, cadeau entre proches, récit transmis à un enfant. Sa diversité enrichit la fête. Un récit précis peut montrer l'importance commune de la lumière tout en laissant chaque communauté conserver son histoire.
+
+Nos articles sur Halloween et le Día de Muertos explorent aussi comment saisons, mémoire et pratiques domestiques deviennent des fêtes publiques. La comparaison éclaire justement leurs différences. Diwali mérite d'être rencontré à travers ses participants, sans être réduit à une photographie universelle de belles lampes.

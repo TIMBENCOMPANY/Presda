@@ -10,6 +10,12 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // Approved AI illustrations with localized disclosures: docs/editorial/culture-oct26/REVIEW.md.
+  "/articles/halloween-jack-o-lanterns-townhouse-editorial.webp",
+  "/articles/lula-brazil-2026-election-editorial-illustration.webp",
+  "/articles/day-of-the-dead-catrina-marigolds-editorial.webp",
+  "/articles/diwali-diyas-riverside-festival-lights-editorial.webp",
+  "/articles/black-friday-electronics-shopping-editorial.webp",
   // Supplied AI illustrations, localized disclosures: docs/editorial/features-oct25/REVIEW.md.
   "/articles/features-oct25-audi-hero.png",
   "/articles/features-oct25-capsule-hero.png",

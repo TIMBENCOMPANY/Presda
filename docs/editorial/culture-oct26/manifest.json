@@ -1,0 +1,97 @@
+[
+  {
+    "key": "halloween",
+    "slug": "halloween-origins-history-spookiest-night",
+    "asset": "Cinematic Halloween Townhouse Entrance.png",
+    "filename": "halloween-jack-o-lanterns-townhouse-editorial.webp",
+    "sha256": "9a84d7c9acb1e377f2bf8d4bc9d63d5f864bbe554f08576c568cb44cfea74b95",
+    "originalSha256": "e0274ae0a08ce265aff0c58b7f2fd9a1cc7b1cf874fc8098db83d9a7c699bdeb",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 94,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "brazil",
+    "slug": "lula-wins-brazil-2026-presidential-election-tse-results",
+    "asset": "Brazilian Statesman Before Brasília at Sunset.png",
+    "filename": "lula-brazil-2026-election-editorial-illustration.webp",
+    "sha256": "77508cfccb92543314cac3bb62c353c224935abbec69a0859b389f576ccb0ad0",
+    "originalSha256": "e1e4d5e56f6573d50c9f56830638a0685be2a90bc6f9c2cb352ecc43e90618d4",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 94,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "dead",
+    "slug": "day-of-the-dead-mexico-life-death-traditions",
+    "asset": "Día de los Muertos Cemetery Portrait.png",
+    "filename": "day-of-the-dead-catrina-marigolds-editorial.webp",
+    "sha256": "9e3aa91a2a6f5f2a8a686eba01285eb9d5fa7a0c35bc42f832a6929189de066e",
+    "originalSha256": "a634cf4ef2f342a1f56b7099a30e7c545272573cfec26f54aed39b93177e1853",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 94,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "diwali",
+    "slug": "diwali-india-festival-lights-traditions",
+    "asset": "Diwali Diyas Along the Ghat.png",
+    "filename": "diwali-diyas-riverside-festival-lights-editorial.webp",
+    "sha256": "80132292fe8744031988113d2c84e80587b6cf647a1821fdeeba6388908c10bf",
+    "originalSha256": "d08ecd36f93545968b40bc7247a011503fa803a8591c93fe68449f0faf8a8848",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 94,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "blackfriday",
+    "slug": "black-friday-shopping-history-discounts-2026",
+    "asset": "Black Friday Electronics Rush.png",
+    "filename": "black-friday-electronics-shopping-editorial.webp",
+    "sha256": "19bbb0de318e210aa97d0a823dbb147b164bf8b49e3d7923f272e04b95b16e6c",
+    "originalSha256": "32baeeb1220268b36c4d5f9c78b9552670bd896fc6921977da6ce5aee9fc7ee2",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 94,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  }
+]

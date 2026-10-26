@@ -1,3 +1,4 @@
+import cultureOct26HeroCaptions from "@/data/cultureOct26HeroCaptions.json";
 import featuresOct25HeroCaptions from "@/data/featuresOct25HeroCaptions.json";
 import businessOct25HeroCaptions from "@/data/businessOct25HeroCaptions.json";
 import newsOct24LateHeroCaptions from "@/data/newsOct24LateHeroCaptions.json";
@@ -316,6 +317,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
+    ...(article.slug in cultureOct26HeroCaptions ? { objectFit: "contain" as const, objectPosition: "center" } : {}),
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
   } as CSSProperties;
@@ -423,6 +425,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
         {article.slug in gravityHeroCaptions && <p data-gravity-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{gravityHeroCaptions[article.slug as keyof typeof gravityHeroCaptions][locale]}</p>}
         {article.slug in premiumBatchHeroCaptions && <p data-premium-batch-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{premiumBatchHeroCaptions[article.slug as keyof typeof premiumBatchHeroCaptions][locale]}</p>}
         {article.slug === "electric-cars-global-shift-future-gasoline-diesel" && <p data-electric-cars-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{electricCarsHeroCaptions[locale]}</p>}
+        {article.slug in cultureOct26HeroCaptions && <p data-culture-oct26-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{cultureOct26HeroCaptions[article.slug as keyof typeof cultureOct26HeroCaptions][locale]}</p>}
         {article.slug in featuresOct25HeroCaptions && <p data-features-oct25-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{featuresOct25HeroCaptions[article.slug as keyof typeof featuresOct25HeroCaptions][locale]}</p>}
         {article.slug in businessOct25HeroCaptions && <p data-business-oct25-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{businessOct25HeroCaptions[article.slug as keyof typeof businessOct25HeroCaptions][locale]}</p>}
         {article.slug in newsOct24LateHeroCaptions && <p data-news-oct24-late-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsOct24LateHeroCaptions[article.slug as keyof typeof newsOct24LateHeroCaptions][locale]}</p>}
@@ -474,7 +477,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
 
         <div className="mt-10">
           {article.slug === "casablanca-madrid-2030-world-cup-final" && <div className="mb-7"><ReaderPoll locale={locale} /></div>}
-          <div className="flow-root min-w-0 space-y-7 rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] sm:p-8 lg:p-10">
+          <div className="flow-root min-w-0 space-y-7 rounded-2xl border border-[color:var(--home-border)] bg-[color:var(--home-panel)] p-5 shadow-[var(--home-card-shadow)] sm:p-8 lg:p-10" style={article.slug in cultureOct26HeroCaptions ? { overflowWrap: "anywhere" } : undefined}>
             <aside className="mb-7 grid gap-4 lg:float-end lg:mb-6 lg:ms-8 lg:w-[23%] lg:min-w-[260px] lg:max-w-[340px] lg:gap-4">
               {sections.length ? (
                 <>
