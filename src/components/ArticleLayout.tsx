@@ -336,7 +336,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header className={`article-hero${article.slug === "bacteria-good-bad-microbes-shape-our-lives" ? " article-hero--bacteria" : ""}${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
+        <header className={`article-hero${article.slug in cultureOct26HeroCaptions ? " article-hero--full-composition" : ""}${article.slug === "bacteria-good-bad-microbes-shape-our-lives" ? " article-hero--bacteria" : ""}${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
           <DesktopArticleHeroFit />
           <div className="article-hero-media relative">
             <Image

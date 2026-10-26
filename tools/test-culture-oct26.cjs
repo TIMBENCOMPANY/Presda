@@ -54,9 +54,13 @@ for(const a of articles){
     assert.equal(d.fit,'contain','Full composition without cropping');assert.equal(d.twitter,d.og);
     const webPage=schema.mainEntityOfPage;assert.equal(webPage['@type'],'WebPage');assert.equal(webPage.primaryImageOfPage['@id'],schema.image['@id']);assert.equal(schema.image.mainEntityOfPage,d.canonical);assert.equal(schema.image.contentUrl,d.og);
     assert.equal(await p.locator('[data-culture-oct26-hero-caption]').textContent(),captions[a.slug][l]);
-    if(width>=1024){assert(d.hero.bottom<=height,`${route} hero oversized`);assert(d.title.y>=d.hero.y&&d.meta.bottom<d.hero.bottom,`${route} title/meta overflow`);}
+    const frame=await p.locator('.article-hero-image').evaluate(i=>({width:i.getBoundingClientRect().width,height:i.getBoundingClientRect().height,naturalWidth:i.naturalWidth,naturalHeight:i.naturalHeight}));
+    assert(Math.abs(frame.width/frame.height-1672/941)<0.005,`${route} original image ratio ${width}`);
+    assert(Math.abs(frame.width-(d.hero.width-2))<1,`${route} full image width without side bands ${width}`);
+    if(width>=1024){assert(Math.abs(d.hero.height-frame.height-2)<1,`${route} frame follows image ratio`);assert(d.title.y>=d.hero.y&&d.meta.bottom<d.hero.bottom,`${route} title/meta overflow`);}
     assert.equal(await p.locator('h1').count(),1);
     await p.screenshot({path:`test-results/culture-oct26-${key}-${stage}-${l}-${width}.png`});
+    await p.locator('.article-hero').screenshot({path:`test-results/culture-oct26-${key}-${stage}-${l}-${width}-hero.png`});
     if(width===390){
      for(const slug of a.relatedSlugs){const target=(l==='en'?'':'/'+l)+'/articles/'+slug+'/';assert(await p.locator(`a[href="${target}"]`).count());assert.equal((await fetch(base+target)).status,200);}
      for(const ref of a.references)assert(await p.locator('a').evaluateAll((anchors,url)=>anchors.some(x=>x.href===url),ref.url),ref.url);
