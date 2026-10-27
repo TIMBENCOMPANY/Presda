@@ -130,7 +130,7 @@ export function FeaturedCarousel({ slides, sideStories, variant = "category", lo
                     loading={isHome && index !== 0 ? "eager" : undefined}
                     onLoad={isHome ? () => setReadyImages(indices => indices.includes(index) ? indices : [...indices, index]) : undefined}
                     sizes={isHome ? "(max-width: 639px) calc(100vw - 24px), (max-width: 1023px) calc(100vw - 48px), (max-width: 1535px) 65vw, 1000px" : "(max-width: 1023px) calc(100vw - 24px), (max-width: 1536px) 65vw, 1000px"}
-                    className="object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 50%" }} />}
+                    className="object-cover" style={{ objectPosition: getArticleHeroImagePosition(article) ?? "50% 50%", ...(article.slug === "harry-kane-ballon-dor-2026-england-25-year-wait" ? { objectFit: "contain" } : {}) }} />}
                   <p className={`category-featured-image-meta absolute inset-x-0 bottom-0 flex flex-wrap items-center gap-x-3 gap-y-1 bg-gradient-to-t from-black/90 via-black/70 to-transparent pr-3 pb-2 pt-6 text-[11px] font-medium text-white ${isHome ? "z-10" : "sm:hidden"} ${slides.length > 1 ? "pl-20" : "pl-3"}`}>
                     {locale === "ar" ? <ArabicCardMetadata date={article.date} readingTime={article.readingTime} /> : <><time dateTime={article.date}>{listingDate(article.date, locale)}</time><span>{article.readingTime}</span></>}
                   </p>

@@ -4,6 +4,7 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Homepage editorial placements only. Category selections remain independent.
 export const homeHeroSlugs = [
+  "harry-kane-ballon-dor-2026-england-25-year-wait",
   "sir-nils-olav-penguin-major-general",
   "margot-robbie-hollywood-star-powerful-producer",
   "megan-fox-subs-co-owner-tim-stokely",

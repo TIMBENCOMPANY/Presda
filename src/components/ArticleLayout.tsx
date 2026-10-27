@@ -1,3 +1,4 @@
+import kaneBallonDorHeroCaptions from "@/data/kaneBallonDorHeroCaptions.json";
 import cultureOct26HeroCaptions from "@/data/cultureOct26HeroCaptions.json";
 import featuresOct25HeroCaptions from "@/data/featuresOct25HeroCaptions.json";
 import businessOct25HeroCaptions from "@/data/businessOct25HeroCaptions.json";
@@ -314,10 +315,11 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const lastUpdated = getArticleLastUpdated(article);
   const heroDimensions = getArticleImageDimensions(article.coverImage);
   const standaloneHero = article.slug === "psychology-of-cults-why-people-follow-blindly";
+  const fullCompositionHero = article.slug in cultureOct26HeroCaptions || article.slug in kaneBallonDorHeroCaptions;
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
-    ...(article.slug in cultureOct26HeroCaptions ? { objectFit: "contain" as const, objectPosition: "center" } : {}),
+    ...(fullCompositionHero ? { objectFit: "contain" as const, objectPosition: "center" } : {}),
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
   } as CSSProperties;
@@ -336,7 +338,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header className={`article-hero${article.slug in cultureOct26HeroCaptions ? " article-hero--full-composition" : ""}${article.slug === "bacteria-good-bad-microbes-shape-our-lives" ? " article-hero--bacteria" : ""}${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
+        <header className={`article-hero${fullCompositionHero ? " article-hero--full-composition" : ""}${article.slug === "bacteria-good-bad-microbes-shape-our-lives" ? " article-hero--bacteria" : ""}${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
           <DesktopArticleHeroFit />
           <div className="article-hero-media relative">
             <Image
@@ -389,6 +391,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </div>
           </div>
         </header>
+        {article.slug in kaneBallonDorHeroCaptions && <p data-kane-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{kaneBallonDorHeroCaptions[article.slug as keyof typeof kaneBallonDorHeroCaptions][locale]}</p>}
 
         {article.slug === "breaking-bad-actor-rj-mitte-dies-at-34" && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{locale === "fr" ? "RJ Mitte à la réunion Breaking Bad du Comic-Con de San Diego 2018. Photo : Gage Skidmore / Wikimedia Commons, CC BY-SA 2.0. Image redimensionnée pour affichage." : locale === "es" ? "RJ Mitte en el reencuentro de Breaking Bad de la Comic-Con de San Diego de 2018. Foto: Gage Skidmore / Wikimedia Commons, CC BY-SA 2.0. Imagen redimensionada para su visualización." : locale === "ar" ? "آر جيه ميت في لقاء بريكنغ باد ضمن كوميك كون سان دييغو عام 2018. تصوير: Gage Skidmore (غيج سكِدمور) / ويكيميديا كومنز، CC BY-SA 2.0. عُدّل حجم الصورة للعرض." : "RJ Mitte at the 2018 San Diego Comic-Con Breaking Bad reunion. Photo: Gage Skidmore / Wikimedia Commons, CC BY-SA 2.0. Resized for display."}{" "}<a href="https://commons.wikimedia.org/wiki/File:RJ_Mitte_at_San_Diego_Con.jpg" target="_blank" rel="noreferrer">{locale === "ar" ? "صفحة الصورة" : locale === "fr" ? "notice de l’image" : locale === "es" ? "página de la imagen" : "image source"}</a>{" · "}<a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noreferrer">CC BY-SA 2.0</a></p>}
         {standaloneHero && <p className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{cultsHeroCaptions[locale]}</p>}

@@ -1,0 +1,21 @@
+[
+  {
+    "key": "kane",
+    "slug": "harry-kane-ballon-dor-2026-england-25-year-wait",
+    "asset": "Golden Trophy Gala Moment.png",
+    "filename": "harry-kane-ballon-dor-2026-ai-editorial.webp",
+    "sha256": "5dde6a006e808746ac2b5a898eaae396805e96e9b651d0a66a6f3b2da976698f",
+    "originalSha256": "dfee3c1a13c695ce6142cbc9e8b49cd8d1e7eb82d6b77e63bac2e7928977c449",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 94,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  }
+]

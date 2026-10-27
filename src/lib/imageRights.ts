@@ -10,6 +10,8 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // Approved AI illustration with localized disclosure: docs/editorial/kane-ballon-dor-2026/REVIEW.md.
+  "/articles/harry-kane-ballon-dor-2026-ai-editorial.webp",
   // Approved AI illustrations with localized disclosures: docs/editorial/culture-oct26/REVIEW.md.
   "/articles/halloween-jack-o-lanterns-townhouse-editorial.webp",
   "/articles/lula-brazil-2026-election-editorial-illustration.webp",
