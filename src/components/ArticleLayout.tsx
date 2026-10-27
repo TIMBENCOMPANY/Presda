@@ -316,11 +316,9 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const lastUpdated = getArticleLastUpdated(article);
   const heroDimensions = getArticleImageDimensions(article.coverImage);
   const standaloneHero = article.slug === "psychology-of-cults-why-people-follow-blindly";
-  const containedHero = article.slug in natureCultureOct27HeroCaptions || article.slug in cultureOct26HeroCaptions || article.slug in kaneBallonDorHeroCaptions;
   const heroImagePosition = getArticleHeroImagePosition(article) ?? "50% 50%";
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
-    ...(containedHero ? { objectFit: "contain" as const, objectPosition: "center" } : {}),
     "--article-hero-image-position": heroImagePosition,
     "--article-hero-image-position-desktop": desktopHeroImagePosition
   } as CSSProperties;

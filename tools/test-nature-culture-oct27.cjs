@@ -55,7 +55,7 @@ for(const a of articles){
     const schema=d.schema.find(x=>x['@type']===a.schemaType);assert(schema);assert.equal(schema.headline,ed.title);assert.equal(schema.inLanguage,l);assert.equal(schema.image.creditText,'PRESDA');assert.equal(schema.image.license,undefined);assert.deepEqual(schema.citation,a.references.map(r=>r.url));
     assert.equal(d.description,ed.metaDescription||ed.description);assert((await p.title()).includes(ed.seoTitle));assert.equal(d.og,articleImageUrl(a.coverImage));
     assert.equal(d.heroAlt,l==='en'?a.coverAlt:ed.image.alt);
-    assert.equal(d.fit,'contain','Full composition without cropping');assert.equal(d.twitter,d.og);
+    assert.equal(d.fit,width>=1024?'cover':'contain','Shared Bruno desktop/mobile image fit');assert.equal(d.twitter,d.og);
     const webPage=schema.mainEntityOfPage;assert.equal(webPage['@type'],'WebPage');assert.equal(webPage.primaryImageOfPage['@id'],schema.image['@id']);assert.equal(schema.image.mainEntityOfPage,d.canonical);assert.equal(schema.image.contentUrl,d.og);
     assert.equal(await p.locator('[data-nature-culture-hero-caption]').textContent(),captions[a.slug][l]);
     const frame=await p.locator('.article-hero-image').evaluate(i=>({width:i.getBoundingClientRect().width,height:i.getBoundingClientRect().height,naturalWidth:i.naturalWidth,naturalHeight:i.naturalHeight}));
