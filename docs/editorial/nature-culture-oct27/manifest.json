@@ -1,0 +1,102 @@
+[
+  {
+    "key": "chefchaouen",
+    "slug": "chefchaouen-story-morocco-blue-city",
+    "asset": "Chefchaouen Blue Alley at Sunset.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop/ARTICLES PHOTO",
+    "filename": "chefchaouen-blue-city-rif-morocco-ai-editorial.webp",
+    "sha256": "c1d95f8ee4478df6382a5ea33b88045e622a893086d9793cc0d114579b8f555e",
+    "originalSha256": "2264daf31d35ce96cd477392a50b7f39d143058e6651853ed633b0e62579924d",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "trees",
+    "slug": "worlds-oldest-living-trees-age-science",
+    "asset": "old tree Golden-Hour Roots in the Historic Plaza.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop/ARTICLES PHOTO",
+    "filename": "ancient-tree-roots-longevity-ai-editorial.webp",
+    "sha256": "11b123d4603c2e86f7bfbdea6b0f765a2fd8062e9e97657b452d827eea82899a",
+    "originalSha256": "1b67b8d6deea858729a3ed39638036125f8e9bf35a7840ad78e64857cfe508ee",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "orangutans",
+    "slug": "orangutan-mothers-playdates-study",
+    "asset": "Orangutan Family Canopy Play.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop/ARTICLES PHOTO",
+    "filename": "orangutan-mothers-young-social-play-ai-editorial.webp",
+    "sha256": "82a7a5b642e31bbf3bc1cfdd8ae30498b0a95614e6bab37ac557ac22722ee173",
+    "originalSha256": "e6a4281a1523194da258505a8d89cf37826e1eed0fdf2091e7dbd79e4b3607bb",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "bepi",
+    "slug": "bepicolombo-europe-japan-mission-mercury",
+    "asset": "BepiColombo Near Mercury.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop/ARTICLES PHOTO",
+    "filename": "bepicolombo-mercury-esa-jaxa-ai-editorial.webp",
+    "sha256": "2b93461a5710602d3017be1648ebdf5edd2c5c4261d278443021b82ff67f2081",
+    "originalSha256": "2f95da3abc3b6e746ee66184b46cfdf23e24df1f807c3d7b87afd36aeac42980",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "kintsugi",
+    "slug": "kintsugi-japan-art-repairing-broken-things",
+    "asset": "Kintsugi Artisan in a Spring Tea Room.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop/ARTICLES PHOTO",
+    "filename": "kintsugi-urushi-gold-ceramic-repair-ai-editorial.webp",
+    "sha256": "2e9e20b80aa971577c7b51c2280a170d421ede68c57a02040eca52dfdc12d0a8",
+    "originalSha256": "3e3a9f5ae6e130ad28a3e28706c5eb25d157d9cac73a620e8fc04377c0f7324b",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  }
+]

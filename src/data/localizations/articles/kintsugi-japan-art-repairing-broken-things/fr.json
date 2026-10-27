@@ -1,0 +1,162 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/kintsugi-japan-art-repairing-broken-things/",
+  "path": "/fr/articles/kintsugi-japan-art-repairing-broken-things/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-27",
+    "terminologyChecked": true
+  },
+  "title": "Kintsugi : l’art japonais de réparer les objets brisés",
+  "seoTitle": "Kintsugi : histoire, laque et réparation à l’or",
+  "description": "Découvrez le kintsugi, la réparation des céramiques à la laque et à l’or, son lien avec le thé et ce qui distingue le savoir-faire traditionnel des kits rapides.",
+  "excerpt": "Découvrez le kintsugi, la réparation des céramiques à la laque et à l’or, son lien avec le thé et ce qui distingue le savoir-faire traditionnel des kits rapides.",
+  "headlineHighlights": {
+    "red": "Kintsugi",
+    "gold": "réparer les objets brisés"
+  },
+  "keywords": [
+    "Kintsugi",
+    "réparer les objets brisés"
+  ],
+  "searchIntent": "Découvrez le kintsugi, la réparation des céramiques à la laque et à l’or, son lien avec le thé et ce qui distingue le savoir-faire traditionnel des kits rapides.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "image": {
+    "src": "/articles/kintsugi-urushi-gold-ceramic-repair-ai-editorial.webp",
+    "alt": "Illustration IA d’un artisan appliquant des joints dorés sur un bol en céramique réparé"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un bol réparé peut dissimuler sa cassure ou en faire le chemin que suit le regard. Le kintsugi choisit la seconde possibilité. Une fine ligne traverse l’émail, interrompt un motif ancien et marque le moment où quelqu’un a décidé de conserver l’objet. Le résultat est beau, mais repose sur un savoir-faire de réparation, pas seulement sur la décoration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le kintsugi est une technique japonaise de réparation des céramiques à la laque urushi, avec une finition à la poudre d’or. La laque assemble et soutient les fragments ; l’or rend l’intervention visible. Parler simplement de poterie collée avec de l’or fondu est donc trompeur. Le Smithsonian inscrit cette technique dans une pratique bien plus ancienne d’utilisation de la laque végétale comme adhésif. [Source: www.si.edu](https://www.si.edu/exhibitions/golden-seams-japanese-art-mending-ceramics%3Aevent-exhib-4567)"
+    },
+    {
+      "type": "heading",
+      "text": "Que signifie kintsugi ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le terme se traduit généralement par « assemblage à l’or ». Des réparations apparentées emploient de l’argent, de la laque sans métal ou des fragments provenant d’une autre céramique. Le joint visible est une possibilité au sein d’un vocabulaire plus large, pas une règle imposant de transformer chaque fissure en ligne dorée éclatante. [Source: www.japanhouselondon.uk](https://www.japanhouselondon.uk/read-and-watch/kintsugi/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette distinction change la manière d’évaluer l’objet réparé. Il faut regarder l’ajustement des fragments, le soutien des parties manquantes et la relation entre le travail nouveau et le récipient original. Une ligne brillante ne renseigne guère, à elle seule, sur la qualité, les matériaux ou l’aptitude à l’usage."
+    },
+    {
+      "type": "heading",
+      "text": "Une histoire liée au thé, un début incertain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le kintsugi est associé à la culture japonaise du thé et à l’appréciation de bols précieux même après leur endommagement. Japan House situe son émergence à l’époque Muromachi, de 1336 à 1573, tout en soulignant que ses origines exactes sont inconnues. Le récit de la conservatrice du Smithsonian Louise Allison Cort rappelle également cette incertitude. Une tradition peut être pluriséculaire sans inventeur solidement documenté. [Source: repository.si.edu](https://repository.si.edu/server/api/core/bitstreams/9306d132-30e7-4707-9763-869213ddfa18/content)"
+    },
+    {
+      "type": "subheading",
+      "text": "L’histoire du shogun est une légende, pas un acte de naissance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un récit célèbre attribue au shogun Ashikaga Yoshimasa l’inspiration d’une nouvelle méthode après sa déception devant les agrafes métalliques réparant un bol envoyé en Chine. Japan House présente explicitement cette histoire comme une anecdote tardive. Elle oppose différentes réparations visibles, mais ne prouve pas qu’un atelier précis ait inventé le kintsugi à une date connue."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’idée historique plus générale résiste mieux que la légende. Un récipient réparé pouvait continuer à être apprécié, et l’intervention participer à cette appréciation. L’objet n’était pas tenu de faire comme si rien ne lui était arrivé. Cela transforme le regard sur la réparation, sans signifier que tout bol réparé gagne automatiquement de la valeur marchande."
+    },
+    {
+      "type": "heading",
+      "text": "En quoi consiste réellement le travail ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La pratique traditionnelle passe par l’assemblage, le comblement, le durcissement, le lissage et la finition. Les fragments doivent d’abord retrouver une cohérence structurelle. Les manques nécessitent un traitement avant d’obtenir une surface suffisamment continue. L’or constitue une étape tardive et visible ; il ne compense pas un joint mal ajusté en dessous."
+    },
+    {
+      "type": "subheading",
+      "text": "L’urushi est une matière, pas seulement une couleur"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Japan Kogei Association décrit l’urushi comme une sève récoltée sur l’arbre à laque et préparée pour différentes couches et décorations. Son durcissement dépend de conditions adaptées de température et d’humidité. L’association indique environ 25 °C et 70 % d’humidité relative comme conditions typiques. Une réparation traditionnelle implique donc un durcissement contrôlé, pas simplement de la colle ordinaire laissée sur un bureau. [Source: www.nihonkogeikai.or.jp](https://www.nihonkogeikai.or.jp/en/urushiwork/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Un atelier court ne résume pas tout le procédé"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’atelier d’initiation de Japan House annonce clairement des raccourcis permettant de terminer un objet en une séance courte ; il précise aussi l’emploi de poudre de laiton. Cette transparence est utile. Un cours peut présenter des principes sans reproduire toutes les étapes, matières et durées d’une commande traditionnelle. Demandez ce que vous utiliserez, ce qui devra encore durcir et l’usage prévu de l’objet fini. [Source: www.japanhouselondon.uk](https://www.japanhouselondon.uk/venue-hire/cultural-offerings/an-introduction-to-kintsugi-workshop/)"
+    },
+    {
+      "type": "heading",
+      "text": "Kits modernes : les bonnes questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les kits commercialisés sous le nom de kintsugi ne sont pas équivalents. La boutique du V&A propose par exemple un kit moderne avec adhésif et mélange doré. Il illustre la différence entre une activité contemporaine inspirée de l’apparence du kintsugi et une commande spécifiant laque traditionnelle et poudre de métal précieux. Sans liste de matériaux, le nom ne raconte pas tout. [Source: www.vam.ac.uk](https://www.vam.ac.uk/shop/homeware/kintsugi-gold-repair-kit-160088.html)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant d’utiliser un objet réparé pour boire ou manger, obtenez des indications explicites sur l’ensemble du système de réparation et l’usage envisagé. Ne déduisez pas cette aptitude d’une couleur dorée, du mot naturel ou de l’apparence durcie. Respectez les instructions concernant chaleur, lavage et durcissement. L’urushi non durci peut provoquer des réactions cutanées allergiques, comme le note le V&A ; les débutants doivent apprendre sa manipulation auprès d’un enseignant qualifié, pas l’improviser à partir d’une photographie. [Source: www.vam.ac.uk](https://www.vam.ac.uk/__data/assets/pdf_file/0003/177204/15743_file.pdf)"
+    },
+    {
+      "type": "heading",
+      "text": "Au-delà du slogan sur la beauté des imperfections"
+    },
+    {
+      "type": "paragraph",
+      "text": "On rapproche souvent le kintsugi du wabi-sabi et de la résilience. Ces lectures peuvent avoir du sens sans réduire une tradition artisanale variée à une philosophie nationale unique ni présenter la réparation des céramiques comme un traitement psychologique démontré. Le bol réparé reste un objet avec une histoire matérielle ; l’analogie personnelle appartient à celui qui la construit."
+    },
+    {
+      "type": "subheading",
+      "text": "Tous les objets cassés peuvent-ils être réparés ainsi ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pas nécessairement. État, usage, importance historique et réversibilité de l’intervention doivent être considérés. Pour un objet ancien ou irremplaçable, consultez un conservateur-restaurateur avant d’appliquer un kit. Conservez les fragments en sécurité, documentez la casse et discutez de l’objectif : réparation, stabilisation ou présentation. Il n’est pas nécessaire de casser un objet intact pour apprécier les joints dorés."
+    },
+    {
+      "type": "paragraph",
+      "text": "La leçon la plus utile est peut-être pratique : conserver demande du temps, une expertise et une description claire des changements apportés. Le joint rend le soin visible. Cette attention à une beauté entretenue se retrouve dans les rues vivantes de Chefchaouen, dont l’apparence se renouvelle par le travail et non par les seules photographies. [Chefchaouen : l'histoire de la ville bleue du Maroc](/articles/chefchaouen-story-morocco-blue-city/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.si.edu",
+      "url": "https://www.si.edu/exhibitions/golden-seams-japanese-art-mending-ceramics%3Aevent-exhib-4567"
+    },
+    {
+      "label": "Source: www.japanhouselondon.uk",
+      "url": "https://www.japanhouselondon.uk/read-and-watch/kintsugi/"
+    },
+    {
+      "label": "Source: repository.si.edu",
+      "url": "https://repository.si.edu/server/api/core/bitstreams/9306d132-30e7-4707-9763-869213ddfa18/content"
+    },
+    {
+      "label": "Source: www.nihonkogeikai.or.jp",
+      "url": "https://www.nihonkogeikai.or.jp/en/urushiwork/"
+    },
+    {
+      "label": "Source: www.japanhouselondon.uk",
+      "url": "https://www.japanhouselondon.uk/venue-hire/cultural-offerings/an-introduction-to-kintsugi-workshop/"
+    },
+    {
+      "label": "Source: www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/shop/homeware/kintsugi-gold-repair-kit-160088.html"
+    },
+    {
+      "label": "Source: www.vam.ac.uk",
+      "url": "https://www.vam.ac.uk/__data/assets/pdf_file/0003/177204/15743_file.pdf"
+    }
+  ],
+  "faq": []
+}

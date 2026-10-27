@@ -1,0 +1,166 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/bepicolombo-europe-japan-mission-mercury/",
+  "path": "/es/articles/bepicolombo-europe-japan-mission-mercury/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-27",
+    "terminologyChecked": true
+  },
+  "title": "BepiColombo: la misión de Europa y Japón a Mercurio",
+  "seoTitle": "BepiColombo: llegada a Mercurio y objetivos científicos",
+  "description": "BepiColombo se acerca a Mercurio: dos orbitadores, captura prevista en noviembre de 2026 y ciencia desde abril de 2027 para investigar los enigmas del planeta.",
+  "excerpt": "BepiColombo se acerca a Mercurio: dos orbitadores, captura prevista en noviembre de 2026 y ciencia desde abril de 2027 para investigar los enigmas del planeta.",
+  "headlineHighlights": {
+    "red": "BepiColombo",
+    "gold": "a Mercurio"
+  },
+  "keywords": [
+    "BepiColombo",
+    "a Mercurio"
+  ],
+  "searchIntent": "BepiColombo se acerca a Mercurio: dos orbitadores, captura prevista en noviembre de 2026 y ciencia desde abril de 2027 para investigar los enigmas del planeta.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "image": {
+    "src": "/articles/bepicolombo-mercury-esa-jaxa-ai-editorial.webp",
+    "alt": "Ilustración conceptual con IA de una nave aproximándose a Mercurio bajo la luz solar"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Mercurio parece cercano al Sol y lejano a nuestra experiencia cotidiana. Llegar no consiste simplemente en orientar una nave hacia el interior: debe perder suficiente energía orbital para permanecer junto a un planeta pequeño, inmerso en el campo gravitatorio solar. El largo viaje de BepiColombo busca una llegada controlada, no ganar una carrera por la distancia más corta."
+    },
+    {
+      "type": "paragraph",
+      "text": "A 27 de octubre de 2026, la misión conjunta de la Agencia Espacial Europea y la agencia japonesa JAXA se aproxima a Mercurio, pero todavía no opera en sus órbitas científicas definitivas. Las actualizaciones de ESA prevén la captura para el 21 de noviembre de 2026, la separación de los orbitadores para el 9 y 10 de diciembre y la ciencia rutinaria desde abril de 2027. Son hitos previstos, no logros completados. [Fuente: www.esa.int](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury)"
+    },
+    {
+      "type": "heading",
+      "text": "Una misión, dos observatorios complementarios"
+    },
+    {
+      "type": "paragraph",
+      "text": "BepiColombo transporta el Mercury Planetary Orbiter europeo, MPO, y el Mercury Magnetospheric Orbiter japonés, llamado Mio. MPO investigará superficie, composición e interior; Mio, el entorno magnético y el plasma circundante. Dos observatorios permiten estudiar diferentes partes de un sistema que interactúa, en vez de exigir a una sola nave que mida todo desde una única posición. [Fuente: science.nasa.gov](https://science.nasa.gov/mission/bepicolombo/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué aporta el japonés Mio"
+    },
+    {
+      "type": "paragraph",
+      "text": "JAXA describe Mio como un observatorio de la magnetosfera y el entorno espacial de Mercurio, construido para soportar una intensa exposición solar. Sus instrumentos investigan campos magnéticos, partículas, ondas y polvo. El trabajo conecta un planeta rocoso con el viento solar que lo rodea: Mercurio no es solo un objeto lleno de cráteres, sino un cuerpo que interactúa continuamente con su estrella. [Fuente: www.jaxa.jp](https://www.jaxa.jp/projects/sas/bepi/index_j.html)"
+    },
+    {
+      "type": "subheading",
+      "text": "Qué aporta el europeo MPO"
+    },
+    {
+      "type": "paragraph",
+      "text": "La lista de ESA incluye sistemas de imagen, espectrómetros, un altímetro láser, un magnetómetro y un experimento de radiociencia. Sus mediciones pueden relacionar la forma del terreno con sus materiales, gravedad y propiedades magnéticas. Una fotografía muestra un rasgo; un conjunto coordinado de medidas permite poner a prueba explicaciones sobre su formación. [Fuente: www.esa.int](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_factsheet)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué acercarse al Sol lleva tanto tiempo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La misión despegó el 20 de octubre de 2018 desde el puerto espacial europeo en un Ariane 5. Su ruta combinó propulsión y nueve sobrevuelos planetarios: uno de la Tierra, dos de Venus y seis de Mercurio. Los encuentros modificaron la trayectoria, no fueron paradas turísticas. El último sobrevuelo de Mercurio ocurrió el 8 de enero de 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una nave que sale de la Tierra ya lleva el movimiento terrestre alrededor del Sol. No se convierte en orbitador de Mercurio simplemente cayendo hacia dentro: velocidad y dirección deben permitir la captura. La propulsión eléctrica solar y las asistencias gravitatorias repetidas cambian ese movimiento gradualmente. La dificultad es ajustar una órbita, no solo recorrer kilómetros. [Fuente: www.aee.gob.es](https://www.aee.gob.es/Noticias/2026/septiembre/bepi-colombo.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Dónde está la misión en octubre de 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "ESA informa de que el módulo de transferencia se separó correctamente el 3 de septiembre de 2026. Era el elemento de propulsión y energía utilizado durante el crucero interplanetario. Su salida marcó una transición, mientras los dos orbitadores científicos permanecían unidos para la siguiente fase. Una separación exitosa no debe confundirse con una inserción orbital exitosa en Mercurio."
+    },
+    {
+      "type": "subheading",
+      "text": "La captura inicia otra secuencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "A la captura prevista para el 21 de noviembre seguirán nuevas maniobras y el despliegue de los orbitadores por separado. Abril de 2027 es el objetivo publicado para las operaciones científicas regulares. Una cronología rigurosa distingue llegada, separación y ciencia. Afirmar en octubre que la nave ya realiza un estudio orbital completo omitiría varios pasos difíciles aún pendientes."
+    },
+    {
+      "type": "heading",
+      "text": "Los enigmas que Mercurio mantiene abiertos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mercurio tiene un núcleo metálico inusualmente grande, una superficie muy craterizada y una exosfera tenue en lugar de una atmósfera densa. NASA describe temperaturas superficiales de unos 430 °C bajo el Sol y cercanas a menos 180 °C por la noche. Son condiciones del suelo planetario, no una temperatura idéntica para todos los componentes de las naves. [Fuente: science.nasa.gov](https://science.nasa.gov/mercury/facts/)"
+    },
+    {
+      "type": "subheading",
+      "text": "Hielo en un planeta abrasador"
+    },
+    {
+      "type": "paragraph",
+      "text": "La misión MESSENGER de NASA estableció que los depósitos polares de Mercurio son predominantemente hielo de agua. La sombra permanente permite mantener algunos lugares polares muy fríos pese a la proximidad solar. No hay contradicción: importan la iluminación y la topografía local, no una temperatura uniforme. BepiColombo podrá ampliar ese trabajo, no recibir el mérito de descubrir el hielo antes de comenzar su ciencia orbital."
+    },
+    {
+      "type": "subheading",
+      "text": "Leer juntos el planeta y su entorno"
+    },
+    {
+      "type": "paragraph",
+      "text": "El diseño con dos orbitadores resulta especialmente útil para diferenciar cambios espaciales y temporales. Un instrumento aislado puede tener dificultades para saber si cambió el entorno o si la nave entró en otra región. Las observaciones complementarias ayudan a resolver esa ambigüedad. También situarán las medidas superficiales en el contexto de las partículas cargadas y los campos magnéticos circundantes."
+    },
+    {
+      "type": "heading",
+      "text": "Un sucesor, no el primer visitante"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mariner 10 sobrevoló Mercurio tres veces en 1974 y 1975. MESSENGER lo orbitó de 2011 a 2015. BepiColombo es la tercera misión que visita el planeta y, si la captura tiene éxito, será la segunda en orbitarlo. Su nombre homenajea al matemático e ingeniero italiano Giuseppe «Bepi» Colombo, cuyo trabajo ayudó a explicar la rotación de Mercurio e influyó en el diseño de misiones planetarias."
+    },
+    {
+      "type": "subheading",
+      "text": "¿Cuándo empezará a responder sus grandes preguntas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La ciencia rutinaria está prevista para abril de 2027, tras la llegada y los ajustes orbitales. Las observaciones de los sobrevuelos ya tienen valor, pero no equivalen a medidas prolongadas desde las órbitas científicas previstas. Los futuros hallazgos necesitarán calibración, análisis y publicación; alcanzar una órbita no resuelve instantáneamente la historia de un planeta."
+    },
+    {
+      "type": "paragraph",
+      "text": "La promesa de BepiColombo es explicar Mercurio de forma más conectada: rocas, interior, campo magnético y entorno solar estudiados conjuntamente. Para comprender cómo se distingue una observación de una inferencia histórica más amplia, nuestra guía sobre la datación de los árboles vivos más antiguos explora esa misma disciplina en la Tierra. [Los árboles vivos más antiguos del mundo](/articles/worlds-oldest-living-trees-age-science/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.esa.int",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/mission/bepicolombo/"
+    },
+    {
+      "label": "Fuente: www.jaxa.jp",
+      "url": "https://www.jaxa.jp/projects/sas/bepi/index_j.html"
+    },
+    {
+      "label": "Fuente: www.esa.int",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_factsheet"
+    },
+    {
+      "label": "Fuente: www.aee.gob.es",
+      "url": "https://www.aee.gob.es/Noticias/2026/septiembre/bepi-colombo.html"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/mercury/facts/"
+    }
+  ],
+  "faq": []
+}

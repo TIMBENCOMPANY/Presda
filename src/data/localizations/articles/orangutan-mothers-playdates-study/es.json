@@ -1,0 +1,146 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/orangutan-mothers-playdates-study/",
+  "path": "/es/articles/orangutan-mothers-playdates-study/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-27",
+    "terminologyChecked": true
+  },
+  "title": "Las madres orangutanas organizan encuentros de juego para sus crías",
+  "seoTitle": "Orangutanes y encuentros de juego: qué encontró el estudio",
+  "description": "Un estudio de quince años en Borneo relaciona los desplazamientos maternos con el juego infantil. Explicamos las pruebas, los costes y sus limitaciones.",
+  "excerpt": "Un estudio de quince años en Borneo relaciona los desplazamientos maternos con el juego infantil. Explicamos las pruebas, los costes y sus limitaciones.",
+  "headlineHighlights": {
+    "red": "madres orangutanas",
+    "gold": "encuentros de juego"
+  },
+  "keywords": [
+    "madres orangutanas",
+    "encuentros de juego"
+  ],
+  "searchIntent": "Un estudio de quince años en Borneo relaciona los desplazamientos maternos con el juego infantil. Explicamos las pruebas, los costes y sus limitaciones.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "image": {
+    "src": "/articles/orangutan-mothers-young-social-play-ai-editorial.webp",
+    "alt": "Ilustración con IA de una madre orangutana y crías jugando en el dosel forestal"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Para una cría de orangután, encontrar compañía para jugar no es tan sencillo como incorporarse a un grupo. Una madre y su pequeño dependiente suelen desplazarse y alimentarse lejos de otras madres. Encontrarse con otra cría puede depender de que una adulta cambie de rumbo y dedique un tiempo que podría haber empleado en comer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio publicado en PNAS el 6 de octubre de 2026 aporta pruebas de que las madres orangutanas silvestres de Borneo hacen precisamente eso. Los investigadores analizaron quince años de observaciones, unas 32.600 horas, de 31 parejas de madre y cría en Tuanan, Kalimantan Central, Indonesia. Los patrones de desplazamiento materno aumentaban las oportunidades de contacto entre pequeños. «Citas para jugar» resume bien el hallazgo siempre que no se confunda con una prueba de compromisos al estilo humano. [Fuente: www.pnas.org](https://www.pnas.org/doi/10.1073/pnas.2621225123)"
+    },
+    {
+      "type": "heading",
+      "text": "Qué encontró realmente el estudio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las madres con crías de edades más próximas compartían más espacios forestales y sus pequeños jugaban juntos con mayor frecuencia. El análisis tuvo en cuenta el parentesco y la disponibilidad de fruta, dos explicaciones alternativas para ocupar los mismos lugares. Eso hace el resultado más informativo que una colección de fotografías atractivas de crías forcejeando."
+    },
+    {
+      "type": "subheading",
+      "text": "El recorrido importa tanto como el encuentro"
+    },
+    {
+      "type": "paragraph",
+      "text": "El patrón de movimiento se extendía más allá del día de juego. Las madres recorrían mayores distancias en las jornadas próximas, orientándose hacia el área central de otra madre antes del encuentro y hacia la propia después. En los días de juego también dedicaban menos tiempo a alimentarse. En conjunto, los datos respaldan que contribuyen a crear oportunidades sociales, en vez de encontrarlas únicamente por casualidad. No revelan pensamientos privados ni demuestran un plan compartido entre dos madres."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué hicieron falta quince años de observación"
+    },
+    {
+      "type": "paragraph",
+      "text": "El programa de campo de Tuanan comenzó en 2003. Según el Instituto Max Planck de Comportamiento Animal, participaron investigadores de ese instituto, la Universidad de Zúrich, Universitas Nasional y Rutgers University. El primer autor, Odd Jacobson, y la investigadora principal Maria van Noordwijk combinaron los movimientos con las características de las parejas vecinas de madre y cría. [Fuente: www.mpg.de](https://www.mpg.de/27017124/orangutan-mothers-seek-out-playmates-for-young)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un solo encuentro no permite saber si un animal buscaba compañía, seguía alimento o cruzaba por azar el camino de un vecino. Las observaciones repetidas permiten comparar quién encuentra a quién, qué edad tienen sus crías y qué sucede antes y después. La duración forma parte de la evidencia, no es simplemente una cifra impresionante."
+    },
+    {
+      "type": "subheading",
+      "text": "Infrecuente no significa irrelevante"
+    },
+    {
+      "type": "paragraph",
+      "text": "El resumen público del equipo sitúa el juego entre crías en aproximadamente el seis por ciento de los días de seguimiento, con unos veinte minutos de juego en las jornadas en que ocurrió. Son cifras de esta muestra, no un horario universal para todos los orangutanes. También explican por qué una visita breve al campo podría pasar por alto el patrón: un comportamiento importante no tiene que ocupar gran parte del día."
+    },
+    {
+      "type": "heading",
+      "text": "Otra forma de inversión materna"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es fácil imaginar los cuidados maternos como leche, transporte o protección. La investigación añade otra posibilidad: acceso a compañeros sociales adecuados. Una madre puede asumir más movimiento y menos tiempo de alimentación mientras su pequeño obtiene una oportunidad ausente durante los viajes solitarios. El «coste energético» debe entenderse junto con las medidas conductuales, no como si se hubieran contado directamente las calorías de cada encuentro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Queda un paso importante sin resolver. El estudio no demuestra que las crías que jugaron más sobrevivieran mejor, tuvieran más éxito reproductivo o se volvieran más inteligentes. La coautora Sri Suci Utami Atmoko identifica ese beneficio a largo plazo como una pregunta abierta en la explicación del equipo. Las ventajas plausibles son hipótesis que comprobar, no resultados que añadir al titular."
+    },
+    {
+      "type": "heading",
+      "text": "Solitario no equivale a insociable"
+    },
+    {
+      "type": "paragraph",
+      "text": "El orangután de Borneo, Pongo pygmaeus, es una de las tres especies reconocidas, junto con los de Sumatra y Tapanuli. Su distribución silvestre actual se limita a Borneo y Sumatra. Las distinciones importan: un resultado de una población de Borneo no se puede atribuir automáticamente a todos los orangutanes de cualquier hábitat. [Fuente: www.wwf.org.uk](https://www.wwf.org.uk/learn/wildlife/orangutans)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Solitario describe un patrón de asociación cotidiana, no la ausencia de relaciones. Conocer a los vecinos y encontrarse ocasionalmente puede coexistir con pasar buena parte del día separados. El estudio invita a sustituir la oposición entre animal grupal y solitario por una pregunta más útil: ¿cómo consigue este animal el contacto social que necesita?"
+    },
+    {
+      "type": "heading",
+      "text": "Qué significa para la conservación"
+    },
+    {
+      "type": "paragraph",
+      "text": "WWF identifica la pérdida y fragmentación del hábitat, la caza y otras presiones humanas entre las amenazas para los orangutanes de Borneo, en peligro crítico de extinción. Su reproducción lenta dificulta reemplazar las pérdidas. Conservar el bosque significa mantener las condiciones para vidas completas, no solo suficientes árboles para fotografiar a un adulto. [Fuente: www.worldwildlife.org](https://www.worldwildlife.org/species/orangutan/bornean-orangutan/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es razonable preguntarse si interrumpir las rutas también reduce las oportunidades de encuentro de las crías. Es una posibilidad que merece investigarse, no un resultado medido por este estudio sobre el juego. Distinguir relevancia para la conservación y causalidad demostrada permite aprovechar la investigación sin exigirle más de lo que prueba."
+    },
+    {
+      "type": "subheading",
+      "text": "¿Organizan realmente encuentros de juego?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las pruebas respaldan movimientos maternos que facilitan el juego con jóvenes vecinos, especialmente de edades similares. No muestran calendarios, citas negociadas ni una filosofía humana de crianza. El titular funciona como analogía; el logro científico consiste en detectar un patrón coherente y precisar sus costes y preguntas pendientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una palabra familiar puede abrir una puerta hacia una biología desconocida. Lo que sigue debe ser más cuidadoso que la metáfora: décadas de trabajo de campo, animales conocidos individualmente y una visión del cuidado que incluye oportunidades sociales. Para otro ejemplo de cómo las definiciones cambian una historia natural, lea nuestro artículo sobre los árboles vivos más antiguos del mundo. [Los árboles vivos más antiguos del mundo](/articles/worlds-oldest-living-trees-age-science/)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.pnas.org",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2621225123"
+    },
+    {
+      "label": "Fuente: www.mpg.de",
+      "url": "https://www.mpg.de/27017124/orangutan-mothers-seek-out-playmates-for-young"
+    },
+    {
+      "label": "Fuente: www.wwf.org.uk",
+      "url": "https://www.wwf.org.uk/learn/wildlife/orangutans"
+    },
+    {
+      "label": "Fuente: www.worldwildlife.org",
+      "url": "https://www.worldwildlife.org/species/orangutan/bornean-orangutan/"
+    }
+  ],
+  "faq": []
+}
