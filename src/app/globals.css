@@ -728,7 +728,7 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
   }
   .article-hero .article-hero-media { position: absolute; inset: 0; height: 100%; aspect-ratio: auto; }
   .article-hero .article-hero-image {
-    display: block; width: 100%; height: 100%; object-fit: var(--article-hero-image-fit, cover);
+    display: block; width: 100%; height: 100%; object-fit: cover;
     object-position: var(--article-hero-image-position-desktop, var(--article-hero-image-position, 50% 50%));
   }
   .article-hero .article-hero-shade, .article-hero .article-hero-shade + div { display: block; }
@@ -765,16 +765,4 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
   [data-article-locale="ar"] .article-hero .article-hero-content > div:first-child a { direction: rtl; }
 }
 @media (min-width: 1280px) { .article-hero { --hero-padding: 56px; } }
-
-/* Full-composition heroes share Bruno's height budget and overlay. Match the
-   frame to the source ratio so contain creates neither cropping nor side bands. */
-@media (min-width: 1024px) {
-  .article-hero.article-hero--natural-frame {
-    width: min(100%, calc(min(clamp(642px, calc(48vw + 2px), 722px), var(--hero-viewport-height, calc(100svh - 160px))) * var(--hero-image-ratio)));
-    height: auto;
-    aspect-ratio: var(--hero-image-ratio);
-    margin-inline: auto;
-  }
-  .article-hero--natural-frame .article-hero-content { position: absolute; inset: 0; }
-}
 

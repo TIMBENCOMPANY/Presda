@@ -30,7 +30,9 @@ for(const a of articles){
 (async()=>{
  fs.mkdirSync('test-results',{recursive:true});
  const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
- const results=[];
+ const results=[]; const bruno={};
+ for(const width of [1366,1920,768,390]){const height=width===1366?768:width===1920?1080:width===768?1024:844;const p=await browser.newPage({viewport:{width,height}});await p.addInitScript(()=>localStorage.setItem('presda.analytics-consent.v1',JSON.stringify({version:1,choice:'rejected',savedAt:Date.now()})));await p.goto(base+'/articles/giordano-bruno-philosopher-heresy/',{waitUntil:'domcontentloaded'});await p.evaluate(()=>document.fonts.ready);await p.waitForTimeout(1200);bruno[width]=await p.evaluate(()=>{const h=document.querySelector('.article-hero'),r=h.getBoundingClientRect(),i=document.querySelector('.article-hero-image');return{hero:{width:r.width,height:r.height,x:r.x},fit:getComputedStyle(i).objectFit}});await p.screenshot({path:`test-results/bruno-reference-${stage}-${width}.png`});await p.close();}
+
  try{
   for(const a of articles){
    const key=manifest.find(s=>s.slug===a.slug).key;
@@ -57,13 +59,16 @@ for(const a of articles){
     const schema=d.schema.find(x=>x['@type']===a.schemaType);assert(schema);assert.equal(schema.headline,ed.title);assert.equal(schema.inLanguage,l);assert.equal(schema.image.creditText,(a.slug.includes('frogs-')||a.slug.includes('mbappe-'))?'PRESDA':undefined);assert.equal(schema.image.license,undefined);assert.deepEqual(schema.citation,a.references.map(r=>r.url));
     assert.equal(d.description,ed.metaDescription||ed.description);assert((await p.title()).includes(ed.seoTitle));assert.equal(d.og,articleImageUrl(a.coverImage));
     assert.equal(d.heroAlt,l==='en'?a.coverAlt:ed.image.alt);
-    assert.equal(d.fit,'contain','Uncropped image inside shared Bruno frame');assert.equal(d.twitter,d.og);
+    assert.equal(d.fit,width>=1024?'cover':'contain','Same responsive image fit as Bruno');assert.equal(d.twitter,d.og);
     const webPage=schema.mainEntityOfPage;assert.equal(webPage['@type'],'WebPage');assert.equal(webPage.primaryImageOfPage['@id'],schema.image['@id']);assert.equal(schema.image.mainEntityOfPage,d.canonical);assert.equal(schema.image.contentUrl,d.og);
     assert.equal(await p.locator(newArticles.includes(a)?'[data-nature-oct28-hero-caption]':'[data-mbappe-china-hero-caption]').textContent(),captions[a.slug][l]);
     const frame=await p.locator('.article-hero-image').evaluate(i=>({width:i.getBoundingClientRect().width,height:i.getBoundingClientRect().height,naturalWidth:i.naturalWidth,naturalHeight:i.naturalHeight}));
     if(width>=1024){assert(d.hero.bottom<=height+1,route+' bounded desktop frame');assert(d.title.y>=d.hero.y&&d.meta.bottom<=d.hero.bottom+1,route+' title/meta overflow');}
-    assert(Math.abs(frame.width/frame.height-frame.naturalWidth/frame.naturalHeight)<0.01,route+' natural image ratio at '+width);
-    assert(await p.locator('.article-hero--natural-frame').count());
+    if(width<1024)assert(Math.abs(frame.width/frame.height-frame.naturalWidth/frame.naturalHeight)<0.01,route+' natural mobile image ratio');
+    const reference=bruno[width];
+    assert(Math.abs(d.hero.width-reference.hero.width)<1,route+' Bruno frame width');
+    if(width>=1024){assert(Math.abs(d.hero.height-reference.hero.height)<1,route+' Bruno frame height');assert(Math.abs(d.hero.x-reference.hero.x)<1,route+' Bruno frame alignment');}
+    assert.equal(d.fit,reference.fit,route+' Bruno image scaling');
     assert.equal(await p.locator('h1').count(),1);
     const subheadings=l==='en'?a.content.filter(t=>t.startsWith('### ')).map(t=>t.slice(4)):ed.content.filter(b=>b.type==='subheading').map(b=>b.text);
     for(const heading of subheadings)assert.equal(await p.getByRole('heading',{level:3,name:heading,exact:true}).count(),1);
@@ -97,6 +102,9 @@ for(const a of articles){
   const newsSitemap=await newsResponse.text();
   for(const a of articles)for(const l of langs)assert.equal(newsSitemap.includes('https://presda.com'+(l==='en'?'':'/'+l)+'/articles/'+a.slug+'/'),a.schemaType==='NewsArticle','News article belongs in the news sitemap');
   fs.writeFileSync(`test-results/nature-oct28-${stage}.json`,JSON.stringify(results,null,2));
-  console.log('PASS 16 editions, 64 viewports, original heroes, source parity, schema, metadata, hreflang, canonicals, sitemap, RTL, internal links and body headings');
+  console.log('PASS',results.length,'rendered viewports: exact Bruno frame geometry, preserved source images, content and SEO');
+  const before=fs.existsSync('test-results/hero-bruno-before.json')?JSON.parse(fs.readFileSync('test-results/hero-bruno-before.json','utf8')):[];
+  for(const r of results){const old=before.find(x=>x.slug===r.slug&&x.locale===r.locale&&x.width===r.width);if(old)for(const field of ['canonical','alternates','schema','description','og','heroAlt','src','twitter'])assert.deepEqual(field==='src'?new URL(r[field]).pathname:r[field],field==='src'?new URL(old[field]).pathname:old[field],field+' unchanged');}
+  console.log('PASS SEO/content/image metadata unchanged from preceding production deployment');
  }finally{await browser.close();}
 })().catch(e=>{console.error(e);process.exit(1)});
