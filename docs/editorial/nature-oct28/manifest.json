@@ -1,0 +1,62 @@
+[
+  {
+    "key": "rainbow",
+    "slug": "rainbow-mountain-colors-peru-andes",
+    "asset": "presda_rainbow_mountain_peru_hero.jpg",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop",
+    "filename": "vinicunca-rainbow-mountain-peru-andes.webp",
+    "sha256": "c1f28a5440779dc996f897cbce33410e078da39baa189334d03eef5a80b1a280",
+    "originalSha256": "b38fc8e864d4a2b8e3f030a0bb73e7369867456ade9790b5bb32ddb3ba2745d0",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "frogs",
+    "slug": "frogs-freeze-come-back-to-life-science",
+    "asset": "Frost-Covered Winter Frog.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop",
+    "filename": "freeze-tolerant-frog-winter-editorial-illustration.webp",
+    "sha256": "9cd2b9a5c839e4fabb62e3ef419dd880903b713894310c4d26dfea4e57f827b0",
+    "originalSha256": "0a463de579a710f5b7a6e84b7797ab8969b394b1a2bcb55a5c6b91cf995dea4e",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "marble",
+    "slug": "chile-marble-caves-patagonia-blue-masterpiece",
+    "asset": "presda_chile_marble_caves_hero.jpg",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop",
+    "filename": "chile-marble-caves-general-carrera-patagonia.webp",
+    "sha256": "d515ba5bc501166c0843a70b78025c08aab4a18b02610b26edf9464880b7c00f",
+    "originalSha256": "98d930c9fd6e156667ec4667b47f019b1798557b69b6047037960c86768c1a35",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  }
+]

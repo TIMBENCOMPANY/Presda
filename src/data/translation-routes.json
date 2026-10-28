@@ -1156,6 +1156,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/chile-marble-caves-patagonia-blue-masterpiece/",
+    "path": "/ar/articles/chile-marble-caves-patagonia-blue-masterpiece/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/chile-marble-caves-patagonia-blue-masterpiece/",
+    "path": "/es/articles/chile-marble-caves-patagonia-blue-masterpiece/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/chile-marble-caves-patagonia-blue-masterpiece/",
+    "path": "/fr/articles/chile-marble-caves-patagonia-blue-masterpiece/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/china-robot-revolution-industrial-automation/",
     "path": "/ar/articles/china-robot-revolution-industrial-automation/"
   },
@@ -1828,6 +1843,21 @@
     "locale": "fr",
     "englishPath": "/articles/french-empire-napoleon-colonial-history-rise-fall/",
     "path": "/fr/articles/french-empire-napoleon-colonial-history-rise-fall/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/frogs-freeze-come-back-to-life-science/",
+    "path": "/ar/articles/frogs-freeze-come-back-to-life-science/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/frogs-freeze-come-back-to-life-science/",
+    "path": "/es/articles/frogs-freeze-come-back-to-life-science/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/frogs-freeze-come-back-to-life-science/",
+    "path": "/fr/articles/frogs-freeze-come-back-to-life-science/"
   },
   {
     "locale": "ar",
@@ -4078,6 +4108,21 @@
     "locale": "fr",
     "englishPath": "/articles/psychology-of-serial-killers-what-science-knows/",
     "path": "/fr/articles/psychology-of-serial-killers-what-science-knows/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/rainbow-mountain-colors-peru-andes/",
+    "path": "/ar/articles/rainbow-mountain-colors-peru-andes/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/rainbow-mountain-colors-peru-andes/",
+    "path": "/es/articles/rainbow-mountain-colors-peru-andes/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/rainbow-mountain-colors-peru-andes/",
+    "path": "/fr/articles/rainbow-mountain-colors-peru-andes/"
   },
   {
     "locale": "ar",
