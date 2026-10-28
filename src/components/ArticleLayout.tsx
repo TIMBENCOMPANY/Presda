@@ -1,3 +1,4 @@
+import mbappeChinaHeroCaptions from "@/data/mbappeChinaHeroCaptions.json";
 import natureCultureOct27HeroCaptions from "@/data/natureCultureOct27HeroCaptions.json";
 import kaneBallonDorHeroCaptions from "@/data/kaneBallonDorHeroCaptions.json";
 import cultureOct26HeroCaptions from "@/data/cultureOct26HeroCaptions.json";
@@ -320,7 +321,8 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
   const desktopHeroImagePosition = getArticleDesktopHeroImagePosition(article) ?? heroImagePosition;
   const heroImageStyle = {
     "--article-hero-image-position": heroImagePosition,
-    "--article-hero-image-position-desktop": desktopHeroImagePosition
+    "--article-hero-image-position-desktop": desktopHeroImagePosition,
+    "--article-hero-image-fit": article.heroImageFit ?? "cover"
   } as CSSProperties;
 
   return (
@@ -390,6 +392,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
             </div>
           </div>
         </header>
+        {article.slug in mbappeChinaHeroCaptions && <p data-mbappe-china-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mbappeChinaHeroCaptions[article.slug as keyof typeof mbappeChinaHeroCaptions][locale]}</p>}
         {article.slug in natureCultureOct27HeroCaptions && <p data-nature-culture-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{natureCultureOct27HeroCaptions[article.slug as keyof typeof natureCultureOct27HeroCaptions][locale]}</p>}
         {article.slug in kaneBallonDorHeroCaptions && <p data-kane-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{kaneBallonDorHeroCaptions[article.slug as keyof typeof kaneBallonDorHeroCaptions][locale]}</p>}
 

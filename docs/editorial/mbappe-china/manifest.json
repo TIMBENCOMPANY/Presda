@@ -1,0 +1,22 @@
+[
+  {
+    "key": "mbappe",
+    "slug": "mbappe-apologizes-china-mao-zedong-remarks",
+    "asset": "Mbappé Against Shanghai Sunset.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop",
+    "filename": "kylian-mbappe-china-mao-controversy-ai-editorial.webp",
+    "sha256": "42fc5d1a9603c2b63d8c9d83c10af3b8aff294370740e5a35b11505ea1a4bc45",
+    "originalSha256": "ca35fcfb7351112931166051e8c1bf414a0dc8ff86bf8704cff249729152c5c6",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  }
+]

@@ -29,6 +29,7 @@ export function translationArticle(record: Translation, source: Article): Articl
     date: record.publishedAt, lastUpdated: record.updatedAt,
     coverImage: record.image?.src ?? source.coverImage, coverAlt: record.image?.alt ?? "",
     homepageImagePosition: source.homepageImagePosition,
+    heroImageFit: source.heroImageFit,
     headlineHighlights: record.headlineHighlights,
     content: record.content.map(block => {
       if (block.type === "heading") return `## ${block.text}`;

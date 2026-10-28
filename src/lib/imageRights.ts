@@ -10,6 +10,8 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // Approved AI illustration, disclosed in docs/editorial/mbappe-china/REVIEW.md.
+  "/articles/kylian-mbappe-china-mao-controversy-ai-editorial.webp",
   // Approved AI illustrations with localized disclosures: docs/editorial/nature-culture-oct27/REVIEW.md.
   "/articles/chefchaouen-blue-city-rif-morocco-ai-editorial.webp",
   "/articles/ancient-tree-roots-longevity-ai-editorial.webp",

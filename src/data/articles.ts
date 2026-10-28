@@ -1,3 +1,4 @@
+import { mbappeChinaArticles } from "@/data/mbappeChinaArticles";
 import { natureCultureOct27Articles } from "@/data/natureCultureOct27Articles";
 import { kaneBallonDorArticles } from "@/data/kaneBallonDorArticles";
 import { cultureOct26Articles } from "@/data/cultureOct26Articles";
@@ -193,6 +194,7 @@ export type Article = {
   coverImage: string;
   coverAlt: string;
   homepageImagePosition?: string;
+  heroImageFit?: "cover" | "contain";
   content: string[];
   quote?: string;
   source?: {
@@ -235,6 +237,7 @@ export const articles: Article[] = [
   ...extinctionTartary2026Articles,
   supermarketArticle,
   bilingualBrainsArticle,
+  ...mbappeChinaArticles,
   ...natureCultureOct27Articles,
   ...kaneBallonDorArticles,
   ...cultureOct26Articles,
