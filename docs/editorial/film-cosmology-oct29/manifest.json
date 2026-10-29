@@ -1,0 +1,42 @@
+[
+  {
+    "key": "film",
+    "slug": "dicaprio-jennifer-lawrence-scorsese-what-happens-at-night",
+    "asset": "Teal Shadows, Shattered Reflections.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop",
+    "filename": "dicaprio-lawrence-scorsese-film-ai-editorial.webp",
+    "sha256": "758701508f1b5ab1db1b9873d189138258eb57a4193a1750380411517d4d4db2",
+    "originalSha256": "daf7d819d224fd1586b3237ecdedb97f5b9e06021d3f3b3209fcfcd1e1fa939f",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "cosmology",
+    "slug": "einstein-equations-universe-without-dark-energy-study",
+    "asset": "Einstein’s Cosmic Equation Halo.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop",
+    "filename": "einstein-cosmic-equations-dark-energy-ai-editorial.webp",
+    "sha256": "596a036730aa6a47e8cfa32bb7d2a61a9558ae80faa30886bdb682d943ce36b0",
+    "originalSha256": "280a6891addc82fdc9ccb1e80f1216aaca1435fda009f13b48cf8ef96733586e",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  }
+]

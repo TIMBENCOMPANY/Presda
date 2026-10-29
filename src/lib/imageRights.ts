@@ -10,6 +10,9 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // Approved AI concepts disclosed in docs/editorial/film-cosmology-oct29/REVIEW.md.
+  "/articles/dicaprio-lawrence-scorsese-film-ai-editorial.webp",
+  "/articles/einstein-cosmic-equations-dark-energy-ai-editorial.webp",
   // Approved AI illustrations with localized disclosures: docs/editorial/news-oct29/REVIEW.md.
   "/articles/red-sprites-upper-atmosphere-storm-ai-illustration.webp",
   "/articles/cristiano-ronaldo-boat-fan-vote-ai-illustration.webp",

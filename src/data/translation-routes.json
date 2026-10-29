@@ -1456,6 +1456,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/dicaprio-jennifer-lawrence-scorsese-what-happens-at-night/",
+    "path": "/ar/articles/dicaprio-jennifer-lawrence-scorsese-what-happens-at-night/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/dicaprio-jennifer-lawrence-scorsese-what-happens-at-night/",
+    "path": "/es/articles/dicaprio-jennifer-lawrence-scorsese-what-happens-at-night/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/dicaprio-jennifer-lawrence-scorsese-what-happens-at-night/",
+    "path": "/fr/articles/dicaprio-jennifer-lawrence-scorsese-what-happens-at-night/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/diego-maradona-genius-napoli-life-death-legacy/",
     "path": "/ar/articles/diego-maradona-genius-napoli-life-death-legacy/"
   },
@@ -1618,6 +1633,21 @@
     "locale": "fr",
     "englishPath": "/articles/ebola-bundibugyo-nigeria-imported-case-october-2026/",
     "path": "/fr/articles/ebola-bundibugyo-nigeria-imported-case-october-2026/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/einstein-equations-universe-without-dark-energy-study/",
+    "path": "/ar/articles/einstein-equations-universe-without-dark-energy-study/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/einstein-equations-universe-without-dark-energy-study/",
+    "path": "/es/articles/einstein-equations-universe-without-dark-energy-study/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/einstein-equations-universe-without-dark-energy-study/",
+    "path": "/fr/articles/einstein-equations-universe-without-dark-energy-study/"
   },
   {
     "locale": "ar",
