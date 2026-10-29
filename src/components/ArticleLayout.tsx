@@ -1,3 +1,4 @@
+import scienceTrioOct29HeroCaptions from "@/data/scienceTrioOct29HeroCaptions.json";
 import filmCosmologyOct29HeroCaptions from "@/data/filmCosmologyOct29HeroCaptions.json";
 import newsOct29HeroCaptions from "@/data/newsOct29HeroCaptions.json";
 import natureOct28HeroCaptions from "@/data/natureOct28HeroCaptions.json";
@@ -396,6 +397,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </div>
         </header>
         {article.slug in mbappeChinaHeroCaptions && <p data-mbappe-china-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mbappeChinaHeroCaptions[article.slug as keyof typeof mbappeChinaHeroCaptions][locale]}</p>}
+        {article.slug in scienceTrioOct29HeroCaptions && <p data-science-trio-oct29-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{scienceTrioOct29HeroCaptions[article.slug as keyof typeof scienceTrioOct29HeroCaptions][locale]}</p>}
         {article.slug in filmCosmologyOct29HeroCaptions && <p data-film-cosmology-oct29-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{filmCosmologyOct29HeroCaptions[article.slug as keyof typeof filmCosmologyOct29HeroCaptions][locale]}</p>}
         {article.slug in newsOct29HeroCaptions && <p data-news-oct29-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsOct29HeroCaptions[article.slug as keyof typeof newsOct29HeroCaptions][locale]}</p>}
         {article.slug in natureOct28HeroCaptions && <p data-nature-oct28-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{natureOct28HeroCaptions[article.slug as keyof typeof natureOct28HeroCaptions][locale]}</p>}

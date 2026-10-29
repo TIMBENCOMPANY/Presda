@@ -10,6 +10,9 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // Approved historical AI concepts, disclosed in science-trio-oct29/REVIEW.md.
+  "/articles/al-khwarizmi-algebra-ai-editorial.webp",
+  "/articles/copernicus-heliocentric-universe-ai-editorial.webp",
   // Approved AI concepts disclosed in docs/editorial/film-cosmology-oct29/REVIEW.md.
   "/articles/dicaprio-lawrence-scorsese-film-ai-editorial.webp",
   "/articles/einstein-cosmic-equations-dark-energy-ai-editorial.webp",
@@ -91,6 +94,10 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  if (source === "/articles/tiger-mother-cubs-editorial.webp") {
+    // Supplied by the user; photographer, location and reuse terms not inferred.
+    return { creditText: "User-supplied editorial image" };
+  }
   if (source === "/articles/business-oct25-skims-hero.jpg") {
     // Getty asset 2237352473 confirms the credit; no reuse terms inferred.
     return { creditText: "Kevin Mazur/Getty Images for SKIMS" };

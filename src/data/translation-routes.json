@@ -196,6 +196,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/al-khwarizmi-mathematician-modern-algebra/",
+    "path": "/ar/articles/al-khwarizmi-mathematician-modern-algebra/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/al-khwarizmi-mathematician-modern-algebra/",
+    "path": "/es/articles/al-khwarizmi-mathematician-modern-algebra/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/al-khwarizmi-mathematician-modern-algebra/",
+    "path": "/fr/articles/al-khwarizmi-mathematician-modern-algebra/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/alex-parrot-irene-pepperberg-animal-intelligence/",
     "path": "/ar/articles/alex-parrot-irene-pepperberg-animal-intelligence/"
   },
@@ -1228,6 +1243,21 @@
     "locale": "fr",
     "englishPath": "/articles/console-wars-playstation-xbox-nintendo/",
     "path": "/fr/articles/console-wars-playstation-xbox-nintendo/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/copernicus-earth-place-universe/",
+    "path": "/ar/articles/copernicus-earth-place-universe/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/copernicus-earth-place-universe/",
+    "path": "/es/articles/copernicus-earth-place-universe/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/copernicus-earth-place-universe/",
+    "path": "/fr/articles/copernicus-earth-place-universe/"
   },
   {
     "locale": "ar",
@@ -5083,6 +5113,21 @@
     "locale": "fr",
     "englishPath": "/articles/why-people-trust-ai-like-a-friend/",
     "path": "/fr/articles/why-people-trust-ai-like-a-friend/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/wild-tiger-mothers-surprising-cub-care-behavior/",
+    "path": "/ar/articles/wild-tiger-mothers-surprising-cub-care-behavior/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/wild-tiger-mothers-surprising-cub-care-behavior/",
+    "path": "/es/articles/wild-tiger-mothers-surprising-cub-care-behavior/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/wild-tiger-mothers-surprising-cub-care-behavior/",
+    "path": "/fr/articles/wild-tiger-mothers-surprising-cub-care-behavior/"
   },
   {
     "locale": "ar",
