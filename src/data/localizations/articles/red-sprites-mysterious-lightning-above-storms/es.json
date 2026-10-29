@@ -1,0 +1,166 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/red-sprites-mysterious-lightning-above-storms/",
+  "path": "/es/articles/red-sprites-mysterious-lightning-above-storms/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-29",
+    "terminologyChecked": true
+  },
+  "title": "Sprites rojos: los misteriosos relámpagos sobre las tormentas",
+  "seoTitle": "Sprites rojos: la ciencia del relámpago sobre las tormentas",
+  "description": "Qué son los sprites rojos: altura, mecanismo eléctrico, descubrimiento, investigación de la NASA y observación segura de estos destellos sobre tormentas.",
+  "excerpt": "Qué son los sprites rojos: altura, mecanismo eléctrico, descubrimiento, investigación de la NASA y observación segura de estos destellos sobre tormentas.",
+  "headlineHighlights": {
+    "red": "Sprites rojos",
+    "gold": "sobre las tormentas"
+  },
+  "keywords": [
+    "Sprites rojos",
+    "sobre las tormentas"
+  ],
+  "searchIntent": "Qué son los sprites rojos: altura, mecanismo eléctrico, descubrimiento, investigación de la NASA y observación segura de estos destellos sobre tormentas.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-29",
+  "updatedAt": "2026-10-29",
+  "image": {
+    "src": "/articles/red-sprites-upper-atmosphere-storm-ai-illustration.webp",
+    "alt": "Ilustración de IA de filamentos rojos sobre nubes de tormenta lejanas y un océano oscuro"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Una tormenta puede producir un segundo espectáculo luminoso muy por encima de sus relámpagos habituales. Durante unos milisegundos aparecen filamentos rojos en la oscuridad, a veces semejantes a un árbol invertido o una medusa brillante. Son sprites: breves descargas eléctricas en la atmósfera superior, vinculadas a los rayos que se producen debajo. Aunque parezcan una aparición astronómica, son fenómenos reales y medibles."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué son los sprites rojos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sprites pertenecen a los eventos luminosos transitorios, conocidos como TLE. A diferencia del rayo convencional, su luz característica aparece muy por encima de la nube de tormenta. La NOAA los distingue de los chorros azules y de los anillos expansivos llamados ELVES. Una fotografía de un sprite no muestra, por tanto, un rayo corriente que simplemente continúa hacia el espacio. [Fuente: www.nssl.noaa.gov](https://www.nssl.noaa.gov/education/svrwx101/lightning/types/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia importa porque una imagen comprime una geometría vertical compleja en un solo encuadre. La nube, la descarga superior y el observador pueden estar separados por grandes distancias. Su alineación aparente puede ocultar esa disposición. La ilustración que acompaña este artículo es una interpretación visual, no una medición ni una observación auténtica de una tormenta concreta."
+    },
+    {
+      "type": "subheading",
+      "text": "¿A qué altura aparecen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigaciones alojadas por la NASA sitúan las emisiones típicas de los sprites aproximadamente entre 50 y 90 kilómetros de altitud, con duraciones de varios milisegundos. Buena parte de esta actividad ocurre en la mesosfera. La luz roja está asociada al nitrógeno atmosférico excitado; algunas estructuras inferiores pueden parecer azules. Se trata de un proceso atmosférico, no de una llama que arde sobre las nubes. [Fuente: ntrs.nasa.gov](https://ntrs.nasa.gov/citations/19980020650)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo una tormenta ilumina la atmósfera superior"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los rayos redistribuyen rápidamente la carga eléctrica. En condiciones adecuadas, el cambio del campo eléctrico sobre una tormenta puede acelerar electrones lo suficiente para excitar e ionizar el aire poco denso. Las moléculas excitadas emiten luz al perder energía. Así, un sprite puede estar relacionado con un relámpago sin formar parte del mismo canal continuo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La NOAA asocia especialmente los sprites con rayos positivos potentes entre nube y suelo. Eso no significa que cada descarga de ese tipo deba producir uno. Hay que considerar conjuntamente el momento, el movimiento de carga y las condiciones atmosféricas. Contar rayos no permite predecir exactamente cuándo aparecerá la siguiente estructura roja."
+    },
+    {
+      "type": "subheading",
+      "text": "¿Por qué recuerdan a medusas o zanahorias?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las regiones superiores difusas y los canales finos y brillantes pueden combinarse en formas muy distintas. La sensibilidad de la cámara, la exposición y la distancia también influyen en lo que vemos. Al explicar una fotografía tomada en Francia, la NASA describe zonas superiores difusas y filamentos luminosos, mientras subraya que quedan preguntas sobre su formación. Un apodo evocador no constituye una explicación física completa. [Fuente: www.nasa.gov](https://www.nasa.gov/image-article/sprites-over-chateau-de-beynac/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un fenómeno que las cámaras ayudaron a reconocer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los relatos de destellos extraños sobre las tormentas precedieron a la investigación moderna. Un punto de inflexión llegó en 1989, cuando investigadores de la Universidad de Minnesota que probaban una cámara de televisión para poca luz captaron accidentalmente una prueba visual convincente. Los sprites no comenzaron entonces a existir. Los científicos obtuvieron un registro que podían estudiar y comparar con nuevas observaciones. [Fuente: www.nasa.gov](https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia refleja un patrón habitual del descubrimiento: un acontecimiento puede ser visible y resultar difícil de investigar hasta que los instrumentos permiten registrar sus detalles fugaces. Una imagen extraordinaria plantea preguntas. Las observaciones repetidas, la hora precisa y las mediciones de varios instrumentos permiten contrastarlas. Por eso las fotografías espectaculares siguen teniendo valor científico."
+    },
+    {
+      "type": "heading",
+      "text": "Estudiarlos desde tierra y desde la órbita"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los observadores terrestres contemplan tormentas en el horizonte; los instrumentos orbitales aportan otra perspectiva. El Atmosphere-Space Interactions Monitor, ASIM, de la Agencia Espacial Europea fue lanzado en abril de 2018 e instalado en el módulo Columbus de la Estación Espacial Internacional. Combina instrumentos ópticos con detectores de radiación de mayor energía para investigar la atmósfera sobre las tormentas. [Fuente: www.esa.int](https://www.esa.int/ESA_Multimedia/Videos/2018/05/Space_Storm_Hunter_s_trip_to_space)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa variedad de instrumentos no demuestra que cada sprite produzca todas las emisiones estudiadas. Los sprites, otros eventos luminosos y los destellos terrestres de rayos gamma son temas relacionados con características distintas. La NASA describe el trabajo en la estación como una vía para comprender mejor las tormentas y sus interacciones con la atmósfera. [Fuente: www.nasa.gov](https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/)"
+    },
+    {
+      "type": "subheading",
+      "text": "¿Qué pueden aportar los aficionados?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El proyecto de ciencia ciudadana Spritacular, lanzado por la NASA en 2022, invita a registrar estos fenómenos esquivos. La utilidad de una contribución depende de algo más que su belleza: el lugar y la hora son esenciales para relacionarla con una tormenta. Conservar el archivo original y anotar las condiciones de observación aporta más que publicar una imagen muy retocada y sin contexto. [Fuente: science.nasa.gov](https://science.nasa.gov/citizen-science/spritacular/)"
+    },
+    {
+      "type": "heading",
+      "text": "Observar sin perseguir el peligro"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sprites son débiles y breves. La oscuridad, una vista despejada sobre una tormenta lejana y un equipo adecuado pueden favorecer su registro, pero ningún destino ni noche garantiza verlos. Una tormenta oculta por nubes bajas puede tener actividad eléctrica sin ofrecer una vista útil. La ausencia de un sprite visible dice poco sobre su intensidad general."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observar nunca debe implicar permanecer en un lugar expuesto cerca de los rayos. Elija un emplazamiento seguro y siga las alertas meteorológicas locales. Ninguna fotografía justifica acercarse a una tormenta peligrosa. La guía de turismo astronómico de PRESDA ofrece un contexto más amplio para planificar observaciones bajo cielos oscuros. La astronomía y la fotografía de sprites necesitan oscuridad, pero no el mismo tiempo meteorológico. [Turismo de cielos oscuros: viajar para ver el universo](/articles/dark-sky-tourism-traveling-to-see-the-universe/)"
+    },
+    {
+      "type": "heading",
+      "text": "Lo que revelan sobre la Tierra"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su interés no se limita a que el cielo a veces se vuelva rojo. Los sprites muestran que las tormentas interactúan con regiones atmosféricas muy superiores a las nubes que vemos desde el suelo. También exponen los límites de nuestra percepción: algo de gran escala puede pasar inadvertido si es tenue, distante y extraordinariamente breve."
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta a su misterio no es sobrenatural ni simplista. Los científicos comprenden partes importantes del mecanismo eléctrico y siguen estudiando las condiciones y estructuras de cada evento. Mejores cámaras, observaciones coordinadas e instrumentos espaciales están convirtiendo este espectáculo fugaz en un conocimiento más detallado del funcionamiento del planeta."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.nssl.noaa.gov",
+      "url": "https://www.nssl.noaa.gov/education/svrwx101/lightning/types/"
+    },
+    {
+      "label": "Fuente: ntrs.nasa.gov",
+      "url": "https://ntrs.nasa.gov/citations/19980020650"
+    },
+    {
+      "label": "Fuente: www.nasa.gov",
+      "url": "https://www.nasa.gov/image-article/sprites-over-chateau-de-beynac/"
+    },
+    {
+      "label": "Fuente: www.nasa.gov",
+      "url": "https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/"
+    },
+    {
+      "label": "Fuente: www.esa.int",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2018/05/Space_Storm_Hunter_s_trip_to_space"
+    },
+    {
+      "label": "Fuente: www.nasa.gov",
+      "url": "https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/citizen-science/spritacular/"
+    }
+  ],
+  "faq": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "key": "sprites",
+    "slug": "red-sprites-mysterious-lightning-above-storms",
+    "asset": "Crimson Sprites Over a Starlit Ocean.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop",
+    "filename": "red-sprites-upper-atmosphere-storm-ai-illustration.webp",
+    "sha256": "543f22d9f3df758547b783d20202aaca027b27cd2b2541417ecd58ef7c50e811",
+    "originalSha256": "a65b578bbdb67b8eefafad20cad47bb9e1ff2220fe779c97e5b9bd8b6533661e",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "ronaldo",
+    "slug": "cristiano-ronaldo-ballon-dor-all-time-paid-fan-vote",
+    "asset": "Golden Ballon d’Or Celebration.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop",
+    "filename": "cristiano-ronaldo-boat-fan-vote-ai-illustration.webp",
+    "sha256": "0d6b5a60a2e881d000744cc0bdace1e576512338749a66adb6bf9f1cc28dd2d1",
+    "originalSha256": "c92d15a415939cca77d69c724a38f87b58a6cd48fb6aefade6eff684f91784ee",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "nvidia",
+    "slug": "nvidia-meta-three-billion-investment-muse-ai-partnership",
+    "asset": "Meta and NVIDIA Plush Partnership.png",
+    "sourceDirectory": "C:/Users/Microsoft/Desktop",
+    "filename": "meta-nvidia-muse-ai-investment-editorial-illustration.webp",
+    "sha256": "fb4a851fa2d6f71e31cf3b0ef79b59be602238013bc307110ed280509ff6af50",
+    "originalSha256": "771892f6ff0499363bc3caa251823ef5b475ffc707ef6ae37c00e9185e3e6157",
+    "dimensions": {
+      "width": 1672,
+      "height": 941
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  }
+]

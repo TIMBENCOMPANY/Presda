@@ -1,3 +1,4 @@
+import newsOct29HeroCaptions from "@/data/newsOct29HeroCaptions.json";
 import natureOct28HeroCaptions from "@/data/natureOct28HeroCaptions.json";
 import mbappeChinaHeroCaptions from "@/data/mbappeChinaHeroCaptions.json";
 import natureCultureOct27HeroCaptions from "@/data/natureCultureOct27HeroCaptions.json";
@@ -394,6 +395,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </div>
         </header>
         {article.slug in mbappeChinaHeroCaptions && <p data-mbappe-china-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mbappeChinaHeroCaptions[article.slug as keyof typeof mbappeChinaHeroCaptions][locale]}</p>}
+        {article.slug in newsOct29HeroCaptions && <p data-news-oct29-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{newsOct29HeroCaptions[article.slug as keyof typeof newsOct29HeroCaptions][locale]}</p>}
         {article.slug in natureOct28HeroCaptions && <p data-nature-oct28-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{natureOct28HeroCaptions[article.slug as keyof typeof natureOct28HeroCaptions][locale]}</p>}
         {article.slug in natureCultureOct27HeroCaptions && <p data-nature-culture-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{natureCultureOct27HeroCaptions[article.slug as keyof typeof natureCultureOct27HeroCaptions][locale]}</p>}
         {article.slug in kaneBallonDorHeroCaptions && <p data-kane-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{kaneBallonDorHeroCaptions[article.slug as keyof typeof kaneBallonDorHeroCaptions][locale]}</p>}

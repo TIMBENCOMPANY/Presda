@@ -76,7 +76,7 @@ for (const record of pilotRecords) {
   const html = renderToStaticMarkup(React.createElement(PublicationDocument, { locale: record.locale }, React.createElement(LocalizedPublication, { record })));
   assert.ok(html.includes(`<html lang="${record.locale}" dir="${record.locale === 'ar' ? 'rtl' : 'ltr'}"`));
   assert.equal((html.match(/<h1\b/g) ?? []).length, 1);
-  const hero = html.match(/<header class="article-hero relative isolate[\s\S]*?<\/header>/)?.[0];
+  const hero = html.match(/<header\b[^>]*class="article-hero\b[^\"]*"[^>]*>[\s\S]*?<\/header>/)?.[0];
   assert.ok(hero?.includes('<h1 class="article-hero-title text-white">'), 'Localized title lives inside the shared English hero');
   assert.ok(hero.includes('article-hero-image h-auto w-full object-contain'), 'Natural reader image preserves important content on mobile and desktop');
   assert.ok(hero.indexOf('article-hero-media') < hero.indexOf('article-hero-content'), 'One image precedes the shared hero content');
