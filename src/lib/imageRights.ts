@@ -10,6 +10,10 @@ type ImageRights = {
 // Exact published credits, not ownership or licensing inferred from a filename.
 // Provenance and deliberately unresolved fields: docs/image-rights-metadata.md.
 const publishedPresdaCredits = new Set([
+  // User-approved AI editorial illustrations: sport-science-oct30/REVIEW.md.
+  "/articles/alexander-zverev-first-world-number-one-ai-editorial.webp",
+  "/articles/milan-inter-generali-stadium-ai-editorial-concept.webp",
+  "/articles/crocodile-river-asteroid-survival-ai-illustration.webp",
   // Approved AI editorial concepts disclosed in titan-mes-oct30/REVIEW.md.
   "/articles/nasa-dragonfly-titan-name-campaign-ai-illustration.webp",
   "/articles/jennifer-lawrence-mes-haircare-ai-editorial.webp",

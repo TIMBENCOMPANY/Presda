@@ -1,0 +1,62 @@
+[
+  {
+    "key": "zverev",
+    "slug": "alexander-zverev-first-world-number-one-ranking",
+    "asset": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/f4901400-83e4-43be-85f1-2dee97b3abe7/1-1000087454.jpg",
+    "sourceDirectory": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/f4901400-83e4-43be-85f1-2dee97b3abe7",
+    "filename": "alexander-zverev-first-world-number-one-ai-editorial.webp",
+    "sha256": "deb69262bfe4dd926f6b3c1cabd11533a346b3ebe93742cd89360c4e958c5cac",
+    "originalSha256": "abf7d63c5a7cb0ec64726788d3ba7359d4f38bb7054e8ab048caa0e3e40537ec",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "stadium",
+    "slug": "ac-milan-inter-generali-stadium-future-home",
+    "asset": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/f4901400-83e4-43be-85f1-2dee97b3abe7/3-1000087450.jpg",
+    "sourceDirectory": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/f4901400-83e4-43be-85f1-2dee97b3abe7",
+    "filename": "milan-inter-generali-stadium-ai-editorial-concept.webp",
+    "sha256": "87712534ea80b75ddb3e8624291e48232f96fc784ad8d2c8362c35edd891c435",
+    "originalSha256": "c02f63c50525c1b1d2fb1a73516484472b8729dcfd8318715b163ef27ea02677",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "crocodiles",
+    "slug": "why-crocodiles-survived-dinosaur-asteroid",
+    "asset": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/f4901400-83e4-43be-85f1-2dee97b3abe7/2-1000087453.jpg",
+    "sourceDirectory": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/f4901400-83e4-43be-85f1-2dee97b3abe7",
+    "filename": "crocodile-river-asteroid-survival-ai-illustration.webp",
+    "sha256": "2a6bd47ecd6233b597db9c358419318ec606d96cc6b6eb19e444144220788b18",
+    "originalSha256": "7da4d4a2e49ddf235c2593d43fcd54ce10731ad61c7abc2db5ebdb1062a52d6c",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  }
+]

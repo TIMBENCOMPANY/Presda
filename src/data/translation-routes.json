@@ -106,6 +106,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/ac-milan-inter-generali-stadium-future-home/",
+    "path": "/ar/articles/ac-milan-inter-generali-stadium-future-home/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/ac-milan-inter-generali-stadium-future-home/",
+    "path": "/es/articles/ac-milan-inter-generali-stadium-future-home/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/ac-milan-inter-generali-stadium-future-home/",
+    "path": "/fr/articles/ac-milan-inter-generali-stadium-future-home/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/achraf-hakimi-king-of-africa/",
     "path": "/ar/articles/achraf-hakimi-king-of-africa/"
   },
@@ -223,6 +238,21 @@
     "locale": "fr",
     "englishPath": "/articles/alex-parrot-irene-pepperberg-animal-intelligence/",
     "path": "/fr/articles/alex-parrot-irene-pepperberg-animal-intelligence/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/alexander-zverev-first-world-number-one-ranking/",
+    "path": "/ar/articles/alexander-zverev-first-world-number-one-ranking/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/alexander-zverev-first-world-number-one-ranking/",
+    "path": "/es/articles/alexander-zverev-first-world-number-one-ranking/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/alexander-zverev-first-world-number-one-ranking/",
+    "path": "/fr/articles/alexander-zverev-first-world-number-one-ranking/"
   },
   {
     "locale": "ar",
@@ -5113,6 +5143,21 @@
     "locale": "fr",
     "englishPath": "/articles/who-controls-world-oil-middle-east-opec/",
     "path": "/fr/articles/who-controls-world-oil-middle-east-opec/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/why-crocodiles-survived-dinosaur-asteroid/",
+    "path": "/ar/articles/why-crocodiles-survived-dinosaur-asteroid/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/why-crocodiles-survived-dinosaur-asteroid/",
+    "path": "/es/articles/why-crocodiles-survived-dinosaur-asteroid/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/why-crocodiles-survived-dinosaur-asteroid/",
+    "path": "/fr/articles/why-crocodiles-survived-dinosaur-asteroid/"
   },
   {
     "locale": "ar",
