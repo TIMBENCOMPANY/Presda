@@ -1,0 +1,42 @@
+[
+  {
+    "key": "titan",
+    "slug": "nasa-send-your-name-titan-dragonfly",
+    "asset": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/04f04555-2d04-484d-8e25-4e66c6a616e0/1-1000087331.jpg",
+    "sourceDirectory": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/04f04555-2d04-484d-8e25-4e66c6a616e0",
+    "filename": "nasa-dragonfly-titan-name-campaign-ai-illustration.webp",
+    "sha256": "734b7d9bfb5eddb9bf3f5618f523a3c298e92841c0cab9cace895a438cf22c53",
+    "originalSha256": "173c969f230541085675c67123fa6bd9f746abcfeb67b72d2b569c994734599e",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  },
+  {
+    "key": "mes",
+    "slug": "jennifer-lawrence-mes-haircare-arcaea-launch",
+    "asset": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/04f04555-2d04-484d-8e25-4e66c6a616e0/2-1000087324.jpg",
+    "sourceDirectory": "C:/Users/Microsoft/Documents/Codex/2026-10-01/create-and-publish-a-comprehensive-world/.codex-remote-attachments/01a0f4ce-0a32-7250-ad29-0a799b09cab6/04f04555-2d04-484d-8e25-4e66c6a616e0",
+    "filename": "jennifer-lawrence-mes-haircare-ai-editorial.webp",
+    "sha256": "c614f8a6b3c6e594715f0de0ce0bb191f3acf1c374e8349f839d3ad2be5fde9e",
+    "originalSha256": "4fba508a1950d6da6f32d1faf6d3f291b81174003a827240c7b085e2b64589ae",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "conversion": {
+      "format": "webp",
+      "quality": 90,
+      "effort": 6,
+      "resize": false,
+      "crop": false
+    }
+  }
+]

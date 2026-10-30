@@ -2671,6 +2671,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/jennifer-lawrence-mes-haircare-arcaea-launch/",
+    "path": "/ar/articles/jennifer-lawrence-mes-haircare-arcaea-launch/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/jennifer-lawrence-mes-haircare-arcaea-launch/",
+    "path": "/es/articles/jennifer-lawrence-mes-haircare-arcaea-launch/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/jennifer-lawrence-mes-haircare-arcaea-launch/",
+    "path": "/fr/articles/jennifer-lawrence-mes-haircare-arcaea-launch/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/jerusalem-3000-years-kingdoms-faith-conquest/",
     "path": "/ar/articles/jerusalem-3000-years-kingdoms-faith-conquest/"
   },
@@ -3493,6 +3508,21 @@
     "locale": "fr",
     "englishPath": "/articles/nasa-moon-5g-wifi6-lunar-communications/",
     "path": "/fr/articles/nasa-moon-5g-wifi6-lunar-communications/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/nasa-send-your-name-titan-dragonfly/",
+    "path": "/ar/articles/nasa-send-your-name-titan-dragonfly/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/nasa-send-your-name-titan-dragonfly/",
+    "path": "/es/articles/nasa-send-your-name-titan-dragonfly/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/nasa-send-your-name-titan-dragonfly/",
+    "path": "/fr/articles/nasa-send-your-name-titan-dragonfly/"
   },
   {
     "locale": "ar",
