@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-31",
+  "problem": "Viewport-capped desktop frame combined with contain shrank the artwork sideways and left side bands.",
+  "fix": "For these three articles only, size the desktop media from the original image ratio at full available width. Keep Bruno typography, overlays, shared container and mobile stacking.",
+  "desktopHeight": "Follows image geometry rather than the viewport cap, allowing normal vertical page scrolling without clipping artwork.",
+  "articleEditions": 12,
+  "localViewportChecks": 84,
+  "widths": [
+    320,
+    390,
+    768,
+    844,
+    1024,
+    1366,
+    1920
+  ],
+  "checks": [
+    "Original image bytes preserved",
+    "Original source aspect ratio",
+    "Painted image spans full media width",
+    "No transforms or horizontal overflow",
+    "H1, subtitle, date and reading time contained within hero",
+    "H2 visibility",
+    "Shared Bruno typography",
+    "Bruno reference layout unchanged",
+    "SEO and image URL associations preserved"
+  ],
+  "status": "LOCAL_AND_VISUAL_VERIFIED",
+  "visualReview": {
+    "reference": "Giordano Bruno actual implementation and rendered hero",
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "es"
+    ],
+    "desktop": "1366x1200 full-hero captures",
+    "mobile": "390x1100 full-hero captures",
+    "results": "Full width, original aspect ratios, complete source edges and visible date/H1/subtitle/reading time; Bruno left unchanged"
+  }
+}
