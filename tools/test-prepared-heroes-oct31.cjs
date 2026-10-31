@@ -24,7 +24,7 @@ for(const a of articles){
 const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'}),results=[],refs={};
 try{
  for(const [width,height] of widths){
-  const p=await browser.newPage({viewport:{width,height}});await p.goto(base+'/articles/giordano-bruno-philosopher-heresy/',{waitUntil:'domcontentloaded'});await p.evaluate(()=>document.fonts.ready);await p.waitForTimeout(1000);
+  const p=await browser.newPage({viewport:{width,height}});await p.goto(base+'/articles/giordano-bruno-philosopher-heresy/',{waitUntil:'domcontentloaded'});await p.evaluate(()=>document.fonts.ready);if(width>=1024)await p.waitForFunction(()=>document.querySelector('.article-hero').style.getPropertyValue('--hero-viewport-height'));await p.waitForTimeout(1000);
   refs[width]=await p.locator('.article-hero').evaluate(h=>{const r=h.getBoundingClientRect();return{width:r.width,height:r.height,x:r.x}});await p.close();
  }
  for(const a of articles)for(const l of langs)for(const [width,height] of widths){
@@ -32,7 +32,7 @@ try{
   await page.addInitScript(()=>localStorage.setItem('presda.analytics-consent.v1',JSON.stringify({version:1,choice:'rejected',savedAt:Date.now()})));
   const route=(l==='en'?'':'/'+l)+'/articles/'+a.slug+'/',canonical='https://presda.com'+route;
   assert.equal((await page.goto(base+route,{waitUntil:'domcontentloaded',timeout:120000})).status(),200);
-  await page.evaluate(()=>document.fonts.ready);await page.locator('.article-hero-image').evaluate(i=>i.decode());await page.waitForTimeout(700);
+  await page.evaluate(()=>document.fonts.ready);await page.locator('.article-hero-image').evaluate(i=>i.decode());if(width>=1024)await page.waitForFunction(()=>document.querySelector('.article-hero').style.getPropertyValue('--hero-viewport-height'));await page.waitForTimeout(700);
   const d=await page.evaluate(()=>{
    const rect=s=>{const r=document.querySelector(s).getBoundingClientRect();return{x:r.x,y:r.y,width:r.width,height:r.height,bottom:r.bottom,right:r.right}};
    const i=document.querySelector('.article-hero-image'),style=getComputedStyle(i);
@@ -47,7 +47,7 @@ try{
   assert.equal(await page.locator('[data-prepared-oct31-hero-caption]').textContent(),captions[a.slug][l]);
   assert.equal(d.fit,'contain','Entire source artwork is visible');assert(d.natural[0]>0&&d.natural[1]>0);
   assert(Math.abs(d.hero.width-refs[width].width)<1,'Bruno frame width');assert(Math.abs(d.hero.x-refs[width].x)<1,'Bruno frame alignment');
-  if(width>=1024){assert(Math.abs(d.hero.height-refs[width].height)<1,'Bruno desktop frame height');assert(d.title.y>=d.hero.y&&d.meta.bottom<=d.hero.bottom+1,'Title and metadata fit frame');assert(d.hero.bottom<=height+1);}
+  if(width>=1024){assert(Math.abs(d.hero.height-refs[width].height)<1,'Bruno desktop frame height: '+JSON.stringify({route,actual:d.hero,reference:refs[width]}));assert(d.title.y>=d.hero.y&&d.meta.bottom<=d.hero.bottom+1,'Title and metadata fit frame');assert(d.hero.bottom<=height+1);}
   else assert(Math.abs(d.image.width/d.image.height-d.natural[0]/d.natural[1])<0.01,'Natural mobile image aspect ratio');
   // Contain scales both axes uniformly, with all four source edges inside the image element.
   const scale=Math.min(d.image.width/d.natural[0],d.image.height/d.natural[1]);assert(scale*d.natural[0]<=d.image.width+0.01&&scale*d.natural[1]<=d.image.height+0.01);
