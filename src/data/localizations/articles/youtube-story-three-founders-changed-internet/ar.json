@@ -1,0 +1,151 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/youtube-story-three-founders-changed-internet/",
+  "path": "/ar/articles/youtube-story-three-founders-changed-internet/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-10-31",
+    "terminologyChecked": true
+  },
+  "title": "قصة يوتيوب: كيف غيّر ثلاثة مؤسسين الإنترنت",
+  "seoTitle": "تاريخ يوتيوب: ثلاثة مؤسسين وثورة الفيديو على الإنترنت",
+  "description": "كيف أسس تشاد هيرلي وستيف تشين وجاويد كريم يوتيوب؟ من أول فيديو إلى استحواذ غوغل واقتصاد صناع المحتوى وأنظمة التوصية.",
+  "excerpt": "كيف أسس تشاد هيرلي وستيف تشين وجاويد كريم يوتيوب؟ من أول فيديو إلى استحواذ غوغل واقتصاد صناع المحتوى وأنظمة التوصية.",
+  "headlineHighlights": {
+    "red": "يوتيوب",
+    "gold": "ثلاثة مؤسسين"
+  },
+  "keywords": [
+    "يوتيوب",
+    "ثلاثة مؤسسين"
+  ],
+  "searchIntent": "كيف أسس تشاد هيرلي وستيف تشين وجاويد كريم يوتيوب؟ من أول فيديو إلى استحواذ غوغل واقتصاد صناع المحتوى وأنظمة التوصية.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-10-31",
+  "updatedAt": "2026-10-31",
+  "image": {
+    "src": "/articles/youtube-history-three-founders-online-video-editorial.webp",
+    "alt": "مشهد تحريري ليوتيوب على حاسوب محمول بجوار كاميرا وسماعات وكوب أحمر."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "قبل أن يصبح يوتيوب وجهة، كان الفيديو على الإنترنت مشكلة تحتاج إلى حل. تسجيل مقطع وتمكين شخص آخر من مشاهدته مهمتان منفصلتان، كثيراً ما تفصل بينهما برامج غير متوافقة وعمليات نقل مرهقة. ساعد ثلاثة مؤسسين في سد هذه الفجوة. وكان إنجازهم جعل الصورة المتحركة جزءاً عادياً من الويب، بنتائج تجاوزت زر رفع الفيديو بكثير. [المصدر: blog.youtube](https://blog.youtube/news-and-events/youtube-receives-35m-in-funding-from/)"
+    },
+    {
+      "type": "heading",
+      "text": "من أسس يوتيوب؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "أسس تشاد هيرلي وستيف تشين وجاويد كريم يوتيوب في 2005 بعد عملهم في باي بال. وفي رواية استرجاعية لدى سيكويا، يتذكر تشين الشكوك حول تقديم الفيديو عبر الويب مع انتشار النطاق العريض. تهم الأسماء الثلاثة: فالشركة التي نتذكرها بعلامة واحدة بدأت بمتعاونين يعالجون مشكلة عملية في الهندسة وتصميم المنتج. [المصدر: sequoiacap.com](https://sequoiacap.com/podcast/crucible-moments-youtube)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تؤرخ رواية يوتيوب الرسمية لتسجيل الموقع في 14 فبراير 2005. والتسجيل وأول رفع والإطلاق للجمهور الواسع محطات مختلفة. اختزالها في عيد ميلاد واحد يعطي قصة مرتبة، لكنه يخفي كيف يصبح المنتج قابلاً للاستخدام على مراحل، عبر التجارب والتعديلات وتزايد الطلب. [المصدر: blog.youtube](https://blog.youtube/news-and-events/youtube-at-15-my-personal-journey/)"
+    },
+    {
+      "type": "heading",
+      "text": "فيديو عن الفيلة بدلاً من بيان عظيم"
+    },
+    {
+      "type": "paragraph",
+      "text": "وصل أول فيديو، Me at the zoo، في 23 أبريل 2005. صُوّر المقطع الذي يدوم 18 ثانية في حديقة حيوان سان دييغو. تكمن أهميته في بساطته: يمكن لملاحظة قصيرة أن تصبح مادة تستحق المشاركة من دون استوديو أو قناة تلفزيونية أو إنتاج معقد. كانت عتبة نشر الصورة المتحركة تتغير. [المصدر: blog.youtube](https://blog.youtube/news-and-events/celebrating-10-years-of-youtube/)"
+    },
+    {
+      "type": "heading",
+      "text": "المشاركة كانت بأهمية المشاهدة"
+    },
+    {
+      "type": "paragraph",
+      "text": "لم تكن الفكرة الأولى مجرد مكتبة مقاطع. وصف إعلان 2005 رفع الفيديو وإضافة الوسوم ومشاركته عبر المواقع والمدونات والبريد. كان المقطع يستطيع الانتقال داخل حديث قائم في مكان آخر. حوّل منطق التوزيع هذا صفحة المشاهدة إلى جزء من الويب الأوسع، بدلاً من وجهة معزولة على المستخدم تذكّر زيارتها. [المصدر: blog.youtube](https://blog.youtube/news-and-events/youtube-receives-35m-in-funding-from/)"
+    },
+    {
+      "type": "heading",
+      "text": "استحواذ غوغل يغيّر الحجم"
+    },
+    {
+      "type": "paragraph",
+      "text": "في 9 أكتوبر 2006، أعلنت غوغل اتفاقاً لشراء يوتيوب مقابل 1.65 مليار دولار في صورة أسهم. ونص البيان الأصلي، المحفوظ في ملف لدى SEC، على احتفاظ الخدمة بهويتها. يشير التاريخ إلى إعلان الاتفاق، لا إلى اكتمال كل إجراء قانوني. كانت الأهمية في جمع مجتمع فيديو سريع النمو مع شركة تقنية أكبر بكثير. [المصدر: www.sec.gov](https://www.sec.gov/Archives/edgar/data/1288776/000119312506206884/dex991.htm)"
+    },
+    {
+      "type": "heading",
+      "text": "صناع المحتوى يدخلون النموذج الاقتصادي"
+    },
+    {
+      "type": "paragraph",
+      "text": "بدأ برنامج شركاء يوتيوب في 2007، مقدماً تقاسم الإيرادات مع صناع المحتوى المؤهلين. كان ذلك تحولاً في الحوافز. يمكن للقناة أن تصبح عملاً له جمهور وتكاليف إنتاج. لكن الأهلية والأرباح مسألتان مختلفتان: وجود البرنامج لم يعنِ أن كل مقطع مرفوع سيحقق دخلاً. [المصدر: blog.youtube](https://blog.youtube/news-and-events/introducing-expanded-youtube-partner/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "كانت حقوق المؤلف تحدياً بنيوياً آخر. ووفق شرح يوتيوب الاسترجاعي، أُطلق Content ID في أكتوبر 2007. تكشف الحاجة إلى إدارة الحقوق عن توتر داخل النشر المفتوح: سهولة المشاركة لا تثبت الإذن بإعادة الاستخدام. وعلى المنصة الناجحة إدارة هذا الفرق بجدية إدارة تشغيل الفيديو نفسه. [المصدر: blog.youtube](https://blog.youtube/news-and-events/content-id-and-fair-use/)"
+    },
+    {
+      "type": "heading",
+      "text": "من أرشيف فيديو إلى نظام يختار"
+    },
+    {
+      "type": "paragraph",
+      "text": "في شرحه التقني لعام 2021، قال يوتيوب إن التوصيات تولد مشاهدة أكثر من الاشتراكات أو البحث، وذكر إشارات مثل وقت المشاهدة واستطلاعات الرضا. هذا شرح الشركة لنظامها وليس تدقيقاً مستقلاً. ويبقى السؤال التحريري الأوسع: عندما تساعد المنصة في اختيار ما يأتي تالياً، تصبح قراراتها جزءاً من تجربة المشاهدة. [المصدر: blog.youtube](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "بدأت النسخة التجريبية المبكرة من Shorts في الهند في سبتمبر 2020، في إشارة أخرى إلى استمرار تكيّف صيغ المنصة. ومع ذلك يبقى السؤال المؤسس مألوفاً: ما مدى سهولة أن يصنع الإنسان شيئاً ويجد جمهوراً؟ تاريخ يوتيوب هو إزالة هذه العقبة ثم اكتشاف المسؤوليات الناتجة. استكشف قصص المنصات والتحول التقني في قسم الذكاء الاصطناعي والتقنية لدى بريزدا. [المصدر: blog.youtube](https://blog.youtube/news-and-events/one-year-of-youtube-shorts-what-weve-learned-so-far/) [استكشف القسم](/category/ai/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "اقرأ أيضاً: [حروب أجهزة الألعاب وتشكّل الثقافة الرقمية](/articles/console-wars-playstation-xbox-nintendo/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: blog.youtube",
+      "url": "https://blog.youtube/news-and-events/youtube-receives-35m-in-funding-from/"
+    },
+    {
+      "label": "المصدر: sequoiacap.com",
+      "url": "https://sequoiacap.com/podcast/crucible-moments-youtube"
+    },
+    {
+      "label": "المصدر: blog.youtube",
+      "url": "https://blog.youtube/news-and-events/youtube-at-15-my-personal-journey/"
+    },
+    {
+      "label": "المصدر: blog.youtube",
+      "url": "https://blog.youtube/news-and-events/celebrating-10-years-of-youtube/"
+    },
+    {
+      "label": "المصدر: www.sec.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1288776/000119312506206884/dex991.htm"
+    },
+    {
+      "label": "المصدر: blog.youtube",
+      "url": "https://blog.youtube/news-and-events/introducing-expanded-youtube-partner/"
+    },
+    {
+      "label": "المصدر: blog.youtube",
+      "url": "https://blog.youtube/news-and-events/content-id-and-fair-use/"
+    },
+    {
+      "label": "المصدر: blog.youtube",
+      "url": "https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/"
+    },
+    {
+      "label": "المصدر: blog.youtube",
+      "url": "https://blog.youtube/news-and-events/one-year-of-youtube-shorts-what-weve-learned-so-far/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "من هم مؤسسو يوتيوب الثلاثة؟",
+      "answer": "أسس تشاد هيرلي وستيف تشين وجاويد كريم يوتيوب في 2005 بعد عملهم في باي بال."
+    },
+    {
+      "question": "متى أعلنت غوغل استحواذها على يوتيوب؟",
+      "answer": "أعلنت غوغل اتفاق الاستحواذ مقابل 1.65 مليار دولار في صورة أسهم في 9 أكتوبر 2006."
+    }
+  ]
+}

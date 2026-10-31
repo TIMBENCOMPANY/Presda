@@ -101,6 +101,8 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  // Supplied for this publication. Creator, copyright and reuse terms were not provided.
+  if (["/articles/johan-cruyff-total-football-netherlands-editorial.webp","/articles/white-dwarf-j1328-1450-two-debris-rings-illustration.webp","/articles/youtube-history-three-founders-online-video-editorial.webp"].includes(source)) return { creditText: "Image supplied for PRESDA" };
   if (source === "/articles/tiger-mother-cubs-editorial.webp") {
     // Supplied by the user; photographer, location and reuse terms not inferred.
     return { creditText: "User-supplied editorial image" };

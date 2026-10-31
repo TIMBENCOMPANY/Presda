@@ -1,3 +1,5 @@
+import preparedHeroesOct31HeroCaptions from "@/data/preparedHeroesOct31HeroCaptions.json";
+import { breadcrumbJsonLd } from "@/lib/seo";
 import sportScienceOct30HeroCaptions from "@/data/sportScienceOct30HeroCaptions.json";
 import titanMesOct30HeroCaptions from "@/data/titanMesOct30HeroCaptions.json";
 import scienceTrioOct29HeroCaptions from "@/data/scienceTrioOct29HeroCaptions.json";
@@ -333,6 +335,12 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
 
   return (
     <main className="home-page" data-article-locale={locale}>
+      {locale !== "en" && article.slug in preparedHeroesOct31HeroCaptions && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd([
+        { name: t.home, url: languageDestination("/", locale, translationRoutes) },
+        { name: t.articles, url: languageDestination("/articles/", locale, translationRoutes) },
+        { name: localizedCategories[locale][article.category], url: languageDestination(`/category/${toCategorySlug(article.category)}/`, locale, translationRoutes) },
+        { name: article.title, url: canonicalPath ?? `/${locale}/articles/${article.slug}/` }
+      ])).replace(/</g, "\\u003c") }} />}
       <ArticleReadingProgress />
       <article className="mx-auto w-[min(1500px,calc(100%_-_24px))] py-5 sm:w-[min(1500px,calc(100%_-_32px))] sm:py-8 lg:pb-10 lg:pt-5" data-article-progress-root>
         <nav className="mb-4 flex flex-wrap items-center gap-2 px-1 font-display text-[11px] font-extrabold uppercase tracking-wide text-[color:var(--home-muted)] sm:mb-5" aria-label={labels.breadcrumb}>
@@ -345,7 +353,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </Link>
         </nav>
 
-        <header style={{ "--hero-image-ratio": heroDimensions.width / heroDimensions.height } as CSSProperties} className={`article-hero${article.heroImageFit === "contain" ? " article-hero--natural-frame" : ""}${article.slug === "bacteria-good-bad-microbes-shape-our-lives" ? " article-hero--bacteria" : ""}${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
+        <header style={{ "--hero-image-ratio": heroDimensions.width / heroDimensions.height } as CSSProperties} className={`article-hero${article.slug in preparedHeroesOct31HeroCaptions ? " article-hero--prepared-oct31" : ""}${article.heroImageFit === "contain" ? " article-hero--natural-frame" : ""}${article.slug === "bacteria-good-bad-microbes-shape-our-lives" ? " article-hero--bacteria" : ""}${article.slug === "our-universe-big-bang-end-of-time" ? " article-hero--universe" : ""}${standaloneHero ? " article-hero--standalone" : ""} relative isolate overflow-hidden rounded-2xl border border-[color:var(--home-border)] bg-[#050505] shadow-[var(--home-card-shadow)]`}>
           <DesktopArticleHeroFit />
           <div className="article-hero-media relative">
             <Image
@@ -399,6 +407,7 @@ export function ArticleLayout({ article, relatedArticles, locale = "en", canonic
           </div>
         </header>
         {article.slug in mbappeChinaHeroCaptions && <p data-mbappe-china-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{mbappeChinaHeroCaptions[article.slug as keyof typeof mbappeChinaHeroCaptions][locale]}</p>}
+        {article.slug in preparedHeroesOct31HeroCaptions && <p data-prepared-oct31-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{preparedHeroesOct31HeroCaptions[article.slug as keyof typeof preparedHeroesOct31HeroCaptions][locale]}</p>}
         {article.slug in sportScienceOct30HeroCaptions && <p data-sport-science-oct30-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{sportScienceOct30HeroCaptions[article.slug as keyof typeof sportScienceOct30HeroCaptions][locale]}</p>}
         {article.slug in titanMesOct30HeroCaptions && <p data-titan-mes-oct30-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{titanMesOct30HeroCaptions[article.slug as keyof typeof titanMesOct30HeroCaptions][locale]}</p>}
         {article.slug in scienceTrioOct29HeroCaptions && <p data-science-trio-oct29-hero-caption className="mt-3 text-xs leading-relaxed text-[color:var(--home-muted)]">{scienceTrioOct29HeroCaptions[article.slug as keyof typeof scienceTrioOct29HeroCaptions][locale]}</p>}

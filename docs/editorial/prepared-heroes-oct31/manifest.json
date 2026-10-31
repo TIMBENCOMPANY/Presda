@@ -1,0 +1,50 @@
+[
+  {
+    "key": "cruyff",
+    "slug": "johan-cruyff-man-changed-football-forever",
+    "sourceSha256": "0aa52c4b9ff08b0d2a10f6af0705b906626d09d1429d6f304acdaaaa6f47474a",
+    "sha256": "a165e4a164f168c8b231e124bf818848189af2ebf9762a3a45dcaeed37139144",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "bytes": 73412,
+    "image": "/articles/johan-cruyff-total-football-netherlands-editorial.webp",
+    "credit": "Image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "originalFilename": "1000087578.jpg"
+  },
+  {
+    "key": "rings",
+    "slug": "white-dwarf-j1328-1450-two-mysterious-rings",
+    "sourceSha256": "eee1baa5f208137755362f2f71f74276423e82631258ca717845d06f41a110c4",
+    "sha256": "83864a121950fe1633c49e0380c20d06b49db18903cb17ee06fe7f36760fc83a",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "bytes": 35974,
+    "image": "/articles/white-dwarf-j1328-1450-two-debris-rings-illustration.webp",
+    "credit": "Image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "originalFilename": "1000087577.jpg"
+  },
+  {
+    "key": "youtube",
+    "slug": "youtube-story-three-founders-changed-internet",
+    "sourceSha256": "30e37b2130a7947e009af75d0490ba5398fbf61742f8d6c7fc8f385c363602a2",
+    "sha256": "d3cb8e62197009403bffbbfac95c91b074a8741e075b484cbaf57d56247ec0ed",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "bytes": 50072,
+    "image": "/articles/youtube-history-three-founders-online-video-editorial.webp",
+    "credit": "Image supplied for PRESDA",
+    "creator": null,
+    "license": null,
+    "originalFilename": "1000087579.jpg"
+  }
+]
