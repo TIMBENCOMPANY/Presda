@@ -1,0 +1,107 @@
+[
+  {
+    "key": "dinosaur",
+    "slug": "infernogallus-jamesi-fruit-eating-dinosaur",
+    "original": "3-1000087750.jpg",
+    "sourceSha256": "b684e061d52d929597addee9776c98e6893f390882b6c67abc697cc67e635b46",
+    "sha256": "437f08162948d18cd6928a7dff945f4b77cd101342f2191d7fbf563854c4aaf9",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 199182,
+    "image": "/articles/infernogallus-fruit-eating-dinosaur-editorial.webp",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "cat",
+    "slug": "leopardus-tilcayo-new-wild-cat-species",
+    "original": "4-1000087749.jpg",
+    "sourceSha256": "a2f260931a9c296ec3c7340487a907d090fd4868ea756849a8a4dd1351adf23e",
+    "sha256": "d2fe3cb1777254ac4b7836bb5e5b53e0ca9dc663f06218a495671f6b11337fb4",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 126158,
+    "image": "/articles/leopardus-tilcayo-new-wild-cat-editorial.webp",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "amber",
+    "slug": "cretodorus-noonoo-99-million-year-old-amber-insect",
+    "original": "1-1000087752.jpg",
+    "sourceSha256": "90d47dbfdeebfcd2dd4461a393537aa54a563f4474405141dc7866fbdf9a661b",
+    "sha256": "20cf5be0850adc6d44e936a0bd31aa3523d50641ace2871dcbcde0338d3d15ad",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 189228,
+    "image": "/articles/cretodorus-noonoo-cretaceous-amber-insect-editorial.webp",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "whales",
+    "slug": "why-sperm-whales-sleep-vertically",
+    "original": "2-1000087751.jpg",
+    "sourceSha256": "e7c0ac0004d7f0ae6759f9bd5948c8db2e9b91779e64d855352f10e1fef7fadb",
+    "sha256": "463c93b936cf888d53cb00cf99e10020a85b9399fad74c8ad0b208dc68cbfcba",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 86752,
+    "image": "/articles/sperm-whales-vertical-sleep-editorial.webp",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "alcaraz",
+    "slug": "carlos-alcaraz-vienna-open-2026-final-de-minaur",
+    "original": "5-1000087741.jpg",
+    "sourceSha256": "f17af4731af4749110b5a308d5f6093c45dbdefcabfcf93afb4bb576bdff8dcc",
+    "sha256": "2c6b3e3dcbc0d300d3dc0494f7949d99bb73acd468afbb0595bc3f25464470fb",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 85016,
+    "image": "/articles/carlos-alcaraz-vienna-open-2026-editorial.webp",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]

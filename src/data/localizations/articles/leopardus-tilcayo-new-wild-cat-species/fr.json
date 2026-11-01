@@ -1,0 +1,115 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/leopardus-tilcayo-new-wild-cat-species/",
+  "path": "/fr/articles/leopardus-tilcayo-new-wild-cat-species/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-01",
+    "terminologyChecked": true
+  },
+  "title": "UNE NOUVELLE ESPÈCE DE FÉLIN SAUVAGE DÉCOUVERTE APRÈS PLUS D’UN SIÈCLE",
+  "seoTitle": "Leopardus tilcayo, une nouvelle espèce de félin en Bolivie",
+  "description": "Les génomes révèlent Leopardus tilcayo dans les Yungas de Bolivie. Comprendre cette nouvelle espèce et le sens précis de « première depuis un siècle ».",
+  "excerpt": "Les génomes révèlent Leopardus tilcayo dans les Yungas de Bolivie. Comprendre cette nouvelle espèce et le sens précis de « première depuis un siècle ».",
+  "headlineHighlights": {
+    "red": "FÉLIN SAUVAGE",
+    "gold": "PLUS D’UN SIÈCLE"
+  },
+  "keywords": [
+    "FÉLIN SAUVAGE",
+    "PLUS D’UN SIÈCLE"
+  ],
+  "searchIntent": "Les génomes révèlent Leopardus tilcayo dans les Yungas de Bolivie. Comprendre cette nouvelle espèce et le sens précis de « première depuis un siècle ».",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "image": {
+    "src": "/articles/leopardus-tilcayo-new-wild-cat-editorial.webp",
+    "alt": "Illustration éditoriale d’un petit félin tacheté, pas une photographie authentifiée de Leopardus tilcayo"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un petit félin tacheté passe facilement inaperçu dans une famille célèbre pour les lions et les tigres. En Bolivie, cet animal a révélé une lacune dans la carte scientifique des félins sud-américains. Des chercheurs ont décrit Leopardus tilcayo, une lignée distincte des forêts des Yungas. La découverte reconnaît un animal existant ; elle ne correspond pas à son apparition soudaine."
+    },
+    {
+      "type": "heading",
+      "text": "Comment l’ADN a révélé le tilcayo"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude de Current Biology a comparé les génomes complets de 38 félins, dont huit spécimens de musée. Elle distingue cinq espèces dans le complexe des chats-tigres et décrit L. tilcayo en Bolivie. L’ADN des collections a aidé à vérifier les identités historiques, associant prélèvements actuels et nouvelle lecture des anciens spécimens. [Source: www.sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0960982226011103)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cette méthode compte parce que des robes similaires peuvent cacher des histoires évolutives différentes. Une photographie peut justifier une étude approfondie, mais ne définit pas seule une espèce. Les comparaisons génomiques testent l’existence d’une lignée évolutive indépendante, au lieu de s’appuyer sur une tache spectaculaire ou un individu exceptionnellement petit."
+    },
+    {
+      "type": "heading",
+      "text": "Une découverte qui reconnaît aussi les savoirs locaux"
+    },
+    {
+      "type": "paragraph",
+      "text": "La National Geographic Society, qui soutenait l’exploratrice Paola Nogales-Ascarrunz, situe le félin dans la forêt de nuages des Yungas et documente l’animal du refuge qui a attiré l’attention scientifique. Le nom conserve « tilcayo », une appellation locale. Être nouveau pour la taxonomie ne signifie pas être inconnu des populations partageant cet habitat. [Source: news.nationalgeographic.org](https://news.nationalgeographic.org/photos-new-wild-cat-species/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’université de l’équipe présente le résultat comme la première description formelle d’une espèce vivante de félin portant un nom nouveau depuis plus d’un siècle. La précision compte : d’autres classifications ont été révisées entre-temps, avec restauration d’anciens noms ou séparation de populations. Il ne s’agit donc pas d’un siècle sans changement taxonomique chez les félins. [Source: hmg-portal.pucrs.br](https://hmg-portal.pucrs.br/noticias/pesquisa/nova-especie-de-felino-leopardus-tilcayo/)"
+    },
+    {
+      "type": "heading",
+      "text": "Cinq lignées ne signifient pas cinq découvertes entièrement nouvelles"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’étude soutient quatre espèces déjà proposées aux côtés du tilcayo nouvellement décrit et reconnaît une sous-espèce péruvienne de L. tigrinus. Ce sont des résultats taxonomiques différents. Présenter chaque lignée confirmée comme une espèce nouvellement découverte exagérerait le résultat. L’apport est un arbre généalogique plus clair et un nom distinct pour un animal qui n’y trouvait pas sa place."
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi un nom compte pour la conservation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconnaître une espèce change l’unité à évaluer pour la conservation. Une population auparavant intégrée à un félin largement répandu peut nécessiter ses propres relevés de répartition, d’habitat et de menaces. Les génomes ne fournissent pas seuls un effectif actuel. Il faut désormais étudier les lieux de vie, les connexions entre populations et les pressions subies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le visuel fourni représente un félin tacheté à des fins éditoriales. Ce n’est ni une photographie authentifiée de l’animal étudié ni un guide d’identification. Les limites de l’apparence étaient précisément au cœur du problème scientifique. Pour une autre histoire féline, découvrez [les chats et les humains](/articles/cats-humans-domestication-history/), consacrée à la domestication plutôt qu’à la description d’une espèce sauvage."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [L’histoire partagée des chats et des humains](/articles/cats-humans-domestication-history/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.sciencedirect.com",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0960982226011103"
+    },
+    {
+      "label": "Source: news.nationalgeographic.org",
+      "url": "https://news.nationalgeographic.org/photos-new-wild-cat-species/"
+    },
+    {
+      "label": "Source: hmg-portal.pucrs.br",
+      "url": "https://hmg-portal.pucrs.br/noticias/pesquisa/nova-especie-de-felino-leopardus-tilcayo/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Comment s’appelle le nouveau félin ?",
+      "answer": "Leopardus tilcayo, une espèce de chat-tigre nouvellement décrite dans les forêts des Yungas de Bolivie."
+    },
+    {
+      "question": "« Nouvelle espèce » signifie-t-il qu’elle est apparue en 2026 ?",
+      "answer": "Non. L’animal existait déjà. L’étude de 2026 a distingué et nommé formellement sa lignée évolutive."
+    },
+    {
+      "question": "Cinq espèces entièrement nouvelles ont-elles été découvertes ?",
+      "answer": "Non. L’étude soutient cinq espèces au total, dont quatre déjà proposées et le tilcayo nouvellement décrit."
+    }
+  ]
+}

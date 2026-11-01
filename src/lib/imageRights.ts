@@ -101,6 +101,8 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  // User-approved editorial images; no original creator or licence supplied.
+  if (["/articles/infernogallus-fruit-eating-dinosaur-editorial.webp","/articles/leopardus-tilcayo-new-wild-cat-editorial.webp","/articles/cretodorus-noonoo-cretaceous-amber-insect-editorial.webp","/articles/sperm-whales-vertical-sleep-editorial.webp","/articles/carlos-alcaraz-vienna-open-2026-editorial.webp"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // User-approved conceptual artwork. No creator or reuse licence was supplied.
   if (["/articles/why-zebras-black-white-stripes-ai-editorial.webp","/articles/ai-city-traffic-lights-ai-editorial.webp","/articles/hidden-world-beneath-antarctica-ice-ai-concept.webp"].includes(source)) return { creditText: "AI-generated editorial illustration supplied for PRESDA" };
   // Supplied for this publication. Creator, copyright and reuse terms were not provided.

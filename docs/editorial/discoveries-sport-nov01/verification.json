@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-01",
+  "baselineCommit": "4cbfd28dc0d802cbc63f7f954245850d4c0bd683",
+  "productionBuild": {
+    "status": "passed",
+    "generatedPages": 1560
+  },
+  "localBrowser": {
+    "status": "passed",
+    "editions": 20,
+    "viewports": 140,
+    "widths": [
+      320,
+      390,
+      768,
+      844,
+      1024,
+      1366,
+      1920
+    ],
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "es"
+    ],
+    "checks": [
+      "HTTP 200",
+      "localized H1/title/description",
+      "white red and gold headline accents",
+      "self canonical",
+      "reciprocal hreflang and x-default",
+      "Article/NewsArticle and ImageObject",
+      "localized BreadcrumbList",
+      "source citations",
+      "localized alt and visible credits",
+      "original image hashes",
+      "native aspect ratio and both side edges",
+      "no image transforms or horizontal overflow",
+      "Bruno width/alignment/typography",
+      "H1/deck/date/read-time contained",
+      "visible H2 and FAQ",
+      "internal link destinations",
+      "category membership",
+      "exact article/image sitemap mapping",
+      "crawl access",
+      "news sitemap limited to match report",
+      "Arabic final-score digit order measured at all seven widths"
+    ]
+  },
+  "visualReview": {
+    "status": "passed",
+    "fullHeroCaptures": 42,
+    "languageContactSheets": 10,
+    "brunoComparisonSheets": 2,
+    "desktopWidth": 1366,
+    "mobileWidth": 390,
+    "correctedArabicScores": true
+  },
+  "baselineRecords": "All pre-existing translations, routes and image dimensions unchanged",
+  "publication": "Deployment and final live evidence retained separately in task outputs."
+}
