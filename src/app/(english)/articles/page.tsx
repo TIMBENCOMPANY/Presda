@@ -7,6 +7,8 @@ export const metadata: Metadata = createPageMetadata({
   path: "/articles/"
 });
 
-export const revalidate = 3600;
+// The archive reads repository content only. Refresh it with each publication
+// deployment, matching the localized archives, instead of rewriting it hourly.
+export const revalidate = false;
 
 export default function ArticlesPage() { return <ArticlesPageContent />; }
