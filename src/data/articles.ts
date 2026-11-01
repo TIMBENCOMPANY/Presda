@@ -1,3 +1,4 @@
+import { scienceAiNov01Articles } from "@/data/scienceAiNov01Articles";
 import { preparedHeroesOct31Articles } from "@/data/preparedHeroesOct31Articles";
 import { sportScienceOct30Articles } from "@/data/sportScienceOct30Articles";
 import { titanMesOct30Articles } from "@/data/titanMesOct30Articles";
@@ -225,6 +226,7 @@ export type Article = {
 };
 
 export const articles: Article[] = [
+  ...scienceAiNov01Articles,
   ...preparedHeroesOct31Articles,
   ...premiumBatch2026Articles,
   teslaArticle,

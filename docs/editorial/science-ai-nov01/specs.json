@@ -1,0 +1,663 @@
+[
+  {
+    "key": "zebra",
+    "slug": "why-zebras-black-white-stripes-science",
+    "category": "Science",
+    "image": "why-zebras-black-white-stripes-ai-editorial.webp",
+    "attachment": "3-1000087662.jpg",
+    "tags": [
+      "Zebras",
+      "Evolution",
+      "Animal behaviour",
+      "Biting flies"
+    ],
+    "related": "alex-parrot-irene-pepperberg-animal-intelligence",
+    "relatedLabel": [
+      "Animal intelligence and Alex the parrot",
+      "L’intelligence animale et le perroquet Alex",
+      "ذكاء الحيوانات والببغاء أليكس",
+      "La inteligencia animal y el loro Alex"
+    ],
+    "meta": {
+      "en": [
+        "WHY ARE ZEBRAS BLACK AND WHITE?",
+        "Why Are Zebras Black and White? The Science of Stripes",
+        "Why do zebras have stripes? Explore the strongest evidence for biting-fly defence, the limits of camouflage and cooling theories, and what remains uncertain.",
+        "ZEBRAS",
+        "BLACK AND WHITE",
+        "AI editorial illustration of a full-body zebra with black and white stripes standing beside vegetation"
+      ],
+      "fr": [
+        "POURQUOI LES ZÈBRES SONT-ILS NOIRS ET BLANCS ?",
+        "Pourquoi les zèbres sont-ils noirs et blancs ?",
+        "Pourquoi les zèbres ont-ils des rayures ? Découvrez les preuves concernant les mouches piqueuses, les limites des autres hypothèses et les questions ouvertes.",
+        "ZÈBRES",
+        "NOIRS ET BLANCS",
+        "Illustration éditoriale par IA d’un zèbre entier aux rayures noires et blanches près de la végétation"
+      ],
+      "ar": [
+        "لماذا الحُمُر الوحشية مخططة بالأسود والأبيض؟",
+        "لماذا الحمر الوحشية مخططة بالأسود والأبيض؟",
+        "لماذا تملك الحمر الوحشية خطوطاً؟ اكتشف أدلة الحماية من الذباب اللاسع وحدود فرضيات التمويه والتبريد والأسئلة التي ما زالت مفتوحة.",
+        "الحُمُر الوحشية",
+        "بالأسود والأبيض",
+        "رسم تحريري مولد بالذكاء الاصطناعي لحمار وحشي كامل الجسم بخطوط سوداء وبيضاء قرب النباتات"
+      ],
+      "es": [
+        "¿POR QUÉ LAS CEBRAS SON BLANCAS Y NEGRAS?",
+        "¿Por qué las cebras son blancas y negras?",
+        "¿Para qué sirven las rayas de las cebras? Analizamos las pruebas sobre moscas picadoras, los límites del camuflaje y la refrigeración, y las dudas pendientes.",
+        "CEBRAS",
+        "BLANCAS Y NEGRAS",
+        "Ilustración editorial con IA de una cebra de cuerpo entero con rayas blancas y negras junto a vegetación"
+      ]
+    },
+    "blocks": [
+      {
+        "en": "A zebra seems to advertise itself. Against grass, dust or trees, its stripes look almost impossible to miss. Yet an evolutionary explanation has to answer a harder question than why the pattern looks striking to us: what advantage could it give the animal wearing it?",
+        "fr": "Un zèbre semble se signaler à tous. Dans l’herbe, la poussière ou les arbres, ses rayures paraissent impossibles à manquer. Mais l’évolution pose une question plus difficile que leur effet visuel sur nous : quel avantage procurent-elles à l’animal qui les porte ?",
+        "ar": "يبدو الحمار الوحشي كأنه يعلن عن مكانه. فخطوطه بارزة أمام العشب والتراب والأشجار. لكن تفسيرها تطورياً يتطلب سؤالاً أصعب من سبب لفتها أنظارنا: ما الفائدة التي تمنحها للحيوان الذي يحملها؟",
+        "es": "Una cebra parece anunciar su presencia. Entre hierba, polvo o árboles, sus rayas resultan difíciles de ignorar. Pero una explicación evolutiva debe responder a una pregunta más exigente que su efecto visual en nosotros: ¿qué ventaja ofrecen al animal que las lleva?"
+      },
+      {
+        "en": "The short answer: stripes interfere with biting flies",
+        "fr": "La réponse courte : les rayures gênent les mouches piqueuses",
+        "ar": "الإجابة المختصرة: الخطوط تربك الذباب اللاسع",
+        "es": "La respuesta breve: las rayas dificultan el aterrizaje de las moscas",
+        "heading": true
+      },
+      {
+        "en": "The strongest experimental explanation is that stripes reduce successful landings by biting flies, especially horseflies. In a 2019 study, flies approached zebras and horses, but landed less often on zebras. Striped coats placed on horses also reduced landings on the covered areas. This is protection against landing, not an invisible shield against every insect.",
+        "fr": "L’explication expérimentale la plus solide est que les rayures réduisent les atterrissages des mouches piqueuses, notamment des taons. En 2019, des chercheurs ont observé des approches vers les zèbres et les chevaux, mais moins d’atterrissages sur les zèbres. Des couvertures rayées protégeaient aussi les zones couvertes des chevaux, sans constituer un bouclier universel contre les insectes.",
+        "ar": "أقوى تفسير تجريبي هو أن الخطوط تقلل نجاح هبوط الذباب اللاسع، خصوصاً ذباب الخيل. في دراسة عام 2019 اقترب الذباب من الحمر الوحشية والخيول، لكنه هبط أقل على الحمر الوحشية. وقللت أغطية مخططة وُضعت على الخيول الهبوط على المناطق المغطاة. إنها عرقلة للهبوط، وليست درعاً ضد كل الحشرات.",
+        "es": "La explicación experimental más sólida es que las rayas reducen los aterrizajes de moscas picadoras, especialmente tábanos. En un estudio de 2019, las moscas se acercaban a cebras y caballos, pero aterrizaban menos sobre las cebras. Las mantas rayadas también protegían las zonas cubiertas de los caballos, sin crear un escudo contra todos los insectos.",
+        "source": [
+          "Caro et al., PLOS ONE (2019)",
+          "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210831"
+        ]
+      },
+      {
+        "en": "The coats are a crucial part of the experiment. Comparing a horse with a zebra leaves differences in smell, movement and temperament. Changing the pattern worn by the same kind of animal helps isolate the visual effect. The useful question becomes whether a fly can complete its final approach, rather than whether it notices a zebra at all.",
+        "fr": "Les couvertures sont essentielles dans cette expérience. Comparer un cheval à un zèbre laisse intervenir l’odeur, les mouvements et le tempérament. Modifier le motif porté par un même type d’animal aide à isoler l’effet visuel. La question devient alors l’achèvement de l’approche finale, plutôt que la simple détection du zèbre.",
+        "ar": "للأغطية أهمية خاصة في التجربة. فمقارنة حصان بحمار وحشي تترك اختلافات في الرائحة والحركة والسلوك. أما تغيير النقش على النوع نفسه فيساعد على عزل الأثر البصري. يصبح السؤال المفيد هو قدرة الذبابة على إتمام الاقتراب الأخير، لا مجرد ملاحظتها الحيوان.",
+        "es": "Las mantas son fundamentales. Comparar un caballo con una cebra deja diferencias de olor, movimiento y comportamiento. Cambiar el patrón que lleva un mismo tipo de animal ayuda a aislar el efecto visual. La pregunta útil pasa a ser si la mosca completa la aproximación final, no simplemente si detecta a la cebra."
+      },
+      {
+        "en": "Why the landing mechanism is still being tested",
+        "fr": "Pourquoi le mécanisme reste à préciser",
+        "ar": "لماذا لا تزال آلية الهبوط قيد البحث؟",
+        "es": "Por qué aún se investiga el mecanismo",
+        "heading": true
+      },
+      {
+        "en": "Experiments reported in 2023 found fewer landings on strongly contrasting patterns with small dark elements. The results did not support several proposed visual-illusion mechanisms under the conditions tested. Researchers can therefore be more confident that pattern matters than that one particular optical explanation has solved the whole problem.",
+        "fr": "Des expériences publiées en 2023 ont relevé moins d’atterrissages sur des motifs très contrastés comportant de petits éléments sombres. Elles n’ont pas confirmé plusieurs mécanismes d’illusion visuelle proposés dans les conditions testées. L’effet du motif est donc mieux établi qu’une explication optique unique censée tout résoudre.",
+        "ar": "وجدت تجارب نُشرت عام 2023 هبوطاً أقل على أنماط عالية التباين ذات عناصر داكنة صغيرة. ولم تدعم النتائج عدة آليات مقترحة للخداع البصري في الظروف المختبرة. لذلك فالثقة في أهمية النمط أكبر من الثقة في تفسير بصري واحد يحل المسألة بالكامل.",
+        "es": "Experimentos publicados en 2023 registraron menos aterrizajes en patrones muy contrastados con elementos oscuros pequeños. No respaldaron varios mecanismos propuestos de ilusión visual en las condiciones estudiadas. Así, la importancia del patrón está mejor establecida que una única explicación óptica capaz de resolver todo el problema.",
+        "source": [
+          "University of Bristol, experiments on stripe patterns (2023)",
+          "https://www.bristol.ac.uk/news/2023/february/zebra-stripes.html"
+        ]
+      },
+      {
+        "en": "There is also a difference between showing a benefit today and reconstructing its evolutionary origin. A comparative study published in 2014 found associations between striping and biting-fly pressure across equids. That geographical evidence complements the experiments, but a correlation alone cannot identify every selective force in the past.",
+        "fr": "Il faut aussi distinguer un avantage mesurable aujourd’hui de son origine évolutive. Une étude comparative de 2014 a trouvé des associations entre les rayures et la pression des mouches piqueuses chez les équidés. Cette géographie complète les expériences, mais une corrélation ne révèle pas toutes les forces de sélection passées.",
+        "ar": "وهناك فرق بين إثبات فائدة حالية وإعادة بناء أصلها التطوري. وجدت دراسة مقارنة عام 2014 ارتباطات بين التخطيط وضغط الذباب اللاسع لدى الخيليات. تكمل هذه الأدلة الجغرافية التجارب، لكن الارتباط وحده لا يكشف كل ضغوط الانتقاء القديمة.",
+        "es": "También hay que distinguir una ventaja actual de su origen evolutivo. Un estudio comparativo de 2014 encontró asociaciones entre las rayas y la presión de moscas picadoras en équidos. Esa evidencia geográfica complementa los experimentos, pero una correlación no identifica todas las fuerzas selectivas del pasado.",
+        "source": [
+          "Caro et al., Nature Communications (2014)",
+          "https://www.nature.com/articles/ncomms4535"
+        ]
+      },
+      {
+        "en": "What about camouflage and cooling?",
+        "fr": "Et le camouflage ou le refroidissement ?",
+        "ar": "وماذا عن التمويه والتبريد؟",
+        "es": "¿Y el camuflaje o la refrigeración?",
+        "heading": true
+      },
+      {
+        "en": "Camouflage sounds intuitive until we ask who is looking. A 2016 study modelled how zebra stripes would appear through the visual systems of predators and zebras. Its results challenged the idea that stripes provide effective background camouflage. These were visual estimates, however, not a field trial measuring lions’ hunting success.",
+        "fr": "Le camouflage semble intuitif jusqu’à ce qu’on demande qui regarde. Une étude de 2016 a modélisé la perception des rayures par les systèmes visuels des prédateurs et des zèbres. Elle a remis en cause un camouflage efficace sur le fond du paysage. Il s’agissait toutefois d’estimations visuelles, pas d’un essai sur la réussite de chasse des lions.",
+        "ar": "يبدو التمويه تفسيراً بديهياً حتى نسأل: من الذي ينظر؟ نمذجت دراسة عام 2016 رؤية الخطوط عبر الأنظمة البصرية للمفترسات والحمر الوحشية. وشككت النتائج في فعاليتها كتمويه مع الخلفية. لكنها كانت تقديرات بصرية، لا تجربة ميدانية لقياس نجاح الأسود في الصيد.",
+        "es": "El camuflaje parece intuitivo hasta preguntar quién observa. Un estudio de 2016 modeló cómo percibirían las rayas los sistemas visuales de depredadores y cebras. Los resultados cuestionaron su eficacia para confundirse con el fondo. Eran estimaciones visuales, sin embargo, no una prueba de campo sobre el éxito de caza de los leones.",
+        "source": [
+          "Melin et al., PLOS ONE (2016)",
+          "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0145679"
+        ]
+      },
+      {
+        "en": "Cooling is another attractive hypothesis because dark and light surfaces absorb sunlight differently. A 2018 experiment using water-filled barrels covered with hides did not find a cooling advantage for stripes. Such models test a proposed physical effect; they cannot reproduce every feature of a living, sweating animal. The result limits a claim rather than ending every temperature question.",
+        "fr": "Le refroidissement est une autre hypothèse séduisante, car les surfaces sombres et claires absorbent différemment le soleil. Une expérience de 2018 sur des tonneaux d’eau recouverts de peaux n’a pas trouvé d’avantage thermique aux rayures. Ces modèles testent un effet physique proposé sans reproduire tous les mécanismes d’un animal vivant qui transpire. Ils restreignent une hypothèse sans clore toute question thermique.",
+        "ar": "التبريد فرضية جذابة أيضاً لأن الأسطح الداكنة والفاتحة تمتص الشمس بشكل مختلف. لم تجد تجربة عام 2018 على براميل ماء مغطاة بجلود ميزة تبريد للخطوط. تختبر هذه النماذج أثراً فيزيائياً مقترحاً، لكنها لا تعيد إنتاج كل خصائص حيوان حي يتعرق. فالنتيجة تحد ادعاءً ولا تنهي جميع أسئلة الحرارة.",
+        "es": "La refrigeración resulta atractiva porque las superficies claras y oscuras absorben la luz de forma distinta. Un experimento de 2018 con barriles de agua cubiertos con pieles no encontró una ventaja térmica de las rayas. Estos modelos prueban un efecto físico propuesto, pero no reproducen todo lo que ocurre en un animal vivo que suda. Limitan una hipótesis sin cerrar todas las preguntas térmicas.",
+        "source": [
+          "Horváth et al., Scientific Reports (2018)",
+          "https://www.nature.com/articles/s41598-018-27637-1"
+        ]
+      },
+      {
+        "en": "A spectacular pattern, a careful answer",
+        "fr": "Un motif spectaculaire, une réponse prudente",
+        "ar": "نمط مدهش وإجابة متأنية",
+        "es": "Un patrón espectacular, una respuesta cuidadosa",
+        "heading": true
+      },
+      {
+        "en": "The best answer is therefore neither “nobody knows” nor “every mystery is solved”. Biting-fly avoidance has unusually direct experimental support. The precise landing mechanism, the balance of evolutionary pressures and possible additional functions require further work. A pattern can have a well-supported benefit without every detail of its history being settled.",
+        "fr": "La meilleure réponse n’est donc ni « personne ne sait » ni « tout est résolu ». L’évitement des mouches piqueuses bénéficie d’un appui expérimental particulièrement direct. Le mécanisme précis, le poids des pressions évolutives et d’éventuelles fonctions supplémentaires restent à étudier. Un motif peut avoir un avantage bien établi sans que toute son histoire soit élucidée.",
+        "ar": "لذلك ليست الإجابة الأفضل «لا أحد يعرف» ولا «حُل كل اللغز». فالحماية من الذباب اللاسع تحظى بدعم تجريبي مباشر قوي. أما آلية الهبوط الدقيقة وتوازن الضغوط التطورية والوظائف الإضافية المحتملة فتحتاج مزيداً من البحث. يمكن أن تثبت فائدة نمط دون حسم جميع تفاصيل تاريخه.",
+        "es": "La mejor respuesta no es «nadie lo sabe» ni «todo está resuelto». La protección frente a moscas picadoras cuenta con respaldo experimental especialmente directo. El mecanismo preciso, el equilibrio de presiones evolutivas y otras posibles funciones requieren más investigación. Un patrón puede tener una ventaja bien demostrada sin que toda su historia esté aclarada."
+      },
+      {
+        "en": "The zebra’s appeal is a reminder that an obvious feature need not have an obvious explanation. Good animal science turns a familiar sight into competing predictions, then asks which survive a fair test. That is a more interesting story than a single clever explanation repeated as certainty.",
+        "fr": "Le zèbre rappelle qu’une caractéristique évidente n’a pas forcément une explication évidente. La science transforme une observation familière en prédictions concurrentes, puis vérifie lesquelles résistent à des tests équitables. L’histoire est plus intéressante qu’une idée ingénieuse répétée comme une certitude.",
+        "ar": "تذكرنا جاذبية الحمار الوحشي بأن الصفة الواضحة لا تملك بالضرورة تفسيراً واضحاً. يحول علم الحيوان الجيد المشهد المألوف إلى توقعات متنافسة، ثم يختبر أيها يصمد. وهذه قصة أغنى من ترديد تفسير ذكي واحد باعتباره يقيناً.",
+        "es": "La cebra recuerda que un rasgo evidente no siempre tiene una explicación evidente. La buena ciencia convierte una imagen familiar en predicciones rivales y comprueba cuáles resisten una prueba justa. Es una historia más interesante que repetir una explicación ingeniosa como si fuera una certeza."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "What is the leading explanation for zebra stripes?",
+          "Experimental evidence most strongly supports reduced landings by biting flies. The exact visual mechanism remains under investigation."
+        ],
+        [
+          "Do stripes stop all insect bites?",
+          "No. Fewer successful landings in experiments do not establish complete protection against every insect or disease."
+        ],
+        [
+          "Is zebra cooling scientifically settled?",
+          "No. Barrel experiments found no striped cooling advantage under their conditions, but did not reproduce all processes in living animals."
+        ]
+      ],
+      "fr": [
+        [
+          "Quelle est l’explication principale des rayures ?",
+          "Les expériences soutiennent surtout une réduction des atterrissages de mouches piqueuses. Le mécanisme visuel précis reste à étudier."
+        ],
+        [
+          "Les rayures empêchent-elles toutes les piqûres ?",
+          "Non. Une diminution des atterrissages ne démontre pas une protection totale contre tous les insectes ou toutes les maladies."
+        ],
+        [
+          "Le rôle thermique est-il définitivement tranché ?",
+          "Non. Des expériences sur tonneaux n’ont pas trouvé d’avantage aux rayures dans leurs conditions, sans reproduire tous les processus du vivant."
+        ]
+      ],
+      "ar": [
+        [
+          "ما التفسير الأبرز لخطوط الحمار الوحشي؟",
+          "تدعم التجارب بقوة تقليل هبوط الذباب اللاسع، بينما لا تزال الآلية البصرية الدقيقة قيد الدراسة."
+        ],
+        [
+          "هل تمنع الخطوط كل لدغات الحشرات؟",
+          "لا. انخفاض الهبوط في التجارب لا يثبت حماية كاملة من جميع الحشرات أو الأمراض."
+        ],
+        [
+          "هل حُسم دور الخطوط في التبريد؟",
+          "لا. لم تجد تجارب البراميل ميزة تبريد في ظروفها، لكنها لم تحاكِ جميع العمليات داخل الحيوان الحي."
+        ]
+      ],
+      "es": [
+        [
+          "¿Cuál es la explicación principal de las rayas?",
+          "Las pruebas experimentales respaldan sobre todo la reducción de aterrizajes de moscas picadoras. El mecanismo visual preciso sigue investigándose."
+        ],
+        [
+          "¿Impiden todas las picaduras?",
+          "No. Una reducción de aterrizajes no demuestra protección completa frente a cualquier insecto o enfermedad."
+        ],
+        [
+          "¿Está resuelto el papel de las rayas en la temperatura?",
+          "No. Los experimentos con barriles no encontraron una ventaja térmica en sus condiciones, pero no reprodujeron todos los procesos del animal vivo."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "traffic",
+    "slug": "can-ai-transform-city-traffic-lights",
+    "category": "AI",
+    "image": "ai-city-traffic-lights-ai-editorial.webp",
+    "attachment": "1-1000087684.jpg",
+    "tags": [
+      "Artificial intelligence",
+      "Traffic signals",
+      "Urban mobility",
+      "Transport"
+    ],
+    "related": "robotaxi-revolution-tesla-waymo-zoox-baidu-2026",
+    "relatedLabel": [
+      "The robotaxi revolution",
+      "La révolution des robotaxis",
+      "ثورة سيارات الأجرة الذاتية",
+      "La revolución de los robotaxis"
+    ],
+    "meta": {
+      "en": [
+        "CAN AI TRANSFORM CITY TRAFFIC LIGHTS?",
+        "Can AI Transform City Traffic Lights? Evidence and Limits",
+        "AI can help cities improve traffic signals, but pilot results need context. Explore adaptive timing, safety, emissions estimates and the role of human engineers.",
+        "AI",
+        "TRAFFIC LIGHTS",
+        "AI editorial illustration of red and green pedestrian and bicycle signals beside a city street at night"
+      ],
+      "fr": [
+        "L’IA PEUT-ELLE TRANSFORMER LES FEUX DE CIRCULATION ?",
+        "L’IA peut-elle transformer les feux de circulation ?",
+        "L’IA peut améliorer les feux urbains, mais les essais ont des limites. Découvrez les réglages adaptatifs, la sécurité et le rôle essentiel des ingénieurs.",
+        "L’IA",
+        "FEUX DE CIRCULATION",
+        "Illustration éditoriale par IA de feux piétons et cyclistes rouges et verts dans une rue urbaine de nuit"
+      ],
+      "ar": [
+        "هل يستطيع الذكاء الاصطناعي تغيير إشارات المرور؟",
+        "هل يستطيع الذكاء الاصطناعي تحسين إشارات المرور؟",
+        "قد يساعد الذكاء الاصطناعي المدن على تحسين إشارات المرور. تعرف على أدلة التجارب وحدودها والسلامة وتقديرات الانبعاثات ودور المهندسين.",
+        "الذكاء الاصطناعي",
+        "إشارات المرور",
+        "رسم تحريري مولد بالذكاء الاصطناعي لإشارات حمراء وخضراء للمشاة والدراجات في شارع ليلي"
+      ],
+      "es": [
+        "¿PUEDE LA IA TRANSFORMAR LOS SEMÁFOROS URBANOS?",
+        "¿Puede la IA transformar los semáforos urbanos?",
+        "La IA puede mejorar los semáforos, pero los ensayos necesitan contexto. Analizamos tiempos adaptativos, seguridad, emisiones y supervisión de ingenieros.",
+        "IA",
+        "SEMÁFOROS URBANOS",
+        "Ilustración editorial con IA de señales rojas y verdes para peatones y bicicletas en una calle nocturna"
+      ]
+    },
+    "blocks": [
+      {
+        "en": "An empty junction holds you at red while the queue behind grows. It feels like a small failure of common sense, repeated across an entire city. Artificial intelligence offers a tempting promise: signals that respond to what is happening now. The useful answer is yes, AI can help, but the evidence is more conditional than a universal cure for congestion.",
+        "fr": "Un carrefour vide vous retient au rouge tandis que la file s’allonge derrière vous. Ce petit échec de bon sens se répète dans toute la ville. L’intelligence artificielle promet des feux adaptés à la situation présente. Oui, elle peut aider, mais les preuves sont plus nuancées qu’une solution universelle aux embouteillages.",
+        "ar": "توقفك إشارة حمراء أمام تقاطع فارغ بينما يطول الصف خلفك. يبدو الأمر إخفاقاً صغيراً في المنطق يتكرر عبر المدينة. يعد الذكاء الاصطناعي بإشارات تستجيب لما يجري الآن. نعم، يمكنه المساعدة، لكن الأدلة أكثر ارتباطاً بالسياق من وعد بعلاج شامل للازدحام.",
+        "es": "Un cruce vacío te retiene en rojo mientras la cola crece detrás. Parece un pequeño fallo de sentido común, repetido por toda la ciudad. La inteligencia artificial promete señales que respondan a lo que sucede ahora. Sí, puede ayudar, pero las pruebas son más condicionales que una solución universal a los atascos."
+      },
+      {
+        "en": "Adaptive signals existed before today’s AI boom",
+        "fr": "Les feux adaptatifs précèdent l’essor actuel de l’IA",
+        "ar": "الإشارات المتكيفة سبقت موجة الذكاء الاصطناعي الحالية",
+        "es": "Los semáforos adaptativos son anteriores al auge de la IA",
+        "heading": true
+      },
+      {
+        "en": "Adaptive control gathers traffic data, evaluates conditions and changes timing in response. The US Federal Highway Administration describes this as an established transport technology. “Adaptive” does not automatically mean machine learning: a signal can react through rules or optimisation. Reliable detection and communications are prerequisites, whatever label is on the software.",
+        "fr": "La régulation adaptative recueille des données de circulation, évalue la situation et ajuste les réglages. L’administration fédérale américaine des routes la décrit comme une technologie déjà établie. « Adaptatif » ne signifie pas automatiquement apprentissage automatique : des règles ou une optimisation peuvent suffire. Des capteurs et des communications fiables restent indispensables.",
+        "ar": "يجمع التحكم المتكيف بيانات الحركة ويقيّم الظروف ويعدل التوقيت استجابة لها. وتصفه الإدارة الفيدرالية للطرق السريعة الأمريكية بأنه تقنية نقل راسخة. لا تعني كلمة «متكيف» التعلم الآلي تلقائياً، فقد تعمل الإشارة بقواعد أو تحسين حسابي. وتبقى موثوقية الرصد والاتصال شرطاً أياً كان اسم البرمجية.",
+        "es": "El control adaptativo recoge datos, evalúa condiciones y modifica los tiempos. La Administración Federal de Carreteras de Estados Unidos lo describe como una tecnología de transporte consolidada. «Adaptativo» no significa automáticamente aprendizaje automático: puede utilizar reglas u optimización. La detección y las comunicaciones fiables son requisitos con independencia de la etiqueta del software.",
+        "source": [
+          "FHWA, adaptive signal control FAQ",
+          "https://www.fhwa.dot.gov/innovation/everydaycounts/edc-1/asct-faqs.cfm"
+        ]
+      },
+      {
+        "en": "AI can add forecasts or help search for better timing plans. But a junction is not an isolated puzzle. Releasing one queue may send vehicles into a blocked downstream street. A useful system has to consider neighbouring signals and changing demand, while engineers define which objectives and constraints actually matter.",
+        "fr": "L’IA peut apporter des prévisions ou rechercher de meilleurs plans de feux. Mais un carrefour n’est pas un problème isolé. Libérer une file peut envoyer des véhicules vers une rue déjà bloquée. Un système utile doit tenir compte des carrefours voisins et de la demande, avec des objectifs et des contraintes définis par les ingénieurs.",
+        "ar": "قد يضيف الذكاء الاصطناعي توقعات أو يساعد في البحث عن خطط توقيت أفضل. لكن التقاطع ليس لغزاً منفصلاً؛ فقد يؤدي تفريغ صف إلى إرسال المركبات نحو شارع مسدود أمامه. يحتاج النظام المفيد إلى مراعاة الإشارات المجاورة وتغير الطلب، مع تحديد المهندسين للأهداف والقيود المهمة.",
+        "es": "La IA puede aportar previsiones o buscar mejores planes de tiempos. Pero un cruce no es un problema aislado. Liberar una cola puede enviar vehículos a una calle ya bloqueada. Un sistema útil debe considerar las señales vecinas y la demanda cambiante, con objetivos y restricciones definidos por los ingenieros."
+      },
+      {
+        "en": "What the Pittsburgh pilot actually showed",
+        "fr": "Ce que l’essai de Pittsburgh a réellement montré",
+        "ar": "ماذا أظهرت تجربة بيتسبرغ فعلياً؟",
+        "es": "Qué demostró realmente el ensayo de Pittsburgh",
+        "heading": true
+      },
+      {
+        "en": "The original SURTRAC pilot covered nine intersections in Pittsburgh’s East Liberty district. A 2013 Carnegie Mellon paper reported weighted reductions of about 25% in travel time and 40% in waiting time, comparing drive-through surveys before and after installation. Its roughly 21% emissions reduction was a modelled estimate, not direct citywide pollution measurement.",
+        "fr": "Le premier essai SURTRAC couvrait neuf carrefours du quartier East Liberty à Pittsburgh. Un article de Carnegie Mellon publié en 2013 rapportait des baisses pondérées d’environ 25 % du temps de trajet et 40 % de l’attente, par comparaison de parcours avant et après installation. La baisse d’environ 21 % des émissions était modélisée, pas mesurée dans toute la ville.",
+        "ar": "شملت تجربة SURTRAC الأولى تسعة تقاطعات في حي إيست ليبرتي ببيتسبرغ. وأورد بحث لكارنيغي ميلون عام 2013 انخفاضات مرجحة بنحو 25% في زمن الرحلة و40% في الانتظار، بمقارنة جولات قيادة قبل التركيب وبعده. أما خفض الانبعاثات بنحو 21% فكان تقديراً نموذجياً لا قياساً مباشراً لتلوث المدينة.",
+        "es": "El ensayo inicial de SURTRAC abarcó nueve cruces de East Liberty, en Pittsburgh. Un artículo de Carnegie Mellon de 2013 comunicó reducciones ponderadas cercanas al 25 % en tiempo de viaje y al 40 % en espera, comparando recorridos anteriores y posteriores a la instalación. La reducción de emisiones de alrededor del 21 % fue modelizada, no una medición directa de toda la ciudad.",
+        "source": [
+          "Smith et al., SURTRAC pilot paper (2013)",
+          "https://www.ri.cmu.edu/pub_files/2013/1/13-0315.pdf"
+        ]
+      },
+      {
+        "en": "Those are encouraging results, with a specific boundary: a small before-and-after deployment is not a randomised guarantee for every street network. Demand, roadworks and the quality of previous timings can change the comparison. Cities should ask for the baseline and evaluation method before treating a percentage as a procurement promise.",
+        "fr": "Ces résultats sont encourageants, mais un petit déploiement évalué avant et après ne constitue pas une garantie randomisée pour tous les réseaux. La demande, les travaux et la qualité des réglages précédents peuvent modifier la comparaison. Une ville devrait examiner la référence et la méthode d’évaluation avant de transformer un pourcentage en promesse d’achat.",
+        "ar": "هذه نتائج مشجعة ضمن حدود محددة: نشر صغير مع مقارنة قبل وبعد لا يمنح ضماناً عشوائياً لكل شبكة طرق. قد تؤثر الحركة وأعمال الطرق وجودة التوقيت السابق في المقارنة. وينبغي للمدن طلب خط الأساس ومنهج التقييم قبل اعتبار النسبة وعداً تعاقدياً.",
+        "es": "Son resultados alentadores, pero un despliegue pequeño evaluado antes y después no es una garantía aleatorizada para cualquier red. La demanda, las obras y la calidad de los tiempos anteriores afectan a la comparación. Conviene examinar la referencia y el método antes de convertir un porcentaje en una promesa de compra."
+      },
+      {
+        "en": "Green Light illustrates a different route",
+        "fr": "Green Light illustre une autre approche",
+        "ar": "مشروع Green Light يقدم مساراً مختلفاً",
+        "es": "Green Light ilustra otra vía",
+        "heading": true
+      },
+      {
+        "en": "Google’s Green Light uses AI and driving trends from Google Maps to recommend signal changes for engineers to review and implement. Google describes early potential for up to 30% fewer stops and up to 10% lower greenhouse-gas emissions, with emissions assessed through models. These are provider-reported potentials, not guaranteed averages or independent safety findings.",
+        "fr": "Green Light de Google utilise l’IA et les tendances de déplacement de Google Maps pour recommander des changements que les ingénieurs examinent et appliquent. Google évoque un potentiel initial allant jusqu’à 30 % d’arrêts en moins et 10 % d’émissions de gaz à effet de serre en moins, évaluées par modèles. Ce ne sont ni des moyennes garanties ni des conclusions indépendantes sur la sécurité.",
+        "ar": "يستخدم Green Light من غوغل الذكاء الاصطناعي واتجاهات القيادة في خرائطها لاقتراح تعديلات يراجعها المهندسون وينفذونها. وتذكر غوغل إمكانية مبكرة لخفض التوقفات حتى 30% والانبعاثات حتى 10%، مع تقييم الانبعاثات بالنماذج. هذه إمكانات يعلنها المزود، وليست متوسطات مضمونة أو نتائج مستقلة للسلامة.",
+        "es": "Green Light de Google utiliza IA y tendencias de conducción de Google Maps para recomendar cambios que los ingenieros revisan y aplican. Google describe un potencial inicial de hasta un 30 % menos de paradas y un 10 % menos de emisiones de gases de efecto invernadero, estimadas con modelos. Son potenciales comunicados por el proveedor, no medias garantizadas ni conclusiones independientes de seguridad.",
+        "source": [
+          "Google Research, Green Light",
+          "https://sites.research.google/greenlight/"
+        ]
+      },
+      {
+        "en": "The distinction matters. Software advising a traffic engineer is a different deployment from software directly controlling every phase in real time. Both can be useful, but they require different integration, monitoring and accountability. “AI traffic lights” is too broad a phrase to describe a purchase without those details.",
+        "fr": "La distinction compte. Un logiciel qui conseille un ingénieur n’est pas déployé comme un logiciel qui commande directement chaque phase en temps réel. Les deux peuvent être utiles, mais l’intégration, le suivi et les responsabilités diffèrent. « Feux à IA » est une formule trop large pour décrire un achat sans ces précisions.",
+        "ar": "هذا الفرق مهم. فالبرنامج الذي ينصح مهندس المرور يختلف في نشره عن برنامج يتحكم مباشرة بكل مرحلة لحظياً. قد يفيد الاثنان، لكن متطلبات الدمج والمراقبة والمساءلة تختلف. وعبارة «إشارات بالذكاء الاصطناعي» أوسع من أن تصف شراءً دون هذه التفاصيل.",
+        "es": "La distinción importa. Un programa que asesora a un ingeniero no equivale a otro que controla directamente cada fase en tiempo real. Ambos pueden ser útiles, pero exigen integración, seguimiento y responsabilidades diferentes. «Semáforos con IA» es una expresión demasiado amplia para describir una compra sin esos detalles."
+      },
+      {
+        "en": "A better journey for whom?",
+        "fr": "Un meilleur trajet pour qui ?",
+        "ar": "رحلة أفضل لمن؟",
+        "es": "¿Un viaje mejor para quién?",
+        "heading": true
+      },
+      {
+        "en": "A sensible trial should measure people, not only cars: bus passengers, pedestrians, cyclists and emergency access belong in the objectives. Crossing clearance and accessibility must remain hard engineering constraints. Fewer vehicle stops alone cannot demonstrate a safer junction. Privacy requirements should also specify what data are collected, retained and shared, rather than assuming that cameras are compulsory.",
+        "fr": "Un essai pertinent doit mesurer les personnes, pas seulement les voitures : voyageurs des bus, piétons, cyclistes et accès des secours doivent entrer dans les objectifs. Les temps de traversée et l’accessibilité doivent rester des contraintes techniques impératives. Moins d’arrêts automobiles ne prouve pas la sécurité. Les exigences de confidentialité doivent préciser les données collectées, conservées et partagées, sans supposer que les caméras sont obligatoires.",
+        "ar": "ينبغي للتجربة الجيدة أن تقيس حركة الأشخاص، لا السيارات فقط، وأن تشمل ركاب الحافلات والمشاة والدراجات ووصول الطوارئ. ويجب أن تبقى مهلة إخلاء المعبر وإمكانية الوصول قيوداً هندسية ملزمة. فتقليل توقف السيارات وحده لا يثبت سلامة التقاطع. كما ينبغي تحديد البيانات المجموعة والمحفوظة والمشاركة دون افتراض ضرورة الكاميرات.",
+        "es": "Un ensayo sensato debe medir personas, no solo coches: pasajeros de autobús, peatones, ciclistas y acceso de emergencias deben figurar entre los objetivos. Los tiempos de despeje y la accesibilidad han de seguir siendo restricciones obligatorias. Menos paradas no demuestra mayor seguridad. La privacidad exige definir qué datos se recogen, conservan y comparten, sin presuponer cámaras obligatorias."
+      },
+      {
+        "en": "FHWA guidance notes that adaptive systems sometimes show little improvement over well-tuned existing controls. That makes maintenance, a credible baseline and a reversible trial essential. AI can improve the coordination of limited street space; it cannot by itself remove every bottleneck or decide a city’s transport priorities. The best signal upgrade begins with a public goal, then tests whether the technology serves it.",
+        "fr": "Les recommandations de la FHWA signalent que les systèmes adaptatifs apportent parfois peu de progrès face à des réglages existants déjà optimisés. Maintenance, référence crédible et essai réversible sont donc essentiels. L’IA peut mieux coordonner un espace routier limité ; elle ne supprime pas tous les goulets ni ne décide seule des priorités de transport. Une modernisation réussie part d’un objectif public et vérifie si la technologie le sert.",
+        "ar": "تشير إرشادات الإدارة الفيدرالية إلى أن الأنظمة المتكيفة قد تحقق تحسناً ضئيلاً مقارنة بتحكم قائم مضبوط جيداً. لذا تهم الصيانة وخط الأساس الموثوق والتجربة القابلة للتراجع. يمكن للذكاء الاصطناعي تحسين تنسيق مساحة الشوارع المحدودة، لكنه لا يزيل كل الاختناقات أو يحدد أولويات النقل وحده. تبدأ الترقية الأفضل بهدف عام ثم تختبر خدمة التقنية له.",
+        "es": "Las orientaciones de la FHWA señalan que los sistemas adaptativos a veces mejoran poco frente a controles existentes bien ajustados. Son esenciales el mantenimiento, una referencia creíble y un ensayo reversible. La IA puede coordinar mejor un espacio viario limitado, pero no eliminar por sí sola todos los cuellos de botella ni decidir las prioridades urbanas. La mejora empieza por un objetivo público y comprueba si la tecnología lo cumple.",
+        "source": [
+          "FHWA, Traffic Signal Timing Manual, chapter 9",
+          "https://ops.fhwa.dot.gov/publications/fhwahop08024/chapter9.htm"
+        ]
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Are all adaptive traffic signals AI?",
+          "No. Adaptive signals can use rules and conventional optimisation. Machine learning is one possible component, not the definition of adaptive control."
+        ],
+        [
+          "Will AI guarantee 30% less congestion?",
+          "No. Reported figures concern particular metrics and deployments. Fewer stops is not the same as a 30% reduction in total congestion."
+        ],
+        [
+          "Who should approve signal changes?",
+          "Accountable transport engineers should define safety constraints, review changes and monitor outcomes for all road users."
+        ]
+      ],
+      "fr": [
+        [
+          "Tous les feux adaptatifs utilisent-ils l’IA ?",
+          "Non. Ils peuvent utiliser des règles et une optimisation classique. L’apprentissage automatique est une composante possible, pas la définition du contrôle adaptatif."
+        ],
+        [
+          "L’IA garantit-elle 30 % de congestion en moins ?",
+          "Non. Les chiffres concernent des indicateurs et des déploiements précis. Moins d’arrêts ne signifie pas une baisse équivalente de toute la congestion."
+        ],
+        [
+          "Qui doit approuver les changements ?",
+          "Des ingénieurs responsables doivent définir les contraintes de sécurité, examiner les changements et suivre leurs effets sur tous les usagers."
+        ]
+      ],
+      "ar": [
+        [
+          "هل تستخدم كل الإشارات المتكيفة الذكاء الاصطناعي؟",
+          "لا. قد تستخدم قواعد وتحسيناً حسابياً تقليدياً. التعلم الآلي مكوّن محتمل وليس تعريف التحكم المتكيف."
+        ],
+        [
+          "هل يضمن الذكاء الاصطناعي خفض الازدحام 30%؟",
+          "لا. تتعلق الأرقام بمؤشرات وتجارب محددة. وانخفاض التوقفات لا يساوي خفضاً مماثلاً في إجمالي الازدحام."
+        ],
+        [
+          "من ينبغي أن يعتمد تعديلات الإشارات؟",
+          "ينبغي لمهندسي النقل المسؤولين تحديد قيود السلامة ومراجعة التعديلات ومتابعة آثارها على جميع مستخدمي الطريق."
+        ]
+      ],
+      "es": [
+        [
+          "¿Todos los semáforos adaptativos utilizan IA?",
+          "No. Pueden utilizar reglas y optimización convencional. El aprendizaje automático es un componente posible, no la definición del control adaptativo."
+        ],
+        [
+          "¿Garantiza la IA un 30 % menos de congestión?",
+          "No. Las cifras describen indicadores y despliegues concretos. Menos paradas no equivale a una reducción idéntica de toda la congestión."
+        ],
+        [
+          "¿Quién debe aprobar los cambios?",
+          "Ingenieros responsables deben definir las restricciones de seguridad, revisar los cambios y vigilar los resultados para todos los usuarios."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "antarctica",
+    "slug": "hidden-world-beneath-antarctica-ice",
+    "category": "Science",
+    "image": "hidden-world-beneath-antarctica-ice-ai-concept.webp",
+    "attachment": "2-1000087678.jpg",
+    "tags": [
+      "Antarctica",
+      "Subglacial lakes",
+      "Ice shelves",
+      "Climate science"
+    ],
+    "related": "20-rare-natural-phenomena-seem-impossible",
+    "relatedLabel": [
+      "Rare natural phenomena that seem impossible",
+      "Des phénomènes naturels qui semblent impossibles",
+      "ظواهر طبيعية نادرة تبدو مستحيلة",
+      "Fenómenos naturales que parecen imposibles"
+    ],
+    "meta": {
+      "en": [
+        "THE HIDDEN WORLD BENEATH ANTARCTICA’S ICE",
+        "The Hidden World Beneath Antarctica’s Ice",
+        "Explore Antarctica’s real subglacial lakes, microbial life and ice-shelf ecosystems. The hero’s underwater ruins are explicitly fictional AI artwork.",
+        "HIDDEN WORLD",
+        "ANTARCTICA’S ICE",
+        "Conceptual AI cutaway of Antarctica with a research station and fictional underwater ruins; not a real discovery or a scientific reconstruction"
+      ],
+      "fr": [
+        "LE MONDE CACHÉ SOUS LA GLACE DE L’ANTARCTIQUE",
+        "Le monde caché sous la glace de l’Antarctique",
+        "Découvrez les lacs sous-glaciaires, les microbes et les écosystèmes sous les plateformes. Les ruines du visuel sont une fiction créée par IA.",
+        "MONDE CACHÉ",
+        "GLACE DE L’ANTARCTIQUE",
+        "Coupe conceptuelle de l’Antarctique créée par IA, avec station scientifique et ruines sous-marines fictives, sans découverte réelle ni reconstitution scientifique"
+      ],
+      "ar": [
+        "العالم الخفي تحت جليد القارة القطبية الجنوبية",
+        "العالم الخفي تحت جليد القارة القطبية الجنوبية",
+        "اكتشف البحيرات تحت الجليدية والميكروبات وبيئات الرفوف الجليدية الحقيقية. أطلال الصورة الرئيسية خيال فني مولد بالذكاء الاصطناعي وليست اكتشافاً.",
+        "العالم الخفي",
+        "جليد القارة القطبية الجنوبية",
+        "مقطع تصوري مولد بالذكاء الاصطناعي للقارة القطبية الجنوبية مع محطة أبحاث وأطلال خيالية تحت الماء، وليس اكتشافاً حقيقياً أو إعادة بناء علمية"
+      ],
+      "es": [
+        "EL MUNDO OCULTO BAJO EL HIELO DE LA ANTÁRTIDA",
+        "El mundo oculto bajo el hielo de la Antártida",
+        "Explora lagos subglaciales, microbios y ecosistemas bajo plataformas de hielo. Las ruinas de la imagen son una ilustración ficticia creada con IA.",
+        "MUNDO OCULTO",
+        "HIELO DE LA ANTÁRTIDA",
+        "Corte conceptual de la Antártida creado con IA, con estación científica y ruinas submarinas ficticias; no representa un descubrimiento ni una reconstrucción científica"
+      ]
+    },
+    "blocks": [
+      {
+        "en": "The ruins in this article’s hero image are fictional AI artwork. They do not depict a discovered city, archaeological site or scientific reconstruction. The cutaway combines imagined elements and is not a map of Antarctic habitats. The real hidden world is remarkable enough: rock landscapes, liquid water, microbial ecosystems and ocean life beneath floating ice.",
+        "fr": "Les ruines du visuel principal sont une fiction créée par IA. Elles ne représentent ni ville découverte, ni site archéologique, ni reconstitution scientifique. Cette coupe rassemble des éléments imaginés et ne cartographie pas les habitats antarctiques. Le monde réel est déjà remarquable : reliefs rocheux, eau liquide, écosystèmes microbiens et vie marine sous la glace flottante.",
+        "ar": "الأطلال في الصورة الرئيسية خيال فني مولد بالذكاء الاصطناعي. إنها لا تمثل مدينة مكتشفة أو موقعاً أثرياً أو إعادة بناء علمية. يجمع المقطع عناصر متخيلة ولا يرسم خريطة لبيئات القارة. أما العالم الحقيقي فمدهش بما يكفي: تضاريس صخرية وماء سائل وأنظمة ميكروبية وحياة بحرية تحت الجليد العائم.",
+        "es": "Las ruinas de la imagen principal son ficción creada con IA. No representan una ciudad descubierta, un yacimiento arqueológico ni una reconstrucción científica. El corte reúne elementos imaginarios y no cartografía los hábitats antárticos. El mundo real ya es extraordinario: paisajes rocosos, agua líquida, ecosistemas microbianos y vida marina bajo hielo flotante."
+      },
+      {
+        "en": "There is no single ocean beneath the continent",
+        "fr": "Il n’existe pas un océan unique sous le continent",
+        "ar": "لا يوجد محيط واحد تحت القارة",
+        "es": "No hay un único océano bajo el continente",
+        "heading": true
+      },
+      {
+        "en": "Two environments must be kept separate. Subglacial lakes lie beneath ice resting on the continent. Ice shelves are floating extensions of land ice, with seawater beneath them. A marine animal found under a shelf is therefore not evidence of whales swimming inside a sealed lake beneath kilometres of grounded ice.",
+        "fr": "Il faut distinguer deux milieux. Les lacs sous-glaciaires se trouvent sous une glace reposant sur le continent. Les plateformes sont des prolongements flottants de la glace terrestre, avec de l’eau de mer en dessous. Un animal marin sous une plateforme ne prouve donc pas la présence de baleines dans un lac isolé sous des kilomètres de glace continentale.",
+        "ar": "يجب فصل بيئتين. تقع البحيرات تحت الجليدية أسفل جليد يرتكز على القارة. أما الرفوف الجليدية فامتدادات عائمة للجليد القاري وتحتها ماء البحر. لذا لا يعني العثور على حيوان بحري تحت رف وجود حيتان داخل بحيرة معزولة تحت كيلومترات من الجليد المرتكز على الأرض.",
+        "es": "Hay que distinguir dos ambientes. Los lagos subglaciales están bajo hielo apoyado en el continente. Las plataformas son prolongaciones flotantes del hielo terrestre, con agua marina debajo. Hallar un animal marino bajo una plataforma no demuestra que existan ballenas en un lago aislado bajo kilómetros de hielo asentado sobre tierra.",
+        "source": [
+          "NSIDC, the science of ice shelves",
+          "https://nsidc.org/learn/parts-cryosphere/ice-shelves/science-ice-shelves"
+        ]
+      },
+      {
+        "en": "This distinction changes the questions scientists ask. A continental lake raises questions about water beneath an ice sheet and the organisms it supports. A floating shelf raises questions about exchanges with the ocean, food supplies and melting from below. Both are concealed by ice, but their plumbing and ecological possibilities differ.",
+        "fr": "Cette distinction modifie les questions scientifiques. Un lac continental interroge l’eau sous la calotte et les organismes qu’elle abrite. Une plateforme flottante conduit à étudier les échanges avec l’océan, la nourriture et la fonte par-dessous. Tous deux sont cachés par la glace, mais leur circulation d’eau et leurs possibilités écologiques diffèrent.",
+        "ar": "يغير هذا الفرق الأسئلة العلمية. تثير البحيرة القارية أسئلة عن الماء أسفل الغطاء الجليدي والكائنات التي يدعمها. ويثير الرف العائم أسئلة عن التبادل مع المحيط والغذاء والذوبان من الأسفل. كلاهما مختبئ تحت الجليد، لكن مسارات الماء والإمكانات البيئية مختلفة.",
+        "es": "La distinción cambia las preguntas científicas. Un lago continental plantea cuestiones sobre el agua bajo el manto y los organismos que alberga. Una plataforma flotante lleva a estudiar intercambios con el océano, alimento y fusión basal. Ambos quedan ocultos por hielo, pero su circulación de agua y sus posibilidades ecológicas son diferentes."
+      },
+      {
+        "en": "Mapping a landscape nobody can walk across",
+        "fr": "Cartographier un paysage inaccessible à pied",
+        "ar": "رسم تضاريس لا يمكن السير فوقها مباشرة",
+        "es": "Cartografiar un paisaje que nadie puede recorrer a pie",
+        "heading": true
+      },
+      {
+        "en": "Published in 2025, Bedmap3 combines decades of surveys to improve the map of the bed beneath Antarctica. Radar and other geophysical observations reveal the shape of concealed terrain. This is a reconstruction from measurements, with uneven coverage and uncertainty, not a photograph of an empty chamber under the ice.",
+        "fr": "Publié en 2025, Bedmap3 combine des décennies de relevés pour améliorer la carte du socle antarctique. Le radar et d’autres observations géophysiques révèlent les formes du terrain caché. C’est une reconstruction issue de mesures, avec une couverture inégale et des incertitudes, pas une photographie d’une chambre vide sous la glace.",
+        "ar": "يجمع Bedmap3، المنشور عام 2025، عقوداً من المسوحات لتحسين خريطة القاع تحت القارة القطبية الجنوبية. يكشف الرادار والرصد الجيوفيزيائي أشكال التضاريس المحجوبة. إنه بناء مستنتج من قياسات متفاوتة التغطية ومحاطة بعدم اليقين، وليس صورة لحجرة فارغة أسفل الجليد.",
+        "es": "Publicado en 2025, Bedmap3 combina décadas de campañas para mejorar el mapa del lecho antártico. El radar y otras observaciones geofísicas revelan las formas del terreno oculto. Es una reconstrucción basada en mediciones, con cobertura desigual e incertidumbre, no una fotografía de una cámara vacía bajo el hielo.",
+        "source": [
+          "British Antarctic Survey, Bedmap3 (2025)",
+          "https://www.bas.ac.uk/news/new-map-of-landscape-beneath-antarctica-unveiled/"
+        ]
+      },
+      {
+        "en": "A hidden landscape is not an undiscovered civilisation. Maps show the physical setting in which ice moves and water collects. Their value lies in making that system measurable: where the bed rises, where basins lie and where important gaps in observation remain. The less visible a place is, the more carefully evidence and imagination must be separated.",
+        "fr": "Un paysage caché n’est pas une civilisation inconnue. Les cartes montrent le cadre physique du mouvement de la glace et de l’accumulation d’eau. Elles permettent de mesurer les reliefs, de situer les bassins et de repérer les lacunes d’observation. Plus un lieu est invisible, plus il faut distinguer rigoureusement preuve et imagination.",
+        "ar": "التضاريس المخفية ليست حضارة مجهولة. توضح الخرائط الإطار الفيزيائي لحركة الجليد وتجمع الماء. وتكمن قيمتها في جعل النظام قابلاً للقياس: مواضع ارتفاع القاع والأحواض وثغرات الرصد المهمة. وكلما قل ظهور المكان وجب الفصل بعناية أكبر بين الدليل والخيال.",
+        "es": "Un paisaje oculto no es una civilización desconocida. Los mapas muestran el entorno físico donde se mueve el hielo y se acumula agua. Su valor está en hacerlo medible: elevaciones del lecho, cuencas y lagunas de observación. Cuanto menos visible sea un lugar, más cuidadosamente hay que separar pruebas e imaginación."
+      },
+      {
+        "en": "The life beneath grounded ice is microbial evidence",
+        "fr": "Sous la glace continentale, des preuves de vie microbienne",
+        "ar": "الدليل على الحياة تحت الجليد القاري ميكروبي",
+        "es": "Bajo el hielo continental, la evidencia es microbiana",
+        "heading": true
+      },
+      {
+        "en": "A landmark Nature paper in 2014 reported a microbial ecosystem in subglacial Lake Whillans, sampled through roughly 800 metres of ice. Researchers found bacteria and archaea in this dark environment, with evidence for chemical-energy-based production. The discovery demonstrated life in the sampled lake; it did not establish identical ecosystems in every Antarctic lake.",
+        "fr": "Un article majeur de Nature publié en 2014 a décrit un écosystème microbien dans le lac sous-glaciaire Whillans, échantillonné à travers environ 800 mètres de glace. Des bactéries et des archées y ont été trouvées, avec des indices de production fondée sur l’énergie chimique. Cela démontrait la vie dans ce lac, pas des écosystèmes identiques dans tous les lacs antarctiques.",
+        "ar": "وصف بحث بارز في Nature عام 2014 نظاماً ميكروبياً في بحيرة ويلانز تحت الجليدية بعد أخذ عينات عبر نحو 800 متر من الجليد. وجد الباحثون بكتيريا وعتائق في هذه البيئة المظلمة وأدلة على إنتاج قائم على الطاقة الكيميائية. أثبت الاكتشاف الحياة في البحيرة المدروسة، لا تماثل النظم في كل بحيرات القارة.",
+        "es": "Un artículo destacado de Nature de 2014 describió un ecosistema microbiano en el lago subglacial Whillans, muestreado a través de unos 800 metros de hielo. Se encontraron bacterias y arqueas, con indicios de producción basada en energía química. Demostró vida en ese lago, no ecosistemas idénticos en todos los lagos antárticos.",
+        "source": [
+          "Christner et al., Nature (2014)",
+          "https://www.nature.com/articles/nature13667"
+        ]
+      },
+      {
+        "en": "Microbes may lack the spectacle of the fictional temple in our illustration, but they pose a deeper scientific challenge. How is a habitable environment sustained without local sunlight? Which reactions provide usable energy? Those questions turn an apparently sealed landscape into a testable study of the limits of life, without needing to invent large animals or lost architecture.",
+        "fr": "Les microbes sont moins spectaculaires que le temple fictif de notre illustration, mais soulèvent un défi scientifique plus profond. Comment un milieu habitable se maintient-il sans lumière locale ? Quelles réactions fournissent de l’énergie utilisable ? Ces questions rendent testables les limites de la vie dans un paysage apparemment fermé, sans inventer de grands animaux ni d’architecture perdue.",
+        "ar": "قد تبدو الميكروبات أقل إثارة من المعبد الخيالي في الرسم، لكنها تطرح تحدياً علمياً أعمق. كيف تستمر بيئة صالحة للحياة بلا ضوء شمس محلي؟ وأي تفاعلات توفر طاقة قابلة للاستخدام؟ تحول هذه الأسئلة المشهد المعزول ظاهرياً إلى دراسة قابلة للاختبار لحدود الحياة، دون اختراع حيوانات كبيرة أو عمارة مفقودة.",
+        "es": "Los microbios pueden parecer menos espectaculares que el templo ficticio de la ilustración, pero plantean un desafío más profundo. ¿Cómo se mantiene un ambiente habitable sin luz solar local? ¿Qué reacciones aportan energía aprovechable? Estas preguntas convierten un paisaje aparentemente cerrado en un estudio comprobable de los límites de la vida, sin inventar grandes animales ni arquitectura perdida."
+      },
+      {
+        "en": "Under floating shelves, a different living world",
+        "fr": "Sous les plateformes flottantes, un autre monde vivant",
+        "ar": "تحت الرفوف العائمة عالم حي مختلف",
+        "es": "Bajo plataformas flotantes, otro mundo vivo",
+        "heading": true
+      },
+      {
+        "en": "Beneath the Ekström Ice Shelf, samples collected through boreholes in 2018 revealed diverse marine invertebrates, reported in 2021. More recently, a 2025 expedition explored seafloor exposed after iceberg A-84 calved from the George VI Ice Shelf, observing established communities including corals and sponges. These are ocean ecosystems, not archaeological discoveries or newly created life.",
+        "fr": "Sous la plateforme d’Ekström, des échantillons prélevés par forage en 2018 ont révélé divers invertébrés marins, décrits en 2021. En 2025, une expédition a exploré le fond rendu accessible après le détachement de l’iceberg A-84 de la plateforme George VI, observant notamment coraux et éponges. Ce sont des écosystèmes océaniques établis, pas des découvertes archéologiques ni une vie apparue soudainement.",
+        "ar": "كشفت عينات جُمعت عبر آبار عام 2018 تحت رف إكستروم عن لافقاريات بحرية متنوعة، وأُعلنت النتائج عام 2021. وفي 2025 استكشفت بعثة قاعاً أصبح متاحاً بعد انفصال الجبل الجليدي A-84 عن رف جورج السادس، ورصدت مجتمعات مستقرة تضم مرجاناً وإسفنجاً. هذه أنظمة محيطية وليست اكتشافات أثرية أو حياة نشأت للتو.",
+        "es": "Bajo la plataforma Ekström, muestras obtenidas mediante perforaciones en 2018 revelaron diversos invertebrados marinos, descritos en 2021. En 2025, una expedición exploró el fondo accesible tras desprenderse el iceberg A-84 de la plataforma George VI y observó comunidades establecidas con corales y esponjas. Son ecosistemas oceánicos, no hallazgos arqueológicos ni vida recién creada.",
+        "source": [
+          "British Antarctic Survey, ecosystem after iceberg calving (2025)",
+          "https://www.bas.ac.uk/news/thriving-ecosystem-discovered-following-iceberg-calving/"
+        ]
+      },
+      {
+        "en": "The Ekström findings also illustrate why access matters: drilling through ice can reveal animals beyond the reach of ordinary ship surveys. Such observations broaden the known habitat without making every unobserved cavity equivalent. A sample is evidence from a location, and its wider meaning has to be tested.",
+        "fr": "Les résultats d’Ekström montrent aussi l’importance de l’accès : forer la glace révèle des animaux hors de portée des relevés classiques par navire. Ces observations élargissent les habitats connus sans rendre toutes les cavités semblables. Un échantillon apporte une preuve locale ; sa portée générale doit être testée.",
+        "ar": "توضح نتائج إكستروم أهمية الوصول أيضاً: يمكن للحفر عبر الجليد كشف حيوانات لا تصل إليها المسوحات البحرية المعتادة. توسع هذه المشاهدات نطاق البيئات المعروفة دون أن تجعل كل تجويف غير مرصود مماثلاً لها. العينة دليل من موضع محدد، وتحتاج دلالتها الأوسع إلى اختبار.",
+        "es": "Los hallazgos de Ekström muestran también la importancia del acceso: perforar el hielo permite observar animales fuera del alcance de campañas convencionales desde barcos. Amplían los hábitats conocidos sin convertir todas las cavidades en equivalentes. Una muestra aporta evidencia local; su alcance general debe comprobarse.",
+        "source": [
+          "British Antarctic Survey, life beneath Ekström (2021)",
+          "https://www.bas.ac.uk/news/abundance-of-life-discovered-beneath-an-antarctic-ice-shelf/"
+        ]
+      },
+      {
+        "en": "Why this hidden geography matters above the ice",
+        "fr": "Pourquoi cette géographie compte à la surface",
+        "ar": "لماذا تهم هذه الجغرافيا فوق سطح الجليد؟",
+        "es": "Por qué esta geografía importa sobre el hielo",
+        "heading": true
+      },
+      {
+        "en": "Floating shelves help restrain the grounded ice behind them. Losing that support can allow land ice to flow faster into the ocean, contributing to sea-level rise. The shelf is already afloat, so its disappearance is not equivalent to adding the same volume of land ice to the sea. Understanding the hidden interface is therefore part of understanding Antarctica’s future.",
+        "fr": "Les plateformes flottantes contribuent à retenir la glace continentale en amont. Perdre cet appui peut accélérer son écoulement vers l’océan et contribuer à la hausse du niveau marin. Une plateforme flotte déjà : sa disparition n’équivaut donc pas à ajouter le même volume de glace terrestre à la mer. Comprendre cette interface cachée éclaire ainsi l’avenir de l’Antarctique.",
+        "ar": "تساعد الرفوف العائمة على كبح الجليد المرتكز على اليابسة خلفها. وقد يسرّع فقدان هذا الدعم تدفق الجليد القاري إلى المحيط ويسهم في ارتفاع البحر. والرف عائم أصلاً، لذا لا يعادل اختفاؤه إضافة الحجم نفسه من الجليد القاري إلى الماء. لذلك فإن فهم هذه الواجهة المخفية جزء من فهم مستقبل القارة.",
+        "es": "Las plataformas flotantes ayudan a frenar el hielo continental situado detrás. Perder ese apoyo puede acelerar su flujo al océano y contribuir a la subida del nivel del mar. Como la plataforma ya flota, su desaparición no equivale a añadir el mismo volumen de hielo terrestre al agua. Comprender esa interfaz oculta ayuda a entender el futuro antártico.",
+        "source": [
+          "NSIDC, why ice shelves matter",
+          "https://nsidc.org/learn/parts-cryosphere/ice-shelves/why-ice-shelves-matter"
+        ]
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Have underwater ruins been discovered beneath Antarctica?",
+          "The ruins in this article are fictional AI artwork, not evidence of a real discovery. The scientific sources cited here document natural environments and life."
+        ],
+        [
+          "Is there life beneath Antarctic ice?",
+          "Yes. Microbes have been sampled from Lake Whillans, and marine animals observed beneath floating shelves. These are different environments."
+        ],
+        [
+          "Does a melting floating shelf directly add its whole volume to sea level?",
+          "No. It is already afloat. A major concern is the loss of support that can accelerate grounded ice flowing into the sea."
+        ]
+      ],
+      "fr": [
+        [
+          "A-t-on découvert les ruines sous-marines du visuel ?",
+          "Non. Elles sont une fiction créée par IA, pas la preuve d’une découverte réelle. Les sources citées décrivent des milieux naturels et la vie."
+        ],
+        [
+          "Existe-t-il de la vie sous la glace antarctique ?",
+          "Oui. Des microbes ont été échantillonnés dans le lac Whillans et des animaux marins observés sous les plateformes flottantes. Ce sont des milieux différents."
+        ],
+        [
+          "Une plateforme fondante ajoute-t-elle directement tout son volume au niveau marin ?",
+          "Non. Elle flotte déjà. Un enjeu majeur est la perte d’appui qui peut accélérer l’écoulement de la glace continentale vers la mer."
+        ]
+      ],
+      "ar": [
+        [
+          "هل اكتُشفت الأطلال تحت الماء الظاهرة في الصورة؟",
+          "لا. الأطلال خيال فني مولد بالذكاء الاصطناعي وليست دليلاً على اكتشاف حقيقي. توثق المصادر المذكورة بيئات طبيعية وحياة."
+        ],
+        [
+          "هل توجد حياة تحت جليد القارة؟",
+          "نعم. أُخذت عينات ميكروبية من بحيرة ويلانز ورُصدت حيوانات بحرية تحت رفوف عائمة، وهما بيئتان مختلفتان."
+        ],
+        [
+          "هل يضيف ذوبان الرف العائم حجمه كله مباشرة إلى مستوى البحر؟",
+          "لا، فهو عائم أصلاً. الخطر المهم هو فقدان الدعم الذي قد يسرع تدفق الجليد المرتكز على اليابسة إلى البحر."
+        ]
+      ],
+      "es": [
+        [
+          "¿Se han descubierto las ruinas submarinas de la imagen?",
+          "No. Son ficción creada con IA, no pruebas de un descubrimiento real. Las fuentes citadas documentan ambientes naturales y vida."
+        ],
+        [
+          "¿Hay vida bajo el hielo antártico?",
+          "Sí. Se han muestreado microbios del lago Whillans y observado animales marinos bajo plataformas flotantes. Son ambientes distintos."
+        ],
+        [
+          "¿Una plataforma flotante que se derrite añade directamente todo su volumen al nivel del mar?",
+          "No. Ya está a flote. Una preocupación principal es perder el apoyo que frena el flujo del hielo continental hacia el mar."
+        ]
+      ]
+    }
+  }
+]

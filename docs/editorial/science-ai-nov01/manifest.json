@@ -1,0 +1,65 @@
+[
+  {
+    "key": "zebra",
+    "slug": "why-zebras-black-white-stripes-science",
+    "original": "3-1000087662.jpg",
+    "sourceSha256": "95cf4dfc5dbf2e389c31c949187b3f0fb216c06a65491337c23526dd7df03515",
+    "sha256": "5885b8f937780c474c501d4a560b314dd3a4693fc447fa98421685beeac85e89",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 174542,
+    "image": "/articles/why-zebras-black-white-stripes-ai-editorial.webp",
+    "credit": "AI-generated editorial illustration supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "traffic",
+    "slug": "can-ai-transform-city-traffic-lights",
+    "original": "1-1000087684.jpg",
+    "sourceSha256": "f2992ad06ffc390767ecbb858b617b19a4ebc2605b983308f54ce7070ced3874",
+    "sha256": "b76ea2749738b9b27947e6818bdbda6935f3fb8d7afc19e0d2ea99b5a3ef0ce7",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 163138,
+    "image": "/articles/ai-city-traffic-lights-ai-editorial.webp",
+    "credit": "AI-generated editorial illustration supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "antarctica",
+    "slug": "hidden-world-beneath-antarctica-ice",
+    "original": "2-1000087678.jpg",
+    "sourceSha256": "5de8f2e346f5c5948598f76451d063d0655287717c2fca5510f789d7373409a9",
+    "sha256": "86124e59f2885dd8b08803857ee56fe283838ee2244a00fb921b5c71be7e427d",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 181578,
+    "image": "/articles/hidden-world-beneath-antarctica-ice-ai-concept.webp",
+    "credit": "AI-generated editorial illustration supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]

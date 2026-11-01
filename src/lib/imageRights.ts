@@ -101,6 +101,8 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  // User-approved conceptual artwork. No creator or reuse licence was supplied.
+  if (["/articles/why-zebras-black-white-stripes-ai-editorial.webp","/articles/ai-city-traffic-lights-ai-editorial.webp","/articles/hidden-world-beneath-antarctica-ice-ai-concept.webp"].includes(source)) return { creditText: "AI-generated editorial illustration supplied for PRESDA" };
   // Supplied for this publication. Creator, copyright and reuse terms were not provided.
   if (["/articles/johan-cruyff-total-football-netherlands-editorial.webp","/articles/white-dwarf-j1328-1450-two-debris-rings-illustration.webp","/articles/youtube-history-three-founders-online-video-editorial.webp"].includes(source)) return { creditText: "Image supplied for PRESDA" };
   if (source === "/articles/tiger-mother-cubs-editorial.webp") {

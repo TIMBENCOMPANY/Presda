@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-01",
+  "baselineCommit": "b3aace91ab248e513f9ce7d23dce12906c17a605",
+  "productionBuild": {
+    "status": "passed",
+    "generatedPages": 1540
+  },
+  "localBrowser": {
+    "status": "passed",
+    "editions": 12,
+    "viewports": 84,
+    "widths": [
+      320,
+      390,
+      768,
+      844,
+      1024,
+      1366,
+      1920
+    ],
+    "locales": [
+      "en",
+      "fr",
+      "ar",
+      "es"
+    ],
+    "checks": [
+      "HTTP 200",
+      "one localized H1",
+      "SEO title and description",
+      "self canonical",
+      "reciprocal hreflang and x-default",
+      "Article and ImageObject",
+      "localized BreadcrumbList",
+      "source citations",
+      "localized alt and visible AI credit",
+      "original image hash and geometry",
+      "both hero edges visible",
+      "no horizontal overflow or transforms",
+      "Bruno width/alignment/typography",
+      "H1/deck/date/read-time contained",
+      "visible H2 and FAQ",
+      "valid internal destinations",
+      "correct category membership",
+      "article/image sitemap association",
+      "crawl access",
+      "evergreen exclusion from news sitemap"
+    ]
+  },
+  "visualReview": {
+    "status": "passed",
+    "fullHeroCaptures": 26,
+    "languageContactSheets": 6,
+    "brunoComparisonSheets": 2,
+    "desktopWidth": 1366,
+    "mobileWidth": 390,
+    "bodyLocales": [
+      "en",
+      "fr",
+      "ar"
+    ]
+  },
+  "baselineRecords": "All existing generated translations, routes and image dimensions unchanged",
+  "deployment": "Release and live verification evidence is retained separately in the task outputs."
+}

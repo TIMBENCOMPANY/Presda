@@ -769,15 +769,15 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
 
 /* Prepared heroes retain Bruno's shared layout and their complete source geometry. */
 @media (min-width: 1024px) {
-  .article-hero.article-hero--prepared-oct31 { height: auto; }
-  .article-hero.article-hero--prepared-oct31 .article-hero-media {
+  .article-hero.article-hero--full-image { height: auto; }
+  .article-hero.article-hero--full-image .article-hero-media {
     position: relative;
     inset: auto;
     width: 100%;
     height: auto;
     aspect-ratio: var(--hero-image-ratio);
   }
-  .article-hero.article-hero--prepared-oct31 .article-hero-image {
+  .article-hero.article-hero--full-image .article-hero-image {
     display: block;
     width: 100%;
     max-width: 100%;
@@ -785,7 +785,7 @@ html[dir="rtl"] .home-latest-copy { padding-left: 44px; padding-right: 12px; }
     object-fit: contain;
     transform: none;
   }
-  .article-hero.article-hero--prepared-oct31 .article-hero-content {
+  .article-hero.article-hero--full-image .article-hero-content {
     position: absolute;
     inset: 0;
   }

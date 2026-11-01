@@ -1066,6 +1066,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/can-ai-transform-city-traffic-lights/",
+    "path": "/ar/articles/can-ai-transform-city-traffic-lights/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/can-ai-transform-city-traffic-lights/",
+    "path": "/es/articles/can-ai-transform-city-traffic-lights/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/can-ai-transform-city-traffic-lights/",
+    "path": "/fr/articles/can-ai-transform-city-traffic-lights/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/can-hypnosis-really-control-your-mind/",
     "path": "/ar/articles/can-hypnosis-really-control-your-mind/"
   },
@@ -2248,6 +2263,21 @@
     "locale": "fr",
     "englishPath": "/articles/harry-kane-ballon-dor-2026-england-25-year-wait/",
     "path": "/fr/articles/harry-kane-ballon-dor-2026-england-25-year-wait/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/hidden-world-beneath-antarctica-ice/",
+    "path": "/ar/articles/hidden-world-beneath-antarctica-ice/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/hidden-world-beneath-antarctica-ice/",
+    "path": "/es/articles/hidden-world-beneath-antarctica-ice/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/hidden-world-beneath-antarctica-ice/",
+    "path": "/fr/articles/hidden-world-beneath-antarctica-ice/"
   },
   {
     "locale": "ar",
@@ -5218,6 +5248,21 @@
     "locale": "fr",
     "englishPath": "/articles/why-people-trust-ai-like-a-friend/",
     "path": "/fr/articles/why-people-trust-ai-like-a-friend/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/why-zebras-black-white-stripes-science/",
+    "path": "/ar/articles/why-zebras-black-white-stripes-science/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/why-zebras-black-white-stripes-science/",
+    "path": "/es/articles/why-zebras-black-white-stripes-science/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/why-zebras-black-white-stripes-science/",
+    "path": "/fr/articles/why-zebras-black-white-stripes-science/"
   },
   {
     "locale": "ar",
