@@ -4,6 +4,22 @@ import type { Locale } from "@/lib/i18n/routing";
 
 // Homepage editorial placements only. Category selections remain independent.
 export const homeHeroSlugs = [
+  "cristiano-ronaldo-ballon-dor-all-time-paid-fan-vote",
+  "alexander-zverev-first-world-number-one-ranking",
+  "dicaprio-jennifer-lawrence-scorsese-what-happens-at-night",
+  "mbappe-apologizes-china-mao-zedong-remarks",
+  "kim-kardashian-skims-business-empire",
+  "lebron-james-science-basketball-longevity",
+  "margot-robbie-hollywood-star-powerful-producer",
+  "beyonce-kelly-rowland-houston-knowles-rowland-house",
+  "megan-fox-subs-co-owner-tim-stokely",
+  "anne-hathaway-baby-bump-verity-premiere-2026",
+  "carlos-alcaraz-vienna-open-2026-final-de-minaur",
+  "david-beckhams-unexpected-passion-beyond-football"
+] as const;
+
+// Keep the existing latest/more feeds independent of this carousel-only change.
+const homeFeedExclusionSlugs = [
   "harry-kane-ballon-dor-2026-england-25-year-wait",
   "sir-nils-olav-penguin-major-general",
   "margot-robbie-hollywood-star-powerful-producer",
@@ -40,7 +56,7 @@ export function selectHomeArticles(articles: readonly Article[], now: Date, loca
   });
   const featured = pick(homeHeroSlugs);
   const editorialPicks = pick(homeSideSlugs);
-  const excluded = new Set([...featured, ...editorialPicks].map(article => article.slug));
+  const excluded = new Set([...pick(homeFeedExclusionSlugs), ...editorialPicks].map(article => article.slug));
   const remaining = Array.from(bySlug.values()).filter(article => !excluded.has(article.slug))
     // Slug resolves equal publication dates independently of catalogue order or locale.
     .sort((a, b) => Date.parse(b.date) - Date.parse(a.date) || (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0));

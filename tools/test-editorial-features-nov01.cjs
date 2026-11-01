@@ -49,18 +49,24 @@ try{
   const faqs=ed.faq||a.faq;for(const f of faqs){assert(await page.getByText(f.question,{exact:true}).count());}
   assert(await page.locator('h1 span').count()>=2,'White/red/gold editorial headline');
 
-  assert.equal(d.fit,'contain','Entire source artwork is visible');assert(d.natural[0]>0&&d.natural[1]>0);
+  assert.equal(d.fit,width>=1024?'cover':'contain','Bruno desktop framing and full mobile image');assert(d.natural[0]>0&&d.natural[1]>0);
   assert(Math.abs(d.hero.width-refs[width].width)<1,'Bruno frame width');assert(Math.abs(d.hero.x-refs[width].x)<1,'Bruno frame alignment');
   // Check actual painted geometry, not just the object-fit label: the old fixed
   // desktop box passed contain-only checks while shrinking the image sideways.
   assert(Math.abs(d.image.width-d.media.width)<1,'Full media width');
-  assert(Math.abs(d.image.height-d.image.width*d.sourceDimensions[1]/d.sourceDimensions[0])<1,'Original image aspect ratio at every breakpoint');
+  const ratio=d.sourceDimensions[0]/d.sourceDimensions[1];
+  if(width<1024)assert(Math.abs(d.image.height-d.image.width/ratio)<1,'Natural mobile image');
+  else {
+   assert(Math.abs(d.hero.height-Math.min(refs[width].height,d.hero.width/ratio))<2,'Bruno height with no-side-crop cap');
+   const scale=Math.max(d.image.width/d.sourceDimensions[0],d.image.height/d.sourceDimensions[1]);
+   assert(Math.abs(scale*d.sourceDimensions[0]-d.image.width)<1,'Both source sides visible without horizontal zoom');
+  }
   assert.equal(d.transform,'none','No zoom or translation');
   assert(Math.abs(d.image.x-d.media.x)<1&&Math.abs(d.image.right-d.media.right)<1,'Both image edges align with the frame');
   assert.equal(d.fontFamily,refs[width].fontFamily,'Bruno typography family');assert.equal(d.fontWeight,refs[width].fontWeight,'Bruno typography weight');
-  if(width>=1024)assert(Math.abs(d.hero.height-d.image.height-2)<1,'Desktop hero height follows full image, including the shared border');
+  if(width>=1024)assert(Math.abs(d.hero.height-d.image.height-2)<1,'Desktop media fills the bounded frame, including its border');
   for(const [name,r] of Object.entries({title:d.title,subtitle:d.deck,date:d.date,readingTime:d.meta}))assert(r.x>=d.hero.x&&r.right<=d.hero.right+1&&r.y>=d.hero.y&&r.bottom<=d.hero.bottom+1,route+' fully visible '+name);
-  // Contain scales both axes uniformly, with all four source edges inside the image element.
+  // Desktop cover may crop vertically; both source sides remain visible.
   const scale=Math.min(d.image.width/d.natural[0],d.image.height/d.natural[1]);assert(scale*d.natural[0]<=d.image.width+0.01&&scale*d.natural[1]<=d.image.height+0.01);
   const headings=l==='en'?a.content.filter(x=>x.startsWith('## ')).map(x=>x.slice(3)):ed.content.filter(x=>x.type==='heading').map(x=>x.text);for(const h of headings){const el=page.getByRole('heading',{level:2,name:h,exact:true});assert.equal(await el.count(),1);assert(await el.isVisible(),'Visible H2');assert(await el.evaluate(e=>e.scrollWidth<=e.clientWidth+1),'Unclipped H2');}
   if(width===390){
