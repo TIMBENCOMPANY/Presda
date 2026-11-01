@@ -1,0 +1,123 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/electronic-skin-robots-sense-of-touch/",
+  "path": "/es/articles/electronic-skin-robots-sense-of-touch/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-01",
+    "terminologyChecked": true
+  },
+  "title": "PIEL ELECTRÓNICA: DAR A LOS ROBOTS EL SENTIDO HUMANO DEL TACTO",
+  "seoTitle": "Piel electrónica: cómo los robots detectan el tacto",
+  "description": "La piel electrónica convierte presión, calor y daños en señales. Analizamos los experimentos, el aprendizaje automático y los límites del tacto robótico.",
+  "excerpt": "La piel electrónica convierte presión, calor y daños en señales. Analizamos los experimentos, el aprendizaje automático y los límites del tacto robótico.",
+  "headlineHighlights": {
+    "red": "PIEL ELECTRÓNICA",
+    "gold": "SENTIDO HUMANO DEL TACTO"
+  },
+  "keywords": [
+    "PIEL ELECTRÓNICA",
+    "SENTIDO HUMANO DEL TACTO"
+  ],
+  "searchIntent": "La piel electrónica convierte presión, calor y daños en señales. Analizamos los experimentos, el aprendizaje automático y los límites del tacto robótico.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "image": {
+    "src": "/articles/electronic-skin-robot-touch-ai-concept.webp",
+    "alt": "Ilustración con IA de un dedo tocando una mano robótica sensible, no una fotografía de un prototipo documentado"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un robot puede ver un objeto y agarrarlo mal. El contacto aporta información que una cámara sola no ofrece: resistencia de la superficie, cambios en la sujeción o daños en la cubierta. La piel electrónica busca distribuir esa información por una superficie blanda. «Tacto humano» describe la inspiración técnica, no demuestra una experiencia humana."
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué es la piel electrónica?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La piel electrónica es un sistema flexible que convierte estímulos físicos en información eléctrica. Distintos diseños detectan presión, deformación o temperatura mediante mecanismos diferentes. La cadena esencial es contacto, medición, interpretación y respuesta. La cubierta solo resulta útil si el robot transforma las lecturas en una acción adecuada. [Fuente: www.ucl.ac.uk](https://www.ucl.ac.uk/news/2025/jun/improved-electronic-skin-gives-robots-human-touch)"
+    },
+    {
+      "type": "heading",
+      "text": "Toda una superficie puede convertirse en sensor"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2025, investigadores de Cambridge y UCL presentaron una piel sensorial blanda de una sola capa con tomografía de impedancia eléctrica. En lugar de colocar un dispositivo en cada punto de contacto, leen cambios eléctricos a través de un material conductor. El artículo de Science Robotics describe cómo organizar esa información distribuida en señales útiles. [Fuente: www.science.org](https://www.science.org/doi/10.1126/scirobotics.adq2303)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo moldeó un hidrogel conductor de gelatina con forma de mano y 32 electrodos en la muñeca. Probó presión, contacto suave, calor y cortes, y entrenó un modelo con los patrones resultantes. Los electrodos no equivalen a receptores humanos: el sistema aprende la relación entre mediciones eléctricas cambiantes y estímulos ensayados. [Fuente: www.cam.ac.uk](https://www.cam.ac.uk/stories/robotic-skin)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué importa el aprendizaje"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cambio eléctrico puede tener varias causas. Una cubierta flexible puede estirarse, calentarse o recibir presión, a veces a la vez. El modelo debe distinguir patrones. Por eso importan las condiciones de entrenamiento: reconocer contactos familiares no demuestra automáticamente fiabilidad con cualquier objeto, temperatura o superficie dañada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sostener algo frágil ilustra el problema de control. Detectar contacto podría ayudar a ajustar la sujeción. Pero la información útil exige más que un material sensible: calibración, respuesta, repetibilidad y conexión fiable con el movimiento. Es un ejemplo de diseño, no la afirmación de que la mano estudiada resuelva cualquier agarre de objetos frágiles."
+    },
+    {
+      "type": "heading",
+      "text": "Detección robótica y sensación biológica son problemas distintos"
+    },
+    {
+      "type": "paragraph",
+      "text": "En 2023, Stanford demostró otro enfoque: electrónica blanda integrada que convierte estímulos en impulsos similares a los nerviosos. Aborda otra parte de la cadena sensorial. Un controlador robótico y un sistema nervioso biológico no son intercambiables. Las aplicaciones protésicas requieren evidencia propia; una demostración no establece sensación restaurada en un paciente humano. [Fuente: news.stanford.edu](https://news.stanford.edu/stories/2023/05/soft-e-skin-talks-brain)"
+    },
+    {
+      "type": "heading",
+      "text": "¿Qué demostraría el siguiente paso?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prueba práctica es una piel que mantenga mediciones útiles al doblarse, envejecer y salir del laboratorio. Cambridge señala durabilidad y tareas robóticas reales como trabajo futuro. Nuestro [artículo sobre interfaces cerebrales](/articles/brain-to-voice-ai-speech-brain-computer-interfaces/) explica otro problema de traducción de señales. La imagen con IA es conceptual, no un prototipo luminoso documentado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [La revolución robótica](/articles/robot-revolution-ai-future-2030/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.ucl.ac.uk",
+      "url": "https://www.ucl.ac.uk/news/2025/jun/improved-electronic-skin-gives-robots-human-touch"
+    },
+    {
+      "label": "Fuente: www.science.org",
+      "url": "https://www.science.org/doi/10.1126/scirobotics.adq2303"
+    },
+    {
+      "label": "Fuente: www.cam.ac.uk",
+      "url": "https://www.cam.ac.uk/stories/robotic-skin"
+    },
+    {
+      "label": "Fuente: news.stanford.edu",
+      "url": "https://news.stanford.edu/stories/2023/05/soft-e-skin-talks-brain"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Hace que un robot sienta dolor?",
+      "answer": "Detectar presión, calor o daños no demuestra dolor subjetivo. Los sistemas citados miden y procesan señales físicas."
+    },
+    {
+      "question": "¿Qué distinguía al sistema Cambridge–UCL de 2025?",
+      "answer": "Utilizaba un material blando conductor como sensor distribuido, con electrodos en la muñeca y aprendizaje para interpretar distintos estímulos."
+    },
+    {
+      "question": "¿La imagen fotografía el prototipo publicado?",
+      "answer": "No. Es una ilustración conceptual con IA. Sus circuitos luminosos son artísticos, no evidencia del aspecto del dispositivo investigado."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/ancient-proteins-denisovans-new-fossil-clues/",
+  "path": "/fr/articles/ancient-proteins-denisovans-new-fossil-clues/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-01",
+    "terminologyChecked": true
+  },
+  "title": "DES PROTÉINES ANCIENNES LIVRENT DE NOUVEAUX INDICES SUR LES MYSTÉRIEUX DÉNISOVIENS",
+  "seoTitle": "Des protéines anciennes éclairent les Dénisoviens",
+  "description": "Les études de protéines identifient des fossiles dénisoviens et éclairent leur anatomie. Les preuves de 2026, et les limites d’un visage imaginé.",
+  "excerpt": "Les études de protéines identifient des fossiles dénisoviens et éclairent leur anatomie. Les preuves de 2026, et les limites d’un visage imaginé.",
+  "headlineHighlights": {
+    "red": "PROTÉINES ANCIENNES",
+    "gold": "DÉNISOVIENS"
+  },
+  "keywords": [
+    "PROTÉINES ANCIENNES",
+    "DÉNISOVIENS"
+  ],
+  "searchIntent": "Les études de protéines identifient des fossiles dénisoviens et éclairent leur anatomie. Les preuves de 2026, et les limites d’un visage imaginé.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "image": {
+    "src": "/articles/denisovans-ancient-proteins-ai-concept.webp",
+    "alt": "Portrait conceptuel par IA d’un humain ancien dans une grotte ; l’apparence exacte des Dénisoviens reste inconnue"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un fragment osseux peut conserver un indice moléculaire longtemps après la disparition de son propriétaire. Chez les Dénisoviens, groupe humain éteint d’abord reconnu par la génétique, cet indice relie désormais les noms à des squelettes. Les études de protéines anciennes élargissent le registre fossile. Elles établissent mieux l’ascendance et l’anatomie que le visage d’un individu précis."
+    },
+    {
+      "type": "heading",
+      "text": "Que peut révéler une protéine ancienne ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La paléoprotéomique étudie les fragments de protéines conservés, notamment l’ordre de leurs acides aminés. Certaines différences de séquence aident à distinguer des lignées avec des références appropriées. Les protéines ne livrent pas un génome entier. Leur intérêt est de parfois subsister sous une forme identifiable lorsque l’ADN ancien récupérable est rare. [Source: erc.europa.eu](https://erc.europa.eu/news-events/news/denisovans-extinct-human-species-once-lived-east-asia-fossil-shows)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La méthode relie ainsi biologie moléculaire et collections fossiles. Un os peut sembler humain tout en restant difficile à attribuer. Une variante protéique informative précise cette attribution. L’interprétation la plus solide combine conservation, contrôles de laboratoire, contexte géologique et comparaison avec d’autres spécimens."
+    },
+    {
+      "type": "heading",
+      "text": "Cinq restes identifiés dans la grotte de Bianfu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude de Nature publiée en septembre 2026 a attribué aux Dénisoviens deux dents, deux fragments crâniens et une partie de radius de la grotte de Bianfu, au Yunnan. Cet os de l’avant-bras est précieux au-delà des dents et crânes mieux connus. Cinq restes ne signifient pas cinq personnes identifiées indépendamment. [Source: www.nature.com](https://www.nature.com/articles/s41586-026-10976-9)"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’Académie chinoise des sciences décrit un mélange de caractères anatomiques dans le radius, plutôt qu’une copie d’un avant-bras néandertalien ou moderne. Le changement est important : les Dénisoviens deviennent un groupe dont on étudie la variation physique, et non une simple étiquette génétique sur quelques fragments familiers. [Source: english.cas.cn](https://english.cas.cn/newsroom/research-news/202609/t20260906_1192641.shtml)"
+    },
+    {
+      "type": "heading",
+      "text": "Xujiayao précise la forme du crâne"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un article de Nature d’octobre 2026 a analysé les protéines de deux spécimens de Xujiayao et comparé l’anatomie de l’assemblage à d’autres humains anciens. Les données moléculaires soutenaient l’affiliation dénisovienne. L’étude décrit ensuite un ensemble de caractères crâniens, faciaux et dentaires pour mieux comparer des fossiles à la place évolutive auparavant incertaine. [Source: www.nature.com](https://www.nature.com/articles/s41586-026-11132-z)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fossile identifié moléculairement et un autre qui lui ressemble n’apportent pas la même force de preuve. La ressemblance soutient une hypothèse élargie sans transformer chaque parent proposé en individu confirmé par l’ADN. Le tableau s’enrichit parce que des indices indépendants peuvent être comparés, sans imposer une catégorie familière à tous les spécimens."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que le visage imaginé ne peut établir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le visuel est un portrait conceptuel créé par IA. Cheveux, peau, expression, vêtements et grotte relèvent de choix artistiques, pas de ces études protéiques. Un crâne contraint certaines décisions de reconstitution tout en laissant incertains de nombreux tissus mous. Notre [article sur l’ADN dénisovien](/articles/denisovans-lost-humans-dna/) apporte le contexte génétique ; les protéines y ajoutent de nouveaux fossiles."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [Les Dénisoviens et leur héritage génétique](/articles/denisovans-lost-humans-dna/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: erc.europa.eu",
+      "url": "https://erc.europa.eu/news-events/news/denisovans-extinct-human-species-once-lived-east-asia-fossil-shows"
+    },
+    {
+      "label": "Source: www.nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-10976-9"
+    },
+    {
+      "label": "Source: english.cas.cn",
+      "url": "https://english.cas.cn/newsroom/research-news/202609/t20260906_1192641.shtml"
+    },
+    {
+      "label": "Source: www.nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-11132-z"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qu’est-ce que la paléoprotéomique ?",
+      "answer": "C’est l’étude des protéines anciennes conservées. Leurs différences de séquence peuvent aider à identifier des lignées avec des références fiables."
+    },
+    {
+      "question": "A-t-on identifié cinq personnes à Bianfu ?",
+      "answer": "L’étude a identifié cinq restes dénisoviens : deux dents, deux fragments crâniens et un radius partiel. Cela ne démontre pas cinq individus distincts."
+    },
+    {
+      "question": "L’image montre-t-elle un visage dénisovien vérifié ?",
+      "answer": "Non. C’est une illustration conceptuelle par IA. Ces études protéiques ne déterminent pas l’apparence exacte de l’individu représenté."
+    }
+  ]
+}

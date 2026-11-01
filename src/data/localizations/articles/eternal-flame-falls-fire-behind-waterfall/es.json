@@ -1,0 +1,111 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/eternal-flame-falls-fire-behind-waterfall/",
+  "path": "/es/articles/eternal-flame-falls-fire-behind-waterfall/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-01",
+    "terminologyChecked": true
+  },
+  "title": "ETERNAL FLAME FALLS: EL FUEGO QUE ARDE DETRÁS DE UNA CASCADA",
+  "seoTitle": "Eternal Flame Falls: por qué arde fuego tras una cascada",
+  "description": "Descubre la filtración natural de gas de Eternal Flame Falls, las mediciones geológicas y por qué la llama no es literalmente eterna.",
+  "excerpt": "Descubre la filtración natural de gas de Eternal Flame Falls, las mediciones geológicas y por qué la llama no es literalmente eterna.",
+  "headlineHighlights": {
+    "red": "ETERNAL FLAME FALLS",
+    "gold": "DETRÁS DE UNA CASCADA"
+  },
+  "keywords": [
+    "ETERNAL FLAME FALLS",
+    "DETRÁS DE UNA CASCADA"
+  ],
+  "searchIntent": "Descubre la filtración natural de gas de Eternal Flame Falls, las mediciones geológicas y por qué la llama no es literalmente eterna.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "image": {
+    "src": "/articles/eternal-flame-falls-natural-gas-ai-illustration.webp",
+    "alt": "Ilustración conceptual con IA de una llama en una cavidad rocosa tras una cascada, inspirada en Eternal Flame Falls; no muestra condiciones medidas."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El agua cae sobre roca oscura mientras una pequeña llama arde en un hueco protegido. En Eternal Flame Falls, la aparente contradicción es real, pero la explicación es geológica. El gas natural que sale del terreno proporciona combustible. El agua no arde y el lugar no es una chimenea volcánica oculta."
+    },
+    {
+      "type": "heading",
+      "text": "Donde se encuentran el fuego y el agua"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cascada está en Chestnut Ridge Park, en Orchard Park, condado de Erie, Nueva York. La administración del parque sitúa la zona de la llama en el sector de Shale Creek. El paisaje combina roca, agua corriente y una filtración de gas, no una instalación construida para mantener un fuego artificial permanente. [Fuente: www3.erie.gov](https://www3.erie.gov/parks/chestnut-ridge)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una llama necesita combustible, oxígeno e ignición. La filtración aporta gas combustible y el aire proporciona oxígeno. Un hueco en la roca puede proteger el fuego mientras el agua pasa por delante. No hace falta una nueva ley química: el efecto surge de la proximidad entre agua y combustión."
+    },
+    {
+      "type": "heading",
+      "text": "Qué midieron los investigadores en el gas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio de 2013 de Giuseppe Etiope, Agnieszka Drobniak y Arndt Schimmelmann investigó filtraciones de gas de lutita y llamas en el norte de la cuenca de los Apalaches. En el lugar de Nueva York registró una proporción combinada inusualmente alta de etano y propano, aproximadamente el 35 % en volumen. Son componentes de una mezcla gaseosa, no combustible líquido en la cascada. [Fuente: www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0264817213000378)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El análisis geoquímico identifica el gas como predominantemente termogénico, asociado al gas de lutita. El término se refiere a la formación geológica de hidrocarburos por calor sobre materia orgánica a lo largo del tiempo. No significa que la roca junto a la llama esté caliente hoy ni que la cascada fabrique combustible. Formación, migración y combustión son etapas distintas."
+    },
+    {
+      "type": "heading",
+      "text": "Por qué «eterna» no es una garantía"
+    },
+    {
+      "type": "paragraph",
+      "text": "La llama puede apagarse. Una entrega de Chemistry in Pictures publicada en 2019 por Chemical & Engineering News, de la American Chemical Society, describe su reencendido. El nombre no debe convertirse en una afirmación de combustión ininterrumpida desde una fecha antigua desconocida. Un aporte persistente de gas y una llama siempre visible son cosas distintas. [Fuente: cen.acs.org](https://cen.acs.org/physical-chemistry/geochemistry/Chemistry-Pictures-Eternal-flame/97/web/2019/01)"
+    },
+    {
+      "type": "heading",
+      "text": "Un lugar extraordinario, representado con honestidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen aprobada con IA intensifica el dramatismo. Es conceptual: el tamaño del fuego, el caudal y la disposición de las rocas no son mediciones ni condiciones actuales. Lo extraordinario de Eternal Flame Falls no necesita un origen inventado. Es el encuentro visible entre combustible geológico, una reacción química en el aire y agua en movimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [Fenómenos naturales que parecen imposibles](/articles/20-rare-natural-phenomena-seem-impossible/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www3.erie.gov",
+      "url": "https://www3.erie.gov/parks/chestnut-ridge"
+    },
+    {
+      "label": "Fuente: www.sciencedirect.com",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264817213000378"
+    },
+    {
+      "label": "Fuente: cen.acs.org",
+      "url": "https://cen.acs.org/physical-chemistry/geochemistry/Chemistry-Pictures-Eternal-flame/97/web/2019/01"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Qué alimenta el fuego?",
+      "answer": "Una filtración de gas natural aporta hidrocarburos combustibles. El agua de la cascada no arde."
+    },
+    {
+      "question": "¿Arde literalmente para siempre?",
+      "answer": "No. Puede apagarse y volver a encenderse. Su nombre no demuestra una combustión antigua ininterrumpida."
+    },
+    {
+      "question": "¿Dónde está Eternal Flame Falls?",
+      "answer": "En la zona de Shale Creek de Chestnut Ridge Park, en Orchard Park, condado de Erie, Nueva York."
+    }
+  ]
+}

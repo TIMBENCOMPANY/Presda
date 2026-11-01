@@ -1,0 +1,107 @@
+[
+  {
+    "key": "denisovans",
+    "slug": "ancient-proteins-denisovans-new-fossil-clues",
+    "original": "5-1000087761.jpg",
+    "sourceSha256": "acd4ecab8e36863910b4310f38c6d1d1e309d40a2641afb4c46aa614ec65c0dd",
+    "sha256": "abebdcfe87bb6b58d57516f60a7e883642e2ac853d9a6498aa0b1a4f40cc55e9",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 144964,
+    "image": "/articles/denisovans-ancient-proteins-ai-concept.webp",
+    "credit": "AI-generated editorial illustration supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "eskin",
+    "slug": "electronic-skin-robots-sense-of-touch",
+    "original": "4-1000087762.jpg",
+    "sourceSha256": "dc1064c03c312f91cfa6156f24ef5590d614b9787f01c879a55ddd83f2071026",
+    "sha256": "3b9f70b2bc84ea82e211997ee9caffadb2d7cf5b8b43ad34b54e7855fd2daa67",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 125678,
+    "image": "/articles/electronic-skin-robot-touch-ai-concept.webp",
+    "credit": "AI-generated editorial illustration supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "octopus",
+    "slug": "glass-octopus-vitreledonella-richardi",
+    "original": "1-1000087769.jpg",
+    "sourceSha256": "30da8733be48d49751ec5d983da6f80a582dc2af90f248dc79dc05de073224cb",
+    "sha256": "bf85c5889dafa79ef28b022c14ec786f57f018d344f87e658067e5dd7f7c3256",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 142770,
+    "image": "/articles/glass-octopus-vitreledonella-richardi-ai-illustration.webp",
+    "credit": "AI-generated editorial illustration supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "yashin",
+    "slug": "lev-yashin-only-goalkeeper-ballon-dor",
+    "original": "3-1000087765.jpg",
+    "sourceSha256": "056579915e50833c49e2be57fc08591e16fa23db00bd501b17b0f5a8e970613e",
+    "sha256": "e9964b04044eb8fa3d7b8fb79acb8e447dcf12a0380928cd617e4d5a4e57e38b",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 103534,
+    "image": "/articles/lev-yashin-ballon-dor-1963-ai-editorial.webp",
+    "credit": "AI-generated editorial illustration supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "flame",
+    "slug": "eternal-flame-falls-fire-behind-waterfall",
+    "original": "2-1000087768.jpg",
+    "sourceSha256": "53c4566014de8b93052f4c89413ab740fba138b2fcbf736de6cbc2e19a15ce1c",
+    "sha256": "b27a2be8c904a9be98fc63b8d1a4d4291d2cccfde6f0da6bc129d7f88240a634",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 199402,
+    "image": "/articles/eternal-flame-falls-natural-gas-ai-illustration.webp",
+    "credit": "AI-generated editorial illustration supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/glass-octopus-vitreledonella-richardi/",
+  "path": "/fr/articles/glass-octopus-vitreledonella-richardi/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-01",
+    "terminologyChecked": true
+  },
+  "title": "LE POULPE DE VERRE : LA CRÉATURE PRESQUE INVISIBLE DES PROFONDEURS",
+  "seoTitle": "Poulpe de verre : une créature transparente des profondeurs",
+  "description": "Découvrez Vitreledonella richardi, les observations scientifiques du poulpe de verre et les limites de son illustration conceptuelle par IA.",
+  "excerpt": "Découvrez Vitreledonella richardi, les observations scientifiques du poulpe de verre et les limites de son illustration conceptuelle par IA.",
+  "headlineHighlights": {
+    "red": "POULPE DE VERRE",
+    "gold": "PRESQUE INVISIBLE"
+  },
+  "keywords": [
+    "POULPE DE VERRE",
+    "PRESQUE INVISIBLE"
+  ],
+  "searchIntent": "Découvrez Vitreledonella richardi, les observations scientifiques du poulpe de verre et les limites de son illustration conceptuelle par IA.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "image": {
+    "src": "/articles/glass-octopus-vitreledonella-richardi-ai-illustration.webp",
+    "alt": "Illustration par IA d’un poulpe transparent aux organes visibles au-dessus d’un fond rocheux ; représentation artistique, pas une observation scientifique."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Imaginez un animal dont les contours semblent se dissoudre dans l’eau. Le poulpe de verre, Vitreledonella richardi, offre ce spectacle. Une grande partie de son corps est transparente, alors que certaines structures internes restent visibles. L’animal existe réellement, mais l’image spectaculaire ci-dessus est une illustration par IA, pas la photographie qui aurait établi son existence."
+    },
+    {
+      "type": "heading",
+      "text": "Un corps qui laisse passer la lumière"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Schmidt Ocean Institute décrit un poulpe presque entièrement transparent, dont ressortent le nerf optique, les yeux et le tube digestif. La transparence réduit le contraste d’une grande partie du corps avec le milieu. Elle constitue ainsi un camouflage plausible en pleine eau, où les cachettes solides sont rares. Elle ne rend pas l’animal invisible : éclairage, angle de vue et organes opaques comptent toujours. [Source: schmidtocean.org](https://schmidtocean.org/scientists-explore-seamounts-in-phoenix-islands-archipelago-gaining-new-insights-into-deep-water-diversity-and-ecology/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nom « poulpe de verre » décrit une apparence, pas une matière. Ses tissus sont vivants, pas faits de verre. La transparence ne signifie pas non plus que tous les organes ont disparu. Les yeux et le système digestif visibles participent à son étrangeté : on distingue un corps vivant dont les limites sont difficiles à suivre."
+    },
+    {
+      "type": "heading",
+      "text": "Ce que l’expédition de 2021 a réellement observé"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lors d’une expédition de 2021 dans la région des îles Phœnix, dans le Pacifique, l’équipe du R/V Falkor a filmé deux poulpes de verre. Le journal de mission situe la première rencontre à 680 mètres. Ces observations précieuses concernent un animal difficile à rencontrer ; elles n’annoncent pas une espèce découverte en 2026. Une rencontre rare peut enrichir les connaissances sans constituer une découverte taxonomique. [Source: schmidtocean.org](https://schmidtocean.org/cruise-log-post/244-coral-samples-14-seamounts-and-2-glass-octopuses/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un véhicule téléopéré permet d’observer l’animal dans la colonne d’eau, au lieu de dépendre uniquement de restes collectés. La vidéo documente posture, mouvement et environnement au moment de la rencontre. Deux observations ne suffisent toutefois pas à établir un effectif, un régime complet ou tout un cycle de vie. Les images sont des preuves de portée précise, pas un remplacement de toutes les autres recherches."
+    },
+    {
+      "type": "heading",
+      "text": "Une illustration n’identifie pas une espèce"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le visuel approuvé imagine un poulpe transparent près d’un fond rocheux, avec de grands yeux ronds et des détails semblant lumineux. Ces choix artistiques ne constituent pas un portrait diagnostique de Vitreledonella richardi. L’animal documenté est pélagique, associé à la colonne d’eau. L’illustration ne démontre ni comportement récifal ni bioluminescence, et ne vérifie pas la forme d’un spécimen scientifique."
+    },
+    {
+      "type": "heading",
+      "text": "L’intérêt d’observer avec précision"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le poulpe de verre fascine sans pouvoirs impossibles ni découvertes inventées. Sa transparence, la difficulté de l’observer et les images des explorations profondes racontent déjà une histoire extraordinaire. Chaque rencontre bien documentée ajoute un élément limité mais vérifiable à notre connaissance de la vie océanique."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [Pourquoi les cachalots dorment à la verticale](/articles/why-sperm-whales-sleep-vertically/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: schmidtocean.org",
+      "url": "https://schmidtocean.org/scientists-explore-seamounts-in-phoenix-islands-archipelago-gaining-new-insights-into-deep-water-diversity-and-ecology/"
+    },
+    {
+      "label": "Source: schmidtocean.org",
+      "url": "https://schmidtocean.org/cruise-log-post/244-coral-samples-14-seamounts-and-2-glass-octopuses/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Le poulpe de verre est-il totalement invisible ?",
+      "answer": "Non. Une grande partie du corps est transparente, mais les yeux, le nerf optique et des structures digestives restent visibles."
+    },
+    {
+      "question": "Était-ce une espèce découverte en 2021 ?",
+      "answer": "Non. L’expédition a observé une espèce déjà connue, notamment lors d’une rencontre à 680 mètres."
+    },
+    {
+      "question": "Le visuel est-il une image de recherche authentique ?",
+      "answer": "Non. C’est une illustration éditoriale par IA. Le fond rocheux et les détails lumineux sont artistiques, pas des comportements documentés."
+    }
+  ]
+}

@@ -1,0 +1,1015 @@
+[
+  {
+    "key": "denisovans",
+    "slug": "ancient-proteins-denisovans-new-fossil-clues",
+    "category": "Science",
+    "schemaType": "Article",
+    "image": "denisovans-ancient-proteins-ai-concept.webp",
+    "attachment": "5-1000087761.jpg",
+    "tags": [
+      "Denisovans",
+      "Ancient proteins",
+      "Human evolution",
+      "Palaeoproteomics"
+    ],
+    "related": "denisovans-lost-humans-dna",
+    "relatedLabel": [
+      "Denisovans and the DNA they left behind",
+      "Les Dénisoviens et leur héritage génétique",
+      "الدينيسوفان والحمض النووي الذي تركوه",
+      "Los denisovanos y su legado genético"
+    ],
+    "meta": {
+      "en": [
+        "ANCIENT PROTEINS REVEAL NEW CLUES ABOUT THE MYSTERIOUS DENISOVANS",
+        "Ancient Proteins Reveal New Clues About Denisovans",
+        "New protein studies identify Denisovan fossils and illuminate their anatomy. Explore the 2026 evidence and why an imagined face remains a reconstruction.",
+        "ANCIENT PROTEINS",
+        "DENISOVANS",
+        "AI conceptual portrait of an ancient human in a cave; exact Denisovan appearance is not established"
+      ],
+      "fr": [
+        "DES PROTÉINES ANCIENNES LIVRENT DE NOUVEAUX INDICES SUR LES MYSTÉRIEUX DÉNISOVIENS",
+        "Des protéines anciennes éclairent les Dénisoviens",
+        "Les études de protéines identifient des fossiles dénisoviens et éclairent leur anatomie. Les preuves de 2026, et les limites d’un visage imaginé.",
+        "PROTÉINES ANCIENNES",
+        "DÉNISOVIENS",
+        "Portrait conceptuel par IA d’un humain ancien dans une grotte ; l’apparence exacte des Dénisoviens reste inconnue"
+      ],
+      "ar": [
+        "البروتينات القديمة تكشف أدلة جديدة عن الدينيسوفان الغامضين",
+        "البروتينات القديمة تكشف أدلة جديدة عن الدينيسوفان",
+        "تحدد دراسات البروتين أحافير الدينيسوفان وتضيء تشريحهم. اكتشف أدلة 2026 ولماذا يبقى الوجه المتخيل تصوراً لا حقيقة موثقة.",
+        "البروتينات القديمة",
+        "الدينيسوفان",
+        "تصور بالذكاء الاصطناعي لإنسان قديم في كهف؛ المظهر الدقيق للدينيسوفان غير محسوم"
+      ],
+      "es": [
+        "LAS PROTEÍNAS ANTIGUAS REVELAN NUEVAS PISTAS SOBRE LOS MISTERIOSOS DENISOVANOS",
+        "Proteínas antiguas revelan nuevas pistas sobre denisovanos",
+        "Los estudios de proteínas identifican fósiles denisovanos y aclaran su anatomía. Las pruebas de 2026 y los límites de un rostro imaginado.",
+        "PROTEÍNAS ANTIGUAS",
+        "DENISOVANOS",
+        "Retrato conceptual con IA de un humano antiguo en una cueva; el aspecto exacto denisovano no está establecido"
+      ]
+    },
+    "blocks": [
+      {
+        "en": "A fragment of bone can preserve a molecular clue long after its owner has vanished. For Denisovans, an extinct human group first recognised through genetic evidence, that clue is helping connect names to actual skeletons. New studies of ancient proteins are expanding the fossil record. They reveal ancestry and anatomy more securely than they reveal the face of a particular individual.",
+        "fr": "Un fragment osseux peut conserver un indice moléculaire longtemps après la disparition de son propriétaire. Chez les Dénisoviens, groupe humain éteint d’abord reconnu par la génétique, cet indice relie désormais les noms à des squelettes. Les études de protéines anciennes élargissent le registre fossile. Elles établissent mieux l’ascendance et l’anatomie que le visage d’un individu précis.",
+        "ar": "قد تحتفظ قطعة عظم بدليل جزيئي بعد اختفاء صاحبها بزمن طويل. ولدى الدينيسوفان، وهم مجموعة بشرية منقرضة عُرفت أولاً بالأدلة الجينية، يساعد هذا الدليل على ربط الهوية بهياكل فعلية. توسع دراسات البروتينات القديمة السجل الأحفوري، وتكشف القرابة والتشريح بثقة أكبر من قدرتها على تحديد وجه فرد بعينه.",
+        "es": "Un fragmento óseo puede conservar una pista molecular mucho después de desaparecer su dueño. En los denisovanos, un grupo humano extinto reconocido primero mediante genética, esa pista conecta nombres con esqueletos reales. Los estudios de proteínas antiguas amplían el registro fósil. Revelan parentesco y anatomía con más seguridad que el rostro de un individuo concreto."
+      },
+      {
+        "en": "What can an ancient protein tell us?",
+        "fr": "Que peut révéler une protéine ancienne ?",
+        "ar": "ماذا يخبرنا البروتين القديم؟",
+        "es": "¿Qué puede revelar una proteína antigua?",
+        "heading": true
+      },
+      {
+        "en": "Palaeoproteomics examines surviving protein fragments, including the order of their amino acids. Certain sequence differences can help distinguish evolutionary lineages when researchers compare them with suitable reference data. Proteins do not provide an entire genome. Their value is that identifiable fragments can sometimes persist where recoverable ancient DNA is scarce.",
+        "fr": "La paléoprotéomique étudie les fragments de protéines conservés, notamment l’ordre de leurs acides aminés. Certaines différences de séquence aident à distinguer des lignées avec des références appropriées. Les protéines ne livrent pas un génome entier. Leur intérêt est de parfois subsister sous une forme identifiable lorsque l’ADN ancien récupérable est rare.",
+        "ar": "تفحص الباليو بروتيوميات شظايا البروتين الباقية، بما فيها ترتيب أحماضها الأمينية. وقد تساعد اختلافات معينة في التسلسل على تمييز السلالات التطورية بالمقارنة مع بيانات مرجعية مناسبة. لا تقدم البروتينات جينوماً كاملاً؛ وتكمن قيمتها في أن شظايا قابلة للتحديد قد تبقى حيث يندر الحمض النووي القديم القابل للاستعادة.",
+        "es": "La paleoproteómica estudia fragmentos de proteínas conservados, incluido el orden de sus aminoácidos. Ciertas diferencias permiten distinguir linajes mediante referencias adecuadas. Las proteínas no proporcionan un genoma completo. Su valor es que a veces sobreviven fragmentos identificables donde escasea el ADN antiguo recuperable.",
+        "source": [
+          "European Research Council, protein identification of Penghu 1 (2025)",
+          "https://erc.europa.eu/news-events/news/denisovans-extinct-human-species-once-lived-east-asia-fossil-shows"
+        ]
+      },
+      {
+        "en": "This makes the method a bridge between molecular biology and the fossil drawer. A bone may look broadly human yet remain difficult to assign. A diagnostic protein variant can sharpen that assignment. The strongest interpretation combines several strands of evidence, including preservation, laboratory controls, geological context and comparisons with other specimens.",
+        "fr": "La méthode relie ainsi biologie moléculaire et collections fossiles. Un os peut sembler humain tout en restant difficile à attribuer. Une variante protéique informative précise cette attribution. L’interprétation la plus solide combine conservation, contrôles de laboratoire, contexte géologique et comparaison avec d’autres spécimens.",
+        "ar": "تصل هذه الطريقة بين البيولوجيا الجزيئية ومجموعات الأحافير. فقد يبدو العظم بشرياً عموماً مع صعوبة إسناده إلى مجموعة. ويمكن لمتغير بروتيني تشخيصي أن يدقق الإسناد. ويجمع التفسير الأقوى بين الحفظ والضوابط المخبرية والسياق الجيولوجي والمقارنة بعينات أخرى.",
+        "es": "El método une biología molecular y colecciones fósiles. Un hueso puede parecer humano y resultar difícil de atribuir. Una variante proteica informativa ayuda a precisarlo. La interpretación más sólida combina conservación, controles de laboratorio, contexto geológico y comparación con otros ejemplares."
+      },
+      {
+        "en": "Five identified remains from Bianfu Cave",
+        "fr": "Cinq restes identifiés dans la grotte de Bianfu",
+        "ar": "خمس بقايا محددة من كهف بيانفو",
+        "es": "Cinco restos identificados en la cueva de Bianfu",
+        "heading": true
+      },
+      {
+        "en": "A Nature study published in September 2026 assigned two teeth, two skull fragments and a partial radius from Bianfu Cave in Yunnan to Denisovans. The radius is a forearm bone, making it especially valuable beyond the better-known teeth and skulls. Five remains should not be mistaken for five independently identified people.",
+        "fr": "Une étude de Nature publiée en septembre 2026 a attribué aux Dénisoviens deux dents, deux fragments crâniens et une partie de radius de la grotte de Bianfu, au Yunnan. Cet os de l’avant-bras est précieux au-delà des dents et crânes mieux connus. Cinq restes ne signifient pas cinq personnes identifiées indépendamment.",
+        "ar": "نسبت دراسة في Nature نُشرت في سبتمبر 2026 سِنّين وقطعتين من الجمجمة وجزءاً من عظم الكعبرة من كهف بيانفو في يونان إلى الدينيسوفان. والكعبرة عظم من الساعد، ما يمنحها أهمية تتجاوز الأسنان والجماجم المعروفة أكثر. ولا ينبغي الخلط بين خمس بقايا وخمسة أشخاص محددين بصورة مستقلة.",
+        "es": "Un estudio de Nature publicado en septiembre de 2026 atribuyó a denisovanos dos dientes, dos fragmentos craneales y parte de un radio de Bianfu, en Yunnan. El radio pertenece al antebrazo y aporta información más allá de dientes y cráneos. Cinco restos no equivalen a cinco personas identificadas de forma independiente.",
+        "source": [
+          "Rao et al., Nature (9 September 2026)",
+          "https://www.nature.com/articles/s41586-026-10976-9"
+        ]
+      },
+      {
+        "en": "The Chinese Academy of Sciences reports a mixture of anatomical characteristics in the radius rather than a simple copy of either a Neanderthal or a modern human arm. That is an important shift in the story. Denisovans become a group whose physical variation can be investigated, rather than a genetic label attached to a handful of familiar fragments.",
+        "fr": "L’Académie chinoise des sciences décrit un mélange de caractères anatomiques dans le radius, plutôt qu’une copie d’un avant-bras néandertalien ou moderne. Le changement est important : les Dénisoviens deviennent un groupe dont on étudie la variation physique, et non une simple étiquette génétique sur quelques fragments familiers.",
+        "ar": "تصف الأكاديمية الصينية للعلوم مزيجاً من السمات التشريحية في الكعبرة، لا نسخة بسيطة من ذراع نياندرتال أو الإنسان الحديث. وهذا تحول مهم: يصبح الدينيسوفان مجموعة يمكن بحث تنوعها الجسدي، بدلاً من ملصق جيني مرتبط بعدد قليل من الشظايا المألوفة.",
+        "es": "La Academia China de Ciencias describe una combinación de rasgos en el radio, no una copia del brazo neandertal o moderno. Es un cambio importante: los denisovanos pasan a ser un grupo cuya variación física puede investigarse, más allá de una etiqueta genética sobre unos pocos fragmentos conocidos.",
+        "source": [
+          "Chinese Academy of Sciences, Bianfu research account (2026)",
+          "https://english.cas.cn/newsroom/research-news/202609/t20260906_1192641.shtml"
+        ]
+      },
+      {
+        "en": "Xujiayao adds a clearer view of the skull",
+        "fr": "Xujiayao précise la forme du crâne",
+        "ar": "شوجياياو توضح ملامح الجمجمة",
+        "es": "Xujiayao aclara la forma del cráneo",
+        "heading": true
+      },
+      {
+        "en": "An October 2026 Nature paper analysed proteins from two Xujiayao specimens and compared the assemblage’s anatomy with other ancient humans. Molecular evidence supported Denisovan affiliation. The study then described a combination of cranial, facial and dental features, providing a stronger basis for comparing fossils previously assigned uncertain evolutionary positions.",
+        "fr": "Un article de Nature d’octobre 2026 a analysé les protéines de deux spécimens de Xujiayao et comparé l’anatomie de l’assemblage à d’autres humains anciens. Les données moléculaires soutenaient l’affiliation dénisovienne. L’étude décrit ensuite un ensemble de caractères crâniens, faciaux et dentaires pour mieux comparer des fossiles à la place évolutive auparavant incertaine.",
+        "ar": "حلل بحث في Nature في أكتوبر 2026 بروتينات عينتين من شوجياياو وقارن تشريح المجموعة ببشر قدماء آخرين. ودعمت الأدلة الجزيئية انتماءهما إلى الدينيسوفان. ثم وصفت الدراسة مجموعة من خصائص الجمجمة والوجه والأسنان، بما يوفر أساساً أقوى لمقارنة أحافير كانت مواقعها التطورية غير مؤكدة.",
+        "es": "Un artículo de Nature de octubre de 2026 analizó proteínas de dos ejemplares de Xujiayao y comparó la anatomía del conjunto con otros humanos antiguos. La evidencia molecular apoyó la afinidad denisovana. El estudio describió después una combinación de rasgos craneales, faciales y dentales para comparar fósiles de posición evolutiva antes incierta.",
+        "source": [
+          "Xing et al., Nature (21 October 2026)",
+          "https://www.nature.com/articles/s41586-026-11132-z"
+        ]
+      },
+      {
+        "en": "A molecularly identified fossil and a second fossil that resembles it are not the same strength of evidence. Anatomical similarity can support a wider hypothesis, but it should not silently turn every proposed relative into a DNA-confirmed individual. The emerging picture is richer precisely because researchers can now compare independent clues rather than force every specimen into one familiar category.",
+        "fr": "Un fossile identifié moléculairement et un autre qui lui ressemble n’apportent pas la même force de preuve. La ressemblance soutient une hypothèse élargie sans transformer chaque parent proposé en individu confirmé par l’ADN. Le tableau s’enrichit parce que des indices indépendants peuvent être comparés, sans imposer une catégorie familière à tous les spécimens.",
+        "ar": "لا تتساوى قوة الدليل بين أحفورة محددة جزيئياً وأخرى تشبهها. قد يدعم التشابه التشريحي فرضية أوسع، لكنه لا يحول كل قريب مقترح إلى فرد مؤكد بالحمض النووي. وتزداد الصورة ثراء لأن الباحثين يقارنون قرائن مستقلة بدلاً من حشر كل عينة في فئة مألوفة واحدة.",
+        "es": "Un fósil identificado molecularmente y otro que se le parece no ofrecen la misma fuerza probatoria. La semejanza apoya hipótesis más amplias, pero no convierte a cada pariente propuesto en un individuo confirmado por ADN. El panorama mejora al comparar indicios independientes, sin forzar todos los ejemplares dentro de una categoría conocida."
+      },
+      {
+        "en": "What the imagined face cannot establish",
+        "fr": "Ce que le visage imaginé ne peut établir",
+        "ar": "ما الذي لا يثبته الوجه المتخيل؟",
+        "es": "Lo que un rostro imaginado no demuestra",
+        "heading": true
+      },
+      {
+        "en": "The hero is an AI conceptual portrait. Its hair, skin, expression, clothing and cave setting are artistic choices, not findings from these protein studies. A skull can constrain some reconstruction decisions while leaving many soft-tissue details uncertain. Our earlier [Denisovan DNA explainer](/articles/denisovans-lost-humans-dna/) provides the genetic background; the new protein work adds fossils to that wider history.",
+        "fr": "Le visuel est un portrait conceptuel créé par IA. Cheveux, peau, expression, vêtements et grotte relèvent de choix artistiques, pas de ces études protéiques. Un crâne contraint certaines décisions de reconstitution tout en laissant incertains de nombreux tissus mous. Notre [article sur l’ADN dénisovien](/articles/denisovans-lost-humans-dna/) apporte le contexte génétique ; les protéines y ajoutent de nouveaux fossiles.",
+        "ar": "الصورة الرئيسية بورتريه تصوري مولد بالذكاء الاصطناعي. الشعر والبشرة والتعبير والملابس والكهف اختيارات فنية وليست نتائج لهذه الدراسات البروتينية. قد تقيد الجمجمة بعض قرارات إعادة البناء وتترك تفاصيل كثيرة للأنسجة الرخوة غير مؤكدة. ويقدم [شرح الحمض النووي للدينيسوفان](/articles/denisovans-lost-humans-dna/) الخلفية الجينية، بينما يضيف عمل البروتين أحافير إلى التاريخ الأوسع.",
+        "es": "La imagen es un retrato conceptual creado con IA. Pelo, piel, expresión, ropa y cueva son decisiones artísticas, no resultados de estos estudios. Un cráneo limita algunas decisiones de reconstrucción y deja inciertos muchos detalles de tejidos blandos. Nuestro [artículo sobre ADN denisovano](/articles/denisovans-lost-humans-dna/) aporta el contexto genético; las proteínas añaden fósiles a esa historia."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "What is palaeoproteomics?",
+          "It is the study of ancient surviving proteins. Sequence differences can help identify biological lineages when compared with reliable reference data."
+        ],
+        [
+          "Were five Denisovan people identified at Bianfu?",
+          "The study identified five Denisovan remains: two teeth, two skull fragments and a partial radius. That does not establish five separate individuals."
+        ],
+        [
+          "Does the image show a verified Denisovan face?",
+          "No. It is an AI conceptual illustration. These protein studies do not establish the depicted individual’s exact appearance."
+        ]
+      ],
+      "fr": [
+        [
+          "Qu’est-ce que la paléoprotéomique ?",
+          "C’est l’étude des protéines anciennes conservées. Leurs différences de séquence peuvent aider à identifier des lignées avec des références fiables."
+        ],
+        [
+          "A-t-on identifié cinq personnes à Bianfu ?",
+          "L’étude a identifié cinq restes dénisoviens : deux dents, deux fragments crâniens et un radius partiel. Cela ne démontre pas cinq individus distincts."
+        ],
+        [
+          "L’image montre-t-elle un visage dénisovien vérifié ?",
+          "Non. C’est une illustration conceptuelle par IA. Ces études protéiques ne déterminent pas l’apparence exacte de l’individu représenté."
+        ]
+      ],
+      "ar": [
+        [
+          "ما الباليو بروتيوميات؟",
+          "هي دراسة البروتينات القديمة الباقية. وقد تساعد اختلافات تسلسلها على تحديد السلالات بالمقارنة مع مراجع موثوقة."
+        ],
+        [
+          "هل حُدد خمسة أشخاص من الدينيسوفان في بيانفو؟",
+          "حددت الدراسة خمس بقايا: سِنّين وقطعتين من الجمجمة وجزءاً من الكعبرة. ولا يثبت ذلك خمسة أفراد منفصلين."
+        ],
+        [
+          "هل تعرض الصورة وجهاً مثبتاً للدينيسوفان؟",
+          "لا. إنها رسم تصوري بالذكاء الاصطناعي. لا تحدد الدراسات البروتينية المظهر الدقيق للفرد المرسوم."
+        ]
+      ],
+      "es": [
+        [
+          "¿Qué es la paleoproteómica?",
+          "Es el estudio de proteínas antiguas conservadas. Sus diferencias de secuencia ayudan a identificar linajes mediante referencias fiables."
+        ],
+        [
+          "¿Se identificaron cinco personas en Bianfu?",
+          "Se identificaron cinco restos denisovanos: dos dientes, dos fragmentos craneales y parte de un radio. Eso no demuestra cinco individuos distintos."
+        ],
+        [
+          "¿Muestra la imagen un rostro denisovano verificado?",
+          "No. Es una ilustración conceptual con IA. Los estudios no establecen el aspecto exacto del individuo representado."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "eskin",
+    "slug": "electronic-skin-robots-sense-of-touch",
+    "category": "AI",
+    "schemaType": "Article",
+    "image": "electronic-skin-robot-touch-ai-concept.webp",
+    "attachment": "4-1000087762.jpg",
+    "tags": [
+      "Electronic skin",
+      "Robotics",
+      "Tactile sensing",
+      "Artificial intelligence"
+    ],
+    "related": "robot-revolution-ai-future-2030",
+    "relatedLabel": [
+      "The wider robot revolution",
+      "La révolution robotique",
+      "ثورة الروبوتات الأوسع",
+      "La revolución robótica"
+    ],
+    "meta": {
+      "en": [
+        "ELECTRONIC SKIN: GIVING ROBOTS THE HUMAN SENSE OF TOUCH",
+        "Electronic Skin: How Robots Can Learn to Sense Touch",
+        "Electronic skin turns pressure, heat and damage into signals robots can interpret. Explore the research, machine learning and limits behind the human-touch claim.",
+        "ELECTRONIC SKIN",
+        "HUMAN SENSE OF TOUCH",
+        "AI illustration of a finger touching a sensor-covered robotic hand; not a photograph of a documented prototype"
+      ],
+      "fr": [
+        "PEAU ÉLECTRONIQUE : DONNER AUX ROBOTS LE SENS HUMAIN DU TOUCHER",
+        "Peau électronique : comment les robots détectent le toucher",
+        "La peau électronique convertit pression, chaleur et dommages en signaux. Découvrez les recherches, l’apprentissage automatique et leurs limites.",
+        "PEAU ÉLECTRONIQUE",
+        "SENS HUMAIN DU TOUCHER",
+        "Illustration par IA d’un doigt touchant une main robotique sensible, pas une photographie d’un prototype documenté"
+      ],
+      "ar": [
+        "الجلد الإلكتروني: منح الروبوتات حاسة اللمس البشرية",
+        "الجلد الإلكتروني: كيف تتعلم الروبوتات استشعار اللمس؟",
+        "يحول الجلد الإلكتروني الضغط والحرارة والضرر إلى إشارات تفسرها الروبوتات. اكتشف الأبحاث والتعلم الآلي وحدود تشبيهها باللمس البشري.",
+        "الجلد الإلكتروني",
+        "حاسة اللمس البشرية",
+        "رسم بالذكاء الاصطناعي لإصبع يلمس يداً روبوتية حساسة، وليس صورة لنموذج أولي موثق"
+      ],
+      "es": [
+        "PIEL ELECTRÓNICA: DAR A LOS ROBOTS EL SENTIDO HUMANO DEL TACTO",
+        "Piel electrónica: cómo los robots detectan el tacto",
+        "La piel electrónica convierte presión, calor y daños en señales. Analizamos los experimentos, el aprendizaje automático y los límites del tacto robótico.",
+        "PIEL ELECTRÓNICA",
+        "SENTIDO HUMANO DEL TACTO",
+        "Ilustración con IA de un dedo tocando una mano robótica sensible, no una fotografía de un prototipo documentado"
+      ]
+    },
+    "blocks": [
+      {
+        "en": "A robot can see an object and still grip it badly. Contact adds information that a camera alone cannot supply: whether a surface is pressing back, whether a grip is changing or whether something has damaged the covering. Electronic skin aims to make that information available across a soft surface. “Human touch” describes the engineering inspiration, not proof of human-like experience.",
+        "fr": "Un robot peut voir un objet et mal le saisir. Le contact apporte des informations qu’une caméra seule ne donne pas : résistance d’une surface, évolution de la prise ou dommage au revêtement. La peau électronique cherche à rendre ces informations accessibles sur une surface souple. Le « toucher humain » est une inspiration technique, pas la preuve d’une expérience humaine.",
+        "ar": "قد يرى الروبوت جسماً ومع ذلك يمسكه بصورة سيئة. يضيف التلامس معلومات لا توفرها الكاميرا وحدها: مقاومة السطح وتغير القبضة أو تلف الغطاء. يهدف الجلد الإلكتروني إلى توفير هذه المعلومات عبر سطح مرن. واللمس البشري مصدر إلهام هندسي، لا دليل على تجربة شعورية بشرية.",
+        "es": "Un robot puede ver un objeto y agarrarlo mal. El contacto aporta información que una cámara sola no ofrece: resistencia de la superficie, cambios en la sujeción o daños en la cubierta. La piel electrónica busca distribuir esa información por una superficie blanda. «Tacto humano» describe la inspiración técnica, no demuestra una experiencia humana."
+      },
+      {
+        "en": "What is electronic skin?",
+        "fr": "Qu’est-ce qu’une peau électronique ?",
+        "ar": "ما الجلد الإلكتروني؟",
+        "es": "¿Qué es la piel electrónica?",
+        "heading": true
+      },
+      {
+        "en": "Electronic skin is a flexible sensing system that converts physical inputs into electrical information. Different designs detect pressure, deformation or temperature through different mechanisms. The important chain is contact, measurement, interpretation and response. A sensor covering is useful only when the robot can turn its readings into a suitable action.",
+        "fr": "Une peau électronique est un système souple qui convertit des sollicitations physiques en informations électriques. Selon la conception, pression, déformation ou température sont détectées par différents mécanismes. La chaîne essentielle relie contact, mesure, interprétation et réponse. Le revêtement n’est utile que si le robot transforme ses données en action adaptée.",
+        "ar": "الجلد الإلكتروني نظام استشعار مرن يحول المدخلات الفيزيائية إلى معلومات كهربائية. وتكشف التصاميم المختلفة الضغط أو التشوه أو الحرارة بآليات متعددة. والسلسلة المهمة هي التلامس والقياس والتفسير والاستجابة. فلا يفيد الغطاء الحساس إلا إذا حول الروبوت قراءاته إلى فعل مناسب.",
+        "es": "La piel electrónica es un sistema flexible que convierte estímulos físicos en información eléctrica. Distintos diseños detectan presión, deformación o temperatura mediante mecanismos diferentes. La cadena esencial es contacto, medición, interpretación y respuesta. La cubierta solo resulta útil si el robot transforma las lecturas en una acción adecuada.",
+        "source": [
+          "UCL, electronic skin research account (2025)",
+          "https://www.ucl.ac.uk/news/2025/jun/improved-electronic-skin-gives-robots-human-touch"
+        ]
+      },
+      {
+        "en": "A whole surface can become the sensor",
+        "fr": "Toute une surface peut devenir capteur",
+        "ar": "قد يصبح السطح كله مستشعراً",
+        "es": "Toda una superficie puede convertirse en sensor",
+        "heading": true
+      },
+      {
+        "en": "In 2025, Cambridge and UCL researchers reported a single-layer soft sensory skin using electrical impedance tomography. Rather than placing a separate device at every contact point, their approach reads electrical changes through a conductive material. The Science Robotics paper describes a method for structuring this distributed information into useful sensory signals.",
+        "fr": "En 2025, des chercheurs de Cambridge et d’UCL ont présenté une peau sensorielle souple monocouche utilisant la tomographie d’impédance électrique. Au lieu d’installer un dispositif distinct à chaque point de contact, ils lisent les variations électriques dans un matériau conducteur. L’article de Science Robotics décrit comment organiser ces informations distribuées en signaux sensoriels utiles.",
+        "ar": "في 2025 قدم باحثون من كامبريدج وكلية لندن الجامعية جلداً حسياً مرناً أحادي الطبقة يستخدم التصوير المقطعي بالممانعة الكهربائية. وبدلاً من وضع جهاز مستقل عند كل نقطة تلامس، يقرأ النهج تغيرات كهربائية عبر مادة موصلة. ويصف بحث Science Robotics تنظيم هذه المعلومات الموزعة إلى إشارات حسية مفيدة.",
+        "es": "En 2025, investigadores de Cambridge y UCL presentaron una piel sensorial blanda de una sola capa con tomografía de impedancia eléctrica. En lugar de colocar un dispositivo en cada punto de contacto, leen cambios eléctricos a través de un material conductor. El artículo de Science Robotics describe cómo organizar esa información distribuida en señales útiles.",
+        "source": [
+          "Hardman, Thuruthel and Iida, Science Robotics (2025)",
+          "https://www.science.org/doi/10.1126/scirobotics.adq2303"
+        ]
+      },
+      {
+        "en": "The team cast a conductive gelatine-based hydrogel into a hand shape, with 32 electrodes at the wrist. They tested pressing, gentle contact, heating and cutting, then trained a machine-learning model on the resulting patterns. The electrode count is not a count of human-like receptors. The system learns how many changing electrical measurements relate to particular tested inputs.",
+        "fr": "L’équipe a moulé un hydrogel conducteur à base de gélatine en forme de main, avec 32 électrodes au poignet. Pressions, contacts légers, chauffage et coupures ont fourni des données pour entraîner un modèle d’apprentissage automatique. Ces électrodes ne sont pas des récepteurs humains : le système apprend les relations entre mesures électriques et sollicitations testées.",
+        "ar": "صب الفريق هلاماً مائياً موصلاً قائماً على الجيلاتين في هيئة يد، مع 32 قطباً عند المعصم. واختبر الضغط واللمس الخفيف والتسخين والقطع، ثم درب نموذج تعلم آلي على الأنماط الناتجة. ولا يمثل عدد الأقطاب عدد مستقبلات بشرية؛ إذ يتعلم النظام علاقة القياسات الكهربائية المتغيرة بمدخلات محددة اختُبرت.",
+        "es": "El equipo moldeó un hidrogel conductor de gelatina con forma de mano y 32 electrodos en la muñeca. Probó presión, contacto suave, calor y cortes, y entrenó un modelo con los patrones resultantes. Los electrodos no equivalen a receptores humanos: el sistema aprende la relación entre mediciones eléctricas cambiantes y estímulos ensayados.",
+        "source": [
+          "University of Cambridge, single-material robotic skin (2025)",
+          "https://www.cam.ac.uk/stories/robotic-skin"
+        ]
+      },
+      {
+        "en": "Why the learning matters",
+        "fr": "Pourquoi l’apprentissage compte",
+        "ar": "لماذا يهم التعلم؟",
+        "es": "Por qué importa el aprendizaje",
+        "heading": true
+      },
+      {
+        "en": "One electrical change can have several possible causes. A flexible covering may stretch, warm up or experience pressure, sometimes together. The model has to distinguish patterns rather than treat every variation as the same event. That makes training conditions important: recognising familiar laboratory contacts does not automatically demonstrate reliable performance on every object, temperature or damaged surface.",
+        "fr": "Une variation électrique peut avoir plusieurs causes. Un revêtement souple s’étire, chauffe ou subit une pression, parfois simultanément. Le modèle doit distinguer les motifs plutôt que traiter toutes les variations pareillement. Les conditions d’entraînement comptent donc : reconnaître des contacts familiers ne démontre pas une fiabilité universelle sur tous les objets, températures ou surfaces abîmées.",
+        "ar": "قد يكون للتغير الكهربائي الواحد أسباب متعددة. فقد يتمدد الغطاء المرن أو يسخن أو يتعرض للضغط، وأحياناً معاً. وعلى النموذج تمييز الأنماط بدلاً من اعتبار كل تغير الحدث نفسه. لذلك تهم ظروف التدريب؛ فالتعرف على تلامسات مخبرية مألوفة لا يثبت تلقائياً الموثوقية مع كل جسم أو حرارة أو سطح تالف.",
+        "es": "Un cambio eléctrico puede tener varias causas. Una cubierta flexible puede estirarse, calentarse o recibir presión, a veces a la vez. El modelo debe distinguir patrones. Por eso importan las condiciones de entrenamiento: reconocer contactos familiares no demuestra automáticamente fiabilidad con cualquier objeto, temperatura o superficie dañada."
+      },
+      {
+        "en": "An illustrative control task is holding something fragile. Sensing contact could help a controller adjust its grip as conditions change. But useful feedback requires more than a sensitive material: calibration, response time, repeatability and a dependable link to the robot’s movement all matter. This is a design example, not a claim that the cited hand solved every fragile-object grasping task.",
+        "fr": "Tenir un objet fragile illustre l’enjeu du contrôle. Détecter le contact pourrait aider à ajuster la prise. Mais une rétroaction utile exige davantage qu’un matériau sensible : calibration, délai de réponse, répétabilité et liaison fiable aux mouvements sont essentiels. Cet exemple de conception ne signifie pas que la main étudiée maîtrise toutes les prises d’objets fragiles.",
+        "ar": "يمثل حمل جسم هش مثالاً توضيحياً للتحكم. فقد يساعد استشعار التلامس وحدة التحكم على تعديل القبضة مع تغير الظروف. لكن التغذية الراجعة تحتاج أكثر من مادة حساسة: المعايرة وسرعة الاستجابة والتكرارية والارتباط الموثوق بحركة الروبوت. وهذا مثال تصميمي، لا ادعاء بأن اليد المنشورة حلت كل مهام الإمساك بالأجسام الهشة.",
+        "es": "Sostener algo frágil ilustra el problema de control. Detectar contacto podría ayudar a ajustar la sujeción. Pero la información útil exige más que un material sensible: calibración, respuesta, repetibilidad y conexión fiable con el movimiento. Es un ejemplo de diseño, no la afirmación de que la mano estudiada resuelva cualquier agarre de objetos frágiles."
+      },
+      {
+        "en": "Robotic sensing and biological sensation are different problems",
+        "fr": "Détection robotique et sensation biologique sont deux problèmes",
+        "ar": "الاستشعار الروبوتي والإحساس البيولوجي مسألتان مختلفتان",
+        "es": "Detección robótica y sensación biológica son problemas distintos",
+        "heading": true
+      },
+      {
+        "en": "Stanford researchers demonstrated another approach in 2023: soft integrated electronics that convert stimuli into nerve-like electrical pulses. That work addresses a different part of the sensing chain. A robot controller interpreting signals and a biological nervous system receiving them are not interchangeable. Prospective prosthetic applications require their own evidence; an electronic skin demonstration does not establish restored sensation in a human patient.",
+        "fr": "En 2023, Stanford a démontré une autre approche : des circuits souples convertissant des stimuli en impulsions semblables aux signaux nerveux. Cela concerne une autre partie de la chaîne sensorielle. Un contrôleur robotique et un système nerveux biologique ne sont pas interchangeables. Les applications prothétiques exigent leurs propres preuves ; une démonstration de peau électronique ne prouve pas une sensation restaurée chez un patient.",
+        "ar": "قدم باحثو ستانفورد في 2023 نهجاً آخر: إلكترونيات مرنة متكاملة تحول المنبهات إلى نبضات كهربائية شبيهة بالعصبية. ويتناول ذلك جزءاً مختلفاً من سلسلة الاستشعار. فوحدة تحكم روبوتية تفسر الإشارات وجهاز عصبي بيولوجي يتلقاها ليسا قابلين للتبادل. وتحتاج التطبيقات التعويضية المحتملة أدلتها الخاصة؛ فعرض الجلد الإلكتروني لا يثبت استعادة الإحساس لدى مريض بشري.",
+        "es": "En 2023, Stanford demostró otro enfoque: electrónica blanda integrada que convierte estímulos en impulsos similares a los nerviosos. Aborda otra parte de la cadena sensorial. Un controlador robótico y un sistema nervioso biológico no son intercambiables. Las aplicaciones protésicas requieren evidencia propia; una demostración no establece sensación restaurada en un paciente humano.",
+        "source": [
+          "Stanford University, nerve-like electronic skin (2023)",
+          "https://news.stanford.edu/stories/2023/05/soft-e-skin-talks-brain"
+        ]
+      },
+      {
+        "en": "What would make the next step convincing?",
+        "fr": "Quelles preuves pour l’étape suivante ?",
+        "ar": "ما الذي يجعل الخطوة التالية مقنعة؟",
+        "es": "¿Qué demostraría el siguiente paso?",
+        "heading": true
+      },
+      {
+        "en": "The practical test is a skin that keeps useful measurements while it bends, ages and operates outside a carefully arranged bench experiment. The Cambridge team identifies durability and real-world robotic tasks as areas for further work. Our [brain-interface explainer](/articles/brain-to-voice-ai-speech-brain-computer-interfaces/) describes a related but distinct challenge in translating signals. The AI hero here is a concept, not a documented glowing prototype.",
+        "fr": "L’épreuve pratique est une peau qui conserve des mesures utiles lorsqu’elle se plie, vieillit et quitte le laboratoire. L’équipe de Cambridge cite la durabilité et les tâches robotiques réelles parmi les travaux futurs. Notre [article sur les interfaces cérébrales](/articles/brain-to-voice-ai-speech-brain-computer-interfaces/) explique un défi voisin mais distinct de traduction des signaux. Le visuel par IA est un concept, pas un prototype lumineux documenté.",
+        "ar": "الاختبار العملي جلد يحافظ على قياسات مفيدة أثناء الانثناء والتقادم والعمل خارج تجربة مخبرية مضبوطة. ويحدد فريق كامبريدج المتانة والمهام الروبوتية الواقعية ضمن العمل المقبل. ويشرح [مقال واجهات الدماغ](/articles/brain-to-voice-ai-speech-brain-computer-interfaces/) تحدياً مرتبطاً لكنه مختلف في ترجمة الإشارات. والصورة هنا تصور بالذكاء الاصطناعي لا نموذج مضيء موثق.",
+        "es": "La prueba práctica es una piel que mantenga mediciones útiles al doblarse, envejecer y salir del laboratorio. Cambridge señala durabilidad y tareas robóticas reales como trabajo futuro. Nuestro [artículo sobre interfaces cerebrales](/articles/brain-to-voice-ai-speech-brain-computer-interfaces/) explica otro problema de traducción de señales. La imagen con IA es conceptual, no un prototipo luminoso documentado."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Does electronic skin make a robot feel pain?",
+          "Detecting pressure, heat or damage does not demonstrate a subjective experience of pain. The cited systems measure and process physical signals."
+        ],
+        [
+          "What was distinctive about the 2025 Cambridge–UCL system?",
+          "It used a conductive soft material as a distributed sensor, with wrist electrodes and machine learning to interpret responses to different physical inputs."
+        ],
+        [
+          "Is the hero a photograph of the published prototype?",
+          "No. It is an approved AI conceptual illustration. Its glowing circuits are artistic, not evidence of the research device’s appearance."
+        ]
+      ],
+      "fr": [
+        [
+          "La peau électronique fait-elle ressentir la douleur au robot ?",
+          "Détecter pression, chaleur ou dommage ne démontre pas une douleur subjective. Les systèmes cités mesurent et traitent des signaux physiques."
+        ],
+        [
+          "Quelle était la particularité du système Cambridge–UCL de 2025 ?",
+          "Un matériau souple conducteur servait de capteur distribué, avec des électrodes au poignet et un apprentissage pour interpréter différentes sollicitations."
+        ],
+        [
+          "Le visuel photographie-t-il le prototype publié ?",
+          "Non. C’est une illustration conceptuelle par IA. Ses circuits lumineux sont artistiques, pas une preuve de l’apparence du dispositif étudié."
+        ]
+      ],
+      "ar": [
+        [
+          "هل يجعل الجلد الإلكتروني الروبوت يشعر بالألم؟",
+          "كشف الضغط أو الحرارة أو الضرر لا يثبت تجربة ذاتية للألم. فالأنظمة المذكورة تقيس إشارات فيزيائية وتعالجها."
+        ],
+        [
+          "ما الذي ميز نظام كامبريدج وكلية لندن الجامعية في 2025؟",
+          "استخدم مادة مرنة موصلة كمستشعر موزع، مع أقطاب عند المعصم وتعلم آلي لتفسير الاستجابات لمدخلات فيزيائية مختلفة."
+        ],
+        [
+          "هل الصورة للنموذج الأولي المنشور؟",
+          "لا. إنها رسم تصوري معتمد بالذكاء الاصطناعي. الدوائر المضيئة اختيار فني وليست دليلاً على مظهر جهاز البحث."
+        ]
+      ],
+      "es": [
+        [
+          "¿Hace que un robot sienta dolor?",
+          "Detectar presión, calor o daños no demuestra dolor subjetivo. Los sistemas citados miden y procesan señales físicas."
+        ],
+        [
+          "¿Qué distinguía al sistema Cambridge–UCL de 2025?",
+          "Utilizaba un material blando conductor como sensor distribuido, con electrodos en la muñeca y aprendizaje para interpretar distintos estímulos."
+        ],
+        [
+          "¿La imagen fotografía el prototipo publicado?",
+          "No. Es una ilustración conceptual con IA. Sus circuitos luminosos son artísticos, no evidencia del aspecto del dispositivo investigado."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "octopus",
+    "slug": "glass-octopus-vitreledonella-richardi",
+    "category": "Science",
+    "schemaType": "Article",
+    "image": "glass-octopus-vitreledonella-richardi-ai-illustration.webp",
+    "attachment": "1-1000087769.jpg",
+    "tags": [
+      "Glass octopus",
+      "Marine biology",
+      "Deep ocean"
+    ],
+    "related": "why-sperm-whales-sleep-vertically",
+    "relatedLabel": [
+      "Why sperm whales sleep vertically",
+      "Pourquoi les cachalots dorment à la verticale",
+      "لماذا تنام حيتان العنبر عمودياً",
+      "Por qué los cachalotes duermen verticalmente"
+    ],
+    "meta": {
+      "en": [
+        "THE GLASS OCTOPUS: THE ALMOST INVISIBLE CREATURE OF THE DEEP",
+        "Glass Octopus: The Transparent Animal of the Deep",
+        "Discover Vitreledonella richardi, the transparent glass octopus, what research footage reveals and how an AI illustration differs from documented anatomy.",
+        "GLASS OCTOPUS",
+        "ALMOST INVISIBLE",
+        "AI illustration of a transparent octopus with visible internal organs above a rocky seabed; an artistic depiction, not research footage."
+      ],
+      "fr": [
+        "LE POULPE DE VERRE : LA CRÉATURE PRESQUE INVISIBLE DES PROFONDEURS",
+        "Poulpe de verre : une créature transparente des profondeurs",
+        "Découvrez Vitreledonella richardi, les observations scientifiques du poulpe de verre et les limites de son illustration conceptuelle par IA.",
+        "POULPE DE VERRE",
+        "PRESQUE INVISIBLE",
+        "Illustration par IA d’un poulpe transparent aux organes visibles au-dessus d’un fond rocheux ; représentation artistique, pas une observation scientifique."
+      ],
+      "ar": [
+        "الأخطبوط الزجاجي: المخلوق شبه الخفي في الأعماق",
+        "الأخطبوط الزجاجي: مخلوق الأعماق الشفاف",
+        "تعرف إلى الأخطبوط الزجاجي وما تكشفه مشاهدات الباحثين، والفرق بين شكله الموثق والرسم التصوري بالذكاء الاصطناعي.",
+        "الأخطبوط الزجاجي",
+        "شبه الخفي",
+        "رسم بالذكاء الاصطناعي لأخطبوط شفاف تظهر أعضاؤه فوق قاع صخري؛ تصوير فني وليس مشهداً بحثياً موثقاً."
+      ],
+      "es": [
+        "EL PULPO DE CRISTAL: LA CRIATURA CASI INVISIBLE DE LAS PROFUNDIDADES",
+        "Pulpo de cristal: la criatura transparente del océano",
+        "Conoce a Vitreledonella richardi, las observaciones científicas del pulpo de cristal y qué diferencia una ilustración con IA de su anatomía documentada.",
+        "PULPO DE CRISTAL",
+        "CASI INVISIBLE",
+        "Ilustración con IA de un pulpo transparente con órganos visibles sobre un fondo rocoso; representación artística, no una grabación científica."
+      ]
+    },
+    "blocks": [
+      {
+        "en": "Imagine watching an animal whose outline almost disappears into the water around it. The glass octopus, Vitreledonella richardi, makes that experience possible. Much of its body is transparent, while conspicuous internal structures remain visible. It is a real ocean animal, but the spectacular image above is an AI illustration, not the photograph that established its existence.",
+        "fr": "Imaginez un animal dont les contours semblent se dissoudre dans l’eau. Le poulpe de verre, Vitreledonella richardi, offre ce spectacle. Une grande partie de son corps est transparente, alors que certaines structures internes restent visibles. L’animal existe réellement, mais l’image spectaculaire ci-dessus est une illustration par IA, pas la photographie qui aurait établi son existence.",
+        "ar": "تخيل مراقبة حيوان يكاد محيط جسمه يختفي في الماء. يتيح الأخطبوط الزجاجي، Vitreledonella richardi، هذا المشهد. فمعظم جسمه شفاف مع بقاء تراكيب داخلية بارزة مرئية. إنه حيوان محيطي حقيقي، لكن الصورة المبهرة أعلاه رسم بالذكاء الاصطناعي وليست الصورة التي أثبتت وجوده.",
+        "es": "Imagina observar un animal cuyo contorno casi desaparece en el agua. El pulpo de cristal, Vitreledonella richardi, ofrece esa experiencia. Gran parte de su cuerpo es transparente, aunque algunas estructuras internas siguen siendo visibles. Es un animal real, pero la imagen de arriba es una ilustración con IA, no la fotografía que estableció su existencia."
+      },
+      {
+        "en": "A body that lets light through",
+        "fr": "Un corps qui laisse passer la lumière",
+        "ar": "جسم يسمح بمرور الضوء",
+        "es": "Un cuerpo que deja pasar la luz",
+        "heading": true
+      },
+      {
+        "en": "The Schmidt Ocean Institute describes the glass octopus as almost completely transparent, with the optic nerve, eyeballs and digestive tract standing out. Transparency reduces the contrast of much of the body against its surroundings. That makes sense as camouflage in open water, where there is little solid scenery to hide behind. It does not make an animal optically invisible: lighting, viewing angle and opaque organs still matter.",
+        "fr": "Le Schmidt Ocean Institute décrit un poulpe presque entièrement transparent, dont ressortent le nerf optique, les yeux et le tube digestif. La transparence réduit le contraste d’une grande partie du corps avec le milieu. Elle constitue ainsi un camouflage plausible en pleine eau, où les cachettes solides sont rares. Elle ne rend pas l’animal invisible : éclairage, angle de vue et organes opaques comptent toujours.",
+        "ar": "يصف معهد شميدت للمحيطات الأخطبوط بأنه شبه شفاف بالكامل، مع بروز العصب البصري والعينين والجهاز الهضمي. وتقلل الشفافية تباين معظم الجسم مع محيطه، ما يجعلها تمويهاً مفهوماً في المياه المفتوحة قليلة المخابئ الصلبة. لكنها لا تجعل الحيوان خفياً بصرياً تماماً؛ فالإضاءة وزاوية النظر والأعضاء المعتمة تظل مؤثرة.",
+        "es": "El Schmidt Ocean Institute lo describe como casi completamente transparente, con el nervio óptico, los ojos y el aparato digestivo destacados. La transparencia reduce el contraste de gran parte del cuerpo con el entorno. Tiene sentido como camuflaje en aguas abiertas, donde escasean los escondites sólidos. No lo vuelve invisible: la iluminación, el ángulo de visión y los órganos opacos siguen contando.",
+        "source": [
+          "Schmidt Ocean Institute, Phoenix Islands expedition findings (2021)",
+          "https://schmidtocean.org/scientists-explore-seamounts-in-phoenix-islands-archipelago-gaining-new-insights-into-deep-water-diversity-and-ecology/"
+        ]
+      },
+      {
+        "en": "Calling it a glass octopus describes an appearance, not a material. Its tissues are living tissues, not glass. Nor does transparency mean that every organ has vanished. The visible eyes and digestive system are part of the reason the animal is so striking: an observer can see a functioning body while much of its outer shape is difficult to follow.",
+        "fr": "Le nom « poulpe de verre » décrit une apparence, pas une matière. Ses tissus sont vivants, pas faits de verre. La transparence ne signifie pas non plus que tous les organes ont disparu. Les yeux et le système digestif visibles participent à son étrangeté : on distingue un corps vivant dont les limites sont difficiles à suivre.",
+        "ar": "يصف اسم «الأخطبوط الزجاجي» مظهراً لا مادة. فأنسجته حية وليست زجاجاً، ولا تعني الشفافية اختفاء كل الأعضاء. والعينان والجهاز الهضمي المرئيان جزء من غرابته؛ إذ يرى المراقب جسماً حياً يصعب تتبع الكثير من حدوده الخارجية.",
+        "es": "El nombre pulpo de cristal describe una apariencia, no un material. Sus tejidos están vivos y no son vidrio. La transparencia tampoco implica que todos los órganos hayan desaparecido. Los ojos y el aparato digestivo visibles contribuyen a su singularidad: vemos un cuerpo funcional cuyos límites son difíciles de seguir."
+      },
+      {
+        "en": "What the 2021 expedition actually recorded",
+        "fr": "Ce que l’expédition de 2021 a réellement observé",
+        "ar": "ما الذي سجلته بعثة 2021 فعلاً؟",
+        "es": "Qué registró realmente la expedición de 2021",
+        "heading": true
+      },
+      {
+        "en": "During a 2021 expedition to the Phoenix Islands region of the Pacific, researchers aboard R/V Falkor recorded two glass octopuses. A field log places the first encounter at 680 metres. These were valuable observations of an elusive animal, not the announcement of a species newly discovered in 2026. The distinction matters: a rare encounter can expand knowledge without being a new taxonomic discovery.",
+        "fr": "Lors d’une expédition de 2021 dans la région des îles Phœnix, dans le Pacifique, l’équipe du R/V Falkor a filmé deux poulpes de verre. Le journal de mission situe la première rencontre à 680 mètres. Ces observations précieuses concernent un animal difficile à rencontrer ; elles n’annoncent pas une espèce découverte en 2026. Une rencontre rare peut enrichir les connaissances sans constituer une découverte taxonomique.",
+        "ar": "سجل الباحثون على متن سفينة فولكور أخطبوطين زجاجيين خلال بعثة 2021 إلى منطقة جزر فينيكس في المحيط الهادئ. ويحدد سجل البعثة اللقاء الأول على عمق 680 متراً. كانت هذه مشاهدات ثمينة لحيوان يصعب رصده، لا إعلاناً عن نوع اكتُشف لأول مرة في 2026. فالمشاهدة النادرة قد توسع المعرفة دون أن تكون اكتشافاً تصنيفياً جديداً.",
+        "es": "Durante una expedición de 2021 a la región de las islas Fénix, en el Pacífico, investigadores del R/V Falkor registraron dos pulpos de cristal. El diario sitúa el primer encuentro a 680 metros. Fueron observaciones valiosas de un animal esquivo, no el anuncio de una especie descubierta en 2026. Un encuentro raro puede ampliar el conocimiento sin ser un descubrimiento taxonómico.",
+        "source": [
+          "Schmidt Ocean Institute, expedition field log (19 July 2021)",
+          "https://schmidtocean.org/cruise-log-post/244-coral-samples-14-seamounts-and-2-glass-octopuses/"
+        ]
+      },
+      {
+        "en": "A remotely operated vehicle gives researchers a way to observe an animal in the water column rather than relying solely on collected remains. Video can document posture, movement and the surroundings at an encounter. Two sightings, however, cannot establish a population size, a complete diet or a full life history. The footage is evidence with a defined scope, not a substitute for every other kind of research.",
+        "fr": "Un véhicule téléopéré permet d’observer l’animal dans la colonne d’eau, au lieu de dépendre uniquement de restes collectés. La vidéo documente posture, mouvement et environnement au moment de la rencontre. Deux observations ne suffisent toutefois pas à établir un effectif, un régime complet ou tout un cycle de vie. Les images sont des preuves de portée précise, pas un remplacement de toutes les autres recherches.",
+        "ar": "تتيح المركبة الموجهة عن بعد مراقبة الحيوان في عمود الماء بدلاً من الاعتماد على البقايا المجموعة وحدها. ويوثق الفيديو وضعية الجسم والحركة والمحيط وقت اللقاء. لكن مشاهدتين لا تحددان حجم الجماعة أو النظام الغذائي الكامل أو دورة الحياة كلها. فاللقطات دليل له نطاق محدد، وليست بديلاً عن سائر البحث.",
+        "es": "Un vehículo operado a distancia permite observarlo en la columna de agua en vez de depender únicamente de restos recogidos. El vídeo documenta postura, movimiento y entorno durante el encuentro. Pero dos avistamientos no establecen el tamaño de una población, una dieta completa o toda su historia vital. Las imágenes son evidencia de alcance definido, no sustituyen las demás investigaciones."
+      },
+      {
+        "en": "An illustration is not a species identification",
+        "fr": "Une illustration n’identifie pas une espèce",
+        "ar": "الرسم لا يحدد هوية النوع",
+        "es": "Una ilustración no identifica una especie",
+        "heading": true
+      },
+      {
+        "en": "The approved hero imagines a transparent octopus beside a rocky seabed, with dramatic round eyes and luminous-looking details. Those artistic choices should not be read as a diagnostic portrait of Vitreledonella richardi. The documented animal is pelagic, associated with the water column. The image does not demonstrate reef-dwelling behaviour or bioluminescence, and it cannot be used to verify the shape of a particular research specimen.",
+        "fr": "Le visuel approuvé imagine un poulpe transparent près d’un fond rocheux, avec de grands yeux ronds et des détails semblant lumineux. Ces choix artistiques ne constituent pas un portrait diagnostique de Vitreledonella richardi. L’animal documenté est pélagique, associé à la colonne d’eau. L’illustration ne démontre ni comportement récifal ni bioluminescence, et ne vérifie pas la forme d’un spécimen scientifique.",
+        "ar": "تتخيل الصورة المعتمدة أخطبوطاً شفافاً قرب قاع صخري، بعينين دائريتين بارزتين وتفاصيل تبدو مضيئة. ولا ينبغي تفسير هذه الخيارات الفنية كصورة تشخيصية للنوع. فالحيوان الموثق يعيش في عمود الماء المفتوح. ولا تثبت الصورة سلوكاً مرتبطاً بالشعاب أو تألقاً حيوياً، ولا تتحقق بها هيئة عينة بحثية بعينها.",
+        "es": "La imagen aprobada imagina un pulpo transparente junto a un fondo rocoso, con ojos redondos llamativos y detalles que parecen luminosos. Esas decisiones artísticas no son un retrato diagnóstico de Vitreledonella richardi. El animal documentado es pelágico, asociado a la columna de agua. La imagen no demuestra vida en arrecifes ni bioluminiscencia, y no verifica la forma de un ejemplar científico."
+      },
+      {
+        "en": "The value of watching carefully",
+        "fr": "L’intérêt d’observer avec précision",
+        "ar": "قيمة المراقبة الدقيقة",
+        "es": "El valor de observar con cuidado",
+        "heading": true
+      },
+      {
+        "en": "The glass octopus is compelling without adding impossible powers or invented discoveries. Its transparency, the difficulty of observing it and the images returned by deep-sea exploration already tell an extraordinary story. Each carefully documented encounter adds a small, testable piece to a much larger picture of life in the ocean.",
+        "fr": "Le poulpe de verre fascine sans pouvoirs impossibles ni découvertes inventées. Sa transparence, la difficulté de l’observer et les images des explorations profondes racontent déjà une histoire extraordinaire. Chaque rencontre bien documentée ajoute un élément limité mais vérifiable à notre connaissance de la vie océanique.",
+        "ar": "يبقى الأخطبوط الزجاجي مدهشاً دون قوى مستحيلة أو اكتشافات مختلقة. فشفافيته وصعوبة رصده وصور استكشاف الأعماق تروي بالفعل قصة استثنائية. ويضيف كل لقاء موثق بعناية جزءاً صغيراً قابلاً للاختبار إلى الصورة الأوسع للحياة في المحيط.",
+        "es": "El pulpo de cristal fascina sin poderes imposibles ni descubrimientos inventados. Su transparencia, la dificultad de observarlo y las imágenes de exploración profunda ya cuentan una historia extraordinaria. Cada encuentro bien documentado añade una pieza pequeña y comprobable al panorama de la vida oceánica."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Is the glass octopus completely invisible?",
+          "No. Much of its body is transparent, but eyes, the optic nerve and digestive structures remain visible."
+        ],
+        [
+          "Was it a new species discovered in 2021?",
+          "No. The expedition recorded rare observations of an already known species, including an encounter at 680 metres."
+        ],
+        [
+          "Is the hero authentic research footage?",
+          "No. It is an AI editorial illustration. The seabed setting and luminous-looking details are artistic, not documented behaviours."
+        ]
+      ],
+      "fr": [
+        [
+          "Le poulpe de verre est-il totalement invisible ?",
+          "Non. Une grande partie du corps est transparente, mais les yeux, le nerf optique et des structures digestives restent visibles."
+        ],
+        [
+          "Était-ce une espèce découverte en 2021 ?",
+          "Non. L’expédition a observé une espèce déjà connue, notamment lors d’une rencontre à 680 mètres."
+        ],
+        [
+          "Le visuel est-il une image de recherche authentique ?",
+          "Non. C’est une illustration éditoriale par IA. Le fond rocheux et les détails lumineux sont artistiques, pas des comportements documentés."
+        ]
+      ],
+      "ar": [
+        [
+          "هل الأخطبوط الزجاجي خفي تماماً؟",
+          "لا. معظم جسمه شفاف، لكن العينين والعصب البصري وتراكيب هضمية تظل مرئية."
+        ],
+        [
+          "هل اكتُشف نوعه لأول مرة في 2021؟",
+          "لا. وثقت البعثة مشاهدات نادرة لنوع معروف، بينها لقاء على عمق 680 متراً."
+        ],
+        [
+          "هل الصورة لقطة بحثية أصلية؟",
+          "لا. إنها رسم تحريري بالذكاء الاصطناعي. القاع الصخري والتفاصيل المضيئة خيارات فنية وليست سلوكاً موثقاً."
+        ]
+      ],
+      "es": [
+        [
+          "¿Es completamente invisible?",
+          "No. Gran parte del cuerpo es transparente, pero los ojos, el nervio óptico y estructuras digestivas siguen visibles."
+        ],
+        [
+          "¿Se descubrió la especie en 2021?",
+          "No. La expedición observó una especie ya conocida, con un encuentro a 680 metros."
+        ],
+        [
+          "¿La imagen es una grabación científica auténtica?",
+          "No. Es una ilustración editorial con IA. El fondo rocoso y los detalles luminosos son artísticos, no comportamientos documentados."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "yashin",
+    "slug": "lev-yashin-only-goalkeeper-ballon-dor",
+    "category": "Sport",
+    "schemaType": "Article",
+    "image": "lev-yashin-ballon-dor-1963-ai-editorial.webp",
+    "attachment": "3-1000087765.jpg",
+    "tags": [
+      "Lev Yashin",
+      "Ballon d’Or",
+      "Football history"
+    ],
+    "related": "johan-cruyff-man-changed-football-forever",
+    "relatedLabel": [
+      "Johan Cruyff and the transformation of football",
+      "Johan Cruyff et la transformation du football",
+      "يوهان كرويف وتحول كرة القدم",
+      "Johan Cruyff y la transformación del fútbol"
+    ],
+    "meta": {
+      "en": [
+        "LEV YASHIN: THE ONLY GOALKEEPER TO WIN THE BALLON D'OR",
+        "Lev Yashin: The Only Goalkeeper to Win the Ballon d’Or",
+        "How Lev Yashin won the 1963 Ballon d’Or, helped the Soviet Union win Olympic and European titles, and left a unique goalkeeping legacy.",
+        "LEV YASHIN",
+        "BALLON D'OR",
+        "AI editorial portrait depicting Lev Yashin in a dark goalkeeper jersey holding a leather football; not an authenticated archival photograph."
+      ],
+      "fr": [
+        "LEV YACHINE : LE SEUL GARDIEN À AVOIR REMPORTÉ LE BALLON D'OR",
+        "Lev Yachine : le seul gardien vainqueur du Ballon d’Or",
+        "Le Ballon d’Or 1963 de Lev Yachine, ses titres olympique et européen avec l’URSS et l’héritage singulier du gardien du Dynamo Moscou.",
+        "LEV YACHINE",
+        "BALLON D'OR",
+        "Portrait éditorial par IA représentant Lev Yachine en maillot sombre avec un ballon en cuir ; pas une photographie d’archives authentifiée."
+      ],
+      "ar": [
+        "ليف ياشين: حارس المرمى الوحيد الفائز بالكرة الذهبية",
+        "ليف ياشين: الحارس الوحيد الفائز بالكرة الذهبية",
+        "قصة فوز ليف ياشين بالكرة الذهبية عام 1963، ولقبيه الأولمبي والأوروبي مع الاتحاد السوفيتي، وإرثه الاستثنائي في حراسة المرمى.",
+        "ليف ياشين",
+        "الكرة الذهبية",
+        "صورة تحريرية بالذكاء الاصطناعي تصور ليف ياشين بقميص حراسة داكن يحمل كرة جلدية؛ ليست صورة أرشيفية موثقة."
+      ],
+      "es": [
+        "LEV YASHIN: EL ÚNICO PORTERO QUE GANÓ EL BALÓN DE ORO",
+        "Lev Yashin: el único portero ganador del Balón de Oro",
+        "La historia del Balón de Oro de 1963 de Lev Yashin, sus títulos olímpico y europeo con la URSS y su legado como portero del Dinamo de Moscú.",
+        "LEV YASHIN",
+        "BALÓN DE ORO",
+        "Retrato editorial con IA que representa a Lev Yashin con camiseta oscura y un balón de cuero; no es una fotografía de archivo autenticada."
+      ]
+    },
+    "blocks": [
+      {
+        "en": "Football remembers many brilliant saves. Lev Yashin holds a distinction that goes beyond any single one: he won the men’s Ballon d’Or in 1963 and remains the only goalkeeper on its list of winners. In an award so often associated with scoring goals, his victory made preventing them the centre of the story.",
+        "fr": "Le football garde la mémoire de nombreux arrêts. Lev Yachine possède une distinction qui dépasse un seul geste : vainqueur du Ballon d’Or masculin en 1963, il reste le seul gardien à son palmarès. Dans une récompense si souvent associée aux buteurs, sa victoire a placé l’art d’empêcher les buts au cœur du récit.",
+        "ar": "تحتفظ كرة القدم بذكرى تصديات رائعة كثيرة. لكن ليف ياشين يملك تميزاً يتجاوز تصدياً واحداً؛ فقد فاز بالكرة الذهبية للرجال عام 1963، ولا يزال حارس المرمى الوحيد في قائمة الفائزين بها. وفي جائزة ترتبط كثيراً بتسجيل الأهداف، جعل انتصاره منعها محور القصة.",
+        "es": "El fútbol recuerda muchas paradas brillantes. Lev Yashin posee una distinción que supera cualquier acción: ganó el Balón de Oro masculino en 1963 y sigue siendo el único portero en su palmarés. En un premio tan asociado al gol, su victoria puso en primer plano el arte de evitarlo.",
+        "source": [
+          "UEFA, Ballon d’Or winners list",
+          "https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig/"
+        ]
+      },
+      {
+        "en": "The goalkeeper in black",
+        "fr": "Le gardien en noir",
+        "ar": "الحارس الذي ارتدى الأسود",
+        "es": "El portero vestido de negro",
+        "heading": true
+      },
+      {
+        "en": "Yashin’s dark kit helped create one of football’s most recognisable images. UEFA recalls the nicknames Black Spider and Black Panther, linking them to his clothing and extraordinary agility. The labels convey how opponents and spectators perceived him, but the stronger historical evidence is his record: a major individual award alongside success for club and country.",
+        "fr": "La tenue sombre de Yachine a créé l’une des silhouettes les plus reconnaissables du football. L’UEFA rappelle les surnoms d’Araignée noire et de Panthère noire, liés à son maillot et à son agilité extraordinaire. Ces images expriment sa réputation ; son palmarès fournit une preuve historique plus solide, entre récompense individuelle et succès collectifs.",
+        "ar": "أسهم زي ياشين الداكن في صنع واحدة من أشهر صور كرة القدم. وتستعيد يويفا لقبي العنكبوت الأسود والفهد الأسود، رابطاً إياهما بملابسه ورشاقته الاستثنائية. وتعبر هذه الألقاب عن الانطباع الذي تركه، لكن سجله يقدم دليلاً تاريخياً أقوى: جائزة فردية كبرى إلى جانب نجاح النادي والمنتخب.",
+        "es": "La equipación oscura de Yashin creó una de las siluetas más reconocibles del fútbol. La UEFA recuerda los apodos Araña Negra y Pantera Negra, ligados a su ropa y extraordinaria agilidad. Los nombres expresan su reputación, pero su palmarés ofrece evidencia histórica más firme: un gran premio individual junto a éxitos colectivos.",
+        "source": [
+          "UEFA, historical goalkeeper profiles (2015)",
+          "https://www.uefa.com/news/021d-0e8f141f0275-968fbd474c1c-1000--saving-grace-europe-s-favourite-goalkeepers/"
+        ]
+      },
+      {
+        "en": "A goalkeeper’s work is difficult to reduce to a highlight reel. Positioning influences which shots become dangerous; decisions about when to advance or stay can change an attack before a save is required. This helps explain why judging the position involves more than counting goals conceded. Yashin’s career invites that broader view without requiring the unsupported claim that he invented every feature of modern goalkeeping.",
+        "fr": "Le travail d’un gardien ne se résume pas aux meilleurs arrêts. Son placement influe sur le danger des tirs ; décider de sortir ou de rester peut transformer une attaque avant même le dernier geste. L’évaluation dépasse donc le nombre de buts encaissés. La carrière de Yachine invite à ce regard large sans affirmer, sans preuve, qu’il aurait inventé toutes les caractéristiques du gardien moderne.",
+        "ar": "يصعب اختزال عمل الحارس في لقطات التصدي البارزة. فالتمركز يؤثر في خطورة التسديدات، وقرار التقدم أو البقاء قد يغير الهجمة قبل الحاجة إلى تصدٍ. لذلك يتطلب تقييم المركز أكثر من عد الأهداف المستقبلة. وتدعو مسيرة ياشين إلى هذه النظرة الأوسع دون الزعم غير المثبت بأنه ابتكر كل سمات حراسة المرمى الحديثة.",
+        "es": "El trabajo del portero no cabe en una selección de grandes paradas. La colocación influye en el peligro de los disparos; salir o quedarse puede cambiar una jugada antes del remate. Evaluar el puesto exige más que contar goles encajados. La carrera de Yashin invita a esa mirada amplia sin afirmar, sin pruebas, que inventó todos los rasgos del portero moderno."
+      },
+      {
+        "en": "Dynamo Moscow, Melbourne and Europe",
+        "fr": "Le Dynamo Moscou, Melbourne et l’Europe",
+        "ar": "دينامو موسكو وملبورن وأوروبا",
+        "es": "Dinamo de Moscú, Melbourne y Europa",
+        "heading": true
+      },
+      {
+        "en": "Yashin spent his senior club career with Dynamo Moscow. Olympedia records five Soviet league titles and three Soviet Cups, as well as the Olympic gold he won with the Soviet Union in Melbourne in 1956. Those achievements place the famous individual prize in a collective career: he was part of teams that repeatedly won major competitions.",
+        "fr": "Yachine a effectué sa carrière de club senior au Dynamo Moscou. Olympedia recense cinq championnats soviétiques et trois Coupes d’URSS, ainsi que son titre olympique avec l’Union soviétique à Melbourne en 1956. Ces résultats replacent la récompense individuelle dans une carrière collective, au sein d’équipes régulièrement victorieuses.",
+        "ar": "أمضى ياشين مسيرته مع الفريق الأول في دينامو موسكو. وتسجل أولمبيديا خمسة ألقاب للدوري السوفيتي وثلاث كؤوس سوفيتية، إضافة إلى ذهبية أولمبياد ملبورن 1956 مع الاتحاد السوفيتي. وتضع هذه الإنجازات جائزته الفردية الشهيرة ضمن مسيرة جماعية لفرق فازت مراراً ببطولات كبرى.",
+        "es": "Yashin desarrolló su carrera de club sénior en el Dinamo de Moscú. Olympedia registra cinco ligas soviéticas y tres Copas de la URSS, además del oro olímpico con la Unión Soviética en Melbourne en 1956. Esos logros sitúan su premio individual en una trayectoria colectiva de equipos que ganaban grandes competiciones.",
+        "source": [
+          "Olympedia, Lev Yashin biography and Olympic record",
+          "https://www.olympedia.org/athletes/27585"
+        ]
+      },
+      {
+        "en": "In 1960, the Soviet Union won the inaugural European Championship, and Yashin belongs to UEFA’s retrospective team of that tournament. This was a major international title before his Ballon d’Or victory. Reading the dates in order matters: Olympic gold in 1956, European success in 1960, then the individual honour in 1963. His reputation was built across seasons, not in a single evening.",
+        "fr": "En 1960, l’Union soviétique a remporté le premier Championnat d’Europe, et Yachine figure dans l’équipe rétrospective de ce tournoi choisie par l’UEFA. Ce titre international précède son Ballon d’Or. L’ordre des dates compte : or olympique en 1956, succès européen en 1960, puis récompense individuelle en 1963. Sa réputation s’est construite sur plusieurs saisons.",
+        "ar": "فاز الاتحاد السوفيتي بالنسخة الأولى من بطولة أوروبا عام 1960، ويظهر ياشين في تشكيلة يويفا التاريخية لذلك الحدث. جاء هذا اللقب الدولي الكبير قبل الكرة الذهبية. وترتيب التواريخ مهم: ذهب أولمبي في 1956، ونجاح أوروبي في 1960، ثم التكريم الفردي في 1963. فقد بُنيت سمعته عبر مواسم، لا في أمسية واحدة.",
+        "es": "En 1960, la Unión Soviética ganó la primera Eurocopa, y Yashin figura en el equipo retrospectivo de aquel torneo elegido por la UEFA. Fue un gran título internacional anterior al Balón de Oro. El orden importa: oro olímpico en 1956, éxito europeo en 1960 y premio individual en 1963. Su reputación se construyó durante años, no una sola noche.",
+        "source": [
+          "UEFA, EURO 1960 team of the tournament",
+          "https://www.uefa.com/uefaeuro/history/news/0253-0d7f20bc921c-495824f652eb-1000--uefaeuro1960-team-of-the-tournament/"
+        ]
+      },
+      {
+        "en": "The Ballon d’Or and the Yashin Trophy are different",
+        "fr": "Le Ballon d’Or et le Trophée Yachine sont distincts",
+        "ar": "الكرة الذهبية وجائزة ياشين مختلفتان",
+        "es": "El Balón de Oro y el Trofeo Yashin son distintos",
+        "heading": true
+      },
+      {
+        "en": "The Yashin Trophy, introduced in 2019 for goalkeepers, honours his name. Winning that trophy is not the same as winning the principal men’s Ballon d’Or. Yashin’s unique place concerns the main award he received in 1963. Keeping the two prizes separate avoids turning a tribute to his legacy into a misleading comparison of winners.",
+        "fr": "Le Trophée Yachine, créé en 2019 pour les gardiens, porte son nom. Le remporter n’équivaut pas à gagner le Ballon d’Or masculin principal. La place unique de Yachine concerne la récompense de 1963. Distinguer les deux prix évite de transformer cet hommage en comparaison trompeuse entre lauréats.",
+        "ar": "تحمل جائزة ياشين، التي أُطلقت لحراس المرمى في 2019، اسمه تكريماً له. والفوز بها لا يساوي الفوز بالكرة الذهبية الرئيسية للرجال. فمكانته الفريدة تتعلق بالجائزة الأساسية التي نالها في 1963. ويمنع الفصل بين الجائزتين تحويل التكريم إلى مقارنة مضللة بين الفائزين.",
+        "es": "El Trofeo Yashin, creado en 2019 para los porteros, honra su nombre. Ganarlo no equivale a conquistar el Balón de Oro masculino principal. La singularidad de Yashin corresponde al premio recibido en 1963. Separar ambos galardones evita convertir el homenaje en una comparación engañosa de ganadores.",
+        "source": [
+          "UEFA, how the Ballon d’Or awards work",
+          "https://www.uefa.com/ballondor/news/0292-1c2705cb8fd5-8f2dcb111a8a-1000--ballon-d-or-how-are-the-winners-decided/"
+        ]
+      },
+      {
+        "en": "A legacy that needs no invented numbers",
+        "fr": "Un héritage qui n’exige aucun chiffre inventé",
+        "ar": "إرث لا يحتاج إلى أرقام مختلقة",
+        "es": "Un legado que no necesita cifras inventadas",
+        "heading": true
+      },
+      {
+        "en": "The strongest account of Yashin rests on verified honours rather than spectacular but uncertain career totals. We do not need an invented quote or an unaudited penalty-save count to explain his importance. The black-and-white hero is also labelled honestly: an AI editorial depiction, not an authenticated archival photograph. His documented achievements supply the history; the illustration supplies an atmosphere.",
+        "fr": "Le récit le plus solide repose sur les titres vérifiés, plutôt que sur des totaux spectaculaires mais incertains. Ni citation inventée ni décompte non contrôlé de penalties arrêtés ne sont nécessaires. Le visuel en noir et blanc est également présenté honnêtement : une représentation éditoriale par IA, pas une archive photographique authentifiée. Les résultats documentés apportent l’histoire ; l’illustration, une atmosphère.",
+        "ar": "تعتمد الرواية الأقوى عن ياشين على الألقاب المتحققة بدلاً من حصائل مهنية مدهشة لكنها غير مؤكدة. ولا نحتاج إلى اقتباس مختلق أو عدد غير مدقق لركلات الجزاء المصدودة لشرح أهميته. وتوصف الصورة بالأبيض والأسود بوضوح أيضاً: تصوير تحريري بالذكاء الاصطناعي وليس صورة أرشيفية موثقة. تقدم إنجازاته الموثقة التاريخ، ويقدم الرسم أجواءه.",
+        "es": "El relato más sólido se apoya en títulos verificados, no en totales espectaculares pero inciertos. No necesitamos citas inventadas ni cifras de penaltis detenidos sin auditar. La imagen en blanco y negro también se presenta con claridad: una representación editorial con IA, no una fotografía de archivo autenticada. Los logros documentados aportan la historia; la ilustración, una atmósfera."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "When did Lev Yashin win the Ballon d’Or?",
+          "He won the men’s Ballon d’Or in 1963 and remains the only goalkeeper on its official winners list."
+        ],
+        [
+          "Which international titles did he win?",
+          "He won Olympic gold with the Soviet Union in 1956 and the inaugural European Championship in 1960."
+        ],
+        [
+          "Is the Yashin Trophy the same as the Ballon d’Or?",
+          "No. The goalkeeper award introduced in 2019 is separate from the principal Ballon d’Or that Yashin won in 1963."
+        ]
+      ],
+      "fr": [
+        [
+          "Quand Lev Yachine a-t-il remporté le Ballon d’Or ?",
+          "En 1963. Il reste le seul gardien au palmarès officiel du Ballon d’Or masculin."
+        ],
+        [
+          "Quels titres internationaux a-t-il remportés ?",
+          "L’or olympique avec l’Union soviétique en 1956 et le premier Championnat d’Europe en 1960."
+        ],
+        [
+          "Le Trophée Yachine est-il le Ballon d’Or ?",
+          "Non. Ce prix pour gardiens, créé en 2019, est distinct du Ballon d’Or principal remporté par Yachine en 1963."
+        ]
+      ],
+      "ar": [
+        [
+          "متى فاز ليف ياشين بالكرة الذهبية؟",
+          "فاز بالكرة الذهبية للرجال في 1963، ولا يزال الحارس الوحيد في قائمة الفائزين الرسمية."
+        ],
+        [
+          "ما أبرز لقبيه الدوليين؟",
+          "ذهبية الأولمبياد مع الاتحاد السوفيتي في 1956، والنسخة الأولى من بطولة أوروبا في 1960."
+        ],
+        [
+          "هل جائزة ياشين هي الكرة الذهبية نفسها؟",
+          "لا. جائزة الحراس التي أُطلقت في 2019 منفصلة عن الكرة الذهبية الرئيسية التي فاز بها ياشين في 1963."
+        ]
+      ],
+      "es": [
+        [
+          "¿Cuándo ganó el Balón de Oro?",
+          "En 1963. Sigue siendo el único portero en el palmarés oficial del premio masculino."
+        ],
+        [
+          "¿Qué títulos internacionales ganó?",
+          "El oro olímpico con la Unión Soviética en 1956 y la primera Eurocopa en 1960."
+        ],
+        [
+          "¿El Trofeo Yashin es el Balón de Oro?",
+          "No. El premio para porteros creado en 2019 es distinto del Balón de Oro principal que Yashin ganó en 1963."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "flame",
+    "slug": "eternal-flame-falls-fire-behind-waterfall",
+    "category": "World",
+    "schemaType": "Article",
+    "image": "eternal-flame-falls-natural-gas-ai-illustration.webp",
+    "attachment": "2-1000087768.jpg",
+    "tags": [
+      "Eternal Flame Falls",
+      "Geology",
+      "Natural gas"
+    ],
+    "related": "20-rare-natural-phenomena-seem-impossible",
+    "relatedLabel": [
+      "Rare natural phenomena that seem impossible",
+      "Des phénomènes naturels qui semblent impossibles",
+      "ظواهر طبيعية نادرة تبدو مستحيلة",
+      "Fenómenos naturales que parecen imposibles"
+    ],
+    "meta": {
+      "en": [
+        "ETERNAL FLAME FALLS: THE FIRE THAT BURNS BEHIND A WATERFALL",
+        "Eternal Flame Falls: Why Fire Burns Behind a Waterfall",
+        "Explore the natural gas seep behind Eternal Flame Falls in New York, what geologists measured and why the flame is not literally everlasting.",
+        "ETERNAL FLAME FALLS",
+        "BEHIND A WATERFALL",
+        "AI conceptual illustration of a flame in a rocky grotto behind falling water, inspired by Eternal Flame Falls; not a measured view of the site."
+      ],
+      "fr": [
+        "ETERNAL FLAME FALLS : LE FEU QUI BRÛLE DERRIÈRE UNE CASCADE",
+        "Eternal Flame Falls : pourquoi le feu brûle derrière l’eau",
+        "Découvrez la fuite naturelle de gaz d’Eternal Flame Falls, les mesures des géologues et pourquoi sa flamme n’est pas littéralement éternelle.",
+        "ETERNAL FLAME FALLS",
+        "DERRIÈRE UNE CASCADE",
+        "Illustration conceptuelle par IA d’une flamme dans une cavité rocheuse derrière une cascade, inspirée d’Eternal Flame Falls ; pas un relevé du site."
+      ],
+      "ar": [
+        "شلال الشعلة الأبدية: النار التي تتقد خلف شلال",
+        "شلال الشعلة الأبدية: لماذا تتقد النار خلف الماء؟",
+        "اكتشف تسرب الغاز الطبيعي خلف شلال الشعلة الأبدية في نيويورك، وما قاسه الجيولوجيون، ولماذا لا تعني التسمية ناراً لا تنطفئ.",
+        "شلال الشعلة الأبدية",
+        "خلف شلال",
+        "رسم تصوري بالذكاء الاصطناعي لشعلة في تجويف صخري خلف ماء متساقط، مستوحى من الموقع؛ لا يمثل قياساً فعلياً للمشهد."
+      ],
+      "es": [
+        "ETERNAL FLAME FALLS: EL FUEGO QUE ARDE DETRÁS DE UNA CASCADA",
+        "Eternal Flame Falls: por qué arde fuego tras una cascada",
+        "Descubre la filtración natural de gas de Eternal Flame Falls, las mediciones geológicas y por qué la llama no es literalmente eterna.",
+        "ETERNAL FLAME FALLS",
+        "DETRÁS DE UNA CASCADA",
+        "Ilustración conceptual con IA de una llama en una cavidad rocosa tras una cascada, inspirada en Eternal Flame Falls; no muestra condiciones medidas."
+      ]
+    },
+    "blocks": [
+      {
+        "en": "Water falls across dark rock, and a small flame burns in a sheltered recess behind it. At Eternal Flame Falls, the apparent contradiction is real, but its explanation is geological. Natural gas emerging from the ground supplies fuel. The water is not burning, and the place is not a hidden volcanic vent.",
+        "fr": "L’eau glisse sur la roche sombre tandis qu’une petite flamme brûle dans un renfoncement abrité. À Eternal Flame Falls, la rencontre semble contradictoire, mais son explication est géologique. Du gaz naturel sortant du sol alimente le feu. Ce n’est pas l’eau qui brûle, ni une bouche volcanique cachée.",
+        "ar": "ينحدر الماء فوق صخر داكن بينما تتقد شعلة صغيرة في تجويف محمي خلفه. في شلال الشعلة الأبدية يبدو المشهد متناقضاً، لكن تفسيره جيولوجي. فالغاز الطبيعي الخارج من الأرض يوفر الوقود. والماء لا يحترق، والمكان ليس فوهة بركانية خفية.",
+        "es": "El agua cae sobre roca oscura mientras una pequeña llama arde en un hueco protegido. En Eternal Flame Falls, la aparente contradicción es real, pero la explicación es geológica. El gas natural que sale del terreno proporciona combustible. El agua no arde y el lugar no es una chimenea volcánica oculta."
+      },
+      {
+        "en": "Where fire and falling water meet",
+        "fr": "Là où le feu rencontre la cascade",
+        "ar": "حيث تلتقي النار بالماء المتساقط",
+        "es": "Donde se encuentran el fuego y el agua",
+        "heading": true
+      },
+      {
+        "en": "The falls are in Chestnut Ridge Park, at Orchard Park in Erie County, New York. The county park authority identifies the Eternal Flame area in the Shale Creek part of the park. Its setting is a landscape of rock, flowing water and a gas seep, rather than a structure built to create a permanent artificial fire.",
+        "fr": "La cascade se trouve à Chestnut Ridge Park, à Orchard Park, dans le comté d’Erie, État de New York. L’autorité du parc situe le secteur de la flamme dans la zone de Shale Creek. Le décor associe roche, eau courante et fuite de gaz, plutôt qu’un dispositif construit pour entretenir artificiellement un feu permanent.",
+        "ar": "يقع الشلال في متنزه تشستنَت ريدج في أوركارد بارك بمقاطعة إيري في ولاية نيويورك. وتحدد إدارة المتنزه منطقة الشعلة ضمن قسم شيل كريك. ويجمع الموقع الصخر والماء الجاري وتسرب الغاز، وليس منشأة صُممت لصنع نار اصطناعية دائمة.",
+        "es": "La cascada está en Chestnut Ridge Park, en Orchard Park, condado de Erie, Nueva York. La administración del parque sitúa la zona de la llama en el sector de Shale Creek. El paisaje combina roca, agua corriente y una filtración de gas, no una instalación construida para mantener un fuego artificial permanente.",
+        "source": [
+          "Erie County Parks, Chestnut Ridge Park",
+          "https://www3.erie.gov/parks/chestnut-ridge"
+        ]
+      },
+      {
+        "en": "A flame requires fuel, oxygen and ignition. Here the seep supplies combustible gas, while the surrounding air provides oxygen. A recess in the rock can shelter a flame even while water passes in front of it. There is no need for a new law of chemistry: the striking visual effect comes from water and combustion occupying neighbouring spaces.",
+        "fr": "Une flamme demande combustible, oxygène et allumage. Ici, la fuite fournit un gaz combustible et l’air apporte l’oxygène. Un renfoncement rocheux peut abriter la flamme alors que l’eau passe devant. Aucune nouvelle loi chimique n’est nécessaire : l’effet spectaculaire vient de la proximité entre l’écoulement et la combustion.",
+        "ar": "تحتاج الشعلة إلى وقود وأكسجين واشتعال. هنا يوفر التسرب غازاً قابلاً للاحتراق ويقدم الهواء المحيط الأكسجين. ويمكن لتجويف الصخر حماية الشعلة بينما يمر الماء أمامه. لا يتطلب المشهد قانوناً كيميائياً جديداً؛ بل ينتج تأثيره اللافت من تجاور الماء والاحتراق في حيزين متقاربين.",
+        "es": "Una llama necesita combustible, oxígeno e ignición. La filtración aporta gas combustible y el aire proporciona oxígeno. Un hueco en la roca puede proteger el fuego mientras el agua pasa por delante. No hace falta una nueva ley química: el efecto surge de la proximidad entre agua y combustión."
+      },
+      {
+        "en": "What researchers measured in the gas",
+        "fr": "Ce que les chercheurs ont mesuré dans le gaz",
+        "ar": "ما الذي قاسه الباحثون في الغاز؟",
+        "es": "Qué midieron los investigadores en el gas",
+        "heading": true
+      },
+      {
+        "en": "A 2013 study by Giuseppe Etiope, Agnieszka Drobniak and Arndt Schimmelmann investigated natural shale-gas seepage and eternal flames in the northern Appalachian Basin. At the New York site, the researchers reported an unusually high combined proportion of ethane and propane, about 35 percent by volume. These are components of a gas mixture, not evidence that the waterfall itself contains a liquid fuel.",
+        "fr": "Une étude de 2013 de Giuseppe Etiope, Agnieszka Drobniak et Arndt Schimmelmann a examiné les suintements de gaz de schiste et les flammes du nord du bassin appalachien. Au site new-yorkais, elle rapporte une proportion combinée inhabituellement élevée d’éthane et de propane, environ 35 % en volume. Ce sont les composants d’un mélange gazeux, pas la preuve d’un carburant liquide dans la cascade.",
+        "ar": "درست ورقة نشرها جوزيبي إيتيوبي وأغنيشكا دروبنياك وأرندت شيملمان في 2013 تسرب غاز السجيل الطبيعي والشعلات في شمال حوض الأبلاش. وأبلغ الباحثون في موقع نيويورك عن نسبة مجمعة مرتفعة بصورة غير معتادة من الإيثان والبروبان، نحو 35 بالمئة حجماً. وهذه مكونات خليط غازي، لا دليل على احتواء ماء الشلال على وقود سائل.",
+        "es": "Un estudio de 2013 de Giuseppe Etiope, Agnieszka Drobniak y Arndt Schimmelmann investigó filtraciones de gas de lutita y llamas en el norte de la cuenca de los Apalaches. En el lugar de Nueva York registró una proporción combinada inusualmente alta de etano y propano, aproximadamente el 35 % en volumen. Son componentes de una mezcla gaseosa, no combustible líquido en la cascada.",
+        "source": [
+          "Etiope, Drobniak and Schimmelmann, Marine and Petroleum Geology (2013)",
+          "https://www.sciencedirect.com/science/article/pii/S0264817213000378"
+        ]
+      },
+      {
+        "en": "The paper’s geochemical analysis identifies the seep gas as predominantly thermogenic, associated with shale gas. That term concerns the geological production of hydrocarbons through heat acting on organic material over time. It does not mean that the rock beside the present flame must be hot, or that today’s waterfall is manufacturing fuel. Gas formation, movement through rock and combustion at the surface are separate stages.",
+        "fr": "L’analyse géochimique décrit un gaz principalement thermogénique, associé au gaz de schiste. Ce terme concerne la formation géologique d’hydrocarbures par l’action de la chaleur sur la matière organique au fil du temps. Il ne signifie pas que la roche près de la flamme soit actuellement chaude, ni que la cascade fabrique du combustible. Formation, migration et combustion sont des étapes distinctes.",
+        "ar": "يحدد التحليل الجيوكيميائي غاز التسرب بأنه حراري المنشأ في معظمه ومرتبط بغاز السجيل. ويشير ذلك إلى إنتاج الهيدروكربونات جيولوجياً بفعل الحرارة في المادة العضوية عبر الزمن. ولا يعني أن الصخر المجاور للشعلة ساخن الآن، أو أن الشلال يصنع الوقود اليوم. فتكون الغاز وانتقاله داخل الصخر واحتراقه عند السطح مراحل منفصلة.",
+        "es": "El análisis geoquímico identifica el gas como predominantemente termogénico, asociado al gas de lutita. El término se refiere a la formación geológica de hidrocarburos por calor sobre materia orgánica a lo largo del tiempo. No significa que la roca junto a la llama esté caliente hoy ni que la cascada fabrique combustible. Formación, migración y combustión son etapas distintas."
+      },
+      {
+        "en": "Why “eternal” is a name, not a guarantee",
+        "fr": "Pourquoi « éternelle » n’est pas une garantie",
+        "ar": "لماذا لا تعني «الأبدية» ضمان الاستمرار؟",
+        "es": "Por qué «eterna» no es una garantía",
+        "heading": true
+      },
+      {
+        "en": "The flame can go out. A 2019 Chemistry in Pictures feature from the American Chemical Society’s Chemical & Engineering News describes reignition at the site. Its name therefore should not become a claim of uninterrupted burning since an unknown ancient date. A persistent supply of gas and the continuous presence of a visible flame are different things.",
+        "fr": "La flamme peut s’éteindre. Une rubrique Chemistry in Pictures de 2019, publiée par Chemical & Engineering News de l’American Chemical Society, évoque son rallumage. Le nom ne doit donc pas devenir l’affirmation d’un feu ininterrompu depuis une époque ancienne inconnue. Une alimentation persistante en gaz et une flamme visible sans interruption sont deux choses différentes.",
+        "ar": "يمكن أن تنطفئ الشعلة. ويصف موضوع من سلسلة «الكيمياء في الصور» نشرته مجلة كيميكال آند إنجينيرنغ نيوز التابعة للجمعية الكيميائية الأمريكية في 2019 إعادة اشتعالها في الموقع. لذلك لا ينبغي تحويل الاسم إلى ادعاء احتراق متواصل منذ زمن قديم مجهول. فاستمرار إمداد الغاز واستمرار ظهور الشعلة أمران مختلفان.",
+        "es": "La llama puede apagarse. Una entrega de Chemistry in Pictures publicada en 2019 por Chemical & Engineering News, de la American Chemical Society, describe su reencendido. El nombre no debe convertirse en una afirmación de combustión ininterrumpida desde una fecha antigua desconocida. Un aporte persistente de gas y una llama siempre visible son cosas distintas.",
+        "source": [
+          "Chemical & Engineering News, Chemistry in Pictures: Eternal flame (2019)",
+          "https://cen.acs.org/physical-chemistry/geochemistry/Chemistry-Pictures-Eternal-flame/97/web/2019/01"
+        ]
+      },
+      {
+        "en": "A remarkable place, represented honestly",
+        "fr": "Un lieu remarquable, représenté honnêtement",
+        "ar": "مكان استثنائي يستحق تصويراً أميناً",
+        "es": "Un lugar extraordinario, representado con honestidad",
+        "heading": true
+      },
+      {
+        "en": "The approved AI hero exaggerates the drama of the scene. It is conceptual: the flame’s size, the flow of water and the arrangement of rock should not be treated as measurements or current site conditions. What makes Eternal Flame Falls extraordinary needs no invented origin story. It is the visible meeting of a geological fuel supply, an atmospheric chemical reaction and moving water.",
+        "fr": "Le visuel approuvé par IA accentue le spectacle. Il est conceptuel : taille de la flamme, débit de l’eau et disposition rocheuse ne sont ni des mesures ni un état actuel du site. Le caractère exceptionnel d’Eternal Flame Falls n’exige aucune origine inventée. C’est la rencontre visible d’un combustible géologique, d’une réaction chimique dans l’air et de l’eau en mouvement.",
+        "ar": "تزيد الصورة المعتمدة بالذكاء الاصطناعي درامية المشهد. إنها تصورية؛ فلا ينبغي اعتبار حجم الشعلة أو تدفق الماء أو ترتيب الصخور قياسات أو ظروف الموقع الحالية. ولا يحتاج تميز الشلال إلى قصة أصل مختلقة. إنه الالتقاء المرئي بين إمداد وقود جيولوجي وتفاعل كيميائي في الهواء وماء متحرك.",
+        "es": "La imagen aprobada con IA intensifica el dramatismo. Es conceptual: el tamaño del fuego, el caudal y la disposición de las rocas no son mediciones ni condiciones actuales. Lo extraordinario de Eternal Flame Falls no necesita un origen inventado. Es el encuentro visible entre combustible geológico, una reacción química en el aire y agua en movimiento."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "What fuels the fire behind Eternal Flame Falls?",
+          "A natural gas seep supplies combustible hydrocarbons. The waterfall’s water is not burning."
+        ],
+        [
+          "Does the flame literally burn forever?",
+          "No. It can go out and be reignited. The name does not prove an uninterrupted ancient burning history."
+        ],
+        [
+          "Where is Eternal Flame Falls?",
+          "It is in the Shale Creek area of Chestnut Ridge Park at Orchard Park, Erie County, New York."
+        ]
+      ],
+      "fr": [
+        [
+          "Qu’est-ce qui alimente le feu ?",
+          "Une fuite naturelle de gaz fournit des hydrocarbures combustibles. Ce n’est pas l’eau de la cascade qui brûle."
+        ],
+        [
+          "La flamme brûle-t-elle vraiment éternellement ?",
+          "Non. Elle peut s’éteindre et être rallumée. Son nom ne prouve pas un feu ininterrompu depuis l’Antiquité."
+        ],
+        [
+          "Où se trouve Eternal Flame Falls ?",
+          "Dans le secteur de Shale Creek à Chestnut Ridge Park, à Orchard Park, comté d’Erie, État de New York."
+        ]
+      ],
+      "ar": [
+        [
+          "ما وقود النار خلف الشلال؟",
+          "يوفر تسرب الغاز الطبيعي هيدروكربونات قابلة للاحتراق. ماء الشلال نفسه لا يحترق."
+        ],
+        [
+          "هل تتقد الشعلة إلى الأبد حرفياً؟",
+          "لا. يمكن أن تنطفئ وتُشعل من جديد. والاسم لا يثبت تاريخاً قديماً من الاحتراق المتواصل."
+        ],
+        [
+          "أين يقع شلال الشعلة الأبدية؟",
+          "في منطقة شيل كريك بمتنزه تشستنَت ريدج في أوركارد بارك، مقاطعة إيري بولاية نيويورك."
+        ]
+      ],
+      "es": [
+        [
+          "¿Qué alimenta el fuego?",
+          "Una filtración de gas natural aporta hidrocarburos combustibles. El agua de la cascada no arde."
+        ],
+        [
+          "¿Arde literalmente para siempre?",
+          "No. Puede apagarse y volver a encenderse. Su nombre no demuestra una combustión antigua ininterrumpida."
+        ],
+        [
+          "¿Dónde está Eternal Flame Falls?",
+          "En la zona de Shale Creek de Chestnut Ridge Park, en Orchard Park, condado de Erie, Nueva York."
+        ]
+      ]
+    }
+  }
+]
