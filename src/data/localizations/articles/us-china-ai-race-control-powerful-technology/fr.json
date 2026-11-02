@@ -28,7 +28,7 @@
   "category": "AI",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-09-14",
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-11-02",
   "image": {
     "src": "/articles/us-china-ai-race-control-powerful-technology.png",
     "alt": "Illustration éditoriale cinématographique de robots d’IA américains et chinois courant sur une piste sous des drapeaux nationaux et des symboles d’entreprises technologiques."
@@ -144,7 +144,7 @@
     },
     {
       "type": "paragraph",
-      "text": "L’avantage ne tient pas seulement à la puce. Il comprend le matériel, les bibliothèques logicielles, les habitudes des développeurs, les interconnexions, l’ingénierie des systèmes, les chaînes d’approvisionnement et la disponibilité dans le cloud."
+      "text": "L’avantage ne tient pas seulement à la puce. Il comprend le matériel, les bibliothèques logicielles, les habitudes des développeurs, les interconnexions, l’ingénierie des systèmes, les chaînes d’approvisionnement et la disponibilité dans le cloud. [NVIDIA : plateforme CUDA et bibliothèques logicielles](https://developer.nvidia.com/cuda)"
     },
     {
       "type": "paragraph",
@@ -200,7 +200,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Taïwan compte parce que TSMC fabrique une grande partie des puces les plus avancées, notamment celles utilisées par les principales entreprises d’IA."
+      "text": "Taïwan compte parce que TSMC fabrique une grande partie des puces les plus avancées, notamment celles utilisées par les principales entreprises d’IA. [NVIDIA : écosystème taïwanais et partenariat avec TSMC](https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/)"
     },
     {
       "type": "paragraph",

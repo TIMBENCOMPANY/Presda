@@ -28,7 +28,7 @@
   "category": "History",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-09-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-11-02",
   "image": {
     "src": "/images/articles/mongol-empire-genghis-khan-conquests-legacy.webp",
     "alt": "Reconstrucción histórica editorial cinematográfica de un gobernante mongol a caballo sobre un campamento estepario; no es un retrato autenticado de Gengis Kan"
@@ -635,16 +635,16 @@
   ],
   "faq": [
     {
-      "question": "¿De qué trata este artículo de PRESDA?",
-      "answer": "De la infancia precaria de Temuyín a un imperio que abarcó Eurasia: cómo los mongoles conquistaron, gobernaron, destruyeron y conectaron un mundo mayor de lo que podía controlar un solo gobernante."
+      "question": "¿Quién fundó el Imperio mongol y cuándo?",
+      "answer": "Temuyín, conocido como Gengis Kan, unificó a los grupos mongoles y fue reconocido como su líder en una asamblea en 1206. Esa unificación sentó las bases de la expansión más allá de Mongolia."
     },
     {
-      "question": "¿A qué categoría pertenece esta historia?",
-      "answer": "Esta historia forma parte de la cobertura de Historia de PRESDA."
+      "question": "¿Fue el Imperio mongol el mayor imperio de la historia?",
+      "answer": "Fue el mayor imperio terrestre continuo, con aproximadamente 24 millones de kilómetros cuadrados en su apogeo a finales del siglo XIII. El Imperio británico fue mayor por superficie total, con territorios separados por océanos."
     },
     {
-      "question": "¿Quién publicó este artículo?",
-      "answer": "IMPERIO MONGOL: CÓMO GENGIS KAN CONQUISTÓ MEDIO MUNDO CONOCIDO fue publicado por PRESDA Editorial en PRESDA."
+      "question": "¿Por qué se dividió el Imperio mongol en kanatos?",
+      "answer": "Las disputas sucesorias, los gobernantes rivales y las diferencias sobre cómo administrar las sociedades conquistadas debilitaron la autoridad central. Desde la década de 1260, los kanatos regionales defendieron cada vez más sus propios intereses en lugar de permanecer bajo un único gobernante efectivo."
     }
   ]
 }

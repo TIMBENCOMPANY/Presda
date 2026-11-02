@@ -27,7 +27,7 @@
   "category": "AI",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-09-14",
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-11-02",
   "image": {
     "src": "/articles/us-china-ai-race-control-powerful-technology.png",
     "alt": "Ilustración editorial cinematográfica de robots de IA estadounidenses y chinos compitiendo en una pista bajo banderas nacionales y símbolos de empresas tecnológicas"
@@ -143,7 +143,7 @@
     },
     {
       "type": "paragraph",
-      "text": "La ventaja no es solo el chip. Es el conjunto: hardware, bibliotecas de software, familiaridad de los desarrolladores, interconexiones, ingeniería de sistemas, cadenas de suministro y disponibilidad en la nube."
+      "text": "La ventaja no es solo el chip. Es el conjunto: hardware, bibliotecas de software, familiaridad de los desarrolladores, interconexiones, ingeniería de sistemas, cadenas de suministro y disponibilidad en la nube. [NVIDIA: plataforma CUDA y bibliotecas de software](https://developer.nvidia.com/cuda)"
     },
     {
       "type": "paragraph",
@@ -199,7 +199,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Taiwán importa porque TSMC fabrica muchos de los chips más avanzados del mundo, incluidos los que utilizan las principales empresas de IA."
+      "text": "Taiwán importa porque TSMC fabrica muchos de los chips más avanzados del mundo, incluidos los que utilizan las principales empresas de IA. [NVIDIA: ecosistema de Taiwán y colaboración con TSMC](https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/)"
     },
     {
       "type": "paragraph",

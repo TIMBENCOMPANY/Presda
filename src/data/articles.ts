@@ -13747,7 +13747,7 @@ export const articles: Article[] = [
     "excerpt": "From Temüjin’s precarious childhood to an empire spanning Eurasia: how the Mongols conquered, governed, destroyed and connected a world larger than any single ruler could control.",
     "category": "History",
     "date": "2026-09-16",
-    "lastUpdated": "2026-09-16",
+    "lastUpdated": "2026-11-02",
     "author": "PRESDA Editorial",
     "coverImage": "/images/articles/mongol-empire-genghis-khan-conquests-legacy.webp",
     "coverAlt": "Cinematic editorial historical reconstruction of a Mongol ruler on horseback above a steppe camp; not an authenticated portrait of Genghis Khan",
@@ -14041,7 +14041,21 @@ export const articles: Article[] = [
       "History"
     ],
     "readingTime": "20 min read",
-    "status": "published"
+    "status": "published",
+    "faq": [
+      {
+        "question": "Who founded the Mongol Empire and when?",
+        "answer": "Temüjin, known as Genghis Khan, united the Mongol groups and was recognized as their leader at an assembly in 1206. This unification provided the foundation for expansion beyond Mongolia."
+      },
+      {
+        "question": "Was the Mongol Empire the largest empire in history?",
+        "answer": "It was the largest contiguous land empire, covering approximately 24 million square kilometers at its late-13th-century peak. The British Empire was larger by total area, with territories separated by oceans."
+      },
+      {
+        "question": "Why did the Mongol Empire split into khanates?",
+        "answer": "Succession disputes, rival rulers and different approaches to governing conquered societies weakened central authority. From the 1260s, regional khanates increasingly pursued their own interests rather than remaining under one effective ruler."
+      }
+    ]
   },
   {
     "id": "081",
@@ -15714,7 +15728,7 @@ export const articles: Article[] = [
       "Behind the rumors surrounding Jeffrey Epstein's private island lies a documented story of abuse, trafficking allegations, investigations and unanswered questions.",
     category: "World",
     date: "2026-09-15",
-    lastUpdated: "2026-09-15",
+    lastUpdated: "2026-11-02",
     author: "PRESDA Editorial",
     coverImage: "/articles/epstein-island-little-st-james-investigation.png",
     coverAlt:
@@ -15759,9 +15773,9 @@ export const articles: Article[] = [
       "Her conviction is one of the clearest legal anchors in the Epstein story because it moved from allegation to jury verdict.",
       "Maxwell's documented role does not prove every internet claim about Epstein's circle. It does show that federal prosecutors convinced a jury she participated in a criminal scheme involving minors.",
       "## Epstein's 2019 Arrest And Death",
-      "On July 6, 2019, Epstein was arrested on federal sex-trafficking charges after arriving in New Jersey from Paris.",
+      "On July 6, 2019, Epstein was arrested on federal sex-trafficking charges after arriving in New Jersey from Paris. [US Department of Justice: 2019 charges](https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors)",
       "Federal prosecutors accused him of exploiting and abusing dozens of girls from at least 2002 to 2005, with allegations connected to his New York and Florida homes.",
-      "On August 10, 2019, Epstein died in federal custody at the Metropolitan Correctional Center in New York. The New York City medical examiner ruled the death a suicide by hanging.",
+      "On August 10, 2019, Epstein died in federal custody at the Metropolitan Correctional Center in New York. The New York City medical examiner ruled the death a suicide by hanging. [DOJ Inspector General: investigation of custody and death](https://oig.justice.gov/sites/default/files/2023-06/6-27-2023_0.pdf)",
       "His death produced intense public distrust because he died before trial, inside federal custody, while facing charges that involved powerful social connections.",
       "That distrust is understandable. It is not the same as proof of every theory about his death.",
       "## The FBI Search Of Little St. James",
@@ -18357,7 +18371,7 @@ export const articles: Article[] = [
       "The US-China AI race is not only about chatbots. It is a strategic contest over chips, models, data centers, talent, robotics, cloud platforms, national security and economic power.",
     category: "AI",
     date: "2026-09-14",
-    lastUpdated: "2026-09-14",
+    lastUpdated: "2026-11-02",
     author: "PRESDA Editorial",
     coverImage: "/articles/us-china-ai-race-control-powerful-technology.png",
     coverAlt:
@@ -18391,7 +18405,7 @@ export const articles: Article[] = [
       "No country has solved reliability. Agents still make mistakes, misunderstand goals and require oversight. The winner in deployment may be the side that combines capability with trust, safety, integration and cost.",
       "## NVIDIA GPUs Vs China's Domestic Chip Push",
       "NVIDIA remains central to frontier AI because its GPUs, networking hardware and CUDA software ecosystem created the default platform for large-scale AI training and inference.",
-      "The advantage is not only the chip. It is the full stack: hardware, software libraries, developer familiarity, interconnects, systems engineering, supply chains and cloud availability.",
+      "The advantage is not only the chip. It is the full stack: hardware, software libraries, developer familiarity, interconnects, systems engineering, supply chains and cloud availability. [NVIDIA: CUDA platform and software libraries](https://developer.nvidia.com/cuda)",
       "China's domestic chip push is a direct response to that dependence. Huawei's Ascend line is the most visible challenger, and Chinese companies are working to adapt models and software to domestic accelerators.",
       "The gap is not static. Chinese hardware, packaging, software and model-efficiency work can improve. But replacing NVIDIA at the frontier is difficult because AI chips are not interchangeable commodities. A weaker software ecosystem can make a theoretically capable chip harder to use at scale.",
       "## Export Restrictions And Their Real Impact",
@@ -18405,7 +18419,7 @@ export const articles: Article[] = [
       "SMIC is China's leading domestic foundry. Its progress matters because chip sovereignty requires manufacturing, not only design. Yet the most advanced semiconductor production is among the hardest industrial tasks on earth. It requires tools, materials, yield management, packaging, process knowledge and enormous capital.",
       "China can narrow gaps in some areas while still facing bottlenecks at the bleeding edge. Catch-up is not a single moment. It is a long fight across dozens of technical layers.",
       "## TSMC And Why Taiwan Matters",
-      "Taiwan matters because TSMC manufactures many of the world's most advanced chips, including chips used by leading AI companies.",
+      "Taiwan matters because TSMC manufactures many of the world's most advanced chips, including chips used by leading AI companies. [NVIDIA: Taiwan ecosystem and TSMC partnership](https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/)",
       "This makes Taiwan a central point in the AI race even though the competition is often described as simply China versus America.",
       "Advanced AI depends on semiconductor supply chains that cross borders: US chip design, Taiwanese manufacturing, Dutch lithography tools, Japanese materials, South Korean memory, cloud data centers and global electronics assembly.",
       "Any serious disruption around Taiwan would affect AI far beyond one company or one country. It would shake the foundation of the modern computing economy.",
@@ -27464,7 +27478,7 @@ export const articles: Article[] = [
       "His attacking imagination earned him one of chess's greatest nicknames: The Magician from Riga.",
       "Tal's games remain among the most entertaining attacking masterpieces ever played.",
       "## THE SOVIET CHESS MACHINE",
-      "During the 20th century, the Soviet Union turned chess into a national institution.",
+      "During the 20th century, the [Soviet Union](/articles/soviet-union-history-rise-collapse-ussr/) turned chess into a national institution.",
       "Chess received enormous cultural prestige.",
       "Strong players were trained systematically.",
       "Coaches, clubs and schools developed talent.",
@@ -33303,7 +33317,7 @@ export const articles: Article[] = [
       "Nodirbek Abdusattorov became a symbol of that rise after his rapid progress into the world elite. Javokhir Sindarov has also emerged as one of the strongest young grandmasters in the game. Their presence alongside Yakubboev, Vokhidov and Madaminov gives Uzbekistan a core that can compete with India, China, the United States, Germany, Ukraine and other established powers.",
       "A second Olympiad gold also changes the expectations around the team. The question is no longer whether Uzbekistan can win once. It is whether the country can remain a permanent contender across future Olympiads, world team events and individual championships. The Samarkand result suggests that its system has enough depth to make that ambition credible.",
       "## SAMARKAND AS A CHESS CAPITAL",
-      "Hosting the 46th Olympiad placed Samarkand at the center of international chess from September 15 to 27. The city is known worldwide for its Silk Road history, Islamic architecture and Timurid monuments. During the Olympiad, that cultural setting became part of a contemporary sporting story.",
+      "Hosting the 46th Olympiad placed Samarkand at the center of international chess from September 15 to 27. The city is known worldwide for its Silk Road history, Islamic architecture and [Timurid monuments](/articles/timurid-empire-timur-samarkand-history/). During the Olympiad, that cultural setting became part of a contemporary sporting story.",
       "The event brought national teams together for eleven classical rounds in the Open and Women’s sections, with players competing under intense public attention. FIDE's official schedule placed the final round and closing ceremony on September 27. Uzbekistan's victory gave the host city the ending every organizer hopes to create: a major international event concluded by a home champion.",
       "A successful home Olympiad can also widen access to chess. Children watching the final round saw players from their own country defeat one of the world's strongest teams. That kind of example can turn a medal into a lasting lesson about preparation, patience and the possibility of competing at the highest level.",
       "## THE FINAL BOARD THAT SEALED GOLD",
