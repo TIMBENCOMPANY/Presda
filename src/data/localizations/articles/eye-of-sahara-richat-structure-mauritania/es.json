@@ -1,0 +1,115 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/eye-of-sahara-richat-structure-mauritania/",
+  "path": "/es/articles/eye-of-sahara-richat-structure-mauritania/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-02",
+    "terminologyChecked": true
+  },
+  "title": "EL OJO DEL SAHARA: EL MISTERIOSO CÍRCULO GIGANTE DE ÁFRICA",
+  "seoTitle": "Ojo del Sahara: cómo se formó la estructura de Richat",
+  "description": "Descubre la estructura de Richat en Mauritania, el Ojo del Sahara de unos 40 kilómetros, y la geología que explica sus anillos.",
+  "excerpt": "Descubre la estructura de Richat en Mauritania, el Ojo del Sahara de unos 40 kilómetros, y la geología que explica sus anillos.",
+  "headlineHighlights": {
+    "red": "OJO DEL SAHARA",
+    "gold": "CÍRCULO GIGANTE DE ÁFRICA"
+  },
+  "keywords": [
+    "OJO DEL SAHARA",
+    "CÍRCULO GIGANTE DE ÁFRICA"
+  ],
+  "searchIntent": "Descubre la estructura de Richat en Mauritania, el Ojo del Sahara de unos 40 kilómetros, y la geología que explica sus anillos.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "image": {
+    "src": "/articles/eye-of-sahara-richat-structure-editorial.webp",
+    "alt": "Vista editorial conceptual de crestas concéntricas del desierto inspiradas en Richat; no es un levantamiento aéreo científico."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Vista desde arriba, Richat parece una diana en el desierto. Sus anillos rocosos interrumpen las arenas de Mauritania y explican el apodo Ojo del Sahara. Con unos 40 kilómetros de diámetro, invita a grandes explicaciones. La más sólida es geológica: el levantamiento de un domo de rocas estratificadas y su erosión dejaron visible ese patrón concéntrico. [Fuente: www.esa.int](https://www.esa.int/ESA_Multimedia/Images/2014/05/Richat_structure_Mauritania)"
+    },
+    {
+      "type": "heading",
+      "text": "Dónde está el Ojo y por qué importa la escala"
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA lo identifica como un domo geológico elevado, también llamado anticlinal en domo. Las imágenes orbitales sitúan los anillos entre extensos campos de dunas. Desde el suelo se ven partes de crestas y afloramientos, no toda la diana a la vez. La perspectiva espacial resulta reveladora, sin implicar un origen extraterrestre. [Fuente: science.nasa.gov](https://science.nasa.gov/earth/earth-observatory/the-eye-of-sahara-150060/)"
+    },
+    {
+      "type": "heading",
+      "text": "Cómo dibuja anillos la erosión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagina capas antes más horizontales y después arqueadas en un domo. Al retirarse material de la cima quedan expuestas distintas capas alrededor del centro. Como las rocas resisten la erosión de forma desigual, unas permanecen como crestas y otras se desgastan antes. La NASA llama cuestas a esas crestas circulares. Es erosión diferencial, no una herramienta circular gigantesca."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Servicio Geológico de Estados Unidos describe un domo erosionado con rocas sedimentarias y volcánicas. Señala además que los vientos persistentes del noreste ayudan a retirar arena y dejar expuestas las capas. El patrón combina estructura, materiales y eliminación. La silueta circular por sí sola dice poco sobre su origen; las rocas y su disposición aportan mejores pruebas. [Fuente: www.usgs.gov](https://www.usgs.gov/media/images/landsat-8-collection-2-image-richat-structure)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué perdió fuerza la explicación del cráter"
+    },
+    {
+      "type": "paragraph",
+      "text": "La forma circular favoreció inicialmente la hipótesis de un impacto. El trabajo geológico apoya en cambio levantamiento y erosión. En Geology, en 2005, Guillaume Matton, Michel Jébrak y James K. W. Lee propusieron un modelo con domo, complejo ígneo alcalino y disolución hidrotermal con colapso central. Es más complejo que una cuenca excavada de golpe y muestra el valor del trabajo de campo. [Fuente: researchers.mq.edu.au](https://researchers.mq.edu.au/en/publications/resolving-the-richat-enigma-doming-and-hydrothermal-karstificatio/)"
+    },
+    {
+      "type": "heading",
+      "text": "El misterio invita a comprobar explicaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos relatos presentan Richat como una civilización perdida o la Atlántida. Las fuentes geológicas citadas no establecen esas afirmaciones. Un paisaje anillado no demuestra calles, edificios o una capital antigua. Una interpretación arqueológica necesita pruebas en contexto, no una semejanza entre una imagen espectacular y una descripción recordada. El misterio visual no exige abandonar la evidencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen facilitada es conceptual, no un levantamiento aéreo científico. Sus distancias entre anillos, relieve y colores no son mediciones. Las observaciones de satélites y astronautas siguen siendo la evidencia visual apropiada. Richat sorprende porque la geología organiza paisajes a esta escala, no porque cada pregunta exija una respuesta ajena a ella."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [Fenómenos naturales extraordinarios](/articles/20-rare-natural-phenomena-seem-impossible/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.esa.int",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2014/05/Richat_structure_Mauritania"
+    },
+    {
+      "label": "Fuente: science.nasa.gov",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-eye-of-sahara-150060/"
+    },
+    {
+      "label": "Fuente: www.usgs.gov",
+      "url": "https://www.usgs.gov/media/images/landsat-8-collection-2-image-richat-structure"
+    },
+    {
+      "label": "Fuente: researchers.mq.edu.au",
+      "url": "https://researchers.mq.edu.au/en/publications/resolving-the-richat-enigma-doming-and-hydrothermal-karstificatio/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Dónde está el Ojo del Sahara?",
+      "answer": "La estructura de Richat está en Mauritania, al noroeste de África. Sus crestas concéntricas abarcan unos 40 kilómetros."
+    },
+    {
+      "question": "¿Es un cráter de meteorito?",
+      "answer": "La explicación geológica aceptada es un domo elevado modelado por erosión. La forma circular no demuestra un impacto."
+    },
+    {
+      "question": "¿Los anillos prueban que fuera la Atlántida?",
+      "answer": "No. Las fuentes geológicas citadas no establecen una ciudad perdida. Harían falta pruebas arqueológicas en contexto."
+    }
+  ]
+}

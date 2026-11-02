@@ -1,0 +1,115 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/aye-aye-madagascar-primate-tap-foraging/",
+  "path": "/fr/articles/aye-aye-madagascar-primate-tap-foraging/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-02",
+    "terminologyChecked": true
+  },
+  "title": "L’AYE-AYE : LE PLUS ÉTRANGE PRIMATE DE MADAGASCAR",
+  "seoTitle": "Aye-aye : le primate de Madagascar qui écoute le bois",
+  "description": "Découvrez l’aye-aye, lémurien nocturne de Madagascar : doigts spécialisés, incisives à croissance continue et recherche de nourriture dans le bois.",
+  "excerpt": "Découvrez l’aye-aye, lémurien nocturne de Madagascar : doigts spécialisés, incisives à croissance continue et recherche de nourriture dans le bois.",
+  "headlineHighlights": {
+    "red": "AYE-AYE",
+    "gold": "MADAGASCAR"
+  },
+  "keywords": [
+    "AYE-AYE",
+    "MADAGASCAR"
+  ],
+  "searchIntent": "Découvrez l’aye-aye, lémurien nocturne de Madagascar : doigts spécialisés, incisives à croissance continue et recherche de nourriture dans le bois.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "image": {
+    "src": "/articles/aye-aye-madagascar-primate-editorial.webp",
+    "alt": "Représentation éditoriale d’un aye-aye aux grandes oreilles et yeux ambrés tenant des feuilles ; photographe et lieu non fournis."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "L’aye-aye semble parfois réunir plusieurs animaux : grandes oreilles, yeux brillants, incisives visibles et majeur extraordinairement fin. Pourtant, Daubentonia madagascariensis n’est pas une erreur de l’évolution. C’est un lémurien, donc un primate, originaire de Madagascar. Le qualifier de plus étrange invite à l’observer ; ce n’est pas un classement scientifique de l’étrangeté."
+    },
+    {
+      "type": "heading",
+      "text": "Une vie nocturne dans les arbres"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le Duke Lemur Center décrit un animal nocturne présent dans des forêts de l’est et de l’ouest de Madagascar. Son apparence prend davantage de sens dans ce milieu que dans un portrait éclairé. Oreilles mobiles et mains spécialisées appartiennent à un système de recherche et d’extraction de nourriture dans l’obscurité. Des incisives rappelant celles d’un rongeur n’en font pas un rongeur. [Source: lemur.duke.edu](https://lemur.duke.edu/discover/meet-the-lemurs/aye-aye/)"
+    },
+    {
+      "type": "heading",
+      "text": "Taper, écouter, ouvrir et extraire"
+    },
+    {
+      "type": "paragraph",
+      "text": "La séquence alimentaire montre une anatomie fonctionnant comme un ensemble d’outils. L’aye-aye frappe le bois et écoute les différences liées aux espaces internes. Ses incisives ouvrent l’accès à la nourriture, puis son majeur long et souple peut explorer et extraire des larves. L’American Museum of Natural History mentionne aussi son utilisation pour récupérer la chair de noix de coco. Rien de surnaturel : une alimentation spécialisée. [Source: www.amnh.org](https://www.amnh.org/explore/ology/ology-cards/131-aye-aye)"
+    },
+    {
+      "type": "paragraph",
+      "text": "On parle de recherche alimentaire par percussion. Une ressource cachée à la vue peut laisser des informations détectables. L’aye-aye combine plusieurs gestes, plutôt que de dépendre d’un doigt magique. Une photographie peut montrer un doigt fin ; il faut une séquence comportementale documentée pour démontrer son utilisation."
+    },
+    {
+      "type": "heading",
+      "text": "Une structure supplémentaire dans la main"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une étude anatomique mise en ligne en 2019, avant son numéro de revue de 2020, a décrit un pseudo-pouce. Dissection et imagerie de sept individus ont révélé un sésamoïde du poignet élargi et du cartilage, associés à des muscles et à un coussinet distinct. Les auteurs proposent une compensation pour des doigts spécialisés dans d’autres tâches que la prise. C’est une découverte anatomique accompagnée d’une interprétation fonctionnelle, pas un deuxième pouce ordinaire. [Source: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/31633197/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un animal singulier face aux pressions humaines"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Lemur Conservation Foundation le classe en danger en citant l’évaluation UICN de 2020. La perte de forêt et les persécutions comptent davantage pour son avenir que notre appréciation de son visage. Des croyances négatives existent dans certaines communautés, sans pouvoir être attribuées à tous les habitants de Madagascar. La conservation repose aussi sur les savoirs et relations locales, ainsi que sur la protection de l’habitat. [Source: www.lemurreserve.org](https://www.lemurreserve.org/lemurs/aye-aye-2/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le visuel est une représentation éditoriale dont photographe, date et lieu n’ont pas été fournis. Il n’identifie donc pas une population sauvage précise et ne prouve pas une scène alimentaire observée. Le récit le plus riche se trouve derrière le portrait : des caractères apparemment étranges deviennent compréhensibles quand on étudie leur fonction."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [Comment les scientifiques identifient un félin sauvage](/articles/leopardus-tilcayo-new-wild-cat-species/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: lemur.duke.edu",
+      "url": "https://lemur.duke.edu/discover/meet-the-lemurs/aye-aye/"
+    },
+    {
+      "label": "Source: www.amnh.org",
+      "url": "https://www.amnh.org/explore/ology/ology-cards/131-aye-aye"
+    },
+    {
+      "label": "Source: pubmed.ncbi.nlm.nih.gov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31633197/"
+    },
+    {
+      "label": "Source: www.lemurreserve.org",
+      "url": "https://www.lemurreserve.org/lemurs/aye-aye-2/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "L’aye-aye est-il un rongeur ou un primate ?",
+      "answer": "C’est un lémurien, donc un primate. Ses incisives rappelant celles d’un rongeur ne changent pas sa classification."
+    },
+    {
+      "question": "À quoi sert son long majeur ?",
+      "answer": "Il participe à la recherche par percussion et permet d’extraire des larves. L’ouïe et les incisives interviennent aussi."
+    },
+    {
+      "question": "Qu’est-ce que le pseudo-pouce ?",
+      "answer": "Une structure liée au poignet, avec os, cartilage et coussinet, décrite en ligne en 2019. Ce n’est pas un deuxième pouce ordinaire."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/eye-of-sahara-richat-structure-mauritania/",
+  "path": "/fr/articles/eye-of-sahara-richat-structure-mauritania/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-02",
+    "terminologyChecked": true
+  },
+  "title": "L’ŒIL DU SAHARA : LE MYSTÉRIEUX CERCLE GÉANT D’AFRIQUE",
+  "seoTitle": "Œil du Sahara : comment s’est formée la structure de Richat",
+  "description": "Découvrez la structure de Richat en Mauritanie, l’Œil du Sahara d’environ 40 kilomètres, et la géologie qui explique ses anneaux.",
+  "excerpt": "Découvrez la structure de Richat en Mauritanie, l’Œil du Sahara d’environ 40 kilomètres, et la géologie qui explique ses anneaux.",
+  "headlineHighlights": {
+    "red": "ŒIL DU SAHARA",
+    "gold": "CERCLE GÉANT D’AFRIQUE"
+  },
+  "keywords": [
+    "ŒIL DU SAHARA",
+    "CERCLE GÉANT D’AFRIQUE"
+  ],
+  "searchIntent": "Découvrez la structure de Richat en Mauritanie, l’Œil du Sahara d’environ 40 kilomètres, et la géologie qui explique ses anneaux.",
+  "category": "World",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "image": {
+    "src": "/articles/eye-of-sahara-richat-structure-editorial.webp",
+    "alt": "Vue éditoriale conceptuelle de crêtes désertiques concentriques inspirées de Richat ; pas un relevé aérien scientifique."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Vu d’en haut, Richat ressemble à une cible dans le désert. Des anneaux rocheux interrompent les sables de Mauritanie, d’où son surnom d’Œil du Sahara. Avec environ 40 kilomètres de diamètre, la formation appelle de grandes explications. La plus solide est géologique : le soulèvement d’un dôme de roches stratifiées, puis leur érosion, a fait apparaître ce motif concentrique. [Source: www.esa.int](https://www.esa.int/ESA_Multimedia/Images/2014/05/Richat_structure_Mauritania)"
+    },
+    {
+      "type": "heading",
+      "text": "Où se trouve l’Œil et pourquoi l’échelle compte"
+    },
+    {
+      "type": "paragraph",
+      "text": "La NASA décrit un dôme géologique soulevé, ou anticlinal en dôme. Ses images prises en orbite situent les anneaux au milieu de vastes champs de dunes. Au sol, on observe des morceaux de crêtes et d’affleurements plutôt que la cible entière. La vue spatiale est donc particulièrement révélatrice, sans impliquer une origine extraterrestre. [Source: science.nasa.gov](https://science.nasa.gov/earth/earth-observatory/the-eye-of-sahara-150060/)"
+    },
+    {
+      "type": "heading",
+      "text": "Comment l’érosion dessine des anneaux"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaginons des couches autrefois plus horizontales, ensuite bombées en dôme. L’enlèvement du sommet expose différentes couches autour du centre. Leur résistance inégale à l’érosion laisse certaines en crêtes tandis que les voisines s’usent plus vite. La NASA appelle ces reliefs circulaires des cuestas. C’est une érosion différentielle, pas la trace d’un outil géant."
+    },
+    {
+      "type": "paragraph",
+      "text": "L’US Geological Survey décrit un dôme érodé contenant des roches sédimentaires et volcaniques. Des vents persistants du nord-est contribuent à dégager le sable et à exposer les couches. Le motif résulte donc de la structure, des matériaux et de leur enlèvement. La seule forme circulaire n’indique pas le processus responsable ; les roches et leur disposition sont plus probantes. [Source: www.usgs.gov](https://www.usgs.gov/media/images/landsat-8-collection-2-image-richat-structure)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi l’hypothèse du cratère a reculé"
+    },
+    {
+      "type": "paragraph",
+      "text": "La forme circulaire a d’abord favorisé l’hypothèse d’un impact. Les travaux géologiques soutiennent plutôt le soulèvement et l’érosion. Dans Geology en 2005, Guillaume Matton, Michel Jébrak et James K. W. Lee ont proposé un modèle associant dôme, complexe magmatique alcalin et dissolution hydrothermale avec effondrement au centre. Bien plus qu’une simple cuvette creusée d’un coup, ce modèle souligne la valeur des observations de terrain. [Source: researchers.mq.edu.au](https://researchers.mq.edu.au/en/publications/resolving-the-richat-enigma-doming-and-hydrothermal-karstificatio/)"
+    },
+    {
+      "type": "heading",
+      "text": "Le mystère invite à tester les explications"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des récits en ligne présentent parfois Richat comme une civilisation perdue ou l’Atlantide. Les sources géologiques citées n’établissent pas ces affirmations. Des anneaux ne prouvent ni rues, ni bâtiments, ni capitale antique. Une interprétation archéologique exige des preuves contextualisées, pas une ressemblance entre une image spectaculaire et un texte ancien. Le mystère visuel peut rester fascinant sans remplacer les faits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le visuel fourni est conceptuel, pas un relevé aérien scientifique. Espacement des anneaux, relief et couleurs ne constituent pas des mesures. Les observations satellitaires et les photographies d’astronautes restent les documents appropriés. Richat fascine parce que la géologie peut organiser un paysage à cette échelle, sans exiger une réponse étrangère à la géologie pour chaque question."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [Des phénomènes naturels remarquables](/articles/20-rare-natural-phenomena-seem-impossible/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.esa.int",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2014/05/Richat_structure_Mauritania"
+    },
+    {
+      "label": "Source: science.nasa.gov",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-eye-of-sahara-150060/"
+    },
+    {
+      "label": "Source: www.usgs.gov",
+      "url": "https://www.usgs.gov/media/images/landsat-8-collection-2-image-richat-structure"
+    },
+    {
+      "label": "Source: researchers.mq.edu.au",
+      "url": "https://researchers.mq.edu.au/en/publications/resolving-the-richat-enigma-doming-and-hydrothermal-karstificatio/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Où se trouve l’Œil du Sahara ?",
+      "answer": "La structure de Richat est en Mauritanie, au nord-ouest de l’Afrique. Ses crêtes concentriques s’étendent sur environ 40 kilomètres."
+    },
+    {
+      "question": "Est-ce un cratère de météorite ?",
+      "answer": "L’explication géologique retenue est un dôme soulevé façonné par l’érosion. Sa forme circulaire ne démontre pas un impact."
+    },
+    {
+      "question": "Les anneaux prouvent-ils l’existence de l’Atlantide ?",
+      "answer": "Non. Les sources géologiques citées n’établissent pas une cité perdue. Il faudrait des preuves archéologiques contextualisées."
+    }
+  ]
+}

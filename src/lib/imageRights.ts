@@ -102,6 +102,8 @@ const publishedPresdaCredits = new Set([
 
 export function getImageRights(source: string): ImageRights {
   // User-approved editorial images; no original creator or licence supplied.
+  if (["/articles/milka-2013-chain-of-tenderness-campaign-editorial.webp","/articles/catatumbo-lightning-lake-maracaibo-editorial.webp","/articles/aye-aye-madagascar-primate-editorial.webp","/articles/eye-of-sahara-richat-structure-editorial.webp"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
+  // User-approved editorial images; no original creator or licence supplied.
   if (["/articles/denisovans-ancient-proteins-ai-concept.webp","/articles/electronic-skin-robot-touch-ai-concept.webp","/articles/glass-octopus-vitreledonella-richardi-ai-illustration.webp","/articles/lev-yashin-ballon-dor-1963-ai-editorial.webp","/articles/eternal-flame-falls-natural-gas-ai-illustration.webp"].includes(source)) return { creditText: "AI-generated editorial illustration supplied for PRESDA" };
   // User-approved editorial images; no original creator or licence supplied.
   if (["/articles/infernogallus-fruit-eating-dinosaur-editorial.webp","/articles/leopardus-tilcayo-new-wild-cat-editorial.webp","/articles/cretodorus-noonoo-cretaceous-amber-insect-editorial.webp","/articles/sperm-whales-vertical-sleep-editorial.webp","/articles/carlos-alcaraz-vienna-open-2026-editorial.webp"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };

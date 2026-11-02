@@ -1,0 +1,86 @@
+[
+  {
+    "key": "milka",
+    "slug": "milka-free-chocolate-campaign-2013-chain-of-tenderness",
+    "original": "4-1000088151.jpg",
+    "sourceSha256": "bceb8b7d7647da5f4610cd651161626203720cf5133d91175b2a9ffbf6f69ef3",
+    "sha256": "0b6eb97f9a7b5783568190f79c0823cc04532126063b046505162c7076d88678",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 183780,
+    "image": "/articles/milka-2013-chain-of-tenderness-campaign-editorial.webp",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "catatumbo",
+    "slug": "catatumbo-lightning-lake-maracaibo-recurring-storms",
+    "original": "1-1000088158.jpg",
+    "sourceSha256": "b6ccde1243e27bc7d400475af81693735e0794b8cc48749ad56eb3637cba9188",
+    "sha256": "6d9123b50200915d43212b9b0e59fc324b3e282816250b156f6ee32df7dc6989",
+    "sourceDimensions": [
+      1280,
+      722
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 142202,
+    "image": "/articles/catatumbo-lightning-lake-maracaibo-editorial.webp",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "ayeaye",
+    "slug": "aye-aye-madagascar-primate-tap-foraging",
+    "original": "2-1000088157.jpg",
+    "sourceSha256": "2784c8fff0925dd6006d1bb93c945dbc6221d65de702b554aa4d6c2a0461d905",
+    "sha256": "9128788058e54a71958a714afe0139e18f127d2ac407aaeab2241634970f498b",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 137986,
+    "image": "/articles/aye-aye-madagascar-primate-editorial.webp",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "richat",
+    "slug": "eye-of-sahara-richat-structure-mauritania",
+    "original": "3-1000088156.jpg",
+    "sourceSha256": "bc2ca1ca42317cd9e510d4f33b2b7ff7a8ba30ecfec8322026502fdcc400e354",
+    "sha256": "1a1416ca3072f44f653b50e5b858025111438a452b982187620d8c8335e7987f",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 190464,
+    "image": "/articles/eye-of-sahara-richat-structure-editorial.webp",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/aye-aye-madagascar-primate-tap-foraging/",
+  "path": "/es/articles/aye-aye-madagascar-primate-tap-foraging/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-02",
+    "terminologyChecked": true
+  },
+  "title": "AYE-AYE: EL PRIMATE MÁS EXTRAÑO DE MADAGASCAR",
+  "seoTitle": "Aye-aye: el primate de Madagascar que escucha la madera",
+  "description": "Conoce al aye-aye, un lémur nocturno con dedos especializados, incisivos de crecimiento continuo y una singular forma de buscar comida en la madera.",
+  "excerpt": "Conoce al aye-aye, un lémur nocturno con dedos especializados, incisivos de crecimiento continuo y una singular forma de buscar comida en la madera.",
+  "headlineHighlights": {
+    "red": "AYE-AYE",
+    "gold": "MADAGASCAR"
+  },
+  "keywords": [
+    "AYE-AYE",
+    "MADAGASCAR"
+  ],
+  "searchIntent": "Conoce al aye-aye, un lémur nocturno con dedos especializados, incisivos de crecimiento continuo y una singular forma de buscar comida en la madera.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-02",
+  "updatedAt": "2026-11-02",
+  "image": {
+    "src": "/articles/aye-aye-madagascar-primate-editorial.webp",
+    "alt": "Representación editorial de un aye-aye de grandes orejas y ojos ámbar sujetando hojas; fotógrafo y lugar de captura desconocidos."
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El aye-aye parece reunir varios animales: orejas grandes, ojos brillantes, incisivos prominentes y un dedo medio extraordinariamente fino. Sin embargo, Daubentonia madagascariensis no es un error evolutivo. Es un lémur y, por tanto, un primate originario de Madagascar. Llamarlo el más extraño invita a observarlo, no establece una clasificación científica de rareza."
+    },
+    {
+      "type": "heading",
+      "text": "Una vida nocturna entre los árboles"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Duke Lemur Center lo describe como un buscador nocturno de alimento presente en bosques del este y oeste de Madagascar. Su aspecto tiene más sentido en ese entorno que en un retrato iluminado. Orejas móviles y manos especializadas forman un sistema para obtener información y extraer comida en la oscuridad. Que sus incisivos recuerden a los de un roedor no lo convierte en uno. [Fuente: lemur.duke.edu](https://lemur.duke.edu/discover/meet-the-lemurs/aye-aye/)"
+    },
+    {
+      "type": "heading",
+      "text": "Golpear, escuchar, abrir y extraer"
+    },
+    {
+      "type": "paragraph",
+      "text": "La secuencia alimentaria muestra una anatomía que funciona como un juego de herramientas. El aye-aye golpea la madera y escucha diferencias asociadas a espacios interiores. Los incisivos abren el acceso y el dedo medio largo y flexible explora y extrae larvas. El American Museum of Natural History también menciona su uso para sacar pulpa de coco. Es alimentación especializada, no un poder sobrenatural para ver a través de los árboles. [Fuente: www.amnh.org](https://www.amnh.org/explore/ology/ology-cards/131-aye-aye)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se conoce como búsqueda de alimento por percusión. Un recurso oculto a la vista puede dejar información detectable. El aye-aye combina varias acciones en lugar de depender de un dedo mágico. Una fotografía muestra un dedo fino; demostrar su uso requiere una secuencia de comportamiento documentada."
+    },
+    {
+      "type": "heading",
+      "text": "La estructura adicional de su mano"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estudio anatómico publicado en línea en 2019, antes de su número de revista de 2020, describió un seudopulgar. Mediante disección e imagen de siete individuos halló un sesamoideo de la muñeca ampliado, cartílago, inserciones musculares y una almohadilla palmar propia. Los autores proponen que compensa unos dedos especializados en tareas distintas del agarre. Es un hallazgo anatómico con interpretación funcional, no un segundo pulgar ordinario. [Fuente: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/31633197/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un animal singular bajo presiones conocidas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Lemur Conservation Foundation lo clasifica En Peligro citando la evaluación de la UICN de 2020. La pérdida de bosques y la persecución importan más para su futuro que nuestro gusto por su aspecto. Existen creencias negativas en algunas comunidades, pero no deben atribuirse a toda Madagascar. La conservación necesita conocimiento y relaciones locales, además de proteger su hábitat. [Fuente: www.lemurreserve.org](https://www.lemurreserve.org/lemurs/aye-aye-2/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La imagen es una representación editorial sin fotógrafo, fecha ni lugar de captura facilitados. No identifica una población concreta ni demuestra un episodio alimentario observado. La historia más rica está detrás del retrato: un animal cuyos rasgos aparentemente extraños cobran sentido al preguntar para qué sirven."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [Cómo se identifica una especie de felino silvestre](/articles/leopardus-tilcayo-new-wild-cat-species/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: lemur.duke.edu",
+      "url": "https://lemur.duke.edu/discover/meet-the-lemurs/aye-aye/"
+    },
+    {
+      "label": "Fuente: www.amnh.org",
+      "url": "https://www.amnh.org/explore/ology/ology-cards/131-aye-aye"
+    },
+    {
+      "label": "Fuente: pubmed.ncbi.nlm.nih.gov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31633197/"
+    },
+    {
+      "label": "Fuente: www.lemurreserve.org",
+      "url": "https://www.lemurreserve.org/lemurs/aye-aye-2/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Es un roedor o un primate?",
+      "answer": "Es un lémur y, por tanto, un primate. Sus incisivos parecidos a los de un roedor no cambian su clasificación."
+    },
+    {
+      "question": "¿Para qué sirve el dedo medio largo?",
+      "answer": "Participa en la búsqueda por percusión y extrae larvas de aberturas, junto con la audición y los incisivos."
+    },
+    {
+      "question": "¿Qué es el seudopulgar?",
+      "answer": "Una estructura asociada a la muñeca con hueso, cartílago y almohadilla, descrita en línea en 2019. No es un segundo pulgar ordinario."
+    }
+  ]
+}
