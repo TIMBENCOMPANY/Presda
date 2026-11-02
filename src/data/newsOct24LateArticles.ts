@@ -80,12 +80,12 @@ export const newsOct24LateArticles: Article[] = [
     "slug": "dexter-resurrection-season-2-october-30-2026",
     "title": "Dexter: Resurrection Season 2 Returns October 30",
     "seoTitle": "Dexter: Resurrection Season 2: October 30, 2026 Premiere",
-    "metaDescription": "Paramount+ confirms Dexter: Resurrection Season 2 for October 30, 2026. Michael C. Hall, new cast, official trailer and franchise context without major spoilers.",
-    "excerpt": "Paramount+ confirms Dexter: Resurrection Season 2 for October 30, 2026. Michael C. Hall, new cast, official trailer and franchise context without major spoilers.",
+    "metaDescription": "Dexter: Resurrection Season 2 began streaming October 30, 2026. Check the confirmed cast, weekly Friday episodes and regional Paramount+ viewing caveats.",
+    "excerpt": "Dexter: Resurrection Season 2 began streaming October 30, 2026. Check the confirmed cast, weekly Friday episodes and regional Paramount+ viewing caveats.",
     "category": "Paparazzi",
     "schemaType": "NewsArticle",
     "date": "2026-10-24",
-    "lastUpdated": "2026-10-24",
+    "lastUpdated": "2026-11-02",
     "author": "PRESDA Editorial",
     "status": "published",
     "readingTime": "7 min read",
@@ -102,10 +102,10 @@ export const newsOct24LateArticles: Article[] = [
       "Television"
     ],
     "content": [
-      "Dexter Morgan has always depended on the distance between what people see and what he knows about himself. His latest return adds another complication: an audience that has followed him for two decades and knows how dangerous a fresh start can be. Dexter: Resurrection Season 2 premieres Friday, October 30, 2026, Paramount+ confirms, with Michael C. Hall returning and Brian Cox and Dan Stevens joining the cast. [Paramount+'s official release guide](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/).",
-      "As of October 24, this is a preview of an announced season, not a review of episodes already released. The confirmed date, casting and promotional material provide plenty to discuss without revealing the first season's decisive turns or inventing a verdict about the new one. The attraction is familiar, but the creative test is fresh: can another chapter make Dexter's choices matter rather than merely keep him moving?",
+      "Dexter Morgan has always depended on the distance between what people see and what he knows about himself. His latest return adds another complication: an audience that has followed him for two decades and knows how dangerous a fresh start can be. Dexter: Resurrection Season 2 began streaming on Friday, October 30, 2026, Paramount+ confirms, with Michael C. Hall returning and Brian Cox and Dan Stevens joining the cast. [Paramount+'s official release guide](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/).",
+      "This article was first published on October 24 as a preview, not an episode review. The release information was checked again on November 2 against Paramount+'s updated guide. Its confirmed date, cast and weekly release schedule are reported here without offering a critical verdict on episodes.",
       "## October 30 is confirmed, with a regional viewing caveat",
-      "Paramount+'s October 9 guide specifies its Premium plan for the premiere and says all ten episodes of Resurrection's first season are available there. That subscription information describes the service's published offering, not a promise that identical plans, catalogues and release times apply in every country. Viewers should check their local Paramount+ or authorized distributor listing before subscribing. A confirmed premiere date also should not be confused with confirmation that an entire season arrives at once. [Official viewing information](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/).",
+      "Paramount+'s October 30 guide says Season 2 is streaming on its Premium plan, with new episodes on Fridays, and all ten episodes of the first season available there. That subscription information describes the service's published offering, not a promise that identical plans, catalogues and release times apply in every country. Viewers should check their local Paramount+ or authorized distributor listing before subscribing. A confirmed premiere date also should not be confused with confirmation that an entire season arrives at once. [Official viewing information](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/).",
       "The practical distinction matters in a franchise that travels across markets. An international reader looking for the next episode needs a local release listing, not a currency-converted subscription price from another country. This article therefore does not manufacture a universal launch hour or a global price. October 30 is the verified Paramount+ announcement; local availability remains something to check in the territory where the viewer will watch.",
       "## Michael C. Hall and the returning ensemble",
       "Hall again plays Dexter Morgan and remains an executive producer. Returning performers include Uma Thurman as Charley, Jack Alcott as Harrison Morgan, James Remar as Harry Morgan, Ntare Guma Mbaho Mwine as Blessing Kamara, Kadia Saraf as Detective Claudette Wallace, Dominic Fumusa as Detective Melvin Oliva and Desmond Harrington as Joey Quinn. Paramount also identifies returning guest actors Krysten Ritter and Eric Stonestreet. [The studio's season-two cast guide](https://www.paramountplus.com/sneak-peak/dexter-resurrection-cast-season-2/).",
@@ -158,7 +158,20 @@ export const newsOct24LateArticles: Article[] = [
     "relatedSlugs": [
       "omar-sy-lupin-part-4-netflix-2026"
     ],
-    "faq": [],
+    "faq": [
+  {
+    "question": "When did Dexter: Resurrection Season 2 premiere?",
+    "answer": "Paramount+ confirms that Season 2 began streaming on October 30, 2026."
+  },
+  {
+    "question": "Where can I watch Season 2?",
+    "answer": "Paramount+'s guide, checked on November 2, identifies its Premium plan. Plans, catalogues and release timing can differ by territory, so check the authorized local listing."
+  },
+  {
+    "question": "Are all Season 2 episodes released together?",
+    "answer": "Paramount+'s updated guide says new episodes are released weekly on Fridays, rather than the entire season arriving at once."
+  }
+],
     "homepageImagePosition": "50% 44%"
   },
   {

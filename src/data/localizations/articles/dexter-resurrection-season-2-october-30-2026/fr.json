@@ -11,8 +11,8 @@
   },
   "title": "Dexter: Resurrection revient le 30 octobre pour sa saison 2",
   "seoTitle": "Dexter: Resurrection saison 2 : retour le 30 octobre 2026",
-  "description": "Date confirmée par Paramount+, Michael C. Hall, Brian Cox, Dan Stevens et bande-annonce : préparer la saison 2 de Dexter sans révélations majeures.",
-  "excerpt": "Date confirmée par Paramount+, Michael C. Hall, Brian Cox, Dan Stevens et bande-annonce : préparer la saison 2 de Dexter sans révélations majeures.",
+  "description": "La saison 2 de Dexter: Resurrection est diffusée depuis le 30 octobre 2026. Distribution, épisodes chaque vendredi et accès régional à Paramount+.",
+  "excerpt": "La saison 2 de Dexter: Resurrection est diffusée depuis le 30 octobre 2026. Distribution, épisodes chaque vendredi et accès régional à Paramount+.",
   "headlineHighlights": {
     "red": "Dexter: Resurrection",
     "gold": "30 octobre"
@@ -25,7 +25,7 @@
   "category": "Paparazzi",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-10-24",
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-11-02",
   "image": {
     "src": "/articles/news-oct24-late-dexter-hero.png",
     "alt": "Portrait inspiré de Dexter, généré par IA devant un Miami imaginaire"
@@ -33,11 +33,11 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "Dexter Morgan a toujours vécu dans l'écart entre ce que les autres voient et ce qu'il sait de lui-même. Son retour ajoute une difficulté : un public qui le suit depuis deux décennies et sait combien un nouveau départ peut être dangereux. Paramount+ confirme que la saison 2 de Dexter: Resurrection débutera le vendredi 30 octobre 2026, avec Michael C. Hall, rejoint par Brian Cox et Dan Stevens. [Source: www.paramountplus.com](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/)"
+      "text": "Dexter Morgan a toujours vécu dans l'écart entre ce que les autres voient et ce qu'il sait de lui-même. Son retour ajoute une difficulté : un public qui le suit depuis deux décennies et sait combien un nouveau départ peut être dangereux. Paramount+ confirme que la saison 2 de Dexter: Resurrection est diffusée depuis le vendredi 30 octobre 2026, avec Michael C. Hall, rejoint par Brian Cox et Dan Stevens. [Source: www.paramountplus.com](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/)"
     },
     {
       "type": "paragraph",
-      "text": "Au 24 octobre, cet article présente une saison annoncée, sans prétendre juger des épisodes déjà diffusés. La date, la distribution et les documents promotionnels confirmés offrent suffisamment de matière sans dévoiler les tournants décisifs de la première saison. L'attrait est familier, mais le défi reste entier : ce nouveau chapitre donnera-t-il du poids aux choix de Dexter, au-delà de la nécessité de prolonger son parcours ?"
+      "text": "Cet article a été publié le 24 octobre comme présentation, et non comme critique d’épisodes. Les informations de diffusion ont été revérifiées le 2 novembre dans le guide actualisé de Paramount+. La date, la distribution et le rythme hebdomadaire confirmés sont rapportés ici sans jugement critique sur les épisodes."
     },
     {
       "type": "heading",
@@ -45,7 +45,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Le guide publié par Paramount+ le 9 octobre précise que la première sera accessible avec son offre Premium et que les dix épisodes de la première saison de Resurrection y sont disponibles. Ces informations décrivent l'offre présentée par le service, sans garantir des abonnements, catalogues ou horaires identiques dans tous les pays. Il faut consulter Paramount+ ou le distributeur autorisé dans son territoire avant de s'abonner. Une date de première ne signifie pas non plus que toute la saison sera proposée simultanément. [Source: www.paramountplus.com](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/)"
+      "text": "Le guide Paramount+ du 30 octobre indique que la saison 2 est disponible avec l’offre Premium, avec de nouveaux épisodes le vendredi, et que les dix épisodes de la première saison y sont accessibles. Ces informations décrivent l'offre présentée par le service, sans garantir des abonnements, catalogues ou horaires identiques dans tous les pays. Il faut consulter Paramount+ ou le distributeur autorisé dans son territoire avant de s'abonner. Une date de première ne signifie pas non plus que toute la saison sera proposée simultanément. [Source: www.paramountplus.com](https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/)"
     },
     {
       "type": "paragraph",
@@ -162,5 +162,18 @@
       "url": "https://www.paramountplus.com/sneak-peak/dexter-20th-anniversary/"
     }
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Quand la saison 2 de Dexter: Resurrection a-t-elle débuté ?",
+      "answer": "Paramount+ confirme que la diffusion de la saison 2 a commencé le 30 octobre 2026."
+    },
+    {
+      "question": "Où regarder la saison 2 ?",
+      "answer": "Le guide Paramount+ consulté le 2 novembre indique l’offre Premium. Les formules, catalogues et horaires peuvent varier selon le territoire ; vérifiez l’offre locale autorisée."
+    },
+    {
+      "question": "Tous les épisodes de la saison 2 sont-ils diffusés ensemble ?",
+      "answer": "Le guide actualisé de Paramount+ annonce de nouveaux épisodes chaque vendredi, et non toute la saison en une seule fois."
+    }
+  ]
 }

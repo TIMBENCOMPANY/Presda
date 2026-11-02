@@ -25,7 +25,7 @@
   "category": "Lifestyle",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-10-26",
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-02",
   "image": {
     "src": "/articles/halloween-jack-o-lanterns-townhouse-editorial.webp",
     "alt": "Illustration IA de citrouilles et de bougies d'Halloween devant une maison"
@@ -33,11 +33,11 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "Une citrouille éclairée transforme un geste domestique en petite scène de théâtre : le seuil devient décor et la personne qui ouvre accepte d'entrer dans l'histoire d'un inconnu. Ce mélange d'hospitalité et d'inquiétude contribue à la longévité d'Halloween. Le samedi 31 octobre 2026, costumes et friandises reviendront avec des traces de rassemblements saisonniers, de commémorations chrétiennes et de traditions migrantes, mais aussi avec les inventions du divertissement moderne."
+      "text": "Une citrouille éclairée transforme un geste domestique en petite scène de théâtre : le seuil devient décor et la personne qui ouvre accepte d'entrer dans l'histoire d'un inconnu. Ce mélange d'hospitalité et d'inquiétude contribue à la longévité d'Halloween. En 2026, Halloween tombait le samedi 31 octobre. Costumes et friandises reviennent avec des traces de rassemblements saisonniers, de commémorations chrétiennes et de traditions migrantes, mais aussi avec les inventions du divertissement moderne."
     },
     {
       "type": "paragraph",
-      "text": "Halloween n'a ni inventeur unique ni acte de naissance bien net. Son nom vient d'All Hallows' Eve, la veille de la Toussaint, célébrée le 1er novembre. Ses usages se sont développés au croisement de plusieurs histoires. Les reconnaître rend la fête plus intéressante que deux explications commodes : un rite antique resté intact ou une invention des fabricants de bonbons. [Source: blogs.loc.gov](https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/)"
+      "text": "Halloween n'a ni inventeur unique ni acte de naissance bien net. Son nom vient d'All Hallows' Eve, la veille de la Toussaint, célébrée le 1er novembre. Ses usages se sont développés au croisement de plusieurs histoires. Les reconnaître rend la fête plus intéressante que deux explications commodes : un rite antique resté intact ou une invention des fabricants de bonbons. [Source: blogs.loc.gov](https://blogs.loc.gov/headlinesandheroes/2026/10/halloween-traditions-to-follow-tricks-and-treats-of-the-season/)"
     },
     {
       "type": "heading",
@@ -93,7 +93,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Les visites déguisées ont plusieurs parentes historiques. Le guising pouvait demander de chanter, réciter ou jouer ; le souling s'inscrivait dans la commémoration chrétienne des morts. La Library of Congress présente plusieurs influences possibles sur le trick-or-treating américain. Cette pluralité invite à se méfier des explications qui font dériver chaque détail actuel d'une seule pratique ancienne."
+      "text": "Les visites costumées ont plusieurs parentés historiques. Le Musée national d’Irlande documente des visiteurs déguisés qui divertissaient leurs voisins, tandis que le dossier de 2026 de la Bibliothèque du Congrès présente des récits de journaux américains sur les costumes, les farces et les friandises. Ces archives montrent des pratiques qui évoluent selon les communautés et les époques, plutôt qu’une origine unique de l’échange moderne. [Bibliothèque du Congrès : Halloween dans les journaux historiques](https://blogs.loc.gov/headlinesandheroes/2026/10/halloween-traditions-to-follow-tricks-and-treats-of-the-season/)"
     },
     {
       "type": "paragraph",
@@ -151,7 +151,7 @@
   "sources": [
     {
       "label": "Source: blogs.loc.gov",
-      "url": "https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/"
+      "url": "https://blogs.loc.gov/headlinesandheroes/2026/10/halloween-traditions-to-follow-tricks-and-treats-of-the-season/"
     },
     {
       "label": "Source: source.museum.ie",
@@ -166,5 +166,18 @@
       "url": "https://www.ireland.ie/en/visit/halloween/bairin-breac-a-traditional-irish-halloween-recipe/"
     }
   ],
-  "faq": []
+  "faq": [
+    {
+      "question": "Quand avait lieu Halloween en 2026 ?",
+      "answer": "Halloween tombait le samedi 31 octobre 2026. La fête est célébrée le 31 octobre chaque année."
+    },
+    {
+      "question": "Quel est le lien entre Samhain et Halloween ?",
+      "answer": "Les traditions irlandaises de Samhain marquaient le début de l’hiver, les célébrations se déroulant surtout la veille au soir. Halloween porte aussi des influences du calendrier chrétien et des adaptations ultérieures."
+    },
+    {
+      "question": "Pourquoi utilisait-on des navets pour les lanternes d’Halloween ?",
+      "answer": "Les lanternes en navet sculpté appartiennent aux traditions irlandaises d’Halloween. Le Musée national d’Irlande conserve un modèle réalisé à partir d’une lanterne reçue du comté de Donegal en 1943."
+    }
+  ]
 }

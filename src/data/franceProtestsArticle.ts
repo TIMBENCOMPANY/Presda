@@ -5,12 +5,12 @@ export const franceProtestsArticle: Article = {
   "slug": "france-student-protests-macron-october-2026",
   "title": "FRANCE’S STUDENT PROTESTS PUT MACRON’S GOVERNMENT UNDER PRESSURE",
   "seoTitle": "France Student Protests: October 2026 Facts and Macron’s Response",
-  "metaDescription": "Why France’s students are protesting: teacher shortages, verified turnout, police investigations and government concessions, with a sourced October 2026 timeline.",
+  "metaDescription": "France’s October 2026 student protests: teacher shortages, reported turnout, police investigations and government concessions, with a sourced timeline.",
   "excerpt": "Why France’s students are protesting: teacher shortages, verified turnout, police investigations and government concessions, with a sourced October 2026 timeline.",
   "category": "World",
   "schemaType": "NewsArticle",
   "date": "2026-10-10",
-  "lastUpdated": "2026-10-10",
+  "lastUpdated": "2026-11-02",
   "author": "PRESDA Editorial",
   "status": "published",
   "readingTime": "8 min read",
@@ -68,27 +68,27 @@ export const franceProtestsArticle: Article = {
     "For longer historical context, read PRESDA’s [history of France and its republics](/articles/france-history-kings-revolution-empire-republic/). Readers considering study and employment pathways can also consult our [official work-abroad resources](/articles/work-abroad-2026-official-immigration-jobs/). Neither background guide replaces current school notices, government announcements or verified protest reporting."
   ],
   "faq": [
-    {
-      "question": "Why are students protesting in France?",
-      "answer": "The movement centers on missing teachers and lessons, school conditions, long days and unequal opportunities. Policing has become an additional grievance."
-    },
-    {
-      "question": "How many people demonstrated on October 6?",
-      "answer": "AFP reported 256,000 nationwide according to the Interior Ministry. The CGT claimed more than 450,000. These competing estimates must not be added."
-    },
-    {
-      "question": "Has the government recruited 3,000 new teachers?",
-      "answer": "It announced assignments for roughly 3,000 existing qualified teachers not yet teaching. This is not evidence of 3,000 completed new recruitments."
-    },
-    {
-      "question": "Are police violence allegations proven?",
-      "answer": "The IGPN has opened investigations. Their existence does not establish guilt in every case; individual findings remain subject to investigation and the courts."
-    },
-    {
-      "question": "When is the next announced mobilization?",
-      "answer": "SNES-FSU has called a strike for October 13, 2026. It remains a planned event, with turnout and consequences unknown."
-    }
-  ],
+  {
+    "question": "Why are students protesting in France?",
+    "answer": "The movement centers on missing teachers and lessons, school conditions, long days and unequal opportunities. Policing has become an additional grievance."
+  },
+  {
+    "question": "How many people demonstrated on October 6?",
+    "answer": "AFP reported 256,000 nationwide according to the Interior Ministry. The CGT claimed more than 450,000. These competing estimates must not be added."
+  },
+  {
+    "question": "Has the government recruited 3,000 new teachers?",
+    "answer": "It announced assignments for roughly 3,000 existing qualified teachers not yet teaching. This is not evidence of 3,000 completed new recruitments."
+  },
+  {
+    "question": "Are police violence allegations proven?",
+    "answer": "The IGPN has opened investigations. Their existence does not establish guilt in every case; individual findings remain subject to investigation and the courts."
+  },
+  {
+    "question": "Which strike had been announced at this report’s cutoff?",
+    "answer": "SNES-FSU had called a strike for October 13, 2026. This article’s October 10 reporting cutoff preceded that date and does not establish subsequent turnout or outcomes."
+  }
+],
   "references": [
     {
       "name": "Élysée: Macron’s September 30 remarks in Spain",

@@ -10,7 +10,7 @@ export const cultureOct26Articles: Article[] = [
     "category": "Lifestyle",
     "schemaType": "Article",
     "date": "2026-10-26",
-    "lastUpdated": "2026-10-26",
+    "lastUpdated": "2026-11-02",
     "author": "PRESDA Editorial",
     "status": "published",
     "readingTime": "7 min read",
@@ -27,8 +27,8 @@ export const cultureOct26Articles: Article[] = [
       "October 31"
     ],
     "content": [
-      "A pumpkin lantern is a small domestic transformation: an ordinary doorstep becomes a stage, and the person who answers the door agrees to enter a stranger's story. That mixture of hospitality and unease helps explain Halloween's durability. On Saturday, October 31, 2026, the familiar costumes and sweets will return, carrying traces of older seasonal gatherings, Christian commemorations and migrant traditions, as well as the inventions of modern entertainment.",
-      "Halloween has no single inventor and no tidy moment of creation. Its name comes from All Hallows' Eve, the evening before All Saints' Day on November 1. Its customs developed through overlapping histories. Recognizing those layers makes the festival more interesting than either of the two convenient extremes: an ancient ceremony preserved intact or a holiday invented by candy companies. [Library of Congress: Halloween traditions](https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/)",
+      "A pumpkin lantern is a small domestic transformation: an ordinary doorstep becomes a stage, and the person who answers the door agrees to enter a stranger's story. That mixture of hospitality and unease helps explain Halloween's durability. Halloween fell on Saturday, October 31, in 2026. The familiar costumes and sweets carry traces of older seasonal gatherings, Christian commemorations and migrant traditions, as well as the inventions of modern entertainment.",
+      "Halloween has no single inventor and no tidy moment of creation. Its name comes from All Hallows' Eve, the evening before All Saints' Day on November 1. Its customs developed through overlapping histories. Recognizing those layers makes the festival more interesting than either of the two convenient extremes: an ancient ceremony preserved intact or a holiday invented by candy companies. [Library of Congress: Halloween traditions](https://blogs.loc.gov/headlinesandheroes/2026/10/halloween-traditions-to-follow-tricks-and-treats-of-the-season/)",
       "## Samhain and the turning of the year",
       "In Irish tradition, Samhain marked the beginning of winter. The seasonal threshold mattered in communities whose work, food supplies and social calendar followed the agricultural year. Stories associated this time with encounters between the everyday world and supernatural beings. The National Museum of Ireland's folklife collections describe Halloween customs involving gatherings, special food, games and predictions about the future. These records are valuable evidence of lived traditions, rather than proof that every modern Halloween practice existed in antiquity. [National Museum of Ireland: Samhain customs](https://source.museum.ie/en-IE/Collections-Research/Folklife-Collections/Folklife-Collections-List-%281%29/Religion-and-Calendar-Customs/Hallowe-en-Samhain)",
       "The distinction matters. A nineteenth- or twentieth-century account can show what a family remembered or a community practiced; it cannot automatically reconstruct a prehistoric ritual. Samhain supplies an important Gaelic context, but reducing Halloween to a universal ancient Celtic religion blurs differences across places and centuries. Modern celebrations also belong to people with no religious connection to Samhain.",
@@ -42,7 +42,7 @@ export const cultureOct26Articles: Article[] = [
       "Halloween's older repertoire was not exclusively about frightening children. It also made room for curiosity about marriage, luck and the coming year. Irish barmbrack, a fruit loaf associated with the festival, could conceal objects interpreted as signs of the recipient's future. The ring remains a familiar example. Ireland's official cultural resources present the practice as a form of festive fortune-telling, not a method of prediction. [Ireland.ie: barmbrack tradition](https://www.ireland.ie/en/visit/halloween/bairin-breac-a-traditional-irish-halloween-recipe/)",
       "Such games turn private hopes into shared conversation. A slice of bread becomes an excuse to discuss who might marry, travel or prosper, without the seriousness of a direct question. That social function is easy to miss when Halloween history is told only through ghosts. Anyone recreating the tradition should make hidden objects explicit to guests and keep small objects away from young children; the historical custom need not dictate an unsafe modern meal.",
       "## How visiting houses became trick-or-treating",
-      "Costumed visiting has several historical relatives, including guising, in which a visitor might sing, recite or perform, and souling associated with Christian remembrance. The Library of Congress identifies multiple proposed influences on American trick-or-treating. Its account is a useful corrective to confident claims that one old practice explains every detail of the modern exchange.",
+      "Costumed visiting has several historical relatives. The National Museum of Ireland documents disguised visitors who entertained neighbors, while the Library of Congress's 2026 archival feature shows American newspaper accounts of costumes, pranks and treats. These records reveal practices changing across communities and periods, rather than one simple origin for the modern exchange. [Library of Congress: Halloween traditions in historic newspapers](https://blogs.loc.gov/headlinesandheroes/2026/10/halloween-traditions-to-follow-tricks-and-treats-of-the-season/)",
       "The contemporary formula is remarkably efficient. A costume introduces a character, a short phrase announces the visit, and a small gift completes the encounter. Neighborhood familiarity is part of the mechanism: adults recognize a shared occasion and children briefly gain permission to approach doors they would ordinarily pass. The ritual can be playful even when nobody seriously fears the threatened trick.",
       "## North America and the commercial expansion",
       "Trick-or-treating grew in popularity in the United States during the mid-twentieth century. Individually wrapped sweets suited household distribution, while commercial costumes and decorations made participation easier to reproduce. Retail did not create the entire holiday, but it helped standardize its objects and extend the selling season. The same doorway could now be decorated with products recognizable far beyond one town.",
@@ -58,28 +58,41 @@ export const cultureOct26Articles: Article[] = [
       "Looking beyond the costume also changes how we read other celebrations. [Diwali's lamps](/articles/diwali-india-festival-lights-traditions/) carry distinct religious and family meanings, just as Halloween's lanterns belong to their own histories. Light, food and gathering recur across cultures; understanding what communities do with them is more revealing than assuming they all tell the same story."
     ],
     "references": [
-      {
-        "name": "Library of Congress: Halloween traditions",
-        "url": "https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/"
-      },
-      {
-        "name": "National Museum of Ireland: Samhain customs",
-        "url": "https://source.museum.ie/en-IE/Collections-Research/Folklife-Collections/Folklife-Collections-List-%281%29/Religion-and-Calendar-Customs/Hallowe-en-Samhain"
-      },
-      {
-        "name": "National Museum of Ireland: ghost turnip",
-        "url": "https://source.museum.ie/en-IE/Collections-Research/Collection/Top-things-to-see-in-the-Irish-Folklife-Collection/Artefact/Ghost-turnip/b202e8ea-0728-4b3d-b0f1-82660fe45ce9"
-      },
-      {
-        "name": "Ireland.ie: barmbrack tradition",
-        "url": "https://www.ireland.ie/en/visit/halloween/bairin-breac-a-traditional-irish-halloween-recipe/"
-      }
-    ],
+  {
+    "name": "Library of Congress: Halloween traditions in historic newspapers, October 27, 2026",
+    "url": "https://blogs.loc.gov/headlinesandheroes/2026/10/halloween-traditions-to-follow-tricks-and-treats-of-the-season/"
+  },
+  {
+    "name": "National Museum of Ireland: Samhain customs",
+    "url": "https://source.museum.ie/en-IE/Collections-Research/Folklife-Collections/Folklife-Collections-List-%281%29/Religion-and-Calendar-Customs/Hallowe-en-Samhain"
+  },
+  {
+    "name": "National Museum of Ireland: ghost turnip",
+    "url": "https://source.museum.ie/en-IE/Collections-Research/Collection/Top-things-to-see-in-the-Irish-Folklife-Collection/Artefact/Ghost-turnip/b202e8ea-0728-4b3d-b0f1-82660fe45ce9"
+  },
+  {
+    "name": "Ireland.ie: barmbrack tradition",
+    "url": "https://www.ireland.ie/en/visit/halloween/bairin-breac-a-traditional-irish-halloween-recipe/"
+  }
+],
     "relatedSlugs": [
       "day-of-the-dead-mexico-life-death-traditions",
       "diwali-india-festival-lights-traditions"
     ],
-    "faq": [],
+    "faq": [
+  {
+    "question": "When was Halloween in 2026?",
+    "answer": "Halloween fell on Saturday, October 31, 2026. It is observed on October 31 each year."
+  },
+  {
+    "question": "How is Samhain connected with Halloween?",
+    "answer": "Irish Samhain traditions marked the beginning of winter, with much of the celebration on the preceding evening. Halloween also carries Christian calendar influences and later adaptations."
+  },
+  {
+    "question": "Why were turnips used for Halloween lanterns?",
+    "answer": "Carved turnip lanterns were an Irish Halloween tradition. The National Museum of Ireland preserves a model based on a lantern received from County Donegal in 1943."
+  }
+],
     "homepageImagePosition": "50% 50%"
   },
   {

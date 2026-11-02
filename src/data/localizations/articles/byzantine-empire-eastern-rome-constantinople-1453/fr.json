@@ -28,7 +28,7 @@
   "category": "History",
   "author": "PRESDA Editorial",
   "publishedAt": "2026-09-16",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-11-02",
   "image": {
     "src": "/images/articles/byzantine-empire-eastern-rome-constantinople-1453.webp",
     "alt": "Reconstitution historique éditoriale d’un empereur byzantin dominant Constantinople ; le panorama imaginé mêle monuments byzantins et minarets ottomans ultérieurs"
@@ -667,16 +667,16 @@
   ],
   "faq": [
     {
-      "question": "De quoi parle cet article de PRESDA ?",
-      "answer": "Rome ne disparut pas en 476. Depuis Constantinople, son empire oriental traversa conquêtes, foi, catastrophes et transformations, jusqu’au siège final qui ouvrit une nouvelle ère impériale."
+      "question": "Qu’était l’Empire byzantin ?",
+      "answer": "L’Empire byzantin était la continuation orientale de l’Empire romain, gouvernée depuis Constantinople. Ses habitants se considéraient comme Romains ; byzantin est une appellation historique postérieure."
     },
     {
-      "question": "À quelle rubrique appartient cet article ?",
-      "answer": "Cet article fait partie de la rubrique Histoire de PRESDA."
+      "question": "Quelle était la capitale de l’Empire byzantin ?",
+      "answer": "Constantinople, aujourd’hui Istanbul, était la capitale impériale. Ses murailles, ses voies d’eau et sa position stratégique l’ont aidée à résister à de nombreux sièges."
     },
     {
-      "question": "Qui a publié cet article ?",
-      "answer": "L’article « L’Empire byzantin : Rome survécut encore 1 000 ans » a été publié sur PRESDA par PRESDA Editorial."
+      "question": "Quand l’Empire byzantin a-t-il pris fin ?",
+      "answer": "La conquête ottomane de Constantinople en 1453 mit fin au pouvoir impérial dans la capitale. D’autres territoires héritiers de Byzance eurent leurs propres histoires ultérieures."
     }
   ]
 }
