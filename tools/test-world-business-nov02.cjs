@@ -37,7 +37,7 @@ try{
    const rect=s=>{const r=document.querySelector(s).getBoundingClientRect();return{x:r.x,y:r.y,width:r.width,height:r.height,bottom:r.bottom,right:r.right}};
    const i=document.querySelector('.article-hero-image'),style=getComputedStyle(i);
    const titleStyle=getComputedStyle(document.querySelector('h1'));
-   return{hero:rect('.article-hero'),media:rect('.article-hero-media'),image:rect('.article-hero-image'),title:rect('h1'),deck:rect('.article-hero-deck'),date:rect('.article-hero-publication-date'),meta:rect('.article-hero-heading > div:last-child'),sourceDimensions:[Number(i.getAttribute('width')),Number(i.getAttribute('height'))],fontFamily:titleStyle.fontFamily,fontWeight:titleStyle.fontWeight,natural:[i.naturalWidth,i.naturalHeight],fit:style.objectFit,transform:style.transform,lang:document.documentElement.lang,dir:document.documentElement.dir,overflow:document.documentElement.scrollWidth>innerWidth,canonical:document.querySelector('link[rel=canonical]').href,alternates:[...document.querySelectorAll('link[rel=alternate][hreflang]')].map(x=>[x.hreflang,x.href]),schema:[...document.querySelectorAll('script[type="application/ld+json"]')].flatMap(s=>{const v=JSON.parse(s.textContent);return v['@graph']||[v]}),og:document.querySelector('meta[property="og:image"]').content,twitter:document.querySelector('meta[name="twitter:image"]').content,description:document.querySelector('meta[name=description]').content,alt:i.alt,src:i.currentSrc,robots:document.querySelector('meta[name=robots]')?.content||''};
+   return{category:rect('.article-hero-content > div:first-child'),hero:rect('.article-hero'),media:rect('.article-hero-media'),image:rect('.article-hero-image'),title:rect('h1'),deck:rect('.article-hero-deck'),date:rect('.article-hero-publication-date'),meta:rect('.article-hero-heading > div:last-child'),sourceDimensions:[Number(i.getAttribute('width')),Number(i.getAttribute('height'))],fontFamily:titleStyle.fontFamily,fontWeight:titleStyle.fontWeight,natural:[i.naturalWidth,i.naturalHeight],fit:style.objectFit,transform:style.transform,lang:document.documentElement.lang,dir:document.documentElement.dir,overflow:document.documentElement.scrollWidth>innerWidth,canonical:document.querySelector('link[rel=canonical]').href,alternates:[...document.querySelectorAll('link[rel=alternate][hreflang]')].map(x=>[x.hreflang,x.href]),schema:[...document.querySelectorAll('script[type="application/ld+json"]')].flatMap(s=>{const v=JSON.parse(s.textContent);return v['@graph']||[v]}),og:document.querySelector('meta[property="og:image"]').content,twitter:document.querySelector('meta[name="twitter:image"]').content,description:document.querySelector('meta[name=description]').content,alt:i.alt,src:i.currentSrc,robots:document.querySelector('meta[name=robots]')?.content||''};
   });
   const ed=l==='en'?a:JSON.parse(fs.readFileSync(`src/data/localizations/articles/${a.slug}/${l}.json`));
   assert.equal(d.lang,l);if(l==='ar')assert.equal(d.dir,'rtl');assert(!d.overflow);assert.equal(d.canonical,canonical);assert(!/noindex|nofollow/.test(d.robots));assert(d.robots.includes('max-image-preview:large'));
@@ -49,14 +49,22 @@ try{
   const faqs=ed.faq||a.faq;for(const f of faqs){assert(await page.getByText(f.question,{exact:true}).count());}
   assert(await page.locator('h1 span').count()>=2,'White/red/gold editorial headline');
 
-  assert.equal(d.fit,'contain','This batch preserves every source edge');assert(d.natural[0]>0&&d.natural[1]>0);
+  assert.equal(d.fit,width>=1024?'cover':'contain','Shared bounded desktop frame and natural mobile image');assert(d.natural[0]>0&&d.natural[1]>0);
   assert(Math.abs(d.hero.width-refs[width].width)<1);assert(Math.abs(d.hero.x-refs[width].x)<1);
-  assert(Math.abs(d.image.width-d.media.width)<1);assert(Math.abs(d.image.height-d.image.width*d.sourceDimensions[1]/d.sourceDimensions[0])<1,'Natural aspect ratio, no crop or stretch');
+  assert(Math.abs(d.image.width-d.media.width)<1);
+  const ratio=d.sourceDimensions[0]/d.sourceDimensions[1];
+  if(width<1024)assert(Math.abs(d.image.height-d.image.width/ratio)<1,'Natural mobile image');
+  else {
+   assert(Math.abs(d.hero.height-Math.min(refs[width].height,d.hero.width/ratio))<2,'Bruno height with no-side-crop cap');
+   const coverScale=Math.max(d.image.width/d.sourceDimensions[0],d.image.height/d.sourceDimensions[1]);
+   assert(Math.abs(coverScale*d.sourceDimensions[0]-d.image.width)<1,'Both source sides visible without horizontal zoom');
+  }
   assert.equal(d.transform,'none');assert(Math.abs(d.image.x-d.media.x)<1&&Math.abs(d.image.right-d.media.right)<1,'Both source edges align');
   assert.equal(d.fontFamily,refs[width].fontFamily);assert.equal(d.fontWeight,refs[width].fontWeight);
-  if(width>=1024)assert(Math.abs(d.hero.height-d.image.height-2)<1,'Full source controls frame height for this uncropped batch');
-  for(const [name,r] of Object.entries({title:d.title,subtitle:d.deck,date:d.date,readingTime:d.meta}))assert(r.x>=d.hero.x&&r.right<=d.hero.right+1&&r.y>=d.hero.y&&r.bottom<=d.hero.bottom+1,route+' fully visible '+name);
-  // Natural image geometry keeps all four source edges visible.
+  if(width>=1024)assert(Math.abs(d.hero.height-d.image.height-2)<1,'Desktop media fills bounded Bruno frame');
+  for(const [name,r] of Object.entries({title:d.title,subtitle:d.deck,date:d.date,readingTime:d.meta,category:d.category}))assert(r.x>=d.hero.x&&r.right<=d.hero.right+1&&r.y>=d.hero.y&&r.bottom<=d.hero.bottom+1,route+' fully visible '+name);
+  if(width>=1024 || width===390)assert(d.meta.bottom<=height,'Read time remains above the fold');
+  // Desktop may crop vertically, never horizontally.
   const scale=Math.min(d.image.width/d.natural[0],d.image.height/d.natural[1]);assert(scale*d.natural[0]<=d.image.width+0.01&&scale*d.natural[1]<=d.image.height+0.01);
   const headings=l==='en'?a.content.filter(x=>x.startsWith('## ')).map(x=>x.slice(3)):ed.content.filter(x=>x.type==='heading').map(x=>x.text);for(const h of headings){const el=page.getByRole('heading',{level:2,name:h,exact:true});assert.equal(await el.count(),1);assert(await el.isVisible(),'Visible H2');assert(await el.evaluate(e=>e.scrollWidth<=e.clientWidth+1),'Unclipped H2');}
   if(width===390){
