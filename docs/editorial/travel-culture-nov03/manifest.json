@@ -1,0 +1,107 @@
+[
+  {
+    "key": "cats",
+    "slug": "cats-of-istanbul-street-cats-city-family",
+    "original": "5-1000088279.jpg",
+    "sourceSha256": "c426771f07f9fe343d36f0a5e07e6c30d2d884191056980597fe9833d7e705d0",
+    "sha256": "c426771f07f9fe343d36f0a5e07e6c30d2d884191056980597fe9833d7e705d0",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 172789,
+    "image": "/articles/cats-of-istanbul-street-cats-galata-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "dancing",
+    "slug": "dancing-plague-1518-strasbourg-history-hypotheses",
+    "original": "4-1000088280.jpg",
+    "sourceSha256": "44f42aac3836508be076304529d9dae845e427870d75264abb47f75bb33e10bd",
+    "sha256": "44f42aac3836508be076304529d9dae845e427870d75264abb47f75bb33e10bd",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 140321,
+    "image": "/articles/dancing-plague-1518-strasbourg-historical-reconstruction.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "blood",
+    "slug": "blood-falls-antarctica-red-ice-iron-brine",
+    "original": "3-1000088281.jpg",
+    "sourceSha256": "e377202ec05f5f23bdd78b8685dcc7d8e8f828db522ed504daa632be6655e91c",
+    "sha256": "e377202ec05f5f23bdd78b8685dcc7d8e8f828db522ed504daa632be6655e91c",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 183979,
+    "image": "/articles/blood-falls-antarctica-red-ice-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "pamukkale",
+    "slug": "pamukkale-turkey-white-travertine-terraces-hierapolis",
+    "original": "2-1000088282.jpg",
+    "sourceSha256": "44face0a3577e3a82ab1e57ab6078a8880354071ebdacd1cfd7a6536e5a6fd06",
+    "sha256": "44face0a3577e3a82ab1e57ab6078a8880354071ebdacd1cfd7a6536e5a6fd06",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 178833,
+    "image": "/articles/pamukkale-white-travertine-terraces-turkey-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "battuta",
+    "slug": "ibn-battuta-moroccan-traveler-three-continents-rihla",
+    "original": "1-1000088284.jpg",
+    "sourceSha256": "3392d30504a31a9fc4d8c52cc310fffce64d523b96587572b0d9f82f61762d67",
+    "sha256": "3392d30504a31a9fc4d8c52cc310fffce64d523b96587572b0d9f82f61762d67",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 192279,
+    "image": "/articles/ibn-battuta-moroccan-traveler-editorial-reconstruction.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]

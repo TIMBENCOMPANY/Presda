@@ -1,6 +1,6 @@
-const {articleSocialImage}=require('../src/lib/articleSocialImage.ts');
 const fs = require('fs'), assert = require('assert/strict'), crypto = require('crypto');
 require('./register-typescript.cjs');
+const {articleSocialImage}=require('../src/lib/articleSocialImage.ts');
 const { supermarketArticle: a } = require('../src/data/supermarketArticle.ts');
 const { validateArticleParity } = require('./translation-parity.cjs');
 const { articleImageUrl } = require('../src/lib/articleImageSeo.ts');

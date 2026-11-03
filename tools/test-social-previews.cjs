@@ -79,7 +79,7 @@ async function main() {
   for (const edition of editions) {
     const html = builtHtml(edition);
     check(html, edition);
-    if (baseline) assert.deepEqual(preserved(html), baseline.pages[edition.path], `SEO/schema/reader hero unchanged: ${edition.path}`);
+    if (baseline?.pages[edition.path]) assert.deepEqual(preserved(html), baseline.pages[edition.path], `SEO/schema/reader hero unchanged: ${edition.path}`);
   }
   for (const source of new Set(editions.map(e => e.source))) {
     const asset = manifest[source];
@@ -94,7 +94,7 @@ async function main() {
     assert(Math.abs(output.height - output.width * height / width) <= 1, 'Preserve full hero composition');
     assert(bytes.length < 5 * 1024 * 1024, 'Share image below 5 MiB');
     await sharp(bytes).resize({ width: 1 }).raw().toBuffer();
-    if (baseline) assert.equal(crypto.createHash('sha256').update(fs.readFileSync('public' + source)).digest('hex'), baseline.originals[source]);
+    if (baseline?.originals[source]) assert.equal(crypto.createHash('sha256').update(fs.readFileSync('public' + source)).digest('hex'), baseline.originals[source]);
   }
   assert.throws(() => articleSocialImage('/missing-future-hero.png', 'Future image'), /Missing article share image/, 'Missing assets must fail a build instead of sharing the logo');
   console.log(`PASS: ${editions.length} server-rendered article editions, ${Object.keys(manifest).length} decoded JPEG heroes; no logo fallback${baseline ? '; SEO, schema and original artwork unchanged' : ''}.`);
@@ -111,7 +111,7 @@ async function main() {
       const response = await fetch(base + edition.path, { redirect: 'manual', headers: { 'user-agent': agent } });
       assert.equal(response.status, 200, `${edition.path} ${agent} must not redirect`);
       const html = await response.text(); check(html, edition);
-      if (baseline) assert.deepEqual(preserved(html), baseline.pages[edition.path]);
+      if (baseline?.pages[edition.path]) assert.deepEqual(preserved(html), baseline.pages[edition.path]);
       responses.push({ path: edition.path, agent, status: response.status, cache: response.headers.get('x-vercel-cache') });
     }
   }));

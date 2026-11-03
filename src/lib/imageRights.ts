@@ -101,6 +101,8 @@ const publishedPresdaCredits = new Set([
 ]);
 
 export function getImageRights(source: string): ImageRights {
+  // User-approved editorial images; original creator and licence were not supplied.
+  if (["/articles/cats-of-istanbul-street-cats-galata-editorial.jpg","/articles/dancing-plague-1518-strasbourg-historical-reconstruction.jpg","/articles/blood-falls-antarctica-red-ice-editorial.jpg","/articles/pamukkale-white-travertine-terraces-turkey-editorial.jpg","/articles/ibn-battuta-moroccan-traveler-editorial-reconstruction.jpg"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // User-approved editorial images; no original creator or licence supplied.
   if (["/articles/milka-2013-chain-of-tenderness-campaign-editorial.webp","/articles/catatumbo-lightning-lake-maracaibo-editorial.webp","/articles/aye-aye-madagascar-primate-editorial.webp","/articles/eye-of-sahara-richat-structure-editorial.webp"].includes(source)) return { creditText: "Editorial image supplied for PRESDA" };
   // User-approved editorial images; no original creator or licence supplied.

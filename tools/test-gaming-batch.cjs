@@ -1,6 +1,6 @@
-const {articleSocialImage}=require('../src/lib/articleSocialImage.ts');
 const fs=require('fs'),assert=require('assert/strict'),crypto=require('crypto');
 require('./register-typescript.cjs');
+const {articleSocialImage}=require('../src/lib/articleSocialImage.ts');
 const {gamingBatchArticles:articles}=require('../src/data/gamingBatchArticles.ts');
 const {getPublishedArticles}=require('../src/data/articles.ts');
 const {validateArticleParity}=require('./translation-parity.cjs');

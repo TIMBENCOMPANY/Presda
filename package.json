@@ -18,7 +18,8 @@
     "images:prepare": "node tools/prepare-images.cjs && node tools/prepare-social-images.cjs",
     "test:hero-contract": "node tools/test-hero-contract.cjs",
     "test:heroes": "node tools/test-world-business-nov02.cjs",
-    "test:social": "node tools/test-social-previews.cjs"
+    "test:social": "node tools/test-social-previews.cjs",
+    "test:travel-culture": "node tools/test-travel-culture-nov03.cjs"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",

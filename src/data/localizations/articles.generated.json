@@ -55115,6 +55115,357 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/blood-falls-antarctica-red-ice-iron-brine/",
+    "path": "/ar/articles/blood-falls-antarctica-red-ice-iron-brine/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "شلالات الدم: لغز الجليد الأحمر في القارة القطبية الجنوبية",
+    "seoTitle": "شلالات الدم: لماذا يحمر جليد أنتاركتيكا؟",
+    "description": "اكتشف سبب لون شلالات الدم الأحمر وكيف تتحرك المياه المالحة داخل نهر تايلور الجليدي وما تكشفه الأدلة الميكروبية عن أصلها.",
+    "excerpt": "اكتشف سبب لون شلالات الدم الأحمر وكيف تتحرك المياه المالحة داخل نهر تايلور الجليدي وما تكشفه الأدلة الميكروبية عن أصلها.",
+    "headlineHighlights": {
+      "red": "شلالات الدم",
+      "gold": "الجليد الأحمر"
+    },
+    "keywords": [
+      "شلالات الدم",
+      "الجليد الأحمر"
+    ],
+    "searchIntent": "اكتشف سبب لون شلالات الدم الأحمر وكيف تتحرك المياه المالحة داخل نهر تايلور الجليدي وما تكشفه الأدلة الميكروبية عن أصلها.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/blood-falls-antarctica-red-ice-editorial.jpg",
+      "alt": "تصوير تحريري مقدم لمياه حمراء تتدفق من جليد قطبي، وليس رصداً موثقاً لشلالات الدم.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "يدعو الاسم إلى تفسير خاطئ؛ فشلالات الدم ليست جرحاً في أنتاركتيكا، ولا يثبت لونها وجود دم تحت الجليد. عند نهر تايلور الجليدي تخرج مياه مالحة غنية بالحديد إلى مشهد يبدو كأنه لا يسمح إلا بالتجمد. ولهذا يتجاوز اللغز العلمي الصورة: فاللون وحركة الماء السائل وتاريخ النظام البيئي الخفي أسئلة مترابطة، لكنها ليست سؤالاً واحداً."
+      },
+      {
+        "type": "heading",
+        "text": "أين تخرج المياه الحمراء؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تحدد مادة ناسا موقع الظاهرة عند نهر تايلور الجليدي في وديان ماكموردو الجافة، وتصف خروجاً متقطعاً لمحلول شديد الملوحة وغني بالحديد. وكلمة متقطع مهمة؛ فليس من الضروري أن يكون المشهد شلالاً عريضاً دائماً. تستطيع الرسوم إبراز التباين بين الأحمر والأبيض مع إعطاء انطباع مضلل عن الحجم أو التدفق المعتاد. صورتنا تحريرية وليست قياساً أو لقطة ميدانية موثقة. [المصدر: astrobiology.nasa.gov](https://astrobiology.nasa.gov/news/life-in-the-extreme-surviving-beneath-a-glacier-part-i/)"
+      },
+      {
+        "type": "heading",
+        "text": "الكيمياء وراء اللون"
+      },
+      {
+        "type": "paragraph",
+        "text": "في 2023 أفادت جامعة جونز هوبكنز بأن المجهر الإلكتروني كشف جسيمات كروية نانوية صغيرة وغنية بالحديد في عينات من المواد السطحية، ويساعد تأكسدها على تفسير اللون الأحمر. ولم تكن مجرد معادن بلورية متوقعة. وهذا مهم لأن أداة مناسبة لبنية معينة قد لا تكشف بنية أخرى. ويصبح تفسير تفاعل الحديد بعد انكشافه أدق عندما يدرس العلماء المادة التي تحمله. [المصدر: hub.jhu.edu](https://hub.jhu.edu/2023/06/26/blood-falls-mystery/)"
+      },
+      {
+        "type": "heading",
+        "text": "كيف يتحرك السائل داخل نهر جليدي بارد؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "استخدم فريق عام 2017 السبر الراداري لتتبع مسار المحلول الملحي داخل الجليد. وتوضح جامعة ألاسكا في فيربانكس أن الملح يخفض درجة التجمد، بينما يطلق التجمد نفسه حرارة في الجليد المحيط. تساعد العمليتان على حركة السائل في ظروف تجمد الماء الأقل ملوحة. لكن هذا نظام تصريف جليدي محدد، وليس دليلاً على دفء باطن الأنهار الجليدية القطبية أو تماثل أصل كل تدفق أحمر. [المصدر: www.uaf.edu](https://www.uaf.edu/news/archives/news-archives-2010-2021/researchers-solve-the-100-year-old-mystery-of-blood-falls.php)"
+      },
+      {
+        "type": "heading",
+        "text": "أدلة جديدة من الكائنات المجهرية"
+      },
+      {
+        "type": "paragraph",
+        "text": "استمر البحث في 2026، حين قدمت دراسة في Nature Geoscience بقيادة أنجيلا زومبليس أدلة جزيئية على مجتمع بحري متبق من الماضي داخل النظام الذي تغذيه المياه المالحة. ويقول ملخص Nature Portfolio إن النتائج تدعم أصلاً بحرياً، وتجعل النقل بالرياح الحديثة وحده تفسيراً غير مرجح للإشارة البحرية. لكنها لا تحدد تاريخاً دقيقاً لعزل الماء؛ فتعزيز دليل الأصل يختلف عن استكمال التسلسل الزمني. [المصدر: www.natureasia.com](https://www.natureasia.com/en/info/press-releases/detail/9404)"
+      },
+      {
+        "type": "paragraph",
+        "text": "هنا تدرج مفيد: يمكن تحليل المادة الحمراء ورسم مسارات الماء واستنتاج الماضي من أدلة متنوعة. وتجيب هذه الوسائل عن أسئلة مختلفة ولها حدود مختلفة. إن وصف كل شيء باللغز المجهول يتجاهل التقدم، كما أن إعلان حل كل شيء يبالغ. وتنبع جاذبية شلالات الدم من أن ظاهرة سطحية مرئية تفتح أسئلة عن بيئة لا يزال أخذ العينات منها صعباً."
+      },
+      {
+        "type": "paragraph",
+        "text": "ولهذا تحتاج الصورة إلى قراءة حذرة. يثير لونها القوي سؤالاً، لكن الحجم الظاهر للشلال لا يقيس معدل التصريف، ولا تثبت اللقطة اكتشافاً جديداً. فالقصة العلمية تتعلق بأدلة جمعت عبر الزمن لا بالمظهر الحرفي لرسم تحريري. وتثمر فضولنا حين نفصل ما نراه عما تكشفه الأجهزة وعما لا يزال الباحثون يحاولون إعادة بنائه."
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [العالم الخفي تحت جليد القارة القطبية الجنوبية](/articles/hidden-world-beneath-antarctica-ice/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: astrobiology.nasa.gov",
+        "url": "https://astrobiology.nasa.gov/news/life-in-the-extreme-surviving-beneath-a-glacier-part-i/"
+      },
+      {
+        "label": "المصدر: hub.jhu.edu",
+        "url": "https://hub.jhu.edu/2023/06/26/blood-falls-mystery/"
+      },
+      {
+        "label": "المصدر: www.uaf.edu",
+        "url": "https://www.uaf.edu/news/archives/news-archives-2010-2021/researchers-solve-the-100-year-old-mystery-of-blood-falls.php"
+      },
+      {
+        "label": "المصدر: www.natureasia.com",
+        "url": "https://www.natureasia.com/en/info/press-releases/detail/9404"
+      }
+    ],
+    "faq": [
+      {
+        "question": "لماذا لون شلالات الدم أحمر؟",
+        "answer": "تتأكسد مواد غنية بالحديد في المحلول الخارج بعد انكشافها، وتساعد جسيمات نانوية غنية بالحديد على تفسير اللون."
+      },
+      {
+        "question": "لماذا لا تتجمد المياه المالحة ببساطة؟",
+        "answer": "يخفض الملح درجة التجمد، وتساعد الحرارة المنطلقة أثناء التجمد على استمرار حركة السائل في هذا النظام المحدد."
+      },
+      {
+        "question": "هل حُل تاريخ هذه المياه بالكامل؟",
+        "answer": "لا؛ تدعم الأدلة الميكروبية الجديدة الأصل البحري، لكن توقيت العزل الدقيق وتطوره يحتاجان إلى مزيد من البحث."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/blood-falls-antarctica-red-ice-iron-brine/",
+    "path": "/es/articles/blood-falls-antarctica-red-ice-iron-brine/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "BLOOD FALLS: EL MISTERIO DEL HIELO ROJO DE LA ANTÁRTIDA",
+    "seoTitle": "Blood Falls: por qué el hielo de la Antártida se vuelve rojo",
+    "description": "Descubre el color de Blood Falls, cómo circula la salmuera bajo el glaciar Taylor y qué sugieren los nuevos indicios microbianos sobre su origen.",
+    "excerpt": "Descubre el color de Blood Falls, cómo circula la salmuera bajo el glaciar Taylor y qué sugieren los nuevos indicios microbianos sobre su origen.",
+    "headlineHighlights": {
+      "red": "BLOOD FALLS",
+      "gold": "HIELO ROJO DE LA ANTÁRTIDA"
+    },
+    "keywords": [
+      "BLOOD FALLS",
+      "HIELO ROJO DE LA ANTÁRTIDA"
+    ],
+    "searchIntent": "Descubre el color de Blood Falls, cómo circula la salmuera bajo el glaciar Taylor y qué sugieren los nuevos indicios microbianos sobre su origen.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/blood-falls-antarctica-red-ice-editorial.jpg",
+      "alt": "Representación editorial suministrada de agua roja junto al hielo antártico, no una observación autenticada de Blood Falls.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "El nombre invita a una explicación equivocada. Blood Falls no es una herida de la Antártida y su color no demuestra la presencia de sangre bajo el hielo. En el glaciar Taylor emerge agua salada con hierro dentro de un paisaje que parece destinado a congelarla. El problema científico supera la fotografía: el color, el flujo líquido y la historia de un ecosistema oculto son cuestiones relacionadas, pero diferentes."
+      },
+      {
+        "type": "heading",
+        "text": "Dónde emerge el agua roja"
+      },
+      {
+        "type": "paragraph",
+        "text": "La presentación de astrobiología de la NASA sitúa el fenómeno en el glaciar Taylor, en los Valles Secos de McMurdo, y describe descargas episódicas de salmuera hipersalina rica en hierro. Episódicas es importante: no implica una gran cascada permanente. Una ilustración puede transmitir el contraste rojo y blanco y a la vez sugerir una escala o un caudal engañosos. Nuestra imagen es editorial, no una medición ni una fotografía de campo autenticada. [Fuente: astrobiology.nasa.gov](https://astrobiology.nasa.gov/news/life-in-the-extreme-surviving-beneath-a-glacier-part-i/)"
+      },
+      {
+        "type": "heading",
+        "text": "La química del color"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2023, Johns Hopkins informó de que la microscopía electrónica había revelado diminutas nanoesferas ricas en hierro en material superficial muestreado. Su oxidación ayuda a explicar el rojo. No eran simplemente los minerales cristalinos que se esperaba identificar. El detalle importa porque un instrumento adecuado para una estructura puede pasar por alto otra. La explicación conocida del hierro que reacciona tras exponerse gana precisión al estudiar el material que lo contiene. [Fuente: hub.jhu.edu](https://hub.jhu.edu/2023/06/26/blood-falls-mystery/)"
+      },
+      {
+        "type": "heading",
+        "text": "Cómo circula el líquido por un glaciar frío"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2017, un equipo utilizó sondeo por radioeco para seguir la salmuera dentro del hielo. La Universidad de Alaska Fairbanks explicó que la sal reduce la temperatura de congelación y que la propia congelación libera calor al hielo vecino. Estos procesos ayudan a mantener movimiento líquido donde se congelaría agua menos salada. Es un sistema concreto de circulación glacial, no una prueba de que los glaciares antárticos sean cálidos por dentro ni de que todo vertido rojo tenga el mismo origen. [Fuente: www.uaf.edu](https://www.uaf.edu/news/archives/news-archives-2010-2021/researchers-solve-the-100-year-old-mystery-of-blood-falls.php)"
+      },
+      {
+        "type": "heading",
+        "text": "Nuevos indicios microbianos"
+      },
+      {
+        "type": "paragraph",
+        "text": "La investigación continuó en 2026. Un estudio de Nature Geoscience dirigido por Angela Zoumplis presentó pruebas moleculares de una comunidad marina relicta en el sistema alimentado por salmuera. El resumen de Nature Portfolio señala que respaldan un origen marino y hacen poco probable que los vientos actuales expliquen por sí solos esa señal. No ofrecen una fecha exacta de aislamiento del agua. Reforzar la evidencia de un origen no equivale a completar toda su cronología. [Fuente: www.natureasia.com](https://www.natureasia.com/en/info/press-releases/detail/9404)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Existe una jerarquía útil: se puede examinar el material rojo, cartografiar los conductos e inferir el pasado mediante pruebas diferentes. Cada método responde a preguntas distintas y tiene límites propios. Llamarlo todo misterio sin resolver borra avances reales; declararlo todo resuelto exagera. Blood Falls fascina porque una señal visible permite investigar un entorno que sigue siendo difícil de muestrear."
+      },
+      {
+        "type": "paragraph",
+        "text": "Por eso la imagen exige una lectura cuidadosa. Su color intenso plantea una pregunta, pero el volumen aparente de la cascada no establece un caudal ni demuestra una nueva investigación. La historia científica trata de pruebas acumuladas, no de la apariencia literal de una ilustración. El hielo rojo recompensa la curiosidad cuando separamos lo visible, lo que revelan los instrumentos y lo que todavía intentan reconstruir los investigadores."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [El mundo oculto bajo el hielo antártico](/articles/hidden-world-beneath-antarctica-ice/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: astrobiology.nasa.gov",
+        "url": "https://astrobiology.nasa.gov/news/life-in-the-extreme-surviving-beneath-a-glacier-part-i/"
+      },
+      {
+        "label": "Fuente: hub.jhu.edu",
+        "url": "https://hub.jhu.edu/2023/06/26/blood-falls-mystery/"
+      },
+      {
+        "label": "Fuente: www.uaf.edu",
+        "url": "https://www.uaf.edu/news/archives/news-archives-2010-2021/researchers-solve-the-100-year-old-mystery-of-blood-falls.php"
+      },
+      {
+        "label": "Fuente: www.natureasia.com",
+        "url": "https://www.natureasia.com/en/info/press-releases/detail/9404"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Por qué Blood Falls es roja?",
+        "answer": "El material rico en hierro de la salmuera se oxida tras exponerse. Se han identificado nanoesferas que ayudan a explicar el color."
+      },
+      {
+        "question": "¿Por qué no se congela simplemente el agua salada?",
+        "answer": "La sal reduce la temperatura de congelación y el calor liberado al congelarse ayuda a mantener el movimiento líquido en este sistema."
+      },
+      {
+        "question": "¿Se conoce por completo la historia del agua?",
+        "answer": "No. La evidencia microbiana refuerza un origen marino, pero la fecha y evolución exactas del aislamiento requieren más investigación."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/blood-falls-antarctica-red-ice-iron-brine/",
+    "path": "/fr/articles/blood-falls-antarctica-red-ice-iron-brine/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "BLOOD FALLS : LE MYSTÈRE DE LA GLACE ROUGE DE L’ANTARCTIQUE",
+    "seoTitle": "Blood Falls : pourquoi la glace antarctique devient rouge",
+    "description": "Pourquoi Blood Falls est-elle rouge ? Découvrez sa saumure riche en fer, son parcours dans le glacier Taylor et les indices sur ses origines.",
+    "excerpt": "Pourquoi Blood Falls est-elle rouge ? Découvrez sa saumure riche en fer, son parcours dans le glacier Taylor et les indices sur ses origines.",
+    "headlineHighlights": {
+      "red": "BLOOD FALLS",
+      "gold": "GLACE ROUGE DE L’ANTARCTIQUE"
+    },
+    "keywords": [
+      "BLOOD FALLS",
+      "GLACE ROUGE DE L’ANTARCTIQUE"
+    ],
+    "searchIntent": "Pourquoi Blood Falls est-elle rouge ? Découvrez sa saumure riche en fer, son parcours dans le glacier Taylor et les indices sur ses origines.",
+    "category": "Science",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/blood-falls-antarctica-red-ice-editorial.jpg",
+      "alt": "Représentation éditoriale fournie d’eau rouge au pied d’un glacier antarctique, pas une observation authentifiée de Blood Falls.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Son nom suggère une fausse explication. Blood Falls n’est pas une blessure de l’Antarctique, et sa couleur ne prouve pas la présence de sang sous la glace. Au glacier Taylor, une eau salée chargée en fer émerge dans un paysage qui semble voué au gel. Le problème scientifique dépasse la photo : couleur, circulation liquide et histoire d’un écosystème caché sont des questions liées, mais distinctes."
+      },
+      {
+        "type": "heading",
+        "text": "Où apparaît l’eau rouge ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La présentation de la NASA situe le phénomène au glacier Taylor, dans les vallées sèches de McMurdo, et décrit des rejets épisodiques de saumure hypersaline riche en fer. Le mot compte : il ne s’agit pas nécessairement d’une large cascade permanente. Une illustration peut souligner le contraste rouge et blanc tout en faussant l’idée de son débit ou de son échelle habituelle. Notre visuel est éditorial, pas une mesure ni une photographie de terrain authentifiée. [Source: astrobiology.nasa.gov](https://astrobiology.nasa.gov/news/life-in-the-extreme-surviving-beneath-a-glacier-part-i/)"
+      },
+      {
+        "type": "heading",
+        "text": "La chimie derrière la couleur"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2023, Johns Hopkins a rapporté que la microscopie électronique révélait de minuscules nanosphères riches en fer dans les matériaux de surface prélevés. Leur oxydation contribue à expliquer le rouge. Ces particules n’étaient pas simplement les minéraux cristallins attendus. Ce détail importe : un instrument adapté à une structure peut en manquer une autre. L’explication familière du fer réagissant après exposition gagne en précision lorsque le matériau lui-même peut être étudié. [Source: hub.jhu.edu](https://hub.jhu.edu/2023/06/26/blood-falls-mystery/)"
+      },
+      {
+        "type": "heading",
+        "text": "Comment le liquide traverse un glacier froid"
+      },
+      {
+        "type": "paragraph",
+        "text": "En 2017, une équipe a utilisé le sondage radar pour suivre le passage de la saumure dans la glace. L’université d’Alaska à Fairbanks explique que le sel abaisse la température de congélation, tandis que la formation de glace libère de la chaleur alentour. Ces processus favorisent un mouvement liquide dans des conditions où une eau moins salée gèlerait. Ce réseau particulier ne prouve ni que les glaciers antarctiques sont chauds à l’intérieur ni que chaque écoulement rouge a la même origine. [Source: www.uaf.edu](https://www.uaf.edu/news/archives/news-archives-2010-2021/researchers-solve-the-100-year-old-mystery-of-blood-falls.php)"
+      },
+      {
+        "type": "heading",
+        "text": "De nouveaux indices microbiens"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’enquête s’est poursuivie en 2026. Une étude de Nature Geoscience dirigée par Angela Zoumplis présente des indices moléculaires d’une communauté marine relictuelle dans le système alimenté par la saumure. Le résumé de Nature Portfolio indique qu’ils soutiennent une origine marine et rendent peu probable une explication reposant uniquement sur les vents actuels. Ils ne datent pas précisément l’isolement de l’eau. Renforcer une hypothèse d’origine ne signifie pas établir toute la chronologie. [Source: www.natureasia.com](https://www.natureasia.com/en/info/press-releases/detail/9404)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une hiérarchie utile apparaît : la matière rouge s’analyse, les passages se cartographient et le passé s’infère à partir d’indices variés. Ces méthodes répondent à des questions distinctes avec leurs propres limites. Tout qualifier de mystère irrésolu efface les progrès ; déclarer tout résolu va trop loin. Blood Falls fascine parce qu’un phénomène visible donne accès à des questions sur un milieu encore difficile à échantillonner."
+      },
+      {
+        "type": "paragraph",
+        "text": "Voilà pourquoi le visuel demande une lecture attentive. Sa couleur intense suscite une question, mais son volume apparent ne mesure pas un débit et la scène ne démontre aucune découverte nouvelle. Le récit scientifique repose sur des données accumulées, pas sur l’apparence littérale d’une illustration. La glace rouge récompense surtout la curiosité lorsque l’on distingue ce que l’on voit, ce que révèlent les instruments et ce que les chercheurs tentent encore de reconstituer."
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [Le monde caché sous la glace antarctique](/articles/hidden-world-beneath-antarctica-ice/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: astrobiology.nasa.gov",
+        "url": "https://astrobiology.nasa.gov/news/life-in-the-extreme-surviving-beneath-a-glacier-part-i/"
+      },
+      {
+        "label": "Source: hub.jhu.edu",
+        "url": "https://hub.jhu.edu/2023/06/26/blood-falls-mystery/"
+      },
+      {
+        "label": "Source: www.uaf.edu",
+        "url": "https://www.uaf.edu/news/archives/news-archives-2010-2021/researchers-solve-the-100-year-old-mystery-of-blood-falls.php"
+      },
+      {
+        "label": "Source: www.natureasia.com",
+        "url": "https://www.natureasia.com/en/info/press-releases/detail/9404"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Pourquoi Blood Falls est-elle rouge ?",
+        "answer": "Les matériaux riches en fer de la saumure s’oxydent après exposition. Des nanosphères riches en fer contribuent à expliquer la couleur."
+      },
+      {
+        "question": "Pourquoi l’eau salée ne gèle-t-elle pas simplement ?",
+        "answer": "Le sel abaisse la température de congélation et la chaleur libérée par le gel aide le liquide à circuler dans ce système particulier."
+      },
+      {
+        "question": "L’histoire de cette eau est-elle entièrement connue ?",
+        "answer": "Non. Les indices microbiens renforcent l’hypothèse marine, mais la date et l’évolution précises de l’isolement restent à étudier."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/bobby-fischer-chess-legend-america-iceland/",
     "path": "/ar/articles/bobby-fischer-chess-legend-america-iceland/",
     "kind": "article",
@@ -77948,6 +78299,357 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/cats-of-istanbul-street-cats-city-family/",
+    "path": "/ar/articles/cats-of-istanbul-street-cats-city-family/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "قطط إسطنبول: المدينة التي تعد قطط الشوارع أفراداً من العائلة",
+    "seoTitle": "قطط إسطنبول: حياة الشوارع وروابط الجيرة والرعاية",
+    "description": "اكتشف ثقافة قطط الشوارع في إسطنبول وعلاقة السكان بها، ولماذا تحتاج المحبة إلى رعاية بيطرية لا إلى صور جميلة فقط.",
+    "excerpt": "اكتشف ثقافة قطط الشوارع في إسطنبول وعلاقة السكان بها، ولماذا تحتاج المحبة إلى رعاية بيطرية لا إلى صور جميلة فقط.",
+    "headlineHighlights": {
+      "red": "قطط إسطنبول",
+      "gold": "أفراداً من العائلة"
+    },
+    "keywords": [
+      "قطط إسطنبول",
+      "أفراداً من العائلة"
+    ],
+    "searchIntent": "اكتشف ثقافة قطط الشوارع في إسطنبول وعلاقة السكان بها، ولماذا تحتاج المحبة إلى رعاية بيطرية لا إلى صور جميلة فقط.",
+    "category": "Lifestyle",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/cats-of-istanbul-street-cats-galata-editorial.jpg",
+      "alt": "قطتان تستريحان على جدار وخلفهما برج غلطة في صورة تحريرية مقدمة عن إسطنبول.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تبدأ صورة المدينة عادة بخط أبنيتها، لكن قطة في إسطنبول قد تستحوذ بهدوء على المشهد الأمامي. ولعل هذا الانقلاب يفسر جانباً من جاذبيتها: يصبح التاريخ المعماري خلفية لعصر هادئ في حياة حيوان. غير أن القصة الأهم ليست جمال الصور، بل المساحة التي يفسحها الناس يومياً لكائنات لا يملكون حياتها ولا يتحكمون بها بالكامل."
+      },
+      {
+        "type": "heading",
+        "text": "جيران لا مجرد خلفية"
+      },
+      {
+        "type": "paragraph",
+        "text": "يقدم فيلم كيدي للمخرجة جيداء طورون نافذة متأنية على هذه العلاقة. ويعرّف متحف إسطنبول الحديثة بفيلم 2016 وقططه التي جرى تتبعها في أحياء منها غلطة وجيهانغير وفريكوي وكوزغونجوك. تكمن قيمته في الاهتمام بحيوانات بعينها وجيرانها البشر. أما الفيلم الوثائقي فلا يمثل تعداداً شاملاً، ولا يثبت أن الموقف من القطط متماثل في كل حي. [المصدر: www.istanbulmodern.org](https://www.istanbulmodern.org/en/film/cat)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف المادة التعريفية للفيلم القطط بأنها تعيش بين العالم المنزلي والاستقلال. وهذه فكرة ثقافية مفيدة ما دامت لا تمحو اختلاف الحيوانات. فقد تجد قطة مألوفة عدة أشخاص يعتنون بها بانتظام دون أن تسكن منزل أحدهم. واعتبارها من العائلة يعبر عن رابطة ومسؤولية، لكنه لا يوضح تلقائياً من ينظم العلاج أو يدفع تكلفته أو يلاحظ غيابها. [المصدر: www.kedifilm.com](https://www.kedifilm.com/about)"
+      },
+      {
+        "type": "heading",
+        "text": "العمل الذي يقف وراء المحبة"
+      },
+      {
+        "type": "paragraph",
+        "text": "للرعاية جانب مؤسسي أيضاً. تدرج الخدمات البيطرية لبلدية إسطنبول الكبرى التطعيم والتعقيم والعلاج وتسجيل الحيوانات ضمن أعمالها. وهذه صورة أعمق من تصور رومانسي تحل فيه الطيبة كل المشكلات. يسهل رؤية وعاء طعام أو صورة جميلة، بينما يصعب تصوير الرعاية السريرية والمتابعة الإدارية. لذلك ينبغي أن تشمل القصة الصلة الإنسانية والبنية العملية التي تسندها معاً. [المصدر: tarim.ibb.istanbul](https://tarim.ibb.istanbul/veteriner-hizmetleri-mudurlugu/hakkimizda.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "يأتي مثال حديث من بلدية الفاتح، إذ يصف إعلانها في 31 أكتوبر 2026 دعماً لنقل مجموعات لا تقل عن ثلاث قطط شوارع لتعقيمها بناء على طلب السكان. وهذا برنامج محدد لمنطقة بعينها، وليس وعداً بخدمة مماثلة في كل إسطنبول. وتكمن أهميته في وصل السكان بالرعاية المهنية، حين تتحول العاطفة المشتركة إلى خطوة منظمة يمكن تنفيذها. [المصدر: www.fatih.bel.tr](https://www.fatih.bel.tr/tr/main/news/fatihte-sokak-kedilerinin-kisirlastirilmasina/11767)"
+      },
+      {
+        "type": "heading",
+        "text": "المدينة أكبر من صورتها الأجمل"
+      },
+      {
+        "type": "paragraph",
+        "text": "لهذا تبدو العائلة استعارة ثقافية أنسب من اعتبارها دليلاً على أمان كل قطة أو اتفاق جميع السكان. إن اختزال العلاقة في أسطورة واحدة أو تعميم ديني أو رقم هائل يجعل تكرارها أسهل وفهمها أصعب. ولا نقدم هنا تعداداً غير موثق لقطط المدينة. والسؤال الأعمق هو كيف تصبح حياة حيوان معروف مهمة بما يكفي لدى الأشخاص المحيطين به."
+      },
+      {
+        "type": "heading",
+        "text": "المشاهدة دون تحويل الحيوان إلى أداة"
+      },
+      {
+        "type": "paragraph",
+        "text": "تتمثل الفكرة التحريرية في إبقاء الحيوان محور اللقاء، فلا تصبح جودة الصورة معياراً لقيمة اللحظة. إن المشاهدة بهدوء واحترام المسافة والاستماع إلى من يتولون رعاية الحيوان تعبر عن انتباه مختلف. والصورة المقدمة تصوير تحريري، وليست إثباتاً لهوية القطتين أو لطبيعة العناية بهما. أما أقوى قصص القطط في المدينة فهي العلاقة التي تستمر خارج إطار الصورة."
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [كيف أصبحت القطط جزءاً من الأسرة البشرية](/articles/cats-humans-domestication-history/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: www.istanbulmodern.org",
+        "url": "https://www.istanbulmodern.org/en/film/cat"
+      },
+      {
+        "label": "المصدر: www.kedifilm.com",
+        "url": "https://www.kedifilm.com/about"
+      },
+      {
+        "label": "المصدر: tarim.ibb.istanbul",
+        "url": "https://tarim.ibb.istanbul/veteriner-hizmetleri-mudurlugu/hakkimizda.html"
+      },
+      {
+        "label": "المصدر: www.fatih.bel.tr",
+        "url": "https://www.fatih.bel.tr/tr/main/news/fatihte-sokak-kedilerinin-kisirlastirilmasina/11767"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل كل قطط الشوارع في إسطنبول متوحشة؟",
+        "answer": "لا يصف تصنيف واحد جميع الحيوانات؛ فدرجة ألفتها بالبشر وترتيبات رعايتها تختلف من قطة إلى أخرى."
+      },
+      {
+        "question": "هل تتوفر رعاية بيطرية للقطط بلا مالك؟",
+        "answer": "تذكر الخدمات البيطرية في البلدية الكبرى التطعيم والتعقيم والعلاج، بينما تخضع برامج المناطق لترتيباتها الخاصة."
+      },
+      {
+        "question": "هل كيدي فيلم وثائقي عن إسطنبول؟",
+        "answer": "نعم، يتتبع فيلم جيداء طورون الصادر في 2016 قططاً وأشخاصاً يحيطون بها في أحياء المدينة."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/cats-of-istanbul-street-cats-city-family/",
+    "path": "/es/articles/cats-of-istanbul-street-cats-city-family/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "LOS GATOS DE ESTAMBUL: LA CIUDAD DONDE LOS GATOS CALLEJEROS SON FAMILIA",
+    "seoTitle": "Gatos de Estambul: vecinos, cuidados y vida en la calle",
+    "description": "Descubre la cultura felina de Estambul, los vecinos que cuidan a sus gatos y por qué el cariño necesita apoyo veterinario, además de buenas fotografías.",
+    "excerpt": "Descubre la cultura felina de Estambul, los vecinos que cuidan a sus gatos y por qué el cariño necesita apoyo veterinario, además de buenas fotografías.",
+    "headlineHighlights": {
+      "red": "GATOS DE ESTAMBUL",
+      "gold": "SON FAMILIA"
+    },
+    "keywords": [
+      "GATOS DE ESTAMBUL",
+      "SON FAMILIA"
+    ],
+    "searchIntent": "Descubre la cultura felina de Estambul, los vecinos que cuidan a sus gatos y por qué el cariño necesita apoyo veterinario, además de buenas fotografías.",
+    "category": "Lifestyle",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/cats-of-istanbul-street-cats-galata-editorial.jpg",
+      "alt": "Dos gatos descansan sobre un muro con la torre de Gálata al fondo en una imagen editorial suministrada de Estambul.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "El retrato de una ciudad suele empezar por su horizonte. En Estambul, un gato puede adueñarse tranquilamente del primer plano. Esa inversión explica parte del encanto: la historia monumental queda detrás de una tarde cualquiera. Sin embargo, lo más interesante no es su atractivo fotográfico, sino el espacio que las personas reservan, una y otra vez, a vidas que no poseen ni controlan del todo."
+      },
+      {
+        "type": "heading",
+        "text": "Vecinos, no simple decoración"
+      },
+      {
+        "type": "paragraph",
+        "text": "El documental Kedi, de Ceyda Torun, ofrece una mirada atenta a esa relación. Istanbul Modern presenta la película de 2016 y los gatos seguidos en barrios como Gálata, Cihangir, Feriköy y Kuzguncuk. Su valor reside en observar animales concretos y a sus vecinos humanos. Un retrato documental permite conocer vínculos, pero no equivale a un censo ni demuestra una actitud idéntica en todos los barrios. [Fuente: www.istanbulmodern.org](https://www.istanbulmodern.org/en/film/cat)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La presentación del filme sitúa a los gatos entre la vida doméstica y la independencia. Es una idea cultural útil si no borra las diferencias individuales. Un gato conocido puede tener varios cuidadores habituales sin vivir dentro de ninguna casa. Considerarlo familia expresa un vínculo y una responsabilidad, pero no aclara por sí solo quién organiza el tratamiento, paga la factura o advierte su desaparición. [Fuente: www.kedifilm.com](https://www.kedifilm.com/about)"
+      },
+      {
+        "type": "heading",
+        "text": "El trabajo que sostiene el cariño"
+      },
+      {
+        "type": "paragraph",
+        "text": "El cuidado también tiene una dimensión institucional. El servicio veterinario del Ayuntamiento Metropolitano incluye vacunación, esterilización, tratamiento y registro entre sus actividades. Esto ofrece una imagen más sólida que la visión romántica de una ciudad donde la bondad lo resuelve todo. Un cuenco o una foto se ven enseguida; la atención clínica y su seguimiento resultan menos visibles. Tanto el vínculo humano como la infraestructura práctica forman parte de la historia. [Fuente: tarim.ibb.istanbul](https://tarim.ibb.istanbul/veteriner-hizmetleri-mudurlugu/hakkimizda.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un ejemplo reciente procede del municipio de Fatih. Su anuncio del 31 de octubre de 2026 describe apoyo de transporte para residentes que organizan la esterilización de grupos de al menos tres gatos callejeros. Es un programa de distrito, no una garantía para toda Estambul. Lo importante es la conexión entre vecinos y atención profesional: el cariño compartido adquiere utilidad cuando la preocupación se convierte en un siguiente paso organizado. [Fuente: www.fatih.bel.tr](https://www.fatih.bel.tr/tr/main/news/fatihte-sokak-kedilerinin-kisirlastirilmasina/11767)"
+      },
+      {
+        "type": "heading",
+        "text": "Una ciudad supera su imagen más encantadora"
+      },
+      {
+        "type": "paragraph",
+        "text": "Familia funciona mejor como metáfora cultural que como afirmación de que todos los gatos están a salvo o todos los vecinos coinciden. Reducir la relación a una leyenda, una generalización religiosa o una cifra espectacular facilita repetirla y dificulta comprenderla. Aquí no ofrecemos un recuento urbano sin verificar. La pregunta más reveladora es cómo un animal llega a resultar tan familiar que su bienestar importa a quienes lo rodean."
+      },
+      {
+        "type": "heading",
+        "text": "Observar sin convertir al animal en un accesorio"
+      },
+      {
+        "type": "paragraph",
+        "text": "La idea editorial es mantener al animal en el centro del encuentro. Conseguir una fotografía satisfactoria no debería medir el valor del momento. Observar con calma, respetar la distancia y escuchar a quienes ya se ocupan de un animal representan otra forma de atención. La imagen suministrada es editorial, no una prueba de la identidad o los cuidados de esos gatos. La mejor historia felina de la ciudad continúa fuera del encuadre."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [Cómo los gatos entraron en la familia humana](/articles/cats-humans-domestication-history/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: www.istanbulmodern.org",
+        "url": "https://www.istanbulmodern.org/en/film/cat"
+      },
+      {
+        "label": "Fuente: www.kedifilm.com",
+        "url": "https://www.kedifilm.com/about"
+      },
+      {
+        "label": "Fuente: tarim.ibb.istanbul",
+        "url": "https://tarim.ibb.istanbul/veteriner-hizmetleri-mudurlugu/hakkimizda.html"
+      },
+      {
+        "label": "Fuente: www.fatih.bel.tr",
+        "url": "https://www.fatih.bel.tr/tr/main/news/fatihte-sokak-kedilerinin-kisirlastirilmasina/11767"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Todos los gatos callejeros de Estambul son asilvestrados?",
+        "answer": "Una sola etiqueta no describe a todos. Varían su familiaridad con las personas y las formas de cuidado individual."
+      },
+      {
+        "question": "¿Existe atención veterinaria para gatos sin dueño?",
+        "answer": "El servicio metropolitano incluye vacunación, esterilización y tratamiento. Los programas de distrito tienen sus propias condiciones."
+      },
+      {
+        "question": "¿Kedi es un documental sobre Estambul?",
+        "answer": "Sí. La película de Ceyda Torun de 2016 sigue a gatos concretos y a las personas de sus barrios."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/cats-of-istanbul-street-cats-city-family/",
+    "path": "/fr/articles/cats-of-istanbul-street-cats-city-family/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "LES CHATS D’ISTANBUL : LA VILLE OÙ LES CHATS DES RUES FONT PARTIE DE LA FAMILLE",
+    "seoTitle": "Les chats d’Istanbul : une famille à l’échelle du quartier",
+    "description": "Découvrez les chats des rues d’Istanbul, les liens avec leurs voisins humains et le travail de soin que les belles images laissent parfois hors champ.",
+    "excerpt": "Découvrez les chats des rues d’Istanbul, les liens avec leurs voisins humains et le travail de soin que les belles images laissent parfois hors champ.",
+    "headlineHighlights": {
+      "red": "CHATS D’ISTANBUL",
+      "gold": "FONT PARTIE DE LA FAMILLE"
+    },
+    "keywords": [
+      "CHATS D’ISTANBUL",
+      "FONT PARTIE DE LA FAMILLE"
+    ],
+    "searchIntent": "Découvrez les chats des rues d’Istanbul, les liens avec leurs voisins humains et le travail de soin que les belles images laissent parfois hors champ.",
+    "category": "Lifestyle",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/cats-of-istanbul-street-cats-galata-editorial.jpg",
+      "alt": "Deux chats reposent sur un mur devant la tour de Galata dans un visuel éditorial fourni d’Istanbul.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Le portrait d’une ville commence souvent par sa silhouette. À Istanbul, un chat peut tranquillement s’emparer du premier plan. Ce renversement explique une part de la fascination : l’histoire monumentale devient le décor d’un après-midi ordinaire. Mais l’essentiel n’est pas que les chats soient photogéniques. C’est la place que des humains réservent, jour après jour, à des vies qu’ils ne possèdent ni ne contrôlent entièrement."
+      },
+      {
+        "type": "heading",
+        "text": "Des voisins, pas un simple décor"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le documentaire Kedi de Ceyda Torun offre une fenêtre attentive sur cette relation. Istanbul Modern présente ce film de 2016 et ses chats de quartier, suivis notamment à Galata, Cihangir, Feriköy et Kuzguncuk. Son intérêt tient au regard porté sur des animaux précis et leurs voisins humains. Un portrait documentaire éclaire des relations ; il ne constitue ni un recensement ni la preuve d’une attitude uniforme dans tous les quartiers. [Source: www.istanbulmodern.org](https://www.istanbulmodern.org/en/film/cat)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La présentation du film décrit des chats entre vie domestique et indépendance. Cette idée culturelle est éclairante si elle n’efface pas les différences entre individus. Un chat familier peut compter plusieurs personnes qui s’occupent régulièrement de lui sans habiter chez aucune. Le qualifier de membre de la famille exprime un lien et une responsabilité. Cela ne dit pas automatiquement qui organise les soins, paie la facture ou remarque son absence. [Source: www.kedifilm.com](https://www.kedifilm.com/about)"
+      },
+      {
+        "type": "heading",
+        "text": "Le travail derrière l’affection"
+      },
+      {
+        "type": "paragraph",
+        "text": "La prise en charge possède aussi une dimension institutionnelle. Le service vétérinaire de la municipalité métropolitaine mentionne vaccination, stérilisation, traitement et enregistrement des animaux parmi ses activités. Ce tableau est plus solide que l’image romantique d’une ville où la gentillesse résoudrait tout. Une gamelle ou une photo se voit immédiatement ; les soins cliniques et leur suivi sont moins visibles. Le lien humain et l’infrastructure pratique font tous deux partie du récit. [Source: tarim.ibb.istanbul](https://tarim.ibb.istanbul/veteriner-hizmetleri-mudurlugu/hakkimizda.html)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un exemple récent vient de la municipalité de Fatih. Son annonce du 31 octobre 2026 décrit une aide au transport pour les habitants organisant la stérilisation d’au moins trois chats des rues. Il s’agit d’un programme de district, pas d’un service garanti partout à Istanbul. Son intérêt réside dans le lien entre habitants et soins professionnels : l’affection collective devient concrète lorsqu’une inquiétude peut déboucher sur une démarche organisée. [Source: www.fatih.bel.tr](https://www.fatih.bel.tr/tr/main/news/fatihte-sokak-kedilerinin-kisirlastirilmasina/11767)"
+      },
+      {
+        "type": "heading",
+        "text": "Une ville dépasse son image la plus séduisante"
+      },
+      {
+        "type": "paragraph",
+        "text": "La famille doit donc se comprendre comme une métaphore culturelle, non comme l’affirmation que chaque chat est en sécurité ou que tous les habitants partagent le même avis. Réduire cette relation à une légende, une généralisation religieuse ou un chiffre spectaculaire facilite sa répétition mais appauvrit sa compréhension. Nous ne donnons aucun dénombrement municipal non vérifié. La question la plus révélatrice est de savoir comment un animal devient assez familier pour que son bien-être importe à son entourage."
+      },
+      {
+        "type": "heading",
+        "text": "Observer sans transformer l’animal en accessoire"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le principe éditorial est de garder l’animal au centre de la rencontre. La réussite d’une photographie ne devrait pas déterminer l’intérêt du moment. Observer calmement, respecter la distance et écouter les personnes déjà responsables d’un animal représentent une autre qualité d’attention. Le visuel fourni est une représentation éditoriale, pas une preuve de l’identité ou des soins de ces chats. Le récit le plus fort se poursuit au-delà du cadre."
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [Comment les chats sont entrés dans la famille humaine](/articles/cats-humans-domestication-history/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: www.istanbulmodern.org",
+        "url": "https://www.istanbulmodern.org/en/film/cat"
+      },
+      {
+        "label": "Source: www.kedifilm.com",
+        "url": "https://www.kedifilm.com/about"
+      },
+      {
+        "label": "Source: tarim.ibb.istanbul",
+        "url": "https://tarim.ibb.istanbul/veteriner-hizmetleri-mudurlugu/hakkimizda.html"
+      },
+      {
+        "label": "Source: www.fatih.bel.tr",
+        "url": "https://www.fatih.bel.tr/tr/main/news/fatihte-sokak-kedilerinin-kisirlastirilmasina/11767"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Les chats des rues d’Istanbul sont-ils tous sauvages ?",
+        "answer": "Une étiquette unique ne décrit pas chaque animal. Leur familiarité avec les humains et leurs conditions de prise en charge diffèrent."
+      },
+      {
+        "question": "Existe-t-il des soins vétérinaires pour les chats sans propriétaire ?",
+        "answer": "Le service métropolitain mentionne vaccination, stérilisation et traitement. Les programmes de district suivent leurs propres modalités."
+      },
+      {
+        "question": "Kedi est-il un documentaire sur Istanbul ?",
+        "answer": "Oui. Le film de Ceyda Torun, daté de 2016, suit des chats et les personnes qui les entourent dans plusieurs quartiers."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/celine-dion-returns-stage-six-years-paris-2026/",
     "path": "/ar/articles/celine-dion-returns-stage-six-years-paris-2026/",
     "kind": "article",
@@ -88138,6 +88840,345 @@
       {
         "label": "Social Science Journal : attitudes et stigmate du tatouage",
         "url": "https://www.sciencedirect.com/science/article/pii/S0362331914000081"
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/dancing-plague-1518-strasbourg-history-hypotheses/",
+    "path": "/ar/articles/dancing-plague-1518-strasbourg-history-hypotheses/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "وباء الرقص عام 1518: حين لم تستطع ستراسبورغ التوقف عن الرقص",
+    "seoTitle": "وباء الرقص في ستراسبورغ عام 1518: التاريخ والفرضيات",
+    "description": "ماذا حدث في ستراسبورغ عام 1518؟ قراءة في السجلات وأعداد الوفيات المختلف عليها والفرضيات المطروحة لتفسير وباء الرقص.",
+    "excerpt": "ماذا حدث في ستراسبورغ عام 1518؟ قراءة في السجلات وأعداد الوفيات المختلف عليها والفرضيات المطروحة لتفسير وباء الرقص.",
+    "headlineHighlights": {
+      "red": "وباء الرقص عام 1518",
+      "gold": "التوقف عن الرقص"
+    },
+    "keywords": [
+      "وباء الرقص عام 1518",
+      "التوقف عن الرقص"
+    ],
+    "searchIntent": "ماذا حدث في ستراسبورغ عام 1518؟ قراءة في السجلات وأعداد الوفيات المختلف عليها والفرضيات المطروحة لتفسير وباء الرقص.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/dancing-plague-1518-strasbourg-historical-reconstruction.jpg",
+      "alt": "إعادة تصور تاريخية تحريرية لأشخاص يرقصون في شارع مستوحى من ستراسبورغ في القرن السادس عشر.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "يصعب نسيان صورة شارع ممتلئ بأشخاص يتحركون كأن الموسيقى لن تتوقف. لكن وباء الرقص عام 1518 ليس فيلماً محفوظاً ولا تفشياً سريرياً موثقاً بقياسات حديثة، ولا مشهداً يمكن إعادة بنائه دقيقة بدقيقة. إنه مسألة تاريخية تتشكل من السجلات والروايات المتعاقبة. غرابته تستحق البحث، بينما تحتاج نسخته الدرامية الشائعة إلى تفكيك."
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تسنده السجلات التاريخية؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تصف صفحة تعليمية رسمية رافقت معرض متحف المدينة أشخاصاً يرقصون في الشوارع خلال يوليو 1518، وواقعة امتدت أسابيع عدة. وهذا يسند حدوث اضطراب تاريخي، لا الادعاء بأن مدينة كاملة ظلت ترقص بلا توقف. يلخص العنوان أثر الحدث في ستراسبورغ، لكن الأفراد والفواصل وتبدل الاستجابات أهم من تخيل عرض متصل واحد. [المصدر: pedagogie.ac-strasbourg.fr](https://pedagogie.ac-strasbourg.fr/artsplastiques/toutes-les-actualites/actualite/article/a-voir-1518-la-fievre-de-la-danse-musee-de-loeuvre-notre-dame-du-20-octobre-2018-au-24-f)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تنتمي المرأة التي تسمى غالباً فراو تروفيا إلى سلسلة رواية أكثر تعقيداً. يوضح التحقيق التاريخي لقناة آرتيه أن باراسيلسوس قدم روايته بعد الواقعة، لا بصفته مراقباً حديثاً يقابل أول مريضة. ولا يحول تكرار الاسم كل حكاية مرتبطة به إلى دليل معاصر. وينطبق الحذر نفسه على الحوارات المفصلة والنوايا الشخصية والمشاهد التي يصورها الرواة اللاحقون كأنهم شاهدوها. [المصدر: www.arte.tv](https://www.arte.tv/fr/videos/122554-001-A/danse-mortelle/)"
+      },
+      {
+        "type": "heading",
+        "text": "هل رقص الناس حقاً حتى الموت؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "الوفيات من أكثر جوانب الحادثة خلافاً. تحول روايات شائعة أرقاماً غير يقينية إلى عداد يومي للموت، لكننا لا نملك حصيلة متفقاً عليها ومتحققاً منها بصورة مستقلة لننشرها. والاستنتاج المسؤول أضيق: يحتل الإنهاك والمعاناة مكاناً مركزياً في الرواية التاريخية، بينما تبقى أعداد الوفيات الدقيقة محل خلاف. ولا يسد هذه الفجوة رفض القصة كلها أو إعلان حصيلة مثيرة."
+      },
+      {
+        "type": "heading",
+        "text": "تفسيرات متنافسة بلا تشخيص مؤكد"
+      },
+      {
+        "type": "paragraph",
+        "text": "استعرض بحث تاريخي نشرته مجلة Public Health عام 1997 الأسباب المقترحة لهوس الرقص، من التسمم إلى الشدائد الاجتماعية، وخلص إلى بقاء السبب الدقيق غير واضح. وناقش تفاعل الخلفية الثقافية والظروف الاجتماعية الصعبة بدلاً من سبب واحد مثبت. وهذه قراءة بأثر رجعي، لا نتيجة مختبرية من عام 1518. تسمح الدقة بفحص الفرضية دون الادعاء بتشخيص أشخاص عاشوا قبل قرون. [المصدر: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/9242030/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لذلك يندرج التسمم بالإرغوت وانتقال حالات الغشية اجتماعياً ضمن التفسيرات المتنازع عليها، لا الحكم النهائي. وقد يخفي الوصف المثير أسئلة مختلفة: ما الذي حرك جسد الفرد؟ ولماذا اتسعت الواقعة؟ وكيف فسرها المشاهدون؟ وكيف استجابت السلطة؟ لا تجيب آلية جذابة واحدة عن كل ذلك تلقائياً، ولا تنقل السجلات تجربة المشاركين بدقة الفحص السريري الحديث."
+      },
+      {
+        "type": "heading",
+        "text": "لماذا لا تزال القصة مهمة؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "تطرح قصة ستراسبورغ المقلقة سؤالاً عن طريقة منح المجتمع معنى لمعاناة يعجز عن تفسيرها بسهولة. وتظل مثيرة بعد حذف الحوارات المخترعة وحصائل الموت الدقيقة والتشخيصات الجازمة، بل تصبح أكثر إنسانية. والصورة المقدمة إعادة تصور، وليست دليلاً على الملابس أو الحركات أو هويات المشاركين. إن تفحص الشك هو الفارق بين سؤال تاريخي جذاب وأسطورة يعاد تداولها كحقيقة محسومة."
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [لماذا يدفع الإيقاع الجسم إلى الحركة](/articles/house-music-brain-rhythm-128-bpm-science-dancing/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: pedagogie.ac-strasbourg.fr",
+        "url": "https://pedagogie.ac-strasbourg.fr/artsplastiques/toutes-les-actualites/actualite/article/a-voir-1518-la-fievre-de-la-danse-musee-de-loeuvre-notre-dame-du-20-octobre-2018-au-24-f"
+      },
+      {
+        "label": "المصدر: www.arte.tv",
+        "url": "https://www.arte.tv/fr/videos/122554-001-A/danse-mortelle/"
+      },
+      {
+        "label": "المصدر: pubmed.ncbi.nlm.nih.gov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9242030/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "هل لواقعة الرقص عام 1518 أساس تاريخي؟",
+        "answer": "تسجل مواد تاريخية اضطراباً راقصاً في ستراسبورغ، لكنها لا تثبت كل تفصيل درامي في الروايات اللاحقة."
+      },
+      {
+        "question": "كم شخصاً توفي؟",
+        "answer": "لا توجد حصيلة متفق عليها ومتحقق منها مستقلاً، ولذلك لا ينبغي عرض الأعداد الدقيقة كحقيقة محسومة."
+      },
+      {
+        "question": "هل ثبت أن الإرغوت هو السبب؟",
+        "answer": "لا، فالتسمم والتفسيرات الاجتماعية والثقافية فرضيات متنازع عليها وليست تشخيصاً مؤكداً."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/dancing-plague-1518-strasbourg-history-hypotheses/",
+    "path": "/es/articles/dancing-plague-1518-strasbourg-history-hypotheses/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "LA EPIDEMIA DE BAILE DE 1518: CUANDO ESTRASBURGO NO PODÍA DEJAR DE BAILAR",
+    "seoTitle": "Epidemia de baile de 1518: historia y mitos de Estrasburgo",
+    "description": "¿Qué ocurrió en Estrasburgo en 1518? Los documentos, las muertes discutidas y las hipótesis permiten revisar la célebre epidemia de baile.",
+    "excerpt": "¿Qué ocurrió en Estrasburgo en 1518? Los documentos, las muertes discutidas y las hipótesis permiten revisar la célebre epidemia de baile.",
+    "headlineHighlights": {
+      "red": "EPIDEMIA DE BAILE DE 1518",
+      "gold": "NO PODÍA DEJAR DE BAILAR"
+    },
+    "keywords": [
+      "EPIDEMIA DE BAILE DE 1518",
+      "NO PODÍA DEJAR DE BAILAR"
+    ],
+    "searchIntent": "¿Qué ocurrió en Estrasburgo en 1518? Los documentos, las muertes discutidas y las hipótesis permiten revisar la célebre epidemia de baile.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/dancing-plague-1518-strasbourg-historical-reconstruction.jpg",
+      "alt": "Reconstrucción histórica editorial de personas bailando en una calle inspirada en la Estrasburgo del siglo XVI.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La imagen resulta inolvidable: una calle llena de personas que se mueven como si la música nunca fuera a terminar. Sin embargo, la epidemia de baile de 1518 no es una película conservada ni un brote medido clínicamente. Es un problema histórico reconstruido con documentos y relatos posteriores. Su extrañeza merece investigación; su versión más dramática necesita un examen cuidadoso."
+      },
+      {
+        "type": "heading",
+        "text": "Lo que respaldan los documentos"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una página educativa oficial vinculada a la exposición del museo municipal describe personas bailando en las calles en julio de 1518 y un episodio prolongado durante varias semanas. Esto respalda un trastorno histórico, no la afirmación literal de que toda la ciudad bailó sin descanso. El título resume su impacto en Estrasburgo. Importan más los individuos, los intervalos y las respuestas cambiantes que una actuación continua imaginada. [Fuente: pedagogie.ac-strasbourg.fr](https://pedagogie.ac-strasbourg.fr/artsplastiques/toutes-les-actualites/actualite/article/a-voir-1518-la-fievre-de-la-danse-musee-de-loeuvre-notre-dame-du-20-octobre-2018-au-24-f)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La mujer conocida habitualmente como Frau Troffea pertenece a una transmisión narrativa más compleja. La investigación histórica de ARTE explica que Paracelso formuló su relato después de los hechos, no como un observador moderno entrevistando a una primera paciente. Repetir un nombre no convierte cada anécdota asociada en prueba contemporánea. La cautela también corresponde a los diálogos detallados, los motivos privados y las escenas que después parecen presenciadas directamente. [Fuente: www.arte.tv](https://www.arte.tv/fr/videos/122554-001-A/danse-mortelle/)"
+      },
+      {
+        "type": "heading",
+        "text": "¿Hubo personas que bailaron hasta morir?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las muertes constituyen uno de los aspectos más discutidos. Algunos relatos convierten cifras inciertas en un contador diario, pero no disponemos de un balance consensuado y verificado de forma independiente para publicarlo. La conclusión responsable es más limitada: el agotamiento y el sufrimiento ocupan un lugar central en la narración histórica, mientras las cifras precisas siguen discutidas. Ni descartarlo todo como ficción ni anunciar un balance sensacionalista resuelve esa laguna."
+      },
+      {
+        "type": "heading",
+        "text": "Explicaciones rivales, ningún diagnóstico confirmado"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una revisión histórica publicada en Public Health en 1997 examinó causas propuestas de la manía danzante, desde intoxicaciones hasta adversidad social, y señaló que su etiología exacta seguía sin aclararse. Consideró una combinación de contexto cultural y circunstancias sociales difíciles, no una causa única establecida. Es una interpretación retrospectiva, no un resultado de laboratorio de 1518. Describirla con cuidado permite analizarla sin fingir un diagnóstico de aquellos pacientes. [Fuente: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/9242030/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La intoxicación por cornezuelo y la transmisión social del trance pertenecen, por tanto, al debate, no a un veredicto final. Una etiqueta dramática puede ocultar preguntas distintas: qué movía un cuerpo, por qué se extendió el episodio, cómo lo interpretaron los testigos y cómo respondieron las autoridades. Ningún mecanismo atractivo responde automáticamente a todo. Los documentos tampoco permiten conocer la experiencia de los participantes con la precisión de una evaluación clínica actual."
+      },
+      {
+        "type": "heading",
+        "text": "Por qué la historia sigue importando"
+      },
+      {
+        "type": "paragraph",
+        "text": "El inquietante relato pregunta cómo una comunidad interpreta un sufrimiento que no logra explicar. Su fuerza sobrevive sin diálogos inventados, balances exactos de muertes ni diagnósticos retrospectivos seguros; incluso resulta más humano. La imagen suministrada es una reconstrucción, no una prueba de vestimentas, gestos o identidades. Examinar la incertidumbre no arruina la historia: distingue una pregunta histórica fascinante de una leyenda reciclada como hecho establecido."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [Por qué el ritmo hace mover el cuerpo](/articles/house-music-brain-rhythm-128-bpm-science-dancing/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: pedagogie.ac-strasbourg.fr",
+        "url": "https://pedagogie.ac-strasbourg.fr/artsplastiques/toutes-les-actualites/actualite/article/a-voir-1518-la-fievre-de-la-danse-musee-de-loeuvre-notre-dame-du-20-octobre-2018-au-24-f"
+      },
+      {
+        "label": "Fuente: www.arte.tv",
+        "url": "https://www.arte.tv/fr/videos/122554-001-A/danse-mortelle/"
+      },
+      {
+        "label": "Fuente: pubmed.ncbi.nlm.nih.gov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9242030/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Tiene una base histórica el episodio de 1518?",
+        "answer": "Existen documentos sobre un trastorno danzante en Estrasburgo, sin que ello confirme todos los detalles dramáticos posteriores."
+      },
+      {
+        "question": "¿Cuántas personas murieron?",
+        "answer": "No existe un balance consensuado y verificado independientemente. Las cifras precisas no deben presentarse como definitivas."
+      },
+      {
+        "question": "¿Se confirmó el cornezuelo como causa?",
+        "answer": "No. La intoxicación y las explicaciones sociales o culturales siguen siendo hipótesis debatidas."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/dancing-plague-1518-strasbourg-history-hypotheses/",
+    "path": "/fr/articles/dancing-plague-1518-strasbourg-history-hypotheses/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "L’ÉPIDÉMIE DANSANTE DE 1518 : QUAND STRASBOURG NE POUVAIT PLUS S’ARRÊTER DE DANSER",
+    "seoTitle": "Épidémie dansante de 1518 : faits et récits de Strasbourg",
+    "description": "Que s’est-il passé à Strasbourg en 1518 ? Archives, décès contestés et hypothèses éclairent l’étrange récit de l’épidémie dansante.",
+    "excerpt": "Que s’est-il passé à Strasbourg en 1518 ? Archives, décès contestés et hypothèses éclairent l’étrange récit de l’épidémie dansante.",
+    "headlineHighlights": {
+      "red": "ÉPIDÉMIE DANSANTE DE 1518",
+      "gold": "NE POUVAIT PLUS S’ARRÊTER DE DANSER"
+    },
+    "keywords": [
+      "ÉPIDÉMIE DANSANTE DE 1518",
+      "NE POUVAIT PLUS S’ARRÊTER DE DANSER"
+    ],
+    "searchIntent": "Que s’est-il passé à Strasbourg en 1518 ? Archives, décès contestés et hypothèses éclairent l’étrange récit de l’épidémie dansante.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/dancing-plague-1518-strasbourg-historical-reconstruction.jpg",
+      "alt": "Reconstitution historique éditoriale de personnes dansant dans une rue inspirée de Strasbourg au XVIe siècle.",
+      "width": 1280,
+      "height": 720
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "L’image est inoubliable : une rue remplie de personnes qui bougent comme si la musique ne pouvait jamais s’arrêter. Pourtant, l’épidémie dansante de 1518 n’est ni un film conservé ni une enquête clinique mesurée. C’est un problème historique reconstitué à partir de documents et de récits successifs. Son étrangeté mérite une enquête ; sa version spectaculaire mérite d’être démontée."
+      },
+      {
+        "type": "heading",
+        "text": "Ce que les documents permettent d’affirmer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une page pédagogique officielle accompagnant l’exposition du musée municipal décrit des personnes dansant dans les rues en juillet 1518 et un épisode étalé sur plusieurs semaines. Elle étaye l’existence d’un trouble historique, pas l’idée que toute une ville aurait dansé sans interruption. Notre titre résume l’emprise de l’événement sur Strasbourg. Les individus, les pauses et les réactions successives comptent davantage qu’une performance continue imaginée. [Source: pedagogie.ac-strasbourg.fr](https://pedagogie.ac-strasbourg.fr/artsplastiques/toutes-les-actualites/actualite/article/a-voir-1518-la-fievre-de-la-danse-musee-de-loeuvre-notre-dame-du-20-octobre-2018-au-24-f)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La femme souvent appelée Frau Troffea relève d’une histoire de transmission plus complexe. L’enquête historique d’ARTE rappelle que Paracelse a proposé son récit après les faits, et non comme un observateur moderne interrogeant une première patiente. Répéter un nom ne transforme pas chaque anecdote associée en preuve contemporaine. La prudence vaut aussi pour les conversations détaillées, les intentions privées et les scènes présentées ensuite comme directement observées. [Source: www.arte.tv](https://www.arte.tv/fr/videos/122554-001-A/danse-mortelle/)"
+      },
+      {
+        "type": "heading",
+        "text": "A-t-on réellement dansé jusqu’à la mort ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les décès figurent parmi les éléments les plus contestés de l’épisode. Les récits populaires transforment des chiffres incertains en bilan quotidien, mais nous ne disposons pas d’un total reconnu et vérifié indépendamment à publier. La conclusion responsable est plus limitée : épuisement et souffrance occupent une place centrale dans le récit, tandis que les affirmations précises de mortalité restent discutées. Ni tout rejeter comme une fiction ni annoncer un bilan sensationnel ne comble cette lacune."
+      },
+      {
+        "type": "heading",
+        "text": "Des explications concurrentes, aucun diagnostic confirmé"
+      },
+      {
+        "type": "paragraph",
+        "text": "Une étude historique publiée dans Public Health en 1997 examine les causes proposées de la manie dansante, de l’empoisonnement aux difficultés sociales, et souligne que son étiologie exacte reste inconnue. Elle envisage une combinaison de contexte culturel et de circonstances sociales défavorables plutôt qu’une cause unique établie. Il s’agit d’une interprétation rétrospective, pas d’un résultat de laboratoire obtenu en 1518. Présenter prudemment une hypothèse permet de l’examiner sans prétendre avoir diagnostiqué les personnes concernées. [Source: pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/9242030/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’ergotisme et la transmission sociale d’une transe appartiennent donc au débat, pas à un verdict définitif. Une formule spectaculaire peut masquer des questions différentes : ce qui faisait bouger un corps, pourquoi l’épisode s’étendait, comment les témoins l’interprétaient et comment les autorités réagissaient. Aucun mécanisme séduisant ne répond automatiquement à toutes. Les documents ne restituent pas non plus l’expérience des participants avec la précision d’un examen clinique moderne."
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi ce récit compte encore"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ce récit troublant interroge la manière dont une communauté donne du sens à une détresse difficile à expliquer. Sa force subsiste sans dialogues inventés, totaux précis de décès ou diagnostics rétrospectifs assurés. Il devient même plus humain. Le visuel fourni est une reconstitution, pas une preuve des vêtements, gestes ou identités. Examiner les incertitudes n’est pas décevant : c’est distinguer une question historique passionnante d’une légende répétée comme un fait acquis."
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [Pourquoi un rythme fait bouger le corps](/articles/house-music-brain-rhythm-128-bpm-science-dancing/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: pedagogie.ac-strasbourg.fr",
+        "url": "https://pedagogie.ac-strasbourg.fr/artsplastiques/toutes-les-actualites/actualite/article/a-voir-1518-la-fievre-de-la-danse-musee-de-loeuvre-notre-dame-du-20-octobre-2018-au-24-f"
+      },
+      {
+        "label": "Source: www.arte.tv",
+        "url": "https://www.arte.tv/fr/videos/122554-001-A/danse-mortelle/"
+      },
+      {
+        "label": "Source: pubmed.ncbi.nlm.nih.gov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9242030/"
+      }
+    ],
+    "faq": [
+      {
+        "question": "L’épidémie dansante de 1518 a-t-elle un fondement historique ?",
+        "answer": "Des documents signalent un trouble dansant à Strasbourg, sans confirmer tous les détails dramatiques des récits ultérieurs."
+      },
+      {
+        "question": "Combien de personnes sont mortes ?",
+        "answer": "Il n’existe pas de bilan consensuel vérifié indépendamment. Les chiffres précis ne doivent pas être présentés comme acquis."
+      },
+      {
+        "question": "L’ergot de seigle est-il le responsable confirmé ?",
+        "answer": "Non. L’empoisonnement et les explications sociales ou culturelles restent des hypothèses débattues."
       }
     ]
   },
@@ -202208,6 +203249,393 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/",
+    "path": "/ar/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "ابن بطوطة: المغربي الذي سافر عبر ثلاث قارات",
+    "seoTitle": "ابن بطوطة: الرحالة المغربي وحكاية كتاب الرحلة",
+    "description": "تتبع رحلات ابن بطوطة عبر أفريقيا وآسيا وأوروبا، واكتشف كيف اجتمعت المشاهدة والذاكرة والصياغة الأدبية في رحلته الشهيرة.",
+    "excerpt": "تتبع رحلات ابن بطوطة عبر أفريقيا وآسيا وأوروبا، واكتشف كيف اجتمعت المشاهدة والذاكرة والصياغة الأدبية في رحلته الشهيرة.",
+    "headlineHighlights": {
+      "red": "ابن بطوطة",
+      "gold": "عبر ثلاث قارات"
+    },
+    "keywords": [
+      "ابن بطوطة",
+      "عبر ثلاث قارات"
+    ],
+    "searchIntent": "تتبع رحلات ابن بطوطة عبر أفريقيا وآسيا وأوروبا، واكتشف كيف اجتمعت المشاهدة والذاكرة والصياغة الأدبية في رحلته الشهيرة.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/ibn-battuta-moroccan-traveler-editorial-reconstruction.jpg",
+      "alt": "إعادة تصور تحريرية لابن بطوطة مع خريطة وقافلة وأدوات متخيلة، وليست صورة تاريخية موثقة له.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تبدأ حكاية ابن بطوطة بقصد مألوف لكثير من المسافرين: الوصول إلى وجهة ذات معنى. لكنها اتسعت إلى ما هو أكبر بكثير. حملت رحلات الحاج المغربي صاحبها إلى مجتمعات في أفريقيا وآسيا وأوروبا، وأتاحت روايته للقراء اللاحقين نظرة استثنائية إلى القرن الرابع عشر. ولا تكمن أهميته في الفوز بمسابقة مسافات، بل في بقاء وصف رحالة واسع ومعقد لعوالم الآخرين."
+      },
+      {
+        "type": "heading",
+        "text": "حج فتح الطريق إلى عالم أوسع"
+      },
+      {
+        "type": "paragraph",
+        "text": "ولد ابن بطوطة في طنجة عام 1304، وغادر المغرب في 1325 قاصداً الحج إلى مكة أولاً. ويضع المورد التعليمي لبرنامج ORIAS في بيركلي رحلاته ضمن جغرافيا أوسع للمجتمعات الإسلامية وطرق السفر. وهذا السياق أساسي؛ فلم يتحرك عبر خريطة فارغة، بل بين جماعات ربطها الحج والتبادل والعلم. لقد اعتمد مساره على عالم قائم من العلاقات. [المصدر: orias.berkeley.edu](https://orias.berkeley.edu/node/165)"
+      },
+      {
+        "type": "paragraph",
+        "text": "لم تكن أفريقيا مجرد نقطة انطلاق، كما لم تكن آسيا وجهة واحدة. تصف الرحلة أماكن متنوعة من شمال أفريقيا والجزيرة العربية إلى الهند والمحيط الهندي. وقد تساعد قائمة القارات على تحديد الاتجاه، لكنها تختزل اختلاف الطرق والبيئات السياسية واللقاءات. وفهم السفر هنا يتطلب الاهتمام بالصلات، لا إسقاط الحدود الوطنية الحديثة بصورة مرتبة على رحلة من العصور الوسطى. [المصدر: orias.berkeley.edu](https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا تشمل القارات الثلاث أوروبا؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "شمل مساره اللاحق الأندلس في شبه الجزيرة الإيبيرية. وتناقش مادة بيركلي زيارتيه لمالقة وغرناطة، فتدخل أوروبا في الحكاية الجغرافية إلى جانب أفريقيا وآسيا. ولا يعني ذلك أنه استكشف كل جزء من أي قارة؛ إذ تحول الملخصات الحديثة أحياناً رحلة واسعة إلى ادعاء مستحيل بالشمول. يستطيع الرحالة وصل عوالم مختلفة دون أن يرى كل ما فيها. [المصدر: orias.berkeley.edu](https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/al-andalus-and-morocco-1349-1350)"
+      },
+      {
+        "type": "paragraph",
+        "text": "وتشكل الرحلة إلى مالي جزءاً من حكايته اللاحقة، فتدخل الصحراء وأفريقيا الغربية في سرد يختزل كثيراً في خط يتجه شرقاً من المغرب. إن تذكر هذا الاتساع يغير مركز الخريطة؛ فتظهر أفريقيا فضاء للسفر واللقاء في حد ذاتها، لا مجرد هامش حول وجهات يفترض أنها أهم في سيرة رحالة عالمي. [المصدر: orias.berkeley.edu](https://orias.berkeley.edu/node/176)"
+      },
+      {
+        "type": "heading",
+        "text": "كتاب صيغ بعد السفر"
+      },
+      {
+        "type": "paragraph",
+        "text": "لم يكن الكتاب مجرد يوميات انتقلت دون تغيير من محطة إلى أخرى. تصف مكتبة الكونغرس إعداد رواية السفر برعاية سلطان المغرب أبي عنان فارس، مع صياغة ابن جزي للنص. وتفسر هذه الشراكة ضرورة وضع التأليف والذاكرة إلى جانب الجغرافيا في القصة. فالعمل الباقي مصدر استثنائي، لكن شكله الأدبي جزء من الدليل لا أمراً ينبغي تجاهله. [المصدر: www.loc.gov](https://www.loc.gov/item/2021666192/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تميز مناقشة بيركلي لعملية التأليف بين المشاهدة الشخصية والأخبار المسموعة ومواد مستعارة من رحلات أقدم. ولا يجعل ذلك الكتاب عديم القيمة أو يثبت كذب كل رحلة مختلف عليها، بل يغير طريقة قراءته: بمقارنة الأقوال وفهم التقليد الأدبي وتجنب اعتبار كل فقرة شهادة عيان مستقلة. واحترام رحالة تاريخي لا يستلزم تعليق الأسئلة المعتادة عن المصادر. [المصدر: orias.berkeley.edu](https://orias.berkeley.edu/node/177)"
+      },
+      {
+        "type": "heading",
+        "text": "رحالة عالمي بلا سجل ملاحة حديث"
+      },
+      {
+        "type": "paragraph",
+        "text": "ولهذا تستدعي أرقام المسافات الدقيقة الحذر، لأن المجاميع الحديثة تعتمد على إعادة بناء مسار طويل ومختلف عليه أحياناً. والصورة والخريطة المقدمتان عمل تفسيري لا دليل موثق على ملامحه أو أدواته أو طريق دقيق. ويظل ابن بطوطة جذاباً دون هذه الاختصارات؛ إذ يدعونا إلى رؤية عالم وسيط مترابط من منظور إنساني محدد، ثم التساؤل كيف تحول ذلك المنظور إلى كتاب."
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [تاريخ المغرب عبر السلالات والإمبراطوريات](/articles/morocco-history-dynasties-kingdom-independence/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/node/165"
+      },
+      {
+        "label": "المصدر: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta"
+      },
+      {
+        "label": "المصدر: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/al-andalus-and-morocco-1349-1350"
+      },
+      {
+        "label": "المصدر: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/node/176"
+      },
+      {
+        "label": "المصدر: www.loc.gov",
+        "url": "https://www.loc.gov/item/2021666192/"
+      },
+      {
+        "label": "المصدر: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/node/177"
+      }
+    ],
+    "faq": [
+      {
+        "question": "ما القارات الثلاث التي عبرها ابن بطوطة؟",
+        "answer": "تصل رحلاته وروايته بين أفريقيا وآسيا وأوروبا، بما فيها الأندلس في شبه الجزيرة الإيبيرية."
+      },
+      {
+        "question": "هل الرحلة يوميات كتبت كلها على الطريق؟",
+        "answer": "لا، فقد صيغ النص الباقي بعد السفر بالتعاون مع ابن جزي وبرعاية ملكية مغربية."
+      },
+      {
+        "question": "هل تعد كل واقعة شهادة عيان؟",
+        "answer": "لا؛ يجمع الكتاب الذاكرة والمشاهدة والأخبار المسموعة والمواد الأدبية التي يدرسها المؤرخون نقدياً."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/",
+    "path": "/es/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "IBN BATTUTA: EL MARROQUÍ QUE VIAJÓ POR TRES CONTINENTES",
+    "seoTitle": "Ibn Battuta: el viajero marroquí y la historia de la Rihla",
+    "description": "Sigue los viajes de Ibn Battuta por África, Asia y Europa y descubre cómo la observación, la memoria y la edición dieron forma a su Rihla.",
+    "excerpt": "Sigue los viajes de Ibn Battuta por África, Asia y Europa y descubre cómo la observación, la memoria y la edición dieron forma a su Rihla.",
+    "headlineHighlights": {
+      "red": "IBN BATTUTA",
+      "gold": "POR TRES CONTINENTES"
+    },
+    "keywords": [
+      "IBN BATTUTA",
+      "POR TRES CONTINENTES"
+    ],
+    "searchIntent": "Sigue los viajes de Ibn Battuta por África, Asia y Europa y descubre cómo la observación, la memoria y la edición dieron forma a su Rihla.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/ibn-battuta-moroccan-traveler-editorial-reconstruction.jpg",
+      "alt": "Reconstrucción editorial de Ibn Battuta con un mapa, una caravana e instrumentos imaginados, no un retrato autenticado.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "La historia de Ibn Battuta comienza con una intención familiar: llegar a un destino significativo. Acabó convirtiéndose en algo mucho mayor. Los viajes del peregrino marroquí lo llevaron por sociedades de África, Asia y Europa, y su relato ofreció una mirada extraordinaria al siglo XIV. Su importancia no consiste en ganar una competición de kilómetros, sino en la supervivencia de una narración amplia y compleja sobre los mundos de otras personas."
+      },
+      {
+        "type": "heading",
+        "text": "Una peregrinación abierta a un mundo más amplio"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nacido en Tánger en 1304, Ibn Battuta salió de Marruecos en 1325 con la peregrinación a La Meca como propósito inicial. El recurso educativo ORIAS de Berkeley sitúa sus viajes en una geografía más amplia de sociedades musulmanas y rutas. Ese contexto es esencial: no atravesaba un mapa vacío, sino comunidades conectadas por peregrinaciones, intercambios y saberes. Su recorrido dependía de un mundo de relaciones ya existente. [Fuente: orias.berkeley.edu](https://orias.berkeley.edu/node/165)"
+      },
+      {
+        "type": "paragraph",
+        "text": "África no era solo un punto de partida ni Asia un destino único. La Rihla describe lugares muy diversos, desde el norte de África y Arabia hasta India y el océano Índico. Una lista por continentes ayuda a orientarse, pero aplana las diferencias entre rutas, contextos políticos y encuentros. Comprender sus viajes exige atender a las conexiones, no proyectar ordenadamente fronteras nacionales actuales sobre un recorrido medieval. [Fuente: orias.berkeley.edu](https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué los tres continentes incluyen Europa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Su itinerario posterior incluyó al-Ándalus, en la península ibérica. La explicación de Berkeley aborda sus visitas a Málaga y Granada, incorporando Europa a la historia geográfica junto con África y Asia. No significa que explorara cada rincón de esos continentes. Los resúmenes modernos convierten a veces una trayectoria extensa en una promesa imposible de exhaustividad. Un viajero puede conectar mundos sin verlo todo dentro de ellos. [Fuente: orias.berkeley.edu](https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/al-andalus-and-morocco-1349-1350)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El viaje a Mali también forma parte de su historia posterior. Introduce el Sahara y África occidental en una narración reducida demasiadas veces a una línea hacia el este desde Marruecos. Recordar esa amplitud cambia el centro del mapa. África aparece como espacio de viajes y encuentros por derecho propio, no como margen alrededor de destinos supuestamente más importantes. [Fuente: orias.berkeley.edu](https://orias.berkeley.edu/node/176)"
+      },
+      {
+        "type": "heading",
+        "text": "La Rihla se elaboró después del viaje"
+      },
+      {
+        "type": "paragraph",
+        "text": "El libro no era simplemente un diario transportado intacto de una etapa a otra. La Biblioteca del Congreso describe la elaboración del relato bajo el patrocinio del soberano marroquí Abu Inan Faris, con Ibn Juzayy dando forma a la narración. Esa colaboración sitúa la escritura y la memoria junto a la geografía. La obra conservada es una fuente extraordinaria, pero su forma literaria también pertenece a la evidencia. [Fuente: www.loc.gov](https://www.loc.gov/item/2021666192/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El análisis de Berkeley distingue observación personal, testimonios escuchados y material tomado de relatos anteriores. Eso no vuelve inútil la Rihla ni demuestra que todo itinerario discutido sea falso. Cambia cómo debemos leerla: contrastar afirmaciones, reconocer convenciones literarias y no tratar cada pasaje como testimonio independiente. Respetar a un viajero histórico no obliga a suspender las preguntas habituales sobre las fuentes. [Fuente: orias.berkeley.edu](https://orias.berkeley.edu/node/177)"
+      },
+      {
+        "type": "heading",
+        "text": "Un viajero mundial sin un registro GPS"
+      },
+      {
+        "type": "paragraph",
+        "text": "Por la misma razón, los récords de distancia exigen cautela: las cifras actuales dependen de reconstruir un itinerario largo y a veces debatido. El retrato y el mapa suministrados son interpretativos, no pruebas autenticadas de su rostro, instrumentos o recorrido exacto. Ibn Battuta sigue fascinando sin esos atajos. Su invitación duradera es mirar un mundo medieval conectado desde una perspectiva humana y preguntarse cómo se convirtió en libro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [La historia de Marruecos entre dinastías e imperios](/articles/morocco-history-dynasties-kingdom-independence/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/node/165"
+      },
+      {
+        "label": "Fuente: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta"
+      },
+      {
+        "label": "Fuente: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/al-andalus-and-morocco-1349-1350"
+      },
+      {
+        "label": "Fuente: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/node/176"
+      },
+      {
+        "label": "Fuente: www.loc.gov",
+        "url": "https://www.loc.gov/item/2021666192/"
+      },
+      {
+        "label": "Fuente: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/node/177"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿Cuáles fueron los tres continentes?",
+        "answer": "Sus viajes y su relato conectan África, Asia y Europa, incluido al-Ándalus en la península ibérica."
+      },
+      {
+        "question": "¿La Rihla fue un diario escrito íntegramente durante el viaje?",
+        "answer": "No. La narración conservada se elaboró después con Ibn Juzayy bajo patrocinio real marroquí."
+      },
+      {
+        "question": "¿Cada episodio es un testimonio presencial?",
+        "answer": "No. La obra combina recuerdos, observaciones, noticias escuchadas y materiales literarios sometidos a examen histórico."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/",
+    "path": "/fr/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "IBN BATTÛTA : LE MAROCAIN QUI A VOYAGÉ SUR TROIS CONTINENTS",
+    "seoTitle": "Ibn Battûta : le voyageur marocain et le récit de la Rihla",
+    "description": "Suivez Ibn Battûta en Afrique, en Asie et en Europe, et découvrez comment mémoire, observation et écriture ont façonné sa célèbre Rihla.",
+    "excerpt": "Suivez Ibn Battûta en Afrique, en Asie et en Europe, et découvrez comment mémoire, observation et écriture ont façonné sa célèbre Rihla.",
+    "headlineHighlights": {
+      "red": "IBN BATTÛTA",
+      "gold": "SUR TROIS CONTINENTS"
+    },
+    "keywords": [
+      "IBN BATTÛTA",
+      "SUR TROIS CONTINENTS"
+    ],
+    "searchIntent": "Suivez Ibn Battûta en Afrique, en Asie et en Europe, et découvrez comment mémoire, observation et écriture ont façonné sa célèbre Rihla.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/ibn-battuta-moroccan-traveler-editorial-reconstruction.jpg",
+      "alt": "Reconstitution éditoriale d’Ibn Battûta avec carte, caravane et instruments imaginés, pas un portrait authentifié.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "L’histoire d’Ibn Battûta commence par une intention familière : atteindre une destination qui compte. Elle devient bien plus vaste. Les voyages du pèlerin marocain le conduisent dans des sociétés d’Afrique, d’Asie et d’Europe, et son récit offre aux lecteurs un regard exceptionnel sur le XIVe siècle. Son importance ne se mesure pas à une compétition de kilomètres, mais à la survie d’un témoignage ample et complexe sur les mondes des autres."
+      },
+      {
+        "type": "heading",
+        "text": "Un pèlerinage ouvert sur un monde plus vaste"
+      },
+      {
+        "type": "paragraph",
+        "text": "Né à Tanger en 1304, Ibn Battûta quitte le Maroc en 1325 avec le pèlerinage à La Mecque pour objectif initial. La ressource pédagogique ORIAS de Berkeley replace ses voyages dans la géographie plus large des sociétés musulmanes et de leurs routes. Ce contexte est essentiel : il ne traverse pas une carte vide, mais des communautés liées par le pèlerinage, les échanges et le savoir. Son parcours dépend d’un monde de relations déjà constitué. [Source: orias.berkeley.edu](https://orias.berkeley.edu/node/165)"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’Afrique n’est pas seulement un point de départ, ni l’Asie une destination unique. La Rihla décrit une grande diversité de lieux, de l’Afrique du Nord et de l’Arabie à l’Inde et à l’océan Indien. Une liste par continent aide à se repérer, mais efface les différences entre itinéraires, contextes politiques et rencontres. Comprendre ces voyages suppose d’examiner les liens plutôt que de projeter des frontières nationales modernes sur un parcours médiéval. [Source: orias.berkeley.edu](https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta)"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi les trois continents comprennent l’Europe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Son itinéraire ultérieur comprend al-Andalus, dans la péninsule Ibérique. La présentation de Berkeley évoque ses visites à Málaga et Grenade, inscrivant l’Europe aux côtés de l’Afrique et de l’Asie. Cela ne signifie pas qu’il aurait exploré chaque partie de ces continents. Les résumés modernes transforment parfois un vaste parcours en promesse impossible d’exhaustivité. Un voyageur peut relier des mondes sans tout voir de ce qu’ils contiennent. [Source: orias.berkeley.edu](https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/al-andalus-and-morocco-1349-1350)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le voyage au Mali appartient aussi à la suite du récit. Il inscrit le Sahara et l’Afrique de l’Ouest dans une histoire trop souvent réduite à une ligne allant du Maroc vers l’est. Retrouver cette ampleur déplace le centre de la carte. L’Afrique apparaît comme un espace de déplacements et de rencontres à part entière, pas comme une marge entourant des destinations supposées plus importantes. [Source: orias.berkeley.edu](https://orias.berkeley.edu/node/176)"
+      },
+      {
+        "type": "heading",
+        "text": "La Rihla se construit après le voyage"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le livre n’est pas un journal transporté intact d’étape en étape. La Bibliothèque du Congrès décrit la production du récit sous le patronage du souverain marocain Abou Inan Faris, avec Ibn Juzayy pour sa mise en forme. Cette collaboration place l’écriture et la mémoire aux côtés de la géographie. L’œuvre conservée est une source exceptionnelle, mais sa forme littéraire fait partie des éléments à examiner. [Source: www.loc.gov](https://www.loc.gov/item/2021666192/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La présentation de Berkeley distingue observations personnelles, récits entendus et passages empruntés à des relations antérieures. Cela n’annule pas la valeur de la Rihla et ne prouve pas que tout itinéraire discuté serait faux. Cela indique comment la lire : comparer les affirmations, reconnaître les conventions littéraires et éviter de traiter chaque passage comme un témoignage indépendant. Respecter un voyageur historique n’oblige pas à renoncer aux questions sur les sources. [Source: orias.berkeley.edu](https://orias.berkeley.edu/node/177)"
+      },
+      {
+        "type": "heading",
+        "text": "Un voyageur du monde sans trace GPS"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les records de distance demandent la même prudence : les totaux modernes reposent sur la reconstruction d’un itinéraire long et parfois discuté. Le portrait et la carte fournis sont interprétatifs, pas des preuves authentifiées de son visage, de ses instruments ou d’un trajet précis. Ibn Battûta reste fascinant sans ces raccourcis. Il invite à regarder un monde médiéval connecté à travers une perspective humaine, puis à comprendre comment celle-ci devient un livre."
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [L’histoire du Maroc à travers dynasties et empires](/articles/morocco-history-dynasties-kingdom-independence/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/node/165"
+      },
+      {
+        "label": "Source: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta"
+      },
+      {
+        "label": "Source: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/al-andalus-and-morocco-1349-1350"
+      },
+      {
+        "label": "Source: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/node/176"
+      },
+      {
+        "label": "Source: www.loc.gov",
+        "url": "https://www.loc.gov/item/2021666192/"
+      },
+      {
+        "label": "Source: orias.berkeley.edu",
+        "url": "https://orias.berkeley.edu/node/177"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Quels sont les trois continents concernés ?",
+        "answer": "Ses voyages et son récit relient l’Afrique, l’Asie et l’Europe, notamment al-Andalus dans la péninsule Ibérique."
+      },
+      {
+        "question": "La Rihla est-elle un journal entièrement écrit sur la route ?",
+        "answer": "Non. Le récit conservé a été mis en forme après les voyages avec Ibn Juzayy, sous patronage royal marocain."
+      },
+      {
+        "question": "Chaque épisode constitue-t-il un témoignage direct ?",
+        "answer": "Non. L’œuvre mêle souvenirs, observations, récits entendus et matériaux littéraires que les historiens examinent."
+      }
+    ]
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/illuminati-secret-society-real-history-myth/",
     "path": "/ar/articles/illuminati-secret-society-real-history-myth/",
     "kind": "article",
@@ -302770,6 +304198,357 @@
       "gold": "Crise humanitaire"
     },
     "readingTimeMinutes": 8
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/pamukkale-turkey-white-travertine-terraces-hierapolis/",
+    "path": "/ar/articles/pamukkale-turkey-white-travertine-terraces-hierapolis/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "باموق قلعة: المدرجات البيضاء الاستثنائية في تركيا",
+    "seoTitle": "باموق قلعة: كيف تشكلت مدرجات تركيا البيضاء؟",
+    "description": "اكتشف جيولوجيا مدرجات باموق قلعة البيضاء ومدينة هيرابوليس القديمة، ولماذا يتطلب الحفاظ على هذا الموقع أكثر من صور جميلة.",
+    "excerpt": "اكتشف جيولوجيا مدرجات باموق قلعة البيضاء ومدينة هيرابوليس القديمة، ولماذا يتطلب الحفاظ على هذا الموقع أكثر من صور جميلة.",
+    "headlineHighlights": {
+      "red": "باموق قلعة",
+      "gold": "المدرجات البيضاء الاستثنائية"
+    },
+    "keywords": [
+      "باموق قلعة",
+      "المدرجات البيضاء الاستثنائية"
+    ],
+    "searchIntent": "اكتشف جيولوجيا مدرجات باموق قلعة البيضاء ومدينة هيرابوليس القديمة، ولماذا يتطلب الحفاظ على هذا الموقع أكثر من صور جميلة.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/pamukkale-white-travertine-terraces-turkey-editorial.jpg",
+      "alt": "مشهد تحريري مقدم لمدرجات ترافرتين بيضاء وأحواض فيروزية مستوحاة من باموق قلعة في تركيا.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "تبدو باموق قلعة كأنها مشهد من فصل آخر؛ منحدرات بيضاء تشبه الثلج تحتضن أحواضاً زرقاء. لكن المدرجات صخرية، ولا يزال تشكلها مرتبطاً بالماء المتحرك. ولا يقتصر السؤال المثير على طبيعية المشهد أو جماله، بل يشمل كيف يبني الماء تضاريس كاملة، وكيف عاش الناس بجوارها، وماذا يحدث حين تتحول منظومة جيولوجية متغيرة إلى صورة يتوقع منها الكمال الدائم."
+      },
+      {
+        "type": "heading",
+        "text": "قلعة القطن مصنوعة من الترافرتين"
+      },
+      {
+        "type": "paragraph",
+        "text": "يعد الاتحاد الدولي للعلوم الجيولوجية باموق قلعة في دنيزلي موقعاً بارزاً للترافرتين يرتبط بالفوالق النشطة والمياه الحرارية الجوفية. ويعني اسمها التركي قلعة القطن. أما البياض فليس ثلجاً أو ملح طعام أو طلاء؛ إذ يبني المشهد تراكم رواسب كربوناتية. وفهمه كعملية بناء لا كجسم جامد يجعل المدرجات أكثر إثارة، لأن الماء والصخر لا يفهم أحدهما بمعزل عن الآخر. [المصدر: iugs-geoheritage.org](https://iugs-geoheritage.org/geoheritage_sites/pamukkale-travertines/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تقدم كيمياء الترافرتين تفسيراً مفيداً؛ إذ يستطيع الماء الغني بثاني أكسيد الكربون حمل مواد كربوناتية مذابة، ثم يترسب كربونات الكالسيوم عندما تتبدل الظروف السطحية ويتحرر الغاز. تصف هيئة المسح الجيولوجي الأمريكية هذه الآلية في ينابيع ماموث بيلوستون. وهذه مقارنة في الترسيب الكربوناتي، لا ادعاء بأن باموق قلعة تشترك مع يلوستون في النظام البركاني كله؛ فتشابه المدرجات لا يعني تطابق تاريخها الجيولوجي. [المصدر: www.usgs.gov](https://www.usgs.gov/observatories/yvo/news/outlier-yellowstones-thermal-areas-travertine-mammoth-hot-springs)"
+      },
+      {
+        "type": "heading",
+        "text": "المدينة القديمة فوق الأحواض"
+      },
+      {
+        "type": "paragraph",
+        "text": "ليس اسم موقع التراث العالمي هيرابوليس وباموق قلعة مصادفة. فالمنظمة تعترف بالصلة بين المدرجات الطبيعية والمدينة الأثرية، بدلاً من التعامل مع الآثار كزينة اختيارية. وأدرج الموقع عام 1988 ضمن التراث المختلط الثقافي والطبيعي. لذلك تتجاوز جاذبيته صورة الاستحمام؛ فالماء والاستيطان والآثار المعمارية أجزاء من مشهد مترابط. [المصدر: whc.unesco.org](https://whc.unesco.org/en/list/485/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "تعرض البوابة الثقافية التركية المسرح والجبانة والبوابات والحمامات وغيرها من بقايا هيرابوليس. وتتيح هذه المعالم زوايا مختلفة للفهم؛ فالمدينة تحتاج طرقاً وفضاءات عامة وأماكن للموتى، لا منظراً مدهشاً فحسب. ودون اختراع تجربة زائر قديم معين، نستطيع إدراك تعدد الأنشطة البشرية التي احتواها المكان. فالمنحدر الأبيض ليس القصة التاريخية كلها. [المصدر: kulturportali.gov.tr](https://kulturportali.gov.tr/portal/pamukkalehierapolis)"
+      },
+      {
+        "type": "heading",
+        "text": "لماذا لا تصلح الصورة المثالية معياراً؟"
+      },
+      {
+        "type": "paragraph",
+        "text": "لا يعد الموقع الجيولوجي الحي بترتيب ثابت لأحواض ممتلئة وألوان متطابقة ودخول متاح دائماً. تسجل الصورة حالة معينة للضوء والماء وزاوية النظر. والمشهد المقدم تحريري، وليس تقريراً مباشراً أو ضماناً لامتلاء أحواض بعينها. إن التعامل مع البطاقة المصورة كعقد مع الطبيعة يجعل التغير العادي يبدو فشلاً، بينما يحوله فهم العملية إلى جزء من الجاذبية."
+      },
+      {
+        "type": "heading",
+        "text": "الحفاظ على الموقع جزء من التجربة"
+      },
+      {
+        "type": "paragraph",
+        "text": "ينبغي فهم المدرجات بوصفها تراثاً لا ديكوراً قابلاً للاستبدال بلا حدود. تتناول مادة اليونسكو تنظيم مسارات الزوار والعلاقة بين الحماية والسياحة. وعند الزيارة، تؤخذ تعليمات الدخول الحالية من إدارة الموقع، لا من صورة قديمة أو منشور اجتماعي. ولا يعد هذا المقال بمواعيد أو بإتاحة كل حوض. وقد يعني التأمل الجيد قبول المسار المحدد لحماية مكان هش."
+      },
+      {
+        "type": "paragraph",
+        "text": "اقرأ أيضاً: [حكاية مدينة المغرب الزرقاء](/articles/chefchaouen-story-morocco-blue-city/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "المصدر: iugs-geoheritage.org",
+        "url": "https://iugs-geoheritage.org/geoheritage_sites/pamukkale-travertines/"
+      },
+      {
+        "label": "المصدر: www.usgs.gov",
+        "url": "https://www.usgs.gov/observatories/yvo/news/outlier-yellowstones-thermal-areas-travertine-mammoth-hot-springs"
+      },
+      {
+        "label": "المصدر: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/485/"
+      },
+      {
+        "label": "المصدر: kulturportali.gov.tr",
+        "url": "https://kulturportali.gov.tr/portal/pamukkalehierapolis"
+      }
+    ],
+    "faq": [
+      {
+        "question": "مم تتكون المدرجات البيضاء؟",
+        "answer": "من الترافرتين، وهو صخر من كربونات الكالسيوم ترسبه مياه غنية بالمعادن، وليس من الثلج أو ملح الطعام."
+      },
+      {
+        "question": "هل هيرابوليس جزء من الموقع نفسه؟",
+        "answer": "نعم، هيرابوليس وباموق قلعة موقع تراث عالمي مختلط ثقافي وطبيعي أدرجته اليونسكو عام 1988."
+      },
+      {
+        "question": "هل ستبدو كل الأحواض مثل الصورة؟",
+        "answer": "لا؛ فالصورة التحريرية لا تضمن مستويات المياه أو الألوان أو الإتاحة الحالية. اتبع تعليمات إدارة الموقع."
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/pamukkale-turkey-white-travertine-terraces-hierapolis/",
+    "path": "/es/articles/pamukkale-turkey-white-travertine-terraces-hierapolis/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "PAMUKKALE: LAS EXTRAORDINARIAS TERRAZAS BLANCAS DE TURQUÍA",
+    "seoTitle": "Pamukkale: cómo se formaron sus terrazas blancas",
+    "description": "Explora la geología de Pamukkale, la antigua ciudad de Hierápolis y la conservación de sus terrazas blancas y aguas termales.",
+    "excerpt": "Explora la geología de Pamukkale, la antigua ciudad de Hierápolis y la conservación de sus terrazas blancas y aguas termales.",
+    "headlineHighlights": {
+      "red": "PAMUKKALE",
+      "gold": "EXTRAORDINARIAS TERRAZAS BLANCAS"
+    },
+    "keywords": [
+      "PAMUKKALE",
+      "EXTRAORDINARIAS TERRAZAS BLANCAS"
+    ],
+    "searchIntent": "Explora la geología de Pamukkale, la antigua ciudad de Hierápolis y la conservación de sus terrazas blancas y aguas termales.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/pamukkale-white-travertine-terraces-turkey-editorial.jpg",
+      "alt": "Vista editorial suministrada de terrazas blancas y piscinas turquesas inspiradas en Pamukkale, Turquía.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Pamukkale parece un paisaje de otra estación: laderas blancas semejantes a nieve que contienen estanques azules. Sin embargo, las terrazas son de piedra y su formación sigue vinculada al agua en movimiento. La pregunta fascinante va más allá de su belleza: cómo construye el agua un paisaje, cómo han vivido las personas junto a él y qué sucede cuando se espera que un sistema geológico cambiante conserve una imagen perfecta."
+      },
+      {
+        "type": "heading",
+        "text": "El castillo de algodón está hecho de travertino"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Unión Internacional de Ciencias Geológicas identifica Pamukkale, en Denizli, como un lugar excepcional de travertino asociado a fallas activas y aguas geotermales. Su nombre turco significa castillo de algodón. El blanco no es nieve, sal de mesa ni pintura: el paisaje se construye con depósitos carbonatados. Entenderlo como un proceso, no como un objeto inmóvil, hace las terrazas más interesantes, porque el agua y la roca son inseparables. [Fuente: iugs-geoheritage.org](https://iugs-geoheritage.org/geoheritage_sites/pamukkale-travertines/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La química del travertino ofrece una explicación útil. El agua rica en dióxido de carbono puede transportar carbonatos disueltos; al cambiar las condiciones en superficie y escapar el gas, puede precipitar carbonato de calcio. El Servicio Geológico de Estados Unidos describe este mecanismo en Mammoth Hot Springs, Yellowstone. Es una comparación de deposición carbonatada, no la afirmación de que Pamukkale comparte todo su sistema volcánico. Terrazas similares no exigen historias geológicas idénticas. [Fuente: www.usgs.gov](https://www.usgs.gov/observatories/yvo/news/outlier-yellowstones-thermal-areas-travertine-mammoth-hot-springs)"
+      },
+      {
+        "type": "heading",
+        "text": "La ciudad antigua sobre las piscinas"
+      },
+      {
+        "type": "paragraph",
+        "text": "El bien del Patrimonio Mundial se llama Hierápolis-Pamukkale por una razón. La UNESCO reconoce la relación entre las terrazas naturales y la ciudad arqueológica, sin tratar las ruinas como decoración opcional. Se inscribió en 1988 como sitio mixto, cultural y natural. Su interés supera la fotografía de un baño: agua, poblamiento y restos monumentales forman un paisaje conectado. [Fuente: whc.unesco.org](https://whc.unesco.org/en/list/485/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "El portal cultural turco identifica el teatro, la necrópolis, las puertas, los baños y otros restos de Hierápolis. Invitan a mirar de otro modo: una ciudad necesita recorridos, espacios públicos y lugares para sus muertos, además de una vista impresionante. Sin inventar la experiencia de un visitante antiguo concreto, podemos reconocer las muchas actividades humanas de este paisaje. La ladera blanca no resume toda su historia. [Fuente: kulturportali.gov.tr](https://kulturportali.gov.tr/portal/pamukkalehierapolis)"
+      },
+      {
+        "type": "heading",
+        "text": "Por qué una fotografía perfecta es una mala expectativa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un lugar geológico vivo no promete estanques siempre llenos, colores idénticos ni acceso ininterrumpido. Una fotografía reúne un momento de luz, agua y perspectiva. La imagen suministrada es editorial, no un informe de condiciones actuales ni una garantía de piscinas llenas. Tratar la postal como un contrato con la naturaleza convierte la variación normal en decepción. Comprender el proceso la convierte en parte del atractivo."
+      },
+      {
+        "type": "heading",
+        "text": "La conservación forma parte de la experiencia"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las terrazas son patrimonio, no un decorado infinitamente reemplazable. La presentación de la UNESCO aborda los recorridos de visitantes y la relación entre protección y turismo. Para una visita, las instrucciones actuales corresponden a las autoridades del lugar, no a una fotografía antigua o una publicación social. Este artículo no promete horarios ni acceso a todas las piscinas. Mirar con atención puede exigir aceptar el recorrido previsto para un espacio frágil."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lectura relacionada: [La historia de la ciudad azul de Marruecos](/articles/chefchaouen-story-morocco-blue-city/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fuente: iugs-geoheritage.org",
+        "url": "https://iugs-geoheritage.org/geoheritage_sites/pamukkale-travertines/"
+      },
+      {
+        "label": "Fuente: www.usgs.gov",
+        "url": "https://www.usgs.gov/observatories/yvo/news/outlier-yellowstones-thermal-areas-travertine-mammoth-hot-springs"
+      },
+      {
+        "label": "Fuente: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/485/"
+      },
+      {
+        "label": "Fuente: kulturportali.gov.tr",
+        "url": "https://kulturportali.gov.tr/portal/pamukkalehierapolis"
+      }
+    ],
+    "faq": [
+      {
+        "question": "¿De qué están hechas las terrazas blancas?",
+        "answer": "De travertino, una roca de carbonato de calcio depositada por agua mineralizada, no de nieve ni sal de mesa."
+      },
+      {
+        "question": "¿Hierápolis forma parte del mismo sitio?",
+        "answer": "Sí. Hierápolis-Pamukkale es un bien mixto cultural y natural inscrito por la UNESCO en 1988."
+      },
+      {
+        "question": "¿Todas las piscinas se verán como en la imagen?",
+        "answer": "No. La imagen editorial no garantiza niveles de agua, colores ni accesos actuales. Sigue las indicaciones del lugar."
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/pamukkale-turkey-white-travertine-terraces-hierapolis/",
+    "path": "/fr/articles/pamukkale-turkey-white-travertine-terraces-hierapolis/",
+    "kind": "article",
+    "status": "published",
+    "review": {
+      "reviewer": "Codex source and terminology review",
+      "reviewedAt": "2026-11-03",
+      "terminologyChecked": true
+    },
+    "title": "PAMUKKALE : LES EXTRAORDINAIRES TERRASSES BLANCHES DE TURQUIE",
+    "seoTitle": "Pamukkale : comment se forment les terrasses blanches",
+    "description": "Découvrez la géologie des terrasses de Pamukkale, la cité antique de Hiérapolis et les enjeux de préservation de ce patrimoine turc.",
+    "excerpt": "Découvrez la géologie des terrasses de Pamukkale, la cité antique de Hiérapolis et les enjeux de préservation de ce patrimoine turc.",
+    "headlineHighlights": {
+      "red": "PAMUKKALE",
+      "gold": "EXTRAORDINAIRES TERRASSES BLANCHES"
+    },
+    "keywords": [
+      "PAMUKKALE",
+      "EXTRAORDINAIRES TERRASSES BLANCHES"
+    ],
+    "searchIntent": "Découvrez la géologie des terrasses de Pamukkale, la cité antique de Hiérapolis et les enjeux de préservation de ce patrimoine turc.",
+    "category": "World",
+    "author": "PRESDA Editorial",
+    "publishedAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "image": {
+      "src": "/articles/pamukkale-white-travertine-terraces-turkey-editorial.jpg",
+      "alt": "Vue éditoriale fournie de terrasses blanches et de bassins turquoise inspirés de Pamukkale, en Turquie.",
+      "width": 1280,
+      "height": 721
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Pamukkale semble appartenir à une autre saison : des pentes blanches évoquant la neige retiennent des bassins bleus. Pourtant, les terrasses sont faites de pierre, et leur formation reste liée à l’eau en mouvement. La question passionnante dépasse leur beauté naturelle : comment l’eau construit-elle un paysage, comment les humains y vivent-ils et que devient un système géologique changeant lorsqu’on attend de son image une perfection immuable ?"
+      },
+      {
+        "type": "heading",
+        "text": "Le château de coton est en travertin"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’Union internationale des sciences géologiques présente Pamukkale, à Denizli, comme un site remarquable de travertin associé aux failles actives et aux eaux géothermales. Son nom turc signifie château de coton. Le blanc n’est ni de la neige, ni du sel de table, ni une peinture : le paysage se construit avec des dépôts carbonatés. Le considérer comme un processus plutôt que comme un objet figé rend les terrasses plus intéressantes, car l’eau et la roche sont inséparables. [Source: iugs-geoheritage.org](https://iugs-geoheritage.org/geoheritage_sites/pamukkale-travertines/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "La chimie du travertin fournit une explication utile. Une eau chargée en dioxyde de carbone peut transporter des carbonates dissous ; lorsque les conditions changent en surface et que le gaz s’échappe, le carbonate de calcium peut précipiter. L’US Geological Survey décrit ce mécanisme à Mammoth Hot Springs, à Yellowstone. C’est une comparaison de dépôt carbonaté, pas l’affirmation que Pamukkale possède le même système volcanique. Des terrasses semblables n’impliquent pas des histoires géologiques identiques. [Source: www.usgs.gov](https://www.usgs.gov/observatories/yvo/news/outlier-yellowstones-thermal-areas-travertine-mammoth-hot-springs)"
+      },
+      {
+        "type": "heading",
+        "text": "La cité antique au-dessus des bassins"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le bien du patrimoine mondial s’appelle Hiérapolis-Pamukkale pour une raison. L’UNESCO reconnaît la relation entre les terrasses naturelles et la cité archéologique, sans réduire les ruines à un décor facultatif. Le site a été inscrit en 1988 comme bien mixte, culturel et naturel. Son intérêt dépasse donc la photographie d’une baignade : eau, peuplement et vestiges monumentaux composent un paysage lié. [Source: whc.unesco.org](https://whc.unesco.org/en/list/485/)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le portail culturel turc présente le théâtre, la nécropole, les portes, les bains et d’autres vestiges de Hiérapolis. Ils invitent à changer de regard : une ville possède des circulations, des espaces publics et des lieux pour les morts, pas seulement un panorama. Sans inventer l’expérience d’un visiteur antique particulier, on peut reconnaître la diversité des activités humaines abritées par ce paysage. La pente blanche ne résume pas toute son histoire. [Source: kulturportali.gov.tr](https://kulturportali.gov.tr/portal/pamukkalehierapolis)"
+      },
+      {
+        "type": "heading",
+        "text": "Pourquoi une photo parfaite n’est pas la bonne attente"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un site géologique vivant ne promet pas des bassins toujours remplis, des couleurs identiques et un accès ininterrompu. Une photographie associe un éclairage, de l’eau et un point de vue. Le visuel fourni est éditorial, pas un bulletin des conditions actuelles ni une garantie de remplissage. Traiter la carte postale comme un contrat avec la nature transforme la variation ordinaire en déception. Comprendre le processus en fait au contraire une part de l’intérêt."
+      },
+      {
+        "type": "heading",
+        "text": "La préservation fait partie de l’expérience"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les terrasses relèvent du patrimoine, pas d’un décor remplaçable à l’infini. La présentation de l’UNESCO inclut les parcours des visiteurs et l’articulation entre protection et tourisme. Pour une visite, les consignes actuelles viennent des gestionnaires, non d’une vieille photo ou d’une publication sociale. Cet article ne promet ni horaires ni accès à chaque bassin. Bien regarder suppose parfois d’accepter le parcours prévu pour un lieu fragile."
+      },
+      {
+        "type": "paragraph",
+        "text": "À lire également: [L’histoire de la ville bleue du Maroc](/articles/chefchaouen-story-morocco-blue-city/)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Source: iugs-geoheritage.org",
+        "url": "https://iugs-geoheritage.org/geoheritage_sites/pamukkale-travertines/"
+      },
+      {
+        "label": "Source: www.usgs.gov",
+        "url": "https://www.usgs.gov/observatories/yvo/news/outlier-yellowstones-thermal-areas-travertine-mammoth-hot-springs"
+      },
+      {
+        "label": "Source: whc.unesco.org",
+        "url": "https://whc.unesco.org/en/list/485/"
+      },
+      {
+        "label": "Source: kulturportali.gov.tr",
+        "url": "https://kulturportali.gov.tr/portal/pamukkalehierapolis"
+      }
+    ],
+    "faq": [
+      {
+        "question": "De quoi sont faites les terrasses blanches ?",
+        "answer": "De travertin, une roche de carbonate de calcium déposée par l’eau minéralisée, et non de neige ou de sel de table."
+      },
+      {
+        "question": "Hiérapolis appartient-elle au même site ?",
+        "answer": "Oui. Hiérapolis-Pamukkale est un bien mixte culturel et naturel inscrit à l’UNESCO en 1988."
+      },
+      {
+        "question": "Tous les bassins ressemblent-ils au visuel ?",
+        "answer": "Non. Une image éditoriale ne garantit ni niveaux d’eau, ni couleurs, ni accès actuels. Suivez les consignes du site."
+      }
+    ]
   },
   {
     "locale": "ar",

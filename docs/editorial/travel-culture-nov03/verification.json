@@ -1,0 +1,36 @@
+{
+  "localViewportChecks": 140,
+  "languages": [
+    "en",
+    "fr",
+    "ar",
+    "es"
+  ],
+  "widths": [
+    320,
+    390,
+    768,
+    844,
+    1024,
+    1366,
+    1920
+  ],
+  "editions": 20,
+  "visualReview": "All ten EN/FR/AR/ES desktop/mobile contact sheets plus two Bruno comparisons reviewed",
+  "originalJpegs": "Five supplied images copied byte for byte; SHA-256 verified",
+  "seo": "Canonical, hreflang, Article/ImageObject, FAQ, internal links, robots, article-specific social images and sitemap mappings passed",
+  "globalSocialCheck": "1548 server-rendered editions; 387 JPEG assets decoded",
+  "existingContentBaseline": {
+    "baselineCommit": "d6d5be629b26b751200b54c73130e95916a4ab3a",
+    "existingArticles": 382,
+    "preservedExistingRights": true,
+    "preservedRecords": {
+      "src/data/localizations/articles.generated.json": 1134,
+      "src/data/translation-routes.json": 1146
+    },
+    "preservedImageDimensions": 443,
+    "localizedAdditions": 15,
+    "imageAdditions": 5
+  },
+  "localBuild": "Production build passed with local disk caching disabled after a full-disk recovery; production configuration restored"
+}
