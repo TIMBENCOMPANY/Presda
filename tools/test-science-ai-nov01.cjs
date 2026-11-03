@@ -1,3 +1,4 @@
+const {articleSocialImage}=require('../src/lib/articleSocialImage.ts');
 const fs=require('fs'),assert=require('assert/strict'),crypto=require('crypto');
 require('./register-typescript.cjs');
 const {scienceAiNov01Articles:articles}=require('../src/data/scienceAiNov01Articles.ts');
@@ -43,8 +44,8 @@ try{
   assert.equal(d.lang,l);if(l==='ar')assert.equal(d.dir,'rtl');assert(!d.overflow);assert.equal(d.canonical,canonical);assert(!/noindex|nofollow/.test(d.robots));assert(d.robots.includes('max-image-preview:large'));
   assert.equal(await page.locator('h1').count(),1);assert.equal(await page.locator('h1').textContent(),ed.title);assert((await page.title()).includes(ed.seoTitle));assert.equal(d.description,ed.metaDescription||ed.description);
   for(const lang of [...langs,'x-default'])assert(d.alternates.some(x=>x[0]===lang&&x[1]==='https://presda.com'+(lang==='en'||lang==='x-default'?'':'/'+lang)+'/articles/'+a.slug+'/'));
-  const schema=d.schema.find(x=>x['@type']===a.schemaType);assert(schema);assert.equal(schema.headline,ed.title);assert.equal(schema.inLanguage,l);assert.equal(schema.image.creditText,'AI-generated editorial illustration supplied for PRESDA');assert.equal(schema.image.creator,undefined);assert.equal(schema.image.license,undefined);assert.equal(schema.image.mainEntityOfPage,canonical);assert.equal(schema.image.contentUrl,d.og);assert.equal(schema.mainEntityOfPage.url,canonical);assert.deepEqual(schema.citation,a.references.map(r=>r.url));assert(d.schema.some(x=>x['@type']==='BreadcrumbList'));
-  assert.equal(d.og,articleImageUrl(a.coverImage));assert.equal(d.twitter,d.og);assert.equal(d.alt,l==='en'?a.coverAlt:ed.image.alt);
+  const schema=d.schema.find(x=>x['@type']===a.schemaType);assert(schema);assert.equal(schema.headline,ed.title);assert.equal(schema.inLanguage,l);assert.equal(schema.image.creditText,'AI-generated editorial illustration supplied for PRESDA');assert.equal(schema.image.creator,undefined);assert.equal(schema.image.license,undefined);assert.equal(schema.image.mainEntityOfPage,canonical);assert.equal(schema.image.contentUrl,articleImageUrl(a.coverImage));assert.equal(schema.mainEntityOfPage.url,canonical);assert.deepEqual(schema.citation,a.references.map(r=>r.url));assert(d.schema.some(x=>x['@type']==='BreadcrumbList'));
+  assert.equal(d.og,articleSocialImage(a.coverImage,a.coverAlt).url);assert.equal(d.twitter,d.og);assert.equal(d.alt,l==='en'?a.coverAlt:ed.image.alt);
   assert.equal(await page.locator('[data-science-ai-nov01-hero-caption]').textContent(),captions[a.slug][l]);
   const faqs=ed.faq||a.faq;for(const f of faqs){assert(await page.getByText(f.question,{exact:true}).count());}
   assert(await page.locator('h1 span').count()>=2,'White/red/gold editorial headline');

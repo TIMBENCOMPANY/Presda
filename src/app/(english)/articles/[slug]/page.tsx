@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { articleImageUrl } from "@/lib/articleImageSeo";
+import { articleSocialImage } from "@/lib/articleSocialImage";
 import { getLanguageAlternates } from "@/lib/i18n/registry";
 import { notFound } from "next/navigation";
 import { ArticleLayout } from "@/components/ArticleLayout";
@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   const url = getArticleCanonicalUrl(article.slug);
-  const image = articleImageUrl(article.coverImage);
+  const image = articleSocialImage(article.coverImage, article.coverAlt);
   const authorUrl = `${siteUrl}/authors/${toAuthorSlug(article.author)}/`;
   const metadataTitle = article.seoTitle ?? article.title;
   const metadataDescription = article.metaDescription ?? article.excerpt;
@@ -62,12 +62,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       authors: [authorUrl],
       publishedTime: article.date,
       modifiedTime: getArticleLastUpdated(article),
-      images: [
-        {
-          url: image,
-          alt: article.coverAlt
-        }
-      ]
+      images: [image]
     },
     twitter: {
       card: "summary_large_image",

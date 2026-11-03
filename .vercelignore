@@ -17,3 +17,5 @@ tsconfig.tsbuildinfo
 # Recreated deterministically before every build.
 public/image-assets/
 src/lib/image-manifest.generated.json
+public/social-images/
+src/lib/social-image-manifest.generated.json

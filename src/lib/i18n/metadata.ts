@@ -1,5 +1,6 @@
 import { discoveryRobots } from "@/lib/seo";
-import { articleImageUrl, articleImageJsonLd, articleImagePage } from "@/lib/articleImageSeo";
+import { articleImageJsonLd, articleImagePage } from "@/lib/articleImageSeo";
+import { articleSocialImage } from "@/lib/articleSocialImage";
 import { getAuthorSchemaType, toAuthorSlug } from "@/lib/authors";
 import { getArticleBySlug } from "@/data/articles";
 import { getArticleSchemaType } from "@/lib/articleSeo";
@@ -11,7 +12,13 @@ import { localizedCategories } from "./messages";
 const ogLocales = { ar: "ar_AR", fr: "fr_FR", es: "es_ES" };
 export function translationMetadata(record: Translation): Metadata {
   const url = `https://presda.com${record.path}`;
-  const images = record.image ? [{ url: record.kind === "article" ? articleImageUrl(record.image.src) : `https://presda.com${record.image.src}`, alt: record.image.alt }] : [];
+  const source = record.kind === "article" && !record.image
+    ? getArticleBySlug(record.englishPath.split("/").filter(Boolean).at(-1)!) : undefined;
+  const hero = record.image ?? (source ? { src: source.coverImage, alt: source.coverAlt } : undefined);
+  if (record.kind === "article" && !hero) throw new Error(`Missing article hero: ${record.path}`);
+  const images = hero ? [record.kind === "article"
+    ? articleSocialImage(hero.src, hero.alt)
+    : { url: `https://presda.com${hero.src}`, alt: hero.alt }] : [];
   return {
     title: { absolute: record.seoTitle.endsWith(" | PRESDA") ? record.seoTitle : `${record.seoTitle} | PRESDA` },
     description: record.description,

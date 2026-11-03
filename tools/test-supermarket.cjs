@@ -1,3 +1,4 @@
+const {articleSocialImage}=require('../src/lib/articleSocialImage.ts');
 const fs = require('fs'), assert = require('assert/strict'), crypto = require('crypto');
 require('./register-typescript.cjs');
 const { supermarketArticle: a } = require('../src/data/supermarketArticle.ts');
@@ -32,7 +33,7 @@ assert(!/\u2014|--|&mdash;/.test(JSON.stringify(a)));
       for(const loc of langs) assert(d.alternates.some(x=>x[0]===loc && x[1]==='https://presda.com'+(loc==='en'?'':'/'+loc)+'/articles/'+a.slug+'/'));
       const schema = d.schema.find(x=>x['@type']==='Article');
       assert(schema); assert.equal(schema.headline,ed.title); assert.equal(schema.inLanguage,l); assert.deepEqual(schema.citation,a.references.map(r=>r.url));
-      assert.equal(d.description,ed.metaDescription||ed.description); assert((await p.title()).includes(ed.seoTitle)); assert.equal(d.og,articleImageUrl(a.coverImage));
+      assert.equal(d.description,ed.metaDescription||ed.description); assert((await p.title()).includes(ed.seoTitle)); assert.equal(d.og,articleSocialImage(a.coverImage,a.coverAlt).url);
       assert.equal(d.heroAlt,l==='en'?a.coverAlt:ed.image.alt);
       assert(await p.locator('[data-supermarket-hero-caption]').isVisible());
       if(width>=1024){assert(d.hero.bottom<=height);assert(d.title.y>=d.hero.y && d.meta.bottom<d.hero.bottom);}
