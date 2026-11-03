@@ -1,0 +1,109 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/qr-code-history-simple-square-digital-world/",
+  "path": "/fr/articles/qr-code-history-simple-square-digital-world/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-04",
+    "terminologyChecked": true
+  },
+  "title": "LE QR CODE : COMMENT UN SIMPLE CARRÉ A CHANGÉ LE MONDE NUMÉRIQUE",
+  "seoTitle": "L’histoire du QR code : de l’usine à la vie quotidienne",
+  "description": "Découvrez le QR code créé en 1994 chez DENSO, ses repères de lecture et la manière dont cet outil industriel est devenu une interface du quotidien.",
+  "excerpt": "Découvrez le QR code créé en 1994 chez DENSO, ses repères de lecture et la manière dont cet outil industriel est devenu une interface du quotidien.",
+  "headlineHighlights": {
+    "red": "QR CODE",
+    "gold": "CHANGÉ LE MONDE NUMÉRIQUE"
+  },
+  "keywords": [
+    "QR CODE",
+    "CHANGÉ LE MONDE NUMÉRIQUE"
+  ],
+  "searchIntent": "Découvrez le QR code créé en 1994 chez DENSO, ses repères de lecture et la manière dont cet outil industriel est devenu une interface du quotidien.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "image": {
+    "src": "/articles/qr-code-history-phone-scanning-editorial.jpg",
+    "alt": "Composition éditoriale conceptuelle montrant un téléphone devant un motif de type QR et un portrait historique imaginaire d’ingénieur.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une caméra rencontre un carré et un objet physique devient une porte numérique. Un menu, un billet ou une pièce sur une chaîne de production peut porter la même invitation : lire ce motif pour obtenir une information. Le QR code semble né avec le smartphone. Il vient pourtant d’un problème industriel moins spectaculaire, mais décisif : faire circuler l’information efficacement."
+    },
+    {
+      "type": "heading",
+      "text": "Le problème industriel derrière le carré"
+    },
+    {
+      "type": "paragraph",
+      "text": "DENSO date l’invention de 1994, en réponse au besoin de gérer plus efficacement les informations de production. Les codes-barres linéaires étaient utiles, mais l’équipe recherchait davantage de capacité et une lecture plus rapide. Il s’agissait d’améliorer un outil industriel, pas de concevoir des menus de restaurant ou des enregistrements sanitaires. Ces usages ultérieurs expliquent sa visibilité, pas sa création. [Source: www.denso-wave.com](https://www.denso-wave.com/en/adcd/info/detail__190808_01.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Masahiro Hara et un travail d’équipe"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’histoire publiée par DENSO WAVE présente Masahiro Hara comme le responsable de l’équipe de développement. QR signifie Quick Response. Contrairement au code-barres unidimensionnel, le système stocke des informations dans deux directions. Ses repères visuels aident le lecteur à localiser et orienter le symbole. Capacité et reconnaissance doivent fonctionner ensemble : une information devient peu utile si elle reste difficile à trouver et à décoder. [Source: www.qrcode.com](https://www.qrcode.com/en/history/)"
+    },
+    {
+      "type": "heading",
+      "text": "Pourquoi un petit dommage peut être toléré"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les QR codes ajoutent aux données une correction d’erreurs Reed-Solomon. Plusieurs niveaux permettent d’arbitrer entre récupération et quantité d’information dans un symbole de taille donnée. Cela ne signifie pas que toute zone peut être masquée sans conséquence : étendue et emplacement des dommages, qualité d’impression et repères restants comptent. La correction apporte de la robustesse, pas la garantie que chaque carré modifié restera lisible. [Source: www.qrcode.com](https://www.qrcode.com/en/about/error_correction.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Un format capable de se diffuser"
+    },
+    {
+      "type": "paragraph",
+      "text": "DENSO WAVE indique avoir conservé ses droits de brevet tout en déclarant ne pas les exercer pour les QR codes normalisés. C’est plus précis que d’affirmer qu’aucun brevet n’a existé. Cette disponibilité a favorisé l’adoption du format. Son histoire concerne donc la diffusion autant que l’invention : un outil devient une infrastructure quand des acteurs indépendants peuvent construire des usages compatibles. [Source: www.qrcode.com](https://www.qrcode.com/en/history/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une dernière distinction éclaire l’usage quotidien. Un QR code peut contenir une adresse web, pas tout le site qui se trouve derrière elle. Le contenu de destination peut changer sans modifier le carré imprimé. Celui-ci ne certifie pas non plus l’identité de l’exploitant. Son apport est plus simple et durable : réduire le passage entre une surface physique et l’information numérique à un geste de caméra."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [La peau électronique et les interfaces du futur](/articles/electronic-skin-robots-sense-of-touch/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.denso-wave.com",
+      "url": "https://www.denso-wave.com/en/adcd/info/detail__190808_01.html"
+    },
+    {
+      "label": "Source: www.qrcode.com",
+      "url": "https://www.qrcode.com/en/history/"
+    },
+    {
+      "label": "Source: www.qrcode.com",
+      "url": "https://www.qrcode.com/en/about/error_correction.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qui a inventé le QR code et quand ?",
+      "answer": "Une équipe dirigée par Masahiro Hara chez DENSO, aujourd’hui associée à DENSO WAVE, créa le QR code lancé en 1994."
+    },
+    {
+      "question": "Le QR code nécessite-t-il une IA ?",
+      "answer": "Non. Encodage et décodage suivent un format technique défini ; l’IA n’est pas nécessaire à la fonction de base."
+    },
+    {
+      "question": "Un QR code imprimé peut-il changer ?",
+      "answer": "Ses données encodées restent identiques. S’il contient une URL, le site ou la redirection derrière celle-ci peut évoluer."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/red-lipped-batfish-walks-seafloor-galapagos/",
+  "path": "/es/articles/red-lipped-batfish-walks-seafloor-galapagos/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-04",
+    "terminologyChecked": true
+  },
+  "title": "PEZ MURCIÉLAGO DE LABIOS ROJOS: EL PEZ QUE CAMINA POR EL FONDO MARINO",
+  "seoTitle": "Pez murciélago de labios rojos: caminar bajo el mar",
+  "description": "Conoce al pez murciélago de labios rojos de Galápagos, sus aletas adaptadas para caminar y las preguntas abiertas sobre su llamativa coloración.",
+  "excerpt": "Conoce al pez murciélago de labios rojos de Galápagos, sus aletas adaptadas para caminar y las preguntas abiertas sobre su llamativa coloración.",
+  "headlineHighlights": {
+    "red": "LABIOS ROJOS",
+    "gold": "CAMINA POR EL FONDO MARINO"
+  },
+  "keywords": [
+    "LABIOS ROJOS",
+    "CAMINA POR EL FONDO MARINO"
+  ],
+  "searchIntent": "Conoce al pez murciélago de labios rojos de Galápagos, sus aletas adaptadas para caminar y las preguntas abiertas sobre su llamativa coloración.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "image": {
+    "src": "/articles/red-lipped-batfish-walking-seafloor-editorial.jpg",
+    "alt": "Representación editorial suministrada de un pez murciélago de labios rojos apoyado sobre sus aletas en el fondo marino.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Algunos peces impresionan por su velocidad. Este llama la atención tomándose su tiempo. Cerca del fondo, un animal de cuerpo ancho se apoya en sus aletas y luce unos labios sorprendentemente rojos. El pez existe, pero la broma del pintalabios puede ocultar su adaptación más interesante: utilizar herramientas de pez en un mundo de arena, rocas y pequeñas presas."
+    },
+    {
+      "type": "heading",
+      "text": "Un pez hecho para el fondo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su nombre científico es Ogcocephalus darwini. Galapagos Conservation Trust lo describe como habitante de los fondos arenosos de los arrecifes y del suelo oceánico alrededor de Galápagos. Su superficie superior parda y gris resulta menos teatral que su boca. Desde arriba y contra el sustrato, su cuerpo cuenta otra historia que los primeros planos que lo hicieron famoso en internet. [Fuente: galapagosconservation.org.uk](https://galapagosconservation.org.uk/species/red-lipped-batfish/)"
+    },
+    {
+      "type": "heading",
+      "text": "Caminar con aletas, no con pies"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las supuestas patas son aletas. Sostienen al animal cuando se posa y avanza por el fondo; no son extremidades de un animal terrestre que regresó al mar. También puede nadar. Llamarlo pez caminante describe bien su movimiento, siempre que no se interprete como que abandonó la natación o desarrolló rodillas y pies humanos. [Fuente: datazone.darwinfoundation.org](https://datazone.darwinfoundation.org/en/checklist/?species=7663)"
+    },
+    {
+      "type": "heading",
+      "text": "Un pequeño depredador con señuelo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una estructura de la cabeza, el ilicio, podría ayudar a atraer presas. El perfil de conservación incluye peces pequeños, crustáceos y moluscos en su alimentación. Es la vida de un pequeño depredador. La distinción también importa ante una ilustración: una postura puede sugerir una actividad, pero una imagen fija no demuestra qué cazaba ni cómo lo capturó. [Galapagos Conservation Trust: función propuesta del señuelo](https://galapagosconservation.org.uk/species/red-lipped-batfish/) [Fuente: biogeodb.stri.si.edu](https://biogeodb.stri.si.edu/sftep/en/thefishes/species/776)"
+    },
+    {
+      "type": "heading",
+      "text": "Los labios dejan una pregunta abierta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los labios brillantes son observables; su función evolutiva es otra pregunta. El perfil revisado no demuestra que el color atraiga pareja. Repetir esa explicación atractiva como un hecho probado iría más allá de la evidencia consultada. La respuesta honesta es menos ordenada y más interesante: observar un rasgo llamativo inicia una investigación, no la concluye. Este pez no necesita certezas inventadas para ser extraordinario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [El casi invisible pulpo de cristal](/articles/glass-octopus-vitreledonella-richardi/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: galapagosconservation.org.uk",
+      "url": "https://galapagosconservation.org.uk/species/red-lipped-batfish/"
+    },
+    {
+      "label": "Fuente: datazone.darwinfoundation.org",
+      "url": "https://datazone.darwinfoundation.org/en/checklist/?species=7663"
+    },
+    {
+      "label": "Fuente: biogeodb.stri.si.edu",
+      "url": "https://biogeodb.stri.si.edu/sftep/en/thefishes/species/776"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Camina de verdad?",
+      "answer": "Utiliza sus aletas para apoyarse y avanzar por el fondo. También puede nadar."
+    },
+    {
+      "question": "¿Dónde vive?",
+      "answer": "Se asocia con la región de Galápagos, incluidos fondos arenosos de arrecife y el suelo oceánico."
+    },
+    {
+      "question": "¿Los labios atraen pareja?",
+      "answer": "Las fuentes revisadas no lo establecen. La presencia del color y su función son preguntas distintas."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "locale": "ar",
+  "englishPath": "/articles/red-lipped-batfish-walks-seafloor-galapagos/",
+  "path": "/ar/articles/red-lipped-batfish-walks-seafloor-galapagos/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-04",
+    "terminologyChecked": true
+  },
+  "title": "سمكة الخفاش حمراء الشفاه: السمكة التي تمشي على قاع البحر",
+  "seoTitle": "سمكة الخفاش حمراء الشفاه: كيف تمشي على القاع؟",
+  "description": "تعرف إلى سمكة الخفاش حمراء الشفاه في غالاباغوس، وزعانفها المستخدمة للمشي وطريقة تغذيتها وما لم يحسمه العلم عن لون شفتيها.",
+  "excerpt": "تعرف إلى سمكة الخفاش حمراء الشفاه في غالاباغوس، وزعانفها المستخدمة للمشي وطريقة تغذيتها وما لم يحسمه العلم عن لون شفتيها.",
+  "headlineHighlights": {
+    "red": "حمراء الشفاه",
+    "gold": "تمشي على قاع البحر"
+  },
+  "keywords": [
+    "حمراء الشفاه",
+    "تمشي على قاع البحر"
+  ],
+  "searchIntent": "تعرف إلى سمكة الخفاش حمراء الشفاه في غالاباغوس، وزعانفها المستخدمة للمشي وطريقة تغذيتها وما لم يحسمه العلم عن لون شفتيها.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "image": {
+    "src": "/articles/red-lipped-batfish-walking-seafloor-editorial.jpg",
+    "alt": "تصوير تحريري مقدم لسمكة خفاش حمراء الشفاه تستند إلى زعانف تشبه الأطراف على قاع البحر.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "تلفت بعض الأسماك الأنظار بسرعتها، أما هذه فتلفتها بتمهلها. قرب القاع يستند كائن عريض الجسم إلى زعانفه، وتبدو شفتاه بلون أحمر لافت. سمكة الخفاش حمراء الشفاه حقيقية، لكن تشبيهها بأحمر الشفاه قد يصرف الانتباه عن تكيف أهم: استخدام أدوات السمكة للتنقل في عالم من الرمل والصخور والفرائس الصغيرة."
+    },
+    {
+      "type": "heading",
+      "text": "سمكة مهيأة للقاع"
+    },
+    {
+      "type": "paragraph",
+      "text": "اسمه العلمي Ogcocephalus darwini. ويصفه صندوق حماية غالاباغوس بأنه من سكان القاع، حيث يعيش حول الجزر على أرضيات الشعاب الرملية وقاع المحيط. سطحه العلوي البني الرمادي أقل لفتاً من فمه. والنظر إليه من أعلى فوق الأرضية يقدم صورة مختلفة عن اللقطات القريبة التي جعلته مشهوراً على الإنترنت. [المصدر: galapagosconservation.org.uk](https://galapagosconservation.org.uk/species/red-lipped-batfish/)"
+    },
+    {
+      "type": "heading",
+      "text": "مشي بالزعانف لا بالأقدام"
+    },
+    {
+      "type": "paragraph",
+      "text": "الأطراف الظاهرة زعانف تسند الحيوان عندما يستقر أو يتحرك فوق القاع، وليست أطراف حيوان بري عاد إلى البحر. كما يستطيع السباحة. ووصفه بالسمكة التي تمشي مفيد لتقريب حركته، بشرط ألا يتحول إلى ادعاء بأنه تخلى عن السباحة أو امتلك ركبتين وقدمين شبيهتين بالبشر. [المصدر: datazone.darwinfoundation.org](https://datazone.darwinfoundation.org/en/checklist/?species=7663)"
+    },
+    {
+      "type": "heading",
+      "text": "مفترس صغير وأداة للإغراء"
+    },
+    {
+      "type": "paragraph",
+      "text": "يُعتقد أن بنية على الرأس تسمى الإليسيوم تساعد على جذب الفرائس. ويذكر ملف الحماية أسماكاً صغيرة وقشريات ورخويات ضمن غذائه. إنها حياة مفترس صغير. ويهم هذا التمييز أيضاً عند قراءة الرسوم: قد يوحي الوضع بنشاط ما، لكن الصورة الثابتة لا تثبت ما كان الحيوان يصطاده ولا كيفية إمساكه به. [صندوق حماية غالاباغوس: وظيفة الإغراء المقترحة](https://galapagosconservation.org.uk/species/red-lipped-batfish/) [المصدر: biogeodb.stri.si.edu](https://biogeodb.stri.si.edu/sftep/en/thefishes/species/776)"
+    },
+    {
+      "type": "heading",
+      "text": "لون يترك سؤالاً مفتوحاً"
+    },
+    {
+      "type": "paragraph",
+      "text": "الشفاه الزاهية صفة يمكن ملاحظتها، أما وظيفتها التطورية فسؤال آخر. ولا يثبت الملف الذي راجعناه أن اللون يجذب شريكاً. وتكرار هذا التفسير الجذاب بوصفه حقيقة محسومة يتجاوز الأدلة المتاحة هنا. الإجابة الأمينة أقل بساطة وأكثر إثارة: ملاحظة صفة لافتة بداية بحث لا نهايته. ولا تحتاج هذه السمكة إلى يقين مختلق لتكون استثنائية."
+    },
+    {
+      "type": "paragraph",
+      "text": "اقرأ أيضاً: [الأخطبوط الزجاجي شبه الخفي](/articles/glass-octopus-vitreledonella-richardi/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "المصدر: galapagosconservation.org.uk",
+      "url": "https://galapagosconservation.org.uk/species/red-lipped-batfish/"
+    },
+    {
+      "label": "المصدر: datazone.darwinfoundation.org",
+      "url": "https://datazone.darwinfoundation.org/en/checklist/?species=7663"
+    },
+    {
+      "label": "المصدر: biogeodb.stri.si.edu",
+      "url": "https://biogeodb.stri.si.edu/sftep/en/thefishes/species/776"
+    }
+  ],
+  "faq": [
+    {
+      "question": "هل تمشي هذه السمكة حقاً؟",
+      "answer": "تستخدم زعانفها لإسناد جسمها والتحرك على القاع، وتستطيع السباحة أيضاً."
+    },
+    {
+      "question": "أين تعيش؟",
+      "answer": "ترتبط بمنطقة غالاباغوس، بما فيها أرضيات الشعاب الرملية وقاع المحيط."
+    },
+    {
+      "question": "هل تجذب الشفاه الحمراء الشريك؟",
+      "answer": "لا تثبت الأدلة التي راجعناها هذا التفسير. وجود اللون ووظيفته سؤالان مختلفان."
+    }
+  ]
+}

@@ -61,7 +61,8 @@ const record = {
   review: { reviewer: 'Test editor', reviewedAt: '2026-09-24', terminologyChecked: true },
   title: 'عنوان للاختبار', seoTitle: 'عنوان محلي للاختبار', description: 'وصف محلي للاختبار', keywords: ['تاريخ'], searchIntent: 'اختبار',
   content: [{ type: 'heading', text: 'عنوان فرعي' }, { type: 'paragraph', text: 'نص عربي للاختبار' }, { type: 'table', caption: 'جدول', headings: ['عمود'], rows: [['خلية']] }],
-  category: 'History', author: 'محرر', publishedAt: '2026-09-24', updatedAt: '2026-09-24', image: { src: '/test.png', alt: 'صورة للاختبار' },
+  // Metadata requires an actual image with a generated social-preview record.
+  category: 'History', author: 'محرر', publishedAt: '2026-09-24', updatedAt: '2026-09-24', image: { src: require('../src/data/articles.ts').getPublishedArticles()[0].coverImage, alt: 'صورة للاختبار' },
   sources: [{ label: 'مصدر', url: 'https://example.com/' }], faq: [{ question: 'سؤال؟', answer: 'جواب' }]
 };
 validateTranslations([record]);

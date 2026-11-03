@@ -1,0 +1,101 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/giant-flying-foxes-philippines-golden-crowned-bats/",
+  "path": "/fr/articles/giant-flying-foxes-philippines-golden-crowned-bats/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-04",
+    "terminologyChecked": true
+  },
+  "title": "LES RENARDS VOLANTS GÉANTS : LES IMMENSES CHAUVES-SOURIS DES PHILIPPINES",
+  "seoTitle": "Renards volants géants : les chauves-souris des Philippines",
+  "description": "Découvrez le renard volant à couronne dorée, ses grandes ailes, son régime fruitier et les menaces qui pèsent sur ce mammifère philippin.",
+  "excerpt": "Découvrez le renard volant à couronne dorée, ses grandes ailes, son régime fruitier et les menaces qui pèsent sur ce mammifère philippin.",
+  "headlineHighlights": {
+    "red": "RENARDS VOLANTS GÉANTS",
+    "gold": "CHAUVES-SOURIS DES PHILIPPINES"
+  },
+  "keywords": [
+    "RENARDS VOLANTS GÉANTS",
+    "CHAUVES-SOURIS DES PHILIPPINES"
+  ],
+  "searchIntent": "Découvrez le renard volant à couronne dorée, ses grandes ailes, son régime fruitier et les menaces qui pèsent sur ce mammifère philippin.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "image": {
+    "src": "/articles/giant-flying-fox-philippines-spread-wings-editorial.jpg",
+    "alt": "Illustration éditoriale fournie d’un renard volant suspendu à une branche, les ailes éclairées en orange et déployées.",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Une chauve-souris ouvre les ailes et paraît soudain beaucoup plus grande que l’animal posé dans l’arbre un instant auparavant. Cette métamorphose explique la fascination pour les renards volants géants des Philippines. Leurs ailes sont réellement immenses. Passer de cette envergure à un monstre de taille humaine en dit davantage sur les images virales que sur ces animaux, dont la vie dépend des fruits, des forêts et de dortoirs collectifs fragiles."
+    },
+    {
+      "type": "heading",
+      "text": "Le renard volant à couronne dorée"
+    },
+    {
+      "type": "paragraph",
+      "text": "Acerodon jubatus, le renard volant géant à couronne dorée, est endémique des Philippines. Bat Conservation International le présente comme une chauve-souris frugivore de la famille des Pteropodidae, dont le régime est fortement lié aux figues. Renard volant est un nom courant, pas un lien avec les renards. Tous les grands spécimens philippins ne sont pas non plus de cette espèce : elle peut partager ses dortoirs avec Pteropus vampyrus, une autre roussette. [Source: www.batcon.org](https://www.batcon.org/bat/acerodon-jubatus/)"
+    },
+    {
+      "type": "heading",
+      "text": "Une grande envergure, un corps bien plus petit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Animal Diversity Web, de l’université du Michigan, indique une envergure d’environ 1,51 à 1,7 mètre, mais une longueur tête-corps d’environ 18 à 29 centimètres. Ces mesures ne décrivent pas la même chose. Comparer la taille d’une personne au corps d’une chauve-souris en utilisant son envergure est trompeur. Les fines membranes déployées sur des doigts allongés transforment un mammifère compact en une vaste surface de vol. [Source: animaldiversity.org](https://animaldiversity.org/accounts/Acerodon_jubatus/)"
+    },
+    {
+      "type": "heading",
+      "text": "La forêt derrière le spectacle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces chauves-souris se reposent dans les arbres et recherchent de préférence leur nourriture dans les forêts primaires ou secondaires de bonne qualité. Leur régime fruitier place la relation avec les plantes au cœur du récit ; les chauves-souris frugivores peuvent transporter des graines en se nourrissant et en se déplaçant. Préserver seulement un dortoir ne résume donc pas la conservation. Il faut aussi des habitats nourriciers accessibles et des déplacements possibles entre repos et alimentation. [Source: animaldiversity.org](https://animaldiversity.org/accounts/Acerodon_jubatus/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un animal menacé, pas un monstre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le profil de Bat Conservation International classe l’espèce en danger et souligne les effets du dérangement dans les dortoirs. La chasse et la disparition des habitats aggravent la pression. Son régime fruitier n’a rien du mode de vie sanguinivore des récits de vampires. Une photographie spectaculaire devrait susciter la curiosité, pas la persécution. La question décisive est la présence de forêts et de lieux de repos suffisamment préservés. [Source: www.batcon.org](https://www.batcon.org/bat/acerodon-jubatus/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [L’étonnant aye-aye de Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: www.batcon.org",
+      "url": "https://www.batcon.org/bat/acerodon-jubatus/"
+    },
+    {
+      "label": "Source: animaldiversity.org",
+      "url": "https://animaldiversity.org/accounts/Acerodon_jubatus/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ont-ils vraiment la taille d’un humain ?",
+      "answer": "Non. Une envergure de 1,5 à 1,7 mètre ne correspond pas à la longueur du corps, qui mesure environ 18 à 29 centimètres, tête comprise."
+    },
+    {
+      "question": "Boivent-ils du sang ?",
+      "answer": "Ce sont des frugivores, fortement associés aux figues, et non des chauves-souris sanguinivores."
+    },
+    {
+      "question": "Sont-ils menacés ?",
+      "answer": "Bat Conservation International classe Acerodon jubatus en danger. Perte d’habitat, chasse et dérangement des dortoirs sont préoccupants."
+    }
+  ]
+}

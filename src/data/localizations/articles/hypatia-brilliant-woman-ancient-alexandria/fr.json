@@ -1,0 +1,109 @@
+{
+  "locale": "fr",
+  "englishPath": "/articles/hypatia-brilliant-woman-ancient-alexandria/",
+  "path": "/fr/articles/hypatia-brilliant-woman-ancient-alexandria/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-04",
+    "terminologyChecked": true
+  },
+  "title": "HYPATIE : LA BRILLANTE FEMME DE L’ALEXANDRIE ANTIQUE",
+  "seoTitle": "Hypatie d’Alexandrie : sa vie, son savoir et son héritage",
+  "description": "Découvrez Hypatie, philosophe et enseignante d’Alexandrie, à travers les témoignages conservés, son assassinat en 415 et les limites du récit historique.",
+  "excerpt": "Découvrez Hypatie, philosophe et enseignante d’Alexandrie, à travers les témoignages conservés, son assassinat en 415 et les limites du récit historique.",
+  "headlineHighlights": {
+    "red": "HYPATIE",
+    "gold": "BRILLANTE FEMME"
+  },
+  "keywords": [
+    "HYPATIE",
+    "BRILLANTE FEMME"
+  ],
+  "searchIntent": "Découvrez Hypatie, philosophe et enseignante d’Alexandrie, à travers les témoignages conservés, son assassinat en 415 et les limites du récit historique.",
+  "category": "Lifestyle",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "image": {
+    "src": "/articles/hypatia-alexandria-teaching-historical-reconstruction.jpg",
+    "alt": "Reconstitution imaginaire d’Hypatie enseignant la géométrie dans un décor alexandrin, sans portrait authentifié.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Avant de devenir un symbole, Hypatie fut une enseignante. C’est le meilleur point de départ pour comprendre une femme dont la mort est souvent plus connue que le travail. Dans l’Alexandrie de l’Antiquité tardive, son autorité reposait sur le savoir, les échanges et l’estime de ses élèves. Retrouver cette vie demande d’éviter deux pièges : la réduire à son assassinat ou combler chaque lacune par un désir contemporain."
+    },
+    {
+      "type": "heading",
+      "text": "Une vie de mathématiques et de philosophie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fille de Théon d’Alexandrie, mathématicien lié à la transmission du savoir grec, Hypatie enseigna les mathématiques et la philosophie néoplatonicienne. Elle était une figure intellectuelle importante au début du Ve siècle. Son année de naissance reste incertaine. En faire une professeure d’université au sens moderne plaquerait une institution inadaptée sur son époque : son enseignement appartenait à la culture philosophique et savante de l’Antiquité tardive. [Source: mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/)"
+    },
+    {
+      "type": "heading",
+      "text": "Ce que conserve la correspondance d’un élève"
+    },
+    {
+      "type": "paragraph",
+      "text": "Synésios de Cyrène, son ancien élève devenu évêque chrétien, lui écrivit sur des questions intellectuelles et pratiques. Dans la lettre 15, il demande un instrument généralement interprété comme un aréomètre, destiné à comparer la densité des liquides. Cette correspondance offre mieux qu’une légende de génie solitaire : un aperçu de confiance et d’échange technique. Elle ne prouve pas qu’Hypatie inventa l’instrument ; compétence et invention ne sont pas synonymes. [Source: www.livius.org](https://www.livius.org/sources/content/synesius/synesius-letter-015/)"
+    },
+    {
+      "type": "heading",
+      "text": "Les travaux derrière la réputation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Des témoignages ultérieurs lui attribuent des commentaires de textes mathématiques, notamment ceux de Diophante et d’Apollonios. Les traces sont fragmentaires, et l’ampleur de sa contribution éditoriale aux textes liés à son père reste discutée. Enseigner, expliquer et transmettre des œuvres difficiles constitue un travail intellectuel considérable, même sans traité indépendant complet conservé. Ni le titre absolu de première mathématicienne ni des découvertes non établies ne sont nécessaires pour reconnaître son importance. [Source: mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/)"
+    },
+    {
+      "type": "heading",
+      "text": "Alexandrie, mars 415"
+    },
+    {
+      "type": "paragraph",
+      "text": "L’historien Socrate le Scolastique décrit son assassinat par une foule chrétienne menée par un lecteur nommé Pierre. Il relie l’attaque aux rumeurs sur ses rapports avec le préfet Oreste, opposé à l’évêque Cyrille, et condamne le meurtre. Ce témoignage éclaire une hostilité politique et une violence religieuse ; il ne prouve pas que Cyrille ait personnellement ordonné le crime. Les élèves chrétiens d’Hypatie compliquent aussi le récit de deux camps intellectuels uniformément opposés. [Source: sourcebooks.fordham.edu](https://sourcebooks.fordham.edu/source/hypatia.asp)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La scène reconstituée imagine un enseignement ; elle ne restitue ni son visage ni les mots d’une leçon perdue. Les traces suffisent à un héritage plus riche : une femme reconnue pour son autorité intellectuelle, une enseignante dont les relations franchissaient les frontières religieuses et une invitation à préférer la mémoire précise aux certitudes décoratives."
+    },
+    {
+      "type": "paragraph",
+      "text": "À lire également: [Giordano Bruno et l’histoire des idées](/articles/giordano-bruno-philosopher-heresy/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Source: mathshistory.st-andrews.ac.uk",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/"
+    },
+    {
+      "label": "Source: www.livius.org",
+      "url": "https://www.livius.org/sources/content/synesius/synesius-letter-015/"
+    },
+    {
+      "label": "Source: sourcebooks.fordham.edu",
+      "url": "https://sourcebooks.fordham.edu/source/hypatia.asp"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand a-t-elle vécu ?",
+      "answer": "Elle enseigna à Alexandrie à la fin du IVe et au début du Ve siècle, avant son assassinat en mars 415. Sa naissance est mal datée."
+    },
+    {
+      "question": "A-t-elle inventé l’astrolabe ou l’aréomètre ?",
+      "answer": "Les éléments présentés ne le démontrent pas. La correspondance sur les instruments témoigne de compétence et d’échanges."
+    },
+    {
+      "question": "L’image est-elle un portrait réel ?",
+      "answer": "Non. C’est une reconstitution historique dont l’apparence, les vêtements et le décor sont imaginés."
+    }
+  ]
+}

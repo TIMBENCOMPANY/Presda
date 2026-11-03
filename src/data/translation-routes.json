@@ -2221,6 +2221,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/giant-flying-foxes-philippines-golden-crowned-bats/",
+    "path": "/ar/articles/giant-flying-foxes-philippines-golden-crowned-bats/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/giant-flying-foxes-philippines-golden-crowned-bats/",
+    "path": "/es/articles/giant-flying-foxes-philippines-golden-crowned-bats/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/giant-flying-foxes-philippines-golden-crowned-bats/",
+    "path": "/fr/articles/giant-flying-foxes-philippines-golden-crowned-bats/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/giordano-bruno-philosopher-heresy/",
     "path": "/ar/articles/giordano-bruno-philosopher-heresy/"
   },
@@ -2728,6 +2743,21 @@
     "locale": "fr",
     "englishPath": "/articles/humans-apes-dna-similarity-chimpanzees-evolution/",
     "path": "/fr/articles/humans-apes-dna-similarity-chimpanzees-evolution/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/hypatia-brilliant-woman-ancient-alexandria/",
+    "path": "/ar/articles/hypatia-brilliant-woman-ancient-alexandria/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/hypatia-brilliant-woman-ancient-alexandria/",
+    "path": "/es/articles/hypatia-brilliant-woman-ancient-alexandria/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/hypatia-brilliant-woman-ancient-alexandria/",
+    "path": "/fr/articles/hypatia-brilliant-woman-ancient-alexandria/"
   },
   {
     "locale": "ar",
@@ -4576,6 +4606,21 @@
   },
   {
     "locale": "ar",
+    "englishPath": "/articles/qr-code-history-simple-square-digital-world/",
+    "path": "/ar/articles/qr-code-history-simple-square-digital-world/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/qr-code-history-simple-square-digital-world/",
+    "path": "/es/articles/qr-code-history-simple-square-digital-world/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/qr-code-history-simple-square-digital-world/",
+    "path": "/fr/articles/qr-code-history-simple-square-digital-world/"
+  },
+  {
+    "locale": "ar",
     "englishPath": "/articles/rainbow-mountain-colors-peru-andes/",
     "path": "/ar/articles/rainbow-mountain-colors-peru-andes/"
   },
@@ -4603,6 +4648,21 @@
     "locale": "fr",
     "englishPath": "/articles/real-history-of-coffee/",
     "path": "/fr/articles/real-history-of-coffee/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/red-lipped-batfish-walks-seafloor-galapagos/",
+    "path": "/ar/articles/red-lipped-batfish-walks-seafloor-galapagos/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/red-lipped-batfish-walks-seafloor-galapagos/",
+    "path": "/es/articles/red-lipped-batfish-walks-seafloor-galapagos/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/red-lipped-batfish-walks-seafloor-galapagos/",
+    "path": "/fr/articles/red-lipped-batfish-walks-seafloor-galapagos/"
   },
   {
     "locale": "ar",
@@ -5803,5 +5863,20 @@
     "locale": "fr",
     "englishPath": "/articles/zendaya-tom-holland-relationship-marriage-careers/",
     "path": "/fr/articles/zendaya-tom-holland-relationship-marriage-careers/"
+  },
+  {
+    "locale": "ar",
+    "englishPath": "/articles/zheng-he-chinese-admiral-seven-indian-ocean-voyages/",
+    "path": "/ar/articles/zheng-he-chinese-admiral-seven-indian-ocean-voyages/"
+  },
+  {
+    "locale": "es",
+    "englishPath": "/articles/zheng-he-chinese-admiral-seven-indian-ocean-voyages/",
+    "path": "/es/articles/zheng-he-chinese-admiral-seven-indian-ocean-voyages/"
+  },
+  {
+    "locale": "fr",
+    "englishPath": "/articles/zheng-he-chinese-admiral-seven-indian-ocean-voyages/",
+    "path": "/fr/articles/zheng-he-chinese-admiral-seven-indian-ocean-voyages/"
   }
 ]

@@ -1,0 +1,21 @@
+La llegada de una gran flota era un acontecimiento político antes que una escena pintoresca. Los barcos transportaban personas, bienes y mensajes sobre el soberano que los enviaba. Los viajes de Zheng He hicieron visible ese poder por el Índico. Decir que conquistó los mares es una metáfora de alcance y organización, no que conquistara cada costa, circunnavegara el planeta o entrara en un océano sin historia.
+
+## Siete expediciones, de 1405 a 1433
+
+El Museo de Historia de Hong Kong sitúa los siete viajes entre 1405 y 1433, de los reinados de Yongle a Xuande. Zheng He era un eunuco de la corte Ming que se convirtió en el comandante central asociado a las expediciones. Sus destinos abarcaron el sudeste asiático y el mundo del Índico. Fue un programa imperial sostenido con rutas cambiantes, no un único viaje ininterrumpido. [Fuente: hk.history.museum](https://hk.history.museum/en/web/mh/exhibition/2006_past_07.html)
+
+## Un océano que ya estaba conectado
+
+Las flotas alcanzaron puertos vinculados con India, Sri Lanka, el golfo Pérsico, Arabia y África oriental. Su éxito dependía de un mundo comercial preexistente, con marineros experimentados, puertos y conocimiento de las estaciones de navegación. Zheng He no descubrió esas sociedades para la humanidad. Su importancia reside en la escala de la participación Ming y en la circulación de enviados, bienes de prestigio y relaciones diplomáticas por corredores conocidos. [Fuente: afe.easia.columbia.edu](https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm)
+
+## Diplomacia respaldada por la fuerza
+
+La investigación del historiador Geoff Wade cuestiona la cómoda imagen de misiones exclusivamente pacíficas. Los viajes proyectaron autoridad imperial e incluyeron intervención militar, especialmente en Sri Lanka, donde Alakeshvara fue capturado y llevado a la corte Ming. Regalos, comercio y reconocimiento ceremonial podían coexistir con coacción. Es posible reconocer una coordinación marítima extraordinaria sin convertir el poder estatal en un desfile inofensivo ni en conquista territorial universal. [Fuente: ari.nus.edu.sg](https://ari.nus.edu.sg/wp-content/uploads/2018/10/wps04_031.pdf)
+
+## Lo que los barcos espectaculares no prueban
+
+Los barcos del tesoro dominan las imágenes modernas. Sus dimensiones exactas siguen en debate: una flota imaginada no es una medición ni una reconstrucción técnica. Tampoco el registro de los viajes por el Índico respalda relatos de un descubrimiento verificado de América en 1421. La geografía documentada ya impresiona. Reconocer las incertidumbres permite ver mejor el logro real, sin reducirlo.
+
+Cuando terminaron las grandes expediciones, las redes comerciales no desaparecieron. El final de un programa cortesano no equivale al fin de la vida marítima china. Zheng He amplía nuestra escala histórica: los vínculos entre puertos asiáticos y africanos a comienzos del siglo XV eran sustanciales, políticos y profundamente internacionales. [Fuente: afe.easia.columbia.edu](https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm)
+
+Lectura relacionada: [Ibn Battuta y el mundo medieval conectado](/articles/ibn-battuta-moroccan-traveler-three-continents-rihla/).

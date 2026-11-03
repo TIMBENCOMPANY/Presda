@@ -1,0 +1,991 @@
+[
+  {
+    "key": "batfish",
+    "slug": "red-lipped-batfish-walks-seafloor-galapagos",
+    "attachment": "3-1000088293.jpg",
+    "image": "red-lipped-batfish-walking-seafloor-editorial.jpg",
+    "category": "Science",
+    "schemaType": "Article",
+    "tags": [
+      "Red-lipped batfish",
+      "Galápagos",
+      "Marine biology",
+      "Adaptation"
+    ],
+    "related": "glass-octopus-vitreledonella-richardi",
+    "relatedLabel": [
+      "The almost invisible glass octopus",
+      "Le presque invisible poulpe de verre",
+      "الأخطبوط الزجاجي شبه الخفي",
+      "El casi invisible pulpo de cristal"
+    ],
+    "meta": {
+      "en": [
+        "RED-LIPPED BATFISH: THE FISH THAT WALKS ON THE SEAFLOOR",
+        "Red-Lipped Batfish: How This Galápagos Fish Walks",
+        "Meet the red-lipped batfish, a Galápagos bottom dweller that uses its fins to walk. Explore its feeding adaptations and what its red lips cannot yet explain.",
+        "RED-LIPPED BATFISH",
+        "WALKS ON THE SEAFLOOR",
+        "Supplied editorial depiction of a red-lipped batfish resting on fin-like limbs on the seafloor."
+      ],
+      "fr": [
+        "LE POISSON-CHAUVE-SOURIS AUX LÈVRES ROUGES : UN POISSON QUI MARCHE SUR LE FOND MARIN",
+        "Le poisson aux lèvres rouges qui marche aux Galápagos",
+        "Découvrez le poisson-chauve-souris aux lèvres rouges, ses nageoires adaptées au fond marin et les questions que sa coloration laisse encore ouvertes.",
+        "LÈVRES ROUGES",
+        "MARCHE SUR LE FOND MARIN",
+        "Représentation éditoriale fournie d’un poisson-chauve-souris aux lèvres rouges appuyé sur ses nageoires au fond de la mer."
+      ],
+      "ar": [
+        "سمكة الخفاش حمراء الشفاه: السمكة التي تمشي على قاع البحر",
+        "سمكة الخفاش حمراء الشفاه: كيف تمشي على القاع؟",
+        "تعرف إلى سمكة الخفاش حمراء الشفاه في غالاباغوس، وزعانفها المستخدمة للمشي وطريقة تغذيتها وما لم يحسمه العلم عن لون شفتيها.",
+        "حمراء الشفاه",
+        "تمشي على قاع البحر",
+        "تصوير تحريري مقدم لسمكة خفاش حمراء الشفاه تستند إلى زعانف تشبه الأطراف على قاع البحر."
+      ],
+      "es": [
+        "PEZ MURCIÉLAGO DE LABIOS ROJOS: EL PEZ QUE CAMINA POR EL FONDO MARINO",
+        "Pez murciélago de labios rojos: caminar bajo el mar",
+        "Conoce al pez murciélago de labios rojos de Galápagos, sus aletas adaptadas para caminar y las preguntas abiertas sobre su llamativa coloración.",
+        "LABIOS ROJOS",
+        "CAMINA POR EL FONDO MARINO",
+        "Representación editorial suministrada de un pez murciélago de labios rojos apoyado sobre sus aletas en el fondo marino."
+      ]
+    },
+    "disclosure": [
+      "Editorial illustration, not a documented wildlife observation. The depiction is not evidence of exact anatomy, behaviour or colour under natural light.",
+      "Illustration éditoriale, et non observation naturaliste documentée. Elle ne prouve ni l’anatomie exacte ni le comportement ou la couleur en lumière naturelle.",
+      "رسم تحريري وليس رصداً ميدانياً موثقاً. لا يثبت التصوير دقة التشريح أو السلوك أو اللون في الإضاءة الطبيعية.",
+      "Ilustración editorial, no observación de fauna documentada. No acredita la anatomía exacta, el comportamiento ni el color bajo luz natural."
+    ],
+    "blocks": [
+      {
+        "en": "Some fish announce themselves with speed. This one makes an entrance by taking its time. Close to the seabed, a broad-bodied animal props itself on its fins, apparently wearing a startling pair of red lips. The red-lipped batfish is real, but the familiar joke about lipstick can distract from its more interesting achievement: using a fish’s equipment to move through a world of sand, rock and small prey.",
+        "fr": "Certains poissons impressionnent par leur vitesse. Celui-ci attire le regard en prenant son temps. Près du fond, un animal au corps large se tient sur ses nageoires, avec des lèvres d’un rouge saisissant. Le poisson existe bien, mais la plaisanterie du rouge à lèvres masque parfois son adaptation la plus intéressante : employer des organes de poisson dans un univers de sable, de rochers et de petites proies.",
+        "ar": "تلفت بعض الأسماك الأنظار بسرعتها، أما هذه فتلفتها بتمهلها. قرب القاع يستند كائن عريض الجسم إلى زعانفه، وتبدو شفتاه بلون أحمر لافت. سمكة الخفاش حمراء الشفاه حقيقية، لكن تشبيهها بأحمر الشفاه قد يصرف الانتباه عن تكيف أهم: استخدام أدوات السمكة للتنقل في عالم من الرمل والصخور والفرائس الصغيرة.",
+        "es": "Algunos peces impresionan por su velocidad. Este llama la atención tomándose su tiempo. Cerca del fondo, un animal de cuerpo ancho se apoya en sus aletas y luce unos labios sorprendentemente rojos. El pez existe, pero la broma del pintalabios puede ocultar su adaptación más interesante: utilizar herramientas de pez en un mundo de arena, rocas y pequeñas presas."
+      },
+      {
+        "en": "A fish built for the bottom",
+        "fr": "Un poisson fait pour le fond",
+        "ar": "سمكة مهيأة للقاع",
+        "es": "Un pez hecho para el fondo",
+        "heading": true
+      },
+      {
+        "en": "Its scientific name is Ogcocephalus darwini. Galapagos Conservation Trust describes it as a bottom dweller around the Galápagos, living on sandy reef bottoms and the ocean floor. Its brownish-grey upper surface is much less theatrical than its mouth. Seen from above against the substrate, the body offers a different visual story from the close-up portraits that made the species an internet favourite.",
+        "fr": "Son nom scientifique est Ogcocephalus darwini. Le Galapagos Conservation Trust le décrit comme un habitant des fonds sableux des récifs et du plancher océanique autour des Galápagos. Le dessus brun gris de son corps est moins spectaculaire que sa bouche. Vu d’en haut sur le substrat, il raconte une autre histoire que les portraits rapprochés qui ont fait sa célébrité en ligne.",
+        "ar": "اسمه العلمي Ogcocephalus darwini. ويصفه صندوق حماية غالاباغوس بأنه من سكان القاع، حيث يعيش حول الجزر على أرضيات الشعاب الرملية وقاع المحيط. سطحه العلوي البني الرمادي أقل لفتاً من فمه. والنظر إليه من أعلى فوق الأرضية يقدم صورة مختلفة عن اللقطات القريبة التي جعلته مشهوراً على الإنترنت.",
+        "es": "Su nombre científico es Ogcocephalus darwini. Galapagos Conservation Trust lo describe como habitante de los fondos arenosos de los arrecifes y del suelo oceánico alrededor de Galápagos. Su superficie superior parda y gris resulta menos teatral que su boca. Desde arriba y contra el sustrato, su cuerpo cuenta otra historia que los primeros planos que lo hicieron famoso en internet.",
+        "source": [
+          "Galapagos Conservation Trust: red-lipped batfish",
+          "https://galapagosconservation.org.uk/species/red-lipped-batfish/"
+        ]
+      },
+      {
+        "en": "Walking with fins, not feet",
+        "fr": "Des nageoires, pas des pieds",
+        "ar": "مشي بالزعانف لا بالأقدام",
+        "es": "Caminar con aletas, no con pies",
+        "heading": true
+      },
+      {
+        "en": "The apparent legs are fins. They support the animal as it perches and moves along the bottom; they are not the limbs of a land animal returning to the sea. It can also swim. Calling it a walking fish is a useful description of how it moves, provided that the phrase does not become a claim that it has abandoned swimming or evolved human-like knees and feet.",
+        "fr": "Ses prétendues pattes sont des nageoires. Elles soutiennent l’animal lorsqu’il se pose et avance sur le fond ; ce ne sont pas les membres d’un animal terrestre revenu à la mer. Il peut aussi nager. Parler de poisson marcheur décrit bien son mouvement, à condition de ne pas laisser croire qu’il aurait abandonné la nage ou acquis des genoux et des pieds humains.",
+        "ar": "الأطراف الظاهرة زعانف تسند الحيوان عندما يستقر أو يتحرك فوق القاع، وليست أطراف حيوان بري عاد إلى البحر. كما يستطيع السباحة. ووصفه بالسمكة التي تمشي مفيد لتقريب حركته، بشرط ألا يتحول إلى ادعاء بأنه تخلى عن السباحة أو امتلك ركبتين وقدمين شبيهتين بالبشر.",
+        "es": "Las supuestas patas son aletas. Sostienen al animal cuando se posa y avanza por el fondo; no son extremidades de un animal terrestre que regresó al mar. También puede nadar. Llamarlo pez caminante describe bien su movimiento, siempre que no se interprete como que abandonó la natación o desarrolló rodillas y pies humanos.",
+        "source": [
+          "Charles Darwin Foundation: Galápagos species database",
+          "https://datazone.darwinfoundation.org/en/checklist/?species=7663"
+        ]
+      },
+      {
+        "en": "A small predator with a lure",
+        "fr": "Un petit prédateur équipé d’un leurre",
+        "ar": "مفترس صغير وأداة للإغراء",
+        "es": "Un pequeño depredador con señuelo",
+        "heading": true
+      },
+      {
+        "en": "A structure on its head, called an illicium, is thought to help lure prey. The conservation profile lists small fish, crustaceans and molluscs among its food. This is a small predator’s life, not a miniature seafloor grazing scene. The distinction also matters when interpreting an illustration: a pose can suggest an activity, but a still image cannot establish what an animal was hunting or how it caught it. [Galapagos Conservation Trust: proposed lure function](https://galapagosconservation.org.uk/species/red-lipped-batfish/)",
+        "fr": "Une structure sur la tête, l’illicium, servirait à attirer les proies. Le profil de conservation cite de petits poissons, des crustacés et des mollusques parmi ses aliments. Il mène donc une vie de petit prédateur. La nuance compte aussi face à une illustration : une posture suggère une activité, mais une image fixe ne démontre ni ce que l’animal chassait ni comment il l’a capturé. [Galapagos Conservation Trust : fonction proposée du leurre](https://galapagosconservation.org.uk/species/red-lipped-batfish/)",
+        "ar": "يُعتقد أن بنية على الرأس تسمى الإليسيوم تساعد على جذب الفرائس. ويذكر ملف الحماية أسماكاً صغيرة وقشريات ورخويات ضمن غذائه. إنها حياة مفترس صغير. ويهم هذا التمييز أيضاً عند قراءة الرسوم: قد يوحي الوضع بنشاط ما، لكن الصورة الثابتة لا تثبت ما كان الحيوان يصطاده ولا كيفية إمساكه به. [صندوق حماية غالاباغوس: وظيفة الإغراء المقترحة](https://galapagosconservation.org.uk/species/red-lipped-batfish/)",
+        "es": "Una estructura de la cabeza, el ilicio, podría ayudar a atraer presas. El perfil de conservación incluye peces pequeños, crustáceos y moluscos en su alimentación. Es la vida de un pequeño depredador. La distinción también importa ante una ilustración: una postura puede sugerir una actividad, pero una imagen fija no demuestra qué cazaba ni cómo lo capturó. [Galapagos Conservation Trust: función propuesta del señuelo](https://galapagosconservation.org.uk/species/red-lipped-batfish/)",
+        "source": [
+          "Smithsonian Tropical Research Institute: Galápagos batfish",
+          "https://biogeodb.stri.si.edu/sftep/en/thefishes/species/776"
+        ]
+      },
+      {
+        "en": "The lips leave an open question",
+        "fr": "Des lèvres qui gardent leur mystère",
+        "ar": "لون يترك سؤالاً مفتوحاً",
+        "es": "Los labios dejan una pregunta abierta",
+        "heading": true
+      },
+      {
+        "en": "Bright lips are an observable feature; their evolutionary function is a separate question. The source profile does not establish that the colour attracts a mate. Repeating that appealing explanation as a proven fact would go beyond the evidence reviewed here. The honest answer is less tidy and more interesting: noticing a striking feature is the beginning of an investigation, not its conclusion. This fish needs no invented certainty to be extraordinary.",
+        "fr": "Les lèvres vives sont observables ; leur fonction évolutive est une autre question. Le profil consulté ne démontre pas que cette couleur attire un partenaire. Présenter cette explication séduisante comme une certitude dépasserait les éléments examinés. La réponse honnête est moins simple et plus intéressante : remarquer un caractère frappant ouvre une enquête, sans la clore. Ce poisson n’a pas besoin de certitudes inventées pour être extraordinaire.",
+        "ar": "الشفاه الزاهية صفة يمكن ملاحظتها، أما وظيفتها التطورية فسؤال آخر. ولا يثبت الملف الذي راجعناه أن اللون يجذب شريكاً. وتكرار هذا التفسير الجذاب بوصفه حقيقة محسومة يتجاوز الأدلة المتاحة هنا. الإجابة الأمينة أقل بساطة وأكثر إثارة: ملاحظة صفة لافتة بداية بحث لا نهايته. ولا تحتاج هذه السمكة إلى يقين مختلق لتكون استثنائية.",
+        "es": "Los labios brillantes son observables; su función evolutiva es otra pregunta. El perfil revisado no demuestra que el color atraiga pareja. Repetir esa explicación atractiva como un hecho probado iría más allá de la evidencia consultada. La respuesta honesta es menos ordenada y más interesante: observar un rasgo llamativo inicia una investigación, no la concluye. Este pez no necesita certezas inventadas para ser extraordinario."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Can the red-lipped batfish really walk?",
+          "It uses its fins to support itself and move along the seabed. It can also swim."
+        ],
+        [
+          "Where does it live?",
+          "It is associated with the Galápagos region, including sandy reef bottoms and the ocean floor."
+        ],
+        [
+          "Do its red lips attract mates?",
+          "That explanation is not established by the evidence reviewed for this article. The colour and its function are different questions."
+        ]
+      ],
+      "fr": [
+        [
+          "Marche-t-il vraiment ?",
+          "Il utilise ses nageoires pour se soutenir et avancer sur le fond. Il peut aussi nager."
+        ],
+        [
+          "Où vit-il ?",
+          "Il est associé à la région des Galápagos, notamment aux fonds sableux des récifs et au plancher océanique."
+        ],
+        [
+          "Ses lèvres attirent-elles un partenaire ?",
+          "Les sources examinées ne l’établissent pas. La présence d’une couleur et sa fonction sont deux questions différentes."
+        ]
+      ],
+      "ar": [
+        [
+          "هل تمشي هذه السمكة حقاً؟",
+          "تستخدم زعانفها لإسناد جسمها والتحرك على القاع، وتستطيع السباحة أيضاً."
+        ],
+        [
+          "أين تعيش؟",
+          "ترتبط بمنطقة غالاباغوس، بما فيها أرضيات الشعاب الرملية وقاع المحيط."
+        ],
+        [
+          "هل تجذب الشفاه الحمراء الشريك؟",
+          "لا تثبت الأدلة التي راجعناها هذا التفسير. وجود اللون ووظيفته سؤالان مختلفان."
+        ]
+      ],
+      "es": [
+        [
+          "¿Camina de verdad?",
+          "Utiliza sus aletas para apoyarse y avanzar por el fondo. También puede nadar."
+        ],
+        [
+          "¿Dónde vive?",
+          "Se asocia con la región de Galápagos, incluidos fondos arenosos de arrecife y el suelo oceánico."
+        ],
+        [
+          "¿Los labios atraen pareja?",
+          "Las fuentes revisadas no lo establecen. La presencia del color y su función son preguntas distintas."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "foxes",
+    "slug": "giant-flying-foxes-philippines-golden-crowned-bats",
+    "attachment": "2-1000088300.jpg",
+    "image": "giant-flying-fox-philippines-spread-wings-editorial.jpg",
+    "category": "Science",
+    "schemaType": "Article",
+    "tags": [
+      "Flying foxes",
+      "Philippines",
+      "Bats",
+      "Conservation"
+    ],
+    "related": "aye-aye-madagascar-primate-tap-foraging",
+    "relatedLabel": [
+      "The remarkable aye-aye of Madagascar",
+      "L’étonnant aye-aye de Madagascar",
+      "الآي آي المدهش في مدغشقر",
+      "El extraordinario aye-aye de Madagascar"
+    ],
+    "meta": {
+      "en": [
+        "GIANT FLYING FOXES: THE ENORMOUS BATS OF THE PHILIPPINES",
+        "Giant Flying Foxes: The Philippines’ Extraordinary Fruit Bats",
+        "Discover the Philippine golden-crowned flying fox, its enormous wings, fruit-based diet and forest role. Separate real biology from human-sized bat myths.",
+        "GIANT FLYING FOXES",
+        "ENORMOUS BATS",
+        "Supplied editorial illustration of a flying fox hanging from a branch with its orange-lit wings spread."
+      ],
+      "fr": [
+        "LES RENARDS VOLANTS GÉANTS : LES IMMENSES CHAUVES-SOURIS DES PHILIPPINES",
+        "Renards volants géants : les chauves-souris des Philippines",
+        "Découvrez le renard volant à couronne dorée, ses grandes ailes, son régime fruitier et les menaces qui pèsent sur ce mammifère philippin.",
+        "RENARDS VOLANTS GÉANTS",
+        "CHAUVES-SOURIS DES PHILIPPINES",
+        "Illustration éditoriale fournie d’un renard volant suspendu à une branche, les ailes éclairées en orange et déployées."
+      ],
+      "ar": [
+        "الثعالب الطائرة العملاقة: خفافيش الفلبين الهائلة",
+        "الثعالب الطائرة في الفلبين: أجنحة عملاقة وحياة هشة",
+        "اكتشف الثعلب الطائر ذهبي التاج في الفلبين، وحجم أجنحته وغذاءه من الثمار ودوره في الغابات، بعيداً عن أسطورة الخفاش بحجم الإنسان.",
+        "الثعالب الطائرة العملاقة",
+        "خفافيش الفلبين الهائلة",
+        "رسم تحريري مقدم لثعلب طائر يتدلى من غصن بجناحين مفرودين تضيئهما درجات برتقالية."
+      ],
+      "es": [
+        "ZORROS VOLADORES GIGANTES: LOS ENORMES MURCIÉLAGOS DE FILIPINAS",
+        "Zorros voladores gigantes: los murciélagos de Filipinas",
+        "Descubre al zorro volador filipino de corona dorada, sus grandes alas, su dieta de fruta y su papel forestal. Biología real frente a mitos virales.",
+        "ZORROS VOLADORES GIGANTES",
+        "MURCIÉLAGOS DE FILIPINAS",
+        "Ilustración editorial suministrada de un zorro volador colgado de una rama con las alas extendidas e iluminadas en naranja."
+      ]
+    },
+    "disclosure": [
+      "Conceptual wildlife illustration. Species identification, wingspan and scale cannot be verified from this supplied image.",
+      "Illustration animalière conceptuelle. L’espèce, l’envergure et l’échelle ne peuvent pas être vérifiées à partir de cette image fournie.",
+      "رسم تصوري للحياة البرية. لا يمكن التحقق من النوع أو باع الجناحين أو مقياس الحجم من هذه الصورة المقدمة.",
+      "Ilustración conceptual de fauna. La especie, la envergadura y la escala no pueden verificarse mediante esta imagen suministrada."
+    ],
+    "blocks": [
+      {
+        "en": "A bat unfolds its wings and suddenly seems far larger than the animal resting a moment earlier in a tree. That transformation explains much of the fascination with the Philippines’ giant flying foxes. Their wings are genuinely enormous. The familiar leap from enormous wings to a human-sized monster, however, tells us more about viral photographs than about bats. Their real lives belong to fruit, forest canopies and vulnerable communal roosts.",
+        "fr": "Une chauve-souris ouvre les ailes et paraît soudain beaucoup plus grande que l’animal posé dans l’arbre un instant auparavant. Cette métamorphose explique la fascination pour les renards volants géants des Philippines. Leurs ailes sont réellement immenses. Passer de cette envergure à un monstre de taille humaine en dit davantage sur les images virales que sur ces animaux, dont la vie dépend des fruits, des forêts et de dortoirs collectifs fragiles.",
+        "ar": "يفرد خفاش جناحيه فيبدو فجأة أكبر بكثير من الحيوان الذي كان يستريح قبل لحظة على الشجرة. يفسر هذا التحول جانباً من الانبهار بثعالب الفلبين الطائرة العملاقة. أجنحتها هائلة فعلاً، لكن القفز من ذلك إلى وحش بحجم الإنسان يكشف عن تأثير الصور الرائجة أكثر مما يكشف عن الحيوان. حياتها الحقيقية مرتبطة بالثمار وتيجان الأشجار ومواقع المبيت الجماعية الهشة.",
+        "es": "Un murciélago abre las alas y parece mucho mayor que el animal que descansaba un instante antes en el árbol. Esa transformación explica la fascinación por los zorros voladores gigantes de Filipinas. Sus alas son realmente enormes. El salto a un monstruo de tamaño humano dice más de las fotografías virales que de unos animales cuya vida depende de la fruta, el bosque y los vulnerables refugios comunales."
+      },
+      {
+        "en": "Meet the golden-crowned flying fox",
+        "fr": "Le renard volant à couronne dorée",
+        "ar": "التعرف إلى الثعلب الطائر ذهبي التاج",
+        "es": "El zorro volador de corona dorada",
+        "heading": true
+      },
+      {
+        "en": "Acerodon jubatus, the giant golden-crowned flying fox, is endemic to the Philippines. Bat Conservation International identifies it as a fruit bat in the family Pteropodidae, with a diet strongly associated with figs. Flying fox is a common name, not a statement that these mammals are foxes. Nor should every large Philippine bat be assigned to this species: it can share roosts with Pteropus vampyrus, a different flying fox.",
+        "fr": "Acerodon jubatus, le renard volant géant à couronne dorée, est endémique des Philippines. Bat Conservation International le présente comme une chauve-souris frugivore de la famille des Pteropodidae, dont le régime est fortement lié aux figues. Renard volant est un nom courant, pas un lien avec les renards. Tous les grands spécimens philippins ne sont pas non plus de cette espèce : elle peut partager ses dortoirs avec Pteropus vampyrus, une autre roussette.",
+        "ar": "الثعلب الطائر العملاق ذهبي التاج، Acerodon jubatus، نوع متوطن في الفلبين. وتصفه منظمة حماية الخفافيش الدولية بأنه خفاش فاكهة من فصيلة Pteropodidae، يرتبط غذاؤه بالتين بدرجة كبيرة. والثعلب الطائر اسم شائع لا يعني أنه من الثعالب. كما لا يصح نسب كل خفاش فلبيني كبير إليه؛ فقد يشارك المبيت مع Pteropus vampyrus، وهو نوع آخر.",
+        "es": "Acerodon jubatus, el zorro volador gigante de corona dorada, es endémico de Filipinas. Bat Conservation International lo identifica como un murciélago frugívoro de la familia Pteropodidae, con una dieta muy vinculada a los higos. Zorro volador es un nombre común, no un parentesco con los zorros. Tampoco todos los grandes murciélagos filipinos son de esta especie: puede compartir refugios con Pteropus vampyrus, otra especie.",
+        "source": [
+          "Bat Conservation International: Acerodon jubatus",
+          "https://www.batcon.org/bat/acerodon-jubatus/"
+        ]
+      },
+      {
+        "en": "A large wingspan, a much smaller body",
+        "fr": "Une grande envergure, un corps bien plus petit",
+        "ar": "باع كبير وجسم أصغر بكثير",
+        "es": "Grandes alas, un cuerpo mucho menor",
+        "heading": true
+      },
+      {
+        "en": "The University of Michigan’s Animal Diversity Web reports wingspans of approximately 1.51 to 1.7 metres, but head-and-body lengths of about 18 to 29 centimetres. Those measurements describe different things. A person’s height cannot sensibly be compared with a bat’s body by substituting wingspan for length. The thin wing membranes stretch across elongated fingers, turning a compact mammal into an expansive flying surface when opened.",
+        "fr": "Animal Diversity Web, de l’université du Michigan, indique une envergure d’environ 1,51 à 1,7 mètre, mais une longueur tête-corps d’environ 18 à 29 centimètres. Ces mesures ne décrivent pas la même chose. Comparer la taille d’une personne au corps d’une chauve-souris en utilisant son envergure est trompeur. Les fines membranes déployées sur des doigts allongés transforment un mammifère compact en une vaste surface de vol.",
+        "ar": "تورد قاعدة تنوع الحيوانات بجامعة ميشيغان باع جناحين يقارب 1.51 إلى 1.7 متر، مقابل طول للرأس والجسم يبلغ نحو 18 إلى 29 سنتيمتراً. هذان قياسان مختلفان. فلا تصح مقارنة طول الإنسان بجسم الخفاش عبر استبدال طول الجسم بباع الجناحين. وتمتد أغشية الجناح الرقيقة على أصابع طويلة، فتحول الثديي الصغير نسبياً إلى سطح طيران واسع عند فردها.",
+        "es": "Animal Diversity Web, de la Universidad de Michigan, recoge envergaduras de aproximadamente 1,51 a 1,7 metros, pero longitudes de cabeza y cuerpo de unos 18 a 29 centímetros. Son medidas distintas. Comparar la altura de una persona con el cuerpo del murciélago sustituyendo longitud por envergadura resulta engañoso. Las membranas finas, extendidas entre dedos alargados, convierten un mamífero compacto en una amplia superficie de vuelo.",
+        "source": [
+          "University of Michigan: Acerodon jubatus",
+          "https://animaldiversity.org/accounts/Acerodon_jubatus/"
+        ]
+      },
+      {
+        "en": "The forest behind the spectacle",
+        "fr": "La forêt derrière le spectacle",
+        "ar": "الغابة خلف المشهد",
+        "es": "El bosque detrás del espectáculo",
+        "heading": true
+      },
+      {
+        "en": "These bats rest in trees and forage preferentially in primary forest or good-quality secondary forest. Their reliance on fruit makes their relationship with plants central to the story; fruit bats can transport seeds as they feed and travel. A surviving roost alone is therefore not the whole conservation picture. Animals also need feeding habitat within reach, and a landscape that allows movement between the places where they rest and eat.",
+        "fr": "Ces chauves-souris se reposent dans les arbres et recherchent de préférence leur nourriture dans les forêts primaires ou secondaires de bonne qualité. Leur régime fruitier place la relation avec les plantes au cœur du récit ; les chauves-souris frugivores peuvent transporter des graines en se nourrissant et en se déplaçant. Préserver seulement un dortoir ne résume donc pas la conservation. Il faut aussi des habitats nourriciers accessibles et des déplacements possibles entre repos et alimentation.",
+        "ar": "تستريح هذه الخفافيش في الأشجار وتفضل البحث عن الغذاء في الغابات الأولية أو الغابات الثانوية الجيدة. واعتمادها على الثمار يجعل علاقتها بالنباتات محورية؛ إذ تستطيع خفافيش الفاكهة نقل البذور خلال التغذي والتنقل. لذلك لا يكفي بقاء موقع للمبيت وحده لفهم وضع الحماية. تحتاج الحيوانات أيضاً إلى مناطق غذاء قريبة وإلى مشهد طبيعي يسمح بالحركة بين أماكن الراحة والأكل.",
+        "es": "Estos murciélagos descansan en árboles y buscan alimento preferentemente en bosque primario o secundario bien conservado. Su dieta sitúa la relación con las plantas en el centro del relato; los murciélagos frugívoros pueden transportar semillas al comer y desplazarse. Conservar un refugio no resume, por tanto, toda la protección necesaria. También necesitan hábitats de alimentación accesibles y un paisaje que permita moverse entre descanso y comida.",
+        "source": [
+          "University of Michigan: Acerodon jubatus",
+          "https://animaldiversity.org/accounts/Acerodon_jubatus/"
+        ]
+      },
+      {
+        "en": "An endangered animal, not a monster",
+        "fr": "Un animal menacé, pas un monstre",
+        "ar": "حيوان مهدد لا وحش",
+        "es": "Un animal amenazado, no un monstruo",
+        "heading": true
+      },
+      {
+        "en": "Bat Conservation International’s profile lists the species as Endangered and describes the harm caused by disturbance at roosts. Hunting and habitat loss add pressure. Its fruit-based diet is nothing like the blood-feeding life suggested by vampire imagery. An impressive photograph should invite curiosity, not persecution. The most consequential question is not how frightening the wings look, but whether enough intact forest and undisturbed resting places remain for the animals to keep using them.",
+        "fr": "Le profil de Bat Conservation International classe l’espèce en danger et souligne les effets du dérangement dans les dortoirs. La chasse et la disparition des habitats aggravent la pression. Son régime fruitier n’a rien du mode de vie sanguinivore des récits de vampires. Une photographie spectaculaire devrait susciter la curiosité, pas la persécution. La question décisive est la présence de forêts et de lieux de repos suffisamment préservés.",
+        "ar": "يصنف ملف منظمة حماية الخفافيش الدولية النوع بأنه مهدد بالانقراض، ويبين ضرر إزعاج مواقع المبيت. ويضيف الصيد وفقدان الموائل ضغوطاً أخرى. وغذاؤه من الثمار بعيد عن صور مصاصي الدماء. يفترض أن تدعو الصورة المبهرة إلى الفضول لا إلى الاضطهاد. والسؤال الأهم ليس مدى رهبة الجناحين، بل بقاء غابات سليمة وأماكن راحة آمنة تكفي لاستمرار حياة هذه الحيوانات.",
+        "es": "El perfil de Bat Conservation International clasifica la especie En Peligro y describe los daños de perturbar sus refugios. La caza y la pérdida de hábitat añaden presión. Su alimentación de fruta nada tiene que ver con los relatos de vampiros que beben sangre. Una fotografía impresionante debería despertar curiosidad, no persecución. La cuestión decisiva es si quedan suficientes bosques intactos y lugares tranquilos para descansar.",
+        "source": [
+          "Bat Conservation International: Acerodon jubatus",
+          "https://www.batcon.org/bat/acerodon-jubatus/"
+        ]
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Are these bats really human-sized?",
+          "No. A wingspan around 1.5 to 1.7 metres does not mean a body that long; published head-and-body measurements are roughly 18 to 29 centimetres."
+        ],
+        [
+          "Do golden-crowned flying foxes drink blood?",
+          "They are fruit bats, strongly associated with figs, not blood-feeding bats."
+        ],
+        [
+          "Are they threatened?",
+          "Bat Conservation International lists Acerodon jubatus as Endangered. Habitat loss, hunting and roost disturbance are important concerns."
+        ]
+      ],
+      "fr": [
+        [
+          "Ont-ils vraiment la taille d’un humain ?",
+          "Non. Une envergure de 1,5 à 1,7 mètre ne correspond pas à la longueur du corps, qui mesure environ 18 à 29 centimètres, tête comprise."
+        ],
+        [
+          "Boivent-ils du sang ?",
+          "Ce sont des frugivores, fortement associés aux figues, et non des chauves-souris sanguinivores."
+        ],
+        [
+          "Sont-ils menacés ?",
+          "Bat Conservation International classe Acerodon jubatus en danger. Perte d’habitat, chasse et dérangement des dortoirs sont préoccupants."
+        ]
+      ],
+      "ar": [
+        [
+          "هل يبلغ حجمها حجم الإنسان؟",
+          "لا. باع جناحين يقارب 1.5 إلى 1.7 متر لا يعني جسماً بهذا الطول؛ طول الرأس والجسم المنشور نحو 18 إلى 29 سنتيمتراً."
+        ],
+        [
+          "هل تشرب الدم؟",
+          "هي خفافيش فاكهة يرتبط غذاؤها بالتين، وليست خفافيش تتغذى على الدم."
+        ],
+        [
+          "هل هي مهددة؟",
+          "تصنف منظمة حماية الخفافيش الدولية Acerodon jubatus بأنه مهدد بالانقراض. ومن المخاطر فقدان الموائل والصيد وإزعاج المبيت."
+        ]
+      ],
+      "es": [
+        [
+          "¿Son del tamaño de una persona?",
+          "No. Una envergadura de 1,5 a 1,7 metros no equivale a esa longitud corporal; cabeza y cuerpo miden aproximadamente entre 18 y 29 centímetros."
+        ],
+        [
+          "¿Beben sangre?",
+          "Son murciélagos frugívoros muy asociados a los higos, no murciélagos que se alimenten de sangre."
+        ],
+        [
+          "¿Están amenazados?",
+          "Bat Conservation International clasifica Acerodon jubatus En Peligro. Preocupan la pérdida de hábitat, la caza y las perturbaciones en los refugios."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "hypatia",
+    "slug": "hypatia-brilliant-woman-ancient-alexandria",
+    "attachment": "4-1000088294.jpg",
+    "image": "hypatia-alexandria-teaching-historical-reconstruction.jpg",
+    "category": "Lifestyle",
+    "schemaType": "Article",
+    "tags": [
+      "Hypatia",
+      "Alexandria",
+      "Women in history",
+      "Mathematics"
+    ],
+    "related": "giordano-bruno-philosopher-heresy",
+    "relatedLabel": [
+      "Giordano Bruno and the history of ideas",
+      "Giordano Bruno et l’histoire des idées",
+      "جوردانو برونو وتاريخ الأفكار",
+      "Giordano Bruno y la historia de las ideas"
+    ],
+    "meta": {
+      "en": [
+        "HYPATIA: THE BRILLIANT WOMAN OF ANCIENT ALEXANDRIA",
+        "Hypatia of Alexandria: Her Life, Learning and Legacy",
+        "Meet Hypatia, Alexandria’s philosopher and mathematics teacher. Explore surviving testimony, her murder in 415 and the legends that obscure her achievements.",
+        "HYPATIA",
+        "BRILLIANT WOMAN",
+        "Imagined reconstruction of Hypatia teaching geometry in an Alexandrian setting; no authenticated likeness is implied."
+      ],
+      "fr": [
+        "HYPATIE : LA BRILLANTE FEMME DE L’ALEXANDRIE ANTIQUE",
+        "Hypatie d’Alexandrie : sa vie, son savoir et son héritage",
+        "Découvrez Hypatie, philosophe et enseignante d’Alexandrie, à travers les témoignages conservés, son assassinat en 415 et les limites du récit historique.",
+        "HYPATIE",
+        "BRILLANTE FEMME",
+        "Reconstitution imaginaire d’Hypatie enseignant la géométrie dans un décor alexandrin, sans portrait authentifié."
+      ],
+      "ar": [
+        "هيباتيا: المرأة اللامعة في الإسكندرية القديمة",
+        "هيباتيا الإسكندرية: حياتها وعلمها وإرثها",
+        "تعرف إلى هيباتيا، الفيلسوفة ومعلمة الرياضيات في الإسكندرية، عبر الشهادات الباقية ومقتلها عام 415، مع تمييز الوقائع من الأساطير.",
+        "هيباتيا",
+        "المرأة اللامعة",
+        "إعادة تصور تخيلية لهيباتيا وهي تدرس الهندسة في مشهد إسكندري، وليست صورة موثقة لملامحها."
+      ],
+      "es": [
+        "HIPATIA: LA BRILLANTE MUJER DE LA ANTIGUA ALEJANDRÍA",
+        "Hipatia de Alejandría: vida, saber y legado",
+        "Conoce a Hipatia, filósofa y maestra de matemáticas de Alejandría. Testimonios conservados, su asesinato en 415 y los límites de las leyendas posteriores.",
+        "HIPATIA",
+        "BRILLANTE MUJER",
+        "Reconstrucción imaginada de Hipatia enseñando geometría en un entorno alejandrino, sin retrato autenticado."
+      ]
+    },
+    "disclosure": [
+      "Historical reconstruction, not an authenticated portrait or documented teaching scene. The architecture, objects and clothing are illustrative.",
+      "Reconstitution historique, et non portrait authentifié ou scène d’enseignement documentée. Architecture, objets et vêtements sont illustratifs.",
+      "إعادة تصور تاريخية وليست بورتريهاً موثقاً أو مشهداً تعليمياً مثبتاً. العمارة والأدوات والملابس عناصر توضيحية.",
+      "Reconstrucción histórica, no retrato autenticado ni escena docente documentada. La arquitectura, los objetos y la ropa son ilustrativos."
+    ],
+    "blocks": [
+      {
+        "en": "Before Hypatia became a symbol, she was a teacher. That is the most useful starting point for understanding a woman whose death is often better known than her work. In late antique Alexandria, her authority grew through learning, conversation and the regard of students. Recovering that life means resisting two temptations: reducing her to the violence that killed her, or filling every gap in the record with a modern wish.",
+        "fr": "Avant de devenir un symbole, Hypatie fut une enseignante. C’est le meilleur point de départ pour comprendre une femme dont la mort est souvent plus connue que le travail. Dans l’Alexandrie de l’Antiquité tardive, son autorité reposait sur le savoir, les échanges et l’estime de ses élèves. Retrouver cette vie demande d’éviter deux pièges : la réduire à son assassinat ou combler chaque lacune par un désir contemporain.",
+        "ar": "قبل أن تصبح هيباتيا رمزاً، كانت معلمة. وهذه أفضل بداية لفهم امرأة اشتهرت وفاتها أحياناً أكثر من عملها. في إسكندرية العصور القديمة المتأخرة نشأت مكانتها من المعرفة والحوار واحترام الطلاب. واستعادة حياتها تقتضي مقاومة إغراءين: اختزالها في العنف الذي قتلها، أو ملء كل فجوة في السجل بأمنية معاصرة.",
+        "es": "Antes de convertirse en símbolo, Hipatia fue maestra. Ese es el mejor punto de partida para comprender a una mujer cuya muerte suele conocerse mejor que su trabajo. En la Alejandría de la Antigüedad tardía, su autoridad creció mediante el saber, la conversación y el respeto de sus alumnos. Recuperar esa vida exige evitar dos tentaciones: reducirla a su asesinato o llenar cada laguna documental con un deseo moderno."
+      },
+      {
+        "en": "A life in mathematics and philosophy",
+        "fr": "Une vie de mathématiques et de philosophie",
+        "ar": "حياة في الرياضيات والفلسفة",
+        "es": "Una vida de matemáticas y filosofía",
+        "heading": true
+      },
+      {
+        "en": "Hypatia was the daughter of Theon of Alexandria, a mathematician associated with the transmission of Greek mathematical learning. She taught mathematics and Neoplatonic philosophy, becoming a prominent intellectual figure around the beginning of the fifth century. Her birth year remains uncertain. Describing her as a professor at a modern-style university would impose the wrong institution on her world: her teaching belonged to the philosophical and scholarly culture of late antiquity.",
+        "fr": "Fille de Théon d’Alexandrie, mathématicien lié à la transmission du savoir grec, Hypatie enseigna les mathématiques et la philosophie néoplatonicienne. Elle était une figure intellectuelle importante au début du Ve siècle. Son année de naissance reste incertaine. En faire une professeure d’université au sens moderne plaquerait une institution inadaptée sur son époque : son enseignement appartenait à la culture philosophique et savante de l’Antiquité tardive.",
+        "ar": "كانت هيباتيا ابنة ثيون الإسكندري، وهو رياضي ارتبط بنقل المعرفة الرياضية اليونانية. درست الرياضيات والفلسفة الأفلاطونية المحدثة، وبرزت شخصية فكرية مع مطلع القرن الخامس. ولا يزال عام ميلادها غير محسوم. ووصفها بأستاذة في جامعة بالمعنى الحديث يسقط مؤسسة مختلفة على عالمها؛ فقد انتمى تعليمها إلى الثقافة الفلسفية والعلمية في أواخر العصور القديمة.",
+        "es": "Hipatia era hija de Teón de Alejandría, matemático vinculado a la transmisión del saber griego. Enseñó matemáticas y filosofía neoplatónica y fue una figura intelectual destacada a comienzos del siglo V. Su año de nacimiento sigue siendo incierto. Presentarla como profesora de una universidad moderna impondría una institución ajena a su época: su enseñanza pertenecía a la cultura filosófica y erudita de la Antigüedad tardía.",
+        "source": [
+          "University of St Andrews: Hypatia",
+          "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/"
+        ]
+      },
+      {
+        "en": "What a student’s letters preserve",
+        "fr": "Ce que conserve la correspondance d’un élève",
+        "ar": "ما تحفظه رسائل أحد طلابها",
+        "es": "Lo que conservan las cartas de un alumno",
+        "heading": true
+      },
+      {
+        "en": "Synesius of Cyrene, her former student and later a Christian bishop, wrote to her about intellectual and practical matters. In Letter 15, he requests an instrument generally interpreted as a hydrometer, used to compare the density of liquids. The correspondence gives us something more valuable than a legend of solitary genius: a glimpse of trust and technical exchange. It does not establish that Hypatia invented that instrument, and expertise should not be confused with an invention claim.",
+        "fr": "Synésios de Cyrène, son ancien élève devenu évêque chrétien, lui écrivit sur des questions intellectuelles et pratiques. Dans la lettre 15, il demande un instrument généralement interprété comme un aréomètre, destiné à comparer la densité des liquides. Cette correspondance offre mieux qu’une légende de génie solitaire : un aperçu de confiance et d’échange technique. Elle ne prouve pas qu’Hypatie inventa l’instrument ; compétence et invention ne sont pas synonymes.",
+        "ar": "كتب إليها تلميذها السابق سينيسيوس القوريني، الذي أصبح أسقفاً مسيحياً، بشأن مسائل فكرية وعملية. وفي الرسالة 15 يطلب أداة تُفسر عادة بأنها مقياس لكثافة السوائل. وتمنحنا المراسلات ما هو أثمن من أسطورة العبقرية المنعزلة: لمحة عن الثقة وتبادل المعرفة التقنية. لكنها لا تثبت أن هيباتيا اخترعت الأداة، فالخبرة ليست مرادفة لادعاء الاختراع.",
+        "es": "Sinesio de Cirene, antiguo alumno y después obispo cristiano, le escribió sobre cuestiones intelectuales y prácticas. En la Carta 15 solicita un instrumento generalmente interpretado como un hidrómetro para comparar la densidad de líquidos. La correspondencia ofrece algo más valioso que una leyenda de genio solitario: confianza e intercambio técnico. No demuestra que Hipatia inventara el instrumento; el conocimiento experto no equivale a una patente de invención.",
+        "source": [
+          "Synesius: Letter 15 to Hypatia",
+          "https://www.livius.org/sources/content/synesius/synesius-letter-015/"
+        ]
+      },
+      {
+        "en": "The work behind the reputation",
+        "fr": "Les travaux derrière la réputation",
+        "ar": "العمل خلف السمعة",
+        "es": "El trabajo detrás de la reputación",
+        "heading": true
+      },
+      {
+        "en": "Later testimony associates her with commentaries on mathematical works, including those of Diophantus and Apollonius. The surviving evidence is fragmentary, and the extent of her editorial contribution to texts linked with her father is debated. Teaching, explaining and preserving difficult material are substantial intellectual activities even when no complete independent treatise survives. Neither an unqualified first woman mathematician label nor a list of unsupported discoveries is needed to recognise her importance.",
+        "fr": "Des témoignages ultérieurs lui attribuent des commentaires de textes mathématiques, notamment ceux de Diophante et d’Apollonios. Les traces sont fragmentaires, et l’ampleur de sa contribution éditoriale aux textes liés à son père reste discutée. Enseigner, expliquer et transmettre des œuvres difficiles constitue un travail intellectuel considérable, même sans traité indépendant complet conservé. Ni le titre absolu de première mathématicienne ni des découvertes non établies ne sont nécessaires pour reconnaître son importance.",
+        "ar": "تربط شهادات لاحقة اسمها بشروح لأعمال رياضية، منها مؤلفات ديوفانتوس وأبولونيوس. لكن الأدلة مجتزأة، وحجم إسهامها التحريري في النصوص المرتبطة بأبيها محل نقاش. والتعليم والشرح وحفظ المواد المعقدة أعمال فكرية معتبرة حتى حين لا يبقى مؤلف مستقل كامل. ولا يلزم وصفها بلا تحفظ بأنها أول رياضية، أو نسب اكتشافات غير مثبتة إليها، للاعتراف بأهميتها.",
+        "es": "Testimonios posteriores la relacionan con comentarios de obras matemáticas, entre ellas las de Diofanto y Apolonio. La evidencia es fragmentaria y se debate el alcance de su contribución editorial a textos ligados a su padre. Enseñar, explicar y preservar obras difíciles es una actividad intelectual sustancial aunque no sobreviva un tratado independiente completo. Reconocer su importancia no exige llamarla sin matices primera matemática ni atribuirle descubrimientos sin demostrar.",
+        "source": [
+          "University of St Andrews: Hypatia",
+          "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/"
+        ]
+      },
+      {
+        "en": "Alexandria, March 415",
+        "fr": "Alexandrie, mars 415",
+        "ar": "الإسكندرية في مارس 415",
+        "es": "Alejandría, marzo de 415",
+        "heading": true
+      },
+      {
+        "en": "The historian Socrates Scholasticus describes her murder by a Christian mob led by a reader named Peter. He links the attack to rumours about her relationship with the prefect Orestes and his conflict with the bishop Cyril. His account condemns the killing. That testimony supports a story of political hostility and religious violence; it does not prove that Cyril personally ordered the murder. Hypatia’s Christian students also complicate a simple tale of two uniformly opposed intellectual camps.",
+        "fr": "L’historien Socrate le Scolastique décrit son assassinat par une foule chrétienne menée par un lecteur nommé Pierre. Il relie l’attaque aux rumeurs sur ses rapports avec le préfet Oreste, opposé à l’évêque Cyrille, et condamne le meurtre. Ce témoignage éclaire une hostilité politique et une violence religieuse ; il ne prouve pas que Cyrille ait personnellement ordonné le crime. Les élèves chrétiens d’Hypatie compliquent aussi le récit de deux camps intellectuels uniformément opposés.",
+        "ar": "يصف المؤرخ سقراط المدرسي مقتلها على يد حشد مسيحي قاده قارئ كنسي يدعى بطرس. ويربط الهجوم بشائعات عن علاقتها بالوالي أوريستيس وصراعه مع الأسقف كيرلس، ويدين الجريمة. تدعم شهادته قصة عداء سياسي وعنف ديني، لكنها لا تثبت أن كيرلس أمر شخصياً بالقتل. كما أن طلاب هيباتيا المسيحيين يعقدون حكاية معسكرين فكريين متجانسين ومتعارضين دائماً.",
+        "es": "El historiador Sócrates Escolástico describe su asesinato por una turba cristiana encabezada por un lector llamado Pedro. Relaciona el ataque con rumores sobre su vínculo con el prefecto Orestes y el conflicto de este con el obispo Cirilo, y condena el crimen. El testimonio documenta hostilidad política y violencia religiosa; no prueba que Cirilo ordenara personalmente el asesinato. Sus alumnos cristianos también complican un relato de dos bandos intelectuales uniformemente enfrentados.",
+        "source": [
+          "Socrates Scholasticus, translated at Fordham University",
+          "https://sourcebooks.fordham.edu/source/hypatia.asp"
+        ]
+      },
+      {
+        "en": "The reconstructed scene above imagines a classroom; it cannot restore her face or the words of a lost lesson. What survives is enough for a richer legacy: a woman recognised for intellectual authority, a teacher whose relationships crossed religious boundaries, and a reminder that careful historical memory honours achievement better than decorative certainty.",
+        "fr": "La scène reconstituée imagine un enseignement ; elle ne restitue ni son visage ni les mots d’une leçon perdue. Les traces suffisent à un héritage plus riche : une femme reconnue pour son autorité intellectuelle, une enseignante dont les relations franchissaient les frontières religieuses et une invitation à préférer la mémoire précise aux certitudes décoratives.",
+        "ar": "يتخيل المشهد المرسوم درساً، لكنه لا يستعيد وجهها أو كلمات محاضرة ضائعة. وما بقي يكفي لإرث أغنى: امرأة اعترف معاصروها بمكانتها الفكرية، ومعلمة تجاوزت علاقاتها الحدود الدينية، وتذكير بأن الذاكرة التاريخية الدقيقة تكرم الإنجاز أكثر من اليقين المصطنع.",
+        "es": "La escena reconstruida imagina una clase; no recupera su rostro ni las palabras de una lección perdida. Lo conservado basta para un legado más rico: una mujer reconocida por su autoridad intelectual, una maestra cuyas relaciones cruzaban fronteras religiosas y un recordatorio de que la memoria cuidadosa honra mejor el saber que las certezas decorativas."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "When did Hypatia live?",
+          "She taught in late fourth- and early fifth-century Alexandria and was murdered in March 415. Her birth year is uncertain."
+        ],
+        [
+          "Did she invent the astrolabe or hydrometer?",
+          "The evidence discussed here does not establish either invention. Instrument-related correspondence demonstrates expertise and exchange."
+        ],
+        [
+          "Is the hero a real portrait?",
+          "No. It is a historical reconstruction with imagined appearance, clothing and setting."
+        ]
+      ],
+      "fr": [
+        [
+          "Quand a-t-elle vécu ?",
+          "Elle enseigna à Alexandrie à la fin du IVe et au début du Ve siècle, avant son assassinat en mars 415. Sa naissance est mal datée."
+        ],
+        [
+          "A-t-elle inventé l’astrolabe ou l’aréomètre ?",
+          "Les éléments présentés ne le démontrent pas. La correspondance sur les instruments témoigne de compétence et d’échanges."
+        ],
+        [
+          "L’image est-elle un portrait réel ?",
+          "Non. C’est une reconstitution historique dont l’apparence, les vêtements et le décor sont imaginés."
+        ]
+      ],
+      "ar": [
+        [
+          "متى عاشت هيباتيا؟",
+          "درست في الإسكندرية في أواخر القرن الرابع ومطلع الخامس، وقُتلت في مارس 415. عام ميلادها غير محسوم."
+        ],
+        [
+          "هل اخترعت الأسطرلاب أو مقياس الكثافة؟",
+          "لا تثبت الأدلة المعروضة أياً من الاختراعين. المراسلات المتعلقة بالأدوات تشهد على الخبرة وتبادل المعرفة."
+        ],
+        [
+          "هل الصورة بورتريه حقيقي؟",
+          "لا. إنها إعادة تصور تاريخية بملامح وملابس ومكان متخيلة."
+        ]
+      ],
+      "es": [
+        [
+          "¿Cuándo vivió?",
+          "Enseñó en Alejandría a finales del siglo IV y principios del V y fue asesinada en marzo de 415. Su año de nacimiento es incierto."
+        ],
+        [
+          "¿Inventó el astrolabio o el hidrómetro?",
+          "La evidencia presentada no demuestra ninguna de esas invenciones. Las cartas sobre instrumentos reflejan conocimiento e intercambio."
+        ],
+        [
+          "¿La imagen es un retrato real?",
+          "No. Es una reconstrucción histórica con apariencia, ropa y escenario imaginados."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "zheng",
+    "slug": "zheng-he-chinese-admiral-seven-indian-ocean-voyages",
+    "attachment": "5-1000088311.jpg",
+    "image": "zheng-he-ming-fleet-historical-reconstruction.jpg",
+    "category": "World",
+    "schemaType": "Article",
+    "tags": [
+      "Zheng He",
+      "Ming dynasty",
+      "Indian Ocean",
+      "Maritime history"
+    ],
+    "related": "ibn-battuta-moroccan-traveler-three-continents-rihla",
+    "relatedLabel": [
+      "Ibn Battuta and the connected medieval world",
+      "Ibn Battuta et le monde médiéval connecté",
+      "ابن بطوطة والعالم الوسيط المترابط",
+      "Ibn Battuta y el mundo medieval conectado"
+    ],
+    "meta": {
+      "en": [
+        "ZHENG HE: THE CHINESE ADMIRAL WHO CONQUERED THE SEAS",
+        "Zheng He: Seven Voyages That Projected Ming Power",
+        "Explore Zheng He’s seven voyages from 1405 to 1433, the Indian Ocean networks he entered and the diplomacy, trade and force behind the Ming fleets.",
+        "ZHENG HE",
+        "CONQUERED THE SEAS",
+        "Imagined historical reconstruction of Zheng He beside a Ming-inspired fleet with red sails."
+      ],
+      "fr": [
+        "ZHENG HE : L’AMIRAL CHINOIS QUI CONQUIT LES MERS",
+        "Zheng He : sept voyages au service de la puissance Ming",
+        "Explorez les sept voyages de Zheng He de 1405 à 1433 et les réseaux de l’océan Indien où ses flottes mêlaient diplomatie, commerce et puissance militaire.",
+        "ZHENG HE",
+        "CONQUIT LES MERS",
+        "Reconstitution historique imaginaire de Zheng He près d’une flotte inspirée des Ming aux voiles rouges."
+      ],
+      "ar": [
+        "تشنغ خه: الأميرال الصيني الذي غزا البحار",
+        "تشنغ خه: سبع رحلات حملت قوة مينغ إلى المحيط الهندي",
+        "استكشف رحلات تشنغ خه السبع بين 1405 و1433، وشبكات المحيط الهندي التي دخلها ومزيج الدبلوماسية والتجارة والقوة في أساطيل مينغ.",
+        "تشنغ خه",
+        "غزا البحار",
+        "إعادة تصور تاريخية لتشنغ خه قرب أسطول مستوحى من عهد مينغ بأشرعة حمراء."
+      ],
+      "es": [
+        "ZHENG HE: EL ALMIRANTE CHINO QUE CONQUISTÓ LOS MARES",
+        "Zheng He: siete viajes que proyectaron el poder Ming",
+        "Explora los siete viajes de Zheng He entre 1405 y 1433, las redes del Índico y la combinación de diplomacia, comercio y fuerza de las flotas Ming.",
+        "ZHENG HE",
+        "CONQUISTÓ LOS MARES",
+        "Reconstrucción histórica imaginada de Zheng He junto a una flota de inspiración Ming con velas rojas."
+      ]
+    },
+    "disclosure": [
+      "Historical reconstruction, not an authenticated portrait or view of the voyages. Clothing, rigging and ship proportions are illustrative and do not resolve debates about treasure-ship size.",
+      "Reconstitution historique, et non portrait authentifié ou vue des expéditions. Vêtements, gréement et proportions des navires sont illustratifs et ne tranchent pas le débat sur leur taille.",
+      "إعادة تصور تاريخية وليست بورتريهاً موثقاً أو تسجيلاً للرحلات. الملابس والتجهيزات ونسب السفن توضيحية ولا تحسم الجدل حول أحجام سفن الكنوز.",
+      "Reconstrucción histórica, no retrato autenticado ni vista documental de las expediciones. Ropa, aparejo y proporciones son ilustrativos y no resuelven el debate sobre el tamaño de los barcos."
+    ],
+    "blocks": [
+      {
+        "en": "The arrival of a great fleet was a political event before it was a picturesque scene. Ships carried people, goods and messages about the ruler who had sent them. Zheng He’s voyages made that proposition visible across the Indian Ocean. To say that he conquered the seas is a metaphor for reach and organisation, not a claim that he conquered every shore, circumnavigated the globe or sailed into an ocean without history.",
+        "fr": "L’arrivée d’une grande flotte était un événement politique avant d’être un spectacle. Les navires transportaient des hommes, des biens et un message sur le souverain qui les envoyait. Les voyages de Zheng He rendirent cette puissance visible dans l’océan Indien. Dire qu’il conquit les mers évoque sa portée et son organisation, pas la conquête de chaque rivage, un tour du monde ou l’entrée dans un océan sans histoire.",
+        "ar": "كان وصول أسطول كبير حدثاً سياسياً قبل أن يكون منظراً جميلاً. تحمل السفن الناس والبضائع ورسائل عن الحاكم الذي أرسلها. وجسدت رحلات تشنغ خه ذلك في المحيط الهندي. والقول إنه غزا البحار مجاز عن المدى والتنظيم، لا ادعاء بأنه فتح كل ساحل أو دار حول الأرض أو دخل محيطاً بلا تاريخ.",
+        "es": "La llegada de una gran flota era un acontecimiento político antes que una escena pintoresca. Los barcos transportaban personas, bienes y mensajes sobre el soberano que los enviaba. Los viajes de Zheng He hicieron visible ese poder por el Índico. Decir que conquistó los mares es una metáfora de alcance y organización, no que conquistara cada costa, circunnavegara el planeta o entrara en un océano sin historia."
+      },
+      {
+        "en": "Seven expeditions, 1405 to 1433",
+        "fr": "Sept expéditions, de 1405 à 1433",
+        "ar": "سبع رحلات من 1405 إلى 1433",
+        "es": "Siete expediciones, de 1405 a 1433",
+        "heading": true
+      },
+      {
+        "en": "The Hong Kong Museum of History places the seven voyages between 1405 and 1433, from the reign of the Yongle emperor to that of Xuande. Zheng He was a Ming court eunuch who became the central commander associated with these expeditions. The destinations lay across Southeast Asia and the Indian Ocean world. The sequence matters: this was a sustained imperial programme with changing routes, not a single uninterrupted voyage.",
+        "fr": "Le Musée d’histoire de Hong Kong situe les sept voyages entre 1405 et 1433, des règnes de Yongle à Xuande. Eunuque de la cour Ming, Zheng He devint le commandant principalement associé à ces expéditions. Elles parcoururent l’Asie du Sud-Est et le monde de l’océan Indien. Cette chronologie compte : il s’agissait d’un programme impérial durable aux itinéraires variables, et non d’un voyage unique ininterrompu.",
+        "ar": "يؤرخ متحف هونغ كونغ للتاريخ الرحلات السبع بين 1405 و1433، من عهد الإمبراطور يونغله إلى شوانده. كان تشنغ خه خصياً في بلاط مينغ وأصبح القائد الأبرز المرتبط بهذه الحملات. وامتدت وجهاتها عبر جنوب شرق آسيا وعالم المحيط الهندي. يهم هذا التسلسل لأنه برنامج إمبراطوري متواصل بمسارات متغيرة، لا رحلة واحدة بلا انقطاع.",
+        "es": "El Museo de Historia de Hong Kong sitúa los siete viajes entre 1405 y 1433, de los reinados de Yongle a Xuande. Zheng He era un eunuco de la corte Ming que se convirtió en el comandante central asociado a las expediciones. Sus destinos abarcaron el sudeste asiático y el mundo del Índico. Fue un programa imperial sostenido con rutas cambiantes, no un único viaje ininterrumpido.",
+        "source": [
+          "Hong Kong Museum of History: Zheng He",
+          "https://hk.history.museum/en/web/mh/exhibition/2006_past_07.html"
+        ]
+      },
+      {
+        "en": "An already connected ocean",
+        "fr": "Un océan déjà connecté",
+        "ar": "محيط مترابط قبل وصوله",
+        "es": "Un océano que ya estaba conectado",
+        "heading": true
+      },
+      {
+        "en": "The fleets reached ports linked with India, Sri Lanka, the Persian Gulf, Arabia and East Africa. Their success depended on navigating a commercial world that already existed, with experienced sailors, ports and seasonal sailing knowledge. Zheng He did not discover these societies for humanity. His importance lies in the scale of Ming engagement with them and in the movement of envoys, prestige goods and diplomatic relationships through established maritime corridors.",
+        "fr": "Les flottes gagnèrent des ports liés à l’Inde, au Sri Lanka, au golfe Persique, à l’Arabie et à l’Afrique orientale. Leur réussite dépendait d’un monde marchand déjà constitué, avec ses marins expérimentés, ses ports et ses connaissances des saisons de navigation. Zheng He ne découvrit pas ces sociétés pour l’humanité. Son importance tient à l’ampleur de l’engagement Ming et à la circulation d’ambassades, de biens prestigieux et de relations diplomatiques.",
+        "ar": "بلغت الأساطيل موانئ متصلة بالهند وسريلانكا والخليج العربي وشبه الجزيرة العربية وشرق أفريقيا. واعتمد نجاحها على عالم تجاري قائم، يضم بحارة ذوي خبرة وموانئ ومعرفة بمواسم الإبحار. لم يكتشف تشنغ خه هذه المجتمعات للبشرية. تكمن أهميته في حجم انخراط مينغ معها وفي حركة المبعوثين والسلع النفيسة والعلاقات الدبلوماسية عبر ممرات بحرية معروفة.",
+        "es": "Las flotas alcanzaron puertos vinculados con India, Sri Lanka, el golfo Pérsico, Arabia y África oriental. Su éxito dependía de un mundo comercial preexistente, con marineros experimentados, puertos y conocimiento de las estaciones de navegación. Zheng He no descubrió esas sociedades para la humanidad. Su importancia reside en la escala de la participación Ming y en la circulación de enviados, bienes de prestigio y relaciones diplomáticas por corredores conocidos.",
+        "source": [
+          "Columbia University: the Ming voyages",
+          "https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm"
+        ]
+      },
+      {
+        "en": "Diplomacy backed by force",
+        "fr": "Une diplomatie appuyée par la force",
+        "ar": "دبلوماسية تسندها القوة",
+        "es": "Diplomacia respaldada por la fuerza",
+        "heading": true
+      },
+      {
+        "en": "Historian Geoff Wade’s research challenges the comfortable image of exclusively peaceful missions. The voyages projected imperial authority and included military intervention, notably in Sri Lanka, where the ruler Alakeshvara was captured and taken to the Ming court. Gifts, commerce and ceremonial recognition could coexist with coercion. A responsible account can recognise remarkable maritime coordination without converting state power into either a harmless pageant or a simple story of universal territorial conquest.",
+        "fr": "Les recherches de l’historien Geoff Wade contestent l’image commode de missions exclusivement pacifiques. Les expéditions projetaient l’autorité impériale et comprirent des interventions militaires, notamment au Sri Lanka, où le dirigeant Alakeshvara fut capturé puis conduit à la cour Ming. Cadeaux, commerce et reconnaissance cérémonielle pouvaient coexister avec la contrainte. On peut admirer la coordination maritime sans réduire la puissance d’État à un spectacle inoffensif ou à une conquête territoriale universelle.",
+        "ar": "تراجع أبحاث المؤرخ جيف ويد الصورة المريحة لبعثات سلمية حصراً. فقد أظهرت الرحلات السلطة الإمبراطورية وشملت تدخلاً عسكرياً، أبرز أمثلته في سريلانكا حيث أُسر الحاكم ألاكيشفارا ونُقل إلى بلاط مينغ. أمكن أن تجتمع الهدايا والتجارة والاعتراف الرسمي مع الإكراه. ويمكن تقدير التنسيق البحري المذهل دون تحويل قوة الدولة إلى احتفال بريء أو حكاية فتح إقليمي شامل.",
+        "es": "La investigación del historiador Geoff Wade cuestiona la cómoda imagen de misiones exclusivamente pacíficas. Los viajes proyectaron autoridad imperial e incluyeron intervención militar, especialmente en Sri Lanka, donde Alakeshvara fue capturado y llevado a la corte Ming. Regalos, comercio y reconocimiento ceremonial podían coexistir con coacción. Es posible reconocer una coordinación marítima extraordinaria sin convertir el poder estatal en un desfile inofensivo ni en conquista territorial universal.",
+        "source": [
+          "Geoff Wade, Asia Research Institute: Zheng He and Southeast Asia",
+          "https://ari.nus.edu.sg/wp-content/uploads/2018/10/wps04_031.pdf"
+        ]
+      },
+      {
+        "en": "What the spectacular ships cannot prove",
+        "fr": "Ce que les navires spectaculaires ne prouvent pas",
+        "ar": "ما لا تثبته السفن المبهرة",
+        "es": "Lo que los barcos espectaculares no prueban",
+        "heading": true
+      },
+      {
+        "en": "Treasure ships dominate modern images of Zheng He. Their exact dimensions remain debated, so an imagined fleet is not a measurement or a technical reconstruction. Nor does the established record of Indian Ocean voyages justify stories of a verified 1421 discovery of the Americas. The documented geography is impressive enough. Treating uncertain details as uncertain makes the real achievement easier to see rather than diminishing it.",
+        "fr": "Les navires au trésor dominent les représentations modernes. Leurs dimensions exactes restent débattues : une flotte imaginée n’est ni une mesure ni une reconstitution technique. Les voyages attestés dans l’océan Indien ne justifient pas davantage une découverte prétendument vérifiée des Amériques en 1421. La géographie documentée suffit à impressionner. Respecter les incertitudes rend l’accomplissement réel plus lisible, sans le diminuer.",
+        "ar": "تهيمن سفن الكنوز على صور تشنغ خه الحديثة. وما زالت أبعادها الدقيقة موضع نقاش، لذلك ليس الأسطول المتخيل قياساً أو إعادة بناء هندسية. كما لا تسند رحلات المحيط الهندي المثبتة قصص اكتشاف موثق للأمريكتين عام 1421. والجغرافيا المعروفة مثيرة للإعجاب بما يكفي. إبقاء التفاصيل غير المؤكدة في حدودها يوضح الإنجاز الحقيقي ولا ينتقص منه.",
+        "es": "Los barcos del tesoro dominan las imágenes modernas. Sus dimensiones exactas siguen en debate: una flota imaginada no es una medición ni una reconstrucción técnica. Tampoco el registro de los viajes por el Índico respalda relatos de un descubrimiento verificado de América en 1421. La geografía documentada ya impresiona. Reconocer las incertidumbres permite ver mejor el logro real, sin reducirlo."
+      },
+      {
+        "en": "When the great expeditions ended, the ocean’s trading networks did not disappear. The end of a particular court-sponsored programme is not the end of Chinese maritime life. Zheng He’s lasting value is that he changes the scale of our historical map: early fifteenth-century connections between Asian and African ports were substantial, political and already deeply international.",
+        "fr": "La fin des grandes expéditions ne fit pas disparaître les réseaux marchands. La fin d’un programme de cour n’est pas celle de la vie maritime chinoise. Zheng He nous invite surtout à changer l’échelle de notre carte historique : les liens entre ports asiatiques et africains au début du XVe siècle étaient importants, politiques et déjà profondément internationaux.",
+        "ar": "لم تختف شبكات التجارة البحرية بانتهاء الحملات الكبرى. فنهاية برنامج ترعاه البلاط ليست نهاية الحياة البحرية الصينية. وتكمن قيمة تشنغ خه الدائمة في توسيع خريطتنا التاريخية: كانت الصلات بين الموانئ الآسيوية والأفريقية في مطلع القرن الخامس عشر واسعة وسياسية ودولية بالفعل.",
+        "es": "Cuando terminaron las grandes expediciones, las redes comerciales no desaparecieron. El final de un programa cortesano no equivale al fin de la vida marítima china. Zheng He amplía nuestra escala histórica: los vínculos entre puertos asiáticos y africanos a comienzos del siglo XV eran sustanciales, políticos y profundamente internacionales.",
+        "source": [
+          "Columbia University: the Ming voyages",
+          "https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm"
+        ]
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "How many voyages were there?",
+          "Seven major Ming expeditions associated with Zheng He took place between 1405 and 1433."
+        ],
+        [
+          "Were the voyages entirely peaceful?",
+          "No. Diplomacy and trade were accompanied by demonstrations of imperial power and episodes of armed intervention."
+        ],
+        [
+          "Did Zheng He discover America?",
+          "The documented Indian Ocean voyages do not establish that claim. A verified 1421 discovery of the Americas is not part of the evidence presented here."
+        ]
+      ],
+      "fr": [
+        [
+          "Combien de voyages eut-il ?",
+          "Sept grandes expéditions Ming associées à Zheng He eurent lieu entre 1405 et 1433."
+        ],
+        [
+          "Étaient-elles entièrement pacifiques ?",
+          "Non. Diplomatie et commerce s’accompagnaient de démonstrations de puissance impériale et d’interventions armées."
+        ],
+        [
+          "Zheng He découvrit-il l’Amérique ?",
+          "Les voyages documentés dans l’océan Indien ne l’établissent pas. Une découverte vérifiée en 1421 ne figure pas dans les preuves présentées."
+        ]
+      ],
+      "ar": [
+        [
+          "كم رحلة كانت هناك؟",
+          "وقعت سبع حملات كبرى لمينغ مرتبطة بتشنغ خه بين 1405 و1433."
+        ],
+        [
+          "هل كانت الرحلات سلمية تماماً؟",
+          "لا. رافقت الدبلوماسية والتجارة عروض للقوة الإمبراطورية ووقائع تدخل مسلح."
+        ],
+        [
+          "هل اكتشف تشنغ خه أمريكا؟",
+          "لا تثبت رحلات المحيط الهندي الموثقة ذلك. ولا يدخل اكتشاف محقق للأمريكتين عام 1421 ضمن الأدلة المعروضة هنا."
+        ]
+      ],
+      "es": [
+        [
+          "¿Cuántos viajes hubo?",
+          "Siete grandes expediciones Ming asociadas a Zheng He tuvieron lugar entre 1405 y 1433."
+        ],
+        [
+          "¿Fueron enteramente pacíficos?",
+          "No. La diplomacia y el comercio coexistieron con demostraciones de poder imperial e intervenciones armadas."
+        ],
+        [
+          "¿Descubrió América?",
+          "Los viajes documentados por el Índico no establecen esa afirmación. Un descubrimiento verificado en 1421 no forma parte de la evidencia presentada."
+        ]
+      ]
+    }
+  },
+  {
+    "key": "qr",
+    "slug": "qr-code-history-simple-square-digital-world",
+    "attachment": "1-1000088301.jpg",
+    "image": "qr-code-history-phone-scanning-editorial.jpg",
+    "category": "AI",
+    "schemaType": "Article",
+    "tags": [
+      "QR code",
+      "DENSO",
+      "Masahiro Hara",
+      "Digital technology"
+    ],
+    "related": "electronic-skin-robots-sense-of-touch",
+    "relatedLabel": [
+      "Electronic skin and the interfaces of the future",
+      "La peau électronique et les interfaces du futur",
+      "الجلد الإلكتروني وواجهات المستقبل",
+      "La piel electrónica y las interfaces del futuro"
+    ],
+    "meta": {
+      "en": [
+        "THE QR CODE: HOW A SIMPLE SQUARE CHANGED THE DIGITAL WORLD",
+        "QR Code History: From Factory Floors to Everyday Life",
+        "Discover how DENSO’s team created the QR code in 1994, why its square patterns scan so quickly and how industrial design became an everyday digital interface.",
+        "QR CODE",
+        "CHANGED THE DIGITAL WORLD",
+        "Conceptual editorial composite of a phone scanning a QR-like pattern beside an imagined historical engineer portrait."
+      ],
+      "fr": [
+        "LE QR CODE : COMMENT UN SIMPLE CARRÉ A CHANGÉ LE MONDE NUMÉRIQUE",
+        "L’histoire du QR code : de l’usine à la vie quotidienne",
+        "Découvrez le QR code créé en 1994 chez DENSO, ses repères de lecture et la manière dont cet outil industriel est devenu une interface du quotidien.",
+        "QR CODE",
+        "CHANGÉ LE MONDE NUMÉRIQUE",
+        "Composition éditoriale conceptuelle montrant un téléphone devant un motif de type QR et un portrait historique imaginaire d’ingénieur."
+      ],
+      "ar": [
+        "رمز QR: كيف غيّر مربع بسيط العالم الرقمي",
+        "تاريخ رمز QR: من خطوط الإنتاج إلى حياتنا اليومية",
+        "اكتشف كيف طوّر فريق دينسو رمز QR عام 1994، ولماذا تساعد أنماطه المربعة على القراءة السريعة وكيف تحول ابتكار صناعي إلى واجهة يومية.",
+        "رمز QR",
+        "غيّر مربع بسيط العالم الرقمي",
+        "تركيب تحريري تصوري لهاتف يقرأ نمطاً شبيهاً برمز QR بجانب بورتريه تاريخي متخيل لمهندس."
+      ],
+      "es": [
+        "EL CÓDIGO QR: CÓMO UN SIMPLE CUADRADO CAMBIÓ EL MUNDO DIGITAL",
+        "Historia del código QR: de la fábrica a la vida cotidiana",
+        "Descubre cómo un equipo de DENSO creó el QR en 1994, por qué sus patrones facilitan la lectura y cómo un diseño industrial pasó a la vida diaria.",
+        "CÓDIGO QR",
+        "CAMBIÓ EL MUNDO DIGITAL",
+        "Composición editorial conceptual de un teléfono ante un patrón similar a un QR junto a un retrato histórico imaginado de un ingeniero."
+      ]
+    },
+    "disclosure": [
+      "Conceptual editorial composite. The portrait is not an authenticated image of Masahiro Hara or his team. The illustrated patterns are not verified working QR codes or approved destinations.",
+      "Composition éditoriale conceptuelle. Le portrait n’est pas une image authentifiée de Masahiro Hara ou de son équipe. Les motifs ne sont pas des QR codes fonctionnels ou des destinations validées.",
+      "تركيب تحريري تصوري. البورتريه ليس صورة موثقة لماساهيرو هارا أو فريقه. ولم تُتحقق صلاحية الأنماط بوصفها رموز QR عاملة أو روابط معتمدة.",
+      "Composición editorial conceptual. El retrato no es una imagen autenticada de Masahiro Hara ni de su equipo. Los patrones no son códigos funcionales ni destinos verificados."
+    ],
+    "blocks": [
+      {
+        "en": "A camera meets a square, and a physical object becomes a digital doorway. A menu, a ticket or a component on a production line can carry the same basic invitation: read this pattern to retrieve information. The QR code feels native to the smartphone age. Its origins are elsewhere, in the unglamorous but consequential problem of moving information efficiently through industrial work.",
+        "fr": "Une caméra rencontre un carré et un objet physique devient une porte numérique. Un menu, un billet ou une pièce sur une chaîne de production peut porter la même invitation : lire ce motif pour obtenir une information. Le QR code semble né avec le smartphone. Il vient pourtant d’un problème industriel moins spectaculaire, mais décisif : faire circuler l’information efficacement.",
+        "ar": "تلتقي كاميرا بمربع، فيصبح الشيء المادي باباً رقمياً. يمكن لقائمة طعام أو تذكرة أو قطعة على خط إنتاج أن تحمل الدعوة نفسها: اقرأ هذا النمط للحصول على معلومات. يبدو رمز QR ابن عصر الهواتف الذكية، لكن أصله في مكان آخر، داخل مشكلة صناعية غير براقة لكنها مؤثرة: نقل المعلومات بكفاءة خلال العمل.",
+        "es": "Una cámara encuentra un cuadrado y un objeto físico se convierte en puerta digital. Un menú, una entrada o una pieza en una línea de producción pueden llevar la misma invitación: leer el patrón para recuperar información. El QR parece propio de la era del teléfono inteligente. Su origen está en una tarea industrial menos vistosa, pero decisiva: mover información con eficiencia."
+      },
+      {
+        "en": "The factory problem behind the square",
+        "fr": "Le problème industriel derrière le carré",
+        "ar": "المشكلة الصناعية خلف المربع",
+        "es": "El problema industrial detrás del cuadrado",
+        "heading": true
+      },
+      {
+        "en": "DENSO dates the invention to 1994, in response to the need to handle product information more efficiently in factories. Ordinary linear barcodes were useful, but the team wanted more capacity and faster reading. The new format belonged to a practical search for a better production tool, not to a plan for restaurant menus or pandemic-era check-ins. Those later uses explain its visibility, not its invention.",
+        "fr": "DENSO date l’invention de 1994, en réponse au besoin de gérer plus efficacement les informations de production. Les codes-barres linéaires étaient utiles, mais l’équipe recherchait davantage de capacité et une lecture plus rapide. Il s’agissait d’améliorer un outil industriel, pas de concevoir des menus de restaurant ou des enregistrements sanitaires. Ces usages ultérieurs expliquent sa visibilité, pas sa création.",
+        "ar": "تؤرخ دينسو الابتكار بعام 1994، استجابة للحاجة إلى معالجة معلومات المنتجات بكفاءة أكبر في المصانع. كانت الرموز الشريطية الخطية مفيدة، لكن الفريق أراد سعة أعلى وقراءة أسرع. انطلق التنسيق الجديد من بحث عملي عن أداة إنتاج أفضل، لا من خطة لقوائم المطاعم أو تسجيل الدخول في زمن الجائحة. تفسر الاستخدامات اللاحقة شهرته لا اختراعه.",
+        "es": "DENSO fecha la invención en 1994, como respuesta a la necesidad de gestionar mejor la información de los productos en las fábricas. Los códigos lineales eran útiles, pero el equipo buscaba más capacidad y lectura rápida. Se trataba de mejorar una herramienta de producción, no de diseñar menús de restaurante o registros de la pandemia. Esos usos posteriores explican su visibilidad, no su invención.",
+        "source": [
+          "DENSO WAVE: QR Code 25th anniversary and development account",
+          "https://www.denso-wave.com/en/adcd/info/detail__190808_01.html"
+        ]
+      },
+      {
+        "en": "Masahiro Hara and a team achievement",
+        "fr": "Masahiro Hara et un travail d’équipe",
+        "ar": "ماساهيرو هارا وإنجاز فريق",
+        "es": "Masahiro Hara y un logro de equipo",
+        "heading": true
+      },
+      {
+        "en": "DENSO WAVE’s history identifies Masahiro Hara as the leader of the development team. QR stands for Quick Response. Unlike a one-dimensional barcode, the design stores information in two directions. Its prominent finder patterns help a reader locate and orient the symbol. That combination of capacity and recognisability matters: information has little practical value if a busy reader cannot locate and decode it reliably.",
+        "fr": "L’histoire publiée par DENSO WAVE présente Masahiro Hara comme le responsable de l’équipe de développement. QR signifie Quick Response. Contrairement au code-barres unidimensionnel, le système stocke des informations dans deux directions. Ses repères visuels aident le lecteur à localiser et orienter le symbole. Capacité et reconnaissance doivent fonctionner ensemble : une information devient peu utile si elle reste difficile à trouver et à décoder.",
+        "ar": "يحدد تاريخ دينسو ويف ماساهيرو هارا قائداً لفريق التطوير. ويعني QR الاستجابة السريعة. وعلى خلاف الرمز الشريطي أحادي البعد، يخزن التصميم المعلومات في اتجاهين. وتساعد أنماط التحديد البارزة القارئ على العثور على الرمز وتحديد اتجاهه. هذا الجمع بين السعة وسهولة التعرف أساسي، لأن المعلومات تفقد قيمتها العملية إذا تعذر تحديدها وفكها بموثوقية.",
+        "es": "La historia de DENSO WAVE identifica a Masahiro Hara como responsable del equipo de desarrollo. QR significa Quick Response. A diferencia del código de barras unidimensional, almacena información en dos direcciones. Sus patrones destacados ayudan al lector a localizar y orientar el símbolo. Capacidad y reconocimiento importan juntos: la información sirve de poco si resulta difícil encontrarla y descodificarla.",
+        "source": [
+          "DENSO WAVE: history of QR Code",
+          "https://www.qrcode.com/en/history/"
+        ]
+      },
+      {
+        "en": "Why a little damage need not break it",
+        "fr": "Pourquoi un petit dommage peut être toléré",
+        "ar": "لماذا قد يتحمل بعض التلف؟",
+        "es": "Por qué puede tolerar ciertos daños",
+        "heading": true
+      },
+      {
+        "en": "QR codes add Reed-Solomon error correction to their data. Different correction levels balance recoverability against the amount of information that can fit in a symbol of a given size. This is not permission to cover any part of a code without consequence: the amount and location of damage, print quality and remaining structural patterns all matter. Error correction is engineered resilience, not a guarantee that every altered square will scan.",
+        "fr": "Les QR codes ajoutent aux données une correction d’erreurs Reed-Solomon. Plusieurs niveaux permettent d’arbitrer entre récupération et quantité d’information dans un symbole de taille donnée. Cela ne signifie pas que toute zone peut être masquée sans conséquence : étendue et emplacement des dommages, qualité d’impression et repères restants comptent. La correction apporte de la robustesse, pas la garantie que chaque carré modifié restera lisible.",
+        "ar": "تضيف رموز QR تصحيح أخطاء ريد سولومون إلى البيانات. وتوازن المستويات المختلفة بين استعادة البيانات وكمية المعلومات التي يتسع لها رمز بحجم معين. لا يعني ذلك إمكان حجب أي جزء بلا أثر؛ فمقدار التلف ومكانه وجودة الطباعة وبقاء الأنماط البنيوية عوامل مهمة. تصحيح الأخطاء مرونة هندسية، لا ضمان بأن كل مربع معدل سيُقرأ.",
+        "es": "Los códigos QR añaden corrección de errores Reed-Solomon a los datos. Sus distintos niveles equilibran recuperación y cantidad de información que cabe en un símbolo de tamaño determinado. No significa que pueda taparse cualquier zona sin consecuencias: importan la extensión y ubicación del daño, la impresión y los patrones estructurales restantes. Es resistencia diseñada, no garantía de lectura de cualquier cuadrado alterado.",
+        "source": [
+          "DENSO WAVE: error correction",
+          "https://www.qrcode.com/en/about/error_correction.html"
+        ]
+      },
+      {
+        "en": "A format that could travel",
+        "fr": "Un format capable de se diffuser",
+        "ar": "تنسيق قابل للانتشار",
+        "es": "Un formato que pudo difundirse",
+        "heading": true
+      },
+      {
+        "en": "DENSO WAVE says it retained patent rights while declaring that it would not exercise them for standardised QR codes. That distinction is more precise than saying there was never a patent. The format’s availability helped other organisations adopt it. Its history is therefore about distribution as well as invention: a useful tool becomes infrastructure when many unrelated people can build compatible practices around it.",
+        "fr": "DENSO WAVE indique avoir conservé ses droits de brevet tout en déclarant ne pas les exercer pour les QR codes normalisés. C’est plus précis que d’affirmer qu’aucun brevet n’a existé. Cette disponibilité a favorisé l’adoption du format. Son histoire concerne donc la diffusion autant que l’invention : un outil devient une infrastructure quand des acteurs indépendants peuvent construire des usages compatibles.",
+        "ar": "تقول دينسو ويف إنها احتفظت بحقوق البراءة مع إعلان عدم ممارستها بالنسبة إلى رموز QR المطابقة للمعيار. هذا أدق من الزعم بعدم وجود براءة أصلاً. وقد ساعدت إتاحة التنسيق مؤسسات أخرى على تبنيه. فتاريخه قصة انتشار بقدر ما هو قصة اختراع: تصبح الأداة بنية أساسية حين يستطيع أطراف مستقلون بناء استخدامات متوافقة حولها.",
+        "es": "DENSO WAVE afirma que conservó derechos de patente mientras declaró que no los ejercería para los códigos QR normalizados. Es más preciso que decir que nunca hubo patente. La disponibilidad favoreció su adopción. Su historia trata de difusión tanto como de invención: una herramienta se vuelve infraestructura cuando actores independientes construyen usos compatibles a su alrededor.",
+        "source": [
+          "DENSO WAVE: history of QR Code",
+          "https://www.qrcode.com/en/history/"
+        ]
+      },
+      {
+        "en": "A final distinction helps explain everyday use. A QR code can contain a web address; it does not contain the whole website behind that address. The destination can change while the printed square remains identical. Nor does the square certify who operates the destination. Its achievement is simpler and more durable: it reduces the effort of moving between a physical surface and digital information, often to a single camera gesture.",
+        "fr": "Une dernière distinction éclaire l’usage quotidien. Un QR code peut contenir une adresse web, pas tout le site qui se trouve derrière elle. Le contenu de destination peut changer sans modifier le carré imprimé. Celui-ci ne certifie pas non plus l’identité de l’exploitant. Son apport est plus simple et durable : réduire le passage entre une surface physique et l’information numérique à un geste de caméra.",
+        "ar": "ويساعد تمييز أخير على فهم الاستخدام اليومي. قد يحتوي الرمز على عنوان ويب، لكنه لا يضم الموقع كله خلف العنوان. ويمكن أن يتغير محتوى الوجهة مع بقاء المربع المطبوع نفسه. كما لا يشهد المربع على هوية مشغل الوجهة. إنجازه أبسط وأكثر دواماً: تقليل جهد الانتقال من سطح مادي إلى معلومات رقمية، غالباً بإشارة واحدة للكاميرا.",
+        "es": "Una última distinción aclara el uso cotidiano. Un QR puede contener una dirección web, no toda la página que hay detrás. El contenido de destino puede cambiar sin modificar el cuadrado impreso. Tampoco certifica quién gestiona ese destino. Su logro es más sencillo y duradero: reducir el esfuerzo de pasar de una superficie física a información digital, a menudo con un solo gesto de cámara."
+      }
+    ],
+    "faq": {
+      "en": [
+        [
+          "Who invented the QR code, and when?",
+          "A development team led by Masahiro Hara at DENSO, now associated with DENSO WAVE, created the QR code released in 1994."
+        ],
+        [
+          "Does a QR code need artificial intelligence?",
+          "No. QR encoding and decoding follow a defined technical format; AI is not required for the basic function."
+        ],
+        [
+          "Can a printed QR code change?",
+          "Its encoded data stays the same. If it contains a URL, the website or redirect behind that URL may change."
+        ]
+      ],
+      "fr": [
+        [
+          "Qui a inventé le QR code et quand ?",
+          "Une équipe dirigée par Masahiro Hara chez DENSO, aujourd’hui associée à DENSO WAVE, créa le QR code lancé en 1994."
+        ],
+        [
+          "Le QR code nécessite-t-il une IA ?",
+          "Non. Encodage et décodage suivent un format technique défini ; l’IA n’est pas nécessaire à la fonction de base."
+        ],
+        [
+          "Un QR code imprimé peut-il changer ?",
+          "Ses données encodées restent identiques. S’il contient une URL, le site ou la redirection derrière celle-ci peut évoluer."
+        ]
+      ],
+      "ar": [
+        [
+          "من اخترع رمز QR ومتى؟",
+          "طوّره فريق بقيادة ماساهيرو هارا في دينسو، المرتبط اليوم بدينسو ويف، وأُطلق عام 1994."
+        ],
+        [
+          "هل يحتاج الرمز إلى ذكاء اصطناعي؟",
+          "لا. يتبع الترميز وفك الترميز تنسيقاً تقنياً محدداً، ولا تتطلب الوظيفة الأساسية ذكاء اصطناعياً."
+        ],
+        [
+          "هل يمكن أن يتغير الرمز المطبوع؟",
+          "تبقى بياناته المشفرة نفسها. وإذا احتوى على عنوان ويب، فقد يتغير الموقع أو إعادة التوجيه خلف ذلك العنوان."
+        ]
+      ],
+      "es": [
+        [
+          "¿Quién lo inventó y cuándo?",
+          "Un equipo dirigido por Masahiro Hara en DENSO, hoy asociado a DENSO WAVE, creó el QR lanzado en 1994."
+        ],
+        [
+          "¿Necesita inteligencia artificial?",
+          "No. La codificación y lectura siguen un formato técnico definido; la función básica no requiere IA."
+        ],
+        [
+          "¿Puede cambiar un QR impreso?",
+          "Sus datos codificados siguen iguales. Si contiene una URL, el sitio o la redirección detrás de esa dirección puede cambiar."
+        ]
+      ]
+    }
+  }
+]

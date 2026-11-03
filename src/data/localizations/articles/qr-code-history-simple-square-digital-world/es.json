@@ -1,0 +1,109 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/qr-code-history-simple-square-digital-world/",
+  "path": "/es/articles/qr-code-history-simple-square-digital-world/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-04",
+    "terminologyChecked": true
+  },
+  "title": "EL CÓDIGO QR: CÓMO UN SIMPLE CUADRADO CAMBIÓ EL MUNDO DIGITAL",
+  "seoTitle": "Historia del código QR: de la fábrica a la vida cotidiana",
+  "description": "Descubre cómo un equipo de DENSO creó el QR en 1994, por qué sus patrones facilitan la lectura y cómo un diseño industrial pasó a la vida diaria.",
+  "excerpt": "Descubre cómo un equipo de DENSO creó el QR en 1994, por qué sus patrones facilitan la lectura y cómo un diseño industrial pasó a la vida diaria.",
+  "headlineHighlights": {
+    "red": "CÓDIGO QR",
+    "gold": "CAMBIÓ EL MUNDO DIGITAL"
+  },
+  "keywords": [
+    "CÓDIGO QR",
+    "CAMBIÓ EL MUNDO DIGITAL"
+  ],
+  "searchIntent": "Descubre cómo un equipo de DENSO creó el QR en 1994, por qué sus patrones facilitan la lectura y cómo un diseño industrial pasó a la vida diaria.",
+  "category": "AI",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "image": {
+    "src": "/articles/qr-code-history-phone-scanning-editorial.jpg",
+    "alt": "Composición editorial conceptual de un teléfono ante un patrón similar a un QR junto a un retrato histórico imaginado de un ingeniero.",
+    "width": 1280,
+    "height": 720
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Una cámara encuentra un cuadrado y un objeto físico se convierte en puerta digital. Un menú, una entrada o una pieza en una línea de producción pueden llevar la misma invitación: leer el patrón para recuperar información. El QR parece propio de la era del teléfono inteligente. Su origen está en una tarea industrial menos vistosa, pero decisiva: mover información con eficiencia."
+    },
+    {
+      "type": "heading",
+      "text": "El problema industrial detrás del cuadrado"
+    },
+    {
+      "type": "paragraph",
+      "text": "DENSO fecha la invención en 1994, como respuesta a la necesidad de gestionar mejor la información de los productos en las fábricas. Los códigos lineales eran útiles, pero el equipo buscaba más capacidad y lectura rápida. Se trataba de mejorar una herramienta de producción, no de diseñar menús de restaurante o registros de la pandemia. Esos usos posteriores explican su visibilidad, no su invención. [Fuente: www.denso-wave.com](https://www.denso-wave.com/en/adcd/info/detail__190808_01.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Masahiro Hara y un logro de equipo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La historia de DENSO WAVE identifica a Masahiro Hara como responsable del equipo de desarrollo. QR significa Quick Response. A diferencia del código de barras unidimensional, almacena información en dos direcciones. Sus patrones destacados ayudan al lector a localizar y orientar el símbolo. Capacidad y reconocimiento importan juntos: la información sirve de poco si resulta difícil encontrarla y descodificarla. [Fuente: www.qrcode.com](https://www.qrcode.com/en/history/)"
+    },
+    {
+      "type": "heading",
+      "text": "Por qué puede tolerar ciertos daños"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los códigos QR añaden corrección de errores Reed-Solomon a los datos. Sus distintos niveles equilibran recuperación y cantidad de información que cabe en un símbolo de tamaño determinado. No significa que pueda taparse cualquier zona sin consecuencias: importan la extensión y ubicación del daño, la impresión y los patrones estructurales restantes. Es resistencia diseñada, no garantía de lectura de cualquier cuadrado alterado. [Fuente: www.qrcode.com](https://www.qrcode.com/en/about/error_correction.html)"
+    },
+    {
+      "type": "heading",
+      "text": "Un formato que pudo difundirse"
+    },
+    {
+      "type": "paragraph",
+      "text": "DENSO WAVE afirma que conservó derechos de patente mientras declaró que no los ejercería para los códigos QR normalizados. Es más preciso que decir que nunca hubo patente. La disponibilidad favoreció su adopción. Su historia trata de difusión tanto como de invención: una herramienta se vuelve infraestructura cuando actores independientes construyen usos compatibles a su alrededor. [Fuente: www.qrcode.com](https://www.qrcode.com/en/history/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una última distinción aclara el uso cotidiano. Un QR puede contener una dirección web, no toda la página que hay detrás. El contenido de destino puede cambiar sin modificar el cuadrado impreso. Tampoco certifica quién gestiona ese destino. Su logro es más sencillo y duradero: reducir el esfuerzo de pasar de una superficie física a información digital, a menudo con un solo gesto de cámara."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [La piel electrónica y las interfaces del futuro](/articles/electronic-skin-robots-sense-of-touch/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.denso-wave.com",
+      "url": "https://www.denso-wave.com/en/adcd/info/detail__190808_01.html"
+    },
+    {
+      "label": "Fuente: www.qrcode.com",
+      "url": "https://www.qrcode.com/en/history/"
+    },
+    {
+      "label": "Fuente: www.qrcode.com",
+      "url": "https://www.qrcode.com/en/about/error_correction.html"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Quién lo inventó y cuándo?",
+      "answer": "Un equipo dirigido por Masahiro Hara en DENSO, hoy asociado a DENSO WAVE, creó el QR lanzado en 1994."
+    },
+    {
+      "question": "¿Necesita inteligencia artificial?",
+      "answer": "No. La codificación y lectura siguen un formato técnico definido; la función básica no requiere IA."
+    },
+    {
+      "question": "¿Puede cambiar un QR impreso?",
+      "answer": "Sus datos codificados siguen iguales. Si contiene una URL, el sitio o la redirección detrás de esa dirección puede cambiar."
+    }
+  ]
+}

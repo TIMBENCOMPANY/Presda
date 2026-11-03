@@ -1,0 +1,107 @@
+[
+  {
+    "key": "batfish",
+    "slug": "red-lipped-batfish-walks-seafloor-galapagos",
+    "original": "3-1000088293.jpg",
+    "sourceSha256": "8c1482bb70695e5083781cf057a5c7adf25eab473b1c15c159be283768716352",
+    "sha256": "8c1482bb70695e5083781cf057a5c7adf25eab473b1c15c159be283768716352",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 96456,
+    "image": "/articles/red-lipped-batfish-walking-seafloor-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "foxes",
+    "slug": "giant-flying-foxes-philippines-golden-crowned-bats",
+    "original": "2-1000088300.jpg",
+    "sourceSha256": "d505ab7a8e55108d29295b7650f5f75c620b51d91b0054ee71616ca7076316e6",
+    "sha256": "d505ab7a8e55108d29295b7650f5f75c620b51d91b0054ee71616ca7076316e6",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 161153,
+    "image": "/articles/giant-flying-fox-philippines-spread-wings-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "hypatia",
+    "slug": "hypatia-brilliant-woman-ancient-alexandria",
+    "original": "4-1000088294.jpg",
+    "sourceSha256": "67881bc08f47600e313ae19e1a41761cee0821d63bbad1afe1e26034a2be1eba",
+    "sha256": "67881bc08f47600e313ae19e1a41761cee0821d63bbad1afe1e26034a2be1eba",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 163273,
+    "image": "/articles/hypatia-alexandria-teaching-historical-reconstruction.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "zheng",
+    "slug": "zheng-he-chinese-admiral-seven-indian-ocean-voyages",
+    "original": "5-1000088311.jpg",
+    "sourceSha256": "6422131f5aca524e7706ba9667baa033d42d1be7c7e85358b0d16fb647cf8ec7",
+    "sha256": "6422131f5aca524e7706ba9667baa033d42d1be7c7e85358b0d16fb647cf8ec7",
+    "sourceDimensions": [
+      1280,
+      721
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 203596,
+    "image": "/articles/zheng-he-ming-fleet-historical-reconstruction.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  },
+  {
+    "key": "qr",
+    "slug": "qr-code-history-simple-square-digital-world",
+    "original": "1-1000088301.jpg",
+    "sourceSha256": "3f2998e5ab674b66ca46e141e1dda62e20047d9b32d8f842734ad6a1cec978d5",
+    "sha256": "3f2998e5ab674b66ca46e141e1dda62e20047d9b32d8f842734ad6a1cec978d5",
+    "sourceDimensions": [
+      1280,
+      720
+    ],
+    "sourceMetadata": {
+      "exif": false,
+      "xmp": false,
+      "iptc": false
+    },
+    "bytes": 119201,
+    "image": "/articles/qr-code-history-phone-scanning-editorial.jpg",
+    "credit": "Editorial image supplied for PRESDA",
+    "creator": null,
+    "license": null
+  }
+]

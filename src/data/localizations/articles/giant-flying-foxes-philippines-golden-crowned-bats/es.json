@@ -1,0 +1,101 @@
+{
+  "locale": "es",
+  "englishPath": "/articles/giant-flying-foxes-philippines-golden-crowned-bats/",
+  "path": "/es/articles/giant-flying-foxes-philippines-golden-crowned-bats/",
+  "kind": "article",
+  "status": "published",
+  "review": {
+    "reviewer": "Codex source and terminology review",
+    "reviewedAt": "2026-11-04",
+    "terminologyChecked": true
+  },
+  "title": "ZORROS VOLADORES GIGANTES: LOS ENORMES MURCIÉLAGOS DE FILIPINAS",
+  "seoTitle": "Zorros voladores gigantes: los murciélagos de Filipinas",
+  "description": "Descubre al zorro volador filipino de corona dorada, sus grandes alas, su dieta de fruta y su papel forestal. Biología real frente a mitos virales.",
+  "excerpt": "Descubre al zorro volador filipino de corona dorada, sus grandes alas, su dieta de fruta y su papel forestal. Biología real frente a mitos virales.",
+  "headlineHighlights": {
+    "red": "ZORROS VOLADORES GIGANTES",
+    "gold": "MURCIÉLAGOS DE FILIPINAS"
+  },
+  "keywords": [
+    "ZORROS VOLADORES GIGANTES",
+    "MURCIÉLAGOS DE FILIPINAS"
+  ],
+  "searchIntent": "Descubre al zorro volador filipino de corona dorada, sus grandes alas, su dieta de fruta y su papel forestal. Biología real frente a mitos virales.",
+  "category": "Science",
+  "author": "PRESDA Editorial",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "image": {
+    "src": "/articles/giant-flying-fox-philippines-spread-wings-editorial.jpg",
+    "alt": "Ilustración editorial suministrada de un zorro volador colgado de una rama con las alas extendidas e iluminadas en naranja.",
+    "width": 1280,
+    "height": 721
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Un murciélago abre las alas y parece mucho mayor que el animal que descansaba un instante antes en el árbol. Esa transformación explica la fascinación por los zorros voladores gigantes de Filipinas. Sus alas son realmente enormes. El salto a un monstruo de tamaño humano dice más de las fotografías virales que de unos animales cuya vida depende de la fruta, el bosque y los vulnerables refugios comunales."
+    },
+    {
+      "type": "heading",
+      "text": "El zorro volador de corona dorada"
+    },
+    {
+      "type": "paragraph",
+      "text": "Acerodon jubatus, el zorro volador gigante de corona dorada, es endémico de Filipinas. Bat Conservation International lo identifica como un murciélago frugívoro de la familia Pteropodidae, con una dieta muy vinculada a los higos. Zorro volador es un nombre común, no un parentesco con los zorros. Tampoco todos los grandes murciélagos filipinos son de esta especie: puede compartir refugios con Pteropus vampyrus, otra especie. [Fuente: www.batcon.org](https://www.batcon.org/bat/acerodon-jubatus/)"
+    },
+    {
+      "type": "heading",
+      "text": "Grandes alas, un cuerpo mucho menor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Animal Diversity Web, de la Universidad de Michigan, recoge envergaduras de aproximadamente 1,51 a 1,7 metros, pero longitudes de cabeza y cuerpo de unos 18 a 29 centímetros. Son medidas distintas. Comparar la altura de una persona con el cuerpo del murciélago sustituyendo longitud por envergadura resulta engañoso. Las membranas finas, extendidas entre dedos alargados, convierten un mamífero compacto en una amplia superficie de vuelo. [Fuente: animaldiversity.org](https://animaldiversity.org/accounts/Acerodon_jubatus/)"
+    },
+    {
+      "type": "heading",
+      "text": "El bosque detrás del espectáculo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos murciélagos descansan en árboles y buscan alimento preferentemente en bosque primario o secundario bien conservado. Su dieta sitúa la relación con las plantas en el centro del relato; los murciélagos frugívoros pueden transportar semillas al comer y desplazarse. Conservar un refugio no resume, por tanto, toda la protección necesaria. También necesitan hábitats de alimentación accesibles y un paisaje que permita moverse entre descanso y comida. [Fuente: animaldiversity.org](https://animaldiversity.org/accounts/Acerodon_jubatus/)"
+    },
+    {
+      "type": "heading",
+      "text": "Un animal amenazado, no un monstruo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El perfil de Bat Conservation International clasifica la especie En Peligro y describe los daños de perturbar sus refugios. La caza y la pérdida de hábitat añaden presión. Su alimentación de fruta nada tiene que ver con los relatos de vampiros que beben sangre. Una fotografía impresionante debería despertar curiosidad, no persecución. La cuestión decisiva es si quedan suficientes bosques intactos y lugares tranquilos para descansar. [Fuente: www.batcon.org](https://www.batcon.org/bat/acerodon-jubatus/)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectura relacionada: [El extraordinario aye-aye de Madagascar](/articles/aye-aye-madagascar-primate-tap-foraging/)."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fuente: www.batcon.org",
+      "url": "https://www.batcon.org/bat/acerodon-jubatus/"
+    },
+    {
+      "label": "Fuente: animaldiversity.org",
+      "url": "https://animaldiversity.org/accounts/Acerodon_jubatus/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Son del tamaño de una persona?",
+      "answer": "No. Una envergadura de 1,5 a 1,7 metros no equivale a esa longitud corporal; cabeza y cuerpo miden aproximadamente entre 18 y 29 centímetros."
+    },
+    {
+      "question": "¿Beben sangre?",
+      "answer": "Son murciélagos frugívoros muy asociados a los higos, no murciélagos que se alimenten de sangre."
+    },
+    {
+      "question": "¿Están amenazados?",
+      "answer": "Bat Conservation International clasifica Acerodon jubatus En Peligro. Preocupan la pérdida de hábitat, la caza y las perturbaciones en los refugios."
+    }
+  ]
+}
